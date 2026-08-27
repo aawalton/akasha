@@ -1,0 +1,205 @@
+---
+id: 0b520bca-b75f-5990-852e-062c1df68cfe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11: Mantis Cave Dungeon"
+slug: 0011-chapter-11-mantis-cave-dungeon
+partOf: the-gift-of-loot
+position: 11
+ownLength: 2412
+unit: words
+publishedAt: 2026-04-14
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3274326/chapter-11-mantis-cave-dungeon"
+royalRoadId: "3274326"
+---
+
+The Mantis Cave was located out toward Myers, which was a little town in the forest. Unfortunately, Thomas still had a bit of a hike to reach the spot. He wouldn't have been able to find it so easily if not for the handy map in the printed guide.
+
+The cave itself was on the side of a rocky bluff, and there was only one National Guardsman in front of the entrance. He was young, looked bored to tears, and visibly perked up as Thomas approached.
+
+"Hey there, are you looking to dive this dungeon?" he asked, as enthusiastic as if he were selling tickets.
+
+"Yeah, that would be me." Thomas looked around. "It doesn't seem to be very popular."
+
+"Yeah, and I don't get why more people don't come," the guardsman, who had a name tag that read Jacobson, said eagerly. "I think it's because word got out that one of the traps sprung and wiped out half of a party, but I'd say the dungeons like the Octopus's Garden and the Man-Eating Unicorns are a lot more dangerous, and they have lines for days. Well, not for days, but at least for a couple of hours at a time. I'm sure this one will pick up again. Just wait."
+
+This guy was definitely a talker.
+
+"Have you dived the dungeon?" Thomas asked.
+
+Jacobson nodded eagerly. "Yeah! Well, just once, and I was in a squad of five, and it was kind of gnarly, especially since we can't use our guns. Our squad leader gave us swords, but they just don't feel right, you know? I'd rather shoot. Hope they figure something out about that."
+
+Great. The guy was practically working for tips and risking his life in the process.
+
+"You know," Thomas said, "you can dive it yourself and do a lot better than fifty bucks worth of crystals."
+
+Jacobson broke into a high-pitched, slightly stressed-out laugh. "No, no, no. I don't want to do that without my crew behind me. That's how people die." He seemed to realize what he was implying because he quickly added, "Though I'm sure you'll do fine without a party of your own."
+
+Come to think of it, Thomas hadn't seen many people dungeon dive on their lonesome. He also knew and appreciated the fact that this man had a distinct lack of spine, or at least an enhanced sense of caution. Despite his single-party status, Thomas could relate.
+
+"Well, if you ever want to up your game, have you ever heard of the Crystal Flea Market?"
+
+He proceeded to give the interested National Guard soldier quick directions and a primer of what to expect. The internet might be locked down, but word of mouth was alive and well.
+
+"Thanks for that," Jacobson said. "I think I will check it out."
+
+By the gleam in his eyes, Thomas suspected that he was telling the truth.
+
+"There's a vendor that sells guidebooks." He held up his. "It's better than what you get on the internet. At least... I'm hoping so."
+
+He turned his attention to the dungeon entrance.
+
+"Well, I'm on shift for another five hours," Jacobson said. "You can tell me how it is when you come out."
+
+"Fair."
+
+He had procrastinated long enough, and since there was no line, he didn't have to worry about barging in on someone else's dungeon run. Time to get this show on the road. Thomas stepped forward into the Mantis's Cave Dungeon.
+
+In the safe room, he paused for a minute and glanced over the guide yet again. He'd already read it twice and thought he had a good handle on what to expect, but the amount of traps concerned him. His forewarning skill wouldn't help him out with those.
+
+Nothing to do but give it a try. He could always back out once he got the eyes.
+
+Thomas spent a few seconds equipping himself with his dagger and penknife along with his trusty maul. Then he entered the dungeon proper. It was darker than he had hoped. False gems glowed on the cave walls and provided the only light, but it was a sort of half-lit illumination that did not give much detail and created lots of deep shadows for ambush predators.
+
+A couple of steps in, he heard clicking from the darkness above, which gave away the location of the first mantis.
+
+Why bother announcing an ambush from above? Because at the end of the day, this was still a level one dungeon. He had to remember that while he had found the Demon Chicken and Octopus Garden dungeons difficult now, when he was eventually level two, or even level three or higher, they'd be insultingly easy.
+
+It wasn't all about combat practice, though that certainly helped. According to the pamphlet he'd bought, strength, reaction time, and even speed of thought were improved as someone advanced through the levels. Absorbing mana changed a person. Well, the pamphlets said "improved," but it was the same thing, really. And that fact would be disquieting if he sat and thought about it.
+
+But he had mantises to kill and eyes to harvest. His life had become so weird.
+
+Thomas took the last step forward, and the mantis dropped from its hiding place in the ceiling, just as the guide said it would.
+
+It was shaped exactly like the praying mantises he used to catch as a kid, except for several distinct and important differences: namely, this one was four feet long. Also, it was lime green instead of the color of golden summer grass, and it had blade-like arms and compound eyes that glittered like gems.
+
+The ghostly image of Thomas's skill showed exactly where it was going to drop, but forewarned by the guide, Thomas had already taken a couple of steps back. The mantis landed with its blade arms slicing down into any would-be victim. Since Thomas had backed out of range, it stabbed down into the sandy soil, where its arms were briefly caught. It had been going for a deep stab.
+
+What a nice little "hello" from the dungeon.
+
+Thomas brought down the maul, and in one swing, its head was chopped from its long neck. It had a dry feeling, like chopping through dry sticks. Well, the guide had mentioned that the mantises didn't hold up well to bludgeoning methods, so that checked out.
+
+The body twitched, legs and blade arms flailing briefly in death spasms. He had to watch for that too. Those spasms could drive the serrated arms into someone.
+
+Finally, after a few seconds, it stopped.
+
+Thomas prodded the body with a foot and rolled it away to reveal a singular brown mana crystal.
+
+He briefly remembered how diamond companies were trying to rebrand brown diamonds as 'chocolate.'
+
+Amused, he bent down. Maybe milk chocolate, he thought, looking at the coloration. His eyes must have been adjusting to the dim lighting because he effortlessly picked out more details.
+
+He bent to pluck it up, and when he did... something warm in his middle reacted with a warm buzz. Thomas straightened and looked at the mana crystal closely. The pull wasn't as strong as it had been with the healing crystals, but... it went a little deeper.
+
+My spirit reacts to earth gems, he thought.
+
+That was interesting, but not necessarily something he wanted to explore. He already wanted his foundation to be something a little bit more exotic than the earth, fire, air, and water choices.
+
+"Into the bag with you."
+
+Now for the other part of the treasure.
+
+The mantis's head was... gross. Green ichor practically poured from the cut Thomas had made, more than he thought would be in a bug's body. The mouth was horrific, too. There were no teeth, but it was filled with grasping, claw-like mouthparts that were made for grinding up prey.
+
+It was one thing when the entire mantis was as long as his thumb, but when those parts were the size of a fist... Thomas shuddered.
+
+Holding it gingerly, he took out his curved dagger and tried to insert it between the compound eye and the chitin head. It wasn't that easy, and there seemed to be no easy way to pop out the eye.
+
+He turned the head this way and that and saw how the eyes caught the dim light and glittered. They were each the size of a large egg and might have made good, if gaudy, jewelry.
+
+Not finding an easy way to harvest the thing, he tried again with his curved dagger. His frustration made him sloppy, though, and when the dagger scraped across the eye, it shattered exactly like glass.
+
+"Oh, shit."
+
+He hopped back, surprised, and then grossed out because more ichor splashed all over him.
+
+Thomas grimaced, but luckily, the mantis had two eyes. So he crouched down and tried again with the second eye, determined to take his time.
+
+Crunch.
+
+Same result, and this time some of the goo splashed him right in the face.
+
+"Ugh."
+
+He wiped his mouth on his sleeve, but he could smell the stuff, and it was gross.
+
+Luckily, there had been nothing in the guide about mantises being poisonous, and that was something to consider, because apparently there were dungeons where that was a problem.
+
+Frustrated, he tossed the head away.
+
+"Okay, that's not the end of the world," he told himself. After all, he was in a cave full of mantises, and he only needed three eyes. No big deal.
+
+Thomas quickly pulled out his guide, which now also had a little bit of ichor on it. Yuck. He consulted the next room.
+
+The next mantis was hiding in a shadow right around the corner and was really good at flicking out bladed arms to stab someone just as they were coming around the corner. So he extended the handle of his maul and waved it around, hoping to get its attention.
+
+Oh boy, did he get it.
+
+The second the mantis saw the tip of the handle, it struck.
+
+They weren't very bright.
+
+Thomas had no time to reverse his grip, so he aimed his strike with the penknife. He'd only have to get one good hit on it. He stabbed down like he was a serial killer in a B movie, stepping to the side when his combat foresight told him that the mantis was going to slash again.
+
+He hit it in the chest—thorax, whatever—and just like the octopus, it immediately died, and died horribly, as if something vital had been sucked out of it.
+
+The hilt of the little gem in his penknife now showed a delightful mossy green.
+
+I have the opportunity to do something very interesting, he thought, and carefully, very carefully, stored the penknife away.
+
+The second mantis also provided a C-Grade brown mana crystal. Thomas added it to his backpack with the other one. Then he bent down and went for the eyes.
+
+Crunch.
+
+"Damn it."
+
+Crunch.
+
+"Damn it!!!"
+
+Okay, that was a bust. On to the next.
+
+By Thomas's fifth mantis and tenth eye crushed, he was starting to think that this job was harder than the alchemist had let on. He should have been tipped off by the staggeringly good reward of three healing mana crystals.
+
+Harvesting the stupid eyes was impossible.
+
+There had to be a trick to it, but he couldn't figure out what it was. Just in case, he read the guide once again from front to back. The eyes weren't mentioned at all.
+
+In pure desperation, Thomas went to the official government guide saved on his phone. The details were a lot sparser, but there was a single mention of the eyes.
+
+Mantis eyes are harvestable.
+
+"Thanks. Super helpful."
+
+The government guide was worth exactly the no money he had paid for it.
+
+Maybe you need some kind of harvesting gift or alchemy gift, he thought, and that gave him an idea.
+
+Thomas eagerly went for the next room, which had, unfortunately, two mantises at once. The printed guide suggested knocking one into the other.
+
+They charged straight for him, with no subtlety or attempt to hide, their bladed arms raised. Luckily, Thomas's maul had a longer reach.
+
+He swung with the hammer end, and with a dry stick snap, one mantis was knocked right into the second one. Textbook perfect.
+
+The mantises weren't completely down yet, though. Just to make things a little interesting, Thomas jumped forward and jabbed down with his penknife. A ghostly image of the last mantis he had killed with the knife leaped out of nowhere and attacked his enemy. He had found this an effective combat method. He would kill one using the penknife if he could, and then on the next hit, use its ghost or whatever to help distract or kill the other one. Then rinse and repeat.
+
+He found it a little more to his taste than swinging the maul around, though the maul had its uses.
+
+Either way, with the ghost mantis providing distraction, Thomas was able to finish the other two off up close with his curved dagger. The dagger's blade was sharper than the maul and parted the hard outer chitin like butter.
+
+Then he pulled the piece of paper with the job offer out of his pocket, checked it, then nodded. He separated the heads from the bodies, and then, with a grimace—because the heads were practically pouring out ichor from the neck even though he had let them hang for a couple of minutes—he dropped them into his backpack.
+
+The alchemist would get his eyes, but the job offer did not require that Thomas be the one to extract them. He'd have to dig them out of the heads himself. And just because Thomas was a nice guy—and the mantises had two eyes each—the alchemist would be getting one eye for free.
+
+Actually... there was room for a couple more heads in there if he put the mana crystals in the side pockets.
+
+Thomas considered that and then remembered he had almost forgotten his loot for the kill here.
+
+The first mantis body had two small brown mana crystals. Nice.
+
+The second...
+
+Thomas rolled the body away and stared.
+
+A green crystal lay under the body. It was a smoky, thin green. Probably a low grade, but green wasn't air, water, earth, or fire. This was something different.
+
+And when he picked it up, his soul practically rang.

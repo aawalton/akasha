@@ -1,0 +1,403 @@
+---
+id: 09c87408-4199-566c-a0bf-b8a7ce7bffa8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 224: Rout"
+slug: 0149-chapter-224-rout
+partOf: the-calamitous-bob-stubbed
+position: 149
+ownLength: 5374
+unit: words
+ownProgress: 5374
+publishedAt: 2025-10-10
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2666198/chapter-224-rout"
+royalRoadId: "2666198"
+markedReadAt: "2026-06-29T21:19:43.779Z"
+---
+
+Viv flew over the devastated remnants of the Sandsong army. Light cavalry had attacked them from the dunes, their paths allowing them to fight well on sand. Islands of resistance had formed to break through, but the road was still littered with the dead and the dying. They were all beyond her help.
+
+She stopped to launch an astra swarm around the last large convoy approaching the portal, this one carrying so many wounded, those who could walk had to carry those who couldn’t. The breathing room was enough for them to make a run for the still-open way out.
+
+Knights on foot and Sandsong soldiers helped carts push through while the One Hundred had formed a ring of steel around the passage. A first cavalry charge must have tried to break them but from the corpses on the ground, the One Hundred had cut them to ribbons. Now Nero’s soldiers had dismounted, engaging the Harrakan rear guard on foot. Predictably, they were being cut to ribbons again. Viv kept her eyes and senses open for the two insane fuckers but it looked like destroying a near-artefact shield that was an important part of Nero’s fighting style had dampened their enthusiasm. It wouldn’t last. Fortunately, getting bombarded by black spells caused the light cavalrymen to disengage. Their flowing formations broke down into a mess of single horsemen like a flock of minnows taking off. They were so spread out that she gave up trying to attack them. With this, Viv covered the last of the Sandsong, then the One Hundred as they pushed through the portal.
+
+The other side was utter chaos. The Sandsong capital would have been a view at night with its beige stone buildings lit by countless braziers, but now disorder reigned and it wasn’t the fun kind. People screamed. People ran. It smelled like blood and fear. Panic spread on the wings of bad news. Viv flew up, causing another wave of terror. She had to do something before the retreat turned into a stampede.
+
+[Aspect of the Paragon]
+
+“Enough. You are safe for now,” she said.
+
+She shared her confidence. They were safe, for now. Most of the running stopped, especially after Sidjin closed the portal. Quite a few wives and husbands wailed, and Viv had to assume their loved ones had failed to cross over. Leaving the field while there could still be people to save left a bitter taste in her mouth. Unfortunately, as the saying went, Vae Victis. And Viv had lost this time. She simply couldn’t afford to die here either, which meant acting now. Viv flew up, noticing a crowded pier to her north. There was a tall lighthouse to her left, and warehouses everywhere else. They were very close to the shore.
+
+Bes waved at her from a nearby street. She needed more info before she could decide what to do. The One Hundred stood by while the knights recovered their horses from a group of scared city guards. Bes bowed properly when Viv stepped on the dry stone. No falling kingdom could make him act without propriety, it seemed.
+
+“Report.”
+
+“We cannot receive or buy the supplies we need because the harbormaster will not release them without royal approval.”
+
+Shit.
+
+“I do not see the royal couple, Your Grace. Were you separated?” Bes asked with a frown.
+
+Actually, she realized the news hadn’t spread yet, though it wouldn’t be long before someone noticed they were missing. Viv was the only remaining witness of their demise, on her end.
+
+“They’re dead,” she said in a low voice. “Oleander got to them.”
+
+Actually, shit that might become a problem. Viv had crossed the portal and closed it. Nobody had seen Oleander, or the royals. Someone might jump to conclusion, as people tended to do when they were terrified. Taking the initative would be wise. She searched the bay as well as her brain for ideas. She found one.
+
+“This is Kass’ ship, the one I sailed on to come here. Where is he?”
+
+“All the notables are currently gathered in the palace. They might already be on their way here.”
+
+“Right. Go find Sidjin and tell him to have our people board the ships.”
+
+“Food will be lacking if we depart now.”
+
+“Hopefully, it won’t come to that.”
+
+Viv took off again. Spell singers surrounded her soon, a few ordering her to land while others — survivors from the front — told them off for it. One of them tried to approach, swallowing mightily behind his veil. Viv simply used intimidation.
+
+“Back off.”
+
+He did. One of his allies screamed something about him not being a dragon. She didn’t follow. There was movement in the distance. Viv hurried there. She felt like she’d been hurrying around a lot recently. Some nobles were walking down the street in a wide front, guards clearing the way when their leadership didn’t suffice. A semblance of order was left in their wake. She hesitated then, unsure about the best way to operate. Well, they would want answers, and it would be better if they came from her and didn’t start with ‘the foreigner closed the portal with our leaders still on the other side’.
+
+When she did, the line of nobles stopped. Those were men and women in fineries, with few warriors. Captain Kass came to the forefront when she waved at him, but the others stopped in a half circle that was, if not hostile, at the very least challenging. Viv knew they weren’t going to be happy with her, so she steeled herself. There would be no weakness in her appearance.
+
+“You. Explain yourself,” a woman in a jeweled turban demanded.
+
+Viv gave her a glare and two seconds, a courteous warning considering the circumstances. It was the right decision as another man berated her.
+
+“Do you not see that this is the Empress of Harrak? The one that archmage was talking about? This is no way to talk to an ally.”
+
+He turned to her.
+
+“Forgive us for we face dark days, and concerning news. What of the front?”
+
+Viv opened her mouth, closed it, then asked a question instead.
+
+“What do you know of recent events?”
+
+“Messengers came, saying you had slain the dragon,” a priest of Enttiku whispered. “Is it true?”
+
+“It is,” she said.
+
+Bearing the appearance of the Paragon meant that they could taste her soul and see that there were no deceptions. Perhaps it would be enough.
+
+“And what of the pass? Of Barrier?”
+
+“Unfortunately, the Sheem came in great numbers alongside two of Oleander’s inner circle.”
+
+She was pretty confident someone called the Hopecrusher who carried Nero’s shield and the man who created portals for them were rather important.
+
+“We could not hold them back. We retreated from the pass, but were attacked on the way by the enemy cavalry. Oleander was here in person.”
+
+“What of Jei and Naila?” Kass asked. “What of our King and Queen?”
+
+“They were holding the rear, I…”
+
+There her voice faltered. Those people were just so filled with hope and anxiety and she was killing that hope… and she hated it.
+
+It had been so long since she’d so utterly failed at something. It didn’t matter at this point that no one on the planet could have succeeded. It wouldn’t bring back the dead. It wouldn’t comfort them.
+
+“I was too late. Oleander killed them both.”
+
+And then she said something no sovereign should ever say.
+
+“I am sorry. Naila, I, she was still…”
+
+Cries spread through the street, echoing those that still rang behind them on the square where the portal still sat. Kass approached Viv, grabbing her shoulders between his calloused hands.
+
+“No… no, but I asked you here and you came. You agreed. You said you’d help us.”
+
+“I killed the dragon. I stopped the Sheem. But Oleander and Crest… I couldn’t stop them.”
+
+Kass took a step back, his hands falling by his sides. He suddenly looked much older.
+
+“What do we do now?” the bejeweled woman asked. “Without them, and if the pass has fallen…”
+
+Well…
+
+Viv set up a privacy screen. She had to set expectations quickly here.
+
+“I am leaving Vizim. I cannot stand against Oleander here. Sandsong cannot either. I advise those who are willing to submit to him to do so, as I expect he will be merciful. Those who want to fight can come with me with whatever ship you have. Those who stay to defend Sandsong will die. Captain Kass…”
+
+“Yes?” the man said, still stunned by the tragic news.
+
+“Naila’s daughter has been evacuated. You should probably find her quickly.”
+
+“Little Mimir? Yes, yes of course…”
+
+“While I expect Oleander to offer mercy to those who bend the knee to him, I’m not sure he will spare someone who might endanger his rule.”
+
+Maranor was a light deity but she wasn’t a kind one, and for her and her followers, the ends often justified the means. Viv wasn’t sure where Oleander fell on that.
+
+She would be angry but memories of her history lessons surfaced in her mind. It was very common for cities of ancient Earth to be devastated if they fell to a siege. The men would be slaughtered, the women and children enslaved. By comparison, Oleander wasn’t a monster. He was just a megalomaniacal, expansionist asshole.
+
+“He wouldn’t kill a royal child?” Kass whispered, shocked, but that was just grief talking.
+
+The other politicians spared him a pitiful glance. Of course someone would kill a prince or princess to avoid a future uprising.
+
+“Are you sure you could not have saved our leaders?” one of the warriors asked.
+
+And here it was.
+
+“I promise you that I didn’t leave them in harm’s way on purpose. We never thought Oleander would be so close he could just teleport to the back of our formation. The Sheem were retreating after we bloodied them badly. I also warned them but…”
+
+She shrugged.
+
+“It happened very fast. I flew back as soon as I realized we were under attack… which leads me to my next point. Oleander is coming. We need to leave within a day. I request provisions to sail away.”
+
+“And now you’re leaving? Abandoning us?” the bejeweled woman asked, voice rising.
+
+Her fear felt genuine. Viv raised both hands, letting her leadership bathe those people with her confidence.
+
+“Stop. Look at me now. I killed the dragon.”
+
+The memory of the revelation shocked them again into silence.
+
+“So believe me when I tell you this: we can’t stop Oleander. The war isn’t over. In fact, it’s just starting, but he has already won this round. This isn’t the first time I’ve retreated from an enemy army. It won’t be the last. What matters is who’s left standing at the end, and at what cost. I cannot stop this city from falling. I can, however, prepare for the next battle and save the lives of those who would fight it. My ships can take three hundred people away from the Sheem. Your ships can bring more. They will find shelter in Harrak, if they wish… but you must hurry. Every minute counts. Talk to your people, decide who stays, and who leaves. And give me access to supplies. We’re all going to need it.”
+
+“I will come,” Kass said with grim confidence. “I will grant you the right to supplies —”
+
+“The warehouses are under my purview,” a sharp-nosed man interrupted.
+
+There was awkward silence while the two men glared at each other.
+
+“And you will get those supplies, Empress of Harrak, if you will take my family.”
+
+“Agreed,” Viv said.
+
+“What of my son?” Kass suddenly asked.
+
+“Janar Sin is alive. He should be on the square now. Possibly with a suitor. Lady Mar of Ravinport.”
+
+“That is… good news,” the old man replied with a sigh. “Many of our sons and daughters have fallen. But not all is lost.”
+
+“Oh that reminds me. Anyone who fights for Harrak gets their limbs regrown free of charge,” Viv added as an afterthought.
+
+“What?”
+
+“You can regrow limbs?”
+
+“Yes, although it will have to be when we have more time and I need a priest as well.”
+
+“Time is of the essence!” one of the warriors said, but another erupted with anger.
+
+“So that is it? You are going to throw away all the sacrifices, all the efforts our parents have made so we could be free? I will be on the walls with the rest of the true men and women of Sandsong, you cowards.”
+
+“Suit yourself,” Viv replied.
+
+She floated off which was, in her experience, the best way to get out of unpleasant social interactions - except for defenestration, of course. Sidjin was still on the square where she’d left him, by the now closed portal. It had been defaced with additional runes.
+
+“I made sure Crest won’t be able to open it from his side,” he said. “He can still move fast. How are we otherwise?”
+
+“News of the royal couple’s demise has broken and panic is spreading. There was some looting but the guards put a stop to that.”
+
+“We’re evacuating. Get back to the ships when you deem it safe.”
+
+“Then I’ll go now, and help with levitation spells.”
+
+In the next half an hour, Viv had the knights board one of the Harrakan warships. The newly made vessels looked rather fearsome, and almost otherworldly here with their Earth frigate designs, but they were still warships and not transports, so getting more people on board would require some effort. The supplies arrived with the first families in the dead of night. Guards had to prevent people from rushing the ships once news of the imminent fall spread. A lot of silver changed hands between midnight and the early hours of the morning as people decided their futures. As soon as a ship was loaded, it left the pier, dropping anchor at the edge of the bay. Viv realized she would be slowed down by their weight and the fact many of the Sandsong refugees were aboard merchant ships. Those were not designed to cross an ocean. And they would be slow as well. Anxiety reached for her heart with cold fingers. How close were the other two fleets? Sidjin flew up, ready to alert them but so far, the coast was clear.
+
+If she had to leave some people behind, would she do it? Thankfully, nothing jumped them as a mismatched flotilla slowly assembled on the bay, Viv’s flagship “Sword of Neriad” being the last one to leave. Behind them, the Sandsong capital was a scene of grief and consternation. A manor burnt in the distance, the flames left unattended. Some people were praying on the quay though Viv didn’t know who for. She knew a group of determined defenders had decided to gather by the main gate, and that they wouldn’t live to see the sun set. Some nobles would wait for the invaders in the palace to discuss their terms of surrender and cooperation.
+
+The flotilla was a little bit better than she’d feared. In addition to the five Harrakan warships, there were two from Ravinport and a dozen from Sandsong, all fully manned and ready to fight. It would still not matter in the end. They were sure to be completely outnumbered. Avoiding combat was the best solution, but at least they might give fast raiders pause.
+
+There was also the Harrakan secret weapon.
+
+Viv sighed. She wished she could have saved Naila and Jei. Then maybe she wouldn’t feel like she’d completely failed the Sandsong.
+
+The fleet left as the pink fingers of the aurora just touched the sky. Curiously, she felt something tug at her chest as soon as they were out of the bay, so she waited a few hours, until Sandsong was just a line on the horizon before deciding they were safe enough. She signaled to Sidjin. They both leaned against the balustrade, looking at the land disappear in the distance.
+
+“I need to path up,” she told him.
+
+“You what?”
+
+Oh yeah, she hadn’t told him yet.
+
+“Oleander is the other Ascender. Now that we’ve met, we can both take another step.”
+
+Sidjin gave her a long look.
+
+“You know this is a momentous occurrence, right? Someone reaching the fifth step is a national event in most lands.”
+
+“Uh. I don’t think I remember either Solar or Irao mentioning that.”
+
+“You mean the wandering swordsman who lost his arm and the lone assassin who dislikes public attention?”
+
+“A fair point. Anyway, the fact Oleander didn’t follow probably means he retreated to path up himself. If he comes after me now and there are two steps between us, we’re doomed. I need to get this done immediately.”
+
+“I understand. I will be keeping watch while you proceed. I will also be stewing in my own annoyance.”
+
+“What, why?”
+
+He rolled his eyes, though he was still smiling.
+
+“When we met, you were on the third step and I was the mentor. Now our roles will be reversed. I feel inadequate.”
+
+“I’m sure you’ll get plenty of opportunities to path up in the near future.”
+
+“Yes, because we will be caught in a massive war.”
+
+“Silver linings, right? Anyway, off I go.”
+
+“Rest assured that I will protect us.”
+
+Viv clambered down the steps, finding her cabin next to the captain’s. She crashed in the tiny bed while still in full armor. It creaked a little.
+
+“Alright. Let’s do this.”
+
+There hadn’t been much time to think but Viv was certain about her final choice. Obliteron was sadly discarded. She was confident she could already kill anything short of a god with her advanced repertoire. And the forbidden one. What she needed was to survive until she could cast it.
+
+Viv was going to pick the Cataclyst.
+
+Her reasoning was that among the two excellent options she had left, Cataclyst would serve her better because it was basically cheating. The Celestial’s portals would be of tremendous use, as would more powerful colorless mana spells, there was no denying it. Hells, she could probably solve the entire fleet problem right now by opening massive portals to carry them kilometers away right until the point she could just plain portal them to a Paramese port. The issue was that she already had portals and those could already be opened by three people by now: Rakan, Sidjin, and herself. New, more powerful portals would provide a significant but ultimately not game-changing impact compared to manipulating fate.
+
+On the other hand Fate magic was the domain of dragons and the Nemeti, but it was also fickle and excessively difficult to use according to what Arthur had told her. It was so complex, in fact, that most casters spent more time observing than trying to pull strings, and that was true for older dragons as well. She would gain an instinctive understanding of it, meaning she could use it not as a set of spells but rather as an innate talent. This was obviously bullshit of the highest order. She would also be the only human ever to obtain this. Emeric had sired other children before she inherited the spark of luck, but none had reached her level. There would be no one contesting her the ability to nudge things her way, and according to the description, it would work in duels as well as in battle, and logically also for larger events.
+
+Her only issue was that it felt like something that was a little out of her control. In order for her to pick the right decision, there needed to be a possibility for victory to begin with. No amount of random stuff could possibly stop Oleander from taking Vizim, for example. She was hoping her allies and resources would be enough.
+
+With only moderate confidence in her choice, Viv accepted the prompt, and closed her eyes.
+
+***
+
+The in-between.
+
+It had been a long time since Viv had visited, longer than usual. The in-between had become a place of calm and meditation. Now. something occupied the infinite expanse of emptiness she was used to. It was diffuse, but she knew it was there. It felt familiar.
+
+She bobbed a bit, checking to see if there was anything unusual.
+
+“I know you’re here,” she sent.
+
+The expanse didn’t reply. Instead, it contracted, became denser until there was the emptiness, and a cloud in front of it. The cloud was impossibly massive, but as it contracted the presence felt stronger.
+
+“Nous?”
+
+Where other gods were stars, Nous was a distant nebula, or a cloud of dust not yet collapsing into a new celestial object. It took, as always, an infinitely long amount of time but also only moments for a thought to return to Viv.
+
+“Hello. I apologize for the delay. It has been a very long time since I have had to manifest.”
+
+“Not quite dead yet, I see.”
+
+“I cannot explain if I must only use concepts you are familiar with. It does not matter right now anyway. I will be the one to welcome you.”
+
+“I admit to being surprised. I thought it would be someone else.”
+
+“Maranor already officiated your rival’s ascension. The other gods wanted to attend yours. Unfortunately, they are locked in conflict right now.”
+
+“They are fighting?” Viv asked with worry.
+
+“No. Not in a way you can easily conceptualize. Maranor has made a stand. The others are delivering their response. She was always the most stubborn and impetuous of us all.”
+
+Regret tinged his thoughts. Viv could only imagine the kind of history he had been a witness to.
+
+“Maranor has made a gambit. She will unite all of humanity under her champion, and then claim the vacant throne. We have refused to support her attempt.”
+
+“What, all of you? I’m surprised. I didn’t imagine that Emeric would be so popular, especially after he left.”
+
+“Sometimes, it is better to have no ruler than a terrible one. Neriad was the first to refuse. He asked her what would happen to Efestar under her rule. That was his first and last question.”
+
+“Ah.”
+
+“Yes.”
+
+The nebula shifted, its colors growing lighter.
+
+“Enough about us. I am here to welcome you now that you are on the threshold. You can guess what will happen at your next step up.”
+
+“Will I join you?” Viv asked, feeling guilty for her hubris.
+
+“Yes.”
+
+“Ah, alright. I wasn’t honestly sure how it all works.”
+
+“There are no rules to godhood, except to mark the world to such an extent that it acknowledges you. Two visions are in conflict now, two outlanders on a collision course. It does not matter that you could, in theory, make peace at this stage. Split power. The world will not allow it. Your decisions have placed both of you on either side of a chess board, and only one will be left at the end. Only one ruler will triumph. The other bearer must die.”
+
+Viv wasn’t exactly surprised. She didn’t think Oleander would let her live anyway.
+
+“This is the last great war for you,” Nous continued. “You have solved Nyil’s crises faster than it could grow them. You have collected too many tools, forged too many alliances, and rallied too many experts to your cause. Those who fear your power will throw all of their might against yours while the rest will gather around you to stop Oleander. I believe I do not need to tell you how the Hadals, the Kark, your friends, and Efestar’s people will fare under the new rule. What you built will be shattered.”
+
+“I am well aware of his methods.”
+
+“That is not all. He will install a regime whose sole purpose will be its own continuation. Order at any cost will prevail. There will be no one to upset the balance from outside because there will be no outside. All of humanity is concentrated in this fragment of the planet. No one will come to your aid. No one will upset the balance. The men and women living under Nemeti rule are already broken. The rest of them might follow, and then, there will be no hope left, for there will be no one capable of besting Oleander in combat.”
+
+“You don’t have to convince me,” Viv said. “Humans need order like a fish needs water but I believe, as a civilization, that we can do better than that. I think we could get happiness as well. I will not allow him to trample everything we’ve built for his pathetic status quo. Now, I believe there was something about ascension. Does it mean I’ll be the new goddess of luck? If I path up again, I mean.”
+
+“Is Neriad the god of swords and shields? No. Those are your tools. Your cause is your domain. As for your path up, it is almost done.”
+
+“Good. I need to get back.”
+
+“It pleases me that I have no need to warn you. You already know yourself. Then I wish you… good luck.”
+
+The nebula chuckled, but it was short.
+
+“Remember, Viviane the Outlander. You are not alone. You are never alone. We, the remaining gods of light, also support you. When the time comes, we will lend you our aid.”
+
+“I know I’m not alone. Oleander is going to rush after me to try and finish me off, but when he comes to Param… I’ll give him a warm welcome.”
+
+“Then it is goodbye for now. Try not to be on the verge of death too often. I have already used my causality trump card with that Vandal trick. I won’t be able to do it again.”
+
+“It’s going to be fine.”
+
+***
+
+The light of dawn shone on the gardens and stone houses of a Sandsong village on the outskirts of the capital, but they were silent. The people had fled the encroaching army the day before. Upended carts and broken pottery remained behind, quiet signs of a recent exodus. The invaders now stood in tight ranks on the empty fields: two legions of shadowlanders and one of Sheem, complete with baggage, cavalry, siege engines pushed by Sheem engineers and mage cadres, some flying overhead and some standing at attention in their elaborate robes. Sea shamans and priests walked among the troops, praying aloud. All of this mass of mankind waited in front of the king’s massive tent, eyes fixed on the vanguard and Nero Oleander’s most dangerous lieutenants: Jar’ko the Undying, Celerin Crest, Aragan of the One Breath, the Hopecrusher, and many, many more, each one a warrior of legend whose tales were told around campfires. It was the Hopecrusher who addressed them.
+
+“Hear me, children of men! Today, we finish the conquest of Sandsong. Today, we achieve what no one has done before: uniting the nations of two continents under a single rule. And today, we do so under the Champion of Maranor, the manifestation of her will, order and discipline incarnate. He will lead us to greatness. He is your sovereign. Submit to King Oleander… the Immortal.”
+
+Tent flaps swung open. A man walked out, so tall and handsome, and with such presence that most would take him for an avatar at first glance. Curious, soldiers in the crowd inspected him. Gasps spread through the ranks.
+
+[Immortal: Sixth step of the path of Maranor’s Champion. Leader of men. Master melee fighter. Divinely resilient. Monster Bane. Man Bane. Beastling Bane. Dragonslayer. Conqueror. Chosen of the Goddess. King of the Shadowlands…]
+
+The description went on, and on, and those who had not dared to look did so as their questions fell on deaf ears. Some people began to prostrate.
+
+The king opened his hands, silencing thirty thousand throats. Those who stood close felt the ghostly clutch of fingers on their windpipe. They kneeled, and they became quiet. Order was imposed. Ranks tightened. Spines straightened. All those who’d come to fight, all those who believed in the cause knew they were in the presence of greatness. They knew they were witnessing history, no, legend, being made before their very eyes. When the king spoke, his voice reached to the farthest rank with absolute clarity.
+
+“My people. We are no longer Vizimans or Shadowlanders, for we are now united under a single banner, and devoted to a single purpose: to unite mankind once and for all!”
+
+The roar shook the sand. The glint of sun on steel announced the dawn of a new age.
+
+“Sandsong is the last bastion of disorder in Vizim. We will take it, and then we will sail south to Param, where I came into this world, to finish the fight.”
+
+The men and women of the army leaned forward, for any piece of knowledge about this grand leader was as valuable as gold. They could tell everyone home that they’d heard it firsthand.
+
+“When I arrived, I beheld a sundered world filled with bickering nations, all of them more eager to take from each other than to claim our destinies as the inheritors of this world. I beheld endless conflicts, arrogance, injustice, greed and petty squabbles that inevitably led to bloodshed and the deaths of innocents. They have not changed. They are as unruly now as they were when I turned my back on their machinations, crossing the ocean to find a better way. Oh, the Paramese are strong. They have the best land, after all: green hills as far as the eye can see, iron, horses, but they are weak. They are decadent. They are fractured. We are not, and we will bring them to heel!”
+
+Another roar, this one bloodthirsty.
+
+“Once we are done, there will be no more wars, no more corruption. Justice and a chance to do better will be granted to everyone regardless of status. We will rise above our lot and grasp the future with our own hands, and I will lead you as king. King Nero Oleander, of the Kingdom of Maranor. And as I rule over mankind…”
+
+He pointed his finger up. Flags unfolded, revealing the holy sword of the Slayer Goddess on a field of white, red, and black.
+
+“She too, will rule over the gods.”
+
+A crimson light descended from the heavens, overtaking the colors of the morning like so much blood about to be spilled. The goddess had looked down and bestowed her personal attention upon the mortal who carried her ideals. Ruby-colored wings expanded from the king’s back, and though the people didn’t know what an angel was, they could feel divine essence seeping into the mortal world. Oleander rose above them as the feet of his cape grew dark, showing the shape of warriors locked in deadly struggle, and when he pointed his sword south, the people cheered.
+
+“To war.”
+
+***
+
+“I’m awake,” Viv said.
+
+She was still in her bed, Bes standing at her side with his impeccable discipline. She ignored the flurry of blue screens assaulting her sight, focusing instead on her soul senses. Something was expanding vastly, reaching far and wide. She felt a flow of sorts. Mana sang in her veins, more powerful than ever before. She felt more defined, more present.
+
+Bes fell to his knees.
+
+“I can… feel your presence,” he whispered. “Like another sun. Magnificent.”
+
+“Thanks I get that a lot. Now I’m going to assume things have gone to shit so just tell me how.”
+
+“Your Majesty, you have returned to us just in time. The Nemeti fleet is in sight. To our southwest, surprisingly.”
+
+They were between her and Harrak. Something pulled on her chest, again. She could recognize it now.
+
+Fate magic.
+
+She could feel the threads, though she couldn’t see them. The Nemeti had a lock on her. They would follow her until they died.
+
+“Gods dammit. How are the preparations going?”
+
+“Poorly, considering the Shadowland fleet is to our east and gaining. There are hundreds of ships, Your Majesty.”
+
+One day she’d wake up and the world would be at peace. And no one would petition her for guild rights. And there would be croissants. One day.
+
+“Alright, let’s get ourselves out of this mess.”

@@ -1,0 +1,161 @@
+---
+id: 8dc38301-4204-5297-b670-a9682fd11467
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8: Coming Out a Winner"
+slug: 0008-chapter-8-coming-out-a-winner
+partOf: the-gift-of-loot
+position: 8
+ownLength: 1517
+unit: words
+publishedAt: 2026-04-08
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3248589/chapter-8-coming-out-a-winner"
+royalRoadId: "3248589"
+---
+
+It was coming on toward evening, and the setting sun over the far western mountains was painfully bright in his eyes. For a moment, all he could do was stand there and blink.
+
+"Sir? Sir."
+
+A National Guardswoman spoke sharply when Thomas didn't react the first time. She visibly relaxed when he turned toward her.
+
+"Uh, what?"
+
+"Do you need medical assistance?"
+
+Oh. Right. The blood on his hands. "No, this isn't... mine," he said awkwardly.
+
+She gave a brisk nod. "Then welcome back. Step over here, please, and we will get you checked out."
+
+She pointed him to a canvas-sided tent about twenty feet away. As he walked over, he glanced at the line for the dungeon's entrance and saw it was still hours deep. If anything, the line had grown longer as people got off work.
+
+This was a popular dungeon. Must be for the C-grade blues, Thomas thought. It certainly wasn't for the monsters.
+
+Though he supposed a second run would be a lot easier now that he knew the octopi's hiding spots. With good drops... yeah, actually, he could see why there was a line.
+
+He was quickly ushered into the tent. Inside were two folding tables, with one National Guardsman taking notes on a laptop. A woman in her forties stood ahead of Thomas. She had a sensible hiking pack and only gave him a brief look as he walked up. She wasn't covered in blood, and he wondered how she had managed to get by the boss.
+
+"What loot do you have to declare?" the army guy at the laptop asked her.
+
+She murmured something Thomas couldn't hear, obviously trying not to advertise her gains. He wasn't the only one who wanted to keep things quiet.
+
+"We'll need a quick bag search to make sure," laptop guy said. "You don't have to sell us your loot. We're only making a survey for this dungeon's drop table."
+
+And, of course, the loot would be attached to the dungeon diver's name. So if someone had, say, a gift for luck or loot... that would show up, Thomas noted sourly.
+
+The woman shrugged, calm and cooperative, and unslung her backpack. From it, she provided three C-grade blue mana crystals, as well as a healing crystal.
+
+"All right," the laptop guy said. "Stand to the side, please."
+
+Two more guardsmen stepped up. One did a quick look through her bag while another ran a handheld scanner over her that looked like a modified metal detector. It beeped when it reached her waist.
+
+"You have something else from the dungeon. What is it?" he asked.
+
+The woman scowled and brought up what looked like a seashell, only with riotous yellows and reds.
+
+"I got this from the boss. I don't know what it does yet, but it doesn't seem to be dangerous," she said pointedly.
+
+"That's fine. Once again, we're not going to take the loot from you," the guardsman said with a sigh, as if he had repeated this many times throughout the day. "Place it on the table next to the crystals, please."
+
+She did and underwent another quick scan. At the end, the man grunted and stepped back. "The good news is you have no camouflaged passengers."
+
+"Of course I don't," she said. "I counted out thirty kills."
+
+"You'd be surprised," he replied darkly.
+
+Then he ran his scanner over the loot. The scanner gave a high squeal as he moved it over the shell. The man's eyebrows rose.
+
+"You're going to want to bring that to the government marketplace. I don't know what it is, but the way this thing just went off—you'll get a fair penny for it."
+
+"I'll think about it," she said blandly, in a way that said, "Go to Hell."
+
+Meanwhile, another guardsman motioned for Thomas to approach.
+
+He decided to mirror her energy—calm, a little bored, and cooperative. He gave his name and social when asked, then began to pull out his weapons.
+
+"I'll show you my daggers first, just so there's no excitement. Got these from a store in Sacramento. They didn't come from this dungeon. And this is just a regular maul—it's my primary weapon." He flashed a grin at the guardsman, like he was the type of guy who enjoyed knives and bladed things, trying to cultivate an air of, yeah, sure, I totally know how to use these. "And this is my haul from the dungeon. Ignore the canteen."
+
+He spilled out the contents of his backpack.
+
+"You got white air crystals from the dungeon?" the guardsman asked.
+
+"No, I saw him trade that for his place in line," another guardsman called back.
+
+So they really were paying attention.
+
+"Yep," Thomas said, still cultivating calm, even though stress made his headache spike so much he could practically taste it. "All the blues are from the dungeon. This baby was from the boss," he added, pointing out the larger blue crystal, "and this was my exit reward," he said, glancing at his healing crystal.
+
+"That's a good haul," the guardsman said. "Jeffers, mark that down."
+
+Meanwhile, someone came up behind him and started scanning him. Thomas pretended not to notice, and his bag got a quick look through.
+
+Thankfully, they didn't scan the bag. He thought that looking for "passengers" from the dungeon was probably just a story anyway.
+
+"Says your gift is sensory enhancement?" the man at the laptop called.
+
+Thomas raised his eyebrows. "Yeah, I notice more the more enemies I kill in there, but it goes away when I leave the dungeon."
+
+"You think the range is extendable?" the guardsman asked.
+
+That was a specific question.
+
+"Don't think so," Thomas replied. "It does get more detailed after I make a kill, but I haven't noticed it extending the range."
+
+"Hmm." The guard typed something on his laptop.
+
+"That's useful for this place. Maybe that's how you got so much. Six blues in total plus a healing crystal is close to a mana record."
+
+Wow. He had really overestimated how much loot usual dungeons dropped.
+
+"Have you come out of the garden before?" the laptop guy asked, which was weird because shouldn't he have that information? And what was with all the questions? The lady in front of him had the fancy shell and she wasn't getting this shakedown.
+
+Keep calm.
+
+"No, this was my first time." Thomas hoped no one could see him sweating.
+
+"Ah, that explains your long run," the guy replied. "You were in there—" he checked something—"three hours, forty minutes."
+
+"I'm thorough," Thomas said. "And slow. Mostly slow."
+
+The guard looked at him. Thomas looked back. The moment stretched.
+
+"Well, don't get cocky," the guard said. Then he produced a receipt. "You're allowed to return in seventy-two hours."
+
+It was done. He was in the clear.
+
+Thomas started gathering his crystals back into his pack, feeling like he was almost home free when a raised voice came from outside the tent.
+
+"Please! He's still in there! You have to—"
+
+Three guards moved toward the entrance at the same time, but they didn't get far before a woman burst in. She was in her mid-twenties, hair askew and face streaked with tears.
+
+"Please, I just came out here for help. My boyfriend's back there! He can't walk."
+
+"Back where?" the female National Guard barked.
+
+She swung toward her. "In the dungeon, of course."
+
+"Miss," one of the men said, "once ten minutes has elapsed, we can't go back into the instance. No one can."
+
+"Then I'll just go back!" she said. "I just left!" She turned, but one of the National Guard stepped in front of her. "The ten minutes is from when you first enter. The instances are like copies of the dungeon—they're sealed off from one another. I'm sorry, but your boyfriend is going to have to get out on his own."
+
+"But the shark bit him. He can't walk," she insisted, growing more and more shrill as it began to dawn on her that there was no help coming from the outside... and that she had left him behind.
+
+Thomas felt for her. He really did. But she should have read the guides more carefully.
+
+He glanced at a laptop guard, and the man met his gaze. Thomas read sympathy there, but also a bit of underlying exasperation. This was basic dungeon protocol.
+
+Maybe she had known.
+
+He glanced at her again, wondering if the tears and borderline hysteria were real or not.
+
+Nope. He was not going to go down that path. This wasn't his circus.
+
+The laptop tilted his head slightly, as if to say it was time to go.
+
+Hefting his backpack, Thomas checked the table to make sure he had everything, then walked out. Behind him, the girl began to rage and scream.
+
+A few minutes ago, Thomas had felt mildly cheated that he'd had to leave so many crystals behind.
+
+But he was coming out a winner. He had his life. He had his health. And he had his loot.
+
+Now he had to figure out what to do with it.

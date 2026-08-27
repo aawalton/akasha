@@ -1,0 +1,185 @@
+---
+id: ddc08ac0-426f-520a-8649-bc4b4ba97472
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34: Grin and Bear It"
+slug: 0034-chapter-34-grin-and-bear-it
+partOf: the-gift-of-loot
+position: 34
+ownLength: 2497
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3451321/chapter-34-grin-and-bear-it"
+royalRoadId: "3451321"
+---
+
+"Hey," Grimm called. "That's a nice backpack you got there."
+
+Oh shit, Thomas thought. What he said was, "Thanks. Your mama told me the same thing last night."
+
+Did it make sense? No. Was this the time for a yo' mama joke? Well, yo' mama said it was hilarious.
+
+Grimm's face darkened, and Thomas got a ghostly Combat Foresight image of a blade of steel heading straight for his face. He stepped aside from that, obviously, and a heartbeat later, the blade of steel passed through where he'd been.
+
+Thomas whipped his head in the opposite direction of where his teammate was standing. No reason to let the crazy torturer know where she was. "Jo, run!"
+
+But he may as well not have bothered. When he glanced back to where she really was out of the corner of his eye, she was already gone, presumably for the exit door. Smart woman.
+
+Thomas's thoughts were cut off by another warning from his Combat Foresight, and he yelped as he was forced to sidestep another projectile. Seriously, how was Grimm generating these? Was he pulling them out of his ass or what?
+
+The answer came to him in a flash, partly thanks to his health sight, and partly because his brain was soaked in adrenaline and he was thinking faster. Those blades were made of metal. This dungeon was dropping level 2 Earth mana crystals. That couldn't be good for Grimm's health or possibly sanity, but Thomas didn't care about—Oh shit, duck!
+
+He did, and the next blade missed the top of his head by a hair. Literally. He got a little bit of a haircut.
+
+Enough of this craziness. Thomas jumped to his feet only to dive again, but this time behind the huge body of the dead three-headed bear boss... or, really, the dying body of the three-headed bear boss.
+
+It was down, but this close, Thomas could hear it take ragged breaths.
+
+I could kill it and get the loot... No, not the time!
+
+Seriously, though, Grimm was such an asshole. He could have speared it through the brains in about three seconds, grabbed the loot, and been out of the dungeon. Though, if that was his usual M.O., he probably wouldn't be the "Grim Reaper" of Twitch's gang. Whatever.
+
+Thomas used the boss's bulk as a shield, and he saw through his health sight as Grimm ran around the other side of the monster. He probably meant to come around and surprise Thomas from the back.
+
+So Thomas climbed straight up. The thing was the size of a semi-truck, and bear fur made great handholds.
+
+Unfortunately, from this vantage point, he had a clear view of the meadow beyond. He saw three things at the same time.
+
+The man was writhing around, not making it easy, though one of the blades was already free. She was working hard on the second pinning blade just as Grimm made it all the way around the back of the boss.
+
+"Jo! Behind you!" Thomas yelled.
+
+Jo turned and, in a move so smooth it looked Hollywood, cut the incoming blade out of the air. Then, with her free hand, she wrapped her hand around the second blade that was still pinning Twitch and yanked it free. Tossing the bloodied blade contemptuously to the side, she ran right at Grimm with her sword held high.
+
+Grimm snarled something extremely unflattering about women and shot another quick blade at Jo. This one was small, about the size of a dagger, and unfortunately, it was followed immediately by another one. Again, Jo cut the first out of the air, but was just an instant slow on the second and cut it at an angle. The short blade had a ton of momentum and spiked upward as it was knocked away, striking her right forearm just under the elbow.
+
+Jo dropped her sword in shock and cried out as the Still Waters left her mind.
+
+Twitch, however, was free and charged at Grimm on all fours. People aren't meant to move like that, and seeing it tripped every uncanny alarm in Thomas's mind.
+
+Note to self, he thought, do not take random dungeon potions.
+
+Twitch leapt the last dozen feet—yes, really—in a move that took him over an oncoming blade and tackled Grimm to the ground again.
+
+That was when the boss bear made its move. Thomas didn't think it had been waiting for its moment or anything. More like one of the heads had briefly recovered from unconsciousness. Thomas, who had been about to leap down, had to instead hold on as muscles shifted around under him. The boss swept one picnic-table-sized paw to slam it into both Twitch and Grimm. Bosses did not like taking sides.
+
+Twitch got the worst of the blow. Thomas distinctly saw a claw rip him from thigh to his bottom ribs. He fell away, out of the fight.
+
+Grimm, meanwhile, got to his knees and shot another blade right into the center of the giant paw, stood, threw back a vial, and then aimed another blade into the neck of the bear that made the boss shudder and drop. Then he turned his attention to the downed Twitch and Jo, looking like he wasn't sure who to kill first.
+
+That was when Thomas dropped down on him, pen knife dagger in hand.
+
+Something must have tipped Grimm off, however. Maybe he had half-expected the move, considering Thomas had yelled from above earlier. He stepped to the side, which was enough to make Thomas miss with the pen knife, but not enough for Thomas to miss falling on him entirely.
+
+They both hit the ground, and it hurt. Thomas's breath was knocked from his lungs, and the penknife skittered somewhere away. Grimm was knocked down too but was quicker to recover and get to his feet. Thomas heard him swear sulfurously as he brought his hand around to point it at Thomas, who was knelt, trying to get back up. Grimm had him at point-blank range.
+
+I'm gonna die, Thomas thought in a flash. Not if he dies first.
+
+He didn't think. He just clamped his hand on the man's bare ankle just above the sock, and with that contact, he used his Living Architecture skill to collapse the big artery that led from Grimm's heart to his brain. Whatever that was called, he wasn't a doctor.
+
+Grimm spasmed, and the blade shot went wild, again missing Thomas's face and head by a hair. Then Grimm's eyes rolled up, and he collapsed, stone dead.
+
+Thomas let out a breath. Absently, he rubbed at at an ache that bloomed right under his bottom ribs. Before he could think much about it, his attention was caught by the sight of loot.
+
+There was an A-grade earth crystal sitting on Grimm's still chest, nestled between two skill shards. Reflexively, Thomas scooped them up and stood. He couldn't think about what he'd just done. He still had a job to do.
+
+The boss was dying, but it could still jerk back awake for one more horror-movie try at them. So he staggered over, laid a hand on its side, and reached for his Living Architecture skill again. This was so much less morally dubious than before. He was putting the monster out of its misery. He used the same trick as before because it had been both quick and painless. The boss bear had three heads but only one heart to pump blood to them all.
+
+It shuddered, then went still.
+
+A flash of glitter caught his eye, and he saw several crystals lying on the giant paw closest to him. He'd been awarded a large A-Grade Health crystal, one A-Grade Earth crystal, and a small wooden totem of a bear standing upright, one paw upraised as if to wave, its muzzle fixed in a permanent snarl.
+
+All of it went into his backpack. His pen knife lay close by, and it had not survived the fall well at all. The blade was so bent that it made a screeching sound when he retracted it back in its sheath.
+
+Maybe he'd just deserved that. He had used healing to kill. That had to be a big karmic no-no.
+
+With a sigh, he went first to Twitch. He was both closest to Thomas and the worst off. The man was rolling around, moving, but kind of out of his mind and snarling gibberish. Also, hair had sprouted all over his face. It wasn't like a beard; it was more movie-werewolf, as if he was slowly turning into a bear.
+
+Briefly, Thomas wondered if he was turning into a female bear. This was Rage of the Mama Bear, after all.
+
+"And here I said I wouldn't heal you again," he grumbled, grabbed one of his two remaining level 1 health crystals, and slapped it in Twitch's hand. "Hey, use this." Though it was bad, it was a simple slash and he didn't think it would require use of his Living Architecture skill.
+
+Thankfully, while there wasn't a lot of sense left in him, there was enough for the crystal to jellify and sink straight into his skin.
+
+Thomas studied Twitch with his health sight for a few seconds and saw the mana of the crystal wash through him. As it did, the fur retracted back into his face, the terrible two-foot-long gouge sealed up, and the senseless anger faded from his eyes.
+
+Thomas didn't wait around or help Twitch back to his feet. He ran to Jo.
+
+She had done her best, but the cut had hit an artery or a vein or something—Thomas really needed to learn the difference—and there was blood everywhere. She had tried to stop it with the bottom of her camo shirt, but that had just soaked through. She'd be in real trouble without immediate access to a hospital.
+
+"Sorry," she said shakily as he came up. "I should have just run."
+
+Because he was the magnanimous sort, he didn't outwardly agree. "Why did you save him?"
+
+"I thought I could do it, and I did for a second. I cut those swords right out of the air. It was almost easy." She closed her eyes for a moment, then shook her head. "But I was just too confident."
+
+"So what did we learn today?" With a quick grin, he spared her the guess. "Emotionlessness can lead to arrogance. Take this." He handed her the healing crystal, and she took it with a sigh of relief.
+
+A moment later, her skin was restitching itself.
+
+Thomas glanced over his shoulder to see that Twitch had risen and had walked over to stand over Grimm. As Thomas watched, Twitch spat on the corpse.
+
+Well, whatever. Thomas let him have his moment and turned back to Jo.
+
+"Here, I got these from Grimm. Keep it quiet."
+
+He grabbed the two skill shards from his backpack and took a good look at them. He could only see titles, but they were description enough.
+
+The Monarch's Thousand Cutting Petals
+
+The Eye That Sees Riches
+
+He gave The Monarch's Thousand Cutting Petals to her. That was a no-brainer.
+
+She stared at him with wide eyes, looking like she wanted to object.
+
+"Stay out of reach from Twitch. Remember, he can pickpocket," Thomas said, making a cut-off gesture. If it kept her from speaking about it within hearing distance, all the better.
+
+She reluctantly nodded, and he helped her to her feet. Then they went over to join Twitch, though they both kept a wary arm's length away from him.
+
+Twitch turned to them. "He's dead." He thought for a moment. "I thought I'd get the last hit, but this is good enough. Sorry I stole the potion."
+
+Thomas didn't say it was okay because it wasn't. He didn't yell at the guy because it wouldn't change anything, and he wasn't the guy's father. What was he going to do, lecture the guy on morality? He just wanted to get out of here.
+
+"Let's go," Thomas said flatly. "I've had enough bears today. How about you?"
+
+Twitch agreed, and with one final look at Grimm, they all headed to the exit door.
+
+The exit room had a chest, and Thomas let Jo open it while he carefully kept an eye on Twitch. The man stood back, though he shifted his weight from foot to foot. He made no move to steal from them or to betray them. He just looked as tired as the rest of them, with lines of stress drawn on his tattooed face.
+
+Jo exclaimed in surprise when she opened the reward chest and revealed four crystals: a B-grade healing, a C-grade earth, a C-grade water, and a strange minty greenish one.
+
+"What is that?" she held it up.
+
+Thomas read the description. "Nature mana. Huh, that must be one of the higher leveled types."
+
+"I'll take that, for services rendered," Twitch said. But he was so exhausted there was no force behind the words, and it was clear he was joking.
+
+Thomas ignored him anyway and stored the crystals in his backpack. "All right, let's get out of here."
+
+Twitch pushed off from where he'd been leaning against the wall. "I just hope that my gang hasn't set up a greeting party on the other side, waiting for Grimm."
+
+They all paused as they considered that.
+
+"Fuck," Thomas said. He was so tired.
+
+The smart thing to do would be to let Twitch go out first, but he wasn't in the mood. It had to be at least midnight, but that was only a guess. He just wanted to go home. So he walked out before the others. He'd deal with whatever happened next, hell or high water.
+
+The next thing he knew, he stood in the middle of a blaze of about twenty artificial lights that were beaming right in his face. A babble of noise hit his ears: gasps and yells of "Someone's out!" and "We have movement!"
+
+Next came an authoritative bark: "Hands up! Come out slowly."
+
+Thomas squinted. This wasn't a gang. This sounded like... the cops.
+
+Oh, yeah. In all the craziness, he had completely forgotten that the robbers had blocked both lanes of traffic, east and westbound. That was going to draw some attention, and the possible murder scene would attract even more.
+
+Thomas complied, hands up in the air. What else was he going to do? Jo and Twitch followed behind and did the same, though Twitch was looking very... twitchy.
+
+They were ordered to turn around, and then, before Thomas knew it, one of the cops came up and started to cuff him.
+
+"Now wait," he said, "I'm just a dungeon diver—"
+
+"Hold on," said a deeper voice that Thomas knew well.
+
+Thomas turned his head, blinking, though his eyes were starting to adjust. Sure enough, the silhouette of Sergeant Applebaum was walking up.
+
+"Hold on," Applebaum repeated. "I recognize this man."

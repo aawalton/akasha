@@ -1,0 +1,421 @@
+---
+id: bd4333b9-af44-54ec-af52-f45e6447c6b6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 233: War"
+slug: 0158-chapter-233-war
+partOf: the-calamitous-bob-stubbed
+position: 158
+ownLength: 5689
+unit: words
+ownProgress: 5689
+publishedAt: 2025-11-12
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2754136/chapter-233-war"
+royalRoadId: "2754136"
+markedReadAt: "2026-06-29T21:20:04.704Z"
+---
+
+Crest watched the battlefield from above, among the many mage flights serving Oleander. It was early afternoon in the Harrakan heartlands. The ground between the two armies was unseeded soil, brown and a little dry. The army to his back numbered almost a hundred and ten thousand soldiers — the largest force ever assembled by a human nation. In front of him, the allied armies gathered maybe forty thousand soldiers. Despite being severely outnumbered, they were still the second largest force ever assembled by a human alliance. Knight orders, national armies, mercenary groups, religious orders, city guards and even non-human auxiliaries of the Harrakans formed multicolored, eclectic lines, columns, and squares barded with metal and a desire to kill. It was the largest conflict in history, and he was part of it.
+
+Below, the last group leaders gathered near Oleander at his summons. Crest flew down to join them. For his last council before battle was joined, Oleander had picked the town square of one of the many fortified villages that seemed so common in the reclaimed lands. He looked regal standing above a humble table holding a hastily made map. The leaders of his soldiers waited at a distance with varying degrees of enthusiasm. King Marzak of Baran and King Sangor of Enoria were not exactly jumping with joy.
+
+“Today, we end the war for unification,” Oleander said with zeal. “It will be a chance for you to show your conviction, to prove that you have what it takes to lead your tribes and kingdoms in the glorious future that awaits us. You will take the field and prove the might of Maranor. We will lose people against a determined, entrenched foe, but it is the final sacrifice before our ultimate victory, and no price is too high to see success. We have struggled long and hard but this is it. This is the last obstacle.”
+
+People studiously avoided Sangor since his previous overreach meant he would be dead before the end of the month. Nothing less than full commitment would be tolerated.
+
+“Since they know our opponents well, our Paramese friends will be the first to attack while the other armies prepare a camp,” Oleander said.
+
+No one here was foolish enough to miss the real message: the more unreliable elements were going to be sacrifices to detect what sort of traps the malicious Harrakans had prepared. It came as a surprise to absolutely no one. Sangor sneered, then his hand raised in question.
+
+Crest had to admire the man’s courage, if not his wisdom.
+
+“Should you not be attacking the witch? Surely her death will put an immediate end to the war?”
+
+The generals shuffled a little. He was a pariah and a dead man walking but… he had a point, Crest thought.
+
+“I will be getting to this, but do not think the war ends with her death. A great many enemies are too deeply manipulated by her words to stand down now. It will be a fight to the death, and I cannot kill so many alone, or quickly. I do not need to remind you of our food situation, ladies and gentlemen? If you want access to Harrakan granaries then I’d suggest you move.”
+
+It wouldn’t be so much of a fight to the death if you hadn’t been such a cunt, Crest thought to himself.
+
+“And since you are so concerned, King Sangor, your army will attack the Harrakans first.”
+
+Oleander smiled. It wasn’t very nice.
+
+“Surely as their neighbor for so long, you would be the most familiar with their tactics. The center field is yours. King Marzak, I assume you have no objection facing your stepmother?”
+
+“None.”
+
+“Our northern allies will attack the subhuman kark. It will be your chance to finish what your parents attempted. The Viziman mercenaries and free companies will form on our right flank to take that position over there, in that forest. Expect resistance, of course.”
+
+Oleander turned to Crest.
+
+“I will leave you to form and coordinate the mage groups. They must be ready to bombard whatever trick shows up to provide our ‘friends’ here some cover, then I want you to lead the flights to answer the enemy’s own response team.”
+
+Crest almost exploded again. All the mages had been staying with their affiliated armies so far. If Oleander wanted them to act as a unit now, he should have formed a command structure before the final battle, for example, in the month they’d spent on the road. Sometimes it was obvious he used to command only dozens of elite warriors and mages. His mind had never made the jump to bigger things, dammit.
+
+“I’ll do it,” Crest said anyway.
+
+It would be a mess, but with Oleander’s own authority he felt growing around him, the mages would fall in line. It was just so amateurish, in the gods’ name…
+
+He scrambled. The different armies and groups moved, sometimes passing each other in great confusion. If the Harrakans had attacked now, they might have caused a short rout, so chaotic the shuffling of armed groups was being. Crest worked hard to organize their mages in the meantime. When he was done half an hour later, seven groups formed a line facing the Paramese alliance, and the first defensive shields were already rising. He rose up to join one of the many groups of air mages floating over the battlefield — which was a waste of their mana.
+
+“Now what?” a tribesman asked with annoyance.
+
+“Now we watch until we find a target.”
+
+Despite the messy beginning, powerful groups now moved towards the Paramese lines in good order. The Enorians and Baranese were clearly the superior armies while the northerners were formed of a large variety of smaller, bickering units. As for the non-sparrow Viziman troops and mercenaries approaching the forest, they were barely in what could be called a formation. Since the beginning, the Paramese hadn’t moved a finger. The only distraction came from the empress, who’d landed on the shoulder of Efestar’s statue alongside her dragon. As far as Crest could tell, she was having tea.
+
+He found it a little aggravating. She was going to lose, and cause a massacre. A failed leader ought to be more concerned. Or perhaps she was just masquerading her confidence.
+
+Crest’s eyes were drawn to the Enorians. They would be the first to contact. The sands of time dripped down while the mighty formation approached the Harrakan lines. There was no reaction from the witch’s minions. For a moment, Oleander thought they might not even fight, but the Enrorians accelerated. On the Harrakan side, two riders emerged from their ranks, like envoys. Surely it was too late for that?
+
+Crest frowned.
+
+“Wait, am I seeing this right? Why are they attacking with their baggage train?”
+
+***
+
+Sangor rode ahead of the formation with more fear for his life than he had ever experienced. He was taking a terrible gamble by not having his army properly deployed and by being at his front. He wouldn’t put it past the witch to lie in order to lure his people into a slaughter, but he was damned if he was going to lift his sword in defense of that old asshole. His worries faded like a bad dream when two riders emerged from the Harrakan battle lines.
+
+“Father!” the first said.
+
+“Lover,” the second one joked, though she was pale and thin.
+
+Sangor almost rushed ahead to embrace them. He had wanted nothing more.
+
+But he was still king.
+
+“Alright people now. NOW! Through, you lot!”
+
+The witch’s heavies lifted their shields and moved out of the way at a quick trot, their ranks flowing like water. His knights were the first to rush through.
+
+“Bombardment incoming,” a black-clad Harrakan mage said from his shield array. “Deploy shields!”
+
+“Deploy shields!”
+
+The cry spread through the lines. Sangor stayed where he was, urging hundreds of soldiers to rush through at the same time, his own formation pouring through the opening like water through a pipe. He looked behind. The telltale comets of arcane bombardment arced through the air, coming from the Maranorian army. Seconds passed with agonizing slowness. Most of his best infrantry was through but levies and his forester long bowmen were still lagging behind with the supply wagons. They… they were not going to make it.
+
+“Hurry you fuckers!” he yelled. “And you,” he said, addressing an officer.
+
+“Arrays forward,” the same mage said.
+
+There was a woman with a strange helmet next to him. She was speaking in a fast staccato.
+
+“All arrays forward, now! Now!”
+
+The machines holding the shields each roared on their way toward the approaching devastation; soldiers freeing the place. At the same time, the Harrakans were still moving out of the way to let soldiers through faster.
+
+The first projectiles fell. Explosions rang in deafening blasts, covering the stragglers with dirt, but then the last one was through and Sangor could breathe again. Projectiles smashed into the blue cover of the shields. The air smelled strange while the mages screamed instructions at each other. Some were casting black spears that exploded incoming spells into fiery fragments.
+
+Sangor walked back with the arrays. He wondered if they would hold. Immediately after, however, the bombardment stopped and he could hear detonations in the distance. Looking back, the enemy shield arrays were under attack.
+
+***
+
+Crest didn’t have time to fly. He used a portal instead, appearing inside of the first shield. Outside, yellow-brown smoke rose from tiny craters, the nearby troops having retreated to a safe distance. The air smelled inexplicably of radish.
+
+“Have the shield block the air. Do it now.”
+
+The Helockian archmage leading the circle gave him a haughty look.
+
+“Those are duds, young man. No gray mana is being used.”
+
+“For fuck’s sake the yries use non-magical projectiles. Do as I say!”
+
+The archmage rolled his eyes but he did as asked. Crest teleported from circle to circle to repeat his orders starting with the two most affected ones. After a few minutes, nothing seemed to have happened.
+
+“Maybe I was wrong?”
+
+Had the witch used a distraction? In any case, the bombardment had allowed the entire Enorian army to slip by. He flew back up to join his troops.
+
+On the center, nothing was happening. The Harrakans had simply returned to their original positions. On the left, the northern cities troops were being cut apart by numerically superior kark and quite a few javelin throwers. The kark were led by shamans and that female warrior in full plate gear so thick she was half furniture. She led a large detachment of heavily armored brethren against the more elite northern formation. As Crest watched, they failed to stop a pakar charge. Even Crest knew the best way to stop the beasts was to shoot arrows at their sensitive noses, except they had nose barding.
+
+“Seriously…”
+
+The kark waved red flags. Their shielded spearmen overtook the northerners, crushing them with their tight formation. The human line disintegrated. Rather than pursuing them, the kark returned to their former position with a level of discipline Crest never suspected they could demonstrate. What were the Dark Blades doing anyway? He couldn’t see them anywhere.
+
+On the right, the Baranese were trying to force the other side’s knights to commit first. Explosions tore entire squads of loyalist infantrymen apart. The rebels didn’t seem concerned about Maranorian reinforcements even now entering the forest on their flank.
+
+And on the statue’s shoulder, the empress was eating biscuits.
+
+***
+
+The captain had to push those wastes of skin forward like he was driving a herd of old cornudons.
+
+“Forward you worms, I said forward!”
+
+That forest wasn’t natural. The trunks were too straight, and the underbrush was almost always the same northern plant, something for warmer weather with big stupid leaves. It should never have grown here. Work of Sardanal that was, and he was on the other side. Bad times when the light gods squabbled, but he knew that already. In front of him, one of the recruits stumbled and fell, spear clattering against roots.
+
+“Maranor’s tits who gave me these idiots. You! Hey!”
+
+The man wasn’t moving. Angry, the captain grabbed him while the others stood around like headless birds. The young man’s eyes were rolled up. He had foam coming from his mouth. There was something planted in his throat. A dart?
+
+“What the —”
+
+A throwing axe embedded itself in the nearest soldier’s head with a dull thunk. The captain was up with his shield in front of him in the same breath.
+
+“Form up! On me! We’re under attack!”
+
+Arrows whistled around.
+
+“Up!” someone screamed.
+
+“In the branches!”
+
+The idiots under his command might be stupid but they wanted to live. A turtle formed, shields up while archers gathered under cover. From the cries around him, the entire line was under attack at the same time. Strange creatures were dropping from the boughs on top of stragglers, stabbing them as they tried to reach the line. The captain heard fighting to the side,
+
+“Alright, move left! Slowly! Keep those shields up!”
+
+The soldier next to him fell like a sack with an arrow through the eye. One of his archers got a good shot on a foe who crashed on the ground in front of him: it was humanoid, with thumbs on its feet — very strange — grayish skin, tall as a teen but very thin, and a beak. Not much muscles on those.
+
+“Merls,” someone said. “Tree dwellers.”
+
+“That so? Keep moving! Break through!”
+
+His troops were rallying. Merls were pushed back with spears, those that got too close wounded or killed.
+
+“They’re frail. Don’t fear them!”
+
+The formation was moving, even if they were leaving wounded behind. The sounds of fighting from another group grew more intense. They were going to merge and then leave. Suddenly, something crashed into the shield wall from the side and men were sent tumbling like empty wine bottles. The captain spotted strange legs, too many for comfort. A merl sat upon the scurrying shape as it smashed into people, disrupting the formation. Eyes. Mandibles. Then it was gone. And another one attacked.
+
+“Close ranks! Don’t break off, dammit!”
+
+But now the enemies were using the gaps in their lines to pick their archers off. One of the younger fuckers panicked. He dropped his weapon and ran.
+
+“You’re gonna get killed, idiot!”
+
+But the merl let him go. At least, from sight. Another woman ran off with just her shield. And then the captain was on his back.
+
+Spider. Huge fucking spider. He pushed with all his might. Drips on his face. Something was poking him but his chest plate held on. Screams. He reached for his dagger and used his stat boost to empower one attack. The blade buried itself into the creature’s neck. Spasms. An opening. The captain gathered his legs and pushed. The spider collapsed to the side.
+
+Its rider was a merl, face encased in a bone helmet. It was wearing fur to ward off the cold. Eyes filled with hatred peered at him. The rider’s posture was low, stable, it held a thin, long spear like he knew how to use it. The captain checked the tip. Black steel. Harrakan make.
+
+The warriors stepped back and the captain realized he was alone. The last of his men were running away, now jumped on without mercy since they were prey. He sprinted for his sword. He grabbed it. By some miracle, his shield was still attached to his forearm. He’d have to join the other group. They weren’t too far. Hopefully.
+
+It was the silence more than any noise that warned him to turn away. The first thing he noticed was a shaman, currently not casting. The second thing he noticed was why the shaman wouldn’t bother: it was a spider as large as a hut. all eight legs thick and furry.
+
+The beast jumped and crushed him against a tree.
+
+***
+
+“Milord, only the Baranese are still engaged. King Marzak reports that unless those cannons are destroyed, he will be forced to withdraw.”
+
+Oleander fumed. He’d expected the first wave to be repulsed, but… this was too much. Especially with the witch waving at him every time one of his regiments ran for it.
+
+“Are the Sheem ready?”
+
+“Ready and eager, sir!”
+
+“Have them attack across the front, and reinforce Baran as a priority. I want cavalry to support them. Tell Crest that it’s time. His gray mages must destroy those cannons you spoke of.”
+
+He had cannons in his previous world but they were pneumatic, quiet and elegant in design; destined to harpoon ships, not those black, smelly, noisy things.
+
+He had planned to force the witch to move first, to watch her fly around the battlefield to help her beleaguered troops until he swooped in for the kill, a pitiful end to a crumbling cause. He might have to move first. He felt in his soul that it wasn’t a good thing. His troops ought to be winning. Why were they not winning? His attention returned to the Sheem, the red, beak-helmeted Vizimias devouring the space between them and their enemies. This time it would be different. Then, the explosions redoubled, killing a dozen soldiers with every impact.
+
+“I have many troops, witch, and I don’t think you have a lot of shells.”
+
+***
+
+Crest flew at the head of the formation. Griffin raiders from Helock guarded them from above, their spell spears shining with leashed power. Their tight formation flew towards the leftmost battery, the one overlooking the kark. Kark didn’t have great bowmen so it made sense to start there. He looked left and right. That was a lot of mages.
+
+As he watched, two of them almost bounced into each other. Quality varied but that was fine. With almost three hundred of them, he was confident they could pull this off.
+
+“Sir. Movement above.”
+
+A tendril of cloud was extending from the cloud cover. So there were forces hidden there, as expected. It had been hard to confirm anything when none of the scouts had returned. Mages in dark and silver uniforms peeled off the enemy lines in a tight wing led by an old man sporting a rather spectacular silvery beard. Crest vaguely recognized the wing formation from ancient manuals he’d read back in Helock.
+
+“Harrakan doctrine. Did they find a library?” he grumbled.
+
+But there were only around seventy of them. He could only assume other wings were in combat over the cataclysmic Baranese battlefield. It would be easy to defeat them, even with inferior combatants.
+
+There was just something weird. According to what he remembered, this formation called for a superior force on overwatch. Ah, yes, the white dragon’s brother.
+
+“Watch out for a dragon!” Crest warned.
+
+Judgment death might not have scared him off.
+
+A roar shook the air. The gray mana under Crest’s control shivered, almost rebelling, and a few of his mages lost some altitude before recovering. That roar had been everywhere around him. A wave that triggered something primal in a quiet part of his brain. It had been a warning.
+
+There was a second roar, deeper, more threatening.
+
+“Maranor have mercy,” his second-in-command whispered.
+
+A dragon emerged from the dispersing cloud cover, white, lean, angry, gray mana swirling around him. A massive green dragon was next, and then a third, black one, its roar one of outrage and fury. Then another: a red one. The dragons took position over the accelerating mage flights.
+
+“Sir? Sir.”
+
+Gray mana was pulled from the air. Crest struggled to regain control.
+
+“Engage, distract, then disperse and fall back. Griffins with me!”
+
+Crest surged through the air though it felt like pushing through syrup. Terror gripped his heart.
+
+When he was a child, he and his friends had played on a knight training ground with wooden sticks. They had a lot of fun skirting the rules while yelling blood oaths and challenges, then, at some point, the knights had returned. Crest had only realized this when a man in armor holding naked steel stood over them. It was the same feeling, like children playing in a field that had never been for them, wielding toys and spewing made up war cries. The voice of the bearded man reached his ears but his brain struggled to process them.
+
+“For Frostbay, for the empire, and for Judgment!”
+
+Vengeance.
+
+There was no impact. The dragons and their lackeys just tore through the gray flights and they lost cohesion. Crest urged the griffin riders onward. The whisper of heat at the back of his ears was all the warning he got. A quick gate saved his life but not that of the lead rider. He turned to see twin red eyes firmly locked on him.
+
+You are as slippery as her.
+
+The white dragon used a surge of gray mana to accelerate after him. A part of him was happy that he could get the creature’s attention to protect the riders but the rest was screaming ‘oh shit a dragon’ and it was quite loud. A hail of stones peppered his hastily built shield. He fought back with colorless blades of mana, easily dispersed by a quick counter. The dragon was a caster too. Fire mana coalesced around him in a ring. He teleported. A stone pierced through his shield and broke his shin. The pain was unbearable.
+
+But not nearly as smart.
+
+Crest used every drop of willpower to form a portal to escape. The griffin riders were diving, and the white dragon dove after them. Pain tolerance allowed Crest to push through the blinding agony. He hated broken bones almost as much as he hated shattered shields. But they’d done it. The battery was just ahead. He could see the cannons half buried in protected emplacements belching little puffs of smoke, subhuman servants scurrying all around.
+
+Disbelief pushed his focus to its very limits. They had shells, pointy things Oleander had mentioned when talking about his home world. The shells were loaded on crate things and brought to the emplacement on mining rails. There were a lot of them. His eyes traveled closer to the city. Old men and women were pushing carts filled with metal over maybe half a league. Merciful Maranor, that was a lot of the things. No, no, it was fine. It would be fine so long as they destroyed the cannons. They were almost there.
+
+Colorless mana flared. A man he’d taken for a cannon servant raised a hand, cloak shifting and revealing an elaborate black and silver robe. Crest’s eyes widened when he spotted the cornrows and dark skin. A Hallurian? Then he remembered the reports: this was Rakan of the Five Colors. A circle flared around him. Other servants showed suspicious hints of engraved silverite under their uniforms.
+
+“It’s a trap. Pull out!” Crest screamed.
+
+Rays of fire, colorless blades, and black claws erupted from the sphere in a deluge of effects. Some of the griffin riders got their own attacks out as well before veering off. A few unfortunates were caught too soon. Rakan intercepted the incoming projectiles with counters in a display of dazzling mastery. Crest couldn’t let it happen. He had to act. A quick portal brought him to the ground, forcing porters to run away. Two quarrels panged against his shield. He winced in pain, but firebolts rushed after the nearest pile of shells.
+
+A blue shield intercepted them. Other shields formed, blocking everything he could throw. More counters reached him from the allied mages. Crest’s attention turned to Rakan. The master of five colors wasn’t looking at him. His face was a mask of concentration, sweat dripping from his skin. He wasn’t just blocking all of Crest’s attacks. He was casting something. Crest recognized the runes. He’d seen the witch use them before.
+
+Spatial interdiction.
+
+“Shit.”
+
+Danger sense screamed at Crest. He had opened a portal to base and jumped through it the moment it hit his mind though the pain from his broken shin redoubled. The portal almost closed on him when the interdiction spell hit and it weirdly saved his life. A battleaxe bounced against the closing aperture in eerie silence.
+
+Through the closing gap, Crest saw a smiling mask, then it flipped into an image of pouty frustration.
+
+***
+
+“I’m sorry, Zero-Five,” Rakan said.
+
+The tall hadal shrugged.
+
+“Target-rich environment.”
+
+“That it is,” Rakan admitted, then he returned to his casting.
+
+He wished he could be on the back of a dragon too. It looked more interesting than defending cannons.
+
+***
+
+It was looking to be the worst and also last day in Saf’s life. He’d kept a bottle of liquor for bad times. That liquor had been finished within three days of setting on Param. He was thirsty, hungry, tired, and dirty. His helmet’s hawk beak was broken so it hung limp on his cheek and that was just adding insult to injury really. Not that it would fucking matter. His regiment of press-ganged assholes was being walked to his death. He knew he was dead because no explosions ravaged their ranks while they walked towards the imperials. Even the nasty-looking crossbow bitches on the packed earth fortification were watching him approach with an expression of pure boredom. One of them was smoking from a pipe. Saf wished he could have a drag.
+
+“We’re not even worth the fucking quarrels,” he said.
+
+Only a hundred paces separated the two formations. Maybe steel through the head didn’t hurt. Unless they were trained to hit the throat because that was probably very painful. But Saf’s helmet was like a whore with her legs open so surely the fuckers wouldn’t miss. They didn’t look like the type to miss. Eighty paces.
+
+“Shut up Saf!” the officer yelled.
+
+“Or what?” Saf replied, “You gonna stab me?”
+
+It was usually a shit thing to ask in case the answer was yes but he was going to get speared like a fish within the next thirty breaths anyway. This was the elite of the imperials. It was like facing a wall of angry statues. It didn’t take a mage to see the shining mana in their shields.
+
+“Look at these fuckers, it’s like they were fed a cordudon a day since they were babies.”
+
+Sixty paces.
+
+Saf’s brain went into overdrive Maybe it was panic. Maybe he just didn’t give three shits anymore.
+
+“Saf you asshole I swear to Maranor I’ll—”
+
+“You’ll what?”
+
+He turned on himself, back to the imperials, arms extended. Fifty paces.
+
+“What are you going to do? Kill me first? Go ahead then. I bet you hit like a wet fish. Look at those guys behind me.”
+
+As if summoned, he heard a slam. A quick glance confirmed that this was now a shield wall with spears, so same as before but spikier. To the side, heavies with purple tree tabards were laying into another regiment with screams of rage. Maybe that was because they’d burnt the fucking tree.
+
+“They look like they floss their teeth with greatswords. They look like they swallow ingots and shit nails. Their fathers beat them with sticks and the sticks got blisters. They look like they can only be opened with lockpicks. You could stick one to a cornudon to plow all of Vizim. I’m a dock rat you asswipe, not the dragon slayer. You come, then. Come to the front. Show me how you kill. Come here!”
+
+The officer paused.
+
+“There’s another regiment behind us, Saf,” he said in a very low voice. “There’s another one after that, and after that it’s the tribesmen. You know what they’ll do to us if we run.”
+
+“Yeah? Fuck it. Maybe I’ll run forward.”
+
+“I was fine fighting southerners but I’m not fine being tossed in the pit like a food scrap,” another man said.
+
+“Screw this! I left my field to die for nothing?”
+
+Saf trotted forward. Behind him, the regiment dissolved, the officers trying in vain to maintain formation. He felt the brush of a skill on him but he shrugged it off. Something about duty. He didn’t owe them duty. They couldn’t even give him bread and a gods-damned helmet. Saf walked through the wall, the first to do so. Twenty paces. Ten paces. Five paces, maybe out of reach.
+
+“Don’t suppose you fuckers accept surrender, huh?”
+
+No response. He grabbed his spear tightly but he kept it low.
+
+“I bet you sons of whores don’t even speak my tongue. Just make it quick please.”
+
+He stepped forward.
+
+“Please?”
+
+For an inexplicable reason, he was not struck down. There was movement at the back of the enemy formation.
+
+“Excuse me, excuse me!”
+
+A shorter man in light armor and the symbol of Neriad slipped between two imperials who let him pass through with unreadable expressions, probably because they all wore war masks. He had a fantastically hooked noise and the friendliest smile Saf had ever seen. His Viziman was only lightly accented.
+
+“Hello. By imperial decree, we are all dedicated to Neriad, God of Righteous war. That means we are duty-bound to accept all genuine surrenders. Please drop your weapon and pass through.”
+
+Saf had to blink several times. His heart beat like a drum and he felt light-headed.
+
+“Really?”
+
+“Yes,” the priest insisted. “Really. If you could hurry so your friends can go as well?”
+
+Saf realized he was at the head of a panicked mob. People were fighting behind, and it wasn’t against the imperials.
+
+“Alright.”
+
+He moved, expecting a cold touch and lancing pain between his ribs but it never came. Past the soldiers were more soldiers, a lot of them, and then fortifications and bored crossbow ladies. One of them was a southerner with a small smile and freckles on her weird greenish skin. He blinked.
+
+“You’re the most beautiful thing I’ve ever seen in my life,” he declared.
+
+The woman raised a brow before turning to one of her allies, a dusky-skinned viziman with a frown and enough knives on her chest to start a butcher shop. They whispered, then the Viziman, to his endless surprise, replied.
+
+“She said she’s not into men.”
+
+Well. Couldn’t have it all.
+
+***
+
+In front of the One Hundred, a second regiment stopped, then very slowly walked in the opposite direction. It would probably be replaced soon, but still. Left and right, the chaos of battle enfolded in a symphony of death and vengeance. The Harrakans were proving to the world that they were never to be underestimated.
+
+But here? Nothing.
+
+Ban the Younger signaled for his troops to return to parade rest. After ten minutes or so, it happened. A voice rose from the back ranks.
+
+“It’s kind of boring, isn’t it?”
+
+***
+
+Viv watched the second wave of attacks fall apart. Arthur was carving grooves in Efestar’s statue which was a bit of a problem but Viv understood. Her daughter was nervous with so many of her minions and her own brother on a very active battlefield. Everywhere she was looking for now though, things were going amazingly well. That was mostly because Oleander was probing her defenses with lesser troops but still. He was getting his teeth kicked in on a conceptual level and that was good for her. As she watched, Enorian knights sallied out to relieve some pressure on the yries holding the priest village. The alliance armies were a strange but beautiful beast, moving organically to fend off the attackers. Sometimes it retreated, sometimes it turtled, and sometimes it lashed out with painful, precise attacks that bit off chunks of the Maranorians, grinding them down squad by squad. From the ground, it had to look like chaos but from up here she could see the touch of her strategists — no wait Jaratalassi hadn’t been recruited yet — of the alliance’s strategists leading the dance like orchestra directors. The fucking Vienna Philharmonic didn’t move with such elegant precision.
+
+Viv ran out of tea.
+
+“Really?”
+
+You should have brought more.
+
+“I didn’t expect Mr. Megalo Pants to take so long. Hey, you!” she yelled. “How long do you intend to keep a girl waiting? Or do you enjoy watching your followers get trounced?”
+
+The jaws of fate were closing. The battle couldn’t be more in her favor. The sun was going to set soon.
+
+Come on you dumb fuck. Take the bait. Come on come on come on you deplorable piece of shit.
+
+A connection was made, powered by a mana as old as stories themselves. Viv felt it in her soul and she let it anchor her. He was going to answer her. It was like playing poker with a man who didn’t know he had a hand. Oleander’s voice carried over the battlefield, born by destiny and the blades of thousands. It thundered with righteous fury.
+
+“You jest? Soldiers are dying for your hubris, and you jest?”
+
+Viv’s own voice returned, filled with contempt and malicious glee. Fate bound them. Their conversation spread across the battlefield.
+
+“Maybe they wouldn’t if you were a better commander but, to be fair…”
+
+Directed by her, the deafening roars of cannons and explosions overtook the din of battle. It was a new sound on Nyil, but to Viv, it carried the memories of centuries of effort and innovation into killing more people, faster, and farther. It was the dawn of a new era. It was the merciless hand of progress, and she had brought it to this planet herself.
+
+“You brought a medieval army to my world war.”
+
+Oleander jumped up, red wings extended behind him bathed in the blooded light of an early evening. Arthur grabbed Viv and placed her on her back. They fell from the statue like a dive bomber.
+
+[Aspect of the Paragon].
+
+The two souls crashed over the field. Both armies redoubled their efforts, spurred by the presence of their champions. Mana itself hummed with their flight. The Ascended had entered the fray.

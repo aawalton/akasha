@@ -1,0 +1,219 @@
+---
+id: 82ebf1f8-bacf-5a73-bff6-7d74be04ba04
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15: Chipmunk Fire Dungeon"
+slug: 0015-chapter-15-chipmunk-fire-dungeon
+partOf: the-gift-of-loot
+position: 15
+ownLength: 3487
+unit: words
+publishedAt: 2026-05-06
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3363515/chapter-15-chipmunk-fire-dungeon"
+royalRoadId: "3363515"
+---
+
+It took until ten o'clock the next morning to find out where Zach had been hanging out. All the while Thomas drove up and down the road and through parks, he cursed himself as an idiot for not getting the guy's phone number to text him. Zach seemed to live a vagabond life, and there was a good chance he had moved on to another town.
+
+His mood wasn't helped by the lack of sleep; the nephews were understandably upset about their father's lost hand, and last night Derek seemed to be in a state of shock. No one had done the cooking, so Thomas had sprung for pizza for the boys. Then this morning, he had driven them all to school, as Derek hadn't been up to it.
+
+Thomas was just thinking about what he was going to do if Derek didn't snap out of it soon when he finally caught sight of Zach. The fire juggler was walking alongside one of the side roads that led down to the beach.
+
+Once again thankful for the lack of tourists, Thomas found a parking spot and pulled over.
+
+"Hey, it's Tom the mana man," Zach said, far too loud for Thomas's liking, but his grin was wide and welcoming as he came over. "You got any more Reds for me?"
+
+"You went through them already?" Thomas asked.
+
+"What can I say? That was good stuff. I've been meditating, and man, I feel strong." Zach flexed some muscle, and Thomas actually saw a little heat haze coming off his arm.
+
+What did high-quality fire mana crystals do to a person? He set that question aside for later.
+
+"Actually, I had another business opportunity for you. One of my party was injured last night, and just when we found—" he broke off to take another look around to make sure no one was within hearing distance. The area was clear, but just in case, he stepped a little closer and lowered his voice. "We found a dungeon that's not on the list. It's unguarded, and I need help clearing it."
+
+Zach's eyebrows went up. "Color me interested." But then he proved he was no fool when he asked, "Did that person in your party go down trying to clear out this mysterious dungeon?"
+
+Thomas shook his head. "No, another one. My brother was doing a solo run." He rolled his eyes for emphasis, but then he grew serious again. "He lost his hand in the process."
+
+"Yow," Zach winced in sympathy. "Yeah, I'd be interested in running a dungeon, but it would have to be fire."
+
+Thomas grinned. "I was hoping you'd say that because that's exactly what it is: fire and... chipmunks."
+
+Zach laughed. "That sounds so stupid, I've got to see it. Hold on, let me get my weapon."
+
+He was surprisingly into this. If Thomas had been in his shoes, he would have been extremely suspicious, asking a whole bunch of follow-up questions, and likely wondering if he was being set up. But then again... the man could juggle living fire, so maybe he didn't have much to worry about.
+
+Zach returned shortly, holding a long... was that a cane? No, Thomas had seen enough martial arts movies to recognize a quarterstaff.
+
+"That's your weapon?" he asked, unable to hide his surprise.
+
+"Sure is." Zach effortlessly twirled it in his fingers in a fluid motion that made it look easy. "I got into it at my high school Glee club." He grinned at Thomas. "That's where you meet all the ladies.
+
+Thomas got the pleasure of seeing Zach's mouth fall open when he came to the doorway of the fire chipmunk dungeon. He turned to Thomas. "Holy shit, it really is a level 2. And there are no guards inside. How did you find this?"
+
+The last thing Thomas wanted to do was reveal that he'd found it from a map from a rare drop, so he said, "Rumor from the internet, weirdly enough. I don't know how the government has missed it yet." He shrugged. "Well, it won't stay undiscovered forever. You ready to go?"
+
+Zach started to nod, then visibly hesitated. "Uh... well, now that I know this is real, I should tell you that I've never done a level 2 dungeon before."
+
+"You haven't?" Thomas was a little surprised. "I thought you were level 2 yourself with your fire tricks and all."
+
+"Nah, man." Zach squinted at him. "Wait, you mean you are?" He whistled lowly at Thomas's nod. "I've been able to absorb fire mana and crystals for a while now. The thing is, I use a lot of my mana as soon as I get it, with no time to let it sink in, you know? That slowed my process."
+
+Thomas didn't know, but he nodded as if he did. "Well, it makes sense that having level 2 mana would tip you over the edge."
+
+Zach brightened. "All right then, let's do this!" He clapped his hands together, enthusiastic in a way that made Thomas a little envious. All he'd been feeling prior to tackling this dungeon was a low-key sense of dread. But that wasn't going to stop him.
+
+Together, they walked to the entrance door. He made sure to enter right after Zach. After all, it wasn't like they had one of those clocks that showed the time since the last turnover, and he definitely did not want to end up in two different dungeon instances. But his luck wasn't that bad; he and Zach arrived in the safe room together. Thomas spent a moment gearing up, and Zach's eyes widened a little when he saw Thomas's curved dagger and the pen knife. He wasn't going to walk around in the open with gear like that.
+
+Catching his gaze, Thomas asked, "What is it?"
+
+"Nothing. It's just that you're a little more serious than I thought you'd be. Makes sense if you're part of a fancy party, though," he added. "Hey, why aren't the rest of them with us? I know you said your brother was down. What about the others?"
+
+That was a good question, and the real reason was that Thomas had been lying about having a party. He only said, "This dungeon scared them off. Believe it or not, people don't like getting burned."
+
+"Well, you just need to know what you're doing," Zach said with an easy smile. "You ready?"
+
+Thomas took a bracing breath. "I'm ready. Remember, I almost got a blast of fire to the face the second I opened the door."
+
+"Heard," Zach said, as if he worked in a restaurant. Then he turned to the entrance door. As he did, Thomas swore he caught a flash of red mana in his eyes.
+
+Zach opened the door.
+
+They were both treated to the vista of a burned-out forest in front of them. The air that swept in was hot, dry, and acrid with the scent of charcoal.
+
+Zach stepped out first, and a cute little chipmunk crouched on the bark of the nearest tree blasted a stream of fire at him, three feet long. If Thomas had been standing where Zach had been, he would have been badly burned.
+
+But Zach only held out his hand with his quarterstaff vertical in front of him. The fire parted around him in two separate streams.
+
+Luckily, Thomas had the common sense to stay right behind Zach, so he only felt the wash of heat.
+
+After about ten seconds, the fire ended. Quick as a snake, Zach changed his grip to the end of the staff and smacked the chipmunk before it had another chance to shoot more fire at them. The end of the staff struck dead on, and the chipmunk dropped as if he had just swatted a fly.
+
+Zach pumped his fist in the air. "All right, first kill!"
+
+Thomas let out a breath. "Good job." But he was nowhere near relaxing yet. Who knew what waited for them deeper in this forest? He already missed having a guide to reference.
+
+Zach reached down and grabbed the chipmunk's body, shaking it as if to check for any mana crystals. Nothing fell out, and for a second, Thomas was surprised. Then again, he occasionally did get stiffed with no rewards.
+
+Zach didn't seem surprised at all. He shrugged before tossing the little chipmunk away.
+
+"Keep your head on a swivel. I bet this forest is full of those little guys."
+
+That was true. The path through the burned-out forest was faint and easy to lose if they became distracted. Unfortunately, distraction came in the form of chipmunks that would happily flambé their faces. The one thing that they had going for them was that the creatures were about the size of a child's hand. They weren't physically threatening. They were wood brown with black stripes running down their bodies, which would normally provide a scary amount of camouflage... except now they stood out against the ashy ground and charred trees. There was no green foliage to hide in, and nothing left unburned. It was utter devastation, with the chipmunks being the only sign of life. Also, they only seemed to have one good blast of fire in them before running dry.
+
+It sure would be useful to have had that in a guide...
+
+The guide!
+
+Thomas stopped mid-step and had to resist the urge to slap his forehead. "Jeez, I forgot," he said, starting to pat his pockets.
+
+Zach continued walking a few steps before realizing Thomas wasn't following. He turned. "What's wrong?"
+
+"Nothing bad." Thomas pulled out a little notebook and a pencil he'd taken from a mini-golf competition. Quickly, he started jotting down notes. "You know the Crystal Flea Market?" At Zach's nod, he continued, "Well, there's a guy who sells dungeon guides there, and he'll pay you for information."
+
+"You're going to tell people about this dungeon?" Zach asked, surprised.
+
+"Oh, no, but eventually it will be discovered no matter what, and when that time comes, I'll sell Ralph this information." He glanced at Zach. "Plus, it would be good for me to know what might be coming up in the future because I plan to run this dungeon as many times as possible. Anyway, I figure we'd split the profits 50-50 since we're doing the first run together." He could afford to be generous, seeing as his Gift meant he could profit from this place like crazy once he figured out the tricks.
+
+"Very neighborly of you," Zach agreed easily, then turned, rushed at a nearby tree, sidestepped a gout of flame that seemed to curve unnaturally away from him, then slammed his staff into another chipmunk.
+
+It fell stone dead, and when he shook out the little body, a red mana crystal fell out with a clink. "Alright! Finally got a nice Red! Looks like a C or B grade."
+
+Thomas put his notebook away and came over to look. The mana crystal was a mid-brick red color, and when Thomas put his hand near it, he felt that the mana inside was denser than he was used to, though he couldn't exactly say how he knew. "Yeah, going off the color, I think... maybe closer to C grade? Still, it's a level 2."
+
+Zach thought for a moment. "Do you mind if I absorb this now and try breaking into the second level?"
+
+Thomas frowned and then looked around again. This was a cleared area of ashy ground with no fallen logs nearby. Aside from the tree he had just cleared, there was nothing else for about ten feet all around them. It wasn't exactly safe, but the only other option would be to exit the dungeon into the entrance safe room, and neither of them was willing to do that.
+
+"I had to be pretty focused inward when I broke into level 2, but I can guard you while you give it a try," Thomas said.
+
+"Awesome."
+
+Zach immediately dropped into a lotus position, the ash puffing up around him.
+
+Turning, Thomas kept a wary eye on the middle distance. Since this dungeon was completely devoid of any foliage, it was easy to spot distant chipmunks darting from tree to tree. They were normally pretty cute and ran across the ground with their tails straight up like scared cats. But considering that these little dungeon monsters could shoot fire, the sight made the hair on the back of his neck stand up.
+
+Now that he thought about it, the chipmunks' behavior was a little unusual. In level 1 dungeons, monsters wouldn't leave their assigned area to come after them, but Thomas didn't trust that with level 2.
+
+One chipmunk in particular zigzagged from tree to tree, paused, then zigzagged again. The movement seemed random, yet each time it came a little closer. It was creeping up on them.
+
+He glanced back at Zach, who was still sitting in a meditation pose, doing some type of deep breathing. Little licks of fire flickered from his mouth.
+
+Thomas glanced back at the chipmunk to see that it had taken a few more zigs before coming too close for comfort. He wanted to head it off. There were chunks of charcoal bark lying all over the place as tripping hazards, so Thomas picked one up. He waited for the chipmunk to dart to the next tree closer to them, then threw. His aim wasn't the best, and he missed by about two feet. The chipmunk still froze, whipped around, and fired straight at the charcoal.
+
+One thing about the little monsters was that when they fired, they stayed utterly still, as if paralyzed, with the fire blowing in the same direction no matter what.
+
+Thomas didn't pause to think. This was his chance. He rushed up, coming to the side of the gout of fire, which stayed fixed at the charcoal block. The moment he was in range, he slammed his maul down.
+
+That was overkill for a tiny chipmunk, and it was instantly destroyed. But in that moment, he knew he'd made a mistake. His Foresight skill saved him and showed a ghostly hint of future movement that made him whip around just in time to step aside as another gout of fire erupted from a chipmunk lying in wait on the other side of a nearby tree.
+
+Thomas hadn't been quick enough to escape completely, and his arm stung. He didn't have time to think about that. He grabbed his penknife and used the blade to pin the little rodent to the tree. Immediately, the gems on the handle glowed red.
+
+Quickly, Thomas turned in place and scanned the area. No more chipmunks in range, and his Foresight skill was silent.
+
+That was dumb. He shouldn't have strayed from the path.
+
+Letting out a breath, Thomas checked the bodies. Both had dropped two blood-red mana crystals. He pocketed one and held the other as he trotted back.
+
+As far as he could tell, Zach hadn't opened his eyes, but he still seemed aware of what Thomas had been up to because he asked, "Having fun?"
+
+"Yeah, you could say that," he said with a wince at his arm. His forearm near the elbow was bright red, with the edges beginning to blister. But it could have been a whole lot worse. "You level 2 yet?"
+
+"Nah. I've been trying to get all the fire I've been using to calm down. Can't move forward until I do."
+
+Whatever that meant. "Good, here, why don't you absorb this instead? One of the chipmunks I just killed dropped it, and it's definitely B grade."
+
+Now Zach opened his eyes and blinked at the mana crystal Thomas gave him. "My man!" He happily traded Thomas for the lower grade crystal, then settled back into his meditation pose. "That was good luck."
+
+"Yeah..." Or a Gift. "I wonder if they drop better loot when you go off the path," he said instead to cover himself.
+
+Zach nodded absently, but it was clear his mind was mostly focused inward on settling his mana—whatever that meant. Thomas hadn't had to do that to level up, but Zach seemed to have a different relationship with his fire mana.
+
+Thomas kept watch. Though he saw more chipmunks scuttling around in the distance, none seemed to be creeping closer. Maybe they were far enough away not to attract attention. He flipped open his notebook and started jotting more notes. When he was done, he looked back at Zach and was surprised to see that he had absorbed the mana crystal. There was now a faint red haze hovering around him. It looked like a movie special effect.
+
+Suddenly, a ring of pure fire burst out from Zach in all directions. Thomas yelped and tried to dodge it, but the fire was at waist height, and he couldn't duck or jump high enough. The fire ring slammed into him... and kept going. The flames had been utterly cool and within Zach's control.
+
+Zach blinked his eyes open. "Sorry about that, I broke into level 2, and that was excess mana." Then he grinned. "That was so wicked!" Standing, he punched the air, his fist darting in and out, quick as a snake. "I'm so strong now!" Then he paused, doing a double take at Thomas. "Shit, bro, your arm! You got burned?"
+
+Thomas glanced down at his arm. The blisters were gone, but the skin was still as red as if he had been out in the sun all afternoon. "That wasn't you. I just got too close to a chipmunk."
+
+"Yeah, bro, but you got me that better grade crystal. I won't forget that." He bounced on his toes. "Come on, I got all this mana and I'm way overfilled with fire—I gotta get rid of this stuff." He grinned, clearly looking forward to the carnage to come. "Let's kill more of those 'munks!"
+
+Thomas was more than willing to agree.
+
+Zach had no official skills that dealt with fire and could only generate his own flames in a controlled environment, such as when he was juggling, but that didn't matter now. When the chipmunks fired at him, he was able to redirect the flames right back at them, and it turned out chipmunks weren't fireproof at all.
+
+"Nice firebending," Thomas said with a grin.
+
+"I remember that show," Zach replied, completely serious. "This is more like... waterbending. Using your enemy's strength against them, you know?"
+
+No, Thomas did not know, but he trusted that Zach knew what he was talking about.
+
+"I definitely need more air to balance myself out," Zach muttered, but he didn't seem upset about it.
+
+With Zach's new level came an upgrade to his control over fire. The chipmunks really didn't stand a chance, and he was easily able to redirect the flames back at them, even when caught by surprise. He could even split his return stream and take out two chipmunks at once. They slaughtered their way through the forest with occasional C-grade mana crystal drops. That confirmed to Thomas that his gift only worked when he made the kill.
+
+Suddenly, Zach stopped. "Oh man," he said, turning to Thomas. "Here I am on a rampage and taking all the kills. Sorry about that, bro. You want to take point for a while?"
+
+"Oh no, no, no." Thomas rapidly shook his head. "You're doing fine. Besides—" he stopped. "Uh, never mind."
+
+Most people would let that drop, but Zach seemed genuinely interested. "What is it?"
+
+Thomas winced. "I kind of... hate the whole killing part of this dungeon thing. I'll do it to protect myself, and I really like the loot, but... yeah." He shrugged, feeling like a coward. "It's just not enjoyable for me."
+
+Zach didn't laugh. He stared at him for a moment, his head slightly tilted. "What mana did you use to get to level 2?"
+
+The question took him off guard, which was why he didn't automatically think up a lie to cover himself. "Uh, healing mana. See?" He held up his arm, which now showed only a very light sunburn.
+
+"Dude! That is such a great idea. Why didn't I think of that? You must have spent a ton to get all those healing crystals, though. But... no wonder you don't want to kill. You are the team healer."
+
+"Well, I wasn't much of a hunter before all this started," Thomas muttered.
+
+"What reflects inward reflects outward, and it in turn reflects inward," Zach intoned wisely, or at least Thomas assumed it was wise. He had no idea what it meant.
+
+He was stopped from asking by a screech in the distance. They looked at each other.
+
+"What was that?" Thomas asked.
+
+"I think," Zach said, "that was the boss. We must be close to the exit."
+
+That had not sounded anything like a chipmunk.

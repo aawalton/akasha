@@ -1,0 +1,215 @@
+---
+id: fa201c88-1505-5d18-9190-0bec9a5d10f9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13: Give The Man A Hand"
+slug: 0013-chapter-13-give-the-man-a-hand
+partOf: the-gift-of-loot
+position: 13
+ownLength: 2229
+unit: words
+publishedAt: 2026-04-19
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3291572/chapter-13-give-the-man-a-hand"
+royalRoadId: "3291572"
+---
+
+The town wasn't large, and the single hospital was more meat for accidental bone breaks by hapless rich skiers than dealing long-term with anything critical. But as Thomas pulled his car into the parking lot, he saw that things had changed. There were now temporary tents set up outside, and it was hard for him to find a parking spot anywhere close.
+
+Dungeon diving had its dangers, and after the injured were somewhat stabilized by the National Guard, this was the closest place to go.
+
+The parking lot was full of the walking wounded.
+
+Thomas weaved in and out of them, muttering sorries and excuse me's, all the while with one eye on his phone. Derek hadn't returned any of his frantic texts. Thomas hoped he was just being an asshole and it wasn't that he couldn't.
+
+He got into the waiting room and saw every seat was full, with a couple of people even sitting on the floor. Derek was nowhere to be seen... but there was Ashton, curled up with his knees against his chest while managing to frantically tap at a mobile phone. It looked like he was playing a game.
+
+Thomas called his name and crossed the room. His nephew looked up and unfolded in an instant to practically launch himself at his uncle. "Uncle Thomas! What the hell? I called and you didn't pick up!"
+
+"Sorry, kiddo." Thomas didn't want to go into the why right now, especially with listening ears. No one else waiting to be seen had anything better to do. "What's happened? Where's Derek?"
+
+Ashton spoke in a rush. "They finally took him in—we were waiting for hours—but they wouldn't let me in without another adult. And the little kids are going to get out of school in an hour or so, and I didn't know what to do."
+
+Thomas nodded and noticed that Ashton didn't mention what Derek had been up to, either. "Here, follow me."
+
+Steering him by the shoulder, they walked to the main desk. Luckily, there was a receptionist open, though she looked frazzled by the deluge of people they'd been getting over the last couple of days. It was probably going to get worse for her.
+
+"Derek Coldstrike came in earlier. I'm his brother," Thomas said.
+
+She nodded, tapped something on the computer, and within a few minutes, he and Ashton were being escorted to the back by an equally frazzled nurse.
+
+To Thomas's memory, there weren't many beds in the hospital, but it looked like they were making room with hastily added curtains to create temporary space for gurneys.
+
+In the distance, someone was screaming, and Ashton went very, very pale.
+
+Thomas thought he might have gone pale too when he saw his brother laid out on the hospital bed. He was in one piece... except he was missing his left hand at the wrist. The problem was his dumbass brother was left-handed.
+
+"Oh shit," Thomas muttered, glancing up at the beeping lines that showed his status. Honestly, he didn't know why he did because he had no idea what any of that stuff meant.
+
+"Is he going to be okay?" Ashton asked anxiously.
+
+That was like a slap in the face. He was supposed to be the adult here. He had to keep it together. "Yeah," Thomas said out of reflex. "Yeah, of course he is. We have magic now, kid."
+
+"But our teachers say it'll be six months until the full System intergration."
+
+"Yeah, sure, but... the beginning stages are happening now," Thomas corrected, desperately trying to find a silver lining to this very dark cloud. "And your dad's going to live a long life. Soon all sorts of things will be possible."
+
+Ashton gave him a narrow look. "That sounds like you're guessing. Can magic grow his hand back?"
+
+Thomas reached into his backpack and pulled out the healing mana crystal. "Yeah, maybe."
+
+Instantly, his nephew lost his skeptical look. "Whoa, is that a real mana crystal?"
+
+Ashton reached for it, and Thomas snatched his hand back. "Yeah, it is. Let's wait for the doctor first and see what they can do with it."
+
+As if on cue, or more likely because voices carried very well between curtains, a young man entered. Like, he looked like he just graduated from high school, young.
+
+"Hi, I'm Doctor Saddler—yes, like Jurassic Park," he added, and Thomas shut his mouth. "I understand you're Derek's relatives?"
+
+"I'm the brother," Thomas said. "And this is his eldest son, Ashton."
+
+The doctor nodded perfunctorily and didn't seem to care. "We've stabilized him and he's currently receiving fluids and general painkillers. I would like to provide more intensive treatment, but our ICU beds are full, and I'm sure you saw the waiting room. The wound was already cauterized and clean, so there wasn't much blood loss."
+
+Derek, what were you doing? Thomas wondered, but... he already knew.
+
+The doctor continued. "Unfortunately, his dungeon diving days are over. The discharge nurse will provide him with references for prosthetics."
+
+"Doctor." Thomas held up the crystal. "Can this help?"
+
+Doctor Saddler looked at it and then snorted. "No one in this hospital will risk their medical license on new, untested methods until there are studies done on a much higher level than you'd find in this community."
+
+"What?" Ashton barked. "But it's magic!"
+
+Thomas, though, was picking up what the doctor was putting down. Announcement day had only been a week ago, after all. "Well, if we were to try something alternative, do you think this would work?"
+
+"Honestly, I have no idea." He looked at his chart with exhausted eyes. "Now, the nurse will be checking in on him when he wakes so he can be properly discharged. He will need lots of rest and protein, and I would probably suggest a therapist to deal with the missing limb."
+
+"You're not even going to try?" Ashton protested.
+
+Thomas made a cut-off gesture to him.
+
+The doctor scoffed lightly. "I'm sorry," he said, and with a nod, he walked out. Then he turned and closed the curtains all the way around them, blocking them from view. He didn't have a good bedside manner, but he wasn't going to get in their way, either.
+
+Ashton turned to him. "Uncle Thomas--"
+
+"Shh," Thomas said. "There are ears everywhere, and honestly, I don't know what I expected. Dr. Douggie Howser won't risk his new medical license by not going anything board-approved. So let's see what we can do for him."
+
+Then, because Thomas also had no bedside manner, he reached over and shook his brother on the good shoulder.
+
+"Huh?" Derek muttered, blinking and opening bleary eyes. "What?"
+
+"Wakey wakey. There's my brave dungeon diver," Thomas said sarcastically.
+
+Derek looked at him and then groaned. "Damn it."
+
+"How are you feeling, Dad?" Ashton asked.
+
+"Actually... a lot better than before." Now Derek blinked at his son. "Why are you out of school?"
+
+"Uh, you let me skip today?" Ashton shot a freaked-out look at Thomas. "You don't remember?"
+
+"It's the drugs," Thomas said, and hoped it was that and not some sort of short-term memory or trauma thing. He gave his brother a hard look. "You took your fourteen-year-old kid dungeon diving?"
+
+Luckily, the fog seemed to be lifting from Derek's mind. "He'll be fifteen in a few months, but it didn't end up the way I hoped." He grimaced and looked at his wrist.
+
+"Ya think?" Thomas said. "All right, so the doctors said they gave you the good stuff, but I might have something up my sleeve, too." He held the healing crystal between the two of them.
+
+It took a few seconds for Derek to register what he was looking at, then his eyes widened.
+
+"Here," Thomas said, shoving it into his good hand. "You know how to use that?"
+
+"No? Wait, you do? Wait! You've been to a dungeon? You? Aren't the ones that heal supposed to be super rare?"
+
+"What's that supposed to mean?"
+
+Derek shot him an exasperated look. "You don't cross the street without looking like five times."
+
+"What is that supposed to mean?"
+
+Ashton was still young enough to giggle. "He means no one expects you to have a crystal, Uncle Thomas."
+
+Looking meaningfully around, Thomas said, "X-Nay on the Rystal-cay. Okay? Just concentrate on it and think about absorbing the power into yourself."
+
+Derek took a deep breath. "Fine, here goes nothing."
+
+It took a few seconds, but then the mana crystal jellified in his hand and then sank into his skin. Thomas felt the mana roll through his brother, then, with a jolt, he stepped forward. "Ashton, help me get these bandages off. His hand can't regrow through them."
+
+But Derek slumped and shook his head. "The pain's completely gone, but it's not regrowing."
+
+Thomas reached out and unwound the bandages anyway. The pad of gauze underneath had old blood on it, but what was left was a completely healed stump. Even the stitching had fallen out.
+
+Derek was technically healed, but the crystal hadn't regrown his hand.
+
+****
+
+They were discharged faster than in the history of all first-world hospital discharges. There were plenty of people who needed Derek's bed, and thanks to the healing crystal, he was perfectly healthy.
+
+Well, healthy except for one hand.
+
+"Man, you should have waited for me. You could have been spared the hospital bill," Thomas joked as they walked out to the parking lot.
+
+Derek grunted. Unsurprisingly, he wasn't in the mood for jokes.
+
+Once they'd walked a little way and were out of reach of listening ears, Thomas pulled him aside. "What happened?"
+
+"Exactly what it looks like. I entered a dungeon and took Ashton with me."
+
+"Why?" Thomas demanded.
+
+His brother gave him a stern look. "Because he's right. School isn't going to do much for him, especially after System Integration Day, and I wanted to get him a leg up on the competition."
+
+You mean you once again crumpled like a piece of wet tissue paper, Thomas thought. Derek had been doing that a lot since his wife left the family.
+
+Derek continued, "I thought we were entering an easy dungeon—level one, you know? We just got in, and some sort of fire chameleon thing came out of nowhere. It just took off my hand in one bite." He stared off into space for a moment. "So we backed up into the entrance room and got out of there."
+
+"It's okay, Dad," Ashton said calmly.
+
+Thomas didn't think it was okay. "So, that was your first dungeon? You don't know your gift?"
+
+He must have been too accusatory for Derek's taste because he shot back, "Yeah, that's right. After I lost my hand, all I wanted was to get my son out of there. Speaking of, how the hell did you get a healing crystal?"
+
+That was the moment Thomas could have, and probably should have, told him, but the parking lot was busy, and besides... Even though Derek was staying at his apartment, they hadn't been that close over the last few years. Plus, his fifteen-year-old loudmouth kid was right there.
+
+His instinct told him to keep his gift to himself.
+
+Thomas shrugged. "You can probably guess. I went into my first dungeon yesterday. That was my reward."
+
+"And you didn't answer the phone because you were in another dungeon."
+
+"Yeah, phones don't work in them," Thomas said simply, ignoring his accusing tone. "Look, Derek, we're going to get your hand grown back, okay? The dungeons are dropping new stuff every day."
+
+"Yeah," Derek said flatly. He was not buying it.
+
+"Can I go with you?" Ashton asked. "To your next dungeon?"
+
+"No," Thomas said. See, that was how it was done.
+
+"Ashton," Derek said, "I need you to do a favor for me."
+
+"What?" Ashton asked suspiciously.
+
+In answer, Derek jingled the keys in front of his fourteen-year-old son. "Your brothers need to be picked up from school."
+
+Instantly, Ashton went from sulky teenager to excited. "Really?"
+
+"I can't drive with only one hand," Derek lied.
+
+"Uh, are you sure about this?" Thomas asked. "He doesn't even have a provisional license, does he?"
+
+Ashton faced his new enemy with a scowl. "Who cares? It's not like the cops are stopping anybody anyway. I drove Dad here."
+
+"He did really well," Derek added.
+
+"And now you're going to have him navigate a busy school parking lot full of helicopter parents," Thomas said.
+
+Derek sighed. "Seriously, Thomas, I'm surprised you went into a dungeon."
+
+"Look, just because I have common sense—" Thomas stopped himself with a grimace, knowing that wasn't charitable. Yes, he was cautious and yes, he generally played by the rules while Derek didn't... and now Derek was down one hand.
+
+No need to rub it in.
+
+"I'm going to ask around," he said instead, "see if I can get a line on something that can fix your hand."
+
+"You really think it's possible? No bullshit."
+
+"Yeah, I really do. But I don't know what it is yet. Just that we're in a world of magic. What's a hand?"
+
+They said their goodbyes. Thomas left Ashton and Derek at the mercy of Ashton's questionable driving and took off for the casino again. He had a job offer to cash in and some questions to ask (or pay for) at the flea market.

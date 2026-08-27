@@ -1,0 +1,189 @@
+---
+id: 80865222-7d1b-5aec-abb5-f503fb8f2f5e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9: First Step to Level 2"
+slug: 0009-chapter-9-first-step-to-level-2
+partOf: the-gift-of-loot
+position: 9
+ownLength: 2172
+unit: words
+publishedAt: 2026-04-09
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3252763/chapter-9-first-step-to-level-2"
+royalRoadId: "3252763"
+---
+
+Thomas woke to the sound of his nephews arguing.
+
+"Dad! Ashton took the last of the milk!"
+
+"Did not, shithead!"
+
+"Dad! Ashton called me a shithead!"
+
+A third voice piped up, just as loud as the other two. "Shut up, you'll wake Uncle Thomas!"
+
+"Too late." Thomas sat up on the couch and leveled a glare over the back at the other side of the room. The three hellions, otherwise known as his nephews, were sitting at the kitchen table. Two of them looked slightly abashed at waking him. Meanwhile, Ashton, the oldest, was chowing down on milky cereal like he had been on starvation rations for months.
+
+"Boys," Derek, Thomas's brother, said in a perpetually tired tone. He was firmly planted in front of the coffee maker, waiting for the elixir of life.
+
+That set all three boys off again, squabbling with one another.
+
+"It's not my fault!"
+
+"Ashton started it!"
+
+"Murmph," Ashton defended through a mouthful of cereal.
+
+Thomas rubbed at his eyes. It was nearly seven o'clock, and he was surprised he had slept this long. The moment the boys were awake, they were noisy. He had probably needed the sleep. The moment he had come home late last evening, he had hidden his loot, then flopped down on the couch and passed out.
+
+"Boys, you're supposed to be guests here, and guests are polite," Derek said in a long-suffering voice, though there was no bite behind it.
+
+The boys all soundly ignored him, continuing to snipe at one another. It seemed that Ashton had not, in fact, taken all of the milk, but there was barely enough to get the other two's Fruit Loops wet.
+
+How long was the Fruit Loops company going to remain in production? Things were still chugging along as best Thomas could see, but what was going to happen after the six-month countdown...?
+
+Firmly shoving that out of his mind, he got up, went to the refrigerator, grabbed a carton, and plonked it down between the other two nephews, Kingston and Braxton. And yes, their mother had come up with those names. Presumably, she was already thinking about splitting. Thomas liked to call them Huey, Dewey, and Louie, but had received blank looks in return. Kids these days.
+
+"What's this?" Kingston asked, looking at the carton with a wrinkled nose.
+
+"It's lactose-free milk. It tastes almost the same as the regular stuff, except it's five bucks a carton. Bon appétit."
+
+Then, with that, Thomas shuffled off to take a shower. He had, thankfully, washed his hands up to his elbows right before he had passed out last night, so no one had spotted any shark blood, but he was still sweaty and gross.
+
+When he got out, he was feeling slightly human again.
+
+And the small apartment was still in an uproar with arguing. This time, it was Ashton versus his father.
+
+"I don't need to go to school. This is so stupid," the fourteen-year-old snarled. "I'm going to be a dungeon diver. Let the little kids go to school. They still need to learn their ABCs."
+
+Derek sighed. "Ashton, I know it's a new school and things are hard—"
+
+"This is so stupid. I don't need an education. No one does. Colleges are all going to be gone by this time next year. I'm not going to graduate high school!"
+
+Ashton was at what Derek liked to call a 'difficult age.'
+
+Even worse, Thomas wasn't sure he was wrong, and he did have the right to be 'difficult.' As soon as announcement day had come, everybody in the family had decided to circle up back where the family had started, in Tahoe. But it wasn't like single-family homes in a tourist town were plentiful. So Thomas, being the generous brother he was—and not without a little prodding from his parents—had offered up his two-bedroom apartment.
+
+That meant three boys in one bedroom, Derek taking over the second room which was more like a converted closet, and Thomas sleeping on his own couch.
+
+This is temporary, he told himself, though he wasn't sure how temporary it was.
+
+He quickly dressed and, on leaving the bathroom, decided to throw fuel on the fire with his own observation. "You still have to be fifteen years old to get your gift, squirt. There's no point in dungeon diving before that."
+
+"I could be training for it now," Ashton shot back. "I could be really good before it's my time."
+
+"Enough," Derek said, with a rare edge to his voice. He cast an exasperated look at Thomas, as if this were his fault, even though Thomas was trying to be on his side.
+
+The boys heeded their father's warning, and Derek bundled them off to school. They could take the bus, but Derek had left his job behind in Sacramento and had time to drop them off: Ashton at high school, Kingston at middle school, and Braxton at grammar school.
+
+Thomas loved his nephews (and sometimes even his brother) but still let out a sigh of relief when the door closed and the apartment was quiet again. It was hard when they were smashed together like sardines.
+
+Quickly, he went to make his own breakfast, scarfing down an instant oatmeal without tasting it.
+
+As soon as he was done, he went to the linen closet, which was the one place he was sure the boys would never voluntarily open, and took out his Taco Bell bag full of gems. He had added his loot from the Octopus's Garden last night. Then he spilled it all out onto the table in front of him. The mana crystals caught the artificial kitchen LED lights and glittered in a way that looked alien.
+
+"What am I going to do with this?" he asked, gazing down.
+
+But the answer was obvious: sell it.
+
+He could also use them. Maybe.
+
+Thomas flashed to Zach juggling fire like it was something that wouldn't burn him, but he didn't really have a desire to do any of that. As much as he joked about throwing fireballs, facing the real thing was... intimidating.
+
+Quickly, he grabbed a cup of coffee and his laptop and started rereading the introduction guides. To his immense disappointment, he had misremembered a little bit about the healing mana crystal. It wouldn't work with his parents until they unlocked their gifts.
+
+He couldn't imagine his delicate mother willingly bringing a weapon down on a demon chicken or his father completing a dungeon when he got out of breath going upstairs.
+
+At least, he couldn't imagine them doing these things alone.
+
+I could go with them, he thought.
+
+But his two dungeon runs had been way too much excitement and danger. He would have to get a lot better before he felt comfortable dragging his elderly parents along in there.
+
+He needed to get stronger, but how?
+
+The more Thomas read through the guides, the more gaps he found. He had been so focused on learning what his gift was, ensuring it stayed secret, and just surviving his first dungeon that he had not put thought into what happened next.
+
+Now that he was rereading them with a new eye, he suspected that the guides were edited... or maybe sanitized was the right word. But if that was the case, it had been a hasty hack job because there were clues left over. For example, the sparse info on level two dungeons mentioned the diver receiving system messages.
+
+Huh.
+
+Thomas hadn't really seen those yet. Maybe people started getting them at level two? The guides did insist that you had to be level two to go to a level two dungeon.
+
+With a frown, Thomas closed the tab on the guides, then opened Reddit to ping the hive mind.
+
+That's when things got a little freaky.
+
+There was no subreddit for dungeon divers, and nothing on System Announcement Day except in the normal places for news. And those were only plain posts with links to the official dungeon guides, with no comments allowed. Any attempt to provide info outside the official guides was deleted, and the offenders were permabanned.
+
+Thomas received a spam email ping and went to his inbox to delete it. That was when he saw something that made the hair on the back of his neck stand up.
+
+He had been deep in a research/anxiety spiral during the days leading up to his first dungeon dive and hadn't had time for his inbox. Now that he checked it, he found that every site he had used, from Discord to an old PetSmart account he'd started back when he'd had fish, had updated their TOSs. The social media sites banned keyword mentions of dungeon, system, gifts, and all discussion within and around those topics.
+
+He had no idea what PetSmart's deal was, but he wasn't going to waste time researching it.
+
+There was an information blackout going on. Probably not constitutional, but then again, the System would soon be in charge. The world might be very different in six months.
+
+But people being people, they found ways around it.
+
+He learned this by going to his town's local subreddit. The newest post talked about a "Crystal Flea Market" that was being hosted in the conference room of one of the local casinos.
+
+Thomas clicked on the comments for more information... and suddenly found the entire post, including all the comments, deleted by the site admins. Not the local mods. This had come from the top.
+
+That was definitely not a standard flea market, he thought.
+
+And that was his first real lead on offloading his mana crystals, because he couldn't just sell everything to Zach.
+
+He still didn't know how to grow stronger and get to level 2.
+
+But Zach had given him a lead, hadn't he? He had absorbed white and red crystals, and it had allowed him to juggle fireballs.
+
+I don't need to sell all of these crystals. What if I... absorb them?
+
+He looked at the small pile of glittering crystals next to him. Absently, he ran his hand through it, feeling the warmth of fire, the caress of air, the cool wetness of water. The blues were stronger than the rest, since they were a higher grade. Not a single brown earth crystal, though, but that was just a matter of going to the right dungeon.
+
+And then there was the single rosy mana crystal. In the harsh kitchen lights, it looked less like flesh and more like blood under skin. His fingers brushed against the mana crystal, and he felt something echo back from within him.
+
+He stopped.
+
+Then he did it again, and felt a very slight resonance that answered from within him. It was faint, and he wasn't surprised he hadn't noticed it before, considering he had been busy in the Octopus's Garden and then trying to keep information from the National Guard.
+
+A crazy thought entered his head.
+
+What if I just absorb this? Would I get more health?
+
+A good night's sleep had cured his headache, and aside from the little ring of teeth marks on his thumb, he wasn't hurt.
+
+It would be a waste.
+
+But again, he was acting like these mana crystals would be in short supply.
+
+For him, they wouldn't be.
+
+He plucked up the healing crystal and held it in his hand. He felt a little bit like Gollum with the ring because he realized he didn't want to give this up.
+
+Oh, sure, if his parents were hurt or actively dying instead of just... getting old, then yeah, obviously he would drag them through a dungeon right now and give it to them.
+
+But they were fine for now.
+
+And this mana crystal was speaking to him.
+
+"I'm being hella selfish," he said aloud, but he couldn't stop himself from concentrating on the crystal.
+
+It melted in his hands, just like before, and absorbed through his body in a refreshing, almost luxurious wash, as if he had stepped out of the shower again.
+
+When Thomas looked at his thumb, the teeth marks were gone.
+
+In a moment of post-absorption clarity, he regretted the hasty action, but not for very long. He felt a kind of warmth in his stomach. It wasn't upsetting or like he was going to get a stomachache. Just an awareness.
+
+Weird.
+
+Quickly, he shook himself out of it and scooped the rest of the mana crystals into his backpack so he wouldn't be tempted to absorb the others.
+
+I've got to sell these, he thought. Don't get high off your own supply.
+
+He wasn't too interested in money. He had savings from his own job and had a funny feeling that actual money wasn't going to be a thing sooner or later.
+
+No, what he needed, and what he would sell for, was information on how to get to level two and how to see the system messages.
+
+Thomas was going to see what this Crystal Flea Market was all about.

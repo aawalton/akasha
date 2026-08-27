@@ -1,0 +1,181 @@
+---
+id: 78ee64e0-cb0b-51d7-bb28-692a8d2eccec
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1 (Revised)"
+slug: 0001-chapter-1-revised
+partOf: the-legend-of-randidly-ghosthound
+position: 1
+ownLength: 2033
+unit: words
+ownProgress: 2033
+publishedAt: 2017-03-31
+link: "https://www.royalroad.com/fiction/11209/the-legend-of-randidly-ghosthound/chapter/127131/chapter-1-revised"
+royalRoadId: "127131"
+markedReadAt: "2026-06-29T21:36:31.187Z"
+---
+
+Randidly Ghosthound took a deep breath to calm the buzzing in his chest and tasted the stale tang of disinfectant. The cold air in the underground dormitory tunnel stank of undergraduate excess and lazy cleanup. He paced along the corridor with decisive steps, quickly reaching the staircase at the end. Randidly raked his hand through his black hair, which was falling in a mess down to his eyebrows.
+
+Rather than going up to his room, Randidly turned around and retraced his steps. His emerald eyes cut back and forth methodically, searching the emptiness for some method to move past this tension. When he reached the other end, he turned around and began again. He was going nowhere in this university, in his life, down this damn tunnel, and he knew it. Randidly mused over the physical act of going nowhere as he pivoted on his heel. Honestly, being physically stuck here wasn’t so bad.
+
+It was the suffocating, helpless sense of dissatisfaction driving him back and forth down the fifty-meter tunnel. His steps echoed in the enclosed space, sharp rebukes of the way he’d been living the first twenty years of his life.
+
+I don’t belong here. Randidly’s eyes were red when he once again reached the grey cinderblock wall and turned around.
+
+That was when it happened.
+
+System initializing…
+
+“Huh…?” Randidly stopped midway through a step, pushing the horrible dissatisfaction in his chest to the side.
+
+If he didn’t know better, he would say a god-like entity had just spoken into his mind. Or he was suddenly in a videogame and received a system announcement.
+
+Out-of-body situational awareness seemed to just appear in his mind. System initializing. “What was—”
+
+The world warped. Randidly’s body became sliced so thinly, his layers were insubstantial and infinite. Bewildered by the combination of unfamiliarity and awareness, he couldn’t even scream. His already strained psyche was tortured by spatial forces beyond his understanding.
+
+Without any of the delicacy of his disassembly, Randidly was slapped back together. He stumbled, hands trembling. The nervous energy transformed into a horrible certainty. His body felt strange and wrong, as though he lost something precious in that moment of separation. That something sinister slipped between the cracks as he had been reconstructed.
+
+A Three-Horned Demon Ram spawned next to him, thrashing in pained annoyance where he had just been confused. The monster’s movements launched Randidly face first into the stone wall. Luckily, the transfer of momentum was only glancing. The charging ram had spawned practically on top of him. But even the relatively light touch of the ram’s powerful flank was enough to ensure the impact knocked him unconscious.
+
+***
+
+When Randidly woke, it was to a headache and several blue floating screens.
+
+Welcome to New Earth! Your world has been accepted into Nexus, and as such, is now running on a new System to give you the tools and Skills to survive and live a fulfilling life! Good luck. And know your efforts will always be fairly rewarded.
+
+Basic Stats Set!
+
+Randidly Ghosthound
+
+Class: ---
+
+Level: N/A
+
+Health(/R per hour): 28 (16.5)
+
+Mana(/R per hour): 17 (6.75)
+
+Stam(/R per min): 16 (9)
+
+Vitality: 4
+
+Endurance: 2
+
+Strength: 2
+
+Agility: 3
+
+Perception: 2
+
+Reaction: 4
+
+Resistance: 4
+
+Willpower: 4
+
+Intelligence: 3
+
+Wisdom: 1
+
+Control: 1
+
+Focus: 2
+
+For more information, you can view your Stats anytime by thinking “Menu” and then selecting “Status.”
+
+Congratulations! The “Newbie Path” is open to you!
+
+Congratulations! Due to you being the first player in your world to receive damage, the “P. Def Path” is open to you!
+
+Congratulations! Due to you being the first player in your world to observe monsters, the “M. Support Path” is open to you!
+
+Congratulations! For possessing only a single Health, the “Risk Taker Path” is open to you!
+
+Warning! Your Health is extremely low. Due to your low Level, arrows will guide you to the nearest Safe Zone in the Dungeon.
+
+The stream of flashing blue lights mixed with Randidly’s concussion and clouded his vision. Several seconds of staring at the sticky pool of drying blood beneath him convinced him his headache wasn’t one curable by aspirin.
+
+And these boxes…
+
+The thought earned a frown from Randidly. Are they really… notifications?
+
+A thick teardrop of blood oozed down his forehead and plopped onto a partially dried patch of bloody grass. His vision slowly sharpened into focus. For now, it seemed best to assume the notifications meant something. He needed to head to a Safe Zone.
+
+Having a single Health did not sound positive.
+
+Trying his best not to panic or move too quickly, fearing vertiginous repercussions, Randidly stood. Thick grass surrounded him. And only a few meters away, tall ferns spread their leafy greenery. Beyond the ferns was more grass, and beyond that—
+
+Those trees look tropical. Randidly’s mouth twitched. Why the hell am I in a jungle! What sort of engineering student belongs in a jungle?
+
+Randidly forced himself to turn away. Maybe he was hallucinating due to the concussion. He decided to take one step at a time, searching for the arrows referenced by the blue notification.
+
+He saw grass and blood. Little else.
+
+Randidly blinked several times, coming to a realization. The pool of blood was likely covering the arrow. He took several steps away from the site of his accident and a blinking red arrow on the ground revealed itself. It pointed backward, between his legs. Randidly turned around and looked up.
+
+A faint glowing blue door in the stone wall of the underground tunnel stood directly above the pool of blood. Ironically, he cracked his head open on the door of the Safe Zone. Feeling slightly foolish, Randidly went into the room.
+
+You have entered a Safe Zone! +200% to regeneration.
+
+Randidly found himself in a rather large room with a pond and a small tree. Electric lights glared down from the ceiling. An uncomfortable sense of how strange this situation was struck him. Randidly had been walking home in the underground pathway on the Rawlands University campus. But this was definitely not anything close to that.
+
+How could he possibly believe this was natural? Honestly, though, this room was about half the size of a football field and the area ended in stone walls. How did that tree get enough sunlight to grow?
+
+Randidly was 90% certain this had been a maintenance room five minutes ago.
+
+He rubbed his head and realized he didn’t know how long he’d been sprawled unconscious in front of the Safe Room door. Sighing, Randidly sat down and brought up his Status Screen, waiting for his Health to regenerate.
+
+In less than an hour, Randidly’s Health rose from 5 Health to his max of 28. Inexplicably feeling quite a bit better with full Health, he decided to take a peek outside.
+
+After carefully opening the door, Randidly scanned both directions. The wall looked relatively normal. Beyond that, some sort of underground jungle dominated what used to be a tunnel. Thick foliage from the ferns blocked most everything from his vision, except for a few tall trunks of tropical trees peeking through the gaps. The only clearing was the grassy area along the tunnel wall, which extended quite a long way on either side.
+
+Randidly glanced back to the strange tree and pool of water. He decisively closed the door behind him. I don’t belong here either.
+
+There were no other discernible landmarks in the sea of shifting ferns and trees. Randidly kept to the wall, following the trail of grass along the fern buffer at the edge of the jungle, hoping to find the staircase up into his dorm at the other end. The fingers of his right hand trailed across the cement wall, taking comfort in the familiar texture of manmade, instant stone.
+
+***
+
+Twenty minutes later, Randidly sprinted back toward the Safe Room. His goal of escape had quickly given way to the simple desire to survive. His legs trembled as he forced himself to keep going. It’s funny how quickly you learn your place in the world when you have good teachers.
+
+His “teachers,” two Level 24 Howler Monkeys, chased him with malicious intent. Bone-chilling howls, drooling mouths filled with sharp teeth, and bloodshot eyes left Randidly with little doubt how they intended to end their “lesson.”
+
+Randidly flung open the door and slammed it closed behind him, cutting off the nerve-racking noise of the monkeys’ screeches. He bent over and vomited the contents of his stomach. Randidly blinked several times and tried to categorize the discoveries on his expedition.
+
+One, this underground jungle area was incredibly large and not nearly as uninhabited as he thought.
+
+Two, Randidly’s Level of N/A was far from sufficient for fighting Level 24 enemies. Not that he tried. The way those bloodthirsty monkeys crossed the initial distance through the trees without him noticing spoke to their capability.
+
+Luck had been with Randidly. Once the monkeys dropped from the tree, their speed plummeted to just slightly higher than his own, allowing him to escape by the skin of his teeth.
+
+Third, the System also came with Skills. While fleeing certain death, Randidly learned the Running Skill and Leveled it to 3 during his mad dash to safety. With every increased Level, the System notifications informed him he’d earned a PP.
+
+Randidly released a shaking breath and wiped the remnants of his sick from his lips. Even with the Skill, his flight had been a close thing. By the time he made it back to the Safe Room, his Stamina depleted to 1. The thought of continuing to move for even a second longer made his vision go dark.
+
+Randidly collapsed forward in the pond’s direction, his low Stamina leaving him with no choice but to crawl the rest of the way. After slurping down water and catching his breath, Randidly opened his menu.
+
+There were four options: Map, Status, Paths, and Friends List.
+
+Both Maps and Friends List were greyed out. Randidly already knew what Status was, so he clicked on Paths.
+
+A new menu displayed four Paths, each with numbers next to them, from which he could choose. Newbie Path was currently 0/7, while P. Def and M. Supp were 0/10. Risk Taker was 0/15. In the top right, there was PP: 2. PP must stand for Path Points or something, he thought.
+
+After a slight hesitation, Randidly clicked on the Newbie Path, its numbers switching to 1/7.
+
+Congratulations! For spending one PP on the “Newbie Path,” you have earned 1 Stat point(s).
+
+Sure enough, when Randidly switched over to his Status, there was a plus sign next to all of his Stats. The interface seemed rather simple, if not for the sheer number of Stats from which to choose. Too many, in fact. Randidly looked at all twelve options in turn. They could be self-explanatory, but he could find no real information available regarding how they’d improve. He would have to learn through trial and error.
+
+A frigid hand stretched its fingers around his heart.
+
+If my Health wouldn’t have stopped at just 1, would I have died, bleeding out in front of the Safe Room door?
+
+Shaking his head, Randidly pushed that thought to the side. No use worrying over it now. Instead, he considered what to do with the Stat point. He was torn between something defensive like Vit or End, and something more active like Agi, which would let him run faster.
+
+Struck by an idea, he went back to the Path screen and clicked on Newbie.
+
+Congratulations! For spending one PP on the “Newbie Path,” you have earned 1 Stat point(s).
+
+Now with 2, he put one of the Stat points into Vit and the other into Agi with a clear conscience. Randidly noticed his Health went up by 2 when he put the point into Vit, while his Health regen per hour went up by 3. Stamina regen increased by 1 per minute. Which, he supposed, was pretty small in the grand scheme of things.
+
+His eyes went to the Safe Room door and he frowned. I don’t know how I ended up here, but I won’t let this strange jungle be my grave.

@@ -1,0 +1,265 @@
+---
+id: bcb8d42e-57c3-56fc-b638-01616d64741b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12: Looting The Mantis Queen"
+slug: 0012-chapter-12-looting-the-mantis-queen
+partOf: the-gift-of-loot
+position: 12
+ownLength: 3070
+unit: words
+publishedAt: 2026-04-15
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3278664/chapter-12-looting-the-mantis-queen"
+royalRoadId: "3278664"
+---
+
+Thomas brought the mana crystal up for a closer look and saw that it had iridescent shimmers. In fact, it seemed to be changing from green to a rosy color, but not exactly like a healing mana crystal. As it changed, iridescent shimmers of brown raced across the surface of the crystal.
+
+What the heck was he holding?
+
+Whatever this was, it was special. Thomas had to resist the urge to absorb the thing right then and there. The only thing that held him back was caution. He was in a dungeon filled with enemy monsters lurking around every corner, and frankly, while every sense told him that this was a mana crystal, he had never seen or read about anything like it.
+
+It was special, but how special? And did he want to add something to his soul when he didn't know what it would do?
+
+Maybe it was a higher-level mana crystal type. It had started green. Was it poison? Toxicity? Radiation? All would be cool against his enemies, but he didn't exactly want to start absorbing that into himself.
+
+With reluctance, he tucked the crystal away in one of the side pockets of his backpack. Then he pulled out his printed guide, glanced it over for what to expect next, and moved on. So far, the guide had been accurate at every step, and he felt better and better about spending good crystals on it.
+
+It occurred to him that he had a piece of information that could be added to the guide. Ralph, the guidemaster—Thomas decided he was just going to assign him that name in his head—had mentioned he would pay for additional information. Well, now he had it: mantis eyes were harvestable. Too bad Thomas didn't exactly know how to do the actual harvesting.
+
+On his next stop, he took out two more mantises. He saved one of the heads, but the other was destroyed in the fight. Along the way, he gained a couple more C-grade browns and added them to his backpack.
+
+Then he came to his first trap, and unfortunately, this one was a doozy.
+
+The path came to a sort of cliff with a drop-off on one side and a very thin trail he was obviously meant to follow on the other. The cliff face was smooth and lacking handholds, with the exception of a single tree root that stuck out of the wall in the middle.
+
+According to the guide, if he brushed that root, the entire thin pathway would collapse, taking the dungeon diver and their party down with it. It wasn't instantly fatal, but apparently, it was a long drop that could easily cause injury. Getting back up practically meant scaling the other side of the cliff barehanded.
+
+All in all, it was something Thomas would rather avoid, especially since he was not the biggest fan of heights.
+
+The pathway itself was just thin enough to walk along single file. He moved carefully, taking his time and keeping an eye on the root that was the trigger. It stuck out only a couple of inches and wasn't extremely visible, being only a bit darker brown than the cliff face itself—easy to miss and easier to snag a piece of loose clothing on.
+
+He made a very exaggerated step around the root, holding his backpack in front of him and pulling his shirt tight to make sure nothing came close to touching it.
+
+He only breathed easier on the other side when the cliff face did not fall out from under him.
+
+Thomas continued on and slaughtered three mantises around the next corner.
+
+There was no way he could take on all three at the same time by himself, so he baited the one out in front into the open and dealt with it. Meanwhile, the other two mantises were seemingly content to wait, since Thomas had not technically stepped into their territory. These level one dungeon monsters were pretty mindless, more like machines than actual creatures. He assumed that would change with higher-level dungeons and wondered how long it would take for them to be able to think and plan.
+
+On the other hand, the loot would be better.
+
+The third mantis he killed in that room dropped a higher-grade crystal. It was a darker brown than the previous ones, more of a rich chocolate color. It also called to him just a bit more strongly. Thomas rolled it around in his palm for a moment, admiring it, before adding it to his special side pouch.
+
+The second trap he encountered was definitely the one the National Guardsman had spoken about—the one that had wiped out the party.
+
+He could see how it could happen.
+
+It was on a stretch of cave that happened to be set right before the boss and the exit door. It was a completely unobtrusive tunnel, only remarkable in that it lacked any mantises. He could see how someone who thought they had come to the end of the dungeon would be eager to get through and fall victim, or if someone were injured and accidentally stumbled on the wrong tile.
+
+Yup, tiles.
+
+Faintly, and so covered in dust that it was easy to overlook, the ground was segmented into square tiles. The pattern looked like kitchen tiles, only in the middle of each tile were numbers one through ten in no recognizable pattern.
+
+It could drive somebody nuts trying to find a rhyme or reason to these numbers, but the trick to get across the room safely was that someone needed to step only on the even-numbered tiles.
+
+That was it. Only the even numbers. As long as they avoided one, three, five, seven, and nine, they were safe. If they didn't, the entire ceiling would fall down and bury them alive.
+
+That was grim.
+
+"Okay," Thomas told himself, taking a bracing breath. "Here goes nothing."
+
+He planted his foot firmly on number four.
+
+The ceiling didn't immediately come crashing down with tons of dirt and rocks, so he continued, this time choosing a two, then a ten.
+
+Thomas was in no hurry. He had nothing to prove and didn't particularly want to die via crushing. Also, he worried a little that this trap was too easy and could switch a six and an upside-down nine to catch someone toward the end. Luckily, there were plenty of other tiles to choose from, so he didn't have to play a game of Twister to find a path through.
+
+Again, easy once you knew the trick, but this was only a level one dungeon.
+
+Finally, after stepping on an eight, he jumped to the edge and was through.
+
+Now ahead of him was the boss and the exit.
+
+Like the Demon Chicken dungeon, this one gave him a choice: seek the exit or seek the boss first. It was presented as a Y junction. Going right meant a straight shot to the exit. The left led to the boss.
+
+Thomas considered for a moment. Really, he had only come away with fifteen browns, as every mantis had dropped at least one crystal, which was nice, and his weird multicolored crystal.
+
+Not bad, depending on how that strange crystal worked for him, but he could do a little better. It wouldn't hurt to see the boss.
+
+Well, technically it could hurt a lot, but Thomas was feeling lucky.
+
+He chose the left junction.
+
+The boss was visible around the next curve. It was, unoriginally, a mantis queen. It looked a bit like a termite queen he'd seen once, with a small body, four legs, a head, and a giant back end that constantly pulsed out eggs. The eggs were, helpfully, in a pile behind the queen.
+
+Oh, and it stood about nine feet tall with four sword arms to match, each one looking like it could cleave Thomas in half.
+
+Seeing Thomas, it opened its mandibles and roared.
+
+"Nope," Thomas said, backing away, hoping the queen would go back to tending its eggs.
+
+Unfortunately, that wasn't the case.
+
+He wasn't quite sure how something that big could move that fast, but his combat foresight showed it lunging for him even before he had fully backed away. Thomas hurriedly turned the corner, hoping that out of sight meant out of mind, but the queen continued her charge.
+
+His combat foresight suddenly showed a ghostly bladed arm stabbing down around the corner where he stood. Thomas jumped out of the way a moment before it struck. It hit stone, and the queen screeched so loudly that Thomas's ears felt like they were popping.
+
+He struck out with his penknife. The blade barely bit into the sword arm, but it got enough of a grip to release the mantis ghost it had stored. The ghost went immediately to the queen’s face and was ground up within seconds.
+
+Like the shark, the ghost’s demise only bought Thomas a moment.
+
+He tried to stab it again, just in case he could pull a ghost out of this one, but his combat foresight showed the other arm swinging into action to tear him apart.
+
+Nope, run for it, he thought.
+
+He had one thing going for him: the queen was only sticking the front half of its body through the doorway of the egg-laying chamber. Surely it couldn’t get that massive back half through the door.
+
+He backed further down the hall. Maybe if the queen trapped itself, he’d have a chance.
+
+It did not trap itself.
+
+In fact, he swore the compound eyes gleamed with feral anger as it wiggled forward toward him. As it did, it shook the entire tunnel, dislodging a rain of dust from above that fell on both of them.
+
+And the queen kept coming, mandibles clacking like it was starving for Thomas’s flesh.
+
+“Oh, shit.”
+
+As soon as it got through the bottleneck, it would pop through like a cork and slash the hell out of him.
+
+Thomas backed up a few more steps, then realized he had reached the Y junction. He could easily make a run for the exit, or…
+
+“Hey, come here!” he called, his voice barely audible over the queen’s shrieks.
+
+He picked up a dirt clod and pelted the queen, striking it in the face. The queen shook its head, screeched, and edged forward; another half foot, then another, every leg straining to lever it through the door.
+
+Thomas stayed within its sight, tempting it. Finally, with a great heave that shook the ground, the queen lurched free.
+
+It charged straight for him.
+
+Thomas turned and sprinted for his life—or at least as fast as he could while still being careful to land only on even-numbered tiles.
+
+The queen was gaining on him far too fast for something that size. He was four good feet from the edge when he dove, committing fully, arms outstretched, then tucking into a roll on the landing to get himself out of the trap.
+
+That was when the queen reached it, and the first of its legs hit an odd number.
+
+It was scuttling forward so fast that the cascade of stones and tons of dirt overhead did not immediately slow it. In fact, it reached the middle of the trap in a flash—just as the ceiling collapsed.
+
+Thomas was knocked back by a blast of air from the collapse. Everything was so dusty, loud, and dark that he had no sense of what was going on. Coughing, he curled up, just hoping the mantis queen was stopped.
+
+After about twenty seconds, the rumbling ceased.
+
+Nothing came out of the darkness to slash him in half. It was over.
+
+Carefully, he opened his eyes. He was coated in a fine layer of dirt. Blinking it away, he found the air still thick with dust, making it too dim to see clearly.
+
+Then it occurred to him that the collapsing trap had filled up the only tunnel leading to the exit.
+
+“Damn it.”
+
+He reached for his guide for an alternate pathway through, but it was far too dim to read. He was forced to sit there, letting time tick by as the dust slowly settled.
+
+Then he realized the tunnel wasn’t completely filled. There was a narrow gap between the fallen debris and the top of the tunnel—just large enough for him to squeeze through if he shoved his backpack in first.
+
+It would be claustrophobic, unpleasant, and possibly dangerous.
+
+He could always go back the way he came and return to the dungeon entrance. He wouldn’t get his reward, though, and there was no chance he could loot the boss.
+
+But there had been that giant pile of eggs.
+
+Thomas shifted his weight back and forth as he thought. Yeah, he was going for it.
+
+The crawl through the trap tunnel was exactly as claustrophobic and unpleasant as he had feared. About halfway through, he realized there was every possibility of a secondary trap buried in there, and that one wrong move could trigger another collapse.
+
+It was such an unpleasant thought that he shoved it away. There was nothing he could do about it. He was committed.
+
+A couple of times, Thomas had to suck in his stomach to get over rocks lodged in his way. He kept army-crawling forward, hating every second. The tunnel felt three times as long as it actually was. He had no idea how spelunkers did this for fun.
+
+Finally, he reached the end and could have cried in relief, wiggling out as fast as he could and earning a few scrapes and bruises.
+
+He tumbled off the debris pile on the other side—and landed on the back half of the queen.
+
+Luckily, it was definitely dead.
+
+Good and dead, he thought with giddy relief. He started to laugh, then stopped.
+
+“I wonder…”
+
+Dropping his backpack, he grabbed the egg-laying half—mantis butt, really—and tried to shove it aside. It took all his strength. The monster was heavy, and its front half was pinned under tons of rock, which didn’t help with leverage.
+
+Then he saw it: a gleaming C-grade healing mana crystal.
+
+He snatched it up, grinning, and tucked it into his backpack.
+
+That had definitely been worth it.
+
+For some reason, the air was a lot cleaner on this side of the tunnel. Maybe the dungeon had a filtration system. It didn’t matter. He dusted himself off as best he could and, whistling, went into the queen’s chamber and started smashing bug eggs with his maul.
+
+A lot of them were like yolks, similar to chicken eggs, and he wondered if they were edible... but he wasn't going to volunteer himself as tribute to find out.
+
+Every once in a while, an egg would produce a brown C-grade mana crystal.
+
+Then, when he was almost done, he smashed an egg; the hammer end of his maul struck something metallic with a ting.
+
+"What the—"
+
+Thomas picked it up, rubbing the egg goo off on his jeans—those things were definitely going to need a wash—and looked at it.
+
+It was a metallic tool that looked like a very shallow scoop. No... like an eye scoop.
+
+Thomas opened his backpack and took out one of the mantis heads. Luckily, greed and extra backpack space meant he had saved an extra.
+
+Cautiously, he slid the edge of the scoop between the eye and the skull and pressed forward, waiting for a crack.
+
+The crack never came.
+
+Instead, there was a sickening swoop sound, like a vacuum seal breaking. A perfect, glittering eye popped free. He barely caught it and held it up to the dim light.
+
+It looked like a multifaceted gem.
+
+If he hadn't thought to bring the heads along, he would have had to run the dungeon again in three days since the National Guard wouldn't allow immediate repeats. But he had thought of it.
+
+Now he had extra eyes.
+
+The tool worked perfectly, and he was able to discard the heads—though they had continued to leak green ichor into his backpack, which now stank like rotting bug blood. He was going to have to replace that backpack.
+
+The egg chamber held no more rewards, so he continued to the exit.
+
+The reward chest contained another B-grade brown crystal and three C-grades. Not the best reward, so he was doubly glad he had gone for the boss.
+
+With a satisfied grin, Thomas exited to find the sun slanting into late afternoon.
+
+Guard Jacobson was still there, looking like he was struggling not to fall asleep on his feet. He jerked back upward to full alertness. "Oh, hey, you made it out—" He stopped, staring at Thomas, who must have looked rough—coated in dust from head to foot, visibly scraped, and splattered with green blood. "Uh... do you need medical attention?"
+
+"Nope," Thomas said. "I just had a good time in there." His grin widened.
+
+His phone buzzed angrily in his jeans pocket like an angry wasp.
+
+"Uh, sure..." Jacobson said, still looking at him oddly. "I'm supposed to log all of it on the way out for the loot table."
+
+"Yeah, just a second."
+
+Thomas started digging out crystals from his jeans pocket. He had a feeling this was coming and had pulled a few out in the exit room. He just hoped Jacobson wouldn't insist on searching his backpack. Though... he didn't seem to be the type to go that far.
+
+His phone kept buzzing. Thomas paused, pulled it out, and saw twelve text messages. No signal in the dungeon meant everything was coming through now.
+
+There were also two missed calls and a couple of voicemails.
+
+"What the hell?" he muttered.
+
+One call was from Derek. The other was from Ashton—listed as "Twerp #1." His eldest nephew had finally gotten a phone for his last birthday.
+
+Quickly, he opened the voicemail transcription.
+
+"Oh, shit," he said, looking at Jacobson. "Family emergency. I've got to go."
+
+"Wait, I need to log your loot—"
+
+Frustrated, Thomas grabbed a B-grade crystal and a C-grade from his pocket and shoved them toward him.
+
+"Here's a dungeon reward. Keep it or report it—I don't care. I've got to go."
+
+He took off at a limping sprint down the hill toward where his car was parked.
+
+Jacobson called something after him, but Thomas didn't care. The National Guardsman didn't try to stop him.
+
+His brother, Derek, was in the hospital.

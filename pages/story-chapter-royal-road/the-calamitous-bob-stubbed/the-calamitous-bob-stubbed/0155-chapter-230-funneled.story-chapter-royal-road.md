@@ -1,0 +1,485 @@
+---
+id: 949d8be8-3d74-57e3-8fe0-cb9bde2582fe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 230: Funneled"
+slug: 0155-chapter-230-funneled
+partOf: the-calamitous-bob-stubbed
+position: 155
+ownLength: 5262
+unit: words
+ownProgress: 5262
+publishedAt: 2025-11-09
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2745625/chapter-230-funneled"
+royalRoadId: "2745625"
+markedReadAt: "2026-06-29T21:19:58.257Z"
+---
+
+It was night near the Enorian city of Koltis. Viv hadn’t returned since her short visit more than ten years before as she was on her way north towards the Academy. Back then, the ancient fortified town had been a hotbed of smuggling and intrigue between the two rival factions of the civil war. Now, it had lost much of its luster. Some of the dilapidated roofs Viv could see over the distant walls and shallow fields spoke of broken fortunes. War was the bane of mankind, but war was also profitable. Peaceful unification had taken away most of the city’s income. The portal nearby had only helped a little.
+
+This new poverty wasn’t reflected in the face of the man standing in front of her. He was tall, dark of skin and old, his beard gray and perfectly trimmed and a magnificent ceremonial robe cinching his athletic figure. The banker Zan was as sprightly as Viv remembered. It would be a mistake to think of him as just a businessman, however. Broad shoulders and scarred hands told a different tale: that of a retired Dark Blade.
+
+Beware the assassin who retired from a lifetime of service.
+
+Viv wasn’t afraid, however. A cadre of hadals accompanied her, led by Thirteen. It was like having her own private army of lethal bodyguards. She knew it would only last for the duration of the conflict but fuck was she going to miss this if she survived. Stopping near Zan and realizing she now towered over him, Viv crossed her arms. He was going to speak first. And he did.
+
+“Your Imperial Majesty, welcome back to Koltis. Thank you so much for agreeing to see us. I have prepared a place to talk, if this is agreeable to you.”
+
+“It is. Lead the way,” Viv said.
+
+It wasn’t difficult to see her destination. A large, open tent stood over a nearby hill. Guards in black cloaks protected it. Although it was rude, Viv identified one of them.
+
+[Veteran Lutenese Dark Blade: one who follows the path of assassination and sabotage. Expert infiltrator, expert close quarter fighter. Kark killer…]
+
+Viv held a breath back. Those were the survivors of the defunct Red Tribe conflict, the kind of operatives who’d been sent to kill Marruk’s mom. Viv was grateful the stout woman wasn’t present: negotiations would have broken down immediately.
+
+Viv returned her attention to the tent. Only the back was closed. The front was fully open. Thick rugs in warm colors covered the ground, well lit by large brasiers that emitted such a powerful heat that the snow had melted, uncovering the sleepy grass underneath. Two large cushions waited on either side of a low table attended by a thickly dressed northern woman pouring warm liquid in silver cups. As she put the second one down, a black figure appeared right next to her.
+
+The guards drew. The woman jumped. Zan stopped. Viv merely kept walking while the figure patted her cushion with bandaged fingers. She had long gray hair emerging from her hood. An inquisitive mask hid her features.
+
+“Peace,” Viv said, and the Dark Blades didn’t try to attack.
+
+Thirteen finished her inspection, sniffed Viv’s cup, then turned back to her now showing a smiling mask. How they switched so fast, Viv still had no idea.
+
+Then Thirteen was gone.
+
+“I offered you my hospitality,” Zan said, voice a little tense. “I gave you my word. Was it not enough?”
+
+“I trust you, but I don’t trust Oleander,” Viv replied. “He already called for a truce with Dean Tallit. The Maranorian envoy stabbed him when he asked for some time to consider the invader’s offer as they were still sitting. There are no more rules where they are concerned.”
+
+Zan conceded that it wasn’t an insult with a brief nod, leading the Dark Blades to sheathe their weapons. Viv didn’t really give much of a shit but Zan was honorable and she had learnt not to burn bridges unless it was either necessary, or at least very funny.
+
+“That is true.”
+
+He didn’t try to deny who he was representing then, nor who they would support.
+
+“Shall we sit?” he offered.
+
+Viv did. She also sampled her drink which was an absolutely amazing cup of kawa. Seeing her put the cup down, Zan began while in the background, his attendant played a stringed instrument. It was a remarkably comfortable setting for a winter night open air talk.
+
+“You must be wondering why I had the audacity to ask for your presence in this difficult time…”
+
+“You are here on the Pure League’s behalf,” Viv said.
+
+Zan pulled back slightly, eyes wide. Viv explained while the aroma of fresh kawa spread across the tent.
+
+“You helped me escape Koltis which means I look upon you favorably, but the Manipeleso Bank and Exchange still holds strong ties with the Pure League. Your guards are Lutenese. The timing is also suspicious, with a vanguard leaving the northern city in the direction of Baran.”
+
+“Yes, you are correct. I represent the Pure League in this endeavor, although I am not Lutenese myself. The prince asked me to contact you on their behalf to inform you of the following event.”
+
+He sipped his kawa. The delay tickled Viv’s temper because this was not a discussion. He was conveying a plea. Reining her temper in was getting difficult recently.
+
+Perhaps sensing her annoyance, Zan hurried on.
+
+“The prince wishes to inform you he does not intend to act in an unfriendly manner. Unfortunately, die hard elements of the government force his hand or make him risk a civil war. He has no choice but to allow them to depart the city to join Maranor Kingdom’s army with minimal support, and he hopes you will remember this after your inevitable and much anticipated victory.”
+
+Viv waited, not because she had a need to consider but just to watch Zan. As expected, the man started to sweat after five seconds of silence. He had skirted the truth when he’d said he wasn’t from Luten, because he clearly cared about the city as if he loved it.
+
+“Am I to understand that the vanguard that left the city three days ago is the total sum of the force that will join my enemies?”
+
+Zan’s concern turned to fear. Yes, Viv had a good information network. That tended to happen when the entire hadal race stopped trolling for five gods-damned minutes.
+
+“That is correct, Your Majesty.”
+
+“And cutting the flattering horse shit aside, am I to understand Luten expects no retaliation whatsoever should I win the war?”
+
+This time, Zan didn’t reply immediately.
+
+“I see you have not changed much,” he eventually forced out. “Still blunt.”
+
+“You should be grateful that I’m saving both of us time.”
+
+She took another sip of kawa but only because it was so good.
+
+“In essence, yes,” Zan replied.
+
+She put the cup down. It was sadly empty now.
+
+“The thing is that Luten and the Pure League are part of the Paramese alliance. You have benefitted from this status for a long time now.”
+
+“The Pure League remembers that the alliance failed to answer its call.”
+
+“Because there was no existential threat. You tried to expand into kark territory and bled for it. Do not try to paint this as some beastling or Halurian invasion,” Viv replied, raising her voice.
+
+Zan lowered his eyes. He let out a deep sigh. Viv wasn’t done.
+
+“Your Pure League enjoyed the protection of the Paramese Alliance when I stuck to the limits of my casus belli instead of reaping your sons and blighting your fields for the next century. That was good protection, trust me. Now your prince is breaking his word by siding with the invader, going so far as to allow reinforcements instead of joining us on the field of battle as he promised he would. You lot are lucky the alliance doesn’t demand specific oaths from its sovereign members. Then should we bleed and sacrifice for a path to victory, he will remain free of consequence after failing the alliance. Is this what your prince had in mind, Zan Manipeleso?”
+
+Viv allowed the tiniest amount of intimidation to seep through her words, just enough to remind him she had a shit list kept short by crossing names off of it, and there was still room at the bottom.
+
+“The prince offers the location of the vanguard,” he said.
+
+Now it was Viv’s turn to stop. The prince was just ready to sacrifice the life of his compatriots on the altar of peace. Interesting. Interesting but useless. And audacious.
+
+“I already know the location of the vanguard, as I just mentioned. If I am ever inclined to kill your prince’s political opponent for free, in a way he can deny foreknowledge of, hmmm?”
+
+To her surprise, Zan smiled. He leaned forward and refilled both of their cups.
+
+“Well, I tried. My prince offers seven thousand Lutenese gold talents, two in coin, five in preserved food to be sent immediately, as well as the coordinates of the next Shadowland sea convoy. Over thirty fat transports laden with grain and meat. It will be lightly guarded by twelve warships.”
+
+He took another sip while one of his servants refilled her cup.
+
+“And not one thing more.”
+
+“And in return?” Viv asked.
+
+“Fifty years of peace. Independence for all members.”
+
+“You get thirty and it’s contingent on you lot not starting another genocide. And remember, I’ll be watching… for a very long while.”
+
+“Those terms are acceptable.”
+
+Viv took her time to finish her second cup. Once she was done, she stood. A dozen hadals in mocking masks emerged from the darkness all around. The dark blades didn’t react this time, proof that they had good self-preservation instincts.
+
+“We are in agreement. I will have an official treaty sent to your prince very soon — discreetly of course. Until then, I wish you a good night.”
+
+***
+
+The seven hundred men that made the Pure League contingent stopped. Not because anyone had given the order, nor because their path was blocked: the seaside road was still clear. It wasn’t the elements either. The wind whispered through naked branches from the forest on their right while to their left, the crash of the surf told them the Viziman Ocean waited right behind the nearby hill. It was a pleasant day to listen to the wind chase distant clouds, back home, a cup of something warm in hand. Instead, they had walked since dawn to join the kingdom of Maranor.
+
+The councilman remembered his speech from the morning, and the fire that had animated him. They would punish the black witch for betraying mankind. Oleander would give them the steppes that belonged to them, the ones they’d bled for to the continent’s general indifference. Those cold pissers would get nothing. It was a great feeling of vindication, to be promised satisfaction after ten years of cleaning the graves of family members who had died. Only for the borders to remain much as they had been prior to the conflict.
+
+The councilman had felt good about things. Now, he could only watch in dismay as dark figures emerged from the woods carrying the severed heads of his scouts.
+
+To their credit, the sergeants gave sharp orders to form a line. The danger would come from the left. Men in heavy armor and massive swords appeared as he expected. He did his best not to be startled when cavalry trotted behind to close the way.
+
+They were trapped. The uniforms were Harrakan so he knew how this was going to end. That was before an aura even icier than the winter rolled over him and his people. He tasted something in it, something he was intimately familiar with: old hatred.
+
+The black witch was here, hovering above them.
+
+“What is the meaning of —”
+
+“Enough.”
+
+He quieted down.
+
+“You and Oleander are the kind of people who always operate on the same deluded belief: that you will keep breaking rules and treaties with impunity, and that no one will make you pay for it. You were mistaken, and now, your men have two choices. The first is to surrender and return to Luten with an oath not to interfere with the war, and my solemn promise I will return at a later time to extract terms. The second is to die here.”
+
+“You will not find us easy prey.”
+
+That was the wrong thing to bluff about. An arctic wind rushed him, forcing him to bow his head. That bitch’s intimidation was monstrous.
+
+“You’re not even prey; you’re victims. I have not come here to wage war. You are just an opportunistic mop up. Now, enough delay. The fate of your soldiers is in your hands. You should decide while I am being generous.”
+
+He frowned.
+
+“You said my men, but what about me?”
+
+“I recognize you, councilor Shen. You were instrumental in the attempted genocide of the Red Tribe. You’re a dead man.”
+
+“There are no laws protecting the kark,” he spat, “The Paramese Alliance—”
+
+“You betrayed the alliance the moment you aligned yourself with the invader. I am not bound to listen to you, and even if I were, the time when you could slaughter them with impunity is long past. After this war is done, there will be… changes.”
+
+The councilor smirked a last defiant gesture.
+
+“You won’t win.”
+
+“And you won’t be there to find out. Now, decide.”
+
+Councilor Shen looked back to his troops.
+
+“We give up. I’ll wait for you in the afterlife, Viviane of Harrak. Make it quick”
+
+***
+
+The placid ocean was littered with burning wrecks slowly sinking into the low waves. Snow fell in thick flakes, melding with the smoke in a thick gray curtain that blocked the view. It took a lot of effort for the captain of Efestar’s Redemption not to feel elation at this terrible sight.
+
+He had won. His ship and her three sisters had ‘crossed the T’ of the food convoy, destroying the escort ships and sending the fat transport into disarray. Even now, the entire front of the formation had lowered the flags in surrender. Most of them hadn’t taken any hits.
+
+Now he would go down in history as the first captain to lead a fleet since New Harrak had a fleet, and also the first one to lead them to victory! It was especially notable because Harrak’s naval history was… rather lackluster. As in, they’d gotten their afts kicked almost every time. But no more.
+
+“Sir? The back of the enemy formation is scattering. Should we pursue?”
+
+He shook his head.
+
+“There are too many of them, and without an admiral, they will take weeks to reach land. Our objective is complete. We shall commandeer the transport to lead them to Frostway. We will sink those we cannot take.”
+
+“Understood sir, and… well done.”
+
+Well done indeed. This was Oleander’s last ditch at getting enough food to last until the harvest.
+
+Now he and his men were going to starve.
+
+***
+
+Viv leaned against the balustrade overlooking the Plain of the Gods. Up high in the Palace, the view of the battlefield she’d picked was perfect. The Deadshield Woods could barely be seen in the distance more than fifty kilometers away, then there were the verdant fields on the side, freshly sowed, and the fallow ones in the middle where she expected the two armies to meet. Closer still were the low fortifications where the artillery groups would be hidden, and then the Plain of the Gods itself with its temples and healers. A large road then led up the sharp cliff towards Sinur’s Gate. Even outnumbered, the Harrakans would never get flanked or attacked in the rear unless enemies managed to fly up and drop down behind its walls. If that happened, she was already dead anyway.
+
+She watched a train approach with a new shipment of supplies. It was still mostly food for now. The granaries had been opened to feed the increasingly massive alliance army.
+
+She was starting to think they wouldn’t be that outnumbered after all.
+
+“Your Imperial Majesty, a guest has arrived,” Birdtongue announced.
+
+Viv smiled at the southerner. She’d been concerned when she had been forced to replace her as head of the administration by the much more experienced Bes, but the woman was taking it in stride. It had apparently been an overwhelming job. Now, Bes trained her as his protegee while he ruled over the administration with an iron fist hidden under a silk glove.
+
+“I took the liberty of starting with Ediar of Reixa, seeing as you didn’t want his presence known.”
+
+“You did well. Have you prepared what I asked?”
+
+“Yes, milady.”
+
+“Good. Show him in and stay. I want this one done quickly.”
+
+“Understood.”
+
+The tattooed woman brought back an old Enorian noble in full armor. He was not unlike Ban: too old to stand on a battlefield, too smart not to give his responsibilities to his heir, yet too stubborn to give up completely, so he still followed the warriors. His heir, Gedis, was still outside with his men. Reixa had been one of the very first Enorian cities to accept a teleporter, and they’d been much enriched by the cooperation. This had led to the awkward current predicament.
+
+“Your Majesty, greetings,” the man said, face flush with emotions. “It is with a heavy heart that I must choose between two allegiances today. I remain an Enorian patriot, no matter what, so it is with great shame that I must disobey my rightful king to honor my greater allegiance to the kingdom and the Paramese Alliance that defends it! By allying with the invader, King Sangor shamed us all!” he spat.
+
+Viv smiled at him.
+
+“Would you like to sit?” she offered, pointing at the two chairs on the balcony.
+
+He refused like she’d expected. His full armor wouldn’t allow it.
+
+“I thank you for your hospitality, but I must decline.”
+
+“And I must say I admire your resolve knowing what it would cost you. Now, you’re perhaps wondering why I had the hadals hide you and your men as you approached.”
+
+“I assume it was to protect Reixa from retribution.”
+
+“In fact, it is to protect you from retribution. Do you know why King Sangor sided with the enemy?”
+
+“There are rumors that the Crown Prince has disappeared,” Lord Ediar grumbled.
+
+“Precisely,” Viv replied. “So long as he’s a hostage, Sangor will not act just as he didn’t act long ago when Gil was held by the templars. I will only say that I am aware of the situation. Look, I will cut to the chase. Do you trust me as a woman of my word?”
+
+“With every fiber of my being.”
+
+That made Viv happy.
+
+“Then please acknowledge my request. I need you to return to the Enorian army.”
+
+Ediar blinked.
+
+“What?”
+
+“I have a plan. If that plan works but you are already on my side, you will end up in an unfavorable situation. I need you to return to the Enorian army and wait for my signal.”
+
+“And what signal will that be?”
+
+“I believe it will be fairly obvious. And as for what I need you to do, it will be fairly obvious as well. Trust me please. I cannot say more. Just know that Harrak will remember your actions. Should we win, you will find that my daughter is looking very favorably upon your works. And before you go, I have prepared a few inconspicuous gifts… just to make sure we meet again under better circumstances.”
+
+Ediar appeared thoughtful for a little while.
+
+“It’s runic armor, isn’t it?”
+
+“It is runic armor.”
+
+“Well alright lass. I don’t know what you’re planning but you have never failed us so far. I’ll do as you ask.”
+
+“I can ask for nothing more. Make sure your people keep their lips sealed until the time is upon us.”
+
+“They can’t share what they don’t know… alright. I am convinced. See you on the battlefield.”
+
+“Be patient and stay alive,” Viv concluded.
+
+“You too, lass, you too.”
+
+He departed, still clearly confused but it was for the best. The next guest came soon after.
+
+Renata, previously known as ‘Elunath’s little snitch’ and since then upgraded to ‘that traumatized mage who always looks like she’s ending a double shift in retail’ entered the room with the eyes that said she needed a double espresso with a side of syringed adrenaline. At least she was standing straight. Her black hair reached her neck under a heavy blue hood. Interestingly, the rest of her garb was that of a battle mage mid-campaign: walking boots, gambeson, lots of pockets and a focus staff. It was a good sign.
+
+“Hello Renata. I imagine you’re representing the mage’s enclave at End of the World?”
+
+“I am. The Azure Lady sends her greetings. She also says she will not help any more than she already has.”
+
+Viv nodded. Her arrangement with the elemental archmage was clear. The old lady had already gone above and beyond by helping Viv escape the Nemeti ships.
+
+“What about you then?”
+
+Renata shivered.
+
+“I know Lana and many of the girls will fight by your side. I won’t fail them again, ever. I also took the liberty of asking around the city for volunteers.”
+
+End of the World had a free city charter. They were not obligated to defend Harrak.
+
+“As you know,” Renata continued, “many of our numbers are Shadowland refugees. They don’t like Oleander very much. They want him to conquer them even less.”
+
+“Sounds promising.”
+
+“I bring twenty-seven trained war mages with their apprentices, seven blade masters, four healers and a dozen hybrid paths. It’s not much but…”
+
+“I’ll take all of them and they need to come now. It's very important that they train a bit to maneuver with the rest of the army.”
+
+“I’ll let them know.”
+
+“Hmmm.”
+
+Renata sighed, somehow relieved. Her gaze traveled to the forest of tents and basic barracks erected in front of the plains. She approached the balustrade, fingers gripping the ledge.
+
+“That’s… a lot of people.”
+
+“Believe it or not but Oleander’s been kind of a massive asshole. It has pissed off a lot of people and now they’re gathering. We’re eating through months of accumulated food reserves right now just to keep everyone in top shape.”
+
+“Are you at risk of running out? We have stored —”
+
+“Believe me, we are well prepared. Now if there is nothing else, I’m still collecting troops…”
+
+“I’ll show myself off,” Renata said in a voice so filled with self-loathing that it made Viv stop her.
+
+“Lana’s over there, right below the massive Efestar statue. You should go say hi.”
+
+“Yeah, I… yeah. I probably should.”
+
+“It’s been over ten years, Renata. You were in a shit situation.”
+
+“I can’t face them.”
+
+“You know Lana already forgave you for what you did. Have the courage to face the others and maybe they’ll forgive you as well, then you can forgive yourself.”
+
+“There is no forgiving what I’ve done.”
+
+Renata left without waiting for more.
+
+Viv knew it was presumptuous of her to tell Renata what to do with her life. She could only push a bit then hope the others would help each other. She was a leader, not a therapist.
+
+“Well, I did what I could. Now who’s next on the list?”
+
+***
+
+Marruk was next. The kark looked tired. Dust covered the lower part of her heavy armor. The mace at her belt was dented and notched in a display that was more threatening than most auras. Her hair was longer now, and Viv could feel earth mana shake when she moved.
+
+“Marruk. Been a while. How was training?”
+
+“Harrowing. I regret not starting earlier, but… maybe it was for the best. I wasn’t ready to face some truths about myself.”
+
+“I see. When are your people coming?”
+
+The stout woman approached the balustrade as well, ignoring the offered seat. Just as well since it couldn’t have carried her weight. The nearest portal was a small distance away from the city, near and around a train track. It had just closed after the latest shipment had been delivered.
+
+“About… now.”
+
+The portal opened again. It was unscheduled, enough to arouse Viv’s suspicion normally, but the kark’s reaction meant it was expected.
+
+The armored forms of pakar riders lined out in good order — well in good order for the kark. There were quite a few of them, their mount advancing with their strange gaits.
+
+They kind of reminded Viv of kangaroos. In a way.
+
+“The Red Tribe answers the call of the Harrakan Warchief. My people are here,” Marruk said with great pride. “We also bring River Tribe slingers, just over two hundred of them.”
+
+“I can always use more slingers. We just need to make sure they have enough stones…”
+
+That was a lot of pakar riders. There were hundreds of them. Just as Viv thought the end had come, columns of spearmen bearing heavy shields walked through. And then… they just kept coming.
+
+“Errrr,” she said, very eloquently.
+
+“Our vanguard could use spare armor if you have any.”
+
+“We do, in fact, have a surplus. Mostly helmets which should fit you with minor adjustment…”
+
+Now the kark were spilling over the temple ground, others were walking all over the empty fields and the most enterprising ones were even approaching the massive cooking tents Viv had set up just for the occasion. The flow was showing no signs of stopping.
+
+“Marruk. How many soldiers are you bringing?”
+
+“What do you mean?”“I mean how many Red Tribe warriors are coming?”
+
+The muscular woman blinked, her flat face scrunching in confusion.
+
+“Viv I just told you. The Red Tribe answered your call.”
+
+“Wait a minute. Everyone?”
+
+“We are a nomadic people? The elders and children can weave and cook.”
+
+“Ah.”
+
+There were now easily four thousand more warriors milling on the field. Nobody knew what to do with them.
+
+“I need to redraw our battle lines. Wow.”
+
+“You do the human things. I will arrange a living spot with Bird Tongue. Who is your new human who looks like a bird of prey who just spotted a fat fish?”
+
+“That would be Bes.”
+
+“I prefer Bird Tongue. I will join your war council tonight so we can talk. Goodbye, Viviane.”
+
+“Hey Marruk?”
+
+The red humanoid turned back, her placid face the very image of reliability.
+
+“Thanks,” Viv said.
+
+“There is no need, but if you must show your gratitude, kill Oleander.”
+
+“That is the plan.”
+
+Marruk left. Viv was left watching the squirming mess of her troops wondering what to do with each other. She could hardly believe it. She thought the decisive battle might be a last stand kind of thing with a slim chance she would have to grab but, looking down, there were so many people.
+
+“They’re all here to help.”
+
+The realization that Param was actually mobilizing to help her hit her like a rock. A dangerous emotion surged, filling her chest with a lying warmth, but try as she might, she could not chase it away. Hope.
+
+As she watched, a new column of armored warriors appeared over a distant hill bearing the banner of Neriad. Another group of templars was joining her host.
+
+It was happening.
+
+“Holy shit. I think we’re doing it.”
+
+She sat on her chair, then looked to the side, past a plate of biscuits.
+
+“Why do I even put a guest chair here? Nobody ever sits down,” she grumbled.
+
+***
+
+“It’s important, lass.”
+
+Viv stood from her throne to approach her latest petitioner. Mother was the official leader of the Bitter Hearts, the order of crossbows who gathered all the wayward souls. She was an ancient woman wearing a gambeson seemingly made out of pockets. At any time, it contained enough sewing material to start two workshops with some leftover to knit a ship’s sail. Her face was wizened like an old prune, making her eyes almost disappear behind a perpetual smile. Viv stood because Mother didn’t deserve to be looked down upon. Not for something this important.
+
+“This goes against our strategy. You would risk the Ghost Network and the lives of your people for complete strangers.”
+
+“Have you ever starved, lass?” Mother replied without missing a beat.
+
+Viv didn’t reply. She had been starving after arriving in this world, but that was mana poisoning. She knew what Mother was referring to: that gnawing sea of pain that could push people to eat their own limbs.
+
+“Have you seen your child starve? The Baranese villages will eat themselves, and it’s our responsibility.”
+
+She raised a hand to stop Viv, anticipating a rebuke. Viv didn’t.
+
+“I understand the difference between responsibility and guilt,” she replied. “It was Oleander’s decision to pillage northern Baran to keep his army fed. It was our actions that led him to this extremity.”
+
+“And you’ve done well. I heard about the revolts and the attacks on food convoys. You’re breaking his story piece by piece, ain’t you? Destroying the dream.”
+
+Viv didn’t reply.
+
+“I know his followers blame you for all this shit but I’m telling ya. We still need to send those people food. The Bitter Hearts volunteer to carry out the mission.”
+
+“That means people getting caught and portals being found out.”
+
+“Aye. We’ll die and bleed. Nothing new, lass. That’s who we are. First in…”
+
+“Last out,” her followers finished.
+
+“We don’t gotta do it because it makes sense. Or because it helps us. We gotta do it because it’s the right thing to do. Don’t leave those poor sods to Gomogog, lass. Please.”
+
+Viv breathed in, breathed out.
+
+Her plan depended upon giving Oleander no choice but to do one thing, and one thing only: bum rushing her through hostile territory. If she had to be honest, the food to feed lost villages would barely make a scratch in what his army needed. It was just…
+
+What would Neriad do?
+
+She knew what Neriad would do. She sent a burst of mana to the righteous god, and a dim warmth filled her chest in return. The answer was clear.
+
+“Volunteers only. Same for the mages. I’ll grant the Bitter Hearts four times their supplies allowance for the next two months and you arrange everything yourselves.”
+
+“Thank you, lass. Don’t worry, we’ll hide if the Maranorians approach.”
+
+“Actually,” Bes said, “it might not be necessary.”
+
+Viv turned to him.
+
+“Elaborate?”
+
+“It appears that the Kingdom of Maranor is on the move. They have regrouped and crossed the Enorian borders, traveling west at good speed and pillaging every town along the way, like a swarm of locusts. It appears Oleander has abandoned his plan to unite the continent.”
+
+Viv breathed a sigh of relief. She wasn’t sure that part would work. Enemies could never be counted on to act rationally, especially believers. Now Oleander was coming before his army could disintegrate, but also before the continent starved.
+
+“There is just one issue, milady.”
+
+“Uh?”
+
+“It appears he is heading towards a ruined city near the Enorian central mountains. A ruined city by the name of Aristan.”
+
+Aristan… Aristan… Viv’s mind almost drew a blank. That place had been abandoned long before she even came to Nyil. There was nothing there: no resources, no legendary treasure.
+
+“What the fuck is he doing?”

@@ -1,0 +1,257 @@
+---
+id: 7a692da5-1dbf-5b7c-9e19-ec8f9991bcea
+page-type-slug: story-chapter-royal-road
+title: "Chapter 52: It's 1000% a Trap"
+slug: 0052-chapter-52-it-s-1000-a-trap
+partOf: the-gift-of-loot
+position: 52
+ownLength: 3749
+unit: words
+publishedAt: 2026-07-08
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3649675/chapter-52-its-1000-a-trap"
+royalRoadId: "3649675"
+---
+
+Thomas stood by and watched Zach consolidate the third layer of his core. Frankly, it was a little boring sitting there as someone just sat in a lotus position and breathed. If Thomas wasn't saving the battery on his phone (because it wasn't like Elf World had any place to plug in a charger), he probably would have been playing a mindless game.
+
+But he was the designated healer, and Zach had a history of setting himself on fire. Thomas had their very last level 3 Air crystal and a Healing crystal, just in case both were needed.
+
+Suddenly, Zach took in a deep breath and said in a monotone, controlled voice, "You two are going to want to step back."
+
+Uh-oh.
+
+Thomas quickly heeded his words and backed up a good ten feet. Jo did the same, collecting the Blood Thirsty sword that she had been busy sharpening using a whetstone that had hopefully been left in their room.
+
+Zach took another deep breath, and as he did, a ring of living fire suddenly bloomed out from his core and crawled out over his body. Thomas would have been extremely alarmed, but the flames didn't burn clothing as they passed over him.
+
+They were odd-colored too, orange at the bottom and flickering to black at the top, with sparks of glittering white here and there. It was an accurate juxtaposition of Zach's mana mix: mostly Fire, followed by Teleportation, Air, with an overlay of Adaptation.
+
+The fire quickly crawled around him and then puffed out.
+
+Aware of his own slight transformation, Thomas looked closely. Sure enough, Zach looked a little different after his level up too. He was already young, so thank goodness the mana didn't Benjamin Button him. Instead, he looked a little more refined, as if he had matured his features ever so slightly.
+
+"Level three?" Thomas guessed, though he knew.
+
+Zach opened his eyes. "Level three," he confirmed. Then he stood in one smooth motion and went through a complicated back stretch. "Bro, I feel like I could take on the world."
+
+"Maybe wait until you absorb some of that level 4 Fire mana you bought," Thomas advised with a smile.
+
+"Yeah, great, we're all level 3 and we're all too tough to take on," Jo said dryly. "So are we going to talk about the fact that this meeting with the Ross-Astors is clearly a trap?"
+
+She had been a little on edge since they'd received the note. Not that Thomas blamed her. She was overdue back at home, had a daughter to think about, and had been kind of sort of pulled into this pissing match with the coven, even though she had nothing to do with it.
+
+Zach had wanted to reach level 3 before they got into this conversation, and Thomas had backed him up, because they'd have other issues to deal with if he exploded into volcano demon mode again.
+
+"It may not be a trap," Zach said. Then, at Jo's snort, he added, "Think positive."
+
+"When does positivity start denying reality?" Thomas asked. "Because it's a thousand percent a trap."
+
+Zach came back up from a stretch where he had practically folded himself in half. "No, really," he said, "most of the Old Families are super old school, like fax machines and face-to-face meetings."
+
+"We could just not go," Thomas suggested. "The message has been given, and if they're interested at all, they'll send someone down to their land to check out the evidence of dark magic. They'll be able to put two and two together."
+
+Jo bit her bottom lip, then reluctantly shook her head. "No, I need to be sure that they're going to follow up and take care of this coven problem for us. The last thing I want is for those witches to show up on my doorstep. But I still think that this meeting is a bad idea. These Old Family folk won't be happy if they figure out we've been in their dungeon, right?"
+
+"They've probably noticed that they have two dead guards on their hands," Zach said, "but... you're right. I don't think that all of us should go to this meeting, just in case." He shrugged. "I'll do it."
+
+"Um, don't your family and their family have bad blood?" Thomas asked.
+
+"Yeah," Zach admitted.
+
+"And didn't you say that they're less likely to believe anything that came from you?" Thomas pressed.
+
+Zach shrugged again, though the motion was a little sharper and annoyed. "Yeah, that's true too, but what choice do we have? I can't ask Jo to go. She has a daughter and doesn't really have anything to do with this. And you..." He threw Thomas a slightly guilty look.
+
+Thomas felt a spike of annoyance. First Jo wouldn't cut him for the blood she needed in the swamp dungeon, and now Zach, the youngest, was trying to baby him? He remembered Akilah's warnings that enemies pulled their punches around healers. Apparently, that worked for friends too.
+
+"I'm just a poor little healer, is that right?" he snapped. "Can't defend myself?"
+
+"Woah, man," Zach held up his hands. "That's not what I said."
+
+"Good," he said, "because I'll be the one that goes."
+
+That got a satisfying protest from both Zach and Jo, but Thomas cut them off. "Look, as far as the Ross-Astors are concerned, I don't have Old Family baggage. And I don't have a kid depending on me," he said, with a glance to Jo. "Finally, I know there's a weird reluctance people have to hurt healers, which might give them the excuse not to beat the shit out of me."
+
+Zach and Jo exchanged a look.
+
+Thomas pressed his point. "I can tell them that I was in the wrong place at the wrong time. It's not like they had no trespassing signs around. They can look at my records with the National Guard and know that I'm a regular diver. I'll say I found this kick-ass dungeon, and ran into the coven instead."
+
+"I don't like this," Jo said. But it was notable that she wasn't volunteering to go with him. She knew he had a point.
+
+So did Zach, apparently, though he sort of looked like he had sucked on a lemon. He paced back and forth, running a hand irritably through his hair. "You gotta have backup," he said at last.
+
+Thomas, still a little annoyed over their overprotectiveness, snarked back, "What? Call in an airstrike if things go wrong?"
+
+"Call in the guy who can teleport and get you out," Zach replied smugly.
+
+Thomas opened his mouth to reply, then stopped and considered what he had to say. "Are you sure that won't kill you? You were on death's door last night."
+
+In reply, Zach was suddenly on the other side of the room. It was like watching a frame jump from one movie to another. Then, just as quickly, he was back. He grinned. "I won't overdo it, but this Teleportation mana helps a lot."
+
+"Thomas still has to get the word out that he's in trouble," Jo said doubtfully.
+
+"I could keep my phone on but in my pocket," Thomas suggested. And then it hit him a little late that, oh shit, he had just volunteered for this. He needed to stop making decisions based on spite.
+
+"No, can't risk bumping your phone wrong and then the line gets cut." Jo crossed her arms then turned to look out the window at the alien landscape. "They were selling all sorts of doodads in the marketplace. I wonder if they have something for team members to communicate with each other in dungeons?"
+
+They did indeed have a magical doodad for just that purpose: A pack of three communicators that were all linked to each other cost Thomas the last of the shadows he'd built up in his account, plus Shadow mana to activate and run. But if it saved him from a beating or worse, it was money well spent.
+
+Best of all, since it even worked in dungeons, which had limits on higher technology, it wouldn't be the type of thing that Old Families would scan for. He hoped.
+
+The communication device was meant to wrap around an elf's long pointy ear with the microphone nestled inside. Obviously, that wasn't going to work for him, so Thomas just hooked it into a vest pocket on the inside of his jacket. Conversations would be a little muffled, but it should pick up if he started screaming.
+
+The elders were still discussing things, apparently, but they had been given permission to go back and forth from Earth to Elf World. As soon as the portal opened that evening, Earth time, they walked back out.
+
+Though almost 24 hours had passed at this point, it was still nighttime on Elf World. Apparently, they had a long day-night cycle.
+
+There was so much to learn and find out, and he hadn't even hit the crazy dungeons yet. Thomas felt a little resentful for having to deal with this coven business. It was butting into his diving time.
+
+I'll just go to the meeting, and the Ross-Astors will come down like the flaming fist of God on the coven, he thought, deciding it wouldn't hurt to think positive after all.
+
+Thomas's car, bullet holes and all, was just where he left it. Thanks to his kind-of-sort-of alliance with the Dark Elves, who apparently owned the conference center, he didn't even have to pay the overnight fees.
+
+They piled in, and after a quick trip to Trader Joe's—apparently bringing a gift of wine was traditional, though it didn't have to be good wine, thus the Trader Joe's—they headed back up the mountain.
+
+It might have been his anxiety talking, but the closer he got to the appointed time of the meeting, the worse this plan seemed.
+
+Then again, what was the alternative? Fighting off an entire group of crazy witches himself? Pass.
+
+Also, how was this his life? A month ago, he was up to his elbows in helping his boss sort out family law and child support claims from opposing counsel.
+
+Weirdly, even as Thomas thought of it, he realized he didn't want to go back to that life. He liked dungeon diving, he really liked the loot, and despite the drawbacks, the power to heal people with a touch was amazing.
+
+So yeah, he would tattletale on the coven and then go to another planet and dive into their higher-level dungeons for weird loot. That was his life now.
+
+It was pretty damn cool.
+
+It took some time to get to Jo's truck because his sedan was not an off-road vehicle.
+
+But the truck, too, looked unmolested. Thomas got out, leaving his keys and extra storage backpack behind. The only things on him were a communication device tucked in a pocket, the cheap-ass wine, his new halberd, and hopefully a winning smile.
+
+Jo gave him a hug. "You're going to be fine," she said, in a way that was probably meant to convince herself more than him.
+
+"Just head east," Zach advised. "We'll be listening, and I'll pop right in and grab you if anything goes wrong."
+
+"It's not going to go wrong," Thomas said. "I'm doing them a favor by letting them know about the witch problem on their property."
+
+Zach grinned and punched him lightly on the shoulder. "That's right, bro. Go in all confidence. You got this."
+
+Thomas turned away from them and reminded himself that if he did things right, this time tomorrow he would be diving in a cool-ass dungeon that dropped mana types rarely seen on Earth. With that fixed firmly in mind, he started down the trail through the woods.
+
+He didn't have Zach's sense of direction, but luckily the three of them had cut a visible trail the last time they were there. There were enough landmarks to go by. Soon enough, he came to the edge of the Ross-Aster property.
+
+He found this out by being met by two stern-looking guards.
+
+Thomas paused and held up a free hand. "I'm here for the meeting. You were contacted by my associates?" Yeah, he was going to call the Dark Elves associates.
+
+These guards had a whole different demeanor than the slackers of a few nights ago. Not an expression crossed their faces as Thomas was waved over.
+
+"Why didn't you come by way of the road?" one of the guards rumbled.
+
+Thomas affected a shrug. "I found this place and that dungeon while I was hiking. I didn't realize there was a road. I just saw the helipad and a witch infestation that your bosses probably want to know about."
+
+He looked at them expectantly.
+
+Apparently, the guards weren't going to play any games. They were waiting for him, after all, which meant that they had expected somebody to step onto their property in some fashion. One moved forward to do a quick pat-down. It was practiced, but the guy seemed to be looking more for gun-shaped items than any tiny communication devices. They missed his chest and the elven technology.
+
+The other guard held out his hand for the halberd. "I'll be taking that. It will be returned to you when you're allowed to leave."
+
+When I'm allowed to leave, he noted. Great. But he handed it over anyway, not having expected to keep it. Carrying a weapon had been for show anyway.
+
+Then they took a walk back down to the main house. Once again, he was struck by the resemblance to a miniature Rivendell. Also, it seemed that somebody had kicked over the ant's nest because the place was practically crawling with dark-suited guards.
+
+Thomas spotted several men and women in blue robes at the dungeon's entrance. They were sketching out a pentagram in chalk on the ground. Thomas hoped that was some sort of archaic cleansing ritual and not somebody trying to use the power of death or whatever.
+
+Ugh, he was glad he was a healer and didn't have to deal with that.
+
+There were no signs of the remains of the former guards except for two greasy black smudges on the stone. He tried not to look too closely.
+
+This time, he was led straight through the door of the grand house. It was every bit as rich and posh as he had imagined, with an honest-to-God huge crystal chandelier dominating the ceiling and a curved staircase leading to the next level.
+
+Thomas wasn't allowed to go up the fancy staircase and was instead ushered to a small side office.
+
+Inside sat a man about Thomas's age, though sadly deficient in the hair department. The man was trying with a comb-over, though. He had a pleasant yet neutral expression and stood as Thomas entered.
+
+"Thank you for coming to see us on such short notice," the man said, nodding to the guards to leave. He extended his hand and the two of them shook. "I admit that the message we received was intriguing, as was the source."
+
+Thomas, not about to rat out the Dark Elves, only nodded. "From the looks of things as I came in, you're already taking care of the lingering dark magic. I'm glad to see that."
+
+The man's expression darkened slightly. "Yes, well, if you know what it is, then you know what is likely to happen if that sort of aura lingers."
+
+Thomas, who had no idea other than that it was probably bad, nodded.
+
+"Which is why we find it interesting that you should know so much about it." The man gazed blandly at Thomas. "I know every face in the Old Families, but I've never seen you before."
+
+"I'm not Old Family."
+
+"Which brings me to my next point." He reached under the desk and placed a stone on the table between them. It looked like a large opal, but something in the way it gleamed spoke to Thomas of mana.
+
+"What's that?"
+
+The man's eyebrows raised. "It's a mana identification stone, of course. Simply place your palm on the top. It will go a long way toward trusting any word you give."
+
+Declining would be suspicious as hell. Once, a couple of dungeons ago, Thomas had asked Zach if people could scan Gifts. He had assured him they couldn't. It seemed like he was going to put that to the test.
+
+Thomas didn't hesitate as he put his hand over the stone. It beeped. He removed his hand to see that it was pulsing a strong, fleshy rose-gold color.
+
+The man's eyebrows rose. "No dark magic detected... but you’re a healer?" He paused again, looking at the stone as if he could read it. "A level 3 healer. My apologies, sir."
+
+Sir? That was more like it. "I understand we have to be careful in these changing times," Thomas said magnanimously. "As you said, I'm not known to the Old Families."
+
+"My name," said the man, "is Robert Ross." Interestingly enough, his tone had shifted to something more respectful. Thomas wasn't sure if it was the healer thing, the level three thing, or both. "To whom do I have the pleasure of speaking?"
+
+Thomas held up a hand. "I'd rather be an anonymous tipster for now. Considering what I've seen the witches do, I hope you understand."
+
+Robert didn't look happy, but he nodded. "Tell me what you came here to report."
+
+With that, Thomas gave him the cover story he'd cooked up.
+
+"I was out looking for dungeons. As we both know," he said, including Robert in a slightly conspiratorial look as if to say, "We both understand these things." "Not all dungeons are on the maps, and I was able to feel the strength of the Level 3 dungeon here. As I came closer, it was obvious that it was claimed. I would have hiked onto the next, except there seemed to be a coven sacrificing two guards practically on your doorstep."
+
+"Yes, this is one of our feeder dungeons, and we were alerted to trouble when our men missed the normal check-in."
+
+"I was too late to save the guards," Thomas admitted with a touch of unfeigned regret. He was, after all, a healer and from what he saw, they’d died horrifically. "The truth is that the coven almost got me too. I escaped by the skin of my teeth and laid low for a day, after which I started making inquiries and found out through some contacts whose family likely owned the dungeon." He gave the man a significant look. "I believe the head of the coven was Tabitha Brighten."
+
+"I see," Robert said. He didn't seem surprised by any of this. Considering what Zach had said about the reputation of the Brightens, it would be easy to add two and two. The man focused on Thomas. "What is it you want from the Ross-Astor family for providing this information to us?"
+
+"Want?" Thomas didn't have to pretend surprise. "I was about ten seconds from being the third ritual sacrifice on your land. Apparently, Tabitha and one of her dark wizards was really excited about me being a healer. I just want that coven gone." Thomas considered for a moment. "I wouldn't say no to being able to dive that dungeon, though."
+
+Robert flashed a quick smile. "As you said before, 'The times, they are a'changing.' What do you know about the Ross-Astor family?" He continued before Thomas had time to answer. "Would it surprise you to know that we are one of the most powerful families on the West Coast?"
+
+Oh boy, was he about to be threatened? "No, it doesn't surprise me, from what I've heard," he said blandly.
+
+"You seem like an intelligent man." Robert leaned forward. "Frankly, I'm surprised to see a healer—any healer—diving alone. Much less one that has already reached Level 3. It seems that you have ambition and talent. Have you thought about what joining a well-organized, well-funded group can do for you?"
+
+Oh, okay. Phew. He wasn't about to get threatened. He was about to get propositioned. No, wait, that made him sound like he was getting hit on. He was about to receive an offer, hopefully one that he would be able to refuse.
+
+Either way, this was going better than his paranoid, anxious thoughts had expected. Maybe thinking positively did have an effect.
+
+That was when a knock came at the door.
+
+Robert looked briefly annoyed at being interrupted. "Yes?"
+
+The door opened, and a guard poked his head in. "Sir, Theodore Woolworth is here to see you. He says it's urgent."
+
+Theodore Woolworth? Why did that sound familiar?
+
+That was when Theodore, or Tad, pushed past the guard to stride into the room with arrogance like he owned it. Buried behind him stood another man that immediately made all the hair rise on the back of Thomas's neck.
+
+He couldn't exactly say why, except that he felt a much greater sense of danger from him than he did from Tad. That spoke volumes, considering he wasn't exactly friends with Tad, having taken his mace and possibly ruined it.
+
+"What is this?" asked Robert. "Can't you see I'm in the middle of a meeting?"
+
+"That's why I'm here, Mr. Ross," Tad said, throwing a sneer at Thomas. "Sir, you're gonna want to hear this—"
+
+The guy who followed Tad into the room locked eyes with Thomas and smiled. It was the smile that did it. Last time Thomas saw him, he'd been wearing a deep hood that had obscured much of his face... but he would always remember that smile.
+
+That was the Brighten's wizard.
+
+Thomas wasn't sure how he kept his voice so calm as he said, "Get me out of here."
+
+That was all it took. In a second, Zach stood there beside him and laid a hand on his shoulder, taking a breath to pop them out.
+
+The wizard moved. He was faster than the guard, who couldn't help but notice the intruder and lunge forward. He also reacted quicker than Robert Ross, who yelled out, "You!" and started to stand up, his wide eyes on Zach.
+
+In less than a second, the wizard had crossed the room and thrown a loop of what looked like purple light around the hand that Thomas had automatically brought up to start to defend himself.
+
+Then Zach teleported them away and dragged the wizard along with them.

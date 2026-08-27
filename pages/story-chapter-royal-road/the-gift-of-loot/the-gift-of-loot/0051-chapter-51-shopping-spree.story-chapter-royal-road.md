@@ -1,0 +1,321 @@
+---
+id: 5575ed3d-4481-5004-b8f9-3bd54a3bf983
+page-type-slug: story-chapter-royal-road
+title: "Chapter 51: Shopping Spree!"
+slug: 0051-chapter-51-shopping-spree
+partOf: the-gift-of-loot
+position: 51
+ownLength: 3926
+unit: words
+publishedAt: 2026-07-06
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3640633/chapter-51-shopping-spree"
+royalRoadId: "3640633"
+---
+
+Zach returned a little more than half an hour after he had left. One look, and Thomas knew he had good news. The man was practically buzzing.
+
+"Dudes," Zach flopped on the couch. "I spoke with Akilah, and he was super positive. He said that he'd have to talk with the other elders about a lot of what we asked for, but he didn't see any firm no's. Then he said that we would have access to the planet's System marketplace and the local marketplace at the first level anyway. That's standard for all guests."
+
+"First level of the marketplace?" Jo asked, echoing Thomas's own thoughts.
+
+"Yeah. Apparently, that's the public level for one-through-fivers like us. The higher levels of the marketplace are for merchants and people whose Gifts have gone through their first upgrade." He sighed. "I can't wait 'til this stuff standardizes on Earth, you know? Things are gonna be in flux for, like, years."
+
+"Did they say anything about us going back to Earth?" Jo asked tightly.
+
+"Oh! Right." Zach nodded. "Yeah, we can, and they'll give us some tokens to return or come back as we want, but we can't go right now because it's full daytime on Earth. They only open up the portal at night to make sure no one sneaks in from the other side."
+
+Jo let out a long, frustrated breath.
+
+Thomas glanced at her. "Your mom can watch your daughter for the rest of the day, right? It sounds like we'll be getting back in the evening."
+
+"Yes, but I'll never hear the end of it." Then she shook her head. "I'll apologize later. Hopefully, by telling her I now have a stable way to make money."
+
+"Then it sounds like it's time for a shopping spree." Thomas hefted his backpack on his back and heard the crystals clink within.
+
+****
+
+The moment Thomas stepped outside, he inhaled the scent of the air in a new world and was hit with a variety of smells he had no context to place. Some of it was fruity, some of it was spicy, and all of it was... odd. He didn't know if what he was smelling was food or people's deodorant.
+
+Oh, yeah, and then there was the temperature.
+
+Either it was winter or something, or they were keeping the rooms inside the building warmer than usual for the Earthlings, because outside was practically sweater weather. Considering the place had a tropical jungle vibe, he hadn't been expecting that.
+
+Then again, hadn't Akilah mentioned that their temperature comfort zone was different? That was interesting.
+
+It was still nighttime, but the thick spray of stars overhead and two rising moons gave more than enough light to see by.
+
+The Marketplace itself was easy to find as it was located right outside of the building, opposite to the side that their windows had been facing. In fact, it looked like they'd have to go through the Marketplace to get anywhere else in town. Thomas kept that in mind for later, but he didn't want to alarm their new hosts by just taking off.
+
+Jo pointed ahead to a large sign that declared: System Marketplace Exchange.
+
+"I think that should be our first stop," she said and started walking, forcing the guys to keep up with her.
+
+"Huh," Zach said, as he ambled along with his hands stuffed in his pockets to keep them warm. "Kind of wild that we can read that."
+
+Thomas was about to ask what he meant, then he did a double take at the sign. It wasn't written in English. The characters were kind of runic, but his eyes had just flicked over it, understood the meaning, and he hadn't looked further than that.
+
+"Must be the same magic that makes us all able to understand each other," he said.
+
+Jo frowned. "I don’t like the idea of passive magic messing with my mind, even if it's supposed to help."
+
+"Beats the alternative," Zach said with a shrug. "It's not like our phones can have an elf translator app even if we had working internet."
+
+The System Marketplace Exchange, which was different from the Local Craft Marketplace, was a large circular marble plinth with person-sized alcoves carved all around. Several elves were doing business in their own alcoves. Thomas watched as one elf woman stepped up into one and a screen flashed in front of her. Her body blocked most of the screen, though, so he couldn’t see what she was doing. The process reminded him of waiting for an ATM.
+
+They got some curious looks but he didn't sense any hostility. Nor were they the only non-elves around. In the distance he saw a truly massive figure with shoulders so wide Thomas wasn't sure how he was able to get through doors. The big... man? Being?... had a crocodile face.
+
+There was a lizard alien Thomas had been half-expecting. He knew they had to exist.
+
+Only, after the hint that Zach dropped, he wondered if it was one of the dragon-kin. Either way, the person was going about their own business, walking through the marketplace with a determined step. Thomas certainly wasn't going to get in their way.
+
+Three alcoves opened up close to one another and they decided to take their turn. Thomas stepped into his with a frown. There were no buttons or anything. How did he —
+
+Suddenly, a holographic screen flashed in front of his face and read in plain English: Welcome, Thomas Coldstrike.
+
+That was a little eerie, but that was the System for you.
+
+The screen gave him three distinct options: Assess, Buy, and Sell.
+
+I may as well see what I'm working with, he thought, and after pressing the assess button, rifled through his backpack to pluck out a C-grade level 3 water crystal. He had a few of those from the last dungeon.
+
+There was a low marble shelf about belly height. He placed the crystal there.
+
+Maybe because it was in English, he expected the System to convert the crystal into dollars. Instead the screen flashed in front of him. Assessment value: three C-Grade shadows.
+
+Shadows?
+
+That was when he realized that the base unit of money was Shadow mana... because these were Dark Elves. They apparently had a theme going.
+
+Also, his Water and Earth mana were fairly valuable to these people. Each was worth the equivalent of three C-grade shadows. Or whatever "C-grade" was in their language.
+
+"Well, hell, that's interesting," Thomas muttered to himself.
+
+He suspected that, just like dealing with the government on Earth, he could get more for his crystals with a private sale, but he didn't really have the time or experience to mess around with that.
+
+Also, other than dealing with the Darkness Trap, he hadn't seen Shadow mana anywhere on Earth. It was an appealing thought to convert everything he had into Shadow mana crystals, then go hog wild selling it in every city he could drive to back on Earth.
+
+Firmly, Thomas calmed that impulse down.
+
+For one thing, he didn't know if there were databases here on Elf World. He still needed to fly under the radar, so he couldn't convert everything he had into Shadow mana. He was already getting a good deal at three to one, and he could use shadows to buy things here he couldn't find on Earth.
+
+Backing out with a convenient Back button because this thing was as intuitive as any tablet on Earth, he next clicked the Buy button. There, he found he could either speak what he wanted or use a keyboard to type out a search. The keyboard was even QWERTY. The System really had thought of everything.
+
+The first thing he searched for was Adaptation mana.
+
+Unfortunately, it seemed to be even rarer here than it was back on good old Earth.
+
+A single C-grade Level 4 Adaptation mana—he picked C as a good middle-of-the-road standard—was worth 50 Level 3 Shadows.
+
+Ouch.
+
+He searched for Healing mana next and found that it was completely unavailable.
+
+There was a helpful info button on the side with a lowercase "i" within a circle. He pressed it, and even though it was a hologram, it still had some tactile feedback and made a little click.
+
+A pop-up window said: "Healing mana is restricted to community hospitals and medical facilities on Aether."
+
+Aether? Was that this world's name? He was going to stick with ‘Elf World’ until he knew for sure.
+
+Anyway, no Healing mana for sale was disappointing, but it made sense that the government or equivalent would want it funneled into helping people. He couldn’t be mad about it.
+
+Thomas got to business and went back to the assessment screen and tested out the Nature mana crystal. That was worth something like 20 shadows, which was a nice surprise.
+
+From there, Thomas went back and forth between Assessment and Sell to convert a decent chunk of his crystals. Each crystal he sold disappeared off the shelf as if it were beamed away. He found he could either take physical Shadow crystals or simply keep them as a running total in his System account balance.
+
+The physical Shadow crystals he received in return had a dark, smoky look to them. When he touched one... well, it wasn't nearly as bad as when he'd put his hand over Void mana, but he got the distinct impression that if he tried absorbing one, he would not have a good time.
+
+Putting aside his dreams of being some kind of cool-ass shadow king, he stored them in his bag. If there was a way to convert shadows to good old USD, he couldn't see it.
+
+Then, for scientific curiosity's sake, he converted a few shadows in his system bank account to a single C-grade Wood, one Ice, and one Light.
+
+The conversion rate was... telling. Wood was the closest at 0.75 to one Shadow. The worst was Light, which had a conversion rate of 3 Shadow equaling 1 Light. Ice fell somewhere in between.
+
+So it took more Shadow to equal the others, which meant that Shadow as a currency had a lot less buying power. That lent some truth to the elder's story.
+
+Luckily, since he was just using his System account balance, it converted the fractions easily, and he didn't end up with, like, half a mana crystal.
+
+Carefully, Thomas touched each one. Ice felt about the same as Water mana always did to him. Kind of interesting but nothing he particularly wanted to absorb. On the other hand, he felt a slight resonance with Wood mana. It wasn't too strong, but he suspected he could absorb it with no problems even though he wasn't particularly suited to it.
+
+Light, on the other hand, sang through him just as strongly as Earth did back at home.
+
+"I am such a stereotype," he muttered. "Healer with the Light mana."
+
+Earth and Light were kind of a weird mix, though. It seemed like Wood would be more of a connection. Maybe he needed to stop thinking in terms of the classical earthen elements. For whatever reason, he was definitely compatible with Light Mana, which was the most expensive and the exact opposite of the people who might become his allies.
+
+Thomas put the Light mana crystal in his pack anyway, along with the Wood and Ice. He didn't have any intention of absorbing any of it, but all three would fetch a good price on Earth.
+
+He must have taken his time because Zach and Jo were both done and standing off to the side. Both looked pleased with themselves, especially Zach, who was practically bouncing on his toes.
+
+"Dude, they got level 3 and level 4 Fire mana for sale," Zach said as soon as Thomas walked up. "It's hella expensive, but I made it work." He pulled the gleaming fire crystal out of his pack. Just visible inside were others, along with a hint of a black and starry Teleportation mana crystal.
+
+"You're not going to use a level 4 right now, are you?" Thomas asked. Zach was still a level 2.
+
+"Nah, I just wanted to save the higher mana for later, but I'm definitely leveling up to 3 when we get back to our room." He grinned. “Can’t wait.”
+
+"I think I got some good deals," Jo said, "but I don't know how shadows compare to dollars. Anyway, I felt some resonance with Shadow mana and I'd like to try it out. Oh, did you guys see the weapons marketplace?"
+
+"No," Thomas said. "I was just focused on the crystals."
+
+Zach shook his head too.
+
+"Well, come here, you," Jo took Thomas' arm and pulled him back to the plinth. There were several alcoves that were larger than the others. He guessed those were for teams. She stood him in front and said, "I want you to pick something out for yourself. My treat."
+
+"Whoa," he backed up a step. "Wait, Jo–"
+
+"You've given me so much," she insisted, pushing him back. "Let me pay you back."
+
+"I’ll throw some in too," Zach said. "I still have a little left over from buying my Fire mana, plus my mosquito toy I got as a drop."
+
+"I don't want you guys spending all your money on me," Thomas insisted.
+
+Zach shrugged. "Money comes and money goes, but you definitely need a better weapon than something you find in the hardware store."
+
+Thomas protested a little more, but even he knew that his protests were half-hearted. It was well past time he got a good weapon.
+
+"You don't actually buy the weapons here. It’s just a database that directs you to the booth in the craft hall where they can be found," Jo hesitated then looked a little embarrassed. "So, maybe I got the Blood Thirst Sword assessed. It's worth 10,000 Shadow mana."
+
+Thomas's eyebrows went up and Zach whistled.
+
+Jo continued, "It's compatible with Poison as well as Blood, which makes sense for my mana type. So yeah, you’ve done plenty for me. Let me do this one thing," she added firmly. "What kind of weapon do you want? Another mace or what?"
+
+"Not another mace,” he said, giving into peer pressure. “I ended up just tossing it half the time and that’s probably not a great idea long term."
+
+"A ranged weapon would keep you out of reach of the enemy," Zach said.
+
+Thomas shook his head. "I tried firing a bow once when I was a kid. It was embarrassing. Do they have any versions of a maul that you'd use to split wood?"
+
+Jo started typing it in, but Zach stopped her. "No, those won't work. Look." He pointed to little icons in the corner. "See, you can filter for different mana types. What's yours, Thomas?"
+
+"Well, Healing, obviously."
+
+"I don't think there's going to be any healing weapons, dude.”
+
+But Jo started her search, typing faster than a teenage girl with her first cell phone. Sure enough, no healing-related weapons popped up. “What else you got that’s common?”
+
+"Earth, I guess," Thomas said, then remembered, "and Light. But I haven't actually absorbed either."
+
+"You sure? Earth and Light don't make any sense as a combination," Jo said.
+
+"You've got to let go of old preconceptions, Jo," Zach advised. "Maybe it makes sense to the elves. Try filtering by Light mana and see what happens."
+
+That filter actually provided some results. Most of them were swords, including a scimitar that Thomas thought looked fairly interesting. Then something caught his eye. "What about this?"
+
+He pointed to a weapon listed as a halberd, which had a long pole topped with a sharp, thin blade on one side. The other end of the blade curved into a stylized hammer.
+
+Zach scoffed. "That isn't a halberd. It's more like an ancient Chinese polearm."
+
+Oh, it seemed somebody was a secret weapons purist.
+
+"Maybe it's an elf halberd," Thomas said with a grin. "You gotta let go of old preconceptions, Zach."
+
+"It's not about preconceptions, it's about using the wrong name," Zach said, looking unaccountably peeved.
+
+"Anyway," Jo said, cutting across them, "I got the location of the booth if you want to see it in person."
+
+****
+
+The marketplace was visually similar enough to the protesters' craft fair that it took Thomas back a little. Of course, there were no anti-magic protesters and no conspiracy theorists that he saw, but the vibe was a little bit like a festival, with the smell of cooking food (at least he assumed that was the weird smell) and a square with people dancing to music. All around, vendors stood behind booths with homemade banners strung up behind them.
+
+All in all, it was so... normal. Except for the night dark sky, the weird smelling food, and the look of the dark elves, this could be a community farmer's market.
+
+Thomas really wanted to check out one booth which seemed to be selling dungeon guides, because that was right up his alley, but nope, he could not afford to get distracted. Weapons first.
+
+They found the booth, and, weirdly enough, the vendor seemed to be expecting them. The halberd was already sitting on a tabletop, gleaming in the evening light.
+
+"The System pinged me that someone had been taking a look at this beauty," he said. "Not many people around here will choose a Light weapon."
+
+The pole of the halberd was five feet long, but it was unusually... well, light in his hands.
+
+"That blade is sharp, sonny, be careful," the man said. "You're Terrans, aren't you?" He paused. "Well, I suppose we'll be seeing more of your people around. Do you have Light mana?"
+
+"No," Thomas said, eyes still tracing the blade of the weapon. “Just compatible with it.”
+
+The vendor nodded once. "Good. No one decent needs that crap in their core."
+
+After a moment, Thomas remembered to look at the System name for the weapon.
+
+Light-Bringer
+
+"What does it do?" he asked.
+
+The vendor grimaced ever so slightly. "To be honest, the magical effect isn't great which is why I've had it for more than a year. It can produce a burst of light to temporarily blind enemies. The real benefit is the balance and the blade."
+
+By the looks of it, the blade was sharp, and the hammer was... hammery. That was about the beginning and end of his weapons knowledge.
+
+So when Zach asked to see it, Thomas handed it over. The man looked it up and down with a professional air then returned it. "Looks well-made, dude. It probably won't last you past this next level, but it should do what it needs to do."
+
+Jo jumped in. "I think you should get it."
+
+Then she and the shopkeeper began to dicker on pricing. To Thomas's surprise, she seemed perfectly comfortable haggling. He had tried it once or twice when he'd visited Mexico, but he always had a feeling he was bad at it.
+
+Apparently, the halberd cost 3,000 shadows. That was when Jo brought out the tadpole tooth necklace, which was hideous, but the teeth were definitely sharp and provided some interesting crafting material to affix to weapons.
+
+"Oh yeah, throw this in too," Zach said, pulling out the mosquito toy he'd gotten as a drop. "I got this appraised, and it flies. You basically use it as a training aid for ranged weapons."
+
+"Wait," Thomas said, "You guys, this is too much."
+
+Jo playfully rolled her eyes at him. "Thomas, stop being such a healer. We want to do this for you."
+
+The vendor, who had stayed out of their conversation so far, looked briefly taken aback. "You're a healer?" He looked Thomas up and down doubtfully. "And you're fighting?"
+
+"He's a weird healer," Zach explained.
+
+"I suppose you Terrans must be a weird people. Healers fighting," he muttered, "What will they think of next?" But that didn't stop him from accepting both items in the deal.
+
+By the time Thomas walked away from the weapons booth with the halberd in hand, Jo was grinning. "We should use that healer trick more often. I know that we got that for like 2,500 shadows."
+
+"It's too much," Thomas still insisted.
+
+"No, man." Zach clapped his shoulder and leaned in to speak in an undertone. "You need to get the last hit on monsters before they die, right?"
+
+"Right..."
+
+He felt a little bit better after that.
+
+Thomas meant for his next stop to be the dungeon guide booth, but then a blacksmithing shop caught his eye.
+
+He shuffled through his backpack and brought out his penknife, which now had a durability of 5%. Had it gotten banged around in there?
+
+Going up to the blacksmith, Thomas presented his penknife and asked what he could do to mend its durability.
+
+The elven blacksmith took one look and snorted. "It's a level one," he said. "Melt it for smelt."
+
+"It's been good to me," Thomas said, "It's sentimental."
+
+The man looked at Thomas like he was insane, but he said, "It will cost you ten shadows, though in my opinion, you'll be throwing them away."
+
+That didn't seem like very much, but it was, after all, a level 1 item.
+
+"But I've got to warn you," the blacksmith continued, "it’ll break the first time you use it in a level 3 dungeon.”
+
+How did he know that Thomas was level 3? Was there a way to tell?
+
+"Got it," he said. "I have a nephew who will be getting his Gift soon."
+
+His expression cleared. "Ah, that makes sense."
+
+He simply touched the weapon. The pen-knife shook slightly, Thomas swore that he heard the echo of a bear's roar, and then suddenly the weapon was renewed.
+
+"My Gift is to Restore," the blacksmith grunted in explanation. Then he presented a marble slab which glowed blue with System information. Having just seen this transaction done at the weapons booth, Thomas pressed his thumb on one side of a small marble slab and transferred the ten shadows over.
+
+They spent some time at the Dungeon Guide Booth next, looking over level three and level four local dungeons. Most of the loot drop tables were the four elven elements, which was very interesting to him, but something that was going to be increasingly common once there was more trade to and from Earth.
+
+"You guys, look at this," Zach held up a guide in triumph. "Here's a dungeon with fire and teleportation mana!"
+
+Jo gave it a dismissive glance. "That's a level 5 dungeon."
+
+"I know, but still, think of the possibilities."
+
+A bitter wind picked up. The elves didn't react at all, but Thomas shivered. He lived in Lake Tahoe, so it wasn't like he was running around in shorts and a T-shirt, but it was still cold.
+
+Just then, a young elven girl ran up to them. She wore a cardigan in the style of a uniform. She stopped, executed a bow, then said, "Which one of you sirs is Zach?"
+
+"That would be me," Zach said.
+
+She gave him a slip of paper, then ran off.
+
+"Huh. Old-fashioned messenger service," Zach said. He opened up the page, then frowned.
+
+"What is it?" Thomas asked.
+
+"So get this: They were able to get a message to the Ross-Astors," Zach said. "I didn't think they'd be able to pull it off so fast, but it sounds like the family wants to meet to talk about the Brightens in person."

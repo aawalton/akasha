@@ -1,0 +1,33 @@
+---
+id: 96ddfcd5-155c-5d22-a435-5271bd85d589
+page-type-slug: story-chapter-royal-road
+title: "Pause Week"
+slug: 0014-pause-week
+partOf: the-legend-of-randidly-ghosthound
+position: 14
+ownLength: 263
+unit: words
+ownProgress: 263
+publishedAt: 2021-11-17
+link: "https://www.royalroad.com/fiction/11209/the-legend-of-randidly-ghosthound/chapter/788514/pause-week"
+royalRoadId: "788514"
+markedReadAt: "2026-06-29T21:36:58.132Z"
+---
+
+First, a big thanks to all the support for LoRG Book 1! I really appreciate it y'all.
+
+Second, the bad news. There will be no chapters this week. I'm feeling a bit conflicted.
+
+But I want to post to bring attention to something that happened recently. Royalroad stopped showing books that have portions on Kindle Unlimited on their lists.
+
+This happening a week after I go to KU is particularly galling.
+
+But the reason I feel so conflicted is that no one reached out from RR to say this was happening.
+
+Now, it's also true that I didn't bother to inform RR, aside from the same post that announced it to y'all, what I was doing or that I signed with a publisher. And when asked, the admins here talked about how they didn't want popular to be filled with stories that new readers would need to go off-site to start reading. That makes sense to me.
+
+Yet I thought Royalroad and I had a deeper relationship than my story just vanishing.
+
+Because the part that sticks in my throat is this: the reason this hasn't been an issue until now for Royalroad is that the big names leave. They make their own site. They publish and take everything down. But I always intended to stay, because I appreciated what the site had done for me. So that someone (who started in the right time window) would be able to read the entirety of my story on RR for free, before I polished it back up and published.
+
+Now I'm not so sure.

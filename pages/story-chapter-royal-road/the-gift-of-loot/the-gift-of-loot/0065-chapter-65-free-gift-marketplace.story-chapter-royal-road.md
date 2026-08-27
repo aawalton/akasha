@@ -1,0 +1,251 @@
+---
+id: 988650cd-0418-5702-8689-771d08dd362a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 65: Free Gift Marketplace"
+slug: 0065-chapter-65-free-gift-marketplace
+partOf: the-gift-of-loot
+position: 65
+ownLength: 3391
+unit: words
+publishedAt: 2026-08-05
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3774089/chapter-65-free-gift-marketplace"
+royalRoadId: "3774089"
+---
+
+The lawn before Griffith Park Observatory was filled with booths, folding tables, and picnic blankets. Some people had just spread out on the grass. All were selling their dungeon drops.
+
+It was an entirely different vibe from the Reno marketplace: open and just a little dangerous. There was no check-in desk in sight to scan IDs or a visible National Guard presence.
+
+Unthinkingly, Thomas turned on his Eyes of Riches skill then nearly reeled back as he saw bright lights in new colors everywhere. It was like being right next to a disco ball. Maybe between a few disco balls, all spinning in different directions.
+
+There were tons of items worth value here. He couldn't even stand to look at them all. Thomas snapped it off, just to keep from going blind.
+
+Eyes of Riches was better at finding hidden objects. Lesson learned.
+
+Zach was clearly in his element and practically pulled Thomas along as he rattled off which sellers were worth their time. It was clear that he had already explored the area.
+
+"There's a dude who's selling some high-quality dungeon guides. It's all local stuff, but I got a vibe about him, and I bet he knows some choice dungeons that aren't on the list, if you know what I mean–"
+
+"First," Thomas said, interrupting him, "I gotta offload my stuff." He had been looking for an opportunity just like this, where he could sell his crystals and be entirely anonymous. This was perfect.
+
+"Hey, yeah, I did some of that. Shadow mana is really popular here," Zach agreed with a shark-like grin that Thomas returned.
+
+Fortunately, Thomas hadn't unloaded every single Shadow crystal he had at the Elfin Marketplace. He still had a few Wood crystals in his pack, too, along with his single Ice and Light crystal, as well as everything he hadn't sold from the Ross-Astor Swamp Dungeon.
+
+"Have you told Jo about this place?" He asked.
+
+Zach nodded. "Yeah, but she can't come. She's doing mother-daughter stuff. Can't blame her since we were gone for days at that last dungeon, but she's definitely interested in visiting later. It's probably a good idea that we don't show up selling rare mana crystals all at once, right? Spread it out."
+
+That made sense. Zach looked like he was about to pull him to a nearby table, but now that the initial shock of seeing this place had worn off, Thomas had to get some stuff out of the way. "Hey, how did your registration go?"
+
+"Easy, they didn't even ask for my driver's license. Why?"
+
+Thomas scoffed. Sometimes he felt like if he didn't have bad luck, he'd have no luck at all. "Because I was pulled into a personal interview with Colonel Applebaum."
+
+That slowed Zach down. He quickly glanced over Thomas to make sure that he was still in one piece. "What, really? What'd he want? He doesn't –" Zach stopped himself and tilted his head back and forth, and somehow Thomas understood that as a silent, He doesn't know about your gift, does he?
+
+"He wanted me to demonstrate how I use my Gift of Senses," Thomas said. He would never speak about the details of his Gift aloud even here with all the chaos of the free market around him. He gave Zach a significant look. "Which I did, and then he offered me a position as an officer in the National Guard."
+
+Zach's eyebrows raised. "They do have pretty cool uniforms."
+
+"Not cool enough," Thomas said. "He told me that no one else was able to absorb the living architecture skill. I'm thinking that was a big reason why they gave it to me."
+
+Zach looked surprised. "Really? They don't have any healers in the Guard?"
+
+He was relieved to see that Zach's reaction matched his own. "I have no idea, but at least I was free to say no... for now."
+
+Zach crossed his arms, bowing his head for a moment in thought. Then, glancing at Thomas, he shook his head. "Dude, maybe you should get a teleport skill too. I mean, don't get me wrong. I'll come and find you wherever you are if someone decides to kidnap you, but it's better to dodge that situation altogether. You know what I mean?"
+
+Thomas already knew that his team would back him up, but it was still good to hear. Still, he sighed. "I think I'm going to have to focus on something for combat going forward, but it'll need to be something that doesn't also mess with my...pineapple situation."
+
+Zach flashed a grin, humor restored. "Good thing we're here then. C'mon, let me show you to a guy I think will be worth our time."
+
+He led him to a man who stood behind a folded card table, with mana prices on signs prominently displayed on either end. The man had a look about him that reminded Thomas very strongly of Twitch. Mainly, that he was openly wearing blood red, including a red handkerchief tied into his hair, and sported several classic tattoos--okay, he was clearly a gang member.
+
+He had a list of mana prices written out on chalkboards in extremely neat handwriting. At a glance, he was offering 20 to 30% above what Thomas could get at the Reno auction, and that put the prices about 50% over what the National Guard would pay.
+
+Every single board had a perfect-looking asterisk on the bottom, along with a note that said, "Everything in cash. No receipts."
+
+The vendor looked at Zach and smiled. "You said you'd be back, but I didn't expect to see you so soon." His gaze flicked to Thomas. "You're the teammate who has more goods?"
+
+"That depends if you're willing to pay for them," Thomas said, cheerfully enough.
+
+"Well, let's see what you got then."
+
+Thomas shuffled through his backpack and started placing down the leftovers he'd gotten from the swamp dungeon. These were mostly level three Earth and Water crystals.
+
+The vendor looked them over at a glance then nodded to one of the boards. "I rate these as C and D-grade, except for that water, which is B. You'll get what the sign says: 250 for the Easy Ds, 500 for the Cs, 1000 for the B."
+
+That was a distinct upgrade from the level 1 and 2 crystals he was used to dealing with back home.
+
+Then the vendor leaned closer so that his voice did not carry. "But your friend said you had something special."
+
+Thomas knew what he was asking, so he pulled out the four-wood mana crystals. They had exchanged the level 4 drops for the lesser expensive level 3 on Elf World as Earth was restricted to level 3 and under until System Integration, but Wood mana wasn't one of the base elements on this planet.
+
+Seeing them, the vendor whistled under his breath. "I could give you an easy 2,500 for each one of these."
+
+That sounded good to him, considering he'd just offloaded a ton of shadow mana to an elf vendor last night for $100 apiece. He opened his mouth to agree, but Zach cut across him.
+
+"No way, these are hella rare, dude. They're easily worth five bands apiece."
+
+"Three's the best I could do," the vendor shot back immediately.
+
+"You can't even find these on Earth right now," Zach countered, which in Thomas's opinion was giving away too much information, but he kept his mouth shut and let the man work.
+
+"It's Wood mana," the vendor replied. "You're an LA, dawg. Who has time for that nature shit? Besides, we're already over the limit of how much cash I got on me. It's not like banks will just hand out racks of bills to everybody. Most of my customers are still dealing with level ones."
+
+Now it was Zach's turn to lean forward. "Maybe tell your bosses that when integration comes—" He flicked his eyes up to the ever-present message in the sky. "Guns won't be working like they used to. And those that do might find that people don't drop when they get shot. Then they'd be happy to get some high-quality 'nature-shit'."
+
+The vendor stared at him. "You for real?"
+
+"You think that we wouldn't have gotten our hands on Shadow and Wood mana if we didn't know what we're talking about?" Thomas asked. Though he hadn't known about the gun thing either. He added, "Maybe tell anyone who will listen to get themselves into a dungeon and unlock their Gift before Integration day, too. They'll regret it for the rest of their very short lives if they don't."
+
+The vendor's eyes narrowed on him as if he were weighing his words. Then he tilted his head in a shrug. "I can do 4,000. That's my max and it'll have to be through Square. It's not like I have a whole bank behind me, you know?"
+
+Thomas wasn't in love with the paper trail that a payment app would leave behind, but on the other hand, he supposed if the guy really wanted to screw him over, he could just give Thomas counterfeit bills. At some point, he had to extend a little trust. Plus, these mana crystals were easy come for him.
+
+The Square payment actually had the option for Thomas to leave him a tip, even though he was the one getting paid. He declined.
+
+He walked away with his bank account significantly bigger.
+
+Zach took one look at him and laughed. "You okay, man? You need to sit down?"
+
+"It's just... it's a lot of money," Thomas said, then in a lower voice, "I think we hit the easy button."
+
+"Yeah, we did, at least while cash is still good," Zach agreed lightly, but that was enough of a reminder to pull Thomas back down to earth.
+
+Yeah, they had the advantage right now... while cash was still worth something.
+
+They moved on to a booth that was selling mana, but they only had a couple of level threes, and those were in the basic elements of Air, Water, Earth, and Fire.
+
+He really needed to get out of the habit of thinking of those in the Avatar order.
+
+Then another booth caught his eye. It was hard not to notice it, considering it was both loud and a little smelly. It was a pet booth loaded down with different cages, which held everything from the slightly off-mundane, like different colored chickens (including one that had a sign in front of it claiming it laid fire eggs) to a dark cage with unsettling eyes that peered out from under a bundle of old clothing for some reason, to an open cage of adorable balls of fluff that loved to be cuddled and purred when petted and for legal reasons were certainly not called tribbles.
+
+Thomas had no intention of buying a pet. In fact, he was hoping to offload one.
+
+"Is there anything you're interested in?" the vendor asked, smiling when Zach exclaimed to the side and picked up an orange and white tabby not-tribble.
+
+"I have something to sell," Thomas said and pulled out the metal box from his backpack. Sensing the movement, the unicorn shrieked a whinny and kicked at the side. "It's extremely... um, spirited."
+
+The vendor's expression soured. "Are there any air holes in that thing?"
+
+Feeling judged, Thomas added, "It's also indestructible and not technically alive." A not insignificant part of him considered just pushing the box at her and running away.
+
+"Just because it's not made of living flesh doesn't mean it's not alive," the vendor chided him and then sighed. "Let me see it."
+
+Feeling a bit humiliated and, against all reason, a little bad, Thomas put the box on the table and carefully opened the lid. Of course, the unicorn tried to leap out with its mouth open to display every needle tooth. However, it was only a level one, and he was a level three with quicker reflexes. He grabbed it right behind the shoulders where it couldn't whip its head around and bite him, though it tried anyway.
+
+The System tagged it as: Toy Unicorn.
+
+So helpful.
+
+"Aw!" said a little girl, seeing the unicorn. Zach wandered over too, still petting his orange tabby not-tribble.
+
+The unicorn kicked and shrieked, its lion-like tail whipping back and forth.
+
+"Have you even fed this thing yet?" the vendor asked.
+
+Thomas gave her a flat look. "It's an animated plastic toy. It's not alive."
+
+"Here." She reached under her table and produced a handful of green alfalfa. "Give it a try."
+
+Not understanding the point of this, Thomas nevertheless carefully put a straw of alfalfa in front of the unicorn's muzzle. It snapped at it then immediately started mowing the rest of it down as if actually feeding the need to destroy something, but its eyes still flashed pure hate at Thomas.
+
+"Dude, you've never even fed that sweet little thing?" Zach asked with exaggerated horror. "And it's been kept in that little box all this time?"
+
+Thomas shot him a shut-up look, and Zach grinned, petting his not-tribble as it cooed.
+
+"My Gift says it will be loyal to your bloodline," the vendor said. "That means it'll be useless to anybody else. I won't be buying it. Now, that'll be $5 for the alfalfa."
+
+Reluctantly, Thomas used his free hand to fish for his wallet. "What does that mean? It's bonded to me?"
+
+"It means that as you grow, it too will grow in strength."
+
+Thomas looked at it in horror. He did not want to be a healer with a pet unicorn toy. "I don't want it to grow! This... this was a non-consensual bonding."
+
+"Well," she sniffed, "clearly whatever dungeon you got this from thought it was meant to be. Now, are you going to buy that or just pet it?" she added, looking to Zach.
+
+Zach visibly considered it then, with reluctance, carefully put the little creature back in the open cage. "Sorry, little guy. My lifestyle is too dangerous for you."
+
+The thing gave a sad little coo but then started purring again as the six-year-old girl came to pick it up.
+
+The vendor turned back to Thomas. "My advice is to either set it free in a dungeon or give it a job of some sort."
+
+"What kind of job? It's dangerous," he asked, exasperated. They were acting like it was a chihuahua with a bad attitude, but he was certain this thing could take someone down if it got the jump on them.
+
+"It's your bonded pet, you figure it out," she replied tartly then turned to a paying customer.
+
+"Maybe you can use it as a training aid." Somehow Zach kept a straight face. "Let it loose and you can have all the healing opportunity you want,"
+
+"Thanks," Thomas said sarcastically and held the unicorn out to him. It was snapping at the air as if desperate to bite something, anything. "You sure you don't want it?"
+
+"No bro, I'm not taking someone's bound pet. That's messed up."
+
+Thomas put the unicorn back in its box before stuffing the whole thing into his backpack.
+
+"What are you going to name it?" Zach asked.
+
+"Problem Child for now," he muttered then out of curiosity he checked his status. As he suspected, it didn't mention anything about a bound pet. There was no mention of his abilities either, just his skills. Maybe more information would be available once he leveled up.
+
+With determination, he put the problem of the unicorn out of his mind for now. "Didn't you say something about someone selling dungeon guides?"
+
+"Hey, yeah. Over here."
+
+Zach led him towards the edge of the main lawn where the crowds weren't as thick. The guide booth reminded Thomas a lot of Ralph's setup in Tahoe: the guides were clearly printed on someone's laser jet and then bound at home. Most of the guides were stacked and arranged by region, from different areas in L.A. all the way up to the mountains and then down to the Inland Empire.
+
+The man himself reminded Thomas a little of his older brother—Pete, not Derek—because he had a real outdoorsy, mountain man air about him.
+
+"Let me handle this one," Zach said, and instantly slid into full charm mode, casually walking up to start some easy small talk with the vendor.
+
+Meanwhile, Thomas glanced over the available guides. Nothing much interested him. He would only be diving level 3 dungeons to make money, and while there were some interesting mana types, he saw nothing that would net him a profit like getting basic drops on Elf World and then returning here to sell them.
+
+His attention was pulled back to the conversation when he heard Zach ask with distinct casualness, "Do you have any guides on dungeons that haven't made it to the official registry?"
+
+"Selling information like that would be illegal," the vendor said piously. "LAPD sometimes comes in to take a look around at the goods and also at receipts on who bought what."
+
+Zach paused for a second. "Do you keep receipts for barter transactions?"
+
+The man's beard shifted as he smiled. "No, I do not."
+
+Taking that as his cue, Zach swung his messenger bag around and pulled out one of the feather drops from the griffin dungeon. "This is a Natural treasure," he said, holding it up. "The System doesn't designate these as bound by levels. When it is absorbed, you can slow down a fall once every 24 hours."
+
+Thomas hadn't known that, but then he remembered that Zach and Jo had gotten the item drops assessed back at the Elfin Marketplace. He'd been so distracted by his conversation with Akilah that he hadn't asked for the results.
+
+"I'll have to verify that claim," the vendor said, but if it checks out—again, the vendor's beard shifted as he smiled— "I think I might have something worth your time."
+
+They waited while the vendor called a friend over, who did in fact verify exactly what had been claimed. Then he sharply asked where Zach had gotten it.
+
+"I'm keeping that to myself for now," Zach said. "I like to travel here and there."
+
+The vendor turned and pulled out another booklet from the middle of a stack of others, hidden in plain sight. "This one will cover most of the western states, some of Canada, and a couple in Mexico close to the border."
+
+"Hold on," Thomas said, stepping forward. "Let me take a look at that."
+
+The vendor frowned at him. "This isn't a library. I won't let you read for free."
+
+"I'll just verify it's good with one dungeon," he says shortly and took the guide from his hands.
+
+The guide was well organized and he flipped to Northern California and then from there to the Tahoe Basin area. Sure enough, the Chipmunk Fire Dungeon was listed. That meant somehow his secret dungeon was no longer a secret... at least to the people who had the means to look.
+
+Thomas snapped the guide shut before the vendor could have a hissy fit. "How did you come by this information?"
+
+The vendor glowered at him. "Someone's Gift. That's all I'm saying."
+
+Possibly his Gift, then.
+
+"It's good info," Thomas said to Zach, who exchanged the guide for the feather.
+
+Now they had a list of dungeons where they could freely dive without being monitored. Then they could use those drops to sell here, which would be an easier prospect than trying to offload a lot of level 4 stuff.
+
+No, the level 4 stuff would be for their own leveling plans.
+
+It was getting later in the day; the sun was blazing high in the sky, and the crowd had thinned out a little just by virtue of no one wanting to stand in the heat.
+
+Zach seemed distracted and kept glancing back towards the direction of the pet vendor. Meanwhile, Thomas was painfully aware he hadn't yet purchased anything that would help with his combat problem. He kept a sharp eye out as they walked until he spotted something interesting.
+
+He had to poke at Zach's shoulder to get his attention.
+
+"Huh?"
+
+Thomas nodded ahead. "Skill and Weapon Merge Emporium. That sounds promising." He made a beeline right for it.

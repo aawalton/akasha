@@ -1,0 +1,301 @@
+---
+id: ece50155-7977-5da3-bdd2-12f507f4bb85
+page-type-slug: story-chapter-royal-road
+title: "Chapter 36: An \"Easy\" Dungeon Dive"
+slug: 0036-chapter-36-an-easy-dungeon-dive
+partOf: the-gift-of-loot
+position: 36
+ownLength: 3715
+unit: words
+publishedAt: 2026-06-01
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3479267/chapter-36-an-easy-dungeon-dive"
+royalRoadId: "3479267"
+---
+
+"Are you sure this is safe?" Thomas's mom, Sue, asked for about the hundredth time. She leaned forward and gazed with the utmost skepticism at the green and brown shimmering dungeon entrance. "I've seen videos, you know. People die from these things."
+
+"If you've seen videos of inside the dungeon, then they were made up in a studio or with AI," Thomas's father, Peter, said flatly. "No higher technology is allowed in the dungeon. That means no cameras."
+
+Thomas traded a slightly exasperated look with the dungeon guard. They had ten minutes to enter the instance, and Thomas's mother had been waffling for four of those minutes. It didn't sound long until you had a line full of people staring at your back, probably wondering why two elderly boomers were going in in the first place.
+
+"Mom," he said with forced patience. "It's safe, and I'll be with you every step of the way. You read the guide I gave you, right?"
+
+"I was never too good with tests," she muttered.
+
+Peter put a hand on her shoulder. "It's now or never."
+
+"Healing crystals won't work on you until you enter a dungeon," Thomas reminded her. That little factoid had been filtered through the media over the last few days, probably because it encouraged reluctant people to try out the dungeons for the first time.
+
+Some countries were even instituting mandatory dungeon entrance for newborn babies. A nurse, close family friend, or religious leader, depending on preference, would take a swaddled newborn quickly into a level one dungeon and then directly out again.
+
+It wouldn't unlock the child's Gift, as they would have to be 15 years old. But the simple act of passing through and back out again was enough to make healing crystals work on them.
+
+Sue's chin trembled slightly, but she had been taking pain pills for increasing arthritis problems for years, and the promise of being pain-free without aid finally overrode her fear.
+
+Clasping her husband's hand, they both strode through the Vegetable Greenhouse dungeon entrance.
+
+"Finally," Thomas heard someone say from further back in line.
+
+Thomas turned, flipped the man off, then followed his parents in... where he almost immediately crashed into the back of his dad.
+
+"Is this the dungeon?" Peter asked, proving that he had not read the dungeon guide at all.
+
+"This is just the safe room," Thomas said, already feeling a little exasperated. "The dungeon itself is through that door. You ready?"
+
+Peter shifted his grip on the maul Thomas had given him, which had been a brand new purchase from the local Ace Hardware. Thomas had even tied a red ribbon around the handle.
+
+His mother was armed with a shovel.
+
+Yes, it looked ridiculous, but he knew that if he gave his mother an actual weapon, she would not come within two hundred feet of the dungeon entrance. His parents had the exact opposite problem from Ashton: he had to show them that a dungeon could be survivable.
+
+"There's a cabbage monster about five feet from the door," Thomas coached his father. "Just swing down on it. It won't hurt you unless you actually step on it."
+
+"Be careful," Sue commanded Peter as he opened the door.
+
+It was funny seeing how stunned his parents looked as they came out into the dungeon. It was a large enclosure with green-tinted greenhouse glass off in the distance. His mother, who was an avid gardener, made a little sound of appreciation.
+
+"There it is," his father hissed, spying the killer cabbage. It wasn't hard to spot: this was an easy level one dungeon, and the cabbage made no effort to hide itself.
+
+Cautiously, Peter raised his maul. "Do I just sneak up on it?"
+
+"No, it has no feet to run off," replied Thomas, amused. "Go to town."
+
+With a fairly impressive war cry, his father brought down the blade side of the maul in a single chop, and the cabbage was no more.
+
+"Good job." Thomas gave his best golf clap. "That was enough to unlock your Gift."
+
+His father was breathing heavily, though he wasn't wheezing, so he was nowhere near the danger zone. "That's it?" He frowned. "It seems a bit... anticlimactic."
+
+"Do you feel any different? Can you shoot lasers out of your buh—I mean, eyes?"
+
+"Thomas," his mother scolded, not having been fooled for a moment. "What a thing to say."
+
+He grinned at her. "Let's stay here a minute, let Dad catch his breath, then you're up."
+
+"I'm fine," Peter said, straightening up, though he was still breathing heavily. "Sue, really, it's not worse than chopping wood."
+
+"I've never seen wood that chops back," she said primly. Though she was standing a little more stoutly, looking more ready for battle than Thomas had expected. He'd once seen her cry over accidentally running over a rattlesnake with a lawnmower.
+
+"Where's the next monster?" Sue asked.
+
+"There's a killer squash just around that bend." Thomas glanced at the entrance door, then carefully pulled out his pocket watch and checked the time. They had three minutes.
+
+He tried to make the motion subtle, but his mother clocked it immediately. "Thomas Alexander Coldstrike," she said, three-naming him. "What exactly aren't you telling me?"
+
+He didn't want to do this. He just wanted his parents to worry, and more importantly, be healthy again. But he'd also made the almost fatal error once before of not respecting the ten-minute instance limit.
+
+The guards at the entrance seemed on the up and up this time, but how could he really be sure?
+
+"It's good practice," he said carefully, "to guard the dungeon entrance until the next instance rolls over."
+
+"Why?" his father asked, though judging by his tone, he had probably already figured it out. Peter could be stubborn but he was not an unintelligent man.
+
+"In case somebody else barges in," Thomas said, choosing his words carefully.
+
+His father let out an annoyed breath. "Does that happen a lot?"
+
+"I knew it," his mother said. "These things are death traps."
+
+"It's not a death trap." And this easy level one certainly wasn't. Irritated, Thomas checked his pocket watch again, then opened the entrance door and peered in. The room was still empty. No one was waiting to ambush him. This time. "Like I said, it's just common sense, and it only cost us a couple of minutes. Why don't you check the cabbage for loot? Sometimes they drop crystals or other things."
+
+His father gave him a sideways look like he didn't believe a word of it, but they did have a couple of minutes to kill, and he was plainly curious. He went over and toed through the remains.
+
+There was nothing. Welp, it looked like Peter hadn't gotten the Gift of loot.
+
+His mother, though, exclaimed in mild surprise and bent over the body of the cabbage, picking through it as if the mess didn't bother her at all. "Look at this." She held up her hand. There were three bloody chunks of something in her palm.
+
+"Sue, what in the world is that?" Peter asked.
+
+"They look like seeds, though they're certainly not from a cabbage. These look more like pumpkins." She turned them over in her fingers, studying them. "I wonder what would happen if I planted them?"
+
+Thomas didn't know, and he realized he had never considered parting out the monster corpses for additional loot. Had he been leaving money to get reabsorbed back into the dungeon all this time?
+
+Then again, he didn't feel the need to butcher dungeon monsters for their parts, or paw through their guts.
+
+"I'm going to plant them," Sue announced, sticking the three seeds in her pocket, gore and all.
+
+Peter frowned. "You'll be growing little baby monster pumpkins."
+
+"Oh, Pete, don't be dramatic."
+
+Speaking of monster pumpkins, Thomas activated his health sight and kept an eye on the wandering pumpkin that had tried to eat Ashton last time. It was hanging around but still kept far enough away that he wasn't worried about stepping in.
+
+His parents bickered back and forth, and finally the ten minutes were up. Thomas felt comfortable moving on.
+
+He had expected his mother to have a lot of trouble, conceptually, with killing a monster. But the moment she saw the squash, she set her jaw and beat it with the flat of her shovel like it owed her money.
+
+"Go, Mom!" Thomas laughed.
+
+"I hate squash. Remember when you were in middle school and I had one volunteer plant completely take over the back half of the garden? I turned my back for two days and it had strangled my tomato seedlings."
+
+With a final strike and a squeal, the squash monster split in two.
+
+"Hey, look at this." His father bent and picked up a brown mana crystal. It was small, either a D or maybe an F grade. But it was something.
+
+"That's an earth crystal," Thomas said. "You know, they'll trade those things for money or casino chips at the state line casinos."
+
+His father exchanged an amused look with his mother. "Well, I think you just found your next slot money, Sue."
+
+"Do you guys want to continue with the monsters?" Thomas asked. "Or go straight to the boss and get out of here?"
+
+His mother surprised him yet again. "We're here, aren't we?" Then she shot a look at his father. "And I'm feeling the hankering to play some slots this weekend."
+
+So they went through the dungeon, Thomas guiding his parents while Peter and Sue took turns killing the extremely simple vegetable monsters. They bickered the entire time, which was perfectly normal for them, and it brought Thomas right back to his childhood.
+
+Honestly, it felt good to run a low-stress dungeon. He'd needed this.
+
+It had been two days since the grizzly bear dungeon, and Thomas was doing better than he thought he would be. He suspected that his healing mana helped protect him against PTSD. He definitely needed some downtime afterward, but he wasn't feeling overly traumatized or having more than uneasy dreams afterward.
+
+To his surprise, he found that he had grown stronger. Even the Chipmunk Forest Fire dungeon felt easy. He'd cleared it in less than an hour, though he hadn't tackled the boss. He just wasn't suited for phoenix rebirth powers. Though he had gotten a cool fire stone from one of the chipmunks. Literally, there was a lick of fire encased in the rock.
+
+Now he was looking forward to another challenge. He wanted to get to level 3.
+
+But before he did anything else, he wanted to take care of his parents.
+
+They were doing great in this dungeon. The only time Thomas stepped in was to slay the boss, and that was mostly so he could try out the clawed glove.
+
+The super low-level boss was no match at all for a level two item. He slashed it twice in an X, à la Wolverine, and it sort of squirted tomato juice everywhere and died, leaving behind a B-grade earth crystal and an A-grade water crystal.
+
+Thomas turned, grinning, and saw his parents staring at him in shock.
+
+"I've run this dungeon a couple of times before," he said. "Anyway, you guys want to find out your Gifts?"
+
+Sue perked up and charged forward at surprising speed, considering her gait was uneven thanks to her arthritis.
+
+The exit room was a little tight for three people and two reward chests, but they made it work.
+
+Peter looked back and forth. "How do we know whose chest is whose?"
+
+"One is for your Gift scrolls. The other is the reward you get for completing the dungeon," Thomas explained, then grew serious. "The National Guard might ask you what your Gift is. You don't have to tell them. It's up to you."
+
+"What's your Gift, Tommy?" Peter asked. It was the first time either of them had asked that question, despite all the talk about dungeons and the last hour of slaughtering monsters.
+
+The lie tripped off Thomas's tongue easily. "Gift of Senses. My perception increases a little for each monster I kill, then resets when I exit the dungeon."
+
+His father blinked like he hadn't understood half his words, but his mother was already bending to open the larger of the two chests. Inside sat two scrolls, and to Thomas's amusement, they were marked with his parents' first names.
+
+"Did the National Guard do this?" Sue asked, picking up hers and handing her husband the second one. "That was thoughtful of them."
+
+"No, that was the dungeon." He shrugged when his mother looked at him. "We're surrounded by magic."
+
+Sue gave a dismissive sniff and opened her scroll. Then she frowned and immediately handed it to Thomas. "Is this good?"
+
+He stared at his mom, who, as the years went by, had looked more and more like a stiff breeze could knock her over. "Yeah," he said. "This is really good."
+
+"Well, how is this fair?" his father asked, disgusted, then read his own scroll aloud for the benefit of his wife and son. His voice took on a pompous air: "You have received the Gift of Assembly. You now intuitively understand how to create and destroy basic mechanical objects." Then Peter snorted. "Anybody can destroy basic mechanical objects." He hefted the maul in his hands by way of example.
+
+Thomas wasn't sure if his father's Gift was good or bad, but at the very least, it was interesting. He grinned. "So does this mean I can call you over next time I need to put together some furniture?"
+
+"You put your own damn furniture together," Peter said loftily. "It's character building."
+
+"I think," Thomas said after a moment's thought, "these are safe enough for you to bring to the National Guard."
+
+His mother gave him a sharp look. "Safe?"
+
+"Like... you won't be put on any lists," he explained. At her further puzzlement, he added, "Not like you have a touch-of-death Gift or something."
+
+"He means he doesn't trust the government," Peter said. "And I don't think I blame him. Have you heard what our good-for-nothing senator said the other day?"
+
+Knowing that his father was winding himself up for a good old-fashioned political rant, probably with half the opinions echoed directly from his favorite TV channel, Thomas tuned him out. He'd had a lot of practice.
+
+After grabbing the two C-grade earth crystals from the rewards chest, he guided his parents out of the dungeon.
+
+****
+
+"Okay." Thomas put two level one healing crystals on the coffee table with a clink. "Take these and see what they do for you."
+
+They were back at his parents' home, in the cramped living room of their two-bedroom, one-bath. It had been a little tight growing up with him, Derek, and Pete Jr., but they'd managed.
+
+The decor hadn't changed since the eighties, and neither had the brown carpeting. At least it hid the stains. Three boys could wreak havoc.
+
+He wondered how Ashton, Kingston, and Braxton were doing to his apartment carpet. Actually, never mind. He was never getting his deposit back.
+
+Before taking his parents to the dungeon, Thomas had stopped by the Crystal Flea Market that morning and purchased four health mana crystals. The set had cost nearly five hundred dollars.. As more and more divers started exploring dungeons, the benefits of health crystals were becoming more widely known, and the price had shot up.
+
+Still, Thomas could afford it now.
+
+His father picked up the first one doubtfully. "You don't expect us to swallow these?"
+
+"No, you absorb them," Sue said. "I saw this on Facebook." She frowned as she concentrated, and the crystal immediately jellified in her hand and sank into her palm.
+
+A moment later, his father's did the same.
+
+Peter took a surprised breath, then a deeper one, letting it out slowly. There was no wheeze. Decades of damage from smoking were now gone.
+
+Beside him, Sue exclaimed in delight as she rotated her wrist and flexed her fingers rapidly. "I feel... good," she said.
+
+Thomas grinned. This was what he had wanted when he originally dove the chicken dungeon. He opened his mouth to say something, then paused. There was a rosy pink mist rising from his mother.
+
+A few seconds later, his father had a pink mist cloud too.
+
+"What's that?" Sue said, waving the mist away as if it were a bad smell.
+
+"I don't know. I've never seen that before," Thomas said. "It looks like health mana."
+
+He used his health sight on his parents but didn't see anything unusual. It wasn't like he could diagnose anything with it.
+
+After a few moments, the pink mana mist faded.
+
+"Well, I still feel fine," Sue said. "In fact, I feel like I could go for a jog. I haven't felt this energetic since you were little, Tommy." She started to stand.
+
+"Wait, before you go," he said. "There's one more thing. I know you don't want to dungeon dive, but I have some extra mana from my dives. You should take it."
+
+He reached into his bag and grabbed two Ziploc packets of what he was considering the basics: one white, one blue, one brown, and one red crystal each.
+
+His parents exchanged a look, and his father said, "How many dungeons have you been diving, exactly, to have all that?"
+
+The question took him by surprise. "A few."
+
+"I don't like it," Sue said. "I don't like the idea of you putting yourself in danger, especially for us."
+
+"I'm not," Thomas lied like a rug. "You saw the Vegetable Dungeon."
+
+"Yeah, but one wrong step and a carrot chomps your toes off," his father said. Then his dad and mom glanced at each other again.
+
+Thomas knew that look. "What," he said flatly. It wasn't a question. He knew something was coming he wouldn't like.
+
+His father hesitated, then sighed. "Derek said that you have a job opportunity at the hospital? And that you didn't take it."
+
+Thomas felt a flash of anger. "Derek is full of shit."
+
+"Thomas!" his mother scolded.
+
+"I never had a job opportunity at the hospital," Thomas corrected, barely keeping his tone civil. He and Derek still hadn't talked, and now Thomas had the bad feeling his brother had been spending his time bad-mouthing him to the rest of the family. "Derek thinks I should look for a job at the hospital, and to him, that's as good as an order."
+
+His father frowned. "What's wrong with a good medical job? You could train to be a paramedic. Surely it would pay more than what you're doing now."
+
+"It would be good, consistent work," his mother added. "Right now, are the courts even running with all the nonsense going on? How much work can a paralegal have?"
+
+Thomas sighed. He wasn't even a paralegal, but his mother had never actually accepted that.
+
+"Mom, what's happening isn't nonsense, it's..." A probable restructuring of their entire society. Thomas shut his mouth.
+
+His parents were adults, and even though they were on the verge of treating him like a child, he instinctively didn't want to burden them with what he knew was coming down the road. "Mom, Dad, I'm fine. I have my job situation under control. Meanwhile," he tapped the Ziploc bags, "I'd like you two to try to see if any of this mana feels right to you. You don't have to dungeon dive, but our world is going to be full of magic soon, and this is the fuel to make it work."
+
+He must have said something right, because while his parents both frowned a little, they didn't push back.
+
+Or maybe it was because they were both feeling too good to argue. His mother kept clenching and unclenching her hands, and Thomas noted that her knuckles looked a lot less swollen than before. His father intermittently let out gusty sighs, as if he wasn't used to being able to take in so much air at once.
+
+Thomas had to explain the method a couple of times, but eventually, they got the idea of feeling out the correct mana. His mother picked a brown earth crystal, and his father picked fire.
+
+They absorbed their crystals cleanly, and nothing drifted back out from them. Thomas studied them quickly with his healing sight, and if he concentrated hard enough, he got an impression of the beginning of their cores. His mother's was like brown tilled earth. His father's was already warm, like an ember.
+
+There was no sign of the health mana he'd given them. It hadn't stayed in their bodies at all. After healing them, it had... what? Outgassed?
+
+The first crystal Thomas had ever absorbed was a fat A-Grade health mana. He remembered exhaling out something like sparkles for a breath, but that had been it.
+
+He'd been badly slashed by the boss chicken monster at the time. His parents, by contrast, had the accumulated wear of age to deal with.
+
+It seemed like their bodies had accepted the health crystals to fix their ills but hadn't been able to retain the excess. Not the way he had.
+
+****
+
+Thomas was still thinking about mana as he drove back to his apartment. When he'd gone to the Crystal Flea Market earlier, no one had any level two Adaptation mana for sale. He could just go back to the Mimic Dungeon and pick up some level ones, but he didn't want level one mana in his level two core.
+
+He would have to do some research: find a lead, a rumor, or simply a seller.
+
+The sun was starting to set. It took him a few moments to realize there was someone sitting on the front stoop of his building. For a second, he thought it was Derek, and his annoyance spiked. He and his brother were avoiding each other, but Derek had gone whining to their parents, so they needed to have words.
+
+But as he drew closer, he saw the silhouette was thinner than the more burly Derek. The man raised his hand in a casual wave as Thomas walked up.
+
+"Thomas the mana-man," said Zach. "How's it going?"

@@ -1,0 +1,445 @@
+---
+id: 7783fa1f-e472-5ee1-b335-fe19471956b8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 227: Scrambling"
+slug: 0152-chapter-227-scrambling
+partOf: the-calamitous-bob-stubbed
+position: 152
+ownLength: 5086
+unit: words
+ownProgress: 5086
+publishedAt: 2025-10-30
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2717146/chapter-227-scrambling"
+royalRoadId: "2717146"
+markedReadAt: "2026-06-29T21:19:51.614Z"
+---
+
+Snow fell on the Academy. In her seat at the front desk of the administrative building, Darla tightened her scarf, then placed her ungloved hand on a mug of steaming hot klod for the airy corridors of the ancient building were wet and drafty. A noise. She looked up to see a woman entering through the door, bringing a cloud of snow with her. She wore a dark travel cloak of good make with no visible weapons or focuses, but Darla wasn’t just a competent admin.
+
+She was first and foremost, a counter-intelligence expert, retired from Enoria’s service then recruited by the Dean to smell trouble before it could begin. And this one might be from the faint sheen of mana covering her Viziman features. Dark wavy hair, dark brown eyes, dusky skin, she was ‘fresh off the boat’ as they might say, or that is what she wanted to show.
+
+Darla's hand traveled to the small key that would, when turned, alert the guards outside. She was fast with the knife concealed in her sleeve, but drawing it meant it was often too late.
+
+The woman stopped in front of her and spoke in a voice that was familiar, with an accent she couldn’t place.
+
+“Hello Darla, it’s been a while. Please do not be alarmed.”
+
+Darla did not relax. Someone who wore a disguise couldn’t be trusted no matter how harmless they pretended to be. She kept her posture controlled, ready to act.
+
+“It seems you know me. I would recognize you, perhaps, if you dropped the disguise,” she warned.
+
+The woman smiled knowingly.
+
+“I knew you were more than met the eyes.”
+
+That heavily accented northern tongue… it couldn’t be.
+
+“You?! But…”
+
+“I know.”
+
+“You are taking a major risk!” Darla scolded. “Not to mention you left without graduating. And you’re accused of a great crime in the city.”
+
+“I thought the Academy was neutral.”
+
+“You blew up the town hall before riding out on a dragon!”
+
+“That was fun.”
+
+“You never returned the library books you borrowed!”
+
+“They were all in my bedroom, what do you mean?” the figure sputtered. “You must have recovered them!”
+
+“Yes when you failed to pay for lodgings,” Darla continued.
+
+In truth she was wasting time to see if anyone else would follow. When no one did, she allowed herself to relax a little. It wouldn’t do to have someone test the Academy’s neutrality. Dean Talit wasn’t the most patient of negotiators.
+
+“I appreciate that I put you in a delicate situation,” the disguised elemental archmage said, “but we’re a bit on a schedule here. I’m here to see Talit”
+
+“I expected that much. May I ask why?”
+
+“I bring dire news.”
+
+Darla gave the woman an assessing look. It was difficult to read through a disguise which was why she always asked visitors to take off their enchanted or cosmetic garments, but this felt… different.
+
+“Trust me. I wouldn’t come in person and alone if it weren’t important,” Viviane of Harrak added.
+
+“I’ll let him know you’re here. It would be best if you didn’t stay near the entrance. Follow me.”
+
+Viv ended up in one of the interview rooms she’d been in during admission. It hadn’t changed a bit. Well, it felt slightly smaller. They still had a great tea collection though. Unfortunately, Viv didn’t have a quick way to warm water unlike most mages. She was pleased to find out that the dean considered the Empress of Harrak worthy of his time as she only had to wait ten minutes. It was good being the boss, sometimes. No name dropping like dropping your own name.
+
+Talit received her in his private chambers, a secluded spot that would serve well. The room was in a great disorder, and it carried a heavy smell, causing Viv to scrunch her nose.
+
+“I apologize for the mess,” Talit said, sitting at a table in his official robes.
+
+He radiated red mana in what was both a mark of respect and a reminder he was the most powerful red mage around. His striking features and deep beard gave him a gruff look at odds with the rich garment. With a gesture, he invited Viv to join him.
+
+“You should crack open a window sometimes,” Viv said without much bite.
+
+“I already apologized. Your coming was unannounced and these are dangerous times.”
+
+“Right. So let me get straight to the heart of the… what?”
+
+Talit had raised a hand and closed his eyes. Viv realized Darla hovered by the entrance near her blind spot which was vaguely annoying, and also pointless. Blind spots for battle archmages were also called ‘back blast areas’ for good reason.
+
+“Before you begin, I’d like you to reveal your true self. This is a private zone. You can do so without concern.”
+
+“Sure.”
+
+***
+
+Darla watched the woman remove a peculiar pendant from around her neck, definitely some very advanced enchantment. The room suddenly felt smaller. Much smaller.
+
+The Harrakan girl’s hair turned a much lighter, strange reddish color. Her skin paled. Eyes that were human turned to abyssal pits ringed by emerald circles. To Darla's horror, twin blades emerged from her back, like skeletal wings. That was nothing compared to the mana. It was controlled and close to the woman’s soul but it was so very dense and so powerful that it took her a good five seconds to realize she’d increased in size. Now towering above both of them, she felt larger than life.
+
+Darla released her knife’s handle. It wasn’t just that their visitor’s identity had been confirmed. It was that a knife would be of no use. An army would be of no use. This was a fifth step elemental archmage. A living legend. A demigoddess. Even Tarano, the only fifth step she’d ever met before, paled in comparison. He had dabbled in many paths to build his identity as the Constable of Enoria, fought in two wars, and slew countless men and beasts. And he still was nowhere close to that. With the revelation finished, Darla wondered if the defensive wards on the walls would even suffice to mask their visitor’s presence. Viviane’s soul pressed on hers with a physical force that made her want to get out of the room, as if her personal space was invaded.
+
+“Can I begin now? Time is precious.”
+
+Talit blinked. His mana pierced through again, but it was like a dim sun through a thick layer of clouds.
+
+“Yes. Of course.”
+
+“You’re aware that half of the Baranese army is south of here and the port has been cleared of fishing boats, correct?”
+
+“Yes. Something is happening. We believe King Erezak has recruited powerful mercenaries from overseas, and is waiting for them to arrive so he can…. kill his wife.”
+
+Talit exchanged a glance with Darla. That was what they were expecting. Concerning rumors that the king had lost it made them more concerned than usual, but the Academy’s neutrality guaranteed it would be protected by the rest of the continent’s nations. Even a mad king wouldn’t try anything so suicidal. Or so she hoped.
+
+“Yea, well, it’s not mercenaries. It’s Nero Oleander, the Immortal, Champion of Maranor, and conqueror of Vizim and the Shadowlands leading his entire army to subjugate what is left of mankind.”
+
+Talit expressed what Darla was thinking.
+
+“Excuse me?”
+
+“I am serious. One of his favorite strategies is to gain hostages. Currently, you are leading the best hostage farm south of the ocean. Scions of the greatest mages around, all ripe for the taking.”
+
+“Hold on. Your claims are… bold, to say the least. How certain are you of those assertions?”
+
+“Deadly certain,” the woman said with a conviction that bled through the room.
+
+“You believe your own words, certainly,” Talit allowed.
+
+“I mean that I know he is coming because I faced him in Vizim, failed to stop him, and now he’s coming to kill me. As for the hostages, I learnt that from a Viziman diplomat named Bes. I trust him.”
+
+“I know what you are going to ask…” Talit said.
+
+“I doubt it.”
+
+“You are going to ask me to evacuate the school.”
+
+“Which you cannot afford to do given the political climate and current lack of crisis. I understand,” Viviane said.
+
+She did?
+
+“You… do?” Talit replied, echoing Darla’s surprise.
+
+“You cannot afford to make the first move. The issue is that Nero can simply surround the Academy and then breach it, capturing all the students there. Unless…”
+
+“Unless?”
+
+“Unless you have an active witch gate. That way, the faculty can slow him down while the students evacuate.”
+
+“Viviane…”
+
+The woman raised a hand.
+
+“I solemnly swear I will not use it to either invade or hurt the Academy. My objective is purely to offer you a way out. I am confident Nero will try to convince you to join his cause. When you refuse, and I hope you do, he will become… very insistent. My offer will provide you with an exit strategy.”
+
+“You appear very confident about the future,” Talit said.
+
+“I am. So, what will it be?”
+
+Talit leaned back in his chair. Surely he wasn’t entertaining a private, uncontrolled portal past the shields?
+
+“Where will the portal lead?” he asked.
+
+“To another portal… I cannot tell you more. That other portal will lead back to the network. One more thing.”
+
+“Hmm?”
+
+“Oleander might try to kill you. I can feel your power. You are close to being an elemental archmage as well. If he goes for you, run.”
+
+“This is my school, Viviane. I never run.”
+
+Darla wasn’t sure but she thought she spotted sadness in the woman’s eyes.
+
+“I consent,” Tallit finished. “Go make your gate.”
+
+“Sir?” Darla asked, surprised.
+
+“And don’t let the students find out.”
+
+***
+
+A forest of masts, a canopy of sails. From the warehouse block on the west to the lighthouse on the east, the Helockian harbor was filled with Shadowland warships even now disgorging soldiers and the redoutable vanguards. Crest was there, of course, standing next to the man himself.
+
+“Feels strange to be back after so long,” Crest said.
+
+He was ignored. No one expected ‘The Hopecrusher’ to be a good conversationalist — his name precluded that — but a long time ago, Oleander had been much more talkative. He would speak of his former world and its many seas, of magic so rigid it was bound to crystals and only harnessed through tools, of his ambition to finish first at the university. He would speak of his family of impoverished nobles, struggling to recover from a great war. He would compare ships, or make plans, or just stop at a tavern to sample the local rotgut. Those days were long gone. Now the man no longer talked. He declared.
+
+“Men and women of the Kingdom of Maranor, welcome to Param,” a loud voice rang.
+
+And there it was again.
+
+Crest tuned out the speech. It was the same thing every time with some minor changes. He had attended most of them and by now he was sick of it. Oleander’s words were genuine and the power of his soul moved those who could hear it. Even the Hopecrusher’s face was flush with emotions. Crest mourned for the man who used to end his speeches with lame jokes.
+
+“...last of the human continent to finish the unification. I will count on each and everyone of you to fight for our cause. This is it: the last war of our age. We shall fight it together… and we will win!”
+
+Crest wondered if the bar down that street over there still sold grain liquor. He missed strong grain liquor.
+
+“Milord,” the Hopecrusher said after the self-congratulatory clamor died down. “We have secured the support of the Helockian council, but what of the Academy? They will ask to remain neutral.”
+
+“The Paramese cannot cling to the delusion that there is a neutral side when it comes to Order. One either defends it, or lets Chaos loose. It is shameful for those who aspire to teach to ignore such evidence. We will be remedying the disease promptly before the younger generations fail to learn as well.”
+
+Crest rolled his eyes. As if everyone agreed on what Order was. But there was no arguing with zealots. For Nero, true Order was Maranor’s Order, and none other. The soldiers and diplomats surrounding him like fat flies drawn to a fresh turd drank his words as if they were some grand revelation. There had to be some soul skill at work to allow him to bypass their brains. He stopped himself from sighing, instead glancing towards a running envoy.
+
+“Ah, and this must be the council’s man. We shall meet them to discuss terms first, as I would not be cavalier with those who welcome me in their home.”
+
+The runner slowed in front of them though it took a few extra steps for him to stop. Crest was no detective but he was pretty sure this was not a ‘good news melord’ kind of messenger. It was the gobsmacked expression laden with fear, mostly.
+
+“Sire… I bring dire news! Blood… So much blood.”
+
+“Calm down,” Nero said.
+
+And the man calmed down immediately. Convenient shortcut to showing empathy that was.
+
+“Sire, the council has been butchered! I return from their chambers. They were slaughtered, my lord. There are no survivors.”
+
+Whispers spread through the ranks. Crest was pleased to be surprised. Anything to break the monotony, really.
+
+“And the guards?”
+
+“They didn’t see a thing, milord! But we did find three words written on the wall in Old Imperial, painted in blood, as it were.”
+
+“... and what did they say?” Oleander asked after a delay.
+
+“Welcome to Param.”
+
+Crest, once again, held back a sigh.
+
+“It’s the bitch,” the Hopecrusher spat.
+
+It wasn’t going to be as easy as Vizim, was it?
+
+***
+
+“It is done,” Two-Six said, his mask terrifying now that it was stained with enough blood splatter to make a forensic expert orgasm.
+
+Viv looked up from activating the secret gate. Two-Six wasn’t alone. Other veteran hadals had joined, including the ever mischievous Thirteen. This was the old guard, those who had survived centuries of purge to end up in Harrak. She nodded in appreciation.
+
+“Thank you. I might not get Elunath’s money back but at least I got revenge. Speaking of, I fear I may ask for your services again before this is done, if you allow it.”
+
+“We will do it,” the tall Hadal said, yellow eyes glowing under his bald skull. “The others and I… we have decided.”
+
+The masked hadals nodded. Some changed their masks to grim faces while she wasn’t looking. It was a bit disturbing how fast they were.
+
+“We were made to be assassins. You gave us the chance to choose otherwise. Now our children may not have that choice. So we will do it. For this war, we will be your assassins.”
+
+“You said assassins, not fighters,” Viv said, very carefully.
+
+Now all the masks showed vicious smiles.
+
+“Yes. We are coming out of retirement. I have murdered out of fear, then for money, then for fun. Now I will so my children do not have to.”
+
+“Unless they want to,” someone said at the back.
+
+“Alright,” Viv replied. “Okay. I wasn’t expecting this. Finally, a good surprise. Will you lead them, then?”
+
+Two-Six shook his head, then he pointed a finger at Viv’s back.
+
+There was a rustle of fabric, intentional, of course. She absolutely hated when he did that.
+
+“Hello Irao.”
+
+“I will lead my people,” the first hadal said.
+
+***
+
+It was the heart of winter. Outside of the large inn, the Baranese countryside slept under a mantle of snow. Icicles hung from roofs in crystalline ornaments that framed what Viv could see of the outside. There was no wind today, no cloud in a vivid blue sky lit by a pale sun. At this time, most families stayed indoors, eating congee, preserves, and preparing for spring by mending and knitting what they could. It was also the beginning of the greatest invasion the continent had ever faced, and a testament to the portal network that the meeting could happen at all.
+
+Unfortunately, Viv was the only sovereign present.
+
+“My Lady Queen Rosea of Baran regrets to inform you that between the weather and the ongoing conflict, she cannot afford to leave the army’s position near Siden.”
+
+The Baranese envoy smiled apologetically. He was an older gentleman with a fine moustache and the build of a fencer. Viv remembered the city was pretty far to the north west, almost near the border with Helock.
+
+“Ahem. Unfortunately, King Sangor has been called north due to pressing matters. He gave me a letter, and apologizes for not being able to greet his friend and peer properly,” an Enorian added.
+
+Viv surveyed the room. Besides her, there were maybe two leaders from minor cities and everyone else had sent ambassadors. Helock and the Pure League were no shows. A part of her was sore and thought she would have more pull, but realistically she knew that it was cold and very few people understood why she would summon the alliance. Maybe she should have told them, but this was not the kind of news one sent by mail.
+
+“Right. If everyone’s ready, let’s begin,” Viv said, taking the initiative.
+
+A few people glanced towards General Jaratalassi who usually presided over anything military, but the old man was more than happy to sit back and relax.
+
+“In order to better explain the situation, I have brought my new Prime Minister Bes who has a better understanding of the situation, as well as my general, Strategist Sahin, who would better answer any question you may have. Bes?”
+
+The aristocratic envoy looked great in the Harrakan black uniform. He looked so great, in fact, that he might have been the obviously super evil antagonist shown at the top right corner of a movie poster featuring a band of plucky teenagers fighting an oppressive regime. He was pretty much the perfect dark vizier. Viv was considering giving him an enchanted purple scepter that could strangle people at range. It would be purple because purple looked evil. It was, like, evil overlady 101.
+
+“My name is Bes. I was envoy to a city named Ravinport until a month ago when that city was captured and subjugated. I come to you bearing a warning, and I now serve Harrak, because I believe they heeded it.
+
+“On the winter solstice, Vizim was fully conquered with the fall of the Sandsong kingdom.”
+
+Consternated whispers filled the room, though it was clear a handful of envoys must have heard rumors.
+
+“The conqueror is a man named Nero Oleander, Champion of Maranor, a man who seeks nothing less than the unification of mankind by force. He is on the sixth step of his path and leads an army of no less than eighty thousand warriors.”
+
+This time, the envoys sneaked glances at Viv to check if she was pulling a fast one on them, but she was dead serious. Bes kept nailing the point home.
+
+“This army will soon invade Param, the last independent continent.”
+
+“Nonsense. A gigantic army? In winter?” a northerner scoffed.
+
+Viv looked down at the Baranese envoy who was holding his forehead in dismay.
+
+“So that’s why…” he whispered.
+
+Silence spread to the room as the attention focused on him.
+
+“We were not sure why Erezak the Tyrant would lead his army north. He is clearly preparing to receive the invader.”
+
+“Empress Viviane, with all due respect, are you certain about those claims?” another northerner asked, and she was not surprised.
+
+“I am dead serious. I was there, north. Surely you have heard of the Battle of the Grand Beach. I was in Vizim. I briefly fought Oleander though he was only on the fifth step then.”
+
+“So he will really come? When?” the Baranese ambassador interrupted.
+
+“Correction,” Bes said.
+
+His soft voice broke through the din of protests. Viv was pretty sure it was a skill.
+
+“He already landed.”
+
+“What?”
+
+“Already?”
+
+“I will now leave the room to my peer, General Sahin,” Bes continued.
+
+The lithe strategist stood up with ethereal grace. With controlled movement, he opened a map of Helock before carefully placing signs.
+
+“Despite being mauled by the Nemeti, Oleander can still count on around a hundred and twenty warships, perhaps more, and obviously many more transports.”
+
+“Not every ship can cross the Viziman Ocean,” a Zazas envoy said.
+
+“With enough highly experienced captains, an armada this size could lead even a fishing boat across.”
+
+“Not to mention the storm season just finished,” another said.
+
+“We caught sightings of strange ships…”
+
+“Unexplained occurrences…”
+
+“I show you Helock,” Sahin continued, “because this is where Oleander has made landfall. He will use the winter season to funnel troops while protected by both Helock’s walls and half of Baran’s army.”
+
+The attention now turned to the Baranese ambassador, who shook his head. At first Viv thought he might deny them, but it was merely his despair bleeding through.
+
+“We suspected he might be waiting for mercenaries. This is… so much worse.”
+
+“Will Helock truly bend the knee to a foreign invader?” someone asked.
+
+“Well, they’re not here,” Viv remarked.
+
+It could have been for other reasons but the narrative worked in Viv’s favor because King Erezak’s side of the civil war had also declined to send a representative. Viv wasn’t sure why they would waste an opportunity to mess with her. She could only assume they didn’t think it worth their time. As for why Helock might want a united mankind, the possibility of becoming the major Paramese port for a three-continents trading system might be playing a role. Sometimes, it was better to be the second man in the empire than the leader of a village.
+
+“We must act then, no?” the Zazas envoy said.
+
+As Viv’s ally, and the citizen of a coastal city, his people were among the first in line for the invasion.
+
+“Unfortunately, we cannot,” Sahin explained.
+
+He showed chess pieces on the map.
+
+“Helock is well defended by its walls, geography, magical corps and griffon riders. Add Baranese knights to this and we have a mobile, elite force capable of defeating a larger group of invaders. They can easily raise militia and mobilize the city guard to massively increase their number. Fighting them will be an uphill battle, even if the empress takes the field.”
+
+No one commented because they knew, by now, that she had reached the fifth step.
+
+“I will add four reasons why attacking them now would be a bad idea. One, Nero is already here. We do know that he is powerful to the point only the empress is capable of facing him. If we attack and overextend and more of his men land while we fight, they can turn the tide of the war and crush us on the spot. Two, winter makes any movement of troops difficult even with functional portals, and you can be sure the alliance’s army will not be allowed to enter any portal near Helock. Three, we still do not have a casus belli.”
+
+“Nero Oleander has yet to declare war on us,” Bes reminded them. “It is Helock’s right to welcome foreign soldiers on their territory.”
+
+“Horse shit!” someone said “If they’re allowing invaders to land then I say it’s reason enough to call them traitors!”
+
+“And I agree,” Viv said, “but you are envoys who deeply care about your nation. Countless nobles will use the excuse not to join the war should we break our own rules. I do not like this any more than you do. It doesn’t change the fact that this is how it will go.”
+
+“And four,” Sahin finished, “Helock doesn’t really matter. All Nero needs is a port. Our own ships cannot even contest his in battle. We would be fighting one against four. If by some miracle Helock were to fall — and the chances are slim — nothing is stopping him from simply landing farther west. His Vizimans and Shadowlanders control the sea.”
+
+That wasn’t entirely correct. Viv’s three destroyers were going to patrol the ocean and sink any poorly guarded convoy they came across. Nero was sure to try and get a steady stream of reinforcements heading south. Harrak was going to bleed that stream dry, but the main fleet? Even Harrakan cannons wouldn’t be enough.
+
+“So what would you have us do?” Jaratalassi asked to cut the speculations short.
+
+He aimed his question at Viv but she had Sahin reply.
+
+“Our first task is to make the Paramese people aware they are being invaded, and to do so before Oleander’s flag flies over their cities.”
+
+There were many nods, Viv observing the reactions with interest.
+
+“The second priority is to gather the Paramese alliance for a decisive engagement. I suggest meeting near Siden on the fifth day after the Spring festival.”
+
+The reactions were much more thoughtful, Viv saw. Even experienced diplomats like them couldn’t help but break the mask when sufficiently shaken. That was why Sahin had shamelessly lied. Viv had no intention to draw the army to Siden, nor did she expect them to follow her suggestion. It was too soon in the conflict, and the various kingdoms would sniff Oleander’s ass to see what they could gain before they realized he was out to grab absolutely everything. By then, it would be too late for many of them, but that was human nature for ya.
+
+“Make no mistake,” Bes still said, the brave man. “Oleander will come to talk before he draws a blade. He will offer you terms. He will tell your nobles that they can regain control, and it will be the truth…”
+
+The envoys frowned, surprised.
+
+“At least for a while, but there will be conditions, and more conditions. You will be made to worship Maranor as your titular goddess first whether you want it or not. You will need to obey his trade laws, then his civil laws, you will have to welcome his inspectors and his taxmen. Your soldiers will be inducted in his armies until you do not even retain a house guard. Your opinion will be heard in your councils, and then ignored. And when you have nothing left, no more influence, no more wealth, no more military power, he will pluck you from your castles like a peasant plucks permon fruit from the vine, and you will have nothing to oppose him. Nothing. Absolute power doesn’t share and Maranor will tolerate nothing short of it. Remember this. Tell your people before it is too late. You fight now on your feet, or you will die later on your knees.”
+
+What amazed Viv the most was the absolute conviction Bes exuded. This wasn’t a speech made to impress. It was Bes’ honest, undiluted opinion, and that was a skill. The taciturn aristocrat believed every word he’d said with a fiery zeal.
+
+There were questions afterward, though they were mostly confirming Bes’ credentials. Viv managed to signal to Jaratalassi that she wanted to talk before he could leave, and they retired to a private room. Viv made sure to set a sound enchantment before they could talk.
+
+“You know you could cast from time to time,” Viv accused as an introduction before handing him a bottle.
+
+“Alcohol? I —”
+
+“It’s Sahin’s herbal tea.”
+
+“You must be in his graces if he’s agreed to share.”
+
+Jaratalassi sat in one of the salon’s plush chairs, not too far from the dimly lit fireplace. Outside, the sun was already setting.
+
+“I don’t cast because I want more options for strategist when I path up… I think I may do it once more before I die.”
+
+“If you say so.”
+
+“The interface understands. And I was never that good at it anyway. So, now that it’s the two of us. Tell me. How fucked are we?”
+
+“It’s bad but not fatal. The issue is that Oleander already has Helock and half of Baran and that’s just the start, All the northern city-states all the way to the steppes will bend rather than face certain death. We can’t win a direct engagement before the continent wakes up, and the continent won’t wake up before it’s too late. So we’re going to force Oleander’s hand.”
+
+“We are?” Jaratalassi replied within a chuckle. “And how will we proceed?”
+
+“Oleander proceeds by dominating and crushing everything in his path in a meticulous advance. We’re going to make that impossible, and his situation untenable. We will force him into a decisive engagement.”
+
+“Where?”
+
+“In Harrak. Fate magic tells me only we can defeat each other, so I’ll be sure to stack the odds in my favor. As much as I hate seeing war brought to Harrak, I will let it happen if it means we win.”
+
+“You want me to lead the army?”
+
+“Sahin will lead my army. You will lead what we can gather of the alliance. And one other thing: your first priority should be to protect your family. Bes has informed me that Oleander loves taking hostages. He is specifically fond of children.”
+
+“Then I will depart right after we are done,” Jaratalassi replied.
+
+He gave Viv’s declaration some more thought.
+
+“Then… the Academy?”
+
+“I just hope Talit doesn’t wait too long to ask for my help,” Viv replied as she left the room.
+
+Outside, she approached the Baranese ambassador who was recovering from his shock by downing shots of strong liquor. It wasn’t very professional but Viv could hardly blame him. Bes hovered near the poor man like the world’s best dressed vulture.
+
+“Ah, Your Imperial Majesty. I was just informing my colleague about certain… opportunities we might offer.”
+
+“The alliance is supposed to stay out of civil wars,” the envoy mumbled.
+
+He looked at the bottom of his glass. It remained unpleasantly dry.
+
+“But everyone knows that’s horse shit. What did you want?”
+
+“Seeing as Erezak has decided to join the war against me, I was wondering if you would be open to a proposal that would, I imagine, drastically simplify your position. Shall we discuss terms in a more private setting?”
+
+The ambassador rested his back against the chair.
+
+“I am going to regret listening to you.”
+
+“Less than you’d regret ignoring me,” Viv replied with a smile.

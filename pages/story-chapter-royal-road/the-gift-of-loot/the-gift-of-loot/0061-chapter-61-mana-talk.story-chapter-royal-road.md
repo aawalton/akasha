@@ -1,0 +1,249 @@
+---
+id: 04bc499b-3a83-5fe6-8647-f25c011c00a2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 61: Mana Talk"
+slug: 0061-chapter-61-mana-talk
+partOf: the-gift-of-loot
+position: 61
+ownLength: 3820
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3733696/chapter-61-mana-talk"
+royalRoadId: "3733696"
+---
+
+Back to Earth after this chapter!
+
+Stepping out of the portal, Thomas was almost glad to see the permanent night sky over Shadow City. Experiencing hours and hours of dusk was... strange. His human brain could more easily accept long nights versus forever dusk.
+
+This planet was weird.
+
+The first thing they did, of course, was to stop by the System Marketplace again and exchange more Wood mana for Shadow mana. He had no idea if anybody was able to scour databases for unusual loot patterns, but there was no point in exchanging all the mana in one hub and maybe risk being put on a list when two would be just as easy.
+
+From there, Zach and Jo wanted to go tour the first level of the marketplace again and offered to get the item drops assessed. Thomas would keep the seed in hopes to cultivate chouk on Earth, but they would split the proceeds from the rest of the drops.
+
+Meanwhile, Thomas went to go see Akilah.
+
+He had tried to meet with him when he first portaled over to the planet before going to the dungeon, but Akilah had been busy. That made sense since he was one of the highest level healers out of all Dark Elves and, according to the man himself, famous.
+
+This time, to Thomas's surprise, he was shown right in.
+
+Akilah was in his private office, which looked like an old Victorian library, complete with an apothecary table, a fireplace, and two high-back seats next to it. Thomas especially appreciated the fireplace, as the Dark Elves' version of room temperature was about 10 to 15 degrees colder than a human’s, with their part of the planet always being at night.
+
+He imagined that the Ice Elves were even worse.
+
+Even in his elf form, Akilah looked a lot like the actor in the Most Interesting Man in the World ads. He didn't always serve Thomas a cup of chouk at their meetings, but when he did, it was a delight. Chouk was like coffee on steroids and it perked him right up.
+
+At this point, Thomas had no idea how long he'd been asleep or awake, seeing as the planet had no day or night cycle. He had needed the hit.
+
+"Healer Thomas,” Akilah greeted as he took the opposite high backed chair. “I wondered if you had given any more thought to apprenticeship."
+
+"I had," Thomas said, "but I assume that would mean that you'd want me to become a pure healer? No diving at all?"
+
+His eyebrows rose, which was a shared expression among their people. "The vast majority of healers are what you call ‘pure healers. But yes, of course, I'd want you to dedicate yourself entirely to healing."
+
+That was pretty much what he thought. "I'd like to see how far I can go with dungeon diving before I consider that route."
+
+And frankly, if he couldn't dungeon dive anymore, he would recise his core and work on rebuilding himself with combat mana. His Gift was loot, not healing. Not that Akilah knew about that.
+
+Akilah nodded, looking neither disappointed nor particularly surprised. It seemed that he had expected this. "The offer remains open. I don't need to tell you that you are exceptionally talented. Those who can handle the weight of the Burden are rare, and if your planet’s System Integration is anything like ours, your people will need much healing going forward.”
+
+Thomas felt a stab of resentment at that tactic. Akilah of all people knew that as a healer, he was pushed to help more so than others. So pointing that out felt like a low blow. Earth was barreling down the tracks at full speed toward a complete societal derailment or, at the very least, an extremely bumpy ride.
+
+Yeah, healers would be needed.
+
+He shut his eyes for a moment, that familiar mix of anxiety and low-grade terror he'd felt ever since seeing the System Integration announcement in the sky. The confirmation that magic was real. His world as he knew it as well as countless generations had known it before him, was all coming to an end.
+
+"My pardon," Akilah said, seeing Thomas’s expression.
+
+"No, it's the truth.” He took a breath to brace himself. “But I feel like a big part of being in a position to help is that I need to get stronger. I’ll need to dive dungeons to do that.” Zach called it the anime solution, and he probably wasn't wrong. "After all, you and the other elders are interested in my team because we were one of the first to really embrace the System."
+
+Akilah smiled slightly and took a sip of his own chouk. "I cannot argue with that logic. Now, I'm sure that you have more questions for me about the Burden and aspects of being a healer.”
+
+Of course he did. Mostly, how he was able to just mainline Adaptation mana to figure out how to heal people on the fly, and if others did it too.
+
+He hesitated: that might be revealing more secrets about himself than he was comfortable sharing at the moment. At least until he got a lay of the land.
+
+“Actually, I have a question about elven politics.” Then Thomas went on to briefly describe the start of his interaction with the Light elf, Sateryn.
+
+Akilah sat up straight in his chair and interrupted him before he could get to the elf’s name.
+
+“He offered you violence?”
+
+Thomas spoke carefully. “He didn’t hurt me, but he brought me to his house against my will and threatened my teammates unless I was able to heal his wife.”
+
+“That is unacceptable,” Akilah said, “even from a Light elf. Healers are never to be threatened. You have cause to bring this as a case all the way to the Light Ones, and that is no small thing.”
+
+That was the second time Thomas had heard of Light Ones. "Who are they?"
+
+That blunted the edge of Akilah’s indignation. "They are the council for law and discipline for the world," he sighed. "All who sit on the council are Light Elves, with one token Ice elf. But they would be fools not to recognize the sanctity of healers. That is universal." Then he frowned. "Though it is unusual that this Light elf should seek you out instead of going to a House of Healing.”
+
+Now they had gotten to the heart of the matter. Thomas watched Akilah’s reaction carefully. "He claimed that he couldn’t because his wife is a Wood elf.”
+
+Akilah blinked several times, and Thomas could easily imagine the loading circle icon over his head.
+
+“You met Sateryn Ervainth-zor?” the elder healer finally blurted.
+
+Now Thomas was surprised. “You know him?”
+
+"Of him. He's rather infamous." He still blinked at Thomas, seeming to have completely stalled out.
+
+Uh-oh, I broke Akilah.
+
+Now Thomas was feeling a little indignant. "Seriously, you guys are so... so segregated that when two types of elves get together, it’s news? And you complained about human racism?”
+
+Akilah held up his hand. "Can two different races of humans procreate?"
+
+“Uh.” He was briefly thrown. "Of course."
+
+"We cannot. Of course, a couple may choose not to have children, or adopt. There's no taboo against that.” He paused for a moment as if trying to figure out how to explain his world. “Even then there are many challenges. We elves live in four different temperatures across the globe, though there is some overlap. We also require different qualities of light, and different diets to maintain health. We are, in every literal term, separate species. Not races. I understand that is not the same with humans."
+
+"No," Thomas admitted, "it's not.”
+
+“Forgive me, but the differences between humans are extremely surface level,” Akilah said bluntly. "So yes, it is unusual for two different elf types to meet and… and fall in love.” He seemed to choke a little on the last few words. “Sateryn and Lady Prinna are even more unusual, as she is part of the Wood Elf royal family. And,” he added, with the height of irony, "they are mana-mated."
+
+Thomas stared. "I don’t know what that is."
+
+"Mana-mated. You know…? Oh, but of course you don’t have that on your planet as of yet. It requires mana.” He actually seemed to squirm in his seat, as if highly uncomfortable with this turn in the conversation. "Bad poets would say it is two souls that are fated to be joined with one another. Or a single soul split into two, then reunited again in a mortal life. It is the subject of many terrible romance books and songs. Perhaps I could introduce you to elf literature."
+
+"Soulmates?" Thomas said, with a half smile. He wasn't really sure if Akilah was pulling his leg or not.
+
+"That sounds right. You do have them, then?”
+
+“In fiction,” Thomas said carefully, still unsure.
+
+"Well, it is incredibly rare, and not fictional. Druids claim to see the flow of mana between mana-mated pairs. It is supposed to be a blessing as well as a sharing of strength. Sateryn was a diplomat and Lady Prinna was the youngest, beloved sister of the crown prince.” Akilah seemed to have recovered his humor, and smiled with pure schadenfreude. "It was quite the scandal. Now, tell me, what exactly happened when Sateryn demanded healing from you?"
+
+Well, that explained why Sateryn thought that he couldn't take Prinna to a hospital without being recognized. They were famous.
+
+Thomas went on to explain that she was mortally ill after a viper bite, and the amusement on Akilah's face drained away. Abruptly, he rose from his chair and stood at the fire with his back to Thomas. "I assume that she lived? You were able to heal her?"
+
+"Yes." He was acting strange, so Thomas quickly lied, "I used an aspect of my Gift. Are… are you okay?"
+
+Akilah didn’t answer right away. "You are extremely fortunate," he said, still facing away from him, hands clasped behind his back. He stood for a few moments and took a deep breath, then another, exactly as if he were trying to maintain emotional control.
+
+He's fighting his Burden, Thomas realized with a shock. Something about this has seriously set him off.
+
+"Extremely fortunate," Akilah repeated. "I'm afraid if his mana-mate had died, Sateryn would not have wanted to live, and he would have..." He trailed off.
+
+"It didn't happen," Thomas said. "My team was there.”
+
+“Do not patronize me. Sateryn is old and canny and surely out-levels you. However, you’re correct. By the grace of the System, it didn’t happen.” With a sigh, Akilah returned to his seat. He seemed to have regained his control. “You should never have been put in that position. Not in a thousand lifetimes would I have expected either of those two to live in such an obscure village. Lady Prinna must have truly fallen out of favor. However, I’m afraid this brings up a larger problem."
+
+“What’s that?” Thomas asked warily.
+
+"The elders wished for you and your team to see our world with your own eyes, and experience the good, bad and ugly on your terms. For how could you trust our words?” He snorted to himself. “There’s sense in this but I argued against it, as you would be traveling blind on a planet you did not know. But they assured me the list of dungeons that you were given was not extensive, and was curated to be places we thought would be safe Dark Elf territory. It was all so your team may see our people and how they are forced to live under Light elf rule. The risk was low. But had I known that those two would be there, that Nonstrel Song village would be a place Light elves visited at all…” Akilah shook his head, visibly frustrated, “but of course you don't know our culture. You are completely unaware of something as simple as mana-mates.”
+
+So that was what had twigged Akilah’s Burden so badly. He felt personal responsibility for the safety of Thomas and his team.
+
+Thomas had known he was in danger. Hell, he’d known Sateryn was dangerous the second he had grabbed Jo. Though he was touched by Akilah’s concern, it was a little strange to see someone worked up over a risk he had willingly taken.
+
+Maybe that was the difference between a pure healer and… someone like him.
+
+Akilah went on. “This is an unacceptable risk for you and your team. On hearing a healer was assaulted, the other elders will be forced to agree.”
+
+“I’m fine–”
+
+“Sateryn broke a taboo, Thomas. One that should keep you safe… and that your teammates do not enjoy.”
+
+That stopped him. The innkeeper had hustled them out through the back exit for good reason, hadn’t he?
+
+“Please, explain,” he said shortly. “I knew I was in danger and I accepted that, but you know Zach’s teleportation skill. He would have got Jo out of the area if something happened to me. What else am I missing?”
+
+Akilah met Thomas’s eyes, repeating, “Sateryn would have gone mad and killed you, which would have attracted the attention of the other Light elves you spoke of. Outcast or not, they would not have accepted any slight against another Light elf and would have either killed or captured your teammates, which would be a far worse fate for them. They cannot teleport far enough when the Light elves own this planet.”
+
+That hit him harder than the threat to his own safety, which had probably been the point. Capture would be worse? Maybe for Zach because the Light elves were probably allied with his family. But for Jo, too?
+
+“From now on,” Akilah said, “when you leave this city, you will be accompanied by an elf. Not to spy or to meddle, I assure you, but to avoid more unforeseen situations.”
+
+Thomas straightened. "I'll have to speak with the rest of my team before I can agree to any escort." Having an a local around might smooth out problems before they started, but may also put a kink in their plans to dive the ever loving Hell out of dungeons. "But I can tell you that if we agree, this person can't come with us into the dungeons. We want to grow stronger as a team, through training."
+
+"That is acceptable," Akilah said.
+
+Thomas’ mug of chouk had gone cold, but he took a sip anyway.
+
+None of that happened, he reminded himself. Zach and Jo are safe.
+
+Lowering his mug, he said, “There is something else I wanted to ask. I can’t apprentice with you full-time, but are there training manuals or textbooks so I’m not flying blind?"
+
+Akilah jumped on that, looking happier to be on firmer ground. “Yes, I can give you very basic healing guides. But you should be aware that healing is also a personal art, and much depends on your skills. Do you have any open skills slots?"
+
+"No," he said. "I only have one healing skill."
+
+"I would recommend that you add more with your next level, though I'm sure that you'll want some nonsense like combat or weaponry." He did not quite roll his eyes.
+
+Thomas hesitated, then decided to ease into what he really wanted to know. "There is one thing. It's a little odd."
+
+"Yes?"
+
+"Back when I was level two, I was able to expand my healing mana into a sort of sense for life force, using Adaptation mana."
+
+"You speak of Abilities,” Akilah said promptly. “And you achieved this through Adaptation?” At Thomas’s nod he said, “Odd, most of the time I see that from Evolution mana. In any case, Abilities are pseudo-skills. Occasionally when someone with a much practiced Ability dies in a dungeon, it will appear as a skill shard. It is like when one teaches themselves how to play an instrument without any training from a master.” He shrugged. "Most of the time the self-learner archives this imperfectly. That is why a skill is preferred. As for you, expanding a sense is fairly common. Adaptation tends to stretch the borders of what you already have."
+
+He’d done more than ‘stretch the borders’ with his Purge ability, but there was probably an explanation for that, too. "I absorbed a lot of Adaptation," Thomas said dryly.
+
+"Watch out for that," Akilah warned. "Until you burn through it, you’ll think that you can change the world, when in fact you'll be babbling like an idiot. In fact," he added, "you have a mana channeler in your team, don’t you? Zach will be particularly susceptible to mana effects unless he absorbs skills to blunt it." He rose and got a guide from a nearby desk drawer and handed it Thomas. It was written in Elvish, but thanks to the System, Thomas could read it.
+
+"This is a good explanation of the mana types,” Akilah explained, “what you will often see, and what is good to balance the common types out. Here, we often have Shadow, which tends to make people more subtle and reclusive. Certainly not the worst effects, and is easily balanced by other elements, such as Wood or Ice."
+
+"Not Light?" Thomas asked, keeping back a smile.
+
+"Yes, and Light, but as you can imagine, it is controversial within Dark elf society. From my reading, your planet has other base elements. I would recommend either more Earth or Air for your teammate. Water may actually do him harm.”
+
+“What about Jo’s Poison mana?” Thomas asked, because Zach had a pretty good idea of his own mana balance, unless he over or under-did it, which he'd done both.
+
+On second thought, he’d read through this guide carefully.
+
+"From what I read in her core, she seems to have a balanced mix. Nothing personality-altering."
+
+That brought up another point he wanted to know. "How bad does mana alter personality?"
+
+Akilah hesitated. "It's somewhat of a risk. Generally, healthy individuals have a sense of what is too much for them. Using your planet’s elements as an example, a person who starts only with Water will find they are more prone to, uh, flow around or through difficult events. If they are emotionally balanced, their spirit will likely start craving Earth or Air before long. However, this becomes complicated when you have inconvenient Gifts which weigh sharply toward a mana type, or when they get their hands on an advanced mana they cannot hope to handle yet. Then there is Healing mana, which is its own category."
+
+He and Thomas shared an ironic look on that before Akilah continued. “If your teammate continues down the path of Poison into the higher levels, she will have to ensure that she has excellent mana control. Or add a skill which will safely use that mana. She will not want to accidentally inject poison into, say, a meal that she is cooking. I did not read her as the type to overindulge in Poison, but it is worth mentioning."
+
+Yeah, Thomas would definitely be reading over this guide. Meanwhile, Akilah seemed to have completely calmed down from his earlier upset. Now was the time to push.
+
+"Going back to Sateryn," he said, "When I saw how sick Prinn–uh, Lady Prinna was, I wasn't certain that I could heal her. Sateryn refused to take her to a local hospital. I said that I would bring her here, and he refused again.” He looked hard at Akilah. “But would you have healed her? With the problems between your peoples?"
+
+Akilah sucked in a breath, tightened his lips, then nodded. "Yes. But, as you can imagine, it would have come with distinct political ramifications. The Wood elves are our allies, and while Lady Prinna is the beloved sister of the future king—he is not king yet. Of course the Light elves would not be happy with us. They rarely are, but they have the ability to make our lives a little bit more miserable than they normally do.”
+
+So it wasn’t so much about speciesism as it would have been a thorny political issue.
+
+Of course, that raised another question.
+
+"Do Dark elves have a royal family?"
+
+"No," Akilah said shortly. "We used to, but they were assassinated in the chaos of the System Integration. Even the Wood elf royals are a cousin branch to the original rulers, and they have little political power outside of their people. As I said, we are a shattered race." He spread his hands. "It is why we hope to start anew, from under the Light elves' thumbs."
+
+"The Light elves will have a colony on Earth, too?" Thomas confirmed.
+
+"Yes, in your… Arizona, I believe it’s called." Akilah smiled a little wickedly. "From what little I have read of human history, you are not a people to take kindly to being pushed around. That will be a surprise for the arrogant fools.”
+
+____
+
+Akilah ended up giving him several other guides, though they were of limited value. One was an alchemy guide consisting of cures made from elven plants. The last guide was one of Elven anatomy. Thomas promised himself he would study it in his copious free time.
+
+Speaking of free time, it was easy to find Zach and Jo right outside the marketplace. He normally expected Zach to be the enthusiastic one, but for once, Jo was practically bouncing.
+
+"We found the currency exchange," she blurted, before Thomas could spill the tea about Sateryn and that Akilah was angling for an escort.
+
+He paused, a little thrown. "The... what?"
+
+"Yeah, bro," Zach said. "Currency exchange from Shadows to USD. There's a guy who has a booth, and apparently he was able to get connections to banks on Earth."
+
+"Really?" he said, but was wondering why both had manic glints in their eyes. "What's the catch?"
+
+"The catch is none of the elves think that hard currency is going to survive four more months on Earth. So, from their point of view, they're ripping us off," Jo said, with a grin.
+
+"Um, are they?"
+
+"I have no idea," Jo said. "But they consider dollars ‘worthless little pieces of paper,' as he called it."
+
+"He's giving us fifty bucks a Shadow," Zach said. "Limit is a hundred Shadows an exchange."
+
+Thomas looked between them. Wood mana, which had been the majority of their drops, was worth more than Shadow mana, so that conversion worked in their favor. They all had a lot of Shadows. "Are you saying..."
+
+"I have about five-thousand in my pocket," Jo said. "And, since I hear money is not going to be worth the paper it's printed on in a few months, I intend to go home and spend it on as much stuff as possible."
+
+"Well, Hell," Thomas said. "Show me where this place is."

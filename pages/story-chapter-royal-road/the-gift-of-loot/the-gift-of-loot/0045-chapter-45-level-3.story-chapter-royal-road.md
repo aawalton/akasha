@@ -1,0 +1,223 @@
+---
+id: bb69a404-4aab-5c77-8a75-f0c8783b631d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 45: Level 3"
+slug: 0045-chapter-45-level-3
+partOf: the-gift-of-loot
+position: 45
+ownLength: 2947
+unit: words
+publishedAt: 2026-06-22
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3575881/chapter-45-level-3"
+royalRoadId: "3575881"
+---
+
+The Wellspring mana crystal went skittering off to the side as Zach slapped it out of Thomas's hand.
+
+"Ow!" Thomas said, dragging in deep breaths as he shook out his hand.
+
+"My bad, bro," Zach said, though he looked a little concerned. "You had a tight grip on that thing, and by the looks of it, it had a tight grip on you, too."
+
+Thomas waved it off. He had made the mistake of taking a larger dollop of Wellspring mana than usual. Predictably, his entire body had seized up, and he'd been incapable of movement, not even to breathe. As this wasn't his first rodeo with that mana, he had told Zach to knock it out of his hand after 30 seconds or so.
+
+"It's useful stuff. Dangerous, though," he said, then went over to collect the crystal.
+
+Zach snorted. "I know how that can be."
+
+They had spent the last few minutes distributing the different mana crystals. As Thomas had promised, they tried to make it as even as possible with a 33/33/33 split, and they had all counted the crystals they had already absorbed.
+
+It wasn't that difficult to split everything fairly. Jo mostly wanted dibs on the level 3 Poison crystals. Though those would probably sell well to alchemists, Thomas had no personal need for them. He wanted any level 3 Healing crystals, of course. Zach got the few Air crystals they had managed to pick up, as he mixed that with his fire.
+
+Then it was just a matter of sorting out the Water, Earth, and the couple of Mud crystals. Jo gave up her claim on most of the Water and Earth in exchange for the Muds, which were a combination of the two and, therefore, more potent. She had benefited the most out of this swamp dungeon.
+
+Thomas and Zach split the rest of the Earth and Water crystals with the idea to sell them on the outside. At level 3, they should fetch great prices.
+
+Zach fared the worst from the rewards, as he needed Fire to add to his core to get to level 3, but he took it with grace and said he would exchange his share of Earth for Fire on the outside. There weren't many level 3 dungeons that Thomas was aware of, but Fire was a common element, so he had a good shot at it.
+
+Of course, they split the three Adaptation crystals three ways, each deciding to absorb theirs immediately.
+
+That little bit was what made Thomas think he could reach level 3 here and now. He had used a lot of mana to heal himself, Jo, and Zach, but level 3 mana still outleveled him, and he had a lot left. So he added a few more level 3 Healing crystals on top, then with a growing sense of anticipation, absorbed his Adaptation crystal. It sank into his body like it belonged there. There was still a little room left, so he decided to fill the rest up with Wellspring mana. Why not? It was even more potent stuff.
+
+But he drank a little too deeply and felt overly full.
+
+He glanced over at Jo, who was still busy absorbing a Mud crystal.
+
+"You gonna make the leap?" Zach asked. "Level three?"
+
+"Level three," he confirmed. "Here I go."
+
+And he focused in on his core, willing it to condense all the mana in his body. He sank into a state of concentration... or was it meditation? He had never been one to really meditate before, so it was a little debatable exactly what he was doing.
+
+He saw that the greatest mix was, of course, Healing mana, but pure white Wellspring mana swirled through it in eddies and currents. Somehow, it seemed to boost the healing. And of course, the adaptation mana made it all glitter like a sparkly vampire.
+
+Well, whatever. It was the important third ingredient that had saved his butt in the mimic dungeon. He wanted that adaptability locked in, should he need it again.
+
+With that in mind, he encouraged all the free-floating mana in his body to travel to his core, to stick there and fully absorb into himself.
+
+It seemed that the mana was almost eager to do it, like it recognized his plan and agreed wholeheartedly. Or maybe he was just particularly suited to these types of mana. He remembered that his parents hadn't been able to keep any of the mana they had absorbed, whereas any Healing he touched seemed to want to just stick to him.
+
+His core seemed to balloon out, making him feel even more uncomfortably full. Then, just when the last motes left his body to his core, it hit a tipping point. The energy collapsed downward and inward. For a brief second, he saw his level 1 core, which was even smaller than he remembered, as if it too had been impacted. That just looked like glittery Healing mana; no Wellspring was involved.
+
+Then all thought was washed away as the new mana he'd collected compacted into a permanent layer. Potent, adaptive healing washed out of him in a wave as he became level 3.
+
+He had thought taking those Healing crystals had been intense. This was even more so. He felt strong and energetic, like he could run a 5K without getting winded.
+
+Thomas opened his eyes.
+
+"Wow," he croaked.
+
+Zach, who had been sitting nearby, passing the time by meditating, cracked a smile.
+
+Jo stopped what she was doing and just stared at him. "I felt that. Was that you?"
+
+"Level 3," he confirmed.
+
+"Congratulations. I have got to try that for myself." And she quickly returned to absorbing Poison mana.
+
+Meanwhile, Thomas looked at his stats. Because he was level 3, there seemed to be more details to his stats.
+
+Thomas Coldstrike
+
+Level: 3
+
+Attribute: Healing
+
+(Locked) Level 1: Healing Mana with Adaptation sub-aspect
+
+(Locked) Level 2: Adaptive Wellspring of Healing
+
+Class: (Locked until level 5)
+
+Skills 2/3:
+
+Basic Predictive Sight Against Adversaries
+
+Living Architecture
+
+(Open)
+
+Oh, that was interesting. If he was reading this right, the second layer in his core had combined even better than his level one mana had. "Adaptive Wellspring of Healing" was a much cooler name than "Healing Mana with Adaptation sub-aspect."
+
+Was that because he sort of knew what he was doing now, or had he chosen a particularly good mix?
+
+No way to know immediately, but there was one more task he needed to complete. From his backpack, he withdrew the skill shard he'd gotten from Grimm.
+
+He stared at it in his hand, asking himself if he truly wanted to do this. After all, he only got one skill slot per level.
+
+It might be better to have a combat-oriented skill. He didn't know what he was going to be facing in the future, but there would definitely be dungeon monsters involved. Or maybe he should choose something more healing-based, so he could channel his blooming empathy in a productive direction. That way, he wouldn't have to excuse himself from the room if a sappy, Oscar-bait movie got too intense.
+
+Okay, he wasn't that bad yet. But if he didn't get a handle on this, it could be.
+
+The fact was, Thomas wasn't entirely certain how far down the path of healing he wanted to go.
+
+Did he want to be a healer?
+
+He wasn't exactly a germaphobe, but he didn't like being around sick people. Plus, body fluids grossed him out, especially blood. He'd taken quick trips to the side of the lily pad to scoop up some water to wash the blood off him before the fish or tadpoles caught on. He'd never wanted to be a doctor; he just hadn't wanted to die in a dungeon of gangrene or whatever.
+
+But he did truly enjoy seeing people thrive and the act of restoring people to wellness. Zach had been grievously injured a couple of hours ago, and Thomas had been able to fix him so perfectly that he wouldn't need to see a plastic surgeon. He'd helped Jo too, though anyone with first aid knowledge could have reset her shoulder. Not to mention what he’d done regrowing Derek's entire hand. No doctor in the world could have done that.
+
+The act of erasing all that bodily trauma and pain was satisfying in a way he hadn't known before, and he didn't think it had anything to do with his mana.
+
+At the same time, his Gift was his real power. According to what had slipped through online filters, it was an aspect of his spirit made manifest.
+
+He looked down again at the shard sitting in his hand and firmed up his choice: The whole reason he went into dungeons in the first place was for the loot. With the profits, he could buy weapons to kill monsters, no extra combat skill required.
+
+Grimm had shared a similar inclination for loot, though he'd gone all psychopath about it. But Thomas had healing mana, and though some aspects could be annoying, it ensured he would never start torturing people and critters for fun and profit.
+
+The ability to feel deeply wasn't the end of the world. It made him human and grounded him. When he looked down the road, all he saw were tough times ahead and tougher choices. He wanted empathy to keep him from stepping on darker paths because it would likely be easy.
+
+With all that in mind, Thomas took a deep breath and absorbed the skill shard of 'The Eye That Sees Riches.' What a name.
+
+It melted into his hand, and he felt its power run up his arm straight to his eyeballs, which immediately flashed hot with pain as if he'd stuck pokers into them.
+
+Thomas hissed and pressed his hands over his eyes, which didn't really help. The pain then burned a line through his brain to the back of his head where his Combat Foresight skill sat. There was one more quick flash of sharp pain, like a cluster headache, and it was done.
+
+He looked around and stared.
+
+Zach and Jo's bags were glowing; Zach's messenger bag exceptionally so. It was almost like a color, except not, and he didn't quite know how to describe it. Staring, it took a few seconds to sink in that he was looking at a brand new color he had never seen before. It was the exact shade between copper and purple, which he hadn't realized had been possible until now.
+
+"Uh, you okay?" Zach asked.
+
+Thomas blinked. He realized he'd been staring hard at Zach's bag like it owed him money.
+
+"New skill," Thomas grunted. "It's showing me something."
+
+"Oh, right." Zach looked interested. "Didn't you say you got it from the gangster guy? What is it, again?"
+
+"The Eye That Sees Riches." He paused. "I think it's showing me treasure. Your bag is glowing. Jo's too. It's really weird." He pulled his bag off his back, then winced and looked away. It was glowing like a little sun. Only it was the brightest dark green he’d ever imagined… without it being green at all.
+
+Zach nodded wisely. "Some sort of analysis skill. You'll get the hang of it. Do you know what's it powered by?"
+
+That was a good question. "I don't think it's blood and pain," he said, glancing at Jo, who didn't react. She seemed to be deep in her meditation. "Maybe stamina?"
+
+He tried to look inward, but it was a little rough when things outside of him were brand-new colors. He sensed there was a way to turn the damn skill off, but he wasn't quite sure how.
+
+"Give yourself some time," Zach advised. "I hear new skills can be rough, and sometimes people even find aspects to skills they've had for a while. Not everything is what it seems."
+
+"That's right," Thomas said, turning to him, "you don't have any skills, do you?"
+
+"It's not like I got anything against them, but I haven't needed one yet," Zach said with a shrug. "As I get to know my mana, my ability grows. And since I am my own mana, I've got to be pretty selective. Can’t mess with anything that’s gonna feed off the fire.”
+
+Yeah. Thomas could easily see a way that could be twisted where Zach could lose a limb if he needed to let loose extremely intensive fire, and the skill ate the mana. It seemed Healing mana wasn't the only pain in the ass in the System. Good to know.
+
+"That pretty much locks you out of combat skills," Thomas mused aloud.
+
+"You've done a lot with utility-types." Zach grinned at him. "I could get a dancing or, like, yoga master skill. The flexibility, bro. Think about it."
+
+Jo suddenly let out a breath, and purple-green energy washed out from her, hitting both Zach and Thomas. Unlike Thomas's much nicer healing energy, it stung like the prick of a hundred tiny needles. Then again, she did have an aspect of poison to her mana.
+
+Her triumphant smile died as she heard the guys' yelp and saw them scramble up in shock. "Oh, nuts. Did that hit you?"
+
+Thomas did a quick internal check and found that he was okay. Whatever poison that mana had, it hadn't taken hold. "It didn't poison me," he said. "Zach?"
+
+Zach shook his head, already over his surprise. He took a moment to stretch out. "Dudes, I cannot wait to hit level three. That’s going to be sick.”
+
+"When you do, stay away from dry wood," Thomas told him, but turned to smile at Jo. "Congratulations. I think you have to be doing a level-up speed record."
+
+"Oof, this is a rush." Jo stood up and jogged in place a little. She had a new glow about her, though Thomas couldn't quite pinpoint what exactly was different.
+
+Stopping, Jo looked around. "What now? Exit reward?"
+
+"I suppose." The boss was dead, and while there were some creatures left, Thomas wasn't looking for a full dungeon completion. He wasn't sure if that was even possible, considering what a pain the tadpoles and carp could be.
+
+Thomas took a last look around, then paused.
+
+"Do you guys see that?" He pointed out to the horizon where something very bright glowed to his new sight... or so he thought.
+
+Zach squinted. "No?"
+
+"I don't either," Jo said.
+
+Thomas hesitated. "I think my new Treasure Sight skill is showing me something over there, but I don't have enough experience with it to know if it's worth anything."
+
+"I’m always down for treasure," Zach said, then crossed his arms in thought. "The dungeon's bigger than what we're used to, but I've been keeping track, and we've been sort of walking in circles. The other end of the mud flats are out that way. If we took a straight path out, it shouldn't take too long."
+
+"I wouldn't mind taking more potshots at monsters," Jo glanced at Thomas and then smiled. "As long as the loot guy here finishes them off."
+
+Thomas groaned. "Don't call me the loot guy. It makes me sound like a crappy musician."
+
+Zach's sense of direction was dead on, and though they had circled around the mud flats a couple of times in search of fish to kill, they somehow hadn't seen this part of it. It was a little more hilly, with streams that allowed carp a good running charge at them.
+
+As Jo had said, she was happy to take a shot at any fish who tried their luck with them. She had really taken to the Blood Thirst Sword, and now that she had locked in her Poison aspect, she found it much easier to use her mana to kill the fish. In fact, sometimes it was a little too easy, and she killed a couple of them in one hit before Thomas could get at them.
+
+Another interesting thing was how easily Thomas and Jo outpaced Zach, who was still level 2.
+
+The guy was by no means out of shape, yet they found they had to think about slowing down so he didn't grow winded.
+
+"So unfair," Zach grumbled good-naturedly. "Next level 3 dungeon we're doing is going to be fire. Literal and figurative. I'm calling it right now."
+
+Finally, though, they crested a particularly hilly portion and looked down. There was a small flock of mosquitoes circling around in a small dip that acted like a valley. It seemed that for some reason the stupid things hadn't figured out how to fly over them. And in the middle of the flock was...
+
+"Hey, we got a Goldie," Zach said. "I am already a fan of your new skill."
+
+There was a golden mosquito flitting around with the rest. It was definitely what was glowing in Thomas's treasure sight. Sort of a golden blue, and yet not those colors at all.
+
+Something twigged his memory, and he looked to Jo. "Remember that grizzly bear that charged up on us out of nowhere? I bet Grimm had been after it, and it was smart enough to take one look at him and run for its life, straight into us."
+
+"Oh, that's right," she said. "It dropped the Mama Bear potion, didn't it? The bear was gold just like this."
+
+"Yeah, a Goldie," Zach repeated. "Nice. Those always drop a choice rare item, guaranteed." He paused. "I say we do whatever we can to set Thomas up for the last hit on it. Maybe it will drop two rare things."
+
+“Seconded,” Jo said quickly.
+
+Thomas smirked. “Well, if you two insist…”

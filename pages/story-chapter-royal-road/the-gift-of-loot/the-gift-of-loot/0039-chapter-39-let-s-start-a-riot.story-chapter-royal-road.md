@@ -1,0 +1,247 @@
+---
+id: 45d68ebf-63b3-54ce-adb7-dca81a7ef10c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 39: Let's Start A Riot"
+slug: 0039-chapter-39-let-s-start-a-riot
+partOf: the-gift-of-loot
+position: 39
+ownLength: 3595
+unit: words
+publishedAt: 2026-06-08
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3510488/chapter-39-lets-start-a-riot"
+royalRoadId: "3510488"
+---
+
+"Who are they?" Thomas's voice most certainly did not come out in a squeak. At least, that's what he told himself. "More 'family' friends?" He leveled a glare at Zach.
+
+"Dunno, but probably not. Unless they're some rival family. But then why would they be following you?" Zach turned to get a napkin under the guise of looking around. "What are they doing now?"
+
+Thomas had not shifted his attention from their followers for a moment. "They've gathered in a group. I think they're talking about something."
+
+Zach brightened a little. "That's good."
+
+"How is that good? You said it was a hit squad. They're probably talking about how to kill us." He looked around. "Should we run for it? Go to convention security or something?"
+
+"Chiillll." He pushed down with one hand in a classic slow-down motion. "If they're gathered together, it means they're not communicating with someone higher up. They're talking things out, probably trying to figure out why the two of us are talking over hot dogs, which means they might not know exactly who we are, or we aren't being specifically targeted outside of being strong level twos."
+
+"My nephews would call that copium," Thomas grumbled.
+
+Zach flashed a grin at him and offered the last third of his hot dog. When Thomas shook his head, he shrugged and ate it himself in two bites. "Far as I can tell we have two options: we head for the exit and deal with it if they try to stop us, or we create a little distraction and slip out."
+
+"First one's out. If we head straight for my car, they can look at my license plate and find my registration. I'm not leading these people, whoever they are, to my brother and his kids."
+
+"Distraction then." He tilted his head. "I could start a fire."
+
+"Absolutely not," Thomas said flatly. "You don't know who could get hurt."
+
+Zach looked mildly offended. "I can control a fire."
+
+"You can't control how people with magical Gifts and skills will react to that fire." He trailed off meaningfully. "Not to mention those protesters out front. Any injuries here will give them more excuse to..." He trailed off and thought. "Huh."
+
+"What is it?"
+
+Thomas felt himself smile. "Why don't we use the protesters for cover?"
+
+Zach's eyebrows went up. "I like it. There's a lot of them, they're making a lot of noise. As long as they don't clock who we are... but how do we get out there? An emergency exit will sound an alarm."
+
+Thomas looked around and settled on an idea. "Meet me at the bathroom in two minutes." This would be easier if they were both women, as going to the bathroom together was a thing women did, but it would be weird for two guys. "The family bathroom," he said. "The one with a lock."
+
+He vaguely remembered reading on a website a year or two back that the Reno Convention Center had gone through a renovation. Thomas had been to the place since then and saw that part of that renovation had been to add a third bathroom option in the restroom's hallway. Now people with younger children could take them there without having to worry about disturbing other adults. That's why the main door had a lock.
+
+Luckily it was unoccupied, so Thomas slipped in and went to the far wall. The bathroom had a single toilet, a sink, and a baby changing station. He ducked underneath the changing table. Hopefully this wall wouldn't have any pipes.
+
+He took out his curved dagger. It had cut through anything in a level one dungeon and didn't have much problem with level two. He just hoped that extended to non-dungeon items.
+
+The wall was made of cinder blocks and he tested the blade against the grout. It slid right in like he was cutting soft cheese. Damn, this blade was scary. He was lucky it hadn't somehow cut its way out of its sheath.
+
+He easily cut around one of the blocks and, using his fingers, wiggled it free. When he set it aside, he saw daylight and some scrub brush on the back side of the convention center. Beyond that was a chain-link fence, a gap, and then the back of somebody's booth. It seemed the protesters had set up their own counter-marketplace. He didn't think they were selling mana crystals, though.
+
+He made short work of the next two cinder blocks and had just carefully laid one aside, careful not to make noise, when he heard a soft tap at the door.
+
+He really hoped that was Zach knocking and not a mother with a child that urgently needed to go pee-pee.
+
+He opened it. Luckily, it was Zach.
+
+"What's the plan?" Zach asked, walking in, then spied the missing cinder blocks. "Nevermind, dude. Good plan," he said, and immediately knelt to help get the remaining blocks free.
+
+They only removed a couple more, both well aware that they were running on a countdown timer. It didn't take that long to go to the bathroom unless something was urgently amiss. Plus Thomas really didn't want to destroy the place.
+
+He and Zach squeezed through just as one of their followers moved away from the others and started heading toward the bathroom, probably wondering where the hell they'd gotten to.
+
+They would search the men's room first. That would grant them a couple more minutes.
+
+The sun beat down full-on as they got to the other side. Thomas used the knife again and it sliced through the chain-link fence in a similarly unsettling fashion.
+
+With Zach's suggestion, they cut a line in the links, peeled it back to crawl through, then eased the cut section back into place. At a glance, it looked like there was no break in the fence at all. Then they walked around to the front of the booth to join the anti-magic protesters.
+
+The booth's front, by the way, had a large hand-painted banner reading: "Save Your Soul! Don't Let The Devil's Lies and Magic Into Your Heart!"
+
+There was a distressing number of people around. Apparently, only a portion of them had chosen to gather at the road to wave signs and scream at passing cars.
+
+The rest had set up a sort of alternate marketplace craft fair with scattered information tables, speaking "the real truth." Not all of it was religious. There were plenty of flat-earthers, moon-landing deniers, and political zealots on both sides of the spectrum (apparently, enemy-of-my-enemy was a uniting force) along with people just selling crystals "for protection." The regular kind of crystals, not the mana type.
+
+There were also cosplayers. Thomas did not know why.
+
+"Now all the squad are heading to the bathrooms," Thomas said to Zach. "I think they'll figure out where we went soon."
+
+"You can see that far? Sweet." He glanced back. "Guess we'll find out how badly they want us, or if this was just a test run."
+
+"Test run?"
+
+"Sure, it's not like a musician practices his music for the first time on stage, or a squad takes out a target first time out," Zach replied with easy authority that was bizarre. He was not military, and it disturbed and saddened Thomas a little for him that the guy even knew this.
+
+They had been heading to the thicker part of the crowd, which was clustered behind the main protesters. Suddenly, a man with a shaved head stepped right in their path. He shoved a flyer at Thomas. "You're coming to the rally tonight, right brother? It's at the Capitol Building. We're gonna make sure those pussy fucks know we will be heard."
+
+"Uh." Thomas froze as he caught the double lightning bolts on the side of the guy's neck.
+
+The man's expression just started to darken when Zach stepped in, putting on a slightly mumbled hills-have-eyes tone into his voice. "Rally, at the State Capitol, you bet brotha."
+
+He took a flyer, offered a fist bump that the guy returned with a grunted "Right on brother," before he shuffled off.
+
+Zach turned to Thomas and they shared a wide-eyed, silent "yikes" look. Even though Thomas was watching him, he still missed the exact moment when Zach dropped the flyer on the ground like the trash it was.
+
+"Let's get out of this crowd," Zach said in a low voice. "I'm not liking the vibe."
+
+His brain was re-engaging. It wasn't every day that he had a brush with a Nazi. "You'd think that type would be off fucking their cousins in their militia bunkers, or whatever."
+
+"They are," Zach said. "That guy's just the recruitment. Angry people with low information are exactly what they're looking for. Some of those militia properties out in the desert probably have a dungeon on them or quick access to one. In a few days, they'll have a new recruit convinced that they need to dive because they're 'one of the good ones.' Then that's one more dude with magic in their private army."
+
+"Wonderful," Thomas said. "This whole System-reshuffling-society thing is not going to be a powder keg whatsoever."
+
+"You have no idea," Zach muttered, unusually grim.
+
+The crowd on the sidewalk was too thick to easily pass through anyway, so he and Zach wove their way back to the craft fair portion. Unfortunately, Thomas was sensing more bad news. "Our very favorite fans have split up just past the fence," he reported. "With this many people, I think it's going to be hard to keep track of them. I'll probably lose some in the crowd."
+
+Zach exhaled, and Thomas could practically see him identifying and tagging flammable objects. Then he shook his head. "Straight charge for the far exit?"
+
+"Let's go."
+
+They passed by more booths with everything from conspiracy theories printed on paper, bound together in somebody's basement, to leather goods, dream catchers, and a group of nuns handing out water bottles.
+
+Then he and Zach passed by one booth where a woman sat in a chair beside about ten young children. Those couldn't all be hers, right? She was selling some sort of glittery stones laid out on the table.
+
+As he and Zach passed by, the stones suddenly lit up in a riot of rainbow colors and emitted long, shrill whistles, like a fire alarm.
+
+The woman was out of her chair so fast that she knocked it over behind her. "Demons!" she yelled, pointing a long finger straight at them. "These two are devils walking around in human skin. They have accepted the evil into their hearts!"
+
+Thomas glanced at her banner, which read: "Purity Stones: Know When Your Children and Friends Have Accepted the Dark."
+
+Not wanting any part of that scene, they quickly tried to walk by, but the woman was incensed and jumped over the table with a spryness Thomas hadn't expected. She grabbed Thomas's arm, nails biting into his skin. "Demon!" she shrieked, loud enough to be heard over the sound of the protesters.
+
+People were starting to turn in their direction, some of them with already darkening expressions.
+
+Thomas managed to shake her off, and Zach stepped between them.
+
+"Ma'am, you're mistaken," Zach said, putting on the charm. "I'm sorry for bumping your table, but I think it set off your things. Are they magic? Are you supposed to have these here?"
+
+She actually spat at his feet. "God gave me the means to detect your foul evil, and he has! These are dungeon demons!" She shrilled louder, attracting more of a crowd.
+
+Thomas thought about running, about pushing through the crowd, but it was already thick and getting worse as more people's attention was drawn in. This lady was not being quiet, and if she convinced enough people, they'd mob them. In fact, people were already starting to gather.
+
+And surely the hit squad or whatever they were would shortly take notice. They were surrounded by enemies.
+
+Enemies.
+
+He wasn't surrounded by dungeon monsters, but the auction guy who'd assessed his bear totem had specifically said enemies.
+
+As Zach continued to try and fail to talk her down while looking for a way out, Thomas grabbed his backpack and swung it around.
+
+"Hey, he's going for a gun!" one guy yelled.
+
+No. Not a gun. A bear totem and a brown crystal to power it. Luckily Thomas felt a bit of resonance with earth and was able to grab that crystal by feel.
+
+In one move he pulled the bear totem out and slotted the earth crystal into the bottom.
+
+People recoiled in a wave around him. The woman stopped screaming in Zach's face and just started screaming, backing away from both of them with a hand over her heart as if she were seeing the devil himself.
+
+"Come on!" Thomas took the opportunity to dart through a gap in the crowd. As he approached, more and more people shied away. Some turned and ran in the other direction, and considering how crowded the lanes were between booths, that caused chaos in a rippling wave outward from them.
+
+If he had given them any time to think, that fear could have easily turned to anger, but momentary shock worked for them. People recoiled out of instinctual alarm inspired by the totem.
+
+Thomas and Zach ran.
+
+Fortunately, the end of the protestors' designated blocked-off area was only two turns away. Thomas squeezed the bear totem's belly. It spat out the now-smaller earth crystal, and they blew past the mostly indifferent attendants at the front.
+
+Behind them, Thomas could practically feel sullen hatred, angry eyes burning into his back, and he heard occasional shouts directed his way. No bullets, though, and no one was running after them. It seemed the anti-magic crowd was just glad to have chased the "evil-doers" away.
+
+Zach was laughing, the crazy adrenaline junkie. "Hope that hit squad follows the noise to that lady's booth. The alarms will go off again, and people will flip out."
+
+"What were those rocks?" Thomas asked, puffing.
+
+"Mana detectors, dude. Those are dungeon drops. That lady was such a hypocrite." He chuckled again. "I bet she wasn't absorbing mana crystals and telling herself she wasn't using magic. Hey, what was that bear thing you used?"
+
+Thomas told him, and by the end he was laughing a little too, mostly out of relief. Good or ill, he didn't sense anybody following them. They had thoroughly shaken their stalkers.
+
+His amusement fled as they made their way to a bus stop. Zach pulled out his phone and said he had enough on his Reno Transit bus card for two tickets, which highlighted a very big problem.
+
+"Shit. My car's back there at the parking lot." He groaned. "I'm gonna get towed."
+
+"Nah, I saw an overnight parking sign. It'll cost you thirty bucks."
+
+Plus whatever a rental car would cost to get them home and back again, because there was no way Thomas was going back for his car right after shaking a freakin’ hit squad and almost inciting a riot of zealots.
+
+He was in a bad mood as they boarded the bus. It was half empty, and he and Zach took two seats in the back.
+
+Thomas thought about what he'd seen at the protesters' fair. People had been there from all walks of life, and there had been more than there had been at the convention center. The pushback over dungeon diving was growing.
+
+"Okay," he said, glancing around. No one was within hearing distance and the rumble of the bus's engine covered their conversation. "How terrible is it going to get? Society," he clarified as Zach looked at him in confusion. "There were so many people back there, and it's mid-week in a smallish city. This is going to be bad before it's over. Should we count on the Old Families to step in and settle things down, or is the world going to burn?” He took a breath. “I need to know."
+
+Zach tapped his finger in a rhythm on the seat in front of him for a few seconds, then shook his head. "I don't know," he answered honestly. "We didn't—they didn't know when the System was going to hit Earth. Just that it would at some point. I was kinda hoping it wouldn't be in my lifetime. Anyway, there's not like any grand plan that I know of. Just a lot of guys with a lot of power trying to ride out the wave like the rest of us. But those people we saw back there..." He shook his head and looked away.
+
+"What," Thomas said.
+
+Zach's shoulders rose and fell. "I'll tell you, but try not to feel bad for them, okay? They're making their own bed."
+
+The sinking in the pit of his stomach grew. "Just tell me."
+
+"Well... supposedly once the full System is here, it'll give you a year after you turn fifteen to unlock your Gift. When the full integration comes–" He flicked his eyes upward, meaning the message in the sky and the countdown that came along with it, that everybody could read, rain or shine, in whatever language you spoke, even if you were illiterate, "--once that hits and you're a full adult without a Gift, you'll be taken somewhere else."
+
+Thomas blinked. "Taken?"
+
+"You know those rapture stories? Only they won't be zapped up to heaven. It'll be like some sort of forced dungeon tutorial. It'll be safe," he added quickly, "with instant healing. But they'll get shitty, guaranteed support Gifts. The thought is that if you're not strong enough or willing to fight for your planet, you can assist those who can. Then once they're through they'll be returned to a random place on the planet to start, uh... start serving the new society, instead of being a burden to it." He snorted. "They'll be the toilet cleaners and maids to the people who spent all this time gaining magical power."
+
+Thomas followed that line of logic. "The adults will be taken, but a lot of them had a whole bunch of kids. Their parents will be gone, and they'll be left alone in a full-System world. Their parents won't come back because they'll be returned to, like, Mongolia or Brazil or cousin-fuck militia central right when society is imploding. Oh my God."
+
+Zach just looked guilty. "I shouldn't have said anything. I'm sorry."
+
+"We have to do something. Get word out, warn people. Maybe some of them will listen—"
+
+"Thomas," he said. "Breathe."
+
+He was breathing. In fact, he realized his breaths were coming out too fast.
+
+"Plenty of people know this," Zach continued, calm. "There are countries already instituting mandatory dungeon dives. They aren't the type that usually give power to the people, if you know what I mean. I'd be surprised if we didn't start seeing the same thing here."
+
+Oh, like the belligerent Sov Cit types would go for that. Thomas shook his head and said nothing else. He focused on looking on the bright side, though there wasn't much of one, calming down, and getting back under control. He was genuinely growing upset over a bunch of people who would have mobbed him and ripped him apart less than a half hour ago.
+
+"This fucking mana," he muttered, blinking fast and then rubbing his face. He had to get control of himself. "Am I gonna start crying at Humane Society commercials?"
+
+"Dude, those are so brutal. You mean you already don't?" Zach grinned at him. "Don't you have a heart?"
+
+"Ha fucking ha."
+
+Zach sobered. "You always have a choice," he said in an odd tone, like he was quoting something. "If you can't stand it, get a skill that focuses the mana in a productive direction, or start absorbing different types for your next level. Healers are usually earth or water-based. You’re only level 2. You’re just getting started."
+
+Thomas's eyebrows knit. He looked through his backpack for a moment to confirm his suspicion. "I have a nature mana crystal."
+
+"Nature's awesome," he said, utterly nonjudgmental. "Be a druid or something. Heal the earth, bro."
+
+He didn't want to be a druid. He liked his healing mana, even if it made him sort of a wreck at the thought of people suffering and families split apart. He could deal with that, or maybe get some emotional regulation skill or something.
+
+"I'll think about it," he said shortly. Self-directed annoyance was better than empathy for those who only wished him dead. "Let's figure out if this bus line gets us to a rental car place."
+
+That was when he felt his phone buzz in his pocket. He turned the screen on and looked. It was a text from Jo.
+
+Split the dungeon drops 50/50 like last time?
+
+He instantly replied. 33/33/33. I have a fire mage with us.
+
+There was a long pause with blinking dots before she replied. I'm in. When are we doing this?
+
+"Jo replied," Thomas said, "and she wants to do the dungeon. You ready to dive tonight?"
+
+Zach pumped his fist. "Yeah! I don't mind saying I built up some fire back there. I can't wait to let it loose."
+
+Tonight, Thomas confirmed, then hesitated and inwardly cringed before adding, Do you mind picking us up in Reno?
+
+(NOTE: Just wanted to add in case people are concerned that we have not seen the last of the hit squad. As if this story could let potential loot pinatas go so quickly... )

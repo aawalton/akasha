@@ -1,0 +1,171 @@
+---
+id: 7e49f89b-d64e-5c1b-a9db-f1d6d9293c5e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7: It's a Shark"
+slug: 0007-chapter-7-it-s-a-shark
+partOf: the-gift-of-loot
+position: 7
+ownLength: 2058
+unit: words
+publishedAt: 2026-04-07
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3244231/chapter-7-its-a-shark"
+royalRoadId: "3244231"
+---
+
+Thomas took his time before confronting the final boss. He drank water and sat with his back against the trunk of a tree to watch the seaweed leaves wave back and forth in a tidal push and pull that he couldn't see. It was relaxing, and his headache ebbed a bit.
+
+Finally, though, he could delay no longer. It was time.
+
+If I don't like it, I can just wind my way back the way I came and go out the entrance, he thought to himself. He would be giving up the boss loot and the dungeon reward, but he'd still have his life. That was a fair trade.
+
+He crept forward and popped his head around the last bend, using a seaweed-willow tree for cover.
+
+The shark was, of course, a great white à la Jaws. It was massive, swimming through the air about four feet off the ground as if it were water, gliding back and forth right in front of the dungeon exit door.
+
+His forewarning skill didn't give a ghostly overlay image. Thomas suspected this was because he wasn't in combat yet. He was glad because now that he was standing, his headache was so bad it practically made his eyes water.
+
+He sighed to himself. Nope. He was so close to the dungeon exit... he wasn't going to walk away or give up on that boss loot.
+
+So, he grabbed a pinkish-orange stone from the ground. Then, stepping back, he threw it as hard as he could. It bonked against the shark's side.
+
+Instantly, his forewarning skill kicked on, showing the shark starting to turn toward him. But the real shark followed so fast that the ghostly outline was barely ahead of its movement at all.
+
+Thomas didn't have time to react other than to step out from behind the tree and swing out with his maul. He had developed quite the brutal chop over the last two dungeons.
+
+Instantly, the shark was covered by blurry, overlapping ghostly images that were more confusing than helpful. The skill showed it turning one way, then another, as if it had two heads. A third outline showed it swinging all the way back around to swipe at him with its tail.
+
+They couldn't all be true at the same time.
+
+The only thing Thomas knew was that his maul struck the creature on the side. He got the impression of rubbery but very hard skin, and the blade did not sink in deep.
+
+The shark moved in a flash, taking the third option to turn and slap the maul out of his hands with its tail. Then, in a blink, it turned back again, its jaws opening to snap down on him.
+
+But Thomas had already gotten a ghostly warning of that move. He had already grabbed his curved dagger and was ducking away, slashing wildly. Somehow, through pure luck, he avoided the teeth and managed to take a slice out of one of the side fins as the shark moved past him.
+
+The dagger was too small to make a critical hit.
+
+Too small, too small! his panicking mind gibbered at him.
+
+And somehow, that seemed to connect him with an idea.
+
+He yanked out his penknife, flicked the blade open, and stabbed forward as the shark came in for another lunge. He hit it right underneath the chin and... then something very strange happened.
+
+A faded image of an octopus—a replica of the one he had stabbed with the penknife—launched out of the blade and suckered onto the shark's mouth, all biting tentacles latching onto its face.
+
+"What the—" Thomas stepped back as the shark made a watery roar, shaking its head back and forth to dislodge the... what? Summon? Ghost of the creature he had killed?
+
+Well, whatever it was, it wasn't long for this world. Pieces of it were already starting to flicker and fade, and the shark managed to bite down on one of the tentacles.
+
+It's a distraction, stupid, he thought suddenly. Use it!
+
+In a move of pure desperation, Thomas rolled underneath the belly of the shark, jabbed upward with the curved dagger, and then dragged the blade as he crab-scuttled toward the tail... and toward the dungeon exit.
+
+The dagger stuck near the end of the shark, and he left it, sprinting as hard as he could toward the door and safety. It was one of those moments that seemed to stretch out in time and yet go too fast all at once. He could practically feel teeth on the back of his neck.
+
+He couldn't resist turning back to look, to see how close death was behind him.
+
+But... nope. It was his imagination.
+
+The shark had indeed turned as if to chase him to the door, but then it had collapsed onto the ground. There was a lot of blood around it... and it was very still.
+
+Thomas slowed to a stop and realized there was a lot of blood on his hand. It was too dark to be his.
+
+The shark still wasn't moving. It was... dead?
+
+Thomas still sort of wanted to sprint for the dungeon door. But then he would be leaving his maul, the curved dagger, the penknife, and the loot from the boss.
+
+"It's dead," he said, working to convince himself. Letting out another breath, he laughed. "It's dead!"
+
+He was still careful as he came up on it, giving it a wide berth. Shark eyes always looked lifeless, even when they weren't, so that was no help. There weren't any handy sticks to poke it with, so he grabbed a stone and threw it.
+
+It did nothing.
+
+As he came around to the other side, he saw that his dagger had disemboweled the creature. There was no sign of the octopus on its face, and the mana crystals on the penknife that stuck out from underneath the chin were clear and empty again.
+
+He grabbed that first, yanking it out and examining it. It had taken no damage.
+
+"Okay," he said aloud. "I stab one monster and take its... what? -- Essence? Soul? -- into the penknife. And then it becomes my ally, and I can use it to kill a second monster... but I don't take that second thing's monster. Sure. That makes sense. Yup."
+
+He pressed the button, and the little penknife retracted. Carefully, he put it back into his pocket. He really needed to get a sheath for this thing. It was dangerous.
+
+He grabbed his maul where it had been knocked aside and then the curved dagger, which was underneath a pile of intestines. His hands got even grosser, but who cared at this point?
+
+Then he returned to the shark's head.
+
+The loot was in the shark's mouth: just a piece of dark, aged paper, like someone had torn a third off an old-timey piece of parchment.
+
+He very much did not like putting his hands between those teeth, but they didn't snap down, and he quickly snatched his hand back with his prize.
+
+He unrolled the parchment.
+
+It was... a map. A map of what looked like the east side of the lake, up in the mountains where the terrain got steep. There was even a little marked X, just like on an old pirate's map, along with spidery text that read: Level 2.
+
+Oh. A level 2 dungeon. Yeah, the government had provided a whole list of those. There were fewer than level 1s, but that was to be expected.
+
+But why would it be a dungeon loot drop?
+
+Thomas had the answer immediately, and he wasn't sure he liked it.
+
+It was loot because this was probably not one of the known dungeons. There must be others out there that weren't on the public list. And now he had part of a map that showed the way to one.
+
+It should be a cool discovery, but he felt a little numb about it. The adrenaline was fading, and his head hurt so badly that if he wasn't actively concentrating, he'd be seeing double. This had gone into full migraine territory.
+
+But he was done with the dungeon.
+
+He could get out of here, go into the real world with painkillers. Why hadn't he packed ibuprofen?
+
+Another note to self.
+
+He also had to prepare for a shakedown by the National Guard team outside. Better get this over with.
+
+Finally, Thomas went to the dungeon exit and stepped into the exit room. He leaned back against the door, breathing out.
+
+There was a chest by his feet. That would be his dungeon reward. Staring down at it, Thomas was hit with such a wave of exhaustion that opening it almost seemed like too much. But, of course, his greedy loot heart would not allow him to bypass free stuff.
+
+With a dramatic groan, he knelt and flicked the chest open. Nestled in the center was a single rose-gold healing mana crystal. It was about C-grade size, smaller than the fist-sized one he'd gotten from the chicken dungeon.
+
+For a second, he considered using it for the headache. But this pain was temporary, he was sure. The crystal was too valuable to waste when a pill could cure him soon.
+
+Besides, there was no rush. He could rest in here for a few minutes and force himself to plan.
+
+Sitting down, Thomas breathed out and dumped his bag of loot. The mana crystals spilled out like blue water with a musical tinkle. All were high quality and looked to be of the same size, shape, and quality. His special B-rank crystal was tucked in the side pocket.
+
+Aside from the map, he'd received no other loot.
+
+"Okay," he said aloud. "I've already taken the skill shard. They can't find that, I don't think. The dungeon map, though..."
+
+Thomas turned his backpack inside out and picked out a bit of stitching in the bottom—just enough to open a hole between the liner and the canvas outside. Then he rolled the dungeon map into a tight tube and slid it between the liner and the backpack. He spent a few minutes unrolling it again from the inside so it would lay flat between the two layers so no one would feel a lump.
+
+Okay, that was done.
+
+Now came the hard part.
+
+The extra special B-grade crystal was going into the pack first. He was keeping that, no matter what.
+
+He considered the white air crystals he'd gotten from the tweakers. They were less than useless compared to the wealth in front of him, but the trade had been noticed. He was also going to keep the healing crystal, so he put that in his backpack.
+
+He wasn't going to leave the curved dagger and weapons behind. He'd just have to take the hit in case anybody noticed anything odd.
+
+The maul was no problem. That was mundane and something anybody could find in a hardware store. Aside from the scraping the handle had taken from the octopus beak, it had held up well.
+
+Now came the hard part. How many of these regular C-grade water mana crystals did he want to keep?
+
+His greedy loot heart wanted to keep them all, but that would raise suspicions sky-high.
+
+All the crystals looked the same. He ran his fingers through them, seeing if any stood out, but none did.
+
+"Okay," he said to himself. "I could say I got the blue B-grade from the boss and the healing mana crystal as the overall dungeon reward. And then the rest of these C-grades would be drops... but how many is normal?"
+
+He flicked through his phone for the appropriate guide, but he had deleted some of the initial starting guides for storage and would have to re-download them—which was impossible here.
+
+After a few agonizing minutes, he decided to keep five of the C-grade crystals. Hopefully, that would be normal.
+
+It almost physically hurt to leave the rest behind, but it was better than attracting attention.
+
+The real prize, he reminded himself, was the skill shard. The map might be right behind it, then the healing mana crystal.
+
+I can get blues from anywhere.
+
+Finally, Thomas gathered his canteen and tossed it into his bag before exiting the dungeon.
+
+Now he had to get past the National Guard.

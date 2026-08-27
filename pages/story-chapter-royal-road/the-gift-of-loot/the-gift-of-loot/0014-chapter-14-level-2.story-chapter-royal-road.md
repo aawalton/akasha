@@ -1,0 +1,183 @@
+---
+id: 82ae2f01-9034-596a-ba46-541204420262
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14: Level 2"
+slug: 0014-chapter-14-level-2
+partOf: the-gift-of-loot
+position: 14
+ownLength: 1988
+unit: words
+publishedAt: 2026-04-20
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3298172/chapter-14-level-2"
+royalRoadId: "3298172"
+---
+
+"No, I've never heard of regrowing a limb," Ralph, the guidebook master, said. He paused, craned his head to the side, and called over to the alchemist. "Hey, Bernie, you heard of anybody ever regrowing a limb?"
+
+"No," Bernie replied before he did a double take on seeing Thomas. "Oh hey, you're the one I gave the job to. But... you've got all your limbs?"
+
+"Not for me, my brother had a first bad dungeon," Thomas said shortly before he turned to Ralph. "Coincidentally," Thomas said, pulling out the guide. He grimaced at how spattered it was with mantis blood. "I have some information on this dungeon here, if you're interested."
+
+"Maybe. Depends on how good it is and what you want for it."
+
+Thomas shook his head. "I'll leave my phone number. Give me a call if you get a direct line on anybody who knows how to regrow limbs."
+
+Ralph brightened, as well he should. Thomas knew that was a good deal, and if he did right by Thomas, he'd be more likely to come back with more info. "Alright. Deal."
+
+Thomas gave him the information about mantis eyes, and Ralph stared at him with his creepy, too-bright gaze. Then, seeing he was telling the truth, he nodded and took his number. "Normally I'd give you a C-Grade mana crystal for that information."
+
+"My brother's hand is worth more than a C-Grade mana crystal," Thomas said.
+
+Next, he went to the alchemist, who was practically dancing in place.
+
+"Here you go, three eyes as ordered." He plopped them down in an old donut sack. Inside, the eyes clinked together like glass. "I have more where that came from. What do you want for them?"
+
+Bernie the alchemist blinked at him. "Why would I need more eyes?"
+
+"I don't know. Why'd you need these eyes?"
+
+"For an experiment I was doing."
+
+"Oh."
+
+They stared at each other for a moment. Bernie was an odd duck, and Thomas wondered if he would have to ask again if Bernie would like the eyes or not. Finally, though, something seemed to click in the alchemist's mind. "Well, I suppose the first experiment could go badly, and I may need to repeat it. Hmm, yes. Well, I suppose I'll offer you half price for the rest."
+
+They haggled briefly, and Thomas examined the rest of the eyes for three low-grade healing potions. Then it was time for him to get paid for his original job. At Bernie's direction, he placed the three eyes on the contract paper, and both pressed their thumbs again to the corners, which told the System that the order was complete.
+
+The mantis eyes disappeared, and three B-Grade healing mana crystals flashed into existence in their place.
+
+He snatched them up. They practically sang with his mana core.
+
+"I don't think this will regrow limbs," the alchemist said, vaguely, as if he were only half interested. "They repair and restore just fine, but they can't create tissue that no longer exists."
+
+"Yeah," Thomas said, immediately feeling a little glum again. "I got that."
+
+"Hmm." Bernie eyed his backpack and clothing. "Just so you know, the mantis blood is slightly corrosive. You may want to get it washed off."
+
+Thomas sighed and nodded, already knowing his backpack was toast. He started to turn away.
+
+"There is one thing you can try," the alchemist said, out of nowhere.
+
+Thomas turned back. "What's that?"
+
+"Well, I just found out they're holding a government auction for rare items in Reno the day after tomorrow. The government's trying to set up their own system auction. There should be interesting items there. Now, I can't say if there's anything to regrow limbs, but that might be a good place to start."
+
+Thomas frowned. "I've heard that the larger cities are getting dangerous."
+
+"The whole world's getting dangerous," the alchemist said. "You just gotta pick and choose your danger."
+
+The guy might be a space cadet, but he also had a point. Thomas nodded, said his thanks, and made his way toward the exit.
+
+The flea market wasn't far from the lake, so after exiting the casino, he crossed the street and kept going. Within ten minutes, he was at the lakeshore.
+
+It was a weekday, so the gravelly sand beach was about as empty as it ever got. Thomas picked a spot in the shade made by a nearby pine tree and sat down. He pulled out one of the three healing mana crystals and wondered if he should give it to Derek after all. This was a B-Grade. Maybe a better quality crystal could do something.
+
+But the alchemist hadn't thought so, and Thomas didn't think he was wrong either.
+
+No. His best bet was the auction. If any higher-level healing items existed, they'd be there.
+
+But whatever would regrow limbs would be really expensive. Also, his whole foundation was going to be healing mana. Maybe he could do something for Derek soon.
+
+The problem was, if he found a skill that could regrow limbs, he couldn't even use it yet because he already had a skill. He'd have to level up so he had more room for a second skill.
+
+The best way was to level up. Not only for the extra skill but because he needed to get to that level two dungeon he'd found on the map piece, get whatever loot he could, sell it, and hope he could buy something that would help his brother.
+
+"Alright, here goes nothing," he said.
+
+He concentrated on the crystal. It jellified, splashed into liquid, and swept through him with a feeling of rightness as it joined the energy in his core. Closing his eyes, Thomas breathed out and reveled in the feeling of rightness and completion.
+
+He was also getting the feeling that he was approaching a threshold—hopefully his level 2 threshold. A few more crystals ought to do it.
+
+So he quickly absorbed the others, shuddering a little each time. Adding magic to himself felt good. He imagined to some it could become addictive.
+
+He felt overly full, like he'd eaten a big, satisfying meal, but the feeling didn't come from his stomach. It came from his spirit. His limbs buzzed. Every breath tasted faintly of rosy mana. It wasn't unpleasant. It felt like him.
+
+Thomas closed his eyes again, relaxed with the sound of the lake lapping against the shoreline only a dozen feet away, and tried to visualize what he felt.
+
+To his surprise, it came easily: He could practically see a rosy, goldish orb the size of a billiard ball in his core. As he had mostly used B-grade crystals, the ball looked and felt strong. Sure, he might have done better with A-grade, but to his eye, it looked like a solid foundation.
+
+And he thought he still might be able to add to it.
+
+Thomas reached into his backpack and pulled out the iridescent mana crystal. Something told him to keep this to himself, so he hadn't bothered trying to get it researched or graded at the flea market.
+
+"It's mana," he said, though he wondered if he were trying to convince himself. "Even if it has some weird aspect, that wouldn't be too bad...I think."
+
+After all, it wasn't like he was absorbing healing crystals so he could be a doctor. He was going to be doing a lot of combat alone in dungeons, and he didn't want to die.
+
+His plan was already paying dividends, as his earlier scrapes had been healing quickly enough to look days old—at least, before he absorbed the new crystals. Now there was no trace of them.
+
+In his grasp, the crystal started to take on the rosy, flesh-colored aspect of a healing crystal. Whatever mana type this was made of, this was a weird one.
+
+"Oh hell." He concentrated. "Don't make me regret this." The crystal jellified. He absorbed it.
+
+It felt... odd. Slippery and glittery as it flashed through his body.
+
+Immediately, he pictured the orb again and found it had... well, a sparkle to it.
+
+"Did I just absorb teen vampire drama mana?" he muttered.
+
+Well, whatever, it was done. Now he was extremely full. In fact, it felt like his orb—his core?—was screaming at him to hurry up and get to the next level.
+
+Mentally crossing his fingers, he mentally approved.
+
+Something locked into place, both within his core and in his heart.
+
+Then, before his eyes, a pop-up window appeared. Thomas stared at the words in the air that, according to all sources, only he could see.
+
+Congratulations! You have reached the minimum viable magic threshold to achieve basic access to the system.
+
+He raised his hand to swipe it aside, then froze.
+
+Something was different.
+
+He clenched and unclenched his fist. The change wasn't anything he could see, but his muscles and nerves felt faster. Stronger.
+
+Thomas marveled at the change within himself for a few seconds before he remembered that there was something else he needed to do.
+
+He rummaged through his backpack and pulled out the pamphlet. Quickly skimming it, he found what he needed.
+
+"Status," he said aloud.
+
+A screen appeared.
+
+Thomas ColdstrikeLevel: 2Attribute: Healer (Healing Mana- Adaptation subaspect)Class: Locked until level 5.Skill: Basic Predictive Sight Against Adversaries
+
+That was it. He didn't get any stats like he would have in a standard DND game. There wasn't even a description of the skill... but seriously, what was with that title? He was just going to keep calling it Combat Foresight.
+
+Then again, the System said that he had "basic" access. Also, his class was locked until he got to level five, which meant he needed a whole lot more mana crystals.
+
+Thomas next pulled out his dagger with the curved blade. With his new System sight, a small box with a question mark hovered over it. He concentrated, and a basic description popped up:
+
+Then his penknife:
+
+"Wait, there's durability?" He frowned, noticing the damage. While the tiny gems were fine, the rest of the handle was pitted. "Damn it."
+
+Getting up, he washed the knife in the lake to stop the durability decay. While he was at it, he washed out his backpack too, but like Bernie the alchemist warned, the cheap plastic was already degrading. It was as if he'd left it out in the full sun for an entire summer. Flakes of it came off in the water.
+
+It was only a JanSport, but he'd had the thing since high school.
+
+Thomas sighed. "Okay, I need a new backpack." Maybe a new magical backpack if he could find something at the auction.
+
+He had some decisions to make. If he wanted a shot at buying something awesome at the auction, he needed better loot to sell. And right now, cutting edge was basically level two. Luckily, he happened to have a map that led straight to one.
+
+One that was undiscovered... and utterly unmapped.
+
+Maybe it was the result of the level-up, but he decided it wouldn't hurt just to take a look.
+
+****
+
+The entrance room to the level 2 dungeon was larger than level one. Instead of a coat closet, it was a walk-in.
+
+His bravado had mostly fled on the drive over and the hike afterward, but with the aid of the map, he found it pretty easily. Best yet, no National Guardsmen stood outside to hassle him about his loot. Thomas had it all to himself, and he was determined to at least take a peek. It couldn't hurt... right?
+
+He touched the door handle. It was warm. He opened it—
+
+—and immediately slammed it shut as a gout of fire blasted toward him.
+
+"Shit."
+
+He exited the dungeon, put his hands on his knees, and tried to breathe without hyperventilating.
+
+"That was a fire-breathing chipmunk."
+
+He was not ready for this dungeon. But he thought he knew someone who might be.

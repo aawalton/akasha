@@ -1,0 +1,227 @@
+---
+id: fec2976b-f379-5bef-af28-670716a98f69
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30: Loading For Bear"
+slug: 0030-chapter-30-loading-for-bear
+partOf: the-gift-of-loot
+position: 30
+ownLength: 2611
+unit: words
+publishedAt: 2026-05-21
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3428794/chapter-30-loading-for-bear"
+royalRoadId: "3428794"
+---
+
+Thomas reached down for the skill shard and found it was still warm from body heat. His System helpfully tagged it as:
+
+Whatever that meant.
+
+Had the shard been the robber's skill? His Gift? Had the dungeon just treated any person who died in it like a monster, dropping loot?
+
+With an inner grimace, Thomas turned to the other body. What was left of the man was in shreds, and Thomas didn't think he would ever find that meme funny again.
+
+But he'd had nothing to do with this man's death. That made him a valuable data point.
+
+There, lying in the middle of the, uh, meat, was a white mana crystal. He wondered if the bear had been trying to get to it. Possibly, there had been even more mana crystals at one point.
+
+As he picked up the crystal, he felt its strength. It was a level one, C-Grade.
+
+The robber had dropped a level one crystal in a level two dungeon. That suggested the loot had been generated directly from him and not as a consequence of this dungeon. Maybe. He'd have to see more bodies to know for sure.
+
+With that lovely thought in mind, Thomas turned his attention back to the skill shard.
+
+Despite the horror of the situation, his greedy, loot-lovin' heart wanted to keep it, but...
+
+"Hey," he said, looking at the National Guardswoman. She had been standing by, quietly keeping watch with a sick expression on her face. All told, that wasn't a bad reaction. "Do you have any skill slots left?"
+
+"What?" She startled. "Skills? Do I look like a millionaire?"
+
+Skills were pretty rare, and expensive.
+
+Thomas inwardly weighed his options, still hating them, but didn't see much of a choice. He held the shard out to her. "My System says it's called 'Still Water on a Razor's Edge.' I don't really know what that means. But if it's a combat skill, that will be a huge help."
+
+She stared at him like he had two heads. Fair. It was a little like a complete stranger offering up the keys and title to a brand new car. And Thomas was visibly not a game show host or a YouTube sensation.
+
+"Why don't you take it then?" she asked, suspiciously.
+
+"Because you get one skill slot for every level, and both of mine are full." He wiggled the shard, hoping to tempt her with it. "So?"
+
+Again, she hesitated. Then her shoulders slumped. "That's kind, but I can't pay you. Guarding this place was... it's a temp job."
+
+"What do you mean?" he asked.
+
+She looked sheepish. "I was sort of hired from a staffing agency. We're supposed to work with the National Guard doing basic admin work." The story poured out of her as if she'd been keeping it a terrible secret, her words coming faster. "Because everybody's stretched thin, don't you know. But then a lot of teams were called away to the hubbub in the valley. They asked if I could shoot a gun. I've always hunted, so I said yes. Next thing you know, I'm assigned to guard duty at a dungeon halfway down the mountain in the middle of nowhere. No diver's come all day, until you and those hoodlums—" She stopped, blushing. "Sorry."
+
+"You're not military," Thomas said, feeling his stomach dip. He had sarcastically thought of 'security theater' with the guards before, but now he realized that had been close to the truth.
+
+By the numbers, the United States had more service people in one branch than many other countries had in their entire military complex.
+
+And now they were so overwhelmed they were hiring temp workers from staffing agencies, and putting them in fatigues to plug gaps.
+
+Slowly but surely, the stitching that held together society was unraveling.
+
+That was... yet another thing he did not truly have time to think about.
+
+"Look," he said. "I guess you can call this an emergency situation, and... I haven't even introduced myself, have I? I'm Thomas. I'm a level two, and I'm mostly a healer. I have a few fun tricks up my sleeves, but not a lot of combat strength. I think I can get you out of here, but it would be a lot easier if you could also take care of yourself. So what do you say?" Again, he wiggled the shard.
+
+She stared at it, clearly tempted. "I'm Joanne," she said. "Call me Jo. And... I thought you said you don't know what this shard can do?"
+
+He shook his head, wanting to be honest. "I don't. But even if it just does your taxes for you or whatever, it's better than nothing at all. I've never heard of a bad shard. There's a chance it could be for combat."
+
+She took a breath and looked around. Clearly, there wasn't much of a choice. "Okay. I guess. What do I do?"
+
+"Have you absorbed a mana crystal before?"
+
+"Yeah." She nodded. "A couple of blues from my first dungeon run."
+
+That was a good sign. It was just a guess, but since 'water' was in the skill shard's title, maybe it required water mana.
+
+"Using a shard is the same thing. Just focus on it, and it will do the rest."
+
+Jo nodded, and when Thomas handed the shard over, it immediately sank into her hand like it wanted to be there.
+
+"Oh," she said, taking a step back. "Oh, golly, that's so weird." She shook out her arms, from the elbows down.
+
+"What did it do?"
+
+She stared at her fingers. "It went into my hands and arms. What do I do now?"
+
+Boy, he really did not like being the all-knowing mentor here. He barely knew what he was doing. "Keep an eye out. When your skill kicks in, you'll know. My first skill showed up when an enemy tried to attack me, and I figured out how to dodge."
+
+She nodded and looked around. "I still don't think I should be going up against one of these bears. How do we get out of here?"
+
+That was a good point. Thomas reactivated his healing sense and cast out across the rest of the dungeon.
+
+Well, the two robbers were still alive, but they were both some way off in opposite directions. It looked like they were hiding.
+
+And there were bears... oh, approximately everywhere.
+
+But his healing sight felt a little strained. He glanced inward and realized that the free-floating motes were running seriously low. He was feeling fine now, but his body had taken a lot of healing to get back to tip-top shape.
+
+For now, though, there were no bears in the immediate vicinity, so they were safe to prepare.
+
+He reached into his pack, pulled out a Ziploc bag, and plucked out two B-grade level one blues.
+
+"Here, absorb these," he said. "I don't know if they'll help with your skill, but more mana can't hurt, right?"
+
+"...Thanks." Again, she looked wary of him just casually tossing money at her, but went ahead and absorbed them.
+
+Should he absorb anything? It wouldn't be a bad idea.
+
+He thought for a second, found a level one Healing mana crystal, then paused and dropped it back in his pack. Why was he messing around with level one stuff? He was in a level two dungeon. It was time to get serious.
+
+With an effort, he maximized his healing sight and let it burn through the few motes that were still in his body. He was still level two, of course, but healing himself from what had probably been a mortal injury and using his healing sight to its max without replenishment had pretty much depleted all of his gains since level one. He was scraping the bottom.
+
+He couldn't drop below the level one base. That was his floor, and it generated a little trickle of free-flowing mana. But he could build back up, and do it right.
+
+He wasn't going to build his level two base using level one mana.
+
+Ruthlessly, he burned through what little was left. At the end he felt... strange. It was almost like being thirsty, except he craved mana crystals. His body was parched for magic.
+
+He still had a level two Healing crystal from the Chipmunk Forest Fire dungeon. Shuffling around his many, many mana crystals, he found it.
+
+"Here goes nothing," he said, and absorbed his last level two Healing crystal. It was a little like having a refreshing drink after a long, hot day.
+
+There was plenty of free-flowing stuff, but looking inward, he saw motes eagerly attaching to his core again. He was building his level two base right.
+
+Time for his secret ingredient.
+
+"Jo, can you do me a favor?"
+
+"What's the favor?" she asked, still wary.
+
+He pulled out his big-ass Wellspring mana crystal. "I'm going to see if I can absorb some of this. Could you count 20 seconds and then knock it out of my hand if I haven't come to by then?"
+
+"Uh... what is that?" she asked, staring.
+
+"Really dangerous, over-leveled mana," Thomas said. "It's great stuff, in small quantities."
+
+She hesitated, but then seemed to embrace the madness. Her chin firmed. "Yeah, I'll count the Mississippis for you."
+
+"Thanks," he said, concentrated on trying to take only the barest, teeniest, tiniest, little sip of the mana... and then immediately found himself drowning in power.
+
+His muscles locked, and he could not have moved if his life depended on it.
+
+The next thing he knew, he was coughing on the ground, dragging in deep breaths that he had not been aware his lungs had been screaming for.
+
+Jo had smacked the crystal right out of his hand, as promised.
+
+"Thanks," he wheezed, and gingerly grabbed the mana crystal and put it back into his backpack.
+
+"That's some scary mana," she said. "Are you certain you should be messing with that?"
+
+"Not really," Thomas admitted. "But no pain, no gain, right?"
+
+She did not look impressed.
+
+Inwardly, he was more than satisfied. If he could build a base that was one part Healing mana, one part way-over-leveled Wellspring mana, and one part Adaptation mana... Dang.
+
+All of his Adaptation crystals were level ones. He liked that aspect to his mana. That's what had allowed him to adjust to his healing sight. He'd have to get more of it, at level two. For now, this would do.
+
+"Thomas," Jo asked, breaking into his thoughts, "What are we going to do about them?" She was staring at the bodies of the robbers.
+
+"Uh... well," he started, awkwardly, "the dungeon will reabsorb their bodies." They didn't have time for burial, and he didn't even have a shovel anyway. Was he supposed to say some nice words over their bodies? That would be so awkward since his feelings about them were mixed to say the least. Shit, was she religious--?
+
+"I meant their gear," she said with a snort, then went over to the man Thomas had killed... the one he now realized he'd been actively avoiding looking at.
+
+Ruthlessly, Jo started digging through his pockets.
+
+"Good gravy, he's loaded," she said, and pulled out a thick roll of bills. "Does he have a wallet?"
+
+She went back into his pockets and did not, sadly, find a wallet. However, the man also had three daggers on his belt. One was a switchblade, one looked like a hunting dagger, and a third was some sort of ceremonial thing made of bone. Not in a religious way, more like something one could get from a cheap gift shop.
+
+Jo made a shocked sound as she grabbed up the scary hunting dagger.
+
+"What is it?" he asked, wondering if she'd cut herself.
+
+"I feel weird." Holding the dagger, she twisted her hand in a very smooth figure eight. "I feel... I'm not sure how to describe it. I'm perfectly in control."
+
+Still Water on a Razor's Edge.
+
+Thomas got an inkling of what that meant.
+
+He handed her his katana. "See how this feels."
+
+Jo's eyebrows rose as she swung it. It wasn't flashy, like when Zach had done a little sword flourish. Her every movement was controlled, almost professional.
+
+"I think this is my skill," she said, echoing Thomas's thoughts.
+
+The dead guy had had three different daggers. Thomas now leaned more towards the skill having previously been the dead guy's, or maybe even his Gift.
+
+Thomas shuddered and left Jo to play around with the sword as he found his pen knife. It looked like it had gotten banged around in the bear's last dying throes, and it was looking a little worse for wear.
+
+He checked on it using his System and saw that it had 40 out of 100.
+
+Well, it just needed to last him until the end of this dungeon. Hopefully he could get it repaired. Were there people who could repair magical objects? No idea! But he had to focus on one thing at a time.
+
+"Okay," Thomas let out a breath, then nodded to himself.
+
+He knew what he wanted to do, but he wasn't alone here.
+
+"Okay," he said, louder and continued once he had Jo's attention. "We have two options. The first is to sneak through this dungeon. One of my abilities is to sense life force all around us. That's how I avoided those guys that were coming after me."
+
+"Why were they after you?" she asked suddenly. "What, did you steal from them?"
+
+"No!" he said indignantly. "They were trying to steal from me. They set up an ambush on the highway," he said. "I was totally innocent."
+
+She clearly wasn't buying it. "So they followed you into a dungeon, when dungeons are supposed to be deadly, and there's plenty of other people they can steal from."
+
+"They wouldn't be criminals if they were smart and had great impulse control," he said, but then had to admit, "Plus I'm carrying all my crystals from my dungeon runs."
+
+"Ah."
+
+"Anyway, between your Gift and my Notice-Me-Not Cloak here," he pulled out the cloak which was about as shapely as a bedsheet, "we might be able to avoid most, if not all the monsters, and the last two robbers, and make our way to the exit door." He paused. "And I don't know what will be waiting out there for us. Maybe the rest of these guys' gang."
+
+"I started calling in a report as soon as I heard gunshots, before you showed up," she said. "My last report was cut off, but... like I said, there aren't many actual National Guard around right now, and we're in a bit of a hole for radio out here. My shift was supposed to end in four hours."
+
+He nodded. "It will probably take us at least that long to get out. I don't see these guys waiting around that long, do you?"
+
+She shrugged. "You said two options. What's the other option?"
+
+He couldn't help his smile. "Kind of the first plan, but along the way, we kill bears, loot them for level two crystals and come out the exit a little bit richer."
+
+Jo was silent for a moment, but he knew she had to be tempted. She wasn't a temp worker pretending to be military for the warm fuzzy feelings. Money talked. "We split it? Half and half?"
+
+"Half and half," he said. "Deal?"
+
+She nodded and picked up the robber's other two knives, then went over to the mangled remains of the first guy, obviously not bothered by the gore at all. "Deal. Let's load up for bear."

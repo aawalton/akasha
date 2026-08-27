@@ -1,0 +1,243 @@
+---
+id: c2b03b99-11d6-59c1-914b-62655d413392
+page-type-slug: story-chapter-royal-road
+title: "Chapter 66: Energy Vampire"
+slug: 0066-chapter-66-energy-vampire
+partOf: the-gift-of-loot
+position: 66
+ownLength: 3046
+unit: words
+publishedAt: 2026-08-07
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3783266/chapter-66-energy-vampire"
+royalRoadId: "3783266"
+---
+
+The craftsman in charge of the Skill and Weapon Merge Emporium looked like a typical blacksmith that someone would see in a Renaissance fair, complete with a thick leather apron and steampunk-looking goggles currently pushed up to his forehead.
+
+"Hello, gents," he said as Thomas and Zach walked up. "You interested in upgrading your weapons?"
+
+"So that's something you can do?" Thomas asked. "I had no idea you could combine skills and weapons."
+
+The man grinned. "It's my Gift."
+
+Thomas felt a slight twinge of envy that someone could be so open about their Gift. Mostly, though, he was excited. This might be exactly what he needed since his skill slots were full until he leveled up again. "What if a weapon is already enchanted?"
+
+"Let me see. Do you have it with you?"
+
+Thomas pulled the halberd out of his bag and had the pleasure of seeing the man's eyes widen at the expanded space trick.
+
+Then the man held his hands out in a 'gimme' pose. "Let me get a closer look. Huh, it's a little like a halberd, and kind of like a Chinese polearm, but..." He trailed off and glanced at Thomas as if he had held back what he really wanted to say.
+
+"See, I told you it wasn't a classical halberd," Zach muttered.
+
+The craftsman sent a sharp look to Thomas and Zach. "Elven made?" he asked under his breath.
+
+Oh, so this guy was in the know.
+
+"Yeah," Thomas confirmed. He kept his mouth shut about the enchantment, wondering if the guy would pick it up on his own.
+
+He didn't have to wait long. "I see. It has a Light mana enchantment. That gets expensive around these parts. But yes," the man said, "there is room to add a skill, for the right price."
+
+"How does that work exactly?" Thomas asked.
+
+"It's in two parts. You either provide your own skill—and by that I mean the shard. I can't add something that you've already absorbed—and I can add it to the weapon for a flat fee."
+
+He pointed to a little sign that Thomas hadn't seen. The flat fee was $10,000. Thomas blanched. Yeah, he had just come away with a lot of money from selling mana, but he wanted to keep some of that money.
+
+The craftsman went on. "If you don't have the appropriate skill, then I can sell you one, or you can buy one here at the market anytime. There are others who specialize in shards. You'd want to check with me first to make sure it'll fit your weapon before you buy, though."
+
+"That sounds awesome. Do you have a list of your skills?" Zach asked. Then added casually, "Anything with teleportation?"
+
+"Teleportation is way too rich for even my blood," the craftsman replied, but he provided a printed-out ledger with some already sold shards crossed out. The man knew his wares and turned the pages to point out specific listings: "I have two good Light mana skills."
+
+(Light of Creation) Description: Purifies anything the light touches.
+
+(Radiance of the Severing Beam) Description: Cuts mana pathways.
+
+Light of Creation was out. Thomas wanted a combat-type skill, plus his purge already took care of poisons. Radiance of the Severing Beam had some promise, though.
+
+"What happens when someone's mana pathways are cut?" Thomas asked.
+
+The craftsman nodded. "From what I understand, dungeon creatures actually use mana to move, so it's a paralyzing force." He held up a finger, "But I've been told it's possible to rewrite your own mana pathways, so it's not permanent."
+
+Zach nodded along. "It won't really affect anything that is super in tune with its own mana, but it would be a hell of a surprise."
+
+Most importantly to Thomas, it would stop an attack without involving physical harm. He wasn't using Healing mana, so technically he could kill a monster with it, but by the sound of it, this would stop a person, too.
+
+He went quiet for a moment, asking himself if he'd be okay with that. But the answer was pretty clear: This didn't use healing mana to injure, and it was no different than taking a sword or a halberd to a dungeon creature. In fact, it might be a little better, as this attack didn't actually cause any physical harm, and the creature had a sporting chance of eventually getting around it. Until then, it just stopped them. It was almost perfect.
+
+Then he looked at the price. Another $10,000 down the drain, on top of the flat fee. That almost physically hurt. But he had the money. As Zach had said, easy come, easy go.
+
+"Do you take Venmo?" he asked.
+
+_____
+
+The craftsman's phone dinged as he received Thomas's payment a few minutes later.
+
+"All right," he said, putting the phone away and wiping his hands on his leather apron. "Give me 20 minutes, and I'll have your new skill keyed into this pretty halberd here."
+
+"I'm gonna walk around," Zach said, "see what's up."
+
+That was probably the smart move as the promised 20 minutes turned into 40. Thomas stood around awkwardly, watching the man mutter to himself and occasionally shake the halberd like he was trying to strangle it with both hands, Homer Simpson style.
+
+Finally, though, he handed the halberd back. "Alright, it’s done. Interesting thing, it's still called Light Bringer."
+
+"Oh?" Thomas asked. "Sometimes the name changes?"
+
+"If you change its nature," he replied cryptically.
+
+He had certainly changed the look of the halberd. Thomas hadn't been prepared for that, though he wasn't complaining. Previously, most of the ornamentation had been around the blade and hammer end of the weapon. Now, lines of gold wove up and down the handle in an intricate braid.
+
+"I'm pretty sure it will light up like a Christmas tree when it's using Light Mana," the craftsman said. "It'll be impressive, but remember that when it comes to stealth. Also, keep in mind that Light mana likes to be spent."
+
+So the skill was going to be mana intensive. Thomas wished he'd known that before purchasing. Then again, he did have access to an unlimited supply of mana thanks to the System marketplace on Elf World.
+
+He tested the weight of the halberd and found it pretty much the same as it had been before. "How fast will it eat mana?”
+
+"If you've only gotten one crystal's worth banked in your core, don't be shocked if it runs dry faster than the other enchantment." The craftsman paused and scratched his jaw. "That reminds me, actually. I know a dungeon that drops Light mana."
+
+Thomas tore his gaze from his upgraded halberd. "Oh?" He caught himself before he added, here on Earth?
+
+"Yeah, except it's sorta spoken for." His smile was thin. "People get chased off from it on the regular by something with pointy ears. Some get a little bit more than chased off, if they’re stubborn about coming back.”
+
+He was talking about an elf dungeon.
+
+Thomas spoke carefully. "I wasn't aware that they were allowed to claim dungeons here."
+
+"Well, you know what they say. Might makes right. But you seem like the type of guy who could handle yourself." He let that sit for a moment. "I could let you in on where it is, but it'll be at a cost. It's a dangerous place, and I can't afford anything getting back to me."
+
+Ah, so that was his angle. Thomas had to admit that it was a good one. A weapon like this would need Light mana, and that wasn't easy to come by on Earth. Luckily, he had his own supply.
+
+"I'm good," Thomas said. "I've learned my lesson about diving into somebody else's backyard."
+
+The craftsman shrugged, completely unbothered. "Well, my offer doesn't expire if you change your mind."
+
+Thomas put his new halberd in his backpack and walked away feeling like he might have grown a little as a person. Or at least stopped stepping in obvious bear traps.
+
+____
+
+He wondered up and down the aisles of tables, seeing if anything caught his eye. He even tried his Eyes of Riches skill again but was forced to shut off almost immediately with a grimace. No surprise that the treasure-seeking skill showed him all the treasure.
+
+Right before he switched to regular vision, he thought he caught a glimpse of something… that looked like Zach.
+
+It would be too easy to say that fire mana looked ‘red’. His Eyes of Riches skill showed him a whole new rainbow of colors, but something in his quick glimpse spoke of fire.
+
+So he wasn’t too shocked when he stepped closer to the table and saw fireworks.
+
+California as a state tended to have an entire 'wildfire season', so the fireworks sold legally had to be labeled as Safe and Sane. Generally, that meant they were oversized poppers or expensive snakes.
+
+These fireworks were neither safe nor sane, and from the description had been imbued with both fire and air mana for some extra kick. That would either be a whole lot of fun or a whole lot of trouble. Either way, he was definitely going to tell Zach about it.
+
+Thomas moved on and was unsurprised to finally find Zach back at the pet booth. He had the little orange tabby ball of fluff resting on his wrist and was petting it while speaking to the vendor. Thomas could hear the thing purring from several feet away.
+
+"What are those even called?" he asked, joining them.
+
+"Chirrzels," the vendor said. "They're harmless, mostly."
+
+"Mostly?" Thomas squinted at it, trying to find a System tag. Indeed, it did say Chirrzel. This was a System-generated beast. "Do you get these out of dungeons?"
+
+"I can tame them. It's my Gift," she said shortly, still not Thomas's biggest fan after the whole 'not feeding his murderous pet' thing. She then turned her attention back to Zach. "I think you have a way with that one."
+
+"Nah, I think this little guy already adopted me," Zach agreed. "I tried to walk away, but I feel like it's just meant to be, and who am I to argue with fate? How much for him?"
+
+The vendor eyed Zach up and down, as if still determining if he was acceptable for an animal she was about to sell. "Three thousand and he's yours."
+
+Three grand?! For that little thing? Thomas wondered if he should step in, but it was Zach's money, and he'd just spent a lot more on a flashy weapon.
+
+Zach easily paid, and as if knowing it was bought and paid for, the Chirrzel somehow flowed up his arm and settled over his right shoulder like a fuzzy caterpillar.
+
+"Hey, little man," Zach said, delighted, reaching up to scratch it. "I guess you're going home with me."
+
+It cooed, even though it had no visible face to coo out of, which Thomas found deeply unsettling. He leaned in to get a good look at the creature. "What does it even eat? It doesn't have a mouth."
+
+Zach grinned at him. "Get this: It eats affection."
+
+"So it's an emotional vampire," Thomas said flatly.
+
+With a mock gasp, Zach covered where the Chirrzel’s ears might have been... if it had a head. "Don't say that around Kevin. He's sensitive."
+
+_____
+
+After visiting the fireworks stand, where Zach acted like a rich kid in a candy store and came close to buying them out, they ended up getting two burritos at a nearby food cart that had parked itself on the corner of the lawn area. There was nothing like Southern California burritos. Thomas ordered an extra cup of pico de gallo to go.
+
+They found a park bench under the shade of a sycamore tree. Thomas opened his backpack, cracked the unicorn's box just wide enough to upend the cup of pico de gallo into it before snapping the lid shut.
+
+From inside came an outraged little whinny, then the wet sound of something eating with violent enthusiasm.
+
+He caught Zach looking. "What? It has to taste better than hay."
+
+"Admit it, bro. The unicorn's growing on you," Zach accused with a grin.
+
+"It's really not. But if it's actually, sorta, alive, I need to take care of it until I can figure out how to break this bond." Thomas polished off the rest of his carne asada burrito, then rummaged around in his backpack again. This time he brought out the single Light mana crystal he owned. While he could have sold it for big bucks along with the Wood mana, he was also highly compatible with this type. Now he was glad he kept it.
+
+Thomas concentrated and let the Light mana liquefy into him.
+
+He'd sort of forgotten that it was level four, and the power hit him like a boot to the stomach.
+
+Wincing, he grabbed the table. "Whoa."
+
+"You good?" Zach asked, alarmed.
+
+"Yeah," he croaked. "It's just... strong."
+
+It wasn't just that the Light Mana over-leveled for him; the Wellspring in his System was reacting to it and seemed to intensify the Light even more than the Healing mana. Wellspring and Light were definitely in the same family. It felt like Adaptation and Healing were intensifying it too... or they were all intensifying each other, because the Light Mana seemed to brighten it all. Apparently, he'd found a potent four-part combo.
+
+For a panicked moment, he flashed to the TikTok of the kid's core exploding. He wasn't in danger of that, but it might have been smarter to start with level three and see what happened.
+
+Too late now. He just had to endure until his core absorbed some of the Light.
+
+"Here." Zach dropped Kevin on the table in front of him. Reflexively, Thomas petted the creature. It was as ridiculously soft as a chinchilla, and it cooed and rumbled under his fingers, enjoying the attention.
+
+And okay... he did start to feel better.
+
+"I'm just going to sit here for a minute," Thomas said, as the worst passed. Or maybe it was the best because he felt strong.
+
+"Take your time." Zach opened up their new unmapped dungeon guide and started flipping through the back pages. "Huh. A lot of these are out in Wyoming."
+
+"Wyoming? What's so special about Wyoming?"
+
+He tilted his head in thought. "A lot of land, I think, and not a lot of National Guard."
+
+That reminded him of Alaska and his brother, Pete, who was working up there. He hoped he was doing okay.
+
+Suddenly, Zach tapped a page. "Check this out, Mana Man." He turned the guide around and slid it over for Thomas to read. "This is a level three dungeon that drops weapons way above the normal rate."
+
+"Really?" Thomas started reading. "And they don't guard it?" He looked at the map and saw that the dungeon was way, way out in the middle of nowhere. Apparently, the monsters were flying swords that challenged divers to duels.
+
+He was no swordsman, but he did have a new weapon that could interrupt the mana that let the swords fly.
+
+"Jo will kill us if she doesn't see this dungeon." He looked at Zach. "You got enough teleportation to grab her and then do a quick field test for my new toy?"
+
+Zach grinned. “Dude, I was hoping you’d ask. Let me just get a visual of the place. The guide says it's near Trout peak, right? He took out his phone and, after a quick Google search, started swiping through satellite images of Upper Wyoming.
+
+"You're really going to teleport from a map app?" Thomas asked uneasily.
+
+"Yeah, s'long as I can get a decent picture." Zach turned the phone to show an image of a scrubby brown plain with a line of trees out in the distance. It could have been one of a thousand different places.
+
+"What happens if the image isn't good enough or you just get it wrong?" Thomas asked.
+
+Zach paused, and to Thomas's increasing alarm, it looked like he was thinking about it for the first time. "It... probably wouldn't be pretty," he decided at last.
+
+Then he went back to Googling more images of their teleport spot.
+
+I'm trusting Google with my life, Thomas thought. Well, not really Google, but Zach. That reminded him of something he'd wondered off and on. "But how did you find me? The last two times, I mean? You didn't have a satellite picture of the Ross-Astor House, and I didn't even tell you where I was earlier today."
+
+"Oh, that's easy. I can find you anywhere. Everybody has kind of a fingerprint with their mana," he replied, not looking up. "Even if you add more or burn some away, the mana is you, and you are your mana. I know my Gift makes me kind of an expression of that, but still. So when I teleport you, I get a lock on your mana, and from then on, I just know, you know?"
+
+Thomas did not know, but Zach had flawlessly found him twice, so he was just going to trust that he knew his business. Besides, it was nice to know that if ever did find himself in the same situation as Twitch, he had a friend who could yoink him back out to safety again.
+
+So he turned his attention to other matters and texted a quick description of the dungeon to Jo, finishing with, "You in?"
+
+His phone buzzed less than a minute later.
+
+Jo: I swear to all that is holy, if you two already went without me...
+
+He grinned and replied: Just waiting on you to get done with the Mom stuff.
+
+Jo: We're both shopped out, and now I'm ready to stab something.
+
+Thomas smiled down at the phone. "Jo's coming."
+
+"Awesome! And... All right, I think I got enough of a picture." Zach grabbed Kevin, put him on his own shoulder, and said, "Ready to go? I'll drop you off, then go get Jo."
+
+Thomas quickly grabbed his backpack, Zach put a hand on his shoulder, and the next thing he knew, he was standing by the side of a two-lane highway in the middle of nowhere.

@@ -1,0 +1,229 @@
+---
+id: ae12aac9-25db-53cb-a1c6-d29e067a0a31
+page-type-slug: story-chapter-royal-road
+title: "Chapter 63: REGISTER Act"
+slug: 0063-chapter-63-register-act
+partOf: the-gift-of-loot
+position: 63
+ownLength: 2799
+unit: words
+publishedAt: 2026-07-31
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3751931/chapter-63-register-act"
+royalRoadId: "3751931"
+---
+
+It was, of course, nighttime when Thomas and his team stepped back through the portal. The elves only opened it after the Reno Convention center closed to keep people from sneaking in or out during daytime hours.
+
+Night time on Earth was different from the night on Elf World. It was warmer, for one thing, but it also just felt like Earth. Thomas couldn't quite put his finger on the difference, but he took a deep, grounding breath anyway and caught his teammates doing the same.
+
+His phone in his pocket dinged. Then it dinged again. Across from him, Jo's phone started going off like a rave party.
+
+Thomas pulled out his device and unlocked it. A couple of spam messages popped up, along with a text from Ashton last night asking if he could bring home pizza. Thomas felt a little bad because he hadn't spent time with his nephews recently and hoped the kid had been able to talk his father into it, instead.
+
+It was only eight o'clock; he could easily be home before the local shops closed. Kids liked pizza two nights in a row, right?
+
+Jo cursed softly off to the side.
+
+Zach, who was already staring at his own unlocked screen, grunted, “You see it too?”
+
+"See what?" Thomas asked. Was Sacramento on fire again?
+
+Thomas glanced out at the distant mountains, just visible against the starry sky. Nope. The air looked clear.
+
+"Check out the news," Zach said. "A new law for dungeon divers just dropped."
+
+“What?”
+
+Jo's voice was distracted as she read and spoke at the same time. "Yeah, it doesn't sound good."
+
+Thomas opened a browser, but he didn't even need to type anything in the search. The headline was plastered across the top of every major network. He tapped the first link.
+
+REGISTER Act Passed.
+
+"Seriously?" he muttered.
+
+REGISTER was a labored acronym for Reporting and Enforcement of Gifts to Increase Safety, Transparency, and Emergency Readiness. It seemed both houses of Congress had fast-tracked the bill, and the president had signed it the second it hit his desk late last night. It had been the law of the land for almost twenty-four hours now.
+
+A sinking feeling settled in Thomas’s stomach as he scanned the text. Stripped of the legalese, the law required everyone to register their Gifts in an official registry. Those who hadn't verified their Gifts with a dungeon scroll had exactly seventy-two hours to register or update an unverified Gift via legal affidavit. Otherwise their dungeon credentials would be suspended and they would be denied dungeon access at the National Guard checkpoints. Naturally, lying on the Gift affidavit was now a felony.
+
+Thomas rubbed his forehead. He felt like he should be shocked, but he couldn't quite bring himself to be. Applebaum had warned them that the noose was tightening. He’d been speaking of martial law, though. This was likely just the first step to get there.
+
+"I don't think I have anything to worry about," Jo said after a long moment. "I submitted my Gift scroll after my first dive, so that means I'm fully registered... right?"
+
+"Yeah, from what I'm reading, you’re fine," Thomas said. "I might be hooped, though. I didn’t bring my scroll out with me." Not like he would have, even if he knew this had been coming.
+
+"Nah, this isn't so bad," Zach offered, though at Thomas’s disbelieving look he added, "I mean, it's bad, bro, but not world-shattering bad."
+
+"I think this is exactly the first step to world-shattering bad," Thomas countered. "Unless I don't want to dive dungeons on Earth again, I'm going to have to go in and officially register my Gift."
+
+Jo’s eyes widened. "You're not gonna tell them—"
+
+"No," Thomas cut her off, glancing pointedly around the room. There was nobody around, but who knew what kind of magical eavesdropping might be built into the walls? In fact, it was safer to assume someone was listening. "No one will care about my Gift of Senses. I'll just say I was being a little paranoid during the initial signup," he added, giving her a pointed look.
+
+Pressing her lips shut, she nodded.
+
+"Might as well get it done tomorrow," Thomas muttered. "Lines are going to be crazy, and I don't want to look like I'm hiding something."
+
+"Today was day one, dude," Zach agreed. "We both still have two days. Going tomorrow won't look weird."
+
+"What's your plan?" Thomas asked him. “You didn’t give them your scroll, right?”
+
+Zach nodded, then shrugged. "Same as you, but I'm going to teleport to the Bay Area and register under a false address." He pulled a thin wallet from his back pocket and, to Thomas's amusement, began cycling through a collection of different driver's licenses.
+
+"Are those—? Wait, let me see one," Thomas said.
+
+Zach handed one over. It was high-quality work; at a glance the holograms and watermarks were all in the right places, though the one Thomas held had an address out of Eureka. Plus, the name was a little strange. “Zachary Afron? Really?”
+
+“The A makes all the difference,” he said, then stopped at a particular license. “Got this one out of Frisco. I'll just let them know about my Gift of Fire Manipulation. No fuss, no muss. Maybe I'll even tour the local dungeons while I'm down there."
+
+"Aren't having fake IDs illegal?" Jo asked, peering over his shoulder.
+
+"So is lying on a federal registry, now," Thomas said flatly.
+
+He was going to commit a felony tomorrow. As a guy who up until a month ago didn't feel good about jaywalking, the thought felt wild to him. Then again, felonies weren't going to mean what they used to.
+
+Jo turned her attention to Zach. "You're just going to teleport to the Bay Area? Just like that?"
+
+"Skip the Distance," Zach said with a grin. "It takes the same amount of power to get me to Tahoe, and thanks to our last dive, I've got plenty of Teleportation mana under my belt."
+
+She looked doubtful, but though Zach was the youngest in the team, he was still a grown man.
+
+Her phone dinged yet again. Then twice more.
+
+"My daughter," she sighed, after glancing at it again. "She’s fine, but I guess my phone finally popped back up on her tracking app."
+
+"Normally that app is supposed to work the other way around, right? Parents tracking the kids?" Thomas joked.
+
+He meant it as a light rib, but Jo grimaced. "She's turning fifteen soon. You betcha I'm going to be worried sick every time her phone goes offline."
+
+____
+
+Knowing several pizza places in town would be open for a while, Thomas lingered, digging into the actual wording of the REGISTER act. In his previous life, which had been an entire month ago, he had worked as an assistant to a paralegal. He was well-versed in wading through legal nonsense.
+
+To his eye, the REGISTER Act was a slap-dash, quickly written law. There was no actual mechanism to scan for or prove a Gift. The whole thing relied almost entirely on sworn statements, with manual verification reserved for specific cases. However, buried deep in the fine print was a "pattern-of-performance" clause. Basically, if an official noticed a diver's combat history didn't match their stated Gift, they could trigger a manual audit.
+
+He would have to be incredibly careful. A felony conviction for lying on the affidavit would easily land him in a uniform and mana ankle monitor right beside Twitch.
+
+Or, considering what his Gift could do, somewhere much worse.
+
+_____
+
+Juggling three pizza boxes, Thomas opened the door to his apartment. “Knock-knock,” he said lightly, then stopped in the doorway.
+
+The apartment was in complete chaos.
+
+He was a bachelor, and though he tried to be clean and pick up after himself, there were days when he slipped, so the apartment was normally in at least a little bit of disorder. Now it looked like a hurricane had swept through the house, topped off by the sound of his three nephews arguing by the TV.
+
+"What happened here?" Thomas demanded. They hadn’t seemed to have noticed that the door was open.
+
+Ashton, Kingston and Braxton turned to look at him, then they came at him in a rush, all speaking over themselves.
+
+"Uncle Thomas! Uncle Thomas!" "Kingston won't share his phone." "The reel's fake, it's AI." "No it's not, dumbass." "Is that pizza? I'm so hungry." "What kind did you get?"
+
+Ashton had reached him first, and at least had the presence of mind to help unload the three pizzas from Thomas's hands. That was good because he would have had to step carefully to avoid breaking an ankle.
+
+"Pepperoni, cheese, and combination," Thomas replied, distracted. "What… ? Where's your father?"
+
+"He said he’s working." Ashton rolled his eyes. "Also, he said to tell you that you need to pay your half of the rent on time."
+
+"It's only the 27th!" Thomas said, more and more outraged. He had never forgotten to pay the rent in his adult life, and it certainly wasn't late now. "Hold on—you're not eating a slice until we get some of this crap picked up." He clapped his hands to get the hellion’s attention. "You got ten minutes to put your stuff in your room. I don't care if that's a disaster zone, but I need to be able to step through my living room. Go."
+
+He must have sounded suitably pissed, because all three boys sprang into action. They were literally just chucking bookbags and shoes and stuff into their shared room before coming back for more, but whatever. At least the living room would be set somewhat to rights.
+
+Because he hadn’t created any of the mess, Thomas went to the table and grabbed his own slice of double pepperoni, along with a few plates for the boys.
+
+Honestly, the living room needed more than ten minutes, but they were enthusiastic, and he relented about eight minutes in so they could start on the pizza. "Did you guys not get dinner?"
+
+"We had some microwave dinners," Ashton said. "They sucked."
+
+"You're not allowed to curse, dumbass," Braxton said.
+
+"Dumbass is a curse, dumb—"
+
+"Okay, that's enough," Thomas said, before he got a headache. "Your father got a job?" He and Derek had been avoiding each other, and he knew Derek had been looking for work and was glad he'd finally found employment. Though, what would keep him out this late? He used to be a sales manager.
+
+"Not really, he does Instacart," Ashton said, rolling his eyes again. He was in full-blown teenager mode, contempt for his father and all. Thomas suspected he was only on Ashton's good list because he'd saved him from eating a TV dinner.
+
+"Uncle Thomas, what do you think about this?" Kingston shoved his phone across the table. A short video was loaded on the screen. He obediently pressed play and was treated to an intro of an excited broccoli-haired twenty-something introducing the “Opposite Mana Challenge”.
+
+"What's the Opposite—"
+
+"Shh, watch it," Ashton said, looking unusually grave.
+
+"Yooooooo! All right, all right, all right,” said broccoli head with a wide smile to the camera, “I'm running a spread of a hundred percent level one Water mana, and now I'm gonna add some pure level three Fire. Let’s go!”
+
+"Um," Thomas said.
+
+"It's AI," Braxton complained, as he squirted ranch dressing on his cheese pizza. "I keep telling them. They won't actually show someone dying."
+
+Which was an excellent warning for what happened next. The kid absorbed the red mana, and his cocky smile almost immediately dropped from his face. He curled over, and… BAM.
+
+Thomas jumped a little as the middle of the kid's stomach exploded with a burst of steam. A frame later, the video cut out.
+
+"Can that happen?" Ashton asked, unusually serious.
+
+"It's fake,” Braxton whined. “No one’s listening to me!”
+
+Thomas put a hand on Braxton’s shoulder to acknowledge him as he thought of what to say. "I've never heard of that happening, but mixing opposite elements is probably not a good idea.” He had the bad feeling that had not been generated.
+
+"What's your mix?" Kingston piped up. "You took Ashton dungeon diving, didn’t you? You have to have some mana by now."
+
+"I'm going to do Water and Ice," Braxton said, loudly as if afraid he was on the verge of being ignored by his uncle and older brothers. "You can call me Ice Man."
+
+"I have Adaptation mana," Thomas said, ignoring him. “It's a higher level.”
+
+Ashton gave him a look that very clearly said he knew it wasn’t just Adaptation but kept silent.
+
+"What's Adaptation?" Braxton eagerly asked.
+
+"It's a special, support mana type. It allows you to expand your abilities," Thomas said. "But this stays in the apartment, between the three of us." It was probably the very least of his secrets, but he still didn’t want it advertised around.
+
+They nodded.
+
+"But what do you use for combat?" Kingston pressed. “You can’t kill monsters with Adaptation.”
+
+Thomas grinned and went over to grab his bag where he’d dropped it by the door. Then, to his nephews' disbelieving eyes, pulled his long-poled halberd out of a bag that should not have fit it. "This is what I use."
+
+"Ooh, can I play with it?"
+
+"No. Absolutely not. Eat the vegetables on your pizza."
+
+_____
+
+The next morning, Thomas headed out to officially register his Gift. The information on how to do it was pretty easy to find, and he wasn't surprised to see that he would have to register at the National Guard marketplace.
+
+On the way, he turned on news radio and heard a report that the REGISTER Act was being challenged in federal court, but the government was leaning on emergency authority arguments to keep it active pending appeal. Thomas had zero hope that the courts would throw it out.
+
+Was he doing the right thing?
+
+He drummed his fingers on the steering wheel and debated for a second just... blowing it all off. The Chipmunk Forest Fire dungeon and the Ross-Astor Swamp dungeon weren’t registered. Plus, he had access to the level four and five dungeons on Elf World. Even if they now would have an escort, at least he would still be able to collect loot.
+
+Except avoiding the dungeons wouldn’t be enough, would it? Not officially registering would almost certainly trip some databases. He could get pulled over, and the authorities would have pointed questions. Or they could just find him. His address matched his driver’s license.
+
+He could just wait it out until the government fell. But what if it fell unevenly, or fell in an authoritarian direction?
+
+No. His best bet at the moment was to stay under the radar. That meant being a good citizen, bland enough not to be noticed. Okay, he’d kind of failed on the whole unobtrusive ‘gray man’ thing, considering his work with the National Guard, but Gift of Senses wasn't that extraordinary.
+
+It was a risk, but playing along was the best strategy.
+
+____
+
+There were a lot of compliant citizen dungeon divers, or at least people with the same inclinations as him. The line to the register desk was out the door. Thankfully, there was some form of organization and everyone in line was given clipboards and a form ahead of time to fill out while they waited. Ahead, the Guard had set up a long table with five stations of people transposing the forms into their computer.
+
+Thomas casually kept an eye out for Twitch. Most of the guardsmen wore thin gaiter masks pulled up over their noses, though Twitch would be easy to spot with his tattoos. He couldn't see him, though.
+
+The form itself was easy: name, date of birth, social, addresses for the last seven years, employment, and first dungeon dived.
+
+Finally there was a line for Gift: Title and description.
+
+Gift of Senses, he wrote. Perception increases with every monster killed in a dungeon.
+
+Easy enough, and matched what he'd already told the National Guard. Still, he was sweating as his turn came up in line.
+
+The man on the other side of the desk greeted him politely, glanced the form over, and made sure Thomas had signed at the bottom. He had but forgot to date it. Thomas did, and the man started typing into his computer.
+
+Everything was blandly going to plan, at least until the man looked at him and said, "Mr. Coldstrike, if you could please step to the side?"
+
+"For what?" Thomas asked.
+
+"I'm afraid your social security number has been flagged for manual review," the man said, and turned to wave down one of the National Guardsmen.

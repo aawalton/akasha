@@ -1,0 +1,215 @@
+---
+id: 3035b134-1316-5308-b60e-76af2226309c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27:  Schwarzenegger Could Never "
+slug: 0027-chapter-27-schwarzenegger-could-never
+partOf: the-gift-of-loot
+position: 27
+ownLength: 2887
+unit: words
+publishedAt: 2026-05-17
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3407802/chapter-27-schwarzenegger-could-never"
+royalRoadId: "3407802"
+---
+
+There was a frozen, crystalline moment where Thomas didn't know what the hell he was going to do. So he settled on bullshitting.
+
+"Preston? Never heard of him," he said flatly, then shut his damn mouth.
+
+Ashton, to his credit, didn't run or posture. Thomas could practically feel the tension radiating off him, but he stayed quiet, which was the smartest thing he'd done all day.
+
+"Look," Tall Guy said, almost cordial. "We're just looking for our friend, and we know you've spent time with him." He paused and looked at Thomas meaningfully. "We also know about the Brighten Estate."
+
+That was a gut punch. Either someone in the National Guard had talked, or, more likely, the Old Families had eyes on National Guard operations.
+
+Tall Guy continued. "Preston has people who care about him with real resources. It would be a shame if he were out there without that kind of support."
+
+"Dungeons are dangerous places," Brick Shithouse added. His smile was a lot sharper. "Accidents happen, especially to people diving alone." He glanced meaningfully at Ashton.
+
+All this time, Courtney said nothing, but she watched him with her limpid blue eyes, as if just begging him to tell them what they needed to know.
+
+While Thomas's eyes were fixed on the dude-bro group, his healing sight had picked up something else. There was an orangish blob of life energy edging along the dungeon wall to his left. Though strangely, he didn't think it was orange because of heat. It was just... something else.
+
+He didn't dare take his gaze off the dude-bro group. He just tracked it as it crept closer.
+
+"I'll pass that message along if I run into him," Thomas said, dropping the 'I never heard of him' act. No one had believed him anyway.
+
+The blob was not stopping. Thomas made no indication he noticed it at all.
+
+Jawline smirked and stepped forward. Of all of them, he most looked like he wanted to start something. "Look, we're going to find Preston with or without your help, but—"
+
+The orange blob had extended a tendril, and it was inches away from Ashton. Thomas swung his sword backward and to the side, and a pumpkin monster, of all things, was sliced right in half, real guts and pumpkin seeds spilling out everywhere. Ashton jumped and twisted around, but the monster was already dead.
+
+Thomas, meanwhile, hadn't taken his eyes off the group to strike. After more than a day in the dark, relying only on his healing sight, he hadn't needed to. Plus, it was a freaking pumpkin, and he was a level 2. It wasn't exactly a threat.
+
+Jawline must have decided this was his moment to be a hero because he lurched forward into a run, the spiked mace in his hand raised.
+
+Thomas's Combat Foresight kicked in, just like it did with dungeon monsters. He saw a ghostly outline of Jawline bringing his mace down, not in a regular chop as it initially appeared, but down and to the side in a move meant to take his head off.
+
+"Tad, no!" Courtney yelled.
+
+Despite having flashily killed the monster, Thomas barely knew how to use his sword. He certainly couldn't wield it against men and women who were trained, undoubtedly had better weapons, and probably had other tricks hidden up their sleeves, bought by mommy and daddy.
+
+Thomas moved to the side, slipping out of the strike's path, and brought a foot up just in time to hook Jawline's ankle.
+
+He was faster than the man. It was almost easy.
+
+He's a level one, Thomas realized as his foot yanked Jawline's leg from out under him. The man stumbled to the side, slipped on pumpkin monster guts, and fell to all fours. Still staring at the dude-bros, Thomas used his sword to push the tip right at Tad's kidneys. He was only able to do it that way because of his Health Sight, but in retrospect, it may have seemed eerie.
+
+Ashton swore and wisely backed away. Brick Shithouse stepped forward as if to help his friend, but Tall Guy and Courtney both stopped him, each with a hand on his shoulder.
+
+So Thomas stopped too. And so did Tad.
+
+"So much for wanting to talk," Thomas heard himself say. He was grinning, though not out of any sense of amusement. His lips were peeled back from his teeth, and he couldn't relax enough to stop.
+
+"Let him go," Courtney said, her voice high-pitched from stress, "or we'll kill you!"
+
+"Step towards me and I'll kill him," Thomas countered. At that moment, he felt like he could do it. It would be easy to drive the tip of his very sharp blade in. He wondered if he was stronger than the guy too, being a level two. Probably.
+
+"Look," Tall Guy said. "He just made a mistake. We're just here to send a message."
+
+That was an off-ramp. Even though Thomas was flooded with adrenaline, he could do the math and knew it would be very bad if all three of them came at him at once. Ashton would be less than no help and would probably become the next hostage. Thomas had his own tricks up his sleeve, but he was not suited to fight other people. He didn't have the combat skills. The only thing he had going for him was that he was stronger and probably faster.
+
+Ashton could get hurt. Actually, he probably would get hurt.
+
+He made a decision.
+
+"Tad, wasn't it? Great name," Thomas said, clearly meaning the opposite. "Tad leaves his little spiky mace as a souvenir. Then he gets up and joins you, and you all walk back out the way you came." He paused, knowing he would have to throw them a bone so they could walk away with egos mostly intact. "If I see Preston, I'll tell him that Courtney and Friends said hi."
+
+"That's all we came in here for," Tall Guy said, with a smile that Thomas did not believe for a second. "Tad, leave the mace."
+
+"But—" Tad complained. Despite coming a hair's breadth from falling on his face, he still had it in a tight grip and looked like he dearly wanted to knock it into Thomas's shins. He probably would have if he didn't have the point of a sword literally at his back.
+
+"Leave it," Tall Guy said.
+
+Thomas had still not taken his gaze off the rest of the group. "Toss it away into those bushes."
+
+He watched with his healing sight as Tad did just that. Well, here was the moment of truth. Slowly, Thomas lifted the sword and took a few steps away, pushing Ashton back as he did.
+
+Tad got up, all injured dignity, wiping pumpkin guts off his white t-shirt. Seriously, who wore a white t-shirt in a dungeon? Maybe he could get a new one and make it less skin-tight next time.
+
+"You good, bro?" Tall Guy asked as he returned. Tad muttered something Thomas couldn't hear and threw a venomous look back over his shoulder.
+
+Aw. He had not made a friend today.
+
+Thomas dearly wanted to send them off with a parting warning, as Schwarzenegger would have never let the moment pass... but he also really wanted them to leave.
+
+"Remember what I said," Tall Guy said, in what he probably thought was his version of a parting shot. "Preston knows where to find us." Then they left through the door.
+
+Ashton turned to him, his eyes alight. "That was so cool! Who were those guys?" He didn't wait for an answer. "I didn't think you could be that cool!"
+
+Thomas was not feeling cool. He felt like he wanted to throw up.
+
+"Ashton," he said weakly. "Shut up for a moment." And though he dearly wanted to run and kill some low leveled monsters, then maybe hide in their burrow for a few days, he made himself walk forward and jerk open the door. The entrance room was empty. The group was truly gone and probably out of the instance, but he was not going to trust that.
+
+"We're going to wait ten minutes until we're certain the instance is closed." It had probably been ten minutes already since they'd first entered, and it had likely closed already, but he was taking no more chances. Too bad he didn't have a watch... "Wait, I do have a watch!" Thomas reached into his pack and rummaged through it, coming up in triumph with the old-timey pocket watch he'd picked up in the mimic dungeon. It was, of course, analog, but it ticked along, keeping time perfectly.
+
+"Um, okay? Nice watch, I guess?" Ashton squinted at him. "But what did they want? Who is Preston?"
+
+"They are a bunch of tools, and Preston is Nunya."
+
+"What?" Then his face scrunched up. "Ugh."
+
+By the laws of older male relatives everywhere, he was required to finish a joke. "That's right. None ya business. Go loot the pumpkin monster."
+
+He went for the mace, and there was something he did not like about the look of those spikes. They tingled like magic. He very carefully put it in his backpack, in the inner pouch where you'd normally put a laptop. In this case, weapons.
+
+"Oh wow," he heard Ashton exclaim. "We got three brown crystals from this monster. It must have been really strong."
+
+Or because Thomas had killed it. "Yep."
+
+Ashton returned, all grins. While Thomas was glad he wasn't getting PTSD or something from the experience, he didn't think his nephew understood what had gone on here. He had to hammer this home.
+
+"Ashton, we just got very, very lucky."
+
+"Well, yeah, three crystals—"
+
+"Those guys," Thomas interrupted. "What do you think would have happened if they got the drop on us instead?"
+
+"We would have fought. I would have helped, you know!" he said, though he was starting to look upset. He probably knew where this was going and didn't like it.
+
+Thomas took a breath. "One thing you should know about dungeons is that they absorb whatever is left behind. I told you that no one on the outside can tell what's going on in an instance. I don't know how they even got in here; they probably paid off a guard. But all they'd have to do to get rid of the evidence of murder forever is just leave, and the dungeon absorbs it all."
+
+"But..." Ashton said, and stopped, frowning.
+
+"No one would have asked a question," Thomas went on. "If anyone looked into it all, they'd assume we got killed by an avocado tree. You get it? It's like... international waters here. There are no laws."
+
+Ashton's frown was turning into a full on scowl but he said nothing. It seemed like he was finally getting a little sense knocked into him.
+
+"New rule," Thomas said heavily, "no matter what, I'm clearing out the first monster, and then we're waiting ten minutes just outside the door with weapons out."
+
+He would never allow anyone to get a drop on him again.
+
+"Couldn't you just tell them where the guy was, so they'd go away?" Ashton asked. "Or lie and say he went down to... to Las Vegas or something?"
+
+God, he did not want to think about the crazy dungeons that must be in Las Vegas. "Because Preston is a friend, and what if they decide to take us down to Vegas with them? They were threatening to kill us. I don't think kidnapping is out of bounds."
+
+Ashton screwed up his face. He obviously didn't like his suggestion being brushed off. "What do we do now? Report them to the police?"
+
+That was the big question.
+
+If someone had threatened his and Ashton's lives before the System Announcement, absolutely. Thomas would be on the phone to the sheriff's office right now. Or at least, as soon as his phone worked. But these people were from Old Families, clearly had some kind of inroad with the Guard, since they knew about the Brighten Estate and were able to slip behind him into this dungeon instance.
+
+The world had changed.
+
+"I have people to talk to," he said, meaning Zach. Assuming the guy returned from his 'me-time' out in nature. Thomas took a breath, then let it go. "In the meantime, we're going to clear out the entire dungeon and the boss. We're here, it's our instance. We may as well get paid for it."
+
+Ashton nodded, but he looked a little more serious.
+
+Well, good. Dungeon diving could be dangerous business.
+
+****
+
+The final boss was a killer tomato. Of course. At least there was no singing involved.
+
+Like last time, Thomas took the sword back and killed the boss. But it was a level one, and he had an extra-long sword with which to stab it. So he did, and it died, screaming horribly.
+
+His hopes that it wouldn't drop a ton of loot were foiled when he found another big A-grade healing crystal. If the crystal weren't also a level one, he would have been tempted to absorb it himself. Luckily, a healing crystal had many uses.
+
+"So," Thomas said, hefting the healing crystal. "I want to see what this will do for your grandpa and grandma later, but they'll need to visit a dungeon first for this magic to work on them. What do you think is best for beginners? This or the Demon Chicken dungeon?"
+
+Ashton thought about it for a moment. "This one, the Vegetable dungeon. I think the Demon Chickens running at them would startle Grandpa, and he gets wheezy when he's amped up."
+
+"Good point," Thomas said, and let Ashton open the exit reward chest. They got another earth crystal and a water crystal. He had to find a way to offload these.
+
+Mentally bracing himself for trouble, he exited.
+
+There were two National Guardsmen at the gate, neither of them the same guard he had seen coming in. That guy was long gone, if he had been a real guard at all. The dude-bro group hadn't stuck around either. Thomas wondered if he should make a report but decided against it.
+
+This was an Old Family problem, so it would likely take an Old Family solution. He'd speak to Zach.
+
+Ashton seemed to have recovered his mood and chattered on the drive home. Then he asked which dungeon they'd be hitting next.
+
+"That's it for today," Thomas said. "I'm dropping you off at home so you can catch up on homework. I have things to do."
+
+"Dungeon stuff?" he asked. "I can help."
+
+"No. You should be in school, but since you're not, you can go home and cool your heels." He shot a hard look at his nephew. "If I find out that you've gone on a dungeon run without me overseeing it, I will break your legs and then use my handy crystal to heal them wrong so you can't walk again."
+
+"All right, all right, I got it. Geez." He held up his hands, and to Thomas's surprise, there was actually a hint of fear in his eyes.
+
+He had meant it as a sort of "I'll kick your ass from here to next week" kind of joke. But he might have been a little on edge because Ashton had taken it seriously.
+
+Well... good.
+
+"As long as we understand each other," he said, then pulled into the apartment complex. "Get out. You got a key?"
+
+Ashton confirmed that he did, got out, and Thomas drove away.
+
+He found himself heading out of town. It was easy to think as he drove, even on the windy mountain roads. As he realized the direction he was going, he found he did, in fact, have a destination in mind. It was only two hours down the mountain to Sacramento. It was a large enough city that there would be a ton of places to offload his crystals and get the items from the mimic dungeon appraised.
+
+That was a plan.
+
+He stopped at a dollar store and got a bag of zip-locks on his way out, then spent a few minutes arranging the crystals in neat little packages for sale.
+
+Every day I look more and more like a drug dealer, he thought.
+
+Then he headed down the mountain. He would try downtown first. There were all sorts of little hole-in-the-wall shops, and that seemed more likely to take crystals. He would spread them around. Sacramento was one of those metro areas where land had been cheap at one point, so the city was nice and spread out. He could hit a whole bunch of spots, dropping crystals at different places.
+
+He was about an hour into the drive when he came to a part of the road that opened up into a vista, showing the tops of rolling foothills, and beyond, glimpses of the city itself.
+
+A haze of smoke was a brown and orange smudge on the horizon, with helicopters the size of gnats flying all over. Most striking was the bloom of flames and columns of more smoke rising from the buildings.
+
+The distant city was on fire.
+
+"I cannot catch a break today," Thomas said to the uncaring universe.

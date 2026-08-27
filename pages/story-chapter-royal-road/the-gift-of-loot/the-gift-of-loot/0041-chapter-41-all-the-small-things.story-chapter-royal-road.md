@@ -1,0 +1,151 @@
+---
+id: 244875f0-dc85-59a8-b54f-0de973713c2e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 41: All The Small Things"
+slug: 0041-chapter-41-all-the-small-things
+partOf: the-gift-of-loot
+position: 41
+ownLength: 2042
+unit: words
+publishedAt: 2026-06-12
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3530318/chapter-41-all-the-small-things"
+royalRoadId: "3530318"
+---
+
+The dungeon was indeed weird. According to the guide, its theme was "Small things large, large things small," which invited so many "that's what she said" jokes.
+
+Anyway, Thomas wasn't going to call the dungeon "All The Small Things," because then the song would be stuck in his head all day. So he focused on the second theme, which was "swamp."
+
+They arrived at the shores of a vast bayou. The air was dank with the smell of stagnant water, and there was what looked like a carpet of dark green grass underfoot. Though on second glance, the grass was ankle-high trees with moss hanging off the branches. Each footfall had a distinctive crunch.
+
+In the place of actual trees were giant ferns, cattails the size of skyscrapers that bobbed overhead in a light breeze, and spiky tufts of grass that seemed to loom over them and block out the sunlight.
+
+Something about the tiny trees and the massive stalks of grass that should not be made Thomas feel unmoored, like he was going to be carsick.
+
+This, too, was a low-level effect of the dungeon and one that he had been expecting to battle against. On the guide's advice, he just didn't look very hard at the landscape.
+
+Then, of course, there were the monsters. The first wave they expected to run into arrived right on time: They were giant, cow-sized mosquitoes.
+
+The mosquitoes buzzed in a flock straight towards them from the direction of the swamp. Their wings made a high, piercing whine that set Thomas's teeth on edge. There had to be over thirty of them in this flock alone.
+
+Thomas waited for a moment, expecting to see blades flying from Jo at the leading edge. They had a few seconds, and this was the perfect opportunity to take them out at range.
+
+Jo only stood there with sword in hand, her expression grim.
+
+"Uh," he said, "you did absorb that shard, right? The one that fires blades?"
+
+The muscles in her jaw flexed as a little of her own frustration broke through the Still Waters. "I told you I have to kill something first. The skill's powered off the power of blood and pain."
+
+Both men turned to stare at her for a shocked second.
+
+Zach was the first to recover. "Well, we got plenty of incoming targets to choose from." He had his quarterstaff in one hand and an orange flame in the other. "Guess the first shot goes to me.” With that, he threw his ball of flame in the air and swung at it like it was a baseball.
+
+It connected, and the flame arced out to hit one of the oncoming mosquitoes. Fire traveled up the wings like they were made of paper, and a bug fell from the sky to land with a splat on the tiny-treed shoreline.
+
+Zach smacked more fireballs in rapid succession and managed the same trick two more times. Then the flock was on them.
+
+The noise of high-pitched wings was so intense that Thomas could barely think. All he could do was step back so they didn't get in one another's way and swing his poisoned mace.
+
+The mosquitoes swept down low, presumably to stab them and drink their blood using their sharp proboscis. That put them right in range. Thomas struck the first one on the side and felt a crunch like dried leaves.
+
+These monsters might be large, but they were built light and delicate, and by God were they ugly. Thomas never wanted to see the moving parts of a bug, large and up close, again.
+
+Combat Foresight warned him as one skeeter thrust down with a needle mouth. Thomas stepped out of the way and smacked it in one of the oily-looking compound eyes. It fell, twitching.
+
+Then thin yet strong legs fell on him from above to cage him. Because it wasn't technically an attack, he'd had no warning. Thomas tried to move out from under it, but he wasn't fast enough. These were level three bugs and that much quicker than him. He was entangled.
+
+A ghostly image of a proboscis stabbed down. He managed to get his mace in the way to stop it, but that was more luck than anything.
+
+Thomas shouted for help, but he could barely hear himself over the high-pitched whine. It was like dozens of different noise machines were blasting all around him.
+
+But Jo had been watching out. Suddenly, a blade came flying from her direction and slammed into the body of the mosquito. It fell, and Thomas finished it off with a smack from his mace.
+
+He looked around and saw they might be in trouble. More mosquitoes had come to join the fray, and the air seemed to shake from the sounds of high-pitched wings. They would have descended on them all at once if not for the fact they'd get in each others way. Also, even giant mosquitos weren't exactly pack animals that hunted in a group.
+
+Still, they were on the verge of being overwhelmed. They might have to retreat back to the safe room and regroup.
+
+Then Thomas heard something. It might have been a shout of warning, muffled by the high-pitched wings. He turned to see a flash of fire. Zach was standing over a downed mosquito and had fully set it ablaze in a demented pyre. Then, with an effort like he was heaving a great weight, the fire blazed upward high into the sky, then out into a ring that caught mosquitoes in the air.
+
+Their wings burned, and they dropped, most dying from the impact.
+
+Jo quickly ran after the ones still twitching to finish them off. They still had needle mouths, after all, and could be dangerous if they got their freaky long legs under them.
+
+Thomas joined her, knowing that every one he killed increased the chance at a loot drop.
+
+Looking winded, Zach stayed back, though he kept lobbing fire baseballs at the few mosquitoes left in the sky.
+
+Finally, the last mosquito dropped, and the rest were dead on the ground in a combination of smashed, skewered, or burned. The terrible high-pitched drone had stopped.
+
+"Jo," Thomas called, and when she looked, he gestured her over. She was halfway across the field of miniature trees, but even from that distance, he saw blood running down her sword arm.
+
+While she jogged over, Thomas turned and quickly dug in his backpack. He tossed a level two white mana crystal at Zach. "Here. Don't want you going volcano demon on us."
+
+The other man was panting like he was stoking a fire inside, and his skin was flushed way too red. Zach didn't argue, only caught the crystal and gave a jaunty salute with it.
+
+Turning, Thomas grabbed a healing potion from his backpack just as Jo arrived.
+
+"What happened to your arm?" he asked, leaning to examine it.
+
+It was a shallow cut, obviously, as she hadn't been exsanguinated, but blood still dripped down her upper arm and off her elbow.
+
+"Mosquito just nicked me," she reported without any expression. "It's not bad."
+
+"Uh-huh." He shoved a potion at her. "Humor me."
+
+She uncorked it with her teeth and drank it. Even though she was holding a sword, she still grimaced at the taste. However, the cut on her arm knit before Thomas's eyes. A little puff of weak flesh-colored mana leaked out just before it fully closed. Jo couldn't keep Healing mana she absorbed.
+
+Jo re-sheathed her sword and looked around the miniature tree field, which was now littered with mosquito bodies. "Sorry about that back there. I thought this would be more like the grizzly or unicorn dungeon where I could work up to throwing blades."
+
+"You said the blade throwing skill runs on blood and pain?" Zach asked as he walked up. He was no longer breathing hard, and the hectic red flush had faded. "That's not your fault, but wow, that is so dark."
+
+"It fits what we knew of Grimm." Thomas hoped the skill shard he got from the guy didn't require the same thing. He looked at Jo. "Next time, just slice my arm or something to get started."
+
+Jo took a shocked step back, and Zach visibly flinched.
+
+"I'll clot up in seconds," Thomas said, exasperated. "I'm not saying to cut off my arm."
+
+Jo shook her head. "I don’t know, that feels really wrong."
+
+"You don't hurt your own team's healer, dude." Zach turned to Jo. "If it comes to that again, hit me. But, you know, I'd appreciate a heads up first."
+
+She nodded. "Thanks. I should be good for the rest of this dive, though."
+
+Oh, so Zach was good enough to cut but not him?
+
+Thomas huffed, then realized what he was getting annoyed about. It wasn't like he wanted to be sliced open at the start of a battle.
+
+Anyway, there were more important things to do. "Let's loot those mosquitoes." He pulled out a pack of tiny flip notebooks he'd gotten at the Dollar Tree, along with some pens. "Write down the type of crystal and grade you get. We'll do an even split between the three of us at the end. Sound good?"
+
+Everyone perked up, and they started searching the corpses. It was like a grown-up Easter egg hunt.
+
+This was just the very first stage of the dungeon; they hadn't even hit the proper swamp yet. That would signal the next dungeon challenge, so they had to clean up here first.
+
+Best yet, many of the mosquitoes had been hit by a combo of fire, blade, or poisoned mace, so there was no direct link between the ones that dropped multiple or high-value crystals versus the ones that dropped low crystals. Or nothing at all.
+
+Thomas tried to aim first for the ones he knew he had personally finished off. It was a great haul. The mosquitoes dropped level 3 crystals, of course.
+
+Thomas picked up a C-grade that seemed to be made of a tablespoon of water itself. The same mosquito also dropped an earth crystal that felt like wet mud even if it left nothing on his fingers. Then he spotted the distinct fleshy red-gold of a healing crystal.
+
+Thomas snatched it up, and the power of it sang right to his core. He didn't think, he just absorbed it. Wow. It was like having a refreshing cool glass of water on a scorching day, except ten times better. It was just... primally satisfying.
+
+Thomas took a deep breath and felt like he was somehow absorbing more oxygen from the air.
+
+He scrupulously wrote down the crystal on his log and kept searching. The next mosquito, which was basically a burned-out husk, had no drops whatsoever.
+
+He searched on, adding more and more level threes to his pack and writing each one down. Primarily, he picked up Water and Earth with a sprinkling of more Healing crystals. Either the dungeon had been altered to drop them, or perhaps it did it to counterbalance how the mosquitoes could spread illness.
+
+Occasionally—especially when the monster looked smashed by a mace—he came away with rare crystals. The first rare he found was a vivid green that had to be level 3 Nature mana.
+
+I could always go for a druid build, he thought. I bet Jo wouldn't have any problem cutting me then.
+
+Not that he wanted her to. That was not the kind of thing that excited him, but it was the principle, dammit! He was a fully functioning member of the team who could take his hits too. He didn't need to be protected.
+
+Sourly, he dropped the Nature mana into his bag.
+
+The next green was more toxic-shaded, which the system labeled: Poison Mana.
+
+It made him feel edgy just to hold it. When he dropped it in his bag, he quickly wiped the tips of his fingers clean on his pants.
+
+Then he came to a mosquito which was still twitching with a little life. Thomas brought his mace down on its head to put it out of its misery, and the sharp, needle-like proboscis dropped from its face.
+
+No. It was a sword.

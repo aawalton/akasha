@@ -1,0 +1,235 @@
+---
+id: 904dcc79-a171-5d99-a37e-817d9669d578
+page-type-slug: story-chapter-royal-road
+title: "Chapter 38: Followed"
+slug: 0038-chapter-38-followed
+partOf: the-gift-of-loot
+position: 38
+ownLength: 3387
+unit: words
+publishedAt: 2026-06-05
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3497576/chapter-38-followed"
+royalRoadId: "3497576"
+---
+
+Note: Because I know I'll get questions, NO I don't have any plans for romance in this book.
+
+They got started on their trip to Reno the next day around noon, which was a little later than Thomas would have liked.
+
+That had been at Zach's request. He suspected the man had taken the first part of the day to track down and send a message of his own to the dude-bro group.
+
+Thomas had spent the beginning of the day productively as well, running the Chipmunk Forest Fire dungeon twice over.
+
+While it had been a certified chipmunk slaughter, he'd been forced to bypass the juvenile Phoenix Boss both times. Well, the first time he'd gotten the bright idea to throw his poisoned mace at it. (Hey, it worked for the grizzlies.) But the Phoenix chick was a lot more mobile than the big hulking bears, and possibly smarter too, because it had simply hopped out of the way. Then Thomas had a devil of a time trying to get the weapon back without getting burned. He didn't even try the second time.
+
+But he had come out with a basket full of level two fire mana crystals, and another firestone.
+
+He really hoped that the dungeon remained undiscovered for some time. It was a great source of high quality reds. His problem was now becoming how to offload all these crystals. Most of them were above C grade with occasional A's thrown into the mix. He couldn't just dump those into the low-grade crystal ATMs that were starting to pop up all around, and he had to use those sparingly as well.
+
+"I'm DJ Khaled, Suffering from Success," he muttered.
+
+"Huh?" Zach asked. They'd been driving for a good half hour, and he had been dozing in the passenger seat.
+
+"Nothing." Thomas returned his attention to the road. He had driven so many times to Reno in his life that he barely needed to concentrate. "So, tell me more about how old families tend to guard these feeder dungeons?"
+
+Zach stretched before answering. He and Thomas had met up around noon as promised, and the man hadn't looked like he'd gotten into a physical fight, so Thomas figured that his "talk" with the Dude-Bro Group hadn't been a bloody one.
+
+"That's like asking a how-long-is-a-piece-of-string question, dude. It depends on the dungeon. If the family itself wants to dive it, then everybody's on alert when the boss is coming up. When I swung through the other day, there were minimal guards. The family has to be somewhere else."
+
+"Do you think they'll notice that you broke into the gatehouse?"
+
+"Nah, it wasn't even locked. The guides were just sitting in a cabinet right behind the coffee machine. I don't think they're gonna notice a thing."
+
+Thomas nodded and thought.
+
+"What's on your mind, mana man?" Zach asked, after a while.
+
+"I'm not as worried about diving the dungeon as I am sneaking in," Thomas admitted. "I think we're going to need more help. That lady I told you about in the Grizzly Dungeon? Her Gift allows her to hide herself and at least one other person. Maybe more, I'm not sure. I just don't want to get discovered going in, and then when we get out, we'll have to fight."
+
+Zach didn't answer right away. He was thinking hard about it too.
+
+"If you're found out and you're with me," he said at last, very reluctantly, in the way he always was when he alluded to the Old Families, "they won't kill us, but yeah, they'll take the loot and gear. And maybe rough us up a bit before they kick us out. I figured if we find anything good in the dungeon, we absorb it right away. No one can take that." He flashed a half smile. "But that's only if we get caught."
+
+"Still," Thomas said, "getting caught doesn't sound like a good time. And if this dungeon is good, I wanna sneak in. I wanna run it as much as we can get away with."
+
+Zach started in surprise, as if it had never occurred to him to re-run the dungeon. Thomas half suspected he'd suggested the place as a FU to the Old Families. Then he nodded, looking more thoughtful. "If it's good enough, it could be our feeder dungeon."
+
+"Only we're not caught," Thomas reminded him, "And I'd like to treat it as a test run for Jo, too."
+
+"What's her level?"
+
+"One for now, but I gave her enough crystals to get her most of the way to level two, if not all the way there."
+
+Zach slanted a sideways look at him. "She cute?"
+
+"She could be your mother," Thomas answered with a smirk. "But not mine."
+
+Zach chuckled appreciatively at that but then grew more serious. "You trust her enough with your Gift?"
+
+That was the problem, and the wall that Thomas kept running up against, even in his mind.
+
+"Maybe. But I don't know her well enough yet. She thinks I have the Gift of Senses."
+
+Zach hummed under his breath. "She could just help us get to the entrance and then out again when we're done, and we'll make it worth her while. Like, pay her off with crystals."
+
+"I really think she'll be useful inside too. If she absorbs the second skill shard, she'll have two sword powers, and we're going to be facing level 3 monsters." He took a breath and then let it out, not liking what he had to say next. It made him feel oily.
+
+At the same time, Zach's warning about what would happen if the wrong people knew his Gift echoed in his mind. He'd be facing a horrific, probably short and painful future. He had to be careful.
+
+"She's new to diving," he said, feeling his way through. "Even newer than I am. She may not know what a normal loot drop rate is. And we'll be level twos running a level three. It's conceivable that we might get better drops just because of the increased risk."
+
+"I'm picking up what you're putting down," Zach said. He didn't look exactly happy, but he wasn't rejecting it out of hand, either. "And hey, it's not even a lie, but the rewards won't be as extreme as what your Gift can do." He hummed again. "I could also float the idea that the Ross-Astor family might have modified the dungeon, which is also true. But bro, none of that will hold up if she does more dungeons with you."
+
+"By then, I should know if she's worth trusting or not," Thomas said.
+
+"Welp, I'll never say no to more firepower. And if you think it's worth it... well, your neck's the one on the line." Zach glanced at him. "I'm gonna tell her I got a mana cost reduction to work with fire, plus a fire manipulation skill. That's good enough to be worth having, but not so great that someone will want to snatch me off the street if it gets out."
+
+Did he trust Jo enough to tell her the full truth?
+
+No, not right now. But he could. A dungeon run was a good way to find out what someone was really made of. It had taken two dungeons for him to trust Zach.
+
+"I'll text her," Thomas said. "Next red light I can get to. I'll see what she has to say."
+
+He did, and by the time they reached the Reno auction site, his message had been left on read for over half an hour.
+
+Zach chuckled and clapped him on the shoulder. "It's okay, dude. Plenty of other fish in the sea."
+
+"I'm not trying to date her," he grumbled. "I'm trying to recruit her."
+
+Zach just grinned his reply but then grew slightly more serious as they parked and started separating the loot.
+
+Out in the near distance, Thomas heard the roar of protesters. They'd been fenced off from the convention center, but their numbers had visibly grown. Now the sidewalk was packed and it looked like someone had set up an ad-hoc festival behind it all to cater to the protestors. It made him feel both uneasy and a little sad.
+
+He and Zach entered the auction a few minutes apart, both pretending to be solo divers. It wouldn't fool anybody who was looking closely or could compare video records from last week and see that they had acted as a team before, but Thomas was hoping that it would help them fly under the radar to casual security.
+
+Thomas got in line at the admissions desk and received his blue band showing that he was level 2. This time, it only earned him a longer look rather than anyone acting like he was anything special. It seemed there were more and more 2s filtering in.
+
+That made sense, because really it wasn't that hard to reach the next level.
+
+On impulse, Thomas asked, "What does it take to open up a vendor stall here?"
+
+"Oh, spaces are still open, but there is a fee." The admissions person gave him a piece of paper. It outlined the size of the booth and costs.
+
+It would be pretty expensive at a thousand dollars or the mana crystal equivalent for a week. But the prices were much more reasonable if he only wanted to start up a single table for a weekend or a couple of days.
+
+And most importantly, there didn't seem to be any requirement to pay the venue a part of what he sold, just a vague disclaimer that he shouldn't sell illegal items.
+
+He'd have to seriously think about it or just save himself the commute and open up something at the Crystal Flea Market. That would be a good way to offload some of his loot without anyone looking twice at him.
+
+Thanking the attendant, Thomas folded up the paper and put it in his back pocket. Zach had been ahead of him in line and had already entered the Convention Center. Thomas spied him talking to someone with a booth that had a banner over it with small printed flame emojis.
+
+Since they were acting like they weren't part of a team, Thomas made his way directly to the auction house appraisals.
+
+First things first, he wanted to find out how much the skill shard of Ember of Life had sold for. It was a good thing that he could lean against the counter, because he damn near fell on his ass when it came back that the minor support shard had sold for just over twenty thousand dollars.
+
+I could buy a new car, he thought, then amended, I could buy a used car. Something without bullet holes.
+
+He almost wanted to find whoever had bought the skill shard and kiss them on the lips.
+
+Then he thought about the local military units who were well-known buyers of shards—specifically, Applebaum and Martinez—and revised his inner thanks to a hearty handshake.
+
+In any case, the good news got gooder as he took out the little bear totem for appraisal.
+
+"This is a support area-of-effect totem," the appraiser said after scanning the little statue with both a knock-off military scanner and, supposedly, his Gift. He looked up at Thomas and frowned. "Do you understand what that means? I don't mean to offend, but these are new terms to most."
+
+"It's a whole new world and economy," Thomas said. "Pretend that I don't and explain to me, please."
+
+The man smiled slightly, and Thomas had the feeling that he had to deal with a lot of assholes who came in with big items and bigger egos.
+
+"Basically, once it's activated, in this case using an earth mana crystal—" the appraiser flipped the totem upside down and pointed to a slot, a hole that Thomas had completely missed, "—this totem will cast an area-of-effect spell, I'd say around twenty feet or so in diameter. The effect is to ward off enemies."
+
+That had some immediate possibilities. "Does it work right away?"
+
+The appraiser squinted at the totem and thought. "Yes," he said, "but I'd imagine a particularly aggressive monster wouldn't instantly turn tail and flee. It might take some persuading. I'd personally market this as a safe way to get some rest in a dungeon. Load it up with a higher-grade crystal, plunk it down, and you can be assured that your camp won't be attacked until the crystal runs out."
+
+"And how long would that be?"
+
+"That I can't say. It would take some testing. But its value is enough to confidently offer a placement for the next auction in a few days, if you're interested."
+
+Thomas had been looking to offload the weird little totem, but this... this could be useful.
+
+"I'll keep that in mind," he said, and then pulled out the nature mana crystal. "And this?"
+
+"Nature mana is one of the more common types we've seen around here. They're expected to be a common drop after dungeons reach level 5. You'd be better off selling it on the private market."
+
+Thomas nodded and was given a slip for the amount the skill shard sold for.
+
+From there, he took it to a line of auction cashiers who were all sitting behind bulletproof glass walls. It looked a little like one of those payday loan stores.
+
+In his excitement, he hadn't counted on the auction fees, and so his payout came out to a little under twenty-thousand. Then he'd have to split it with Zach. Still, it was the most money he'd ever held in his life, and he felt... very weird sticking it in his backpack.
+
+All the more reason to possibly open his own vending booth.
+
+But now he was flush with cash, and it was time to go shopping.
+
+He visited an armory booth first. It was popular, and there was even a guy doing some old-timey blacksmithing at a furnace. Weirdly, Thomas didn't feel a lick of heat from all the fire and glowing hot metal. But the smell was pretty terrible: kind of sulfurous with an overlay of burnt hair. He never remembered hearing about that in medieval times.
+
+There were some pretty badass metal pieces available, though. Thomas was an average-built guy, but while wearing full plate armor, he would be a living tank.
+
+He would probably move like a tank, too, and get winded carrying around that much extra weight. And then there was the little fact that he was about to enter a swamp dungeon. One wrong move, and he and his heavy armor would sink to the bottom, trapped in his own coffin.
+
+That lovely thought turned him off the idea of full plate entirely, and he paused long enough to ask if they did repairs on dungeon-dropped items. They didn't, so he moved on.
+
+The next booth was more of a catch-all adventurer gear place and was much more up his alley.
+
+Thomas bought freeze-dried meals that only required warm water; lifestraws that apparently disinfected water if you sucked it up through the top; flares, because he never wanted to be stuck in a pitch-black dungeon again even with his health sight (and one never knew when they would run into a T-Rex that only saw movement); a pamphlet on edible mushrooms that was hopefully not AI-generated; a more comprehensive first aid kit than the one he currently had; and a map of the local Reno dungeons.
+
+The map had cost the most, but everything in total came out to less than $200. He had just finished paying when Zach came casually up to join him.
+
+"Check these out," Zach muttered, while pretending to look at some waterproof jackets.
+
+From his hand, he palmed what looked like... "Knockoff AirPod cases?" Thomas guessed.
+
+"Nah. Low-level personal protective shields. Only good for bugs, but I thought they might come in handy."
+
+Thinking of what he'd read about their next dungeon, Thomas nodded.
+
+"The fire cloak sold to someone else a few days ago. Oh, right," Zach said, "and there are two guys following me."
+
+Thomas immediately stiffened. "What?" he hissed, then started to turn to look but caught himself.
+
+"Yeah, both wearing cardigans. We're in the desert, and it's like eighty degrees outside, so they kinda stand out. They've been tailing me since I came in but are pretending they aren't." He paused. "Anyone following you?"
+
+"No. Why would anyone—?" Thomas started to ask, then paused and had to admit, "I haven't been looking. Give me a minute."
+
+He activated his health sight and became aware of people all around him. Nobody looked particularly out of the ordinary, as they all just looked like flickers of life, but this way he could notice patterns.
+
+"Let's split up for a few minutes. I'll take a look over at that crystal booth, and you ask that guide shop if there's any level two Adaptation mana dungeons around. We'll meet up next to... I don't know, the hot dog cart or something, in fifteen minutes."
+
+"Heard," Zach said, then shifted away as if his attention had been caught by a leather apron for sale on a mannequin. Apparently, it protected against burns of all types.
+
+Thomas did not have it in him to be so laid back. It felt like his hair was standing on end, and every movement felt stiff and unnatural as he walked to the mana crystal booth. Most of his attention was on his health sight, but he did notice that this booth was pretty interesting.
+
+It had twenty or so different types of esoteric mana crystals arranged in separate glass boxes. Those boxes were then chained to the table to avoid five-finger discounts. But people could pass their hand over the mana types and see if they resonated or not.
+
+There was nothing related to healing, but out of sheer curiosity, Thomas started to pass his hand over a dark purple crystal labeled as Void mana.
+
+A wave of nausea stopped him before his hand got within a couple of inches of the box, and he hurriedly yanked his hand back.
+
+"Anything interesting you're looking for, sir?" asked a girl who looked like she could be in her first year of college. Given her strawberry-blonde hair she shared with the other people chatting up onlookers, she was clearly part of the family who owned this booth.
+
+"Uh... Adaptation mana? Level two or three?" he replied, though his attention was drawn to his health sight, and he did not like what he was seeing.
+
+The girl shook her head. "Nothing local around here that I'm aware of, but I do have plenty of level ones."
+
+"No thanks. What about this one over here?"
+
+Thomas was being watched. He knew it and could "see" it now in his health sight, but he doggedly pointed to a sky-blue mana crystal he didn't actually give a shit about, on the other end of the long table.
+
+His slight hope that somebody was just following Zach for Old Family bullshit reasons was quashed.
+
+When he moved, they moved closer.
+
+"Oh, that's one of my favorites," the girl enthused. "It's Sky mana, which is an aspect of air..." She went on, and Thomas tried to pay attention. He really did. Normally he would be super interested. Now her description went in one ear and out the other.
+
+"Thanks, I'll think about it," he said with a cheesy smile that he did not remotely feel, and then stiffly turned away and tried to act like he wasn't freaking the fuck out as he walked to the hot dog cart, which was set up in a food court sort of area.
+
+Zach soon joined him and even bought himself a hot dog. Thomas's stomach was roiling too much to think about food.
+
+"So?" Zach asked, not so accidentally joining Thomas where he was standing next to the condiment table.
+
+"There's seven," Thomas said tightly. "Five following you and two following me."
+
+Zach's only reaction was a slight tightening of his fingers, which resulted in a burst of mustard over the bun.
+
+"Shit," he said, as if commenting on the weather. "That's a full hit squad." Then he took a bite of his hot dog.

@@ -1,0 +1,207 @@
+---
+id: 340383bf-c1b6-50bb-8fc3-ffd28901787e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28: Unloading The Goods"
+slug: 0028-chapter-28-unloading-the-goods
+partOf: the-gift-of-loot
+position: 28
+ownLength: 2640
+unit: words
+publishedAt: 2026-05-18
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3415949/chapter-28-unloading-the-goods"
+royalRoadId: "3415949"
+---
+
+Thomas drove down the mountain, fiddling with the radio in search of news. It was a lost cause. All the local stations had either been absorbed into national feeds years ago, or were just light-hearted, pre-recorded DJ ramblings. There was no mention whatsoever that a major city was aflame.
+
+Cell phone internet didn't work worth a crap out in the trees. He could barely squeak out a text.
+
+Placerville was the next town on the road. He pulled into the first gas station and went to the attached convenience store.
+
+Clearly, the fire was the talk of the town, and the clerk was the type of person to give everybody his opinion.
+
+"It's all those felons," Thomas heard him say to a customer as he walked in. "They've just broken out, what, yesterday? Now they're setting themselves up right and tight in the city. Probably want to build their own little criminal empire too. And our lazy government is going to let them!"
+
+Thomas's eyebrows knit in confusion as he listened while scanning the end cap for his favorite flavor of cheddar and sour cream chips. He might as well get a snack on the go while the world was falling apart.
+
+Luckily, a woman in the checkout line had the same question that was on his mind.
+
+"What do you mean, felons?"
+
+"He's talking about the Folsom breakout yesterday, Marie," said another guy. Then, to the clerk, "Right?"
+
+The clerk nodded darkly. "It's no coincidence there's a mass escape of the most dangerous men in the country, and then the next city over goes up in chaos. I've never seen a worse day in our country." He shook his head sadly.
+
+The guy looked to be at least 50 years old. Thomas was certain he'd seen worse days for the nation.
+
+But he wasn't here to get in a pissing match with the local yokels. Paying for his chips and an energy drink, he left. Then he spent some time in his car on his phone. The signal still wasn't great, but he could at least get video clips now that he was on the edge of town.
+
+There had indeed been a breakout from nearby Folsom Prison, but it had involved about 20 inmates, not the entire place as the guy had implied.
+
+Thomas was able to get to Sacramento's local subreddit and view a few posts before they were mysteriously taken down. News was being suppressed, and when he saw the videos he understood why.
+
+All of downtown was infested with little beings that looked like they were made of pure electricity. They were kind of cute; baby-shaped, with overly large heads and big blue eyes. They also zipped along the power lines and happened to set fire to anything they touched.
+
+To his eyes, they looked like dungeon monsters. Probably high-level ones. Somehow, a dungeon had overflowed within the city.
+
+What kind of loot would an electric monster drop? And could he help?
+
+Immediately, Thomas shook his head. No, he couldn't. He had no skill suited to combating electricity, and his grasp on healing was shaky at best. Derek had gotten really lucky with his hand. His concept of healing was to throw power at it and see what happened.
+
+Mostly, the city needed fighters. He wasn't one.
+
+But guilt rose up anyway. Maybe there was a way he could help that he just hadn't thought of yet. Didn't he owe it to those people suffering down there to try?
+
+"No," he told himself firmly, and wondered if he was going insane for talking to himself. "I owe it to my family to protect them. I can't run down there spamming healing and making a scene for myself. People need me back home."
+
+He closed his eyes and willed himself to believe it. Slowly but surely, the need to go help faded. He had to talk to Zach about this healing mana. He wasn't sure if it was his own nature or if he was being influenced.
+
+One thing was for sure: his plans for the day were screwed. Unless...
+
+On a whim, he searched for pawn shops and found a couple scattered throughout town. He set his GPS for the one on Main Street. They were over fifty miles away from the dungeon break, and he knew if there was money to be made then stores would be open.
+
+When he got to the address, he was gratified to see a sandwich board outside the shop proclaiming: WE TRADE MANA CRYSTALS!
+
+In fact, many of the small mom-and-pop shops had signage stating that they accepted cash, credit, or crystals. Slowly but surely, the conversion was happening.
+
+Thomas went into the shop and found the owner cleaning rings with a sharp-smelling fluid.
+
+"Can I help you?" the owner asked, sounding professionally disinterested.
+
+"Uh, yeah, I was hoping to sell some crystals." He pulled out a pre-prepared Ziploc bag from his pack. It contained three C-grade reds, one blue, and one brown. All level one, of course. Nothing special, and all just meant to test the waters.
+
+"Hmm, C-grade," said the clerk at once, showing he was fair dealing. He pulled a printed sheet from beneath his counter and showed it to Thomas. "These are our prices, and they're in line with what you'll get elsewhere in town."
+
+He planned to find out about that personally, but at first glance, the prices were consistent with the Crystal Flea Market, if not a touch higher.
+
+Level 1 (Red, Brown, White, Blue)
+
+F grade — $5
+
+E grade — $15
+
+D grade — $30
+
+C grade — $50
+
+B grade — $100
+
+A grade — $200
+
+Now for the real test. Thomas took out a second Ziploc containing a single adaptation crystal, level one, of course. It had come from the mimic dungeon. "What about this?"
+
+The man took it and glanced it over, his grey eyebrows raising. "Adaptation mana, B-grade. Nice find. Did this come from the Gold Rush Dungeon?"
+
+"No, one out of Nevada."
+
+"I'd love to see that drop table," he muttered, but did not press for more information. "Five hundred flat for a rare crystal."
+
+Five hundred? Zach had used about a dozen of these. Thomas had absorbed a few too. He thought seriously of revisiting the mimic dungeon.
+
+The purveyor mistook his shocked silence for unhappiness.
+
+"Of course, some of my buyers want the equivalent in crystals. I don't have the most generous stock right now, but I'm sure we can come to an agreement."
+
+Thomas did not need more crystals. Just the opposite, in fact. Cash was going to be phased out at some point, but right now he still needed to pay his rent.
+
+"I'll take the cash. Also, what do you know about dungeon items?"
+
+The man smiled, and Thomas got the impression he was starting to enjoy their interaction. "I have knowledge. Let's see what you have, then."
+
+He had a lot of items and wasn't about to paint a target on his back by unloading them all. So instead, he simply produced the mimic eye.
+
+To his surprise, the purveyor reached under his counter again and brought out a truly enormous book. It was dark, leather-bound, and had to be at least eight inches thick, with a whole bunch of bookmarks sticking out of it. Glancing at the mimic eye, he opened it to one of the bookmarked sections and then started flipping pages.
+
+"Ah, a mimic eye," he said. "Well, that would explain where you found the Adaptation crystal. Yes, these are invaluable alchemical ingredients. I would rate this as C-grade — if you had a specific buyer, you might be able to get B-grade pricing for it."
+
+"So," Thomas glanced at the sheet, "a hundred bucks?"
+
+He snorted. "That is for the crystals. Items are another kettle of fish."
+
+He pulled out another sheet.
+
+ALCHEMICAL ITEMS: Level 1
+
+F grade — $5
+
+E grade — $50
+
+D grade — $100
+
+C grade — $250
+
+B grade — $500
+
+A grade — $1,000+
+
+Thomas was a little taken aback by the prices. Then another thought hit him. "How much are mantis eyes?"
+
+"Intact mantis eyes?" He stroked his chin but didn't need to look at the book. "They're common around these parts, so you'd probably get E-grade pricing for them."
+
+Around $50 apiece. Well, those healing crystals had been worth more than $50 to him, so he didn't feel ripped off.
+
+Thomas changed tactics. He had been planning to bring out the mace he had gotten from Tad, but this guy had just whipped out an ancient tome. He bet he had some connections with Old Families, and Thomas did not want to advertise the fact that he'd just bested a kid from an important family.
+
+So instead, he pulled out his Notice-Me-Not cloak. "And this?"
+
+The man gave a tiny start of surprise when his System identified the cloak. "You don't have to tell me, but I assume this came from the same dungeon? I recognize a theme." He lifted the cloak and ran the fabric between his fingers as if testing something. "I don't mind saying that this is quite the find. I'd rate this as A-grade, though I would recommend that you get it appraised by a larger institution. It would be a shame to sell this beauty for only A-grade pricing."
+
+Thomas nodded and returned the cloak to his bag. This might be a Reno auction item. He'd have to go back there within the next few days anyway to collect the proceeds from the skill shard sale.
+
+He spent a few minutes looking over the man's wares, but all were mundane. He got the feeling the clerk resold any magical item quickly. Eventually, Thomas would like to cut out the middleman.
+
+One step at a time, he told himself.
+
+He left soon afterward, cash in hand, then set his GPS for the next pawn shop in town.
+
+Thomas ended up going to three more pawn shops that day. While he was able to sell some of his crystals and get the rest of his items appraised, he found himself most impressed with the first shop. One man had even tried to underquote him on the crystals. Thomas had just given him a look of scorn, silently packed up, and walked away.
+
+His fourth shop rounded out the day nicely. The mimic skin was another alchemical ingredient, listed at C-grade, which he sold outright. The butcher knife was… just a butcher knife. Not even magical, as far as the woman behind the counter could tell, and she sent him a puzzled look, as if he were trying to trick her.
+
+The pocket watch was interesting. Apparently, it kept time with the outside world, which could be important. Sometimes dungeons could be linked or unlinked with time, running faster or slower than the outside world.
+
+But aside from the Notice-Me-Not cloak, the real prize had been the mace. It was a B-Grade weapon with enhancements on the spikes meant to cause "spiritual damage", though even that shop owner wasn't exactly sure what it meant. She had been operating off the intuition of her Gift, and explained that right now it only returned basic information.
+
+Thomas declined to sell the weapon, and was extremely careful returning it to his backpack.
+
+One pawn shop owner had given him a tip for any D and F-grade crystals he had. Apparently, there were ATM drop boxes popping up in grocery stores and Walmarts, similar to those phone recycling machines. It was a spot where you dropped off a crystal, and the machine loaded cash onto your debit card or bank account. It offered about two-thirds the prices compared to the stores, but the real draw was anonymity.
+
+Thomas tested it out first by purchasing a prepaid Visa card, then going to the machine out front and dropping in five D-grade brown crystals. He'd mostly gotten the D and F-grades from his time with Ashton. After verifying the strength of the crystals, the machine deposited the money onto the card.
+
+Perfect. He'd run through a few cards to ensure no one deposit was suspiciously large, and he might rope Ashton into it as well. It would give the kid something to do and be a way for him to see the money he was making from slow but steady dungeon runs.
+
+Though he still had a lot of crystals to sell, overall, it had been a successful day. Before loading up in his car again, he checked the news and saw that Sacramento was rallying. It seemed the National Guard had been pulled from dungeon duty to assist, as well as the actual Army. Downtown had been cordoned off, and fighters were going in to put down the "electric wisps," as they had been dubbed.
+
+Once again, Thomas firmly quashed his sense of guilt. I couldn't have helped. I can’t be seen healing, and I can’t be seeing pulling massive amounts of loot from dungeon monsters.
+
+There was a blurb, though, stating that since many of the National Guard had been pulled from all the local counties, there would be fewer of them to watch the dungeons. Maybe he could get in a few extra runs at home, unnoticed.
+
+The sun would be setting soon, so he got in his car and prepared himself for the long, winding drive back up the mountain.
+
+He was about a quarter of the way there, driving through dense forest, thinking about which places he would stop at in Reno to offload more crystals, and more importantly, which dungeons he should dive into next. He wanted to revisit the Chipmunk Forest Fire dungeon again. Now that he was flush with cash, he would focus on selling some of his crystals to buy level twos. He wanted to start working his way up to level three, and he had the funny feeling that couldn't be accomplished by filling up on level one crystals. It was a little like trying to get fit while eating junk food.
+
+He had just rounded a corner when he saw an accident up ahead.
+
+Immediately, Thomas slowed, glancing in his rearview mirror, but as usual, traffic was light on the road these days, which made the accident so odd.
+
+It looked like a three-car accident... No, he realized as he drew closer. Two cars had parked themselves across the road, blocking both lanes, and they had already stopped one car from passing.
+
+Several men with masks on their faces stood on either side of the stopped car, shouting angrily at the driver. One of them openly brandished a handgun.
+
+It wasn't an accident. This was a robbery.
+
+Thomas immediately stopped about fifty feet away, but then one of the robbers looked up at him and signaled to his friends.
+
+"Stop!" He started jogging toward Thomas.
+
+This was a windy two-lane road with no shoulder whatsoever. It would take a three-point turn to go in the other direction, and those guys were holding guns. They wouldn't politely wait and let him conduct a safe turn-around.
+
+"Don't think about it, asshole!” one would-be robber yelled as he ran up, “Unload your money, cell phone, wallet, and jewelry!"
+
+Despite everything, Thomas felt a spark of indignation. The robber was calling him the asshole?
+
+Next came burst of panic because he had at least fifteen hundred dollars in cash on him, not to mention all the rest of the crystals and gear. His extremely valuable backpack was sitting right next to him in the passenger seat. It held everything he had worked so hard for since he'd entered the first Demon Chicken dungeon. They wanted to take it.
+
+Thomas threw his car in reverse and hit the gas.
+
+That's when the bullets started flying.

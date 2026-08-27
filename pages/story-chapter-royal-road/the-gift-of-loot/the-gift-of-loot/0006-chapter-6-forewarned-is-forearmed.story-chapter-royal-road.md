@@ -1,0 +1,189 @@
+---
+id: e50dbeec-d358-54b0-bd7d-99ef2c40b607
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6: Forewarned is Forearmed"
+slug: 0006-chapter-6-forewarned-is-forearmed
+partOf: the-gift-of-loot
+position: 6
+ownLength: 2253
+unit: words
+publishedAt: 2026-04-06
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3239797/chapter-6-forewarned-is-forearmed"
+royalRoadId: "3239797"
+---
+
+Thomas re-entered the Octopus's Garden. Though he was on high alert, he could count on this first part of the path being safe. Level one dungeons didn't have creatures that respawned like in a video game.
+
+The guide told him that the next octopus would be pretending to be bark on a tree down the next pathway. But then again, he had known that the first was supposed to be pretending to be a rock, and that had barely helped him.
+
+Thomas took every step carefully, his head swiveling back and forth, waiting for something, anything, within him to be different.
+
+What was this skill supposed to do? How was he supposed to make it kick in? Would it even kick in?
+
+Maybe he had absorbed something useless for combat, like cleaning or... wait! What if it needed mana?
+
+Stopping in place, Thomas nearly face-palmed. That was probably it. His skill needed mana to work, which meant that it needed a mana crystal... and the majority of his mana crystals were hidden in an old Taco Bell bag in his car.
+
+Hmm. Except for the white air mana crystals the tweakers had given him. Those were low-grade, though. Would they work?
+
+He dug one out and held it, concentrating on the spot on the back of his head where he thought his skill had come to rest.
+
+Nothing happened. After about a minute, Thomas gave up.
+
+It could mean that his skill, whatever it was, wasn't compatible with air mana. Or the tweaker had just given him some really low-grade whites, and it just wasn't enough to activate his skill.
+
+The more he looked at the air crystal, the more he wondered if it was actually F grade. It really felt like it was devoid of power.
+
+With a sigh, he put the mana crystal back in his pack. Well, if he couldn't figure out a way to activate his skill by the time he was ready to leave, then he would bite the bullet and go to a government center to get himself scanned.
+
+He didn't even have to do that right away. He could be patient.
+
+Meanwhile, he was here, so he might as well try to complete more of the dungeon.
+
+Nodding to himself, Thomas took a new grip on his maul and moved forward.
+
+The next section of the garden was... well, it was pretty clear where the octopus was hiding. A single willow tree stood there with colorful seaweed leaves draping down like a curtain. The trunk was an outrageous green-blue.
+
+Thomas stared hard at it, but couldn't see the octopus. There was, however, a suspicious, bumpy knot on the side.
+
+Got you, he thought and carefully stepped forward with his maul held high to swing down.
+
+That was when something weird happened.
+
+He saw movement, like a ghostly afterimage of an octopus peeling itself away from the trunk and beginning to leap at him. But it wasn't at the knot he had been eyeing. It was lower down, toward the middle of the trunk and slightly hidden in the shadows.
+
+Thomas reacted immediately and brought his maul down on the new spot just as the real creature began to move. He struck blade-first as the ghostly afterimage launched itself for his face. The blade struck the real thing.
+
+The ghostly outline disappeared.
+
+Thomas's strike sheared the octopus off the tree and took several tentacles along with it. It struck the ground, and Thomas brought down his maul again. He felt something go unpleasantly squish, and the octopus was dead.
+
+Thomas stepped back, breathing hard.
+
+He looked around, then at his hands that still held the maul, and glanced back at the tree to make sure he wasn't missing something.
+
+Inside, he already knew.
+
+That ghostly afterimage hadn't been an illusion... and he should stop thinking of it as an afterimage. It had predicted the movement the octopus was about to make. What was that? A forewarning?
+
+No, he thought. A skill.Myskill.
+
+He had felt it pool in the back of his head. Wasn't that where the brain processed images?
+
+"I have foresight?" he asked himself out loud. Somewhere in a dungeon like this, where an enemy relied on ambush, that was everything.
+
+A smile started on Thomas's face, and that smile turned into a true grin when he toed the octopus's body to the side and found two more mana crystals as loot. These were a deeper blue than the ones he'd collected from the chicken dungeon: higher quality. C grade? B grade?
+
+When he touched them, they felt vaguely wet, but he didn't sense a huge wave of power, as he would expect from something extremely high-quality like B or A.
+
+C grade, he settled on, and put them in his pack.
+
+Pulling out his phone, he glanced at his guide for the location of the next octopus. It was going to be around the next bend, hiding at the base of a clump of sea fronds. There was a special note in the guide that said it went for the ankles.
+
+Thomas moved forward into the next section. Suddenly, what had been unremarkable sand and stone became a ghostly outline of an octopus lunging at his right boot, its sharp beak wide.
+
+Thomas brought his maul down hard on it just as it started to twitch into motion.
+
+His skill had forewarned him again.
+
+"Nice," Thomas said, and then repeated, "Nice," when he found another C-grade blue mana crystal as loot. "Huh. I guess they're all going to be blues."
+
+It figured that there would be little chance of earth, air, or fire in an undersea-themed dungeon.
+
+Thomas continued on, and now that he had what he was going to call his forewarning skill, things went a lot smoother. The only real tricky part was making sure to bring down his maul accurately. These octopuses were fast and vicious.
+
+The one time that he missed, his forewarning told him exactly where the octopus would land. That gave Thomas time to jerk to the side. The octopus missed him by a bare inch, and Thomas was able to kill it on the second strike.
+
+Eventually, he figured out the trick of spotting the octopuses before his forewarning skill kicked in. He had been making the mistake of looking for discoloration or something that shouldn't be there, but the octopi were masters of camouflage.
+
+There wasn't discoloration, but there was still a vague outline and shape, better seen if he unfocused his eyes a little. They all seemed to hide in the same position, with their heads in the middle and tentacles spread around them in a perfect circle, curled up like springs. When the octopi lunged, they uncurled their tentacles all at once, just like springs, and that shot them toward him at tremendous speed.
+
+After that, the dungeon became easy, and he glanced at the guide less and less often.
+
+That was a mistake.
+
+Just at the halfway point, when he had killed his fifteenth octopus, Thomas entered a new turn in the path. He found the next monster sitting in a clump of flowers that waved in the false sea breeze.
+
+Thomas was just heading for it when suddenly a powerful jet of water shot out from barnacles clinging to a nearby rock. It was almost as bad as getting hit with a fire hose.
+
+Thomas stumbled forward directly toward the waiting octopus. His forewarning unhelpfully showed the octopus uncurling to strike.
+
+Desperate, Thomas swung his maul, trying to keep his feet at the same time, so the swing went wild. He ended up striking the octopus with the side of the blade instead of cleanly downward. It stunned the creature, and half the tentacles flailed wildly, the rings of circular teeth on the underside snapping at him like separate mouths.
+
+The jet of water ended as the barnacle ran out of force.
+
+Thomas was able to straighten fully and bring his maul down again, killing the octopus.
+
+Spluttering, Thomas wiped water from his eyes and then looked reproachfully at the barnacles. A large, nearby stone was encrusted with them, and they had sprouted daisies in a strange mismatch of land and sea. It looked utterly innocent—and had just tried to kill him.
+
+"What was that?" he asked aloud to the dungeon, and maybe a little to himself. "Why didn't I see that coming?"
+
+Of course, there was no answer, and he could only guess.
+
+His forewarning skill wouldn't detect traps, only the movements of enemies.
+
+No. Instead, he had the guide to tell him about traps.
+
+Annoyed, Thomas grabbed his phone and quickly flicked to the guide he'd saved. Of course, there was no signal in a dungeon. He couldn't text or call or even use Bluetooth, apparently. "Gunpowder won't work because it's too high energy, but phone screens will," he muttered to himself, wiping water from the surface. "Yeah, that makes sense."
+
+He was soaked through, and the water was grossly lukewarm, like it had been sitting inside a creature for hours. Luckily, his phone case was water-resistant.
+
+Thomas found the saved guide and paged down, scowling at himself. The guide suggested that the dungeon diver take one step into this area, then quickly step out again to avoid exactly this scenario.
+
+He was on his second dungeon and had allowed himself to become overconfident. That wasn't good. That was how people died.
+
+Thomas closed his eyes, mentally chastising himself. This was a marathon, not a sprint. He had all of the tools he needed, but he couldn't rely on just one.
+
+He made himself reread the next few rooms of the guide before putting his phone away again.
+
+The next monster had another unpleasant surprise for him: it had no loot whatsoever.
+
+Well, that was fine. A few of the octopuses had already given him two blue mana crystals. He was ahead.
+
+Thomas continued on, but this time he did so with a more methodical mindset. After gathering loot, he made himself stop, take a breath, and reread the guide, even if he thought he knew what was coming next. Sometimes he found that he had misremembered a detail.
+
+But he was growing tired. A low-grade headache had started in the back of his head, exactly where the source of his skill's power had pooled. That headache grew stronger every time his skill forewarned him about a new monster.
+
+The next section of the garden had two octopi waiting for him. He took the guide's suggestion and threw a stone to make one come out of hiding and attack him directly. Then he killed it before going after the second.
+
+Mechanically, he collected the blue mana crystals. Then, resting the head of the maul on the ground, he took a moment to breathe and think.
+
+Ten enemies to go before he cleared the dungeon, and he was rapidly growing beat.
+
+I don't think this skill is using mana, he thought, because I don't have any, but it's using something. What? Stamina? Is that a thing?
+
+He didn't know for sure, but he was a lot more tired than he had been in the chicken dungeon. And there had been a lot more running and yelling back there, too.
+
+In fact, except for the first battle and the trap, this octopus dungeon had been downright calm.
+
+I'm tiring, he thought, and I might grow slower... I might grow weaker.
+
+But he was two-thirds of the way through, and his backpack was once again clinking with mana crystals.
+
+Thomas realized that he was growing to really enjoy that sound.
+
+Was he just going to give up now?
+
+No. If he was careful and safe, he could still finish this dungeon. He would just take his time.
+
+Thomas rifled through his backpack and pulled out a canteen of water, taking a couple of long pulls from it. He wished he had his peanut butter and crackers, but they'd been left behind in the first dungeon.
+
+Note to self, he thought, refuel on food between dungeons, even if you're really excited to go to the next one.
+
+He was learning all sorts of things today.
+
+***
+
+Slow is smooth, smooth is fast, became his mantra for the final section of the dungeon. But even moving slowly and taking breaks, there was a slight tremble in his arms as he brought down the maul's blade on the thirtieth and final octopus.
+
+Thomas was puffing as he reached down to dig out the loot from the body. He plucked out three mana crystals. One was larger than the rest by a good ten to fifteen percent and was a deeper blue color.
+
+It felt wet and almost squishy, though it had to be an illusion because in reality he couldn't press into it at all. It was still hard as a rock. Very weird.
+
+Now this is a B grade, he thought with a grin and tucked it into the side pocket of his backpack.
+
+He couldn't really complain since he'd already received a freaking skill shard from his first kill, but everything since then had just been blue mana crystals.
+
+Maybe his luck was about to turn, and that moment couldn't come sooner because he had a roaring headache, and according to the guide, the boss was next up. Unlike the chicken dungeon, in order to receive the final dungeon reward, he either had to kill it or get past it.
+
+And... it was a shark.

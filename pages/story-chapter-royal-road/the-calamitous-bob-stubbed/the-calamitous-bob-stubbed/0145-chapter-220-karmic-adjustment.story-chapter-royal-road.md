@@ -1,0 +1,281 @@
+---
+id: 0aec6337-3204-54cd-afac-edfa17adf56f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 220: Karmic adjustment."
+slug: 0145-chapter-220-karmic-adjustment
+partOf: the-calamitous-bob-stubbed
+position: 145
+ownLength: 4133
+unit: words
+ownProgress: 4133
+publishedAt: 2025-09-12
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2595351/chapter-220-karmic-adjustment"
+royalRoadId: "2595351"
+markedReadAt: "2026-06-29T21:19:35.283Z"
+---
+
+[Aspect of the Guardian]
+
+Viv blocked a hasty claw strike. The massive talons clicked against her aegis with an ear-splitting screech but it was designed to stop Solar. They failed to penetrate. The next tail strike triggered a shockwave that raised the sand in a wide circle without any more success.
+
+The dragon was off her game, for now. Viv could feel her surprise and confusion in the erratic pulse of her mana. It made her aggressive but uncommitted, and that was what Viv wanted for now. Her anchors firmly planted in the fabric of the planet, Viv weathered those first attacks.
+
+Seeing as it wasn’t working, the dragon moved back. The sand and rocks of the valley came to hostile life. The ground rebelled under her feet while the dunes rose like curtains ready to entomb her under meters of grit. A flower of floating debris tightened its grip around her shielded form like the fist of a giant. Loose stones peppered her shield, which slowly sunk under the surface.
+
+“None of that now. Deadland domain.”
+
+Black mana exploded in a circle that swallowed the wagons and the nearby slopes. The light dimmed. Colors bled out of reality while a deep chill made the rare water condense into ephemeral droplets. The dragon’s working died on the spot, sand falling and stones quieting. Whatever was in the air slowly fell back down, suddenly deprived of energy. The sand under Viv writhed in alien tentacles, crawling away from her unmoving body. The dragon’s attack had stopped completely. Surprised, she took another few steps back.
+
+In the distance, the dunes stirred. Sand traveled upward, moved by the elemental shards in a cacophony of cries like discordant horns fighting for the exits. Even barely conscious, they fled for their lives.
+
+Pathetic!
+
+The dragon exerted her will. A giant chunk of stone emerged from the ground with a thunderous crack, extracted from the bedrock by anger and raw strength. The projectile was the size of a minibus. With a contemptuous wave of her claws, she threw it at Viv.
+
+“Flail.”
+
+Black whips barely thicker than strings tore through the air in front of her. They cut the projectile to ribbons before it could impact her shield. Scattered pieces of stone crashed against her defenses. More dust joined the cloud of that which lay over the ravaged landscape the valley had been only a minute ago. Despite the mutual display of power, neither adversary seemed impressed.
+
+The taunting voice of the dragon sounded in Viv’s head.
+
+You are weak. Only defend. You are scared.
+
+Viv felt the last mana traces of blade master Sin disappear far behind her. That was it. She breathed deeply.
+
+“No no no no. I wanted room.”
+
+Space? What?
+
+“Yes. Now… we can begin.”
+
+Viv pulled on all of the skills, stats, and all that number-based bullshit that just meant she was infused with mana to her fingertips and knew how to use it. Her mind fashioned dozens of ‘astra’ spells at the same time: colorless mana formed semi-stable containment spheres around concentrated cores of annihilation. Greater sequence allowed her to pile them like rockets in a truck. She was full to bursting with them. The dragon was pulling mana for a shield as large as an observatory, wary. Viv needed to push her a bit.
+
+She needed her to breathe fire. Just once.
+
+Mana reversed. The defensive structure around Viv turned into a spike.
+
+[Aspect of the Destroyer]
+
+“Salvo.”
+
+The mass of projectiles rolled over the landscape with a muted ‘thoom’, eerily quiet for how destructive it was. Everything behind and around the dragon disappeared in a series of ‘pops’ that devoured the sand, the dust, the rocks, everything in large, round bites. Two entire dunes disappeared in a heartbeat. The dragon’s shield collapsed. Explosions kissed its flesh but didn’t penetrate enough, not yet. Its inner mana was protecting it from grievous wounds but she was still hit at point blank range and, adult dragon or not, she was still hurt.
+
+The dragon groaned, the dragon shrieked. She pulled back, soul screaming with outrage, pain, surprise. Fear. Viv closed the distance with a shadow shift before her foe could recover, even before the last of the astra spells carved their gashes in the surroundings.
+
+[Greater sequence: guillotine]
+
+Void blades the size of poles lashed out. The dragon managed to avoid most of them by moving back, again, but two of them still carved bleeding gashes in her forearms. Some of the scales lost their luster.
+
+Viv didn’t let up. She had to push the dragon to breathe fire. She wasn’t sure why she hadn’t done it yet. Arrogance? Her bloodline regarded fire as sacred. She closed in again. A dragon’s body wasn’t meant to jump back. It was no prey.
+
+Wings spread. They beat furiously, propelling the monster in the air. A wave of pure mana crashed into her surroundings, crumbling exposed stones and adding more scars to an already defaced battlefield. This was it. Viv focused.
+
+[Aspect of the Guardian]
+
+The dragon opened her mouth at the same moment as Viv cast.
+
+“Portal.”
+
+White, pure, incandescent power submerged everything in sight. Viv was forced to close her eyes and she could still see it in front of her, a sphere of salvation surrounded by primal heat so intense it ate at her spell. Dragonfire wasn’t just hot, it was purification made into energy. Just the edge of the flame consumed her aegis, scathing her black defenses. Dragon fire didn’t care for glyphs, or constructs, or structure, not that one. It would cleanse Viv if she let her guard down. Sweat covered her limbs as the portal started to crumble.
+
+“Shit.”
+
+But two seconds of primal wrath after it started, the fire stopped. It stopped with a cry of pain. A shriek of agony from lungs the size of forge bellows. And what a sweet sound that was.
+
+The dragon’s left wing was on fire, a fire Viv had redirected with a portal. Her own fire, so intense even black scales couldn’t stop it. It was a trick that worked once but by fuck had it worked well this time.
+
+“Get wrecked.”
+
+The desert on both sides of Viv was molten glass, hot white, and flat for the surface of a football field in every direction between her spells and the creature’s breath. The heat was intense, in that hellscape of fire and destruction. The dragon felt it too. She took off. So did Viv, using her newly made harness.
+
+The beating wings managed to push her large frame up, despite the damage. A furious mana battle between air, water, and fire raged on her wounded limb. Viv had expected the attack would be enough to ground her but that had been a little optimistic. It was still hurting, from the piteous moans.
+
+You little…
+
+There was no more need to hide her abilities. As the dragon somehow flew up, she closed the gap with a quick shadowstep. This time, the dragon retorted with a shockwave of pure mana aimed at destroying her working. The shift failed slightly before it reached the place Viv had aimed for. She felt the tail coming for her.
+
+[True Aspect of the Destroyer.]
+
+Mana. Everything was mana. The tip of the tail smashed through her weakened aegis and went through her midriff but she was black mana and black mana only. There was no flesh to rend.
+
+Still hurt like a bitch.
+
+[Guillotine]
+
+The counter dug furrows in the dragon’s flanks. This time, the creature twisted on herself before rising into the desert air at great speed. Viv followed though she was slower, through columns of smoke left from the devastation.
+
+The wounded wing stopped burning, perhaps due to the dragon’s control over flames. That was bad, but Viv had never hoped to win against an adult dragon with her opening move. The massive monster was still struggling, but she spotted Viv midair and a fierce growl emerged from her open mouth.
+
+Fighting dragons in the air was foolish.
+
+The dragon increased the distance between them, flying higher and higher, then she dove towards Viv. The sight of the creature of legend approaching her like a speeding jet, gray mana forming a wedge in front of it was awe-inspiring. Viv focused.
+
+[True aspect of the Guardian]
+
+[Greater Sequence: Aegis]
+
+Rather than contest the dragon with speed, Viv built up her defenses. Layers upon layers of hive shields formed, turning dark as the night as they locked in with the greater construct. Inside of the sphere, Viv piled on the defenses facing towards the speeding dragon. The world shook around her as it approached, screeching her rage at the daring human. Viv anchored herself as she waited without fear. The immovable object to her unstoppable force.
+
+Despite Viv being anchored, despite her defenses, she was still pushed back by the cataclysmic impact. A shockwave expanded through the Sandsong sky. Viv’s mana body shook, but now it was her turn.
+
+[Shatterstar]
+
+The shield exploded like a Claymore mine if they were made of hexagons of annihilation mana. The vicious shrapnel sliced the muzzle and chest of the attacker, sending her tumbling down just as Viv was pushed back, and despite the intensity of the attack, the dragon was still standing. She wasn’t happy though. The gray mana that had acted as a wedge sustained a sharp turn, but the strain was high. Viv could see blood dripping in the creature’s path. She just had to keep the pressure on. She released the aspect of the Guardian.
+
+[High Sequence: Sustained Hyperbeam.]
+
+Three continuous black lasers lashed through the sky, landing on the dragon who was forced to raise multiple shields. Viv kept them on, their aim perfect. Great slabs of mana-infused rocks were conjured from nowhere and destroyed just as fast. The mana expenditure forced her to interrupt them as the dragon approached, more slowly this time. Even with [A Light that Never Dims] and [Always a chance] pushing her on, there was only so much destruction she could throw at once. Fire erupted from the creature’s maw again. Viv prepared another portal.
+
+The fire split. in several tongues that aimed for her following unnatural paths. Each of them could vaporize a fort. Viv’s mind went into overdrive. Several portals appeared at the same time.
+
+***
+
+Bes turned. It was the second time he turned and Sin had dragged him by force the first, but he had to see it. The dragon and the woman were now flying over the apocalypse they’d unleashed, tossing the mana of entire mage cadres at each other with every spell. He could not comprehend the colorful bursts erupting throughout the late morning sky but he didn’t care. It was enough to know the woman was fighting with an adult dragon, a national cataclysm, on equal footing.
+
+He spotted the smoking wing from here. Nay. She was winning.
+
+“Ambassador!”
+
+“Do not call me by that august title. I have lost the right to bear it.”
+
+“Bes. We need to keep running.”
+
+“Are we not far enough? Does your soul not also crave to see this? Battles are the stuff of books, captain, but dueling dragons is the stuff of legends. What manner of man are you, who do not wish to see what your grandchildren will whisper about?”
+
+“A man who wants to live. You can see just as well from farther —.”
+
+Just then, the sky turned red from a wave of fire, snakes of scorching fury tearing through the sky in great scarlet gouts while smoke and soot rivaled the distant white clouds. A titanic roar silenced the good captain mid-tirade. Some of the snakes were redirected, to be extinguished as they neared the dragon again. Others fell. Others converged on the woman, smothering her form. The lost gouts of flames fell to the ground without extinguishing, their anger still unspent. Some of them looked like they were getting pretty close, and the visceral cold of black mana was being replaced by the sort of heat that left nothing behind.
+
+“Perhaps another few minutes of walking,” Bes allowed.
+
+“Just hurry, man.”
+
+***
+
+The fire surrounded Viv, eating at her mana just as the black ate back. Even through all those defenses, she could still feel it, like being next to a window into a furnace. It was there, barely held back and the most minute crack would be her end. The dragon had claimed the world around them. It was up to her to claim it back.
+
+The Light that Never Dims needled her on. Black mana burnt within her conduits, ever faster. Now was the perfect time to test the first of her god killers, the only ‘defensive’ one. She switched to her aspect of the guardian.
+
+Memories of the Helock arena filled her mind. She had turned that place into her domain, hers, and only hers, fully. Sonagi’s spells had failed before they could reach her. Because here, where she stood, she was dominant.
+
+[Locus of Control]
+
+A black sun erupted from between her anchors. A sphere as large as a building expanded in every direction. The dragonfire, so intense, was suddenly muted. It still tried to devour everything but now it was in her domain. She was in control here. She was in control everywhere.
+
+The dragon was so stunned, she momentarily forgot about her wing and lost altitude. Viv moved up, the sphere persisting. She formed yet another shield, overloading it.
+
+[Meteor]
+
+The spell accelerated, then exploded against the dragon’s shield with Viv inside. Inside of the sphere, the dragon lost control over gray mana. It fell, and Viv followed, but a fresh burst of fire pushed her away. The burst turned into a curtain fed by monstrous red mana. She could almost taste the creature’s panic. All of Viv’s attacks had shed blood. None of the dragon’s had landed. Viv had faced countless dragons, especially her daughter, in spars. She knew how they thought. Neriad’s balls, it was more difficult to corner Arthur than to land blows against this dragon. By contrast, Viv was the first black elemental archmage the dragon had faced, and she was also going to be the last one. The two exchanged more attacks but the dragon was below now, and Viv didn’t let up.
+
+What is HAPPENING?
+
+Viv laughed.
+
+What do you mean? I thought humans were prey?
+
+A fresh wave of intimidation backed by her Dragonslayer title hit her enemy, shaking her already cracking confidence. Some people (her friends) had once said that she was a bit too dramatic when she was fighting. Those people didn’t get it. The planet was listening. Her skills worked around people listening, too. For her, acting like the galactic queen bitch wasn’t tactically sound.
+
+It was optimal.
+
+I am going to let you in on a little secret, dragon. As much as I love some of you, there is a rarely known truth about your kind that most would find unpleasant.
+
+The dragon was slowing down, battling gravity with her maimed wing as much as she was fighting Viv. They were still high in the sky, the desert little more than a carefully curated zen garden around a torched and defiled battlefield carved by titanic spells. Both of their attacks striated the sky in rays and bubbles of color. The sounds of the dragon’s red spells echoed over the hills.
+
+You taste delicious.
+
+YOU DARE?
+
+No no, I’m serious. After I kill you, I will carve you and bring your meat back to the camp. I will eat you braised and seasoned with a side of buttered tubers, and a lovely red wine.
+
+The next thoughts came panicked and jumbled. Viv had her now. She could finish…
+
+The mana on her right arm took on the aspect of change. Tempting tempting… but not right. And Enttiku wouldn’t approve anyway. She still had options though. Time to try another of her god killers, this one for fast fuckers. Viv anchored herself hard, giving the surprised dragon some breathing room or so she thought. The surprised creature managed to slow her fall using that one brief moment of respite, then portals formed all around Viv, and all around the dragon.
+
+It took every ounce of her considerable mind for Viv to maintain control over the constructs all while generating two dozen guillotine spells. The black blades of concentrated annihilation traveled through the portals, entrapping the dragon in a maze of deadly lasers. By a supreme effort of gray mana control, the dragon managed to stop slicing herself on the thick lattice of blades.
+
+Viv screamed. She pushed herself to her limits to exert her control over colorless mana. This wasn’t the spell of a black elemental. It was the spell of a genius who’d worked every day for thirty years to reach that result.
+
+[Reign of Terror]
+
+The portals turned. Mana so focused and destructive it carved through scales and tore into the dragon; the focused rays of annihilation caused what had started as a roar to devolve into a desperate yelp. Blood sprayed even through the portals Viv maintained. When the blades dissipated, the dragon had fallen silent. She fell, crashing on the sand below after more than ten seconds of ghastly free fall.
+
+Broken, it almost didn’t feel like the same creature.
+
+Mana mastery: expert 2
+
+Shield Mastery: Intermediate 9
+
+Acuity Reflex: expert 5
+
+Viv was really a tough nut to crack by now.
+
+Dragonslayer has been altered to reflect that you have defeated several dragons, however, the title itself will not change as you have been merciful when you judged it appropriate.
+
+“That’s ok. So long as they know.”
+
+She floated down.
+
+***
+
+Viv stared at the body.
+
+Now what? She couldn’t cut off the head and parade it, or even save it to give to Solfis on a good day. Dragons could tolerate her killing one of their own because Viv had been the defender. If she’d climbed a mountain to assault the monster in her den, things would have taken a turn for the incendiary. That didn’t mean Viv was off the hook just yet. She had to be respectful enough, but at the same time, the meat was tempting. She was a woman of her word.
+
+Fuck it. It would probably be more disrespectful to let her rot. No more time to hesitate. She used black mana and transparent mana to clear and cut a stone slab, spending around twenty times what a brown mage would have needed but whatever. Now that the dragon’s mana was dissipating, cutting into her flesh with the elemental knife proved disturbingly easy. A pang of guilt and horror grasped her mind, if only for a moment.
+
+She was going to eat a sapient creature, one she’d had a conversation with. The same species as her daughter. It was not quite cannibalism, but it was still pretty bad.
+
+Viv looked at the meat and realized she was actually fine with that. It was going to be mana rich and extremely useful very soon. As long as she was respectful.
+
+Viv started with the legs, carving around the many wounds she’d inflicted where the flesh had withered from black mana corruption. The wings were toast so she discarded them, but the back, and then belly, proved promising. Her task took the rest of the day, then continued well into the night. She had three slabs the size of a small truck with meat piled knee high by then. Some weird ant monster had come sniffing but she’d disintegrated it. No sharing. Kill your own dragon.
+
+At dawn, she was not quite finished but she was unwilling to do more. Even the tail had been partly harvested by now (for soup). Grabbing the core, She was now facing a carcass, her face still intact but otherwise pretty well processed.
+
+The decision to take the core was an easy one. It was a traditional prize, a winner’s treasure. She didn’t feel conflicted about that one. The scales were a more daunting prospect. Even dead, they’d offered resistance to Viv’s monstrous magic. If it were enchanted…
+
+Viv decided it would be fine to take some back and belly scales. She cut the skin and rolled it, hoping she wasn’t fucking up the harvest. Maybe someone back home could do something.
+
+And now, she was truly and fully done. That left the burial. Viv could obviously not incinerate the remains like most nations preferred, back on Param, but she could provide the last rites. The dragon had inflicted countless atrocities upon the people of Sandsong but that was different. An exemplary death was one thing, desecrating remains was another. Under the light of the early morning, she carved the land with annihilation until she had an appropriate hollow rectangle of polished rock under her feet. Pushing the body in it was difficult, and making sure that last claw fit in turned into a rather humiliating task, but Viv persevered. As her dad always said, funerals were about the living. After she was done, she used eldritch walls to cover the remains under a vault of twisted walls, much more subdued than her usual fair.
+
+At the front of the tomb was the relief of a supine dragon, her eyes closed. Viv hadn’t tried to do that.
+
+“Uhm.”
+
+Time to try.
+
+“Oh, Neriad, I call upon you.”
+
+Viv sent the dregs of her mana, her reserves now dangerously low. It was still a respectable amount that traveled towards the city of the gods, but this time, the answer was silence.
+
+Viv knew what it meant, and it made her feel a bit iffy. She hadn’t done it in a long time but now she was forced to go through meditative kata to replenish her reserves. Only once she was satisfied with her recovery did she call upon another deity.
+
+Fuck, she might be one of, if not the only human ever to try that.
+
+“Dragon God.”
+
+Pressure pushed down upon her. It didn’t even feel hostile, only very, very focused. And distant. While the human gods were not unlike some semi-trashy aristocratic family constantly meddling with mortals, the new presence was almost alien. Nevertheless, Viv had a plan. Stay polite, get her business done, get gone. Simple. She poured all the mana she’d prepared towards the distant shape with no idea if it was received or not. It felt like shooting in the night. Maybe something landed, or maybe not.
+
+“We fought. I fought better. Regardless of our conflict, please lead her soul to the afterlife it deserves, and please protect her mortal remains from the depredations of undeath.”
+
+The pressure resumed, then it cut. Abruptly. The aftertaste of a hiss drifted through Viv’s brain, chuckling at a concept.
+
+The Hand that Strikes Down.
+
+Viv stood by her sentiment on being as extra as draconically possible. It was a valid strategy. As she thought that, the earth rumbled. Viv took a few steps back. She felt the bottom of the tomb she’d carved crack, then something emerged from the ground. At first, they looked like bones and she feared the worst but the ribs turned out to be the trunks of tall white trees, surging from the ground at impossible speed. Actually no, on second glance, those were really ribs. Ribs, then trunks. Roots shattered the rock, turning it to soil. Red leaves and thorns popped from the strange vegetation, slowing down eventually. It took maybe ten minutes for the miracle to finish and when it was done, Viv was standing before a copse of desert vegetation with muddy water gurgling at its feet, colored red too. From the original tomb, only the sleeping dragon headstone remained, half-buried among thick brambles. She inspected it.
+
+[Dragon tomb (artifact): a mark of respect, a gesture of dignity.  Do not try to open it.]
+
+Ok that was pretty neat. Also, the dragon god hadn’t objected to her taking the meat which was fair since dragons were cannibalistic too.
+
+“By all the gods,” a voice said from behind her.
+
+Captain Sin had arrived, along with Ambassador Bes, or rather, just Bes now she presumed. The Sandsong scout trailed them.
+
+“You have done it. I cannot believe my eyes! You have slain a dragon in single combat. Not since the days of Eron the Dragonslayer have I… this is… are you an avatar? Nay, you cannot be. Lady Sai… where do you hail from?”
+
+“You guys haven’t brought the carts, I guess.”
+
+They seemed to be in the middle of a religious experience. Viv suddenly contemplated having to float three truck-sized slabs covered in valuable and tempting meat across the desert and its many predators. Without carts.
+
+“Fuck…”

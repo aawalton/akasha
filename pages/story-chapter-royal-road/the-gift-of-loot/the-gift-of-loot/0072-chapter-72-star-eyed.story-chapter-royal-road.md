@@ -1,0 +1,249 @@
+---
+id: 3f78836e-1d66-5ef4-81ea-f727294958b7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 72: Star-Eyed"
+slug: 0072-chapter-72-star-eyed
+partOf: the-gift-of-loot
+position: 72
+ownLength: 3957
+unit: words
+publishedAt: 2026-08-24
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3859490/chapter-72-star-eyed"
+royalRoadId: "3859490"
+---
+
+Thomas and Zach caught up just as the elf vendor promised with the utmost sincerity that he would send word to Talia the moment he found a sword skill that fit Jo's parameters.
+
+Jo still had her arms crossed, but the wary and slightly belligerent look was gone from her body language. Meanwhile, Talia nodded at the vendor like a diplomat who had just closed an important treaty. Then she turned to Jo and promised to pass any word of the skill to her the next time she crossed the portal to Earth.
+
+"Well, I suppose that'll work," Jo said and added a grudging, "thank you."
+
+Talia just flashed a sparkling smile. "This is my job."
+
+So no super sword skill for Jo, but the team wasn't going to leave empty-handed.
+
+Zach stepped in and, with Talia's help with negotiation, paid for his Dancer on the End of a Swaying Branch skill by a straight trade with the Duelist Grounds skill. Everybody had walked away from the Flying Swords dungeon with good items, so it was easy to let him have that one.
+
+The vendor accepted the trade and must have seemed a little too pleased with himself, so Talia extracted a promise from him that Jo would get a discount on her skill when it came around.
+
+Thomas again glanced over the myriad of skills for sale, but unsurprisingly found nothing that would suit his temperament or mana. Well, except for those cleaning skills, but he'd hold off on that for now.
+
+Instead, he went over to the System marketplace and traded some of his mana crystal haul for the level four and five crystals that he wanted. It wasn't nearly as ruinous as it could have been since a lot of the basic elemental stuff found on Earth was rare on this planet and vice versa. Though he quickly hid the two level five Light crystals in his bag. Light wasn't the most popular mana in the dark elf community.
+
+From there, Talia promised to show them the best place to get items appraised. She and Zach led the way with Talia hanging off his arm. The two of them walked a few steps ahead, laughing and chatting so easily that if Thomas hadn't heard straight from Zach's mouth that he knew how the game was played, he might have been alarmed.
+
+It did give him a chance to fall back and talk to Jo alone. She was still eyeballing Talia with a slightly sour look, but her expression softened into grudging resignation as Thomas explained his and Zach's reasoning.
+
+"I suppose I can put up with her, as long as she stays useful," Jo muttered.
+
+"As long as she gets you a great sword skill, you mean," Thomas teased.
+
+That earned him a dark look. "Yeah, okay. That too."
+
+"Zach's in agreement with me, even though he doesn't look like it right now."
+
+Ahead, Talia tipped her head back in laughter at something Zach said.
+
+"As long as he remembers when she gives him those big doe eyes." Jo shook her head. "Also, you two are forgetting that we're going to have to be real careful about what dungeon drops we pull out from now on. I don't like that."
+
+Thomas had been turning that problem over in his head ever since the House of Healing. "I have some ideas." He gave her a significant look. "Let's talk about it later, okay?" There wasn't any reason to go into it here, where there might be curious ears listening. If the elders were going to assign them one spy, why not two or more?
+
+Jo started to reply, and then they stopped in surprise as an old elf woman stepped directly in their path. She was visibly ancient, with her thin, steel-blue hair pulled back in a severe style that made her face look bony. Her shoulders were hunched under a host of mismatched shawls, all layered on top of one another. Her eyes, though, were a vivid yellow and locked onto Jo.
+
+"You." The old woman's voice was creaky, yet surprisingly strong. She reached toward Jo, not quite touching her. Her fingers traced invisible sigils in the air a few inches from her chest. "In all my long centuries, I have never seen chakras so clear on a grown woman. Your meridians are flawless. Who taught you to dive so clean?"
+
+Jo froze. "I'm—what?" She looked to Thomas, stricken.
+
+Thomas stepped forward and angled his body between them. "Sorry," he said. "We're just passing through."
+
+"I am no threat to her, child!" she snapped, and stepped to the side so she was staring at Jo again. "You are strong, and you will need that cleanliness. Stay clear-eyed for what is to come. Diving clean will help, but you must stand on your own. Do you hear me?" She shook her finger at Jo as if berating a child.
+
+"Um, I hear you?" Jo said, uncertainly.
+
+She snorted. "No, you don't, but you will. You will."
+
+"Honored mother." Talia's warm voice cut in as she and Zach reappeared, probably alerted by the old woman's raised voice behind them. Talia dipped into a quick, low bow. "Forgive my intrusion. May I ask who is watching you today?"
+
+The old woman didn't even glance at her. "This one," she said, still staring at Jo, "has been purified clean down to her root. Which healing house provided this service? Do they know what is to come?"
+
+A small crowd was starting to gather, drawn in by the old woman's voice. Nobody looked threatening, though a few people murmured to each other, and a few outright stared.
+
+Looking distinctly uncomfortable, Jo's hand drifted to the hilt of her sword as she activated her Still Water skill to collect herself.
+
+"What do you mean?" Thomas asked because no one else was. "What is to come?"
+
+It was as if the woman hadn't heard him at all. She stared at Jo as if trying to X-ray her. Even Talia looked disconcerted.
+
+"Auntie! Auntie!" A younger elf woman pushed through the gathering crowd. She reached the older woman and gently but firmly took her by the elbow. "I'm so sorry, so sorry," she said, dipping her head twice, once to Talia and once to Jo. "Please forgive this Honored one. She means no disrespect."
+
+"I mean no disrespect," the old woman agreed. Her tone became placid as she allowed herself to be turned, "only to give a warning. That one will need as much help as she can get."
+
+"Of course, Honored one, of course." The woman gave a final hasty dip of a bow and easily steered the lady away.
+
+The crowd dissolved just as quickly, but not before Thomas caught more than a few glances thrown Jo's way.
+
+Jo let out a sharp breath. "What was that about?"
+
+Talia looked a little disturbed, too, and glanced between Jo and the direction of the retreating woman. "That was a Star-Eyed," she said carefully. "They can be a little... eccentric and can often see what we cannot. It comes with the class." She hesitated and glanced at Jo again. "Do you know what she might have meant by you being clean?"
+
+Jo glanced at Thomas, clearly not wanting to say it but unable to come up with a lie.
+
+"The Poison mana," Zach broke in. "Gotta be. She's been running it through her System pretty aggressively to try to trigger an Ability. Jo, you probably scoured a few impurities out along the way."
+
+"Yeah, that would make sense," Thomas agreed quickly, making it up as he went along. "That type of mana is corrosive. It will eat anything."
+
+Talia visibly brightened. "Oh, you must be quite talented," she told Jo. "That sounds very advanced."
+
+"I have my moments," Zach said, then grinned when Talia looked at him. "What, you meant Jo? Well, you should hear what I can do with mana..."
+
+Thomas noticed how Jo stepped out of his shadow once it seemed like the heat was off her. She did not like being the center of attention. No wonder she had the Gift of Hiding.
+
+Thomas, though, threw a glance back toward the way the Star-Eyed woman had gone. He noticed how her demeanor changed the moment her minder found her. Was that an act, or was it enforced? "Is she... being looked after?"
+
+"Assisted," Talia corrected gently. "The Star-Eyed walk a different path than most beings. Mother always said that too much esoteric mana does strange things to the mind." She caught Thomas's worried look. "Oh, the classes it produces are honored, and greatly so, but it seems like half the time a Star-Eyed does not seem to live in our world anymore. Nevertheless, those who watch over her are careful to redirect their energies so they don't go wandering off a cliff or out to sea." She smiled and gestured them onward, relooping her hand around Zach's arm, clearly ready to move the subject along. "Come, the appraisal booth is just ahead."
+
+Only when Talia was turned away did he risk a glance at Jo. She stared back.
+
+"'What is to come'?" she repeated. "What do you think? Is she telling the truth, or is she nuts?"
+
+"If she knows we're from Earth, then she knows that all of us have troubles to come," Thomas muttered, though he wasn't sure if that was the case at all.
+
+He opened his Health Sight to quickly look Jo up and down. Yeah, she was extremely clean. The light she produced was the same color as her mana, a sort of purplish-brownish which wasn't exactly beautiful, but it was remarkably clear, still like looking at the sun through a brownish-purple glass pane window. He couldn't see a single flaw at all. "You haven't tested out your skills since getting poisoned, have you?"
+
+"You're asking if I've thrown around my blades in the marketplace? No, why?"
+
+He swallowed. "Um, when you do, maybe be careful about them? She was right about your being clean inside."
+
+"Is that bad?"
+
+He shook his head quickly. "I don't think so. In fact, I think you might be a little stronger and quicker than before. You purged all toxins."
+
+She looked at him for a long moment, and then instead of anger, the corner of her mouth twitched. "Thomas," she said, light and teasing, "what did you do to me?"
+
+"Apparently, I made you the envy of old crazy ladies," he said. "You're welcome."
+
+That got a real laugh out of her.
+
+_____
+
+They found the appraisal booth a minute later, and Talia made introductions, explaining that this elf was an old family friend. The elf appraiser looked visibly happy to see her and kissed both of Talia's cheeks before turning to his new customers.
+
+With a flourish worthy of a magician, Zach pulled out the dark skill shard and put it on the table.
+
+"Oh, a Cull Skill," the man said. "That's easy enough, and it looks like it is within the first gate, which is a little more uncommon. It's a useful item. You can see it's currently empty." He picked it up between two long fingers and held it up for them. "If you regret a skill in your spirit or wish to walk a different path, you simply press this against your core and urge the skill to leave. It will turn clear once a new skill has entered, and you may resell it as a normal skill afterward. This is for non-class skills, of course. Class skills are permanent unless the System steps in."
+
+"Called it," Zach said, looking pleased with himself.
+
+"I can give you 200 shadows for this," the appraiser said, a little eagerly.
+
+Zach shook his head. "Nah, I think I'll hang on to this one. Guys?"
+
+"Sure," Thomas said with a shrug.
+
+Jo nodded her agreement.
+
+All of them were happy with their skills, but with their team's luck, they could never be too careful.
+
+_____
+
+It was, of course, nighttime when they teleported from Aether back to Reno, though it was so late that it was early. Thomas could see the glimmer of dawn across the brown eastern mountains. Noticing that was like a dam breaking, and he was hit with a deep wave of exhaustion.
+
+"I'll teleport you guys back to your cars," Zach offered. He'd let the over-the-top charm drop the second Talia exited the portal room, and looked as drawn as Thomas felt. "But you've got to drive yourself from there. Until I absorb my new Teleportation mana crystals, I'm beat."
+
+Thomas waved him off. "I'm good, actually."
+
+"You sure?"
+
+Yeah, he was sure. His apartment was currently full of nephews who woke up the moment they could sneak out to the living room to watch cartoons. He had his bedroom back and Derek was on the couch, but with that racket he'd be lucky if he got two hours of sleep. Besides, he had a lot of money burning a hole in his pocket for once. He was going to act like it. "I'm going to grab an Uber and get a hotel."
+
+"Living large," Zach said approvingly.
+
+"Just teleport me back to my car where you picked me up," Jo said. "It's in the Raley's parking lot. I'll be good from there."
+
+A moment later she and Zach were gone, and Thomas pulled out his phone to grab an Uber. He ended up getting a room at one of the nicer hotels that had been built outside of downtown. Although it was an obscene hour in the morning, the lobby was clean and bright, and smelled like lavender. He had a quick chat with the receptionist and paid extra for a late checkout.
+
+He didn't even remember taking the elevator up and was asleep almost before his head hit the pillow. He didn't dream, or if he did, he couldn't remember it.
+
+Finally, though, he woke a little after nine and just lay there for a few moments, blinking at the ceiling before he dragged himself into the shower and cranked the water as hot as he could stand it. His brain came back online. Checkout wasn't until after one, so he had a room to himself and a little time to kill.
+
+Time to see how close to level four he could get.
+
+Clean and wrapped in a hotel-provided robe, he sat down cross-legged on the unmade bed and concentrated inward on his core to check his status. Most noticeable was a thick band of level 5 Adaptation mana from that fun day creating the Purge ability. A thinner band of Wellspring fed into it underneath. Healing mana ran through like ribbons here and there in the most current layer, but he'd obviously spent the majority fixing up Jo and generally healing himself of aches and pains.
+
+Thomas considered for a moment, then decided to keep the Adaptation mana exactly as it was. He liked its effects. Maybe it made him a little reckless, but he also wanted the possibility of pushing his hard work into Abilities. It had come in clutch for him twice now.
+
+First, he wanted to reinforce his Wellspring mana, so he pulled out his old reliable crystal and closed his eyes, absorbing some from it. That was always a trial, but he could handle it now.
+
+When he was done, he looked at the crystal and saw that it was noticeably smaller than it had been before. His endless well was starting to run dry. He'd have to figure out a new source of this stuff, and from the hints dropped by the elves, that wouldn't be easy.
+
+Worthwhile things rarely are, he thought, then pulled out Light mana next.
+
+It had worked a treat with his halberd enchantment and seemed to resonate so well with his other mana types that it was a no-brainer: It was going to be part of his core.
+
+In the spirit of going big or going home, he had purchased a level five Light crystal. This is going to be intense, he told himself, holding it in his hand. It practically melted and fell into his palm.
+
+The next few minutes were indeed intense. Ultra-strong Light mana flooded through him, seeming to radiate from the inside out. Thomas closed his eyes, though he didn't know why he bothered a moment later because he saw brightness behind his eyelids.
+
+This was a mistake, he thought, and again his mind flashed to that kid on TikTok who had blown out his own core.
+
+Then the Adaptation and especially Wellspring seemed to brighten the already extremely energetic Light mana, and it went from radiant to a hair off from searing. Screwing up his face, Thomas bent double and concentrated on breathing and slowly herding the motes to his core.
+
+Judging by the clock, it took a good forty-five minutes to finally get a handle on it. When he moved, his limbs felt light as a feather again. Was there a physical ability attached to this mana, sort of like... light speed? He waved his hand in front of his face but couldn't tell if there was a difference. That probably wasn't the type of thing someone could judge from the outside. He'd ask either Jo or Zach next time he met with them.
+
+Finally, he eyeballed his healing mana. Healing was, of course, already a big part of his core, and he actually felt a little hungry for it now that he had eaten a large meal of Adaptation, Wellspring, and Light. The question was: level four or level five?
+
+Oh, to hell with it. He picked up a level five crystal. He'd gone with higher levels with everything else, and he wasn't going to unbalance himself now.
+
+Hopefully he wouldn't pineapple himself.
+
+Thomas expected it to be worse than Light mana, but while the level five healing was so strong he could practically taste it on the back of his tongue, it actually wasn't as traumatic. His body was used to this stuff by now, and he just felt extremely full. He sat and breathed, and eventually the feeling eased as more and more motes attached to his core and built up that fourth layer, mixing and mingling with the Adaptation, Wellspring, and Light.
+
+He was, he realized, close to filling up that layer completely. He might be able to break into level 4 now if he felt like stopping, but he wanted to absorb everything he could first. This layer felt much larger than the others. It made sense since he was building outward, but... it still seemed unusually large to his inner sight.
+
+Heh. That's what she said.
+
+With a smirk, he rechecked his mix. This layer was running about 33% Adaptation, 20% Wellspring, 10% Light, and roughly the remaining third taken up by Healing.
+
+This was a good mix for him. The Adaptation made him flexible, Light gave him a combat edge and perhaps a little speed, Healing, of course, was for healing, and Wellspring seemed to replenish and reinforce all of it.
+
+He'd probably want something in addition for his next, fifth layer. That would be the last and largest before he was actually offered a class.
+
+Something with combat capabilities, he thought, though off the top of his head, he wasn't exactly sure what it would be. He was compatible with Earth. Maybe he should pick one in that family to help balance out the Light and give him more staying power while he tanked? Nature, maybe? He'd have to think about it.
+
+Absorbing all that mana was hard work, and he had been sweating almost the entire time. So he chugged down two water bottles from the mini-bar and he took another shower, sluicing the sweat off before he dressed in the last clean clothes in his bag. As he did, he considered inducing the Purge on himself. Though... he'd seen it twice and it had been super intense for Prinna and Jo, to say the least. Maybe he'd see how Jo handled having no toxins, first.
+
+He checked the clock: a quarter to one. Just enough time to get out of here and grab a coffee before housekeeping started getting on his ass.
+
+He checked his phone and saw that he had a couple of messages from Zach. He'd sent a picture of himself grinning in front of a sign for the Pike Place Fish in Seattle.
+
+Zach: on the hunt for a blink skill! Wish me luck!!! XP
+
+Thomas: Good luck!
+
+He felt a small, distinctly childish flare of jealousy for that awesome teleportation skill, and briefly considered whether it was too late to pick up one of his own... But no, even if he could somehow manage it by re-diving the Ross-Astor dungeon, he'd have to add the mana to support it. Hadn't he just been thinking that his mana needed more combat-related aspects? The last thing he needed was another support type.
+
+Zach would have to continue being the team transport for now.
+
+Jo had texted too. Her message, typically, was more practical.
+
+Jo: Daughter's got a school thing early tomorrow morning. Can't dive till Sunday.
+
+No team today. That was fine. Thomas had his own family time to catch up on.
+
+So Thomas went through the motions and rented a car to get him back home like a muggle. Though, he splurged a little again and made sure it was a nice car. Still a sedan, but one with leather seats, and unlike his own, no bullet holes.
+
+His apartment was exactly as chaotic as he had feared it would be. Kingston and Braxton had an Nerf war in the living room, and the couch cushions had been upended to be used as ad hoc forts. Fifteen-year-old Ashton claimed that he had no part in it since he was too old to play, but by the jeers of twelve-year-old Kingston and ten-year-old Braxton, that was clearly a lie.
+
+Derek was, again, nowhere to be found, apparently working. He and Thomas had been kind of avoiding each other since the whole hand-regrowth blowup, but that had been a couple of weeks ago now. What the hell was his brother even doing all day?
+
+Thomas filed that away for later and decided to spoil his clearly already spoiled nephews by putting in an order for delivery Chinese food. Everybody got a say in the dishes that were ordered, and if these weren't all growing boys, each with his own hollow leg—and apparently Ashton with two—Thomas would have been alarmed at the amount they requested.
+
+"Okay, okay," he said, "but I'm also ordering beef and broccoli, and you are all eating the broccoli."
+
+He got some grudging "okay"s in reply. Somehow, though, they ended up with a double order of walnut shrimp, which was practically like candy anyway.
+
+Thomas was about halfway done with his plate, also with a heaping of walnut shrimp because he loved the stuff, when he suddenly felt a snap in his core, exactly like a tight rubber band had suddenly broken. He winced and barely had time to press his hand over his belly button before something large and human-shaped suddenly dropped half on top of him and half on top of the table, breaking it and scattering Chinese food everywhere.
+
+The boys shrieked, and Thomas was on his feet, chopsticks clenched in his hand as if he was going to bring them down on... Zach?
+
+Zach's whole body shook with violent jolts. A sparking cord of electricity with what looked like weights wound tightly around both ankles, and he had at least four arrows lodged in his chest.

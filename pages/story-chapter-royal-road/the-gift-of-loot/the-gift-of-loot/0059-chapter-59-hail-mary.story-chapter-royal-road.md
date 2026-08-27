@@ -1,0 +1,213 @@
+---
+id: baa1ea2f-40af-5210-bf9a-ec686d1423a2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 59: Hail Mary"
+slug: 0059-chapter-59-hail-mary
+partOf: the-gift-of-loot
+position: 59
+ownLength: 2211
+unit: words
+publishedAt: 2026-07-22
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3711806/chapter-59-hail-mary"
+royalRoadId: "3711806"
+---
+
+"Hey, grabby hands," Thomas snapped, "there's no need for this."
+
+He was irritated rather than alarmed because even though the Light Elf's grip on his upper arm was like steel and he had no chance of twisting out, the guy wasn't hurting him. He was just marching him down the street like Thomas was an errant toddler. Or, more specifically, a servant.
+
+Zach and Jo weren't taking this lying down. Out of the corner of his eye, Thomas saw Jo unsheathing her Blood Thirst sword. Zach looked like he was considering which angle to fire whip the Elf in the face while not hitting Thomas.
+
+Turning as much as he could while being hustled along, Thomas pushed a flat hand down in a slow-down motion and mouthed, "I'm okay."
+
+Being pulled along was a little degrading, but the elf was way over their level. He also desperately needed a healer.
+
+"Are you refusing your services, healer?" the Light Elf asked.
+
+Something in his tone made it a loaded statement. Thomas turned back to him.
+
+"I'm barely a healer. I have like one skill. I can try to help, but you said it was poison? I've never cured anyone of poison."
+
+His jaw tightened. "You will do your duty. There is no one else."
+
+Then, abruptly, he yanked Thomas to the right and started marching directly to a little house with a riotous garden bordering a stone path.
+
+None of the houses in this village were overly elaborate. They were all made of what looked like baked mud with rounded corners and holes for windows. Unlike most, this one had a door.
+
+"Stay out here," Thomas called to his team, right before the elf shoved him inside and slammed the door behind them. Rude.
+
+Not like a door would stop Zach if he wanted to teleport in, or keep Jo from sneaking in with her Gift of being able to remain unnoticed.
+
+Having his team at his back kept him calm as he was hustled through a very normal-looking, if small, living room. There was a futon and a low table for eating. The only things that made it strange were the ceiling open to the permanent dusky sky above and the crazy amount of plants taking up every corner with leaves either draping everywhere or stretching up to the sky.
+
+Someone had a green thumb.
+
+Then they were through the back room that must have been the bedroom. The ceiling was intact, but again there were plants everywhere.
+
+Then Thomas caught sight of his patient laying on the bed, and he forgot all about the stupid plants.
+
+She was a Wood Elf woman.
+
+Her skin was a nutty brown color, her hair reddish-brown just like the leaves in this world. She lay on top of the covers, sweaty and pained with one leg wrapped at the upper thigh.
+
+"Sateryn," she gasped, green eyes vague as she took Thomas in. "What—"
+
+"He is a healer." The elf, Sateryn, apparently, released Thomas. No need to hold him, after all. The second he laid eyes on her, the healing mana started screaming, HELP HER.
+
+"Uh, hi." There was a stool next to the bed, and he pulled it close and sat. "I'm Thomas. Sateryn said something about poison?"
+
+"Chala... Viper..." she gasped. "In the dungeon."
+
+Obviously not the Griffin Trial dungeon, but if this place was anything like Earth, there should be a dungeon about every ten square miles.
+
+"So it's venom, not... poison," he said blankly.
+
+"Is that important?" Sateryn demanded.
+
+Thomas had no idea. Instead of answering, he started unwrapping the lower bindings around her leg. The upper ones, he assumed, were meant as a tourniquet to keep the venom contained as much as possible, so he didn't mess with those.
+
+Okay... uh... it was necrotic. A softball-sized chunk of flesh had died, and the rest around looked terribly swollen and was oozing blood.
+
+Fun fact: Wood elf blood was green.
+
+HELP HER, his mana screamed.
+
+That was nice. How?!
+
+Thomas turned on his Health sight and looked close. Normally he just used it to search for enemies, but if he stared really hard at her wound, he could make comparisons to the rest of her body.
+
+"It looks like the venom's gotten past the tourniquet," he said, hearing his own voice come out clinical even though his heart was speeding about a thousand miles an hour from stress. She was dying and he had to help and he had no idea how to do it. "It's attacking her organs, I think." Melting the organs was more accurate. This poor, poor lady. What was he going to do? How could he fix her?
+
+Sateryn sat on the other side of the bed and took the woman's hand. "Then heal it!" he said as if Thomas were an idiot.
+
+Biting back, "Thanks, why didn't I think of that?" Thomas instead spoke through gritted teeth, "I can rebuild the chunk missing out of her leg. That should be enough to get her on her feet. I don't have the skills or knowledge to do anything about the venom. She needs to go to a medical center."
+
+"She can't, obviously," Sateryn said.
+
+"There isn't another choice! Look, ma'am, what's your name?"
+
+"Prinna," she gasped.
+
+"Prinna. I'll make it so you can walk, and if... if something goes wrong, I'll support you through a bridge. You'll be fine—I'll make sure you'll live," he hoped he wasn't making an empty promise. It wasn't like he could start replacing huge chunks of her body. Wellspring was awesome in how it replenished and strengthened Healing, but it wasn't a miricle. "We don't have any time to lose."
+
+"She is my wife," Sateryn ground out.
+
+Thomas put his hands on either side of the terrible leg wound. His main worry was if healing the giant hole would somehow spread the venom to the rest of her body, but she couldn't just lay here and die. "How far is the closest hospital?"
+
+"Sateryn, he... doesn't... understand," Prinna whispered, looking to her husband.
+
+Thomas stopped just before he activated his Living Architecture skill. "What's the problem?" Then his brain engaged. "Actually, why haven't you taken her straight to a hospital? Is it... a money thing?"
+
+Sateryn glared at him like he was willfully being an idiot. "I am a Light elf. She is a Wood elf."
+
+Then it hit him.
+
+"Oh, that's rich. Akilah was getting on my ass the other day for human racism—Wait, so okay, the local hospital is out, but there's a portal not far away. Let's go somewhere you guys aren't known. My team can play escort." He didn’t see a wedding ring on either of them. Sateryn could just be a very concerned friend.
+
+"We are infamous," Sateryn growled out. "Among all Light and Wood communities."
+
+"I portaled in from Shadow City—Uh, The Shadowed Haven of Dark Hope," he said, "And Healer Akilah wants to stay on my good side. We’ll take her there." Or maybe Thomas would owe Akilah a huge favor, afterward. He didn't care.
+
+"No.” Sateryn turned and spat on the floor in his own home. “The Dark elves? Never."
+
+Interestingly, Prinna shook her head weakly, in agreement with her husband. They didn’t like Dark Elves even though they lived in one of their communities.
+
+Ooookay. So elf racism was not only alive and well, the hate went both ways. He wondered how on Elf-World these two managed to get together, but that wasn't important right now.
+
+A spasm of pain shuddered through Prinna's body. Giving a little cry, she briefly clung onto her husband's hand.
+
+Thomas grimaced. He didn't feel her pain physically, but seeing it was like an emotional gut punch.
+
+Nothing compared to what her husband felt, however. He stroked her hair, trying to soothe her, then glared at Thomas with fire in his eyes. "You are the only one, and you will heal her. Tell me what you need for an antidote."
+
+"I..." He had no idea.
+
+Okay, he had one idea. It was a stupid idea, but hey.
+
+"I have a Hail Mary," he said.
+
+"You have... a saving throw?" Sateryn looked briefly confused as apparently the idiom didn't translate perfectly. Then his expression became enraged as Prinna slumped into unconsciousness. "Speak, healer!"
+
+His desperation cut through Thomas almost as deeply as her pain. "I need Adaptation mana, and Wellspring. Also, give me back those crystals my teammate gave you."
+
+"Wellspring—do you think me a noble? Living here, in these circumstances?"
+
+Oh boy, he had questions about that, but again, now was not the time. "Adaptation then," Thomas told him sharply. "Do you have it?"
+
+"I will purchase it." Sateryn carefully laid Prinna's hand down and then, faster than Thomas's eyes could follow, flashed out the door.
+
+He exhaled. "Jesus."
+
+Then abruptly, Jo was standing beside him.
+
+Thomas jumped. "Jesus Fucking Christ!"
+
+She gave him a look for the blasphemy. "Are you okay?"
+
+"I'm fine." Thomas gestured helplessly at Prinna who lay unconscious and dying in front of him. "She's not."
+
+"Adaptation, bro?" Zach asked, from the window at Thomas's back.
+
+Thomas jumped again, but managed not to swear this time.
+
+"Like I said, it's a Hail Mary. I don't... I don't know what I'm doing," he rubbed at his eyes, "but I was able to push my healing with it once in the Mimic dungeon. Maybe..."
+
+Speaking it aloud made the idea seem dumber, actually.
+
+"You can't give her healing crystals?" Jo asked.
+
+"I can. It'll heal the damage, I think, but the venom will still be there and something tells me healing her like that will let it spread through new tissue. So it will be worse than before. It'll just buy her time… before she dies horribly anyway."
+
+Jo turned to Zach. "I'm worried about what Sateryn will do if she dies."
+
+"He'll lose his shit," Zach agreed, glancing at Thomas. "He's higher leveled for sure, and he’s dangerous. You sure you want to do this?"
+
+Thomas couldn't leave. He simply couldn't.
+
+"If that looks likely, I'll start the support bridge to keep her body going. Then you get out of here and get Akilah."
+
+Then, well, he would see how bad that blood between Light and Dark elves really was.
+
+The front door slammed open. In the next second, Zach ducked down and Thomas sort of forgot that Jo was there.
+
+Sateryn rushed in and looked around like he suspected shenanigans. Thomas busied himself with checking Prinna's pulse. It seemed a bit thready, but he had no idea even if elves had one heart or two. Maybe that was a normal heartbeat for them.
+
+"Here." Sateryn shoved three C-grade Adaptation crystals at him. "Purchased at great expense from the System Marketplace."
+
+"Where I come from, health care is expensive too," Thomas said. The crystals sang through him when he touched them. This was the good stuff.
+
+His offhand comment was meant to be at least a little sympathetic, but proud Sateryn didn't take it that way.
+
+In a second, he was up in Thomas's face. "If she dies," he said, "I'll kill your female teammate. My woman for your woman."
+
+Crack!
+
+Thomas had wanted to punch him, but a last-second half-thought made it an open slap instead.
+
+More insulting that way.
+
+He was a little surprised it connected, considering Sateryn had levels on him. Even more surprised he felt zero backlash from his Burden.
+
+His palm stung like a motherfucker, though. That had been like hitting a statue. Thomas let it add to his fury.
+
+"Listen, asshole," he said, low and angry. "I've told you all along this is way above my paygrade. Despite that, I'm trying to save your wife. To do it, I'll need calm and focus, and that means not worrying about my teammates. I won't let you sabotage me and get my patient killed. Now, get out of my sight."
+
+Sateryn stared at him with his own hand half-raised. Thomas absolutely knew that if he weren't a healer, he'd probably be punched through a wall right now.
+
+That was the thing about the healer's Burden. It went both ways. Thomas couldn't kill sapient beings, but most people had a problem killing him too.
+
+Thomas glared right back at him: Try it, he thought.
+
+Finally, after a moment that stretched seemingly forever, Sateryn brought his hand up to touch his own cheek. "What kind of healer are you?"
+
+"Combat healer," Thomas said shortly. "Get out of here. I'll call you as soon as I know if she will live or die."
+
+To his absolute shock, Sateryn inclined his head and swept out of the room. His back was stiff and angry, and he didn't glance back at his wife.
+
+Letting out a breath, Thomas sank back onto the stool. But he didn't have time to think about that close escape or what Sateryn would do if Prinna died.
+
+He focused back on one of the Adaptation mana crystals that had fallen onto the bed, then absorbed it in full.
+
+It hit him like a kick to the gut. Thomas wheezed as pure power flooded into him, not as strong as the Wellspring crystal, but plenty potent.
+
+It had to be level 5.

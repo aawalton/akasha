@@ -1,0 +1,173 @@
+---
+id: 1988aeb3-8fff-57b6-a188-f6dc8d0fc3d6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3 (Revised)"
+slug: 0003-chapter-3-revised
+partOf: the-legend-of-randidly-ghosthound
+position: 3
+ownLength: 2177
+unit: words
+ownProgress: 2177
+publishedAt: 2017-03-31
+link: "https://www.royalroad.com/fiction/11209/the-legend-of-randidly-ghosthound/chapter/127187/chapter-3-revised"
+royalRoadId: "127187"
+markedReadAt: "2026-06-29T21:36:35.401Z"
+---
+
+When Randidly awoke from his fitful nap, unexpected blue notifications greeted him. He also didn’t miss the way the lights above flickered on when he opened his eyes, as if they immediately shut off when he fell asleep. Shaking his head at the strange environment, he inspected the notifications.
+
+His smile was one of pure elation.
+
+Overnight, Randidly reached Level 3 in Farming. He was stunned to find several sprouts coming up out of the spot where he discarded the hard seeds from the berries. Excited, he got up and went over to inspect the growths. Although they didn’t seem like much, if they started producing berries inside the Safe Zone…
+
+Randidly shook his head. Though it might be safe, he didn’t plan on remaining here forever. Not when he wanted to understand the limits of the System in which he found himself. In fact, the twenty-year-old Randidly knew that staying in the room and grinding would become a chore after a while. Still, Farming was a useful way to decrease the danger in the short term, allowing him to gather sufficient strength before venturing out.
+
+“I wonder how Ace and Sydney are doing,” Randidly muttered, his eyes going unfocused as he uneasily considered his two closest friends encountering the dangers with which he now wrestled.
+
+He snapped back to the moment at hand, opening his Path screen and putting the final two points into the Newbie Path.
+
+Congratulations! For spending one PP on the “Newbie Path,” you have earned 1 Stat point(s).
+
+Congratulations! For spending one PP on the “Newbie Path,” you have earned 2 Stat point(s).
+
+Congratulations! You have completed the “Newbie Path”! +1 to all Stats, +1 Stat point per Level, +4 Health per Level, +2 Mana and +2 Stamina per Level. You have learned the active Skills Mana Bolt Level 1 and Heavy Blow Level 1!
+
+Continue using Paths to explore this world! Remember, there will always be a path open to you. Rise and spread your Legend throughout the Nexus!
+
+Randidly laughed. It seems like completing a Path certainly earns a lot of rewards. The single Stats to get there were just breadcrumbs to lead me along.
+
+His eyes immediately went to the two new Skills. The +1 to all Stats was a holistic improvement, but the two Skills were the biggest gains. After all, how did he finish this Path? By accumulating PP by earning Skill Levels!
+
+Randidly frowned when he read the middle of the notification. The real problem is that a lot of these relate to Level-up gains, and my Level is still N/A.
+
+Did he miss something, or some option to earn a Class?
+
+Randidly did a once-through on his menus, finding nothing that would allow him to select some milquetoast archetype like “Ranger” or “Priest.” Considering how he was just rewarded with two Skills for completing a Path, such Classes would likely come along with relevant Skills of their own, making growth that much easier.
+
+Grimacing, Randidly increased the volume of the small voice at the back of his head, born from his past experience playing games. If this strange new change that came to the world functioned like a typical game, there was likely a Newbie Area. Ignoring the jungle surroundings, the mid-20 Levels of the monsters Randidly encountered practically proved this was not a Newbie Area.
+
+At this point, Randidly was primarily speculating. Perhaps this was a result of him being underground. He’d proceeded to the Dungeon Safe Zone, meaning he was in a Dungeon. He was just in the wrong place at the wrong time and missed the opportunity to earn a valuable Class.
+
+Randidly focused on the spot where there was a series of lines instead of Class. He bit his lip. Typically, a Class was the most powerful weapon in a character’s arsenal. Without that, his capability to grow and escape this Dungeon…
+
+Compared to the +1 to all Stats he received for finishing the Path, how many Stats would he get from Leveling up a Class?
+
+The contorted snarl of the monkeys flashed within his mind. Subconsciously, Randidly lowered his head and clenched his fist. The memories of waking up with only a single Health remaining were still strong. He admitted to himself his body had clearly informed him that losing that last Health would have been disastrous.
+
+Randidly shook his head. He knew himself well enough to stop this downward spiral before it gathered too much momentum. No need to worry about those things for now. I’m not improving as quickly as I can with a Class, but I’m improving, and that’s enough. I have three more Stat points to put wherever I like and then two new Skills to learn how to use.
+
+Aside from the PP I’ll earn, I suspect increasing the Skill Level boosts its effect somewhat. That’s how Levels work. So if I get the Level of my Skills up to around Level 20 or 30, won’t I be able to rival the monkeys?
+
+Don’t obsess over things you can’t control. You’ve got this, Randidly Ghosthound.
+
+Following his little pep talk, Randidly decided he was quite famished. After eating the other half of yesterday’s harvest of berries, he closely examined his Status screen. He settled on putting 1 point into End, 1 point into Agi, and deciding to take a gamble, another point into Per.
+
+Increased Perception would hopefully allow him to spot approaching enemies like the frog earlier. If it hadn’t been willing to let him peacefully pass from its perch on that branch…
+
+Randidly shivered.
+
+After distributing his points, Randidly studied his Status.
+
+Randidly Ghosthound
+
+Class: ---
+
+Level: N/A
+
+Health(/R per hour): 47/47 (23.25)
+
+Mana(/R per hour): 19/19 (8)
+
+Stam(/R per min): 25/25 (11)
+
+Vit: 6
+
+End: 5
+
+Str: 3
+
+Agi: 8
+
+Perception: 4
+
+Reaction: 5
+
+Resistance: 5
+
+Willpower: 5
+
+Intelligence: 4
+
+Wisdom: 2
+
+Control: 2
+
+Focus: 3
+
+Paths: Newbie 7/7 | P. Def | M. Supp | Risk Taker
+
+Skills: Running Lvl 4 | Physical Fitness Lvl 2 | Sneak Lvl 2 | Farming Lvl 3 | Mana Bolt Lvl 1 | Heavy Blow Lvl 1
+
+Putting several points into End improved both his Health and Stamina, which was important. Survivability was ultimately Randidly’s main goal, but he was learning Stamina might actually be more important. If he collapsed from exhaustion while fleeing from a monster, Randidly doubted the amount of Health he possessed would be enough to survive.
+
+Randidly squeezed his eyes shut and forcefully altered his thoughts to be more optimistic. He should not dwell on the image of a monkey ripping open his ribcage and rummaging through his organs. Doing so would only hinder him.
+
+Randidly turned his attention to his two newly learned Skills. However, unlike the other Skills Randidly earned, these seemed like active Skills, only he had no idea how to activate them. Feeling slightly foolish, Randidly muttered, “Mana Bolt.”
+
+A screen popped up in front of him.
+
+Mana Bolt: Focusing your energy, you fire a bolt of pure Mana at your enemies. Costs 10 Mana. Damage based on Intelligence and Level of Skill. Damage, impact, range, projectile speed, and casting speed increase with Skill Level.
+
+Pleased at such an informative notification, he tried, “Heavy Blow.”
+
+Heavy Blow: Concentrate your muscular force into one powerful attack. Will leave you slightly off balance. Costs 5 Stamina. Damage based on Str and Level of Skill. Damage, speed of attack, and accuracy increases with Skill Level. Recoil decreases with Skill Level.
+
+At least this is proof improving the Skill Level will directly benefit its power. Randidly forced himself to smile and rolled his shoulders. Alright, let’s get this show on the road.
+
+He spoke the rest of his Skills out loud, but nothing happened. Apparently, the helpful notification only popped up when he named an active Skill. Experimentally, Randidly raised his hand and pointed, focusing on his finger. He concentrated as hard as he could, scrunching up his forehead and squeezing his buttocks.
+
+His hand began to tremble.
+
+Nothing happened.
+
+Feeling silly, Randidly concentrated again and tried adding a vocal component. “Mana Bolt.”
+
+Something inside of Randidly moved. A strange force he hadn’t been aware of until this moment and one that he was immediately sure had not been inside of him before yesterday. This power boiled within his body, making his hair stand on end. Randidly couldn’t help but look down below his stomach, where the feeling originated.
+
+When the pressure built to a certain point, it exploded down his arm and blue energy condensed on his finger. It formed a gleaming sapphire marble and shot forward, or rather, downward, where his arm hung because of the distracting feeling of the Skill activating.
+
+The ejected Mana Bolt struck him in the foot. And it fucking hurt.
+
+Yelping and hopping, Randidly glared at the hole in his shoe, chiding himself for his idiocy. This was exactly why he needed to practice in a Safe Zone before letting his meager growth fill him with confidence. He checked his Status. His own Mana Bolt had done 5 damage to him.
+
+At the base, the damage really is just Intelligence plus Skill Level, huh? At least that makes it easy to calculate. But how much Health does a Level 24 Howler Monkey possess?
+
+Randidly wanted to try again. Due to his maximum Mana only being 19 and the Mana Bolt consumed 10 Mana, he would need to wait a bit. And with a Mana regeneration of 8, tripled to 24 inside the Safe Room, refilling his Mana would take a depressingly long time.
+
+He made a mental note to figure out what the Wis and Int Stats did for his overall Stats. For now, Randidly turned his attention to his other new Skill, which utilized the much-quicker-to-return Stamina, Heavy Blow. Because the rate of Stamina regeneration was set to the unit of a minute rather than an hour, this seemed much easier to grind.
+
+Feeling like he was in a martial arts movie, Randidly stood in front of the small tree in the room. He was increasingly aware in that moment of how he’d never done any sort of martial arts. But he bent his knees and lowered himself into a very uncomfortable half-squat. His legs trembled in preparation to strike.
+
+His fist shot forward and impacted the bark. The tree shook slightly and Randidly winced.
+
+Although not close to his full, desperate strength, Randidly punched like he meant it. His current situation ensured half-assing his preparations would result in feeding the constant low buzz of panic growing within him.
+
+Randidly looked solemnly at his knuckles. Surprisingly, the uncomfortable throb in his hand wiped away the anxiety and completely cleared his mind. His worries and tensions were gone.
+
+What remained was a dull ache, but even that began to fade. Randidly flexed his hand without any discomfort. Perhaps this was his Stats of Vit and End paying dividends.
+
+When Randidly looked back to the tree, his expression changed. Doing something once made the second attempt that much easier. He once more settled into his best approximation of a martial arts stance and glared at his stationary opponent. He pictured the vicious face of the Howler Monkey.
+
+His hand exploded forward and he half-shouted the Skill name. “Heavy Blow!”
+
+Another new force moved within Randidly Ghosthound, this time originating from his heart. And where the other was cool, this was hot and demanding, filling his fist with heat that consumed everything but the pure mechanics of the motion. When this empowered punch reached the tree, the entire plant shuddered from the force.
+
+There was a strained moment when Randidly felt oddly powerless, but the recoil was quick to pass. What remained were cleansing waves of pain radiating up from his knuckles, clearing his mind.
+
+As he shook his head, Randidly’s thoughts turned rather wry. Why am I disappointed by this much? Even with the vulnerability afterward, the power is probably double what I managed before. And this is with a Skill Level of 1 and a Strength of 3. The more free Stats I get, the more Paths I complete, the more I’ll improve. It’s only a matter of time before I’m not just punching that monkey in my imagination.
+
+Randidly rid himself of the budding excitement. Positive spirals were better for his mental health, but they were just as ultimately fruitless. He forced his mind to turn toward setting a tentative schedule for himself.
+
+He was in a venue where his death and his life were separated only by a single point of Health. He needed to stay focused. His stubborn streak emerged in the space cleaned by the pain from his knuckles, settling down in his chest and making itself comfortable. He refused to curl up and die. If he needed to push himself beyond his comfort zone to make that happen, so be it.
+
+Hidden away in this corner of the Dungeon, Randidly Ghosthound would improve one Skill Level at a time until he could thrive in this new, gamified world.

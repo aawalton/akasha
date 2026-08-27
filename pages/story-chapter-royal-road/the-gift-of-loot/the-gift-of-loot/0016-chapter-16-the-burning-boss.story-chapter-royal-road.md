@@ -1,0 +1,239 @@
+---
+id: 30a2252c-edf5-589e-96b6-0f4aa560cf5b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16: The Burning Boss"
+slug: 0016-chapter-16-the-burning-boss
+partOf: the-gift-of-loot
+position: 16
+ownLength: 2942
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3367691/chapter-16-the-burning-boss"
+royalRoadId: "3367691"
+---
+
+It turned out that level two dungeons were at least a third bigger than level one, so they weren't as close to the boss as they thought.
+
+No matter. They stuck to the path, and Zach had a ball going through the chipmunks. Every time one shot fire at him, he turned it back against them. He made it look easy.
+
+Finally, they came to where the path ended at an open meadow bare of everything but ash. In the middle, sitting on a nest made of charred sticks, was...
+
+"Is that a chicken?" Thomas asked Zach. "What is it with these dungeons and chickens?"
+
+"No, bro," Zach said, his voice filled with awe. "That's a baby phoenix."
+
+Thomas did a double take, then squinted ahead. Christ, was he getting old enough that he needed glasses? But then the chicken-like thing shuffled in its nest and twisted its head around to groom its blackened feathers, and the shape of it became clearer. It was basically a fat bird about the size of a Labrador with dark, gritty ash feathers, which didn't help him spot it against everything else that was burned. Except here and there, the feathers sparked as if with glowing coals.
+
+Now that Zach pointed it out, Thomas saw that the proportions were juvenile. The body was rounded with a slightly oversized head and a beak that looked too large for its body. Its tail was short and stubby, with feathers that had not grown in yet.
+
+But most importantly, Thomas was certain that he and Zach could scoot around the perimeter of the meadow to get to the exit door visible on the far side.
+
+"It looks like this is an optional boss," he said doubtfully.
+
+"Yeah, but that's a phoenix," Zach said.
+
+Thomas waited a second, wondering if he was going to elaborate. When he didn't, Thomas said, "And?"
+
+Zach turned to him, eyebrows raised. "You're a healer, dude."
+
+Oh. Duh.
+
+Phoenixes in mythology were all about rebirth and fire. And, if he remembered his Harry Potter lore correctly, they had healing aspects tied to them too.
+
+Thomas turned back with narrowed eyes, looking over the phoenix again and wondering what would drop from it. Chances were good that Zach would be the one who dealt the killing blow, as he'd done so pretty much all the way here. That would nullify Thomas's Gift of loot, but bosses typically dropped loot no matter what. If they got something healing-based, it might be just what he needed for Derek.
+
+"All right," he said. "How do you want to play this?"
+
+Zach grinned. "I got a trick up my sleeve. Leave it to me." He stood up from their hiding position, which had been just ducking behind a burnt fallen log, and strode confidently across the meadow straight for the phoenix.
+
+"Wait, we should have a plan," Thomas started to say, but then sighed and reluctantly followed.
+
+But Zach turned and waved him back. "No, bro, I got this. Stay back about twenty feet. This could get hairy... or flamey." He flashed a grin.
+
+"This guy's insane," Thomas muttered to himself. They had no guide, no idea how this boss would fight, and his teammate wanted to solo the thing.
+
+Nevertheless, because he was not fireproof, Thomas stood back, checked his dagger and penknife, and readjusted his grip on the maul. He'd rush in if things went bad.
+
+The baby phoenix watched them approach carefully but made no move until Zach was about ten feet away. Then it slowly rose on stubby legs to let out a rattling hiss, shivering its head at the same time. Little flames danced off its feathers.
+
+Thomas was disappointed to see that there were no more eggs in the nest with it. He liked the bosses where he could get additional rewards for ruining the boss's setup.
+
+His thoughts snapped back to the fight when the hiss turned out not to be a warning at all, but the sound of gas igniting because suddenly a gout of pure flame—blue at the tip and fading toward orange and red—shot right for Zach.
+
+Zach turned, and in a movement so smooth that he almost certainly had dance classes, pirouetted and redirected the stream of fire back to the phoenix. He'd done the same move with the chipmunks, but the phoenix also had tricks. With a rattle of its wings, the flame curled around it and shot back at Zach, now with even more intensity.
+
+Again, Zach redirected the fire around him and back at the boss, but it looked to Thomas like this had been harder than before. Like lifting a heavy weight.
+
+And again, the phoenix only added more fire and turned the existing flames a brighter blue, almost white, with renewed heat. But then, with a yell, Zach shot it back, and the flame suddenly curved all the way around the phoenix, meeting up again in a circle—no, it was a vortex that grew and grew as the phoenix, now starting to panic, kept firing more and more fire out.
+
+Zach was keeping it wrapped in its own flames, and even though it was a being of fire, there were limits.
+
+Thomas could feel the heat from where he stood. He didn't know how Zach could stand it. The phoenix certainly couldn't. It let out a long, pained screech that only a baby animal being fried alive could make before it suddenly went silent.
+
+Exhaling, Zach pushed down with his hands, and the circling vortex of fire puffed out into smoke. The bird had collapsed into a mound of glowing embers.
+
+"Wow," Thomas said, walking up and giving a golf clap.
+
+"I guess you can fight fire with fire," Zach said smugly. He started walking toward the mound, then winced, raising a hand to cover his face.
+
+Thomas did the same. The heat was so intense that it was almost painful to get within five feet of the thing.
+
+"Let's let it cool down," Thomas said.
+
+Zach sighed and flopped down onto the ground. "Sounds good. There's no rush."
+
+That's just tempting the gods of irony, Thomas thought, the hair rising on the back of his neck and his arms as he looked around.
+
+Sure enough, he heard... was that scuttling? Then, out of the burned-out forest came dozens of tiny chipmunks. They were all making a beeline straight for them.
+
+"Incoming!" Thomas yelled, readying his maul.
+
+Zach scrambled to his feet, and Thomas brought down his maul on the first of the chipmunks. It died with a terrible splatter, but the others were undeterred and kept coming in an oncoming wave.
+
+Fortunately, they didn't seem interested in Thomas and Zach at all. They all ran right past them as if called to the mound of embers.
+
+"What's going on?" Zach asked.
+
+Thomas shook his head. "I have a bad feeling about this. Let's back up."
+
+They did, just in time, as the chipmunks surrounded the embers in a circle. Then, as one, they blasted their fire into the ember pile.
+
+"They're feeding it!" Zach yelled. "We've got to stop them!"
+
+He started forward, but it was too late. The chipmunks had already completed their task and were running back to the burned-out forest, completely ignoring them.
+
+Meanwhile, the ember mound flared to white-hot fire that made them both stagger back again. In a moment, a dark shape formed in that fire, and the baby phoenix was reborn with a screech of triumph. The fire died down, along with the temperature, and the phoenix turned one smug eye toward Thomas and Zach.
+
+The men exchanged a glance.
+
+"Round two?" Thomas asked.
+
+Zach gripped his quarterstaff. He actually looked annoyed, which was the first time Thomas had seen that expression on him.
+
+"Round two," Zach agreed, and headed for the phoenix again.
+
+This time, he used his quarterstaff to aid in his fire manipulation, passing the fire back and forth between himself and the phoenix. Although he made it look graceful and easy, by the time the phoenix fell back into embers again, Zach was panting with his hands on his knees.
+
+"Good job," Thomas said, slapping him on the shoulder as he passed. "I'll take it from here."
+
+During the fight, he'd taken the opportunity to grab a long charred branch from the forest. Now, stretching out his arm as far as he could to keep away from the heat, he used it to poke into the embers. In the middle was a glowing red fire jewel about the size of the phoenix's head.
+
+The heat was incredible, and even though Thomas was a good seven feet back, it felt like his eyebrows might burn off. There was no way he could pick it up, not even with his minor healing.
+
+Zach came over. "What is that?"
+
+Thomas squinted and accessed his system—he had to remember that he could use that now. The tag popped up.
+
+"Juvenile Phoenix Core, apparently."
+
+"Nice. What's it worth?"
+
+"The question is, how do we even pick it up—Oh shit." He caught a flash of movement out of the corner of his eye and turned to see tiny dark shapes darting out of the burned forest. "The chipmunks are coming back."
+
+"Well, they're gathering in one place now," Zach said grimly.
+
+That wasn't a bad idea.
+
+Zach and Thomas tried to kill as many of the chipmunks as they could before they could gather into the circle. But the chipmunks were quick, there were a lot of them, and there were only so many times Thomas could bring down his maul and Zach his quarterstaff.
+
+Eventually, enough had gathered around the mound of embers. When they began to fire, the heat drove Thomas and Zach back to the edge of the meadow.
+
+Thomas watched as the phoenix was reborn a third time.
+
+"Well, shit. I think we do have to kill all the chipmunks first. That's the key to this dungeon."
+
+Zach was breathing hard, leaning against a charred tree like he had just run a marathon. "I don't know if I can face that bird again, man."
+
+They could just call it a day and go to the exit, but Thomas wasn't ready to give up yet. Zach had a point earlier. This was a fire healing creature, and he couldn't just walk away from that.
+
+"One more time," Thomas said. "I'll help."
+
+Zach snorted like he'd made a joke. "How can you help?"
+
+He gestured to his penknife. "You haven't seen this work yet. I'm not just a healer, you know."
+
+"You only play one on TV?" Zach asked with a smile, then straightened. "Okay. Third time's the charm."
+
+They headed for the phoenix together, though Thomas stayed back as Zach caught the oncoming stream of fire again and twisted it around once more.
+
+This time, he was visibly struggling. The ribbon of fire wobbled dangerously as if he were on the verge of losing control. With a shout of power, he sent it back toward the phoenix, then collapsed on one knee.
+
+But he didn't allow the back and forth. The fire immediately twisted around the phoenix and then warped into a vortex. Zach was clearly throwing everything he had into this fight to end it quickly. The temperature dropped as all the heat was immediately reflected back onto the phoenix.
+
+This was his moment. Thomas ran forward.
+
+Despite the fact it was about to be cooked, the phoenix shifted its gaze toward Thomas and breathed out another gout of fire. The flames managed to break free from the vortex, but Zach caught it just in time, spinning it back.
+
+Zach yelled, "I can't hold it!"
+
+Around the phoenix, the vortex of fire wobbled like a top about to fall. The phoenix must have sensed its chance because it began to rattle again with warning ignition.
+
+Desperate, Thomas pressed the button on the penknife to flick out the needle, then threw it right at the phoenix. He'd never tried a move like this before and fully expected the weapon to bounce awkwardly off or, worse, ignite into flames.
+
+The throw still went a little wide but managed to slice into the bird just above the leg. Instantly, the ghost of a chipmunk erupted into being and started to claw all over it.
+
+The phoenix let out an undignified squawk, and the fire it had been about to unleash was interrupted. It danced in place, flapping its stubby wings and trying to dislodge the ghost. That was when Zach's fire collapsed into smoke.
+
+Thomas rushed forward and brought down his maul, aiming for the phoenix's neck. The phoenix died again with one strike and collapsed into embers. This time, as it hadn't been fed with the energy of another person's reflected fire, the heat radiating off it was just on this side of bearable.
+
+Not wanting to mess around, Thomas brought the blade down again onto the center of the embers. It struck something hard, and he heard the sound of glass shattering as the Juvenile Phoenix Core was destroyed.
+
+At once, the embers, the heat, and everything went out. Only ashes remained... and loot.
+
+"Whoa, you killed it for real," Zach croaked, staggering back to his feet on wobbly legs.
+
+Thomas moved to help, but Zach waved him off.
+
+"No, I just need a minute. Man, I could use a drink of water. That boss dehydrated me like you wouldn't believe." He brightened. "What'd it drop?"
+
+"What indeed?" Thomas said with a grin. Together, they examined what lay on the ashes. Overall, it was a good loot haul. Two B-grade healing crystals sat on either side, and between them stood a red mana crystal the size of Thomas's fist. Its color was so deep that it looked like blood. Definitely an A-grade.
+
+But the real treasure sat on top of it.
+
+"We got a skill shard!" Thomas announced, holding it up.
+
+He looked around and noticed that wasn't all. There were also the chipmunks they had killed in the last round. Almost every one that Thomas had killed had dropped a crystal. About half of Zach's had, too.
+
+"Don't forget these." He quickly scooped them into a pile, hoping that Zach hadn't noticed Thomas's remarkable loot drop. He managed to grab the crystal he'd put into his pocket earlier and added it to the mix. This was a make-or-break moment, and Thomas guessed it wasn't hard to imagine plenty of bad things happening in dungeons over loot splits. "Looks like we have twelve crystals in total: eight C-grade and four B-grade."
+
+"Well," Zach said, "We'll each take one of the healing mana crystals, and let's just split the rest down the middle."
+
+That made for an easy split. Thomas nodded, relaxing.
+
+"If you don't mind," Zach said, "I'd like that A-grade red, for obvious reasons. Though I'm going to have to find some seriously powerful whites to balance it out. It's a good problem to have."
+
+That left the skill shard. Thomas picked it up. The tag in his system read: Minor Ember of Life.
+
+"Look at this," he said. "My system just gives the title and no descriptions. What does yours say?"
+
+"My system? Oh yeah, I have that," Zach said, then his grin faded as he focused on it. "Minor Ember of Life? Uh... that's good, I think. But since it's minor, I don't think it's the type of thing that can save your brother's hand."
+
+"No," Thomas said. "And I don't want to chance it. We only get one skill shard per level, you know, and I already have a skill." He realized what he'd just said and paused, wincing. "I'd appreciate it if you didn't share that around."
+
+"With who?" Zach said with a laugh, gesturing around. "Your secret's safe with me, bro. But just because you get a skill doesn't mean you have to use it. I don't want it, either. I'm doing fine without skill shards for now. Just want to focus on the mana, y'know?"
+
+Two impulses warred in his head: his greedy loot heart (probably the reason why he'd gotten a Gift like what he did) and his sense of fairness.
+
+He let out a sigh.
+
+"Look, the fact is that you did most of the work here and kind of carried me through this dungeon. Let's just split the profit from this shard. I'm going to go to the Reno auction, see what I can get for it."
+
+"You sure?"
+
+"Well, now that I know what to expect, I'm going to run this dungeon again," Thomas said. "Though not without drinking, like, a gallon of water."
+
+"I hear that. And yeah, sure."
+
+Plus, if he was working alone, he wouldn't have to worry about his loot drops.
+
+They made their way to the exit door and the reward chest located in the exit room. The loot wasn't spectacular, likely because Zach had done most of the killing and they hadn't completely cleared out the dungeon. Still, they picked up three more B-grade red crystals and one more B-grade healing crystal.
+
+Thomas kept the healing crystal and just gave the reds to Zach.
+
+As they left, Zach said, "You don't mind if I run this dungeon again?"
+
+"No, of course not. Run it as many times as you want. Just be careful."
+
+Before they parted, Zach mentioned he wouldn't mind going to the dungeon, so Thomas arranged to pick him up around ten the next day so they could head down together. Unsurprisingly, Zach didn't have a reliable car.
+
+Thomas liked the guy. They could even be friends.

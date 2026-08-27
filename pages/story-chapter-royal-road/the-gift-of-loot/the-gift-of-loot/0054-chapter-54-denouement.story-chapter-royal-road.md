@@ -1,0 +1,53 @@
+---
+id: 97b4be9c-af23-59f9-b3e8-ef07c7f60abb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 54: Denouement"
+slug: 0054-chapter-54-denouement
+partOf: the-gift-of-loot
+position: 54
+ownLength: 480
+unit: words
+publishedAt: 2026-07-12
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3667164/chapter-54-denouement"
+royalRoadId: "3667164"
+---
+
+"Hey," Thomas said, coming to a stop in front of two Army National Guard guys who were guarding the entrance of the dungeon. "I know you two. You were guarding the Demon Chicken dungeon."
+
+"That was us. Nice to see you again," the older Army guy said.
+
+"Oh yeah, I was thinking you looked familiar," said the younger one.
+
+Thomas looked at the sign that someone had posted near the violently purple and pink entrance, labeling it the "Man-Eating Unicorn Dungeon." "So is this a promotion, or did you get in trouble?"
+
+The younger guy puffed up. "It's totally a promotion."
+
+"One dungeon's as good as another," the older guy countered. "But it's nice to still be at a dungeon that doesn't have a long line. I think I'd go nuts at the Octopus' Garden."
+
+"Yeah, that one. I saw the wait the other day, it was insane," Thomas agreed.
+
+The older Army guy looked him over. "Gotta be honest, I'm surprised to see you. I remember when you got out of that first dungeon, you were as white as a sheet. Didn't think you'd be diving again so soon."
+
+"Oh," Thomas said, "I think I've kind of come to like it." He hefted his halberd, returned to him by the very grateful Ross-Astor family. "And I've heard some fun things about this dungeon, so I wanted to give it a try."
+
+"If you've heard fun things, then someone was pulling your leg," the older Army guy said. "But... it's your funeral."
+
+The younger guy came up and asked him the usual questions: Name, social, date of birth, that sort of thing.
+
+Thomas gave it easily, though he wondered how long the world as he knew it would keep chugging along on its inertia. Already, things have changed... and so much was falling apart.
+
+Well, that was a problem for later. Tonight... he had a date with an elven dungeon.
+
+He, Zach, and Jo had gotten together, brainstormed, and figured out the first dungeon that they wanted to dive on Aether. But the portal wouldn't be opening until tonight, and he had a day to kill, so he figured, why not man-eating unicorns?
+
+After all, Ashton was going to be turning fifteen before the full Integration, and he would need to know which local dungeons were worth it.
+
+As Thomas waited for the next ten-minute slot to tick over, he glanced over the printed guide for what to expect.
+
+It was Level 1. Whatever was inside, he could handle it. Mostly, he was here for the weird loot that the drop table promised.
+
+The clock ticked over, and it was his turn.
+
+Resting the weight of the halberd on his shoulder, Thomas walked in.
+
+______So that's the end of that arc and book 1! Again the next chapter, which is the start of book 2, will be this tomorrow, Monday.

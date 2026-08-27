@@ -1,0 +1,223 @@
+---
+id: 77bf7e13-16c4-52cd-b500-bd6d6c3c2ea8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22: Finding Balance (And Loot)"
+slug: 0022-chapter-22-finding-balance-and-loot
+partOf: the-gift-of-loot
+position: 22
+ownLength: 3098
+unit: words
+publishedAt: 2026-05-12
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3387112/chapter-22-finding-balance-and-loot"
+royalRoadId: "3387112"
+---
+
+Thomas stood in the middle of yet another cleared room, breathing hard with the katana loosely in his hand. Then, with a groan, he leaned over and raked his fingers through the goop of the mimic he'd just killed. His hand struck something metallic and round, and he picked it up to hold it uselessly in front of his face as if there were light to see.
+
+It was... a pocket watch?
+
+That was weird. There had to be some trick to it, but he had no idea how to find out what it was. Well, if he ever found a top hat and a monocle, he could be the Monopoly Man.
+
+With one last pass to make sure that the final mimic had not also dropped any crystals, he added his snazzy pocket watch to his backpack of holding. He had to shift it around a little to make sure his new loot settled comfortably around all of the crystals and other things he'd picked up.
+
+This wasn't his first item drop.
+
+He had been going through the mimics for... well, he had no idea how long it had been, since he couldn't tell time. (Maybe that was why the dungeon took pity on him and dropped a pocket watch.) After clearing out the ballroom of mimic infestations, he'd gone through at least three other rooms, methodically hunting every mimic down. That made for plenty of chances for rare drops.
+
+There was what he thought might be mimic skin, or at least some kind of greasy fabric that was folded over. He'd picked up what was either a marble or a mimic eye and had wiped it off as best he could before putting it in his backpack. He'd also gotten another knife, this one shaped much like a butcher knife. It didn't have a sheath, so he hoped it wouldn't cut through his nice new expensive backpack.
+
+Oh, and he'd collected an approximate metric butt-ton of mana crystals. He'd lost track of counting them a long time ago. Aside from the semi-occasional zings from Adaptation mana, he had no idea what colors he had.
+
+Thomas turned to the wall and tiredly ran his hands along it until his fingertips found a change, a seam followed by the feel of wood. His new healing-sight did not tell him where doors were. It also didn't help with real pieces of furniture, of which there were actually a few. He had barked his shin a couple of times already while his hands were full with the katana.
+
+Anyway, he found the door and opened it, already pushing his healing-sight forward to learn what he was going to be facing next.
+
+Intense, bone-dry heat rolled over him, making him wince away. That was like being blasted with a giant hair-dryer.
+
+And his healing-sight found... Zach?!
+
+It also found about twenty mimics surrounding him.
+
+Thomas's first jolt of surprise was followed by relief and happiness that the guy was somehow alive, and maybe more than a twinge of guilt because... Oh no, did that mean that he'd left him behind?
+
+Then he properly took in the scene, and his wash of relief was replaced with confusion and growing concern.
+
+Zach was burning at the far end of the room.
+
+Not metaphorically. He was absolutely hemorrhaging fire in every direction. To Thomas's healing-sight, he looked orange with heat and white-hot at his core, which was a new development for Thomas as apparently he had color-healing vision... and probably not a good sign for Zach.
+
+And the mimics surrounding him were shaped like people. All of them stood in place like statues. None of them moved as Zach rage-burned through one after another. The flames were so hot that only a wisp of smoke was left behind before they were gone. The moment Zach moved on, another mimic was generated from somewhere off to the far left side of the room, where Thomas could sense a really, really big presence.
+
+Zach let out a roar that sounded like crackling fire and burned yet another one to a crisp. His life signature became that much more orange, the white growing a touch more as if it longed to engulf him.
+
+What the hell?
+
+Thomas jogged forward, making sure to avoid the mimic shapes. It wasn't hard. They were just standing there, unmoving. Meanwhile, even from this far away he could feel the heat radiating from Zach.
+
+Finally, he crossed the threshold to where light wasn't swallowed by the darkness, and Thomas got his first look with his actual eyes.
+
+Zach was barely recognizable from the man he'd been. His shirt had burned away, and the skin underneath had turned the deep red-black of cooling lava, or of a severe burn victim, then cracked all over with lines that glowed orange beneath. His eyes glowed red like a demon's, and his mouth was open in a snarl as he shot another blast of fire at a woman in a dress who stood still, placidly staring at him.
+
+She dissolved into cinders, and then Zach turned wild, possibly not sane eyes toward him. His breath heaved like living bellows, as if he was desperately stoking a raging fire within. Or maybe trying to control it.
+
+"Zach—"
+
+The blast of fire came at him before he could finish.
+
+Thomas dove, and the heat passed over him close enough to blister the back of his neck. He rolled, reaching up to pat himself just to make sure none of his clothes had caught on fire, then shot up to his feet.
+
+Zach made no move for a second attack. His head was tilted, and he was just staring at him. Then, in a voice that sounded like it was dragged over gravel, he said, "Mana... man?"
+
+Zach had called Thomas that once. Maybe it proved that some of him was still in there.
+
+"Yeah," Thomas said. "It's me. Don't do that again."
+
+Zach immediately took a step back, hands up to ward him off. "Burning," he husked.
+
+Yeah. He could see that. Zach's skin looked like fourth-degree burns, if those were even a thing. How the hell was he going to heal this? Was it even survivable?
+
+"I know," Thomas said. "Listen to me—"
+
+Thomas stopped as another mimic stepped into view. This was a young man in his mid-twenties wearing National Guard gear.
+
+Seeing him, Zach snarled again and unleashed another wild gout of fire. The guardsman disappeared without any expression.
+
+And the fire inside Zach intensified another degree, and he sucked in air like it was a limited resource, his nostrils flaired. This couldn't be sustainable.
+
+"Zach," Thomas said in the controlled tone that people used when speaking to seriously angry animals or crazy people, "I need you to stop burning mimics. Can you do that for me?"
+
+Zach twisted back around to him, looking surprised as if he'd forgotten Thomas was there. He made a sound that might have been an answer, except it burned up somewhere in his throat.
+
+It didn't sound like a yes, so Thomas pressed the issue. "Come on." He crossed the distance between them. The heat rolling off Zach was so intense that he absolutely could not touch his skin. It was like standing right next to a bonfire. Thomas gestured back in the direction of the door. "I need you to come with me."
+
+Another person-shaped mimic stepped into view. This time it was an older man wearing a sweater vest. Zach started toward him.
+
+"Zach!" Thomas reached toward his shoulder, then hurriedly jerked his hand away. He hadn't touched him, but his palm stung from the heat. Luckily, Zach had seen the motion and turned back to him. "We have to get out of here. Trust me on this."
+
+Zach grimaced, ran his hands back through his hair—which somehow hadn't burned—then nodded.
+
+Somehow, Thomas was able to usher Zach back through the room. None of the mimics attacked. They seemed more than happy to let Zach self-destruct by attacking false monsters. Thomas was certain that the giant presence he felt had to be the boss mimic. It didn't move, but Thomas could practically feel it watching.
+
+Finally, they exited to the room Thomas had just cleared, and he firmly closed the door behind them.
+
+Now that Zach was lighting the way, Thomas could see the mess he had left in the room. There was mimic goo everywhere. On the plus side, there wasn't much for Zach to burn.
+
+"What happened to you?" Thomas said. "No, wait. I don't care. What's wrong with you?"
+
+Zach was not a happy camper. He was still breathing in huge gusts of air as if stoking a fire inside. He paced around, balling and unballing his fists, every line of him looking tight and angry. Thomas got the uncomfortable impression that he desperately wanted something to set ablaze and was equally desperate to avoid making it Thomas.
+
+"Fire," he bit out.
+
+Yeah, Thomas could feel that, and if he had any real healing ability, he would be pumping it into Zach because none of this was healthy. How was he not in an unspeakable amount of pain right now?
+
+Through his healing-sight, he took another hard look at him. It was like he had absorbed the fire into himself. No, that was wrong. It was like he had an overgrowth of fire inside him.
+
+Wasn't the guy always talking about balance?
+
+Thomas's eyes widened, and he reached for his backpack, shuffling through it. Thankfully, among the colorful crystals he could now see, at least some of them were glowing white.
+
+"Think fast." Thomas tossed an air mana crystal to him.
+
+Zach automatically caught the crystal in a clawed hand that had flames licking off the fingers. Unfortunately, the air mana crystal had no chance whatsoever and evaporated.
+
+"Useless," Zach bit out, then growled something else and shot fire at the far wall. "Fucking useless!"
+
+"Okay," Thomas said, with forced calm, "Not air then." Somehow, Thomas got the funny feeling that throwing another healing crystal at him—he had picked up at least two more during his mimic hunt—would not work either. "You are seriously out of balance."
+
+"Yes," he agreed with a smile that looked a little unhinged.
+
+Air, water, earth, and fire were all level one crystals, the basics. Whatever was going on with Zach was above that. What about...?
+
+Thomas grabbed one of the Adaptation mana crystals. "Then try this. I don't know what it'll do, but at this point it can't hurt."
+
+Thomas tossed him the crystal, and this time Zach consciously caught it and looked surprised, as much as a volcano demon/severe burn victim could look surprised. The crystal didn't evaporate, and it cycled from Thomas's rose-gold to a dark, angry red. That was probably not good, and Thomas told himself this was not more fire mana.
+
+"Absorb it," Thomas barked.
+
+Zach did. It jellified in his hand and seeped into his skin.
+
+Something definitely passed over Zach. Thomas saw it physically and also with his healing-sight.
+
+With his eyes, he watched some of the orange drain out of the cracks in Zach's forearms. With his healing-sight, he saw a glittery sheen pass over the fire before it dimmed just a little.
+
+Zach held out a fire-cracked hand. The tips of his fingers looked unburned. "More."
+
+Thankfully, Thomas had quite a few.
+
+He guessed that these were at least C-grade crystals, and they were definitely level one since this was a level one dungeon. Sometimes, though, quantity had a quality all its own.
+
+Every crystal that passed through Zach dimmed the orange further, and thankfully, his skin seemed to re-knit itself, though Thomas was certain that Adaptation mana didn't have any healing properties. Something else was going on.
+
+"That's... a lot of crystals," Zach rasped out, apparently back to several-word sentences. "For one guy."
+
+They hadn't even dented his crystal haul. "This dungeon was unexpectedly good for me," Thomas said, then handed him another.
+
+Finally, on his eleventh Adaptation crystal, where the orange cracks had retreated nearly to his core and his skin was almost whole, Zach suddenly dropped to a cross-legged position. His breath had gone from heaving and trying to stoke a bellows to controlled and almost meditative.
+
+Then he turned his head away from Thomas and breathed out a long, careful jet of fire. That was a lot of fire, but with every breath, Thomas saw the inner fire cooling down more and more. He was venting it.
+
+And he looked human again, though wan and exhausted.
+
+Unfortunately, now that he was no longer literally glowing like a volcano monster, the light in the room went out.
+
+"Oh," Zach said in a voice that sounded almost exactly like himself, though as if he'd been screaming for hours. "That's better. That's way better." Thomas could still see him with his life energy and watched as Zach pressed the heels of his hands against his eyes. "Dude."
+
+Thomas crossed his arms. "Don't dude me. You scared the hell out of me."
+
+"I scared you?" Zach laughed, which turned into a cough that produced an involuntary flame from his mouth. "Sorry, sorry. There's still some in there. I'm getting it." He gave another controlled exhale of fire.
+
+"Tell me what happened back there," Thomas asked urgently, once the exhale ended. "I thought you were dead."
+
+"I thought you were dead," Zach laughed, rubbing at his eyes again. "Yeah, I fell through a trapped door and got stuck in a storage room. I couldn't get back up, and I thought you were lost in the dark." He exhaled, thankfully a normal breath. "I still had most of that A-grade crystal from the last dungeon. I knew it was stupid, that it would unbalance me like crazy, but I had to get through this dungeon somehow, and I needed the fire."
+
+"Speaking of, how can you do that with fire?" Thomas asked. "Why aren't you needing like a thousand healing crystals? Your actual body was burning."
+
+Zach let out a long sigh. "That's my Gift. 'You are your mana.'" Thomas could hear the quotation marks around the words. "So it wasn't my body, exactly, it was the mana. Because the mana is me, right? But fire is not something to play around with. I personally need air mana to balance it, or it's just..." He gestured vaguely at himself, though he couldn't possibly know Thomas could see him. "It burns, then it creates more of itself that burns and just eats you alive. I think others could get away with Earth to balance, but... nah, for me, it's air."
+
+"So if you took in too much water mana, you... what? Need to be carried around in a bucket?"
+
+Zach barked out a laugh that sounded painful. "I don't know. Maybe. But I've never really vibed with water mana." He looked up in Thomas's direction—well, in the general direction of Thomas. He was off by a few degrees. "Bro, thank you. I couldn't stop back there, and you pulled me out of it. But... how are you alive?"
+
+"I figured out how to push my healing mana outward into a new sense." Thomas knew he sounded smug, but why not? He deserved it. "I can feel living things, including mimics. So I cleared them out as I went."
+
+"Shit, that is so cool. And you're not even using your Gift? You just figured that out? Wait!" Zach suddenly stood in one fluid motion. "So you can see which of those mimics is the real boss? I was burning and burning them and coming up empty every time. I knew I was burning myself out, but that's part of the fire, man. It's almost impossible to stop once you start. I kept thinking I would get the real one, but none of them were. I think they were faces of people who were killed in here. Real twisted shit."
+
+"Yeah," Thomas said, cutting across the rambling. "None of them were. The real boss was off in a corner sending its minions after you. I think it knew what it was doing to you, and I think it'll change up tactics once it realizes you're not burning yourself up on cheap copies. Maybe have the people attack or something."
+
+"Shit," Zach said. "That's one smart level one boss; it has to be hella old. We got to kill it to finish this thing." He glanced in Thomas's direction. "So what's the plan, mana man?"
+
+Thomas took a breath and made a decision. "I want to kill it."
+
+Zach snorted. "Yeah, duh."
+
+"I want to kill it," Thomas repeated plainly. "The loot on that thing is going to be significant. I need to be the one who takes it down."
+
+Zach looked in his direction for a moment, and Thomas could practically feel the wheels in his head spinning.
+
+"Right," he said. "Okay. What do you need from me?"
+
+"Can you fight?" Thomas asked.
+
+Zach took a long moment before he answered. "I don't want to use my fire." He sounded a little sheepish. "I still need to purge a lot to get anywhere near to baseline, and... this mana you gave me? It lets me sort of work around the fire."
+
+"It's Adaptation mana," Thomas said.
+
+"Yeah." Zach looked thoughtful. "Yeah, that makes sense. But I don't want to tip back over the edge. Uhh," he felt around himself as if just realizing he was missing his shirt. "My bag with the quarterstaff is gone, too. Man, I just got that thing."
+
+"All right, take this." Thomas held out his katana.
+
+"Take what?"
+
+Right. He couldn't see.
+
+Thomas grabbed his wrist and slapped the sheathed katana into his hand.
+
+Zach's face registered surprise, and Thomas backed away as Zach unsheathed the weapon. Then Zach did a crazy figure-eight thing with the sword as if he were a master.
+
+"This is wicked. Where'd you get it?"
+
+In for a penny, in for a pound. "It was a loot drop, like all the crystals."
+
+"We have got to have a conversation about that later." Zach rolled his shoulders. "Do you have any more whites? I think I can absorb them now. Air mana is all about the agility and movement. With this sword, I could work with that." He grinned. "I can adapt."
+
+"All right." Thomas nodded, a plan forming. It was a stupid plan, but those were sometimes the best. "You can't see the mimics, but I can. Just listen and move when I say move."

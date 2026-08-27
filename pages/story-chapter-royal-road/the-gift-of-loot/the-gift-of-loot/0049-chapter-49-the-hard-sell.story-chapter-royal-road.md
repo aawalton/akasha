@@ -1,0 +1,277 @@
+---
+id: a9794139-a62a-5f93-96b7-f10da83d382b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 49: The Hard Sell"
+slug: 0049-chapter-49-the-hard-sell
+partOf: the-gift-of-loot
+position: 49
+ownLength: 4121
+unit: words
+publishedAt: 2026-07-01
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3618165/chapter-49-the-hard-sell"
+royalRoadId: "3618165"
+---
+
+Thomas gestured over to Jo, who was still sleeping on the daybed across the room. "Let's wait until she's up. I don't want to go over this twice."
+
+Zach grunted in agreement and levered himself into a sitting position. Then he paused, gaze turning inward. "Uh, what's with my mana? It feels... travelly?"
+
+"You couldn't absorb it unconscious, so you got the IV mana treatment," Thomas said and pointed. Apparently, Zach was still out of it enough to not clock that he was hooked up to an IV line. Only a little remained in the double bottles. "They added Teleportation mana to your mix."
+
+Zach's face lit up. "Dude, that is sick. Should I try it out now?"
+
+"No! Absolutely not," Thomas said, alarmed, half-rising from his seat.
+
+"What about a tiny teleport? Like, to the other end of the room?"
+
+"Are you out of your mind?! You...! You're screwing with me, aren't you?"
+
+Zach grinned, and Thomas sat back down.
+
+"I'm glad you're feeling better," he said with a roll of his eyes.
+
+Zach's grin faded into a half-smile. "Yeah, Mana Man. Me too."
+
+Their conversation woke Jo, who sat up, looking around. "How long was I out?"
+
+"Only a couple of hours," Thomas assured her.
+
+She nodded, stood, and without another word came over to hug Zach.
+
+Zach went very still as his usual easy charm fled. After an awkward second's delay, he patted her on the back. It looked like he was very much not used to being mothered.
+
+Thankfully, she pulled back and looked at him. "I'm glad you're okay. I thought that we lost you. Don't do that again."
+
+"Or at least, maybe a shorter teleport?" Thomas suggested. He had thought about reading Zach the riot act, but the man's sacrifice had gotten them away from the witches.
+
+Zach laughed and ran a hand back through his hair, still a little awkward. "I knew I'd only have one teleport in me, and I wasn't totally sure Jo's truck was far enough away from the coven. It felt like Reno was the same distance. I mean, I know it's not, but the skill was telling me Reno would take the same amount of energy. This teleport skill has huge range. So... go big or go home, right?"
+
+"I should have taken the skill," Jo said. "You are going to be ridiculous with it."
+
+Zach's sunny smile absolutely promised he would be.
+
+"Sorry I didn't catch you had a fever," Thomas told Jo, "or the poisoning, apparently."
+
+"I accidentally nicked myself with the sword when I was going after that wizard guy," Jo said, "and it wasn't your fault. You were busy triaging this one." She cast Zach another look, and Zach at least pretended to seem sheepish. Then Jo turned back to Thomas. "What happened after I fell asleep?"
+
+"Funny thing," Thomas started, then quickly recounted the deal he'd made to heal Zach and what exactly their new hosts were and why they seemed so creepy while in human disguise. He kept most of the healer revelations to himself, though. That was something he was still sorting through.
+
+Tellingly, Zach didn't bat an eye at the elf details. Jo's reaction was much more normal, as she gasped and asked, "Are you sure?" a couple of times.
+
+"Most fantasy races you hear about are part of the System," Zach confirmed to her, matter-of-factly, as if this wasn't some great revelation. "Knowledge about them has been seeded into our society to prepare us for the System. It started even before the first dungeons appeared."
+
+Thomas looked at him. "So, what do you know about Dark elves?"
+
+"Not a ton, honestly. I've met some Light elves at dinner parties when I was a kid. They're not great people," he said with a shrug. "If they'd been the ones following us, that would have definitely been a hit squad. I always got the impression that Dark elves were sort of their dumb servants. But that was all from the Light elves." He looked thoughtful, as if he'd just convinced himself. "Huh. Maybe we should hear what these guys have to say."
+
+Naturally, Jo was still fixated on the 'we're among aliens' bit. "So you're saying dwarves and... dragons are real? All that stuff?"
+
+"Yeah," he said simply. "Some of them may come to Earth, too, after the countdown's up. But... probably not a whole ton? I’m pretty sure early integration planets like ours are backwaters for the first few thousand years."
+
+She scrubbed a hand over her face. "I feel like I've fallen asleep and woken up in a Dungeons and Dragons game."
+
+"I've felt like that ever since I went into a dungeon for the first time," Thomas muttered. He wasn't that old in his opinion, but... he felt too old for this shit. His nephews would inherit this weird world and would acclimatize a lot better. His parents, probably not at all. His mom still had problems telling the difference between Wi-Fi and cellular data.
+
+Well, that was a problem for another day. Zach's IV had run dry, so Thomas went and removed it, then pressed a level three healing crystal on him. The vast majority went to waste as Zach couldn't retain healing mana, but he looked a lot perkier than before.
+
+"What time is it?" Zach asked, jumping down off the gurney.
+
+That was a good question. Thomas thought about pulling out his pocket watch, but wouldn't know at this point if it was AM or PM. That chook had completely reset his circadian rhythm.
+
+There was a window nearby with curtains drawn over it. Thomas crossed the room to see if it was at least daytime already. He pulled the curtains open... and stared.
+
+Behind him, he heard Jo say, "Hey, is anybody else's phone working? Mine says no service..."
+
+"Guys, funny thing," Thomas said, then just trailed off to stare outside again. He wanted to make a genuine "We're not in Kansas anymore" joke, but it just wouldn't come. He also couldn't tear his eyes from the very alien landscape: the bizarrely spiraled branches of foliage that ended in weird diamond-shaped, purple-reddish leaves instead of green. The houses which were built in trees that were bigger than anything he had seen in his life. A few elves in their normal forms could be seen walking on a path lit by bioluminescent mushrooms in the distance. The Dark evening sky had a thick white stripe of stars that was brighter than he'd ever seen in the Milky Way... as if they were closer to the galactic core.
+
+Earlier, he'd made a Home Tree joke because of the Na'vi resemblance. It turned out he wasn't far off.
+
+Jo and Zach came over and similarly stared out, struck dumb.
+
+Thomas licked dry lips. "I don't think it's Pandora, exactly, but we're definitely not on Earth."
+
+****
+
+"This isn't possible, this just isn't possible." Jo repeated, backing up from the window. She looked more freaked out than Thomas had seen her facing the gang members in the grizzly bear dungeon. Then again, she had left her hunting daggers and bloodthirst sword at her bedside. She looked at Thomas. "How could we have been taken to another planet? We were just in Reno!"
+
+"This doesn't look like an illusion," Zach said, leaning close to the window to peer out. "It has, like, depth and stuff." He seemed mostly intrigued. "And when I ask my skill about teleporting, I'm getting the feeling that Earth is a no-go."
+
+Thomas's reaction fell between his two teammates. Plus Jo had a great point: he would have remembered if he'd been taken into a spaceship and blasted off.
+
+At the same time, he didn't feel like this was a dungeon. He couldn't put his finger on why, but there was a subtle feeling in the air to dungeons that he was starting to identify. This didn't have it.
+
+He thought back to his journey through the convention center. Most of his concentration had been on maintaining the bridge to keep Zach alive, but one detail did stand out.
+
+"Hey, remember when we were walking through the back offices in the convention center and we went through a doorway and one of the hallways suddenly changed?" he asked Jo. "They became that sort of wood-paneled?"
+
+"Yes? Why?"
+
+"I'm guessing that was a point where we walked from Earth to here, wherever here is."
+
+"You didn't feel anything?" Zach asked, turning from the window to them.
+
+"What, like a Stargate whooshing us across the universe? No." He shook his head. "It was subtle."
+
+"So what does this mean?" Jo demanded. "I can't call my daughter to let her know I'll be home. She'll be worried sick. Are we prisoners?"
+
+Thomas suspected it was the fact that she couldn't call her daughter that most upset her. Damn it. This was supposed to be only a moderately risky dungeon run. She had been dragged along on a wacky adventure anyway.
+
+"I didn't get that impression from Akilah, the healer who treated you and Zach," he explained. "And I don't think prisoners would be allowed to keep their weapons." He nodded to her sword.
+
+"We're super low-leveled in the grand scheme of things," Zach said. "I don't think there's a reason to keep us prisoner. They just want to... talk?" He looked at Thomas, who nodded back. "So let's hear them out. Nobody said that we had to say yes to whatever they want. Or we can make going back home part of the deal."
+
+"What do the elves want?" Thomas asked. "You said that you met Light elves. What did they want from your family?"
+
+He tried not to badger Zach too much about his past, but this was an emergency situation.
+
+Again Zach shook his head. "I was just a kid. They wanted... business connections, I think? Maybe to establish a colony on Earth?"
+
+"They're taking over Earth?" Jo asked, looking like she couldn't handle many more surprises today.
+
+"No," Zach said, after a moment. "More like... an embassy? I'm sorry, I don't know, guys. These were old memories and I was busy with other stuff. They mostly had us kids fight their kids while they made business deals."
+
+"Whoa, they what?" Thomas asked sharply. "They had children fighting each other?"
+
+"You know, to see who had the stronger next generation or whatever. Everybody got healing afterward, but looking back, yeah, it was a little fucked up," he admitted. "One of those things that you grow up with and you don't realize until later, you know?"
+
+"That sounds like one of my daughter's Naruto shows," Jo said.
+
+"Yeah." Zach snapped his fingers and pointed. "You get it."
+
+Jo and Thomas shared a mutual, "What the fuck?" look.
+
+Thomas couldn't wrap his mind around full-grown adults wanting to watch children fight each other. This would have been way before any of them had Gifts. What point would that prove, exactly?
+
+"Well, we owe them a lot for the healing, but I ain't fighting children in a gladiator tournament," Thomas grumbled.
+
+"To be fair though," Zach said, "that was the Light elves’ whole thing. The Dark elves might be different." He paused. "Probably not though."
+
+Jo looked a little less freaked out but still very much unsure. "We just have to listen to them. We don't have to agree. I just... I just wanna go home."
+
+Thomas nodded at her in agreement, then looked askance at Zach. "So how'd you do in the children's bloodbath tournament?"
+
+"Oh, I won," Zach said with a smile. "Every single time. The elves hated it."
+
+****
+
+There came a knock at the door. They all exchanged glances, and Jo went to grab her sword as Thomas called, "One minute."
+
+He ended up answering the door. There was an elf on the other side. He was about Thomas's height and had a clerical look about him, with a vest and everything.
+
+"The elders are awaiting your arrival at the meeting, if your companions are able to attend," the elf clerk said, though that was more of a statement than a question.
+
+Clearly, they expected Zach and Jo to be up by now. Thomas wondered if the room was bugged or if the healer was just that good. Probably both.
+
+He looked at the others for confirmation. Getting it, he quickly grabbed his own backpack and nodded to the clerk. "Looking forward to it," he said, with completely fake positivity. "Let's go see what the elders have to say."
+
+To Thomas's minor disappointment, they were not led outside so he could take a look at the alien landscape up close and personal. Instead, they were led through another series of hallways, as if this were the office maze building from hell. Finally, with one last turn, they came to the door of a... conference room.
+
+A long wooden table dominated the room, a pitcher of what was hopefully water and not the elf equivalent of vodka in the middle, along with empty fluted glasses. Three older elves sat politely on one side. One was clearly a woman with her dark hair bound back and tiny glasses on her nose. One was a man, middle-aged but fit, and the third was Akilah.
+
+He was one of the elders. Thomas should have guessed.
+
+The three elves rose at their arrival, though no one extended a hand to shake like they would back on good old Earth.
+
+Akilah quickly ran through the introductions. The woman was named Vanya Ilsbane-Dottor and the man was Hathas Bylion-zon, and they were instructed to call them by their first names. Thomas quickly ran through his own introductions and advised the elves to do the same.
+
+Interestingly enough, he felt he might have made a faux pas, but he wasn't quite sure how. He got the impression that the elves were surprised for some reason.
+
+In any case, no one commented, and they took their seats. Jo on one side of him, Zach on the other.
+
+Hathas cleared his throat and spoke. "We understand that you've come to visit us in hurried circumstances. Though be assured, we already had hopes for this meeting. Indeed," he said, with a look at Thomas and Zach, "we had several agents attempting to tail you in order to establish initial contact and arrange a meeting."
+
+That would have been the so-called hit squad. Well, if they'd made contact, their uncanny human disguises would have freaked him out anyway. Plus, in hindsight, giving them the slip had been kinda fun.
+
+"Why us?" Thomas asked.
+
+Again, a slight ripple of surprise passed over their faces. Akilah, in particular, glanced at Zach before answering. "We thought it best to contact those who had embraced the new System first."
+
+Then the penny dropped.
+
+Oh. They thought Zach was the leader of this group. Probably because of his old family connections and the fact that he'd beat the shit out of elf children as a kid. Maybe that’s what they considered leadership material.
+
+Thomas wasn't sure how he was going to play this yet, but Vanya saved him the trouble by speaking first.
+
+"I believe before we go further, it would be advantageous for you to learn a little historical context."
+
+Jo broke in. "How are you speaking English? I don't even hear an accent on you. Have you been watching Earth for a long time?"
+
+"My dear woman," Hathas drawled, "what makes you think we are speaking English right now?"
+
+That gave them all pause, and to his slight disgruntlement, Thomas realized Hathas was right. If he concentrated hard, he realized that the elf's lips didn't match his words, but something had stopped him from fully realizing it.
+
+"Part of the System's gifts is the ability to communicate from one world to another," Akilah said mildly. "You will find that our world was once like yours, with many languages, but after the full System integration, we found that we could all perfectly understand each other."
+
+"Which circles back to my point," Vanya said. "The Terrans require context if they are to properly understand what we are asking for, much less agree."
+
+Hathas rolled his hand at her in a go-right-ahead motion, and Akilah leaned back, obviously giving her the floor.
+
+Vanya laced her odd-looking hands together in front of her and straightened her shoulders. Then she started to speak.
+
+"Five generations ago, our own world went through its own System integration. As on Earth, those few who were able to access dungeons early consolidated their power rather than using their advanced riches and knowledge to prepare society."
+
+"Do any planets actually get it right?" Jo asked with some asperity. "Does any society help prepare their people instead of taking the power for themselves?"
+
+Akilah spoke in a measured tone. "Roughly half. It is not a given either way."
+
+"However, there is one difference between your world and ours," Vanya said, pointedly seizing the conversation again. "Where you have one, our planet has four separate and distinct peoples: Dark elves, such as ourselves, Wood elves, Ice elves... and Light elves." There was a slight bite when she said Light elves. "In the decades before the integration, Light elves worked systematically to seed distrust within Dark and Wood elf communities. This came in the form of misinformation, manufactured scandals, and, ah, perceived cultural wedges."
+
+"Conspiracy theories," Akilah said heavily. "Eventually, people fell into the dirty habit of pointless belligerence and denial of facts itself that created nothing but argument and noise."
+
+Vanya gave him a look as if she agreed with their overall message but disagreed with the nuances. Then she continued.
+
+"By the time the System countdown began, Dark elf societies were fractured enough that a significant portion dismissed it as a hoax, doubled down on denial, or simply retreated into religion for answers they preferred to hear. The Wood elves suffered similarly, though not to such a degree." She heaved a sigh. "The outcome was that the Dark elves were disproportionately placed into the tutorial dungeon completely unprepared."
+
+Hathas took up the narrative. "Five generations later, we still suffer from that initial disadvantage. Light elves are ascendant, closely followed by Ice elves. Wood elves have finally started to gain some progress over the last several hundred years, but unfortunately our people remain subservient. We were, essentially, shattered."
+
+It was pretty damn easy to draw a parallel between the story the elders were spinning and what Thomas had seen in the protesters.
+
+"I'm sorry," Jo said, "what exactly happens now at the end of the countdown?"
+
+Thomas answered her quietly. "I just found out about it myself. If you don't participate by going into dungeons, the System will force you into one, give you a Gift that is meant for a support role, and then pop you out somewhere random on Earth so you can begin serving people who have been diving."
+
+"Understand that these are true support Gifts," Akilah said, as Jo rocked back in her chair trying to process that. "Not merely utility Gifts which are sometimes mislabeled as support. The non-participants are intentionally crippled so that they must lean on others to survive. While their children are given the opportunity for the usual Gifts, they do not have the advantage of an early start, or access to knowledge, tricks, and mana. The chances they become successful divers are low."
+
+"And even though it has been five full generations," Vanya said heavily, "our people have not recovered. The Light elves have all but ensured that continues. Our village is by far the best situated out of our people."
+
+Zach had been silent up to this point, but he did prove that he had a brain somewhere under all that fire when he said, "So you want to start a colony away from Light elf influence, am I right?"
+
+"Bluntly put," Akilah said, "yes."
+
+Oh... wonderful. Thomas couldn't think of a single time in human history where that had ever gone well for the less technologically advanced culture. "And what if we say no?" he asked tightly.
+
+Vanya smiled at him, and it turned out that Dark elves had pointed eyeteeth. Good to know. "Let me rephrase that. We are starting a colony. We aren't asking for permission. However, we would like human consultants to ensure there are fewer difficulties."
+
+"Other races are doing the same," Akilah broke in, with a quelling glance at her. "It is an extremely common practice. In several thousand years, when your planet is stabilized and the next is chosen for the next System Integration, your people will no doubt establish colonies of their own. I can see the look on your face, Thomas. The reason why we are asking for consultants is to best smooth the way for our new home. The situation with the uncanny valley disguises you mentioned, for example, can be avoided."
+
+"You said other races are doing the same," Zach said, in an almost bored drawl Thomas was starting to recognize as him at his most serious. "The Light elves, too?"
+
+At the mention of Light elves, Hathas curled his lip, Vanya leaned back, and Akilah nodded gravely. "I believe, being the scion of the de'Montvallon house, you are aware that their colony preparations are well underway."
+
+Still sounding bored, Zach shot back, "I know that siding with you would be siding against them."
+
+"Also in part against the Ice elves. I believe they are seeking to start a colony in your... Canadian Territory?" Hathas looked at Akilah as if making sure that was the correct phrasing. Akilah nodded, and Hathas went on. "The Wood elves are our allies, and they plan to set up a colony in your... San Diego area." The name came out correctly thanks to System shenanigans, but the expression on his face said that he still struggled with it.
+
+"Good weather for a colony," Zach said, deadpan.
+
+"We much prefer the one in your nearby mountain range," Akilah said, "which was another reason why we wished to reach out to you."
+
+Ah crap, they wanted Tahoe. Maybe Thomas could convince them that Incline Village was a better area instead. No one liked that place.
+
+"All this in exchange for what?" Jo asked. Her expression was about as sour as Thomas felt.
+
+"Five generations of accumulated understanding of gifts, mana cultivation, and System mechanics that your people don't have," Hathas said promptly. "Also, as part of the arrangement, you three would have access to level 4 and 5 dungeons on our world before Integration date. I trust you understand that building your cores with higher grade mana is more advantageous? Your world will be restricted to dungeons at level three or below until the full System integration occurs. Think about what being stronger than the average of your world would mean."
+
+Thomas's greedy loot heart sat up and took notice.
+
+Akilah leaned forward, earnest. "This is not some attempt at subjugation of Terrans. We wish to be long-standing allies to the people in your region. From what I understand of your biology, we have different comfort temperatures than you. Our colony would not be located where your existing cities are. As consultants, we want to hear from you to help smooth the way so we may learn about our new home. What Hathas says about rewards is true, but we also bring our assistance to convince as many humans as possible to enter the dungeons before the clock runs out. If there's any way that we can help nonviolently, we will."
+
+"Nonviolently?" Zach asked, a beat before Thomas could.
+
+Akilah smiled slightly. "We are restricted by the System. It is a reason why I was only able to treat you with level 3 mana. Any adult with a Gift cannot attack or interpose unduly on your planet. I cannot give you over level 3 items or mana... though of course you can certainly earn those yourselves through your own efforts, which is why we offer open access to our dungeons."
+
+"I understand that you have no reason to trust us," Vanya said, and damn it all, she actually looked earnest. "We have time, as we cannot actually start the colony until after Integration Day. That, too, is imposed by the System. Until then, you would have access to our dungeons on this planet. Take the time to dive and ask questions of our citizens, and see for yourselves if what we have told you is true."
+
+"We do not ask that you give us an answer right away," Hathas added.
+
+Which was damn good, because at that moment Thomas had no idea what he was going to do.

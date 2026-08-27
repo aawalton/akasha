@@ -1,0 +1,65 @@
+---
+id: aa42edf6-7644-5d38-b502-5b952d51acd4
+page-type-slug: story-chapter-royal-road
+title: "Newspapers extracts from the ‘Harrakan Gazette’, 127 years after the rise of New Harrak."
+slug: 0164-newspapers-extracts-from-the-harrakan-gazette-127-years-afte
+partOf: the-calamitous-bob-stubbed
+position: 164
+ownLength: 908
+unit: words
+ownProgress: 908
+publishedAt: 2025-11-18
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2771768/newspapers-extracts-from-the-harrakan-gazette"
+royalRoadId: "2771768"
+markedReadAt: "2026-06-29T21:20:19.174Z"
+---
+
+Dusk Wings to succeed High Lady Avarice as Director of the Imperial Central Bank. Interest rates raised by 50 base points.
+
+It has been forty days since Her Majesty left aboard the explorer ship ‘Voyager’ on her journey to the west, claiming ‘There’s a big landmass across the Endless Sea and I’m gonna find it’. In the wake of High Lady Avarice’ ascension to the role of Regent, the position of Head of the Imperial Bank remained empty. Yesterday, the council voted Dusk Wings on a Cloudless Night Sky as her replacement. This marks the second dragon to obtain a senior position in the imperial administration, sparking a series of questions and challenges in the senate regarding the growing draconic influence over the conduct of Harrak. In an apparent effort to dispel fear, Dusk Wing shared a statement with the Gazette.
+
+“The species of a servant of the empire is secondary to how well they can fulfill their role. Hadals, yries, kark, and merls already participate actively in the state’s apparatus, albeit at lower ranks. What matters the most is that we are all in this together and that I will endeavor to be the best director I can be for the prosperity of Harrak.”
+
+His first decision as acting director was to raise the repo interest rate by 50 points, a decision long expected of High Lady Avarice. The move immediately drew the ire of Grand Duke Anlo of Senlis.
+
+“This move comes at a time when we should be looking to expand and fuel our great industries. The dreams of many a prospective entrepreneur will be dozed by this administration’s callous fears. We will appeal the measure.”
+
+Dusk Wing had an answer ready, however.
+
+“My first duty is to the people whose savings are at risk as the economy shares clear signs of overheating. Those who overextended are not, and will never be our priority.”
+
+The gazette was able to independently verify that the Grand Duchy of Senlis, on the frontier, had recently borrowed large sums for risky ventures. Their ability to refinance will certainly be impacted by the measure. As for Dusk Wing’s bonded, Head Instructor Solar of Eron confirmed he would not step down from his position at the War Academy.
+
+“Training will continue as usual.”
+
+We wish both of them the best of luck.
+
+The End of the Frontier?
+
+Retired Grand Vizier Bes is expected to release his new work, “The End of the Frontier?” in the coming days. The Gazette obtained an early copy (still fresh from the press!). In this thoroughly researched opus, Lord Bes argued that we will see an end to free, highly desirable land within the next 50 years which will put an inevitable stop to the Free Land Deal that has characterized New Harrak since its creation. New Harrak must plan for this inevitable paradigm shift. While Lord Bes has not offered a firm solution, he suggested other avenues of approach such as large-scale sea exploitation using the empire’s abundant timber resources.
+
+As a side effect, golem recharging has become a logistical issue that remains to be addressed in a systematic manner. Solfis Junior recently announced a new initiative to provide financial incentives to volunteer helping with charging stations.
+
+Nemeti sightings in the Colonies.
+
+Colonial authorities report the burning of at least three villages in the Pranth principality, marking the likely third resurgence of the Nemeti since the liberation of the region one hundred and fourteen years ago.
+
+The ‘Child of Destiny’, General Maryn, Hero of the East, has already flown there with Last-Scale-They-See in anticipation of a new expedition. Despite the army’s best effort, the isthmus remains too dangerous for travel or, indeed, for permanent bases, forcing troops to be carried by ships rather than rails. It is likely the colonial legion will have to face the danger alone. The Ministry of War has expressed full confidence in General Maryn leadership considering she has defeated every Nemeti incursion thus far, but their abandonment of fate magic has made them a more dangerous and unpredictable foe. The admiralty confirmed they would provide full support as well as reinforcement to Sorelia as soon as feasible. We wish them success.
+
+Baran City’s wine market!
+
+The Autonomous Kingdom’s yearly tradition will begin next week! Thousands of revelers are even now making their way to prepared hotels, with record participation expected this year.
+
+The Baranese authorities warn against drunk teleporting incidents as last year, a Frostbay resident woke up in Halluria with a bloody sword, a naked hadal girl, two standard issue train brake levers and no underwear.
+
+Dean Rakan to open a new partnership with the Free University of World’s End.
+
+The Head of the Academy continues his work to improve cooperation between both centers of learning following the final ascension of the Azure Lady.
+
+Solfis to move the Green Edge for the Deadshield Woods hunting season.
+
+The flying fortress will travel to the frontier to assist with spring’s monster hunt.
+
+Beastling games.
+
+Spring marks the beginning of the beastling camps as hundreds of thousands of exhausted parents send their children to the frontier for the traditional event. For the second time, the hadal organizers had to hire outside help to protect everyone. Last year, three more cruelty rules were added to the list, bringing the total to 156. We salute the efforts of Lydia from Zazas for her innovative suffocation tactics. What will those little monsters think up next?

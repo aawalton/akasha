@@ -1,0 +1,257 @@
+---
+id: 3585a9fa-0388-5b30-9ef4-4052f685c2fc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 60: Purge"
+slug: 0060-chapter-60-purge
+partOf: the-gift-of-loot
+position: 60
+ownLength: 3309
+unit: words
+publishedAt: 2026-07-24
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3720757/chapter-60-purge"
+royalRoadId: "3720757"
+---
+
+The house was quiet except for the labored breathing of the dying woman in front of him.
+
+Meanwhile Thomas' veins practically sang with the power of Adaptation mana. That had been some potent stuff. Earlier, he had absorbed some Wellspring mana. Much of that had already attached to his core, but if he concentrated, he could sense plenty of free-floating Wellspring motes in his bloodstream.
+
+They were both bright points of white light, but even with the blazing power of the Adaptation Mana, the Wellspring outshone it. It also seemed to complement the Adaptation. As far as he could tell, Wellspring strengthened and renewed other types of mana, while Adaptation expanded the abilities of other mana types.
+
+So Thomas added the third ingredient: Healing mana.
+
+In a perfect situation, he would have level 4 Healing mana on hand, but oddly none had dropped from the griffin dungeon. He had a single level 3 crystal and two level 2s.
+
+It didn't matter. He suspected that he would be burning up the power in all the healing crystals well before they would have a chance to attach to his core.
+
+So Thomas absorbed the level 3 Healing crystal, gasping and curling over himself: over his core. He felt like he was burning inside with power.
+
+“Fuck,” he muttered. He had two accelerants flooding his body and he just added flame. His Healing mana was only level three but it felt strong. For lack of anything else to do, it went to work on bruises that he didn't even realize he had, both from the dungeon and the high-level elf and his grabby hands.
+
+Oh, and also he had no idea what to do with all this power.
+
+So he started with the basics. Thomas placed flat palms on either side of the venom wound. Then with his health sight on, he studied it.
+
+It was a roiling mass of dark and sickly green-brown. Even without the softball size chunk of necrotic flesh to clue him in, it was obvious there was definitely something wrong here.
+
+He could rebuild the leg using his Living Architecture skill, but the body tended to swell around such wounds for a reason. It helped restrict the blood flow and keep the venom contained. If he removed that and replaced it all with healthy new flesh, all of the venom would be free to flow around the rest of her body. Then Prinna would very quickly die.
+
+He needed to neutralize it, but how?
+
+He certainly didn't know the first damn thing about alchemy, and his old Chemistry 101 lessons from community college were way behind him. Not that he had the ingredients on hand anyway, or even knew what a chula-viper was other than, possibly, a snake.
+
+If he didn’t figure this out soon, he would fail her.
+
+Thomas closed his eyes, and firmly told himself to calm down.
+
+For lack of any other idea, he sent healing motes from one hand, just above her knee, to the other above the wound. He was very, very careful because, again, he did not want to actually heal this flesh and release the venom to spread through the body.
+
+Some healing went on anyway, but he could hardly stop it. Most of the motes were caught in his other hand, and he found his health sight sharpened.
+
+He could now see in vivid detail the horrendous damage that had been done to her skin, muscle, and nerves... Oh wow, and the venom was actually trying to eat into the thigh bone itself. This was nasty stuff.
+
+He was surprised that her organs were still functioning while under attack, but perhaps only a bit had slipped past the tourniquet so far. All the more reason not to release this crap into the rest of her body.
+
+If only there was a way to tell her immune system to kill the venom. Did elves have immune systems? They must. Immune systems were in the, what, lymph nodes?
+
+He was such a bad healer. Then again, a month ago he had been an assistant to a paralegal in family law. He was trying his best.
+
+His best wouldn't save her. He had to be better than his best.
+
+Using his new Advanced Health Sight, he found what he suspected were lymph nodes. They were also in dire condition, some of them actually melted by the venom, and the little cells in there were going crazy like a kicked-over ant hive. Her body was trying to figure out what the fuck was happening. Or at least that was how he interpreted it.
+
+He had no way to reach them, though, or let them know, "Hey, you know that shit that's melting the rest of the cells around you? Yeah, spit out the correct antibodies for that.."
+
+Thomas reached for his Living Architecture skill, but manipulating things on the cellular level was just way, way beyond him.
+
+Neutralizing the venom using her immune system was out.
+
+So what else?
+
+Maybe he could wash the venom out? No, he had no idea how to begin doing that, and not, say, wash out her blood at the same time. He had no access or strong connection to Water mana anyway.
+
+Same went with burning it out. Even if he wanted to call Zach in and risk having him directly involved, burning the venom would probably be catastrophic for the rest of the body.
+
+Jo had Poison mana, so she might have insights. Except that she had accidentally poisoned herself one time, had no healing ability, and Thomas didn’t want to put her in Sateryn's crosshairs if things went wrong. He had directly threatened her once.
+
+His Wellspring/Adaptation/Healing mana mix thrummed in his veins, straining to be used to help this poor lady. He had an insane amount of power at his fingertips and no idea how to use it.
+
+Was it possible to just keep healing her and rebuilding her body until the venom finally gave out? This stuff had a half-life, right? He had no idea what it was, but nothing lasted forever, and Thomas was practically bursting with power.
+
+As a last resort, he could use the bridge and breathe for her and force her heart to beat. But if her brain gave out, then he would be keeping the body alive on magical life support for no reason.
+
+The bridge did lend support to her immune system, but Thomas's body had no idea how to defeat the venom either, so that wouldn't help.
+
+"Dammit, dammit, dammit," he muttered, overwhelmed and lost. He didn't even let himself think about retaliation to his teammates if Prinna died.
+
+No, he'd use every bit of energy in his body before he let that happen. He'd burn his own core past the layers for the energy if he needed to.
+
+A corner of his mind suspected he was having a pineapple moment, but he didn't care.
+
+What about ... purging?
+
+It was the same basic problem as convincing the immune system to spit out the right antibodies, but it was... simpler. If he could identify the venom, then convince her body that this toxic substance needed to go...
+
+Thomas concentrated on his health sight, sent more motes of health mana from one hand across the terrible venom wound to the other, and focused all of his will on the venom.
+
+Healing mana was meant to heal, though it did transmit some information back to the healer. Half-closing his eyes and taking slow, deep, even breaths, Thomas focused on expanding that function.
+
+He was definitely doing something. His Adaptation mana was draining faster than an 8-cylinder engine used fuel to roar up a steep mountain road.
+
+Grimacing, he grabbed the second of the three Adaptation crystals and absorbed that, too. This would really mess with his mana balance.
+
+The power of the level 5 crystal flooded through him, and he swore for a moment he could actually taste Adaptation.
+
+Unsurprisingly, it tasted sparkly.
+
+He also swore he could feel his mind expand, though he wasn't sure if that was actuality or more of a hallucinogenic type of way. He wouldn't trust himself to drive right now.
+
+So I'll just save a life instead, he thought and repressed a stressed out laugh. Anything seemed possible.
+
+The healing mores he sent through the wound seemed to tell him everything. Most of the information slipped through the sieve of his mind. He was dancing with high-level stuff and he didn't know the steps to keep up, but Thomas was focused only on the venom.
+
+With clarity that came from a possible overdose of Adaptation, he realized fully and truly, that venom was separate from her body.
+
+He already knew that, but there was knowing and then there was knowing.
+
+Ugh, I sound like Zach, he thought.
+
+He was also still burning through his Adaptation at an insane rate, which made sense because it felt like his entire mind was sparkling right now, but he only had half of the solution.
+
+He'd found the venom. Now what was Prinna's body going to do with it?
+
+Get rid of it, he thought, and reached for the final Adaptation mana crystal. All of it.
+
+He wasn't sure what happened in the next few seconds or minutes. Maybe an hour? All he could see were the sparkles. Anything and everything felt possible.
+
+Forget washing out the venom; he had practically washed out his third layer of his core with Adaptation mana. If he weren't burning it up almost as fast as it was going in, he'd probably be turning himself into an Adaptation mage with a slight healing aspect.
+
+While not a bad idea, it was probably not healthy to go through life thinking that all things were possible and then trying to do them.
+
+Nevertheless, some ideas were so crazy they worked. Thomas wasn't exactly sure how he convinced Prinna's body that the venom needed to go, post haste. He vaguely remembered putting a palm on her head, focusing on the deepest parts of her brain.
+
+“Purge,” he told her.
+
+So much Adaptation mana flowed through him he could see his fingers glittering with white gold, tinted with the fleshy gold of healing mana.
+
+Then something clicked and solidified in his mind, and Prinna suddenly started heaving.
+
+Thomas might be a little unhinged at the moment, but he wasn’t stupid. He dumped one of the nearby potted plants out and stuck the empty terracotta pot under her chin, just in time.
+
+Turned out, it wasn’t enough.
+
+Her body was going through an absolute rejection of the venom, and that meant through her pores, too. Green sludge began to appear on her skin as if she was sweating it out. Grimacing, he grabbed a top blanket and started wiping it away. He hoped this wasn't an heirloom or something because it was now thoroughly poisoned.
+
+And from the smell she wasn’t just throwing up.
+
+Then she started crying green venom, now tinged darker and darker with thick black sludge. It was dribbling down her ears, too.
+
+The door slammed open, and Sateryn took in the scene of his wife helplessly emptying her… uh, everything, looking and smelling a lot like death warmed over.
+
+The next second, Thomas was slammed up against the wall. His Combat Foresight didn’t even have time to warn him.
+
+Sateryn's hand was at his throat. He wasn't clamping down on his windpipe, though he dearly looked like he wanted to. "What is going on?" he demanded.
+
+“She's purging the venom,” Thomas said, then smiled right in the enraged elf's face. “She’ll live.”
+
+Though she may not want to for the next few minutes.
+
+____
+
+The next few minutes were some of the more awkward Thomas could remember.
+
+Sludge just kept coming out of Prinna, and the bed was toast. Luckily, they had a somewhat modern bathroom complete with a shower.
+
+Thomas and Sateryn helped her there, Sateryn glaring daggers at him the whole time like this was a creepy ploy of Thomas’s to get his wife naked in the shower.
+
+No. She was his patient, and practically gushing foul smelling grossness. Just… absolutely not.
+
+At least Prinna was alert enough to keep herself sitting upright on the bottom of the shower without assistance.
+
+The sludge had turned from green venom to a sticky dark black that stank worse than roadkill left out in the sun and it just kept coming.
+
+"How long will this purging last, healer?" Sateryn demanded.
+
+"As you know, the chula-viper is extremely deadly," Thomas replied, making up his answer as he went along. He would be more concerned except his health sight showed Prinna's life force as strong and growing stronger. In fact, now he was paying attention her life force seemed weirdly pure. "Just keep the shower head spraying on her. This will pass."
+
+Thomas was feeling more like himself after absorbing the other two healing crystals. Yes, they were level 2 and technically below him, but they helped rebalance his core so he felt less … sparkly.
+
+He quickly burned up their power by using his Living Architecture skill to repair her leg and the other damage the venom had done, but that had helped use a good chunk of the Adaptation mana, too.
+
+There was still a lot swimming around in his system, and it had started attaching to his core to help build up his third layer, but that was fine. He wasn’t going to turn away free high leveled mana.
+
+The water was thankfully unlimited and warm—thanks, magic. Finally, Prinna stopped purging and seemed to be alert again.
+
+Her life force shone bright and clear, like seeing the sun through perfect green glass. Yeah, she’d be fine.
+
+Sateryn swooped in with a fluffy robe, and Thomas left the room to give them their privacy. He sat down on the love seat, feeling drained. He could smell some of the sludge had gotten on his shirt, too. Gross.
+
+Out of idle curiosity, he activated his Eyes of Riches skill.
+
+They might live in a humble little town, but they had glowing trinkets glowing with wealth everywhere. If Thomas were a different type of guy, he might try to pocket something. It might feel good in the moment after the way Sateryn treated him, but Thomas knew himself well enough to know he'd just feel bad about it after the anger wore off. Before the System came, he hadn't even been the type of person to jaywalk. He just wasn't going to let all the recent magic craziness in his life change him more than he could help.
+
+A few minutes later, Sateryn and Prinna came walking out, Sateryn tenderly supporting her with every step. She moved like a little queen in her home. The effect was so strong that Thomas automatically stood at her approach.
+
+She deigned to acknowledge him with a tiny dip of her head. "That was the single worst healing experience I've ever had in my life." The corner of her lip twitched up. "But I am alive. For this, I thank you."
+
+"There's no need to thank him," Sateryn muttered. "He is a healer. That is what he is meant for."
+
+"Nevertheless," Prinna said, before Thomas could snap something back at him, "he completed his duty admirably. You also owe him your thanks."
+
+Sateryn's mouth formed a little moue of displeasure, like a toddler being told to eat his vegetables. Thomas enjoyed every second of it.
+
+That's right, he thought, biting back a smug smile. Thank me.
+
+"You have my... gratitude," Sateryn said at last, clearly hating each word.
+
+Prinna's gaze met Thomas's and he saw fond laughter for her husband in her eyes. Then she grew more serious and proper again. "When I am restored to my rightful position, I will remember what you have done for me, Healer Thomas."
+
+Uh, what?
+
+Then she held out her hand, palm down, and fingers demurely tucked. Her intention for him was clear, and Thomas decided what the hell and took it to gently kiss her knuckles.
+
+"Um, it was nothing," Thomas lied, straightening. Then he remembered that he was the healer here. "I would suggest that you absorb appropriately leveled healing crystals, just in case there are any lingering effects... Then, you know, get some rest, drink plenty of fluids, and eat your vegetables." He hooked a thumb over his shoulder. "I'm going to go."
+
+"I think that would be best," Sateryn said.
+
+-----
+
+"The good news," Thomas told Jo and Zach later as he crouched at the bank of a stream and scrubbed at his shirt, "is that I think I invented a skill." Some of the gunk that had purged out of Prinna had definitely gotten on his shirt, and it stank. He scrubbed harder. "Though it’s not listed as a skill on my status sheet. Anyway, I can now purge you of any poison or venom... I guess maybe hangovers too."
+
+"Sweet," Zach said.
+
+"What's the bad news?" Jo asked. She was standing upwind from Thomas, not that he blamed her. “If there’s good news, there has to be bad news.”
+
+"I think people would rather deal with the poison than go through the purge," Thomas said. "It's really, really unpleasant."
+
+"I don't know," Zach said. "I have had some wicked hangovers."
+
+Jo wrinkled her nose. "I don't understand how you were able to create an unofficial skill. Is that normal?"
+
+They both looked at Zach, their team Wikipedia.
+
+Their wiki shrugged. "I manipulate fire all the time without a skill."
+
+"Akilah said you are a mana channeler." Thomas lifted his shirt out of the water, wondered if he was ever going to get the stain out, and began scrubbing again. "It's kind of your thing."
+
+"I can inject poison but that's just forcing it out using a weapon that's meant to deliver it. It's not actually doing anything other than what poison already does," Jo said.
+
+Thomas decided just to give up on the shirt and went into his backpack for another. Thankfully he had brought a spare though it wasn't his favorite. "You can always OD on high level Adaptation mana and see where that gets you."
+
+"I'll think about it," Jo said, in a way that meant absolutely not. "Also, I can't believe Sateryn didn't pay you for putting you through all that."
+
+"I think letting me leave with my life was payment to him," Thomas said. "He is such a dick, and I don’t know if Prinna’s any better. But I did get some pretty high-level Adaptation mana out of it." He had used enough that the excess mana was no longer affecting his brain… that he could tell, but he was still so full of Adaptation he felt like he could burp sparkles.
+
+Since it was level 5, he was going to encourage it to attach to his core. Maybe if pushed it, he could create another unofficial skill. Perhaps something to do with combat? Or should he save that for his actual skill slots? Something to think about.
+
+"So, are you guys up to run the Griffin Dungeon again?" Zach asked slyly.
+
+Jo looked alarmed and Thomas said, "Yeah, I could go for one more dive."
+
+"What?" Jo snapped. "Are you kidding me? What if Sateryn changes his mind and wants his own private healer? We need to put space between here and this town."
+
+Zach also looked shocked. "Dude, I was joking!" Then he caught Thomas grinning at him and relaxed. "Ha, good one."
+
+"No, this place sucks. Let's get back to Shadow City," Thomas said. "I want to convert the rest of our Wood mana drops into Shadows and level 3 mana so we can make a killing back on Earth.”
+
+Plus he had some pointed questions for Akilah.

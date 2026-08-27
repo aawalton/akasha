@@ -1,0 +1,567 @@
+---
+id: ac10af00-9ca5-51f2-8bf6-a72a1cdfd554
+page-type-slug: story-chapter-royal-road
+title: "Chapter 228: Param, Burning"
+slug: 0153-chapter-228-param-burning
+partOf: the-calamitous-bob-stubbed
+position: 153
+ownLength: 6665
+unit: words
+ownProgress: 6665
+publishedAt: 2025-11-07
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2739901/chapter-228-param-burning"
+royalRoadId: "2739901"
+markedReadAt: "2026-06-29T21:19:53.697Z"
+---
+
+There was a time in the life of every man when he had to take a leap and make an impossible decision, Tallit decided. Not enough time. Not enough knowledge to understand the ins and outs. Much at risk, including his reputation. It was thus a great relief to have a clear, defined hierarchy of purpose. Tallit’s purpose had always been to serve the Academy. The Academy served its students. It was a guiding beacon he could use to lead him when nothing else would.
+
+The procession coming from the port reached the inner wall leading to Helock’s noble district. They carried banners showing the symbol of Maranor. They were also heavily armed. Tallit turned.
+
+“Sir?” Darla asked.
+
+There was no need to reply. He removed an ancient key from a collar around his neck. More than just a key, it was a relic of the distant past, a bastion built by the generations that had preceded him just for such a moment. The time had come. With reverent fingers, he pressed the key into a depression. The massive core feeding the outer wards revealed itself as its protective panel lifted. A soft glow spread through delicate sigils engraved with silverite. Would it be that he had had more time to study them.
+
+He leaned forward.
+
+“The future is in their hands,” he whispered in old Viziman.
+
+The wards accepted the keywords. A blue radiance spread through the room, bathing Tallit with shed mana. The core deployed as it carried decades of stored power to the outer walls, a last defense, an aegis built for a single purpose: to make the school inviolable. With deft hands, Tallit adjusted glyphs from a complex console.
+
+“Exclude sixth steps and above. Localized contingency loops… block all offensive magic.”
+
+He sighed.
+
+“Allow access otherwise.”
+
+The wards were limited by the Academy’s size. He couldn’t afford to overuse them. They would be needed to stop Oleander.
+
+“And may the gods have mercy on us.”
+
+“Sir.”
+
+“I think it’s time. I will take full responsibility.”
+
+Darla stood straight. She tended to be very open about her opinion in private. Her ramrod back and determined look told him that, if he had not made the right decision, at least he’d made the proper one. His hands touched the familiar sound enchantment. It recognized his authority. His voice traveled, carried by colorless mana to every corner of the Academy.
+
+“Attention all staff and students, this is Dean Tallit. As the head of the Academy, you will proceed to evacuate immediately. Take your carry on bags and wait for the staff in the atriums of your respective dormitories. All other activities are hereby canceled. Staff to your positions please.”
+
+It was so quiet down here. He couldn’t hear a thing. Weird how it worked. He felt like the skies ought to split or something, since he’d just broken with centuries of deeply ingrained tradition.
+
+The Academy was neutral.
+
+To go against Nero Oleander was to announce distrust. It was a conscious decision to go against him before he made his move. It was risky.
+
+What if Viviane had lied?
+
+“It was the right choice, sir,” Darla said with absolute conviction.
+
+“We’ll see.”
+
+Measured steps carried the pair upstairs to the lobby. His mana sense picked a ripple in the shield now blurring the city’s skyline. By the gods, how massive of a mana signature did that mad tyrant have?
+
+“You should go to the portal with the others.”
+
+“With all due respect, sir, absolutely the fuck not.”
+
+“They will need your support.”
+
+“And you might need a messenger. And besides, I am on shift at the front desk.”
+
+Why did he have so many headstrong women around him? The gods had a sense of humor. The small moment of levity faded soon enough, but he felt better when he finally approached the gate.
+
+A bald man was walking in as he arrived. A Shadowlander from the ashen skin and thick garb, his ‘guest’ had sharp, cruel features and a lopsided smile that was wolfish and threatening. He still bowed to Tallit with elegance. It somehow made him even more unsettling.
+
+“Greetings, Dean. My master was wondering why you would deny him a visit?”
+
+“This is merely a precaution for the coming of an unannounced, dangerous group.”
+
+The man stayed where he was.
+
+“Is the Academy not neutral ground?” he asked in a voice that made a token effort at sounding innocent, just enough to show obvious sarcasm.
+
+“The neutrality of the Academy is predicated on the neutrality of Param’s politicians. Your master is not a Paramese.”
+
+“Oh, but he is. Did he not enter this world in Enoria? Near Aristan, I believed,” the man feigned to ask.
+
+“He is not here representing Enoria. He is here as the ruler of the Kingdom of Maranor. That is not a Paramese kingdom.”
+
+“Not just yet, anyway,” the man continued.
+
+He bowed again.
+
+“My master has a message for you, if you will hear it.”
+
+The students needed time.
+
+“Of course,” Tallit replied with a smile that didn’t reach his eyes.
+
+With a gesture, Tallit invited the man to sit at one of the nearby chairs, those arranged to welcome postulants and other guests. He didn’t offer him any drink, however.
+
+The man placed his hands upon his knees. It had not occurred to Tallit but it seemed the man was completely unarmed. Not a single sheath could be seen on his drab clothes. He was, however, scarred like an old warrior. Tallit didn’t inspect him for courtesy was still the rule here.
+
+And besides, Darla would do it and she wouldn’t get caught.
+
+“Your master had a message, then? You may share it when you wish,” Tallit said to the man who had yet to introduce himself.
+
+“Ah yes. Well, my master’s message is this. Please bear with me.”
+
+He cleared his throat, then his voice took a calm cadence, even a lower pitch. Tallit wasn’t sure if he should laugh or take offense.
+
+“There can be no neutrality in the face of a new world order. Peace can only exist when people know and understand their place, their role, and how to improve it. Peace requires uniformity of justice. Peace requires balance and unity and common effort, all those key elements of a proper order. This, in turn, requires that everyone participates. There can be no exceptions in that tight arrangement. You are either a promoter of this order, or you are actively going against it. Even inaction is rebellion when the nation demands your aid. By refusing us access to the school, you are showing us that you will not accept the new order.
+
+The man’s expression turned sarcastic for a moment before he continued. Nevertheless, Tallit could see his master believed in those words.
+
+“Children are precious. They are our future. My liege will never allow them to come to harm, for they will be the elites of tomorrow. You can trust that we will be understanding. Education will cover civic duties, but the other rules of the Academy have proven themselves to be healthy. They have protected the children from the outside world and from conflict for generations. We see no need to change this. You can continue your duties should you wish to, provided you accept to be a subject of the Kingdom of Maranor. We merely ask for access. Supervision, not action.”
+
+Tallit mulled over the proposal, if only to give his people more time.
+
+“You would really leave the staff in place?” he finally asked.
+
+“My master believes that those who have reached the top on their own merits ought to stay there. As he said, we are only asking for oversight with the understanding that you know how to run the Academy while we do not. We have no reason to alter a functional establishment.”
+
+The man looked a little bored. It was probably a good sign. Tallit checked him for weapons once again, still seeing nothing but that didn’t mean much.
+
+“That sounds reasonable. What if your lord asks me to fight for his flag and I do not wish to?”
+
+“This can be decided upon as part of a surrender agreement, but there must be other concessions. Everything is in balance. Not that I expect my master to need you on the battlefield, however…”
+
+He shrugged.
+
+“The tide of war is ever fickle.”
+
+“I see. Next question.”
+
+Tallit leaned forward until he was in the man’s personal space. The weird Viziman smiled, and Tallit felt like he’d put his face in a rathclaw’s cage.
+
+“Should any of my students be relatives of those who oppose your rule, will they be allowed to leave unharmed to join their family.”
+
+The man didn’t reply. In fact, he didn’t move at all. Slowly, a smile bloomed on his face.
+
+“Of course,” he lied.
+
+It was hilariously obvious.
+
+“Would your master swear an oath on it? Say, an oath to Enttiku.”
+
+But the man just laughed.
+
+“Ah, I knew it from the start. You have heard of good old Nero, even in these distant lands. I suppose his reputation eventually caught up to him. Aaaah, that pisspot Crest did warn him it would eventually cause problems. Looks like the little shit was right. No way, of course we’ll hold the twerps as hostages. What do you think, that we’re some brothel pansies? So, we fight then?”
+
+“I need to consider your offer,” Tallit suggested.
+
+“Nah you don’t. You already decided. I just needed to make sure.”
+
+The man’s smile widened.
+
+“Guess that ends the truce.”
+
+And Tallit had a knife planted in his left thigh.
+
+***
+
+Acuity reflex kicked in before the pain could register, even as the assassin was extended over the table. A fast cast of [Glastian Delouser] scorched him to the bone, leaving only a smoldering corpse behind. The waiting room was ravaged.
+
+Now the pain hit.
+
+“FUCK!”
+
+The door opened in front of him, showing a young Shadowland mage in gray battle robes casting some offensive spells. Tallit called a fire spear that smashed into his opponent’s shield. The robe caught on fire, but gray mana smothered the attack. Air gathered around Tallit. With a wave of his hand, the dean drew gray from his own core and the choking spell dissipated. A gesture slammed the door close. He’d bought some time.
+
+“I’m here!” Darla screamed.
+
+She stopped in front of Tallit. His mind wove the sigils required to put the Academy on lockdown while she opened an emergency bag. The pain was making him sweat. It had been so long since he’d last killed, since he’d last been wounded. It all still felt strangely familiar.
+
+Maybe they thought he was rusty. They were wrong.
+
+“Pull it,” he told Darla.
+
+She didn’t reply, but the sharp pain told him she’d done it. He only spared his leg a glance. Darla had pulled up his robe, revealing hairy skin. She was pouring something on the wound.
+
+“Blood clotter doesn’t work. It’s definitely a skill. Here, drink this.”
+
+She tossed him a vial he swallowed on the spot. General purpose anti-toxins. Very expensive.
+
+“I’ll use icecap gauze and a tight bandage. You will need a priest in an hour or so but you’ll be functional till then.”
+
+He grunted in answer. She was working quickly, but not quickly enough. People were banging on the door.
+
+“It’s just a matter of time before they go over the walls instead,” he said, more to himself.
+
+‘I’m so sorry,” Darla suddenly blurted, brown eyes widened by guilt. “I knew he was an assassin but he was also an envoy. I never expected…”
+
+“My bad. No precautions.”
+
+He sighed. A cool sensation was spreading through his leg, dulling the agony.
+
+“And I wouldn’t have listened anyway,” he admitted.
+
+That comforted Darla and that was all that mattered. It was stupid of Tallit to expect invaders to play fair to begin with.
+
+“All done. I’ll get the others.”
+
+“Right.”
+
+She took off at a dead sprint while he ambled after her. A flick of his hand called the staff he’d left by the entrance. The cores in there fed his power. He had to use it like a crutch though, and that was vexing. Wouldn’t last. His fingers found an orb in his pocket. His voice rang through the entire Academy.
+
+“This is Dean Tallit. The Academy is under attack. Please follow the proper precautions. Combat staff, assume infiltration and protect the students, please.”
+
+It was going to be up to him to hold the fuckers back. A deep gong reverberated throughout the massive outer shield as he left the administration building towards the inner park, like a battering ram striking a gate. Oleander. The shield was holding, for now.
+
+He looked at the sky. It was time to get moving. His hands formed complex patterns to help him weave sigils in the air as he drew brown mana from his core.
+
+[Earthen Rider].
+
+The spell encased his foot in mud, then he was crossing the nearby patch of grass without moving his feet, dragged by the soil itself. He made sure to place his right foot first to lessen the pain… even then, he broke into sweat. It was a deep gash and the rush of battle wasn’t helping. More defensive spells followed. Maintaining them was going to take some effort.
+
+[Ebullient aura of Tripaski.] [Sen’s Basalt armor.]
+
+Where a composed man in robe stood, now was a fuming shape encased in heavy black stone. He finished just as the first of Nero’s vanguard crossed the shield, the same who’d tried to get into the administrative building. The man screamed something in that ashen tongue of his. Grey mana coalesced just as Tallit went on the offensive. A powerful air blade launched. [Archmage’s sense] forced his mind into overdrive. He was being distracted.
+
+[Nyil’s Teeth]
+
+The arrogantly named defensive spell lifted columns of stone from the ground, catching the fast blade thanks to Tallit’s mastery of the spell. His version had a solid dose of red mana that turned them into magma fangs. An electric charge hidden behind the spell fizzled in those defenses. At the same time, Tallit was done casting.
+
+[Coalesce]
+
+[Tallit’s Scorcher]
+
+His signature spell surged across the open ground in a single line of pure heat charged with the meaning of burning. The powerful and deceptively fast attack speared through the gray mage’s shield, hollowing his torso in the same moment. He fell with a cry.
+
+“You people are forgetting who…”
+
+Archers crested the wall, led by a woman with black hair held in a long tail. Agile fighters followed. Arrows turned to soot before they could reach him, the iron in their tip melting into reddening blobs.
+
+“... you are dealing with. [Azalis’ death wall.]”
+
+Before Tallit had started casting, the meadow had been a carefully maintained garden designed to give the students a relaxing environment. By the time the wave of devouring fire launched towards the walls, it was a desolate inferno, the air warped by the high temperatures. Most of the soldiers were smart enough to fall back but a few made the mistake of trying to cut a path through the flames. It worked, then Tallit closed his hand. The splitting curtain closed again over the blademasters and they died a fiery end. One of them managed to jump over the working.
+
+[Idran’s fly catcher]
+
+A sphere of fire appeared around him as he had no way to change trajectory. The vanguard still managed to punch a hole through the quickly closing trap. Oleander certainly had some semi-competent underlings.
+
+[Fireball]
+
+Sometimes, simple was best. A torrent of small projectiles smacked into the opening, intercepting the man and killing him instantly. There were more archers and agile fighters bypassing the walls now, with heavier fighters probably climbing them. Once six or seven, the fastest, were past, Tallit lifted the Academy’s orb again.
+
+“Activate wall defenses, section three.”
+
+The next vanguard to try and cross had his fingers liquify though he managed to escape. Cries of pain and dismay emerged from the other side. Now only fliers could reach him until the spell arrays exhausted themselves. He turned his attention towards those he’d allowed to cross.
+
+“Now where were we?”
+
+The wiser agile fighters ran away from him as fast as they could. He let those who went towards the cupola leave while he speared two on their way towards the main dormitory, at the center of the park. Couldn’t have that. The teachers would handle the stragglers.
+
+Powerful skills turned the arrows of his opponents into streaks of mana. One of them damaged the basalt armor. Tallit was finally getting warmed up, now that everything in a ten pace circle was on fire. Even the stone. Red and brown mana merged together.
+
+[Pyroclastic flow.]
+
+Tallit cleared most of the archers but the head woman was teleported out by some strange skill as the billowing cloud of superheated ash approached her. She reappeared on a nearby tower, then farther when a ward-powered spell almost hit her. A portal appeared close to Tallit, by the wall. He had it in a trap but something pierced through. The heavily armored soldier coming immediately after wasn’t so lucky.
+
+[Crucible.]
+
+The man tried to stop the fire converging on him with twin heavy shields. A vortex of power surrounded him and when it stopped, the armor was fused, the man thoroughly cooked.
+
+“Stop coming,” the portal archmage screamed. “Stop! Wait for him!”
+
+The archer told him something but Tallit didn’t follow. His most recent spell had been intercepted by a portal that redirected the [Idran’s Firetongue] towards him. Tallit seized and canceled the spell before it could test his defenses, then he struck the space mage’s new location just as he appeared.
+
+“Gah!”
+
+“You’re not the first teleporter I’ve faced,” Tallit mocked.
+
+But inside, he wasn’t feeling so confident. It was the knife wound. He needed a priest, and quickly, but he could still go on for now. Outside of the walls, the shield shivered. It was already lucky Oleander hadn’t thought of trying another spot yet.
+
+The pain flared again. At the same time, Tallit felt something in his blind spot. Decades of experience made him cast another [Glastian Delouser] in that general direction.
+
+The assassin who’d wounded him turned aside with a laugh, his arm on fire. Tallit felt vertigo just as a powerful blue spell destroyed the defensive ‘teeth’. That was impossible. The assassin was dead. He’d seen his corpse. He was dead.
+
+But here he was standing again?
+
+“Perhaps introductions are overdue? My name is Jar’ko the Undying.”
+
+An arrow finally pierced his defenses. A pauldron crumbled while the undying carved another hole in his armor. Tallit was on the backfoot, and Crest was casting. He had an ace, however. While his armor still held, Tallit cast his next spell.
+
+***
+
+Celerin Crest watched the Undying and Vanguard Eika the Elusive corner Tallit. The old fucker was resilient but he had no mobility, a weakness shared by red mana specialists with a brown secondary. If they could just keep it going… yes, the armor was getting chipped. Jar’ko was staying one step ahead despite a missing arm. Whatever skill kept him going must be struggling to heal him by now. Crest redoubled his efforts, casting gray and brown spells but giving up on blue ones. The ground of the Academy was now a bubbling cauldron not unlike a volcano. The forest was gone for over fifty paces, replaced by lava dripping from crooked rocks. More vanguard mages were going over the wall by flying, but the rest of them were blocked. He didn’t want to open another portal — the sight and smell of Durgan the Gate cooking alive would feed his nightmares for the next season.
+
+“We need more people,” Eika screamed.
+
+“We need Nero,” Crest realistically replied. The dean was a fucking monster. Oleander’s triumphant march was not going to plan. He swore and teleported another volley of fireballs coming from the beleaguered archmage. They exploded around only to add their heat to the hellish battlefield. Even with a bubble enchantment, it was getting hard to breathe.
+
+“Shit. Focus on him!”
+
+“Sir Crest,” someone screamed.
+
+“What?”
+
+A vanguard raced back towards the battlefield. He was wounded.
+
+“Sir, the students, they’re leaving!”
+
+“The army is deployed to block the roads out.”
+
+“By portal, sir!”
+
+Crest paled despite the heat. This was all to get control of the Academy. Without the students, this place was just a particularly expensive dormitory. He needed to get to the students.
+
+“Can you stop them?”
+
+The man looked at him like he was stupid. To be fair, Celerin had just asked him to face hundreds of mages, some of them trained in combat alongside the teachers supervising them.
+
+They needed more people, and for that, they needed to take Tallit down. Dammit.
+
+“More, more!” he ordered.
+
+Crest went all out, redirecting spells left and right while pouring as much blue mana as he could, this time helped by reinforcement. They were no longer trying to extinguish the fire, they were merely trying to keep it under control. But it was working. The teeth-like defenses were rumbling, and the basalt armor was mangled. They just needed a little more… and then it happened. Eika the Elusive landed a skill-backed piercing shock that took Tallit’s head off. The armor fell, revealing… nothing.
+
+It was empty.
+
+“What the…”
+
+He turned his attention to Eika. She had a way to track…
+
+“Watch out!” he screamed.
+
+A short-haired woman in Academy dress emerged from the shadows behind Eika. A mage? Using that meaning? Before Eika could truly turn, a black flower bloomed on her chest.
+
+Eika had a unique path skill that teleported her away when she was getting hurt whether she wanted to or not. Singed, slightly cut, too hot, the skill activated without flaw. Even a fast spell would touch her skin and she would be gone… but the flower bloomed without harm to her horrified eyes. And then there was a pop. Eika’s head and legs successfully escaped to safety. The rest didn’t.
+
+Crest decided that was it.
+
+“Fall back. Fall back!”
+
+It was pointless to sacrifice more elites. Without Nero or a siege, they wouldn’t win this. As he teleported away, Tallit emerged from the ground, his defenses renewed.
+
+[False Dawn,] he announced.
+
+A white ball lifted from his extended hand. It was quiet yet it drowned all sounds and even a hundred paces away, Crest could feel heat that could singe his brows. There was no moisture left around. He managed to escape, and so did most of the mages. As for Jar’ko, he had gone back to hiding.
+
+***
+
+“Ashra, you’re with child,” Tallit scolded. “This is not a safe place.”
+
+“And I don’t want my descent to grow without a father so you will retreat to the portal right this instant or Nero will be the least of your worries.”
+
+Well she was rather convincing.
+
+“We need to fall back anyway. They have a particularly aggressive assassin who can, apparently, return from the dead.”
+
+“One more reason to leave,” she told him as black armor rose around her, just in case.
+
+The Academy’s shield cracked ominously. It was meant to resist a long siege. This wasn’t good. Tallit moved and winced, his leg not improving at all.
+
+“You’re wounded?” Ashra exclaimed. “How could you?”
+
+“I’m sorry. I was careless.”
+
+“Tallit!”
+
+“Not now, woman.”
+
+They quickly approached the central dormitory. Tallit had made sure it would remain blessedly intact. Dirge was here standing above the body of a Shadowlander. The impeccably dressed Dueling Teacher barely glanced at them before returning to his vigil, soft brown eyes hardened by the circumstances.
+
+“How are things?” Tallit demanded.
+
+“Only the last years are left.”
+
+“Then get inside.”
+
+Dirge didn’t protest. Past heavy doors, the three entered a packed lobby that even now smelled heavily of sweat. Tallit loved his students, but they were young adults and he certainly preferred them with the windows open. He took pride in the fact the war class had set up an improvised defensive array without prompting. It was surprisingly good and would have stopped him for a while.
+
+“You make me proud,” he told them.
+
+“Almost done sir,” a short, swarthy student said with calm.
+
+Tallit smiled warmly even though he was in pain. At least the armor was pushing on the wound so he wouldn’t bleed out any time soon. The Academy’s shield failed immediately afterward.
+
+The sheer soul pressure that came next was so overwhelming, Tallit wasn’t sure if he should feel annoyed the defenses had failed, or grateful they’d held for so long. A new light turned the park outside of the building red, as if blood drenched. Screams rang at the edge of his hearing. Many of the students gasped and collapsed, the powerful aura too much for them. He turned to his paramour and slapped her out of her stupor.
+
+“You dare!”
+
+“Wake the others up. Go. Go!”
+
+She didn’t protest. The tenured enchanter, Okile, was already snapping out of it by himself. Others were recovering. Still too slow.
+
+The roof of the room was peeled open by a perfectly controlled sword strike, like removing the skin off a fish. Tallit hijacked the student’s shield as they retreated, herded, pushed, coaxed, and sometimes carried through the portal. A figure had appeared mid-air. A flying figure. Tallit didn’t even dare inspect it,
+
+Red wings, not like fire but darker and more vibrant, the blood of the countless sacrifices required to sustain a state. Armor, white at the top and as immaculate as the temples of the ministries, a shining lie to mystify and hypnotize those who are meant to see the dream, the notion, not the puppeteer behind their artifice. At the bottom, it was muddy and dark and stained with old blood. Those greaves were enforcement and compliance at any cost. He carried a simple sword. No shield. The helmet depicted a serene face that nothing could touch. This wasn’t an avatar of Maranor. It was her order, her vision, incarnate. He was facing a nation.
+
+[Breath of the One Name]
+
+Tallit’s master spell surged up against the man, its power so strong even the shields struggled to hold back the heat. Most of the students were out now. A single sword strike cut it, and the blast split in half around the figure. Tallit followed with his signature scorcher with the same result.
+
+With contemptuous ease, the figure landed in front of him as the last of the students moved on.
+
+“Tallit,” Ashra screamed.
+
+But he couldn’t move. The moment he did, the State would crash through the portal and all would be lost. He wasn’t even sure he could slow it down.
+
+“Stand aside,” the state demanded.
+
+The pressure was impossible. Could the girl even face him? She had been so… flat by comparison. So human.
+
+“No,” Tallit forced between his teeth.
+
+“If you will not submit, then you must perish. I cannot allow a third elemental archmage to oppose me.”
+
+Tallit didn’t reply. Ashra was going through the portal dragged by Dirge, the last to depart. That was it. He’d done it.
+
+“Your answer?” the State demanded.
+
+Tallit clicked his fingers. The portal was incinerated. Every last glyph of it. The aperture closed like a soap bubble.
+
+He died with few regrets.
+
+***
+
+Jar’ko crossed the portal in a wave of shadows just as it closed, hoping the weird aperture wouldn’t affect his skill. Crest’s portals didn’t and as expected, he reappeared in a meadow still invisible to all. There were hundreds of worried teenagers milling around, herded by the surviving staff. All of this, Jar’ko took in as he finished moving, readjusting his trajectory towards his next victim. He had two options. One of them was the dead man’s girl. She had a bump under her dress. Ending bloodline was always fun.
+
+The other was the head bitch herself. He had less than an instant to decide. Less than a breath after he crossed, that decision was ripped from his fingers. His shadow jump failed, the mana ripped from his being like a spider web torn by the hand of a child. He landed on the ground. The familiar pain of dismemberment flooded his mind, dragging a hoarse scream from his throat. The pain was a flash, sharp and deep. Exquisite. His attention focused on the empress. She was looking at him with impassive emerald eyes.
+
+“Tallit?”
+
+Tallit’s woman replied in a coarse tongue the man didn’t recognize. Not imperial for sure. The empress didn’t flinch, but sadness deflated her expression. Good. Let her suffer too. Let her suffer deep. He snarled.
+
+His reserve of life was almost exhausted. It would take him a long time to reassemble, but… the temptation was too strong. He wanted to at least wound her. With a roar, flesh erupted from his stumps to grab the fallen limbs. He jumped through the shadow to the woman’s blind spot. Only his upper body reached it.
+
+His trunk fell on the ground at her back. She had already turned, and those orbs watched him with detached disdain. Like he was nothing. He hated it, hated it, hated it. And the pain was renewed. But he had one last tool. Biting his false teeth, he spat a blob of poison at her face.
+
+He knew it wouldn’t reach just as it left his lips. The bitch had already pivoted. His projectile landed on a strange, physical shield, an overwrought affair of overlapping symbols. She had started to move before he could ever finish his attack. It had to be a skill.
+
+Assassins surrounded him. Hadals. He wondered why he wasn’t killed yet.
+
+A wing blade pierced his tongue. The black appendage nailed him to the ground like an insect. Arrogant, insufferable upstart. He was going to kill her kill her KILL HER. He was undying. Even her annihilation would only belay his return. He always won in the end. Always.
+
+“Oh, Enttiku. Hear my plea. This one seems to have some sort of escape mechanism.”
+
+For the first time today, Jar’ko felt upset. Pain didn’t scare him. Having his body destroyed was but an inconvenience, yet there was something in that voice that spoke of certainty.
+
+“Oh, Enttiku. Please grant me access to the forbidden repertoire.”
+
+Jar’ko was bleeding out. He was going to die fast and there would be his salvation. It couldn’t come quickly enough. There was something very wrong in the eager way she was looking at him.
+
+“I don’t think Irao can reach here before he resets, or whatever it is he does when his body fails,” the woman continued.
+
+Was she having a casual conversation with the Goddess of Death?
+
+“I beg to differ. He just killed Tallit. That makes him dangerous. Consider this an experiment?”
+
+She rolled her eyes.
+
+“Oh, very well. You’re no fun.”
+
+The circles turnt back to him and relief surged through his ravaged body. She had been refused whatever she was considering using to kill him. He was going to end her for this.
+
+“Guess I’ll be seeing you later,” the woman said, then all his eyes could see was black.
+
+***
+
+Viv sighed. It was… less than she’d hoped. Tallit’s loss was a disaster for the Academy and mankind in general. He’d been so close to becoming an elemental archmage…
+
+Her eyes turned to a sobbing Ashra. She was being an ass. Tallit had been a good man, and he would have made a great father. One more bereaved family because of the human urge to impose their way of life on people who want their own. Tallit had died protecting students. She thought back on all those times they’d interacted, some of them tense… but the last time they’d talked as student and dean, it was in Helock’s Town Hall. He had come to tell her he would fight for her release, but also urged her to escape if at all possible. He had gone against his city for this, at a dire political cost for himself, but he had never hesitated. She knew he had also been very rude to the council about the entire affair. At least the students were safe, and her training had borne fruit. She spared a glance at the last notification.
+
+[Acuity reflex specialization: Perfect Duelist.]
+
+Countless hours of practice against weapon masters have turned you into a peerless duelist. In close quarter combat or at a distance, your ability to anticipate and react to enemy attacks has no equal.
+
+The assassin had been fast but Viv didn’t even have to use a magical shield to stop him. It was encouraging. She only hoped that it would hold against a Sixth Step arcane blademaster.
+
+Well, if anything could, this was it. She didn’t have the centuries required to increase that skill to master level anyway.
+
+“What next?” Dirge asked her.
+
+With a gesture, Viv sabotaged the portal. She pointed at another one in the distance. Enterprising teachers were already activating it which was risky and irresponsible but whatever. They were right this time.
+
+“This will lead you west of Sidel, to a small town. Sidel is currently under the control of Princess Rosea’s faction, and they will let you through per our agreement. You are free to go.”
+
+“I’m not going,” Ashra vociferated. “I’m fighting. I will kill that fucker.”
+
+A student approached Viv. He was short and stocky with a perfect haircut and a presence that made other students line up behind him. He had the paler skin of southern Baranese.
+
+“I am Eran Metirus, of the Eikart Metirus.”
+
+Eikart was familiar to Viv as the south east Baranese duchy. Also one of the poorest and the most often at war.
+
+“I believe I had the distinct honor of fighting alongside your Duke,” she said.
+
+“My father led his mages when you crushed the Nemeti. He spoke very highly of you. It appears we are in your debt once more. My family will defend your cause.”
+
+“As will mine,” a dark-skinned girl with haughty features added.
+
+Claims of support echoed throughout the clearing. Viv waved them aside.
+
+“I will accept all the support freely given. If you do wish to help, tell your clans to use the portal network leading to Kazar. All fees will be waived, of course, but I suggest you hurry. There will be a battle. The alliance can use all the mages we can get, even the non-combatant ones.”
+
+There were more than a few enthusiastic nods. Viv knew that there was a large gap between a teenager’s excitement and actual soldiers on her side months later, but that was fine. Her primary purpose had been to prevent Oleander from getting hostages. Everything besides was just a bonus.
+
+It was just such a shame Tallit had to die for it.
+
+“You ask us to use the normal network?” young Eran asked.
+
+She raised an eyebrow.
+
+“You happen to have secret portals in the woods and you don’t expect me to deduce there is some sort of secondary network you have in place to escape scrutiny?”
+
+Viv didn’t reply, but she did smile.
+
+The enemy would guess the existence of the Ghost Network soon anyway. It wouldn’t help them.
+
+***
+
+Viv surveyed the clearing. The yries were a race prone to rituals as they preferred to take things slow and methodical. Well, the sane ones did anyway. As such, the presence of three yries tribe leaders just standing there showed that she wouldn’t be receiving proper respect. She didn’t think it was a deliberate insult. Rather, those tribe chiefs didn’t see her as an yries, and so they didn’t treat her like one.
+
+From Lak-Tak’s reaction, he didn’t agree. The normally stoic commander of Viv’s weapon development and imple— oh who was she kidding? Her contraption maker and warcrime concocter, showed signs of annoyance. Those were mirrored in the composure of the chiefs, specifically the way their long ears twitched.
+
+The three all shared the barrel chest, long arms, and coarse hair of the yries. It was in their garb that the difference was telling. The leftmost one wore a sort of jumpsuit upon which moss and flowers grew. It was very much a living garment. He had a sling on his belt, and a small bag of round polished stone next to it from what she could see through the thin leather. The central one looked like a cave in had come to life since he was covered in various slabs of stone. He bore the usual crossbow. The last one wore a beige, sandy-colored garb with short spears held at his back. Before Viv could even begin to talk, Lak-Tak went off on the trio in that clicking tongue of theirs. She’d never learnt it, mostly because it was impossibly difficult to master but partly also because she was in the process of mastering kark, and that was time-consuming. When Lak-Tak took a step forward, she patted him on the shoulder.
+
+“Lak-Tak dear, perhaps we should get the meeting under way?”
+
+“No greetings! No tea! No food! No rug to sit on. No respect! They come. They ask. Manners of a human bandit!”
+
+He spat a few more imprecations. Viv was now familiar with yries body language to understand the insults were landing well.
+
+“I will not forget, but time is of the essence, Lak-Tak.”
+
+Ser Warcrime shut up. He took a step back, his large chest heaving with anger. The yries large eyes followed him with a mix of fear and shame.
+
+“They want asylum,” he said. “They fear the killer conqueror. The one who returns from a land of ash.”
+
+“Yeah yeah. Oleander. Ok, so question: is it for the duration of the conflict or are they here to stay?”
+
+Lak-Tak translated after a brief glance her way. They replied.
+
+“The Arid Wind tribe wishes… only until he dies. The Deadshield Tribe says… they will leave clans here. Make forests. If you agree.”
+
+“We do need a lot more forests. We just don’t have the water right now.”
+
+Lak-Tak translated, causing the moss-covered yries to twitch with, as far as Viv could tell, excitement.
+
+“The Deeps tribe wants to stay. They want… other mine. Copper one, they say. They want to trade for food. Like us, they say.”
+
+Viv’s mind immediately went to copper wires.
+
+“We can offer them citizenship and access to the teleportation portals, like we offered yours. But they don’t get tax-free years like you did. We have food for all three tribes but we ask for warriors in return. No hiding until Oleander is dead. They fight alongside us, bleed alongside us, or they try their luck elsewhere.”
+
+The clicks were brief this time.
+
+“They say the blood of their families is the most precious good they have.”
+
+“And the blood of mine is to me, that’s why each drop will be dearly paid for. Tell them how I’ve treated you. Tell them I will not budge. Fight with us or depart.”
+
+There were a few moments of back and forth.
+
+“They agree,” Lak-Tak reported. “Fifteen hundred hunters. Shaman will help with the wounded. They refuse to give the drills. The mining drills we transformed into tanks.”
+
+“It’s ok we’re going to provide the drills,” Viv said with a ghastly smile.
+
+“This… does not translate.”
+
+“No matter. Just tell them that we need those warriors immediately so we can train them to fight as part of an army. Old Ban is going to have a field day handling those fuckers. Oh, obviously the chiefs will lead their own people as officers.”
+
+“I outrank them,” Lak-Tak demanded.
+
+“That’s not even a question. You’re one of my elites.”
+
+Suddenly, Lak-Tak was in a much better mood.

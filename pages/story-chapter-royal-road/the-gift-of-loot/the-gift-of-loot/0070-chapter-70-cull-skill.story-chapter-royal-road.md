@@ -1,0 +1,187 @@
+---
+id: 202c41bb-fa04-5f6c-83d4-023bc84b9d28
+page-type-slug: story-chapter-royal-road
+title: "Chapter 70: Cull Skill"
+slug: 0070-chapter-70-cull-skill
+partOf: the-gift-of-loot
+position: 70
+ownLength: 2670
+unit: words
+publishedAt: 2026-08-19
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3835360/chapter-70-cull-skill"
+royalRoadId: "3835360"
+---
+
+Jo sat cross-legged by the fire with Kevin curled in her lap. The little energy vampire chirred with contentment as she petted him with her good hand. Meanwhile, her withered hand rested on Thomas's knee as he worked on restoring it.
+
+The withering presented an interesting problem. While the purge had cleaned out every trace of poison within her, it hadn't done a thing for what had been destroyed.
+
+Thomas thought when he first looked at her hand that the flesh had died, but now that the poison was gone, it was alive—just with the muscle and fat under her skin wasted away. He didn't think a healing crystal would restore it. Luckily, Living Architecture would.
+
+After absorbing a level three healing crystal, he got to work. Fortunately, Jo's body knew what her hand was supposed to look like and how it was supposed to move and function. The process took some coaxing and a lot of power and concentration on his part. Thomas felt sweat bloom over his forehead in the cool night air.
+
+Slowly, the flesh of her hand and arm filled out and smoothed. By the time he was done, Jo's hand looked as good as new. Thanks to the purge, even her nails looked sculpted, though he certainly didn't understand how that worked.
+
+"There," he said finally. "Try it. Move your hand."
+
+Jo flexed her fingers, made a fist, then at Thomas's prompting she touched her thumb to the tips of each finger. Her hand moved flawlessly.
+
+"Good as new," she said, then looked at Thomas. "You have quite a talent for this type of thing, don't you?"
+
+He huffed a little laugh, then reached to scratch Kevin, who gave a happy little chirr. "Not really, it's literally all skill."
+
+"Thanks, Thomas. Really." But Jo's smile was tight, and she gestured with her brand-new, restored hand to her face. "Even though I still don't have any idea how I'm going to explain this to my daughter."
+
+"Could you just tell her that you leveled up?" Thomas asked. "It's not technically a lie."
+
+Jo shot him a look that could have stripped paint. "Absolutely not. She's almost fifteen and desperate to dive her first dungeon. The last thing I need is her thinking people come out with a glow-up." She considered for a moment, then smiled with a wicked little glint in her eyes. "Maybe I'll just tell her I got worked over by an over-enthusiastic healer."
+
+Thomas winced both at the phrasing and implication. "It was an accident."
+
+"Well, it's true." She held up her hand to admire it against the firelight, flicking it back and forth, then glancing at her nails. "You didn't warn me the purge came with benefits."
+
+"Because I didn't know," Thomas said, feeling defensive, though he wasn't quite sure why. Jo definitely didn't seem upset anymore, but it deeply irritated him to think he'd done something so against someone's consent as to change how they looked. "I just invented the purge on the fly to save Prinna's life. The rest just... happened."
+
+That got Zach's attention. He'd been poking at the coals with a stick while the two of them chatted. "Hold up. Did the elf chick end up looking like that, too? Ultra beautiful?"
+
+Jo blushed. It wasn't like she had been unattractive before, but it was clear she wasn't used to being talked about like this.
+
+"No! I mean, I don't think so," Thomas said. "But Prinna's an elf. They've already got different proportions."
+
+"Sure, sure." Zach grinned at him, slow and easy. "Or maybe you're too much of a healer to actually look."
+
+"Her murderous husband was breathing down my neck," Thomas shot back.
+
+Zach laughed but then raised both hands in mock surrender.
+
+Jo snorted too, and the last of the tension between them eased.
+
+Kevin chirred again in a different pitch, and almost without thinking, Zach picked him up and put him back on his shoulder. He gave the little energy vampire a pat.
+
+Thomas leaned back against the log behind him, feeling suddenly tired from a long, long day. Crazy to think that his morning had started with him registering his Gift.
+
+Of course, he wasn't tired enough to forget about what was truly important. He dragged his backpack closer, then emptied it out to spill mana crystals everywhere. "Let's count up what we got from the dungeon."
+
+It turned out to be a lot. The last few minutes of the fight, especially, had been kind of crazy with swords coming at them, not enough time to pick up all the drops. But when everybody else had dumped out their bags, three literal mounds glittered in the firelight, and Thomas had to admit they might have looted enough. Certainly a lot more than the hikers they'd met on the way down. Thomas suspected they had turned and run before they met the first sub-boss.
+
+"Okay, real talk, that dungeon was awesome," Zach said. "I know we didn't finish it—Jo, don't give me that look. We had to bail out—but think about it. It hard countered us, and look what we still came out with."
+
+Thomas hadn't thought of it that way, but Zach was right. The swords didn't have any flesh; they weren't particularly susceptible to fire or poison, both of which Zach and Jo used to fight with. Sure, the monsters weak to Light mana, but Thomas had run out right after the sub-boss.
+
+Yeah, they'd done good.
+
+Just at a glance, Thomas saw there was a surprising amount of Metal mana crystals. There was another Flight crystal, too, along with more Water, Air, and a few Earths. All of it was level three, which meant they could sell it at the L.A. Marketplace, no problem. Not to mention the real weapon drops. They had four swords in total, along with Jo's armguard and his shield.
+
+Thomas had grown attached to the shield and had no plans on selling it. He bet Jo felt the same with her armguard that helped teach her sword-work faster. Zach was the odd one out, but they could pay him back in sheer crystals, which he would probably sell for Teleportation mana in the elfin marketplace.
+
+Then Thomas remembered that last crystal he'd picked up from the poison sword.
+
+"Oh, hey. This came from the sword that got you," he told Jo, pulling it out from the side pocket of his backpack. Now that he was looking properly, he realized it wasn't a mana crystal at all. It was shaped exactly like a skill shard, only a deep, matte black. "Wait.. What the hell is this?" He turned it slowly between his fingers.
+
+Zach leaned in. "You got that from the poison sword?"
+
+"Yeah." Thomas concentrated on it, and he sensed everybody else was too.
+
+The System read: Cull Skill.
+
+There was a moment of silence.
+
+"So this is an evil skill, right?" Thomas said finally.
+
+Jo eyed the thing like it might bite her. "Looks that way."
+
+Zach was the only one who wasn't disturbed. "Let me see." He held out his hand, and Thomas passed it over.
+
+Squinting one eye, Zach held it up against the fire as if he were looking for something deep inside of it. "Cull Skill," he repeated, and flipped it between his fingers like it was a coin. He seemed deep in thought.
+
+"Yeah, it's a skill for culling other skills," Thomas said. "That sounds pretty evil."
+
+Zach, however, shrugged and lowered his hand. "What if it's an item to cull a skill? Like, removing one you've already absorbed?"
+
+That gave Thomas pause. Come to think of it, he had never really heard how people removed skills. Was it even possible? What if you got a skill that you really didn't like? He had absorbed his Combat Foresight without even having the ability to read the title from the System. Back then he knew he was taking a risk, and it had worked out great, but what if it hadn't? He only had one skill slot per level.
+
+"Do you actually know something?" Jo asked Zach. "Or are you guessing again?"
+
+He smiled at her, completely unbothered. "I'm guessing, but it's a good guess."
+
+"I'm pretty sure that's an evil skill," Thomas insisted, "but tell me why you think it's not."
+
+"Because I've seen truly evil skill shards, and they all look completely clear. This one looks different. That's why I think it's an item to remove your own skills."
+
+Thomas and Jo exchanged a look. Zach's childhood was so messed up.
+
+"My throwing blades skill is a little evil," Jo allowed, "and it did look like a clear crystal skill shard."
+
+"Your skill isn't evil," Thomas said automatically.
+
+Jo gave him a flat look. "It feeds off blood and pain, and you flip out every time I have to cut Zach for a power boost."
+
+"It might be... problematic," Thomas amended, which made Jo's sculpted eyebrows rise. "All right, fine. It's a little evil."
+
+"Yeah, and you remember the skill shard it came from? It looked completely normal."
+
+"Cull Skill still could be an ultra-evil skill," Thomas muttered. Then, because he thought he had a pretty good measure of the guy by now, he sent Zach a despairing glance. "Please don't absorb it to find out what it does."
+
+He barked a laugh. "No worries there, bro. I'm pretty sure this will remove your own skills, and I like my teleportation." He stretched lazily. "But you know, we do have a whole world full of people who could probably tell us what it is in like ten seconds. It'd be a shame not to ask them. Plus, Jo can find out"—he waved a hand vaguely at his own face—"whether all that is going to wear off, or if she's going to be stuck being beautiful forever."
+
+Jo groaned and put her extremely attractive face in her hands.
+
+Kevin, sensing distress, chirred helpfully.
+
+"Maybe keep my ability quiet for now," Thomas muttered. "So you're good to teleport us to Reno with all our magic stuff on board?"
+
+He nodded. "Yeah, but I'll have to carry the bags for the first jump. I don't know why, but it's a lot easier if I'm carrying the magic instead of carrying someone who's carrying the magic."
+
+"Yeah," Thomas said, then started scooping crystals into his bag. "Okay. Let's do a supply run to Elf World."
+
+_____
+
+Crossing over into Aether was a simple matter of teleporting over to the Reno Convention Center, which was open at all hours if you knew which doorway to enter, then checking in at a registration desk. They had done this a couple of times now, and they were known by the staff.
+
+Thomas noted that a young page peeled off and went scampering down the hallway ahead of them as if tasked to send a message.
+
+Did one of the elders want to speak with them? Well, that would fit into his agenda for the night. However, when they crossed over into the portal room, a young elf woman rose from a bench near the far wall and smoothed her skirts down before approaching them. She had a familiar look about her, and it took Thomas a full second to place where he'd seen her before.
+
+She was Talia, the elf who had talked him through making the support bridge for the first time. He was seeing her out of her creepy human disguise and in her natural elf form. She was... well, cute with dark violet skin that made her yellow eyes look luminous.
+
+"Talia," Thomas said, and inclined his head. The Dark Elves didn't have a culture of shaking hands. "I wasn't expecting to see you again so soon."
+
+"Hello, Thomas Coldstrike, Joanna Fitzsimmons, and Zach de'Montvallon." She smiled brightly and nodded to each of them. "I have been assigned to be liaison to your team."
+
+Oh, right. He had completely forgotten. "Akilah mentioned something like that," he said carefully with an apologetic glance to Jo and Zach. He quickly explained, "The elders were thinking of assigning us a local guide so we could avoid situations like with Sateryn and Prinna." He glanced back at Talia. "But I told him I'd talk to the team first before we decided anything."
+
+Talia didn't so much as blink. "I have been apprised of the situation, and I have no intention of following any of you into a dungeon, if that's your worry. I have never been much of a diver." Her gaze touched on Zach for a moment before returning to Thomas. "That's not my particular skill set."
+
+Her words had the opposite effect of what she was likely aiming for: Thomas felt his guard rise.
+
+Zach, however, smiled at her, full of easy charm. "I'm sure we can work something out. We're not looking to dive today anyway, just planning on visiting the marketplace. I know I wouldn't mind having a liaison around who can point me to vendors who won't rip us off."
+
+Talia dimpled at him.
+
+Jo, however, looked less than impressed. "We're looking for skill shards," she said abruptly, "and someone we can trust who can appraise an item. Know anyone like that?"
+
+Talia turned to her, bright and eager. "But of course. What kind of skills are you looking for? Household skills? Or perhaps combat and survival?"
+
+"Household skills?" Thomas repeated.
+
+"Oh, yes! For all types of cleaning and organization. That sort of thing," Talia said warmly. "I would simply die without mine." She pressed a hand to her ample chest for emphasis.
+
+Thomas was seriously tempted. Not by her, but by not having to ever do the dishes by hand again might be worth a skill slot. Except, of course, he had no more openings for skills until he reached the next level.
+
+Stay on track, Thomas reminded himself.
+
+"I also need to talk to Akilah about getting access to higher level healing mana. It's restricted to hospitals and healers here, right?"
+
+"You mean you haven't visited the Healer's House?" Talia looked between Thomas and Zach as if checking to see if they were playing a joke, then seemed to check herself. "Oh, well, the great Akilah did mention you may need to be set up for the basics, but I assumed that meant dungeon supplies. There is no need to bother him with this at all. I can simply take you to get properly Known so you may have access."
+
+Quickly, she pulled out a slip of paper and a pencil equivalent that looked like a twig from one of her uniform pockets and wrote out a few quick lines in elegant Elfin script. She then held it out to Jo and Zach. The System would take care of the translation, of course. "These are reputable booths I'd recommend for skills. All of them can be found in the Level One marketplace, and you will find they are in numbered order." She glanced at Thomas. "I'll take the Healer House to get him properly Known, and then we'll both join you. I'd rather show you to the appraiser in person, as finding a proper one can be delicate."
+
+Jo looked like she wanted to argue just on principle. "Look, you--"
+
+"Sounds great," Zach said, interrupting. He took the paper from Talia's hand and flashed a grin that she returned twofold. "See you two there. C'mon Jo. Let's check out those skills."
+
+Honestly, Thomas expected Talia to attach herself to Zach since he assumed that's what she had been hired for. She was his age, probably his type, and the elves assumed he was the leader. Instead, Talia took Thomas' arm and started leading him away.
+
+Thomas briefly caught Jo's eye, and she mouthed, "Be careful."
+
+He half shook his head in return, amused. She didn't have to worry, he could see the angle being played here. So he turned and let the pretty elf girl lead him to the Healer's House.

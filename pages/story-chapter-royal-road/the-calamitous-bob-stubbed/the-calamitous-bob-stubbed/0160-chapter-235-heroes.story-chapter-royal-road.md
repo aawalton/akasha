@@ -1,0 +1,487 @@
+---
+id: 5be3b498-6056-5b91-97af-58caebd89cf8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 235: Heroes"
+slug: 0160-chapter-235-heroes
+partOf: the-calamitous-bob-stubbed
+position: 160
+ownLength: 5460
+unit: words
+ownProgress: 5460
+publishedAt: 2025-11-14
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2759736/chapter-235-heroes"
+royalRoadId: "2759736"
+markedReadAt: "2026-06-29T21:20:09.276Z"
+---
+
+[High sequence: astra swarm.]
+
+[Wind Vortice]
+
+Viv’s spell mixed with Arthur’s own to form a spray of exploding orbs. Winds dragged Nero towards the attack but he managed to dodge away, avoiding most of those he couldn't detonate. Viv didn’t go after him, instead casting again.
+
+He was playing for time now. The initial assault ended with dragon fire to the face so he returned to a more comfortable defensive fighting. Now that Viv had unlocked her last aspect, the battle was not exactly easy but she wasn’t cornered either. Amusingly, Nero wasn’t built for offense. She could only assume the Immortal couldn’t also be the ultimate killer. His battle plan was clearly to outlast her until she started making mistakes. Her battle plan was to outlast him while her army cut his to fucking ribbons, using [A Light That Never Dims] to grow in strength as time went on. Clearly, one of them was deluded but she wasn’t sure which one.
+
+After him!
+
+For some reason, Arthur was furious. Viv let her daughter take the lead while her attention was drawn below, past the allied air wings now dominating the skies over the battlefield. She herself couldn’t be angry because her mind demanded she be detached. Anger tended to narrow the mind. She couldn’t afford it now.
+
+On the ground, the battle continued.
+
+***
+
+Aragan was hunting spiders. Two of the large tarantulas had already perished by her arrows, and the vanguards were pushing the other ones away. Her eyes kept going to the heavens, waiting for dragons. They were tricky to shoot because missing often meant getting roasted.
+
+“I hate it here,” she whispered.
+
+There were people on the spiders. They mourned when she killed the beasts. The others thought the strange ‘merl’ were not people but she knew better. She was flagging. She couldn’t afford to flag, but she was. This wasn’t the dream. It hadn’t been ‘The dream’ for a long time. Now she was just protecting her fellow Shadowlanders.
+
+But what she really wanted to do was to go home. It was too cold here and the smells were all wrong.
+
+“Climb! Climb!” The Sheem urged each other on.
+
+The merls were in full retreat back into their forest now. They aimed well, almost as well as she did, but they were small. They couldn’t hold against armored human warriors. The Sheem cut their trees and killed their spiders through sheer numbers, even at a high cost. When casualties became too horrifying, new regiments were rotated in. She hated it. Hated how it made human life something to be traded. With a sigh, she brushed her dark hair away from her face. Her braid was getting undone.
+
+The Sheem crawled up the slope. Burnt trees fell and were carried away, a waste of effort but the Maranorians could afford it. All she could see were red uniforms heading deeper in. The last few times, the merls had rallied, pushing back the attackers but now they had to be tired and bleeding.
+
+Horns blared. From the left, humans sallied out against the Sheem. Those were templars of Neriad and those shadowy servants of Efestar. A shiver crawled up her spine when the golden radiance spread across the battlefield. There were not a lot of those templars, just enough to remind her they were going against the will of another light god. She didn’t like what it implied. It was a dark day when light gods defended both sides of a war.
+
+Crashes and screams returned. The Sheem warriors faltered. Swords tinged with mana rose and fell. Spears lashed out. The men in red died. Aragan took a deep breath, then held it in, charging her skill to slay another hero. Her arms ached from the effort of shooting her special arrows, but it was necessary.
+
+“They’re rallying,” someone said next to her.
+
+She was going to have to do it. She hated doing it. They didn’t feel like enemies. They were just defending their homes. The yells and clashes of weapons grew closer now and she spotted Baranese knights in the distance. The officers next to her screamed. Things were not going well.
+
+Dammit.
+
+Who should she kill? There were several captains leading their men. The templars were not united behind a single champion. Could she even make a difference? Aragan was a huntress, not a damn assassin. She didn’t know where to aim. No one was giving her orders. The vanguards were a shadow of their former selves, split along the line. What should she do?
+
+THUD.
+
+The ground shook. Something parted the trees in the distance. Something huge.
+
+THUD.
+
+How could it have been hidden? From this angle, she could only see the canopies shaking and moving down over the merl forest.
+
+THUD.
+
+Men were running. Some fell down the slope like empty bottles tumbling down a table. They almost resembled toys. For a reason she couldn’t explain, it looked like there were fiery motes sticking to many of them, like buzzing embers. From afar, the sight was almost beautiful. It made what followed that much more nightmarish. First came towers emerging from the trees like scout platforms over the desert, then a back, pitted and rugged like an old mountain. Then eyes.
+
+Fairly large eyes.
+
+“Maranor, save us.”
+
+Alright so now Aragan could take everything back about not being a huntress and also about not knowing where to shoot. This was it. Her target. The monstrous arachnid spat a transparent blob of… something at a squad of archers, and they died. Her steps crushed people. She needed to die. So Aragan aimed, breath still held in.
+
+Just a little bit more time ought to do. The spider didn’t have protection on her eyes, after all. Panic was making aiming difficult. Not her own. The Sheem. They were pushed back. Again.
+
+On top of the spider, shamans sang. That was fine. Aragan ignored the din of war around her, the screams of pain, the horns, all of that. She focused.
+
+She aimed.
+
+She released the breath. The arrow departed with a loud twang. In front, the song of the shamans reached a climax, and a ghostly, giant merl appeared midair. Hushed reverence quieted their bird cries. The ghostly merl wore a fantastic headdress in garish colors. He drew an arrow too, his entire body pulling from a large bow, the body held between the fingers of his feet. Not toes, actual fingers.
+
+Aragan knew the speed of her arrows. She knew her own should have landed long ago, but it hadn’t. A loud bang showed where the two arrows impossibly collided.
+
+“I don’t believe it,” she whispered.
+
+Ancestral magic. Like her clan did. Used against her.
+
+Now the spider was looking at her specifically. Eight ancient eyes.
+
+“Shit.”
+
+She turned to run, but not fast enough. A portal opened a few paces away. She’d seen Crest do it often enough to recognize what it was, although this one felt cruder, not as fast. It was still a portal. None of those who could open them besides Crest were on her side. Aragan ran faster.
+
+Steel titans crashed out of the aperture. The officer group disappeared in clinical cuts and sprays of arterial blood. She’d seen many people die but not like this, not the way those officers were sliced. A chilling sentence swam at the front of her mind, unbidden. It was something the Hopecrusher had said.
+
+“We don’t have anything that can stop the golems, so just slow them down until they run out of energy.”
+
+That’s what he’d said.
+
+“FUCK.”
+
+She ran, using her [One with the Land] skill to disappear but it didn’t help. She still felt it on her back. She turned. Yellow glares were aimed right at her and through the skill. The golems were humming among each other in a discordant harmony that grated her ears until one of them spoke in Harrakan, a language she had only recently learned.
+
+//PRIORITY TARGET LOCATED.
+
+That was her. The priority target. She ran faster. A whoosh of displaced heat was all the warning she got to hit the ground. A tongue of fire rushed over her, cracking the dusty land and killing anyone in its path. They didn’t even scream. They sizzled. Her back flared with pain. She was going to die here. Roll to the side. Get up. Hurry.
+
+Heavy stomps. They had to struggle to stop, she hoped. A dodge to the side based on experience facing large monsters. Something whistled by her ear and a puff of her hair floated away. Grooves were carved in the ground.
+
+Shadowland riders charged by, their leader hailing her.
+
+“Move!” the tall spearwoman leading them screamed.
+
+They were going to sacrifice their lives for her own. Don’t think about it. Don’t think about it. Had to help somehow. The inhuman babble was so close, and the screams of her people, closer still. She ran, her back an ocean of agony. She still flipped to the side, aimed. The golems were too resilient.
+
+There, beyond the aperture: a man with a scar on his cheek. She aimed. She loosed. A portal appeared between them, just a blink.
+
+Her own arrow tore through her biceps.
+
+“Aragan of the One Breath, was it?” the archmage asked in conversational Viziman from barely a pace away.
+
+She ran again. One of the vanguard shield-bearers was heading her way at the head of a squad of spearmen.
+
+“Since we’re doing silly names, my name is Sidjin the Red Mist.”
+
+Monstrous mana poured from the smaller portal, covering everything in sight. A shield covered Aragan just in time to save her miserable life. The spearmen weren’t so lucky. She’d heard similar sounds butchering her catches but then it had only been one knife, not several hundreds of them. They ran. They kept running. Aragan’s everything hurt, and she had lost a lot of blood but when she looked back, the Harrakans had pulled back. The merls were back in control of the heights, however, and their reserves of arrows felt inexhaustible.
+
+She hoped the other surviving vanguards were doing better than her.
+
+***
+
+There were more ways to help than just killing. Lotta pumped her tired legs as fast as they could safely go. Those priests could really accomplish small miracles as long as the patient on her stretcher was still breathing. She supposed it was the point. This one looked dead already but it wasn’t for her to decide. The trench led up, towards the field hospitals. A pair of young girls carrying buckets of bolts hurried past.
+
+“You holding on, grandma?” The little shit at the other end of the stretcher asked.
+
+The worst thing was, Lotta couldn’t reply. She was out of breath. That made the boy look back with a tinge of worry, then amusement at what Lotta presumed was her large puffy sweaty red face. Asshole.
+
+“We’re almost there! The entrance of the bunker’s right around the corner.”
+
+The hospital was underground just like most everything else to prevent the Maranorians from spelling it to ashes. The wounded man on the stretcher moaned, and the mask of congealed blood on his bald face twitched. He was still alive.
+
+“Huh, thought he was already a goner.”
+
+He moved in his ill-fitting armor, unbalancing the stretcher.
+
+“Hey hey!”
+
+“Oh, so that was where your healers were,” he suddenly said in accented Enorian.
+
+The voice was cold and cruel. Memories of her ex-husband flashed through Lotta’s mind, bringing the phantom pain of a cracked cheekbones and the taste of her blood on her tongue. She froze like a beastling meeting a pack of children. Something was wrong. Terribly wrong.
+
+The wounded man moved. The boy fell without a word, and now Lotta was looking into detached eyes without a shred of pity. Her legs shook. Cold crept up her spine. She couldn’t breathe. She couldn’t move. She couldn’t scream. Her mind was blank except for terror. Terror. Terror. Terror Terror.
+
+A knife.
+
+A hand.
+
+Lotta gasped, falling on her ass in the dusty bottom of the trench. A mask, white and vicious. Gray braids falling from a hood in a silver cascade.
+
+“Hello hello,” the woman whispered.
+
+The bald man must have lashed out because the two of them moved far too fast for Lotta to follow. She was a baker and a grandmother, not some fancy assassin. She could tell who’d won from the grunt of pain and the collapsing bald man. The halal woman twisted a knife in his shoulder.
+
+Lotta felt very cold and her chest ached. Her eyes searched for a wound and found none. She was not hurt, just old and scared.
+
+“We searched for you,” the hadal whispered.
+
+Lotta made herself very small. It was easy. She had a lot of practice. Another hadal appeared behind the bald man.
+
+“Hello hello, Jar’ko the Undying.”
+
+There were four of them now, surrounding who Lotta assumed was a Maranorian. She checked the boy.
+
+He was dead. Dammit. She’d even forgotten his name.
+
+“Hellow.”
+
+That was the hadal king right there, appearing out of nowhere like a bad memory. She had seen him once when she had attended a ceremony at the palace. One of her granddaughters had joined the mages. She had been very proud.
+
+“You pathetic abominations. Just get this over with. The day is young,” the bald man spat.
+
+But the king didn’t reply. He removed a ceremonial dagger from… somewhere. Humming to himself, he let the blade hover above the bald man’s chest. It bit too fast for her to see. A shallow cut was made. Definitely not enough to kill even her, so why…
+
+“Is this the way you want to do it? Degenerates. Fine. If you think pain…”
+
+A second cut, again every shallow. The bald man’s sneer of arrogance turned into a chuckle. But then his face paled until even the ash of his skin grew more sickly.
+
+“Wait. Wait, what are you… no. No! That is impossible! You are no servant of Enttiku!”
+
+“Hmmm.”
+
+“Stop. Stop!”
+
+“Paths. At the highest levels, they are… aspirations. You are not undying. Your master is not Immortal. He wields a god slayer and yet never stopped to consider the implications. Since we are talking about paths…”
+
+“Let me go! Please!”
+
+“I am the Endbringer. I progress by killing that which thought it had escaped mortality. Like you.”
+
+“Please…”
+
+“Your master is next. Goodbye.”
+
+The next incision led to a sort of shake, like her ex husband when he drank too much. It was weird, and gross, and a bit vulgar also. When the bald man stopped shaking, she knew he’d never move again.
+
+The king grabbed the corpse and left, as did the other masked ones. Only the gray-haired one was left.
+
+“I am Thirteen. You need help? Yes?”
+
+“I…”
+
+Did Lotta need help? She did, but she didn’t want to hold them back…
+
+“The boy. We shouldn’t leave him.”
+
+Maybe, just maybe, it should have been her instead. She was old. He had… he had his life in front of him.
+
+“Hey. Stop. Come. I carry him. We go to the bunker.”
+
+Lotta nodded.
+
+She absolutely hated being part of history, sometimes. She very much preferred to be left alone.
+
+“I need a drink.”
+
+“Me too,” Thirteen said. “Me too.”
+
+***
+
+The dragon was here to avenge Judgment. He knew a human had killed him. The problem was that there were a lot of humans here. More than he even knew existed. And they were fighting each other. He was still smart enough to realize there were two sides.
+
+In the distance, he saw that insufferable spiky bitch She-Who-Rides-The-Storm’s-Darkest-Clouds attack the ones that were closer to the forest. A white youngling did so, too, so the dragon decided he would do so as well. They were also here to avenge Judgment. He dove, then he hesitated.
+
+There were just… so many of the squirming bipeds. Where should he even begin? He didn’t have enough fire for all of those either… After a moment of hesitation, he went for a group in better garments than the others. In his experience, they were usually important.
+
+Hey!
+
+She-Who-Rides-The-Storm’s-Darkest-Clouds‘ mind assaulted his, as spiky and infuriating as ever.
+
+You brainless winged worm!
+
+He ignored her.
+
+Come with us! We need to explain how to fight!
+
+What was there to explain? He was dragon. He knew how to fight already. The humans had committed the unforgivable, thus they would be punished. And severely! Below him, the colorful humans were screaming and pointing at him.
+
+Foolish humans!
+
+Tremble before Earth-Fire-Bleeding-from-a-Mountain-Flank!
+
+He incinerated half of their numbers, but others fled and yet others managed to block his attack with shields. Spells roared overhead, forcing him to dodge as they were quite strong. There were, in fact, a lot of strong humans here. A LOT of them. For the first time, he hesitated. He made to accelerate. It never happened. A sharp pain seared his left wing. He roared, and fell.
+
+There was a hole where his bone used to be. A human head-sized cut. He was shot? With a tool? He was shot with a tool! The pain was abominable. His grip on gray mana waned, not that it would have helped. He simply couldn’t beat them anymore.
+
+With a crash, he landed on the ground to the clamor of nearby humans. A few of the more adventurous ones got a claw for their arrogance. He was dragon!
+
+He was also scared and in pain. There were more humans moving than his mind could comprehend. It smelled terribly of blood and offal, and also of burnt things. The world around him was just moving too fast and it had too many smells and sounds and sights and he just couldn’t think.
+
+You idiot!
+
+Hold on!
+
+Earth-Fire…. Was doing his best. He rose and fought against red-clad humans, and humans with ashen skin and curved blades that bit into his flanks. They charged him with suicidal rage and for each one he tore apart, two more jumped on him. Annoyed, he moved and rolled to get them off. He had to be looking silly. He was also feeling very stupid and very ashamed at the moment. And very confused. Who had even hit him? A human could do that? That felt… impossible. But then he saw one cut a spell apart.
+
+Those were, he realized, the best of the best humans.
+
+Above him, two of them flew low enough that he could perceive their mana. The black one was riding a dragon — the horror— and the attacks they threw at one another could kill him in heartbeats. Oh. That was… bad. Bad for him. Yes. He fought harder out of embarrassment more than desperation. The line between the two human herds was barely a hundred steps away at his back so maybe he could go to the humans who would not be hostile. There were… really a lot of them. And they were killing each other without pause.
+
+In the distance, horsemen gathered with those long spears that pierced scales.
+
+The possibility of death hung like a specter of his wings.
+
+It was very uncomfortable.
+
+Just as he prepared himself to attack, a hole in the fabric of space opened on the side. What came out looked like a beast, maybe a turtle, but skeletal and made entirely of some sort of steel. A long tube turned towards the attacking knights who scattered but not fast enough. A spear of liquid heat rushed at them, catching a few in a hissy conflagration. It was so intense he had to close his eyes for a breath. Other humans in steel skins rushed out, hundreds of them in a torrent of metal. Of loud, black, sharp metal. He didn’t attack them yet.
+
+“For the Empire!”
+
+“They have sinned!”
+
+“Protect the Dragon!”
+
+“Kill them all! Raaaah!
+
+The newcomers charged into the messy pile of his torturers like a claw through meat. A lot of humans died, more than he’d ever killed, in moments. It was all fury and all carnage and it just never stopped, and now his head hurt. Earth-Fire didn’t touch any of the new humans, despite his pain and annoyance, because he’d really liked the ‘protect the dragon’ part of their speech. Another steel monster came out, spitting fire that wasn’t even magical.
+
+“Mighty dragon! This way!” A mage said.
+
+A powerful human with a scar and really nice silverite clothes yelled after the others. He felt very strong.
+
+“Don’t get too far! We’re just here to delouse him. Liberators, use all you got. Linebreakers, if you don’t come back here this instant! Lord dragon, make your way through. Quickly, If you please.”
+
+The hostile horse riders regrouped. Other knights in black armor with blue flowers on it smashed into them from the side that was not the portal. Earth-Fire watched this, very confused, but he also knew he didn’t want to stay and that tear in space was looking very inviting. He was just… struggling a little. But he went through anyway.
+
+“Target extracted. Pull back, pull back. NOW!”
+
+The steel machines and the sword humans fell back, then the window closed. They were now in the middle of an open ground far from the fight. It was much cooler and quieter here, but they were also on top of a very large spell thing that made his brain tingle. Also, the humans had molded the land around him so that nothing, not the flat space for tents, not the walls to block things from view, not even the paths leading elsewhere felt natural. It was all human-made, human-shaped, and human-dominated, and there were, as expected, a lot of humans around.
+
+“This way, mighty dragon,” one of the lesser mages said while the steel beasts and shell-covered humans made their way to a larger tent.
+
+Earth-Fire just decided to go with the flow because at this point, those humans were really polite but also unafraid and also somehow very subservient and very confident he would actually comply, and it was just so very weird he couldn’t or didn’t really want to resist. Also they were going to a place that had fewer humans. And also it smelled very nice suddenly. There were a few more tents away, a few fires, and men and women in robes waving him in. They smelled of human gods. And they looked happy and excited.
+
+In his brain, there was only confusion.
+
+Huh?
+
+“Our apologies, Lord Dragon. We will start the surgery right away. Oh, Sardnanal, hear my prayer!”
+
+“Efestar, show this defender your favor!”
+
+Human divine magic numbed the pain. Meanwhile, young humans rolled something tantalizing his way. They practically shoved it in his mouth. Fish. Skewered together. And something thick on it.
+
+It was the best thing he’d ever eaten. He grabbed for more.
+
+“Regain your strength, my, uh.”
+
+“He’s male,” another one said.
+
+“Milord! There is more coming. You, bring him something to drink!”
+
+Huh?
+
+Someone brought him a barrel of fresh water. His wing was still hurt but the wound was visibly closing. The water was very clean and very refreshing. It was also very quiet here. Someone wiped his claws clean.
+
+“That’s the work of the One Breath. She’s dangerous, milord. Where is that fish?”
+
+“On the way!”
+
+Huh?
+
+A few moments later, She-Who-Rides-The-Storm’s-Darkest-Clouds landed next to him. She snagged a piece of fish from his barrel. It was very annoying.
+
+Idiot!
+
+Numbskull!
+
+How could you get hurt in less than twenty breaths?
+
+I can’t believe I let you sire some of our spawn, you beastling-brained poultry.
+
+When you’re recovered, join my flight.
+
+The griffin riders are on the run after that last engagement. The skies are ours for good!
+
+I am this close to roasting the mages in the seventh circle but I need more sustained damage and someone who can hold a shield.
+
+Hurry!
+
+And then she was gone.
+
+“We’re almost done, milord. We beg for your patience. More sauce, perhaps?”
+
+The pain had completely gone. He was almost healed, something that would have taken weeks and might have very well killed him by making hunting so difficult. Someone had brought more of that delicious fish. A gaggle of humans waited, their eyes filled with calm devotion.
+
+Huh?
+
+***
+
+“We need to focus on the Harrakans instead,” Crest explained.
+
+The Helockian war mage didn’t agree right away, but he didn’t send him off either so Crest had his attention. It was nice working with Academy-trained mages again. Shadowlanders tended to be a bit too prideful sometimes.
+
+“The witch gathered powerful allies but her vision is also her weak point. We are united as one, but only the Harrakans are truly hers. If we focus our efforts on them until they’re destroyed, the rest of the army will lose cohesion, not to mention she will be worried and distracted.”
+
+He didn’t need to mention the effect it would also have on her leadership skills and the general reputation the Harrakans had developed. He didn’t believe the other Paramese when they’d told stories because they were not a warlike people, or at least not as much as the Shadowlanders. That idea had been disproven the day before after they whipped everything the Maranorians had thrown at them with frustrating ease. If they wanted to crack the witch’s aura of invulnerability and split her allies, the Maranorians only had one thing to do.
+
+“Very well, but the other flanks will be unsupported.”
+
+What choice was there? Crest thought his decision was the right one. Now he only had to convince the Hopecrusher to lead their most elite formations against the enemy. Something told him it wouldn’t be too hard.
+
+***
+
+“They are changing strategy,” Sahin said.
+
+The merls were safe, for now. He hadn’t been told (which was a problem), but in a typical display of yries dickery, they’d given their obsolete catapults and spare fire wasp hives to the merls. For fun. It was true that bad artillery was better than no artillery at all, and now the Sheem were on fire and had probably developed a phobia for creatures with more than four limbs. The problem was that there had been no follow up attacks, even before they’d rallied. Where were the Maranorians pushing next?
+
+“What? Speak up, boy. And why are the guns slowing down?”
+
+Ah yes. The cannons. It was an important question. Sahin immediately turned his ‘radio’ to Lak-Tak’s frequency.
+
+“You are slowing down. What’s happening?”
+
+“Overheating,” the yries replied, voice clicking with an annoyance even Sahin could perceive.
+
+“You mean they’re too hot to keep firing?”
+
+“Yes. Tubes glowing. Cooling enchantments at capacity. Not designed for more than three hundred shells an hour. Shell supply: adequate. Tube status: overloaded. Inevitable bottleneck.”
+
+“Can’t you cool them down with water and magic?”
+
+“We are. That is why we keep firing. But more slowly.”
+
+“Alright. Well, do your best.”
+
+Harrak’s strategist returned his attention to the battlefield. The flow of artillery spells was getting redirected to Harrak, a foolish idea because they had so many shields.
+
+Or was it?
+
+“I think they want to crush us.”
+
+“You’re only figuring it out now?” Jaratalassi grumbled. “They’re going for the anchoring unit. You’d better warn your people.”
+
+“And what are we to do, oh my old teacher?”
+
+It was a rhetorical question. They were both too experienced not to know.
+
+“I’ll handle the punishment,” Jaratalassi said. “You keep your people alive.”
+
+“Understood.”
+
+“Shield breach!” One of the vestals said, her hand smashed against her ear piece. She placed a red flag on one of the regiments of heavies. “Sir, shield breach. Children of the scales formation.”
+
+Sahin’s mind flashed. Panic rose in his chest, replaced by manic energy.
+
+He was the fucking best and his new people were going to live. His fingers danced on the communicator.
+
+“Arrays sixteen and eighteen, move forward to interlock. Keep those lanes cleared. The liberators will move forward and engage. Witch pact, fire at will.”
+
+“Sir?”
+
+A few of the operators exchanged confused looks.
+
+“You heard me. We’re going on the offensive.”
+
+***
+
+“Shield break!”
+
+The remnant of the artillery spell landed on the back of the heavies’ line. Young men and women in mail armor died a fiery death while the mage hastily opened the array’s back compartment for a spare core. He had fucked up. He should have changed it before but… he was supposed to wait for a lull in the bombardment and there had been none.
+
+Frosthawk would have his head on a fucking platter for this. And he deserved it. With quick gestures, he unlocked the exhausted core — it barely had enough reserves to maintain cohesion. He just tossed the eighty gold talents item to the side with shaky fingers to get the new one in faster. His mind slowed while he worked, taking in details with shocking clarity. In front of him, the others fought tooth and nail to keep the enemy infantry at bay. Another cart of corpses hurried past, a necessity to keep the line clear. It fucking stank.
+
+The enemy mages had smelled blood in the water. More spells were arcing overhead, colorful comets that would kill him when they landed. The core lock mechanism was too hot. He burnt his fingertips on them.
+
+“Come on, come on.”
+
+One of the Tide Weaver’s apprentices rushed to him, blue robes scuffed.
+
+“I got it.”
+
+She cooled the mechanism with a spell. He wasn’t going to be done on time. The first of the spells was coming down. More of the kids were going to die under his watch. They were fighting and yelling and covering each other and not looking up. They couldn’t run. Nah, they’d live. It was his time to shine.
+
+“When this is done,” he told the blue mage. “Just push the core in and the array will restart by itself.”
+
+“Hey, where are you going? HEY!”
+
+The mage pulled black mana from his core. He mixed it with the much more delicate colorless mana. It was a spell he’d only attempted a couple of times before, more as a bet than anything else, but now the sigils flowed into his mind and out of his fingers like it was fate. With absolute certainty, he was going to intercept those spells and with absolute certainty, just as he walked forward to get into the best position, the fragments were going to kill him. But he would stop the worst of it. It was a spell used by the empress herself. She’d said it was named after a rock-cleaving sword.
+
+“Durandal.”
+
+The spell took off beautifully. Whistles from crossbow bolts added a nice touch to the hiss of the falling death. Lots of bolts, suddenly. Red light from the liberators let him see another spell descending with perfect clarity. He cast again.
+
+The first interceptor impacted the attack with a terrifying blast. Thank all the light gods he’d stopped it. He cast a third time. It would have to be enough. The heat of the first exploded spell grew closer, and he wouldn’t have time to dodge. But he’d done it.
+
+The shield began to deploy. The blue mage had done as he asked. It wouldn’t do so soon enough to save him, but that was fine.
+
+A white flash appeared before his eyes. Scales like snow. Then it was gone, and so were most of the remnants of the artillery spells. Above him, shields moved, covering each other. A blue spell blocked the very last piece of explosive mana.
+
+He was saved.
+
+“I… I’m alive.”
+
+The blue mage slapped him hard enough to make him fall. He tasted blood but, somehow, he couldn’t be mad.
+
+“What do we always say about last stands?” she asked him, voice threatening further violence.
+
+He huffed.
+
+“We don’t do them.”
+
+“That’s right. Next time, help me replace the shield and then you can play hero while I shield you. Now hurry. We’re moving.”
+
+“We are?”
+
+It was true. The heavies were moving forward. In the distance, the red-scarfs of the Mountain Sons crashed into a unit of Ashlanders in thick bone armor. Liberators striated the smoky air with ribbons of fiery death. Drums roared, and someone had started singing. Even the witch pacts were leaving their ramparts, carrying barrels of bolts as they went. They were attacking? Now?
+
+“Well, what are you waiting for?”
+
+“I’m going. I’m going.”
+
+His mind returned to the flash of white scales that had saved him. It was definitely Arthur, the heiress. He looked up. The two familiar figures were missing.
+
+Where was the empress?

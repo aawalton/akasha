@@ -1,0 +1,269 @@
+---
+id: bd806f40-901f-5358-930e-6ec2b0f18a06
+page-type-slug: story-chapter-royal-road
+title: "Chapter 221: Diplomatic BBQ"
+slug: 0146-chapter-221-diplomatic-bbq
+partOf: the-calamitous-bob-stubbed
+position: 146
+ownLength: 4558
+unit: words
+ownProgress: 4558
+publishedAt: 2025-09-19
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2612287/chapter-221-diplomatic-bbq"
+royalRoadId: "2612287"
+markedReadAt: "2026-06-29T21:19:37.402Z"
+---
+
+No triumph awaited Viv upon her return. No fanfare, no explosions of joy and relief at the end of a scourge that had plagued the Sandsong with fire and death. No one sang her name. No one rejoiced. Instead, she was met by a mix of utter disbelief tinged with terror. The soldiers didn’t even approach her. Instead, they followed the procession in baffled silence, and at a distance no less. Even if Viv had put the necklace back on.
+
+She didn’t take umbrage. She guessed that if she’d led a squad of heroes into battle atop valiant steed, and the dragon had fled, then there would have been much celebration. It would have been like the family cat bringing the slain remains of an annoying rat. Instead, the cat had brought back the corpse of the neighbor’s doberman. As the soldiers inspected the pile of meat, their eyes widened to comical proportions. People were not even speaking at this stage.
+
+The only one who didn’t act subdued was Bes. The former ambassador walked to Viv’s side like a herald, his posture impeccable. Like Viv’s own damned shadow. It was no surprise after the lengthy talk they’d had on the way back. He had been extremely respectful and quite curious about Harrak and its structure. He had even heard of Wamiri, Solar’s wife and the only elite who had come from across the ocean. The change of attitude would have made Viv think less of him were it not for the fact Bes had made no apologies for his former conduct. When Viv had passed as a good artisan, Bes had been above her station, and she had been wrong to disrespect him. Now that Viv was proven to be an empress, Bes gave her all due deference because, as far as he was concerned, that was the way the world functioned. At least he was consistent.
+
+Under the light of the late afternoon, the royal couple left their tent, holding hands under the combined gaze of the entire camp. They came to stand before Viv and, with eerie synchronism, they kneeled. The royal guard joined them on the spot. Slowly, the rest of the army joined them with some hesitation. The mages joined as well. Only the priests stopped at a bow, because they only kneeled to the gods themselves. Now Viv had a forest of hair and turbans to look at. She was the highest person in the encampment. Even the tower guards had joined.
+
+And that was when she felt wrong, so very wrong. The royal couple had forfeited Sandsong’s sovereignty, not just without its people's consent but without even their knowledge. Now that they had committed to a fealty they were not even cognisant of, Viv realized she’d gone against everything Harrak had ever stood for. Self-determination, understanding, those were all elements that were such a fundamental part of her budding nation’s identity that she’d forgotten she was standing for them. She’d come to slay the dragon and make alliances because she knew fate would come knocking, and it was always better to meet it halfway. But now the reward was in front of her and she realized… she didn’t want it.
+
+“Your Majesty,” King Jei. “Before you reveal yourself to our people, I would like to address you, and them, as a final request.”
+
+Viv nodded, not wanting to ruin the vibes.
+
+“My people, I have hidden the truth from you and for that, I am sorry. As you know, the Sheem are encroaching upon our land. They will be there very soon. The war we had tried to avoid has finally come, and far  sooner than we expected. It was our responsibility, Queen Naila and I, to protect you from them. At the same time, the dragon has laid devastation upon our cities and villages. Thousands of souls returned to Enttiku’s warm embrace to feed its greed, and its petty rage. We did not have the means to stop either of those threats by ourselves. Sandsong needed allies, and so, we turned to her. Your Majesty, if you would reveal yourself?”
+
+Slowly, Viv removed the necklace. The weight of her soul spread throughout the encampment in a much gentler wave than what she’d released facing the dragon now that her frustration had returned to an ‘every day is Monday’ level. This time there were whispers of awe. Since King Jei had made the request, she obliged.
+
+“I am Viviane, Empress of Harrak from across the ocean, Elemental Archmage of the Black, and Dragonslayer.”
+
+She assumed a ‘pleased to meetcha’ would have been a little extra. She was just here to facilitate King Jei’s speech anyway.
+
+“Thank you. Harrak is a reborn nation. Much like our own, their people seized the power from the hands of the unworthy. Much like our own, Harrak is in a constant war to claim places too hostile for humanity. Our perseverance, our honor, our determination to promote justice and hard work over interests and favors, that is what unites us. I hope you, Empress Viviane, will continue to maintain this spirit. To my people I say that I am sorry I couldn’t be enough, that we couldn’t defeat the dragon, and I tell you now: in order to save us, Queen Naila and I agreed to accept Harrak as our sovereign state.”
+
+Whispers of consternation swelled through the ranks, but only briefly. They deflated almost immediately to be replaced by resignation and understanding. Viv was a bit disappointed and sad it would be so fast, in a way. The Sandsong had followed a new dynasty only a generation before, only for their independence to be lost now, and yet they knew it couldn’t have been any other way. Fleeting glances towards the stone slabs carrying enough meat to feed an entire city for a day reminded them that Viv had felled a creature of legend.
+
+She was pretty much a myth at this point. Obeying her was like accepting a natural disaster, and now they’d lived under one that had devastated their nation for so long that they were ok with the one standing there with the butcher inventory.
+
+“As we promised her, Queen Naila and I will not repeat our oath publicly.”
+
+They did. It was brief and they really meant it from the way their souls shifted while the oath took hold again. At this stage they would die on the spot should they try and break it. Once they were finished, both of them stood, approaching her. Their confidence was much more brittle from up close.
+
+“We hope we’ve made the right decision,” King Jei said.
+
+“We beg of you. Don’t be worse than the dragon.”
+
+Viv chuckled.
+
+She could be worse than a dragon, but only when it came to debt repayment plans.
+
+“Alright, my turn. Greetings everyone! My name is Viviane. I’m the Empress of Harrak but really, I’m only the empress because that’s what the story calls the ruler of my nation. The truth is, I lead the Harrakans. I have led them from the beginning when they were not yet that, but refugees hiding in a mine from an Enorian prince’s slavers. I led them through a lot of shit and we accomplished a great many things, and made a great many friends on the way. Some of those friends became Harrakans. Others remained just friends. Either way, I am happy. Every day we reclaim more land from the deadlands, which is like this desert but with more revenants and less heat. My people build and innovate and live and create families, and we stand side by side even though we are different. Indeed, Harrak has new people, Harrak has friends, Neriad, we even have rivals. And some enemies! But what we don’t have is slaves or servants.”
+
+Viv turned to the royal couple.
+
+“I hereby relieve you of our oath.”
+
+The soul shackles around their minds dissipated in an instant. They made their best interpretation of the ‘beached fish’ expression of surprise.
+
+“We don’t do slaves. There isn’t a single person who serves Harrak who hasn’t joined willingly. This isn’t just who we are, it’s also what made us so strong that despite our small size, nobody has tried to mess with us in over ten years. I hope we can be allies and as soon as things have returned to normal, that we can exchange goods, people, technologies and know-how. I hope our ships will sail side by side and that our teams will hunt monsters together. I do expect, that when we call for help, you will return the favor, but as I said we don’t do subjugation. So rise, friends, and be merry. The dragon is dead, you are servants to no one, and the deadliest magical duelist alive will be on your side in the next battle.”
+
+“Thank you…” Naila said, and Viv was pleased to see she was a bit teary. “I cannot believe my luck.”
+
+Yeah, well, Viv hoped it would last.
+
+“And now, I didn’t bring all this meat back for decoration. Let the cooks come forth! I call for a feast to celebrate! Let the mighty flesh strengthen you before the impending battle!”
+
+This time there were cheers. Unfortunately, they were not as loud as Viv would have hoped.
+
+***
+
+The mood of the banquet improved dramatically when the Sandsong realized they were allowed to just ignore Viv. Sitting at the central table, she spent her time in low conversations with Jei and Naila whenever she wasn’t using Bes to convey her requests. The two were cautiously optimistic, as in, they didn’t quite believe Viv meant what she’d said. They were looking for the other shoe to drop for her to reveal she’d poisoned the meat or something. The idea that Viv could give up on dominating a nation on the spot was so foreign to the entire planet’s mindset that they just couldn’t accept it. Even her identity as an outlander wasn’t enough to shake the solid foundation of distrust life and history had imparted upon them.
+
+Viv was still allowed to hold the ruling couple’s little girl as a gesture of trust. She was a very nice bundle of gurgling baby with large black eyes who stared at her with unbridled suspicion. Or maybe she couldn’t see very well just yet. Her parents did relax after a bit when Viv started listing the stuff that sold well around Param for export purposes, discussing taxes, exchange rates, and forbidden goods. Lost in the minutiae, they finally allowed themselves to believe.
+
+“Who usually pays the salt price?” Jei asked at some point while Naila had retired to feed their child.
+
+Viv frowned.
+
+“The salt tax is the purchase of the salt used to cure shipped meat so that it may be safely carried on a ship,” Bes helpfully told Viv.
+
+Bes was proving himself super useful. He had taken to the role of her majordomo and chief of staff — such as it were — with quiet competence. It was like having a second Solfis, only much better at people and not quite so murderous. Once the dragon meat started to land on tables alongside freshly made bread, grilled vegetables and a sort of sweet corn, the mood improved drastically. A bite of the choicest pieces confirmed that the meat was extraordinarily rich in both taste and mana. It was just a little bit too tough to be served like that but she made it work. Maybe pulled dragon would be the best way to process that specific meat. Not that she would make a habit of it.
+
+It was unfortunate that she was already too strong to get much use of it. She was sure the soldiers and mages would get some temporary boosts, maybe even some stats improvement. It couldn’t hurt.
+
+Quiet gazes still followed her on occasion. Even those who served her food wouldn’t meet her eyes, and only addressed her in hushed whispers. Her speech had been nice but it was far too little too late.
+
+It also went to show how different the Harrakan perspective was. Seeing someone whoop a dragon’s ass was the stuff of myth now. Back in the remnants, she’d occasionally chase Gale when he refused to bathe and the nearby people didn’t even blink before the cataclysmic display of power she delivered. At most, they would offer her some food if she floated within speaking range. Children chased Clio for stories while there was some sort of polycule around Abenezigel because he was really, really good at patient advice or something. And at sex. For Harrakans, the weirdness was just a normal part of existence, and one who would panic when an unknown dragon flew overhead carrying a large barrel of fish sauce simply couldn’t live in Frostway. They’d also seen Viv grow into the powerhouse she currently was. The raw, unfiltered version was too much for the people of Sandsong. They didn’t know what to make of her. It made her miss home terribly. Even the nerd pack’s jabs at her witch logic sounded like something she’d like right now.
+
+“If you will excuse me, Majesty, there is a matter I need to tend to,” Bes said, interrupting her reverie.
+
+“Oh you should eat as well.”
+
+“I had one of the cooks save me a plate. Do not worry.”
+
+Vvi watched him leave at a brisk pace while Lady Mar the scout urgently hailed him. She didn’t follow. He knew what he was doing. Instead, she returned her attention to Jei.
+
+“Let’s talk about reinforcements next. The campaign against the Sheem will be a long one. I may be able to move troops here but it might take a while.”
+
+“They are overextended, Your Grace. Despite their pretensions at being good to their people, they tend to merely replace one ruling class by another, considering loyalty as more important than true skill. There are many discontent people we must mobilize.”
+
+Viv listened to Jei’s lessons, but her mind kept returning to the thought of the war ahead. She couldn't just carry her army across the sea. She didn’t have the logistical capacities.  That was going to be a major issue. It was also an issue for future Viv. Right now, her job was to stop her allies from being so damn skittish by convincing them she wasn’t as bad as a mad dragon.
+
+Obviously she was much worse but they didn’t need to know that.
+
+***
+
+The spy left the camp at a good pace, the dragon meat in his stomach filling his limbs with energy. He crouched behind a bush where the scouts couldn’t see, then angled away, towards a large rock at the base of another dune. Time was of the essence.
+
+The scroll of his interface had already informed him his power had increased with a flourish of a feather. If he had grown stronger in just an hour from this miraculous food, there was no telling what effect it would have on an entire army. Not that it would be of any consequence.
+
+The spy knew what the problem was. The Empress of Harrak, a sovereign from some distant land, was here. Although the Sheem had agreed to serve under the immense might of King Oleander, someone who could slay a dragon in single combat would be, if not a match, at least a contender. His people had to know. They were moving in expecting a shattered force and instead, they were going to face a dragon slayer. Nobody had seen the fight but everyone had tasted the meat. He didn’t dare think what that empress person was capable of.
+
+A shiver crawled down his spine.Those eyes. They were not the eyes of a human being. Maybe she was blessed by one of the dark ones.
+
+A dragonslayer.
+
+The hawks must be told, or thousands would die.
+
+“Going somewhere?”
+
+The spy froze, fingers away from the communication altar he had buried there. His hand went for a pill in his pocket. Not for his sword. He knew it would be of no use.
+
+That snake Bes was standing a dozen steps away from him. The spy took some measure of comfort from the fact he was sweating. Unfortunately, Lady Mar, the Ravinport scout, was standing next to him. She was more dangerous than he had expected.
+
+“And that is why patrols and sentries must be shuffled often. The Sandsong rely too much on their knowledge of the desert, not enough on their knowledge of the self,” she said.
+
+The blade master was here as well, alongside an officer. The spy used [sleight of hand] to swallow the pill. He hoped he hadn’t been lied to.
+
+“Are you not from Sandsong?” the fallen envoy asked, disgust dripping from his every word.
+
+“There are some… some causes that transcend a people.”
+
+Cold spread through his limbs, but there was no pain. As promised.
+
+“A world built on merit, not birth. One where the poor do not starve. I will not see it, but you might. The king and queen cannot be everywhere. They were not here when Baron Ko seized my parents’ mill so he could grant it to that pansy Tor instead. Nothing ever changes. Not really. Not unless the kingdom falls.”
+
+They were keeping their distance. They knew. At least, it would be painless. His only regret was that he had failed the scouts who would die warning the rest.
+
+“There are indeed causes that transcend one’s nation. But you chose poorly,” Bes said.
+
+The spy didn’t feel himself fall but the ground did come up to greet him. Only warped sounds came, the envoy, still talking to himself.
+
+“The strong always rise to the top. So long as humans are humans, that truth will remain. You must choose which one you will follow so that their vision can shape the world we lesser beings must live in. I have decided to follow the one who slew a dragon, then refused the reward. You have chosen the hangman. You fell for his lies. There is no kindness to be found in a servant of Maranor, fool, only the strength and order they believe in.
+
+The spy died. Bes let him go peacefully as this army didn’t have paths capable of making him talk anyway. He picked up the communication altar.
+
+“What now?” Captain Sin asked.
+
+“Now? Now we return and keep an eye out again, or were you confident this was the only spy?”
+
+“No…”
+
+“If you hope to influence a war of legends, Sin, you must be prepared to go all the way if you hope to make a difference.”
+
+“I do not need lessons on duty, Ambassador. I am a Janar. Though I do appreciate your advice when it comes to subterfuge.”
+
+There was a brief tension between them. It didn’t last long. Ravinport would need their help if it ever hoped to be its own again.
+
+“Let us return. Something tells me this is just the beginning.”
+
+***
+
+It was late at night but Bes was confident that the Empress wasn’t sleeping because he could hear the faint hiss of magic coming from her tent. He was not a mage by any means, but he did practice with fire on occasion and his basic talent allowed him to feel her move the will of the world around. The two sentries let him and the two others pass without challenge. He knocked on the post as a matter of politeness although he had no doubt she’d felt them approach.
+
+“Come on in.”
+
+The inside of the tent was dull when they approached, the twin emerald circles of her irises shining ominously in the darkness. A gesture from her, and an engraved stone emitted a soothing blue light. He had never seen magical lights that were not white before.
+
+“Blue?” Janar Sin whispered.
+
+“A simple matter of wavelength… but that would take some time to explain, and I assume you have a reason to come here, hmm?”
+
+Since the reveal, she had given up all pretense of normalcy. The confident, tall woman had been replaced by a domineering sovereign whose posture radiated with power. Others might have been intimated by two men and a woman entering her private quarters so late in the night but there was not a hint of doubt in the woman’s patient expression. She wasn’t larger, exactly, but she seemed to occupy more space, and even standing five steps away made him feel like he was inside of her space. Bes was used to high leadership skills, but this? This was different. He bowed smartly.
+
+“I have something to report, and a request.”
+
+Black tendrils manifested in the air a full arm away from her body. They carved symbols on a metal chestplate with a hiss. It was happening while the woman wasn’t even looking, a ridiculous feat for anyone who knew enchanting and its cost.
+
+“I regret to say that I cannot afford to stop my preparations at this stage, but I assure you, you still have my attention,” she said, sensing his own attention shift.
+
+Her tone was not an apology but the mark of respect was still a good sign. He bowed again.
+
+“Thank you. With our assistance, the Sandsong have caught two spies who were attempting to send messages to our enemies. I estimate that they do not have more as two was already a high number for their type of operation.”
+
+“Then we could still have maintained some measure of secrecy. Good. Now, as for your request?”
+
+Bes took a step forward.
+
+“What you told us, when you released the oath, I recognized it as truth. Your soul was bared. Before we continue, I would like to ask you a few questions.”
+
+“Yes, you can enter my service and leave it to return to Ravinport at a later time.”
+
+Bes stopped.
+
+“Ah.”
+
+“I assume that you, Lady Mar, and you, Janar Sin, had similar intentions? We will fight the Sheem and their master. I also offer decent pay and free healthcare up to and including limb regrowth. Resurrection not included.”
+
+“How did you guess?” Mar asked with a mighty frown on her honest face.
+
+“Believe it or not, you are not the first group to consider joining my banner. Most of us come for a safe place to carry out our ambitions and they usually stay for the food but some people do return to their homelands after a while. You have lost your nation and I offer vengeance. It is logical for you to seek me. I will need to clarify something as well. If you do serve Harrak, you will abide by our laws and your service will not end at the moment we need you the most. We have had no trouble yet, but I feel the need to say it anyway.”
+
+“I would never desert you!” Janar said, “do not imply that I would!”
+
+He was quite offended. Rather than talking him down, the Empress waved his concerns away.
+
+“I am saying this because this war just started and it will get much worse before it gets better. I had to say it.”
+
+“You will not find us lacking.”
+
+“I’d like to join as well, as a scout,” Lady Mar said. “You… do have have a scout corps in Harrak. Naturally?”
+
+The empress smiled.
+
+“Oh, you have no idea. I will have your oath, then leave me until morning. I need to finish this armor set tonight or there will never be enough time.”
+
+“I can protect you,” Sin offered.
+
+“You will protect me, as will my shield, as will this piece of armor. Trust me, I’ll need every layer. Now, repeat after me…”
+
+***
+
+Viv was in the command tent the next morning alongside Jei and a disheveled Naila. Even stats couldn’t save someone who never got more than three hours of uninterrupted sleep. Meanwhile, the soldiers outside were almost ready to leave, with advanced parties already on their way east.
+
+“I think we need to talk about plans now. You mentioned that the Sheem army was approaching the pass. Can we defend it?” Viv asked.
+
+The royal pair exchanged a quick glance. King Jei nodded at his wife.
+
+“Before we begin,” Naila said, “messengers have brought news from the capital. Ravinport ships have arrived carrying exiled families and most of their soldiers, a bucket of hope in an otherwise arid situation. The other piece of news is more surprising. Ships have come from across the ocean, Your Majesty: four large war frigates with cores, like in the old days. Their sails are black, with a triangle and dragon wings as their flag.”
+
+Viv blinked. That was definitely the Harrakan ‘fleet’, such as it was. Hey, she’d only had fifteen years to get the dry docks going. Why were they here though? What was going on?
+
+“Please let them know I am here, and inquire the reason for their coming.”
+
+It was going to complicate reinforcements as well. Agh. Not convenient.
+
+“It will be done. Now, for the plan. My love, if you will?” Naila finished with a yawn.
+
+King Jei moved over to the command table. He pointed at little statues nearing the Salt Mountains pass. They didn’t mean anything to Viv.
+
+“We have enough time to move the army there, and then prepare for one day. The enemy might not know that the dragon is dead. Even if they did find out, there are no witnesses to the fight. Even if there were witnesses, they would be scouts who would not understand who you are or the tools at your disposal. I believe we still have secrecy on our side. As such, I propose the following plan: the army will converge upon the ruins of the city of Barrier. At the same time, our scouts and singer mages will deny the enemy their sight. We will allow the Sheem to descend upon the ruins of the fort assuming it is empty, then we will spring a trap. Can we count on your support?”
+
+“You can count on my support, yes. I will take a position inside the city and cast a massive spell from there. Even if we are outnumbered, I can cut the Sheem army in half and allow us to defeat them in detail.”
+
+“Our mages are at your disposal!”
+
+“Nope. I don’t know them, they don't know me. Just tell them I’ll be tossing massive spells and killing elites and let them do their thing. We don’t have time to train together.”
+
+Jei seemed very surprised, but Naila nodded in understanding.
+
+“She is a witch, dear. Let us magickers do our thing and you slice our enemies, alright?”
+
+“You will be fighting at the front?” Viv asked.
+
+The two looked at her with a mix of pride and arrogance Viv was very familiar with.
+
+“Of course! We lead the army!”
+
+“Forget I asked.”
+
+“We shall depart immediately. We lost two of our singers last night as they were flying over the enemy army, and had to pull back the rest so information is sparse, but I have no doubt that with you at our side, victory is — “
+
+“NO!” Viv screamed. “No. Don’t finish that sentence.”

@@ -1,0 +1,207 @@
+---
+id: 6f3e7e62-c0dc-5270-9fef-2eb383a81abf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 48: The Burden"
+slug: 0048-chapter-48-the-burden
+partOf: the-gift-of-loot
+position: 48
+ownLength: 3101
+unit: words
+publishedAt: 2026-06-29
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3608456/chapter-48-the-burden"
+royalRoadId: "3608456"
+---
+
+Thomas sat in one of the high-backed chairs next to the fireplace, feeling a little like he had been called to the principal's office. Or, considering the circumstances, Dumbledore's office.
+
+Nah. He was no Harry Potter. He was a Neville Longbottom at best.
+
+Akilah fussed around at his apothecary table for a moment, then came over with a simple ceramic cup with no handle. Steam rose from the top, and it smelled like coffee but looked like hot chocolate.
+
+"Drink this," he advised. "We call it chouk. From what I understand, it is similar to your coffee."
+
+Your coffee? Thomas thought. He considered politely declining, especially as he was almost certain there was still mental manipulation in the air.
+
+But was he a healer or wasn't he?
+
+Thomas took a small sip, waiting to see if his tongue tingled with oncoming allergic reaction or he clutched his throat, fell over, and died. The chouk tasted exactly as it looked, like extremely sweet hot chocolate.
+
+The first swallow slipped down his throat and...
+
+He suddenly felt alert, though not with coffee-high jitters. This was like waking up after a refreshing, solid eight hours in bed with his favorite blankets and the pillow just right.
+
+Thomas took a larger sip. More chouk didn't increase his alertness, but he found he didn't mind the sweetness as much.
+
+"Try not to have more than a cup every 48 hours," Akilah advised gravely, though there was a smile in his eyes: one coffee/chouk addict recognizing another. "This simulates rest well enough, but the body still needs the real thing. Now," he said, changing the subject, "since you are new to the System, I imagine that you have questions."
+
+With reluctance, Thomas set the chouk down on the side table.
+
+"I do, yeah, but before we go into that, I am going to need you to drop whatever mental magic bullshit you still have running."
+
+Akilah blinked, and that looked completely normal, which confirmed that something was definitely off.
+
+To Thomas's surprise, he didn't deny it. He simply inclined his head. "I assure you," he said, "the calming aura is for your comfort, not as an attempt to manipulate. Your people tend to become agitated around us. My aura is used as a courtesy only."
+
+"When you say 'your people,'" Thomas said carefully, "you mean humans."
+
+Again Akilah inclined his head.
+
+Oh my god, I'm really sitting in front of a lizard or something wearing a human mask.
+
+"We have been studying your cultures, of course," Akilah continued, as Thomas manfully tried not to freak out, calming aura or no calming aura. "There has been notable friction between separate human races. It was thought that the holographic disguises would ease the way."
+
+"I understand racism is a real problem in the world," Thomas said, "but I've seen some real weird stuff in the last few weeks. I can handle what you have to show me."
+
+Besides, he didn't have a problem being around lizards or snakes in the past. Sharing a cup of alien coffee with a human-sized lizard shouldn't be too weird. Right? Right.
+
+So, did he smile like a crocodile, or...?
+
+Akilah nodded once, and he must have dropped the calming aura, because suddenly all the hairs on the back of Thomas's neck were standing on end. There was something about the man's face that was profoundly off. Every blink was wrong, and his attempt at a polite, professional smile made Thomas's skin crawl.
+
+Then the healer dropped his disguise entirely.
+
+Thomas stared for a long moment. Akilah was not a lizard.
+
+"Are you... Na'vi?"
+
+There was a strong resemblance, and yet not enough to get these people sued by the House of the Mouse. For one thing, Akilah was not ten feet tall, just the same size as his disguise earlier. His skin was bluish-gray, with the same neatly trimmed white beard and steel-gray hair. His eyes were larger than a human's, with piercing yellow sclera and dark irises. He didn't have the tiger stripes, though his nose was wide and flat.
+
+Also, he had long ears that tapered off into a point.
+
+"No," Akilah said, with forced patience, as if this was not the first time he'd heard that comparison. "I am a dark elf." He didn't say obviously, but it was heavily implied in his tone.
+
+Then he blinked. His eyelids moved sideways across his eyes like a lizard.
+
+Thomas snorted a laugh and quickly covered his mouth. "Sorry, I'm not laughing at you. It's just that this has been such a weird night." He took another look at Akilah, checked his own reactions, and nodded. "Okay, the creepiness factor is gone. I think those disguises fall right into the uncanny valley for most people."
+
+"I beg your pardon?" Akilah asked, sounding as if he wasn't sure whether to be affronted by creepiness factor or intrigued by uncanny valley.
+
+"I don't know the science behind it," Thomas said, "but for human beings, when something approaches visually human-like but is still slightly off, it creates instinctual feelings of distrust and revulsion. Also, the cardigans all the other guys were wearing are weird for the area. So, why are dark elves on Earth?"
+
+Akilah blinked again, thrown off by the change in subject. "That is a conversation best had with the elders. In the meantime, this is valuable information. I will research this... uncanny valley further." He folded his fingers in his lap. Thomas noted he had five on each hand, though the thumb was on the outside where the pinky finger should be, not the inside. "Now, let us talk, healer to healer."
+
+Thomas sat up. "Okay?"
+
+"Specifically, I wish to speak to you about the Burden." The way he said it put capital letters around the word. "If you have successfully absorbed Healing mana, you have certainly felt it. The first thing you should know is that it is different for every single person. Some find it much heavier to bear than others, though all healers have one thing in common: the act of killing a sapient creature creates a soul-damaging backlash."
+
+"Oh." Thomas found he couldn't quite meet Akilah's intense yellow eyes anymore. He looked off to the side. Yeah, he knew what he meant. "The Burden, huh? Catchy name."
+
+Akilah continued, "For most, it goes further than that: It's not uncommon to experience crippling empathy to the point that when a Burdened healer sees suffering, it is as if they are experiencing it themselves. Others find they can no longer stand to eat the flesh of animals, or can only eat the fruit of plants because it presents the least amount of killing. Most healers are dedicated pacifists and cannot defend themselves against attack, not even of a dungeon monster." He sighed. "Then there are the reactions of people towards you."
+
+"What do you mean?" Thomas asked, though he had a funny inkling where this was already going.
+
+"There is a general antipathy to hurt a healer. I suspect you've already encountered a dark class who feels very much the opposite. Those are thankfully rare. This, too, grows with your level. However, consider a situation where somebody means to attack you but instead redirects it at a teammate, or simply an innocent bystander. You will see that and know that you were responsible in some small way for their injury. That has been enough to break the will of heavily Burdoned healers in the past.
+
+With a sigh, Akilah fell into full lecture mode. It seemed he had said this part many times. "People have tried for centuries to find workarounds to the Burden or compromises. The modern theories point to healing mana acting like an amplifier of a person's inner spirit, which is the purest part of themselves. You can meditate on ethics, come to different moral conclusions as you grow and mature and strive to become a whole new person who makes different choices. None of that will change your inner spirit. The theories are it is long fixed by your ancestors, your earliest childhood experiences, and some aspect of your core, itself. There are some instances of healers losing their entire memories and personalities thanks to curses, and yet their Burdens have remained the same."
+
+"Naturally this means," Akilah continued, "that it can be difficult, if not impossible, for most healers to become successful dungeon divers. Even if their personal Burdens allow the killing of monsters, it is a career steeped in violence. To grow stronger and keep themselves safe, divers must choose skills which help them to keep a fighting edge. However, this builds up unused healing mana—"
+
+"Which builds up empathy," Thomas said heavily. "I've felt that."
+
+Akilah was quiet for a moment, letting him think, before he said, "This is why I wished to speak. You should know that there is a path you can take—that most take," he corrected, "before you go any further."
+
+Thomas looked up at him.
+
+"It is called rescission of the core," Akilah said, and smiled slightly. "It is why I believe the System is ultimately a good force. It has shown us mercy. As healers, we are the only ones who have the option to burn our cores past the layers we have built, back down to a base mortal state. From there you have the option to... start anew." He flicked his fingers. "The amplified empathy is gone, as are any classes or natural treasures you've absorbed. Most former healers start again with a water or earth-based core, but there are the occasional outliers."
+
+"My Gift?" Thomas asked.
+
+"That remains the same, as it is a magical manifestation of your inner spirit. However, if you do happen to have a healing Gift, you do not need to use it."
+
+Akilah leaned forward, making his point very clear. "Seventy-five percent of people who have the capability to develop a healing core either never absorb healing mana or complete rescission after they have. Choosing to rescind is a reasonable response to an unreasonable Burden. It is why healers are held in such regard. Everybody loves a healer, but very few can handle living as one."
+
+Thomas checked again but was almost entirely certain there was no mental manipulation involved. Still, this seemed to be all downside. "You're giving me the hard sell on rescission. Why?" he asked bluntly. "You don't think I should be a healer?"
+
+Akilah's eyebrows rose. "Quite the opposite. In fact, I hope you continue forward. You are exceptionally talented, Healer Thomas."
+
+Talented or not, he was thrown by the whiplash. "What do you mean?"
+
+"You executed a perfect support bridge on a dying friend with no training whatsoever. Most level 3 healers couldn't hold a bridge for a minute on a stranger they had no emotional connection to, much less stabilize someone they cared about for over an hour."
+
+He didn't know if Akilah was blowing smoke up his ass or if there was something going on, because the bridge had been easy once he understood what to do. "Talia said her sister could do it."
+
+"Talia adores her sister and thinks the best of everybody, and as a matter of fact, her sister choose to rescind her core and is now a quite adept archer. No, Thomas, the bridge you held was not simple. I'm telling you a true thing. Furthermore, if things go well with the Council of Elders and you are willing, I would have you as one of my apprentices." He paused. "I understand you don't know who I am, but this is a high honor."
+
+"Uh," he said awkwardly. "Thanks. This is a lot to take in. Look, are there emotional regulation skill shards? Something I can use so I'm not as affected by someone who's hurting?"
+
+"There are," Akilah said matter-of-factly. "But they are generally given to those who have conditions where they cannot regulate their own emotions. For healthy individuals, complete emotional regulation has the ironic likelihood of inducing psychosis." He paused, there was a twinge of sympathy for all Thomas wasn't asking. "Sapient beings are meant to feel, even if it's uncomfortable."
+
+So, he would be like a mentally stable person taking a schizophrenic's meds.
+
+Thomas looked down, feeling torn and oddly disappointed with himself. "Healing mana was just a way for me not to die screaming in a dungeon. Then... things got complicated."
+
+His Gift was loot. That was why he continued to dive into the dungeons. This healing thing was secondary. Now it felt like it was about to take over his life.
+
+But should he give it up? Could he? When he had saved Zach, Jo, and Twitch and rebuilt his brother's hand from nothing? When he'd healed himself from being shot in the chest, having his jugular slashed, and from a lifetime of PTSD?
+
+Could he give it up when he actually, truly enjoyed being able to help people?
+
+"My Gift is animal speech," Akilah said unexpectedly, "but I certainly never wanted to become a healer until the day my pet wolfin started choking on a bone. I absorbed a healing crystal in a last-attempt to form the bridge. It worked, but even then, it took some time to transition over to human health. People can be challenging."
+
+Thomas snorted at that. Then he decided, What the hell? He was going to be challenging.
+
+He looked up to meet Akilah's gaze. "What about being some sort of combat healer? Someone who can do both healing and fighting. You gave me the downsides. Is it impossible?"
+
+He didn’t know much about it, other than what he’d vaguely learned from video games. But if something like that was possible…
+
+Because he was watching closely, he didn't miss the elf's slight grimace. "They’re rare. I already outlined some of the challenges a combat healer would face by gaining fighting skills plus managing their increasing healing mana load."
+
+"How rare?" Thomas asked, warming to the subject.
+
+"I've been alive nearly seven hundred years, and I've known two," he said. "Needless to say, the Burden must rest lightly on your shoulders to attempt it at all."
+
+Thomas, though, was thinking ahead. "We get classes at level five, don't we?"
+
+Akilah hesitated for a long moment. "Yes, and I know what you will ask next: Most paths are smoothed out with the first class and Gift evolution, but I cannot promise anything. The System offers classes best fit for you. Combat healer is extraordinarily difficult to strive toward, much less follow."
+
+"I've never chosen the easy path," Thomas lied like the lying liar he was.
+
+Of course he liked easy. That's why he enjoyed loot drops. He also really loved the discoveries and power from skills, mana, and items. If he was going for riches, why not have the power to heal himself and his friends along the way? They say you can't buy good health. Thomas begged to disagree.
+
+Plus, no one would look for a loot power in a healer. From the sound of it, most enemies with the exception of dark classes would hesitate to even attack him. What was the word Zach had used back at the coven? Sacrosanct?
+
+Thomas was warming up to this idea.
+
+Akilah looked quietly exasperated, as if seeing a promising PhD candidate tell him he was taking up a career as a skydiving instructor. "Think about all I've said," he intoned, "and if you do ever choose rescission, I will walk you through it. Or, of course, you may do so in private. No one here would think badly of you."
+
+Thomas grew serious again. "I understand."
+
+With a nod, Akilah rose. "Your teammates should be awake within a few hours. You will be summoned to speak with the Council of Elders after that time."
+
+Now that Akilah was standing in his true form and Thomas could get the full length of him, he saw that his bodily proportions were off from human-normal too. The shoulders were a touch wide, the arms long enough that the tips of his fingers could touch his knees. He was definitely alien, yet not as unsettling as he'd been when trying to pass himself off as human.
+
+The elder healer walked out. No, he did not have a tail.
+
+Despite everything that had been said, Thomas chuckled a little darkly. The guy really did not like the idea of combat healers, yet they did exist.
+
+He'd felt some kind of way about his healing mana for a while. Now that he'd gotten the full story, though, he paradoxically felt more at ease, not less. He had a name for the empathy. It was not a moral failing, and he wasn't weak.
+
+He also didn't think that his Burden was strong enough to stop him. He never liked what industrial farm animals went through, but he ate still meat from grocery stores. Now he knew for certain what killing someone would do to his soul, he'd avoid that... but he was no pacifist. And yeah, he'd lied to Zach that one time because he absolutely had shed a--tiny!--tear at those gut-wrenching humane society commercials, but... c'mon. They had Arms of an Angel playing in the background. He wasn't made of stone.
+
+Sure, he'd have to figure out some workarounds, but he could handle that.
+
+And if it ever became too much... now he knew there was an out.
+
+Rising, he checked on Jo, who was sleeping deeply, and on Zach, who was doing the same. His multicolored IVs were only half-drained.
+
+Thomas took a seat nearby so he could keep an eye on both. He was completely awake thanks to the chouk and wouldn't want to go to sleep anyway. They were in unfamiliar territory, and someone should stay up to keep watch.
+
+Thomas began planning for the future.
+
+****
+
+Zach started shifting around and blinked open his eyes about two hours later.
+
+He looked around the old-style library living space with a woozy expression, and his gaze fell on Thomas, who was sitting nearby. "Bro, am I in a gentleman's club?"
+
+"Home Tree, I think," Thomas replied.
+
+"What?"
+
+Thomas snorted and got up to check the IV. He only had a little left, but he may as well use it all. It was free mana. "How do you feel?"
+
+"Like I've been hit by a truck," he muttered. "Seriously, where are we? Is Jo okay?"
+
+"You saved us with the teleport," Thomas assured him. "We're okay. As for where we are... have you heard of Dark Elves?"
+
+Zach stilled. "Hold on, run that back?"

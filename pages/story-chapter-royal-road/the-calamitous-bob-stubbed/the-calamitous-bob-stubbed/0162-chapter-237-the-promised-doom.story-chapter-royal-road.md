@@ -1,0 +1,573 @@
+---
+id: 85161a3c-ef64-57b7-9d8d-e918411c52c6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 237: The Promised Doom."
+slug: 0162-chapter-237-the-promised-doom
+partOf: the-calamitous-bob-stubbed
+position: 162
+ownLength: 6767
+unit: words
+ownProgress: 6767
+publishedAt: 2025-11-16
+link: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2765771/chapter-237-the-promised-doom"
+royalRoadId: "2765771"
+markedReadAt: "2026-06-29T21:20:13.886Z"
+---
+
+Aragan approached her death with resignation, but also with relief. After fighting for so long, her fate and the fate of the world were now out of her hands. It was finished. Everything was over. She could fail no further. Each of her steps felt lighter than the last despite the fear of her imminent demise, and the expectation of a quarrel, or a dagger finding her unprotected heart. She did feel the pulse of black mana hinting at hidden foes not yet able to fully mask themselves. but weirdly, nobody stopped her on the way to the Empress of Harrak. The half-elemental Ascender was sitting on a nightmarish throne with her dragon lounging at her back. A priest was slathering some pink goo on her cheek which ruined the absolute evil impression she was giving. Her new shield waited at her feet.
+
+Aragan stopped before the throne. The Great Black Witch waited patiently for her to talk. That was a little annoying.
+
+“I know you’re going to kill me,” Aragan began with more confidence than she really had. “I have not come here to beg. I have come to face my end as a warrior. I am Aragan, the One Breath, daughter of Draigo of the Whispering Rocks tribe. Remember it well.”
+
+“Actually I was hoping you’d surrender.”
+
+Aragan scoffed to trample the deceptive bloom of hope growing in her heart.
+
+“You expect me to believe you will let me go?”
+
+“Yes. We’re sworn to Neriad. That’s our whole thing.”
+
+She sounded bored.
+
+“Many rulers swear by gods, but their words and actions are often at odds.”
+
+The woman blinked, then frowned. The priest was done with her cheek.
+
+“Anything else?” he asked.
+
+He turned his crooked nose to Aragan. His smile felt warm and a little mocking too.
+
+“Do hurry, young one. There is a queue.”
+
+Aragan turned to find a line of leaders slowly making their way to the throne. She was but the first of many. She recognized most of them as the chiefs of minor clans, or knights who had not been trusted and so had been spared a fiery death on the edges of the formation. It looked like more of the Baranese knights had survived the battle than she believed. Those who hadn’t died the previous day, at least.
+
+“Yeah so if you could just surrender?”
+
+“You would allow it, even if I almost killed your paramour?” Aragan objected although at this stage she was just grasping at threads.
+
+The empress rolled her eyes.
+
+“Almost killed him? Yeah, right. If I killed everyone who believed they ‘almost killed’ Sidjin I’d have to depopulate Glastia. Nah. Look, I’m not killing people who surrender unless they committed vile actions against civilians. I don’t think it was the case for you?”
+
+“Of course not! On my soul I so swear.”
+
+“So if you could just , you know, do it…”
+
+“If this is some sort of ploy to—”
+
+“OH MY FUCKING NERIAD WILL YOU GET ON WITH IT THERE IS A LINE AND I AM TIRED AND IN PAIN. OKAY? FUCK!”
+
+“I… I surrender.”
+
+“Keep your bow, find your tent, and stay put. You’ll get your chance to leave soon.”
+
+This is the part where you salute and leave.
+
+A puff of ghostly heat convinced Aragan that she was, in fact, going to live and also that she was actively sabotaging that chance by talking.
+
+“Alright. Thanks.”
+
+As she left, the two began bickering.
+
+You remember you can just use your intimidation on them, yes?
+
+“I can’t just scare people away every time I’m annoyed with a conversation.”
+
+Yes?
+
+You absolutely can?
+
+“My social skills would go rusty.”
+
+Are my social skills rusty?
+
+“Avarice, are you on my side?”
+
+***
+
+One would think that destroying the fighting forces of two combined continents in one fell swoop would be the hardest part of the campaign but nooooo. Now Viv had a third of Harrak’s total population as prisoners of war milling uselessly on her arable land. The only good news was that they had enough food for the starving masses, and people who had been hungry and stressed for weeks suddenly receiving three meals a day while it was cold outside had a tendency to just hunker down and sleep it off. That made everyone pliable.
+
+Despite that, she still spent the remainder of the day accepting the surrender of leading men and women who wanted to turn their weapons to the most dangerous enemy as a way to keep their honor. Viv didn’t mind it but it was busy work and she couldn’t stand at all right now. At least, she could count on Bes and Lady Azar to turbo process everyone. By the time the sun fell, Queen Rosea was almost done providing amnesty to her own citizens (against compensation, naturally) while the rest of the Maranorians were assigned spots in a newly made camp. Nevertheless, all the mages who had survived the battle were emptying the last of their mana reserves building improvised housing on the shores of the new Lake Solfis. Viv was pleased that the reservoir would solve some of the nation’s water problems even if she had to compensate those whose lands had been consumed. Work continued throughout the night though she went to bed, and by the next morning, thousands of warriors had already left through the reactivated portal network, either on their way home or towards Frostway where they would catch a ship to Vizim.
+
+***
+
+The council had to reconvene in the throne room because it was the largest available space. The benches had been cleared in favor of a large table. Viv was greatly pleased to see that most of the leaders on her side had made it. Bes stood by her side, his shadowy presence comforting.
+
+“Say,” she whispered to him. “Would you mind staying? I guess Ravinport will be freed now, but —”
+
+“Are you asking me if I would return to the position of ambassador of a small city rather than be the right hand of the sovereign of mankind, leading a thousand Imperial-trained civil servants who obey my will with levels of competence and initiative I had never hoped for?”
+
+“Yes.”
+
+“I want a twenty percent increase in salary. And a house. In the old capital.”
+
+Damn him.
+
+“It is done. Although the house you’ll have to pick and repair it yourself. And a house, not a palace.”
+
+“Agreed.”
+
+His voice rose as the last of the guests sat down.
+
+“Milords and ladies, welcome to this summit of the Paramese Alliance. Our first priority will be to listen to General Jaratalassi’s report, then we have an urgent message from Bishop Radus. Finally, we can discuss reparations and celebrations.”
+
+Her guests didn’t look too pleased. Who was Bishop Radus? Oh yeah, the Bishop of Neriad whom she always referred to as ‘hooked nose guy’. Might want to change that.
+
+“So,” Jaratalassi said, standing up. “Our victory is complete. I expect we’ll have to mop up the garrisons they left behind, but otherwise the war is won. My only concern is Helock, because their entire military leadership perished so there is no one left to negotiate a surrender. I suggest we send a diplomatic mission there to accept it as soon as feasible.”
+
+“But who will they surrender to?” A temple guard asked. “The alliance doesn’t have a protocol for traitors.”
+
+All eyes turned to Viv. She considered her options. Rosea leaned forward, and Viv felt her fear. Genocidal Maniac whispered of it.
+
+“I believe it is preferable to address the real issue before we begin. Outlander Viviane, you are now unstoppable, and you have created a weapon of war that is equally unstoppable. No human nation in this world can hope to resist you. If you wish to declare yourself as the undisputed sovereign, then do so. Do not hide behind honeyed words.”
+
+Damnit, Viv didn’t need this at ass-o’clock in the morning when she hadn’t recovered from the battle. Rosea was right to spring it on her though. It was a daring but valid move.
+
+Now what did Viv stand for? Right.
+
+“Look, I’m not going to turn into a tyrant if that’s what you’re worried about. I think we would do better with a political union, but I’m not going to force it.”
+
+Also Enoria and Baran had several times Harrak’s total population. There was no way her administration could absorb the sudden population increase. It was only a matter of time before that changed though. Viv’s belief was that between her power and the technological edge Harrak was developing, eventually she would peacefully absorb the other nations into a united whole with autonomous regions and democratically elected representatives. Except for her. She was the boss.
+
+“I will not demand that you subject yourself to me,” Viv promised. “Let’s keep the alliance as is for now. We still have a war to win.”
+
+Rosea didn’t seem convinced, and Viv couldn’t blame her. One didn’t develop a superweapon unless one intended to use it. The thing was, Viv had developed it specifically for something like Oleander or a massive avatar. Or someone really, really rude. It just wasn’t in the Paramese mindset to accept that someone could be the strongest and not use it to dominate everyone else.
+
+“One last thing,” Jaratalassi finished. “The question of the Sheem and of the Shadowlands remains. Their civilian authorities might object to our demand to capitulate. Unfortunately, without an invasion fleet, this is now the domain of diplomacy.”
+
+He gave Viv a measuring look.
+
+“Or of a demigoddess and her flying engine of doom.”
+
+“I’ll look into it later. Param first.”
+
+The rest went without saying. If the other nations surrendered to Viv, not the alliance, then she would be taking one more step on the path to complete domination. Viv was confident she could take a few and nothing too bad would happen.
+
+Bishop Radus cleared his throat. Quite a few people frowned because there was still much they wanted to discuss.
+
+“I’m afraid I bear dire news. In his great wisdom, Neriad has sent me a vision.”
+
+Radus’s words had the merit of getting everyone’s attention.
+
+“And what does the God of Righteous War say, bishop?” Rosea asked.
+
+Viv was getting the feeling she was trying to control the meeting. It was a little cute.
+
+“Neriad reports that Oleander is alive. He has been teleported to the holy city of Mornyr at great cost to Maranor herself. He is now being attended by her clergy. The city has activated its divine shield. None may come, or go.”
+
+“Shields? How strong are they?” Marruk asked.
+
+Viv remembered. She had attended several councils there, and even maybe kind of kidnapped Sangor’s son from the church of Maranor though she’d never admit to it in court.
+
+“They’re the manifested will of the light gods. By agreement, they all sacrificed a fragment of their power to create a defense that even they couldn’t control,” the bishop explained.
+
+“What?”
+
+“Mornyr has never been conquered or even successfully invaded in all of its history. The shield is simply impenetrable, or has been so far. No siege can be laid either because the defenses also include a divine artillery spell,” Viv explained.
+
+“I knew about the shield, but…” Rosea objected.
+
+“The cannon was only fired once, according to ancient imperial records. Most rulers know better than to defy all the light gods at once.”
+
+“Then we need another solution,” Rosea said. “Perhaps envoys—”
+
+“No.”
+
+Viv stood up.
+
+“I’m going. With Solfis. When I used a sealed spell to destroy Oleander’s arm, Enttiku warned me that I should face the consequences. I will not delay our final confrontation. Only one of us may live, therefore there is no point in letting him recover. I will depart as soon as I’m able.”
+
+“Milady,” Bes whispered, “the armies…”
+
+“Cannot follow. Nor will they be of any use.”
+
+“Actually, Your Majesty,” Bishop Radus added, “Oleander intended to make Mornyr his capital, as a symbol. There is a garrison there that might try to stop you.”
+
+Viv shrugged. There could be five thousand knights and assorted mages facing her that it wouldn’t make a difference. Nothing they had could stand against Solfis, Avarice, or herself.
+
+“What do I care? I can just mix intimidation and a couple of spells and they will scatter.”
+
+“That will cost time which the city can use to fire the lance against you, milady. There are also many civilians still trapped inside: priests, healers, diplomats. It would be wise to clear the front of the city so they may escape the coming battle while you dedicate your attention to the shield.”
+
+The bishop and Viv exchanged a glance. It felt like the clergyman knew entirely too much about what might happen, and given the fact Neriad was kind of a himbo, she suspected another divinity might have a hand in there. At the back of the room, one of the scented candles briefly puffed purple. Viv frowned.
+
+Purple was the color of Maradoc, the God of Secrets and Knowledge.
+
+“Alright. But what Vizier Bes said remains true. We can’t move our armies in a reasonable time frame, not to mention we need them to guard the larger group of prisoners while they’re still here. I suggest taking only riders and going through the ghost network.”
+
+“And I would appreciate you removing that network from the Baranese territory,” Rosea grumbled.
+
+Viv rolled her eyes. So ok violating the territorial integrity of an ally was not good but had Rosea complained when Viv was sending food convoys to her starving cities? No. And now that it was all over, hmm? No gratitude.
+
+“Alright so I take the riders.”
+
+“And the One Hundred. Solfis can accommodate them,” Sahin added.
+
+He gave her ‘the look’.
+
+“Which you should accept, Your Majesty, because they will otherwise board the fortress of their own accord.”
+
+Was there a single person in this entire nation who listened to her willingly?
+
+“Fine. Ok.”
+
+“Milady!” a messenger yelled, bursting from the door.
+
+He wilted under the combined glares of all of Param’s rulers.
+
+“That is, High Lady Avarice is arguing with her peers. Captain Mother thought you should know…”
+
+If the leader of the Bitter Hearts thought Viv was needed then she ought to really hurry.
+
+“I’ll let you guys finish talking about the prisoner handling.”
+
+“And the looting rules,” Marruk said with a pointed gaze at her neighbor.
+
+“Yes, that. I’ll be off.”
+
+Looting rules were very important to the kark. It was also how armies recouped the tremendous spendings they incurred during long military campaigns, so no objections there, but keeping the city in its ‘not currently on fire’ state was even more important. Viv flew out of the palace at full speed, following the twists of angry fate mana. The dragons stood on the path leading down while carts full of wounded waited at a very respectable distance. That wouldn’t do. On the other hand, maybe they could wait five more minutes if it meant preventing a fight.
+
+The dragon’s mental voices were almost deafening. Unsurprisingly, Stormrider was at the head of whatever rebellion was happening. She faced Avarice, her snout reddening with latent heat.
+
+I will never recognize you as a One Name.
+
+You are a twerp.
+
+Avarice watched the larger dragon hiss through half-lidded eyes. She then moved into her rival’s personal space, something that Viv would consider ‘unwise’ at the best of times.
+
+I do not need your recognition.
+
+I AM a one name.
+
+Your opinion does not matter.
+
+The power of her conviction radiated out, as did the truth of her words. She was a one name.
+
+You are too young and too inexperienced.
+
+I will not follow you.
+
+I will not be scared of a juvenile.
+
+Avarice didn’t let up.
+
+You should be scared because I am so young and a one name.
+
+The youngest one name ever.
+
+Stormrider roared. The concerned humans nearby turned into panicked humans.
+
+Perhaps I should teach our newest one name a lesson!
+
+Avarice slowly stood on her hind legs, doing that T-pose that Viv had always thought ridiculous, especially since she tended to do that to creatures she had no hope of defeating. But that had been over a decade ago. Now the dragon doing that was one of the finest casters alive, capable of teleporting mid-flight and deploying an impressive array of lethal spells designed to kill the kind of opponents even dragons might fear. Her one name proved her mental maturity and the power of her belief. Gone was the amusing spawn. What faced Stormrider was the newest, and only one-named dragon of the magical bloodline. One who had dueled Judgment’s killer to a standstill to protect Viv. The future of dragonkind.
+
+You can try.
+
+So it wasn’t that funny anymore, and Stormrider, being at the receiving end of the threat, lowered her head. In a surprising act of maturity, Avarice didn’t immediately use that opportunity to insult the opposition.
+
+You can feel it as I do.
+
+We are being called north and east.
+
+More of us will join the battle.
+
+You can refuse the call, or you can accept it but fly alone.
+
+But if you do come, you would do well to listen to me.
+
+My methods led us to victory against the human avatar of the Slayer Goddess.
+
+Viv was a little annoyed that the memories of close air support and dogfight doctrines she’d read in the army (during the foolish time she’d considered joining the air force) were now ‘Avarice’s methods’. Whatever.
+
+Without loss of life.
+
+For the dragons.
+
+I have demonstrated my wisdom.
+
+Do as you wish. I care not.
+
+Stormrider was temperamental, but she wasn’t a fool.
+
+I feel the call of my ancestors anyway.
+
+I will follow.
+
+Viv nodded while the dragons flew off to their respective corner to sulk and sleep and eat their leftover marinated fish. It looked like she hadn’t been needed after all.
+
+***
+
+“I don’t know. I love a good old charge as much as the next red-blooded…”
+
+Order Master Ered remembered who was in attendance around the command table over the pacified battlefield. He was a little tired of Interesting Times, if he had to be honest there.
+
+“Persons of whatever sex or species like charging, I suppose. I just do not believe we would all be a good fit, speed-wise,” he finished.
+
+The merl elder crossed his thin arms over his skeletal chest and now Ered was feeling bad about it. The empress didn’t look amused, and neither did Rollo. Although, to be fair, they never looked amused. She tilted her head to the side and Ered knew he was in for a bit of tongue lashing. His wife made the exact same face.
+
+“I already received the commitments of King Sangor and the rest of the Baranese knight orders. They say your ancestors defeated Harrak with two thousand mounted warriors. Between the human cavalries, the pakar, and the spider riders, you would be leading a force three times that number. I am personally curious as to how a charging skill that scales with the number of chargers would perform at the head of the largest cavalry force in the history of the planet, but if you’re reluctant…”
+
+“Wait, hold on.”
+
+“We can always find someone else. I’m sure other order masters have lesser versions of the skill.”
+
+“I do,” Rollo confirmed.
+
+The smarmy asshole crossed muscular arms over his chest. In the distance, his husband wagger eyebrows at Ered. That made the old knight very uncomfortable.
+
+“Hold on now, I never said no.”
+
+“You’re taking a suspiciously long time to say yes,” the empress admonished.
+
+“Alright, alright, you got me. We’ll put the kark and merl on either flank and have them move first so we should all strike at the same time. The merls will be wall-side since they can climb it,” Ered added at the last moment, very proud of himself.
+
+The elder trilled something in his native language. He jumped with excitement.
+
+“He speaks the truth. Walls do not stop us. We can help with the evacuation!”
+
+“Yeah no I don’t think follow the massive spider will work as an ordered evacuation technique” the empress said, but then she reconsidered.
+
+“I’ll pray to Neriad. The population is devout, so warning the priests in advance should help us plenty. Alright. We have a plan.”
+
+“We do?” Ered asked with some suspicion.
+
+“Yep. Use the portals, move to Mornyr, you guys clear the front of the city so we can evacuate.”
+
+“And what about the shield? The spear?”
+
+“Solfis and I will handle that.”
+
+***
+
+It was barely a full day after the end of the battle and the field had already been changed with the sort of efficiency Viv would have never believed possible without the help of an army of bureaucrats armed to the teeth with Excel spreadsheets. All of the Baranese had been either reintegrated with their army or, in some rare cases executed, and their infantry was already on their way home via teleporter with Rakan opening a second pair through the Deadshield Woods just to speed things up. The kark were done looting their share. Their civilians were on the way back loaded with spare iron and mana-infused vegetables. The Enorians were staying at Viv’s request since there were still a lot of prisoners to oversee. It was a mess but the sort of mess that was being quickly and efficiently handled. Also, it was snowing. It looked like Lake Solfis would be filled by spring.
+
+“It’s time to go,” Viv said.
+
+A line of cavalry like she’d never seen gathered in ordered ranks next to the entrance to the ghost network, slightly south of Kazar. In the distance, the first pink petals of a Sardanal-blessed replacement to the tree was growing where the old one had burnt. Viv thought it would have been better to plant it in the old capital, but symbols were important too. Kazar had earned its tree back.
+
+Mother, the borglings and their slightly dumber mounts are ready.
+
+Show them your wings, mother!
+
+Fill them with dread!
+
+“Look, I’m still a little tired. Let’s save the intimidation for our enemies.”
+
+The foreigners are not our allies either.
+
+Once the danger passes, they will turn on us.
+
+They fear us!
+
+“Ok but if a city-ending flying castle that fires lasers doesn’t convince them to behave, nothing will.”
+
+It’s about giving it a personal touch.
+
+Business one-oh-one, mother.
+
+A firm handshake, eye contact, setting expectations, deploying a crushing soul aura that promises their end…
+
+“I think you’re mixing your banking and world domination schemes.”
+
+Avarice gave Viv a look that conveyed utter confusion.
+
+There is a difference?
+
+“Please stop, my head hurts.”
+
+***
+
+There were darknesses that went beyond the lack of light. Oleander had lost everything: his pride, his hope, the purity of his body, that of his soul. Most importantly, he’d lost the favor of his goddess. Even as he rested in the shadow of her immense presence, the red non-light radiating from her soul didn’t bring any warmth. Or any of the certainty he’d felt before.
+
+Failure.
+
+He had lost. Not just that, he had lost completely and irreversibly. His army was no more. His power was broken. The best general in history couldn’t salvage this situation because there was nothing left to fight with. No one could stand against either the witch of her dragon or her golem fortress. And they were fiercely loyal to one another. His addled mind kept returning to the problem, poking and prodding at it like a bad tooth. There was no out. He had lost. He wasn’t even sure why he was still alive. He was a failure. A failure. A complete, abject failure who had caused the death of his friends. All of their hopes were gone, dashed by his fault. All the sacrifices he’d made in the name of final peace and the unification of mankind: useless. The families he’d destroyed, the people he’d killed, the noble souls he’d led to ruin: wasted. Because he was a complete and utter failure. Without the veil of zeal protecting his heart, in this place without place and with nothing shielding him, he had only himself to blame.
+
+The corruption buried in his arm and his soul. He was a broken thing, forsaken and deserving of that fate. Despair dragged him down. Despair, and the inability to cope with the horrors he’d committed. It pulled him down a line of power surging from the depth and feeding the Queen of Queens as she sat on her vacillating throne. The deeper he went, and the less the corruption mattered. There was no acceptance below, just oblivion and madness. He went there anyway.
+
+The end wasn’t sudden. It was a slow, progressive death, an abandonment of the self until even the part that resisted corroded in the sleep of the exhausted. Like a great ship doomed to sink, he slowly succumbed to the dark waters spilling inside of him. Why even fight? Everything was lost. Everything was destroyed by his fault. He deserved it. He deserved everything happening to him.
+
+At the root of the line of energy, something stirred. Oleander didn’t react. He didn’t resist, because by then, there wasn’t enough left of him to perceive the mortal threat.
+
+The dead god reached for the falling man. On the altar of Maranor, at the heart of Mornyr, Oleander’s flesh bubbled.
+
+***
+
+Solfis had reactors at its back, trailing blue energy across the cloudy sky. It made the dread lozenge travel with a speed that only served to render its appearance even more alien, for nothing this large had any rights to be this fast as well. Like really it was too fast.
+
+“Can you pick up more speed?”
+
+WHY DON’T YOU HELP INSTEAD OF WHINING?
+
+Avarice was catching up but it was taking time so Viv could only deduce her not using portals to just pop up near the hull was a matter of pride. The wind was intense enough that Viv used a colorless enchantment to keep it out of her face. And hair. She wasn’t sure why Avarice felt the need to compete with four manatech macro-turbines powered by a God Core who had been accelerating for several hundreds of leagues under an air-dispersing shield. Honestly, it was amazing what maniacal engineers could come up with when ‘near-infinite energy’ became a factor. Eventually, Avarice managed to reach the side of the fortress, then crawled around it using handholds specifically designed to accommodate dragons (an early prototype had ended up with too many scratch marks).
+
+Sometimes dragons were just flying cats with pyromania.
+
+Viv decided to keep that thought to herself.
+
+Avarice slithered through the open lens aperture which closed behind her. The command room was barely large enough to accommodate and thankfully, it was nearly empty at this time. Abenezigel stood by the main console with a thoughtful look. He waved at them.
+
+Behind, Solfis’ core floated in the containment tube over the massive orb of the God Core. Twin yellow flames floated there like demon eyes.
+
+//Ah, your majesty.
+
+//I was hoping you would come.
+
+//Welcome to my humble body.
+
+//Tea?
+
+“With pleasure. How are you holding up?”
+
+//I am pleased to report that all my systems are functioning within acceptable parameters.
+
+//Except for the hangar bay which is being fixed as we speak.
+
+Viv shrugged. Fortress Solfis was originally meant to welcome a complement of floating transports just so he wouldn’t have to land, and also because she liked the idea of sky marines. They hadn’t had the time to develop them. It was as the old saying went: you go to war with the army you have. While Solfis talked, long and thin artificial arms emerged from the ceiling to prepare a pot of tea with meticulous precision. The command deck came equipped with a water boiler since Viv knew the importance of liquid excitants for anyone serving aboard any kind of ship. By corollary, there were lavatories in the next compartment.
+
+//I assumed you would be with the cavalry.
+
+//Is there some sort of problem?
+
+“Yes, there is a big problem. Mornyr is shielded.”
+
+//That is not a problem.
+
+//That is a temporary obstacle.
+
+“Look, that barrier was made by the light gods to create a sort of neutral ground. It no longer needs their permission to work. The plan right now is to clear the front of the city to allow its people to safely evacuate, something the servants of Maranor might oppose.”
+
+//So?
+
+“So if we fire the Calamity Cannon on the shield and the blast kills everyone in a three leagues radius, that’s gonna be a problem.”
+
+//I will overload the shield in a single shot.
+
+“How would you know that? There is no way for you to run any sort of math on that thing because first we’ve never had any data on the shield, and second, the branch of mathematics that would calculate that hasn’t been invented yet. Explain where your confidence comes from because it sure as shit isn’t from evidence.”
+
+//I just know.
+
+Viv narrowed her eyes, ready to force a maintenance cycle.
+
+“I’m not firing that thing on a ‘trust me sis’ justification. What in the name of all the gods?”
+
+Just then, she felt a strange call. It was eerily familiar but also rare enough that the timing made her suspicious.
+
+“Hold on.”
+
+The temptation to send the god contacting her a ‘leave a message after the beep’ reply was strong. Unfortunately, that entity contacting her wasn’t familiar. She settled in a lotus position and closed her eyes.
+
+Falling into the in-between had become as scratching her back. The planet-sized soul facing her was one she recognized. It was purple and almost hidden in the non-color that formed the stuff of this strange space. It was Maradoc. The secret god because his followers stayed hidden. And also the God of Secrets.
+
+“Good day you’ve reached Ascender Viviane’s hotline how may I help you?”
+
+“No need for sass, outlander. The knowledge in your golem’s mind is my own. I tried to share it with you as well, but you are halfway up. You are beyond my influence.”
+
+“Shouldn’t you ask before you share mass destruction knowledge with sapient murder machines? That’s a bit of a violation, no?”
+
+The sphere bobbed quietly in the void.
+
+“I can see why Neriad and Efestar like you. They’ve always had a soft spot for snarky ladies who had a decent chance of killing them. I would prefer it if you stopped now, however. My sister…”
+
+The sphere pulsed once and there was something in its depths that made Viv shut up. It was grief.
+
+“My sister is not well. She has made a list of bad decisions that have led her to disaster, but she is still one of us. And despite everything, she is still my sister.”
+
+The sphere opened itself to Viv, showing a belief that couldn’t be a deception.
+
+“There is a chance for you to make a difference for good, but you need to trust me when I tell you that your weapon will work. You must be sure to fire it before the lance fires, and you need to do so within the next two days, or she is lost.”
+
+“We’ll be there the next morning.”
+
+“Good, That is… good. Thank you. And… good luck. We’re all going to need it.”
+
+***
+
+“You heard the news?” the soldier asked in the tongue of the Shadowlands.
+
+“Hush. We should never have come here.”
+
+The soldier looked around the forest east of Mornyr, lit by the first timid rays of a winter sun shining over the leafless canopy. It was the sort of silly and useless patrol officers liked to order. There might be monsters but why even chase them? The city was sealed. Spring had not come yet. There was no food to contest.
+
+He looked up and frowned at a sudden cloud blocking the sky. Freak weather. The gods were angry. The entire city was on edge after rumors of a disaster came from the west, where the black witch’s army was and clearly where they should be patrolling instead.
+
+“You think we could sail back?”
+
+There was no answer. He turned.
+
+His friend was gone.
+
+“Tolin? Tolin?”
+
+Movement in a nearby bush. The man grabbed his spear, then there was pain. He fell. He was dragged forward, leaving only the helmet behind.
+
+The briefly interrupted silence resumed until something whispered angrily, and then a pale hand partially wrapped in black bandage snatched the discarded helmet, too.
+
+***
+
+Dawn came over the fields before Mornyr, the holy city. For the garrison of Maranorians left before their would-be capital, the day started with chores. The news that came back was confusing but uniformly bad so the officers doubled down on discipline. As far as the common soldiers understood, no one knew who was supposed to give orders, or even who was left to give orders. Those few sentries on the eastern side of the massive camp frowned when they saw the glint of metal. Most were struck with disbelief when they spotted a knight in garish white armor coming out of the forest, as the sentries were Vizimans who were not familiar with heavy cavalry. They screamed in alarm when more knights emerged, forming a line a hundred men wide. Then two hundred. Then three hundred.
+
+The camp was sent into panic. Those soldiers not already in armor scrambled while others gathered pikes and polearms under the screams of officers. Archers gathered in squads and the palisade gates were hastily closed. More than a few soldiers eyed the basic half-walls they’d built from the frozen ground and wondered — though not for long — if it would be enough. It wouldn’t. Above the horsemen, white battle standards were raised, soon joined by the blue of Baran when realm knights joined the Order of the White Orchard. Women in shimmering gold armor joined them, raising the flag of Enttiku. The green of Enoria added grim veterans of the civil war in scarred armor, then the black roses of Harrak, and other minor orders: lighter riders from the northern cities, hedge knights, mercenaries. By then, the camp had stopped mobilizing. They were already in position, if still unfed or poorly dressed. The only thing left for them to do was to watch the line complete with strange, short humanoids in feathery clothes riding on top of spiders, some as large as barns, and kark soldiers in full plate atop fierce pakar. By the time they were done deploying, the cavalry line was five riders thick and wider than the entire camp.
+
+The knight in white armor lifted a sword, which caught the sun into a blinding radiance. It shone on all the colors of the rainbow represented in every flag, standard, pennant, engraved shield and cape belonging to hundreds of factions gathered for a single purpose: to ride that camp down and trample it.
+
+“Warriors of Param!” the old man roared. “For that land we share! For the alliance! And for vengeance! Chaaaaaarge!”
+
+The noise of the horns alone would have been enough to freeze the heart of the staunchest defender. The charge was perfectly orchestrated, the wings going first before the center accelerated, their warhorses easily catching up. The ground shook under ten thousand hooves and some pretty thick spider legs. The dragons flying overhead were entirely superfluous and by the time the charge made contact, barely half of the camp was still standing their ground. Ered didn’t care though. He was the happiest man in the world.
+
+***
+
+Viv followed Solfis on dragonback far over the battlefield. The fortress flew in an arc, aligning its main weapon with the city’s central tower. Mornyr was smaller than she remembered from up there. It seemed to lack the entire ring of humble homes that marked most great cities. Instead, the city was temples and palaces hidden behind a shield of impossible proportions shining a dull white in her mana perception. It was deceptive, however. This was a divine construct. It was the closest thing to an artifact a spell could ever get to, and it was fed by the collective will of a pantheon that had put this measure in place knowing, one day, one of them might turn on the others. That was what Viv was facing now. As Solfis lined himself up, a massive mana spike erupted from the tall tower overseeing even the imposing Harrakan-made pyramid marking the town’s heart.
+
+“Hmm, Solfis?”
+
+//EMERGENCY FIRING SEQUENCE INITIATED.
+
+Avarice portaled them at a safe distance. Viv looked back at the lozenge, its aperture open and glowing.
+
+Both constructs fired at the same time. Every bit of air left Viv’s lungs from pure pressure. From Solfis, a black ray left like a thin cut across the fabric of space, warping it as it went. From the city came a beam of golden light that eclipsed the sun. The two rays of energy met in the middle, twisting like snakes when their impossible energies pushed the laws of reality to their extreme limits. The power of the sun went close enough to Solfis that Viv saw something melt. The black ray struck the divine shield at an angle, causing it to flash violently.
+
+The sun lance ended its course at the top of a nearby hill, obliterating it in a column of molten rocks.
+
+The light returned to normal levels.
+
+Viv gasped oxygen back into her lungs just in time to swear. Solfis’ left side was belching smoke and her first reaction was that he was dead. That terror abated when she noticed that the central lens was intact, and as such, the core behind it must be fine. Her second reaction was that she was going to lose her mega weapon after firing twice and by fuck was this how every super villain felt when their hard-won creations got bombed at the last minute by five teenagers wearing spandex? She was livid. Against all odds, however, Solfis stayed airborne. Now that some of the smoke was being extinguished by the fire suppression system — never skimp on those — she could see that the damage was barely three weeks of her entire nation’s GDP and would be repaired via a temporary budget deficit. Some of the crew members were already climbing the twisted metal of what looked like a storage space to smother the last embers. One of them waved at her.
+
+Looking back at the city, she noticed that the shield was on its last leg but still holding, somehow. It looked like a perpetually mid-burst balloon with entire segments disappearing. If she timed it right…
+
+//YOU
+
+//DARE
+
+Solfis didn’t use any sort of skill for that one. His fury was conveyed via old-fashioned speakers stuck at max volume. The very idea that a weapon designed by all the light gods to destroy anything could even touch his august body had sent him over the edge.
+
+//YOU PATHETIC WORMS.
+
+//ALL CREW, PREPARE FOR A RAMMING MANEUVER.
+
+Mother?
+
+“Errr what the fuck? Solfis, you don’t have a ramming maneuver?”
+
+The crewmen disappeared back into the bowels of the fortress, presumably to strap themselves to any seat they could find.
+
+“Solfis?”
+
+The four macro-turbines roared. Mana particles instantly formed four blue trails behind the titanic construct. It accelerated violently toward the flickering shield.
+
+“Solfis!”
+
+He didn’t listen.
+
+The gods had planned for armies, archmages, dragons, hell, they’d probably planned for elementals, but they had not, apparently, planned for mountain travelling at one hundred and fifty leagues per hour. Solfis smashed into the city’s defenses in a sound like God’s cat pushing His wine glass off the table. The divine protection shattered with the coming of Solfis, Viv flying close behind. The fortress opened its gun ports to deliver a point-blank range volley against the source for good measure, turning the host tower into a much shorter tower. A turret maybe.
+
+//ONE HUNDRED, PREPARE TO LAND.
+
+//SECURE THE GATES FOR EVACUATION.
+
+Mother.
+
+Viv turned away, trusting her friends to do what they had to do. Below her stood the temple of Maranor. Just looking at it filled Viv with great discomfort. There was something terribly wrong with the mana.
+
+“I know. Time to see what my spell did. Let’s go.”

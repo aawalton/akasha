@@ -1,0 +1,259 @@
+---
+id: a230239b-6ac1-5f88-b054-be93b669cade
+page-type-slug: story-chapter-royal-road
+title: "Chapter 71: Whoever Said Orange Is The New Pink Was Seriously Disturbed"
+slug: 0071-chapter-71-whoever-said-orange-is-the-new-pink-was
+partOf: the-gift-of-loot
+position: 71
+ownLength: 3847
+unit: words
+publishedAt: 2026-08-21
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3844389/chapter-71-whoever-said-orange-is-the-new-pink"
+royalRoadId: "3844389"
+---
+
+Talia guided Thomas down a new pathway he had never been on before. There was no conversation between them, and the air was peaceful and dark—well, it was always dark in the Dark Elf village, but he could still see fine thanks to the little balls of multicolored light that were hanging around low tree limbs and below low foliage. He couldn't tell if they were made of glass or magic, but they did help create quite the atmosphere.
+
+Finally, Talia broke the silence. "I will miss this."
+
+It took a few seconds for Thomas's mind to catch up. "You're joining the Earth colony?"
+
+"Yes. The work will be hard, and I anticipate that there will be many things to get used to," she let out a sigh, "but it will be worth it to finally have the opportunity to grow strong."
+
+"I thought you said you didn't do dungeons?"
+
+She cast him a playful look. "There are other ways to level, such as using one's Gifts. But, of course, the Light Ones discourage anyone levelling unless they either risk their life diving or directly serve the Light elf community. That is why even our greatest village here is so low level... But perhaps we do not seem that way to you?"
+
+"Everything about levelling is new to me," he said neutrally, "but I was wondering: This planet is different from Earth in a lot of fundamental ways. Are you sure you can handle a day and night cycle?"
+
+She shrugged. "I have been to the light side of our planet. It is tolerable with magical eye shading. Ah, we're here."
+
+He had meant the psychological aspect of night turning into day, turning into night again within 24 hours, which would surely be disorienting to a people who lived under permanently dark skies. But he let it drop as their winding path took them around a corner and he saw the House of Healing.
+
+It was striking and looked as if it was carved out of a giant, skyscraper-sized tree with bark so old it was bleached gray-white. Even though there was technically no sunlight to bleach it.
+
+Talia led him in an almost absurdly tall double door. The moment he stepped inside, a feeling of peace and tranquility fell over Thomas. Much of his worry fell away, though he hadn't necessarily known that he had been worried up until that moment.
+
+He looked around. The place had the sterile white marble look of a hospital, but the hushed peacefulness of a holy place. He supposed they were in a waiting room, though the chairs were empty.
+
+A single dark elf man stood behind a slab of white marble that served as a desk.
+
+Talia marched directly to him, smiling graciously. "This is Healer Thomas, the human Akilah has taken under his wing. I believe he has not been made Known to this Healing House yet."
+
+Thomas found with a little mental effort he could push away the feeling of peace and calm that this building seemed to generate. He'd just been through the whole registration song and dance with the National Guard. He needed to be sharp so he wasn't locked into something he didn't want.
+
+"Of course," the elf man turned and bowed deeply to him. "Welcome, Healer Thomas. Becoming Known to our house is a simple matter."
+
+"What exactly are the benefits?" Thomas asked bluntly. "Is this like a paid membership or something?" If there was any oath swearing, he was outta there.
+
+The receptionist looked a little surprised but quickly collected himself. "No, to become Known you must only scan your mana signature to verify your healer status is true." He quickly added, "I do not mean to offend you or the great Akilah–"
+
+Thomas waved that away. "That's fine."
+
+The man still smiled apologetically. "Just as with the System marketplace, you are allowed access to Healing mana two levels above yourself. I see that you are a level three, so of course, level five would be your limit for now. You will be allowed to place your request for standard healing skills, though those in active apprenticeships will be considered first. We also have the guides for additional self-study, though we don't have anything for... Terrans."
+
+"Of course." Thomas nodded. Exclusive access to a healing-only marketplace sounded pretty good to him, as long as the prices weren't out of control. He almost asked the man if that included weapons which channeled healing mana too, but then figured it was a bad idea considering this society's views. "So what is the general cost for level 5 Healing mana crystals?" If he was coming to play, then he was going to play. Besides, he'd handled level 5 Adaptation mana... somewhat okay.
+
+On second thought, maybe he should try more level 4 and then watch a sad movie where a dog dies to make sure he didn't freak out, first.
+
+He actually saw the elf man do a double take. "Pardon? Why would there be a cost?"
+
+Thomas wasn't sure if he had heard that correctly. "You're not... You're telling me that healing skills and healing mana are... free? I don't have to pay Shadows, or..." He reached for the words, then his brain settled on old episodes of House M.D, "do clinic hours in exchange or something?"
+
+The man blinked at him, and Talia stepped in. "Things are different on Healer Thomas' world. Healthcare comes at a very great cost. He does not mean any offense."
+
+"Of course he does not mean any offense," the man said quickly, as if worried suggesting so would insult Thomas. "But, forgive me, Healer, I don't understand. How do you manage your Burden if there is a cost?"
+
+Talia stepped in again. "Remember that his people have only just accessed the System. They are physicians, not healers. Until now, there has never been a Burden."
+
+"I understand now." The man smiled and did a slight bow to Thomas. "This must be quite the change."
+
+Burden, shmurden, Thomas was fixated on the important stuff. "So I can just have healing mana? Up to level 5? Is there a limit on the number of crystals?"
+
+The man glanced at the spotless table as if he was reading notes. Perhaps he was. "Akilah left orders that you should be ranked equivalent to a practicing apprentice. So that is five a turning."
+
+"A... turning?" The System translation was amazing but didn't always get idioms.
+
+"Of the moon around our planet," Talia explained. "It is how we mark the passage of time. You use the sun, yes?"
+
+"We do," Thomas replied absently, though that wasn't entirely correct. His mind was busy doing the math. So he'd get five high-level healing crystals a month. Not bad at all!
+
+Talia smiled. "Our planets are so alike in so many ways, though our turnings are just under your twenty-three hours. I do believe we will settle in fine. It is not so different from twenty-four hours, no?"
+
+Thomas' mind stalled out. Five high-level healing crystals a day?
+
+"How many skill slots do you have open?" the elf receptionist asked.
+
+Thomas's throat felt dry. "My skill slots are full."
+
+"Oh, very well done," he said, pleased, "Of course, you are welcome to place your name on a list for your next skill when you reach level 4."
+
+He assumes that I have all healing skills, Thomas thought, still a little stunned. More skills are probably free too. His hands were still itchy with the thought of free high-level mana crystals. Five a day was an insane amount.
+
+Well, maybe not so insane if he was burning through them healing people all day like a practicing apprentice would. But with that many crystals in his hands, level 4 was within striking range. That meant another skill slot opening.
+
+He almost asked to see that list of skills to put his name down. But then he remembered—shit. He wanted a combat skill next... or maybe the washing dishes skill?
+
+No, don't get distracted, Thomas, he told himself firmly. Combat next.
+
+After all, that was the path to more good loot drops.
+
+He cleared his throat and tried to act cool. "So, how do I get registered?"
+
+Apparently, it was as simple as placing his hand on a mana stone, which, interestingly enough, was the exact same process as the Ross-Astors had put him through. The stone lit up the exact color of his core, which of course showed he was the real healer deal. Thankfully, he'd burned through his Light mana because the Dark elves weren't big fans.
+
+The receptionist did another quick double take at the color of the stone–and strangely so did Talia.
+
+"Oh my, is that Wellspring mana?" Talia asked him. "You have a source on Earth?"
+
+"No, it was just a lucky find. I take it that's rare here?"
+
+The two elves exchanged a look.
+
+"It's generally reserved for the higher ranked," Talia said, then determinedly changed the subject. "And Adaptation, too? That adds an... interesting effect to your core. Rolpham, this is more than enough to make him Known to the house, yes?"
+
+"Uh, yes. Of course." The receptionist, Rolpham, quickly started typing up Thomas' information. He had no idea how the English spelling of his name translated into their language, but hey, at least they didn't ask for his Social Security number.
+
+And then, with his mana registered, Rolpham retrieved the crystals from a back room and gave him his daily allotment: three level 4 and two level 5 Healing mana crystals. All were at least C-grade and above. Just like that.
+
+Thomas walked out of the House of Healing, trying not to act as poleaxed as he felt, but he knew he was failing when he tried to speak several times, but couldn't.
+
+Talia giggled and patted his arm before looping her arm under his. She was a very touchy person. "You can ask me. I won't consider it rude."
+
+It wasn't that he was trying not to be rude; it was that he wasn't exactly sure how to say what he was thinking. "Okay, how does the economy even work? Seriously, you guys keep saying you're poor, but that guy just handed me crystals like it was nothing."
+
+"They are level five; they are nothing," she said. "And of course, as they are above your planet's level restriction, we know you would never sell them for profit."
+
+"Yes, but how do you have enough to give out like candy?"
+
+"Oh," she blinked. "Of course you wouldn't know that, would you? Anyone who receives a healing crystal in a dungeon must immediately turn it in. There are local collection points in every village. In fact, it is highly illegal to carry healing mana for your own personal use if you are not a healer. That is a favorite trick of the Light One enforcers when they wish to harass someone, for it is worth several days in incarceration just to have a healing crystal. And that is only to start."
+
+Thomas chewed through the implications. "So people here aren't allowed to take healing crystals with them into dungeons, and if they get them as drops, they have to give them up as soon as possible? What if they pick up a healing crystal in a dungeon, then use it themselves?"
+
+"Well, who is to say what happens in a dungeon?" she replied with a playful smile.
+
+Still, Thomas was left with a bad taste in his mouth. Dungeon diving was dangerous enough, considering how much he had had to patch up his team. His ability to heal and handle the Burden meant they could dive almost as much as they wanted.
+
+If a team didn't have someone like him and had to give up extra Healing crystals or face imprisonment... that was an easy way to make dungeon diving extremely risky.
+
+As a side benefit, it would help keep an unfavored population from gaining the mana they needed to level and run their society. People would have to dive carefully and slowly, if they wanted to risk it at all.
+
+"Let me guess: Light elves are not held to the same standards for carrying Healing mana into dungeons."
+
+Her fingers briefly squeezed his arm. "When it comes to those types of rules, they rarely are."
+
+Thomas realized he was being effectively steered back to the marketplace. She was good at doing that without making it look like he was being directed.
+
+Soon they were at the skills section. It had a banner stretched overhead written in Elvin, which helpfully translated to "Skills Center."
+
+Thomas spotted Jo and Zach among the clustered vendor stalls, both bent close and looking at a skill protected under glass. They were having an intense, low discussion. In fact... it was too intense. Thomas didn't like the tense body language between the two of them, especially unusual with Zach. It looked as if they were a few hairs off from an argument.
+
+Zach glanced up, saw Thomas and Talia approaching, and muttered something to Jo that looked like, "I'll do it." Then he turned fully to them with a brighter expression, waving them over. "Just in time. I was about to start spending money."
+
+With a little relief for the excuse, Thomas disengaged his arm from Talia and walked over. "What's up?" he asked with a meaningful glance between the two.
+
+Jo had a somewhat sour expression on her face. She shrugged. "What's the phrase you use? Water, water everywhere and not a drop to drink? There are all types of skills here, but none will work for me."
+
+That definitely had not been what she and Zach were talking about, but Talia was right at his side so Thomas let it drop.
+
+"Nothing at all?"
+
+"I found something. Check it out." Zach snatched up a glass box with a skill shard entombed inside. There was archaic-looking script all around the edges that made Thomas think it would be a bad idea to try to shoplift the box.
+
+There was also standard writing along the top of the case that resolved itself into legibility for him.
+
+Dancer on the End of a Swaying Branch
+
+"Poetic," Thomas said, and read on.
+
+Gates: 1-3
+
+Mana requirements: Stamina
+
+Description: Passive skill which increases all balance and grace to be of the flexibility of a green branch.
+
+Still pretty poetic. Thomas would have liked hard numbers, but it would fit Zach's style.
+
+"What are gates?" Thomas asked Talia.
+
+"I'm not sure what your people call them. Perhaps you do not have a name yet, but a gate signifies how many Gift evolutions you have received from the System. As an example, you are approaching the first gate and will pass through when you consolidate the first five levels of your core and receive your initial class and evolved Gift."
+
+Thomas frowned down at the skill shard description. "So this skill stops being useful after level 15?" He wondered how his own skills would rate.
+
+"In this example, the improvements a person undergoes when they level would surpass this skill's benefit once they reach level 15. By then, though, you should have access to many more skills. This is the first level of the marketplace, and there are three others just here alone for the higher levels. Let me see this skill—Oh, I know this one." Talia said, stepping very close and craning her head. She wasn't tall enough to read over his shoulder. "It is very good for dancers and artists. Though... forgive me, it is a little unusual to see in a combat specialist."
+
+"A big part of staying alive in a dungeon is not getting hit," Zach said easily. "Speaking of, what are the chances of finding a short-range teleporting skill?"
+
+Talia nibbled her lower lip in a moment of thought before she shook her head. "Something like that would not be sold within the Dark Elf territories and is probably reserved." She put emphasis on "reserved."
+
+"In the same way that Wellspring mana is reserved?" Thomas asked.
+
+"Yes," she admitted, "but we do have plenty of other skills and many helpful vendors who will be happy to help you out."
+
+"And no sense of organization at all." Jo sent an exasperated glance Thomas' way. "It's like the book section in a Goodwill. It's loosely categorized at best. I haven't found a single sword skill yet."
+
+Talia smiled. "That is by design. You speak with the vendors and form a relationship with them. Here, let me introduce you to a few who may be able to help." Then she gently took Jo by the elbow and steered her to a vendor a few tables away.
+
+The two men watched her go. Jo seemed a little uncomfortable with Talia's hands-on approach but hadn't quite shaken her off yet.
+
+"She's a handsy lady, isn't she?" Thomas muttered.
+
+"Was she like that with you in the House of Healing?" Zach asked slyly.
+
+Thomas paused. "Actually... no. She was surprisingly helpful. The System makes it sound like the Elves are speaking English, so I keep making the mistake that I'm in a different city but with weirder-looking inhabitants. They really are their own alien culture." He added, "They're just giving me healing crystals for free. Five a day, up to two levels higher. That's the normal apprentice rate."
+
+"Whoa," Zach said in a note-perfect Keanu Reeves. "They really want to keep them jacked up on Healing mana."
+
+That was a cynical way of looking at it, but also probably not entirely wrong. "Only the healers, though. The Council of Light Ones makes it illegal to carry around your own healing crystals, and Talia pretty much said the law is selectively enforced."
+
+Zach might play the part of a laid-back surfer-bro, but he instantly understood the implications. "Makes it hard for the average Dark Elf to safely dive. That means scraping together the mana to level becomes a whole lot riskier."
+
+Thomas nodded. "Wood elves, too, I'm guessing. So tell me what's going on between you and Jo back there?"
+
+"Caught that, huh?" Zach tilted his head to the side, indicating that they should put more space between themselves and the ladies who were still talking with another vendor. They walked over to a table a little further away and pretended to scan the household skills.
+
+Actually, Thomas wasn't completely pretending. There was one skill to use sound mana to scour dirt off everything. He wasn't even a clean freak, and he was tempted.
+
+His attention snapped back to the present when Zach started talking. "You could say we have a difference of opinion about Talia. I'm thinking having her around might be an opportunity. We don't let on that we know she's a honeypot, which won't tip off the elders we're in the know, all the while we tell them what we want them to know."
+
+It took a second or two for Thomas to parse that out. "She's reporting back to the elders so we feed her false information, if we need to?"
+
+About my Gift, he thought.
+
+"Right. And, well, Jo has a problem with that." Zach sighed and winced. "She thinks I'm an idiot who'll follow my dick, like I can't tell what Talia's about."
+
+That helped explain part of the tension. Jo had the habit of being slightly motherly towards Zach, unless she needed to cut him for blood and pain to feed her skill. Thomas also guessed that from Zach's messed-up childhood, he had his own mother issues. Jo had stomped right on a nerve.
+
+Thomas didn't comment. It was up to those two to resolve this issue, and he wasn't going to put himself between them. Instead, he glanced over at the two and saw that Talia was laughing with a vendor while Jo had a very reluctant smile on her face, like she didn't want to be pulled into an amusing conversation, but she couldn't help herself. "Jo thinks we should ditch her completely?"
+
+"Yeah, she thinks it's too dangerous to have a spy around. I get it, but it's the 'devil you know' situation." Zach paused. "I said I'd talk to you about it. So, thoughts?"
+
+"I'm not sure she's actually a honeypot."
+
+Zach just looked at him with frank disbelief. "Brah."
+
+Thomas held up his hands. "I'm not saying she's authentic but look how she's talking to that vendor right now. She's just pulling that handsy thing and trying to get him to laugh. I'm starting to think that she just does that with everybody. Think about it: she's super nice, cute and competent. I would bet my new level five crystals that she has at least one skill for communication. Plus, she was really helpful smoothing things over for me at the House of Healing. She might not be a honeypot, just over the top. She's probably more of a... Elle Woods, from Legally Blonde. I think that's just her personality."
+
+"Doesn't mean she can't be a spy."
+
+"She's definitely a spy," Thomas agreed, then thought aloud. "You know... Elves have a serious problem dating other elves outside their own species type. Humans have to be even further off their baseline."
+
+Zach raised his eyebrows then gave Talia a harder, assessing look. For a moment Thomas saw the laid-back dude bro slip as Zach stared at Talia with laser-focused intensity before he shook his head. "I'm not sure. People always have their exceptions. Or they make exceptions when they're under orders."
+
+"You do have a suspicious mind under all that fire, don't you?" Thomas said with a grin.
+
+He shrugged again, easy, the Zach he knew back in place. "Fire and Teleportation, my dude. Makes it real easy to think at different angles. So, your vote is not to ditch her?"
+
+"She doesn't go into dungeons," Thomas said, "so if she starts pushing for that or stops being outwardly helpful then yeah, she's gone. I get the feeling she's going to be a liaison between humans and elves, just as much as the elders want us to be for them when they're on Earth. From the little hints Talia’s dropped, she's been studying humans, or at least American culture."
+
+"Clever girl. All right, I think that's enough to get Jo to play along," Zach said. "The elders did promise us some good information, maybe this is how it comes." He glanced at Thomas and his grin went a little crooked. "Old-ass millennial movie or not, she's not bad to look at."
+
+"Don't fall in love," Thomas advised, taking instant revenge. It was not an old movie. "She'll only break your heart."
+
+Take note, Jo. That's how you tell a twenty-five-year-old guy not to chase tail. Mention the L word.
+
+Zach let out a startled laugh before he pretended to look offended, then they went back to rescue Jo from the horrors of small talk.
+
+_______
+
+The chapter title is from Legally Blonde. Guess who was dragged to see the musical twice? (It wasn't... bad.)

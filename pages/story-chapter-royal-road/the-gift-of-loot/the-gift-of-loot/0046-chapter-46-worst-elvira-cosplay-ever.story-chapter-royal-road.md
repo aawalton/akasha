@@ -1,0 +1,235 @@
+---
+id: cb6a6d00-3b58-5835-b043-e2d9407926c3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 46: Worst Elvira Cosplay Ever"
+slug: 0046-chapter-46-worst-elvira-cosplay-ever
+partOf: the-gift-of-loot
+position: 46
+ownLength: 3039
+unit: words
+publishedAt: 2026-06-24
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3585425/chapter-46-worst-elvira-cosplay-ever"
+royalRoadId: "3585425"
+---
+
+Frankly, the golden mosquito was proving to be a pain in the ass.
+
+They'd come up with a clever plan for Zach to set one of the mundane mosquitos on fire, then use that fire to burn the wings of the others and down them. Meanwhile, Jo would use her Gift to get Thomas unseen under the flock. He'd kill the goldie just as it landed, and then they would both go on a squishing spree... with Jo aiming to disable so Thomas could finish them off.
+
+Sometimes he had hesitations about killing dungeon monsters. Not when it came to giant mosquitos.
+
+But Zach was running low on his Fire mana and hadn't been able to top off on the good level 3 stuff in the dungeon. His blast of fire caught maybe two-thirds of the mosquitos and completely missed the goldie because it seemed to fade from existence and then reappear in another.
+
+Also, the goldie was highly aggressive. Thomas's own bulletproof vest had shown itself to be a lifesaver as the thing had tried to javelin him multiple times.
+
+Every time Thomas went to bat it out of the way, it popped out of existence and appeared somewhere else. He'd only broken an illusion.
+
+However, Jo was chopping through the regular mosquitos like a champ, slinging blades where needed, and Zach had switched to air control to bring down the others while they were in flight.
+
+The damn golden mosquito was in the air again, right above Thomas, its needle-like proboscis pointed down. He didn't need his Combat Foresight to know that it was aiming to dive right on top of him.
+
+Try it, Thomas thought, holding his mace. Hopefully, this mosquito would be the real one this time and not an illusion.
+
+Suddenly, a fireball came streaking toward it from the side. It struck a wing and burned it to a stub in a moment.
+
+He had expected it to disappear and reappear somewhere else like before. In fact, it did seem to jitter in place for a moment. Then it fell, striking the ground hard.
+
+Thomas ran over and saw it twitching, almost dead but not quite. He ended it with his mace.
+
+He looked around, seeing Jo had finished off the rest of the regulars. When the plan had gone to shit, she had switched to killing instead of disabling.
+
+It was finally over. And now for the loot.
+
+The rewards were easy to find; they lay next to the mosquito's smashed head as if they'd always been there.
+
+"Good job," Thomas said to Jo, who jogged up to him. Despite recently leveling, she was out of breath. It had been a hectic fight that had lasted longer than taking out the boss.
+
+Thomas looked to Zach, who had come up to join them. "You too, that last fireball came in right on time."
+
+"Yeah, bro." Zach looked tired but proud of himself, as he should be. "But I think that was my last hit for the dungeon. I'm running on fumes. What did the skeeter drop?"
+
+Thomas held up an A-grade, level three healing crystal. It said something about the quality of the dungeon drops, because while that was usually an excellent reward, now it felt almost mundane. Then he opened his other hand and revealed a skill shard.
+
+Heavenly Mandate: Skip The Distance
+
+"No way," Zach said.
+
+"Way." Thomas couldn't help himself. "This is what I think it is?"
+
+"Teleportation, dude!" Zach pumped the air with a fist. "Hell yeah! It’s not even Blink sub-skill, it’s Skip The Distance."
+
+"I thought it had been using illusion," Thomas said with a laugh. "I don't know why I didn't think of teleportation."
+
+Jo looked between them. "Wait, this is good, right?"
+
+"Yeah, real good," Zach said. "Like, beyond amazing, actually. So high level. Dude, these Goldies must have a compounded effect in this dungeon plus Thomas's gift." Zach was far more enthusiastic than even what was normal. This skill must be every bit as good as Thomas hoped.
+
+Thomas was grinning along with him. Then his amazement dimmed a little as he thought forward and worked out the logistics.
+
+Damn it. He wouldn't get another open skill slot until he reached level 4. As he just reached level 3, that probably meant he wouldn't be teleporting around like the guy in that Jumper book or the terrible Jumper movie.
+
+Zach seemed to come to the same conclusion at the same moment. He gave a sideways smile and a sort of, "Welp, what are you gonna do?" shrug.
+
+"Well," Thomas said, looking around, "on the plus side, we have even more crystals to harvest."
+
+"Doubt any of these are going to be Fire," Zach said, "and that's what I need most."
+
+He couldn't delay any longer. With an internal sigh and a forcefully upbeat expression, Thomas turned to Jo and extended his hand to her. "You want the skill?"
+
+To his surprise, she shook her head and took a step back. "No, one of you guys should have it."
+
+"My skill slots are full," Thomas said, and was a little proud of himself that he did not sound the least bit bitter.
+
+"Can't," Zach said regretfully. "But come on, Jo. This would be the perfect skill for your build. With your gift and your poison? You'd be like the ultimate assassin."
+
+She looked sick. "I don't want to be an assassin."
+
+"I mean," Zach said, "it's just an archetype. You don't actually have to kill people."
+
+"Jo, it has the words 'Heavenly Mandate' in the description," Thomas said. "It's powerful."
+
+She took a breath as if to steady herself, then shook her head. "Yeah, no. I appreciate the offer, but you've given me almost everything I have: My other skills, the mana crystals to get me started, even my sword, and the sword before that. The only piece of magic I've picked for myself is Poison mana, and even then it came from your Gift. You're a nice guy, Thomas, but it's past time I figured out my next step on my own."
+
+Oh wow, had he been too pushy? The last thing he wanted to do was take her agency away from her. He had just wanted to help, but... this was a really high-level skill. He didn't think she understood exactly what she was turning down.
+
+Or maybe she did, and that mattered less than choosing for herself.
+
+"Alright, uh..." He had to accept her decision even if he vehemently disagreed with it. Also, he sensed the mood turning awkward, really fast. He looked to Zach and asked half-heartedly, "Are you absolutely sure you can't take this skill?"
+
+Jo jumped in like a woman seeking a lifeline. "Yeah, how many skills do you have?"
+
+"Zip. I wish I could use it, but," he shrugged "my Gift makes me and my mana the same, and teleport skills are supposed to be crazy mana hungry. I'd be burning life."
+
+Thomas looked at the skill in his hand, frustrated. Water, water everywhere and not a drop to drink.
+
+"We could always sell it," he said regretfully. "But I'd like it to stay in the team. If you guys don't mind, I'd be happy to have it at level 4."
+
+Though he had no idea how long that would take. It never really occurred to him before, but the message in the sky said dungeons were capped at level 3 until the count-down ended. Five more months unless he wanted to build his core using lower leveled mana. Damn it.
+
+Or Jo could take it once she finally came to her senses. Who didn't want the power to teleport? Seriously, Jo!
+
+There was a kind of awkward agreement from Jo and Zach, and regretfully Thomas put the skill in his pack for later.
+
+The discussion had left a dampening effect on all of them. Though, when they went through the rest of the loot from the fallen mosquitoes that helped ease things a little. Thomas hadn't really killed many, but monsters still dropped loot and they came out with a scattering of more crystals.
+
+Jo got a D grade Poison mana, and Thomas found a few more Earths and Waters. They even came up with a C grade air, which Zach absorbed with a slight grimace.
+
+It was clearly time to leave the dungeon. That was fine by Thomas. He was ready.
+
+Thankfully, on the way back, he figured out how to turn off his new Treasure Sight because he was starting to get a headache. It must have run on stamina, or it was just late at night, or both, because he was tired. So tired he almost forgot about the exit reward chest until he almost tripped over it in the exit room.
+
+Jo opened it, and they all stared. Three gold bars were nestled on the bottom of the chest.
+
+"I can't believe I'm about to complain about gold," Thomas said, "but these are going to be heavy as hell to pack to the car."
+
+"We don't have to bring them," Jo said, though she sounded doubtful.
+
+"Oh, I'm not leaving them behind." He opened his pack. "My backpack helps with the weight. It's just no fun if I don't complain a little."
+
+Zach volunteered to take one, as he had a similar extra storage pack. He was looking tired. They all were. That fight had taken the last little bit out of them.
+
+Right before they left, Thomas checked the pocket watch. It was only 3 a.m. Funny, he expected it to be later, but that gave them cover of darkness to get back to Jo's truck.
+
+Shaking his head, he bullied his brain into thinking again. "Okay, we don't know where the guards will be on their patrol. Let's pause right outside the door. Jo, cover us the best you can, and I'll use my health sight to check on where they are, and hopefully we can just sneak past."
+
+They exited the dungeon... and were immediately blinded by spotlights shined right on them.
+
+Thomas brought up his hand to shield his eyes, and he wasn't the only one.
+
+A group of about a dozen people stood between them and the forest. It took a couple of seconds for his eyes to adjust, but what he'd initially taken for guards looked like people in long black or dark red robes, and he swore some of them had to be wearing goth white makeup. That was an old look from when he was young.
+
+Also, those weren't spotlights. Several of them carried full-on wizard staffs with glowing crystals at the top.
+
+"Okay, who invited the cosplayers?" he muttered.
+
+Zach immediately stepped in front of them.
+
+The woman at the front — "woman" being a stretch, as she looked like a teenager in Elvira: Mistress of the Dark cosplay, complete with the slinky black dress and dark pile of hair on her head— smiled. "Preston, you've been a naughty boy."
+
+"Funny thing for a Brighten to say, Tabitha," Zach said. "No way the Ross-Astors let your coven dive here, either."
+
+Brighten? Like the Mimic Dungeon Brightens? Hadn't Zach mentioned they thought of themselves as witches or something? Well, that explained the look.
+
+The rest of the coven jeered at him.
+
+Tabitha just laughed and gestured grandly with long nails to either side.
+
+Thomas's eyes were just fully clearing from the wand light or whatever, but what he'd taken for deeper shadows off to either side of the group resolved into the image of two men tied to wooden poles. Or, what had been men. Guard gear and uniforms were piled at their feet, as was the rest of their skin. One of the men was twitching like he was still slightly alive.
+
+Thomas's stomach almost heaved, and he took a half-step forward without even realizing he was doing it. Zach caught his arm and pushed him back. He had spied the guards too.
+
+"Going to pin that on me?" Zach asked, all trace of his laid-back manner gone. He sounded cold and maybe a little bored. "No one will believe you. Dark magic leaves traces."
+
+Tabitha shrugged. "Two sacrifices for the power, a third to clean up." Her eyes flicked briefly to Thomas, and he got a bad feeling before she turned back to Zach. "No, Preston, I've come for you, for trespassing and stealing what is not yours to have."
+
+"I don't know what you're talking about," Zach said, tone bored, as if they were having a chat about tax strategies.
+
+While the two of them were talking, Thomas looked around with an eye toward whether he could rush past the group, do something, anything. Throwing the mace wasn't off the table even if it was no longer poisoned. There were a dozen of the coven members to the three of them, and even if they could push past, they still had to get over that stream. There was a large empty space between them and the forest. If any of these witches, or whatever they were, had water skills...
+
+One wizard who stood next to Tabitha had his hood pulled down to his eye-line. He caught Thomas's gaze and leered at him.
+
+Thomas's attention was drawn back when Tabitha said in a more annoyed voice, "Return the Hollow Shadow mana and you can go free, as a gesture of my good will. I'll only kill your support mage."
+
+Whoa, what?
+
+Thomas automatically looked aside to check Jo's reaction and found her gone. She'd probably used her Gift the second she saw these people and slipped away. Smart.
+
+But that left no doubt about who little Miss Witch wanted to kill.
+
+The robed guy next to Tabitha smirked. "Mistress, that one is a healer."
+
+"Excellent," she said cheerily. "It will take him so long to die."
+
+"You can't do that, Tab. Healers are sacrosanct, let's be reasonable here." Zach's tone had gone very firm. Then he snapped his fingers at Thomas as if he were a servant. "Give me my pack, Alfred."
+
+Alfred? They were going to have words about disguise names later.
+
+Thomas had no idea where he was going with this, but maybe he had some sort of plan. Actually, he had a bad feeling he knew what the "plan" was.
+
+The coven tensed when Thomas shrugged off his backpack, but Zach made a push-down, chill motion with his hand. "You said you wanted the mana? I'm getting the mana."
+
+Which was going to be impossible considering, if he guessed correctly, they'd left that dark mana behind to be gobbled up by the dungeon.
+
+Thomas handed over the backpack and tried to communicate with a look that he better not be about to do what Thomas thought he was about to do.
+
+The corner of Zach's mouth ticked up. Ah, fuck.
+
+"Then work faster," Tabitha said, almost around a yawn. "Until then my wizard will play. Let's see whose support staff is stronger."
+
+The robed guy next to Tabitha moved so fast he was a blur. In the space of a step, he stood directly next to Thomas.
+
+Above my level, Thomas had time to think, even as he turned with his mace raised.
+
+All the wizard did was lay a hand on Thomas's forearm. His touch was like crawling centipedes sliding down his throat and clogging his windpipe, biting maggots just under his skin. Thomas's nose filled with the smell of rotting flesh and burned hair. The man hadn't even touched his skin, but Thomas still wanted to rip his own arm off just to get away from him.
+
+He let out a short scream of surprised revulsion, then the man's corrupt presence fell over him like a suffocating blanket and that... that was somehow worse. His muscles locked just like when he was taking in Wellspring mana, only this was wrong. So wrong. He couldn't move but he could feel, and all he could do was let out a guttural, tortured groan.
+
+As if from a distance, he heard Zach shout, "Tab, I'm getting it! Just—just stop!"
+
+Then the wizard holding Thomas in thrall screamed as a sword plunged into his chest.
+
+Jo flickered into view. The Blood Thirst sword pulsed green poison mana and she withdrew it, aiming to stab the man again.
+
+With a gesture, the wizard flickered back to his mistress. But that released Thomas, who reeled back. If not for Zach and Jo's presence, he would have run straight back for the dungeon again. He'd rather fight the monsters all over again, naked, than have that wizard near him.
+
+He could feel his own healing mana surging up from his core, cushioning him from what he had just experienced, but it didn't feel like enough.
+
+Tabitha laughed and cackled some arcane sounding bullshit into the winds. Dark clouds started to gather. Human hands plunged downward, reaching for them. Thomas didn't think they were going for a handshake.
+
+Slinging Thomas' backpack over his shoulder, Zach darted forward, grabbed Thomas and Jo... and suddenly they were ripped away in a burst of fire and darkness.
+
+The next few split seconds were hard to describe, partially because Thomas couldn't see a thing. He just got an impression of rapid movement.
+
+Then he, Zach, and Jo were standing in a nearly empty parking lot next to Thomas's car. They were back in Reno.
+
+"W-what? What?" Thomas stuttered, though even he wasn't sure if he was reacting to what the wizard had done to him, or how they had gotten here, or just his life in general.
+
+He'd half expected Zach to go teleporting around the coven like a fiery volcano demon of vengeance, not a full escape with all of them in tow.
+
+Oh right, he had been low on mana to begin with, hadn't he?
+
+"Who was that girl?" Jo demanded, looking around wildly. "Where are we?"
+
+Zach didn't answer. There was a thousand-yard stare in his eyes that immediately set off red alerts in Thomas's brain.
+
+Reaching out, Zach grabbed the top of the car as if to steady himself, then his legs buckled under him. Thomas managed to grab him just before he fell into unconsciousness.
