@@ -173,13 +173,38 @@ export function builtFrom(): BuiltFrom | null {
 }
 
 export function keepBuiltFrom(marks: BuiltFrom): void {
+  fresh.clear()
   const at = builtFromAt()
   mkdirSync(dirname(at), { recursive: true })
   writeWhole(at, JSON.stringify(marks))
 }
 
+const fresh = new Map<string, boolean>()
+
 export function indexReaches(repo: string, root: string): boolean {
   return canonicalize(rootBeside(repo)) === canonicalize(root)
+}
+
+/**
+ * Whether the index's rows for one repository still describe the tree standing there.
+ *
+ * THE ANSWER IS HELD FOR THE LIFE OF THE PROCESS. `markFor` walks the whole repository through
+ * git and costs on the order of a tenth of a second, and a read path asks this once per build
+ * context, so a repeated answer would be paid for many times over in one command. The tree does
+ * not move under a running command; where a command writes the index itself, `keepBuiltFrom` and
+ * `emptyIndex` drop what is held.
+ *
+ * A repository the index was never built over reads as NOT fresh, which is the same answer a
+ * drifted one gets and wants the same treatment: read the tree instead of the rows.
+ */
+export function indexFreshFor(repo: string, root: string): boolean {
+  const at = `${repo}\n${root}`
+  const had = fresh.get(at)
+  if (had !== undefined) return had
+  const held = builtFrom()
+  const now = held !== null && held[repo] === markFor(root)
+  fresh.set(at, now)
+  return now
 }
 
 export function staleIn(roots: Roots): readonly string[] {
@@ -264,6 +289,7 @@ export function loadRelations(): ReadonlyMap<string, readonly Relation[]> {
 }
 
 export function emptyIndex(): void {
+  fresh.clear()
   heldPages = null
   const at = indexRoot()
   if (existsSync(at)) rmSync(at, { recursive: true, force: true })

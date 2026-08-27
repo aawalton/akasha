@@ -57,13 +57,36 @@ function checkAt(root: string, at: PageAt): Check {
   return check
 }
 
+/**
+ * Whether a check page says it runs in one phase.
+ *
+ * A PAGE THAT WILL NOT READ IS AN ERROR, NOT A CHECK THAT RUNS. This answered `true` for an
+ * unreadable page, so a check standing down in its own frontmatter came back on the moment
+ * anything stopped the page being read — and nothing about that reads as a fault, because a
+ * check that runs is the ordinary case. When the page index drifted, every stood-down check
+ * turned on at once and the tree came back with thousands of violations nowhere near the change.
+ */
 function runsOn(ctx: BuildContext, at: PageAt, key: string): boolean {
   const fm = frontmatterAt(ctx, at.repo, at.key)
-  if (fm === null) return true
+  if (fm === null) {
+    throw new Error(
+      `${at.key} is a check page and nothing at that path reads as frontmatter, so what it says ` +
+        `about \`${key}\` cannot be known. Where the path is right and the file is not, the tree is ` +
+        "mid-repair; where the file is right, write the page index again with `ops index refresh`"
+    )
+  }
   const said = fm.fields.get(key)
   return said !== false && said !== "false"
 }
 
+/**
+ * THE MODULE OF A CHECK THAT RUNS NOWHERE IS NEVER ASKED FOR. Every check page was loaded before
+ * anything asked whether it runs, so one whose module had gone took the whole registry down —
+ * and with it `ops edit`, `ops write` and `ops mv`, which is to say every tool that could put the
+ * module back. A check standing down in all three phases is not needed to answer any question
+ * this registry is asked, so its absence is reported by whoever looks at the tree rather than by
+ * wedging the tools.
+ */
 function foundIn(root: string): Found {
   const ctx = contextOn(root)
   const pages = [...pagesOfType(ctx, PAGE_TYPE)].sort((one, two) => (one.stem < two.stem ? -1 : 1))
@@ -72,11 +95,21 @@ function foundIn(root: string): Found {
   const onWorktree: Check[] = []
   const onAudit: Check[] = []
   for (const at of pages) {
-    const check = checkAt(root, at)
+    const phases = [ON_PATCH, ON_WORKTREE, ON_AUDIT].filter((one) => runsOn(ctx, at, one))
+    let check: Check
+    try {
+      check = checkAt(root, at)
+    } catch (thrown) {
+      if (phases.length === 0) continue
+      const said = thrown instanceof Error ? thrown.message : String(thrown)
+      throw new Error(
+        `${at.key} says it runs on ${phases.join(", ")}, and the check it names will not load: ${said}`
+      )
+    }
     every.push(check)
-    if (runsOn(ctx, at, ON_PATCH)) onPatch.push(check)
-    if (runsOn(ctx, at, ON_WORKTREE)) onWorktree.push(check)
-    if (runsOn(ctx, at, ON_AUDIT)) onAudit.push(check)
+    if (phases.includes(ON_PATCH)) onPatch.push(check)
+    if (phases.includes(ON_WORKTREE)) onWorktree.push(check)
+    if (phases.includes(ON_AUDIT)) onAudit.push(check)
   }
   return { every, onPatch, onWorktree, onAudit }
 }
