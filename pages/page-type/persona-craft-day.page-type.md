@@ -7,6 +7,7 @@ files: akasha:**/*.persona-craft-day.md
 body-shape-slug: empty
 slug: persona-craft-day
 domain-parent-slug: domain/persona-points
+named-for: "{persona-slug}-{date}"
 ---
 
 # Definition
