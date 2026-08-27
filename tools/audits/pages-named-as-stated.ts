@@ -1,7 +1,7 @@
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { AsyncCheck, CheckOutcome } from "../lib/check.ts"
 import { constantHolesIn } from "../page/page-naming.ts"
-import { pageStem } from "../../page/name/naming/naming"
+import { filledBy, unfilledIn } from "../../page/name/naming/named-for.ts"
 import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { advise, over, skip } from "../../outcome/outcome"
 import { diskFileTree } from "../../page/file-tree.ts"
@@ -15,7 +15,6 @@ import { claimedPages, emptyClaim } from "./pages-hold-shape.ts"
 const NAME = "pages-named-as-stated"
 const UNIT = "claimed page(s)"
 const KEY = "named-for"
-const HOLE = /\{([a-z0-9-]+)\}/g
 const SHOWN = 12
 
 const first = (lines: readonly string[]): readonly string[] =>
@@ -46,19 +45,10 @@ interface Covered {
 
 function fill(template: string, body: string): Read {
   const fm = parseFrontmatter(body)
-  const holes: string[] = []
-  const whole = template.replace(HOLE, (_whole, key: string) => {
-    const value = textField(fm, key)
-    if (value === null) {
-      holes.push(key)
-      return ""
-    }
-    return value
-  })
-  if (holes.length > 0) return { holes }
-  const stem = pageStem(whole)
-  const stated = textField(fm, "slug")
-  return { name: stated === null || stated.trim() === "" ? stem : stated.trim(), stem }
+  const heldAt = (key: string): string | null => textField(fm, key)
+  const stem = filledBy(template, heldAt)
+  if (stem === null) return { holes: unfilledIn(template, heldAt) }
+  return { name: textField(fm, "slug") ?? stem, stem }
 }
 
 function isUnfilled(one: Read): one is { readonly holes: readonly string[] } {

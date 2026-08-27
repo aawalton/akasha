@@ -2,39 +2,19 @@ import { createHash } from "node:crypto"
 import type { Frontmatter } from "../../frontmatter.ts"
 import { blockOf, stringAt } from "../../text/text.ts"
 import { stemOf } from "../name.ts"
+import { filledBy, pageStem, STEM_CEILING } from "./named-for.ts"
 
-const DIACRITICS = /[̀-ͯ]/g
-
-const APOSTROPHES = /['’]/g
-
-const NOT_ALPHANUMERIC = /[^A-Za-z0-9]+/g
-
-const EDGE_DASHES = /^-+|-+$/g
-
-const HOLE = /\{([a-z0-9-]+)\}/g
+export { pageStem, STEM_CEILING }
 
 const AT_NAMESPACE = "6ba7b812-9dad-11d1-80b4-00c04fd430c8"
 
 const MARKDOWN = ".md"
-
-export const STEM_CEILING = 71
 
 export const NAMED_FOR = "named-for"
 
 export const EXTENDS_SLUG = "extends-slug"
 
 const NONE = "none"
-
-export function pageStem(text: string): string {
-  const stem = text
-    .normalize("NFKD")
-    .replace(DIACRITICS, "")
-    .replace(APOSTROPHES, "")
-    .replace(NOT_ALPHANUMERIC, "-")
-    .replace(EDGE_DASHES, "")
-    .toLowerCase()
-  return stem.length <= STEM_CEILING ? stem : stem.slice(0, STEM_CEILING).replace(EDGE_DASHES, "")
-}
 
 export function idDerivedFrom(at: string): string {
   const namespace = Buffer.from(AT_NAMESPACE.replaceAll("-", ""), "hex")
@@ -94,22 +74,7 @@ export function ruleFor(
 }
 
 export function filled(rule: string, fm: Frontmatter): string | null {
-  let whole = ""
-  let at = 0
-  let unfilled = false
-  for (const found of rule.matchAll(HOLE)) {
-    const key = found[1]
-    if (key === undefined) continue
-    const held = stringAt(fm, key)
-    if (held === null) {
-      unfilled = true
-      break
-    }
-    whole += rule.slice(at, found.index) + held
-    at = found.index + found[0].length
-  }
-  if (unfilled) return null
-  return pageStem(whole + rule.slice(at))
+  return filledBy(rule, (key) => stringAt(fm, key))
 }
 
 export type Named = {

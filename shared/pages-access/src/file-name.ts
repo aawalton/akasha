@@ -1,55 +1,35 @@
 import type { Value } from "@shared/pages-query"
 import { camelizeKey, SETTLED_BY_ROW } from "./file-rows"
 import { FileWriteError } from "./file-write-error"
+import {
+  filledBy,
+  type HeldAt,
+  holesIn,
+  pageStem,
+  STEM_CEILING,
+  unfilledIn,
+} from "../../../page/name/naming/named-for.ts"
 import type { PageWhere } from "@shared/pages-core/page-types"
 
-const DIACRITICS = /[̀-ͯ]/g
-
-const APOSTROPHES = /['’]/g
-
-const NOT_ALPHANUMERIC = /[^A-Za-z0-9]+/g
-
-const EDGE_DASHES = /^-+|-+$/g
-
-const HOLE = /\{([a-z0-9-]+)\}/g
-
-export const STEM_CEILING = 71
-
-export function pageStem(text: string): string {
-  const stem = text
-    .normalize("NFKD")
-    .replace(DIACRITICS, "")
-    .replace(APOSTROPHES, "")
-    .replace(NOT_ALPHANUMERIC, "-")
-    .replace(EDGE_DASHES, "")
-    .toLowerCase()
-  return stem.length <= STEM_CEILING ? stem : stem.slice(0, STEM_CEILING).replace(EDGE_DASHES, "")
-}
+export { pageStem, STEM_CEILING }
 
 export type Filled =
   | { readonly ok: true; readonly stem: string }
   | { readonly ok: false; readonly holes: readonly string[] }
 
-export function filledName(template: string, values: Readonly<Record<string, unknown>>): Filled {
-  const holes: string[] = []
-  const whole = template.replace(HOLE, (_all, key: string) => {
+function heldIn(values: Readonly<Record<string, unknown>>): HeldAt {
+  return (key) => {
     const value = values[key]
-    if (typeof value === "string" && value.trim() !== "") return value.trim()
+    if (typeof value === "string") return value.trim() === "" ? null : value.trim()
     if (typeof value === "number" || typeof value === "boolean") return String(value)
-    holes.push(key)
-    return ""
-  })
-  if (holes.length > 0) return { ok: false, holes }
-  const stem = pageStem(whole)
-  return stem === "" ? { ok: false, holes: holesIn(template) } : { ok: true, stem }
+    return null
+  }
 }
 
-function holesIn(template: string): readonly string[] {
-  const found: string[] = []
-  for (const [, key] of template.matchAll(HOLE)) {
-    if (key !== undefined) found.push(key)
-  }
-  return found
+export function filledName(template: string, values: Readonly<Record<string, unknown>>): Filled {
+  const heldAt = heldIn(values)
+  const stem = filledBy(template, heldAt)
+  return stem === null ? { ok: false, holes: unfilledIn(template, heldAt) } : { ok: true, stem }
 }
 
 export function constantHolesIn(template: string): readonly string[] {
