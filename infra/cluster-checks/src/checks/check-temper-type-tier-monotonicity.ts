@@ -38,13 +38,13 @@ const REMEDIATION = repoDoc("infra/cluster-checks/src/lib/temper-type-tier.ts")
 const TIER_HOMED_LEAST_COUNT = 120
 
 const TIER_HOMED_FROM =
-  "the temper tier layout: every workspace under `packages/temper/shared/`, " +
-  "`packages/temper/game/` or `packages/temper/player/` is tier-homed, and those three " +
-  "directories held 145 workspaces (62 shared, 73 game, 10 player) when this least count was set"
+  "the temper tier layout: every workspace standing directly under `temper/` whose name begins " +
+  "`shared-`, `game-` or `player-` is tier-homed, and those three prefixes held 146 workspaces " +
+  "(63 shared, 72 game, 11 player) when this least count was set"
 
 const tierDirsWhereRank = (accept: (rank: number) => boolean): string =>
   TEMPER_TIERS.filter((tier) => accept(TIER_RANK_BY_TIER[tier]))
-    .map((tier) => `packages/temper/${tier}/`)
+    .map((tier) => `temper/${tier}-`)
     .join(" or ")
 
 interface CliArgs {

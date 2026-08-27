@@ -11,7 +11,7 @@ import {
 } from "../../../../tools/lib/graph/producers/file/tsconfig-file/types.ts"
 import { findCycles } from "../../../../tools/lib/graph/queries/cycles.ts"
 import type { Edge, Graph, Node, NodeId } from "../../../../tools/lib/graph/types.ts"
-import { CODE, resolveRoots, rootFor } from "../../../../repo/roots/roots"
+import { codeRoot } from "../../../../tools/lib/code-root.ts"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
 import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
 import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
@@ -141,7 +141,7 @@ async function main(): Promise<never> {
     return toolExit(`failed to build the import graph at ${args.treeSha}: ${errorMessage(err)}`)
   }
 
-  const codeRoot = rootFor(resolveRoots(), CODE)
+  const root = codeRoot()
   const curatedRoots = curatedWorkspaceRoots(fullGraph)
 
   const curated = new Map<NodeId, TsFileAttrs>()
@@ -180,13 +180,13 @@ async function main(): Promise<never> {
     members: [...inScope.values()],
     unit: "modules",
     labelOf: (path) => path,
-    siteOf: (path) => resolve(codeRoot, path),
+    siteOf: (path) => resolve(root, path),
     examine: () => [],
     membership: {
       kind: "atLeast",
       members: MODULES_AT_LEAST,
       from:
-        "the code repo's tracked TypeScript tree read at the tree sha above, which held 6718 " +
+        "the tracked TypeScript tree read at the tree sha above, which held 6718 " +
         "modules reachable from an entry across the workspace roots carrying a `tsconfig.json` " +
         "when this least count was taken — the graph hands back whatever it discovered rather " +
         "than raising when it discovers less, so a run arriving under this saw a smaller tree " +
