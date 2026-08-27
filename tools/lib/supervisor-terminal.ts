@@ -46,6 +46,7 @@ export function installSupervisorTerminalGuard(opts: {
   shutdown: (signal: string) => Promise<void>
   isClaudeAlive: () => boolean
   getSink: () => LogSink
+  requestReExec?: (why: string) => void
 }): undefined {
   if (installed) return
   installed = true
@@ -86,4 +87,17 @@ export function installSupervisorTerminalGuard(opts: {
   }
   process.on("SIGINT", () => handle("SIGINT"))
   process.on("SIGTERM", () => handle("SIGTERM"))
+
+  // THE ONE SIGNAL THAT DOES NOT END THE SEAT. This marks a re-exec pending and then routes into
+  // the same teardown SIGTERM takes, so the supervisor is replaced in place: same pid, and the
+  // Claude child, its subagents and its background work are never signalled. Sent to a supervisor
+  // that has begun shutting down it is a no-op, the mark being refused there rather than here.
+  //
+  // SIGUSR1 RATHER THAN SIGHUP, which is what a hangup already means to a process holding a pty.
+  // On SIGHUP a terminal that really had gone would re-exec this supervisor into a dead one
+  // instead of letting it end, and the two cases are indistinguishable from inside the handler.
+  const askReExec = opts.requestReExec
+  if (askReExec !== undefined) {
+    process.on("SIGUSR1", () => askReExec("SIGUSR1"))
+  }
 }

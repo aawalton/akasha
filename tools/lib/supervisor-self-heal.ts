@@ -12,17 +12,31 @@ export function resolveReExecArgv(): readonly string[] {
   return buildReExecArgv({ originalArgv: ORIGINAL_ARGV, agentId, sessionId })
 }
 
-export function requestSelfHealRestart(newVersion: string): undefined {
+/**
+ * Ask this supervisor to be replaced in place, whoever is asking.
+ *
+ * THE FLAG AND THE SIGNAL ARE ONE ACT. `pendingReExec` is what tells a shutdown to re-exec rather
+ * than end, so a SIGTERM sent without it set takes the seat down and the Claude child, its
+ * subagents and its background work with it. Setting one without the other is the whole of the
+ * damage this can do, which is why they are not separately callable.
+ *
+ * A SECOND ASK IS A NO-OP rather than a second signal: the first is already tearing down.
+ */
+export function requestReExec(why: string): undefined {
   if (selfHealState.pendingReExec) return
   selfHealState.pendingReExec = true
   try {
     selfHealState.killSelf("SIGTERM")
-    console.log(`${LOG} Self-heal: SIGTERM sent for version ${newVersion}`)
+    console.log(`${LOG} Re-exec: SIGTERM sent to self (${why})`)
   } catch (err) {
     selfHealState.pendingReExec = false
     selfHealState.reExecScheduled = false
-    console.error(`${LOG} Self-heal: failed to SIGTERM self:`, err)
+    console.error(`${LOG} Re-exec: failed to SIGTERM self (${why}):`, err)
   }
+}
+
+export function requestSelfHealRestart(newVersion: string): undefined {
+  requestReExec(`version ${newVersion}`)
 }
 
 export async function handleVersionUpdate(
