@@ -196,17 +196,6 @@ export default workflow("prometheus", {
 
     {
       ...step({
-        name: "prometheus-verify-live-rules",
-        image: IMAGES.BUN,
-        commands: (ci) => [
-          `cd ${ci.workspace} && bun infra/k8s/src/prometheus/verify-live-rules.ts`,
-        ],
-      }),
-      dependsOn: ["prometheus-apply-manifests"],
-    },
-
-    {
-      ...step({
         name: "prometheus-stamp-content-hash",
         image: IMAGES.KUBECTL,
 
@@ -227,7 +216,6 @@ export default workflow("prometheus", {
         "prometheus-apply-rbac",
         "prometheus-apply-app-rbac",
         "prometheus-apply-manifests",
-        "prometheus-verify-live-rules",
       ],
     },
   ],

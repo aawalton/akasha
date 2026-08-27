@@ -6,7 +6,6 @@
     "./app-namespaces/synth": "./src/app-namespaces/synth.ts",
     "./cloudflared/discover-routes": "./src/cloudflared/discover-routes.ts",
     "./cloudflared/types": "./src/cloudflared/types.ts",
-    "./prometheus/synth-alerts": "./src/prometheus/synth-alerts.ts",
     "./*": "./src/*.ts"
   },
   "dependencies": {

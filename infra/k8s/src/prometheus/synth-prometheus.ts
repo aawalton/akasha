@@ -1,6 +1,5 @@
 import { synthMulti, synthOne } from "@infra/k8s-types/cdk8s-synth"
 import { capabilitySelector, HOSTNAME_KEY } from "@infra/k8s-types/hostnames"
-import { alertsYml } from "./alerts-yml"
 import {
   ALERTMANAGER_IMAGE,
   BUSYBOX_IMAGE,
@@ -11,8 +10,9 @@ import {
 } from "./synth-constants"
 import { PROMETHEUS_YML } from "./synth-prometheus-configs"
 
+const NO_ALERT_RULES = "groups: []\n"
+
 export async function prometheusConfigmapYaml(): Promise<string> {
-  const alerts = await alertsYml()
   return synthOne(NAMESPACE, "prometheus-configmap", {
     apiVersion: "v1",
     kind: "ConfigMap",
@@ -23,7 +23,7 @@ export async function prometheusConfigmapYaml(): Promise<string> {
     },
     data: {
       "prometheus.yml": PROMETHEUS_YML,
-      "alerts.yml": alerts,
+      "alerts.yml": NO_ALERT_RULES,
     },
   })
 }
