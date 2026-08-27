@@ -1,5 +1,13 @@
-// The old graph is gone. This module is a stub so its callers still resolve.
-// Every value here refuses; the callers are waiting to be migrated onto `graph/ask.ts`.
-import { oldGraphGone } from "./graph-gone.ts"
+import type { Repo } from "../../page/document/types.ts"
 
-export const nodeKey = ((...a: readonly unknown[]) => oldGraphGone("nodeKey")) as never
+export interface NodeKeyParts {
+  readonly type: string
+  readonly repo?: Repo
+  readonly key: string
+}
+
+export function nodeKey(parts: NodeKeyParts): string {
+  return parts.repo === undefined
+    ? `${parts.type}:${parts.key}`
+    : `${parts.type}:${parts.repo}:${parts.key}`
+}
