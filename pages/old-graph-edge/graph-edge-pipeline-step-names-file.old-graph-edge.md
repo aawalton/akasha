@@ -15,6 +15,6 @@ code-type: step-names-file
 
 A path with no root on it is read against the code checkout the step's pod starts in.
 
-A path rooted at a variable other than `$WS`, `$WORKSPACE` or `$INSTRUCTIONS_ROOT` is left where it stands.
+A path rooted at a variable other than `$WS`, `$WORKSPACE` or `$AKASHA_ROOT` is left where it stands.
 
 Only a TypeScript file stands at the far end of this edge.
