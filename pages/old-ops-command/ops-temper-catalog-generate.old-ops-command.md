@@ -34,9 +34,9 @@ The generators stand here; the tree they write into is the code repository's, an
 they emit are tracked there. A run therefore changes that repository's working tree, and the
 checkout it writes into is named below rather than assumed.
 
-Every schema each tier parses against stands only in the code repository and is reached
-through `tools/lib/code-import.ts`, so the checkout named below settles both what is read
-and what is written.
+Every schema each tier parses against is imported directly from the package that declares
+it, so a run parses against the schemas standing beside it and the checkout named below
+settles only what is written.
 
 A run needs a capture the addon flushed on `/reloadui` or `/quit`, so the answer is as old
 as that flush. Where the tier's catalog was never captured, the run fails with exit 2.

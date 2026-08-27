@@ -22,7 +22,7 @@ export const help: CommandHelp = {
       valueShape: "token",
       path: true,
       description:
-        "The checkout to read the schemas from and write the generated file into. Defaults to $CODE_ROOT, else this repository.",
+        "The checkout to write the generated file into. Defaults to $CODE_ROOT, else this repository.",
     },
     {
       name: "--file",
@@ -52,8 +52,6 @@ export default async function temperCatalogGenerate(args: readonly string[]): Pr
   const parsed = parseArgs(help, args)
   const named = parsed.string("--code-root")
   const root = realpathSync(named ?? codeRoot())
-
-  process.env.CODE_ROOT = root
 
   const { runTier } = await import("../../../lib/temper-catalog-generate/harness.ts")
   const { TIER_SLUGS, tierBySlug } = await import("../../../lib/temper-catalog-generate/tiers.ts")
