@@ -30,21 +30,36 @@ export function ownRepoRoot(): string {
   return rootOf(INSTRUCTIONS)
 }
 
-function namedOnDisk(): readonly string[] {
-  const at = `${rootOf(INSTRUCTIONS)}/${REPO_PAGES}`
+function namedIn(at: string): readonly string[] {
   const found = new Set<string>()
-  for (const one of readdirSync(at)) {
+  let entries: readonly string[]
+  try {
+    entries = readdirSync(at)
+  } catch {
+    return []
+  }
+  for (const one of entries) {
     const named = pageNameOf(one)
     if (named === null) continue
     if (!named.stem.endsWith(REPO_ENDING)) continue
     found.add(named.stem.slice(0, -REPO_ENDING.length))
   }
-  if (found.size === 0) {
-    throw new Error(
-      `${at} holds no \`*${REPO_ENDING}\` page, so nothing says which repositories there are`
-    )
-  }
   return [...found].sort()
+}
+
+// This is read at import, on every invocation, before an argument is parsed, so
+// wherever these pages stand is where everything starts. They are moving here,
+// and until they have, the repository beside this one still holds them.
+function namedOnDisk(): readonly string[] {
+  const here = `${HERE}/${REPO_PAGES}`
+  const own = namedIn(here)
+  if (own.length > 0) return own
+  const beside = `${rootOf(INSTRUCTIONS)}/${REPO_PAGES}`
+  const there = namedIn(beside)
+  if (there.length > 0) return there
+  throw new Error(
+    `neither ${here} nor ${beside} holds a \`*${REPO_ENDING}\` page, so nothing says which repositories there are`
+  )
 }
 
 export const REPOS = namedOnDisk()
