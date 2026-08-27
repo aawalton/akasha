@@ -4,7 +4,7 @@ page-type-slug: mp-command
 title: "List"
 slug: list
 path: file-structure list
-domain-parent-slug: domain/file-structure
+domain-parent-slug: mp-namespace/file-structure
 required-reading-slugs:
   - page-type/mp-command
 ---

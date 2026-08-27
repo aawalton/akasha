@@ -4,7 +4,7 @@ page-type-slug: mp-command
 title: "Dominance"
 slug: dominance
 path: file-structure dominance
-domain-parent-slug: domain/file-structure
+domain-parent-slug: mp-namespace/file-structure
 required-reading-slugs:
   - page-type/mp-command
 ---
