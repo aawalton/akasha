@@ -8,6 +8,7 @@ role-slug: definer
 person-slug: alan
 start-mode: interactive
 on-call: true
+initiative-slug: aine-global
 errand: "Okay, I restarted you so you can test and verify we've fixed the issue"
 registration-account: aawalton
 claude-code-session-uuid: 74cb61a9-b9a3-4fd3-bab4-bc748004fed7
