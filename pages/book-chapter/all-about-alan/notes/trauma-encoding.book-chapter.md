@@ -1,0 +1,27 @@
+---
+id: 2a0ebf7c-e23b-5566-9277-7bf318c0c686
+page-type-slug: book-chapter
+slug: trauma-encoding
+title: "Traumatic nervous-system encoding"
+partOf: all-about-alan
+unit: words
+description: "Traumatic nervous-system encoding — autism mechanism root; counterbalance to nervous-system sensitivity."
+---
+
+# Traumatic nervous-system encoding
+
+## Mechanism root
+
+- Both skill-learning and threat-encoding ride on the same nervous-system sensitivity dial. When nervous-system activation is high during an event, the nervous system encodes the pattern strongly. Positive activation → fast skill acquisition (the canonical positive consequence of sensitivity, captured in [nervous-system-sensitivity.md](nervous-system-sensitivity.book-chapter.md)). Negative activation → strong threat encoding, which then fires on partial cue match later. Same dial, two sides.
+- **Non-habituation is not the asymmetry.** Habituation operates on a different level than nervous-system trauma. The nervous system still *adapts* — encoding can form and extinguish, and exposure therapy works for Alan as it does for non-autists. If non-habituation governed trauma encoding, trauma could not form in the first place.
+- **Aphantasia is the asymmetry — no emotional or sensory recall, no self-exposure.** For non-aphantasic people, encoded trauma gets re-rehearsed via memory replay between external encounters; the replay re-engages the nervous system, and under sufficient safety context that replay drives gradual extinction. Alan does not have emotional or sensory recall (canonical home: [aphantasia-mechanism.md](aphantasia-mechanism.book-chapter.md)), so he does not self-expose between actual encounters. Only an external re-encounter can do extinction work. The encoding stays fresh much longer than it would for a non-aphantasic with the same nervous-system sensitivity. The deeper reason there is nothing to replay: Alan keeps [one present-tense model](present-tense-model.book-chapter.md) of the world with no episodic store — past events are not retrievable as events, only as compression folded into the model's structure, so there is no episode to re-run between encounters.
+- This inverts a conventional clinical observation: for non-aphantasic trauma sufferers, intrusive trauma replay (PTSD flashbacks) is part of the *problem*, and self-rehearsal can be too overwhelming. For Alan, the lack of intrusive replay is itself the problem — it removes the natural extinction pathway.
+
+## Evolutionary framing
+
+- Nervous-system sensitivity has a defensible argument as an adaptive evolutionary response. In ancestral literal-danger environments, fast threat-pattern recognition (encoded threats firing on partial cues) was protective: faster avoidance of predator and raid scenarios. The same dial that gives autists fast learning gives them fast threat-pattern recognition.
+- In a modern non-survival environment, the encoding side is a pure cost. The mechanism still over-fires on social and sensory events that are not actual survival threats, but there is no compensating survival benefit — the protective context the mechanism was tuned for is mostly absent.
+
+## Editorial scope
+
+The book treats trauma encoding at the mechanism-root level — sensitivity × aphantasia, why autistic trauma stays fresh, why exposure modalities matter. It does not enumerate Alan's personal trauma dimensions, and it does not catalogue a generic "kinds of autistic trauma" list. The one expected dimension named in passing is **social-error encoding** — accumulated negative outcomes from System 1 cue misses (cross-referenced from [non-habituation.md](non-habituation.book-chapter.md)) — which most autists are expected to share. Other dimensions are real but stay personal. The childhood generalization of that social-error encoding into a category-wide verdict — [people aren't safe](people-arent-safe.book-chapter.md) — is one named instance: unpredictable punishment, frozen fresh by the aphantasia mechanism above, encoded as a prior on people rather than on any specific trigger.

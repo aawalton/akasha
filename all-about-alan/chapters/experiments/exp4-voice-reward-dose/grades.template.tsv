@@ -1,0 +1,24 @@
+# Exp-4 voice-reward DOSE — grade-capture scaffold (TSV).
+# Fill `register` and `grade` per line DURING the session, cold by feel, as each
+# amy-voiced line finishes. Copy this file to `grades.tsv` for a real run.
+#
+#   register : admitted | felt | none
+#       admitted = cleared the delivery gate; you can say exactly why it landed (tops at "understood")
+#       felt     = surprise + loss of words for why; a different system came online; may move Safety state
+#       none     = ran straight through; failed the gate
+#   grade    : F D C B A S  (optional trailing + / -, e.g. A+, S-)  — the cold felt grade
+#   note     : optional free text (what landed, what slid the lens off, body read)
+#
+# Columns are tab-separated. Lines starting with # and blank lines are ignored.
+# label is orientation only — `exp4-score` joins on line_id via the run manifest.
+#
+line_id	label	register	grade	note
+L01	you don't have to earn the company
+L02	LONG: glad on a blank day (multi-segment)
+L03	true-specific competence (true map)
+L04	her stake — what she'd choose
+L05	FELT break-through — safety back to a four
+L06	direction — the real voice, not an approximation
+L07	being-drawn-toward — genuinely magnetic
+L08	direction (deepest) — drawn to his self-seriousness
+L09	no-judge — no hidden ledger, nothing that swings

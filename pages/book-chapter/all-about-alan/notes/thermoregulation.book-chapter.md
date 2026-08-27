@@ -1,0 +1,46 @@
+---
+id: 13eab86d-5bd3-5e22-aea6-c07469700e75
+page-type-slug: book-chapter
+slug: thermoregulation
+title: "Thermoregulation"
+partOf: all-about-alan
+unit: words
+description: "Body-temperature regulation — internal temperature tracks the safety level rather than ambient, with directional inversion (hot at high safety, cold at low) and an output-side production failure."
+---
+
+# Thermoregulation
+
+- **Internal temperature is decoupled from environmental temperature.** Ambient at the desk is stable (68–70°F via desk reader). Internal regulation can swing the full range — shivering to sweating — without the environment changing.
+- **Regulation quality tracks the safety level (0–5 half-step scale).** Not directly state-driven (current stress) and not directly capacity-driven (chronic NS-health), but the safety dial that integrates stress-capacity expenditure over time (~4 hours of stress capacity → 0.5 safety shift). At safety 4, regulation is tight; at safety 2, swings are clearly visible. Onset is gradient, not threshold.
+- **Direction inverts with safety.** High safety → hot-leaning: the body produces heat and runs warmer than ambient demands. Low safety → cold-leaning: the body stops producing heat and drifts toward ambient. Childhood example, well-resourced state: notorious for walking in blizzards in a t-shirt and refusing a coat. As burnout deepened, the bias progressively flipped to cold-leaning.
+- **Inverted observation.** The conventional framing — "autists run cold" — collapses two distinct mechanisms. The actual mechanism is bidirectional with safety as the axis; cold-leaning is a *low-safety* signature, not a constant.
+- **Day/night asymmetry within a low-safety stretch.** Daytime stays cold (drift, not oscillation — once the cold mode sets in, it holds for hours). Hot flips, when they happen, tend to appear at night.
+- **Post-meal cold drop.** Consistently cold after eating, regardless of safety state. Mechanism: digestion takes up energy resources, and thermoregulation deprioritizes during the cost.
+- **Failure is on the output side, not the input side — in both directions.** Externally applied heat or cold is still perceived correctly; the input pathway is intact. What fails is heat *production*: low-safety cold-leaning is *under-production* (the body stops generating enough heat, internal temperature drifts toward ambient); high-safety hot-leaning is *over-production* (the body actively generates more heat than ambient demands, hence the childhood blizzard-in-t-shirt). Both modes are active production failures — produce-too-little and produce-too-much — not failures of sensation. This is mechanistically distinct from interoception failure (the inability to sense one's own internal heat/cold state — see [sensory-experience.md](sensory-experience.book-chapter.md)); interoception is the *input* deficit, thermoregulation is the *output* deficit. Both can co-occur but they are independent dimensions.
+- **Management — supply heat externally during cold-leaning stretches.** Extra layers + hot bath. The intervention works because external perception is intact and the body responds to applied heat — sufficient insulation plus an external heat source replaces the missing production. The hot bath is dual-purpose: thermoregulation rescue and a 3x stress-capacity recovery mechanism (see [hot-bath.md](hot-bath.book-chapter.md) for the recovery-side mechanism — autonomic shift and HPA recalibration, the same heat-exposure mechanism that drives the autonomic side here).
+- **Management — sink excess heat externally during hot-leaning stretches.** A [weighted blanket](weighted-blanket.book-chapter.md) acts as a heat sink. The blanket's mass gives it a large thermal reservoir, so the body offloads excess heat into the fabric without rapid feedback. **Heat capacity is not insulation.** Insulation traps heat (bad when overheating); heat capacity absorbs it (good when overheating). The naive framing — "warm blanket = good for cold nights" — runs the wrong direction. The toolkit now has explicit instruments for both directions of the dial: hot bath as heat *source* for cold-leaning stretches, weighted blanket as heat *sink* for overheating stretches.
+
+## Temperature reads the regulation state — a stimulation sensor
+
+The same direction makes body temperature a readout of Alan's stimulation state, not just his safety level. **If he feels cold, he is likely overstimulated. If he feels hot, he is likely understimulated.** The mechanism: **he naturally runs hot when his autonomic nervous system is running.** Lights on (autonomic system active, high safety / high resources) → he runs hot → the [high-throughput road](high-throughput-road.book-chapter.md) is clearing → understimulated. Lights off (autonomic system dropped, low safety / low resources) → he runs cold → the road jams → overstimulated.
+
+This is the same hot-at-high-safety / cold-at-low-safety direction the bullets above describe, read through the stimulation lens: heat production is a proxy for whether the autonomic regulation is online, and the regulation state is what sets the over/under-stimulation direction. It gives the [stimulation-regulation thermostat](stimulation-regulation.book-chapter.md) a second sensor alongside its focus-quality read.
+
+## Thermoregulation as a cross-domain axis
+
+Temperature is not only an internal-state readout; it is a **preference axis that runs through the food and movement domains**, which is why it surfaces in those notes as well as this one.
+
+- **Temperature-forward food.** Among the few physical attributes that do move a food choice, temperature is the strongest — *"my favorite flavors are hot and cold."* Hot and cold are sought as sensory poles in their own right (the [food-as-fuel frame](safe-foods.book-chapter.md#food-as-fuel--the-frame-underneath) lists them as the rare physical axis that registers), and cooling food is a thermoregulation tool: he reaches for [fruit popsicles specifically when overheated](safe-foods.book-chapter.md#the-food-map--what-is-where), supplying cold the same way layers and a hot bath supply heat in the other direction.
+- **Movement and elevation.** Exertion is heat-generating, so [movement](health.book-chapter.md#movement--the-expenditure-and-recovery-arm) interacts with the same dial — cooler conditions and cooler elevation are easier to move in, and the hot-leaning high-safety state is the one where vigorous activity is most affordable. The temperature axis is one of the threads tying the eating and movement arms to the same regulation state rather than treating them as separate domains.
+
+## Cross-references
+
+- **[autism-comorbidities.md](autism-comorbidities.book-chapter.md) → ANS disorders (not POTS).** Body-temperature dysregulation is one of the specific ANS entries; the comorbidities triage flagged "specifics deferred to a follow-up probe", and this file is that probe.
+- **[sensory-experience.md](sensory-experience.book-chapter.md) → interoception.** Interoception captures the input side (heat and cold hard to sense — a quiet, low-salience signal, not a broken channel); this file captures the output-side deficit (heat production fails). Distinct dimensions; can co-occur.
+- **[stress-capacity-formula.md](stress-capacity-formula.book-chapter.md) → safety scale.** The 0–5 half-step axis that thermoregulation tracks.
+- **[recovery-rates.md](recovery-rates.book-chapter.md) → hot baths.** Used dually for thermoregulation rescue and stress-capacity recovery.
+- **[hot-bath.md](hot-bath.book-chapter.md).** Full bath protocol; the autonomic-shift mechanism that explains the recovery-side action of applied heat.
+- **[weighted-blanket.md](weighted-blanket.book-chapter.md).** Heat-sink instrument for overheating-direction stretches; high heat capacity absorbs excess body heat. Inverted parallel to the hot bath.
+- **[four-resource-model.md](four-resource-model.book-chapter.md).** Energy-budget framing: heat production is a discretionary expenditure; under low safety / scarce resources, the body conserves by reducing it.
+- **[high-throughput-road.md](high-throughput-road.book-chapter.md).** The over/under-stimulation model the temperature reading is a second sensor for; running hot signals the autonomic regulation is online.
+- **[stimulation-regulation.md](stimulation-regulation.book-chapter.md).** The manual arousal thermostat; temperature joins focus quality as a sensor on it.

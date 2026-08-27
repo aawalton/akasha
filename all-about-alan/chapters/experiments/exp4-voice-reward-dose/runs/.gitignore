@@ -1,0 +1,5 @@
+# Run manifests are generated session data (exp4-drive --out). The real Alan
+# session's manifest + filled grades.tsv + results are committed deliberately,
+# not swept in by a dry-run. Ignore everything here except this file.
+*
+!.gitignore

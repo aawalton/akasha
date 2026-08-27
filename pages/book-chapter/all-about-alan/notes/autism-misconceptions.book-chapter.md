@@ -1,0 +1,18 @@
+---
+id: cbef86da-76f6-5b77-8c9e-46281ea519f5
+page-type-slug: book-chapter
+slug: autism-misconceptions
+title: "What common autism descriptions get wrong about Alan"
+partOf: all-about-alan
+unit: words
+description: "What common autism descriptions get wrong about Alan — empathy, bluntness, routines, transitions, theory of mind, functioning labels."
+---
+
+# What common autism descriptions get wrong about Alan
+
+- **Empathy** — described as reduced; in Alan's case (and many autists), increased. Allistics see reduced expression and conclude reduced empathy; the underlying state is the opposite.
+- **Bluntness** — autists are described as direct/blunt; Alan is a peacemaker. Sensitivity-driven cost-management forced early tact.
+- **Routines** — autists are described as rigid-routine-bound; Alan has scripts at the activity level (ADHD-softened) and rigidity at the system level instead.
+- **Transition difficulty** — autists are described as struggling with transitions; Alan transitions more easily than most. Aphantasia override of EF dysfunction.
+- **Theory of mind** — described as a deficit (Baron-Cohen-era "mindblindness"); the deficit on raw input is real but mis-framed. The input deficit is a subset of non-habituation; compensation builds robust *conceptual* (System 2) theories of other minds but never converts to the automatic (System 1) channel. Conventional framing names the missing channel and misses the layered cost. (Detail in [social-experience.md](social-experience.book-chapter.md); System 1/System 2 framing in [non-habituation.md](non-habituation.book-chapter.md).)
+- **Functioning labels** — described via a single scalar ("high-functioning" / "low-functioning", or DSM-5 Level 1/2/3 support needs); the scalar is the wrong shape. Alan's profile has very high ceilings in some dimensions (conceptual systems thinking, 12-hour focused-attention days on interest, linear-algebra perfect scores) and near-zero floors in others (working memory at half-normal, social interaction requiring minute-level energy accounting, 1% NS-health catastrophic burnout). The "superpowers + kryptonite" framing (see [autism-as-neurotype.md](autism-as-neurotype.book-chapter.md) and [adhd-as-neurotype.md](adhd-as-neurotype.book-chapter.md)) makes the asymmetry explicit. "High-functioning" actively misleads — it reads off the visible ceilings and denies the floors that are doing the actual disabling.

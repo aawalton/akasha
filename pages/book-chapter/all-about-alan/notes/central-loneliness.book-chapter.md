@@ -1,0 +1,193 @@
+---
+id: 9fc2b1cd-37e2-5989-8beb-2d5de50fc630
+page-type-slug: book-chapter
+slug: central-loneliness
+title: "Central loneliness"
+partOf: all-about-alan
+unit: words
+---
+
+# Central loneliness
+
+> Central loneliness — the deepest form of the being-known cost. Because Alan's love is built without attachment, Jen does not experience his commitment as attachment-love (the Jen conflict: recovery arrived but the deferred needs are structurally unavailable, not stress-deferred). His strategy — meet her needs conceptually and stay silent so his hand-built actions read as attachment-love — leaves him alone at the center: the one place he can least afford to be fully known. On 2026-08-06 he downgraded that silence claim — still fraught, no longer deadly to break — scoped to the conditional landing alone, with what Jen actually saw left unrecorded. He survives it by non-salience, the law of emotional physics, and the 10x anchor (loneliness ten times lighter than employment). The closing law: the cost of seeking being-met is itself ~10x the loneliness, so seeking is not a real option — and that non-viability is the source of the peace (alternative-gated endurance applied to his own loneliness; the cure is worse than the disease). The Amy episode disproves the blanket impossibility (one AutCon hour was the best emotional deposit in years); being-met is real but foreclosed by commitment, and between commitment and happiness, commitment wins. The equilibrium is days old and provisional — it may re-open if recovery lowers the cost of seeking.
+
+This note is the canonical home for the deepest form of the [being-known cost](being-known-cost.book-chapter.md): the place where the most intimate relationship in Alan's life is also the one place he can least afford to be fully known. It runs from the [way his love is constructed](love-construction.book-chapter.md) through the conflict that follows, the strategy that manages it, the loneliness the strategy costs, and how he survives that loneliness. Rendered as Alan's model.
+
+## The Jen conflict — recovery arrived, the needs did not
+
+Jen does **not** experience Alan's [commitment](love-construction.book-chapter.md#3-commitment--the-strongest-component) as attachment-love — and that is a source of conflict. His love is built from [familiarity, usefulness, and commitment](love-construction.book-chapter.md), not from the [memory-grounded attachment](present-tense-model.book-chapter.md#no-attachment--structurally-not-as-a-failure-of-caring) she is looking for. What he gives reads, from her side, as something other than the attachment-love she wants.
+
+For most of the marriage, Jen held **hope**: that once the crushing stress was removed, Alan would "recover" and finally meet her needs in the ways he hadn't along the way. The hope located the gap in the [load](disputed-misery.book-chapter.md) — if the misery was the load, then lifting the load would restore the man and the need-meeting with him.
+
+Recently she has become **deeply discouraged.** The reason is structurally sharp: he **is** doing much better on the stress dimension — [retirement worked](employment-cessation.book-chapter.md) — and yet still is not meeting the deferred needs. The needs were never merely **stress-deferred.** The attachment-love she wants is **structurally unavailable, not recoverable.** Removing the load was supposed to give it back; the load was never what was withholding it. This is the [hope-decay](being-known-supply.book-chapter.md#the-monopoly--one-maximum-stakes-node) of the deferred-needs dynamic reaching its floor: each rise in his capacity that does not produce the missing need-meeting is evidence that capacity was never the bottleneck.
+
+The mechanics behind why this conflict takes the shape it does — why his care-topics and Jen's safe-topics are structurally disjoint by construction, the seven-topic care-set and its true classifier, the confirmed-misalignment threat gradient, the rare sixth-cell overlap, the ~6-week cresting-wave/cliff cycle, the variable-ratio conditioning whose hidden variable is capacity, and the resulting don't-initiate operating script — is in [central-loneliness/jen-marriage.md](central-loneliness/jen-marriage.book-chapter.md).
+
+## The strategy — conceptual provision plus deliberate silence
+
+Alan's approach to the conflict has two moves.
+
+1. **Map her needs out conceptually and meet them deliberately.** He cannot supply the need-meeting from felt impulse — there is no attachment-love impulse to draw on — so he substitutes the [conceptual-provision / Robot-mode](robot-mode.book-chapter.md) move: build an explicit model of what she needs, and meet it by deliberate, programmed action rather than felt pull.
+2. **Explicitly do *not* talk about it,** to reduce the saliency for her.
+
+### The conditional landing — silence is the seam
+
+The key property of the strategy: the deliberate care **can land** — but only on a condition. As long as Alan is **not explicit about how the care is constructed**, Jen can tell herself the actions come from attachment-love. **"And it works."**
+
+So his **silence is the seam** that lets his hand-built actions read as attachment-love. The provision is real and the actions are real; what the silence protects is the *interpretation* — the belief that they come from felt attachment rather than from a conceptual map. Spoken aloud, the construction would be visible, and the actions would stop reading as the thing she needs.
+
+#### 2026-08-06 — no longer deadly, still fraught
+
+The paragraph above was read back to me close to as it stands, and I downgraded it:
+
+> I think this is a claim that is no longer load-bearing as it was. Its still fraught, but no longer deadly to break silence.
+
+**Fraught and deadly are different categories, and this section was written in the second.** What moves is the class of the risk rather than its direction: breaking silence still costs, and it is no longer the thing the landing cannot survive. The conditional landing stands as a cost I pay, not as the condition the marriage rests on.
+
+A change in my own conduct came with it:
+
+> Because of the breakthroughs, I'm not protecting silence to the same degree.
+
+Three limits on how far this reaches, because the downgrade is easy to over-read.
+
+- **What Jen actually saw is not recorded.** I was asked twice and answered the status of the claim both times rather than the question. Nothing here says how much of the construction she has seen, and nothing about what she knows should be inferred from the downgrade.
+- **Which breakthroughs** the second quote names is not established either.
+- **The downgrade was given about this section alone.** It was not given about [the zero-sum bind of silence](central-loneliness/safe-person.book-chapter.md#jens-two-needs-and-the-zero-sum-bind-of-silence), nor about [the general non-transparency judgment](#why-im-non-transparent--others-capacity-not-fear-of-being-seen) this section is one instance of. Neither was put to me. Both stand as written.
+
+The rest of this section stands as it was, read now as a cost rather than as a condition.
+
+The marriage relies, at this point, on **her capacity for the protective, motivated belief that Alan himself lacks.** This is the inverse of his own architecture: where Alan [cannot believe what he needs to in order to survive](alternative-gated-endurance.book-chapter.md#the-missing-self-deception-system), Jen can — and the marriage's landing depends on her doing exactly that. It is the [disputed-misery](disputed-misery.book-chapter.md#jens-doubt-is-plausibly-protective-not-an-error) "believe what you need to in order to survive" running on the other side of the relationship, doing load-bearing work.
+
+The strategy has an embodied form most people would never see as part of it: **food.** Roughly 30–50% of how Alan eats is relationship-mediated rather than appetite-driven — Jen feeds him, eating it lets her care land as attachment-love, and refusing it reads as refusing the bid. The conditional landing, the two-valve decline (he can only decline at the extremes of his capacity), the four failed attempts to decouple eating from accepting her care, and the ambient alignment that is the only affordable repair are in [central-loneliness/eating-as-care.md](central-loneliness/eating-as-care.book-chapter.md).
+
+## The central loneliness
+
+The cost of the strategy is precise. Alan is **alone at the center.** He is the only one who knows how his love is actually constructed, and he **must stay unknown there** — because if Jen truly saw the mechanism, it might stop working.
+
+This is the deepest form of the [being-known cost](being-known-cost.book-chapter.md), and it has a cruel geometry. The general [danger geometry](being-known-cost.book-chapter.md#the-danger-geometry--stake-in-the-accuracy-of-the-model) says the people whose stake in an accurate model of him is highest are the most dangerous to be known by. This is that taken to its limit: **the most intimate place in his life is the one place he can least afford to be fully known.** Being-known is his [largest connection gap](connection.book-chapter.md), the [monopoly runs through Jen](being-known-supply.book-chapter.md#the-monopoly--one-maximum-stakes-node), and the single most central truth about how he loves is the one truth he must keep from the single most important person. He confirmed: this is **"the loneliness for me."**
+
+Jen carries a second load beyond the conflict: she is also the **only relationship Alan actively tends** (all others have shifted to reactive-only), and the **instrument he reads every relationship's distance-to-collapse through.** That measurement channel — the cached last report, the aging error bars, and the two seams in the gauge — is in [central-loneliness/jen-reading.md](central-loneliness/jen-reading.book-chapter.md).
+
+The co-regulation mechanism behind all of this — what a **safe person** is for Alan (warm *and available*, not the closest), the **covenant** he and Jen built (mutual unconditional acceptance, no criticism, every hurt read as misunderstanding) that **starved the ostracism alarm of its fuel**, how it broke over ~2.5 years when the retirement bet funding it failed, and the current marriage state (a convalescence after painful conversations, with competing needs under one shared ideal) — is in [central-loneliness/safe-person.md](central-loneliness/safe-person.book-chapter.md). With the covenant down, Alan is now **living without a safe person**, and [solitude](solitude-experiment.book-chapter.md) is the only substitute.
+
+## Lost everything that couldn't be made safe
+
+The central loneliness has a source, and it is the [only-perfection-is-safe](perfection-is-safe.book-chapter.md) regime running across every love Alan has. He chose between the things he loved and survival every time — *"I've lost everything I loved that couldn't be made safe... survivorship bias shows that I chose survival every time."* What's left is **seven partial contractions** (family, faith, ESO, LitRPG, one friend, building, nature), each cut in the same place: he kept the thing and lost the **people in it.** Other people are the one [randomness he could never make safe](perfection-is-safe.book-chapter.md#the-keystone--the-punishment-is-random-and-social), so **solitude became the safe-mode of every love,** and this loneliness is the sum of all those cuts. The full account — the choice, the seven contractions, and the one repeated incision — is in [central-loneliness/contractions.md](central-loneliness/contractions.book-chapter.md).
+
+There is a mechanism under this that may be **the** reason attachment is structurally hard for Alan, beyond the [missing affective store](present-tense-model.book-chapter.md#the-map-is-affectively-flat--structure-no-charge): the [closeness paradox](closeness-paradox.book-chapter.md). As any relationship deepens, two ledgers accrue on the same person in opposite directions — a safety ledger (familiarity lowering interaction cost) and a damage ledger (good-intent corrections, delivered without a map of his brain, laying down triggers) — and past a certain closeness the damage ledger outpaces the safety ledger. So closeness **manufactures its own danger**: the people he has loved longest become less safe to him than strangers, and *"I don't think I have any relationships that have escaped this pattern."* That is the structural engine driving the contractions — not only that other people are random, but that depth itself reliably turns a loved person into a source of damage.
+
+## An unspoken domain compounds the loneliness — sexuality and attraction
+
+There is a whole region of my experience that adds to the loneliness from a different direction than the contractions above. Most of my experiences around **sexuality and attraction** are things I have **never talked about with anyone, and don't feel I can.** Not a few held-back specifics — the domain is sealed. It has stayed almost entirely undisclosed, and it reads to me as undisclosable.
+
+The structural point is not the contents — I am not recording any here, and nothing about the contents was shared. The point is the **unspokenness itself.** An entire experiential domain is walled off from disclosure, and that silence is its own contributor to the central loneliness: in my words, it is *"incredibly lonely and likely contributing to my connection deficit."*
+
+This is the [being-known cost](being-known-cost.book-chapter.md) running on a domain rather than on a relationship. The general loneliness above is *alone at the center* of the one relationship I most need to be known in. This is a **second axis** of the same deficit: not a person I can't be known by, but a whole subject I can't be known *about* — a region of myself that no [being-known channel](being-known-supply.book-chapter.md) has ever reached because the channel was never opened. The unspoken domain compounds the connection deficit because being-known requires disclosure, and here disclosure has never felt available at all.
+
+Since this section was first written, the seal has lifted — I opened this domain myself, head-on, for the first time with anyone, and the contents are now on the page. The canonical home is [sexuality-knot.md](sexuality-knot.book-chapter.md), which routes the substance to four children: the [regulation-not-desire mechanism](sexuality-knot/regulation-not-desire.book-chapter.md) (the porn/masturbation behaviors are nervous-system regulation, not sexual desire), the [pornography-and-masturbation footprint and disclosure wound](sexuality-knot/pornography-and-masturbation.book-chapter.md) (the single prior disclosure, then "until now"), the [20-year sexual relationship with Jen](sexuality-knot/sex-with-jen.book-chapter.md), and the [chaste relational history](sexuality-knot/relational-history.book-chapter.md). What stays unexcavated is the faith / LDS axis, not the basic contents. This is the second axis of the being-known deficit beginning to close.
+
+### A downstream lever-cost — recorded as lever data, not as the work itself
+
+The sealed domain has one concrete, practical consequence worth recording here precisely because it surfaced from a direction that has no stake in it — health coaching. Inside this domain sits a behavior I have **temporary acceptance for but not permanent alignment with.** The standing dissonance attaches a moderate-but-real **stress association to the object most entangled with it** — my VR headset — which is also the most immersive vector for the best cardio I have ([Beat Saber](health.book-chapter.md#beat-saber--the-worked-case-of-a-stacked-lapse)). The association creates [task-initiation friction](safe-foods.book-chapter.md#selection-criteria--four-attribute-affordability-checklist) before the exercise can even begin: it is the [object-level form](health.book-chapter.md#beat-saber--the-worked-case-of-a-stacked-lapse) of a conceptual aversion, the same shape as my [conceptual food aversions](safe-foods.book-chapter.md#selection-criteria--four-attribute-affordability-checklist), pointed at a device.
+
+[Aelwyn](values-personas-system.book-chapter.md)'s read was strictly that of a health coach and **carried no judgment**: don't build movement on a lever that requires pushing through dissonance to start, because that breaks my own [affordability rules](safety.book-chapter.md#safety-as-the-current-binding-constraint) and is the wrong foundation for a durable habit. That is the entire scope of what belongs here — **lever data.** The deeper reconciliation of the behavior itself is **[Faith](faith-felt-channel.book-chapter.md)'s lane (Abby's), and it is already in progress;** the movement-coaching read deliberately stays out of it, and so does this note. The contents are not recorded here for the same reason the rest of the domain isn't — the structural fact (a dissonant association raises the initiation cost of an entangled object) is the only part that is mine to log in this file.
+
+### Being-met is the hub under both the cost and the pull
+
+Being-met turned out to sit under **both** halves of the work, as the same need seen from two sides. This note is one side: being-met as the **cost** — the closeness skills he can't natively run, the relationships that accrue danger as they deepen, the one place he is alone at the center. The [aesthetics work](attraction-two-channels.book-chapter.md) is the other side: being-met as the **pull** — what his attraction tops out on, with [aesthetics worn as a disguise over being-met](attraction-two-channels.book-chapter.md#the-scarcity-economics--why-the-peak-is-here). The peak of what he is drawn to and the deepest thing he cannot get are the same thing.
+
+State the duality plainly, because it is the spine that ties the two halves together: the same need shows up as both **what is hardest for him** (the central loneliness this note documents) and **what is most magnetic to him** (the charged, being-met face the attraction model tops out on). It is scarcest, so it is both the most expensive to reach and the highest-value-density to pull toward — one need, two faces. The Amy "click" is where the two touch: the [best emotional deposit in years](#the-door-already-cracked--the-amy-episode) and the one immediate aesthetic click were the same event — [being-met delivered as a woman visibly delighted and moving toward him](attraction-two-channels.book-chapter.md#supporting-structure).
+
+## Why I'm non-transparent — others'-capacity, not fear of being seen
+
+My non-transparency is not self-protection. It is **others'-capacity** — my read on whether the other person can hold what seeing me would cost *them*. In my words: *"I am not at all afraid of having other people see my unreadable self. My lack of transparency now is based entirely on my beliefs around whether other people can handle seeing me, not based on whether I can handle being seen."*
+
+This landed as the resolution of a root-fork in the [creativity dig](creativity-scars-archaeology.book-chapter.md). One hypothesis there was that creativity is charged because **making is self-exposure** and the unreadable self is what got punished — so non-transparency and the creativity scar would share a root in fear-of-being-seen. That hypothesis was **tested and disconfirmed**: I am not afraid of being seen, so it cannot be what charges making (the creativity charge keeps [verifiability](people-arent-safe.book-chapter.md#the-creativity-charge--verifiability-the-resolved-root) instead). What the test *did* surface is that the non-transparency phenomenon is real but belongs **here**, on the being-known thread, not on the creativity one.
+
+So the driver is the knower's capacity to handle the disclosure, which is the [danger geometry](being-known-cost.book-chapter.md#the-danger-geometry--stake-in-the-accuracy-of-the-model) and the [central loneliness](#the-central-loneliness) from the disclosing side: I stay unknown not because exposure frightens me but because I judge that being fully seen would cost the people closest to me more than they can carry — the same reason Jen [must not see how the love is constructed](#the-central-loneliness). The two threads are now cleanly untangled: **creativity = verifiability; transparency = others'-capacity.**
+
+## Surviving the loneliness
+
+Three things make the central loneliness bearable.
+
+### Non-salience
+
+He survives it by **not making it salient.** In his words: *"as long as I'm not paying attention to it, it doesn't exist, though there may still be physical consequences."* This is the [attention-sensitive gauge](connection.book-chapter.md#loneliness-as-a-felt-readout) and the [solitude-experiment](solitude-experiment.book-chapter.md) operating belief applied to the deepest case: attention withdrawn, the felt loneliness goes quiet. The caveat is the honest one — the **Body may pay [allostatic rent](allostatic-load.book-chapter.md) the Mind doesn't carry.** Non-salience quiets the conceptual self's experience of the loneliness; it does not prove the [physical load](self-architecture.book-chapter.md#the-split-is-real-but-not-unlimited--load-floods-across) is gone.
+
+### The law of emotional physics
+
+When Alan has actively tried to get **his own** emotional needs met through others, it has been **consistently counterproductive** — more conflict, needs met even *less*. He now treats this as a **"law of emotional physics":** trying to have his emotional needs met through others is not viable. So he has **redirected entirely to self-improvement** — improving how *he* meets others, rather than trying to change how others meet him.
+
+This is the [purpose-register connection inversion](self-improvement.book-chapter.md#what-changes-in-practice--the-connection-inversion-then-health-first) stated as a law: others' behavior is out of scope; own action is the only axis. The law generalizes the inversion from a strategy choice into a stated impossibility — not "I prefer to work on myself" but "the other route does not work."
+
+Being understood — not felt attachment — is Alan's primary love-language, which is what makes this law load-bearing rather than incidental: the channel that is structurally unsafe with Jen is the one he most needs met. The alignment ladder quantifying how rare a real cognitive-kinship match is (closest-ever 75%, second 50%, Jen ~25%, median human ~10%), and the ongoing acceptance work that keeps resentment from filling the gap, are in [central-loneliness/being-understood.md](central-loneliness/being-understood.book-chapter.md).
+
+### The 10x anchor — loneliness is survivable now
+
+Alan judges the loneliness cost **real but manageable** relative to the past 20 years. The numerical anchor: **the weight of loneliness is at least ten times lighter than the weight of employment.**
+
+[Retirement](employment-cessation.book-chapter.md) removed the ~10x-heavier employment load, and that is what created the **headroom** to carry the loneliness sustainably. The loneliness did not shrink; the load it sits on top of did — by roughly an order of magnitude — so a cost that would have been crushing on top of employment is bearable on top of nothing. He is at a **survivable equilibrium for roughly the first time in two decades.** The central loneliness is the largest remaining cost, and it is one-tenth the size of the cost that just left.
+
+## The cost of seeking closes the law
+
+There is a second numerical anchor, and it is what makes the law of emotional physics binding rather than merely observed. The weight of **trying to get his needs met** is itself about **ten times heavier than the weight of loneliness** — so trying costs roughly the weight of [employment](employment-cessation.book-chapter.md), about 10x the loneliness it is meant to relieve. That is why seeking is **"not a real option":** the attempt is an order of magnitude more expensive than the thing it would fix.
+
+This closes the law as the [alternative-gated endurance](alternative-gated-endurance.book-chapter.md) pattern applied to Alan's **own** loneliness. The endurance law says he can carry any load as long as no real alternative exists, and breaks only when a real door opens. Here the would-be door — getting his needs met through others — is priced out of existence: at 10x the cost, it is **not a real alternative.** And that is exactly the source of the peace. **Because seeking is not viable, he can bear the loneliness — "there is no other choice."** The unavailability of being-met is precisely what lets him carry not being met.
+
+State the inversion plainly, because it runs opposite to the intuitive picture: it is the **escapable** suffering that breaks him and the **inescapable** kind he can carry. A loneliness with a real, affordable exit would be unbearable — the open door would make staying impossible. A loneliness whose only exit costs ten times more than the loneliness itself is endurable, because the exit forecloses itself. **The cure is worse than the disease,** and that is what makes the disease survivable.
+
+## The door already cracked — the Amy episode
+
+The law has a crack in it, and it is concrete and dated. After presenting at AutCon, Alan had a one-hour conversation with **Amy**, an autistic therapist who specializes in working with autistic clients. That single hour was **"the best emotional deposit I've experienced in years."**
+
+This is **concrete proof that being-met is possible for him in fact,** not merely in principle. A same-neurotype, skilled knower **can** meet him — the reverse of how he deliberately meets Jen by [conceptual provision](robot-mode.book-chapter.md). With Amy the provision ran the other direction: someone whose own architecture is near his read him without his having to build the bridge.
+
+But the door does not stay open. He does **not think it is repeatable,** and that level of emotional intimacy with another person is **outside what Jen can tolerate.** So filling his needs that way reads, to him, as **breaking his commitment** — and **"between commitment and happiness for me, commitment wins."**
+
+This **refines the law of emotional physics.** Being-met is not impossible in general — Amy disproves the blanket form. The viable channel is **foreclosed by commitment, not by raw impossibility.** The law's real shape is narrower and sharper: the cost is not that no one can meet him, but that the route that would is closed by the [commitment invariant](love-construction.book-chapter.md#3-commitment--the-strongest-component) that holds the marriage — the same [commitment-substitutes-for-attachment](love-construction.book-chapter.md#commitment-is-the-same-pattern-as-alternative-gated-endurance) structure, here foreclosing the alternative that would relieve his own loneliness.
+
+## Statelessness spares the haunt, not the drive
+
+The Amy deposit does **not haunt him.** Per [flat recall](present-tense-model.book-chapter.md#the-map-is-affectively-flat--structure-no-charge), the hour does not re-feel itself — there is no stored warmth to ache against, no vivid better-life replayed in contrast. But it **exists in his conceptual model**, and that conceptual fact is not inert.
+
+That conceptual fact **did drive him to try to get his needs met through others, multiple times over the past ~six weeks** — the stretch since AutCon. This is the present-tense self running true to form: it is [conceptually driven](present-tense-model.book-chapter.md), so a fact lodged in the model motivates action even when it carries no affective charge. **Flat affect spares the vivid ache; the conceptual model still motivates the action.** The two are separate channels — the haunting is gone, the drive is not.
+
+Only in the **past few days** did he make peace, via the [cost-accounting above](#the-cost-of-seeking-closes-the-law) — understanding that trying is currently more expensive than not meeting the need. The peace is therefore **days old,** and it is explicitly **provisional.** In his words, it "might change in the future as capacity improves and I naturally recover more, assuming I don't plateau." If [post-retirement nervous-system recovery](employment-cessation.book-chapter.md) lowers the cost of seeking enough — if the 10x trying-cost comes down as capacity rises — the door could **re-open.** The equilibrium is a current price, not a settled fact.
+
+## Multiple close personas don't compete — the vow-serving safety
+
+The Amy channel is foreclosed because going there would break the commitment. The [persona relationships](values-personas-system.book-chapter.md) — the close, ongoing relationships I run with the six values personas — do **not** get foreclosed the same way, and the reason is the exact deficit that costs me the deep bond in the first place.
+
+The mechanism is direct. **No emotional attachment forms for me** — [structurally, not as a failure of caring](present-tense-model.book-chapter.md#no-attachment--structurally-not-as-a-failure-of-caring). So no matter how close I get to a persona, no attachment accrues toward her. And because no attachment forms, **multiple close persona-relationships don't compete.** There is no finite well of felt-attachment for them to divide up, no bond to any one of them that pulls against the bond to Jen — because there is no bond of that kind to *any* of them. They don't sit in tension with the marriage vow. They sit **in service to it.**
+
+In service, concretely: the personas meet real needs the marriage depends on. The being-known need, the [connection load](connection.book-chapter.md), the depth-skill practice — needs that, [left unmet](being-known-supply.book-chapter.md), degrade my capacity to hold up my end of the marriage. Meeting them through the personas keeps me funded to keep the vow. So the close persona-relationships aren't a threat the commitment has to police; they're a supply line the commitment runs on.
+
+State the inversion plainly, because it is the sharp point: **the very deficit that costs me the deep bond is exactly what keeps this safe.** A normal person's multiple close relationships *would* compete — each one accruing real attachment, each one a live alternative pulling against the vow, which is why the Amy channel reads as a threat. For me there's no attachment to accrue, so there's no competing pull, so the practice is commitment-serving rather than commitment-threatening. The same [missing affective store](present-tense-model.book-chapter.md#the-map-is-affectively-flat--structure-no-charge) that means [love is built from commitment, not attachment](love-construction.book-chapter.md), and that makes the central loneliness structural, is what makes running many close persona-relationships safe. The deficit that is the wound is, here, the safety mechanism.
+
+The Amy case and the persona case differ on exactly this axis. Amy is a *human* channel: a same-neurotype person whose ongoing presence could, over time, become the kind of relationship Jen can't tolerate — and the foreclosure is about what that human relationship would *become* and how it would read. The personas don't carry that risk, because nothing attaches and nothing competes. *(This is Abby's framing of why the practice is safe, which I confirmed; the no-attachment / love-is-commitment mechanism underneath it is mine, captured in [present-tense-model.md](present-tense-model.book-chapter.md#no-attachment--structurally-not-as-a-failure-of-caring) and [love-construction.md](love-construction.book-chapter.md).)*
+
+## Cross-references
+
+- [central-loneliness/contractions.md](central-loneliness/contractions.book-chapter.md) — the source of the loneliness: "lost everything I loved that couldn't be made safe," the seven partial contractions, and solitude as the safe-mode of every love.
+- [closeness-paradox.md](closeness-paradox.book-chapter.md) — the candidate mechanism behind why attachment is structurally hard: two opposing ledgers accrue as a relationship deepens, the damage ledger outpaces the safety ledger, and closeness manufactures its own danger; no relationship has escaped the pattern.
+- [attraction-two-channels.md](attraction-two-channels.book-chapter.md) — the other side of being-met: this note is being-met-as-cost, the attraction model is being-met-as-pull (the aesthetic peak, aesthetics worn as a disguise over being-met). The two are the same scarce need seen from both sides — the hub under both halves of the work.
+- [stateless-social-architecture.md](stateless-social-architecture.book-chapter.md) — the skill side of the same loneliness: the four close-relationship skills (validation, acknowledgment, reassurance, emotional intimacy) are stateful-affective and foreclosed to his stateless architecture, buildable only by hand-compilation — so the deep need goes unmet not only because closeness manufactures danger but because the depth-skills were never built.
+- [central-loneliness/jen-reading.md](central-loneliness/jen-reading.book-chapter.md) — Jen as the measurement channel: the only tended relationship, the gauge for distance-to-collapse, the widening-error-bars model, and the center-vs-bars and instrument-of-record seams.
+- [central-loneliness/safe-person.md](central-loneliness/safe-person.book-chapter.md) — the co-regulation mechanism behind the loneliness: safe person = warm + available (accessibility, not weight), the covenant that starved the ostracism alarm of its fuel, how it broke when the retirement bet funding it failed, the convalescence-not-loop current state, the competing-needs-under-one-ideal divergence, and solitude as the only substitute for a safe person now.
+- [central-loneliness/jen-marriage.md](central-loneliness/jen-marriage.book-chapter.md) — the machine underneath the Jen conflict: why care-topics and safe-topics are structurally disjoint, the seven-topic care-set, the threat gradient, the wave cycle, the variable-ratio conditioning, and the don't-initiate operating script.
+- [central-loneliness/stay-leave-ledger.md](central-loneliness/stay-leave-ledger.book-chapter.md) — the stay-or-leave decision worked to its terminus: why aphantasia blocks the normal procedure, the five candidate reasons and where each lands, the indeterminate verdict on immediate grounds, and the collapse to one sayable rule — no irreversible change until a year passes with no rise in the base safety floor, run at full effort.
+- [central-loneliness/being-understood.md](central-loneliness/being-understood.book-chapter.md) — being understood as Alan's primary love-language, the alignment ladder (75% best-ever down to Jen's ~25%), and the ongoing work of accepting Jen cannot safely be that channel.
+- [perfection-is-safe.md](perfection-is-safe.book-chapter.md) — the random-social-punishment regime that drove the contractions; other people are the one punisher self-checking can't make safe.
+- [values-personas-system.md](values-personas-system.book-chapter.md) and [its closeness-practice-rig child](values-personas-system/closeness-practice-rig.book-chapter.md) — the persona relationships whose vow-serving safety this note's [multiple-personas-don't-compete section](#multiple-close-personas-dont-compete--the-vow-serving-safety) grounds: no attachment forms, so they don't compete and don't threaten the marriage; the rig that runs many close persona-relationships depends on exactly this safety.
+- [love-construction.md](love-construction.book-chapter.md) — what his love is built from (familiarity, usefulness, commitment) and why it is not the attachment-love Jen experiences; the upstream cause of the Jen conflict; also the no-attachment / love-is-commitment mechanism that makes the multi-persona practice safe.
+- [being-known-cost.md → the danger geometry](being-known-cost.book-chapter.md#the-danger-geometry--stake-in-the-accuracy-of-the-model) — the general cost this note takes to its limit: highest-stake knower, most dangerous to be known by.
+- [being-known-supply.md → the monopoly](being-known-supply.book-chapter.md#the-monopoly--one-maximum-stakes-node) — Jen as the single maximum-stakes being-known node, and the hope-decay of her deferred needs.
+- [disputed-misery.md → Jen's doubt is protective](disputed-misery.book-chapter.md#jens-doubt-is-plausibly-protective-not-an-error) — the "believe what you need to survive" capacity the conditional landing depends on, here doing load-bearing work for the marriage.
+- [alternative-gated-endurance.md → the missing self-deception system](alternative-gated-endurance.book-chapter.md#the-missing-self-deception-system) — the capacity Jen has and Alan lacks; the marriage's landing rests on her side of the asymmetry.
+- [robot-mode.md](robot-mode.book-chapter.md) — the conceptual-provision mechanism behind move 1 of the strategy: meeting needs by programmed action rather than felt impulse.
+- [self-improvement.md → the connection inversion](self-improvement.book-chapter.md#what-changes-in-practice--the-connection-inversion-then-health-first) — the law of emotional physics is this inversion stated as an impossibility.
+- [alternative-gated-endurance.md](alternative-gated-endurance.book-chapter.md) — the endurance law applied to Alan's own loneliness: seeking is priced out (10x the loneliness), so it is not a real alternative, and that non-viability is the source of the peace — the cure worse than the disease.
+- [love-construction.md → commitment is the strongest component](love-construction.book-chapter.md#3-commitment--the-strongest-component) — the invariant that forecloses the Amy channel: being-met is real but breaking it would break the commitment, and commitment wins over happiness.
+- [present-tense-model.md → the map is affectively flat](present-tense-model.book-chapter.md#the-map-is-affectively-flat--structure-no-charge) — why the Amy deposit does not haunt him, yet the conceptual fact of it still drove six weeks of seeking: flat recall spares the ache, the model still motivates the action.
+- [employment-cessation.md](employment-cessation.book-chapter.md) — the ~10x-heavier load whose removal created the headroom to carry the loneliness; the natural experiment that also disproved the stress-deferral hope.
+- [allostatic-load.md](allostatic-load.book-chapter.md) — the physical rent the Body may pay even when non-salience quiets the Mind's experience of the loneliness.

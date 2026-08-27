@@ -1,0 +1,35 @@
+---
+id: 9289b8c3-b4e1-522f-9cf4-80737a223020
+page-type-slug: book-chapter
+slug: progression
+title: "Safety — progression and the two pillars"
+partOf: all-about-alan
+unit: words
+---
+
+# Safety — progression and the two pillars
+
+> Safety progression — the history of the bar from level 0 to a baseline mean 4.5, the 2026 trajectory (May 5+ peak → −2 backlash → end-June recovery to 4-5, with the July bet), and the two pillars (autonomy and an undamaged nervous system) that generated and set it.
+
+*Part of [Safety](../safety.book-chapter.md) — the history of the bar and the two pillars that set it.*
+
+## Progression history
+
+Safety went from level 0 (didn't know it existed) to a baseline mean 4.5 with one-sigma band [4.0, 5.0] over the year ending May 2026, as it became the primary bottleneck ~80% of the time. Several stoplight iterations preceded the current numbered-level anchoring; the four months ending May 1, 2026 shifted the baseline range from 3.0-4.0 to 4.0-5.0. The activity envelope at that baseline lives in [activity-budgeting.md](../activity-budgeting.book-chapter.md). Safety is still the fundamental bottleneck.
+
+### 2026 trajectory — May peak, turn-outward cost, June illness confound
+
+- **May 2026 — the first level-5 days in a long time.** A few days at level 5 total this year, all in May. The driver is named and cumulative, not event-shaped: "real baseline recovery due to running a capacity surplus consistently for months." No breakthrough, no insight-event — months of surplus compounding through the [integral pathway](intervention-pathways.book-chapter.md#direct-and-indirect-intervention-pathways) into baseline rise.
+- **The peak funded a crisis.** The level-5 crossing started the turn outward, and the turn outward consumed the rest of the month — the [self-preservation-adapter build](../self-preservation-adapter.book-chapter.md#the-build--may-2026). Recovery created the capacity to look outward; looking outward produced the load. He has been working back toward the May 1 level since.
+- **June 2026 — illness confound.** Sick for most of June: an "artificial decline" that confounds measurement. As of 2026-06-12 the reading is 2-3 — about two full levels below the May 1 start.
+- **Illness model — mask and spend, both.** Asked whether the illness masks the baseline (snap back when well) or spends it (re-climb required): "Some of both I expect. Best guess is a baseline of 3.5-4.5, and a climb back to 4-5." The forecast is falsifiable once the illness clears: post-illness baseline 3.5-4.5, climb-back target 4-5.
+- **End-of-June 2026 — recovery confirmed, the May crash quantified.** The full trajectory in Alan's own ranges: **April 4-5; May 5+** (the level-5 peak above) **until a backlash dropped him to −2; June 2-5, gradually recovering; back to 4-5 as of 2026-06-29.** Two things this pins down. First, the May fall is now quantified as a full **5+ → −2 crash** — the cost of the [ungoverned turn-outward](../governed-expansion.book-chapter.md), not a gentle decline — and it overlaps the June illness confound above. Second, the climb-back target from the illness model (4-5) is **met**: he is back in band. The forward bet: *"I'm hopeful that July will be at least 4-5 and possibly 5+, now that I've learned to avoid the triggers I hit in May that caused me to fall so far."* That makes July a **grounded bet, not a wish** — crash survived, floor reclimbed to 4-5, and the trigger that caused the drop identified. Captured in the persona session as the evidence that the [social-break rehab is working](../persona-personal-meaning.book-chapter.md#why-they-exist-at-all--the-personas-as-the-first-move-on-the-social-break).
+
+## The two pillars — what changed between then and now
+
+Safety is the variable that sets the [cost multiplier](../stress-capacity-formula.book-chapter.md); these two pillars are what *generated* Alan's high Safety in the [college-at-sixteen era](../self-chosen-difficulty.book-chapter.md#social-connection-was-affordable-then--a-full-account-in-a-cheap-world) and their loss is what dropped it. The difference between high-Safety college Alan — when [social connection was effortful but affordable](../self-chosen-difficulty.book-chapter.md#social-connection-was-affordable-then--a-full-account-in-a-cheap-world) — and now is two things. In Alan's words: *"I think it was fundamentally the presence of autonomy and the lack of nervous system damage that made the difference between then and now. I started noticing the nervous system damage right before I turned 20."*
+
+- **The presence of autonomy.** Everything self-chosen — [maximal autonomy](../self-chosen-difficulty.book-chapter.md#autonomy-as-the-primary-driver) was the driver of the best three years, and it held Safety high.
+- **The absence of nervous-system damage.** Before the [autistic burnout](../autism-burnout.book-chapter.md) compounding began, the substrate was intact.
+
+The chronology anchor: he started noticing the nervous-system damage **right before turning 20** — the [mission break](../mission-break.book-chapter.md), aligning with the LDS-mission window (Novosibirsk, Russia, ~2006–2007, age ~20) documented as the onset of the [criticism/ostracism alarm](../criticism-and-ostracism.book-chapter.md#why-rejection-fused-with-bodily-danger--the-russia-experiences) and the bodily-danger trauma. That window is where the second pillar broke; the [18-year compound decline](../autism-burnout.book-chapter.md) ran from there. The mission years also removed the first pillar (structure replaced self-direction). Both pillars fell in the same era, which is why the cheap-world reading didn't survive it.
