@@ -157,14 +157,14 @@ function main(): never {
   const { population, violations } = examineFilePopulation<PerPieceVeteranViolation>({
     files: findFiles({
       cwd: repoRoot,
-      patterns: ["packages/**/*.ts", "packages/**/*.tsx"],
+      patterns: ["**/*.ts", "**/*.tsx"],
       absolute: false,
     }).filter((rel) => !isOutOfScope(rel)),
     unit: "source files",
     membership: {
       kind: "enumerated",
       because:
-        "the members come from a `findFiles` glob of `packages/**` under repoRoot, and `Bun.Glob.scanSync` " +
+        "the members come from a `findFiles` glob of `**` under repoRoot, and `Bun.Glob.scanSync` " +
         "raises ENOENT on a root that is not there, so fewer files means fewer .ts/.tsx files on disk",
     },
     pathOf: (rel) => `${repoRoot}/${rel}`,

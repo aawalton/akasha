@@ -17,8 +17,8 @@ message: |
 severity: error
 language: ts
 files:
-  - "packages/**/*.ts"
-  - "packages/**/*.tsx"
+  - "**/*.ts"
+  - "**/*.tsx"
 ignores:
   - "**/*.test.ts"
   - "**/*.test.tsx"

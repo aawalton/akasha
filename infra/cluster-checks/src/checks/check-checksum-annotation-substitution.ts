@@ -12,10 +12,10 @@ import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workf
 const PREFIX = "[checksum-annotation-substitution]"
 
 const SCAN_PATTERNS = [
-  "packages/**/*.ts",
-  "packages/**/*.tsx",
-  "packages/**/*.sh",
-  "packages/**/*.bash",
+  "**/*.ts",
+  "**/*.tsx",
+  "**/*.sh",
+  "**/*.bash",
 ] as const
 
 const SEAWEEDFS_DEFECT_FIXTURE: readonly ChecksumAnnotationScanFile[] = [
@@ -77,7 +77,7 @@ interface ParticipatingFiles {
 }
 
 function findPackageRoots(repoRoot: string): readonly string[] {
-  return findFiles({ cwd: repoRoot, patterns: ["packages/**/package.json"], absolute: false }).map(
+  return findFiles({ cwd: repoRoot, patterns: ["**/package.json"], absolute: false }).map(
     (rel) => rel.slice(0, rel.lastIndexOf("/"))
   )
 }

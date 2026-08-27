@@ -10,7 +10,7 @@ message: |
   deploy.
 
   BOUNDS — what this rule does NOT cover:
-    * `packages/shared/**`. `assertCredentialPathAllowed` (`supabase/auth/src/protected-user.ts`)
+    * `shared/**`. `assertCredentialPathAllowed` (`supabase/auth/src/protected-user.ts`)
       compares against `USER_ID` on purpose: it keeps test and dev seams from operating AS the real
       user, which is a question about a build rather than about who is being served. It sits
       outside this rule by PATH rather than by an exemption entry, because a path boundary cannot
@@ -23,8 +23,8 @@ message: |
 severity: error
 language: ts
 files:
-  - "packages/alanwalton/web/app/**/*.ts"
-  - "packages/alanwalton/web/app/**/*.tsx"
+  - "alanwalton/web/app/**/*.ts"
+  - "alanwalton/web/app/**/*.tsx"
 # Both operand orders and all four equality operators, spelled out. A single
 # `kind: binary_expression` carrying the constant would be shorter and would also fire
 # on `USER_ID + suffix`, which is not a decision about who is being served; enumerating

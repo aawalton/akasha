@@ -57,7 +57,6 @@ async function main(): Promise<undefined> {
 
   const files: string[] = []
   for (const rel of allTsFiles) {
-    if (!rel.startsWith("packages/")) continue
     if (!rel.endsWith(".test.ts") && !rel.endsWith(".test.tsx")) continue
     if (rel.split("/").some((p) => CHECK_EXEMPT_DIRS.has(p))) continue
     files.push(rel)

@@ -45,7 +45,7 @@ function versionSources(): readonly VersionSource[] {
   }
   sources.push({ rel: LOCKFILE, kind: "lockfile", root: repoRoot })
   const extensionFiles = [
-    ...new Bun.Glob("packages/**/*.dockerfile-extensions.json").scanSync({
+    ...new Bun.Glob("**/*.dockerfile-extensions.json").scanSync({
       cwd: repoRoot,
     }),
   ].filter((f) => !f.includes("node_modules/"))
