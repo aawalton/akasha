@@ -13,7 +13,7 @@ export default workflow("page-query-service", {
     kubectlApply({
       name: "page-query-service-apply-namespace",
       namespace: "page-query-service",
-      files: "packages/infra/k8s/src/page-query-service/generated/namespace.generated.yaml",
+      files: "infra/k8s/src/page-query-service/generated/namespace.generated.yaml",
       serverSide: true,
     }),
 
@@ -21,7 +21,7 @@ export default workflow("page-query-service", {
       ...kubectlApply({
         name: "page-query-service-apply-service",
         namespace: "page-query-service",
-        files: "packages/infra/k8s/src/page-query-service/generated/service.generated.yaml",
+        files: "infra/k8s/src/page-query-service/generated/service.generated.yaml",
         serverSide: true,
       }),
       dependsOn: ["page-query-service-apply-namespace"],
@@ -31,7 +31,7 @@ export default workflow("page-query-service", {
       ...kubectlApply({
         name: "page-query-service-apply-endpointslice",
         namespace: "page-query-service",
-        files: "packages/infra/k8s/src/page-query-service/generated/endpointslice.generated.yaml",
+        files: "infra/k8s/src/page-query-service/generated/endpointslice.generated.yaml",
         serverSide: true,
       }),
       dependsOn: ["page-query-service-apply-service"],

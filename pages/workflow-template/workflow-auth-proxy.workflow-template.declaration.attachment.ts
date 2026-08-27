@@ -15,7 +15,7 @@ export default workflow("auth-proxy", {
     kubectlApply({
       name: "auth-proxy-apply-namespace",
       namespace: "auth-proxy",
-      files: "packages/infra/auth-proxy/k8s/generated/namespace.generated.yaml",
+      files: "infra/auth-proxy/k8s/generated/namespace.generated.yaml",
       serverSide: true,
     }),
 
@@ -35,7 +35,7 @@ export default workflow("auth-proxy", {
         commands: (ci) => [
           "set -e",
 
-          `bun ${ci.workspace}/packages/infra/scripts/src/generate-dockerfiles.ts --app auth-proxy`,
+          `bun ${ci.workspace}/infra/scripts/src/generate-dockerfiles.ts --app auth-proxy`,
         ],
         environment: { HUSKY: "0" },
         backendOptions: {
@@ -49,7 +49,7 @@ export default workflow("auth-proxy", {
       ...buildkitBuild({
         name: "auth-proxy-build",
         context: "",
-        dockerfile: "packages/infra/auth-proxy",
+        dockerfile: "infra/auth-proxy",
         tag: (ci) => `${REGISTRY}/infra/auth-proxy:${ci.inputsHash}`,
         cache: false,
       }),
@@ -61,7 +61,7 @@ export default workflow("auth-proxy", {
       ...kubectlApply({
         name: "auth-proxy-apply-deployment",
         namespace: "auth-proxy",
-        files: "packages/infra/auth-proxy/k8s/generated/deployment.generated.yaml",
+        files: "infra/auth-proxy/k8s/generated/deployment.generated.yaml",
         serverSide: true,
         imageSubstitution: {
           placeholder: "MUST_BE_SET_BY_DEPLOY",
@@ -75,7 +75,7 @@ export default workflow("auth-proxy", {
       ...kubectlApply({
         name: "auth-proxy-apply-service",
         namespace: "auth-proxy",
-        files: "packages/infra/auth-proxy/k8s/generated/service.generated.yaml",
+        files: "infra/auth-proxy/k8s/generated/service.generated.yaml",
         serverSide: true,
       }),
       dependsOn: ["auth-proxy-apply-namespace"],

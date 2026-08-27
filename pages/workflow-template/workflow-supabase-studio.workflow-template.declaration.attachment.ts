@@ -23,7 +23,7 @@ export default workflow("supabase-studio", {
     kubectlApply({
       name: "supabase-studio-apply-namespace",
       namespace: "supabase-studio",
-      files: "packages/infra/k8s/src/supabase-studio/generated/namespace.generated.yaml",
+      files: "infra/k8s/src/supabase-studio/generated/namespace.generated.yaml",
       serverSide: true,
     }),
 
@@ -47,7 +47,7 @@ export default workflow("supabase-studio", {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...SKIP_CHECK,
-          `DECRYPTED=$(sops -d ${ci.workspace}/packages/infra/k8s/src/supabase-studio/secrets/supabase-studio-secrets.sops.yaml)`,
+          `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/supabase-studio/secrets/supabase-studio-secrets.sops.yaml)`,
           `echo "$DECRYPTED" | kubectl apply --dry-run=client -n supabase-studio -f -`,
           `echo "$DECRYPTED" | kubectl apply -n supabase-studio -f -`,
         ],
@@ -67,8 +67,8 @@ export default workflow("supabase-studio", {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...SKIP_CHECK,
-          "kubectl apply --server-side --force-conflicts -n supabase-studio -f packages/infra/k8s/src/supabase-studio/generated/service.generated.yaml",
-          "kubectl apply --server-side --force-conflicts -n supabase-studio -f packages/infra/k8s/src/supabase-studio/generated/deployment.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -n supabase-studio -f infra/k8s/src/supabase-studio/generated/service.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -n supabase-studio -f infra/k8s/src/supabase-studio/generated/deployment.generated.yaml",
           ...verifyRolloutCommands({
             namespace: "supabase-studio",
             deployment: "supabase-studio",

@@ -37,7 +37,7 @@ export default workflow("ci", {
     sopsDecryptApply({
       name: "ci-apply-pipeline-secrets",
       namespace: "ci",
-      secretFile: "packages/infra/ci/workflows/k8s/secrets.sops.yaml",
+      secretFile: "infra/ci-workflows/k8s/secrets.sops.yaml",
     }),
   ],
 })

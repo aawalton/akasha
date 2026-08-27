@@ -25,7 +25,7 @@ export default workflow("cloudnative-pg", {
         "set -e",
         `CONTENT_HASH="${ci.inputsHash}"`,
         ...SKIP_CHECK,
-        `kubectl apply --server-side --force-conflicts -f ${ci.workspace}/packages/infra/k8s/src/cloudnative-pg/generated/namespace.generated.yaml`,
+        `kubectl apply --server-side --force-conflicts -f ${ci.workspace}/infra/k8s/src/cloudnative-pg/generated/namespace.generated.yaml`,
       ],
       backendOptions: {
         kubernetes: { serviceAccountName: "pipeline-engine" },

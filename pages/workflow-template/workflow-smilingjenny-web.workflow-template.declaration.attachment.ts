@@ -12,7 +12,7 @@ const smilingjenny = workflow("smilingjenny-web", {
     kubectlApply({
       name: "smilingjenny-web-apply-deployment",
       namespace: "smilingjenny",
-      files: "packages/smilingjenny/web/deploy/k8s/generated/web-deployment.generated.yaml",
+      files: "smilingjenny/web/deploy/k8s/generated/web-deployment.generated.yaml",
       serverSide: true,
     }),
     {
@@ -21,7 +21,7 @@ const smilingjenny = workflow("smilingjenny-web", {
         namespace: "smilingjenny",
         deployment: "web",
         sha: (ci) => ci.commitSha,
-        buildPackagePath: "packages/smilingjenny/web",
+        buildPackagePath: "smilingjenny/web",
       }),
       dependsOn: ["smilingjenny-web-apply-deployment"],
     },

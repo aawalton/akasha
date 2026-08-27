@@ -25,14 +25,14 @@ const temperWeb = workflow("temper-web", {
     "rust-file:code:packages/temper/watcher-tray/src/updater.rs",
   ],
   dispatchNodeTypes: [
-    { kind: "ts-file", under: "packages/temper" },
-    { kind: "json-file", under: "packages/temper" },
+    { kind: "ts-file", under: "temper" },
+    { kind: "json-file", under: "temper" },
   ],
   steps: [
     kubectlApply({
       name: "temper-web-apply-deployment",
       namespace: "temper",
-      files: "packages/temper/web/deploy/k8s/generated/web-deployment.generated.yaml",
+      files: "temper/web/deploy/k8s/generated/web-deployment.generated.yaml",
       serverSide: true,
     }),
     {
@@ -41,7 +41,7 @@ const temperWeb = workflow("temper-web", {
         namespace: "temper",
         deployment: "web",
         sha: (ci) => ci.commitSha,
-        buildPackagePath: "packages/temper/web",
+        buildPackagePath: "temper/web",
         buildEnv: [
           { name: "NEXT_PUBLIC_SUPABASE_COOKIE_DOMAIN", value: ".tempereso.com" },
           { name: "SUPABASE_URL", value: "https://supabase.alanwalton.com" },
@@ -66,7 +66,7 @@ const temperWeb = workflow("temper-web", {
       commands: (ci) => [
         "set -e",
         `cd ${ci.workspace}`,
-        `bun ${ci.workspace}/packages/infra/scripts/src/set-app-live-version.ts --app temper-web --version "${ci.commitSha}"`,
+        `bun ${ci.workspace}/infra/scripts/src/set-app-live-version.ts --app temper-web --version "${ci.commitSha}"`,
       ],
       backendOptions: {
         kubernetes: { serviceAccountName: "pipeline-engine" },

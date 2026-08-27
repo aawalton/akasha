@@ -20,13 +20,13 @@ export default workflow("alanwalton-calendar-sync", {
       ...buildkitBuild({
         name: "alanwalton-calendar-sync-build",
         context: ".",
-        dockerfile: "packages/alanwalton/calendar/sync",
+        dockerfile: "alanwalton/calendar-sync",
         tag: (ci) => `${REGISTRY}/alanwalton/alanwalton-calendar-sync:${ci.inputsHash}`,
         cacheTag: `${REGISTRY}/alanwalton/alanwalton-calendar-sync:buildcache`,
         image: IMAGES.CI,
         cache: false,
         preCommands: (ci) => [
-          `bun ${ci.workspace}/packages/infra/scripts/src/generate-dockerfiles.ts --service alanwalton-calendar-sync`,
+          `bun ${ci.workspace}/infra/scripts/src/generate-dockerfiles.ts --service alanwalton-calendar-sync`,
         ],
       }),
       skipIfTagExists: (ci) => `${REGISTRY}/alanwalton/alanwalton-calendar-sync:${ci.inputsHash}`,
@@ -40,7 +40,7 @@ export default workflow("alanwalton-calendar-sync", {
       environment: { HOME: "/tmp" },
       commands: (ci) => [
         "set -e",
-        `sed "s|MUST_BE_SET_BY_DEPLOY_SCRIPT|${REGISTRY}/alanwalton/alanwalton-calendar-sync:${ci.inputsHash}|g" packages/alanwalton/calendar/sync/deploy/k8s/generated/cronjob.generated.yaml | kubectl apply --server-side --force-conflicts -n alanwalton -f -`,
+        `sed "s|MUST_BE_SET_BY_DEPLOY_SCRIPT|${REGISTRY}/alanwalton/alanwalton-calendar-sync:${ci.inputsHash}|g" alanwalton/calendar-sync/deploy/k8s/generated/cronjob.generated.yaml | kubectl apply --server-side --force-conflicts -n alanwalton -f -`,
       ],
       backendOptions: {
         kubernetes: { serviceAccountName: "pipeline-engine" },

@@ -3,9 +3,9 @@ import { step } from "../../tools/lib/workflow-dsl/step"
 import { workflow } from "../../tools/lib/workflow-dsl/workflow"
 
 const RUNTIME_CLASS_MANIFEST =
-  "packages/infra/k8s/src/primitives/generated/nvidia-runtime-class.generated.yaml"
+  "infra/k8s/src/primitives/generated/nvidia-runtime-class.generated.yaml"
 const NVIDIA_MANIFEST =
-  "packages/infra/k8s/src/primitives/generated/nvidia-daemonset.generated.yaml"
+  "infra/k8s/src/primitives/generated/nvidia-daemonset.generated.yaml"
 
 const primitivesBootstrap = workflow("primitives", {
   kind: "foundation",

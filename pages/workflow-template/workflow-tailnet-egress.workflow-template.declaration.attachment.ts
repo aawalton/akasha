@@ -15,7 +15,7 @@ export default workflow("tailnet-egress", {
     kubectlApply({
       name: "tailnet-egress-apply-namespace",
       namespace: "tailnet-egress",
-      files: "packages/infra/k8s/src/tailnet-egress/generated/namespace.generated.yaml",
+      files: "infra/k8s/src/tailnet-egress/generated/namespace.generated.yaml",
       serverSide: true,
     }),
     applyRbac({
@@ -25,19 +25,19 @@ export default workflow("tailnet-egress", {
     sopsDecryptApply({
       name: "tailnet-egress-apply-secret",
       namespace: "tailnet-egress",
-      secretFile: "packages/infra/k8s/src/tailnet-egress/k8s/tailnet-egress-auth.sops.yaml",
+      secretFile: "infra/k8s/src/tailnet-egress/k8s/tailnet-egress-auth.sops.yaml",
     }),
     kubectlApply({
       name: "tailnet-egress-apply-network-policy",
       namespace: "tailnet-egress",
-      files: "packages/infra/k8s/src/tailnet-egress/generated/network-policy.generated.yaml",
+      files: "infra/k8s/src/tailnet-egress/generated/network-policy.generated.yaml",
       serverSide: true,
     }),
     {
       ...kubectlApply({
         name: "tailnet-egress-apply-deployment",
         namespace: "tailnet-egress",
-        files: "packages/infra/k8s/src/tailnet-egress/generated/deployment.generated.yaml",
+        files: "infra/k8s/src/tailnet-egress/generated/deployment.generated.yaml",
         serverSide: true,
       }),
       dependsOn: [
@@ -51,7 +51,7 @@ export default workflow("tailnet-egress", {
       ...kubectlApply({
         name: "tailnet-egress-apply-service",
         namespace: "tailnet-egress",
-        files: "packages/infra/k8s/src/tailnet-egress/generated/service.generated.yaml",
+        files: "infra/k8s/src/tailnet-egress/generated/service.generated.yaml",
         serverSide: true,
       }),
       dependsOn: ["tailnet-egress-apply-namespace"],

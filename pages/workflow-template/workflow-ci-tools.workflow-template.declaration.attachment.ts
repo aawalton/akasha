@@ -12,7 +12,7 @@ export default workflow("ci-tools", {
     kubectlApply({
       name: "ci-tools-apply-ci-namespace",
       namespace: "ci",
-      files: "packages/infra/ci/workflows/k8s/generated/namespace.generated.yaml",
+      files: "infra/ci-workflows/k8s/generated/namespace.generated.yaml",
       serverSide: true,
     }),
 
@@ -21,7 +21,7 @@ export default workflow("ci-tools", {
         name: "ci-tools-apply-ci-storage-scripts-configmap",
         namespace: "ci",
         files:
-          "packages/infra/k8s/src/ci-tools/generated/ci-storage-scripts-configmap.generated.yaml",
+          "infra/k8s/src/ci-tools/generated/ci-storage-scripts-configmap.generated.yaml",
         serverSide: true,
       }),
       dependsOn: ["ci-tools-apply-ci-namespace"],
@@ -32,7 +32,7 @@ export default workflow("ci-tools", {
         name: "ci-tools-apply-ci-storage-admin-deployment",
         namespace: "ci",
         files:
-          "packages/infra/k8s/src/ci-tools/generated/ci-storage-admin-deployment.generated.yaml",
+          "infra/k8s/src/ci-tools/generated/ci-storage-admin-deployment.generated.yaml",
         serverSide: true,
       }),
       dependsOn: ["ci-tools-apply-ci-storage-scripts-configmap"],
@@ -43,7 +43,7 @@ export default workflow("ci-tools", {
         name: "ci-tools-apply-ci-storage-maintain-daemonset",
         namespace: "ci",
         files:
-          "packages/infra/k8s/src/ci-tools/generated/ci-storage-maintain-daemonset.generated.yaml",
+          "infra/k8s/src/ci-tools/generated/ci-storage-maintain-daemonset.generated.yaml",
         serverSide: true,
       }),
       dependsOn: ["ci-tools-apply-ci-storage-scripts-configmap"],

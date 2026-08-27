@@ -25,7 +25,7 @@ export default workflow("buildkit", {
       environment: { HOME: "/tmp" },
       commands: [
         "set -e",
-        "kubectl apply --server-side --force-conflicts -f packages/infra/k8s/src/buildkit/generated/namespace.generated.yaml",
+        "kubectl apply --server-side --force-conflicts -f infra/k8s/src/buildkit/generated/namespace.generated.yaml",
       ],
       backendOptions: {
         kubernetes: { serviceAccountName: "pipeline-engine" },
@@ -38,15 +38,15 @@ export default workflow("buildkit", {
       environment: { HOME: "/tmp" },
       commands: [
         "set -e",
-        "kubectl apply --server-side --force-conflicts -n buildkit -f packages/infra/k8s/src/buildkit/generated/configmap.generated.yaml",
-        "kubectl apply --server-side --force-conflicts -n buildkit -f packages/infra/k8s/src/buildkit/generated/service.generated.yaml",
-        "kubectl apply --server-side --force-conflicts -n buildkit -f packages/infra/k8s/src/buildkit/generated/prune-cronjob.generated.yaml",
+        "kubectl apply --server-side --force-conflicts -n buildkit -f infra/k8s/src/buildkit/generated/configmap.generated.yaml",
+        "kubectl apply --server-side --force-conflicts -n buildkit -f infra/k8s/src/buildkit/generated/service.generated.yaml",
+        "kubectl apply --server-side --force-conflicts -n buildkit -f infra/k8s/src/buildkit/generated/prune-cronjob.generated.yaml",
         ...checksumHashCommands({
           variable: "CONFIG_HASH",
-          read: "cat packages/infra/k8s/src/buildkit/generated/configmap.generated.yaml",
+          read: "cat infra/k8s/src/buildkit/generated/configmap.generated.yaml",
           subject: "buildkit configmap.generated.yaml",
         }),
-        'sed "s|checksum/config:.*|checksum/config: \\"${CONFIG_HASH}\\"|" packages/infra/k8s/src/buildkit/generated/deployment.generated.yaml \\',
+        'sed "s|checksum/config:.*|checksum/config: \\"${CONFIG_HASH}\\"|" infra/k8s/src/buildkit/generated/deployment.generated.yaml \\',
         "  | kubectl apply -n buildkit -f -",
         ...verifyRolloutCommands({ namespace: "buildkit", deployment: "buildkit" }),
       ],

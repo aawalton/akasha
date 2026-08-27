@@ -14,13 +14,13 @@ export const workflows = [
       kubectlApply({
         name: "smilingjenny-infra-apply-service",
         namespace: "smilingjenny",
-        files: "packages/smilingjenny/web/deploy/k8s/generated/web-service.generated.yaml",
+        files: "smilingjenny/web/deploy/k8s/generated/web-service.generated.yaml",
         serverSide: true,
       }),
       sopsDecryptApply({
         name: "smilingjenny-infra-apply-secrets",
         namespace: "smilingjenny",
-        secretFile: "packages/smilingjenny/web/deploy/secrets.sops.yaml",
+        secretFile: "smilingjenny/web/deploy/secrets.sops.yaml",
       }),
     ],
   }),

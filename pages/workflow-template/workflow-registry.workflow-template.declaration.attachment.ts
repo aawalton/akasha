@@ -30,7 +30,7 @@ export default workflow("registry", {
       environment: { HOME: "/tmp" },
       commands: [
         "set -e",
-        "kubectl apply --server-side --force-conflicts -f packages/infra/k8s/src/registry/generated/namespace.generated.yaml",
+        "kubectl apply --server-side --force-conflicts -f infra/k8s/src/registry/generated/namespace.generated.yaml",
       ],
       backendOptions: {
         kubernetes: { serviceAccountName: "pipeline-engine" },
@@ -42,11 +42,11 @@ export default workflow("registry", {
       environment: { HOME: "/tmp" },
       commands: [
         "set -e",
-        "kubectl apply --server-side --force-conflicts -f packages/infra/k8s/src/registry/generated/pv.generated.yaml",
-        "kubectl apply --server-side --force-conflicts -n registry -f packages/infra/k8s/src/registry/generated/pvc.generated.yaml",
-        "kubectl apply --server-side --force-conflicts -n registry -f packages/infra/k8s/src/registry/generated/deployment.generated.yaml",
-        "kubectl apply --server-side --force-conflicts -n registry -f packages/infra/k8s/src/registry/generated/service.generated.yaml",
-        "kubectl apply --server-side --force-conflicts -n registry -f packages/infra/k8s/src/registry/generated/cronjob-gc.generated.yaml",
+        "kubectl apply --server-side --force-conflicts -f infra/k8s/src/registry/generated/pv.generated.yaml",
+        "kubectl apply --server-side --force-conflicts -n registry -f infra/k8s/src/registry/generated/pvc.generated.yaml",
+        "kubectl apply --server-side --force-conflicts -n registry -f infra/k8s/src/registry/generated/deployment.generated.yaml",
+        "kubectl apply --server-side --force-conflicts -n registry -f infra/k8s/src/registry/generated/service.generated.yaml",
+        "kubectl apply --server-side --force-conflicts -n registry -f infra/k8s/src/registry/generated/cronjob-gc.generated.yaml",
         ...verifyRolloutCommands({ namespace: "registry", deployment: "registry" }),
       ],
       dependsOn: ["registry-apply-namespaces"],
@@ -58,7 +58,7 @@ export default workflow("registry", {
       ...sopsDecryptApply({
         name: "registry-apply-tls",
         namespace: "registry",
-        secretFile: "packages/infra/k8s/src/registry/secrets/registry-tls.sops.yaml",
+        secretFile: "infra/k8s/src/registry/secrets/registry-tls.sops.yaml",
       }),
       dependsOn: ["registry-apply"],
     },

@@ -28,7 +28,7 @@ export default workflow("headscale", {
     kubectlApply({
       name: "headscale-apply-namespace",
       namespace: "headscale",
-      files: "packages/infra/k8s/src/headscale/generated/namespace.generated.yaml",
+      files: "infra/k8s/src/headscale/generated/namespace.generated.yaml",
       serverSide: true,
     }),
     applyRbac({
@@ -38,24 +38,24 @@ export default workflow("headscale", {
     sopsDecryptApply({
       name: "headscale-apply-secret",
       namespace: "headscale",
-      secretFile: "packages/infra/k8s/src/headscale/k8s/secret.sops.yaml",
+      secretFile: "infra/k8s/src/headscale/k8s/secret.sops.yaml",
     }),
     kubectlApply({
       name: "headscale-apply-configmap",
       namespace: "headscale",
-      files: "packages/infra/k8s/src/headscale/generated/configmap.generated.yaml",
+      files: "infra/k8s/src/headscale/generated/configmap.generated.yaml",
       serverSide: true,
     }),
     kubectlApply({
       name: "headscale-apply-policy",
       namespace: "headscale",
-      files: "packages/infra/k8s/src/headscale/generated/policy-configmap.generated.yaml",
+      files: "infra/k8s/src/headscale/generated/policy-configmap.generated.yaml",
       serverSide: true,
     }),
     kubectlApply({
       name: "headscale-apply-litestream-configmap",
       namespace: "headscale",
-      files: "packages/infra/k8s/src/headscale/generated/litestream-configmap.generated.yaml",
+      files: "infra/k8s/src/headscale/generated/litestream-configmap.generated.yaml",
       serverSide: true,
     }),
     {
@@ -73,7 +73,7 @@ export default workflow("headscale", {
     kubectlApply({
       name: "headscale-apply-certificate",
       namespace: "headscale",
-      files: "packages/infra/k8s/src/headscale/generated/certificate.generated.yaml",
+      files: "infra/k8s/src/headscale/generated/certificate.generated.yaml",
       serverSide: true,
     }),
     {
@@ -94,13 +94,13 @@ export default workflow("headscale", {
     kubectlApply({
       name: "headscale-apply-service",
       namespace: "headscale",
-      files: "packages/infra/k8s/src/headscale/generated/service.generated.yaml",
+      files: "infra/k8s/src/headscale/generated/service.generated.yaml",
       serverSide: true,
     }),
     kubectlApply({
       name: "headscale-apply-network-policy",
       namespace: "headscale",
-      files: "packages/infra/k8s/src/headscale/generated/network-policy.generated.yaml",
+      files: "infra/k8s/src/headscale/generated/network-policy.generated.yaml",
       serverSide: true,
     }),
     {
@@ -115,7 +115,7 @@ export default workflow("headscale", {
             read: "kubectl get secret headscale-s3-creds -n headscale -o jsonpath='{.data.access_key}{.data.secret_key}'",
             subject: "headscale-s3-creds",
           }),
-          `sed "s|checksum/s3-creds:.*|checksum/s3-creds: \\"${"$"}{S3_CREDS_HASH}\\"|" ${ci.workspace}/packages/infra/k8s/src/headscale/generated/statefulset.generated.yaml | kubectl apply --server-side --force-conflicts -n headscale -f -`,
+          `sed "s|checksum/s3-creds:.*|checksum/s3-creds: \\"${"$"}{S3_CREDS_HASH}\\"|" ${ci.workspace}/infra/k8s/src/headscale/generated/statefulset.generated.yaml | kubectl apply --server-side --force-conflicts -n headscale -f -`,
         ],
         backendOptions: {
           kubernetes: { serviceAccountName: "pipeline-engine" },
@@ -133,7 +133,7 @@ export default workflow("headscale", {
     sopsDecryptApply({
       name: "headscale-apply-subnet-router-secret",
       namespace: "headscale",
-      secretFile: "packages/infra/k8s/src/headscale/k8s/subnet-router-secret.sops.yaml",
+      secretFile: "infra/k8s/src/headscale/k8s/subnet-router-secret.sops.yaml",
     }),
     {
       ...step({
@@ -154,7 +154,7 @@ export default workflow("headscale", {
       ...kubectlApply({
         name: "headscale-apply-subnet-router",
         namespace: "headscale",
-        files: "packages/infra/k8s/src/headscale/generated/subnet-router-deployment.generated.yaml",
+        files: "infra/k8s/src/headscale/generated/subnet-router-deployment.generated.yaml",
         serverSide: true,
       }),
       dependsOn: ["headscale-apply-subnet-router-secret", "headscale-wait-for-rollout"],

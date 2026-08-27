@@ -24,7 +24,7 @@ export default workflow("gotrue", {
     kubectlApply({
       name: "gotrue-apply-namespace",
       namespace: "gotrue",
-      files: "packages/infra/k8s/src/gotrue/generated/namespace.generated.yaml",
+      files: "infra/k8s/src/gotrue/generated/namespace.generated.yaml",
       serverSide: true,
     }),
 
@@ -40,13 +40,13 @@ export default workflow("gotrue", {
       ...sopsDecryptApply({
         name: "gotrue-apply-secrets",
         namespace: "gotrue",
-        secretFile: "packages/infra/k8s/src/gotrue/secrets/gotrue-secrets.sops.yaml",
+        secretFile: "infra/k8s/src/gotrue/secrets/gotrue-secrets.sops.yaml",
       }),
       commands: (ci) => [
         "set -e",
         `CONTENT_HASH="${ci.inputsHash}"`,
         ...SKIP_CHECK,
-        `DECRYPTED=$(sops -d ${ci.workspace}/packages/infra/k8s/src/gotrue/secrets/gotrue-secrets.sops.yaml)`,
+        `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/gotrue/secrets/gotrue-secrets.sops.yaml)`,
         `echo "$DECRYPTED" | kubectl apply --dry-run=client -n gotrue -f -`,
         `echo "$DECRYPTED" | kubectl apply -n gotrue -f -`,
       ],
@@ -57,13 +57,13 @@ export default workflow("gotrue", {
       ...sopsDecryptApply({
         name: "gotrue-apply-supabase-auth-admin-secrets",
         namespace: "postgres",
-        secretFile: "packages/infra/k8s/src/gotrue/secrets/supabase-auth-admin-secrets.sops.yaml",
+        secretFile: "infra/k8s/src/gotrue/secrets/supabase-auth-admin-secrets.sops.yaml",
       }),
       commands: (ci) => [
         "set -e",
         `CONTENT_HASH="${ci.inputsHash}"`,
         ...SKIP_CHECK,
-        `DECRYPTED=$(sops -d ${ci.workspace}/packages/infra/k8s/src/gotrue/secrets/supabase-auth-admin-secrets.sops.yaml)`,
+        `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/gotrue/secrets/supabase-auth-admin-secrets.sops.yaml)`,
         `echo "$DECRYPTED" | kubectl apply --dry-run=client -n postgres -f -`,
         `echo "$DECRYPTED" | kubectl apply -n postgres -f -`,
       ],
@@ -160,8 +160,8 @@ export default workflow("gotrue", {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...SKIP_CHECK,
-          "kubectl apply --server-side --force-conflicts -n gotrue -f packages/infra/k8s/src/gotrue/generated/service.generated.yaml",
-          "kubectl apply --server-side --force-conflicts -n gotrue -f packages/infra/k8s/src/gotrue/generated/deployment.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -n gotrue -f infra/k8s/src/gotrue/generated/service.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -n gotrue -f infra/k8s/src/gotrue/generated/deployment.generated.yaml",
           ...verifyRolloutCommands({ namespace: "gotrue", deployment: "gotrue", timeout: "180s" }),
         ],
         backendOptions: {

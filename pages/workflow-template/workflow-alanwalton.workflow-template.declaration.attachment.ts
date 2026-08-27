@@ -16,13 +16,13 @@ export const workflows = [
       kubectlApply({
         name: "alanwalton-infra-apply-service",
         namespace: "alanwalton",
-        files: "packages/alanwalton/web/deploy/k8s/generated/web-service.generated.yaml",
+        files: "alanwalton/web/deploy/k8s/generated/web-service.generated.yaml",
         serverSide: true,
       }),
       sopsDecryptApply({
         name: "alanwalton-infra-apply-secrets",
         namespace: "alanwalton",
-        secretFile: "packages/alanwalton/web/deploy/secrets.sops.yaml",
+        secretFile: "alanwalton/web/deploy/secrets.sops.yaml",
       }),
       step({
         name: "alanwalton-mirror-s3-creds",

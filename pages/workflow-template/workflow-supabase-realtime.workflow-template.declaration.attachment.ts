@@ -27,7 +27,7 @@ export default workflow("supabase-realtime", {
     kubectlApply({
       name: "supabase-realtime-apply-namespace",
       namespace: "supabase-realtime",
-      files: "packages/infra/k8s/src/supabase-realtime/generated/namespace.generated.yaml",
+      files: "infra/k8s/src/supabase-realtime/generated/namespace.generated.yaml",
       serverSide: true,
     }),
 
@@ -43,13 +43,13 @@ export default workflow("supabase-realtime", {
       ...sopsDecryptApply({
         name: "supabase-realtime-apply-realtime-secrets",
         namespace: "supabase-realtime",
-        secretFile: "packages/infra/k8s/src/supabase-realtime/secrets/realtime-secrets.sops.yaml",
+        secretFile: "infra/k8s/src/supabase-realtime/secrets/realtime-secrets.sops.yaml",
       }),
       commands: (ci) => [
         "set -e",
         `CONTENT_HASH="${ci.inputsHash}"`,
         ...SKIP_CHECK,
-        `DECRYPTED=$(sops -d ${ci.workspace}/packages/infra/k8s/src/supabase-realtime/secrets/realtime-secrets.sops.yaml)`,
+        `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/supabase-realtime/secrets/realtime-secrets.sops.yaml)`,
         `echo "$DECRYPTED" | kubectl apply --dry-run=client -n supabase-realtime -f -`,
         `echo "$DECRYPTED" | kubectl apply -n supabase-realtime -f -`,
       ],
@@ -61,13 +61,13 @@ export default workflow("supabase-realtime", {
         name: "supabase-realtime-apply-admin-secrets",
         namespace: "postgres",
         secretFile:
-          "packages/infra/k8s/src/supabase-realtime/secrets/supabase-realtime-admin-secrets.sops.yaml",
+          "infra/k8s/src/supabase-realtime/secrets/supabase-realtime-admin-secrets.sops.yaml",
       }),
       commands: (ci) => [
         "set -e",
         `CONTENT_HASH="${ci.inputsHash}"`,
         ...SKIP_CHECK,
-        `DECRYPTED=$(sops -d ${ci.workspace}/packages/infra/k8s/src/supabase-realtime/secrets/supabase-realtime-admin-secrets.sops.yaml)`,
+        `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/supabase-realtime/secrets/supabase-realtime-admin-secrets.sops.yaml)`,
         `echo "$DECRYPTED" | kubectl apply --dry-run=client -n postgres -f -`,
         `echo "$DECRYPTED" | kubectl apply -n postgres -f -`,
       ],
@@ -136,7 +136,7 @@ export default workflow("supabase-realtime", {
               "  CREATE ROLE supabase_realtime_admin WITH LOGIN REPLICATION SUPERUSER PASSWORD :'pass';",
               "\\endif",
               "SQL",
-              'psql -v ON_ERROR_STOP=1 -Atc "SELECT rolsuper FROM pg_roles WHERE rolname=\'supabase_realtime_admin\'" | grep -qx t || { echo "ERROR: supabase_realtime_admin is not SUPERUSER after ALTER — realtime.subscription_check_filters needs SUPERUSER for its information_schema scan; see packages/infra/k8s/src/supabase-realtime/CLAUDE.md"; exit 1; }',
+              'psql -v ON_ERROR_STOP=1 -Atc "SELECT rolsuper FROM pg_roles WHERE rolname=\'supabase_realtime_admin\'" | grep -qx t || { echo "ERROR: supabase_realtime_admin is not SUPERUSER after ALTER — realtime.subscription_check_filters needs SUPERUSER for its information_schema scan; see infra/k8s/src/supabase-realtime/CLAUDE.md"; exit 1; }',
               "psql -v ON_ERROR_STOP=1 -c 'GRANT CREATE, CONNECT ON DATABASE postgres TO supabase_realtime_admin'",
               "psql -v ON_ERROR_STOP=1 -c 'GRANT USAGE ON SCHEMA public TO supabase_realtime_admin'",
               "psql -v ON_ERROR_STOP=1 -c 'CREATE SCHEMA IF NOT EXISTS _realtime AUTHORIZATION supabase_realtime_admin'",
@@ -171,13 +171,13 @@ export default workflow("supabase-realtime", {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...SKIP_CHECK,
-          "kubectl apply --server-side --force-conflicts -n supabase-realtime -f packages/infra/k8s/src/supabase-realtime/generated/service.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -n supabase-realtime -f infra/k8s/src/supabase-realtime/generated/service.generated.yaml",
           ...checksumHashCommands({
             variable: "SECRET_HASH",
-            read: `sops -d ${ci.workspace}/packages/infra/k8s/src/supabase-realtime/secrets/realtime-secrets.sops.yaml`,
+            read: `sops -d ${ci.workspace}/infra/k8s/src/supabase-realtime/secrets/realtime-secrets.sops.yaml`,
             subject: "realtime-secrets.sops.yaml",
           }),
-          `sed "s|checksum/realtime-secrets:.*|checksum/realtime-secrets: \\"${"$"}{SECRET_HASH}\\"|" packages/infra/k8s/src/supabase-realtime/generated/deployment.generated.yaml | kubectl apply --server-side --force-conflicts -n supabase-realtime -f -`,
+          `sed "s|checksum/realtime-secrets:.*|checksum/realtime-secrets: \\"${"$"}{SECRET_HASH}\\"|" infra/k8s/src/supabase-realtime/generated/deployment.generated.yaml | kubectl apply --server-side --force-conflicts -n supabase-realtime -f -`,
           ...verifyRolloutCommands({
             namespace: "supabase-realtime",
             deployment: "realtime",
@@ -203,7 +203,7 @@ export default workflow("supabase-realtime", {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...SKIP_CHECK,
-          `bun ${ci.workspace}/packages/infra/k8s/src/supabase-realtime/scripts/bootstrap-tenant.ts`,
+          `bun ${ci.workspace}/infra/k8s/src/supabase-realtime/scripts/bootstrap-tenant.ts`,
         ],
         backendOptions: {
           kubernetes: { serviceAccountName: "pipeline-engine" },

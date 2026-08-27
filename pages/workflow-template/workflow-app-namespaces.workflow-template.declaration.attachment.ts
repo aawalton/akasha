@@ -13,7 +13,7 @@ export default workflow("app-namespaces", {
     kubectlApply({
       name: "app-namespaces-apply",
       namespace: "app-namespaces",
-      files: "packages/infra/k8s/src/app-namespaces/generated/namespaces.generated.yaml",
+      files: "infra/k8s/src/app-namespaces/generated/namespaces.generated.yaml",
       serverSide: true,
     }),
   ],

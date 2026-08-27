@@ -23,7 +23,7 @@ export default workflow("pgbouncer", {
     kubectlApply({
       name: "pgbouncer-apply-namespace",
       namespace: "pgbouncer",
-      files: "packages/infra/k8s/src/pgbouncer/generated/namespace.generated.yaml",
+      files: "infra/k8s/src/pgbouncer/generated/namespace.generated.yaml",
       serverSide: true,
     }),
 
@@ -39,7 +39,7 @@ export default workflow("pgbouncer", {
       ...sopsDecryptApply({
         name: "pgbouncer-apply-tls",
         namespace: "pgbouncer",
-        secretFile: "packages/infra/k8s/src/pgbouncer/secrets/tls-secret.sops.yaml",
+        secretFile: "infra/k8s/src/pgbouncer/secrets/tls-secret.sops.yaml",
       }),
       dependsOn: ["pgbouncer-apply-namespace"],
     },
@@ -48,7 +48,7 @@ export default workflow("pgbouncer", {
       ...sopsDecryptApply({
         name: "pgbouncer-apply-auth",
         namespace: "pgbouncer",
-        secretFile: "packages/infra/k8s/src/pgbouncer/secrets/auth-secret.sops.yaml",
+        secretFile: "infra/k8s/src/pgbouncer/secrets/auth-secret.sops.yaml",
       }),
       dependsOn: ["pgbouncer-apply-namespace"],
     },
@@ -62,9 +62,9 @@ export default workflow("pgbouncer", {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...SKIP_CHECK,
-          "kubectl apply --server-side --force-conflicts -n pgbouncer -f packages/infra/k8s/src/pgbouncer/generated/configmap.generated.yaml",
-          "kubectl apply --server-side --force-conflicts -n pgbouncer -f packages/infra/k8s/src/pgbouncer/generated/deployment.generated.yaml",
-          "kubectl apply --server-side --force-conflicts -n pgbouncer -f packages/infra/k8s/src/pgbouncer/generated/service.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -n pgbouncer -f infra/k8s/src/pgbouncer/generated/configmap.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -n pgbouncer -f infra/k8s/src/pgbouncer/generated/deployment.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -n pgbouncer -f infra/k8s/src/pgbouncer/generated/service.generated.yaml",
           "kubectl rollout restart deployment/pgbouncer -n pgbouncer",
         ],
         backendOptions: {

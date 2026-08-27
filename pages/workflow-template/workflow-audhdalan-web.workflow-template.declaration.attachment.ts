@@ -15,7 +15,7 @@ const audhdalan = workflow("audhdalan-web", {
     kubectlApply({
       name: "audhdalan-web-apply-deployment",
       namespace: "audhdalan",
-      files: "packages/audhdalan/web/deploy/k8s/generated/web-deployment.generated.yaml",
+      files: "audhdalan/web/deploy/k8s/generated/web-deployment.generated.yaml",
       serverSide: true,
     }),
     {
@@ -24,7 +24,7 @@ const audhdalan = workflow("audhdalan-web", {
         namespace: "audhdalan",
         deployment: "web",
         sha: (ci) => ci.commitSha,
-        buildPackagePath: "packages/audhdalan/web",
+        buildPackagePath: "audhdalan/web",
         noDefaultSupabaseEnv: true,
       }),
       dependsOn: ["audhdalan-web-apply-deployment"],
@@ -42,7 +42,7 @@ const audhdalan = workflow("audhdalan-web", {
       commands: (ci) => [
         "set -e",
         `cd ${ci.workspace}`,
-        `bun ${ci.workspace}/packages/infra/scripts/src/set-app-live-version.ts --app audhdalan-web --version "${ci.commitSha}"`,
+        `bun ${ci.workspace}/infra/scripts/src/set-app-live-version.ts --app audhdalan-web --version "${ci.commitSha}"`,
       ],
       backendOptions: {
         kubernetes: { serviceAccountName: "pipeline-engine" },

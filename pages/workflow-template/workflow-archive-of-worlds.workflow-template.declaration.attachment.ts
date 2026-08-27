@@ -17,13 +17,13 @@ export const workflows = [
       kubectlApply({
         name: "archive-of-worlds-infra-apply-service",
         namespace: "archive-of-worlds",
-        files: "packages/archive-of-worlds/web/deploy/k8s/generated/web-service.generated.yaml",
+        files: "archive-of-worlds/web/deploy/k8s/generated/web-service.generated.yaml",
         serverSide: true,
       }),
       sopsDecryptApply({
         name: "archive-of-worlds-infra-apply-secrets",
         namespace: "archive-of-worlds",
-        secretFile: "packages/archive-of-worlds/web/deploy/secrets.sops.yaml",
+        secretFile: "archive-of-worlds/web/deploy/secrets.sops.yaml",
       }),
     ],
   }),

@@ -26,7 +26,7 @@ export default workflow("cert-manager", {
       ...sopsDecryptApply({
         name: "cert-manager-apply-cloudflare-token",
         namespace: "cert-manager",
-        secretFile: "packages/infra/k8s/src/cert-manager/k8s/cloudflare-api-token.sops.yaml",
+        secretFile: "infra/k8s/src/cert-manager/k8s/cloudflare-api-token.sops.yaml",
       }),
       dependsOn: ["cert-manager-apply-rbac"],
     },
@@ -39,7 +39,7 @@ export default workflow("cert-manager", {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...SKIP_CHECK,
-          `kubectl apply --server-side --force-conflicts -f ${ci.workspace}/packages/infra/k8s/src/cert-manager/generated/cluster-issuer.generated.yaml`,
+          `kubectl apply --server-side --force-conflicts -f ${ci.workspace}/infra/k8s/src/cert-manager/generated/cluster-issuer.generated.yaml`,
         ],
         backendOptions: {
           kubernetes: { serviceAccountName: "pipeline-engine" },

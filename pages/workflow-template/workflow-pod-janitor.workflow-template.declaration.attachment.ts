@@ -16,7 +16,7 @@ export default workflow("pod-janitor", {
     kubectlApply({
       name: "pod-janitor-apply-namespace",
       namespace: "pod-janitor",
-      files: "packages/infra/k8s/src/pod-janitor/generated/namespace.generated.yaml",
+      files: "infra/k8s/src/pod-janitor/generated/namespace.generated.yaml",
       serverSide: true,
     }),
 
@@ -35,7 +35,7 @@ export default workflow("pod-janitor", {
         environment: { HOME: "/tmp" },
         commands: [
           "set -e",
-          "kubectl apply --server-side --force-conflicts -f packages/infra/k8s/src/pod-janitor/generated/cronjob.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -f infra/k8s/src/pod-janitor/generated/cronjob.generated.yaml",
           "kubectl get cronjob pod-janitor -n pod-janitor",
         ],
         backendOptions: {

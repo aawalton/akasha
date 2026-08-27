@@ -34,7 +34,7 @@ export default workflow("temper-watcher", {
       ...buildkitBuild({
         name: "temper-watcher-build-image",
         context: ".",
-        dockerfile: "packages/infra/k8s/src/temper-watcher/build",
+        dockerfile: "infra/k8s/src/temper-watcher/build",
         tag: (ci) => `${REGISTRY}/${IMAGE_NAME}:${ci.inputsHash}`,
         buildArgs: {
           COMMIT_SHA: (ci) => ci.commitSha,

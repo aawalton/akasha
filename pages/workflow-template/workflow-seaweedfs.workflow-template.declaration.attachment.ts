@@ -12,7 +12,7 @@ const SKIP_CHECK = [
   'if [ "$CURRENT_HASH" = "$CONTENT_HASH" ]; then echo "Content hash unchanged, skipping"; exit 0; fi',
 ]
 
-const K8S = "packages/infra/seaweedfs/k8s/generated"
+const K8S = "infra/seaweedfs/k8s/generated"
 
 const foundationSeaweedfs = workflow("seaweedfs", {
   kind: "foundation",
@@ -316,7 +316,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
       ...sopsDecryptApply({
         name: "seaweedfs-apply-etcd-talosconfig",
         namespace: "seaweedfs",
-        secretFile: "packages/infra/seaweedfs/k8s/etcd-talosconfig.sops.yaml",
+        secretFile: "infra/seaweedfs/k8s/etcd-talosconfig.sops.yaml",
       }),
       dependsOn: ["seaweedfs-apply-namespace"],
     },

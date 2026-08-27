@@ -15,7 +15,7 @@ const archiveOfWorlds = workflow("archive-of-worlds-web", {
     kubectlApply({
       name: "archive-of-worlds-web-apply-deployment",
       namespace: "archive-of-worlds",
-      files: "packages/archive-of-worlds/web/deploy/k8s/generated/web-deployment.generated.yaml",
+      files: "archive-of-worlds/web/deploy/k8s/generated/web-deployment.generated.yaml",
       serverSide: true,
     }),
     {
@@ -24,7 +24,7 @@ const archiveOfWorlds = workflow("archive-of-worlds-web", {
         namespace: "archive-of-worlds",
         deployment: "web",
         sha: (ci) => ci.commitSha,
-        buildPackagePath: "packages/archive-of-worlds/web",
+        buildPackagePath: "archive-of-worlds/web",
         buildEnv: [{ name: "NEXT_PUBLIC_SUPABASE_COOKIE_DOMAIN", value: ".archiveofworlds.app" }],
       }),
       dependsOn: ["archive-of-worlds-web-apply-deployment"],
@@ -42,7 +42,7 @@ const archiveOfWorlds = workflow("archive-of-worlds-web", {
       commands: (ci) => [
         "set -e",
         `cd ${ci.workspace}`,
-        `bun ${ci.workspace}/packages/infra/scripts/src/set-app-live-version.ts --app archive-of-worlds-web --version "${ci.commitSha}"`,
+        `bun ${ci.workspace}/infra/scripts/src/set-app-live-version.ts --app archive-of-worlds-web --version "${ci.commitSha}"`,
       ],
       backendOptions: {
         kubernetes: { serviceAccountName: "pipeline-engine" },
