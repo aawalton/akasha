@@ -1,13 +1,13 @@
 export const tool = {
   summary: "Delete every log day older than the days a log is kept for",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { mkdtempSync, readdirSync, readFileSync, rmSync } from "node:fs"
 import { basename, join } from "node:path"
 import { stemOf as slugOf } from "../page/name/name"
 import { sidecarsOf } from "../page/sidecar/sidecar.ts"
-import { AKASHA, MEMORY, resolveRoots, rootFor } from "../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
 import { parseFrontmatter, textField } from "../page/frontmatter.ts"
 import { toolArgv } from "../tools/lib/tool-argv.ts"
 
@@ -29,10 +29,10 @@ ONE PAGE THAT CANNOT GO DOES NOT HOLD THE REST. The pages go in one call so they
 commit; where that call refuses, each is retried alone and every one still standing is named.
 
 NOTHING IS REMOVED WITHOUT --remove. The sweep reports by default, because what it takes away
-is a commit in another repository and seeing the list first costs one run.
+is a commit and seeing the list first costs one run.
 
 Usage:
-  bun ~/repos/instructions/services/sweep-log-days.ts [--remove] [--keep-days <n>]
+  bun ~/repos/akasha/services/sweep-log-days.ts [--remove] [--keep-days <n>]
 
   --remove          Take the log days away, through the gated removal.
   --keep-days <n>   Keep a log day this many days. Default ${String(7)}.
@@ -66,11 +66,11 @@ export function cutoffFrom(nowMs: number, keepDays: number): string {
   return new Date(nowMs - keepDays * DAY_MS).toISOString().slice(0, 10)
 }
 
-function daysIn(memory: string, type: string): readonly DayFacts[] {
+function daysIn(root: string, type: string): readonly DayFacts[] {
   const dir = `pages/${type}`
   let names: readonly string[]
   try {
-    names = readdirSync(join(memory, dir))
+    names = readdirSync(join(root, dir))
   } catch {
     return []
   }
@@ -80,7 +80,7 @@ function daysIn(memory: string, type: string): readonly DayFacts[] {
     const relPath = `${dir}/${name}`
     let text: string
     try {
-      text = readFileSync(join(memory, relPath), "utf8")
+      text = readFileSync(join(root, relPath), "utf8")
     } catch {
       continue
     }
@@ -91,14 +91,13 @@ function daysIn(memory: string, type: string): readonly DayFacts[] {
   return found
 }
 
-function removeSidecars(memory: string, relPath: string): void {
-  for (const one of sidecarsOf(memory, relPath)) rmSync(join(memory, one), { force: true })
+function removeSidecars(root: string, relPath: string): void {
+  for (const one of sidecarsOf(root, relPath)) rmSync(join(root, one), { force: true })
 }
 
 function removePages(
   relPaths: readonly string[],
-  memory: string,
-  akashaRoot: string
+  root: string
 ): { code: number; output: string } {
   const dir = mkdtempSync(join(SCRATCH, "sweep-log-days-"))
   const outPath = join(dir, "out.txt")
@@ -109,13 +108,13 @@ function removePages(
         ...toolArgv(
           "rm.ts",
           [
-            ...relPaths.map((one) => join(memory, one)),
+            ...relPaths.map((one) => join(root, one)),
             "--repo",
-            MEMORY,
+            AKASHA,
             "--message",
             `past the window a log is kept for, so ${relPaths.length === 1 ? "this log day goes" : "these log days go"}: ${relPaths.map((one) => slugOf(one)).join(", ")}`,
           ],
-          akashaRoot
+          root
         ),
       ],
       {
@@ -157,12 +156,11 @@ function main(argv: readonly string[]): number {
     return 1
   }
 
-  const roots = resolveRoots()
-  const memory = rootFor(roots, MEMORY)
+  const root = rootFor(resolveRoots(), AKASHA)
   const cutoff = cutoffFrom(Date.now(), keepDays)
 
   const standing: DayFacts[] = []
-  for (const type of DAY_TYPES) standing.push(...daysIn(memory, type))
+  for (const type of DAY_TYPES) standing.push(...daysIn(root, type))
   const rotate = standing.filter((one) => decideDay(one.date, cutoff) === "rotate")
 
   for (const one of rotate) process.stdout.write(`${one.name}\t${one.date}\n`)
@@ -183,19 +181,18 @@ function main(argv: readonly string[]): number {
   const taken: DayFacts[] = []
   const together = removePages(
     rotate.map((one) => one.relPath),
-    memory,
-    rootFor(roots, AKASHA)
+    root
   )
   if (together.code === 0) {
     taken.push(...rotate)
   } else {
     for (const one of rotate) {
-      const alone = removePages([one.relPath], memory, rootFor(roots, AKASHA))
+      const alone = removePages([one.relPath], root)
       if (alone.code === 0) taken.push(one)
       else held.push(`${one.name}: ${alone.output.trim().split("\n").slice(-1)[0] ?? "refused"}`)
     }
   }
-  for (const one of taken) removeSidecars(memory, one.relPath)
+  for (const one of taken) removeSidecars(root, one.relPath)
 
   process.stderr.write(
     `removed ${taken.length} of ${rotate.length} log day(s) older than ${cutoff}; ` +
