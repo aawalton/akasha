@@ -49,8 +49,6 @@ Settled with Alan on 2026-08-27, before any intent was written:
 
 **The index validity strategy, settled 2026-08-27.** The index updates as part of every change that runs through the ops tools, and no change runs outside them. One command checks an index for validity without changing it, and another rebuilds one. The check runs daily as an audit, and a gap it finds is traced to its root cause. Validity is never checked when the index is queried.
 
-**The formula language already carries the fallback the naming intents need.** `||` returns its left value where that value is truthy and its right otherwise, in both implementations, pinned against each other by the conformance suite. It is spelled `prop(slug) || prop(id)`, not `{slug} || {id}`, which is template notation.
-
 **The expression language is rebuilt rather than patched, settled 2026-08-27.** One implementation, written from scratch under `pages-system/`, ported from neither evaluator now running. It is designed against `domain/language-design` and written down before an evaluator exists. This supersedes the earlier ruling that the write path would call the file-side evaluator directly for now.
 
 **`unique-key` is a notation nothing implements.** No file-side code renders it, and four of the six stated values carry holes no naming regex can match, so nothing ever did. Removing it takes away a spelling rather than a behaviour.
@@ -61,16 +59,32 @@ Settled with Alan on 2026-08-27, before any intent was written:
 
 **The default name formula is `{slug} ?? {id}`, settled 2026-08-27.** No title arm: a title is not guaranteed to be a valid identifier. The 10,239 pages holding no slug take one from their filename instead, which is already a folded stem. Four are named by their id and stay so. Seven named by a case-carrying external identifier take a folded slug too, settled 2026-08-27: the identifier survives in `device-id` on a `device-secret` and in `token` on a `device-token`, so folding the filename loses nothing.
 
-**Three spellings were approved in conversation and never written to the spec, recovered 2026-08-27.** A case is written `case(`, its rows separated by commas, then `)`, with `->` between a row's test and its value, and the bare word `otherwise` as the last row's test. There is no `end`. Parentheses group. A call is `name(a, b)`. Their absence left the corpus author and the evaluator's builder each guessing a different spelling, which is what `Meaning Outside Code` exists to prevent. They belong on `formula-language`.
+**The syntax rulings reached the spec, 2026-08-27.** `formula-language` at `63ac1a5` now states the case form, the call spelling, parentheses grouping, and the short circuit. A case is `case(`, rows separated by commas, then `)`, with `->` between a row's test and its value and the bare word `otherwise` where the last row's test would be. There is no `end`.
 
-**The conformance corpus landed at `3a27d27`, 2026-08-27.** 267 cases at `pages-system/formula/cases/cases.ts`, written from the spec pages alone by an author who read neither evaluator now running nor the new one being built. 143 answer a value, 33 answer absent, 91 are refused, and none expects a run-time failure.
+**Operators short circuit, settled 2026-08-27.** An operator that can answer from its left side alone does not work out its right. With no `||` in the language that is three situations: `false && x`, `absent && x`, and `x ?? y` where `x` is present. This is a semantic ruling rather than a safety one — the language is total, so nothing on the right can fail. `formula-absent-value` at `aadcc10` was reworded from "An operator **given** an absent value answers absent" to "**reaches**", which reconciles the short circuit with absence propagation instead of adding a fourth exception.
+
+**The conformance corpus landed at `3a27d27` and was re-spelled at `fa256a9`, 2026-08-27.** 267 cases at `pages-system/formula/cases/cases.ts`, written from the spec pages alone by an author who read neither evaluator now running nor the new one being built. 143 answer a value, 33 answer absent, 91 are refused, and none expects a run-time failure. Its author and the evaluator's builder, working blind to each other from the same page, produced two different case forms — which is what a specification naming a part without spelling it costs, and only mutual blindness exposed it.
 
 **The formula package answers to the repo's folder and export checks.** `folder-matches-a-shape` admits three shapes and judges each subfolder separately, `export-declared-here` refuses a barrel, `import-reach` refuses an import resolving outside the repo, and `file-length` cuts at 15,000 bytes. A test sits beside the file it tests, named for it, suffixed `.unit.test.ts`. A whole-suite `bun test` is refused; one file is named by path. `folder-matches-a-shape` does not run on a patch, so a tree that fails it lands quietly and surfaces only under `ops akasha run-checks`.
 
+**Three answers the written principles force, found 2026-08-27 and awaiting their spec lines.** Each was derived twice, independently, from the same cited line.
+
+- `-` and `/` are left-associative, by `language-syntax`'s "Take the reading a stranger would give it."
+- A function that reaches an absent value answers absent, by `language-failure`'s "Let one absent value stop the whole answer," which is stated of absent values rather than of operators.
+- A text literal answers absent where any reference in it is absent, by the same aid under "Refuse Not Convert". This makes the defect that started the redesign unreachable rather than caught: no name is built at all, so no well-formed wrong name can appear. It is caught at run time rather than at check time, which is the weaker of the two moments under "Caught Early".
+
+**Six choices the written principles do not settle, found 2026-08-27.** Each needs Alan.
+
+- Whether a number literal may carry a leading `-`. There is no unary minus operator and the operators list is closed, so otherwise `-1` is written `0 - 1`.
+- Whether `<`, `<=`, `>` and `>=` reach text or only numbers. They do not reach instants. `+` names its type and `<` does not, which may be deliberate silence.
+- Whether `hasWord` folds case, and what besides a space bounds a word. The language being replaced was case-insensitive, and only the whole-word gap was ever recorded as a lack.
+- Whether `hoursBetween(later, earlier)` is negative or a magnitude. Since an instant is barred from the operators, this function is the only route to "is a after b", and a magnitude closes it.
+- Whether a formula may answer an instant or a list, and whether a computed property declares a type its formula must meet. The second is the difference between refusing a bad `name` formula when the page type is checked and discovering it when a page is written.
+- Whether a number or a boolean may be filled into a text literal. This is a wall rather than a detour: a text literal is the only way to join text and there is no `text` function, so text-only means no formula can ever put a number in a name.
+
 **Loose ends, found 2026-08-27.** Taken as they block an intent or come up alongside one.
 
-- Seventeen hyphenated holes, over twenty-three occurrences, parse as subtraction rather than as references unless every one is spelled `prop(...)`.
-- A template refuses a write whose hole nothing fills; a formula renders that gap as nothing and answers a name that looks right. Eleven page types name pages from more than one part, and only those are exposed.
+- Seventeen hyphenated holes, over twenty-three occurrences, parse as subtraction rather than as references unless every one is spelled `prop(...)`. The new language ends this, references being braced.
 - Twenty-five pages carry a stem cut at the old ceiling of 71, so their rule now fills to more than their filename holds.
 - `ops food log` names its own pages: its own stemmer at `tools/commands/food/log.ts:123`, its own `-2` suffix at `:146`, and a write through the query client rather than the naming path.
 - `vocabulary` and `rows-homes` are cached under a mark taken over the page shape alone, while both read the registry, which reads the index. Only `registry` carries an index stamp.
