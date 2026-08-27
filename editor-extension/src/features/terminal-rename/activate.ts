@@ -26,6 +26,24 @@ import { lastAppliedByTerminal, lastColorByTerminal } from './terminal-marks';
 /** This feature's name in the observation record, and in `extension.ts`'s list. */
 const FEATURE = 'terminal-rename';
 
+/**
+ * The floor under the watchers, in milliseconds.
+ *
+ * WITHOUT THIS THE FEATURE HAS NO PULSE OF ITS OWN. Naming runs on file-watcher events and on
+ * focus, so a watcher that stops delivering leaves every tab holding the name its last sweep
+ * applied, and no later event puts it right. Every other seat surface polls and heals itself on
+ * its next tick; this is what gives this one the same floor.
+ *
+ * A SECOND, RATHER THAN THE TAB STRIP'S TEN. A sweep is a pid read and a `ps` snapshot, both
+ * under a millisecond, and one call to the turn-colour verb at 30ms — about three hundredths of
+ * a core. What it buys is that a name that has gone wrong is wrong for a second, which is too
+ * short to be acted on.
+ *
+ * THE WATCHERS ARE STILL THE FAST PATH and this replaces none of them. An event sweeps at once;
+ * this bounds only how long a MISSED event goes on being wrong.
+ */
+const POLL_INTERVAL_MS = 1_000;
+
 let output: vscode.OutputChannel;
 
 export async function activate(context: vscode.ExtensionContext): Promise<void> {
@@ -39,6 +57,10 @@ export async function activate(context: vscode.ExtensionContext): Promise<void> 
 	// watchers are registered, so no future change to what a sweep does can put
 	// this feature's activation back on the critical path.
 	void syncAll('activate');
+
+	// LAID BEFORE THE WATCHERS, because a watcher that never starts is one of the cases this
+	// covers, and a floor that goes down only after they succeed is not a floor.
+	const timer = setInterval(() => void syncAll('poll'), POLL_INTERVAL_MS);
 
 	// THE SEAT PAGES ARE THE STORE THIS FEATURE FOLLOWS. A hook writes a seat's turn state into the
 	// sidecar beside its page every time a turn starts or ends — which is exactly the moment a tab
@@ -75,6 +97,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<void> 
 		)
 	);
 	context.subscriptions.push(
+		{ dispose: () => clearInterval(timer) },
 		...sidecarWatchers.flatMap((seats) => [
 			seats,
 			seats.onDidChange(() => void syncAll('seat')),
