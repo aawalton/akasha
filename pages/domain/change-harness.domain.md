@@ -12,6 +12,7 @@ required-reading-slugs:
 persona-champion-slug: dalla
 sequence-slugs:
   - domain/change-harness-definitions
+  - page-type/patch
   - domain/checks-system
   - domain/change-harness-workstation
   - domain/change-harness-cluster
