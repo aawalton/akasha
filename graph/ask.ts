@@ -1,4 +1,3 @@
-import fileNameEdgeProducer from "./edge-producer/file-name/file-name.graph-edge-producer.code.attachment.ts"
 import frontmatterEdgeProducer from "./edge-producer/frontmatter/frontmatter.graph-edge-producer.code.attachment.ts"
 import loaderEdgeProducer from "./edge-producer/loader/loader.graph-edge-producer.code.attachment.ts"
 import typescriptEdgeProducer from "./edge-producer/typescript/typescript.graph-edge-producer.code.attachment.ts"
@@ -9,7 +8,6 @@ import type { NodeRef } from "./node-producer/node-shape.ts"
 
 export const EDGE_PRODUCERS: readonly EdgeProducer[] = [
   frontmatterEdgeProducer,
-  fileNameEdgeProducer,
   typescriptEdgeProducer,
   loaderEdgeProducer,
 ]
