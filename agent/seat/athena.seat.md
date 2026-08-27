@@ -7,5 +7,6 @@ domain-slug: agent-harness
 role-slug: definer
 person-slug: alan
 start-mode: interactive
+on-call: true
 registration-account: aawalton
 ---
