@@ -12,14 +12,14 @@ The token sort behind the `an` front reads a bare persona name as a domain, so n
 
 # Evidence
 
-Measured 2026-08-04.
+Re-measured 2026-08-27 in `/var/home/walton/repos/akasha`.
 
-`bun ~/instructions/tools/seat.ts --resolve --token athena --token lead` answers `domain=athena role=lead`.
+`bun tools/seat.ts --resolve --token athena --token definer` answers `domain=athena` and `role=definer`. (`lead`, the role the first reading used, has since been retired; `definer` is a live one.)
 
-Both readings are defensible on their own. `personas/athena.md` declares `domain-slug: athena`, so `athena` is a real entry in the domain vocabulary, and the sort matched it there and stopped. It also declares `championed-domain: agent-harness`, which is what the persona actually works in.
+Both readings are defensible on their own. `athena` is a real entry in the domain vocabulary and the sort matched it there and stopped. `alan/persona/athena.persona.md:16` declares `championed-domain-slug: agent-harness`, which is what the persona actually works in.
 
-The front picks the wrong one of the two: `an athena lead` pins domain `athena` and loads the persona document as the domain document. Alan typed a persona and got a place.
+The front picks the wrong one of the two: naming the persona and a role pins domain `athena` and loads the persona document as the domain document. Alan typed a persona and got a place.
 
-Persona is the one axis the sort never emits. `--resolve --token sophia` answers `domain=sophia` alone, so a single persona token resolves to a domain and to nothing else.
+Persona is the one axis the sort never emits. `bun tools/seat.ts --resolve --token sophia` answers `domain=sophia` alone, so a single persona token resolves to a domain and to nothing else.
 
 Not verified: whether any other caller reads the sort's `domain=`, and whether a persona's own `domain-slug:` is wanted in the domain vocabulary at all.
