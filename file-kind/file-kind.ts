@@ -1,5 +1,5 @@
 import { posix } from "node:path"
-import { SOPS_CONFIG_BASENAME } from "./sops-config-file/types.ts"
+import { SOPS_CONFIG_BASENAME } from "../tools/lib/graph/producers/file/sops-config-file/types.ts"
 
 export type FileKind =
   | "ts"

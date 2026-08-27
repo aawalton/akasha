@@ -1,4 +1,4 @@
-import { classifyExtension, type FileKind } from "../graph/producers/file/file-kind.ts"
+import { classifyExtension, type FileKind } from "../../../file-kind/file-kind.ts"
 import type { PopulationEntry, ScopedPopulation } from "../graph/queries/membership.ts"
 
 export interface PopulationSeedSubject {

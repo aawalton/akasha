@@ -6,7 +6,7 @@ import {
 import {
   classifyExtension,
   type FileKind,
-} from "../../../../tools/lib/graph/producers/file/file-kind.ts"
+} from "../../../../file-kind/file-kind.ts"
 
 export interface PopulationSeedSubject {
   readonly name: string

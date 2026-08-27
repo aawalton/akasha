@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import { classifyExtension } from "../../../../tools/lib/graph/producers/file/file-kind.ts"
+import { classifyExtension } from "../../../../file-kind/file-kind.ts"
 import { repoFilesAt } from "../../../../tools/lib/repo-files-at.ts"
 import { alanwaltonIosSeamFiles, readAlanwaltonIosSeam } from "../lib/alanwalton-ios-seam.ts"
 import {

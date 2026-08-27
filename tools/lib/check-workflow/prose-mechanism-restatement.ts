@@ -1,4 +1,4 @@
-import { classifyExtension, type FileKind } from "../graph/producers/file/file-kind.ts"
+import { classifyExtension, type FileKind } from "../../../file-kind/file-kind.ts"
 import { FILE_KIND_FACTS, type FileKindNodeType } from "../graph/producers/file/file-kind-authorship.ts"
 import { blankCode, type CommentSyntax } from "./blank-comments.ts"
 

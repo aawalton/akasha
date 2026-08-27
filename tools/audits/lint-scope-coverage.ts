@@ -12,7 +12,7 @@ import { STATIC_CHECKS } from "../../infra/cluster-checks/src/lib/check-configs.
 import { repoFilesAt } from "../lib/repo-files-at.ts"
 import { CSS_FILE_NODE_TYPE } from "../lib/graph/producers/file/css-file/types.ts"
 import { DOCKERFILE_FILE_NODE_TYPE } from "../lib/graph/producers/file/dockerfile-file/types.ts"
-import { classifyExtension, type FileKind } from "../lib/graph/producers/file/file-kind.ts"
+import { classifyExtension, type FileKind } from "../../file-kind/file-kind.ts"
 import { JS_FILE_NODE_TYPE, JSX_FILE_NODE_TYPE } from "../lib/graph/producers/file/js-file/types.ts"
 import { JSON_FILE_NODE_TYPE } from "../lib/graph/producers/file/json-file/types.ts"
 import { LOCK_FILE_NODE_TYPE } from "../lib/graph/producers/file/lock-file/types.ts"
@@ -188,7 +188,7 @@ export const lintScopeCoverage: Check = (repo) => {
         return (
           `no file kind carries this extension, so no graph node stands for it and the CI \`${LINT}\` ` +
           `check can never be woken by one — ${where}. Three changes close it: have ` +
-          `\`classifyExtension\` in \`tools/lib/graph/producers/file/file-kind.ts\` return a kind for ` +
+          `\`classifyExtension\` in \`file-kind/file-kind.ts\` return a kind for ` +
           `this extension, have the file producer emit a node type for that kind, then add the node ` +
           `type to the \`${LINT}\` check's \`dispatchNodeTypes\`.`
         )
