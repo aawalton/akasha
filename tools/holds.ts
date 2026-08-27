@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Answer which of the needles asked for appear in which of the paths asked about",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { readFileSync } from "node:fs"
@@ -41,10 +41,10 @@ not define — never an empty \`found\`, which would say the file holds none of 
 
 Usage:
   bun tools/holds.ts --json < request.json
-  ops instructions holds --json < request.json
+  ops akasha holds --json < request.json
 
 Environment:
-  INSTRUCTIONS_ROOT  Which checkout the paths are taken against. Defaults to this file's own repo.
+  AKASHA_ROOT  Which checkout the paths are taken against. Defaults to this file's own repo.
 
 Exit codes:
   0  every path was read and answered for

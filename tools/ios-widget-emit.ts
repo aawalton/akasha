@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Emit an iOS widget's Swift from its document, and compare it against the Swift standing in the code repository",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
@@ -20,7 +20,7 @@ function fail(message: string): never {
 }
 
 const HELP = [
-  "bun ~/repos/instructions/tools/ios-widget-emit.ts — one iOS widget's Swift, from its document",
+  "bun ~/repos/akasha/tools/ios-widget-emit.ts — one iOS widget's Swift, from its document",
   "",
   "Reads the `ios-widget` document named, and nothing but what that document names: its app for",
   "the extension directory, its readout display for the groups drawn, each group's readouts for",
@@ -36,7 +36,7 @@ const HELP = [
   "by name rather than emitted wrong; the strip and grid forms are not written yet.",
   "",
   "Usage:",
-  "  bun ~/repos/instructions/tools/ios-widget-emit.ts <widget-slug>... [--diff] [--write]",
+  "  bun ~/repos/akasha/tools/ios-widget-emit.ts <widget-slug>... [--diff] [--write]",
   "",
   "  <widget-slug>  an `ios-widget` document under `domains/ios-widgets/`, by slug; several are",
   "                 read in one act. There is no emit-everything form: a widget this cannot yet",
