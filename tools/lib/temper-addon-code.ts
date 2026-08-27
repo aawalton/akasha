@@ -4,11 +4,12 @@ import {
   type ResolveOpts,
   resolveAddon,
 } from "@temper/shared-build-deploy-addons-resolve"
-import { collectGlobalWritesFromSource } from "@temper/shared-build-deploy-checks/addon-global-ownership"
 
 export type { AddonInfo }
 
 export type AddonResolveOpts = ResolveOpts
+
+type AddonGlobalOwnershipModule = typeof import("@temper/shared-build-deploy-checks/addon-global-ownership")
 
 interface AddonsResolve {
   readonly listAllAddons: typeof listAllAddons
@@ -16,13 +17,16 @@ interface AddonsResolve {
 }
 
 interface AddonGlobalOwnership {
-  readonly collectGlobalWritesFromSource: typeof collectGlobalWritesFromSource
+  readonly collectGlobalWritesFromSource: AddonGlobalOwnershipModule["collectGlobalWritesFromSource"]
 }
 
 export function addonsResolve(_root?: string): Promise<AddonsResolve> {
   return Promise.resolve({ listAllAddons, resolveAddon })
 }
 
+// Ownership parses TypeScript with the compiler itself, and loading it costs
+// every `temper addon` invocation about 110ms. Only `temper addon
+// global-name-dependents` reads ownership, so the import stays dynamic.
 export function addonGlobalOwnership(_root?: string): Promise<AddonGlobalOwnership> {
-  return Promise.resolve({ collectGlobalWritesFromSource })
+  return import("@temper/shared-build-deploy-checks/addon-global-ownership")
 }
