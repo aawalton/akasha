@@ -1,0 +1,1 @@
+reader-restore-reveal-timeout: virtualizer measurements did not quiesce before the bounded reveal gate; revealed anyway

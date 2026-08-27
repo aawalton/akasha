@@ -1,0 +1,165 @@
+Error: [
+  {
+    "code": "invalid_union",
+    "errors": [
+      [
+        {
+          "expected": "string",
+          "code": "invalid_type",
+          "path": [],
+          "message": "Invalid input"
+        }
+      ],
+      [
+        {
+          "expected": "number",
+          "code": "invalid_type",
+          "path": [],
+          "message": "Invalid input"
+        }
+      ],
+      [
+        {
+          "expected": "boolean",
+          "code": "invalid_type",
+          "path": [],
+          "message": "Invalid input"
+        }
+      ],
+      [
+        {
+          "expected": "null",
+          "code": "invalid_type",
+          "path": [],
+          "message": "Invalid input"
+        }
+      ],
+      [
+        {
+          "code": "invalid_union",
+          "errors": [
+            [
+              {
+                "expected": "string",
+                "code": "invalid_type",
+                "path": [],
+                "message": "Invalid input"
+              }
+            ],
+            [
+              {
+                "expected": "number",
+                "code": "invalid_type",
+                "path": [],
+                "message": "Invalid input"
+              }
+            ],
+            [
+              {
+                "expected": "boolean",
+                "code": "invalid_type",
+                "path": [],
+                "message": "Invalid input"
+              }
+            ],
+            [
+              {
+                "expected": "null",
+                "code": "invalid_type",
+                "path": [],
+                "message": "Invalid input"
+              }
+            ],
+            [
+              {
+                "expected": "array",
+                "code": "invalid_type",
+                "path": [],
+                "message": "Invalid input"
+              }
+            ],
+            [
+              {
+                "code": "invalid_union",
+                "errors": [
+                  [
+                    {
+                      "expected": "string",
+                      "code": "invalid_type",
+                      "path": [],
+                      "message": "Invalid input"
+                    }
+                  ],
+                  [
+                    {
+                      "expected": "number",
+                      "code": "invalid_type",
+                      "path": [],
+                      "message": "Invalid input"
+                    }
+                  ],
+                  [
+                    {
+                      "expected": "boolean",
+                      "code": "invalid_type",
+                      "path": [],
+                      "message": "Invalid input"
+                    }
+                  ],
+                  [
+                    {
+                      "expected": "null",
+                      "code": "invalid_type",
+                      "path": [],
+                      "message": "Invalid input"
+                    }
+                  ],
+                  [
+                    {
+                      "expected": "array",
+                      "code": "invalid_type",
+                      "path": [],
+                      "message": "Invalid input"
+                    }
+                  ],
+                  [
+                    {
+                      "expected": "record",
+                      "code": "invalid_type",
+                      "path": [],
+                      "message": "Invalid input"
+                    }
+                  ]
+                ],
+                "path": [
+                  "value"
+                ],
+                "message": "Invalid input"
+              }
+            ]
+          ],
+          "path": [
+            0
+          ],
+          "message": "Invalid input"
+        }
+      ],
+      [
+        {
+          "expected": "record",
+          "code": "invalid_type",
+          "path": [],
+          "message": "Invalid input"
+        }
+      ]
+    ],
+    "path": [
+      0,
+      "patchAttributesPatch",
+      1,
+      "value"
+    ],
+    "message": "Invalid input"
+  }
+]
+    at BroadcastChannel.<anonymous> (https://alanwalton.com/assets/src-DSO_MBEx.js:8:402177)
