@@ -94,7 +94,7 @@ function readSeatStanding(request: Request): Standing {
     return outcome(
       "unstated",
       "this seat states nothing, so there is nothing to read — " +
-        "`bun ~/repos/instructions/tools/seat.ts` is what records what a seat is, and its `--help` says what it takes"
+        "`ops akasha seat` is what records what a seat is, and its `--help` says what it takes"
     )
   }
   if (!recordStands(request.agent)) {
@@ -177,7 +177,7 @@ function readSeatStanding(request: Request): Standing {
       "unresolvable",
       `this seat states ${slots} statement(s) and ${gone.length} of the document(s) they name are ` +
         `no longer there (${gone.join("; ")}) — nothing this agent may do while refused would restore them, ` +
-        `so THIS GUARANTEE IS ABSENT for it until they are stated again with \`bun ~/repos/instructions/tools/seat.ts\``
+        `so THIS GUARANTEE IS ABSENT for it until they are stated again with \`ops akasha seat\``
     )
   }
   if (unread.length === 0 && moved.length === 0) {
