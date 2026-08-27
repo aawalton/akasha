@@ -4,12 +4,14 @@ import { readdir } from "node:fs/promises"
 import { homedir } from "node:os"
 import { join } from "node:path"
 import type { CommandHelp } from "../../ops/surface.ts"
+import {
+  buildPendingReport,
+  type PendingReport,
+} from "../../../alan/persona/pending-report/pending-report.ts"
+import { FAITH_LEARN_DAILY_LADDER } from "../../../readouts/ring/ladder/ladder.ts"
 import { booksRoot } from "../../lib/book-of-everything-root.ts"
-import { codeModule } from "../../lib/code-import.ts"
 import { operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-
-const PERSONAS_CORE = "@alanwalton/personas-core"
 
 export const help: CommandHelp = {
   flags: [
@@ -25,20 +27,6 @@ export const help: CommandHelp = {
   examples: ["ops ali pending", "ops ali pending --json"],
 }
 
-interface PendingReport {
-  readonly pendingPoints: number
-  readonly dailyTier: string
-  readonly nextTier: string | null
-  readonly pointsToNextTier: number | null
-  readonly currentLevel: number
-  readonly currentStage: string
-  readonly currentPercentProgress: number
-  readonly currentNextWallpaperDeficit: number
-  readonly projectedLevel: number
-  readonly projectedPercentProgress: number
-  readonly projectedNextWallpaperDeficit: number
-}
-
 interface NetBytesPoints {
   readonly LEARN_BOOKS_PREFIX: string
   readonly resolveLandedBase: (repoRoot: string) => Promise<string>
@@ -52,16 +40,6 @@ interface NetBytesPoints {
     pathPrefixes: string,
     ref?: string
   ) => Promise<number>
-}
-
-interface PersonasCore {
-  readonly buildPendingReport: (input: {
-    readonly pendingPoints: number
-    readonly landedPoints: number
-    readonly wallpaperCount: number
-    readonly ladder: unknown
-  }) => PendingReport
-  readonly FAITH_LEARN_DAILY_LADDER: unknown
 }
 
 function isEnoent(e: unknown): boolean {
@@ -111,7 +89,6 @@ export default async function aliPending(args: readonly string[]): Promise<void>
   const json = parsed.boolean("--json")
 
   const netBytes: NetBytesPoints = await import("../../lib/daily-tracking/net-bytes-points.ts")
-  const personas = await codeModule<PersonasCore>(PERSONAS_CORE)
 
   let report: PendingReport
   try {
@@ -122,11 +99,11 @@ export default async function aliPending(args: readonly string[]): Promise<void>
       netBytes.readNetBytesCumulative(repoRoot, netBytes.LEARN_BOOKS_PREFIX, base),
       readWallpaperCount(),
     ])
-    report = personas.buildPendingReport({
+    report = buildPendingReport({
       pendingPoints,
       landedPoints,
       wallpaperCount,
-      ladder: personas.FAITH_LEARN_DAILY_LADDER,
+      ladder: FAITH_LEARN_DAILY_LADDER,
     })
   } catch (e) {
     throw operationalError(e instanceof Error ? e.message : String(e))
