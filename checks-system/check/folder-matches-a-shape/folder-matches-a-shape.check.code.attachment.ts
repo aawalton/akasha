@@ -41,13 +41,13 @@ function running(keys: readonly string[]): readonly string[] {
 }
 
 /**
- * SINGLE CODE ENTRY — one code file in the folder is imported from outside it, and no other code
+ * SINGLE ENTRANCE — one code file in the folder is imported from outside it, and no other code
  * file anywhere beneath the folder is. `deep` is every code file under a subfolder, so a door
  * one level down disqualifies the folder as surely as a second door beside the first. A type
  * declaration file counts as neither the entry nor a second one.
  */
-function singleCodeEntry(folder: string, one: Held, enters: Enters): Verdict {
-  const shape = "single-code-entry"
+function singleEntrance(folder: string, one: Held, enters: Enters): Verdict {
+  const shape = "single-entrance"
   const here = running(one.code)
   const beneath = running(one.deep)
   const doors = here.filter((key) => enters(folder, key))
@@ -134,7 +134,7 @@ export const folderMatchesAShape = {
     for (const folder of [...held.keys()].sort()) {
       const one = held.get(folder) as Held
       if (one.files.length === 0) continue
-      const verdicts = [singleCodeEntry(folder, one, enters), pagesOfOneType(folder, one, types)]
+      const verdicts = [singleEntrance(folder, one, enters), pagesOfOneType(folder, one, types)]
       if (verdicts.some((each) => each.ok)) continue
       const [near, far] = [...verdicts].sort((a, b) => a.off - b.off) as [Verdict, Verdict]
       failures.push({
