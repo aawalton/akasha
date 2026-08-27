@@ -6,7 +6,7 @@ export {
 export { GREEN_DAY_POINTS_FIELD } from "@alanwalton/personas-core/green-day-fraction"
 export { PERSONA_POINTS_SOURCE_COHERENCE_RULES } from "@alanwalton/personas-core/points-source-coherence"
 export { decideTotalPointsWrite } from "@alanwalton/personas-core/totals"
-export { evaluateCoherenceRules } from "@shared/pages-core"
+export { evaluateCoherenceRules } from "@shared/pages-core/schema/coherence-rules"
 export { askNamed, patchPage } from "@shared/pages-query"
 export { askComposed } from "@shared/pages-query/ask"
 export { getEsoDayStr, getEsoDayStrOffset, getEsoDayWindow } from "@shared/recurrence/reset-times"
