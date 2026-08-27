@@ -12,7 +12,3 @@ settled: true
 # Definition
 
 - **File suffix** — what a file's name splits into at its periods, after the first.
-
-# Design
-
-A file's last suffix gives its file kind.

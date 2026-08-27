@@ -11,4 +11,4 @@ settled: true
 
 # Definition
 
-- **File kind** — what a file suffix says a file is.
+- **File kind** — what a file's name says a file is.

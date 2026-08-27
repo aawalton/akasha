@@ -13,7 +13,3 @@ settled: true
 # Definition
 
 - **File extension** — the last file suffix in a file's name.
-
-# Design
-
-The file kind a file extension gives is the file's format.
