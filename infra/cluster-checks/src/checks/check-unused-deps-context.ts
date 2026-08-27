@@ -13,7 +13,7 @@ import {
   type PkgDependsKind,
 } from "../../../../tools/lib/graph/producers/package/types.ts"
 import type { Graph, Node } from "../../../../tools/lib/graph/types.ts"
-import { CODE, resolveRoots, rootFor } from "../../../../repo/roots/roots"
+import { codeRoot } from "../../../../tools/lib/code-root.ts"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
 import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
 import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
@@ -50,18 +50,18 @@ function patchedDepNameFromKey(key: string): string {
   return key.slice(0, at)
 }
 
-export function readPatchedDeps(codeRoot: string, treeSha: string): ReadonlySet<string> {
+export function readPatchedDeps(root: string, treeSha: string): ReadonlySet<string> {
   const at = `${treeSha}:package.json`
   let raw: string
   try {
-    raw = execFileSync("git", ["-C", codeRoot, "show", at], {
+    raw = execFileSync("git", ["-C", root, "show", at], {
       encoding: "utf-8",
       timeout: GIT_CEILING_MS,
       stdio: ["ignore", "pipe", "pipe"],
     })
   } catch (err) {
     throw new Error(
-      `could not read ${at} in ${codeRoot} within ${GIT_CEILING_MS}ms, and the root manifest is ` +
+      `could not read ${at} in ${root} within ${GIT_CEILING_MS}ms, and the root manifest is ` +
         `the only place \`patchedDependencies\` stands — the package graph carries no such attribute: ${errorMessage(err)}`
     )
   }
@@ -162,7 +162,7 @@ export function computeTransitiveClosure(
 }
 
 export async function loadRepoContext(args: CliArgs): Promise<RepoContext> {
-  const codeRoot = rootFor(resolveRoots(), CODE)
+  const root = codeRoot()
   const graph = await buildFrom(readAt(args.treeSha).ctx)
 
   const { population, violations: workspaces } = examinePopulation<Node, WorkspaceInfo>({
@@ -171,7 +171,7 @@ export async function loadRepoContext(args: CliArgs): Promise<RepoContext> {
     labelOf: (node) => node.id,
     siteOf: (node) => {
       const attrs = PackageAttrsSchema.safeParse(node.attrs)
-      return attrs.success ? resolve(codeRoot, attrs.data.path, "package.json") : null
+      return attrs.success ? resolve(root, attrs.data.path, "package.json") : null
     },
     examine: (node) => [workspaceInfoOf(graph, node)],
     membership: {
@@ -183,12 +183,12 @@ export async function loadRepoContext(args: CliArgs): Promise<RepoContext> {
   })
 
   return {
-    codeRoot,
+    codeRoot: root,
     treeSha: args.treeSha,
     workspaces,
     wsByName: indexWorkspacesByName(workspaces),
     closure: computeTransitiveClosure(workspaces),
-    patchedDeps: readPatchedDeps(codeRoot, args.treeSha),
+    patchedDeps: readPatchedDeps(root, args.treeSha),
     usageByRoot: usageByWorkspace(graph, workspaces),
     graph,
     population,
