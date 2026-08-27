@@ -1,0 +1,147 @@
+---
+id: e527e550-fb63-5d87-b902-26b1188218a0
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 22"
+slug: 0323-b5-chapter-22
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 323
+ownLength: 1494
+unit: words
+ownProgress: 1494
+publishedAt: 2025-12-07
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2827660/b5-chapter-22"
+royalRoadId: "2827660"
+markedReadAt: "2026-06-29T19:16:48.439Z"
+---
+
+Within the Scarlet CrucibleBefore Isabella shows up to see Aria
+
+Isabella de la Vega, the most powerful mage in the entire universe with the exception of death magic. She has always prided herself on her power and her talent in magic. In how many spells she has created over the years, and how she’s led her nation to the point it’s at now.
+
+But during all those years, she made a mistake. One she didn’t realize was a mistake until it was too late.
+
+And now she’s paying for it. As she moves through the Scarlet Crucible – home to one of her natural enemies, a Horseman of the Apocalypse – in the body of one of her clones.
+
+The last one of her clones.
+
+To top that off, the clone only has a small fraction of her real body’s power. Just about ten percent of it at most.
+
+And her real body is dead with no way to come back.
+
+She’s even stuck moving around with a disguise on her body. One she may never be able to remove due to how thorough the disguise is, just to avoid being caught by Famine.
+
+Then, as if the cherry on top of all this, the oath she swore to her mana finally activated when she gave up targeting the Horsemen of the Apocalypse at last. All because of despair that she wouldn’t be able to harm them even if she tried.
+
+Officially cutting her mana supply down as well.
+
+So now Isabella is weaker than some of her mid-ranking subordinates, is stuck in an unfamiliar body, no longer has her own nation in her control as they’ve already chosen a new Archmage, and is all alone.
+
+It’s gotten so bad that Isabella has finally come to a decision about her next actions. One that wasn’t easy for her to reach.
+
+And that decision is to bribe the Horseman of Death to help her out.
+
+But no matter how hard she tries, she just can’t seem to find the Horseman in a place that’s not being watched.
+
+Until the Horseman finally enters one of the Hunter’s Spots on the Scarlet Crucible.
+
+I can’t believe I’m doing this…
+
+Isabella grits her teeth before taking in a deep breath. Only to be briefly shocked when the Horseman of Death lets out her massive aura of death all across the Hunter’s Spot around her, literally making a few of the mages nearby pass out alongside numerous mana-sensitive mana creatures.
+
+But the woman herself doesn’t appear to have any knowledge of that as she lazes away on a lounge chair while her Death Spirits slaughter the mana creatures near her.
+
+If I can’t stand up to a Horseman myself, I just need to align myself with one to defend myself from the others.
+
+She takes one more deep breath before appearing in front of Aria. Only to be shocked when she sees recognition in the woman’s gaze right away.
+
+“What do you want Isabella?” the Horseman of Death asks, clearly seeing through her disguise at a glance.
+
+Shit. I hope she’s only able to do that because she’s Death. It would ruin everything if the other Horsemen can do the same thing.
+
+She mentally shakes her head at that thought, deciding to dislodge it as she focuses on the current matter at hand.
+
+Bribing the Horseman of Death.
+
+Aria
+
+I really wasn’t expecting Isabella to show up. Both because she was supposed to be, well, dead, and because she hates me.
+
+Mostly the former though. Because yeah.
+
+Wasn’t exactly expecting her to show up after that.
+
+I guess War let her live so long as he could kill her real body and get that skill from her? Whatever skill he took.
+
+Actually, I’m rather curious about what skill he took from her. But that’s not really my business at the end of the day, so…
+
+“I have a proposition for you, Death,” Isabella declares, making me raise a brow without getting up from my lawn chair. I just continue lying here with my arms behind my head.
+
+Is she really asking me for help? In that far weaker body of hers?
+
+Even if she’s still a good chunk stronger than me, she’s still nowhere near the level of even my own bodyguards assigned by the Crimson Empire, much less one of the other Grands at this point. So what’s she even expecting from me?
+
+And why would I bother listening-
+
+“I am willing to offer you no small amount of my personal weapons factories all across the universe, including many people don’t know exist,” Isabella says, making me blink for a moment. Only for her to continue, “I will also transfer several billions in both explosives and pure liquid assets.”
+
+I can’t help but keep my brow raised as I ask, “Do you really think you can buy me so easily?”
+
+She looks surprised and answers, “Yes. Can’t I?”
+
+I stare at her for several seconds before stating, “Add in a clause about you conducting research for me to make better explosives and we might have a deal. But not before you tell me what it is you want.”
+
+“All I want is to join under your banner as a subordinate of yours,” Isabella declares, further surprising me as she stares directly into my eyes without blinking. Almost like she’s desperate for this to work. Which is enough – along with her bribe – to make me sit up a little on my lawn chair. “Please grant me your protection from War and Famine. That’s all I ask.”
+
+Several more seconds pass in silence before I eventually lie back down while answering, “Sure. Please send the paperwork to my second in charge.”
+
+“Thank you, Aria,” Isabella states with a bow in the corner of my eye. But I’ve largely disregarded her presence at this point.
+
+Mostly because my mind is entirely focused on those explosives and explosive factories.
+
+I should bring some over here to set up all around the battlefield. That should get me a lot of progress in my purpose. Just setting up explosives all over this place.
+
+Although I might need to talk to War to get him to keep others from coming in.
+
+Unless they want to be blown up by my explosives. Which would be rather odd, but I’m not one to judge.
+
+Everyone has their own oddities after all. Except me. Because I’m perfectly normal.
+
+Anyways, I’ll just let Little Blue deal with everything like always. She enjoys it after all.
+
+Probably.
+
+I sense Isabella’s soul departing, no doubt to go find Little Blue. So I go ahead and tell Little Blue about what just happened.
+
+She can probably fleece out more explosives from her after all. And more explosives are always great.
+
+On another note, I’m rather surprised that War actually let her go free. Considering how much trouble she could potentially cause him in the future.
+
+Not just that though, but also the fact that he even helped her get away from Famine.
+
+Although, on second thought, I guess it makes some sense that he’d help her. He does need her to agree to the duel after all.
+
+And when I think about it, the live broadcast was just a part of his skill. Not something he purposefully did for her. So he kind of helped her out on accident there.
+
+Plus the entire reason he chased after her in the first place was for that duel.
+
+Now that he’s gotten what he wanted from her, he probably doesn’t care about her anymore.
+
+Well, regardless of how it ended up this way, I’m just happy I can get more free explosives.
+
+I stare up at the sky as my Death Spirits continue their massacre of the mana creatures for a while. Then I eventually send Little Blue a note about adding wine to what she should get out of Isabella.
+
+Maybe some distilleries too at that.
+
+I’ve had a lot of the wine they have here in the Scarlet Crucible, but if I’m being honest, it’s not the best. Which makes sense considering that they specialize in beer and rum here. Not wine.
+
+So I started bringing wine over from my café here to have instead.
+
+With that thought, I go ahead and bring out some wine to enjoy. All while sending an order to Shirogane to send over some of the explosives from my company. Since he always gets that process started for me right away when I ask.
+
+Of course, he asks what the hell I’m planning on blowing up when I send the request for no small amount of explosives, but I blow it off and tell him that I’m stocking up.
+
+Which isn’t technically untrue.
+
+I am stocking up after all.
+
+So with a firm nod of my head at that thought, I turn on the TV in front of me to binge watch a new show.

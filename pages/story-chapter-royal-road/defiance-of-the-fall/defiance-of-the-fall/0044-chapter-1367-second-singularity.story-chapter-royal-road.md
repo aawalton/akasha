@@ -1,0 +1,155 @@
+---
+id: d54d881a-f93f-5816-9560-13f25fca8604
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,367 - Second Singularity"
+slug: 0044-chapter-1367-second-singularity
+partOf: defiance-of-the-fall
+position: 44
+ownLength: 2971
+unit: words
+publishedAt: 2025-10-19
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2688990/chapter-1367-second-singularity"
+royalRoadId: "2688990"
+---
+
+Zac was careful not to disturb the floating scripture. Its origins were clearly extraordinary, which made the situation seem strange. The chamber was too small and dingy to house a top-tier manual. The scripture was even stowed away in the chamber’s corner like an afterthought. However, there were no indications of something even better having been kept in the chamber’s center.
+
+“Why would they seal the manual like this? Does it have special properties? Maybe even a spirit?”
+
+“You’re still too wet behind the ears. Watch and learn,” Esmeralda snickered, removing all the dust with a wave of her hand. “Look at the indents on the ground. Can you tell what made them?”
+
+Zac inspected the markings with a thoughtful frown. “The patterns seem random, and I can’t feel any special fluctuations coming from them. If it’s another array, it’s extraordinarily well hidden. Then again, I didn’t notice anything special with the illusion upstairs.”
+
+“You’re overthinking it,” Esmeralda said and started taking things out from a hidden spatial compartment.
+
+Zac gawked as the dusty hideout transformed into a cozy studio apartment complete with a bed and a reading nook next to the manual. The markings weren’t perfectly aligned, but they were close enough. “Did some lunatic actually excavate a Cultivation Cave below the Scripture Tower?”
+
+“Some bored librarian probably found a weakness in the arrangement and started digging. Not a bad place to sneak a nap or a reading session out of earshot of annoying disciples,” Esmeralda said with a grin. “Judging by the depth of the indents, this little hideout changed hands a few times over the years.”
+
+“Are the disciples of the Mercurial Court insane?” Zac muttered in disbelief. “And is the Head Librarian blind?”
+
+“You’ve read the rulebook. The Mercurial Court is an ‘anything goes’ institution. Going by that old codger’s attitude, this is exactly the kind of thing they’d encourage,” Esmeralda said.
+
+“Still, why bother? The sect would have to punish them if they were too obvious about it.”
+
+“There’s one very good reason for creating such a space. What did the tower tell you when you entered?”
+
+“That I could bring one manual out of—oh,” Zac said, looking around with realization.
+
+“Working as a librarian doesn’t mean you get to study all the methods, and sneaking them out would trigger the alarms. But if you could bring one into your hideout, wouldn’t you have ample time to study away from prying eyes? Aren’t we still inside the Scripture Tower?” Esmeralda said with a crafty grin. “This isn’t the first time I’ve encountered hidden reading nooks inside repositories, though they’re rarely this elaborate.”
+
+“And the book?”
+
+“Probably what the last owner was reading when the Mercurial Court was attacked,” Esmeralda said, pointing behind the pedestal. “See the markings on the wall? It’s a dynamic array directly connected to the repository. Keeping the tome here ensures that the library doesn’t mark the book as missing or stolen.”
+
+“Does that mean we can’t take it with us?” Zac asked. “It’s definitely not something from the scriptorium’s first floor.”
+
+Esmeralda answered after a pause. “The library repository arrays have already collapsed. Only parts of the defensive arrays are operational. We’d have to hide it from the array when leaving this chamber. A normal Spatial Tool wouldn’t work. I can make some room in my vats.”
+
+“You don’t have to. If it’s concealing contraband, I have the perfect solution,” Zac said. “So, can I take it out now?”
+
+“It should be fine,” Esmeralda said, though Zac noticed how she held her breath when he picked up the tome.
+
+Zac didn’t know whether he should be happy or annoyed after skimming through [Shattered Sky Scripture]. It was an auxiliary method much like [Inverse Outer Vestiges], designed to address the fundamental problem of Monarchy—the energy loss. The shattered sky in the name referred to man-made spatial anomalies, miniature black holes that you nurtured inside your Inner World.
+
+One could form a total of four Shattered Sky Nuclei, one during each breakthrough of C-grade. They would siphon off some of the ambient energy before it could leak through the cracks—along with some energy that was meant for cultivation. It wasn’t a loss, though. After enough accumulation, you could resorb most of the energy as if harvesting the fruits of a spiritual tree perfectly aligned to your path.
+
+The practitioner could also bring the nuclei out of their Inner Worlds as a last-ditch weapon. Naturally, blowing up a nucleus would permanently sacrifice the accumulated energy along with a significant amount of mass—the weight necessary to replicate the gravitational pull of a black hole. Ideally, you’d never have to use that method, because the nuclei had a secondary feature.
+
+Their mass could be integrated with your Inner World during a breakthrough, providing an additional boost to your foundations. Ideally, you’d form one Shattered Sky Nucleus during each breakthrough in C-grade, then sacrifice all four when confirming your Dao. That way, the Inner World would see the greatest improvement, setting the stage for Autarchy.
+
+It wasn’t the only way to use the [Shattered Sky Scripture], though. The method was quite flexible. You could start practicing it anytime during Monarchy, and you could absorb the nuclei during any breakthrough for an additional push. The manual was just as valuable for a weaker Monarch who’d be satisfied with merely reaching Middle C-grade.
+
+“Am I really that lucky to find another external C-grade method so soon, or were they just common back in the day?”
+
+“A little bit of both, probably?” Esmeralda said. “Monarchy is the first grade where your cultivation deteriorates over time. You can never stop. You have to keep gathering energy even when you’re stuck at level 226. If you don’t, your Inner World will eventually wither and collapse. Can you imagine how it was back in the day?
+
+“Until Monarchy, cultivation was much slower compared to modern cultivators. You had to advance slowly enough that you could expel the Earthly Taint, because allowing it to accumulate would sever your path. However, that won’t work in the C-grade, where you need to work hard just to stay in place.
+
+“Even for talented ancient Monarchs, cultivation would be an uphill battle where more Earthly Taint was added every day. These methods weren’t just a luxury; they were a necessity.”
+
+“I thought the Cosmic Sea didn’t have Earthly Taint?” Zac asked.
+
+“At least not as much. But cultivators aren’t absorbing energy from the Cosmic Sea, are they? That happens only during breakthroughs. They still draw on their surroundings after reaching Monarchy. Otherwise, what would it matter if you cultivated on the frontier or in the heartlands?”
+
+“Are these kinds of methods as common today?” Zac asked.
+
+“Not really. For one, we don’t have to worry about Earthly Taint, so we’re not quite as pressed for time. Secondly, these methods have been streamlined and incorporated into your cultivation manuals. Adding more methods on top wouldn’t be as efficient as perfecting your cracks and addressing the root of the problem—at least not for cultivators.”
+
+“It’s a shame it’s a purely Spatial Method. There’s no way I can practice it. At best, I can use it as reference material when creating my own technique,” Zac muttered, glancing at Esmeralda. “Do you need it?”
+
+“Not really. I don’t cultivate; I recover. That means I can breeze through C-grade in a couple of weeks if I stop suppressing myself, and I can’t reforge my old cultivation. I’m set, so to speak,” Esmeralda said. “I’ll take a look when we have time. It might give me a better understanding of the Mercurial Court’s application of space, which could help us in other ways.”
+
+“No problem,” Zac said before putting it back into the pedestal. He didn’t want to trigger any alarms just yet. “There’s nothing else here? Why would the Qriz’Ul be after some tome?”
+
+“It wasn’t. I think it’s after the pedestal,” Esmeralda said. “Installing a backdoor wouldn’t have mattered much before the Mercurial Court fell. Someone would have immediately noticed if critical systems were harmed, and there’d be many redundancies. Now this place has become a weakness that would allow the Qriz’Ul to corrupt the ruins from within.”
+
+“Then let’s close the loophole before we leave. Hindering the spread of corruption should be worth some Potentiality,” Zac said.
+
+“I’m good at exploiting loopholes, not mending them. We’ll have to break it. The defensive arrays won’t be happy with us,” Esmeralda said.
+
+“There’s no hurry. Before that, we should figure out our next step. It’s about time you explained what we’re looking for. Having the information might become important sooner than we expect,” Zac said. “I noticed how you kept returning to the same page in the booklet.”
+
+Esmeralda gave it some thought before nodding. "The codger before was only half-right. I am a Grand Traversal Toad, but my Death-attunement isn’t a mutation. As I mentioned before, my undead state is simply a way to alleviate my condition. I’ll go back to being a living pureblood after I recover.”
+
+“It must be a powerful race for Old Sixth to recognize you at a glance,” Zac offered, knowing you’d catch more flies with honey.
+
+“Of course we are! We’re an exalted race naturally imbued with vast spatial abilities. The first of our kind appeared only two generations after the Primordials,” Esmeralda boasted, her expression indicating that Zac should be honored to stand in the presence of such nobility. Her face scrunched up soon after.
+
+“Then again, having powerful origins isn’t all it’s cracked up to be. Most of our contemporaries were hunted to extinction because our bodies are considered priceless treasures. Luckily, Grand Traversal Toads are unmatched when it comes to survival. We're great at escaping, and our spatial powers allow us to find deeply hidden realms. That’s how my ancestors survived the Dark Ages.
+
+“Secondly, having a powerful bloodline means we need a staggering amount of resources to advance. I think you can relate to that problem,” Esmeralda said, laughing at Zac’s pained nod. “That’s why most of our kind become thieves or explorers. Even so, I'm only the third or fourth who's managed to awaken our bloodline to its limit since the dawn of time.”
+
+Esmeralda sighed. “I could have been satisfied with that. But you don’t reach those heights without an insatiable drive. I wanted to push further. I wanted to open a new path after having followed in the footsteps of my ancestors all my life. I wanted to become the progenitor who pushed the boundaries of our race.
+
+"I was born too late to compete with Orban Stillsun for the peak’s Utmost Authority, so I tried to figure out a path forward in the wake of his sacrifice. I traveled the Multiverse for countless years, raiding tombs and exploring troves. But no matter what I did, I failed to surpass the limits of my bloodline. Eventually, my age started to catch up to me. My lifeforce was waning. I still had a few million years, but most of them would be spent in a gradual decline.
+
+“Aging Supremacies with unstable territories are prey. If not my old enemies, the young and ambitious would eventually devour me. I wasn't ready to give up, so I decided to gamble everything on a rumor. I planned everything down to the smallest detail. I infuriated dozens of factions by searching for clues within their sacred texts and stealing their treasures. I even broke into the Temple of the White Sky to read its records. Finally, I located an Eternal Heritage hidden outside the river of time, a remnant from the Space-Time Era.”
+
+Zac silently listened with rapt attention. So far, the story was mostly the same as what Ilva had shared back in the Perennial Vastness, except it included much more detail.
+
+"My idea was to complement my perfected Space with an external source of perfected Time,” Exmeralda explained. “By combining the two, I'd embody the Peak of Continuum, elevating me to the next stage and approaching that dumb Stillsun’s level. If that failed, I would use the temporal treasure to achieve Pseudo Eternity, similar to how some of the other old things are holding on."
+
+"So what happened?"
+
+"I succeeded. How could some Eternal Heritage stop me?" Esmeralda adopted a haughty expression. A pointed look from Zac made her deflate with embarrassment. "Well, I almost succeeded. Who could have expected the [Timescape Loop] would be so powerful? It completely overwhelmed me, turning me into a battery. It consumed my Territory, drew from my space to generate foreign time.
+
+"I managed to get help before it was too late. We hid my spatial bloodline in death, depriving the treasure of its sustenance. Except, it's not stupid. It keeps pushing my cultivation forward, forcibly awakening my bloodline. My cycle of reincarnations isn't really a curse; it's a protection against recovering enough strength to become fodder.”
+
+Esmeralda took out the Mercurial Court’s introductory booklet and flipped to one of the pages at the end. Zac glanced at the description that said ‘[Second Singularity]. Cosmic Natal Treasure.’ The excerpt only contained a few lines, and there was no matching image in the Information Jade. The term Cosmic Natal Treasure was enough to prove its extraordinary value, not to mention the fact it was listed among the Mercurial Court’s greatest inheritances. It didn't even have a price tag attached, only stating that one had to first become an Inner Court Disciple.
+
+"This is the solution I found. [Second Singularity] is a Spatial Relic born when the Dao of Continuum split into Time and Space. It holds some of this Era’s primal dimensional power.”
+
+"A spatial relic?" Zac said, confused. "Not a temporal relic to counter the time flow of the other one?"
+
+"Don’t be silly. I'd get ripped apart by temporal winds if I messed with another one of those things. I wouldn't be surprised if the blast reached levels capable of damaging the River of Time. I guess it would be a decent way to go out," Esmeralda laughed.
+
+"And [Second Singularity] will help you restore balance?"
+
+"That’s the idea," Esmeralda said with intense longing. "I don't even care about the Peak of Continuum any longer. I just want to stop this endless cycle of regression. With every death, I lose a little of myself."
+
+“Don’t worry, we’re almost at the finish line. We’ll get that thing even if we have to turn this place upside down,” Zac promised before a thought struck him. “Wait, do you know if the [Second Singularity] goes by another name? You should have heard my discussion with Vilari. The [Pasho’Har Bell] is a supreme spatial relic connected to the Mercurial Court, but there’s no mention of it in the booklet."
+
+"They shouldn't be the same thing," Esmeralda said, shaking her head. "What I'm looking for is one of this Era's natal treasures. The [Pasho’Har Bell] she described is an Eternal Treasure from a previous Era. It might be even more powerful than the [Timescape Loop]."
+
+"Wouldn't that thing be better?" Zac asked.
+
+Jalach was an exceedingly dangerous character with deep schemes. They were outmatched, and there was no guarantee that the tome [Ancients] would hold a solution. Having Esmeralda take the [Pasho’Har Bell] was an effective way to ensure it would never come into Jalach’s possession. Alas, judging by Esmeralda’s frightened expression, it wasn’t meant to be.
+
+Esmeralda shuddered. "I can’t get mixed up with another Eternal Treasure. Even after unsealing my bloodline, I’ll be much weaker than when I nabbed the [Timescape Loop]. Besides, I need a relic that matches my Dao. Treasures from previous Eras are made from the Dao of their generation. A Supremacy can slowly refine them to suit their needs, but I don’t have the strength or time for that."
+
+"More than anything, I can’t get entangled with an undying evil when I’m this close to breaking free. Absorbing the treasure and fully recovering my strength will take a long time, during which I’ll be vulnerable," Esmeralda sighed. “I’m sorry, but I can’t help you beyond providing insights and support.”
+
+“Don’t worry, it was just a random thought. You’ve already done more than enough,” Zac said with a smile. “Well, we’ve both read the introduction and seen the Mercurial Court for ourselves. It looks like we have a few options.”
+
+“The most obvious method is to pay our way. I don’t think you trial takers are supposed to trade for the treasure outright. It’s enough to exchange for a chance to meditate before it.”
+
+Zac nodded in agreement. “Become an Inner Disciple, then purchase access and head into the memory winds. When time runs out, we’ll appear right before it like with the Scripture Tower. The biggest variable is whether [Second Singularity] was moved between the past and the present.”
+
+It wasn’t a baseless fear. There was a window of lost history between the System’s awakening and the Left Imperial Expanse being submerged to the depths of reality. The continent was attacked, and the Imperials were present to defend for at least a while. During the turbulence, the Beseechment Pavilion managed to bring the [Pasho’Har Bell] to the Anima Court, despite it being one of the Mercurial Court’s foundational treasures.
+
+“If that happens, I’ll try to steal it from the memory,” Esmeralda said. “Not great, but better than searching for it in random nooks and crannies.”
+
+Esmeralda didn’t look hopeful, and for good reason. Sneaking up to such a treasure without the proper credentials was essentially impossible, and it would undoubtedly be protected by supremely powerful arrays. It was a suicide mission, and they weren’t even sure if such powerful items could be brought out of the memories.
+
+“Let’s hope it won’t come to that,” Zac said. “For now, let’s see about becoming Inner Court Disciples.”

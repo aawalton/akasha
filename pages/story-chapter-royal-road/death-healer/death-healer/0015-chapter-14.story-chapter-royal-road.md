@@ -1,0 +1,197 @@
+---
+id: 8021975f-dc90-5a3c-a768-775b876426a7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14"
+slug: 0015-chapter-14
+partOf: death-healer
+position: 15
+ownLength: 2372
+unit: words
+publishedAt: 2025-05-12
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2274681/chapter-14"
+royalRoadId: "2274681"
+---
+
+Lucretia's sword reflect a blade of sun over her face, making her copper hair shimmer like gold. Sweats beaded on her forehead as she slowly circled her instructor.
+
+"Keep the tip aimed at my eyes," her tutor said, watching over her carefully. "Do not lower your sword. Whenever you fight the Undead, Princess, you want to take their head off first. Their scratches are dangerous, but it's their teeth pose the largest danger."
+
+Lucretia nodded and gathered Light Mana, generating a small lance that stood above her head. She had learned the [Light Spear] Skill in record time, which had made Father extremely proud of her.
+
+There were three main specialties for the [Templar] Class, the most known ones were the [Shield Templar], the [Blessed Templar], and the [Avenger Templar]. Lucretia was training for the last. Specifically, she was training in order to gain a the {Marauder I} Perk in the [Light Spear] Skill—that would allow her to have a much better variant of the [Avenger Templar] compared to everybody else. The {Marauder} Perks would make [Light Spear] and its evolutions inflict bleeding damage, turning the normal [Avenger Template] into a more debuff-prone Class.
+
+Perks were effectively tiered mini-Skills, meaning they conferred additional effects to any Skill and that each Perk had several levels to it. And while in theory each Skill only had a limited amount of possible achievable Perks, the most common Skills had hundreds, if not thousands of Perks available to them. More importantly, Perks, right after Skills, were the most weighted factor in the acquisition of rare variants of Subclasses.
+
+A Rare Subclass would allow one to generate an even more formidable Class. Based on the current level of the Perks and the Skills one possessed when Class Day finally came, different Subclasses would be available.
+
+Class Day was a day of reckoning, a day in which everything one had done in their life and that had inscribed on their very soul would determine which Subclasses they could choose to form their first Class.
+
+Lucretia had no aspirations to ever become a Champion since she didn't have her older brother's insane talent. However, she knew that the Champions who managed to learn more than one Great Skill and therefore come close to becoming the new Pope had all possessed at least one extremely unique Perk.
+
+For example, four generations before Father's, a man from the Gens Claudia, unlike their tradition of [Light Mages] and [Healers], had become a powerful variation of[Blessed Templar] thanks to a unique Perk that made his [Heal] spell unable to heal others but be more effective on himself.
+
+A self-regenerating fighter, Lucretia reasoned. A nightmare on the battlefield for anyone.
+
+[Healers] were easy to kill, meaning they represented a vulnerability on the battlefield, especially in the more chaotic melees. Someone capable of healing themselves continuously was—well, there was a reason why the man had gone that close to becoming the new Pope.
+
+He had gone to master four out of the six Great Skills before dying in the Dead Lands—the highest number in centuries.
+
+The instructor moved a step forward, and she let the [Light Spear] zoom toward his leg. The projectile hit—without leaving a scratch, of course, since her instructor was above Level 100 and she was still Unclassed. Lucretia finished the drill by stabbing at the man's head. The instructor parried but nodded with a large smile on his face.
+
+"Good, good. Go eat something and rest, we'll keep practicing in an hour."
+
+She sheathed her sword and left it to a servant—two more stepped forward, one with a large parasol and one with a silver tray full of refreshments.
+
+Only then, as the three entered her perception and the tutor went away, Lucretia came back to her senses and started noticing the people around her.
+
+She was in the arena that the Gens Iulia used for all the Unclassed kids of the main branch of the family and the subordinate families, like the Iulii Caudices—the denomination that distinguished the many families that had been in one way or another offshoots of the main one. Having all the kids who wanted to be [Templars] practice on the same grounds, Lucretia's grandmother, Hestia, said, was a great way to foster relationships. And the Gens Iulia also used it as a way to flex their power and riches. That's why Lucretia had more servants around her here than when she stayed in the Papal Estate.
+
+The arena was full of sand—necessary to teach the kids how to keep a steady footwork in battle. They were noisy and clumsy, for the most part. Not many could afford the kind of training the copper-haired girl had gone through in the short eleven years she had lived.
+
+“You think the Undead will pause just because you’re out of breath?” One of the instructors barked at a clumsy child. “Again!”
+
+Lucretia smirked. The weak always fold first.
+
+Not even those who were near their Class Day were nearly as strong as she was, nor as competent, nor as smart—they were nothing compared to her, Lucretia reasoned.
+
+But, they had something she didn't have.
+
+She looked at the stands as she drank some of the juice offered her, scanning with her eyes. She saw many of her cousins' mothers and sisters, all cheering and smiling for them, whether in the shade or braving the sun. Her amusement was wilting as she spotted a cluster of mothers entering the courtyard, fussing over their children. A swirl of annoyance churned in Lucretia’s chest. One mother dabbed at her son’s sweaty brow with a handkerchief, another pressed a gentle kiss to her daughter’s temple.
+
+Spoiled babies. Worse, the scene reminded her of what she could never have again.
+
+Mother should have been here.
+
+The memory clamped onto her heart, and with it, the old bitterness. Her mother was dead, and to Lucretia, Lumius was the reason. She felt anger spark across her veins.
+
+He robbed me of her. Look at them…
+
+A pair of older trainees walked by, accompanied by a proud-looking mother who fussed over them. Lucretia felt her heart clench. A memory surfaced: her mother’s gentle laughter, a dim recollection of warm arms holding her when she was very small.
+
+Lucretia was three when her mother died, too young to have more than a brief recollection of her. Sometimes, at night, she felt haunted when she tried to picture her mother's face and couldn't. She would get up, roam the halls and find her mother's portraits, then she would feel tears pool in her eyes when the picture on the wall didn't match the one in her memory, which led her to question what face her mother even really had.
+
+None of that softness matters now.
+
+It was Lumius’s fault she’d lost that warmth. And for that, she would never forgive him.
+
+Let's go mess with him.
+
+* * *
+
+Lucretia had been summoned to Father’s private chamber—and she feared she knew why. She squared her shoulders, reminding herself that Father respected strength, not fear.
+
+She reached the grand double doors and entered without knocking, as instructed. The chamber within was barely decorated, an austere office that had no sign of life—not even a small plant. Sometimes, Lucretia got the impression that Father—the Pope—almost hated plants and pets. His desk was scattered with scrolls and documents sealed with wax. His crown lay on a side table with the usual tantalizing gleam to it.
+
+Lucretia bowed her head. “Father, you called for me?”
+
+Before he could respond, she heard a sob on the right. Lumius cried out, cheeks flushed, tears brimming at the corners of his eyes. He looked up at Father, then at Lucretia, and wailed.
+
+“Father! Lucretia said—she said—” His breath hitched. “That if I don’t become a Champion, you’ll cast me out of the family!” His voice trembled, equal parts terror and heartbreak. “Is that true?”
+
+A surge of alarm shot through Lucretia’s veins. He ran straight to Father? For a heartbeat, she feared she’d gone too far. She half-expected Father to glare at her, to scold her for filling Lumius’s head with nonsense. But she stood her ground, face cold. Fear made her spine rigid, but she didn’t let it show.
+
+Father regarded Lumius with a measured expression.
+
+“Did she now?” he asked calmly.
+
+“Yes!” Lumius cried, turning tearful eyes back to Lucretia. “She told me—that if I can’t prove myself—that I’ll be cast out! Tell her—”
+
+“I heard,” Father interrupted, his tone like iron. His gaze flicked to Lucretia. “Is that what you said?”
+
+Lucretia’s heart pounded. Admit it? Deny it? She drew in a breath.
+
+“Father,” she began, carefully. “I only told Lumius the truth as I understood it: that greatness is expected in this family. That we have no room for—” She hesitated, searching for an appropriate term. “Underachievers.”
+
+Lumius let out a soft, choked sob, eyes begging Father to negate it all.
+
+Instead, Father’s lips pressed into a thin line.
+
+“I see.”
+
+Lucretia tensed.
+
+He’s going to punish me for cruelty, she thought. But in the next moment, Father turned to Lumius with a hard stare.
+
+“And she is correct.”
+
+Lumius’s face went white. “F-Father?”
+
+“If you fail to prove your worth,” Father said flatly, “then there will be no place for you in this family.”
+
+The words fell like a thunderclap in the chamber. Lucretia’s chest constricted—but a rush of relief flooded in right behind it. Father wasn’t punishing her. He was doubling down on her words.
+
+He’s using this to push Lumius.
+
+A quick glance at her youngest brother revealed the full impact: Lumius’s legs seemed on the verge of giving out, his eyes wide as if he’d been struck. Terror and confusion warred on his face.
+
+“Y-You can’t mean…” Lumius’s voice came out in a small tremor. He reached out a hand, as if wanting Father to embrace him or at least offer reassurance. None came.
+
+“That is the standard, Lumius,” Father said, ice in every syllable. “We are a holy family of warriors and leaders. We will not coddle the weakest link.”
+
+Lucretia’s heart pounded with a heady mix of triumph and dread. She would escape punishment—this time. But she could see how deeply Lumius was hurt. His tears now overflowed. She almost expected Father to reprimand him for crying. Instead, Father only turned away, dismissing Lumius with a flick of his hand.
+
+“That is all. Go.”
+
+Lumius lingered in place, anguish twisting his features, until Father shot him a final, cutting glare. Then, with a sob stifled behind trembling fingers, Lumius bolted from the chamber.
+
+Lucretia remained, her posture stiff. Silence weighed the air. Father’s gaze settled on her.
+
+“I trust,” he said quietly, “you will continue upholding our standards.”
+
+She forced a nod, ignoring the knot in her throat. “Yes, Father.”
+
+He nodded once. A dismissal.
+
+Lucretia backed away, careful not to turn her back on him until she was near the door. Once outside, she inhaled sharply, as though surfacing from deep water. The corridor stretched long and empty.
+
+No punishment. I’ve escaped Father’s wrath.
+
+The tension in her muscles unwound—but underneath, she felt the uneasy stirring of guilt. Not that she regretted humiliating Lumius—he deserved it, in her view—but she recognized that she’d just raised the stakes in a game that might break him completely.
+
+I don’t care, she told herself fiercely. He cost me my mother. Let him face the consequences.
+
+But a small, trembling pulse in her chest reminded her that this was no minor slight. She had hurt her brother in a way Father had sanctioned. And there was no going back from that.
+
+* * *
+
+Lucretia found Lumius later that afternoon in one of the palace’s corridors, crying behind a large statue.
+
+For a moment, she considered walking away.
+
+“What do you want?” he muttered, voice raw.
+
+Lucretia crossed her arms. She felt no compulsion to comfort him—or at least that's what she wanted to believe.
+
+“I told you,” she said coolly, “what would happen if you fail.”
+
+He swallowed.
+
+“Father—Father really said I’d be… cast out.” The words trembled as he spoke them, like they might shatter him. “Why are you doing this to me?”
+
+She glared at him, resentment hot behind her eyes.
+
+“Because our family doesn’t have space for the weak.”
+
+“You already know what to do, Lumius; Father has said it plainly. You have to prove your worth. If you don’t, you’re no different from the common masses out there.”
+
+“I can do it,” he whispered, but uncertainty clung to every syllable. “I—I’ll prove myself. I'll be a Champion like Cassius.”
+
+Lucretia reasoned on whom would be Lumius's greatest competition for the spot of Champion. And the first person who came to her mind wasn't even someone who would be legally allowed to be a Champion.
+
+Their cousin Lily—Liliana Claudia—had displayed remarkable aptitude for Mana usage, possibly more raw talent than Cassius at the same age.
+
+The thought irritated Lucretia, who revered their older brother.
+
+“Do you even realize who stands in your way?” she asked, stepping closer so that she towered over Lumius’s smaller form. “There's only one person who stands in your way, Lumius. All the other boys are useless pieces of crap. Your greatest threat for Father’s approval isn’t me or Cassius, or some other loser boy from the Great Families. It’s Lily.”
+
+His eyes flicked up, startled.
+
+“Lily?”
+
+“She’ll overshadow you if you’re not careful,” Lucretia pressed. “The only thing you've got on her is an Affinity. She's better at everything else."
+
+And that little demon is fearless.
+
+Lucretia was an experienced bully and could always get a rise out of Lavinia, but Lily… there was something to the little blonde girl that unsettled her—sometimes it almost felt like between her and her cousin, Lucretia was the young kid.
+
+"She’s one step away from being strong enough to get a shot at being the Champion instead of you. And if Father or the rest of the Gens see more potential in her than in you, then you’ll be left behind.” She leaned in, letting her voice chill the space between them. “You want to stay in this family? Make sure Lily fails."

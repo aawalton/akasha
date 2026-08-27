@@ -1,0 +1,203 @@
+---
+id: d05eb6cc-a980-5526-b09b-bc03e76e0671
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32"
+slug: 0033-chapter-32
+partOf: death-healer
+position: 33
+ownLength: 2485
+unit: words
+publishedAt: 2025-06-10
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2346314/chapter-32"
+royalRoadId: "2346314"
+---
+
+Lily stood in the courtyard before noon, and her shadow stretched across the worn cobblestones beneath her. The sun had not yet reached its zenith, although the day was already bright and warm enough to make the air shimmer.
+
+Calpurnia, who appeared to be around the same age as Lily’s Aunt Gentiliana, observed Lily with a slight smile. Her calm expression suggested that she expected Lily to unleash some reckless display of the First Form of the Requiem of Balance, expecting the girl to wreck havoc inside her body.
+
+Despite sensing the weight of Calpurnia’s expectations, Lily did not rush to activate the technique. She was not hesitating because she was afraid, and she did not doubt her ability to endure the damage that the First Form was known to inflict. Instead, she was considering a different approach to Coniunctionis because of her deep understanding of anatomy and the principles behind how muscles pulled on bones.
+
+The principle behind the First Form of the Martial Art was fascinating, but it was also very rudimentary. It acted as an additional muscle, essentially. Muscles moved limbs by pulling on bones. Coniunctionis did the same thing but for Mana, creating a much stronger pull or push, depending on the specific movement. The way Calpurnia used the Martial Art was to draw a giant string from bone to bone, but since Lily knew anatomy better than anybody else in the Papacy, she had just gotten a different idea.
+
+I suspect that part of the reason why there’s so much damage is because of how rudimentary their approach is, the blonde girl reasoned. Instead, if I were to infuse each muscle individually…
+
+Muscles themselves pulled on bones in a similar manner, and Lily wanted to treat her Mana more like long, thin fibers woven into the muscle tissue rather than a single rope yanked between two bones.
+
+There were four muscles in the upper arm: the biceps and the brachialis, bending the elbow, the triceps straightening it, and the coracobrachialis, which pulled the arm toward the ribs. In the lower arm, there were nineteen, but they were less consequential in punching motions and strikes.
+
+It’s too much work to focus on the lower arm. I’ll just to do the upper arm for now.
+
+Lily pictured four neat lines of mana weaving through the upper arm. She kept smiling because Calpurnia expected a crude bone-to-bone pull, and Lily felt a flicker of satisfaction at the thought that the older woman would soon watch a cleaner technique at work.
+
+It’s not just going to be cleaner. Following the natural lines of the tendons and muscles, this should make the motion stronger. And I have an idea on how to ameliorate the damage.
+
+What Lily had done during the party at the Gens Aemilia to ramp up the effectiveness of Mana Sense—coating the blood vessels in her head with a finely woven net of Light Magic—she was about to do the same for her muscles.
+
+Across the courtyard, Selena had finished running her laps. She slowed her pace and saw Lily still standing with closed eyes and a faint glow of Mana dancing around her hands. “What is she doing?” Selena asked in a voice that carried across the empty space.
+
+Vespera, who stood nearby, shrugged. “I think she is working something out. She has been sitting there for several minutes,” she said, trying not to sound too nosy as she watched Lily’s concentration deepen.
+
+The bicep has two heads, Lily thought, frowning. Let’s first coat the tendons and their…
+
+A word came to Lily.
+
+Enthesis.
+
+That was where the tendon blended with the bone tissue—its anchoring point.
+
+I have to ensure the tendon doesn’t snap or the muscle doesn’t tear. The bones will probably survive, but there’s going to be so much tension on the entheses.
+
+Lily started creating a fine net, even finer than the one she had generated for the blood vessels in her head. After about ten minutes, she had finally managed to finish up reinforcing the entheses of both heads of the bicep, and then she moved onto the rest of the muscles in her upper arm.
+
+Calpurnia observed from the side with a raised eyebrow. She could feel a lot of Mana activity in Lily’s body, but she had no idea what the young girl was doing. More than once, she had been tempted to interrupt, but she decided against it. The little blonde was clearly doing something, and given how terrifyingly powerful her healing had been, she wanted to stay and watch.
+
+Lily soon had coated the entheses, the tendons, and all the muscles' fibers.
+
+That’s when she rose from sitting and decided it was time.
+
+One thread of Light and Darkness per each muscle’s head.
+
+“Lily, are you sure you know what you’re doing?” Calpurnia asked. “Do you any help? I can show you again.”
+
+“I’m fine,” Lily only gave a tight‑lipped smile because the intense pressure of Mana in her arm made her teeth clench. She was still adjusting the threads of Light and Darkness so they would align with her muscles more gracefully. Even before they fused, she could sense the prelude of the explosive reaction.
+
+“She’s bluffing. She has no idea what she’s doing. She just wasted us a bunch of time. Mother, can we just go practice? Why are we even here?”
+
+“Silence, Selena. I want to assess Lily’s level first.”
+
+Soon, she had infused the muscles with one thread each, and slowly, she started fusing the ones in the tricep of her right arm.
+
+Before she could fully control the reaction, her arm extended much faster than it had when Calpurnia had done it.
+
+Lily groaned, but the net of Light Magic saved her. Without that, the sheer force she had just generated would have broken the arm over the elbow, bending it the wrong way.
+
+Calpurnia and the two girls watched in rapt attention as Lily displayed a speed that should not have been possible, the kind of force that should have rightfully broken the slim girl’s arm. Then, they saw her do the same for the pulling motion as the arm flew back.
+
+“That’s not bad, do you need any—” Before Calpurnia could offer any healing, she saw the impossible.
+
+Lily repeated the motion three times in a row, always grunting, but seemingly adjusting her control over the movement.
+
+“Dawn’s Mercy,” Calpurnia murmured, expecting Lily to finally stop.
+
+Instead, Lily, who was gauging how many times she could use this Martial Art before needing willful healing, repeated the process two more times before screaming and falling to her knees, immediately injecting the arm with as much healing as she could.
+
+Her brain was in overdrive from all the pain, but there was a drunk smile on her face.
+
+She had generated much more force than Calpurnia. And, unlike the woman, she knew of every single muscle in her body. Once she was able to quickly coat them in the protective net, she could weave threads of Light and Darkenss throughout them all.
+
+“How did you manage that without snapping your elbow?” Calpurnia asked, taking a few steps closer.
+
+“I just reinforced the arm,” Lily said, speaking between labored breaths, not giving out her secrets. “I coated every muscle with Light. If I thread Darkness through them too, the technique becomes stronger and safer. It is still extremely painful, but it is not destroying my body the way I thought it might.”
+
+“You… how?” Calpurnia frowned. She couldn’t see her own muscles. How did the girl do it?
+
+She rose to her feet as her healing spell took effect, and she rolled her shoulder to check how well she had recovered. She felt the tingling subsiding as the pain dulled. Selena and Vespera exchanged astonished looks. They had never seen any practitioner of Coniunctionis wield Mana in this way.
+
+* * *
+
+Three Weeks Later
+
+Lily sank into a low stance, pulling in a bracing breath as she let the last strands of mana settle into her forearm. Because she hadn’t yet woven the threads through every muscle of her body—all two hundred of them— she could hardly feel the difference—her movements were still sluggish. Calpurnia watched from the edge of the courtyard, arms folded, while Selena sharpened her daggers against a whetstone—she placed those away and took out practice ones in order not to kill Lily.
+
+“Ready?” Selena asked at last, sliding one dagger free and doing a quick twirl. She moved forward at a jog, light on her toes.
+
+Selena lunged. She closed the distance in a heartbeat and slashed at Lily’s midsection. Lily barely had time to twist her hips, planting her feet too late, and the dagger nicked her side.
+
+“Point,” Selena said smugly, repositioning.
+
+The raven-haired girl stepped back two paces.
+
+“That’s it,” Calpurnia said from the side, voice calm but firm. “Don’t telegraph your balance.”
+
+Despite Lily’s incredible and mysterious combat instincts, Selena had trained her whole life for this and clearly had many levels in combat Skills. If Lily had been able to use Coniunctionis, this would have been a completely different duel, but as things stood, the sparring was more of a humiliation session than anything else.
+
+Yet, Calpurnia insisted that Lily do these sessions—to fight at a disadvantage, the woman had said, teaches you more than humility; it teaches your resourcefulness.
+
+Lily tried using Coniunctionis but simply swung too far wide and fell on her face multiple times.
+
+By noon, Selena sheathed both daggers and reached out her hand without a trace of condescension.
+
+“Stop forcing it, fight fluidly. When you learn Coniunctionis properly, use it. For now, relax. You’re taking this too seriously.”
+
+Selena, her mother, and her sister, had been amazed by how relentless Lily had been with her training. The two girls had been raised on a very strict training regimen, but they had found Lily training outside in the courtyard at midnight, bleeding as she adjusted the potency of the fusion of Light and Darkness in her body.
+
+That had earned even Selena’s respect.
+
+Lily took the offered hand. As she rose, a quiet clarity settled over her. Until she could infuse every fiber—from the tiny interossei in her hands to the tendons that anchored her wrist—she’d be one step behind.
+
+“Again?” Lily asked, tightening her fists.
+
+Selena gave a short nod and released a small smile. “Again.”
+
+“You’re stronger than you think. Don’t waste that by rushing the build,” Selena said as they had finally stopped sparring.
+
+Lily pressed a hand to her shin, wincing but smiling. She had run out of Mana.
+
+“I’ll never forgive you if you stop sparring with me.”
+
+“Good. Because I’m not done yet.” She handed Lily a cloth to press against her wound. “And you still have to earn the right to spar Vespera. And, if you want to become a Champion, you’ll also have to fight Flavia. You think I’m strong? You have no idea.”
+
+Lily accepted the cloth and closed her eyes for a breath.
+
+“Thank you,” she murmured. “I’ll keep going.”
+
+Right when they were about to leave for lunch, they heard the sound of horses stomping the ground and neighing.
+
+The two girls looked at each other quizzically.
+
+* * *
+
+Lily stood by the entrance of Calpurnia’s house, behind Selena and Vespera, who were both beside their mother.
+
+On the other side, a large man with square shoulders and a mean look to him dismounted a horse and smiled.
+
+“Calpurnia, cousin,” he said.
+
+“Publius,” the woman replied curtly. “What brings you here?”
+
+“My youngest had the pleasure to meet and spar with the heir of the Gens Claudia.”
+
+Those were words of mockery since Lily was a girl and couldn’t technically inherit the family.
+
+“He did,” Calpurnia replied. “I witnessed it myself.”
+
+“I want the girl to spar with Sextus. Since she’s in your care, I’d like for you to accept the challenge.”
+
+Calpurnia’s jaw clenched.
+
+“Sextus already had his Class Day, Publius. It’s not a fair match.”
+
+“Doesn’t the girl want to be a Champion, the Pope even. Why shouldn’t she take such a challenge? Her older cousin, Cassius, did better than this. I believed that you little girls all wanted to support each other, no? Aren’t you itching to prove something? You itched your whole life for it, Calpurnia. Yet, what do you you have to show for it? A scaredy cat you’re training who can’t take a sparring request? Never forget that you were born a woman for a reason: and that reason was never fighting. Women don’t fight.”
+
+“They don’t?” Calpurnia smirked. “Yet, I know Sextus. If he wants to spar, why doesn’t he come meet Flavia, his cousin, again. Oh, I forget. When they sparred last time, your son wet his pants.”
+
+Publius stepped forward, his heavy boots thumping on the ground, and when Calpurnia lifted her chin to greet him, he lashed out with a backhand that knocked her off balance.
+
+Calpurnia was strong for a woman, very strong, but Publius had spent his life in Dungeons and fighting Undead—he severely outleveled the woman.
+
+Before anyone could react, his massive hand closed around her throat, squeezing until her throat ached and her eyes began to water.
+
+“You disgrace my family, cousin,” he snarled, and though his grip was brutal, his voice remained cold and measured, as if rehearsed. “The girl bested my boy, and now you owe me satisfaction. I will not be refused again.”
+
+Calpurnia’s hand darted up to his wrist, but she bit back a gasp because he had already anchored her against the doorway.
+
+Publius tightened his fingers until Calpurnia’s face started turning purple, and only then, when the courtyard had fallen so still that even a sparrow’s wingbeat would have shattered the silence, did he release her. Calpurnia sagged against the frame, her breathing rapid, and he straightened enough to look down his long nose at her.
+
+Publius smirked, and for the first time Lily saw something predatory in his eyes that made her blood boil.
+
+The man was about to say something else when Lily interjected the conversation.
+
+“I’ll do it.”
+
+“Lily!” Calpurnia said, turning to the blonde girl.
+
+“Oh, the little girl speaks. The Princess’s daughter. Why, you want to show me that your mentor actually taught you something?” Publius smiled widely.
+
+“She’s still teaching me,” Lily replied curtly. “One month from now. Bring your son to the Gens Claudia’s estate. I’ll face him there. I hope that’s not a problem—my father would find it insulting if I faced someone with a Class away from my family. I bet they want to watch. Would you extend this courtesy to the Gens Claudia, sir?”
+
+Publius frowned at that but still nodded.
+
+“In a month, then,” Publius smiled widely. “Just a month.”
+
+“It’s going to be more than enough,” Lily replied, narrowing her eyes.

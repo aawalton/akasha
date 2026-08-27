@@ -1,0 +1,393 @@
+---
+id: 6eee2adf-7dc8-57f4-b21f-71f3695c3731
+page-type-slug: story-chapter-royal-road
+title: "125: Vestvall"
+slug: 0125-125-vestvall
+partOf: delve
+position: 125
+ownLength: 5147
+unit: words
+publishedAt: 2020-12-13
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/599264/125-vestvall"
+royalRoadId: "599264"
+---
+
+The rider shivered as a blast of arctic wind sent snow swirling into his face. He pulled his cloak tighter about himself, his fingers numbly clutching the reins beneath it. It was freezing out here, which was only to be expected, given that it was the end of Winternight. He’d lost track of the specific day. For all he knew, it could be Fallow by now.
+
+The trees provided scarce shelter from the wind as the rider’s horse plodded through the snow. The animal had slowed while the rider had been fussing with his cloak, so he nudged it sharply with his knees to get it going again. He swore as this sent a spike of pain through his injured leg.
+
+Both he and his horse were miserable, but neither the storm nor his leg was bad enough for him to shirk his duty. The hunters and the woodcutters would soon leave the relative safety of Vestvall to go about their business, and someone had to verify that nothing nasty had crawled up from the crack overnight. The monsters that spawned on the surface usually had levels between two and five, which was manageable for the unawakened. Those from below were a different story.
+
+The rider stiffened, his horse flicking its ears as both of them reacted to the same sound—a footstep.
+
+Casting himself free of his cloak, the rider bared the bow that he was wearing over his arm. Slipping it free from his shoulder, he fumbled for an arrow as he peered through the snow. Please be something we can eat, and not something that can eat me…
+
+“Peace,” said a voice.
+
+The rider let out a strangled cry as his horse bucked, almost throwing him. He managed to get it back under control, grinding his teeth against the agony from his leg. He forced the pain into the background as a cloaked figure came into view, climbing up from behind a hill to the west.
+
+The figure was enormous. Whoever it was, they were wrapped up in a dappled white cloak, their face shadowed by a hood. With the snow and the dim light of the overcast morning, there was no way to see the person’s features.
+
+The rider’s heart thundered in his chest as he addressed the figure. “Who the hells are you?” He clicked his tongue in irritation at his horse as it shied back, squeezing with his legs despite the pain. “Damn it, Dust,” he muttered under his breath.
+
+“Dust…” the cloaked man said, considering the name. “Hmm.” He began walking toward them.
+
+“Hold it!” the rider shouted, raising his bow threateningly. How in the hells did he hear me? Awakened? He must be. Nobody else could have survived a night outside the walls, and I’m sure I’ve never seen a cloak like that before. An adventurer? From Fel Sadanis?
+
+The man stopped, throwing back his cloak and raising his hands in a placating gesture. A flash of recognition shot through the rider’s mind as he realized that the man’s apparent size had come from his armor. He was wearing full plate, the dark gray steel almost black in contrast with his white cloak.
+
+“Easy there,” the man said. “Apologies, I was distracted by the horse. Happens to me all the time. Well, not horses, but—sorry. You asked me who I am.” He lowered his hood and pulled down a scarf, revealing a helmet made of the same dark steel—no, not dark steel, Dark Steel.
+
+“Hello, Stint. Long time.”
+
+“Rain!?” Stint shouted, lowering his bow.
+
+The man laughed, finishing removing his helmet. “I have to admit, I wasn’t expecting to find you out here. I almost tripped when Detection found a human, and then again when it told me it was someone I knew. After that, though, I got it in one. Lucky guess. It’s good to see you.” He closed the remaining distance, then stopped to extend an armored hand to the horse, which nuzzled it with familiarity.
+
+Rain laughed. “So, your name is Dust, huh? I don’t think I ever knew that. You are the same horse, right?”
+
+Dust snorted, pressing his nose into Rain’s hand.
+
+Stint’s jaw worked. “Why—no, how are you here? Did the Guild send you? Alone?! Did Fel Sadanis survive? It’s been so long, and no one came. We thought… We thought we were alone!”
+
+Dust whinnied and shook his head, unhappy with the way Stint was squirming in the saddle.
+
+“Easy there,” Rain said, taking a step back. After a moment, he smiled. “No, the Guild didn’t send me, and no, I’m not alone. I’ve got questions for you too, Stint, but let’s get you warmed up first. Then we can join the others and have a talk.”
+
+Stint yelped in surprise, jumping as heat began rolling off of Rain. Dust bucked again, and Stint had to fight to keep his seat. He hissed, spots floating across his vision as he struggled against the latest wave of agony from his injured leg.
+
+“Shit, sorry,” Rain said, the heat fading slightly. “Easy, Dust, easy. Oh! Stint, your leg! You’re injured?” He gestured to the splint. Dust settled down, and Rain stepped closer, peering at the binding. “Broken?” He sniffed, then frowned.
+
+Stint nodded numbly, flexing his hands as the heat seeped into his frozen joints. Dust whickered, shaking his head, the snow already melted from his mane. As Stint stared at Rain, still trying to come to grips with the sudden change in his situation, an errant thought sent a chill flowing through his veins despite the warmth the armored mage was throwing off.
+
+“Shit, if you’re here…” Stint said, swallowing. “Is Lady V. with you?”
+
+“What?” Rain asked, looking surprised. “No, she’s not. Why would she be?”
+
+“Oh, thank the gods,” Stint said.
+
+“Yo!” Rain shouted, waving as the pair of them passed out from the cover of the branches. “You’ll never guess who I found on my patrol!”
+
+“Rain?” A woman’s voice answered, but Stint wasn’t paying attention. His jaw had dropped the moment he exited the trees. We’re saved.
+
+There on the westroad was a line of sleds, led by an enormous metal wagon. People were milling about everywhere. Dozens of people. Armed. Armored, some of them. All were wearing immaculate white-dappled cloaks, just like Rain’s.
+
+Stint gripped the reins tightly as he recognized some of them. Ameliah, who’d just spoken. Tallheart, the armored cervidian, standing by the metal wagon. The big man with the beard who’d clubbed him in the head with a shield. A name floated back to him, along with the remembered pain. Carten.
+
+“Holy shit, it’s that guy!” Carten shouted, pointing as he started toward them. “What the fuck is he doin’ here, Rain?”
+
+“What’s going on in Vestvall?” another man shouted urgently, hot on Carten’s heels. His orange hat had tumbled to the snow in his haste, but Stint recognized him anyway. Jamus.
+
+Jamus slid to a stop, clutching a hand to his chest. “The city,” he gasped. “Is it— How many survived?”
+
+Stint blinked, overwhelmed. The entire expedition seemed to have dropped whatever they were doing and were heading in his direction. “About…three quarters,” he managed, glancing at Jamus.
+
+“My family…” Jamus said, clearly struggling to restrain himself. “Do you know a man called Bens?” He paused, then, seeing Stint’s lack of recognition, continued in a rush. “About my height. Black hair, green eyes. Or a boy with…no, a man too, now. Hang on, I have a drawing…”
+
+“Jamus…” Rain said softly with a pained note in his voice. Jamus ignored him, throwing back his cloak to dig through the pockets of his orange robe.
+
+In the corner of one eye, Stint caught a flash of a slightly different shade of orange, then did a double-take. It was the bald merchant with the enormous mustache that he’d saved from bandits. The man’s daughter was clinging to his side, pointing excitedly at Stint as she tugged at his cloak. They’re here too?!
+
+“Here, look! Look!” Jamus said urgently, pushing a beat-up old notebook up at Stint. “Do you know them? They’re older now, but…”
+
+Stint blinked, looking down at the drawing on the page Jamus was showing him. Four figures, one of them Jamus, though quite a few years younger, plus a woman and two boys. One was in his mid-teens, the other perhaps seven or eight. Upon closer inspection, Stint saw that the younger boy was holding a baby. He shook his head slowly. “Maybe? Sorry, I don’t know.”
+
+“Gods damn it, I’m going!” Jamus shouted, snapping the notebook shut.
+
+“Wait!” Rain shouted, but Jamus had already dashed off, headed for the road.
+
+“Oi, Jamus!” Carten roared, taking off after him. “I’m comin’ too! Damn it, wait, ya twiggy idiot! Lemme get me shields!”
+
+Rain cursed, then jabbed his finger into the crowd. “Samson, go with them. Keep them out of trouble until the rest of us get there.”
+
+“On it,” the indicated man said, nodding and striding off after the others.
+
+“Stint, what’s the situation in the city?” Rain demanded.
+
+Stint swallowed as dozens of heads pivoted to look at him. He longed to slip out of his saddle and take shelter behind Dust, but he feared that his leg would give out on him. It was throbbing horribly. Rain’s aura had taken away the comforting numbness of the cold.
+
+“Forget the details,” Rain said. He pointed at the three—no, four figures jogging away down the road. Tallheart had joined Jamus and the others. “When they show up, what’s going to happen?”
+
+“Oh,” Stint said, blinking as he realized he’d frozen up. Shit. “Oh, yeah, that might, uh.” He shook his head, deciding to be a leaf on the river. “It will cause a stir, certainly. They should be fine unless they try to pick a fight with Crimson or one of his friends. I doubt there’d be an issue from anyone else…”
+
+“Who’s Crimson?” Rain asked.
+
+“Crimson Gar,” Stint said. “Or Bloody Gar, if you want to get yourself killed. Adventurer, and professional asshole. He and his party took over the fancy inn. They could be running the whole town by now, except they don’t really care about anything other than hunting monsters.”
+
+“They silver?” Rain asked. He glanced at Ameliah, raising an eyebrow, but she only shrugged.
+
+Stint shook his head. “No. Bronze. They’re strong, though. A lot stronger than me.” He gestured to his leg. “This wasn’t from a monster. It’s what I got for standing up to them.”
+
+“Damn,” Rain cursed. “Just what I needed.” He muttered something under his breath that Stint didn’t catch—in a foreign language by the sound of it. He looked back up. “If the rest of us just show up, is this Crimson person going to make a scene? What about the townsfolk? Is there, like, a mayor or something?”
+
+Stint took a minute to look around the company, his eyes lingering on the loaded sleds. The emptiness of his stomach rushed to the front of his mind as he considered what might be in them. “A…problem,” he said slowly, then shook his head. “It…depends. You don’t happen to have any food to spare, do you? We’ve been eating monsters. People are—” Stint stopped, noticing that Rain was shaking his head.
+
+“We don’t have much,” he said. “We’ve been eating monsters too, though we’re hardly in danger of starving or anything. Hunting them is easy; it’s a lack of variety that’s the problem.”
+
+Wait, easy? But… Stint took another look around. His eyes widened, his temporary calm vanishing. “You’re not…” he gestured vaguely. “You’re not all awakened, are you?”
+
+“Not all of us, no,” said an older woman, “but we can take care of ourselves.”
+
+Stint didn’t doubt it. The woman was wearing a gambeson, and she had a sword belted at her hip. She walked up to Rain, a large fluffy dog following obediently, though its tail was wagging so furiously that its entire body was shaking. Stint had to steady himself as Dust shifted away, clearly not impressed by the over-excited canine.
+
+The woman’s earnest expression was at odds with the happiness of the dog beside her as she spoke to Rain. “I’d like to go after Jamus, please.”
+
+“Me too, Meloni, me too,” Rain said. He hesitated for a moment, then nodded. “We’ll all go together.” He turned, shouting at the crowd. “Ascension! We’re moving! Last sled ready to go gets an extra round of math homework!”
+
+A ripple passed through the crowd, which turned into laughter and a mad dash for the sleds.
+
+Stint knitted his brows together. Math…home…work? What?
+
+“Thank you,” Meloni said, nodding to Rain before hurrying away, the dog following.
+
+Rain turned and strode after her, speaking with another woman that Stint didn’t know. Ameliah took Dust’s fallen reins and walked after them, the horse following placidly, clearly accepting the situation. After a moment, the woman Rain was speaking to nodded and began walking toward the sleds more briskly, shouting as she tried to restore order.
+
+Rain’s…in charge? Stint glanced at Ameliah numbly. She’s a silverplate. Shouldn’t she be in command of this…whatever this is?
+
+“Stint’s injured,” Rain said to Ameliah, interrupting his thoughts. “Do you think you could take a look?”
+
+“You don’t want to leave it for Tahir or Mereck?” Ameliah asked.
+
+Rain shook his head. “Not for something like this. You can smell that, can’t you? I didn’t want to use Purify in case I, well…”—Rain shrugged—“evaporated away half of his leg.”
+
+“Mmm,” Ameliah said, nodding. She brought Dust to a stop, then laid a hand on Stint’s thigh. He gasped as he felt a rush of magic flow through him. It didn’t hurt; it was just surprising.
+
+Ameliah tsked, glancing at Rain. “It’s not as bad as all that, but it’s certainly bad.” She looked up at Stint. “How long ago did this happen?”
+
+“About a week and a ha—Aaagh!” Another pulse of magic flowed through him, though this one was completely different. Stint clenched his jaw in agony as his bones seemed to grind against each other.
+
+“Sorry,” Ameliah said. “I should be able to heal it, but it’s been long enough that it’s going to take a few repetitions. Who the hells set this?” She shook her head. “It’s going to hurt again,” she said, her tone matter-of-fact. “Be ready.”
+
+“Arggh,” Stint managed to keep himself from screaming. Barely. His leg felt like it was on fire.
+
+Ameliah sighed. “You weren’t walking on this, were you?” She didn’t bother to let him respond, blasting him again with mind-numbing pain.
+
+This time, he did scream.
+
+“This is what happens, Rain, when people rely on their stats too much,” Ameliah said once his howl had ended. She had grabbed Dust’s reins once more and was struggling to regain control of the startled animal.
+
+“Is he going to be okay, or—?” Rain asked.
+
+“He’ll be fine,” Ameliah said. Then she hit him once more. Stint would have screamed again had he had any breath left in his lungs.
+
+“They think just because they can work through the pain that it’s not doing damage.” she continued with a sigh. “I can handle this, if you want to follow them.”
+
+Stint swayed, his vision seeming to narrow to a tunnel as he slumped against Dust’s neck, clinging to avoid falling off. He barely even felt the next pulse of magic that hit him.
+
+“I want to, but I can’t,” Rain said, his tired voice sounding like it was coming from a thousand leagues away. “I don’t want to abandon Vanna in case there’s a problem with this Crimson person, and I don’t want to make you deal with it either. I’m the captain. It’s my responsibility. Besides, my soul could be an issue. I don’t want to cause a panic by—”
+
+The distant buzzing of their voices was snuffed out like a candle as the world turned black.
+
+No more than a few minutes into his mad dash, Jamus let himself slow to a walk. Not because he was getting tired, but because his thoughts were weighing on him.
+
+Nine years.
+
+It had been nine years since he’d seen them last. Four years since he’d last received a letter from Bens. They’re different people, now. Will I even recognize them?
+
+“Jamus,” Tallheart rumbled, and Jamus realized that he’d stopped.
+
+He took a deep breath and let it out slowly, running his hands through his hair. They came away wet. Snow was still falling softly, but the wind had died down.
+
+“Here,” Samson said, offering him his hat. “You forgot this.”
+
+Jamus stared at the crumpled orange hat in the man’s hand, then snorted and accepted it. He didn’t put it on, clutching it in his hands instead.
+
+“Ya all right there, Jamus?” Carten asked. The big man had his shields strapped awkwardly to his back and was playing with a stick that he’d grabbed from the side of the road.
+
+“No,” Jamus said wearily. “I am not all right.” He resumed walking, though at a more casual pace. He thought he recognized this stretch of road. Vestvall really wasn’t far, now. Five minute’s walk would bring them to the edge of the forest, then another fifteen minutes to the city proper.
+
+“Do you want to talk about it?” asked Samson, brushing some snow from his cloak.
+
+“Not particularly, no,” said Jamus. “Come on.”
+
+He walked on for a few more minutes, and the others let him continue in silence, watching the trees with casual wariness. Rain’s rank gauge had been steadily falling, showing three as of last night, but even a low-level monster could be a threat if it caught you by surprise.
+
+Abruptly, Jamus spoke. “It’s just… I don’t know what will hurt more. Finding out that they’re dead, or finding that they don’t recognize me.”
+
+“Mmm,” Tallheart rumbled.
+
+“Bens was fourteen when I left,” Jamus continued, fiddling with his hat. “He’ll recognize me, at least. Alden was eight. He…might not. And Dami…” He shook his head. “She was just a baby. I’ll be a stranger to her.”
+
+“And yer wife?” Carten asked, tossing his stick back into the forest. “What about her?”
+
+“Carten,” Tallheart said, a note of warning in his low voice.
+
+Jamus snorted. “I don’t know,” he said. “Part of me wants to see her, but another part of me…” He sighed, then shoved her out of his mind. I wouldn’t give up Meloni for her, not for all the Tel in the depths. He shook his head. “We should probably go back to the company.”
+
+“No,” Tallheart said, laying a hand on Jamus’s shoulder. “This will not become easier with time, Jamus. I am with you.”
+
+“Thank you, Tallheart,” Jamus said, patting his hand. Tallheart stepped away after a moment, and Jamus tilted his head, watching him. “You know, I am surprised you would follow me to a human city like this.”
+
+Tallheart snorted, smiling. “If there is danger, we will stand together, and Rain and Ameliah will not be far behind.” His smile faded, his face returning to its typical stony expression. “I do not fear for myself, but for you, Jamus. I know what it is to lose a family.”
+
+Jamus felt tears fighting to break free from the corners of his eyes, but before he could respond, Carten interrupted.
+
+“Oi, you two, enough with the onions. Yer gonna’ get me bawlin’, an’ nobody wants ta see tha’.”
+
+Samson snorted. “You? Cry?”
+
+“Big ol’ man-tears,” Carten said, grinning. “It’d be right embarrassin’. I’d have ta’ hang up me shields an’ take up knittin’.”
+
+Jamus snorted. “Thank you, Carten. I needed that.” He paused, pretending to consider something for a moment. “I could use a sweater, actually. Do you think you could—”
+
+“No,” Carten said flatly, then laughed and slapped Jamus on the back. “Come on. Let’s jus’ treat this like scoutin’. We’ll check it out, an’ report back. What happens, happens.”
+
+Jamus gripped his hat tighter, then nodded and uncrumpled it before settling it firmly on his head. “Scouting, huh? I can do that.”
+
+“Good man,” Carten said, thumping him again and almost sending his hat tumbling right back to the ground.
+
+“Careful!” Jamus protested.
+
+“There,” Samson said urgently, interrupting Carten’s laughter.
+
+Jamus blinked as he looked where Samson was pointing. The trees had ended abruptly in a line of stumps, further from the city than he remembered. Vestvall was clearly visible through the lightly-falling snow, with slapdash wooden walls plugging the gaps between the outermost buildings. The city certainly looked the worse for wear, but it was still standing. In the distance, he could make out figures standing atop a few of the houses as woodsmoke rose from within the boarded-up perimeter.
+
+Samson lowered his arm. “This is it, right? I knew Vestvall was small, but that’s barely a town.”
+
+“Mmm,” Tallheart rumbled.
+
+“Stop makin’ fun o’ Jamus’s home,” Carten said, gesturing broadly. “It’s quaint. Last time I was here, there was this place that sold these tiny little pies with beer in the crust…”
+
+Jamus managed half a smile. “The Half-Pint Bakery.“
+
+“That was it!” Carten exclaimed.
+
+Jamus shook himself and increased his pace. “Come on.” One in four, dead. Only one in four…
+
+“Mig! Oi, Mig! Someone’s comin’!”
+
+Jamus came to a stop a short distance from the barricade blocking the road and waited. Even with his perception boost, he couldn’t make out the response to the sentry’s shout of alarm. The sentry’s follow-on response was easy enough to hear, though.
+
+“It ain’t Stint, ya dumbcob! Would I be making this much fuss if it were?”
+
+“What?!”
+
+A second form popped into view atop the roof on the other side of the road. “Hey! Who are you!? Halt!”
+
+“They’re already halted, idiot! Gods, you’re shit at this, Mig. Hello down there, friends!”
+
+The second man—Mig, apparently—pointed rudely. “Del, look! One of em’s a deer!”
+
+“Yes, I can see that, Mig,” said the first man. “I’m not blind.”
+
+“Ain’t never seen a deer before, Del,” Mig said.
+
+Del laughed. “That’s what your wife is always telling me. Now shut your gob and get over here to help me with the ladder! Sorry, friends. Apart from being a terrible hunter, my partner is also a bit slow. We’ll have you in in just a moment.”
+
+Jamus watched with his mouth slightly open as Mig picked his way across the barricade blocking the road, arguing back and forth with Del the whole way. More figures had appeared atop various buildings, and a bell was ringing loudly somewhere in the city. Carten exploded into full-on laughter, breaking the spell. Jamus closed his mouth and glanced at him before looking at Tallheart, who was frowning.
+
+Tallheart quickly controlled his expression, his face fading back to impassivity. “I cannot say that I have ever received a reaction quite like that before.” He tilted his head. “I do not make a habit of visiting human cities, however.”
+
+“You’re not offended, are you?” Jamus asked.
+
+Tallheart shook his head. “No.”
+
+“They called ya a deer,” Carten said, fighting down his laughter. “Ya gonna take that? Shit’s…what’s the word? Demeaning.”
+
+Tallheart snorted. “Words cannot wound me.” He nodded at Mig. “More damage was done to that one.” He smiled slightly. “Never seen a deer. Amusing.”
+
+“Right?!” Carten said, then broke down laughing again.
+
+Jamus snorted softly, then shook his head, turning back to look up at the wall. He scanned the faces there, searching.
+
+“Do you recognize anyone, Jamus?” Samson asked as the two peculiar sentries began lowering a long wooden ladder down from the rooftop.
+
+“No,” Jamus said distractedly. “Not yet.”
+
+“Right, come on up!” the slightly more professional of the sentries called down.
+
+Jamus eyed the wooden ladder skeptically, then glanced at Carten as the armored man stomped toward it. “Wait a moment, Carten.”
+
+“Hmm?” Carten said, stopping.
+
+Levitation.
+
+Jamus’s book appeared before him, pages flipping rapidly until the correct spell was shown.
+
+Levitation
+
+Tier 2
+
+Rank 6 (47% progress)
+
+By your will, bid your target to float into the sky.
+
+Decrease weight of touched object or entity by 120%.
+
+Effect lasts 63 seconds for 100 mana, duration increasing with Focus.
+
+May be extended with concentration, contact, and an increasing quantity of mana.
+
+He tapped Carten on the shoulder, activating the effect. Carten laughed as he began tumbling into the air, ineffectually swimming for the ladder. An alarmed chorus of shouts rose from those watching as they realized what was happening. Jamus had already heard the words ‘awakened’ and ‘Guilders’ being muttered by the onlookers. This display would doubtless settle any remaining questions in their minds, not that he cared one way or another.
+
+“Depths!” Carten shouted as he floated past the top of the ladder without reaching it. His ascent stopped, his body hanging in the air unnaturally as he swam for the top of the wall. The skill didn’t say it, but it was possible for an ally affected by Levitation to control the spell’s influence over them. In all their practice, Carten had yet to figure out how to get it to send him back down, though.
+
+“How much longer is this gonna’ last, Jamus?” The big man asked as he flailed ineffectually. “Bah, someone throw me a line.”
+
+Tallheart snorted, then jumped. Passing Carten, he snagged him out of the air and brought the two of them to a graceful landing atop the roof with barely a thud. Tallheart walked calmly past the slack-jawed sentries, towing a floating Carten behind him like a children’s toy, then jumped down and out of sight. Jamus hauled himself up the ladder quickly. Samson followed, and then the two of them slid down another ladder to join Carten and Tallheart in the square on the other side.
+
+A veritable crowd of people had arrived by now, forming a wary ring around the newcomers. Jamus’s eyes darted from face to face, recognizing a person here or there, though he saw no one he knew well. Come on… come on…
+
+“Ah, pardon me,” said a man wearing a bedraggled purple hat as he stepped forward nervously. “You are…adventurers? From Fel Sadanis?”
+
+“Some of us are,” Samson said, moving in front of the others. “I am Freelord Samson Darr. My companions and I are members of Ascension, an independent company. On behalf of Captain Rain, Custodian of the Watch, I greet you. The rest of the company will be arriving shortly. Do not be alarmed. I give you my assurance that we are only here to help.”
+
+“A…a-sen…sion?” the man said, struggling with the unfamiliar word as excited whispers spread through the crowd. “I’ve never heard of that… How many of you are there?” His tone was wary. He glanced back at the sea of people, then back at Samson. “We don’t have much in the way of food, my lord.”
+
+“Freelord, please. Or just Samson. Including the four of us, the company numbers fifty strong. We do not require food precisely, though we would of course be interested in trade. It has been a long road from Fel Sadanis. I haven’t had a good cup of tea in weeks.”
+
+“Bah, tea,” Carten said. “Beer’s what I need.”
+
+The crowd broke out into excited rustling, but it was cut off as one member shouted loudly over all the others. “What’s the deer doin’ with ya?”
+
+Jamus was snapped out of his search, and he pivoted to glare in the direction of the speaker. I need to deal with this. “Hey!” he shouted. “Speak with respect, or we will show you none. I will not say it twice.”
+
+“Yeah, what he said,” Carten said, grinning as he cracked his knuckles. “Or else I’ll thump ya’.”
+
+The man who’d spoken looked at first unrepentant but quickly withered under their attention as a void in the crowd formed around him.
+
+“Peace, please,” Samson said beseechingly, raising one hand and laying the other on Jamus’s shoulder. He squeezed lightly, and Jamus backed down, turning to Tallheart and mouthing a silent apology.
+
+“Mmm,” Tallheart rumbled. Then, astonishingly, he stepped forward. “I doubt that any of them have met one of my kind before,” he said to Jamus, though his voice was pitched to carry. “If they cannot overcome their ignorance, I will forgive them.” His tone was icy as he stared at the man who’d spoken out, who was fervently trying to slip back into the crowd. “Within certain limits.”
+
+“Tallheart,” Samson warned.
+
+Tallheart snorted, shaking his head. He gestured to Jamus. “This is Jamus. Some of you know him. If you have seen his family, please come forward to speak with us.” He crossed his arms and took a step back, clearly finished with the conversation.
+
+The crowd murmured. Even more people had arrived as they’d been talking, and the square was getting crowded. The first man Samson had been speaking to had rejoined their ranks, and everyone was still giving them a wide berth.
+
+Jamus looked around. What happened here? Why are they so skittish?
+
+Cries of alarm suddenly went up from the crowd, people pointing at the sky. With a soft thump, Ameliah landed beside them.
+
+“How’s it going?” she asked, rising from her crouch.
+
+“About as well as could be expected,” Samson said. “Rain?”
+
+“He’s coming,” Ameliah said. “The company should be here in maybe ten minutes.” She turned to Jamus. “He told me to apologize to you. He doesn’t want to cause a panic by walking into the city with his…condition, but he wants you to know he wanted to be with you for this. Any sign of your family?”
+
+Jamus shook his head. “Not yet. There’s something wrong here, Ameliah. Look at them. They’re scared.”
+
+“They stink, too,” Carten said. “Phaw, bloody accolade. Rain’s been spoilin’ us. Ameliah, could ya’…” he gestured, wiggling his fingers.
+
+Ameliah sighed, then spoke softly. “No, Carten, not yet. Jamus is right, and it could cause a panic. We’ll wait for things to settle down. From what Stint said, there’s an adventuring team here causing problems.”
+
+“I see,” said Samson. “Do you want to take over?”
+
+Ameliah sighed. “Not really.”
+
+“Father.”
+
+Jamus’s heart leapt in his chest as he saw a man pushing through the crowd. He was carrying a young child and towing a fair-haired woman behind him.
+
+“Bens!” Jamus dashed forward.
+
+The man handed the child to the woman hurriedly, just in time to receive Jamus’s crushing hug.
+
+“Gak!” he gasped.
+
+“Sorry, sorry,” Jamus said, hurriedly pushing him back to arm’s length and looking him up and down. He’s all grown up. “Thank the gods.” He said, then took a deep breath. “Alden? Dami?”
+
+“They’re fine, Dad,” Bens said, smiling. “Mom too.”
+
+Jamus hugged his son again, more gently this time. Tears of relief began falling from his eyes as Bens wrapped his arms around him and hugged him back.

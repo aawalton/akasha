@@ -1,0 +1,129 @@
+---
+id: a034b9ef-f579-58fe-899f-5b6886c351b1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1 – Jace Seren, Courier"
+slug: 0001-chapter-1-jace-seren-courier
+partOf: dark-matter-ascension-litrpg-swordmage-mc
+position: 1
+ownLength: 2353
+unit: words
+publishedAt: 2024-12-02
+link: "https://www.royalroad.com/fiction/99657/dark-matter-ascension-stub/chapter/1935565/chapter-1-jace-seren-courier"
+royalRoadId: "1935565"
+---
+
+The sliverscreen glimmered in Jace’s palm as he tapped the panel to open the application from General Logistics. A priority message was listed in bold text.
+
+[Your payment is overdue! You have 8 hours to complete your payment before repossession agents are dispatched.]
+
+The situation was grim, and Jace looked down at his prosthetic legs with a sigh. They were expensive, but worth the cost. He would probably be paying them off the rest of his life to the megacorp. Thankfully, this gig would pay well. Slipping the sliverscreen back into his pocket, he pulled up his hood over his unkempt, black-as-mud hair.
+
+Jace vaulted the wall he was hiding behind and landed in a crouch, scanning the area for any sign of guards. He jogged to the docks before slowing down to blend in. A handful of workers were moving about, and he was just another shabby-looking porter for all they cared. He had been here plenty of times before and made a beeline for his pickup. The blue boat was bobbing slightly, tied off to the closest possible cleat.
+
+“I’m here for the package,” Jace announced.
+
+A pair of hulking men hopped over the edge of the boat. One of them had a briefcase handcuffed to his arm. Jace recognized the one without the briefcase and gave him a quick wave and a smile. “Greg! I didn’t know you were freelancing again.”
+
+Greg was a goliath of a man, standing at least a foot taller than Jace. He walked up to him and wrapped the smaller man in a bear hug, his ruddy, red beard scratching against Jace’s face. “Hey! It’s been, what, a few months?” He let Jace down and the slimmer man was able to breathe once more. “Last time I saw you, you were running awa- no,  crawling  away from some gurney in a crappy hospital. I see you got fancy new feet.”
+
+Jace nodded, “Yeah. They were expensive.  She  tried to pull some strings – but I ignored her…Anyways, I wasn’t expecting to see you anytime soon. How was visiting the family?”
+
+“Good. We’ll catch up later. You get a rough dropspot, my man, and the clock is ticking.” Greg walked to his companion, opened the briefcase, withdrew a thick, clear, plastic bag, and walked back to Jace. “My contact told me you got climate control on that bag.” A shining, sparkling, silver liquid sloshed around in the confines of the container.
+
+Jace nodded and unzipped the messenger bag, “Hot or cold?”
+
+“As cold as you can get it,” Greg replied as he placed the item gingerly into the bag.
+
+“Any handling instructions?” Jace asked as he closed the zipper, tapped the temperature control, snapped the lock shut, and readjusted the straps to keep it tight to his back.
+
+“Keep it away from magnets. This lady gave a thirty-minute timer. Good luck. I’ll buy you a beer when the job is done. We can catch up!” He tapped a button on his sliverscreen - a notification to whoever sent him that he had done his part of the delivery, and to start Jace’s timer. Greg turned away with a slight wave as he and his companion clambered back onto the boat.
+
+Jace did not bother waving back.  Damnit! You should’ve told me that  before  we started talking!  He turned heel and took off at a sprint. Thirty minutes to get across town was  barely  manageable, but he would have to sprint the full distance…and hope no obstacles got in the way.
+
+He racked his brain trying to think of every shortcut he could come up with. He had to cross the river, and while there were a few different ways to cross, the bridge was the most reliable and safest route.
+
+But not the most direct. If he did not make the dropspot on time, he wouldn’t get paid. And if he was not paid, he could not pay off his debts on the new prosthetics. He would be no better than the rest of the bums lying on the street with no income, just waiting to die. He did  not  want his feet repo’d.
+
+He instead cut for dangerous territory. Gang territory. The type of territory that street folk like him knew to sneak through and  not  run through - but he had no choice. Survival came first. And in this case, survival meant getting to the dropspot. This was his best chance at making the delivery deadline.
+
+Just survive, he thought as the words of his kid sister echoed through his head. The last words he heard from her. That was the only reason he was alive and had not succumbed in the dingy, charity hospital.  Survive for her. No matter what. Survive.
+
+There was a wall in the way, and he slowed slightly as he prepared to jump. His metal feet whirred, amplifying the force of his footfalls. Runner’s Replacement: some of the best prosthetics a person could buy. They replicated a human foot near-perfectly, but had a bit of tech inside that could provide a bit more force when running or jumping than a real foot could exert.
+
+He jumped up, planted his hands on the top of the wall, hoisted his lower half over, and landed on the ground in a roll. Glancing down the alley, he felt a rush of adrenaline at the impending danger coming his way.  Just my luck.  Five members of a local gang he had crossed paths with a few times were loitering around their hangout.
+
+There were hundreds of gangs all over the city. They took over a building and part of a street, claimed it as their territory, and would run their operation from that location. Small gangs, and they moved frequently. The corrupt and paid-off governments did not care about street-level crime, and the police were never able to track down their next den before they moved on. Gangs like these preyed on people like Jace.
+
+And all five spotted him thanks to the loud  clang  of his bare prostheses impacting the cracked asphalt. He was going for speed, not stealth, and his lack of caution cost him a smooth journey through territory he had traversed dozens of times before without issue. Their shouts overlapped as they began to rush towards him. Jace could hear doors slamming and knew that more were joining those five in the chase.
+
+Jace kept sprinting down a familiar alley, feeling his heart beat faster and faster. The exhilaration of a chase kicked in a moment later, as he heard more shouts from behind,  and  the revving of a motorcycle engine as the pursuit began in earnest.
+
+They had fortified their territory, and Jace had to navigate between haphazard traps that lay all around. From simple shattered glass that he easily avoided, to a Molotov-cocktail rigged with a tripwire which he had to leap over, and even somehow an ancient bear trap that he  barely  dodged at the last second; scarcely noticing it hidden under garbage.  They’ve learned, he thought, as these traps weren’t here when he snuck through their territory a few days ago when they were first taking over the block.
+
+Bang!  He instinctively ducked as a bullet whizzed by him before impacting the concrete wall of the building to his left. Tiny chunks of the debris puffed out and provided a small smoke screen. Jace got as low as he could as he kept running, gunshots ringing out behind him as bullets continued to whiz by.
+
+Jace felt giddy as adrenaline pumped through his veins, the situation growing more dire with the threat of lethal force. The rhythmic  tap, whoosh, tap, whoosh  of his feet hitting the ground and lifting off as he continued his journey were a constant reminder of the accident a few months ago. The sound was almost unnerving - but he had begun to get used to it.
+
+The revving of the vehicle that was in pursuit pushed him on even faster, and he could feel the internal servos beginning to whine under the pressure of being overworked; a slow heat traveling up the grafted metal and reaching his flesh.  Damn, I’m pushing them too hard, he thought. They were great for sprints - not as good for endurance running.
+
+He coiled his legs once more and jumped over the small wall of stacked metal siding and wood scraps - the edge of the gang’s territory. He was not able to clear it fully, but he was able to kick off the alley wall to get the height clearance he needed. He landed in a roll and emerged onto a street overlooking the river. A familiar place that he frequented often as a kid.
+
+Come on, there’s always a few… he scanned left and right, finally spotting what he was looking for. An old, rusted dinghy. The type that a street urchin like him used to sleep in. A boat that one could use to escape into the bay just to catch some crappy, polluted catfish to roast over a trash fire for dinner. The type that he would use to escape from other street kids who did not follow the code. And a fast way across the river to his drop off location.
+
+An enormous  crash  rang out behind him, and glancing back, he saw that the person riding the motorcycle had burst through the makeshift wall. “Damnit!” Jace shouted as he kept running.  I’ll be a sitting duck if I am rowing out. That means I have to take the bridge. I’m not going to make it in time!
+
+He pushed himself despite the likelihood of failing his delivery. There was no choice - he had to get there as fast as he could, even if it was past the deadline. He ran right past a bodega that had just opened and was blasting a radio broadcast. Some news channel. He barely registered the words as the rush of adrenaline-fueled pursuit dulled his hearing.
+
+“...ten-billionth person born today in China.” That bit of the broadcast reached his ears.
+
+Jace froze.  What the hell?  He could not feel…anything.
+
+Not the acrid taste of smog in the air. Not the foul smell of rotten sewage pouring into the river. And most definitely and unsettling of all - not even his own heart that was quickly beating a few moments ago. He could still see. Hear stuff, too. And think, of course.
+
+The brackish river that had been slowly sloshing against the sides of the canal had stopped moving. The angler, pole mid-cast off one of the pylons that stood like a soldier at attention in the relatively clean center of the river, was also still. Everything was stopped as if someone had hit the pause button on reality itself.
+
+A voice echoed in his head, and a message appeared in the air in front of him, which should not have happened, as he had no ocular implants. The voice was that of a game show announcer.
+
+<<<<<>>>>>
+
+[Congratulations, Planet Earth of the Sol System in the Milky Way Galaxy!.]
+
+[Your world has reached the population threshold (relative to its size) to qualify for entry into The Cosmic System!.]
+
+[Cosmogenic Merging: Initiated.]
+
+<<<<<>>>>>
+
+Jace could still not feel - only see, hear, and think. And his mind raced with possibilities.  Some type of experiment?  He thought of the weird package in his bag.  This fluid stuff?  He had no clue what he was transporting most of the time.
+
+He could feel something physical - the world shaking under his feet. Not an earthquake, but more like a tremor.
+
+<<<<<>>>>>
+
+[Cosmogenic Merging: Completed!.]
+
+[Welcome to The Cosmic System!.]
+
+<<<<<>>>>>
+
+What the heck is Cosmogenic Merging?  Jace thought. As if to answer his question, a flood of information crossed his vision, and a pleasant - if bored - female voice read it aloud to him. Her spoken words matched the ones filling his vision.
+
+<<<<<>>>>>
+
+[Your world has now been incorporated into The Cosmic System. Portals to The Cosmic Corridor have appeared in your fifty largest population centers. You will now be given the choice of Civilian or Aspirant classification.]
+
+[The Civilian classification forces a maximum lifespan of 150 years while in The Eternal City before removing the individual back to their home world. Prevents willful injury in The Eternal City or The Cosmic Corridor. Choose this option if you want to continue living your usual life, with just a little bit of influence from other worlds. Relocating to The Eternal City is permissible. But you have to get to one of the fifty portals to do so. Keep in mind the time limit! If you stay longer than 1 day past 150 years of age – you die.]
+
+[The Aspirant classification provides for a path to becoming an Ascendant. A being with the power of the cosmos at their command. Unrestricted travel to any world connected to The Cosmic Corridor. This carries the risk of injury or death. This leads to practical immortality and near-deific power. Approximately 0.05% of those who choose this classification survive.]
+
+[Frequently asked questions.]
+
+1.) This is not a trick, magic spell, hack, or any other form of charade. Your world is going to be part of a larger, multi-world System.
+
+2.) Time is passing differently for each person during the Cosmogenic Merging process, but, in effect, you will ‘resume’ your existence at the same time as everyone else.
+
+3.) Those who are considered minors by Cosmic System standards will be relocated to The Eternal City to ensure a safe, education-oriented, and standardized upbringing. Parents and caregivers may visit any time. After they become adults, they will choose a classification.
+
+4.) Aspirants will be transported away from their current location. Aspirants who are in a position responsible for the safety of others (pilots, drivers, doctors, etc.) will not be immediately transported. Once their assigned passengers, cargo, patients, etc. are safe, then they will be transported.
+
+[Make your choice.] The voice shifted in tone, and she went off-script. [And be quick about it! You are my last one for this shift!]

@@ -1,0 +1,257 @@
+---
+id: 9af94674-63c9-53ad-bcc1-ca5d943ccc26
+page-type-slug: story-chapter-royal-road
+title: "226: Anchorage"
+slug: 0226-226-anchorage
+partOf: delve
+position: 226
+ownLength: 4132
+unit: words
+publishedAt: 2023-04-02
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1155401/226-anchorage"
+royalRoadId: "1155401"
+---
+
+“I have no idea what I’m doing,” Rain declared, planting his hands on his hips.
+
+He stood on an antiseptic-white paneled floor in a spherical room near the heart of his soul station. The space was dominated by a glass orb, twice the height of his avatar in diameter, supported like a snow globe by a thick metal socket rising from the floor.
+
+The orb was a spell cradle, and within it floated all the shards of Purify that he’d managed to extract from his former core. They manifested as tiny white splinters, much like Tel in appearance. To his still-growing senses, though, there was far more going on beneath the surface. Each was a galaxy of information, at once the same and not the same as all the others. Each contained the entire tapestry, but was also no more than a single thread. It made no sense.
+
+True to the Warden’s word, the system’s work was far beyond him.
+
+“Hsssssss,” whispered a Snek as it entered the room through the open airlock, another trio of shards trailing after it.
+
+“Is that the last of them?” Rain asked, turning and feeling the weight of the potential as it sloshed in the tank he wore on his back.
+
+The Snek bobbed its snaky head, passing him and rearing up to stare at the crystalline orb. The surface rippled like water as the Snek guided the shards through. Those inside swirled, as if to greet them in welcome.
+
+“Good,” Rain said, extending a hand to the serpentine avatar, which curled around it and began climbing his arm.
+
+Both were him, of course.
+
+With the continued expansion of his computer core had come an increased ability to split his focus. That included splitting it beyond a single avatar. Piloting the Snek remotely was really no different than eating Cheetos with one hand while typing with the other. In this increasingly tortured metaphor, the cheese dust on the keys was his growing tendency to talk to himself. He was sure it was perfectly healthy and not a cause for concern in the slightest.
+
+Once I fix this, I can take a break. Then it’s back to what I was supposed to be doing before I went down this rat hole.
+
+Shaking his human head, he flicked out his snaky tongue in a sigh, then floated upwards, his toes falling to point at the floor. With a wave of his will, a hatch in the ceiling irised open, revealing the twisted-wire end of a cable in a conduit leading to the station’s main reactor.
+
+If the computer core was the link to his mind, the reactor was the link to his body. To say it was running poorly was putting it mildly, gummed up by his original image, just as the Warden had said. Unlike the main computer, which he was building from nothing, he was improving the reactor by taking things away. The trouble was, when he’d pried free too many shards of Purify—carefully, mind—the spell had stopped working.
+
+The panic from that had faded, mostly. The spell had started working again when he’d put the pieces back. However, that still hadn’t solved the root problem.
+
+And so, faced with the alternative of going back to pounding his head against the wall trying to unpuzzle the pattern for the next tier, he’d decided to finish what he’d started. Now that the shards were all together, he just needed to link them back to their power source. Once that was done, it would work.
+
+I’m not worried. Who’s worried?
+
+Reaching the ceiling, Rain drew potential from the tank on his back and wove it into wire, extending the cable toward the waiting socket on the spell cradle’s base. As he went, he jacketed the heavy copper with black rubber, painting an electric blue stripe along one side. Mana could not exist here, not as a physical substance like potential could. While he’d chosen electricity as his image, what the cable would really carry was intent.
+
+Plugging the end in with a satisfyingly heavy click, Rain dropped back to the floor to stare at the completed orb. After a few moments of pondering, he turned to the Snek on his shoulder. “Ready?”
+
+“Hssss,” hissed the Snek.
+
+As one, both heads pivoted to face the waiting spell.
+
+Purify
+
+The spell activated. That much was plain from the sudden lightning bursting from the end of the cable and spreading through the shards as they zipped into position to form a complex web of lightning inside the sphere. It wasn’t a complete success, though, he almost immediately realized. The trouble was that—
+
+“Hey!” Ameliah said in the real world, wrapping her hand around his face and pushing his head to the side. “Too bright!”
+
+“Sorry,” Rain said through her fingers, deactivating the spell and returning their room to darkness. Pushing her arm away, he sat up, the covers shifting to reveal armor covering his chest. He began speaking in an excited rush. “It’s just, I split Purify out from my core, and it stopped working because it couldn’t get any mana, but when I connected it back up, mana was all I connected, so none of my metamagic activated! It could have been a lot worse, but Aura Synergy got disconnected too, which means—”
+
+“I’m not nearly awake enough to even try to understand that,” Ameliah interrupted, blinking at him, then sitting up with a yawn and a stretch. Like him, she was wearing her armor beneath the covers. It really was quite comfortable once you got used to it.
+
+Turning to face him, she ran her hands through her hair, then slapped her cheeks twice. “Okay, try it again.”
+
+“In a second,” Rain said, kissing her on the tip of the nose before diving back into his soul. Rather than try to build another conduit to connect Purify to his other spells, he simply drew additional stripes along the conduit, one for each metamagic ability. As an afterthought, he added eight more for the primary stats, plus Perception and Speed. Stat shards were another thing he’d encountered when digging through his old core. While he was pretty sure none of them mattered for Purify, not even Focus, it was better to be safe than sorry. He could sort out the details and assign proper colors to the stripes later.
+
+If I split out Prismatic Intent, next, I— No, I’m getting ahead of myself. Let’s just make sure this works first.
+
+Still in the spell room, he activated Purify again, watching to his delight as the shards responded. The flow of electricity this time seemed significantly less, just as intended. He played around a bit, adjusting Channel Mastery and activating various other metamagics. The pattern was incomprehensible, morphing in increasingly elaborate ways. And yet it was familiar. It was the same as the mana pattern in his body, except seen in breathtaking HD. It was overwhelming, but it felt...right.
+
+It felt clean.
+
+Opening his eyes again, he found Ameliah smiling at him. “Are you done?” she asked.
+
+“For now,” Rain said with a laugh. “I just got a little excited. Here, let me catch you up. Do you want breakfast? I want breakfast.”
+
+An hour later, after comparing notes on their respective soul escapades, Ameliah found herself watching with some amusement as Rain coached Dozer in stacking the silverware. The Essence Slime had gotten bigger again, though he was nowhere near as big as he’d been when he’d been a mere Crystal Slime. He’d also gotten gloopier, for lack of a better word. More able to increase his viscosity.
+
+Ameliah chewed contemplatively on her last strip of bacon, knowing there’d be no more once she swallowed.
+
+He definitely leveled again.
+
+The first time Dozer had grown had been before Rain had started refining his potential. From that, they’d concluded that the slime had probably been siphoning Rain’s essence from the moment he’d been sneezed back into existence. The second level, coming so soon after the first, was doubtless thanks to the higher-tier essence now pooling in Rain’s soul. Rain had been keeping Dozer away from the stuff, afraid it might dissolve him or something, but even so. There was no other explanation either of them could think of.
+
+It’s not like anyone knows what an ‘Essence Slime’ is for us to ask.
+
+Ameliah swallowed with a sigh, reaching for her coffee. “Rain.”
+
+“Yeah?” Rain asked, looking up. His momentary distraction allowed Dozer to snatch a fork from his fingers.
+
+“I’ve been meaning to tell you something since yesterday,” she said, stopping as Dozer inadvertently toppled the silverware pile in his attempt to add the fork. The slime quivered in horror, rapidly pouncing to slurp up the tumbled cutlery.
+
+We’ll need to keep an eye on him if he keeps getting stronger. I can’t imagine him ever hurting someone on purpose, but I also don’t trust him to realize that he might be able to.
+
+She shook her head, then looked back at Rain, reminding herself that he was well aware of the situation. “Turns out, the fourth Well needs ten in each Season, not five like the others.”
+
+“You unlocked it!?” Rain exclaimed, almost upending the table as he lurched to his feet. “What’s it do?”
+
+“It’s exciting and not exciting,” Ameliah said, grinning at him. Almost as good as when I told him I was working on Unity in the first place. “It’s called Experience Well.”
+
+“Holy shit!” Rain said, gesticulating wildly. “That’s huge!”
+
+“Yes and no, like I said,” Ameliah replied, laughing out loud as Dozer abandoned his attempt to pile the silverware. After a few warmup bounces, the slime began rocketing around the room, imitating his overexcited human. Grabbing the fragile sugar bowl quickly before it could be damaged, she got to her feet to put it away, speaking over her shoulder. “Think it through. Yes, being able to give people experience is great, but remember what happened to you when you abused the Wells? Going too fast would be absurdly dangerous.”
+
+“Oh, yeah,” Rain said, his face falling. “Shit.”
+
+Ameliah nodded, then tilted her head to the side to dodge Dozer as he zipped by her to splatter off the wall. “Also, experience isn’t exactly hard to come by. Well, unless you’re Fredek and picked skills that didn’t use any resources because some crazy person convinced you to try an all-passive build.”
+
+Rain’s smile returned. “He’ll be over the moon! Well, once his cap’s raised again. He’s already done it the hard way.”
+
+“There’s that expression again,” Ameliah said, smiling. “You’re right, though. It’s useful in certain cases.” She ducked, dodging again as Dozer zoomed over her head. “Tarny’s going to be mad that I maxed Fall before him.”
+
+“It’s not the hidden prerequisite for Unity, right?” Rain asked, ignoring Dozer as the slime ricocheted off his shoulder.
+
+“It’s not,” Ameliah confirmed. “Which all but proves there’s a fourth Imperial skill, unless the system’s messing with us.”
+
+“Right,” Rain said, beaming at her. “I can’t wait to find out! How long do you think it’ll take you to level this one? Being careful, of course.”
+
+Ameliah shrugged. “I don’t know. I also don’t know if I can give experience to people who are at their cap or what possible side effects that could have. No, I’m not going to test it on you. You’ve got enough problems.”
+
+“That’s fair,” Rain agreed. “Still, this is game-changing!”
+
+A loud buzz interrupted Ameliah before she could contradict him, making her look toward the door. “Who’s that?”
+
+“No one, or, well, it’s Tarny, but not outside the door,” Rain replied, walking toward it. “There’s a button connected to that buzzer on the comms console. Come on, it looks like we’re needed for something. I left orders not to ring unless it was important.”
+
+“Hmm,” Ameliah said. [Tarny, do you need me, or do you need Rain? He’s got that thing he should be working on. One buzz for both of us, two for either, three for just Rain, four for just me. If it’s more complicated than that, just tap it out.]
+
+There was a brief pause, then the buzzer sounded again, four quick pulses in short succession.
+
+“Shit, whatever it is, it must be urgent,” Rain said, his hand on the doorknob.
+
+Ameliah caught his shoulder. “I Messaged him. Four buzzes means I’m the one he needs. You’ve already spent too long on breakfast.”
+
+“But—”
+
+“If you die, I’ll be sad,” Ameliah interrupted.
+
+Rain blinked. “How am I possibly supposed to argue with that?” Without looking, he snagged Dozer out of the air with his free hand, the slime oozing through his fingers before rebounding like raw rubber.
+
+“Exactly,” Ameliah said. “You can’t.”
+
+“Fine, then,” Rain replied with a smile, opening the door for her and getting out of the way. “Whatever it is, you can fill me in later.” As he spoke, he transferred Dozer to his shoulder. Astonishingly, the slime stayed there for more than a millisecond.
+
+“Of course,” Ameliah said as she walked through. “Keep an eye on him for me, Dozer. Make sure he sleeps enough.”
+
+*Pop, pop!* Dozer popped in acknowledgment.
+
+Rain laughed, glancing at the slime, then back to her. “See you later, then,” he said, moving in to kiss her.
+
+“Later,” Ameliah replied when they broke away. She patted Dozer, then turned, knowing Rain wouldn’t close the door until she was out of sight.
+
+Still smiling, she made her way through the ‘battle bridge’—as the ship’s original control center had been renamed—then up the stairs through crowded hallways until she reached the top deck. It, too, was filled with people in various states of distress. She was happy to see a few green-looking cervidians among them, united in anguish with the humans by their upset stomachs.
+
+Meloni’s seasickness potion still needs work, I see. She should really let Reason help her. Granted, one of the turbines shredding itself yesterday didn’t help. Spending the night in the middle of the channel wasn’t exactly part of the plan.
+
+Returning a few waves and ascending the steps to the tower, Ameliah slipped inside, finding Vanna at the helm. Shu was standing beside her, peering forward out the windows. The auxiliary console wasn’t occupied at the moment, leaving just Tarny at comms and Cloud curled up in an enormous floofy ball in the corner.
+
+“What’s up?” Ameliah asked as four heads rose to look at her.
+
+“We’re approaching the coast of West Nov,” Vanna replied, looking forward again and pointing to a bright point on the horizon. “That’s the lighthouse marking the harbor of Se. If it’s not visible from the deck, it will be soon. Regardless, if we can see them, they can see us, especially with all the steam we’re leaking. I’d like you to run ahead and make contact so we don’t startle anyone. I’m not worried they’ll attack us, but I want this to go as smoothly as possible.”
+
+“Makes sense,” Ameliah said, scratching Cloud under the chin, who’d come over to lean heavily against her. “What should I tell them we plan to do?”
+
+“Tell them we want to anchor for the night and maybe the day after,” Vanna replied. “Once Tallheart wakes up, he’s got a lot of work to do. In retrospect, we should have taken another day. Anyway, it would be great if they let us dock while he works on the ship, but I’m not holding my breath. Just a spot in the harbor would be plenty. If they say no to even that, ask if there’s a sheltered cove or something we can use. Oh, and ask if they’re willing to let us send a team ashore to trade.”
+
+“Okay,” Ameliah said, rolling her shoulders. “Anything else I should know?”
+
+Vanna shook her head. “Not that you don’t know already. I’ll have Nails Message you if anything else comes up. Meloni should be back with him any minute now. Message him once you make contact, and we’ll go from there. I doubt they’ll be able to intercept it, but watch what you say. Oh, and grab a jacket. You’re representing Ascension, so you should look the part.”
+
+“Right,” Ameliah said. “Wish me luck, Cloud.”
+
+Cloud woofed softly, wagging his tail.
+
+Leaving the bridge, Ameliah hustled below to the armory. There, she selected one of the three Ascension jackets that had been made so far, choosing the largest and slipping it on over her armor. She thought briefly of bringing a radio as well, but discarded the idea. That would just be borrowing trouble.
+
+By the time she returned to the deck, the mood had completely changed. Most everyone had gathered at the bow, watching the tip of the lighthouse as it rose over the curve of the horizon.
+
+“Coming through,” she called, then vaulted into the air over their heads. As always, the ‘platforms’ Airwalk made were slippery like ice, not helped by the wind and the moving ship. Her heel slipped on the first impact, sliding out from under her. She’d expected it, though, and recovered quickly. Like as not, nobody had even noticed.
+
+After a few more unsteady steps, she found her grip on the wind and was soon charging over the waves at a breakneck pace. She kept herself fairly low, using Mana Sight to look for wards and finding none. Made from tumbled boulders simply dumped into the sea, the harbor wall had no battlement or anything she could easily land on. Instead, she made for the lighthouse, though it could more properly be called a fortress now that she was closer. Again, she saw no sign of wards or magic, but they’d clearly noticed her approach. A bell was ringing frantically, and a pair of ballistae on the fortification’s walls were pivoting to track her as she slowed.
+
+Yes, hello.
+
+Spreading her hands to show she was unarmed—not that she was—she walked the last few meters as if descending an invisible staircase. When she stepped down onto the barnacle-encrusted stone outside the fortress walls, she found herself facing a double line of limit spikers. The weapons were held by soldiers in once-shiny full plate, with faded red plumes rising from their rounded helmets. None of it looked to be enchanted, though it didn’t need to be to be effective. The four in front had dropped to one knee, leaving space for the four behind to take aim at her face over their shoulders. Standing in close formation like that, the combined effect of the metal would easily counter most magic.
+
+This is just excessive.
+
+Ameliah waited, keeping her hands raised and her helmet unsummoned. Finally, a voice called out, muffled by the helmet and making it impossible to attribute it to a particular soldier. “Identify yourself, demon, or be destroyed!”
+
+“My name is Ameliah,” Ameliah said, struggling to quash a sudden flare of anger at the expected insult.
+
+It’s a cultural thing. They don’t have a damn clue what they’re talking about.
+
+Slowly, she lowered one hand to touch the plate dangling from her neck, which she’d deliberatively left in clear view. “I am a silverplate of the Adventurers’ Guild, as well as a member of Ascension.” She shifted her finger to touch the symbol stitched onto the jacket. “This is our charter mark. We’d like to request entry to the harbor and anchorage for our ship.”
+
+More soldiers were rushing out now to encircle her. These wore no armor but heavy sea cloaks of faded olive canvas. Each also wore a dark scarf or kerchief, wound over the mouth and nose to leave only their eyes exposed. They were armed with cruel-looking hook-tipped polearms, while those continuing to gather on the battlements carried a mix of bows and crossbows.
+
+[Vanna, I’ve made contact. The welcoming party is hostile, but they’re just posturing so far, not attacking. They’re more afraid of me than I am of them, I think.]
+
+“How large a ship?” said a new voice, what was clearly an officer stepping forward. Unlike the spiker party’s armor, his shone, though it wasn’t as heavy. His fully enclosed helmet was much more elaborate, however, and he wore a scarf over it for good measure, making it impossible to read his expression.
+
+“Large,” Ameliah said, turning to face him. “I came to warn you we’re coming. Our ship is warded, and we didn’t want to surprise anyone.”
+
+As if on cue, there was a cry from the direction of the lighthouse above the fortress wall. “Ship on the horizon! No sail! Trailing fog!”
+
+[They just spotted you. Assume they can see you scratch your nose. Things are still okay for now.]
+
+“You see?” Ameliah asked, lowering both hands to her sides. “Can you stop pointing spiky objects at me now, please? We don’t mean any harm.”
+
+“Then what is it that you mean, demon?” asked the officer.
+
+Ameliah’s eye twitched.
+
+One of the first soldiers replied before she could. “The demon has requested entry to the harbor, sir!”
+
+“We only need a place to anchor,” Ameliah said, fighting not to grind her teeth. “We’re bound for Bellost and intend to leave in a day or two at most.”
+
+The officer held up a hand, and Ameliah stiffened, seeing a swirl of magic from his helmet. There was no attack, though. The seconds began to stretch, and it took her a few moments more to realize he was communicating with someone. The scarf wrapping the lower half of his helmet made it hard to tell, but the occasional bob of his head spoke to the motion of his jaw.
+
+A Speaking Stone built into his helmet? Muffled? That’s pretty clever. Or he’s a Royal, I suppose, but I can’t feel anything from him.
+
+After a long minute of silence, the officer lowered his hand and addressed her once more. “How many aboard?”
+
+“Multiple hundreds,” Ameliah replied vaguely, triggering intakes of breath and uncertain glances at each other from all but the officer and the spiker party.
+
+“Settle!” the officer barked, and the movement came to a halt. He returned his eyes to her. “And how many are demons?”
+
+Ameliah clenched her jaw. “If you are asking how many of us are awakened, I don’t have permission to reveal that. What I can say is that it isn’t even close to the majority.”
+
+“The highest level among you?” the officer asked.
+
+“Again, not something I can say,” Ameliah replied.
+
+“All who enter Se must be scanned, demon,” the officer replied. “You know this.”
+
+“We’re not asking to enter Se, just the harbor,” Ameliah countered. “If you allow it, we’d like to send a party to the city to trade, and yes, they’ll consent to the scan. If not, a place to anchor is enough.” She reached up and touched the silver plate dangling from her neck. Despite her best effort, her voice came out heated. “Think about this for a second. You know what silver means. If we wanted to attack the city, which side of a little pile of rocks we started from wouldn’t make a damn bit of difference.”
+
+The soldiers tightened their grips on their weapons, and Ameliah grimaced, knowing she’d messed up.
+
+So much for that. I guess we’ll try again in East Nov.
+
+The officer, however, surprised her. “My commander acknowledges your point,” he said with a tired sigh. He raised a hand. “Company, stand down.”
+
+Instantly, the limit spikers were lowered from pointing at her face. Simultaneously, the spear-wielders snapped out of combat stances, planting the butts of their weapons beside them.
+
+“You will be granted entry and anchorage off the eastern pier,” the officer continued, sounding like he’d just taken a bite of an unripe sasu. “You may send a party to the city for trade if you wish, but know that the Prince has already been informed of your presence. Fortunately, he does not trouble himself with demons so long as they obey the law. See that you do.” His voice softened, so much so that she wasn’t sure if he’d intended her to hear. “For all of our sakes.”
+
+“Thank you,” she said, nodding to him. “Don’t worry. We don’t want trouble any more than you do.”
+
+The officer turned his back to her. “You will return to your ship now, demon. Your existence offends, and I no longer wish to be reminded of it.”
+
+Ameliah suppressed a sigh. Just when I was starting to see him as a person, he went and ruined it. Without another word, she leapt. The strength of her legs was more than plenty to clear the encircling ring of spear tips without even activating a skill.
+
+Never thought I’d be looking forward to the Bloodmarsh, but here we are.

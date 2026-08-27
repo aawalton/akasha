@@ -1,0 +1,137 @@
+---
+id: e8018dcd-5a31-500c-83a4-a6909309d9d5
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 6"
+slug: 0163-b3-chapter-6
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 163
+ownLength: 1541
+unit: words
+ownProgress: 1541
+publishedAt: 2024-05-27
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1652986/b3-chapter-6"
+royalRoadId: "1652986"
+markedReadAt: "2026-06-29T19:11:15.635Z"
+---
+
+The Inner Court
+
+The emperor stares in shock as the Horseman of the Apocalypse casually walks back and forth into and out of the Royal Treasury, her organs just bursting out of her every now and then all across her body. With the girl, or, rather, woman, considering how old she actually is even if she looks young right now, not showing any signs of discomfort despite what’s happening.
+
+There’s even a bloody mist filling the air around her from her blood constantly being ripped out by the darker mist. With the two mists mixing together.
+
+When she had first stepped into the mist around the Royal Treasury, and she had immediately burst apart with her organs exploding everywhere and her knees dropping to the ground, he had immediately lost interest in her. Since he already had doubts about whether her immortality was absolute, and a curse as powerful as this one would make a great test for it.
+
+But now he sees her walking around like normal, proving her immortality to be genuine and absolute.
+
+Even if he finds it odd how the speed of her recovery has changed.
+
+The Shengshi Dynasty doesn’t have any analyzers in their midst, much less the Class S analyzers who are able to use the items strong enough to get the exact details of someone’s Class, Purpose, and Ability.
+
+It was one of the reasons he decided to allow her on the planet. Although not the main reason. Since the items in the Royal Treasury truly are of great importance.
+
+That was why one of the ten Council Members of the Council of Darkness placed the curse in the first place. To cripple their nation.
+
+Slowly his shock morphs into extreme joy as he sees the pile of their nation’s treasures growing larger and larger outside of the cursed mist. And after he recovers, he finally orders the soldiers to bring the treasure to his personal palace within the Inner Court.
+
+He sees both his sons arriving out of the corner of his eye, the two of them looking even more shocked than he was, but he ignores them as he considers the Eight Star Merchant outside of the Inner Court along with the other person who came with Death. Neither of whom he has done anything to in the three days it took Death to finally start moving.
+
+Now he’s glad he didn’t just send them away and decided to station some guards at the Treasury just in case. Since both of his sons had recommended doing so right when Death had collapsed.
+
+Maybe… should I try one last time to get her to build a connection to my sons? Or instead… that could work…
+
+A small smile stretches across his face as an idea comes to mind. Then he turns around, briefly ordering the soldiers there to come get him once she finishes.
+
+I need to make preparations.
+
+Aria
+
+It takes me a while, because there is a lot of treasure in the stupid treasury, but I finally manage to bring it all out.
+
+I have to say though, it’s rather amusing how shocked they all were when I got up. But then again, it makes sense that people wouldn’t expect real immortality.
+
+At least, I think it makes sense.
+
+My only problem is that the princes are standing here without the emperor after I finish taking the treasure out. And they’re trying to woo me again.
+
+Ugh.
+
+Fortunately one of the guards ran off the moment I mentioned that I was done, saying they were going to go get the emperor.
+
+That aside, I can’t help but notice that the guards seem less stiff around me and nicer too. Which leads me to believe that they just didn’t trust in my power even with the black number over my head until now. Possibly even thought that I was lying to get through their world or something.
+
+Well, this at least means I can go ahead and leave the world after talking with the emperor once more.
+
+I stand at the edge of the mist for several minutes before getting sick of the two princes and walking into the curse again while I wait for the emperor. Because it makes for a perfect place to get away from them.
+
+Eventually, when the emperor returns, I step out of the mist again and walk up to him with a nod of my head while saying, “All of the treasure inside has been taken out. My job is done.”
+
+“It is as you say, Lady Death, and we appreciate your hard work,” the emperor says with a smile on his face and a light bowing of his head. “We have confirmed every item on the list and brought it to a safe location. You have finished your part of the agreement.”
+
+A faint smile emerges on my face as I ask, “Then would it be alright if I take my leave from the Inner Court and head to Aral?”
+
+The emperor’s smile grows ever so slightly, making mine grow too at the thought of heading on to the sub-world of the Rex Dynasty connected to Sheng. But then he says, “Before that, how would you feel about full immigration rights to our world? You may enter and leave as you please, so long as you pay us a little visit when you do?”
+
+I blink at that before almost frowning. Then I realize that it could actually come in handy.
+
+After all, the more worlds I have immigration rights to, the freer my travels will be.
+
+And if all I have to do is visit the palace…
+
+Of course, I’d rather avoid coming here again. But that’s beside the point.
+
+I may not have a choice in the future, just like this time around.
+
+So I go ahead and nod my head, answering, “That would be wonderful.”
+
+The emperor’s smile grows once more as he says, “Splendid! We will have that squared away now. You may leave the world whenever you please, Lady Death. Merely ask one of your palace’s guards and they will take you.”
+
+Then the man turns around and begins to walk away.
+
+Hmm. Well, whatever.
+
+I immediately begin walking towards the guest palace. And even after arriving, I don’t stop. Instead, I immediately ask one of the guards stationed there if they’ll take us to the Gate to Aral.
+
+The guard immediately bows his head in deference and agrees. So I go get Hannah and we all set off out of the Inner Court at last before grabbing Shirogane, who was apparently trading with the soldiers in the barracks. He’s also rather surprised by how quickly we got out of there when we arrive.
+
+Not to mention when we tell him about the immigration rights. Since he apparently wasn’t expecting that development.
+
+Although it’s a pleasant surprise, even if we’re all suspecting the emperor’s motives. With Shirogane explaining along the carriage ride to the Gate to Aral that the emperor most likely just wants to make ties to me.
+
+Which is perfectly understandable.
+
+Now I just want off of this world though.
+
+The carriage ride to the Gate ends up taking somewhere around two days, since the Gate is quite far away from the capital. And after that we immediately get through the walls surrounding the Gate since travel through it is banned at the moment, meaning no one else we have to wait for. Then we pass right on through without a word.
+
+Surprising the people on the other side of the Gate watching it from the admissions.
+
+And I can’t help but feel surprised by the small warehouse-like building the Gate is in. Which is rather underwhelming.
+
+But putting that aside, unlike the other worlds we’ve been to up till now, this time around, we are using Shirogane’s immigration rights. Because he does have immigration rights to all worlds belonging to the Rex Dynasty of the Dead. And through this method we won’t have to hint about me being here, since from what Shirogane has said, the Dynasty should already know my name.
+
+So once we arrive at the checking gate, Shirogane quickly handles things and we’re let through the other side.
+
+At which point I’m shocked by the sights that greet me.
+
+This world is even more advanced than Eternus was.
+
+It’s currently night time here, with the massive buildings all around us going straight up into the sky. Buildings I believe were called high-rises, or skyscrapers, or something like that.
+
+Enormous buildings, basically.
+
+Meanwhile everything is high tech for as far as the eye can see.
+
+High tech lightspeed trains high above the ground running on train rails floating midair, floating screens in front of buildings, people flying by on freaking hoverboards, and flying cars going every which way.
+
+And this is just a sub-world…
+
+Then my eyes narrow as I sense various odd sensations run through me.
+
+Almost like I’m being watched.
+
+“Let’s go,” I whisper to the others, and both of them nod.
+
+So we quickly rush off, summoning a hover car from Shirogane’s storage ring to travel through the street.
+
+And hopefully make it to the Gate to Eternus as fast as possible.

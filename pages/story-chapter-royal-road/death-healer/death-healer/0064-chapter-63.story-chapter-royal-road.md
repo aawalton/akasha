@@ -1,0 +1,193 @@
+---
+id: bace0027-b3ee-5dae-9cfd-b8fb453276e9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 63"
+slug: 0064-chapter-63
+partOf: death-healer
+position: 64
+ownLength: 1558
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2526083/chapter-63"
+royalRoadId: "2526083"
+---
+
+The air in the courtyard shifted. The bodies of the ghouls barely finished twitching when the heavy iron doors at the far end of the yard began to open with a shriek that echoed through stone and bone.
+
+A shadow moved in the darkness beyond the gate. Something stepped forward—slow, deliberate, silent.
+
+All three commanders stiffened at once. Their eyes went wide. The thing that came through the doors was not just another ghoul.
+
+It walked upright, with the measured, balanced step of a trained fighter. Its flesh was gray but stretched taut over muscle and bone. Its eyes did not burn with the mindless rage of Death Mana but smoldered with a focused, red intelligence. The armor on its body was little more than ragged cloth, yet it moved like every joint remembered how to fight.
+
+The Mana radiating from its core did not fluctuate or flicker; it pulsed in a steady, disciplined wave.
+
+“Is that a Level 60 Revenant?!” Galerius said, stunned.
+
+Silanus took a step back from the parapet, his eyes locked on the Revenant’s build.
+
+“That’s not a normal Revenant, Caesar. Not at sixty.”
+
+Domitian’s mouth went dry.
+
+“A Revenant that low-leveled… you don’t see that. Most Revenants come back at Level 100 or higher. If you get one at 60, it means it’s special. Someone who was not high-level, but a talent beyond their age… a genius-level talent.”
+
+Galerius clenched his fists.
+
+“Girl, get out! It’s not the level! It’s the quality! Revenants… they’re monsters in every sense. Their levels don’t tell the whole story! We believe you! GET OUT!”
+
+Down in the yard, Lily turned, eyes narrowing as she tracked the new threat, ignoring Galerius. She could feel it before she even saw it—something in the air had changed. There was no rot, no slack-jawed hunger. There was discipline and danger.
+
+Caesar stood motionless above, watching the arena.
+
+“This is the real test,” he said. “You wanted proof of her value. You’ll get it. That’s not just any Revenant. That’s a [Monk]. I picked it on purpose.”
+
+Silanus, the Ash-Walker, spun on Caesar.
+
+“You’re insane. You picked a [Monk] Revenant?! That’s a nightmare for [Templars]. They can kill five of our men alone at their level. Nobody gets that Class without being the best, Caesar! Galerius is right, stop this! The girl is insanely talented! This is madness!”
+
+Domitian’s old voice turned sharp.
+
+“Stop this now, Caesar. This isn’t a duel, it’s a death sentence. She won’t make it through a real Revenant, let alone one that remembers its Skills. She is Unclassed.”
+
+Galerius’s face went gray.
+
+“Even at sixty, that thing has every movement drilled into the bone. If it was a [Monk] in life, it can use every Skill it ever had—and sometimes Revenants even evolve them. You’re throwing her into a slaughter.”
+
+Caesar didn’t even flinch.
+
+“You told me you wanted more than a spectacle. You said talent wasn’t enough. If she can’t handle this, she was never going to change the war. And, as you might’ve noticed, she’s going to challenge the Undead to a bare-handed fight.”
+
+The Revenant stopped ten paces from Lily and lowered itself into a perfect stance—knees bent, center of gravity balanced, arms loose but ready.
+
+Its hands were callused and the knuckles looked broken and healed a dozen times. It studied Lily with red, unblinking eyes.
+
+For a moment, there was silence on the walls.
+
+“She’s going to die,” Galerius said, voice almost flat. “She’s going to die a miserable death, and it’s on you.”
+
+Even Caesar, for a heartbeat, wondered if he had finally pushed her too far.
+
+But he did not call it off.
+
+There was one last trump card in Lily’s deck.
+
+The Revenant flexed its fingers. The air grew heavy, every muscle in Lily’s body braced. She tightened her Mana shell and drew another slow breath, feeling the metabolic engine of [Lux Vitae Overdrive] roar in her blood.
+
+She dropped into her own fighting stance.
+
+On the wall, the commanders waited, unable to look away. Even they knew, levels meant nothing now. This was a test of what kind of monster a girl could become.
+
+The [Monk] moved first.
+
+But everyone noticed the change in Lily.
+
+So far, she had fought with her eyes mostly closed, clearly relying on [Mana Sense] to perceive the movement of her enemies.
+
+She opened her eyes fully for the first time.
+
+The change was instant.
+
+The air around her gaze seemed to ripple.
+
+In the pale sunlight, a burning ring of Mana flames kindled at the edge of each iris—an eclipse of blue-white fire circling the darkness of her pupils.
+
+From the very center, her pupils shrinked into a seven-pointed star flared out across the irises, sharp as a sunburst, each point radiating a faint golden glow.
+
+The corona spun slow at first, the fire licking outward, then faster as her focus locked onto the Revenant.
+
+The Revenant took a single step back. Its dead mind recognized something new—an instinct sharpened by hundreds of fights, now clawing at the remnants of its soul.
+
+On the wall, Galerius’s voice caught.
+
+“What the hell is that?”
+
+Domitian’s knuckles turned white on the stone.
+
+“That’s not Light Magic. That’s something else.”
+
+Silanus could only stare. The seven-pointed star inside Lily’s gaze burned, each ray tightening as she watched the Revenant’s stance. The burning ring spun in perfect sync with her heartbeat. The air at the corners of her eyes shimmered, fire licking out with every twitch of her focus.
+
+Lily moved first, but even the Revenant seemed to sense the shift.
+
+It did not lunge blindly—it fainted, tested, circled, its motions precise and stripped down to what mattered.
+
+But every step it took, the star inside Lily’s eyes turned, matching the Revenant’s angles.
+
+The corona of flame burned brighter each time it tried to feint or mislead, marking her anticipation of the next attack.
+
+She saw every twitch before it happened, every thread of movement laid bare.
+
+Most interestingly, though, only one of the seven points of the stary was currently ignited, as they started rotating in tune with the Revenant’s movements.
+
+The Revenant darted in, fists flying in a blur, each strike meant to kill.
+
+Lily’s pupils spun faster.
+
+The star inside her gaze blazed and the ring of fire snapped brighter.
+
+She dodged the first blow by a hair, then pivoted behind the Revenant before it could even retract its arm.
+
+She struck.
+
+The blow landed at the precise moment the Revenant’s guard opened, shattering bone and spinning it sideways.
+
+Galerius finally found his voice.
+
+“She’s predicting every move.”
+
+Domitian nodded, not taking his eyes off the burning eclipse around her irises.
+
+“No. She’s seeing them before they happen. That’s precognition.”
+
+Silanus shook his head.
+
+“That’s a Skill I’ve never seen. Not from any Champion. Not from the records of any Pope. Caesar, what is that?”
+
+“The girl’s [Mana Sense]. It evolved into something else. We’ll find out on her Class Day, I suppose.”
+
+Lily and the Revenant circled each other, the solar star spinning and the flames at the rim of her eyes burning hotter.
+
+The Revenant unleashed a barrage of [Monk] techniques—blinding feints, low kicks, strikes that had killed dozens of men in life.
+
+She dodged or countered every one, her body already moving before the attacks began.
+
+Each time the Revenant shifted tactics, one point of the star inside her eyes brightened, locking onto the new vector. The corona of flames surged outward and reformed.
+
+For the first time, the commanders watched an Unclassed child move more fluidly, more expertly than a  monster trained to kill. Every blow, every pivot, every slip of the foot—she saw it coming, and her body answered before thought.
+
+“I could tell she knows how to fight, Caesar, but this is absurd,” Galerius said.
+
+“You can’t tell when she’s in a horde-like fight. She’s actually not that talented when it comes to fighting multiple monsters at once. Not nearly as much as when you see her in a one on one.”
+
+The Revenant’s guard began to falter.
+
+Its dead eyes, still burning with Death Mana, met her star-pointed gaze and for the first time in its afterlife, it recoiled.
+
+Silanus leaned forward, eyes narrowed.
+
+“Why isn’t it using its Skills? That thing should be tearing her apart.”
+
+Domitian kept his gaze locked on the fight.
+
+“Because it can’t. The girl isn’t giving it time. Whenever it gathers Mana for a strike, she’s moving in dangerous positions so it has to dispose of the Mana and defend. Furthermore, an Undead body is weaker than a living one, even for a Revenant. Right now, they’re decently matched.”
+
+Lily’s voice cut through the courtyard, steady and level.
+
+“I see you.”
+
+She advanced.
+
+The burning eclipse grew brighter, the star inside her eyes spinning until the points blurred together—each one marking not just the Revenant’s body, but every possible path of attack, every way the fight could end.
+
+The flames at the corners of her eyes trailed with every movement, painting her intent on the air itself.
+
+She was not just predicting the Revenant’s movements.
+
+She was seeing the future.
+
+And the Revenant, built from death and discipline, could do nothing but react.
+
+On the wall, not one of the commanders said a word.
+
+There was nothing left to say.

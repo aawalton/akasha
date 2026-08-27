@@ -1,0 +1,209 @@
+---
+id: a722c568-7560-56a6-8517-e68f8f44fcad
+page-type-slug: story-chapter-royal-road
+title: "071: Perspective"
+slug: 0071-071-perspective
+partOf: delve
+position: 71
+ownLength: 4906
+unit: words
+publishedAt: 2020-01-08
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/443407/071-perspective"
+royalRoadId: "443407"
+---
+
+The snow had stopped for real by the time Rain finally left the baths. It turned out that collecting over fifty tiny rice-sized shards of crystal from an area the size of two Olympic swimming pools took a while. Detection made finding them straightforward enough, but zigzagging across the ice to pick them up had him wishing for that skill of Ameliah’s, Attract. It was in the Survivalist Utility tree, he’d discovered after reading through all the tier-ones, but even if he’d had a skill point for it, it had three prerequisites. Annoying.
+
+He was now off to the Bank, considerably richer than he’d been a few hours ago. Even better, there was another 30 Tel waiting for him back at the Guild. He was in no rush, though. First, he wanted to get some lunch before finishing his other two quests. He could turn in all three at the end of the day, then see about finding Tallheart some scrap metal. For both lunch and his planned shopping, he would need copper.
+
+He kept his stop at the Bank brief, just converting 20 Tel. After the fee for the exchange, it worked out to 271 copper and 7 bits. There were higher denominations of coins cast from silver, but he decided to stick with copper for now. The point of getting the coins was so that he could buy basic things like food. Adventurer’s gear would most likely be paid for in Tel anyway. He had stopped himself from asking the attendant about opening an account, afraid of it developing into a lengthy argument about the mathematics of compound interest. He’d come back later. For now, his money was better spent than saved.
+
+He stopped for lunch at a tavern, led there by his nose. They were serving some sort of roast meat that he didn’t recognize alongside crusty bread and warm, spiced mead. It was delicious and relatively cheap at only a few coppers a serving. His armor got him quite a reaction when he entered the tavern, but people calmed down once he seated himself at a table. The staff were distressingly subservient around him, as if he were some important noble and they were horribly afraid of arousing his ire. He didn’t like it. It felt wrong. He didn’t consider himself to be anyone important, but the more time he spent in the city outside of the guild, the more he was being forced to consider the fact that he might be wrong.
+
+His mood was pensive as he made his way down into the sewers after lunch. The quest he’d taken had specified that he was to kill 10 slimes. That wouldn’t be much of a challenge. He could find them easily now, and defeating them only required a quick pulse of his aura. The gelatinous blobs posed practically zero threat; thus they were no distraction from his thoughts. He defeated two groups of three, only netting himself two additional Tel. It was trivial, the only annoyance being his aching legs. Even though he’d gotten unlucky with the drops, it was easy money. I’m…kinda strong.
+
+An unexpected result of his latest ping tore him out of his musing. He’d been making his way toward four slimes down a side-passage, periodically checking their position to make sure that they weren’t moving. His latest scan had returned only three signals. Huh…I wonder what—
+
+A sudden shout echoed from down the tunnel, making him jump and activate force ward. It wasn’t a scream of distress or alarm, it was a howl of rage. A human’s voice. Quickly, he sent out another pulse of Detection, searching for people this time. He’d tuned his spell to only register monsters to avoid giving himself a headache from all the signals coming from above. He felt those signals now, as well as one coming from the tunnel directly in front of him, around the corner. The torch he was holding was the only source of light in the tunnel, but it looked like whoever was around the corner had one as well.
+
+“Die you shit bag!” This time, Rain caught the words. He increased his pace, closing in on the signal in his mind. His light revealed quite the scene as he rounded the bend. There were the three slimes he’d felt, as well as a man squared off facing them. The man looked over his shoulder at him. Not a man…a teenager. He’s like sixteen at best.
+
+The teenager was covered from head to toe in filth, making him look like some sort of swamp monster. His skin must be burning under all that. Slimes are acidic, at least, these ones are. That’s got to hurt like hell. Where’s his weapon? What the hell does he think he’s doing?
+
+“What’re ya lookin’ at, asshole?” said the kid. Rain blinked.
+
+Asshole?
+
+“Stay the hells back. These are mine!”
+
+Okay then. I guess he doesn’t want help…
+
+The teenager looked back at the slimes approaching him just in time. The lead slime launched itself into the air, heading straight for his face. He shouted, startled, swinging his left arm in a wild haymaker. His fist punctured the slime’s fragile membrane and sent its insides spilling out in a waterfall of filth. The slime’s health had already been low, and the hit dropped it all the way to zero. Rain could see the health bars of the monsters of course, but the kid didn’t have one, him being human and this not being a lair.
+
+Rain gagged as the smell reached him. He activated Purify, keeping the radius tight. He’d yet to try using Purify on a slime directly. He’d been told to stay out of it and he didn’t want to accidentally kill one of them. The spell description didn’t say anything about it having the ability to do damage, but slimes were particularly unclean. He resolved to test it later. For now, he just watched, ready to intervene if necessary.
+
+What’s he doing down here, and why doesn’t he want help? Maybe he’s training? He’s not after the experience, is he? Or maybe the Tel? I don’t see a Guild plate… He switched to Detection, checking to make sure that there wasn’t a plate hiding under all that ick. There wasn’t. Huh. Is he even awakened?
+
+The kid waited for the next slime to leap, then launched a kick at it in midair. His leg hit the slime with a sound like a sloppy fart, sending it splattering into the wall. The membrane didn’t rupture this time as the slime’s health had been at full. Rain’s concern started to fade as the kid confidently stared down the slimes. That was a horrible noise. He’s way better at this than I was. One of those things almost killed me, and I had a spear. What kind of idiot fights slimes barehanded? Even I know better than that. Still, he’s not doing half bad.
+
+Rain stepped back, retreating to give the kid room. The first slime was stunned, but it looked like the second one was preparing to jump. As predicted, it soon launched itself into the air. Slimes are nothing if not predictable. The teenager repeated his technique, launching the slime into the wall with another sickening splut. He continued in this manner, kicking each slime a few more times before their membranes ruptured, covering him in even more filth and burning acid. It looked like the kid’s poor clothes were done for. He’d be walking out of here naked. If he was even wearing clothes to begin with. I can’t really tell under all that..horribleness. Rain shuddered. I’ve been there.
+
+The boy panted, then fell to his knees, retching. Nothing came up. Probably puked a while ago. Okay, enough of this.
+
+Rain released his hold on Purify, allowing the aura to fill the tunnel. The boy shouted in alarm as the white light washed over him. “What the fuck?!” he shouted, scrambling away from Rain as the aura went to work.
+
+Rain shook his head. “It’s harmless, it just cleans—”
+
+“Fuck! No! Shut it the fuck off!” Rain stopped, but it was too late. He’d been using full power. The kid looked down at himself, sparkling clean as if he’d just hopped out of a bath. “Gods damn it!” he cursed.
+
+Yup, he’s naked. Rain averted his eyes as Purification faded away. The kid scrambled to his feet, assuming a wary posture as he stared at Rain. He made no attempt to cover himself, much to Rain’s embarrassment. Dude. He cleared his throat, addressing the wall. “Are you okay?”
+
+“Who the hells are ye, and why didn’t ye stop when I told ye to?”
+
+“Uh, I did?” Rain said. He had canceled the spell, after all. He had thought that the kid would appreciate being freed from the horrible coating of sludge. Clearly, he’d been wrong. He just didn’t understand how anyone could be mad about NOT being covered in excrement.
+
+“Then how the hells did this happen?” the kid said, gesturing at himself. “Now I’m gonna hafta go back. Good job. Ye just wasted an hour of my time.”
+
+“I don’t understand. I thought you’d be grateful…” Rain said, looking at the kid. He focused on making eye contact. How am I supposed to talk to someone who doesn’t even care that they’re naked?
+
+“Gimme yer cloak,” the kid said, staring at him. Rain jumped. Oh, yeah, that’s a good idea. I should have offered it to him already. He removed his cloak, tossing it to the kid.
+
+The kid caught it and wrapped himself up. He glared at Rain, jabbing at him with a finger. “Ye owe me. I’m keepin’ this.”
+
+Rain blinked. Did I just get robbed by a naked teenager in a sewer?
+
+The kid sighed, looking suddenly tired. He sat down against the wall, rubbing his eyes. “Gods damn it. Fuckin’ adventurers.” He started muttering to himself. Rain detected several obscenities directed his way thanks to his boosted Perception. Humm. His accent is somewhere between Carten’s and Staavo's, though it’s quite a bit thicker.
+
+After a while, Rain decided that enough was enough. He cleared his throat. “Uh, you know I can hear you right?” The kid glared at him, replacing his muttering with a silent stare. He does not look happy. Rain sighed and knelt down to look him in the eye. “My name is Rain. What’s yours?”
+
+“Don’t fuckin’ talk ta me like that. I’m not a fuckin’ lost puppy.”
+
+“I never said you were…” Rain said. I…don’t know how to deal with this... This is not the reaction I was expecting.
+
+The kid snorted. “Just because yer awakened, ye think yer better’n me. Well, yer not. I’m a fighter too, and I can kill monsters as easy as ye can. Just because ye got magic powers, it don’t give ye the right ta come down ‘ere and steal my kills. Go on, take the drops and just…fuck off! I’m done talkin’. Don’t even think about tryin’ ta take yer cloak back.”
+
+Rain stood. So, not awakened then. Okay, time to take control of this situation. Also, there’s no way he’s keeping my damn cloak. He switched to Detection, finding three Tel lying on the ground where the slimes had died. He walked over, picking up the tiny crystals up one by one. The kid stared at him, saying nothing. He was seething with anger judging by the look in his eyes. Rain returned with the Tel, then crouched down and held out his hand, palm upward. He stared into the kid’s eyes from behind his visor. “Take them.”
+
+It was the kid’s turn to look surprised.
+
+Rain reached up, lifting his visor. “I’m not here to steal from you. I heard you fighting and came to help. It doesn’t look like you needed it. Those kills were all yours. I didn’t even get a kill notification.”
+
+The kid stared at him, the angry look in his eyes replaced by one of distrust and calculation. “What’s yer game?”
+
+Rain shook his head. “No game. Go on, take them. They’re yours.”
+
+Hesitantly, the boy reached out and took the Tel from his hand, looking down at them. Rain saw him shivering, so he activated Immolate, warming the air in the tunnel. The kid’s eyes widened, but he didn’t shrink back.
+
+Rain stood again, offering the kid his hand. “Come on. You don’t have any clothes stashed around here, do you? I just got that cloak, and I kinda want it back.”
+
+The anger and distrust returned to the teenager’s eyes. Rain sighed and dropped his hand. At least open hostility is better than all that bowing and scraping I was getting in the tavern. “Look, it’s not my fault you decided to fight slimes with your bare hands. What did you think would happen to your clothes? They use acid, you know? Not the best plan. You should be thankful you aren’t burned from head to toe.”
+
+This was clearly the wrong thing to say. The kid surged to his feet, causing Rain to jump back. The angry teenager pushed a finger at him, holding the cloak shut with his other hand. “Ye don’t know what yer talkin’ about! Where do ye get off, talking ta me like that? I’m no an idiot, and ye can afford another damn cloak.”
+
+Rain winced. I suppose that might have come off a bit patronizing. Damn it, I’m bad at this stuff. He shook his head. “That’s not the point. I like that cloak and there’s a bunch of my stuff in the pockets. Here, how about we make a deal. I still need to hunt some more slimes down here. I’ve got a quest for ten and I’m only at six so far. It’s not like the guild checks, but I’m not about to claim your kills as mine. There’s plenty around and I can lead us to them. You can come with me and have whatever they drop. We’ll go up to the market and get you your own cloak and some new clothes besides. Then you can give me mine back.” He offered his hand to the kid again. “Deal?”
+
+The kid looked at his hand suspiciously. “Why?”
+
+Rain shrugged. “Seems like a nice thing to do.”
+
+“What do ye get out of it?”
+
+Rain grinned, thinking of the perfect response. “A sense of pride and accomplishment.”
+
+The kid snorted skeptically. Clearly, he didn’t get the joke. “What the fuck are ye doin’ down ‘ere anyway? Why is someone wearin’ that,” he gestured at Rain’s armor, “hunting slimes?”
+
+“Sticking to what I know, I guess,” Rain said. “Believe it or not, I used to be weaker than these damn things. You’re already stronger than I was when I killed my first one. Pro tip: don’t use fire. They kinda explode.”
+
+Kettel huffed and looked away. “It don’t matter anyway. Fine, let’s go. Yer fightin’ em, though. Yer fucking spell cleaned off the lard.”
+
+Lard?
+
+Rain’s confusion must have been visible on his face as the kid shook his head and explained. “I told ye, I’m no an idiot. The lard helps with the acid. Fire?” he laughed. “Only a total moron would use fire.”
+
+Rain smiled. “Hey, I resemble that remark.”
+
+The kid didn’t laugh. He still looked unhappy. He punched the wall in frustration. “Damn it.”
+
+“What?” Rain said, concerned that he’d hurt himself.
+
+“No matter how many o the fuckin’ things I kill, I never get anything ta show for it. Ye don’t know what it’s like. I thought if I fought four o them unarmed, then maybe…” He shook his head. “It’s not fucking fair. I’ve worked way harder than you lot, but I’m no stronger than I was when I started this.”
+
+You lot? I guess he means awakened in general. Rain sighed. “You’re absolutely right. It’s not fair.” He gestured to his armor. “I don’t feel like I earned any of this. Not really. It was too easy. I got lucky, and I don’t really deserve it. I hate that this is the way the world works, but the fact of the matter is that you’re never going to become an awakened by killing slimes. Not unless you find a blue, which isn’t likely down here.”
+
+The kid looked even more unhappy at this. Damn it, I really suck at this stuff. He took a deep breath. “Look, I can’t change how the world works, but that doesn’t mean I can’t help you. The Guild won’t let you join, and you can’t learn magic, but you do have a soul, assuming you believe in that sort of thing. It isn’t awakened, but it’s still there. It still counts. You can still get stronger. You can train. You can fight. Hells, you can already fight. You just need to get yourself some equipment. A sword, some armor, anything. With a few Tel, you can afford it. Enchanted stuff’s not even out of the question. You won’t be able to handle much, but it’s better than nothing. Keep going, and one day, you’ll find a blue. You can hire adventurers to protect you, to take you to places where you might have a better chance. I can help you too.” Rain clenched his fist. “I will help you. I’ll help everyone.”
+
+“Are ye daft? Why would ye do that?” the kid asked, staring at him.
+
+Rain grinned. Oh my god, the speech was already cheesy, but this is going to push it over the top. I can’t resist. He straightened himself up. “Because I’m the hero, kid.”
+
+The kid groaned.
+
+“What, too much?” Rain asked, still grinning.
+
+“You’re worse’n me da. Fine. Let’s go kill some slimes. What did ye say yer name was, hero?”
+
+“Rain. What’s yours?”
+
+“Rain? Weird name.” The kid shook his head. “Mine’s Kettel.”
+
+Rain laughed. “You shouldn’t talk, Kettel. Pot. Kettle. Black.”
+
+Kettel looked confused. “What the hells is tha’ supposed ta mean?”
+
+Rain laughed. The saying didn’t translate, at least without a little explanation. Also, the common word for ‘kettle’ sounded nothing like the word in English. He didn’t care, though. “Don’t worry, you’ll get used to me. I can be a bit odd. I’m not a normal adventurer.”
+
+“I noticed that.”
+
+A few hours later, Kettel was leading Rain through the city. They’d spent quite a while hunting slimes together, stopping only when Rain’s Detection had failed to turn up any more. Kettel had even shown him where the specific kind of moss that his quest specified grew. Now, his legs were aching and his back was sore. The huge burlap bag of moss that he had slung over his back wasn’t helping things. Nevertheless, he felt satisfied. Traipsing all over the sewer had netted them another seventeen Tel, all of it going to Kettel at Rain’s insistence. They had also found a few more of those green crystals, similar to the one that the Mucus King had dropped. Rain now knew from his conversations with Staavo that they were crysts, just as he’d suspected. Chem-Crysts, to be specific.
+
+According to Kettel, they were a common drop from slimes. Rain was apparently extremely unlucky to not have found one before. They didn’t sell for much because of how easy they were to get in Fel Sadanis, only a Tel or two. Kettel had offered them to him and he’d decided to accept. He needed to deliver the moss to some alchemist called Myth. Both alchemists and chemists used Chem-Crysts, so he could probably sell them while he was there. Myth’s shop was on the south side of the city, but he wasn’t that eager to be on his way. Kettel lived nearby and had invited him to dinner. That sounded much better than a long walk at the moment.
+
+Kettel looked nervous as they walked. Rain didn’t blame him. The teenager was carrying a sizable quantity of money, from his perspective. As they’d been exploring the sewers together, Rain had gotten to know him a little better, learning quite a bit about how normal people in the city lived. Kettel was only fifteen, but he worked as a porter, helping to feed his family. His father was also a porter, and a fisherman, and a handyman, and whatever else he could get paid for. His mother was a server at a seedy tavern. They needed every copper they could earn to keep their family fed. Rain was pretty sure that the reason Kettel had invited him to dinner was just to make sure he got home without getting mugged.
+
+The part of the city that Kettel had led him to wasn’t a ghetto or anything, but it was certainly less prosperous than the other neighborhoods he’d seen so far. The houses were small and crudely built, slapped together from rough wood, generally unpainted. Rain again found himself wondering what all the people in the city did for a living. Around here, it was a little more obvious. He saw people coming and going from the river with baskets of laundry, or carrying bundles of furs to be tanned, or straw to be woven. It was crowded, hectic, and above all, ripe. He had to resist using Purify to scour the entire area. People were alarmed enough as it was. His appearance was causing a bit of a disruption to the day-to-day activities of these people. He felt like a shark swimming through a terrified crowd of fish. He’d taken his helmet off completely, hanging it at his waist, but it didn’t seem to help. Adventurers simply didn’t come to this part of town.
+
+“Here’s me,” Kettel said, pointing. Rain looked at him, then the tiny shack he’d indicated. “Me da should be home. Just…wait here.”
+
+Rain nodded. Kettel wasn’t angry with Rain for existing anymore, at least. He’d even returned the cloak without having to be asked when they’d left the sewers. He was wearing a rough-spun outfit of brown linen that he’d stashed in a cubby near one of the stairwells leading back to the surface. He had indeed been hunting the slimes naked, save for the rancid fat that he’d covered himself with to protect his skin. Rain found himself admiring the man’s drive. He was young, sure, but Rain couldn’t really think of him as a kid anymore, despite his age. He hadn’t been expecting him to act like a high-schooler from his world or anything, but talking with the man had hammered it home. The reality was that Kettel had been forced to stop being a kid or to starve. He felt trapped in the city, but he didn’t want to leave and seek his fortune. That would mean abandoning his family.
+
+Rain looked around as he waited for Kettel to return. This whole experience was eye-opening. Lately, he’d been feeling like he was a small fish in a big pond, at the mercy of powerful people like Lavarro, Halgrave, and the Watch sentinel, Lamida. Having that turned so abruptly on its head was…a disconcerting experience. Who am I? He looked down at his armored hands. The metal was pristine, not polished or anything, but compared to the tattered clothing of the people watching him from windows and alleyways, he shone like a king. He felt horribly out of place.
+
+Kettel’s head poked past the heavy curtain blocking the entrance to his home. “Okay, ye can come in. He promised he won’t freak out.”
+
+“Damn it, Kett’l, when ‘ave I ever freaked out?” a rough voice protested. The accent was even thicker than Kettel’s own. “Show ah little respect ta yer elders.”
+
+Rain smiled, following Kettel inside to see a smallish room lit by a blazing fireplace. It was surprisingly clean. Cozy. Though the house was only one room, it had been partitioned off with curtains hung from the ceiling. Kettel’s father was sitting on a wooden chair by the fire, mending a fishing net. He dropped it as Rain came through the door.
+
+“Holy shite!” the man said, staring at Rain. He looked at his son. “Ye say an adventurer, no a bloody noble!” The man had coarse brown hair, just like his son, their wide features marking them as clearly related. Further conversation was interrupted by a sudden voice from a curtained alcove.
+
+“Wow, Manda, look! A noble!”
+
+Rain turned to see a young girl looking at him, perhaps five or six years old. Her sister quickly stepped in front of her protectively, an older girl of maybe ten or twelve. “Shh,” the older girl hissed, watching Rain with fear in her eyes. “Get back, Alla, go an’ hide.” Rain’s heart clenched. What’s been done to these people for them to look at me like that?
+
+He smiled, trying to look as non-threatening as possible. “Hello.”
+
+The little girl tried to push her sister aside, but Manda was having none of it. She stared at him with the same angry eyes that her brother had on their first meeting.
+
+Rain shook his head. “You don’t need to be afraid of me.” He turned to look at Kettel’s father, who had lurched to his feet and was looking worriedly between him and his children. “I’m just here to eat your food.”
+
+Kettel’s father blinked. He looked at his son. “Did’e jus say wha’ I thought I ‘eard em say?”
+
+Kettel laughed. “Da, I told ye not ta freak out. He’s no like other adventurers. He’s no a greedy asshole, for one.” He grinned. “Look.” He tossed a pouch at his father. The man caught it, then pulled the string tying it closed and peered inside. He collapsed back into his chair in shock.
+
+Kettel walked over to his father, placing his hand on his shoulder. “He says it’s all ours. I got three o those myself, but he helped me ta get the rest. He’s…some kinda mage or somethin’, despite the armor. He’s got this aura that…Da, are ye okay?”
+
+Kettel’s father looked like a fish, his mouth opening and closing as he struggled to form words. “Kettel…I…what…how?”
+
+Rain was distracted by the sound of the scuffle that was coming from the curtained alcove. The two sisters were fighting, the younger one trying to escape from the arms of the older one by pulling her hair. He chuckled. Kids. His smile faded as he saw the expression of fear on the older sister’s face as she saw him watching her. This won’t do. This won’t do at all. He looked down at his rich black cloak and slate-gray armor. Maybe Jamus has a point. I could use a little color…
+
+Staavo hobbled through the city, the socket of his wooden foot chafing at his stump. He struggled to keep up with the distinctive mage he was following without giving himself away. If he lost him, then all his hustle would be for nothing. Fortunately, the orange of his quarry’s robe stuck out from the green-and-brown sea that was the peasantry.
+
+When Rain hadn’t shown up at his tower, Staavo had decided to go and find him himself. He’d strapped the contraption he’d built to his back and set off for the Guild. Rain hadn’t been there, but he’d spotted Jamus just as he was leaving. He’d already asked the man to tell Rain to come and find him, but that hadn’t worked. Jamus either hadn’t passed on the message, or that idiot Rain had gotten distracted. Probably trying to find a lost cat or something.
+
+He cursed his missing foot as he walked. His prosthetic was coming loose, but he didn’t have time to stop and secure it more tightly. Damn it, I had to be wearing the thin sock today. It looked like Jamus was heading for the east gate. It would be hard to follow him once he got out of the crowded city streets. Staavo knew he could manage. He was an adventurer. He knew how to not be seen.
+
+He had to dodge suddenly as a cloaked figure dashed out of an alley, almost crashing into him. He staggered, unbalanced by the heavy generator strapped to his back as his wooden foot twisted. He would have fallen had he not been caught by the hem of his tunic. The black man who caught him was wearing a dark jacket and had come out of the same alley. The jacket caught Staavo’s attention. It was an old Osaran dueling jacket, not something you saw every day. The man didn’t even spare him another glance, taking off after the cloaked figure.
+
+Staavo caught the flash of bronze from beneath the man’s long dark ponytail. His guild plate had gotten turned around and was hanging against his back. Staavo swore and kept moving, following after Jamus. He didn’t have time to yell at the pair. Bloody small-town bumpkin adventurers. No consideration for the elderly.
+
+He was relieved as he spotted the tip of Jamus’s orange hat. The mage was trying to sneak past a line of carts that were blocking the gate. Staavo smiled, ducking into an alley to wait. You’re not getting away from me. If you didn’t want to be tracked, you shouldn’t have dressed like a damn pumpkin. At least Rain’s got the right idea there. I’ll find where you’re hiding, lord of dark secrets. I’m going to follow Jamus right to you.

@@ -1,0 +1,139 @@
+---
+id: 5a405289-f12e-5be5-bf9a-55c214516c3b
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 28"
+slug: 0188-b3-chapter-28
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 188
+ownLength: 1611
+unit: words
+ownProgress: 1611
+publishedAt: 2024-08-01
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1740729/b3-chapter-28"
+royalRoadId: "1740729"
+markedReadAt: "2026-06-29T19:12:06.792Z"
+---
+
+Aria
+
+He doesn’t say anything for several seconds. And when he does, he does it without looking at me, simply looking out the window instead.
+
+“Because Amatsuraki is responsible for the one I love having to always stay on the move,” the man answers, his voice sounding sad. “Because he’s responsible at the end of the day for her entire family ending up like that. Always on the move and never able to stay in one place.”
+
+Oh.
+
+That’s… deep.
+
+Doesn’t explain much other than it’s personal and that he really hates the emperor of the Eternal Dynasty though.
+
+He finally turns his gaze towards me, startling me in the process due to the look I find on his face. An incredibly sad look mixed with familiarity like an uncle looking at his niece.
+
+But my parents can’t be the person he is thinking of, since they’re both dead. I saw their corpses with my own eyes even, due to how screwed up that damned emperor was on Vortel. And he said he just saw his friend recently.
+
+“He sparked the conflict between the Crimson Empire and the other three Horsemen of the Apocalypse,” he states, his voice hardening in the process. “And even if he’s trying to make up for that now, I will never forgive him.”
+
+My mouth parts open for me to say something, only for me to close it again a second later. Not knowing what to say.
+
+I’ve… never heard about any bad blood between the Crimson Empire and the other Horsemen.
+
+The emperor turns to look out the window again, as if it’s too hard to look at me as he continues, “You won’t know about this because it’s hidden from the public and most nations, but the Crimson Empire is the only nation that all three of the other Horsemen besides yourself are at an agreement towards. That they all want to eliminate at all costs.”
+
+Oh… just what did Shirou do to spark that sort of enmity?
+
+“And after a while, my friend and her husband had a daughter. One who couldn’t be known to the other Horsemen lest they take her away,” the emperor says, his voice almost cracking in the process. “So they had to hide the daughter and keep her in the dark to keep any signs of her existence from reaching the Horsemen before the time was right.”
+
+For some reason, as I’m listening to him I feel the faintest twinge in my chest. But I don’t know why.
+
+“Their plan didn’t work out,” he continues, his face hardening into a glare directed out the window. “Pestilence decided to work alongside the Council of Darkness to place a curse on their family, making it impossible for them to see one another more than ten minutes every century.”
+
+That has my jaw dropping open in shock.
+
+Holy shit, that’s a brutal curse…
+
+His fists clench so tightly I can hear his gloves creaking, “The curse ended up not being strong enough to affect my friend, her husband or their son, but their newborn daughter? She was just an infant. Too weak to resist...”
+
+He pauses for so long after that I for some reason move over to his side of the carriage and place a hand over his shoulder, feeling like that’s just the right thing to do.
+
+The man actually relaxes ever so slightly at my touch. Which surprises me even more than the fact that he’s telling all of this to a random stranger.
+
+“Neither of them can spend more than ten minutes with their own daughter every century, nor can their son spend more than that with his own baby sister…” he says, practically choking up at this point.
+
+I’m… not sure why he’s telling me all of this.
+
+We literally just met, and he wanted me dead when he first heard of my existence. So why is he placing so much trust in me now?
+
+Those looks of familiarity… maybe my family is descendant from this friend of his? Or someone else from the Crimson Empire at least?
+
+No, it’s probably just a coincidence. Because then my family would’ve triggered the world’s System Initialization just from their presence long before the Grand Roan Empire. That or whoever came to Vortel from the empire would’ve triggered it.
+
+“Have they found any sorts of ways to remove the curse?” I ask while tilting my head.
+
+My question snaps him out of it and he turns to look at me, making me remove my hand from his shoulder in the process. Then the faintest hint of a smile stretches across his face as he says, “Yes, they have. And it’s a rather simple process too, but it requires waiting for the daughter’s own body to expel it. Which could take tens of thousands of years due to how powerful the curse is and how it doesn’t directly harm her or even affect her in any way.”
+
+Oh. Guess their daughter must be powerful in her own right.
+
+Which makes sense I guess, considering that she should technically be the Princess of the Crimson Empire from what he’s said so far.
+
+“Well, at least they have a way, right?” I tell him with a faint smile before moving back to my side of the carriage.
+
+He sends me a sad smile and nods, saying, “Yeah.”
+
+Then we just stare at each other in silence for several seconds, turning to each face the windows after that.
+
+Our silence stretches on for a while before the carriage comes to a stop and the driver’s voice enters it stating that we’re here. But right before we leave, I can’t help but ask, “That daughter. Has she at least been seeing them once a century?”
+
+That question… does something I wasn’t expecting.
+
+He just looks at me with a sad smile and a tear going down his face as he says, “No. She doesn’t even know they’re alive, and they don’t have most of their memories of her. So they don’t want to waste their first chance to see her in person.”
+
+I stare blankly at him as he signals the driver to open the carriage door, making it open for him. Then he leaves without another word.
+
+That sounds like a living hell.
+
+I feel really bad for that family.
+
+Although, if they don’t want to waste their first chance to see her, does that mean it hasn’t even been a century since this happened? And also, does that mean they have some way to restore their memories or something?
+
+It takes me a few seconds to fully process the story he just told me before I finally get up and leave the carriage. Only to find myself staring at a grand palace. One larger than any I’ve ever seen before.
+
+The palace is almost entirely silver in color with some traces of gold, and it has far too many towers, with a single massive body for the structure. One that grows taller the closer to the center it is. And other than that, there are also surrounding castles on two sides of it with roads to a large garden connected to each and walled off.
+
+To my surprise, when I see the emperor turn around to face me again, his face has already returned to that normal smile he had when he first greeted me. As if our conversation never happened.
+
+He’s also still ignoring Shirogane’s existence. So rest in peace Shirogane.
+
+“This is my lovely abode! You’re welcome to any room you’d like within the palace, and I’ll make it yours!” he exclaims with that same smile. Then, to my surprise, he finally turns to look at Shirogane with that slightly disgusted look on his face as he adds, “You need to find somewhere else to say though.”
+
+Brutal.
+
+Yeah, this is going to be a major hurdle for Shirogane. Even worse than I thought it’d be.
+
+Although I can’t help but notice something.
+
+The emperor, Leopold, never said just what Shirou did to spark the conflict. All he kept saying was that he sparked it.
+
+Never once said how.
+
+I also notice that the Eternal Dynasty is on seemingly neutral terms with the three Horsemen despite all of this.
+
+The emperor looks back at me again with a smile before saying, “Please! Come and explore if you’d like! And I’ve already had word sent to my brother about your arrival, so my niece should be dropping by soon to say hi.”
+
+“Thank you,” I tell him with a nod of appreciation, feeling a little awkward about the situation with Shirogane.
+
+So… when would be a good time to bring up the whole thing about the magical silver? Since I want to at least try helping him.
+
+I know they said I can’t help, but asking out of curiosity why they won’t trade doesn’t count as helping, right?
+
+It better not.
+
+Might also just be how good he’s been treating me so far that’s making me a bit more confident on that front though.
+
+Anyways, Shirogane does appear to be allowed to enter the palace at the very least. Even if he isn’t allowed to stay there.
+
+So we all proceed to march on into the massive castle the carriage stopped in front of. Meanwhile the many guards split off with some following us and others staying guard at various positions around the place.
+
+I should keep my guard up a little bit around this guy at the very least.
+
+That said, putting everything that just happened aside, this place really is beautiful.
+
+And I really want to see those Spires.

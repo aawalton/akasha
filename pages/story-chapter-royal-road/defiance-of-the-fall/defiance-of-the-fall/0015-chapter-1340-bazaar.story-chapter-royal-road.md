@@ -1,0 +1,137 @@
+---
+id: 71916ace-2bdb-5bbf-8bce-1f8c4fb17019
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,340 - Bazaar"
+slug: 0015-chapter-1340-bazaar
+partOf: defiance-of-the-fall
+position: 15
+ownLength: 3109
+unit: words
+publishedAt: 2025-06-24
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2381321/chapter-1340-bazaar"
+royalRoadId: "2381321"
+---
+
+There was much to do and very little time. Zac could picture the race to the docks the moment the Theomore Dynasty shared whatever helpful hint they possessed. Half the gondolas would be gone within minutes, and Zac couldn’t lag behind. Today was his last chance to squeeze the Transformation Docks for all its value before setting off.
+
+Zac could also feel the trouble brewing. It could be Xiphos or the Magistrate exposing his identity or something related to Astora Theomore. It could be entirely unrelated to him. Anything could happen with so many important people gathered in one spot. The sooner they were gone, the better. Still, he couldn’t make himself step onto a random gondola and hope for the best. It would have been one thing if he or Esmeralda actually had a fated connection to the Mercurial court.
+
+The duo left the docks and headed to one of the mercantile districts. They visited a few established stores of established factions to stock up on basic provisions, such as the Middle D-grade talismans Zac had expended during his escape. The visits helped Zac gain a rough understanding of the city’s pricing. It was knowledge he’d need in the public markets.
+
+Cultivators had set up stalls everywhere it was allowed, taking advantage of the influx of people to barter their treasures for items more suited to their cultivation. They were Zac’s best option for finding items he required at a reasonable rate. He and Esmeralda would have needed weeks to go through all the districts, so they picked a massive indoor bazaar where only Middle Hegemons and above could set up stalls.
+
+The rule was to block the lowest tier of Hegemons, those who’d barely squeaked into the grade. Despite the restriction, there was barely any free space left when Zac arrived. There had to be thousands of stalls. Zac strolled down one lane, noticing the nearly identical banners hanging from them all.
+
+Zac walked over to the closest stall. “Can I ask the meaning behind the pennants?”
+
+The stall lazily produced a pamphlet before looking away upon realizing it wasn’t a customer.
+
+“Thank you,” Zac nodded and continued on his way.
+
+The color indicates the general grade of trades, and the signs scribbled across them the type of trade. Most were barter, with only a few stalls accepting Crystals or Imperial Crowns. Every single stall around the entrance had green streamers, indicating they traded Middle D-grade goods. That didn’t mean the stalls couldn’t hold surprising discoveries, but Zac and Esmeralda moved on emptyhanded after making a cursory sweep.
+
+More than eighty percent of the bazaar was dominated by green pennants, with the rest mostly flying the color gold of Late D-grade. There were a few dozen stalls manned by Peak Hegemons. Zac also spotted a restricted corner with large, unmarked stalls. The powerful auras coming off the shopkeepers indicated they were all Monarchs.
+
+The bazaar had some renown to attract even C-grade cultivators, though none of them seemed particularly impressive. Most likely, they were wandering cultivators with a status similar to the frontier Monarchs of Zac’s time. Zac started in the Late D-grade area, and it didn’t take long before he found something interesting.
+
+“The core of a [Spirantis Elm] that has been guarded by a Beast Monarch for fifty thousand years,” a ruddy-faced old man introduced.
+
+Zac didn’t have any of the items on the stall’s list of requirements, so he could only take out a few other Late D-grade materials. “Are you interested in alternative trades?”
+
+The Hegemon inspected the items before shaking his head, though Zac could tell the man would agree if he sweetened the deal. Only Zac needed what the other offered, so he’d have to overpay if he wanted to secure a fast trade. Zac had plenty of materials to spare, but he wouldn’t overspend on the first decent thing he encountered. What if he needed the materials he’d bartered for something even better?
+
+The stallkeeper took Zac’s rejection in stride. Few Hegemons were desperate enough to trade multiple rare treasures for one. Each item represented a brush with death, and Hegemons could live for millennia. They’d rather hold onto their treasures for a few more centuries until a more equitable trade came along.
+
+Zac encountered the same thing in the next two stalls he approached. His materials, free of Earthly Taint, didn’t garner as much interest as he’d hoped. However, the hawkers did gain an additional layer of respect, even when they rejected his offers. They believed Zac came from a faction powerful enough to own entire production lines inside the limited bounds of purified space.
+
+Finally, Zac found a stall whose request he was certain he could satisfy. Better yet, they had something Zac wanted.
+
+“May I ask where you found these minerals?” Zac asked, pointing at three stones inside a protective array. They weren’t the treasure but rather the perfectly cubic alloys growing from them.
+
+The graceful storekeeper hesitated a moment before answering. “I can tell you if you buy them. But I should tell you up-front, it’s unlikely you’ll find anything.”
+
+“That’s fine. I was simply curious what sort of environment can produce such unusual items,” Zac said, trying not to look too interested in the three Peak D-grade Void Treasures. “I’m afraid I don’t have the exact item Miss is looking for. However, I believe I have something that will meet your needs.”
+
+The Peak Hegemon curiously looked at the sample Zac brought out of Kaltosa Lu’s Cosmos Sack before turning her attention to the accompanying Information Jade. Zac had already copied the contents of the introductions, stripping them of any marketing jargon and mentions of the Centigrade Constellation. The stall owner was an Array Master looking for Supreme D-grade materials to use as a base for an unnamed formation.
+
+The Array Master looked at the purple stick with suspicion, but her demeanor slowly changed as she used a series of simple tests to confirm the claims.
+
+“May I ask who crafted this marvelous ink?”
+
+“I cannot say,” Zac shook his head. “I’m willing to offer two sticks along with the supplementary array’s blueprint for the three minerals. It might not fully match the effect of creating your formation on a superior tablet, but you can get very close at a significantly lower price. The [Centennial Starink] will also improve your chances of success.“
+
+Zac didn’t push any further. He could see she was highly interested. One stick should be enough to complete an array disk of the indicated size, so she would have a lot of leftover ink for other projects. The only thing holding her back was the possibility that Zac was a scammer. The bazaar would only get involved if someone tried to force a trade. Anyone getting tricked could only blame their lack of discernment.
+
+It didn’t take long for the Array Master to reach a decision. “I have three more stones like it. Is fellow Daoist interested?”
+
+Zac pretended to deliberate a moment before agreeing. In reality, he would happily have traded all thirty sticks in his possession for more Peak D-grade Void Treasures. The [Fuxi Mountain Gate] was already showing some practical use after being stabilized by the C-grade Void Flower. The more Zac fed it, the closer he would be to making some of his plans a reality.
+
+“You promised to share its origins?” Zac said after carefully stowing the Void Treasures in his new Cosmos Sack.
+
+“Truthfully, I don’t exactly know,” the Array Master said with some embarrassment. “I was walking along the shores a on my way to the Transformation Docks. There was an earthquake that opened a crack in the ground. It released a foul wind that left me powerless, and I fell inside.
+
+“There was a crevasse far below. I could feel the Peregrine Ocean’s aura, and these minerals grew from the wall. The wind was able to damage my foundations, so I only collected these six minerals before climbing outside,” she explained. “I knew the materials were extraordinary, so I went back the next day. Unfortunately, the crack was gone, as were the minerals when I dug deep into the ground. I believe the ocean leaked a sliver of another world.”
+
+“How marvelous. Thank you,” Zac said before excusing himself.
+
+He wasn’t the least disappointed that the cave had disappeared. It wasn’t like he had time to go. If her story was true, there might be more cultivators with similar experiences. Unfortunately, Zac only found one additional stall with a Void Treasure, and it wasn’t as well preserved as the minerals. The owner clearly understood it was fast losing its spirituality, and Zac successfully bought it with a few Middle-quality Cosmic Crystals.
+
+Zac didn’t bother looking for more Void Treasures among the lower-grade stalls. Even if he found some, they’d hold too little energy to make a difference for the mountain gate. Meanwhile, Zac’s Void Emperor Bloodline actually didn’t require that many Void Treasures. They were mostly useful for replenishing his stores of Void Energy.
+
+It didn’t take long to inspect all the Late- and Peak D-grade stalls. Zac also tried to enter the restricted area, but a Late Hegemon couldn’t enter without a sponsor. He’d still found dozens of items he wanted, and he made a plan to get as many as he could—even if he had to overspend. Zac successfully bartered for a dozen Late D-grade Materials that could prove useful for his cultivation and Spirit Tools. He also got his hands on four peak D-grade items by greatly overpaying. These were all meant for his final core upgrade.
+
+Esmeralda joined in on the fun, using Zac as an intermediary. There were quite a few Space-attuned Natural Treasures for sale, likely thanks to the proximity to the Peregrine Ocean. Judging by her constipated expression, openly purchasing what she needed instead of stealing went against every fiber of her being.
+
+Two of the treasures were already bobbing about inside the vats on Esmeralda’s back when Zac turned his attention toward a Peak D-grade stall in a corner. It was actually owned by an old man emitting the aura of a Late Hegemon. Zac suspected he’d once been a Peak Hegemon who’d lost his grade after a failed breakthrough or wounds.
+
+“Senior, could you introduce this Soul Supporting Relic?” Zac asked as he pointed at an ancient bronze bangle that looked like an intricate knot. He’d set his sight on it during his first sweep, but securing rare materials for his cultivation had taken priority.
+
+“Instead of strengthening your soul, it nurtures your aperture,” the old man explained. “While its not as practical, having a sturdy aperture is better than not. It was an important part of my preparations to step into the Void. Alas, it wasn’t fated.”
+
+“Can I ask why Senior is selling it? Has it lost its use?”
+
+“No. There’s simply a limit on how long you can use the [Soul-Sealing Knot] before your aperture reaches its limit. I reached that point after five millennia, but it could vary per person. I have neither disciples nor descendants to pass it on to, so I chose to sell it to help fund my retirement.”
+
+‘It should be real. I’ve seen similar items before,’ Esmeralda confirmed. ‘They give off specific fluctuations that help solidify your spiritual space. Think of it like vibrating a bucket of sand to compress it. That’s why the effect is limited. The sand can’t keep condensing after having perfectly arranged itself. You practice a proper Soul Nurturing Method, so you won’t be able to benefit as much as this wandering cultivator.”
+
+‘Can you estimate how much I could gain?’
+
+‘Your cultivation method is very violent. The constant wear and tear has already left your aperture naturally resilient, and it should still hold quite a bit of untapped potential. You might be able to shrink your aperture by half, improving its durability by the same amount. It’ll take a millennia or two, where you’ll see the most improvement at the start.’
+
+‘By half?’
+
+That was more than enough to make Zac interested. With his terrifying tribulations, he’d take any improvement to his aperture. Zac could also resell the relic when he was done with it like this old man. Zac began presenting his wares, trying to strike a deal.
+
+The knot was only a D-grade relic of inestimable grade. Still, it was a treasure able to provide a continuous, permanent improvement with no side effects. It was far more valuable than any consumable materials that Zac had on hand. It took three of the supplementary materials Zac got from Kaltosa Lu, along with a High-quality Cosmic Crystal, to complete the trade. Even that could be considered a bargain.
+
+Having finished his trades, Zac paid a small fee to set up a stall of his own. He put all Kaltosa Lu’s materials and some of the things he’d picked up during the trial on display. Zac regretted not bringing more of the mountains of random loot he’d acquired during the war. Then again, he hadn’t exactly expected to find himself at a well-stocked bazaar.
+
+The wealth on display overshadowed the neighboring stalls, and cultivators quickly started to flock over. Even some stall owners temporarily closed down shop to take a look. Zac completed eight trades in no time, though none of the items he purchased could benefit Zac’s cultivation. He accepted almost any deal for the Centigrade Constellation’s materials, even some that were taken at a small loss. He wanted to rid himself of the suspicious gift as quickly as possible, and the bazaar was the perfect place.
+
+Whenever there was a lull in business, Zac contacted the factions who’d approached him for his attendant spots. Esmeralda eagerly took the role of an assistant, and the Shrine of Kanba soon echoed with her giggles. The old thief had a great time pitting the factions against each other using both real and fake offers.
+
+Only a few scraps of the crafting materials remained, replaced by a wide assortment of easily traded Natural treasures, unique tools, and consumable items. Altogether, the haul was worth around 60% of the gift’s original value. Zac had accepted increasingly bad offers as he was running out of time.
+
+In addition to having taken a loss, the treasures all had issues you wouldn’t see in modern items. They’d been born under an imperfect Heaven, and they all had some level of Earthly Taint. Both these issues could be solved so long as Zac was patient. The System would scrub anything inside the integrated space, and he could complement the missing pieces of Dao by keeping the materials inside nourishing arrays.
+
+While the result wasn’t perfect, it might take thousands of years before Zac stumbled onto such a flourishing market again. Besides, Zac wasn’t sure he’d dare bring the Centigrade Constellation’s materials when he left the Left Imperial Expanse. This way, he still got to keep most of it without having to worry about hidden traps. Zac did keep the Cosmos Sack, though, as it indeed proved capable of storing Void Treasures without much issue.
+
+Zac had also finished the negotiations, and he swiftly met up with the two parties he’d chosen. One was called Great An Conglomerate, one of the most powerful local mercantile factions. Their influence even surpassed Founding Families like the Whitecrest Consortia on the Left Imperial Expanse. However, they lacked the history and connections to expand to other regions of the empire.
+
+The attendant they sent was one of their most promising talents. More than wanting to nurture a standout cultivator, they simply wanted to send a businessman to the Mercurial Court to get in contact with the sealbearers. They didn’t seem to hold great hopes for the plan, but they had the money to spare.
+
+The Imperial Army bought the second slot. Zac didn’t know if it was to mess with the Imperial Magistrate, but the army’s offer was even higher than Great An’s. Each side would supplement a Peak Quality Early C-grade Natural Treasure that could be used when forming Inner Worlds. The army’s C-grade treasure was Conflict-attuned, while the Great An had sourced both Order and Death-attuned treasures after investigating Everit Draom. Zac naturally picked the latter.
+
+In addition, the two sides would provide a number of supplementary Peak D-grade items. The attendants were also required to assist Zac in potential group missions, though they wouldn’t have to help Zac in his day-to-day.
+
+The Imperial Magistrate couldn’t or wouldn’t provide an equivalent Life-attuned item to complete the set. Instead, they sent him a special supplement that would help improve the Inner World’s quality. It was an auxiliary treasure like the flower Kristvan Wendimar had prepared for his daughter.
+
+It was deep into the night when Zac returned to his manor, tired but satisfied. He’d accomplished all he’d set out to do and more. Before today, Zac had less than a fifth of the necessary materials to break through to Peak D-grade. Some of those items were average treasures Zac would prefer to keep as spares. Now, Zac had almost two-thirds of what he needed, and he’d even taken tangible steps for his Inner World.
+
+The haul couldn’t really be compared to the opportunities he’d seized following the threads of fate, and they wouldn’t mean much to Iz Tayn or Kaltosa Lu. Still, the treasures were the basic building blocks a Mortal couldn’t progress without. They were also better than what could be found on the frontier. Zac hoped his companions wouldn’t rush straight into the Outer Courts and miss out on the huge opportunities that waited just outside the gates.
+
+The only setback of the day was that none of the parties were willing to hand over the C-grade treasures up-front. Zac only managed to leave with a small deposit. The attendants would only offer up the real payment when Zac brought them to the Mercurial Court. Whether that was even possible remained to be seen. The [Peregrine Gondola] could very well take him to a ruin on a desolate island.
+
+Zac spent the rest of the night whittling down the last of the hostile Dao while Esmeralda recovered her reserves of Spatial Energy. They emerged at the crack of dawn, as ready as they could be for whatever came next. A completely different view greeted them. Zac first thought the city had been shrouded by a morning mist. When he left the courtyard’s barrier, he understood that couldn’t possibly be the case.
+
+The Transformation Docks were flooded by so much Imperial Faith that the whole city looked about ready to ascend.

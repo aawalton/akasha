@@ -1,0 +1,65 @@
+---
+id: 7aba2dcf-c5fd-58f9-8bda-dee850838d5f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3 - Battle Tactics"
+slug: 0004-chapter-3-battle-tactics
+partOf: defiance-of-the-fall
+position: 4
+ownLength: 1608
+unit: words
+publishedAt: 2019-05-05
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/359140/chapter-3-battle-tactics"
+royalRoadId: "359140"
+---
+
+Zac took a quick glance behind him and noticed the demonling following, as he started calling it in his head. It wasn’t dissuaded at all from continuing its pursuit, though it looked slightly disoriented from the previous charge. Or perhaps the still bleeding gash on the neck was starting to show some effect. Its speed was somewhat slowed, but it was still quickly catching up to him.
+
+No longer being able to afford to care about adages such as not putting weight on a hurt leg, he ignored the pain and started charging towards the split boulder he’d passed earlier. His wounds split open even further, and his left leg was now completely dyed red. The pain was excruciating as he ran, but the fear of death kept him pushing forward.
+
+He was pretty sure that this was his only shot, as the short run managed to up his pain to a terrifying level, and he was starting to get woozy from the blood loss. And who knows what poisons or pathogens a demon dog has on its claws. Zac could only pray that his new superpowers included super-white blood cells as well.
+
+Finally arriving at his goal, he heaved a few raspy breaths and turned around toward the monster now roughly forty meters away from him. Seeing that its prey had stopped moving, it hesitated slightly and stopped. The demonling slightly growled and hissed in a register that sounded much too low for something that size.
+
+Zac was afraid it would wait for his wounds to worsen his condition even further, or even gather reinforcements. If that happened, his small chance of survival would be completely extinguished. He needed to end this fight quickly in any case, as the pulsating wounds on his legs reminded him that time was limited, with or without backup.
+
+“COME GET IT, PIECE-OF-SHIT DOG!” he roared, inwardly cursing his lacking cursing ability. He then picked up a small rock and flung it with all the force he could muster at the demonling. It drew a great arc as it zoomed through the air and missed spectacularly by a few meters. Luckily, it seemed the demon dog needed almost no encouragement for mayhem and slaughter, and with a great roar, it started barreling straight towards him again.
+
+“Come on, come on…” he whispered, once again readjusting his grip on the hatchet. This was it, do or die now. When the monster was just three meters away from him, he once again dove to the side with all his might. This time the monster was somewhat ready for it and managed to swipe him at his calf. It didn’t seem as deep as his last gashes but still burned like hell.
+
+The momentum of the demonling pushed it forward, straight into the cleft of the split boulder. The space was barely wide enough for it to get in, and it got stuck when the second set of legs reached the edge of the rock. The collision caused a massive thump, and gravel and rock chippings flew about, accompanied by an enraged, but pained, snarl.
+
+Zac knew he couldn’t hesitate, and quickly scrambled to his feet. The pain was staggering, but the coursing adrenaline in his system kept him going. This was the small window he created for himself, and if this didn’t work, he had no other recourse.
+
+Mentally praying to long-lost gods of lumberjacking, he took a two-handed grip on the hatchet and swung with all his might at the lower end of the monster’s spine. Hopefully, the anatomy of hell spawns was somewhat similar to normal animals, where a cut on the spine would cut important nerves and maybe even nick an artery.
+
+The axe hit true and severed the spine and even dug a bit further. A great spurt of blood and a pained yelp accompanied it. The thick hind legs completely gave out, and it thumped down onto the ground. But while the demonling was temporarily stuck, it was no sitting duck. It thrashed wildly from the strike, and one of the remaining four legs managed to hit Zac squarely in the stomach. He was thrown backwards and lost his grip on the handle of the axe.
+
+He hit the ground with a thud, losing all the air in his lungs. He didn’t dare take account of his steadily worsening wounds though, and immediately got back up on his feet. The world spun for a second as he scrambled up, but he forced himself to stay awake.
+
+The sight meeting him seemed even more positive than he had dared hope. Both its hind legs uselessly slumped down, and dark red blood was quickly pooling beneath the beast. The wound he had managed to create on the beast must have actually cut a couple of veins, as blood unceasingly poured out of its back wound in far larger quantities compared to the shallow wound on its neck.
+
+There was still some fight left in the monster, however, and it was still trying to excavate itself from the rock with some minor success. It also desperately unceasingly roared, perhaps hoping for some of its brethren to arrive.
+
+Not wanting to wait for that to happen, Zac gingerly stepped forward, gripped the axe, and with a speedy tug ripped it out of the lower back of the monster. This time he also stepped back a bit in the event of further thrashing. This time, however, only a weak snarl accompanied the action. Blood started gushing out even faster through the open wound, and it looked doubtful if the monster would survive even if left unattended.
+
+Not daring to take any risks, Zac stepped forward and, with a baseball swing, planted the axe in the torso, hoping to hit vital organs and the lungs. A sickening thud sounded, and more blood streamed out. The beast barely moved anymore, and just weak whimpers could be heard. Zac didn’t dare stop and kept swinging the hatchet over and over until he himself fell to the ground heaving.
+
+His body felt a burst of warmth, likely caused by the strenuous activity, and by now the whole left side of the monster was a maze of grisly wounds. Its movements had come to a complete stop, and no more roars or whimpers escaped its maw. The head was still between the two halves of the boulder, along with its front two paws. The arms were mangled from the reckless charge into the rock and the subsequent desperate attempts to rip itself free.
+
+While Zac had no idea about the resilience or tricks of a demonling, it looked deader than dead. He arduously sat up and caught his breath. Slowly calming down, he was reminded of the stark reality. He was hurt. Really hurt. By now he looked like a homicidal maniac, almost covered in blood from head to toe, and it was impossible to tell which was his and which was the monster’s.
+
+It already seemed impossible he was still alive with the amount of blood he had lost, and if nothing was done, he definitely would not make it to tomorrow. He slowly got up on his feet and started stuttering back towards the camp. He thought about shouting for help again but immediately discarded the idea. He didn’t want to lure another monster to the camp by mistake, as he didn’t have the power to go through another battle.
+
+Last time the trip between the boulder and the camp took half a minute. This time he ambled forward for what felt like an eternity until he once again came upon the ransacked and chaotic campsite. The camper was still standing next to the car but was now dented in places. The cooler they had brought over had been knocked over, the water and beers spilled around.
+
+Not having the energy to care about the mess, he moved toward the camper, whose door was wide open. With some foresight, they had actually brought a decent first aid kit with them when traveling. He felt he should probably get to a hospital, but unless someone drove him, he would probably not make it. At least he could disinfect, tape, and bandage the wounds, performing some basic field triage on himself. That would hopefully allow him to return to civilization to get properly patched up.
+
+For the first time since he came back, Zac realized there were no blood or body parts in the camp. Though he hadn’t dared think about it at the time, he subconsciously had believed the demonling killed the others.
+
+If they had been attacked, there should have been some blood at least, as Zac had little confidence in the four being able to fend off that beast and flee. The axe in his possession had been the only real tool that could be used as a weapon in the camp, apart from some small kitchen knives. And even with that, he had only survived with great luck and some quick thinking. His improved physique had helped immensely, but that alone would not have been enough against that monstrosity. That beast had been both faster and stronger than a bear, and unless the three had gotten the same type of strengthening as him, they would just be food rather than an adversary for it.
+
+He surreptitiously glanced around as he neared the camper. The car stood empty, and no sound came out of the camper either.
+
+“Guys, are you there? Hannah?” he croaked in a subdued voice, still scared a scream would attract more monsters.
+
+But silence was the only thing that met his question.

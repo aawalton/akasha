@@ -1,0 +1,135 @@
+---
+id: 6287d7b8-528d-5eeb-aa99-ffcb4afe2065
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 5"
+slug: 0303-b5-chapter-5
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 303
+ownLength: 1479
+unit: words
+ownProgress: 1479
+publishedAt: 2025-09-06
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2580019/b5-chapter-5"
+royalRoadId: "2580019"
+markedReadAt: "2026-06-29T19:16:07.344Z"
+---
+
+Right outside of a Faery Zone on the planet known as Fay
+
+Sylph Relgia Sil Talia smiles a wide smile as she walks through the faery plains surrounding the Faery Zone. A location with a rift to another dimension. One belonging to the fae themselves. The powerful beings that make contracts with the people of Fay and turn them into Magical Guardians, granting them the power to protect Fay from outsiders.
+
+And while outsiders have often called these Faery Zones by their ridiculous name of ‘Hunter’s Spots’, Sylph and the rest of the Fay population would never believe their drivel.
+
+After all, they may be allies with the outside worlds, but they will never step away from their beliefs.
+
+And the fae within the Faery Zones are their protectors. Nothing more, nothing less.
+
+Sylph’s smile grows even wider when she sees the rift tens of thousands of meters above the ground opening up once more to accept more people going in and out. At which point a large staircase made out of magic cast by the strongest Magical Guardians of Fay appears leading all the way to the rift.
+
+But while Sylph is still reeling in her own pride for having finally reached over level two thousand in the beloved fae’s System, a major breaking point in their world, she fails to notice a strange blot appearing from the rift. Almost like something is falling downwards.
+
+And she doesn’t notice it until it is only a few hundred meters away.
+
+At which point she realizes it’s a person.
+
+An outsider at that. And by the looks of it, a crimson, judging by the woman’s hair and eyes.
+
+But Sylph feels a slight prick at her pride as she watches the woman approach. Because even she has to admit that the woman is more beautiful than she is.
+
+And Sylph is not the type to ever admit that.
+
+So realizing that she knows full well that the woman is more beautiful than her makes Sylph narrow her eyes at the rapidly approaching woman. All while failing to dodge out of the way even as the woman makes a rapid fall straight at her.
+
+Simply because she’s trying to figure out how she can make herself prettier to outmatch the woman.
+
+And before she knows it, she’s covered in blood and guts and some sort of black and crimson military outfit while lying flat on her back on the ground. Following which the blood and guts vanish as a crimson flame devours it all, and the woman she saw falling suddenly appears in front of her, with the outfit that was just draped across Sylph on her person without a single blood stain on it.
+
+The woman glances at Sylph before leaving without a word.
+
+All while Sylph continues lying on the ground in silence.
+
+Wondering what the hell just happened.
+
+And feeling more than a little disgusted and slightly traumatized by the sensation of being covered entirely with blood and guts and organs despite her own level and magic making sure no damage happened to her.
+
+Aria
+
+Well that hasn’t happened in a while. But I’m sure that lady will be fine.
+
+I proceed to ignore the looks from the people all around the little glowing grassy plain on the ground beneath their Hunter’s Spot as I continue walking away in the direction of the closest city. With my hands in my pockets and my terminal on mute so as to not let any messages go through.
+
+Because I really don’t need to hear more of the twins’ complaining.
+
+I managed to knock Little Blue’s habit of chasing me by leaving the paperwork to the twins to deal with, but now they’re rather adamant about trying to get me to come back. Even though they only have half the paperwork I had to deal with, since they’re doing it together.
+
+And if they’re complaining about that little paperwork, they’ve still got a long way to go before truly becoming adults.
+
+I firmly nod my head at that thought as I step out of the Hunter’s Spot whose exact name I don’t remember. Something about faeries.
+
+At the very least, I do remember that the locals are rather… pious… in their belief of these ‘fae’ of theirs. Which are really just some sort of Tier 10 mana creature that managed to gain sapience and leave the Hunter’s Spot.
+
+Their piousness is the entire reason very few people ever go to this world despite it being one of the extremely few worlds with sapient Tier 10 mana creatures inside of it.
+
+Although some people still come in the hopes that they are chosen by the mana creatures and given some power by them. But even most of those leave soon enough, unless they’re criminals.
+
+Because the piousness isn’t the only issue with this world.
+
+They have superheroes. Magical girls to be specific. Or at least, that’s what the outside universe calls them.
+
+This mostly grew because the strongest of the ‘Magical Guardians’, as they call them, look like cute teenage girls despite being hundreds of thousands of years old. Not to mention that there seem to be more female Magical Guardians than male ones, even if they do have male Magical Guardians.
+
+Also, they’re all oddly attractive. And some of the stronger ones are rather vain about their appearance.
+
+Then there’s the biggest issue.
+
+Anyone who is given power by those Tier 10 mana creatures is just automatically expected by the society of the world to become some sort of singing idol as well. Which is ridiculous.
+
+But that’s kind of part of the reason I came here in the first place.
+
+To see a ridiculous world like this.
+
+I probably won’t stay long though. Because it is a little too ridiculous.
+
+Not to mention those Hunter’s Spots. Hunter’s Spots that only open up once every day for people to enter and exit. Hunter’s Spots that are filled with some sort of wonderland that makes absolutely no sense with candy as walls and floors.
+
+And Hunter’s Spots that have small little animals as Tier 10 mana creatures.
+
+I just… don’t understand this place.
+
+It’s so bizarre.
+
+As for how I got on this planet in the first place? I just kinda showed up in my spaceship and asked for permission to dock, and their top magical girls came to meet me. They even offered to give me a tour, but I turned that down.
+
+I have no idea why they’re being so nice, considering everything I’ve heard about their pious arrogance. But I’m not complaining either.
+
+Something tells me I’m going to be attacked at some point while I’m here though. Because I’ve noticed the envious looks some of those ‘magical girls’ are sending me as they openly look at my body.
+
+Another reason I’m gonna leave soon.
+
+I tilt my head as I continue walking with my hands in my pockets through the shiny forest, ignoring the pointy-eared people I walk by along the way. Just thinking about how this is probably the first world I’ll have ever visited and left this quickly before on the first visit.
+
+When I make it to the city, I finally look up at the street I enter. One that looks very high tech but not too high tech.
+
+More advanced than Vortel was, but not quite at the Rex Dynasty’s level.
+
+And even just stepping into the city has me looking up at large electronic screens on the sides of building showing idols singing and other news. With a bunch of people walking down the streets, many of whom glancing at me when they pass.
+
+I let out a sigh before focusing on where I’m walking as I head straight towards the docks where my ship is currently at.
+
+Yeah, I’ll go on one more hunt here, then I’m leaving.
+
+This place is just too… weird.
+
+I mean, who gets upset about someone being more attractive than them? It makes no sense to me.
+
+Your body’s attractiveness doesn’t matter. It’s just an outer shell for your body.
+
+Maybe it’s different for people who actually have romantic or sexual urges, but that’s how I feel about the matter.
+
+Although I am rather happy about the method of exiting those Hunter’s Spots. Even if entering them is a pain.
+
+After all, a rift appears at each section of the Hunter’s Spot that I can leave through. So when I want to leave, I can just waltz through the rift and leave no matter where I am in the Hunter’s Spot. Unlike with the underwater Hunter’s Spots back on Eternus where I had to make it to the surface.
+
+I will forever and always believe that falling from the sky is the shortest and most efficient way to leave a place.
+
+Regardless of anyone who says otherwise.

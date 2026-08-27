@@ -1,0 +1,153 @@
+---
+id: 10860ba7-0d06-5a8e-8056-f819995f9e22
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11"
+slug: 0012-chapter-11
+partOf: death-healer
+position: 12
+ownLength: 1946
+unit: words
+publishedAt: 2025-05-07
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2263091/chapter-11"
+royalRoadId: "2263091"
+---
+
+"Little tubes carry the blood across the body," Gentiliana said with a heavy voice while her blonde niece looked around the room with pursed lips, swinging her legs from the chair. "Most believe that the body is simply filled with blood. But our ancestors performed experiments and found that that it is not the truth, Liliana. Your father also theorized that the heart is what pumps said blood. Though, I am not sure he's right."
+
+Gentiliana ended the explanation about the circulation of blood and took out a little dissected rat, putting it in front of Lily. She remembered when her father had done the same to her and how she had jumped from the chair at the gory sight. But it was necessary—one couldn't simply believe in such hazy descriptions. They had to see it. The only problem was that tempering with any animal or human body was illegal.
+
+Much to her surprise, Lily didn't even flinch, instead she raised her eyebrows, moved her chin forward, and stared at the dead rat with great interest.
+
+"Huh," the little girl said, moving her finger to poke the insides without any hint of disgust or fear.
+
+Moreover, there was something in the eyes of the girl—an understanding. Gentiliana could clearly see that Lily saw something in the rat.
+
+"The abdominal aorta," Lily smiled and poked one of the little tubes that brought blood around the rat's body—Gentiliana had no idea what her niece was doing. "That's…" The little girl frowned and raised her eyebrows. "The celiac trunk…"
+
+Why is she making up names? The middle-aged woman frowned.
+
+Lily brought her head closer to the dead rat, getting her fingers all bloody.
+
+"Light Magic…" The little girl muttered. "This is right… this is not wrong… the names… small trachea… I can't see the thyroid…"
+
+Gentiliana had to pull back the thing before her niece could get even messier.
+
+"Aren't you afraid? This is a dead rat, Lily."
+
+"Lavinia kills rats sometimes," Lily said, blinking at her aunt. "Her father gave her a dagger—Mom said I can't have one, though."
+
+Gentiliana was taken aback by the response. A normal girl of Lily's age would have run screaming in front of a dead, dissected rat.
+
+"Lily, you swore not to tell anyone what I just told you. Do you understand what I'm telling you? This knowledge is extremely powerful. You should now be able to access healing spells."
+
+Lily shrugged, still looking distracted.
+
+"What?" Gentiliana asked.
+
+"Do you have a dagger, Aunt Gentiliana? Why can't I get a dagger like Lavinia's?"
+
+Gentiliana frowned and ignored her niece, deciding to put away the rat
+
+"No! Can I keep looking?" Lily suddenly became agitated. "It's… I can understand when I see! I need to see—if I see it works!"
+
+Gentiliana, not knowing what kind of nonsense her niece was talking about sighed and took out a cage with a small, wounded cat.
+
+"No, we're done playing with the dead, Liliana. You need to start practicing Light Magic."
+
+Gentiliana was afraid that Lily would become one of the weirdos that actually liked playing with corpses—or, by Dawn's Mercy, worse, a…
+
+[Necromancer], the woman shuddered at the thought.
+
+"But Aunt Gentiliana, I can see! I can understand it!" Lily said nervously. "It makes sense when I see!"
+
+"Lily, I know you want to play with the dead rat, but we've got practice."
+
+"No! Aunt Gentiliana, you don't understand!" Lily said. But now that the rat wasn't in front of her anymore, she felt like her mind was muddled once again, slow and dull. There had been something that had spoken to Lily when finally seeing the innards of the rat—she had felt them so familiar, so… comforting. But now that she couldn't see them anymore, she frowned, feeling a small headache mounting in between her eyes.
+
+"Shush, darling. It's time to practice."
+
+Novice [Healers] and the Uninitiated practiced their healing on animals and the Houses of Healing, among other things, made sure that dead animals wouldn't fester in the streets—the Novices and the populations gathered whatever wounded animal they could find, stray or from a farm, and brought them here for the youngsters to practice upon.
+
+"Lily, I would like you to think about what I just said and fix this wound. Remember what I said about blood and the tubes, think about them bringing more blood to the wound and sealing it. That's how we do it in the Gens Claudia."
+
+Gentiliana was feeling very non-plussed at the fact that her niece had ignored such forbidden knowledge with this lightness and gotten into whatever creepy childish nonsense with the rat. She was already resenting Lucianus because of it. She had no idea that her niece was actually this weird.
+
+"Ok," Lily shrugged with a defeated expression and looked at the little cat. "Cute kitty."
+
+The little blonde looked at the little wound on the cat's paw and saw Gentiliana gently prying the cat from the cage. The cat seemed extremely subdued in the [Healer]'s hands, way more than one would have expected from the wounded animal.
+
+"I have [Soothing Hands] on," Gentiliana explained, caressing the kitten's head. "Now, take the paw in your hand, focus on the knowledge I just gave you, and try to access your Light Magic."
+
+The fur of the kitten was matted with blood and Lily gently took the paw, trying not to touch the wound.
+
+"Put your hand on the wound. The cat won't mind, Lily. I'm calming it down. It's fully calm and docile now."
+
+Lily focused on her senses, turning on what she could only define as her special sight. She knew it had something to do with Mana Sense, but she also knew no one else could perceive things so clearly—much less emotions.
+
+And what she perceived wasn't the calm that her Aunt Gentiliana had just spoken of—not at all. In fact, under an initial layer of numbness, Lily could perceive a deep-rooted terror in the kitten's heart. It was trying hard to take its little paw away from Lily, but it couldn't. There was a torpor that separated the creature's feelings from its actions—a barrier. Lily, initially not understanding what that was, frowned and tried to sharpen her view. She could almost see the Mana that was creating this problem, this terror.
+
+She frowned, feeling her Aunt Gentiliana calling her again, probably telling her to try and heal the kitten, but she could only focus on the terror and the barrier.
+
+The barrier is bad, an instinct told Lily. But she couldn't interact with it, it was too fuzzy, too ethereal. Not even her Mana Sense could properly see it.
+
+Lily had stopped practicing Mana Sense a while ago since no exercise could really sharpen it. She still kept it on most of the time she was home and playing with Lavinia, though. But she had noticed it hadn't noticeably improved in a while. Now, though, she could feel a pressure building up between her eyes as she stared at the barrier.
+
+She started breathing more heavily as she connected more and more with that sensation, with the same headache that had been developing from before. Her eyes slowly started making out the contours of the barrier surrounding the cat, and Lily's heartbeat picked up.
+
+Here, she told herself, seeing where the barrier was being generated from. Without even thinking, she used Mana Shaping and created a small shield where the Mana was supposedly pouring from, a few inches from the cat.
+
+Suddenly, the cat hissed to high heaven and scratched Gentiliana, biting Lily, and thrashing wildly.
+
+"Dawn's Mercy!" Gentiliana frowned. She had enough Attributes that the cat did nothing to her, but she saw Lily flinching as the cat bit her. However, there was something that stopped her from doing anything else. Not only she had no idea how [Soothing Hands] had just been disrupted, but even though the cat was biting deep into Lily's hand, the girl was staring intensely in the cat's eyes, slightly tilting her head in synch with the kitten.
+
+Gentiliana had the presence of mind to just observe.
+
+Lily mimicked the cat's movements, moving her head in unison. Little by little, the cat seemed to relent, especially when the little blonde girl took it from Gentiliana's hands without saying a word.
+
+The cat kept biting, drawing blood, its fur standing on end, but Lily just caressed it, seemingly in a trance.
+
+The middle-aged woman, once first-in-line for the succession of the Gens Claudia, was itching to tell Lily to try and heal the kitten. While in such a concentrated state, the little girl would have a much higher chance of succeeding.
+
+Thankfully, Lily seemed to have the same idea as she shifted how she was holding the cat, bringing the hand that was being bitten over the paw.
+
+Gentiliana actually held her breath, having rarely felt so involved in the training of a kid.
+
+There's something about her—it's unsettling. I understand why her mother is so obsessed with her.
+
+She had seen many Novices and [Healers] enter the House of Claudius, but none had made such a first impression on her: Lily had an otherworldly bearing, almost as if she came from another world altogether.
+
+"Please, heal," Lily whispered.
+
+Gentiliana activated her Mana Sense and saw Lily starting to accumulate a surprising amount of Mana for her age around her hand in small spheres that the little girl tried applying to the wound.
+
+It takes a high-level Mana Shaping and Mana Sense to control Mana like that… Gentiliana frowned. Is her Mana Sense… no, it couldn't be.
+
+Lily closed her eyes and frowned deeply, repeating words that Gentiliana barely understood.
+
+"Tubes… No… They're not tubes… What are they…" Lily muttered. "I can't see. Blood is… Not blood… It's not the blood that heals wounds… it's… what's… I can't see…"
+
+For a moment, wind lightly picked up around Lily, manifesting her aura, and Gentiliana almost took a step back.
+
+What is she doing? What's happening?
+
+The middle-aged woman was beside herself. She had no idea what the little blonde was even doing.
+
+But then, Lily shook her head and her Mana dissipated. She looked at the little kitten, which had now stopped biting the girl, and simply looked curiously at her.
+
+Gentiliana noticed blood dripping—it didn't come from the animal. She immediately cast a powerful [Heal] over the girl, making the wound disappear in an instant. Lily didn't have any levels or attributes yet, which meant Gentiliana could easily heal her with barely any Mana. She wondered how the little girl seemed so unfazed by the pain and so absorbed by the kitten's behavior.
+
+But the real question was…
+
+"Why didn't it work?" Gentiliana frowned, mostly asking for her own sake.
+
+Lily had the power, the Mana Sense and Mana Shaping the match it. She was a smart girl and she clearly understood what she had been told.
+
+Then, why?
+
+"Darling, did you picture what I told you? The tubes and the blood getting to the wound?" Prodding the little girl, Gentiliana didn't get much out of her.
+
+"Aunt Gentiliana," Lily said unashamed, "it just doesn't make any sense. It's… wrong."
+
+Gentiliana knew that, for example, since she had researched less than her younger brother, Lucianus, she had less of a mastery over the healing Skills. But, her Class more than made up for it. Gentiliana herself had been skeptical about the knowledge that had been passed down onto her—perhaps the most skeptical member of the Gens Claudia to date. Yet, it had been enough to wildly advance her Light Magic Affinity.
+
+So… why didn't it work with Lily?

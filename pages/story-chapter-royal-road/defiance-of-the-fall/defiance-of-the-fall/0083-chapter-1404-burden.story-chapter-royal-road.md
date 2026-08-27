@@ -1,0 +1,137 @@
+---
+id: 8d270238-80f3-5948-8c65-283325301096
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,404 - Burden"
+slug: 0083-chapter-1404-burden
+partOf: defiance-of-the-fall
+position: 83
+ownLength: 2973
+unit: words
+publishedAt: 2026-02-01
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3002275/chapter-1404-burden"
+royalRoadId: "3002275"
+---
+
+Zac was sick and tired of the twists and turns he'd experienced over the past minute, yet he could only play along. The tailor-made spikes embedded in his back were more stubborn than he’d hoped. Dislodging them in time to deal with August’s power grab was looking iffy. He needed Xiphos to lend a helping hand, which meant Zac couldn’t allow the Enkindling Sage to have a mental breakdown.
+
+“You…” Zac said in what he hoped was a soothing voice. “You know what?”
+
+“Everything, since the moment you called on the Empyrean Chalice. It was like a veil covering my eyes had been lifted, and I suddenly remembered what you told me on the shores,” Xiphos said, his face collapsing into a miserable smile. “It’s so weak, so alone. I understood the meaning behind my grandfather's actions. I finally understand why there was a need for an Enkindling Sage.”
+
+Zac cursed the loose lips of his past self. He perfectly remembered what Xiphos was referring to. During their standoff, he’d exposed the whole truth in frustration. How eons had passed since the Limitless Empire fell, how the world they saw was only a dream. Back then, the restrictions on the trial kept Xiphos from hearing Zac’s explanation.
+
+“It’s still not…” Zac hesitated to finish the sentence, Marai’s parting words still fresh in his mind.
+
+There was a reason why people like Xiphos and Astora were kept in the dark. Most likely, knowing too much would interfere with their resurrection when the dream ended. Perhaps it would force the person to bear a Heavenly backlash. Seeing how even the Grand Elders were walking on eggshells to avoid further entanglements, a mere Hegemon would have a hard time surviving.
+
+The trial had safeguards in place to prevent people inside the Memories from learning the truth, but those protections appeared to be weakened at the moment. Otherwise, there’d be no need for Marai to give him that warning. There was either a problem with the Outer Courts or Sevona’s island, and it sounded like the Empyrean Chalice had directly dispelled the effect on its chosen.
+
+Zac’s relationship with Xiphos was complicated, but the sage had undeniably appeared like a guardian angel this time. Returning the favor by taking away Xiphos’ chances at reincarnation would be too cruel. Zac needed to figure out another way to talk him down from the ledge.
+
+Xiphos sighed, looking like he could perfectly understand the meaning behind Zac’s conflicted expression. “I’m aware. There’s a sliver of possibility that our people will be given a second chance at life. And I think that you outsiders are necessary agents of change to open that path.”
+
+“Then—"
+
+“Even so, I will not help you.”
+
+“What? Why not?” Zac said with growing panic. “This isn’t the time to be joking around. I need to stop what’s happening further inside! I can tell you’re not working with the corrupted ones. I only need you to drag these spikes out of my back.”
+
+Xiphos seemed to consider Zac’s words for a second before nodding. The chalice floating near the ceiling exploded, releasing all its remaining flames. They filled the ceiling of the lobby before expanding into corridors and side chambers. It was like the whole lodge had become holy ground, and the flame’s blessing was giving Sevona’s divinity a much-needed boost to fight back.
+
+However, the accumulated flames weren’t enough to turn the situation around. August’s aura seeping out of the Hall of Abundance had decreased a few notches, but it was already growing stronger. The sacrifice had bought them a few minutes at most. That was good enough for Zac. Even if Xiphos didn’t help any further, Zac was confident he could force out the spikes with the additionally bought time.
+
+It really didn’t look like Xiphos planned on assisting any further. Instead, he turned to the ball of flames that failed to follow Kaltosa Lu when he made his escape. Zac had only given it a cursory look before, but his eyes widened when he saw what was trapped inside. It was one of the Elemental’s primordial runes with a hole in the middle. Its remains were already being melted by the flames, its primordial essence consumed and incorporated by Imperial Fate.
+
+Lompo had been right on the money. Kaltosa Lu may have walked away with Descartes’ token and a small chunk of Zac’s Imperial Merit, but he’d paid a steep price to achieve these goals. Zac wasn’t sure if it was a worthwhile trade. Every destroyed Primordial Rune was a permanent loss to the Centigrade Elementals, leaving their racial heritage slightly less complete.
+
+“The outcome here means nothing before my purpose. I’ve told you who I am. I am the Enkindling Sage of the Order of the Empyrean Chalice,” Xiphos said as he caught the blob of divine flames. He turned back to Zac, his stare intensifying. “I’ve also come to understand who you are, why I felt such kinship since the day we met. You were chosen as our Holy Son, perhaps our very last one.
+
+“Except the flame does not burn within you. You’ve built a wall around yourself, refusing to take on our holy mission.” Xiphos held out the flame toward Zac. “It is time for you to make a decision. Accept the responsibilities that come with your title, and I will give you the power to turn things around. Refuse, and the Empyrean Chalice shall sever its fate with you and everything you have touched.”
+
+The meaning behind the veiled threat was clear as day. Not only would Zac lose his status, but Xiphos would retract the help that kept the loft going. It would be like the ally guarding your back suddenly fled without warning. Idiche would receive a backlash, and August would use the opportunity to swallow the Divine Core in one go.
+
+“This is forcing me to join you under duress,” Zac said through gritted teeth.
+
+“You leave me little choice. You should understand better than I just how fraught our lineage has become. Besides, what are your convictions worth if you’re not ready to die for them? If that’s the case, you may as well lend us a helping hand,” Xiphos countered.
+
+“Accept the responsibility? I don’t even understand what that means,” Zac cursed.
+
+“Neither do I. I expect the world you’re from is utterly foreign to me. However, the flame will illuminate your path, ensuring you’ll do what needs to be done,” the sage said with utmost confidence.
+
+The non-explanation provided little comfort, but the wording gave Zac a sense of déjà vu. The description sounded very similar to those he’d heard of the Remnants. They were supposed to be spread out all across the multiverse, yet Zac kept running into them after absorbing the first set. Ultimately, he’d collected all ten within a decade.
+
+Part of that was related to the System’s machinations. It wanted the motes of Chaos to restore the Havens. However, that wasn’t the only reason. The remnants had the power to manipulate their host’s destiny, subtly pushing them toward Atavism. If Zac said yes, his future would be influenced by the Empyrean Chalice. Maybe that would have already happened if not for his Void Road.
+
+Zac was reluctant to inherit the will of the Empyrean Chalice, but he was also running out of time. Besides, he’d always had a hunch he’d end up this way sooner or later. Getting the assistance of the Limitless Emperor himself was bound to have consequences.
+
+“Fine, I’ll take on your mission or whatever. However, you should know that I nurture my own Destiny. I cannot carry Imperial Fate,” Zac said, opting for transparency.
+
+“I’m aware. You were chosen by the chalice despite this, so who am I to judge?” Xiphos laughed, relief evident in his eyes. “Thank you for keeping the flame burning.”
+
+“Now what do I—” Zac forgot his next words when Xiphos erupted into flames.
+
+He wasn’t burning like Kaltosa Lu. It looked more like the sage had reverted into a memory lantern, except he retained his power and human form. And he was funneling his very essence into the growing blob of fire as he got to his knees by Zac’s side. While his right arm fused with the roaring fire, Xiphos placed his left hand on Zac’s forehead.
+
+A nourishing warmth, many times stronger than before, swept through Zac’s body. He felt like he’d returned to the womb, except the womb was a divine chalice holding the hopes of a whole civilization. Wounds were healed and blemishes mended, and the spikes piercing his back were directly incinerated.
+
+Zac was being reborn into someone strong enough to carry the weight of destiny. At first, he was horrified as his mind went to the trap hidden within the [Boundless Vajra Sublimation]. Zac worried Xiphos wanted to refine him into an unthinking champion of their Empire, a true Eternal Guardian. Thankfully, the transformation was more of a broad tempering from a supreme blessing.
+
+He couldn’t move, but that was only a temporary restriction while he accepted the flame. It didn’t affect his thoughts, and there were no signs of Faith trying to force its way into his path. Instead, it transformed into pure, primal energies that could nourish any constitution and soul. While not as obvious as the Tribulation Throne, Zac recognized the intoxicating feeling of moving toward perfection.
+
+“The path you walk goes against the Heavenly Order. The Imperial Flame will help you mitigate some of the ire, but the effect will grow negligible as you continue to advance,” Xiphos mumbled, at which point Zac realized that both the flame and Xiphos's form had faded by half.
+
+And still, he showed no sign of stopping.
+
+“What are you doing?!” Zac said with alarm. “You still have a chance to—"
+
+“I do not, and neither do my siblings. We are inextricably linked to the Empire’s Karma. Overturning destiny comes at a cost. Saving us would take that opportunity from countless citizens. Better let us become the shields that kept the wayward souls warm all these years,” Xiphos said with a gentle smile. “You should rejoice for me. My holy mission has been accomplished. The torch is passed, and the flame has been rekindled.”
+
+When Xiphos finally removed his hand from Zac, he looked as faded as a ghost. Turning toward the sealed gate seemed like an undertaking. He extended his left arm, and half his body disappeared. The flames of his flesh had been used to draw the sigil of the Empyrean Chalice on the azure seal. The two forces clashed, and the moonlight reluctantly backed down.
+
+A stable path had opened, and Zac was rearing to go. However, could he just leave Xiphos like this? Xiphos didn’t force him to choose one or the other.
+
+“The mountain,” he said with an ethereal voice.
+
+Zac sent a message through [Purity of the Void], and the [Fuxi Mountain Gate] was back on his side. Zac briefly scanned its interiors, confirming there were no signs of the brush. Zac hoped it had been taken out and not destroyed by the hostile forces within the subspace, but this wasn’t the time to ask for an update.
+
+Zac held out the Void Treasure, grimacing when Xiphos began pouring the last of himself and the flame into the golden runes. Rather than a reinforcement of the array, it looked like a temporary boost. Zac already had a vague idea when he felt the treasure exert a pull on its surroundings, and Xiphos's parting words confirmed it.
+
+“Put this against the breach.”
+
+“Thank you,” Zac said as the last embers faded. “I’ll do my best to keep the flame going.”
+
+“There is an easy solution if the inherited fate becomes too much to bear,” Xiphos’s voice traveled from an unknown distance. “If you rebuild the Order of the Empyrean Chalice, you can dump the mission on their shoulders.”
+
+“How the hell am I supposed to—” Zac shook his head before turning into a streak of death.
+
+Conflicted was the best description of how Zac felt about Xiphos sacrificing himself to anneal him in holy flames. Setting aside the opportunity to salvage the situation in the lodge, Zac could already feel the benefits without performing a deeper investigation. The transformation had further aligned him with the Four Laws, and that was the lesser gain if Xiphos’s promise about weakening Tribulation Lightning proved true. Zac didn’t even want to think about what kind of punishment waited for him when he finally formed his inner world.
+
+At the same time, it was a gift that he didn’t ask for, one that came with strings attached. He already had too much on his plate as is. He’d made promises to the Abyssal Shores, and he needed to head for Sanctuary before the Heavens found Kenzie. And now he also had to shoulder the purpose of the Empyrean Flame, which obviously wasn’t something simple. Most likely, it was directly connected to the Limitless Emperor’s ultimate goal.
+
+Zac hadn’t forgotten there was a celestial coup to thwart before he could worry about these matters. He rushed through the gate and was greeted by an overwhelming amount of blue when he stepped into the Hall of Abundance. The azure moon was hanging overhead, visible through a large, circular sunroof. It was like an enormous eye was peeking inside, and its attention was glued to the floating core in the middle of the room.
+
+The moon’s desire was so palpable that it formed a pillar of light pointing right at the Divine Core. It was this pillar that filled the room with moonlight. More importantly, it was that pillar that allowed for a stable dimensional tear just a few feet above the Divine Core. It contained a powerful mix approaching the Peak of Continuum, but Zac was surprised to smell a whiff of the Void. It was no wonder that Xiphos suggested he use the [Fuxi Mountain Gate].
+
+The projection of a mangled arm extended from it, coming just shy of touching the prize. Idiche had approached the Divine Core from the opposite side. She floated just beneath it, using its shadow as a shield against the greed of man. Instead of absorbing the core, she was actually supplying it with energy. It was thanks to her efforts that there was still a thin film of divinity that kept August from seizing the item.
+
+There was no sign of Esmeralda herself, but her contribution to the battle was in plain sight. The dimensional tear was surrounded by six statues of different Grand Traversal Toads. They exerted a powerful spatial pressure as they stared at the tear. It was likely through Esmeralda’s efforts that the tear didn’t extend further.
+
+Zac set out again as soon as he’d oriented himself. He rushed past the perimeter of guardian statues with the mountain gate poised to strike. At that moment, the gemstone eyes of the six toads lit up, unleashing a synchronized wave of unusual space. It was as if August’s arm had been exiled to a different dimension, and Zac lunged at the opportunity.
+
+He slammed the sharp tip of the [Fuxi Mountain Gate] against the dimensional tear like a caveman, dislodging a tidal wave of unstable energies. A new set of lacerations opened up across Zac’s arms, and half the statues crumbled. Such shallow wounds didn’t even register in Zac’s mind, especially not while the flame of the Empyrean Chalice still burned within him.
+
+The wounds had already healed when Zac pressed the [Fuxi Mountain Gate]’s opening against the dimensional tear. A powerful tremor almost yanked the Void Treasure out of his grasp, but August’s aura was rapidly dwindling. The plan was working; Zac just needed to make it through without his body disintegrating from the powerful vibrations.
+
+The pushback from the other side grew more intense as the tear shrank. The mountain gate hummed with happiness. The harder August fought, the more energy was deposited into its subspace. Its vibrations were already intense enough that countless cracks had appeared on the bones in Zac’s arms, and he felt his organs tearing apart. Zac’s heart was full of complaints and also some embarrassment. Was this how his companions felt during his chaotic breakthroughs?
+
+“Piss off!” Zac roared, his voice wracked with anguish and annoyance.
+
+Couldn’t August see that it was over? As though the guard captain could hear Zac’s thoughts, the dimensional tear suddenly went out with a bang. Zac’s hands were already mangled by that point, and the [Fuxi Mountain Gate] finally escaped his grasp. The Void Treasure slammed into Zac’s forehead before he could react, and then there was only darkness.
+
+Zac was lying on the ground when he came to. His head felt like it had been hit by a train, and it took him a moment to realize he’d been out cold for half a day. Zac grimaced as he felt a large, tender bump on his forehead. With his attributes and compounded constitutions, such a minor wound should long since have recovered.
+
+Was it because of the [Fuxi Mountain Gate]? It was extraordinarily hard, far surpassing anything else Zac owned. He’d already considered using it to block deadly attacks, and using it to bludgeon people would clearly produce extraordinary results.
+
+His actions elicited a giggle from his left, where Zac found Esmeralda spread out sat on a pillow with a lazy expression. The vats on her back were near-empty, but she looked fine otherwise. Zac had been worried that such prolonged exposure to concentrated sin would have affected her state of mind, but it appeared it would take more than that to push a former Supremacy off-kilter.
+
+“Good morning, sleepyhead,” she said with a grin. “You’re becoming a dragon among men, horn and all.”

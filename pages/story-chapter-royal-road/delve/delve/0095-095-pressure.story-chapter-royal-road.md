@@ -1,0 +1,523 @@
+---
+id: a05e8037-61c8-55ba-a39d-fac93e1eb955
+page-type-slug: story-chapter-royal-road
+title: "095: Pressure"
+slug: 0095-095-pressure
+partOf: delve
+position: 95
+ownLength: 4742
+unit: words
+publishedAt: 2020-05-17
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/497449/095-pressure"
+royalRoadId: "497449"
+---
+
+Training Overview
+
+General Experience Earned
+
+Mana Use: 20,000
+
+Skill Experience Earned
+
+Mana Manipulation: 656
+
+Training Overview
+
+General Experience Earned
+
+Mana Use: 20,000
+
+Skill Experience Earned
+
+Mana Manipulation: 606
+
+Synchronization
+
+Strength +1%
+
+Vigor +1%
+
+Training Overview
+
+General Experience Earned
+
+Mana Use: 20,000
+
+Skill Experience Earned
+
+Mana Manipulation: 557
+
+Richmond Rain Stroudwater
+
+CLASS
+
+LVL
+
+CAP
+
+Dynamo
+
+18
+
+18
+
+EXP
+
+NEXT
+
+TOTAL
+
+22,749
+
+22,750
+
+434,832
+
+Vitals
+
+CUR
+
+MAX
+
+RGN
+
+HP
+
+940
+
+940
+
+250/d
+
+SP
+
+520
+
+520
+
+340/d
+
+MP
+
+4,501
+
+6,157
+
+1.7/s
+
+Dark Revenant’s Armor
+
+CUR
+
+MAX
+
+RGN
+
+DUR
+
+11,879
+
+1,309
+
+0
+
+SAT
+
+0
+
+13,202
+
+-92/s
+
+CHG
+
+0
+
+14,209
+
+0
+
+Attributes
+
+139/139
+
+EFF
+
+TOTAL
+
+BASE
+
+BUFF
+
+SYN
+
+STR
+
+11.8
+
+47
+
+10
+
+37/37
+
+25%
+
+RCV
+
+10.2
+
+25
+
+10
+
+15/15
+
+41%
+
+END
+
+7.8
+
+26
+
+10
+
+16/16
+
+30%
+
+VGR
+
+13.9
+
+34
+
+10
+
+24/24
+
+41%
+
+FCS
+
+10
+
+10
+
+10
+
+0/49
+
+100%
+
+CLR
+
+247
+
+247
+
+200
+
+47/61
+
+100%
+
+Resistances
+
+0/?
+
+FLAT
+
+PERCENT
+
+HEAT
+
+2.6
+
+0%
+
+COLD
+
+2.6
+
+0%
+
+LIGHT
+
+2.6
+
+0%
+
+DARK
+
+2.6
+
+0%
+
+FORCE
+
+2.6
+
+0%
+
+ARCANE
+
+2.6
+
+0%
+
+CHEMICAL
+
+2.6
+
+0%
+
+MENTAL
+
+2.6
+
+0%
+
+Rain closed his menus with a tired sigh and let his head fall back to clunk on the floor. He’d been digging for three straight days since Carten’s Message, and progress was painfully slow. He’d just woken up after sleeping for what felt like only a few hours, but in reality, had been almost ten.
+
+It turned out that Rain’s condition was nowhere near as good as he had thought it had been. Boosted as he was, he was strong, yes, but that strength was brittle. Lifting the large stones had been almost trivial until it suddenly wasn’t. The first time that his strength had failed him, he’d almost been crushed beneath the rock that he was carrying. He’d recovered and been able to continue, but it had been a wakeup call.
+
+Over the three days, he’d been constantly on the edge of various different soulstrains. The flashes of heartburn were new, but he’d yet to isolate the cause. His diet consisted solely of ration bars, and they were way too bland to be a likely culprit. Purify didn’t help, and he couldn’t exactly go to a corner drugstore for an antacid. On top of everything else, having to deal with indigestion was particularly unpleasant.
+
+As if the physical issues he’d been experiencing weren’t enough, he’d also been having mental problems. He kept unearthing bodies, and each one left him feeling just a little more numb. He was concerned that his lack of reaction was a bad sign. Further, he couldn’t stop ruminating about the supposed attack and the riot and whatever other horrible things might be going on in the city. The irrational worry that he’d reach the surface to find a wasteland was lodged deeply in his mind, despite the proof that he had to the contrary.
+
+All of this had resulted in a pounding headache by the time he’d been ready to sleep. Headaches were something that he’d thought he’d become immune to, but clearly, he’d been wrong. It wasn’t mana use that had done it, he knew. It was just the cumulative stress getting to him. He could still feel the faint echo of the headache now, like the remains of a hangover.
+
+He was ragged. Worn to the bone. Both his body and his mind were firmly telling him that he needed to stop and rest for a day or two.
+
+He couldn’t afford that kind of luxury.
+
+With a groan, Rain hauled himself up into a sitting position. I can lower my buffs once I get out, not before.
+
+Opening his skills menu, he spent twenty thousand experience to unlock two new trees. This time, however, he chose not to use Essence Meditation. He’d been doing that for the past three days to recover the experience.
+
+The sudden spike of pressure that he’d felt after his first overuse of the technique hadn’t reoccurred, but now, sitting here, feeling like shit, it seemed likely that some of the discomfort was related. It was time to give it a rest.
+
+He arched his back, grimacing at the tightness of his muscles. He’d stopped using the trick with the ring, worried about soulstrain from overhealth and overstamina. His joints felt even more swollen and stiff than they had yesterday, but they would loosen up once he started working.
+
+Despite how tired he’d been last night, he hadn’t slept well. The stone floor wasn’t helping, but that wasn’t the only issue. His dreams seemed to be immune to the memory-boosting effects of overmana, but he remembered enough to know that they hadn’t been pleasant.
+
+He was worried about what was going on in the city. The fact that he hadn’t heard from Carten again meant that either he was out of scrolls or that something was seriously wrong. Detection told him that there were still people moving about on the surface, but that was only a small comfort.
+
+One more day. If I can’t get out by tonight, I’ll lower the buffs.
+
+Rain got to his feet, then started making his rounds. He had nine slimes to feed, now. Dozer was already awake and headed in his direction. The others would soon follow. They got a little annoying when they were hungry, pestering him like begging dogs. Feeding them was the easiest way to get them off his back.
+
+He was no longer worried about creating some giant mana-charged slime gestalt. After three days, none of the slimes had shown even the slightest change, despite repeated exposure to his mana. It was a bit disappointing, honestly. He’d been hoping that Dozer would level up, but nothing of the sort had happened.
+
+The only real development there had been when Dozer had gotten its chance to fight a regular slime of the non-crystal variety. It had been a close match. Rain had even needed to tip the scales with a tiny pulse of Refrigerate.
+
+After Dozer had won, it had absorbed the other slime, swelling to almost twice its regular size and becoming clouded with filth. Rain had resisted the urge to use Purify, curious to see what would happen. Over the next few hours, Dozer had shrunk back down and regained its normal clarity, somehow digesting the foul liquid that had come from the other slime. It was a fascinating process, one that had Rain thinking that Dozer—or crystal slimes in general—might have some ability similar to Purify. The extra mass had evaporated, probably converted to mana. Dozer hadn’t been hungry for at least twelve hours afterward.
+
+After Rain finished feeding his slime herd, he was already feeling a bit better. Moving around helped. He had his own breakfast, then went to check if any of the items in the non-magical pile had come unbound. None had. At least the slimes are still leaving all this stuff alone. Their priorities are odd, to say the least.
+
+With a sigh, he selected a small war hammer from the pile. The pick that he’d been using had broken the day before.
+
+When he reached the blockage, he wedged his torch in a crack, then got to work. He swung hard, no longer concerned about bringing down the ceiling. He’d realized that this entire section of the stronghold had been designed to collapse, probably as a defensive measure. Attacking the rubble with the hammer wouldn’t carry any risk of causing a further cave in as long as he didn’t damage the walls.
+
+Dozer, who had been trailing after him this whole time, busied itself slurping up the broken chunks of stone. It was less that it was trying to help, and more that crystal slimes were into organization.
+
+Once Dozer had finished exploring the area, it had decided, for no reason that Rain could determine, that one particular spot was where all of the broken bits of masonry needed to go. Since then, it had been industriously chugging away, collecting every rock smaller than a fist.
+
+Rain had picked ‘Dozer’ as the slime’s name simply because it had fallen asleep, but now it seemed appropriate for another reason.
+
+If the other slimes hadn’t decided upon different spots, some real progress might have been made. Once the rest of them woke up from their food comas, they’d start trying to tear down each other’s piles. That would keep them busy, forcing Rain to periodically clear out his own spoil.
+
+He didn’t mind that much. If they had all been trying to get the fresh rocks he was making for them, they would have gotten in the way. Also, watching the slimes bumble about stealing stones was decent entertainment during the frequent rests that he needed to take. He’d finished all of his books, even the one on tax code. He would take any distractions that he could get.
+
+Right now, Dozer was winning. As the only slime that Rain wasn’t overfeeding, his familiar had a slight advantage simply by being awake for longer. Dozer also tended to come check on Rain from time to time, encountering new stones in the process. The other slimes just wandered about randomly until they bumped into something. They remembered where their own piles were, somehow, but couldn’t seem to recall the existence of any others for longer than a few minutes.
+
+Interestingly, it didn’t seem like the darkness bothered them at all. Their vision was equally crappy in all lighting conditions.
+
+Rain leaned the hammer against the wall and dug at the pile with his hands, prying loose the large piece he had been working on. He rolled it out of the way, then picked up the hammer again to continue. The hallway that he was standing in was littered with such stones, those too large for the slimes to move. He burped and rubbed at his chest, grimacing against the burn of the indigestion. He used a weak pulse of Refrigerate to cool himself down, then Purify to deal with his sweat. The heartburn faded after a few more moments, then he rolled his shoulders and got back to work.
+
+He continued in this manner for the rest of the day, stopping frequently to rest his tortured body and to watch the slimes. There were eleven, now. Five more had popped into existence, only two of which he had Purified. The rest had gotten ganged up on before he could get to them.
+
+Around 6 PM, he let his hammer clatter to the floor, too tired to bother setting it down gently. He’d kept going, long after he should have dropped to the ground in exhaustion. He was well aware that he was pushing himself several times harder than he should be, but he didn’t care.
+
+He was getting out. Today.
+
+While he’d been digging, he’d also been using Detection to monitor the work crews on the other side of the blockage. True to Carten’s word, they had been there on-and-off for the past few days, mining down from their side. Rain was starting to be able to hear the sound of the workers’ tools through the rubble. It wouldn’t be long now, perhaps an hour or two.
+
+Rain glanced at the weakly-burning evertorch, then shook his head. It was about to burn out, and he didn’t have another to replace it. He left it where it was, and wearily picked his way back through the hallway. He needed to take care of a few things before the workers broke through.
+
+Tarny propped his pick against the wall and bent over, placing his hands on his knees while he struggled to catch his breath. He and his two companions were in a cramped and dimly lit stone hallway, one end of which had collapsed. It was late at night, and the Watch stronghold was otherwise deserted. Even this far below ground, there was no relief from the horrible heat and humidity that was suffocating the city.
+
+“Here,” said Yott from somewhere behind him. She was holding out a canteen of water in his direction. Tarny took it and drank greedily. The water was warm and foul-tasting, but to his parched throat, it was finer than any wine. He passed the empty canteen back gratefully, then wiped at the grimy mix of sweat and crushed stone that covered his face.
+
+“Take a break,” Vanna commanded, motioning Yott aside and giving Tarny a significant look. “It’s too hot to push yourself so hard. We’ve only got a little water left in the barrel. We’ll have to get more soon.”
+
+Tarny shook his head. “No, I can keep going. I’m close to breaking through, I can feel it.”
+
+“Don’t be stupid,” Yott said. “Listen to Vanna. Let me take a turn.”
+
+Tarny grimaced, then nodded reluctantly. He moved to the side, getting out of the way so Yott could take his place. “Fine,” he said tiredly. “I’ll go get more water, I guess.”
+
+Vanna shook her head. “No, just rest. We’ll all go in a few minutes. I’m not sure that there’s even any left at the Stag. We might have to carry it all the way from the river. They should have a few barrels of the clean stuff left down there. If not, we’ll have to boil it.”
+
+“Boil it? Seriously? In this heat? Who’s starting fires?” said Yott, looking over her shoulder.
+
+“Anyone who doesn’t want to shit themselves to death,” said Vanna. “Now, if you’re digging, dig. I don’t need to remind you how important it is that we get him out of there. Tarny, rest for a few minutes, then help me with the debris.”
+
+Tarny nodded, sliding down the wall as the sound of the pick striking stone resumed. He was dead tired, but freeing the Night Cleaner was more important than how he felt. They’d only been paid to work for four hours, but they’d decided to keep going for as long as they could. The next crew wouldn’t be there until the morning, and the city couldn’t afford to wait.
+
+Selfish…
+
+He sighed. Theirs was the only crew who seemed to appreciate just how dire the situation was becoming. The rest were still refusing to work extended hours unless they were paid. It was short-sighted. The city just kept getting hotter and hotter, and the Citizen was doing nothing, just hiding in her mansion. The Watch had holed themselves up in the south of the city, and who knew what the hells the Guild was up to. The price of food was rising, with luxuries becoming more and more scarce. And the river, that was the worst of all. The nobles had seized control of all of the clean barrels of water and were selling them at a ridiculous price. As a registered work crew, they were exempt, but that wouldn’t last.
+
+The city was dying. They needed the Night Cleaner.
+
+To think that someone could become so strong so quickly. Compared to when we met him before, the stories… How can someone learn an entire language in a month? It’s got to be an exaggeration. Tarny shook his head, and forced himself back to his feet. He’d rested long enough.
+
+It really was different, for the awakened. For dulls like him, things were never so easy. Hard work had limits. He clicked his tongue, then grabbed a shovel and began helping Vanna clear away the debris from where Yott was digging.
+
+“Hey, I think you were right about being close, Tarny,” Yott said, pausing on her backswing. “I think I just felt it mov—Oh shit!”
+
+There was a grinding crash as the blockage collapsed, filling the tunnel with choking dust. Vanna shouted and pulled Yott back, saving her from being crushed. Tarny scrambled away, staring worriedly at the ceiling. He’d been told it was safe, but nothing was certain. Mining was not for the faint of heart.
+
+A wave of freezing air washed over him, coming from the other side of the barrier. As the rocks settled, the air became colder and colder, to the point that wisps of fog curled through the air. Peering into the darkness, Tarny made out the form of a man, climbing the piled stones.
+
+“Hey, it’s him!” Yott shouted. “Night Cleaner, are you okay? You didn’t get hit, did you?”
+
+“No,” said a man’s voice, echoing in the tunnel. “Thank you, Yott, I’m fine.”
+
+“You remember me?” said Yott, sounding surprised.
+
+“Of course,” said the man, slowly making his way through the rubble. “I remember all of you. Hello, Yott, Tarny, Vanna. It’s been a while.”
+
+Tarny shivered, and not from the cold. He felt an enormous pressure weighing down on him, growing stronger and stronger as the man came out into the light. He swallowed, eyes locked on to the black-cloaked form of the Night Cleaner.
+
+His thoughts snagged on the image of Rain when they’d met him before. The man, unarmored, had been freezing slimes solid with a thought. At the time, it had been exciting. Now, the cold rolling off of the adventurer felt like a threat. It spoke of an endless winter, with no chance for spring. In a word: death.
+
+He glanced at his fellow workers nervously. They seemed likewise unsettled. Vanna, usually unflappable, looked like she had seen a pack of kin. This was the power of an awakened. Lord Rain. The Night Cleaner. Death Zone. That last name was new, but standing here and feeling this pressure, it felt like the truest of them all.
+
+No matter the fact that Tarny remembered the adventurer as harmless, friendly, even, he still felt afraid. The pressure was strangling, like thick smoke from a hay fire, except as cold as ice. If this man wanted to kill them, he could do it without even lifting a finger. Against his power, the three of them were less than chaff in the wind.
+
+Death Zone stepped down from the blockage, then paused, his armored head swiveling to each of them in turn. Tarny flinched as he felt the adventurer’s gaze on him. The silence stretched, then the adventurer spoke.
+
+“What’s wrong?”
+
+Rain was confused. The three workers standing in front of him looked as pale as ghosts beneath the grime covering them. There was no reason that he could see for them to be acting like this.
+
+“Um…Lord Rain, I…” Tarny stammered. He swallowed, then spoke in a rush. “We dug as fast as we could. I’m sorry it took so long.”
+
+“Calm down,” Rain said. “And just call me Rain.”
+
+He couldn’t understand why, but Tarny was clearly terrified. The others looked unsettled as well, but not to the same extent. Rain reached up slowly to remove his helmet. “I know you remember me,” he said as he pulled it free, “There’s nothing to be afraid of.”
+
+“Then why are you using magic like that?” Vanna demanded, placing herself between him and the others. “Whatever you’re doing, please stop. It is making it hard to breathe.”
+
+“I’m not doing anything,” Rain said, hanging his helmet on his belt and raising his hands. “The cold is just from before. I was using Refrigerate to—never mind. There shouldn’t be any magic affecting you.”
+
+I’m just using Winter, and it’s compressed… They shouldn’t even feel it. What the hell is going on?
+
+Vanna took a deep breath, then let it out slowly. “I’m not sure…”
+
+“Vanna, come on, it’s just in our heads,” said Yott. “It’s late, we’re tired, and he looked evil as fuck with that helmet on. Look, at his face. He’s the same as he was when we went with him into the sewer last month.”
+
+“If you mean scruffy-looking, then yes, yes I am,” said Rain, gesturing to his head in an attempt to lighten the mood. He didn’t have a mirror to check, but he was betting that he had quite the case of helmet hair.
+
+Tarny let out a nervous laugh. Vanna looked at Yott, a skeptical expression on her face.
+
+“No,” said Vanna. “It’s still there. You’re just getting used to it. Focus on the feeling and you can tell. Otherwise it just sort of slips into the background.” She licked her lips. “I think… I think I know what this is.”
+
+“What what is?” Rain said. “Seriously, I’m not doing anything.”
+
+Vanna ignored him, speaking to the others. “When I was just a little girl, I met the Volcano. I couldn’t have been more than five.”
+
+“Wait, really?” Yott said, “You met the Volcano? Why did you never tell us that?”
+
+“It never came up,” Vanna said, shooting her a look. “And it was a long time ago. Anyway, I remember feeling like this. This pressure... The Volcano had it too. His was less wild. More deliberate. Still, it was the same. This…” She shook her head. “Have either of you ever met a goldplate? Other than Halgrave, I mean.”
+
+Both Yott and Tarny shook their heads.
+
+Vanna turned back to Rain. “This pressure… It’s oversoul.”
+
+What?
+
+Yott scoffed. “No way. That’s just a thing in stories. Nobody is that strong. You can’t feel someone’s soul. It doesn’t extend past the body. Everyone knows that.”
+
+“Okay, you explain it then,” said Vanna, glaring at her.
+
+“Wait, wait, wait,” Rain said, drawing their attention back to him. “What the heck are you talking about? What’s oversoul?”
+
+“You really don’t know?” said Vanna disbelievingly.
+
+Rain winced. Shit, common knowledge. My weakness. “Maybe I just know it by another name,” he said hurriedly. “Is it supposed to be something like what Avarox did to the court of Wix? You know, unveiling himself and quelling them with a glance? From Legends of the Green Wood?”
+
+“Yes, that’s exactly what it means,” said Tarny, looking at Rain with wide eyes. The fear had been replaced with awe. Rain found the sudden reversal jarring. “You’re a platinum…” Tarny whispered.
+
+“Bullshit,” said Yott. “You’re daft, both of you.” She pointed at Rain. “He couldn’t even blast his way through a little mud, remember? There’s no way he’s stronger than Halgrave after a month, and Halgrave doesn’t give off…whatever this is.”
+
+What the hell is going on?
+
+Rain shook his head. It made no sense. Legends of the Green Wood hadn’t used the word oversoul, but in several of the stories, there had been descriptions of powerful people suppressing others with a glance or just by entering a room. He’d just taken that figuratively, but now, reviewing the passages in his mind, he saw how it could have been meant literally. Rain froze, connections rapidly snapping into place between the stories from the book, his own experiences, and things he’d overheard at the Guild. A picture began to form in his mind.
+
+My soul is…leaking?
+
+He shook his head, thinking it through.
+
+I have a powerful soul for my level. My character screen confirms it with the total experience number. I’ve got a rare class, and I’ve spent an assload of experience on skill trees. That’s not all. I’ve also done a lot of tolerance training and whatnot. Could it really be that simple?
+
+Yott and Vanna broke out into an argument. Tarny was still staring at him, the intensity of the man’s gaze starting to be unsettling. Rain shook his head again.
+
+No, Yott’s right, it doesn’t make sense. At level fifty, a goldplate should have a total experience of almost two million, not counting skill unlocks. And that’s just if it’s a common class. A rare class would be fourteen million. Who the hell knows about legendary. I’m only at four hundred thousand. Granted, a normal level eighteen should have something like a quarter of that, but still. I’m nowhere near goldplate strength, let alone platinum. That’s level seventy-five for crying out loud.
+
+Rain could feel his headache starting to build again, and the heat wasn’t helping things. Humid air was wafting in from the tunnel leading to the surface. He automatically activated Refrigerate to cool himself down. Thankfully, he had the presence of mind to keep the aura tight to his skin so as not to alarm the others.
+
+No, there’s got to be more to it. I was at around the same total experience before I went into the lair, and I never got this kind of reaction. At least, I think I didn’t. I’m pretty sure it was just the armor getting me all those looks. Unless maybe it wasn’t? He shook his head. No, people were skittish, sure, but not like this. Tarny looked like he was going to wet himself, and now he’s looking at me like I’m some sort of god. Something changed, but what?
+
+Rain reviewed his journey through the Fells in his mind, then his time trapped underground. He ran past a particular scene, then blinked in realization.
+
+Essence Meditation? Shit. Is that why I’m feeling so awful? I thought it was just the training, but that pressure when I felt like I was going to pop… That must have been when it happened…
+
+He groaned and rubbed at his eyes. I ruptured my soul.
+
+“Lord Rain!” said Yott suddenly, catching his attention. “There’s something moving down there.”
+
+Rain lowered his hand to look. “Oh, that’s just Dozer. Don’t worry. It’s harmless.” Perhaps ruptured is a strong word. It’s been days, and I’m not dead, so—
+
+Dozer launched itself out of the darkness, faster than Rain had ever seen it move. It was headed directly for Yott.
+
+“Ah!” she shouted, scrambling back. Dozer landed where she had been standing with a wet splut, then pulled itself together and continued its pursuit. Through the link, Rain got a flash of excitement and hunger.
+
+“Dozer, no!” he shouted, hurrying to place himself between the slime and the workers.
+
+To his surprise, the slime obeyed, ceasing its pursuit and shrinking down, spreading itself across the ground like a melting scoop of ice cream. Confusion came through the bond strongly, mixed with fear.
+
+Rain bent down, glaring at the slime. “No eating people.”
+
+The slime quivered. The fear had vanished, replaced with what Rain could only interpret as regret. It seemed that Dozer understood and was sorry.
+
+Good. Rain sighed, then straightened his back, wincing at the soreness of his muscles.
+
+“Why do you have a slime?” Yott said, peering around him.
+
+Rain ran a hand through his hair, too tired and distracted to explain. “Because of reasons.”
+
+“Amazing,” Tarny said, crouching down to inspect Dozer. “Even the beasts bow before his will.”
+
+“What?” Rain said, alarmed by the man’s reverent tone. “No, this has nothing to do with— I just fed it, and it started following me.”
+
+“Why’s it clear?” asked Yott, watching Dozer warily.
+
+“Oh, that’s from Purify. You know, this.” He activated the spell as a Nova, sending a shell of white light blasting over them, instantly dissolving the layer of grime. The tunnel was transformed, stone powder and small flakes vanishing from existence. Rain was momentarily distracted by a flash of disappointment from Dozer, mixed with hunger. When he looked up, everyone was staring at the pristine hallway, speechless.
+
+“So bright…” said Vanna, blinking to clear her eyes.
+
+Rain winced. He’d started using Purify like this recently for clearing out sand and dust. He hadn’t been thinking straight and had failed to consider the implications for the others. It wasn’t at a dangerous level, at least, not for a quick pulse, but still. It would have been more or less like looking straight into a camera flash. Hardly pleasant.
+
+“Sorry, I forgot how bright…” He trailed off and sighed as he saw Tarny’s expression. “Stop looking at me like that. I did this before, remember? It was just a bit slower that time. It’s not impressive. It doesn’t even work on anything bigger than a pebble, and—”
+
+Rain cut off his sentence and clicked his tongue, having caught himself rambling. He ran a hand through his hair, trying to untangle it. Purify was no substitute for hot water in that regard. “I’m too tired for this,” he muttered, shaking his aching head wearily.
+
+I need a good meal, a hot bath, some antacid, ibuprofen, and a bed. Oh, and a band-aid to stop my soul leaking all over the place… I need a lot of things. Before I can worry about the fact that I might be dying, though…
+
+Rain took a tired breath and let it out slowly. He couldn’t rest yet. When he spoke, his voice didn’t waver. “Tell me what’s going on in the city.”

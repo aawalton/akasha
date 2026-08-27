@@ -1,0 +1,155 @@
+---
+id: e91e955e-e319-5bab-94bf-ef7a549122cd
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 12"
+slug: 0236-b4-chapter-12
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 236
+ownLength: 1383
+unit: words
+ownProgress: 1383
+publishedAt: 2024-12-13
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1954982/b4-chapter-12"
+royalRoadId: "1954982"
+markedReadAt: "2026-06-29T19:13:45.882Z"
+---
+
+All Around the Universe
+
+Every nation worth its salt all across the universe watches with both excitement and fear through the universe-wide broadcast of the tournament as the Horseman of the Apocalypse, Death, is constantly pelted with one attack after another. Regardless of the type of attack. Whether physical, magical, mental, or even spiritual.
+
+And throughout the process, the woman, who looks no more than twenty-two years old despite being below level one hundred, simply seems bored.
+
+The tournament is an important event for every nation in the universe as it symbolizes the strongest upcoming powers within the universe. It also marks the rise of the Crown Prince of one of the Grands. One of the few heirs to a Grand that exists outside of the Crimson Empire.
+
+All throughout the lives of the people across the universe, everyone was told about the Horsemen of the Apocalypse. The terrifying beings who know nothing but carnage. Nothing but spreading their source of apocalypse throughout the universe.
+
+But now? As they watch one of those beings sitting by with an apathetic if not slightly bored expression on their face while they’re being pummeled by nonstop attacks from beings over level five thousand? Despite her being at level eighty.
+
+And especially when some of them realize that Death is recovering from their attacks faster and faster with every attack made at her.
+
+Opinions on the Horseman of the Apocalypse begin to change.
+
+Some leaders of nations begin to see her as a potential ally against the other Horsemen. Others begin to fear her.
+
+Some powerful individual figures within the universe begin to finally take notice of the woman.
+
+Others feel threatened by her.
+
+But no matter what, very few of these parties even consider attacking her.
+
+Because everyone understands by now.
+
+You can’t kill Death.
+
+Meanwhile the other Horsemen of the Apocalypse, who are also tuning into the broadcast, show varied reactions of their own.
+
+War grins as he finds Death’s improvement impressive. The man finding himself more and more excited at the prospect of a future battle with her.
+
+Pestilence simply begins to wonder if her leveling may affect the results of poisons used on her at all, finding himself to be slightly interested in making a deal with her again to test more poisons on her.
+
+And Famine finds himself laughing like a madman as he sees the Horseman of Death proving the superiority of the Horsemen to the entire universe. Utterly indifferent to the opinions of anyone else on the matter of her attitude and frightening all of the nobles around him in the process.
+
+Finally, on one planet known very little by the universe known as Vortel, all of the former team members of Team Predator feel relieved to be seeing their old friend doing well. Even if some of them have begun to age again despite making it into the triple digits in level.
+
+Eventually the battle on the broadcast comes to an end, with Shirogane, the new Crown Prince of the Eternal Dynasty, being the last one to surrender as the crowd roars its applause.
+
+And the Horseman of Death simply yawns.
+
+Aria
+
+Well, that was boring.
+
+I give a half-hearted wave towards the audience, making them go wild, before I return to my booth with a simple teleport from the MC. Which is rather convenient.
+
+Too bad I can tell their teleportation magic won’t work on me for long.
+
+On the bright side, I got a lot of new adaptations from this exhibition match. So yay for that.
+
+Most of the important people attacking me gave up right around the time they ran out of attacks that could actually deal damage. When my adaptation to their attacks reached its peak.
+
+So I got plenty of adaptations out of this.
+
+Honestly, I’m a little surprised the Eternal Dynasty’s emperor and Shirogane even let me do this. Because it kind of makes the next generation of top level beings rather useless against me.
+
+What with me having gained adaptations to all of their attacks.
+
+Except Shirogane, who I don’t think went all out. But I’ve already gotten adaptations to his attacks before. What with us often using strategies in our travels that involve killing me.
+
+I still remember that strategy back on Luk’tar where I was diced up into pieces and stuffed into crates.
+
+Wasn’t particularly pleasant.
+
+Although by now even that doesn’t bother me.
+
+I think I’ve been numbed to any sort of pain by now.
+
+Anyways, after reaching my booth, it takes a good few minutes for the crowd to calm down. Then the MC begins speaking again, “Now, let us begin the finals!!!”
+
+And the crowd immediately goes wild again as I rest my cheek against the palm of my hand, my elbow resting on the armrest of my seat.
+
+The MC goes on and on trying to rile up the crowd more, but I just feel like I want a nap. Mainly due to spending the last like hour or so being pummeled by attacks nonstop without being able to do anything. Since if I brought out a book it’d just end up destroyed.
+
+And I can’t have that.
+
+I also couldn’t just have wine or something since it would be, well, destroyed as well.
+
+Which is also very bad.
+
+And a waste of wine.
+
+It’s bad to waste wine.
+
+Wine is important.
+
+Speaking of, I press some buttons on the armrest, calling for a servant to bring some wine as the MC continues talking.
+
+Can’t have too much wine.
+
+I watch as the MC finally introduces the two competitors in the finals. Shirogane and some girl from a secluded society. One not belonging to any of the Nine Grands.
+
+If I remember correctly, it’s a rather feisty group of people in general. They’re a subspecies of human just like the crimsons and lukians and atlanteans, except they’re more affected by their subspecies instincts than them.
+
+They have animal instincts.
+
+Specifically cat instincts.
+
+Or lion to be exact.
+
+They’re called lyons. And this particular lyon is actually about the same size as me. She has long golden hair like a mane, with golden slit eyes, and retractable claws on her furless hands.
+
+The only animal features they have though are those eyes and claws, to the great disappointment of a small part of the universe that apparently wanted them to have cat ears or something.
+
+Which is weird in my opinion, but to each their own.
+
+They do share some instincts with lions though, and that’s why they’re feisty.
+
+The lyons are very prideful.
+
+They don’t take insults well. But they’re also rather loyal to allies.
+
+This lyon looks rather odd though. From what I’ve heard of them.
+
+She’s calm. Cool and collected.
+
+She isn’t showing any of the feistiness I’ve heard about.
+
+Oh, and the MC announced her level as being around the eight or so thousands. Similar to Shirogane’s level.
+
+Which is very impressive.
+
+I’m actually rather curious to see how their battle goes.
+
+The lyon girl – whose name is, coincidentally, Leone Pride – doesn’t have any weapons on her. She is just standing there in a set of golden and silver armor that doesn’t show much of any skin at all other than her forearms and from the knee down. And her head.
+
+Before the MC announces the start of their battle, though, the girl turns to look at me, her long and flowing golden hair blowing in the wind over her shoulder as she does so. And somehow I feel as if she can see me through the barrier of my booth. Which has me raising a brow.
+
+What surprises me more though is that she gives a light nod in my direction. One of respect. Then, after her lips quirk upwards a little, she turns to face Shirogane again.
+
+And the MC announces the beginning of the battle.
+
+Without hesitation, the girl vanishes in a blur. Moving too fast for my eyes to keep track of. Meanwhile a spherical barrier of liquid silver appears around Shirogane at the same time she appears in front of him, slamming her fist into the barrier and sending him flying back to slam into the barrier of the arena.
+
+Instantly silencing everyone.
+
+Huh. She’s strong.

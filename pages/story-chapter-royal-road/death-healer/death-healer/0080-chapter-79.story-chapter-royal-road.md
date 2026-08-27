@@ -1,0 +1,159 @@
+---
+id: a5b6fecb-69e6-5a92-9a7f-3e52ed621fdf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 79"
+slug: 0080-chapter-79
+partOf: death-healer
+position: 80
+ownLength: 1682
+unit: words
+publishedAt: 2025-10-07
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2659147/chapter-79"
+royalRoadId: "2659147"
+---
+
+Everyone looked at Lily with a distinct expression. Her parents were confused and partly horrified, while Hadrian leaned forward with interest.
+
+"War?" Hadrian asked, curious. "Define war."
+
+"We need to kill whatever lives in the Dead Lands. If there are monsters dormant there, we need all our attention focused on two things: training men, first, and then, healing the Undead disease."
+
+"Healing the Undead Disease?" Lucianus shook his head. "Darling, do you think no one has tried?"
+
+"Lucianus," Hadrian smacked his lips, "did you miss the part where your daughter has memories that come from another world? And she was... a great [Healer] of sorts there, right? A [Doctor]?"
+
+Lily nodded. She had briefly explained that Earth didn't have Classes, but that didn't deter Hadrian from thinking of ‘Doctor’ as one.
+
+"Indeed. I specifically studied what I believe is the root of the Undead Disease. It's... I will explain what a bacterium is later. But, basically, Undead, by default, do not cause the Undead Disease. Someone tinkered with them. The Necromonarch. And through whatever means he had, he managed to make them infectious."
+
+"Could you even reverse the status?" Adriana asked, her voice quivering.
+
+Lily hesitated and shook her head. "I don't think so. Undead have... their bodies have fallen apart. They are dead, biologically speaking. At the very least, their minds are lost."
+
+Lily didn't know how to explain the concept of brain death, and so she limited herself to explaining it through the loss of one's mind.
+
+"But then,” Adriana continued, “even if you could heal it, you would have to catch the Undead Disease right before it–"
+
+"No," Lily cleared her voice. "That's not just it. I could, possibly, distill a cure that would prevent the Undead Disease from ravaging people's bodies. We did this back ho–uh, in my memories of that world, they did it all the time. I don't think it would have been possible back there because of the nature of this disease. However, it's different here. There's magic."
+
+What Lily was thinking about, specifically, was that a normal vaccine wouldn't have been effective on the Undead Disease. The bacteria was too strong, too resistant.
+
+However, if she managed to weave magic into it, to make some sort of magical vaccine, even temporary, that would make the life of soldiers on the frontlines much easier. And if she gave the same to people like her uncle Marcus, the giant [Monk], or whatever high-leveled melee fighter, they wouldn't have to worry about being infected. And the Undead were stronger in numbers, not in quality. A Level 300 person could easily take down several Level 300 Undead if they didn't have to worry about infection.
+
+"Do you think you can do this?" Hadrian asked.
+
+Lily pondered the question before nodding her head very slowly. Her blonde hair shook slightly as she turned toward the [Librarian].
+
+"You can trade knowledge, right? That's what [Librarians] do."
+
+Hadrian tilted his head at Lily's question.
+
+"Of course. Your mother could do the same. But I've been a [Librarian] for much longer, therefore I have access to more. Why?"
+
+"I believe the kind of knowledge I could trade you would allow me to get my hands on what we need in order to generate the cure I'm talking about."
+
+"And what about the war?" Lucianus asked, interrupting the talks about a cure. "You want me to put Ennius on a chopping block?"
+
+Lily bit her lower lip.
+
+"We need Death Magic. To defeat the Necromonarch, we need Death Magic. We should talk to Uncle Ennius. If he doesn't agree, it's war. Get in contact with Caesar, tell him to organize his forces, dad. Then, do the same with yours. Pull all the men you can, station them outside the walls of Alba as we go for an audience with Uncle Ennius. That will be enough leverage."
+
+"It won't be," Adriana interrupted her.
+
+Lucianus hissed and scrunched his face, looking regretful.
+
+"Your mother is right, Lily. There are five more Patriarchs. Aurelianus is not going to support you. No matter what."
+
+"The Gens Cornelia will," Lily said. "Sabinus has seen what's out there."
+
+"That's only two families, ours and theirs," Adriana said. "And the Gens Cornelia is currently lacking in resources and political support."
+
+"You would need an irrefutable demonstration that what you're saying is true, Lily. Without that, no one would overturn centuries of laws and tradition. It would come down to a slaughter. And even with Caesar on our side, I can't guarantee one of us wouldn't die. Ennius is weak. But Tiberius isn't. Aurelianus isn't weak either. We could handle them both in a one on one fight. But that's not going to happen. The Inquisitors they have..."
+
+"My mother's [Assassins]," Adriana suddenly chimed in. "My mother has trained countless [Assassins]. There's at least one as strong as Tiberius."
+
+Lily took a moment to raise her eyes at the ceiling and think. The easiest way to handle this would have been bruteforcing the problem. She hated Lavinia's father, Aurelianus, and that whore he had taken, who had completely overturned Lavinia's life.
+
+But her parents were probably right. They knew politics much better than she did.
+
+"Restoring an entire limb through your knowledge of Death Magic is an impressive feat," Hadrian suggested from the side. "I would start from there."
+
+Lily immediately understood what the [Librarian] was saying.
+
+"You think I need to first demonstrate how strong my knowledge and powers are, and then we make the move?"
+
+"Would Caesar throw his weight behind you?" Lucianus asked.
+
+"Yes?"
+
+"Are you sure?" Her father reiterated the question.
+
+"Yes."
+
+"Dawn's mercy," her father swore under his breath. "You're very impressive, darling. Then, with a guarantee like that, you would just need to demonstrate the extent of your powers to all the other Great Families. And there's the perfect event to do that coming up soon."
+
+"The Champion's Trial," Lily said.
+
+"That's the first part," Lucianus said slowly. "A dominating performance there would put you on everyone's watchlist. Add Caesar to that, backing you up? As far as personal power goes, that's it. That's all you need. But. The problem is... you make claims that need to be demonstrated. Otherwise you won’t be able to sway them."
+
+"You want me to find a cure in three months," Lily said.
+
+That's when the Champion's Trial would begin. Only three months.
+
+But her father was right. Every Great Family would attend it. Everyone would be there, ready to watch and, if Lily dominated everyone, to listen.
+
+If she won and demonstrated a cure for the Undead Disease, with Caesar backing up her plan—one of the most respected generals in the history of Lumina—together with her father's and the Gens Cornelia's full support...
+
+It would be difficult to pull this off. Lily, despite being so talented, was still extremely underleveled to deal with the bacteria that most likely caused the Undead Disease.
+
+To better understand the problem, it sufficed to say that the Undead Disease could take over a person in a matter of seconds. That meant that the bacterium that entered one's body would take over and replicate at a staggering pace. Nothing short of magic could do something like that. The kind of containment, power, and spells needed to contrast such a powerful, monstrous pathogen wouldn’t be easy to come by.
+
+"Darling," Lucianus said, slowly getting up from his seat. "Would you mind giving me a demonstration of how strong you are?"
+
+Lily looked at her father with a confused expression.
+
+"Sparring?" she asked, her brows raised quizzically.
+
+"Yeah. Give it to your old man," Lucianus said, his clothes suddenly billowing from the Mana he emitted from his body.
+
+* * *
+
+"Lucianus, are you sure?" Adriana watched her daughter and her husband square up in the courtyard. She had erected several layers of barriers to block the view of the two so that Lily could freely use her Death Magic.
+
+"Very sure," the man replied. "Show me what you got, Lily. Let's see if Caesar is actually right about you."
+
+Adriana knew that her daughter was strong, but she also knew just how tremendously exacting her husband could be. For a moment, she feared that, despite all the progress they had made, Lucianus wouldn't trust Lily's power.
+
+"Dad, aren't you a caster? Are you sure?"
+
+"Darling, I might be a caster, but I have a few Attributes going into the physical ones every level. Don't worry about me. I'll fight you hand-to-hand, and I'll give you an advantage. I'll lock away part of my power so that you'll be basically fighting a Level 50 melee fighter."
+
+"Alright," Lily said. Adriana could have sworn she saw a smirk on her daughter's face.
+
+What eluded both parents was the fact that Lily hadn't told them the specifics about her Skills. Adriana knew about Coniunctionis and the fact that Calpurnia had taught her that.
+
+But they had no idea what other Skills their gifted daughter might have learned during the past year.
+
+Suddenly, a black mist started to appear over Lily's skin.
+
+"Is that... Caesar's Skill?" Lucianus asked, his mouth hanging wide open.
+
+Lily didn't respond since she was already activating her next Skill. Yet, Adriana knew the answer. It was. And that closed the case on whether Caesar would actually support Lily. If he had taught her his Secret Skill, the one Skill he had not shared with anyone else…
+
+Adriana, who had already turned on her evolution of [Mana Sense], frowned.
+
+Then, she saw another thing that gave her pause: her daughter's eyes.
+
+Lily's pupils morphed into seven pointed stars.
+
+What kind of insane Ocular Skill is that? Adriana frowned.
+
+It was another reminder that Lily had exceeded both of their expectations.
+
+Veins of gold appeared on Lily's face, two drawing straight from her eyes like tears of gold streaming down her cheeks.
+
+Then, two large wings, one feathered, one webbed, appeared on Lily's back.
+
+"Dad," Lily said, "I hope you won't get too hurt. Mom, get a healing spell ready."
+
+The next moment, Lily lunged.

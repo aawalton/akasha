@@ -1,0 +1,161 @@
+---
+id: 51948600-a04f-547f-a3e2-20f5fa5b96da
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,416 - Lord of the Underworld"
+slug: 0096-chapter-1416-lord-of-the-underworld
+partOf: defiance-of-the-fall
+position: 96
+ownLength: 3261
+unit: words
+publishedAt: 2026-03-31
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3215343/chapter-1416-lord-of-the-underworld"
+royalRoadId: "3215343"
+---
+
+The Hollow Chasm became drenched in darkness. The churning clouds wanted to reach into the pit, but the Earth rejected Heaven’s encroachment on its domain. Bloody contours of countless shadows were illuminated along the rims by a flickering, angry red. For a moment, Zac felt as though a billion warriors had risen from their graves to face Heaven’s wrath.
+
+The moment passed as the clouds heaved to unleash a first bolt. Zac couldn’t sense any Law imbued in the lightning, but the intensity far surpassed what he had faced hours ago. He made no move to share the burden. Ogras wasn’t one to risk his life out of pride, and his solemn but steady demeanor suggested he had a plan.
+
+Ghastly wails reverberated through the chasm as Ogras fully unfurled the [Shadewar Flag]. It stretched for dozens of meters, expanding into a canopy of shadows. It felt as though a world was hidden within, though it remained hollow and illusory.
+
+Nine wraiths emerged from the flag. These were not the throwaway specters that came with the cursed treasures, like those Ogras sacrificed inside the Hidden Earth Abode. These captives were the true prisoners of Ogras’s purgatory, heretics and assassins who had all broken the four cardinal laws.
+
+Ogras rarely used the [Shadewar Flag] since only its true prisoners remained. There were too many restrictions on bringing them out, and Ogras’s Karma would be tainted if he broke those rules. They’d only made a few appearances, like when fighting Kan’Tanu Cultists or Qriz’Ul. Still, Zac realized the ghosts were somewhat different from before.
+
+Like Avīci’s giants, they were hollow, though not completely. They still held a shred of destiny, a final glimmer of hope. The specters barely endured the punishment despite only carrying a fraction of the true wrath. But doing so transformed them for reasons Zac couldn’t explain.
+
+The incorporeal thralls went from looking indistinguishable from each other to gaining unique characteristics. One grew taller, and part of his form separated into what could be a zweihander or a ruler. Another hunched over as its arms sharpened into blades thrumming with barely contained violence.
+
+Were the specters regaining their forms from before they were dragged into the flag? Zac somewhat felt that this was moving in the wrong direction. The process was only partly completed before they were pulled back into the flag. Zac only managed to confirm that their weak strand of fate hadn’t been altered before another set of wraiths was brought out.
+
+The second bolt descended. Its intense fury forced Zac to take a step back before Tavza isolated their surroundings with an Abyssal domain. Three of the wraiths couldn’t endure this time, and small scorch marks appeared across the flag. The main part of the tribulation had still entered the flag’s hidden world, and the heretical tool struggled to endure the punishment.
+
+The fallen wraiths were lost forever. Their forms scattered, and their last shreds of providence were returned to the cosmos. Oddly enough, the clouds seemed to grow even angrier from the offering. It briefly felt as though all air had been sucked out of the chasm before a third and final tribulation fell. Zac was sure it was the last because the pitch-black clouds had exhausted themselves to call down a few slivers of the Four Desolates.
+
+‘It’s fine!’
+
+The voice entered Zac’s mind just as he seriously started to consider whether he needed to intervene. Even a mixed lightning bolt like the one rushing down the chasm went far beyond the conventional punishment of the Heavenly Dao. Still, Zac had told Ogras all about his experiences with Law-imbued tribulations. Seeing as he remained confident, Zac could only respect his friend’s wishes.
+
+The conviction held for less than a second.
+
+“What in the world…” Zac muttered with confusion as a huge figure emerged from the banner.
+
+The enormous goblin surrounded by nine elite specters undeniably looked like a supersized version of K’Rav, yet Zac could tell there was something wrong. The spirit only matched in form, while demeanor and energy fluctuations had too many problems to count. It was a mottled mixture of shadows and dreams, where each distinct aura corresponded to a powerful beast in Zac’s memories.
+
+The goblin had taken on the bloodlines of Ogras’ [Spiritlock Physique] somehow, and it wasn’t clear if it actually was the demon himself who made up the nucleus. The spirit’s core spirituality was drenched in Avīci’s gloom. It shifted between K’Rav and Ogras, between truths and falsehoods.
+
+Between alive and dead.
+
+The Law-imbued lightning bolt descended before Zac could make sense of the situation. A part in the back of Zac’s mind noted that the chasm’s ability to weaken the Four Desolates was significantly weaker than its resistance against the Heavenly Dao. For Zac, who had to face lightning made purely from Law, breaking through to Peak Hegemony here would provide almost no benefits.
+
+Zac’s main concern was whether the K’Rav-Ogras chimera could endure the Four Desolates, or whether surviving it was a good thing. Ogras’ true body had entered a catatonic state since the tribulation began. His destiny was linked to the flag in ways that went beyond Zac’s connection to his spirit tools, to the point Zac suspected Ogras had to bear part of its punishment.
+
+The lightning poured into the chimeral goblin, and Zac helplessly watched as waves of extinction swept through its body. The Cosmos tried to take back what had been stolen, and pieces of the spirit were constantly erased. However, Ogras had his own means of survival. Truths and falsehoods kept inverting, and life was seized through death.
+
+New parts appeared and were destroyed in a continuous cycle. The specters chosen to bear some of the punishment lacked such means. One by one, they crumbled until only one remained. A flock of fireflies made from shadows surrounded the specter. One by one, they sacrificed themselves to protect their master by taking on some of the punishment.
+
+It was a common heretical method to spread tribulation onto others, except the fireflies were clearly part of the specter in its current state. It was off, cutting pieces of its flesh to protect its core, and it worked. The lightning was exhausted shortly before the ghost reached a point of no return.
+
+A massive surge of energy poured up from the ground, casting the specter anew. Zac even felt hints of Law in the impartation. A champion to lead the other prisoners had been born. The suspicious Tool Spirit had finally managed to endure the main bolt at that point, prompting the greatest surge of endowment yet.
+
+The size of the Hollow Court’s gift was mind-boggling. It was dozens of times larger than Zac’s, and there were even snippets of Law inside. Zac couldn’t help but feel a bit jealous at the scene. Sure, advancing his Earthly Dao was exactly what he needed right now, but he’d been standing right at the threshold for some time.
+
+Zac’s nirvanic rebirth expedited the process and saved him some Dao Fruits. If put in terms of numerical value, it wasn’t more than 10,000 Imperial Merit. The complete overhaul of the [Shadewar Flag] and its inhabitants was on a completely different level, approaching the levels of the top-tier opportunities available for trade.
+
+Tavza struggled with similar thoughts, judging by her conflicted expression. Was this the benefit of arriving first, or had Ogras done something else to gain the court’s recognition? Or… Zac suddenly had an idea as he recalled the spirits almost completely drained of providence. There were quite a few prisoners trapped in the flag.
+
+Was this a matter of balance? Just how much Fate had Ogras offered up to the Eighth Hell?
+
+Zac discarded all useless thoughts as [Verun’s Bite] appeared in his right hand. Meanwhile, Haro’s vines slithered as close as they could without drawing ire from above. The mottled spirit had endured the final punishment, and the heavenly clouds were reluctantly parting. Left was a panting spirit with a fully cohesive aura.
+
+The bloodlines of the [Spiritlock Physique] had been melted down to their base elements and fused with not only Ogras’ path but the racial boons of the Ra’Lashar Goblins. The last part could actually be a lot more valuable than one would expect. The topic had come up one day, and Tavza’s historical tidbits had really opened his eyes.
+
+Most goblin subspecies were like humans, not particularly talented. Accordingly, they made up for a lack of quality with quantity. There was one significant difference between the two low-tier races, though. While humans were near-perfectly balanced jack-of-all-trades, goblins naturally gravitated toward extremes.
+
+Usually, that only amounted to being unusually clever while physically disadvantaged or vice versa. However, there were accounts of Goblin tribes that had pushed their advantages to ridiculous levels through dedication or coincidence. Long ago, there was a Hobgoblin tribe endowed with such superhuman strength that they could grapple with Titans and Star Beasts. Some of history’s greatest inventors were also goblins.
+
+However, such extreme specialization was a double-edged sword. It twisted their personalities, leading to highly unstable societies. The Ra’Lashar Kingdom’s end wasn’t an anomaly—it was the expected outcome. Reaching the peak of the Multiverse was almost impossible since goblins were bound to crumble from within.
+
+For instance, the God-slaying Hobgoblins of the System’s earliest days were dumber and more aggressive than most low-grade beasts. Feeling their bloodline was the strongest in the universe, they chose to wage war against the Starbeast Alliance the second their leader became an Autarch. A single Star Beast, who had lived since before the Dark Age, swallowed their whole society in a single gulp.
+
+It was for that very reason that even the Peak Factions in the heartlands avoided the only A-grade Goblin Empire in the Multiverse. No one wanted to be dragged into hell with them when their society inevitably went supernova.
+
+The fact that the Ra’Lashar Goblins had gone from a mortal faction to a Peak C-grade force in a few thousand years indicated they were once one of the rare goblin tribes with extremely high potential. Having access to a fragment of the Lost Plane wasn’t enough to explain their frantic ascent.
+
+Zac had probably benefited more from Ultom’s enlightenment than anyone else, and he understood well that its guidance had to build on something. Zac had assembled his path by breaking down top-tier manuals and studying compendiums like the [Book of Cycles]. The Ra’Lashar Kingdom was an isolated society that had to invent everything from scratch while fighting against the Lost Plane’s madness and misdirection.
+
+It was this Ra’Lashar cleverness that Zac was afraid of spotting in Ogras’s eyes after he woke up. Tavza understood Zac’s intention and sealed the Teleportation Array with her Abyss. On such a small platform, not even Ogras would be able to avoid capture.
+
+The supersized Tool Spirit didn’t linger on the outside. It seemed to enter a deep slumber before slipping into the flag like the other prisoners. The flowing banner shrank and furled until it returned to its normal size. However, instead of entering his sleeve as usual, it turned into a deathly streak that snuck into the demon’s glabella.
+
+Ogras’s eyes flickered a few seconds before he woke up. He immediately noticed his two companions staring at him with overcast expressions. Ogras didn’t seem to mind. He only gave Haro’s slithering vines a lazy look as he sauntered over.
+
+“Not bad, eh?” he said with a cheeky grin. “I have to tell you, it’s good to be on this side of the discussion for once.”
+
+His joke was met with silence. In reality, Zac was simultaneously having rapid telepathic exchanges with both Tavza and Ogras. The former confirmed that none of her scans showed any discrepancies. Ogras wasn’t like the mashed-together Tool Spirit. His soul was whole, and there was no hint of K’Rav. He was neither possessed nor combined with the goblin.
+
+Ogras also passed all of Zac’s tests, including ones they’d set up while the [Shadewar Flag] was in a sealed state. It was still too early for Zac to fully lower his guard, but it did seem like his friend was okay. At least for now.
+
+‘What did you do? Do you need my help?’ Zac asked.
+
+‘Everything was great in the beginning. That wretched place advanced the flag’s realignment more in a few days than we accomplished in half a decade. After getting wrapped in the cocoon, we even realized that we might succeed in an initial recasting,’ Ogras said with annoyance that didn’t match the message. ‘Seeing how well things were going, I guess our ambitions grew.’
+
+Zac sighed with exasperation. ‘You turned on each other?’
+
+‘It’s hard to say who struck first. It was like Avīci was whispering in my ears like the enlightenment from the seals. I suddenly saw the opportunity to deal with two latent threats at once. I’d sacrifice the goblin to the Eighth Hell and turn my secondary personality into the[Shadewar Flag]’s new spirit. My other persona would become king of the underworld I am creating. Kind of like you, one alive, one dead.’
+
+Zac long since knew about the schism in Ogras’s mind. It had started all the way back when he was stuck with Billy in the Void Star. They still didn’t exactly understand how it appeared or what it was made of. Ogras believed it was a freak accident that fused a unique treasure with a Heart Demon.
+
+The situation did have some upsides. His two sides had reached an accord. The latter acted like a secondary subconscious that chipped away at issues regarding his path. It also acted like some form of intermediary between Ogras and the spirits trapped by his [Spiritlock Technique].
+
+However, it was still a separate consciousness hiding within Ogras’s body, one that could occasionally take control. It was no surprise that Ogras had always carried a secret ambition to rid himself of the danger. The same was true for K’Rav. Their relationship was one long string of plots and countermeasures.
+
+‘Meanwhile, K’Rav figured he’d found the perfect opportunity to get a promotion. He tried to dislodge my soul, turning me into a mindless puppet that wielded the flag. He probably figured he could stay safe within the flag while heaping all our fell Karma into an external container.’
+
+‘So what happened?’ Zac asked. ‘That Tool Spirit…’
+
+‘Neither of us really got what we wanted,’ Ogras sighed. ‘I’m still trying to parse through the changes. Half of that long-nosed bastard’s soul is now trapped in my [Spiritlock Physique]. My alter ego was successfully thrown into the flag, but it managed to avoid having its Fate siphoned off by Avīci.
+
+‘The bastard countered by fusing the flag with my [Spiritlock Physique] somehow. It’s like it has formed a secondary prison inside my Soul Aperture,’ Ogras recounted. ‘For now, my control over the flag has drastically improved. It feels like it’s a part of me because it is.’
+
+Zac didn’t know what to think when he heard the explanation. If anything, it seemed even messier than before. Ogras laughed at Zac’s expression.
+
+‘It’s more good news than bad. The flag’s upgrade is something else. I’ve become a lord of the underworld. The restrictions should have lessened by a good deal. My good deeds of punishing scoundrels have been recognized by the people upstairs. I’ve gained nearly 100 Luck in one swoop. And I think that number will keep climbing so long as I keep accumulating merit by taking out the trash.’
+
+‘The flag has turned into a Fate Treasure?’ Zac exclaimed with surprise. ‘What the hell, I only got a small Dao upgrade.’
+
+‘That’s because you’ve got no manners. Should have brought some sinners if you were planning on visiting hell,’ Ogras said with a grin.
+
+‘I’ll have to remember that for the next time,’ Zac said, fervently hoping there wouldn’t be one.
+
+Zac was very happy there was no realmgate leading back to Avīci. It was an excuse to not delve any further into whatever unresolved threads of fate were waiting within. Just making it through was a blessing as far as Zac was concerned. There were better ways to make up for whatever contributions he might lack.
+
+“Are the two of you about done with your secret meeting?” Tavza interjected. “Can he be trusted?”
+
+“Roughly as much as you trusted him before,” Zac said with a helpless shrug.
+
+“Always the charmer.“ Ogras winked at Tavza. “Anyway, it’s a good thing that skeleton went and got himself killed beforehand. I can’t see how any of Kator’s underlings would make it down here without his help.”
+
+Zac nodded in agreement. “Some of these realms were no joke. Even I would have struggled to make it here in one piece if I had traveled by myself.”
+
+“We partly encountered so much trouble because we sought it out,” Tavza said as she looked up at the terraces. From this vantage point, it was like the graves formed a ladder of corpses that reached all the way to the heavens. “The separation is weakening as the subrealms are reintegrated into the Left Imperial Expanse. Those who come behind us should be able to skip a few of the realms by directly descending the walls. They’ll just have to wait a few months and be ready to endure some pain.”
+
+“Longanimity,” Zac said with a crooked smile. “Maybe that was what those priests meant up by the surface. We could have avoided all this hardship by farming until the road was cleared.”
+
+“If you did, then you would no longer be yourself,” Tavza countered. “Also, I doubt the last two layers will ever unseal. Resolving those knots is beyond any trialtaker. They’re the final test of fate and conviction.”
+
+Zac knew Tavza was right. There was no way he would be able to sit still in some field while halos ignited one after another. Witnessing Ogras’ tribulation was a reminder that the competition was also busy seizing fate. It had been months since he saw Kaltosa Lu. How much stronger had the Elemental grown since then?
+
+The very idea left Zac impatient, but he still made sure to first check with Ogras. “Do you need to rest before we go?”
+
+“I’m fine. I know this platform is hidden from those making their way down the chasm, but I feel exposed standing around here,” Ogras said as he eagerly looked at the teleporter. “So this is it, then? That’s the best news yet. I’m not sure I could will myself to step into the First Garden right now.”
+
+They’d initially thought they would have to cross all seventeen hells and gardens, but they’d reached the bottom with one still missing. They’d crossed eight realms of life and death, culminating with Avīci.
+
+“Why do you think the Margrave spared us the suffering?” Ogras asked. “Did they need to keep the alignments balanced to make their plan work?”
+
+Zac had been pondering the same thing over the past few hours, and he’d formed a theory already.
+
+“The Primo helped build the Hollow Court, and he’s thought to be connected to a Ninth Hell that shouldn’t exist. If the First Garden is the start of the loop, then the Ninth Hell would be the closing link to form a full cycle,” Zac said. “And since both of them are missing here…”
+
+“…Then they can only be further down,” Tavza finished Zac’s thoughts. “The Hollow Court is built in a paradox realm of the Lower Planes.”

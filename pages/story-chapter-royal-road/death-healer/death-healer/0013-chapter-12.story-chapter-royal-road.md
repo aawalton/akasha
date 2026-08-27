@@ -1,0 +1,147 @@
+---
+id: 3a958371-40cd-5d0b-b648-df53c8cc0f31
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12"
+slug: 0013-chapter-12
+partOf: death-healer
+position: 13
+ownLength: 1890
+unit: words
+publishedAt: 2025-05-08
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2265324/chapter-12"
+royalRoadId: "2265324"
+---
+
+As much as Father preached that pain was the necessary toll for power, Cassius could never quite steel himself to ignore it. He shifted, trying to find a less excruciating position on the bench. A fleeting thought told him Father would be disappointed by such weakness, so he sat up straighter, forcing himself not to wince.
+
+Across from him, Lucretia was in full tormentor’s mode, her copper-red hair swishing as she jabbed at their youngest brother with her elbow. Lumius had his back pinned to the side of the carriage, his eyes wide with a mixture of outrage and genuine fear. He was cornered both physically and emotionally—too small to fight back, too fearful of earning Father’s wrath if he struggled in a way that might damage the precious family carriage.
+
+Lucretia smirked, glancing at Cassius as if daring him to intervene, then shifted her attention back to Lumius. “Come on, spill the beans,” she teased. “Say you’re behind on your training and that you lied to Uncle Tiberius!”
+
+Her tone had the lilting edge of a child trying to coax a confession, yet the narrowness of her eyes betrayed her real intention: cruelty for cruelty’s sake. Cassius could practically taste Lumius’s terror in the cramped air between them. Their father had made it painfully clear that he expected unrelenting toughness—especially from the males—and that if Lucretia’s “games” toughened Lumius, so be it.
+
+But to Cassius’s eyes, there was nothing that looked tough about Lumius right now. The boy was trembling, cheeks stained with tears he fought desperately to blink away. He shot Cassius a single pleading glance, one that seemed to beg: Please, stop her. Protect me. Yet under that fear, Cassius sensed a simmering anger. Their youngest brother had always been quick to bristle when teased, and being cornered, humiliated, and reminded of his failures stoked that rage. Cassius wondered if Father could see that anger in Lumius’s eyes—if Father would be proud or horrified by his son’s lack of composure.
+
+Lucretia, ever the opportunist, drew a small dagger from her belt. “Don’t worry,” she purred, rotating the hilt between her fingertips. “I’m not actually going to hurt him…” She paused, then added, “Not unless Father tells me to.”
+
+Cassius felt a pulse of fury coil in his chest at that last remark. Father had said they shouldn’t hold back—especially not to coddle Lumius. Cassius despised how Lucretia wielded Father’s words like a weapon, daring Lumius to fight back or run crying, either outcome a victory for her twisted entertainment.
+
+“Lucretia,” Cassius barked, his voice cracking with exasperation. His own wounds ached, but he straightened and leaned forward, trying to exude authority, at least enough to quell Lucretia’s worst impulses. “Enough. I won’t ask again.”
+
+She leaned back and rolled her eyes, but did tuck the dagger away. “Fine,” she said. “I’m only keeping him honest.”
+
+Honest. Cassius huffed quietly. You’re only feeding his insecurities. Lumius’s gaze darted between them, full of gratitude for Cassius, shame for needing protection, and seething resentment all at once. Cassius had seen that look before—Lumius hated feeling powerless. He was tired of being the youngest, tired of being overshadowed by siblings who had already earned some measure of Father’s esteem.
+
+“Are we there yet?” Lucretia asked, drumming impatient fingers on the seat.
+
+“Almost.” Cassius exhaled, letting the tension linger a moment longer. He could still feel Lumius’s eyes boring into Lucretia’s profile, as if silently wishing lightning would strike her. But Cassius sensed that behind that glare was a familiar fear—fear that Lucretia would go further next time…or fear that Father, in praising her viciousness, would berate Lumius for his tears. “And be nice to our cousin,” he reminded Lucretia wearily.
+
+“Sure,” she said with a wicked grin. Then, almost as an afterthought, she flicked her gaze at Lumius and mouthed, Crybaby.
+
+…
+
+Later, in the courtyard of their aunt’s manor, Cassius watched Lucretia once more terrorizing someone smaller—this time Lavinia, the short-tempered redhead from the main line of Gens Iulia. Lavinia leapt at Lucretia, trying to snatch back a precious dagger that Lucretia dangled overhead.
+
+“You want your little dagger back?” Lucretia teased. “Go ahead, throw a tantrum.”
+
+Cassius sighed. She’s going to make enemies out of every child in the Gens, he thought, recalling Father’s repeated caution not to waste time on petty scuffles unless they served a larger purpose. He frowned. Does she do this because Father praises her ruthlessness? Or does she just enjoy watching others squirm?
+
+Lumius stood a short distance away, eyes flicking from Lucretia’s tall frame to the furious Lavinia. Cassius could practically see the memories of his own humiliation flashing across Lumius’s mind. The way he pressed himself against the courtyard wall reminded Cassius of how he’d been pinned in the carriage. Cassius felt a pang of sympathy. Part of him wanted to pull Lumius aside and tell him, You’re not useless, you just need more time. But another part—the part shaped by Father’s lessons—whispered that Lumius had to learn to stand on his own or risk being forever beneath them.
+
+Lavinia was steaming, and she was jumping up and down, but Lucretia had several inches on her and was keeping the dagger above her head.
+
+"What, do you want to cry to your little sick momma?" Lucretia said sardonically.
+
+Lucretia’s next words tore Cassius away from Lumius.
+
+That’s low, he thought. Even for her. Something in him wanted to jump forward, but he hesitated, Father’s teachings echoing in his head: Don’t intervene in every minor quarrel. Only intervene if it benefits you— or, Cassius mentally added, to prevent blood from being spilled needlessly.
+
+Should I intervene? The boy pondered. His father often said that he should let people take care of their own business and not get involved unless he had something to clearly profit from.
+
+That's why he was beaten to the action by someone with much less regard for schemes and subterfuge.
+
+Their cousin, Liliana Claudia, suddenly appeared behind Lucretia. Cassius had learned to keep his Mana Sense active at all times to ensure he would level it faster, and at that moment, it allowed him to see his little cousin become a veritable beacon of highly charged Mana.
+
+Lily held her palm only a few inches from Lucretia's back as she readied her spell.
+
+What in the name of all Extinguished Light is that?!
+
+Feeling alarm bells going off in his head, Cassius immediately dashed forward, slapping Lily's hand away from his sister. Startled, the little blonde only managed to release a sputtering Mana Orb that barely made it a meter in the air before dissipating.
+
+Was I wrong? Cassius frowned, but was then distracted by Lily kicking Lucretia's heel.
+
+Lucretia whirled around. Cassius, no longer interested in letting these antics continue, swept his sister’s legs and caught the sheathed dagger before it could clatter to the stones. He dusted off the dagger after briefly inspecting it and then offered it back to Lavinia with a warm smile.
+
+“Sorry, Lavinia,” Prince Cassisus said sincerely, giving her a quick bow of his head, letting his white hair fall in front of his eyes.
+
+"You little piece of—" Lucretia was about to attack Lily, who, unlike Lavinia, looked ready to throw down.
+
+Cassius shot a withering look at Lucretia before she could finish her sentence.
+
+“Lucretia,” he said, his tone like ice. “Come here. We’re going to talk to Aunt Adriana. Father will hear about this.”
+
+Cassius dragged Lucretia inside the house, leaving Lily and Lavinia to stare at each other.
+
+Once inside, Cassius felt Lucretia stiffen at the sight of Aunt Adriana waiting for them, arms folded and expression severe. He couldn’t hear what was going on outside with Lumius, Lily, and Lavinia, but a part of him worried about his youngest brother. Lumius was intelligent—perhaps too intelligent for his own good—and as each day passed, Cassius saw that quiet resentment building in him, brick by brick. He noticed how Lumius’s face would darken when Father praised Lucretia’s brashness or Cassius’s swift mastery of new spells but made no comment on Lumius’s slow progress.
+
+He thinks he’s not good enough, Cassius realized. And in Father’s eyes, maybe he isn’t—yet. The realization chilled him. Lumius’s training was behind schedule, and their father detested weakness in any form. Lucretia’s relentless bullying only confirmed the unspoken family hierarchy in Lumius’s mind: Cassius was the golden child, Lucretia the second star, and Lumius…somewhere far below. From that lonely vantage, Father’s disapproval must have felt like a looming thundercloud, always threatening to strike.
+
+The scolding from Aunt Adriana that followed was almost a relief—her anger was fierce but maternal. Yet, in the short moments when Cassius stole a glance at his sister, he recognized the same brand of cruelty Father so prized. She thrived on dominance. Cassius knew Lucretia very much loved him, but she didn't respect anyone else. He tried to catch her gaze, to convey some measure of warning or calm, but she only sneered.
+
+* * *
+
+"She's a meanie," Lily reasoned out loud.
+
+Lavinia just stared protectively at her own blade and shrugged.
+
+"She's stupid."
+
+"Don't call my sister stupid!"
+
+They both turned toward Lumius, a boy with the same white hair as his oldest brother Cassius.
+
+"Cry about it," Lavinia scoffed, crossing her arms.
+
+"Cry," Lily nodded wisely, emulating her friend.
+
+"You two are stupid!" Lumius said, unsure what to do at first and then deciding to cross his own arms.
+
+Lily and Lavinia smiled wickedly at each other. With the biggest bully gone, it was now their time to shine.
+
+"Do you want to play?" Lily asked. "I'll be the [Pope], you'll be the evil [Cardinal]."
+
+"I want to be the [Pope]!" Lumius protested. "You always play the [Pope], and she always plays the [Centurion]! I want to play the [Pope] today!"
+
+"I am going to be [Pope]," Lily replied candidly.
+
+"Cassius is going to be the [Pope]!"
+
+"No. I will," Lily said, putting on a wise aura. "You're a little kid. You don't know."
+
+"You're a little kid! You're stupid and ugly and a little kid!"
+
+Lily narrowed her eyes before contemplating her pungent retort.
+
+"I am going to be the [Pope]. You are stupid."
+
+That soon degenerated into a small fight until Adriana came out holding a livid Lucretia by her ear.
+
+"All of you!" Adriana snapped angrily, followed in tow by Cassius.
+
+Lily and Lavinia, busy trying to gang up on Lumius, looked sheepishly at the adult woman.
+
+"What have I said about family?" The woman bristled. "Lavinia, you too. You're the daughter of the Gens Aemilia! You can't act out like this! And Lily, Lucretia is your cousin! Radiance take me. Do I have to repeat how we behave with family?"
+
+All the kids, including Lavinia, looked down at the ground. She had been around Lily's house long enough to know that they took these little fights between kids extremely seriously.
+
+"Do you want to kill each other once you grow up, or are you going to be friends and make peace?"
+
+"Make peace," Lucretia hissed, hoping to get released.
+
+"She's stupid," Lily said, making the courtyard become deathly quiet.
+
+"Do you want to repeat that, young lady?" Adriana said with a raised eyebrow.
+
+Lily looked uncertain for a moment before nodding.
+
+"Yes. She's very stupid."

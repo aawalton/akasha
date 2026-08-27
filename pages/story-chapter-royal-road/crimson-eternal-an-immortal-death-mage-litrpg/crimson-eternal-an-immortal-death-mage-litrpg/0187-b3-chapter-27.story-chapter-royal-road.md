@@ -1,0 +1,145 @@
+---
+id: a2282cd1-cb17-5241-9b5a-10bd90106b9e
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 27"
+slug: 0187-b3-chapter-27
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 187
+ownLength: 1500
+unit: words
+ownProgress: 1500
+publishedAt: 2024-07-29
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1736869/b3-chapter-27"
+royalRoadId: "1736869"
+markedReadAt: "2026-06-29T19:12:04.684Z"
+---
+
+Right Outside the Planetary Elevator
+
+Leopold da Silva, Emperor of the Grand Silvanian Empire, smiles a genuine smile as he sees the woman who is responsible for his niece’s survival during the battle at Luk’tar. One where the only reason she’s alive is due to the Crimson Empire’s interference for Death’s benefit.
+
+He was certain she would be just like the other Horsemen the moment her presence was announced to the universe. So certain that he ordered her hunted down and killed immediately.
+
+But after hearing about her indirectly saving his niece, and hearing about the girl herself from his niece, his opinion did a complete one-eighty. So much so that when he heard about the bounties on her head, he decided to help her out.
+
+Then an old friend from the Crimson Empire got into contact with him.
+
+He smiles as he remembers the meeting.
+
+That friend hasn’t visited for tens of thousands of years, so he was more than a little happy to see her.
+
+Leopold glances at the man standing next to Aria Crimson, only to frown with more than a little distaste as he sees the son of the Eternal Dynasty’s emperor standing there by her side. And he gets an itch to kick him out of the planet right away. Even a small desire to try to separate him from the girl who is important to someone so important to him. That friend.
+
+But he knows that would just upset Aria, and most likely his niece as well.
+
+So he just turns away from him to smile at the girl again as she approaches, completely unperturbed by the dozens of soldiers on either side of her.
+
+Once she gets close enough, he spreads his arms out in a welcoming gesture and exclaims, “Welcome to Silverfall, Aria Crimson! My name is Leopold da Silva, the Emperor of the Grand Silvanian Empire! And I hope you enjoy your time here! If you ever need anything for yourself, please feel free to ask me or my brother!”
+
+The Horseman looks confused for a second before nodding and answering back, “Thank you.”
+
+“Now, I’m sure you’ll want to check out the Spires first thing, but please come and stop by the palace first,” Leopold says, still smiling as he ignores the merchant’s existence. “I’ll bring you there myself. There are some things I would like to talk to you about.”
+
+A brief look of surprise crosses her face this time. Then she nods again.
+
+She’s just like what I was told so far.
+
+The smile on his face grows a bit warmer at that before he and the two begin to walk in the direction of a nearby carriage stationed at the bottom of the hill.
+
+And she looks so much like her…
+
+Aria
+
+Why… am I getting an uncle-like vibe from this emperor? He’s acting like he’s my uncle or something. Not Rory’s uncle.
+
+What’s going on? It’s confusing the hell outta me.
+
+I was expecting at least tense treatment from him or something. Maybe forced due to how Rory most likely asked him to let me come here.
+
+Not this.
+
+Although his treatment of Shirogane is just as I expected. Possibly even worse.
+
+It’s like Shirogane isn’t even here in his mind. As if the guy is just ignoring his existence entirely after that brief rather displeased look at the sight of him.
+
+He didn’t even bother to let Shirogane speak. Didn’t even give him a chance.
+
+Just spoke to me, introduced himself to me, let me introduce myself, and ignored Shirogane’s existence.
+
+I glance at the carriage we’re approaching. A carriage that looks like a mixture of high and low technology.
+
+It’s a real carriage, but with mechanical horses drawing it. Meanwhile the thing, while made from wood, is clearly made out of wood from Luk’tar. Wood that is enchanted incredibly deeply.
+
+So it’s far from a normal carriage and is probably vastly stronger than a tank.
+
+My admiration of the carriage is interrupted when the door to the carriage closes behind me after I enter, not even letting Shirogane inside. Then I hear one of the soldiers tell him to ride with the driver out front.
+
+I blink in surprise at that before glancing at the emperor who is just smiling as he asks, “Do you want any refreshments? The palace shouldn’t be very far, but we have plenty of your favorite wine with us.”
+
+All thoughts of Shirogane vanish from my mind as I request my favorite wine, soon finding a thin, magical platform appearing right in front of me. Meanwhile a wine glass floats out of a storage in the center back of the comfortable carriage and lands right on the platform along with a couple glasses. Then the wine pours itself into the glass.
+
+I reach for the wine before taking a sip and letting out a relaxed and satisfied sigh. Only to blush slightly when I see the emperor’s smile growing as he watches me.
+
+As if he’s looking at a daughter or niece who’s enjoying herself on an outing or something.
+
+It’s so weird…
+
+The carriage soon begins to move. And judging by what I see out of the window, it’s absolutely not moving like a normal carriage. Considering that it’s, well, flying. And coated in some sort of energy.
+
+Yeah, this is not a normal carriage in any manner of the phrase.
+
+“The royal carriages of the Empire use a special type of spatial magic that separates the carriage into a different dimension from the outside of the carriage,” Emperor Leopold says, answering the many questions I have about the thing. “It allows for extra security and allows the carriage to pass through both living beings and objects to get to where it’s heading.”
+
+“Very convenient,” I state while taking another sip of my wine and staring out the window, through the strange energy and at the city we’re flying over. And without turning my gaze from the city, I can’t help but ask the emperor, “So why the use of the older aesthetics?”
+
+He doesn’t say anything for a second, making me glance at him as I expand on what I said, “It’s clear you have incredibly advanced technology here, but you’re also still keeping to an older, more medieval aesthetic with everything here. The homes, other buildings, clothing, transportation, and castles. Everything.”
+
+For some reason I find him looking at me with a look of familiarity on his face. As if I said something that strikes a cord with him. Like he’s staring at someone he’s seen before, or staring at an old friend or loved one.
+
+Even more odd…
+
+I don’t think I’ve ever met him before, so what’s up with his treatment of me?
+
+He blinks, snapping out of the stupor he was in before he looks out the window and answers, “I feel like the weapons and looks of the modern world taint things. They just make them less… I don’t know, less peaceful.” He turns to look at me again. “Take those factories in more than a few worlds. They pollute the world to a drastic degree. Or the cars. Or even artillery and planes. They all taint the world.”
+
+“Keeping things like this also feels more nostalgic,” he adds after facing the window again. “We get the convenience of advanced technology without damaging the environments or inflating the greed of people. And I get to keep my feeling of nostalgia.”
+
+That’s not a bad reason.
+
+I turn to look out the window before leaning up against it.
+
+And he has a point. It’s rather beautiful in this place. I’ve always enjoyed the worlds without high levels of technology as well since they tend to smell and just feel nicer to be in.
+
+Less pollution and all.
+
+I think the only high tech world before now that I didn’t feel slightly stuffy in was Eternus.
+
+But that’s an ocean world, and just smells entirely of ocean.
+
+So that’s different.
+
+“You even have her same mannerisms…” I hear the emperor mutter, making me straighten up a little to look at him, realizing that I relaxed despite him being in here.
+
+“Excuse me?” I ask with a frown.
+
+He just shakes his head and says, “Don’t mind me. You just strongly remind me of an old friend who just recently visited.”
+
+An old… friend?
+
+What?
+
+Not sure what he’s going on about, but whatever.
+
+There’s something I kind of want to ask him though. Something no one in the public knows the answer.
+
+And something I’m not comfortable asking Shirou about.
+
+But for some reason I feel more comfortable around this emperor I’ve known for a whole like five minutes than I am around Shirou who I’ve known for decades.
+
+So I go ahead and ask it, “Why do you hate the Eternal Dynasty so much?”
+
+His expression instantly hardens as he avoids looking at me.
+
+Thought that might happen.
+
+But I want to know.

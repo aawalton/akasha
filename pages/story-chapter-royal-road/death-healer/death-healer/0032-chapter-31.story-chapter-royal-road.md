@@ -1,0 +1,161 @@
+---
+id: 5fa7a554-e3c0-5fcd-810e-a022bcfa5df7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31"
+slug: 0032-chapter-31
+partOf: death-healer
+position: 32
+ownLength: 2054
+unit: words
+publishedAt: 2025-06-08
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2340725/chapter-31"
+royalRoadId: "2340725"
+---
+
+At dawn, Lily returned to the courtyard, expecting to meet Calpurnia alone.
+
+Instead, she found the woman flanked by two girls.
+
+The shorter of the pair, a raven-haired girl with a tilt to her chin, spoke first. “So this is the prodigy,” she said, her voice bright and mocking. “The next Pope?”
+
+Lily’s brows drew together. The girl’s tone grated, yet what struck Lily even more was the uncanny symmetry between the two strangers: the same sharp cheekbones, the same pale-gold eyes, only their hair distinguished them—one black as obsidian, the other silver-white.
+
+Calpurnia’s gaze flicked toward the speaker. “Enough, Selena.”
+
+Before Lily could ask, the woman gestured to each girl in turn. “They are my daughters. The one who just tried your patience is Selena, and this is Vespera. They are a year your senior, which makes them perfect sparring partners. Their sister Flavia will join us shortly.”
+
+Selena’s mouth curled. “Flavia should not waste time on a puffed-up novice.”
+
+Calpurnia moved before the last word faded. She swept Selena’s legs from under her, and the girl hit the packed earth with a breathless grunt.
+
+“Fifty laps of the villa,” Calpurnia said, her voice level. “Learn courtesy while you run.”
+
+Selena rose without protest, dusted her tunic, and set off at a steady pace.
+
+Lily watched her go, the morning sunlight flashing off black hair and kicking up small clouds of sand, and she felt the day’s lesson was truly about to begin.
+
+The first thing you’ll need to learn is to summon the Darkness-infused Mana,” Calpurnia said. Lily felt a little anxious about such an endeavor because it was illegal in the papacy to wield Darkness Mana. But after Calpurnia’s reassurances, she felt like she was not only required to do this, but that she wanted to. It was a part of her that craved it. She didn’t know whether it was because of mischief or a deeper hatred for something inside the papacy, but that’s what she felt.
+
+“Darkness is the opposite of what’s light,” Calpurnia explained. “We’ll proceed with more theoretical explanations in case you didn’t Manage to summon any Darkness Mana today. For now, even the lowest amount would be fine.” Lily nodded.
+
+“Therefore,” Calpurnia continued, “everything that is about death, that is about destruction, is the same way light is about creation and life. Those are the feelings you should dig for. A fire Affinity can be discovered through learning more about fire, but Darkness is trickier than life. We have never experienced death on our own skin. We might have experienced pain, wounds, but those are actually still in the domain of light. Darkness is the absence of those things. Darkness is nothing. Death is the absence of life, not just its opposite. In a container, you can have water and other liquids, but we’re not talking about mixing water and oil, since they can never be mixed. We’re talking about a container that either has water or air. You could see air—the emptiness—as the lack of water. It’s easier to focus on that, to find your Darkness Mana, than it is to think of death itself. For girls, it’s easier. So I expect you to learn this Affinity in less than a month.”
+
+“Vespera, please show her.” Vespera took a deep breath and suddenly felt the air around her growing chillier. Plumes of dark Mana erupted from the girl. Despite her white hair giving her an angelic countenance, she now felt like an avatar of destruction. Moments later, Vespera turned it off. “That is what Darkness feels like.”
+
+A month, Lily thought, I can’t wait that long.
+
+What Calpurnia had just said was something she very familiar with. It was a sensation, that emptiness, that reminded her of something—something that gave her the ability to see.
+
+As Lily closed her eyes and reached inside her, scanning for that experience of emptiness, for death, something appeared in her mind. But then was suddenly distracted by Calpurnia’s additional instructions.
+
+“Some people go as far as capturing Undead. They are the greatest vessels of death magic. They are what happens in the absolute absence of life, when only death takes control. The Undead, unlike a normal corpse, are emptied of life magic. Even the deadliest remnant, despite slowly accumulating more and more death Mana, still has a spark of life because it is their nature. And that is why turning something into an Undead is essentially a perversion—it’s the emptying of life magic from a vessel that can then only be filled by death magic. Or, if you want to think about it that way, as soon as life magic disappears from something, only death magic can fill it. Like a glass you empty of its water—only its emptiness will now occupy it.”
+
+But Lily didn’t think of that; she had never seen an Undead. No, she felt a sensation in her chest, a weight right behind her sternum, as if every heartbeat amplified that pressure. Lily instinctively joined her hands in a prayer pose and breathed in.
+
+She heard trotting sounds—Selena’s feet stomping on the mulched ground—and a sneer in her voice.
+
+“What? She’s already trying to summon Darkness? As if! Pathetic!” But right then, for a moment, everyone felt like the avatar of death itself had descended upon the courtyard. An incredible wave of Darkness-infused Mana erupted from Lily.
+
+Even Calpurnia, usually very composed, laid a hand over her mouth.
+
+“What’s happening?” she thought. She had never seen anything like this. She had taught many girls about Darkness Mana, but this—what Lily had just summoned—felt as though Lily had experienced death herself.
+
+* * *
+
+Selena watched with mild disgust as Lily showed a mastery of Darkness that not one of the presents had ever witnessed before.
+
+“Her Darkness makes even Flavia’s look like a little drop in the ocean,” Vespera commented, looking at Selena, her twin sister.
+
+The raven-haired girl turned to her sister and pouted.
+
+“So what? The Requiem of Balance is harder than just summoning Darkness. It took us years to learn the first form.”
+
+“Why do you hate her?” Vespera asked as they both watched Lily being instructed by their mother.
+
+“She’s a fool, sister,” Selena commented harshly. “When she fails, she’ll set us back. We can’t fight in the open. We can’t be what she’s trying to be. It’s just going to ruin us all. Flavia’s is our real hope. If she masters the second form before the Champion’s Trial, she could win.”
+
+Vespera didn’t say anything, just throwing a lock of white hair behind her ear and looking in silence at Lily.
+
+“You have to fuse Light and Darkness inside your limb. Once you do, you’ll be able to let your arm snap at incredible speed. Of course, this damages your body, so you should be careful.”
+
+“Aunt Calpurnia,” Lily said timidly, not wanting to offend the woman. “I can heal the damage. I am good at healing.”
+
+“Lily,” Calpurnia sighed, “you might very well be, but you should know that it would require continuous healing. There’s a reason I can’t push the Requiem of Balance to its limits. It would break everything inside my body.”
+
+She doesn’t understand, Lily thought. My healing is…
+
+“Aunt Calpurnia,” the blonde girl said with a drawn smile, “I mean it. I’m very good at healing. I’ll take care of myself. I won’t need your help with the healing. I’ll practice all day, and you won’t even need to be there.”
+
+Calpurnia gave her a slow, calculating look, and shook her head.
+
+“Selena here, gifted though she is, can only trigger Coniunctionis three times a day before she must let me stitch her back together,” she said with amused pity. “Just because you dared to challenge Aurelianus at his wedding doesn’t mean you suddenly became an expert warrior.”
+
+Lily felt her cheeks flush, but did not back down. “I’ll show you.”
+
+“Liliana,” Calpurnia said, frowning, “generations of my family have learned this form. You have no idea the kind of damage it will wreck in your body.”
+
+“Aunt,” Lily said, straining her smile, “I can heal myself. My healing is,” the girl struggled to find the words without being arrogant. “I am the best healer there is without a Class. My mother said multiple times that even my father or her own talent was nothing compared to mine.”
+
+“Lily,” Vespera, the white-haired girl, chimed in, “you should just try it. You risk being humbled…”
+
+It didn’t matter to Lily, though. She would just show her.
+
+Calpurnia took Lily’s arm and said, “don’t resist my Mana. I’m going to show you.”
+
+Lily nodded and felt a gentle trickle of Light and Darkness enter her body.
+
+“It’s going to be hard for you to perceive exactly what’s happening but—”
+
+Lily stopped listening and activated [Mana Sense].
+
+She saw perfectly inside her body, seeing the two streams being actually quite aimless in how they traveled around her arm. They stretched and formed a line that went from her shoulder—her shoulder’s glenohumeral joint to her elbow, and then they split, reattacching from her elbow on the other side.
+
+They work like tendons, Lily realized, frowning. They’re like Mana-made tendons. But where’s the force coming from.
+
+“Now, this is going to hurt,” Calpurnia suddenly said.
+
+Lily saw that the two distinct filaments of Light and Darkness started coiling around each other and slowly fusing. As the two different types of Mana became one, Lily felt suddenly an immense power being generated.
+
+That’s Balance, Lily thought.
+
+Then, suddenly, her arm snapped forward, with the filaments that had united over her tricep, extending her arm. She shouted in pain and then the ones over her bicep activated, pulling the arm back.
+
+Lily now cried in pain, feeling as if her arm had just been torn apart.
+
+“What a baby,” Selena murmured from the side, sighing loudly. “What a useless baby.”
+
+Lily immediately poured her attention toward the muscle and tendons that had been strained, almost snapped by that incredible power, and immediately healed them. She was left panting moments after as the pain disappeared.
+
+She found microtears only thanks to her Mana Sense as soon as she finished the bulk of the healing and had to truly focus to heal those.
+
+That’s why people can only use this a few times a day. Normal healing would barely be able to patch the muscles…
+
+Lily’s healing was much more surgical than a normal [Healer]’s, which meant that not only she could heal muscles and tendons better than anybody her level, but that she was probably the only person in the Papacy capable of seeing the micro after effects of this Martial Art.
+
+“Here,” Calpurnia said, “let me heal you.”
+
+Moments later, Calpurnia reached for Lily’s arm to do the healing herself and froze.
+
+“You already healed yourself?” she asked, astonished.
+
+Calpurnia was stunned. To heal oneself under extreme pain was already an extremely rare Skill for a seasoned [Healer] to possess. The fact that Lily, a twelve-year-old child, could accomplish something like that was unheard of.
+
+And not only that, but whatever damage Lily’s body had suffered while Calpurnia’s own Mana triggered Coniunctionis inside her body should have drained a child trying to heal the aftermath of the little Mana they had.
+
+“Of course you did—at twelve years old and the daughter of Lucianus and Adriana… your healing must be incredible and your body doesn’t require as much as one believes. But don’t imagine that this is it. Once you feel Coniunctionis tearing you from within, you’ll understand why even someone as talented as Selena can only call on it three times before collapsing.”
+
+Lily nodded politely but was already anticipating learning the Martial Art for herself.
+
+“Lily, did you heal yourself?” Vespera asked with a kind smile.
+
+Lily looked at the white-haired girl and the raven-haired twin right beside her and nodded slowly.
+
+“Mother?” Vespera said, raising her eyebrows.
+
+“Lily,” Calpurnia cleared her voice. “How powerful exactly, is your healing?”
+
+Calpurnia cleared her throat, hiding both pride and challenge behind a mask of condescension. “Powerful enough that it frightens me—but not enough to let her forget her place.”
+
+“I will train all day,” Lily said stoically.
+
+“When your bones scream and your flesh burns, I doubt your bravado will hold,” Calpurnia sighed.

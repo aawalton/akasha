@@ -1,0 +1,183 @@
+---
+id: dd6c3f3d-5919-5200-b4ef-0823dc33e0a6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,349 - New Neighbor"
+slug: 0025-chapter-1349-new-neighbor
+partOf: defiance-of-the-fall
+position: 25
+ownLength: 3466
+unit: words
+publishedAt: 2025-09-05
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2576389/chapter-1349-new-neighbor"
+royalRoadId: "2576389"
+---
+
+“Dad, look! Someone’s walking around inside Grandpa Hetcher’s house!”
+
+Beene found his daughter seated at her usual spot in the second-floor window’s culvert. He inwardly sighed at the schoolbook in her lap. It had been passed between multiple families before his father won it playing cards. It had taught two generations of children letters and numbers before reaching Helisent’s hands.
+
+The book looked like exposure to sunlight would reduce it to dust, yet the words on the pages were so faded they could only be read when the sun stood just right in the sky. Beene wished he could replace it, but how could he splurge on that when making it through each winter was a struggle? Maybe it was time to give up on the seed business and try something new. The farmers clearly preferred sowing those damn herbs despite the danger it posed to their health.
+
+“Is it a thief?” the child whispered, shrinking back from the window.
+
+“Any thief would know there’s nothing of value in old Hetcher’s store.” Beene smiled as he walked over.
+
+The Greenworth Trade Street saw mediocre foot traffic since the city moved the eastern gate. Many visitors didn’t even know it existed since it was located away from the main avenues and the major plaza. In return, it was mostly spared the chaos of the hunter’s district that sometimes spilled over into Whitfall’s more flourishing shopping neighborhoods.
+
+“Someone’s cleaning,” Beene muttered. “I guess old Hetcher finally managed to rent out his store.”
+
+“A new neighbor?” Helisent asked, her face now flush with excitement. “We should greet him.”
+
+“Let me talk to him first,” Beene said with an almost imperceptible frown before stepping out of his store.
+
+He’d only caught a few glimpses through the window, but Beene’s years in the trade left him certain this was no ordinary merchant. Beene had felt an almost primal threat even from a distance. It was just like when he joined his father on the caravan and they were attacked by wolves on the way home. Could it be an experienced cultivator? Perhaps a fugitive hiding from his enemies or the law?
+
+His mind full of increasingly wild theories, it took Beene a moment to gather the courage to knock on his neighbor’s door. It wasn’t fully closed, likely to let some fresh air in. It had been more than two years since Old Hetcher retired and moved in with his son, and the building had stood empty since.
+
+“Hello?” Beene hesitated as the door swung open with a groan.
+
+After a short shuffle, his new neighbor came into view. The man would have looked the part of a young hero if not for his slightly sickly aura. There were no obvious wounds on his body, and Beene got the feeling it was a congenital issue. Still, he by no means appeared weak. There was a profound depth in his gaze that eclipsed even the greatest hunters Beene had met over the years. They held a storm that sucked the air out of the room, leaving him breathless.
+
+Like a spell broken, the feeling disappeared. And yet, Beene wouldn’t forget that extraordinary disposition. This was a man with a story, and Beene thankfully didn’t sense any malice from him. Judging by the many scars on his exposed arms, he might simply be someone who’d grown weary of traveling the rivers and lakes. Then again, Beene couldn’t sense a speck of that invisible pressure any cultivator would exhibit.
+
+“Can I help you?” the young man asked.
+
+“Ah, apologizes,” Beene coughed awkwardly. “I’m Beene Peck of Peck’s Seeds.”
+
+“Peck’s Seeds?” the man slowly said before connecting the dots. “Oh, you’re from next door. It’s nice to meet you. I’m Zac Atwood. Then it’s your daughter peeking from the window?”
+
+Beene smiled with relief after seeing the young man hadn’t taken offense. “Indeed. Helisent is my youngest of two. She meant no harm. It’s not often something interesting happens here on Greenworth Trade Street. Most stores have been passed on through generations.”
+
+An unusual flicker appeared in the man’s eyes before he smiled. “It’s not a problem. I heard from Master Hetcher that he lived here for nearly forty years.”
+
+“Indeed. It’s good to see someone bring new life to this store. The more wares Greenworth can offer, the more customers we’ll attract,” Beene said. “May I ask which industry Master Atwood specializes in?”
+
+“What I’m selling?” The young man almost looked surprised by the question, and it took him a moment to answer. “Wooden Carvings.”
+
+“Carvings?” Beene blinked with confusion before forcing a smile. “Lumber is plentiful and high-quality this close to the Whitmont Forest. You can even acquire Spiritual Wood from the Guild, though it’ll cost you a penny. Carvings, huh? I’m sure it’ll add a layer of sophistication to the street, assisting its revival.”
+
+Beene wasn’t nearly as optimistic as he let on. Whitfall wasn't like Proudcrest, a few days’ travel away, let alone the more distant Palimu where the noblemen lived. The township stood at the intersection of the fields and the Whitmont Forest, and the whole city’s economy was centered around the two trades. Farmers and lumberjacks wouldn’t be able to afford carvings.
+
+The skilled hunters braving the forest depths certainly could, but whatever money they saved up went into advancing their cultivation or upgrading equipment. Even if they decided to splurge on an ornament, would they be interested in the carvings of a random storekeeper? No-name artisans would barely make a profit after accounting for materials, rent, and time. There was also the cost of practicing their craft.
+
+It would take a miracle for this Zac Atwood to avoid bankruptcy within a few months. Beene would bet his left hand that Old Hetcher had demanded at least a year’s rent up-front after learning of this man’s business venture.
+
+Zac nodded with a smile. “There’s still much I don’t understand when it comes to running a store. I’d welcome Master Peck’s guidance.”
+
+“My accomplishments are meager, I’m afraid. It might be me who’ll have to rely on Master Atwood in the future,” Beene politely answered.
+
+Beene spent the next twenty minutes going over the informal rules of Greenworth Trade Street and what to take note of when running a store in Whitfall. Zac Atwood was clearly not a local, and Beene didn’t want the courteous young man to fall victim by not understanding the undercurrents.
+
+Life returned to normal, now with Helisent’s occasional update on their odd neighbor. His doors remained closed for business even after a month had passed. It wasn’t the only thing that didn’t make sense. Zac disappeared for days on end every week. He could return at any time of day, sometimes wounded and always exhausted. A few times, he came back drawing a cart or directly lugging pieces of lumber.
+
+Was he sourcing the wood himself? It would certainly save on costs, but it had to be very time-consuming. Where would Zac find the time to make his carvings and sell them? Not to mention the dangers. The Spiritual Beasts of the Whitmont Forest wasn’t the only thing to worry about. The city had plenty of ruthless hunters, and the rule of law didn’t reach the depths of the woods where the valuable trees could be found. Even the Forester Guild was known to cause trouble for unaffiliated lumberjacks.
+
+Months passed this way, with some of the carver’s outings lasting weeks. Beene was starting to believe his initial suspicions were correct. The whole thing about opening a store to sell wooden carvings was a cover for a more unsavory business. The only thing that left Beene uncertain was Zac’s consistent lack of spiritual pressure and sickly countenance.
+
+It wasn’t just Beene and his daughter who took notice. Dissent was growing among the neighbors. Having boarded-up stores wasn’t good for business. It only reinforced the impression that the Greenworth Trade Street was a mercantile hub on the decline. At the same time, they’d all seen Zac return looking like he’d clawed his way out of hell. No one bought his explanation that he was exploring the region for inspiration and good materials, but they also didn’t dare call him on his bluff.
+
+“Look, it’s Grandpa Hetcher! He doesn’t look happy,” Helisent said one day from her perch by the window.
+
+“He’s having a talk with Zac,” Beene said, already knowing what it was about.
+
+Half a year had passed, and the Greenworth Association had decided to tackle the problem from another direction. The Greenworth Trade Street was a designated mercantile district, and using the buildings solely as a domicile went against the rules. This regulation was rarely enforced, but the Trade Council used it to give Old Hetcher an ultimatum.
+
+Fix the problem or they’d take the issue to the City Lord. Zac would be evicted, and there was a decent chance that Hetcher would be fined. So it fell on Hetcher’s shoulders to remind his tenant of their agreement. Beene, remembering Zac Atwood’s grim expression as he returned a few days before, hesitated whether he should act as a mediator.
+
+Beene had developed some rapport with the young man over the months, and he might be able to defuse the situation in case it grew heated. A smiling Hetcher emerged from his storefront before Beene could convince himself, and news quickly spread among the merchants. Atwood Carvings would open in a week.
+
+The day of, Beene prepared a small gift and set out with Helisent on his heels. Beene had tried to keep his young daughter away from this mysterious stranger, but he wouldn’t hear the end of it if she missed out on the grand opening.
+
+Atwood Carvings had opened without fanfare or even a symbolic ceremony for good luck. The only difference was that the storefront’s door stood wide open, and the large sign above the entrance that had appeared during the night. Beene stopped on the street, entranced by the characters carved into the oiled board that retained the natural shapes of the tree it came from.
+
+“Great strokes,” Beene muttered.
+
+The longer he looked, the more moved Beene became. He didn’t understand the fine arts, leaving him unable to articulate why the calligraphy left his heart thumping. The two unadorned words simply held an otherworldly charm. It was as though they were naturally formed by the wood, and looking at them temporarily swept away his chronic fatigue.
+
+“Dad!”
+
+“Sorry, let’s go,” Beene said, suddenly with some expectation.
+
+Beene only took a few steps into the store before finding himself rooted in place. Hetcher’s storefront was equipped with six skylights that provided natural brightness. The old man had them installed during a period when lamp oil had skyrocketed in price. Beene had always envied the design. Unfortunately, their kitchen was right atop his store, making such an addition impossible.
+
+There were only five items for sale in the whole store, each placed on an individual stand beneath a skylight. With no customers except themselves, the venue should have felt empty. It didn’t. Instead, Beene felt like he’d stepped into one of Palimu’s high-end boutiques. Except for the skylights, everything in the store had been replaced.
+
+The counter and stands were newly made and of uniform design, and wooden panels had been added to cover up Hetcher’s faded wallpaper. Every piece oozed quality. On instinct, Beene estimated what it’d all cost. More than his whole inventory of seeds, even if they were bought second-hand. And yet, it wasn’t the understated display of wealth that left Beene shaken.
+
+It was the five carvings put up for sale. Beene felt like he’d been given a glimpse of divinity through their artistry. The statues were far removed from the mundane world waiting outside the empty store. Three of them depicted exalted figures so lifelike they may as well have been alive, the other two mythological beasts.
+
+The fifty-centimeter warrior left Beene quivering. The wooden axe in his hand looked like it could cut through the Heavens themselves, and Beene couldn’t meet the staunch determination in his gaze. The priest next to him seemed to hold Life in one hand and Death in the other, guarding the devout on their final journey.
+
+“Masterpieces,” Beene whispered.
+
+Part of him was afraid of disturbing the tranquility, like his voice would awaken some spirits trapped within the wood. Helisent was oblivious to her father’s inner turmoil. She rushed into the store, gawking at the coiled dragon sleeping on a pedestal before stopping in front of the third human statue.
+
+It was a woman in a dress that would make the local noblewomen green with envy. It flowed around her like drifting clouds as she was captured mid-dance. Whenever Beene blinked, it was as though the fabric moved, touched by an invisible wind. The dancer’s eyes were closed, and a slight smile adorned her divine features.
+
+Beene had never seen such a beautiful woman. He wasn’t sure if the Heavens would allow a celestial fairy like that to walk the earth. Even so, the statue didn’t elicit a feeling of lust or possessiveness. The joyful scene made Beene recall his happiest memories of his departed wife for some reason.
+
+Was this the power of true art? If so, it was no wonder why the noblemen were willing to fork out small fortunes to possess them. The quoted prices beneath the carvings were the equivalent of a year’s good business for Pott’s Seeds, but Beene didn’t think it was excessive. If anything, it was on the lower end. After all, the statues were made from Spiritual Wood, where even the cheapest would cost a small fortune.
+
+“Careful!” Beene wheezed and stopped Helisent as she reached out to touch the statue’s flowing robes.
+
+“Wow!” Helisent gasped as she looked at the statue of the heroic woman. “Is it a goddess?”
+
+It was at that moment that Zac Atwood stepped out from the back room, his hands covered in a fine layer of sawdust. He smiled at Helisent. “A goddess? She is if you think so.”
+
+“Is she real? Did you see her? How else could you make her so real?” Helisent excitably tittered. Beene perked up, equally curious to the answer.
+
+“I did, and I didn’t,” Zac said. “The wood is shaped by both memories and feelings. If I’ve seen the goddess with my Heart, isn’t she real?”
+
+Helisent looked confused, then disappointed, taking the fleeting answer as a no. “Do you think I could become like her when I grow up?”
+
+“Who knows? Life is unpredictable.”
+
+“These are all amazing,” Beene said with genuine awe. With regret, he added. “I’m just afraid Master Atwood is playing the flute for the cows by staying here in Whitfall. Few in these parts are able or willing to part with such wealth for a carving. You’d find more success targeting the nobles of Palimu.”
+
+“I appreciate the suggestion,” Zac said, his smile never wavering. “I enjoy the peace and quiet here at Greenworth. If those customers can’t find their way here, then it wasn’t fated.”
+
+“Do I know any well-off patrons?” Beene muttered. “I could mention your works to Senior Amfrid’s castellan next time he’s in town. He owns one of the larger farms nearby.”
+
+“That uncle’s so stingy,” Helisent pouted. “He’s going to haggle.”
+
+“Hush you. Money doesn’t come easy, so it’s only right to hold onto it tightly,” Beene gently chided while inwardly agreeing.
+
+Old bastard Amfrid was as miserly as they came, demanding wholesale prices while only buying enough seeds to feed his people. The rest of his fields were planted with that blasted Bloodboil Herb. Normal crops couldn't compete with their profitability since they could be distilled into an effective healing poultice. Every single hunter carried those packs of red paste into the forest these days.
+
+“Is something wrong?”
+
+Beene started, realizing he’d drifted off.
+
+“Ah, it’s nothing. I was thinking of my own matters,” Beene hesitated. “I was admiring your sign earlier. May I ask, what would Master Atwood charge to make one like it for Pott’s Seeds?”
+
+“There’s no need to discuss things like payment between neighbors. Master Beene has helped me in many ways since I moved in. I’d be happy to carve the sign for free if you can provide the lumber.
+
+“That’s… Would turning the old sign over work?” Beene asked with some embarrassment, only now recalling just how empty the small lockbox hidden beneath his floorboards was.
+
+“We can take a look after closing.”
+
+Beene and his daughter stayed for another ten minutes, and Zac gave a tour of the connected warehouse he’d turned into a workshop. During that time, a few more shopkeepers stopped by to wish their new neighbor good luck. The problem with the closed shop was solved, and the beautiful sign truly did add some sophistication to their street.
+
+But as expected, Atwood Carvings received no actual customers despite steady foot traffic. It was mostly curious neighbors and regulars who’d overheard the discussions. Word of mouth was certainly spreading, but Beene still didn’t hold much hope it would amount to anything.
+
+A few days later, Pott’s Seeds was graced with a fresh sign. The old sign had some water damage, but sanding dealt with most of it. Zac cleverly covered the rest of the blemishes with a carving of stalks of grain. Beene liked it even better than Zac’s sign.
+
+Weeks later, Beene still started every day by looking up at it. He could almost smell the fresh grains, and it filled him with energy. And it might have been a coincidence, but his store had seen business pick up.
+
+To his shock and delight, Beene was proven wrong in less than a month. Bazz, an experienced hunter who lived in the area, became Atwood Carvings’ first customer. Beene couldn’t believe his eyes when the gruff, middle-aged warrior carried out the carving of the warrior, treating it like it was a priceless treasure.
+
+Never in a million years would Beene have expected Bazz to spend what had to be a sizeable chunk of his earnings on a piece of art. Beene even hurried over to his neighbor’s store to confirm he hadn’t been robbed. Everything was in order, which left Beene even more confused. His bewilderment only deepened when a powerful hunter he’d never seen before bought a second carving just two weeks later—despite Zac nearly doubling his prices.
+
+The customers kept coming, all of them Hunters or local cultivators. There wasn’t more than one or two a month, but each successful sale brought greater profits than most shopkeepers saw over a whole season. The young man was earning money hand over fist while still having enough time to close shop and disappear for weeks on end.
+
+The secret behind the shocking success eventually became known. Master Atwood’s carvings were so marvelous that a few hunters could use them to grasp new insights during their cultivation. Any resource related to cultivation was prohibitively expensive, so the hefty cost of the statues didn’t faze them. After all, some Spiritual Herbs brought out of the forest depths could sell for dozens, if not hundreds, times more than Zac’s statues.
+
+Within a few years, Atwood Carvings had become a fixture among the locals. Surprisingly, Beene never heard of anyone making trouble for the store. Perhaps it was out of fear of retaliation from Zac’s growing network of Hunter friends. Perhaps it was because he’d joined the Forester’s Guild, who’d become his main supplier of Spiritual Wood. It could even be the rumors that the City Lord had visited in disguise to purchase a piece for his study.
+
+It wasn’t only Atwood Carvings who was doing well. One sign after another on the street had been replaced, each with its unique flair. Everyone saw their sales improve every year. After noticing Greenworth Trade Street’s transformation, a retired hunter chose to open a store to sell traps to his old colleagues. The largest storefront was then turned into a clinic, which brought even more rich customers to the area.
+
+Five years after Zac descended like a Patron Saint of Wealth, Beene had almost amassed enough money to purchase Spiritual Grain. Borrowing the rest, Beene successfully transformed his Seed Nursery into one targeting Hunters, drastically increasing his profits. Helisent’s help wasn't enough, and he had to hire two clerks.
+
+One morning, Beene stood on the street with a cup of tea to ward off the cold. Watching his sign as the sun rose had become a ritual. Skipping out left him feeling off for the whole day. Taking a sip, Beene watched as the street gradually stirred from its slumber.
+
+Shaking his head, Beene returned to his store. “Who would have thought my joke would become reality?”

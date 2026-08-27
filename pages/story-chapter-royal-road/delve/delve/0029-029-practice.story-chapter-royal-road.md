@@ -1,0 +1,229 @@
+---
+id: b96ece1e-9dfa-5880-923c-608c48bf7e70
+page-type-slug: story-chapter-royal-road
+title: "029: Practice"
+slug: 0029-029-practice
+partOf: delve
+position: 29
+ownLength: 3210
+unit: words
+publishedAt: 2019-07-28
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/386369/029-practice"
+royalRoadId: "386369"
+---
+
+Val watched the retreating form of Jamus as he left the clearing. He shook his head at the sight of the man’s hat bobbing through the forest.
+
+What would possess a man to wear that shade of orange? Is he trying to be seen? One could never know with adventurers. He seems competent, but I’ll want to see him fight before I trust him to guard my back. As for these two...
+
+Val watched as Rain and Tallheart set about fixing the collapsed roof of their hut. Rain wasn’t tall enough to lift the branches over the walls, so he was just handing them to the cervidian for him to wedge into place.
+
+I want no part of that. I’ll be sleeping outside. I’ve done it before, and I’ll do it again. I hope they’re better at fighting than they are at construction. Tallheart looks strong. Very strong. That armor must have cost…I have no idea. A lot, that’s for sure. I’ve never seen anything like it. How did he get it? He couldn’t have made it, could he? He seems like some sort of smith. Rain said he doesn’t fight, but I don’t believe that for a minute.
+
+Humm, we’re going to have to avoid the road if he’s coming with us. I need to find out more about this mine. Val rubbed at the still-sore lump on his forehead from where he’d hit it in the sewer. Camping in a forest with a cervidian...how did I end up here?
+
+He looked at his savior struggling with a heavy branch and shook his head again. Auras, huh? We’ll see about that. Fire, ice, purification, and what else? Some sort of sensory skill to find that metal? I owe him for saving me, but I can’t help thinking he’s a bit…pathetic.
+
+Seeing that Rain and Tallheart had finished with the roof, Val decided to put the man to the test. He walked over to him as the cervidian returned to his forge.
+
+“Hey,” Rain greeted him, stepping out of the hut.
+
+Val cut straight to the point, “Rain, let’s spar.”
+
+“No thanks, I told you, my skills aren’t good for that,” the man replied in his odd accent. He pulled at the hem of his green tunic.
+
+“We’ll see about that. I need to know what you can do if we’re going to fight together.”
+
+“But… I might hurt you. And you’ll definitely hurt me. Getting shot with a <something> wasn’t in my plan for the day.”
+
+A ‘laayz sor’? What the depths is a ‘laayz sor’?
+
+He decided to ignore the strange word and pressed on. “You were a bronzeplate, right? Before you got kicked out?”
+
+“Yeah.”
+
+“Then it’s fine. Just don’t go all out. I’ll hold back too, until I know what you’re made of.”
+
+“Fine. Let’s go down by the river though. I don’t want to disturb Tallheart. Promise you won’t shoot me in the head?”
+
+“I promise. Lead the way.”
+
+Tallheart was oblivious to the conversation between the two humans as he stared at the fallen star sitting on his granite anvil. He’d battered it down into a cube over the course of the morning, expelling the majority of the non-metallic impurities. He felt the metal with his gauntleted fingertips, testing if it was ready for the separation. He scowled at the muted sensation from his left hand.
+
+The shadow of a frown crossed Tallheart’s face as he stared at the damaged rune on the back of his gauntlet. It has degraded further.
+
+He removed the gauntlet and placed it out of the way. His skin now bare, he returned his hand to the chunk of metal, closing the circuit. He sent his essence flowing through his skin and into the metal of the fallen star. It passed out into his other hand and back into his body, bringing with it knowledge of the metal’s structure. His right gauntlet did not disrupt the skill as the left had, the enchantment holding strong and transferring full sensation to his skin.
+
+Satisfied that as much of the weakness had been removed as possible with such limited tools, he hefted the cube of metal and returned it to the flames to heat one last time. He picked up his gauntlet and re-fastened it, the two pieces of armor interlocking and sealing themselves together without a seam. He opened and closed his hand, unhappy with the loss of feeling.
+
+I will fix it. In time.
+
+“Ready?” Val asked.
+
+“No,” the timid man replied, standing near a rock by the river. “Are you sure about this?”
+
+“Fine, you can go first. Hit me with that cold aura. Don’t do anything crazy, just use it like you did in the clearing.”
+
+“I don’t understand why you want us to use our skills on each other. Can’t I just tell you how much damage it does?”
+
+“Meaningless,” Val replied. “I need to know the real strength of your offense and defense, not what your glyphs say about the damage.”
+
+“What? My...glyphs? Sorry, I don’t know that word.”
+
+“Stop stalling and hit me.” Val prepared himself for the assault of the skill, ready to use hard light in case the damage was greater than he expected. When his opponent finally worked up the courage to attack him, he stopped himself from jumping back, letting the wave of cold wash over him. The chill wind was icy against his skin, but the damage seemed paltry at best. He regarded the glowing glyph in the corner of his eye, watching his health slowly tick down under the onslaught.
+
+Weak.
+
+After a few seconds, he held up a hand, signaling Rain to stop. His health glyph was still glowing strongly.
+
+“I didn’t hurt you, did I?” the brown-haired man said, looking concerned.
+
+“Hardly. You can do better, yes?”
+
+“Yes, I just didn’t want to hurt you. Was it really that weak?”
+
+“It wasn’t strong. If you kept it up for a few minutes, I might be in trouble.”
+
+“What, really? How much health do you have?”
+
+“I trust you, but not that much. Now, hit me with your best,” Val replied, shaking his head.
+
+No manners at all.
+
+This time, the force of the icy wind was much, much stronger. He even felt it start to pierce through the protection of his coat. He cursed and started to summon a hard light barrier, but stopped when he felt the wind ease after only a few seconds. Looking around the clearing, he saw that the range of the skill had been massively expanded as well, more than doubling. The entire outcrop of sand they were standing on was covered in frost.
+
+“Well, that was certainly a bit better. How long can you keep that up?” he asked, checking his glowing health glyph.
+
+“Not long. I’ve got enough mana for a few more seconds, maybe.”
+
+“Humm. Not very practical. It might be enough against dark hounds, though. It should slow them quite a bit, and then I could pick them off. Can you do it without freezing me to the floor?”
+
+“I’m working on it.”
+
+“So, that’s a no. Ok, what else do you have? The heat aura? Try that next, I’m freezing.”
+
+“Wait, I have an idea. I can make my auras even stronger, but I can’t really move while I do it.”
+
+“What good is that?”
+
+“Well, I was thinking I’d just do a single pulse, then turn it off immediately.”
+
+I guess it isn’t the worst idea. How is he just thinking of this now? Is he some kind of rookie? It’s like he hasn’t ever fought anyone before.
+
+“Do it. Use fire, assuming the skill is around the same strength. I’m using a barrier this time.”
+
+“Ok, tell me when you’re ready.”
+
+Val crossed his arms in front of himself and made a quick gesture. The familiar white panel of glowing light appeared, forming a shield facing in the direction of the aura mage. He ducked slightly, crouching behind the panel.
+
+“Ready. Do it fast, this won’t last long.”
+
+Stupid level cap. Just a little bit bigger and it would be perfect, but I can’t boost it until I get a few more skill points.
+
+With no warning, a circular ring of heat blasted out from his opponent, kicking up sand as it raced towards him. The wave crashed against his hard light barrier, halting the hot air in its tracks. He still felt the immense heat reach his skin as it washed around the sides and over the top. Judging from the fact that the frost was less melted in the shadow of his shield, the intensity seemed to have been dulled by the redirection. After a few seconds, his shield reached the end of its duration and shattered with a flash.
+
+Val stood, still shivering. “That seemed weaker than the cold aura.”
+
+“It isn’t as high rank yet. I’m working on it.”
+
+“Do it again. I’m cold.”
+
+This time, he didn’t summon a shield, letting the wave of heat hit him full on. It wasn’t doing much for the deep chill that had settled into his bones, but his skin was starting to feel a bit crispy. Glancing at his health glyph, he frowned.
+
+“We’ll have to switch soon. I don’t fancy a sunburn. What else can you do that would be useful in a fight?”
+
+“That’s about it in terms of things that do damage.”
+
+Really? I’m counting two attack skills, plus purify and that detection aura. At least a few metamagic skills, probably. He’s got to be higher level than I am, but if that’s all he’s got…Maybe he has a defensive class?
+
+“Ok, my turn.”
+
+“Wait, there is one thing. It doesn’t do damage, but...Yeah, I think it should be pretty useful.”
+
+“Let me have it.”
+
+“You’ve got to be moving. Go over there and run at me, like you were going to attack me. Like a dark hound, I mean. Please don’t shoot me.”
+
+“Ok,” Val said, “tell me when.”
+
+What is he going to do?
+
+“Ok, go!” Rain shouted.
+
+Val started sprinting towards him as quickly as he could. When he had closed around half the distance, he suddenly felt a horrible sensation spread all through his body. His leg shot forward violently as he kicked off the ground, causing him to lose his balance. He tried to shift his weight, but ended up smacking himself in the face when his arms moved much more quickly than he had been expecting. He collapsed into a sprawled pile of limbs as the bizarre sensation abruptly vanished.
+
+“Oh fuck! Sorry, are you ok?”
+
+Val untangled his limbs and spat out the mouthful of sand that he had eaten when he went down so unexpectedly.
+
+“What. The flying fuck. Was that?” he said, spitting between words to clear the rest of the sand from his mouth.
+
+“It’s a buff. Velocity. I did the pulse thing again, so it should be around...double? Yeah, double speed for all entities in range.”
+
+“That’s not a buff, not like that anyway. Same radius as the others?”
+
+“Yeah, more or less.”
+
+“That’s the best thing you’ve shown me so far. Just warn us before you do it in a real battle, ok?”
+
+“Obviously,” Rain said, as Val brushed sand from his coat.
+
+“Right, give me a few minutes to pick up my teeth, then I’m going to shoot you.”
+
+The fire roared hotter than it had any right to, tongues of flame curling around the shape of the fallen star in the heart of the forge. A pulse of mana swirled through the air, carrying with it fresh oxygen to fuel the flames. The metal of the fallen star was glowing faintly as a pair of gauntleted hands reached in to grasp it.
+
+It is ready.
+
+Tallheart placed the glowing chunk of metal down on the granite boulder, but didn’t reach for his nearby hammer. Instead, he removed both of his gauntlets and placed his bared palms on either side of the blisteringly hot metal, cradling it between them. He could feel the extreme heat of the metal start to erode his health, but it did not burn his flesh. Conscious of the rapidly fading heat, Tallheart began the process that he had been preparing for all morning.
+
+Order of Metal.
+
+Tallheart guided mana down both of his arms and forced it into the metal through his skill. The mana from his left hand was a thick and heavy sludge. It flowed slowly and irresistibly into the fallen star. The mana from his right hand was a thin, racing wind, passing through the metal as if it was barely there. It slid past the heavier mana and back up Tallheart’s other arm.
+
+He concentrated, feeling the structure of the metal through his mana. Slowly, as the dense mana made its way through the fallen star, it started dragging pure elements along with it. Tallheart knew them by their feel. Iron made up the vast majority, but there was also nickel, copper, lead, and several others. His frown deepened as a feeling of dissonance disrupted the clear signals of the metals. His mana was rebounding from non-metallic impurities and throwing discordant notes into the harmony. He gritted his teeth and focused.
+
+Slowly, ever so slowly, the elements started to shift, dragged along by the flow. Heavier metals followed his dense mana, shifting and jostling past each other to move towards his right hand. The lighter elements were wafted along by the thinner mana in the other direction. The impurities obstinately refused to move, stones holding fast against the river’s flow. Higher heat or purer metal would have greatly simplified the process, but neither was available with the tools that he had.
+
+Tallheart stared deeply into the glowing metal, conscious of how little time he had left. He pushed harder, sending as much mana as he could into the fallen star. The surface of the metal rippled as the elements shifted, distinct bands of color starting to form. He held it until the heat finally dropped below the critical threshold, then removed his hands, breaking the circuit of mana.
+
+On the stone sat the fallen star, but it had been changed. Where before the surface had been uniform, now there were clear demarcations between the different metals that it contained. The largest section was the gray of iron, followed by gray-gold band of nickel. The bands of the other elements were thin, like layers of an onion.
+
+Tallheart smiled, gripping the metal again with his bare hands. He twisted, hard. The metal layers let go with a loud ping as the iron split from the nickel, leaving him with two pieces. One was much larger than the other. He forced his fingernails under the layers of the trace metals, peeling them off like a rind and piling them up next to his hammer. He’d deal with them later. This left just the iron and nickel. He returned both to the forge. He’d use the iron to make his anvil. The nickel he would compact into an ingot for later use.
+
+Tallheart was humming to himself tunelessly as he pulled his gauntlets back on. He crouched down, watching as the flames curled around the metal in the forge.
+
+Today is a good day.
+
+Bad day! Bad day! Bad day!
+
+Rain was sprinting as fast as he could down the river. Val had given him ten seconds to run as far as he could before he started shooting. ‘To make things interesting’, the man had said. Despite Rain’s repeated protests, Val had remained adamant that he needed to test his skills against his defense. Rain suspected that it had more to do with revenge for the humiliation that he’d caused with his velocity aura.
+
+Rain was counting down the seconds. He dove for cover behind a lone tree near the riverbank just before he reached zero. There was a sudden flash of light and something impacted the ground near where he had just been, leaving a small blackened circle in the grass.
+
+“Shit!”
+
+He scrambled to his feet, trying to keep a tree between himself and Val as he looked for a way to escape. He heard footsteps approaching his position. He had to move. Now.
+
+The treeline is my only hope.
+
+Rain worked up his nerve, then sprinted out from behind the tree, keeping as low as he could. Instead of running in a straight line, he zigzagged back and forth, trying to throw off his opponent’s aim. His tactic proved successful, as the next bolt of light impacted just in front of him, charring another patch into the ground.
+
+Oh fuck! Oh fuck! Oh fuck! Move!
+
+Rain dove for the trees, making it behind a large oak just in time. There was another flash and a sudden burning smell as the bolt of light impacted the sturdy trunk. Rain didn’t wait to rest, charging deeper into the trees and forcing his way through the underbrush.
+
+About 10 seconds between shots. I might have a chance. He risked a glance over his shoulder. Val was sprinting after him and had just passed the oak that had saved his life. He dove over a bush and came up in an aggressive stance, his finger pointing straight at Rain.
+
+“Fuck!” Rain cursed and threw himself flat. The flash of light left a charred circle in the bark of the tree that was just in front of him, though he barely noticed as he scrambled back to his feet. He could hear Val approaching, so he didn’t waste any time, dashing for a nearby rock, panting heavily. There was another flash just as he cleared it, the smell of burned lichen greeting his nostrils as he pressed his back to the stone.
+
+Fuck! There’s nothing close enough to get to within ten seconds. Fuck, what do I do? He took a few seconds to catch his breath, heart hammering. He heard the crunch of leaves as Val quickly closed on his position. Can’t run, can’t hide. Well, he never said I couldn’t fight back…
+
+As quickly as he could, Rain tore off his shirt. He tossed it out from behind the left side of the rock, the telltale flash of white light almost blinding him as Val took the shot. Got you! Ten seconds, I’ve gotta be fast!
+
+Rain roared, spinning out from around the other side of the rock and charging at Val, fists raised. He activated his refrigeration aura as he charged at the man, winding up to deck him right in his smug face. He was brought up short by a bright flash and a sensation of searing pain stabbing into his shoulder. He screamed in equal parts surprise and agony at the unexpected attack, dropping his aura and falling to the ground. He noticed his health bar rapidly dropping in the corner of his vision.
+
+That was way less than ten seconds. Fuck, he was playing with me the whole time.
+
+The sound of laughter added insult to injury, Val’s smiling face filling his view as the man walked up to stand over him.
+
+“Hah, not bad. For a lago, that is. We’ve got some work to do.”

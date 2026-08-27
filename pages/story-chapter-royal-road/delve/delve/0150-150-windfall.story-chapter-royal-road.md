@@ -1,0 +1,443 @@
+---
+id: 24e39ec9-0dff-5946-8736-63a37ad7494e
+page-type-slug: story-chapter-royal-road
+title: "150: Windfall"
+slug: 0150-150-windfall
+partOf: delve
+position: 150
+ownLength: 7217
+unit: words
+publishedAt: 2021-06-13
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/698510/150-windfall"
+royalRoadId: "698510"
+---
+
+It took Rain quite a while to calm down, just as he’d expected. Over thirty minutes—horrible by his recent standards. When he finally slipped into the Bastion, the relief he felt at not being locked out was enough to boot him straight back to his body. Reaching the Bastion again was much easier the second time, now that he knew it was possible. Once he was there, the first thing that he did was to take stock of his situation.
+
+Firstly, he—or rather, his core—was still stuck in the middle of a bunch of crossbeams. That was a known problem, and he’d get to it in a minute. More important was the fact that the ocean of liquid essence below him seemed to have vanished, along with the majority of the fog. What was left was just a thin mist, barely noticeable. He wasn’t sure what to make of the change, but it too was a problem for later. The Bastion itself was undamaged, its structure precisely as he remembered it. Other tasks such as finding his paling and then checking its condition would have to wait. The most important thing right now was dealing with the Dozer situation.
+
+Rain reached for the slime, focusing on the connection itself to start with. The channel felt healthy, but no stronger than it had outside. The major difference was that it now included a position vector. Dozer was outside the Bastion, perhaps three or four radii away. He was also still too busy to listen to commands.
+
+Rain would have to drag him away from the metaphorical feed trough, it seemed. That meant bringing him inside the Bastion.
+
+Thinking for a moment, Rain decided that the first thing he needed to do was to get himself unstuck. After that, he’d need to find some way of projecting his consciousness outside of the Bastion so he could wrangle his wayward slime companion. As for how he’d do that, he wasn’t sure yet. Perhaps a lasso was called for. He’d cross that bridge when he came to it.
+
+The easiest option for freeing his core would be to melt it out of the cross-bracing the same way he’d melted it in. That was a bad idea—not the method, but the very concept. Rain was confident that the Bastion would hold as long as he was anywhere inside his soul, even without the cross-bracing. However, when he left, that might change.
+
+An RUD of his only prototype was to be avoided, so he couldn’t exactly run a test to find out. Putting his core back when it was time to leave was hardly a solution, either. Ameliah was going to wake him in three hours, and he didn’t have a clock. He wasn’t sure he’d be able to meditate through an aggressive tickling, let alone something drastic like a bucket of water to the face. There were unexpected situations to consider, too, such as a pack of angry Hababas tracking them down to get revenge for their nuked colony. He’d convinced her to restart the timer after he’d been kicked out of the Bastion the first time, at least.
+
+Anyway, the point was that his friends would do whatever it took to bring him back if they felt it necessary. Rain didn’t have a way to signal them to wait. If he got caught with his pants down, that was it. Ergo, he would keep his pants up. His core needed to stay right where it was, and that was a problem.
+
+While Rain could shift his perspective to view the Bastion’s interior from any angle he liked—including, sickeningly, all of them at once—he couldn’t see through solid essence. That only seemed to be possible in the immediate proximity of his core. Trapped at the center as he was, he wouldn’t have even known there was still chaos outside if not for Dozer playing the world’s worst on-location weather reporter. Thus, Rain needed a physical form that wasn’t his core—an avatar of sorts. Something that he could send outside.
+
+He started with the closest thing that he had: his energy tentacles. They formed as expected, but he found that he couldn’t reach the outer shell with them. It wasn’t even close. In fact, the range was suspiciously identical to the range at which he could see through essence, yet another thing to think about later. For now, he wouldn’t let it stop him. The test wasn’t a failure yet.
+
+Focusing on a single tentacle, Rain shifted his viewpoint to its tip and waved it around.
+
+I will become the tentacle… No, that sounds bad. The snake. I will become the snake.
+
+He focused harder. Confidence was key. Confidence and belief.
+
+This is MY soul. I am building an avatar for my mind, and this will work because I say it will. So there.
+
+He spent the next ten minutes focusing on the image of a snake, adding as much detail to the tentacle as he could, making it more and more snakelike. He drew a scale pattern in the energy, then eyes and a boopable snoot. Tiny little fangs were next, then an adorably forked tongue. At first, it was hard to hold all that detail in his mind, but gradually, each alteration seemed to sink in and take root. Rain’s doubts vanished as sensation washed over him—physical sensation.
+
+He was the snake.
+
+Yes!
+
+Suddenly, gravity grasped at him, and his attempt to fling himself toward one of the beams was hilariously ineffective. He found himself dangling by his tail, feeling as though it had been trapped in a vise where it connected to his core. He flopped about helplessly.
+
+Minor setback.
+
+The next ten minutes were spent figuring out how to snake. Rain eventually managed to get himself atop one of the beams, then learned to slither and to taste the air with his translucent, snakey tongue. He was still stuck, though. It was time to try breaking free of his core.
+
+I don’t need to be connected. My mind is free. Consciousness is wireless…
+
+…
+
+Man, I sound like one of those self-help tapes. Why do we even still call them tapes, anyway? Damn it, me, focus!
+
+Rain concentrated on his tail, then pulled. Immediately, he learned two things.
+
+First, it had worked. His view stayed with the snake, not his core.
+
+Second, it hurt. He managed to hold on for a few seconds, writhing in reptilian agony as his constructed body dissolved. Without warning, his view snapped back to his core, and the pain was gone, just like that.
+
+The Bastion trembled, then stilled.
+
+[Rain-King, danger?!] Dozer sent.
+
+Rain didn’t reply immediately, at first because he was recovering, and then because he was considering whether he should lie in an attempt to get the slime to come to him. He decided against it as Dozer’s concern grew, pressing on him harder as the silence stretched. Dozer wouldn’t be able to get into the Bastion until Rain built him an entrance. He wasn’t even sure if Dozer could move out there, for that matter. Slimes couldn’t fly.
+
+His decision made, he replied just as Dozer was starting to panic. He did his best to fill his thoughts with as much peace and reassurance as he could. [I’m fine, Dozer. Maybe you should take a break, yeah?]
+
+[No! ⟬filth⟭!] Dozer sent, and immediately, the connection snapped closed.
+
+Rain tried to flick out his tongue in consternation but failed, having forgotten that he wasn’t currently a snake.
+
+Oops.
+
+…
+
+Wow, okay then. This is trippy.
+
+He paused then. He needed to consider whether there was any danger from what he was doing. He didn’t want to get his mind trapped in a snake for all eternity. After a few minutes of thought, however, he discarded that fear as irrational. When the snake had failed, his consciousness had returned to his core automatically. The pain of it hadn’t even been top three. It had been purely physical pain, too, as much as anything was physical in this place.
+
+It was just a simulation of my body breaking apart, not something…concerning. So why am I concerned?
+
+The next fifteen minutes were spent pondering matters metaphysical to little effect, at which point Rain kicked himself for wasting time. By his guess, he’d already been in here over an hour. He needed to get to Dozer now. It felt like the slime was dying out there, enthusiastically working himself to death as he waged an endless war against chaos. Rain wasn’t going to let fear stop him from saving a friend, even if that friend was only a slime.
+
+He formed a second snake from his energy, the process going much faster this time. He made it smaller, figuring that concentrating the energy would make it more robust. When he was finished, he slipped easily into the form and took a moment to acclimate before pulling his tail free again. Unfortunately, the result was no different than before.
+
+Tentacle energy couldn’t sustain itself when detached from his core. Manifested will wasn’t enough.
+
+Let’s try something stronger, then.
+
+Rain carved a single unit of essence away from one of the beams. Rolling it between his tentacles as if they were hands, he undid the hardening, softening the material until it felt like clay. He could have done this en masse without the need for physical contact, but this way felt better. Working like a preschooler, he continued rolling the essence out until he had a snake shape. He then added two bulges for eyes and a tongue. Finding that he needed a tool, he shaped a different piece of essence into a needle, then used that to trace lines into the fake clay, making scales. He put the needle back when he was finished and paused to inspect his creation.
+
+It was a bit sad, to be honest.
+
+Undeterred, Rain placed the snake atop his core, then tried willing himself into it, expecting a struggle.
+
+He didn’t get one. Instead, there was an immediate shift.
+
+He was the snake, just like that. The warmth of his core below him felt pleasant against his scales, and his tongue detected a current on the air, probably from the mist it was generating. That tickled, so Rain tried to pull his tongue back into his mouth. He found himself unable to do so. He hadn’t given himself a mouth.
+
+Hmm.
+
+Rain tried a little slither next. The attempt was not only ineffective, but also incredibly painful, leaving him contorted into a crooked zigzag. He couldn’t straighten himself out without more pain, so he froze. He existed like that, breathless, misshapen, not even able to close his eyes.
+
+I think I made a snake with Boneitis… I can fix this.
+
+He concentrated on his tongue first, trying to imagine it in a more realistic shape. Again, he was surprised. The appendage responded to his will easily, slimming down and becoming more flexible. Excited, he continued, and soon he had a mouth in which to store it, complete with retractable fangs. He worked his way down his body, fixing problems and adding details until he felt at home. He even managed to change his scales from matte white to matte green. His tongue ended up green, too, but he decided to draw the line there. Vanity could come later. He’d settle for looking like he’d been injection molded from the same plastic they used to make toy soldiers.
+
+He coiled himself up atop his core, raised his head, then did a test hiss.
+
+“Hisss…”
+
+Yes!
+
+He tried to smile, found that snake mouths weren’t built for it, and gave it up. He’d make himself a human puppet later. Also, his hiss needed work, having sounded less like an animal and more someone blowing through a coffee stirrer. It was a start.
+
+I can worry about that later. Time for the next test. Can I get in and out of this thing?
+
+No sooner had he had the thought than his view shifted. To his delight, he learned that he could jump in and out of the snake at will. There was a connection between it and his core. Linksight was working in here, he realized. He filed that away for later consideration, returning his focus to the snake.
+
+Yes! We’re in business! This is way better than the energy version. And now for the moment of truth.
+
+Rain switched to his core, then extended a tentacle and carefully used it to place the now-rigid snake sculpture atop a horizontal beam. The snake didn’t dissolve as he took the tentacle away, not that he’d expected it to. He focused, and his perspective slipped inside the snake without even a shred of resistance. It just worked.
+
+“Hsss!”
+
+Rain reared back in triumph—triumph that became fear as he overbalanced and slipped off the beam.
+
+It was a long way down. The sudden stop at the end was far from pleasant.
+
+Significantly flatter than he’d been moments before, Rain reeled, both from the impact and from a sudden awareness of the chaos beyond the Bastion’s outer wall. It felt hot. Angry. Dangerous.
+
+Yes!
+
+Ignoring his broken body, Rain reached out through the barrier with his will, projected from the snake instead of his core. After isolating a unit of chaos, he purified it, yielding a clump of essence about the same size as himself.
+
+Yes, yes, yes! Ten thousand and one essence! Also, ouch.
+
+He carefully began unsmushing his broken body, rebuilding himself from nose to tail as he’d done the first time. While he was at it, he absorbed the fresh essence he’d just liberated, using it to grow to twice his previous size. The Bastion was a vast place from his current perspective, and he felt he needed to be bigger if he was to have any hope of surviving outside.
+
+Feeling the time limit hanging over him, he set about converting more essence, finding that he could shape it freely, just as he could from his core. The two forms appeared interchangeable in that regard. He could even pilot the snake form about the Bastion’s interior, he learned, flying in complete defiance of gravity.
+
+That realization left him feeling pretty stupid for letting himself get pancaked, of course, but he didn’t waste any time beating himself up about it. He could feel stupid later. Even after ten thousand and counting essence conversions, he still couldn’t find a way to convert more than one unit at a time. It was incredibly annoying and infuriatingly slow, but faster than trying to work with the hardened essence of the Bastion. He set himself to the task, stopping after a minute or so when he reached 10,065 total essence. He used one unit to repair the beam near his core, spending the rest to bring the snake up to six times its previous size.
+
+Rain took a moment to take stock then, reveling in the sheer physicality of his new form. He felt like a real snake, not that he had any experience being one. He’d filled this form with his preconceptions of snakeness and then refined those assumptions as he learned more. It was…amazing.
+
+This place was his playground—like a holodeck, no, like a lucid dream. With enough practice, he knew he’d be able to build anything he wanted. He could be anything he wanted.
+
+He paused, then, and hissed at himself in annoyance. He wasn’t here to play.
+
+Opening his channel to Dozer, he found him still toiling away in the chaos, exhausted. Rain didn’t even bother trying to get him to stop again. He knew there was no point. Regretfully, he narrowed the link until it was almost completely shut. The constant sense of Dozer’s condition was distracting, and he couldn’t afford to be distracted right now.
+
+I’m coming, Dozer. I’m coming. Just hold on.
+
+The next step, he decided, was to make an airlock—one big enough to let Dozer inside. It took him longer than anticipated, as he felt compelled to make working seals and a snake-operable locking system for both doors. He wasn’t sure that he’d be able to shape essence when he was outside, and the hardened outer wall was difficult to modify at the best of times. He couldn’t just open a hole to let Dozer in, then close it before the sphere filled with chaos.
+
+Once the airlock was finally finished, Rain slithered into it, then began sealing himself inside. Moving the door was difficult, being a snake, as was operating the propeller-like handle of the locking mechanism. Lacking arms, he found that the fastest way was to just body-slam the crank repeatedly to turn it. He needed to do this physically because he wasn’t sure that his essence-shaping would work once he was outside. It was better to test it now.
+
+When the seal formed, Rain knew it immediately. His background awareness of the Bastion had been cut off with the final turn of the crank, leaving him able to perceive only his immediate surroundings. That was one of the expected outcomes, so he didn’t panic. Wishing he had fingers to cross, he concentrated on the link to his core, which he still felt, then willed himself to follow it.
+
+His perspective shifted, and then he was there.
+
+Yes! It works! Rain flickered with yellow delight.
+
+It would have been SO inconvenient if I’d needed a direct line every time I wanted to switch. He hopped back to his snake form, then bobbed his head in satisfaction. Right, no time for a celebration. I must be coming up on two hours now. One hour left. I need to hurry unless I want to go ask for more time.
+
+He paused.
+
+I could do that, couldn’t I? Should I, though? It will probably take me at least a half-hour to get back down here, given how wound up I am. Honestly, I’m shocked I haven’t booted myself out already. The Bastion is doing some real work.
+
+A half-hour, though… I don’t want to make Dozer wait. Even if he seems happy, he’s killing himself out there. Damn it. I have to keep going. I just won’t start anything I can’t finish in time. I don’t want to be outside the Bastion when Ameliah pulls my plug. I’ve seen The Matrix.
+
+…not that I think that would happen, mind…
+
+…
+
+And now I’m thinking about it. Hell, even being in an avatar instead of my core might be dangerous.
+
+Great. Just great.
+
+I REALLY need a soul teacher—someone to warn me about all of the ways people have killed themselves doing this shit. I hate not knowing where the landmines are….
+
+…
+
+Damn it, I’m wasting time. Thirty more minutes, then I’ll go back. Decision made. Here we go.
+
+Rain reared back, then flopped his body down on the crank to open the outer door. Two flops later, there was a hiss, and chaos began seeping into the airlock—hot, acrid, and terrible. His eyes started to sting, and soon, he was forced to close them completely. The pain lingered, like he’d been cutting up habanero chilies and had rubbed his eyes with his fingers. At that moment, he was incredibly glad that his lungs were for hissing only. Breathing would not be pleasant, he was sure.
+
+The wait was agonizing, but eventually, things seemed to equalize. Rain waited a few moments longer, then tested to see if he could still return to his core. It worked, his discomfort vanishing in the clear air of the Bastion.
+
+Good, the chaos didn’t block the connection.
+
+He jumped again, then gasped involuntarily, getting the lungful of chaos that he’d wanted to avoid. It hardly mattered, though. In the brief moment he’d been gone, it seemed that the body he’d left behind had been busy dissolving. Rain forced himself to stay there rather than switch away. It was agony, but he needed to know if the damage was ongoing. Seconds passed, then a whole minute. The pain didn’t fade, but neither did it increase.
+
+Do not leave avatars unattended in the chaos. Got it. Okay, I can deal with this.
+
+Focusing, he started trying to repair his semi-dissolved body, but found the pain too distracting. He reached for the outer door, then tried to shape it closed with his will. It worked, much to his relief. Apparently, he’d wasted his time on the physical mechanism. Glad he hadn’t bothered making a venting system too, he simply purified the chaos around him into essence one unit at a time until it was all gone and the air was clear. To get the last of it, he’d needed to make a balloon to capture it as he’d done with the mist. Thin gases were tough.
+
+Still in pain from being half-snake and half-soup, he used the liberated essence to patch himself up. He ended up smaller than he’d been, but that was fine. When he was finished, he coiled his body and shook his snaky head.
+
+Ouch.
+
+Reaching through the airlock wall, he purified more chaos until he had enough essence to restore himself to full size. He made one significant modification to his avatar as he did, adding a pair of clear scales over his eyes like an actual snake. Snakes didn’t have eyelids, they did not blink, and he’d been a fool for forgetting that. At that point, he made the mistake of questioning why his avatar needed eyes at all. The moment he started thinking about lenses and retinas, he went blind. It took him a good few minutes to get back to a functional state.
+
+Expectation was the key.
+
+Sometimes, it was best not to think about it.
+
+Using his will again, Rain slowly pushed the outer door open a crack. This time, the chaos didn’t sting his eyes as it washed over the protective scales.
+
+Nice.
+
+Once everything had equalized, he let the door swing open fully and peered out into the murk. The chaos was gaseous, but thick enough that it might as well have been liquid. It was the same ugly puke-orange color it always was, making it impossible to see far. Carefully, Rain slithered right up to the threshold, then poked his tail out over the edge. The weight of the appendage fell away, surprising him slightly.
+
+Hmm…
+
+He pulled his tail back to consider.
+
+Will I be able to fly once I get out there, or will I just…float off? Wait, if I’m outside my sphere of influence, can I still shift back? That’s…a horrifying thought.
+
+…
+
+Quickly, Rain shaped himself a handhold on the floor of the airlock, then wrapped his tail around it tightly.
+
+I’ll see if I can come up with a safe test later. Maybe I can build something with wings so I can get back if my powers fail. Anyway, I didn’t build this airlock for myself. If I can get Dozer to come over to it, my problem is solved, no lasso required.
+
+He concentrated, opening the link that had been closed since Dozer had last put him on hold. [Dozer, come!]
+
+[Busy,] the slime replied, a sense of tiredness and urgency accompanying the word.
+
+Rain flicked out his tongue in annoyance, immediately regretting it. Ugh. Chaos flavor. Would not recommend. He shook his head. [Dozer, so help me, come back here so you can rest!]
+
+[No rest. ⟬filth⟭.]
+
+[Dozer, get your gelatinous ass over here. I need you.]
+
+[Danger?] Dozer asked.
+
+[Yes, danger,] Rain sent quickly. Then, though he felt dirty for doing it, he pulled up his recent memory of being semi-dissolved and shoved it through the link.
+
+[Rain-King!] Dozer practically screamed in Rain’s mind. The slime panicked for a moment, then rushed straight for him.
+
+Well, it worked. Sorry, Dozer. I hope you’ll forgive me for that one. How are you moving, anyway?
+
+A shudder ran through the Bastion beneath him, and if not for his handhold, Rain was sure that he’d have tumbled right out. Uh…what was that?
+
+[Here!] Dozer sent, and Rain’s eyes widened as the airlock was suddenly covered by a clear, gelatinous shape, rising up from below.
+
+[Dozer, why are you enormous!?] Rain sent, but he didn’t get an answer before he found himself engulfed. Dozer was trying to squeeze his way inside.
+
+[Rain-King]! Dozer sent, excited by a sudden discovery. [⟬tube-slime⟭!]
+
+[Hey, what are you doing?] Rain sent, feeling himself being pulled slowly out of the airlock into what felt like a vat of honey. He tried to will himself back, but it didn’t work. As he flailed, he saw the chaos spread behind him as an orange dome, held back by the slime’s membrane. He couldn’t see across to the other side, however. At Dozer’s center, there was a blemishless white sphere that filled perhaps half his total volume.
+
+And his volume was…considerable. Dozer was never going to fit through the airlock, that was for sure. The damn slime was practically the size of the Bastion itself.
+
+This…could be an issue.
+
+Abruptly, Rain felt himself stop moving toward the sphere at Dozer’s core. Instead, his body was bent, first one way and then the other. ‘Odd’ didn’t even begin to describe the sensation. ‘Terrifying’ might have qualified. Rain felt powerless to resist the curious slime. If Dozer bent him too far, his spine would snap, and then… Okay, I’d probably be fine, but still. [Hey, stop that! The snake is me!]
+
+[?] Dozer sent happily, playing with his new toy.
+
+Damn it. Rain struggled helplessly until Dozer suddenly seemed to lose interest. He felt the slime around him loosen, and then he was floating in a neutral position. The slime was still viscous, but it was more like oil now, in contrast to sentient transparent molasses.
+
+[Rain-King?] Dozer sent, and Rain felt a tremor through the fluid surrounding him. [In?]
+
+[Wait,] Rain sent, thinking. He wiggled himself around until he was looking at the white sphere at Dozer’s center. If that’s what I think it is… He concentrated on the image, then sent it to Dozer along with a question mark. [Ball?]
+
+[⟬clean⟭] Dozer sent happily.
+
+Right, so he’s been collecting up essence this whole time. I should be able to… [Give ball?]
+
+[Yes!] Dozer sent.
+
+Rain felt another tremor run through the gel surrounding him, and then the enormous sphere was rushing toward him.
+
+Oh shit.
+
+There was nothing he could feasibly do to get out of the way in time, and the sphere crashed into him, pressing him toward the outer wall of the Bastion and a swift death. The moment the essence had touched him, however, he’d realized that he would be fine.
+
+The essence had come from his soul and was thus his to shape. Even better, it lacked the iron rigidity with which he’d imbued the Bastion’s structure. It was the perfect clay with which to build.
+
+Rain quickly tunneled into the ball of essence, deep enough to feel safe from the coming impact. When that impact came, it was mild—gentle, even. Dozer must have slowed down the ball deliberately.
+
+Worming his way back up to the surface, Rain’s awareness crossed into free space within the Bastion. He was in range.
+
+Hell yes! [Damn it, Dozer, you magnificent overgrown gumdrop!]
+
+Dozer replied with a pulse of pleased bamboozlement. The slime was just happy that Rain was happy. He clearly had zero clue what was going on.
+
+Working quickly, Rain started pumping the clay-like essence into the Bastion, feeling like a worm hollowing out an apple from within. Once he had a decently sized space, he spent a few seconds forming a rugged seal, welding the two spheres together where they met. He didn’t want the new pocket he’d made to fill up with chaos, especially considering what he was about to do.
+
+He concentrated on the enclosed section of the Bastion’s outer wall, then tore it down.
+
+His awareness exploded. His core’s domain expanded into the new space, bringing gravity along with it. Rain caught himself quickly, flying his serpentine avatar toward his core. Once he reached it, he parked the snake on a beam where it would hopefully be safe, then switched his perspective to omniscient to observe the Bastion’s interior from every angle.
+
+The headache was worth it. It was time to grow.
+
+He didn’t bother with anything as complicated as a geodesic dome. The damn ball Dozer had brought him was solid, which meant he had essence to burn. It flowed like clay as he melded the two spheres together, hollowing one out to expand the radius of the other. At one point, the Bastion’s walls began to tremble, but he just slathered them with more essence until they stopped, then continued. Not long after that, however, there was an ominous creak from the braces holding his core. That was all the warning he got before the entire lattice broke free from the outer wall.
+
+Shit!
+
+Rain’s perspective reverted into his core as it tumbled, locked into the wreckage. Urgently, he willed himself to stop falling, but the weight was too much. Instead, he tried disabling gravity completely. That DID work, amazingly, but it did nothing about momentum. The collection of beams slammed into the outer wall with significant force, several of them punching clear through it. Rain felt himself jerked to a stop, looking on in horror as chaos poured through the numerous punctures.
+
+No!
+
+[Rain-King!] Dozer sent, feeding off his panic.
+
+Rain was already working on it, flinging essence at the punctures, finding that he needed to fight against the pressure. He managed to get them all sealed before too much chaos got inside, but it was a close thing. His core didn’t have nerves or anything, but he could feel the haze of chaos attacking it, trying to tear it back into nothingness. The air was orange. He felt sick. His thoughts slowed.
+
+[⟬FILTH⟭!] Dozer sent, horrified.
+
+I can’t…gather all of this up…quickly. I need to…
+
+Desperately, Rain reached out to Dozer. As always, he couldn’t sense beyond the Bastion’s walls, but he knew where Dozer was from the channel in his mind. The slime was still pressed against the airlock. With a thought, Rain opened the inner door, and clear ooze poured in.
+
+Dozer reacted with a mixture of shock and excitement, then began actively pushing himself through the hole. The chaos filling the air seemed to stick to him, and then, to Rain’s wonder, it began to flow toward his gelatinous body.
+
+[⟬filth⟭!] Dozer sent.
+
+[YES!] Rain sent back in relief, returning his attention to the structure. Dozer would take care of the mess.
+
+The next few minutes passed in a hectic blur. There was a LOT of essence to deal with. Once Dozer was completely inside, Rain sealed the airlock after him before more chaos could rush in. The air was rapidly clearing, and it became easier and easier to think. Further, as the Bastion’s volume grew, other changes started happening. Color blossomed, spreading from Rain’s core through the wreckage that was still entrapping it. The beams became steel in appearance, not just in function.
+
+The change didn’t stop there. The outer shell began turning transparent at the point where the wreckage had impacted. When Rain had built the structure, he’d imagined glass panes between the triangular framing. Now that there was no framing along most of the outer wall, the Bastion became a snowglobe. Rain’s sudden concerns about cracking didn’t last long, swept aside by what he saw next.
+
+There was another ball of essence out there.
+
+It was just sitting there, touching the glass sphere, ripe for the taking.
+
+How long has…?!
+
+He shifted his view to look at Dozer, stunned. He recovered quickly, then sent his elation through the link along with his words. [Good boy, Dozer!]
+
+Dozer practically exploded with delight.
+
+Carefully, Rain dug away at the wall where it made contact with the new sphere, then started pulling in fresh essence. As before, he used it to expand the outer shell, but this time, he formed beams, making a new geodesic sphere to brace the glass. It was all so easy now. With this much free volume, his control was stronger than it had ever been. The massive increase in his capabilities was intoxicating, but he wasn’t going to let it fool him into complacency. Right now, the Bastion was fragile. Vulnerable. If he wanted to keep what he’d gained, he needed the Bastion to be strong, strong, strong.
+
+He kept working. Once the two new essence spheres were fully assimilated, he devoted his focus to cleaning up the mess. He hoovered up all of the wreckage and built new crossbeams, moving his core back into the center and locking it into place. He merged the new geodesic sphere with the glass shell properly, making it all one piece, but he didn’t thin it down even though he knew he could. Thicker was better.
+
+Steel was better too, he realized, and just like that, the glass became metal. It was still essence, but it would be stronger simply because he considered it to be. Changing it was trivial now, far from the laborious hardening process he’d grown used to, and he could always change it back later if he needed to see outside. With another realization, he upgraded everything to adamant. The walls darkened, becoming a deep gray, almost black. Steel was weak. He had much better options.
+
+By the time Rain finished, Dozer had finished as well. The air was completely clear now, and the slime’s excitement had vanished, replaced with nothing but relief and sleepy confusion.
+
+Dozer was done, it seemed. Beyond done.
+
+Rain had to narrow the link before he got taken down with him. [Sleep well, Dozer. You’ve earned it.]
+
+Wishing for a head to shake, Rain searched for Snek, naming the avatar in that instant. It had somehow survived the tumult, and as he slipped into it, he was immediately struck by the dramatic shift in the scale of his perspective. Snek was tiny at only 64 units of essence. The Bastion held…who the hell knew how much. A butt ton. Metric, of course.
+
+As if drifting through a dream, Rain glided his way down to where Dozer was pooled at the bottom of the sphere. He found himself marveling again at just how enormous the slime was—and it wasn’t just because Snek was so small.
+
+Operating on the experience-is-essence hypothesis, Dozer’s soul should have been about 100 units in size, given his level. Clearly, that was not the case. Dozer’s manifestation here was at least a thousand times that. At a wild guess, 100,000 units—ten times the mass of the original Bastion, smaller in volume only by virtue of not being hollow. That raised many interesting questions that Rain only now had the time to ponder. He guided Snek to a landing atop Dozer, finding the slime to make a magnificent pillow. If Dozer noticed the contact, he made no sign of it, fast asleep already.
+
+Again, Rain wished he could smile. Settling in, he turned his attention back to the subject of size. He’d learned a ridiculous amount about his soul today, and it was going to take him a long time to process all of it, but this was as good of a place to start as any.
+
+Based on everything he had gleaned from Bartum and from his own experience, souls had both an internal structure and an external manifestation. Dozer was inside Rain’s soul, which meant he should appear as that external manifestation, just as he would in soulspace. And yet, he just looked like a slime. An enormous, unconscious, physical slime. In other words: normal.
+
+It was possible that that was just how Dozer’s avatar looked—Rain only had two examples to go on, after all, so he was no expert. His own avatar in soulspace was a glitchy human hologram. Wallace, the Guild healer, appeared as a faint red soap bubble, like a special effect from 60s Trek.
+
+It was hardly a complete dataset.
+
+Also, there was nothing to say that soulspace and his own internal reality had to follow the same rules. The simplest explanation was that they did, so that was what he was going with for now.
+
+Rain knew from various encounters with the Watch that his soul appeared larger and more robust than it should have been, even before he’d broken it, and he’d been attributing that to all of the skill trees he’d unlocked. It followed that his soul’s volume would correlate to his total experience, which was 1.7 million at the moment. The Bastion held much more essence now, true, but he was certain that it was nowhere near that much. He was also certain that a solid ball of 100 essence would be much smaller than Dozer currently appeared. If his assumptions held, that meant the ratio between essence and experience wasn’t one-to-one—if there was even a relationship between them at all.
+
+[Hey Dozer, you wouldn’t happen to know your radius, would you?]
+
+There was no response, of course.
+
+Rain flicked his forked tongue a few times, amused. I’ll come back once he’s awake. I have time now. Wow, I have time now. What a concept.
+
+He flicked his tongue again.
+
+Damn, I forgot to tell Dozer that Ameliah said hello. Oh well. Next time.
+
+Quietly, he flew back to his core and spent a few minutes building the 3D equivalent of a puppy gate around it. He made it out of a fine mesh that would let the outflow through, but not an inquisitive slime. Satisfied, he wrapped himself securely around a beam to rest. He didn’t feel ready to talk to Ameliah and Tallheart yet, lest he come off as a raving lunatic. He thus resolved to stay here and process until they woke him.
+
+He breathed in deeply, then sighed a snaky sigh.
+
+Just…wow.
+
+When he next opened his eyes, Rain found himself back in his real body. He’d come back on his own after about thirty minutes, confused that Ameliah hadn’t roused him yet and fearing that he’d fall asleep inside Snek if he stayed any longer.
+
+The transition to reality was jarring, but less so than usual. There was no brutal headache waiting for him, only gnawing hunger and a feeling of something sitting atop his head.
+
+“What the…?” he mumbled to himself as he reached up to investigate. His gauntleted fingers clinked against something metal, and when he removed the object, he saw that it was an ornate silver crown, elegantly shaped like woven vines.
+
+“Okay, very funny,” he said, smiling as he scanned for his friends with Detection. Ameliah was right beside him, curled up and hidden from view beneath a blanket. Tallheart was also nearby, somewhere above him on the wall, clearly on watch, given that it was dark. The Fire Moss had gone out, and Ameliah’s Lunar Orb was hovering nearby, providing the only light. Rain checked the time quickly, and his faint hope that time-acceleration had started working in his soul was dashed.
+
+Shaking his head, he looked back down at the crown in his hands, then craned his neck around to peer up at Tallheart. He found the cervidian looking down at him, smiling that subtle smile of his.
+
+The smith’s eyes shifted, and he spoke in a low whisper, his tone urgent. “Put the crown back on. Quickly.”
+
+Rain raised an eyebrow, but complied without question. Why does he want me to—? There was a soft noise from beside him, and he jumped, relaxing as he realized it was just Ameliah. As she sat up, the blanket that had been covering her fell away, and pale light glinted off a band of silver resting across her brow.
+
+Rain grinned. Oh.
+
+Quickly, he hid his expression. Ameliah wasn’t looking at him yet, busy investigating the crown, much as he’d done moments before. Soon enough, she spotted him watching her. Her eyes flicked to his forehead, then she narrowed them dangerously as she met his gaze.
+
+Rain couldn’t help it. He began to laugh.
+
+“Damn it, Rain!” She yelled, flinging the crown at him. The metal band hit him square in the chest with a loud clang. It ricocheted into the ground, kicking up a cloud of dirt.
+
+“Hey, don’t blame me,” Rain said, struggling to contain his laughter. “I had nothing to do with it.” He quirked his head in Tallheart’s direction. “Blame him.”
+
+“I should have known,” Ameliah said with a long-suffering sigh. She looked up, then smiled.
+
+There was a heavy thud as Tallheart jumped down from the wall, landing beside the fallen crown. The smith bent to pick it up, rumbling with amusement as he twisted the deformed metal back into shape. He turned to offer it to Ameliah, speaking in an admonishing tone. “This is not a weapon. It is to be worn, not thrown. Hmm. Also, keep your voice down. There are monsters about.”
+
+Ameliah accepted the silver band with a snort. She brushed back her hair, then settled the crown back on her head. “Happy?”
+
+“Mmm,” Tallheart rumbled.
+
+“It looks good on you,” Rain said, smiling. “But then, anything would look good on you, my queen.”
+
+“Oh, stop,” Ameliah scoffed. She looked up at Tallheart, tapping a finger against her crown. “So do these do anything, or…?”
+
+Tallheart snorted. “They are not enchanted, but their function is obvious. They are a symbol of authority. Hmm. A king and a queen must have matching regalia.”
+
+“I’m going to throw it again,” Ameliah said flatly, glaring at him.
+
+Rain laughed, then scooted over to wrap her in a side-armed hug. She really does look good with that crown. There is no WAY we’re ever wearing these in public, though. I am NOT a king, damn it.
+
+“Sorry,” Ameliah said, squeezing Rain back as she glared once more at Tallheart. “I was supposed to wake you. Tallheart said he’d take care of it so I could rest, but apparently, playing a prank on us was more important than stopping you from starving to death.”
+
+Rain chuckled. “Don’t worry. I’m not that hungry.” On cue, his stomach growled loudly, betraying him. “Damn it.”
+
+Ameliah snorted, releasing him and getting to her feet. She turned to face him, then made an elaborate and unfamiliar bow. As she rose from it, she extended a hand to him. “Come, my king. Let us dine in the grand hall such that you might lavish the entire court with the recounting of your spiritual journey.”
+
+“Am I the court?” Tallheart asked, raising an eyebrow.
+
+Rain grinned. “Yes.” He allowed Ameliah to pull him to his feet, then bowed low to her in turn. “A marvelous idea, my queen. I have much to share with you both and would gladly do so over a fine meal.”
+
+Tallheart snorted. “I boiled some of those knobby roots we found yesterday. It did not improve their flavor.”
+
+Rain broke, then, laughing as he slipped an arm around Ameliah’s waist, feeling truly carefree for the first time in what felt like years. “That’s fine, Tallheart, that’s fine.” He grinned at both of them. “You’re NEVER going to believe what happened in there.”

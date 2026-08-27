@@ -1,0 +1,139 @@
+---
+id: e370be48-8a85-58b5-a419-9346fb528a05
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,341 - Opening Ceremony"
+slug: 0016-chapter-1341-opening-ceremony
+partOf: defiance-of-the-fall
+position: 16
+ownLength: 3081
+unit: words
+publishedAt: 2025-06-25
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2385189/chapter-1341-opening-ceremony"
+royalRoadId: "2385189"
+---
+
+The Peregrine Ocean’s herbal scent permeated the dense mist, surpassing yesterday’s visit to the docks. The fog wasn’t harmful, though an unusual sense of déjà vu hit Zac as he descended the mountain. Zac only needed to leave the First District to confirm the source of the immense amounts of Imperial Faith wasn’t an influx from the land or the countless memory lanterns.
+
+A shocking number of cultivators filled the streets. The Transformation Docks had only been bustling as far as cultivation societies went. With people spending months to years in seclusion between their outings, the number of people you’d run into was generally significantly lower than in mortal cities. Today, Zac could barely take a step without bumping into someone, and the crowd was almost exclusively low-grade cultivators.
+
+‘Could all these people have come from the suburbs?’ Zac asked without much confidence in his voice. He doubted E-grade cultivators could afford even the smallest residences in a place like the Transformation Docks.
+
+‘There’s quite a few with imperfect spirituality in the crowd—what you’d see in the Lower Planes. They should be permanent residents of Inner Worlds and brought out to generate Faith,’ Esmeralda said. ‘The walk is probably part of it to elicit a sense of pilgrimage.’
+
+Zac could see what Esmeralda meant. The bubbling excitement was plain as day. For some, this would be the first time many of these citizens had ever left the confines of their small worlds. An Early Monarch couldn’t comfortably fit more than a few hundred people, while a Peak Monarch could sustain at least a large city. Those living inside B-grade cultivators had it better.
+
+Autarchs could carry around whole countries, and their domains were directly connected to the Heavens. Their Inner Worlds would still heavily gravitate toward whatever path the Autarch practiced, but the inhabitants wouldn’t suffer from missing foundations like Esmeralda mentioned. With so many high-grade cultivators participating, there was an incalculable number of citizens released into the open.
+
+The massive crowd confirmed the ceremony wasn’t as simple as a ribbon-cutting event. Zac stayed to the side to witness the sea of people snaking toward the central square. It wasn’t enough to make his decision to participate waver. He was waiting until the last minute before donning his presence-masking hood. Further obscured by Esmeralda’s spatial domain, Zac joined the crowd.
+
+The plan to blend into the crowd failed the moment Zac stepped foot onto the square. The seal on his hand lit up on its own, and an array teleported Zac to one of the floating plateaus right at the front. The sealbearers from the docks were already present and seated, and Zac recognized dozens of participants he’d encountered during the challenges.
+
+For instance, Xiphos was seated at the front. He was in the middle of a conversation with his neighbor and only shot Zac a quick glance when he appeared. There was no sign of Kaltosa Lu or his butler. Zac had expected as much, seeing as the Mercurial Court’s pillar still only had two halos.
+
+Zac took great comfort in knowing he’d delayed the elemental enough to force him to choose between finishing his thread of fate and participating in the opening ceremony. He didn’t hold much hope it was sufficient to make Kaltosa Lu succumb to the Peregrine Ocean, but missing out should delay his arrival and lead to a worse outcome.
+
+Jumping down from the platform would have made Zac stick out, so he calmly walked toward the empty seats at the back of the platform. Zac only had time to take a few steps before he felt another set of eyes on him. Zac traced the sensation, and the surprise almost made him lose his composure.
+
+Picking a seat seemingly at random, Zac found himself in the last row next to a man with a vacant expression. It was Janos, dressed as a scholar while cradling a metal sphere in his lap. The tool had gone through a series of changes since Zac saw it last. Most notably, it was slowly absorbing the Imperial Faith of the surroundings. It had even taken on some of the Peregrine Ocean’s aura.
+
+Zac hadn’t noticed the illusionist’s presence at all during his first sweep. It didn’t necessarily mean that Janos’ abilities had grown stronger, though his aura had undeniably grown more robust. Illusions worked better on unprepared targets, and Zac certainly hadn’t expected to run into his subordinate here.
+
+He hadn’t forgotten that Janos was a Realmsinger of the Mercurial Court, but he’d somewhat suspected Janos would stop midway. The zones had become more dangerous the closer they moved to the continent’s edges, and there were still plenty of opportunities in the safer regions. Not only had the demon proven him wrong, but Janos had even kept a pace matching Zac’s human half.
+
+Even so, Zac could sense something was wrong with the demon’s gaze. It was like Janos struggled to place who Zac was. The illusionist’s line between reality and illusion had blurred after being trapped in the Ensolus Ruins, and his time on the Left Imperial Expanse might have worsened his condition.
+
+‘Are you okay?’ Zac asked when he saw the spark of recognition on his subordinate’s face.
+
+‘I keep falling asleep, but the dream will eventually end,’ Janos slowly answered, his gaze shifting from Zac to the Mercurial Court’s pillar. ‘It’s almost time.’
+
+Zac didn’t get the chance to ask what Janos meant. He’d waited as long as possible, and it was about time for the ceremony to begin. A swirl of golden flames sprouted in the empty space where a stage should have stood. It commanded Zac’s full attention, and sitting at the back of the platform didn’t mar the experience. The flame bent perception and space to give everyone a perfect, unobstructed view.
+
+Silence descended. A million eyes watched as the flame exploded into a gargantuan pathway that reached the memory domain’s ceiling. On the other side was a starry sky different from what Zac had seen over the past month. It was full of color, and it wasn’t empty. There were countless vessels and fortresses blotting the sky, all of them emitting a vast, heroic aura.
+
+The winds of war poured through the gate and fused with the ambient Faith. The Transformation Docks had gone from being a holy site into a city in the midst of a holy crusade. The more energy poured through, the better Zac could grasp the immensity and scale of the army stationed on the other side. The Centurion Base couldn’t hold a candle to some of the structures.
+
+Was this the defensive perimeter guarding the continent’s outer border? It would explain why there’d been no sign of the familiar fortress standing at its center.
+
+The Left Imperial Palace didn’t quite look identical to the battle-worn remnant of Zac’s vision. Its unblemished, towering walls looked like they could suppress the Earth. They represented an absolute divide, to the point that spying on the interiors proved impossible. Another addition was the nine majestic flames burning on its bastions, one for each Outer Court.
+
+The greatest difference from Zac’s vision was the gargantuan structure raised in the fortress’s center, surpassing even the palace’s restrictions. It was so large Zac’s mind couldn’t properly take it in. Unimaginable spatial compression had been used to place it atop the entrance of the Ultom Courts. It only reached twice the height of the walls before disappearing into a gate similar to the window on the central square, but it was clearly the base of a massive tower.
+
+The Ultom Courts might have been hidden inside the Fifth Pillar’s base, but its Heaven-transcending aura was still on open display. Except, it had been made part of the Limitless Empire’s glory, pushing it to transcendent heights. Zac was already overwhelmed by the scene, and he was given no time to rest.
+
+The gates on the Left Imperial Palace opened to let out an enormous war chariot covered in runes burning with blinding Imperial Faith. Its aura was so overwhelming that it overshadowed the six dragons pulling it, and they were nothing like the little mixed-blood whelpling Zac fought inside the Tower of Eternity.
+
+These dragons should be genuine Primordial Beasts with bloodlines pure enough to overwhelm most Autarchs at the same stage, yet they pulled the chariot toward the Transformation Docks without any sign of complaint. If anything, they conveyed pride at being chosen.
+
+Reality bent as the chariot soared through the foreign sky. The familiar tiles of the Imperial Road appeared beneath its wheels, and the brutal defensive perimeter was replaced by a constant flicker of different worlds.
+
+The chariot passed through battlefields where valiant soldiers suppressed the onslaught of the Empire’s enemies. Lofty mountains with unyielding composure were followed by sprawling cities burning with the flame of civilization. The chariot brought about winds of change. Its journey was a pilgrimage much like the one outside.
+
+‘Such pageantry,’ Esmeralda scoffed, unable to hide the awe in her voice.
+
+Zac was no better. He could barely think under the influence of the Limitless Empire’s boundless might. He had to resist getting swept away, and the struggle intensified the closer the chariot drew. The deeply ingrained memories of his three identities all resonated with the ceremony, blurring the critical lines between present and past.
+
+The other elites on the platform faced no such issue. They welcomed the blessing, becoming beacons of devout worship from having their Faith affirmed through might. There was no need to mention the massive crowd gathered below. The square was alight by the flames of fanaticism, and Zac felt like the Imperial Faith was on the precipice of evolving to something greater.
+
+The square had become the eye of a storm of providence. It was impossible to say if the chariot crossed countless miles in minutes or if its flight to the gate was just a short skip. The dragons stopped outside while the chariot passed through, and only glimpses of their murderous auras peeked through.
+
+Though a chariot entered the gate, it was a large altar that appeared above the transformation docks. It looked similar to the Fifth Pillar’s base. In front of the altar was a stage large enough to seat a few dozen people, and it was already filled. The gate closed, but it was impossible to erase the mark left by the scene on the other side. Zac snuck a glance at Janos to see if he needed assistance, surprised to find him alert and more present than ever.
+
+The illusionist’s gaze was trained on the bewildering old man resting at the seat of honor. It wasn’t the old man’s actions that caused Zac’s confusion. He was sitting there, possibly looking out at the crowd. Zac couldn’t tell for certain since his mind failed to capture a specific face or expression. He may as well have been a million people trapped inside one body, each fighting for supremacy.
+
+The phenomenon looked somewhat similar to the Stellar Wanderers. Those primordial beings were too powerful to be contained by a single dimension, so their presence spread through all layers of reality. Having witnessed the real thing, Zac could tell the old man wasn’t the same. It was like he lacked an anchor to tether him to a specific state, blurring the barrier between real and fake. He was also extremely powerful.
+
+‘A Supremacy’s imprint!’ Esmeralda whispered as she shrunk deeper into the shrine’s pond.
+
+Zac had already averted his gaze. He had a good idea who the unusual-looking human was without Esmeralda’s prompt. It should be Great Dream, the mysterious leader of the Mercurial Court. Beyond the Daoist Name, Zac hadn’t discovered anything over the past months. This old man was much more of a recluse than the Margrave presiding over the Hollow Court.
+
+That’s why Zac was surprised to see him appear, even if he’d only sent an avatar. With his presence, it was no wonder the young princes from the Theomore Dynasty had been relegated to the side. A mere Hegemon being seated next to a Supremacy was still an enormous honor and a testament to the influence of the nine Imperial Bloodlines.
+
+It was also evident that Astora Theomore’s status was extraordinary within her clan. The hunched-over old lady standing to Astora’s left possessed an aura that only fell a few steps short of Great Dream. She could only be a Theomore Elder responsible for protecting the princess during her visit to the Mercurial Court.
+
+‘Another Supremacy?’ Zac cautiously asked.
+
+‘Close enough. A peak Autarch possessing a large amount of inherited Authority.’
+
+It wasn’t the first time Esmeralda had mentioned Autarchs with Authority, but Zac wasn’t in a frame of mind to ask for clarification. He could feel his bloodline stirring from an unseen force coming from the princess. He kept his Void Emperor Bloodline in check while carefully observing Astora for any signs she’d sensed the same thing. It didn’t look like it.
+
+Most of Astora Theomore’s features were covered by a fluttering veil, and her eyes were closed in meditation. She possessed an air of diligence, like she loathed missing a single second of cultivation. Her dedicated demeanor and unadorned cultivator robes imbued the earth-shattering beauty with a sense of kinship. However, it couldn’t hide the immense blessing of affinity the Heavens had bestowed upon her.
+
+If Iz Tayn was an avatar of fire, then Astora Theomore was an apostle of Nature. Zac wouldn’t have been surprised if birds chose to perch on her shoulders or if Nature Spirits peeked out of her brown locks. The circumstances made it impossible to discern what kind of path or bloodline abilities she possessed, and Zac didn't dare look too long.
+
+The others on the platform were a mix of powerful dignitaries with a close connection to the Empire, including Xiphos’ Dao Guardian. Zac also spotted an unfamiliar Judge of the Imperial Magistrate and quickly looked away. He moved onto the person at the edge of the stage, only to receive an even greater shock.
+
+It took Zac a moment to realize he wasn’t actually looking at Leyara Lioress. They shared enough features to be mistaken for sisters, but the woman before him possessed a completely different quality. While the nun’s aura was hidden, she exuded the air of someone who’d lived through countless seasons and seen the rise and fall of dynasties. That wasn’t something a Hegemon could emulate even if they tried.
+
+While different, the woman was clearly a member of the Vigil, the mysterious parent organization to Zecia’s Void Gate. The fake Leyara wore an almost identical dress to the nun who’d appeared by the Everfast Monarch’s side. Like most on the stage, the nun inspected the platform of sealbearers.
+
+Did she just stop upon spotting him?
+
+Zac suddenly prayed it was Leyara, and not only because he’d like to thank her for her assistance with Terea’s lantern. If this nun wasn’t his old friend, the pause might have meant she noticed something else. The nun by the Everfast Monarch’s side had effortlessly seen through his secrets, referring to him as a ‘Young Void Emperor.’ The Vigil had also proven their stated stance of neutrality was one of convenience.
+
+“Today is a day of celebration,” a resounding voice spread through the square. The chaotic stir of energy immediately calmed.
+
+“We celebrate the completion of the Imperial Road, which will help bring our citizens closer. We celebrate the sacrifice of generations of heroes who worked tirelessly to advance the Empire’s holy mission. Today, the Mercurial Court is opening the Gate of Transformation. Those chosen by Destiny shall be given an opportunity to see through the illusion and seize an opportunity from the shores of enlightenment.”
+
+Grand Dream’s face remained an everchanging blur, but there was no doubt the words came from him. Every syllable was imbued with so much meaning they may as well have been an edict of the Heavens, and they infiltrated every corner of the city. Any one of their countless truths was enough to keep a Hegemon occupied for years, and they weren’t limited to the major Daos of the Mercurial Court.
+
+Zac had no choice but to let the sea of perfected Dao wash over him, for once thankful for his lack of affinity. It meant he was left out of the induced enlightenment taking place across the square as people unconsciously absorbed the concoction of Faith, War, and transformative power.
+
+That was for the best. Zac knew his Void Road wasn’t powerful enough to filter out the Dao without being influenced. Janos still didn’t need his assistance. His treasure was happily gobbling up the energies meant for him.
+
+“However, today’s glory is not their own,” Grand Dream continued. “The Era is turning, and the Empire is the fulcrum of destiny. This glory cannot be carried by the few. A rising tide lifts all boats, and the flame has never burned brighter. Do not grow complacent under its comforting light, and do not forget the price paid to keep it burning. Use the flames to ignite your passion and transcend your limits. A new dawn is approaching.
+
+A ruminating silence lingered until the old Theomore Dao Guardian coughed and stepped forward.
+
+“There should be no lingering uncertainty before we begin. The trajectories need to be confirmed for history to proceed. As such, we invite candidates to challenge Destiny.”
+
+‘Challenges?’ Zac mused with vague recollection.
+
+‘Uh, remember what that old templar on the podium said when we met? Don’t tell me—’ Esmeralda didn’t have time to finish her sentence before the aura of a Late Hegemon erupted.
+
+While powerful in its own right, it felt laughable after having just witnessed the true majesty of the Left Imperial Palace. The challenger’s words further clashed against the solemn atmosphere. Zac had no time to worry about that.
+
+“Everit Draom! I refuse to believe you seized your slot through upright means. If the Lords are amenable, I shall test your qualifications myself.”
+
+The challenge broke the spell of silence that had held the whole city in its grasp. Excited clamors soon filled the square, adding some levity to the day. Some were asking about details about Everit Draom and the challenger, wondering if there was a sordid history behind the harsh words. Others were straightforwardly taking bets on the outcome.
+
+‘I guess it’s our fault for deluding ourselves you could stay low-key,’ Esmeralda sighed with resignation.

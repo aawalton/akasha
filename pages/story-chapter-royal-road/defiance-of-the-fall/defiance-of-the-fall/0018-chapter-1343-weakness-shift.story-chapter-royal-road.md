@@ -1,0 +1,145 @@
+---
+id: 425805a8-ba5d-53ca-a9fd-81ed05b64c3c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,343 - Weakness, Shift"
+slug: 0018-chapter-1343-weakness-shift
+partOf: defiance-of-the-fall
+position: 18
+ownLength: 3239
+unit: words
+publishedAt: 2025-06-30
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2398360/chapter-1343-weakness-shift"
+royalRoadId: "2398360"
+---
+
+This close, Zac could tell his opponent had greatly overdrawn his source. His turbid mind was struggling to grasp what was going on, seeing as there was confused jubilation on his face. Did he think Zac had given up on the challenge, not even entering the maze? After all, the two struck completely different images, with Zac looking as clean and whole as when he flew to the altar.
+
+Zac gave the challenger an ambivalent look before turning away. His anger had mostly dissipated over the past minutes. Now, the challenger was just another soul who’d lost everything, his providence becoming nourishment for Zac’s path. Esmeralda didn’t share his hangups. Croaks of laughter spread through the square, breaking the spell of silence.
+
+The challenge wasn’t a contest between equals. It was a beatdown. Zac had already waited three minutes for the challenger to emerge, giving him more than enough time to look into the challenger’s background. As he’d thought, Tevrin Seaswift had no relation to Everit Draom. He was the sole inheritor of a small but powerful coalition called the Realmtreader Society, something between a sect and a research group.
+
+At a ten-to-one dilation, the discrepancy meant it had taken Tevrin nearly an hour to Esmeralda’s eighteen minutes. The stark difference wasn’t limited to time. The Mercurial Court was kind enough to provide means to watch the race. Focusing on the spatial maze let anyone zoom in on either contestant, and the spatial energies were highlighted in a way that allowed even laymen to understand what was going on.
+
+Tevrin’s desperate sprint was nothing like what Zac had experienced from the comfort of Esmeralda’s pouch. Her journey through the labyrinth may as well have been a stroll through her backyard, except for a hectic dash through the maze’s center. The gap was so extreme that the crowd occasionally would glance at the central stage with doubt.
+
+Zac had heard a hushed question whether Everit Draom was related to some elder of the Mercurial Court. Others tried to renege on their bets, citing unusual circumstances. Zac had to agree it looked suspicious. Only the high-grade cultivators and trialtakers cultivating the Dao of Space could tell the difference was the result of a terrifying gap in experience and methods.
+
+The discussions had died down as Tevrin neared the finish line. The crowd was waiting for an announcement to confirm that what they’d seen was real. Not wanting to draw out the situation, Zac once more bowed toward the Dao Guardian.
+
+“May I ask for your ruling?”
+
+The hunchbacked granny by Astora Theomore’s side deeply looked at Esmeralda a moment before confirming the result. “Destiny has successfully been defended.”
+
+Her words dragged Tevrin from his stupor, and his face grew pallid upon seeing the Imperial Merit pouring out of his Tethered Token. It only took a second for the seal to be completely drained, at which point it turned into ash and drifted away. One river had absorbed the other, and the Tethered Court had lost one of its sealbearers.
+
+“You had your contracted beast compete in your stead?”
+
+Someone must have taken pity on the challenger and relayed what happened. Zac didn’t care.
+
+“So what if I did? Got get your own toad if you think it’s so easy.”
+
+Tevrin didn’t look angry. More than anything, there was desolation in his gaze as he turned around and flew away. Zac didn’t linger by the altar, either. Astora Theomore had already opened her eyes when Esmeralda emerged from the maze. Zac couldn’t tell if she'd noticed something or if she was simply curious about his unusual method of defending his Destiny. There was no point in sticking around and finding out.
+
+A parting message entered his mind on his way back to his seat. ‘Three weeks ago, I was approached with a request. I was offered a fortune to seize your Destiny.’
+
+‘Why are you telling me this?’ Zac asked.
+
+‘Because whoever hired me just cut off my future.’
+
+The confirmation didn’t dampen Zac’s mood. If anything, the timeline was a good sign. Three weeks was long before he reached the Transformation Docks, decreasing the odds of it being arranged by Astora or the Vigil. More likely, it was one of Everit’s old enemies, and Zac couldn’t be bothered delving deeper.
+
+Things undeniably looked up. Zac had already confirmed a sealbearer could only be challenged once. His position was now more secure than anyone else’s, and he’d reaped a few trials’ worth of Imperial Merit. Zac believed he’d be at the front of the pack even after earmarking half the merit for his human side.
+
+As a bonus, Zac had confirmed the stance of the ancient Imperial Supremacies and resolved the stubborn issue of overly relying on Temporal Chambers. Zac currently had no way to fix his temporal debt, but he didn’t need to. The time he’d spent outside the River of Time was too high given his age, but he was extremely young by Multiverse standards. What would a couple of years matter after he’d lived for millennia? Zac could add a few decades to the tally at that point without a problem. He just needed to be patient.
+
+The other sealbearers gave Zac odd looks as he returned to his seat. He returned the looks with rude gestures. Everit’s haughty nature became a guise to hide Zac’s unease. Everything had gone above expectation, yet his premonition of danger was only growing. His nose for trouble was rarely wrong. If the problem didn’t stem from the people on the stage, there was something else lurking beneath the surface.
+
+Zac felt extremely exposed in the sea of people, knowing he could only endure. The failed attempt to seize Destiny wasn’t enough to break the determination of the other contenders hidden within the crowd. A second challenger had already stepped forth, and a different set of challenges appeared above the altar.
+
+The crowd moved on, and Zac was more than happy to be forgotten. It took almost two hours to go through the challenges, even with temporal acceleration. No challenge held the exact same options, though combat appeared in most of them. Still, being allowed to pick gave the defender a significant advantage, and most of the challenges failed.
+
+The sheer number of sealbearers who chose to gamble a guaranteed slot for the chance to enter another court was surprising. Zac suspected it wasn’t only a matter of picking the court more suitable to their path. Apart from trial by combat, all the challenges were related to the Peaks of Continuum or Fantasy, confirming the Mercurial Court’s close connection to these Daos. The other Courts were likely the same, and the challengers had concluded that defending their Destiny would be more difficult than seizing someone else’s.
+
+Janos successfully avoided being targeted despite only being a Middle Hegemon. It was difficult to say whether it was thanks to his unclear identity or that everyone simply overlooked his existence. The demon didn’t care about the challenges either. His full attention was on feeding his sphere with the square’s mysterious mix of energies.
+
+Extracting a brief account of how Janos reached the Transformation Docks so quickly had felt like squeezing water out of a stone. The gist of it was that Janos took advantage of the principle Zac used when he first arrived on the Left Imperial Expanse. Kristvan Wendimar had thrown his “daughter” into a Spatial tear, transporting her countless miles away from the crumbling outpost.
+
+Similarly, Janos used teleportation arrays inside memories to cross most of the distance. His last jump had directly brought him to the Transformation Docks, and he wasn’t even aware the continent had an inner region.
+
+The explanation left Esmeralda speechless. She’d spent half a year running, crossing dozens of hazardous realms and taboo zones. Meanwhile, Janos spent most of his time cultivating inside the memory domains. Whenever he needed to advance, he jumped onto a teleporter and was whisked away.
+
+It wasn’t that Zac hadn’t considered the possibility, but neither of his bodies had encountered any teleporter within the borders of a memory. Teleporters were much rarer before the System, but the arrangement almost felt by design. Zac didn’t push for details despite suspecting there was more to Janos’s story. They all carried secrets. Besides, they were finally about to get to the important part.
+
+Zac waited with distressed anticipation as Astora finally stood up to face the crowd. The challenges were dealt with, and as the Dao Guardian phrased it, the trajectories were set. However, instead of dishing out the secrets to the Peregrine Ocean, Astora decided to conduct a worship ceremony. The crowd clasped their hands in prayer, including the high-grade cultivators seated on the other platforms. Annoyed, Zac could only follow suit.
+
+The communal prayer generated a force no weaker than a War Array, and the golden sigil of the Limitless Empire lit up above the altar. Its majesty made Zac feel like he’d appeared before the Empyrean Chalice once more. The rune was a pure representation of the Imperial Fate, encompassing the ultimate will and conviction of the Limitless Empire. Zac had to remind himself not to get lost in its grandeur. His Void Road was a joke in comparison, but his journey had only begun.
+
+The rune’s appearance created a virtuous cycle with the crowd. The stronger its light shone, the deeper their devotion grew. Though witnessing it for the first time, Zac knew this was something you’d see during any holiday in the Limitless Empire. However, today’s worship seemed more effective than usual.
+
+Dense halos appeared around the people crowd as they prayed for peace and continuing prosperity. The phenomenon quickly exceeded what was reasonable. Even the mortals were emitting forces far surpassing what they should wield. The scene would have made sense if it were a million ordained Templars and Priests on the square, not a random collection of low-grade cultivators.
+
+‘This isn’t natural,’ Esmeralda echoed. ‘It’s because of all that energy they’ve absorbed over the last hours.’
+
+‘But their halos are much stronger than what they absorbed, and they can’t possibly hold reserves large enough to bridge the gap.’
+
+‘I’m not convinced the Faith Energy is real. You know, there was a whole lot of the Peregrine Ocean’s illusory energy in the concoction they gobbled up,’ Esmeralda said with a pointed tone. ‘If it’s real, the faith isn’t from around here.’
+
+Zac slowly nodded. The burgeoning halos being the work of outside influence was the only thing that made sense. If it wasn’t the Peregrine Ocean’s doing, a high-grade cultivator had to be using an illusion to amplify the atmosphere. However, Zac suspected such manipulation would tarnish a sincere worship ceremony and lead to a worse outcome.
+
+It didn’t take long before Esmeralda’s was proven right. Streaks of the ocean’s silver appeared above the civilians with the strongest halos. The herbal scent intensified, then came a flicker of a foreign land. One turned into two, and two turned into countless mirages. Soon enough, the air above the square looked a lot like the dimension Zac fell into when escaping Dipper Seven. As odd as it looked, no one else reacted to the scene. It was like their halos had isolated them from the world.
+
+Realization dawned on Zac’s face. There was no clue. This was it. The worship ceremony had stirred the Faith Energy in the Peregrine Ocean’s alternate realities, creating an opportunity to take a sneak peak at the routes. Some windows gave Zac a chaotic and dangerous impression, and there was barely a hint of the Mercurial Court’s aura. Picking a gondola whose aura matched that realm was bound to result in a rough crossing.
+
+Zac had a clear advantage over the other sealbearers who were still caught in prayer, but taking advantage of the head start proved incredibly difficult. The gondolas' auras were nearly indistinguishable, and Zac needed to infuse his will into individual windows to get a proper look. Esmeralda was much faster, but even she had her work cut out for her with a thousand new windows appearing every second—most of which didn’t seem to match the specific aura of any gondola.
+
+The good news was that the windows grew with intensity instead of the other way around, making it easier and easier to spot those with a stronger bond to the Mercurial Court. They soon identified the first promising timeline. Zac kept his growing anxiety in check and focused on the search. Like with the memory lanterns, there was no reason to go with the first option when a better one might be just around the corner. The ceremony was about to wrap up, but they still had time.
+
+“We should go.”
+
+The sudden prompt broke Zac’s focus. He turned to his left and found the seat empty. Janos was already at the platform’s edge, and he jumped off without looking back. He flew forward, carefully avoiding the illusory gates on his way toward the docks. Zac was shocked at the demon’s suicidal breach of decorum. His alarm only grew upon turning to the stage, though not for the reason he expected.
+
+More than half of those on the seat of honor had disappeared, including Grand Dream, Astora, and her Dao Guardian. Those who were left weren’t all up in their prayer, but neither were their attention on Janos. They were looking at the sky with unreadable expressions. Zac's unease skyrocketed, and he decisively shot out of his seat. Moments later, he’d caught up with Janos.
+
+“Do you know which boats to pick?” Zac asked in a low voice.
+
+“I can pick the correct dream,” Janos nodded. “If you can keep me safe.”
+
+“Safe from what?” Zac asked with a sinking feeling. He could tell the demon’s request wasn’t for general protection or assistance after they’d reached the Mercurial Court. Something very bad was about to happen.
+
+They reached the square’s edge just as Zac asked. They pierced through the dense mist’s final layer, and there was no longer any need for any explanation. The central square was built in direct connection with the docks, yet the Peregrine Ocean was nowhere in sight. Instead, they faced a huge, nightmarish city. It stretched further than should be possible, exceeding even the bounds of the memory domain.
+
+It looked like a dozen versions of the Transformation Docks had been fused into one to create a dizzying world of twisted buildings. Some buildings had been replaced by burning ruins, others unnaturally fused to sport a dozen doors or multiple disjointed ceilings. Even the sky had been replaced by districts hanging upside down.
+
+The chaos wasn’t limited to unsettling architecture. The streets were rife with slaughter and mayhem. The air was filled with a mix of screams, raucous laughter, and the clashes of desperate battles. The scene looked a lot like what happened to cities conquered by the Kan’Tanu or undisciplined Zecia factions during the intersector war.
+
+Zac barely had time to take in the scene before his Danger Sense alerted him to an incoming threat. Turning into a blur, he unleashed a monstrous punch at a shimmer to his left. A twisted face full of malice barely had time to appear before Zac’s fist connected. The shockwave compressed the surrounding air until it shattered and released a clap of thunder, yet the misshapen head remained intact.
+
+The head-on attack only stopped its emergence from the crack in space by pushing it back a few inches. It was Zac’s knuckles that throbbed painfully from striking the knotted forehead—a complete opposite of the outcome his years of experience had anticipated. The invader only emitted the aura of an Early Hegemon, but his forehead seemed no less refined than a C-grade War Regalia.
+
+Zac had never encountered such a contradiction before. It should be impossible. Even a pure body tempering cultivator would emit something like a Fiend Energy or Vigor matching their grade. Anything less, and they’d lack the strength to utilize their body. There was no mistaking what made the impossible possible. The invaders were overflowing with the corruption of the Lost Era.
+
+The ambusher looked human, apart from possessing three eyes and knotted bulbs all over his face. He veritably reeked of deranged malice, and Zac’s punch had only triggered a hunger for slaughter. While troubled, Zac didn’t back down. If a fist didn’t work, he’d try with his axe. The forehead was too sturdy, but Zac wasn’t dealing with an Izh’Rak Reaver. Not all parts were protected by bone.
+
+If all that failed, the comforting haze of the central was right on his back. He’d interrupt the prayer if he had to. The stage was almost empty, but on the platform were plenty of High-grade cultivators who could deal with the threat. As if the Heavens didn’t want to get his hopes up, shocked roars and the sounds of battle erupted behind. Far more terrifying fluctuations seeped through the haze than what Zac’s opponent could muster.
+
+Thankfully, they were still inside the Transformation Docks, giving the Empire the home-field advantage. A stream detached from the immense blob of Imperial Faith accumulated above the central square. It struck the mutant attacker before he could emerge from the gate, like it couldn’t tolerate the existence of any creature who dared profane the day.
+
+Zac’s excitement at the timely assistance didn’t last long. The golden light didn’t seem to actually harm the mutant. However, Zac quickly noticed something odd. Zac's right arm turned into a blur, and a flash from [Death’s Duality] passed right through the mutant. There was barely any resistance this time. The miscreation was cleanly cut in two, including the adamantine forehead.
+
+The pathway shattered soon after, yet Zac wasn’t relieved. He’d already gotten a better look at the other invaders filling the streets. The streets weren’t exactly overflowing with mutants, but they all emitted the same fiendish grade-transcending strength. There were also more of them popping out by the second. Zac figured the one he killed simply was unlucky enough to emerge right next to the square.
+
+“You overestimate me,” Zac sighed. “I might be able to deal with these things if we can lure them over to the square one by one. But getting out of here is out of the question.”
+
+“We can,” Janos said as his sphere came alive. It released a nearly identical light as the halos, creating one for each of them.
+
+Zac moved around a bit and discovered the halo would cover both him and his weapons like a film of illusory faith. Even Alea’s chains gained a golden hue without weakening the Inexorable Death lurking beneath. Zac looked at Janos with awe and suspicion. Had he known this would happen? If so…
+
+“Like you said. We need to go. Do you know the way?”
+
+With the sphere in one hand, Janos pointed toward the distance. “Weakness. Shift.”
+
+“What does that—”
+
+A streak of pure destruction filling the whole sky interrupted Zac’s question. It tore through thousands of buildings and annihilated multiple blocks suspended in the sky. The attack was at least launched by a Late Monarch inside the square. It changed nothing. Yet another set of buildings replaced those destroyed, and new mutants emerged from flickering gates.
+
+“… Alright. Weakness, shift. Good enough. You’ll show the path and I’ll keep us safe,” Zac said as his body began to grow.

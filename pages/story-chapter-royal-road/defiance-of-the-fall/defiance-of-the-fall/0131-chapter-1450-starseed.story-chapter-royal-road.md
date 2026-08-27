@@ -1,0 +1,111 @@
+---
+id: 1d10d2a7-3af9-51c1-84cf-6a3de577e415
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,450 - Starseed"
+slug: 0131-chapter-1450-starseed
+partOf: defiance-of-the-fall
+position: 131
+ownLength: 2899
+unit: words
+publishedAt: 2026-08-23
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3854854/chapter-1450-starseed"
+royalRoadId: "3854854"
+---
+
+Waves of stubborn Life resisted the encroachment of scorching starlight that leaked through the seams of the reed basket on Ra’Klid’s back. The surreal feeling of carrying a future star on his back had long since faded, replaced by exhaustion and annoyance. Ra’Klid would have given anything for a Spatial Treasure high-quality enough to safely hold a starseed.
+
+Ra’Klid couldn’t help but wonder if pursuing the Dao was one big scam. He’d bled, he’d struggled, and he’d emerged victorious against all odds. He was a chosen of Destiny, a Reignender of Ultom. And what did he have to show for it? Hard labor inside the Stellar Well. He was the chieftain of the Mavai Tribes, yet forced to perform the same kind of back-breaking work as the lowest laborers.
+
+Would the future be any different? As he progressed, the stakes increased. A D-grade laborer today, a C-grade doorman tomorrow. Would there ever be a point where he could lean back in his tent and watch day turn into night without a care in the world? Ra’Klid shook his head and discarded the heart-withering thoughts.
+
+He knew his situation was better than most. Times were tough now, but hadn’t he seen his fair share of glory? And even if a lifetime of struggle was fated to be in his cards, then so what? He’d prefer to struggle as he pursued the limits of the Dao rather than muddle along on the mortal plane. Each seed he brought back was another brick adding to his foundation.
+
+The Starfall Court’s role was clear at a glance; it was to ensure that the Empire’s various operations had enough Cosmic Energy to function properly. One would think that was a given on a priceless parcel of land like the Left Imperial Expanse, yet there were evidently deficits where it most mattered.
+
+Being a civilization of unrepentant conquerors, the Limitless Empire proposed a suitably overbearing solution. They would seize the stars and extract their energy. The Starfall Court was a huge net that reached into the Cosmos, reeling in any stars or energy-dense objects that had the misfortune of drifting too close. The stars were sealed, buried, and their energy was slowly made part of the continent’s. As far as Ra’Klid could tell, that process had continued to some degree even after the continent was hidden beneath the River of Time.
+
+Grand undertakings like plucking stars from the sky were naturally outside the scope of mere Hegemons such as himself or other Sealbearers. Their opportunities were generally split into two divisions. You could join the astrologers in charting the Cosmos or devise new methods of securing the necessary aether.
+
+The work required high affinity with the Stellar Peak and an understanding of the Cosmic Order, and it had only taken Ra’Klid a few minutes to confirm his future lay elsewhere. He’d already made a modest contribution during his approach to the Starfall Court. He’d unearthed the spatial coordinates of a particularly dense cluster of stars from the notes of a fallen explorer.
+
+Since there was no fortune for him to seize on the surface, Ra’Klid had no choice but to look elsewhere. Refusing to settle in, he’d decisively descended into the Stellar Well. The well was an endless, bottomless subterranean jungle spread out beneath the Starfall Court. The plants had been nourished by the fading warmth of a million stars, changing their nature into something unique.
+
+Each plant was the size of a country, filling a thousand corridors for a thousand miles. Reportedly, the scales only grew more exaggerated the further down you delved. There were apparently individual specimens larger than his home world. Ra’Klid had no intention of investigating himself. He knew his limits, limiting his activities to the well’s uppermost layer.
+
+The concentration of Cosmic Energy inside the well was, in one world, unmatched. It was no wonder the Starfall Court didn’t have Cultivation Chambers—what was the point, when squeezing into a bulb or finding a secluded pocket would provide all the energy a Hegemon could need and more? Even without actively trying to advance, Ra’Klid had gained eight levels over the past two months.
+
+Advancing in levels was just an incidental boon. Ra’Klid’s true purpose was tracking down starseeds like the one in his basket. Of course, any other Natural Treasures he encountered during the search would also end up in his pockets.
+
+The seeds were pure starlight nourished by the world-spanning plants. Consuming one could permanently purify one’s body and increase the capacity of one’s Cosmic Core. Ra’Klid had already done so, yet he kept looking for more. While it only worked once, even D-grade starseeds could be turned in for a decent chunk of Luminescence at the Starfall Court.
+
+Apparently, the seeds could be nurtured into true stars by the empire, giving them a second source of Cosmic Energy. Nevertheless, searching for starseeds was an unpopular task among the natives. The seeds were extraordinarily rare in the past, and finding one seed a year was considered lucky. Eons of being untended had made things easier for trialtakers. Relying on some tricks and his Luck, Ra’Klid only needed two to three weeks of searching to unearth one.
+
+That wasn’t to say searching for seeds was free money. Plenty of beasts had been attracted by the atmosphere, and there were no imperial soldiers to clear out the pests outside the memory domains. Currently, Ra’Klid estimated there were thousands of Beast Emperors spread across the well, and perhaps even scarier things in the depths. For these beasts, there was no greater delicacy than starseeds.
+
+And yet, the wildlife wasn’t the greatest threat. Beasts generally stuck to their territory. The same couldn’t be said for the hundred-odd trial takers who’d reached Starfall Court by now. Ra’Klid would have given anything to take a break, to give the burns on his back time to properly heal before his skin was turned into jerky.
+
+That modest wish wasn’t fated to come true. Ra’Klid had felt the change in the Starfall Court since the tectonic shift in the continent’s center. The trial was at most a few months away from ending or entering its next phase. And if he could see as much, so could the others. With the impending deadline, a frenzy had swept through the well.
+
+Which Sealbearer didn’t have their eyes on a few items in Starfall Court’s exchange? Any one of them could rewrite one’s destiny, making them rack their brains for ways to quickly increase their Luminescence. Instead of pursuing the upright path of finding starseeds through hard work, robberies and outright killings had become more normal.
+
+This was the main reason Ra’Klid couldn’t stop for rest. He’d already been robbed once upon returning, and every extra day he stayed outside the safety of the memory domains increased the risk of a repeat. The next time, he might not be so lucky to encounter a gentleman robber who only took away the starseed.
+
+Ra’Klid supposed that was the only advantage of being a dirt-poor frontier cultivator. The unfamiliar Sealbearer had only glanced at his Cosmos Sack and pitiful reserve of Nexus Coins before she left with disgust, too embarrassed to take anything else or cause further problems. Of course, Ra’Klid suspected it wasn’t a pure act of charity. Perhaps she figured having more people out looking for seeds would improve her chances of seizing more loot in the future.
+
+Ra’Klid had nothing but gratitude toward that little lady. He had no one to blame but his own weakness. A Middle Hegemon without great heritage was undeniably out of their depth when fishing in such murky waters. Just making it to Starfall Court in one piece with some currency to spare was nothing short of a miracle.
+
+And yet, what could he do but keep going? This was a risk that had to be taken, both for himself and for the Mavai Tribes. Emperor Atwood was forging ahead without stopping, and those who couldn’t at least move forward would be left behind. It was already becoming apparent that some factions within the empire would struggle to keep up.
+
+The undead were doing just fine, and the Zhix would remain the empire’s backbone so long as they figured out their cultivation system. The humans had the Emperor himself along with Joanna and Emily. Meanwhile, the Volor Turtles had given up on the pursuit of martial power, instead making themselves integral as the empire’s artificers. By now, they were responsible for nearly all weaponry and most of the arrays.
+
+The Ishiate and the subterranean molemen had shown themselves less capable of adapting to their new circumstances. Certainly, a small group of Ishiate machinists worked on war machines, while some molemen had managed to awaken racial abilities useful for sniffing out mineral veins. However, the races at large were more anchors than pillars during the Atwood Empire’s ascent.
+
+The two races of the Ensolus were marginally better off. The Raun spectrals had used their unique abilities to become valuable scouts during the war, but they were undeniably slipping further and further away from the Empire’s seat of power. They’d even failed to produce a sealbearer for the trial.
+
+The Mavai were doing alright, though not good enough in Ra’Klid’s mind. The tribes possessed few useful skills beyond combat, yet neither their numbers nor individual strength was enough to hold a dominant role in the armies. Relying on Ogras Azh’Rezak for sponsorship was out of the question. Fellow Demonkin or not, that man cared for nothing except himself and possibly the emperor.
+
+Ra’Klid had accomplished the first step of his plan, using the Reignender Seal’s enlightenment to create a Bloodline Cultivation manual tailormade for his people. He’d also managed to collect ancient seeds that would grow well on the steppes. With better resources and structured nurturing from a young age, the coming generations would reach greater heights than their elders.
+
+The next step was the need for a powerful leader, and who better than himself? In fact, he was the only option. Zachary Atwood had almost no impression of his fellow tribesmen. Part of it was Ra’Klid’s own fault. He’d eagerly stepped into the limelight when he seized control of the tribes. To ensure there was no internal turmoil or dissenting voices, he made himself both champion and sole ambassador of the Mavai.
+
+This was a role that he needed to maintain. A race without a powerhouse to champion their cause and maintain prestige would eventually be relegated and pushed aside. Certainly, Ra’Klid wouldn’t deny that part of his motivations was selfish. But so what? One would have to be a fool not to participate when the Grand Dao was up for grabs.
+
+It was because of those rattling thoughts that Ra’Klid didn’t immediately run the other way when an extraordinary fluctuation of Stellar Energy erupted in the distance. Ra’Klid’s eyes lit up with fervor and hesitation. There was simply no way that the newly emerged starseed was D-grade. A C-grade starseed—just how much merit would he earn from turning it in? It had to be four digits at the very least.
+
+Ra’Klid shifted gears, rushing down a winding branch leading in the direction of the treasure before he knew it. He kept going even after weighing the risks involved. He’d passed through the area once already and knew there were no Beast Emperors around. The only ones to contend for the prize were fellow trial takers and lower-grade beasts.
+
+Considering his proximity, there was even a chance he’d arrive first. He could pack up the seed and escape before anyone was the wiser. The basket he’d exchanged for inside the Starfall Court probably couldn’t hide a C-grade seed’s presence very well, but he was only two days away from the closest memory domain. He’d even set up a hidden pathway inside a trunk to avoid another robbery, improving the odds of a successful escape.
+
+The dream of seizing the treasure without hassle proved short-lived. Ra’Klid frowned with consternation upon sensing the unmistakable eruption of battle ahead. It was right atop the starseed, indicating at least two parties were next to the starseed when it spawned. At least one of them was a cultivator, too, since Ra’Klid could clearly feel the Dao of Conflict in the clashes.
+
+Ra’Klid kept going despite their strength being above his own. Seeing how desperate their battle was, he still had the chance to benefit from their hard work. Who knew, their greed might cause them to drag each other down to hell, leaving the prize unclaimed. Or was he deluding himself, his own greed making him a moth to the flame?
+
+With his war axe and shield in hand, Ra’Klid finally slowed down. He found a hidden crevasse and put the basket inside. After adding an illusion array and a layer of stone, it would remain hidden from even the most observant eye for an hour or two. After that, the starseed’s aura would overwhelm the array’s energy reserves.
+
+Ra’Klid activated [Harmony of the Steppes] as he set out. The empowering skill allowed him to blend his aura with the ancient root system while borrowing some of its strength. With these high-grade, Star-attuned plants, he gained extraordinary energy regeneration and a boost of 20% to his Endurance.
+
+The added resilience helped bolster Ra’Klid’s courage as he snuck closer, making sure to block his vantage with branches or leaves. It was lucky he activated the parasitic skill when he did. The closer he got, the more withered the branches became. It looked like the vitality for dozens of miles in every direction had been sacrificed to birth an extraordinary seed.
+
+Only when he’d drawn close enough to get directly involved if need be did Ra’Klid peer through a barrier of dense, withered foliage. His eyes didn’t zero in on the three combatants first, but rather the blindingly radiant seed just two miles away. It was the size of a watermelon and emitted such extraordinary light that his whole body came alive.
+
+It was only a moment later that Ra’Klid noticed the hundreds of ominous-looking spikes surrounding the seed. Brows furrowed in thought, Ra’Klid realized that the emergence of a C-grade starseed indeed wasn’t natural. It seemed more likely that someone had found a Peak D-grade seed close to maturity and forced it to evolve by extracting the lifeforce of the surrounding plants.
+
+Ra’Klid quickly figured out the situation. One party had come up with the plan to create a C-grade starseed, and their enemy had ambushed them the moment they enacted their plan. However, the ambush wasn’t entirely successful.
+
+On one side was an embattled human who sparked a vague recollection. She was fighting tooth and nail against two Late D-grade opponents, one of whom sported grievous wounds. Dozens of weapons were strewn across the battlefield. Occasionally, one would fly into the woman’s hand to unleash an almost suicidal attack full of power.
+
+Witnessing her all-out assault sparked one of Ra’Klid’s core memories: when Zachary Atwood descended on Ensolus and ended the war with a swing of his axe. She lacked the absolute domination of Emperor Atwood back then, but she carried that same unbreakable conviction in herself. Despite the wounds covering her body, there was not a hint of retreat in her eyes.
+
+‘Pretty Peak!’ Ra’Klid exclaimed in his mind as the dots finally connected.
+
+This fierce tigress was one of the rising stars of the Allbright Empire, at least until her ancestor fell in battle. More importantly, she was an old friend of Zachary Atwood, though Ra’Klid wasn’t exactly sure how close this bond was. Ra’Klid didn’t recall hearing anything from her side toward the end of the war. He figured she’d slunk away from the frontlines with the rest of the noblemen when the Zecia Alliance collapsed.
+
+Then again, it was hard to imagine this woman willingly putting her safety over the chance to strike down more Kan’Tanu. Even now, she was fighting the good fight. After all, it was two cultists whom she’d ambushed.
+
+‘I should have known a few of those bastards would find their way here,’ Ra’Klid thought with gritted teeth, the faces of tribesmen who’d fallen to their hands flashing through his mind.
+
+Despite a primal urge to mete out justice, or at least retribution, Ra’Klid didn’t immediately join the fray. Bastards or not, Kan’Tanu elites were tough nuts to crack. Worse, these two more felt like the scarier cultists they’d encountered in the depths of the Imperial Graveyard. There was a high chance they were actually cultists of the Black Heart Cult.
+
+That might not make any difference to someone like Zac, but their mere identity was enough to make drops of sweat run down Ra’Klid’s back. He would already have been running for the hills if not for the wretched state of one of the cultists. Half his body had already been replaced by withering tendrils of a Heart Curse, indicating he was close to losing control.
+
+‘Even half the merit of a C-grade fruit will rack up a pretty penny. And sowing some good karma with the big boss back home can’t hurt.’ Ra’Klid thought to himself as waves of Life churned through his body. His body had already grown to four meters by the time he shot out from the bushes, his target the still-unscathed cultist. ‘Provided I survive, that is.’

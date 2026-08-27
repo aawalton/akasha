@@ -1,0 +1,133 @@
+---
+id: d1d5cd0e-29ff-5fd9-ae48-ab55da5692d9
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 1"
+slug: 0297-b5-chapter-1
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 297
+ownLength: 1416
+unit: words
+ownProgress: 1416
+publishedAt: 2025-08-13
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2515699/b5-chapter-1"
+royalRoadId: "2515699"
+markedReadAt: "2026-06-29T19:15:54.449Z"
+---
+
+AriaFive years later
+
+I let out a brief yawn as I step out of the stomach of a large kraken. One that had died due to my blood’s poison, albeit only after an entire week of me being in it.
+
+Of course, the mana creature wasn’t too high in terms of its tier, making it possible in the first place.
+
+But something I find a little surprising mere seconds after I get out of its body is the sight of a System Notification appearing in my vision.
+
+User has leveled-up to level 125.
+
+User will now be given their eighth skill.
+
+Assessing user’s accomplishments and actions… assessment complete.
+
+User will now be given the following skill:
+
+Aura of Death
+
+To stand before Death is to stand before the end.
+
+All those marked as enemies of Death who do so shall be met with a shorter life.
+
+Beware Death, for She will not be denied in the end.
+
+Huh. That’s cool.
+
+Although…
+
+Is this a passive skill? It looks like a passive skill…
+
+So… how do I turn this off?
+
+I can’t help but frown as I look around myself at the rather ominous aura I’m giving off now. An aura that seems to be making the fish nearby flee for their lives.
+
+And for good reason, considering that the few weak fish here – I say few because of how deep I am in the Hunter’s Bay – end up aging at a rapid pace before my eyes. All while I see my death energy and the soul energy within my body being drained. Albeit rather slowly compared to how much I actually have built up.
+
+Guess I got my first real area of effect type skill. So that’s nice.
+
+On top of that, it’s another skill that reduces the lifespan of other creatures. Judging by these poor fish.
+
+I go ahead and begin testing my new skill for a bit, and from what I can tell, the skill is actually very useful in large scale combat.
+
+It is powered by my death and soul energy, with it getting more power from soul energy than death energy for some reason. And I can turn it off simply by thinking the name of the skill in my head, or turn it back on in the same manner.
+
+Lastly, I can target things to be hit by it when turning it on or target things not to be hit by it when turning it on.
+
+So I have quite a bit of control over the skill.
+
+As for the skill’s range? It seems to span for a few dozen meters around me. Which is a pretty large range for an area of effect skill.
+
+Overall, I’m rather satisfied with this skill. Especially since I’ve waited for twenty-five levels since my last skill.
+
+I also haven’t had as much time to grind in the Hunter’s Spot since beginning to teach lessons at the academy while also still raising the twins.
+
+It’s only in the past year or so that I’ve had a bit more time to hunt. And that’s mostly because the twins are teenagers now. With both of them being fifteen years old.
+
+My thoughts are interrupted when my terminal begins to buzz, making me glance at it to find a call from one of said twins. Which reminds me of the whole reason I was rushing to get out of the kraken in the first place.
+
+When I answer it, I immediately hear Ruby saying with more than a little exasperation in her voice, “Mom, did you get stuck in a mana creature’s stomach again?”
+
+I show her my surroundings, which is the cavern I’m currently passing through, just to prove to her that I am in fact not in a stomach.
+
+“So you just got out of a mana creature’s stomach?” the fifteen-year-old girl asks with a single brow raised, the girl clearly having taken after me in her mannerisms. Even if her twin brother didn’t.
+
+“That’s a rude assumption to make,” I comment without a hint of shame as I swim through the water. “I just got a new skill and was testing it out. And happen to forget about what I was about to do.”
+
+“Uh huh,” Ruby says, making me glance at the terminal again. “So you started testing a new skill after you got out of a stomach?”
+
+What is it with these people and assuming I’m always going to be in some mana creature’s stomach?
+
+I mean, it’s not entirely wrong as I do end up there more than I’d prefer, but still. It’s just rude.
+
+“How have preparations been going?” I ask while hopefully successfully dodging the topic as I glance at my adopted daughter.
+
+The girl has grown quite a bit in every way since she was ten. Except in height, which her brother often teases her about.
+
+She’s even shorter than I am at five foot three inches tall. An entire two inches shorter than me. Meanwhile her crimson streak in her hair is still there just like it’s always been, with the rest of her hair being a shiny black.
+
+On top of all that, she also seems to have taken some of my fashion sense in that she wears a black and red jacket quite often. Although that’s all in terms of the fashion she took from me, seeing as most of the time she walks around in more higher end and expensive tops and bottoms.
+
+And for some bizarre reason she got a taste for fancy shoes with heels.
+
+Probably because of her minor height complex.
+
+She is also currently raising a brow at my change of subject even as she answers, “Preparations have been going well. But they’d go better if you were actually here Mom.”
+
+“Don’t worry sweetheart, I am heading there now,” I comfort her with a smile on my face. “I just have to make it through a few Tiers of the Hunter’s Bay before getting back to the surface. You know how it is.”
+
+Ruby just stares at me.
+
+“I’ll be there in an hour,” I give up and answer her with a straight answer.
+
+“Make that fifty minutes,” Ruby says, still raising a brow at me.
+
+I narrow my eyes at the screen on my terminal as I swim through the tunnels of the Hunter’s Bay, occasionally passing by my own Death Spirits that are still killing off mana creatures with abandon. Not to mention the occasional hunters I see going around hunting mana creatures.
+
+Hunters who all nod their heads at me in greeting.
+
+A vastly different greeting from what I’m used to in a lot of the other Hunter’s Spots I’ve been to. Especially the Hunter’s Spots that are high up in the air where I end up taking shortcuts down to the ground.
+
+I wish Eternus had Hunter Spots like that.
+
+“Mom, you did it again,” Ruby says, reminding me that I’m in a call. “Anyways, Shirogane won’t start the ceremony without you, so please get here quickly.”
+
+“The ceremony wasn’t set to start for another few hours anyways, so it’s fine,” I answer her with a wave of my hand as I continue swimming. Choosing not to respond to her mentioning my habit of forgetting I’m in a call when I get lost in my own thoughts.
+
+“Mom, if you come to our graduation celebrational ball in anything but a dress that I pick out for you I swear I will grab your kindle reader and transfer all your favorite books out and replace them with books on ball etiquette,” Ruby says, threatening me rather harshly.
+
+“I’ll be there in half an hour,” I tell her with a salute as I swim.
+
+She rolls her eyes and looks like she’s about to end the call, only for my wonderful daughter to suddenly say, “Oh, and I’m telling Shirogane you got eaten again. He’ll be adding it to the betting pool.”
+
+My eyes suddenly lock on the screen while widening quite a bit, but Ruby’s face vanishes when she hangs up the call.
+
+Shit, I swear I’m going to beat up whoever started that betting pool. The betting pool meant for our little friend and family group of me, Ruby, Ryan, the Crimsons, Shirogane, and a bunch of other friends I’ve made over the years. Like Little Blue and Sel.
+
+I still have my money on it being Shirogane’s doing, but he denies it every time.

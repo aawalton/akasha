@@ -1,0 +1,145 @@
+---
+id: 1f74d7d2-c53e-50c2-a5d4-8c782a855b91
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 6"
+slug: 0230-b4-chapter-6
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 230
+ownLength: 1499
+unit: words
+ownProgress: 1499
+publishedAt: 2024-11-21
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1916443/b4-chapter-6"
+royalRoadId: "1916443"
+markedReadAt: "2026-06-29T19:13:33.466Z"
+---
+
+Aria
+
+The Archmage steps into the hall before immediately stepping up the stairs to the dais, nodding her head once to the emperor, and declaring, “Greetings, Emperor of the Eternal Dynasty.” Then she glances at Shirogane and looks him up and down for a second. “It’s a pleasure, young prince.”
+
+“Likewise, Archmage,” Shirogane answers with a nod of his own.
+
+And without another word, the Archmage turns around and simply steps off of the dais. Not even bothering with heading towards the stairs, instead creating her own stairs out of glowing blue and gold light.
+
+As she heads in the direction of both Famine and I.
+
+Before she makes it to either of us, she stops a little outside of our balconies, in the middle of both. Then she crosses her arms and says, “Two Horsemen of the Apocalypse in one place.” Her eyes narrow. “A rare sight.”
+
+I lean backwards against the balcony railing while glancing between her and Famine, who is no longer arguing with the other Grands on the balcony. With him now just glaring at Isabella instead.
+
+The Archmage clearly doesn’t like either of us. But I can tell she hates Famine far more than myself.
+
+Why exactly she hates me is still a mystery though.
+
+Famine leaves the balcony he is on and heads over towards the Archmage. Meanwhile the other Grands on the balcony along with their guards move over to join me again without a word now that they’re no longer tied up with Famine.
+
+Then we all just sit back and watch as Famine gets right up in Isabella’s face and suddenly grins like a maniac.
+
+“If it isn’t the little girl who was bawling her eyes out at my court just half a million years ago,” Famine says, once again antagonizing the Grand just like the others. “What was your name again? I can’t remember… not that it matters. What brings you here?”
+
+Huh. Not hard to tell why she hates him.
+
+Isabella’s cold look turns damn-near glacial as she focuses everything on him, ignoring me now that her fury has been ignited.
+
+“I came to give my greetings to the new crown prince, but you wouldn’t know anything about etiquette, now would you?” the Archmage strikes back at him. “After all, you’re nothing but a walking corpse in need of a burial.”
+
+Oh. Wow.
+
+She’s not holding back in the slightest.
+
+I glance back at the balcony’s railing, briefly wishing that I could just sit on it to watch this little event. But I’m in a dress right now. Not to mention at a formal setting, ignoring those two who are trying to tear each other’s heads off with words.
+
+“You say that, but aren’t you the one who was begging me to stop my conquest after you lost to me? At least, that’s what I remember,” Famine says with a smug look on his face as he steps backwards and looks down his nose at her. “Oh, it looks like you’ve regrown your energy over the years since I took compensation!”
+
+I glance at Raja, prompting him to whisper to me, “The Dread Empire was targeting the Arcadian Society when it was only a weaker power over half a million years ago. And at the time, the Archmage was merely a Tier 8 mage. She was nothing more than an upstart.” He glances at the two who are still fighting back and forth with words. “Famine found her amusing when she came to his court to beg for mercy. So he did what he found interesting. Drained her of most of her magic and a lot of her knowledge of magic and tossed her out to see what would happen.” The pharaoh keeps talking without any emotion in his voice, which is rather odd considering what he’s talking about. “The Archmage was left returning to her home as a Tier 3 mage. Weaker than some of her weakest subordinates. And it left her struggling to maintain control over the Society even with Famine leaving them be to watch it all happen.”
+
+He really is cruel… it’s no wonder she hates him with a passion. The man pretty much treated her life as a toy.
+
+Actually, not just her life, but her entire nation was just his plaything to him.
+
+“A couple hundred thousand years later, after she had already stabilized most of her power again and made it to Tier 9 as a mage, Pestilence began experimenting on some of the worlds belonging to the Society,” Raja says, explaining her reasoning for hating the Horsemen in general. “He turned a fifth of the worlds belonging to the Society into wastelands covered by nothing but the undead.”
+
+Hmm.
+
+Yeah, her hatred is understandable.
+
+Annoying that she’s taking some of it out on me though.
+
+“And War,” Raja continues, making me glance at him with a brow raised, “War never attacked the Society, but he has killed someone who the Archmage considered dear in a duel. Her father. So she has held a grudge against him since despite never meeting him.”
+
+I turn to look at Isabella again as she clenches her fist at her side and looks at Famine with an expression that looks really out of place on her face. One of absolute rage. Like she’s about to start tearing him apart at any moment.
+
+Famine keeps messing with her for a little while before he turns in my direction and waves, saying, “Well, I’m gonna head out. See ya at the meeting, little one!”
+
+I don’t give a response as he turns around and begins walking away. Only to vanish in a cloud of eerie famine energy.
+
+Leaving the hall a lot less tense than it was before.
+
+But the tense atmosphere returns when Isabella turns her attention on me, still looking incredibly pissed off.
+
+Ugh. Please don’t take your anger out on me just for being here.
+
+Right after having that thought, she begins to walk over towards me, only pausing when the guards all block her from moving onto the balcony itself. Then she looks me over from head to toe, her face turning from anger into a slight frown.
+
+And it’s only at this point that I realize something.
+
+We actually look a little similar in some ways. Albeit opposites in others.
+
+Our figures and bodies are rather similar. Same sizes up top, same height, same slim figure other than our chests, and even a similar look in our eyes. And it’s not just that, but our hair styles are pretty much identical. Same length, same style.
+
+But despite all of that, we also look like opposites.
+
+My hair is stark white, hers is a shimmering gold.
+
+My eyes are an eerie glowing crimson, hers are a glowing sea blue.
+
+We even both have a flower in our hair behind our ears as accessories. Except with mine being red and hers blue.
+
+Although our faces are very different, and her skin has an almost golden tinge to it unlike my incredibly pale skin.
+
+There can’t be any relation between us, though. After all, both my parents are crimsons. And Isabella is nothing like a crimson. The complete opposite.
+
+A brief silence fills the air regardless.
+
+Then Isabella’s frown turns more aggressive again, and she says, “So you’re Death.”
+
+I fold my arms under my chest as I look at her rather apathetically. Not really caring much about this ceremony anymore at this point.
+
+Considering how much annoying stuff has happened.
+
+Makes me wonder if I should bother going to the other celebrations if they’re gonna be anything like this one.
+
+“And you’re the Archmage,” I reply to her. “Nice meeting you.”
+
+She looks surprised, but I don’t really give her any time to respond further than that as I just turn around and lean over the railing again, looking down at the water as I continue, “Let’s meet again in the future sometimes.”
+
+Maybe.
+
+Possibly.
+
+Hopefully not.
+
+Probably best not to piss her off more right now. I just don’t care enough to deal with the trouble it would cause.
+
+The Archmage doesn’t say anything for a few seconds, following which the guards and the other Grands here start shooing her away. And she actually does leave.
+
+Although I notice a strange look coming from her as she leaves to go talk with other delegates and royals here.
+
+A look that is both confused and slightly annoyed.
+
+Like I’m not what she was expecting.
+
+Well, whatever.
+
+I turn to look out at the ocean again, resting my cheek against the palm of my hand, with my elbow on the railing.
+
+If she causes problems for me later on, that’s a future me problem.
+
+Right now I just want to get through the rest of these ceremonies so that I can go back to traveling and hunting.
+
+I let out a sigh at the thought.
+
+And to get away from the company.
+
+Because paperwork sucks.

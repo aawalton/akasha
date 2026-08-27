@@ -1,0 +1,595 @@
+---
+id: b59757dd-60ed-5984-8c38-28e5e316c76b
+page-type-slug: story-chapter-royal-road
+title: "133: Breaking"
+slug: 0133-133-breaking
+partOf: delve
+position: 133
+ownLength: 6080
+unit: words
+publishedAt: 2021-02-07
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/627111/133-breaking"
+royalRoadId: "627111"
+---
+
+Rain stumbled, then fell, crashing to the ground. He lost his grip on his hammer, hearing it clatter across the stones as he tumbled like a log. When he came to a stop, he found himself sprawled on his back, staring up at the storm clouds above.
+
+He tried to sit up and failed.
+
+Something is wrong.
+
+The rushing of blood in his ears was loud, but not loud enough to drown out the roar of the Fire Eater. The monster was almost upon them! There was no way that the others would be able to survive without his help. Not against something like that. Not against a dragon.
+
+I need to get up! I need to—
+
+Rain froze, and the clouds above him vanished, fading to black.
+
+It’s a nightmare! I’m asleep…
+
+With that realization, his eyelids flickered, then shot open. Any relief he might have felt was instantly replaced with panic once more as he found himself still unable to sit up. It took another fifteen seconds before his frozen body began to respond. He flopped like a fish tangled in a net, struggling against the meager resistance of the blanket. In his flailing, his fingers brushed against something warm and smooth.
+
+Ameliah snorted, rolling away from the contact. She pulled the blanket with her, exposing Rain’s right side to the frigid night air. After a moment, she breathed out slowly, then back in.
+
+She was still asleep.
+
+Rain felt tension drain out of him, though his heart was still beating like a drum. He raised his now-freed arm to his brow, finding it drenched in sweat, then sighed.
+
+Everything is fine. Lyn’s team made it back safely long before nightfall. They didn’t even see the Fire Eater down there, and I certainly wasn’t with them. He took another deep breath, then let his hand fall back to his side. Why wasn’t I using my auras? Wait… the hammer. Was I supposed to be Thor?
+
+He sat up slowly, untangling himself from what little blanket Ameliah had left him while being careful not to disturb her. Once he was free, he sat cross-legged and buried his face in his hands. Lingering adrenaline was making him shaky, or perhaps that was just more evidence of the damage to his soul.
+
+Closing his eyes and focusing on his breathing, he faded Winter down to zero, then ran some scans with Detection. Nothing was out of place. Satisfied, he brought up Purify to one percent, then left it there. The linen shirt and pants that he’d been using as pajamas were positively soaked.
+
+Rain sighed wearily. I guess I can add sleep paralysis to my list of symptoms. Wonderful. Just wonderful.
+
+[Rain-King?] The thought was fuzzy, the slime not fully awake.
+
+[It’s okay, Dozer,] Rain sent back—less in words and more as a feeling of peace. The slime’s presence in his mind receded slowly, then the link went quiet once more.
+
+Rain opened his HUD to check the time. It was just before three AM. Blinking away his fatigue, he lifted his head from his hands and looked up. The sky was dark, without so much as a star peeking through the clouds. By the light of the light bulb socketed in the wall, he could see a dusting of snow adorning the glass pane that Ameliah had propped over their sleeping area. The stone floor outside of this meager shelter was coated as well, though the snow seemed to have stopped.
+
+Opening his full interface, Rain verified that everything was as it should be. It was. His Focus tolerance had ticked up twice between when he’d gone to bed and now, and his macro was still working. It had automatically transferred points from Vigor to compensate, just as he’d configured it to do.
+
+He dismissed the menu with a shake of his head, then gently lowered himself back down beside Ameliah. Ever so carefully, he slid back under the blanket, reclaiming as much of it as he dared. Her soft breathing beside him was calming, and his heart rate had finally slowed to something approaching normal. Now clean of sweat, though still feeling a bit damp, he switched back to Winter, fading it up slowly. He didn’t want to disturb Ameliah or any of the other sleepers in the adjacent rooms.
+
+“Go back to sleep,” Ameliah said, her voice muffled by her pillow. Rain twitched in surprise as she rolled onto her back, her hand finding his beneath the blanket. She threaded her fingers through his own, squeezing gently.
+
+Rain squeezed back. “Sorry. I didn’t mean to wake you. I had a bad dream.”
+
+Ameliah mumbled a reply, sounding even less awake than Dozer had been. She let her head fall to the side, her cheek coming to rest on his shoulder. Rain smiled, giving up in his efforts to straighten the blanket.
+
+This is good enough.
+
+He was still holding her hand when he fell asleep once more.
+
+Tarny stopped outside the curtain leading to Rain and Ameliah’s room, listening carefully, for he was afraid of what he might hear. Finding only silence, he relaxed, then loudly cleared his throat. There was no response, so he did it again, even louder this time.
+
+“Who’s there?” Ameliah asked from within.
+
+“Tarny, my lady,” he replied. “Is Rain there?”
+
+“He is,” Ameliah replied. “Come in.”
+
+Pushing aside the curtain, Tarny looked around the small room, seeing both Ameliah and Rain seated cross-legged on the ground. Rain was wearing his full armor, including the helmet and cloak. He’d clearly been there a while, as there was a quarter-finger of snow blanketing him. Ameliah, on the other hand, was snow-free, seated beneath a pane of glass propped up by columns of stone.
+
+They were meditating. I see. Why does Rain always wear his armor for that? He shook his head. “Rain, it’s almost time for the vote.”
+
+Rain didn’t respond. Ameliah chuckled, then got to her feet and stretched. She walked over to him, then shook him gently by the shoulder, sending fluffy snow swirling to the ground. “Hey.”
+
+Rain jerked, then his head pivoted to look at her. “Huh?”
+
+“It’s almost time for the vote, Captain,” Tarny said.
+
+Rain’s head swung to face him, and he reached up and removed his helmet. “Already?” There was a wave of heat, and the snow coating him melted, along with that on the floor. Steam began to rise as he held the spell steady.
+
+“It’s nine twenty-four,” Ameliah said, helping Rain to his feet. “I guess we both lost track of time.”
+
+“Did you—“ Rain began, but Ameliah shook her head.
+
+“No. It was relaxing, but no more than that. Well, and a bit boring, if I’m being honest.”
+
+“Oh,” Rain said, sighing. The heat vanished, and the chill of Winter returned. He bent, retrieving his belt and the various pouches hanging from it, as well as his sword.
+
+Ameliah smiled. “I’ll try again tomorrow. I don’t give up that easily.”
+
+Tarny raised an eyebrow. “What are you trying to do?”
+
+“Soul stuff,” Ameliah said with a shrug. “I’m trying to do what Rain’s been doing. Get a look at my soul. He wants to know what a healthy one looks like, not that I think mine is particularly healthy.”
+
+“Compared to mine, every soul is healthy,” Rain said despondently. He released his helmet, having tied it to his belt. The metal rang briefly as it came into contact with his armored leg.
+
+Tarny grimaced, sharing a look with Ameliah. I should ask if he’ll teach me as well. He shook his head. This isn’t the time. “Do you want me to tell Vanna to continue without you?”
+
+Rain shook his head. “No. I need to be there for this.”
+
+“You’d better hurry then,” Ameliah said.
+
+Tarny nodded, and Rain and Ameliah followed him out of the room.
+
+“What the hell happened in here?” Rain asked.
+
+Ameliah laughed. “Tallheart happened. He wasn’t happy with the workshop, apparently.” She gestured to the fallen wall. “After breakfast, he decided to do something about it. He won’t let me fix it until he gets back from the city. He said he’d need some things before he’d know how he wants the room.”
+
+Rain snorted. “I guess we’re holding the vote in the tavern then. Why didn’t he just ask Mlem to get whatever it was?”
+
+Ameliah shrugged. “Maybe whatever he needs is too big?”
+
+“I guess I’ll find out later,” Rain said, gesturing to Tarny. “Let’s go.”
+
+Tarny nodded, picking a path through the rubble toward the sound of voices. When they passed through the archway, a hush swept over the room as everyone turned in their direction. Some of those nearest them shied back, looks of unease on their faces. Not everyone here was a member of Ascension. There were perhaps thirty visitors from Vestvall, and the room was packed well past its capacity. That was fine, as today’s vote wasn’t a private matter. It concerned them too.
+
+“Wow,” Rain said, blinking.
+
+Ameliah raised her hands slowly. “Relax, everyone. You’ll get used to it.” She stepped closer to Rain, wrapping her arm through his. “You were right. There are even more of them today.”
+
+Tarny smiled. The captain is always right.
+
+Vanna, who’d been standing atop one of the tables, jumped down and threaded her way over to them, the crowd parting before her with some difficulty.
+
+“Are you sure you want this, Rain?” she whispered upon reaching them. She looked around at the watching faces. “You could just strike it down. I’m sure everyone will go along if you really think—”
+
+Rain shook his head, holding up a hand to stop her and replying in a low voice. “That’s not how I want it to work, and you know it. I’ve said my piece. The company will decide.”
+
+Tarny frowned, quickly hiding the expression as Rain turned to survey the crowd.
+
+“Tarny, is everyone here?”
+
+“Other than Tallheart,” he replied quickly. “His vote is in the box.”
+
+Rain nodded, then turned to Vanna. “Go ahead.”
+
+Vanna inclined her head, then returned to her table. She climbed back atop it and raised her hands for quiet, though the room was essentially silent already. “Everyone, it’s time to vote on what we talked about last night. I’ll go through it briefly one last time.”
+
+She extended her left hand, palm up. “A ‘no’ vote means no change. Anyone who wants to join has to pass the combat test and the interview. After that, they become a full member. Awakened only have to pass the interview.”
+
+Lowering her hand, she lifted her right in its place. “A ‘yes’ vote means that the codes will be modified to create a two-tiered system of membership. After passing the same tests as before, recruits will be admitted as provisional members. You should all know the details after last night’s discussion, so I’m not going to repeat myself.” She cleared her throat, glancing at Rain, who was frowning slightly. “I urge you to vote for the new rules,” she continued. “I truly believe that we need to do this and that the old system won’t work as Ascension grows.”
+
+Tarny clenched his fists, stepping closer to Rain. “You’re really not going to say something, Captain?”
+
+Rain glanced at him, then shook his head slightly, his face turning neutral once more. “No,” he said softly. “People know where I stand.”
+
+“What if you lose?” Ameliah asked, speaking so softly that Tarny barely caught her words.
+
+Rain shrugged, though his frown had returned. “Then I lose.”
+
+“Vote by placing your slip in the box,” Vanna continued. She pointed to the wooden enclosure, sitting on the next table over. “If for any reason it was unclear, only Ascension members have a say in this. My brother and I will be guarding the box to ensure that there is no interference. Everyone, you have fifteen minutes to discuss and cast your votes.” She jumped down from the table, and the hush broke, the mutter of quiet conversation rising across the room.
+
+Ameliah jostled Rain’s shoulder, speaking in a more normal voice. “You know, I really don’t understand you sometimes.”
+
+“What?” Rain asked, looking at her.
+
+She gestured. “This company was your idea. I’m surprised you’d just let it…get away from you like this. What if you’re right, and this turns into, um, what was the term you used? Debt slavery?”
+
+Rain snorted. “I might have gotten a bit carried away last night.” He rubbed at the bridge of his nose, a clear sign that he was getting one of his headaches. “It will never get that far,” he said, dropping his hand. “I have my problems with the new system, but it isn’t like we can’t fix it later.”
+
+“You can still stop it,” Ameliah said. “I know you don’t want to be a dictator, Rain, but it’s okay to use your veto.”
+
+Tarny nodded. “I agree. You should use it. That’s what we added it for.”
+
+Rain smiled, then shook his head. “Not for this. Come on. It’s democracy time.”
+
+The snow had begun again by the time the vote was over. It was falling in small flurries, whipped by the wind, and the day was shaping up to be bitterly cold.
+
+Despite the temperature, Rain didn’t have Immolate running as he exited the camp. A few points of Cold resistance were more than sufficient to pull the teeth from the harshest winter. He still felt the chill, of course, which was the point in leaving the aura inactive. It was refreshing.
+
+Ameliah walked beside him in the snow, looking like she wanted to say something but wasn’t sure how to begin. Rain decided to give her time rather than ask. He stepped off the trodden path that led to the city, heading for a medium-sized boulder that looked like it might be a good place to sit.
+
+He and Ameliah had dealt with the remnants of the night’s defense first-thing this morning. The ground was uneven beneath the snow, frozen with gouges and impressions of monstrous feet. In contrast, the dirt floor within the camp had been packed down to the point that it felt almost like stone. It wasn’t worth Ameliah’s mana to do the same out here, given that there were so many other things for her to use it on—the walls, for example. In addition to repairing the damage from Tallheart’s impromptu remodeling session, she’d need to expand them now. With the issue of recruiting resolved, Vanna planned to start processing applicants this afternoon.
+
+“Rain, are you okay?” Ameliah asked, pulling him out of his contemplation.
+
+He turned to look at her, then nodded. “I’m fine.”
+
+“How can you be fine? It wasn’t even close.”
+
+Rain smiled as he sat on the snow-dusted boulder. “Sure, I’m sad about how the vote turned out, but there’s something else that’s making me happy enough to offset it.”
+
+“And what’s that?” Ameliah asked, kneeling to touch the side of the stone.
+
+Rain smiled, feeling the rock shift beneath him, becoming more chair-like. “You.”
+
+The boulder froze in its metamorphosis as Ameliah looked up to stare at him, her cheeks flushing slightly.
+
+Rain couldn’t contain himself, bursting into laughter. Abruptly, the top of the boulder pitched diagonally, dumping him onto the ground. He kept laughing as Ameliah sat, taking his place and reforming the stone beneath her.
+
+He sat up, then dusted himself free of snow. “Sorry, it was just such a perfect setup. That was too cheesy to resist.” He smiled. “I meant it, though. You do make me happy.”
+
+Ameliah snorted. “You make me happy too. You’re also annoying.”
+
+Rain chuckled, leaning against the rock from his position on the ground. “I’m not upset about losing the vote because it means people are willing to stand up to me.”
+
+“And that’s good?”
+
+Rain snorted. “Of course it’s good. I barely know what I’m doing, Ameliah. I want people to challenge me. They should.” He smiled. “I’ve only been here for like three months. It seems like a lifetime, but there’s just so much I don’t know. I’ve been trying to model the company after examples from my own world, but I’m realizing that people aren’t…ready?” He shook his head. “No, that sounds condescending. Um…”
+
+“I get it,” Ameliah said, resting her hand on his shoulder. “Would you go back? If you could?”
+
+Rain shook his head vehemently. “No way.”
+
+“What if I came with you?”
+
+Rain smiled. “Now that would be something. Just the look on your face when you saw a city…” He chuckled, then shook his head. “Maybe just to visit. I don’t think magic would work there, and without it, I’m nothing.”
+
+“No, you’re not,” Ameliah said. “Don’t say things like that.”
+
+Rain began to reply, but the words froze on his tongue. His automated Detection macro had gotten a hit on the threat list, which included monsters, people he didn’t know, and a few people that he did. Quickly, he ran through the identification sequence.
+
+Human? Human that I know? The Crimson Swords? Balls.
+
+Rain stood up, looking in the direction of the signal. “Ameliah, Hegar and his friends are coming.”
+
+“Shit,” she said, standing as well. She looked back at the camp, then at him. “Do you want to meet them here?”
+
+Rain nodded, lowering his voice to a whisper. “Can you Message Vanna, please? I want her to get Lana out of sight first, then get the camp ready for scenario two. Everyone is to stay back for now.”
+
+Ameliah didn’t reply immediately, staring in toward the walls. A few seconds later, she looked back at him, then began signing in hand code. “Done. I’ll warn Tallheart too and ask him to hurry back. I’m sure I can handle them, but I’d still feel better with him here.”
+
+“Good,” Rain signed back with one hand, fumbling with his helmet with the other. He managed to get it undone from his belt, then slipped it on. This accomplished, he concentrated, not on the system’s interface, but on the layer he’d been steadily constructing on top of it.
+
+macroset combat_default -v
+
+Default Combat Posture
+
+Stat boost available: 193/173
+
+Base State
+
+Strength: 40/40
+
+Endurance: 20/20
+
+Clarity: Remainder, 133/167
+
+Winter: Active
+
+Mana Manipulation: Inactive
+
+Precepts
+
+Offensive Aura safeties disabled
+
+Detection macro active
+
+Combat HUD activated
+
+Skill cards activated
+
+Focus Boost
+
+Auto Trigger: Focus-scaling aura use
+
+Focus is prioritized up to tolerance + 20
+
+Points are taken first from Clarity, then evenly from Strength and Endurance, provided that health and stamina will not be impacted
+
+Strength Boost
+
+Keyword Trigger: Strength
+
+Strength is prioritized up to tolerance
+
+Points are taken from Clarity only
+
+Defense Boost
+
+Keyword Trigger: Defense
+
+Endurance is prioritized up to tolerance + 20
+
+Points are taken from Clarity only
+
+Cur
+
+Max
+
+Health
+
+1,549
+
+2,000
+
+Armor
+
+13,338
+
+13,338
+
+Saturation
+
+0
+
+13,202
+
+Stamina
+
+347
+
+600
+
+Mana
+
+8,092
+
+8,092
+
+He glanced briefly at the reminder window that described the macro set, then brushed it aside, leaving just his HUD. He signed to Ameliah again urgently. “Heal me for five hundred, please.”
+
+Wordlessly, Ameliah grabbed his hand, and health rushed into him, bringing him up to maximum.
+
+“Thanks,” Rain signaled, adjusting his cloak to conceal his sword and using Essence Well to repay her the mana she’d spent and then some. A window appeared, but he didn’t even look at it. Ameliah indicated that she was full, and he stopped, Essence Well’s card disappearing automatically as Winter returned.
+
+Theoretically, Rain could have asked her to fill his stamina as well, but that was a transfer, not a conversion. He had no way to help her replace it, and if things went to shit, she’d need stamina more than he would. Besides, there was no time.
+
+Hegar rounded the hill that had been blocking him from sight. “Flaming… Gah!” he shouted, drawing his rapier in a blur.
+
+Reflexively, Rain activated Force Ward.
+
+Force Ward (10/10)
+
+Channel: 100%
+
+Compression: 13 meters
+
+Increase physical resistance by 68.04% for all entities
+
+Range: 5 meters
+
+Cost: 1 mp/dmg mitigated
+
+“You were right, Gar,” Anton said, following Hegar into view. “They knew we were coming.”
+
+“Hello,” Brovose said mildly, nodding to them. “How did you detect us? Was it Scrying Pool? Piercing Gaze? Danger Sense?”
+
+Rain glanced at Ameliah out of the corner of his visor, but her face was a mask. He looked back at Hegar and frowned, ignoring Brovose entirely. Hegar was the one pointing a weapon at them. “Why are you here?”
+
+“I’m here for what’s mine,” Hegar said, not lowering his sword.
+
+Rain sensed Ameliah shift beside him. He adjusted Force Ward up by another ten percent, then shook his head. “She doesn’t belong to you. She doesn’t belong to anyone.”
+
+“I…” Hegar began, then paused. “What? Oh, Lana. Her too, obviously. I meant the crack.” He swished his sword, gesturing toward it. “It’s ours.”
+
+“No, it isn’t,” Ameliah said, her voice like ice. “Leave.”
+
+Rain winced. Don’t escalate!
+
+“You dare?!” Hegar gasped, lowering his arm. Anton was grinning like a shark, twirling an arrow between his fingers.
+
+Brovose merely yawned.
+
+Hegar snapped his sword back up, pointing at Rain faster than he could react. “I challenge you to a duel! Winner gets the crack and the girl! Loser leaves Vestvall for good!”
+
+[Don’t do anything,] Ameliah said, using Message to send the silent words straight into Rain’s mind. [Let me handle this.]
+
+She stepped forward, and Hegar grinned, shifting his sword to point at her. “So, you accept?”
+
+Ameliah shook her head. “No. There will be no duel. Leave.”
+
+“No duel?” Hegar asked, twirling his rapier in an elaborate flourish before spreading his arms in a mocking gesture. “Are you afraid?”
+
+“No,” Ameliah said coldly.
+
+“I told you this was the wrong way to handle things, Hegar,” Brovose said mildly. “Though I don’t know why I bothered.”
+
+Hegar whirled on him. “Shut up! I’m the one who talks!”
+
+“Let’s deal, then,” Anton said, ignoring Hegar’s spluttering. “We can both get what we want. We’ll delve together. You get the blues, and we get the rest. All of it. Anything of value.”
+
+Ameliah glanced at Rain. [I don’t trust them, and I wouldn’t want to work with them even if I did. What do you think?]
+
+Rain shook his head, addressing Anton. “No. That won’t work for us.”
+
+“Why not?” Brovose asked, sounding curious.
+
+Rain frowned but didn’t reply. One, Ameliah doesn’t trust you. Two, I don’t trust you either. Three, you’re assholes. Four, we don’t need you. Five, blues are rare, and there’s no guarantee we’ll even find one. Six… I don’t need a six. You don’t need to do the math to know it’s a shit deal.
+
+“Leave,” Ameliah said. “Final warning.”
+
+Rain looked at her uneasily. I know she told me to let her handle this, but…
+
+“This is a violation of Guild law,” Hegar snarled. “You have no right!”
+
+“It isn’t a violation, and even if it were, the Guild has nothing to do with this,” Ameliah said icily. “This is about what you did to Lana, as well as Stint and the people of Vestvall.”
+
+“What the hells are you talking about, woman?” Hegar demanded. “We haven’t done anything!”
+
+“Five,” Ameliah said.
+
+Rain shifted closer to her uneasily. I hope you know what you’re doing…
+
+Anton tilted his head. “Five what?”
+
+“Four,” Ameliah said. A tremor ran through the ground. She’d used Stoneset, transforming the earth beneath their feet temporarily. [If they strike first, don’t hold back. They won’t. And to be clear, I’m not bluffing.]
+
+“Ah, I get it. So you’ll duel after all!” Hegar said, taking a stance. He gestured at the circle of stone, barely visible beneath the snow. “So nice of you to make us an arena.”
+
+Ameliah shook her head. “No, not a duel. Three.” [They’ll expect us to attack on one, not zero. I’m going to need your help. I’m not sure I can hold them off until Tallheart gets here.]
+
+Hegar had replied while Ameliah had been speaking, but Rain had been too focused on her words to hear a thing he’d said. It was all he could do to keep the panic he was feeling from showing on his face.
+
+“Two.” Ameliah’s voice had become strained—not from exertion, Rain realized, but from anger.
+
+[Rain, I know you won’t think this is necessary, but I’m telling you, it is. If we can’t intimidate them, we’ll have to fight, and fight for real. Even if they leave, they’ll probably just come back when we’re not expecting them, or when we’re not here to protect the others.]
+
+The rock that they’d been using as a chair tore itself free from the newly-hardened ground, sending gravel skittering across the snow. It was larger than he’d thought, about the size of a refrigerator, with more than half of it having been hidden below the surface.
+
+“Everyone, calm down!” Brovose said urgently, cutting off Hegar in the midst of his angry ranting. The red-haired mage had taken a step back and was pointing at the hovering boulder. “That’s Stone Balance. It’s tier-two, but boosted somehow. The amount of power she’s showing is dangerous, Gar. She’s serious about this.”
+
+“Good,” Hegar said, grinning and taking a duelist’s stance. “I’m serious too.“
+
+“One.”
+
+“Ameliah, no!” Rain shouted, whipping his head around to stare at Ameliah. He threw out his arm, intent on placing a hand between her and Hegar.
+
+He was nowhere near fast enough, only beginning the motion as three things happened all at once, accompanied by a rumble of shifting earth.
+
+First, Ameliah jumped. She flew toward the hovering stone, and it began moving ever so slightly to meet her—Rock Pull, drawing them together proportional to their masses.
+
+Second, Anton’s arrow hammered into the side of Rain’s head. His mana dropped, and the force of the impact sent him spinning to the ground. He hit the stone surface, hard. His head rebounded, though the Forceweave padding absorbed the worst of the blow.
+
+His new position allowed him to see the third thing that had happened—also the source of the rumbling sound. Between him and the Crimson Swords was a wall of mud taller than a house. Ameliah must have summoned it at the same time she’d pulled herself away. There was a hole in the wall like an exit wound where Anton’s arrow had blasted straight through.
+
+“HAAAA!” Ameliah shouted, soaring over the boulder. She sling-shotted around it like a comet dive-bombing the sun, tracing a hand along its surface. A trail of orange light followed her fingers, and Rain’s eyes widened, shaking him out of his daze. Rockbomb.
+
+Ameliah’s feet hit the ground before the boulder did, and she dropped straight into a wide squat. She punched out with both hands, and the enormous stone blasted forward, headed straight for where Hegar and the others had been standing. There was a thud of impact as it smashed its way through the wall of mud, but no explosion. Rockbomb took a few seconds to activate fully, and it hadn’t been nearly that long.
+
+Rain cursed, scrambling back from the expected detonation, but it didn’t come. There was a flash of blue light from the other side of the wall, then a brighter flash of orange, but no sound.
+
+What?
+
+As Rain got back to his feet, Ameliah leapt through the hole in the wall, corkscrewing through the air. Rain reached out, perhaps to try to stop her, he wasn’t sure, but she was already through. He didn’t have time to consider whether he should follow, as a flicker of motion had brought his gaze to the top of the wall.
+
+Hegar was standing there, pointing his rapier at him in challenge.
+
+“Draw your sword, Swordmage!” Hegar shouted.
+
+Another hole exploded in the wall, and a second arrow hit Rain in the face, not even a centimeter below the eye slit of his helmet. His head snapped back, and he fell, Force Ward consuming a few hundred more points of mana. With the Hardness rune active, his armor could withstand up to eight hundred and four physical damage without being harmed. The aura had taken up the slack, the system apparently having decided that his armor’s integrity was more important than his mana reserves.
+
+“Damn it, Skinner!” Hegar shouted over his shoulder as Rain pushed himself up into a sitting position. “I want to duel him one-on—ahh!”
+
+Hegar was blasted off the wall. Ameliah had thrown a Stone Spear, and it had drilled into his back, sending him flying before spinning away on a slightly different trajectory.
+
+[Keep him busy,] Ameliah said. [I’ve got the other two.]
+
+Rain sat up, spotting one of Anton’s arrows lying on the ground in front of him. The tip had been blunted by the impact with his helmet. He raised a hand to his faceplate in stunned horror. If that had been a centimeter higher…
+
+“Damn it!” Hegar said, dusting himself off. He stretched, rubbing at his back, before turning to look at Rain. “Hey, what’s wrong with you? Don’t tell me Skinner actually got you with that cheap shot. Come on! On your feet and draw!”
+
+Rain forced himself to look away from the arrow. Force Ward would have stopped it; it would have just cost more mana. Fuck, if not for that Mud Wall... He shook his head, getting to his feet. Focus on the problem in front of you. Worry about how you almost died again later.
+
+“There we go,” Hegar purred roughly, falling into a dueling stance. “Come at me.”
+
+Rain raised a finger, signaling him to wait. The earth shook, and there was grinding of stone-on-stone from beyond the wall, but he forced himself to ignore it. Ameliah will be fine. She’s silver; they’re not.
+
+He cleared his throat. “Ruleset?” She told me to keep him busy, so I’ll keep him busy.
+
+Hegar laughed, swishing his blade. “How traditional? Let’s see. We’ve got the ring, so… Osaran?”
+
+Rain tilted his head as if considering, waiting for as long as he dared. “Osaran rules…” he finally said, speaking slowly. “That would mean one on one. To incapacitation, surrender, or ring-out. To be clear, that means non-lethal.”
+
+Hegar grinned. “No it doesn’t. What would be the fun in that? A dead body is pretty damn incapacitated.”
+
+Damn it. Does he even know the same rules as I do? I need more time.
+
+Rain clenched his teeth, then gestured. “Osaran rules dictate an arena. Shall we use the stone circle?”
+
+Hegar laughed. “I already said that. You’re stalling. Draw or die a coward!” He spun his sword in an elaborate double figure-eight, then charged.
+
+Velocity Nova!
+
+Velocity (10/10)
+
+Amplify, Extend, Focus
+
+Channel: 200%
+
+Compression: 98 meters
+
+6393.60% boost to speed for all entities
+
+Range: 10 meters
+
+Cost: 540 mp/s
+
+When Rain’s senses returned one second later, Hegar was picking himself up off the ground, spitting out a mouthful of gravel. The path of disturbed snow from his passage extended over the edge of the stone ring and into the dirt.
+
+“Nice faceslide,” Rain said, making no move to draw his sword. Doing so would only encourage Hegar to attack. Velocity wouldn’t work again, or at least, he couldn’t risk it. In his tests, he’d found that humans could be surprised by the spell, unlike monsters. Those were typically either inherently resistant or not. Unfortunately, now that Hegar knew to expect the speed boost, his Arcane resistance would negate the effect—or worse, he’d find some way to use it to his advantage.
+
+“Flaming horse shit!” Hegar swore, stomping back into the ring. “That doesn’t fucking count! I wasn’t ready!”
+
+“You are the one who proposed Osaran rules,” Rain said, trying to project confidence. I have to keep him talking.
+
+There was a flash of red light from the other side of the wall, and Ameliah screamed.
+
+“No!” Rain yelled. He turned for the wall but stopped, his eyes flicking back to Hegar as they detected motion. The man was wearing a confident smirk, rapier raised in warning.
+
+Rain clenched his fists. Fuck stalling. REFRIGERATE!
+
+Refrigerate (10/10)
+
+Amplify, Extend
+
+Channel: 200%
+
+Compression: 31 meters
+
+Focus Boost: 139/119
+
+1424.76-1628.29 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 5 meters
+
+Cost: 900 mp/s
+
+The shell of arctic magic around him was like an explosion—not of fire, but of ice. His armor shone with azure light, and frost-laden wind whipped his cloak about him as the air pressure plummeted.
+
+Rain had the spell at full power, using everything but Aura Focus. Anyone standing within five meters of him would be subject to enough cold damage to kill a regular person seven times over every single second the spell was active. At this level, and with the amount of Cold mana in the winter air, the travel time of the magic was negligible.
+
+For the next eight seconds, Death Zone would live up to his name. He’d have to, and even then, it might not be enough. He’d done the math, and by his projections, it was plausible that Hegar’s health was greater than ten thousand.
+
+With a screech of freezing metal and breaking ice, Rain ripped his sword from the scabbard at his waist and charged through the falling snow.
+
+Hegar had shielded his face from the magic but lowered his arms moments later. He was smiling despite the frost covering his skin and the layer of ice that had frozen over his yellowed teeth. “Well, all right then!”
+
+Rain raised his sword, feeling the cold seeping into his bones.
+
+Six seconds left. First Sparrow: Darting Pass
+
+There was a sharp metallic snap as Hegar’s sword met Rain’s, shattering Rain’s blade in two. Hegar looked almost as surprised as Rain felt. “What?” he said dumbly. He stared at his rapier, still raised in a block.
+
+Rain grit his teeth. Refrigerate isn’t enough. He’s got too much resistance. He swung his left fist in a wild haymaker, trusting that his armor would be more resilient than his sword had been. He didn’t activate his Strength boost. As with his last attack, the strike was just a distraction.
+
+macroset limit_break
+
+Rain felt his bone marrow begin to burn as his override pushed every single point he had into Focus. Not 139, the maximum that he could use safely with his current tolerance. Not 193, the limit of what he could spread across all of his stats. 287. The absolute limit. Every last erg of power that the Malleable Ring could provide.
+
+The numbers on the skill card hanging in the air updated, reflecting the change.
+
+Refrigerate (10/10)
+
+Amplify, Extend
+
+Channel: 200%
+
+Compression: 31 meters
+
+Focus Boost: 287/119
+
+2028.95-2318.80 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 5 meters
+
+Cost: 900 mp/s
+
+He could survive the boost temporarily, he knew. He’d done so once before by accident. He was less sure that he’d survive what he was planning to do next.
+
+Hegar sidestepped Rain’s fist, his rapier bursting alive with a bloody light. The crimson blade found his shoulder, digging for a non-existent gap. The armor durability bar on his HUD went from full to about a third in an instant—9,999 damage, the damage limit. Fortunately, this area wasn’t rank ten or higher; otherwise, Rain likely would have died then and there.
+
+The impact was still devastating. Crimson light spiderwebbed through his armor, and there was a screech of tortured metal. The force twisted his torso around, wrenching his back horribly and sending him spinning to the ground. Any pain he might have felt from this was nothing compared to the fire within his bones. He was grinding his teeth together so hard that it felt like they would break.
+
+If he couldn’t overcome Hegar’s resistance, he’d die, whether it was because his mana had run out or because Hegar hadn’t waited that long to kill him. If that happened, Hegar would be left free to do whatever he wanted, including killing Ameliah, and maybe everyone in the entire company. Tallheart could probably stop him, but Tallheart was too late. He wasn’t here. There was no one else.
+
+No more hesitation. Hesitation is death.
+
+REFRIGERATE NOVA!
+
+Refrigerate (10/10)
+
+Amplify, Extend, Focus
+
+Channel: 200%
+
+Compression: 90 meters
+
+Focus Boost: 287/119
+
+10520.50-12023.42 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 18 meters
+
+Cost: 2700 mp/s

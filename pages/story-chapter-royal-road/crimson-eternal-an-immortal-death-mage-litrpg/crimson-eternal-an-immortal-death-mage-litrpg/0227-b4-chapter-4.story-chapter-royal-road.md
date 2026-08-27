@@ -1,0 +1,153 @@
+---
+id: 1a8a32c3-df89-5833-8eee-2a9d2d8f1eeb
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 4"
+slug: 0227-b4-chapter-4
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 227
+ownLength: 1544
+unit: words
+ownProgress: 1544
+publishedAt: 2024-11-13
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1901596/b4-chapter-4"
+royalRoadId: "1901596"
+markedReadAt: "2026-06-29T19:13:27.382Z"
+---
+
+Aria
+
+I let out a yawn as I lean over the railing of the balcony, looking out at the ocean and the full moon shining at the edge of the horizon. The ceremony itself is held in a large castle far from most cities, so there isn’t really much to see beyond the ocean from here.
+
+Not that I mind. It gives me a nice view while I’m sitting here bored to death.
+
+At least the dress the girls put me in is at least comfortable.
+
+And I’ll admit, it does look nice.
+
+The other people here seem to agree considering how much they’re staring at me. And while I would first assume it’s because I’m Death, some of them are obviously admiring my looks without really hiding it.
+
+Well, whatever.
+
+I yawn again, only to turn my head while resting it on the palm of my hand, my elbow sitting on the railing as I look back at the doors of the hall. With the gazes of most of the people here turning to look as well when they open to reveal someone I actually recognize entering.
+
+Haven’t seen him in a very long time.
+
+To my complete lack of surprise, the pharaoh of the Rex Dynasty of the Dead nods and waves at me the instant he enters the hall, pretty much ignoring the emperor and crown prince of the Eternal Dynasty in the process until I nod back. Then he starts walking up the stairs to the raised dais of water.
+
+Yeah, Shirogane told me this would likely happen. Apparently the pharaoh barely ever attends events held by other nations, so his reasoning for attending this one is pretty obvious.
+
+He also took the attention away from me since he’s also a rather rare sight to see. And a lot of people probably want to make connections with him.
+
+As for his attire? It’s actually rather androgynous. Makes it hard to tell if he’s male or female. Although I guess he’s technically neither in a biological sense, so it makes sense.
+
+His attire very much looks like a royal pharaoh, with a lot of flowy material and some exposed skin with shorts, long sleeves, and cloth flowing down from his waist all around except for the front. Meanwhile he has an amulet resting on his chest with black and gold colors spread throughout the outfit, mixed with some white.
+
+And to top things off, he doesn’t have a single emotion displayed on his face as he walks. Except for when he looks my way.
+
+Then there’s his entourage that enters the chamber alongside him, which mostly just consists of higher ups from the Rex Dynasty of the Dead. All of whom give me a deep bow before even facing the emperor and crown prince.
+
+Which sends whispers spreading throughout the hall, but I’m just going to ignore those.
+
+The pharaoh’s greeting to the emperor and crown prince themselves doesn’t last long. To the point that he just walks up there, nods his head once, says congratulations to Shirogane, and leaves again. Walking straight over towards me and settling down on the balcony without a word.
+
+Meanwhile his entourage just kinda form a wall at the entrance of the balcony as if blocking any unwanted company from bothering us.
+
+Not that I mind.
+
+Right as I’m about to turn back to admire the moon again, I hear the door to the hall opening again. And this time the ones who enter are the representatives of the Grand Silvanian Empire, including the emperor, Leopold. Who also nods his head my way after entering. Which once again causes whispers to be sent out around the hall.
+
+But this time he doesn’t even bother saying anything to the emperor or crown prince. Just walks up there, drops off his gift, and walks away without a word.
+
+Heading towards me as well.
+
+Then our group of two people on this balcony turns into three, with Leopold’s Royal Knights standing guard alongside Raja’s Pharaonic Royal Guard.
+
+At this point I turn around to face the moon again while yawning, no longer caring about what’s going on in the hall.
+
+I don’t know any more of the Grands that should be making an appearance today after all.
+
+Most likely there won’t be any of the other Horsemen of the Apocalypse attending. They never do after all. Except maybe Famine, but he wouldn’t be invited in the first place. And I can’t see the Crimson Empire leaving hiding again to show up. Unless they’ve just given up on hiding.
+
+Not that my biological family would even be able to attend, considering the curse.
+
+And the Council of Darkness doesn’t show up to events like this.
+
+For obvious reasons. What with them being a group of hired assassins.
+
+The door opens again, immediately making the talk within the hall vanish in moments. Which surprises me a little. Enough that I glance behind myself to find a representative of the Crimson Empire walking into the hall while surrounded by white haired people wearing cloaks with masks covering their faces.
+
+And immediately after she waltzes into the hall, whispers about the Crimson Empire fill the hall.
+
+This is starting to get old.
+
+I turn back around and face the moon again, holding back a yawn this time as both Leopold and Raja stand a couple meters to my sides without saying a word. The emperors just looking into the hall at the Crimson Empire’s representative, and Raja having his eyes closed as if he’s taking a nap.
+
+But regardless of what they’re doing, I’m perfectly fine with it. Because they make rather nice shields from the other delegates, royals, representatives, and so on in the hall.
+
+I was very much not looking forward to this ceremony due to having to deal with their politics. But with these lovely shields, I don’t have to deal with any of it.
+
+And I can sense another shield walking in this direction.
+
+After several seconds, I see the representative of the Crimson Empire joining us out on the balcony and walking up to me before kneeling down with her head lowered and her arm crossed over her chest. Meanwhile all of the other cloaked people from the empire kneel down behind the representative.
+
+“Your Highness, I am Duchess Rose from the Crimson Empire,” the representative says as I lazily look at her without really caring. She raises her head to look at me and continues, “It is an honor to meet you.”
+
+The woman is the only one of their group not wearing a mask on her face. Although she does have the same cloak that the others have.
+
+And just like me and the other crimsons, she has stark white hair with red eyes. Albeit not glowing red like mine.
+
+Mine are also more crimson and blood-like than hers and the other crimsons in front of me.
+
+“Pleasure to meet you,” I respond politely before returning my gaze to the moon. And after a few seconds, the duchess stands up and takes a position at the entrance to the balcony, acting as a guard alongside her own guards.
+
+Further increasing the number of people guarding us.
+
+The entrance to this balcony is getting crowded.
+
+I finish up my glass of wine before beginning to turn around, only to find Raja handing me another glass of wine. Making me blink in surprise.
+
+“Thank you,” I tell him with a faint smile.
+
+Then I notice the many guards holding glasses of wine that they aren’t drinking.
+
+Wait, did they just gather up…
+
+I spot a couple other guards walking up with wine in their hands before joining the others. Without drinking the wine.
+
+They really are just gathering wine for me to drink here, aren’t they?
+
+I could get used to this.
+
+Although the looks the other delegates, royals, and representatives are sending us is growing more and more shocked and dumbfounded by the second. Meanwhile whispers fill the hall as many of them send anxious looks my way. As if they’re really wanting to come and talk to me but don’t have the guts.
+
+Which makes sense, considering who is surrounding me.
+
+Well, that’s not my problem.
+
+I turn to face the moon again while sipping my wine, enjoying the wonderful flavor it has.
+
+This ceremony is ending up more enjoyable than I expected.
+
+These people make great shields. And none of them are bothering me either.
+
+Maybe I should’ve brought Asher with me?
+
+I stare out at the moon for a few seconds.
+
+Maybe not.
+
+Silence suddenly spreads through the hall again as the doors creak open, making me frown. Because I don’t remember them creaking when the others entered the hall.
+
+And just seconds later, I feel a very… strange sensation filling the hall.
+
+I turn around before immediately making eye contact with the person entering it as guards all around the hall draw their blades while facing them.
+
+But I ignore all of that.
+
+All I can focus on is the new entry into the hall, whose eyes I immediately lock on.
+
+Realizing who he is in an instant.
+
+Just like with the other two Horsemen I’ve run into in the past.
+
+Famine.

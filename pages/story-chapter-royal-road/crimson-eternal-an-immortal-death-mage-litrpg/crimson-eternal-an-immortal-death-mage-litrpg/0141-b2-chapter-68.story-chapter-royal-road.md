@@ -1,0 +1,167 @@
+---
+id: 57da8bde-3292-5ebd-a2cc-b8231145b7f1
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 68"
+slug: 0141-b2-chapter-68
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 141
+ownLength: 1747
+unit: words
+ownProgress: 1747
+publishedAt: 2024-04-08
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1586322/b2-chapter-68"
+royalRoadId: "1586322"
+markedReadAt: "2026-06-29T19:10:30.889Z"
+---
+
+The Command Center of the Frost Clan Territories on Arian
+
+The Clan Leader of the Frost Clan – a man wearing a heavy winter coat with black hair and white eyes stands with a completely blank look on his face as the various Clan Chieftains stand around the circular table in front of him. And silence completely fills the room so thick that a knife could cut through it like butter.
+
+Or he likes to think so at least.
+
+“Explain,” he says, his voice as emotionless as always. Not a single hint of even a slight annoyance or care.
+
+Just monotone. Completely monotone.
+
+“Clan Leader, ze Areeans managed to heere a powerfuhll immortal who has deceemated several of our fortresses,” one of the Clan Chieftains answers right away, knowing that any hesitation would merely result in punishment later on. “Ze lady ees suspected to be za Horseman of ze Apocalypse, Death.”
+
+The Clan Leader stands in silence for a few seconds, just staring at the map along with the point marked on it.
+
+“Zees ees vhere she ees cuhrrently attacking,” another Clan Chieftain explains without being asked.
+
+Silence fills the chamber once more, making the Clan Chieftains grow tenser and tenser with each second. Then, after an entire three minutes pass, the Clan Leader raises his head and says, “Two Chieftains who have seen and fought za lady accompany me to fight er’. Za rest retuhrn to your duhties.”
+
+“Uhnderstood!” the Clan Chieftains all exclaim at once before leaving, with the exception of three Clan Chieftains. Including Karpov, Gorbacheva, and Petrov. The Chieftains that, if the Clan Leader remembers correctly, have ice, electricity, and barrier abilities.
+
+The Clan Leader emotionlessly looks at each of them and says, “We leave in za mornin.”
+
+All three nod their heads in understanding.
+
+The Island where Aria is at
+
+The Clan Leader’s eyes narrow the moment he arrives on the island and steps off of his airship, the three Clan Chieftains following behind him. Because the very first sight he sees is that of a fortress rendered to naught but rubble, and a beautiful woman simply sunbathing amidst the Clan Leader’s forces of undead. All of whom are ignoring her.
+
+No life force, perhaps?
+
+Now that he’s arrived, the Clan Leader takes direct control over the undead and directs them to attack the girl. But to his surprise and the surprise of the Chieftains behind him, the girl simply ignores them as they bite and claw at her, their attacks not even damaging her clothes.
+
+Or, rather, their attacks hurting her through the clothes instead.
+
+Ethereal Screen enchantment? Gutsy.
+
+Karpov stands to the side and begins freezing a massive dome around the entire island to make absolutely sure the woman can’t escape. Meanwhile Petrov adds to the ice by creating a barrier around the island as well.
+
+Shouldn’t be able to escape now.
+
+The Clan Leader – whose name is forsaken the moment he becomes Clan Leader – continues blankly staring ahead as he summons dozens upon dozens of Tier Four and Five undead out of his undead storage skill and ring. Then he moves on to summoning thousands of regular undead to fill the entire dome.
+
+“Capture her,” the Clan Leader declares, making all of his undead rush towards the woman who is finally sitting up from her lawn chair with a frown on her face.
+
+Almost immediately, he’s faced with another surprise as the undead closest to her begin to turn to dust or get burnt right away, making his eyes narrow ever so slightly. An expression that frightens his Chieftains.
+
+“Join zem,” he tells the Chieftains, making the two combat specialists rush closer so that they can begin using their abilities to fight against the Horseman.
+
+Then the Horseman does something baffling to the Clan Leader once more.
+
+She begins to push closer towards him instead of attempting to retreat.
+
+His eyes narrow further as several different possibilities come to mind.
+
+Either she’s stupid, which the reports haven’t led him to believe.
+
+She’s arrogant, which the reports have led him to believe a little. Simply because she can’t die.
+
+Or she has a trap set up and wants to be closer to him to pull it off without a hitch.
+
+The Clan Leader believes the third option to be the most likely, so he summons an undead abomination and has it quickly begin carrying him back towards the ship next to the wall of ice with his arms crossed.
+
+And just as he expected, the moment she sees him moving further away from the battlefield so that he may attack with his undead from a distance, she stops moving, a grimace on her face.
+
+Then does something he wasn’t entirely expecting.
+
+She pulls out a remote and presses the button mere moments before she’s frozen solid by Karpov and dogpiled by dozens of zombies while being electrified by Gorbacheva with a barrier placed around her.
+
+Too late.
+
+A sound akin to a gunshot echoes all across the island as everything flashes white. Then the Clan Leader’s eyes begin to adjust, only to find a massive explosion rising from the center of the island outwards, making him rush his abomination to get further away from it. All while summoning dozens upon dozens of undead to dogpile on him as a protection.
+
+At the same time, a barrier of both magic from Petrov and ice from Karpov cover him despite the distance.
+
+But the roaring noise from the explosion soon comes, tearing up the island from what he can see through his zombies and the barriers.
+
+Fortunately for him though, the explosion – while massive – does not prove to be large enough to destroy the entire island.
+
+The ground is torn up, obliterated, and drilled deep down till he can see through the entire island, but even through the plume of smoke, ash, and dust that rises into the air, he can still tell.
+
+A small sliver of the island in a large ring has survived.
+
+But his subordinates have not, nor did his army.
+
+Meanwhile the Horseman is nowhere to be seen.
+
+The corner of the Clan Leader’s eyes twitch in a very brief flash of irritation. Something he hasn’t felt for a long time.
+
+Something he didn’t realize he could even feel anymore.
+
+He waits at the outer ring remaining of the island for the smoke to leave, only to narrow his eyes as he realizes that the smoke isn’t leaving the island through the top but instead the bottom. Simply because of the dome of ice that still remains around the island. A dome that’s also blocking him from his airship.
+
+She has my respect. Setting up a nuke and blowing herself up with it.
+
+The man waits for a while, just watching the smoke, ash, and whatever else is in the cloud fade away. But all he sees after that is nothing but a massive hole going through the entire island for as far as he can see.
+
+And not a single sign of the Horseman of the Apocalypse.
+
+Likely fell down into the clouds below.
+
+He looks down, but doesn’t manage to find her. So he begins to turn around, no longer dogpiled by his undead as he walks slowly in the direction of his ship.
+
+Then he hears a strange ticking sound.
+
+And this time his eyes widen mere moments before a second round of explosions ring out. This time from the sliver of island left remaining all around him, crumbling the rest of it so that he is left falling down into the clouds below.
+
+But it’s still fine as he summons a flying zombie bird to carry him.
+
+Only for the zombie bird to be blown up when a familiar figure falls down after them from a different sliver of the island as that sliver breaks and blows herself up along with the bird. Then she jumps off of its smoking remains that she had clung to mid explosion onto the Clan Leader, her arms wrapped around him from behind as he tries to look back at her.
+
+“Good try, but sorry, I’m not gonna let you get away like that,” she says, a smile on her face despite her voice telling him that she doesn’t particularly care all that much for her current actions.
+
+Like she’s been numbed to fighting and war by now.
+
+And for some reason, the Clan Leader has a brief flash of memory from his past at that realization. Back to when he first started to feel like that himself.
+
+The slightest tug at the corner of his lips surprises him, but he doesn’t get to think about it for long.
+
+As the girl soon detonates another explosive, making everything go dark.
+
+The last thought in his mind is how much he sees himself in the girl and, despite the result of their bout, wishes her the best.
+
+Aria
+
+I let go of the Clan Leader after blowing the guy up, leaving him as a rather unrecognizable husk before focusing on my fall through the clouds. A fall that never seems to end.
+
+Well, at the very least I completed my mission. So I have immigration rights to this nation now and my job is complete.
+
+Although, I can’t help but wonder why that emotionless Clan Leader seemed to actually show the slightest hint of… what was that? Not really sure what to call it.
+
+Almost like he was looking at a kinsmen in a way.
+
+It was odd.
+
+Either way, I devour his soul core.
+
+That was a close call, to be honest.
+
+If they hadn’t set up that barrier of ice to block my escape, thereby blocking their Clan Leader’s own escape, he probably would’ve gotten away.
+
+Didn’t expect him to sniff out my trap right away.
+
+Definitely a good thing that I decided to make a backup plan just in case the nuke didn’t get him.
+
+I glance down at the rocket boots on my feet. Boots I used to shoot myself back up onto the remaining parts of the island after being kinda blown up by the nuke and recovering in the same spot I was blown up in.
+
+Too bad the boots are kinda useless now.
+
+I only had one pair, and I’m pretty sure they were damaged by whatever was in the air from that nuclear explosion. Because they’re not working anymore.
+
+Well, guess I’ll be falling for a while.

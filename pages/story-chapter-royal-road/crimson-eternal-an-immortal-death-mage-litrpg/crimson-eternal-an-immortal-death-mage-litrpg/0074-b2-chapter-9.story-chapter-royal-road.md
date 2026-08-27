@@ -1,0 +1,157 @@
+---
+id: 6cea78fc-8e59-5f21-96b4-0998cf814813
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 9"
+slug: 0074-b2-chapter-9
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 74
+ownLength: 1581
+unit: words
+ownProgress: 1581
+publishedAt: 2024-01-31
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1501085/b2-chapter-9"
+royalRoadId: "1501085"
+markedReadAt: "2026-06-29T19:08:26.754Z"
+---
+
+Aria
+
+I manage to make it through the rest of my dive alright merely by summoning Lesser Minor Death Spirits and having them go to the places with larger mana creatures for me. Meanwhile I stick to the sides where the mana creatures are too small to swallow me. Like that snake.
+
+I knew something would eat me the moment I got down here.
+
+Was just a matter of time.
+
+Good thing that woman was here to get me out. Although her poison wasn’t pleasant for the brief amount of time it affected me.
+
+Technically poison does sorta affect me, it’s just that my body recovers from it instantly, meaning the effect can’t build up at all. So the only ones that actually hurt or feel uncomfortable are fast acting ones. And those still don’t do much and heal right away.
+
+Hers on the other hand made me feel a raw, burning pain across my entire body.
+
+Wasn’t exactly the most comfortable thing, but I’ve been poisoned before. And the thing only left me unconscious for a short period of time before I adapted to it, and it barely affected me afterwards.
+
+I let out a yawn – which feels weird underwater – before looking around at my Death Spirits and sending them back to the Plane of Death. Then I go ahead and activate the tether, sending me straight to the surface in an instant.
+
+Surprisingly, it’s already dark out. The sun is gone entirely, and the full moon is high in the sky. Or, rather, moons. Sometimes there are two of them on this planet. Just that they rotate around the planets at different speeds.
+
+I look down again to find the dock still just as full of people as ever. Then I go ahead and undo my tether and the barrier along with it before stepping onto the dock and heading to the main building to trade everything in.
+
+Of course, Takashi is there waiting. And the moment he sees me he begins to jabber away.
+
+Until he sees the loot I drop on the counter, piling rather high in the process.
+
+At that point he just shuts up, looking more than a little shocked.
+
+Huh. I think this might be the very first time he’s been this quiet on me.
+
+Despite being shocked, he still gets to work. So I go ahead and give a call to the Silver Merchant.
+
+He answers right away.
+
+“Hello? This Aria?” he asks, sounding like he’s back in his normal personality again.
+
+I answer, “Yeah. Just finished up here.”
+
+His voice changes immediately upon speaking again to his business mode, “Then I’ll come by now. His Majesty has made a change of plans, so after we discuss our contract, we’ll be heading straight for his office.”
+
+My eyes narrow slightly at that.
+
+“A change of plans?” I repeat his words with a frown, briefly glancing at a certain clerk who seems more than a little curious about who I’m speaking with. “What would those plans be?”
+
+“He wishes for you to meet the Clan Leader of the Clan who has control over the Gate on their world connected to ours,” Shirogane answers, surprising me with how quick the emperor was to get that set up.
+
+I relax again while shifting my weight to my other side and saying, “Sounds good then. Meet up soon.”
+
+“Understood,” he answers before hanging up.
+
+Almost immediately, the clerk exclaims, “Was that the Silver Merchant?!”
+
+Of course he manages to recover right away when Shirogane is involved.
+
+“Nevermind that,” I tell him while nodding my head towards the loot. “Please don’t lose count.”
+
+He blinks at that before frowning down at my loot as he mutters, “I’d heard you went down today, but there’s stuff from the fourth tier here.” He raises his head. “You sure you’re okay?”
+
+I blink at that, a little surprised the guy is worried about me.
+
+“I also heard from Miss Violet that you were attacked by both a gruark eel and a trench serpent down there,” he continues while looking me over with a frown. “Are you absolutely certain you’re fine, Miss Crimson?”
+
+Huh. That’s actually kinda sweet that he cares.
+
+Wait, Miss Violet? Rory?
+
+Guess she came up earlier than I did.
+
+She was nicer than I thought if she was worried about me even after we split up. But I still can’t let myself grow attached to anyone.
+
+Especially a hunter who goes down there on a regular basis.
+
+Anyways, I answer the clerk with a light smile and a brief, “Don’t worry about me. I’m fine.”
+
+He pauses for a second, likely surprised by my smile before he quickly gets back to work. Although I think I see a little bit of a blush.
+
+But whatever. Doesn’t matter.
+
+I turn to look out past the red colored energy field filling the gate as he works. And once he finishes, he puts a large bag of coins on the counter and says, “Your total comes out to two royal silver coins, thirty-two gold coins, ten silvers, and two coppers.” Then he raises his head from the bag and asks, “Would you like me to count them for you?”
+
+I shake my head at that and store the coins in my storage ring.
+
+In a hurry.
+
+The energy field turns green, and I pass through it. Following which the clerk waves at me saying, “Please stay safe if you’re going to be traversing the fourth tier from now on, okay!?”
+
+I wave back without looking behind me.
+
+He’s a nice guy, if a bit of a blabber mouth.
+
+Wouldn’t make for a bad friend. But I probably won’t ever see him again in my life after I leave this world.
+
+So sticking to my usual way of doing things.
+
+I head over to the drop-offs and pick-up area before just standing there and waiting. The wait doesn’t take long though as Shirogane arrives within a minute of me getting here.
+
+Then we make our way to the emperor’s manor again while hashing out our contract on the way. Which isn’t much to do since the process is very simple.
+
+I find myself faced with a rather large surprise when I make it to the emperor’s office. Because, standing in the doorway staring at me with just as much shock as I am staring at her, is Rory Violet. The woman who saved me from being stuck in a stomach for a while in the trench.
+
+In a rather uncomfortable way.
+
+“Aria? What are you doing here?” “Violet?”
+
+We both speak at the same time, following which everyone else in the room looks surprised. And it’s at that point that I notice the short but stout man standing further within the room, along with the emperor, who is at his desk like always. With his coin like always. Flipping it like always.
+
+I swear, does he just have an obsession with that coin or is it some sort of skill of his? Something to do with the coin?
+
+“So you two have already met,” Shirou says with a smirk on his face as he faces the four of us – me, Shirogane, Rory, and the other dude. “Still, a proper introduction is in order.” Then he stands up from his seat and motions towards the stranger as he says, “This is Sean Byrne, the Clan Leader of the Byrne Clan on Luk’tar. He will be granting you immigration rights and a job with generous payment should you take the job.” He motions to Rory. “And this is Rory Violet. Just think of her as Sean’s mercenary bodyguard right now.”
+
+Mercenary?
+
+I glance at her, finding her nodding to me with a stern look on her face. A different look from the kind yet easily startled persona she had when we met before.
+
+Oh, and she looked like she wanted to scold me at first. So maybe motherly too?
+
+Kind of reminds me a little of Hannah if I’m being honest.
+
+“And this,” Shirou says while motioning towards the Silver Merchant, likely introducing the two of us now that the other two were introduced, “is the new Eight Star Merchant, Ryohei Shirogane, otherwise known as the Silver Merchant.”
+
+A smirk stretches across Shirou’s face, making me understand that he’s going to be dramatic. Something he does sometimes just for the sheer fun of it.
+
+“And last, but certainly not least,” he says while slowly pointing a finger out at me, “we have Aria Crimson. Otherwise known as Death, the Harbinger of Death, Horsewoman or Horseman of the apocalypse, and the beloved of the Spirits of Death.” Silence fills the room. “Take your pick.”
+
+I mentally roll my eyes at his theatrics. Then I notice the surprise on Rory’s face. Although the lukian doesn’t look too surprised. Likely already knew before I walked in.
+
+On that note…
+
+I glance at Shirogane, only to find that he isn’t surprised either.
+
+Meaning Shirou likely already told him before I even contracted with him.
+
+Probably for the best.
+
+The only one here who didn’t know was Rory. Which was probably the entire purpose behind that grand reveal of his. To see the shock on her face.
+
+He likes seeing that sort of stuff.
+
+“Now,” he says with a clap of his hands before spinning around and taking his seat again, crossing his legs, “Let’s get down to business, shall we?”
+
+Right. He mentioned a job.

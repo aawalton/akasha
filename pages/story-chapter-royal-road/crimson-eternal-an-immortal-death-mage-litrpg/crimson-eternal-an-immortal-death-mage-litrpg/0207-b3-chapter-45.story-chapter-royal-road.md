@@ -1,0 +1,157 @@
+---
+id: e519365e-3ba3-5c56-93df-3929d39d338f
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 45"
+slug: 0207-b3-chapter-45
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 207
+ownLength: 1702
+unit: words
+ownProgress: 1702
+publishedAt: 2024-09-20
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1812103/b3-chapter-45"
+royalRoadId: "1812103"
+markedReadAt: "2026-06-29T19:12:46.067Z"
+---
+
+AriaA few moments ago
+
+After I land on the ground, forming a crater which I’m very glad I won’t be responsible for cleaning up, I just begin making my way in the direction of the city. Even as the dust and smoke begin to clear, revealing two different forces on either side of me.
+
+I don’t pay them any mind.
+
+Instead my thoughts just focus entirely on the thing that’s been bugging me. About the timing of this whole war.
+
+The fact that it happens to coincide with the reset period of the Crimson family’s curse.
+
+It just bothers me. It’s almost like he’s using the fact that they’ll be here soon as bait or something.
+
+Is he planning on attacking them? Or planting a tracker or something on them?
+
+I know from our conversations that he hasn’t been able to find where the Crimson family is, since the imperial family has been avoiding their home for a while now. Making it impossible for him to track them down.
+
+So maybe he’s trying to plant some sort of mark or tracker on them when they come to see me?
+
+The other three Horsemen are far, far away from Silverfall, so I know they won’t be arriving. War is, well, at war fighting on the frontlines against some poor country that became his most recent target due to having a powerful leader he wanted to duel with. Pestilence recently locked himself away in his laboratory so that he can study the effects of that terrible plague he let loose not long ago that slaughtered dozens of planets. And Famine is… well, he’s having fun picking a fight with the Society right now. Something about him not liking the fact that their Archmage placed bounties on my head before. Or rather, on the head of a Horseman of the Apocalypse. He doesn’t care about me in particular.
+
+But I just can’t shake the feeling that Arthur is planning something.
+
+My thoughts pause for a very brief moment when I feel a wave of lightning rushing through my body. And while the lightning does tickle a bit, it doesn’t do much more than that. And burn through my veins, skin, and flesh. But that part doesn’t matter.
+
+So I ignore it as I continue walking, feeling only mildly irritated by the limp I have to deal with for a few seconds.
+
+Why would Arthur start a war though? Just to mess with them when they come to visit me.
+
+A war won’t hurt them in the slightest. The Crimson Empire, or rather, my biological mother is the only person who is very nearly on par in strength with one of the Horsemen. From what Leopold says, at least.
+
+She’s by far the strongest of the Nine Grands that isn’t a Horseman.
+
+Meaning an army won’t exactly stop her. Especially when the emperor is alongside her, not to mention Adrian.
+
+So it’s highly unlikely that he’s planning on attacking them. Which leaves tracking them.
+
+Of course, the army could also just be to fight against the Grand Silvanian Empire. After all, Arthur isn’t exactly happy with Leopold either. What with his constant helping of my parents and the Crimson Empire.
+
+I reach up and scratch the back of my head as I continue walking towards the city, ignoring the sounds of battle echoing from behind me.
+
+If it weren’t for Shirogane being stuck here for half a century I would’ve probably left by now. Just to avoid all this unnecessary drama and war.
+
+Why War enjoys this stuff I’ll never know.
+
+The sounds of explosions behind me make me glance back to see the Crimson Order using some rather explosive magic against the soldiers of the attacking nation. Pretty much wiping them out other than their officers, who tank the hits with no problems.
+
+Yeah, that’s pretty much to be expected. The Crimson Order is one of the strongest Orders of Knights on Silverfall.
+
+Some random force of soldiers from another nation wouldn’t stand a chance against them.
+
+I almost pity them.
+
+Almost being the key word.
+
+One of those soldiers attacked me after all. I think.
+
+I frown at that thought, only to shake my head.
+
+Yeah. Pretty sure one did.
+
+Wasn’t paying much attention to where that lightning came from.
+
+Anyways, I focus on the city I’m walking towards again as my thoughts return to the important matter at hand.
+
+Finding Shirogane and seeing what he’s planning on doing during this war. Because he’d have to be an idiot not to do anything during it. It’s his best shot at earning favor from Leopold.
+
+At what cost, though, I’m not sure.
+
+I guess it depends on what he can do. If he helps them financially during the war, he could get a lot of favor back, but not enough for what he wants.
+
+If he helps them by fighting in the war himself, he could get even more favor, but still not enough.
+
+The only thing I can think of is him completely wiping out one or more of the enemy armies himself or maybe taking on a powerful foe who attacks at the wrong time or something. Maybe foiling Arthur’s plot against Leopold.
+
+But all of those would require him to break his neutrality.
+
+So the only way I can think of for him to do that successfully is for him to somehow cover up his fighting entirely. Which would be very difficult.
+
+I’m also still not sure just how strong Shirogane is. I know he’s far stronger than me. Strong enough to crush me with one hand. But is he strong enough to fight on their level? To wipe out an entire army or two?
+
+No idea.
+
+I continue walking until I get to the walls of the city, at which point I walk right up to the gate and pass through. Using my lovely VIP noble pass to walk through the checkpoint without paying any sort of tax or dealing with any guards.
+
+And the first thing I see after entering the city is a battle between a bunch of soldiers wearing gear more similar to what was worn on Vortel fighting with knights of the empire.
+
+Hmm.
+
+Lots of fighting going on around this world.
+
+I ignore the fights as I put my hands in the pockets of my shorts and continue walking down the street. Also ignoring every attack that ends up hitting me, whether on purpose or otherwise.
+
+It’s what happens when you pass through a battlefield. No problems with being hit here.
+
+I yawn as I walk, only for my consciousness to suddenly go dark before returning again, leaving me blinking and sitting on the ground. Then I stand up again while brushing the dust off my legs and turn to look at the guy wearing an officer’s uniform throwing around large fireballs everywhere and burning both his people and the knights.
+
+Now that’s just rude.
+
+I put my hands back in my pockets and begin walking over towards him, only for Asher to suddenly jump out of a little black and red portal that opens up near my feet. The little guy then just casually walks alongside me with his tail pointed straight up into the air.
+
+A few attacks hit us as we walk, and the guy I’m walking towards eventually spots us as well when I’m about halfway to him. But he just throws a large fireball at me, incinerating me in seconds before I recover and continue walking.
+
+When he spots me again, he looks shocked to the core. Probably due to having thought he killed me.
+
+The man suddenly starts grinning when I make it about three-quarters of the way to him, only for him to shout at me, “Hey little lady, what’s your name?”
+
+I blink for a second, realizing the guy who I’m about to punish for vaporizing me and his own forces is now hitting on me. In the middle of a battlefield.
+
+Even if I’m clearly not an enemy soldier or knight based on my outfit, that… just isn’t right.
+
+Eventually I just shrug, deciding to add that onto the list of things I’m punishing him for.
+
+He doesn’t look particularly happy about that, but I don’t respond to any of the things he says after that.
+
+I just keep on walking until I step right up to him, ignoring the fireballs he’s now sending my way as I place my hand on his shoulder and ignite him with Death’s Judgment. Not that it actually gets through his armor.
+
+The man just frowns at me and says, “What is that? Are you seriously trying to attack me, little lady? With this?”
+
+I ignore him as I keep my hand on his shoulder and let the black flame continue burning at his armor, not really doing anything besides annoying him. To the point of burning me to a crisp again. But this time my entire body.
+
+And when I return again I replace my hand on his shoulder and keep up the black flame.
+
+Except now with a smile on my face as he starts to look both frightened and annoyed.
+
+Eventually I change my tactic and go ahead and slip my hand into his armor through his collar and over his chest, making him suddenly grin.
+
+Until I start the black flames again directly against his skin, finally getting it to begin burning ever so slightly.
+
+No idea what level he is, but he can’t be past level four or five hundred. And anyone at this level should burn at least a little when directly in contact with fire.
+
+This makes a good test for Death’s Judgment.
+
+Oh, and I make sure to use a device to stick my hand to him just to make sure he doesn’t send me flying.
+
+Right as I have that thought, he punches me, making me do a complete flip all the way around until I’m hanging across his back with my hand still awkwardly plastered to his chest.
+
+Yep.
+
+Let’s see how long it takes for him to burn like this.
+
+Although… I kind of want out of this awkward position.

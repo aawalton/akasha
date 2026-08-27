@@ -1,0 +1,155 @@
+---
+id: 7f795274-bba5-5cb5-ab26-7b6ad9cf4dbf
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 72"
+slug: 0145-b2-chapter-72
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 145
+ownLength: 1537
+unit: words
+ownProgress: 1537
+publishedAt: 2024-04-19
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1602522/b2-chapter-72"
+royalRoadId: "1602522"
+markedReadAt: "2026-06-29T19:10:38.950Z"
+---
+
+Aria
+
+After spending a few years down here, the place has grown on me. With, of course, the help of my trusty nose plugs. Because some of the bugs living in the Hunter’s Spot are smelly.
+
+Although that varies depending on what Tier of it I’m in.
+
+The Third Tier especially was pretty bad in terms of smells.
+
+I let out a yawn as I proceed through the rather large tunnels that make up the Fifth or Sixth Tier of the Hunter’s Spot.
+
+Through my time in this Hunter’s Spot, I’ve learned quite a few things about it. Like how the bugs all work together to repair any damage done to the Hunter’s Spot that I like to call the Hive. Even if they’re all wiped out completely, once more spawn through mana, they begin to rebuild whatever was blown up.
+
+Which certainly makes explosions the right choice of tool in this place. Because they don’t cause any permanent damage to the place.
+
+Other than that fact, I’ve also learned that there aren’t a lot of bugs here that like to swallow their food. Considering the number of times I was chewed up rather endlessly before the bug decided to spit me out since it couldn’t chew me enough to swallow. Not without me regenerating between chews.
+
+A rather unpleasant experience, to say the least.
+
+Then there’re those strange wasp-bee things that literally sealed me away into amber or honey. Or both. Before my death energy buildup destroyed said honey or amber not long after and I just left their nest.
+
+And I wouldn’t be surprised if I find spiders in one of the later Tiers, seeing as I haven’t seen any thus far.
+
+Might have to start mentally preparing myself to be hanging in a cocoon of webbing at some point.
+
+Not a pleasant thought either.
+
+Other than those things, there actually is some water down here, and food too if you count the bugs. Not that I have been having either. Largely because the bugs are bugs, and the water is full of bug waste and not likely the best thing to drink. But also partially because there’s no reason to have them.
+
+Don’t need to eat or drink after all.
+
+Only thing I need is the wine that Shirogane has been sending me periodically, making the best possible use of that app that he could’ve used it for.
+
+Other than the explosives, of course. Because those are important.
+
+After all, with them, I’ve been able to level up all the way to level thirty during my time down here.
+
+Still without a single new skill though.
+
+At the very least I’ve reached the point where the average adult is at when they don’t try to focus all of their time on their Class. Or, average adult a bit younger than me actually.
+
+Come to think of it, how old am I?
+
+That gives me pause, making me stop walking through the tunnel as I try to remember.
+
+Let’s see… it took me about two decades after leaving Vortel to arrive at Arian… I think… and another four years or so since I arrived here. Then there was the fact that I was about twenty when I first arrived at Eternus.
+
+That means I should be in my mid-forties right now.
+
+I stare ahead for a few seconds before shrugging to myself and continuing through the tunnel, eventually deciding that I don’t actually care.
+
+Until I remember that it means the others from the Predator Division are all in their late fifties to early or mid-sixties.
+
+Shit. That’s not good.
+
+Although, last I heard, Hannah was getting close to level one hundred.
+
+I wonder if she’s reached it yet?
+
+It would be good if she has. Very good. Because then I won’t have to worry about her kicking the bucket any time soon.
+
+A faint smile stretches across my face at that thought.
+
+Then it fades as I think about how short the time I’ve spent down here has felt. It’s been about four years or so, but it certainly hasn’t felt that long.
+
+I really am becoming desensitized to the passing of time… the only thing that makes sense for why has to be my Class or ability. Nothing else would.
+
+Although it does make sense for a true immortal to be naturally desensitized to the passing of time. For the most part.
+
+Seeing as I’ll be living for all eternity after all.
+
+A rather dreary thought.
+
+I let out a sigh as I walk, not stopping even when some sort of ant begins gnawing at my ankles. Leaving me to drag the thing as I burn soul energy right around where it’s biting. Which doesn’t manage to do all that much since I’m in the Fifth or Sixth Tier of this place.
+
+From what I’ve come to learn about this little bugger – literally – it likes to gnaw at you without actually doing much more than breaking the skin. Meanwhile its poison will paralyze its victim, half-kill them, and basically make them into a walking vegetable. Except without the walking part since they’re paralyzed.
+
+A rather scary method of attack, but rather pointless when I’ve already built up full immunity to their poisons.
+
+Basically just means I’m dragging the thing along with me until it gets bored and lets go.
+
+Which is always rather annoying when one of them decides to hitch a ride.
+
+I continue trudging my way through the tunnel for another hour or so before the ant finally lets go and begins to walk away. Likely not wanting to leave its territory.
+
+After walking for a few more minutes and turning another corner though, I realize just why the thing let go.
+
+Huh.
+
+Guess I was right earlier.
+
+In front of me is a narrower entrance to another set of tunnels. But these tunnels are filled with cobwebs. Cobwebs that seem to get ever so slightly thicker the deeper you go into them.
+
+That ant must’ve not wanted to enter this area. Which is likely either the Sixth or Seventh Tier of the Hunter’s Spot.
+
+On that note, a large meter-long spider passed by the entrance to the tunnel without paying me any mind. As if I’m just not standing here.
+
+Unexpected but not unwelcome.
+
+I glance backwards through the tunnel I had passed through before continuing onwards.
+
+While I’m doing my little search for the source of the poison clouds at Ake’s request, I still have several hundred Lesser Minor Death Spirits going around the First and Second Tiers of the Hive slaughtering bugs. Simply to keep my leveling progress going since I can’t really kill things much down here.
+
+Outside of explosives, that is.
+
+Explosives are an immortal’s best friend after all.
+
+Well, might as well check out the spiders’ home.
+
+I walk right on inside of the tunnel, quickly finding myself getting covered with cobwebs. An unpleasant experience at worst.
+
+And seconds later the spider that had walked by turns around and begins rushing towards me, so I take a step back, leaving said territory again.
+
+Then the spider stops rushing at me and continues on its way.
+
+Territorial creatures. Interesting.
+
+Also very sensitive creatures considering how fast it realized I had entered its territory.
+
+On that note, I turn around and head back a bit further into the previous Tier I was just in before the spiders until I find another ant. Then I grab its midsection and raise it into the air a bit so that it can’t flee before I turn back on around and head back to the spider’s territory.
+
+And just to see what will happen, I go ahead and enter the spider’s territory with the ant that is currently flailing like its life is on the line, trying to get out of my hold. But no matter how much it flails, I keep on holding. No matter how many of my bones break or are cut open. I just use a bunch of soul energy to keep it in place while blocking the entrance to the territory with Death Spirits.
+
+When the spider is about to reach the two of us, the ant finally breaks free of my grasp via literally cutting my arms off with its little claws.
+
+But it’s already too late. The spider catches it before it can get anywhere and stabs it straight through the midsection with its leg, proving that this is a killer spider and not a trapper.
+
+Something I’d heard some spiders vary on. With some killing their prey right away and others trapping it in a cocoon for later.
+
+Anyways, after the ant stops moving, the spider immediately moves onto me and stabs me too.
+
+But I just casually blow up a grenade that I pull from my storage ring, sending bits of me and the spider everywhere until I reform again and begin walking away.
+
+Thank you for your sacrifice, spider and ant. You will not be missed.
+
+Probably didn’t need to drag that ant here but it was getting on my nerves earlier.
+
+So why not?
+
+I stretch a little as I walk through the cobwebs into the next Tier.

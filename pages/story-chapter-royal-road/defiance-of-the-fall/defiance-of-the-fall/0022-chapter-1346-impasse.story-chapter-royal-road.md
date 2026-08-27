@@ -1,0 +1,141 @@
+---
+id: 2e6e0882-dd6e-5545-80e2-511b81419d6a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,346 - Impasse"
+slug: 0022-chapter-1346-impasse
+partOf: defiance-of-the-fall
+position: 22
+ownLength: 3134
+unit: words
+publishedAt: 2025-08-27
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2553255/chapter-1346-impasse"
+royalRoadId: "2553255"
+---
+
+A barrier of faith had already appeared, blocking access to the gondolas. Zac was green with regret from having used both [Eye of Desolation] and [Arbiter of the Abyss]’s spectral chain to guarantee a quick kill on Xinyi’s doppelganger. He’d seen the gondolas just ahead and that none of the sealbearers nearby were too powerful. Zac had lowered his guard, leaving him with fewer options when this new threat had appeared out of nowhere.
+
+The average strength of the native sealbearers was greater than the trialtakers Zac had entered with, but most were within what Zac could handle. Zac wasn’t nearly as confident in the outcome if he and Xiphos came to blows. The Enkindling Sage was flush with power after participating in the large-scale worship ceremony. Whether Xiphos had gained new insights or supercharged his faith, he gave Zac a palpable pressure.
+
+Xiphos didn’t emit any killing intent, but the steely determination in his gaze said he wasn’t joking around any longer. As for the friend he mentioned, it was clearly Janos. Xiphos was looking right at him, or perhaps at the sphere in the demon’s hands. Despite knowing the odds were low, Zac tried to reason his way out.
+
+“I’m not sure what you’ve heard, but we’re not your enemy. My friend here has no connection to these invaders. In fact, I’m happy to help you take down your evil twin. I’ve already killed one of them,” Zac said as he displayed the doppelganger’s corpse.
+
+“Your offer is most generous. Alas, there never was a copy of me, just as there’s no copy of you two. Of course, I suspect the reasons are different,” Xiphos said. “I’m not sure if your kin exist in the Peregrine Ocean’s fabricated worlds.”
+
+There was no point in pretending to be Everit. Zac took a deep breath and tried another approach. “Grand Dream is aware of our participation, and he’s fine with it. He also has some connection to my friend here. Your interference is doing more harm than good.”
+
+“Perhaps you’re right, but it’s the best option I’ve found since these… things appeared,” Xiphos said. “The seniors are missing, and the fate of the Transformation Docks remain unknown. We were sent to the docks with an urgent order to stabilize the trajectories. Destroying these thieves of Fate and placating the Peregrine Oceans is effective, but I fear today’s attack is just a taste of what’s to come.
+
+Xiphos looked deeply at Zac. “I can still feel the Imperial Faith seeping through your current cover. I was told you were specters able to perfectly blend with humans, but why is the Chalice telling me that it’s not a disguise? I can’t even trust myself at this point in time, so how can I trust an entity I’ve been instructed to observe.”
+
+“Specter?” Zac mouthed with a bewildered expression.
+
+Xiphos didn’t notice Zac’s confusion. His attention had already returned to Zac. “Whatever your connection to the flame is, your friend is different. He’s been stealing our faith, much like how these tainted versions who have crawled out of the waters are trying to consume us. I saw you follow him. I saw you emerge from a nightmare reeking of this corruption. He’s my only lead in finding the source of this impurity.”
+
+“We can’t tell you the truth even if we want to. Here, listen,” Zac said with exasperation. “This is all a memory constructed by Grand Dream. Eons have passed since this day actually took place, and the arrays you guys built have been corroded. There source isn’t inside the Peregrine Ocean. It comes from an Eternal Heritage you’ve placed inside the Left Imperial Palace. We can’t help you. Maybe the princess can.”
+
+Xiphos’ eyes briefly glazed over before his expression hardened. Zac knew the templar hadn’t heard a thing of what he’d just said—the trial wouldn’t let him. They’d already tested the safeguards in multiple ways. The natives couldn’t learn they were long dead, at least not this way. Their perceptions were altered so they heard something within their expectation.
+
+The rules might be different for those who knew about the Fifth Pillar’s hidden preparations, or those powerful enough to see through the illusion. The Enkindling Sage didn’t belong to either group. Like Esmeralda had suggested, he was an enforcer who’d been told a cover story. He could pinpoint the trailtakers somehow, but he though they were ghosts.
+
+“Don’t try to stop me. The Chalice is telling me this is all wrong. I’ll untangle this mystery one way or another. I am conscripting him to this mission. I’ll personally escort him to the Mercurial Court if he after he’s proven his innocence and helped me navigate the tainted mirror world.”
+
+“I think we’ve reached an impasse,” Zac sighed.
+
+Billowing waves of darkness exploded from Zac’s body as he burst into action. The deathly mix of [Deathmark] and [Fields of Despair] swallowed the templar before crashing into the barrier in an attempt to snuff out its radiance. Unsurprisingly, the faithward held steady. It was empowered by the ample Faith Energy still permeating the area.
+
+Zac flashed past Xiphos under the cover of darkness, and Janos immediately began working on dismantling the barrier. Zac joined the efforts, only sending two of his chains to hold off the sage. He wanted to avoid direct confrontation as far as possible. [Death’s Duality] gleamed with [Fatehew]’s spirit-destroying sheen as Zac struck the barrier. The strike that could crush most Late D-grade shields only created a ripple.
+
+The barrier felt like something created through a War Array rather than a single person’s efforts. So long as Xiphos’ beliefs held strong, it’d get bolstered by the area’s ample ambient Faith Energy. The Dao of Faith was like the Emotional Daos in that it could exhibit extraordinary power when the circumstances were right, and Xiphos definitely held a homefield advantage.
+
+Two axe-wraith fared no better against the wall, and an eruption of light indicated time was running out. True to his title, Xiphos had turned into a bonfire of annealed flames. The transformation was similar to Kruta’s newly incorporated flames of war, except Xiphos burned with conviction.
+
+The sage’s weapon of choice was a small brazier hanging from a golden chain. It looked like it could be used as a flail in a pinch, but Zac sensed the templar’s path didn’t lean in that direction. He was a genuine priest, who could be considered something like a mix of a mage and mentalist.
+
+Powered by Xiphos’ belief, the brazier’s fire seemed to run hotter than the ancient sea of flames guarding the Multiverse’s borders. It banished the darkness of death and created a growing sanctuary within Zac’s layered domain. [Love’s Bond]’s anthracite chains suddenly stood out like a sore thumb as they tried to sneak up on their target.
+
+The chains needed to touch Xiphos to activate [Inexorable Subjugation], but it proved impossible. They were already weakened by the holy domain, and it wasn’t the sage’s only defense. A radiant spirit would form whenever they got within two meters. It vaguely looked like a templar—a defender of the faith—and they had a corrosive effect that reduced the links into brittle clay. Janos’s layer of borrowed faith was no help at all.
+
+The axe wraiths fared even worse inside the holy domain. They were like shadows forced into the sun the moment they drew too close, fading under its scrutiny. [Deathmark] had been upgraded to deal with powerful threats by incorporating a cycle of death and rebirth. However, the brazier’s mysterious fire had blocked the wheel of reincarnation by delivering true redemption to the conjured wraiths.
+
+This wasn’t a video game where priests possessed an inherent advantage against Zac’s Dao of Death. However, Xiphos path clearly incorporated concepts that were effective against the undead, and his faith was bolstered by the Transformation Docks. Knowing that the outcome would have been different if they clashed somewhere else didn’t help. Choosing the right location was sometimes half the battle.
+
+Zac began railing against the barrier with twice the ferocity upon seeing his attempts at stalling had failed. Xiphos closed the distance with one step. [Arbiter of the Abyss]’ cloak of darkness was utterly incapable of isolating the heat of his flames. Zac felt like he was standing on the sun, yet he didn’t hesitate when Xiphos took the step that would bring him to Janos’s side.
+
+Like Zac, Xiphos wasn’t interested in a fight. However, he had no option this close. A the second pygmy of [Profane Exponents] lit up with redoubled power as Zac activated the skill’s one-time boost. A massive black swirl descended on the sage, displacing much of the flames. The flames temporary weakned, and four chains struck like cobras.
+
+Sizzling sounds filled the air as they wound themselves around Xiphos. They held long enough for Zac to activate [Inexorable Subjugation] and yank his target over. The heat was almost unbearable, and it only got worse. Golden flames infiltrated through the gaps in Zac’s armor when he grabbed Xiphos’s robe. The flames then burrowed into Zac’s flesh, trying to root out any taint.
+
+Zac felt a Careful not to emit so much as a hint of Killing Intent, but his Danger Sense still went off with alarming urgency when [Void Mountain] descended. The burning faith had encountered the wave of Void Energy spreading through Zac’s body. Zac lunged at the barrier before the two sides could take each other out in mutual destruction.
+
+Xiphos looked confused then shocked when Zac didn’t end up faceplanting on the resilient shield. He passed right through without any issue, even dragging Xiphos with him. Zac felt pieces of his body getting whisked away to distant worlds by silver whisps. The phenomenon was terrifying more than painful, and not enough to make him forget the plan. The templar wasn’t given time to react before he was hurled toward the gondola waiting on the other side.
+
+Zac had never tried to break through the shield in earnest—there was no point. His initial strike was enough to confirm it was a Peak D-grade barrier and not a feature of the docks. That meant the barrier was well within [Void Mountain]’s ability to phase through. Everything, including ordering Janos to help out, was a misdirect to implement his true plan.
+
+Xiphos erupted with a wave of light as he created a wall between himself and the boat. However, his flames of conviction were almost completely suppressed by an invisible wave of nothingness. The method was exactly the same as what Zac used to deal with Xinyi’s doppelganger, with only the end-goal being different.
+
+Zac was suddenly beset by an overwhelming sense danger, far surpassing anything from before. It disappeared as quickly as it came. Zac still ordered his chains to drag him back to the pier without confirming Xiphos actually claimed the gondola. He reappeared on the docks, his back slick with sweat, just as Xiphos lightly landed on the [Peregrine Gondola]. A weak ripple spread out with the sage at the center, allowing Zac to exhale. Xiphos had become part of an alternate timeline.
+
+Zac watched the gondola embark with complex feelings. He could tell that Xiphos had been close to unleash some hidden ace in the hole, one that made Zac feel like he faced a Peak Monarch. For some reason, the Enkindling Sage decided to hold back and accept his lot.
+
+Xiphos returned Zac’s look with a thoughtful expression. “I’ll trust my instinct this time. I cannot promise I’ll do the same in the future.”
+
+“I know. For what it’s worth, I haven’t lied to you,” Zac said, adding after some thought. “We both only hold a piece of the puzzle. I think it’s too early for the truth to come into the open. The answers you seek might be waiting in the Mercurial Court. It’s just that knowledge can be a curse. Be careful.”
+
+Xiphos was already halfway covered by the churning silver mist. He’d still heard Zac’s words. His smile had returned, and he nodded. “My friend, I hope the Heavens give us a chance to have a real talk under the shining light of clarity. I guess we both have challenges to overcome to reach that point. Her highness appear to be more… let’s say efficient, than I.”
+
+“Wh—” Zac stopped, and his heart thumped from the familiar bloodline resonance.
+
+Zac whirled around, spotting a small dimensional crack in the middle of the docks. A putrid wind of blood and destruction came out of it, but something prevented Zac from seeing what hid on the other side. The sealbearers nearby gave the odd phenomenon some additional berth, just like when Zac passed through. It wouldn’t be enough.
+
+A projectile shot out with supersonic speed the moment the gate had expanded to the size of a manhole cover. Zac thought he could see a head twisted in horror before it slammed into the docks and triggered the apocalypse. A primal force holding the wrath of a volcanoes and the ferocity of a hurricane burst forth and swallowed everything in its path.
+
+Eight doppelgangers were immediately ripped apart by the blast. Their defenses meant nothing before the unshackled forces of nature. The natives were spared the brunt of the destruction, but they were still beaten within an inch of their lives. Meanwhile, the dimensional crack had expanded enough to fit a person, and the haze was swept away by a stalwart figure.
+
+It was Astora Theomore walking over a mound of corpses to emerge from a nightmare realm. She didn’t wield any weapon, she was the weapon. Her hands were dripping with blood, and crackling forces swirled around her arms. She was actually a pugilist, and Zac could finally discern the horrifying levels of Strength her frame held.
+
+Zac had finally found his match in raw strength. Actually, Astora Theomore might have him beat. Her raw Strength wasn’t necessarily higher than his, but Zac’s Void Emperor Bloodline mostly provided utility. Only [Spiritual Void] giving some direct strength in combat. Meanwhile, his Life-Death constitutions were almost solely focused on boosting defense.
+
+Meanwhile, Astora felt like a humanoid calamity as she stepped onto the docks. Astora’s bloodline thrummed with destruction. Her Hidden Nodes, talents, bloodline—everything must be geared toward destruction to exhibit such a hair-raising aura. And why not? Would a Theomore Princess lack exceptional War Regalia and other defensive treasures? Would she lack sturdy guardians to take the hits?
+
+The answer was no, even in this situation. A squad of royal guards emitting a bloody enough aura to make Zac’s Killing Intent pale in comparison streamed out of the dimensional gate. Astora’s order was drowned out by the noise, but its meaning quickly became clear. The guards moved out in pairs, ruthlessly cutting down any doppelgangers left on the docks.
+
+The invaders unleashed terrifying treasures or abilities in a desperate attempt to survive, but the Royal Guards were completely unstoppable. Glowing runes on their armors seemed able to negate any form of attack. Such measures couldn’t possibly be part of their own strength, seeing as they were only Peak Hegemons. A Monarch or even Autarch must have imbued their regalia with their Dao like a battery. Zac swore, knowing playtime was over.
+
+Another dozen invaders fell in less than a second, completely upending the balance on the square. The freed-up sealbearers didn’t dare to show any dissatisfaction, nor did they dare head for the gondolas. They joined the executioners on their sweep, eager to display their loyalty.
+
+A few doppelgangers desperately fled toward the gondolas, and Zac finally saw why not a single one had given up on killing their twin. The invaders fell right through the gondolas and were swallowed by the Peregrine Ocean. Zac guessed their qualification couldn’t be ascertained while there were copies running around.
+
+There were dozens of invaders between Zac and the growing army, but it wouldn’t take more than a minute or two before order was restored. Zac definitely wanted to be gone by then. He’d already deactivated all his skills to weaken his presence, including [Arbiter of the Abyss].
+
+“It’s up to you now,” Zac said, adding after seeing Janos hurry past five gondolas without giving them a second look. “You’re sure you can tell which ones are safe to pick?”
+
+“Equal danger, different time,” Janos said, pointing at the gondola they just passed. “Almost a century to reach the Mercurial Court.”
+
+“A century?” Zac spat, recalling the opportunity given to the Joyful Gardens.
+
+If this trial worked anything like it, then the unlucky sealbearer who picked that gondola would barely have time to get settled before being sent back home. The century spent at sea might provide valuable insights, but they had to pale before the court’s true opportunities.
+
+Zac pointed at the dense swirl of silver on the ocean. “What about his boat?”
+
+“Three months,” Janos said before adding a caveat. “But corrupted.”
+
+“He’s right,” Esmeralda said, ancient patterns flickering in her eyes. “The clues are stronger now. I think I sensed a weak hint of fallen Dao in its depths of space.”
+
+Zac felt mixed emotions about forcing Xiphos on such a dangerous journey. Whatever his reason, Xiphos had provided valuable information when Zac first arrived at the inner region. While he’d targeted Janos, it wasn’t out of malice. The young sage was simply trying to find a solution in a grave threat. If anything, he acted with more restraint than Zac would if the Atwood Empire faced a similar danger.
+
+“Don’t worry about it too much. He’s very strong, and the taint of corruption didn’t seem very powerful. Nothing like those twisted realms,” Esmeralda comforted. “The journey might even be an opportunity for him.”
+
+“Let’s hope so,” Zac sighed. “Let’s before more variables pop up.”
+
+Xiphos had stopped them just before reaching their destination. Janos only continued past two more gondolas before stopping.
+
+“One month. Probably shortest route.”
+
+“Can’t feel any corruption,” Esmeralda added.
+
+The toad still displayed a hesitant expression that Zac could empathize with. He’d known this would happen, but knowing that his life and death would have to depend on the rickety skipper was a hard pill to swallow. It wasn’t even one of the nicer models equipped with a sunroof.
+
+Janos’s own boat was only a few spots over, and he jumped aboard without hesitation. The timeline ripple confirmed he accepted and locked in. Silver haze rose from the rippling waters, and Zac was shocked to see that Janos’ tool was able to absorb it just like the ambient faith.
+
+“Remember. The journey is a month on the outside. What you’ll experience is another matter,” Janos said as the gondola set out. “Don’t follow in our footsteps. Don’t lose yourself in the dream.”

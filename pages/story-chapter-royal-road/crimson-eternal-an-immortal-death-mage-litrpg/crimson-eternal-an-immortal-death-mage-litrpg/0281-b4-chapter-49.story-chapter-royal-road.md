@@ -1,0 +1,109 @@
+---
+id: 367a0f48-b4b5-53ce-9b2c-445bb01be4a2
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 49"
+slug: 0281-b4-chapter-49
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 281
+ownLength: 1422
+unit: words
+ownProgress: 1422
+publishedAt: 2025-05-24
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2303284/b4-chapter-49"
+royalRoadId: "2303284"
+markedReadAt: "2026-06-29T19:15:18.955Z"
+---
+
+Aria
+
+After a very brief pause, I tilt my head and ask, “With who?”
+
+Leonidas grimaces and glances at the others. And after they all nod their heads in response, he turns back to me and answers, “We’re at war with two of the more recent planets that were initialized into the System around the same time as Vortel was, along with one Beta Tier world that’s been around for a while. And they’re all coming into the planet through Gates on the ruined continents before sailing here to attack.”
+
+Oh? The ruined continents?
+
+Interesting.
+
+And they’re at war with three different planets all at once?
+
+If I had to guess, those two new planets are most likely in some sort of alliance with the Beta Tier planet and are using that alliance to face off against Vortel. All while taking advantage of the geographical situation on Vortel to do it.
+
+“Alright, then would you like me to assist you in this war?” I ask with a faint grin stretching across my face. “Would you like to hire the Pale Mercenaries?”
+
+All of them immediately freeze in place at my suggestion. Then Hannah opens her mouth and says, “We couldn’t possibly-”
+
+Only to be cut off by Leonidas answering, “We would be grateful to have the assistance, Aria.”
+
+Hannah turns a shocked gaze towards him as she shouts, “Leo?! What are you doing!? We can’t let her involve herself in something like this!”
+
+“I’ve involved myself in far worse things than a minor war between some smaller nations,” I comment while waving my hand, briefly glancing at the kids. “And if I hire the Pale Mercenaries I should be able to deal with this war in a rather short period of time. Enough that I’ll be able to get back to Eternus quickly enough for Ruby and Ryan’s enrollment in school.”
+
+Hannah proceeds to reject it over and over again, and Adrian does the same, although probably out of pride more than anything else. But in the end Leonidas just overrules them all and accepts my help. What with him being the general and all, outranking each one of them despite their friendship and comradery as a team.
+
+After hearing Leonidas’s acceptance of my help, I go ahead and pull up my terminal on my arm wrapped around Ruby. With the girl in question snuggling closer to me as I pull my arm around her a bit more to look at the screen, clearly taking advantage of my movement to do so in a rather adorable way.
+
+I faintly smile at the sight before calling Little Blue. And surprisingly enough, she answers right away, her face appearing on the terminal screen.
+
+“Is there something you need Aunty?” she asks with a slight frown on her face. Probably because I’m not the type to call all that often. Especially not within a day of leaving.
+
+“How many forces do you think we could and should send to aid the Albarian nation in their current war?” I ask with a slight frown on my face, shocking her into a stunned silence. One that lasts for several seconds.
+
+Eventually she snaps out of it and begins doing some calculations out loud until she answers, “We can currently send a force of fifty thousand to aid the Albarians. All of whom are equipped with Rex infantry armor and are at the very least level three hundred.”
+
+That silences the argument in the room as every single one of my past teammates turns to stare at me. But I just ignore them as I ask, “I’ll pay for the job and lead the forces myself, so go ahead and send them over after I negotiate with the council of generals here.”
+
+There’s no way I’m going to let some shitty worlds go and kill some of my oldest and closest friends. No way in hell.
+
+“Understood, I will await your orders,” Little Blue says with a wide smile stretching across her face. No doubt from seeing me actually take charge for the first time in ages.
+
+Then I hang up the call and ask Leonidas, “Mind taking me to see your council of generals?”
+
+He nods his head with a smile and we both quickly make our way out of the room and then the building. Heading straight towards their council building in the capital, where we eventually find the council already assembled.
+
+And with a certain someone I recognize still on it to my surprise. Mostly because I had thought they’d retired.
+
+Guess not.
+
+Or they just returned to service or something.
+
+Elara Crescent. The general who was originally trying to arrest me after I killed their emperor for revenge and revealed who I was to them. What my Class was.
+
+And yet she still looks the same as she did back then. Albeit with her level being too high for me to see.
+
+Leonidas says it’s around level three hundred though.
+
+“General Striker says you wish to give us aid in our war?” Elara says, half as a statement and half as a question. “Why would Death herself wish to interject herself into a war of our scale?”
+
+I raise a brow at that and answer, “Why not? I want to protect my friends here, and have the means to do so. Is there any reason I shouldn’t?”
+
+Her eyes narrow and she states, “You do realize this could influence the outside universe as a whole, implying that you are allied with our world and are taking a step into universal politics, correct?”
+
+“Like I give a shit about politics,” I state rather bluntly while crossing my arms in front of the circular table that the generals are all sitting at. Making the generals all flinch at the slightest of movements from me. “I’ll be helping them whether you give me permission or not.”
+
+She stares at me, meeting my gaze. And I stare back. For an entire two minutes of silence.
+
+Then she eventually sighs and says, “Very well. We will accept your aid.” But before I can say anything in return, she raises a finger and continues, “But I will not accept your aid for free. That would set a bad precedent for our nation and imply we had to turn tail and run to a Horseman of the Apocalypse for a handout because we couldn’t fight for ourselves.”
+
+I blink at that before uncrossing my arms.
+
+“So you want to pay for my services then instead of being given them for free?” I ask, making each and every general in this room – including Leonidas – nod their heads in response. “Very well then. But the price won’t be cheap, you should realize this now.”
+
+I don’t really care who pays. The financial side of the mercenary company is on Little Blue to manage.
+
+In which case, I go ahead and call Little Blue again before asking someone if they have a projector I can project the call to. And once I get that set up, I project my call with Little Blue to a large screen in the general’s little chamber as I state, “The price of our aid will be negotiated between you generals and my second in command here-” I pause as I try to remember Little Blue’s actual name instead of my nickname. A process that takes more than a few awkward seconds that has her blushing a little. “-Nerissa Atlantus Azurion, the ninth in line for the Atlantean throne.”
+
+I’m a little surprised I remembered her actual name… considering how long I’ve called her Little Blue.
+
+“Very well,” Elara states, sounding slightly awkward and a little bit amused at that pause. “I will begin negotiations with Her Highness right away.”
+
+I nod my head at that before turning around and leaving the room. Immediately heading towards the guest room where I left the kids.
+
+Fortunately for me though, when I reach the room, I find both of them fast asleep on a couch while holding each other. Which is honestly rather adorable.
+
+I go ahead and pick both the twins up into my arms before leaving the building and heading back towards the mansion where the others are waiting. Only to pause for a second and change course towards that café I remember from the last time I was here.
+
+That café better still be here.
+
+The owner promised me it would stand tall for centuries, and if they lied to me…
+
+There’ll be hell to pay.

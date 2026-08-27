@@ -1,0 +1,191 @@
+---
+id: 024edc6f-650e-5ad1-be03-6067639f7f55
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 40"
+slug: 0346-b5-chapter-40
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 346
+ownLength: 1491
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/3368818/b5-chapter-40"
+royalRoadId: "3368818"
+---
+
+Aria
+
+The battle between Famine and the Grands continues for several months with neither side losing during this time. Proceeding in a manner that’s rather unorthodox for battles if I’m being honest.
+
+From what I see on livestream footage, it’s pretty much Raja and Famine fighting against each other while Raja occasionally manages to toss Famine out of the Plane of Famine onto one of several planets where other Grands and some armies are all waiting. Letting those armies and Grands continue whittling him down bit by bit.
+
+As for how exactly Raja managed to convince the Void Spirits to open so many different entrances into the Plane of Famine?
+
+I have no idea.
+
+But I guess if anyone would convince them, it’s Raja.
+
+Raja has complete control over the Gates after all, and he’s the oldest creature in the universe that isn’t a Horseman himself.
+
+The Gates and whatever treasures he may have might be enough to make those rigid Void Spirits move.
+
+Unfortunately for many people, the Void Spirits couldn’t care less about mortals. They don’t care about their money or their political and social affairs.
+
+Sure they accept an enormous payment for revivals, but they don’t actually use that money. The only reason they take that money is because they believe it’s necessary for the mortals to pay for what they want.
+
+To be more specific, to pay an equivalent price in the mind of the payer in comparison to how much the revival is worth in the Void Spirit’s eyes to the Void Spirits. And thanks to that they’re already filthy rich with no need for money.
+
+So the Void Spirits couldn’t care less about money unless it’s part of that equivalent exchange.
+
+If they don’t want to give something or to help, they won’t.
+
+And you can’t buy their help if they’re against it.
+
+It’s as simple as that.
+
+The only things that come to mind for what Raja gave them is some sort of void treasure or something.
+
+Either that or Famine ended up pissing them off somehow.
+
+I guess I could see that happening too.
+
+On another note, from what I’ve heard, Pestilence and War are completely ignoring Famine’s current situation. And even if Famine reached out for help, they wouldn’t lend it.
+
+They don’t care about each other after all.
+
+The only one who might help the other Horsemen is Famine, and that’s because of his supremist belief about Horsemen making it feel like a Horseman being attacked is blasphemy or something.
+
+Although I’m not entirely certain about that either. Since it might go against his supremist views. Helping another Horseman.
+
+In his eyes, the Horsemen probably need to win every battle without help from outsiders.
+
+Otherwise they wouldn’t be Horsemen to him. Since they wouldn’t be supreme existences anymore if they lose.
+
+Anyway, I continue on my little journey around the universe for a little while before eventually getting curious and heading to one of those gates into the Plane of Famine. Just to see what’s going on in here.
+
+And what I find is an enormous plane filled with nothing but blackened desert sand and people starving all over the place. With numerous Famine Spirits patrolling all over the plane.
+
+Right. I forgot that Famine can banish people to his Plane.
+
+Actually, it’s not just him. Other people can banish people to other Planes in general.
+
+It’s typically used as the highest form of punishment for crimes since it’s incredibly cruel.
+
+Banishing them to other Planes is a hellish experience for those being banished. Since the Planes make sure they stay alive while in it.
+
+There’s a reason people refer to those Planes when they mention hell after all.
+
+And some of the Planes are far worse than others.
+
+Like Famine, and Death, and Pestilence.
+
+Actually, the four Horsemen’s Planes are the worse of them all when it comes to how terrible it is for mortals to live in them.
+
+In War’s Plane, everyone is forced to fight forever. Never being granted a break, and not even having the stamina to keep up.
+
+All while not being able to die.
+
+They just fight and fight and fight to the point that every single muscle in their body feels like it’s on fire.
+
+And they’re never allowed to stop. They keep going like that forever.
+
+As for Pestilence’s Plane?
+
+Anyone banished to the Plane of Pestilence is forced to experience every last form of pestilence for eternity. Never being allowed to die or feel relief from it.
+
+And Famine’s Plane is just what I see in front of me.
+
+Starvation for eternity.
+
+I purse my lips at that before continuing through the Plane until I hear the sounds of battle. At which point I head in the direction I hear it coming from.
+
+Where Famine is no doubt fighting Raja.
+
+My own Plane of Death is one of the cruelest of them all though.
+
+In the Plane of Death, those banished there are forced to experience every possible form of death one after another without end.
+
+For all eternity.
+
+They die over and over and over again. Experiencing every single possible way of death in existence.
+
+And even if they somehow experience them all, they’re just forced to repeat the process again.
+
+Forever.
+
+Like some endless, hellish dream.
+
+I’ve actually released quite a few people from the Plane of Death already. Just because they were people who apparently were wrongfully banished.
+
+Shirogane showed me a list at some point. One consisting of all the people who were wrongfully banished by criminals and the like to the Plane of Death.
+
+As for the actual criminals?
+
+I left them alone.
+
+Although depending on what exactly they did, I might let some go in the future. After they’ve paid for their crimes.
+
+But at the end of the day, I don’t really care about them.
+
+Anyway, I continue through the Plane of Famine until I finally find Famine and Raja clashing.
+
+And what I see is rather interesting.
+
+Raja is using miasma to fight against Famine’s Famine energy. All while both of them are clashing with claws and blades so quickly that I can’t even register most of the attacks in my mind, much less my vision.
+
+I purse my lips before giving a firm nod to myself.
+
+Then, under the seemingly bewildered gazes of the Famine Spirits – I say seemingly since I can’t actually see their gazes under their hoods and armored visors – I begin to set up a lawn chair and various other amenities. Like one of those beach umbrellas and a table that I have my Death Spirits put various wines on.
+
+And just like that, I sit back and relax while watching the fight.
+
+Of course, it doesn’t take long for both Famine and Raja to notice me. But the only thing they do after that is Raja giving me a deep bow and Famine nodding his head.
+
+And I just give them a brief nod of my head back while raising a glass of wine with a smile.
+
+They don’t respond to that though. They just continue fighting without another word.
+
+And I continue watching them without another word. As they clash over and over again, sending shockwaves around them in the process. With Raja occasionally dragging Famine into a gate leading to the mortal universe. Where Famine is ambushed by numerous people.
+
+Over and over again.
+
+In some of these ambushes I even see other people I recognize.
+
+Like Arthur, Leopold, Shirou, and my own family.
+
+Actually, something I can’t help but notice is the fact that I can actually see my family. Yet nothing is happening.
+
+I’m not being teleported and neither are they.
+
+I blink as I realize something.
+
+Holy shit…
+
+I hurriedly check on the curse, only to find it completely gone.
+
+Wait a second, did coming to the Plane of Famine really just erase that curse? Was that really all I needed to do?
+
+I find myself staring flabbergasted at the battle in front of me. Only to eventually just shake my head.
+
+Well, whatever.
+
+Doesn’t really matter much to me.
+
+Still. I should mention this to Shirogane.
+
+Apparently just coming to the Plane of Famine alone is enough to break curses. Simply through the Famine energy in the Plane of Famine devouring the curse.
+
+Anyway, I continue watching the battle while sipping my wine.
+
+Honestly, the main reason I’m here isn’t even for entertainment anymore.
+
+It’s to grab any soul cores from any Grands who might die.
+
+Because those will be very useful.
+
+Especially if it’s Famine’s.
+
+I’m absolutely certain I could use Famine’s soul core as a really nice source of soul energy.
+
+With that thought in mind, I take another sip of wine and let out a sigh.
+
+As another round of explosions and shockwaves fill the Plane around me, sending my hair flying back behind me in the process.

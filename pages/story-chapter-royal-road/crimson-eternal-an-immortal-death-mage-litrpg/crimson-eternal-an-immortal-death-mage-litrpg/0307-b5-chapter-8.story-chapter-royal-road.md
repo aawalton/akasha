@@ -1,0 +1,135 @@
+---
+id: 24938e64-a616-55bf-9e41-8edc9d378ec3
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 8"
+slug: 0307-b5-chapter-8
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 307
+ownLength: 1410
+unit: words
+ownProgress: 1410
+publishedAt: 2025-09-25
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2628410/b5-chapter-8"
+royalRoadId: "2628410"
+markedReadAt: "2026-06-29T19:16:15.665Z"
+---
+
+Aria
+
+The void spirits quickly bring me inside of the largest temple in the little dimension by far, and all the way to a guest bedroom where they tell me I can relax and enjoy my time while staying with them. They also inform me about the one single Hunter’s Spot in this dimension that I didn’t know about and probably would never have realized was a Hunter’s Spot.
+
+That being the large black sun.
+
+And the only thing they ask of me in return is to open a rift to the Plane of Death and bring the Grand Death Spirits to the rift so that they can speak.
+
+So they don’t exactly ask for much yet are treating me like a VIP of sorts. Which I’m not going to complain about.
+
+Not one bit.
+
+Of course, I go ahead and ask Zero about if they’re fine with it first. Because not only would it be rude to just bring them to a rift without saying anything, but even though they are immortal like me, this could be some plot by the void spirits to harm them. No matter how unlikely that is.
+
+When I ask though, Zero seems perfectly fine with it. Albeit a little apathetic.
+
+And the same goes for the other two Grand Death Spirits as well.
+
+By the looks of it, they’re mostly just doing this to help me and don’t actually care one way or another about the void spirits. Which they’re not even trying to hide.
+
+But I don’t really care one way or another so long as I get access to this Hunter’s Spot without really doing anything.
+
+I do find myself a tiny bit curious about what the void spirits want with the Death Spirits though. But that doesn’t really matter to me. Not to mention that the Grand Death Spirits will probably tell me later whether I ask or not.
+
+So I leave after setting up the rift for them to speak through, immediately heading straight for the Hunter’s Spot. Which is literally just a massive ball of black flames that is their black sun.
+
+Before I can even begin to search for any sort of entrance though, I notice a few things.
+
+For one, there seem to be some small black fish jumping in and out of this sun.
+
+For two, there are relatively large metal structures here and there that have priests working out of them. Almost like they’re mining for something within the black sun.
+
+And three. There’s a void spirit heading my way that bows once it gets near me.
+
+“Welcome hither, the Grand Dark Sun awaits thou arrival, Lady Aria,” the void spirit states with their usual archaic sounding speech. Following which the void spirit brings me to a single random hole within the black sun’s surface. One that seems to stretch on endlessly within the black sun. “Thou shalt find what thee art looking for thence.”
+
+I blink once at their language that is actually getting to be a little tough to parse, only to shrug and decide that I don’t need to understand it to understand what they mean.
+
+That being that this is the entrance to the Hunter’s Spot.
+
+So I go ahead and wave at the void spirit before flying right into the large hole.
+
+And I continue flying.
+
+And continue even more.
+
+For a total of what feels like half an hour before I finally find something. Some sort of large open area filled with wisps of black flames that I can sense life force a coming out of.
+
+Most of them are all rather low level when I look at their level though. Probably because this has to be the first Tier of the Hunter’s Spot.
+
+So with that thought in mind, I go ahead and summon hundreds if not thousands of my Death Spirits all over the place before ordering them to begin slaughtering these wisps. Which they do with ease, proving that despite them being wisps, they’re not very difficult to kill.
+
+Good.
+
+I was a little worried I wouldn’t be able to kill them or something. Seeing as they’re nothing but floating balls of black flames with life force in them.
+
+What’s most important about a place with mana creatures like this though is that they’re nothing but balls of flame. And I highly doubt I can be eaten by a little ball of flame, even if they get bigger in the higher Tiers.
+
+So I may actually be able to get through a Hunter’s Spot without being eaten.
+
+That thought brings a smile to my face as I pull out my eBook reader and start reading while my Death Spirits slaughter the mana creatures.
+
+Finally able to advance towards my purpose while reading and without having to worry about being eaten.
+
+How nice.
+
+Two weeks later
+
+The whole idea of big formations of black flames having a stomach and being able to digest things is ridiculous. They’re literally just a mass of black flames. So what do they even need stomachs for?
+
+Their flames that make up their bodies should be enough to ‘digest’ anything they ‘eat’ after all.
+
+But nope.
+
+This giant blob of black flames in the shape of a massive fish just has to have a stomach.
+
+I pout while crossing my arms and sitting cross legged inside of the black fire fish’s stomach.
+
+Another call goes in through my terminal, but I ignore this one just like the last ten. Because I know if I accept a call in something’s stomach that Shirogane will make fun of me in some way the moment he notices.
+
+And I can’t have that.
+
+On another note, I really need to ask Raja about that device to see how far he’s come working on it. The one he mentioned working on before that should let me get out of stomachs by teleporting me somewhere nearby.
+
+Close range random teleportation is a very… touchy thing. Especially when you may be teleported into another object. So he’s been working very hard to make sure a nuclear explosion doesn’t occur when I teleport into something else. Since it wouldn’t be good to accidentally blow things up.
+
+Normally teleportation spells and items can’t even teleport you into another object. Since there’s a bit of a wall that is damn near insurmountable blocking someone from doing that and leaving them just outside of the object in whichever way is closest to them.
+
+But one of the nine Grands can break past that wall after quite a bit of effort. According to Raja, at least.
+
+I really can’t wait for him to finish the device though. Because when he does I should be able to teleport out of most of these mana creatures’ stomachs without help.
+
+Or, in the case of the larger mana creatures, I can at least teleport somewhere else within its body and begin wreaking havoc on it from the inside out. Without caring about the strength of its stomach’s walls.
+
+My thoughts come to an abrupt halt when everything inside of the black flame fish’s stomach suddenly begins to shoot straight towards the entrance I came in through. Following which I find myself going straight through its body before getting spewed out through its mouth.
+
+Then I just blankly watch as the black flame fish lets out a huff of air – not sure how that’s possible for sooo many reasons – and turns around to leave.
+
+Did… it just vomit me out? Before huffing at me?
+
+Wait, was it upset it couldn’t digest me or something?
+
+That’s…
+
+Unusual.
+
+I stare at the departing fish through the very dim black light of the flames making up the walls and ceiling and floor of this Hunter’s Spot before said fish dives into said walls. Then I sit in the middle of the path for a few seconds before finally moving again.
+
+Well, whatever. I’m out of the thing now.
+
+A few seconds later another large fish jumps out of the black flames and gobbles me up. Following which I’m vomited again in just a few minutes.
+
+This is getting unpleasant.
+
+I grimace as I summon more Death Spirits and have them comb through the Hunter’s Spot to kill as many of the mana creatures as possible. All while occasionally being gobbled up myself and then vomited back out.
+
+Over. And over. Again.
+
+I’m really starting to dislike this place.

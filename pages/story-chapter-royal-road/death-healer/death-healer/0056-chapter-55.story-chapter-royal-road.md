@@ -1,0 +1,191 @@
+---
+id: b5a916df-eb45-5fbe-9b52-185d360f117b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 55"
+slug: 0056-chapter-55
+partOf: death-healer
+position: 56
+ownLength: 2077
+unit: words
+publishedAt: 2025-08-07
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2500281/chapter-55"
+royalRoadId: "2500281"
+---
+
+“Where is she, Adriana?!” Lucianus slammed a fist against the wall of the villa, punching a small crater into it and making the entire estate tremble. “Where is my daughter?!”
+
+Adriana did not flinch. She sipped her wine with a composure so absolute it was almost mocking. Her eyes never left the surface of the cup.
+
+She only glanced at Hadrian, the man who had come with Lucianus and the only witness to this fight.
+
+“I’m sure she’s safe,” she said. “Which is more than I can say about your temper.”
+
+Lucianus’s knuckles bled. His chest heaved. Every muscle in his frame trembled with the barely contained rage of a man who had lost control over what he valued most.
+
+“WHERE IS SHE!?”
+
+“I have no idea,” Adriana replied calmly, finally meeting the furious eyes of her husband.
+
+“She’s vanished for three weeks! The estate was sealed. And now she’s gone.” His voice shook. “Do you think I’m stupid, Adriana?”-
+
+Adriana let the question hang in the air for a moment.
+
+“Do I?”
+
+“Lucianus,” Hadrian said with a deep voice, “I believe perhaps we should let your wife—”
+
+“AHHH!” Lucianus shouted, interrupting the man. “Adriana, on my family’s honor, if you don’t tell me where—”
+
+“Honor?” Adriana slowly rose from her seat and launched a [Light Shield] around them. All the servants had already evacuated the estate after Lucianus had come back, guards included, but she didn’t want any more damage to her house. “What honor?”
+
+“What honor? What honor?!” Adriana shouted back now throwing the chalice of glass at him, which shattered on the wall right beside his head.
+
+“She is my daughter!” Lucianus replied, punctuating his words by rapping his index finger on his chest.
+
+“Is she? Is she your daughter? The daughter you refuse to teach? The daughter you refuse to look at as your heir?
+
+“I want to protect her!" Lucianus shouted so loud that his Mana carried it to his voice and made the [Light Shield] Adriana had summoned tremble.
+
+The man now panted like a wounded beast.
+
+“Where were you?” Adriana asked. “Where were you when our daughter needed you? You slapped her in front of everyone. Is there a single word she uttered to Aurelianus and that whore that you disagreed with?! ONE?!
+
+Lucianus gritted his teeth and struggled to find the words against the sharp arguments of his wife.
+
+“Aurelianus is the Patriarch of a—”
+
+“I don’t give a shit!” Adriana shouted. “Dawn’s Mercy! What scared rat have I married?!”
+
+Lucianus recoiled at those words. He had never heard, even after all this toiling, Adriana say something like this. In this moment, he didn’t feel like her husband, the Patriarch, the man who was accruing more power in his hands than anybody else, ready for his revenge.
+
+He felt like he was fourteen again, squaring against the Princess of Lumina, the strongest caster, the most potent warrior at her age, a talent for the ages.
+
+Hadrian on the side, felt like he wanted to bury himself in a hole and never come out. In his wisdom, knowledge, and all of that, he really didn’t want to be on the wrong side of this woman.
+
+“Adriana, I—” Lucianus, feeling the unbound rage of his wife mounting, was actually ready to retract. He was feeling the kind of reverence he hadn’t felt in more than a decade for his wife.
+
+“What? Are you scared I’ll leave you?” Adriana said. “Because I will, Lucianus. I will leave you. I will leave this Light-forsaken house for good! And don’t worry about me, I have already found the precedent.”
+
+“What?” Lucianus frowned, not following anymore.
+
+“I found it in the law. I can request a divorce, and my brother has to agree. Oh, and by the way, I found a way for your daughter to become a Champion. Not that you asked.”
+
+“W—what…”
+
+Adriana looked at Hadrian, the man who had been so mysterious and always by the side of her husband. Now that she had the [Librarian] Class, she knew exactly what this man was, what his purpose was by her husband’s side.
+
+“I am a [Librarian], Lucianus,” Adriana said in a growl. “A cursed, damn [Librarian].”
+
+Both men opened their mouth.
+
+“Why?” that was the only thing that Lucianus managed to say.
+
+“Riddle me this, Lucianus, before I answer: do you know how Flavia, Lavinia’s mother, died?”
+
+“She took a contaminated potion,” Lucianus said.
+
+“Lucianus, answer the question like that again, challenge my intelligence like that, and you shall never see me again.”
+
+“I—I…” Lucianus was without words.
+
+“There were no other batches of contaminated potions when Flavia Aurelia was poisoned. No other Undead outbreaks. I had the records scoured. Not one person in Alba, in the span of that week, and barely a few over a month—none of which in Alba—were infected.”
+
+Lucianus turned to Hadrian.
+
+“Wait. Aurelianus could have never—” Lucianus stopped himself when he saw the expression on his wife’s face and immediately understood the crossroad because he wasn’t actually stupid. Either defend Aurelianus without a good reason other than he was one of the heads of the Great Families, or lose his wife.
+
+“He poisoned his wife because he wanted an heir and Flavia’s pregnancies…” Lucianus frowned, his memory on the subject was fuzzy. “I don’t remember, Adriana. I suppose she wasn’t having luck with children.”
+
+“She was dying,” Adriana said, with tears in her eyes. “She had so many failed pregnancies that Aurelianus was holding it over her head, saying it would affect Lavinia. I suspect he pressed that point to have Flavia drink that potion knowing it was contaminated. He blamed it on the Undead, on the Necromonarchy. Easy way to get rid of your wife and get a male heir from a whore. Maybe you should think about it, Lucianus. Maybe that’s what you really need. Just find a whore to bed like your friend and get the male heir you always wanted. I’ll take care of my daughter.”
+
+“Adriana…” Lucianus was feeling disoriented now. All the pieces that he had ignored for all these years fell together. He started seeing things they way his wife must have seen them all this time that he had been out on the front.
+
+“Adriana, I didn’t know—” he muttered. “I… I’m sorry.”
+
+“I had to accept a Class that could get me burned on the stake or worse,” Adriana said, looking at him. “I would have done it for Lily anyway, but you? Where were you? Do you even know your daughter anymore? Do you even know me anymore?”
+
+Now, tears pooled in Lucianus’s eyes.
+
+“I used the Class to find out about your family’s Great Skill. I had Lily take the test and she got four wounds, Lucianus. Four. You know what that means.”
+
+“Wait, what?” Lucianus couldn’t believe his ears. “That’s… impossible.”
+
+“Mesh the Darkness Mana with the Light, Lucianus. That’s what she did. Instead of forcing the Light to overcome the Darkness. I mean, if you think about it, Light shines the strongest in the shadows, no? It just took our genius daughter for us to realize.”
+
+“How strong is her Skill?” Lucianus muttered. “If she unlocked a new evolution, it must be—”
+
+“Probably the strongest your family’s ever seen, no?” Adriana said with a complacent smile tinged with sadness. “And, not to repeat myself, where were you?”
+
+“If I knew—”
+
+“I told you many times,” Adriana said, disgusted by now by her husband’s words, “I told you so-many-times. And you didn’t believe me, Lucianus. This is it. This is the end of the road. And you weren’t here for me or for your daughter.”
+
+Lucianus looked distraught.
+
+“I—” he stuttered, unable to say a word. “What can I do, Adriana?”
+
+“Lucianus, I don’t think you can do—”
+
+This time, it was Adriana’s turn to be surprised because her husband walked up to her and dropped to his knees, putting his forehead against her feet.
+
+This, right here, was the lowest a man could steep to show reverence. If this was in public, Lucianus would forever lose the respect of everyone he knew. And to do that for his wife, a woman?
+
+“I was blind,” he muttered. “I was a fool. I believed myself better than you, than our daughter, than everybody. But you worked out a solution, a path for Lily when I just wanted to shield her from everything.
+
+“I was a fool Adriana. I was, truly” Lucianus continued, talking at her feet. “Do not leave me Adriana, I beg you. I have nothing but you and our daughter. I shall do all that I initially meant to for Lily. She’ll be my heir, I promise. She’ll be the next head of the Gens Claudia. I should have done the same with my sister, but I was a fool. And she ended up taking risks I didn’t want her to take. All because I couldn’t say no to our father.”
+
+Adriana, looking at her husband now crawling at her feet, inhaled deeply.
+
+“Rise,” she said. “Rise and look me in the eyes when you say these things, Lucianus.”
+
+The man did, and looked at his wife’s deep blue eyes, the same color of their daughter.
+
+“I won’t tell you where Lily is,” Adriana said. “Our daughter will risk everything, Lucianus, to get what she needs. Neither of us can shelter her. I don’t trust you to understand what a girl like Lily has to endure to achieve what any boy would have been supported in, every step of the way.”
+
+The patriarch of the Gens Claudia nodded.
+
+“Also, Lucianus,” Adriana said, placing a hand on her husband’s face, “understand this: I won’t stand for how you behaved not one moment longer. Not one instant will pass where you will feel entitled to speak to me like you did. If I have to burn on a stake for it, I will—and you and your [Librarian] friend here will soon follow, though.”
+
+Lucianus looked surprised that Adriana understood who Hadrian really was, but then he reasoned that, having now the [Librarian] Class herself, it wasn’t so preposterous.
+
+“You will share your plans with me and I will share what I learned if you want this marriage to continue. I want to know everything you did, Lucianus.”
+
+At that, the man made a face.
+
+“What?” Adriana asked.
+
+“If I tell you everything, Adriana,” Lucianus said, with a pained expression, “you might want to divorce me nonetheless.”
+
+“It’s a choice I’ll make. So, start from whatever you think is the worst thing you did, Lucianus. How bad could it be?”
+
+Hadrian at this point had sat down and was sipping on some wine. The couple, instead, had stayed on their feet, with Adriana looking at the knife on the table close to her several times in a row.
+
+“You made a deal with what?”
+
+“I made a deal with a God.”
+
+“And not the God of Light?”
+
+“I don’t know how to enter in contact with the God of Light. The only God that we found any record on was the God of Life and Death, Lucas, Adriana.”
+
+“What a weird name,” Adriana frowned.
+
+“So, the only reason I managed to have Lily wasn’t because I got lucky… it’s because…”
+
+Lucianus nodded.
+
+“Because I made a deal with a God. I… I suspect one of the reasons your brother wanted our marriage to happen was that he knew you couldn’t have children. This would create a massive problem for the Gens Claudia since he imagined that I couldn’t have simply have you removed. And if I tried, he would have used it as an excuse to move against me, saying he needed to defend your honor.”
+
+“But how would he have known…” Adriana frowned. “I didn’t know I couldn’t have children.”
+
+“Well, and this is all speculation,” Lucianus said cautiously. “Either someone very close to you knew that you were, perhaps as a result of something that happened to you growing up, or maybe Ennius made sure you couldn’t have children himself.”
+
+“Ennius is an incapable idiot. This doesn’t even sound like him,” Adriana frowned. “In fact, I am absolutely sure this is not his doing. It’s just too…”
+
+Adriana suddenly widened her eyes.
+
+“This was…” she felt a stab of pain in her heart. “No…”
+
+“What?” Lucianus frowned, moving one step forward and taking his wife’s hands.
+
+“This wasn’t Ennius, Lucianus. This was my mother.”

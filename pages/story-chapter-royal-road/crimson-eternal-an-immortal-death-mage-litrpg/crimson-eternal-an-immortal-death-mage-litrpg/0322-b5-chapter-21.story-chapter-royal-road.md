@@ -1,0 +1,125 @@
+---
+id: bb031e8a-2355-5c6e-9d6d-8ef1c594a134
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 21"
+slug: 0322-b5-chapter-21
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 322
+ownLength: 1506
+unit: words
+ownProgress: 1506
+publishedAt: 2025-12-04
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2818954/b5-chapter-21"
+royalRoadId: "2818954"
+markedReadAt: "2026-06-29T19:16:46.373Z"
+---
+
+Aria
+
+It doesn’t take all that long before my identity ends up getting revealed during the tournaments. What with my immortality and all stopping me from dying or even getting injured when hit. So eventually the internet learns exactly who the ‘Crimson Blade’ is. Which leads to a rather large uptick in the number of people going to watch my fights.
+
+Not that it matters much to me, since I just continue to fight. And fight. And fight some more.
+
+Of course, I make sure not to use a couple skills in particular. Unless a fighter just pisses me off somehow, that is. In which case I make sure to give them a permanent wound or two.
+
+Or I just kill them entirely and harvest their entire soul. Making it so they can’t ever be revived.
+
+But the latter barely happens. Mostly because I don’t generally bother killing the enemy in the majority of my duels.
+
+I just leave them bruised and beaten on the ground before walking out.
+
+Meanwhile, as I’m going around fighting in some rather pointless but slightly entertaining duels and battle royales, the internet just keeps going wild about that broadcast. The one where War killed the Archmage.
+
+And, pitifully enough, the Arcadian Society has pretty much just written her off and sent a request to War and Famine to end the war now that Isabella is dead. Which goes to show just how those magicians think of their own.
+
+It’s kind of sad.
+
+What’s even worse is that the Arcadian Society’s second in command has already taken over the title of Archmage and is offering War and Famine reparations for the war. Despite the two Horsemen starting said war without any real cause. Other than picking a fight with Isabella, that is.
+
+I yawn a little while walking down the pathway between arenas in the direction of one of the Hunter’s Spots. Since I’m feeling in the mood to fight in one of the Hunter’s Spots and level up some more.
+
+While taking a nap. Because that’s what the Hunter’s Spots are really for.
+
+They’re for me to lie around taking naps and reading or watching TV while my Death Spirits slaughter things.
+
+On another note, the Arcadian Society has been removed from the list of Grands. Making it just a regular albeit rather powerful nation. And there are now only eight Grands in terms of the individuals as well.
+
+So a lot of the other Grands are a little happy about that from what I’ve seen. Or maybe relieved should be the more accurate term?
+
+The Arcadian Society under Isabella’s rule was rather aggressive. To the point that it would constantly spark conflict with the other Grands even if those conflicts never ended up in war.
+
+It was mostly just in the form of them interfering in issues out of nowhere or messing things up for other Grands economically. All in Isabella’s little attempt to get back at those who either attacked her before or sat back while she was being attacked.
+
+But now the new Archmage isn’t doing any of that shit anymore. He’s even abolished that little illegal magicians group the Arcadian Society had whose name I can’t remember.
+
+Thanks to all this, most people both inside and outside of the Arcadian Society are all for the new Archmage.
+
+In with the new skilled leader out with the old corrupt one and all.
+
+None of this really matters much to me though. Other than the fact that this opens up the Arcadian Society for my travels. So I’ll probably head there at some point now that it’s not led by someone who wants my head.
+
+I continue ignoring all the people taking pictures of me as I pass them by before eventually arriving at my destination. Of which I can see rather clearly from a pretty far distance away.
+
+What with the massive scarlet portal floating several meters above the ground making it rather hard to miss. Not to mention the immense amount of War energy flowing into it from the surroundings. War energy so thick that it’s visible to the naked eye without even using any sort of magical sense. Specifically in the form of a scarlet mist moving into the portal.
+
+Something else that’s unusual about this Hunter’s Spot is that mana creatures are actually leaking out of it. Albeit ones that are immediately fried by some sort of electrical current running across the ground.
+
+A current they seem to turn off whenever someone registers that they’re entering the place. So that they don’t end up being fried too.
+
+I look around for a brief second before nodding my head once and just walking right onto the electrical field with my hands in my pockets. Then I continue walking all the way until I reach the portal without a care in the world for the electrical current running through me.
+
+Which seems to leave the spectators around the area more than a little stunned. But I ignore them just like I’ve been doing for quite a while now.
+
+And when I reach the portal, I go ahead and jump straight into it. Leading to me landing on the other side.
+
+In the middle of a massive army. One that’s fighting itself.
+
+The army is so massive that I can’t see the end of it no matter which direction I look. And to top that off, the army is filled with mana creatures of all types. Whether soldiers in armor or even monster-looking zombies and regular massive lizards that turn out to not be so regular when they start breathing electricity mixed with fire.
+
+A smile spreads across my face and I finally take off the cloak I’ve been wearing to hide who I am. Not that it’s been helping much ever since my identity was exposed. Then I go ahead and begin summoning an entire army of Death Spirits that I send out to fight the army all around me.
+
+All while I have a couple random Death Spirits begin to set up a nice little place for me to relax.
+
+My smile grows a little bit as I stand back and watch all of my Death Spirits fighting against the mana creatures. With the three Death Spirits who are just moving around setting up my lawn chair and TV and other stuff.
+
+And when those three Death Spirits finish with setting things up, I go ahead and lie down on the lawn chair with a sigh. Only to pause for a moment and shrug before setting up a privacy field and changing out of the armor I’m wearing into something far more comfortable. A regular jacket over a t-shirt and shorts.
+
+Then I dismiss the privacy field once I’m finished changing before turning on the TV.
+
+Right, so which episode did I leave off on for that TV show? Or maybe I should just rewatch the whole show…
+
+I end up spending a decent chunk of time agonizing over whether I should just continue it or rewatch the entire thing as my Death Spirits continue to slaughter mana creatures around me. And even a certain little kitten decides – surprisingly enough – to join the Death Spirits in their slaughter. Which doesn’t normally happen.
+
+After all, Asher is generally even lazier than I am.
+
+Not that I’m lazy, of course. But still. Point made.
+
+I watch the little kitten as he literally tears apart large monsters with his tiny claws before shrugging and turning back to my TV.
+
+Now here’s hoping I don’t get an impromptu visit from a Horsemen while trying to relax again. Because that would be incredibly annoying.
+
+The moment I think that, I turn to look around, just to make sure I didn’t jinx things. But to my surprise, nothing actually happens. No Horsemen suddenly pops up out of nowhere.
+
+Even the mana creatures remain the same.
+
+Of course, I ignore the random group of hunters that show up at the entrance of the portal and stare at me like I’m insane.
+
+Because I am not insane. I’m perfectly normal.
+
+Although after another couple groups come, I order my Death Spirits to move my little lounge spot further away from the entrance. Far enough away that everyone and their dog won’t be seeing me the moment they enter.
+
+Then I finally relax and turn on the TV.
+
+Feeling relieved that no one is going to bother me.
+
+And on top of that, I don’t even have to worry about that annoying Isabella being all self-righteous about Horsemen anymore.
+
+Life is-
+
+A portal suddenly appears in front of me, out of which a certain woman walks out. And while she looks different on the outside and seems far weaker, I can tell based on her soul that it’s the same person.
+
+Isabella de la Vega.
+
+I blink in stunned silence as I stare at the should-be-dead woman.
+
+Then I let out a sigh and mutter, “Right. Because we can’t have nice things…”

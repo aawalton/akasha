@@ -1,0 +1,131 @@
+---
+id: d834292a-2d47-58a0-819d-ea45e9cef67f
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 23"
+slug: 0248-b4-chapter-23
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 248
+ownLength: 1383
+unit: words
+ownProgress: 1383
+publishedAt: 2025-01-16
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2013446/b4-chapter-23"
+royalRoadId: "2013446"
+markedReadAt: "2026-06-29T19:14:10.360Z"
+---
+
+The Capital of Frostfall
+
+When Leone first met with the Horseman of Death, she was surprised to say the least. Because despite everything she’d heard, she wasn’t expecting an adorable girl of less than two centuries that does the most hilarious things.
+
+Take in point the conversation she’s listening to right now from atop the palace.
+
+“Please, can you just do something about it? Maybe ask Lady Death to be more careful in the Endless Glaciers…?” the king practically begs some of Aria’s secret guards that Leone is sure she doesn’t even know about. “Over the last five years, a frost dragon has been going on a rampage, killing everything it sees all throughout the Endless Glacier. But just in the past few days, this rampage has stopped and was replaced with an even worse one after Lady Death led it on a parade throughout the entire Endless Glacier, marching it through several other dragons’ dens all the way to the Grand Frost Dragon’s den. Leading the other dragons on their own rampages trying to find the culprit along with the deaths of two of the frost dragons, including the first one that was on a rampage.”
+
+Leone feels herself smirking in amusement at the situation, along with how depressed the king sounds right now.
+
+He couldn’t bother Aria herself so he’s begging her hidden guardians. That’s not gonna end well.
+
+Just as she suspected, the guard states, “Do not bother the Princess with this dribble.”
+
+Then the guards vanish without a trace, leaving behind a depressed king. No doubt returning to their posts guarding Lady Death from any unwanted bounty hunters from the Arcadian Society.
+
+Not that Leone can blame the poor king. Since she herself has heard about how inhospitable the closest Endless Glacier to the capital has become.
+
+Since having dragons rampaging throughout the place is never a good thing for hunters.
+
+She does find it incredibly amusing though.
+
+Seeing all of Aria’s antics.
+
+At first she wasn’t very happy about being given this job. The job of hiring a Horseman of the Apocalypse to collect their national treasure. Especially since she heard about the Horseman of Death’s habit of losing track of time.
+
+After all, Leone has no interest in sitting around for decades doing nothing. Not when her purpose requires her to hunt new creatures. And she can only work towards her purpose a certain amount without going to new places.
+
+But she’s been sufficiently amused by Aria’s antics over the last five years. So it hasn’t been as bad as she thought it might be.
+
+Even if Aria herself almost never leaves the Endless Glacier.
+
+She’s even heard that the Horseman’s been watching TV and reading inside of it. Which Leone finds both insane and amusing.
+
+Leone turns her attention away from the distant sounds of the king crying alone inside of his throne room to focus on her terminal when it starts to beep. Signaling a call. And after reading the caller ID, she answers the call.
+
+“Yellow?” she says while perched atop the sharp point located at the tip of the castle.
+
+“Leone, how have things been going?” her father, the chief of their people, asks. The lyon as serious as ever.
+
+Leone smirks at that question while glancing in the direction of the Endless Glacier and answering, “Amusingly.”
+
+Her father, Chief Leopold Pride, sighs across the line before muttering, “Just make sure you don’t take your thirst for amusement too far and anger Lady Death. Our people can’t afford to make an enemy of one of the Four Horsemen of the Apocalypse. Especially not before that.”
+
+The smirk on Leone’s face vanishes in an instant at the mention of it. But after a few seconds she just sighs just like her father and says, “Don’t worry. She barely ever even leaves the Endless Glacier, so I only see her once a year at most.”
+
+“That…” her father mutters, sounding like he’s not sure what to say about it, “…I hope that Hunter’s Spot survives.”
+
+That leaves Leone blinking in surprise for a moment.
+
+“What do you mean?” she asks after a few seconds.
+
+“Intel from some of the previous worlds she’s visited tell stories about how she ended up blowing up one of the less sturdy Hunter’s Spots,” Leopold states with some disbelief of his own in his voice.
+
+Leone gapes at the terminal, where she sees her father’s slit eyes awkwardly staring back at her. His long hair blowing in the wind of their new home.
+
+“How does one blow up a Hunter’s Spot?” Leone eventually asks after several seconds.
+
+“The king of the nation controlling that world said that Lady Death was testing out a special orbital missile from her spaceship and blew up the entire volcano that was their Hunter’s Spot,” Leopold answers.
+
+“That shouldn’t be enough,” Leone says right away with a frown on her face.
+
+“It normally wouldn’t be,” Leopold says with a shrug. “But the volcano was particularly unstable, and it led to dozens of secondary explosions.”
+
+Leone forms an O with her mouth as she tries to imagine the Hunter’s Spot blowing up.
+
+“The king wasn’t particularly happy,” Leopold says, clearly holding himself back from chuckling as he no doubt remembers the king’s face.
+
+And Leone dearly wishes that she could’ve seen it as well.
+
+No ruler would ever be happy to see one of their precious Hunter’s Spots destroyed. Even if they know it’ll reemerge eventually.
+
+It’ll still take thousands upon thousands of years for it to reappear, so they’ll be left with a significant drop in their economy until then.
+
+Hunter’s Spots are all important to the nation they belong to after all.
+
+“My intel also shows that she hasn’t used an orbital bombardment again from her ship since then, so she does have some self-restraint,” Leopold says, still sounding amused. “But she has a habit of riling things up in every Hunter’s Spot she visits. Whether it’s through making it easier for other hunters or far harder. And she also traumatizes a lot of people by falling from rather tall heights on top of people.”
+
+Now that one Leone has already heard about.
+
+And she was a little disappointed to know that they were journeying to a place without a tall Hunter’s Spot because of it. Since she’s really wanted to see it in person ever since she heard about it.
+
+A beautiful woman falling down from a large tower or some other structure and going splat on a person before reforming like nothing had happened.
+
+Leone’s sure it would be a sight to see.
+
+“Actually, do you want to hear about what’s happening here?” Leone asks, glancing at the terminal screen with a smirk on her face.
+
+And her father immediately starts smirking back at her as he answers, “Of course I do.”
+
+The man sharing her interest in amusing sights just like most lyons.
+
+So she spends the next half an hour describing all of Aria’s antics through the Endless Glacier. One after another.
+
+And by the time she’s finished, the only sound coming from the call is that of her father’s laughter. Meanwhile she jumps off of the castle’s roof straight past the castle and onto the ground. Then she proceeds to run towards the Endless Glacier, deciding to go ahead and check on Aria out of curiosity.
+
+But as she runs, she also can’t help but think about the future.
+
+The future when they finally find the lyon home world.
+
+And the treasure that awaits within.
+
+Her face takes a dark turn at these thoughts. As she remembers her brother.
+
+Transformed into a wolf-man beast as he attacked her.
+
+She grits her teeth as she runs faster than sound, reaching the Endless Glacier in seconds before running through it with her eyes closed. Just using her incredibly powerful hearing to search for Aria.
+
+Only for the dark look on her face to turn amused when she hears what sounds like a TV playing.
+
+Of course…
+
+Once she reaches the cavern Aria is in, she soon finds her just lying down on a lawn chair watching TV as her Death Spirits slaughter mana creatures down below.
+
+At this point I’d be more surprised if she was actually doing some fighting herself…

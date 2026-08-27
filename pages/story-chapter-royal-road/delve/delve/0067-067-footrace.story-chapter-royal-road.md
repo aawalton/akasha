@@ -1,0 +1,765 @@
+---
+id: 575aae88-ab12-5df2-8846-6dfaf0c4d111
+page-type-slug: story-chapter-royal-road
+title: "067: Footrace"
+slug: 0067-067-footrace
+partOf: delve
+position: 67
+ownLength: 5347
+unit: words
+publishedAt: 2019-12-15
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/434964/067-footrace"
+royalRoadId: "434964"
+---
+
+Rain jammed the wooden stake into the ground a few meters from the edge of the river, shoving the point into the earth at the boundary between the frozen and un-frozen ground. He paused to make another tick in his notebook. He was long-overdue for purchasing a new one, but there had been space enough for this purpose in the margin of a page filled with his early notes on grammar. Those particular notes were laughably useless at this point, as was the notebook as a whole. His enhanced memory had made it somewhat redundant, but he still liked writing things down from time to time. It helped him think. In this case, he was just keeping a simple tally.
+
+He tucked the notebook away and retrieved a thin rope. This wasn’t a rope for climbing; it was more like a clothesline in thickness, with knots tied along it at exact one-meter intervals. He tied the end of the rope to the bottom of the stake and started walking, counting out 10 knots. He dropped the rope where it was and went back to retrieve the stake. He pulled it from the ground and returned to the tenth knot, sticking it into the earth and bending to retrieve the rope.
+
+“Was all that really necessary?” Ameliah asked, brushing a strand of blond hair away from her face.
+
+Rain looked over at her. “Yes. It’s important to be precise about these things. Fifty-five uses of Refrigerate at eighteen meters each is nine hundred ninety meters in total. Ten more makes one thousand. One kilometer. You see how much more sense that makes than having 6,137 stride to the league?”
+
+“You can’t compare strides to leagues,” Ameliah said. “The length of everyone’s stride is different, as is how far they can walk in an hour. I don’t know why you insist on knowing the exact ratio.”
+
+Rain sighed. It’s not her fault she never went to school. Don’t hold it against her. “According to the official definitions of the stride and the league, the ratio is fixed. Staavo had a book that said as much. It is exactly 6,137 stride to the league. Stride is pretty solidly defined too. People just keep making copies of their old stridesticks whenever they need new ones. It averages out to something like 0.82 of a meter. Of course, that will vary over time because of the photocopier problem, but whatever, I don’t plan on using your crazy units anyway.”
+
+Ameliah laughed. “You get so worked up about it. I’ll admit that keeping everything to even multiples of a thousand makes a lot of sense, but I just don’t see why it’s important unless you’re a land surveyor or an architect.”
+
+“Well, I am building a house.”
+
+“Point,” Ameliah said, nodding to him. “Enough measuring. Are we running, or not?”
+
+“Yes, one sec.” Rain pulled open his attributes panel as well as his training notification from the day before. He hadn’t gotten around to checking it yet this morning and he wanted to see how much stamina he’d used while digging the basement.
+
+Training Overview
+
+General Experience Earned
+
+Stamina Use: 102
+
+Mana Use: 12573
+
+Skill Experience Earned
+
+Mana Manipulation: 1553 [Rank Up]
+
+Attributes
+
+Richmond Rain Stroudwater
+
+Level 18
+
+Experience: 12803/22750
+
+Dynamo
+
+Health
+
+600
+
+Stamina
+
+600
+
+Mana
+
+6750
+
+Strength
+
+30[10]
+
+Recovery
+
+30[10]
+
+Endurance
+
+30[10]
+
+Vigor
+
+30[10]
+
+Focus
+
+30[10]
+
+Clarity
+
+220[200]
+
+Free Points
+
+0
+
+Humm, not bad. Stamina regen gets me 50% of the stamina I used as general experience. That means I used 204 stamina, more than my old total. Too bad it doesn’t work that way for mana when I use it through a skill. I wouldn’t be having such a problem otherwise. I wonder if there is a way to spend mana other than skills. Ah, well. Questions for later.
+
+One of the items on Rain’s agenda for the day was to spend a whole bunch of mana on something other than Mana Manipulation. Thanks to the crappy experience ratio, he was actually spending more experience unlocking skill trees than he was earning. He’d gotten down to 128 experience the day before, finding himself unable to unlock anything new. It wasn’t that he was afraid he would de-level or anything, he literally couldn’t. The lack of resistance in his mind when he’d tried had told him that it was actually impossible, not just a bad idea.
+
+Another thing that he planned to do was to reconfigure the ring to prioritize regeneration. He wanted to do some training, and being able to recover fast would be helpful for that. Looking at his HUD, his stamina was only at half. At an even split of Endurance and Vigor, regenerating his stamina to full would take two days, longer if he actually wanted to do anything. By changing his allocation, he could recover faster and thus train more. He didn’t need the resistances or the total stamina boost that Endurance would give him at the moment. The ratio aside, he was also planning on being a bit more aggressive with his point allocation in general. He hadn’t felt any ill-effects from staying at a 120-point boost overnight. The harder he pushed himself, the faster he would improve.
+
+Before worrying about that, though, he wanted to get a baseline of his physical condition. To that end, he had asked Ameliah to come with him for some morning exercise. He enjoyed her company of course, but he was also planning to ask her a bunch of questions about training and stat improvement. He dialed his ring down to zero, then dismissed all of his windows and untied his cloak.
+
+His HUD indicated that his health and stamina were now full. From an experiment the day before, he’d determined that it worked slightly differently than his armor’s durability. The excess was lost, whether completely, or as overhealth and the like, he wasn’t sure.
+
+“Okay, ready,” he said, rolling his shoulders.
+
+Ameliah shook her head. “Take off the armor.”
+
+Rain paused. “Why?”
+
+“You said you wanted a baseline, right? How are you going to get that if you are weighed down?”
+
+Rain shrugged. “Well, I’m pretty much always going to be wearing the armor, so…”
+
+“Take it off,” Ameliah said, giving him a level look.
+
+Rain glanced at his HUD, his eyes landing on his health bar. He looked back at Ameliah. “I don’t want to.” He grinned. “Not until you buy me dinner.”
+
+Ameliah just looked at him, ignoring his attempt at a joke. Her expression was almost…sad. Rain stopped smiling. She took a step toward him. “Rain, are you okay?”
+
+He blinked. “Yeah, why wouldn’t I be?”
+
+“Would you at least take off the helmet when I’m talking to you?” Ameliah said.
+
+Rain sighed, placing his hands on either side of the helmet. He twisted to unlock it from the collar, then hesitated, taking a moment to activate Force Ward.
+
+“Rain,” Ameliah said. He sighed and pulled up, the helmet coming off to leave him blinking the bright light and the cold morning air. Lowering it to his side, he reached up with his other hand to rub at his neck uncomfortably.
+
+“Happy?” he asked, scanning the treeline.
+
+Ameliah frowned. “Rain, you’ve been wearing that armor nonstop since you got it. When you’re out on the road, it’s one thing, but you don’t need to be so paranoid. You’re safe here. Nobody is going to try to hurt you. Are you sure you’re okay? The thing with Lavarro, and the fall in the lair...it’s not getting to you, is it?”
+
+Where did this come from? Rain scratched at his face. He really needed to shave. “I’m fine, Ameliah, really. It’s just…I’ve only got 200 health without the ring.”
+
+“So does ninety-nine percent of the population of Fel Sadanis,” Ameliah said. “They get along just fine without living inside a metal shell.”
+
+“Well, yeah, but—”
+
+“Rain, Lavarro is gone. She left the city after Halgrave filed his report. She’s not after you. She’s got bigger problems to worry about with the Guild on her back.”
+
+“Yeah, I know that, but…”
+
+Ameliah looked at him silently, waiting for him to finish. He sighed. I guess she has a point…There’s nothing here that will hurt me. No pack of howling kin, no giant ram monster, no power-drunk telekinetic psychopath… He took a deep breath, trying to shake loose his dark thoughts. “Fine. I’m going to need a hand though.”
+
+She moved to help him. It took a little while to extricate himself from the armor, but Tallheart hadn’t welded him into it or anything. He even claimed that Rain would be able to put it on without help, but Rain wasn’t quite sure how he’d manage that.
+
+He shivered, standing in his tattered under-layers. The armor fit him like a second skin, so there wasn’t a lot of room for padding. Tallheart had torn apart his old gambeson to thin it down so it would fit underneath. It had left it looking ragged. He ran his fingers through his tousled hair, feeling the too-large ring shift on his bare finger where he’d placed it after removing it from the gauntlet.
+
+“There, isn’t it nice to feel the sun on your skin again?” Ameliah said, watching him.
+
+“I guess…” Rain said. He felt naked. Exposed. The ground was cold against his stockinged feet, but he didn’t want to drop Force Ward so he could warm the air with Immolate. Suddenly, he jumped and whirled at a small noise from the treeline. “What was that?”
+
+“Just a bird,” Ameliah said. She laid a hand on his shoulder, gently pulling him back around to look at her. “I won’t let anything hurt you. Relax.”
+
+He shied away from her touch, thinking of how she’d sent her fist smashing completely through a dark hound. He froze as she stepped forward and wrapped him in her arms, pulling him into a tight hug.
+
+“It’s okay,” she said, holding him tightly.
+
+Rain fought down his panic. Part of it came from the fear of being crushed, but a not-insignificant portion was coming from the feeling of her body pressed against him. Force Ward didn’t lower his sense of touch, it just prevented damage. She felt warm, the sudden human contact sending his brain into lockdown. He hadn’t been hugged by anyone for years, let alone a woman that he found so attractive.
+
+Ameliah released him and stepped back, holding him by the shoulders at arm’s length. “There. Better?”
+
+Rain’s brain slowly started moving again. He looked back at her in shock. “I…am error.”
+
+Ameliah laughed. “There we go. That’s more like it. I have no idea what that even means.” She released him and walked toward the stake that he’d planted in the ground.
+
+Rain stood, watching her, “Ameliah, I…”
+
+“Come on,” she said, looking at him. “You didn’t ask me to come down here for a therapy session. I suck at that kind of thing anyway. Let’s have a race. I bet you a hundred Tel that I win.”
+
+“No bet,” Rain said with a smile. She’s wrong. She is good at it. “Fine, we can race. Just…give me a minute. I need to think a bit. And to shave. I look like a hobo again.”
+
+“I wasn’t going to say anything,” Ameliah said, smiling at him.
+
+“Go!” Ameliah shouted. Rain kicked off from the ground, feeling the dirt grind through his sock as he fought for traction. He almost stumbled as Ameliah shot past him, accelerating away like he was standing still. He recovered his balance and chased after her, running along the side of the river.
+
+Without the armor, he felt light, as if he was using Velocity, not Force Ward. He hadn’t even realized how used he’d become to the weight. He still felt exposed, but the lack of anything trying to murder him in the ten minutes he’d spent cleaning himself up had helped quite a bit.
+
+He focused on his breathing as he fell into a rhythm. It was abundantly clear that he had no hope whatsoever of catching Ameliah, so he slowed his pace. He settled into a jog that he thought he’d be able to maintain for the full kilometer. I think I’m starting to hate jogging a little less.
+
+As he ran, he considered the reflection of his face that he’d seen in the river. He hadn’t even realized how much extra weight he’d been carrying around until he’d seen his clean-shaven visage staring back at him. He looked like he had back in college before he’d started living on a diet of TV dinners and cheesy poofs. His body was likewise transformed, the ten kilograms or so that he’d lost leaving him looking, well, not fit, but at least not unfit. Average. Not like Ameliah, who was in amazing shape. He’d felt her muscles when she’d hugged him, as well as certain…softer areas. He clamped down on that line of thought, focusing on his jogging technique.
+
+He was out of breath by the time he made it to the finish line. Ameliah was waiting for him. He bent over, gasping. Ameliah smiled as she watched him. “You really went all out, didn’t you?”
+
+Rain straightened, focusing on taking deep, steady breaths. He glanced at his stamina. Despite the exertion, it had only dropped slightly. Stamina wasn’t a measure of how tired he was, just as health wasn’t a measure of his actual physical well-being. It was like a buffer. If he had more stamina, a run like that wouldn’t have tired him at all. Staavo had said it would get more noticeable the more he improved his resource pools, but for right now, at base stamina, he wasn’t any better than a normal human.
+
+“How’d you do?” Ameliah said. Rain glanced at the digital clock he’d added to his HUD, then grinned. “Five and a half minutes for the kilometer. That’s the best I’ve ever done, including gym class in high school.”
+
+He was pleased with his time, and with the clock itself. It was such a simple thing, but so incredibly useful. The system hadn’t even fought him, letting him add it to his HUD the day before with barely a thought. It clearly knew about time–every awakened got their training notifications simultaneously each day, after all. Getting it to display a clock wasn’t that much of a stretch. He was kicking himself for not trying it before when they’d been in the lair. It would have been great to know what time it was while they’d been underground.
+
+“Five and a half minutes? Is that good?” Ameliah asked. “It is a little hard for me to judge.”
+
+Rain shrugged. “It’s not great. About average, actually. The world record—my world’s record—is a little over two minutes. Don’t ask me how I know. Honestly, I have no idea. I couldn’t tell you when I learned that, just that I know that it’s right and that it happened at the Olympics.”
+
+“Humph,” Ameliah said. “Slow.”
+
+“No magic, remember?” Rain said, his breathing a little bit more under control. “The person who did it only had 10 in every stat.”
+
+Ameliah nodded, seeming to accept this. “That makes it better. I keep forgetting that. It just seems so...slow.”
+
+Rain laughed. “Okay, how did you do, then? Did you time yourself?”
+
+“Yes,” Ameliah said. “About forty-five seconds. I’m not that fast, and I didn’t have time to really get going. The distance was too short.”
+
+Humblebrag much? Rain shook his head. “That’s insane. I can’t even imagine running that fast. How do you avoid tripping over your own feet?”
+
+“It becomes less about running, and more about jumping forward and getting your foot in the way before you hit the ground,” Ameliah said with a shrug. “You get used to it. What I can’t understand is how that noblewoman moved. That was on a completely different level.”
+
+“Tell me about it,” Rain said.
+
+“Again?” Ameliah asked, gesturing back along the river with a small motion of her hand.
+
+“Yeah, this time, with magic. Let me just change the settings on my ring.”
+
+“About that. Can I see it for a moment?” Ameliah said, holding out her hand. Rain hesitated, then pulled the ring off and handed it to her. She held it up to look at it. “It’s bound. What does it actually do?”
+
+“You can’t tell?”
+
+She shook her head. “Even with Mana Manipulation, nobody can read the enchantment from a bound item. There aren’t even any markings on the surface. I can’t tell what it does at all.” She handed the ring back.
+
+Rain slipped it on his finger once more. “I’ll tell you, but promise you won’t badger Tallheart to make you one. He warned me not to reveal the specifics of the enchantment. I don’t think he’d mind as long as it’s just you that I’m telling, though.”
+
+Ameliah looked confused. “…badger?”
+
+Rain shrugged. “You know, badger. Not the animal. It means to annoy someone into doing what you want, not taking no for an answer, that sort of thing.”
+
+Ameliah smiled. “I suppose it fits. Badgers are like that, after all.”
+
+Rain nodded. “Yup. Honey badgers in particular. They really don’t give a shit. I almost got attacked by one on my first day here, you know? Anyway, the ring. It lets me freely allocate points to any stat that I want. Up to 287, but I can’t even get close to that before I start feeling like my bone marrow is on fire.”
+
+Ameliah’s jaw dropped. “That’s…wow. How did Tallheart…Rain, do you have any idea how impressive that is? If it wasn’t bound…If people found out…”
+
+He shrugged. “Yeah, I figured that’s why Tallheart told me not to blab about it. I trust you though. Like I said, don’t badger him to make you one. He can’t anyway. I highly doubt that he has another GranCryst.”
+
+Ameliah laughed. “I need to find myself one first, then. Then I’ll ask him. That is an amazing ring, even for a silverplate...even if it was only fixed to a static boost. There aren’t that many high-level crafters, you know? I had no idea Tallheart was that good.”
+
+Rain grinned. “Yeah, he’s kind of the best. It’s a shame he can’t just make a bunch of stuff to sell. He’d be rich.”
+
+“Right,” Ameliah said. “People would start wondering where all the equipment was coming from, which would be a problem.” She frowned. “Damn Adamants.”
+
+“Yeah, they can fuck right off,” Rain said. “I’ve got major issues with them, but I need to be a lot stronger before I can actually do anything about it. I’ll probably never be able to make a difference, but…I feel like I need to try.”
+
+“I’m right there with you,” Ameliah said with a sad smile. “I’m just a little bit more realistic with my goals. Toppling the Empire of Adamant is…a bit out of reach. Fecht is a monster.” She sighed. “Well, if you ever hope to get there, that ring is going to go a long way. For running, you’ll want equal parts Strength and Vigor. The Vigor helps with control, believe it or not. I’d add a bit of Endurance and Recovery too, so you don’t hurt yourself.”
+
+Rain nodded, watching his attributes change as he played with the sliders on the ring’s control panel. He settled on a boost of 60 points each to Strength and Vigor, plus 20 to Endurance and 10 to Recovery. At 150 points allocated, he felt warmth starting to build within his bones. It wasn’t painful, not yet. He looked at Ameliah. “How long does it usually take for someone to get used to stat boosts like this?”
+
+“It varies from person to person,” Ameliah said. “You’ll want to train the recovery stats first. Those are easier. Endurance is the hardest, just because of the pain. Strength takes a while, too, but having high Vigor and Recovery goes a long way to speeding up the process of training it. Somehow, I don’t think you’ll have a problem with Focus or Clarity.”
+
+Rain smiled. “Give me an estimate. How long will it take me to get used to an extra sixty Vigor, for example?”
+
+Ameliah shrugged. “It’s really hard to say. Maybe a few days if you leave it that high and can deal with the side effects of pushing yourself past your limit for the stat.”
+
+Rain raised an eyebrow. “Which are?”
+
+“For Vigor? If you keep exercising, you’ll start feeling really hungry and weak after a while, but restless, like you’ve got to keep moving anyway. It’s really annoying. It’s even worse if you don’t move.”
+
+“Uncomfortably energetic, got it. And the other secondary stats? Recovery? Clarity?”
+
+“Recovery…you’ll feel…stuffed, I guess is the best description. Like a pillow that someone keeps cramming feathers into. With Clarity, you won’t be able to focus on anything.” She looked at him with a smile. “So no change for you.”
+
+“Hey,” Rain said, giving her an affronted look.
+
+“We came down here to run, remember?” Ameliah said, still smiling.
+
+Rain smiled back. “Touché. Oh, sorry, that’s French. It means, ‘good point’. Oh, French is a different language. It’s...damn. I guess I’m proving your point.” Ameliah laughed as Rain made a placating gesture. “One last question. Is there a way to tell how close you are to adapting to the stats?”
+
+She shrugged. “I can feel it through my interface. It’s like a sense of…completeness. It’s hard to explain. I don’t see little boxes like you seem to. I just think about it, then I know.”
+
+Rain acknowledged her with a nod. “I’ll see if I can force mine to show me later. Oh, can you modify your interface too? I can mess with mine quite a bit now that I’ve got so much Clarity. There’s still some stuff that it won’t let me do, though. It’s pretty frustrating, sometimes.”
+
+“That was another question, you liar. And it’s not Clarity, at least, not just that. Any stat will do it, the secondary stats more so than the others. My interface used to be a giant pain in the ass too, but now, it’s second nature. Clarity might nudge you toward a certain way of viewing things, but ultimately, it’s all the same. The stronger your soul gets, the easier it will be to work with.”
+
+Rain was nodding along. This was similar to what he’d heard from Staavo when they’d been on the topic of primary and secondary stats. He paused as he remembered something that Ameliah had said before. “You mentioned that you visualized your soul like a pool that you added experience to, right? What are stat points, then? How do stats…modify the soul? Oh, and Speed and Perception, are those stats too, or—”
+
+“Enough,” Ameliah said, her tone indicating that she wasn’t finding his barrage of questions as amusing any longer. “I’m leaving this afternoon and I have a few things to take care of before I head north. Are we running again, or not?”
+
+“We’re running,” Rain said, smothering his other questions. He’d figure it out on his own. In fact, he didn’t really like viewing his soul as something separate from his body like Ameliah did. Her image of a pool of power struck him as...incomplete. He set aside such metaphysical pondering for later, popping open the skill card for Velocity. Let’s see what I can really do.
+
+Velocity (10/10)
+
+180.00% boost to speed for all entities
+
+Range: 18 meters
+
+Cost: 10 mp/s
+
+He activated the skill, checking his Statistics panel.
+
+Statistics
+
+Total
+
+Base
+
+Modifier
+
+Health
+
+1400
+
+1400
+
+0
+
+100%
+
+H.Regen
+
+200/day
+
+200/day
+
+0/day
+
+100%
+
+Stamina
+
+600
+
+600
+
+0
+
+100%
+
+S.Regen
+
+700/day
+
+700/day
+
+0/day
+
+100%
+
+Mana
+
+5100
+
+5100
+
+0
+
+100%
+
+M.Regen
+
+-9.79/s
+
+0.21/s
+
+-10/s
+
+0%
+
+Movement Speed
+
+28
+
+Perception
+
+20
+
+Resistances
+
+Heat
+
+Cold
+
+Light
+
+Dark
+
+3
+
+0%
+
+3
+
+0%
+
+3
+
+0%
+
+3
+
+0%
+
+Force
+
+Arcane
+
+Mental
+
+Chemical
+
+3
+
+0%
+
+3
+
+0%
+
+3
+
+0%
+
+3
+
+0%
+
+Movement Speed 28, huh?
+
+He moved slowly, fighting to keep his balance as he watched the wisps of magic trailing from his limbs like wind. He looked at Ameliah, then grinned and blacklisted her.
+
+“Time for round two,” he said. Fortunately for his jaw, Velocity didn’t seem to boost his every motion, only those related to movement. He paused to consider what would happen to his circulatory system if Velocity worked on his heart. That’s not a pretty picture.
+
+Ameliah laughed. “You won’t win.”
+
+“I know,” Rain said. “That’s not the point. I’ll be happy if I can avoid falling on my face.” He looked at his clock, counting down the seconds as his mana slowly drained away. When the display rolled over to 00, he took off, dashing down the river with no warning for Ameliah. She didn’t need it, easily catching up, then passing him to leave him in the dust once more.
+
+He couldn’t spare the concentration to watch her. He was focusing as hard as he could on keeping his limbs under control. His stockinged feet hit the ground hard as he pushed off, trying to throw himself forward like Ameliah had suggested. It worked, sort of. He kept adjusting his form as he ran, falling more than a few times as he experimented. He picked himself back up each time, refusing to deactivate Velocity, though he did pull it back slightly with Channel Mastery. He had to get used to this.
+
+He crossed the finish line, battered, bruised, and even more out of breath than the last time. He dropped Velocity and collapsed in a heap. Ameliah laughed and walked over to him.
+
+“I’ve got to admit, that was amusing to watch. I think you need a bit more practice. Still, it looked faster. How did you do?”
+
+Rain raised a fist in victory. “Four minutes, 10 seconds. A new record.”
+
+“Thirty-seven seconds for me,” Ameliah said. “Next time, I might really try. Here, you’re bleeding.” She walked over to heal him, but he stopped her with a hand. “I’ve got to get used to the Recovery, too. I’m fine.”
+
+Ameliah snorted. “Idiot. Try not falling down so much.”
+
+“Working on it,” Rain said, pulling himself up into a better sitting position. “Let’s go again. I just need a few minutes to recover my mana.”
+
+“You’re seriously going to go all dead fish on me?” Ameliah said. “I’m not waiting a half-hour.”
+
+“You won’t have to,” Rain said, grinning. “I’ve made my choice. I’m taking Compression, just like you recommended. It really is the best option, and not just because of what it does for Winter.”
+
+Ameliah smiled. “About time. You won’t regret it. Still, don’t take long.”
+
+He nodded and pulled up his skills, adding his last free point to Aura Compression. Despite resolving to take it, his finger hovered over the apply button.
+
+Please let this be right. I want Prismatic Intent so bad, but I’ll never get it if I die trying to get past level 18. Compression boosts my wards and all my utility auras. I can get more resistance equipment to deal with the mageburn if this ring isn’t enough. If I was alone, I’d take Shroud, but Ameliah’s right when she says that Compression is better for a party. He looked up at her. She stared back at him, her brown eyes warm and friendly as she waited patiently. She smiled and nodded to his finger where it was hovering in the air over the button that she couldn’t see.
+
+I’m not alone. He let his finger fall.
+
+Aura Compression (1/10) Exp: 0/800
+
+Compress aura output, reducing range to boost intensity
+
+Increase intensity by 0.2% per meter of compression
+
+He let out a huge sigh and closed his eyes. Now he could finally stop worrying about it. His course was set. He pulled open his statistics window, filtering it down until it showed only his mana regeneration. He dialed Winter back to the base value, deactivating all modifiers including Channel Mastery. He opened the skill card for Winter and placed it nearby. He was going to want to keep an eye on both.
+
+Total
+
+Base
+
+Modifier
+
+Mana
+
+5100
+
+5100
+
+0
+
+100%
+
+M.Regen
+
+0.585/s
+
+0.21/s
+
+-0.00278/s
+
+280%
+
+Winter (10/10)
+
+Boost M.Regen by 180% for all entities
+
+Range: 18 meters
+
+Cost: 10 mp/hr
+
+Amplify Aura. The feeling of cold deepened.
+
+Total
+
+Base
+
+Modifier
+
+Mana
+
+5100
+
+5100
+
+0
+
+100%
+
+M.Regen
+
+0.958/s
+
+0.21/s
+
+-0.00833/s
+
+460%
+
+Winter (10/10)
+
+Boost M.Regen by 360% for all entities
+
+Range: 18 meters
+
+Cost: 30 mp/hr
+
+Channel Mastery. The cold deepened further still, the familiar sensation filling his mind.
+
+Total
+
+Base
+
+Modifier
+
+Mana
+
+5100
+
+5100
+
+0
+
+100%
+
+M.Regen
+
+1.71/s
+
+0.21/s
+
+-0.0167/s
+
+820%
+
+Winter (10/10)
+
+Boost M.Regen by 720% for all entities
+
+Range: 18 meters
+
+Cost: 60 mp/hr
+
+Aura Focus. The cold cut like a knife as his senses faded away, but he ignored it. This was nothing that he hadn’t felt before. He’d even managed to sleep like this. The cold wasn’t real.
+
+Total
+
+Base
+
+Modifier
+
+Mana
+
+5100
+
+5100
+
+0
+
+100%
+
+M.Regen
+
+4.7/s
+
+0.21/s
+
+-0.05/s
+
+2260%
+
+Winter (10/10)
+
+Boost M.Regen by 2160% for all entities
+
+Range: 54 meters
+
+Cost: 180 mp/hr
+
+Extend Aura. The cold stayed the same, but felt like it was flowing faster, pressing outward like wind.
+
+Total
+
+Base
+
+Modifier
+
+Mana
+
+5100
+
+5100
+
+0
+
+100%
+
+M.Regen
+
+4.6/s
+
+0.21/s
+
+-0.15/s
+
+2260%
+
+Winter (10/10)
+
+Boost M.Regen by 2160% for all entities
+
+Range: 108 meters
+
+Cost: 540 mp/hr
+
+And now…Aura Compression. He reached out with his mind, using his new skill to pull back on the aura. He felt the strength of Winter grow as he gathered it up, the sense of cold growing more concentrated as the bubble of the aura shrank. If Winter was normally an icy wind, this was a frigid pond, freezing solid as it shrank. He felt the pressure build, stopping at a range of 1 meter. He pulled harder, cramming it down with all his might. The skill resisted, but gave way under his determined assault. The edge of the aura slipped within the bubble of his soul and sank into his skin. He pressed it down to a single point of ice, nestled in the core of his being.
+
+Total
+
+Base
+
+Modifier
+
+Mana
+
+5100
+
+5100
+
+0
+
+100%
+
+M.Regen
+
+5.58/s
+
+0.21/s
+
+-0.15/s
+
+2726.6%
+
+Winter (10/10)
+
+Boost M.Regen by 2627% for all entities
+
+Range: 0 meters
+
+Cost: 540 mp/hr
+
+Not bad, about 20% better. I need to level it before it really gets good, but still, an extra mana every second is nothing to sneeze at. I’ll call it…Winter Singularity. He grinned in the darkness of his sensory deprivation as he saw the skill card change to match.
+
+Winter Singularity (Composite)
+
+Boost M.Regen by 2627%
+
+Cost: 540 mp/hr
+
+Good, but not good enough. I told Ameliah I wouldn’t take long. I need…more.
+
+He opened the display for his ring, adjusting the sliders mentally to avoid flailing around with his arms. He dropped all of the boosts to his other stats to zero, then slammed 160 points into Clarity. The heat within his bones increased, partially offsetting the cold radiating from the frigid star of Winter. He could feel pain creeping into the corners of his mind as fire fought ice within his soul. It was bearable, at least for a little while.
+
+Attributes
+
+Richmond Rain Stroudwater
+
+Level 18
+
+Experience: 12803/22750
+
+Dynamo
+
+Health
+
+200
+
+Stamina
+
+200
+
+Mana
+
+8700
+
+Strength
+
+10
+
+Recovery
+
+10
+
+Endurance
+
+10
+
+Vigor
+
+10
+
+Focus
+
+10
+
+Clarity
+
+360[200]
+
+Free Points
+
+0
+
+Total
+
+Base
+
+Modifier
+
+Mana
+
+8700
+
+8700
+
+0
+
+100%
+
+M.Regen
+
+10.1/s
+
+0.377/s
+
+-0.15/s
+
+2726.6%
+
+I forgot about the boost to total mana from Magical Synergy, but there’s no point regenerating anything past that. I’m just going to take the points back out of Clarity once I’m done. I just need to get up to 5000 or so. I’m already at around 2000, so…
+
+Rain abruptly deactivated his skill and sat up, startling Ameliah who was sitting nearby, watching over him. He held up his hand, fingers extended. “Five minutes,” he said with a grin, then lay back down to wait.

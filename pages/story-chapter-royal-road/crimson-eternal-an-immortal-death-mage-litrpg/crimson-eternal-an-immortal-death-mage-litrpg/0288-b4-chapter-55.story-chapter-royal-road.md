@@ -1,0 +1,127 @@
+---
+id: 945eb362-d45c-5cc3-a930-ff005e3d8259
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 55"
+slug: 0288-b4-chapter-55
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 288
+ownLength: 1450
+unit: words
+ownProgress: 1450
+publishedAt: 2025-06-23
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2379791/b4-chapter-55"
+royalRoadId: "2379791"
+markedReadAt: "2026-06-29T19:15:35.752Z"
+---
+
+Aria
+
+The ceremony pretty much goes as I expected it to. The headmaster opens things with a grand welcome to everyone attending, both the students and their parents, before moving on to stating several rules. Most of which are rather normal and commonsensical.
+
+There are a few of them that had me raising a brow though.
+
+Like the rule they have about skipping classes being severely punishable unless you’re in the top ten percent of your grade, or the rule about parents not being able to attend any class their children are in.
+
+I do find the school a bit interesting though in how their grades aren’t separated by year but instead by credits. So someone in their fifth year could still be in their first grade.
+
+Which means the kids could be here for a while depending on how much they excel.
+
+But of course they will excel. They’re my kids after all.
+
+I won’t say anything like that to them though, because I don’t want to put pressure on them to do well or anything like that.
+
+Honestly, they can do whatever they want.
+
+But I’m still sure they’ll excel.
+
+Other than that, their brief mention of a grand competition they label the Eternal Festival piques my interest a little bit. With them stating that the top ten finishers in each branch of the school will be receiving some rather grand rewards and privileges. Including but not limited to the option to take any class they wish for free and regardless of their grade level, the ability to ignore some of the rules on the campus, and the ability to ask a single professor at the academy for private tutelage.
+
+Of course, none of that matters to me personally since I’m not a student here. But it may matter to the twins.
+
+I glance at said twins at that thought to find that Ruby does seem interested.
+
+Ryan not so much though.
+
+I look back up as the ceremony closes up with some words from Shirogane. Words that are pretty much just fodder for the prides of the royals here.
+
+So words I don’t really care about. Even if it’s my friend saying them.
+
+On another note, I was told that I could host a couple classes here myself. And I may just take the school up on that offer.
+
+Maybe.
+
+The classes will obviously be about death magic, seeing as no one else in the universe has a better grasp of it than Death. Even if my grasp isn’t as advanced.
+
+After all, my understanding of death magic is both instinctive and guided by the Grand Death Spirits themselves.
+
+So Shirogane mentioned that a lot of people are wanting me to teach them.
+
+Even if it’s not about any death magic spells but instead just the fundamentals of the death element alone.
+
+Anyways, after the ceremony, the students all split off from the families and head into the building. Where the families are not allowed.
+
+Which kind of leaves me in a field full of royals who are all staring at me.
+
+I blink before pursing my lips and wondering how I’m going to get out of here without being surrounded by a bunch of royals trying to make connections with me. Only for the white prince to come in and save me – quite literally, seeing as Shirou’s hair is pretty much silvery white and he’s wearing mostly silver or white clothes – as he appears right in front of me and asks, “Would you care to join me, Lady Death?”
+
+“Sure,” I answer before a metal platform appears beneath him using his ability before carrying us to the roof of the main building of the academy again. At which point someone casts some sort of cloaking spell over us, letting me go look over the edge in the direction of the twins.
+
+“They’ll be fine,” Shirogane says, sounding both amused and slightly happy for some reason.
+
+“Hmm,” I hum as I spot the two walking through the crowd towards the academy building’s entrance. With more than a few of the other students staring at them with similar looks to those I just fled from. “I hope the other students won’t bother them too much for being my kids…”
+
+“Don’t worry,” Shirogane says, making me look up at him. “Our rules aren’t just for show. Students are to keep all political and interpersonal conflicts outside of the academy at all times. And if this rule is broken, they will first receive a punishment through losing ten percent of their credits. Then their next punishment will be half of their credits. And the final strike will be public expulsion.”
+
+Oh, wow.
+
+Didn’t expect them to go that far.
+
+“Everyone knows that we’re capable of monitoring almost everything in this dimension, so no one ever tries anything,” Shirogane says, a smile still on his face. “At most you can probably expect the other students to try and become friends with the twins. But if they’re not interested they won’t push.”
+
+“That’s good,” I mutter while turning back to look down at the entrance right about when the twins enter inside of the building.
+
+“I’m a little surprised they aren’t clinging onto you and acting upset about having to leave you,” Shirogane comments as he sits down on the edge of the pedestal with his legs dangling over it. “It just kind of felt like they might.”
+
+“They did enough clinging before we came here,” I answer nonchalantly. “At this point they’ve grown used to clinging tirelessly to me when they have the opportunity to do so before I go off and do my own thing for a while.”
+
+Shirogane blankly stares at me for some reason, but I ignore him to close my eyes and sense for the kids.
+
+What did he expect? I literally went off to fight in a war. Albeit one that didn’t even last two weeks.
+
+And almost the entire time I was raising them I spent a majority of it trying to crack open a damned treasure vault.
+
+Which was a fucking pain to crack open.
+
+Now the twins just kind of cling onto me as if they’re trying to recharge when they get the chance. Ryan even called it ‘mommy energy’ at some point.
+
+I have to admit though, that was adorable when he said it. And it made Ruby blush even while she was clinging onto me.
+
+It helps that they have Asher to play with them.
+
+Asher has actually been quite happy to spend time with them, seeing as I don’t spend as much time with Asher as he would like. And cats can be pushy. They seem to think everything in the universe belongs to them, and it’s probably doubly so for an immortal cat.
+
+Cats are terrifying creatures.
+
+I still remember the many times Asher has jumped on top of my books to steal my attention. Or when he would jump on top of my chest to block my view of whatever book I’m reading when I’m lying down on my back. Or he would jump on top of my laptop keyboard.
+
+He really likes to jump on things now that I think about it.
+
+I frown at that before shrugging and then smiling a little as I sense the twins talking with kids their own age. Something they never really got to do much until now.
+
+Although Ryan is doing most of the talking while Ruby seems to be watching everyone like a hawk.
+
+After a few seconds, I finally open my eyes again to then glance at Shirogane and find him just staring at my face. And when he sees me catching him, a tiny bit of color appears on his cheeks and he gets up, making me frown a little.
+
+Guess he still hasn’t gotten over those feelings yet.
+
+And here I thought he was starting to get over them.
+
+Then again, that could just be because we haven’t seen each other anywhere near as much.
+
+Out of nowhere the cloaking spell on us shatters and I hear a rather proud sounding voice echo out around us, saying, “And what do we have here! The looovely Lady Aria!” I turn around to find a man floating down towards us as he gives me a little dramatic bow upon landing on the ground. Meanwhile my and Shirogane’s guards all appear around us. “It’s a great pleasure to see you again, Your Highness.”
+
+I blink once, glance at Shirogane to find him scowling, then blink twice.
+
+Then I just stare at the new arrival, tilt my head a little, and ask, “Who are you again?”
+
+He stumbles.

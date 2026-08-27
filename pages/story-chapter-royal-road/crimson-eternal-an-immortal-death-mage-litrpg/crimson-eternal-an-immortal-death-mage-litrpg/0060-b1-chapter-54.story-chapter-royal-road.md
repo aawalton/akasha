@@ -1,0 +1,137 @@
+---
+id: c2c3aa7d-c0e1-577c-88d4-9bc0d4798559
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 54"
+slug: 0060-b1-chapter-54
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 60
+ownLength: 1723
+unit: words
+ownProgress: 1723
+publishedAt: 2024-01-25
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1494909/b1-chapter-54"
+royalRoadId: "1494909"
+markedReadAt: "2026-06-29T19:07:56.960Z"
+---
+
+Aria
+
+Our discussion doesn’t last for much longer before I’m sent back down with the others just moments before the Grand Void Spirit arrives again while carrying what I can immediately tell is a soul just from my experience harvesting them. And while I feel like I can harvest the soul if I wanted to, I obviously don’t. Not to mention that I’m pretty sure the Grand Void Spirit would stop me even if I tried.
+
+The Void Priest – to all our surprise – walks up to the soul and places his hand on it, closing his eyes for a few seconds afterwards. Then he raises his other hand, and a white light begins to shine from it, creating a glowing white silhouette standing on the floor in front of us. And when he seems to grow weary, the Greater Void Spirit lowers its hand on top of his head, appearing to grant him some of its power.
+
+Seconds pass, then minutes. And before long, the Void Priest opens his eyes and guides the soul into the white silhouette, merging the two.
+
+Then, without any fanfare, the silhouette turns into a real person.
+
+It turns into Hannah’s sister.
+
+Who happens to be naked while standing up right in front of us, so I quickly reach up and cover Snow’s eyes. Feeling slightly annoyed by the fact that I actually have to reach up to do this. Only for the First General to create an illusion barrier around the girl as Hannah walks up and hands her sister a coat.
+
+“You can let go now,” Snow says, but I don’t bother.
+
+“Too risky,” I tell him.
+
+Who knows? He could somehow sneak a peek. Possibly.
+
+The illusion goes down again when her sister is sufficiently covered, and I finally move my hand from his eyes, stepping back again in the process as I take in her sister fully.
+
+Hannah’s sister – whose name I don’t know – has the same brown hair and brown eyes as Hannah, although she is shorter than her. More around my height, at about five feet, five inches tall. Give or take. Although her figure is more modest than mine, being more like her sister’s.
+
+Her sister also looks tired and confused, so we begin to move out of the Void Temple, leaving Hannah and her sister to walk behind us so as to give them some space.
+
+The sheer happiness on Hannah’s face warms my heart a little. To be reunited with her lost family.
+
+Then the happiness fades a little when I think about how I won’t ever feel that happiness myself.
+
+I take in a shaky breath at that thought and continue making my way out of the Void Temple.
+
+Next up will be my discussion with the merchants from the Eternal Dynasty.
+
+And I really do have something I need to ask them for help with.
+
+I just hope they give me the help I need.
+
+Unsurprisingly, the merchants ask for us each to go into separate rooms when we arrive so that we can ‘each begin our partnerships alone and in private’. And the room I end up with, also unsurprisingly, has the Five Star Merchant in it. Judging by the stars on his shoulder.
+
+The man himself has a red and purple outfit with one big star and four smaller stars on his shoulder, and has a sharp looking angular face with short red hair. And he is actually smiling at me. Which is the complete opposite of his supposed treatment of the generals, if the First General’s account of him is anything to go by.
+
+The woman went ahead to warn us about the man and everything they’ve seen of him thus far just so that we don’t ruin the Republic’s image before them. An ironic decision on her part considering the entire reason this man is here.
+
+A reason that I am pretty sure involves me.
+
+Absolutely certain that it involves me now that I see the way he’s looking at me.
+
+“Hello, Lady Death, it is a pleasure to finally meet you,” the man says with a wide smile on his face while reaching his hand over the table for a handshake. And after a second, I go ahead and take it, shaking his hand. Then he motions towards the comfortable looking chair across from him at the table and says, “Please! Sit!”
+
+So I do so.
+
+Guess they really are just like the Void Temple. Found out about who I am and immediately jumped to make ties with me.
+
+Which makes some sense, in hindsight. I’m a true immortal after all. So I’ll never age or die. I’ll outlive any and all of my enemies and just continue growing stronger.
+
+Even if it takes thousands, or even tens or hundreds of thousands of years.
+
+Even if right now I’m a weak, newly initialized user to them.
+
+“My name is Mori Ryo, and I am here to act as your designated Star Merchant from the Eternal Dynasty for the period of time you are on this planet before the restrictions lift,” he says with a light bow before he takes his own seat as well.
+
+Just for my time before the restrictions lift?
+
+“What happens after the System restrictions lift, or if I leave this planet?” I ask while folding my arms under my chest and tilting my head slightly.
+
+“I’m glad you asked!” he says with a smile, active ever the merchant with me. A complete one eighty still from how he treated the generals. “Once you are no longer under the System’s restrictions, whether that is due to waiting out the three years or leaving the world, a new, higher ranked Star Merchant will take my place as befitting your station.”
+
+Higher ranked than Five Star? Wow. They really put a lot of trust in the future benefits I could bring them.
+
+From my understanding, the stars go from One Star all the way to Ten Star. And just becoming a One Star Merchant alone requires decades of experience working for the Dynasty along with making one major contribution to their Dynasty as a whole. So to become a Five Star Merchant like this man, he likely needs to be at least a few centuries old. Meaning the only reason he’s level one right now is because he must’ve reset his level to come here.
+
+For a Five Star Merchant to do that…
+
+I purse my lips for a few seconds before eventually coming to a decision.
+
+If I can’t leave through the Gate to Roan, I’ll have to leave to go somewhere else. And the only connection I have now with another planet, other than the jewel my family gave me, is with the Dynasty.
+
+So, with my decision finally made, I let out a breath and ask the man – Ryo I believe should be his given name from what the other Star Merchant said about how they order their names – in an even tone of voice, “Do you have any way to bring me to the Eternal Dynasty’s capital world?”
+
+My question seems to finally break through the guy’s masked exterior as a flash of surprise crosses his face. Then the surprise turns into joy as he excitedly says, “That we do! We’ll even offer you the trip for free since having you come would benefit us as well!”
+
+Well that was easy.
+
+Almost makes me wonder if they have anything harmful or otherwise planned-
+
+“I’ll even sign a soul pact stating that we have no plans to harm you lest you attack us first!” the man says, likely seeing the brief flash of hesitation on my face.
+
+And that clenches it.
+
+You can’t break a soul pact.
+
+Even the Nine Grands can’t break them, according to what I’ve heard.
+
+That said…
+
+“I apologize if this comes off as rude,” I start, making the joy on his face fade ever so slightly, “but would it be alright to have your leader sign a soul pact as well before I arrive?”
+
+The joy returns right away, surprising me as he says, “Of course! We’ll have it done immediately!”
+
+And without missing a beat, he pulls out a soul pact and lets me create the rules of the contract before signing it after only a brief glance. Then he pulls out a device, takes a deep breath, and activates it, following which a hologram appears in the room of a man. One whose soul I can clearly feel. And then another projection appears in the room of the Greater Void Spirit, surprising me once more.
+
+“A pact will now be made between the White Emperor of the Eternal Dynasty, Shirou Amatsuraki,” the spirit begins while looking at the hologram of the man who I can only assume is Shirou. Because the spirits apparently can’t lie according to our intel. Then it turns to look my way. “And Death, Horseman of the Apocalypse, the one Beloved by the Spirits of Death, Pale Rider, and Timeless One. So shall it be.”
+
+I feel a string of my soul energy move towards the void spirit while a string of Shirou’s own soul does the same. And when they connect, a brief flash of light occurs before the spirit vanishes.
+
+Meanwhile the Emperor of the Eternal Dynasty simply nods his head and says, “I look forward to meeting you, Lady Death.”
+
+Then his projection vanishes.
+
+Honestly, I can’t help but feel that this whole ordeal is a little one-sided, but I’m not going to complain.
+
+Since apparently, according to the Void Priest, all I’ll lose if I break a soul pact is some levels. Unlike other people who, well, die.
+
+After all, I can’t die.
+
+“Now, onto the details of your arrival on Eternus, the capital of the Eternal Dynasty,” Ryo continues, only for me to raise a hand to stop him.
+
+“There’s something I need to do before I head there,” I tell him with a shake of my head. And he immediately seems to understand judging by the look on his face. “Can you give me something that’ll teleport me right away when I need it to?”
+
+He nods his head, a smile growing on his face as he says, “I think we can work something out.”

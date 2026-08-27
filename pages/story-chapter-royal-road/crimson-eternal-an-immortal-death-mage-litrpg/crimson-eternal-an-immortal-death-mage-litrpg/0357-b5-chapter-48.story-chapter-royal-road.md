@@ -1,0 +1,159 @@
+---
+id: 6580b1cd-f8f5-5a47-9870-8ff29726645f
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 48"
+slug: 0357-b5-chapter-48
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 357
+ownLength: 1365
+unit: words
+publishedAt: 2026-07-22
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/3709276/b5-chapter-48"
+royalRoadId: "3709276"
+---
+
+Aria
+
+We all enter the station together. And it looks absolutely incredible.
+
+The station is enormous. Far larger than even those Star Link Stations I visited before.
+
+There’s also a lot of the colors black and red all throughout the place. With millions of people all over the station.
+
+As for the station’s layout?
+
+The main area we enter is massive. With most of it being vast open space and scattered little mini stations floating around it. Each with teleport panels leading to other stations inside of it.
+
+But that’s not all as there are also numerous ships flying through the space and a lot of stalls opened up on the small stations across the place.
+
+And even more stalls on the outer walls of the vast chamber, with the busiest of the stalls being those near doors that lead further into the station. Outside of the main area.
+
+What’s even more shocking about it all is the fact that this many people all belong to the Crimson Empire and are in the place at once. Since only people from the Crimson Empire are even allowed in this place.
+
+The nation is still largely hidden from the universe after all.
+
+My parents and brother pretty much follow along behind me like little chicks, with my uncle soon joining after appearing in a hurry and pulling me into a bear hug. All while freaking out about the curse being broken.
+
+After breaking out of his bear hug though, I just continue exploring the station.
+
+Of course, the civilians all kneel down and bow when they see us passing. With a lot of them being shocked as hell when they see me.
+
+Especially the ones whose stalls I visit.
+
+And even more so the ones whose cafés I visit. Because cafés are best.
+
+I even sign some autographs for the cafés that I end up liking.
+
+But only the ones I like.
+
+While I’m here, I make sure to stock up on wine as well. Since I haven’t had any chances to try wine from the Crimson Empire.
+
+And the wine turns out to be incredibly good.
+
+Which, according to my parents’ little commentary behind me, is because they knew I liked wine. So they’ve spent the past couple centuries aiming to produce the best wine they possibly can.
+
+And, if I’m being honest, that fact alone gives them some points in my eyes.
+
+Because wine.
+
+Anyway, we continue traveling though the station for a while, just touring the place. All the way until I’m taken into the more restricted areas that the public can’t go to. Where the tour continues.
+
+They show me the various different stations, the weaponry, their different training stations, and the like.
+
+Although a lot of this I’ve seen in some manner before. Specifically because I’ve been on battlefields where the Crimson Empire fought.
+
+So I’ve seen their knights before, along with their weapons.
+
+I just haven’t seen their weapons all lined up in storage or their training.
+
+Eventually I’m shown to a room that was apparently meant for me before I ended up being lost. One filled with baby stuff that looks squeaky clean.
+
+And, again, I end up in a bear hug while they cry. Leaving me feeling rather awkward in the middle of them.
+
+That awkwardness is dashed though when they mention exclusive TV and books that they have access to. Stuff by my favorite authors and for my favorite TV shows that aren’t even released to the public yet.
+
+Exclusive early pre-release stuff.
+
+Then I find myself glued to the TV for a little while as they all just sit around the room watching me.
+
+Until most of them have to go deal with Crimson Empire matters, that is.
+
+But one person always stays behind, simply watching me as I watch TV or read. Which is kinda awkward, but I learn to ignore them.
+
+Then it happens.
+
+After spending an entire day watching TV, a knock comes from the door to the rather luxurious suite of rooms they gave me. And when I check the security footage and find a certain someone standing outside while tapping her foot.
+
+Without hesitation, I turn towards my brother with a smile and ask, “Have you ever met Ruby or Ryan before?”
+
+He blinks and smile as he says, “Of course. They both come here every now and then for business.”
+
+Right.
+
+This wasn’t a good hiding place after all.
+
+With that revelation, I tell him, “That’s nice. By the way, I have a death magic lesson that I’ll be heading to now in the Plane of Death, so you should go do whatever work you have waiting for you.”
+
+He blinks at that, but I don’t give him time to respond as I stand up and walk right into a rift to the Plane of Death.
+
+Officially making my second escape of the week.
+
+And while I’m here, I might as well get an actual lesson from the Grand Death Spirits.
+
+Aria’s Suite after she leaves
+
+Adrian stares blankly at the rift as it vanishes. Feeling rather startled by his baby sister’s abrupt disappearance.
+
+Not to mention disappointed. Since he was enjoying just watching her watch TV.
+
+He hasn’t been able to see her in person for most of his life, with the exception of a few ten minute visits over the past few centuries.
+
+So being able to see her whenever he wants is the best thing he could’ve ever asked for.
+
+Still. He knows that it’s best not to suffocate her just because he’s happy.
+
+Thanks to that, he gets up to leave his sister’s suite without a word. Only to find his niece standing outside the door while tapping her foot.
+
+He blinks for a moment. Then his sister’s words come to mind.
+
+Along with her sudden change in attitude and decision to leave.
+
+Oh. That’s why.
+
+He almost chuckles when his niece nods her head at him then moves to look past him as if searching for her mother. Only to no doubt sense that she’s gone thanks to the absence of death energy.
+
+Considering how her expression gets darker and darker with each passing second.
+
+Then she turns that dark expression towards Adrian, making him feel slightly afraid for some reason. So he quickly makes an excuse and leaves.
+
+But before he gets out of sight, he glances back at his niece again to find her walking into her mother’s suite.
+
+Is she going to wait in there for Aria to come back?
+
+That thought both amuses him and makes him worry. Because if his niece is staying in there waiting for Aria, then it might make his sister spend the entire time she planned on spending in the Crimson Empire hiding away in the Plane of Death.
+
+She may even leave the Plane of Death somewhere else and not even bother with returning to the station.
+
+Which means he won’t be able to see her again until the tournament.
+
+That thought makes him let out a sigh. Then he turns around and continues down the hall. Only to run into his mother in the process.
+
+“You’re leaving her already?” she asks while tilting her head a little, looking almost identical to Aria in the process.
+
+Adrian shakes his head as he answers, “No. She ran away to the Plane of Death when Ruby showed up.”
+
+Silence fills the hall for a few seconds. Then his mother, the Empress of the Crimson Empire, mutters, “Oh.”
+
+But she doesn’t turn away. Instead she continues down the hall into Aria’s suite, no doubt going to say hi to Ruby.
+
+Over the years, both Ruby and Ryan have become important to the family as well.
+
+And somehow, despite being raised by Aria, who has no interest in fashion, Ruby shares her grandmother’s love for fashion.
+
+A love that will forever bewilder Adrian.
+
+Just like his sister’s love for cafés, and his father’s love for beer and cocktails.
+
+After all, if they’re going to have a hobby, they should have one as great as Adrian’s videogames.
+
+Adrian firmly nods his head at that thought while continuing down the hall again.

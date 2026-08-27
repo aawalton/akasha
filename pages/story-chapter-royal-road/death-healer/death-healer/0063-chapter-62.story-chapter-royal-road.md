@@ -1,0 +1,155 @@
+---
+id: ad0a7f1c-f9a2-5b81-af1d-696380457469
+page-type-slug: story-chapter-royal-road
+title: "Chapter 62"
+slug: 0063-chapter-62
+partOf: death-healer
+position: 63
+ownLength: 2260
+unit: words
+publishedAt: 2025-08-16
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2523658/chapter-62"
+royalRoadId: "2523658"
+---
+
+All three commanders stared at Caesar now. Galerius’s knuckles whitened on the parapet. Silanus kept his arms folded, but his breath hissed between his teeth. Domitian’s eyes flicked from the girl to the commander.
+
+Everyone knew what that meant.
+
+Secret Skills were legends—fiercely protected, passed down only to the chosen, always just a step below the Great Skills. Many lines rose or fell on the strength of Secret Skills, and the law treated their theft as kin to treason.
+
+Caesar allowed himself the ghost of a smile, something cold and satisfied at the corners of his mouth.
+
+“The Skill that made me famous,” he said, never looking away from the courtyard. “That’s what you’re seeing now. Not even Tiberius knows it. Not even the Pope ever learned it. I’ve been the only one to master it in Lumina—until today.”
+
+He watched as the ghouls closed in, circling Lily like wolves, and the entire wall held its breath.
+
+* * *
+
+If Lily had not spent the last eleven months with Cesar, she would have been worried. Or actually, she would have just known that her time had come. To face fifty ghouls, even while topped up on Mana and stamina, she would have died in any life that wasn't one where she met possibly the strongest general—and most heinous deserter—of the Church.
+
+The circle of ghouls tightened, claws scraping stone and red eyes glaring in the morning gloom.
+
+The circle of ghouls tightened, claws scraping stone and red eyes glaring in the morning gloom. Lily felt her every muscle tremble since she had drawn upon Coniunctionis so much.
+
+Her Mana pool ran low, and her lungs burned from the last wave.
+
+Coniunctionis was, without a doubt, her most powerful Skill. She considered even better than [Life Flow]. It was simply too powerful in a melee, but it also drew a lot of Mana out of her and left her stamina depleted extremely fast. Using a Skill to snap the muscles and their tendons at a speed they're not supposed to reach naturally leaves you exhausted. If Lily didn't have [Life Flow], they'd also leave her damaged.
+
+Still, she did not step back.
+
+Galerius cupped his hands around his mouth and shouted.
+
+“You’ve got nothing left, girl. Stand down. This isn’t a lesson, it’s suicide.” The man barked and turned to Caesar, “If she dies here, Caesar, it’s on your head. Secret Skill or not, those are fifty ghouls.”
+
+Lily ignored the voices above. She drew in a ragged breath and raised her head, her gaze never leaving the monsters. The Mana shell around her body flickered as she revved up the Secret Skill that Caesar had taught her.
+
+“[Lux Vitae Overdrive],” Lily muttered, feeling the Light Magic in her body momentarily seize and then explode inward.
+
+[Lux Vitae Overdrive] was Caesar’s Secret Skill and most impressive weapon. What it did was rather straightforward, at least thanks to Lily’s understanding—she doubted even the ex-general fully understood the scope of this Skill.
+
+[Lux Vitae Overdrive] was an all-around metabolic accelerator that burned all excess energy stored in the body to provide an immense—but temporary—boost to one’s power. Caesar had taught her the Skill when she had mentioned that she had a deep understanding of the human body and physiology. The man had said that he owned a Secret Skill that relied on the understanding of one’s body to function, the same Skill that he had found through a lucky encounter and that, according to him, would allow him to make short work of his younger brother.
+
+A few months ago, Caesar had suddenly decided to teach it to her. Perhaps, he had been so feverishly immersed in her progress as a warrior, that he couldn’t help but wanting to see to what heights Lily could push herself if she mastered such a Skill.
+
+Caesar could use [Lux Vitae Overdrive] twice in a row at this point, for five minutes each, for a total of ten minutes.
+
+He had expected Lily to be able to use it for at least two minutes, much longer than he had been used to when he had first found the Skill. What Caesar had not expected, however, was that Lily’s mysterious memories—of which he wasn’t aware—filled all the gaps of understanding that the Skill needed to be brought to its very peak.
+
+“Caesar, stop this madness!” Silanus said as well. “Skill or no Skill, she’s going to die!”
+
+“I agree,” Domitian said in his elderly voice. “Stop it, Caesar. Do not make us intervene.”
+
+“Just watch!” this time it was Lily’s voice as her body exploded forth with [Lux Vitae Overdrive].
+
+The effect struck like a hammer blow to her system. Every cell responded. Glycogen stores inside her muscles broke down at an impossible speed, dumping glucose straight into her bloodstream until her blood sugar spiked to levels that would have killed an ordinary human. Fat cells split open as if sliced with a blade, their stored triglycerides turned instantly into free fatty acids and glycerol, flooding her blood with raw fuel. Even her bone marrow joined in, releasing every last reserve of sugar it could produce.
+
+Her pancreas and liver barely kept pace, forced to process energy at a rate that would cripple most living beings. The amount of adenosine triphosphate her mitochondria produced in those seconds soared, feeding every muscle fiber with direct chemical energy, making her muscles feel dense, hard, and stronger than steel cable.
+
+Her heart contracted with a force and frequency that pushed her blood volume to its maximum limit. The stroke volume spiked. Her arterial pressure climbed. Capillaries in her skin, muscle, and even the lining of her lungs dilated so oxygen transfer could keep up with the oxygen demand. Each red blood cell, swollen with Mana and saturated with oxygen, moved through her arteries at a pace that made her whole body flush hot.
+
+Her breathing became rapid and deep, the diaphragm working in overdrive. Each inhale dragged in more air than she had ever managed before. Oxygen dissolved straight into her plasma, saturating every tissue. Carbon dioxide rushed out just as fast, forced from her lungs before it could poison her.
+
+She felt her nervous system accelerate—her reflexes sharpened, the conduction velocity through every axon and dendrite pushed toward their theoretical maximum. The neurons in her brain fired faster and in greater numbers, every sense heightened, every movement calculated with an almost mechanical precision.
+
+Even her blood itself thickened as all these reserves entered her circulation. Her spleen contracted, squeezing extra red blood cells into the system. Her blood volume rose as water moved from her cells into her veins.
+
+Her sweat glands ran on overdrive, pouring out fluid to dump heat, but the Mana shell around her body kept the worst of the thermal spike from baking her nerves. The skin flushed with heat and tingled as capillaries pulsed open and shut.
+
+Inside, her organs labored with every heartbeat. Her kidneys filtered blood at double speed to clear the byproducts. Her gut, starved of blood, shut down all non-essential function to shunt every drop to her muscles and brain.
+
+The total effect was overwhelming. Stamina and Mana tripled. Fatigue vanished, replaced by a sense of overwhelming power that left her feeling almost feverish, as if her body was burning from the inside out. Not only she had greater reserves, but under [Lux Vitae Overdrive], her body became harder, stronger, and better.
+
+Unlike Caesar, Lily did not have a set limit because her Skill was so efficient, she could keep this up for as long as half an hour.
+
+Once again, she had to thank her mysterious memories for it.
+
+She kept her [Mana Sense] active, while the hemoglobin in her blood carried twice as much oxygen as it should have, causing even her thought process to be sped up, and therefore a Skill like [Mana Sense] to become even more powerful.
+
+She closed her eyes as a faint vapor and a rim of warm Light Magic emanated from her body. Her core temperature was several degrees higher than it should have been, but she felt like she had been immersed in a cozy hotspring.
+
+Then, the first ghoul lunged at her.
+
+She opened her eyes just as the ghoul left the ground. The world slowed. Her perception expanded outward, each nerve and synapse firing so fast that the creature seemed to move through syrup. She sidestepped with a twitch of her ankle, moving faster than any unclassed body should have allowed, and drove her fist through the ghoul’s sternum. Bone shattered, ribs broke away in shards, and the corpse flipped backward before it hit the ground.
+
+The second ghoul lunged, claws spread. Lily bent her knees and crossed the entire distance between them in a flash, her foot snapping up to catch the monster under the jaw. The head twisted nearly backwards and the spine broke with a sound that echoed across the courtyard.
+
+Three more came at once, moving as a pack. Lily spun inside their reach, her muscles loaded with energy, her Mana lattice woven so tight it looked like a second skin. She blocked a claw with her left forearm, letting the bone snap against the reinforced gauntlet. She caught another by the throat, lifting it off the ground with one hand and slamming it into the third ghoul. The impact caved in both skulls.
+
+On the wall, Galerius pressed his fists into the stone, his jaw slack.
+
+“No child moves like that,” he muttered.
+
+Silanus leaned forward, eyes wide, searching for flaws in Lily’s technique or signs of breakdown in her Mana. He found nothing but precision. Every strike landed with perfect force, each step laid out with surgical accuracy. Even Domitian, the old man who had seen more battles than any two of the others combined, said nothing. His lips pressed tight, his knuckles white on the parapet.
+
+In the yard, Lily never stopped. Every time a ghoul circled, she intercepted before it could close. She did not wait for them to attack—she forced the pace, her feet skating over the ground, using Mana and muscle together to unleash impossible bursts of speed. At one point, four ghouls lunged at her from all sides. She ducked, twisted, and drove her elbows backward, snapping bones in two bodies while her knee shattered the pelvis of a third.
+
+Her breathing stayed deep, but now every inhale flooded her system with oxygen. Her blood ran so hot her skin steamed in the morning air, but her mind stayed razor-sharp. Every limb, every muscle, every organ pushed just below the breaking point, held together by [Lux Vitae Overdrive] and the relentless reinforcement of Light Magic.
+
+One ghoul managed to rake her shoulder, but her Mana coating was too powerful now, too dense for the Ghoul’s attack to do anything to her.
+
+She retaliated, snapping its neck with a palm strike.
+
+Twenty ghouls went down in less than thirty seconds.
+
+Galerius couldn’t believe his eyes.
+
+“That’s not possible,” he muttered, more to himself than anyone else. “That’s not a Skill. That’s… something else.”
+
+Silanus shook his head, voice dry.
+
+“That’s not even how Secret Skills are supposed to work.”
+
+Domitian stared in silence, his gaze flicking from Lily’s glowing skin to Caesar’s impassive face.
+
+More ghouls pressed in. Lily rolled under one’s grasp, kicked off the flagstones, and used the rebound to launch herself into a cluster of three. Her blows landed before any of them could react, each hit shattering bone and ripping the Death Mana free from their bodies.
+
+By now, the vapor coming off her skin left streaks in the air.
+
+A group of five ghouls circled, trying to pin her with their numbers. Lily leapt straight over them, landing behind their backs, then swept their legs out from under them with a single spinning kick that broke joints and vertebrae with casual brutality. She kept her guard up, her stance always closing every possible opening, her [Mana Sense] sweeping the battlefield and marking every motion, every intent.
+
+She drove a heel into the temple of one ghoul. She hammered an elbow into the ribs of another, letting the impact travel straight through its body. Her strikes wasted nothing—every calorie, every spark of Mana went into motion, speed, and destruction.
+
+As the last of the ghouls tried to flee, she caught it by the back of the neck and slammed it into the stone until the red light in its eyes faded.
+
+She stood alone in the killing ground, chest rising and falling, sweat pouring off her body. The Mana shell still shone, but her skin flushed dark with heat, and the vapor off her arms curled in the sunlight.
+
+For a long moment, no one on the wall said a word.
+
+Then Galerius drew in a slow breath.
+
+“Caesar, Dawn’s Mercy,” he said, voice low, “what in the name of the Extinguished Light did you do to her?”
+
+Silanus stared at the field, watching the broken bodies twitch.
+
+“She shouldn’t be standing. No Unclassed should survive that. No one—boy or girl—should move like that at this age.”
+
+Domitian said nothing. He watched the steam coming off Lily’s skin, and for once, he did not try to speak for the future. He saw what stood before him and knew it was something new.
+
+Caesar only looked down, arms folded, jaw set.
+
+He didn’t answer them.
+
+Instead, he looked at the [Templars] who had just come back into the arena and said.
+
+“Open the last gate.”

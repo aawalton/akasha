@@ -1,0 +1,129 @@
+---
+id: 4c368f03-1983-5f03-8a52-55a76f2af0ca
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 25"
+slug: 0185-b3-chapter-25
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 185
+ownLength: 1479
+unit: words
+ownProgress: 1479
+publishedAt: 2024-07-23
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1729289/b3-chapter-25"
+royalRoadId: "1729289"
+markedReadAt: "2026-06-29T19:12:00.560Z"
+---
+
+Aria
+
+“Lady Death,” the emperor declares, bringing my attention to him and snapping me out of my stupor. “You may assist my son as much as you’d like. Whether that’s not at all or helping him through the entire trial. It is up to your discretion.”
+
+I blink at him before wordlessly nodding.
+
+Considering how much help he’s given me over the years, it’d be rather rude not to return the favor.
+
+But still… what?
+
+I’m still so confused.
+
+“You are both dismissed,” the emperor states. “Abe will make sure to see to it that you have what you need.”
+
+Then the emperor disappears in a flash of silver light, leaving the throne empty. And right after that, the silver energy filling the throne room flashes before the room changes, looking entirely different by the time the silver light fades and I can see again.
+
+Instead of the grand and mysterious throne room, the room looks like nothing more than a guest room now. Which confuses me even more.
+
+“Shirogane, you will not be given immigration rights to Silverfall as we do not have that right ourselves, so you will be required to find and set up your own connections to the world to begin your trial,” Abe – the Ten Star Merchant – states, getting straight to the point. “You will have five decades to set up trade, and if you fail to get the magical silver by then, you will lose your status as a hidden prince and will fail your advancement to Nine Star Merchant status. However, funding will be provided for the purchase of the magical silver itself. No matter how much is required. And you will have the right to negotiate for the Eternal Dynasty during this period.”
+
+“Understood,” Shirogane says while standing up, no longer nervous due to his emotions being turned off. “I will set out immediately.”
+
+“You know how to call when you need funds,” Abe says with a nod before leaving the room. But right before he steps out the door, he pauses and turns to me, saying, “And Lady Death, are you sure you don’t want to let others join your mercenary company? We’ve still got a line of applicants wishing to join.”
+
+I stare at him for a few seconds before shaking my head.
+
+“A pity,” he says, turning around again. “Please contact me when you change your mind.”
+
+I raise a brow at that.
+
+‘When you change your mind’ not ‘if you change your mind’.
+
+He’s certainly confident.
+
+After he steps out of the room, the door closes on its own. But I can’t help but notice that those guards aren’t outside anymore.
+
+Weird.
+
+I turn to focus on Shirogane, who still has his emotions turned off. Then I ask, “So, what’s this about you being a prince?”
+
+He turns to me and answers, “My father decided that it should be kept a secret from everyone so that I don’t receive any bias while climbing the ranks. This way I’ll be able to gain my own influence without relying on the influence of my father.”
+
+“Understandable,” I state with a nod. “And this trial?”
+
+“The part about my status as a prince is new, but this sort of trial is normal for anyone trying to reach the status of a Nine Star Merchant,” he answers while glancing at the door, then looking at me again. His emotions still turned off. “Everyone who wants to reach this rank needs to prove to the nation that they can do something no one else has done for the nation. Something significant like this deal. And after I reach the status of a Nine Star Merchant, I will already have made a name for myself. Enough that Father will reveal my status as his son.”
+
+“Also understandable,” I tell him while putting my hands back in my pockets and sitting down on one of the couches in the meeting room. “Then how will you proceed to go about this? I’ve heard that the Eternal Dynasty and the Grand Silvanian Empire aren’t on the friendliest of terms.”
+
+From what I’ve heard, they do still have trade ties to most of the worlds belonging to the empire. But they don’t have any belonging to the capital, Silverfall. Strictly because the emperor of the empire doesn’t like the emperor of the dynasty.
+
+I don’t know anything else though. And that sounds rather petty of him.
+
+“We have a connection I’m already waiting for respondence from,” Shirogane answers without missing a beat. Then just seconds later, his phone begins to ring.
+
+I tilt my head slightly in confusion before he answers the phone on speaker and Rory’s voice comes out of it.
+
+“Shirogane, I’ve told my father about what’s going on and he said he’ll let you into the world. Both you and Aria. But I’ll warn you, his interests in meeting you and Aria are very different.”
+
+Oh. Right. I forgot she’s the niece of the Grand Silvanian Empire’s emperor. Daughter of the Archduke of the Empire.
+
+Although, he wants to meet me too? And what does she mean ‘his interests in meeting us are different’?
+
+I guess he just wants to meet me due to who I am, and he wants to meet Shirogane for this business?
+
+“He’s not particularly interested in what business you have though. And my uncle has even less interest than Father has. So you may find yourself having trouble over here,” Rory continues speaking, contradicting my current thoughts.
+
+Wait, then why-
+
+“Why does he want to meet me if he isn’t interested in business?” Shirogane asks the same question I’m thinking.
+
+“You’ll have to wait until you arrive to find out,” she says, sounding like she’s shrugging. “But it has nothing to do with your Trial or the Dynasty.”
+
+Huh.
+
+Well that’s kinda interesting, but not really my business.
+
+“You will be allowed to try to negotiate with Father and Uncle while you’re on our world, and Aria will be given access to the Spires to hunt as much as you’d like, tax free,” she says, sparking my interest far more at the mention of the Hunter’s Spots of Silverfall. “But don’t get your hopes up. This trial will be nearly impossible for you to accomplish.”
+
+My focus completely zeroes in on the mention of the Spires as I smile and look up at the ceiling of the room.
+
+It’s been a while since I’ve been to such a nice Hunter’s Spot.
+
+The Spires are just as good of a place as the Hunter’s Bay here on Eternus. They’re massive towers stretching high in the sky made out of some sort of smooth white metal, with spatial magic focused around the spires making them larger inside than they appear on the outside. They also have a lot of floating blocks and mana creatures inside, pretty much all of which have some relation to spatial magic.
+
+So it’s not just the resources in the place, which is one of the few places in the universe that has a lot of spatial magic resources like mana creature parts and minerals. But the place itself is in the top ten spectacles in the entire universe.
+
+And I’ve gotta see it.
+
+Plus it makes for a good next world to visit. Especially if I’m being given access to the Spires.
+
+“Oh, and there’s one thing I haven’t mentioned yet,” Rory comments, making my attention finally return to the discussion at hand. “Even if Father has something he wants to see you for, the only reason you’re being allowed on Silverfall in the first place is because of Aria. So my uncle declared that Aria is not allowed to help you any further in your negotiations. She will be left out entirely. Is that understood?”
+
+I blink at that before opening my mouth to say something, only to close it again.
+
+Well, guess I’m being excluded from this thing after all. Other than giving him an entry point.
+
+But I guess that’s enough help.
+
+Shirogane and Rory continue talking as I stare up at the ceiling imagining the Spires. And I’ve heard there are spots on the Spire that you can be forced out of it, which saves a lot of time.
+
+I’ve grown to enjoy the Hunter’s Spots that are based on height like that. Ones that I can take a shortcut out of the place.
+
+Saves me a lot of time and lets me level up a bit faster. And clean up faster too.
+
+Overall, they’re definitely my favorite types of Hunter’s Spots.
+
+I can’t help but smile at the thought of seeing the Spires.
+
+And if we’re staying for five decades… that’s plenty of time to spend hunting.
+
+I keep daydreaming about the Spires as the two continue talking business. Largely forgetting I’m even here.
+
+This’ll be a fun trip.

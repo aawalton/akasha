@@ -1,0 +1,271 @@
+---
+id: 090ca02c-01cb-54c0-b09d-4c1a0ac67da9
+page-type-slug: story-chapter-royal-road
+title: "225: Shakedown"
+slug: 0225-225-shakedown
+partOf: delve
+position: 225
+ownLength: 3750
+unit: words
+publishedAt: 2023-03-19
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1142275/225-shakedown"
+royalRoadId: "1142275"
+---
+
+If not for the worry that had settled into his bones, Asten would have been whistling to himself as he waded through the mud on the way to the barn. Newly married, he and Nena had fully expected to be getting their hands dirty. It was a lot of work, starting out on your own. Even with the help of her family, they’d known the next few years would be filled with hard and dirty work. Right now, the aoaka needed milking, and that was that. A little mud on the way to the barn was hardly worth bothering about.
+
+The trouble was, it wasn’t just a little mud.
+
+Asten sighed.
+
+It had rained on their wedding day. It had rained the day after and the day after that. On the fourth day, when the creek swelled enough to wash away the bridge, words had begun to be spoken. Words like ‘abnormal’ and ‘omen’. And then it had kept raining.
+
+Now, a week on—more or less, sunless days blending into a dreary slog—their little village was in crisis. The field he and Nena had worked so hard to clear of stones was flooded, and the first crop that they’d planted together was ruined. Even the aoaka cow—a gift from her father—was wilting under the constant deluge and from being forced to graze on sodden grass. There was no more hay to be had, not with every farmer within a day’s walk hoarding what little they’d managed to keep dry. If the group that had gone to petition Citizen Falking didn’t return soon, things were going to get bad.
+
+Worse, Asten corrected himself, yanking open the swollen door to the barn and taking in the musty smell. Things are going to get worse.
+
+It was dark inside the barn. He hadn’t bothered with a lantern, oil being yet another commodity that was in short supply. Squinting as if it would somehow help, Asten coughed, then rattled the covered bucket he carried. “It’s time for a milking!” he called, trying to keep his tone light, though whether it was to reassure himself or the cow, he couldn’t say. He rattled the bucket again. “Where are you, you great moobeast?”
+
+Movement from the shadows caught his eye, and he turned, spotting a vague shape of approximately the correct size. “Ah,” he said, moving to take a step in that direction.
+
+Before his foot even came down, another shadow detached itself from the first. He didn’t even have a chance to cry out in surprise before he found himself pinned to the wall, the bucket clanging loudly as it tumbled away. Grunting, he struggled, taking in the bedraggled gray hair of the woman who’d pinned him with her forearm. He pushed at it futilely, some part of his panicking mind registering the implication before he was suddenly released.
+
+“Gah!” he cried, staggering and sucking in a huge lungful of air. “Who—?”
+
+Aborting his own question, he looked up, finding a woman’s face a mere handsbreadth from his own. Lightning flashed in the distance, briefly giving him a better glimpse of faintly wrinkled skin and bottomless green eyes, at odds with an expression of childlike curiosity.
+
+Without warning, the woman reached out and ruffled her hand through his damp hair.
+
+“Hey!” he shouted, pulling away and scrambling to his feet. “What in Garden are you doing?!”
+
+Immediately, he regretted it, clamping his mouth firmly shut. His heart hammering in his chest, he found his mind running over a list of a thousand things one should not do when one found an adventurer in their barn. That was clearly what the woman was, confirmed by the partially shredded black outfit hanging from her bony form. The thickness of the material clearly made it armor of some type. She wore no plate like in the stories, but that didn’t mean anything. All he had were the stories. Adventurers had no business being in a place like this.
+
+The woman was looking at him, seemingly unoffended by his shout, her curious expression replaced with confusion.
+
+“Ahh?” she said, the look of confusion deepening. “Anahhhha?”
+
+“What?” he asked, blinking.
+
+“Whaaa!” the woman said, pointing at him, then touching her mouth. Asten watched in growing confusion, his terror fading as the old woman continued making bizarre sounds, playing with her lips and tongue as if discovering them for the first time.
+
+Adventurers are supposed to be odd, but...
+
+He licked his lips. “Are you, uh...” Trailing off, he cleared his throat, then tried again. “Are you okay? Do you need help? If not, er, what are you doing here?”
+
+The woman ignored him, sitting on the wet ground and continuing to babble to herself. Unsure of what to do, Asten looked toward the door as he caught the flicker of light too warm for lightning.
+
+“Asten, what’s going on!?” Nena called, rushing inside and holding the lantern high. “I heard you yell.”
+
+The stranger moved more quickly than Asten could comprehend. She flew from sitting to standing and staring hunched over at the lantern so quickly that Nena’s hair was blasted backward.
+
+“Gods!” Nena shrieked, scrambling back at first, darting around the woman to plant herself protectively in front of him. “Asten, get back!”
+
+“Na!” the adventurer cried, a flicker of anger crossing her face, replaced by furtive determination. She pointed a single finger at Nena, and the lantern was abruptly wrenched away from her.
+
+By nothing.
+
+Asten stared as the lantern floated slowly through the air, hooking itself over the woman’s finger to dangle.
+
+“Nah,” the woman said, the nonsense word this time somehow conveying satisfaction.
+
+“Husband, dearest,” Nena said, looking down at her empty hands, then closing them as she looked back up. “Why is there a Guilder in our barn?”
+
+“You know, I asked,” Asten replied mildly, stepping out from behind his wife to stand beside her. “I don’t think she understands. I think...something’s wrong with her.”
+
+“Na, na, na, na,” the Guilder sang to herself, holding up the lantern and tilting it this way and that as she peered inside. The flame guttered but didn’t go out.
+
+“I can see that,” Nena said. “What do we do?”
+
+Asten thought for a long moment, then shook his head. “I have no idea.”
+
+Temerity’s bridge rose at the stern of the ship, the armored superstructure projecting crag-like from the wooden deck. The freshly sanded planks weren’t visible through the forward-slanted potion-glass windows, owing to the lack of light in the cavernous interior of the glacial dry dock.
+
+Inside the bridge, red-tinted bulbs mounted to the high ceiling bathed the helm console with just enough light to see the controls. Rather than a traditional ship’s wheel, a number of heavy titanium levers rose from the floor on either side of the console. The surface of the console, too, was something no sailor from this world would have recognized. The varnished wood was inset with buttons, switches, needle gauges, and glowing indicator bulbs, connected up to the hidden wiring that spread down through the ship like its nervous system.
+
+Staavo, seated in front of it in a swiveling titanium chair, looked bored.
+
+“Ready, Captain?” Vanna asked from the center of the bridge, glancing over her shoulder.
+
+Rain nodded, standing between Ameliah and Tallheart along the line of rear-facing windows. “Whenever you are.”
+
+Vanna returned his nod, then turned to face forward, clasping her arms behind her back. “Staavo, three blasts, if you will.”
+
+“Aye, aye, Commander,” Staavo said with only a hint of sarcasm. He reached for the console, and a moment later, a powerful foghorn blast resounded from outside. It would have been loud enough to rattle the windows if there had been even the slightest gap in their fittings. There was not. The command tower was armored, even the windows crisscrossed by titanium webbing. The defenses would be sufficient to withstand a Fireball or two at the very least.
+
+The horn blast was followed by a second, then a third.
+
+“Captain, melt it down, please,” Vanna said.
+
+Rain nodded, grasping the railing behind him. “Everyone hold onto something.”
+
+Immolate
+
+No spell card appeared. Working instead by feel, he configured Ethereal Aura for maximum penetration and gradually increased the power. With the local Heat mana depleted, as it had been for some time, it would take a good bit of power to accomplish what he was after.
+
+Power, though, wasn’t exactly an issue.
+
+Soon, the sound of dripping water became audible. Satisfied that the current rate would be neither too fast nor too slow, Rain dropped the spell’s power by three-quarters and closed his eyes. Sound vanished as Aura Focus kicked in, restoring the power to where it had been and simultaneously extending the effect to the maximum range he could muster.
+
+Unlike how it had once been, Rain did not find his senses blocked. His soul sight continued functioning just fine. If anything, it only became sharper with the removal of other distractions. With it, he read the reactions of the souls around him and thus knew exactly when the work was done.
+
+Sound returned as Rain released the spell, his ears confirming what his inner ear had already been telling him. Waves crashed outside to accompany the rolling of the deck, while inside, the air was slightly warmer than it had been before.
+
+Freed from its icy prison, Temerity bobbed in a maelstrom of churning water created by the ocean rushing to mix with the melted remains of the glacier. Beyond the windows, the sky was overcast, hiding the moon, but on shore, the lights of Ascension’s camp could be clearly seen. Other than the small crew necessary to test the ship’s systems, everyone else was watching from a safe distance.
+
+“Tallheart?” Vanna asked.
+
+“The hull is holding,” Tallheart said with a rumble.
+
+“Rain?” Vanna asked.
+
+“Detection shows we’re shallow but clear. I don’t sense any water where it’s not supposed to be, so if we’ve got leaks, they’re not big ones.”
+
+“Excellent,” Vanna replied, stepping forward to stare out over Staavo’s shoulder. “We proceed with the test. Atomic batteries to power. Turbines to speed.”
+
+“Atomic...what?” Staavo asked, craning his neck to look up at her. After a moment of no reply, he grunted, then shook his head. “Powering mains from battery, bringing up the turbines.” He flipped a switch, flooding the bridge with pure white light, then began cranking the handle that would open the main boiler valve. With his Perception accolade, Rain had no trouble picking out the motion from the gauges, even after the sudden change in illumination. He’d have paid more attention to what they were saying had he not currently been doing his utmost to control his face.
+
+“What’s so funny?” Ameliah asked, looking at him. “You told her to say it like that, didn’t you? What did she mean, ‘atomic’?”
+
+“Nothing,” Rain lied, keeping his voice perfectly level. “Every battery is atomic if you think about it. They’re made of matter, after all.”
+
+“You’re laughing,” Ameliah said, squinting at him. Her gaze narrowed even further. “I can see it.”
+
+Rain relented, letting his amusement show with a cheesy grin. The expression was all the wider from the pride swelling in his chest. Ameliah was catching up. Tallheart, not so much, but he’d been busy. The antlered smith had his eyes closed, still firmly grasping the titanium railing. Presumably, he was monitoring the ship’s metal structure through the contact. With how ragged he looked, though, Rain would have also believed he was simply taking a moment to rest.
+
+And he scolds ME for pushing too hard.
+
+“Voltage rising,” Staavo said. “Generator turbines one and two are spinning up. Engine turbines one and two are standing by. Switching main power to turbines and batteries back to charge.”
+
+“Deck floods,” Vanna commanded.
+
+It wasn’t Staavo that responded, but Lena, seated at the auxiliary console. There was a quiet electrical zap as the former apothecary threw a switch, then a barely perceptible dimming of the bridge lights. Meanwhile, the deck below was bathed in light.
+
+“Hatches,” Vanna commanded.
+
+This time, Jamus leaned forward, seated at yet another console. There was a crackle and a hum as the orange-robed mage depressed a large button and leaned forward to speak. “Hatches open!”
+
+Captured by the crude microphone, then boosted by an equally crude amplifier, Jamus’s voice was a barely intelligible squawk as it blasted over the PA. Movement from the deck below, however, proved that the order had been understood.
+
+Rain silently pumped a fist. The microphone had been the last and hardest piece. Temerity had a radio too, of course, another of the buttons at the comms console set up to route the signal through it rather than the speaker. Receivers were few and far between, but they had a few. More importantly, they knew how to make more.
+
+The hatches were fully open now, Rain watching as Ascension members lashed them in place, turning one by one to signal the tower. Last to finish was Carten, who then moved to guide Emerton through the hatch, the former noble encumbered by his metallic wings.
+
+Turning in their direction, Carten waved, then began signing in broad gestures with his meaty hands. “No leaks! Flyboy is ready!”
+
+“Takeoff authorized,” Vanna signed back.
+
+Carten nodded, slapping Emerton on the shoulder, then pointing into the sky before walking over to the railing. Slipping a pair of goggles on over his eyes, Emerton backed up, then broke into a sprint, puddles fleeing from him as he used a powerful blast of Air magic to catapult himself upward.
+
+“This is going well so far,” Ameliah observed, watching out the front windows. Rain moved to join her, tracking Emerton as he circled higher. Bakal had come out in the meantime. With a wave of his pudgy arm, the former Sea King gathered the remaining water from the deck into a ball and tossed it overboard.
+
+Rain was glad the old pirate had agreed to stick around. He had yet to broach the subject of him officially joining Ascension, though. He wasn’t sure he wanted the answers to some of the questions he’d need to ask in the interview.
+
+“Emerton, can you hear me?” Jamus asked, speaking into the microphone. “Come in, Emerton.”
+
+There was no spoken response, obviously. The microphone Jamus was using was the only one on the entire planet. After a moment, however, there was an angry buzz from the speaker set into the coms console. The Aeromancer’s equipment could only send pulses, but that was more than enough. The buzzing continued, the bleeps and bloops spelling out an abbreviated word.
+
+- ACK -
+
+“Ask him for a report, please,” Vanna said.
+
+“Anything on the horizon, Emerton?” Jamus asked the microphone.
+
+- HORIZON SEEMS CLEAR - VISIBILITY LOW - CIRCLING -
+
+“Acknowledged,” Jamus replied, then released the transmitter, not bothering to translate. No one here needed him to.
+
+“Good work, Staavo,” Ameliah said. “I’m impressed.”
+
+“Hmph,” Staavo grunted, crossing his arms. “I told you it would work. Remember that next time you doubt me, girl. Turning Rain’s bullshit into real shit is my specialty.”
+
+“Stay focused, please,” Vanna said while Rain tried to hide a smile. “Drive turbine status? Are we at idle?”
+
+“Have been for a while,” Staavo replied.
+
+“We’re drifting toward the shore,” Lena said, looking out one of the windows. “We should probably hurry in case there’s a problem with the drives.”
+
+Vanna nodded. “Probably. Rain, how’s the depth?”
+
+“Fine for now,” Rain said, checking. “Lena’s right, though. The last thing we need is to get stuck, and you shouldn’t rely on me being here to tell you where the bottom is.”
+
+“If you need me to get out and push, just say the word,” Ameliah said.
+
+Rain smiled. She wasn’t even joking. Given Bakal’s difficulty with metal, that was the backup plan.
+
+“Open intakes,” Vanna said.
+
+Lena pressed a button on her console, though all it connected to was a buzzer in the engine room. Ruce and Ellis, currently on station there, would do the actual intake opening. The main control levers were mechanically coupled to the valves of the drive system, but many other controls were not. As much as Rain had wanted a single person to be able to pilot Temerity, it just wasn’t possible as things stood. The bridge was actually more finished than most of the ship’s interior. Below, bare wires, pipes, and exposed mechanisms were more the norm.
+
+After a brief wait, indicator lamps lit on both Staavo’s console and Lena’s, signaling that the intakes were open, allowing seawater through the grates to flood over the impellers.
+
+Temerity was a full-on jet boat now. Rain had brainstormed the more complicated design with the Engineering council after they’d stopped to consider what a Whale could do to the propellers. It was a strange thought for Rain, used to the concern being the other way around.
+
+“Engage,” Vanna said.
+
+Ameliah and Rain shared a knowing smile as Staavo slapped a pair of levers forward. There was a tiny shudder felt through the deck plates and a hollow gurgle of water moving far below.
+
+“Transmission engaged,” Staavo said. “Steam pressure is dropping.”
+
+“Increase the heat to compensate,” Vanna commanded.
+
+Lena pressed another button, again connected only to a buzzer. The crew monitoring the boiler was doubtless already aware of the pressure drop from their own instrumentation. They had orders to keep it steady and could adjust the degree of thermal coupling between the boiler and the ship’s reservoir of molten metal by adjusting the position of Thermalitic Bronze rods. If they’d been somehow asleep after all the heaving and rocking, they’d now know they had work to do.
+
+“Pressure stabilizing,” Staavo said. “No, wait. It’s overshooting. Damned idiots!”
+
+“Are we moving?” Jamus asked excitedly, standing to peer out the window.
+
+“Vent, or open the throttle?” Staavo asked.
+
+“Vent,” Vanna commanded. “I’d like to test the safety.”
+
+“Oh, come on,” Staavo groused. “What did I just say about doubting me?” Nevertheless, he reached down to his side and yanked on a small, out-of-the-way lever. However, instead of the expected blast of steam, all that was released was a strained grunt.
+
+“You were saying?” Jamus asked.
+
+“Damn it,” Staavo swore, giving the lever another useless yank.
+
+Vanna laid a hand on his shoulder, leaning to look at the pressure gauge herself. “Throttle, then, please, before the emergency valve blows. One quarter forward.”
+
+Muttering and firmly grasping two of the levers, Staavo slid them gently forward. The distant burble of water grew louder, and another tremor ran through the ship. Turning, Rain smiled as he walked to the armored rear windows, then looked down at the dark waves. Spillover from the floodlights let him see the growing churn of water as the impellers came up to speed, blasting twin jets of water behind them.
+
+“Steam pressure is dropping too fast now,” Staavo said, pulling the levers back. “Somebody tell those idiots to do things gradually!”
+
+“I’m sure they’ll realize for themselves in a moment,” Rain said. Kettel and Mahria were on boiler duty, against his better judgment.
+
+“Lena, are we still drifting?” Vanna asked.
+
+“Hard to tell, but I think we’re moving away from shore,” Lena said, looking out the window.
+
+“Rain?” Vanna asked.
+
+“Confirmed,” Rain said. “We’re picking up speed.”
+
+“Let’s see how fast we can go,” Jamus said, clearly having a great time.
+
+“Let us not,” Tallheart rumbled, only now opening his eyes. “Apart from the risk of damage, we would tip our hand.”
+
+“Sorry, Jamus, but Tallheart’s right,” Rain said, looking back at the smith. “Maybe just a little faster, though? Give it a good test?”
+
+“Half throttle, but no more,” Tallheart said with a lazy blink.
+
+Rain smirked at him. The smith wasn’t fooling anyone. He was just as excited as Jamus despite the bone-deep cloud of exhaustion hanging over him. He was proud of his work, too. If he’d been a cat, he’d have been purring.
+
+“One half, then,” Vanna said. “Staavo, make it so.”
+
+Rain snorted. “Once is a coincidence, but twice?” He turned to look at her. “Did Ameliah put you up to that? Or was it Tallheart? Carten, maybe?”
+
+“Up to what?” Vanna asked innocently. She wasn’t fooling anyone, either.
+
+Over the next hour, they continued putting the ship through its paces, never pushing too far, and making sure to keep both well away from shore and from the deep water. They were running this test at night, and while they were safe enough from Whales, there was no information to be had on how other, smaller, hostile marine monsters might react to the vibrations. Tallheart left the bridge not long into the testing, heading off to work on that very problem, balancing and adjusting various mechanical pieces. Another issue arose when one of the bow thrusters—separate, smaller turbines, independent from the main system—basically tore itself apart.
+
+On the whole, though, everything went amazingly well. Temerity was never going to be agile, but already, its maneuverability was well above what Rain had dared to dream. Not only could the speed of the impellers be varied, but the flow from either nozzle could be inverted as well, a single pull of a lever reversing thrust in an instant. The outlets weren’t fully vectorable or anything—yet—but they didn’t need to be. It was already impressive enough, given how little time they’d had. The icing on the cake was that all the complexity was hidden away. Luna or whoever else wouldn’t have a HOPE of figuring out what was going on from outside.
+
+“Well, I think that’s it,” Vanna said as the sky was beginning to lighten, though the sun remained shrouded. “We’re good to go, Captain, once Tallheart rebuilds that thruster.”
+
+As if summoned by the mention of his name, the door to the bridge opened, and Tallheart stepped through. “Already done,” he rumbled. For once, he hadn’t needed to duck. That had obviously been a design requirement.
+
+“Excellent,” Rain said, grinning at him. “Staavo, get us over to the pier, please, and be careful. Ask Ameliah for help getting us docked if you need it. Once we’ve packed up the circus, I’ll sweep the beach, and then we’re on our way.”
+
+“Very good, Captain,” Vanna said. She swiveled to address Tallheart. “Now, will you please take a nap?”
+
+Rain beamed, moving beside Ameliah and slipping an arm around her waist. “Great work, everyone. It’s almost like we know what we’re doing.”

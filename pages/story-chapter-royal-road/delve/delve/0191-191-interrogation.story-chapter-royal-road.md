@@ -1,0 +1,335 @@
+---
+id: f02e2b2f-5dda-5d2f-97c4-34d8a7fe0e8d
+page-type-slug: story-chapter-royal-road
+title: "191: Interrogation"
+slug: 0191-191-interrogation
+partOf: delve
+position: 191
+ownLength: 4770
+unit: words
+publishedAt: 2022-05-08
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/902880/191-interrogation"
+royalRoadId: "902880"
+---
+
+“Come on in,” Rain said, beckoning to Samson as he came into view through the open flap.
+
+“Rain,” Samson said in greeting as he entered the tent, followed by the pale imperial. Fechton seemed to be coping well enough with the situation, all things considered. He didn’t look nervous or anything. In fact, he seemed perfectly at ease. Rain wasn’t sure how much of that was an act.
+
+“Close it behind you,” Vanna said, seated beside Rain in a high ladder-backed chair. It was one of eight seats lining the circular space, no two of them alike. Like Rain’s tent, this one was also made of monster hide and was painted with noise-blocking runes. He had commissioned it after tiring of the council heads co-opting his bedroom whenever they needed to hold a discussion. It was spacious but otherwise unimpressive as a command tent, given the dirt floor, mismatched furniture, and the trio of bare light bulbs dangling like fruit against the aluminum support pole. At the moment, only three of the chairs were occupied. Ameliah was lounging to Rain’s right in an upholstered armchair, though she’d straightened up a bit in response to Fechton’s arrival. Her bow was propped against the tent wall just beside her, ready if needed.
+
+“Please have a seat,” Rain said to Fechton, gesturing toward the mismatched furniture. “Just pick any chair. Doesn’t matter.”
+
+Fechton nodded, selecting a short three-legged stool as far as possible from everyone else. The stool wouldn’t have been Rain’s choice, that was for sure. He’d have taken the armchair if Ameliah hadn’t beaten him to it. Samson, meanwhile, hadn’t taken a chair; instead, he’d remained standing by the tent flap, with his hands clasped behind his back.
+
+“So, who is he?” he asked, getting straight to the point.
+
+Fechton looked down, pulling his eyes that had been lingering on the light bulbs to meet Rain’s gaze.
+
+Rain supposed he might look a bit nervous after all. He probably hadn’t been expecting this many people. Rain nodded to him, trying to make the motion reassuring, then turned to answer Samson. As head of the Defense Council, he needed to know. “An imperial.”
+
+Samson didn’t bat an eye, probably having already suspected as much. “I see,” he said slowly. “How did you find him?”
+
+“He found me,” Rain replied. “He asked for...political refuge.”
+
+Todo: learn the word for asylum.
+
+“Ah,” Samson said, casually uncrossing his arms and resting one hand on the hilt of his sword. He turned to look at Fechton with a speculative expression. “And have you granted this request?”
+
+If he hadn’t been before, Fechton was certainly looking nervous now, cracks appearing in his earlier composure.
+
+“I have,” Rain replied hurriedly. “There’s a lot he can tell us.”
+
+“I agree,” Samson said, taking his hand from his sword, seeming to have realized the effect he was having on their visitor. Rain didn’t get the sense that the intimidation had been deliberate. Samson glanced at Vanna, then to Ameliah and back to Rain. “I am curious, though, why you left him with me with no explanation. Who was that cloaked woman you were speaking with?”
+
+“She’s, uh...a problem for later,” Rain replied awkwardly, sharing a glance with Vanna. He flicked his eyes toward Fechton significantly. “This is more pressing now.”
+
+“Very well,” Samson said, and Rain breathed an inward sigh of relief as the freelord turned to face the imperial. He looked at him speculatively. “Who else knows about this?”
+
+“Just Tallheart,” Rain said, and Fechton practically choked.
+
+Rain suppressed a grimace. Oops. “We’ll talk about informing the other council heads once we’re done here, Samson, but for now, it’s all hush-hush. Before we get going, can you please get someone to stand guard? The last thing we need is someone ignoring the bell and bursting in on us.”
+
+Samson nodded, reaching for the flap. “Wise. Just a moment.”
+
+The silence quickly became awkward after he slipped out. Only Ameliah looked relaxed. She shifted in her armchair, crossing one leg over the other and running her hands through her hair to straighten it. She and Rain were both helmetless for this meeting, Rain having stashed his under his chair. Vanna, on the other hand, normally unflappable, seemed on edge. She began shuffling through the stack of maps on the table beside her—the rough-cut, heavy thing looking like it would have been more at home in a workshop.
+
+We need a proper council table. This is embarrassing.
+
+A hesitant clearing of the throat surprised Rain, and he looked over at Fechton.
+
+“Captain Rain, may I ask a question?” the pale man asked.
+
+“Go ahead,” Rain replied. “We don’t bite. If it’s important, though, please wait for Samson to get back.”
+
+Fechton hesitated, then gestured to the trio of bulbs, their light ebbing and swelling slightly from time to time with the varying demands on the generator. “What are those?”
+
+Rain suppressed a smile. “Sufficiently advanced.”
+
+Ameliah rolled her eyes, but before anyone else could say anything, the ring of a small bell dangling beside the tent flap heralded Samson’s return. The flap opened, and Rain caught a glimpse of Gigs outside before Samson stepped through and closed it once more.
+
+Rain smiled. Gigs had been a tavern bouncer back before he’d joined Ascension. He’d be more than up to the task of deterring any curious Kettels or Avas.
+
+Samson finally took a seat, and then Rain cleared his throat. “Right then. Let’s get the introductions out of the way so we all know where we stand. I’m Rain, Captain of Ascension. You’ve met Samson. He’s head of the Defense Council.” He gestured, first to the left and then to the right. “This is Vanna, Commander, and second in command of our company, and this is Ameliah. She’s an Entrusted like the rest of us, which is our highest formal rank, but she doesn’t hold an office.”
+
+“Nor do I want to,” Ameliah said.
+
+Rain smiled at her, then looked at Fechton expectantly.
+
+Looking slightly confused, Fechton nevertheless took a deep breath and spoke, though he didn’t take his eyes away from Rain to look at the others. “I am Fechton Stone. I was first starguide on the Fist of Progress.”
+
+“Let’s break that down, shall we?” Rain said. “Fist of Progress was the ship that attacked this city?”
+
+“It was,” Fechton confirmed.
+
+“And first starguide means what? Navigator?”
+
+“Yes,” the imperial said, though after a slight pause.
+
+Rain raised an eyebrow. “I’m hearing a ‘not quite’ in that answer. What’s the difference?”
+
+Fechton inclined his head, then spoke in that odd, formal way of his. “A navigator follows old channels in shallow waters, charted by those long dead and marked by lighthouses for all but the blind to see. A starguide reads the shifting heavens, keeping to unmarked and uncharted ways, even through open seas where Leviathans slumber.”
+
+“Impossible,” Vanna muttered, low enough that Rain was sure he was the only one who heard her. Samson and Ameliah also looked skeptical. Based on what he’d learned about the ocean, he could see where they were coming from. Fortunately, there was an easy way to find out more.
+
+“Okay, how? What lets you do that?”
+
+“I...” Fechton hesitated. “Are you asking about my skills?”
+
+“Skills?” Ameliah interrupted, glancing to Rain, then to her bow, before returning her attention to the imperial. “You’re awakened?”
+
+“I am,” Fechton confirmed.
+
+Rain didn’t tense. It was hard to feel unsafe with Ameliah’s comforting presence pressing against his soul. He did frown, though. Obviously he’d misunderstood something from his first conversation with the imperial, and Ameliah and Vanna clearly had as well in the retelling. He glanced to each of them, then back to Fechton. “I take it ‘Called’ doesn’t mean ‘awakened,’ then.”
+
+Now it was Fechton’s turn to look confused, but he explained without further prompting. “Called are Undama who have proven themselves worthy, warranting elevation. All Called are awakened, but not all awakened are Called.” He looked between them. “I had thought your rank, ‘Entrusted,’ to mean this, given that you hold rank, but... If you are not Called, are you then Dimae? Um...nobles? That is your word, is it not? Families carrying the will of the Citizens?”
+
+“Wow, okay,” Rain said, scratching an ear. “Lots to unpack there. No, we’re not nobles, and we don’t work for the DKE, either. We’re independent.” He paused, then continued. “Well, Samson’s sort-of a noble, but ‘noble’ doesn’t mean... It’s complicated. It sounds like whatever you’re talking about is too.” He sighed.
+
+Is Stone a family name, or is it something else?
+
+Rain lowered his hand back to his lap. “Are you a Dimae, then?”
+
+“I am not,” Fechton said. “I was...” He cleared his throat, then spoke with certainty. “I am Undama. Even in defeat. Even in surrender.”
+
+“That doesn’t really help,” Vanna said. “Undama means...commoner? The people that till the fields, dig the ditches, and haul away the shit?”
+
+“Undama are the heart of Adamant,” Fechton replied, reciting hotly and as if by rote, “its flesh and its blood and its bone.”
+
+“So that’s a yes?” Samson asked.
+
+“Yes,” Fechton said in a clipped tone. Clearly, it wasn’t that simple.
+
+“Sorry,” Vanna said. “I’m not trying to insult you, just to understand. In fact, I used to dig ditches and haul shit myself. Some days, I miss the simplicity. Not the smell, though.”
+
+Rain waved his hands. “We’re getting off track.”
+
+Ameliah smirked at him. “That’s funny, coming from you.”
+
+“Here’s what we’ll do,” Rain said, ignoring her. “Fechton, I’d like you to write me a report on the sociopolitical structure of the Empire. Define all those terms you just used and explain whatever classes, castes, or whatever other divisions of society you have. List out the military ranks and structures, explain how cities are governed, how common folk make a living,” He waved his hands. “So on and so forth. I want twenty pages at least by tomorrow. Don’t worry, we’ve got plenty of paper.”
+
+“Seriously?” Vanna asked, giving Rain a sharp look. “You’re giving the prisoner homework?”
+
+Rain rolled his eyes. “Firstly, he’s not a prisoner; he’s an I-don’t-know-the-word. A person who’s been granted...political refuge...which I also don’t know the word for.”
+
+“Asylee and Asylum,” Samson said.
+
+“Asylee, thank you,” Rain continued, still looking at Vanna. “And secondly, do you have any idea how hard it is to find information about the Empire that doesn’t read like it’s out of Wix? I’ve found more hard details on Ter’Karmark, and that’s practically on the other side of the planet!” He sliced a hand toward Fechton. “I’d much rather hear what he has to say than go by any of the books we’ve dug up, and we don’t have the time for him to tell us now, so yes, I assigned him homework.”
+
+“But twenty pages?” Vanna crinkled her nose. “And you wonder why people don’t like your classes.”
+
+“Oh, hush,” Rain said while Ameliah tried to suppress her laughter. “That was half a joke just to set expectations. I’m not going to dock him points if he doesn’t hit the page count.” He turned back to Fechton, then took a breath and smiled. “Sorry. Anyway, seriously, please be as detailed as you can. Assume we’re five-year-olds and don’t know a thing about the world and how it works. Actually, we’ve got some reports just like that on Fel Sadanis and Vestvall. We can give you them when you’re done so you can learn about us, too. A little mutual understanding will go a long way.” He turned to Vanna. “When we’re done here, can you please ask Romer to dig those out? I think they’re with the rest of the stuff from his literacy classes. Make sure there’s nothing classified in them first, then pick a few with decent handwriting.”
+
+Fechton looked a bit overwhelmed, looking from face to face. “You are all...very strange.”
+
+“We’re well aware,” Rain said, meeting his gaze while maintaining utter seriousness. “Okay. Let’s start again. You’re awakened. What’s your level and class?”
+
+Fechton nodded, plainly relieved to be back on anticipated ground. “I am level four, and I have no class.”
+
+Samson motioned for him to go on. “And your skills?”
+
+“Hard Light, Barrier Shaping, Far Sight, Intrinsic Clarity, and Twin Construct,” Fechton rattled off.
+
+“Okay...WHAT?!” Rain demanded, almost having launched himself out of his chair before Fechton had even finished speaking. “Those are all in different trees! You don’t even have the prerequisites for most of them!”
+
+“A lie?” Vanna asked.
+
+“I speak truth,” Fechton said, having regained his composure after shrinking back slightly at Rain’s outburst. “Those are my skills.”
+
+Rain settled back down into his seat, admonishing himself for his reaction. “What, then?” he asked. “Did you use respec accolades or something?”
+
+“Only one,” Fechton said.
+
+“A reusable respec accolade?” Rain’s eyebrows would have climbed off his forehead if they’d had anywhere to go. If he hadn’t just reminded himself to keep calm, he’d probably have lurched up from his chair again, too.
+
+Fechton nodded in confirmation. “I was honored to use the Accolade of the Sunken Lake at the academy of Danton’s Spar. The respecialization plate is but one of many accolades in the academy’s possession, entrusted to them by Potentate Fecht for use in building the glory of the Empire.”
+
+“Okay, that needs to go in the report,” Rain said excitedly. “Everything about how you were trained and everything about that academy you mentioned. Like, did they come up with that build for you, or did you pick it yourself? You make lenses out of light, don’t you? For seeing far away?” He waved his hands and stopped himself. “No, no, don’t answer that. We’d be here all night. Put it in the report, please.”
+
+Fechton nodded. “I will do so.”
+
+“Yes,” Samson said after clearing his throat. He caught Rain’s eye. “Let us stick to matters of immediate practicality.” He gestured to the imperial. “If I may?”
+
+Rain nodded. Probably for the best. He still had his Clarity dialed down, but he was also still, well, himself.
+
+Samson nodded back, then addressed Fechton. “Do you have any accolades on you?”
+
+“No,” Fechton replied.
+
+“Enchanted equipment, whether bound or unbound?”
+
+“No.”
+
+“Are there more imperials in the city?”
+
+“None that I know of.”
+
+Samson nodded, seeming to accept this for the moment, though he glanced at Rain in a way that indicated he wanted to discuss it later. He returned his attention to Fechton as he continued. “What was the mission of the Fist of Progress?”
+
+“We were to destroy all resistance, then hold the city,” Fechton replied without hesitation.
+
+“You weren’t ordered to continue to Barstone?”
+
+Fechton shook his head.
+
+“Why not?” Samson asked.
+
+“I do not know,” Fechton said. “I did not even know our mission was war until we were already underway. It is not the place of Undama to question. Only Cento Pina, Sereni Berix, and Sereni Kentus would have known what came next, if even they. We had a mindcaster aboard. Once we had secured the city, Cento Pina would have received additional orders from Dominus Illus himself.”
+
+“Do mindcasters work at sea?” Vanna asked.
+
+It was Ameliah who replied. “No, they don’t, unless the Empire’s mindcasters are different somehow.”
+
+“Our mindcaster would not work at sea,” Fechton confirmed.
+
+“And the range?” Samson asked. “There’s nothing but wasteland south of us. The link shouldn’t be able to reach that far.”
+
+Fechton only shrugged.
+
+Samson frowned, clearly as unhappy as Rain was with that answer, but he moved on. “Are there more ships coming?”
+
+Fechton shook his head. “I suspect not, but in truth, I do not know. Until I saw the Fist in the secret harbor at Tinan, I did not even know that such a vessel was possible. Made of metal, of adamant itself, and yet floating. Indestructible, or so I believed. Even navigating through the safest waters I could find for us, we were still set upon almost every night as we sailed past the badlands. For a normal ship, it would have been the end. Thrice we encountered Whales, drawn by the blood and the vigor of our defense before we learned to trust silently in the hull. Even when the Whales came, not once was our vessel breached. Not until we arrived here. Not until I was shown the lie.”
+
+Rain scratched at his beard. “So the ship was a prototype?”
+
+“Just because he didn’t see more, it doesn’t mean there aren’t more,” Ameliah said. “What he’s describing sounds exactly like a Goldship, by the way. Except, you know, not gold.”
+
+“Goldship?” Fechton asked.
+
+“What Ameliah said is correct,” Samson said, ignoring the imperial’s question. “We must assume that there are more ships coming. From the fact that this one was defeated, we can conclude that it would have had no hope against a DKE city on its own. The Dominus, this...Illus, would likely have known as much.”
+
+Rain bit his tongue, reaching for his canteen to cover any expression that might have made it to his face. He obviously wasn’t going to mention Velika with Fechton here. It was bad enough that she’d come up in the conversation once already. Samson’s conclusion was reasonable, given what he knew, but the adamant forces had been stronger than he was giving them credit for. If Velika hadn’t been in Three Cliffs, the reception Ascension would have received upon reaching the city would have been quite different indeed.
+
+Samson tapped a finger on the arm of his chair, continuing. “They likely intended to use Three Cliffs as a staging point once the lead ship had proven the journey to be possible. Therefore, we must also assume either that their mindcaster has the required range, or that they have already established relays within the badlands.”
+
+“Or at Vestvall,” Vanna interjected.
+
+“Or at Vestvall,” Samson agreed, nodding to her. “Perhaps the reason this attack only came now, and not when they assailed Fel Sadanis, was simply that they did not have the required network for communication in place. Or perhaps the ship was not ready in time.”
+
+Rain settled his canteen into his lap, toying with the cap. Whatever the reason, we need to be not here. Yesterday.
+
+“Tell me,” Samson said, addressing Fechton once more, “what were the full capabilities of this ship of yours? From the description, it was most impressive, and yet it fell to a town of silvers. I have found the reports hard to believe.”
+
+“I would find them the same had I not experienced the fall,” Fechton said, a note of something that might have been pride entering his voice. “The Adamant Army would not be defeated by mere silvers. And so, I tell you that it was no silver attack that destroyed the Fist.”
+
+“Go on,” Samson said. “Tell me what you saw.”
+
+Fechton nodded, and as he spoke, his gaze seemed to drift off into the distance. “The world was slashed open, from the clouds to the ocean floor. A roar like a thousand ringing bells shook the sky for what seemed an eternity. And then, time seemed to...skip...and I was falling. I do not remember being thrown into the sky, only what I saw. The ship that I knew to be unbreakable, cloven in two, sinking beneath the waves. A whole battalion, lost in an instant.”
+
+Rain, who’d been taking another sip from his canteen while Fechton had been speaking, almost choked on the last sentence. “Did you say a battalion?”
+
+Fechton nodded.
+
+“As in, five hundred and twelve soldiers?” Rain pressed.
+
+Fechton nodded again. “Half our complement. Sereni Berix’s battalion was already embattled ashore.”
+
+Rain settled back into his chair, re-screwing the cap of his canteen. “That’s a huge ship.”
+
+And there might be more coming. Damn, I wish I knew how to avoid them. Should have bought that book.
+
+“Don’t look so surprised, Rain,” Ameliah said, misinterpreting his momentary lapse for shock. “You heard what the townsfolk said. It’s not impossible. Goldships are about that size, at least.”
+
+“This is the second time you have used that term,” Fechton said, crossing his arms. “What does it mean, Goldship?”
+
+“They’re built by the Bank,” Ameliah answered, looking at him. When she only got a blank look in return, she tilted her head. “You don’t know the Bank?”
+
+“Which bank?” Fechton asked.
+
+“Oh, boy,” Rain said, running a hand through his hair. “What part of the Empire did you say you were from again?” He got to his feet, gesturing to Vanna. “Hand me the map, will you?”
+
+“Which?” Vanna asked, reaching for the stack of papers on the desk beside her.
+
+“The less-shit one,” Rain said. “The one that shows the whole continent.”
+
+“Here,” Vanna said, handing him a folded square of fine parchment. “Be careful with it. Romer hasn’t made a copy yet.”
+
+“Thanks,” Rain said, accepting the map and moving across the tent. He spread the map out on the card table beside Fechton’s stool, then drew up a chair and sat before tapping his finger on Three Cliffs.
+
+“Here’s us,” Rain said, taking his hand away. “Where is Tinan harbor in relation, and where is Danton’s Spar? This map’s annoyingly blank when it comes to the Empire, so anything else you can tell us would be a great help.”
+
+“I...” Fechton hesitated, then pointed to the southernmost cove of the badlands. “Tinan would be around here, within the ranked zone, but this is all...wrong. Osar is not that far north, and those lakes aren’t where they should be. The whole coastline around Pridestone isn’t even close to correct. You have been navigating by this?”
+
+Rain sighed. “I said it was a less-shit map, not a not-shit map. Is the distance between here and Tinan correct, at least?”
+
+“Do you have a compass or a stridestick?”
+
+Rain shook his head. “Not handy.” Tracing a finger east along the grid from the point Fechton had indicated, he counted intersections until he was below Three Cliffs, then began counting north. “About two-hundred-fifty leagues east, and about...two-hundred-fifty north. Isosceles. That’s convenient. Two-fifty times root two is three-fifty-four.” He wiggled a hand. “Ish.”
+
+“We did not take a straight line,” Fechton said, giving Rain a slightly strange look. He traced a finger across the map, passing well to the east of the unmarked island floating off the coast. “By my star reckoning, our course carried us approximately four-hundred and fifty leagues.”
+
+Rain deflated slightly, wishing that the math he’d done had been more relevant. “And how long did that take you?”
+
+“Eleven days,” Fechton said, a hint of pride in his voice.
+
+“Is that...fast?” Vanna asked, looking at Samson, who shrugged. “That sounds fast.”
+
+Rain looked at Ameliah. “How long did it take you to get from Ter’Karmark to Rellagia by Goldship?”
+
+Ameliah thought for a moment. “I remember it taking two weeks to get to Scarport in the Ember Kingdom, traveling only during the day. For comparison, it then took a month to get to Lendis on a normal merchant’s ship, sailing day and night through safer waters.”
+
+“Hmm.” Rain scratched at his beard. “Vanna, can I have the medium-shit map, please? The big one with the shipping lanes?”
+
+Vanna got to her feet. Rather than shuffling through the papers again, she simply lifted the table beside her by one end and dragged it across the floor, leaving furrows in the dirt. With her levels and the Strength rings she was wearing, the heavy piece of furniture gave her very little trouble. “We really need a big meeting table in here,” she said as she kicked it into position in front of Fechton.
+
+“Tell me about it,” Rain said.
+
+Vanna rifled through the maps until she found the one Rain had requested, flattening it out on top. “There you go.”
+
+“Thanks,” Rain said, taking the first map and laying it over the larger one. The world map was infuriating, given the lack of a scale, and he had serious doubts about the quality of the projection—assuming it even was a projection to begin with. It was the best they had at this scale, unfortunately. He sighed, trying not to let it bother him as he took a guess. “Okay, so it’s maybe five hundred leagues between Ter’Karmark and Rellagia.” He looked up, seeing that Ameliah and Samson had come over to see as well.
+
+Ameliah touched two fingers to the world map, tracing them between continents. “Five hundred leagues in two weeks is thirty-one leagues per day.” Rain felt his heart melting, but he managed to keep his composure as she traced her fingers along the badlands next. “The Empire’s ship did four-hundred-fifty leagues in eleven days. It’s faster. Um. Forty-one leagues per day.”
+
+“Oh, gods, he’s infected her,” Vanna said. “Next, she’ll be converting to kilometers and telling us the answer to six decimal points.”
+
+Rain grinned. “You show me a map worth a damn, and either of us will work it out to as many significant figures as you like. Ameliah’s right to round. With the errors we’re working with, thirty-one and forty-one might as well be the same number.” He gave Ameliah another smile, then looked back down at the map. “Maybe the Empire jacked a Goldship and spray-painted it. Or maybe whatever kind of journey core they used has the same limits as the Bank’s. Convergent design or something.”
+
+“There’s one way to find out,” Ameliah said. “It’s still down there, after all.”
+
+Rain looked up again and grinned at her. “Shall we? Reason should have them ready by now.”
+
+“Have what ready?” Samson asked.
+
+“Waterbreathing potions,” Vanna replied. “That’s what you get for skipping a council meeting.”
+
+“I was busy stopping the former slaves from murdering their former masters before their trials,” Samson countered. “On that note, Rain, I gather that you are not going to be standing in judgment this afternoon?”
+
+“Shit,” Rain muttered, glancing at his HUD. He’d had a lot on his docket today, but it had all flown out of his mind with first Fechton’s arrival, then Velika’s.
+
+I could push that stuff off...but I really shouldn’t. Shit. I need to deal with Thrast. AND I need to talk to Bakal about borrowing Green at some point. Gods damn it.
+
+He chewed his lip, then sighed and got to his feet. “The fun will have to wait until tomorrow. I need to take care of some stuff, and I don’t want anyone going down there alone. Especially not this late in the day. It is the ocean.” He looked at Ameliah over the table. “You’d be fine, of course, but I kinda wanted to go exploring...together. I’ve never walked on the ocean floor before.”
+
+Ameliah smiled. “Don’t worry. I won’t go without you.”
+
+Vanna cleared her throat loudly, then jerked her head toward Fechton, who looked distinctly uncomfortable with everyone standing around him like this and ignoring him. “What are we doing about him?”
+
+Rain turned to look down at Fechton, addressing the imperial as he thought out loud. “Uh, hmm. We could say you’re an aspirant. No, wait, that’s probably a bad idea. Kettel would probably try to pack bond with you or something. Hmm.” He scratched at his beard. “Okay, we’ll say you’re a navigator—not a starguide, sorry—and that we hired you to guide us once we’ve got a ship. You’ve got some enemies in the city, and we’re letting you stay in our camp under guard to protect our investment. Hells, it’s basically true.”
+
+“That should work well enough,” Samson said.
+
+Rain smiled, offering Fechton a hand. “Come on. We’ll set you up with a meal and a private tent so you can do your homework. Sorry, but we can’t let you just walk free around our camp. Oh, and don’t talk to anyone but us. Like, at all, at least for now.” He let go of Fechton’s hand after helping him up. “I don’t want your accent giving you away. I doubt there’s a real chance of anyone recognizing it, but it pays to be safe. We’re also going to need a different name for you. Stone might be fine, but it’s a bit odd as a first name, and I’d rather avoid questions.” He placed his hands on his hips, tilting his head. “Do you have a nickname?”
+
+Fechton looked at Rain blankly, seeming a bit overwhelmed. “I do not.”
+
+“Lucky you!” Rain said with exaggerated delight, taking his hands from his hips and spreading them in a Mlemlike gesture. “Unlike me, you actually get to pick!”

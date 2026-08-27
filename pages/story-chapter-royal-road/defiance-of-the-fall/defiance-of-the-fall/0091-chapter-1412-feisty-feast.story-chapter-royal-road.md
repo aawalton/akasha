@@ -1,0 +1,141 @@
+---
+id: b90a0557-1a64-54f6-8078-343bfed7ba9d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,412 - Feisty Feast"
+slug: 0091-chapter-1412-feisty-feast
+partOf: defiance-of-the-fall
+position: 91
+ownLength: 3005
+unit: words
+publishedAt: 2026-03-22
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3181252/chapter-1412-feisty-feast"
+royalRoadId: "3181252"
+---
+
+The ground rumbled as it was devoured to open a path. Just a few months ago, causing such a ruckus was bound to have made Ibtep’s antennae go off from approaching danger. Today, it was drowned out by the great shifts of the land. As for the Beast Emperors forcing them to constantly look over their shoulders? Most had emigrated for greener pastures already. The threat of random energy eruptions had also grown more manageable, though Ibtep understood there was no reason to celebrate that.
+
+Sausage eventually reached fertile loam, where she stopped in place. Ibtep spent fifteen minutes sitting atop their twelve-meter mount, carefully sensing the situation above. Stillness. Satisfied, Ibtep ordered Sausage to stay below before digging a small passage to the surface. Antennae twitching, Ibtep looked left and right before climbing up.
+
+A knight separating from their mount was no different than taking away their legs, though Ibtep was by no means exploring the surface naked. The amazing variety of unusual grubs and beautiful critters making the Left Imperial Expanse their home had provided Ibtep with a comprehensive upgrade, and Ibtep had put most of their efforts into survivability.
+
+Their harness, made from the hides of a particularly elusive grub, almost perfectly hid its wearer’s presence. There was also the smelling pouch made from a mix of beetle dung and dried herbs found inside a memory lantern that made most avian predators stay clear. Nevertheless, one could never be too careful in this mysterious world. Over a year of exploration had confirmed as much.
+
+What was the point of collecting all these fine bloodlines if they got themselves killed a galaxy away from home? Who’d deliver their research to the hives?
+
+Ibtep scoured the ochre sky for threats. The birds that made the neighboring mountains their haunt were thankfully nowhere to be found. A longing chitter in their mind made Ibtep look further ahead, where the Farsee Court waited with its five shimmering halos. It wasn’t much closer today than when they first arrived in the Left Imperial Expanse. They’d both liked it that way—at least in the beginning.
+
+Sausage was eager to push for further self-improvement. Ibtep wasn’t convinced. The first lesson imparted by the land was that the further they traveled, the greater the dangers grew. Sausage had urged caution by stubbornly burrowing into the ground. Ibtep wasn’t above listening to a grub when it provided sage advice.
+
+So, they stayed in the wilds, avoiding dangerous predators and other Sealbearers alike as they enriched themselves. Ibtep glanced at the filled-out seal on their left hand. The total number of lanterns they’d visited must have exceeded one hundred by now. Most were duds until they learned to smell out the ones holding good opportunities, and their accumulation really took off when they learned to read the underground flows.
+
+Unfortunately, those flows were all starting to say the same thing: head deeper. The ambient energy, while still plentiful compared to anything back home, was inexorably being pulled in by the nine pillars at the continent’s edges. The success had left its mark on Sausage, and she was growing increasingly inclined to listen to the call of the land.
+
+She wasn’t at fault, nor could she understand why Ibtep held her back. Sausage hadn’t suffered the bitter taste of defeat, of seeing her companions come home from war in pieces. She hadn’t walked through hives that echoed with silence after their warriors had given up their lives. Sausage couldn’t understand the terror of not being in control of one’s fate, where distant events could bring destruction to everything she knew for no fault of her own.
+
+Ibtep sighed and put the thoughts aside. “Saucy, eyes on the prize. Do you sense anything?”
+
+A chitter confirmed the ground remained undisturbed. Ibtep took out Precious from their robe to confirm. The grub was only three inches across, with six furry antennae almost as long as its whole body. They swayed in the wind for ten seconds before the grub coiled up and fell asleep again. Ibtep nodded in satisfaction.
+
+Precious—a mutated grub specially attuned to the auras coming off the pillars of the Outer Courts—had saved them from running into Sealbearers more than once. Ibtep was somewhat confident in its abilities, but what was the point? There was plenty of land to go around, so there was no need to fight fellow travelers.
+
+Unfortunately, the lack of tracks and Sealbearers only confirmed that yet another hunting ground had run dry. The lanterns that had once covered the wintry basin had already fused with the land, and the sky no longer bothered replenishing what was lost. It was the same everywhere. From inspecting a dozen lanterns per hour, Ibtep was now lucky if they spotted a dozen a day. Worse, half of them were so far up in the sky that Ibtep didn’t dare to approach. The second lesson they learned was that the sky was more dangerous than the earth. Since then, they’d exclusively traveled underground.
+
+It had taken three full days to reach this area, so Ibtep couldn’t bear to leave immediately. They scoured the basin until they finally discovered something interesting. Silver grass emitting a refreshing scent of spring covered a whole slope. Together, they raised the ambient energy by a minor stage, confirming their strong spiritual nature.
+
+Something very powerful had once nested in an ancient tree atop the hill, but it had left during the migration. The majestic tree had seen its spirituality extracted, reducing it to a hollow husk. Luckily for Ibtep, the Peak Beast King hadn’t bothered to bring away the grass. Perhaps it had put its faith in the strength of the hundreds of worms tilling the soil beneath the ground.
+
+Bad plan.
+
+The worms charged at Sausage despite her obvious advantage in grade and bloodline, thinking they could overcome quality with quantity. They may have been right, but why would Sausage fight alone? The bluster of the worms disappeared when over a hundred specially bred warrior grubs poured out of a satchel fastened to Sausage’s saddle. By then, it was too late.
+
+“Batch Seven?” Ibtep muttered as they harvested the slope, only keeping half an eye on the battle below.
+
+The thunderous spells unleashed by the worms claimed a few dozen lives. It was only weakness leaving the hive, and far from enough to turn the tides. To keep the losses at a minimum, Ibtep still activated [Feisty Feast] to temporarily empower the budding army. The battle was over before Ibtep finished harvesting the grass.
+
+Another day of searching yielded nothing of note. The lanterns they came across were of the lowest grade. Such memories could still hold surprising rewards, but it wasn’t worth the gamble. Not all of them could be exited at will, and Ibtep had been trapped for a week more than once.
+
+“Let’s go back; I’m sure the children are hungry,” Ibtep sighed as they patted Sausage’s bulbous neck.
+
+The return journey took nearly twice as long as they stopped to pick up food on the way. While the energy was thinning out, there was still an excessive number of beasts in some places. The lords of the mountains had secluded themselves or left for greener pastures, giving the young and ambitious the run of the land. The beast tides brought by the upheavals did little to thin their numbers, and the abundance of corpses made Ibtep’s life much easier.
+
+One day, Sausage pierced through a thick membrane of hardened mucous and dropped into one of their support tunnels. It eagerly wriggled toward the incessant chitters in the distance, the six folded wings on her back trembling with anticipation. Her feelings were mirrored by Ibtep. It had been nearly two months since they visited Incubator Four, which had been opened right above a Fire-attuned vein.
+
+Such a gamble had a decent chance of triggering a disaster as the energy flows shifted, and they’d lost more than one batch that way. But the batches that survived would be born anew. The bloodlines of the Left Imperial Expanse were extraordinary, and they only needed the right push to evolve.
+
+The heat pouring out of the breeding hole was almost unbearable, forcing Ibtep to activate a defensive treasure. Sausage, with her layers of insulation, was unaffected. Her huge black eyes stared at the angry-red grubs puking magma at each other as they competed for the best cultivation spot. A few noticed they were being spied on, but the familiar scents branded into their subconsciousness marked the interlopers as friends.
+
+“They’re very strong,” Ibtep agreed with Sausage’s chatter. Their next words made her slam her tail into the wall in frustration.
+
+“But it’s not enough,” Ibtep said. “We still have time. We already have eighteen successful colonies. Let’s go for twenty-five before we head to the next stage. By then, you should have digested that old skull we found in the Memory City. It might be enough to directly push you to the next stage.”
+
+Sausage reluctantly agreed and was fully pacified by the time Ibtep had hand-fed her a few wolf carcasses she enjoyed. The two continued to watch the children a while longer, occasionally throwing out the carcass of a Beast King. Every time they did, the cave erupted in flames and excited clattering.
+
+This was the life. The others were welcome to court death by rushing headlong toward those scary pillars. That kind of destiny had nothing to do with a simple breeder. Any half-decent farmer understood that slow and steady was the way to go.
+
+-------------
+
+“How’s that, Sonny?”
+
+The world continued spinning a few seconds before settling on the upside-down view of a buck-toothed, four-eyed satyr with thinning purple hair. The warm, spiritual emanations radiating from the elder’s eyes woke Galau up, and he spat out the purple liquid filling his lungs.
+
+“Much better,” Galau hacked. “Could you let me down, Grandma Pimsi?”
+
+“You sure? There’s still plenty of the good stuff to go around. You don’t want to leave any residual effects, dontcha, Sonny?”
+
+Galau glanced down at the well directly beneath him and the putrid liquid his head had been submerged in for the past eleven days.
+
+“I’m sure. I feel perfectly fine,” Galau staunchly said.
+
+Even if it had been a lie, Galau couldn’t compel himself to suffer such a disgusting experience again. Being burdened by the experience only left him all the more in awe of Zachary Atwood. Emily had told him about a few of the things Emperor Atwood had endured to reach his current heights, and Galau still hadn’t forgotten the things he’d seen in the Tower of Eternity.
+
+If Emperor Atwood were here today, he’d probably drink the whole well dry without a word of complaint. People only saw the glory, not the revolting acts behind his strength.
+
+“If you say so,” the satyr said with a shrug and shook the winch in her hand.
+
+Galau swung away from the well and landed on the purple grass to the side. He untied the knots holding his feet together, shaking loose the stiffness as he got to his feet.
+
+“And how long will my face remain purple?” Galau hesitantly asked.
+
+“Oh, that depends on the strength of your soul and the effort you spend on nurturing it. The talented kiddos can absorb the residual energy within a few weeks,” Grandma Pimsi said with a toothy grin. “Why, afraid the girls won’t give you the time of day while looking like that?”
+
+“More worried my woman back home won’t let me through the door,” Galau wryly said, eliciting a cackling laugh.
+
+“Some discoloration is a small price to pay for the runoff,” she grinned. “And she might even find it exotic.”
+
+“Maybe you’re right. She’s a bit odd, that one,” Galau smiled. “You’re sure you don’t want any payment?”
+
+“What would an old goat like me need more money for? The Empire has already ensured a comfortable retirement. I have what I need, and you helped me fix up these old arrays,” the satyr said with a wave of her head. “Forget about that. Do you want something to eat?”
+
+Galau warily looked at the purple fields whose crops had all been tainted by the runoff from the now-defunct Dasar Potioneering Factory. Its owners had promised a complete upswing to the region by harnessing its unique spirituality to produce soul-nurturing pills—something that would have endless demand among the many local Mentalist Clans.
+
+Instead of revamping the economy, they triggered an ecological disaster by dumping potion dregs and Earthly Taint directly into the water-attuned Dragon Vein that nourished the region. By the time the local administrators realized the problem, the vein had already mutated. The owners were long gone, either executed or in hiding.
+
+No action was taken to correct the mistake. It proved much cheaper for the Empire to compensate the locals than to deal with the mutated vein. The huge amount of soul-nurturing dregs also came with a side effect that some researchers found worthy of study. The groundwater had taken on soul-healing effects in certain areas. If such mutations could be controlled, one could create an endless supply of healing elixir.
+
+Grandma Pimsi and a few neighbors seized the opportunity, turning calamity into advantage. After some trial and error, she’d dug eight soul-mending wells. There were plenty of cultivators willing to suffer the side effects since the price was cheap and the intended benefits were good. One day, the scholars who’d taken over the factory might even fix the less flattering attributes.
+
+Unfortunately, the spiritual benefits didn’t extend to the local crops. They only inherited the pungent taste and horrible smell from the runoff. Galau decisively rejected the offer for dinner. He’d eaten some nasty things during his time in the Muscle Brigade, but he wasn’t that far gone yet. Instead, Galau spent the next day finishing up the arrays around the last wells before waving the chatty satyr goodbye.
+
+Galau didn’t immediately exit the memory domain, instead settling in the small town on the other side. As it happened, the room he booked in the town’s only inn provided a perfect view of the Anima Court’s towering pillar. Grandma Pimsi had asked what he was going to do next, and he honestly didn’t know the answer.
+
+He didn’t regret abandoning the Daedalian Court despite possessing a Threadwinder Seal. Galau would still be a warslave captured by those crazy neo-imperials if not for his insights into the arrays of the Limitless Empire. He still shuddered at the memory of the night he made his escape. Maybe Emperor Atwood’s luck had started to rub off on him. How else could he explain that timely meteor shower that kept his captors busy while erasing his tracks?
+
+When wavering between the Farsee Court to the east and the Anima Court to the west, Galau ultimately set course for the latter. For an aspiring Array Master, he knew his soul was on the weaker side. He’d worked hard on plugging that gap since escaping the Centurion Lighthouse, but nurturing one’s soul was a slow and often thankless job. Galau figured that if any place could provide some shortcuts, it was the Anima Court.
+
+To think that he couldn’t even pass the preliminaries, barring him from the right to challenge a Soultaker of Ultom and gaining access to the Anima Court. The test even left Galau’s soul damaged. Thank the stars he’d passed through the area on his way over and that he had heard of Grandma Pimsi’s farm. Otherwise, his problem would have been greater.
+
+Nevertheless, healing his soul only brought him back to square one. The Anima Court’s pillar peeking through his window felt so distant at the moment. Was he kidding himself? He fled the Daedalian Court before he stepped into the inner region. Now, he found himself out of his depth in a foreign land.
+
+It wasn’t just an issue of the greater challenges posed by the outermost memory domains of the trial. Galau had managed to take some shortcuts to maintain a pace that exceeded his strength, but he’d also taken a major detour. There were dozens of sealbearers who’d already reached the area. The worst of them had already entered that terrifying soul that housed the Anima Court, but there were still plenty of outsiders scouring the area for opportunities.
+
+Was he better off backtracking to a safer latitude?
+
+Galau slapped his cheeks and muttered to himself. “Get a grip. She’s off igniting halos while you’re sitting around moping.”
+
+Sure, he was weak and surrounded by danger, but so what? His start in that damn lighthouse was much worse. Could he really give up on this land of opportunities just because of some profiteering outsiders? He still had his strong points, and the Inner Region was growing more impressive by the day.
+
+There were ruins, relics, and enough memory lanterns to last a lifetime for those who’d made it this far. It was like the Left Imperial Expanse was in the process of shedding its false exterior, exposing its true appearance to the universe. There had to be some opportunities that suited his needs. Galau had already seen one trialtaker sneak into the Anima Court by borrowing the identity of a Soultaker of Ultom. Why couldn’t he do the same?
+
+There had to be more than one memory lantern with a complete seal, and none of his current identities were irreplaceable. If his time in the lighthouse taught him anything, it was maintaining a healthy balance of patience and boldness. If one month in the Inner Region wasn’t enough to qualify him to step through the Anima Court’s Soulgate, then he’d train for two. Hell, what were a few years to a Hegemon?
+
+This wasn’t the time to lose his composure. It was time to start plotting a course. For starters, those scientists holed up in the factory could surely use some assistance. Why else would a memory domain appear in this out-of-the-way corner?

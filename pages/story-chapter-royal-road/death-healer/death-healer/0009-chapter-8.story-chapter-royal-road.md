@@ -1,0 +1,259 @@
+---
+id: a9e6fc57-d8fe-5962-aa01-d84c8d539e41
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8"
+slug: 0009-chapter-8
+partOf: death-healer
+position: 9
+ownLength: 3173
+unit: words
+publishedAt: 2025-05-04
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2254582/chapter-8"
+royalRoadId: "2254582"
+---
+
+Hadrian had his head reclined over the chair, his eyes closed, and he kept sighing. Not even when one of the most powerful men in the continent entered the room he moved.
+
+Lucianus scanned the chaotic carpets stacked one atop another across the floor and the piles of books and scrolls that threatened to topple over at any moment. He wrinkled his nose at the obnoxious smell of incense that the man loved to burn.
+
+"I see that the news has reached you," Lucianus said.
+
+"Apollonius was the greatest of us," Hadrian muttered, slowly bringing his head straight again and opening his eyes to look at the man in front of him. "He yet had to teach me the Language of the Dead, Lucianus."
+
+"I know some of the rudiments of it," the Patriarch of the Gens Claudia shrugged. "I'm not a [Librarian], Hadrian, but—"
+
+Hadrian raised a hand and sighed again, letting his head now fall on his palms, elbows on the desk.
+
+"Apollonius told me he was close to something—that old fool didn't tell what, though. He said he didn't have enough to go on, and if it turned out to be a mirage in the desert, he didn't want, in his words, for me to chase an oasis that doesn't exist while dying of thirst."
+
+"The old man was always dramatic," Lucianus nodded gravely. "His work, however, will live on, Hadrian."
+
+Hadrian sighed again and raised his hands, gesticulating at Lucianus to drop
+
+"So, have you decided whether you're coming back to Alba? I'd love for you to meet my wife and my daughter."
+
+"They won't be on alert now that they executed Apollonius," Hadrian replied pensively. "I guess I could come. We would have to check the stashes of his that they haven't found yet. He should have a relic somewhere, Lucianus, that is supposedly about whatever he found out."
+
+"We'll see if we can find it," Lucianus shrugged.
+
+Hadrian regarded his friend for a moment and smacked his lips.
+
+"About your daughter," the [Librarian] started.
+
+"Yeah?"
+
+"What are you going to do, Lucianus?" Hadrian raised an eyebrow. "I'm the only one who knows what you did—what it cost. You got your wish. Why are you not raising her like you wanted to?"
+
+"Because she's a girl, Hadrian," Lucianus sighed. "I was tricked. I was promised an heir."
+
+The [Libriarian] raised an eyebrow at that but couldn't comment, bound by the rules of his Class. Lucianus hadn't asked for that knowledge, and therefore Hadrian couldn't give it away for free—only as a requested trade.
+
+"Your wife still doesn't know, right?"
+
+"What?"
+
+"How she had a baby, Lucianus," Hadrian sighed, rubbing his face. "With her condition, it shouldn't have been possible. What does she believe happened?"
+
+"A miracle, I suppose," Lucianus scratched his short beard and mindlessly commented. "I need a shave."
+
+"You got what you needed from the trade, Lucianus. You just didn't get what you wanted. You're wasting a powerful arrangement."
+
+"Women can't inherit, Hadrian."
+
+"You made a deal with a power beyond us."
+
+"It's illegal, Hadrian. Even if I wanted to, I couldn't."
+
+"Illegal," Hadrian laughed for the first time today and then swept his hand around the room. "Illegal, Lucianus?"
+
+The other man looked around them and shook his head.
+
+"You know what I mean."
+
+"I don't."
+
+"Ok," Lucianus said, frustrated. "Let's assume I wanted train Lily to be a Champion, Hadrian. Do you know what she'd have to overcome as a girl? Do you even know the kind of talent she'd be required to have? Look at her mother, Princess Adriana. You two share a name and an incredible talent. But you were born in the wrong circumstances. Now, what's of you? One is married to a man she couldn't choose—the other would be hung the moment an Inquisitor found about his Class."
+
+"Your wife had talent, Lucianus, but she didn't have anyone supporting her. Your daughter would have you and her. I haven't met the Princess, but she's not famous for being a waste of space."
+
+"Hadrian," Lucianus felt exhausted by the conversation, "you might be a [Librarian], but you clearly don't understand what I'm talking about. I asked a precise question. Do you know what threshold she would have to cross now, at five-year-old?"
+
+The [Librarian] frowned and looked stumped.
+
+"I'm assuming you think that unlocking her Affinity wouldn't be enough since you mentioned she might be doing that soon."
+
+"Exactly. Unlocking an Affinity is not a sign that she might become an earth-shattering talent in the future. No. She would have to do much more. She would have to somehow be able to bring a Skill to the Master Rank already. At five. That's the minimum threshold I would even consider training my daughter and putting her through whatever hell that thing might have imagined for her as my heir."
+
+"Leveling a Skill to Master Level before five?" Hadrian sighed. "You really don't want to train your daughter, Lucianus? Is that why you make up an impossible threshold? At her age, with how small her body is, do you know what kind of reaction that would even generate?"
+
+* * *
+
+A Few Minutes Prior
+
+One could use magic before actually having Skills.
+
+Theoretically, that meant you could awaken as many Primary Affinities as you wanted, manipulating their base forms to cast rudimentary spells.
+
+However, it was something that usually only children around the age of twelve could learn. At Lily’s age, no one even thought of trying to teach her how to manipulate her magic.
+
+Lily jumped on the bed, narrowly dodging Lavinia’s wooden sword.
+
+“Can you two stop?” Lumius, a silver-haired child, bristled with anger as he practiced his Mana sensing capabilities by interacting with a training cube his father, the Pope, had given him. One’s ability to perceive and shape Mana directly correlated with how deeply they could attune to just about any Affinity. Eager to prove he was no less than his older brother, Prince Cassius, Lumius was already training all day at five years old.
+
+The thing was—shaping Mana was hard.
+
+Really hard.
+
+The toy he had in his hand, the little sphere, had a strong mana signature that shifted from one face to the other. Lumius’s training consisted of trying to feel with his fingers which facet was currently powered by Mana and injecting his own Mana in it, trying to match its intensity. The lit-up face would change color from grey to golden. Up to this moment, he had made zero progress on it.
+
+But he wasn’t about to get discouraged.
+
+Unlike the two girls, he not only wanted to become a Champion, but he could do that.
+
+“Nerddd,” Lily taunted him before ignoring him and looking back at Lavinia, who was ready to charge her again. Her friend was even more feisty than usual, which clearly worried the onlooking Decima. However, Adriana had ordered Lily’s maid to only worry about and heal the girls if they got hurt.
+
+Lily squinted her eyes and clenched her teeth as she could barely parry the swings of the redhead.
+
+Lavinia was almost half a year older than her, which at their age meant there was a natural difference in their strength. Furthermore, her father, Aurelianus, was a melee fighter, unlike Lily’s father, who was a caster. That meant Lavinia was physically much stronger than Lily.
+
+However, in their usual play-fighting, Lavinia had never gone so hard on Lily.
+
+Sure, the redhead could be rough, but…
+
+Never like today.
+
+“You’re weak!” Lavinia squealed angrily and battered Lily’s sword.
+
+“I’m not weak!” Lily was getting angry herself at the crazed behavior of her friend.
+
+“You’re weak! You’re not a boy!” Lavinia shouted, trying to kick Lily’s legs from under her, only to surprisingly receive a kick to the chest from the blonde who had somehow anticipated her move.
+
+The redhead staggered back, confused.
+
+Lavinia regularly hounded her father about training and all the servants in their house, which meant she had gotten quite a bit of fighting practice outside these childish encounters, unlike Lily. But this wasn’t the first time that Lavinia found her friend capable of pulling off extremely well-timed moves—Lily couldn’t do it reliably, but she had done it many times before. It was as if, from time to time, the blonde girl's body got possessed by a mighty warrior capable of dealing with Lavinia with no trouble whatsoever.
+
+Today, however, the redhead started huffing and gritting her teeth, furious. Enraged at being battered away, Lavinia narrowed her eyes and viciously attacked her friend. Previously, she had expressed her anger through actions, but now she genuinely wished to harm Lily
+
+Swing after swing, Lavinia waited for Lily to trip on her short legs and, the moment she disarmed her friend, swung at her face. Lily instinctively closed her eyes and was hit on the cheekbone by her friend, splitting the skin open.
+
+Lily let out a scream of pain and collided with Lavinia, taking them both to the ground. Surprisingly, Lily found herself on top, but just as the redhead braced for retaliation, Lily, gripping Lavinia's arm, unexpectedly frowned.
+
+Lily was born with a power she never deemed strange and had never mentioned to her mother, knowing it would require extensive training if the secret ever got out. To avoid additional lessons, she never spoke of it. But, she still cherished the unique visions her eyes could perceive. That was why she had tried keeping it active all the time since she could remember.
+
+Initially, it caused her severe headaches, but it transformed the world into a dazzling spectacle, adding beautiful sparks to both people and objects. This is why she had persevered, and she was now able to keep it active nearly all the time. It wasn't just the Mana Perception her mother begged her to train—it felt much deeper than that.
+
+One of the effects she had discovered was that if she was close enough to someone, especially if she touched them, Lily could vaguely sense their emotions. The greater the emotion, the clearer she could perceive it.
+
+She expected to feel Lavinia's blazing anger, but she instead felt a giant pit of despair that made Lily suddenly recoil and get up. Having forgotten her wound, she just looked at her friend uncomprehendingly.
+
+Now, even from a distance, she could feel the negative emotions that brewed through the redhead.
+
+“Why are you sad?” Lily asked with the innocence of a five-year-old kid.
+
+“Mistress Lily, your cheek,” Decima said. “Let me heal it.”
+
+Lily ignored her maid, instead looking to her friend.
+
+Lavinia's lower lip suddenly started trembling.
+
+“I’m not sad! You’re just—weak!”
+
+With the anger evaporated, Lily turned her eyes toward her friend’s white arm and saw scratches from their tumble on the ground.
+
+Lily felt the sensation that at times came over her, something that told her how to do certain things, for example, kicking Lavinia’s chest. Without thinking much, she extended her hand and grabbed Lavinia’s arm.
+
+“What are you—”
+
+A sudden breeze blew in the room despite the closed windows, ruffling the curtains.
+
+Weird words and images that Lily didn’t recognize flashed in her mind, and she felt power surge through her tiny body. Suddenly, arcs of terrifying black lightning appeared around Lily, creating a shockwave in the room that pushed Lumius and Decima, the maid, away. Lily and Lavinia stood in the thick of it, in the eye of the storm.
+
+Small arcs of white light danced around Lily’s fingers and enveloped Lavinia’s arm as the little blonde only thought of one word.
+
+“Heal.”
+
+* * *
+
+“Milady, would you like to rest?” An old maid pleaded with the sickly woman who was perusing scrolls while in bed.
+
+“Do not disturb me,” the woman stuttered, breathing heavily, putting a hand to the side of her head, and flinching. “Please, be quiet.”
+
+“Milady Fausta,” the old servant looked at the pale woman and took a step forward, emboldened by all the years of service. “Please, milady, you need rest. Master Aurelianus will want to try for an heir tonight again.”
+
+“Iuliana,” Fausta Aemilia, Lavinia’s mother, turned her eyes to the woman and tried wetting her lips with her dry tongue. She found it hard to speak with her parched throat.
+
+Iuliana provided a cup of tea she had just brewed, watching over her mistress as she drank it. Now, raising a hand and waiting for her vocal cords to function again, Fausta took a few deep breaths, leaving the scroll on the side of the bed alongside a dozen others.
+
+“I need you to go to my archive, Iuliana,” Fausta said slowly, taking her time between breaths to finish her sentence. “I must acquire the rest of the Code of Fulvius—spare no expense. Take gold from the treasury, and Iuliana, I mean it. Spare no expense.”
+
+“Milady, what are you worrying about now? Are you getting upset about some old case?” Iuliana asked.
+
+Fausta Aemilia had been one of the most prominent lawyers in the entire Papacy of Lumina. Only after she had Lavinia did she slowly start falling apart, and now she barely ever left her bed. Before then, she had dominated a profession where she had rarely been taken seriously as a woman. But Iuliana suspected there was not one person in the entire country who knew as much as her mistress when it came to laws, no matter how ancient.
+
+As Iuliana had learned from her years of service, the Code of Fulvius that Fausta had requested was one of the founding documents, a gigantic tome of customs and traditions upon which the Papacy had been built. The Code of Fulvius established the division in the Six Great Families and the role of a Champion.
+
+Fulvius had been the first Pope, a man who had carved out the Papacy out of the Dead Lands and confined the Necromonarch, that terrible creature no one even knew if it existed anymore, to a relatively small country ruled by the Undead. And even though he had not completely eradicated the problem, he was a legendary figure in the Papacy. His word was still law by all standards.
+
+“Not an old case,” Fausta said, massaging her lower back and pushing the scrolls off the bed, turning to give her back to Iuliana. “Just get it to me,” she said weakly.
+
+Not knowing what else to do, Iuliana obeyed. She placed the heat-enchanted teapot by her mistress’s bed and left the room.
+
+Fausta slowly turned to look at the teapot before checking the room for a sign of anyone else and unfurling a little piece of parchment she had in her palm. The Code of Fulvius was a gigantic set of more minor codes; most were never actually used or applied in the normal course of the law. That was why the less common codes were even hard to come by. But Fausta had found something in one of the more unknown, esoteric codes that made it necessary for her to find the rest.
+
+She brought it by her face and reread it.
+
+Be it hereby decreed that the Trial of Light Champions shall be open only to those bearing rightful claim through blood or recognized adoption, in accordance with the ancient customs established by the Papacy’s founding Families.
+
+The claimant shall prove his Light Affinity exceptional beyond any reproach. Per inheritance laws, female descendants are forbidden from learning any of the Great Light Six Skills first.
+
+Nevertheless, under exceptional provision and in times of dire necessity, female aspirants are hereby permitted to present themselves for the Light Trial, upon meeting the conditions set forth in the succeeding articles.
+
+For further governance on qualifications and procedural necessities, see Book XXIII, Chapter V, Clauses 12 through 16.
+
+* * *
+
+The entire room was silent.
+
+Lily had been immediately dragged to the living room where Adriana and Aurelianus had been talking up until then. The luxurious villa of the Gens Claudia had a gigantic living room capable of accommodating more than fifty seated people. Still, the main marble table, which would have housed ten to fifteen depending on the occasion, was now Lily’s stage.
+
+The little girl was standing on a chair and looking at a piece of cream-colored parchment in front of her. Her mother, by the side, held a knife and looked at her daughter with harsh eyes.
+
+Mother and daughter shared most features, from the golden locks to their deep blue eyes, but they couldn’t have been more at odds at the moment.
+
+“Aurelianus,” Adriana cleared her thoat, “are you sure you don’t want to go home? Don’t you want to see Fausta?”
+
+“No, no!” Aurelianus said, holding Lavinia in his right arm, easily supporting the light weight of her daughter with his massive bicep. “Come on, Adriana, let’s see it! If your daughter really unlocked an Affinity, this would be unprecedented!”
+
+They had all felt the ripple in Mana and seen the aftermath of the damage in Lily’s room, with Lumius, Decima, and Lavinia acting as witnesses.
+
+Adriana sighed.
+
+If she unlocked a Darkness Affinity, this is going to be a problem, the woman thought. She’s not going to be persecuted, but it would make her learning a Light Affinity much harder now.
+
+Adriana snatched her daughter’s hand and, with a small dagger, drew a small cut over her palm. Lily hissed, but her mother simply squeezed and let the drops of blood fall onto the parchment.
+
+The Elemental Chart was an enchanted piece of parchment that could detect which Affinities someone had unlocked. It was used to find out if anyone was messing around with the Darkness Affinity or, worse, the combination of two Darkness Affinities, the Death Affinity.
+
+Lily looked resentfully at her mother even though Adriana, with barely a flicker of her powerful magic, had already healed her daughter.
+
+The two blondes pored over the parchment and the rest of the onlookers, too, hunched over the table.
+
+The parchment shifted for a moment after absorbing the blood like a sponge as if none of the carmine liquid had ever touched it before, returning to its original color.
+
+The Elemental Chart would now present a different color and symbol for each Affinity one had unlocked.
+
+But…
+
+Nothing appeared on it.
+
+Adriana waited a good minute before snatching the Elemental Chart from the table, looking at it closely, then shifting her gaze to Lily with a confused frown.
+
+“Nothing?” Aurelianus asked.
+
+"Nothing," Adriana replied, showing him the chart.
+
+Part of her was relieved that her daughter hadn’t unlocked a Darkness Affinity in a fit of rage, but then…
+
+Adriana looked at the scratches on Flaminia’s arm, Lily’s friend, who was now right beside her. The woman sent a flicker of healing magic around the redhead and then looked back at her own daughter.
+
+If that mess wasn’t from her unlocking an Affinity—which would have already been weird since the reactions are usually way more contained than that—then what was it?

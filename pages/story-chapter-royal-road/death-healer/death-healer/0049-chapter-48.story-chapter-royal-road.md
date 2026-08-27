@@ -1,0 +1,201 @@
+---
+id: b1596858-8d82-5381-9ad7-78cf560d41f7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 48"
+slug: 0049-chapter-48
+partOf: death-healer
+position: 49
+ownLength: 2100
+unit: words
+publishedAt: 2025-07-11
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2427771/chapter-48"
+royalRoadId: "2427771"
+---
+
+The bread was cold. The wine was warm. And the guards never blinked.
+
+Lily sat opposite her mother in the center of the estate’s narrow dining hall. Heavy curtains had been drawn shut, muting the afternoon light and drowning the room in a muted amber gloom. Silver cutlery rested untouched beside bronze-rimmed plates. One platter held steamed roots with too much salt; the other, thin strips of lamb, now congealed in its own fat.
+
+Two guards stood by the doors, another two near the windows. Gens Claudia regulars, dressed in the house’s crimson trim and grey mail.
+
+None of them moved. None of them spoke.
+
+Adriana tore a bite from the dry bread, chewing slowly. Her eyes did not lift from the table. Not once.
+
+Lily stabbed her fork into a carrot slice that barely resisted the metal.
+
+“Still no word?” she asked.
+
+Adriana shook her head once. “Your father has not written again.”
+
+The reply was clean, clinical. Not resigned. Just tired.
+
+Lily pushed her plate forward an inch. The scrape of ceramic against wood was the only sound in the room.
+
+“What happens if he doesn’t come back before the Tournament?” Lily asked.
+
+One of the guards shifted behind her. The others remained still.
+
+“He will return,” she said. “And I shall talk to him.”
+
+“But he didn’t say when,” Lily murmured.
+
+“No.”
+
+It was still difficult to fathom for Adriana what her daughter had accomplished.
+
+Even now, days after the ritual, the weight of what Lily had done hadn’t fully settled over her.
+
+The Great Skill of the Gens Claudia had never passed easily—not if the records she had found were to be believed. Actually, it had not been uncommon for those undergoing the ritual to die.
+
+Its trial had broken men older, stronger, more experienced—and even those who survived it emerged half-wrecked, drained for months.
+
+Yet Lily had endured it at twelve.
+
+She had not just survived the ordeal; she had reshaped it.
+
+Lily had explained the minutiae of her ritual to her mother, which had absolutely astonished her. Lily had been lucky to have Calpurnia teach her a Skill like Coniunctionis. Now, that had most likely guaranteed Lily the highest possible version of [Life Flow].
+
+Where others imposed Life upon Darkness, she had woven them together.
+
+There’s a chance she developed a Life Affinity already. Which means she could have access to an even stronger Class than a normal scion of a Great Family, Adriana thought.
+
+No one in living memory had done what she had done. Not Tertullianus. Not Lucianus. None had ever reshaped the ritual to suit their Affinity. The implications were staggering.
+
+I read the documents. Three wounds they survived. Lucianus is probably the one who got the strongest [Life Flow] in five generations. But what Lily described to me puts even him to shame. But…
+
+Adriana feared that even once Lucianus saw just how strong their daughter was, he would still refuse to support her.
+
+There’s one more thing to do.
+
+Adriana had found something during her studies. She had leveled her [Librarian] Class at a staggering place and, at some point, had dabbled in what she had found to be the most esoteric Skill of her Class.
+
+[Knowledge of the Nether].
+
+Knowledge of the Nether was a dangerous Skill to activate. It would allow a [Librarian] to try and access pieces of information that had been forgotten or lost.
+
+Unlike one what might have thought, she had simply used [Knowledge of the Empyrean] to barter knowledge with the great repository that all [Librarians] had access to in order to unlock the knowledge of where the Great Skill of the Gens Claudia resided. She had accumulated enough information from the archive that she had had to pay only a very small toll for that. She was essentially doing the same in order to find out about the legalities of Lily becoming a Champion. She had been waiting on a few more information, but she could have already purchased the information.
+
+However, while researching [Life Flow] and its records, [Knowledge of the Nether] had thrummed. Something in the dark palace that you could enter with the Skill had resonated with the information. It had been the first time since the woman had accepted the Class that the one of the two staple Skills of [Librarians] had activated.
+
+She had seen something…
+
+Unbridled power… Adriana thought.
+
+The kind of power that would forever quench Lucianus’s doubts.
+
+They ate in silence until the last candle guttered, and when at last Lily rose, Adriana rose with her.
+
+“Darling, go to sleep,” Adriana said with a smile. “It’s going to be fine.”
+
+Adriana walked to her office with a guard in tow and stopped when in front of the door.
+
+“I need to conduct business. Station someone outside. I want to be alone.”
+
+The man frowned and turned toward another guard that was in the corridor. The other shrugged and the one right beside Adrianas sighed.
+
+“Milady, two men will be outside the door and two outside the window. May I ask you to wait for the patrol to move there? I don’t want to impose, but—”
+
+“Sure,” Adriana nodded. “Take your time.”
+
+* * *
+
+Adriana closed the heavy oak door behind her, and once its bolt slid home she turned to face the carved desk. She looked at the letter from Lucianus on the polished surface, then untied the silver clasp of her robes and dropped them to the floor.
+
+With deliberate calm she traced a rune in the air, calling on the dusty tomes that lined the shelves behind her.
+
+[Knowledge of the Nether] activated.
+
+A low hum grew in the room as the air rippled, and where the desk had stood a void opened like a wound in reality.
+
+She stepped forward and the world went gray. The taste of rot filled her mouth before she realized there was no wind to carry it.
+
+She sank to one knee amid broken cobblestones littered with splintered beams and peeling plaster, the shell of a once-graceful villa rising in jagged silhouette against a sky sickly with ashen clouds.
+
+Every wall was cracked, every threshold choked with debris, and from the shattered windows she heard faint, rasping breaths.
+
+[Knowledge of the Nether] was a very straightforward Skill, more than one could imagine.
+
+While [Knowledge of the Empyrean] allowed Adriana to enter a massive library that apparently all [Librarians] shared, [Knowledge of the Nether] opened into different realities—realities that didn’t fully exist, liminal space that only [Librarians] could scour for lost knowledge.
+
+And she had already peeked at this one, which allowed her to know that there was something evil hiding in this space. She had gotten the impression that there was something powerful too, but that to find it, she might very well die.
+
+Adriana forced herself to rise, dusting splinters of rubble from her knees. Every breath tasted of decay—yet beneath the stink she felt something else, a pulse, as if this place still lived on nightmares. She pressed her back against a crumbling arch, trying to look inside a window.
+
+I can’t let this place overwhelm me. I need that power for Lily.
+
+She tightened her cloak around her shoulders and peered down the ruined corridor. Shapes moved in the gloom—thin, gaunt figures whose flesh hung in ragged strips over brittle bone. Their hollow eyes found her in the half–light, and each time they raised a hand in supplication she pressed herself flatter.
+
+She circled to the front and hid behind a crumbling column.
+
+Figures drifted among the ruin—skeletal shapes that slipped through the gardens and moaned with a wet, hollow sound. Their flesh hung in tatters, and every exposed bone gleamed slick as ivory.
+
+She slipped past a fallen statue of stone and a half-dissolved doorframe, edging closer until one ragged thing turned and its empty eye-socket trained on her. She froze, heart hammering, and the creature’s jaw fell open in a silent cry. Then she ducked behind a fractured column as it lurched forward, its claw-bare feet cracking the flagstones.
+
+Further in, a vast heap of bodies crowned a collapsed portico: limbs and torsos woven into a monstrous form that rose like a grotesque cyclops. At its center a single, rotten eye stared sightlessly, and the tangled arms on either side flailed when she passed too near.
+
+Adriana held her breath and darted through a gap in the flesh-pile, her robes brushing damp—she could feel the slick of blood and decay where the bodies pressed against the stones. The cyclopean mass shuddered, bones grinding, but it did not catch her.
+
+Dawn’s Mercy! Adriana’s heart hammered in her chest. She could have never imagined such monstrosities to be in the [Knowledge of the Nether]’s world.
+
+As far as she was concerned, those were real. She could get killed by then.
+
+That’s why she had to be so careful.
+
+Beyond that horror she found a sunken courtyard where writhing hills of pale worms crawled over shattered columns and seeped through broken doors.
+
+The worms were fat and gristle-white, each one glistening with acid that sizzled where it touched stone. One slithered toward her ankle and she sprang back, boots skidding as dozens more cascaded over the edge of a fallen wall, their segmented bodies wriggling toward her with slavering insistence.
+
+She spun and sprinted for the ruin’s far side, shoving past a collapsed gallery and skimming over shallow pools of rancid water.
+
+She burst through a half-standing doorway into what must once have been the villa’s great hall. Broken beams lay across shattered tiles, and motes of dust danced in the dim, gray light. As her eyes adjusted, a shape slid from the shadows—a hunched, nightmarish thing whose maw split open to a ring of jagged teeth. Before Adriana could draw mana, its clawed arm lashed out.
+
+The blade-sharp talons tore through her tunic and scorched into her stomach. Pain detonated like black powder, and she collapsed against a crumbling column as hot blood welled between her fingers.
+
+Panic ignited her will.
+
+Not here. Not now.
+
+She forced her vision back into focus and wove threads of Light Magic through the cut.
+
+For a heartbeat she swore she felt the rot of Undeath crawling in her veins—I’ve been touched by it; I should already be turning.
+
+But the cold dread receded.
+
+She was alive.
+
+Not turning, somehow.
+
+The creature snarled, clawed for her again, and she fled down a side corridor.
+
+Around a corner she came upon a drifting figure—pale, translucent, with hollow eyes that gleamed in her lantern’s flicker. The ghost advanced on silent feet, skeletal hands reaching through her robe to tear at her arms and shoulders.
+
+In the span of a blink of an eyen, seven times its spectral claws raked her flesh, each arc delivering a burning cold that numbed her limbs.
+
+She collapsed against the wall, blood welling at every scratch.
+
+For a moment she felt the old terror: I’m done. This is the end. But she had already learned to fight despair. Gathering her last reserves of [Mana Shaping], she tapped into her deepest Radiance Mana, eyes lighting with inner flame. With a sharp command—“[Holy Inferno]!”—she unleashed a torrent of blinding white fire.
+
+It washed over the ghost, peeling its form into motes of cinder. The apparition shrieked in a chorus of anguish, then vanished, leaving only a scorched silence.
+
+Every part of her body ached, but her wounds gleamed sealed and whole.
+
+No Undead taint, somehow.
+
+Still, she could not linger. She climbed a fractured staircase and emerged into a courtyard that twisted like a half-forgotten labyrinth. Crumbling walls leaned at impossible angles, and shattered archways framed glimpses of a blood-red sky.
+
+Adriana’s heart pounded as she navigated the maze of rubble, always driven by the faint pulse of white light ahead.
+
+At last she saw it: a pure white glow spilling from a narrow opening. The light cut through the gloom of Death like a blade, and Adriana felt her pulse steady as she climbed the moss-slick stones.
+
+When she reached the threshold, the worms recoiled and the undead shapes paused as though afraid.
+
+Inside, on a dais of flawless marble, stood a mirror framed not in ebony but in brilliant, living white.
+
+Its surface was perfectly smooth, as if light itself had been frozen into glass.
+
+Adriana’s breath caught, and she leaned forward until her forehead nearly touched the radiant frame.
+
+She closed her eyes, let her fingers hover an inch away, and then opened them again.
+
+“I know where this is,” she whispered.

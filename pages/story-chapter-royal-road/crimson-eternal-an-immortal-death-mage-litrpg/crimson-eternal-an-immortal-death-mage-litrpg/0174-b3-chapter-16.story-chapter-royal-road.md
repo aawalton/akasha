@@ -1,0 +1,161 @@
+---
+id: ea195038-44c0-59f0-9dc1-5f2e44e7c645
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 16"
+slug: 0174-b3-chapter-16
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 174
+ownLength: 1522
+unit: words
+ownProgress: 1522
+publishedAt: 2024-06-22
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1688689/b3-chapter-16"
+royalRoadId: "1688689"
+markedReadAt: "2026-06-29T19:11:38.165Z"
+---
+
+Aria
+
+I stand with my arms folded under my chest simply watching the System Messages go by as I see the Death Spirits in front of me kill one roach after another rat. And finally, after spending several months in this fanatic hole just waiting for someone to stop by to bring me out, I get the message I’ve been waiting for.
+
+User has leveled-up to level 33.
+
+User will now be given their fourth skill.
+
+Assessing user’s accomplishments and actions… assessment complete.
+
+User will now be given the following skill:
+
+Death’s Companion
+
+This skill allows the user to summon forth a single companion made entirely of death energy.
+
+This companion will then travel through the years with Death, never dying, never growing old, and never leaving their lady’s side.
+
+For even Death needs a permanent companion.
+
+Silence fills the room with the only sound being my Death Spirits still slitting the throats of the rats and other mana creatures fed to them. All while I find myself wordlessly staring at the notification in front of me, my mouth partially agape despite the bad smell permeating the room from the mana creatures.
+
+A… companion?
+
+I feel…
+
+After a brief pause, I turn around and step out of the room, ignoring the fanatics following me until I arrive at my room and close the door behind me. Because none of them ever dare to step foot inside. Even if they will enter my suite as a whole.
+
+The room is incredibly grand with water fountains on either side of the room, an entire waterfall at the back, a massive luxurious bed, and various different areas in the room for different activities. Such as video games, watching TV, boardgames, simply relaxing, and even training against dummies. Pretty much anything I’d need.
+
+But I ignore it all as I step up to the bed and sit down, still staring at the notification until it vanishes.
+
+A companion. One that will never die.
+
+To my surprise, I feel my cheeks growing wet. So I lift my hand to check, only to find tears flowing down my face.
+
+I smile at that. A wry smile that has me shaking my head.
+
+Then I go ahead and activate the skill, knowing how to do so in an instant.
+
+A bunch of crimson energy begins to appear around me, some of which is drained from my own body and some from rifts to the Plane of Death that open up around me. Then the crimson energy starts to swirl around, forming a miniature tempest until it slowly shrinks down in size more and more.
+
+Eventually it reaches the size of about a little ball only a little over half a foot in length. And then it just stops moving entirely before, after a few minutes of silence, beginning to morph into a shape.
+
+One I vaguely recognize as that of a cat.
+
+My eyes widen a little as the blob of death energy turns into a cat-shaped blob. Only for the blob to suddenly pop and a little kitten to appear where it was just at.
+
+The cat has black and white fur, with crimson eyes as it shakes its head with a short mewing sound. Then it looks up at me and meows before jumping up onto my lap, startling me a little in the process.
+
+And just like that, the cat calmly lies down on my legs and seems to go to sleep.
+
+Huh.
+
+Not really what I expected for a companion. But I’ll take it.
+
+Someone else who can’t die.
+
+My smile widens a bit at that thought.
+
+For some reason a name just comes to mind as I begin to pet the kitten on my lap. I somehow just know that the kitten is male without even checking, and the name just seems right. Especially considering its appearance.
+
+“I’ll call you Asher,” I tell the little kitten, still smiling at it as I pet the little fella.
+
+Although I do wonder if Asher can do anything other than just not die. Is he meant to just be a companion that doesn’t fight or anything, or does he also help in fighting?
+
+Also, will he always be this small, or will he grow larger over time?
+
+After thinking on that for a few seconds, I pick up the little kitten and begin to leave my room. And right after stepping outside, I go ahead and ask some of the fanatics, “Do the other Horsemen have any companions like this little guy?”
+
+They look surprised, but they quickly answer nonetheless, “They do indeed, Lady Death.”
+
+Interesting.
+
+“Give me details please,” I tell them while petting the kitten in my arms.
+
+Never really heard of them having cute little companions, but I guess these people would be more well informed than me.
+
+The maids outside of my room – men apparently being banned from getting anywhere near my bedroom – answer me rather quickly.
+
+As it turns out, each of the Horsemen do have a companion other than just their horse.
+
+Famine has a massive locust that can separate into a swarm of the bugs.
+
+War has a rather large hound spanning at least a few meters in height.
+
+And Pestilence has a snake. One I never actually saw while at his castle.
+
+After they give me a few more details, I head back into my room before looking down at the little kitten in my arms.
+
+All of their companions seem to be a lot bigger and scarier. So I’m guessing that might mean little Asher will grow up too.
+
+They also have combat capabilities and can use some magic too. Which makes sense considering that they’re made of energy.
+
+Well, anyways, I step back over to the bed before lying down, leaving the cat just sleeping on my stomach as I do so.
+
+Over the course of the past months I’ve spent here, not much has changed. The fanatics are still worshiping the ground I walk on. Literally in some of their cases. I’m still being fed kills like a child. And these people are still writing down everything I do like it’s some damned holy scripture.
+
+I blink my eyes open at that thought before frowning at the ceiling.
+
+Okay, I better not find some holy scripture book out there some day just filled with everything I said and did while I was here.
+
+That would be creepy as hell.
+
+Although I have at least benefited from this whole ordeal. Since they fed me several hundred thousand mana creatures, raising my level three entire times over the course of just several months. Far more than I would’ve been able to do on my own.
+
+And all without me even so much as lifting a finger.
+
+The only thing that’s really changed in this time is that – according to Shirogane – the pharaoh’s forces are gonna be arriving on the planet soon. Something about them having to prepare for the civil war this would cause.
+
+Totally not my fault. Not in any way at all my fault.
+
+I nod my head at that thought, reassured of my complete innocence in this affair.
+
+That aside though, I’m a little surprised by just how large the military of this cult is. Because they have quite a bit of pull in the Dynasty itself.
+
+Still nowhere near enough pull to successfully beat the pharaoh, of course, but still a lot of pull.
+
+I’m actually a little interested to see this war go down though. Simply because I’ve never seen a spaceship before. And there is definitely gonna be some space fights in this war.
+
+From what I’ve been told, the pharaoh is coming here personally on the Dynasty’s flagship after all. Which will be a sight to see.
+
+One thing I am still a little confused about though. Apparently someone has been spying on the fanatics this whole time. Someone who isn’t the Dynasty or the, uh, other Dynasty. Neither the Rex Dynasty or the Eternal Dynasty.
+
+But whoever it is, despite being able to spy on them without the fanatics managing to locate where they’re spying from, aren’t doing anything. They’re just watching and waiting.
+
+And I can’t help but wonder who that might be.
+
+It’s probably not one of the other Horsemen. Just not their style of doing things.
+
+War would be jumping straight in to attack without a word. Pestilence wouldn’t give a shit about what’s going on. And Famine is busy slaughtering the Grand Roan Empire.
+
+Or, rather, he’s busy finishing it up annexing them. Since that war is just about over, and he wants them alive to starve them just like the rest of his empire.
+
+Shirogane actually told me yesterday that he just arrived on the world himself to deal with them personally.
+
+So I can’t see that war lasting for much longer.
+
+I almost pity their emperor.
+
+Almost.
+
+I stretch my arms over my head for a moment before flopping them down onto the bed as I close my eyes.
+
+Well, might as well take a nap with my new friend.

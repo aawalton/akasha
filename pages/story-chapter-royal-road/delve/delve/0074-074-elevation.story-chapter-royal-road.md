@@ -1,0 +1,223 @@
+---
+id: 58fa7bc4-23b9-5227-8bf1-c8b9de53f68f
+page-type-slug: story-chapter-royal-road
+title: "074: Elevation"
+slug: 0074-074-elevation
+partOf: delve
+position: 74
+ownLength: 5207
+unit: words
+publishedAt: 2020-01-22
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/448586/074-elevation"
+royalRoadId: "448586"
+---
+
+The sentinel collapsed bonelessly to the cobblestones as Velika released him. She knelt down, casually making sure that the unfortunate man was still breathing. He groaned as she pressed her fingers against his neck to check for a pulse.
+
+“Oh, don’t complain. You attacked me, remember? And after you pretended to surrender. No honor, I tell you,” she said as she stood, dusting off her knees. She was in one of the central intersections of the city, surrounded by a ring of the Watch—mostly officers, but with a few battered-looking sentinels supporting them.
+
+She looked up at them, daring them to attack. “All done? Anyone else want to try a sneak attack like this idiot?” She gestured to the downed sentinel. None of them moved, watching her with fear and wariness. It looked like the fight was over for real this time. “No? Good. Someone come get this fool.”
+
+She rolled the downed sentinel over onto his back with a gentle shove of her toe. Weapons clinked as the ring of Watch members shifted uneasily, but nobody came forward to obey her command. Velika frowned. “You!” she shouted, pointing to one of the officers at random. The man jumped, his bronze Watch plate clinking against the metal rings of his armor. “Drop the sword and come pick up this guy. Get him to one of your healers or whatever.”
+
+The Watch officer looked at a nearby sentinel, a woman wearing full plate armor and wielding a sword and shield. Velika’s frown deepened. She growled as she took a threatening step toward the officer she’d singled out. “Don’t look at her, look at me. I’m in command here.”
+
+The unfortunate officer’s response was cut off as a figure abruptly fell from the sky, landing behind her. Velika groaned as Westbridge stepped forward to lay a hand on her shoulder.
+
+[Not yet you aren’t,] he said coolly, ignoring the cries of surprise and terror from the Watch. [Status?]
+
+“Just great,” Velika said with a sigh, shrugging out from under his hand and turning to face him. “Did you deal with the goldplate?”
+
+“Yes. He won’t be an issue any longer,” Westbridge said aloud. Velika smiled at the wave of despair that swept through the crowd following the Citizen’s matter-of-fact statement. Westbridge didn’t even look winded, though that might have just been an act. From what she’d seen, the Guild branch-leader had been quite strong.
+
+“It is time,” Westbridge said, still ignoring the Watch completely. “Are you ready?”
+
+Velika grinned. “I’ve been ready. Let’s do it.”
+
+[It will be painful,] Westbridge said, using telepathy again for some reason. [We will move to a private location. Come.] He offered her his hand.
+
+She slapped it away in irritation. She wasn’t a child to be led. “Get going, old man. I’ll follow you on my own.”
+
+Westbridge sighed and floated up into the air, but not before he repeated that stupid incantation of his. He addressed the gathered Watch as he rose. “Do not attempt to interfere. Like it or not, she will be your warden until the barrier falls.”
+
+Velika snorted, leaping into the sky to join him. “Warden? Really? Did you do that on purpose?”
+
+“What?” Westbridge said, pausing his ascent.
+
+Velika rolled her eyes. “The pun. You can’t tell me that was unintentional.”
+
+“I do not see it,” said Westbridge.
+
+“The Watch’s leader is called the Warden, and with the barrier trapping them here…”
+
+“Ah, yes. Amusing,” Westbridge said. His face didn’t look amused. The man had no sense of humor whatsoever. Velika followed him as he floated lazily over the city. She used Airwalk sparingly, bounding between invisible platforms rather than trying to walk through the air as Halgrave had done. This is how Airwalk is supposed to be used. Stupid big blue showboating bastard. She glanced back, seeing the Watch milling about helplessly where they’d left them.
+
+Westbridge led her to a large open-ceilinged building. It looked like it was a bathhouse, but the bath itself had frozen over. The pair set down on the pristine sheet of white snow that blanketed the surface of the ice. The entire room was pristine, in fact. The tile walls of the pool practically sparkled. Wow, someone really takes their cleaning seriously, she thought as she looked around the room. Still, my elevation is going to happen in a bathhouse? Really?
+
+Westbridge cleared his throat, the sensation feeding into her mind through the telepathic skill that he was using. The glass orbs containing the faces of the assembled Citizens popped into existence behind him.
+
+“Why do you do that?” Velika said, interrupting him before he could get started.
+
+“What?” Westbridge asked, fixing her with an annoyed look.
+
+She laughed. “The psychic throat-clearing thing. It’s weird.”
+
+“Quiet,” Westbridge said testily.
+
+Velika grinned. It was fun messing with the man. She shook her head as Westbridge launched into his speech. She’d let him have his moment. There was a place for pomp, after all. She just hoped he didn’t waffle on for too long. A bathhouse… I suppose it could be worse. At least it’s clean.
+
+[Attention residents of Fel Sadanis and Citizens of the DKE. This is Citizen Westbridge. The area is now under our control. All dissenters have been pacified. There will be no further interruptions. I now return to the matter of the governance of the city and the surrounding lands. It is my great honor to nominate Lady Velika Vekuavak for elevation to the office of Citizen Fel Sadanis, pending confirmation by the full assembly. Is there any Citizen who will second this nomination?]
+
+[Seconded,] said another voice, one she didn’t recognize. She looked at the floating orbs, trying to tell who had spoken. Westbridge must have forwarded the other Citizen’s words to her and the city as a whole. Message spells had a distance limit, one that the DKE implants bypassed. It wouldn’t have been possible for the other Citizen to send that directly. She looked back at Westbridge as he continued.
+
+[The nomination has been seconded. A yes vote will confirm Lady Velika Vekuavak as Citizen Fel Sadanis. A no vote will initiate a formal discourse of the meri—]
+
+[Enough, Westbridge. Nobody is going to vote no. Get on with it. I’m missing supper for this,] interrupted another voice. Velika smiled as she recognized it. It was her aunt, now Citizen Kallias. The woman was known for many things, but patience was not one of them.
+
+Westbridge’s annoyance was a sight to behold. The mental clearing of his throat that came next contained all of his frustration as he pressed on, ignoring the interruption. [A no vote will initiate a formal discourse of the merits of the candidate, following which a second vote will be held. I now call upon the Citizenry to cast their votes in this, the most serious of matters.] He glared at the orb containing the image of Velika’s aunt as he sent the last few words.
+
+One by one, the Citizens cast their votes. Velika held her breath as the green lights appeared. Soon, only one orb remained unilluminated. Peering at it, she saw that it belonged to Citizen Jarro. The green light that finally lit the orb flickered as if the magic was responding to the man’s reluctance. Velika smirked. Jarro had a bit of a reputation for going against the other Citizens. She’d half expected him to cause a problem, especially since Westbridge had just finished trashing a powerful member of the Guild. It was commonly known that Jarro had split loyalties due to his past.
+
+[The vote is unanimous,] Westbridge said. [Lady Velika Vekuavak is no more. The name of her family will be set aside. Her past loyalties, set aside. Her past life, set aside. She now takes up the Mantle of a Citizen of the Democratic Kingdoms of Ekrustia. She shall be known by the name of her domain to remind everyone that a Citizen’s duty is first and foremost to the people.]
+
+Within his orb, Citizen Jarro’s face bore a complicated expression. Velika didn’t even notice. Westbridge was sticking to the script, reciting the familiar litany for the elevation of a Citizen. She’d heard it when her Aunt had been elevated. It was all just noise. It didn’t mean anything.
+
+She would be responsible for the city of course, but her first duty was to herself and her own power. The stronger she was, the safer the peasants would be. She wasn’t going to coddle them and cater to their every need. Power came with the freedom to act however you pleased. Perhaps one day, she would grow powerful enough to rise beyond the realm of the Citizens. Then she’d be in charge of the whole kingdom, with nobody standing over her whatsoever. For now, being acknowledged as an equal to the most powerful individuals on the continent short of Fecht would do. It would do nicely.
+
+She returned her attention to Westbridge. He’d continued prattling on in the background, thankfully getting through the rest of the patriotic tripe about the strength of the union and so forth. It was finally time for the important part.
+
+[Come, Citizen Fel Sadanis,] Westbridge said, drifting backward through the air and spreading his arms wide. The orbs of the citizens remained fixed as he moved away. [Take up your Mantle.] A final orb appeared, sliding out of Westbridge’s chest rather than popping into existence in the air as the others had. It bore his own likeness, bringing the total number up to the full 37, one for each Citizen.
+
+Velika stepped forward. She bent all of her focus on Airwalk, keeping her steps stable and dignified. The orbs that had been surrounding Westbridge now surrounded her in a loose cloud. As she stepped within them, she felt the gaze of the assembled Citizens focused upon her.
+
+[Begin,] said Westbridge.
+
+Immediately, the faces vanished, replaced with crackling blue lightning that fuzzed past the borders of the glassy spheres. They snapped into a ring, surrounding her at waist level. Slowly, the ring began to spin, accelerating as lightning began arcing between the spheres and to her body. It was not unlike the effect of a teleportation platform.
+
+Nobody save the Citizens knew the origin of the artifacts that linked them, but they were commonly accepted to be another relic of the Majistraal. The exact benefits that they provided beyond the link itself were also a subject of much debate. She’d find out the truth of the matter soon enough.
+
+The ring began to tilt, then split into two rings, the second reversing in direction. They orbited around her for a few seconds, then suddenly froze, the orbs flying out to form a sparse sphere around her, the lightning vanishing, leaving only the glassy spheres, empty now.
+
+She held out her hand. One of the orbs shot toward her, coming to a rest just above her palm. The rest followed, forming a vertical column. The column fell, orb after orb merging with the first. As they did, a spark of brilliant white light began to build within the orb, shining like a miniature star.
+
+Westbridge drifted forward, the orb falling into her palm as he reached her. The magical construct felt smooth and tingly against her bare fingers. The white star within the orb was fading rapidly, revealing a glowing azure shard of crystal in its place. It was real, a perfect physical copy of the artifact that Westbridge carried within his own body, just as all the Citizens did.
+
+The orb popped like a soap bubble, the shard of crystal falling into her palm. The crystalline material it was made from looked as if it had been shaped by a master jeweler. It was formed into an angular spike, wide at one end and sharpened to a wicked point at the other. The bluish color was coming from tiny interlocking chains of runes swirling within it, glowing with magic.
+
+Westbridge cleared his throat, then spoke aloud. “It is attuned to you, as you were the focus of its creation. That will help the process, but it will still be painful due to your low level. Are you ready for the implantation?”
+
+“I’m beyond ready,” Velika said.
+
+Westbridge nodded. “You may insert it anywhere you wish. It will find its way to your heart on its own. Jarro stuck it in his toe, but the man is an idiot. Watching it burrow its way through him was...” Westbridge shook his head, his expression difficult to read. “He was screaming by the end, and he was of the correct level. Do you wish to do this on the ground?”
+
+Velika shook her head. “I can take it,” she said. I’m not afraid of a little pain.
+
+She guided the tip of the crystal through the narrow opening at the neck of her lamellar armor, touching it to her chest between her breasts. The needle-like point pierced her flesh easily. She felt the entire crystal pull forward as it started to burrow itself into her breastbone. She gasped in surprise. It didn’t feel like being stabbed. She had been stabbed plenty of times. This was worse. So much worse. The pain grew quickly, a terrible gnawing sensation that wasn’t confined to the spike digging its way into her chest. Ribbons of crimson agony spread through every fiber of her being as the implant began the process of bonding itself to her soul. Her focus failed and she began to fall as Airwalk collapsed. Then, she began to scream.
+
+Mlemlek Ko-Latti had a keen nose for opportunity. That nose had often gotten him into trouble, and it looked like that was going to be the case here. He was already regretting coming back in the direction of the DKE. While it was true that conflict and adversity were great sources of profit for those with a mind for business, it was also true that being trapped in an active war zone was far from ideal.
+
+“Come along, Ava, we’re leaving,” he said.
+
+For once, his troublesome daughter offered him no argument. She was as ready to be gone as he was. The pair had just arrived in Fel Sadanis and booked a room when the building across the street had exploded. The next few hours had been spent cowering, a decidedly profitable activity when it came to preserving one’s life. The trick to cowering was to do so while seeming not to. People trusted a man who remained calm and collected even when the entire sky was on fire. He’d even managed to sell a few small items from his pockets to his fellow cowerers. There was no great profit to be had of course, but it had helped him keep his mind off their situation.
+
+Father and daughter walked through the streets, avoiding the damaged sections as they made their way to the south gate. The eastern gate by which they had come in was blocked by debris. As for where they were going to go once they got out, east seemed safe. However, his nose was still telling him that there was profit to be had along the front to the west. He’d make up his mind later, once they got through the barrier. If the Skipping Stone didn’t work, then they could try sneaking through the teleportation platform once the fires in that part of the city had been extinguished. If that also didn’t work, they could try swimming out through the river assuming the barrier didn’t block the flow of the water. He had a few potions of waterbreathing tucked away in his pack. If even that doesn’t work, well… He glanced at the dialog hanging in the corner of his vision. The message had not changed. No egress it says, however…
+
+“Ava, what is the forty-third rule?”
+
+“There is always a way,” his daughter replied.
+
+He smiled. “Good girl. Watch out, there’s a hole there,” he said, pointing. Ava hopped over it rather than going around, showing admirable grace for a seven-year-old. Her initial terror had faded, returning her to her normal, playful self. Sadly, it seemed she was getting used to this kind of thing.
+
+He’d been taking it easy these last few years, now that she was old enough to bring along with him. He was teaching her how to be a wandering merchant, showing her how to turn a profit from even the most mundane of goods. Last time he was in Fel Sadanis, he’d been selling worker’s clothes of all things. He’d still managed to make a tidy profit, despite the mundane wares. Of course, it helped that he’d acquired the clothes for quite a bargain.
+
+Prior to their trip to Vestvall, he and his daughter had been traveling toward Fel Sadanis from Southguard when they’d been jumped by highwaymen, an event that happened to him with surprising frequency. One would think that the bandits should have started recognizing him by now. It never ended well for anyone who tried to rob Mlemlek Ko-Latti.
+
+The bandits had also captured a few other travelers, one of them a clothier. She had been quite grateful to him for freeing her. She’d headed back for Southguard, saying she was going to continue her business where the roads were a bit safer. She’d offered to sell him her recovered goods for a pittance, an offer he’d gladly accepted. It had been mutually beneficial. He’d sell them in Fel Sadanis, and she would have something to show for the trip when she returned to the safe haven of Southguard. The DKE city was hardly a bastion of law, but the roads were indeed a fair bit better than they were around here. At least the bandits weren’t the rapey kind…
+
+He sighed as he looked around the damaged city. The Watch simply didn’t have the numbers to patrol the roads properly. For an organization that purported itself to be all about the protection of the unawakened, they sure weren’t very good at it. All they would need to do would be to allow those same unawakened to join. If they trained them properly, then they’d actually have enough of a presence to keep the roads safe. Oh well. Bandits are an easy source of profit for the magnificent Mlem…
+
+He looked at the cart that was trailing along behind him obediently. It was packed to the brim with the goods he’d acquired in Vestvall, as well as the former accoutrements of not one but three separate groups of bandits. The prize piece was a well-maintained crossbow. Though non-magical, it was still worth quite a bit by his estimate. A low level adventurer would have been happy to buy it. It was a far cry from the types of things he had dealt in before he’d decided to train his daughter, but you couldn’t just start off selling long lost magical artifacts. You had to work your way up. Counterbanditry was a bit rougher of a subject than what he’d intended to teach Ava when they’d set out, however. He rubbed at his shoulder idly, fingering the hole in his jacket. That was a bad one. If that archer hadn’t come along, I might have been in real trouble. He looked down at his waist and frowned at his pudgy stomach. That’s it, no more riding on the cart. I should have never bought this damn thing. It’s making me soft. He ran a hand over his bald head. Why, ten years ago, those bandits wouldn’t have even—
+
+“Dad, look!” Ava said, pulling on his robe.
+
+Mlemlek looked up, following his daughter’s finger. They’d passed through the gate and there was a huge crowd of people milling about outside, contained within the barrier. It extended well past the walls of Fel Sadanis, the ancient Majistraal city likely having been larger by a decent margin. It was completely transparent, but he could see the boundary clearly. The river, which had been flowing through the center of the city, was now forced to split and travel along the outside. Freed from its banks, it had flooded the ground and created a shallow lake as it flowed around the city.
+
+The magical wall made a clean line between the soggy mess outside and the soggy mess inside. The air was still hot and swampy inside the barrier. All the snow had been melted by the fiery battle in the sky and turned the dirt road into mud. Mlemlek sighed. Damn, there goes plan C. If the river can’t get in, then that means it also can’t get out. That’s going to be problematic for anyone trapped in here. Not to mention the heat. How long until it cools down, I wonder?
+
+“Daddy, the river! Look!”
+
+He patted her on the head. “Yes, Ava, quite remarkable, quite remarkable indeed.”
+
+“How’s it doing it?”
+
+Mlemlek glanced down, seeing the childlike wonder on her face. He smiled as she looked up at him. “Well, you can see the message. You see why I keep saying reading is important? It’s the Majistraal, so that means the normal rules don’t apply.”
+
+“I don’t know the words,” Ava said, shaking her head. “What’s ‘egress’?”
+
+“It’s what we’re doing,” Mlem said, eying the crowd. He’d already told her what it meant, but it seemed she’d forgotten. He’d explain it again later. Getting through the barrier came first. There was a large group of the Watch on the other side, those that had been on patrol and returned to find themselves locked out of the city. A little ways away, he spotted the Guild branch-leader, Halgrave. He watched as the man swung mightily at the barrier with a hammer, sending up a massive explosion of water and earth as the weapon struck. There was no sign that it had any effect on the shield, not even a sound making it through the impenetrable wall. Force won’t work then. Magic it is. The Skipping Stone has never failed me before…
+
+He frowned and looked back at his daughter. “Come on, let’s get away from the crowd. If this works, they’ll be all over us. The Skipping Stone only has enough charge left for one exchange if we bring the cart with us. I doubt I’ll be able to find someone with the spare mana to charge it back up, even if we do get out. Need I remind you that it is not a toy?”
+
+“But it’s fun,” Ava protested as he led them east, away from the gathering Watch. He reached down to tousle her hair, laughing as she squirmed away.
+
+“I can’t stay mad at you. Still, it takes me a full day to charge it for a single use, and that’s just for me, not all of this.” He waved vaguely at the cart following them. “How many days’ worth of charge did you use in your little game?”
+
+She shook her head. “Not that much! I’m small, not like you. You’re huge!”
+
+He looked down at his stomach again. Ouch. Point, daughter. Damn cart.
+
+They walked for a few more minutes until they were safely away from prying eyes. Ava hopped up onto the cart now that they were out of the city, riding along happily as he trudged through the mud. The journey cart tended to attract a fair bit of attention, so he usually made a show of pulling it himself once they got into the city. Under the circumstances, he didn’t feel the need to bother. People had plenty of other things to gawk at. He signaled the cart to stop as they reached the barrier. He rested his hands against it, probing the frictionless surface. It didn’t feel like any barrier he had ever felt before. It felt real. Plan B is looking like it might be called for after all.
+
+“Okay, here goes,” he said to himself, reaching out to grab the side of the cart. He slipped his other hand into his pocket and pulled out a plain gray river rock. It was a smooth flat oval, perfect for skipping, hence the name. Skipping Stones were rare and expensive, but hardly one-of-a-kind. He’d acquired this one when he was a teenager and he had it to thank for much of his early success. It had gotten him out of a lot of trouble, and into quite a bit more.
+
+When thrown, Skipping Stones were able to phase straight through even the strongest of magical defenses by virtue of the powerful spatial enchantments anchored within them. When one struck the ground, the thrower would be teleported to wherever it had landed. They would have been a favorite of thieves, but the expense made it such that if you could afford one, you didn’t really need to be a thief any more—unless you wanted to be, of course. The stone in his hand was probably worth more than everything in the cart, other than the cart itself. Warding against them specifically was tricky, but not impossible. It was time to see if the Majistraal had been up to the task. The stones had only been invented in the last hundred years or so, so there was at least some hope.
+
+He concentrated, focusing on the cart and his daughter. He could afford no mistakes. They would come with him. He whipped his arm forward, flinging the stone at the barrier as hard as he could. He wanted to get it over as much of the lake of icy water on the other side as possible.
+
+The stone struck the barrier soundlessly and ricocheted, flying back over his shoulder. His eyes tracked it as it headed toward a large puddle where the meltwater had pooled.
+
+“Depths,” Mlemlek cursed, just before he, his daughter, and the cart all vanished with an abrupt popping sound.
+
+Citizen Westbridge stepped onto the teleportation platform as the fires continued to burn in the city around him. It was past time for him to get back to his own domain. He glanced at Citizen Fel Sadanis, standing nearby. She still looked the worse for wear, but she was recovering from the implantation quickly.
+
+“Are you sure you don’t want to stay awhile?” she asked in a mocking tone. “The scenery around here is just beautiful.” A burning wall collapsed with a crash, the flames having weakened the supports. Westbridge paid it no mind. The fire was nothing to him. The residents of the city were already hard at work extinguishing it. It wasn’t like he had any magic that would have been able to help without causing even more damage anyway. It was Velika’s problem now.
+
+“No,” he said, touching the activation glyph for Jarro. He’d unblocked it once more. Now that the barrier was up, only those on the list could get through by any method, including the teleportation platform. “I have been away from Westbridge for too long already. I still have three more jumps to get back. You will learn that ruling over a city is not as easy as it seems.”
+
+Velika scoffed. “I’ll be fine.”
+
+Westbridge shook his head. “I have already given you my advice. You would do well to follow it. You must make them respect your authority, as well as your power. Fear is a useful tool, but if you continue like this—”
+
+“Spare me the sermon, Westbridge. We’ve been over this already.”
+
+He sighed. Charge was building in the platform, draining the storage cells below. He idly considered stepping off of it to explain further, but decided against it. Recharging the platform would be problematic while the barrier was up. It didn’t help that the bloodworks was on fire. The mana in the blood that the Bank had stockpiled to fuel the platform was being released into the air as it burned, only to be drawn down into the barrier stone.
+
+Westbridge waited a few seconds, then looked at Velika with a serious expression. “Good luck, Citizen Fel Sadanis. If you need anything, contact the logistics subcommittee through the link like I showed you. Don’t mess it up.”
+
+He vanished in a flash of light just as he finished the last sentence, giving her no time to respond. He smiled as he was hurled through the non-space of the teleportation network. Perfect timing, just as planned.
+
+He appeared in Jarro and stepped off the platform. He could have immediately triggered the glyph that would take him on to Ellis, but, as expected, Citizen Jarro was waiting for him.
+
+“Did you tell her?” Jarro asked.
+
+Westbridge’s mouth quirked. “No.”
+
+Jarro laughed. “She’s gonna be ripshit when she finds out.”
+
+“Yes,” Westbridge agreed. “I am looking forward to it.”
+
+“You still think it’s a good idea? Trapping her in there all alone?”
+
+Westbridge looked at the gray-haired Citizen placidly, considering his response. Citizen Jarro was an archer, a real mage-killer as he recalled. The man had been in the Guild, though, so that meant he had mostly hunted monsters, not men. There was no sign of that past now. He wasn’t even carrying a weapon, the burdens of leadership leaving his face lined and weary. As worn as the old archer looked, Westbridge had to admit that the man did know how to run a city. The common folk loved him, even if he was unpopular with the other Citizens.
+
+“We cannot trust her yet,” Westbridge said finally. “If she survives the month, I will return and allow her access through the barrier. Until then, Fel Sadanis will remain completely sealed to everyone.”
+
+Jarro grinned. “What if you die before that? Who’ll lower the barrier? What are you, like a hundred?”
+
+Westbridge snorted. “You are one to talk,” he said mildly. Jarro had already been old when he’d joined the DKE, and that had been years ago. “The barrier will remain, even should I die. Theoretically, someone could access the barrier stone to lower it, but there is no one within that bubble with the necessary skill to operate the artifact. It takes a true mage. Either way, it is a pointless discussion. I am not going to die. The objective has been accomplished. Whether Velika succeeds or fails in her duty, it matters not. The city will remain sealed.”
+
+Jarro snorted. “You mages, always acting so superior. I bet you’ve got one in mind already for her replacement.”
+
+Westbridge kept his expression neutral. “Perhaps. Now, if you will excuse me, I need to contact the defense subcommittee.” He looked toward the large building sitting on a hill overlooking the city of Jarro, then back at the man bearing its name. He made a snap decision. “I will use your office. It appears to have been adequately warded. If you will excuse me.”
+
+He turned away from Jarro and floated away, his Flight spell still active even after passing through the teleportation platform. By rights, he should have just continued on to Ellis, but there was a famous restaurant in Jarro that he’d always been meaning to try. It wouldn’t hurt to make his report now and then have dinner. He’d be home again before the dawn. His city could wait a few more hours.

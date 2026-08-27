@@ -1,0 +1,83 @@
+---
+id: 9c8753ed-2dd4-532d-9941-f247b243d6aa
+page-type-slug: story-chapter-royal-road
+title: "B2 | Epilogue"
+slug: 0155-b2-epilogue
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 155
+ownLength: 1125
+unit: words
+ownProgress: 1125
+publishedAt: 2024-05-08
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1628442/b2-epilogue"
+royalRoadId: "1628442"
+markedReadAt: "2026-06-29T19:10:59.505Z"
+---
+
+A Grand Throne Room on the Capital Planet of the Dread Empire
+
+A man sits on a throne with his legs crossed and a wide grin splitting his face, his cheek resting on his fist leaning against the throne’s armrest. And after reading the message from the Council of Darkness’s information gathering center, he lets out a maniacal laugh that sends a shiver running down the spines of every last noble filling the throne room. Each of whom are visibly starved with sunken cheeks and pale skin as they kneel down on the sides of the Grand Throne Room.
+
+The man on the throne has pitch black hair with faint gray highlights, pitch black orbs with a faint glowing white light for eyes, and skin so pale that it looks like it is clinging to him.
+
+“So they’ve both met her, have they?!” he practically shouts, the grin ever present on his face while still laughing. “Then it’s only right that I do so as well!”
+
+The man, known by the masses as Famine, the Black Horseman of the Apocalypse and Harbinger of Famine, Ignatius Darkheart, waves his hand in front of him. And as he does so, the hovering screen next to him changes to show a world on it. One with only twenty-five percent of the planet being covered by water, with an older level of technology and a strange attire for their soldiers. One of those worlds where both men and women wear skirts.
+
+“The Grand Roan Empire, is it?” Ignatius asks, making some of the nobles in the hall nod their heads weakly in response. “How about I give a little gift to our new Horseman friend! Just to show her who’s who in this universe.”
+
+Every last noble in the hall noticeably shivers in terror at those words, clearly understanding just what he means. Because he’s known for being the only one amongst the Horsemen who truly does have a superiority complex over non Horsemen of the Apocalypse.
+
+So they all know that he’s doing this to show just how powerful and superior the Horsemen are compared to the others in the universe.
+
+“Let’s wipe out that pitiful little Empire from the face of this universe,” Ignatius declares, his grin growing wider. “And we’ll see just how my new compatriot feels seeing this!”
+
+“As you wish, Your Imperial Dread Majesty,” all of the nobles declare at once, feeding Famine’s ego even further.
+
+A new Horseman, making her mark on the universe already…
+
+Famine leans back on his throne and looks out the window at the smoke-filled skies of the planet.
+
+Ah, goes to show just how superior we are.
+
+Somewhere in the Universe
+
+A man stands in a vast spaceship coated in a black and crimson energy, shielding it from the sight of anyone outside of the ship or any other ship in the fleet. The man has crimson eyes and stark white hair as he crosses his arms, looking out beyond the front window of the ship’s bridge. Meanwhile he has a crimson crystal in the shape of a diamond implanted in the chest plate of his black and crimson high-tech armor.
+
+All of the people in the bridge other than him have glowing eyes of varying different shades and don dark colored cloaks, but the only ones with the same stark white hair as him are the two people standing at his sides. One a woman standing at about five foot five inches tall with long and beautiful stark hair, a similar set of high tech armor to the man’s, and a bright smile on her face. A smile that is almost never seen. And a man who looks like a slightly younger version of the man next to him, with the same hair and armor.
+
+And both of them also have the same crystal implanted in their armor as the man.
+
+Meanwhile all three of them stand without moving an inch as they stare at a screen floating in front of them. One showing a woman with a similar albeit younger appearance to them all standing on an island, with the same crimson crystal that the three have implanted in her current outfit. An outfit that looks too large for her current size.
+
+No audio is being played through the screen, but they all look happy seeing her, surprising the other people in the bridge.
+
+“Your Majesty, we have gotten word that Famine has made his move,” one of the men sitting behind a monitor lower in the multi-deck bridge states, snapping the three people out of their trance.
+
+The man at the center turns to look at the man who spoke before focusing on the window of the bridge and declaring, “His target?”
+
+“The Grand Roan Empire, Your Majesty,” a different man answers from down below in the bridge.
+
+“Hmm,” the man at the center hums while rubbing his chin. “Don’t interfere beyond making sure he doesn’t go too far. Help evacuate the citizens to keep them out of Famine’s reign after he defeats the Empire.”
+
+“Yes, Your Majesty,” all of the members of the Crimson Empire declare in unison.
+
+“You’re letting some of them go?” the younger man next to him asks with a frown on his face. “After what they’ve been trying to do?”
+
+“Dear, the citizens have no say in what their emperor does,” the woman says, her voice resonating smoothly through the room.
+
+That gives the younger man pause for a moment before he sighs and nods his head without another word.
+
+Then the man in the center returns his focus to the screen in front of them as he says, “Let the Horseman do as he pleases to the nobility of the Grand Roan Empire, but the citizens are innocent.”
+
+“Understood,” all of the members of the Empire declare once more.
+
+“When will we be able to meet her?” the younger man asks, a scowl on his face. “Can’t I at least send a clone to her?”
+
+The Emperor of the Crimson Empire glances at his son before looking at his wife and then the screen as he says, “Not yet. The crystal isn’t finished absorbing death energy. We won’t receive the memories if we don’t wait. And if we don’t have the memories, we would be wasting the one chance we’d have to see her before the curse blocks us for another century.”
+
+Both his wife and son grit their teeth at that, but neither say anything in response.
+
+Instead all three of them focus on the screen, watching the Horseman of the Apocalypse, Death, as she goes around gathering supplies in Arian, looking like she’s about to leave the planet to go to another one.
+
+Soon. We’ll meet soon.

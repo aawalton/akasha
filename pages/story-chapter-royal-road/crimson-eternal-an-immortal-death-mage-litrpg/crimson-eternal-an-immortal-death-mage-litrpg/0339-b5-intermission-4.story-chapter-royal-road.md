@@ -1,0 +1,79 @@
+---
+id: 537e58a5-8b97-58b6-9e4b-963551775e61
+page-type-slug: story-chapter-royal-road
+title: "B5 | Intermission 4"
+slug: 0339-b5-intermission-4
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 339
+ownLength: 999
+unit: words
+publishedAt: 2026-03-19
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/3170699/b5-intermission-4"
+royalRoadId: "3170699"
+---
+
+On the Battlefield within Death’s Court
+
+Jack Robin lets out a roar as his berserk skill activates and he swings his large hammer around, slamming it into several dread knights of the Dread Empire. Sending them flying to crash into the walls of the large throne room around them. Then he rushes straight up to them and slams his hammer into one of them after another. Crushing them even after they’ve already been knocked down.
+
+And after finishing them off, he lets out another roar and goes after a different group of dread knights. Killing them just like the first.
+
+Then another group.
+
+And another group.
+
+Finally, another group.
+
+All the way until he’s interrupted by his lucidity returning at the end of his berserk skill’s active time. At which point a dread knight officer crashes through the ceiling of the throne room to land on the ground. With the ceiling repairing itself immediately as wisps of death energy move to join the energy heading in the direction of wherever Death is currently at within the castle from the dread knights who died during the officer’s landing.
+
+“An officer of the Dread Empire?” Jack shouts as his dark cloak representing the Crimson Empire billows out behind him. “Don’t expect me to show you any pity.”
+
+The officer doesn’t say a word in response. They just raise their sword while looking at Jack through their helmet. With the helmet not revealing anything other than their glowing eyes to Jack.
+
+“Not going to speak?” Jack asks with a frown. “Fine then.”
+
+Jack grips his hammer tighter as the officer raises his sword and slashes it straight at him. Sending a wave of dark energy that Jack counters by swinging his hammer, sending it back at the officer.
+
+But the officer just dodges the return strike before swinging his blade at the berserker’s side. Only for Jack to move quickly to respond, kicking the side of the blade to divert the blow while swinging his hammer down to crush the officer.
+
+Making the officer break into particles of darkness in the process.
+
+Jack narrows his eyes while looking around him, just for the officer to reappear behind him while swinging his blade. Slashing straight into his back and making the berserker grunt before he immediately swings around, slamming his hammer into the officer again.
+
+Sending the officer flying into a wall.
+
+Then the two repeatedly clash over and over again, killing soldiers around them on accident in the midst of their battle. All while repeatedly destroying the throne room around them. With the throne room repairing itself every time.
+
+But no matter how many times Jack lands a hit, the officer continues to reform nearby. Or he just bluntly takes the hit.
+
+And Jack can’t tell how much actual damage he’s doing since any injuries the officer may have are all hidden by his heavy armor.
+
+Jack grits his teeth before preparing to activate his berserk skill again. With the officer looking like he’s about to send several missiles of darkness at him in return.
+
+Only for both of them to pause when they hear soft humming filling the throne room as one of the doors at the front of the throne room opens and a woman with glowing crimson eyes and white hair walks into the throne room. Then the Horseman of Death, who looks just as beautiful as she does on TV, casually walks through the room, past all the battling soldiers who avoid her like the plague, and eventually in the middle of Jack and the officer’s battle. Leaving both of them just holding back without sending their attacks.
+
+Jack and the officer just quietly watch as she walks in the middle of their battle while yawning with her hands in her jacket pockets. Currently wearing a T-shirt, pants, and a jacket.
+
+Both of them and everyone else in the throne room watches her in silence. All the way until she eventually climbs up the dais and sits down on the throne room while still humming some tune. A tune of which Jack remembers is actually a song she sang before in a music video.
+
+It’s one of his favorite songs, so there’s no way he would forget it.
+
+He and the officer watch as his Princess quietly hums to herself while pulling out an e-book reader. Then she just settles in reading on her throne.
+
+A quiet silence fills the throne for several seconds with the only sound being the Princess’s humming. Only for her to eventually move in the throne to put her feet up over the side of the throne as she reads.
+
+And after a few minutes, everyone finally begins battling again in earnest. Albeit while avoiding hitting the Princess like the plague.
+
+Anyone who hits her during the war immediately becomes public enemy number one after all. Becoming a target for all sides of the war to attack regardless of who.
+
+If anyone from the Crimson Empire hits her, every other knight of the Crimson Empire immediately arrests or executes them for committing treason by attacking their imperial family. And if anyone from the Dread Empire hits her, they are captured and imprisoned for life for the crime of attacking a Horseman.
+
+But that’s only assuming they’re surrounded by their own nation.
+
+If the Dread Empire catches a Crimson Empire knight who hit her, they lock them up for life, never letting them die. And the same goes for the Dread Empire soldiers who hit her and are captured by the Crimson Empire.
+
+So Jake rushes to attack the officer and knock him straight out of the throne room. Then he follows and finally activates his berserker skill again the moment they leave the throne room.
+
+Building a safe distance between them and the Princess in the process. Allowing them to battle without having to worry about accidentally attacking the Princess in the process.
+
+And just like that, their battle continues without further pause.

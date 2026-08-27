@@ -1,0 +1,89 @@
+---
+id: 0a06fd27-8f87-53ad-bc8d-101b7713930e
+page-type-slug: story-chapter-royal-road
+title: "B5 | Intermission 2"
+slug: 0314-b5-intermission-2
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 314
+ownLength: 1021
+unit: words
+ownProgress: 1021
+publishedAt: 2025-11-02
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2726860/b5-intermission-2"
+royalRoadId: "2726860"
+markedReadAt: "2026-06-29T19:16:29.759Z"
+---
+
+Within a dark Hunter’s Spot on an Unknown Planet
+
+The Demon King furrows his brows as he looks blankly ahead of him, using his many fallen demons on this new world that Aria has now initialized into the System to watch the events of that very world. And what he sees is chaos all around the world as the denizens of the world go around trying to level up as much as they can. With a particular emphasis on the villains more so than the heroes.
+
+But what attracts his attention more than any of that is the group of so-called heroes – Class S ones according to the universe’s categorization of abilities – who are discussing Aria’s arrival on one of their cities.
+
+Discussing how to capture her for intel on the other worlds of the universe.
+
+That’s not going to go well.
+
+The Demon King doesn’t so much as consider their attempt even having a chance at succeeding. Not with Aria being a hundred and fifty levels above them.
+
+Their attacks can’t do anything to her, but she can easily crush them with her bare hands.
+
+She could even just summon a massive swarm of Death Spirits to take over their entire planet if she wanted to.
+
+Not that the Demon King could ever see that lazy Horseman ever wanting to take over a planet of her own volition.
+
+He’s grown to know her quite a bit better over the years he’s been watching her, and he’s certain of that much at the very least. On top of that he knows that all the plans he could possibly think of to bring her to his side have no chance of succeeding.
+
+So the only possible way he can think of to survive long enough to make a comeback against those Grands is to become her subordinate. Since half of the Grands are her allies and the other half don’t have anything against her.
+
+And the only Grand that had anything against her is currently being chased around like a mouse being chased by a lion. With the lion playing with its food at that.
+
+Which the Demon King is very thankful for, since it means they’re not focusing on him as much.
+
+But he still hasn’t found a way to make Aria pay even the slightest bit of attention to him. And it doesn’t help that the Horseman of War keeps popping up whenever he tries to see her. Nor does it help that he almost always ends up losing his clone before he can even say anything. Whether that’s to War or her other bodyguards.
+
+Now the Demon King’s just been left watching her and feeling like a stalker while doing it.
+
+He has to admit though, watching her has become very interesting to do with all of her shenanigans.
+
+Like what he’s watching right now as the heroes finally make their move, teleporting right up to Aria and giving her an ultimatum about giving up and letting them arrest her.
+
+Which she does not do.
+
+Instead she just says no and continues walking past them. Only for the heroes to all begin attacking at once before hundreds of Death Spirits pop out of rifts all around them, surrounding the heroes in the process while the heroes’ attacks all hit Aria.
+
+With Aria returning to perfect condition less than a second after being hit and continuing to walk straight through her Death Spirits, still without paying any attention to the heroes.
+
+Then the Demon King watches with more than a little amusement as the Death Spirits all break the heroes’ bones before reentering their rifts again, with the rifts closing behind them.
+
+The Demon King chuckles as he watches Aria continue walking away down the street while being gawked at by the passing citizens. And at this point she doesn’t bother hiding her face, since everyone’s already staring at her.
+
+She even walks into a store to go get changed back into a more military style outfit. The same one she’s taken a liking to wearing over the recent years.
+
+Then just continues walking down the street without saying a word or even so much as looking at the heroes who attacked her.
+
+Heroes that are now struggling to get up even as healers work to heal their wounds.
+
+The Demon King continues watching their pointless struggle for a little while before turning his attention to other parts of the universe. To the other uninitialized worlds that are still filled with fallen demons.
+
+After all, fallen demons didn’t just appear on explored worlds.
+
+They’re also all over the place on unexplored ones. On uninitialized ones into the System.
+
+In fact, he’s currently hiding on one of those planets. Although the planet in question is no longer uninitialized as it uninitialized upon his arrival.
+
+But more important to him is the fact that the world was an Alpha Tier world. One with plenty of Hunter’s Spots to hide his true body in while he grows stronger again.
+
+And it is a place that isn’t likely to be found by the Grands. Especially while many of those Grands are dealing with the vacuum that has appeared in the Grand power hierarchy now that the Archmage is beginning to lose her status and power.
+
+He looks around the dark world of shadows that he’s currently inside before shaking his head once and refocusing his attention on the world Aria is on again. Only to find the heroes once again pestering her, even if they’re doing it less forcefully.
+
+Until she lets loose her control on her death energy, flooding over half the world with her immense stores of death energy and instantly making half the mages on the planet pass out from the overwhelming amount of energy. Energy that’s so dense that even the non-mages amongst the planet’s denizens can clearly sense it.
+
+After that the heroes completely leave her alone, making the Demon King chuckle again.
+
+It never gets old watching her antics.
+
+The Demon King’s face scrunches up a little.
+
+Now if only she’d let me talk to her.

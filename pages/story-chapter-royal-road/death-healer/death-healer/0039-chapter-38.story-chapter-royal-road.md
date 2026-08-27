@@ -1,0 +1,279 @@
+---
+id: 519a27a6-333f-5517-b034-5eb8a0d1f9b7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 38"
+slug: 0039-chapter-38
+partOf: death-healer
+position: 39
+ownLength: 2418
+unit: words
+publishedAt: 2025-06-22
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2377364/chapter-38"
+royalRoadId: "2377364"
+---
+
+Lily crossed the threshold of her house first.
+
+She had come back to the Gens Claudia's estate one day before the fight.
+
+Calpurnia had offered to stay with them until the duel so they could refine her techniques, but Lily had wanted to talk to her mother.
+
+She was still in awe of how that conversation had gone.
+
+A Day Before
+
+Adriana did not look like her usual self, Lily thought.
+
+The blonde woman's make-up was light and barely there, unlike her usual pristine appearance. Her reddened eyes were almost unblinking.
+
+Lily had sent word of the duel, but she had not received any confirmation from her mother nor a comment on the matter.
+
+Today, as Lily was showed into the mess hall by a servant, Adriana nodded at her.
+
+"Are you ready?"
+
+Those were the first words that Adriana decided to speak.
+
+"I am."
+
+"Your grandmother warned me that the boy wants to cripple you. "
+
+"I know," Lily replied.
+
+Adriana's fist curled into a tight ball onto the table as the servants made themselves scarce, excluding for Decima. Her aura burst forth and made the cutlery on the long table tremble like a small earthquake would have. Everyone looked scared of the lady of the Gens Claudia except for Decima.
+
+In fact, Lily noticed that the usually shy Decima now stood behind Adriana with much more confidence than she had ever seen on the woman.
+
+"I want you to win," the blonde woman said.
+
+"I will."
+
+"Not by a small margin, Lily," Adriana said between her teeth.
+
+"It won't be," Lily said, planting her eyes on her mother.
+
+"He has Attributes and Class Skills. He doesn't have many Levels, but he's still significantly stronger than you'd imagine."
+
+Lily looked down at the thick slab of stone that made the table and then at her mother.
+
+"Mom, can you—"
+
+Adriana immediately covered them with a thick, dense [Light Shield] that made them invisible and impossible to hear from the outside.
+
+Lily noticed that Decima had been included in it and she raised an eyebrow.
+
+"Decima gave me what I need to make sure you can learn the Great Skill of the Gens Claudia," Adriana spoke with purpose in her words. "She's with us."
+
+Lily felt those words in her bone and nodded, raising a hand and releasing a strong pulse of Darkness.
+
+Adriana raised an eyebrow and then shrugged.
+
+"So?"
+
+The Darkness suddenly sank into Lily's skin, which started glowing faintly, with small sparks rotating around her arm.
+
+Lily widened her feet and suddenly chopped at the table.
+
+Adriana's eyes widened as the, perhaps one foot wide, split into two.
+
+But more impressive, Lily's hand looked barely broken, with snapping sounds indicating that her daughter was already mending it on the spot.
+
+Her healing, too, has progressed. And such a strike… I wouldn't expect it from a Level 20 Warrior. Maybe from someone who maxed their Strength Attribute for their Level, but they'd cripple themselves each time they moved…
+
+"Hurt him," Adriana said. "Hurt him publicly. We're done hiding. We're close to making your claim untouchable, Lily. Do your worst."
+
+Lily's barefoot soles tapped on pale marble as she reached the exit of the main building in the Gens Claudia's estate.
+
+Before she could go to the courtyard where a small arena had been built for the occasion, she heard the sound of trotting and looked up.
+
+Sabinus vaulted from his horse and landed right in front of her. He stopped beside one of the two large pillars framing the threshold of the house.
+
+Lily kept her gaze on the far end of the passage where sunlight made a narrow gold ribbon on the floor. Then, she looked at his fox-like face, at the olive skin, at the smoky green eyes and frowned. The green trim on his cloak had been brushed free of travel dust, yet the cloak still hung crooked because a saddlebag rested on one shoulder. His usual calm held, though his voice strained against urgency.
+
+“Lily, listen. I have ridden through the night. You still have a choice. Let the challenge lapse; no one will call you craven while your bones knit. Delay one month and Sextus loses the Cornelius backing for the Trial.”
+
+She kept her gaze on the far end of the passage where sunlight made a narrow gold ribbon on the floor.
+
+"I'm almost done with my training with Calpurnia," Lily said. "We can start ours after this."
+
+Sabinus turned the saddlebag so that the leather creaked. From its depths he drew the dusk-blue music box that he had rescued from the neglected outpost wall. He set it on the stone ledge between them, then he laid one single peach-gold rose beside it. The bloom’s color echoed the powdery sunrise that hung over the estate.
+
+She closed the box, letting her palm rest on the lid.
+
+"Beautiful, hold it for me until after the match."
+
+"Lily, please, let me handle Sextus,” Sabinus frowned. "I promise, I—"
+
+"A loser thinking like a loser."
+
+Both Lily and Sabinus turned to the incoming voice.
+
+A leather boot clicked against the floor.
+
+Lucretia Iulia walked into the corridor, her red braid swinging behind her. She wore a calm, smug smile, the kind that always meant trouble.
+
+“A loser thinking like a loser,” she said again, brushing a speck of dust off her sleeve. “You rode all night just to beg for a girl who was never yours to protect.”
+
+Sabinus didn’t answer right away. His jaw tightened.
+
+Lily’s eyes narrowed, and she opened her mouth to respond—but then stopped.
+
+Because someone else was approaching.
+
+The air in the corridor shifted, like something important had entered. The shadows pulled back, and the sound of boots on the stone became softer, more even.
+
+Cassius stepped into the light.
+
+He didn’t wear armor. He didn’t need to. The long gray coat he wore fell straight over his shoulders and fastened with a single, shining clasp. Every part of him looked clean, exact, and sharp. His white hair looked like snow that had been brushed into perfect shape. His skin was pale, his eyes a pale silver-blue. His face had smooth, almost delicate features, but somehow he still looked more powerful than anyone else in the corridor. There was something quiet and serious about him that made everyone go still. Even Lucretia.
+
+Cassius didn’t glance at Sabinus.
+
+He looked at Lily first.
+
+“Cousin,” he said calmly. His voice wasn’t loud, but it carried through the corridor all the same. “You look ready.”
+
+Lily straightened. “I am.”
+
+“His Holiness wants the match to go forward,” Cassius said.
+
+"His Holiness?" Lily's eyes widened. "Uncle Ennius's here?"
+
+Lucretia scoffed and crossed her arms, but she didn’t speak.
+
+Cassius nodded.
+
+"Cousin, we shall have a word after this sparring. I—"
+
+"You should teach her some manners," Lucretias snickered. "This little upstart has made some offending remarks. We should just throw her in jail."
+
+Lily felt her arms tremble but she knew that Lucretia would only like if she lost her cool.
+
+"We're family, Lucretia," Cassius said sternly, bringing a white lock behind his ear.
+
+Finally, Lily saw Lumius slowly walking up the stairs of the villa and stopping a few paces behind his other siblings. He stared Lily down, which made her walk past Sabinus and her two cousins to stand in front of him.
+
+"You will marry Lavinia over my dead body," Lily said with a smile.
+
+"I'll make sure to relay my condolences to Aunt Adriana," Lumius shot back, releasing his aura.
+
+Lumius, like Lily, hadn't gotten a Class yet, but Lily felt a scorching heat coming from the teenager's body and licks of white flame enveloping his frame.
+
+Lily started widening her feet when she felt a hand on her shoulder before she could even realize someone had approached.
+
+"Stop."
+
+Lily turned to look at Cassius.
+
+However, Sabinus had suddenly appeared behind Lumius and tapped his head with a finger.
+
+"Little boy, why don't you go? Lily has a match to get to. You two will surely have time to square out at some point."
+
+"Sabinus, remove your hand from my brother," Cassius's voice rang clear as a crystal.
+
+"Or what?" Sabinus said coldly.
+
+"All of you, stop," everyone turned to look at Adriana.
+
+"Aunt, I—" Cassius started.
+
+"I told you to fetch my daughter," Adriana said in a displeased tone. "Why are you all starting fights? Sabinus Cornelius, remove yourself from here and join the spectators."
+
+Sabinus obliged but before shot a long look to Cassius and walked toward Lily, taking out another box.
+
+"These were tailored to you," he said.
+
+Lily opened the box to find two white gauntlets.
+
+They were simple at first glance—white leather reinforced with faintly shimmering plates, no spikes, no jewels, no sigils for display. But as Lily lifted them, she felt them being imbued of Mana.
+
+"The Gens Cornelia's still got the best [Blacksmiths] on retinue despite our struggles," Sabinus smiled at everyone. "It's a simple durability enchantments. They should take swords and blades with no problems unless they're swung by someone above Level 50."
+
+“Mana-conductive,” Sabinus said, getting close to Lily's ear, speaking low so only she could hear. “They won’t numb your control like normal steel would when dealing with Mana. They have been attuned to your… needs."
+
+There was a chorus of trumpets that lengthened into a single clarion note that rattled dust from the rafters. Porters threw wide the eastern gate. A surge of hot daylight flooded the pit, and in that blaze strode Pope Ennius.
+
+He wore a robe of white wool that glimmered in the daylight.
+
+The robe flowed to the marble in an unbroken line, and three subordinate heralds kept its hem from dust by carrying it on silver rods. Behind him marched his children—Cassius first in slate-gray battle cloth, Lucretia beside him with copper-red hair braided so tightly that her scalp shone, and Lumius in a dark gray mantle.
+
+Every spectator rose.
+
+Publius and Leontina seemed ready to fawn over the Pope and get his favor, but the man walked toward the main seat, which was reserved for the head of the house, which was provisorily Adriana, and smiled at his sister when he stood at her right.
+
+"It feels like we're young again, sister, doesn't it?"
+
+Ennius referred to when Adriana had not been married off yet and, theoretically, had still been the heir.
+
+Ennius raised a hand toward the audience allowed the hush to swell until the air seemed too thin for breath. Then he inclined his head toward Adriana with the exact measure owed to a fallen princess.
+
+Cassius followed with a respectful deep bow to his aunt. Lucretia’s bow barely reached the midpoint between arrogance and etiquette, and Lumius tried to mimic his brother yet stopped halfway when his gaze caught Lily standing alone on the sand.
+
+Pope Ennius folded his hands behind his back.
+
+“We will witness,” he said. The tone carried no ornament. “The new generation shall sharpen each other. Let the Blood see whether merit lives where rumor places it.”
+
+He turned, climbed a single step, and seated himself. Cassius took the position at his left, and Lumius Lucretia below him.
+
+The three siblings watched Lily with three very different sets of eyes: Cassius measured, Lucretia hungry, Lumius spiteful.
+
+The crowd exhaled as one. Coins clicked again. Bets were being placed.
+
+All these people had gathered to see Lily be humiliated. Adriana had received so many spectating requests that she had to build a small arena on the premises.
+
+“Ten silver on Sextus,” someone called.
+
+“I’ll double that,” a tall noble barked. “That girl barely has flesh on her bones. She’s going to snap like twine under his first strike.”
+
+“Have you seen her wrists?” a merchant’s son near the back laughed. “You could carve a roast with them. What’s she going to do, beg for mercy mid-fight?”
+
+“She won’t last ten exchanges.”
+
+“Ten? She won’t last two.”
+
+“Forget ten exchanges. That Sextus brat got his Class two months ago—he’s been training with the Cornelius weaponsmaster daily. She’s probably been playing with flowers and reading poetry.”
+
+A younger noble squinted down at the white gauntlets Lily wore. “Are those custom-made? A shame. They’ll probably be the only things left of her after Sextus is done.”
+
+“I hope they brought good [Healers]. She'll need them.”
+
+"Does anyone have the speech she gave at the Gens Aemilia's party written down?" Someone sneered.
+
+Right when he said that, a tall girl with a red full of hair, dressed in a gown and holding a small parasol walked on the stands.
+
+Adriana raised an eyebrow and said nothing.
+
+Lily, who had been stone-cold up to that moment, turned to look at the girl.
+
+"Lavinia," Lily said, feeling her eyes getting humid.
+
+Lavinia lowered her gaze as Livia soon followed the girl, her jaw so tight it looked it might snap at any moment.
+
+Lavinia watch me, Lily thought, not moving her eyes from her friend, catching a glimpse of Lavinia's gaze shooting at her. Watch this. Never forget what you can be.
+
+Sextus emerged from the western tunnel a moment later. When he saw Ennius, surprise flickered yet gave way to chilled resolve. He snapped on the gauntlets with sharp twists and knelt to acknowledge the Pontiff’s presence. Ennius lifted one eyebrow, then turned that same mild regard upon Lily.
+
+She didn't turn toward the Pope and stood straight as an arrow.
+
+A man in charge of referreeing, selected by Adriana,
+
+The magistrate walked to the edge of the arena.
+
+“By writ of Lucianus Claudia, head of this house, and under the direct witness of His Holiness, the duel proceeds. Terms: submission or incapacitation. No lethal strike permitted. Begin when the gong sounds.”
+
+The referree took out a long mallet and a page heaved the bronze disc from its cradle.
+
+The first clang rolled up the benches, and dust quivered in golden beams.
+
+Heartbeat one.
+
+Sextus shifted weight to the balls of his feet, and his shadow sliced across the circle.
+
+Heartbeat two.
+
+Crowd voices whispered. Cassius narrowed his gaze, reading telltales in Sextus’s posture. Lucretia rested fingers on her hip as if itching for a wager. Lumius pressed lips together.
+
+Heartbeat three.
+
+Sextus sprang. Lily answered. Sand sprayed. The duel began.
+
+And Pope Ennius, who seldom smiled in public, allowed the barest curve of interest to touch the corner of his mouth as the sunlit pit lit with the clash.

@@ -1,0 +1,249 @@
+---
+id: bba823a5-d86e-5254-8057-1f8ad5e7439c
+page-type-slug: story-chapter-royal-road
+title: "218: Infiltration"
+slug: 0218-218-infiltration
+partOf: delve
+position: 218
+ownLength: 3617
+unit: words
+publishedAt: 2023-01-15
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1088246/218-infiltration"
+royalRoadId: "1088246"
+---
+
+Two days later, it was still raining. The storm persisted as an eternal drizzle, with occasional gusts of wind and crashes of thunder in the distance. Ameliah was beginning to suspect that the weather wasn’t entirely natural, the sheer intensity and longevity of the storm more in line with what happened when a Leviathan wandered too close to shore. She was trying not to think about what it meant for something like that to happen inland, as she had other concerns at the moment. She was being watched.
+
+Carefully not looking to either side, Ameliah continued her bedraggled trudge through the muck, the tattered and shortened cloak Rush had lent her hanging like a sodden blanket over her likewise borrowed clothing. Her armor was safely stored in whatever non-space it went to when dismissed, as was her bow, though she held Rush’s instead. Its snapped string dangled uselessly, but that hardly stopped it from functioning as the crutch she was using it for. Her other hand was bound to her chest by a makeshift sling, her arm tied to a splint with bandages made from the missing half of her cloak. The cloth was stained red with a great deal of blood.
+
+Not hers, naturally. She’d gone to a lot of trouble to look this bad.
+
+The trail hadn’t been hard to follow, but Camp Asshole was situated on the crown of a broad hill, making it impossible to get a look inside without climbing above the canopy and thus revealing herself. Scrying Pool would have solved that issue neatly, but she had neither the time nor the patience to unlock it. A direct assault, on the other hand, risked disaster should the hostages be used against her. That left infiltration.
+
+“Ho, there!”
+
+“Ah!” Ameliah shrieked, fake surprise turning to equally fake pain as she spun, tripped over her own feet, then landed with a splat.
+
+“That’s what you get for not watching your surroundings,” the voice said in a matter-of-fact tone.
+
+“Who—” Ameliah began, then gasped, hissing through her teeth as she aborted her attempt to push herself up.
+
+“That’s what I want to know,” the voice said, a pair of heavy black boots coming to a stop in front of her.
+
+Ameliah rolled herself over onto her back, making sure to hug her ‘injured’ limb as she took in a man wearing a thick hide jacket beneath his hooded cloak. While he was almost as drenched as she was, his clothing was much finer, making him either a Guilder or a well-to-do mercenary, not an Adamant.
+
+Mark
+
+Openly inspecting her right back, the man’s lips quirked up into a wry smile. “What’s a fancy girl like you doing in a place like this?”
+
+Ameliah let herself go limp. “Dystees, I’m saved.” What about me is fancy right now, exactly? She took a shuddering breath. “Please, my arm is broken. I need hel—”
+
+“Answer the question,” the man said, resting his offhand on the pommel of his sword.
+
+“I’m just— Ameliah, is my name.” Ameliah made a show of only now noticing the weapon. “My brother and I were chasing a boar, and we got separated three...no...four days ago. And then there was the storm, and... Please...”
+
+The man remained silent for a long moment, then clicked his tongue.
+
+Ameliah kept her eyes latched to the sword. “Did...did my brother, uh... Did he send you to find me? Are you a Guilder? Why else would anyone be—”
+
+“Quiet,” the man said, fishing in a pocket, then withdrawing a speaking stone. “Nicho, this is Mett. I found the skulker, so you can tell Innar to stop having a fit. It’s just a drowned rat of a girl—well, make that a drowned badger. I’d say she’s big enough to be part deer if I didn’t know better. Claims to have been out hunting with her brother and got separated in the storm.”
+
+“No, before the storm, I—” Ameliah tried to interject. They knew I was coming?
+
+“Hush!” Mett shouted, glaring at her, slapping the stone against his palm before holding it up to his ear. “Cracked piece of shit,” he muttered, waiting as he listened to whatever return message he was receiving. Finally, he tucked the stone away with a tired sigh, leaving only the sound of the drizzle and the steady drip of larger droplets falling from the leaves.
+
+“Please, don’t hurt me,” Ameliah said, cradling her bound arm. “Whoever you are, I can pay you if you help me get back to my camp. I don’t have any coins on me, but—”
+
+“Get up,” Mett interrupted. “Someone wants to talk to you. After that, I get to go look for your brother. Joy.”
+
+“Thank you, I—”
+
+“MOVE!”
+
+Happy enough with this state of affairs, though she’d have been happier still to simply be welcomed in, Ameliah struggled to her feet, making it as much of a process as possible. The man didn’t so much as offer to help, watching her with a suspicious expression. Once she was up and leaning on her bow again for support, she decided to try again. “Do you know if—”
+
+Mett raised his hand sharply, as if he was about to smack her. She yelped in response, closing her eyes and flinching away.
+
+At least I won’t have to feel bad about killing him later.
+
+The blow, however, did not fall, and slowly, Ameliah opened first one eye, then the other.
+
+Mett snorted, lowering his hand. “Your arm’s broken, not your legs. Bury me in the depths if I’m carrying you, watchtower.” He tilted his head, then stepped aside. “That way.”
+
+Watchtower? Ameliah began hobbling in the indicated direction. Come on. I’m not THAT tall.
+
+After about ten minutes of slow progress, the compound came into view, as she’d known it would. The trees atop the hill had been cleared for quite some distance beyond the wooden palisade. Whoever these people were, they were only hiding in that they’d set themselves up in the complete middle of nowhere.
+
+“Halt!” called one of the gate guards as Ameliah reached the edge of the trees, and she did, only for Mett to shove her roughly out into the open.
+
+“It’s me!” Mett called, stepping past her as Ameliah focused on the new guards.
+
+Mark
+
+Mark
+
+Both were men, armed and outfitted almost identically to the one escorting her, right down to the rust-brown color of their cloaks and the longswords on their hips. As she reached them and slowed to a hesitant stop, one of the men whistled.
+
+“You weren’t kidding, Mett,” he said, walking forward and grinning through his bushy mustache. He planted his hands on his hips, addressing her. “Right then, beautiful, stand still and drop the stick. Gotta check you for weapons.”
+
+“Who are you people?” Ameliah asked, taking a step back and trying to look as if she was on the edge of panic. “There aren’t any towns out here. What kind of camp is—”
+
+“Calm down,” the third man said, the one who hadn’t spoken yet. “This is just a hunting camp.”
+
+“What kind of hunting camp needs a wall?” Ameliah asked, trying to take another step back, only for Mett to grasp her roughly by the shoulder. “What kind of hunting camp has guards with swords?”
+
+“Quiet,” Mett said.
+
+Ameliah closed her mouth.
+
+Not bandits. Too far from any roads for that to make sense. Not hiding from above, so they probably aren’t up to anything too illegal. They certainly aren’t growing anything. Some noble’s retreat?
+
+Mett held her as the other man, the one with the mustache, pried away her unstrung bow and tossed it to their third companion. He then took her belt knife and used it to cut free her pouch, which was quite rude of him, really. Both were just for show, of course. Her real traveling gear was with Rush and his family, who were holed up safely out of harm’s way.
+
+Seemingly disappointed in the contents of the pouch, the man tossed it away, then took a step closer to her. “Hiding the goods, eh?” He ran his hands across her hips, ostensibly checking her pockets, at least until he then slipped them around to squeeze her butt. Ameliah released a startled yelp, struggling with precisely calculated force.
+
+“Hold still,” Mett said behind her, restraining her with such little effort that he was basically screaming the fact he was awakened. “Really, Nicho?”
+
+“What?” the mustached man asked innocently, then roughly grasped Ameliah’s breasts.
+
+“STOP!” she yelled, thrashing, then crying out as Mett grabbed her hair and yanked her head to the side.
+
+“Gods, Nicho, you fucking pervert,” the third man said. “What if she’s someone important?”
+
+“Out here?” Nicho said, still kneading roughly. “The only important folks around here are the family, though with pillows this fine—” He grunted, blocking Ameliah’s attempted kick at his groin. “Hey now! None of that!”
+
+Ameliah screamed her outrage, using her free hand to cover her breasts now that he’d released them to strip the boot from her captured leg. Really, what some dead man did with his hands was unimportant. She was more interested in this ‘family’ he’d mentioned.
+
+Nobles for sure, then.
+
+“Just get her inside,” Mett said, shoving Ameliah away once her feet were bare. She stumbled and tried to make a run for it, only for the third man to catch her around the waist.
+
+“Gods, she’s a fighter,” he said, lifting her completely off the ground as she flailed. “Get her legs!”
+
+“My arm!” she screamed, seeing an opportunity as Nicho moved toward her again. With slightly more strength than she should have been able to muster, she twisted to the side and whipped her bare heel into his face, creating a satisfying crunch.
+
+“AH, FUCK!” Nicho screamed.
+
+Ameliah hid her smile as she slammed hard into the ground, almost taking her captor down with her. Behind her, Mett was laughing, and she caught a glimpse of him walking off into the trees. Nicho quickly sprung back up, then stalked toward her, clutching his face. He slugged her in the stomach, hard enough that he might have risked breaking something had she actually been what she was pretending, and she made sure to make the appropriate noises as she allowed herself to be beaten into ‘submission.’
+
+If that little tap was enough to break his nose, he can’t be more than level five or so.
+
+Staying limp to make things difficult for the third man—Nicho wasn’t helping carry her, too busy trying to stem the flow—Ameliah let her head loll, stealing glimpses of the interior of the compound through barely-opened eyes. The ground was bare, decreasing the likelihood of this being an illicit drug farming operation even further, noble-run or otherwise. There were several wooden buildings, plus one larger one that could convincingly be described as a manor.
+
+And then she saw the pen.
+
+It was clearly a recent construction, cobbled together from green lumber, saws and remnants of processed trees lying on the dirt just outside it. Inside were the villagers, dozens and dozens of them, most watching the commotion, but some not even looking up, hanging their heads against the eternal drizzle. Ameliah’s eyes felt drawn to the tiny form of a baby, cradled in its mother’s arms. It took all of her strength to not break free that instant and do something about it. Instead, she dragged her gaze away, settling it on the three rust-cloaked guards standing beside the enclosure.
+
+Mark
+
+Mark
+
+Mark
+
+Struggling with her rage, Ameliah began counting prisoners, made difficult by their motion. She reached a count of seventy-one, then cursed inwardly and started again. Soon, her bare heels began thumping against the stairs to the manor as she was dragged up them, but she barely even noticed, too focused on the count. Again, she reached seventy-one.
+
+Damn it. Six missing, one child and five adults, including Proudrock.
+
+“Get the damned door, Nicho,” the man holding her said, his voice more annoyed than strained.
+
+“Fucking bitch broke my nose!” Nicho repeated for the umpteenth time, punching Ameliah in her bound arm as he climbed past her. She screamed, letting her voice break into a whimper.
+
+“Stop that!” the other man admonished him, dragging her forward again as the door opened. “She’ll die if you keep it up.”
+
+“Is that her?” a woman’s voice shrieked before Nicho could respond, and rapid footsteps came running across the foyer. Ameliah got a great view of the ceiling, which was high and brightly lit by Light Plates set into the walls. There were probably Heater Plates somewhere, too, from the sudden warmth and lack of an obvious hearth. Ameliah managed to flop her head to the side to get a look at the newcomer, who wore a blue silken dress and had a wand pointed directly at her.
+
+Mark
+
+“Yes, Lady Innar,” Man Three said. “Mett just brought her in.”
+
+“Who is she?” Lady Innar demanded. “And stop bleeding on my floor, whatever your name is. Evet, where are you!? Get a rag and a mop!”
+
+“We don’t know for sure, my lady,” Man Three said, rapidly filling the woman in as Nicho grumbled. Before long, a servant appeared, hurrying over to him and handing him a rag, which he snatched roughly. A bit of an argument followed, finally diffused when Nicho stalked off, denied the healing potion he’d requested.
+
+“Wake her up,” Innar commanded Man Three, still pointing her wand at Ameliah’s face. “She feels suspicious. I want to interrogate her.”
+
+Ameliah tensed, preparing herself and glad of her decision to avoid mana use.
+
+“And how would he do that, sister, when you won’t even spare a potion for the help?” a reedy man’s voice abruptly asked. A straight-pressed pair of black trousers appeared in her view, and she resisted the urge to look up at the newcomer’s face. A foot was more than enough.
+
+Mark
+
+“Just shake her or something!” the noblewoman said, and Ameliah relaxed marginally. Clearly, the woman had sensory skills of some sort, but apparently not ones that could outright reveal her.
+
+“Do not,” the male noble countermanded. “Dulls tend to break when you do that. You can talk to her when she recovers, supposing she ever does. You; Pon, right? What did you do to her?”
+
+“Not me, Lord Tenelin,” Man Three said, clearly the target of the question. “Her arm was like that when Mett found her, and Nicho—”
+
+“Spare him the details,” Lady Innar snapped. “We don’t need to go through it all again. Please, just let me handle this, brother.”
+
+“No, sister,” the lord replied, the stress on the final word indicating that this wasn’t even remotely their first disagreement of the day. “Just throw her in a cell,” he commanded. “When our grandfather wakes, he’ll decide what to do with her. Please inform us if you find the other hunter. Now, sister, I need to talk to you about how we plan on feeding the deer. Our supplies aren’t going to...”
+
+Ameliah continued listening to the bickering between the noble siblings as she was picked up, then carried away, cradled in the guard’s arms. She didn’t manage to glean any more important details before she passed out of the foyer and into a long hallway, keeping one eye barely open as her head dangled. Eventually, she caught a glimpse of another guard standing beside a banded metal door, again with a sword.
+
+Mark
+
+What is it with these people and swords? Other weapons exist!
+
+“That woman is a trial,” the newest guard said.
+
+“Heard all that, did you?”
+
+“How could I not? Get her down there, then go get Nicho that damn potion. He was injured in the line of duty, and our contract is clear on what we’re owed. If Lady Innar gives you any more trouble about it, she can take it up with me.”
+
+“Oh, she’ll love that. You two get on great.”
+
+The only response was a grunt, then the rattle of a key in a lock. “If you ask me, I think it’s time to renegotiate our contract. I didn’t give up my plate to stand beside a door for twelve hours a day.”
+
+“I hear you,” Man Three said. “What are we going to do, though? Kill them?”
+
+“No, and keep your fucking voice down. North Harbor’s a smoking ruin, yes, but the twins got out, so more may be coming. Even if we could take them and the old man, and that’s a big if, we’d be in a real spot if the rest showed up and found out we offed their relatives. When I say renegotiate, I mean exactly that. I mean getting them to treat us with some deeping respect. They need us to watch the deer, and they know it.”
+
+“Right.”
+
+There was a sigh. “Don’t get me wrong, it’s damn lucky they found them on their way in, but their fortune’s been a gigantic pain in my ass. If it were up to me, we’d just slaughter the lot and be done, but no, nobles gotta be nobles. Always looking for more.”
+
+“You should try working for the Bank. Can’t say I miss that.”
+
+The other man grunted. “We’ll talk tonight. Just get her down there for now. And don’t put her in with the deer, or they’ll kill her.”
+
+“Duh,” Man Three said, hiking Ameliah up in his arms and guiding her head through the doorway.
+
+As Ameliah passed the inward-opening door, she risked opening her eyes slightly wider to get a look at it, but didn’t see any obvious runes or signs of enchantment. The same went for the wooden stairway as they descended into darkness. There was a heavy thud, then a click as the door was closed and locked behind her.
+
+“Should have grabbed a damn candle,” her bearer muttered in the darkness. Eventually, as the stairwell continued far longer than she’d expected, she became aware of a greenish hue coming from below. As she reached the bottom and was carried out into the cellar, the last piece of the puzzle clicked into place.
+
+Ah.
+
+The room was enormous, the need for the high ceiling easily explained by the shimmering green bubble that dominated the space. A metal cage had been constructed around the lair, the bars of dark metal serving double duty and holding up the structure above. Runes had been etched into the metal, adding their own bluish glow to the magical ambiance, though the cellar couldn’t even remotely be described as bright. The rest of the space she could see was also dominated by ironwork, split up into cubic cells by the metal bars, though unenchanted. Most of the cells didn’t even have doors, filled with the random junk one might expect to find in a cellar. Some, though, held people.
+
+“Who is it!?” a cervidian woman demanded, rattling the bars of her cage before stopping suddenly. “Are they alive? Did you—? Oh.” There was a long pause, then a scoff. “It’s just a human. Imprisoning your own kind too, now?”
+
+“Animals don’t talk,” the man holding Ameliah said. She’d already forgotten his name. He laid her on the ground in one of the cells with more care than she’d expected, though it would not save him. He then knelt beside her, straightening out her legs and shifting her bound arm to lie more comfortably on her stomach.
+
+“There,” the man said, getting back to his feet. “If you can hear me, I’m sorry for Nicho, and stay away from the bars. The deer are not your friends.” There was a squeak of unoiled hinges, then a clang as the door slammed closed.
+
+“We need water, human,” the same female voice said bitterly, as if the words were being dragged out of her.
+
+Apparently, this didn’t even rate a response. All Ameliah heard was the rattle of a key, then a click as she was locked inside.
+
+“If you want us to die, there are faster ways we would prefer.”
+
+Again, this went ignored. Ameliah listened to the guard’s footsteps as they retreated across the dusty planks that made the floor, soon fading as he climbed the stairs. Her awareness of his direction, though, didn’t fade, nor did her awareness of the others she’d Marked.
+
+“Asshole,” the woman spat.
+
+“Mommy?” a little boy’s voice asked from another cell. “Is the lady alright?”
+
+“Who cares?” a male voice responded from further down the line.
+
+Ameliah waited, listening over the angry muttering of the cervidians. Finally, she heard the distant thud of the door at the top of the stairs.
+
+She sat up, generating several sharp intakes of breath, and she turned to see five pairs of eyes staring at her. It was hard to make out details in the gloom, but she could see well enough to know that none of them belonged to Proudrock. Perhaps some of their antlers were slightly larger than nubs, but she couldn’t say for sure yet whether that was just her imagination. In her heart, though, she knew her suspicion was correct. She knew what the assholes had done. What they’d planned to do.
+
+“Mommy?” the little boy asked again uncertainly as Ameliah got to her feet, rage and anticipation of vengeance distorting her features.
+
+A child. Why would they choose a child? And where is Proudrock?
+
+“Who are you?” one of the men demanded.
+
+“Please keep your voices down,” Ameliah replied, managing to regain control as she turned to face her fellow prisoners. She bowed low, bending only at the waist. “I am Ameliah, friend of Tallheart, and I’m here to rescue you.”

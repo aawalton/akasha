@@ -1,0 +1,125 @@
+---
+id: 9648cb79-951d-5c9c-a185-ea8f1e25459d
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 44"
+slug: 0352-b5-chapter-44
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 352
+ownLength: 1422
+unit: words
+publishedAt: 2026-06-25
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/3591186/b5-chapter-44"
+royalRoadId: "3591186"
+---
+
+Within the new Capital of the Empire of Death
+
+Ruby walks into the main council chamber of the Empire of Death’s Palace of Death with a scowl on her face. One easily recognized by every member of the Council of Death. The ruling council over the Empire of Death in their Horseman’s absence.
+
+“So she ran away again?” Ryan asks with an amused smile on his face as he leans over the round table at the center of the chamber looking at his twin sister. “How did she hear about your approach this time?”
+
+Ruby sends a glare her twin’s way without pausing in her march towards her seat before sitting down and growling out, “Uncle Shirogane told her along with the request for her participation in the exhibition match. Mother was gone by the time I arrived.”
+
+Her answer has her twin brother laughing out loud. Meanwhile the rest of the council – all made up of familiar faces to their mother – show unsurprised looks. As if this was exactly what they were expecting would happen.
+
+They sent Ruby out to bring their Horseman ruler back for some important management of the nation that couldn’t be done without her, but none of them actually expected Ruby to succeed. Except Ruby herself.
+
+“And where did our esteemed Horseman run off to this time?” Leonardo Striker, the leader of Team Predator, the team the Horseman used to be on back at the beginning of her initialization into the System, ask with subtle hints of amusement on his face. Without taking his chin off of his hands and his elbows off the table.
+
+“Somewhere no one can follow, presumably,” Elara Crescent, the former first general of the Albarian military, says with a slight frown on her face.
+
+Ruby nods her head with a grimace as she says, “You’re correct. Mother hid herself away on Acrilla. The acid world. Inside of a Hunter’s Spot.”
+
+“That would do it,” Ryan says while laughing again.
+
+His laughter grates on Ruby’s nerves so much she turns a sweet smile onto him and says, “I’m glad you’re so overjoyed by this, my beloved little brother. It means you’ll happily substitute for her as long as possible, right?”
+
+The laughter instantly vanishes from the room as his face goes pale and he begins shaking his head as quickly as possible.
+
+“That sounds like a good plan,” Rory says, the woman having taken a place on the council despite being nobility from the Grand Silvanian Empire.
+
+“Agreed,” Elara states with a simple nod.
+
+“It sounds good to me as well,” Leonardo answers with a faint smile of his own.
+
+“Yep! It sounds hilarious!” Leone, member of the lyons and former bodyguard – or rather, observer to keep her out of trouble and make sure she does work – for the Horseman of Death, says with a grin on her face in a hand raised in the air.
+
+Ryan looks at everyone seated at the table with despair in his eyes, only to turn his gaze onto his last two hopes.
+
+But unfortunately for him, Sel just smiles at him and doesn’t say a word, clearly still holding a grudge for the times he regularly pranked her back in his training days by tricking her into thinking his mother was home.
+
+“Aunty Nerissa, please!” Ryan begs while holding his hands together and staring at the Atlantean princess who has been managing all of his mother’s businesses for centuries now.
+
+Ruby glances at her defacto aunt as well, only to find her ignoring him entirely.
+
+I wonder if she still holds a grudge against his jokingly calling her Little Blue a few days ago?
+
+She stares at the head of the council for a few seconds before her Aunty Nerissa finally declares, “It would appear there are no objections to the motion. Ryan will now be responsible for the paperwork set aside for Aria that is possible for a family member to handle. The rest of it will continue to be set aside until we can drag-” She pauses while clearing her throat. “I mean welcome Aria back.”
+
+Ruby nods her head in confirmation.
+
+She is definitely still holding a grudge against him. This should serve as a lesson for him not to mess with people anymore just because he knows no one will retaliate against him because he’s Death’s son.
+
+After all, the only person who can safely call her Aunty Nerissa ‘Little Blue’ is their mother. The Horseman of Death.
+
+Regardless of their level or status, anyone who has attempted to call her Little Blue other than the Horseman has been punished in some manner. Whether that’s through additional work for the Empire of Death for members of the empire, worse treatment by the empire for outsiders, or situations like this.
+
+Their Aunty Nerissa always gets back at them.
+
+Even their mother isn’t always safe from their Aunty Nerissa from what Ruby has heard both when she was still a child and now.
+
+She still remembers the horror stories her mother told her when she was a kid. Back when her mother was still trying to crack the code to that safe.
+
+“Did Aria agree to join the exhibition bracket?” her Aunty Nerissa asks from the head of the round table with an unreadable expression on her face.
+
+Ruby nods her head and answers, “She did.”
+
+“Then we won’t have to worry,” her aunt continues. “That means she’ll be present for the Eternal Championships. We can welcome her back then.”
+
+Ruby feels a chill run down her spine at the way her aunt said the words ‘welcome her back’, but she decides to ignore it since her mother deserves this.
+
+“Beyond that matter, we still need to decide how we shall deal with the refugees that have arrived from the former Dread Empire’s territory,” Leonardo states with a frown on his face. “They are proving to be rather difficult to handle thanks to their incredible numbers. Does anyone have any ideas?”
+
+“Further develop one of our newer planets from the latest war and place them there,” Elara states with a frown of her own. “If that’s not enough we can develop more planets. We have the funds for it so we should use them.”
+
+“At the rate Aria is going, we’ll always have funds,” Rory says with a light shake of her head. “Do you even realize how much money she brings in every day? Just her hunts alone brings in a fortune every single day. And that’s not even mentioning her advertisements and music. Or the actual annual earnings from the empire itself.”
+
+“We can all agree on one thing,” Ruby states while tapping a finger on the desk. “Money won’t likely ever be an issue for us.”
+
+She glances at her twin brother to find him still dazed while no doubt thinking about the paperwork. Then she turns her attention back to the rest of them.
+
+“Then that settles the issue,” her aunty declares. “Develop those new worlds and migrate the refugees to them. That will be all for today’s meeting.”
+
+Ruby quickly climbs to her feet and begins to leave the room. All while ignoring the pleading and half dead look in her brother’s eyes.
+
+Because she has a café to visit.
+
+It’s been too long since she last had some nice wine.
+
+All because of her wild goose chase for her mother.
+
+I swear I’m going to give her an earful when I see her again…
+
+Aria
+
+A chill runs down my spine for some reason as I’m lying down reading a nice book.
+
+What was that about?
+
+I frown for a moment, only to shrug it off while letting my Death Spirits continue hunting mana creatures in the caverns of the Hunter’s Spot.
+
+This place is nowhere near as ideal of a vacation spot as the last place, but it’s at least safe.
+
+Although something tells me I might be in danger when I go to that exhibition bracket for the tournament. Since there won’t be any running away there.
+
+And knowing Little Blue, she’s not going to pull any stops when trying to catch me there.
+
+Maybe that’s what the chill down my spine was about?
+
+Either way, the best plan right now is to push all my worries about this matter to future me.
+
+This can be future me’s problem after all.
+
+You’re welcome future me.
+
+I give a firm nod of my head at that thought before continuing to read my book.

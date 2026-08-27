@@ -1,0 +1,113 @@
+---
+id: 4f7e13e1-d278-5ca0-82e8-d891cc67261d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 41"
+slug: 0042-chapter-41
+partOf: death-healer
+position: 42
+ownLength: 1263
+unit: words
+publishedAt: 2025-06-28
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2393036/chapter-41"
+royalRoadId: "2393036"
+---
+
+Ennius was absolutely stunned by the performance that Lily had just pulled. It wasn’t the degree of power in itself, of course. Publius’s boy was nothing short of a foolish cretin with passable talent at best. Even [Crystal Fury] was nothing more than a slightly rare Skill in the Gens Iulia’s eyes. It wasn’t special. It wasn’t even close to what Ennius had blessed his children with…
+
+Especially Cassius, he thought with a large smile.
+
+But this display from Lily was scary in the battle acumen, the techniques, the style and the sheer fighting intelligence the girl had showed. This was something that, Ennius regretted saying, not even Cassius had not yet reached.
+
+Did her father, that bastard, Lucianus, train her without me knowing? But no. Whenever we received report, everything pointed to her just starting. And that means she’s had barely training.
+
+It made no sense to Ennius how Lily could have grown this powerful in that short of a time. Even if she was a prodigy, it still made absolutely no sense.
+
+It was the kind of growth that was unheard of.
+
+* * *
+
+Hestia sloshed a cup of wine in front of her, waiting in a carriage outside the villa, when a figure cloaked in shadow appeared in front of her.
+
+“Your granddaughter won.”
+
+“The duel’s over?” Hestia sighed in relief.
+
+“No, she broke the boy’s arm. She’s in full control, Your Highness. She might kill him. You asked me to come the moment she won or lost. The duel is not over, but she already won.”
+
+“Alright, Uranus,” Hestia sighed. “What about her? How strong is she?”
+
+“Your Highness,” the [Assassin] hesitated. “I was close to her. She’s… not that strong.”
+
+Hestia clenched her jaw.
+
+“But,” the woman continued, “the young Lily is… I have never seen a child fight like that, milady. Her bare-handed style is… even though it could be less effective on a large monster, I don’t think that if I was her level, I could take her.”
+
+The old woman perked up at that and bore her gaze through the shadow.
+
+“Explain yourself,” Hestia hurried her.
+
+“Your daughter executed this move,” the [Assassin] shifted uncomfortably. “She… grabbed the arm of the boy while she was throwing him on the ground.”
+
+Hestia wasn’t a fool when it came to combat but she didn’t understand. The nature of Classes and Attributes meant that fighting was about striking and casting. Throws? Those were extremely rare and usually confined to a few useless Classes.
+
+“Grabbed his arm?” Hestia asked.
+
+“She grappled him mid air and twisted his arm at the elbow and shoulder. She crippled the arm, I’m sure, even though most of the audience didn’t understand that.”
+
+“Can’t a [Healer]—“
+
+“Your Highness, your daughter knew what she was doing. She tore the joints. The arm is gone.”
+
+Hestia was growing more and more impressed by the second.
+
+“Would a move like that work in high-level combat?”
+
+“Most certainly. Your granddaughter is not only fighting like a veteran, but she can heal beyond anyone we’ve ever seen.”
+
+“We knew that,” Hestia frowned.
+
+“Your Highness,” the shadow’s voice strained, “your granddaughter could tear limbs apart with that technique. And what are they going to do to her that close up? How many Skills are effective at the skin-to-skin range? And either they kill her on the spot or she’s just going to eat the damage and tear them apart.”
+
+Finally, Hestia started realizing what the shadow was saying. It wasn’t about this fight or how impressive Lily was. No.
+
+This was about something else.
+
+Rarely the shadows she commanded, even their strongest, made pleads or requests.
+
+“Your Highness, your granddaughter is what your daughter couldn’t be. She’s the one.
+
+Hestia heard the shadow’s words and, for an instant, agreed. She had already endured unimaginable, bone-deep pain, hoping she might emerge special the way Lily now seemed. So far Lily had indeed demonstrated wonders, yet Hestia—despite knowing the girl’s mother would bend the world for her—did not believe Lily was truly ready.
+
+“She’s just a child, Your Highness,” Hestia said, steady but hard. “Those declarations your granddaughter made were only words—nothing more. And words, my dear, amount to nothing in this world. Power takes root in sinew and will. Lily is nothing but a girl.”
+
+Down in the arena Lily clenched her fists and stared at Sextus. She had never felt more in control—never this alive. Memories that were not quite hers fluttered behind her eyes: fists whirling, hips turning, tendons snapping straight. For a heartbeat she felt taller, older, her reach impossibly long. She knew the sensation was fleeting, a flare brought on by facing Sextus, but she let herself drink it in. Something—maybe someone—whispered that clarity would come in time.
+
+The audience gasped when Sextus, blood slicking his lips, snarled his intent to kill. Tom, the appointed referee, hesitated—should he step in? The arbiter seated above him remained stone-still, scarcely noting that Sextus’s left arm now dangled, mangled beyond easy healing. Most nobles assumed a healer would simply mend it afterwards; they were sorely mistaken. They could not imagine how Lily, guided by razor-keen Mana Sense, had shredded every ligament and ground the joint to pulp. Even Hestia’s hired assassin failed to grasp the meticulous ruin Lily had wrought.
+
+Retaching a limb, Lily knew, demanded microscopic knowledge of anatomy; flooding light mana over a stump would only fuse the mess into useless scar.
+
+Sextus, almost frothing, leveled his jagged, spike-coated right fist at Lily’s heart. Yet to Lily the duel was already decided. She loosed a pulse of Coniunctionis through every fiber. Before Sextus’s swing could reach her she stamped at his lead knee—a thunder-crack of bone echoed across the sand. He staggered, but Lily’s leg had already recoiled, hips twisted, and lashed out again. The second kick obliterated the joint, cartilage spraying like dust.
+
+Sextus toppled; before he could scream Lily darted low, Coniunctionis jerking her torso into a blur Vespera and Selena had never witnessed. She clamped around his remaining leg, arms like iron hoops, and wrenched. One hand locked over his boot and, with a savage twist, she snapped the ankle—first pop, then a dull tear.
+
+Sextus howled, rolling in feral agony. Even the spirit concoctions sewn into his gambeson could not mute the pain.
+
+At last Lady Leontina realized the gravity of the wounds. “Stop this duel immediately!” Her voice cracked.
+
+But before the referee could raise a hand Lily stepped forward and set one boot lightly on Sextus’s throat. She did not press—merely fixed him in place, her braid rustling in the hot breeze.
+
+“Is this a win?” Lily called, voice ringing. Silence gripped the stands, even Lady Leontina—if only for a heartbeat.
+
+Then the matriarch shrieked again. “Someone help my son!”
+
+“I asked a question,” Lily repeated, still calm. “Lady Leontina, is this a win?”
+
+Leontina’s mouth worked soundlessly; pride and panic strangled her reply. Before she could decide, Cassius Iulius rose from the dais. His gray coat fluttered as he brought his hands together in three deliberate claps that cracked across the arena.
+
+“This,” Cassius said, silver-blue eyes on Lily, “is a win. Congratulations… cousin.”
+
+“Not bad for a girl,” Ennius said, rising from his seat and looking down at Lily. “As long as she doesn’t get ideas.”
+
+The Pope’s words were chilly and silenced the crowd, that had been ready for an outburst of cheers.
+
+“I’m nothing but a girl, Your Holiness,” Lily curtsied. “I hope you enjoyed the show. I’ll see you and your son at the Champion’s Trial.”

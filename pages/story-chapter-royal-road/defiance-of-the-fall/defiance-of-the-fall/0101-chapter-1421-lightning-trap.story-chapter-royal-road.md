@@ -1,0 +1,111 @@
+---
+id: 7d7fe9db-086f-5b61-a720-a5ddb1db4902
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,421 - Lightning Trap"
+slug: 0101-chapter-1421-lightning-trap
+partOf: defiance-of-the-fall
+position: 101
+ownLength: 2915
+unit: words
+publishedAt: 2026-04-12
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3264926/chapter-1421-lightning-trap"
+royalRoadId: "3264926"
+---
+
+The tribulation clouds had been raring to go since the Duplicity Core initiated the process. The storm pressed down to the point it nearly touched the towering spires surrounding the Judgment Plateau. The Heavens couldn’t wait a second beyond the Core Ignition to release its first round of punishment. Hundreds of red scars on reality covered the whole mountain, announcing it as a taboo zone under scrutiny.
+
+The lightning naturally rushed straight for Zac without interruption. The Hollow Court undoubtedly possessed the strength to completely suppress tribulations at this level, but doing so would be an excessive breach of the natural order. Zac only had time to register the bolt’s unusual color change before it was upon him. When passing through the golden halo it went from deep red to pitch black.
+
+Pitch-black desolation poured into Zac’s body. It embodied erasure of Dao, longevity, energy, and cultivation. Agony followed wherever it passed, though not nearly at the level Zac expected. He remembered well the lightning bolts that struck during his battle with Kator. The first was the same angry red that illuminated the mountain right now while the fourth and final strike was nearly pitch-black.
+
+Seeing the same color at the first bolt had triggered Zac’s fight or flight response when it didn’t need to. His Peak D-grade Core Formation didn’t start at the level of the last one’s final tribulation. On the contrary, the punishment couldn’t reach the same threat level as Late D-grade’s first lightning bolt.
+
+Only a small part of it could be attributed to the lightning bolt’s lacking strength. The real hero was the Cosmic Attainment he’d accrued since his last Four Desolates Tribulation. Zac already had crossed the initial threshold of a Law-attuned body, and it no longer stood helpless before the Four Desolates. His cells refused to be erased where the lightning passed.
+
+Furthermore, the hidden boon of the Empyrean Chalice had already made its appearance. A thin layer of illusory flames covered Zac’s insides wherever the lightning passed. While it was much too weak to block the tribulation’s progress, it weakened the effect of the Laws by nearly a quarter.
+
+Combined, it allowed to Zac remain clear and lucid as the lightning rushed into his Quantum Space, where it targeted the myriad pieces strewn about. Zac would have completely suppressed the tribulation before it reached his Cosmic Core if not for the promising situation. His constitution wasn’t the only thing that aligned with the Four Laws, and Zac needed to see his core’s reaction to the punishment.
+
+Zac rallied his Dao and Energy to guide the tribulation. He couldn’t have the lightning target the pieces one by one. Law-imbued or not, that was beyond what they could endure. The lightning didn’t need much prodding to go along. It regarded the Quantum Space as a smorgasbord, wanting to take a bite out of every morsel floating around. That greed became its undoing.
+
+The splinters of lightning simply weren’t strong enough to damage the molten droplets of his Core after being exhausted by a concoction Void, Dao, and Energy. The lightning that made it into a piece failed to cause any permanent damage before being snuffed out by the excess energy that poured into Zac’s core before the ignition. That loss wasn't permanent, either. The cosmos was already replenishing the loss.
+
+The first bolt was crushed without breaking a sweat, or so Zac thought. While Zac took the opportunity to correct the trajectories of some wayward pieces of his core, his danger sense suddenly pointed toward the ground. The next moment, a flood of dark red lightning poured into him from the Judgment Plateau. With the pieces of his cosmic core still drawing energy from the Cosmic Sea, Zac fought back for real this time.
+
+His body became a forest filled with deadly predators that took a bite out of the lightning for every inch it advanced. Evolutionary Dao and occasional gusts of Void snuffed out the final remnants just as it reached the Duplicity Core’s latch.
+
+“So that’s how it works,” Zac muttered as he looked at the radiant halo in interest.
+
+The Tribulation Assisting Array didn’t directly block the tribulation. Such measures risked being counted as direct interference and would result in a fiercer punishment. It also deprived the practitioner the chance of tempering themselves with the lightning, which an elite institution would want to avoid.
+
+Normal people weren’t like Zac who could directly eat tribulation lightning, but surviving a tribulation still had some benefits—especially the Four Desolates Tribulation the Judgment Plateau was designed for.
+
+The seventeen spires acted as lightning rods that drew in all of the Heavenly Dao and roughly half of the Four Desolates. The spires were directly connected to Zac through the Judgment Plateau, and the lightning was tricked into rushing toward him through this link. Only, the plateau’s wiring took a detour through the whole mountain.
+
+A small part of the rerouted lightning lost its way, reducing the total lightning Zac had to endure. The rest found its way to Zac within a few seconds. That delay allowed Zac to deal with the first half, functionally splitting one threatening tribulation into two manageable steps. Furthermore, Zac had already split his tribulation in half by having two bodies.
+
+While the lightning would eventually join up inside the Quantum Space, his bodies only needed to endure a quarter of the intended punishment each round. That was enough to reduce a deadly threat to a painful inconvenience. The functionality of the Judgment Plateau on the other side was identical, with only fractional differences in the delay and how much of the lightning was split.
+
+Normally, a second bolt would already have descended at this point. It turned out that the Judgment Plateau had one more trick up its sleeve. While Zac had been busy dealing with the first part of the lightning, the halo had glowed with greater fervor. Zac had just assumed it was the result of drawing in tribulation lightning. In reality, the discharge of Imperial Faith blinded the Heavens long enough to deal with the bisected bolt.
+
+Such comprehensive assistance came at a cost. Both halo and the four runes had lost some of their radiance after dealing with the first bolt, and there were no sign of the mountain replenishing it. While it still had plenty to spare, Zac would presumably have to endure four more lightning strikes, each deadlier than the one before.
+
+The second pillar of lightning descended, this one a significant step stronger and cast in a deeper hue. A slightly smaller fraction was siphoned off this time, forcing Zac to face 60% head-on. The destruction it wreaked on his body remained within bounds of what he could endure, though he had to draw on his Vigor to restore the damage where it passed.
+
+This time, Zac mounted a concerted resistance when the bolt passed the Duplicity Core. A wall of Void and Dao slammed into the Four Desolates in mutual destruction, weakening it to a bearable level. The rest was split among the myriad stars of the Quantum Space to provide a second round of tempering. A second blast of lightning came shortly after and was dealt with head-on.
+
+Zac took a steadying breath, suppressing any impulses of premature celebration. His plan was already bearing fruit. The fluctuations of law were marginally stronger in the shimmering blobs that once made up his core. So long as he could manage the lightning, he’d see a significant improvement by the time he was done.
+
+The third bolt descended, at which point Zac truly started to feel the pressure. Deep scars opened across his body and were cauterized by the lightning before they could heal. His body became a brutal battlefield where the enemy forces inexorably pushed past his defenses in their pursuit of punishing his impious core. Only by expending a significant amount of Mental Energy did Zac manage to weaken the lightning to a level where his core could benefit without permanent scarring.
+
+The surge of victory was washed away as Zac hurriedly swallowed a set of healing and recovery pills. It was clear that the Judgment Plateau’s assistance wouldn’t last through the whole tribulation. With two bolts remaining, the protective halo had grown translucent. Less than a third of its energy remained.
+
+The fourth bolt was already pitch-black when it fell, and the destruction it held was the straw that broke the camel’s back. The halo exploded when the lightning was halfway through, and the runes collapsed shortly after. It released a burst of glory as a parting gift, hiding Zac’s presence one final time.
+
+Two thoughts flashed through Zac’s mind as cracks appeared across the spires. First, he really ought to demand a refund. Sure, his tribulations went beyond the norm. If the lightning had stopped at the third bolt like it was supposed to, the prepared energies would more than have sufficed. Still, shouldn’t there be a some form of guarantee when paying 6,700 Imperial Merit? That was an enormous sum of Imperial Destiny, requiring generations of accumulation for any C-grade clan back in the day.
+
+The second was the realization that he would have to save his aces for the final blast, which was doomed to be a harrowing experience.
+
+Zac’s whole world was consumed by lightning a second later. The fourth bolt didn’t pass through his body, it filled it to a breaking point then added more. Barriers of Evolutionary Dao were erased by Desolate Truth, rivers of Energy crushed by Cosmic Mandate. Zac’s very life was judged and denied, and everything he had achieved was clawed back in a relentless rebalancing act.
+
+Forming coherent thought was impossible over the crackling roar. All Zac could do was follow his instinct as he desperately pulled. Part of the lightning was dragged into his Soul Aperture, where it lunged at the swirling galaxies. Some of it was dragged even deeper into the hidden world of his Earthly Daos.
+
+A heavenly calamity rained on the combatants stuck on the ground, and countless lives were erased in the blink of an eye. However, not even the Heavens could make the fierce warriors of Zac’s path back down. Their life was a long struggle, and bitter defiance was engraved into their bones. New lives sprung up to face the Heavenly Thunder in a constant cycle of life and death. Each revolution, the lightning faded by a bit.
+
+Terrifying amounts of Mental Energy was extracted from the embattled Soul Cores to sustain the war, and hairline cracks began appearing on their surfaces. Vast waves of Oblivion came pouring out from hidden pockets as Zac emptied three of his Splinters in one go. It annihilated everything that came close, both lightning and pieces of himself.
+
+Zac willingly made the sacrifice to delay the tribulation as long as possible. Eventually, the soul was forced into hiding, the Heart made to avert its gaze. When flesh had nothing else to give, waves of burning conviction swept forth in a desperate attempt of redemption. It rallied the faith scattered across the plateau into overturning the Laws.
+
+All that, and it still wasn’t enough. Zac couldn’t hold back any longer the growing tide of destruction any longer. The tribulation rushed into his Quantum Space, drowning it in darkness filled with righteous fury. Devastating waves of crackling lightning swept through Zac’s world, and countless suns winked out one after another. Zac could only hold on for dear life and rotate his energy to keep the asteroid belts moving. Together, they made up a natural formation echoing his path, increasing the resistance to some degree.
+
+Just as the forces of nature waned, the second portion of the lightning rose from below. It rekindled Zac’s torment. His eyes had been incinerated, his Soul Sense ripped apart. Zac didn’t even know if he had any flesh left to offer, yet he staunchly kept his roaring bloodline in check. He could feel how the Void wanted to lash out at this unwelcome interloper, to show the Heavens who was boss. Such wanton satisfaction would be short-lived. Even in his Zac’s wretched state, he could feel the Heavens gather for a judgment that would transcend all else.
+
+The lightning faded with a sputter after what felt like an eternity, yet the darkness remained. Zac only relaxed when lights ignited one after another across the Quantum Space. It was like light turned into day on a galactic scale, with dawn bringing hope and renewal. The swirling components weren’t destroyed, they’d simply been utterly drained of energy in their existential fight for survival. The parts that reignited had been reborn, tempered by unprecedented levels of Law.
+
+A deafening rumble warned things weren’t over, and that there would be no time to recover. Bursts of Creation swept through what was left of Zac’s body. The lingering desolation was gradually distorted then washed away. Layer of burnt flesh sloughed off, exposing newly-formed flesh beneath. The first sight for Zac’s new eyes were of the Heavens gathering strength.
+
+Four times, the Heavens failed to exact satisfactory punishment, each failure pushing its anger to greater heights. Its outer rims rapidly shrunk as the central cyclone summoned all remaining forces for its ultimate judgment.
+
+Time was short, and Zac needed to make the most of it. Three vials appeared in his hand, each a famed elixir costing over a thousand Imperial Merit. Trinity rivers brought life back to the desolate wasteland left from the fourth tribulation. One veered into his Soul Aperture, mending cracks while replenishing a third of his Mental Energy. A second brought Vigor to newly reformed flesh, and the third patched up damaged pathways.
+
+Taking one of these life-saving elixirs risked overloading a Hegemon’s body because of their dangerously high medical efficacy. And yet, all three were drained in the blink of an eye. Every cell in his body clamored for more—more sustenance, more power to resist what was brewing above. There was no time to digest anything else.
+
+From the extremity of darkness came absolute light. The clouds collapsed to birth a thin streak of alabaster white. The seemingly unadorned tribulation triggered a desperate wail of danger that forced Zac awake. The lightning was a clear notch above the ones before, like comparing raw iron with tempered steel. It moved without urgency like a ruler confident in their absolute authority over fate.
+
+Zac rose to his feet to directly face the challenge as one Void Vortex after another opened around him. Failure meant death, and Zac was going all out from the get-go. Not that he had a choice. His Void Emperor bloodline had grown increasingly agitated at being denied the bountiful nourishment until now, and it came undone upon sensing the refined Law held within white lightning bolt.
+
+Meanwhile, [Void Mountain]’s inverted peak descended in Zac’s Soul Aperture. It immediately was brought to task in forming a Void Sigil on Zac’s right hand. At that point, the falling streak of white had finally crossed the distance. Zac manipulated a Void Vortex to intercept, only to have it collapse within the blink of an eye.
+
+Undeterred, Zac sent one vortex after another. None of them fared any better, but each took a bite out of the terrifying lightning before it was destroyed. Together, the nine vortices managed to weaken the lightning by half. Zac knew he was playing with fire, and that depositing the Four Desolates to his Void Space wasn’t necessarily a permanent solution. The Void would be forced to spit back out anything it couldn’t handle. Still, it was his only option. Just like the Judgment Plateau, it was a way to buy time by splitting the tribulation in half.
+
+Zac didn’t stay put for the lightning to reach him. He rose into the air, slamming his Void Sigil into the lightning with a defiant roar. He felt like a punctured balloon as terrifying amounts of Void Energy poured into his hand in an act of mutual destruction. Zac ignored the pain and growing cracks spreading across his arm, holding until he was almost completely squeezed dry.
+
+Less than a fifth of the lightning remained at that point, and its refined aura had come undone. Smooth flows had already become jagged, and the lightning pounced into his body with ferocity resembling its predecessors. And there, Zac’s final line of defense waited, as it always had. A deep thump made the dust across the mountain peak dance as [Void Heart] threw out its net. Five thumps later, only a faltering tendril remained.
+
+“Go ahead, you bastard. Test my core,” Zac coughed with a hoarse voice as he threw the rootles tendril into his Quantum Space.
+
+The lightning acted like it had a mind of its own. It refused to comply and give Zac the satisfaction of a perfect victory. It stopped in place upon entering the Quantum Space before dissipating on its own. Only a wisp of cosmic resentment remained, like it wanted to mark Zac for future reference.
+
+Zac fell back onto the platform, the vigor he’d exhibited all but gone. The pain and emptiness left in the wake of the Four Desolates couldn’t quash Zac’s sense of triumph. The tribulation had gone well beyond his previous encounters, and so had his preparations. The sky was clear, and the galaxy inside his Quantum Core remained in optimal condition.
+
+The most difficult chapter had passed, and it was time to reap his reward.

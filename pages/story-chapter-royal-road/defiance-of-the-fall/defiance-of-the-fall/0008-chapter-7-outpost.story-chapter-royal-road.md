@@ -1,0 +1,79 @@
+---
+id: 28c961b8-7778-5785-b4ae-ff4034b6a10e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7 - Outpost"
+slug: 0008-chapter-7-outpost
+partOf: defiance-of-the-fall
+position: 8
+ownLength: 1533
+unit: words
+publishedAt: 2019-05-06
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/359476/chapter-7-outpost"
+royalRoadId: "359476"
+---
+
+It had been four hours since Zac had woken up after getting hurt. Even after moving around for hours, his wounds were just dully throbbing, and he once again was amazed by the efficacy of his constitution. If his Endurance and Vitality grew to 100, would he be able to regrow limbs?
+
+He had spent the last hours discreetly surveying the surroundings to come up with a solution to being stranded in the woods. He had made some discoveries during this time, some more shocking than others.
+
+The first thing Zac had done after figuring out the basics of the system was head back to the scene of the fight to retrieve his axe.
+
+When he arrived at the boulder, the monster was still there, and by then a putrid smell had started to emanate from the carcass. This meant that the system would not remove bodies like in a game. What was dead was dead. After looking around the body, even somewhat moving it to look beneath, it also hadn’t dropped any items such as gold or equipment.
+
+He still didn’t know if that was just bad luck or whether the system was not that convenient and just wouldn’t hand items to you in that manner. Perhaps you would have to make do with what already existed, or there were chests strewn around the world.
+
+Just judging from the smell and how the beast looked like when alive, it would not be serviceable to eat, even if fresh. The axe lay next to the body, blood caked all over the shaft and the head. Luckily, it hadn’t been corroded or rusted yet, and after a good cleaning, the axe was almost as good as new, albeit slightly dulled.
+
+The next realization he made on the way back to the camp. Since the world in a sense had turned into a game, he thought maybe there was some sort of equipment system. But when saying things like “equip,” “equipment,” and “inspect” got no response from the system, he surmised that there probably was no such thing. An axe was just an axe. Maybe there would be magic gear in the future, but at least for now he had no means to distinguish it. He felt that he had missed something though, as one of his quests would reward him with something called “E-grade equipment,” whatever that was.
+
+However, he still was no closer to completing that quest now than he was back then. One thing at the time.
+
+The next discovery was that will and determination do not a mechanic make. After popping the hood of the car, he had blankly stared at the engine for a few minutes, hoping something obvious and easily solved would present itself. But he had to simply face reality that he would not be able to drive back, at least not with that car. The battery was well and truly dead.
+
+But the most disturbing discoveries came after. Since discarding the car seemed the only option, Zac had started scouting the road back to see if it was possible to traverse or whether it was teeming with monsters.
+
+He stealthily moved along the road they came from, keeping to trees and brushes, axe at the ready and maintaining a constant vigil for any sign of danger. If he kept this pace going back, the trip would likely take a week, and he didn’t cherish the thought of sleeping out in the open.
+
+But before he got further than around a kilometer, the road abruptly stopped, and dense forests gave way to a cliff with a drop of roughly five meters. The road, heck, the whole ground, was simply gone.
+
+The view that instead greeted him was a panoramic view of an ocean. At least he thought it was, as he could see no land in sight, and he was still too sore to climb down and test whether it was freshwater or salt water. He guessed it was salt water though from the smell in the air. In either case it was mind-boggling, as the campsite was hundreds of kilometers away from any body of water of that size.
+
+Finally he remembered some words the system had said at the start, which he had completely glossed over in his panic. It said it had merged the planet with others and had been somehow randomized. Just how powerful was the system in the end, to grab multiple planets out in space and mash them together without him noticing anything.
+
+That thought was almost scarier than the immediate threat of the demons.
+
+This also made him realize that most of his plans of going back home and finding his family likely had to be scrapped. If the system could drop an ocean in the middle of the country, his family might be on the other side of the planet for all he knew.
+
+Which brought him back to now. Zac had mutely trudged back to camp, this time with far less vigilance than before. Still, it seemed that there were, at least for the moment, no threats in the immediate vicinity.
+
+He now sat in one of the camping chairs, at a loss for what to do. He was emotionally and physically wrung out after the day, and the sense of purpose he’d had before had largely vanished. He was still anxious to find his family and friends, but now he didn’t even know how to begin looking for them. Were they even together after the teleportations and reshuffling of the world?
+
+For all he knew, he was actually on an island rather than next to a large body of water. Then he would be well and truly stuck in some sort of nightmarish castaway situation. At least he had a camper, which was lucky, as he had no real idea how to build a serviceable shelter. He regretted bloodying it up now though, but hindsight is twenty-twenty.
+
+He knew that finding anyone he knew would likely be a far-off venture now, and he had to focus on surviving this demon forest first. He had already discarded trying to swim towards where the nearest city was before the apocalypse, as he had no idea of how large the water was or, even more importantly, what was lurking in the water. If there were demon dogs in the forest, why not demon sharks in the water? No thanks. He had to put some faith in the fact that the system wasn’t a complete maniac and had put some checks and balances in the tutorial zones, which would keep his family safe.
+
+He once again opened his status page and quest page to see whether there was something he had missed earlier that could help him with his current situation. After a while he gleaned a clue from his quests.
+
+Incursion Master (Unique): Close or conquer incursion and protect base from denizens of other alignments for 3 months. Reward: 5 E-Grade Nexus Crystals, outpost upgraded to town, status upgraded to Lord. (0/3)
+
+There were references to some sort of base building in two of his quests, and it seemed important, almost like the main quest of the area.
+
+“Outpost,” Zac said, hoping for some sort of prompt that could guide him further.
+
+[Requirements met to create incursion outpost. Create now?]
+
+This time he heard no robotic voice, only a prompt showed up, still looking like an old RPG window.
+
+So there was a function like this. Once again a tinge of rage flared up at the system for its chronic inability to properly explain what was possible. How many other things did he not know about due to the system not teleporting him to a tutorial village?
+
+Zac didn’t immediately answer the prompt, leaving it hovering. He was unsure whether this was the correct choice. Was creating an outpost a one-time thing? Would it make him even more stuck to this area? Would it make a loud noise, attracting curious beasts?
+
+Then again, he wasn’t sure if he had much of a choice. It either was creating an outpost and hoping that it would somehow help with his situation, or essentially going out into the woods and grinding for levels by killing demons, and hope that he would get strong enough to leave that way before getting himself killed. Seeing as his state was pretty pathetic after just one encounter, it didn’t feel like an option. What if he met a pack of the demon dogs instead of a lone scavenger?
+
+Gritting his teeth, he decided he just had to go with the flow this time and decisively said, “Yes.”
+
+He stood up, eyes fixed on his surroundings, waiting for something to happen. Maybe a medieval town would sprout up around him? At least some rudimentary battlements? He was hunkered down with axe at the ready, ready to flee at a moment’s notice. But the only thing greeting him was the vision of a lush forest and the sounds of birds and insects.
+
+Confused, Zac sighed and was getting ready to try some different commands to create his outpost when a voice suddenly appeared from behind him.
+
+“What are you doing?”

@@ -1,0 +1,165 @@
+---
+id: cc0da85f-54fd-50bf-b9d1-9ed1dbc0afd0
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 31"
+slug: 0192-b3-chapter-31
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 192
+ownLength: 1615
+unit: words
+ownProgress: 1615
+publishedAt: 2024-08-12
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1755456/b3-chapter-31"
+royalRoadId: "1755456"
+markedReadAt: "2026-06-29T19:12:14.875Z"
+---
+
+Somewhere in the Universe
+
+Ten individuals appear within a large chamber shrouded in darkness, each with their own types of magic cloaking their identities. Then a single individual appears at the center of them all wearing a cloak with its hood down and an older styled black suit on beneath it. One reminiscent of medieval times.
+
+However, despite having no hood on, no one can see any details about the man as his entire face is coated in shadows revealing nothing but faint white lights where his eyes are.
+
+“Report,” Hassan declares in an emotionless tone of voice, his singular word resonating throughout the chamber and sending a chill down the spine of all those who hear it.
+
+One of the ten individuals steps in front of the others and declares, “Preparations have been made. Ten Beta Tier nations have been selected and have joined together to declare war.”
+
+“Methods,” Hassan asks, his white eyes locking directly onto the speaker – a man wearing a black cloak with purple flames covering his face.
+
+“Memory alterations, bribery, misdirection, and basic manipulation,” he answers without expanding on what he means. Understanding very well that the leader of the Council of Darkness hates it when more words are stated than need be stated.
+
+Hassan goes silent for a few seconds before asking, “Timeframe.”
+
+“The war will be declared in twenty years, and it will start with an attack on the empire’s capital,” the man, having been chosen by the ten council members as the spokesperson for this operation, states. “However, we have an unexpected problem.”
+
+Hassan’s eyes narrow ever so slightly, albeit still without any emotion visible in them.
+
+So the man hurries up before he gets on the Council Leader’s bad side as he says, “There is a Horseman of the Apocalypse currently in the capital of Silverfall. Aria Crimson, Lady Death.”
+
+That makes Hassan pause for a moment before he shakes his head and declares, “Continue with the operation. Avoid conflict with her. If possible, recruit her.”
+
+And without giving them another second to say anything, he vanishes in a wave of shadows that rises up from the floor to envelop him before fading again.
+
+Silence fills the room.
+
+The man who was designated the spokesperson turns to the others and says, “It would appear… we need to be extra careful with this operation now.”
+
+All nine of the others nod their heads in agreement.
+
+“Make sure to give advance notice to all of the nations in the attack,” one of the nine states with a feminine voice, this one having a blue electricity running across their body hiding their features. “They need to be aware not to attack the Horseman of Death.”
+
+“We shouldn’t have to tell them that in the first place,” another one – this one having black flames coating his appearance – says with a scoff before he adds, “anyone stupid enough to attack a Horseman deserves whatever happens to them.”
+
+“Are you willing to have to spend a year regrowing your arm after the leader tears it off because one of those idiots decided to attack her anyways?” a female voice belonging to the moving statue of ice.
+
+The one coated in black flames stiffens up for a moment before stating, “I was fully planning on informing the nation of Alcolt. No need for your sarcasm.”
+
+“That’s enough,” the spokesperson declares, making the others turn to look at him. “We need to hurry in case one of the nations gets ideas and moves early.”
+
+And without another word, all ten council members vanish from the room.
+
+Leaving it in silence again for several moments, only for the Leader of the Council to appear once more in the room from the shadows. Having never left it in the first place.
+
+He stares at where the other members were for a few seconds before turning to a screen that appears in front of him as a hologram. One displaying the Horseman of the Apocalypse, Aria Crimson, as she fights within a Spire, crushing one mana creature after another.
+
+Several seconds pass in silence with the only sound being that of the noise from the screen.
+
+Then Hassan finally blinks once and turns into shadows again, leaving the room.
+
+At the same time, shadows begin to manifest within the layer of the Spire the Horseman is in.
+
+Aria
+
+It’s nice to be leveling up again so fast. And I have to admit, this place really is fast. Lots and lots of golems and other creatures for me to-
+
+My thoughts come to a sudden pause when the light within the Spire dims a little.
+
+I tense up while looking around, searching for some sort of threat. But the light just dims more instead, making me frown.
+
+What… is going on?
+
+I try to search my surroundings for over five entire minutes, but I can’t find anything. Not a single thing.
+
+The only thing I see is that it’s darker. A lot darker. There also seems to be some shadows moving in corners that look kinda unnatural.
+
+What’s going on?
+
+“Interesting…” I hear a muttered voice, making me stiffen up as a shiver runs down my spine. Simply due to the sheer emotionless tone they used.
+
+It’s different from Pestilence’s emotionless words. His are more like a scientist looking at everything as test subjects.
+
+This voice is more like someone looking at everything as if nothing mattered to him. And the voice is definitely male, considering how deep it is.
+
+Then something moves out of the corner of my eye and I swivel around within the little tower I’m in to find a corner where the shadows are beginning to coalesce.
+
+“Who are you?” I ask as I watch the shadows slowly beginning to rise until they form a human silhouette. One of a man wearing a hoodless cloak over a more medieval black suit. And his face is still hidden by shadows, revealing nothing but glowing white eyes.
+
+But I recognize him despite all that.
+
+Very few people wouldn’t. After all, he’s one of the Nine Grands.
+
+He’s Hassan al-Malik. The Leader of the Council of Darkness. The biggest underground organization in the universe, with a particularly large focus on assassination.
+
+They were also behind that little rebellion I accidentally squashed some years back on Atlantis. Even if they only did that as a cover for their attack on the Society.
+
+“You could spot me,” he declares without a hint of emotion. But I feel like I can sense some interest in his words.
+
+I frown at that before shrugging and stating, “Not really. I just noticed that it got darker, and the shadows were moving weirdly.” Then I cross my arms and ask, “So mind telling me why you’re on Silverfall? I know Leopold doesn’t like your council, so you can’t have permission to be here.”
+
+Not that the Council of Darkness has ever been in the business of asking for permission from what I’ve heard.
+
+He just stares at me. So I stare back.
+
+Then we kinda stare for several seconds, neither of us moving. Long past the point of me feeling rather awkward.
+
+Is he… um… gonna answer me? Or is he just going to stare me down?
+
+Are we having a staring contest?
+
+For some reason I just keep staring at him, meeting his gaze. Feeling more than a little curious as to how long he plans to keep this up.
+
+My Death Spirits have been surrounding us as we speak in case I need to get away. While still hunting mana creatures, of course. Because, more importantly than keeping their surrounding us discrete, I still need more of that lovely progress to the next level.
+
+Ten more seconds pass.
+
+Then an entire minute.
+
+Then five minutes.
+
+And at this point I begin to wonder if he fell asleep standing up or something.
+
+“You can maintain eye contact as well,” he finally speaks, not blinking at all despite that. I think.
+
+It’s hard to tell when all I see are two glowing white orbs in the place of his eyes.
+
+“Is there… something wrong with maintaining eye contact?” I can’t help but ask while tilting my head.
+
+He just stares some more.
+
+A real talkative fella, isn’t he?
+
+“Well, if you’re not going to do anything, I’m just gonna go back to hunting,” I tell him with a light wave before walking away. Deciding that I’ve had enough of our staring contest.
+
+Best to go back to exploring this lovely little Spire. Because it’s been quite a bit of fun so far.
+
+I walk for a little bit before, out of curiosity, turning around. And almost immediately jumping backwards, feeling startled by the eerie sight of the man just standing the same distance from me as he was before. Just a few meters behind me.
+
+Okay, that’s creepy as hell.
+
+I didn’t hear any footsteps. It’s like he’s following me while maintaining the same distance without making a sound.
+
+“You have something you want to talk about, or…” I comment, tilting my head again while putting my hands in my pockets a little nervously.
+
+In all honesty, the Death Spirits would be a waste. It’s not like I can match up to someone whose level is in the five digits.
+
+This guy could turn me to dust in seconds. Even if I’d recover from it.
+
+Although I do feel a little curious about how long it’d take.
+
+Anyways, mister silent treatment doesn’t say anything again. So I just let out a sigh and continue walking.
+
+With mister silent treatment following after me.
+
+This is just weird.
+
+Wonder what he wants?

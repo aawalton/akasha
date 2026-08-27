@@ -1,0 +1,1287 @@
+---
+id: 9caa7a2c-b792-5e51-a8d5-1deba81ad924
+page-type-slug: story-chapter-royal-road
+title: "177: Debugging"
+slug: 0177-177-debugging
+partOf: delve
+position: 177
+ownLength: 5953
+unit: words
+publishedAt: 2022-01-09
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/821063/177-debugging"
+royalRoadId: "821063"
+---
+
+Rain sat in Big Gulp’s bridge, scratching his beard as he stared out the front window. The ship was hovering perhaps two hundred meters above the Tear. His paling curved below him, the patch appearing to him as a section of ringworld painted upon the inner surface. In this analogy, the Bastion, far, far above him, would be the central star, making the ringworld more Niven than Halo, as far as space habitats were concerned. That comparison broke down when it came to the distances involved. With the Tear covering about a third of his paling’s circumference, pure geometry would place the Bastion much closer than it actually was, as reported by his avatar-sense. The chaos that filled the intervening space made such calculations fraught.
+
+Here, though, order prevailed. As at the Bastion, large concentrations of essence imposed physical laws on their surroundings. An archway of air followed the patch, growing hazier with distance until about his current altitude, where there was something of a hard line. He couldn’t see the whole patch from here—or anywhere, really—but it was progress.
+
+The other notable physical rule was gravity. In keeping with the ringworld image, it pulled outward, making it possible for Rain to walk along the rubbery patch with the support cables stretching overhead like high-tension power lines. It wasn’t exactly real physics. A ringworld was supposed to spin to simulate gravity, and there was no spinning here. It was just an image. Similarly, Big Gulp was ignoring the external gravity, the cabin interior having its own simulated 1g simply because Rain said so.
+
+For what felt like the hundredth time, Rain glanced at the newly-built clock that protruded from one wall, then sighed. The clock’s pendulum—tick, tick, ticking away—was about a quarter-meter in length. The math said that meant one oscillation per second under 1g. It was accurate enough that the speed of the second hand didn’t seem off to his eye, but clearly, there was significant error. He’d been waiting here for well over twenty minutes, intending to observe his scheduled 8 AM essence exchange. Going strictly by the clock, that should have been ten minutes ago. He’d accounted for the increase to the time acceleration, but he didn’t have an exact measurement of the factor yet, introducing another source of error.
+
+Annnnd…. Rain raised a hand, then held it for a moment before whipping it down to point at the clock. Now!
+
+…
+
+Okay…now. Damn it, NOW!
+
+…
+
+With a frustrated groan, Rain sat back to rake his fingers through his hair, closing his eyes. The instant he did this, naturally, a tremor ran through the craft. He snapped his eyes back open, sitting up to stare through the window. As the essence exchange began, he felt his core rushing toward him, along with every avatar that wasn’t already at the Tear. The view through the window didn’t reflect the contraction of the paling, but that was normal. Invested essence shrunk at the same rate. His avatar was made of invested essence, so his perspective would be shrinking along with it. The same was true of liquid essence. Gaseous essence, though—and chaos by extension—were another story.
+
+As the essence exchange ramped up, the turbulence increased, chaos mixing with air and making the orange haze more pronounced. A trio of gauges on the console told Rain that the pressure was rising. Each had a different scale corresponding to area rank, the first ranging from zero to ninety-nine, the second from twenty to thirty, and the third and most sensitive from twenty-four to twenty-six. The third needle had already risen to read twenty-five point three.
+
+In Rain’s experience, the pressure would go no higher for a normal, non-leveling exchange. The paling became permeable during the process. The turbulence he was experiencing was coming from the chaos rushing to freedom during the ‘exhale’. That was normal. What wasn’t normal was the way his patch had started to balloon outward. Unlike the paling, his patch wasn’t permeable. That was the point.
+
+Not even a second later, a great sound rattled the ship, so loud that Rain would have clapped his hands over his ears had he not decided on a frantic lunge for the controls instead.
+
+*Ppptppttpptppttppptpttptttppptpt…*
+
+He just caught a glimpse of the patch sputtering like the world’s largest whoopee cushion before a wall of chaos rolled past him, blocking it from view completely. Abandoning his physical senses, he used his distant avatars to orient himself as he brought the ship’s turbines to full reverse. He struggled with the suddenly heavy flight controls, the craft starting to spin. Fortunately, he’d left enough distance, and the exhale ended long before he was in any danger of slamming into the web of support cables. The respite was brief. The sound soon returned, the wind now blowing in the opposite direction with the inhale.
+
+*Upptptttptptpttptppptptptptptpptp…*
+
+This time, Rain didn’t even bother trying to keep the ship stable. He brought the engines back down, then clamped his palms over his ears as he squinted at the barometer gauges. The third gauge had bottomed out, and the second read twenty-one, though it was swiftly rising. As the third gauge climbed back onto the scale, the sound ended, the patch sealing itself. The turbulence continued for a few seconds more, then faded along with the wind, the pressure stabilizing at twenty-four point five.
+
+Rain removed his hands from his ears, then chuckled, thinking about the sound. “Classy,” he said to the empty cabin.
+
+After watching the gauges for another second or two, he left Big Gulp to spin, then switched to a Kludge in one of the anchor stations. Picking himself up from where the avatar had been tossed, he repaired the avatar as he limped to the cable gauges to check the maximum recorded strain. It was high, he saw, but not terrifyingly so. He reset the gauge quickly, then hopped to a Kludge in the next station. As he made his way down the line in this manner, his concern lessened, becoming elation.
+
+No damage! Everything within tolerance! Not great, but within tolerance!
+
+By the time he returned to Big Gulp, he was grinning like a madman. He checked the pressure again, then laughed. It had barely changed, reading at twenty-four point six. It would get back to nominal eventually, he was sure. His paling at large would be working even now to restore the essence that had been lost to...flatulence.
+
+Rain snickered, reaching for the controls to arrest his spin.
+
+There was a crash of breaking pottery, and Lana recoiled as crushing dread washed over her. Her heart fluttered in her chest like a small bird’s, her every instinct screaming at her to run. To hide. She staggered away from the fallen tray, fighting not to cry out.
+
+The dread was overpowering...but also familiar. She knew what this was.
+
+And then it was gone.
+
+The terror lingered, but the oppressive, overpowering weight had vanished.
+
+Lana reached to the hilt of her sword to steady herself, drawing strength from its presence. Samson’s training took hold, and she found her breath, inhaling evenly.
+
+Calm. I’m calm.
+
+“Who—?” a voice asked.
+
+Lana looked up, seeing Ameliah’s head poking out of the tent. Their eyes met, and Lana froze. There was no alarm in the other woman’s expression, only confusion.
+
+“Lana?” she asked, exiting the tent. “What are you doing here? Where’s Samson?”
+
+Quickly removing her hand from her sword, Lana straightened up her spine, then met Ameliah’s gaze. “I—Good morning. I was just bringing you and Rain some breakfast. You both missed the party, so I thought you’d appreciate it. Samson wasn’t going to let me through, but then Tallheart walked by and told him it would be okay as long as I didn’t ask about what happened last night.” She closed her mouth before she was tempted to ask just that. Tallheart had looked exhausted. She didn’t believe Kettel’s theory, of course, but it was...suspicious.
+
+“Ah,” Ameliah said, smiling and looking down at the fallen tray.
+
+Following her gaze, Lana muttered an oath, then dropped to her knees. She flipped over the tray, scrambling to refill it with food and shards of broken pottery. The porridge and the beer were goners, but the rolls and sausages would be fine. They were dry. The freshly sliced beef was another story, but Rain had Purify for that.
+
+“Sorry,” Lana said, shaking the dirt from each slice of meat as she placed it back on the tray. She glanced up at Ameliah, then at the tent, lowering her voice to an urgent whisper. “Please don’t tell Rain I reacted like that. The pressure surprised me, and I tripped. It was just so…strong. Stronger than it ever was before.”
+
+“Well, there’s one question answered,” Ameliah said, laughter in her voice. Her armored boots came into view, then she knelt down, moving to help. “Thank you, and don’t worry about it.”
+
+“Why’s it back?” Lana asked. “The terror thing? I thought that was fixed?”
+
+Ameliah smiled wryly. “Because Rain is a trouble magnet. He tore his...wound...open when he picked his class.”
+
+Lana’s mouth made an ‘o’ of surprise, and she worked her jaw as if to ask something. Before she could figure out what, Ameliah chuckled, gesturing to the tray. “I’m glad to see you brought enough for yourself this time.”
+
+Lana closed her mouth with a click. Ameliah clearly didn’t want to give her any more detail just now and was trying to change the subject. She looked down at the tray. She’d brought a lot of food, yes, but that was only because she’d seen the way awakened tended to eat.
+
+“But I didn’t—” she finally began, looking up, but Ameliah laughed, interrupting her.
+
+“Nonsense,” she said, rising with the tray and shifting it to one hand to offer Lana the other. “This is what? The fifth time? If you’re going to keep doing this, you’re going to start joining us.” She beckoned with her gauntleted fingers for Lana to take her hand.
+
+Lana, still working through her shock, took the offered hand.
+
+Ameliah’s grip was firm as she hauled Lana back onto her feet with the gentle yet irresistible strength of a mountain. She released her the moment she was up, though, turning and carrying the tray back toward the tent. After a few steps, she paused to look over her shoulder with a smile. “I think there’s a Ranks board in Rain’s pack. Do you play?”
+
+Progress Report
+
+marker_1: s1 [3061 Sowing 26 02:49]
+
+marker_2: s2 [3061 Sowing 26 08:00]
+
+Span: 5.2 hours
+
+Character
+
+Total Exp: 2,036,178 -> 2,036,416 (+238)
+
+↳Stamina Use: 4
+
+↳Mana Use: 234
+
+Skills
+
+Aura Compression: +9 exp
+
+Aura Synergy: +22 exp
+
+Channel Mastery: +150 exp
+
+Intrinsic Clarity: +234 exp
+
+Intrinsic Focus: +234 exp
+
+Magical Synergy: +234 exp
+
+Purify: +75 exp
+
+1/27 Slots
+
+Accolade
+
+Bonus
+
+1
+
+Everdeep Fortress
+
++10Perception
+
+Slot
+
+Item
+
+Charge
+
+Saturation
+
+Durability
+
+Head
+
+Chest
+
+Legs
+
+Hands
+
+Feet
+
+Offhand
+
+Myriad Plate
+
+Bound
+
+Durability
+
+Hardness [12,047]
+
+500 Heat Resistance
+
+500 Cold Resistance
+
+375 Chem Resistance
+
+350 Force Resistance
+
+5,000 Arcane Resistance
+
+Lightness
+
+Compression
+
+Thermal Regulation [ON]
+
+Tactile Transference [OFF]
+
+Facade [ON]
+
+Obfuscation [ON]
+
+Arcane Regeneration [OFF]
+
+Kinetic Conversion
+
+185,496 / 185,500
+
+0 / 154,209
+
+602,044 / 602,044
+
+Ring[0]
+
+Ring[1]
+
+Ring[2]
+
+Ring[3]
+
+Ring[4]
+
+Malleable Ring
+
+Bound, Unity
+
+287/287 Attributes [˃]
+
+225 / 226
+
+0 / 1,907
+
+102 / 102
+
+Ring[5]
+
+Aura Collector’s Ring
+
+Bound, Unity
+
++1.12 Aura Synergy [AUTO]
+
+500 / 500
+
+0 / 4,272
+
+813 / 813
+
+Ring[6]
+
+Aura Collector’s Ring
+
+Bound, Unity
+
++1.12 Aura Synergy [AUTO]
+
+500 / 500
+
+0 / 4,278
+
+814 / 814
+
+Ring[7]
+
+Aura Collector’s Ring
+
+Bound, Unity
+
++1.12 Aura Synergy [AUTO]
+
+500 / 500
+
+0 / 4,273
+
+816 / 816
+
+Ring[8]
+
+Aura Collector’s Ring
+
+Bound, Unity
+
++1.12 Aura Synergy [AUTO]
+
+500 / 500
+
+0 / 4,274
+
+813 / 813
+
+Ring[9]
+
+Aura Collector’s Ring
+
+Bound, Unity
+
++1.12 Aura Synergy [AUTO]
+
+500 / 500
+
+0 / 4,271
+
+814 / 814
+
+Amulet
+
+Magewell Amulet
+
+Bound, Unity
+
+Mana Well
+
+100% Import Efficiency
+
+100% Export Efficiency
+
+50,000 / 50,000
+
+0 / 39,211
+
+313 / 313
+
+Mainhand
+
+None
+
+NA
+
+NA
+
+NA
+
+Underwear
+
+Forceweave
+
+NA
+
+NA
+
+NA
+
+Overwear
+
+None
+
+NA
+
+NA
+
+NA
+
+Richmond Rain Stroudwater
+
+CLASS
+
+LVL
+
+CAP
+
++STAT
+
+Engine of Change
+
+26
+
+30
+
+10
+
+EXP
+
+NEXT
+
+TOTAL
+
++SKILL
+
+586
+
+73,713
+
+2,036,416
+
+1
+
+Vitals
+
+CUR
+
+MAX
+
+RGN
+
+Health
+
+1,700
+
+1,700
+
+300/d
+
+Stamina
+
+1,699
+
+1,700
+
+520/d
+
+Mana
+
+39,525
+
+39,525
+
+1.6/s
+
+Attributes
+
+287/2690
+
+EFF
+
+TOTAL
+
+BASE
+
+ACCLD
+
+MISC
+
+SYN
+
+STR
+
+85
+
+85
+
+10
+
+0
+
+75/500
+
+20.6
+
+RCV
+
+16.8
+
+30
+
+10
+
+0
+
+20/770
+
+5.6
+
+END
+
+59.5
+
+85
+
+10
+
+0
+
+75/310
+
+7
+
+VGR
+
+46.3
+
+52
+
+10
+
+0
+
+42/1,140
+
+8.9
+
+FCS
+
+85
+
+85
+
+10
+
+0
+
+75/2,000
+
+50
+
+CLR
+
+270
+
+270
+
+270
+
+0
+
+0/2,500
+
+270
+
+PER
+
+10
+
+20
+
+10
+
+10
+
+0/0
+
+10
+
+SPD
+
+9.4
+
+10
+
+10
+
+0
+
+0/10.0
+
+9.4
+
+Resistances
+
+TOTAL
+
+END
+
+ACCLD
+
+MISC
+
+HEAT
+
+508.5 0%
+
+8.5
+
+0 0%
+
+500 0%
+
+COLD
+
+508.5 0%
+
+8.5
+
+0 0%
+
+500 If you stumble upon this narrative on Amazon, be aware that it has been stolen from Royal Road. Please report it.0%
+
+LIGHT
+
+8.5 0%
+
+8.5
+
+0 0%
+
+0 0%
+
+DARK
+
+8.5 0%
+
+8.5
+
+0 0%
+
+0 0%
+
+FORCE
+
+358.5 0%
+
+8.5
+
+0 0%
+
+350 0%
+
+ARCANE
+
+5,008.5 0%
+
+8.5
+
+0 0%
+
+5,000 0%
+
+CHEMICAL
+
+383.5 0%
+
+8.5
+
+0 0%
+
+375 0%
+
+MENTAL
+
+8.5 0%
+
+8.5
+
+0 0%
+
+0 0%
+
+Rain occasionally glanced at the wall of windows, contemplating his full status as he worked to take down the tent. He’d emerged from his soul, surprised to find Ameliah teaching Lana how to play Ranks by the light of the open tent flap. After learning what had happened and dusting off the food with Purify, he’d joined them for a nice, quiet breakfast. The two of them had just left, Lana to go on patrol, and Ameliah to get some sleep. Apparently, Vanna had arranged proper accommodations for Rain, Tallheart, and Ameliah within the safety of the main camp. Tallheart was already there, having left hours ago.
+
+Rain felt a bit guilty about how incredibly well-rested he felt, given that his friends had basically stayed up all night to watch over him. The soul-time factor was just a whisker below five now, thanks to his class upgrade. He’d been expecting that, hoping for it, even, but the reality hadn’t really hit him until he’d experienced it. Since third bell, five hours had passed in the real world, but for him, it had been closer to twenty-five. He’d slept twice, for nigh on eight hours each time, getting an impressive amount done in between. It was ridiculous, and it would only get more so. The long-term implications were mildly concerning, in fact.
+
+It was lonely in his soul, Dozer’s presence notwithstanding. Already, the math said he’d be leaving his friends for days of perceived time each night, and it would only grow worse if the factor continued to improve. It wasn’t like the obelisk. That had been a much higher acceleration, obviously, but it was also a one-off. This wasn’t. Over time, that difference in perceived time would add up, taking a mental toll if he wasn’t careful. Fortunately, he could exploit the effect as much or as little as he wanted. For now, there was no reason to hold back. He’d need to spend as much time inside as he could, just to keep up with his mana addiction.
+
+I can stop any time I want.
+
+Setting a marker, Rain triggered his second essence exchange of the day, focusing on his body. He felt nothing, not that he expected a reaction. His repairs had been quite extensive, and he was in considerably better condition than he’d been just a few real-time hours ago. The lack of screams further told him that if he’d had another blow-out, it hadn’t reached the camp. He didn’t get any flashes of Linksight either, but then, nobody would be in his party at the moment.
+
+Nodding to himself, he put his spirit-world status out of his mind, then summoned a progress report to display his real-world gains over breakfast.
+
+Progress Report
+
+marker_1: s2 [3061 Sowing 26 08:00]
+
+marker_2: s3 [3061 Sowing 26 08:43]
+
+Span: 43 minutes
+
+Character
+
+Total Exp: 2,036,416 -> 2,042,596 (+6,180)
+
+↳Stamina Use: 1
+
+↳Mana Use: 6,179
+
+Skills
+
+Aura Compression: +9 exp
+
+Aura IFF: +1,180 exp
+
+Aura Synergy: +288 exp
+
+Channel Mastery: +3,869 exp
+
+Detection: +105 exp
+
+Essence Well: +780 exp
+
+Extend Aura: +140 exp
+
+Intrinsic Clarity: +6,179 exp, 10 -> 11 (+1)
+
+Intrinsic Focus: +6,179 exp, 10 -> 11 (+1)
+
+Magical Synergy: +6,179 exp
+
+Mana Manipulation: +21 exp
+
+Purify: +75 exp
+
+Rain’s mouth quirked. Two skill levels. Just like that. Without even trying.
+
+With a thought, he summoned a pair of skill cards. He didn’t expect anything exciting to have happened with the two skills that had passed rank ten, but it was worth taking a second to look.
+
+Intrinsic Clarity (11/15) Exp: 2,155/5,600
+
+Multiply base mana regeneration by 320%
+
+Intrinsic Focus (11/15) Exp: 2,155/5,600
+
+Multiply base mana by 320%
+
+Nope. Just an extra twenty percent per level, same as it’s always been. Oh well.
+
+His eyes flicked back to the progress report, considering.
+
+Purify to clean up, Mana Manipulation for equipment upkeep, Detection to assuage his paranoia, and Essence Well to refill Ameliah’s mana.
+
+That was literally all I did. And I got two skill levels for it. Damn.
+
+Rain shook his head, reconsidering his usage of Essence Well. He’d asked Ameliah to top up his stamina, reversing his previous stance, but he hadn’t really needed to refill her mana in return. The threat of the Knives was distant now, an attack unlikely. Leaving her to regen on her own would have been fine. He’d just gotten in the habit of refilling her whenever she refilled him. Tit for tat and all that.
+
+Ah, well. It’s just a drop in the bucket.
+
+Banishing the windows, Rain slung his pack over his shoulders, bundled up the collapsed tent under one arm, then began walking toward the camp. As he picked his way through the trees, he opened up a relatively new display he’d developed.
+
+Experience Monitor
+
+Target
+
+Since Dawn
+
+Since EsEx
+
+50,000
+
+6,180
+
+0
+
+While it appeared simple, this panel was anything but. The system obstinately refused to tell Rain his pending experience, no matter how politely he asked. That hadn’t changed since he’d first tried months back, while trapped below Fel Sadanis. Fortunately, his more recent captivity in darkness—thrice-accursed palanquin—had left him with time to work the problem. It had taken a while to write tracking scripts for his skill usage and to puzzle out the formulas, but he had the memory of all of his past training dialogs to help him. The difficulty was that the rules for experience could be a bit...obtuse...particularly when it came to metamagic and passives.
+
+Rain chuckled, feeling sympathy for the supposed ancient Majistraal programmers. He was sure enough at this point that essence wasn’t a ‘system thing,’ not unless you counted it as a building block. Essence had existed before, whatever that meant. Experience was just the Majistraal’s attempt to quantify the unquantifiable.
+
+Stopping himself before he could get further lost in speculation, Rain looked at what the dialog was actually telling him.
+
+Okay. Fifty thousand experience. If I can stick to that, I won’t level until tomorrow. Also, I should probably deal with the distraction problem.
+
+Rain typed a few more commands to his interface, opening up an alarm function that he’d written to replace the native one he’d co-opted for other uses. He configured this new alarm to chime every half-hour, accompanied by a reminder panel, which he opened to customize.
+
+Self-Check Checklist
+
+Headache?
+
+Heartburn?
+
+Any other pain?
+
+Any problems focusing?
+
+Have you overdone it?
+
+Are you SURE you haven’t overdone it?
+
+You don’t want people to start saying “pulled a Rain” instead of “pulled a Val,” do you?
+
+Satisfied with the text, Rain dismissed the panel. He was trying not to let his friends see just how worried he was about potential side-effects from Engine of Change. He’d mentioned it, yes, but he’d undersold his fears. If the Clarity-fueled loopiness crept up on him, he might not even realize it, hence the auto-nag.
+
+Not being able to trust my own mind is...terrifying.
+
+Leaving the experience monitor hanging in the corner of his view, Rain looked down to see Tarny coming from the camp to meet him. Corrin was working nearby, directing a gaggle of shovel-wielding townsfolk. He was using Earthmolding to sculpt and solidify a wall inside the trench the workers were digging, using the excavated material. It was only a half-meter high, which seemed a bit pointless, really.
+
+Might be nice as a mental demarcation between camp and the wilderness, if nothing else. Or maybe Corrin just wants to work on his sync.
+
+“Good morning, Captain,” Tarny said as he came into comfortable speaking distance.
+
+“Hey, Tarny,” Rain replied, smiling and stopping with a wave.
+
+Tarny extended a hand. “I heard the details from Vanna. Congratulations.”
+
+“Thanks, Tarny,” Rain said, shaking the offered hand. He let go to gesture toward the camp, which was bustling with activity amid the stumps of trees. “How’re things here?”
+
+“Good enough,” Tarny replied, jerking his head vaguely in the direction of the piled logs. Sawing could be heard from the other side. “Shena’s already gotten started on the first cart, and we’re sending more axe teams out soon.”
+
+Rain smiled. “Any luck with the table saw design I gave you?”
+
+“Ellis made the blade last night, and Staavo is fiddling with it, trying to get it linked up to the steam engine.”
+
+“He need any help?”
+
+Tarny shook his head, smiling. “Yes, but he doesn’t want it.”
+
+Rain chuckled. “Sounds about right. Anything else going on?”
+
+Tarny raised a hand. “Before all that, do you want to make an announcement?”
+
+Rain arched an eyebrow behind his helmet. “About me getting to silver?”
+
+Tarny nodded.
+
+Rain considered, then shrugged. “It’s not a secret now that it’s done, but I don’t want to make a big deal about it. I’d rather just let word spread organically. Maybe put a notice on the board if you must. On that note, let me fill in anything Vanna didn’t tell you.”
+
+Rain gave Tarny the rundown. Dynamo was already in the class book, and he’d elected not to hide the fact that he’d gotten the legendary version. Anyone with sufficient motivation and a pair of brain cells to rub together would be able to work it out anyway. The name, though, he kept close to his chest, having told only Ameliah and Tallheart, with a request that they not repeat it. ‘Engine of Change’ could be perceived as inflammatory if you were, say, an established institution with a vested interest in the status quo. Rain liked the name—liked it a lot, in fact—but it had him wondering how the unthinking system had managed to pick something so appropriate. And not just in his case, either.
+
+Runic Powersmith? Uncertain Savior? Wielder of Deep Vengeance? On point, each time. Is it a decision tree, or what? Achievement based? Gah! Always more questions!
+
+After finishing his conversation with Tarny, Rain set about his normal morning routine. After finding a place to dump the collapsed tent, he did a count with Detection, verifying that everyone was accounted for, except those on patrol and out of range. That done, he began touring the camp, using Purify with a lower power setting such that the magic was barely visible. It nevertheless did wonders for fuzzy mouths, stained tunics, and noisome odors. As it turned out, there’d been more beer left than anyone had thought. Rain could do little about the hangovers, but Mereck and Tahir were on the job.
+
+During his leisurely stroll through camp, Rain took the time to chat. As news of his class evolution spread, he found himself occasionally mobbed, receiving congratulations from friends and strangers alike. Even one of the nobles came to pay his respects, Egen Urs, which was a bit of a surprise.
+
+Rain still hadn’t decided if the porcupine-shifter was truly the overconfident idiot that he seemed or merely a troll with an insufficiently-developed sense of self-preservation. Regardless, while he still liked to talk—‘I could have had him’ and other such nonsense—he wasn’t overly belligerent. In fact, he was now staying with Bens and his family in the Vestvallan segment of the camp, not with his father. The elder Urs was most unpleased by the situation, but Rain couldn’t be asked to give a shit about that asshole’s feelings as long as he wasn’t mistreating Jamus’s other questionably-biological children. The fact that two of the three had chosen to stay with Lord Urs was a touchy subject.
+
+Speaking of Jamus, when he came to congratulate Rain, the two of them got to talking, and Jamus mentioned wanting to talk about something in private. Infuriatingly, he wouldn’t say what, only that it wasn’t serious, just personal. He then shocked Rain by proposing that they meet up for a jog after lunch. Physical activity wasn’t entirely out of left field as an excuse for a private chat, especially since Jamus had a stat ring to get used to, but still. Jamus was in his forties and a mage, sporting the characteristic spindly legs, matchstick-arms, and aversion to physical labor that came with the territory. In any event, Rain had agreed to the jog happily, setting aside his curiosity and bidding Jamus farewell before seeking out Vanna.
+
+As expected, she had quite a list of things that needed his attention. First up on the docket was...debugging.
+
+Chuckling to himself, Rain left Vanna to her own duties and headed down into the dell where the stream was situated. Before long, his boots were sinking into the boggy muck, and it became abundantly clear why Vanna had rated this as top priority. Flies, mosquitoes, and tiny gnat-like insects descended upon him in droves, pinging off his armor like hail.
+
+Spring has come to the forest. Hooray.
+
+Rain came to a stop near the water, eyeing a lone barrel sitting on a sledge. It was half-full, clearly abandoned in total rout by the team Vanna had tasked with filling it. Swiping at the bugs trying to invade his visor, Rain decided he couldn’t blame them, then glanced at his experience monitor.
+
+Experience Monitor
+
+Target
+
+Since Dawn
+
+Since EsEx
+
+50,000
+
+8,297
+
+1,847
+
+Plenty left.
+
+He reached for Detection and ran a thorough scan for entities. Unsurprisingly, the area was completely deserted, with not even any animals nearby.
+
+What do these bugs eat when they can’t get Dynamo?
+
+Setting the question aside as yet another of life’s great mysteries, Rain triggered an essence exchange. As before, there was no pain. Smiling, he set a marker and called up a progress report.
+
+Progress Report
+
+marker_1: s3 [3061 Sowing 26 08:43]
+
+marker_2: s4 [3061 Sowing 26 09:59]
+
+Span: 1.3 hours
+
+Character
+
+Total Exp: 2,042,596 -> 2,044,713 (+2,117)
+
+↳Stamina Use: 2
+
+↳Mana Use: 2,115
+
+Skills
+
+Aura Focus: +240 exp
+
+Aura IFF: +180 exp
+
+Aura Synergy: +148 exp
+
+Channel Mastery: +510 exp
+
+Detection: +270 exp
+
+Extend Aura: +690 exp
+
+Intrinsic Clarity: +2,115 exp
+
+Intrinsic Focus: +2,115 exp
+
+Magical Synergy: +2,115 exp
+
+Purify: +225 exp
+
+After confirming his calculations, Rain noticed the time on the report and started running through his self-check, dismissing the alarm as it fired midway through. He passed the test with flying colors, his only discomfort coming from the bugs. Several had invaded his helmet and were crawling on his skin, trying to bite. With his Force Resistance, they would find him entirely proboscis-proof, but it was still distinctly unpleasant.
+
+Fortunately, as Detection had verified, there was no one around to be caught in the blast. He ran one more scan, just to be extra-super-double sure, then switched his macros into combat mode.
+
+No mercy for mosquitoes. Immolate!
+
+multi.sh: combat3
+
+synergy_rings.sh: Synergy rings activated
+
+focusboost.sh: 62 points shifted to Focus from secondary stats
+
+focusboost.sh: Focus: 147
+
+modmon.sh: Mods detected: ['extend aura', 'aura focus', 'aura compression']
+
+modmon.sh: Compression: 95 m
+
+Immolate (10/15) Exp: 0/4,600
+
+3434.00-3924.57 heat (fcs) damage per second to entities and environment
+
+Sufficient damage causes ignition
+
+Range: 100 meters
+
+Cost: 450 mp/s
+
+Rain counted, holding his breath. Immolate didn’t spread instantly, and it would take time for the air to heat sufficiently to exterminate everything within the full radius. Bugs were too small to count as entities and thus wouldn’t be targeted directly by the magic.
+
+...twenty-eight...twenty-nine...thirty. Refrigerate!
+
+multi.sh: combat3
+
+synergy_rings.sh: Synergy rings are already active
+
+focusboost.sh: Focus shift is already active
+
+focusboost.sh: Focus: 147
+
+modmon.sh: Mods detected: ['extend aura', 'aura focus', 'aura compression']
+
+modmon.sh: Compression: 85 m
+
+Refrigerate (10/15) Exp: 0/4,600
+
+3197.17-3653.91 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 110 meters
+
+Cost: 450 mp/s
+
+Rain gave it another thirty-count. He wasn’t overly worried about fire spreading beyond the soggy dell, but it was better to be safe than sorry. Refrigerate with an extra ten meters would take care of it. And for the ash...
+
+Purify!
+
+multi.sh: combat3
+
+synergy_rings.sh: Synergy rings are already active
+
+focusboost.sh: Skill: Purify is on the ignore list
+
+focusboost.sh: Focus: 147
+
+modmon.sh: Mods detected: ['extend aura', 'aura focus', 'aura compression']
+
+modmon.sh: Compression: 75 m
+
+Purify (10/15) Exp: 375/4,600
+
+Purify poison, corruption, and contamination
+
+Range: 120 meters
+
+Cost: 900 mp/min
+
+After just a five-count this time, it was over. Another macro window flashed open only to vanish a split second later.
+
+multi.sh: combat3
+
+restore.sh: Secondary stats restored
+
+restore.sh: Synergy rings disabled
+
+Rain’s senses faded back in, and he looked around at the devastation, releasing his held breath to inhale clean, crisp air. There hadn’t been many large trees in the dell, but there’d been plenty of woody, swamp-dwelling plants, green with spring growth. They had not fared well. The ground had been stripped bare, now bone dry and cracked beneath a thin layer of frost. The stream had survived, though it had likely been boiling before Refrigerate had cooled it back down. The dirt near its banks was already darkening as water seeped back into the thirsty earth.
+
+As for the few large trees that had been within the radius, only a few shattered chunks remained. They’d clearly exploded, doubtless from their sap flashing to steam. This wasn’t the Ashen Jungle, where the plants had been made of sterner stuff.
+
+And on the subject of ash, there was none to be found. Purify had seen to that. Nor was there fire. The layer of frost coating the ground had likely been steam, evaporated by Immolate only to freeze and fall when Refrigerate took over. A white ring surrounded the desolation, ice covering the foliage where the second aura had acted unopposed.
+
+Of the bugs, there was no sign.
+
+Rain glanced at his experience tracker.
+
+Experience Monitor
+
+Target
+
+Since Dawn
+
+Since EsEx
+
+50,000
+
+38,804
+
+30,507
+
+Do I get experience for the forest?
+
+Steeling himself, he pushed aside the irreverent thought, then triggered an essence exchange.
+
+Progress Report
+
+marker_1: s4 [3061 Sowing 26 09:59]
+
+marker_2: s5 [3061 Sowing 26 10:01]
+
+Span: 2 minutes
+
+Character
+
+Total Exp: 2,044,713 -> 2,075,220 (+30,507)
+
+↳Mana Use: 30,507
+
+Skills
+
+Aura Compression: +4,871 exp
+
+Aura Focus: +6,036 exp
+
+Aura Synergy: +4,068 exp
+
+Channel Mastery: +5 exp
+
+Detection: +22 exp
+
+Extend Aura: +6,036 exp, 10 -> 11 (+1)
+
+Immolate: +6,750 exp, 10 -> 11 (+1)
+
+Intrinsic Clarity: +25,130 exp, 11 -> 15 (+4)
+
+Intrinsic Focus: +25,130 exp, 11 -> 15 (+4)
+
+Magical Synergy: +30,507 exp, 10 -> 11 (+1)
+
+Purify: +37 exp
+
+Refrigerate: +6,750 exp, 10 -> 11 (+1)
+
+Guess not. Rain allowed himself a small smile, looking over the numbers. The pure skill usage adds up, so no bugs in my code. Or otherwise.
+
+He chuckled.
+
+Two minutes, two maxed skills. Let’s see here. Rings on, and...skills.
+
+Skills
+
+Aura Metamagic
+
+Tier 0
+
+Extend Aura (11/15) Exp: 2,287/5,600
+
+Extend aura range by 11 meters
+
+Multiply aura mana cost by 320%
+
+Amplify Aura (10/15) Exp: 61/4,600
+
+Multiply aura intensity by 200%
+
+Multiply aura mana cost by 300%
+
+Tier 1
+
+Aura Focus (10/15) Exp: 6,276/9,200
+
+Focus on an aura to boost its output
+
+Multiply aura intensity by 300%
+
+Multiply aura range by 300%
+
+Multiply aura mana cost by 300%
+
+User loses all external senses while focusing
+
+Aura Synergy (15/15) Exp: 4,558/9,200
+
+Increase all aura output by 1.5% for each rank in any aura
+
+Effective boost: 228.0%
+
+Tier 2
+
+Aura IFF (10/15) Exp: 1,480/18,400
+
+User may exempt entities from direct aura effects at will
+
+Selected entities receive 0.0% aura output
+
+Tier 3
+
+Aura Compression (10/15) Exp: 4,890/36,800
+
+Compress aura output, reducing range to boost intensity
+
+Increase intensity by 2% per meter of compression
+
+Defensive Auras
+
+Tier 1
+
+Arcane Ward (10/15) Exp: 0/9,200
+
+Increase arcane resistance by 98.4% for all entities
+
+Range: 32.8 meters
+
+Cost: 1 mp/dmg mitigated
+
+Chemical Ward (10/15) Exp: 0/9,200
+
+Increase chemical resistance by 98.4% for all entities
+
+Range: 32.8 meters
+
+Cost: 1 mp/dmg mitigated
+
+Mental Ward (10/15) Exp: 0/9,200
+
+Increase mental resistance by 98.4% for all entities
+
+Range: 32.8 meters
+
+Cost: 1 mp/dmg mitigated
+
+Tier 2
+
+Force Ward (10/15) Exp: 0/18,400
+
+Increase physical resistance by 98.4% for all entities
+
+Range: 32.8 meters
+
+Cost: 1 mp/dmg mitigated
+
+Tier 3
+
+Suppression (10/15) Exp: 0/36,800
+
+Increase mana costs for all entities by 467.4 mp (fcs)
+
+Range: 32.8 meters
+
+Cost: 10 mp/s
+
+Magical Utility
+
+Tier 0
+
+Intrinsic Clarity (15/15)
+
+Multiply base mana regeneration by 400%
+
+Intrinsic Focus (15/15)
+
+Multiply base mana by 400%
+
+Tier 1
+
+Channel Mastery (10/15) Exp: 4,564/9,200
+
+Allows intuitive control of channeled skill intensity
+
+Minimum skill intensity: 0%
+
+Maximum skill intensity: 200%
+
+Skill mana cost modified by intensity adjustment
+
+Mana Manipulation (10/15) Exp: 21/9,200
+
+Allows internal control of mana
+
+Allows expulsion of mana to environment
+
+Allows transfer of mana to and from capacitive items with direct contact
+
+Maximum transfer rate 2700.0 mp/s (fcs)
+
+Tier 2
+
+Magical Synergy (11/15) Exp: 20,977/22,400
+
+Enables limited synergistic cross-coupling of magical attributes
+
+27.5% of Focus contributes to mana regen
+
+27.5% of Clarity contributes to mana
+
+Offensive Auras
+
+Tier 0
+
+Immolate (11/15) Exp: 2,150/5,600
+
+359.90-411.31 heat (fcs) damage per second to entities and environment
+
+Sufficient damage causes ignition
+
+Range: 36.1 meters
+
+Cost: 55 mp/s
+
+Refrigerate (11/15) Exp: 2,150/5,600
+
+359.90-411.31 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 36.1 meters
+
+Cost: 55 mp/s
+
+Tier 1
+
+Radiance (10/15) Exp: 0/9,200
+
+327.18-373.92 light (fcs) damage per second to entities
+
+Brightens environment (fcs)
+
+Range: 32.8 meters
+
+Cost: 50 mp/s
+
+Shroud (10/15) Exp: 0/9,200
+
+327.18-373.92 dark (fcs) damage per second to entities
+
+Darkens environment (fcs)
+
+Range: 32.8 meters
+
+Cost: 50 mp/s
+
+Tier 2
+
+Fulmination (10/15) Exp: 0/18,400
+
+327.18-373.92 arcane (fcs) damage per second to entities and environment
+
+Sufficient damage causes paralysis
+
+Range: 32.8 meters
+
+Cost: 50 mp/s
+
+Utility Auras
+
+Tier 0
+
+Purify (10/15) Exp: 412/4,600
+
+Purify poison, corruption, and contamination
+
+Range: 32.8 meters
+
+Cost: 100 mp/min
+
+Winter (10/15) Exp: 4/4,600
+
+Boost M.Regen by 328% for all entities
+
+Range: 32.8 meters
+
+Cost: 10 mp/hr
+
+Tier 1
+
+Essence Well (10/15) Exp: 780/9,200
+
+Transfer mana to all entities within range, including user
+
+Transfer Rate: 32.8 mp/s
+
+Efficiency: 20%
+
+Range: 32.8 meters
+
+Detection (10/15) Exp: 502/9,200
+
+Sense selected items of interest
+
+Not occluded by mundane materials
+
+Resolution: 0.92 mm
+
+Range: 32.8 meters
+
+Cost: 10 mp/s
+
+Velocity (10/15) Exp: 0/9,200
+
+328.00% boost to speed for all entities
+
+Range: 32.8 meters
+
+Cost: 10 mp/s
+
+Free Skill Points: 1
+
+A distant shout made Rain look up to see Kettel crashing out of the frozen underbrush at the edge of the ring. Rain could see the flame-haired youth’s slack-jawed expression even from this distance. To his credit, he recovered quickly, releasing an excited whoop and waving both hands over his head. Lowering his arms to his mouth, he called out, his excited tone carrying clearly across the barren landscape. “Fuck yeah! Go Death Zone!”
+
+Ah, shit.

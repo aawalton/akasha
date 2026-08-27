@@ -1,0 +1,173 @@
+---
+id: 0b6bc362-f201-51c1-b4ad-c972203a727f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,411 - Servants"
+slug: 0090-chapter-1411-servants
+partOf: defiance-of-the-fall
+position: 90
+ownLength: 3348
+unit: words
+publishedAt: 2026-03-19
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3170297/chapter-1411-servants"
+royalRoadId: "3170297"
+---
+
+While falling short compared to the previous realms, they still walked away with a respectable haul from the Ninth Garden. Ogras had extracted various Life-attuned materials from the spirits he slaughtered, some of which held ample essence blood and bestial intent—prime materials to feed Verun.
+
+The real prize was the coral organs responsible for filtering out blood essence. The wiry tendons had accumulated an extraordinarily dense spirituality from millennia of absorbing blood. While difficult to assign a grade to, Zac estimated them to be equivalent to Peak Quality Middle D-grade Natural Treasures. When combining the dozens of tendons per mouth, they could match a Late D-grade treasure.
+
+The organs could be used for anything from beastcrafting to body tempering because of their intense Life-attuned Fiend Energy, but there was an even better option available. Haro was extremely interested, to the point that the Skyrender Vine finally woke up from his slumber. It had been a struggle to keep Haro’s Worldring sealed and protect him from the Emergent Pool’s aura.
+
+Zac was hesitant about directly feeding his companion the tendons without treating them first, but doing so could make them worthless. In some sense, it was the condensed power of the Emergent Pool Zac was after, where allowing the Skyrender Vine to consume the tendons could potentially trigger a beneficial mutation.
+
+Spiritual plants naturally grew much slower than beasts, let alone cultivators. Haro was already progressing at a frantic pace thanks to observing Zac’s Daos through [Adaptive Symbiosis] and a steady diet of corpses and Natural Treasures. Still, it wasn’t enough to keep up, and there were fewer venues to make up the difference compared to his Spirit Tools.
+
+Having Haro take on some of the Ninth Garden’s nature could help him advance faster by devouring his enemies, and the tendons themselves were extremely efficient at absorbing Blood Essence. The key was to avoid causing any unwanted mutations while extracting more value from the corpses Haro fed on.
+
+Taking on traits of the Ninth Garden would inevitably lead to a hit to Haro’s longevity even if it worked, but the future Plant Emperor had plenty to spare. Most importantly, Haro could make up for the loss by advancing to higher grades. Zac couldn’t make that decision for Haro, though he suspected the vine would gladly accept that trade. Haro had never forgotten Vivi’s death and the price of weakness.
+
+Judging by the gradual dissipation of spirituality, Zac had a few months to make a decision. With seven more gardens to visit before they reached the Hollow Court, there could be better opportunities waiting for them—perhaps even items that would complement the tendons when absorbed together.
+
+Before that, Zac and his companions had no choice but to undergo the painful procedure of excising all mutated parts that had appeared within their bodies. If left alone, they’d spread tumors. While one side was busy tormenting themselves, Zac’s other half had finally returned to Citadel’s outer regions in the Mercurial Court.
+
+The Peregrine Archipelago and its islands of untapped potential were left for others to explore. Zac and Esmeralda were navigating unfamiliar ruins, looking for opportunities while waiting for the right memory wind to come along. Sevona’s lodge had given Esmeralda an unexpected boon. By harmonizing her Dao of Space with the remnant fluctuations of Sevona’s divinity, Esmeralda could discern certain hidden pathways even from the outside.
+
+“That one should take us close,” Esmeralda pointed at a memory wind a few dozen miles away.
+
+The two rushed forth before the wind could change position. While Esmeralda could see a path now, there was no guarantee it would remain if they took too long. The chorus of illusory hawkers greeted them as they stepped into the past, and Zac spotted a few real disciples in the crowd of conjured townspeople.
+
+The boisterous scene was comforting. There was no urgency among the Outer Disciples as they walked the streets of Citadel. While Zac inwardly felt they should be struggling a bit harder, seizing opportunities before it was too late, the scene confirmed that the threat of the corrupted invaders remained limited in scope.
+
+“This way,” Esmeralda said, leading him down the trade street until they reached a tavern.
+
+They continued up to the second floor after paying a fee of 3 Potentiality to book a room for the night. Zac only took a cursory glance at the simple room as he closed the door behind them. It was filthy, but they thankfully weren’t there to sleep. Esmeralda indicated for Zac to wait ten seconds before nodding at the door.
+
+It took so much brute force to open the door that Zac feared the whole tavern would collapse. When it finally gave way, there was only a black film on the other side. It was just like the barrel that took them to the Scripture hall, only stepping through brought them to a familiar street. Zac walked through a silent neighborhood of secluded manors until reaching his own.
+
+Zac and Esmeralda had already drafted a rough plan for their trip back. They weren’t in a hurry to upgrade his status to an Inner Disciple. There were plenty of regions that, like the Peregrine Archipelago, were only accessible to Outer Disciples. Zac also had two fated opportunities marked on his Disciple Token. Since the opportunities and cultivation regions aimed at Inner Disciples mainly targeted Monarchs, it was better to stay an Outer Disciple a while longer.
+
+They wanted to figure out the current situation of the Mercurial Court before setting out again. No new halos had ignited since the previous three, but a decent amount of time should have passed on the inside. As luck would have it, Zac knew precisely who to ask. There were still a few people in the residential district Zac had been dying to meet.
+
+“Master Draom, you’re here.” A scholarly-looking man with gold-rimmed glasses quickly got to his feet upon seeing Zac step inside.
+
+The man had been studying an ancient-looking cultivation text under the shade of the eaves for quite some time, judging by the light layer of dust on his knees.
+
+“And you are?” Zac asked, despite already knowing the answer.
+
+While he looked more refined than expected, there was no mistaking the understated markings of wealth and the calculative gleam hiding behind his visage of nobility. This was a merchant.
+
+“I’m Yimin An of Great An Merchant Troupe,” the young man said with a bow. “Once more, we’d like to extend our heartfelt gratitude for presenting us with this opportunity.”
+
+“Well, I didn’t do it for free,” Zac said in a pointed tone. “Do you have my—"
+
+Zac was interrupted by the door to the inner manor opening, from which two distinctly different men emerged. One was large enough to give Billy a run for his money, and he emitted the steady aura of someone who’d seen plenty of battle. Wearing a Servant Disciple’s robe couldn’t hide the fact that he was an elite soldier. Zac had expected as much, though he imperceptibly frowned upon noting a familiar crest attached to his belt.
+
+The soldier Zac met in Astora’s courtyard wore the same thing, the very soldier whose corpse Descartes had thrown out to feed the lodge. While the corpses were only illusions acting as symbolic offerings to conclude the hunt, the Enforment hall did confirm that Anton Eilin died on the island. Zac had nothing to do with his death, but having a second member of the Arcana Phalanx pop up as his attendant smelled like trouble.
+
+The last man was thin and wiry, and he barely reached Zac’s shoulders. At the same time, he unconsciously exuded a mental pressure that made him seem much larger. Sensing the pressure on his mind and Dao Heart triggered one of Everit Draom’s memories. The pressure probably wasn’t intentional.
+
+It was a side effect of one of the Imperial Magistrate’s cultivation manuals. Only when perfected would the user be able to control themselves. Even then, most didn’t bother, as it was the manual of the Magistrate’s interrogators—or torturers, as they would be called in civilized society. While people like Everit were responsible for tracking down criminals, the interrogators were responsible for extracting answers from heretics and hardened cultivators alike.
+
+“—stuff?" Zac finished his previous sentence. “Good, you’re all here. Makes things easier for me.”
+
+The soldier expressionlessly took out a small chest from a satchel, while the merchant produced an embroidered pouch from a sleeve. Zac would have expected some complaining from Everit’s colleague, but he handed over the promised payment without complaint. While he looked gloomy, that was likely his natural countenance.
+
+Zac gleefully accepted the containers without pretense. This was the main reason he had come back in the first place. He had never forgotten that the real payment for selling his attendant spots waited to be handed over. Zac knew he would be running back and forth preparing for his Peak D-grade breakthrough after this, and there was no telling what would happen after they stole [Second Singularity]. Adding any other variables that would crop up, this could be his only chance to collect.
+
+His heart thumped with anticipation as he opened the chest. The payment from the Imperial Army was a piece of copper that emitted such a violent aura that Zac’s eyes teared up from looking at it. And that was despite a golden script keeping the item sealed, much like the [Fuxi Mountain Gate]. Zac nodded in satisfaction at seeing the Imperial Army wasn’t cutting corners.
+
+Sealing C-grade items so that they could be stored in Spatial Tools was a pain and a half, according to Esmeralda, which was why she carried the ones he’d collected thus far. Kristvan Wendimar had imparted a C-grade flower to his daughter, yet his seal only lasted a few hours before it started to unravel the spatial pocket hidden within the Wendimar Clan’s token.
+
+The seal on the Conflict-attuned treasure could probably last a decade without issue, though leaving a C-grade item sealed that long wasn’t a good idea. Staying in a sealed state would slowly damage its spirituality, so such methods were rarely used. C-grade items and higher were either left in an Elder’s Inner World or a treasury with Nurturing Arrays until it was time to redeem them.
+
+C-grade Spatial Tools were also an option, except what would be the point? Only Monarchs could activate C-grade Spatial Tools, and they had Inner Worlds to keep the items secure. C-grade Spatial Rings were mostly used when dealing with massive artifacts or bulk trades.
+
+“How long was I gone? This place has a tendency to mess with one’s perceptions,” Zac asked as he continued to the next container.
+
+The interrogator had brought a rock that seemed completely free from attunement, though it was more accurate to say it held an even spread of spirituality to match the Cosmos. It looked unremarkable at first glance, but looking at it almost made Zac’s knee buckle from an intangible weight.
+
+While unattuned and outwardly unimpressive, the item was actually worth more than the Conflict-attuned treasure. Esmeralda had preyed on the Imperial Magistrate’s pride. While they couldn’t outbid the outrageously wealthy merchants of Great An, they’d be caught dead before being outdone by the army when competing for a slot.
+
+The stone was a supporting item that could improve the result when stepping into Monarchy. Placing the stone inside one’s newly formed world would add additional weight, creating a stronger pull on the Cosmic Sea. Any Cultivator would be willing to use it, and it was exponentially more valuable for a Mortal. The caveat was that one needed a stable enough proto-space to house it, and that was what Kristvan Wendimar’s Spatial Flower was for.
+
+“Forty-two months have passed since your heroic feats in the Peregrine Archipelago,” Yimin An said.
+
+“I wasted that much time in seclusion, huh? I’ll have to work harder to catch up,” Zac muttered before looking at the Great An Merchant with a raised brow.
+
+“I’d be most grateful if the young master would indulge me with a private meeting,” the Merchant said with a refreshing smile that held absolutely no emotion.
+
+“Hard to say no when you put things like that,” Zac said with an equally fake grin as he led the merchant to a side building.
+
+Beyond the promised C-grade Death-attuned item, there were twelve Peak D-grade Natural Treasures neatly arranged in the pouch—four matching each of his Daos. The items were top-notch and suitable for core formation, and they weren’t part of the original agreement. The guild had done their homework since they seemed to know exactly what he needed. They’d probably investigated what items he traded for in the bazaar.
+
+Since there was no way a mercantile clan would give away money without reason, the Great An wanted something from him. Zac was more than happy to oblige. His three attendants represented factions with deep coffers, and part of the reason he came back was to see if there was some way to extract more benefits. The items he needed could undoubtedly be bought at the markets, but any item he got from the trio was Potentiality or Imperial Merit saved.
+
+“That’s it?” Zac asked a minute later. “You just need me to mention your consortia in front of the princess? Not seal an agreement or something?”
+
+“A mention is all my elders ask for,” Yimin confirmed.
+
+“Astora’s stock must have gone up after the Belial descendant got himself killed. And when she rises within her clan, she might need helpers who aren’t too embroiled in the political scene or other branches of her family,” Zac mused as he observed Yimin’s reaction. “At that point, she might remember my words—the words of someone who helped secure her position.”
+
+“The Matriarch simply wished to extend an olive branch after witnessing Princess Theomore’s valiant leadership at Transformation Docks,” Yimin said.
+
+“Fine, I’ll mention Great An next time we meet,” Zac promised.
+
+The other two attendants were still hanging around when Zac returned. “I forgot, who were you again?”
+
+“Doklos, Arcana Phalanx,” the soldier said, confirming Zac’s guess.
+
+“Severus,” the wiry information extractor said. “We also need a word.”
+
+Zac thickened his skin and adopted a troubled expression. “Certainly, if the stars align. My schedule is quite full, and our time here is limited.”
+
+The soldier scoffed, but he clearly wasn’t one of the rigid soldiers governed by rules and honor. He took out another pouch that contained two Peak D-grade Natural Treasures steeped in conflict. The offering paled compared to the merchant’s, but his ask was also quite simple.
+
+The soldier mainly wanted clarifying information about what happened to his comrade on Sevona’s island. Zac shared what he knew, which wasn’t much. He neither saw Anton Eilin during his travels in the archipelago nor on Sevona’s island. Zac didn’t even know he’d been a participant in the hunt before seeing the corpse.
+
+In addition, Doklos asked for insights into the invaders, and he purchased Zac’s Signet Ring for another Natural Treasure. It was a great trade for Zac, who no longer needed his identity as a member of the Explorer Guild. The conflict-attuned materials provided by the Imperial Army were top-notch, while his Dao of Conflict was the hardest to source materials for.
+
+“Well?” Zac said after turning to the final attendant.
+
+“Sorry, I don’t have a bribe,” the interrogator said before tossing over an Information Jade. “I figured this was more up your alley anyhow.”
+
+“What’s more up my alley than free money?” Zac scoffed before scanning the contents. “Huh. Bounties?”
+
+“A few Sealbearers decided to take advantage of the chaos at Transformation Docks to enrich themselves,” Severus said, his eyes burning with anger.
+
+“If this is about me making a few—”
+
+“Not like you. You may have pushed the envelope, but you acted within the law. These scum murdered fellow Sealbearers or joined the invaders in slaughtering families in the Transformation Docks. They thought they could hide their actions or pin them on their doppelgangers, but they overestimated their abilities,” Severus said.
+
+“The Mercurial Court has decided not to interfere, citing that the crimes were committed outside their domain. They believe each Sealbearer is a carrier of destiny, so they will let fate take its course. Nevertheless, the Magistrate will use these criminals to make a statement that no one is above the law.”
+
+“Since when?” Doklos scoffed.
+
+Severus gave the soldier a scathing look before continuing. “Duke Grand Dream has granted us permission to perform our duty within Citadel. There are five targets. If you can bring two of them to justice, we’ll provide the item you originally wanted.”
+
+“Really?” Zac said, his eyes growing heated as he stared at the Information Jade.
+
+It wasn’t hard to figure out which item Severus was referring to. Since Great An and the army had provided C-grade Treasures of Death and Conflict respectively, Zac had tried to get a Life-attuned item from the Imperial Magistrate. They’d rejected him since Everit Draom had never shown any inclination toward the Dao of Life, instead providing the supportive C-grade treasure.
+
+“Have they arrived already? How do I cash in the bounties?” Zac asked.
+
+C-grade treasures suitable for Inner Worlds were much rarer than items that could be used in core formations. Their requirements were extremely stringent since even Mortals mostly relied on drawing matter from the Cosmic Sea when forming their Inner Worlds. Zac had no idea where to even begin to look for such an item after leaving the trial, so getting his hands on it now and completing the kit would be a godsend.
+
+Especially when the mission was so easy. Only one of the five listed targets made Zac wary. He was confident in taking out the other four without much issue.
+
+“Three are confirmed to have appeared in the merit hall, but their current whereabouts are unknown,” Severus said, glancing at the soldier. “You should know that you’re not the only one qualified to bring them to justice. Princess Theomore and her attendants are authorized, as is the Imperial Army.”
+
+“You know my track record. How about a down payment?” Zac grinned.
+
+“I don’t have the item. It’s with a senior who’s managing a stall in the market. You can bring their heads directly to her if you complete the mission,” the interrogator said, adding with a sinister gleam in his eyes, “You can probably get a bonus if you bring them in alive.”
+
+“I’ll keep my eyes peeled,” Zac promised.
+
+Zac spent the next few minutes getting an update on the comings and goings of the Mercurial Court. There was not much to say. Things had calmed down after a few months of covert clashes between invaders and merit-starved disciples. The threat wasn’t completely dealt with, but the invaders had gone deeper underground.
+
+One unexpected tidbit was that the Peregrine Ocean had calmed down. For one, it allowed Inner Disciples to delve deeper into its shallows in search of opportunities. Secondly, it apparently made the crossing smoother for the remaining Sealbearers. Only five years had passed, and there were already over a hundred confirmed Sealbearers on the island.
+
+Zac didn’t envy them. While dangerous, the crossing had come with tremendous benefits. Cutting that journey short would definitely lead to lesser rewards. Unfortunately, there were still no signs of Janos, or of Kaltosa Lu for that matter. However, someone was clearly looking for him since there was a bounty out for anyone matching the Centigrade Elemental’s description. Zac guessed it was Astora looking for the [Fateseizer Seal] without making any large waves.
+
+“Anyway, I won’t be back here much for the rest of our stay,” Zac said when he had all the information he needed. “There’s too much good stuff in this place to stay holed up. You can stay here or leave as you wish. I don’t have any arrangements or orders for you all. With this, our Karma is concluded.”
+
+Free of entanglements and with bulging pockets, Zac left without another word.

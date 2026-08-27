@@ -1,0 +1,163 @@
+---
+id: b80908f8-8f97-56f7-866e-091c9ef5ebd2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,350 - Circle of Life"
+slug: 0026-chapter-1350-circle-of-life
+partOf: defiance-of-the-fall
+position: 26
+ownLength: 3203
+unit: words
+publishedAt: 2025-09-07
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2582142/chapter-1350-circle-of-life"
+royalRoadId: "2582142"
+---
+
+The activity on Greenworth Trade Street acted as white noise while Zac worked on the figurine in his hands. He was sitting in the shade by his store’s entrance, which had become a common occurrence. Anytime Zac wasn’t working on a commission or private project, he liked having the city noise wash over him. Sometimes, he’d take his carving kit to another part of Whitfall. The store didn’t need watching ever since he changed opening hours to appointment only.
+
+The clamor followed a set of patterns. Zac knew that the old cobbler across the street would emerge to smoke his pipe and watch the clouds in around five minutes. Ten minutes later, the hawkers selling lunches from rolling carts would descend on trade street with near-military precision. Every day was a life.
+
+It began with merchants getting things ready at the crack of dawn. It ended long after sundown with family businesses preparing for tomorrow under candlelight. One by one, the lights would go out in the night until darkness reigned. Each day, the wheel turned, moving forward yet standing still.
+
+There was some chaos hidden in the order. There’d be a few new faces every day, each introducing unique variations to the familiar scenes. Like Zac, they became agents of change, though few were fated to elicit anything but small, temporary ripples. The creak from Zac’s left was another variable. Looking over, Zac saw Beene and Helisent emerge and hang the closed sign on their door.
+
+It was spring, and the two rarely had the time to take a walk in the middle of the day. If they weren’t busy managing the shop, they were in the countryside negotiating with farmers or overseeing their plant nursery.
+
+The slightly hunched-over seed salesman was a stark reminder of another agent of change—time and its unrelenting march forward. Beene’s back had grown somewhat stooped, and his graying hairline had receded all the way to the back of his head. While only fifty-five, life had left an intense mark on Beene Peck. His recent change of fortune couldn’t undo decades of stress and malnutrition.
+
+Zac had also come to understand that the lower density of Cosmic Energy wasn’t the only reason for the low cultivation in the shallows. There was significantly more Earthly Taint, which made progress nearly impossible. Even for mortals like Beene, it was like living in a city covered in smog.
+
+If Beene represented life’s decline, then Helisent was a flower in bloom. The inquisitive child had grown into a graceful woman, though the life of a celestial goddess wasn’t for her. Zac had long since confirmed she wasn’t fated with the Dao. A mortal by the System’s standards and without its assistance, Helisent would need a decade of hard work to reach level five.
+
+Practicing one of the top-tier manuals in Everit’s memories wouldn’t make a difference, and sacrificing a significant chunk of her life for such meager gains simply wasn’t worth it. Not that Helisent had expected anything. Working-class children in these mortal cities grew up quickly. There was no time to dream about cultivation when they needed to help the family.
+
+The curious yearning Zac had seen in Helisent’s eyes when he shared morsels of knowledge from the cultivation world had been replaced by steady responsibility. Her older sister had moved out shortly before Zac arrived to live with her husband, and it came upon Helisent to take over the budding seed empire. Beene once confided in Zac it wasn’t the original plan. He’d planned to sell the shop and retire on his modest savings after Helisent followed in her sister’s footsteps.
+
+Time’s passage was far more noticeable in the mortal realm compared to what Zac had grown accustomed to. The lifespan of those in his surroundings had skyrocketed since the integration, but he hadn’t realized how his vantage had changed with it. In many ways, he felt like the same person as before the integration.
+
+Mortal life on Greenworth Trade Street brought continuous inspiration. Zac could understand why so many cultivators chose to return to simplicity this way upon reaching bottlenecks in their cultivation. Zac put down his small carving upon realizing the two were coming over.
+
+Smiling, he asked. “Would the two of you like to come in for a cup of tea?”
+
+“I’m afraid we can’t. We have much to do today. We simply wanted to deliver the good news,” Beene answered with a toothy grin.
+
+“Oh?”
+
+“I’m getting married,” Helisent said with a slight blush.
+
+“Married? You’re just a child,” Zac blurted.
+
+“Only you would think that, uncle. I’m twenty-four, nearly a spinster,” Helisent laughed. “I sometimes wonder if you’re an old man in disguise.”
+
+Zac scratched his chin. She was technically right. Adding the years in this dreamworld and his time in spatial chambers, Zac could indeed be considered an old man by now.
+
+“I know, I know. It still feels like yesterday you were running around the store clamoring for me to tell you stories,” Zac laughed.
+
+“Where did the time go?” Beene sighed in agreement.
+
+Fifteen years, nearly sixteen if you counted the year time Zac spent traveling before renting the store at Greenworth. It was sometimes hard to take in so much time had passed. Well, his current form certainly helped. Time might not have left as strong a mark on him as on Beene, but the signs were undeniably there. Feeling death creep closer was both a novel and alarming experience for someone who should have eons of lifespan remaining.
+
+Zac pushed away the maudlin thoughts. “Is it that flustered chap you brought over the other day?”
+
+“Petryk, yes,” Helisent smiled.
+
+“It’s a good boy. Earnest and hardworking,” Beene said with a satisfied nod. “He’s got little in the way of close kin, so he’s marrying into the family. He’ll help Helisent run things when I’m gone.”
+
+“You’re talking like you got one foot in the grave since you sprained your ankle,” Helisent rolled her eyes before turning back to Zac. “Uncle, what about you? You’re not getting younger, either. I know Jansa is interested. She’s pretty and clever.”
+
+“I’m in no hurry to get married. I still want to focus on my crafts,” Zac rejected like he had many times before.
+
+“What a waste. I thought you were getting ready to settle down now that you’ve stopped running off every month,” Helisent shook her head. “Well, let me know if you change your mind. If Jansa isn’t a a good match, I still have a few friends who’d be willing. Your ripe old age is becoming an issue, but that’s nothing good looks and even better prospects can’t overcome.”
+
+“Go deal with your wedding, girl,” Zac sighed.
+
+“It’s the next month,” Helisent said. “I’m expecting a nice carving as a present.”
+
+“Fine, fine.”
+
+Zac remained in his rocking chair a while longer, watching the father and daughter go from door to door to announce the news and invite the neighbors to the celebration. It was only two weeks before he was part of the funerary procession for the Widow Misa down the street. Greenworth Trade Street was truly a microcosm of Life and Death.
+
+Fifteen years, and still no way of escaping the illusion.
+
+Zac had tried everything. He’d traveled far and wide in search of destiny, going far beyond the bounds of any memory domain he’d visited. Zac had explored the capitals where E-grade cultivators were plentiful, learning that this patch of the shallows was called the Great Yan. He’d repeatedly ventured deep into the Whitmont Forest, nearly dying ten times over.
+
+There was nothing. Apart from the occasional disturbance, Great Yan was like a world separated from the grand events of the Outer Courts and the Imperial Road. Most people in Whitfall hadn’t even heard of the Limitless Empire. They just lived their lives, following in the footsteps of their parents like Helisent. If escaping the illusion was tied to a specific event, then Zac had probably long missed it.
+
+Zac eventually changed focus to restoring his cultivation. Outwardly, he had nothing to show for his efforts. His soul and Cosmic Core looked the same as when he stepped into Everit’s shoes. They might even be worse, the pieces having settled in their broken state. If restoring his cultivation was possible after all these years, it’d require treasures well out of reach of a mortal like him.
+
+The Void and his other abilities were still out of reach. It had also proven impossible to work on the theoretical aspects of his cultivation. There were blueprints to be deduced and manuals to be improved. All that was impossible without a cultivator’s mind to crunch the millions of interdependent fractals and pathways. He had all the time in the world and no way to take advantage. Having his progress grind to a halt had left him incredibly frustrated.
+
+Ironically, it was stopping and letting go that finally showed him a path forward.
+
+Zac stepped into his store and locked the doors behind him before. He walked past the empty displays and entered the workshop in the back. Dozens of half-finished carvings and blocks of wood were lying around without any apparent order. Only the row of carefully maintained artisanal axes was arranged in neat order on his worktable.
+
+Without giving it much thought, Zac picked up one of the half-finished sculptures. It showed the beginnings of a mountain range, but a mistake had left a blemish on the slope. Another artisan might think Zac had put the statue aside until he could envision another shape hidden in the wood. The truth was more mysterious.
+
+Zac willed it, and the half-finished block suddenly transformed. No longer the outline of a mountain range, the carving had turned into two eastern dragons coiled in battle. It was nearly finished, and every part was chiseled with meticulous care. Each scale seemed to hold a world of meaning. One moment, the grappling beasts looked like avatars of War.
+
+Their eyes radiated bone-chilling Killing Intent, and their claws were as sharp as divine swords. Some of the local hunters would probably be scared to death if they faced the stare unprepared. The next second, the oppressive feeling of carnage disappeared. The golden dragon had instead become a representation of Life, while his counterpart was the manifestation of Death.
+
+Their battle represented the cycle of rebirth that stood at the center of his path, and the air trembled from the trapped spirituality. If placed next to the similar piece he’d sold during Atwood Carvings’ opening, people would think Zac had been selling fakes all this time. They’d be right in some way. Zac had always been careful about maintaining a reasonable level of spirituality in the pieces he sold to the public.
+
+His statues had slightly improved over the years, but they still weren’t something that would attract E-grade cultivators. Meanwhile, even Hegemons would be able to find inspiration in the piece before him. Part of it could be explained by his craft advancing through ceaseless practice. However, the real reason was related to the mysteries of the Heart.
+
+Everit’s soul and core had been crippled, but he’d held onto his Dao. Until Zac took over, he’d never faltered in his search for a remedy. In some ways, Everit’s Dao Heart had even grown stronger. There’d obviously been some problems and obsessions in the depths of Everit’s Heart before, and walking the mortal world helped temper his temper.
+
+Zac didn’t know whether this trial was originally meant for him or Everit, and it didn’t really matter. The Heart was the key to reaching the Mercurial Court, and there were already some results. Zac had by no means become a Heart Cultivator. He couldn’t. Just like how Vilari needed Miasma despite being a mentalist, a Heart Cultivator still needed energy and a working soul.
+
+Hiding his carvings couldn’t be considered a skill. It was only made possible by Zac communicating his intention as he carved out the shapes. It affected the wood’s spirituality, so it was more accurate to say it was the statue’s ability rather than his. He was still a mortal with the same combat abilities as when he arrived.
+
+Even this much was a comfort after years of setbacks. This wasn’t something he could do before, even if he poured his Daos and energies into his carvings. In fact, possessing all that power probably was a hindrance in pursuing this stage. How was one supposed to hear the wood’s whisper over the churning roar of their cultivation?
+
+Zac also had a feeling that this illusory world was more malleable than reality, which by itself was a clue. Right now, he could awaken a carving after a week of effort. A few years back, it took over a month.
+
+Then again, Zac couldn’t stop even if he wanted to. His carvings were the only thing that kept him from being washed away. Spending years inside Everit’s body with a complete set of his memories was different from briefly borrowing their identity. It was like Zac’s soul was a transplanted organ being rejected by the body.
+
+The rejection grew more intense by the year. It was still manageable, but there was no telling how long Zac would be stuck here. Seeing his slightly decelerated aging, Zac could probably live for another eighty years. By then, he would have spent nearly twice as long in this world as on the outside, and his real life would seem like a distant dream. Without a sturdy heart, how was he supposed to hold on?
+
+Zac shook his head. He understood that this way of nurturing the Heart was different from following a Heart Nurturing Manual. Actively striving for progress was more likely to set you back. He needed to embrace the mortal Heart and comprehend Life and Death through it.
+
+“Maybe this one is a bit much,” Zac mused and put it down.
+
+Possessing a wisp of spirituality, the statue could act as a guardian to Helisent and her family. Any intruder would be filled with unease upon drawing close. It wasn’t enough to deal with determined cultivators, but mortal robbers and assassins would lose most of their strength in its presence. However, his craft was far from perfect. It was fine if his Dao of Life occasionally leaked, but the other two could be harmful—especially when Helisent had a child.
+
+“I guess I’m making a new one,” Zac said as he walked over to the raw blocks in the back.
+
+He was suddenly full of inspiration as he thought of the little girl who came over to play while her dad worked. Of the gangly adolescent who tried to help man his counter despite shaking in the presence of the rough-looking hunters. Of the young woman who’d become a capable merchant after years of hands-on experience, who now was about to enter the next chapter of her life.
+
+Zac had given Helisent many pieces over the years, but this one needed to be special. His troubles faded into a distant murmur, replaced by compositions and ideas. A walnut-colored piece in the corner resonated with his current state, and Zac’s smile widened. He’d eventually see the light so long as he kept walking forward with conviction and determination.
+
+Even if a path didn’t exist, he’d open one in his Heart.
+
+----------------
+
+The final routes were drawn, and the trembling mesh of pathways immediately stabilized. Exhaling, Zac brought the Skill Fractal into his body, where it settled in its old position. Successfully upgrading [Conformation of Supremacy] to Late Mastery meant having another combat form and another tool in his belt.
+
+His gnawing anxiety made it hard to cherish the achievement. [Conformation of Supremacy] was quite a complex skill, and he’d been forced to pour all his care and attention into the upgrade. Now that he was done, the unwelcome thoughts came creeping back stronger than ever. After all, his self-imposed deadline would arrive within the day.
+
+Nearly a week had passed since receiving his Draugr half’s urgent message. There was no update and no other clues to draw from. Zac could normally get a hint of what his other half was up to, even while they were inside a memory. They still shared a Soul and Cosmic Core, so he could sense when his other side cultivated or fought.
+
+There’d been none of that since they embarked on the [Peregrine Gondola]. If his strength didn’t remain intact, Zac would have assumed he’d truly entered another Temporal River. More likely, they were trapped in an extraordinarily powerful illusion. Understanding that didn’t change anything. It wasn’t like he could help in case something went wrong.
+
+Reaching the Transformation Docks by foot would take him years, and Zac couldn’t rely on his experimental idea to immediately reach his other body. His Draugr side needed to be able to receive the [Fuxi Mountain Gate] for the plan to work. Zac sighed and got to his feet, turning toward the memory domain in the distance. It was too early to panic about his other half, and no news could even be considered good news.
+
+That wasn’t the case on this side.
+
+There was still no word from Ogras or Ventus and no signs of activity inside the domain. Unfortunately, this one was much like the Joyful Garden’s memory domain. An array or a Natural Formation hid its interiors. Zac didn’t want to enter, while the fate of his other half remained unknown. But as he told Esmeralda, he didn’t have much of a choice.
+
+Having delayed this long was already pushing it, yet Zac spent the next five hours recovering his Mental Energy and optimizing his state. The clock would start the moment he stepped through, with Mox getting closer to pinpointing his location by the second. He needed to hit the ground running, or he’d die before he could extract Ogras and implement his half-cooked plan.
+
+A few hours before he planned on setting out, Zac suddenly sprung to his feet. The silence of the barren mountainside he’d stayed shattered as a vibrant forest sprouted. It barely had time to cover the slopes in green before an enormous sphere of darkness swallowed all Life. Zac was blind when he emerged from a tree with axe in hand.
+
+Zac didn’t try to break the domain, nor did he teleport away with [Apex Jungle]. He welcomed the familiar Abyssal darkness, a weight suddenly off his shoulders. Zac had only vaguely noticed someone drawing closer, only now realizing it was the one he’d waited for so long. He still took out Kator’s tracker when the Abyss retreated and his senses were restored.
+
+“It’s not broken. I didn’t bring mine,” the familiar Draugr calmly said as she stepped into view.
+
+“Then how did you—”
+
+“First, I’d like you to explain where Arcaz Umbri’Zi is and why you have Kator’s Tracker.”
+
+The two faced each other in silence for a few moments before Zac exhaled.
+
+“You came at the right time. Let’s talk before we set out. Things are a bit hectic on this end.”
+
+Tavza An’Azol scrutinized Zac a few more seconds before nodding. “I expected nothing less, Chaosbringer.”

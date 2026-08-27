@@ -1,0 +1,139 @@
+---
+id: a279f895-b1c8-5bb4-98ca-f9820e1fccaf
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 35"
+slug: 0105-b2-chapter-35
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 105
+ownLength: 1518
+unit: words
+ownProgress: 1518
+publishedAt: 2024-02-17
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1522058/b2-chapter-35"
+royalRoadId: "1522058"
+markedReadAt: "2026-06-29T19:09:30.776Z"
+---
+
+Aria
+
+Okay, I’m stumped.
+
+What’s happening?
+
+I just kinda stand here as Rory hugs me, squeezing me so hard that my bones are popping and actually making some unnatural sounding creaking noises. Which I’ve gotta say, isn’t that comfortable.
+
+Doesn’t help that she’s taller than me too, so it’s rather smothering.
+
+I’m sure I’ll grow taller one of these days though. Probably. Maybe. At least, in my dreams I will.
+
+Then again, at least I’m taller than the lukians.
+
+I pat Rory on the shoulder in an attempt to get her to let go, only for her to squeeze me even tighter.
+
+“Um, Rory,” I barely manage to force out into her chest, “lemme go please?”
+
+That finally snaps her out of it as she lets go of me and takes a step back rather quickly before awkwardly apologizing, “I’m so sorry! It’s just…”
+
+I raise a hand, stopping her. Then I say, “No need. We need to report back to the Clan Leader.”
+
+No idea what that was about, but it’s probably for the best that I don’t get in the middle of it.
+
+Wouldn’t want to grow attached to her or anything after all.
+
+She looks surprised for a second before returning to her usual composed self and saying, “Right.” And immediately activating her communication ring to talk with Sean.
+
+Her face takes a dark turn right after that though, and she quickly turns to me to say, “Sean and Aisling are fighting right now. Right outside the mountain fortress.”
+
+Oh.
+
+Shit.
+
+After a brief pause, Rory tells me, “Go to the barrier fortress and tell them about our success here. Get them to teleport you to the coastal fortress so you can help them. I’ll go take these captives with me and back up the Clan Leader.”
+
+I quickly nod my head and begin to run off in the direction of the barrier fortress. A place that isn’t too difficult to spot considering the bright beacon shining high above it even from this far away.
+
+“Good luck!” I shout back at her while still running.
+
+And while I’m at the barrier fortress, I should go ahead and stock up on more explosives.
+
+Because boom.
+
+The Mountains in front of the Mountain Fortress
+
+Aisling grits her teeth as she covers her face, blocking it from the onslaught of dust, ice, and debris flying around after her and the Byrne Clan Leader’s attacks both collide midair between them. His being a massive boulder filled to the brim with the pure concept of explosions, hers being a wave of ice.
+
+One of the reasons she’s always hated Sean Byrne was that his particular ability was too similar to her own. And now, during her fight with him, she’s feeling that more than ever.
+
+Every explosion he creates counters her ice. Every attack. And the mountains around them show the clear result of this, having been torn apart and frozen.
+
+At one point Aisling attempted to drive them both closer to the mountain fortress, but that plan failed when the barrier was altered again to block them. Making it hard for her to press further without focusing her attention on breaking the barrier.
+
+The two continue to clash, destroying more and more of the mountains. But each and every time, the Byrne Clan leader comes out on top, even with her small level advantage over him.
+
+Eventually she realizes that she’s fighting a losing battle, so she uses her communication ring to reach out to the merkismathr in charge of the forces she placed within her own territory to act as bait for the Class S poison Ability Holder and the immortal.
+
+Only for her to feel shocked when she gets absolutely no reception.
+
+Meaning that the wearer of the ring sharing the frequency is no longer amongst the living.
+
+Shit.
+
+She quickly reaches out to another higher ranking officer amongst those positioned there, only to get the same reaction.
+
+And after trying three more and getting the same reaction from them, she begins to panic.
+
+So she finally tries to contact the outsider of their Clan. Someone she always tries to avoid talking to out of sheer distrust.
+
+Aisling quickly feels relief when the connection establishes as she defends against several more exploding boulders using large walls of ice. But all the man on the other side of the connection says before cutting the connection again is a simple, ‘Sorry lady, but I’m resigning from the Sullivan Clan. I wish you luck in your war.’
+
+A wave of ice bursts out all around her as she lets out a scream of anger, reacting instantly to the bastard’s words. Meanwhile Sean Byrne backs away, surprised by the sudden outburst, only for the man to grin, clearly understanding something she doesn’t.
+
+“Why is everything endin’ up like this?!” Aisling screams into the air while spreading her arms out on both sides of her and sending the winter storm further and further into the mountains, freezing absolutely everything around her as she continues to scream. “Why?! Just why?!”
+
+The traitor never told her what happened with the ambush. All of her officers appear to be dead. And Sean’s ability is proving to be too strong for her to handle, even though she brought items to help and managed to pass him in levels and grab another skill.
+
+Sean protects himself through a series of explosions repeatedly firing off in an arc in front of him, blocking back the ice. Which only further sets off Aisling’s anger.
+
+But this time, she just starts laughing before pulling out a potion that she was given through a bargain with the Keane Clan long ago. One that she has always saved as a last resort.
+
+“I will fuckin’ TAKE THIS FORTRESS!!” she shouts, her voice almost growing hoarse with her words’ volume before she downs the glowing blue potion. And immediately after that, she feels her mana pool filling up and then stretching further and further, past what her mana pool’s current maximum capacity would be.
+
+At the same time, her ability begins to grow stronger and stronger.
+
+Snow and ice runs rampant, tearing apart the mountains all around her. Meanwhile she sees Sean finally beginning to strain in the process of holding her attacks at bay.
+
+Then she slowly begins to push forwards, forcing him back, closer and closer to the barrier. And soon enough, the barrier itself begins to freeze and shatter as well, letting the edges of the storm finally close in on the fortress walls.
+
+Right when victory is within her grasp though, a wave of poisonous mist shoots out of nowhere, blocking her ice entirely.
+
+Both Aisling and Sean turn to find the poison Ability Holder grinning as she floats up in the sky above a cloud of black poison.
+
+And Aisling immediately understands that she’s lost this round.
+
+Even with her Supercharge Potion, she doesn’t stand a chance against both of them in a two on one fight. Not to mention that if the poison Ability Holder is here, and her officers aren’t responding, it likely means that her forces on standby ambushing them were all defeated somehow. Which largely rules out the entire purpose of this attack in the first place.
+
+Everything that Aisling had been planning quickly begins to fall apart as she grits her teeth and uses the temporary boost from the Supercharge Potion to retreat.
+
+The one thing she actually manages to do today.
+
+Even after exiting the mountains, she doesn’t stop until she arrives at the basecamp where the soldiers are. And when she does, she finds every last soldier currently there dead, with quite a few missing as well. No doubt taken away by the poison Ability Holder before the woman joined her battle with Sean.
+
+The majority of the soldiers at the basecamp look to her to have been killed through explosives or gunfire, but a good few were killed by poison as well.
+
+After checking the basecamp, she moves on to the majority of the forces, of which she finds just as dead just a couple klicks away from the basecamp. Most of which were killed by poison, but she finds something curious with the rest of them.
+
+Because they were killed by some sort of crimson electricity.
+
+What tha… is there someone with an ability like that on Sean’s side? I don’t remember one…
+
+She continues searching the battlefield, but no matter how hard she searches, there’s nothing there telling her what happened. Nor are there even any signs that the traitor even so much as entered the battle.
+
+After realizing that, Aisling quickly gets into contact with the council members leading the first and second hearths and gives them an order she never expected to give during this war.
+
+‘Retreat,’ she tells them, a grimace fully covering her face.
+
+And despite their complaints, she closes the connection right afterwards.
+
+Then she lets out a hoarse scream and drops to her knees, slamming her fists onto the ground and freezing everything around her.
+
+Unable to hold it in any longer.

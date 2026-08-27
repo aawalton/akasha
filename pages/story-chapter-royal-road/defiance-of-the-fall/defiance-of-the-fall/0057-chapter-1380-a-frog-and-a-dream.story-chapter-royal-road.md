@@ -1,0 +1,165 @@
+---
+id: a2eb708e-9a68-5953-a10e-7dcda6b8571b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,380 - A Frog and a Dream"
+slug: 0057-chapter-1380-a-frog-and-a-dream
+partOf: defiance-of-the-fall
+position: 57
+ownLength: 3374
+unit: words
+publishedAt: 2025-11-20
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2778319/chapter-1380-a-frog-and-a-dream"
+royalRoadId: "2778319"
+---
+
+Idiche crept down the familiar paths, inspecting every nook and cranny with wary eyes. It was her fifth round in as many days, and her search had yet to yield anything promising. Not deterred, she navigated deeper into the Endless Caves. It was impossible to cover enough ground when working alone. The cave system was simply too large and complex. Hopefully, it wouldn’t be too late by the time she discovered the source of her unease.
+
+Despite the growing sense of imminent disaster, there was no thought of involving the Guild Master or her two fellow Vice Leaders. It was Royce who first triggered a stern warning in one of her dreamwalks. Idiche had almost discarded the prophetic vision as nonsense. How and why would Royce harm the guild? He was a sixth-generation Explorer, deeply rooted and deeply invested in its success.
+
+It would have made more sense if the dreams of betrayal centered on Guild Master Marai, that conniving wench. But come to think of it, Royce had been seen cozying up to Marai recently. Perhaps it was more than securing an alliance for the upcoming hunt. Perhaps she was being paranoid. Idiche shook her head, refusing to let the complete lack of tangible evidence make her give up on her hunch.
+
+Master Istazh had once told Idiche that the dreams conjured by her Dao Bone were of great origin. They were a major factor behind seizing an in-name discipleship so sought after that she had to keep it hidden out of fear of being beaten to death in fits of jealous indignation. So long as Idiche could form a Peak-quality Inner World, she’d become an official disciple and announce her discipleship to the world.
+
+The dreams were also the main reason for her success at sea. Idiche had encountered five life-changing events in her time exploring the Isles, and her dreamwalks had brought her to four of them. While none were as grand as the main prize of the upcoming hunt, they’d allowed a common disciple to surge to the position of Vice Guild Master in two short centuries. She’d be a fool to ignore the dreams that propped up her very path, especially now that she couldn’t get in touch with her master.
+
+Idiche gathered her thoughts and refocused on inspecting the cavern’s energy flows. There really was something wrong with it, even if [First Rise Reflection] or her other methods yielded no hint of exactly what. Being unusually safe and unusually bountiful was already suspicious enough. There was an eerie feeling of wrongness permeating the winding paths, like she was walking in a lucent dream that had fallen just short of replicating reality.
+
+Her prophetic dreams had been unusually cryptic, only vaguely hinting at the underworld and a vast conspiracy. Something was preventing her from dreaming clearly, but Idiche’s gut told her it was all connected: her master’s disappearance, the hunt, and the Mercurial Courts suddenly inviting outsiders to train by their side.
+
+Idiche’s gaze suddenly sharpened when she finally sensed something unusual. There was something hidden beneath the Illusory Energy permeating the Endless Caves, something murky and sinister. It was almost perfectly concealed, seamlessly blending in with the ambient energy. It was like the fetid undertone of certain perfumes.
+
+The streak seemed to come from further below. Painful lessons stopped Idiche from rushing down, rapier drawn. Idiche reactivated her presence-erasing cloak, the replica made from her master’s second Exotic Treasure [Sistorva]. Personally crafted by her master and instilled with a sliver of the true treasure’s spirituality, even Void Heralds wouldn’t notice her presence unless she exposed herself willingly.
+
+Any use would drain from its stockpiled spirituality, but this wasn’t the time to worry about the expense. Idiche’s instincts were telling her that she was getting close to the answers she sought. Nerves taut, she inched into the festering darkness.
+
+So… dark… sleepy… Idiche’s eyes widened in shock, but fighting against the drowsiness was like resisting the great cosmic trends.
+
+Idiche found herself walking through the familiar ruins of an ancient civilization. At least she assumed she was. The city had never been so obscured by the mists of uncertainty. She knew better than to step off the path, instead straining to pierce the haze for clues. The flickering images were even more confusing than before.
+
+A dense rain fought the unyielding crawl of desertification. Rattling chains echoed death and salvation. A stone cracked in two with a key lodged in the scar. The screams of twins who were never supposed to meet; one running, the other chasing. Idiche could feel it. If the two were brought together, the calamity she was trying to prevent would be all but certain.
+
+Idiche’s anxiety turned into annoyance. How was she supposed to make sense of these messages? Had her ability run out of energy from the constant dreams? Her errant thoughts were swept away when the mists suddenly parted, exposing something that had never been there before.
+
+The ancient egg made of metal and madness strained against the dome in the sky. Recursive, mind-destroying patterns covered its surface. They held everything, more than any human could endure. Idiche sensed herself countless times over, and she screamed for the nightmare to end. It did not, and Idiche’s mind was dragged deeper.
+
+There, she saw the rot. The egg was dying, having its layers consumed one after another. Holy flames resisted the sickness, exhausting themselves to cauterize the wounds. How long could it go on? And what was it? Idiche was dragged even deeper before she could even begin to formulate an answer. The deepest depths were made from the shadow of something even grander than the egg itself.
+
+How could such an existence be allowed by the Heavens? Even its star-studded shadow broke the bounds of reality. It was both the reason the egg could exist and the source of the rot in a twisted expression of balance. Was this why it was hidden within countless layers of possibility? Was the egg that creature’s attempt at emerging into the world? Would this vision end before she was driven insane?
+
+As if hearing her plea, the city of dreams shattered. Or perhaps it couldn’t withstand that horrible egg any longer. Idiche gasped and instinctively reached for [Myran’s Point] while powerful swirls of fantastical mist formed an impenetrable barrier. She only stopped trying to grab her rapier upon realizing something soft and squishy already occupied her right hand.
+
+Still struggling to digest the shocking scenes in her dream, she slowly looked down. A distant voice noted she was covered in blood—not her own, it would seem. Idiche should have been alarmed, but the thing tightly grasped in her hand preempted the obvious follow-up questions.
+
+“A frog?” Idiche drawled, her fried brain struggling to make sense of the situation.
+
+“Are you blind? I’m a toad!” an infuriated, childish voice berated. “I’ll give them back, so just let me go while I’m still in a generous mood. Otherwise I’ll—I’ll do something.”
+
+“Well, that’s new,” Idiche muttered, ignoring the indignant chirps.
+
+Falling asleep in the middle of the day was par for the course since awakening her Dao Bone. However, the dreams had never claimed her so forcefully before. They either came naturally when it was fated or after ample preparation and accumulation. What was different this time? Until she could figure that out, the beast wasn’t going anywhere.
+
+Idiche could feel the incredible Spatial Energy bloodline sealed by a powerful illusory rune she couldn’t begin to understand. The toad would be forever gone the second Idiche let go, and she never did things without reason while asleep. There had to be a good reason why she’d caught this foul-mouthed little thing. The talking toad might know something. She might even be directly connected to the conspiracy.
+
+Looking around, Idiche gradually managed to gather her thoughts. She was still in the Endless Caves, though right by the entrance. Idiche inwardly calculated the time, realizing four hours had passed. It was roughly what it would take to get back from her previous position, but that was only when awake. She moved significantly faster in her dream state since she shifted in and out of the dreamworld. The rest of the time should have been spent catching the spatial toad.
+
+“Hey! HEY!”
+
+“WHAT?” Idiche wheezed, resisting the urge to fling the toad into the wall.
+
+“What’s the matter with you? You’re acting all different. Did you hit your head or something?”
+
+“I was asleep before, so of course I wouldn’t act the same,” Idiche countered, ignoring the toad’s incredulous expression. “What did you say earlier? Give back what?”
+
+“Nothing, I didn’t steal anything,” the toad said, much too quickly. “You’re framing an innocent toad and a model citizen.”
+
+“Then I guess there’s not much point in keeping you—hm?” Idiche lost her train of thought.
+
+She’d scanned her Spatial Ring while bickering with her captive and found the source of all the blood. Two severed hands spilled onto the ground, and Idiche’s heart lurched upon seeing the signet ring on the right hand. Had she actually killed a fellow disciple in her sleep? And where was the rest of the body?
+
+No, wait. If she’d done the deed, then an Enforcer from the Hall of Corrections would have descended on her location already. Such actions couldn’t be hidden from their disciple tokens, even if they were sealed inside Spatial Treasures. Perhaps the hands belonged to a victim. Idiche sighed, wondering if she could have saved the poor soul if she’d worked harder on figuring out the confusing visions.
+
+On second look, Idiche realized that the limbs had probably belonged to someone up to no good. The things tightly grasped in their hands were proof enough. The left hand held a raw crystal the size of an ostrich egg. It pulsated with the very same evil energy she’d briefly sensed before blacking out, extraordinary quantities at that.
+
+The other hand grasped a mottled arrow. It had to be a degraded Holy Relic. Even with its weakened spirituality, the arrow tip made Idiche’s heart palpitate. Perhaps it was the dried blood that exuded intense evil. Nothing an upstanding member of the guild would run around with, and certainly not something that should be found in the Endless Caves.
+
+“That’s…!” A gasp stirred Idiche from her thoughts.
+
+The toad was looking right at the sinister-looking crystal, clearly knowing what it was. “What is this? Why has this form of energy appeared in the Endless Caves? You better answer me, or I’ll turn you into stew.”
+
+“… Here,” the toad said, her voice dripping with reluctance, before spitting out a thin booklet with the image of ruins on its cover.
+
+Idiche’s mind was once more thrown into chaos upon seeing the familiar book. Why the hell did the toad have her final will and testament? Idiche was certain she’d left it in her hidden safe, hoping her master would find it in case something happened. It detailed all her prophetic dreams and suspicions so that Master Istazh could mete out justice in her stead.
+
+It was unthinkable that a simple beast had not only seen through her layers of carefully drawn illusions but also cracked the complex array sealing the box. There had to be an accomplice. Had she caught the toad to prevent her investigation from being exposed?
+
+“The crystal holds energy from a previous Era. Seeing it here confirms our suspicions. You have been infiltrated,” the toad said, glancing at the severed hand. “Good job killing the traitor. They’re very hard to spot.”
+
+“Traitor?” Idiche asked, the matter of her testament temporarily put aside.
+
+“You should talk to my disciple if you want to know the details. I read your notes. You’re almost there. My disciple can help you fill in the blanks, and he’s your best chance at preventing the upcoming tragedy. A lot of lives are at stake.”
+
+“What tragedy? What are you hiding?”
+
+“The hunt, stupid,” the toad said, refusing to elaborate any further.
+
+Idiche glanced down the winding path a final time before stashing her testament and the bloody trophies with a curse. The toad was right, she didn’t have time to head back down. Whether for her chance of creating a superior Inner World or thwarting evil plots, she needed to get ready for the hunt.
+
+“Then let’s go see your disciple,” Idiche scoffed. “I’m very curious to hear what he has to say for himself.”
+
+------------
+
+Zac sat atop the roof by the harbor, watching as over a dozen boats were getting ready to set out toward the setting sun. The largest by far was the ship manned by Marai Vera, the current Guild Master of the Explorer’s Guild. She was bringing half the guild’s elites to participate in the hunt as a group, including one of the three Vice Leaders.
+
+The group of fifty was the most suspicious by far. Zac looked at the box in his lap before glancing toward the beehive with impatience. Where had Esmeralda gone? Had she forgotten that they weren’t actually experienced explorers of the Peregrine Isles? They might not actually find the island without joining the convoy that was about to leave. He was also running out of time to scan the crew, something he’d much prefer to do with Esmeralda by his side.
+
+Zac eventually sighed and got to his feet. He donned every presence-hiding item in his arsenal and sealed his aura within the Void before making his way toward the largest vessel. He found a secluded corner nearby and activated [Void Zone]. Zac only kept the nullification sphere going long enough to take out Astora’s [Courtyard Compass] and insert a Corrupted Crystal.
+
+The crystal didn’t leak any of its unmistakable aura after being connected to the tracking array, and Zac quickly activated it after confirming everything was in order. His vision doubled, gaining a new dimension that resembled echolocation more than soul sense. As it spread to cover the crowd on the other side of the wall, responses came flooding back.
+
+Twenty-two. There were twenty-two disciples hiding a core of corruption in the main party alone, including the Vice Leader. The Guild Leader herself and half the party appeared clean on the surface, but Zac hadn’t forgotten Astora Theomore’s warning. The [Courtyard Compass] wasn’t perfect. Some infiltrators had superior means of hiding their allegiance.
+
+Zac also wasn’t sure if it could expose Monarchs like Marai Vera. Their corrupted energy would be hidden in the depths of their Inner Worlds rather than in their outer body. Zac steeled himself before stepping onto the docks with a sunny disposition. His appearance quickly drew attention from the group getting ready to board.
+
+“Oh? You’re the newcomer? Our guild is honored to welcome one of the Mercurial Court’s esteemed guests,” Marai said with a gentle smile.
+
+“You’re too kind,” Zac said with a small bow. “It’s an honor to meet you, Master Vera. I’m Everit Draom, and I’m indeed from the outside. If I make any mistakes in the future, please let me know.”
+
+“Likewise. I look forward to hearing of your adventures,” the Guild Master said with a nod.
+
+“Master Draom, are you perchance looking for a spot? Our party is full, but we can squeeze together and make some room,” the Vice Leader said. He was a bulky warrior with a soft expression, and it was hard to think he was actually an invader twisted by the Lost Plane’s Dao. “Someone joining the guild on the day of the hunt has to have a certain fate with Goddess Sevona.”
+
+The idea seemed to garner more support than resistance among the crew, but Zac still shook his head. “I’m more accustomed to exploring alone. I simply wanted to come over and introduce myself before we set out.”
+
+“A pity,” Marai said with a slight pout. “There’s still a chance we’ll encounter each other during the hunt. In that case, let’s look after one another. You’re one of us now, and the competition will be harsh.”
+
+“Certainly,” Zac readily agreed.
+
+Zac spent another minute making some small talk before excusing himself. By that point, he’d engraved the aura and appearance of every confirmed invader to memory. Thankfully, none of them seemed to have noticed the ripple of corruption. He’d never planned on dealing with the invaders before setting out, and he certainly wouldn’t now that he knew there were at least two dozen in the Guild Master’s party alone.
+
+No one would trust his word, and he would be fighting both doppelgangers and real disciples the second he struck. Such a force was far beyond what Zac could handle. Besides, he and Esmeralda had already agreed to limit their actions to gathering information until the hunt. Allowing their targets to spread out across the treasure island undoubtedly meant that quite a few real disciples would lose their lives.
+
+Zac felt bad, but these people ultimately weren’t real. He had a goal to accomplish, and striking before they understood the situation would let most of the targets slip back into the shadows. The bounty would be far bigger if he could figure out what the invaders were up to and disrupt those plans at a critical moment. Zac would also be lying if he said he wasn’t interested in Sevona’s Hunting Lodge. Allowing the invaders to pave the way was the most efficient way of securing it for himself.
+
+Zac found a secluded spot at the edge of the harbor and brought out his gondola. Minutes passed, and his anxiety worsened when the first ship started to set out. Just as Zac made up his mind to head over to the beehive, a voice drifted over.
+
+“You’re Everit Draom, then?”
+
+Zac turned around, startled to find a fiery woman inspecting him—or rather the chains wound around his left arm. Her black, cascading locks framed a striking face. While she lacked the otherworldly beauty that came with extraordinary affinities with the Dao, she was still gorgeous. Whatever she lacked in Heaven-blessed features, she made up for with an explosive figure crammed into tight leather pants, a buttoned-up blouse, and a corset.
+
+More importantly, her supposedly lackluster talents hadn’t stopped her from refining an absolutely terrifying foundation. She was right at the limit of Hegemony, her aura not far from Tavza’s when she went all out. She had to be one of the guild’s peak combatants, and Zac quickly matched a name with the face: Idiche Levos, Vice Leader.
+
+Where did she come from? Zac might have been lost in thought, but such distractions shouldn’t have been enough to let another person sneak up on him like that. Even more shocking was seeing Esmeralda securely gripped in Idiche’s left hand. The other was resting on the pommel of a rapier emitting the rich spirituality that could only come from a top-tier Spiritual Tool.
+
+“That’s me,” Zac slowly said, glancing at the mortified toad as he got to his feet.
+
+He tried sending a telepathic message to his companion. His words never reached the toad. They felt like stones dropped in a bottomless pond, and going by Esmeralda’s frustrated expression, she was similarly blocked. Zac felt a headache coming on.
+
+“Thank heavens you’ve found Esmeralda. I was worried sick. She wandered off on her own, and I’ve been looking all over.”
+
+“Oh, it’s my pleasure. In return, there are a few small matters I’d like to run by you.”
+
+Zac glanced toward the harbor. The flagship was embarking, with the smaller ships following in its wake. “I’d love to, but we might have to postpone. I was just about to set out, so—”
+
+The rest of Zac’s excuse got caught in his throat when a massive turtle appeared out of nowhere. It snapped Zac’s small skipper in half before sinking back into the depths. It acted so quickly that Zac would have thought it was an illusion if not for the wreckage slowly sinking.
+
+“Bad luck. Old Rob must have been cranky from all the commotion. And now all the shops are closed,” Idiche laughed. “Don’t worry, I’ll get you two to the lodge in one piece. Provided you can satisfy my curiosity, that is.”

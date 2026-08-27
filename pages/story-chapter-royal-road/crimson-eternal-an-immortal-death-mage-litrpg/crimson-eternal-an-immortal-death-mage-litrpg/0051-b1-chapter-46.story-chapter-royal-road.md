@@ -1,0 +1,119 @@
+---
+id: 5b46cd87-c337-5f5d-abfc-e9ec210ad6ef
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 46"
+slug: 0051-b1-chapter-46
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 51
+ownLength: 1563
+unit: words
+ownProgress: 1563
+publishedAt: 2024-01-22
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1491233/b1-chapter-46"
+royalRoadId: "1491233"
+markedReadAt: "2026-06-29T19:07:37.569Z"
+---
+
+The Manor belonging to one of the BodyguardsFour hours before the party
+
+Amir Saif Al-Saad, Count of the great Empire of Arteria, quickly begins moving through his manor after having gotten everything ready and sets the charge stone on the device at his collar. The device meant to sync with the Emperor’s armored suit once it’s close enough. And as he walks, he shouts at the maids and servants, “Hurry the fuck up! I mustn’t be late!”
+
+The maids and servants quickly scamper about under his gaze, making the final preparations to depart.
+
+Once they’re finished, he steps out of the door, scoffing at how poor his staff must be for them to be ten seconds later than he had planned.
+
+Damned peasants. I should just burn them and send them back to their families for sending such horrendous servants to serve my household.
+
+He nods to himself at that decision, putting it at the back of his mind as he walks down the courtyard, the door to his manor shutting behind him softly. Just as the man likes it.
+
+Amir continues walking until he reaches the jeep, where he finds the soldier waiting for him at the driver’s seat, along with five other soldiers around the jeep. None of whom he remembers.
+
+But considering that soldiers assigned to guard a noble of his position are always filthy half breeds calling themselves nobles, he doesn’t consider this important as he steps into the jeep’s passenger seat and states in an arrogant tone of voice, “Go.”
+
+To his surprise, though, the soldier doesn’t start the car. Instead, he suddenly feels something covering his mouth, making him raise his hand only to find some strange sort of barrier in the way of his hands. And before his eyes can grow any wider from panic, he feels a pain from the back of his head, following which everything goes dark.
+
+Aria
+
+We proceed to drag the unconscious noble into a secondhand warehouse eventually owned by the merchant. Then we just kinda dump him there and let Vargas search through his mind for all of the intel we need.
+
+Intel including how the emperor’s suit armor works, what the array of soldiers are at the castle, where each of the bodyguards and the healer is stationed, and so on.
+
+But when Vargas opens his eyes, he mutters with some surprise, “Looks like they aren’t really bodyguards after all.” He turns his gaze towards the commander. “More like batteries.”
+
+I frown at that, and the commander asks, “How so?”
+
+“They don’t actually protect the Emperor, instead acting as batteries for his armor while attending the party themselves,” Vargas explains, making me blink in surprise. “Only one of the so-called bodyguards actually stays near the Emperor at all times. And even he is told to stay on the other side of the room.”
+
+That’s… surprising. Then again, also a little understandable. After all, I wouldn’t want to be followed by a bunch of people everywhere I go.
+
+“The device on his chest is the thing meant to send his ability over to the emperor’s suit, powering it, and keeping it activated,” Vargas explains. “If one of the ‘bodyguards’ are taken out of the picture, the device loses a fifth of its defensive capabilities.”
+
+The commander purses his lips and begins rubbing his chin in thought. Then he glances at the merchant and asks, “Do you have any paper?”
+
+Said merchant looks confused but answers in the positive.
+
+So the commander turns back to Vargas and asks, “Do you know how this noble sends correspondence to the emperor? And are you able to mimic his handwriting and find his seal?”
+
+My eyes widen in understanding, and I’m not the only one as the others do too.
+
+Vargas grins and responds, “Of course I can. Who do you take me for?”
+
+Wait, he can really do that?
+
+One hour later
+
+He really did it.
+
+I can’t help but stare stupidly at the sight of the letter being carried off by a courier. One with handwriting apparently perfectly matching the Count’s along with the Count’s seal.
+
+As it turns out, Vargas can quite literally copy your muscle memory into his body temporarily. So he can copy someone’s handwriting.
+
+Scary.
+
+“With this we won’t have to worry about our numbers,” the commander says, referring to how there was seven targets including the emperor, his bodyguards, and the healer. And only six of us. Then he turns to us as we stand in front of the Count’s gate and says, “Now then, how about we move onto the next part of this mission?”
+
+I can’t help but grimace at that.
+
+This part is going to be significantly less pleasant.
+
+One more hour later
+
+All six of us find ourselves standing in the middle of a warehouse right next to the castle, completely ignoring the six unconscious people who we drugged to not wake up for twenty-four hours. Unconscious people who happen to be in nothing but their underclothes, since we’re now wearing their outfits.
+
+Amongst the outfits, Harvey is wearing a castle chef’s outfit. Or rather, the helping hand of the kitchens. Not a chef herself.
+
+Then there’s Rogers and Vargas, both who are wearing soldier uniforms, since neither of them have storage rings. And Vargas doesn’t have an ability that’s offensively capable, so he absolutely needs a weapon. And a servant can’t go around carrying a weapon.
+
+Next up is the commander, who is dressed as a servant, wearing a downplayed butler’s uniform.
+
+I would like to snicker at Snow’s outfit taken from the gardener, but the sight of my own maid uniform has me too distraught to do that.
+
+“Does everyone remember the layout and the positions of the targets?” Vargas asks, having already gone through and explained the layout of this wing of the castle to us all, along with the exact locations of each of the ‘bodyguards’ and the healer and emperor. And when no one raises their voice in the negative, he nods his head.
+
+The man had taken the knowledge from these various servants’ minds on their duties, where the servants entrances are, and the layout of the castle wing itself before sharing it to us through his ability. Yet again another thing I didn’t realize it could do.
+
+Overall, I didn’t realize just how useful his ability would be for this mission. He may actually be the most crucial part of the mission thus far.
+
+Although his combat abilities are rather subpar compared to the rest of us.
+
+“Now,” the commander says, bringing everyone’s gaze towards him. “Each one of us needs to take out one of the targets at the exact same time, with the exception of the emperor, who you need to take out right after everyone else takes their target. Understood?”
+
+Everyone nods.
+
+He adjusts the cuffs of his outfit as he continues, “Of the six of us, Vargas is to take the healer, Rogers will take the noble out on the balcony itself, Snow is to take out the noble in the outer courtyard, Harvey the noble in the kitchen, myself the noble in the upper deck of the ballroom the emperor is in, and,” he pauses as he glances at me, finished with his cuffs, “Aria will take out the emperor himself.” He turns his gaze to sweep over the others. “Is that understood?”
+
+“Roger that,” I reply as the others answer with their own affirmatives.
+
+A pretty good plan. Vargas is the weakest of us all with his mental ability, but he can at least use it to get through to the healer, since he has the best knowledge of the layout of the castle out of all of us. Then Rogers can escape from the balcony after the assassination simply by enhancing himself and jumping straight off. Snow can jump off of the outer courtyard, which is on the second floor of the castle, and ride his ice blade down to the ground. Harvey can go out the servants entrance of the kitchen since there shouldn’t be many guards near there. The commander can escape since most of the focus in that area will be on me, as the emperor and that bodyguard are in the same room. And I can figure out how to escape on my own as I’m not exactly in danger of dying.
+
+And the castle staff won’t question anything since they’re all abused and often depressed anyways. They, from what Vargas got from these servants and soldiers, hate the nobles and the emperor. Not a single one likes them, and none of these people would be working for the castle if they had any other choice. And none of them pay any attention to the other servants or recognize what they look like.
+
+As for the two soldiers, Rogers and Vargas will be wearing helmets anyways. Doesn’t matter if the other soldiers recognize the real soldiers or not.
+
+That said, this isn’t going to be a pleasant mission, and I feel like I might be wanting to punch more than a few people in the face by the end of tonight, before even finding the emperor.
+
+Fun.
+
+“Then let’s go,” Lieutenant Colonel Striker says while turning around and beginning to walk towards the entrance of the warehouse.
+
+We all follow after him without any hesitation.

@@ -1,0 +1,139 @@
+---
+id: 9730509b-c09b-5876-a208-62af003ef670
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 3"
+slug: 0300-b5-chapter-3
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 300
+ownLength: 1495
+unit: words
+ownProgress: 1495
+publishedAt: 2025-08-23
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2542360/b5-chapter-3"
+royalRoadId: "2542360"
+markedReadAt: "2026-06-29T19:16:00.864Z"
+---
+
+Aria
+
+After the ceremony comes the tournament, which Ruby and Ryan pretty much dominate for their sections. As for the other sections, involving the higher and lower level people? I don’t really pay any attention to those, so I don’t know who wins them.
+
+Before I can leave the venue though, a rather unpleasant surprise appears in my viewing booth. One that I’ve started to get used to over the years but is still unpleasant no matter how many times I see it.
+
+The Demon King himself in one of his many clone bodies emerges from a cloud of dark energy at the center of my booth. Clearly ignoring the alarms I can hear blaring in my booth itself due to his forced entry.
+
+I let out a sigh but don’t stop walking over towards the entrance as I ask, “Why do you keep bothering with this? It’s getting old.”
+
+When the Demon King’s first attempt to recruit my aid for his war failed miserably, he sent another fallen demon to recruit me. Then another. And another. And finally another.
+
+Until he began coming personally instead.
+
+But each and every visit I’ve shot him down – not literally – and kicked him out when the guards arrived.
+
+“Until you give me the answer I desire,” the Demon King states, making me sigh again as I leave my booth. All while a bunch of Crimson Empire knights and Eternal Dynasty soldiers rush over to the area and begin shooting away at the Demon King behind me.
+
+Killing his clone again with me not even bothering to look back at him.
+
+It’s getting really old.
+
+I continue walking through the tournament venue before meeting up with the twins. Then, after some time relaxing and talking with the two, I go ahead and return to my office in the Pale Mercenaries Headquarters building. Meanwhile the twins head off to the academy to finish packing. After which they said they’ll be heading over to the mercenary quarters within the Pale Mercenaries Headquarters.
+
+Because they’re both joining the Pale Mercenaries.
+
+And while I have no problem with that at all, I did at first question why they decided to live with the other mercenaries instead of in better living quarters.
+
+Their answer was simply that they want to work without any special treatment from me. So here we are.
+
+As for whether they’ll get special treatment from the other mercenaries or not? They probably will.
+
+No, they definitely will.
+
+But they’ll deal with whatever comes now that they’re working not-adults.
+
+I frown at that thought.
+
+Come to think of it, they’ll be adults officially in just three years.
+
+Time sure flies by quickly…
+
+My thoughts cut off when Little Blue suddenly walks into my office accompanied by Leone, whose job it was made to follow me around whenever I leave the planet.
+
+Not that I plan on letting her. I just have to sneak off the planet and disable the teleportation pad in my ship. Then I should be able to get away safely.
+
+And without any paperwork bearers in tow.
+
+Unfortunately I won’t be sneaking off again until the twins are adults. Then I’ll sneak off to find my next world to explore and hunt in.
+
+But before then I’m stuck hunting in the Hunter’s Bay and dealing with paperwork.
+
+“What is that abomination?” I ask as a massive pile of that very paperwork appears hovering over Little Blue’s hands before falling onto my desk.
+
+She just smiles and answers, “This is the paperwork you need to sign to finalize the annexation of the world of Lacral into your nation. Good luck!”
+
+Then she turns around and leaves without another word, with Leone giggling behind her and no doubt stopping outside of the door after shutting it.
+
+Just how many worlds are going to apply for annexation?! I am not a fucking safe place to hide under!!!
+
+It is getting incredibly annoying.
+
+And it doesn’t help that the Demon King is starting to avoid my worlds in the hopes that it changes my mind about him. Which is making my worlds some of the safest places in the universe.
+
+But on top of it all, I get stuck with the paperwork every time a new world is annexed. And while I could tell them no, the last time I did that gave the universe the impression that I didn’t like that world. Which ruined the economy on that world as the other planets and nations started to avoid them.
+
+It’s such a freaking pain.
+
+This is why I want to escape and go find a random Hunter’s Spot to bury myself inside of as I read and level up. Because all of this annoying work is annoying.
+
+Then an idea comes to me.
+
+Huh. Maybe I can pass the job off on the twins someday?
+
+That would be nice. I could just leave that job to them as I laze around for a few centuries.
+
+I give myself a firm nod at that thought, only to blink when a scarlet portal appears in my office, following which War walks out of the thing. But I don’t pay him much mind as I start working on the damned paperwork. Even as he walks up to my desk and sits on the end, asking, “How long are you going to be buried under this? Your level hasn’t raised much for a while.”
+
+“I just got a new skill, thank you very much,” I answer him with a huff as I continue signing paperwork. “And I’ll be leaving after the twins turn eighteen.”
+
+“Uh huh,” he mutters while glancing at the paperwork.
+
+I’m starting to feel concerned about how used to people randomly teleporting into my office I’m getting.
+
+And why is War even here?
+
+“Don’t you have a war you’re supposed to be fighting right now?” I ask without looking up at him. “You did pick a fight with the Arcadian Society after Famine declared war on them, right?”
+
+“Yeah, but Famine is currently playing with the girl right now, and he doesn’t like to share,” War says, sounding kind of like a grumpy child being told no to getting a new video game. “I can’t find them, so how could I challenge her to a duel?”
+
+Huh. A part of me hopes this will stop Isabella from bothering me in the future, but a part of me also hopes that she doesn’t die as it would unbalance the universe quite a bit.
+
+After all, the Arcadian Society may very well lose its status as a Grand if she dies. And that would do a number on the mages within the universe.
+
+In fact, if it does happen, death magic would probably spread far and wide, dominating everything. Which wouldn’t be a bad thing for me technically, but it would be a bit awkward. Considering the few nations that outlaw necromancy in the universe.
+
+There could even be some sort of holy crusade or something.
+
+One led by the Holy Empire with a lot of the aforementioned nations that have it out for the Rex Dynasty and the other death magic users.
+
+Or to be specific, led by a bunch of zealots who don’t realize they’re outmanned, outgunned, and outmagicked. All of whom will probably die within the year.
+
+I continue signing paperwork for a little while as War just swings his legs at the end of my desk. Then I finally lose my patience and ask, “Why are you here bothering me?”
+
+“Because you’re the only interesting person to talk to in the universe,” he answers plainly. “You’re the only Horseman who is mostly mentally stable, the only female Horseman, and I can’t just start another war while fighting with the girl, so I’m stuck right now.”
+
+So in other words, he finds me interesting, is bored as hell right now, and is using me as an outlet for that boredom while his soldiers no doubt search for Isabella and Famine.
+
+Another pain to deal with.
+
+A knock comes from my door following which one of Little Blue’s secretaries walks in, only to notice War almost immediately and then turn back around to leave. Clearly not bothering with whatever job Little Blue gave her to carry out after seeing the Horseman of the Apocalypse.
+
+Okay, I’ll admit, that was rather amusing to see.
+
+Just wordlessly turns around and leaves upon seeing him.
+
+Anyways, after I finish the important documents, I give a firm nod of my head, write a little note for Little Blue to finish the nonimportant ones, then I get up and go find a balcony to jump off of. All while a certain Horseman follows me like a lost puppy dog.
+
+But I ignore him as I should and jump off of the nearest balcony. Then I begin walking over to my café.
+
+With him still following me.
+
+How long is he going to follow me again?

@@ -1,0 +1,151 @@
+---
+id: 3d72ae8b-301d-561a-aa0e-99b0501fa1d9
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 58"
+slug: 0221-b3-chapter-58
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 221
+ownLength: 1454
+unit: words
+ownProgress: 1454
+publishedAt: 2024-10-23
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1863837/b3-chapter-58"
+royalRoadId: "1863837"
+markedReadAt: "2026-06-29T19:13:14.875Z"
+---
+
+Aria
+
+“We won’t be able to travel together anymore,” Shirogane repeats himself without taking his gaze away from my eyes. But I just find myself remembering all the times I spent with him. A man who has become my best friend over the… over the however many years I’ve known him.
+
+He’s been there through thick and thin, bringing me my explosives, my weapons, my gear, and anything else I ever would’ve wanted to purchase. He’s been my connection to who knows how many different nations. And my conversation partner when I’m not hunting or stuck in something’s stomach.
+
+And while he does have unrequited feelings for me, I still think of him as a great friend.
+
+Well, that and a very useful merchant and place to get explosives.
+
+Explosives are nice after all.
+
+But that’s beside the point.
+
+I open my mouth a few times, but each time I end up closing it again without finding anything to say. And eventually, Shirogane just smiles at me with a sad smile and says, “Now that this deal has been made, I have completed my trial and will be officially recognized as the Crown Prince of the Eternal Dynasty. And because of that, I’ll have duties I need to see to that come along with the position. Duties that require my physical presence on Eternus.”
+
+“Oh,” I mutter, glancing outside the window at the setting sun over the horizon.
+
+Looks like our journey is coming to an end.
+
+“You just thought something along the lines, “looks like our journey is ending,” didn’t you?” Shirogane suddenly asks, amusement in his voice. Amusement that only grows when my head jerks around to stare at him.
+
+When did he learn to read my mind?!
+
+He barks out a laugh. One that’s quickly followed by another. And another. All the way till he’s just having a laughing fit.
+
+I frown at him and cross my arms while muttering, “Rude.”
+
+Which only serves to make him laugh even harder as he leans over the edge of the window.
+
+I turn to look out the window again, not bothering with telling him to stop.
+
+It’s a little sad to say goodbye. The guy’s like an older brother to me in a way. One that cleans up a lot of the messes I end up making. Or cleaned them up, back when I made messes.
+
+Now I’m perfectly fine on my own and never cause trouble for others.
+
+Ignoring the few times I end up turned into a paste on top of someone from jumping down from a high place. Because that doesn’t happen. At all.
+
+I get down from the window and lean over the window myself while resting my head against his shoulder, making him stop laughing in an instant. But I don’t say anything.
+
+“I know you don’t think of me the same way I think of you, Aria,” Shirogane says out of nowhere, startling me for a moment. Not enough to move from my spot, though. “You’ve made that perfectly clear over the years, and I really appreciate that.” I see him turning to look at me out of the corner of my eye, but I don’t move. “Thank you, Aria.”
+
+Instead of responding with any words, I just let out a short hum in response.
+
+Then silence befalls the throne room once more.
+
+The silence stretches on for several minutes as we just look out at the horizon. But I eventually break it when I say, “You’re like the older brother I missed. Maybe some part of me was overlapping you and Adrian, but you really have been like an older brother to me.” I pause for a few seconds, waiting for some sort of reaction from him. And when I get nothing, I continue, “Of course, I know very well you’re two different people. But you just sorta filled the missing brother slot, if you know what I mean.”
+
+I frown. Then I stand up straight, crossing my arms as I stare up at the ceiling.
+
+“Why are words so hard?” I mutter to myself, only to look at Shirogane, finding him sadly smiling out the window. “I think what I’m saying is that I’ll always think of you as a brother. If you ever need my help, don’t hesitate to ask.”
+
+He turns to look at me, still smiling as he says, “Okay.”
+
+A few seconds pass in silence.
+
+“I’ll probably help you,” I make sure to add, making him blink for a moment.
+
+Then he breaks out into laughter again. Laughter so strong that tears leak out of the corners of his eyes.
+
+The corners of my lips quirk upwards as well before I lean over the window again, returning my gaze to the sun.
+
+I let the silence pass, with the exception of his laughter, for several more minutes. And after it’s stretched on for long enough, I go ahead and ask, “So who is going to be my new contracted merchant?”
+
+Shirogane just glances at me, blinking for a moment as he answers, “I am.”
+
+The silence returns.
+
+“But I thought you were leaving and staying on Eternus?” I ask with a confused frown on my face.
+
+He nods his head, “Yeah, I am.”
+
+“Then…” I start, only for my eyes to begin widening a little. “Oh.”
+
+“Yeah,” Shirogane says, a smirk forming on his face. “No one ever said a contracted merchant ever had to be following his partner around everywhere. You have that device. It can teleport you almost whatever you purchase in an instant no matter where you are. And if you need something you can’t get through it, just come to Eternus or contact me through the device.”
+
+I feel dumb.
+
+Shirogane turns to look out the window again as he mutters, “There’s no way I’d let someone else take my position as your contracted merchant from me.”
+
+I blink at that, unsure of how to respond. Or even how he meant that phrase. Whether romantic or due to the fact that I’m Death and probably one of the most profitable business partners possible.
+
+Probably both.
+
+Best not to ask.
+
+Although, on that note, there is something I should say.
+
+I place one hand on his shoulder, startling him for a moment before I tell him, “Shirogane, you should go find a princess somewhere.” And with that, I give him a firm nod of my head and jump out the window, leaving him blank-faced for several seconds.
+
+There. Told him to move on to find someone else.
+
+Hopefully he’ll listen. Because I’d rather him not be stuck in an unrequited love for his entire life.
+
+That would probably be sad. Just judging based on the books I’ve read.
+
+I have no idea how it would actually feel personally.
+
+And I am bad at goodbyes. So I just won’t say goodbye.
+
+I’ll probably be talking to him on the phone within the next week anyways.
+
+Anyways, my legs are actually perfectly fine even after jumping down from several stories. Simply because of my current level.
+
+Nothing more than some slight strain.
+
+So I begin walking over towards the city as I think about the stuff I’m gonna want to do before we leave the world. Not to mention the next world I’m gonna go to.
+
+There are certainly a lot of choices to choose from. And while I may’ve had a choice a while back, I kind of forgot it over the years.
+
+But that’s fine. Not like I’m ever going to run out of time.
+
+I think I might set a goal for myself.
+
+“Aria!” I hear a shout from far behind me, making me pause for a second and glance back. Finding Shirogane waving at me from that very same window. “Please come to my official designation ceremony when it comes!”
+
+A ceremony?
+
+“I promise you that Father’s wine cellar will be open for you to try at your leisure!” he shouts afterwards, instantly catching my attention.
+
+I quickly raise a hand and give him a thumbs-up, along with a firm nod of agreement.
+
+Because yeah.
+
+Wine.
+
+I turn around again and continue walking over towards the city with my hands in my jacket pockets.
+
+He’ll send an invite when it comes. No reason to stay here.
+
+For now, I better get the contact information of the publishers on this planet. Just to make sure I can find them again for my favorite books on other planets. Or if they aren’t on other planets, when I return here in the future.
+
+Because there’s no way I’m gonna miss out on those series just because I’m moving on to another world.
+
+No way in the Plane of Death.

@@ -1,0 +1,165 @@
+---
+id: 9ce9ba15-5ba7-5662-8062-6032ccab7d5f
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 13"
+slug: 0237-b4-chapter-13
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 237
+ownLength: 1365
+unit: words
+ownProgress: 1365
+publishedAt: 2024-12-15
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1958011/b4-chapter-13"
+royalRoadId: "1958011"
+markedReadAt: "2026-06-29T19:13:47.815Z"
+---
+
+Aria
+
+Shirogane recovers rather quickly even with his barrier dented rather fiercely. He moves away from the arena’s barrier and shoots out a bunch of silver chains from his own barrier while repairing it, sending the chains straight towards the lyon girl.
+
+But Leone jumps high up into the air as if gravity weren’t a thing and literally smashes her fist into one of the chains. Shattering the thing and sending the bits of silver down to the ground.
+
+And that’s not all as she slams her other fist into another one. Then a foot. A knee. Another foot. Another fist.
+
+Over and over again, she just shatters every chain sent her way.
+
+Proving herself to be incredibly powerful.
+
+And this is all just physical strength as well.
+
+I haven’t sensed even a blip of magic from her.
+
+“What’s her ability?” I ask without looking away from the battle.
+
+Little Blue answers rather quickly, “She has a rather unique ability. It doesn’t give her any sort of magic at all, but she is-”
+
+The girl flies forwards to slam into his barrier again, cracking it this time and sending him flying towards the barrier of the arena for the second time.
+
+“-very strong in the physical sense,” Little Blue finishes, sounding a little awed herself.
+
+Huh.
+
+“So she’s a musclehead,” I state without really thinking.
+
+Yet somehow the girl’s ear twitches, and she glances at me with a raised brow.
+
+“Um, so, is it just me, or can she hear us?” I can’t help but ask Little Blue.
+
+“That is most likely the case,” she answers with a nod of her head.
+
+“Right…” I mutter, deciding not to say anything like that again when she’s anywhere nearby.
+
+Not that she’d be able to do anything to me at all. Considering the fact that all she has is brute force strength.
+
+Although she also doesn’t seem to be antagonistic towards me either.
+
+Even seems kind of curious about me.
+
+Well, putting that matter aside, the two continue exchanging blows in the arena over and over again. With Leone batting away any attack Shirogane sends at her, and Shirogane blocking all of her attacks with his own ability while keeping his distance.
+
+So overall, not much is happening in terms of actual progress in the battle.
+
+Until Shirogane manages to finally pin her down in the corner of the arena with his liquid silver simply by flooding the entire arena with it. To the point that she can’t escape.
+
+Then he just creates dozens upon dozens of chains while solidifying the liquid silver around her lower half. Locking her in place.
+
+But no matter how hard he tries to hit her with the liquid silver, it doesn’t really do anything.
+
+And she manages to shatter the metal whenever it gets near her face, making it so he can’t suffocate her either.
+
+So they kind of just end up in a deadlock.
+
+He can’t seem to really damage her, while she can’t move.
+
+Until Shirogane finally stops holding back and begins preparing an attack midair that is sure to actually pierce her skin.
+
+But she just announces her surrender when she sees what he’s doing. Which disappoints quite a bit of the crowd, but she doesn’t seem to care.
+
+Then the MC goes ahead and announces Shirogane’s grand victory in the tournament. Which was pretty much set in stone from the beginning.
+
+Even if the lyon surprised everyone.
+
+All that said, I am rather curious about her.
+
+Wonder if I’ll ever meet her myself?
+
+The very next day I find myself awkwardly sitting across from a certain lyon in my office as she says, “So I’m joining your company starting today. Nice meeting you, boss.”
+
+With a salute and a cold look on her face.
+
+I just stare blankly at her for several seconds, not really knowing quite what to say.
+
+Her actions don’t really make a lot of sense to me.
+
+The lyons are a very proud people. They would never suddenly start working for someone else.
+
+Ever.
+
+And to top that off, she is far higher level than anyone in the company. To the point that she is most definitely in the upper echelon of people in the universe in terms of level.
+
+Just her battle with Shirogane is enough to show that.
+
+So… why?
+
+I watch her for several moments, noting the instant movement of her eyes towards any movement within the room. Even the smallest movements like a page on my desk billowing in the air from the air conditioner, or the smallest movement from Little Blue. But with her eyes focusing on me again a mere instant later.
+
+As for what I see in her eyes? I’m honestly not sure.
+
+She doesn’t exactly show much in her gaze.
+
+It’s just calm, cool, collected, and kinda icy.
+
+It perfectly hides how she’s feeling right now.
+
+Also doesn’t look like the type of gaze someone calling me ‘boss’ would have.
+
+Eventually I just decide on the easiest route and ask point blank, “Why?”
+
+My question actually surprises her enough that the look in her eyes fluctuates ever so slightly before she answers with the corners of her mouth tilting upwards, “Tit for tat.”
+
+“You want something from me and in return you’ll join my company and work for me?” I ask, clarifying the meaning of her answer. And she immediately nods her head without another word, proving to be the silent type. “What is it you want?”
+
+She doesn’t hesitate as she answers, “After the last event of the Crown Prince’s ceremony, please come with me to Nera.”
+
+I glance at Little Blue to find her mouthing, ‘the home of the lyons.’
+
+So I turn back to the lyon in front of me and ask, “What do you need of me?”
+
+Once again, she answers with no hesitation, “We need your immortality to retrieve a precious artifact of our kind that has been lost.”
+
+Hmm. The same thing that the Cheng Dynasty needed then.
+
+“I can do that,” I answer before glancing at Little Blue and saying, “decide on a good place for her to work until the end of the ceremonies.”
+
+Little Blue nods her head at that, only for her to pause and a slight smirk to appear on her face. Implying that she’s figured out a good place for her.
+
+She’s so helpful.
+
+I stand up and pat her on the head with a smile, ignoring the fact that she’s taller than I am now. Which is unfair.
+
+Little Blue blushes at that before I move around my desk and approach the lyon as Leone reaches her hand out for a handshake.
+
+I accept it and tell her, “I’ll be expecting more details on the job before I officially accept it, as you’d probably expect, but I think it’ll be a pleasure working with you.”
+
+She genuinely smiles for the first time since I first saw her and replies, “I do too.”
+
+A second passes before we let go of each other’s hands, following which I begin to leave my office.
+
+Only to hear Little Blue tell the lyon, “When you join us, your job will be to follow her around in the place of Shirogane to make sure she returns every once in a while. Got it?”
+
+I spin around immediately while blurting out, “What?!”
+
+Little Blue just smiles at me while saying, “Well, there’s always paperwork that needs to be done. And we need someone to make sure you return at least once a century to do it.” Then she shrugs, still with that frightening smile on her face and adds, “And you did say that I would be deciding where she works.”
+
+I find my jaw having dropped open as I stare at Little Blue.
+
+Then Leone, with a faint smirk barely visible on her face, says, “Sounds like a plan, little boss.”
+
+Little Blue takes the moniker in stride as she continues smiling at me.
+
+I turn around and leave my office before finding one of the closest balconies and jumping off of it while crossing my arms and frowning.
+
+Traitor.
+
+Now I’m starting to second-guess this job.

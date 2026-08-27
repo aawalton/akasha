@@ -1,0 +1,267 @@
+---
+id: 03af1564-5e0e-5dee-9ac4-f8980350775c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27"
+slug: 0028-chapter-27
+partOf: death-healer
+position: 28
+ownLength: 2774
+unit: words
+publishedAt: 2025-06-02
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2325498/chapter-27"
+royalRoadId: "2325498"
+---
+
+Lily couldn’t believe her eyes. What was the fox-masked boy doing here?
+
+“You!” she blurted, pointing an accusatory finger. Sabinus limited himself to a complacent smile and stood at ease, looking completely untroubled.
+
+Lily’s voice shook with indignation as she repeated, “You!”
+
+This was the rude guy who had made fun of her in the carriage.
+
+“You know him?” Adriana asked, wearing a thin smile that hinted at both curiosity and an odd flicker of enjoyment.
+
+Lily sensed this through her Mana Sense and felt anger rise at her mother, too.
+
+The blonde girl drew a breath but Sabinus preceded her with an explanation.
+
+“We exchanged a few words after the party… after she told off Aurelianus.” Sabinus recounted with a casual grin. “I was there, of course. I saw the whole thing.”
+
+"You were there, then?" Drusus asked.
+
+In response, his son produced a fox mask from thin air—its sudden appearance felt like a taunt—and held it up by one edge. Drusus only nodded, looking unsurprised by his son's reply.
+
+"I should have imagined you wouldn't have missed it," the Patriarch of the Gens Cornelia said.
+
+Lily, however, was still rattled.
+
+“He can’t teach me,” she said under her breath.
+
+“Why not?” Adriana’s voice showed genuine interest as she turned to Drusus, who sat across from them. “Drusus,” the blonde woman continued, addressing the patriarch of Gens Cornelia by name, “can you guarantee your son is qualified?”
+
+“Of course, Adriana,” Drusus replied. “He might act like a fool at times, but the only reason he isn’t a Champion is that he was born the wrong year—the same year of your nephew. Let me put it this way: there isn’t a single young man or woman other than Cassius Iulius, from any Great Family or otherwise, who has demonstrated more raw martial skill than Sabinus.”
+
+Adriana gave a thoughtful nod.
+
+“Fine.” She turned to Sabinus. “Are sure you can handle training my daughter?” she asked in a direct tone.
+
+“She’s a bit wild,” Sabinus observed with a cheeky smile. “But I’m certain I can tame her.”
+
+Lily shot to her feet, eyes blazing.
+
+“What did you just say?”
+
+Adriana spoke over the sudden tension, as though she hadn’t heard Lily’s outburst.
+
+“This might work out perfectly,” she mused, prompting Drusus to stifle a laugh while Sabinus’s grin deepened.
+
+Lily, meanwhile, looked ready to hurl the plate at him.
+
+* * *
+
+The next day, at the crack of dawn, Lily and Sabinus were in a courtyard and Lily clutched her sword so hard that her knuckles had whitened.
+
+"You should relax," the boy said, cracking his neck and holding a sword like one would have a walking cane. "Show me what you've got, first."
+
+Dew clung to Lily’s boots while her grip creaked on the leather hilt.
+
+Lily drove forward. Her sword sliced through an empty outline because Sabinus had already blurred aside. Three copies drifted away from him, each one perfectly calm.
+
+She swung at the nearest copy, and it scattered into cinders. A light tap just behind her ribs told her where the real boy stood.
+
+“Ease your fingers,” Sabinus advised. “A strangled hilt slows the wrist.”
+
+How can he be so fast? And what kind of illusion was that?! Lily was stunned by the proficiency of Sabinus.
+
+She tried calming down and extended her Mana Sense around her.
+
+He's good, but he can't escape—
+
+She feinted left, then cut right. However, the most solid Mana signature revealed yet another illusion, which immediately folded as soon as she touched it. She saw Sabinus's figure swing from teh side and she parried, but then she received a kick from behind and faceplanted in the mud of the training grounds.
+
+She immediately got up and rushed Sabinus from the direction of the kick, feeling the sword connect once again. Her hopes were up for a moment, but then she got her legs swept up from her flank and fell in the mud once again.
+
+Mud smeared Lily from head to boot. Wet earth matted her loose hair, so dark curls between the blonde ones stuck to her cheeks and framed her eyes like crude war paint, while a thicker clod slid down her jaw and spattered on the stones.
+
+Small beads of sweat mixed with the filth on her brow, now. She wiped them with fury and spat some of the soil.
+
+She straightened her back although mud pulled at her sleeves, and fixed her glare on Sabinus.
+
+“You have poor footwork, too much anger, and you already need a hot bath,” he said. "And we just started. Relax the grip."
+
+Lily begrudgingly obeyed and shrugged.
+
+"What's that going to change? You're too fast. I can't see you. Are those illusions real? Why can they hit me?"
+
+"It's the Gens Cornelia's Great Skill. Don't feel bad. I was just playing a bit. Let's have a normal exchange, now."
+
+This time, Sabinus didn't use any illusions, he simply met Lily's swings and tripped her as soon as she showed an opening.
+
+She rose and leveled her sword. “Again.”
+
+Sabinus inclined his head—he was already surprised by the grit of the girl. She had seen boys from the subordinate families of the Gens Cornelia behave much more childishly than her after such a humiliating exchange.
+
+She's gritty, he thought, sending her into another tumble. More than she looks it.
+
+The young man had been very interested in the kind of response Lily had given Aurelianus, but not for a moment he had believed she could actually pull off a win at the Champion's Trial.
+
+Lumius Iulius had been training all his life with some of the best trainers in the Papacy. If it had been Sabinus facing him—and not that monster of his older brother—he would have won.
+
+Even his sister, Lucretia, is a better fighter than Lumius. What a family of freaks.
+
+Two years prior, Lucretia had won the Champion's Trial herself. However, since she was a woman and thus hadn't learned the Great Skill of her family, she hadn't received the title of Champion.
+
+"When I go for a swing like this, put your feet here," Sabinus demonstrated and went for another attack.
+
+“Better,” he said.
+
+He sent her through the mud for the better part of an hour but the girl didn't back away.
+
+"Once more," she answered.
+
+"You need a break. Let's go eat something. It's time for breakfast."
+
+Lily looked disappointed, but it was Sabinus who was actually worried now.
+
+She has no talent whatsoever for the sword.
+
+* * *
+
+After they resumed training mid-morning, Lily spat another clump of earth, then planted the tip of her sword in the mud so she could study the boy who kept throwing her into it.
+
+“Where,” she began, steadying her breath, “where did you learn tricks like that? And why do you hide behind masks? I know nothing about you except that you’re fast. I literally don't know one thing.”
+
+Sabinus let his copies fade.
+
+He rested his practice blade across his shoulders and answered without the usual grin.
+
+“My mother taught me most of it—she was an exceptional teacher despite being just an [Herbalist] herself,” he said. "Her family—all the women there—they know some weird martial art. But, they only teach it to other women for some reason. My mom still taught me most of the tricks and techniques I know. Father is a great warrior… but not a great teacher, in my opinion."
+
+"Is she, your mom…" Lily didn't want to be rude since she just felt a shift in his emotions. She felt a deep sadness and melancholy that made her instantly empathize with Sabinus.
+
+“Her name was Vibia and… maybe if she had chosen a fighting Class, she might have been even better than father. She often helped move convoys of refugees at the border whenever she could. Two years ago she led a convoy of refugees toward the capital, and the whole column vanished into nothing. My older brothers were there as well. Some say the undead caught them, but no one ever found bodies or anything—just… silence.”
+
+Lily felt the cold morning settle down her spine. “No signs at all?”
+
+“Nothing,” he said. “It was as if the road swallowed them.”
+
+He reached into the inner pocket of his jacket and drew out a small silver mirror. A crack ran from the hinge to the rim, splitting the glass into two uneven panes.
+
+“She carried this,” he explained while turning it so dawn light skittered across the fracture. “Her reflection is gone, yet I keep the memory.”
+
+He closed the mirror and slipped it back inside his coat. The faintest smile returned, though it looked tired.
+
+“Now you know one thing about me. Will that loosen that grip, or do you need another lesson in the mud?”
+
+Lily tightened her fingers around the hilt again, but the tension was different—focused rather than frantic.
+
+“Show me,” she said, and she raised her sword.
+
+* * *
+
+The lessons continued like this for two weeks, but, to Lily's dismay, she felt like she was making no progress whatsoever.
+
+A bell chimed the midday hour when Sabinus re-entered the yard, this time with another boy at his heels. The newcomer wore crimson training silks trimmed in gold, and he walked as though the ground owed him thanks for each step. He was Lily’s height, yet his gaze carried the bored condescension of someone twice her age.
+
+“This is my cousin, Septimus Cornelius,” Sabinus said, keeping his tone even. “He is twelve, like you, and Father wants you sparring as soon as possible. I told him you weren't ready, but he doesn't listen. So, here we are.”
+
+Septimus gave Lily a cursory look, then flicked an imaginary speck from his sleeve.
+
+“So you are the girl healer who thinks she can seize a Champion's title,” he sneered. His voice was light, but every word brushed her like a needle. “I heard you lectured Patriarch Aurelianus Claudius in front of half the nobles of the country. Very foolish, little girl.”
+
+Lily’s jaw tightened, and she planted her feet.
+
+"You're my age, idiot."
+
+"I might be, but you're a girl." Septimus chuckled softly. “Someone who should be looking after small children or in a kitchen.” He strolled in a slow circle, examining her soaked tunic and mud-caked boots as if assessing a prize horse.
+
+Sabinus raised a warning brow, but Septimus continued.
+
+Septimus let the silence stretch, then stepped closer, voice honey‑slick and loud enough for every squire loitering on the wall‑walk to hear.
+
+“Tell me, Liliana Claudia, future Champion, future Pope—did you really wag your tongue at Patriarch Aurelianus Aemilius and promise to ‘punish his ignorance’?” He barked a laugh that echoed off the stone. “Dawn's Mercy, nobles still dine out on that story. A twelve‑year‑old healer scolding a war hero? What’s next—will the palace chickens lecture the generals on strategy?”
+
+He paced a slow circle, boots splashing the thin puddles Lily’s falls had left.
+
+“Champions are tempered in blood and steel, not poultices and pity. You brandished big words and thought the Lord would rearrange fate out of courtesy.” He flicked a hand as though shooing a gnat.
+
+“When my Champion’s Trial comes, I shall take the first place from the Gens Iulia. You, meanwhile, will be petitioning your father for a husband tolerant enough to overlook that insolent mouth.” His gaze drifted over her mud‑stained tunic. “Perhaps I’ll save him the trouble—marry you myself. If you behave, I’ll even grant you children to look after.”
+
+Lily's grip on her sword tightened and she felt her blood boiling.
+
+“Come then, future Pope," Septimus said, raising his practice sword. "Land a single clean strike and I’ll kneel here and praise your destiny. Miss, and you concede—before these stones and every witness perched on them—that a girl’s proper place is beside a man, not leading the country.”
+
+* * *
+
+Septimus skipped outside Lily’s guard again, sword-tip brushing past her wrist, and her latest thrust skated through nothing more solid than dawn air. Each failed advance widened the boy’s smile, and his voice rose in a taunt.
+
+“Champion-to-be, or healer of scraped knees? You spoke grand words at the banquet, yet you cannot even land a touch.”
+
+Lily swallowed the heat rising in her chest and fixed her weight on the balls of her feet before she darted in again. She snapped a thrust at Septimus’s collar, pulled the blade back, and hooked it low in the same breath. Septimus slid his forward foot, and the tip whooshed past the fabric of his trouser leg without so much as brushing the cloth.
+
+She recovered, forced her shoulders loose, and tried the footwork Sabinus had drilled into her during this past week. Yet Septimus inclined his head while his practice sword drifted just far enough to bump her edge aside. Lily felt the jolt in her wrist, though the boy had used very little strength.
+
+Frustration coiled tighter, and she opened her Mana Sense, hoping to catch the rhythm in his movements. Lily thought she had found an opening. She shifted left, feinted high, then thrust for his knee.
+
+Septimus lifted the leg, guided her blade under it, and laughed softly while he hopped past her guard. Lily turned to keep him in sight, mud splattering from her boots, yet he was already balanced again and waiting.
+
+Her arms started to feel heavy, and breath spilled through gritted teeth, but Septimus still looked as composed as when they had begun.
+
+He flicked an imaginary speck from his cuff once again and commented.
+
+"A proper Champion should be able to make at least one strike before breakfast, shouldn't they?"
+
+Lily shouted in frustration and she charged with an overhead swing.
+
+Septimus bent his knees, sank under the stroke, and let the flat of his sword kiss her shoulder. The impact stung and spun her half around despite having no malice in it.
+
+Lily steadied herself, lifted the hilt again, and launched a final combination. She feinted at his shoulder, rolled her blade low, and cut toward his thigh, yet Septimus turned his hips, caught her edge on the flat of his own weapon, and flicked it aside. He pivoted, raised the practice sword, and began a backhand stroke aimed straight at her cheek—this time, there was malice in it.
+
+A hand, pale and unadorned, rose between them and arrested his wrist with effortless certainty.
+
+A woman now stood in the narrow space separating the two children, although Lily could not remember any footstep, any shadow, or even the brief blur that might have announced her arrival.
+
+She appeared no older than twenty-five, and her ash-blond hair lay in a single braid that reached the middle of her back. Mud spattered the hem of a travel cloak that looked as though it had known many border roads.
+
+Sabinus’s controlled composure cracked, and he spoke the name in a rush of surprise.
+
+“Aunt Calpurnia.”
+
+The woman did not acknowledge the greeting.
+
+She released Septimus, guided him a single step away with a gentle push, and turned her attention upon Lily.
+
+Grey eyes swept from Lily’s head to her boots, pausing longest upon the position of her heels. Then Calpurnia reached forward, closed her fingers over Lily’s practice sword, and drew it from her grasp as if the grip offered no more resistance than a reed.
+
+Lily felt the loss of that weight like the sudden absence of a heartbeat.
+
+“Why are you taking my weapon?”
+
+Her voice carried equal parts anger and confusion.
+
+Calpurnia spoke without raising her volume.
+
+“Steel does not belong to you.”
+
+She turned as though she intended to leave the courtyard, cloak whispering over the stones.
+
+Lily’s stomach dropped.
+
+The woman slowed but did not look back at Septimus. She regarded Lily for a moment longer, and said something quietly yet with absolute certainty.
+
+“Your fate lies in your fists. Use those.”
+
+She walked away, and the courtyard fell into a hush so complete that Lily heard the drip of water sliding from her own sleeve. Septimus’s laugh broke the silence, bright and mocking.
+
+“Fists? The [Healer] plans to box me? This grows better with every breath.”
+
+His derision struck Lily harder than any practice blade.
+
+Anger flashed, yet beneath it she felt an unexpected steadiness, as though unseen hands adjusted her shoulders and set her feet.
+
+Her knees bent.
+
+Her weight settled toward the balls of her feet.
+
+Her empty hands rose, palms half open, thumbs hooked inwards. She did not recognize the stance, yet it felt as natural as breathing.

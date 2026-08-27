@@ -1,0 +1,165 @@
+---
+id: 83295be5-eb15-53f5-8221-d7b65305e6cc
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 17"
+slug: 0175-b3-chapter-17
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 175
+ownLength: 1538
+unit: words
+ownProgress: 1538
+publishedAt: 2024-06-25
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1692711/b3-chapter-17"
+royalRoadId: "1692711"
+markedReadAt: "2026-06-29T19:11:40.129Z"
+---
+
+AriaOne week later
+
+I sit on my lawn chair holding little Asher in my lap while looking down at the fella ignoring the explosions ringing out high beyond the sky. Ignoring the rushing fanatics and the much smaller guard all around the place. And focusing pretty much all of my attention on the adorable little kitten who is pawing at my stomach.
+
+So adorable.
+
+I reach down to poke at his cute little nose before he meows at the same time as another wave of explosions ring out from above. Then more explosions echo from the skyscrapers around the massive triangular building I’ve been living in for a bit now.
+
+Over the course of the last week, I’ve managed to study little Asher a bit. And what I’ve figured out about him generally comes down to a few simple things.
+
+He can use death magic.
+
+He can use soul energy just like me to enhance himself.
+
+And he likes fish.
+
+Of course, the last one is the most important. Or at least, Asher seems to think so.
+
+Every time he so much as sees fish he goes running.
+
+It’s rather adorable.
+
+The fella also enjoys lying on my lap. And only my lap.
+
+To the point that when a few of the fanatics offered to entertain him a bit to give me a break if I needed one, he just hissed at them. Clearly showing that he’s smarter than the average cat.
+
+They didn’t even reach for him. Just made the suggestion then acted as if nothing had happened.
+
+I never did see those fanatics again. Probably not a good sign, but Imma just act like I never saw them.
+
+For the best that way.
+
+Soon a large shadow begins to envelop the entire complex of buildings I’m in, making me and Asher glance up to find a massive spaceship moving over the place. Then a loud voice echoes down from the spaceship stating, “Cult of the End! You are hereby ordered to release Lady Death from your clutches! If you adhere to this order you will all have your five-century-long undead labor sentence reduced to four centuries!”
+
+I blink at that before muttering, “Huh…”
+
+That’s still a rather long sentence. Even for me.
+
+I glance down at Asher as he lets out a meow and nods his head with a look of pride on his kitty face. A look that has me furrowing my brows at him in both amusement and exasperation.
+
+“Asher, you do realize you didn’t do-” I start, only for the cat to look up at me and give me his adorable little kitty eyes. So I just sigh again, making the maids near me once again begin panicking.
+
+I glance at the maids before almost sighing again. But I refrain.
+
+Gave one a heart attack on accident a few days ago just from sighing. Might be best to not do that.
+
+Anyways, this cat is manipulative as hell. And he’s convinced I’m his bed.
+
+Are all cats this way or is it just him?
+
+I turn my focus back to the spaceship above us as the fanatics all begin sending magical attacks at it. Whether through their abilities or through magical spells, or even through turrets set up around the place. Ones that reveal themselves to have been in the walls and roofs of the buildings without me ever knowing.
+
+Then, as if that wasn’t loud and annoying enough, smaller spaceships begin leaving the large one and firing back at the turrets and fanatics. Meanwhile more spaceships arrive from the stars and fire on places outside of this complex that I can’t see from here. No doubt other fanatics who aren’t in this complex.
+
+Just the sight almost has me sighing again. But I refrain. For the sake of the maids.
+
+“Asher, you do realize I’m not a bed, right?” I ask while picking him up and bringing him to my face. An act that makes the maids behind me jealous for some reason, but I’m just ignoring them as I always do.
+
+The cat just tilts his head and meows with a questioning tone. As if I said something ridiculous.
+
+This cat really makes me wonder if it’s just him or if all cats have some sort of feeling of superiority over others.
+
+I’m pretty sure I saw him at one point ordering the maids to get him fish somehow. And I’m still not sure if I’m more confused by the fact that they understood him or by the fact that they actually obeyed without question.
+
+They’re spoiling him. That must be it. There’s no other way a companion of mine would act like this.
+
+More explosions echo from above and the large triangular building begins to shake a little bit. Meanwhile the maids continue watching my every move in case I ask for them, somehow being willfully ignorant of what’s going on around us.
+
+The butlers ran off though. Pretty sure they went to fight, leaving the maids here with me.
+
+I lower Asher again, letting him resettle on my lap as I look back up at the fighting. Which is certainly a sight to behold.
+
+Spaceships floating in the sky firing at other spaceships and turrets, turrets firing back on them, a bunch of creepy people in black robes firing off spells and abilities at the ships and the people floating in the sky firing back at them wearing equally black yet less creepy robes.
+
+Overall, lots of robes, and lots of explosions.
+
+I do find the explosions to be nice though. Makes me wonder if I can buy their explosives.
+
+They look like they’d make for good Hunter Spot farming.
+
+Oh, and some of the pharaoh’s forces do try to go directly towards me. But most of them are countered by the top people of the cult. People who are all stronger than the king and queen of Atlantis by far. Each and every one of them.
+
+Then more forces from the ship try to head towards me, only to be countered by the leader of the cult. A rather creepy dude who was also the one talking to me before.
+
+And who happens to be in the four digits in level. Somewhere around level three or so thousand if I remember correctly.
+
+I have to say though, this is rather interesting to watch now that more of the powerful people are coming out.
+
+Always interesting to see powerful people fight. Makes me excited for the future when I’m actually, uh, strong. When I won’t have to rely on explosives.
+
+Not that explosives are bad.
+
+They’re great.
+
+Amazing even.
+
+But relying on them isn’t fun.
+
+On another note, I did actually try to walk over to one of the skyscrapers and use an explosive to blow up the wall and let me out. But the wall kind of ignored the explosive.
+
+And when I brought out a nuke? Before I could even think twice about it due to the people it would kill, the nuke just kinda disintegrated into dust.
+
+I was rather pissed about that, since that nuke cost a lot.
+
+So, of course, I had the fanatics reimburse me for it.
+
+It’s only right after all.
+
+Not like I was gonna blow them all up with it or anything.
+
+It was also the point I found out that all explosives on that scale are automatically disintegrated when within the compounds of the complex.
+
+Never brought out another explosive after that.
+
+My attention returns to the spaceship when I see someone flying out of the thing. Someone wearing a black kilt made of rather nice materials with pitch black eyes. And they just kinda stop there despite a bunch of turrets immediately turning to fire on them.
+
+Turrets that they kinda ignore.
+
+They look rather androgynous, so it’s hard to tell what gender they are. With a relatively feminine physique and – now that I get a better look – oddly diamond-like eyes. With them being separated into a bunch of rhombuses for the otherwise normal pupil.
+
+All of which together makes me realize just who he is.
+
+The Pharaoh ruling over the Rex Dynasty of the Dead.
+
+Raja Singh Amunet.
+
+The most powerful undead in the entire universe. And the only creature of his species.
+
+A necro.
+
+A species born only in places of immense death energy and miasma. Miasma so thick it and large in quantity that it can be mistaken for a planet.
+
+He’s the only known necro in existence though.
+
+Although apparently he isn’t really a he. Or a she.
+
+Apparently necro don’t have a gender. But he just went ahead and identified as male.
+
+The word on the internet says he chose based on the roll of a die and doesn’t actually care one way or another.
+
+My thoughts pause when his gaze locks onto me and the faintest hint of a smile stretches across it. Something that I’ve heard never happens.
+
+Ever.
+
+I just kinda wave at him before reaching over to pet Asher some more.
+
+His smile grows slightly amused. Only for it to vanish again when he focuses on the cultists.
+
+Well, looks like I’m getting out of here soon.

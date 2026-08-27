@@ -1,0 +1,175 @@
+---
+id: e9003ace-57f9-592b-930f-f91c462b6862
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 45"
+slug: 0353-b5-chapter-45
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 353
+ownLength: 1433
+unit: words
+publishedAt: 2026-06-29
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/3609469/b5-chapter-45"
+royalRoadId: "3609469"
+---
+
+Aria
+
+I yawn as the notification comes to me.
+
+User has leveled-up to level 550.
+
+Assessing user’s accomplishments and actions… assessment complete.
+
+User will now be given the following skill:
+
+The Draw of Death
+
+To Death, the Plane of Death is home.
+
+All that resides in the Plane of Death belongs to her.
+
+And all that empowers it is Death.
+
+Allowing Death to claim the energy in the Plane of Death as her own whenever so she desires it.
+
+So beware of the Plane of Death.
+
+For it is the place Death herself calls home.
+
+There it is. I wasn’t sure if I would actually get a skill at level five hundred fifty, but I guess I did.
+
+As for the skill itself? It’s kinda useful?
+
+I already have more energy than I know what to do with, so…
+
+Hmm…
+
+Out of curiosity, I activate the skill, following which rifts open all around me in the cavern and death energy begins flooding the entire place. Making the entirety of the cavern filled with sinister black and crimson energy.
+
+Not bad at least, but I still don’t really need the extra energy. So this skill isn’t…
+
+My thoughts trail off when a mana creature enters the cavern and I briefly think to order the Death Spirits in the cavern to kill it. Only for the death energy in the cavern to all rush straight at the mana creature like some sort of vortex or a black hole. At which point it surrounds the mana creature, coats it in death energy, and continues trying to shrink down inwards.
+
+Crushing the mana creature by causing necrosis and killing off the creature cell by cell until the entire creature is just nonexistent.
+
+Leaving nothing but a swirling vortex of death energy behind.
+
+Huh.
+
+Well that’s interesting.
+
+The death energy seems to respond directly to my will without any spells cast. So that’s interesting.
+
+And actually very useful.
+
+I guess this skill isn’t useless after all. Even if I have what’s practically an unlimited energy supply already.
+
+A few thoughts come to mind for how I can use this.
+
+Specifically thoughts about the exhibition bracket that’ll be coming up soon.
+
+I feel a slight grin beginning to form on my face at the thought of testing this new skill against the Grands. Since having an overwhelming amount of death energy like this will make up for my drastically lower level.
+
+Or at least it should make it so that I can at least fight back if I use this skill.
+
+But only if I use this skill.
+
+I’m pretty sure the rest of my attacks won’t even scratch a Grand.
+
+And even if they did scratch a Grand, it wouldn’t really matter. Since most of the Grands are my allies. So I wouldn’t really be able to do anything even if I did scratch them.
+
+If I were in a life or, well, life battle against them, then I could make those scratches permanent and unhealable.
+
+But these Grands are mostly allies and I’m not actually going to be trying to kill them.
+
+So dealing allies and even family members permanent injuries just for an exhibition tournament sounds like a bad idea.
+
+I reach up and tap my chin a few times before shrugging.
+
+Whatever. I may not be able to do anything to them, but they can’t do anything to me either.
+
+It kind of makes me wonder just what they’re expecting for this exhibition match. Since I can’t die or get injured.
+
+I don’t even get tired anymore no matter what.
+
+So I can go on forever in a battle. And while a Grand wouldn’t likely ever actually get exhausted considering how little effort they’d need to use to fight me, they do have a limit.
+
+That said, to bring them to their limit it would probably take us fighting for centuries without any breaks.
+
+Which isn’t possible since they could force a break with their power.
+
+At the end of the day, there literally cannot be a victor between us.
+
+So how will they do this exhibition match?
+
+I purse my lips at the thought before eventually just deactivating the skill and beginning to gather up my stuff. Since it’s about time to head out for said exhibition match.
+
+Technically I still have about a week before I need to be there, but I’ve reached my goal. Which was level five hundred and fifty.
+
+And I’m satisfied with this.
+
+More importantly, one of my favorite authors just released a new book. And I want to read it.
+
+So after gathering all of my stuff, I go ahead and open a gate directly to my ship. Then I proceed to have the ship head straight towards the Eternal Dynasty. Albeit with a delay so that it’ll arrive a few hours before they’re expecting me.
+
+All so that I can read my book along the way.
+
+The book isn’t the only thing though as a new season of one of my favorite TV shows aired as well. And I spend some time binging through that after finishing reading the new book release.
+
+Then I just laze around on a lawn chair sitting on top of my ship out in space taking a nap for the rest of the trip.
+
+On a Space Station outside of the capital planet of the Eternal Dynasty, Eternus
+
+Ryoma feels mentally and physically exhausted as he gives the green signal, allowing another ship to pass through into Eternus’ atmosphere. Making for what must be the millionth ship he’s seen in the past several months.
+
+They just keep on coming after all. Without end.
+
+All because of the stupid tournament.
+
+This is his first time living through an Eternal Championships, so it’s his first time dealing with the rush for it.
+
+And he wasn’t expecting this many people arriving.
+
+What’s worse is that a lot of the ships are transportation class ships. Ones carrying passengers to Eternus.
+
+So the planet down below is crowded across the entire planet. Almost like the entire planet is having a convention.
+
+It’s terrifying just going down to the planet thanks to how many people there are. Even worse than the space stations.
+
+Ryoma lets out a sigh at that thought. As he spends his days staying on the station working his ass off.
+
+He would still choose staying on the station working any day over going back down to the planet.
+
+Even if that means not being able to see his parents for a long time without them coming to the station to visit.
+
+Because the planet is just too crowded.
+
+His thoughts pause as the next ship is allowed through security and he gives the green for them to pass through. Allowing a massive transportation vessel to pass by slowly.
+
+Then his thoughts return to his debate on whether he’ll go in person to watch the Eternal Championships or not.
+
+He’s always loved watching tournaments like that, but at the same time, he knows it’ll be crowded as hell. And that part of it will be incredibly unpleasant for him.
+
+Those two thoughts drag on in his mind.
+
+One making him want to go and the other terrifying him away from going.
+
+So they go around in circles over and over again as he lets one ship after another pass. With a few of them getting red signals as security rushes in to arrest them for trying to smuggle things through.
+
+But eventually his full attention goes on a sudden halt when he notices something in a ship that is given the go ahead without even having to be checked by security.
+
+A VIP ship.
+
+Yet, more importantly than that, he notices the oddity on the ship’s roof.
+
+Just seated on a lawn chair on top of the massive ship, he finds a young woman sleeping with a mask over her eyes to protect her eyes from the sun.
+
+What’s even more ridiculous as he watches the ship slowly pass through is that the woman is just wearing a t-shirt and shorts without any sort of suit to protect her from space or to give her oxygen.
+
+She’s just lazing away in space on a lawn chair out in the open.
+
+Ryoma realizes his jaw dropped in shock at some point as he watches her pass, so he calmly lifts his jaw back and continues watching the ship pass without a word.
+
+Then he eventually turns to focus on the next ship while still staring blankly ahead.
+
+Huh… well that’s not something you see every day.

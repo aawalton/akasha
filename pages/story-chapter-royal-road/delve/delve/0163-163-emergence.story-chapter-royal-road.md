@@ -1,0 +1,261 @@
+---
+id: 9ed4d9f5-2c3d-5e5b-b6e6-9a025987b182
+page-type-slug: story-chapter-royal-road
+title: "163: Emergence"
+slug: 0163-163-emergence
+partOf: delve
+position: 163
+ownLength: 4444
+unit: words
+publishedAt: 2021-09-19
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/753155/163-emergence"
+royalRoadId: "753155"
+---
+
+Mig squinted, sweeping the prototype flashlighter’s beam around the darkened interior of the tunnel in front of him. He and Del were in the crack, standing guard at the entrance of the passage that led to the depths. It was mid-day, and while there was plenty of light from the sun, the light bulbs strung along the chasm walls remained lit, driving away any shadows that might have remained. Not so in the tunnel ahead, which was normally sealed by a heavy door, open now in anticipation of the captain’s return. The flashlighter’s beam lit it well enough, however.
+
+The flashlighter was a heavy, boxy object, made of metal and about the size of a loaf of bread. It had a handle welded to the top side so it could be carried like a bucket. The beam came from a glass window set in one end—a lens, it was apparently called.
+
+“I’m telling you, Del, it’s gotta be Crysts in here,” Mig said, still sweeping the beam about. “Where else could it be getting the light? There’s no wire for it to get in from the generator.”
+
+“Damnation, Mig, you pigeon head, that ain’t it. Weren’t you listening to Staavo? Light doesn’t come through the wires. It’s the lectons.”
+
+“The what?” Mig asked, turning to shine the beam directly into Del’s face.
+
+“Hey!” Del protested, raising a hand to shield his eyes. “Point that somewhere else.”
+
+“Oh, sorry about that, Del,” Mig said, not sorry at all. He aimed the beam back down the darkened tunnel. “I’m just telling you, it’s Crysts.” He adjusted his grip on the handle, his arm tired from the weight. “They just made it heavy to fool us. Don’t want us to know that they’re in here.”
+
+“Mig, if my pillow was as soft as your head—“
+
+Mig pressed a hand to his chest. “Hey now, Del. That’s unkind.”
+
+Del snorted. “Well, maybe try using it to think for once in your life. That thing’s heavy because the battree inside is made of lead and filled up with acid.”
+
+“Thought you said it was lectons,” Mig replied, grinning. “And I don’t think you’re saying either of them words right.”
+
+“Mig, El help me, I’ve had it with you. If you’re so curious, open it. See what happens. Reason helped make that thing, and he’s awakened, ain’t he? The acid should be nice and strong. Melt the flesh right off your bones and rid me of you, once and for all.”
+
+“Oh, stuff it, Del,” Mig said, shining the flashlighter’s beam up under his own chin. “You’d miss me. And I’m telling ya. It’s a conspiracy.”
+
+“Will you two just shut up already?” a woman’s voice snapped.
+
+Mig paled, looking up to see Lady Draves scowling at them.
+
+“Look what you did now, Mig,” Del said, crossing his arms. “You’re bothering Miss Lyn. Now say sorry.”
+
+“I don’t want your sorry; I want you to shut up,” Lady Draves said, stalking over. Like them, she was wearing standard Ascension leathers, complete with the signature white cloak. However, instead of a leather skullcap, she had a hat made of sumptuous black fur. That hat and the story of how she’d won it marked just how far above them she was.
+
+Stopping in front of them, Lady Draves planted the steel-capped tip of her staff on the ground with a clang. “You’re supposed to be guarding. So guard. Quietly.”
+
+Mig mumbled something, averting his eyes.
+
+“Now now, Miss Lyn,” Del said in a patronizing tone, much to Mig’s horror. “Things would get awful boring if we did that. Say, have I mentioned that you remind me of my daughter? You’re about her age. Almost as pretty, too.”
+
+Mig decided that it would be best to put some distance between himself and Del, but before he could dive for cover, Lady Draves surprised him.
+
+A laugh was not the reaction he’d expected.
+
+“You remind me of my uncle,” she said. “He was from the main family, so he could basically say whatever he wanted. You, though? Are you trying to get yourself killed? ‘Almost as pretty’? Don’t they teach you how to talk to women in Vestvall? Or to nobles, for that matter?”
+
+“You haven’t seen my daughter,” Del said, grinning. “Vision of her mother. And as for nobles, we ain’t got none worth the name around here. Besides, this is Ascension, ain’t it? Sure, you’re Entrusted, and an awakened noble besides, with us just dull Aspirants. But it’s like Miss Vanna says. Rank is just rank. Nobles, commoners, women, men, awakened, dulls, old, young…” He shrugged. “We’re all just folk.”
+
+“Hmph,” Lady Draves said with a snort.
+
+Mig relaxed slightly but tensed again as the young noblewoman turned to look at him. “You are supposed to be guarding, though. Rank is rank, so maybe you should do what I say, hmm? What if they come back and see you two like…this?” She gestured at them vaguely, then to the pair of crossbows lying nearby. “You aren’t even holding your weapons. Some watchers you make.”
+
+“I…uh…” Mig began, shrinking back and glancing down at the flashlighter in his hand. It gave him a better excuse than Del had, but he was hesitant to defend himself—or, for that matter, to point out that she wasn’t exactly guarding like she was supposed to either.
+
+“Stop cringing,” Lady Draves said before Del could cut in. “You’re making me feel bad. I’m not going to hurt you if you offend me. Do you really think they’d have let me join if I was that kind of noble? Now, pull yourselves together and do your jobs. The tunnel was already cleared, but it’s still our assignment to stand here and wait for the captain.”
+
+Working up his courage, Mig risked a question, seeing Del busy retrieving his crossbow in the corner of his eye. “You really think he’ll come back today?”
+
+Lady Draves shrugged. “Or tomorrow. Any day, really. They’re overdue, but Vanna said she heard from them. Fuck if I know how.”
+
+“Miss Lyn,” Del gasped, his voice taking on a scolding tone. “A lady shouldn’t use words like—“
+
+“Quiet,” she snapped sharply, cutting him off, though not in anger. She was looking past him, down the tunnel.
+
+Mig whirled, shining his flashlighter at the darkness but revealing only an empty tunnel. He then jumped as a voice echoed from within it, coming from around the bend.
+
+“Hello!”
+
+Lady Draves moved faster than Mig could react, and before he realized what was happening, a crossbow was being shoved into his free hand.
+
+“Hold that and stand up straight before you embarrass me,” Lady Draves hissed at him as he struggled not to drop the weapon or to inadvertently trigger the catch.
+
+Managing to get the weapon under control, Mig straightened himself up as ordered while Lady Draves moved to stand between him and Del. Contrary to her urgent instructions, she seemed relaxed, holding her staff in an easy, casual grip.
+
+Together, they waited, but they didn’t have to wait long. The light at the end of the tunnel began to grow, taking on a golden tinge, and the sound of heavy, metallic footsteps became audible. Those footsteps rapidly increased in pace, growing louder and louder until a figure came into view, approaching at a jog.
+
+The captain—it had to be the captain—was an enormous man, clad in shining steel and wearing a white Ascension cloak draped about his shoulders. In either hand, he held what looked to be metal cases, not unlike the flashlighter, but much, much larger.
+
+Mig’s eyes widened as the captain ran toward them. By the gods… He had heard that the man was tall, but nothing had been said about his breadth. Even accounting for the armor, the captain had to be massive, and with his pace, burdened as he was, massively strong as well. He seemed untroubled by the weight of the cases and by the pack on his back. His visor was open, revealing a smiling, bearded face.
+
+“You’re late!” Lady Draves called out, waving.
+
+The captain laughed, slowing as he approached. “Sorry. We had to go pretty deep. I didn’t mean to keep everyone waiting. Nice hat, Lyn.”
+
+“Thank you,” Lady Draves said, laughing. “I helped kill it myself. Where are the others?”
+
+Captain Rain waved a hand. “Oh, they’re coming.” He looked over his shoulder, raising his voice. “Slowpokes!”
+
+“Impatient child!” a woman’s voice called back sweetly, and Mig shifted his flashlighter to reveal two more forms coming around the bend at a walk, a woman and a cervidian man; the latter he recognized by sight, and the former by her reputation. Both were armored and cloaked identically to the captain. Also like the captain, both wore packs and were carrying metal cases. Additionally, the woman—Ameliah—had a weapon. A bow, fastened somehow to one of the cases.
+
+Lady Draves waved to the pair, who didn’t seem to be in a hurry, then returned her attention to the captain. “So, did you find what you were looking for?”
+
+The captain smiled. “Yes.”
+
+“And?” Lady Draves asked, sounding expectant. “Come on, details. Don’t tease me.”
+
+The captain smiled. “We found a blue. Two of them, actually. I’m not silver yet, but my cap is.”
+
+“Nice,” Lady Draves said, reaching out to clap the captain on the shoulder. “Congratulations. Vanna will be thrilled. She’s had her hands full while you’ve been gone, by the way.”
+
+“Trouble?” the captain asked.
+
+Lady Draves shook her head. “Not really. Just lots of work managing that swellheaded ass of a mayor and dealing with the new members.” She gestured. “Like these two. Mig, Del, say hello.”
+
+“Hello, your lordly captainship,” said Del. “I’m Del. He’s Mig. Wouldn’t want you to get us confused.”
+
+“Nice to meet you, Del, Mig,” the captain said with a snort. “Your lordly captainship? Really? Please, just call me Rain.“
+
+Mig froze as the man looked at him. Rain’s eyes were…intense. Like deep pools, concealing depths unknown.
+
+Mercifully, however, the captain looked away after barely a moment, his gaze falling to the flashlighter. When he spoke, his voice was nothing like his gaze, filled with an almost childlike exuberance.
+
+“Is that what I think it is?”
+
+Rain was beaming as he strode through Ascension’s compound—outpost, camp, whatever it was now. It was bustling with activity. The walls Ameliah had built simply couldn’t contain the sheer number of people that were around. Vestvall wasn’t a big city—not even a town by his standards—so for this many people to have joined was astonishing.
+
+Not all of them wore Ascension cloaks, of course. Before he’d left, Rain had added provisions to the codes concerning new members who wanted to bring their families along with them. From the howling pack of children chasing a wooden hoop in some sort of game, clearly that was what had happened.
+
+It’s working. We’re becoming…what, precisely? A tribe?
+
+“Where is everyone?” Ameliah asked, speaking to Lyn, who was walking with them toward the gates. “I figured once Mig went ahead to warn Vanna, we’d get mobbed before we even made it inside.”
+
+Rain nodded. He’d been checking with Detection since they’d left the lift, and he’d only gotten a few hits so far. Staavo was underground, likely in the engineering workshop. Jamus and Carten were nowhere to be found. Shrugging, Rain fired off a macro to start an alphabetical binary search of Ascension’s members, then returned his attention to Lyn, who was in the middle of answering the question.
+
+“Most of the original members are out on patrol,” she said, gesturing at the growing crowd of new faces surrounding them. “And what, this isn’t enough of a mob for you?”
+
+“It is enough of a mob for me,” Tallheart said flatly. “I am considering returning to the depths. It was quiet there.”
+
+“Oh, stop,” Ameliah said. “You survived Rain’s questions for a month. You can handle a few humans looking at you.”
+
+Rain smiled, watching the children running in a circle around a hapless Crystal Slime that had gotten in the way of their game. There were quite a few of the gelatinous monsters around, and their influence was readily apparent. Other than the smell, the camp was immaculate for the most part. Orderly, too.
+
+[Hey, Dozer. Your relatives are doing good work. I need to find a way to summon you so you can say hello.]
+
+[⟬filth⟭!] Dozer agreed happily, too absorbed by his cleaning to process such a complicated sentence.
+
+Shaking his head, Rain returned to looking around the camp. Probably for the best. I’ve got enough to take in without Dozer vying for my attention.
+
+Until they’d come over to see what the fuss was about, it seemed that most people had been occupied with breaking down and preserving monsters. There were baskets filled with butchered meat, as well as piles of both raw furs and bones. The harsh tang of tanning chemicals was heavy in the air, not wholly overpowering the odors of smoke and blood. What was clearly a smokehouse had been set up, fenced off by a wall of sharpened stakes, probably to keep the Crystal Slimes at bay.
+
+Excellent work, Vanna, or whoever organized this. Maybe I won’t need to take Fall like I thought. We’ll see once I do the math. Still probably need Spring, though.
+
+Rain caught a particularly strong whiff of the air and had to fight not to use Purify by reflex. He still didn’t entirely trust the spell’s value judgments when left to its own devices, and he didn’t want it to dissolve anything important. Besides that, he didn’t want to alarm anyone. Not yet, anyway. Another gust of wind assailed Rain’s nostrils, and he frowned.
+
+Okay, testing Purify’s edge cases is now number one on the experiment list.
+
+Something else that he’d been seeing but hadn’t properly registered until now made him pause. Throughout the camp, there were shoulder-high posts planted in the ground. Each one was topped with a glowing light bulb, making what were essentially miniature streetlights. They were all connected together by wires that led back toward the walls, passing over them and out of sight. It wasn’t too unexpected of a development; it was just startling how many bulbs there were in total.
+
+Rain turned to Lyn, then gestured with his head as his hands were full. “Nice work on the lighting, but where did all the bulbs come from? I know we didn’t have that many.”
+
+“Hmm?” Lyn asked, turning to him. “Oh, Vestvall had a glassblower…Carem…Carum, Car-something, I think his name is. He joined early on and started raving about how easy Tallheart’s filters made his job. Recharging those has been annoying, and the smelter, for that matter. Romer’s burning up Tel almost as fast as we take it in, or at least it seems that way, but it’s worth it.”
+
+Rain blinked. Shit. He’s using Energize Runes? That could be a problem.
+
+Lyn seemed to miss his expression, continuing. “Anyway, Car-whatever recruited some helpers. They’ve been making bulbs pretty much non-stop with the extra tungsten wire, plus panes for the roof, too. The codes pay well for that kind of thing. It’s been a great draw, actually. Most of the artisans from Vestvall have joined us.”
+
+“Awesome,” Rain said, his smile returning. He’d deliberately set up the codes to reward not just combat prowess, but also creation. It seemed to have worked even better than he’d expected. As they passed through the walls into the compound proper, he looked up, inspecting the completed roof, then back down. The tavern seemed to have been converted into a barracks, the other room Ameliah had made for that purpose clearly not having been sufficient for the number of people interested in sleeping out of the rain. A few people had been hanging around inside, Mig among them, plus a few more familiar faces. Rain waved, then turned as he heard motion behind him. It looked like some of the crowd was interested in following them in, but his eyes snagged instead on a bounty board hung on the wall near the entrance, choked with bills.
+
+Glancing at Lyn, he gestured at the board with his chin. “Those are all mundane stuff, right?”
+
+“Yes,” Lyn said, nodding. “Don’t worry. The board for Entrusted is tucked away in Engineering.”
+
+“Entrusted?” Rain asked.
+
+Lyn blinked. “Oh, right. Entrusted is what we’re calling full members now. We voted on the name. I hope you don’t mind what we picked. We’ve got ‘Trusted’ too, which is a middle rank, mostly to do with access to the company hall and the supply room. They’ve got their own board in there. New members come in as Aspirants.” She gestured to the board. “They get the shit work.”
+
+“I see,” Rain said, reserving judgment. The addition of a third rank was actually something he’d been planning, but going through whatever changes had been made to the codes in his absence could wait. He stepped closer to the board, looking at a few of the bills. The ones he saw were all for things like gathering resources or making mundane items in exchange for credits. There was also a posted list of names that looked like a watch rotation. He nodded to himself, then turned back to Lyn. “Looks like it’s working. How about the credit system? Are people using it?” If Romer’s really been burning through Tel to keep stuff charged…
+
+“Amazingly, yes,” another woman’s voice said, and Rain looked to see Vanna approaching them from his left. She wasn’t smiling, wearing a businesslike expression instead. If anything, she looked stressed. She wasn’t wearing her white cloak, but she had a golden pin on the breast of her jacket, worked in the shape of Ascension’s rising arrow. Tarny was at her elbow, and rather than a standard gambeson, he wore a surprisingly sharp outfit of blue fabric beneath his Ascension cloak. It made him look less like a conscript and more like a young noble. He’d also grown a short beard, much like Rain’s, and the dark whiskers did wonders to make him seem less baby-faced. The cumulative effect was ruined by the way he was practically bouncing with excitement.
+
+“You can thank Atyl,” Vanna said, coming to a stop. “It was his idea to split the Council of Finance off from the Council of Administration. Turns out he’s really good with this stuff. He spotted a flaw in the credit system that would have sent the entire thing up in flames within a few days of you leaving. He even managed to explain the problem well enough to get people to vote on fixing it.” She glanced at Ameliah. “Nice armor. Also, you’re late. You promised me you’d have him back by four days ago.”
+
+“Hello to you too,” Ameliah said, raising an eyebrow.
+
+“Sorry,” Vanna said with a sigh, then forced a smile, including all three of them. “Welcome back. Rain, as acting captain, I officially return Ascension to your command. Mayor Stupid-Face is your problem now, thank the gods.”
+
+Rain blinked, bemused. Mayor Stupid-Face?
+
+“Captain Rain,” Tarny blurted, stepping forward and bowing deeply. “Congratulations on your successful delve.”
+
+“Thank you, Tarny,” Rain said, shaking his head. “Nice threads. The beard looks good on you too.” He turned back to Vanna as Tarny struggled with the praise. “Clearly, we need to catch up. Before that, though, we’ve got stuff.” He hefted the cases slightly. “More than just these, too. I’d like to stash them out of sight, preferably underground, and then we’ll need to organize another trip or two to get the rest.”
+
+“Stuff, huh?” Vanna said. “Very vague.” She beckoned to one of the groups gathered around them. “You four, come take the cases and bring them to Engineering. Get someone inside to bring them down. You’re not to go in.”
+
+“No,” Tallheart said, rumbling deeply. “We will carry them.”
+
+“It’s fine, Tallheart,” Ameliah said, having set down her cases. She laid a hand on Tallheart’s shoulder as Rain nodded in agreement, setting down his cases as well and stepping back to make way.
+
+A white-cloaked man stepped forward, then grunted as he tried and failed to lift Ameliah’s cases. “Gods above and monsters below, what’s in here?!”
+
+“Bung to that, how strong are they?!” said another man, likewise struggling. He gave up on lifting both of Rain’s cases, focusing on just one and managing to get it off the ground.
+
+Rain smiled. The cases were full of ingots. Silver, mostly, but also iron, aluminum, copper, lead…basically everything that they’d found or brought with them. There were more piles of resources below, stable deepstone—though the stability would need to be tested—Ashen Jungle wood, various fruits and plants—some of which might have Chemical or Alchemical uses—monster bones, spare equipment, and more. Tallheart’s cases had the good stuff, and that was probably why he was unwilling to give them up.
+
+“Fine,” Tallheart said after a moment. “But I will supervise.” He turned, carrying his cases toward the passage that led deeper into the compound. “Come, humans. I must see how many of my tools the goat has destroyed.”
+
+“Tallheart, wait,” Rain said, making the smith pause and look over his shoulder. Stepping forward, Rain brought his arms to his sides, bowing formally at the waist in the cervidian fashion. “Thank you, Tallheart. Without you, we wouldn’t have had a chance at success. I owe you more than I can ever repay.”
+
+Tallheart paused, then turned silently, setting down his cases. He stepped forward, then returned Rain’s bow, meeting his eyes. “There can be no debt between family.”
+
+Rain’s eyebrows shot up, stricken by Tallheart’s matter-of-fact tone. Overwhelmed and unsure of how to respond, he was saved by Ameliah.
+
+“Stop it, Tallheart, you’ll make him cry, saying something like that.”
+
+Tallheart rose, then turned and bowed to her as well, just as formally. “Do not mock.” His expression softened, and he chuckled. “Or do. Perhaps it would be appropriate, for I consider you to be family as well.”
+
+“And we, you,” Ameliah said, her voice becoming serious as she bowed back.
+
+“Mmm,” Tallheart rumbled, sounding satisfied. The two of them rose together.
+
+“Well,” Lyn said, looking from Tallheart to Ameliah and Rain. “That was touching. Nothing like a trip to the murderous depths to really bind people together.”
+
+“Tallheart, I—“ Rain began, but Tallheart cut him off, turning to retrieve his cases.
+
+“Do not make it awkward. I will speak with you both later.” Rumbling to himself, he made for the passage to the company hall. After a moment, the unfortunates Vanna had voluntold to help began hauling the cases after him, grunting and swearing with exertion.
+
+Shaking his head to dislodge the feelings that he’d suddenly found it stuffed with, Rain cleared his throat. He caught Vanna’s eye, then gestured to the struggling men in an attempt to change the subject. “I’m pretty sure that’s a workplace safety violation.” He pointed to a wire running straight across the center of the tavern floor. “That, too.”
+
+“Yup,” Vanna said in a tone that said ‘no shit’. She sighed, gesturing at the wire. “There’ve been incidents, but I’ve got too much to manage to do more than remind people not to stick their fingers in the sockets. No deaths, amazingly, here or in Vestvall. Tahir and Mereck have been earning their keep. They’ve had their hands full between the electrocutions and the monster attacks and honor duels… We need to talk about the Vestvall nobles.” She shook her head, then waved at the crowd and pointed at the four struggling with the cases. “Oh, go help them, would you? Aspirants, you can enter the company hall, but don’t go down to Engineering, and come right back once you’re done or we’ll have words.”
+
+Rain shook his head, then glanced at Ameliah.
+
+“Family, huh?” she said, smiling mischievously. She continued in a husky tone, speaking softly so the crowd wouldn’t be able to hear. “So, should I call you husband now?”
+
+“Uh—” Rain stammered, his mind skipping several gears while his heart simultaneously tried to catapult itself out of his chest. Marriage didn’t exactly translate well across the culture barrier. In Fel Sadanis, and possibly Vestvall too, it was more of a common-law type thing outside of the nobility, where it was more about politics. As far as Rain was aware, people would either hold ceremonies or not, depending on their personal beliefs. He wasn’t sure where Ameliah stood on the matter, obviously not having discussed it with her, as they’d only known each other for a few months.
+
+Mercifully, Ameliah laughed, freeing him from the need for a response. “Kidding, kidding! Your face! You haven’t turned that red since—”
+
+“Hey!” Rain interrupted before she could make it even worse. He could feel the eyes of the crowd on them. While most probably hadn’t heard what Ameliah had said, Vanna and Lyn sure had, judging by their amused expressions.
+
+Damn it. She got me good. Unless she didn’t, and she was being serious and just SAID she was kidding because of how I reacted, in which case—
+
+Vanna clapped her hands, interrupting Rain’s rumination before it devolved into internal screaming. “Okay, come on, love ducks. There’s work to do.” She chuckled one last time, then sighed and ran a hand through her hair. “Let’s talk in my office. We’d better get in there before someone like Carten turns up. Hells, or Kettel. Lyn, can you take care of things out here, please? Wait, you didn’t leave Del in the crack alone, did you?”
+
+“Of course not,” Lyn said, still with laughter in her voice as she looked between Rain and Ameliah. “I made him come up with us. I left him with the other sentries at the top of the elevator. They’ve got their crossbows. They’ll be fine.”
+
+“Good, good,” Vanna said, already walking away. “Tarny, go find…where did he go?”
+
+“Right here,” Tarny said, appearing with a tray bearing an assortment of sliced cheese, meat, and fruit. Bread, too, smelling fresh from the oven, sitting beside a lump of butter and a pair of steaming cups.
+
+Rain’s entire focus narrowed in on the divine aroma that was wafting from that tray, even his emotional distress falling to the wayside.
+
+Tarny gestured to the plate, continuing. “I figured they might like something to refresh themselves after being in the deep wilds for so long.”
+
+“Rain,” Ameliah said, laying a hand on Rain’s shoulder. “If I kissed him, would you be upset?”
+
+Rain shook his head. “Hells, move over. I might kiss him first.”

@@ -1,0 +1,52 @@
+---
+id: 2c7f0c5f-b5ca-510e-bd29-296ca2931641
+page-type-slug: story-chapter-royal-road
+title: "New Story Release!!!!"
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 182
+ownLength: 315
+unit: words
+ownProgress: 315
+publishedAt: 2024-07-15
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1718463/new-story-release"
+royalRoadId: "1718463"
+markedReadAt: "2026-06-29T19:11:54.465Z"
+---
+
+Hello everyone!
+
+Assimilator of Chaos, my new story, has finally reached Royal Road now that Wolf of the Blood Moon is complete(completed on Patreon)! The link is at the bottom beneath the cover and synopsis!
+
+Here is the cover if you're interested:
+
+The cover was commissioned from Kart Studio and germancreative.
+
+Next up is the synopsis:
+
+What would you do if your entire world were turned on its head?
+
+A Primordial System buzzing in everyone’s heads, displaying strange screens and other displays in their visions.
+
+Being thrown into a tutorial before entering your first System Event broadcast across the universe.
+
+Returning back to your home after the System Event to realize that it’s been filled with Gates leading to monster-filled domains, a good number of which have already broken and released their monsters into the world.
+
+And learning that the abilities every human being has – abilities that have led to the current structure of society – are nothing but the root of their Skill Trees. The very first skill in their Skill Tree out of many.
+
+Well, Ashley doesn’t know. She doesn’t remember anything other than some basic common knowledge from before waking up at the start of the tutorial with amnesia.
+
+So why should this change anything for her?
+
+Other than her finding out about the blood bestowed upon her by a certain primordial and her own Skill Tree.
+
+One with just a single skill.
+
+A skill to unlock the skill trees of those she kills.
+
+To assimilate.
+
+What to expect: Skill Trees, LitRPG Apocalypse, Skill Tree Assimilator(the ability to take the skill trees of those the MC kills), Livestreamed Dungeons, Livestreamed Public Battles and Events, Chaos Magic, Varied Magic due to Skill Tree Assimilator
+
+What not to expect: I do not write romance(for the main protagonist), there will be no harem, there will be no reverse harem
+
+If you're interested, click here!!!

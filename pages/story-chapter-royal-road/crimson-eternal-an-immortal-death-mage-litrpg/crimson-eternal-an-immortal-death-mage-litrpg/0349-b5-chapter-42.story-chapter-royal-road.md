@@ -1,0 +1,173 @@
+---
+id: c3f5ea9a-7c9e-569b-8044-8959b009ac4e
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 42"
+slug: 0349-b5-chapter-42
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 349
+ownLength: 1386
+unit: words
+publishedAt: 2026-05-30
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/3471454/b5-chapter-42"
+royalRoadId: "3471454"
+---
+
+Within the Plane of Famine
+
+Ignatius Darkheart, otherwise known as the Horseman of Famine, has lived for a very long time. Longer than he cares to count. But he has never felt more slighted than now.
+
+Ever.
+
+The entire creed he lives by is the superiority of the Horsemen.
+
+No one is greater than the Horsemen. They were born superior to all others and will always be superior to others.
+
+The Horsemen of the Apocalypse are the only living creatures in the universe made entirely out of energy in the form of flesh.
+
+Humans are weak creatures made of flesh and blood with a limited supply of energy.
+
+Spirits are eternal beings incapable of doing as they please thanks to the chains binding them to their own Planes.
+
+And mana creatures are unintelligent creatures born from incredibly dense mana.
+
+Even demons are slaves to their own energy. Only being able to survive so long as they have their energy and create more of it to fill the universe.
+
+And the undead aren’t even alive. They’re nothing more than shells with sapient thought.
+
+The Horsemen are clearly the most superior beings in the universe.
+
+They are free to go and do as they please and are creatures made of energy with the power to draw in all of their respective energy from around them.
+
+But they don’t need their energy to survive.
+
+So, as Famine finds himself on death’s door fighting against numerous Grands, he finds it difficult to come to terms with anything.
+
+Thoughts continue to scramble in his mind as he struggles to process what’s happening. Meanwhile he feels all the famine energy around him rushing out to starve every last thing nearby.
+
+Whether it’s the other Grands, who all find themselves weakening by the second from the other side of the rifts, or even Death, who is still watching from the sidelines sipping wine. Ignoring what’s happening to read a book.
+
+Every last one finds their power being drained. Albeit with Death’s power returning since it’s linked to her status as the Horseman of Death.
+
+And no one can truly steal a Horseman’s energy.
+
+Famine continues his final assault on everything, draining the energy and even the nutrients out of everything connected to every single rift the mortals opened up to attack him. Killing trillions of people in the process while draining power from the Grands and weakening them all one by one.
+
+All the way until the pharaoh of the Rex Dynasty finally rushes forwards and envelops him in death energy and miasma.
+
+Slowly whittling away at the last bits of Famine’s energy as his body gradually begins to disintegrate bit by bit from the outside in.
+
+And as that happens, Famine begins to softly chuckle.
+
+Then his chuckling turns into a full-on laugh. Followed by the sound of something in his mind snapping.
+
+At which point he finds himself beginning to cackle at the reality around him.
+
+Right. This is all just a dream.
+
+His insane cackling fills the Plane of Famine and all corners of the universe currently connected to the Plane of Famine. Sending chills down the spines of every person who hears him.
+
+All the way until his head finally completely disintegrates along with the rest of his body.
+
+Marking the death of the Horseman of Famine.
+
+Aria
+
+I let out a yawn as I reach out and grab Famine’s soul core before absorbing it.
+
+Meanwhile a notification echoes all across the universe.
+
+This is an announcement to all users within the System throughout the universe!
+
+A Horseman of the Apocalypse has fallen!
+
+The Horseman of Famine has been killed, ending the Era of Famine!
+
+But be warned, for a new Era of Famine will begin again in the future.
+
+Under a new Horseman of Famine.
+
+For the Horsemen of the Apocalypse are eternal.
+
+I yawn again. All while cheers flood the Plane of Famine from the various rifts. And the Famine Spirits show severe depression.
+
+But that’s not all as I sense the famine energy in the Plane growing weaker now that the Horseman of Famine is no more.
+
+That’s not all though. Because, far more importantly, I feel a massive growth in the amount of energy I have in my body.
+
+All thanks to the soul core I devoured from Famine.
+
+A grin spreads across my face as I feel my energy practically increase by over a hundredfold.
+
+Now that’s a soul core I won’t be getting rid of.
+
+Ever.
+
+Anyway, I pack up my stuff before walking out of the Plane of Famine at last while heading to my ship. And along the way, I look at the internet and the news. Where I find everyone discussing public plans on what to do when the next Horseman of Famine is born.
+
+Which generally come down to killing him as soon as the restrictions are released.
+
+Since apparently Horsemen don’t stabilize for a while after they’re born. And if a Horseman is killed before they stabilize, then the energy that they were born from will just flood the universe again.
+
+So they can’t kill him right away.
+
+Not unless they want a calamity happening in the universe because of the apocalyptic energy building up.
+
+After all, a new Horseman can’t be born too soon after one dies. Even if they die before stabilizing.
+
+It’s a whole ordeal for them to deal with.
+
+I personally don’t care about any of it.
+
+The only thing I really care about is that I got Famine’s soul core. So this entire time sitting around watching the little crusade against Famine was worth it.
+
+For the most part.
+
+In all honesty, I don’t think it really matters.
+
+Not when my temporary supply of energy is so great that I don’t think I’d be able to burn through it all even if I constantly spent it for over a year nonstop.
+
+Still. It’s always nice to have a much larger permanent supply of energy. So it’s a good thing at the end of the day.
+
+On another note, I can’t help but think about the look on Famine’s face as I enter my ship. The look he showed when he was finally dying.
+
+It’s like he snapped.
+
+His obsession with Horsemen supremacy made him go insane. Almost like he decided that this was nothing more than a dream as he was cackling away in the end.
+
+It was kind of creepy to watch.
+
+I rub the back of my neck as I remember that laugh. Then I focus on the news some more to find a lot of people apparently complimenting my actions of devouring his soul core. Which makes it impossible for Famine to be revived by void mages or Void Spirits.
+
+After all, the Void Spirits originally agreed to let him revive once if he died.
+
+But that can’t happen after I took his soul core.
+
+So a lot of people are practically worshiping me as a savior. A Horseman who helps the people against the other Horsemen.
+
+Although this is mostly from those people saved from the Dread Empire. The ones who were oppressed and pretty much tortured by him.
+
+From what I can see though, neither War nor Pestilence show any signs of even so much as caring about this turn of events.
+
+They don’t care that I took Famine’s soul core, nor do they care about his death.
+
+War barely even showed a reaction while fighting in his war from what I’ve heard.
+
+Which is interesting, but not really surprising.
+
+It was pretty much just a simple “Oh, really? It’s a pity I couldn’t duel him.”
+
+Then he just went back to his war.
+
+And Pestilence was known to be in the middle of an experiment on an abandoned planet with numerous nations keeping an eye on him. But he showed even less of a reaction than War.
+
+He just looked at the news on a screen before wordlessly continuing with his experiment.
+
+Clearly putting more importance on his experiment than his fellow Horseman’s death.
+
+Overall, it’s pretty much as expected.
+
+With that in mind, I finally begin to set course for the next world on my journey.
+
+It’s time to finally go back to hunting in Hunter’s Spots again!
+
+I can’t help but grin at that thought.

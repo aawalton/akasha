@@ -1,0 +1,169 @@
+---
+id: 6da06199-470c-56d9-a2de-fd7eecdfa81c
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 27"
+slug: 0030-b1-chapter-27
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 30
+ownLength: 2526
+unit: words
+ownProgress: 2526
+publishedAt: 2024-01-14
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1477157/b1-chapter-27"
+royalRoadId: "1477157"
+markedReadAt: "2026-06-29T19:06:53.003Z"
+---
+
+Aria
+
+“After the pharaoh is Hassan al-Malik, the leader of an organization known as the Council of Darkness. A group of assassins that control the underworld across the universe.” Second Lieutenant Vargas continues after regathering himself. “And last but not least, Shirou Amatsuraki, the emperor of a neutral and mercantile nation known as the Eternal Dynasty. The nation and its leader are pretty big on searching for immortality and ways to stay alive for eternity, but they’re also major fans of commerce and trade, willing to trade with pretty much anyone under the pretext of their neutrality.”
+
+“And the Horsemen?” the First General asks with a dark look on her face.
+
+I guess I don’t blame her. The way the System announced my initiation didn’t exactly make me out to sound like a good person. Which was rude.
+
+“To start off, The White Horseman of the Apocalypse, Pestilence. Otherwise known by his name, Victor von Lüneburg. He is known as a recluse who lives mostly alone on a world called Vest, but also as a mad man who often tests out new plagues and diseases he creates on entire worlds, wiping the worlds out and turning them into blacklisted planets no one is allowed to enter in the process,” Vargas says, almost making me shiver at how my fellow Horseman is known. “Then there’s the Red Horseman of the Apocalypse, War. Otherwise known by the name, Lucius Octavio. He is the absolute ruler of a military nation called the Crimson Flag and is always on the battlefield.”
+
+We stare at him for a few seconds, waiting for more about War. But he doesn’t say any more.
+
+“Is that all about him?” the First General asks, sharing our confusion.
+
+Vargas nods his head and says, “The legate wasn’t entirely sure, but it is believed that War has a power that, so long as he’s at war, he will never tire. So he is always at war. Always on the battlefield. And always fighting, growing stronger at the same time.”
+
+Hmm. That doesn’t sound good for his mental health.
+
+“Then there’s the worst of the three,” he says, surprising us as a grimace appears on his face. “The Black Horseman of the Apocalypse, Famine. Otherwise known as Ignatius Darkheart, or the Dread Emperor. He rules over the Dread Empire with an iron fist and grows stronger from the famine around him. So he starves his own citizens just to the point that they don’t die so that he can constantly feed off of their hunger, growing stronger in the process.”
+
+Oh. Shit. Yeah, that is bad.
+
+“And what about this Crimson Empire you spoke of earlier?” the First General asks, leading to the last answer from Vargas.
+
+“Very little is known about them other than their power,” Vargas says with a shake of his head. “They have the largest number of the most powerful beings in the universe, with no one knowing anything about where they are based. Not even the name of their leader.”
+
+Silence fills the office for a bit after that before the First General nods her head, looking across all of us as she says, “You all did well. Take the next two days off.” She glances at Vargas. “Second Lieutenant Vargas is to report in the morning to deliver more of the intel you recovered.” Her gaze turns back to the major. “And Major Striker, I’ll want a report on my desk ASAP. Then you can join the short vacation. You’re dismissed.”
+
+“Yes, ma’am!” we all exclaim before leaving the office.
+
+I let out an inaudible breath of relief after leaving the office. Then I immediately make a beeline for the cafeteria.
+
+Time to get something to drink.
+
+The Main Headquarters of the Invasion Forces
+
+Analyzer Cesius Vlarious paces back and forth in the Invasion General’s hut, uncaring of the General glaring at him or the hologram of the emperor at the front of the room.
+
+“So you mean to tell me, Analyzer Vlarious, that not only is this ‘Crimson Eternal’ the Invasion General reported a Class S, but they are a unique Ability Holder?” the emperor asks with a dark look on his face.
+
+“Yes, yes, yes,” the analyzer says, waving the emperor’s words aside. “And her team is also consistent of nothing but Class S Ability Holders. She’s the only unique one though.”
+
+Hmmm… I do wonder what the exact description of True Immortal is? And the possible limits on an ability like that… are there even any limits? So much to research, so little time, and no subject currently here to research…
+
+The analyzer stops pacing and turns to look at the magical holographic device given to the empire by the analyzer’s home nation. Because a pitiful nation as small as the empire could never create something like this.
+
+He quickly finds a rather dark expression on the emperor’s face. But he couldn’t care less about the emperor.
+
+“If this intel really is true, then we must rethink our plan of attack,” the emperor mutters while turning back to the Invasion General. “Establish communications with the power those Class S’s belong to. I don’t care how you do it.”
+
+“Yes, Royal Father!” the Invasion General declares, still kneeling with his head bowed for some reason.
+
+“Hey, Little Caesar, how about we make a deal,” the analyzer says, referring to the emperor in a way that has the Invasion General beginning to draw his sword. But the analyzer just raises a brow at him, then the emperor.
+
+The emperor raises a hand towards his son across the hologram and says, “Sheathe your blade, Invasion General.” Then he focuses on the analyzer and states, “Analyzer Vlarious, we have an agreement in place for-”
+
+“I know, I know,” Cesius says, waving away the emperor’s words without a care in the world. “My people sent me here to be an invasion analyzer in exchange for a thousand royal silver. But now I’m thinking that we can cut out that payment if I manage to bring back these Class S Ability Holders to the Arcadian Society.”
+
+Both royals go silent at the mention of one of the Ruler Organizations.
+
+Cesius’s eyes narrow, “Especially the unique Ability Holder.” Then a smirk stretches across his face. “You may want to reconcile with that unique Ability Holder. I’ve heard long lived races can hold a grudge for a long time, so I’m sure a true immortal would hold one for even longer.”
+
+The emperor flinches at the mention of the Class S Ability Holder’s unique ability.
+
+“I’m also quite certain that little lady will end up being truly welcomed into the Arcadian Society if I bring her there,” Cesius says, flashing his pearly whites at the royals.
+
+Of course, I’d be accepted into their number as well for bringing such a unique being. But I’ll omit that part if anyone asks.
+
+No one says anything for several seconds, so the analyzer decides that now is as good a time as any to take his leave. But as he turns around and begins to walk out, he drops a little piece of magical spyware from his nation by putting a tiny bit of mana into his boot, making it drop from a hidden container underneath his boot before immediately camouflaging into the ground. Then he waves back at the royals and says, “I’d think about this carefully if I were you!”
+
+And the instant he leaves their hut, he uses his teleportation ability to arrive back in his own temporary hut, where he activates the spyware to listen in on the royals.
+
+Just in time too, if what he hears is accurate.
+
+“We can’t risk having a potential enemy with six Class S Ability Holders,” the emperor states, his rage clear in his words. “Delay the war effort if you have to, but do everything you can to capture those six Ability Holders. Even if that means sending them to our world through an unstable portal.”
+
+The analyzer raises an amused eyebrow.
+
+An unstable portal, eh? One whose end location is undefined.
+
+He moves to his bed and sits down.
+
+Sending them to Roan where they hope to capture them isn’t a bad plan per se, but he seems to be forgetting that they’re all newly initialized. And newly initialized Class S Ability Holders tend to all grow into powerhouses.
+
+The man swings his legs off of his bed a few times before grinning.
+
+This’ll be fun.
+
+The Council of Generals within AlbariaAfter the major’s report
+
+“We have now captured the fortress at the Al Mountain Pass with the assistance of the Predator Division,” the First General says while resting her chin on her fist, her elbow on the armrest of her seat.
+
+A wave of short applause fills the room from the other seated generals, meanwhile the emperor just glares at the First General without a word.
+
+She on the other hand ignores him and says, “We have also obtained intel from a legate of the enemy forces.” Her eyes narrow. “Everything he knows.”
+
+This time even the emperor shows surprise, only for the surprise to turn grim when he no doubt realizes just what it means for the Crimson Blade.
+
+And right when the First General is about to continue, a hologram appears in the center of the council, likely from the lieutenant general serving under the Fourth General. The one with the ability to project people’s images far away.
+
+The hologram this time first shows the lieutenant general who quickly says, “I apologize for the interruption, but we have gotten… visitors… who wish to speak with the council.”
+
+Elara narrows her eyes slightly, surprised that the man would bring this up in the middle of a council meeting. But then the First General’s gaze turns towards the Fourth General, who she finds smiling as the woman says, “Bring them.”
+
+And Elara isn’t the only general confused by the current circumstances, even ignoring the emperor who appears spitting mad.
+
+But all of the confusion goes away when a man wearing the invader’s armor steps up into the hologram with his arms folded behind his back.
+
+All of the generals go silent as the Fourth General takes the lead, saying, “Speak. What is it you want?”
+
+“We of the Grand Roan Empire wish to establish diplomatic relations with your Albarian Empire,” the officer who is no doubt a tribune judging by his armor declares. “Please bring forth your emperor and we will begin talks.”
+
+The generals all share a glance while ignoring the emperor before looking back at the hologram again.
+
+“I think we’re all in agreement here,” Elara states, and after everyone nods their heads, she narrows her eyes on the hologram who is now turning their attention towards her. “With the power invested in me as the First General and therefore First Seat Holder of the Council of Generals ruling over the Republic of Albaria, formerly known as the Albarian Empire,” the tribune’s eyes widen with more than a little shock and worry in them, no doubt realizing that he screwed up, “I hereby declare that diplomatic ties with the Grand Roan Empire will be impossible. You have tread on our soil, killed our soldiers, and are invading our world as we speak.” She stands up from her seat. An action repeated by all of the other generals, along with an irritated emperor. “As of today, the Grand Roan Empire and the Republic of Albaria are at war. Take this message to your leader. You’re dismissed.”
+
+Absolute rage fills the tribune’s eyes at her words before he shouts, “You barbarians think you can dismiss our Grand Empire’s goodwill?! You’re only from a lowly Gamma Tier planet! How dare-”
+
+The hologram cuts off as the lieutenant general no doubt stops it, hearing the declaration of the council. Along with the declaration of the nation of Albaria officially becoming a republic instead of an empire. Then the generals and the emperor all reclaim their seats amidst the silence.
+
+“To think they’d try to make diplomatic ties now,” the Fourth General mutters. “Why now? Why not at the start? They ought to know that it’s too late for peace.”
+
+“Especially when we already have one of their fortresses under our control and have killed one of their legion commanders,” the Fifth General declares with a scowl on her face. “The utter arrogance of that mere tribune was so thick I could practically smell it.”
+
+“They view us as a low Tier planet, and a newly initiated one at that,” Elara states, her chin resting on her fist again with a frown on her face. “And from the intel we’ve collected, the world of Roan is a Beta Tier world. One Tier higher than ours, which is considered an average world.”
+
+“Could this change in attitude be related to their discovery of the Predator Division?” the Eighth General asks while leaning forwards slightly in his seat.
+
+“Most likely,” the Second General answers. “My guess is that they didn’t expect any powerful Ability Holders to be on our planet, their view of us tainted by the planet Tier they somehow assigned us.”
+
+“Something to note about our Gamma Tier rating,” the First General states, bringing everyone’s attention to her. “Their rating system takes into account all facets of the world, including resources, quantity and quality of Ability Holders, and population.” Her eyes narrow slightly. “So you know what that means.”
+
+Silence fills the chamber for several seconds before laughter fills the air from the Seventh General, who has barely spoken at all within the last few council meetings. And as soon as the other generals hear her, they let out a sigh.
+
+“This is starting to get fuun!” she exclaims, a grin across her face. “So they think we’re weak when we really just have an incredibly small population, do they? The idea of us kicking their asses back to their world is sounding more and more delightful to me!”
+
+The First General rubs her temples, feeling like a headache is about to come on.
+
+Unlike the other generals, the Seventh General doesn’t care about decorum in the slightest. She acts perfectly normal, without speaking a word most of the time. But when something actually piques her interest, she loses it. She pushes as hard as possible fighting for whatever goal she’s set in mind.
+
+If she wasn’t such a skilled combat expert and general, they’d have voted her out of her position by now.
+
+Why can’t she just stay quiet… although I guess it would be beneficial to have her full support in this war.
+
+“With this new knowledge available to us, I’ll be spreading it around to the entire military,” the First General says, deciding to ignore the quietly muttering Seventh General. “Does anyone have any objections to that?”
+
+No one says anything.
+
+“Very well then,” Elara states with a nod. “Then let’s end this meeting here. Everyone knows what we must do to prepare.”
+
+Everyone nods their heads, with the former emperor silently fuming in rage, having lost any remaining power he had left.
+
+“Council adjourned,” Elara declares.

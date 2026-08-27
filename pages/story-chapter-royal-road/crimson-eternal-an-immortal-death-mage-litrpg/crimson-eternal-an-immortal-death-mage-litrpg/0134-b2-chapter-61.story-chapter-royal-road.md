@@ -1,0 +1,133 @@
+---
+id: fc04ab73-28a9-562b-adeb-abb9da53c3d3
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 61"
+slug: 0134-b2-chapter-61
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 134
+ownLength: 1499
+unit: words
+ownProgress: 1499
+publishedAt: 2024-03-26
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1569105/b2-chapter-61"
+royalRoadId: "1569105"
+markedReadAt: "2026-06-29T19:17:20.693Z"
+---
+
+Aria
+
+They fill me in on what’s going down right now as we swim to the surface where the royal vessel is currently at. Which was a long swim considering how deep that whale took me.
+
+As it turns out, news about how the rebellion was quashed reached the Arcadian Society in the end. And they decided to check it out, since it’s not every day that someone has an ability that lets them regenerate so much. So they’ve been checking out every reported instance of a powerful regeneration ability, giving priority to those that share the appearance that the Emperor of the Grand Roan Empire leaked before those who don’t share the appearance.
+
+A rather nice boon granted to me by the idiot who was fooled by Vargas. Which turns out to actually be what happened, according to Hannah.
+
+But the problem here is that they’re bringing a death mage everywhere they go. Since there are apparently death mages that aren’t necromancers. Necromancy being a relatively taboo but not banned practice in the Arcadian Society. Leading to them having none.
+
+And death magic users can sense me. Rather easily in fact. Because I apparently look like a bottomless pit of death energy nowadays to them.
+
+I’ve seen a couple death mages passing out at the sight of me, with them later on waking up while acting like they’d never seen me. Which was rude.
+
+A couple others started kowtowing to me and trying to make me their god though. Which was worse.
+
+Apparently a couple people from the Rex Dynasty.
+
+Another reason why I want to avoid showing myself there.
+
+Although they did at least stay silent without telling anyone.
+
+One bright side about someone trying to make you their god is that it’s easy to get them to do what you tell them to do. Even if it comes with the downside of them kissing your feet in return.
+
+Well, other than… certain groups amongst them. That is.
+
+The fanatics.
+
+They’re… not easy to get to do what I want.
+
+I shiver at a particular memory as I look out over the side of the royal vessel.
+
+“You have any idea where you’re going to go?” Shirogane asks from his spot next to me while Hannah continues clinging onto my arm, not letting go.
+
+“Not really,” I answer before glancing towards him and asking, “do you know any Gates far away from the two groups?”
+
+He purses his lips while pulling out his phone. Then, after he messes around on it for a minute, he raises his head and answers, “There are two options.”
+
+My brows furrow as I ask, “Only two?”
+
+“Only two,” he repeats with a nod. “The other Gates on the world are all centered in the range of those death mages. So we’re stuck with these.”
+
+Well that sucks.
+
+“Where do they lead?” I ask while tapping my fingers on the railing of the ship.
+
+“The first one,” Shirogane begins before frowning, “leads to a branch Beta Tier world belonging to the Rex Dynasty of the Dead.” He raises his head to look at me. “The ones who arrived on Atlantis now arrived through a Gate to their capital world Rex.”
+
+“I’d rather not end up becoming a figure for worship, thank you very much,” I tell him while waving my hand in dismissal. My right hand, because my left is preoccupied with someone hugging onto it like their life depended on it.
+
+“Then the second one,” Shirogane says while looking at his phone again. “This one leads to a sky world known as Arian. Its people are led by an elected council with a round table of knights leading their military.” He raises his head again. “And it’s currently at war with another world known as Jotunheim. A world covered in endless blizzards with people who’ve adapted to the terrain living there.”
+
+Another war?
+
+“Do you think I can get immigration rights to Arian? And does the world have a Hunter’s Spot?” I ask while glancing at Hannah, who has somehow managed to fall asleep while hugging my arm. So I gently move her to the ground before focusing on Shirogane.
+
+“It does not have a Hunter’s Spot,” Shirogane answers with a shake of his head. “But immigration rights should be easy to obtain so long as I assist you and you’re willing to help in their war.”
+
+That gives me pause, but after a few seconds of thought, I go ahead and shrug, answering, “Yeah, that’ll be fine.”
+
+At first I wasn’t happy about being dragged into other wars. But now I don’t really care much. Not after spending years fighting in the Luk’tar Clan war.
+
+A war that is actually starting up again recently with another Clan. With the Gallagher Clan apparently also looking to call War over there as a possibility.
+
+Which means rest in peace Luk’tar.
+
+At this point I’m pretty much numbed to war. It happens. People fight. People die.
+
+I respect them for fighting and everything they’re doing and fighting for, but if I kill someone, it’s because they’re on the other side of the conflict from me. Or they attacked me in general.
+
+On another note, I go ahead and ask Shirogane, “What’s a sky world?”
+
+He glances at me before blinking and answering, “A sky world is a world made entirely of clouds held together by magic, gravity, and a core, with various floating islands moving amongst and above the clouds.”
+
+That… actually sounds rather interesting.
+
+While there not being a Hunter’s Spot on the planet is annoying, there are actually far more planets in the universe without Hunter’s Spots than there are with them. So it might be for the best that I visit one without one now after visiting three with them in a row.
+
+And besides. I’m pretty sure the war will make up for the fewer kills I’ll be dealing out during my time there.
+
+“On a side note, how long would I have to work for them just for passage to another world?” I ask after a moment of silence. “Since there’s no Hunter’s Spot there, there’s not much reason for me to stay after my time helping them.”
+
+Shirogane looks surprised for a moment before muttering, “True…” then he nods his head, “we could probably get a reduced amount of work if it’s just for permission to travel through the planet without staying for an extended period.”
+
+That’s good.
+
+“Probably about half a year of fighting?” he says half as a statement, half as a question, making me frown. “I’ll have to get into contact with them. Give me a moment.”
+
+I nod before watching him walk away. Then I begin to walk towards the bridge of the ship before telling the royal guard captain behind the wheel about our plans to head to the Gate to Arian. And the man quickly gives me a salute and begins directing the ship in that direction.
+
+Then I return to where Hannah is currently sleeping before moving her to a more comfortable spot and crouching next to her.
+
+Now then. With our immediate plans out of the way, I can’t help but wonder what is going to happen to her from here. Unless Rory plans to take her to a Gate?
+
+Rory already left us to keep tabs on the guests. And I’m not sure when she’ll return.
+
+Then again, nothing stopping us from just leaving Hannah with the royal guard here. They can bring her back to Eternus and then Vortel.
+
+Putting that aside for now though, her number… she’s already level eighty. Not sure how that happened so quickly. Although her number is green to me despite the level gap.
+
+Considering my penchant for killing people a few hundred levels above me though, that’s not too big of a surprise.
+
+Not to mention that she’s a barrier and scout. Not a fighter.
+
+Judging by her level compared to her appearance, she’ll probably be fine with reaching level one hundred before dying of old age. Which makes me feel very relieved.
+
+I smile at that before walking over to the edge of the ship again right before Shirogane gets off the call and walks over to me.
+
+“We have ourselves a deal with Arian,” he says, surprising me with how quick he was at setting it up. “You will have to aid them for seven months in their war against Jotunheim, then you will be able to pass through the Gate into any world theirs is connected to. Keep in mind though that getting immigration rights for those worlds is up to you and not them.”
+
+“How’d you set this up so quickly?” I can’t help but ask while tilting my head.
+
+He just blinks at that and answers as if it were obvious, “Because I’m the Silver Merchant.”
+
+That has me raising a brow, but I don’t ask further.
+
+Guess I’m going to go see a sky world.

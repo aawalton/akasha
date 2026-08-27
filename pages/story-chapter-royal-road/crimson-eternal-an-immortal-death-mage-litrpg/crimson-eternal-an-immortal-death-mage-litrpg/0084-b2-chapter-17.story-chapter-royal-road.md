@@ -1,0 +1,117 @@
+---
+id: 19dede06-864e-5caf-8933-ba03be7f6333
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 17"
+slug: 0084-b2-chapter-17
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 84
+ownLength: 1462
+unit: words
+ownProgress: 1462
+publishedAt: 2024-02-05
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1506826/b2-chapter-17"
+royalRoadId: "1506826"
+markedReadAt: "2026-06-29T19:08:47.736Z"
+---
+
+Aria
+
+I end up being given the explosives the next day along with a very carefully worded request about how to not use them. Then they send me on my way to the Sullivan Clan’s Grand Tree.
+
+Which I quickly realize is a very far journey away.
+
+Surprisingly, Shirogane actually joins me this time around. And as we sit on the boat just going down the coast again just like the last time, I can’t help but glance at him a couple times in confusion. Specifically because of what he’s doing.
+
+“Why are you…” I begin, only to shake my head, deciding not to ask in the end.
+
+For some reason the man is just sitting there at the corner of the ship while creating random objects and animals out of that silver liquid of his. A liquid I have learned since meeting him is made from his Category 5 – or Class S according to their classification system – ability. One that lets him create molten metal and regular metal in liquid form and control it absolutely.
+
+All he has to do is pump mana into it and he can flood a place with molten metal.
+
+Not a pleasant way to go.
+
+And I should know, since I had him test it on me once to get the adaptation.
+
+“Just like your ability adapts to heal you faster, mine can grow stronger as well,” he answers my unfinished question without looking away from the silver liquid floating in front of him. “The more I use it, the more control over it I have and the less mana it takes to keep it in use.”
+
+Oh. Wow. That’s actually pretty good.
+
+No wonder it’s Category- err, Class S.
+
+I need to get used to calling it Class S if I’m gonna be in the broad universe for the rest of, well, eternity.
+
+Although I have heard there are still some worlds that cling to their previous name for categorizing the Ability Holders that they had before their System initiated.
+
+That aside, it is interesting to hear that some other abilities also improve with use. Other than mage abilities, of course. Since they could increase their mana supply by using their magic more.
+
+A very slow increase, but an increase nonetheless.
+
+I lean onto the side of the boat from my spot sitting on a small set of three stairs, looking out into the ocean. Something that’s become a rather nice pastime over the past couple days of this trip.
+
+Honestly, I probably underestimated how large each Clan’s territory is. But in hindsight, I probably should’ve realized they’d be as big as a damned empire for each territory. Considering that it’s just six clans that control an entire Alpha Tier planet.
+
+We’ve been following the coast for two entire days now on this ship – a larger one than last time but still not too large – and have been attacked by bandits twice during the trip. Although Shirogane is convinced they’re not just bandits. And my guide agrees.
+
+Meaning they’re most likely enemy soldiers disguised as raiding bandits.
+
+I continue looking out over the edge of the ship for a while in silence before eventually sighing again.
+
+This trip is boring.
+
+Eternus
+
+Emperor Vorelius Cornelius Caesar fumes as he walks through the streets of the capital city of Eternus. Of the Eternal Dynasty. And no matter where he looks, no matter where his soldiers look, he can’t find the damned Class S Ability Holder who erased his son’s soul.
+
+That council on Vortel, in exchange for a truce with Roan until they finally capture the Crimson Eternal, gave him the intel about the Crimson Eternal leaving with Star Merchants along with the description of her real appearance. Rather than the false appearance she had when attacking them.
+
+And where else would Star Merchants be able to teleport someone other than Eternus itself?
+
+So he came to Eternus himself, passing through dozens of worlds to get here.
+
+He was given permission by the emperor of the Eternal Dynasty to search through his cities with devices specifically attuned to death energy in order to find the woman. But all they’ve managed to find are a few innocent necromancers living on the planet. Some soul magic users. And some undead in a Hunter’s Spot.
+
+Not a single sign of the woman.
+
+If it weren’t for the fact that he knows a backwater world like that Gamma Tier world would never be able to fool one of his truthseekers, he would’ve questioned whether they were telling the truth. But no backwater level fifteen could fool them. Especially not under his direct watch.
+
+The man – Jason Vargas if he remembers correctly – answered plainly and without a single lie. A fact that was checked under multiple truthseekers and even verified through asking him multiple different questions and making absolutely certain he couldn’t use the self-delusion trick to trick the truthseeker.
+
+Which means that either Emperor Shirou was telling the truth when he told Vorelius that the woman was not on Eternus, or he sent the woman away before Vorelius arrived with his soldiers. Something he can very much see that crafty emperor doing.
+
+But at the same time, there’s nothing Vorelius can do about it. The Eternal Dynasty has not clearly broken any of their agreements, nor does he have any proof they’re assisting his enemy. And that’s not even considering that the Eternal Dynasty is by no means a nation he can even take on if he wanted to.
+
+At best he would be able to complain about the broken contract and they would have to reimburse him a little to save face and keep their neutrality.
+
+They would never truly be threatened by a lowly Beta Tier solitary world like Roan and his empire.
+
+Vorelius ignores any of the looks that are being sent his way by bystanders. Not because they recognize him, because who would recognize the emperor of a lower planet? Of an empire governing just a single planet? Not even an Alpha Tier planet at that.
+
+What they’re staring at are the knights marching alongside him, along with the armor he knows they’re thinking is backwater armor amidst this high tech city.
+
+But what can he do other than grow more and more angry at it? If he were to so much as lay a finger on a citizen from this planet, he would be killed in an instant.
+
+So he continues ignoring it as he enters a car and drives off towards the Gate, finally abandoning the search on this planet.
+
+However, he has some idea as to where the Crimson Eternal might have gone.
+
+Since there are only a limited number of Gates on Eternus, assuming she was ever here. So he just has to search each world that he can legally search for her in.
+
+Unfortunately that also means that he’ll be missing quite a few worlds, since his reach isn’t strong enough to make it to most of the worlds. And the other Nine Grands aside from the Eternal Dynasty have no interest in speaking with someone of a Beta Tier world’s empire.
+
+Especially the Horsemen.
+
+But Vorelius is pretty certain that the Crimson Eternal must’ve fled to a lower Tier planet. There’s just no way an Alpha Tier world would accept someone from a Gamma Tier world, even if she has a Class S ability and the power to possibly erase a soul.
+
+Especially since the information given to them by that same person from the Gamma Tier world stated that she leveled far slower than others around her.
+
+Most likely some form of balance for her ability to erase souls. Once again, assuming she even has that.
+
+The emperor sighs as the vehicle he’s in finally pulls in next to one of the immigration buildings, interrupting the endless loop of regret and hatred that his mind has been in since learning of his son’s permanent death.
+
+He steps out of the vehicle and begins walking towards the entrance of the building. And after briefly pausing outside it, the guards there let him through, and he walks into the building. Then he proceeds through the Gate to enter the Beta Tier world under the control of the Black Guard. A war-torn planet that he believes would be a prime choice for someone in her position to flee to.
+
+The moment he steps through the Gate, he’s stopped by soldiers on the other side. Then he’s put through the usual security processes, only to be brought to a higher up once they discover his level.
+
+His eyes narrow during the walk, his guards still walking behind him.
+
+I will find you, Crimson Eternal. One way, or another.

@@ -1,0 +1,141 @@
+---
+id: 2d6077b3-3e1c-5057-88b4-49620f04c0e1
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 51"
+slug: 0361-b5-chapter-51
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 361
+ownLength: 1434
+unit: words
+publishedAt: 2026-08-22
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/3851535/b5-chapter-51"
+royalRoadId: "3851535"
+---
+
+Aria
+
+Before long, the fight begins. And the long awaited fight I was expecting… doesn’t really happen.
+
+War tries to force Amatsuraki into a duel, but Amatsuraki just says no. Meanwhile, whenever War rushes him with his sword and horse, Amatsuraki just vanishes from sight and appears somewhere else. Without any signs of magic being used at all.
+
+In fact, it feels incredibly uncomfortable just to watch. Almost like my mind is trying to yet failing to convince me that he was always standing where he’s standing now.
+
+And I’m clearly not the only one who feels this way as murmurs spread all throughout the stadium from people who are watching.
+
+War himself blinks in surprise before turning towards Amatsuraki and charging again. Only for the emperor to appear elsewhere again. Once again making me feel uncomfortable.
+
+It’s almost like he’s altering reality itself.
+
+And it feels weird since I know he wasn’t standing there at first, yet it just feels like he’s been standing there for a while.
+
+This is messing with my brain…
+
+The emperor simply continues vanishing and reappearing elsewhere over and over again without even removing his hands from behind his back. With his expression remaining indifferent the entire time.
+
+It’s not just his altering reality to change his location though. He also seems to be perfectly predicting wherever War is going every time. So he manages to avoid every attack despite War being multiple times faster than him.
+
+To the point that he moves before War even makes his move.
+
+I guess Amatsuraki’s powers really are future prediction and, by the looks of it, future altering. Or something like that.
+
+The audience finally starts to shout their applause for the battle. With everyone rooting for Amatsuraki to win.
+
+Which makes sense. Considering that one of them is a Horseman of the Apocalypse everyone is afraid of while the other is the emperor of the nation we’re in.
+
+I can’t really see any of the people here rooting for War.
+
+But War is still a Horseman of the Apocalypse. And the Horsemen other than me are all stronger than multiple other Grands put together.
+
+So after War tolerates Amatsuraki’s actions for a while, finding it amusing, he soon begins to lose his patience.
+
+And when that happens, he opens numerous rifts all across the arena. Summoning forth thousands of War Spirits from the Plane of War. Then he follows it up by drawing his sword and seemingly preparing a swing.
+
+I notice Pestilence snapping his fingers from his seat with an expressionless look on his face. Following which the barrier around the arena suddenly strengthens with a greenish mist.
+
+My eyes widen when War swings his blade in a horizontal arc. Sending a massive arc of scarlet energy all across the stadium that instantly slams into and passes through all the War Spirits.
+
+It also slams into Amatsuraki as it covers every inch of the arena, making it impossible to block. And when it hits him, it sends him flying right into the barrier. Breaking the sound barrier in the process and moving faster than my eyes can track.
+
+Honestly, he may have moved faster than the speed of light to slam into the barrier.
+
+Yet despite that, he manages to recover by flying into the air after slamming into the barrier. With the various bruises that he got from the attack casually reverting themselves.
+
+Regeneration?
+
+Actually, I don’t think it’s that.
+
+The wounds don’t seem to be healing. It’s more like they’re just returning to normal in an instant.
+
+Like he’s altering reality to make it so he never got the wounds in the first place.
+
+I lean forwards out of interest as Amatsuraki suddenly pulls out those dice he’s always tossing. Then he just drops them down to the ground with an indifferent expression on his face.
+
+My eyes narrow a little as they follow the dice. Only to find them landing on the ground with both dice showing six.
+
+Then my eyes rise to look at Amatsuraki right as he becomes a blur and disappears. Moving faster than my eyes can track.
+
+Holy shit…
+
+He manifests a pure white sword in his hands that he slams right into the Horseman of War. Sending the Horseman flying into the barrier with just as much force as War used on him before.
+
+Does this mean…
+
+After hitting the barrier, War seems to grow a lot more interested in the battle. To the point that he breaks out into laughter while rushing to meet Amatsuraki in the center of the arena. With their blades clashing and sending shockwaves outwards to slam into the barrier.
+
+But the arena itself isn’t left unscathed despite the barrier as actual fractures in space begin to appear from some of the attacks. And entire weather conditions appear around them as well. With their attacks being so powerful that they end up creating things like tornados around them.
+
+Some of the other Grands in the booth act to stop the damage though. With crimson lightning crackling from my father, crimson mist from my mother, green mist from Pestilence, and so on all repairing the damage in the arena and stopping the weather.
+
+Just letting the two continue their battle without worrying about the audience.
+
+And the audience themselves are all incredibly excited about seeing such an incredible battle up close without having to worry about their lives.
+
+Not that I blame them. I was just as excited when I first saw a battle between Grands.
+
+Now though I’m mostly just interested in seeing Amatsuraki’s powers. Since I’ve never seen them until now.
+
+The two continue clashing over and over again until Amatsuraki suddenly runs out of steam with his attacks growing incredibly weak. And at the same time, the two glowing dice at the center of the arena stop glowing. Implying whatever power he used to increase his strength having run out.
+
+And when he grows weaker again, a single attack from War sends him flying out to slam into the barrier with numerous wounds appearing on him.
+
+I watch as Amatsuraki’s injuries instantly vanish again as he reappears at the center of the arena with those dice in his hands already. Then he rolls them again to find one being a five and the other a four.
+
+The dice really are some sort of power boost when used like this.
+
+That’s interesting to see but also not all that reliable considering how it seems to rely on luck.
+
+What with Amatsuraki clearly being weaker when he clashes with War again after this boost. No doubt because of the lower roll.
+
+I continue watching as the duel proceeds with both of the Grands beating the hell out of each other and the other Grands making sure no one is hurt and the arena remains intact. All the way until this next roll ends and he is sent flying again. Only for him to roll again.
+
+And get two ones this time.
+
+To my surprise, he actually appears to get weaker this time. Which allows War to beat him up and send him all around the arena without Amatsuraki really being able to fight back.
+
+The audience grows eerily silent during this as well.
+
+I rest my arm on the armrest before leaning my cheek against my hand as I watch the battle. Or rather, the one-sided beatdown.
+
+But the beatdown only lasts until the dice run out. After which he rolls again and gets two sixes. Making him nearly as strong if not just as strong as War again.
+
+And the battle proceeds like this without either of them showing their more destructive skills for quite a while.
+
+At the end of the day though, the battle can’t last entire weeks like most battles between Grands last. So the battle is called by a series of judges after three hours to keep the entertainment of the tournament going.
+
+With War winning since Amatsuraki was barely keeping up with him.
+
+Then the next battle of the exhibition bracket is called.
+
+And this one is just as interesting as the last.
+
+Actually, it might even be more interesting than the last. Simply because of who the fighters are.
+
+Lucilia Crimson and Hassan al-Malik, otherwise known as Arthur Crimson.
+
+My mother and uncle are going to fight it out in the arena. And that’s honestly quite interesting to see.
+
+A grin spreads across my face as I feel anticipation for this next battle.
+
+And within just a few minutes, both of them appear in the arena.
+
+Ready to fight.

@@ -1,0 +1,105 @@
+---
+id: 3ea0813f-d1f2-5e52-9381-eecaf22e9e42
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 48"
+slug: 0053-b1-chapter-48
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 53
+ownLength: 1584
+unit: words
+ownProgress: 1584
+publishedAt: 2024-01-23
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1492152/b1-chapter-48"
+royalRoadId: "1492152"
+markedReadAt: "2026-06-29T19:07:41.985Z"
+---
+
+All around the castleThe start of the party
+
+“Welcome to muh-grand pahty!” the emperor’s slurred and clearly drunk voice echoes across the entire wing of the castle used for the party. “We come in celebebration fo-army winning!”
+
+Whispers go all throughout the castle in confusion at the man’s obvious drunkenness. Especially since this party was planned by him to reassure people.
+
+Which it clearly isn’t doing.
+
+Meanwhile, in various corners of the castle, different ‘workers’ of the castle staff prepare.
+
+In one corner, on a balcony of the lower deck, a man seemingly in his forties with black hair, green eyes, and a large build wearing a soldier’s uniform can be seen standing guard near a group of nobles while looking out for any would-be intruders. The man looks a little out of place as he doesn’t appear to be of Eastern Arterian origin, but none of the nobles question his presence since he’s here, wearing a soldier’s uniform, and appears to be doing his job. And the Emperor’s voice distracts them too much to care one way or another.
+
+After the soldier, another man makes his way through the gardens, casually clipping the leaves very gently without making much of any difference in the bushes on the second floor outer courtyard. He is currently within the hedges, only barely visible by the group of nobles standing on the other edge of the hedge, none of whom are looking his way and are instead focused solely on the sight of the Emperor as he stands on the upper deck.
+
+“The war… yesh, the war is coming to a truly wondrful climax!” the Emperor continues to drone on, occasionally getting lost in his own words due to the alcohol filling his system to the brim.
+
+Another soldier can be seen patrolling the upper floors above the party, only briefly glancing out the window at the sound of the Emperor’s speech. But he pauses near another noble, who also happens to be looking out the window from a few meters away from the soldier. And despite the soldier’s relatively distinctive appearance, the noble doesn’t question the soldier as he knows patrols are supposed to be going through the hallway he’s in. Instead he focuses on what his Emperor is doing, wondering why he allowed himself to get so drunk in the first place.
+
+“-our beloveved trading partnersh, the Eternal Dynashty have been grateful enough toooo… to provide us with their shtuff in trade-” the Emperor’s words keep coming as an assistant chef moves around the kitchen, bringing ingredients one way and another, seemingly oblivious to the noble in the corner of the room who is laughing at a joke the head chef, another noble, had made.
+
+And when one servant stops to grab a few dishes in front of a certain noble, who of which is not taking his confused eyes off of the drunken Emperor, the servant presses a button on a radio hidden within his pocket. Then a single quiet beep plays out from five other radios within the castle, following which four of the owners of the radios press a button on their radio as well.
+
+Finally, the very moment the last owner of a radio presses their button, a maid with long white hair and seemingly glowing red eyes walking up towards the emperor in the process with a tray in one hand, chaos breaks out across the party.
+
+“Noww, to the everlashting Empire, and our victowry against-” the Emperor begins, only to cut off as a wave of gunshots echo across the castle.
+
+All in a single instant, the servant, the two soldiers, the chef’s assistant, the gardener, and the maid all either summon a pistol from nowhere or draw the pistol holstered at their waist, with each one of them except the maid quickly raising it and shooting straight at the heads of one of the nearby nobles to them. And an instant after that, the maid fires her own, having previously only raised it to point at the emperor without firing. Waiting to time it so that the shimmering barrier around him vanishes right before the bullet makes contact with his head.
+
+Then all six nobles, including the Emperor himself, fall dead to the ground with a bullet hole going straight through their head.
+
+And the screaming begins in earnest.
+
+Aria
+
+As soon as I shoot the Emperor in the head, he falls to the ground, and I get the System Message I’m looking for.
+
+[User has killed one being of Level 11. Requirements to reach level 6 have been updated. New requirements are as follows: 1702/3000 beings have been granted Death.]
+
+Meanwhile screams fill the castle from more than just this ballroom. And moments later, I feel more than a few bullets going straight through my maid uniform and into my body from quite a few directions, making me look around to find more than a few of the nobles having pulled weapons out of storage rings. But I just shrug off the bullets as I grab the Emperor’s corpse and toss it into my own storage ring, not forgetting to devour the man’s soul core while I’m at it. Because this is one man I don’t want coming back to life.
+
+Fortunately for the others, I draw pretty much almost all of the attention from the nobles and guards at the ball, making them all shoot at me with only a few firing at them. Mostly because I killed their Emperor right in front of them while he was kind of giving an important seeming speech.
+
+Rather amusing timing, that. I didn’t even mean to kill him right at the climax of his… drunkenly given speech.
+
+The castle staff all around us look absolutely shocked about what happened, and some of the nobles do as well. But most are just shooting at me, with several trying to throw things like fireballs or bolts of lightning. Some using abilities, others spells from their affinity ability as a mage.
+
+I, on the other hand, run straight across the upper deck instead of just standing there as a target. Which shocks the nobles for all of two seconds before I hear quite a few shouts.
+
+“The Crimson Eternal!” “The damned Crimson Eternal assassinated the Emperor!!!!” “Capture her! She can’t be killed by any known means!”
+
+More and more shouts rise up, making me feel more than a little proud of my own reputation preceding me here. Or rather, I would be proud if they weren’t using that information to try capturing me now instead of just peppering me with bullets that don’t do shit.
+
+Then again, at least this way they aren’t ruining my maid uniform anymore. I was beginning to worry that if they kept peppering it with holes then I’d end up running around half naked in their castle.
+
+Which would’ve been more than a little awkward.
+
+Now they’re just trying to cast nets, barriers, and other types of spells, abilities, and skills to trap me in a corner as I run. And it’s getting annoying.
+
+They keep blocking me from getting anywhere near the balcony.
+
+Thankfully both Rogers and the commander are already out of the building, having used their focus on me to escape. So I continue running around, avoiding their traps one after another, occasionally ending up on the other side of the room from the balcony just because of this.
+
+The only reason I’m even able to do this though is because of the soul energy reserves I’m using up right now along with the boost from Rogers that is still present. A boost he seems to be focusing mostly on me.
+
+Out of the corner of my eye, as I run around the room dodging one attack after another and being hit by more than I can count, I notice Vargas jumping down from a higher floor onto the balcony, then just saluting me and jumping off of said balcony too.
+
+That makes three of them gone. And Snow should have it very easy to get away.
+
+Now that just leaves me and Harvey.
+
+Oh, right. And the nobles are all shouting at me.
+
+Wonder why?
+
+I can’t help but smirk at that, only to glance at the castle staff as I run, finding each and every one of them running as far away as possible. Many of whom actually appear to be leaving the castle entirely now that the Emperor is dead.
+
+Probably for the best. I’m pretty sure a lot of these nobles would probably take their anger out on the staff for this.
+
+After a lot of dodging, I finally grow sick and tired of it. So, instead of trying to make my way to the balcony, I fire back.
+
+Literally.
+
+I begin to shoot back at the nobles, especially targeting the ones I personally saw abusing the staff, killing them all in the process. And as I keep doing that, the nobles attacking me slowly decrease in number and I begin to see an opening to the balcony growing.
+
+Only for everything to come grinding to a halt when I hear a loud shout coming from the direction of the room leading to the kitchen.
+
+“Stop now or she dies!”
+
+My head jerks to look in the direction of the shout, only to find some sort of higher ranked noble judging by his clothes holding Major Hannah Harvey by the throat with a gun held directly to her skull.

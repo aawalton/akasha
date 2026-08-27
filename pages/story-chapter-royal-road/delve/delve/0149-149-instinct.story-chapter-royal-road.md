@@ -1,0 +1,687 @@
+---
+id: cb81c3a0-67f8-5b9c-98fb-478245cb5ed1
+page-type-slug: story-chapter-royal-road
+title: "149: Instinct"
+slug: 0149-149-instinct
+partOf: delve
+position: 149
+ownLength: 5268
+unit: words
+publishedAt: 2021-06-06
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/694673/149-instinct"
+royalRoadId: "694673"
+---
+
+At first, Dozer hadn’t known what he was or what he had been. There had been only instinct, telling him that there was ⟬filth⟭ all around him. Thus, without knowing he was doing it, he’d tried to ⟬clean⟭. Mindlessly, he swallowed a gulp of ⟬filth⟭, ⟬cleaned⟭ it, and then expelled it to make room for more.
+
+The ⟬clean-need⟭ was satisfied with this for a time, but it wasn’t enough. There was just so much. The ⟬clean-need⟭ became greater and greater, but Dozer did not have mind enough to experience any unease.
+
+Gradually, that began to change. As he bumped into smaller pieces of himself floating within the ⟬filth⟭, Dozer started to experience flashes of awareness. This only spurred him on to work even harder. Being surrounded by ⟬filth⟭ was tolerable, so long as he was doing something about it. The thing he couldn’t do was stop.
+
+This continued for some time. It was only after countless—more than three—of these collisions that Dozer began to experience proper thoughts with any regularity. Soon after, he came to a horrible realization.
+
+He was doing nothing.
+
+The ⟬filth⟭ that he was ⟬cleaning⟭ was not staying ⟬clean⟭. The moment he let it go, it would break apart, returning to ⟬disorder⟭. ⟬filth-disorder⟭. The worst kind of ⟬disorder⟭.
+
+The ⟬order-need⟭ had appeared then. Simple ⟬cleaning⟭ was no longer enough, and Dozer grew more and more distraught until his thoughts were subsumed by instinct once more. Fortunately, the ⟬order-need⟭ knew what to do.
+
+Dozer stopped expelling the ⟬filth⟭ after he had ⟬cleaned⟭ it. He had no name for what the stuff was once it was no longer ⟬filth⟭, but it was like water. Liquid. It built up within him until he could hold no more, but he could not stop. Still acting on instinct, he squeezed, trying to compress the liquid to make room for more. Mercifully, something gave. The liquid began to shrink, only stopping when it had become something like stone.
+
+For a moment, Dozer felt something that might have been relief, but it did not last. The ⟬order-need⟭ was not satisfied. The ⟬clean-need⟭ was not satisfied either. They demanded more, and so, Dozer continued. He ⟬cleaned⟭ and he ⟬cleaned⟭ and he ⟬cleaned⟭, pausing every so often to compact the liquid and combine it with the solid sphere that was growing within him. Layer by layer, the sphere grew. It grew so much that it became too large for him to hold, but he could not expel it. He’d tried, and it had begun to dissolve the moment it had come into contact with the ⟬filth⟭. That was not acceptable, but neither could he stop. The instinct floundered, pushing him to continue mercilessly, but at a loss as to how he could do so.
+
+All the while he had been ⟬cleaning⟭, Dozer had also been collecting pieces of himself. One of those pieces had contained a memory, or perhaps the memory had been shared across the pieces and had only become accessible once a certain threshold had been reached. Dozer wouldn’t have had the capacity to contemplate such things, even had he been whole. Now, however, he did have the capacity to remember.
+
+Rain-King.
+
+Rain-King would know what to do.
+
+Rain-King would be able to help.
+
+Desperately, Dozer felt for the ⟬king-link⟭. He found it quickly, though it was faint and closed to him. He knew that meant Rain-King was ignoring him. That wouldn’t matter once Dozer had found him. The link didn’t need to be open for him to follow it, so he did, though he knew not quite how. Along the way, he encountered more fragments of himself, also following the ⟬king-link⟭. Unfortunately, each piece bore a sphere of its own.
+
+There was no relief. As Dozer grew, so did his burden.
+
+Finally, the ⟬king-link⟭ came to an end. Dozer bumped into something hard, and immediately, he knew it was the same substance he held within himself. The ⟬clean⟭ taste of it against his membrane was a balm to his burning instincts.
+
+Gradually, those instincts faded, becoming more bearable as he crawled his way over the object’s surface. The ball was only slightly larger than his burden, and from the vibrations, hollow. Rain-King was inside, which made it a shell. Rain-King wore a shell sometimes, so it made sense that there would be one here, only it was too small. Rain-King was not small, and Dozer was smart. He knew that Rain-King would not fit.
+
+It was confusing. But then, everything always was.
+
+The shell was sitting unprotected in the ⟬filth⟭, too, but that didn’t strike Dozer as abnormal. Unlike the one inside his membrane, the ball before him had been made by Rain-King. Rain-King’s balls would obviously be ⟬clean⟭, no matter where they were.
+
+Carefully, Dozer manipulated his burden, bringing it up through his surface until it came into contact with Rain-King’s shell. Carefully, he pulled away, trembling with uncertainty as the ⟬filth⟭ came into contact with what he’d been carrying.
+
+It did not dissolve back into ⟬disorder⟭.
+
+For the first time since he’d regained his awareness, Dozer experienced an emotion. Two emotions, actually.
+
+Happiness. Happiness and relief. He had found his safe place.
+
+His instincts were still there, of course, but Dozer knew he’d be able to rest if he needed to. The urges were less pressing, now that he knew what he ⟬cleaned⟭ would stay that way. In fact, he found himself growing excited at the prospect of so much ⟬filth⟭. He had work to do, and he knew how to do it. All that remained was to repeat what he had already done.
+
+Three times would do it, probably.
+
+Before Dozer could start, however, something horrible happened.
+
+There was a great wave through the chaos, pressing down on him from all sides. As the pressure grew, he suddenly remembered that this wasn’t the first time. He had simply been too scattered before to realize it, or perhaps too consumed by his instincts. Before he could even come to terms with this complex thought, a new realization struck him.
+
+This time was different, after all. The pressure had never been this strong. It just kept building, and Dozer felt himself being crushed with nowhere to go. The chaos thickened, locking him in place. He found himself unable to move. Unable to think. The pressure was coming from everywhere, as well as nowhere. From outside, but also from within.
+
+Somehow, it did not hurt.
+
+Dozer didn’t understand. He couldn’t understand.
+
+And then it was over. The pressure was gone.
+
+Dozer drifted, stunned. He began gently wobbling as he struggled to understand what had just happened to him. The ⟬filth⟭ around him felt…calm. Full of ⟬disorder⟭, but calm. It wasn’t flowing about for the first time since forever. It felt…right. For ⟬filth⟭, anyway.
+
+[Rain-King! ⟬filth⟭!] Dozer sent through the ⟬king-link⟭, eager to share his observation. He was too excited to remember that his ⟬king⟭ couldn’t hear him until he had already sent the message. Thus it was that he practically exploded from surprise when he got a response.
+
+[Dozer?!]
+
+Rain reeled, and not just from the sudden presence of Dozer in his mind. There was a kill notification in his log, scratching at his attention. Numbly, he willed it open, but he only spared it a cursory glance.
+
+He already knew what it would say.
+
+Your party has defeated Ahbahabam, Greater Hababa Shaman King, Level 24
+
+Your Contribution: 6%
+
+768 Experience Earned
+
+[Level Up]
+
+As exciting as that was, it wasn’t number one on the list. When the system had chimed to announce the Hababa King’s death, he’d felt…something wash over him. Linksight had gone batshit insane, and then abruptly, he’d felt all his links get lopped off by some unseen force. He’d panicked a bit in that instant, fearing that his friends had been killed somehow, but before he’d had time to realize how ridiculous that was, Dozer had—
+
+Rain shook his head, then focused. [Dozer? Are you still there?]
+
+The Crystal Slime replied almost immediately, but not in words. Instead, Dozer sent him a warm fuzzy feeling of utter happiness and contentment. The strength of it was shocking, like a full-body hug from a marshmallow, and Rain gasped, happy tears welling unbidden in the corner of his eyes.
+
+Why?!! How?!! [Dozer, are you still in my soul? What happened in there? How did you…?]
+
+[?] Dozer replied, though the slime’s happy confusion was mixed with something else.
+
+Rain looked around, a sudden feeling of anxiousness falling over him, as if there was something he should be doing. He blinked as he found his gaze locked onto a disorderly patch of fallen leaves. Oh.
+
+Reluctantly, he took hold of his connection to Dozer and closed it slightly. There, that should be better. [Dozer? Can you still hear me?]
+
+Dozer replied, but the message was confusing and unclear. Rain shook his head, raising a hand to his forehead as he tried to puzzle it out. Something about…a turtle? I don’t understand. He opened the connection slightly wider again. [Dozer, I don’t understand.]
+
+[⟬filth⟭!] was the reply.
+
+[Dozer, what the hell are you doing?]
+
+[⟬cleaning⟭!] The message carried with it an overwhelming sense of eagerness and purpose.
+
+Rain cursed. [Dozer! Hang on a minute. Don’t touch anything. I need to make sure you aren’t breaking—Ah, who am I kidding, you aren’t going to understand this.] Rain rubbed at his eyes. I’m talking to a slime for crying out loud. He tried again. [Stop! Damn it, stop! Dozer, are you even listening to me?]
+
+[⟬filth⟭!] Dozer sent, and the concept was charged with the sense that the slime was busy. To his shock, he felt the connection narrow down to a thread. He was able to force it back open with only a minor effort of will.
+
+[You did NOT just try to put me on hold!]
+
+[Helping!] Dozer replied. [No talk! ⟬clean-need⟭!]
+
+Rain winced. The sheer alienness of the concept—instinct, whatever it was—that Dozer had just sent was making his eyes spin. It hadn’t been the feeling of need—which had been leaking through the channel this whole time—but the concept itself, and not just at the surface level. Dozer had sent all of it, and with great force. Their minds were too different for it to come across completely, but Rain had been experiencing the need for weeks now. He got the gist.
+
+Dozer saw filth and needed to clean it up. It was like himself the day before when he’d been consumed by hunger. He didn’t need to speak Crystal Slime to understand or to feel sympathy.
+
+Detection pinged as a part of its pre-programmed sequence, and Rain growled. Damn it. I can’t be having a metaphysical crisis right now. That scan was clear of monsters, but who knows about the next one. He started walking, heading toward where he’d last seen Tallheart. He’d already been going that way before being distracted. I don’t like being alone out here. Dozer can wait a few minutes. He shouldn’t be able to hurt me. He’s only level one…
+
+Somehow, he didn’t find this reasoning very convincing.
+
+Thankfully, he didn’t have far to go before he broke out of the trees, climbing over a wave of dirt and debris to find Tallheart standing there. His armor was dusty with dirt, though his face was clean. He’d dismissed his helmet, and his expression, while as tricky to read as ever, struck Rain as pleased. Behind him, there was nothing but devastation. Lava was pooling around the mountain, its former path blocked, and there were chunks of stone and broken wood everywhere.
+
+“Rain,” Tallheart rumbled, turning to face him. “I was beginning to become concerned.”
+
+“I—“ Rain began, but he was interrupted by a noise. He whirled to see that Ameliah had dropped out of the sky right behind him. Immediately, he did a double-take. “Ameliah, woah. Are you okay?”
+
+Ameliah laughed, wrapping an arm around his shoulder and spinning him around to face Tallheart again as she stepped up beside him. “I was about to ask you the same thing.” She released him, then gestured at herself. “I’m fine. I think I need a new shirt, though. Hi, Tallheart. Why are you covered in dirt?”
+
+Tallheart nodded to her in greeting, and Rain activated Purify for him as he continued staring at Ameliah. One of her shirt sleeves was missing completely—the one that had been burned before—and there was a large rip in her collar. That wasn’t even the worst of the damage to her shirt. There was a sideways gash over her stomach, the fabric hanging down to reveal a large expanse of mercifully undamaged skin.
+
+He looked back up to find her smiling at him. She winked, then spoke, clearly amused by her tone. “Well? Have you hit your new level cap yet? It’s been five minutes. You’ve had time.”
+
+Rain felt himself relax, his concern for her condition fading. She’s fine. She’s not even hurt. He shook his head, then snorted, having finished processing what Ameliah had just said. “Stop. I’m not that bad.”
+
+“You are,” Ameliah said. “It did work, right? You got credit?”
+
+Rain nodded, then dropped his shield to the ground and wrapped her in a hug. “I did. Thank you so much, Ameliah.” He released her, then blindsided Tallheart with a hug of his own, creating a loud clang in the process. “You too, Tallheart.”
+
+“Mmm,” Tallheart rumbled.
+
+“You’re welcome,” Ameliah said, laughing.
+
+Rain released Tallheart, too excited to stay still. “The kill dialog said I leveled, but that’s not—” he shook his head, then continued in a rush. “Dozer’s back! And I think my soul is fixed!”
+
+“Woah, slow down,” Ameliah said, raising her hands. She looked around. “What do you mean, ‘back’?”
+
+Rain smiled, laughing at her expression. “Well, not ‘back’, back. Not like that. Not physically.” He tapped his chest. “He’s still in here, puttering around and doing…something. He’s talking to me again—if you can call what we do ‘talking.’ The connection is more feelings than words. Anyway, I need to get in there and see what’s going on.”
+
+“Okay, that’s…weird. You’re weird. You know that, right?”
+
+“I have been told this, yes,” Rain said.
+
+“Mmm,” Tallheart said, “It bears repeating. You said your soul has been mended?”
+
+Rain nodded. “I think so. Linksight is gone, which isn’t great, but it means my aura of inexplicable doom is probably gone along with it. I think the system might have fixed my paling somehow.”
+
+“I see,” Ameliah said, sounding slightly skeptical. She shook her head, then walked past him to his left. “Well, I’m happy for you, Rain, if it’s true. You’ll be able to visit Vestvall at last.”
+
+Rain beamed at her, then blinked as he saw where she was going. The Hababa King’s crown was sitting on the ground behind him. Ameliah must have brought it with her, and he’d somehow missed her dropping it during her sudden arrival.
+
+“May I?” Tallheart asked, gesturing to the crown.
+
+“Go ahead,” Ameliah said. “I think it might be valis. It’s certainly heavy enough.”
+
+Rain scurried to get a better look while making way for Tallheart. Valis was a deepened metal. It was to silver what adamant was to iron, basically better in every way. He’d have translated the name to ‘mithril’ if not for the supposed weight.
+
+Tallheart knelt, humming to himself as he laid a hand on the crown and closed his eyes. After a moment, he stood again, leaving the metal where it was and inclining his head to Ameliah. “You were correct, but only one part in four is valis. There is some silver as well—one part in ten. The remainder is mostly lead.”
+
+“I’ll take one part in four,” Ameliah said, sounding pleased. “That thing’s huge. Can you make something with it?”
+
+Tallheart paused to consider, then shrugged. “Perhaps. Valis has high Arcane affinity. If we had a—Ah. I see that we do.”
+
+Ameliah’s hand had darted into a pocket, and she was now holding out her hand, palm up, bearing a large glowing purple gem.
+
+“Is that what I think it is?” Rain asked, stunned again for what seemed like the hundredth time today. I think I need to sit down…
+
+“Mmm,” Tallheart said. “An Arcane GranCryst.”
+
+“The harder the fight, the greater the reward,” Ameliah quoted, reciting a common adventurer saying. “The Hababa had a whole bunch of regular Arcane Crysts in its bones too, plus a bunch of Tel. Here, take it.”
+
+Tallheart shook his head. “Keep it for now. We must discuss its use, for this is not the end.”
+
+“So we’re continuing, then?” Rain asked, his brain struggling to keep up.
+
+Ameliah laughed. “Obviously. You need to be strong enough to protect Ascension, right? That means silver. I’d better not catch you complaining about being one level short.”
+
+Rain smiled, relieved that he didn’t need to convince them, though in retrospect, he felt a bit silly for even thinking it was a question. “Thank you both so much.”
+
+“Watch out, Tallheart, or he’ll hug you again,” Ameliah said.
+
+Tallheart grunted, amused. “We should return to our camp. The day grows long.”
+
+“We aren’t going to explore the cave?” Ameliah asked, slipping the gem back into her pocket, then jerking a thumb over her shoulder toward the lake of lava.
+
+“Tomorrow,” Tallheart said. “Rain is overexcited. He is going to need some quiet time first.”
+
+“Hey!” Rain said, laughing.
+
+Tallheart’s mouth twitched, but he ignored Rain as he continued speaking to Ameliah in a serious tone. “The cave the Hababa came from likely leads downward. How far, I do not know. I also do not know why the monster was so far above its depth. Hmm. The question makes me wary of what could have driven it to ascend.”
+
+Rain felt a chill run down his spine at that, but Tallheart didn’t give him any time to ask him to elaborate.
+
+“We will investigate with great care,” Tallheart continued. “I will also require Rain’s assistance in collecting the fragments of adamant.” He paused, looking around at the mess. “This will take some time.” He snorted, then looked at Rain, raising his eyebrow. “You believe it urgent that you check on your soul, correct?”
+
+Rain nodded. Dozer was still busy, he could tell, but just what the slime was doing specifically, he had no idea, and that worried him.
+
+“Mmm,” Tallheart rumbled, turning back to Ameliah. “Then we leave. The risk of the cave would make it unwise to remain while Rain is occupied.”
+
+“Right,” Ameliah said.
+
+Tallheart nodded, and he fixed Rain with an expression that was serious even for him. “A thought has occurred to me. The way into your soul may be closed.”
+
+Rain grimaced. “Yeah. I’m trying not to worry about that.”
+
+“Mmm,” Tallheart said. “Let us go quickly and find out.” He rolled his neck, then looked around the clearing. “Please refrain from further…oddness until we have reached our camp. This is still a ranked zone.”
+
+“Of course,” Rain said, nodding. “I won’t even look at my status until we’re safe. I promise. It would only distract me more.”
+
+Ameliah laughed, glancing at Tallheart. “Bet you first watch he doesn’t make it.”
+
+Tallheart snorted dismissively, turning away. “No bet.”
+
+Rain made it back to camp with his promise unbroken, though he would freely admit he would have failed if Ameliah hadn’t put his pride on the line—which, of course, was likely why she’d done so.
+
+Now, they were safe back in their triangular fort, and Rain had seated himself against one of the tree-trunk walls. Dozer was still ignoring him, but nothing bad had happened so far. If anything, Rain felt better than he had in over a month. There was no harm now in taking a quick look, so eagerly, he opened his status.
+
+Richmond Rain Stroudwater
+
+CLASS
+
+LVL
+
+CAP
+
+“Shit.”
+
+“What is it?” Ameliah asked.
+
+Rain glanced over at her and froze. She was looking at him neutrally, holding her torn shirt in her hand. She had yet to don its replacement.
+
+“Uh…” Rain mentally kicked himself, then cleared his throat. “My character window is broken.”
+
+He tore his eyes back to his interface, trying to make the motion seem casual, though he knew he did a poor job of it. He could already feel his ears heating, though not from the captivating scene he’d just beheld. His embarrassment came instead from the fact that Tallheart was, like, right there. The smith was occupied in setting up the grinder, acting as if nothing unusual was happening.
+
+Rain kicked himself again.
+
+By their standards, nothing unusual IS happening. Every time I think I’m getting used to the culture, someone goes out of their way to prove me wrong.
+
+“Broken how?” Ameliah asked, clearly having chosen not to tease him about his reaction. There was no way she hadn’t noticed.
+
+Rain sighed, focusing on the panel in front of him and actually seeing it this time. “Well, it’s mostly blank. It’s like it stopped displaying part-way through. The only way for that to happen would be… Oh.”
+
+He raised his hands, summoning a keyboard and opening up a terminal.
+
+>character
+
+Error: cell index (3,0) is out of bounds
+
+Process exited with code (1)
+
+>
+
+“Never mind,” he said, relieved. He called up the source code in a new window, then started scrolling through it. “It’s just a bug. I was afraid the system might have scrambled my interface for a second there.”
+
+“What kind of bug?” Ameliah asked, moving to sit beside him, now safely clothed once more. “Is it a fly? Or maybe a cockroach?“
+
+“Oh, stop,” Rain said, jostling her shoulder playfully. “I told you what ‘bug’ means, and besides, historically, it was a moth.” He chuckled to himself, meanwhile finding the error right where he’d known it would be. “Found it.” He paused, then looked up. “Do you actually want me to explain, or did you just ask about it so you could make that joke?”
+
+“I actually want to know,” Ameliah said. “Believe it or not.”
+
+Rain smiled. “Okay then. As bugs go, this is a stupid one. At the top of my character panel, I have a table that lists some basic stuff like my level, level cap, experience, and so on.” He gestured vaguely at his code. “When I wrote this, I made it so it would show free points in that table too, but only if I had them. That part is fine, but I didn’t remember to tell it to make the table bigger if it was going to do that. My code tried to put some text in a place where it couldn’t go, so it broke.”
+
+Ameliah snorted. “You’re right. That is stupid. I thought you said you were good at this.”
+
+Rain turned to her, angrily opening his mouth to explain how it had failed gracefully and how that was more important than any stupid bug. He’d written a proper error code and everything. He was prevented from saying anything, however, when Ameliah pressed a shushing finger against his lips.
+
+“Relax,” she said, smirking at him. “I’m just giving you a hard time.”
+
+She removed her finger, and Rain shut his mouth with a click.
+
+Ameliah laughed. “Trust me when I say that the automatic spell stuff you do is amazing. First, you started using channeled spells in your sleep, and that was bad enough. Now, you’ve got them following rules and casting themselves on their own. It’s ridiculous. I have never heard of anyone else being able to do something like that, and that includes goldplates.”
+
+Rain smiled, and he had to look away before the expression turned into a big goofy grin. Fortunately, Ameliah brought him down quickly.
+
+“It’s just that…well, it seems fragile,” she continued. “Your interface is a part of you. You shouldn’t be able to break—” She stopped, the pause clearly artificial as she pretended to realize something. “Actually, wait. This is you we’re talking about. There’s precedent.”
+
+Rain snorted. “I’d be offended if it wasn’t true.” He wrote himself a quick comment, not that he needed it, then saved the new version. I should do unit tests or something, but there is never enough time. I guess I’ll just keep hacking away… I feel dirty. He looked at Ameliah, then sighed. “Code takes work if you want it to work for you. Not everyone can just intuitively know their status. I still don’t understand how you do that.”
+
+“I just do it,” Ameliah said with a shrug.
+
+“See, that doesn’t help,” Rain said, shaking his head. “Code, I can explain. It makes sense to me.”
+
+“And jars of glowing juice make sense to Mollo,” Ameliah replied, nodding sagely as she maintained a straight face.
+
+Rain exploded into laughter, and moments later, she joined him.
+
+“So, did you fix it yet?” she asked when they had both recovered.
+
+“Let’s see,” Rain said, summoning the panel again.
+
+Richmond Rain Stroudwater
+
+CLASS
+
+LVL
+
+CAP
+
++STAT
+
+Dynamo
+
+19
+
+24
+
+10
+
+EXP
+
+NEXT
+
+TOTAL
+
++SKILL
+
+767
+
+26,463
+
+1,725,600
+
+1
+
+Vitals
+
+CUR
+
+MAX
+
+RGN
+
+Health
+
+3,428
+
+3,540
+
+430/d
+
+Stamina
+
+404
+
+1,260
+
+570/d
+
+Mana
+
+8,220
+
+8,220
+
+2.9/s
+
+Attributes
+
+202/182
+
+EFF
+
+TOTAL
+
+BASE
+
+ACCLD
+
+MISC
+
+SYN
+
+STR
+
+57
+
+77
+
+10
+
+0
+
+67/47
+
+100.0%
+
+RCV
+
+21.1
+
+43
+
+10
+
+0
+
+33/33
+
+49.0%
+
+END
+
+13.2
+
+53
+
+10
+
+0
+
+43/23
+
+40.0%
+
+VGR
+
+33.6
+
+57
+
+10
+
+0
+
+47/47
+
+59.0%
+
+FCS
+
+22.1
+
+62
+
+10
+
+40
+
+12/193
+
+35.6%
+
+CLR
+
+200
+
+200
+
+200
+
+0
+
+0/181
+
+100.0%
+
+PER
+
+8.4
+
+20
+
+10
+
+10
+
+0/0
+
+42.0%
+
+SPD
+
+9.4
+
+10
+
+10
+
+0
+
+0/1
+
+94.0%
+
+Resistances
+
+1940/?
+
+FLAT
+
+PERCENT
+
+HEAT
+
+1545.3
+
+0%
+
+COLD
+
+545.3
+
+0%
+
+LIGHT
+
+5.3
+
+0%
+
+DARK
+
+5.3
+
+0%
+
+FORCE
+
+635.3
+
+0%
+
+ARCANE
+
+45.3
+
+0%
+
+CHEMICAL
+
+495.3
+
+0%
+
+MENTAL
+
+5.3
+
+0%
+
+“Yeah, that did it. Everything is fine now. I can see my cap at 24, and my unallocated points are where they should be.” His eyes roved over the rest of the panel, then stopped on one particular number. “Huh.”
+
+“What now?” Ameliah asked.
+
+Rain furrowed his brows, thinking. “My item stat tolerance went past 180. It’s at 182, which is fine, given that I’m level nineteen now, but I didn’t expect it to just jump up like that. I didn’t do anything in that fight to warrant it.” Ring macros are still working. That’s a relief.
+
+“Huh, indeed,” Ameliah said. “What do you think it means?”
+
+Rain raised a finger for her to wait, then returned his hands to his keyboard, typing the command to set a marker for his progress overview. He hadn’t remembered to set one before the fight, but that was what autosaves were for. With two additional commands, he summoned two different comparisons, one from his last manual marker to the autosave and the other from the autosave to now.
+
+Progression Tracker [0.6.0]
+
+marker_1: tarzan [22nd Fallow]
+
+marker_2: auto_3060-10-23-15-00-00 [23rd Fallow]
+
+span: 1.7 days
+
+Tolerance
+
+Strength: 42 -> 47 (+5)
+
+Recovery: 32 -> 33 (+1)
+
+Endurance: 21 -> 23 (+2)
+
+Vigor: 43 -> 46 (+3)
+
+Attribute Buff: 180 -> 181 (+1)
+
+Synchronization
+
+Strength: 9.1 -> 11.3 (+2.2)
+
+Focus: 16.4 -> 17.8 (+1.4)
+
+Progression Tracker [0.6.0]
+
+marker_1: auto_3060-10-23-15-00-00 [23rd Fallow]
+
+marker_2: huh [23rd Fallow]
+
+span: 1.4 hours
+
+Character
+
+Level Cap: 18 -> 24 (+6)
+
+Level: 18 -> 19 (+1)
+
+Combat Experience Earned
+
+768
+
+Tolerance
+
+Vigor: 46 -> 47 (+1)
+
+Attribute Buff: 181 -> 182 (+1)
+
+“Huh,” he said again.
+
+“Stop just saying ‘huh’,” Ameliah said.
+
+Rain looked at her, his expression serious. “My stat tolerance went past 180 before my cap increased. I didn’t think that was possible. For an individual stat, sure, like I was talking about with Focus before we left the company, but this is the total...” He flared Winter as he hunted through his memory. “Oh.”
+
+“You’re doing it on purpose now,” Ameliah said flatly.
+
+Rain blinked. “Maybe.” Before she could swat him, he continued. “Staavo said the general rule was ten times your level, key word: ‘general’. Damn. I should have asked him to elaborate, but I had so many other questions at the time...” He sighed. “You wouldn’t be able to tell me any more on the subject, would you?”
+
+“Only that the limit gets less restrictive at silver,” Ameliah said. “It jumps up to one hundred times your level.”
+
+Rain nodded. “Right, I already knew that. It’s just…I hate discontinuities. Detection has one, and it’s just…ugh. Could the ten times level thing be an approximation? I mean, if the actual equation has a square in it, that would make sense. People suck at math, and tolerance effects aren’t obvious.”
+
+“It is not an approximation,” Tallheart said without looking up from the grinder. Rain looked over to see him busy loading it with some of the more toxic specimens of fruit that they’d discovered.
+
+“You’re sure?” Rain asked, his stomach rumbling even though he’d just eaten an hour ago.
+
+Tallheart nodded, droplets of pure water beginning to patter into the pot below the outlet as he began to grind. “I am sure. Lilly and I both struggled with it. It is a hard line, one that made things extremely difficult for us.” He looked up. “However, I would not be surprised to learn that you have broken through it.”
+
+“But—” Rain began, but Tallheart cut him off with a harrumph.
+
+“Many things in the system can be broken,” he said, looking back down at the grinder. “You know this. Your soul is only one example. Did you not say that you witnessed the Vekuavak woman force her way into a lair that was already full?”
+
+“Yes, but she’s a goldplate,” Rain protested.
+
+“So?” Tallheart said. “We are not speaking of the damage limit.”
+
+Rain tilted his head, acknowledging the point. “Fair enough. Any ideas on that one, by the way?”
+
+“No,” Tallheart said. “Some things are impossible.”
+
+“Val’s dad can do it,” Rain said matter-of-factly.
+
+“Val SAYS his dad can do it,” Ameliah interjected. “That’s different, and Val says a lot of things.”
+
+“It’s not just Val saying it, though,” Rain said, looking at her. “Lightbreaker is kinda famous for it. It’s in his damn name. There are others, too. Gammon of Wix, Harmon Dragon-Kin, Elm the—”
+
+“Legend,” Tallheart interrupted, shaking his head. “Myth.”
+
+“Know him,” Rain said, smiling. “Wears a funny coat.”
+
+Ameliah flicked him in the side of the head.
+
+“Ow!”
+
+Tallheart grunted, turning away from the grinder at last. He crossed his arms. “Enough. We can discuss this later. See to your soul.“
+
+“I… Right,” Rain nodded. “Priorities. Sorry, Tallheart. I’m just a bit wound up.” He sighed, closing his menus, then settled back against the wall, making himself comfortable. “Here I go. Wish me luck. If nothing else, trying should help me calm down. I’m not even sure if I’ll be able to manage that much.”
+
+“You’ll be fine,” Ameliah said, patting him on the thigh. “I’ll pull you out of it in two hours so you don’t get too hungry.”
+
+Rain nodded. “Thanks. Better make it three, though.”
+
+Ameliah smiled. “Three, then. Say hello to Dozer for me.”
+
+“Will do,” Rain replied, smiling back. An errant thought struck him, and he quickly controlled his expression. “By the way, I’ve never told you this, but he has a name for you.”
+
+“Oh?” Ameliah said, raising an eyebrow.
+
+Rain nodded. “Not really a name, actually. More of a feeling. It’s hard to explain, but it translates well enough.”
+
+“What is it?”
+
+Rain glanced at the Hababa’s crown, which was sitting next to Tallheart’s anvil, waiting to be melted down. He looked back at Ameliah, then grinned in anticipation of her reaction. “Ameliah-Queen.”

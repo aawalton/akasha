@@ -1,0 +1,139 @@
+---
+id: 40b4abcb-ce58-5541-a094-2d785e2cc910
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 5"
+slug: 0229-b4-chapter-5
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 229
+ownLength: 1564
+unit: words
+ownProgress: 1564
+publishedAt: 2024-11-18
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1910157/b4-chapter-5"
+royalRoadId: "1910157"
+markedReadAt: "2026-06-29T19:13:31.396Z"
+---
+
+Aria
+
+The silence in the hall grows tense as everyone either moves their hands towards any sorts of weapons they may have on their person or they back away to the edges of the hall. But the source of the tension, Famine himself, completely ignores everyone.
+
+He even ignores the stairs to the dais and just walks around the stairs, blowing off the emperor and crown prince entirely as he heads over to our balcony. Then he proceeds to ignore everyone he passes along the way until he reaches the many guards we have on the balcony.
+
+And while the guards try to stand firm for a few seconds, all it takes is a single glance from Famine for them all to collapse on the ground, emaciated.
+
+I narrow my eyes at Famine for a second as I ask, “If you’re gonna drain guards here, could you keep it to the other guests please?”
+
+Famine blinks for a second before laughing out loud and saying, “Our first interaction, and you scold me? I’m really glad I came here.”
+
+I cross my arms as Famine completely ignores everyone else on the balcony as if they were nothing but worms. Something I pretty much expected from the Horseman supremist.
+
+The Horseman grins at me and reaches his hand out as if wanting to shake my hand. So, after a brief hesitation, I reach out and grab his hand.
+
+Only for the Horseman to move his hand at the last second and grab my hand in a different way before raising my hand to his face and kissing the backs of my fingers.
+
+I feel a slight shiver run down my spine at that before I blankly stare at him and ask, “What are you doing?”
+
+He looks up from my fingers, a rather… uh… insane look in his eye, and says, “I’ve been wanting to meet the only female Horseman for a while, my Lady Aria. So it’s a pleasure.” The insane look grows even more twisted as he moves his face a bit closer to mine. “Please call me Ignatius.”
+
+I try to decide whether I should be grossed out by his current act or confused.
+
+His smile grows into a more flirting look as he says, “You’re as radiant and beautiful as the rumors say, Lady Aria.”
+
+Right. I should be grossed out.
+
+I take my fingers from his hand and wipe them on my dress’s skirt. Then I go ahead and say rather bluntly, “Why are you bothering with this act? We Horsemen can’t feel romantic or sexual urges. So what’s the point in acting?”
+
+He just bursts out laughing at that before stepping forwards and putting an arm around my shoulder, making me glare at the offending hand that I see near my collarbone. And as if it were nothing, he says, “Because I’ve never been able to mess around like this before. The only women I’ve known were pigs after all.”
+
+Now I just stare blankly ahead at the pharaoh with a look of ‘help me’ on my face. Or even Leopold.
+
+Whoever will help me.
+
+But no one gets a chance, since Famine quickly moves back away from me again. And when I turn around to look at him, I find the man looking down his nose at everyone else in the hall that is currently staring at us. Including Shirou and Shirogane, Shirogane of which looks incredibly pissed off for some reason.
+
+Maybe because Famine wasn’t supposed to show up?
+
+Not sure. Could also just be that they really hate Famine.
+
+Which I guess makes sense, considering how most of the universe feels about the mentally unstable tyrant.
+
+Oh. And there’s the fact that he keeps calling people pigs right now in front of their faces.
+
+Yeah, that would do it.
+
+“There’s so many worthless pigs here, you’d think this was some sort of gathering for them,” Famine mutters, making me do a double-take in his direction. Then I look at the people he’s talking about again, finding everyone either too terrified of him to say anything or show their anger, or finding them rather livid at the man.
+
+He really doesn’t even consider anyone except Horsemen as sapient beings…
+
+“You’re the same as always, Dread Emperor,” Leopold finally speaks up, bringing Famine’s attention over towards him with a look on his face as if he’s looking at a bug.
+
+“Oh, it’s the brat,” Famine says before reaching up and tapping his lips, looking slightly upwards in the process. “What was your name again… oh, right!” He forms a fist and hits his other palm with it. “The golden boy who was messing with our fight with the Crimsons!” Then he tilts his head and looks genuinely confused at the man as he asks, “You’re still alive? Thought you would’ve croaked long ago. You humans are rather fragile after all.”
+
+Well that can’t be good.
+
+I glance at Leopold to find the man looking more pissed the hell off than I’ve ever seen anyone before in my life.
+
+But before he can say anything, Raja speaks up, bringing our attention to the pharaoh, “Please reign yourself in here, Famine. Unless you want another crusade beginning.”
+
+Famine glances at Raja with a frown on his face, surprisingly showing a different expression than usual. Different from the one he was sending the others that made it look like he was looking at a bunch of insects or pigs.
+
+Probably because Raja isn’t a human. He’s an undead.
+
+Famine still doesn’t look particularly pleased with him though.
+
+“Keep your comments to yourself, living corpse,” Famine says with more than a little scorn in his voice. “And I know you wouldn’t join a crusade like that anyways, so what’s the point in worrying about a bunch of insects nipping at my heels?” He glances at me with a faint smile before turning back to glaring at Raja. “You wouldn’t have any time to care about anything other than Lady Aria here.”
+
+“True as that may be,” Raja says, making me do a doubletake at him instead, “you should remember that what any individual Horseman does will affect all of your reputations. And I will not have you sullying Death’s name.”
+
+His comment seems to genuinely confuse Famine as I glance back and forth between the two.
+
+“Why would a superior Horseman of the Apocalypse need to worry about the views of insects?” Famine asks, sounding genuine despite the words that just came out of his mouth.
+
+Raja quickly fires back at him again, except with his words now starting to sound like he’s trying to convert Famine to my religion or something. Which is getting even creepier.
+
+And Famine just starts to agree with him on some of the things he says about my superiority, only making things even more awkward in the process. Even if he still says that a reputation for a Horseman amongst ‘lowly animals and insects’ isn’t necessary.
+
+I turn to look at Leopold, who still looks pissed the hell off. Both for what Famine said earlier and the fact that he was completely blown off for this ridiculous argument.
+
+Then I turn around to look at the many royals and representatives throughout the hall, where I hear them whispering about the Horsemen of the Apocalypse. Mostly about Famine’s unexpected appearance, but also about me.
+
+The bright side is that the whispers about me aren’t very negative.
+
+Most are just about how beautiful Death is, stuff about the phrase about the beauty of the end and all that being true, along with the whole thing about my number being black to everyone in the room. And about how laidback I am.
+
+Some people even seem to be rather happy about how I am here, since their first impression of me doesn’t lead them to believing I’m some psychopath like the other Horsemen. It’s giving them hope.
+
+Then there are the people talking about Famine.
+
+Yeah, they’re not very happy about him.
+
+Don’t think I’ve heard a single thing that wasn’t negative about him so far.
+
+And Famine doesn’t seem to care even the slightest bit about it. Assuming he even notices.
+
+Considering how insistent he is about them being nothing but pigs and insects to him, he probably doesn’t care.
+
+Soon enough, Leopold joins in on the Horseman and Raja’s argument. Adding his own comments, mostly just to counter Famine’s. The two having some strange grudge between each other. Largely revolving around Famine talking down to him like Leopold’s a child, seemingly because Famine met him when he was just a child, and Leopold getting more and more pissed off from it all.
+
+So I do the most logical thing in this situation.
+
+I sneak away to another balcony.
+
+And when I arrive, I let out a sigh and take a glass of wine handed to me by the Crimson Empire representative and her guards who followed me, having been completely ignored by Famine.
+
+Finally. Some peace again.
+
+Then the door to the hall opens once more, revealing a woman with long golden hair and sea-blue eyes who walks in immediately with her heels clicking on the hall floor. Drawing everyone’s eyes towards her.
+
+A woman I recognize from the internet.
+
+Isabella de la Vega.
+
+The Archmage and ruler of the Arcadian Society.
+
+My eyes narrow.
+
+Great.
+
+More drama.

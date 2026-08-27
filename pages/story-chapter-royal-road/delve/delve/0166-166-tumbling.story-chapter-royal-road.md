@@ -1,0 +1,255 @@
+---
+id: 345b1369-782f-5275-8f00-96f98a58361a
+page-type-slug: story-chapter-royal-road
+title: "166: Tumbling"
+slug: 0166-166-tumbling
+partOf: delve
+position: 166
+ownLength: 4618
+unit: words
+publishedAt: 2021-10-10
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/764413/166-tumbling"
+royalRoadId: "764413"
+---
+
+As it turned out, the passage to the depths hadn’t collapsed. Rain and Ameliah had checked, exploring all the way to the entrance to the Ashen Jungle and finding not so much as a single blocked passage. It was still possible that the collapse had been further down, but crossing the Ashen Jungle would have meant staying the night in the depths, and everything Rain knew about deepstone said that the Sparkscale Deep would have survived just fine. He was still worried, but allaying his fears would have to wait until things had settled down a bit topside.
+
+Today was the 31st of Breaking, the second to last day of the calendar year and five days since the mysterious earthquake had disrupted his confrontation with Vestvall’s nobles. Those five days had been a whirlwind of activity, beginning with panic and slowly returning to some measure of hectic normality. Rain had found his hands constantly full, all the while suffering with the consequences of his little Purify stunt. It had suitably cowed the nobles for the most part, as had been his intent, but it had also caused a bit of a complication.
+
+The thing to understand was that the people of Vestvall were used to dealing with their own nobility—the three families, as they were locally known—as well as the occasional bronzeplate that came in from Fel Sadanis on a lark. Given its remote location, lack of natural beauty, and isolation from the global teleportation network, there just wasn’t much of a reason for powerful people to visit the city. The former Watch outpost had been staffed by no more than a handful of low-level officers, and they’d only been there to keep an eye on the tiny, locally-run Bank branch where Jamus had once worked. Further, the three families and the Crimson Swords had—astonishingly—never clashed, having worked out some sort of deal.
+
+Thus, while it had been generally known that Ascension was stronger than Hegar and his team, people had been less sure how they stacked up against Vestvall’s nobility. To the average Vestvallan, awakened were just people who you didn’t want to piss off because they might kill you, or at worst, you and your family. They weren’t people who could incinerate their entire city with a thought. That was the kind of thing that happened in fairy stories, not in real life. Even the three families, generations removed from anyone who’d have known better, had no experience with that kind of power.
+
+At least, they hadn’t. Not until Rain had atomized every last shred of garbage in the noble district with an overwhelming pulse of blinding light.
+
+It had left something of an impression.
+
+Simply put, the townsfolk weren’t equipped to deal with such things. His display had sort of…broken them. Shattered their worldview. What he’d done was an event out of legend, not experienced second hand, but at a visceral level. Literally. It hadn’t escaped notice that no one had needed to poo for the rest of the day.
+
+No, to say that the townsfolk had started looking at him differently was an understatement. Most seemed to understand that he meant them no harm, even the ones terrified out of their skulls by his very existence. Had that been the extent of it, it would have been bad enough, but there were also those who’d started acting like he was some sort of…messiah. That was unacceptable, and he’d been doing his best to show everyone that he was just a person. He’d been going out of his way to just talk with people. About anything. Their friends. The weather. The menu in the tavern. He’d even started deliberately screwing up simple tasks, one time even dumping soup on himself at dinner. It was working. Kinda. It probably would have been working better if he hadn’t kept doing things like he was about to.
+
+Rain rolled his neck, deliberately putting his reputation problems out of his mind as he stepped onto the force distribution plate. His boots clanked against the thick aluminum as he turned to see Jamus, Vanna, and Carten watching him with a mixture of expressions on their faces. The four of them were outside Ascension’s compound, having set themselves up a healthy distance from the walls.
+
+Rain flipped open his visor. “Are you sure you don’t want to come with me this time, Jamus?”
+
+“Absolutely not,” said Jamus, looking slightly green.
+
+“Aww, come on,” Rain said, smiling. “We could go so much higher if you came with.”
+
+“Oh, yes. Higher, so even more dangerous.” Jamus replied, crossing his arms, his voice practically dripping with sarcasm. “You make a compelling argument. In that case, yes, I would love to join you.”
+
+“Oh, stop,” Rain said. “If you came, it would be less dangerous, not more. You could catch us on the way down if you timed it right.”
+
+“If I timed it right,” Jamus said. “Emphasis on the if. No, thank you. There is a reason people tell stories about Skyfalling. Hopefully, your death will serve as yet another cautionary tale.”
+
+Rain laughed. “I’ll admit, you had me second-guessing myself the first few times, but it’s not like I didn’t work up to this. I know I can take it.”
+
+“Ameliah was here to catch you the first few times,” Jamus said flatly.
+
+Rain inclined his head. “Fair point, but seriously, I’ll be fine. Even without Force Ward, I’d probably survive the fall.”
+
+Jamus harumphed, somehow reminding Rain of both Staavo and Tallheart at the same time.
+
+Rain grinned, shaking his head. “Anyone else want to come?”
+
+“Ooh, ooh! Me!” Carten shouted, raising his hand.
+
+“No,” Jamus said perfunctorily, holding a hand out in front of the big man. “If you want to die, do it on your own time. What if you got separated? There could be wind, or—“
+
+“Bah, wind,” Carten said, pushing Jamus’s hand away. “I’ve got Rebound.”
+
+Rain tilted his head. “He has a point, Carten. And Rebound might work, but it would be even harder to time. Offer rescinded. Maybe once we’ve got a working parachute for you to wear.”
+
+“Now, hang on,” Carten said, holding up a hand. “I can jus’ go get a rope or somethin’. If I tie meself to ye, I won’t—“
+
+“No,” Vanna said, cuffing Carten on the back of the head.
+
+“Oi!” Carten said, turning to look at her, more in shock than anything.
+
+“This isn’t a game, Carten,” Vanna said seriously. “Rain needs to practice without you clinging to him. We need a better way to scout when Ameliah’s not around, and skyfalling is perfect for that.”
+
+“But—“ Carten began, wearing an expression like someone had punctured his football.
+
+Vanna snorted, crossing her arms. “Like Jamus said, kill yourself on your own time.”
+
+Rain laughed. “Sorry, Carten. Once Ameliah’s back, then we’ll see.”
+
+“I’ll hold ye ta tha’,” Carten said, his expression serious.
+
+“You are both absolute madmen,” Jamus said with a sigh.
+
+Rain snorted, flipping down his visor. He took a moment, checking his belt to make sure that the small telescope was secure in its padded leather pouch. Making it had been a process of trial and error, starting even before they’d left Fel Sadanis. This was the only one that they’d produced that came even close to functioning, and as far as Rain knew, the only such instrument on the entire planet. Magic made things too easy.
+
+Looking up, he nodded to Jamus, then extended a hand. “Ready.”
+
+Jamus sighed. “May Karum guide your foolish soul and El forgive me for what I am about to do. Again.” He shook his head, then reached out to lay a single finger on Rain’s palm.
+
+Rain smiled as he felt Levitation take hold. Quickly, he exerted his will to prevent himself from tumbling into the sky. At rank 13, the spell decreased his weight by 260%, making it more than negative. Levitation was a buff, however, so resisting its effect was a simple matter. Partial resistance was harder, but he was rapidly getting the hang of it.
+
+Wasting no time, Rain dropped down to a crouch, motioning for Jamus to step back, which he hurriedly did. Unable to prevent his smile from spreading into a grin, Rain spoke as he reached for Velocity. “Jump good.”
+
+Once the Singularity took effect, he kicked at the ground with all his might, embracing the effect of Levitation at the same time. The force was incredible, crushing the aluminum plate against the ground and making Rain’s knees and ankles scream in outrage. If not for his Force Resistance, he’d likely have taken significant damage, perhaps even broken something.
+
+Moments later, his senses returned, and his whoop of glee was lost in the overpowering rush of wind. Below him, he could see the ground falling away at a blistering pace, but quickly, the air slowed him down until he was hurtling upward at merely terminal velocity. Starting to count, Rain angled his neck to get a better view.
+
+The camp below was shrinking rapidly, people already no larger than ants. He could see Vestvall clearly, as well as the surrounding forests and the road stretching off toward Fel Sadanis. There was no way that he’d be able to make out the city as much more than a speck from this distance, even with the telescope, but he was determined to try. That was where Ameliah was, or should have been by now, based on the pace she’d planned to set.
+
+His count reaching thirty, Rain exerted his will again, and his stomach lurched. Rapidly, he began to slow, the wind fading as gravity clawed him once more in the correct direction. He had no idea how high he was. Air resistance made the calculation difficult. The horizon wasn’t curved or anything, and while the air had grown bitterly cold, it was still plenty thick. If he wanted to go to space, he would need to do some more work on soothing Jamus’s fears. Levitation’s duration could be extended, but doing so required both mana and physical contact.
+
+Once the wind had dropped to something manageable, Rain did his best to neutralize his weight completely. Coming to an approximation of a hover, he hurriedly fumbled at his belt, freeing the telescope from its leather case, then cursed as he began to tumble. The lack of wind was making it difficult to stabilize himself, but that problem solved itself moments later as Levitation expired.
+
+Damn it! I waited too long!
+
+Flattening himself out and spreading his arms, Rain clutched at the telescope as he began to fall. Marking the position of the snow-capped mountains to the north as a reference, he craned his neck, looking to the west in search of the Sadanis river, but as with his previous attempts, he had little success.
+
+I need to try this at night. I should be able to see the fires, at least.
+
+With considerable difficulty, he got himself pointed in the correct direction, then opened his visor. Then, he attempted to set the telescope to his eye, though all he really accomplished was to jab the metal eyepiece into his eye socket as the motion sent him tumbling completely out of control.
+
+Damn it! Why did I think this would work?
+
+Still spinning, Rain returned the telescope to its pouch, then closed his visor. He spread his hands wide again, working to regain control. By the time he managed it, the ground was approaching quite quickly indeed. Disappointed but not concerned, Rain opened his interface to double-check that Force Ward was active. He’d set it to turn on the moment Velocity ended, but there was no harm in making sure.
+
+Satisfied that he was as safe as could be, Rain closed his interface, making a point to note the local geography. He’d drifted quite a bit in his brief flight, and the last thing he needed was to get lost in the woods. Spotting the road, he smiled, then settled in to enjoy the final few moments of the ride.
+
+With a crunch of shattering wood, Rain slammed face-first into a tree branch. He felt Force Ward draw lightly on his mana, together with his Force Resistance, easily negating the damage. His neck was snapped painlessly backward, and he must have spun through at least a full rotation before he pancaked hard on his back, sending up a cloud of dirt from the semi-frozen ground.
+
+Laughing like an escapee from an insane asylum, Rain pumped up both arms in victory. Terrified screeches of birds and animals rose from the forest around him. Slowly, he sat up, then twisted around to inspect the person-shaped crater he’d left in the semi-frozen ground.
+
+“That’s never gonna get old,” he said, grinning as he stood to get a better look.
+
+I wish Dempton would hurry up and finish sewing that parachute already. As fun as freefall is, the telescope’s basically useless without some way to slow myself down.
+
+Snorting, Rain checked the position of the sun, then opened his interface to type a quick password. Now that his macros would allow him to, he deactivated Force Ward, then ran a sequence with Detection. The scan came back finding a few distant monsters and fewer animals by the moment, fleeing from the lunatic that had fallen out of the sky. There were no humans around, but plenty of trees.
+
+That alone was proof enough of how far he’d drifted. The spread of the deforestation had been quite striking in his brief flight. Fortunately, that would come to an end any day now, seeing as they were working to bring a second generator online in Vestvall. Once they had it working, there would be nothing to prevent them from staying here as long as they liked.
+
+Rain flipped up his visor so he could scratch at his beard. Being alone like this was nice, actually. He began to stretch, shaking out his arms as he took a few moments to think.
+
+The only problem with staying was that some people still wished to leave. Hence, Ameliah’s errand. Rain was confident that she could convince the Watch to allow an evacuation through the teleport network, especially if Ascension fronted the fare for additional hops through DKE territory. The issue of people not wanting to settle under the jurisdiction of a Citizen would be solved quite readily by judicious quantities of money, as most things were.
+
+Of course, the Watch would want to know where all the Tel had come from, but that problem wasn’t exactly new. Whether people left via Fel Sadanis or via Three Cliffs, knowledge of the crack would eventually spread. For that reason, Rain had done his best to keep the Sparkscale Deep and the nature of its monsters a secret, confined to as few people as possible. The official line was that the crack stopped at rank fifteen, low enough that most silverplates wouldn’t be interested.
+
+No, all in all, things were looking up for Ascension’s long-term prospects. In the best-case scenario, the Watch would simply agree to leave the crack under his jurisdiction. He was a Custodian, after all. They might also insist on taking over its management directly if Ameliah couldn’t avoid telling them the whole story, but even then, he doubted that they’d judge it worth the bother.
+
+Rain smiled, unable to contain his excitement. For the first time since he’d arrived, he had time to breathe. Time to do whatever he wanted—though he wasn’t about to abandon his responsibilities to Ascension. His skills were languishing, it was true, and he wasn’t that close to evolving his class, but that was simply because he was focused on hammering the tallest nail. The real limiter on his advancement wasn’t his ability to max out his system abilities, but rather his confidence that his soul would be able to withstand the transformation. He was making steady progress, but the road ahead was long. Hundreds of anchor stations needed to be built, hundreds more cables needed to be run, thousands of experiments needed to be performed…
+
+Rain chuckled to himself. Okay, not thousands. Still, I’d better get back to it. I can’t hide out here all day, as much as I might want to.
+
+Dusting himself off with a quick puff of Purify, he turned north and began to jog at a leisurely pace. As he increased his speed, he started whistling a happy tune, which quickly turned into singing.
+
+“Jog jog jog, I hate jogging, this is my jogging song…”
+
+He chuckled again, his body feeling light and free. Powerful. “Time to change the lyrics, I think.”
+
+Tallheart sat with his eyes closed atop the wall surrounding Ascension’s camp, his legs crossed and his cloak draped over his shoulders. Outwardly, he appeared calm, even asleep, but in his vision, he was breathing heavily, his muscles trembling with exertion and his back slicked with sweat. He was unaware of the discomfort, just as he was unaware of the small form stealthily creeping toward him along the battlements.
+
+The work was everything.
+
+With a pair of tongs, Tallheart removed the glowing metal from the forge and placed it on the anvil before bringing his hammer down with a resounding clang. He was standing in darkness, with only the smoldering coals and the cherry-red glow of the metal for illumination. He wore no armor, but rather a plain white shirt of coarse linen beneath a time-worn and cracked smith’s apron. His shirtsleeves were rolled up, his muscles bulging powerfully.
+
+It was a rune he was forging, the adamant bar he’d started with now twisted back upon itself. Already, it was beginning to match the shape in his mind.
+
+Focus.
+
+The hammer rose. The hammer fell.
+
+Each strike landed with devastating force, bending the metal according to his will. He used no skills from the system, only his own, earned through long years of practice. Each strike was flawless, landing in perfect time with the drum-like rhythm of his heart.
+
+Adjusting the tongs, Tallheart positioned the piece over the anvil’s horn without breaking his rhythm, bending the metal along the curve. Returning it to the flat, he struck decisively to refine the shape, flakes of scale spraying against his apron and prickling at his forearms. The adamant resisted, but he didn’t frown, having expected as much. More heat would be needed.
+
+He returned the piece to the forge, then snatched another, bringing it to the anvil in one smooth motion. This one would be Strength, brutal in form. Focus was brutal too, but its brutality was a thing of cold determination and unflinching will. Strength was different. Strength was rage and heat. Strength was power.
+
+The hammer rose. The hammer fell.
+
+Tallheart’s strikes became even more forceful, yet somehow more controlled as he forced the adamant against its nature. Forced it to bend.
+
+So consumed was he by the work that he didn’t notice how the light from the forge seemed to spread, revealing more of his surroundings. He was in a workshop. The same workshop where as a child, he’d spent hour after hour watching his uncle toil in the heat. It was his uncle’s apron he was wearing, his uncle’s tools grasped in his hands, forged from memory, not steel.
+
+Tallheart didn’t notice the cool wind that was suddenly sweeping in from the door behind him. He didn’t notice the sound of the soft footsteps. Not until it was too late.
+
+Something struck the back of his head, making him jerk his hand in surprise. His hammer missed its target, hitting the anvil with such force that the iron shattered, cleaving along some invisible fault and sending a large piece tumbling to the floor. Tallheart’s nostrils flared as he suddenly became aware of the scent hanging in the air, the tang of flux mixing with smoke from the fire. It wasn’t enough to distract him from the rune before him, glowing as it cooled. It was complete. Perfect, yet terrible. Harsh. Uncompromising.
+
+Strength.
+
+Something struck the back of his head again.
+
+Tallheart whirled, and his eyes went wide. There was a woman standing there. A cervidian woman with antlers just as broad as his, her fingers still extended from flicking him. Smiling a familiar, secret smile, she retracted her hand, then ran it through her hair.
+
+“Hey,” she said, laughter in her voice. “I said stop, you dummy. Couldn’t you tell that you’d already gotten in?”
+
+Hammer and tongs fell numbly from Tallheart’s fingers, a single word forming on his lips.
+
+“Lilly.”
+
+Lilly’s smile widened as the light from the door behind her began to dim, color and detail draining from the workshop around her. Tallheart reached out as the darkness grew, his fingers reaching for her face.
+
+“Oops. Looks like I broke your focus.” Lilly laughed, the bright sound stabbing like a dagger through Tallheart’s chest. “I’ll see you again soon, my heart,” she said as her antlers began to burn, evaporating away into scarlet embers. Not just her antlers. Her whole body, leaving only her face. Lilly smiled wider, and then she was gone.
+
+“Lilly!” Tallheart cried out, his hand closing on empty air as his eyes opened. Immediately, he became aware of a great weight atop his head, and in his surprise, he allowed his neck to bend forward. The moment he did, there was a startled squawk, then a high-pitched scream as a blurred form fell past his vision, plummeting over the edge of the battlements. Tallheart’s hand shot out, catching Ava by the ankle and bringing her to a sharp halt.
+
+“Ava!” someone shouted from far off to Tallheart’s left as he struggled with his disorientation. Carefully, he stood, lifting the flailing human child, then depositing her safely on the battlements beside him.
+
+“Ow!” Ava said, landing with a bump and reaching down to rub at her ankle.
+
+Tallheart looked down at the little girl, controlling his expression as he bent, bringing his eyes down to her level. “Are you injured?”
+
+Ava looked up, then beamed at him. “No! I’m tough!”
+
+Rumbling deeply to himself, Tallheart shook his head slowly, rising again and turning to see Mlem sprinting along the battlements toward them. The mustachioed human slid to a stop, then bent, scooping Ava up into his arms. He hugged her to his chest for a moment, then held her out in front of him, her feet kicking futilely in the air as she squirmed.
+
+“Ava, what were you thinking?!” Mlem demanded. “Cervidians aren’t trees to be climbed! What did you think would happen when he woke!? He could have hurt you!”
+
+“I was just playing…” Ava said, ceasing her struggles and looking away. “Tallheart’s nice. He wouldn’t hurt me.”
+
+Tallheart frowned, focusing on Ava even as he grappled with what he’d just experienced. “You are correct, but so is your father. I would not harm you deliberately, but my strength makes me dangerous.”
+
+“I’m sorry about this, Tallheart,” Mlem said with a sigh, setting Ava down, then placing one hand on her head and ruffling her hair. “Children, you know.”
+
+“Hmm,” Tallheart rumbled, crossing his arms as Mlem bent to scold Ava in a quiet voice. He put the merchant and his daughter out of his mind, his thoughts already returning to his vision. It was clear what had happened. It had not been a dream. It had been far too real. He had gained access to his soul.
+
+He rumbled deeply.
+
+It wasn’t anything like what Rain had described, but then, Rain was human.
+
+He rumbled again.
+
+None of them knew what they were doing. They were in the dark, just as he and Lilly had been when they had first been forced out into the world. They would have to learn as they went.
+
+A small tug on one of his fingers made Tallheart look down to see Ava staring up at him, her father hovering hesitantly behind her. Tallheart blinked, suddenly aware that he’d been thinking for much longer than it had seemed.
+
+“What are you thinking about?” Ava asked innocently.
+
+Mlem poked the back of her head sharply. “I said apologize, not bother him with questions. You know he doesn’t like those.”
+
+“It is fine,” Tallheart said, frowning as Ava rubbed at the back of her head. He rumbled deep in his chest, tilting his head to look down at her. “I was remembering someone important to me.”
+
+“Oh, okay,” Ava said, nodding to herself. “I do that too with my mom. I never met her though, so I have to make the memories up. Dad says her name was Talani and she was the prettiest woman in the whole wide world. Was Lilly pretty?”
+
+“How—“ Tallheart said, eyes widening as he looked to Mlem for an explanation.
+
+“You shouted it. Just before she fell,” Mlem said awkwardly, looking away and smoothing his mustache.
+
+“I only fell because he moved,” Ava said defensively.
+
+Tallheart closed his mouth and nodded slowly, becoming increasingly aware of the weight of hundreds of eyes on them. Human eyes. They were standing atop the battlements in broad daylight, and the work below had stopped with everyone goggled up at the commotion. He was not one to break under pressure, but he felt the walls closing in on him under the weight of that gaze. Suddenly, he felt as if the floor had dropped out from beneath him. Against his will, his heart rate began to increase, cold sweat breaking out across his skin beneath his armor. He clenched his fists, fighting against the sudden terror and the memory that came, unbidden to his mind. The memory of the dragon.
+
+No. I am past this. I survived Rain’s trip to the depths. I did not break then. I will not break now.
+
+Oblivious to Tallheart’s distress, Mlem sighed, then spoke in a wistful tone. “I dream of my Talani too, sometimes. Even after all these years. Some days, when I wake, I half expect to see her there beside me.”
+
+Tallheart raised a hand to Mlem, palm forward to ward him off. It was too much. “Sorry. I need to be alone.” He looked down at the watching crowd, then along the battlements, searching for a path to escape. Like he’d escaped from the dragon. When he’d left the love of his life to die.
+
+“Ah,” Mlem said, his voice fading to a distant buzz. “I understand. Sorry again for Ava, and, well… I’ll be around if you ever…you know. Want to talk. Everyone’s lost someone, you know? I know that I’m human and we barely know each other, but…” He trailed off, then clicked his tongue. “I’m overstepping.” With a sigh, he lowered his voice to whisper. “Come along, Ava. We should go.”
+
+“But I want to know if she was pretty!” Ava protested loudly, tugging at her father’s hand as he began to drag her away.
+
+Something about Ava’s innocent curiosity pierced through the agony gripping Tallheart’s chest, giving him a moment of clarity. Just like that, the memory broke and began to fade, retreating as rapidly as it had come. Its echoes would linger, he knew, but the danger was past.
+
+Tallheart took a deep breath, then shook his head slowly before meeting Ava’s gaze. “She was.”
+
+“I knew it!” the little girl said, tugging happily on her father’s arm.
+
+Tallheart stared blankly at the pair of humans, the girl’s eyes filled with fantasy, the man’s with pity. He could still feel the weight of other eyes as well, but it was nothing he could not bear. He was not alone.
+
+Silently, he nodded to Ava and Mlem, then turned and walked toward the stairs.

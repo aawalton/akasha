@@ -1,0 +1,153 @@
+---
+id: 6dd3609a-15b7-535f-8594-eb8ad7875c04
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 26"
+slug: 0329-b5-chapter-26
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 329
+ownLength: 1442
+unit: words
+ownProgress: 1442
+publishedAt: 2026-01-09
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2927625/b5-chapter-26"
+royalRoadId: "2927625"
+markedReadAt: "2026-06-29T19:16:59.983Z"
+---
+
+All Across the Universe
+
+All over the universe, one nation after another hears word about the upcoming meeting between the Horsemen of the Apocalypse. And not long after that, hundreds upon thousands of nations begin to make preparations in secret. All to launch a surprise attack on the Horsemen of the Apocalypse.
+
+With no goal other than to kill three of the Horsemen of the Apocalypse.
+
+Or even to kill just one of them.
+
+Yet despite their shared goals, not a single one of the nations so much as mentions attacking the Horseman of Death alongside the other three.
+
+Rumors spread through some of the attacking nations that even a couple Grands are participating in the attack. But none of them know which Grands.
+
+And despite all of this, none of the Horsemen cancel their plans.
+
+Leading the other nations to believe that none of them know about the attack.
+
+Aria
+
+Well this is interesting.
+
+I can’t help but tilt my head as I sit on the commander’s seat within my ship’s bridge on the way to the meeting spot, just looking at the screen of my terminal. One with a warning from War about some sort of attack that’s going to take place at our meeting place to kill Famine, Pestilence, and War.
+
+Ignoring me of course, since I’m not actually viewed by the universe in a negative light.
+
+And they can’t kill me even if they tried.
+
+Anyway, it doesn’t really matter. So I just make sure to park my ship further away from the meeting point than I initially planned just in case it gets caught up in the action. Then I take a shuttle out to the meeting point.
+
+A place that is pretty much just an abandoned planet. One covered in lava and corpses.
+
+Obviously a place Pestilence once struck. Not a zombified world though.
+
+After finding the meeting place – which is a small villa located on a chain-held platform above a volcano – I walk up to the front door and knock. Following which the door is opened by someone wearing pitch black armor.
+
+Someone who immediately bows while stating, “Welcome, Great Horseman of the Apocalypse, Lady Death.”
+
+I glance over the person for a moment before focusing on the villa’s interior. Which is very fancy and luxurious.
+
+Not that I’m particularly surprised by that.
+
+The person in armor – who is obviously a knight or subordinate serving under Famine based on their incredibly subservient tone and their armor alone – quickly begins bringing me through the villa. Showing me where my room is, showing me various other facilities in the villa including but not limited to a swimming pool, sauna, spa baths, a gym, a bar, and any other sorts of facilities I could possibly imagine.
+
+All in this rather large villa.
+
+I decide not to think about the idea of a swimming pool located above the crater of a volcano.
+
+Although that doesn’t mean I won’t check it out.
+
+I’m not interested in the gym though. My body doesn’t need to work out after all.
+
+And that bar sounds nice too.
+
+After showing me around, the knight just quietly follows behind me wherever I go. Acting like some sort of shadow.
+
+Never saying a word yet always being there.
+
+Which makes sense considering who they work for.
+
+I’ve heard that Famine literally beats servitude into all of his subordinates. Along with the idea that Horsemen are superior.
+
+It’s to the point that a lot of his people literally see the Horsemen as gods. Regardless of which one.
+
+I let out a sigh at that thought as I head over to the baths, deciding to check those out first before the pool.
+
+The thought of yet another nation treating me like some sort of deity is disturbing in and of itself.
+
+As if the Rex Dynasty wasn’t enough already.
+
+Once I make it to the baths, the bath labeled Death that is, as all the Horsemen have their own baths apparently, the knight just stays outside while two servants begin to attend to me instead. Both of whom are female servants.
+
+And of course they treat me the same as the knight did. Proving that this entire villa most likely belongs to Famine.
+
+After a brief hesitation, I go ahead and just let the two servants do whatever. Simply to experience what a trip to a spa like this is like since I’ve never done anything like this before.
+
+In the end though I find myself enjoying it.
+
+The servants first bring me over to a masseuse for a full body massage, followed by a bath with various types of wine brought out for my pleasure. And while I’m enjoying the wine, the servants pretty much clean and wash me without taking up space or doing anything that would make me uncomfortable.
+
+Honestly, I could get used to this. For a time. Then I’d probably get bored.
+
+Or rather, I’d get bored of the bath and massage.
+
+I could never get bored of the wine. Especially since there are a lot of wines here I’ve never had before.
+
+Which makes me move the bar visit up a bit on the list. But I stick to going to the swimming pool first.
+
+What I find ends up being rather surprising. Because the swimming pool itself seems to be in some sort of magical room that has an imitation sun and outside around it.
+
+One that is very different from the volcano that is actually outside.
+
+Then again, for all I know this could actually be real, and I could’ve just ended up going through some portal to another place or something.
+
+Regardless, I end up finding myself eventually lying down on a rather comfortable bed-like thing floating on the water. With a couple trays of wine floating next to me in the air, and several servants attending at the side of the pool who frequently replace wine bottles.
+
+None of whom are speaking.
+
+I laze around on the bed above the water for a while, just reading on my ebook reader while drinking wine. Then I eventually get in the water and lazily float around for a bit.
+
+Unsurprisingly at this point, the staff even supplied me with an endless number of swimsuits to choose from for the pool. So I chose a two piece that isn’t all that revealing yet is very comfortable.
+
+And so I laze half the day away before eventually leaving the pool, changing into a tank top and shorts, and heading to the bar. Where I find even more wine.
+
+So much wine that there are rows upon rows of just wine. Suspiciously with only ones I’ve never seen before, ones that are my favorites, and no beer or any other types of alcohol.
+
+But I decide to ignore that little detail as I sit at the bar and enjoy the wine.
+
+At some point I begin to wonder if I’m here for some serious Horseman meeting or if I’m just on vacation.
+
+That thought doesn’t last for long though before I find a wine that I absolutely adore. Enough that I find myself actually making a quiet moan of satisfaction just from drinking it.
+
+And I make sure to ask what type of wine it is before writing it down and sending a message about it to Little Blue. Telling her to stock up on it.
+
+Oh, and to buy some companies that make it. Just because.
+
+I glance back to find that one knight still following me before continuing with my wine drinking fest.
+
+Maybe I should commission someone to make a traveling home like this for me… one that I can bring into Hunter’s Spots so that I can just laze around and relax while my Death Spirits hunt.
+
+That would make for a very nice life.
+
+And it’s not like I’m lacking the funds to do that. Especially considering the fact that I don’t even use my money all that often.
+
+Outside of explosives. And wine. And books. And TV shows.
+
+Okay, maybe I do use my money a bit. But not much compared to the sheer amount of it I have.
+
+An amount that only grows by the day.
+
+After spending some hours at the bar, I eventually move on to the next luxury spot within the massive villa. A movie theatre. Because who wouldn’t have a movie theatre above a volcano’s crater?
+
+Sounds like a smart idea.
+
+Eventually I go to the other luxury spots as well out of curiosity.
+
+All the way until I’m notified that another Horseman has arrived.
+
+That being Pestilence.

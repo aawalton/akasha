@@ -1,0 +1,139 @@
+---
+id: e0ed83cc-5a13-5eb6-b06f-5e842fe6c408
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 15"
+slug: 0173-b3-chapter-15
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 173
+ownLength: 1450
+unit: words
+ownProgress: 1450
+publishedAt: 2024-06-20
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1685587/b3-chapter-15"
+royalRoadId: "1685587"
+markedReadAt: "2026-06-29T19:11:36.143Z"
+---
+
+Aria
+
+I let out a yawn as I sit at the edge of a very fancy and overly large balcony on a lawn chair overlooking the plaza. Meanwhile fanatics move about bringing me wine and video games as I wonder what’s happened to my life.
+
+The room they brought me to and started calling my Sacred Chambers turned out to be the largest and fanciest suite of rooms I have ever seen. Even nicer than the King and Queen of Atlantis’s suite in their castle which I did manage to see once.
+
+After they took me to my room, they had me wait there for a bit to prepare before bringing me to a large chamber deep in the triangular building. One that quite literally has mana creatures being funneled into it by fanatics from the Hunter’s Spot that is apparently beneath this place.
+
+So now I find myself sitting out here while they serve me and my Death Spirits just casually kill the mana creatures down in that chamber as they’re brought to them.
+
+Quite literally a slaughter house for mana creatures. Large rat and roach mana creatures to be exact.
+
+Because it turns out the Hunter’s Spot beneath this place is some sort of sewer.
+
+Rather disgusting and not a place I want to visit anytime soon.
+
+That said… their whole scribbling everything I say down thing aside, not to mention the fact that they’re keeping me here against my will, it’s not actually a half bad place.
+
+Free mana creature kills. Free wine forever. And for some reason these people seem to know every last one of my tastes, all the way down to my favorite wines and the fact that I enjoy hot springs. Something I honestly didn’t think anyone knew since I haven’t been to a hot spring since my time on Luk’tar. And that was on my own.
+
+At least other than the whole staying here in the first place thing they aren’t forcing me to do anything I don’t want to do. With them somehow knowing everything I want to do.
+
+It’s honestly a little creepy.
+
+Okay, more than a little.
+
+Almost like they know more about me than I know about myself.
+
+So very creepy.
+
+If it weren’t for their habit of writing everything I say or do down, or their habit of staring at me like I’m their sun, or their habit of predicting everything I’m gonna do, or… okay, if it weren’t for a lot of their habits, I wouldn’t mind staying here for a little while.
+
+I let out a sigh as I look out over the balcony from my comfortable seat. Ignoring the several fanatics dressed as maids and butlers behind me who start freaking out at my sigh like it’s the end of the world.
+
+At least they’re not trying to off themselves anymore. When I first arrived, if I so much as looked displeased by one of their services, they’d try to kill themselves. Something about failing their Lady Death.
+
+And while I considered just letting them considering how they’re keeping me against my will, I would rather not kill off tens of millions of people that way. Because there are a lot of people in this cult. Many of whom are children.
+
+So that’s a no.
+
+Most of them are higher level than me too, which makes escaping a rather hard feat. Especially considering how much security they have.
+
+On the bright side, they wouldn’t dare take my phone or any of my belongings. So I’ve spoken to Shirogane over the phone a few times over the past several hours that I’ve spent here. And from what he says, the pharaoh has already been notified of what happened and they’re tracking my phone’s signal now. A process that takes a little while since they have to figure out what world I’m on.
+
+I let out another sigh, only to glance to the side at the panicking fanatics who are quite literally waving their hands around trying to figure out what to do without saying a word, pacing back and forth, sometimes taking a step towards me only to step back.
+
+Sometimes I can’t help but wonder just how many screws loose these people have. It’s like they have a completely selective sight. They see what they want to see and don’t see what they don’t want to.
+
+Not just sight actually. Selective everything.
+
+They actually did execute one person who ended up serving me wine that I offhandedly mentioned I didn’t like. Which was rather awkward to see.
+
+Ended up telling them not to do that.
+
+Especially considering that they raised them as an undead zombie and had them start doing manual labor after that because dying is an honor here. And not something to be given to someone they’re punished. With undeath being the real punishment.
+
+Kind of makes me wonder what those previously trying to kill themselves would’ve done.
+
+Probably would’ve had someone else raise them from the dead to do the same thing.
+
+Which also makes letting them kill themselves even if I wanted that rather pointless. Since they’d just come back as undead.
+
+On another note, I tried to siphon their life force at one point but that didn’t really do much of anything. Only the adults, of course. Because I don’t really want to kill kids who have no say in what’s going on here.
+
+The adults didn’t even notice.
+
+Their level was too high for me to drain more than seconds off their lifespans.
+
+To the point that at most I was making them age two seconds for every one second that passed.
+
+So that didn’t really amount to much.
+
+Actually, I’m still draining the adult’s life force. Simply because it’s free life energy. So why not?
+
+They don’t even notice. In fact, I get the feeling they’d be happy if they did notice.
+
+And these adults clearly know what they’re doing, so I don’t care about doubling their aging while I’m here.
+
+I almost let out another sigh but manage to hold it in. Because I’d rather not give these maids and butlers a heart attack.
+
+Well, guess I can at least relax here while being fed kills as I wait for my rescue.
+
+Not the worst thing that could happen to me. I was expecting it to be far worse here. With me being put up in some temple that I can’t leave or something.
+
+But nope. They’re just serving me and occasionally walking up to pray, for some reason believing that I’m just gonna understand their thoughts and that I’m acting like I can’t hear them when they do pray.
+
+Now if only…
+
+I glance to the side at the resident scribes of this tacky and fanatical lot. The five people sitting at a movable desk a few dozen meters away from me writing down every last action and word I take and say.
+
+…if only they’d stop doing that.
+
+Also, why do I get the feeling these maids and butlers will be punished somehow for my sighing?
+
+I glance back at said maids and butlers who are still panicking before a thought comes to mind. So I ask, “Do you happen to know what world we’re in?”
+
+They all immediately brighten up and answer at once, “We’re on Vartol, Lady Death!”
+
+Huh.
+
+“Thanks,” I tell them, making them all begin crying tears of joy.
+
+Uh, okay then.
+
+I turn back to look out over the balcony again as I pull out my phone and send a text to Shirogane about what they just said. Then he replies back saying he told the White Emperor, who is then gonna tell the pharaoh, and that I should wait a bit for them to confirm that.
+
+I probably shouldn’t believe these fanatics right away, but for some reason I can’t see them lying to me.
+
+Just the fanatical looks in their eyes right now make me think that.
+
+After a few minutes pass, Shirogane comes back to me saying they confirmed that my phone’s signal is, in fact, coming from Vartol. So they did tell the truth.
+
+Another instance of me wondering just what’s up with these oddballs. It’s like they don’t bother thinking everything through.
+
+Well, at least I know the others will be coming soon.
+
+Now I can just enjoy these refreshments and free mana creature kills while I wait.
+
+I sit up in my lawn chair and stretch my arms above my head, only for my eyebrow to twitch when I hear the idiots writing that down.
+
+Then I let out another sigh, making the other idiots start panicking again.
+
+This is getting old fast.

@@ -1,0 +1,219 @@
+---
+id: 579bf1c4-928b-5b8a-b8ec-bf3e25cd6d8d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 64"
+slug: 0065-chapter-64
+partOf: death-healer
+position: 65
+ownLength: 2503
+unit: words
+publishedAt: 2025-08-21
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2536821/chapter-64"
+royalRoadId: "2536821"
+---
+
+Lily fixed her burning, seven‑pointed gaze on the Revenant [Monk] and watched its frame tense before each move. When the monster slid forward she slipped aside a hair’s breadth sooner, guided by the star that spun inside her pupils.
+
+She stepped past a spear‑hand strike, flicked her wrist, and aimed a flat palm for the creature’s throat. Bone cracked yet the [Monk]’s empty eyes never dimmed. It shuffled back, shifted weight, and thrust both palms at her chest.
+
+Pure force leapt from its hands and punched through Lily’s Mana lattice. The blast hammered her ribs and rattled her heart. She felt muscles tear and a hot spear slice across a lung.
+
+She gasped while Life Flow flooded her vessels and knitted each split fiber before blood could spill. She let her knees bend, rolled under the next strike, and came up inside the [Monk]’s guard. Her elbow smashed against its jaw and rocked the skull sideways, but the monster only grunted.
+
+The [Monk]’s aura thickened. Violet motes danced around its wrists, then funneled into a swirling orb that hovered an inch from each palm. It struck the air and sent twin waves of crushing energy that curved around Lily’s shell and drilled into her gut. Her stomach lurched. Pain ripped through her liver, and she almost doubled, yet Life Flow flared and sealed the ruptured tissue in a heartbeat.
+
+She clenched her jaw and drove a heel kick for the [Monk]’s knee. The creature pivoted like smoke and replied with a close‑range blast that slammed under her sternum. Her vision flashed white because the impact jolted her heart into an arrhythmic flutter, but healing magic jumped in and forced the rhythm steady.
+
+Sweat streamed off her brow and hissed on the hot circle of Mana that still coated her skin.
+
+She circled while the [Monk] gathered more power. The violet motes grew brighter. Every pulse cracked the flagstones. Another wave hit her side, slipped through her lattice, and smashed a rib into shards. She spat blood and forced Life Flow to drag bone back into shape. Her lungs burned for air. Her muscles trembled under the constant load of Lux Vitae Overdrive.
+
+This is too much, Lily realized. The energy attacks are bypassing my shield. It doesn’t carry contact, so I won’t turn, but this is—
+
+The [Monk]’s breathing stayed silent. Its aura swelled again. A ring of pure pressure spread from its heels and knocked dust into the air.
+
+Lily’s star pupils whirled faster, tracking each rise of the monster’s shoulders and each twitch of its hips. She had to finish this exchange or the next salvo would split her apart before she could heal.
+
+She gathered every strand of Light and Darkness that remained in her body. Coniunctionis coiled through her spine, along her arms, and into her fists.
+
+She stepped, vanished from sight for half a blink, and re‑appeared inside the [Monk]’s sphere of power.
+
+The monster threw its charged palm for her skull.
+
+She met the strike with both forearms crossed and sank the full weight of her fused Mana into one point. The orb burst between their guards. The detonation rocked the courtyard and drove cracks through the walls. Pain lanced from her wrists to her shoulders, yet her counterblow landed on the [Monk]’s solar plexus with unstoppable momentum.
+
+A dull boom rolled out. The Revenant’s chest caved an inch. Dark Mana sprayed like black sparks and the monster staggered three steps back, knees shaking. Lily’s lungs seized and she tasted blood again, but she refused to yield. She set her right foot, leaned all her weight, and punched for its skull.
+
+* * *
+
+Caesar gripped the battlement as the shockwave rattled mortar from the stones. He watched the cloud of dust settle and saw both fighters still upright.
+
+Galerius swore while he wiped grit from his eyes.
+
+“[Monks] grow fiercer the longer they fight. Their energy compounds every breath they take. If she cannot drop it now, that aura will rip straight through her shell and break her spine.”
+
+Domitian studied the flicker of violet light that wrapped the Revenant’s fists.
+
+“Its energy has doubled since the gate opened. Give it one more minute and each strike will explode inside her organs. Even the Gens Claudia’s Great Skill has a limit.”
+
+Galerius and Silanus turned to Domitian.
+
+“That’s the Gens Claudia’s Great Skill?” they frowned.
+
+“It is,” Caesar confirmed.
+
+Silanus nodded, face grim.
+
+“She already burns her reserves at full tilt. If she fails to land a killing blow before the [Monk] charges again, the next exchange ends her.”
+
+Caesar said nothing. He watched Lily square her shoulders while fresh steam rose from her skin, and he saw the star in her eyes flare brighter than before.
+
+There’s one last thing that she learned this past year.
+
+Or, well, Caesar smiled, perhaps I should say remembered.
+
+* * *
+
+Lily circled the Revenant with her arms raised and her gaze never leaving the creature’s shoulders and hips. The star in her eyes kept spinning, marking every twitch, every breath, and every hint of violence before it erupted. The Revenant tested her guard with a flick of its right hand, feinting high, but Lily slid half a step to the left and blocked, her Mana shell ringing as their blows collided. She let the kinetic force run up her forearm and into her shoulder, then grounded it through her back and heel.
+
+The Revenant did not retreat. It shifted its weight and came at her again, this time unleashing a flurry of jabs and palm strikes that battered her shell and forced her to backpedal around the edge of the blood-spattered stones.
+
+Every blow landed with force that would have shattered bone, but Lily’s healing responded at once, patching vessels and knitting fibers faster than most eyes could follow. She refused to break.
+
+For a moment, she risked a glance at the monster’s center of mass and noticed that its Death Mana had begun to swirl in tighter, brighter bands around the core of its chest.
+
+She knew that this was the moment when a Revenant like this [Monk] grew most dangerous, not when they looked wild, but when their fighting spirit condensed into something sharp.
+
+She waited for the next lunge.
+
+The [Monk] shot forward and feinted for her head.
+
+Lily ducked, but the Revenant twisted and drove a knee up toward her ribs. The blow glanced off her shell, but the impact rattled her spine and left her gasping for breath.
+
+She let her body absorb the pain and funneled more [Life Flow] through her thorax, healing the bruises before they could deepen.
+
+The Revenant pressed the attack, hammering her shell with blows meant to break a lesser fighter.
+
+Lily’s eyes narrowed. She realized the time had come to put everything she had learned and remembered into practice.
+
+She focused, and with every motion, she channeled not only Mana, but precise knowledge of the human form.
+
+While she dodged and blocked, she found the places where the Revenant’s flesh clung to bone, where tendons inserted and where the joints were the weakest.
+
+The star in her eyes blazed, and she pushed Mana through her hands in a way she had never attempted in front of anyone but Caesar, suggesting him that this was one of the things the Papacy would need to implement in order for them to fight the Necromonarch’s hordes properly.
+
+She reached for the Revenant’s wrist as it lashed out. She gripped the joint, drove Life Magic into the tendon—pure and invasive, not as a healing current, but as a force that ruptured the Death Mana at the very root. The monster jerked, and Lily felt the Life Magic tear through decayed tissue, disrupting the grip that the Death Mana held on the muscle fibers.
+
+The Revenant’s arm slackened for half a heartbeat, and she wrenched it sideways until the bone snapped.
+
+She released and darted back.
+
+* * *
+
+Galerius’s breath caught. On the wall, the commanders watched in disbelief as the Revenant’s movements slowed, just for a moment, when Lily’s attacks landed.
+
+She did not stop there. She advanced, weaving Life Magic through her knuckles, and struck the monster in the ribs. The Mana surged through cartilage and bone, hunting the seams where Death Mana bound marrow to sinew. The flesh peeled back, as if seared from within, and the Revenant staggered under the shock.
+
+The [Monk] lashed out in return, its hand driving for her throat, but Lily twisted at the last second. The attack scraped the edge of her shell and caught her cheek, making her head snap back.
+
+Lily drove her palm up, her aim perfect, and slammed Life Magic into the base of the creature’s jaw. The force shattered bone and blasted raw Light through the head, scorching the Death Mana clinging to the skull.
+
+Caesar’s commander was speechless.
+
+* * *
+
+For a heartbeat, the Revenant staggered, then spun and struck her across the chest with a two-handed blow that crumpled the Mana shell over her sternum. She dropped to a knee, pain screaming through her chest as cartilage popped and the shell threatened to shatter.
+
+She forced her lungs to fill, forced her heart to beat, and forced Life Magic through every inch of broken tissue.
+
+If it wasn’t for Lily’s extremely advanced medical knowledge, she’d have died a dozen times over—this would have been an impossible fight without her capability to heal from mortal wounds in the snap of a finger.
+
+She pushed herself upright, her body repairing under the strain, and fixed her burning gaze on the Revenant.
+
+The Revenant advanced, slower now, and Lily saw hesitation in its stance.
+
+The seven-pointed star in her eyes spun faster. She raised her fists and let Life Magic collect at her fingertips, feeling for every place where the Death Mana gripped tightest, imagining her magic permeating the very cells that made up the monster’s tissue, hunting down Death Magic in the recesses of microscopy.
+
+She feinted left and drove her right fist into the side of its knee.
+
+Life Magic poured through the joint, and the Death Mana flared and recoiled.
+
+The Revenant’s Death Mana wasn’t even close to the purity of Lily’s Death Mana.
+
+The monster’s leg buckled. She followed with a heel strike to the inside of its elbow, aiming to tear the Death Mana from tendon and ligament.
+
+The Revenant’s arm dangled limp as the joint gave out, but it managed to twist and land a punch to her temple that rattled her skull and left her vision spinning.
+
+For a moment, she felt herself slipping toward unconsciousness, but she gritted her teeth and forced Life Flow into her head, repairing the vessels before she lost focus.
+
+She dodged the next strike by an inch, ducked under a sweeping kick, and let her knowledge guide her to the weak spots Death Mana could not protect.
+
+She hammered at the monster’s spine, sending Light Magic and Life Magic into the gap between vertebrae. The Death Mana sizzled and peeled back, unable to anchor itself against her precision.
+
+The Revenant stumbled, its movements ragged, its momentum lost, and Lily saw that the flesh on its arms had begun to peel away where her attacks had landed.
+
+* * *
+
+On the wall, Silanus shook his head.
+
+“She’s using Life Magic to disrupt Death Mana at the joints. I’ve never seen it cut so deep. Even the Gens Claudia can’t causa that much damage with that damn Sacred Flame of yours, Caesar.”
+
+Domitian gripped the stone with both hands.
+
+“You can hurt the Undead with Light and Life, but not like this. It’s always been shallow. Why does it burn them through the bone?”
+
+Caesar watched in silence, his jaw set. He waited for them to finish.
+
+Galerius shook his head.
+
+“Nobody ever taught us to use Life Magic like that. Not even Lucianus could do this with his family’s Skill. What’s she doing differently?”
+
+Caesar turned and looked them all in the eye.
+
+“She knows how a body works—not just in theory, but in practice. Her knowledge—she’s begun writing it down for us. You wouldn’t believe what she knows, how deep it goes. Where she drew that, honestly, I don’t know. But it’s what will change the war forever. And not only that, her [Mana Sense], or whatever monstrosity it has now become—she sees the lines, the gaps, the true boundaries where Death Magic latches to the Undead form. Her knowledge of anatomy and medicine outstrips anything we have ever seen, in our house or any other. That’s what lets her attack the Undead at the root.”
+
+Silanus spat.
+
+“You’re telling me that the Gens Claudia never figured this out? In a thousand years? And the kid did? You’re recording her knowledge? Caesar, do you hear yourself?”
+
+Caesar’s voice stayed level.
+
+“She’s not just a prodigy with Mana. She remembers things no one taught her. She learned techniques that belong to another era, maybe another world. That’s why I chose her.”
+
+In the yard, Lily drove her elbow down onto the Revenant’s spine, Life Magic surging through the vertebral column.
+
+The monster convulsed, its Death Mana unraveling, and it dropped to one knee. She drove her heel into the base of its skull, sending Life Magic surging through the brainstem, and the Revenant shuddered.
+
+It tried to rise, but its limbs failed. Lily pressed the attack, striking every weak point in turn. She shattered its other elbow, tore the Death Mana free from its hip, and smashed its face with a final, precise strike.
+
+The Revenant’s eyes flickered.
+
+Its core pulsed, Death Mana whirling for a last desperate surge. Lily braced her feet, pooled her remaining Mana, and slammed both fists into the Revenant’s chest, targeting the heart.
+
+She injected every strand of Life Magic she could muster into the rotten muscle.
+
+The Death Mana exploded outward in a gout of black and gold. The Revenant convulsed, spasmed, then fell at her feet, the core of Death Magic burning away to nothing.
+
+Lily stood, her breath ragged and sweat running down her face.
+
+The star in her eyes dimmed. Her Mana shell flickered.
+
+But she did not fall.
+
+* * *
+
+On the wall, the three commanders stared down in utter silence. Galerius’s face was pale. Silanus said nothing. Domitian’s mouth hung open.
+
+Caesar exhaled and turned away from the battlements.
+
+He walked down the stairs and met Lily in the yard, where the stench of death and the haze of fading Mana still lingered.
+
+He looked at her, saw her trembling, and nodded once.
+
+“It’s time,” he said. “You’ve proved everything you needed. You’ll return now. Go back and claim what your mother wanted for you.”
+
+Lily did not answer. She gathered what little strength she had left and followed Caesar from the killing ground, her footsteps echoing through the ruined outpost.
+
+The demonstration was finished.
+
+Every doubt had been burned away.

@@ -1,0 +1,145 @@
+---
+id: d7801c73-2ed7-58e7-a68d-a5ded77845df
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,429 - Mountains and Valleys"
+slug: 0109-chapter-1429-mountains-and-valleys
+partOf: defiance-of-the-fall
+position: 109
+ownLength: 3053
+unit: words
+publishedAt: 2026-05-03
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3350210/chapter-1429-mountains-and-valleys"
+royalRoadId: "3350210"
+---
+
+With an eager expression, Esmeralda grew to a size that could fit Zac in her pouch. Whether it was because of their destination or that more of her bloodline had emerged over the past month, she created a stronger image than before. With the warm light of Dome Lake acting as a backdrop, Zac felt he was looking at a towering mountain rather than his mischievous companion.
+
+Esmeralda took charge, crossing Dome Lake in a single bound. She was so focused on the task at hand that she forgot to reproach Zac for the devastation outside. The flourishing district whose hidden treasures pulled Zac in every direction was gone. His bloodline breakthrough hadn’t just caused large-scale destruction; it had drained the very essence of the land.
+
+The remaining arrays that lashed out at their surroundings couldn’t stump the Grand Traversal Toad. The ruins turned into a blur as she brought them toward the depths of the island where [Second Singularity] was hidden away.
+
+Unfortunately, it would be impossible for Esmeralda to keep the pace all the way. The Mercurial Court’s island was larger than the continents of most D-grade worlds, and that was only the surface layer. The Outer Court’s true form was a vast labyrinth of countless spatial folds and realms both imagined and real. Despite running themselves ragged over the past month, traveling far and wide, they still had no idea of the court’s true size.
+
+Distance wasn’t the only issue. Part of their preparations for Zac’s breakthrough had doubled as scouting missions for their heist, and one thing was painfully clear. The further inland they moved, the greater the disturbances they would have to face. Dome Lake was already close to the border of the inner region, where the mundane would start to give way to the supernatural. They would soon have to deal with Natural Formations as deadly as the ones they encountered on Sevona’s island.
+
+There were temporal quagmires where staying a day could waste a year, hostile illusions masquerading as remnants of Citadel, and spatial traps that would send them straight into the abyss. There was no method to the madness. Some formations might have once been part of the Mercurial Court’s defenses, while others were the products of circumstance and time. With pockets of Corruption seeping into and twisting their surroundings, nothing truly made sense.
+
+Their best guess was that the fraught environment was the result of the desperate battle that rocked the Mercurial Court during its final days. The war would have been fiercest at its center, possibly with Supremacies clashing. Such battles could leave permanent marks, especially in the Mercurial Court where reality was malleable.
+
+Crossing most of the danger zones was impossible even for Esmeralda. The formations didn’t care about their credentials, and forcing their way through was out of the question. The only possible passages were the corrupted zones cutting through the lingering domains. However, they were deadlier than the spatial storms. Zac wasn’t confident in enduring its mental infiltration even with his upgraded bloodline, and there were plenty of C-grade Qriz’Ul lurking in the depths.
+
+Their only solution was to cross the deadliest swathes through the past, just as they had reached Dome Lake. The method came with the risk of emerging from a memory in the middle of a deathtrap, for which they had made plenty of preparations. The journey still carried substantial dangers, and the snippets they’d seen of the future could only provide general guidance.
+
+Months had passed since the theoretical timeline Idiche showed them, which was enough time for the Mercurial Court to reinvent itself a hundred times over. The memory winds wouldn’t be in the same locations, and safe passages would have been replaced by danger zones. Even the sanctuaries they’d marked down—structures that had withstood the chaos to create safe zones in the island’s center—might have fallen.
+
+Zac still saw no reason to urge Esmeralda to pace herself. They were a few hours from the dangerous parts, and she would calm down on her own soon enough. Instead, he closed his eyes and rested inside the comfort of her pouch. Rather than squeezing in some type of last-minute cultivation, he was better off ensuring he was in perfect condition in case a problem cropped up.
+
+It happened sooner than expected. While Zac had been careful not to extend his void tendrils into the inner court out of fear of consuming something beyond his abilities, he’d devoured almost everything holding spirituality up to that point. The spiritual deficiency had triggered a spillover effect, and a frenzied river made of C-grade Temporal Energy tinted with corruption blocked their path.
+
+“It should be passable, give me a minute to calculate the transformations,” Esmeralda said, wariness evident on her face. Such a massive accumulation of time caused Zac some trouble even at a distance, not to mention Esmeralda.
+
+“Wait, let me try something instead,” Zac said after gauging the width of the river. “Head into the shrine for a bit.”
+
+“Huh? Okay,” Esmeralda said with a curious glint in her eyes.
+
+Zac saw no reason to isolate the [Shrine of Kanba] with his C-grade bloodline. They’d long since passed that point, and Esmeralda’s feedback could prove valuable. He first opened a void vortex directly before him and expanded it until it was tall enough for him to comfortably pass through. The process wasn’t as effortless when repeating it on the other side of the river.
+
+The opposite shores should be well within the range of [Earthly Dome], but the river’s spirituality was powerful enough to exert its influence on the Void. Opening a passage was still possible, but it began destabilizing when expanded beyond the size of a bowling ball. It was much too small for Zac to squeeze through, and he reluctantly closed the vortex.
+
+The disappointment didn’t last long before a new variation of an old idea appeared, and Zac took out the [Fuxi Mountain Gate] with an eager expression. A second vortex appeared next to the original one, and Zac sent the Void Treasure through a few times to confirm the passing didn’t damage its Faith-attuned runes or the treasure itself. Next, Zac’s surroundings disappeared. The scarred gate appeared before him while the warmth of boundless imperial flames licked his back.
+
+Zac only stayed twenty seconds before returning to the real world. He appeared in his original position, the two vortexes still floating before him. Zac didn’t lose his connection to the vortices when entering the Void Treasure, but he’d lost the ability to move them around or provide energy. This much was enough for Zac’s purposes.
+
+After confirming the plan wouldn’t get himself and Esmeralda trapped in his Void Realm, another vortex appeared beyond the spatial river. Zac put his arm through, confirming the environment on the other side was safe enough. The errant streaks of Spatial Energy permeating the air couldn’t even break his skin.
+
+Zac threw the [Fuxi Mountain Gate] inside while simultaneously squeezing into the Void Treasure. His return was met with some resistance. While much better off than when he first got it, the mountain gate was far from recovered. He emerged shortly after, grabbing the Void Treasure before flashing away. Whether by coincidence or because of his actions, a small eruption of time swept the nearby shores. It didn’t quell his excitement as he added a few miles of distance.
+
+“And Ogras said the idea was stupid,” Zac laughed to himself as he stowed the [Fuxi Mountain Gate].
+
+“You bypassed space!” Esmeralda exclaimed upon emerging, her eyes veritably burning. “Was that...?”
+
+“New ability,” Zac confirmed.
+
+“Can you—"
+
+“You’d have to learn to control the Void,” Zac smiled. “Do you want the notes I found in the Hidden Earth Abode?”
+
+“Ai, forget it. Space is still the best. It’s not like I couldn’t go wherever I pleased before,” Esmeralda said, trying her best to hide her jealousy.
+
+“I’m sure you could,” Zac laughed as he climbed back into her pouch.
+
+“Still, it’s a waste for you to stay a brute with a head full of violence now that you have gained such a marvelous skill. How about it? It’s not too late to shift focus and truly embrace the wealth retrieval business.”
+
+“I’m afraid enemies will keep finding me whether I like it or not. Since I’m not as agile as you, I have to keep my axe sharp,” Zac shrugged.
+
+“I suppose you’re right. I’ve never seen someone with such a penchant for trouble,” Esmeralda snickered. “How far can you go with those gates?”
+
+“It depends on the level of interference. If there are none, dozens of miles should be possible,” Zac said, adding, “there might be limitations I’m unaware of.”
+
+“There’ll be plenty of opportunities to test your voidwalking over the coming weeks,” Esmeralda said.
+
+While the two continued their journey, Zac’s human half still hadn’t left the isolated space of the Judgment Plateau. Part of it was caution. His mountain was the source of the huge upheavals that shook the Hollow Court, and there was no telling what situation awaited him outside. There was also the nagging worry that the ones manipulating things from the shadows weren’t done with him yet.
+
+Unsurprisingly, Zac’s scans came up empty-handed. It wasn’t like [Spiritual Anchor] or spiritual would do him any good if Roan had decided to implant him with something through the Void Tree. It was a shame that the Four Desolates tribulation most likely had been devoured during his Bloodline Breakthrough. There was no better method to clean the slate and expunge hidden marks along with ingrained toxins.
+
+There was one more reason Zac stalled: he didn’t know what he should do. The obvious course of action was to join up with Ogras and pursue the Primo’s Treasure by following Tavza’s tracks. At the same time, he was reluctant to leave Fuxi Halls after paying over 6,000 Longanimity to get here. And this place still held the highest chances of housing the Primo’s item.
+
+For all Zac knew, Tavza might have jumped into a tear in space because it could lead her here. He wished there was some sign that could point him in the right direction. Then again, if there was such a thing, it wouldn’t be found in his isolated space. Stalling no longer, Zac emerged from seclusion. He could barely recognize the world waiting for him outside.
+
+Not a single mountain had been spared the calamity that swept through the Left Imperial Expanse. Their vast reservoirs of Faith Energy were drained, and they were covered in scorch marks that emitted traces of Heavenly wrath. Dozens of mountains had crumbled altogether, becoming ugly scars on the vast Natural Formation of Fuxi Halls. The rivers of Void Energy filling the valleys had been exhausted.
+
+Rather than one of the Outer Courts, Zac felt like he’d returned to the shallows. Zac took in the scene with a face full of confusion, as if he had nothing to do with the destruction. The notion of wrathful elders descending to demand reimbursement for damages caused was almost enough to make him turn around and hide within the Judgment Plateau again. With his Potentiality spent and Imperial Merit exchanged for the Void Fruits, Longanimity was all he had left.
+
+Then, Zac saw the man standing just a few hundred meters away. His aura was so perfectly fused with his surroundings that Zac initially failed to notice his presence. And while his back was turned toward Zac, he easily recognized who it was. After steeling his resolve, Zac walked over.
+
+“Greetings, senior,” Zac said with a bow.
+
+It was the old Templar who gifted them three seeds of the [Ketumati Lotus] at the top of the Hollow Chasm. He looked the same as before, still draped in simple hemp robes like most members of the order, and his aura was so perfectly contained that Zac may as well have been looking at a mortal. Still, there was no mistaking the profound depths in his bearing as he turned over, and Zac was immensely relieved at the Templar’s complete lack of anger.
+
+“Look at this land, what do you see?”
+
+Desolation was the first word that popped into Zac’s mind, but saying that almost felt like an admission of guilt. He also couldn’t give some perfunctory answer, so Zac observed for a full minute before speaking.
+
+“Rebirth.”
+
+The old priest displayed a gratified smile. “As it is Heaven’s chosen method of enforcing balance, most cultivators consider lightning a force of destruction. However, the Heavenly Mandate is not limited to tearing down. As it reduces excess, it also nourishes deficiency. It is the first lightning of spring that invigorates the soil.”
+
+His statement held a mysterious power that made Zac think of Roan. While not nearly as potent, the priest’s words influenced their surroundings. The scarred mountain was given a new lease from his belief. Fertile soil filled the cracks, and lush bines sprouted from the seams. A spherical layer of flora began spreading from where they stood.
+
+“The Cosmos is cyclic, as are our lives. After seizing longevity from the Heavens, we are destined to face both glory and despair. Whether the valleys will fill with life-giving rain or become cracks of erosion depends on your conviction.”
+
+“I’ll remember Senior’s guidance,” Zac said. “Is senior here to convey the instructions of the Earth Sage?”
+
+“You can call it a suggestion,” the priest said with a smile. “Do you remember what I said when we first met?”
+
+“That the journey is as important as the destination?” Zac asked.
+
+The priest nodded. “Do not be in a hurry to return to your friend’s side. He has his road to tread as you have yours. The voice of this land is unique, and the Earth Sage believes you’re particularly suited to hear its teachings. Travel the valleys, climb the mountains, experience a world sourcing life from death and Dao from Void.”
+
+“My other companion disappeared during the upheavals. I’m afraid she might—"
+
+“Who knows, the answer you seek might be closer than you think,” the priest said, his gaze shifting to a nearby mountain.
+
+Zac wasn’t given the chance to ask for clarification. The old templar crumbled into clumps of pitch-black soil filled with Imperial Faith. It fertilized the slopes of the mountain, drastically accelerating its green transformation.
+
+“Travel the mountains and valleys?” Zac muttered, deliberating only a moment before deciding to follow the suggestion.
+
+He’d been looking for a sign of which way to go. Wasn’t this it? Zac bowed toward the crumbled peak behind him before flying toward the next mountain over. The priest’s parting message was clearly not just a general statement. There should be something special about the mountain. There were no pulls of fate marking hidden treasures, which failed to quell Zac’s budding sense of adventure.
+
+Zac stopped at the halfway point upon noticing something amiss, and the more he looked, the more his confusion grew. It was hard to tell for sure when the Heavens hadn’t spared a single inch of the Fuxi Mountain Range, but there were levels to the destruction. Rather than his own mountain peak, it seemed like the tribulation’s epicenter was this nondescript mountain.
+
+Were the rumors actually true, that some elder had triggered a tribulation at the same time he broke through? Would he be disrupting that elder’s consolidation if he barged over? Zac ultimately decided to press on, and the lack of mountain barriers was a good sign. Zac flitted back and forth, looking for anything that stood out.
+
+His recent breakthroughs didn’t prove useful this time. His core may have reached Peak D-grade, but he had no means to take advantage of it. He’d progressed too swiftly, and only half his skills had been upgraded to Late D-grade. While he’d already settled on blueprints for most of his skills that remained Middle D-grade, he hadn’t managed to figure out a single Peak D-grade skill.
+
+The problem was not just the increased complexity, as it had been before. The next set of upgrades needed to set the stage for his ascent into Monarchy. There was a significant risk that his skills would lose their upgradable status and max out at Peak D-grade if he derived the blueprints as he was. He needed to better understand the mechanics of the Inner World and how they powered a skill.
+
+His C-grade bloodline was no better at looking for clues. While [Earthly Dome] was able to reach far and wide, it didn’t actually extend Zac’s senses. Without his vision or the call of treasures to guide him, he would be opening vortexes blind. Sure, he could open a gate to the other side of the mountain and stick his head through, but it was conspicuous, and it didn’t save much time.
+
+In the end, it was through Zac’s signature combination of hard work and dumb luck that he found what he was looking for. A few rocks began tumbling down the wall upon landing close to the peak. While following their descent, he noticed how one stone briefly disappeared. There was an illusion barrier, and since the stone passed through, there were no physical defenses.
+
+Zac hid his presence as much as possible before inching over. After a few tests to confirm it was safe, he peeked through. There was a hidden ledge behind the barrier and a doorway that resembled the entrance of a conventional cultivation manor. Zac’s gaze only lingered on it for a moment before focusing on the man lying prostrate in the middle of the plateau.
+
+It was only thanks to cultivating the Dao of Life and sensing a stubborn flame of life that Zac realized the dried-out mummy was actually alive. Not only that, but his hair and vestments sparked an old memory, and Zac compared the man’s gaunt features with those of his old foe. Sure enough, it was him.
+
+The old priest had led him to the suspected imperial of the Pesvati Rift. He was one of the strongest opponents Zac had faced in the trial, to the point where he’d opted to escape into a storm rather than risk his life for no reason. Now, he was hanging on by a thread, with Zac becoming the arbiter of his fate.

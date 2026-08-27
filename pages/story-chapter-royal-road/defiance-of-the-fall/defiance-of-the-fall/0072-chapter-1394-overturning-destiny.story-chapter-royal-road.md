@@ -1,0 +1,155 @@
+---
+id: fcf7d82a-4933-52f8-bad6-4cd065968993
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,394 - Overturning Destiny"
+slug: 0072-chapter-1394-overturning-destiny
+partOf: defiance-of-the-fall
+position: 72
+ownLength: 2905
+unit: words
+publishedAt: 2026-01-06
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2918010/chapter-1394-overturning-destiny"
+royalRoadId: "2918010"
+---
+
+Zac had finished cleansing his Soul Aperture of corruption only moments ago, and the echoes of madness made a resurgence thanks to Guild Master Marai’s parting words. They brought about a confusing storm that scattered his thoughts, sprouting both deranged and reasonable conjectures. In his current state, there was no telling which was which.
+
+A familiar pressure put a lid on the internal discourse. Zac glanced up in confusion, curious if the incursion of timelines had finally drawn Heaven’s ire. He could tell that, for once, he wasn’t the target of its wrath, though it certainly pointed at Sevona’s island. For better or worse, the presence remained a whisper and seemed reluctant to condense into something greater. Zac doubted he would have noticed if not for his repeated brushes with the Heavens over the years.
+
+“Not good!” Esmeralda suddenly yelped.
+
+Zac blinked, realizing that the Heavens had distracted him from a subdued transformation taking place right before him. While looking the same, Zac suddenly felt that Marai’s corpse was a stygian patchwork of slightly misaligned parts. Together, the pieces created a puzzle cruder than the lowest Corpselord. He couldn’t exactly place the problem, and his Danger Sense failed to provide any clear indications, yet he knew there was a huge problem with the fallen Guild Master.
+
+His companion wasted no time. She grabbed Zac by his collar and flashed away as he grabbed the pouch tied to Marai’s waist. They were already a mile away when an enormous flower of spatially charged corruption erupted from Marai’s body, tearing everything around it to tatters. Zac’s Danger Sense finally caught up to the sudden turns, though they prompted no action.
+
+Esmeralda’s deft movement easily sidestepped the calamitous streaks that lashed out in every direction, giving Zac time to observe the phenomenon. Seeing it didn’t clear his confusion, though the spectacle did subdue the undependable voices in his mind.
+
+The concentration of corruption was almost at the level of the pond that had almost killed him just hours ago. It far surpassed what he’d sensed when Marai was alive, and that wasn’t the only thing wrong with the deadly streaks. Zac even brought out his Warbringer Idol to confirm illusions weren’t playing a prank on his senses. His heart told him that while there was plenty of Illusory Energy, what he was seeing was mostly real.
+
+“What’s going on?” Zac muttered.
+
+There was an issue both in quantity and in how it presented itself. Like when he took down Zorm, most of the fallout from an Inner World’s collapse would occur in subspace. With a newly formed Inner World like Marai’s, there should at most be a somewhat dangerous disturbance that could be used to gain entry.
+
+It would be another matter if Marai had intentionally detonated her Inner World to wreak havoc on her surroundings, but that clearly wasn’t what had happened. Even if the corruption had triggered such a response, where did the rest of the energy come from? There was enough Spatial Energy to make up a dozen Inner Worlds in the beautiful yet deadly eruption.
+
+At the same time, the mayhem didn’t match the energy. Zac had seen similar discharges before, and he could tell the runaway explosion had the potential to swallow most of the island’s core region. Yet it didn’t spread beyond half a mile, and it was dissipating in a way Zac didn’t understand. As far as he could tell, the monstrous accumulation was simply disappearing, like it had been hit by [Void Mountain]’s Dao-annihilating mark.
+
+It looked like the problem would take care of itself. Was the phenomenon some form of post-mortem Heavenly Judgment, or were they safe thanks to the mysterious powers of Sevona’s Hunting Lodge? It was surely connected to the disjointed feeling the energy streaks still gave off. Zac almost felt like the expelled energy came from dozens of different people.
+
+Before Zac could draw any conclusions, a glassy-eyed Idiche flickered past them. While her form was soon hidden by her cloak, there was no mistaking her destination. She’d rushed straight into the shrinking spatial storm. Even if he wanted to, Zac had no way to stop her.
+
+“Don’t tell me she’s planning on looting Marai’s Inner World?” Zac said with alarm.
+
+He’d be lying if the thought hadn’t crossed his mind, but every cell in his body was telling him that would be a costly adventure. What awaited on the other side of those corrupted Spatial Tears wasn’t something that channeling [Void Zone] could deal with.
+
+“That lunatic!” Esmeralda spat, looking as incredulous as Zac felt.
+
+“Can you bring her out?”
+
+“No way.” Esmeralda furiously shook her head. “That’s not a true space any longer. The corruption, the island’s uniqueness, and Heavens knows what else have fused into something beyond my understanding.”
+
+Zac hesitated before standing down. He’d spent some time recovering both Miasma and Void Energy by drawing from his dwindling stock of Void Treasures, but he was far from fully recovered. More to the point, the danger ahead wasn’t an issue of his state. Marai’s death had triggered something unpredictable and dangerous enough to give Esmeralda pause.
+
+“We’ll have to trust Idiche knows what she’s doing, then,” Zac exhaled as he resumed drawing energy from a Miasma Crystal, his mind shifting to other matters. “What the Guild Master said at the end... How could she know? Do you think all the invaders are aware of the situation?”
+
+“Perhaps, at least to some extent,” Esmeralda solemnly nodded. “I think the corruption helps them bend or even transcend the restrictions of the dream.”
+
+“Overturning Destiny... Can it truly be done?” Zac muttered.
+
+Since meeting Janos, it had become increasingly clear that the Limitless Empire’s ambitions were even greater than they originally thought. Before, they’d surmised that the Empire set up this convoluted trial to erase the lingering sin of birthing the System. From there, the hidden remnants of the Empire could gradually emerge to reclaim their lost glory.
+
+Now, it seemed as though they’d managed to put parts of their population in a time capsule powerful enough to hide from the Heavens themselves. If their plan succeeded, the Omnipresence Chamber would open, and actual people would step out of the dream. Zac couldn’t imagine the shockwaves that would sweep across the Multiverse.
+
+“If anyone could do it, it’s the Limitless Empire. However, I doubt too many will have the chance,” Esmeralda said. “Take that crooked mayor we met at the beginning. Even if he survived the collapse of Black Zenith, he would have died long before the Imperial Road was completed. Will that Grand Dream and his companions pay the price for trillions of such lives? Not even the Emperor himself could afford the price.”
+
+Zac nodded in agreement. “Only those who were alive when the grand array was activated have a chance. And perhaps only those living inside the courts and a few safe harbors. The other souls are the sacrifice necessary to open the path.”
+
+“Which begs the question: exactly when was the array activated? When the Courts opened their gates? When the System awoke? Or during the bloody aftermath that followed?” Esmeralda mused before perking up. “That lunatic actually made it out. That ability of hers is something else.”
+
+Zac was equal parts astounded and relieved to see Idiche emerge in one piece, barring a new set of spatial lacerations. She stumbled over to their side before falling over, her sleepwalk transitioning into a proper rest. Zac sensed an ancient aura within her. Her unique bloodline was growing stronger, and it appeared to be taking on some of the island’s unique illusory aura.
+
+A sudden flash on the horizon made Zac look up, just in time to see the incomplete magic circle completely collapse.
+
+“Don’t tell me,” Zac laughed, a theory taking form in his mind.
+
+The timing of the sigil’s collapse could be explained if Marai was behind its failed activation. She probably wasn’t strong enough to fight against a whole party and instead opted to steal a critical component of the ritual—an item similar to the dagger. Doing so cost Marai her life, but fate brought that item into Idiche’s hands. By consuming it, the magic circle lost its foundation and broke down.
+
+It was a wild guess, but Zac’s intuition told him he wasn’t too far off the mark. Gleaning the truth wasn’t enough to lift his mood. He’d much rather Marai had survived, and not just to learn how she’d seen through the secrets of the trial. Marai dying meant one of their strongest allies had fallen before they even reached the lodge.
+
+“Should we get goi—” Zac’s voice caught in his throat when a terrifying perception locked in on their location. Worse, Zac recognized it. It was the presence he’d briefly sensed when visiting the other side. Not the powerful guardian hiding in the depths of the fortress, but rather the even greater presence that had been located in the desert island’s center.
+
+“Quick, close that thing!” Esmeralda urged.
+
+The thing in question was the remnants of the spatial explosion. Instead of dissipating like the rest of the storm, the last streaks appeared to be stabilizing. The mix of corruption and space was drawing on the island’s illusory energy, and the resulting concoction couldn’t possibly be anything good. Zac urged his tired body into action, donning his armor for protection while rallying what little Void Energy he’d recovered to form an inscrutable rune on his palm.
+
+Zac’s fist slammed into the blob of yet-fully-integrated energies like a sledgehammer and the mix of physical force and Dao-annihilating mystery utterly disrupted the delicate balance. Zac groaned as a lash of corrupted space left a deep gash on [Ossuary Bulwark] and flung him dozens of meters away. A sticky hand grabbed him in the air, exhausting his momentum and placing him back on the ground.
+
+“Just in time,” Esmeralda nodded as the anomaly winked out of existence.
+
+The powerful perception lost track of the area, leaving behind a trace of malevolence. Zac wasn’t sure, but he also thought he could sense some fear from the existence on the other side. Was it because of the Void? Zac doubted his bloodline would do him any good against whatever could emit such a terrifying pressure across realities, but he was happy to let it think otherwise.
+
+As things calmed down, Zac realized the Heavens had already turned its gaze away from the region. It really looked like the problem stemmed from Marai’s inexplicable transformation. He looked at the crater she left behind, his mind full of unanswered questions.
+
+“Just what was that?” Zac muttered.
+
+“We’ll have to worry about that later. The war between sand and rain obscures most of what happens here in the core, but someone may have noticed something. We need to find another hideout,” Esmeralda said.
+
+Esmeralda didn’t suggest using the ancient dagger or resuming their journey toward the lodge, and Zac didn’t bring forth the idea. They hadn’t gotten an hour’s rest before noticing Marai, and Zac had already been forced to expend another round of Void Energy. He bent down to collect the slumbering Idiche while Esmeralda erased any traces of their stay.
+
+Instead of delving deeper into the core, Esmeralda sped along the rim of the mountains encircling the inner region, away from the opening they’d seen before. It took them toward one of the successfully deployed magic circles, which meant every minute brought more sand and corruption. Even Zac could sense the worsening conditions from the safety of Esmeralda’s pouch. Still, it was their only option.
+
+The Monarch hunting them would emerge from the passage behind them, and the mountains themselves reeked of danger. Without Vigor to spare for the dagger, heading further inland was the most dangerous option. The natural energies were decidedly more potent, and the constant infusion of otherworldly sand was creating unpredictable transformations in the Natural Formation. Only the thin band between the mountains and the core provided relative safety.
+
+Twenty minutes later, Esmeralda veered away from the mountains. Before Zac could ask, she stopped before a standing boulder that had yet to be fully covered by sand. Zac watched in silence as Esmeralda imprinted inscrutable patterns on the rough surface before slipping straight into the rock without the aid of the dagger.
+
+“Phew. You can come out,” Esmeralda exhaled.
+
+Zac crawled out, his mind immediately spinning from the view. They were inside a cave, but the walls were rearranging themselves every time he blinked or shifted his gaze. “Where are we?”
+
+“Inside one of the formation eyes. The commotion destabilized it a bit, creating a small, illusory subspace. I created a passage and brought us into the illusion,” Esmeralda casually said with a smug expression. “And don’t worry, I patched up the mess. The Monarch hunting us won’t notice a thing even if he passes right by—if he’s still looking for us, that is.”
+
+Zac nodded. “How long can we stay here?”
+
+“Half a day at most. We might have to evacuate sooner, depending on what other surprises this day has in store,” Esmeralda said.
+
+“No way to observe the outside?” Zac asked to confirm.
+
+“I had to seal it properly, or this place would fill up with illusions and corruption.”
+
+“Half a day,” Zac mused, slowly nodding. “I’ll be in working condition at least.”
+
+He didn’t like the prospect of sitting around for half a day while his opponents were finding their way to the lodge. But what choice did they have? Even if they somehow made it through the storm, they’d be too drained to deal with even the weakest opponents. Giving the enemy some time to implement their plan might even work in their favor.
+
+The invaders were turning the core into a desert to dismantle whatever illusions hid the lodge. Zac also had a feeling that the island wouldn’t go down without a fight. They could sneak into the lodge and join the fray after both sides had worn each other out.
+
+“I’ve been thinking about what we saw. Marai felt just like the [Peregrine Gondolas] toward the end, but even more obvious,” Zac commented between mouthfuls of food. “You peeked into her Inner World, didn’t you? Was it the same there?”
+
+“Yes, but it didn’t seem intentional. At least not on her part,” Esmeralda said, glancing at Idiche with a raised brow.
+
+“The corruption?” Zac guessed before throwing a rock at Idiche. “There’s no need to play dead. We might need your input.”
+
+“I was just focusing on stabilizing my state. I seem to have absorbed something in my sleep,” a blushing and bleary-eyed Idiche muttered as she sat up. She’d been awake for over five minutes, though the transformation of her bloodline was still ongoing.
+
+“The corruption is part of the picture, and the Guild Leader had undoubtedly drawn the corruption into her world willingly. However, I believe she did so to infiltrate our enemies,” the toad explained, which made Idiche perk up. “She was in possession of a pretty decent method with an accompanying impressive item.”
+
+“Huh?” Idiche was first confused, then calmed down. “Any Inner Disciple around here would have some fated encounters, and Marai became the leader of the Explorer’s Guild without any powerful backer. She would naturally have made some finds during her years in the archipelago. I’m not sure which item you’re referring to, though.”
+
+“I didn’t get a good look before it fell through a crack in reality,” Esmeralda sighed with regret. “It allowed her to fold space and illusions to create something akin to a second Inner World. She allowed that illusory plane to take on the corruption while her true world hid beneath.”
+
+“It spilled over after she was wounded?” Zac surmised.
+
+“You could say that, but the problem ran deeper,” Esmeralda said. “This would have been her end sooner rather than later, no matter what. The girl’s solution wasn’t enough to contain the energy of the Lost Plane. It had already tainted the treasure that maintained balance, and her true Inner World showed signs of mutation.”
+
+“Maybe she knew and did it anyway. Infiltrating the enemy to collect information, or striking back at a critical moment,” Idiche sighed. “Royce... I never knew.”
+
+“It doesn’t explain the other parts. None of the invaders turned into a patchwork of multiple timelines when they died, and I haven’t seen anything like it from corrupted native beings,” Zac said, bringing them back on topic. “Did you gain any insight inside her Inner World?”
+
+“Nothing,” Idiche said, hesitating for a moment. “Well—maybe? I felt something similar to another vision I had just before I caught the toad. Except I can’t exactly remember what it was.”
+
+“Anything could help,” Zac said, ignoring Esmeralda’s displeased expression.
+
+“Whatever it was, its mere presence almost broke my soul, and my memories are damaged. Just thinking about it makes my head hurt,” Idiche shuddered. “I think it was an egg? And the entity inside was being harmed by the disgusting energy that’s all over this island.”
+
+“A powerful entity inside an egg?” Zac muttered in thought before shaking his head. “There’s no point in speculating when we’re missing so much information. We’ll find out when we reach the lodge. I need to focus on recovery.”
+
+Esmeralda nodded in agreement. “Prepare yourselves. I have a feeling that a new world will be waiting for us outside.”

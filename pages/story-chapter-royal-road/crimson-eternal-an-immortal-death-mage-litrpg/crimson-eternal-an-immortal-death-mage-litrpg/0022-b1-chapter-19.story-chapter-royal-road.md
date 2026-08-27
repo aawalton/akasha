@@ -1,0 +1,169 @@
+---
+id: 677d1031-4c69-589b-b2ab-7d2fc1cb2925
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 19"
+slug: 0022-b1-chapter-19
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 22
+ownLength: 2330
+unit: words
+ownProgress: 2330
+publishedAt: 2024-01-10
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1471954/b1-chapter-19"
+royalRoadId: "1471954"
+markedReadAt: "2026-06-29T19:06:35.875Z"
+---
+
+Aria
+
+More of the mercenaries attempt to jump into the train, but I shoot them down before they manage to do so. Only to find myself being shot in the head by an arrow that moves too fast for me to dodge. But I quickly reach up and yank the thing out with a grunt. Then I quickly yank my bag down from the top compartment, move over to shoot another jumping mercenary, and begin to unpack my rifle. Only to pause a few more times to shoot more mercenaries.
+
+I get shot in the side of my head again by another arrow – this one glowing with a black energy – until I yank it out again and quickly find my flesh rotting just from touching it. So I toss it to the side and continue working on assembling my rifle while the wound slowly heals, proving to be a new adaptation.
+
+The rot pain hurts, but I still manage to ignore it as I finally finish assembling my rifle. Only to find that the car driving alongside the train has backed up.
+
+I move over to the shattered windows before sticking my head out and finding four more cars lined up alongside other train cars, each having mercenaries on them jumping into the train.
+
+Damnit, that’s a pain.
+
+I raise my rifle, get shot in the head again, and pull the scope to my eye after which I shoot out the tire of the closest car. Then I reload and shoot out the tire of the next car. And then the next. And the next. All the way till all of the cars are spinning out of control alongside the train.
+
+The mercenaries that had jumped into the train and are still near the windows stick their heads out the window to look at what’s going on, only for me to shoot them in the head just like their cars’ wheels.
+
+[User has killed one being of Level 6. Requirements to reach level 3 have been updated. New requirements are as follows: 152/250 beings have been granted Death.]
+
+[User has killed one being of Level 6. Requirements to reach level 3 have been updated. New requirements are as follows: 153/250 beings have been granted Death.]
+
+Unfortunately most of them are smart enough not to stick their heads out when there’s obviously a sniper around.
+
+My rifle suddenly goes flying when an arrow strikes it, cutting the thing in half.
+
+And there goes my rifle.
+
+Right when I was gonna use it to look for the archer too.
+
+I grit my teeth before deciding that the archer isn’t a priority right now. The civilians are.
+
+So I call out to the civilians, “Stay down and don’t move!” Then I move towards the next car down.
+
+I didn’t see any cars driving ahead of ours, so there shouldn’t be any mercenaries in them. So the civilians in this car should be safe.
+
+With that thought in mind, I open the door and step between the cars before opening the door to the next car, making sure that my hand is gripping tightly to the side rail. And just as I expected, a gunshot echoes out as a bullet takes me directly in the chest. But I ignore it and proceed to push myself into the car while shutting the door behind me.
+
+“What?! How is she still-” the one who shot me starts but I shoot them in the head with my pistol before they can finish.
+
+[User has killed one being of Level 7. Requirements to reach level 3 have been updated. New requirements are as follows: 154/250 beings have been granted Death.]
+
+Hmm. These mercenaries are all pretty high level.
+
+The mercenaries in question begin shooting at me over and over again, but I ignore the bullets to fire back at one of the four remaining mercs, killing them as well.
+
+[User has killed one being of Level 7. Requirements to reach level 3 have been updated. New requirements are as follows: 155/250 beings have been granted Death.]
+
+Okay, I’m turning that back off again. It’s annoying.
+
+“What is she?!” “How’s she doing that?!”
+
+Two of the mercs shout at the same time, but I ignore them again to throw a knife. Only for the knife to suddenly be caught in the hand of one of the mercs, making my eyes widen in surprise.
+
+Huh. Superspeed maybe?
+
+They throw the knife back, but with lightning coating the knife.
+
+Not superspeed. Guess it’s just a boost from their level.
+
+The knife strikes me in the chest, sending volts of electricity running through my body as I drop to my knees.
+
+“That did it! Now bring her-FUCK!” I shut the guy shouting up by raising my pistol and shooting him in the leg. Would’ve shot him in the head instead, but I’m currently unable to bring my arm any higher thanks to the electricity.
+
+Fortunately the electricity doesn’t last much longer, and I’m able to climb to my feet again soon enough. While taking a couple more bullets in the process.
+
+I’m a little surprised that the archer isn’t firing anymore though.
+
+“What the fuck is she?!” one of the mercs shouts, only for another to shout back, “I don’t know!”
+
+I quickly use some of the soul energy in my body to enhance my legs, letting me jump further than I normally would be able to. Then I knee one of the mercs in the face, bringing him down with my bodyweight before I pull the knife out of my own chest and slit his throat with it while the man’s still stunned.
+
+One of the other mercs takes advantage of my position to kick me in the head, sending me flying into the wall with strength that is beyond normal. Something I’m starting to get used to dealing with thanks to the system. Particularly due to the sparring matches during training, where I was fighting people higher leveled than myself.
+
+I end up landing on my side against the wall, but I maintain my grip on my gun, allowing me to quickly aim and shoot at the same merc who sent me flying. Who also happens to be the one that I shot in the leg earlier. And immediately after that I proceed to shoot the last remaining merc in the car as well.
+
+Then silence fills the car as I quickly climb to my feet while reloading my pistol.
+
+“What a pain…” I mutter at the sight of the corpse before turning my gaze to the civilians who are hiding behind the booths and chairs. “Stay here while I deal with the rest.”
+
+I begin walking through the car without waiting for any response. And as I do so, I slide the magazine out of my pistol to check my rounds before putting it back in and checking the ammo tied to my waist.
+
+Yeah, at this rate I won’t have enough to go through all of the enemies. And I doubt I’ll be able to take them down with a blade. Not all of them.
+
+“First Lieutenant Crimson, backup is on the way,” my radio suddenly blurts out. “ETA is two minutes.”
+
+I nod my head despite no one being here to see, other than the cowering civilians that is.
+
+The short ETA must mean that there’s an Ability Holder amongst the backup. That or we’re just closer to the base than I thought.
+
+Could be that I slept longer than expected.
+
+On the Path to the Train
+
+Major Striker runs across the snow, using Captain Rogers’ ability to enhance himself along with the rest of the squad.
+
+Unlike most majors in the military who command a force of five hundred, Major Striker was put in charge of a special team. One filled with nothing but Category 5 Ability Holders.
+
+The major himself doesn’t particularly care about the secrecy of the position one way or another, but he finds the excitement of commanding such a powerful force to be more than he’s felt before.
+
+“So is it true, major?” Captain Harvey asks, the only woman on the team until now. “Is the newbie a woman!?”
+
+“That she is,” Major Striker calls back to her as the five charge through the trees.
+
+“I heard she was a beaut,” First Lieutenant Snow says, the man grinning slightly as his long white hair flows behind him in his run. “You guys think she’s single?”
+
+“Cut it, Lady Killer!” Captain Harvey shouts at him. “I won’t let you touch her! I’m finally gonna have another girl here instead of being stuck with you all on my own, and I’m not gonna have you ruin that!”
+
+“She’s right, Snow, try not to get on her bad side,” Second Lieutenant Vargas says. “I’ve heard she’s merciless. Cuts down her foes without blinking an eye.”
+
+“Ooo, all the better!” the first lieutenant says with a laugh. “An ice princess!”
+
+Major Striker shakes his head with a faint smile as he hears a certain first lieutenant shouting, “Ouch!” from behind him as they run. But once they leave the tree line, he shouts, “Target in sight! Get ready!”
+
+All of the members of the team immediately turn serious, not making a single joke any longer.
+
+“Captain Rogers, keep us moving. Captain Harvey, watch for snipers and keep us shielded.” Major Striker says right as Captain Rogers increases everyone’s speed now that they’re no longer within the trees. “Lieutenant Snow, let loose. Lieutenant Vargas and I will watch your back and provide backup fire.”
+
+“Yes, sir!” all of the officers shout.
+
+The team moves extremely fast through the snow-covered planes just north of the Southern Pass’s entrance until they make it to the side of the train and begin running alongside it. And at this point they all fall silent, listening for sounds.
+
+It doesn’t take long for them to hear what they’re listening for as screams quickly sound from a car further along the train. So the major motions for them to move and they all progress further along the side of the train, repeatedly passing by shattered windows of cars filled with dead targets and terrified civilians.
+
+Just as the reports said. Not the best at comforting civilians.
+
+The major senses the others’ surprise at the sight of the carnage left behind by the newly promoted first lieutenant’s wake, but none of them say a word. Instead they just continue to move alongside the train until they finally arrive at the car where they see a beautiful young woman of approximately 19 or 20 years old with snow white hair and glowing red eyes matching punch for punch with a mercenary and slowly getting her bones fractured with each hit.
+
+But what surprises everyone in the major’s team except for the major is the sight of her simply ignoring the wounds with them healing in seconds every time she receives them. And after several seconds of this, the major sees her purposefully letting him get a hit in on her gut, making her cough out a mouthful of blood on him as the man grins. Then she raises her knee and strikes him directly between the legs before quickly covering her legs in some sort of red energy and jumping over the man to land on his back after performing a backflip.
+
+The major purses his lips as she strangles the man, only to drop his arm when the car door opens and more mercenaries from the next car over enter through it. And without hesitation, Snow’s eyes begin to glow with a blue light and blades of ice appear all around them before flying straight into the car and impaling the various mercenaries.
+
+She’s clearly noticed us but isn’t stopping.
+
+Major Striker makes note of this after seeing her eyes glance over at them before she finishes strangling the man, almost takes a few shots to the back if it weren’t for a glowing purple barrier that appears behind her thanks to Harvey and quickly turns around to face the new mercenaries. Only to realize that they’re already all dead from Snow’s attack.
+
+The major quickly motions for his team to move, and they along with himself all jump into the same car the newbie is in. But they don’t say anything just yet as the major sees Harvey raising her hand and forming a barrier right in front of them mere moments before an arrow coated with some sort of black energy strikes it and bounces off.
+
+So the major steps forwards while drawing his bow from his shoulder and nocking an arrow at the same time, a faint blue light shines from his eyes and he injects pure kinetic energy into his arrow. Then he releases, sending the arrow flying straight towards its target – a man wearing all black stationed on the mountains.
+
+Right when the arrow is about to strike, though, the man suddenly falls apart, proving to be a skeleton.
+
+“Damn,” Major Striker mutters. “Necromancer.”
+
+He looks in the direction of the mountain for a few seconds longer before shaking his head and turning to face the newbie as the others continue checking the area.
+
+“We meet again, First Lieutenant Crimson,” he says with a nod while reaching his hand that’s not holding his bow out to her. “Welcome to our team.”
+
+The woman narrows her eyes slightly and looks between the members of the team, a couple of whom are beginning to go through the civilians, comforting them. Then she looks at his offered hand, glances down at her own, and then takes it, saying a simple, “First Lieutenant Crimson, reporting, sir.”
+
+All of the team members look towards her in surprise, finding her greeting to be a little too formal.
+
+Almost as if she’s trying to cut any possibility of their relationship growing beyond military work.
+
+This is going to be tougher than I thought.

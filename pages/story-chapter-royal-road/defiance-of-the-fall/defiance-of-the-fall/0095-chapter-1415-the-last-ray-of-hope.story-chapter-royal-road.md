@@ -1,0 +1,159 @@
+---
+id: af6adf71-8850-5e60-9db3-92a37be87679
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,415 - The Last Ray of Hope"
+slug: 0095-chapter-1415-the-last-ray-of-hope
+partOf: defiance-of-the-fall
+position: 95
+ownLength: 2969
+unit: words
+publishedAt: 2026-03-29
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3207704/chapter-1415-the-last-ray-of-hope"
+royalRoadId: "3207704"
+---
+
+Seeing as his companions weren’t ready to set out, Zac turned his gaze inward to inspect his upgraded Dao Avatar. It remained a carbon copy of himself, neither more nor less lifelike than before. Looking the same was to be expected since his upgrade didn’t introduce new concepts. It was rather the next step down a road he’d already staked out, a deepening of his understanding of established truths.
+
+The difference came from the Avatar’s presence. If the old avatar was a bloodied soldier embodying the ethos of war, the Middle-stage Avatar was a veteran who’d overcome a thousand battles. It felt as solid as a mountain, or perhaps a stubborn tree stump that refused to budge. Come rain or snow, it would continue swinging its axe so long as there was a shred of strength remaining.
+
+Zac’s perception shifted as he pushed deeper, bringing him to the Dao Continent made from his path. The constant wars raging across the lands had kicked up a notch in ferocity since the breakthrough. Most noticeably, Zac witnessed soldiers and beasts pushing beyond their limits to take down their enemies.
+
+It was all connected. Defiance in the face of death rallied the forces of evolution, allowing the combatants to shatter their chains of destiny. Even so, they eventually encountered a foe who ended their ascent by sealing their fate.
+
+The transformations gave Zac a better idea of the benefits from his upgraded Earthly Dao. As he theorized, it should work similarly to [Conviction of Eoz]. The stronger the foe, the more power Zac would be able to exert. His attacks would erupt with the power of defiance, pushing him beyond his limits.
+
+It was an upgrade that built on his strengths rather than covered for his weaknesses. When stacking the benefit with his Eoz Nodes and [Spiritual Void], Zac would be able to unleash strength well beyond what his attribute points could explain. It was precisely the kind of advantage an elite needed when facing Heaven’s Chosen with their own set of opportunities.
+
+As expected of an Earthly Dao purely belonging to the Peak of Conflict, it only provided benefits related to conflict. In comparison, Zac had already noticed that his Earthly Dao of Reborn Life could speed up his Body Tempering Progress to some degree. The effect was more noticeable on his human form, but it definitely extended to his Draugr body too.
+
+In fact, his Draugr bloodline was ready to push into Late Shallows at any time, he just didn’t know how. Instead of smoothly transcending to the next stage, his cells had stopped absorbing any more refined death. He’d most likely reached a bottleneck that couldn’t be smashed through by unloading a full round of refined death.
+
+Zac had tried channeling [Abyssal Revolutions], but the generalist Draugr Bloodline Manual seemingly had nothing to do with his situation. He’d been hesitant to approach Tavza with the problem since she had already uncovered an uncomfortable number of his secrets. The ability to slowly advance his Eoz bloodline by having [Void Heart] refine Death-attuned items was one of the few secrets he had left.
+
+It wasn’t a big deal compared to having two true bodies or cultivating both Chaos and Void, but the ability came with certain implications. Tavza’s cooperation was, to some degree, based on her belief that Zac needed to visit the Abyssal Shores to unlock the true potential of his Draugr. She might do something drastic if she learned that he could cultivate Eoz’s bloodline wherever he went.
+
+Seeing the Ancestral Runes covering Tavza’s face made Zac realize the opportunity had arrived. He could pretend that part of Avīci’s nirvanic rebirth had gone into bringing his other body to the threshold. Unfortunately, Tavza’s seclusion showed no indication of ending. Meanwhile, Zac had already realized that his breakthrough didn’t need to be consolidated in the slightest.
+
+He suspected it had something to do with the high-tier energy provided by the platform. Even his heart was settled despite having just emerged from the Eighth Hell’s breaking torment. Recalling the crossing still left him shuddering, but it hadn’t formed a Heart Demon thanks to the nirvanic rebirth. In fact, the memories of the garden that came before Avīci had left a greater shadow on his heart.
+
+Zac knew he should use the downtime to make adjustments to his path based on his upgraded Dao, but he found it hard to concentrate. Finally, he couldn’t take it any longer. Zac got to his feet, first heading over to inspect Ogras’ cocoon. Zac couldn’t get closer than ten meters, at which point his skin began prickling from the all-too-familiar flames.
+
+Instead, he walked over to inspect the only thing left on the floor of the Hollow Chasm. The teleportation array fixed in the center looked exceedingly expensive. While active, it didn’t emit any spatial fluctuations. Instead, Zac found the usual suspects of the Hollow Chasm: Life, Death, and the Inverse Peak.
+
+Zac guessed he shouldn’t be surprised. If one could build Cosmic Vessels that didn’t rely on the Dao of Space, why not teleporters? Although it did seem unnecessarily extravagant. Perhaps there was some reason a conventional teleporter wouldn’t work. It made Zac wonder if the Hollow Court was even located in the Left Imperial Expanse.
+
+Approaching steps brought Zac out of his deliberations. Tavza had finally consolidated her breakthrough. Or was she worried that he would go ahead alone now that they’d reached the finish line?
+
+“Is there something wrong?” Zac asked upon noticing her demeanor was off.
+
+“Monster.”
+
+“What the hell?” Zac blurted.
+
+“Not even Lightning Cultivators following the Heavenly Dao are able to absorb tribulations, yet you’re devouring them whole. How is that not a monstrous ability?” Tavza sighed.
+
+“It’s only because this one was pretty weak,” Zac muttered while scratching his chin.
+
+“If you say so,” Tavza said.
+
+The silence stretched. As usual, it was Zac who found himself compelled to break it. “So that was Avīci, huh?”
+
+“The last ray of hope,” Tavza said with a complex expression.
+
+“You know, that place looked a lot like Mox’s Heavenly Territory,” Zac said. “There might be some truth to the legend.”
+
+Tavza possessed some insider information about the other Seven Hells. That didn’t always help when faced with the real thing, but it gave them something to go by. When it came to Avīci, Tavza only knew of a myth: ‘New life from Absolute Death.’
+
+In other words, Avīci held the power of resetting one’s lifespan. Coincidentally, Avīci was also the only hell that openly accepted any visitors that could find it. Most believed the rumor was a trap set by Avīci’s realmlord. At the same time, people grew more afraid of death the longer they lived. Countless powerhouses approaching the end of their road had descended into the Lower Planes for a final chance at a comeback.
+
+As far as Tavza knew, no one had ever emerged—not even Supremacies. Their bodies now covered the skies of Avīci, trapped in purgatory with their destiny extinguished.
+
+Still, Mox’s situation was too similar for it to be a coincidence. It was possible that Mox had devised her sinister method of pseudo-eternity by observing Avīci. Perhaps she’d once entered and managed to escape by relying on her mastery of the Void. Either way, her method wasn’t anything like the promised nirvanic rebirth.
+
+It was more like she’d turned her Heavenly Territory into a personal hell, stealing the providence of others to nourish herself. It was fundamentally different from Avīci, since the Eighth Hell lacked the extremely fell Karma of Mox’s tricks. It also acted in the open, compared to Mox, who was forced to hide in pockets of the Void.
+
+It was possible that the process relied on some Supreme relic. It could also be a matter of volition. Those visiting Avīci did so willingly. They were essentially making a bet with the devil in hopes of rebirth. Therefore, Avīci didn’t break the Four Laws when forcibly extracting their providence.
+
+“I had the same thought. It’s very possible the two are connected. Ultimately, such matters are beyond us,” Tavza said, gazing at her left hand with a troubled expression.
+
+“I wanted to ask, just how did you get here before me? Was there some trick?” Zac quickly asked upon seeing the mood worsening.
+
+“No trick. I suspect we all paid the same fare, except our form of payment differed,” Tavza said, a small smile returning to her face. “Let me guess, you spent less Imperial Merit in Avīci than in Second Garden?”
+
+The question made Zac shiver as it brought back another set of uncomfortable memories. The Second Garden was the subrealm preceding Avīci, and it came with its own flavor of eldritch terror. Zac only remembered kneeling before a primal altar made from wriggling dirt and leaves that looked like eyes. His own eyes had been gouged out, yet he was forced to see everything as he reverently placed a crying infant on the altar.
+
+The next thing he remembered, Zac was lying outside the realmgate. Two weeks had passed, and he was 8,888 Imperial Merit poorer. Ogras and Tavza didn’t remember a thing from the crossing, though they’d both lost merit. Making an exact estimate without a Disciple Token was impossible, but the weakening of their seals was roughly half of Zac’s.
+
+They didn’t have anything to show for the payment either. Avīci at least had the decency to offer a miniature rebirth in exchange. Zac inspected his seal. He didn’t need to confer with his Draugr half to know Tavza was right.
+
+“It took me around 5,000 to get through.”
+
+“I’d say I spent close to 9,000 if we go by the numbers you quoted earlier,” Tavza sighed as she glanced at the remaining cocoon. “Those lacking fortitude would have to supplement with their own providence.”
+
+“Ogras arrived before you?” Zac asked with a frown.
+
+“He did.”
+
+“I’m sure it’s not what you think,” Zac said. “He can take a beating just fine, and his accumulated merit is quite good.”
+
+“If you say so. He doesn’t strike me as the resilient type,” Tavza said, clearly channeling some of her frustration onto Ogras.
+
+Zac could see why Tavza was so gloomy despite advancing her bloodline. Tavza had rushed over from her starting point closer to the Farsee Court, costing her some opportunities. She’d made up for some of it by being connected to Mox’s thread of fate, but her contributions hadn’t reached the point of forming a halo.
+
+Losing close to 15,000 Imperial Merit during the final stretch had nearly cut her reserves by half. Zac suspected they’d get awarded a good chunk of the Hollow Court’s local contribution points upon arrival for their feats inside the subrealms, but a loss of that magnitude was still a significant setback.
+
+Three months of scouring the Mercurial Court for opportunities had given Zac a full grasp on the value of Imperial Merit. The peak opportunities of the Outer Courts were around 150,000 to 250,000 Imperial Merit. For instance, the Mercurial Court had three ultimate opportunities aimed at visiting Sealbearers; one pill, one dream, and one drop.
+
+The [Lucent Longevity Dan] was a priceless Spiritual Pill made by the headmaster preceding Grand Dream. It could double the lifespan of any Hegemon, and part of the effect would carry into higher grades. According to the description, even Autarchs would enjoy a 33% longer lifespan than normal.
+
+Furthermore, the pill’s main ingredient was the River of Time itself, and taking it would drastically improve one’s affinity with the Dao of Time. The effect was no worse than gaining an innate Time-attuned constitution, and it could be stacked with most bloodlines and similar innate abilities. Naturally, extremely tyrannical bloodlines like Zac’s were an exception.
+
+The [First Dawn Yearning] was of similar use. It was a fragment of the last dream of one of the Era’s earliest Primordials, later refined by two court elders. Fusing it with one’s soul aperture would skyrocket the soul’s potential. It was important to remember that few cultivators were like Zac, who could endlessly strengthen his soul so long as he put in time and effort.
+
+Part of the reason Mentalists were so rare was the slow progress. An equally important reason was that few possessed the qualification to pursue that path. Each cultivation breakthrough would increase the upper bounds of a cultivator’s soul to some degree. Beyond that, no amount of effort or cultivation would help.
+
+[First Dawn Yearning] was a cheat that could allow a Dream Cultivator to have as powerful a soul as someone like Vilari. Zac wasn’t sure if he could break free from Janos’ illusions if he managed to get his hands on that priceless artifact. In addition, it provided the user with a true dream realm that could be turned into a secondary Inner World hidden inside their soul.
+
+Lastly, the drop was called [Universal Tear]. Like [Second Singularity], it was a resource stemming from the universe’s birth. It could be used in various ways, like awakening Primordial Spatial Constitutions. Most would consider that a waste because it was one of the best assisting treasures for forming one’s inner world.
+
+The tear would directly open up a space no worse than a Middle Monarch’s, one lacking most of the gaps created by a cultivator’s imperfections. Using the [Universal Tear] all but guaranteed a smooth ascent to Divine Monarchy. Upon reaching Autarchy, one would be able to shift more of one’s inner world onto their surroundings.
+
+Since its application was universal, it cost 245,000 Potentiality, compared to the pill’s 163,000 and the dream’s 185,000. The tear was also the only item Zac was interested in, though his reserves were far from enough. In comparison, studying before [Second Singularity] for a week “only” cost 65,000 Potentiality, which Zac accrued shortly after returning from the Peregrine Archipelago.
+
+Zac expected the Primo’s treasure would belong to this category if it could be bought outright. Losing 15,000 in one go was a huge setback even for him, not to mention Tavza, who also targeted it. Zac had managed to accumulate just over 70,000 Imperial Merit between two bodies while approaching the courts and roughly the same amount of Potentiality since.
+
+The problem was that his pace of accumulation had taken a nosedive since. Slaughtering Qriz’Ul and seizing small pockets of destiny simply weren’t worth nearly as much as completing important threads of fate. He’d accumulated 18,000 Potentiality over the past three months, and that was mostly by hitting the fated opportunities marked in his Disciple token. After running out, his gains had almost ground to a halt.
+
+There was still a chance that a handful of fated sealbearers could exchange for the treasures. Sealbearers from established factions like Iz Tayn and Kaltosa Lu could probably figure out ways to pool their earnings. Nevertheless, Zac felt it more likely that most of the peak treasures would be brought out through underhanded means, like his upcoming caper with Esmeralda.
+
+There’d definitely be a major change when the pillars were fully ignited. The going theory was that the Left Imperial Palace and the Ultom Courts would emerge. Their appearance would trigger the Fifth Pillar’s hidden ritual by drawing the accumulated Fate throughout the continent.
+
+At that time, the memory domains would disintegrate and expose the items sealed beneath. It could very well trigger a final looting free-for-all, where those who’d positioned themselves the best would reap the greatest reward. After that, the selected few would be transported to Ultom while the others were sent out.
+
+Ultimately, Zac wouldn’t place his hopes on an unconfirmed theory, whether it was for [Second Singularity] or the Primo’s treasure. He wouldn’t mind emptying his pockets if it meant completing his mission ahead of schedule.
+
+“Don’t give up before we’ve entered,” Zac said. “We’ll get it one way or another.”
+
+“I know. We have to, even if I have to hunt down every single Skybreaker myself,” Tavza said with a determination that allowed no leeway.
+
+Sensing that the discussion was heading in a dangerous direction, Zac shifted to his earlier question about his bloodline.
+
+“I’m afraid I don’t have answers. Bloodline Awakenings are rare even within our kind, and almost always performed within the lake. In those situations, it’s a natural process. Like your experience in the pond,” Tavza said.
+
+“But not this time,” Zac pressed.
+
+“The Abyssal Shores periodically provide the outer families with resources harvested from the depths. That’s occasionally enough to trigger a small awakening, especially when combined with the Bloodline Manual,” Tavza explained. “That’s how I evolved, though I’m somewhat concerned about advancing with an external source of death. I will have to ask my seniors to inspect my bloodline for mutations.”
+
+“Not possible, then,” Zac sighed.
+
+“If you’re right at the precipice, a powerful enough Abyssal Treasure might suffice,” Tavza said. “I’m afraid I don’t have anything suitable on me, though. You’d have to…”
+
+“Head to the Abyssal Shores, I know,” Zac said, not believing for a second Tavza’s claim. An An’Azol descendant without a single Abyssal Natural Treasure? Please.
+
+While Zac was thinking of ways to access Tavza’s reserves, there was finally some movement from Ogras’ side. A few cracks spread across the cocoon before the whole thing imploded. However, the condensed flames didn’t enter Ogras as one would expect. The shell holding Avīci’s powers of rebirth was dragged into the [Shadewar Flag] in the demon’s hands.
+
+Next, a terrifying amount of energy was pulled out of the platform. Zac glanced at the sky, which suddenly looked angry enough to be mistaken for his own tribulations. The dots connected, and Zac wasn’t sure if he should be impressed or alarmed.
+
+“What has he done?” Tavza gasped.
+
+“I think he’s erected a purgatory of his own.”

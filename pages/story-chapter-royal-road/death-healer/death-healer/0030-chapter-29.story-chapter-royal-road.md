@@ -1,0 +1,103 @@
+---
+id: e6eab6b2-10c2-5c2b-aa20-73ed0b1bd032
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29"
+slug: 0030-chapter-29
+partOf: death-healer
+position: 30
+ownLength: 1350
+unit: words
+publishedAt: 2025-06-06
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2336108/chapter-29"
+royalRoadId: "2336108"
+---
+
+Septimus advanced, although he still wore his mocking smile.
+
+What's happening? Lily couldn't understand her own body at the moment. It felt very similar to when she had first seen the dead, partially dissected rat with her Aunt Gentiliana. Now, it felt like she could… see?
+
+It had happened with healing first, then at Aurelianus's and Livia's marriage.
+
+Now, was it happening again?
+
+Septimus looked like a boy who had never tasted defeat—someone who had been trained in talking like a proper lord, but never became one… and probably never would.
+
+Unless I teach him a lesson, a part of Lily spoke to her.
+
+Septimus's eyes gleamed with smug confidence. And even though Lily had no weapon, she felt her shoulders relax, almost as if an ocean breeze was slowly enveloping her body. She closed her hands, then opened them, and she positioned her feet with one turned inward and the other planted behind it.
+
+Septimus gave a short laugh and angled the tip of his practice sword toward her brow.
+
+“You plan to face me with nothing but bare hands?” he asked. “I have never met anyone so eager to lose.”
+
+Lily inhaled and exhaled at a rhythm. She felt power starting to make her muscles coil, turning them into springs ready to explode.
+
+A detail of memory fluttered behind her eyelids, and she saw a beach with warm sand while ocean waves beat a steady pulse. She blinked as that image merged with the muddy training yard, and she inhaled so her stance would be firm.
+
+Septimus lunged.
+
+He aimed the point at her chest, hoping to startle her, and he thrust with confidence. Lily shifted one foot in a half‑circle and slid her torso to the side so his blade touched nothing but air. She twisted her hips when she turned, and she allowed a single open palm to connect with his wrist. That movement broke his balance, and he nearly stumbled in the mud. His eyes flared because he had not expected a girl who had only ever trained as a [Healer] up to two weeks ago to dodge him.
+
+“You did not land a real strike,” he grunted, and he recovered his footing.
+
+She settled into the stance again, although her heart pounded.
+
+It's working, she said.
+
+She had felt the guidance of her own body. She hadn't resisted it. Instead, she had let her instincts take over her conscious mind. Something—perhaps someone—guided her.
+
+She didn't know why she had all these abilities, all this knowledge, but she always got the feeling that one, day, not one too distant, she would get her answers.
+
+She discovered that her body knew where to place each foot, and it knew how to move her weight so she could slip to one side and keep her center of gravity low. She saw him swing the blade from above because he tried to seize control. Lily bent her knees, and she saw his posture open near his ribs. She struck out in a short arc with her knuckles. Her fist landed against his tunic at the exact spot where his breath caught. He huffed a startled gasp as though he had run into a solid wall.
+
+He staggered backward, and he pressed one hand to his chest.
+
+“That was luck,” he declared. He drew a sharp breath and let fury flash across his face. Then he approached again.
+
+At the edge of the yard, Sabinus stood against a tree while he watched the exchange, and he felt the shift in Lily’s motions. He noticed the calm way she curved her shoulders in a guard so her forearms were ready to parry. He had sparred with her for two weeks, and he had never seen this precision.
+
+A subtle worry formed in his mind because he knew that no one had taught Lily those forms in this life.
+
+He saw his aunt Calpurnia appear behind him. She observed Lily with an intensity that she had never shown for her Sabinus himself, and Sabinus immediately realized that Lily was drawing Calpurnia’s interest far more deeply than he ever had.
+
+Calpurnia was his mother's sister—not related by blood to Septimus, who came from his father's side of the family.
+
+Septimus moved in a flurry and let his blade swing in diagonal patterns. He aimed first for Lily’s collar, then reversed and aimed at her hip. Lily felt like stepping through warm sand as she pivoted on one foot, swept her forearm upward to redirect his blow, and planted a quick punch against his forearm. That blow sent him off balance, and the tip of his sword dipped. He bared his teeth.
+
+“You have no skill,” he growled, even while he gasped for breath. “You only flail.”
+
+She felt something awaken in her memory because each pass of his sword evoked…
+
+Katas, the word suddenly came to her.
+
+She lost herself in the taste of the word, and she only returned to the present when Septimus, enraged, charged at her.
+
+He struck from the left, and she shifted her head so the sword passed by her ear. He then thrust from below, yet she stepped on his lead foot with a light stamp. That tactic pinned his stance so she could slip free of his range, and she felt her pulse tighten with excitement. She flicked the side of her hand against his shoulder to knock him off balance again.
+
+He spun so he could keep her in sight, and his face twisted in anger. His aura flared because he had grown convinced of his own superiority before. Now he was the one on the defensive. He bared his teeth.
+
+“Stand still!” he shouted, and he tried to catch her mid‑step by sweeping his practice blade low. She hopped above it, and she landed so her arms were ready at her sides.
+
+She sensed each detail around her, as if the yard had shrunk. She also perceived her own heartbeat. She saw that she only needed to wait until Septimus left an opening, because frustration kept tugging at his sword arm. At last, he thrust too far. Lily rotated her hips, planted her left foot, and delivered a straight punch that caught him in the center of his chest. The impact forced him onto one knee, and he dropped his practice sword in the mud.
+
+A complete silence gripped the entire courtyard because the onlookers had not expected Lily to gain any advantage. Septimus’s breath rasped, and he tried to deny that a barehanded opponent had just defeated him. He pushed himself upright in an attempt to claim the final strike. He lunged for her. Lily parried his arm with a short deflection, and she drove her knuckles just above his sternum. That blow robbed him of any air left in his lungs, and he collapsed on his knees while he dug his fingers into the soil, and he glared at her as if she had no right to stand above him.
+
+Lily kept her hands raised, although she realized the fight was finished. Her chest rose and fell because her pulse still raced, and her limbs felt light.
+
+She saw Septimus struggle for words, and she knew he wanted to deny that she had bested him. He coughed instead, and he pressed a palm to his chest.
+
+Sabinus ventured a slow step forward, and he opened his mouth as though he meant to offer praise or give Lily some rebuke. Yet he stopped because Calpurnia’s voice cut across the yard.
+
+“She has found her stance, Sabinus,” she said. “She will need more than that, though.”
+
+Calpurnia returned her gaze to Lily, and her grey eyes held an unwavering focus.
+
+"You're Liliana Claudia, daughter—and, temporarily, heir—of Lucianus Claudius, aren't you?"
+
+"Yes, ma'am," Lily said, feeling a natural respect for this woman.
+
+"You need guidance and a style that suits. My nephew here is a good training partner. But you? You're no swordsman."
+
+Lily felt a little ashamed at that.
+
+"If you will have me," the woman said, "I'll be the one teaching you."

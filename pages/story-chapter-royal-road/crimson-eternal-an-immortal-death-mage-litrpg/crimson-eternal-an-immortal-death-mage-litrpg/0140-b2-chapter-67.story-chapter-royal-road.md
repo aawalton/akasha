@@ -1,0 +1,153 @@
+---
+id: 37bc5a6f-09b8-5892-825f-f7c9a8265489
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 67"
+slug: 0140-b2-chapter-67
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 140
+ownLength: 1510
+unit: words
+ownProgress: 1510
+publishedAt: 2024-04-06
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1583618/b2-chapter-67"
+royalRoadId: "1583618"
+markedReadAt: "2026-06-29T19:10:28.752Z"
+---
+
+Aria
+
+The next day sees me heading to the main island for the war. A rather large one covered with a lot of fortresses with a single settlement at the center where the tribal leaders tend to meet for the war. And when I arrive, I quickly undergo a debriefing on the Clan Leader.
+
+Then I quickly hop on an airship and make my way towards one of the undead-infested islands while considering the intel I was given.
+
+The man is a necromancer who has death magic. He’s a Fifth Tier mage, which means that he can use strategic level spells of the Fifth Tier and can have five active spells going on at once. A tier-based system created by the Arcadian Society.
+
+This necromancer in particular specializes in raising the dead. Unlike others who may specialize in raising the dead, may specialize in using their parts to benefit himself or attack, or could even turn the living into undead.
+
+As for the difference between an undead and someone simply revived by a Void Spirit or void mage? The revived ones are just as they were before they died, whereas undead are no longer among the living. Nor can they ever be revived. Not unless they’re cleansed with holy magic, fire magic, or lightning magic.
+
+It’ll be interesting to see the undead summoned by the necromancer to say the least. The intel says he can summon hundreds of thousands of undead so long as he has the corpses. It’s the entire reason why some of the islands on this ‘planet’ are covered in undead.
+
+His handywork from before his little battle with what’s-his-face.
+
+He’s able to summon, as shown by his Tier, up to Fifth Tier undead. Which are about as strong as a mana creature from the Fifth Tier of a Hunter’s Spot.
+
+I’ve never actually killed an undead before. So I’m not sure if it’ll count as granting death to something.
+
+Or is it unkilled? Is that a word?
+
+I think on that for a moment while leaning on the railing of the ship, only to shake my head.
+
+Whatever. I’ll just continue saying killing.
+
+It’s less confusing that way.
+
+Anyways, apparently First Tier undead are just basic skeletons and zombies. Second Tier undead can have more specialized undead of the same type. Ones capable of using weapons like clubs, swords, bows, and whatever.
+
+Third Tier undead start to include nonhumanoid ones like hounds and abominations and the like. Because for some reason it’s apparently harder for necromancers to raise nonhumans.
+
+Wonder if it’s the same reason why the System only activates for humans?
+
+Anyways, Fourth Tier undead tend to be magic casters. Death magic casters. And the first and lowest Tier intelligent undead.
+
+Ironic if they use death magic on me, but I am a little curious how that would work out for them.
+
+And Fifth Tier undead are just large. Very large. Larger than a house large.
+
+They also take a lot of bones. Or flesh. Or whatever is needed for that particular undead.
+
+As for this necromancer, he seems to specialize in zombies. Which will be killer on my nose during this little foray.
+
+Good thing I have nose plugs.
+
+I drape my arms over the side of the ship in my boredom.
+
+Honestly, not all that worried about this job. So long as I can get close enough to the guy, or I can set a trap for him, I should be golden.
+
+After all, no matter how high a level he is, he’s still just a necromancer. So a nuke is enough to do him in.
+
+Necromancers aren’t the greatest in terms of defense, so I highly doubt he has many defensive spells up his arsenal of spells. And they most likely won’t draw their other Clan Chieftains away from their positions just to go after little ol’ me. Not when their Clan Leader is already likely gonna be after me.
+
+I just have to make sure I don’t let him somehow capture me, because I don’t exactly have any adaptations to death magic yet.
+
+So he might be able to keep me down for a bit with death magic. Assuming I’m not just automatically immune due to being, well, Death.
+
+Which would be cool, but not something I should assume.
+
+Come to think of it, I wonder if I can drain the life force from undead? Do they even have life force? Or would I just drain either nothing or possibly whatever power is making them move?
+
+I drum my fingers on the side of the ship for a few minutes before muttering out loud, “Never know till I try…”
+
+A few hours later
+
+“Huh…” I mutter while standing in the middle of a bunch of undead. Undead who are all ignoring me. “Hello? Anyone home?”
+
+They don’t respond.
+
+I cross my arms in contemplation.
+
+It’s kind of hard to practice against these undead when they’re ignoring my existence.
+
+I tilt my head a little while pursing my lips in thought, only for something to come to mind.
+
+So without hesitation, I pull out my phone and call Shirogane. And the merchant answers almost immediately with a blunt, “What is it?”
+
+“These undead are ignoring me,” I tell him, getting straight to the point.
+
+And he answers just as simply, “That’s because undead attack anything with life force in them. You don’t have life force. Problem solved. They’ll probably attack you if a necromancer directly orders them to though. Is that all?”
+
+I pull the phone away from my face for a second before returning it to my ear and answering, “Yeah, thanks.”
+
+Then I hang up and put my hands on my hips as I focus on the undead around me.
+
+Guess that’s convenient.
+
+Not really all that surprised about his knowledge of me not having life force. Probably any soul magic, life magic, or death magic user can tell, and they probably had me inspected while I was on Eternus with plenty of mages. Without my knowing.
+
+I don’t care about that though. They can do what they want so long as they stay out of my business and don’t bother or touch me.
+
+Well, no use standing around here staring at these gross smelling zombies with nose plugs on my face. Time to get to work.
+
+I quickly begin testing things out, first with draining the life force from the zombies. And to my surprise, I actually get a response.
+
+The zombies basically feed me a bunch of soul energy without any life force involved at all.
+
+Then when I deplete a zombie, it just kinda collapses and turns to dust and ash.
+
+Guess these things are being powered by soul energy, then?
+
+Interesting.
+
+What’s odd is that the more I try to drain at once, the harder it becomes to drain them. To the point that if I try to drain a dozen at once, I barely notice a difference in the zombies. They just keep lumbering around like normal. But if I drain a single zombie, it turns to dust in less than half a minute.
+
+Moving on, I try to use my soul fire next. Simply by walking up to a zombie and putting my hand – gloved, of course, because who wants to touch bare zombie flesh? – on its head and pulling soul energy to the surface of my hand before burning it.
+
+And it quickly gets a very intense reaction.
+
+Boom intense.
+
+The zombie explodes, plastering me with its black blood and guts and making me instantly close my eyes and mouth with a rather… dark… expression on my face. Then, after stepping back, I spit out the blood and guts and quickly search for a water bottle to rinse my mouth out.
+
+I’m gonna kill that necromancer.
+
+Which isn’t saying much when that was already my goal, but still.
+
+I never wanted to know what zombie guts tasted like.
+
+Don’t even care that it wasn’t technically his doing.
+
+He’s gonna pay for that.
+
+After realizing how filthy I am, taste aside, I head to a lake on the island to clean myself up. And since no one is ever going to be using this lake again with these undead – probably – I jump in to wash myself up.
+
+Now no one’s gonna be using it again regardless.
+
+No matter how much I scrub though, I can’t seem to get the taste out of my mouth. Even after I clean up the rest of me. Which requires me to strip to do so thanks to my outfit being in the way.
+
+Once I finish who knows how long later though, I put my clothes back on and head to the shore of the lake, a scowl on my face. And only two things on my mind.
+
+For one, that necromancer has a date with a nuke.
+
+For two, I am totally bringing a mask with the same enchantment as my outfit to my fight with him.
+
+Maybe a cleaning enchantment item too.

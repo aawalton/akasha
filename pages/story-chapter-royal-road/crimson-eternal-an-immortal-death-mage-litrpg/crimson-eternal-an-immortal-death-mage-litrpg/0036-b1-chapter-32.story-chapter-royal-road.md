@@ -1,0 +1,149 @@
+---
+id: eb9f5c1e-dcf4-53ec-9c35-bc6d7a1882f5
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 32"
+slug: 0036-b1-chapter-32
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 36
+ownLength: 1963
+unit: words
+ownProgress: 1963
+publishedAt: 2024-01-17
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1480263/b1-chapter-32"
+royalRoadId: "1480263"
+markedReadAt: "2026-06-29T19:07:05.491Z"
+---
+
+The Invader Fortress at the Art Mountain PassMoments Before the Invasion General’s death
+
+For the first time in a long while, Ashton feels almost giddy. But he holds it in due to the device sitting at the front of the table projecting His Imperial Majesty next to it.
+
+He ignores the legate though.
+
+Unlike the other officers and His Majesty in the room, Tribune Lucilius desperately hopes that the Imperial Prince fails his mission. Better yet he dies in the process so that His Imperial Majesty will go through with his son’s plan and order the extermination of the planet’s population so that they can simply come back afterwards to collect the planet’s resources.
+
+Because Ashton really wants to summon a Death Spirit.
+
+It’s every necromancer’s dream to summon a Death Spirit. To summon one of the most powerful beings in existence. A being that controls death itself. Who can kill someone simply by reaching and yanking out your soul.
+
+A being that can even drain the power from a soul before it’s sent off into the void.
+
+Something many consider to be a fate worse than death. Because it means that even if they are revived, they’ll have lost far more than they would’ve otherwise in the process.
+
+But unlike other spirits, who are simply arrogant, death spirits are known for their disgust of the living. All death spirits care for are their own, other spirits to a small degree, and growing stronger.
+
+So if any necromancer summons a death spirit without a worthy sacrifice, the death spirit will include the summoner in the price for summoning it. And they won’t be kind either. They will devour enough of their soul’s energy that they’re left as nothing but a husk. One only barely capable of reviving still.
+
+Then they will take the souls of every being within the vicinity.
+
+If the payment is the souls of an entire planet… then the payment will be fulfilled with absolute certainty.
+
+Ashton feels borderline giddy at this thought as he waits and waits and waits for the good news of the prince’s failure.
+
+He’s already fully set up everything needed for the summoning ceremony in the other room.
+
+The others in the room clearly don’t share his enthusiasm though, but so long as he doesn’t show His Majesty, he’s safe. Even the legate wouldn’t threaten a pseudo Class S. One on the border between Class S and Class A in their ability.
+
+On the other hand, the emperor, Class A Ability Holder he may be, is still over level three hundred. And he is almost two hundred and fifty years old as well.
+
+So the emperor would easily have him killed.
+
+Silence fills the command center of the fortress for an unknown length of time before a crystal on the long table suddenly shatters, sending unease throughout the command center. And just seconds later, words flutter through the building from the Invasion General.
+
+“Do… it…” the voice says, sounding very scratchy and almost as if they’re coughing out blood as they speak. “End… it all!”
+
+An incredibly dark expression covers the emperor’s face before he looks directly at Ashton and says, “Do it.”
+
+Then the link to the device vanishes, leaving Ashton grinning in delight as he begins hurrying over to the summoning chamber while completely ignoring the running officers. Officers who are all trying to escape as quickly as possible out of the fortress and towards the Gate, not wanting to end up part of the massacre.
+
+Ashton doesn’t give a shit about those soldiers, and he knows the emperor doesn’t care about them either. Since they had just lost the vast majority of the Class A and B Ability Holders in the failed mission, the rest are expendable in the emperor’s eyes.
+
+So once Ashton reaches the summoning chamber, he immediately finishes the summoning, making a bright black and purple miasma fill the entire chamber in an instant before exploding out through the walls, destroying the chamber entirely as it shoots up into the sky. And just as quickly as it spread out, it condenses again to form a massive pillar where a veil of darkness radiating the feeling of death slowly descends from above to hover just meters above the ground.
+
+The death spirit in question is wearing a thick cloak, making it so that the only thing that can be seen from its actual body are the glowing red eyes barely visible within its hood. Meanwhile the pure miasma wafting off of the spirit begins to kill everything nearby, likely without the spirit even doing it on purpose.
+
+Ashton immediately bows low to the ground with his head pointed downwards as he says with more than a little reverence, “Greater Death Spirit! I beseech you! Please slaughter every last living being on this planet other than myself! In return, you may have every last soul you can claim from them!”
+
+Several seconds pass in silence as Ashton dares not raise his head to look at the Greater Death Spirit. But after nearly an entire minute passes without a response, he can’t help but peek upwards at the creature, only to find its attention not on him in the slightest.
+
+Instead it’s staring in the direction of the failed mission.
+
+Ashton can’t tell what it’s thinking though, since its face is completely covered.
+
+He still remains silent, not wishing to irritate the Greater Death Spirit no matter what. Even if he is forced to sit here for days.
+
+Eventually, after another minute of silence, the Greater Death Spirit turns its gaze back onto Ashton.
+
+And the necromancer immediately senses something wrong.
+
+The spirit is practically emanating with anger for some reason.
+
+“A lowly mortal dares to make such a request?” a deep and inherently terrifying voice echoes throughout the area, killing everyone who hears it except for the necromancer. However, Ashton quickly comes to realize through his senses that it’s only killing its own forces. It’s leaving the natives alone, not even letting them hear what’s going on. “I will take the souls of every being in this fortress as payment for your sin of summoning me, and I will take yours for the further sin of making such a reprehensible request.”
+
+Ashton opens his mouth to do something, anything that could save him. But he fails to do so. Instead he looks down and finds his skin, his clothes, and even his internal organs simply decomposing faster than the eye can see until they’re naught but mere dust.
+
+Once he’s left with just his soul, he finds himself slowly floating towards the Death Spirit’s hand, which he quickly finds to be made out of bones with no flesh or skin. Then, right when the Death Spirit is about to fly back up in the air towards the Plane of Death open high above them, it stops to look out towards the failed mission area.
+
+“Be well, our beloved Lady Death, for your arrival has long since been awaited by our kind,” the Death Spirit speaks quietly. So quietly that Ashton only barely hears it.
+
+And the words alone send shock through the necromancer’s soul.
+
+The very last thought Ashton has before the Death Spirit raises his soul towards its open hood is one filled with fear and the onset of numbness.
+
+The Class S regenerative… is the Pale Rider.
+
+Then everything goes dark for the man, his soul devoured by a pitch black and crimson light shining from underneath the Death Spirit’s hood before the spirit itself vanishes back into the Plane of Death, leaving the area behind in silence.
+
+Aria
+
+To my surprise, apparently most people straight up forgot about the light in the sky right after it faded. Which led me wondering just what it was.
+
+But what was even more surprising was that when our forces pushed onwards towards the Art Mountain Pass, we found it empty of soldiers.
+
+All we found was what looked like completely decomposed corpses all across the fortress.
+
+After that, we took over the fortress, with our other armies all making their moves on the two Northern Mountain Pass fortresses, capturing them as well. Which proved that the lieutenant general’s insight was indeed correct. The enemy did send most of their strongest Ability Holders to assist in capturing us.
+
+But as it turns out, their chain of command is completely messed up, and more than a few of their number had quite literally abandoned the fortresses at the intersections of the Mountain Passes both North and South of the Great Divide. And when our forces charged past them, we found their headquarters abandoned as well.
+
+Almost like everyone and everything was running for their lives from something.
+
+I let out a sigh as I lean up against the cushion in the rather nice jeep I’m riding in.
+
+From what the general told us afterwards, when we were being given our next orders after capturing the invader headquarters, the general of the invasion forces happened to be leading the ones who tried to capture us. Ironically, the very person with the black flames I killed myself.
+
+Poor guy won’t be coming back considering that I ate his soul core.
+
+Now I can’t help but wonder what will happen next. The general already said that we can’t exactly march through the Gate ourselves to attack them since there’s the whole level thing. What with the enemies not being limited in level there unlike here. So we’d be wiped out rather quickly if we tried.
+
+But can we really just sit here on our planet waiting for the level restriction on invaders to go away before being invaded again and likely killed?
+
+Not really an option.
+
+Then there’s the Arterian Empire, which is growing antsy since it didn’t really help much in the victory. Or at all.
+
+Which kinda proves how much of a pretense that ‘truce’ between us was. Our nations didn’t even coordinate our actions.
+
+I do find it rather ironic how the general of the enemies was so worried about us Category 5s – or I guess they call us Class S? – that he used almost all of his most powerful fighters to attempt to capture us. But his naivety showed through that, and he fell into the lieutenant general’s trap. Leading to a much shorter end to this part of the war than anyone really expected.
+
+But there are still a lot of unanswered questions, and those questions are bothering me.
+
+What happened at the Art Mountain Pass Fortress? What were the enemy soldiers running from? What happened to that necromancer guy that I heard about in the North Mountain Pass Intersection?
+
+Apparently our collapsing of the tunnel ended up making the retreat extremely slowed down in the North, letting us kill and capture all of the invaders there, but none of them were in the know about what happened. All being lower ranking officers.
+
+So none of our questions were ever answered.
+
+I let out another sigh before glancing at the driver of the jeep when he says, “You keep sighing like that and you’ll grow old faster than you can blink, little lady.”
+
+That has me raising a brow.
+
+The driver is a few decades older than me and is actually a first lieutenant as well. Although my promotion will be making me a higher rank soon enough. But they kinda give off a grandpa vibe despite only being in his forties to fifties.
+
+I simply hum in response before looking out the window again.
+
+Come to think of it, I’ll be hitting my prime any year now.
+
+Then I won’t ever age again.
+
+I stare out the window for several seconds at that thought before sighing once more.

@@ -1,0 +1,141 @@
+---
+id: dbb27336-b38c-5ea0-8a0a-5dbea5c2c984
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 31"
+slug: 0334-b5-chapter-31
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 334
+ownLength: 1412
+unit: words
+ownProgress: 1412
+publishedAt: 2026-02-13
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/3051293/b5-chapter-31"
+royalRoadId: "3051293"
+markedReadAt: "2026-06-29T19:17:09.485Z"
+---
+
+Right next to Aria
+
+The captain of the Horseman of Death, Princess of the Crimson Empire’s knights, Vandrafel Shialta Dren, finds himself feeling immensely proud by having this title. When everyone else fought for the title for months, he was the one who won it. He was the one granted permission to follow the beloved youngest member of the Crimson Empire’s imperial family.
+
+And he has loved every single moment of it.
+
+The princess is a precious person. Far more precious than most.
+
+She is innocent beyond belief despite her beauty and status as the Horseman of Death, and has become an idol to the knights of the Crimson Empire. One beloved by all.
+
+And while that has made him a target for jealousy, with everyone wanting to be in her guard, he feels nothing but pride for his position.
+
+Even as he stands guard next to her with over a dozen other knights all stationed in the shadows and without her being able to see them, he feels nothing but pride for his position.
+
+Even as he watches her sipping wine while watching a massive war greater than anything the universe has known in the last several thousand years. Just seated on a lawn chair with an umbrella above her.
+
+A great many of the knights in the Crimson Empire have converted to similar beliefs as the Rex Dynasty civilians, beginning to worship her. Albeit with them worshipping her more as a precious idol to be protected than a deity.
+
+And seeing her like this, just watching the war going on without a single care in the world, won’t change his feelings on the matter. Nor the feelings of the other knights.
+
+It’s to be expected of their beloved idol and princess after all.
+
+Aria Crimson, First Princess of the Crimson Empire and Horseman of Death, is a carefree girl who does whatever she wants. And that will never change if he has any say about it.
+
+That’s his entire job.
+
+To do whatever he can to make sure she can do whatever she wants.
+
+All while enjoying the ability to always be near his idol, who looks both beautiful and adorable even as she’s sipping on wine gazing up at the explosions all around them with pure curiosity in her gaze.
+
+And when a few fallen demon pests get close to the barrier, he makes sure to have them eliminated on the spot. Not wanting to let that damned Demon King anywhere near their princess ever again.
+
+He’s bothered her enough as it is. And while he can’t stop the Horsemen from bothering her, he can at least stop the Demon King clones.
+
+If only that damned curse wasn’t in place…
+
+The curse that caused the princess to be separated from the Crimson Empire in the first place. That made her early years horrible.
+
+Even if that curse is very slowly dissipating thanks to her immortality, he and the entire Crimson Empire are all still rushing to find any way to lift it as soon as possible.
+
+And he’s proud to say that he has finally found a possible method.
+
+Through one of the ones responsible for the curse in the first place. Someone who is now working for the one they had a hand in cursing.
+
+He glances at the princess again when she gets another call. This time from her adopted son.
+
+I’m glad she doesn’t have any interest in romance. I can’t imagine how a boyfriend would be treated by the Crimson Empire, much less her father and brother…
+
+A shiver runs down his spine at that thought.
+
+Not that he’d be any better than they would be.
+
+Aria
+
+“That’s unfair, Mom! I want to be there to watch too!” Ryan complains, sounding a lot whinier than he usually is. Which kind of reminds me of when he was a kid. “A war between the Grands?! It sounds incredible!”
+
+I roll my eyes as I ask, “And just how are you planning on surviving out here? A single stray shot and you’re dead.”
+
+“Aren’t you under a barrier? You know this entire battle is being livestreamed to the entire universe, right?” Ryan counters. “Can’t I just watch under that barrier too? I can see you lazing away drinking wine!”
+
+“Not a chance,” I counter back with a lazy smile on my face as I continue watching the Horsemen and Grands go at each other. With Pestilence eventually spreading his poisonous mist to the soldiers in the surrounding ships. Making them all mutate into strange blob-like creatures that squeeze themselves out of the ships to rush at Arthur. “This barrier could easily be shattered. And I’m not risking your life just so that you can watch a war.”
+
+“But I already prepared the popcorn!” he exclaims, making me shake my head again. “What if I gave you some wine from this planet I found recently on a job? I swear it’s really good!”
+
+“I can just get the other mercenaries to give me some,” I state matter-of-factly while placing one hand over my stomach as I hold a glass with the other and begin sipping more wine. After the glass mysteriously becomes full from one of the knights around me refilling it.
+
+Honestly, their presence is rather convenient sometimes.
+
+I used to find them annoying, but now they do little things like this without me even asking.
+
+“But-” Ryan begins, only for me to hang up without a word to cut him off.
+
+That boy is oddly stubborn. I wonder where he got it from?
+
+Ruby isn’t as stubborn as him.
+
+Then there’s that interest in seeing cool and dangerous things.
+
+I can’t imagine where he got that from. It’s reckless, going to a battlefield just to watch it.
+
+And even eating popcorn while doing it?
+
+Very reckless.
+
+I let out a sigh as I continue drinking my wine on my lawn chair watching the battle.
+
+On another note, the army of fleshy blobs attacking Arthur is rather disgusting to look at.
+
+My thoughts pause for a moment when said fleshy blobs begin to reform into humanoid bodies. Albeit only in shape.
+
+Vague shape at that. Not even regular humans.
+
+Uh, well, I guess that’s less disgusting. Still disturbing though.
+
+I sip at my wine some more before briefly looking around to find those cameras that are recording me. But after failing to find any for several minutes, I eventually just shrug and give up on that. Turning back towards the battle again.
+
+War is still going to town on the ships, destroying one after another. And I can’t even tell what’s going on with Famine off in the distance since he’s too far away.
+
+On top of that, the curse makes it so I can’t even look at a live recording of my family. Which is irritating.
+
+My thoughts come to a halt when I suddenly see some TV set up in front of me with video of their battle going on. Startling me in the process before I notice the person I’m pretty sure is the captain of my knights kneeling next to it.
+
+“Your Highness, this is a recording of the battle from an hour ago,” he states without looking up at me. “The curse will not activate from watching past recordings.”
+
+Oh. That’s good thinking.
+
+“Thank you,” I tell him with a nod before he nods back and disappears once more.
+
+Then I focus on the screen while taking another sip of my wine.
+
+Now I can see the whole battle.
+
+And what I’m seeing is very intense. Not to mention including my brother in the battle, along with my uncle.
+
+Actually, unlike the battle between Pestilence and Arthur which is leaning towards Pestilence’s victory even with thousands of ships firing on him, and the battle between the ships and War which is just War having fun, their battle is pretty even. With Famine draining their energy just as quickly as they’re tanking his attacks and thereby using up his energy in the process.
+
+On top of that, my mother, the empress, keeps draining away his life force with her ability. Balancing out the battle with both sides draining the other.
+
+It’s honestly far more interesting than the battles going on above me, that’s for sure.
+
+With that in mind I continue sipping at my wine while watching the action.
+
+Until an idea comes to mind and I find myself grinning.
+
+That could work…

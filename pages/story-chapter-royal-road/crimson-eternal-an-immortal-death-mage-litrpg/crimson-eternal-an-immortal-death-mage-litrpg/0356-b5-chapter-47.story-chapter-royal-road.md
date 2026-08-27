@@ -1,0 +1,149 @@
+---
+id: 4acf35a9-80bd-5a3d-abde-5a1b76daac40
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 47"
+slug: 0356-b5-chapter-47
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 356
+ownLength: 1446
+unit: words
+publishedAt: 2026-07-13
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/3672753/b5-chapter-47"
+royalRoadId: "3672753"
+---
+
+Aria
+
+My brother is the first one to approach me out of my family. And the first thing he does is poke my cheek for some reason.
+
+I brush his hand away as I tell him, “I forgot to tell you, but the curse was devoured during the Famine Crusade. When I entered the Plane of Famine.”
+
+He stares blankly at me for several seconds.
+
+I stare back.
+
+Eventually I tilt my head and ask, “You okay?”
+
+A few more seconds pass before I see tears building up in his eyes, startling me enough to take a step back. Only for my brother to rush forwards and pull me into a hug while crying.
+
+And as if that wasn’t enough, my parents rush forwards as well and pull both of us into a group hug as they cry as well.
+
+I awkwardly look around at everyone on the platform from the center of the group hug with more than a little confusion on my face. Meanwhile I see the people on the platform showing one of three expressions.
+
+Some of them are showing happy and joyful expressions. Clearly happy that the curse is broken.
+
+That’s mostly consistent of the people from the Crimson Empire.
+
+Others show amusement at my plight, like Shirogane who I see walking out of his manor.
+
+And others are largely indifferent.
+
+Like those from the Grand Silvanian Empire. With the exception of some of the nobles I know and the emperor.
+
+After this little incident, I ends up having a few followers throughout the rest of the meeting here. With the three of them completely abandoning the Crimson Empire side of the discussions when we arrive at the meeting room in Shirogane’s manor. Where everyone has arrived to discuss the exhibition match that will be held in about a week.
+
+Personally, I have grown to care a bit more about my family over the years. Not as much as I cared about the clones who raised me when I was a kid, but I at least don’t think of them as strangers anymore.
+
+But that’s pretty much it.
+
+They’re still a long way away from feeling like family to me though.
+
+Which makes this sudden attention feel rather awkward.
+
+Regardless, the meeting over the exhibition matches doesn’t take very long. What with the fact that the only thing we’re doing is drawing lots for the brackets and deciding how matches against me will go.
+
+Seeing as I can’t die or really lose at all.
+
+In the end though they decide to mostly just play it by ear.
+
+Especially since the brackets, ironically enough, end up rather… unexpected.
+
+According to the brackets, my first opponent is Raja. And most likely, knowing him, he’ll either give up right away or he’ll give up after fighting me for a while just to show off my power.
+
+He would never let me lose in front of others. That I know of with absolute certainty at least.
+
+And even worse than Raja, my match after Raja is against Pestilence. Or technically whoever wins between Pestilence and the Grand Silvanian Emperor.
+
+Which will most likely be Pestilence.
+
+None of the other Grands can fight a Horseman in a one on one duel after all.
+
+After the meeting ends, Shirogane says from the front of the circular table, “All of you may stay in my residence for the time leading up to the exhibition match, or you may stay in your own accommodations. But remember to stay in line with the Tournament Rules while you’re here.”
+
+Of course, before he even finishes speaking, Pestilence leaves the room through a portal without a word. And War stands up and begins walking over towards me.
+
+The two Horsemen completely dismissing his words in the process.
+
+Raja at least pretends to listen, and my family are still staring at me.
+
+So not many people are actually paying attention to him.
+
+“And Aria?” Shirogane says, bringing my attention fully to him from the weirdos staring at me. “Ruby and Nerissa are both waiting outside for you.”
+
+My eyes widen in horror at that before I turn to my parents as I ask, “Hey, would it be alright if I take the next week to visit the Crimson Empire?”
+
+Both their eyes widen in shock, only to turn into overwhelming joy as my mother exclaims, “Yes! Please do!”
+
+And all three of them, as if they can’t wait a second longer, immediately activate some sort of item, making a portal appear beneath us. One that drags me, my brother, and my parents down into it to no doubt take us to the Crimson Empire’s ship in their little spatial dimension.
+
+Shirogane gives me a wry and more than a little amused smile as he watches me make my escape.
+
+A smile stretches across my face while I raise a single hand to give him a thumbs-up.
+
+Then I disappear into the portal to appear on some sort of bridge.
+
+Most likely the bridge of the flagship of the Crimson Empire.
+
+“We’re heading to Crimson Station!” my mother declares the moment we all appear on the bridge, with everyone on said bridge looking shocked at my appearance. But shocked or not, everyone almost immediately gets to work preparing the ship for travel.
+
+And as soon as we leave Eternus’ space, I let out a breath of relief.
+
+Because it means we’re far away from Ruby and Little Blue.
+
+Within seconds, the ship enters hyperspace before heading towards their home. Which barely takes any time at all.
+
+And when we arrive? I find the ship entering a rift inside of hyperspace itself. Where it takes us into a strange dimension filled with a faint crimson light. With an enormous space station at the center of the dimension.
+
+One larger than an entire Alpha Tier planet.
+
+But that’s not all as the dimension seems to have Hunter’s Spots scattered throughout it. In the form of strange vortexes that lead into portals.
+
+In all honesty, the Crimson Empire is one place I’ve been interested in visiting for a while. So getting away from paperwork isn’t my only reason for coming.
+
+It’s just the main reason for deciding to visit right now.
+
+I give a firm nod of my head at that as I continue taking in the sights.
+
+Meanwhile, back at Shirogane’s manor
+
+“She is currently visiting the Crimson Empire,” Shirogane says while trying very hard to hide a smile at the sight of Ruby’s cold glare and Nerissa’s currently shattering indifference.
+
+They should’ve expected this would happen. Aria is a professional at avoiding paperwork after doing so for centuries.
+
+He ignores the fact that it isn’t something someone should be a professional about since it’s hilarious for him to watch their squabbles.
+
+At this point the entirety of her nation knows just how much she dislikes paperwork.
+
+And Shirogane can’t really blame her for it. Not when they kind of set up the nation without asking her first. Then decided to throw paperwork at her after that.
+
+So she never willingly took on the responsibility.
+
+Although she is benefiting from the wealth and influence it brings her.
+
+“And I’m sure the only reason she even knew to run was because you told her, Your Highness,” Little Blue – as Aria so often calls her – says with a glare on her face replacing her previous indifference.
+
+Shirogane doesn’t bat an eye as he shamelessly says, “I have no idea what you’re talking about. I’m sure she already assumed you’d be hounding her about paperwork as always, so she made a hasty escape.”
+
+She continues glaring at Shirogane, but Shirogane’s poker face doesn’t so much as flinch.
+
+He’s used to far more terrifying people thanks to his position as crown prince to a Grand nation. So dealing with a young girl like Little Blue, even if she’s the one in charge of all of the Horseman of Death’s affairs, is child’s play for him.
+
+“Hey, little prince, do you know how I can get to the Crimson Empire’s territory?” War suddenly asks while appearing from a portal next to him. “I can’t portal to it, but you must know a way, right? And you’re the reason she went there in the first place since you told her about these two, so you should take responsibility.”
+
+Shirogane’s face freezes stiff before he slowly turns to look at the grinning Horseman who appeared out of nowhere.
+
+A Horseman who knows exactly what he’s doing.
+
+And when Shirogane turns back to Ruby and Little Blue, he finds their glares having taken on a frighteningly cold turn.
+
+Well, shit. Damned troublemaking Horsemen.

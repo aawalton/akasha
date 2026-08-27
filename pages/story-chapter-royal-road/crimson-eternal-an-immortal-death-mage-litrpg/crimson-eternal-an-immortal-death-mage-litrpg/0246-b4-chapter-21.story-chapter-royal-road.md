@@ -1,0 +1,141 @@
+---
+id: 474b0b28-c18b-57ec-9c8d-6a41fb11d932
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 21"
+slug: 0246-b4-chapter-21
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 246
+ownLength: 1458
+unit: words
+ownProgress: 1458
+publishedAt: 2025-01-09
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2001097/b4-chapter-21"
+royalRoadId: "2001097"
+markedReadAt: "2026-06-29T19:14:06.338Z"
+---
+
+Aria
+
+After the first battle, several more take place all across the world. Each one with me leading an army of Death Spirits and getting my soul energy replenished by the very armies I’m fighting. To the point that I’m gaining more soul energy than I’m expending.
+
+Which is a very cost efficient process.
+
+But unlike with many of the wars I’ve fought in, this war only lasts for around half a month. Ending when I get bored and decide to march a large army of Death Spirits into their military headquarters with bombs strapped to them.
+
+Because who doesn’t like bombs?
+
+Or at least, I can only assume it’ll end.
+
+The duke sitting across from me in his reception room doesn’t look like the type who’ll give up this easily.
+
+“Why?” the duke asks while clenching his fists on the couch as I casually sip a glass of wine. Wine I’m pretty sure I just tasted something weird from, possibly poison, but since it tastes good I don’t mind and keep quiet.
+
+Which seems to make the duke even angrier.
+
+“Just why did you have to come to our world and work with him?!” the duke asks again, clarifying himself better this time.
+
+I take another sip before I answer without much care, “I actually don’t remember the reason I chose this world. Probably at random or something. And I’m working with the king because he asked first.”
+
+My answer makes the duke gape at me. And he’s not the only one as the soldiers in the room do the same thing, with some of them even beginning to grip the handles of their swords with hints of rage emerging on their faces.
+
+The guards clearly not happy with my answer.
+
+“Well, anyways, Duke Goatee, are you going to surrender or not?” I ask while stretching back in my seat, today wearing a jacket over a tank top and pants.
+
+Still not clothing that most people would wear here.
+
+Not sure why – probably the use of the man’s nickname – but he grows even angrier. All the way to the point that he shouts, “Guards, do whatever you can to capture her! I don’t care how many casualties it’ll take!”
+
+Then all dozen or so guards in the room draw their swords and rush straight for me, impaling me through multiple directions with their blades. Going in one way and out the other.
+
+But I ignore them as I tilt my head at Duke Goatee and ask, “So you won’t surrender?”
+
+The anger in his eyes grows even more.
+
+My vision of him is cut off soon though when various different spells and abilities start popping up from the dozen guards around me. Each burning through me, shocking me, melting me, disintegrating me, and what-not.
+
+And when I return to perfect condition, about to order all of my Death Spirits to activate the explosives, I pause.
+
+Because the sight in front of me… is unexpected to say the least.
+
+Instead of the guards still trying to capture me, I find a beheaded Duke Goatee slouched over the table between where he and I were sitting.
+
+Uh…
+
+I glance at the guards to find them all backing away towards the corners of the room, sheathing their swords.
+
+My gaze shifts between the headless corpse and the guards, wondering just what the hell I just saw. Or didn’t see, since I didn’t have a head when it happened.
+
+“What…” I begin, only to trail off when the commander of the duke’s knights walks up to Duke Goatee – who I now notice is missing part of his goatee since some of it was cut off along with his head – and stops right behind his chair. Then the man just bows to me.
+
+I blink, unsure of what’s going on before the man declares, “The duke has been killed as a casualty of the battle. May this victory belong to the Horseman of Death and her current employer, His Majesty, the King of Frostfall.”
+
+Wait… seriously?
+
+When the duke said that he didn’t care about how many casualties they made trying to capture me… they took it as an excuse to kill their duke and call it a casualty? With me not being able to see thanks to missing my own head at the time…
+
+An awkward silence fills the room for several minutes. Only for it to be broken when a small rift appears next to me, and a certain cat jumps out of it to land on my lap with a meow.
+
+I subconsciously begin to pet Asher without pausing in the process of my glancing back and forth between the knight commander and the headless corpse.
+
+Eventually I just shrug and devour Duke Goatee’s soul core.
+
+Well, guess my job here is done.
+
+With that, I pull Asher up into my arms, holding him to my chest before standing up, nodding my head to the commander, and beginning to walk around my chair towards the entrance of the room. Perfectly ready to go and report back to the king about this for my reward.
+
+But before I can even finish stepping around the chair, the knight commander asks, “Lady Death, about those explosives…”
+
+I pause and glance back at him to find a worried and wary gaze in his eyes.
+
+Oh. That’s why they did it.
+
+While Duke Goatee was fine with dying to my explosives, his forces were very much not fine with it. So they killed him to stop me from blowing them all up.
+
+A bit of a pity that I’ll miss the progress to the next level they could’ve given me, along with the soul energy, but whatever.
+
+I give a mental order to my Death Spirits to all begin marching out of the enemy headquarters.
+
+“They’re on their way out as we speak,” I answer him while turning around and continuing my trip to the door.
+
+“Thank you, Lady Death,” the commander says as I step through the door of the reception room. But I just wave my hand over my shoulder at him without saying anything.
+
+After I make it just three steps out of the room, though, I pause. Then I turn back around and head inside the room again to grab the poisoned wine I was drinking, uncaring of the tensing up of the soldiers and knights within said room. And without another word, I head back outside the room again while drinking the poisoned wine.
+
+Interesting.
+
+Never really thought about the possibility of flavoring my wine with poisons.
+
+This may open up an entirely new field of alcohol for me to try.
+
+Ignoring the fact that alcohol in and of itself is technically a poison.
+
+I down the entire rest of the poisoned wine as I march through the building towards one of the outer walls. Following which I just jump off of the wall and land on the ground, my legs still largely fine even after that fall simply due to my level.
+
+Then I put my hands in my jacket pocket, dropping the glass on the snowy ground without a care as I walk over towards the nearby cliff I have my Death Spirits marching towards. Where I find Leone just standing at the edge of the cliff waiting for me.
+
+She looks rather surprised by the sight of my Death Spirits marching back with their explosives intact though.
+
+When I arrive, I answer her question without even being asked, “Duke Goatee was ‘killed as a casualty of their attempting to capture me’ and is no longer a threat. So the war is pretty much over now.”
+
+Leone looks surprised at that, only to shrug, proving how little she actually cares about this war.
+
+Not that I blame her.
+
+Wonder if I should stop calling him Duke Goatee since his goatee was cut?
+
+I glance back at the headquarters – which is pretty much a large castle – before shrugging.
+
+Meh. Duke Goatee will always be Duke Goatee in my mind.
+
+Until I forget him in a couple months that is.
+
+I turn back to Leone again and tell her while beginning to walk away from the headquarters, “Well, time to spend the next five to ten years fighting and reading inside of the Endless Glaciers. Maybe watching some TV as well, if they have service in there.”
+
+Some places don’t have service in their Hunter’s Spots for some reason. Which is stupid.
+
+How else am I supposed to keep up with my TV shows in there?
+
+I ignore the bewildered look on Leone’s face as we begin the march towards the king’s headquarters.
+
+And how she mutters, “TV? In… a Hunter’s Spot? What?”

@@ -1,0 +1,109 @@
+---
+id: 52852efb-1d69-548b-b302-aea113ddc1da
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,444 - Inner Mountain"
+slug: 0125-chapter-1444-inner-mountain
+partOf: defiance-of-the-fall
+position: 125
+ownLength: 2857
+unit: words
+publishedAt: 2026-08-09
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3792152/chapter-1444-inner-mountain"
+royalRoadId: "3792152"
+---
+
+Zac looked at the golden rune on his left forearm for a few seconds, ultimately deciding to spare it a blast of [Void Mountain]’s annihilation. Between analyzing its patterns and inferring Emir’s plan, Zac had a decent idea of its function. Keeping it around might prove useful down the road. Still, Zac plastered a set of sealing talismans atop it to prevent tracking and its energy from leaking.
+
+Emir had siphoned some of the mountain’s Faith Energy to open one of the gates unique to the Pesvati Rift. The Faith-attuned brand on Zac’s arm was meant to mark him as one of their own, providing access to their travel network. That’s why he kept it around. Having the credentials could prove useful before the trial was over.
+
+From what Zac had managed to gather over the past days, the gates could transport the modern imperials almost anywhere across the Left Imperial Expanse. This was made possible by directly connecting to the Imperial Road. There appeared to be some caveats, though. For one, Emir had repeatedly mentioned Fate. He said he had no karma with the Left Imperial Palace and therefore was unable to open a pathway directly to the soon-to-be-opened memory domain.
+
+Zac suspected that bond could be forced by spending Imperial Merit, but he neither could nor wanted to test his theories at the moment. For all he knew, there might be a gaggle of imperials waiting for him to step into the trap. But as Emir proved by opening the mountain path, a private transport system wasn’t the only benefit the Pesvati Rift enjoyed inside the trial.
+
+The radiant fluctuations on his arm were contained, yet Zac still couldn’t help looking over his shoulders with fear. He’d technically killed Emir outside the bounds of the trial, but he had a feeling that his actions had been noticed. After all, he’d seen Margrave Wartorius emerge from the [Fuxi Mountain Gate] during the battle against Mox.
+
+Nevertheless, Zac didn’t regret taking out Emir the moment his betrayal was confirmed. He was too dangerous a variable to be kept around. Furthermore, Zac didn’t believe for a second that the Supremacies running the courts cared the least for the lives and deaths of some Hegemons. They were simply focused on achieving their goals, and Zac was certain that his value far surpassed Emir’s in that regard. The man had essentially been sacrificed to draw out the Left Imperial Palace ahead of schedule, concluding his intended role in the trial.
+
+As cynical as it seemed, Zac even had a feeling that Emir’s death by Zac’s hand was an outcome that Roan and Wartorius welcomed. It allowed Hollow Court’s major threads of fate to accelerate, and it put Zac in a tricky spot. The Margrave could potentially use the infraction of killing a Sealbearer as leverage in other affairs.
+
+A powerful pulse of Life swept through the corridor, reminding Zac of the matter at hand. What was done was done, and his efforts were better spent on ensuring he reached the Primo’s treasure in one piece. He’d tackle whatever happened after that as it came.
+
+The corridor continued for a few hundred meters before leading Zac to an enormous cave. Apart from its outer, rune-covered shell, the small mountain had been entirely hollowed out. Even so, the space was barely roomy enough to hold its complex and ever-changing arrangement.
+
+Zac stopped at the exit, his mind struggling to take in the hundreds of structures swirling through the air. The vast majority looked like pillars cast from metal. Joining them was a smaller number of spheres, while there were a few miniature mountains added to the mix. They were the size of skyscrapers, approaching a hundred meters each.
+
+It took Zac a moment to confirm there were exactly 414 of them. They were all covered in dense runes holding profound truths exceeding the C-grade. Rather than Fuxi’s inscrutable runes or the golden scripts covering the mountains outside, these patterns held pure expressions of life or death in an even split.
+
+“They’re array flags,” Zac muttered.
+
+The flags were separated into 18 groups of 23 flags. It was a similar arrangement to the Tribulation Throne’s spikes. Each group had 17 pillars to represent the Dao Peaks, four spheres to represent the Laws, and two mountains that should be the Imperial and Cosmic Destinies. However, the patterns were uniform across all three types of array flags.
+
+Each grouping exuded a distinct flavor of Life or Death, all of them familiar to Zac. They held traces of the unique auras of the Gardens and Hells, including the artificial Ninth Hell. However, they were diluted with the more generalized Life and Death of Hollow Court’s two gates.
+
+Despite cultivating both Life and Death, Zac struggled to discern the method behind the madness. The grand array didn’t only echo their Dao as they drifted through the air but also something greater, as if they were depicting the cosmic movements of the universe itself. At the same time, their placement almost seemed random. The array flags connected to a specific realm weren’t bunched up; rather, they drifted through the cavern to their own beat.
+
+The floating array wasn’t the only thing inside the hollow. The inner walls were covered by another set of golden runes, which helped contain most of the array’s aura. There was also an incredibly complex array engraved on the floor. Its millions of runes left Zac dizzy, but he still noted the unique runes placed in the magic circle’s cardinal positions—they were the same ones that covered Fuxi’s statue.
+
+With three different systems crammed into such a small space, it was no wonder the small mountain kept erupting with power. If anything, it was surprising it had endured for weeks without any maintenance or outside input.
+
+An eruption of Death brought Zac’s attention back to the Life-Death constellation. Unknowingly, the structures connected to the Fourth Hell had drifted close enough to each other to trigger a resonance. Space twisted between them, and a familiar gust belonging to Raurava—the Screaming Hell—swept through the mountain. Zac could almost hear the soul-killing wails he’d suffered when passing through.
+
+All four hundred array flags were affected by the burst of Miasma, slightly speeding up while altering their trajectory. Paradoxically, their new trajectories simultaneously felt more random and orderly. Zac drew a deep breath, understanding what he was witnessing. The composite array was moving toward a true depiction of the Dao of Chaos. The moment all seventeen sets naturally aligned, Chaos would be born.
+
+Zac thoughtfully observed as space mended between the array flags and the Miasma faded. The phenomenon only lasted a second before the floating structures moved apart. He wasn’t sure if he’d actually witnessed a realmgate leading to the Fourth Hell or if it was an anomaly conjured by the power stored inside the pillars. It didn’t seem like something Zac could use to teleport away.
+
+It didn’t take long for another resonance to form. This time it was the Life of Poised Garden that made a brief visit before dispersing. The infusion of Life into the ecosystem added further truths, and Zac made no move to proceed into the cave. He stood rooted in place, silently observing the revolutions as he called on Fuxi’s runes in his mind.
+
+Chanting the mantra added another dimension to what Zac was witnessing, providing some light in the darkness. The [Grand Unity Canon] was truly extraordinary. It was a key to the universe, exposing secret knowledge while digging at the essence of truth. The ability was the perfect replacement for his old skill [Cosmic Gaze], which had become all but unusable after he stepped into Hegemony.
+
+Zac stayed in place for ten full minutes, during which time the mountain array cycled through all eighteen realms twice. Surprisingly, the order wasn’t the same between the two. Zac believed there were many subordinate patterns working beneath a major cycle that would end when Chaos was simulated. It was also somehow connected to the static array on the ground, though Zac couldn’t spot any energy linkage.
+
+Part of the delay was to confirm his suspicion. The resonance created by the pillars wasn’t true realmgates. When the cycle reached the Ninth Hell, there was no reaction from the Primo’s feather. The real path to his treasure would only appear when the array reached the finish line. The second reason Zac stayed put was simply that the arrangement filled him with inspiration—particularly when it came to [Nine Reincarnations Manual].
+
+The cycles he put his Soul Cores through when tempering his mind felt far too crude after witnessing a system that so perfectly incorporated Life, Death, and Law into something that not only mirrored the Cosmos but held the potential to birth Chaos. Judging by the patterns on the ground, it could even incorporate Void to some degree.
+
+Memorizing just the surface layer of the mountain array would be enough to deduce his Soul Nurturing Manual’s next layer. Grasping the whole thing would create a foundation that could potentially last Zac until the very end. Naturally, the latter was simply impossible. There was no amount of Corruption Crystals in the world that could forcibly elevate Zac’s comprehension to that level.
+
+Zac had spent weeks observing the small mountain from the outside, and he’d been reasonably certain that whatever was happening inside could prove to be a valuable resource for his cultivation. Still, the fit was so perfectly suited to Zac’s needs that he couldn’t help but wonder if the array before him shared a common origin with the [Nine Reincarnations Manual]. Both the initial impartation of the Soul Nurturing Manual and the following layers were directly bestowed by the System itself.
+
+A half hour later, the cycles had been shortened to just a few minutes each, and two or three realms were occasionally summoned at once. Zac reluctantly tore his gaze away and flew into the cave. As illuminating as the scenery was, the energy fluctuations were starting to become a bit dangerous.
+
+Zac had already spotted three doors carved into the walls, and he wanted to see if he could use the rooms behind them as safehouses until it was time to leave. Just as important, they could hold valuable resources. Zac flew along the ground, making sure to maintain a healthy space between himself and the revolving array.
+
+The first door didn’t budge no matter what he did. The second room was a no-go for a different reason. The door had been damaged, as had the realmgate installed on the other side. It was most likely a service entrance for maintenance staff, allowing them to teleport directly into the mountain instead of crossing the hostile world outside.
+
+Zac could feel intense traces of the Ninth Hell’s artificial death lodged deep into the scars on the walls. Staying here while the array went supernova was probably more dangerous than hiding in the tunnel. The final room was his only option, even if it came with some problems of its own.
+
+While its door smoothly opened when prompted, a deluge of Imperial Faith came pouring out. Zac's mind spun as the roars of war filled his ears. For a moment, he forgot why he came here, his thoughts filled with the desire to strike down the empire’s enemies. Thankfully, the stockpiled Faith Energy soon diluted to manageable levels, allowing Zac to maintain his wits as he stepped inside.
+
+The chamber on the other side looked more like a lab than a control station, with a few tables and consoles surrounding a hologram of the array's flags outside. The only thing that stood out was a large dot made of pure gold in the ceiling—the source of the vast amounts of Imperial Faith.
+
+Unfortunately, there were neither notes nor Information Crystals left lying about, and his identity as a Sealbearer didn’t grant access to the internal systems. Zac lamented that he was still inside a memory domain. If this were a ruin, he could’ve simply dismantled the whole thing, even if he had to cut the consoles out of the ground. Jaol had plenty of experience with these things, and he might be able to extract the pertinent data after they returned to Earth.
+
+Here, Zac had to play by the rules. His new golden rune failed to accomplish anything, but Zac had another card up his sleeve. He took out the [Court Cycle Token], and the whole console lit up with information. As far as Zac was concerned, this wasn’t stealing. It was an equivalent exchange of information for Imperial Merit.
+
+The exchange rate was steep. Seeing the excessive drain on its stockpiled Fate, Zac quickly took out a couple of blank Information Jades and began downloading the information. Zac had only scratched the surface when he stowed the token again. It still held half its energy, which was the limit of what Zac was willing to spend in this location.
+
+Still, he’d managed to get what he came for: the recording of a complete cycle, including the trajectories from before he entered the mountain. Ideally, Zac would have wanted to take away all the engravings on the array flags as well. Of course, that type of information needed a high-grade cultivator who perfectly understood the underlying concept to personally record it. Even if the console held it, Zac wouldn’t be able to bring it away this way. The Dao that could easily be written down was not the Dao.
+
+With his goals met, Zac resumed watching the revolving array from the doorway. By now, the structures were moving so quickly that they’d turned into trailing blurs. It looked like the whole cave had filled up with an incredibly complex knot. Finally, Zac was forced to close the door, at which point he found himself inside a pressure cooker of Imperial Faith.
+
+The mountain was reacting to the accumulating forces, and some of that Imperial Faith was pouring into the lab. Was it a safety measure to protect the instruments? The consoles wouldn’t be damaged by excessive Faith, but Zac wasn’t some inanimate object. The danger inside the room was about to eclipse the commotion outside, and [Void Zone] only delayed the inevitable.
+
+Just as Zac couldn’t bear it any longer, he suddenly felt a stir in his sleeve. He shot out of the research chamber and was greeted by utter darkness. The grand array's final position had been obscured by billowing waves of miasma, whose darkness was the deepest at the cave’s center. The Primo’s feather was already going crazy inside Zac’s sleeve, and this time there was no hesitation as he shot forth.
+
+He’d held onto a small hope of studying the array or even using it to siphon some Chaos Motes for himself. However, this place wasn’t safe. All the accumulated energy of the grand array had been unloaded at once, and it had either been transformed into or exchanged for the Ninth Hell’s Death. Zac could feel his Void Vajra Constitution being suppressed by the overwhelming Miasma, and neither his Eoz nor Void Emperor bloodlines protected his body from rapid decay.
+
+Zac pinned his hopes on the situation on the other side being more bearable, or at least holding the opportunity for him to retreat to safety. There was nowhere to flee inside the mountain, and he knew the situation would only grow worse before it got better. A tremendous force was building in the array below.
+
+The good news was that the array flags had all stopped moving, allowing Zac to make a beeline for a pitch-black tear in the cave’s center. He endured the overwhelming Death, shooting through the gate like a streak of gold in a sea of darkness. In the absolute darkness that obscured his sight and suppressed his Soul Sense, his mind suddenly synced up with his Draugr counterpart. He’d made it through.
+
+Another indicator was that the energy levels had reached somewhat bearable levels, to the point where his withered skin began regaining its healthy glow. Nevertheless, to say it was comfortable would be a lie. Even if Zac was unique in his Life-attuned body’s ability to safely absorb Miasma, the density and quality of the Death-attuned energies left him queasy.
+
+He decisively sealed off most of his body, channeling everything he couldn’t keep out to his Draugr half. Surprisingly, he immediately felt an incredible hunger conveyed from his Eoz bloodline. While it was nowhere near what he felt when entering the Abyssal Pond back in Kavista, the Death-attuned energies were actually beneficial to his bloodline.
+
+It was by no means the first time Zac had managed to nourish his Draugr constitution over the years, but that was usually after steeping the Death-attuned treasures in his personal Void. This energy needed no refinement to be of use, something that was almost unheard of among Draugr with their picky bloodlines.
+
+Before Zac could further study the unique Death released by the Primo’s Eye or figure out why he couldn’t see a thing, a voice carried over through the darkness.
+
+“You’re here. It took you long enough.”

@@ -1,0 +1,139 @@
+---
+id: 91df397a-717a-5f99-8e29-58ec05dcd597
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 11"
+slug: 0310-b5-chapter-11
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 310
+ownLength: 1539
+unit: words
+ownProgress: 1539
+publishedAt: 2025-10-16
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2681273/b5-chapter-11"
+royalRoadId: "2681273"
+markedReadAt: "2026-06-29T19:16:21.788Z"
+---
+
+Aria
+
+“Annnddd that’s the last one,” Little Blue says after I finish signing the very last document, only to collapse onto my desk face first. “I’ll just take these over to where they need to go.”
+
+And just like that I hear the girl grabbing the last document and placing it on the massive pile before putting the pile of documents in a spatial storage device and leaving my office. At which point I’m finally able to relax again as I slowly begin to close my eyes.
+
+Then, right as I’m letting out a relieved sigh, I hear a portal opening within my office. One that makes me roll my eyes and groan before muttering, “Not now… I don’t have the time to deal with your antics right now…”
+
+Why won’t War and that stupid Demon King leave me-
+
+“I need your help,” I suddenly hear a very clearly female voice say rather quietly and seemingly with a lot of difficulty, startling me into sitting up.
+
+And what I find after sitting up is… even more shocking, to say the least.
+
+“Isabella de la Vega, why are you in my office?” I ask with a frown on my face at the sight of the Archmage of the Arcadian Society stepping out of a blue portal in my office before collapsing to her knees while panting in exhaustion. The woman has sweat coating her entire body and she looks like she’s just a hair’s breath away from passing out.
+
+Which I guess I understand, considering how she’s apparently been on the run from Famine all this time. And War too.
+
+My thoughts rewind to what she said upon arrival.
+
+Wait a second. She asked for help?
+
+From me?
+
+A Horseman of the Apocalypse?
+
+Huh?
+
+“You’re the only one who can stop Famine…” Isabella says, but the look on her face clearly tells me that she doesn’t want to be here. And that she really doesn’t want to ask me for anything. “So please…”
+
+Actually, she looks almost like she wants to kill me on the spot but knows that’s not possible.
+
+I open my mouth to speak, only for another portal to appear in my office. A red one this time.
+
+And out of said portal comes War, already talking his mouth off, “Heya Little Death, been a while since we’ve chatted! What with how long you’ve been in that…”
+
+His voice trails off as War finally notices the Archmage in my office.
+
+Then a both awkward and tense silence fills my office as the two stare at each other. Meanwhile I glance back and forth between the two as an urge to rub my temples for some reason fills me.
+
+I feel a slight pulse of War energy come from War along with a pulse of the Archmage’s mana, only for everything to pause again when another uninvited guest joins in. One in the form of a Demon King clone appearing in the corner of my office.
+
+But the guy ends up being blasted to smithereens by both the Archmage and War within a second of arriving.
+
+So rest in peace that guy.
+
+Not really.
+
+Then War finally breaks out into laughter and says, “After searching for you for over a century for this duel, this is how I find you?” Then he shakes his head while still chuckling. “I’m glad I decided to check in on the Beauty of the Horsemen now that she left the void spirits’ domain.” A bright grin stretches across his face as his sword teleports from its sheath into his hand. “Would’ve missed ya otherwise.”
+
+Now I rub my temples and sigh.
+
+What did I do to deserve this?
+
+They better not damage my café. It’s not too far from his headquarters building.
+
+I don’t give a shit about whether they damage the headquarters or not. That’s replaceable.
+
+Although Little Blue might.
+
+The café is off limits.
+
+Before I can even open my mouth to warn the two Grands who look like they’re about to fight about that, another portal appears in my office. This one being a pitch black one that Famine passes through.
+
+“Thought you could escape me by petitioning the young one you were pestering, little girl?” Famine asks with a cold and rather cruel looking smile on his face while stepping into my office. Then he gives me a light nod and says, “Greetings, Beauty of the Horsemen. And a fine evening to you.”
+
+I glance out the window at the rising sun marking the morning, only to glance back at him and tilt my head a little.
+
+Famine doesn’t bother correcting that statement, probably because it must’ve been evening where he was before coming here. Or something like that.
+
+He may just not care though.
+
+Also, what’s this about a ‘Beauty of the Horsemen’? War called me that too…
+
+I look between the three Grands while feeling an even greater urge to rub my temples, along with a small urge to just step outside the window and head over to the Hunter’s Bay to take a short break from all this. A few years break would do after all.
+
+But I can’t. I have barely even seen the twins since my last century-long vacation in the void spirits place. So I should at least say hello to them.
+
+And my other friends.
+
+On another note, do these people not know how to use a door? And since when was my office a place for anyone to waltz into?
+
+Right as the Archmage is preparing some defenses to protect herself from the two Horsemen who look like they’re about to have some fun, one of whom seems to want to toy with her and the other wants to fight, another portal appears in my office. A pure white one this time.
+
+And out of this portal steps both Shirogane and his father, Shirou Amatsuraki. The Silver Emperor of the Eternal Dynasty.
+
+Another Grand. Just great.
+
+I roll my eyes to the ceiling while wondering what the hell happened to my post-paperwork break.
+
+“Amatsuraki, how wonderful it is to see you again!” War exclaims with a grin on his face, clearly itching to start a fight with him judging by the twitching of his fingers. Meanwhile Famine just has an expression that one would normally have when looking at some gross bug or something.
+
+“Take your disputes off of my world,” the Silver Emperor declares as Shirogane walks up to stand next to me.
+
+But at this point I’ve largely become numbed to it all and am just resting my right elbow on my desk with my cheek leaning against my palm and my other arm lying on my desk with my left hand on my elbow. Which apparently makes a convenient little place for Asher to lie down as he jumps onto my desk and makes himself at home in the little circle made by my arms before letting out a short meow and closing his eyes.
+
+Clearly unbothered by everyone else in the room.
+
+A room that is looking more and more full by the moment as everyone glances at Asher before returning their attention to each other. Ignoring the immortal cat in the process.
+
+Then more people appear in my office, starting with the knights from the Crimson Empire that have been guarding me from the shadows, along with some nobles from the Rex Dynasty that I didn’t even realize were here, a certain Little Blue who wanders back into my office with a very confused look on her face, and her sister who follows behind her.
+
+And as if they weren’t enough, the Pharaoh of the Rex Dynasty of the Dead pops up next to me on the other side of Shirogane with an expressionless look on his face. Looking like he’s here to protect me in case things go bad.
+
+Meanwhile the first person who arrived, Isabella, looks even more confused than Little Blue about what the hell is going on.
+
+After a few seconds, I glance around my office – which is considerably less spacious than it was before – and begin to wonder if I should have someone expand it a little. But then the thought is scratched from my mind, seeing as almost every single person in here is an uninvited guest who showed up on their own.
+
+I understand that most of the people who came all came because they were reacting to other people who came, except War and Isabella who just happened to show up around the same time, but this is still ridiculous.
+
+In the corner of my eye, I find the Demon King trying to appear again, only for the guy to be killed instantly.
+
+Although I’m not actually sure who killed him this time.
+
+There are just too many Grands in the room, and he was killed instantly.
+
+What’s worse about all of this though is that everyone’s starting to talk over each other so I’m not actually sure what anyone is saying.
+
+So what do I do?
+
+I finally stand up from my chair, summon a rift to the Plane of Death, and walk through it.
+
+Because they can deal with that mess without me.

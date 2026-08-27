@@ -1,0 +1,141 @@
+---
+id: 21e100be-5e41-566f-b3fc-2f521d286bb2
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 5"
+slug: 0162-b3-chapter-5
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 162
+ownLength: 1514
+unit: words
+ownProgress: 1514
+publishedAt: 2024-05-25
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1650547/b3-chapter-5"
+royalRoadId: "1650547"
+markedReadAt: "2026-06-29T19:11:13.642Z"
+---
+
+Aria
+
+Of course they’re with them. Why wouldn’t they be?
+
+Both princes can be seen very clearly staring at me with suspicious looks on their faces, their eyes squinted at me.
+
+And they also seem to know I was avoiding them. But they’d have to be stupid not to have realized that by now, considering how I’ve gone over three days without running into them somehow. Even when they tried visiting.
+
+“Hello, Lady Crimson, and I hope you have had a splendid stay within our abode over the past few days,” the younger prince says with a polite and light bowing of his head. “I am known as Mo Xao Shengshi, and it’s a pleasure to meet one as beautiful as you.”
+
+I just nod my head without a word, not fazed in the slightest by the flattery.
+
+The younger prince has long black hair with a similar facial structure as those from the Eternal Dynasty but also a bit different. He’s wearing long flowing robes that look fit for royalty and are of the national color for this nation. That being black. But it also has white trim here and there.
+
+Then the older brother steps up and says with a wide smile on his face, “Greetings, My Lady, you’re as beautiful as I’ve heard. Eyes like luminescent rubies and hair as silky white as the fallen snow!” He bows slightly just like his brother did but with a bit more flair added in. “You may call me Lei Xao Shengshi.”
+
+I just nod to him as well, showing the same reaction to both siblings on purpose.
+
+And the elder prince looks just like his younger brother despite the age gap. Because System shenanigans. Other than his hair being only to his shoulder rather than the mid-back length his younger brother has.
+
+This is a pain.
+
+And finally, the emperor himself speaks to me from in between the two princes, “Welcome to my nation, Horseman of Death. I apologize for not being able to greet you sooner, but we are overwhelmed with joy for being able to have you here. My name is Emperor Hao Xing Shengshi.”
+
+Yeah… right…
+
+How’s this guy able to lie with such a straight face? Is that just normal here?
+
+Scratch that. It is just normal, judging by the few interactions I have had with a couple of the consorts.
+
+One or two of which seemed to be convinced I was some sort of romantic rival.
+
+Yuck.
+
+I just want to get off of this planet as soon as possible…
+
+“Thank you for having me, Emperor Hao Xing Shengshi,” I tell him with a light nod of my head. One that’s ever so slightly deeper than the one I gave his sons, just because it’s the culture here.
+
+Of course, Hannah is staying behind in the palace. Because she still isn’t taking very well to being here, and her being in front of the emperor probably isn’t a good idea. Especially with the asshole princes here.
+
+Or I guess corrupt would be a better word than asshole.
+
+“Let us visit the Royal Treasury,” the emperor declares before the entire party of people – many of whom being officials I noticed during the one time I attended one of their little meetings out of curiosity. If watching it from the second floor counts as attending.
+
+Was rather surprised they even allowed me to attend.
+
+Probably because they want me to join one of the princes’ sides.
+
+Anyways, we begin heading through the Inner Court with the two princes repeatedly trying to make different moves on me. Some being attempts to woo me to their side romantically, others through benefits.
+
+All of which I manage to avoid rather tactfully if I do say so myself.
+
+Mostly because Shirogane already prepared me for most of the things they would try.
+
+The easiest ones to navigate were the romantic and seductive attempts to woo me. Since, no. I have no interest in romance or sex.
+
+Wonder if the latter is due to my body being different from others? Not sure.
+
+Either way, the princes are left flabbergasted by the end of our trek to the rather ominous building that is the Royal Treasury. One that is located far away from anything else in the Inner Court. Or the Inner Palace. Whatever they want to call it.
+
+Pretty sure they’re the same.
+
+They just have too many names.
+
+Anyways, the ominous building has a rather creepy purple and black mist moving all throughout it. And when some birds fly into the mist, their body basically turns black and gray as all of their organs die inside of them before literally flying right out of their body. Followed by their blood.
+
+Despite that though, their bodies are still left looking whole, even if they’re without blood or organs.
+
+Looks bizarre. And disturbing.
+
+Probably for the best that Hannah didn’t come along. For more than just the other reasons.
+
+All of the guards along with the princes and the emperor stop right outside of the line starting the mist. Then everyone turns to me as the emperor steps forward and hands me a piece of paper with a key on it, saying, “This is the key to the treasury and a list of items that have greater priority and can’t be put into a storage ring. Please bring them out by hand. The rest of the items can be brought out by storage ring.”
+
+I reach to take the paper, but he grabs my hand and narrows his eyes, “I’ve come to trust that you won’t steal from us, but know that if you do try anything, you won’t enjoy the consequences.”
+
+Meaning he’ll just tell on me to the Arcadian Society. Because his nation isn’t really powerful enough to bother me much.
+
+Honestly, I get the feeling he doesn’t realize just how dangerous I can be when let into their innermost region.
+
+I can just blow up a nuke in here if I wanted to.
+
+Would be a pain to get to the Gate leading to the next world though. Not to mention that the Rex Dynasty would hear about it.
+
+Regardless though, they haven’t done anything to me and are even letting me pass through. So I merely nod my head, take the list, and step into the barrier of mist.
+
+Then my organs and blood immediately begin spilling out of me, making me drop to my knees while panting from the pain.
+
+And the pain continues for a while as I black out, my brain no doubt leaving my body.
+
+Eventually though I regain consciousness with nothing but a strong tugging sensation all across my body that feels very uncomfortable and does still rip out my organs from time to time. Including my brain, which leaves me unconscious again each time.
+
+I slowly turn around to find a guard quickly rushing away, making me realize that the only people out there are a few guards.
+
+Wonder how long it took to adapt to that?
+
+A few days maybe?
+
+Either way, I turn around, briefly kneeling down to grab the key and paper I dropped, and begin walking towards the large building while stumbling every now and then. And when I reach the large double doors of the treasury building, I move the key to the keyhole and unlock the door. Then I enter the treasury and find my jaw dropping open at the sight of all the treasure located inside.
+
+Holy shit this is a lot.
+
+Kind of wish I could ask for some of it. Not that I really need it.
+
+Well, doesn’t matter. I already have a lot of wealth built up from my time in Hunter’s Spots.
+
+Not to mention how much loot I built up from the Hive, which I literally spent several years in without leaving while nonstop farming. So I should be making a lot of money when I find somewhere to sell all of it.
+
+Unfortunately I can’t send that amount of stuff through the teleporter app. It’s just way too much.
+
+Like, several warehouses full of loot amount.
+
+Makes me wonder just how much I’ll be getting from it all…
+
+Anyways, I quickly go about putting the stuff that isn’t on the list in my storage ring. And after doing all that, I begin picking up a bunch of the stuff that is on the list and bringing it outside. While, of course, organs are popping out of my body and then burning up in crimson energy as it’s replaced in my body again.
+
+Which is a tad annoying, but doesn’t slow me down too much.
+
+By the time I make it back out of the mist with the items, I find the emperor standing there with his eyes wide in shock.
+
+I ignore him though as I set down the items I had on hand before dumping the stuff I put in my storage ring out.
+
+Then I head on back inside of the mist to grab more.
+
+This might take a while.

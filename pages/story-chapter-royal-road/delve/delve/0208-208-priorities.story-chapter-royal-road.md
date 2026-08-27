@@ -1,0 +1,373 @@
+---
+id: d9e81472-caf0-579b-ba32-8cbf405c2fe8
+page-type-slug: story-chapter-royal-road
+title: "208: Priorities"
+slug: 0208-208-priorities
+partOf: delve
+position: 208
+ownLength: 4150
+unit: words
+publishedAt: 2022-10-16
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1017030/208-priorities"
+royalRoadId: "1017030"
+---
+
+The world tilted around Rain as he toppled like a tree, making no effort to arrest his fall before his face slammed into the fluffy pillow atop his bed. He didn’t feel the impact, only the sudden appearance of scratchy sand grains between his toes. His avatar was right where he’d left it, standing and staring out at an ocean of essence, the horizon quite visibly curved.
+
+Letting himself topple again, backward this time, Rain landed flat on the sand to stare up at the puffy clouds. He had a bed in here somewhere, too, but he was well, well past caring about that. The sun had dipped below the horizon hours ago, marking the third consecutive sunset since he’d last slept. Temerity was floating somewhere off the coast of Ekrustia between Barstone and Fioe, anchored in shallow water after half a day of infuriatingly-slow travel. He’d also just finished giving a pair of eulogies.
+
+He was beyond drained, mentally, physically, and emotionally.
+
+The next eight hours, though, were his, and he intended to use every last one of them.
+
+He closed his eyes.
+
+“Have a good nap, Custodian?”
+
+“AHHH!”
+
+Rain spasmed, sending sand flying as he flailed, tearing his eyes open. The wrinkled face of the Warden hovered over him, her mouth twisted into a rictus of sadistic glee. Any fleeting hope that it was just a dream vanished as his vision only became clearer, the Warden taking a step after him as he crabbed backward, coarse granules scratching at his back as they worked their way in through the collar of his t-shirt.
+
+“Nice reaction,” the Warden said, smirking at him.
+
+Rain continued scuttling away as he checked his HUD. He’d been asleep for over eleven hours by his personal clock, but less than two in objective reality. Despite the hammering of his heart and the haziness of his mind, he forced himself to think rationally.
+
+Something is wrong here.
+
+Detection
+
+In the real world, his body had been moved to lie better on the bed, and Ameliah was lying in it beside him. Velika was still in the room in which they’d stashed her.
+
+Nobody was missing. Nobody new had turned up either.
+
+Looking up, he addressed the grinning woman who wasn’t there. “What are you doing here?”
+
+“I’m here to teach you to brain good,” Vatreece answered.
+
+“Come again?”
+
+The Warden didn’t respond, simply staring at him with an unsettling grin.
+
+Getting to his feet, Rain fought not to shiver as the Warden’s head swiveled to track his motion, her grin unchanging. It wasn’t long before he couldn’t take it anymore. “No, really, why are you here?”
+
+“I’m here to teach you to brain good,” the Warden repeated, still with that horrible smile.
+
+Rain narrowed his eyes. “Okay, how are you here?”
+
+“Magic!” the Warden replied, her smile widening briefly before it returned to how it had been.
+
+Exactly how it had been.
+
+Rain took a deep breath, steeled his nerves, then waved his hand back and forth in front of the Warden’s eyes. Her smile didn’t change by an iota, so he did it again, just to be sure.
+
+She’s a recording...
+
+The fake Warden didn’t respond to the thought, so he spoke aloud.
+
+“You’re a recording.”
+
+“A memory construct,” Vatreece corrected, adopting a neutral stance, her leer replaced with a disappointed frown. “Took you long enough.” Her expression shifted again, becoming flat as she crossed her arms behind her back. “You might call me an NPC. You’re going to suck at what I’m here to teach you, which means a full copy was out of the question. Wouldn’t last long enough. This construct isn’t aware, but it will respond to your words, actions, and progress, should you manage to make any.” She sniffed. “Are you ready to start?”
+
+“Start what?” Rain asked.
+
+“I’m here to teach you to brain good,” the Warden said, the horrible grin returning.
+
+“Gah!” he cursed, holding up a hand, “Stop that!”
+
+The Warden shifted again, her expression becoming truly serious for the first time. “Refusal is not an option, Custodian. I am offering you instruction that others would kill to receive. To earn the trust I’m showing you, I ask only that you defend the secrets you’ve crammed inside your skull like so much luggage.” She waved a hand. “You have doubtless discovered the Thought Shell, but like all constructs, that is a temporary measure. Under no circumstances should you try to breach it. The moment it falls, whether punctured, or because you slack off until it runs out of power, I will puree your brain so thoroughly it will come dripping out your ears like soup.”
+
+“What!?”
+
+Vatreece snorted, but her smile vanished as quickly as it had come. “It’s nothing personal, I assure you. Quite the opposite, in fact. Had I not seen your potential, I would have wiped your mind already.”
+
+Rain sat down hard on the sand. He needed time to think.
+
+The Warden, though, seemed to have anticipated this.
+
+After only ten seconds, she clapped her hands sharply twice. “Chop chop, Custodian. You’re wasting power. What’s it gonna be?”
+
+“I...” Rain said, scrunching up his eyes. “How long do I have?”
+
+“I can’t say for sure how long they will last,” the NPC Warden replied, responding to a subtly different question. “Every mind is different, and so is every soul. Maybe three months for the Thought Shell, real time.” She gestured to herself. “This could fall apart within a week if you keep asking stupid questions. Every interaction takes energy, even if I’m just waiting for you to untie your tongue.”
+
+“Can I recharge you? You know I’m a Dynamo, so—”
+
+“Theoretically, you could take ownership of the constructs, but you’ll never manage it in time,” the Warden interrupted. “You don’t even understand your own spell patterns. To understand those of the greatest Mentalist the world has seen for a thousand years?” She scoffed. “Don’t even think about asking anyone else for help, either, no matter how good they claim to be. They’d have to get through my Thought Shell first, and supposing there’s someone alive that can manage it, well...” The Warden raised her fingers to her temples, then mouthed a silent explosion as she spread them wide.
+
+Shit.
+
+...
+
+Hang on a second, though. Did she say Thought Shell? She must have some hidden metamagic or other platinum-grade bullshit to let her cast it on other people.
+
+...
+
+I have an opportunity here, don’t I? Her response trees seem pretty good. I could try to pump her for information. Was she serious about how quickly the construct would degrade, or was she just exaggerating to stop me from doing precisely what I’m thinking about doing?
+
+...
+
+“Chop chop, Custodian. You’re wasting power. What’s it gonna be?”
+
+Rain clicked his tongue.
+
+This isn’t a game. I can’t risk it.
+
+He got to his feet, dusting himself off. “I accept the training.”
+
+“Finally!” the Warden said, snapping her fingers, then pointing at him. “Now, you’re not a Mentalist, so your class won’t help you visualize your mind in the slightest. That’s a problem.” She clasped her arms behind her back, walking to the side as she spoke. “It is an ass-backwards way of going at things, but we can work around your blindness. The mind shapes the soul, and the soul shapes the body, as they say.” She turned, pacing back the other way. “Fortunately for you, the reverse is also true. I once offered to teach you to mend your paling in exchange for your memories. You’ve paid your side. Now I’ll pay mine, if only as a stepping stone to what I really need to teach you.” She brought one of her arms around as she again reversed direction, holding a finger up in front of her. “To begin, you’ll need much finer senses. You need to SEE what you are doing before you can KNOW what you are doing, heh. Bumbling around on instinct has worked astonishingly well for you, but it will only get you so far. Thus, your first lesson: Learn to Read.” She spun on a dime to face him. “Tell me, did little Sana decide to go with you?”
+
+Rain blinked. Sana did say the Warden wanted her to do something, but Ameliah cut her off before she could say what it was, and I never got a chance to ask her about it later.
+
+“Chop chop, Custodian. You’re wasting power. What’s it gonna be?”
+
+Damn, that’s annoying. That wasn’t even ten seconds, that time.
+
+Rain met the NPC Warden’s eyes, then nodded.
+
+Apparently, this was enough. “Good, I hoped she would,” Vatreece said, resuming her pacing. “I’ve already restored her memory of her own training. She will teach you what you need to know. I warn you, though, be careful. You won’t be able to stop yourself from blabbing to Tallheart and Ameliah, no matter what I say, but know that you’ll be playing with fire. I have some wiggle room when it comes to you, but if it gets out that a trusted Custodian is training Guilders to Read, well... Once I’ve kicked it, there’ll be nobody to stop my Guardians from stringing you up by your nostrils. Before that, if you make yourself into a nuisance, I’ll be inclined to help them do so, so watch yourself, Little Mouse. I’m not going to be busy with the Empire forever.”
+
+Stopping sharply again, the Warden met his eyes. “Right. I’m guilty of being old, but not of being a windbag, so I’m shutting myself down to save power. You’ll be ready for lesson two once you’ve managed to beat Sana at Nine Dice, so do that, then call me back.” She smiled and tapped her chest over her heart. “Just say ‘Grannybrain’ three times. I tried to tell that slime of yours that I never had kids, but he’s not too bright, is he?” The Warden chuckled, then vanished, but her voice carried on. “Good luck, Custodian. You’ll need it.”
+
+Once Rain had calmed down—which took surprisingly little time, depressingly used as he was growing to the constant downpour of other shoes—he collapsed onto the same boulder he’d used in his first conversation with the Warden hours ago. As he sat considering, though, he discovered that he actually felt...
+
+Relieved.
+
+The threat of having his brain put on blend was horrifying, to be sure, but it was less horrifying than the thought of having his mind literally changed. A memory construct sounded like a lot of work, which implied Vatreece was either unable or unwilling to mess with his memories directly. If she could have simply downloaded the knowledge into him, Matrix style, she’d have done so. It would have been far quicker. Her seeming interest in his training was also further confirmation that she wasn’t his enemy.
+
+Of course, that was exactly what she wanted him to think.
+
+...
+
+Rain looked down at his hands, then balled them into fists.
+
+Either I can keep sitting here, second-guessing myself until I rot away, or I can get to work.
+
+He stood. [Dozer, wake up.]
+
+Unlike last time, the king-link had been present in the back of Rain’s mind for the whole conversation. Dozer was just asleep. Thoroughly. It took a few more mental proddings, but eventually the sleepy slime stirred, oozing up from the nest of stones he’d built for himself. He threw a bit of a tantrum when he learned he’d missed a visit from ‘Grannybrain,’ but it was easy enough to distract him by pointing out just how much filth there was to deal with up in orbit.
+
+Catapulting the slime upward and leaving him to it, Rain began working on some cleanup of his own, starting by mending the broken trees. The way Vatreece had phrased things, her instruction would take more than an afternoon, and it was zero-dark-hundred in the physical world. A few hours would make little difference. Priority one would be to visit Officer Sana as soon as she woke, obviously, but until then, there were other, lower-priority things he’d been putting off for far too long.
+
+[Essence exchange, Dozer.]
+
+[K!]
+
+Progress Report
+
+marker_1: getaway [3061 Seedlings 29 01:45]
+
+marker_2: grannybrain [3061 Seedlings 31 00:32]
+
+Span: 1.9 days
+
+Skills
+
+Ethereal Aura: +39,024 exp, 7 -> 9 (+2)
+
+Anchor Aura: +300 exp, 0 -> 1 (+1)
+
+Prismatic Intent: +2 exp
+
+Synchronization
+
+Endurance: 29.2 -> 29.5 (+0.3)
+
+Skills
+
+filter: !maxed
+
+Aura Metamagic
+
+Tier 2
+
+Prismatic Intent (1/15) Exp: 20/400
+
+User may maintain 2 auras simultaneously
+
+Tier 3
+
+Ethereal Aura (9/15) Exp: 14,673/29,600
+
+User may exempt the aura from environmental effects at will
+
+Aura gains 45% resistance to environmental occlusion and absorption
+
+Environment receives 10% aura output
+
+Tier 4
+
+Anchor Aura (1/15) Exp: 300/1,600
+
+Allows for the creation, binding, and use of aura anchors
+
+Aura anchors are attuned to a single aura at the time of creation
+
+Aura anchors act as additional emission points, irrespective of distance
+
+User may project any aura through 0-1 anchors simultaneously
+
+Aura range is distributed across the user and any selected anchors
+
+Anchor Creation Cost: 100 + 100^x
+
+Anchor Creation Time: 1 hour
+
+Anchor Durability: 100 + 100^x
+
+Anchor Hardness: 27 (fcs)
+
+x must be a whole number greater than or equal to the tier of the attuned aura
+
+Aura use through an anchor damages the anchor
+
+Anchor damage is proportional to the mana flux, mitigated by Hardness
+
+Defensive Auras
+
+Tier 0
+
+Heat Ward (14/15) Exp: 7,740/9,200
+
+Increase heat resistance by 242.76% for all entities
+
+Range: 80.9 meters
+
+Cost: 1 mp/dmg mitigated
+
+Magical Utility
+
+Offensive Auras
+
+Utility Auras
+
+Free Skill Points: 1
+
+Naturally, this wasn’t the first essence exchange Rain had performed since their escape, but it was the first he had the time to review. The biggest gainer was Ethereal Aura, which was a blessedly normal piece of metamagic compared to Prismatic Intent. Similar to other metamagic, it gained experience proportionally to the mana used by the skill it modified. Given that he’d been applying it to basically everything, it was a foregone conclusion that he’d max it soon, and the only reason he’d yet to do so was his restraint when it came to using mana at sea.
+
+I don’t need to be at sea all the time, though. I should ask Ameliah to take me to shore for like an hour so I can power level it. We can catch up with Temerity easily enough—stupid ice—and I want to know what happens when the environmental output goes negative. Assuming it does, of course. Not before I talk to Sana, though. We’ll call it priority two for the day.
+
+Hmm. I also need to figure out how much mana I can get away with using out here without attracting anything nasty. I’m not sure if Ethereal Aura will help or hurt with that. On the one hand, it lessens the mana hitting the environment, but on the other hand, it makes it harder for Temerity’s metal hull to soak it up. As long as I watch my range and stick to the middle of the ship, it should be okay...
+
+Ugh.
+
+Priority three: research and experimentation on safe mana usage at sea.
+
+Pausing to levitate a rock back to where it was supposed to be, Rain soon returned his focus to the dialogs, continuing with the next skill to make progress. Anchor Aura was a weird one. It was almost like two separate skills: one for making anchors, and another for using them.
+
+The ‘making them’ side was what seemed to matter for the experience gain, with his three successful crafts resulting in 100 experience each—half the mana spent—and his two failures getting him absolutely nothing. That tracked with what he knew of crafting skills. With a mental flick, he brought up a trio of panels.
+
+Detection Aura Anchor
+
+Bound
+
+ID: anchor_det_t01_0000
+
+LKL: Self
+
+CON: OK
+
+Tier: 1
+
+Quality: 4%
+
+Durability: 8/200
+
+Hardness: 1
+
+Detection Aura Anchor
+
+Bound
+
+ID: anchor_det_t01_0001
+
+LKL: Barstone Harbor Seafloor
+
+CON: FAIL
+
+Tier: 1
+
+Quality: 12%
+
+Durability: 24/200
+
+Hardness: 3
+
+Radiance Aura Anchor
+
+Bound
+
+ID: anchor_rad_t01_0000
+
+LKL: Tarny
+
+CON: OK
+
+Tier: 1
+
+Quality: 8%
+
+Durability: 16/200
+
+Hardness: 2
+
+These weren’t item cards, not really. The panels were generated by the software wrapper he’d slapped atop the default dialog that had come with the skill. Unmodified, his interface had given him a little popup when he’d finished his first anchor, listing its name, tier, quality, durability, and hardness. Quality was simply a metric of how shit a job he’d done making it, affecting both durability and hardness. Mercifully, it didn’t seem to matter for the experience gain. When he’d then tried using the anchor, it had bound itself to him, presenting him with a second popup asking him to enter a unique ID. That was it, though. The default interface didn’t come with any sense of an anchor’s position, and neither could he sense them like he could sense his in-soul avatars.
+
+And so, he’d felt the need to write his own database for tracking anchor info. The information fed to him by the skill was recorded along with a manual note indicating each anchor’s last known location, abbreviated as LKL. CON, meanwhile, was simply his wrapper’s indication of whether the anchor was actually available, or whether the card was just showing its last-known status.
+
+The anchor he’d left in Barstone, for example, had stopped responding, and not because it was out of range. The skill’s range was still infinite as far as he knew. Rather, it seemed he’d lost contact because of the monstrous, probably toothy something that had appeared on Detection’s radar shortly before the connection had dropped.
+
+Righting the armchair he’d decided to make in place of a hammock, Rain returned it to its spot beneath the palm trees, then began sticking his flattened bookcase back together. Dozer had helpfully collected the books already, having piled them in a neat pyramid nearby.
+
+Once the bookshelf was standing on its own, Rain straightened, scratching his beard with one hand as he used his pseudo-telekinesis to direct books into it with the other, feeling particularly wizardly as he did so. It hardly required all of his attention, however, so his thoughts swiftly returned to the subject of his anchors.
+
+Using them to scout the deep sea is a bit of a non-starter, but they should make good bait. Should I look into it? Probably. Now? No, I don’t think so. Priority: not. On the list for later it goes, along with stashing one on land for another range test. Still, I should make more of them soonish, especially with how shitty my first one is. Detection is a gentle spell, but a single point of hardness is just not enough. Priority three, then: make more anchors and learn not to suck at it. Oh, and if I’m doing that, I should change this display from individual cards to a summary table or something. I can do that from in here, so... Priority inside three: anchor table.
+
+Waving the cards away, Rain turned to the rest of the knickknacks and broken experiments that Dozer had piled up for him, then sighed. With the exceptions of a slightly flattened Snek, which he levitated over to place atop the bookshelf, and his multi-armed wooden nemesis, who had weathered the storm completely unscathed, the rest was beyond saving. He gathered it all up into a jagged ball, then squeezed until it was featureless and smooth. Moving it in front of the armchair, he sculpted it into an approximation of an ottoman before depositing it on the sand and heading back down to the beach.
+
+Returning to his patiently-hovering progress report, he glanced at the final skill listed as having gained experience. Prismatic Intent had earned a staggering TWO. That actually was a lot for the skill, relatively speaking, given the time frame, but still.
+
+Rain clicked his tongue, now busy smoothing and sculpting the sand with broad sweeps of his arms.
+
+All I can do is keep practicing. Priority outside four: PI training. Actually, hmm. The mind shapes the soul, and the soul shapes the body, yeah? I’m still not sure where skills come into that, besides being in my core somewhere, but maybe...
+
+He stopped suddenly.
+
+Maybe I can use that. Pull them out somehow so I can see them.
+
+Rain turned, taking a moment to look at the pristine beach behind him. It wasn’t a big island, but that was just because he hadn’t needed it to be.
+
+Lots of free real estate in here, and now that I have a better idea of what my aura patterns are supposed to look like from using them without my armor, maybe I can build 3D models of them. Those might help me nail down the patterns, then refine them. Hmm. Can I get my interface to autocorrect my casting based on something in here? I’ve got it doing math for me, and the system connection is working, so... Holy shit, if this works...
+
+Rain stopped himself before he could get too worked up, glancing out at the essence ocean. The level had risen slightly since his fight with the Incarn, clearly felt from the way the bottom of his island was no longer scraping his core’s shell. His intake fans were working away, wafting fresh chaos down to his core for purification, but the pipe that would send the purified outflow back up was still above the waterline.
+
+He grimaced.
+
+No. No, seeing to my paling is still priority inside one. I want to be able to unlock another skill tree sometime this century, and in service of that, I need to fix the pipeline before anything else. Toying with skill models can be priority inside two. We work before we play, as an alright man once said.
+
+Rain smiled at the reference he was sure only he would get, surprised to find that he was in something approaching a good mood.
+
+Coming to a stop beside the boulder where he’d started, he planted his hands on his hips, then glanced back at his progress report. Acknowledging the tiny bump to his Endurance sync, he dismissed the window. The skill list, though, had one more thing worth thinking about. In all the hustle and bustle, it seemed he’d forgotten about finishing Heat Ward.
+
+I could fix that right now. Ward up, then Self-Immolate, but...
+
+Detection
+
+Ameliah had moved even closer in her sleep, now practically on top of him. Closing his eyes, he stretched his senses along the link to his physical body, feeling the ghostly presence of her arm wrapped around his chest. Wishing he could just return to his body to enjoy the sensation for the rest of the night, he sighed, then slipped fully into his soul once more.
+
+I can’t risk disturbing her. She needs her rest, particularly after what Vatreece told her.
+
+Rain shuddered.
+
+The Fleshsinger is in the Entin Theocracy, working in secret for the queen...
+
+Clenching his jaw and wishing for something to punch, Rain waved all his windows away. Lerith wasn’t a problem he could solve, not least because the Entin Theocracy wasn’t open to foreigners of any description. Even Warden Vatreece—a nigh-unchallengeable mind reader heading a multi-civilization-spanning pseudo-law-enforcement organization—hadn’t heard more than unconfirmed rumors, none of them strong enough to act upon for risk of an international incident. Rain would have been more than willing to cause several of those if Ameliah had asked him to help her put that manipulative, abusive, body-twisting piece of shit six feet underground, but she hadn’t. When she’d told him what the Warden had said, she’d just seemed tired. Distant.
+
+His heart feeling like it was being squeezed in a vice, Rain whirled to face the sitting boulder, then reached out with a claw-like hand and shattered it into dust.
+
+It didn’t help.
+
+Not even a vestige of his fleeting cheer remaining, he turned, then whistled sharply. A small orb that had been buried in the sand in front of him burst upward, zipping obediently to hover behind his shoulder. Lifting himself from the sand in defiance of gravity, he shot forward, skimming over the placid waves with his sub-core trailing after him. It wasn’t a big planet, and he reached the far side in short order, slowing beside a pair of pipes descending from the sky. One of them plunged below the waves, carrying chaos into his core, while the other stopped a few centimeters short of the surface. Imagining that the sub-core was helping—though it wasn’t, really, not yet, and maybe not ever—Rain began sculpting a new pipe segment up from the waves to meet it.
+
+The time for thought was over.
+
+Whatever shoe would drop next, whatever horrible crisis was lurking on the horizon, he needed to be ready. That meant he had work to do.

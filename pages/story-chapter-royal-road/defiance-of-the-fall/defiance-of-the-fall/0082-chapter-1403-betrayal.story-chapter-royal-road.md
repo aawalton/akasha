@@ -1,0 +1,141 @@
+---
+id: ae29504e-72fd-566f-b9b5-73359805bc45
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,403 - Betrayal"
+slug: 0082-chapter-1403-betrayal
+partOf: defiance-of-the-fall
+position: 82
+ownLength: 3191
+unit: words
+publishedAt: 2026-01-29
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2991936/chapter-1403-betrayal"
+royalRoadId: "2991936"
+---
+
+“Chaos… Impossibl—!” Descartes’ horrified declaration was swallowed by the silver sphere digging into his face.
+
+Zac had a splitting headache, and his upper body’s pathways felt like they were on fire from his struggle to keep the Hollow Chaos from slipping from his grasp. He definitely wasn’t as calm and collected as he let on. Creating Chaos Energy demanded more than what he could spare, but it was the only thing Zac could think of to crush Descartes’ last slivers of hope.
+
+Mortal dangers had been replacing each other throughout the trial, with most struggles forcing Zac to use Oblivion or Creation. The remnants could only generate so much after Zac severed their connection to their origin, and they were still running low before the hunt. Forcibly creating another ball of Chaos had left them shrunken and covered in cracks. The remnants had undoubtedly lost some of their spirituality permanently from his gambit.
+
+Despite the painful price, the intensity of the Primordial Chaos wasn’t quite at a satisfying level. He’d prepared meticulously to break through Descartes' mental and physical defenses, and he needed to make it count. Since the quantity was lacking, he needed to make sure he got his money’s worth. Thankfully, he’d refined his method since fighting Mox’s champion, and practice makes perfect.
+
+Exerting actual control was still beyond Zac’s ability. Perhaps it always would be, seeing as controlling Chaos was an oxymoron—at least the way cultivation worked in this Era. Nevertheless, there were indirect ways of controlling an uncontrollable force. He even had a decent primer in his possession—the [Inverse Vestige Scripture] looted in the Hidden Earth Abode.
+
+Daoist Hidden Earth’s predecessor had devised a method to control the Void by creating sacrificial molds. The Void Energy unleashed was given form and direction while passing through these chutes in a crude mimicry of a skill fractal. Right now, Zac tried doing the same thing. Instead of being content with disintegrating Descartes’ head and leaving its remains in a permanent state of chaotic uncertainty, Zac captured any wayward streaks of Chaos with Spiritual Threads covered in Void Energy.
+
+Dasorm would probably never have expected his [Cosmic Forge] could be used in battle this way. Or perhaps it was so obvious he didn’t bother to mention its other applications. Either way, [Cosmic Infusion] became the tool with which Zac brought out maximum effect from the small blob of Chaos.
+
+Zac became a herdsman, refusing to let a single sheep go astray. Everything was pushed or dragged downward, particularly encouraged to enter Descartes’ pathways. Thanks to Alea continuing to force Descartes' fate down this path of no return, he didn’t put up any resistance. The deadly combination left his body irrevocably transformed before it crumbled to nothingness.
+
+The Chaos finally reached Descartes’ Cosmic Core after sweeping through his body like a forest fire. Zac made a final push, the exertion almost causing his Soul Aperture to rupture. It may very well have if not for the benediction Zac received from the Empyrean Chalice. However, healing his wounds and taking Zac this far was the conjured chalice’s limit. When Zac’s mind screamed with danger, he was too exhausted to react in time.
+
+Zac felt something cradling him from behind just as Descartes’ Cosmic Core could no longer endure the toxic infusion. It went off like a bomb, unleashing both a storm of energy and physical pieces that crashed into Zac with enough force to puncture holes in his flesh. Thankfully, the base defensive capabilities of [Love’s Bond] had greatly improved since its upgrade.
+
+The breastplate kept Zac’s torso safe as he was pushed back a few dozen feet while a cocoon of chains guarded his head. Its new set of dents would buff out on their own, and the chains would regrow in a day or two. Zac’s real worry was Alea’s spiritual state. She’d held on longer than safe, and she’d even blocked some of the fallout on her way back into the breastplate.
+
+‘I’m okay,’ Alea comforted. ‘This guy was powerful, but he was still a memory. He didn’t have a true fate to seal, making the backlash weaker by at least half. The flame will help me recover.’
+
+Hearing that only made Zac feel worse. Alea’s voice was barely a whisper, and she entered a deep slumber the moment she’d delivered her message. Zac could feel just how precarious her state was. If that was a weakened backlash, then what about the real thing? Since Alea insisted on this path, he’d have to figure out ways to improve the resilience of her spirit. Perhaps someone in the Mercurial Court knew how to speed up the absorption of Spiritual Flames?
+
+Beyond being left with very little energy to spare, Zac was in a surprisingly decent state. It was night and day compared to some of his previous attempts to conjure Chaos, proving his hard work was paying off. It was not just about finding a more graceful method than cramming the two forces together.
+
+Zac had grown a lot stronger since facing off against Naruk and the statue of Mox. Both his Daos of Life and Death had advanced, as had his [Void Vajra Sublimation]. The benefits of the latter didn’t fully transfer to his Draugr side, but his body had undeniably grown more resilient against dangerous forces. Most importantly, he had experienced the cycle of Life and Death during his life in the Peregrine Ocean and incorporated it into his Heart. This strengthened his connection to the Peak of Chaos, making his attempt at control slightly less painful.
+
+Seconds passed as the commotion died down. There was no sign of Descartes resurrecting, and Zac’s rasping breaths were the only thing left disturbing the subdued silence that settled in the lobby. The collapse of the Limitless Empire’s divine chart had created a palpable sense of loss that neither Sevona’s divinity nor August’s azure greed dared impugn. The moonlight pooling in the large window overhead refused to extend its reach into the lodge by so much as an inch.
+
+The decayed lobby was kept illuminated by the azure seal on the doorway and the ethereal flame of the Empyrean Chalice. The chalice hovered overhead like it hadn’t finished its mission. Its light was reflected in countless spiritual shards left from Kaltosa Lu’s thousands of shattered Array Disks. Countless lights in all colors of the Dao were refracted across the lobby to create a mesmerizing ambiance.
+
+Zac looked up at the waiting chalice. Was it waiting for some form of payment after providing timely assistance? Was he supposed to pray to it? Even if Zac was willing, he didn’t know the procedure. At least there were no brands or markings added to his body to remind him of his Karmic Debt. Zac decided to ignore the matter for now, instead turning to Kaltosa Lu.
+
+The Elemental looked like he was the one who’d been fighting on the frontlines all this time. The Empyrean Chalice hadn’t extended its grace to Zac’s temporary ally, which forced Kaltosa Lu to bear the full brunt of the banner’s authority. He remained sprawled on the ground, his six arms twitching as though he were trapped in a painful nightmare.
+
+Zac couldn’t help the rising Killing Intent that clamored for decisive action. Would he ever get such a good opportunity to take out this calculative Flamebearer? Zac gave up the idea as quickly as it formed. Setting aside the repercussions of targeting the Centigrade Pryer’s direct descendant, Zac needed what little energy he had left in the tank to deal with the situation inside the Hall of Abundance.
+
+The death of Descartes hadn’t reversed or even slowed down August’s seizure of the Divine Core. His presence was so overwhelming that Zac could barely sense Sevona’s divinity struggling to hold on. Just getting past the azure seal would probably require [Eye of Desolation].
+
+The sound of a heartbeat made Zac freeze just when he began channeling Miasma toward the skill, and his head snapped back toward the center of the chamber. A golden heart surrounded by clouds of providence and runes filled with great merit had appeared right where Descartes fell. It looked like the heart of an angel, an image that was ruined the second it appeared.
+
+A rotting gash blemished the pristine flesh, causing putrid blood to spill out. The wound quickly grew wider as three scaled hands with pitch-black nails widened the opening from within. Something exceedingly evil was about to emerge.
+
+“What the hell?” Zac gasped as a tremendous wave of degenerative filth poured out of the wound.
+
+Zac could already see a horned figure staring daggers at him from within the heart. Its features were more twisted than any demonkin Zac knew, and it naturally exuded a madness distinct yet equally frightful as the Lost Era’s corruption. This was a true devil whose mere presence was enough for [Immutability of Eoz] and [Purity of the Void] to roar into life.
+
+Despite looking completely different from his previous human appearance, Zac was certain that Descartes hadn’t fully died. Not only was Descartes alive, but the aura pouring out of the withering heart was more oppressive than before. Zac didn’t feel the least bit happy at figuring out the source of the bestial power hiding in the depths of Descartes’ body.
+
+The good news was that his previous attack wasn’t for nothing. It had forced out Descartes’ second form, and his state was far from perfect. The devil was missing one arm, and his body was riddled with wounds. The wounds showed no indication of disappearing. While Zac was exhausted, Descartes was a desperate beast at the end of its ropes.
+
+And he was still trapped inside the rotting heart.
+
+Searing pain wracked Zac’s body just as he was about to rush forth and put down the threat before it could manifest. Twelve spikes had embedded themselves across his body, forming a complex array that left his soul and pathways utterly sealed. Not even the Void answered his call. The array released a powerful counterforce when he tried drawing from his hidden well, completely nullifying the force.
+
+The effect was more overbearing than the seal placed on him by the Eidolon Autarch outside the Imperial Graveyard. Zac had to struggle just to turn his head around, where he found Kaltosa Lu stumbling over. The betrayal was confirmed, and seeing the Elemental’s wretched state left him as confused as he was angry.
+
+Kaltosa Lu had come prepared, and he’d timed his ambush perfectly. Zac never forgot to keep an eye on his “ally,” but he’d acted at the exact moment when Zac was focused on finishing off Descartes. The array flags had to be premade, based on the data collected during their previous bout. They eluded Zac’s danger sense even after piercing his back.
+
+The biggest contributor to Zac’s downfall was that the betrayal simply made no sense. Kaltosa Lu didn’t strike when it looked like the fight was over, but he acted when their foe rose from the dead. Of the three of them, Kaltosa Lu’s condition was clearly the worst. Why would he take on Descartes alone when Zac was willing to act as a meat shield?
+
+It didn’t look like Kaltosa Lu had decided to cut his losses by targeting Zac when their plan failed. If he had, Kaltosa Lu would have gone for the kill before activating his escape measure. The array was intended to seal but not kill, and the Elemental seemed more than happy to allow Descartes’s rebirth.
+
+“Good job, my friend. I can’t believe you managed to force him out,” Kaltosa Lu said in a hoarse voice as he limped closer. “Lompo calculated that I’d have to sacrifice a Primordial Rune to achieve my goal. He must have underestimated the powers you wield. Chaos and Void? What a novel combination. I can see why Ultom chose you.”
+
+“Why?” Zac squeezed out as he desperately tried to force out the spikes.
+
+“Call it insurance,” Kaltosa Lu said with a shrug.
+
+“Descartes…” Zac said, finding it harder and harder to speak.
+
+“’Devils wearing the skins of officials,’” Kaltosa Lu laughed. “As expected, this foul-mouthed outsider was part of the Belial Tribe.”
+
+Zac couldn’t say he was surprised at hearing the name. The Belial Tribe, or rather the Belial Clan, was one of the Eight Imperial Bloodlines, like the Theomores. Who would dare target Astora Theomore except another peak family? Another Imperial Bloodline had set their sights on Ultom, and Zac had been caught in the middle of the struggle.
+
+The Belial Tribe’s name was the extent of what Zac knew. He wasn’t even sure whether they were human or if Descartes’ devilish appearance was his true form. Zac had tried expanding his knowledge since learning the Theomore Dynasty controlled the Left Imperial Expanse, but it wasn’t exactly a well-known subject.
+
+Any mention of the Imperial Bloodlines had all but been erased from the present age. Even a history buff like Tavza only knew surface information. Kaltosa Lu being one of the few in the know wasn’t a surprise, seeing as the Centigrade Pryer was an old relic who’d lived through the Dark Ages. Going by Descartes’ earlier remark, the Pryer was once made an indentured servant.
+
+“You know, I was starting to think I’d made a mistake,” Kaltosa Lu commented. By that point, the devil had almost fully emerged from its filthy cocoon. “Belial’s scholars were supposed to be the epitome of Confucian grace, nothing like this dour fool. I don’t think the First Era’s corruption is to blame. More likely, the memory lanterns weren’t designed to withstand the Divine Degeneracy Bloodline.”
+
+Zac wanted to scream at Kaltosa Lu to do something, but his mouth no longer listened to his commands. However, Zac soon realized that a hidden battle was already taking place. The glimmering mist of the countless Array Disks had grown considerably thinner without explanation, and Descartes’ aura was growing more unsteady by the second.
+
+Finally, Descartes fell out of the cocoon. When he tried to get up, his arm exploded with a shower of filth. Descartes howled with fury and fear, and he seemed utterly incapable of preventing the debris mist from pouring into his body at an accelerated pace. Weirder still, it didn’t look like the Array Disk remnants were harming him. It was infusing him with power, causing his bloodline to go berserk.
+
+Descartes only managed to take one unsteady step toward them before falling down again. He blankly stared at the sky, his voice filled with anguish as he breathed his last.
+
+“Treason—"
+
+The devil turned into a pool of filth the next second as his bloodline devoured him. Kaltosa Lu lightly laughed as he stumbled toward the murky pool.
+
+“My grandfather is the complete opposite of me. He’s miserly and vindictive, refusing to take even the smallest loss,” Kaltosa Lu said as he conjured a translucent arm.
+
+The construct reached into the muck to pull out the token Descartes used to stay safe against the Lodge’s punishment. It looked a lot like the [Court Cycle Token], except it held no Flamebearer seal. Instead, it was engraved with an unfamiliar rune that held extraordinary levels of Imperial Faith.
+
+“Outliving his enemies wasn’t enough for him,” Kaltosa Lu continued as he returned to Zac’s side. “You cannot imagine the time and resources he’s spent on devising punishments against people that no longer exist. Well, I have to hand it to the old man. That research came in handy today.”
+
+Zac furiously looked at his captor, unwilling and unable to waste another word on him.
+
+“You’re wondering why I don’t just kill you? Isn’t it obvious? I’m not in the mood to get burned to a crisp,” Kaltosa Lu said, pointing at the Empyrean Chalice with an exasperated expression. “Just how did you manage to create such a powerful connection with a Templar Order? There was very little fate connected to those threads in this region.
+
+“It makes me wonder if there’s some truth to your shameless boast before. I heard rumors you might be connected to the factions of the Boundless Path. It would certainly explain the commotion you caused in the Imperial Graveyard,” Kaltosa Lu said. “Is that why you cultivate the Void, despite it being a dead end? Do you need it to hide your allegiance to the cursed empire?”
+
+Zac answered with another baleful look.
+
+“I guess it doesn’t matter,” Kaltosa Lu said as he pushed the unfamiliar token toward Zac’s left hand. “I can’t kill you, but I should be able to claim my reward. I do apologize, but you were right before. The competition is stiff, and I cannot look wanting before my beloved. I’ll have to borrow your Fate for a little bit. Seeing how industrious you are, I’m sure you’ll bounce right back.”
+
+The spear of light struck without warning and with incredible speed, turning Kaltosa Lu’s own trick against him. Kaltosa Lu had clearly been better prepared, but a flash from the Empyrean Chalice dispersed all his energy. The spear impaled Kaltosa Lu where he stood, and its flames covered his body in the blink of an eye.
+
+“Damn it! Not willing to give an inch! Just you wait!” Kaltosa Lu roared as one of the constellations within him erupted with primordial power.
+
+Zac could only watch with confused wonder as a meter-wide pillar holding equal parts Time and Space swallowed Kaltosa Lu whole. He’d exhausted the array flags by half through ceaseless resistance, and he’d planned to strike after sacrificing some of his Imperial Fate. Zac truly didn’t expect the chalice to make a move before he could.
+
+The pillar of false Continuum rapidly shrank the moment it appeared. As it did, it seemed to pierce through the ceiling before disappearing far into the sky. The scene made Zac think of the Centurion Lighthouse when the [Centurion Spear] was released. Kaltosa Lu’s pillar also stretched toward infinity as it thinned to the width of a hair. The next moment, it was gone, having exhausted all its energy to bring the Elemental away. Only the Empyrean Flames were left behind.
+
+“You?” Zac exhaled when a glowing figure emerged from the chalice. With Kaltosa Lu gone, there was no one to control the spikes impaling him. “You’re the traitor?”
+
+Zac hadn’t thought too deeply about the meaning behind Descartes’ words before. He simply assumed the devil was calling them traitors for daring to go against an Emissary of the Imperial Court. It turned out that Descartes had been cursing a fourth party who probably had appeared with the banner.
+
+“Traitor? Maybe. Such things are better left for future generations to decide,” Xiphos said with a smile as he landed. “The important question is what comes next.”
+
+“You know that Grand Dream wanted me here, and I’ve been working hard at stopping the invasion. The danger hasn’t passed. If you help me out, we can still turn this around,” Zac urged.
+
+“Does it matter?” Xiphos said as a manic expression appeared on his face. “After all, isn’t this all a dream?”

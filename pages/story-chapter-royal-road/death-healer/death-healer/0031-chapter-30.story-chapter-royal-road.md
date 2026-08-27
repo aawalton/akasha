@@ -1,0 +1,197 @@
+---
+id: 869186f3-0f32-5d4d-a85f-ece3f1b87ef0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30"
+slug: 0031-chapter-30
+partOf: death-healer
+position: 31
+ownLength: 1985
+unit: words
+publishedAt: 2025-06-07
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2338412/chapter-30"
+royalRoadId: "2338412"
+---
+
+“Do you know that not even your mother had the courage to utter the words you said in front of everyone?” Calpurnia’s voice came harshly, not kindly.
+
+Lily stepped between two trees, finally appearing in front of the woman in a grove that marked her house. The grove lay in night‑deep shadow, and a full moon rode high above, silvering the leaves; Lily noted its chill light.
+
+She had been invited to Calpurnia’s place, and Sabinus had not been allowed to follow. Apparently Sabinus actually intended to obey that order, and he seemed to carry more respect for his aunt than Lily had ever seen him show his father.
+
+“So what?” Lily said, frowning.
+
+“Your mother was the Princess, the Princess, not just a Princess, the Princess,” Calpurnia repeated. “I have never seen her make such a statement. Now she sends you to the Gens Cornelia. This already borders on illegal behavior. In other times it would have been considered treason, yet your mother did send you to be trained after you openly declared you want to become the next Pope. She did it in the shadows, or at least without shouting out loud that she, a woman, would punish one of the Patriarchs of the Great Families. I don't think you fully understand them them, Liliana Claudia, but do you stand behind your words?”
+
+Lily felt a prickling sensation on her skin and activated her own [Mana Sense]. She saw the air around her brimming with Calpurnia’s mana. She planted her boot on the fresh grass, letting it squelch as energy crawled over her skin.
+
+“I meant what I said,” Lily declared, balling her fists. “I won’t let them turn Lavinia into a puppet.”
+
+“And who are you to make such promises? You are a little girl, two years off your Class Day, and your fighting Skills are nowhere near those you would face in the real race for champions. You think Lumius Iulius is going to be a problem?” Calpurnia’s tone left no doubt as to how unbelievable Lily had sounded. “Have you seen his older brother, or even his sister? Right now, Lucretia Iulia would break every bone in your body even if you had a Class. Do you understand the opposition that will come out of the shadows once you actually win the Champion's Trial tournament?”
+
+Lily hesitated, yet when she saw in her mind’s eye the emotions Lavinia had felt back then, she clenched her teeth and did nothing.
+
+“Good. You are not a complete fool,” Calpurnia said, leaving Lily confused. “Hesitation is part of the journey. Come.”
+
+She beckoned Lily forward with a finger.
+
+As soon as there was almost no space between them, Calpurnia hugged Lily. A barrier of light burst from their bodies at breakneck speed, swept the field, and formed a large circular dome.
+
+Calpurnia eyed their surroundings and nodded.
+
+“Sabinus did not follow. Good.”
+
+Still confused, Lily looked up as Calpurnia brushed dust from her clothes and stepped back.
+
+“What I am about to teach you,” Calpurnia began, “is forbidden by the law.”
+
+Up close, Calpurnia’s youthful face betrayed subtle traces of age and strain, with a fine web of lines at the corners of her eyes and the faintest streak of silver in her blonde braid.
+
+“Why would you teach me?” Lily asked, a moment of clarity cutting through her confusion.
+
+Calpurnia paused before answering.
+
+“Why? I already told you. No one else stood up the way you did. Perhaps you are a fool, Liliana Claudia, but I have very detailed reports of what you said. You meant it like an adult, not a babbling child, and your mother is probably already committed to breaking the law—or twisting it—isn’t she?”
+
+Lily remained silent.
+
+Calpurnia nodded. “Good. Do not trust me yet.”
+
+“What are you going to teach me, then?”
+
+“There is a Martial Art in my family that has been passed down since time immemorial. Legends say my lineage reaches back to the Gens Claudia, where a minor noble house vanished into the Papacy's family trees, so we might be distantly related. Humor me, Lilliana, and call me Aunt Calpurnia for now,” she said with a cheeky smile.
+
+Lily shrugged. “Please call me Lily, Aunt Calpurnia. No one calls me Lilliana.”
+
+“All right, Lily. This martial art is taught only to the women in my family.”
+
+Lily raised an eyebrow; that was unusual.
+
+“I know,” Calpurnia said. “There is a reason men were not allowed to learn it: it requires the finest control of the darkness affinity.”
+
+Lily’s eyes went wide. “But that is--that is illegal.” She stumbled over the words and had to repeat herself.
+
+“I know,” Calpurnia answered with a smile. “Yet your father—and probably every patriarch, even the Pope—has acquired a Darkness Affinity.”
+
+Lily’s mouth fell open.
+
+“The darkness affinity is not useful only for darkness‑related classes. While you master Affinities tied to Death—Darkness, Water, Air, and Metal—a stronger Darkness Affinity greatly increases your chances of mastering the others.”
+
+“Even if it is illegal?” Lily frowned.
+
+“You will soon find that men twist and bend rules as they please. Some Inquisitors are rumored to have classes capable of raising the Undead; they say it helps them know their enemy, though such cases are rare. Almost every sensible family teaches its male children to cultivate Darkness Affinity. It's especially important for boys since their natural Darkness is weak. Take your father, he has a strong Radiance Affinity.”
+
+Calpurnia paused. “What is Radiance made of?”
+
+“Light and Air Affinity,” Lily replied. She did not resist the question as she would have with her mother, because the purpose felt clear.
+
+“Good,” Calpurnia said. “To enhance his Air Affinity, your father must have learnt darkness affinity. Some people even choose Subclasses tied to Darkness for their first Class, then mix those with Water, Air, or Metal.”
+
+Everything Lily heard was new and shattered her old perception of the Papacy. She had believed that order ruled all things and had felt like a criminal merely for pondering rebellion. She still meant to oppose the laws, yet learning how fluid they truly were only strengthened her resolve.
+
+"Let me explain why it's important to learn the Darkness Affinity," Calpurnia said with a smile that reached her eyes. "You have an innate talent for fighting. It might have been passed as a Perk and a Skill to you through your blood. You're the direct descendant of two of the oldest and strongest bloodlines in the Papacy. However, your body is that of a little girl, still. Which means you're weak."
+
+Lily couldn't really offer any rebuttal.
+
+Sadly, it was true.
+
+Part of the reason she had won against Septimus was the fact that whatever technique she naturally had was so superior that their difference in strength had been negated. But once she started fighting people with a Class, their Attributes and Skills would make a big difference; and someone who had trained much longer than her would have a large upper hand in a direct, hand-to-hand confrontation.
+
+"This Martial Art will not just empower you, but show you one of the rarest Affinities. Do you know what happens when you mix Light and Darkness, Lily?"
+
+Lily shook her head.
+
+"There's an Affinity called Balance," Calpurnia smirked. "No one chooses it because it's impossible to master. But it's the basis of this Martial Art.
+
+"See, Martial Arts are not meant to be the same of Skills. They are more similar to Perks, in fact. A Martial Art is best thought of as a supporting Skill that enhances other Skills or, plainly, your fighting style."
+
+Lily frowned.
+
+"I'm not following," the blonde girl said.
+
+"Do you know any [Monks]?" Calpurnia asked.
+
+"Father's friend, Uncle Marcus," Lily said, thinking while bringing her eyes upward.
+
+"Has he ever showed a fist Skill?"
+
+Lily nodded.
+
+"[Monks] have a whole array of Skills related to fists and supporting Skills to make their attacks stronger. I know a few fist Skills myself. Let me demonstrate."
+
+Calpurnia squared her shoulders and drew back her fist; her stance locked in perfect alignment with the earth beneath her boots. She punched the night air as she let the light dome dissipate.
+
+“[Ash Fist]!”
+
+The shout rang like struck iron, and a column of pale force lanced upward, slicing through the canopy and vanishing into the moon‑washed sky before Lily could follow it. Leaves fluttered in the wake of the attack, yet no branch broke—the strike had passed too quickly for the wood to shatter.
+
+Calpurnia turned her wrist, rolled her shoulders once, and faced the drifting clouds.
+
+"That was my Skill."
+
+“Now, this is my Martial Art, Requiem of Balance. It only has three stances. It begins with the Physical Stage, which empowers your body. First Stance, Coniunctionis.”
+
+She drove her fist forward again. This time the blow hissed as it climbed and shattered many branches all around them. It reached much higher than the first, and disappeared into the cloud‑bank. Wind spiraled from the impact, whipping Lily’s hair across her face and driving her a step backward.
+
+Calpurnia’s smile turned sly.
+
+“Now the peak of my power. This is the Mana Stage, and it empowers your Skills. Requiem of Balance, Second Stance, Vena Aetheris.”
+
+Calpurnia exhaled, and her third punch tore at the night.
+
+The wind this time made Lily fly back so strongly she hit a tree and passed out. Meanwhile, a few large trees were completely unrooted.
+
+When she came back to her senses, Lily found Calpurnia standing where she sood before, but looking up, she found a ragged hole gaped in the clouds, framing the full moon like a silver coin held to a lantern.
+
+Calpurnia lowered her arm. Blood beaded where the skin on her knuckles had split, and her breaths came shallow and rapid.
+
+“Requiem of Balance takes a great deal out of you,” she said while she steadied herself. “You can only use it so much."
+
+Lily raised an eyebrow.
+
+"What if I was pretty good at healing, then?"
+
+* * *
+
+It was dinnertime by the time Septimus Cornelius was ushered into the family’s private hall. He knelt on the veined onyx tiles; his eyes were red and swollen.
+
+"I failed, Father," he said with shame in his voice. "The Claudia girl—Lily—threw me down. I don't know what she did but..."
+
+Publius leaned forward, his signet ring tapping the armrest.
+
+"Tell me everything, Septimus. Leave nothing out."
+
+Septimus swallowed and recounted how Lily had gone from being clumsy with a sword to a weird master with her hands.
+
+His mother’s chair creaked.
+
+"A [Healer]’s whelp made you weep, the wench who said she'd become the Pope? That is an insult to our line."
+
+"I could not touch her, Mother, after she let the sword down," he whispered.
+
+Publius’s brow furrowed. Anger flashed in his eyes.
+
+"Your carelessness shamed us."
+
+His wife's eyes narrowed.
+
+"A mere healer has upended our own and the Gens Aemilia's pride. That cannot stand."
+
+Publius drew a steady breath.
+
+"Sextus has just received his Class. A firstborn must test new Skills on worthy match."
+
+His wife nodded at once. "The Claudii's spawn will serve perfectly. When Sextus cripples her in formal sparring, both the Gens Aemilia and the Gens Iulia will be happy with us. I hear rumors that the Pope is very dissatisfied with his arrogant sister."
+
+Hope flared in Septimus’s chest.
+
+"Brother will fight her?"
+
+"Yes," Publius answered. "After this year's Champion's Trial, we'll send him over to my cousin's place."
+
+Publius's wife added, "Your brother’s Affinities are exceptional, and three retired Champions forged his regimen. That wench will not stand on her own legs ever again."
+
+Septimus straightened; the knot inside him loosened.
+
+"Then I shall wait and watch."
+
+"Calm yourself," Publius said. "Vengeance is arranged. Liliana Claudia won't ever even be able to attend her Champion's Trial. Soon, she'll learn her place."

@@ -1,0 +1,145 @@
+---
+id: ec957c05-d84f-5266-b788-2361e3fa0fe1
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 53"
+slug: 0285-b4-chapter-53
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 285
+ownLength: 1429
+unit: words
+ownProgress: 1429
+publishedAt: 2025-06-11
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2348684/b4-chapter-53"
+royalRoadId: "2348684"
+markedReadAt: "2026-06-29T19:15:29.474Z"
+---
+
+Aria
+
+I have to wonder what the point of this war even was at this rate. It didn’t exactly do much.
+
+A frown stays frozen on my face as I look out from some random tall building in the capital city of one of those other worlds attacking Vortel. Which is covered in my Death Spirits slaughtering the enemy soldiers and law enforcement while ignoring any civilians. Even protecting some of them from stray shots with their bodies, seeing as the Death Spirits can’t exactly die.
+
+At this point all the war has done is waste two weeks of my time, slaughter off an entire planet that certainly had nothing to do with me or anything related to me, and end up with two new planets worth of territory for Vortel.
+
+I let out a yawn as I glance behind me at the high ranking mercenaries ‘standing guard’ there. Both of whom are part of my forces.
+
+The two of them look more than a little shocked at how easy this all is.
+
+They probably see how pointless this is too.
+
+I give a firm mental nod of my head at that conclusion before turning back to look out at the city. Meanwhile my mercenaries finally catch up to the Death Spirits and begin raiding the city as a whole. All the way until they finally capture the leader of this planet.
+
+Just like how they captured the leader of the other planet.
+
+Nice. Now I just have to bring this one over to Vortel as well and everything will be good and finished.
+
+And I’ll be able to go back to the twins.
+
+A smile stretches across my face at the idea of just lying around reading while the kids sleep next to me again. An act that has become a rather relaxing pass-time.
+
+And more importantly?
+
+No more war paperwork!
+
+Because war apparently has a lot more paperwork than I ever would’ve expected…
+
+But with this war being over, I’m finally free again!
+
+It’ll be so nice.
+
+I yawn once before jumping up to my feet and telling the mercenaries, “Time to head back.”
+
+To see those twins.
+
+I feel dead inside as I half-heartedly fill out post-war paperwork. All while wondering if Little Blue hates me or something.
+
+And that smug look she’s sending me as I’m writing isn’t helping.
+
+“Remind me again why exactly I have to fill out post-war paperwork when we’re mercenaries and not actually part of Vortel’s military?” I ask while turning a glare on the paperwork on my desk as if it were my arch enemy. Which it is.
+
+“Because over ninety-five percent of the contributions to their war were made by us,” Little Blue answers rather smugly. Although whether that’s because of her pride for what those words mean or because she’s happy that I’m stuck here doing paperwork, I’m not sure. “So there are quite a few complications going around from the war. Along with…” her smug smile fades a little and she scratches her cheek, “…some other… issues…”
+
+I blink at that before glancing between her and the paperwork a few times. Then I lift the page I’m signing right now to look at the next one beneath it.
+
+And when I read what’s on it my eyes widen and I shout, “The fuck?! They’re trying to make me take over as the ruler of all three fucking worlds?!” My head jerks up to stare at her. “Why?! What did I ever do to deserve this?!”
+
+“Ahem… I, uh, think it was supposed to be them showing you favor,” Little Blue says after purposefully coughing, clearly trying to stop herself from laughing. Then she forces a straight face as she answers, “That and they wish to have your protection so that no other powers target them.”
+
+That… makes sense, but I don’t want to be the ruler of a nation…
+
+“Fuck…” I mutter while leaning back in my chair. “Wait, would I actually be the ruler of any nation if it’s three different worlds?”
+
+“Um, it looks like they’re just placing the worlds under the control of the Pale Mercenaries, so you won’t be getting any fancy titles,” Little Blue answers. But it only takes her a moment to shrug and add, “Not that it would matter anyways. You’re already a princess after all.”
+
+Oh. Right.
+
+I keep forgetting about that.
+
+Wait, that’s not important right now.
+
+“I can’t accept this!” I exclaim while slamming my hands on my desk. “There’s no way I could be the leader of three entire worlds!”
+
+Little Blue fake coughs again and awkwardly looks away as she comments, “Well, actually, it’s four worlds. Since they’re tossing the ruined one at you as well.”
+
+I gape at her in shock.
+
+No. No no, no no no, no no no no no.
+
+This is not happening.
+
+Right. I should just go on another five decade trip and…
+
+My eyes widen as I remember the twins.
+
+“Fuuuuck…..” I mutter, drawing out the word as I collapse back into my chair, letting the chair slowly spin to face the window of our headquarters on Eternus.
+
+I hear Little Blue snicker behind me, but I choose to be the mature one and ignore it.
+
+Several seconds pass in silence before Little Blue eventually asks, “What’s so wrong about letting these worlds use your name as protection? You’ll be getting a lot more income from their taxes, and you will have more influence in the universe as well. I don’t see any issues here.”
+
+I stare out at the beautiful skies of Eternus for a while. Then I eventually turn my chair around again and directly meet Little Blue’s eyes as I answer as honestly as possible, “Ruling three worlds means more paperwork.”
+
+Neither of us say anything for what feels like several minutes.
+
+Eventually Little Blue mutters, “Riiiight, I’ll just leave you to your paperwork here.”
+
+And without another word, she vanishes from my office using her high-level speed.
+
+I blink once at where she just left from. Then twice.
+
+Then I turn to stare at the paperwork.
+
+Finally, after nearly an entire minute passes, I turn my chair around to look outside again as I mutter out loud, “Maybe I should take a short vacation after the kids grow up… just a couple centuries will do.”
+
+No one responds to my statement.
+
+The Governmental Legislation on VortelNot long before Aria found out about becoming the ruler of the worlds
+
+Silence fills the chamber with the only noises being that of the screams, explosions, and gunfire coming from the battlefields shown on a large screen floating at the center of the room. Meanwhile all of the generals of the military along with the governors and even the president of the Albarian Republic stares at said screens in shock.
+
+Because each one shows the Horseman of Death’s power. Both in her Pale Mercenaries and her own personal power with her armies of Death Spirits.
+
+“So is everyone finally in agreement with my proposal?” Nerissa asks, the Atlantean Princess having spent quite a few days trying to convince the old geezers in this place to listen to her request.
+
+All of the politicians and generals nod their heads in agreement without a single one denying the proposal anymore.
+
+Nerissa instantly feels overjoyed as she sees this.
+
+After a few seconds, the president of the Republic himself steps forwards and declares, “I hereby call the ruling to court. All those who approve of the Republic of Albaria along with the four planets the republic now owns henceforth being under the rule of the Horseman of Death, Aria Crimson, raise your hands.”
+
+Every last hand in the chamber raises instantly.
+
+“This proposal has been accepted. From now on, the Republic of Albaria will belong to the Horseman of Death as a part of the Pale Mercenaries,” the president continues. But after a second he frowns at Nerissa and asks, “When will we be discussing this with the Horseman herself?”
+
+Nerissa waves her hand and says, “Oh, she doesn’t know about this yet. But don’t worry about her. She’ll be overjoyed.”
+
+The president just nods his head.
+
+Meanwhile Nerissa can’t stop grinning as she puts her hands on her hips and takes in everything she just accomplished.
+
+And the best part is that she won’t be able to run away from her work this time! Not with the twins here!
+
+Her grin grows even wider.
+
+Those twins may just be the best thing that’s ever happened to me- I mean to her!

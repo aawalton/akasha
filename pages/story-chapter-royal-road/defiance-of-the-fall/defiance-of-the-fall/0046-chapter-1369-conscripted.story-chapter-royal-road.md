@@ -1,0 +1,179 @@
+---
+id: ab81e92e-8378-5f40-a7ab-ac09563a278d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,369 - Conscripted"
+slug: 0046-chapter-1369-conscripted
+partOf: defiance-of-the-fall
+position: 46
+ownLength: 3287
+unit: words
+publishedAt: 2025-10-23
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2699355/chapter-1369-conscripted"
+royalRoadId: "2699355"
+---
+
+The guards led Zac around the manor to a sheltered garden in the back. The house had its own unique design, but it was a normal Outer Court Disciple residence. Astora Theomore didn’t receive any special treatment during her stay, or perhaps she’d rejected it. The princess, draped in the common Outer Court robes, was waiting for him by a table with two more Sealbearers.
+
+Both were familiar; the first was the Sealbearer who had set out during Zac’s visit to the docks the day before the worship ceremony. The other was the soldier wielding illusory flying weapons, who had killed and looted his doppelganger during the chaotic battle at the docks. Zac could guess why Astora had called on these two in particular. If the princess was looking for allies in fighting the doppelgangers, these two had solid alibis to prove they weren’t invaders.
+
+Zac’s identity was much more suspicious, as the captain’s short interrogation had proven. He still walked over as if nothing was wrong.
+
+“Your Highness,” Zac said with a bow. “I’m honored you remember our short exchange.”
+
+“Are you?” Astora asked with a slightly raised brow while inviting him to sit down. “I was starting to wonder if you were avoiding the residences after learning I’d arrived on your heels.”
+
+“How could that be?” Zac said. “I simply got caught up in exploring Citadel and lost track of time. Had I known Princess Theomore had already arrived, I would have returned sooner.”
+
+“You arrived at the right time,” Astora said, nodding at the others seated at the table. “Anton Eilin of the Arcana Phalanx and Benciti Vera of Clan Vera, this is Everit Draom of the Imperial Magistrate. I invited him as I believe his skill set will be of use to our cause.”
+
+‘Arcana Phalanx? Like in Ancient Arcana?’ Esmeralda commented from within the shrine. ‘This guy isn’t simple.’
+
+Zac greeted the two cultivators, taking extra note of the soldier. There was no recollection of an Arcana Phalanx in Tam Brooks’s memories, meaning it was probably a secret elite unit. Considering its name, it might even be directly connected to the Ultom Courts. The Eternal Heritage was in the Theomore Dynasty’s grasp, but Wal’Zo had mentioned that pieces of it were falling off. The Theomore Dynasty would need someone to deal with the discarded remnants before they could wreak havoc, and possibly excavate those realms for valuable heritages.
+
+“We all want to make the most of our time here, so I’ll be brief,” Astora continued. “As you’re aware, the Mercurial Court is under attack. The invasion at the Transformation Docks was only part of the incursion, designed to disrupt the generation of Imperial Faith. Citadel is infiltrated, and our enemies are hard at work bringing more allies to their side.”
+
+“Your Highness is correct,” Anton solemnly said. “I have already uncovered one pathway hidden inside an illusory realm. There’s no telling how many gateways are concealed across the island.”
+
+“That is why I’ve called for you three. We need to deal with the threat before they cause irrevocable damage.”
+
+“I don’t disagree, but is this really our job?” Zac asked. “Wouldn’t we be interfering with the Mercurial Court’s efforts?”
+
+“For reasons I’m not at liberty to explain, the court’s elders are unable to influence the trajectories. However, they are helping us indirectly. You’ve likely realized that combating the invasion generates a significant amount of Potentiality. In other words, they’ve placed great bounties on the empire’s enemies.”
+
+“What would Your Highness have us do?” Benciti asked.
+
+“I’ve called you for two reasons. First, I hope you’ll help me disseminate this information among the other Sealbearers as they arrive,” Astora solemnly said, and Zac saw the princess glance in his direction. “I don’t want to see anyone suppress the information in an effort to keep the Potentiality for themselves. There are more than enough targets to go around.
+
+“While doing so, have your attendants keep their eyes peeled. The invaders are disguised well, but they’re not perfect. Looking for their corrupted energy isn’t the only way to expose their allegiance. Everyone makes mistakes.
+
+“Secondly, I am looking for someone who can champion the Theomore Dynasty’s cause here at the Mercurial Court. This includes thwarting the invasion but is not limited to it. The fact that you three have arrived so early proves you’re qualified to play a role in these turbulent times,” Astora said. “This assignment will likely interfere with your cultivation, but you will be compensated.”
+
+Astora’s left hand suddenly erupted with Imperial Fate far denser than Zac’s, and he had to suppress a growl of hunger. He felt as though he was floating in front of the Empyrean Chalice once more, seeing the Flames of Destiny burn within. There was simply no way the massive amounts of Imperial Fate were solely Astora’s. More likely, she was directly tapped into the continent’s vast currents of Destiny, similar to how Yselio Tobrial used his clan’s Imperial Qi to empower himself.
+
+“The Theomore Dynasty has served the Empire since its founding, allowing us to wield some of its glory. I can bestow some of this providence to others, though I should warn you. Being touched by Destiny is a double-edged sword. It’ll help in your search for opportunities, but it will also bring great danger. The tides of Fate are rising, and you will be pushed into the heart of the maelstrom.”
+
+“I’m willing to become a blade for Your Highness!” Anton said without hesitation, with Benciti quickly following suit.
+
+Zac could tell their motivations were different. Anton didn’t seem to care so much about the blessing as the opportunity to become a core member of the resistance. Meanwhile, Benciti was too wet behind the ears to mask the greed in his eyes. Zac plastered an equally eager expression on his face, but he held his tongue. The princess had more to say.
+
+“The number of impartments I can perform is limited, and I have already awarded two over the past months. I can only do so once more,” Astora said, her meaning clear: prove yourself worthy of this opportunity.
+
+Anton wasn’t shy about it. “I have participated in two campaigns with the Arcana Phalanx, giving me a unique understanding of the threat we face. I believe there are few more suited than me to assist Your Highness. Benciti is untested and unsuitable to take on this role. Meanwhile, Everit Draom’s interpersonal issues are well known. He has a strained relationship with many Sealbearers, which might cause trouble for Your Highness. There are also issues surrounding his actions during the invasion.”
+
+“While I agree that Master Draom is unsuited to shoulder such responsibility, you’re overestimating your advantage. The difficulty does not lie in killing the invaders; it’s finding them. My clan is widely known for our skills as scouts, which is how I was the second to arrive,” Benciti said with a scowl. “You said you’ve found a hidden pathway used by our enemies? Well, I’ve found three.”
+
+Zac didn’t join the exchange since there was no point. After all, they were right. Everit’s reputation was in the dumps. There were just too many suspicious points surrounding him. He also didn’t have any feats to his name since he couldn’t very well say he’d killed Qriz’Ul outside the memory domain. That didn’t mean he was ready to give up, and he turned his attention inward.
+
+‘What do you think?’
+
+‘Go for it! The Mercurial Court’s threads of fate have eluded us for months. This is our chance to seize Destiny,’ Esmeralda urged.
+
+Zac was on the same page. His misgivings about having too much contact with Astora were the same as before, but many of the dangers were mitigated now that they were within Grand Dream’s domain. And like Esmeralda said, this was clearly an opportunity to finally seize the Mercurial Court’s fate. Successfully assisting the Theomore Princess might elevate his rank to Inner Disciple in one go. It might even birth another Halo for the Mercurial Court.
+
+‘Let’s do it, then. Get ready to take me away from here,’ Zac said while mentally drawing up a course of action.
+
+‘…You’re about to do something stupid, aren’t you?’ Esmeralda said with resignation.
+
+‘Those two are right; my resume isn’t the best. That means I’ll have to take a gamble to board this gravy train.’
+
+‘Fine! Go forth and make trouble, my little protégé. Master Esmeralda will hold up the Heavens,’ Esmeralda grandly proclaimed, slapping her chest. ‘But, uh, try not to make the princess angry, okay?’
+
+‘That depends on whether I’m right or not,’ Zac said before disappearing.
+
+Zac had infused himself with [Void Mountain] the second he saw who Jisi was bringing over to hide any suspicious fluctuations in his aura. Doing so also primed him for battle, creating the opening he needed. The Void of Life seamlessly joined with the Daos of Death and Conflict, exposing the world’s hidden routes.
+
+It allowed him to appear before the weaker deathsworn in the blink of an eye, and without releasing so much as a ripple of energy. The soldier reacted with commendable speed, but an overbearing sphere of Anti-Dao derailed his counter. Skills were interrupted, and the glowing runes on his armor faded before they could properly activate.
+
+Chains weighing mountains, courtesy of [Inexorable Subjugation], bound the prey while the [Fatehew] crashed into the soldier’s head. A golden barrier overcame [Void Zone]’s suppression, narrowly blocking the attack. Zac had expected as much after witnessing the power of the deathsworn’s armors during the battle on the docks. He’d even relied on it, as murder was not part of his plan.
+
+The deathsworn managed to keep his head intact, but [Fatehew]’s physical strike was the lesser of two threats. An intangible force passed through the barrier and entered the soldier’s mind, rocking his soul with a tremendous blast. Zac’s calloused hand crashed through the damaged barrier before he could snap awake, and a stream of corrosion hidden within a tube of Void Energy poured toward a spot hidden deeply within his body.
+
+“Impudence—” Anton roared as he shot to his feet, six sinister weapons appearing behind him.
+
+Astora’s bodyguard had reacted even faster, and Zac quickly disengaged before she could cut him in two. Zac wasn’t too bothered, not even activating [Profane Exponents]. Astora remained calm throughout, and he’d accomplished his goal. He watched as the deathsworn erupted with a terrifying aura tainted by the Lost Plane.
+
+Having his restrictions undone didn’t accomplish anything. He barely had time to give Zac a hate-filled stare before he was knocked unconscious by an overwhelming punch from his captain. She had shifted from defending to attacking so smoothly that Zac suspected she was prepared beforehand, and the invader’s armor didn’t activate against his superior.
+
+Zac retracted his chains and calmly returned to the table, trying his best to hide his relief. He’d sensed something was wrong the moment he came face to face with the two deathsworn. The lingering traces of corruption lodged in the depths of his body had started vibrating like something was calling it. The feeling only lasted a moment, and [Void Mountain] had blocked any form of response.
+
+However, the aberration was enough to raise Zac’s guard. Why had the tainted Dao reacted like that? Most likely, it had sensed something familiar on one of the two guards. It would make sense if the invaders had a hidden method of identifying each other without the Sealbearers noticing. The problem was that Zac couldn’t tell where the call came from.
+
+He’d tried different methods to find the answer, even crude taunts where he called the doppelgangers lowly animals. Naturally, the seasoned deathsworn didn’t react to those ploys, leaving Zac in the dark. Knowing he couldn’t win a war of words, Zac chose to gamble by attacking without having confirmation.
+
+It seemed less likely for Astora’s closest confidante to be replaced without anyone noticing, so he picked the other guard. There was another practical reason; Zac wasn’t confident he could force the captain’s hand to the point she released the corruption. Even if she was the impostor, it’d just look like Zac had gone mad.
+
+Activating [Void Zone] had proven his hunch correct. Its domain suppressed all Daos, including the Lost Era’s, and Zac had immediately felt a fierce resistance from a hidden spot within his body. The Void Energy had damaged the seal, and Zac’s purified Dead Dao successfully agitated the deathsworn’s own reserves.
+
+Zac glanced at the two surprised Sealbearers before sitting down. “Others talk. I get results.”
+
+A small smile tugged at Astora’s lips, and she slowly nodded. “I’d like to confer with Mr. Draom in private. Please assist Asir in interrogating the suspect. She’ll help you make the necessary arrangements for our upcoming cooperation.”
+
+The young nobleman looked crestfallen as he rose to his feet and bowed. He knew the opportunity had slipped through his fingers. Anton took the change in stride, only displaying a moment of disappointment. Before leaving, he turned to Zac.
+
+“You’re right. Words don’t matter before results. You’re free to curse me until sundown if it helps you expose the empire’s enemies,” the soldier said. “Give me a call if you need help in slaughtering these bastards.”
+
+“Will do,” Zac smiled.
+
+Moments later, there were just he and Astora left in the garden. Neither spoke for a moment before the princess broke the silence. She exhaled, slightly shaking her head. “I planned on announcing a mission for the final slot before you made your move.”
+
+“I’m sorry about your guard.”
+
+“Don’t be. He’s not actually one of theirs,” Astora said, giving Zac a meaningful look. “The invaders are not the only ones who have been tricked by the false promises of that forbidden power.”
+
+“What a scoundrel,” Zac said, completely glossing over the implication. “About that job…”
+
+“I cannot give you my benediction. At least not yet,” Astora said.
+
+“Because of what they said?” Zac asked.
+
+“I don’t base my decisions on hearsay,” Astora said. “Especially when it’s not about you.”
+
+“I’m sorry?” Zac asked when a powerful bloodline resonance crashed into him.
+
+The ripple was intercepted by a bottomless sea of Abyssal Death before it could touch the Void. Zac opened and closed his mouth a few times like he was lost for words before shaking his head, pretending he hadn’t noticed anything. Meanwhile, Esmeralda was urgently accumulating energy for a frantic dash.
+
+“I don’t know if Everit Draom is dead or if you’ve possessed his body, but he is no more,” Astora continued, and Zac felt like a mountain pressed down on his shoulders. The pressure relented before Zac could act on his escape plans. “However, Senior Grand Dream said you can be trusted, which is why I’m willing to give you a chance.”
+
+‘That old man really is our benefactor. It’s almost a shame we have to rob him,’ Esmeralda said with a grin while sinking back into her pond.
+
+‘We have Janos to thank for this,’ Zac said while outwardly maintaining his persona.
+
+“I’m not sure what you’ve heard. Is it that sage who’s told you something? I assure you, it’s all a great misunderstanding,” Zac said as he took out Everit’s identity token. “I’m Everit Draom, alright?”
+
+“If you say so. Frankly, I don’t care who or what you are, so long as our interests align. We are entering a turbulent period, and it’s all hands on deck,” Astora said as she took out two boxes. “However, seeing as your identity is… complicated, you’ll have to contribute before I can help you.”
+
+“What’s this?” Zac asked, seeing no point in trying to force the issue of his identity.
+
+Astora opened the larger of the two boxes, which released a storm of corruption. Zac briefly saw a few dozen crystals chalk-full of extremely condensed energy from the Lost Plane before Astora closed the lid.
+
+“This is a special resource gathered by the Theomore Dynasty. You should recognize the energy from our enemies,” Astora said. “Be careful not to use it yourself. It may seem like it holds enlightenment, but it’s a lie. Even my family must pay a great price to remove the taint before using this force for cultivation.”
+
+“So why are you giving me these?” Zac asked.
+
+“Because they are needed for this,” Astora said, opening the second box. “This is a [Courtyard Compass]. Its function is simple. Sacrificing a crystal will create a resonance of all corruption in your surroundings. So far, it’s our most effective method of exposing our enemies.”
+
+Zac’s back was suddenly slick with sweat upon realizing his earlier actions were based on insufficient information. It could very well have been the deathsworn who scanned him for signs of corruption back then. Zac wondered what the deathsworn would think if he realized he’d been exposed by a complete shot in the dark.
+
+“I should warn you, the array is not perfect. Those sent to this side have come prepared, and some are able to elude its scans. Furthermore, the [Courtyard Compass] cannot be used continuously. Not only will each use sacrifice a crystal. Activation will also corrupt its pathways, reducing its accuracy. Repeated use is even worse. Its creator recommends letting it rest for a day between each use.”
+
+“These limitations are an important reason I’m reaching out despite the issues surrounding your identity,” Astora said. “You noticed something was wrong before I did during the worship ceremony. You managed to travel through the dimensional overlap for a short moment. Now, you proved you could expose a deeply hidden operative without the help of a [Courtyard Compass].”
+
+“I’ll do what I can to help,” Zac promised as he took the token. “You said something about a test?”
+
+“Head to the Peregrine Isles after you’ve gotten settled,” Astora said. “You’ll take your test there. It’s also a good opportunity for you. I can feel how you’re accumulating momentum for breaking through.”
+
+“I’m still some ways off,” Zac truthfully said.
+
+“The isles will bring you closer to the goal. They can help you consolidate what you gained during the crossing. More importantly, a unique Natural Treasure can be found there. [Peregrine Almonds] can make the imperfections in your core illusory and desired changes real—up to a certain point.”
+
+“There’s such a good thing hidden in one of Citadel’s permanent fixtures?” Zac said with surprise.
+
+Astora’s deduction was right on the money. He hadn’t planned on breaking through to Peak D-grade inside the trial, but the River of Destiny was rushing him forward. Even if his breakthrough ended up delayed, improving the quality of his Cosmic Core was a top priority. [Void Heart] had refined and released the Tribulation Lightning from his dual Dao-breakthroughs while he was unconscious.
+
+The lightning had fixed some of his core’s imperfections on its way out, but there were still some ways to go before it was qualified to be called a Peak Quality Cosmic Core. It was hard to say when Zac could get his hands on similar items after the trial ended.
+
+“Don’t thank me just yet. I expect the invaders will target the fruits along with the sealbearers looking for them. The scattered islands are a good place for an ambush,” Astora said. “I’ll judge your suitability based on your performance there.”
+
+“That’s fine by me. Then I’ll take my leave,” Zac said as he got to his feet.
+
+He couldn’t wait to get going, and not just to get away from Astora’s stare. The Peregrine Isles held all the opportunities he needed in one package, and he’d even gotten his hands on a tool to expose invaders. The gamble truly paid off this time.

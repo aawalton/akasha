@@ -1,0 +1,133 @@
+---
+id: cb1cd42e-a475-5338-b8cb-c97c662ae0d1
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 49"
+slug: 0211-b3-chapter-49
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 211
+ownLength: 1588
+unit: words
+ownProgress: 1588
+publishedAt: 2024-09-30
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1828312/b3-chapter-49"
+royalRoadId: "1828312"
+markedReadAt: "2026-06-29T19:12:54.455Z"
+---
+
+On the planet known as HelmuthNot long before the Crimson Empire arrived on Silverfall
+
+The sounds of swords clashing and gunfire blasting echoes all across the volcanic world of Helmuth as Lucius Octavio runs straight through an enormous battlefield filled with tens of thousands of soldiers. And alongside the man runs his war horse while the two slaughter thousands of soldiers every second through the use of a scarlet energy surrounding them both. All while War himself swings a single sword one way and then another, sending shockwaves that leave the land asunder along with the people in the direction of his swings.
+
+“Everyone! Focus on War! Take him out!” The general of the military of Helmuth – a man wearing a dark brown and black metal armor along with a gas mask for the atmosphere of Helmuth standing near a large base set within a volcano near the battle – shouts while pointing at War.
+
+But no matter his orders, everyone anywhere near War immediately begins running away as soon as Lucius gets close. That or they are killed within milliseconds of stepping near his auto-kill zone. A skill that is well-known to be possessed by War. One that automatically attacks anyone he considers a target when they step within a certain range of War.
+
+And when someone of his power has a skill of that strength, it automatically kills the vast majority of people within the universe should they step within the range of his skill.
+
+Every time War swings his scarlet and silver blade destruction follows. Rapidly reducing the number of forces the Helmuth military has at its disposal as he slaughters them all over the course of several minutes.
+
+Almost as if he was just butchering the lot of them with nothing but a round of thrilled laughter while his own soldiers handled clean-up, fighting against anyone classified as enemy soldiers who attempt to flee the planet.
+
+Once over half of the forces of Helmuth have been slaughtered, War stops moving and raises his sword into the air as he sucks in a large breath. Then he speaks, his voice echoing throughout the entire planet, “Viceroy Golar! If you come out here and duel me now, I will spare the rest of your soldiers! If you do not, every last one of your soldiers will be massacred before we leave!”
+
+And without any hesitation, War steps up to his horse and climbs onto its back.
+
+At which point he waits in silence, his arms crossed with nothing but a smile on his face. The man feeling eager for his next duel.
+
+And he waits.
+
+And waits.
+
+And waits some more.
+
+Eventually he begins to frown, tapping his foot against the stirrups on his horse.
+
+After half an hour passes and no signs of the man appearing come, the soldiers of both sides simply waiting and searching for the viceroy with abandon, War finally clicks his tongue.
+
+“So that’s how it’s gonna be…” War mutters before uncrossing his arms as his second in command walks up and bows.
+
+“Word from a neighboring world is that their leader has long since abandoned the world and fled,” the second in command says without hesitation.
+
+War glances at the man, only to click his tongue once more and stretch his arms above his head. But right as he is about to raise his blade to slaughter the rest of the soldiers on the planet as he promised, his arm suddenly freezes. Then his head jerks towards the direction of a portal he had sensed opening up at one point during the war. A portal that he believes leads to the capital of the Grand Silvanian Empire.
+
+At first he wasn’t sure why that portal was opened here. Since a world like this one would never be able to open a portal to Silverfall.
+
+When he first sensed the war energy coming from the portal in spades, he was very tempted to abandon his current hunt to go there and join in the fun. But he didn’t want to involve himself with the Grand Silvanian Emperor right now. Even if he sensed Death on the other side of the portal as well.
+
+Now though…
+
+He breathes in deeply with a wide grin quickly forming on his face. Then he breathes out.
+
+His subordinate lets out a sigh, clearly recognizing the signs of what he’s about to do. Everyone else, on the other hand, shows clear shock when War immediately charges his horse straight towards the portal, ignoring anyone and everyone in the way and making them all jump away to avoid being trampled.
+
+Then he simply enters the portal without a word to either his own forces or the enemies. Leaving everyone in a confused silence until War’s second in command begins taking charge while wondering what is his life.
+
+Meanwhile War charges straight into Silverfall, shocking everyone within several thousand kilometers of the portal he entered the moment his aura spreads into the world. But he proceeds to ignore the various armies fighting with each other as he lets out a shout, making his horse begin galloping into the air towards one particular Spire.
+
+All while his gaze locks onto one particular ledge on the Spire.
+
+“Time for some fun!!!” War mutters, unable to stop a psychotic grin from spreading across his face.
+
+Aria
+
+I let out a sigh when I see War riding through the air atop his horse until he stops right over the ledge and jumps straight down from the horse onto said ledge. Then he just walks straight towards us while laughing, his gaze alternating between my family and me with a rather twisted-looking grin on his face. One that makes me question his mental health.
+
+“So you finally left hiding, little emperor and empress? It’s about damned time!” Lucius says, but despite his harsh words, he sounds and looks ecstatic about the turn of events.
+
+The empress suddenly shows a faint black and red energy flickering around her eyes as she frowns at Lucius and asks, “Did Arthur send you here?”
+
+And contrast to Lucius’s demeanor, the empress just looks irritated. Like he’s wasting her time. Which I guess he technically is, what with the curse and all.
+
+The emperor, on the other hand, looks livid. And so does Adrian.
+
+So livid that I’m pretty sure if they didn’t no doubt believe that attacking War would only prolong his time here and be exactly what he wants, they would’ve long since done it by now for interrupting us.
+
+Lucius, for his part, just laughs and exclaims, “Maybe! You can blame whoever opened that portal on Helmuth!”
+
+Probably Arthur then.
+
+“Hey, War, could you wait a few minutes?” I ask while crossing my arms, making his gaze turn towards me as he raises a brow. “Curse.”
+
+He stares for a few seconds before barking out another laugh and crossing his arms, saying, “Alright, sure, why not.” A smirk stretches across his face. “And it’s nice to see how you’ve grown over the years, little lady.”
+
+If someone else were to say that, they probably would’ve meant it by me physically growing whether in height or other areas. But I can just tell that War means it in a leveling sense.
+
+“You keep growing like that and I might be asking for a duel with you sometime in the next couple hundred thousand years,” War says, sounding excited just from the thought.
+
+“You stay away from-” The empress begins, but I interrupt, cocking my hip out to one side and tilting my head a little as I ask War, “Even though I can’t die? You still want to duel me?”
+
+I ignore the worried looks my biological family is giving me as I find myself feeling rather amused by War’s interactions with me. Even if the atrocities he’s committed over the years are more than the number of years I’ve lived. Might even be more than the number of days I’ve lived.
+
+He barks out another laugh before slamming his sword’s point down into the ledge, piercing the sword into the structure of the Spire itself. Something I’ve never managed to do myself.
+
+Damage the Spire I mean.
+
+And he did it with ease.
+
+“You’re amusing, little Death,” War says, widely grinning at me. “If we Horsemen had any romantic or sexual urges, maybe we could’ve had something. But alas.” He shrugs. “I’ll be eagerly awaiting our future duel, Aria.”
+
+Then he just kinda stands there, seemingly waiting to give us time for our remaining minutes. However many that is.
+
+Not sure how much time he’s wasted.
+
+Although it is interesting about what he said. That-
+
+“Wait, you Horsemen don’t have romantic or sexual urges?” The empress suddenly asks, drawing my attention towards her.
+
+“I know I’ve never had any myself, and my body doesn’t seem capable of reproduction from what doctors have said over the years, but this is the first time I’ve heard that the other Horsemen are the same,” I answer her with a shrug. “That’s not what you’re wanting to talk about, though, is it?”
+
+She opens her mouth to speak again, only to pause and say, “Yeah, you’re right.”
+
+Then the three bow to me and begin apologizing to me once more, albeit more briefly this time.
+
+Right. That again.
+
+Well, guess we’re basically just starting over with more time.
+
+I glance at Lucius.
+
+And a spectator.
+
+I glance back at them.
+
+Time to see what they have to say.

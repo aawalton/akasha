@@ -1,0 +1,145 @@
+---
+id: 4716c526-ed92-58c2-b871-f51dc6e9119d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 74"
+slug: 0075-chapter-74
+partOf: death-healer
+position: 75
+ownLength: 1242
+unit: words
+publishedAt: 2025-09-28
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2636107/chapter-74"
+royalRoadId: "2636107"
+---
+
+“[Soul Attunement]?” Lily asked.
+
+“[Soul Attunement] is what [Necromancers], or any Class dealing with Death Magic, use to bind the soul of the monster to them. The current projection is probably the last surviving warrior that we bound to the villa. But I can feel that it became untethered. Therefore just by existing, it’s consuming Mana and part of the lifeblood that we used while crafting the enchantments. Since its resources are running low, it’s now using your friend as its mortal tether. But that will slowly drain him. It will take a long time for the Death Knight to empty out your friend’s vitality, but you better take the tether now and dispel it.”
+
+“Couldn’t I keep it?” Lily asked.
+
+“You don’t have enough energy to maintain a Death Knight at that level. If it used even one Skill, it might not only drain all your Mana, but also irreparably damage your soul. [Necromancers] were seen as those dealing with Death, but, in reality, a [Necromancer]’s first job is to deal with souls. Now, let me infuse you with the spell. Your magical aptitude should be enough to briefly take control of the Death Knight and release it.”
+
+“Why can’t you do it? Since you can cast spells?” Lily asked.
+
+“I am tethered to the house myself. The power that woke me up, however, is running out. I can’t tether an Undead since I am, technically, an Undead myself.”
+
+Lily observed the Matriarch of the Gens Claudia and felt a shiver at the thought that she was speaking to an Undead.
+
+“Now, take my hand.”
+
+Lily did as instructed and fully expected for the ghost to pass through her as had happened every single time so far. Yet, when she felt the gentle, warm touch of Claudia, her eyes went wide.
+
+The woman smirked.
+
+“You think you become the founder of an entire Gens by not knowing great spells, Liliana Claudia?”
+
+Lily felt a rush of knowledge flooding her mind.
+
+[You have learned [Soul Attunement.]]
+
+“Normally, this would take studying, researching, and much more. You’d need a good tome to learn the art of the Undead. But this time we’ve taken a shortcut.”
+
+Lily saw Claudia’s body becoming fainter.
+
+“Now, follow the instinctual knowledge in the spell and touch the Death Knight.”
+
+Lily did as instructed, warily getting closer to the Death Knight.
+
+“It won’t hurt you. Don’t waste time,” Claudia commented.
+
+Lily swallowed hard and went up to the Death Knight, placing a hand through its giant leg.
+
+Then, she activated the spell.
+
+In a moment, she felt a gigantic drain on her Mana and Vitality and gasped. Blood and color drained from her face and she felt like she was about to die.
+
+“Good. You’ve bound it already. Now, dispel the projection.”
+
+Lily did as instructed and the Death Knight slowly looked at her and nodded. A moment later, it started emitting spectral smoke and falling apart.
+
+Lily heard two words before it fully decayed.
+
+“Thank you.”
+
+[[Soul Attunement] has reached Level 9!]
+
+Lily almost freaked out but then she saw that the spectral chains binding Sabinus had disappeared together with the Death Knight. She jumped on the altar and knelt by Sabinus’s side, immediately using one of her new Skills, [Vitality Injection].
+
+Her Mana had been taxed by the use of [Soul Attunement], but her reserves already felt much, much thicker than before.
+
+It’s the Attributes, Lily realized, disconcerted. They make an enormous difference.
+
+Sabinus’s face regained color and Lily sighed in relief.
+
+“He’ll wake up soon enough. For now, I fear we must say goodbye to each other.”
+
+Lily turned to see that Claudia was slowly disappearing.
+
+“Oh no, are you dying?”
+
+“I’m already dead,” Claudia smiled. “I’m going back to my slumber. You’ll need to level up your Necromancy Skills much more if you ever want to talk to me again. Your [Soul Attunement] should be at least Grandmaster Level and you should be at the very least Level 250 before attempting to do so. The next time we meet, unless you can tether my form, I won’t be able to wake up. All the resources in the villa have been exhausted. Even the magic of old has its limits. Just…”
+
+Claudia seemed to hesitate.
+
+“Be careful, Liliana. I suspect monsters lurk in the dark. You might face hidden challenges that will test your incredible power and talent. Rely on your blood. Rely on those whom you trust. Never rely only on yourself. That was my mistake.”
+
+And with that, Claudia disappeared.
+
+* * *
+
+Sabinus came back after Lily dragged him all the way upstairs. He was lying down on a patch of dead grass in the courtyard when he started coughing and turned on its side, vomiting bile.
+
+“Are you ok?” Lily asked, scanning her surroundings for potential threats.
+
+“What—what happened?” Sabinus said, immediately drawing on his Mana and taking his sword out. “Where am I?”
+
+“It’s a very long story. It’s been a week. I got my Class. We should go, Sabinus. I’ve just rested and recovered my Mana. How’s yours?”
+
+Sabinus touched his chest and nodded.
+
+“Mine is good. You saved me?”
+
+Lily smiled at the fox-looking young man.
+
+“I did, you useless bastard.”
+
+Sabinus smiled at her but then, a skin-curdling roar made them both turn. Acting out of pure instinct, they both leapt onto the roof of the villa and turned to witness a sight that made them both shiver.
+
+“Where did they come from?” Sabinus trembled, seeing a gigantic horde of Undead surrounding the villa. They were weirdly still, observing Lily and Sabinus on the roof like predators encircling prey.
+
+It wasn’t uncommon for hordes of Undead to roam the Dead Lands, but for this many to appear at once, and gather around a villa, and stare at them like this? There had to be at least a couple of Undead above Level 100 controlling them.
+
+“I think I got this,” Lily said, activating [Fallen Angel’s Wings].
+
+“Wow,” Sabinus said, watching as a single feather-covered, white wing sprouted from Lily’s back. A black, webbed wing, like a bat’s, sprouted on the other side.
+
+Lily tested the Skill by moving her wings a couple of times, but her Class gave her instinctual knowledge of how it worked, which was all she needed.
+
+But the moment she took Sabinus and tried to lift him, she grunted.
+
+“Oof, you’re heavy,” she said, slowly lifting them both into the sky.
+
+Most of the Undead just watched. Lily was about to make her escape, but then, predictably, many blue [Fireballs] began shooting their way.
+
+“Dodge! Let me go!” Sabinus said, immediately leaving Lily’s arms and twisting mid-air.
+
+Lily flew higher, but even more Fireballs followed her and she was forced to land back on the roof.
+
+“Liches, Undead [Mages], and worse,” Sabinus assessed, scanning the perimeter.
+
+“[Death Scan],” Lily muttered, and zoomed in on parts of the zombie horde where [Mages] were hiding. Surprised, she noticed that she could finally see levels.
+
+[Undead Fire Mage - Level 50]
+
+[Undead Fire Mage - Level 75]
+
+[Undead Fire Mage - Level 60]
+
+“There are [Mages] hiding in the horde. I can’t see the Liches yet. They might be masking their presence if they’re here.”
+
+“We need to clear the [Mages],” Sabinus said, “it’s the only way we can try to escape. Did you get anything good from your Class?”
+
+Lily smirked.
+
+“I did. Let’s do it.”

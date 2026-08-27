@@ -1,0 +1,145 @@
+---
+id: af39b980-e2c6-5539-8e9a-68a477ddda31
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 34"
+slug: 0038-b1-chapter-34
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 38
+ownLength: 1666
+unit: words
+ownProgress: 1666
+publishedAt: 2024-01-18
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1481729/b1-chapter-34"
+royalRoadId: "1481729"
+markedReadAt: "2026-06-29T19:07:09.985Z"
+---
+
+Aria
+
+After the formal ceremony comes an even more formal ball. One where even we of the Predator Division are required to wear formal attire.
+
+I let out a sigh as I walk out of the building onto the balcony overlooking the outdoor part of the ball.
+
+It’s a pain.
+
+I’ve never been a fan of formal attire.
+
+Now, I don’t have anything necessarily against it, but it just feels too exposing sometimes, while at the same time too inefficient for combat.
+
+Then again, at least it looks nice.
+
+And my disinterest in romance aside, everyone wants to look nice.
+
+Too bad that, even if I was interested in romance, I’d just outlive everyone. So I’d end up watching them die.
+
+Still…
+
+I glance at my reflection in a window as I near the balcony looking out over the party going on outside, along with the spiral staircase going downwards.
+
+…it really does look nice.
+
+I smile while looking over the hard work those maids put in.
+
+The dress I’m wearing leaves my shoulders exposed with a necklace containing both my parents’ crimson jewel along with another random round one that the maids put in to match it. Meanwhile the dress itself ends in some small black ruffles at the top above my chest, with two small pieces of what feels like silk covering thin portions of my upper arms with a red ribbon attached to each, and a red and black color scheme for the dress itself. The dress reaches down to about my ankles in terms of length, and is mostly red and black ruffles going down the front with black and silver smoothly down the sides and back.
+
+And last but not least, a bracelet and set of silver and red earrings with more red jewels in them. Rubies to be specific. Along with a rose in the right side of my hair with ribbons coming down from it.
+
+Overall, the red from the jewels, my lips, eyes, and the dress fit rather well with my relatively pale skin and the black and silver combination.
+
+After looking myself over briefly, I step all the way to the balcony’s edge where I look out over the gathered people. Most of whom are either military officers, nobles, or wealthy upper class merchants. And the moment a lot of them see me, they all raise their glasses in a wordless toast for one of the heroes of the war.
+
+I reach out and grab a wine glass from a passing server who quickly bows her head when she sees me before moving away. Then I raise the glass in response and take a sip.
+
+Parties like this are a pain.
+
+It’s not even just the formal clothing. Having to move around these parties in the first place is annoying. I’d rather be out hunting in the woods, or maybe at my favorite café.
+
+Walking around a party in uncomfortable – albeit nice looking – clothing while saying a bunch of things I don’t mean to people I don’t know but am expected to be nice to is not my idea of a good time.
+
+And all Titled Ability Holders are required to attend official parties like this.
+
+Lucky me.
+
+I lean up against the railing while taking another sip, then swirling around the glass a little as I look out at the partygoers.
+
+At least I’m not labeled a blade anymore by the state, even if I’m basically still being treated that way. It’s just that it’s the First General doing it now instead of the emperor. And the First General is getting me to help through the carrot rather than the stick. Giving me stuff in exchange for my help, unlike the emperor who tried to kill me and then realized  he couldn’t after trying dozens of ways. Even trying to leave me at the bottom of the ocean.
+
+All in all, I like the Republic, but I don’t like its leaders.
+
+Even if it’s only the emperor who is a strictly bad person, with the other generals being anywhere from good people to just corrupted nobles but not necessarily bad people, I’m still not staying in this nation after I finish my end goal mission.
+
+To kill the emperor.
+
+Another reason I don’t want to make any close ties. They may be used by the Republic to draw me back after I leave if I did.
+
+I turn to look in the direction of the Great Divide, my eyes narrowing slightly.
+
+But the invasion has given me a perfect method of getting far away from the Republic.
+
+“Introducing His Majesty, the Eighth and final Emperor of the Albarian Empire prior to its becoming a Republic, Emperor Lysandre de Pyre Voltaire!” one of the guards at the entrance to the ball within the building shouts, his voice enhanced by magic to cover the entire party. And I immediately turn around while leaning my elbows against the railing, my eyes narrowing in on the emperor as the man enters the ballroom inside of the building while wearing a fancy formal black and gray suit.
+
+And the emperor himself locks his gaze onto mine just as quickly before ignoring everyone in the ball – most of whom are ignoring him in return – to head directly towards me.
+
+After seeing that, I take a step closer to the railing until I’m leaning on it with my back before crossing my arms and frowning.
+
+Once he reaches me, he pretty much does the same and we just glare at each other for a few seconds.
+
+“Crimson, I heard that you-” the emperor begins, only to be cut off when another voice suddenly rises from a little further down the balcony.
+
+“Aria! You look absolutely gorgeous in that dress!” Major Harvey exclaims, sounding rather jubilant but also with an undertone that makes me think that she cut the emperor off on purpose as she quickly walks over. And the woman is wearing a dress that’s just as gorgeous as my own. One filled with earthly greens and warm browns that fit her long brown hair and eyes perfectly.
+
+The emperor glares at her when she arrives, but she’s not alone. Because walking next to her are the rest of the team, with the now-lieutenant colonel still wearing his military uniform for some reason.
+
+The others are wearing formal attire though. Lots of suits.
+
+Also, Snow is gawking at me before the man awkwardly looks away, likely not wanting to be seen ogling a girl who is a decade and a half to two decades his junior.
+
+I actually heard that the man is a lady’s man who is constantly trying to get with beautiful girls. Which was a surprise to hear about considering that he acts normally around me.
+
+Then again, it’s a good thing that he isn’t a creep to go hitting on young women almost half his age like that.
+
+And it’s not my problem if he goes around hitting on any woman over thirty years old.
+
+Although I will judge him a little bit.
+
+“Yes, you look wonderful, Aria,” the lieutenant colonel says, a smile touching his lips as he looks at me in the eyes while briefly glancing at the emperor.
+
+Guess they figured something about me out in the end. Which is annoying considering that I was trying to hide it.
+
+Then again, they have Harvey. So snooping is probably very easy for her.
+
+“Lieutenant Colonel Striker, it’s a pleasure to meet-” the emperor begins, only for Striker to interrupt him again by offering his hand to me and saying, “How about we go down to the tables? I’m sure there’s at least something here that might interest you. We’ve still yet to see you eat after all.”
+
+I can’t help but feel rather amused by the situation.
+
+It makes sense though.
+
+The emperor just lost the vast majority of his remaining power when the generals declared the empire to no longer be an empire at all. Meaning that there will be no more emperors after him.
+
+It’s also why no one is going up to speak with him.
+
+He’s nothing more than a rich person with a fancy sounding title now.
+
+And I can’t help but smile at that thought as I take Striker’s arm and say, “Of course. I’m sure the emperor has other matters he must attend to.”
+
+Then we all simply walk away from the man as he fumes. But the man can’t say anything. Because he has even less authority than Striker now.
+
+Once we reach the bottom of the stairs, I slip my arm out of the lieutenant colonel’s and bow slightly, saying, “You have my gratitude.”
+
+“No problem, little Aria!” Snow says with a grin on his face, only for Harvey to roll her eyes.
+
+I glance at the balcony again as Harvey says to Snow, “You didn’t even do anything, so don’t act like you’re the one she’s thanking.”
+
+The emperor is still glaring at me, meaning he clearly doesn’t have any other matters to attend to. And that fact has my smile growing slightly.
+
+Which, in return, has his glare growing harsher as well.
+
+I can’t hold myself back from chuckling at that, making everyone on our team immediately grow quiet as they turn to look at me. But I just don’t care as I take a step back and quietly chuckle to myself, covering my mouth in the process to not draw attention.
+
+“I think…” Harvey begins, “…that may be the first time I’ve heard you laugh.”
+
+“It is,” Vargas comments from the edge of our little group, and Rogers nods his head as well.
+
+Then my smile vanishes when Snow pats me on the shoulder rather harshly with a bark of his own laughter as he says, “I knew you’d open up eventually!”
+
+I elbow him in the gut and begin walking away to grab another glass of wine amidst the others’ laughter.

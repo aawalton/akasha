@@ -1,0 +1,131 @@
+---
+id: 988665c3-d444-5f7c-9c0e-3617e9664965
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,384 - Ancient Intent"
+slug: 0061-chapter-1384-ancient-intent
+partOf: defiance-of-the-fall
+position: 61
+ownLength: 2855
+unit: words
+publishedAt: 2025-11-30
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2806938/chapter-1384-ancient-intent"
+royalRoadId: "2806938"
+---
+
+The safest option would be discarding the intent instead of passing on the buck. That route was also impossible. The Killing Intent was true to its name. It existed with immutable intention, and overruling its will was impossible at Zac’s level. Just thinking about forcibly extracting it made warning sirens go off in Zac’s mind.
+
+Refining the intent with [Void Heart] was equally unfeasible. This batch of Killing Intent wouldn’t just blow [Void Heart] to smithereens, it would possibly wreck his personal Void. While the pure intent was closer to the intangible force of Heart Cultivation than Dao or energy, it was at a level far beyond his bloodline’s ability to control.
+
+It was also for that reason Zac was reluctant just to throw it away. It didn’t feel like the warriors had left it with him for no reason, and interacting with such powerful yet docile Killing Intent was a huge opportunity. Even if he couldn’t control it, the intent held tremendous research value. It was giving him a masterclass in truly harnessing the power of one’s Killing Intent. Kator’s manipulation was a paltry trick in comparison to this natural command.
+
+Hopefully his other half would see things the same way.
+
+Zac quickly went through a series of test until figuring out a viable transfer method. Using his Earthly Dao of Defiant War as a lure, Zac attracted the intent into his Duplicity Core and Soul Aperture. From there, roughly half of it moved over to his other body on its own. Zac repeated the process over and over, each cycle lessening Saṃghāta’s crushing pressure. Better yet, Zac managed to ferry over huge amounts of Crushing Death with each cycle since it followed the intent.
+
+Ninety-five percent proved to be the limit. Not because of a problem with his method, but because the first surge of Killing Intent—the one he received upon communicating with the Eternal Avenger—ignored his attempts at drawing it over. It doggedly continued its steady journey through his body, cycle after cycle.
+
+Zac was exhausted at that point, and he gave up trying any further. More than fifty bones across his body had shattered under the Crushing Hell’s punishment, and his insides felt like mush. At least he was alive, and the remaining sliver of Killing Intent didn’t add enough pressure to worsen his wounds any further.
+
+It did, however, more than double the usual pressure. Adding his weakened state from [Arcadian Crusade]’s backlash, Zac couldn’t so much as move a finger. As for finding his companions? They’d simply have to come to him. With the Sangha continuously being pushed back, his current position was possibly the safest place in Saṃghāta.
+
+Zac only had to wait ten minutes before Tavza returned to his side. He wanted to get up and greet her, but his body may as well have been glued to the ground. Zac settled for an ugly smile that he hoped conveyed that he was better off than he looked.
+
+At that point, the gains to his Imperial Merit had drastically slowed down. It matched the empire’s advance grinding to a halt. While the Sangha’s plot didn’t work out as hoped, they were still a force to be reckoned with. While the empire’s champions used slaughter to empower themselves, the Buddhist apparitions used their own suffering to be reborn with greater merit and deeper enlightenment.
+
+“I’m sorry, it took us a while to find an opening,” Tavza explained.
+
+Apart from a slightly unstable aura and weakened bloodline pressure, it didn’t look like the Sangha’s descent had caused her any major harm. Most likely, they’d retreated in time when the apparitions began appearing.
+
+It took a moment for Zac to notice that the Draugr had brought a pale-faced Ogras with her. She held the demon by his ankle and dragged him along like a sack. While Ogras was in a better state than Zac, he had clearly suffered more since they parted. His face was as pale as a sheet, and his aura was unstable. Zac could sense lingering traces of Dharma in his shadows. Ogras clearly hadn’t managed to resist the eruption as well as Tavza, and the Karmic Energy was amplifying Saṃghāta’s pressure.
+
+“Is this what counts as being immune to Karma?” Tavza continued with a shake of her head. “So much for escaping the falling Heavens.”
+
+“He’s still in one piece, isn’t he?” Ogras countered with a weak grin.
+
+Zac tried to explain his predicament was brought by something else, but all that came out of his mouth was a strained. “Auerh?”
+
+Communicating telepathically was also a no-go. That ability along with his Soul Sense had been forced back into his aperture. It was at that point the horizon lit up with golden light. Zac frowned, sensing that one of the Eternal Avengers had fallen. It was the first and undoubtedly not the last. The spiritual automatons might have unlimited lifespan, but they were spending large amounts of energy to push back the invaders.
+
+“I thought the baldies were supposed to be vegetarians. They’re putting up quite the fight. I guess they’re not too happy about having a second plane snatched out of their hands,” Ogras muttered. “Bastards who won’t even spare innocent bystanders.”
+
+“This is what you get for running around harvesting lives like they’re nothing. We’re living in the Era of Order, and Balance is Heavenly Law. You won’t have to wait for the Sangha to punish you if you two keep things up,” Tavza chided.
+
+“How about we do the sermon after we’re out of here?” Ogras said. “Girl, why are you staring at me like that? I’m sure I told you not to go falling in love.”
+
+Tavza glanced down at Ogras. “It would be quite easy for me to kill you right now.”
+
+“But then the lost son of the Abyssal Shores wouldn’t look on you so kindly anymore,” Ogras grinned, not the least fazed. “And then who’d take you on all these fun little escapades?”
+
+“Eurugh,” Zac agreed with a failed attempt at a nod.
+
+Tavza exhaled, and Zac was happy to find his treatment much better. Instead of being dragged by his ankle like a sack of garbage, Zac was hoisted under Tarvza’s free arm. Ogras muttered something about discrimination under his breath until his complaints were silenced by smacking into a piece of rubble left from the shattered boulders.
+
+“Let’s go. I’ve already traced the source of Imperial Faith. The realmgate should be there,” Tavza said, ignoring Ogras’s loud curses.
+
+For a moment, Zac glimpsed a trace of a smile on Tavza’s face. Then, the world turned into a blur as Tavza rushed off toward their next adventure.
+
+------------
+
+After witnessing Sevona’s final journey and the betrayal of her closest confidante, the dream quickly turned into a nightmare. Zac was dragged through contradictory and surreal scenes one after another, which grew increasingly twisted by the corruption. From what Zac could tell, they were scenes of the real hunts, providing glimpses of the kingdom’s past.
+
+Since Zac felt no immediate danger to his life or his mind, he allowed himself being dragged along. He hoped the taint-laden visions could provide clues of what the invaders were up to and the Lost Plane’s connection to Sevona’s Kingdom.
+
+The visions shattered before Zac could even catch a glimpse of the hunting lodge. Replacing the scenes was a deluge of Killing Intent beyond anything Zac had ever faced before. The Dream Energy was torn asunder, and Zac woke up with a gasp. He was lying on a beach made from polished stones, pelted and polished by a dense torrent of Dream-imbued rain.
+
+Following on the heels of the Killing Intent was more Crushing Death than what his other body had managed to ferry over multiple weeks. The amounts were enough to actually mimic some of Saṃghāta’s absolute suppression, and he felt as though he’d been thrown into a powerful gravity array.
+
+Neither his Soul Cores or Cosmic Core were in a perilous state. Esmeralda remained sound asleep inside the Shrine of Kanba, surrounded by a haze of Dream Energy. There was no sign of Idiche or her boat. Seeing as she was a sleepwalker, she might already have rushed into the jungle. Clearly, the narcoleptic pirate’s secondary personality had her own ideas.
+
+After taking a second look around to confirm there were no immediate threats, Zac began accommodating the transfer of energies. There was no communication crystal in [Purity of the Void], yet Zac understood something big must have happened on the other side. His human side had no choice but to take such a drastic measure.
+
+Zac arduously resisted the Crushing Death to get back in a sitting position. He hesitated a moment before deciding to stay on the beach. The forest partly visible beyond a sweeping mist would provide more cover, but it would also hold beasts, unpredictable formations, and possibly whole gaggles of doppelgangers.
+
+Meanwhile, he’d spent half an hour asleep on the beach without running into any problems. Zac took out a set of arrays to hide his presence, and the dense rain helped hide any imperfections in the arrangement. It was the very same rain Zac had seen before the vision ended, the cleansing shower conjured by Sevona sacrificing her soul and the remains of her divinity.
+
+Even today, it continued its mission. Zac could clearly sense there was widespread corruption far underground, though what little managed to emerge was erased by the rain. Zac hoped there’d be denser pockets of corruption hidden deeper in the forest. It never hurt having a little extra enlightenment on hand, and Zac had a feeling he’d soon have a lot to think about.
+
+There wasn’t much to glean from the Crushing Death pressing down on him. Its concepts were too complex, and the insights didn’t mesh with his Dao of Sealed Death too well. Saṃghāta’s energy was quickly filling up the space in his cells, which had also seen some expansion since his other half’s breakthrough.
+
+The Abyssal Ponds were about to be filled beyond capacity, at which point paths to his Personal Void would open. The Crushing Death would enter to be refined before returning as energy that could slightly advance his Eoz Bloodline. It was a crude process, but he didn’t have much of a choice. He still hadn’t seen so much as the shadow of the Eoz Branch’s true heritage, and figuring out a suitable cultivation method of such a powerful bloodline was still beyond Zac’s capabilities.
+
+It was the Killing Intent that drew Zac’s attention. It already permeated his body, forcing him into the state of intense, unbreakable clarity that only existed at the sharp edge between life and death. It was the purposeful desperation that allowed him to break through his limitations and emerge victorious in a pitched deathmatch.
+
+Entering that state in complete stillness and without immediate threats was a novel experience that brought tremendous benefits.
+
+The ancient Killing Intent was completely different to the festering resentment that lingered in the Centurion Lighthouse. It was pure, purposeful, and polished to inconceivable levels by eons of Saṃghāta’s pressure. It held the power to destroy the world yet only left faint traces as it traveled cycle after cycle through his pathways and spiritual body.
+
+There were extraordinary insights hidden in that contained furor waiting to be excavated. Zac tried to blend his own Killing Intent with the external force and was rejected with prejudice. Three weeks of introductory refinement by his Human counterpart wasn’t nearly enough to mingle with the perfected intent. It felt like he was trying to mix crude oil filled with impurities with fresh springwater.
+
+Killing Intent wasn’t an expendable resource, but reforming it was slightly draining on his mental state. In addition, the impact unleashed slivers of the terrifying force contained in the perfected intent, which struck his whole body like a hammer. Even so, Zac kept rallying and sending his intent to the slaughter, his eyes burning with fervor.
+
+The effect was miniscule, but it was undeniably there. The collisions were forging his spiritual body, moving it in the direction he’d envisioned so long. The Dao Apparition resembling himself inside his Soul Aperture rose to its feet and began swinging his axe. It neither showcased the suffocating pressure of his Inexorable Stance or the brutal fight for supremacy imbued to his Evolutrionary Stance.
+
+It was pure violence, a defiant struggle against fate and one’s enemies. War-attuned Dao flooded his body, joining his Killing Intent in the intense clashes against the foreign forces. The effect was even better. His spiritual body was the battlefield, and traces of battle was left with every defeat.
+
+Zac knew he had his path forward.
+
+The project of replacing his [Thousand Lights Avatar] with a [Thousand Axes Avatar] had been on the backburner for years, yet Zac had never made any great strides. He’d considered various approaches, such as fusing [Thousand Lights Chapter] with [Nine Reincarnations Manual]. The collisions between Life and Death would be the war that forged a Conflict-attuned spiritual body.
+
+There had always been something missing with that plan, and observing the clashes inside his body finally made Zac understand what it was. Practicing his Soul nourishing manual within the confines of a cultivation cave couldn’t represent the central Dao that propped up his path. That was not his Dao of Defiant War.
+
+What kind of conflict did his Axe-based Dao hold? He rose to the top of Earth then Zecia by bathing in the blood of his enemies, where each conquest widened his path. Why should his spiritual body be any different? He’d wash himself in murderous intent and hostile Daos, and from conflict grow stronger. This was the route he should take for his [Thousand Axes Avatar].
+
+The joy from figuring out new direction of study didn’t last long. The ancient Killing Intent wasn’t some fount of endless enlightenment, and clashing with such an extraordinary force was leaving both his Soul and Heart embattled. Not to mention, forging his spiritual body in the flames of war didn’t mean mindlessly slamming his head against the enemy like a beast. It would take time and effort to figure out a proper approach to realigning his spiritual bodies.
+
+There was nothing else he could glean from the ancient intent’s rampage, and Zac was starting to get a headache from staying in an agitated state too long while suppressing murderous urges. The Killing Intent was indifferent to Zac’s plight. It showed no inclination of leaving on its own, and hundreds of clashes against Zac’s Dao had weakened it by less than one percent.
+
+Zac got to his feet, his eyes red with agitation as he began swinging his axe according to his Inexorable Stance. It wasn’t easy. His bloodline still hadn’t dealt with the Crushing Death, and he still felt as though he was straining under a powerful gravity array. Swinging his axe helped alleviate the agitation brought from the Killing Intent, but he still felt like he’d eaten a barrelful of stimulants.
+
+He glanced toward the forest, wracked by indecision. The interiors hidden by the dense rain filled him with an unmistakable feeling of mortal danger. At the same time, swinging his axe at the air wasn’t doing it. The pressure was building and he needed release. The island decided when Zac could not.
+
+The countless pebbles on the beach began rattling and jump from thumps that rapidly grew stronger, and Zac turned toward the forest line a few miles off. Trees swayed or exploded in fiery conflagrations as a pack of roaring beasts burst onto the scene with great fanfare.
+
+Zac briefly wondered if he’d been dragged back into Sevona’ dreamland, because he actually recognized the animals from the earlier vision. They were called Unvai Drakes, natives to the mountains of Sevona’s long-lost kingdom. Rather than the territorial but reclusive species that lived in volcanic regions, these drakes looked a lot more like the tainted packs that had attacked Sevona’s party.
+
+The two dozen bipedal beasts only stopped to orient themselves for a moment before rushing straight for Zac, emitting hostility so palpable that the Killing Intent stirred with hunger. Zac initially thought they’d been attracted by his rampaging aura, then cursed upon spotting the real cause. A slack-jawed Idiche flickered in and out of existence as she ran in front of the infuriated pack.
+
+The patterned egg the size of a soccer ball firmly grasped in Idiche’s hands made it easy to put things together. Idiche had used her B-grade cloak to sleepwalk right into a Drake’s nest to rob them. That much was fine. Zac would be the first to admit he was curious what a dragon egg tasted like. What he couldn’t understand was why Idiche was bringing the whole pack back to him. Then, Idiche was right upon him.
+
+“What—!"
+
+Zac was interrupted by an egg smashing right into his face, drenching him in smoldering yolk filled with dense fiery energy. Anguished howls shook the beach as Zac wiped sulphuric yolk from his face. It looked like he’d found his release.

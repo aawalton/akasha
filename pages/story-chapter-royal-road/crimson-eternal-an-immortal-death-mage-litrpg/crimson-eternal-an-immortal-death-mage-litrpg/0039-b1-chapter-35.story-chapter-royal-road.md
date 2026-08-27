@@ -1,0 +1,151 @@
+---
+id: e9ff8c4f-6949-54e5-bcc7-d0a5851026ee
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 35"
+slug: 0039-b1-chapter-35
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 39
+ownLength: 1782
+unit: words
+ownProgress: 1782
+publishedAt: 2024-01-18
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1486167/b1-chapter-35"
+royalRoadId: "1486167"
+markedReadAt: "2026-06-29T19:07:11.972Z"
+---
+
+Aria
+
+I let out a relaxed sigh as I sip some wine at my favorite café.
+
+“Give you more forced leave, did they?” Lucas asks from his spot seated across from me, facing the wrong direction in the seat as his arms rest on the back of the chair.
+
+“Yeah,” I answer without much energy behind my words. “An entire month this time.”
+
+Turns out sending us on one ‘life-threatening and dangerous mission’ after another over and over again doesn’t look good to PR. Nor is it actually legal in the Republic.
+
+So they gave us a month of forced leave while they wrap up the cleaning of the invasion.
+
+Not like we’re needed all that much during this time anyways.
+
+The Grand Roan Empire can’t do much of anything to us until the System restrictions are gone in a few years, since they already retreated past the Gate with all of their survivors. Leaving us mostly safe from invaders. Or at least safe from them. Other invaders could always find our planet and attack during this time as well. And the Arterian Empire is surprisingly quiet for some reason.
+
+There’s a decent chance that’s because we won the war without their help though.
+
+“You have any plans during this month?” Lucas asks as I set my glass back down on the table and look out the window at the melting snow, the winter beginning to inch towards an end. Not that it’ll affect the Northern or Southern Passes much.
+
+Hmm.
+
+Plans…
+
+Well, for one, I know I’ll be going hunting on a regular basis. All of us from the Predator Division have been given clearance to do that so that we can keep training and getting used to our skills and abilities. And in some of our cases, leveling our classes.
+
+In fact, they basically gave us carte blanche to do anything we need during this month so long as it furthers our purpose to level our classes.
+
+So hunting wild animals in the forests around the capital is one part of my plan.
+
+Too bad I can’t really do more without letting the military in on how I actually level up.
+
+As for the next, maybe getting more used to fighting using soul energy. Especially considering the massive leap in my soul energy that I got from devouring the Invasion General’s soul core.
+
+I blink at that thought.
+
+Come to think of it, wasn’t that general supposed to be a prince?
+
+I stare at the glass in front of me for a few moments.
+
+Meh. Guess the emperor of the Grand Roan Empire is going to have a rather nasty surprise when he tries to revive his son.
+
+The rest of my plans… definitely gonna be visiting this café on a regular basis. And maybe I’ll actually buy some new clothes, since I don’t exactly have much of a wardrobe.
+
+Before now I didn’t actually have a home, so I didn’t have anywhere to store my stuff other than what I had on me. But now I have that new manor that’s being processed right now. So I can store my stuff there.
+
+I’m not really all that interested in clothes as a whole, but it would be nice to have more than just a couple outfits that aren’t my military uniform to wear.
+
+“Aria?” Lucas asks, snapping me out of my thoughts as I look at him again to find the older man tilting his head. “Got lost in your thoughts again, did ya?”
+
+“Yeah, sorry about that,” I apologize before answering his question, “And yeah, I do have some plans for the month.”
+
+“That’s good,” he says with a smile, only to glance behind him when the bell on the door rings and finally get up from his seat. “Well, got other customers to go see to now. Stay well, Aria!”
+
+“You too,” I tell him before focusing on my wine glass again.
+
+Okay, so first I need to go stop by the new manor to check it out. Then I’ll hunt for a bit, and maybe I might go find one of the other officers of the division and ask for a sparring match to get used to the soul energy improvement.
+
+Right now I am level 4, so I have four soul cores devoured. Those being the legate from before, the Invasion General, and two random yet stronger officers of the invaders forces. All of whom give me a nice amount of replenishable soul energy to work with.
+
+At the same time, I’m chock full of temporary soul energy from being on battlefields and naturally draining away the soul energy of the dead around me.
+
+But that energy is best saved for an emergency.
+
+I take another sip of my wine before putting it back down on the table and looking out the window again.
+
+Things have certainly moved in an interesting direction ever since this System Initialization thing began.
+
+I can’t help but wonder where things will go next.
+
+The Grand Roan EmpireNearly a month later
+
+“What do you mean their souls can’t be found?!” Emperor Vorelius Cornelius Caesar shouts, his voice echoing throughout the entire Void Temple, shaking all of the priests with instinctive fear. Fear that fades away again just as quickly.
+
+“I mean what I said, Your Majesty,” the Void Priest says with a light nod of his head, not showing any reaction whatsoever to the emperor’s shout of anger. “The souls of both your Legate Aresius Lesius and Sixth Prince Lucius Cornelius Caesar do not exist anymore.”
+
+“You filthy priest, do not lie to me!” Vorelius shouts again while rushing forwards to grab the priest by the collar, only for the void priest to narrow his eyes as a flash of black light shines throughout the temple. And mere seconds later, a figure appears. Nothing more than a silhouette in all black. But all of the void acolytes and the void priest within the Void Temple immediately bow down to the silhouette despite the emperor’s continued fury.
+
+The emperor, on the other hand, finds himself unable to move. Which snaps him out of his initial fury as he realizes exactly what he’s just done.
+
+He attempted to assault a Void Priest of the Void Temple. Within their own temple no less.
+
+No…
+
+“Emperor of the Grand Roan Empire, thou hast violated the pact,” the void spirit floating at the center of the temple declares, his voice echoing throughout the building and beyond. “How does thou plea?”
+
+The emperor quickly kneels down, unwilling to get on the bad side of any greater spirit, even if it’s not a death spirit. And he quickly exclaims, “Esteemed Spirit, a misunderstanding must have occurred. I was told that the souls of my underlings do not exist anymore.” He raises his head with a pleading look on his gruff face. “This must be false, Esteemed One. A soul cannot be erased.”
+
+A few seconds pass in silence as the void spirit continues floating there, his empty gaze locked onto his priest before he looks at the emperor once more and says, “Word has reached me. A pact has been broken. The souls devoured. Recompense must be paid in suit.”
+
+The Greater Spirit’s words send a wave of both fear and shock through the emperor. Because the emperor knows that spirits are unable to lie.
+
+Meaning something or someone in the new world is capable of completely erasing souls.
+
+Is it one of the Class S Ability Holders? It can’t be the true immortal, not with an ability that powerful already. So it has to be one of the others… but which?
+
+He is quickly reminded that he has far more important matters at hand when the Greater Spirit continues, “The Void Temple shall leave Roan. A ban hast also been placed upon all residents of the world.” The Greater Spirit then pauses as the emperor’s face fills with absolute horror. “Should more sins be committed upon the Void Temple, retribution will be swift.”
+
+Then the Greater Spirit waves his hand, making a wave of void energy flood over the temple before the emperor is teleported outside. And immediately after that, the temple itself vanishes from the planet, having been moved through the void by the Greater Spirit.
+
+Leaving the emperor to fall onto his knees in despair.
+
+“No…” he mutters, unsure of what he should even be despairing about anymore. The loss of the ability to revive his forces, or the loss of his son.
+
+The permanent, irreversible loss of his son.
+
+A true death.
+
+And yet, he still feels some slight relief. Relief that the Greater Spirit didn’t deem it necessary to eliminate his entire nation for the slight he committed out of parental rage.
+
+Silence fills the empty hill where the Void Temple used to be located for several minutes until, finally, the emperor begins to shed tears for his son. Because despite how harshly he treated him, he still cares for all of his children. In his own way.
+
+But now he’s lost one for the first time in his life. One that cannot be brought back to life.
+
+The emperor of the Grand Roan Empire lets out a howl of grief and anger merged into one as he slams his fists against the ground, sending waves of black flame out all around him to torch everything within a kilometer’s radius.
+
+Then, after going silent once more, he finally stands up and turns to look in the direction of the Gate.
+
+I should at least go bring his corpse back…
+
+He takes in a deep breath and begins to head back to the capital, preparing to send a preliminary force through the Gate to the world. A world that should be void of all life now that a Greater Death Spirit was let loose on it.
+
+But then days pass by in utter silence after the preliminary force enters the Gate without a single word coming back from the other side.
+
+The emperor and his upper nobility all grow worried about this, only for most to eventually pass it off as the planet not being safe to enter yet. As them assuming that the planet was covered in far more miasma during the Greater Death Spirits’ assault than they expected.
+
+That impression is shattered when they send the next preliminary force through wearing death element resistant armor. Armor that should allow them to survive a miasma filled planet.
+
+And the second preliminary force fails to return as well.
+
+Leaving everyone to realize one thing.
+
+There is still someone alive on the other end of the Gate.
+
+And that someone is not an ally.

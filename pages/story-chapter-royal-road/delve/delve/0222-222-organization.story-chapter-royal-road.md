@@ -1,0 +1,213 @@
+---
+id: 53ca1a45-c67b-5034-a1a8-2191f091e1aa
+page-type-slug: story-chapter-royal-road
+title: "222: Organization"
+slug: 0222-222-organization
+partOf: delve
+position: 222
+ownLength: 3724
+unit: words
+publishedAt: 2023-02-19
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1117550/222-organization"
+royalRoadId: "1117550"
+---
+
+Rain sighed, chewing unhappily on a strip of bacon.
+
+It wasn’t that the bacon didn’t taste good. In fact, it tasted phenomenal, perfectly crisp, almost like glass in the way it shattered, only to melt away in his mouth like butter. It wasn’t that it wasn’t real, nor was it that it was well past his dozenth piece. It was that it was a distraction. He was procrastinating, and he knew it.
+
+He sighed, dismissing the remains of his simulated breakfast. Getting to his feet, he walked away from the table incongruously perched atop a dune, stopping when he neared the shore. With another sigh, he closed his eyes, then spoke. “Grannybrain. Grannybrain. Grannybrain.”
+
+*pop*
+
+“Hello, Custodian.”
+
+Rain opened his eyes to see the diminutive ghost of the Warden grinning at him.
+
+“Took you long enough,” she said.
+
+Rain rolled his eyes. “One, that’s Dozer’s noise; how dare you steal it? And two, do you even know how long I actually took? I’m betting you programmed yourself to say that no matter what.”
+
+The Warden, expectedly, ignored him. Turning to the side and clasping her hands behind her back, she began pacing around him in a circle. “Let’s have a little test, shall we? What color is your soul?”
+
+“Blue,” Rain said, turning to keep up. “The same blue as my interface.”
+
+“And Sana’s?”
+
+“Pink.”
+
+“And the pyromaniac horse?”
+
+“The what horse?” Rain asked, then he recalled the incident. Dust had gotten into a crate of candles. He had been lighting them from a lamp one by one and leaving them burning all over the floor. All animal souls were faint and wispy, and most had no color to them at all. Some, though, did. Dust’s soul was tinted pale green, not unlike Stint’s. Cloud’s soul was a puffy cotton-candy wisp combining Jamus’s orange, Meloni’s yellow, and just a hint of blue. Romer and Nibs both had dark purple souls reminiscent of ink.
+
+“Chop chop, Custodian. You’re wasting power.”
+
+“Mint,” Rain responded, mad at himself for getting distracted.
+
+“Good,” Vatreece said, stopping in her tracks. “I primed you, but you didn’t say ‘red.’ That means you can See well enough for my purposes. Also, no, you shouldn’t rely on color to judge personality. Yes, the horse is your fault. Yes, he did think you were a girl for quite a while, and yes, you should talk to him about it—well, about a lot of things, really. Fire safety, first among them. No, Winter hasn’t hurt him or the other animals you’ve been bathing with it, but there’s no point trying to push them further that way. Their souls are limited by their vessels—their biology, in your terms. No amount of memory enhancement will change the structure of their minds. Besides, the three you’re probably thinking of are already across the threshold for awakening.”
+
+Rain’s jaw dropped.
+
+“It may come as a shock, but some things in your hogwash file aren’t hogwash.” Vatreece smirked. “Awakening is predicated by intelligence. Humans cross the line at age two or so, and I’ve met dogs smarter than that. In fact, I prefer dogs to children, generally. They have pleasant minds. Unfortunately, the system looks for a particular kind of intelligence, and I’ve never heard of an animal satisfying the criteria on its own. As for whether awakening animals is a good idea, consider how uneasy Ava makes you before you make a Fire Mage out of a horse.”
+
+Rain closed his mouth, then opened it again.
+
+“By my calculations, that’s precisely enough carrot to get you to shut up while I talk,” Vatreece said. “If we return to stick for the moment, remember how little time you have. Now, we have quite a few fundamentals to get out of the way.” With a wave of her hand, she conjured a shallow bronze bowl in the air in front of her. “If you would, build a bowl like this and fill it with liquid essence, as you’ve been calling it. Chop chop, Custodian. You’re wasting power.”
+
+“Seriously?” Rain said, drawing a tendril of essence from the ocean behind him. “You literally didn’t even give me a chance to do anything! And what do you mean, animals can—?”
+
+“Chop chop, Custodian. You’re wasting power.”
+
+“Damn it,” Rain muttered, his mind churning. He sculpted the bowl, condensing liquid essence to the matte white default solid before reskinning it to bronze. He took a few more seconds to make sure the metal’s luster was right, though he wasn’t sure that was important. Once it was nice and shiny, he filled the bowl from the essence stream before letting the tendril of liquid collapse and splash to the sand.
+
+“Chop chop, Custodian. You’re wasting power.”
+
+“Yeah, yeah,” Rain said, holding out the filled bowl with one hand. “One soul soup, as ordered.”
+
+“Good,” the Warden said, her illusory model of the bowl vanishing as she clasped her arms once more behind her back. “Look into it and tell me what you see.”
+
+“Okay...” Rain said, bringing the bowl back in front of him and holding it with both hands.
+
+Despite all of his progress with Reading, he hadn’t really seen any changes inside his soul, and so it remained, the essence filling the bowl appearing exactly as it had since he’d finalized his image for it. It glowed electric blue with its own inner light, evocative of Cherenkov radiation. There wasn’t enough in the bowl to significantly occlude the bottom, though, so he was left staring at his own distorted reflection in the concave metal.
+
+That can’t be it.
+
+Without needing to be chided again—thank you very much—Rain looked deeper.
+
+And as if a veil had been lifted, the image he’d painted over the true nature of the liquid essence fell away.
+
+“Urk!”
+
+The bowl fell to the sand with a thump, essence slopping away. Rain fell to his knees, squeezing his eyes shut and gripping his skull.
+
+“It takes some getting used to,” the Warden said as he struggled. “What you just glimpsed was the true form of uninvested ordered essence. Those who know call it potential. It has the potential to become anything, you see? The beach you’ve built, your kludgey embarrassment of a core, even the air you’re pretending to breathe, all of that is invested ordered essence. In short: soul.”
+
+Panting, Rain managed to open his eyes, then had to fight for his life to draw the veil back into place before he saw any more truth.
+
+The Warden was still speaking, oblivious to his distress as she paced from side to side. “Now, with you only just having managed to out-Read a fearsome level-two Sana, I don’t expect you’ll be able to make out more than a fuzzy picture. Even with that, you should be able to assess its quality. All forms of essence have a level, which you’ve been visualizing as pressure. That is wrong, wrong, wrong, or at best, incomplete. Your imagery has only worked thus far because you haven’t known any better. If you want to keep using gas as your metaphor, then you need to consider the quality of the essence as its temperature.”
+
+Taking one last shuddering breath, Rain glared at her. “You could have warned me,” he snapped, though his outrage was already fading as his mind played back what she’d been saying.
+
+The Warden, of course, ignored him. “From what you just Saw, how would you estimate the numerical quality of the essence in that bowl? If you can’t get it within five, then you’ve summoned me too soon and doomed yourself.” She paused for the barest moment. “Well?”
+
+“Bullshit, I summoned you too soon,” Rain said, struggling back to his feet. He’d had no trouble whatsoever seeing the potential’s level. It had been obvious. Too obvious. Overwhelmingly obvious.
+
+That tears it. She DEFINITELY underestimated Sana.
+
+“Chop chop, Custodian. You’re wasting power.”
+
+Rain pinched his glabella. “Level zero. Foundation.”
+
+“Good. Now dump it out and fill the bowl with chaos. You’ve actually nicknamed that one correctly. Properly, it should be uninvested unordered essence. You’ll also hear it called ‘raw essence’ or ‘natural essence’ or the like.”
+
+Gritting his teeth in anticipation of what was coming, Rain complied, reaching up to the sky and calling down an orange streamer through the faux clouds. He had to exert his will to hold it in place, even after he’d filled the bowl, displacing the air inside.
+
+“Now look,” the Warden said, pretending patience.
+
+Rain looked.
+
+He thought he’d been ready for it this time around, expecting it to be worse, even, but he was NOT.
+
+“Aurrhrh!”
+
+He vomited uncontrollably, bile and bacon bits spewing onto the sand. The shock was bad enough that he felt his grip on his inner world tremble, something that hadn’t happened in ages.
+
+“Pungent, no?” the Warden asked, ignorant of the wave of sick that had just cascaded through her. “How would you assess its quality?”
+
+“Level thirty,” Rain said, evaporating the mess. He spat. “Filth.” Dozer was stirring despite all his precautions, and he urgently sent as many soothing feelings toward the slime as he could. He couldn’t afford any interruptions.
+
+“And the bowl?” the Warden asked.
+
+“Zero,” Rain said. He hadn’t explicitly looked, but had seen it all the same. Except the chaos, everything around was level zero, including his avatar.
+
+“You are wondering why the chaos matches your level, but the ordered parts of your soul do not,” the Warden said, not as a question. She gestured around. “It is because you suck.”
+
+Rain sighed, laboriously climbing back to his feet. “Okay, ouch.”
+
+“Souls naturally structure themselves, but only in the most limited sense,” the Warden said, turning to pace. “When you earned your awakening, the system enhanced that natural structure using soul taken from the essence monster. From that point on, you have been operating beyond your natural capacity. If I must again resort to metaphor, you are a child that has been forced into an adult’s body. Only your paling is built from soul of the appropriate level, and that only because it was not done by you. What you did was rupture that carefully constructed structure, allowing external chaos to rush in and tear apart whatever natural order you had subconsciously built since your birth.”
+
+She stopped to look at him, placing her hands on her hips. “They don’t know it, but Tallheart and Ameliah are ahead of you. They’re working with potential that they have refined beyond the foundation level. Not anywhere near their actual levels, mind you. For that, training is required, which is why the system provides a guide. No, you don’t have one. Even if the system managed to find an echo for you, the seed was surely pulverized by what you did to yourself.” She snorted. “Fortunately, you have me.”
+
+She removed her arms from her hips, placing them again behind her back as she resumed pacing. “Unfortunately, my time is limited, as is yours. This topic could fill textbooks, so you’ll have to forgive me if I skip a chapter or two, and no, you are not allowed to write it down. There is more to the nature of essence—its aspect, for example—but even a pigeon could piece that together from what you already know. Do not get distracted. I need you to construct a seat for your mind from silver soul, then gird it with defenses in kind. For that, you will need silver potential, so again, we will jump ahead.”
+
+“Hang on,” Rain said, struggling. “What—?”
+
+“No,” the Warden said, turning sharply and pacing back the other way. “You can think later. Now, I need you to listen. If I could have just written it down for you, I would have.”
+
+“But—”
+
+“A natural soul is a living thing, but only one part in three, the others being your body and your mind,” the Warden continued over his protest. “None can exist without the others, and all are related by the linkages between them. That avatar you are piloting is the manifestation of your physical body in the realm of the soul. The ‘you’ doing the piloting is the manifestation of your mind, projected from the mental realm, to which you otherwise have no access.”
+
+Mental realm?! What?! Rain slapped his hands over his eyes, dragging his fingers down his cheeks.
+
+“You must fortify your mind here to fortify it there, as I have said. Do not worry about locking down your perspective. You may continue puppeting your little snakes and things as you have been, though you will need to do it through projection of will rather than the direct instillation thereof. Don’t worry. It will make more sense once you’ve untangled the mess you’ve made of yourself.”
+
+She pointed straight down at the beach beneath her feet. “Like the body, the soul has functions that may be assigned to various organs. You have made the most common amateur mistake, which is trying to glom it all together.” She began to gesture with alternating hands. “You are attempting to use one structure to gather chaos, refine chaos, link your body and soul, link your soul and mind, link yourself to the world, house the system’s constructs, on and on and on.” She slashed a hand across her chest. “Thus muddled, the function of all is compromised. You’ve not made a core; you’ve made a meatball.”
+
+She spun, then waved an arm to create a holographic diagram of a body with the organs shown in various colors. “Heart, brain, liver, lungs, and stomach. The soul is mutable, and you may choose any images you’d prefer. These worked for me when I stood where you do now.” She pointed to each organ in turn. “Brain: links the soul and the mind and serves as the font of will. Heart: links the soul and the body and circulates potential through both. Stomach: stores chaos and digests it into potential. Liver: stores potential and refines it into higher forms. Lungs: exchange essence with the world.”
+
+Again, she planted her hands on her hips as she turned to face him. “Also, skin, which counts as an organ according to you. Here, it is more than just a sack to hold your water inside. It is the very fiber of your being. Your paling divides what is you from what is not. Your self, from the void. Stop trying to breathe through it like a frog.”
+
+Rain blinked, then smiled. “You had way too much fun scripting all this, didn’t you?”
+
+“Perhaps,” the Warden agreed.
+
+Not having expected a response, he was taken aback enough to recoil.
+
+Grinning at him, Vatreece snapped her fingers. “In any event, it should be clear what you must do. I will spell it out for you, regardless. You must refine potential of level twenty-five or higher to house your mind’s projection, then build defenses around it. To begin, manually create level two potential, then forge it into a structure of level two soul, designing said structure to automatically refine foundation potential to level one. This process, you will repeat—‘bootstrapping,’ to use your word—until you have created the required volume of silver soul. You had the right idea with your little ‘sub-cores,’ but no structure of soul may manipulate essence of an equal level save through investment of will. Neither may any structure manipulate essence of a higher level than its own, even with investment. That is why you were never able to get your automation working. Ask.”
+
+Rain blinked, though it only took him a moment to realize that he did indeed have a question that stood out from the others. “If the chaos in here is level thirty, how can I manipulate it?” He pressed a hand to his chest. “Everything I’ve built is rank zero, including this avatar. From what you just said, I should only be able to manipulate rank zero chaos. Filth, even before I built this, I condensed chaos into essence—soul, sorry—with will alone. And what even is will? Is it the same thing I’ve been calling ‘will’? Just...? How? Just how?”
+
+“As I said, this is a subject that could fill textbooks,” the Warden replied with a commiserating smile. “That is just from what I know. Libraries could be filled with what I do not. To answer the question you probably asked, for I confess I did not plan for significant divergence from the script at this juncture, chaos is fundamentally different from ordered essence. It may be concentrated through simple compression, yet when refined, only foundation potential is produced. I cannot tell you why any more than you can tell me why time flows forward instead of back. Take it up with a god if you ever catch one’s ear. I’ve never managed it.”
+
+“I need to think,” Rain muttered, massaging his scalp.
+
+“I told you to do that later,” the Warden said. “I have one last thing to teach you before I go, and that’s how to refine potential. As I said, compression will not work. Just as Sana taught you to structure your soul’s outflow, you must now structure the outflow of your will. Fill the bowl again, please.”
+
+“With potential?”
+
+The Warden gave him a look.
+
+Rain rubbed at his eyes, then moved to comply, bending to lift the bowl from the sand. He dusted it off, his thoughts feeling like they’d been scattered to the winds.
+
+“Chop chop, Custodian. You’re wasting power.”
+
+“That is really annoying,” Rain said, knowing that was the point. He started filling the bowl again from the ocean, holding it up as soon as he was finished. “Okay, done.”
+
+“Look deeply. This time, apply your will as you would to a hostile soul. A pattern will appear. A resonance. You must bolster it.”
+
+“It’s there!” Rain gasped, having started his attempt before she’d even finished speaking. His third eye felt like it was watering, staring at the metaphysical equivalent of the sun, but he was growing less uncomfortable by the moment. After looking at the chaos, this was nothing. “I see it! I see the pattern!”
+
+“Don’t just see,” the Warden said. “Push.”
+
+Rain pushed, and instantly, the fragile pattern collapsed. Muttering a curse, he tried again, gentler this time, sticking his tongue out through his teeth.
+
+“This will be difficult for you, I am sure,” the Warden said. “Most awakened go their entire lives without so much as...”
+
+Rain tuned her out, rapidly getting the hang of it. After countless clashes with Sana, timing the pulses was child’s play. Indeed, very much like pushing a child on a swing, each gentle push of his will built the pattern stronger and stronger until there was a brilliant flash. The level of the liquid dropped, the remainder sloshing from side to side and glowing ever so slightly brighter.
+
+“Got it!” Rain shouted, interrupting the Warden’s ongoing instructions.
+
+“Not bad,” she said, flickering to appear lounging on a sofa that hadn’t been there before. “It only took three times longer than I expected.”
+
+“So full of shit!” Rain said with a laugh, staring at the bowl.
+
+I...might be okay.
+
+“Careful with that,” the Warden said, suddenly right in front of him and nodding significantly at the shining liquid. “Level one potential cannot be stored in a level zero vessel for long. It will degrade, taking the vessel with it.” Looking up at him, she grinned. “Liver, remember? Make sure it’s nice and hard. I recommend whiskey.”
+
+Rain rolled his eyes, though he was still smiling. The liquid was starting to steam, so he condensed it to a solid white marble of soul, which took quite a bit more effort than he was used to. He didn’t even need to test it to know it was stronger than the strongest imitation adamant he’d ever created. It looked...dense.
+
+How didn’t I see?
+
+The Warden flickered again, glitching back to her pacing lecture with no transition. “The process for creating level two potential from level one potential is the same, but with a more complex pattern. This remains the case for each step thereafter. Yes, the conversion is two units to one each time, and yes, it gets out of hand quickly. You will need to enhance the other aspects of your soul to keep up with the progression. As you’ve discovered, your feeble mind cannot affect your paling as it is now.” She raised a single finger in front of her. “A warning there, however. As your ability grows, you will begin to notice places where the system has integrated itself with your soul. Be. Careful. Those structures do not belong wholly to you. If you break one, the best you can hope for is for it to simply stop working. You are about fifty levels and a hundred years too soon to be modifying anything system-wrought. I would say that applies to your paling as well, except the modifications there are simple, by comparison, and it is already broken. It would be hard for you to do much more damage than that, though I don’t doubt you could find a way.”
+
+Chuckling to herself, she returned her arm behind her back. “Where was I? Ah, yes, refining potential. Before long, you will exhaust your stockpile of chaos. You will have difficulty maintaining your soul at its current level, even with the system’s assistance. You are already familiar with the side effects of essence starvation. If you do not wish Ameliah to scold you, you should find a highly ranked zone in which to restore yourself periodically until you stabilize. Lastly, before you ask, no, I can’t tell you how to make the actual structures you’ll need, whether for essence management or mental defense. Image is individual. Figure it out.”
+
+Turning away sharply, the Warden kept her hands firmly clasped behind her back as she stared out at the horizon. “That is all, Custodian. Summon me again when you’re ready, and I will test you. Survive, and this construct will answer what questions it can with what power remains. Oh, and one last thing.”
+
+She turned to face him, wearing a serious expression. “Now that you’ve proven yourself worth bothering with, a piece of advice.” She met his eyes, narrowing her own. “Stay away from Kev.”
+
+*pop*
+
+And with that, she was gone.

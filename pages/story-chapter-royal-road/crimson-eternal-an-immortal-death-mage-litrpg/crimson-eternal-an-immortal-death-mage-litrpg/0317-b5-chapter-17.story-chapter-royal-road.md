@@ -1,0 +1,131 @@
+---
+id: d949ad83-e9f5-5b4c-997a-72913b585e10
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 17"
+slug: 0317-b5-chapter-17
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 317
+ownLength: 1474
+unit: words
+ownProgress: 1474
+publishedAt: 2025-11-13
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2758230/b5-chapter-17"
+royalRoadId: "2758230"
+markedReadAt: "2026-06-29T19:16:35.862Z"
+---
+
+Aria
+
+I get a rather interesting surprise when I teleport down to the surface with War. That surprise being that not everyone actually recognizes me. And if some people do, they’re ignoring me to focus entirely on War.
+
+Which is very unusual.
+
+War doesn’t pay a single ounce of attention to them though as he marches straight down the streets towards The Crucible. All while saying, “There is a tournament going on right now, although it’s for the underground arenas. But you should be able to watch the surface and sky arenas have a tournament in a few years at the latest.”
+
+“That’s fine,” I tell him while looking around as we walk. “So long as I can enter the Hunter’s Spots here.”
+
+“They’re located in each of the arenas, so just follow the signs or ask a guard to lead you to them,” War says with a grin without pausing in his walk. “I’ve already given them orders to treat you with the utmost respect and to give you whatever you want.”
+
+Nice. I’m rather interested to see these Hunter’s Spots.
+
+New Hunter’s Spots are always a nice change of pace. And from what I’ve heard about the Scarlet Crucible’s Hunter’s Spots, they’re rather unique.
+
+Most likely because War has lived here for so long, and this place is absolutely brimming with war energy.
+
+So much war energy that it’d honestly probably affect me just from being here if it weren’t for my massive supply of death energy.
+
+I can certainly tell why everyone here is so big on the duels and tournaments and the like.
+
+The war energy is probably affecting them.
+
+Although another reason is no doubt the fact that they came here for the battles in the first place. But still.
+
+I glance at Raja, who is following next to us with a hood over his head to hide his appearance. Probably because if people knew he was here then he’d be bombarded with requests from planetary officials asking about Gates and the like.
+
+He is the ruler of the only nation with the capability to build and alter the Gates after all.
+
+And people only seem to be afraid of him when he’s letting off miasma. Almost like it’s some sort of trigger or something.
+
+Either that or people trying to make money are just oblivious to danger.
+
+Regardless, I return my attention to the Hunter’s Spots as we continue marching into the massive stadium. Then begin heading down the stairs in the direction of the underground arenas.
+
+From what I’ve heard, the Hunter’s Spots on the Scarlet Crucible are literally in the form of portals that lead to massive battlefields. Ones filled with all sorts of different types of mana creatures from all over the universe.
+
+And they’re all battling it out with each other in some sort of massive war.
+
+So it’s pretty obvious that the Hunter’s Spots here have been significantly affected by War’s energy, mixed with the war energy that the man’s wars and all of his stadiums already give off on their own.
+
+I have to wonder just how great these Hunter’s Spots will be for me though, seeing as they’re the most flooded Hunter’s Spots in the universe in terms of the sheer number of mana creatures in them. Just because of the amount of energy in the planet and the specific type of energy. A type that keeps them all in the same places constantly fighting each other.
+
+The only Hunter’s Spots comparable to these are the Hunter’s Spots on two other worlds.
+
+Pestilence’s home world, which I never actually got to check the Hunter’s Spot for since he never really let me leave the castle much. What with him doing experiments and all.
+
+And Famine’s home world. The capital of the Dread Empire.
+
+Both of which are just as powerful Hunter’s Spots because of the resident Horsemen living on said worlds.
+
+On another note, the sheer amount of war energy here makes me curious about just how much energy War has inside of him. It’s just too bad that the man always has his war energy on a tight leash so that it never gets out.
+
+Except when he is actually fighting in a war, that is. Then he just frees it to cover an entire planet.
+
+From what I’ve heard, at least.
+
+I’ve never seen him in the middle of a war after all. The closest to that I’ve seen is him chasing after Isabella.
+
+On the way to the underground arena, War ends up having to split off from us to deal with something that a subordinate of his tells him. So he has a guard lead us the rest of the way to a VIP booth.
+
+But oddly enough, on our way there, we pass by the waiting room for a bunch of the competitors. And I quickly find that some of these competitors are not particularly kind people.
+
+I find that out just through a couple of them having a fight in the waiting room, only for one of them to try to pull me into it. Clearly without realizing who I am somehow.
+
+Their attempt fails miserably, of course. Especially since they’re using death magic to do it.
+
+Death magic that has absolutely no effect on me.
+
+The man in question looks confused as hell, and Raja looks like he’s about to wipe him from existence. So a thought comes to me and I stop Raja from killing him, surprising the pharaoh for a second before another tournament official comes and brings him away. Seemingly about to punish him and to tell him that his match is coming up soon.
+
+After that, the guard who was escorting me apologizes to me for what just happened and continues escorting us to the VIP booth before leaving us be with a servant in the room for anything we might need.
+
+As for the room itself? It’s quite luxurious, with multiple really expensive looking areas for seating, along with an entire bar with a personal bartender.
+
+Without hesitation, I move over to said bar and begin ordering every type of wine they have here. Then I quickly begin to down them all while glancing out the one-sided glass at the underground arena. Which seems to be rather large and filled with people in the audience.
+
+I just drink through all the wine with content as I watch the people go into the arena one after another and have their duels. Only for the idiot from before who tried to pull me into his fight to enter the arena next with a rather smug expression on his face.
+
+An expression that irritates me for some reason.
+
+So thanks to that and how he treated me before, I go ahead and take away his ability to use death magic.
+
+Which leads to a rather amusing battle where the death mage is left without his magic despite his previous smug boasting to the audience. Making the battle end in a one-sided beatdown by his opponent.
+
+All while I continue drinking my wine with content.
+
+It’s still rather interesting that some of the people here don’t recognize me. But then again, I’ve been to worlds where people didn’t recognize me before.
+
+Although those worlds were generally ones without much internet access or way for pictures to get around.
+
+Still, this is one of the most visited worlds in the universe. So there’s no way pictures of me aren’t around here somewhere.
+
+It could just be my ego talking though.
+
+I continue drinking my wine while watching the battles even after the idiot is dragged away unconscious. Mostly because their opponent seemed to take some pity on them for being so weak and decided not to kill them.
+
+Which I bet will piss the guy off even more when he wakes up and realized he was ‘pitied for being weak’.
+
+The corners of my lips quirk upwards at that thought as I take a sip of the next glass of wine, only to pause and glance at the wine. Then I turn to look at the nervous but excited looking bartender and give him a thumbs-up.
+
+This one is quite good.
+
+I watch the battles for a little bit longer while feeling death energy being made all over the planet that I’m subconsciously absorbing. Something I began to do at some point. Just absorb passive death energy.
+
+And while that doesn’t level me up or anything, it does increase the amount of death energy I currently have in me.
+
+Just being on this world alone increases my energy supply.
+
+It’s probably the same for War though, but still…
+
+More importantly, I soon finish the drink before walking over and asking the bartender if he could tell me the recipe.
+
+Because it was really good.

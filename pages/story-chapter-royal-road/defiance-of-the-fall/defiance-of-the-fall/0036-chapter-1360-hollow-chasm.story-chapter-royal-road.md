@@ -1,0 +1,179 @@
+---
+id: 9fdc0499-4141-58a9-8339-1fc5f6b7ef97
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,360 - Hollow Chasm"
+slug: 0036-chapter-1360-hollow-chasm
+partOf: defiance-of-the-fall
+position: 36
+ownLength: 2847
+unit: words
+publishedAt: 2025-09-30
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2641072/chapter-1360-hollow-chasm"
+royalRoadId: "2641072"
+---
+
+Zac knew he’d just made a massive leap forward, but he couldn’t shake a pang of regret. He’d been too busy dealing with the hostile Daos and refining his heart to make a concerted push to improve his bloodline. He never overcame the barrier, and his bloodline either ran out of patience or fuel for its ascent.
+
+Zac hadn’t heard anyone mention that a failed bloodline breakthrough came with repercussions as severe as upgrading your core, but failing a breakthrough was never a good thing. The throbbing pain might mean he’d damaged his foundations or exhausted some of his potential. However, his sense of being stuffed indicated it wasn’t all bad. He might have finally replenished the resources he borrowed from his personal Void when breaking through to Late D-grade.
+
+Setting aside the matter, Zac took a look around. Esmeralda had brought him to an underground vault. Judging by the design, it was the treasury of a small clan or a wealthy individual cultivator. The materials that went into its construction seemed extraordinary, and he couldn’t sense anything beyond the wall. Given that it was Esmeralda who’d brought him here, he wasn’t surprised to find it picked clean already.
+
+There was no sign of an exit, confirming Esmeralda had used some of her abilities to sneak him inside. Zac didn’t mind, taking out a prayer mat and incense before sitting down. He needed to consolidate his breakthrough anyway.
+
+While one side worked on settling his Daos and scanning his body for lingering problems, Zac’s human half finally had a chance to assess the situation. He was at the bottom of a crater, and the surroundings didn’t evoke a sense of danger. Instead, a terrifying realization made his heart lurch just as he was about to fly out.
+
+The [Fuxi Mountain Gate] was nowhere in sight.
+
+The Margrave had used the Void Treasure to sneak up on Mox, and Zac had never managed to take it back afterward. Heart racing, Zac frantically started digging through the soil around him. Moments later, he was overcome with relief and slumped onto the ground with the [Fuxi Mountain Gate] in his hands.
+
+The Supreme Treasure looked a bit worse for wear, but the fertile soil seemed to have nourished it as it had nourished Zac. Its protective array had recovered after being damaged by Mox’s attention, though not quite to the state it was in before. Hesitating for a moment, Zac infused his will.
+
+If the outside was weakened, the interiors were the complete opposite. Zac looked at the almost-mended platform with confusion before turning his attention to the arch. The Margrave’s statue was back in its position as if it had never left; the wounds on the stone had diminished by half. That wasn’t something limited to just one statue.
+
+The whole gate had resolved nearly half the resentful Dao lodged in its scars. Along with the other improvements, the floating pieces of rubble beyond the gate had multiplied. By now, the Void Bridge looked like a string of small islands leading into the depths. Had the Margrave made some repairs on his way out?
+
+Or had the [Fuxi Mountain Gate] fed on the vast amounts of Void used in Mox’s prison without his notice? Zac hadn’t forgotten that the platform in Mox’s hidden spatial pocket was made by the First People, just like the mountain gate’s foundation. He’d planned on snatching it if possible. Things had spiraled out of control long before he got the chance.
+
+Seeing the Void Treasure so much closer to being repaired was an unexpected but welcome bonus. It might even allow for prolonged stays at this point, but the pillar peeking above the crater’s crest was a reminder that such experiments would have to wait. If his circumstances were anything like his human side, he needed to get away.
+
+Despite knowing the risks of overstaying his welcome, Zac didn’t immediately jump out of the hole. Before that, he quickly stashed a few tons of the magical soil he’d been buried in. There was no sign of Roan, but the earth in Zac’s immediate surroundings had either been brought out of the memory domain or blessed by the Earth Spirit on its way out.
+
+It still held much of the nourishing energy that had kept him alive over the past days. Not only that, the soil also retained some of the energies from the clash he’d witnessed. Zac briefly wondered if the mottled energy was actually Mox’s tainted Hope Energy, inverted by the Margrave’s mysterious scale. Sin had turned into a blessing that kept him going.
+
+When fused into soil, these lofty Daos drastically raised its value. The loam could easily be classified as at least Middle C-grade soil, far too valuable to leave behind. That went double since it still held Fertile Earth’s blessing. Even mortal crops planted in this soil would grow into Spiritual Plants.
+
+Zac muttered a curse aimed at the Heavens as he jumped out of the crater. The Tribulation Lightning must have destroyed at least half of the blessed soil. His smile quickly returned upon seeing the three new halos added to the Hollow Court’s pillar. He didn’t feel any special connection to them, but they were undeniably his.
+
+The almost blinding levels of Imperial Fate stored in his identity seal further confirmed the conclusion of Mox’s thread of fate. He’d more than doubled his accumulated Fate from already impressive levels. If his stockpile wasn’t the highest before, it definitely should be by now.
+
+Moments later, he took in his immediate surroundings, and the unexpected scene gave him a start. He was standing in the middle of a graveyard, with identical tombstones stretching into the mist. It was the last place he’d expect to appear, considering the lush atmosphere and the valuable soil.
+
+Then again, it wasn’t a normal graveyard. There was no hint of Miasma or resentment lingering in the air. It must have been cleansed by the extremely dense accumulation of Imperial Faith. The graveyard had clearly been abandoned for a long time, and Zac had to inspect two dozen tombstones before finding one whose engravings hadn’t fully eroded.
+
+It was a military graveyard, and his relative position to the pillar indicated where it was located. He was less than ten days' travel from the Hollow Court, which could only mean he’d been sent to the inner region. Naturally, that didn’t mean he could reach the court in a couple of days. Zac fully expected there to be some form of final hurdle hidden by the mist.
+
+Zac had woken up alone, but he barely had time to take out his trackers before Ogras appeared. He stopped a mile away, and only a string of shadows crept closer.
+
+“Buddy, is it safe to be around you?” Ogras asked from the tendril.
+
+“No safer than usual, but not any worse,” Zac said with a slight smile.
+
+“I’ll take it, seeing as it’s quite the improvement over the past few days. You’ve been quite hungry over the past days.”
+
+“I know; I had to trigger my bloodline to protect myself. Eat the enemy before they eat me, sort of thing,” Zac sighed as he flashed over to Ogras’ side. “Where are the others?”
+
+“Ventus jumped camp—to protect me, I suppose,” Ogras said. “We popped out right next to his handlers, and he told me to run.”
+
+“Do you think he needs saving?”
+
+“Not sure. He’s quite useful, so he should be kept safe. And considering the next stop on our journey, splitting up might be for the best.”
+
+Zac slowly nodded. “We’ll have to see how things go. What about Tavza?”
+
+“About that…” Ogras slowly said. “She didn’t happen to ambush you inside the Mousetrap, did she?”
+
+“No, why would she—” Zac stopped and looked at Ogras with suspicion. “What did you do?”
+
+“So here I was, just having escaped from Ventus and his new buddies, and I found the Draugr lass lying unconscious. She was covered in wounds that looked just like yours when you annihilated that massive Qriz’Ul back in the Void Star.”
+
+“Chaos?” Zac blurted.
+
+“I guess?” Ogras shrugged. “Anyway, I couldn’t find you, so I played it safe. Miss An’Azol is currently safely tucked away in my hideout, just slightly sealed up in restraints.”
+
+“What’s with you and kidnapping my travel companions?” Zac sighed. “How angry is she?”
+
+“After over two weeks in captivity? Her silence is becoming a bit unnerving,” Ogras grinned. “I’m hoping you can smooth things over for me. We’re heading there now. There are some dangerous things walking the graveyards, and your breakthrough must have drawn their attention.”
+
+“They? Plural?”
+
+“You could say that. You’ll understand in a second,” Ogras said with a crooked smile before leading him through the mist.
+
+“By the way, how did you find me so quickly?”
+
+“The tracker led me to your general vicinity, but something prevented me from pinpointing your exact location. Then again, you were hard to miss with those vortexes popping up. You’re lucky this place is filled with odd phenomena, which makes yours stand out a bit less.”
+
+It was at that moment they reached the graveyard’s edge, where the mist parted.
+
+“Hollow Court, indeed,” Zac muttered.
+
+He’d been spot on expecting a transcendent barrier blocking their path to the Hollow Court. The graveyard ended at the ledge of a chasm that stretched farther than Zac could see. It seemed as bottomless as the Abyssal Lake, and Zac had to fight a wave of nausea as he peered into its depths.
+
+It was as though the hole extended to the bottom of reality, actually connecting with the Lower Planes. From the depths, the Hollow Court’s pillar rose toward the Heavens, piercing a mist of fog far above their heads.
+
+Their distance from the pillar seemed to be roughly the same as the distance between the Transformation Docks and the Mercurial Court. Although, Zac was certain their true distance was significantly greater. Peering into the hole created an uncomfortable pressure on his mind. The chasm was spatially compressed.
+
+The pressure indicated they weren’t dealing with a trivial compression. Its true size was probably hundreds of times larger than the Peregrine Ocean, and crossing it could take years. Not that Zac planned to. The vast emptiness filled him with a looming sense of danger. Flying into the chasm was likely as perilous as directly entering the Peregrine Ocean.
+
+The graveyard was built into a terrace that circled the chasm. Even if it wasn’t spatially compressed like the chasm itself, it was massive. Most shocking, it wasn’t the only one. There were plateaus above, and even more below. Most held graves in varying states of decline.
+
+Countless memory lanterns floated above them. Zac wasn’t sure if he needed a Hollow Court sealbearer’s identity at this point. If he did, finding one here would be effortless.
+
+Not all plateaus held graveyards; many held fields or lush forests. The layer just below, along with a few others, contained ruins obscured by the chaotic energies of the Inverse Peak. Zac suspected they housed gates to the Lower Planes. There were also a few filled with the Lost Era’s corruption, and at extremely high densities, at that.
+
+“Just how many people are interred here?” Zac muttered. “Billions?”
+
+“There are 499 layers, as far as we can tell,” Ogras said with a solemn expression. “They rotated the crops. The fallen would be consecrated and honored for seventeen generations, transforming resentment and Miasma into Faith and Life. The soldiers' spirits blessed the fields, aiding the empire even in death.”
+
+Zac took a deep breath. No wonder it had felt like he was supported by a million people while resisting the Supreme Daos. He actually was.
+
+“That means even the empty terraces once held graves too. No wonder there are such a terrifying number of lanterns,” Zac said. “Have you figured out how to reach the court?”
+
+“We have an idea,” Ogras nodded. “I checked out those ruins. There’s a path to the Lower Planes inside, or at least a simulation of one. There’s a small memory domain inside, sort of an outpost. We have to pass through them to reach the lower levels, and there are some opportunities to gather merit. We’ve set up a temporary hideout nearby.”
+
+“So, do we just fly down?” Zac asked.
+
+“Not if you can avoid it. There are some terrifying hidden winds coming from the chasm,” Ogras shuddered. “Follow me.”
+
+The demon led him to a grave nearby. Zac watched with interest as Ogras infused it with energy, creating a small realmgate. They passed through, appearing at the layer below. Instead of heading toward the largest ruins, Ogras ran the other way. Eventually, he stopped before a smooth wall. Grabbing Zac’s shoulder, they melded with the shadows. The next moment, Zac stood inside a small cave.
+
+“Up to you now,” Ogras whispered as he fastened a Shadow-attuned Nexus Crystal to his forehead.
+
+“What are you doing?” Zac asked.
+
+“Just keeping the peace,” Ogras muttered before leading Zac into a tunnel filled with Miasma.
+
+Zac couldn’t stifle the groan upon seeing the demon’s captive. Tavza was bundled up in at least half a dozen restraints and placed in the middle of a crude energy-gathering array powered by Miasma Crystals. With her energy completely locked down, it was no surprise to Zac that she hadn’t recovered from her clash with Naruk.
+
+It was impossible to miss the familiar fluctuations coming from Tavza’s body, and Zac understood why Ogras had suspected foul play. While Zac observed Tavza, she observed him.
+
+“You’re back,” Tavza said in an even tone.
+
+“I’m sorry about the delay. I was exposed to some deadly energies,” Zac said, adding after a moment's hesitation, “Uh, are you okay?”
+
+“Not being able to access my energy is an… inconvenience.”
+
+“I’m sure. I just hope you can see things from Ogras’s point of view,” Zac said. “I’ll make it up to you somehow. I already owe you one for helping me inside the Mousetrap.”
+
+“I haven’t been mistreated, and my incarceration has given me time to consider various matters. I will not retaliate against Mister Azh’Rezak. My outcome could have been much worse.”
+
+“Girl, I’m glad you see things that way, and you’re welcome. I’m just doing my job keeping you safe,” Ogras said as he began undoing Tavza’s bindings.
+
+Zac was impressed by Tavza’s show of restraint. Her brows briefly rose with annoyance at the demon’s jab, but she didn’t so much as swing at Ogras after being freed. She simply activated her bloodline, releasing dense waves of Miasma through her body. The lingering traces of Chaos were quickly hidden by her Abyssal Death.
+
+“You didn’t—?” Zac hesitated after she was done.
+
+“I’m not pursuing the Dao of Chaos,” Tavza calmly said. “It’s still a topic worthy of study.”
+
+Zac slowly nodded in agreement. The perfected Life and Death left from his own Chaos attack was part of his inspiration for his upgraded Daos. It was a shame Chaos Energy was so volatile, or generating it would have been the perfect way to gain insights into its subsidiary Daos.
+
+“Maybe we can compare notes later,” Zac said. “I need to settle some matters. Will the two of you be fine by yourselves for a little bit?”
+
+“We should be fine. Go, settle your breakthrough,” Ogras waved. “We’ll keep each other company.”
+
+Zac stopped just before leaving the cave. “Can I ask you something? Is it possible to advance your bloodline to C-grade as a Hegemon?”
+
+Tavza looked at Zac with surprise and confusion. She held back her questions, instead slowly nodding. “It is. But not in your current state.”
+
+“Why not?”
+
+“You first need to reach Peak D-grade. Peak Hegemony means achieving perfection of the grade. As such, your body must be ready to withstand the advancement to the next stage. This includes auxiliary paths. However, few pursue such a route. Evolving bloodlines or constitutions to C-grade before forming an Inner World is exceedingly difficult, much harder than entering Monarchy.
+
+“My bloodline is one of the purest of the past generations, but I’m not confident in taking that step. Having talent and the willingness to put in the effort isn’t enough. Special treasures or encounters are necessary to break through your limits.”
+
+“It sounds like there are certain advantages to doing it?” Zac asked.
+
+“Naturally. A C-grade constitution will allow you to fight at the level of a Pseudo Monarch without their drawbacks. If anything, your situation would be the opposite. The stronger your foundations, the better the Inner World you can form. A C-grade bloodline will help you withstand the process.”
+
+“Thank you,” Zac said, lost in thought as he headed to a nearby cave.
+
+His Draugr side had already swept through his body by this point, and one thing was for sure: Monarchy might be closer than he’d expected, and it was time to start planning in earnest. Finishing the job and evolving his Void Emperor bloodline early sounded like something to be seriously considered.

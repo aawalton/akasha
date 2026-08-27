@@ -1,0 +1,155 @@
+---
+id: 6a9a43a8-6ba2-5191-931e-755903bfbbf8
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 33"
+slug: 0194-b3-chapter-33
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 194
+ownLength: 1792
+unit: words
+ownProgress: 1792
+publishedAt: 2024-08-19
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1765535/b3-chapter-33"
+royalRoadId: "1765535"
+markedReadAt: "2026-06-29T19:12:19.156Z"
+---
+
+Outside of the Spire Aria is in
+
+Louis de Warren taps his foot impatiently as he stands in front of his carriage near the station at the base of the capital city’s Spire. A Spire that has been occupied for months without a single person entering or exiting other than the one girl who was let inside by the emperor himself before that.
+
+He himself is convinced she’s dead. Because there’s no way someone at level forty-nine should be able to survive living in a Spire for three months. Especially when all she had was some storage rings on her.
+
+There’s no way she was able to store enough food in there for that long, much less that she could survive for that long.
+
+Even if she really did have a black number as some people state.
+
+Black numbers can die too. All they mean is that whoever looked at them has an abysmal chance to kill them with what they currently have at their disposal. Nothing more.
+
+Doesn’t mean they can’t die.
+
+And a level forty-nine shouldn’t be able to survive three months of constant fighting. Not in this particular Hunter’s Spot.
+
+The mana creatures inside of the first three Tiers – the Tiers a level forty-nine should be able to survive in – aren’t biological. So they will never tire and they don’t sleep.
+
+No one ever spends nights, much less weeks in the Spires alone for this very reason.
+
+It’s just suicide.
+
+Louis glares at the guards standing outside of the station, completely ignoring the dozens of nobles each with their carriages parked nearby waiting for the Spire to open again. But no matter how convinced they all are that the special privileged outsider is dead, the guards never budge. They never even look at them.
+
+And it’s pissing Louis off more than anything he’s seen in the past year.
+
+Because he’s been needing inside the Spire to gather some of the magical steel on the upper Tiers for a business associate. And the time for that deal is beginning to pass.
+
+It’s almost reached the point that Louis wants to break past the guards and enter even without permission. But then he would be punished by the emperor if he tried.
+
+So he’s left here tapping his foot nonstop. And he’s not the only one as the other nobles nearby all appear just as displeased as he is.
+
+Eventually he finally loses his patience. He leaves his carriage and marches right up towards the guards at the gate, bringing their cold gazes towards him.
+
+But before he can reach the gate, he hears a strange whistling sound coming from above. And he doesn’t appear to be the only one as he spots a lot of people looking upwards.
+
+What’s that noise?
+
+He frowns at the growing sound before turning his head upwards, only to stiffen up slightly and squint his eyes. Trying to get a better look at what’s coming.
+
+And something is coming. He just isn’t sure what it is.
+
+Whatever it is, it’s coming from the upper Tiers of the Spire. Somewhere around Tier 7, where some of the first exterior parts of the Spire are.
+
+Did a mana creature fall off or something?
+
+It’s been known to happen from time to time. A mana creature might fall off of a Spire and die on the ground.
+
+It is the reason why there aren’t any buildings or homes nearby the Spire. Just a hill.
+
+But after looking for several seconds, Louis begins to frown. Because the small black dot he had seen and thought was a mana creature grows large enough for him to realize it’s in the shape of a human. Then it continues growing larger until he realizes what it is.
+
+A human woman. Likely a crimson – the not-so-well-known name for natives of the Crimson Empire – judging by the woman’s hair and eyes.
+
+Part of him feels irritation at seeing the woman – based on her description that he was given before – that is responsible for their waiting for so long. Another part is stunned a little by how beautiful she is, with her silky white hair, glowing and ruby-like eyes, pale skin, and full figure. Beautiful enough that he immediately thinks about possibly pairing her with his son.
+
+And the last part of him wonders why the hell she’s falling out of the sky.
+
+It takes him a moment to realize she’s about to die. Because even with a black number – and he does see a black number above her head, surprising him in the process – no one can survive falling from that high up on the Spire. Not at level fifty.
+
+Shouts begin to echo out from the nearby nobles who actually care, along with the many guards here no doubt assigned to wait for her. And chaos immediately breaks out as everyone runs around trying to figure out how to stop her from dying.
+
+But Louis just sighs, knowing that no one here has an ability conducive to that task.
+
+So he just lowers his head slightly in a little prayer for the woman as she gets closer and closer, feeling like it’s a waste for someone as beautiful as her to-
+
+His thoughts cut off when he feels a wave of pain cover his body, knocking him out in an instant.
+
+Within an expensive Inn Inside of the Capital on Silverfall
+
+Shirogane lets out a groan as he leans over the open window looking out at the street with his strange TV made out of wood and metal near him playing out the news. None of which is particularly interesting to him in his current pity party of depression. One built from absolutely zero success since arriving.
+
+Every single merchant company he’s attempted to go to has sent him away without him even being allowed inside. Every noble, turned away at the door.
+
+And the two times he’s attempted to see the emperor, he got automatically teleported away just by the defenses of the palace itself. He wasn’t even able to make it to the guards.
+
+Shirogane, one of the greatest merchants in the universe ranking as an Eight Star Merchant, hasn’t even been able to open a discussion with anyone in this time.
+
+He’s tried assisting them. Giving offers that would normally be too great just to be able to speak. And giving out freebies.
+
+He’s tried talking to them. Assisting them through his personal strength. Tricking some of them.
+
+Nothing works. Absolutely nothing.
+
+And now he’s on his wits end.
+
+He groans again, wondering just when that carefree Horseman is going to finally come down from the Spire.
+
+For all he knows it could take her-
+
+“Breaking news! A woman was just seen falling down from the capital’s Spire and landing on Count Louis de Warren, knocking him out and breaking a fourth of the bones in his body in the process! Yet, unlike what most would assume, the woman got right back up and walked away after reforming completely unharmed!” Words echo from the TV near him, making Shirogane turn his head slightly without getting up from the window sill, his eyes squinting ever so slightly. And what he sees on the TV is footage of what happened, showing a woman who is nothing more than a blur crashing into the ground from the Spire above, leaving a crater and an unconscious man with shoulder-length black hair on the ground wearing a torn up suit. With some sort of flesh paste with clothes splattered across half his body.
+
+Flesh that soon reforms itself as a fully clothed Aria sitting on top of him who glances down rather awkwardly at the unconscious guy. Then she equally awkwardly stands up, grabs a pouch of coins, and tosses it on him.
+
+Before casually walking away as if that hadn’t happened.
+
+Shirogane stares with a tired, exasperated, and slightly bored and depressed look on his face at the screen as the commenter goes on talking about what’s happened to the noble since. Then he lets out a sigh and returns to looking out the window.
+
+Just Aria being Aria. Nothing new there.
+
+His thoughts quickly return to his business.
+
+Which doesn’t amount to much on Silverfall. Or anything, really.
+
+Then his phone begins to ring, making him glance at it to find the caller being Aria. And a faint smile reaches his lips as he raises the phone to his ear and answers.
+
+“Hey Shirogane, I’m back from my short trip in the tower now,” Aria says right away, making Shirogane’s brow twitch at the mention of it being ‘short’ when it lasted for three months. “Oh, right, I thought I should mention that a stalker was following me around the Spire for about a day.”
+
+Shirogane straightens up as a feeling of anger overwhelms him from those words alone and he shouts, “A stalker?! Who was it!? Are you okay?! Did they touch you in any way?!”
+
+Aria pauses for a second before answering with some minor surprise in her voice, “Oh, nothing happened. Don’t worry. The stalker left, only saying a few words. And he didn’t seem to care much about me knowing he was there. Didn’t do anything to me either. Was kinda weird too.”
+
+The Silver Merchant lets out a relieved sigh at that while leaning over the window sill again, muttering, “Don’t scare me like that…”
+
+“Aww, were you worried?” Aria comments, sounding amused in her own sarcastic and dry way. “Well, anyways, Hassan didn’t stay for more than a day.”
+
+Shirogane stiffens up at that comment and asks, “Wait, did you just say Hassan?”
+
+“Yeah,” she answers with a yawn before muttering something about wanting a nap and that she would see him in a few hours. “I need to go tell the emperor about this. I’ll be sure to ask him about you while I’m there.”
+
+“Wait a second, when you say Hassan, do you mean the Leader of the Council of Darkness Hassan?!” Shirogane asks, standing straight as a board while practically shouting into his phone.
+
+“Yeppp,” Aria answers, drawing out the p for a moment before adding, “gotta go now.”
+
+And hanging up the phone, leaving Shirogane staring at it.
+
+And staring at it.
+
+And staring at it some more.
+
+As if his gaze could burn a hole through the phone to the carefree girl on the other side.
+
+Then he finally lifts his gaze to look out the window before leaning over the sill again with a groan.
+
+Hassan… a stalker…
+
+Silence fills his room with the only sounds being those from the streets below and the birds chirping away.
+
+Why am I even surprised anymore…

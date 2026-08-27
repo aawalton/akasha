@@ -1,0 +1,187 @@
+---
+id: 7472e5e7-5bf8-5b3b-b7fd-0eb86707c457
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,381 - Idiche"
+slug: 0058-chapter-1381-idiche
+partOf: defiance-of-the-fall
+position: 58
+ownLength: 3462
+unit: words
+publishedAt: 2025-11-23
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2786716/chapter-1381-idiche"
+royalRoadId: "2786716"
+---
+
+“So you’re something called a lawkeeper, tasked with working undercover under the order of Her Majesty? And your job is to expose extradimensional invaders who have infiltrated the Mercurial Court?” Idiche slowly said, her disbelieving expression perfectly matching her sarcastic tone.
+
+“That’s it in a nutshell. Why would that be any weirder than you investigating conspiracies in your sleep?” Zac said, doing his best to keep his tone calm and gentle.
+
+For one, Idiche still held Esmeralda hostage. Secondly, the stormy waters they were sailing through were a horrible place to have a falling out, at least for Zac, who had absolutely no idea where they were. Thankfully, his earnest effort at diplomacy was finally yielding results. Idiche dropped the act, leaning back into her seat with a thoughtful expression.
+
+“Fair enough. But why did your toad rifle through my things?”
+
+“We didn’t expect the whole guild to set out for a hunt the moment we reached Explorer’s Cove. There was no time to worry about protocol. With limited time to gather intelligence, we had to focus on the upper management,” Zac said. “I don’t know what’s in your notes, but Esmeralda must have thought it pertinent to our mission. She doesn’t just steal things for the fun of it.”
+
+The last part was a bold-faced lie, sticking out among the half-truths he’d peddled for the last ten hours. Zac was even thankful that Esmeralda remained muffled, preventing her from objecting to the slight on her thief’s honor.
+
+“And you’re sure that wench isn’t the main perpetrator?” Idiche pressed for what felt like the twentieth time.
+
+“I didn’t say that,” Zac said. “The [Courtyard Compass] I showed you isn’t powerful enough to expose Monarchs. It’s also possible that she might be a traitor rather than an infiltrator. Our enemies could very well have bribed some people to help with their operation.”
+
+“That’d be just like her. Always smiling and acting all gentle when she’s actually looking out for number one,” Idiche nodded.
+
+‘Isn’t that kind of the point of the Explorer’s Guild?’ Zac mused, wisely keeping the thought to himself. He’d talked himself hoarse to somewhat get Idiche to come around to his side, and he wouldn’t ruin that by taking the side of the Vice Leader’s rival.
+
+“I’ve shared what I know now, so how about releasing my friend?” Zac asked.
+
+“She told me she’s your master,” Idiche said with a slight tug on her lips. “Which is it?”
+
+“In certain endeavors, yes. Otherwise, she’s a valued companion.”
+
+“… Fine, but just so you know. I’ll trigger a Dream Paradox if I notice any funny business. With the Peregrine Ocean providing energy, you’ll be lucky if you manage to escape before you outsiders are sent back home,” Idiche warned. “You’ve seen how the waters surrounding Sevona’s Hunting Lodge are.”
+
+“Of course,” Zac quickly said.
+
+While the interrogation technically had lasted close to half a day, most of that time had been spent with Idiche desperately navigating through a spatial storm while Zac held onto the vessel for dear life. They’d only emerged half an hour ago, at which point the rest of the fleet was nowhere in sight.
+
+When Idiche looked suspicious at how quickly Zac gave his word, he took out Everit’s lawkeeper token. “I swear on my honor as a member of the Imperial Magistrate.”
+
+“You should know that token means absolutely nothing to me. I’ve never even heard of the twenty-three departments or your magistrate before today.”
+
+“I still can’t believe the Mercurial Courts don’t teach you these things. You’re still part of the empire,” Zac muttered while stowing his token.
+
+“They do. I never said I was a good student, did I?” Idiche said, almost looking proud of her ignorance.
+
+Thankfully, the Vice Leader didn’t have him jump through any more hoops. She released her hold on Esmeralda, who immediately disappeared in a spatial flash. Zac suppressed a smile when the ripple was much stronger than necessary, causing a wave of water to drench Idiche. As for Esmeralda, she’d already retreated to the safety of her shrine.
+
+“That nasty thing could really use a beating,” Idiche muttered while expelling the water with a rotation of her energy.
+
+“She’s young and willful. Don’t sink to her level,” Zac said with a smile before turning his attention inward.
+
+‘Invader?’
+
+‘No,’ Esmeralda said with reluctance.
+
+‘That’s good,’ Zac said. While he’d guessed as much, it was nice to have confirmation. ‘You’re slipping. How did a Peak D-grade cultivator manage to capture you?’
+
+‘Don’t get me started! This girl is cheating. For one, she’s wearing an invisible cloak imbued with B-grade spirituality. Secondly, the dream state she mentioned is the real deal,’ Esmeralda said with a shudder. ‘Stay clear if her eyelids start drooping. She’s no weaker than most Early Monarchs in that state, and she wields the Dao of Dreams like an old master.’
+
+‘You think she might be a senior in disguise?’
+
+‘No, more along the lines of being possessed or housing a second consciousness from a partial reincarnation,’ Esmeralda said. ‘Whatever her deal is, she should be on our side. Her notes didn’t have a lot of valuable information, but she’s genuinely been trying to deal with the invasion.’
+
+‘And she’s not lying about being connected to the Eighth Elder?’ Zac asked.
+
+‘It’s real if her testament can be trusted, and I think it can,’ Esmeralda said. ‘Garnering goodwill with one of the elders can’t hurt, but it seems as though the lass can’t get hold of her master since the invasion.’
+
+“And you tried reporting your suspicions to the Eighth Elder but were ignored?” Zac asked Idiche to confirm.
+
+“Not ignored,” Idiche shook her head. “I think her hands are tied. Either that or she’s been forced to delve deep into the unstable realities surrounding the island. My messages won’t be able to reach her there.”
+
+Zac slowly nodded. Idiche’s experience aligned with what he’d seen in Transformation Docks and the Sixth Elder’s hints upon Zac’s arrival. The elders of the mercurial court were unwilling or unable to get entangled with the invaders. Perhaps they feared getting tainted by the Lost Plane’s corruption, knowing it might harm their true goal for the trial and constructing Grand Dream’s Omnipresence Container.
+
+“Either way, lawman, you’ll be going with me during the hunt.”
+
+“That’s fine by me,” Zac said. “Looking forward to working with you.”
+
+He was already planning on asking Idiche to team up before they reached the island, and not just because he wanted to avoid being thrown off-board. Her prophetic dreams seemed extremely powerful, and she was decked out in top-tier gear. Between his Luck and inside information and Idiche’s uncanny abilities, they had a good chance of exposing whatever the invaders plotted.
+
+Gaining the assistance of another top-tier combatant was the cherry on top. There were too many invaders for him to deal with alone unless he could figure out a way to split them up. There was also nothing that said the Explorer’s Guild was the only infiltrated faction. The other groups competing for the hunting lodge could very well be just as compromised.
+
+With a rough agreement in place, Zac started digging for information. As expected, Idiche did have some inside information as one of the Explorer Guild’s Vice Leaders.
+
+“Master called Sevona a Dream Gestalt,” Idiche said.
+
+“What’s that?” Zac asked.
+
+“When the circumstances are right, a common belief among enough people can conjure something out of nothing,” Idiche explained. “From what I understand, Sevona was the perpetual Godqueen of a small kingdom. If it existed for real, it was likely located inside a Mystic Realm with a powerful connection to the Peak of Fantasy.”
+
+“If?”
+
+“The whole thing could have been dreamt up inside the Peregrine Ocean,” Idiche shrugged. “But there should be a core of truth. The scenario is too stable to be a rootless fantasy.”
+
+“And the people of this kingdom dreamt up a goddess to protect themselves?” Zac asked.
+
+“In a nutshell. Their dreams conjured a divine kingdom, from which Sevona’s divinity descended. Each generation, a new queen was picked to become her vessel. That’s why Sevona has looked different in all the visions preceding the hunt.”
+
+“Faith and Fantasy joined hands to mimic true Divine Providence. In a sense, the kingdom was truly ruled by the will of the people,” Zac muttered. “How does Sevona’s Hunting Lodge factor in?”
+
+“We believe the lodge was built on a dimensional weak spot where the division between illusion and reality is at its weakest. The Earth Deity would be at its strongest there since it would be easier to connect to her origin,” Idiche said. “When Sevona returned to the lodge to recharge her dream-based divinity, some of it would spill into its surroundings. That’s the origin of the hunt.”
+
+There wasn’t much else the two could do before reaching the island and seeing how things played out. Idiche eventually allowed Zac to inspect the ancient arrow she’d looted in the depths of the Endless Caves, but he didn’t discover anything useful. The dried blood smeared on its tip held a very pure corruption of the Lost Plane, mixed with something Zac couldn’t recognize.
+
+It didn’t seem to come from a doppelganger or Qriz’Ul. It was possible the invaders planned on using similar relics to gather up, as the island was covered in complex Natural Formations that would leave the best explorer turned around. Esmeralda also managed to confirm it wasn’t an item from their timeline. Like the gondola they used to cross the Peregrine Ocean, it was made from materials of another time.
+
+Adding what Idiche shared about the hunting lodge, Zac started to form a theory. If the lodge was designed to breach realities, then maybe two identical lodges from parallel timelines could resonate and create a greater breach—one powerful enough to let high-grade cultivators through.
+
+The more Zac thought about it, the more troubled he became. Both he and Esmeralda had witnessed people emerging from memories, only to be fiercely attacked by the Mercurial Court’s remnant defenses. They weren’t native beings of the Lost Plane like Qriz’Ul, but it was obviously the Lost Era’s unique energy that allowed them to briefly visit present time.
+
+The Law-bending phenomenon remained limited, and Zac hadn’t seen anyone too dangerous yet. In fact, the trespassers they’d spotted were on the weaker side. The few that weren’t blasted to pieces were quickly forced to retreat into the memories. Using the present as a shortcut as freely as Zac did was out of the question.
+
+That could change if the invaders succeeded during the hunt. If they could send over powerful enough cultivators, then they’d be able to fight back against the weakened ruins. The present would no longer be a safe zone. It would become the playground of the invaders, restricting Zac’s movements while giving his enemies free rein.
+
+With that thought, Zac grew increasingly taciturn as the hours passed, and a gnawing sense of worry started taking hold. Zac knew it wasn’t baseless worry. His human half on the other side of the continent could feel the pressures of Destiny weighing on him, too, despite being inside a memory domain.
+
+Idiche didn’t try to force a conversation. She had her own worries to work through, not to mention steering her boat. Instead of trying to find their way back to the Guild Leader’s party, Idiche followed a private route. According to her, it would take them to a different section of the island where they’d be able to land unseen.
+
+Zac tried and failed to understand exactly how Idiche navigated the ocean. She used no treasures or compasses so far as he could see. If not for the winds of fate steadily growing stronger, Zac would have thought she was just winging it.
+
+Idiche proved her title wasn’t just for show. She safely navigated their small ship through two more storms before an enormous island appeared in the distance. It looked like a small continent, with more than a dozen green mountains spread across its surface. In the valleys, a lush forest waited, though the details were obscured. A dense rain covered the whole island, and it was surrounded by a band of powerful Illusory energy.
+
+“That’s perfect! The band has formed but remains unstable, so it must’ve just opened!” Idiche said with glee.
+
+Zac barely heard her. His heart was occupied by a warning of impending calamity, to the point a communication crystal had appeared inside [Purity of the Void]. Initially, guessing his other side was wondering what was going on, Zac made a quick recording of the island and his theories. But instead of questions, the Information Crystal sent from the other side only held a grave warning to stay put.
+
+“Karma? Ancient Buddhist Array?” Zac’s brows rose in alarm as he read the note, and he quickly turned back toward his navigator. “Wait, stop! I need to confirm something before we—huh?"
+
+Facing him was a different Idiche. One with a slack expression and empty eyes filled with an ancient power that immediately dragged Zac into a dream. His immutable heart extricated him in the blink of an eye, but the small delay was enough to seal his fate. A wave of pure imagination had risen beneath their boat and hurled it straight into the moat of pure fantasy.
+
+---------------------
+
+The fields were burning; the spring crops had turned into billowing pyres that blotted out the sun. The kingdom’s armies were broken, its cities ransacked. Only Aylen Gan remained standing. The officials still held out hope that the frontier settlements were untouched and that their powerful armies would return to help cleanse this blight.
+
+Sevona couldn’t share their optimism. She was bound to the world’s pulse and knew that not even the distant steppes had been spared the encroaching evil. The few that remained standing were trapped in a sea of barbarism, fighting desperately to delay the inevitable. While knowing the truth, Sevona wouldn’t bereave her people of their comforting dreams. The light of imagination was all they had in these dark times, and there was a chance for truth to be born out of falsehoods.
+
+“It’s time.”
+
+August had entered the garden, his gleaming armor mottled with smoke and scars. She could see the reluctance behind his staid face. She was no different. They both wished they could stay with their people and fight to the last breath. That wasn’t her fate, nor would it be her end. The role of a Divine Queen was to ensure the continuation of their kingdom, while the role of the holy guardian was to keep her safe.
+
+They had no choice but to keep going while their brave soldiers laid down their lives to buy them time. Sevona sighed, taking in her garden one final time before following August out of her cloister. A crowd approaching a thousand waited by the back gates, most of their faces at least somewhat familiar.
+
+They were the scholars, sages, divine craftsmen, and engineers who possessed the skills necessary to rebuild civilization from the ground up. Each master was accompanied by a group of youths whose spirits shone like stars. The hope of the next generation, the talents who would build upon the newly erected foundation.
+
+The expedition met Sevona’s gaze with a mélange of expressions. Fear, relief, and shame were the main themes. They knew the capital would fall, that their neighbors and friends would die while they slunk away. They grappled with the weight of responsibility hoisted on their shoulders, knowing the torch would go out should they fail.
+
+“We must move with haste,” Sevona said, conjuring a mount for each member.
+
+She had no choice. Real beasts could no longer be trusted, especially not for such an important task. The expense for such a small miracle was nothing, yet the divinity within her trembled. She’d spent too much over the past years, and the horror of war had turned dreams into nightmares. Sevona didn’t even dare connect to the dreamworld any longer, afraid she’d expose herself to something she couldn’t control.
+
+There was no fanfare and no lofty promises. This was a desperate retreat when all else had failed. The group slipped out under the cover of dusk, guided by August and his handpicked soldiers. They rode without stopping deep into the night. When the mounts succumbed, Sevona conjured new ones.
+
+Sevona felt the evil closing in, treating them like easy prey now that they’d left the safety of Aylen Gan’s formations. It tainted the pulse of the earth and transformed the inhabitants who relied on its sustenance. Sevona could see the eyes staring at their party from a distance; she could sense their inner struggle as they slowly lost control over their growing malice.
+
+There was nothing Sevona could do but urge her subjects to increase their pace. She could barely protect their group from the corruption, let alone the countless beasts making the forest their home. Her soldiers understood her plight and silently took over the task of finding their destination. One by one, they cut themselves with a skinning knife, deducing the path from the truths hidden in their blood.
+
+Each bloodletting diluted the blessings Sevona had imparted over the years, but there were no better options. The forest had grown thorny, and the lodge’s location wasn’t fixed. Unfortunately, the expense meant her soldiers weren’t at their strongest when the prowling beasts could no longer suppress the madness in their hearts.
+
+An earth-shattering howl shook the forest, its voice trembling with barbaric hunger and raw power. The roar alone was enough to make the artisans pale in fear and cause half the children to keel over. Sevona waved her hand, releasing a soothing fragrance that dispelled their fear-induced hallucinations. If only she could do the same with the ones eyeing their party.
+
+The call had shattered the final bonds of camaraderie holding back the denizens of the forest. A veritable flood of beasts came rushing in, led by a pack of wolves.
+
+“Open a path!” August roared, his whole body igniting with holy power as he brandished his sword.
+
+The blade fell, and the sun rose on the forest for a short moment. Countless beasts were incinerated by August’s consecrated wrath, and his elites channeled their pent-up anger into tearing apart the stragglers. Only the wolf king, whose body was so permeated by sin that it had left its sanity and the limits of its bloodline behind, remained standing.
+
+Her brave champion didn’t shy away from the crackling ball of destruction gathered in the beast’s maw. He shot forth, holding the beast down while the soldiers urged the civilians on. They rode over a sea of corpses, the intense corruption in their bodies leaving Sevona near delirious. August rejoined them, bloodied and somber, a few minutes later. He was given only a minute’s respite before the next wave hit them.
+
+Hours passed, and soldiers became martyrs one after another as they fought their way toward the lodge and their final hope of salvation. Sevona knew the lodge wasn’t powerful enough to shield them against the grand trend sweeping through the world, but it could send them far, far away. Somewhere the evil wouldn’t be able to reach.
+
+Sevona hoped it wasn’t too late, that she wasn’t too drained to open a path. Her vision was a blur from tears and exhaustion. She had no energy to spare for anything except keeping her shrinking number of subjects free from corruption. A sharp pain in her chest woke her up, and she realized there were no beasts left. There were only her and her champion, hidden in a grand illusion.
+
+“What use is a Goddess who cannot protect her flock?” August said with steely eyes as he ripped out her Divine Core. “Our fate will be decided by man.”
+
+Sevona fell to her knees, blood and divinity pouring out of the cavity in her chest. Her mind was in disarray from having her essence stripped away. The queen was fading, gradually replaced by the young, scared woman chosen to bear the burden of office all those years ago. Seeing her loyal guard place her heart into a densely inscribed sphere sparked a vague idea, bringing her back to the present.
+
+“I’m sorry I wasn’t enough,” Sevona whispered to August’s fading back. “I pray you will be.”
+
+Her vision blurred as she slumped onto the ground. She could no longer hear the calls of berserk beasts or the wails of her subjects. There was only the pulse of the earth and the dream no longer within reach. As her final act, Sevona asked for a cleansing rain that would wash the filth away.

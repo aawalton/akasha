@@ -1,0 +1,175 @@
+---
+id: d2def750-76f2-529c-bd58-82ae3f23f2e3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,368 - Sidetracked"
+slug: 0045-chapter-1368-sidetracked
+partOf: defiance-of-the-fall
+position: 45
+ownLength: 3247
+unit: words
+publishedAt: 2025-10-21
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2694497/chapter-1368-sidetracked"
+royalRoadId: "2694497"
+---
+
+Many details were still up in the air, but the outline of a plan was in place. They would adopt a two-pronged approach while continuing their exploration of the Mercurial Court. The first goal was to continue accruing Potentiality. Doing so was the most straightforward method of becoming an Inner Disciple and gaining access to the treasure.
+
+Zac neither knew the cost of upgrading discipleship nor viewing [Secondary Singularity], but he was certain that neither would come cheap. The amount of Potentiality required definitely exceeded what he had on hand, and making up for the difference by doing odd jobs like most outer disciples wouldn’t cut it. They needed to hit it big, and fast. The longer they took, the more variables would crop up.
+
+Secondly, they would investigate ways of nudging fate in their favor, like how Esmeralda sniffed out the Scripture Tower during their first visit to Citadel. This aligned with Old Sixth’s suggestion to not rush into spending their hard-earned merit. If lucky, there was a small chance they’d figure out how to engineer a fortuitous encounter with [Second Singularity].
+
+It was the optimal outcome, considering it’d let Zac use his Potentiality on other resources. And while a long shot, it wasn’t completely unthinkable. They had an advantage compared to the real disciples or Sealbearers. They could look for clues in the present and control where they entered the memories. The hidden pathway to the Scripture Tower was also exposed by the memory’s end, and there could be ways to exploit the phenomenon.
+
+Zac stashed [Shattered Sky Scripture] inside [Purity of the Void]. Like the [Foreign Gods] tome, impurities began pouring out of the scripture when exposed to the purification space’s unique energy. While uncomfortable, it posed no danger. From there, Zac proceeded to disintegrate the pedestal and its formation with [Void Mountain].
+
+There was no need to preserve the hidden reading nook. It couldn’t be used as a safe house since each entry would drain the [Court Cycle Token], and at least one Qriz’Ul knew about it. Esmeralda had also confirmed she didn’t recognize the Repository Tower’s surroundings. The Mercurial Court’s ruins were spread out across a gossamer of spatial folds and illusory domains. Each time they moved inside a memory, they were likely to emerge in a new place.
+
+The chamber rumbled as Zac added some deep cuts for good measure, and Esmeralda quickly brought him out of the building. Both exhaled with relief when the arrays didn’t try to stop them.
+
+“That’s quite the ability you have. Very convenient. Perfect for a thief’s apprentice,” Esmeralda said with interest.
+
+“Don’t expect me to do the same with [Second Singularity]. I’m not ready to go supernova,” Zac said upon seeing Esmeralda’s calculative expression.
+
+“Fine.” Esmeralda rolled her eyes. “Did you get anything from closing the loophole?”
+
+“286 Potentiality,” Zac whistled after checking the token. “Restoring the base might be more effective than fighting unless we can farm points through wholesale slaughter of low-grade Qriz’Ul.”
+
+“It should be about impact,” Esmeralda said. “That ugly thing probably didn’t have much bearing on the future. It would never have managed to break in and corrupt the arrays on its own. The doppelgangers we saw infiltrate the trial earlier would be different. They hold significant potential to create havoc, and they’ve already redrawn the future by stepping into someone else’s shoes.”
+
+Zac agreed. “There are also the doppelgangers you saw sneak around while I was unconscious. The ones with the ability to enter memories are probably worth a pretty penny, too. Well, there’s no time to waste. Let’s get to work. Ideally, we’ll monopolize the resources of this place before Kaltosa Lu and his minions can catch up.”
+
+While their theory about the doppelgangers and Qriz’Ul was sound, it needed to be verified. The two spent the next hour carefully exploring the corrupted zone pushing up against the Scripture Tower. It wasn’t difficult to see why the Qriz’Ul wanted to ruin what was left of the tower’s spirituality. Setting aside its defensive perimeter that prevented the corrupted zone from expanding in its direction, it also acted as a focal point to gather Imperial Faith.
+
+Even in ruins, the Mercurial Court’s environment was exquisite, with extraordinary levels of ambient energy and Imperial Faith. It all came from below, seeing as there were no memory lanterns—including above the memory domains and memory winds—and the faith was very effective at combating the Lost Era’s corrosion.
+
+The toppled tower was like a stubborn stump whose roots dug into the dead zone, continuously draining its power. Not being overrun by the outpouring of Imperial Faith was already proof that the dead zone was more powerful than most corrupted areas they’d passed over the past months. Esmeralda’s doppelganger wasn’t the only Qriz’Ul either; there were throngs, most of them between Late E-grade and Early D-grade.
+
+In contrast to the alternate timeline invaders, they were pure Qriz’Ul. Most of them only had vaguely humanoid shapes until they saw Zac, at which point they turned into hollow mimicries of his Draugr heritage. The shapeshifting ability was the result of prolonged exposure to the Mercurial Court’s specific spirituality, which gave them innate abilities connected to space or illusions.
+
+They didn’t find any more Qriz’Ul as intelligent as the one that took on Esmeralda’s appearance. The ones staying inside the corrupted zone seemed to lack the ability of speech, even sapience. Zac guessed Esmeralda’s doppelganger had absorbed some memories from the tower, gaining intelligence the same way as the Centurion Base’s possessed puppets.
+
+Zac only bothered slaying a few dozen Qriz’Ul before giving up. Weaker Qriz’Ul didn’t even give a single point in Potentiality. He had to kill over a dozen before gaining one measly point, with each battle risking drawing deadly attention. They instead tried to look into the source of the corruption, since closing a tear to the Lost Plane could possibly reward a huge amount of Potentiality.
+
+The corruption reached dangerous levels long before they reached the zone’s heart, and the Qriz’Ul grew stronger. Avoiding exposure in the inhospitable environment soon became too much even for Esmeralda, and the rapidly approaching fluctuations of a C-grade Qriz’Ul forced them into a frantic retreat.
+
+While they didn’t manage to scout the zone’s center, the excursion at least allowed Zac to fill the proverbial tank with Dead Dao. With corruption sprouting all over the Mercurial Court, it was only a matter of time before he finished the design of his Peak D-grade Core blueprint.
+
+The two spent a few more hours exploring the ruins, failing to find anything of significant note. Relying on his Luck and Esmeralda’s experience, they managed to unearth a few decent treasures stowed away in forgotten corners. None of the resources were of immediate use, but Zac still happily stowed them in his Cosmos Ring.
+
+Zac had almost run out of tradable resources after his visit to the bazaar in the Transformation Docks. Meanwhile, the items they uncovered were stashed away in hidden treasuries and underground vaults, so they had to be useful for the Mercurial Court’s Disciples.
+
+“We must head over to the markets later. We’ll steal the Mercurial Court’s items and sell them right back. It’s the perfect business model,” Esmeralda giggled. “Do you think the loot will reappear in the ruins after we bring it with us to the past?”
+
+“Maybe,” Zac smiled. “But it looks like finding ways to change the trajectories or whatever is much harder.”
+
+Apart from closing the Scripture Hall’s loophole, they found only a single opportunity in a residential building. Like the Scripture Hall, it faced the threat of being swallowed by a corrupted zone. A simple patch restored its defensive array, awarding a modest 2 Potentiality. The Outer Court Token wasn’t any help, either. It didn’t point in any direction while on the outside, at least not right now.
+
+Zac spent most of his time experiencing the Mercurial Court’s unique nature. Like Esmeralda said, the ruins were in a constant state of change. It wasn’t just the memory winds leaving small alterations in their wake. It was almost like the island was alive, with a profound pulse thumping deep underground. If that were the case, it was Imperial Faith that ran through its veins, affecting its surroundings as it passed.
+
+Eventually, the town protecting arrays forced them to a halt by warning that they were encroaching on restricted grounds. The concept of seizing destiny through free exploration didn’t extend to the present. The Mercurial Court had been militarized before it fell, with clear borders and severe restrictions.
+
+Zac’s identity as an Outer Court Disciple wasn’t enough to keep going, and taking out the [Court Cycle Token] didn’t help. There was no lack of low-security remnants to explore, but the benefits of random exploration had proven limited. Apart from the Scripture Hall, they hadn’t encountered any valuable facilities.
+
+“I don’t get it.” Zac scratched his head in confusion. “There’s just no way the Mercurial Court is this big. From what we gathered, there were fewer than a hundred thousand disciples. Even if you add the Servant Disciples, there’s no reason for there to be this many buildings. Are these ruins real, or are they part of Citadel’s high-grade illusions?”
+
+“Maybe it’s both. Or neither. Maybe that’s the point?”
+
+“It’s okay to say that you don’t know something,” Zac said with a roll of his eyes.
+
+“Don’t get snippy just because you don’t get it,” Esmeralda sniffed with a raised nose, unwilling to concede defeat. “Let’s just go back inside.”
+
+Minutes later, Esmeralda brought them to one of the stationary memory domains. They weren’t too surprised that it worked the same as the memory wind, confirming that the different rules of operation were related to the Mercurial Court rather than the memory type. They were back in the sprawling illusory city, and the token once more pointed in six directions.
+
+It didn’t take long to find a disciple to ascertain which signal represented the residential districts. Six hours later, Zac had a vague intuition he was about to reach his destination. He passed through a thicket, and a small gate waited on the other side. Following his intuition and the token’s guidance, they’d arrived at a real location—real as far as things went inside a memory domain.
+
+It was a tranquil street with detached houses, with some nature spruced between for further privacy. A few manors were open, using trees and bushes for privacy. Others, like the building before him, were walled in, only providing a glimpse of the eaves behind. Zac’s instincts told him the whole neighborhood would disappear if he tried to fly up to peek into the courtyards, forcing him to retrace his steps.
+
+Zac knew the building before him was his, and the gates opened when Zac pushed his token against them. The whole building shuddered at that point, and Zac felt his connection to this spot growing stronger. Going forward, it should be easier to find his way back home. The building was a lot like his temporary residence back in the Transformation Docks, though the energy wasn’t quite as impressive as what he enjoyed in the First District.
+
+He only inspected his new home for a few minutes before getting ready to leave. They’d already stayed inside the memory longer than last time, and he still had no idea what decided when he’d get booted again. He needed to make the most of each visit.
+
+Before leaving, Zac took out three disks from a cupboard by the front door, claiming the manor had provided some information, including the purpose of these disks. They were essentially calling cards you could hand out to other disciples, which would help them find your manor. Otherwise, it wasn’t certain a guest could find his particular street.
+
+Zac placed the three calling cards and an Information Jade inside a mailbox by his gates. It held the order to call for his attendants. A Servant Disciple would come pick up the invitation and make the necessary arrangements. The attendants would hopefully be waiting in his manor the next time he returned, along with the promised remuneration.
+
+A creak from the building next door made Zac turn back just as he was about to leave, and he was surprised to find he actually knew his new neighbor.
+
+“It’s you?”
+
+“Senior Draom?” Jisi blurted, quickly closing the door and hurrying over. Her face held a mix of emotions: surprise, confusion, joy, and even a hint of annoyance. “It’s really you!”
+
+“It looks like you were spared the Sixth Elder’s attention,” Zac said with a smile.
+
+“You’re really testing fate,” she whispered. “But it’s good that you’re here. I feared you’d encountered an accident after going missing for a month. I’ve even gone out to look for you a few times.”
+
+A month?
+
+“Uh, I got sidetracked. Citadel is more interesting than I expected,” Zac slowly said while trying to mask his confusion. “Has it been a month already?”
+
+“Twenty-four days, to be exact,” Jisi nodded. “Senior, you need to be careful. A few illusions can trick your perception of time, and there are even locations with a different time flow. Thankfully, such danger zones are very rare on Citadel’s outer rim.”
+
+“I’ll keep it in mind,” Zac said.
+
+Zac was sure they hadn’t entered any different temporal flows. If nothing else, he would have noticed when the Quantum Link broke. He was almost certain they hadn’t been turned around by illusions, either, but he asked Esmeralda to be sure.
+
+‘We didn’t lose time on our way here, right?’
+
+‘Definitely not. This has to be connected to our leaving the memory. Maybe different domains happen at different times? Or maybe this memory is accelerated? We were barely outside for six hours and lost twenty-four days. That’s a difference of a hundred times,’ Esmeralda said. ‘How odd. There was nothing like this for the week you were knocked out.’
+
+‘We’ll add the mystery to the pile,’ Zac said with resignation before focusing on Jisi.
+
+“Either way, I’m here now. I’ll be relying on you going forward. In fact, I wanted to ask you something. How much Potentiality does it cost to become an Inner Disciple?”
+
+“Become an Inner Disciple?” Jisi said. “The cost is individual, and it changes with time. You can check your price by heading over to the markets. The general exchange hall is located there.”
+
+“Are there any other ways? Cheaper ones?”
+
+“Accumulating fate will lower the cost. I hear certain encounters are valuable enough to make the leap in one go, but such things aren’t public knowledge. You’ll also become an Inner Disciple automatically if you successfully form your Inner World,” Jisi slowly said, her eyes suddenly growing wide. “Wait, never mind that! Please, could you wait for a moment?”
+
+“Huh? Why?”
+
+“One second! I’ll be right back,” Jisi said, adding before scurrying off, “Please don’t wander off again.”
+
+“What’s that all about?” Esmeralda muttered from her perch atop Zac’s head. “Should I follow her?”
+
+“Let’s see how it plays out,” Zac shrugged. “We need to find some threads of fate that can increase our income generation.”
+
+Zac started to regret his decision when Jisi returned accompanied by two powerful cultivators a few minutes later. One of them was among the deathsworn soldiers who’d assisted Astora Theomore in cleansing the docks of invaders. Zac didn’t recognize the woman by his side, but she was also a royal guard. Judging by the markings on her lapel and her vast aura, she should be some form of leader.
+
+While both were Peak D-grade cultivators, the captain emitted an absolutely monstrous aura. She seemed no weaker than the D-grade Saints interred in Empyrean Chalice’s Pilgrimage of Faith—powerhouses who could cross the grades and slaughter Monarchs outright.
+
+Zac had fought his fair share of Monarchs and Beast Emperors by now, but he still hadn’t reached that point. Adding whatever hidden aces the captain possessed, Zac doubted he could win in an outright clash. His only hope of victory would be a surprise attack relying on the Void. Not that Zac planned on fighting Astora Theomore’s bodyguards.
+
+If it came down to it, escape would be safer, and it wouldn’t break any rules. Esmeralda could give anyone the slip among the Citadel’s confusing and ever-changing streets, and stepping out of the memory would let them disappear for weeks on end. Except, was there any need to do so? They needed Potentiality, and Astora Theomore would be at the center of the fight against the invaders. Seeing as much of the trial would still take place inside memories, he might as well try to use his connection with Astora to his advantage.
+
+“Again, I apologize for the wait.” Jisi curtsied toward the soldiers before turning to Zac. “I had the luck of encountering Her Royal Highness shortly after we met. Upon learning I had some connection to you, Her Highness tasked me with finding you again.”
+
+“I see. Give us a moment, would you?” Zac said. Jisi quickly nodded and returned to her own manor.
+
+“You are Everit Draom?” the captain asked with a glimmer of interest.
+
+“Indeed I am. How can I help you two?”
+
+“Her Highness would like to continue your previous conversation.”
+
+“Right now?” Zac asked.
+
+“Indeed. The infiltration of false Sealbearers and their helpers is more extensive than we originally believed. Her Highness is gathering trusted allies to combat the invasion before the empire’s interests are harmed. Given your background, Her Highness has specifically requested your attendance.”
+
+“Of course. Can’t have those nasty creatures running around. I already regret I didn’t kill a few more of those things before I set out to sea,” Zac said while looking back and forth between the two deathsworn.
+
+“Please, this way,” the captain said with a slight smile as she led Zac back the way she came from. “I hear you effortlessly killed one of the invaders?”
+
+“I wouldn’t say effortlessly. Those shapeshifters possessed the same abilities as their originals, and I’ve had some run-ins with Xinyi before. Seizing victory so quickly was a matter of knowing your target and striking like thunder,” Zac explained. “Well, the disgusting energy those monsters carry also seems to make them a bit stupid, like aggressive beasts.”
+
+“Knowing your target, huh?” the captain slowly nodded. “Is that how you dealt with your own and your companion’s doppelgangers so quickly?”
+
+“Pardon?”
+
+“The princess asked me to investigate you before she embarked. I discovered that you and your friend appeared out of nowhere with no sign of corrupted invaders. I assume that’s because you had already killed yours. Or did the false realm not target you for some reason? Did you know something would happen, seeing as you left the ceremony early?” The captain’s smiling expression belied the barbs hidden in her words. “I’m also very curious as to why Sage Xiphos tried to apprehend your accomplice.”
+
+“How did we go from friend to accomplice in a few sentences?” Zac frowned. “And you’re barking up the wrong tree. My friend is connected to Lord Grand Dream. I’m sure you can figure out the rest from there. Now, where are we going?”
+
+“What do you mean? We’re here,” the captain said as she pushed open the gates of an outer court manor. “Come, Her Highness is waiting inside.”
+
+“Ah?” Zac gawked, looking back where he came from. His own manor was just around the corner. “We’re actually neighbors?”

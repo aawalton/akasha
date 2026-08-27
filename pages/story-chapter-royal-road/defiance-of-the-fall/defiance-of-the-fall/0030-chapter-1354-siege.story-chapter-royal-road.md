@@ -1,0 +1,139 @@
+---
+id: cc797c8d-b239-51e8-8c96-56f76c9d402f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,354 - Siege"
+slug: 0030-chapter-1354-siege
+partOf: defiance-of-the-fall
+position: 30
+ownLength: 3174
+unit: words
+publishedAt: 2025-09-16
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2605585/chapter-1354-siege"
+royalRoadId: "2605585"
+---
+
+The winding pathway had led the elite strike squad within five miles of the Pathfinders’ star-shaped fortress. Once a research facility, the building had become the faction’s headquarters following the opening of the realmgate and had been reinforced accordingly. Here, the Rosemore Sect’s rule-based suppression was at its weakest, and the area was flooded with the oily Hope Energy. It not only suppressed Zac and his temporary allies but also fueled the base’s defensive arrays.
+
+Dozens of array towers were already bombarding the base, which retaliated with three attacks for every one it received. The war would have spread to the distant cities if not for the shimmering runes glittering in the air. They were the Evi’Shi shelter’s Law-based restrictions that kept the chaos contained.
+
+Halvar’s squad and three others had emerged at the same time. There was likely meant to be a fifth squad, judging by a crater filled with bubbling lava. Only a handful managed to claw their way out of the collapsed tunnel below, all of them in miserable condition. Nevertheless, they had to join the other squads in their shared suffering.
+
+The advance squads immediately attracted a significant portion of the attacks. It didn’t stop them from rushing toward the base. The scream of danger in Zac’s mind took on a more urgent tone, but a series of engraved stone plaques twenty meters across appeared before Zac could activate [Empyrean Aegis].
+
+These plaques brimmed with pure energy, which they used to supercharge the Evi’Shi runes floating in the air. The incoming attacks were suffocated like a fire without oxygen, and the hardened elites could endure what remained with some effort. The pressure intensified as they drew closer, and a sudden collapse within their ranks added to the mounting burden.
+
+Two of Halvar’s right-hand men suddenly erupted with the corrupted energy of the Lower Plane. Their auras skyrocketed, and they used this boost in power to ambush their leader. Halvar was not the only target; more than three dozen sect members turned traitor simultaneously, disrupting the critical push.
+
+Zac’s ingrained experience made his body move before his mind could register what was happening. [Verun’s Bite] roared as it descended on a traitor’s head while Haro closed in to restrict. Zac didn’t expect to secure a kill in one blow. The traitor’s aura had surged from Late Hegemony to Pseudo-Monarchy in an instant, and he had already activated a simple but sturdy defensive skill.
+
+It was too early to expose the Void, so Zac planned to keep the traitor occupied until others could deal with him. A series of pulses rippled through the vanguard, creating a window to accomplish more. Both the ambient Hope Energy and what empowered the traitors were completely locked down.
+
+The traitor didn’t have time to react as he was pushed back down to Late Hegemony. [Verun’s Bite] tore into the back of his head while a dagger impaled his heart. Zac’s Evolutionary Dao was actually pushed aside by a more ruthless concoction courtesy of Halvar himself. The Early Monarch had acted even faster than Zac. He didn’t just release the pulse and stab his two followers to death; he even managed to kill three traitors with a hidden crossbow fastened to his wrist.
+
+“You think I didn’t know?” Halvar grinned as he pulled his dagger out of his subordinate’s chest.
+
+Similar scenes unfolded across the four advance squads, and the revolt ended as quickly as it had begun. A few traitors managed to drag an enemy or two with them to the afterlife, while others succumbed to the base’s relentless bombardment. Still, it could have been much worse.
+
+“Quick reaction. Still, the credit goes to your subordinate,” Halvar said.
+
+“His calculations are something else,” Zac agreed.
+
+Ventus and Ogras hadn’t altered the memory domain’s trajectory too much, allowing the Numerologist to anticipate certain trends. The vast majority of the Rosemore Sect was marked for death due to this mission and its fallout. The others were likely traitors. The sect was already aware of a few turncoats, which lent more credibility to Ventus’ list.
+
+The failed ambush still achieved part of its goal. Their already dwindling numbers decreased further, and the delay caused additional strain on the protective plaques. Two had collapsed after losing too many of their controllers. Even so, the advance squad successfully erected a second offensive perimeter, allowing the sect’s main army and War Arrays to draw closer.
+
+Altogether, the sect had assembled a million-man army. Zac was convinced they’d really brought out their entire roster. The attackers ranged from Middle E-grade cultivators all the way to the Middle Monarch leading the charge. E-grade cultivators typically couldn’t make much of an impact on a C-grade battlefield. This battle was no different, but they still played a vital role. The plaques ran on Cosmic Energy, and the hundreds of thousands of E-grade cultivators could sustain them a while longer.
+
+The pressure on the Pathfinders multiplied when the whole army unleashed everything they had onto the protective shield. They fought with a ferocity Zac hadn’t anticipated. After all, they were risking everything to seal the Mousetrap’s only tangible path to freedom. Although it wasn’t was not necessarily rooted in loyalty to the Empire.
+
+The main reason for the sect’s hardline stance was the credible signs that the Evi’Shi shelter’s subspace would destabilize once the realmgate fully activated. The shelter would become a sinking ship, and the Pathfinders would determine who would get on the lifeboats. The Rosemore Sect couldn’t afford that risk after millennia of accumulated grudges.
+
+It was the right call. The Rosemore Sect’s members were the only ones free from Hope Energy. No matter how Mox’s plan unfolded, that uncomfortable concoction was part of it. Zac still had a nagging feeling, and not just because the Late D-grade Barrier held against the assault. There was something else at play, something eluding his grasp.
+
+Zac trusted his instincts, which only made him more anxious to get on with his own mission. However, the Rosemore Sect would never break through the barrier at this rate. The War Machines in his Spatial Ring couldn’t change the outcome, and the barrier’s strength exceeded what he could pass through. Meanwhile, the sect was rapidly losing momentum under the relentless barrage from the walls.
+
+‘Have you pinpointed the array’s weaknesses?’
+
+‘It’s based on one of the Empire’s antiquated models; there are plenty of loopholes to exploit. However, all of them are on the other side. There isn’t much I can do in short order,’ Tavza promptly answered.
+
+‘That’s fine. Just tell me what to break. Someone else will open a path,’ Zac said, and Tavza marked out the weak spots.
+
+If a clueless outsider could see the problem, then the Rosemore Sect certainly could too. Warriors were dying left and right just to put strain on the shield. They wouldn’t have opted for such a desperate strategy unless they had an ace up their sleeve to crack open the turtle shell. Even if it failed, it would create an opportunity for Zac to act.
+
+Zac's claim was proven right within seconds. A blinding streak of swordlight crossed the shelter in an instant, stopping just above the fortress. Inside was Tustul Rosemore, the ultimate authority within the Rosemore Sect and the most powerful being in the Mousetrap.
+
+Reaching Late Monarchy in the Mousetrap’s inadequate environment was a testament to Tustul’s extraordinary talent. This humanoid nuclear weapon was the deterrent that had kept the Rosemore Sect safe despite their enemy’s rapid growth, and the reason the Pathfinders remained holed up inside their fortress.
+
+Not even the Pathfinder’s Chancellor, who relied on Hope Crystals, could compare, though this was partly due to a difference in focus. The Chancellor wasn’t a pure combatant like Tustul or Zac. As such, he wasn’t willing to emerge and face his nemesis head-on. Instead, he remained hidden, controlling the eight frenzied streams of chaotic destruction rising from concealed arrays.
+
+Tustul stood unmoving like a mountain before the incoming onslaught. He raised his ancient sword, which blazed with a blinding aura of Imperial Faith. Streams of power poured into the weapon from every corner of the shelter, and a familiar willingness to sacrifice appeared on the edge. Tustul was burning Lifeforce, and large quantities of it. Zac was forced to his knees by the pressure along with the rest of the attackers, and his eyes bled from the effort of keeping his gaze fixed on the scene.
+
+The blade descended, severing Dao and imposing order on the chaos. The golden scar on reality overwhelmed the Evi’Shi runes as it fell. Tustul had poured everything into the strike, and it seemed capable of overturning Destiny. It held enough destructive power to kill Zac a hundred times over, yet his Danger Sense was completely unaffected. The sublime control ensured that the full weight of the Sect Leader’s wrath was focused on the barrier.
+
+The Chancellor’s array was utterly incapable of contending with the attack. At most, it exhausted the strike by a fifth. Suddenly, a million runes appeared across the protective barrier, each sealing a twisted creature inside. A few were vaguely humanoid, but most were things that could only be dreamt up in feverish dreams.
+
+These were the nightmare creatures Ventus had mentioned, fused with the barrier and transformed into batteries. Countless additional layers sprang up over the main barrier. The golden line cut through them all, but each victory came at the cost of momentum. Only half of the force remained when the sword struck the barrier. That was enough to push the shield to its breaking point.
+
+The barrier flickered as a million nightmares were sliced into ribbons. The pressure was so immense that the defenders inside were knocked to the ground. Zac knew this was his chance. [Verun’s Bite] became a blur, finishing its arc before Tustul’s sword. A storm of Life and Conflict surged forth, creating an absolute chasm filled with boundless possibilities at its center.
+
+‘Deal with the left one!’ Zac urged, grabbing a surprised Tavza and rushing through the path he’d opened.
+
+They appeared right before the heaving barrier in an instant. It was so weakened it had turned translucent, but it was still not something that could be torn apart with an attack or two. Zac didn’t have to. A vibrant forest sprang from the ground with impossible speed, and Zac breathed out in relief at seeing [Apex Jungle] proliferate beyond the weakened barrier. His skill would never have made it through without Tustul draining the barrier to an acceptable level.
+
+Zac dragged the Draugr into the nearest tree before it had time to fully form, and they appeared right by the fortress walls before anyone registered his actions. The sect leader’s monstrous attack delayed the Pathfinders’ reaction, and a vast domain of Abyssal Darkness bought Zac a moment more.
+
+Shallow cuts from Tustul’s attack appeared across Zac’s body. His mind, screaming of imminent disaster, foretold it was only the beginning. Relying on the Void to sneak through the barriers was no different from putting a target on his back. The time he had before Mox located him had gone from hours to minutes. Not to mention, there were over a dozen Monarchs gathered inside—not a force he could deal with himself.
+
+All his restrictions were lifted. Seven Hidden Nodes roared with unified purpose while Dao, Void, and multiple forms of Energy rampaged through Zac’s body. Calamitous forces gathered as Zac appeared before one of the formation eyes in a flash. His left palm slammed into the rune with enough strength to shake mountains.
+
+A hidden protective layer appeared out of nowhere, effortlessly dispersing the force. It didn’t fare as well against [Void Mountain]’s fully powered Dao-annihilating infusion. It flickered and collapsed, exposing the glowing runes behind. Meanwhile, Zac harnessed his palm attack’s recoil to accelerate his follow-up swing.
+
+Oblivion and War fused into a pitch-black blade thrumming with annihilation. It drew a meter-long and equally deep gash across the sturdy wall, utterly destroying the array eye. At the same time, a deafening crash came from Tavza’s side. Tavza had deployed an array breaker that worked even better than [Extinction Event]. A section of runes the size of a barn door had completely shattered, leaking energy like a sieve.
+
+The defensive array might have endured one critical section being damaged, but two proved too much. The outer walls promptly exploded like they’d been crammed full of dynamite, overwhelming the countless attacks pouring down on Zac’s head. Tens of thousands were killed by rubble, and thousands more succumbed to a tremendous shockwave of Hope Energy.
+
+The explosive backlash was far beyond Zac’s expectations. The unstable Hope Energy and fusing nightmares into the shield must have left it extremely unstable. Zac couldn’t outrun the blast, so he surrounded himself with a wall of thorns and activated a defensive talisman. He was battered and bruised by the time the shockwave had passed, feeling like he’d been sent through a meat grinder. Still, he’d survived without wasting [Empyrean Aegis].
+
+Zac could barely see beyond his hand because of the dust, and the churning Hope Energy blinded his senses. That played in his favor as Tavza found him through the mark. Apart from her hair and clothes being disheveled, she’d made it through just fine. She must have anticipated the fallout and prepared accordingly.
+
+‘You can remove the mark,’ Zac said, readying himself for the next step.
+
+None of the locals had expected the barrier to collapse just seconds into the battle or for it to create such a spectacle. It completely ruined the Pathfinders’ plan to exhaust their enemies before safely taking them out, and Tustul was the quickest to react to the shift in fortune.
+
+“Go!” he roared from above, rallying his waning aura.
+
+Tustul swept away the smoke with a flourish of his sword. The first thing Zac saw was three Early Monarchs being torn to shreds before they could react. Tustul didn’t get the chance to thin their numbers further before a streak of fire shot out of the fortress. The Chancellor had no choice but to face his opponent, or Tustul would singlehandedly take out the whole faction. To the Chancellor's aid, he had two Middle Monarchs and a twisted creature stronger than those fused to the barrier.
+
+The war couldn’t have developed in a better direction if Zac had written the script himself. With the Pathfinders’ third Middle leading the defenses, all the known peak combatants were accounted for. As long as the Rosemore Sect’s sole Middle Monarch could keep the third target occupied, Zac only had Early C-grade enemies to worry about.
+
+Of course, even he would fall if enough Peak Hegemons joined hands. The siege was fast turning into a chaotic melee with Zac caught in its center. Attacks were coming in hot from every direction, including vast swathes of destruction unleashed by Monarchs. Meanwhile, Zac's instincts were muddied by the rapid increase of danger from Mox closing in.
+
+While putting him in extreme danger, Zac’s current position was where he could inflict the most damage. Zac had already activated [Primal Edict] before passing through the barrier, and the countless spores spread across the battlefield were ready to sprout. Vines empowered by Evolutionary Daos, strengthened by multiple Hidden Nodes, and invigorated by [Conformation of Supremacy] appeared in shocking numbers.
+
+Energized by the dense bloodlust in the air, the writhing swarm pounced on the defenders with voracious glee. Vines were destroyed by the thousands every second, but that wasn’t enough to stop Life’s eternal war. The vines incorporated the lessons of their demise, adapting to counter the Hope Energy while regrowing with greater resilience. In some ways, the Monarchs responsible for most of the destruction were teaching nature to better kill their subordinates.
+
+The expenditure of maintaining [Primal Edict] through cycles of destruction and rebirth was immense, but the skill was still Middle D-grade. Zac’s Late D-grade Cosmic Core could easily bear the cost. Most importantly, Zac was considered a peak combatant within the Mousetrap, and the Pathfinders only had a few dozen members who could comfortably deal with the skill.
+
+When faced with a modern skill augmented by Zac’s superior Daos and Attribute Pool, even Middle Hegemons had their hands full just staying alive. [Primal Edict] alone occupied nearly half the Pathfinders’ elite forces, drastically lessening the pressure on the Rosemore Sect. While the sect couldn’t understand where the timely assistance came from, the elders didn’t hesitate to capitalize on the opportunity.
+
+Tavza had hidden the two in a cocoon of Abyssal Oblivion that only a handful could see through, and those people were already elites on the Rosemore Sect’s must-kill list. Zac shifted from Ent Elder to Stalker form to better blend with the chaos. Doing so weakened the vitality of his plant-based skills, but it allowed him to take out a few troublesome characters in quick succession.
+
+Zac moved like a ghost across the battlefield, unleashing a lightning-quick burst of violence before disappearing as quickly as he arrived. He intentionally avoided any Peak Hegemons and the tougher Late D-grade cultivators. Zac was confident in defeating any enemy below Pseudo C-grade, but he couldn’t take them out of commission in a single exchange.
+
+Two dozen captains lost their lives or were mortally wounded in seconds, causing disarray among their subordinates. Zac could tell that the battle still favored the Pathfinders. The weakened Tustul was being suppressed, and the defenders were gradually restoring order. To add insult to injury, new nightmares kept spawning to assist the defense.
+
+Zac still slipped into a tree and disappeared, joining Tavza, who’d made her way deeper into the forest. He didn’t have time to fight the Pathfinders. The Rosemore Sect would have to rely on themselves while he dealt with the real mission.
+
+“This way,” Tavza said with heartening certainty, leading Zac through a hidden passage into a large underground complex.
+
+The Hope Energy was even denser underground, and the corridors were clearly part of a large-scale array. Immense energies were gathering, and Zac frowned when he noticed a strong Dao of Sacrifice coming from above. It was all gathering toward the heart of the labyrinth.
+
+“The Pathfinders were counting on the attack. The bloodshed is part of the ritual needed to open the passage,” Tavza said, echoing Zac’s suspicion.
+
+“Let’s give them the final push,” Zac muttered as he took out his communication crystal. “We’re inside.”
+
+Ogras responded shortly after. 'Everything’s ready. We’re starting it up.'
+
+There was fighting in the background, but Ventus and Ogras had held up their end. The change was nearly immediate. Zac couldn’t sense the rise in ambient Cosmic Energy over the suffocating levels of Hope Energy. However, it was impossible to miss the tremendous eruption of Inverse Dao in the depths, and Zac’s Danger Sense reached critical levels. The last barrier had been lifted.
+
+Zac stared into the darkness, and the darkness stared back. It was time to discover who was the predator and who was the prey.

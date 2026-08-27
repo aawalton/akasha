@@ -1,0 +1,141 @@
+---
+id: 13ea7da6-f520-5744-8d0c-3f31ed1b9b68
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 45"
+slug: 0116-b2-chapter-45
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 116
+ownLength: 1467
+unit: words
+ownProgress: 1467
+publishedAt: 2024-03-01
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1538079/b2-chapter-45"
+royalRoadId: "1538079"
+markedReadAt: "2026-06-29T19:09:54.039Z"
+---
+
+Aria
+
+After the little scamp steals my drink, Azura brings me another one.
+
+“Why are you two here anyways?” I can’t help but ask both the brother across the bar and his sister who is still sitting on my lap simply sipping at the soda she swiped from me.
+
+Little Blue – the nickname I decided to give her just because it fits – raises her head to look straight up at me as she says, “I’m in charge of this region!”
+
+That has me blinking down at her for a second before I glance at Azura, who nods his head and answers, “It’s normal for royals of our family to be given control of a city region along with our usual Mercenary Company once we’re five years old. But it’s mostly just a formality to teach us how to manage it while putting someone else actually in charge.”
+
+Oh. That makes more sense.
+
+Although I can’t help but feel that five years old is a little young to start teaching them how to manage a company…
+
+“I’m here because it happened to be my turn to babysit,” he says while glancing at the child on my lap. A child who frowns at him at the mention of the word babysit.
+
+“I don’t need a babysitter,” she says while clenching her little hands on the glass in her hands and shrinking inwards a little bit with an adorable pout that makes me pat her on the head. An act she seems to enjoy a little, considering that I feel her relaxing slightly.
+
+“Yes you do,” Azura passively comments before focusing on me again and speaking to me again, “On another note, would you like to head to the capital with us?”
+
+The little one on my lap gets upset with his first comment only to suddenly grow excited at the second as she turns around towards me, surprisingly being careful with her drink despite her excitement, and says, “Oo! Yes! Please come Riri!”
+
+I raise a brow at her before asking, “By the way, is there any particular reason you’re calling me that?”
+
+She frowns for a second and tilts her head before removing her right hand from her glass and pointing at Azura as she says, “Azu calls you little Riri, so I thought that was your name?”
+
+I almost facepalm.
+
+Would’ve done it too, if it weren’t for needing to keep an arm around the child to make sure she doesn’t fall off or anything.
+
+“Hey little Neri, what do you think about calling her Aunty Riri instead?” Azura asks, making me instantly turn a scowl on him.
+
+But the child in my lap doesn’t notice as she starts smiling and says, “Okay!”
+
+I open my mouth to speak out against it, only for her to turn back to me with a wide and innocent smile on her face as she says, “Aunty Riri!”
+
+The sheer innocence in her sparkling blue eyes makes me pause for a second before I pat her on the head and tell her, “How about we stick with Riri, okay?”
+
+She tilts her head, only to shrug and answer, “Okay!”
+
+At least I got rid of the aunty part.
+
+Also, I can’t help but notice a certain merchant snickering to our right. Until he notices my death glare and shuts up that is.
+
+He’s gonna regret that later.
+
+I turn to Azura, who is trying to hold back a snicker.
+
+Him too.
+
+“You never answered,” Azura points out, seemingly trying to change the subject from my death glare.
+
+Oh. Right.
+
+“Is the capital the closest place to the Grand Ocean?” I ask as the little ball of energy in my lap turns around, facing her brother again while resting her head on my chest and still sipping what was originally my soda.
+
+And by now I think the guards in the room have just resigned themselves to their very un-princely and un-princessly behavior. Since they’ve stopped twitching and flinching and all.
+
+“Yep,” Azura says while sitting down on the other side of the bar on a seat I didn’t see before now. “There’s a ferry heading there every morning and back every night.” Then he raises a brow. “Or you could just swim the distance if you want. You’re not exactly in danger considering who you are.”
+
+True.
+
+But I’d rather not have to deal with swimming so much every day.
+
+“I’ll come to the capital with you then,” I tell him, only to remember that Little Blue sounded excited. So I tilt my head a little and ask, “Wait, is Little Blue coming along?”
+
+He raises a brow slightly at my nickname for her, but the princess herself just lets out a short giggle. Proving that she seems to like it as she continues sipping at that soda.
+
+“We were both summoned to the capital not long before you arrived for the annual Winter Ball,” he says before glancing at Shirogane and asking, “You planning on coming as well, Silver Merchant?”
+
+Shirogane finally looks up from his phone for the first time during this conversation as he glances at everyone staring at him – except Little Blue who is just looking down at her drink – and says, “Yeah. I’m her contracted merchant, so I go where she goes.”
+
+That gives me pause as I remember the whole thing about me having spent seven years on Luk’tar.
+
+Come to think of it, has he even been leveling in this time? I still can’t see his level, so I can’t tell. And he never fights, so…
+
+“You know, Shirogane, you can always take some time off if you want to go level,” I tell him with a slightly worried frown on my face, only briefly glancing at the princess as she pulls out a white and blue cell phone. Something with holograms on the screen that actually pop out when she pinches her fingers on it.
+
+That’s kinda cool.
+
+He looks at me with more than a little surprise on his face before he smiles, surprising me by the fact that he apparently isn’t in business mode right now. Despite the prince and princess being here. Then he says, “It’s fine. I’ve already leveled up several times during our time on Luk’tar, so I’m not lagging behind.”
+
+I blink at that in surprise.
+
+“I’m a merchant, Aria,” he says, the emotions on his face fading again. “I don’t level from fighting. I level from doing business.”
+
+Oh, right. I forgot about that.
+
+Well, that’s interesting.
+
+Come to think of it, I don’t think I noticed this before, but does Shirogane look a little older than when I first met him almost a decade or so ago? Because I swear he looks a little older. Not much, but a little.
+
+I didn’t really consider the fact that others are still aging, even if their every one hundred levels doubles their lifespans and makes them revert back to their prime. With them still aging after that based on a percentage of their full lifespan.
+
+With fifty percent of their lifespan being about the same as a fifty year old person before the System. Using one hundred years as a basis since that’s the average lifespan for someone in the System.
+
+And if about eight or so years means only a little change for him… I’d rather not do that math in my head. But that’s still a high enough level for it to not matter.
+
+Of course, I could probably ask him his level and he wouldn’t bother hiding it. But where’s the fun in that?
+
+Plus he is neutral in battle so knowing his level won’t matter to me.
+
+On that note, I was in Luk’tar for about seven or so years ish. And it’d been about six and a half years since I saw Azura back in the Grand Tree during that mission.
+
+I glance down at the child on my lap.
+
+So if she’s just eight years old, doesn’t that mean she was born not long before I even arrived on Luk’tar?
+
+That’s odd to think about.
+
+That she’s only about as old as what I genuinely thought of as a short adventure.
+
+Guess my sense of time really is going out the window.
+
+The girl in question raises her head to look up at me while tilting it a little and still sipping from the straw in her drink.
+
+I pat her on the head before turning to Azura and asking, “So when are we going to leave?”
+
+He stands up from whatever seat he was on as he answers, “Right now work for you?”
+
+I feel a little surprised before nodding. “Sure.”
+
+Looks like I’m going to the capital now then.
+
+I wonder what it looks like?

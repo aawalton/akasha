@@ -1,0 +1,157 @@
+---
+id: 52e67ec2-d6da-544f-9717-1778eb0c6eaa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,338 - Lawkeeping"
+slug: 0013-chapter-1338-lawkeeping
+partOf: defiance-of-the-fall
+position: 13
+ownLength: 3145
+unit: words
+publishedAt: 2025-06-16
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2361724/chapter-1338-lawkeeping"
+royalRoadId: "2361724"
+---
+
+Seizing Everit Draom’s lantern wasn’t a chance encounter like stumbling onto Tam Brooks’ lantern inside the storm. It was the culmination of hard work. Everit was actually one of the leads Zac found during his first visit to Dawndeep Bastille, and it had taken another memory domain to narrow down the search.
+
+The effort made the discovery all the more rewarding. Everit’s lantern was unmatched in ferocity. Only a few standouts they’d seen inside the inner region could compare. It held both a powerful connection to the Mercurial Court, and Everit even cultivated the Dao of Death. While it was fused with the Dao of Order, it felt like a match made in heaven.
+
+The honeymoon phase was short-lived. Problems cropped up the moment Zac went to challenge his first trial, and they followed him all the way to the Transformation Docks. Zac sighed and reluctantly made his way for the door. He could tell there’d be no rest unless he made an appearance.
+
+Zac took a deep breath before kicking the door open, putting his weight behind the strike. The reinforced gate was still stopped mid-swing by a single hand, and the huge momentum Zac imbued was effortlessly dispersed. Five people wearing matching uniforms waited outside. Three Late Hegemons were lined up at the back, one looking angrier than the next.
+
+Their fury was nothing compared to the stormy expression of the Monarch who’d been banging on his door. Only a second Monarch, a local by the looks of it, had managed to rein in his temper. However, he was visibly annoyed at being dragged into this mess.
+
+“Can I help you people?” Zac said in a tone that offered no assistance.
+
+“You tell me,” the steely-eyed woman answered, her face a mask of barely contained rage. “I hear you’re looking for attendants?”
+
+“And?”
+
+“And? And?” she rasped. “Everit Draom, you incorrigible ingrate! There are limits to your disregard. Who gave you the authority to sell the department’s attendant slots? The Magistrate demand an answer. You’ve singlehandedly turned us into a laughingstock!”
+
+“Ah? Everit Draom?” Zac said with a lazy expression, acting like this wasn’t the fourth time he’d met Justice Maina. “You must have confused me with someone else.”
+
+“Oh, Arcaz, was it?” Maina sneered. “You must have hit your head on the way, turning you into an even bigger idiot. Have you forgotten where you came from? Who taught you? Did you actually think donning a disguise would throw us off?”
+
+“If you wanted to go undercover, you should have done it properly,” the burly constable to Maina’s side added with helplessness. “There’s no way for us to look the other way if you introduce yourself with your real name. You arrived in the Transformation Docks an hour ago, and everyone’s already talking about it.”
+
+“That’s not my problem. You leeches would have hounded me even if I snuck in like a ghost,” Zac scoffed with rancor.
+
+Seizing a Mercurial Seal from a memory lantern had undeniable benefits compared to using his Flamebearer Seal or buying passage. However, it came with a quirk that Zac hadn’t fully planned for. Zac had always envisioned Tam and Terea continuing with their lives inside the stream of altered history. That theory had since taken a hit.
+
+The Transformation Docks and the Peregrine Ocean’s immediate surroundings were locked at roughly the same point in history. Everit’s lantern took place approximately 10 years earlier, so he was still a contemporary of the trial. Knowing this, Zac had planned on using his Lawkeeper token as little as possible. He only used Everit’s name when entering the Transformation Docks because he faced a deadly threat from the town-protecting arrays.
+
+The first time Zac’s connection to the Magistrate was exposed by Maina, he tried introducing himself the usual way. He used his real name and gave a vague answer to his connection to the Imperial Magistrate, indicating he was a secretly nurtured talent. It backfired spectacularly. His identity seal had given Zac an aura that was easily recognized by his new colleagues.
+
+Maina had not only clocked him as Everit Draom, but she also assumed he was donning a disguise to weasel his way out of the organization. Since then, she and other Lawkeepers had been hot on his heels, demanding answers. Zac had prayed the real Everit Draom would pop up in the memories to give him an alibi. He never did.
+
+Everit was invited through Heavenly Decree, so Zac didn’t get a physical seal like the one Xiphos had. Consequently, Zac couldn’t use his other identities to access the Mercurial Court. Unwilling to use up his final identity slot, Zac had no choice but to shoulder Everit’s name. Zac had come to realize it was a job that came with plenty of grudges. The status as a Lawkeeper wasn’t to blame.
+
+Everit was simply a massive asshole. While annoying, it had awarded Zac some much-needed room to maneuver.
+
+“I don’t care what name you use. You’re a Lawkeeper before a sealbearer. You will bring your fellow cadets to the Mercurial Court. End of discussion,” Maina growled. “This is the will of the Judiciary Council.”
+
+“Do you have proof? Because I do,” Zac grinned as he took out an Information Jade from his Spatial Ring. A short scene was recorded on it.
+
+‘I told you to rein in your temper. You never did,’ an old man sighed. ‘The Judiciary Council has voted. They will not authorize a cadet with such an obviously tampered expense report and stained personnel record to participate in the trial. You’re not fated to become a sealbearer of the Imperial Magistrate.’
+
+“There you have it. Ironclad proof that I’m not part of your delegation,” Zac said, inwardly thanking his alter ego for obsessively recording his conversations to use as blackmail or evidence. “Thankfully, my radiance isn’t something those doddering fools can cover up. I got this seal through my extraordinary talent and Fate. That means it’s categorized as off-duty income. If the Magistrate wants me to send these little crows, you’ll have to make it worth my time.”
+
+The Imperial Magistrate was one of the Limitless Empire’s twenty-three departments. Its function was the same as what you’d see in most orthodox factions. It was the department that covered the empire’s judiciary branch and law enforcement. While the Limitless Army dealt with external threats, the Magistrate kept order within the empire’s borders.
+
+The guard who inspected Zac upon his arrival was most likely a member, though City Guards were generally considered outer members and not connected with core members like Maina. While the Imperial Magistrate was considered a peak faction, its status among the twenty-three departments was on the lower end—especially in remote colonies like the Left Imperial Expanse. Their presence was only truly felt in the prefectural capitals.
+
+That didn’t mean the Magistrate was weak. Zac had personally experienced the difficulties of maintaining law and order in the Atwood Empire. You needed absolute strength to capture criminals and keep powerful factions in check. A botched apprehension of an E-grade cultivator could lead to thousands of civilian deaths, and anything stronger was a walking calamity.
+
+While a martial branch of the Empire, their reputation was the opposite of the Imperial Army. When veterans were welcomed with open arms, Lawkeepers were met with suspicion and fear. It was not surprising the two factions often butted heads over jurisdiction. The infected rivalry could be boiled down to one issue: lacking funds.
+
+The Outer Courts opening their gates was an opportunity for the Magistrate to supplement their deficit and raise their image. The department had received six slots spread between the outer courts, double that of the Order of the Empyrean Flame. Of course, if you added all the Monastic and Templar Orders, their numbers would easily surpass any individual department.
+
+Everit checked most of the boxes to be in contention for one of the six spots. He had the age, talent, and achievements. He’d taken down more criminals than entire departments. Unfortunately, Everit’s mythical ability to garner vocal hatred among peers and superiors had come back to bite him. The issue was the same as the grudge against the army: lack of funds.
+
+“Off-duty Income? Yes, I’ve heard you’re intimately familiar with that term,” Maina scoffed. “However, this is different from the baubles you seized. We can annul all your expenses, provided—”
+
+The Judge stopped in her tracks upon noticing the slight fluctuation from Zac’s sleeve.
+
+“Thank you,” Zac said as he stowed his recorder, ignoring the throbbing veins on Maina’s forehead. “And you’re right, it’s different. The Heavens chose me. Unless the Judiciary Council goes on the record saying they’re above the Heavens, you better not interfere. Push me too far and I’ll complain to whoever will listen. Hell, I’ll join the army.”
+
+“Boy, there’s only so many times one can use that threat before it loses its sting.” The constable shook his head with exhaustion. He’d clearly been caught up on the backstory on the way over.
+
+Everit ignored any orders he didn’t like, relying on the department’s critical lack of peak talents to do as he pleased. Disregarding minor regulations was one thing, but Everit had repeatedly broken the department’s cardinal rule. He didn’t turn in confiscated contraband.
+
+A criminal’s loot often couldn’t be traced, making it legally ownerless. Even when confiscated items could be returned to their rightful owner, the Magistrate would keep a decent chunk for itself. Consequently, contraband was the department’s main source of income. Lawkeepers might keep a few things for themselves during an arrest, but the rest had to be turned in.
+
+Everit didn’t. He was one of their most talented trackers, and he kept everything for himself. The department wasn’t just losing out on their cut; they’d been forced to compensate countless victims for Everit’s greed. His whole department suffered because of the black hole in Everit’s operations account.
+
+Certainly, Everit didn’t see things that way. He’d slaved for the department, catching more criminals than anyone else. Giving him two seals wouldn’t have been excessive. Being shut down had completely infuriated him, and he’d left on a “training journey” in a huff.
+
+“Aren’t you going to invite us in?” Maina asked, forcing softness into her voice.
+
+“Fat chance.”
+
+“Fine,” the Judge spat. “What do you want?”
+
+“You know that already,” Zac said.
+
+The two went back and forth for ten minutes before Zac finally slammed the door shut. Both had taken a step back, with Zac agreeing to reserve one of the slots slightly below the market rate. Zac’s haughty expression collapsed the second he entered a secluded part of his mansion. Acting and speaking without a filter lost its novelty early.
+
+It was exhausting maintaining appearances without accidentally offending the wrong person or exposing flaws in front of seasoned investigators. Objectively speaking, Zac felt he was in the wrong on this issue. Whatever Destiny Everit possessed undeniably stemmed from the Imperial Magistrate’s careful nurturing. However, giving in without a fight would be out of character.
+
+Acting the part still left a sour taste in Zac’s mouth. Everit really had no loyalty to speak of. He was thinking of jumping ship seconds after receiving his Heavenly Decree. It aligned with Zac’s goal of becoming a true disciple, but he couldn’t figure out what hidden potential the Mercurial Court saw in Everit Draom.
+
+Certainly, Everit wasn’t rotten through and through. His hatred of criminals taking advantage of the innocent was very real, and some of his issues with the department were justified. Certain criminals were considered more trouble than they were worth. They could be extremely dangerous, have complex backgrounds, or simply be wretchedly poor.
+
+Career Lawkeepers avoided such targets while Everit brought them to justice without hesitation. Everit was essentially a renegade cop with a bad temper and a penchant for embezzlement. Furthermore, he wasn’t hoarding all the wealth he stole. His cultivation came first, but Everit also funded a number of orphanages and public schools.
+
+While Everit used those praiseworthy expenditures as a shield, countless lives had undeniably benefitted from his donations. Furthermore, it was a genuine belief that the Mercurial Court could provide the stage to better serve the empire that brought Everit to the point of betrayal.
+
+Alas, Everit’s grand dreams went up in smoke just as he was about to reach the Transformation Docks. The Imperial Road Project’s final stages were creating terrifying upheavals across the continent. Natural oddities and untouched ruins were cropping up like mushrooms after rain. After multiple near-death experiences, Everit met his end in an ancient tomb.
+
+Everit’s memory lantern had taken Zac directly to its depths, and he still felt some trepidation from the memory. What had seemed like a trove left for future generations had turned out to be a deathtrap designed by some sinister cultivator in a distant path. Zac would’ve had a hard time getting out in one piece if Esmeralda hadn’t successfully entered the lantern with him.
+
+The Lawkeepers had stopped causing a ruckus, but they didn’t leave. The group took position outside his gate. Most likely, they stayed behind to run interference. Nothing was written in stone, and they feared Everit would make another backroom deal. Zac went over the exchange to make sure he hadn’t let anything slip. His portrayal should have been perfect.
+
+Playing the part down to the micro-expressions would have been much harder without the Outer Courts waking from their slumber. Each halo added its personal touch to the Left Imperial Expanse, but they all had two things in common. They expanded the barrier to the inner regions, making it easier for trial takers to reach the courts.
+
+Secondly, the halos unlocked new memories from his stored identities. It was like the trial had been running at minimum capacity in the beginning. There were still more missing pieces than intact memories, but Zac’s understanding of Terea, Tam, and Everit had greatly deepened. It was a bittersweet experience.
+
+Tam’s struggles on the battlefields had left him shaken. The same could be said for Terea’s memories of studying under her father. While they were fallen nobility, Kristvan Wendimar had never given up on turning the clan’s Fate around. As such, he’d given his sole heir a comprehensive education on the empire. Their combined knowledge added much-needed context to the complex political climate around the courts.
+
+With everything settled, Zac sealed himself to focus on recovery. Invitations and inquiries arrived all the time, and the Lawkeepers outside became a perfect filter. Those who could be intimidated by Maina’s glare weren’t serious contenders for Zac’s attendant slots. Those who persisted weren’t as forceful as the Magistrate. They simply left their contacts while hinting at what they could offer.
+
+Zac avoided arranging any meetings because of his wounds. It wasn’t an empty excuse. Kaltosa Lu had done a number on him, and he would have to focus on recovery if he wanted to get back to fighting condition before the ceremony. The fact that the offers got more mouthwatering by the day was a welcome side-effect.
+
+Five days passed in a blur. The opening ceremony was tomorrow, and Zac finally emerged from seclusion. His wounds weren’t completely healed, but he couldn’t delay gathering information any longer. If nothing else, he needed to visit the docks and personally inspect the [Peregrine Gondolas]. As luck would have it, there was finally a reaction inside the Shrine of Kanba.
+
+“We’re safe. How are you doing? Are you okay?” Zac asked the second Esmeralda emerged from her deathly cocoon.
+
+“I’ll manage,” Esmeralda sighed. “I’ll have to stay inside the shrine a few more days, though. I’m still technically an undead creature, and I’m too tired to maintain my spatial insulation. I’d get poisoned the second I stepped outside with this much energy abound. Just where have you taken me?”
+
+“Transformation Docks,” Zac said and explained what had happened after the ambush.
+
+“So it really was the Pryer’s kid. Just wait until I’m back at the top. I’ll start spelling my name backward if I don’t rob the Centigrade Foundries blind,” Esmeralda said with smoldering anger. “So the trial really needed someone to finish a thread fate to progress. What a crock. At least we’re back on track. Have you seen any other trialtakers?”
+
+“Not yet, but I haven’t left the manor since I arrived,” Zac said. “Some might have snuck in, but there can’t be too many of us outsiders at this stage. My other side only reached the border two weeks ago.”
+
+“The bulk of the trial takers should start arriving in around two or three months, provided the inner domain’s borders keep expanding,” Esmeralda nodded before asking curiously. “Your other team still hasn’t entered?”
+
+“Ogras is still inside the memory domain,” Zac explained, not without worry.
+
+It had been twelve days since Ogras and Ventus entered the latest memory domain, and Zac had received no updates in the past week. The Hollow Court team had followed their original plan during the journey. Zac stayed outside while his companions entered memories to investigate and look for opportunities.
+
+Ogras’ earlier joke had proven prophetic. The demon clearly had Destiny with the path they followed, and his career as a Nameless Blade had seen a meteoric rise over the past two months. He’d also picked up a second identity belonging to a criminal informer.
+
+Zac didn’t dare enter, but that didn’t mean he wasted his time doing nothing. While his companions explored the past, Zac headed for the closest tainted zone. Using the corruption, he’d focused on revising his skill blueprints. It was only through his Human half’s efforts that Zac escaped Kaltosa Lu. Zac had already upgraded [Abyssal Drive] to Late D-grade.
+
+Having mainly focused on improving survivability, Zac had also finished the blueprint for [Profane Exponents]. He still hadn’t found the time for the actual upgrade. Esmeralda’s pouch wasn’t suitable for cultivation that required arrays, and Zac wasn’t confident in upgrading Late D-grade Skills without external assistance. The challenges didn’t benefit from skills, so Zac had only been willing to take five days off to upgrade [Abyssal Drive].
+
+A worrying miscalculation had left Zac’s human side more time to work on his skills. Seeing Ogras’s extraordinary gains, Zac had been eager to get back into the domains. However, they had underestimated Mox’s vindictive streak. Zac was hit by a growing sense of danger any time he entered any memory domain, including those that should be protected by Imperial Authority.
+
+Not even the latest domain, which pushed right against the inner region’s border, was an exception.
+
+“Are you going to look for them?” Esmeralda asked.
+
+“I’ll give them a week unless another halo appears,” Zac said. “I have the feeling I need to pull the trigger anyhow.”
+
+“Have you thought things through?” Esmeralda asked. “Hunting Gods is no laughing matter.”

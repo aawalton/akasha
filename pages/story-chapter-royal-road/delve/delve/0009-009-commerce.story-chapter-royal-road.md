@@ -1,0 +1,179 @@
+---
+id: e3415c0d-8f9c-598d-a1a6-cf698762f474
+page-type-slug: story-chapter-royal-road
+title: "009: Commerce"
+slug: 0009-009-commerce
+partOf: delve
+position: 9
+ownLength: 4167
+unit: words
+publishedAt: 2019-06-04
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/368622/009-commerce"
+royalRoadId: "368622"
+---
+
+Rain rested in the pool until the grumbling of his stomach overpowered his inclination to just float there for the rest of the afternoon. He wasn't thirsty, having drunk from the pool after purifying the water for a few moments in his cupped hands. He trusted the skill to clear out any pathogens that might be lurking in the pool but still wasn’t entirely comfortable with the idea of drinking bath water. The water was flowing in from the river, so he had decided that it wasn’t really as bad as all that, especially once he had purified it.
+
+He climbed out of the pool and toweled off, shivering and pulling on his tattered pants and shirt, which were still slightly damp. The leather cord around his neck with his bronze adventurer's plate hanging from it had held up better to the slime's digestive juices than his cotton garments had. He decided to hold the little vial of Tel, rather than slipping it into his pocket. He didn't trust the seam to hold, and losing it would be catastrophic.
+
+Walking carefully around the edge of the pool, Rain looked at his vitals, seeing that his mana had risen to around 25% while his stamina was hovering at around half. His health had recovered a little bit as well, but he still wasn't quite at full. His skin felt tight and itchy like he’d gotten a decent sunburn.
+
+He approached the attendant to return the towel but saw that there was a small line. Content to wait, Rain got in line and watched as those in front of him handed the attendant a small brownish coin before retrieving their towels and heading into the bath.
+
+As Rain got to the front of the line, the attendant seemed to remember him and smiled. Rain tried to hand him the towel, but the man held up his hands and pointed at a basket near the exit of the building. Nodding to show he understood, Rain pointed to one of the coins sitting on the desk, then asked:
+
+“Bronze?”
+
+The man just smiled and pointed at the plate hanging from Rain's neck. “Bronze,” he said. Then, pointing at a coin, said a different word.
+
+“Copper?” Rain repeated, and the man nodded.
+
+Still confused at why he didn't have to pay, Rain asked. “I you copper?” he indicated the coins then gestured to the bath.
+
+The man shook his head and shrugged. “Bronze <something> adventurers <something> for <something>.”
+
+Oh, adventurers get in free. Nice.
+
+“Thank you,” Rain said, turning and walking to drop his towel in the basket. Halfway there, he turned back to the attendant and held up the towel to point at it.
+
+“Word?” Rain asked.
+
+“Towel,” the man responded, and Rain filed it away. He was pretty sure that he was starting to forget words, but he would never learn them if he didn't ask. Rain thanked the man again and deposited his towel in the basket before heading out into the evening sun.
+
+His stomach was complaining loudly at this point, so Rain followed his nose, eventually finding what looked like an inn and entering the common room. Several people looked up as he entered, a few of them doing a double take at his tattered clothes and watching him as he moved across the room towards a table. As he sat, a woman walked up to him, apparently a waitress, and asked him a question. Not understanding, he shook his head.
+
+“Food?” he asked.
+
+The woman eyed him skeptically. “<Something> copper,” she said, looking at his tattered clothing.
+
+I guess I pay before I get my food if I look like a vagabond. I don’t have any of those copper coins though. Rain uncorked his vial and picked out a Tel, holding it up in his palm for her to see.
+
+“Tel?” he asked, hopefully.
+
+The woman sighed and grumbled something which sounded like it had the word adventurer in it, but she took the Tel and disappeared into another room. She returned in a few moments with a huge bowl of stew and a loaf of bread. She set them down on the table in front of Rain, then she surprised him by handing him a handful of copper coins.
+
+“Thank you,” Rain said. The woman just harrumphed and went over to take an order from another patron.
+
+Rain inspected the coins while he waited for his stew to cool, seeing that there were two different kinds. She had given him two large-ish coins with an unknown face on one side and the number 5 on the other, as well as two smaller ones with the image of a bird and an unknown character.
+
+I'll call that “1” for now. So 12 copper is my change, but how much did this soup cost? Less than 1 Tel apparently. Mmm, this smells amazing.
+
+Rain started eating the soup, finding that the taste, while not quite as good as the smell, was agreeable. He tore off bits of the bread, dunking them in the soup and taking huge bites. Looking around the room, he saw a few people watching him, who quickly looked away.
+
+Humm, so adventurers aren't all that common away from the guild, or maybe I just stick out. Good to know I guess. Places like this inn and the baths use copper for currency and people give you the stink eye if you try to pay with crystal. I guess using Tel is just an adventurer thing. Makes sense I guess, they drop from monsters and aren’t as convenient to carry around as coins anyway.
+
+Finishing off his stew and bread, Rain leaned back, satisfied. As hungry as he had been, the stew was filling and he felt quite full. Looking down at the film of stew remaining in his bowl that he hadn't been able to sop up with the bread, Rain decided to try something.
+
+Purify.
+
+Rain concentrated, watching the remains of the stew disappear, leaving the bowl spotless after ten seconds or so of effort. So convenient! Relaxing, he smiled and looked up to see that the entire inn had gone quiet, everyone watching him. Oops.
+
+Rain blushed a bit and stood. Looking at the coins in his hand, he decided to leave the two smaller ones on the table as a tip as compensation for the disturbance. He wasn't sure if tipping was a thing in this world, or if 2 copper was generous or insulting. He decided to do it anyway on the principle of something being better than nothing.
+
+The patrons watched him warily as he walked to the exit, the waitress just giving a long-suffering sigh as she went to collect his bowl.
+
+Was that really a big deal? Experience can't be that hard to get, these people should have skills or magic too. Everyone should, but I haven't seen any magic other than what Brovose and Ameliah used, and whatever that stab move of Hegar's was. What makes adventurers different? I mean, not everyone is going to be able to kill a slime, sure, but what about that training experience I got before? Why can't they level up from that? Gah! I wish I could just ask someone this stuff without having to use interpretive dance!
+
+Rain caught his thoughts wandering off into the weeds again and he jerked his focus back to his present situation. He was getting a lot of odd looks from passers-by as he stood there in the middle of the street. This part of the city seemed to be mostly residential, and his bronze plate and torn shirt were drawing some unwanted attention his way. Rain tucked his plate inside his shirt and started off down the road, feeling that it was better to be confused for a hobo than an adventurer for what he had in mind.
+
+He needed some clothes, but he didn't have a lot of money, or at least he didn't think he did. He still wasn't sure. He wanted to ask for directions to somewhere he could buy clothes, but he didn't want to be directed to an adventurer's shop like the one he had seen in the guild square. He had gotten the feeling that adventurers would have access to more money than the average townsperson, and he didn't want to pay for top tier adventurer gear when all he really needed was basic clothing.
+
+After walking for a little while aimlessly, Rain saw a tidy looking older man approaching from the direction he was walking. Stopping, Rain tried to look non-threatening as he spoke to the man.
+
+“Hello?”
+
+The man stopped, regarding Rain with a curious expression.
+
+“Hello,” the man replied uncertainly.
+
+“Hello. I no words, sorry. I.... shirt, pants... shoes. I... copper?” Rain attempted.
+
+The man looked confused, and a little sad. He dug around in a pocket, retrieving one of the smaller copper coins and tried to place it into Rain's hand.
+
+“No,” Rain said, gently pushing the coin away. Damn it, he thinks I'm begging. Pulling the two large copper coins from his pocket, he showed them to the man and tried again.
+
+“No, I copper,” he said, holding up the coins. “I …. no shoes. I... shirt. Bad shirt.” Rain pointed to the torn shoulder of his shirt. Seeing that the man still looked confused, Rain mimed looking around the city, holding his hand to his eyes as if shielding them the sun, then, he shrugged.
+
+A flicker of comprehension crossed the man's face as he spoke. “You <something> shirt <something>? Shoes?”
+
+Rain nodded, hoping the man had understood what he was getting at. It seemed that he had, as the man beckoned for him to follow. He was speaking to Rain in a calm voice, though Rain couldn't decipher much of what the man was saying. Smile and nod. Smile and nod. Man, I hope he understood what I wanted and he isn’t taking me somewhere strange.
+
+After only a block or so, the man stopped and pointed down a road. Rain looked and saw that a few streets over there was a large pavilion with a huge crowd of people milling about various stands and store displays.
+
+Rain thanked the old man and left him there, looking bemused, as he headed towards the market square. He immediately went up to a stand where a man and his young daughter were tending a display of basic workman's clothing. Rain eyed the merchant as he approached. He was a stout, bald man with an extravagant curled mustache wearing a flamboyant orange robe. His appearance was completely at odds with his inventory which consisted of the normal browns, greens, and whites that he saw most of the common citizens wearing.
+
+Seeing him approach, the man practically teleported in front of him, so quickly did he pounce on a potential customer. He snapped his fingers at his daughter, who Rain estimated to be around 6 or 7 years old, pointing at a pile of shirts. He then walked up to Rain and, sizing him up, turned to a pile of pants, selecting a pair and holding it up to him to check the size. He quickly placed it down and selected another. Thankfully, it seemed that this energetic man was more than happy to decide for himself what Rain needed, rather than waiting for him to ask.
+
+Rain thought this behavior seemed a little bit odd. Honestly, the merchant seemed to be going out of his way to make a sale to someone who, by all appearances, was unlikely to have any money. His guild plate was hidden by his shirt, torn though it was, and there was nothing else about him that would suggest he was capable of paying for so much as a crust of bread. Rain wasn't about to complain though.
+
+The girl brought over a white linen shirt that looked to be about his size, handing it to her father. He held it up, checking the fit, and nodded at her, smiling. He spun her around and pushed her towards a pile of socks. She went to get some and the man held up yet another different pair of pants. Seemingly satisfied, he threw them over the arm where he was holding the shirt, then said something to Rain.
+
+Rain's look of confusion didn't seem to slow the man down at all as he pulled a chair out from behind his stall and practically pushed Rain down into it. The girl came over with a pair of socks and a measuring stick. Grabbing one of Rain's feet, the merchant took the measuring stick from the girl and sized up Rain's foot, nodding to himself. He picked out a large pair of rugged boots and shooed Rain off the chair, setting down all of the various items of clothing he was holding. The man spun to face Rain, a hungry look in his eyes.
+
+He said something to Rain, then tilted his head at his look of confusion, apparently not even having noticed that Rain didn't speak the language when he had asked him to sit in the chair before. To Rain's surprise, the man switched to a different language, this one consisting of flowing syllables and no break between words. That might not be the language though, just how this guy talks. Rain just shook his head.
+
+“English? Do you speak English? Hello, my name is Rain, can you understand me?” Rain said in English. He was trying to give the man a long enough sentence, hoping that he might pick up a word or two.
+
+The man laughed, shaking his head. If anything, he only appeared more energetic and happy. What is with this guy? Rain thought as the merchant clapped and wiggled his fingers excitedly. He noticed the man's daughter roll her eyes exaggeratedly at this. Rain couldn't help but smile at the scene. I don't know what I was expecting from clothes shopping, but this wasn't it.
+
+The merchant, undeterred by the language barrier, motioned to Rain, then the pile of clothing, his hand open as if to ask ‘like what you see?’. He is surprisingly easy to understand. Maybe it’s a skill? No, probably not. There’s no charisma stat after all.
+
+Rain nodded. The man clapped, then retrieved a money pouch from one of the pockets of his voluminous robe. Removing a smallish copper bar and a smaller square copper tile from the bag, he held them up in one hand. With his other hand, he indicated the clothes, then made a balancing motion.
+
+Is that what he wants for them? I have no idea how much that is.
+
+Digging in his pocket, Rain traded the vial of Tel that he had been hiding in his closed hand for the two large copper coins. He wasn't hopeful, as the tile and bar that the man was holding were bigger than the coins and they were also inscribed with some symbols. This indicated to Rain that they were an official currency, not just random lumps of metal. Rain held his coins out to the man, hoping that he wouldn't be offended by the offer.
+
+Instead of getting offended, the man just laughed merrily and shook his head again. Holding up a finger, he signaled for Rain to wait and retrieved a folding table from his stall, setting it between them. He opened his pouch again, starting to lay out coins. Motioning to his daughter, he had her come over and sort the coins out into piles by type.
+
+Pointing to the pile of smallest coins, the merchant held one up, then nudged his daughter, who said a word. He nodded, smiling proudly, then pointed to the pile of larger coins. “Five,” his daughter said, and the merchant counted out five of the small coins, laying them next to one of the larger ones. Oh, I get what he is doing now.
+
+He pointed at one of the little metal tiles. It was about 3cm on a side and a centimeter thick. The face of the tile had been stamped with the image of a city. The girl quickly said a number that Rain determined to be 20 when the merchant set up 4 of the large coins against one of the tiles. The small bar was slightly narrower and thinner than the tile, but twice as long. It was identified as 50 copper when the man lined one up against two of the tiles and two of the large coins. The bar had three images stamped on it, a sword, a crown, and a throne, along with some text Rain couldn't read.
+
+The man looked at Rain expectantly, his daughter beaming, proud that she had gotten all of the denominations correct. He wants a bar and a tile, so 70 copper, huh? I don't have anywhere near that. I don't think I could bargain him down that much, so I guess it is time to find out what a Tel is worth.
+
+Rain held up a hand to the man to signal for him to wait, then turned his back, fishing the vial of Tel out from his pocket and hiding it from the man. He didn't want him to know how much money he had. While he found it hard to believe that the beaming man would try to cheat him in front of his young daughter, he nonetheless decided to be careful.
+
+Removing a single Tel and hiding the vial in his fist, Rain turned back to the man and placed the Tel on the table. The man's eyes flashed and he turned to his daughter. “Tel,” she said, looking a little uncertain. The merchant encouraged her gently and she made a guess at the value, speaking a number Rain didn’t know.
+
+“No,” the merchant said, in a kindly tone, holding up a finger, then motioned for her to try again. She tried again and this time she seemed to have gotten it, as the man ruffled her hair and paired the Tel with two of the large coins and four of the smaller ones. The Tel looked tiny next to the coins, around the size of a grain of rice. Rain noticed that the man was careful to not touch the Tel as he moved the coins around, leaving it on the side of the table near Rain.
+
+14 copper to the Tel... I have 6 Tel plus ten copper so that is... 94? Ok, time to make a real offer.
+
+Discreetly removing 3 more Tel from the vial, he placed them next to the lone Tel on the table. He then added his two copper coins, bringing the total up to 66 copper. The man laughed and smiled, clapping Rain on the shoulder. He swept up all the coins back into his pouch, then, carefully picked up the Tel and added them to a little vial of his own, which he then slipped into the pouch.
+
+He grabbed a thin linen sack, scooped up the pile of clothes, and dumped them inside. He then picked up the boots and thrust them and the bag into Rain's arms. Rain thanked the man, who smiled and bowed as Rain walked dazedly back towards the adventurers’ guild, trying to recover from the merchant's frenzied personality.
+
+…What...just happened?
+
+Rain had to stop and ask for directions twice, but he managed to find his way back to the guild just as the sun was setting. Seeing his spear lying on the ground outside the door a few meters from where he had propped it up, he detoured slightly on his way in to collect it.
+
+He entered the main room, which was still busy, though the adventurers looked slightly more ragged. They had probably completed their own quests for the day and returned to the guild to turn them in.
+
+He walked to the bathroom and shut the door. After using the toilet, he checked his mana, then turned his purify aura on at full blast, extending it to the full two-meter range to fill the bathroom. He could feel his mana starting to tick down, but he ignored it, feeling safe in the guild and confident that his regeneration would have him back to full by the time he had to go out again.
+
+Opening the sack, he reached inside and proceeded to change into his new clothes. With mixed feelings, he noticed that a new pair of underwear had gotten into the pile at some point without him noticing. He was going to miss his cotton boxers, but they were falling apart and linen wasn't really too bad he supposed.
+
+He slipped his feet into his new boots, finding that they fit snugly, but not so tight as to be uncomfortable. The leather of the boots was stiff, but would probably soften as he wore them in. The boots didn't have laces. Instead, there was a leather strap with a buckle, which he tightened to keep them secure on his feet.
+
+Standing, he examined himself as best he could without a mirror in the suddenly much cleaner bathroom. Now, this is much better he thought to himself. The pants were soft leather and dark brown. The shirt was linen with long sleeves and wooden buttons up the front. It wasn't as comfortable as his cotton t-shirt had been, but that was to be expected. All in all, Rain was happy with his purchase and happier still at his impromptu tutorial on the coinage of the city. He stuffed his old clothes into the linen sack and slung it over his shoulder.
+
+Seeing that his mana was getting a little low, Rain deactivated his aura, switching back to winter. He exited the bathroom, grabbing his spear from where he had propped it while changing. He headed towards the tavern to see if he could get something to eat from the bar. It turned out that he could, trading 1 Tel for 4 of the rock hard ration bricks. He could have gotten a proper meal of roast chicken and vegetables with ale, but he wasn't about to spend a full Tel on a single meal, not when he only had two to his name. The ration bricks would be good training for his teeth and it seemed he had been right about the prices of things near the guild. Luckily, there had been a pile of them on the counter, so Rain didn't have much trouble conveying to the barman what he wanted. It seemed that the bricks were a guild special and that they weren't very popular.
+
+Scanning the room, Rain didn't see Gus anywhere. He hadn't been manning one of the counters at the entrance, so Rain supposed he had gone home, his shift over. He filled a mug of water from the barrel, resisting the urge to activate his purification aura again. It was a lot easier after his experience in the sewers. Compared to that, what was the thought of unwashed hands touching the ladle?
+
+There were no empty tables in the room, so he walked over to a largish one with only a few people seated at the far end. They didn't seem to mind as he took a chair at the other end, so he set down his bag, adding three of the ration bars to it, still in their paper wrapping, and keeping the fourth out to eat. Gnawing on the ration and feeling like a beaver, he listened to the conversation between the others at his table, trying to follow their words to glean a bit more about the language. Mostly, though, he just worked on his ration bar and reflected on the day and his plans for the future. Slowly, people started filtering from the room until finally the barman came over to him.
+
+Already familiar with Rain's linguistic limitations from when he had purchased the rations, the large bearded man kept his language simple.
+
+“Sleep <something> adventurers’ guild?” the barman asked.
+
+Rain nodded. That was indeed his plan.
+
+“<Something> Tel,” said the barman, holding up two fingers.
+
+Rain paled. Shit, I don't have enough.
+
+Silently, Rain pulled out his vial, un-stoppered it, and shook out his single remaining Tel into his hand. He looked at the barman with a glum look. Maybe I can go find an inn or something? I don't want to sleep under a bush. No guarantee that an inn would be any cheaper though...
+
+Rain must have looked pretty pathetic, as the barman sighed and gave him a nod of acceptance. He took the Tel from his palm and waved him towards the door. Rain got to his feet, collected his spear, slipped the empty vial into a pocket, and walked to the bunk room. He unstrapped and removed his new boots, tucked them under a bunk along with his spear and his bag, climbed under the covers and went to sleep.

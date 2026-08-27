@@ -1,0 +1,403 @@
+---
+id: 0306510f-db9d-50c1-bbf8-f825b42d137c
+page-type-slug: story-chapter-royal-road
+title: "135: Sentence"
+slug: 0135-135-sentence
+partOf: delve
+position: 135
+ownLength: 5806
+unit: words
+publishedAt: 2021-02-21
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/635133/135-sentence"
+royalRoadId: "635133"
+---
+
+Rain woke up.
+
+…
+
+He hadn’t expected to.
+
+When Dozer had died, he’d felt as if it had been his own body that had been obliterated, not the slime’s. The pain was on the level of what he’d experienced with the Fel Sadanis barrier stone. The term ‘mind-destroying’ felt appropriate, though his mind had been pretty thoroughly destroyed at that point already.
+
+In retrospect, pushing himself past his limits had probably been a bad idea.
+
+His previous overindulgences with the ring had been with Clarity, and they had amplified his normal attention issues to clinical levels. This time, with Focus, his mind had locked itself onto one singular goal: Defeating Hegar.
+
+Obviously, that hadn’t gone so well. The issue was that in his hyper-focused state, his higher reasoning had flown right out the window. He’d just kept struggling pointlessly, accomplishing nothing more than pissing off his opponent. He hadn’t thought to make an appeal to Hegar’s mercy—or to his ego, which would probably have worked better. No, he’d simply decided to repeatedly punch him in the leg.
+
+It had not been his best plan ever.
+
+Rain sighed, and pain blossomed as the blanket covering him scraped across his skin. His body had the characteristic hypersensitivity that meant he’d been subjected to excessive healing. He was likely suffering from lingering Focus soulstrain as well, though his mind seemed to be working normally enough. It was difficult to tell from within.
+
+Ultimately, it didn’t matter. There were more important things right now. It was time to figure out why he still had his life and if there was anything left worth living it for.
+
+He opened his gummy-feeling eyes and blinked, fighting the brightness. The first thing he realized was that he was in the camp—in his room, even. That was promising. Shortly thereafter, a figure swam into view, and he realized he wasn’t alone. Jamus was there, asleep in a chair with Cloud at his feet. That was even more promising.
+
+“Jamus,” Rain croaked, licking his dry lips.
+
+Jamus didn’t stir, but Cloud raised his fluffy head, then shot to his feet and chuffed, tail wagging furiously. Jamus’s eyes snapped open, then locked onto Rain’s.
+
+“Rain!” He got to his feet, tripping in his haste. He scrambled to the side of Rain’s bedroll, pulling back Cloud, who’d beaten him there and was licking Rain’s face, almost knocking him back over with his enthusiasm.
+
+“Ameliah?” Rain asked, ignoring the lingering pain from the affectionate mauling.
+
+“Alive,” Jamus said. “Unconscious, but alive.”
+
+“Where?” Rain asked, struggling to rise.
+
+Jamus laid a hand on his shoulder, gently but firmly holding him in place. “She’s in the next room over. Tahir and Mereck healed you first, then used the rest of their mana on her, plus all the potions we had. That was over a day ago.”
+
+Shit. They can’t actually heal her until they fill her health, and she’s got a lot of it.
+
+“Calm down,” Jamus said, pushing more firmly. “Her wounds closed this morning. Tahir and Mereck are both suffering from potion shock, and if you give them any more mana right now, we’ll have three unconscious people, not just one. Ameliah will be fine. She just needs time.”
+
+Rain stopped fighting, shuddering as his relief warred with his fears. Once he’d subsided, Jamus took his hand away. The older mage remained silent, giving Rain the time he needed.
+
+If she’d died…
+
+Rain forced himself to breathe deeply. He could be an emotional wreck later.
+
+Examining his situation again, he discovered that he was only wearing his Forceweave underlayer. His armor and the Malleable Ring were missing. Before he could pull open his status to check for any other problems—honestly, the first thing he should have done upon waking—Carten ripped aside the curtain and clattered into the room, wearing his full armor.
+
+“Rain! Yer awake!”
+
+“I am,” Rain said, shaking his head. My status can wait too. “What happened to Hegar?”
+
+“He’s dead,” Jamus said, his face hardening.
+
+“Tallheart got ‘em,” Carten said as he plopped himself down on the floor with a clank. He grinned, scratching his ear. “I knew he was a strong bastard, but depths take me, that was somethin’ else.”
+
+“The archer is dead, too,” Jamus said. “We have the mage captive. Don’t worry. We have him thoroughly secured.”
+
+“Was anyone else hurt?” Rain asked, pushing Brovose out of his mind. I…can’t deal with that. Not yet.
+
+Jamus shook his head. “No. No one else.”
+
+Rain felt another great weight lift off of him. He flinched as Cloud licked his cheek again.
+
+“Stay back!” Vanna shouted from outside. Moments later, she poked her head in. “Rain, thank the gods you’re all right. I’ll stop people from rushing in all at—”
+
+“Captain!” Tarny shouted, ducking past her.
+
+“…once,” Vanna finished with a sigh. She pulled the curtain closed, and Rain could hear her begin arguing with Kettel on the other side.
+
+“Are you in any pain, Captain?” Tarny asked, kneeling down by Rain’s shoulder. “How is your hand?”
+
+Rain raised his left hand, flexing his fingers. His wrist felt no more painful than the rest of him. There was nothing to indicate that it had been injured other than the slice through the Forceweave, not even blood. Purify must have activated at some point while he was unconscious, which meant he’d switched his macros out of combat mode. The concerning thing was that he couldn’t remember doing it. Am I missing anything else?
+
+He searched his mind and found nothing but loss. He let his arm fall, then looked at his lap. There was still something remaining of his link to Dozer, but instead of ending in a bundle of curiosity and wonder, the connection led nowhere. Dozer was gone.
+
+“Captain?” Tarny asked, sounding concerned. “Rain?”
+
+“I’m fine,” Rain said with a sigh. Liar. “Thirsty.”
+
+“Here,” Carten said, offering him a skin, beating Tarny to it.
+
+Rain accepted it, then raised it to his lips. He stopped, raising an eyebrow as he caught the scent. “Beer?”
+
+Carten grinned.
+
+Shrugging, Rain took a small sip from the skin, then passed it back to Carten. He then motioned to Tarny, who handed him his own skin, which contained water as expected. He took a much deeper drink, then lowered it. He needed to wait, despite his body’s demands for more. It wouldn’t be a good idea to have too much at once, no matter how dehydrated he was. He turned to Jamus, gesturing with the skin. “Has someone been giving Ameliah water?”
+
+“Yes,” Jamus said. “I told you to stop worrying. Blood loss is common in the adventuring profession. We know how to deal with it.”
+
+Rain nodded, taking another sip from the skin. “Good.”
+
+“We’re so glad you’re still with us, Rain,” Jamus said, wrapping him in a gentle hug. “When Hegar was standing over you like that, we feared the worst. It was horrible not being able to do anything.”
+
+Rain forced a smile, hiding how much even such light contact was hurting him. “Thank you, Jamus. Everyone.” Jamus released him, and then it was Tarny’s turn, and he was significantly less gentle about it. Through the pain, Rain realized that the man had started crying.
+
+Carten snorted, getting to his feet. “I ain’t huggin’ ya.”
+
+Rain’s smile became less forced. “Good. You don’t look particularly soft, and I’m still soulstrained from the healing.”
+
+Tarny gasped, recoiling as if burned. “Captain, I’m so sorry! I didn’t think—”
+
+“It’s fine,” Rain said. It’s just pain. He looked over at the corner of the room. “Hi, Val.”
+
+Val laughed, fading into sight. “Even when you’re injured, I can’t sneak up on you.”
+
+“Aren’t you supposed to be on watch?” Jamus asked.
+
+“And miss all this?” Val asked. “All these manly emotions?”
+
+“Ha!” Carten laughed.
+
+Cloud pushed his head against Rain’s lap, gently yet insistently demanding attention. Absently, Rain began combing the big dog’s thick fur with his fingers. Cloud was too fluffy for his own good. It had obviously been too long since his last grooming.
+
+There was a brief awkward silence, broken by Jamus. “Rain… I’m so sorry about Dozer.”
+
+Rain froze, closing his eyes. He took a deep breath, then tightened his grip on Cloud’s fur, though he was careful not to pull. “Thank you.”
+
+Before anyone else could speak, the curtain opened, and Vanna poked her head in once more. “Everyone, out. Rain needs to rest.”
+
+Rain shook his head, resuming his ineffective grooming. I need a brush. “It’s fine, Vanna. I’ve rested enough. Can you send someone to find Tallheart, please? I need to talk to him.”
+
+“I am here,” Tallheart said, moving into view behind Vanna. “I agree. We must speak.”
+
+Rain nodded, his expression serious. “Yes.”
+
+“Privately,” Tallheart said as Vanna made way for him to enter the room.
+
+“Sorry,” Rain said, glancing at the others. “Can you give us a minute?”
+
+Before any of them could respond, Tallheart raised a hand. “Not here.”
+
+“Tallheart, he shouldn’t be moving around right now,” Jamus protested.
+
+Rain frowned, considering, then pushed Cloud’s head off his lap with some difficulty. The ridiculous dog was still growing, even though he was already pushing forty or fifty kilos. Once he’d freed himself, it was time to stand. It hurt, oh did it hurt, but pain wasn’t going to stop him.
+
+Tarny moved to help him, as did Jamus, though reluctantly. Once Rain was upright, he waved them away, taking a few unsteady steps. Tallheart rumbled in approval.
+
+“I’m going to see Ameliah first,” Rain said, looking at Tallheart. Tallheart nodded, and Rain shifted his gaze to Vanna. “After that, Tallheart and I are going for a walk. Do you have things under control?”
+
+Vanna pursed her lips. “Yes. For now.” She shook her head. “What happened, Rain? Why did they attack?”
+
+Rain grimaced. “I’ll tell you the full story later. They wanted to take Lana and the crack. Ameliah…objected.” He shook his head.
+
+“Okay,” Vanna said. “Come talk to me when you feel up to it. And don’t hurt yourself.”
+
+Rain nodded, then straightened his shoulders and began walking for the door. Vanna hurried ahead of him, yelling loudly to clear the way. Each step was more painful than the last, but he ignored the protests of his body. They were nothing compared to the agony he’d experienced in the past, and even that was nothing to the anguish that was gripping his heart.
+
+He wasn’t strong enough. He’d failed. Dozer was dead, and that wasn’t all. It was all coming back to him. The names. The faces. All of them in crystal-clear high definition. People he’d met from the Guild. People he’d passed in the street in Fel Sadanis. A child he’d never met, dead and broken beneath the rubble of a building.
+
+Melka.
+
+Rain’s breathing was heavy, and he had to lean against the doorway to collect himself. As he saw it, he had two choices. Option one, he could shut down completely, crawl back into a pathetic haze of depression from which he’d likely never recover. Option two, he could do something about it.
+
+Rain hauled himself back into motion. There really wasn’t a choice, after all.
+
+He clenched his fists hard enough that it would have hurt even without the soulstrain.
+
+Never again.
+
+With Vanna running interference, Rain managed to make it out of the camp without getting caught up in any further conversation. His visit to Ameliah’s room had been brief and painful. She’d been unconscious and outwardly unharmed, but it had still been horrible to see her like that. In addition to everything else, it dredged up memories from his old life. Of sitting next to his mother’s hospital bed. Of the end.
+
+Tallheart followed silently as Rain walked through the snow, Purify running at max range. He didn’t want to see the carnage of the nightly defense. The boots he’d borrowed from Carten chafed horribly on his sensitive skin, but it was better than walking barefoot through the cold.
+
+Once they were out of sight of the camp, Tallheart rumbled, pointing. “There. Out of the wind.”
+
+Rain nodded, moving to the sheltered nook between a hill and a large boulder. It was a spot he’d identified a few days ago as a potential issue for monster spawns, but that wasn’t a concern right now given the angle of the sun. It was around noon, with only the shortest of shadows darkening the pristine snow.
+
+Rain turned to face Tallheart, taking a deep breath. “Thank you. If you hadn’t come, Ameliah and I would be dead.”
+
+Tallheart inclined his head, rumbling in acknowledgment. “Clear the snow so we may sit.”
+
+Rain nodded, then used Immolate. The bite of the chill air against his skin vanished, replaced by scalding heat, but he pushed through it until the ground was bare and dry. Once he was satisfied, he followed Tallheart to the boulder. Tallheart sat cross-legged, and Rain sat facing him, mirroring his posture.
+
+“You are weak,” Tallheart said without preamble the moment Rain was situated.
+
+Rain gripped his knees tightly with his hands but didn’t look away. “I am.”
+
+Tallheart nodded. “You asked me before how to become strong. I told you that the path was through persistence, caution, and time. You did not listen.”
+
+Rain shook his head. “I did. I’ve been working as hard as I can, and I’ve been careful. Everyone said too careful, but it wasn’t enough to protect—”
+
+“No,” Tallheart interrupted, a rumble of dissatisfaction in his tone. “You did not listen. The piece of my advice that you chose to ignore was ‘time’.” He sighed, then crossed his arms. “I should not have let you found Ascension. It was too soon. You do not even have the strength to protect yourself.”
+
+Rain closed his eyes. “I know. I couldn’t just leave them, though, the people with nowhere else to go.”
+
+Tallheart rumbled somberly. “I understand. Sometimes, the only correct decision is the wrong one.”
+
+Rain looked up, finding compassion in Tallheart’s eyes, but also…judgment? Consideration? The smith’s hard features were still almost impossible to read, even when he wasn’t guarding his expression.
+
+“Ask,” Tallheart said, watching him.
+
+Rain looked down. There could be any number of questions Tallheart was expecting. Rain could ask what had happened after he’d lost consciousness. He could ask for the details of how Tallheart had killed Hegar and Anton or what he intended to do with Brovose. He could even demand to know why he’d gone to the city—accuse him of not being there when they’d needed him.
+
+Rain closed his eyes. There was no point to any of that.
+
+Tallheart was not his protector. It was not his responsibility to stay with the company at all times, nor was it Ameliah’s. That was Rain’s responsibility—the one he’d taken when he’d founded the company—and like Tallheart said, he wasn’t ready for it. Neither physically nor mentally.
+
+He shook his head, still not looking up. “I’ve wanted to ask you this for a long time, you and Ameliah, but it’s selfish. Besides that, it’s inconsiderate given what the two of you have lost.” He opened his eyes, then met Tallheart’s gaze. “I will ask it now, regardless.”
+
+“You use too many words. Ask.”
+
+Rain nodded. “Please take me to the depths.”
+
+Tallheart stared at him for a long moment, then slowly, he nodded, uncrossing his arms. “Good.” He extended a hand, turning it palm up. On it sat the Malleable Ring. “Here.”
+
+Surprised, Rain reached out to take it. I thought it was gone…
+
+Tallheart rumbled, lowering his hand. “It will be hard for me, but I will take you. Lilly would have called me a coward for giving up after her death, and she would not have been wrong.” He shook his head sadly. “She would also have called me a traitor for helping a human. I wish she had lived long enough to change.” He rumbled, deep in his chest. “That was not her fate.”
+
+Rain closed his hand over the ring, squeezing tightly in a mixture of gratitude and pain that had nothing to do with the state of his body.
+
+Tallheart inclined his head. “We must prepare. Your armor was destroyed. It would not have been enough anyway. I will make something better.” He frowned. “I cannot help you alone. We will need Ameliah, but she is not nearly as strong as my Lilly. It will be dangerous for all of us. I will not ask it of her. You must do it.”
+
+Rain’s face twisted, knowing that he would indeed ask, that she’d likely say yes. He sighed, looking up at Tallheart with a fatalistic smile. “Another wrong decision, huh?”
+
+Tallheart nodded. “Yes, but the only one that is correct.” He extended a hand, palm down, and Rain jumped as an accolade fell to the ground. Another followed it, tumbling after the first, then another and another. They kept coming, ringing like wind chimes as they began piling atop each other.
+
+“The Crimson Swords were plate hunters,” Tallheart said, speaking over the continuing ring of metal on metal. “There are duplicates, even a few full sets of eight. They were hunting teams. Do not feel remorse. Take their strength and make it your own.”
+
+Rain’s jaw dropped as accolades continued to fall, now coming in twos and threes. His eye twitched involuntarily as a lone yellow plate joined the growing pile of red, blue, green, and gray. He had to resist a sudden urge to reach out and begin sorting them.
+
+“I know what you are thinking,” Tallheart said as the shower of accolades finally came to a stop. “You want to give these to the company. You will not. You will take them, and you will take them all. Only through your own strength can you keep anyone else safe.”
+
+“Tallheart, what…? How…?” Rain said, too stunned to think properly. How the HELL did they have so many? It makes a bit more sense that they could beat Ameliah now. Rain’s mind churned, working through the implications. People don’t just sell accolades. One or two, I’d believe, but if they had a full set... Tallheart’s right. They really were plate hunters.
+
+He looked up at Tallheart. “What do you mean, take them all? I can’t even use half that many.”
+
+Tallheart grunted in amusement. “You will try. You are the one who managed to break his own soul. If anyone can find a way, it would be you. Even if you fail, you will keep them. You will need the, hmm, versatility.”
+
+Rain had reached out as Tallheart spoke and started sifting through the pile. The first few boosts were small—accolades from low-ranked lairs, Heat, Cold, and Force. The sorting process came to a crashing halt as he read something that he knew was possible but that he nevertheless did not expect.
+
+He stared at the plate in his hand, not believing his eyes.
+
+“One THOUSAND Heat resistance?!”
+
+“Mmm,” Tallheart rumbled. “It is time to stop being a child.”
+
+Because of Rain’s soul damage, he couldn’t bind accolades automatically. It was a slow process, one only possible from within his soul and with direct skin contact to the plate. He’d try it later with the three that he’d kept, though he wasn’t sure that he’d be able to reach the required mental state any time soon. Given how unsettled he was, it might be days before he’d calmed down enough. Tallheart had agreed to hold onto the rest until that time, as it really wouldn’t be wise to leave them lying around.
+
+Binding the accolades was high on Rain’s list of priorities, but it was far from number one. That honor went to a different problem, one that was not going to wait.
+
+Rain gripped his fists tightly as he and Tallheart approached the walls, making the Malleable Ring shift loosely on his finger.
+
+“Rain,” a female voice said, moments after he and Tallheart entered the camp, and he turned to see Mahria sprinting at him.
+
+“Does he have them?” she asked urgently, stopping in a rush. Rain frowned, and she winced. “Oh, sorry. I shouldn’t have started with that. Uh…glad you’re not dead?”
+
+Rain sighed, shaking his head. The Mahria problem obviously wasn’t the one he’d been thinking of. “Does who have what?”
+
+“Um…Tallheart?” Mahria said. “The accolades?” Mahria said, glancing at the smith.
+
+Tallheart rumbled, sounding annoyed. “I am standing right here.”
+
+She glared at him, “Yes, and when I asked you before, you just grumbled at me until I gave up.”
+
+Rain rubbed at his temples. “Play nice, you two. Mahria, there’s no respec. Not this time.”
+
+“Damn it!” Mahria swore, stomping her foot. “You’re sure?”
+
+“I’m sure,” Rain said. “Sorry.”
+
+Mahria sighed, then straightened herself back up out of her pout. “Sorry. I’ve just been looking for one for so long.”
+
+“I understand,” Rain said. “Don’t worry. If I find one, I’ll tell you.”
+
+Mahria nodded unhappily. “You’d better.”
+
+Rain glanced at Tallheart, then shook his head. “Sorry, Mahria, I’m kind of in the middle of something. Can you do me a favor and go get Vanna?”
+
+Mahria shrugged. “Sure. It’s not like I have anything else to do.”
+
+Rain shook his head as she walked away, vanishing through the curtain into the company hall. He sighed, then looked around the disorderly tavern, seeing dozens of faces watching him. There were quite a few he didn’t recognize—new recruits, or applicants at least. They were giving him the look that said they could feel his soul and were trying to stop themselves from making a mess of their pants.
+
+At the moment, Rain couldn’t bring himself to care. He’d walked through the tavern quickly when he’d left, not wanting to talk to anyone, so he somehow hadn’t noticed the smell. He was noticing it now. It smelled like…filth.
+
+Purify washed over the room, cleaning faces and eliciting shouts of surprise. As the light faded, Rain was still frowning. Purify could do nothing for the pair of mugs lying on the floor, or the crumpled blanket on a bench, or the abandoned bowls and plates that had been left strewn across the tables.
+
+“You,” he said, pointing at random. “Straighten this place out.”
+
+The chosen man jumped, looking at the other people seated at his table. “Uh…yes, Lord. I mean, Captain. Um, what exactly did you want me to—?”
+
+Rain jabbed a finger at the fallen mugs. “Put those back where they go. If there isn’t a designated spot for them, make one.” He gestured to the laden tables. “Clear all of this clutter and put it all away. I will have order. This is a tavern, not a festival ground. The rest of you, help him.”
+
+“Rain,” Vanna said, approaching swiftly with Tarny in tow. “They aren’t members. We didn’t admit anyone yet, not with you and Ameliah hurt.”
+
+“Doesn’t matter,” Rain said. “If they made the mess, they can clean it up. Tarny, take charge of this, will you?”
+
+“Yes, Rain,” Tarny said, nodding. He turned away, marching toward the uneasy townsfolk.
+
+“Are you okay, Rain?” Vanna asked. “You aren’t acting like… I mean, obviously, you’re not acting like yourself. I’m being stupid. Shall we go to my office so we can talk?”
+
+Rain shook his head. “Later. I need to deal with Brovose. Where is he?”
+
+“We stashed him in one of the sleeping rooms,” Vanna said, hurrying to follow as Rain began moving. Tallheart rumbled deeply, following.
+
+Rain felt anger building in his chest as he stomped through the company hall. The tumbled-down wall and the supplies strewn everywhere weren’t helping, but it was mostly directed at the last remaining member of the Crimson Swords.
+
+Pulling aside the curtain, Rain entered the sleeping-room-turned-cell to find the red-haired mage upside down. He’d been chained to the back wall by his ankles, his head hanging at chest height. His body was restrained by seamless bands of iron, and his hands were dangling below his head, completely encased in metal. His eyes were closed—unconscious, asleep, or pretending, Rain wasn’t sure. The blood had been cleaned from his face, but a ragged patchwork of fresh scabs still marked where Ameliah had injured him.
+
+Rain turned to Tallheart. “Is that enough to stop him from casting?”
+
+Tallheart shook his head. “Not completely. He knows that I will kill him if he tries to escape.”
+
+Rain frowned. And you just strolled out of the camp with me? What if he’d tried something?
+
+“We can’t hold him forever, and we can’t let him go,” Vanna said, glancing at Tallheart. “I convinced Tallheart to wait until you woke up, in case you wanted to interrogate him. I know you’re not going to like hearing this, but—”
+
+Rain held up a hand. “You’re right, Vanna.”
+
+“I am?” Vanna asked, blinking.
+
+Rain nodded slowly. His anger had faded. Now, all he felt was emptiness, like his chest held nothing but a yawning void. This problem wasn’t going to go away. He had to deal with it. It was his responsibility. In that moment, he knew what he would do, and he hated himself for it.
+
+The silence stretched as Rain considered the bound man hanging before him. The Guild would not frown on looting an accolade from a fallen companion, but the penalty for explicit plate-hunting was death, executed by a branch leader like Halgrave or by the Volcano himself. The Watch took an equally hard stance on the matter. As a Custodian, Rain was expected to uphold their philosophy. As far as the Watch was concerned, he was judge, jury, and executioner.
+
+Rain’s mouth had flattened into a hard line. In the fight with Hegar, he’d found himself confronted with the question of killing to save his own life and those of the people he cared about. He’d chosen to kill, and only his inability to follow through on his intent had saved him from taking that last, final step. Now, he faced that choice again, only this time, it was going to be cold. Capital punishment was a complicated topic, but here, in this world, it was simple. There was no prison system. No structure for confinement and rehabilitation.
+
+He would do what needed to be done.
+
+It was just one more problem to be solved.
+
+“Wake up,” Rain said, taking a step closer to the bound mage. He considered reaching out to jostle him but decided against it. There were many defensive spells that wouldn’t be overly affected by his metal bonds. Without armor, coming any closer than this would be stupid. Even being this close was already questionable.
+
+Brovose’s eyes opened. He looked up at Rain, bending his neck to make eye contact. “You are a true enigma, Rain, if that is really your name.”
+
+“You were awake?” Rain asked.
+
+Brovose nodded. “I have slept my whole life, but when I go, I will go with my eyes open.”
+
+“Did you practice that line?” Rain asked.
+
+Brovose smiled but didn’t answer.
+
+Rain shook his head. “You are a plate hunter,” he said. It wasn’t a question.
+
+Brovose tilted his head. “If I denied it, would you believe me?”
+
+“No,” Rain said.
+
+“Then why should I bother talking to you?” Brovose asked. He relaxed his neck, leaving himself to dangle. “This is really quite uncomfortable, I must say,” he said as he swayed slightly. “Hmm. I doubt you’re keeping me alive for the enjoyment of watching me squirm. No, you don’t strike me as that type. I don’t know who you are or where you came from, but it is clear that you are a man who values mercy. I beg you to prove it. Please free me, and I will offer you my services. Allow me to join you. I have skills that would prove beneficial to your company. Failing that, let me go. If you do, I promise that you will never see me again.”
+
+“No way,” Vanna said, laying a hand on Rain’s shoulder. “Rain, you’d better not be considering that.”
+
+Rain shook his head sadly. “Don’t worry, Vanna. I’m not.” Mercy is a luxury of the strong. He looked back at Brovose. “Drop all of your accolades.”
+
+Brovose laughed, the motion making him swing from the chain. “And give you evidence that I am what you have accused me to be? No, I think not. I’m not going to make it easy for you.”
+
+Rain clenched his fists, lamenting his lack of access to the Watch’s lie-detecting ability. He knew the technique was related to the soul, and his linksight gave him an obvious inroad. He’d experimented with it extensively, but he’d never made a breakthrough. In this moment, he wished he’d tried a little harder. He’d gotten nothing from it through this whole conversation, though he’d been focusing on the sense with all of his will.
+
+There would be no cheat. No easy way out. Rain searched his mind, regardless, seeking a solution, but he came up empty. His concerns about mind readers had led him to make Psionics one of the first trees he’d fully unlocked. If there was a skill that would allow lie detection, it was either hidden or above tier three. Ameliah didn’t know, and she’d partially gone through the tree to unlock Message. Besides, she was still unconscious. He couldn’t wait for her to wake, let alone level an entire tree’s worth of skills on the chance that there was something hidden to make this easier for him.
+
+Stop hesitating. Hesitation is death. Rain shook his head. I know I can’t fight him, so the only one who can watch him is Tallheart, and he’s already been awake for almost two days. He’ll have to sleep eventually. Anyone else that I leave on guard, he could overpower and kill. We don’t have a bullshit handwavey power-suppressing supervillain prison. All we have is metal, and Tallheart just said that isn’t enough. Taking him back to Fel Sadanis isn’t reasonable either. Tallheart and Ameliah would have to escort him together, sleeping in shifts…no. Just no. There’s no way out of this but one.
+
+Brovose sighed, interrupting Rain’s thoughts. “I see little point in this, but…my life is on the line, so…” He clicked his tongue. “Hegar and Anton are dead, and you have their accolades. From this, you concluded that they are plate hunters, and therefore, by association, so am I. Reasonable, but what if I told you that we purchased those accolades at the Radiant Auction? What then? Can you prove that I am lying?”
+
+Rain shook his head. “I can’t.”
+
+“So then, you have a choice,” Brovose said. “Trust me, and set me free, or kill me, and live with the guilt.”
+
+Rain paused, considering. Perhaps there was a way to prove it after all, or at least, to catch Brovose in a lie. He cleared his throat, then spoke in Zeelada, “Greetings of the light.”
+
+“What?” Brovose asked. “Was that Zeelada? Oh, I see. Just because I’ve been to the Auction, it doesn’t mean that I speak their language. We hired a translator, so that proves nothing.”
+
+Rain’s frown deepened. The book said that line is a customary greeting. If he’d been to the City of Lights, he should know it, as well as the response. I don’t care if he had a translator; that’s just the basics, like asking how to find an inn. He looked back at Vanna and Tallheart, who were watching him silently. Tallheart nodded to him, his face hard. Uncompromising. Rain closed his eyes, taking a deep breath. When he opened them, there was not a trace of compassion in his gaze, nor any emotion at all. He couldn’t allow himself to feel. This wasn’t about him.
+
+“Where I come from, the burden of proof lies with the accuser,” he said softly, turning back to face Brovose. “Anyone suspected of committing a crime is innocent until proven guilty, and that is an ideal that I believe to my very core. However, I cannot ignore the threat that you pose to Ascension or to the world.” He shook his head slowly. “I cannot prove that you are a plate hunter, but I also cannot prove that you are not. There are no witnesses available to me for crimes you may have committed in the past. Any trial that I tried to force would be nothing but a sham. A mockery of justice.”
+
+His voice was steady as he continued, dispassionate and cold. “If I release you, I risk the lives of those close to me as well as those of people I have never met. If I kill you, that threat is removed. The death of one man against the possible deaths of dozens, perhaps hundreds, past and future. My moral integrity has no bearing. My guilt has no bearing. This is simple mathematics.”
+
+Inside, some part of Rain was screaming. He closed his eyes, squashing that voice into silence and shoving it back with the memories of his old life. That was where it belonged.
+
+Never again.
+
+Rain gestured. “Tallheart, take him down from the wall and hold him.”
+
+Wordlessly, Tallheart did as asked, lifting Brovose by one of the steel bindings. He unhooked the chain, then flipped him over as if he weighed no more than a mannequin. Brovose didn’t resist the rough treatment, keeping his eyes locked on Rain as he found his footing.
+
+Rain returned his stare, feeling tears threatening to escape from the mask of his face. His voice, though, didn’t waver. “Ascension is not an organization that stands in judgment. It is not as its leader, but by my authority as a Custodian of the Vigilant Order of Watch Keepers that I pass this sentence. Brovose, you have traveled with known plate hunters. I find you complicit in the murders that your group has committed. For this, I condemn you to die. My mercy to you shall be a swift end, and my only regret is that your bindings will prevent me from giving it to you myself.”
+
+Rain closed his eyes, then forced them back open. He would not look away.
+
+“Tallheart, I’m sorry to ask this of you. Do it.”
+
+Tallheart nodded, face solemn as he placed a hand on Brovose’s neck. The mage didn’t resist, but neither did he close his eyes. There was a crunch of shattering bone, and then the body collapsed to the ground. It took a few agonizing seconds before dozens of metal plates appeared surrounding it.
+
+“There they are,” Vanna said, sounding relieved. “For a moment, I thought…” She shook her head. “Anyway, that confirms it, Rain. You made the right choice.”
+
+Rain exhaled slowly. “No.” He said, turning away at last. “I made the only one.”

@@ -1,0 +1,145 @@
+---
+id: 91f5f8d8-c592-5bab-97c6-68760763cc8e
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 54"
+slug: 0217-b3-chapter-54
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 217
+ownLength: 1472
+unit: words
+ownProgress: 1472
+publishedAt: 2024-10-14
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1850247/b3-chapter-54"
+royalRoadId: "1850247"
+markedReadAt: "2026-06-29T19:13:06.740Z"
+---
+
+Aria
+
+As it turns out, it can do quite a bit. The thing is very different from the Lesser Minor and regular Lesser Death Spirits in that, while they are weak and can’t really do much actual fighting themselves other than carrying things, with the Lesser Death Spirits being able to use basic weapons, these things are physically strong. To the point that they can shatter the metal making up the bodies of the mana creatures within the Spire up to about Tier 3 and even some Tier 4 mana creatures. Just with their bare fists.
+
+Or, rather, their bare skeletal fists?
+
+Their bare physical strength.
+
+Although part of that is influenced by my own level, since they’re powered by my soul energy. And the quality of my soul energy is based on my level from what I’ve been able to figure out over the years. Regardless of the level of the creature the soul energy came from.
+
+The level of the source of the soul energy only determines how much soul energy they give me with no determination on quality.
+
+I continue to test the not-so-little skeletal ape for a while before going ahead and summoning a few more Lesser Major Death Spirits.
+
+And immediately finding myself faced with a surprise.
+
+One in the form of several more large beast-like animal skeletons cloaked in shadows.
+
+Different beast-like animals than the ape.
+
+Some of them aren’t even bipedal beasts but rather quadrupedal ones. Like some tiger and wolf skeletons amongst them.
+
+I fold my arms while pursing my lips and tapping my foot for a few seconds. Then I simply nod my head and proceed to go through with several more tests for the spirits. Tests that end up going rather well.
+
+Turns out each of the different beasts have different strengths to them. Like how the ape had powerful physical strength, or the wolf was agile.
+
+And after several attempts, I learn how to summon specific beasts. It mostly just takes wishing for one particular beast to appear when I’m summoning them.
+
+Although it isn’t a one hundred percent success-rate for summoning what I want.
+
+More like eighty to ninety percent.
+
+I continue to test things out for a little while before feeling satisfied with the results and moving on to test my new skill. Which involves cutting my arm to make blood flow out.
+
+First I do it so blood falls on top of a Tier 1 mana creature, but that turns out rather awkward when the creature simply starts convulsing in front of me before dying. Probably because the thing was a very weak creature in the first place.
+
+So I move on to Tier 4 mana creatures, which should be about the same strength as I am on a personal level.
+
+After doing that, I start my experimenting first on the creatures that are more metal than anything else. Like a golem.
+
+I sprinkle some of my blood on the golem as the thing has a ball stomping on my arm. Which turns out to be rather pointless in and of itself since it gets my blood on itself through stomping on my arm.
+
+Blood that ever since I’ve gotten this skill doesn’t simply vanish right away after being burnt by the crimson energy.
+
+Instead, my blood is instantly replaced in my body while the blood that left me stays for several seconds. Then it disappears in death energy if it hasn’t touched a living creature in that time.
+
+But if it has touched a living creature, it dissolves right into them and begins spreading crimson veins through their body from the point of contact. Veins that immediately begin to make the creature less and less full of life. Less vigorous.
+
+Although that’s rather hard to tell with these metal creatures, who don’t exactly have biological parts in the first place.
+
+It’s just like the whole Death’s Judgment skill not being very suitable for these Spires.
+
+I kinda wish I got these skills while on a different planet overall.
+
+After tapping my feet for several seconds with my arms still folded over my stomach, I finally come to a decision.
+
+Right. I’ll walk outside and let someone attack me. Then I’ll use them as a test subject instead.
+
+It’ll be self-defense after all.
+
+So with that thought in mind, I march right on outside, leaving my Death Spirits inside of the Spire to hunt as I do so. And after stepping out of the Spire, I am immediately faced with two forces of enemies still clashing over the rights to use this Spire.
+
+Both sides of which quickly proceed to ignore my existence.
+
+I blink in surprise at the sight.
+
+Um, hello?
+
+Obviously, neither side can hear my thoughts. So no one pays me any mind other than a couple glances at the rather out of place woman wearing a simple black jacket, tank top, and pants amidst the warring soldiers.
+
+Why do I get the feeling these people aren’t going to attack me? I know I’ve made a name for myself by occasionally jumping down from the Spires on this planet in the middle of their bickering, but come on… can’t someone be a good soldier and attack me?
+
+Wait… would that be being a good soldier? I’m not actually sure about that.
+
+Especially considering how I’m a neutral party in these battles, putting aside the fact that I’m a guest of the empire.
+
+Actually, the other nations even made it known not to bother me unless they want to die. A rather blunt order, if someone were to ask me.
+
+Hmm… well, maybe I can just walk out in the middle of them and see what happens.
+
+So I do just that and walk right out into the middle of their battle. Only for them to immediately begin avoiding the hell out of the place I walked to.
+
+I walk to another place. They avoid the hell out of that place.
+
+And another.
+
+And another.
+
+Eventually I just give up and begin walking towards the city while slumped over a little bit.
+
+Fine. I’ll just go find some random summoner to summon me some monsters that I can test it on.
+
+As I walk I try to ignore the fact that I was just disappointed by the fact that no one would attack me. Which is a rather bizarre thing to be disappointed about.
+
+Makes me wonder if I’m normal or not.
+
+But after several seconds, I just firmly nod my head and decide that I am most certainly normal. The most normal of the normal people out there.
+
+I nod my head once more, firm in that thought. Then I just put my hands in my pockets and think about the book I was reading before leveling up as I walk through a bunch of battlefields, ignoring the soldiers from both sides of the conflict who are all avoiding me like the plague.
+
+It’s a rather nice book. Not the absolute best, but a good one, nonetheless.
+
+The story actually reminds me of myself, since it’s about a true immortal. A person who can’t die.
+
+It had some romance in the story, but not much. Most of it was focused on the fact that they couldn’t die, along with some of them watching their loved ones pass away one after another.
+
+A rather sad story. Especially because this story is set place in a universe without the System. So there is no leveling up, and therefore no extending their lifespans.
+
+At least the people I know can extend their lifespans. This poor guy couldn’t go even a century without his loved ones passing away whenever he got new ones.
+
+I feel bad for the guy.
+
+Actually, now I kind of want to continue reading it.
+
+So I bring the book out on my phone and begin reading it as I continue walking through quite the number of battlefields on my way towards the capital. Just casually humming to myself in silence, and occasionally singing a little tune.
+
+Books are a nice thing. Why can’t the universe just focus on reading instead of fighting?
+
+Everyone should just follow my example like this and be normal.
+
+And like that, I continue reading all the way till I reach the capital, at which point I just head straight for the emperor’s castle. Of which is currently surrounded by the council members who are having a tough time blocking the emperor inside with a powerful barrier.
+
+The moment they see me, though, they open up a small gap in it to let me through with a single nod. One that I return.
+
+How kind of them.
+
+And so, I keep marching on into the castle while humming and reading my book.
+
+Ignoring the fighting going on in its entirety.

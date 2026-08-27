@@ -1,0 +1,1211 @@
+---
+id: aa28b848-c8c1-5faa-b9c0-f8ea88646d9f
+page-type-slug: story-chapter-royal-road
+title: "159: Upgraded"
+slug: 0159-159-upgraded
+partOf: delve
+position: 159
+ownLength: 8218
+unit: words
+publishedAt: 2021-08-22
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/737842/159-upgraded"
+royalRoadId: "737842"
+---
+
+The chime that woke Rain was not the vaguely electronic tone of his interface, but the sonorous tone of a real bell. At least, as much as anything could be real in this place.
+
+Rain sat up as Stumps-6, yawning as he glanced over at the grandfather clock that had woken him. It was still sounding out the hour, its pendulum swinging steadily. After seven bongs, it stopped, and Rain nodded to himself.
+
+Tossing the covers aside, he got out of bed, arching his back in an enormous stretch, before running a sausage-fingered hand across his bald head. Fingers were difficult. Stumps-6 was the first to have them.
+
+Fighting off another yawn, Rain took a look around the opaque dome that he’d furnished as a bedroom. It was cozy—like living inside a golf ball, though the decoration was lacking other than the clock and the shaggy carpet.
+
+Walking across the room, Rain luxuriated in the feeling of his bare, stumpy feet against the carpet. When he stepped from it onto the pressure plate in front of the door, an electronic circuit was completed.
+
+A motor whirred, and the door whisked open. Rain smiled.
+
+Good, that’s still working.
+
+Pedal power had had its day, but that was so two weeks ago. Since then, he had found much better ways to spin a crankshaft, and electricity was by far the most convenient. The key realization had been that making a battery was fundamentally no different than altering the pull of gravity. Energy was free in here; it was will that was in short supply. The trick to getting stuff done automatically was to set up systems that relied on previously established rules while requiring no agency. This door was the culmination of all of his research.
+
+Stepping off the pressure plate, Rain walked through, entering a catwalk that looked a bit like a glass hamster tube. Outside, chaos roiled, but not so thickly that the Bastion was obscured from view. His fortress was no simple sphere any longer, but a multi-lobed structure more reminiscent of a space station. Only the central chamber was still spherical, being the original Bastion, though he now called it the Hub. The other rooms were domed-over lily pads resting at the ends of catwalks like this one, radiating from the Hub like the spokes of a wheel. There were four for now: his room, Dozer’s habitat, the airship hangar, and the cargo bay—the cargo being essence.
+
+Behind him, Rain heard the door whisk closed, the motor reversing direction automatically. The timer responsible for that had taken a bit of doing, but he’d already had most of what he’d needed from his earlier construction of the grandfather clock.
+
+The heavy airlock at the far end of the tunnel was an older model, so Rain had to haul it open manually with his brain, like some sort of peasant. There was no gravity in the Hub and nothing to stand on besides, so he lifted himself through the opening with his will before pulling the door shut behind him.
+
+The center of the Hub was filled by his core room, the ground having been removed now that it was no longer needed. The core room was larger now, supported from below by the same tree-like adamant structure as before. From above, the adamant scaffolding had been replaced by a large, singular pipe. That was an intake, allowing fresh chaos in for purification through several heavy adamant grates. The core room was adamant now too, the thickened shell solid save for a few portholes. The armoring served a purpose beyond making it look like a reactor out of science-fiction. That was just a side benefit. The way Rain saw it, his core needed protection. Dozer had gotten into Rain’s soul through the Tear. There was nothing to say that something less friendly couldn’t do the same.
+
+Rain used his will to set himself on a trajectory toward the tunnel that led to Dozer’s habitat, then left Stumps-6 to drift as he shifted his consciousness into his core. Immediately, his senses expanded, giving him a vague awareness of the entirety of the Bastion. The flood of information was only moderately overwhelming, and it took his tired mind a few moments to adapt. By the time he’d finished digesting his status and determined that there were no glaring issues, Stumps-6 had reached the tunnel. Rain switched back into the avatar, reoriented, then sent himself drifting gently down the passage before switching back to his core.
+
+I need to put a door there. Todo: Inner door to Dozer’s habitat.
+
+Rain narrowed his focus, his view growing sharper as he concentrated on his immediate surroundings. There was gravity in the core room, pulling gently inward from all directions, resulting in the layer of liquid essence bathing his core like an ocean. Liquid essence was clear now, Rain had decided, no longer opaque. It had a slight blue tint, like liquid oxygen. It also glowed with its own light, making it look either magical or radioactive, depending upon your perspective. His core glowed too, just as it had always done. At the moment, it was a deep sapphire, shining from below the surface. The remaining volume of the core room was filled with so much mist that it would have been impossible to see much from outside other than the glow escaping from the portholes.
+
+Rain had modified the crystalline surface of his core, forming two flanges. One of those was bolted to the intake pipe, while the other wasn’t connected to anything at the moment. Bubbles could be seen rising from it, proof that his core was busy working to purify more essence. A slight hum could be heard, evidence of the electric fan responsible for drawing chaos in through the intake. The conversion rate was still excruciatingly slow, but faster than it had been, thanks to all the changes.
+
+It’s still too slow. Maybe I should add more pipes? Rain glowed uncertainly, feeling the chaos burning against his core at the intake. It wasn’t exactly pleasant. Too risky. This will have to do.
+
+With a mental sigh, Rain switched back to Stumps-6 just in time to slam into the sealed hatch to Dozer’s habitat.
+
+“Ow.”
+
+Rubbing his head, he grabbed onto a handhold, then concentrated on the hatch, breaking the seal. Dozer had opened it once—Rain still wasn’t sure how—flooding the entire Hub with chaos. Since then, Rain had taken to welding it closed, but that wasn’t a permanent solution.
+
+Todo: Proper airlock for Dozer’s room.
+
+Once he got the hatch open, Rain flew himself through, suddenly having to fight against gravity to keep himself airborne as he crossed the threshold. He closed the door behind himself, welded it shut again, then turned, taking in the scene.
+
+Dozer’s habitat was about the same size as the Hub, though it was a dome, not a sphere. It was done up like a forest clearing, complete with green grass, almost-realistic trees, and a painted blue sky with white fluffy clouds. Dozer couldn’t appreciate the color, but that was beside the point.
+
+The slime’s crate sat over to one side of the room, the size of a house from Rain’s current perspective, sitting beside a tidy pile of smooth stones. Rain willed himself upward, flying smoothly until he came to a stop hovering above the slumbering slime in his crate. Through their link, he knew Dozer to be oblivious to his presence.
+
+“Time to wake up,” Rain said, lowering himself down. When Dozer didn’t respond, he reached out, then drummed gently on Dozer’s membrane with his palms, sending waves spreading across his surface like ripples on a water bed.
+
+[Rain-King!]
+
+Dozer exploded into motion, engulfing Rain’s avatar and rocketing up out of his crate, toppling it over in his excitement. He began bouncing happily around the room, making the entire chamber shake and the connection to the Hub creak alarmingly.
+
+Todo: Reinforce tunnel to Dozer’s room.
+
+[Hey, Dozer. Good morning.] Rain sent, unable to speak with his avatar presently drowning in slime. [I’m happy to see you too. Calm down, would you?]
+
+Dozer calmed down, luckily before breaking anything, and Rain spent the next thirty minutes or so just playing with him. They played fetch, tag, count to three, and a few other silly games designed to help with Dozer’s comprehension. Eventually, though, Rain sensed the slime starting to become antsy. The dome was opaque, but Dozer could still sense the chaos on the other side somehow.
+
+Before the slime could grow too upset, Rain flew up to the ceiling where a valve protruded like a fire hydrant. He opened it, allowing chaos to rush in. Dozer, far from being alarmed by this, became ecstatic instead. He set himself to purifying with a will, hoovering up the chaos with enthusiasm. Rain just watched him go, a smile on his face as the slime oozed around, occasionally returning to his bed to deposit pearls of collected essence.
+
+[Have fun at work, Dozer,] Rain sent, setting Stumps-6 down beside Dozer’s bed where he’d be out of the way. [I’ll be back tonight to shut the valve when it’s time for sleep.]
+
+[No sleep! ⟬clean⟭ forever!] Dozer sent, fiercely determined as only a Crystal Slime in a midden could be.
+
+Rain smiled. The trick to managing Dozer was keeping him to a somewhat normal schedule. It was oh so much easier on both of them when they were awake and asleep at the same times. He felt a little bad about keeping him cooped up in this room all the time, but he couldn’t exactly let him outside, not when there was a risk that he’d be sucked out through the Tear. That was why Rain had spent so much time on making the environment as realistic as possible.
+
+Leaving his avatar where it was, Rain switched to Stumps-5 in the airship hangar, then confirmed that neither of the two Kludges he’d left docked there had broken free from their moorings. That concluded his inspection of the Bastion, so he cast his mind further out, finding Snek-2, stationed in a barometer buoy.
+
+There were six of these, tethered to the Bastion by thin adamant wires in each cardinal direction. They were way, way out there, but still not even a tenth of the distance to his paling. Each one was a tiny adamant sphere, split internally into four quadrants by two bulkheads. One of those bulkheads served as the floor, while the other separated the pressurized section of the buoy from the half that was open to the chaos. Through that barrier passed a U-shaped tube filled with mercury. Technically, this made a manometer, not a barometer, but the alliteration of ‘barometer buoy’ justified riling up the pedants.
+
+Slithering his way over to the instrument, Rain checked the height of the liquid against the markings on the tube, then hissed to himself in satisfaction.
+
+Zenith at -4.6.
+
+He swiftly hopped through Sneks 3 through 7, checking the pressure at each of the other buoys. As always, Snek-4 had the lowest reading at -5.8. That buoy was closest to the Tear, in the direction that Rain had designated as north. Each buoy had an internal pressure of 24, calibrated at the equilibrium point in the Sparkscale Deep. The readings were simply the deltas from that. Given that his physical body was in the cave in the Ashen Jungle, the values he was getting were perfectly reasonable and in line with his past measurements.
+
+Good, good.
+
+In the Barnacle, Rain sat up in Stumps-2, the avatar feeling clunky and stiff compared to the newer models.
+
+I need to upgrade this guy. Not now, though. Todo: Upgrade old avatars.
+
+There was a barometer here as well, this one much larger than the others. It was the absolute kind, a basin of mercury with a glass tube rising above it, containing a vacuum. The level currently read 24, just as it had since Rain had first calibrated it. He nodded, planting his hook-hands on his hips.
+
+I don’t know why I keep checking this one. It hasn’t changed in weeks. The paling stops bringing in chaos once the pressure reaches my class level.
+
+Sitting Stumps-2 down for safekeeping, Rain left him there, shifting his mind into Stumps-3. Stumps-3 was stationed in an outpost very much like the Barnacle, except notably louder. Rushing wind could be heard outside, owing to the station’s proximity to the Tear. This was Anchor-UW2, or ‘Upper West 2’.
+
+There were eight anchor stations in total, split into two groups of four. Each station was tethered to another by a heavy adamant cable, hence the name. The cables were strung across the Tear like shoelaces, UW1 to LW1, LW1 to UW2, UW2 to LW2, and similar on the eastern side. The idea was to reinforce the corners and thus prevent the Tear from ripping further. Rain would need to build several hundred more stations at least if he wanted to sew it closed. With how thick the cables needed to be to survive the forces here, that was a lot of essence. The Tear was enormous, covering fully a third of his soul’s circumference.
+
+Standing, Rain stumbled unsteadily across his paling, the ground rolling beneath his feet like he was sailing the high seas in storm. Reaching a window, he hooked a handhold to steady himself, then peeked out. The darkness of soulspace was visible beyond the Tear, clouded by the plume of escaping chaos. The other stations were visible in the distance, the cabling taut between them as it stretched across the gap.
+
+Still holding. Good.
+
+Sitting back down, Rain switched to Stumps-4 in UE2 on the eastern edge, then repeated his inspection, finding everything in order there as well.
+
+Good, good. I need to build more of these. I don’t think this is enough.
+
+Lingering for a moment to think, Rain stared out the window, watching the ragged edges of his paling flag and snap in the wind. It was too dangerous out there for more construction at the moment. He’d come back tonight when they were camped in the Sparkscale Deep. He also wanted to inspect the edges again to see if they’d healed at all.
+
+The barrier had layers, he’d discovered—two of them, their thickness corresponding to his two awakening events. The first layer, his level-18 paling, was thicker and a slightly lighter shade of blue. His level-24 paling was thinner and darker, covering the first like a second coat of paint.
+
+Here at the eastern corner of the Tear, the two layers were well-bonded to each other, as they were to the west. At the Tear’s center, however, the outer layer extended far past the inner one. That told a story. The original damage had not been healed; the second layer had simply been stretched across the open wound like plastic wrap. It was no wonder it had blown out.
+
+Sighing, Rain sat, then cast his mind back toward the Bastion, finding Stumps-7 in the cargo bay in a small area that doubled as his workshop.
+
+Let’s see here.
+
+Walking over to his workbench, Rain awkwardly picked up a pencil with his sausage-like fingers, then jotted down the various new tasks he’d identified, adding them to an already sizable list. That done, he paused to scratch at his earlobe with the pencil, considering where to begin.
+
+I don’t have enough time to finish anything big. I need something I can start and continue later. Time for a new avatar series, I guess. I’ve been putting that off long enough.
+
+Rain clicked his tongue, still thinking.
+
+I need to figure out bones. If I was a doctor, maybe my subconscious would just sort it all out, but I’m not. I’ve seen pictures, sure, but I don’t know how it all goes together. Not really. I’m going to need to do some experiments before I’ll be able to get the structure right. Once I do, though, everything should just work without me needing to think about it. At least, that’s the theory.
+
+Nodding, Rain set the pencil down on the workbench with a click.
+
+Skeleton first. I’ll worry about ligaments later. Also, I’m scaling up. I’m tired of being smaller than Dozer.
+
+Turning to look at the heaping pile of raw essence behind him, Rain began humming to himself. Then, with a bit more effort, the actual song became audible, coming from a speaker box mounted high on the wall.
+
+♫ Spooky, scary skeletons, send shivers down your spine… ♫
+
+The speaker was a simple thing, just a membrane, a magnet, and a small coil of wire. There was nothing so complicated as an amplifier to drive it. Using it to play music like this was an active application of will, fundamentally no different than controlling his avatar’s vocal cords to speak. He was simply overriding the current in the speaker coil with the remembered melody. It worked better the less he thought about it.
+
+Rain set to work, but he’d barely fallen into the groove before an actual, physical signal to the speaker overrode his control. The grandfather clock’s chime came through loud and clear, carried throughout the Bastion by the wires trailing along the outside of the structure. Making the clock audible everywhere had been why Rain had constructed the PA system in the first place.
+
+“Damn it.”
+
+Rain heaved a sigh.
+
+Either I need to spend less time playing with Dozer, or I need to give myself more than an hour in here each morning.
+
+Propping the gargantuan femur he’d been working on against the wall, Rain closed his eyes, then willed himself into the real world. It was all he could do not to groan in discomfort as his body pointedly informed him of the rock that was digging into his back. He took a deep breath, grimacing. It felt like he was attempting to inhale through a waterlogged woolen blanket. He could also feel a slight sourness in his stomach, promising the occasional flashes of heartburn that would strike throughout the day, a side-effect of piping undiluted chaos straight into his core.
+
+All systems nominal, unfortunately. No headache, which is nice.
+
+macro cold_boot
+
+With the command, Rain’s HUD flicked on, and Detection fired as part of his script layer’s initialization sequence. The scan came back clear of monsters, and thanks to linksight, Rain was already aware that his friends were both nearby and in good health. Detection pulsed a few more times, the script scanning for other high-importance items before it defaulted to Winter, bringing the spell up gradually. The mods were set such that Rain was excluded.
+
+I should adjust that. I can probably sustain myself at a low setting now that I’ve upgraded my plumbing. Not today, though. Too risky.
+
+Sitting up, Rain glanced at the time, then yawned, reaching down to massage his back—or more accurately, the back of his armor.
+
+That rock wasn’t there when I went to bed, I swear.
+
+Tallheart had added some new enhancements. One of those was called Tactile Transference, and it was perhaps the greatest example of Arcane bullshit that Rain had heard of to date. Essentially, it let him feel through his armor, as insane as that was to think about. The sense was slightly muted, as if he was wearing cloth instead of solid metal. Still, compared to what he’d gotten used to, it was night and day.
+
+Not without its downsides, though.
+
+Rain sighed, pressing harder. The knot was only in his mind, he knew, but so was the feeling of his fingers rubbing it away. His clenched muscles loosened after a moment, and he looked up to see Ameliah watching him. She was fully armored, seated against the wall near the cave entrance, with the darkness of the Ashen Jungle behind her. He waved to her silently. She waved back, and he smiled, getting to his feet.
+
+Stepping carefully over a slumbering Tallheart, he made his way over to the strongroom to gather materials for breakfast. While he was at it, he activated Purify, letting the spell spread out into the cave to wash over his friends. He kept the level low to avoid generating too much light, letting it run for a good ten seconds. He was more concerned about waking Tallheart than drawing in monsters. His soul did that just fine. If not for essence depletion, they’d be under heavy assault right now.
+
+Carrying a pot filled with raw ingredients in one hand, Rain exited the strongroom and walked softly over to Ameliah, stopping beside her to give her shoulder a friendly squeeze. Her armor bore the same enchantment as his, and the two worked even better together than they did alone, making it feel like the metal wasn’t even there. He could feel the texture of her shirt against his fingertips and the warmth of her skin below.
+
+“Hey,” Ameliah said softly, laying her hand over his and sending fireworks of sensation through his mind.
+
+“Hey,” Rain managed to reply.
+
+Ameliah took her hand away to raise her visor, then tapped a finger demandingly against her lips.
+
+Rain grinned, raising his visor as well. He bent down, juggling the pot as he leaned in to kiss her. He smiled as their lips met, Ameliah biting at his playfully. Before he could be tempted to just stay there for the whole morning, he pulled away. Unfortunately, there was work to do.
+
+“You’re up early,” Ameliah said, sounding slightly disappointed.
+
+Rain nodded, shifting the pot against his hip. “The clock I built is still running a bit fast.” He declined to voice his suspected reason for that, not wanting to jinx it. He needed to be sure before he allowed himself to get his hopes up. Testing his hypothesis was going to be annoying, now that Ameliah no longer had Message. With it, she could have sent him the time from outside, but now, he was going to have to do it himself with scheduled essence exchanges or something.
+
+If I could just get the system working in my soul, this would be a non-issue. Near the Tear, I can almost feel...something...just out of reach. It’s infuriating.
+
+Rain stepped out of the cave. The dim light of the lava illuminated the island well enough, but beyond it, it was too dark to make out the trees. Setting the pot down next to the cold remains of their cookfire, he straightened, speaking to Ameliah over his shoulder. “Any trouble?”
+
+“No,” she replied, fighting through an enormous yawn.
+
+“Good,” Rain said, fighting off a yawn of his own. Bending, he set about rebuilding the fire, then began making breakfast—spicy vegetable stew. They seemed to eat a lot of stew these days, but usually without much in the way of flavor. Today would be different. He’d found some decent chilies out in the jungle and had been waiting for his turn at cooking to use them. It was a shame, but he’d need to moderate how many he added out of respect for the others.
+
+Wimps.
+
+As he worked, he chatted with Ameliah about this and that, mostly food, somehow getting onto the subject of Cadbury Creme Eggs. Ameliah liked sweet things, and Rain was convinced that a supermarket candy aisle would blow her mind. There was simply no way she’d be prepared to handle that much weaponized sugar. She found supermarkets in general unbelievable, which wasn’t that surprising in retrospect. There were just so many things in his old world that he’d taken for granted.
+
+Soon enough, the stew was bubbling away merrily, already filling the air with a delicious, peppery aroma. Leaving it to boil, Rain plonked himself down next to Ameliah with a sigh, then gestured to the pot. “Keep an eye on this for me? I’m going to check my status.”
+
+“Sure,” she said, shifting herself so she was leaning against him instead of the cave wall. She yawned again, then rested her head on his shoulder. Rain smiled, feeling the soft skin of her cheek through a tear in his Forceweave. He extracted the arm that she’d pinned between them, then wrapped it around her waist. In response, she snuggled against his chest, making herself comfortable.
+
+This enchantment is the best. I owe Tallheart so much.
+
+Rain sighed contentedly, then sent a quick warning to Dozer before triggering an essence exchange. He wasn’t worried about anchor stations breaking loose when his paling contracted. That was one of the first things he’d needed to fix after his early experiments with the Barnacle. It had taken him several days of trial and error, but he’d managed to make the glue holding the structures in place both flexible and strong enough to resist being dislodged.
+
+Setting a marker, Rain pulled up his progress since they’d began mining for fish. They’d be moving on today—for real, this time—and he wanted to make sure he was ready.
+
+Progress Report
+
+marker_1: deeper [3060 Fallow 30 08:00]
+
+marker_2: spicy_breakfast [3060 Breaking 15 06:49]
+
+Span: 17 days
+
+Character
+
+Total Exp: 1,961,992 -> 1,971,992 (+10,000)
+
+Skills
+
+Shroud: 4 -> 9 (+5)
+
+Chemical Ward: 1 -> 5 (+4)
+
+Suppression: 1 -> 4 (+3)
+
+Tolerance
+
+Recovery: 39 -> 55 (+16)
+
+Vigor: 57 -> 93 (+36)
+
+Attribute Buff: 190 -> 238 (+48)
+
+Speed: 2 -> 4 (+2)
+
+Synchronization
+
+Strength: 11.3 -> 14.6 (+3.3)
+
+Recovery: 5.0 -> 5.5 (+0.5)
+
+Endurance: 4.4 -> 6.0 (+1.6)
+
+Vigor: 6.9 -> 7.7 (+0.8)
+
+Focus: 27.6 -> 44.3 (+16.7)
+
+Perception: 8.7 -> 9.3 (+0.6)
+
+Is this normal?
+
+Rain smiled wryly, surveying the paltry increases to his skills. They had been mining fish for a long time. Over two weeks, and yet he hadn’t maxed everything out. Far from it. Without Winter, he simply didn’t have the mana to throw at his new skills. Most of his regeneration went toward Mana Manipulation. Keeping everyone’s enchantments running was becoming a non-trivial challenge. Higher-tier enchantments came with proportionately higher costs.
+
+Mana Manipulation wasn’t the only way to charge stuff, of course. Ameliah had dumped it when it had failed to reveal any hidden skills, given that she now had access to Recharge Bound Item. The latter skill had the advantage of bypassing intake inefficiencies, though only for her own gear. She didn’t have a place for it in her final build, but her class let her get around that problem. She could simply swap the skill in as needed, allowing her to charge stuff in bursts every few days.
+
+Tallheart, too, had an alternate method, but it was problematic. Energize Runes was a tier-0 Runecrafting skill that converted Tel into item charge directly. Unlike Ameliah’s skill, it worked on other people’s items just fine, bound or not. The downside was the cost. Leveling the skill only made it faster, not more efficient, and the exchange rate was one mana per Tel, which was atrocious. It could certainly solve the charging problem, but only if they were willing to light all their money on fire.
+
+We could afford it, but it just seems like such a waste. Ascension is going to need heaps of cash going forward, what with all the recruiting… Just how many members are we going to have by the time we get back, I wonder?
+
+Rain shook his head, tabling such concerns and returning his attention to his status.
+
+He’d finally unlocked his last tier-3 skill tree, as indicated by the general experience he’d earned. There had been no fanfare from the system, but it wasn’t like it had released confetti when he’d finished off tier 2, either. Naturally, he’d done a before-and-after check on his soul, but it had proven unenlightening. His core had seemed unchanged by the unlock, and if his paling had expanded, the change was too small for him to measure. The paling seemed to vary slightly in size from day to day anyway, being flexible and all that.
+
+The failure of his experiment was disappointing, but he was over it. There were plenty of other things to get excited about. For example, despite not working himself particularly hard, Rain had found his tolerance and synchronization rising by leaps and bounds. Through some experiments, he’d determined that this was a side-effect from bathing his core in purified essence. Finally, he’d discovered a real, tangible benefit to all the time he’d sunken into exploring his soul. Sure, there was linksight, but that wasn’t something he’d earned. It was just another symptom of the damage, albeit a beneficial one. No, this was something that he’d discovered himself through dedicated investigation, experimentation, and effort. And if his intuition was correct, it was only the first benefit of many.
+
+When its fuel is clean, the body grows stronger. Pure essence is the key to bringing the soul and the body into alignment. This is the kind of edge Ascension is going to need if we’re going to survive. I’m not the only one who can benefit from knowing this stuff, either. Ameliah’s already close to a breakthrough. I can feel it.
+
+Rain looked down, then smiled, seeing that Ameliah had closed her eyes. She had a few freckles across the bridge of her nose that were almost too faint to notice from a distance. From this close, he couldn’t help himself from getting captivated by them as she breathed softly, completely at peace.
+
+She is so adorable, I can’t stand it. What did a scrub like me ever do to deserve someone like her?
+
+After a few more seconds, Rain reluctantly tore his gaze away. He fixed it instead on the darkness, squinting at it suspiciously.
+
+Well, if she’s sleeping, that means I’m on watch. What is it with her and using me as a pillow, anyway? Not that I mind.
+
+With his free hand, Rain gently closed Ameliah’s visor. She stirred slightly at the motion but didn’t wake. Closing his own visor as well, Rain took one more look around, double-checked that his Detection macro was running, then returned his attention to his interface. It wasn’t like his eyes could tell him anything important that his magic couldn’t anyway, and he wanted to finish what he’d started.
+
+Inventory
+
+Slot
+
+Item
+
+Charge
+
+Saturation
+
+Durability
+
+Head
+
+Chest
+
+Legs
+
+Hands
+
+Feet
+
+Offhand
+
+Myriad Plate
+
+Bound
+
+Durability
+
+Hardness [12,047]
+
+500 Heat Resistance
+
+500 Cold Resistance
+
+375 Chem Resistance
+
+350 Force Resistance
+
+5,000 Arcane Resistance
+
+Lightness
+
+Compression
+
+Thermal Regulation [ON]
+
+Tactile Transference [ON]
+
+Facade [OFF]
+
+Obfuscation [OFF]
+
+Arcane Regeneration [OFF]
+
+Kinetic Conversion
+
+1,213 / 185,500
+
+0 / 154,209
+
+258,226 / 602,044
+
+Ring[0]
+
+Ring[1]
+
+Ring[2]
+
+Ring[3]
+
+Ring[4]
+
+Malleable Ring
+
+Bound, Unity
+
+258/287 Attributes [˃]
+
+97 / 226
+
+0 / 1,907
+
+102 / 102
+
+Ring[5]
+
+Aura Collector’s Ring
+
+Bound, Unity
+
++1.12 Aura Synergy [ON]
+
+47 / 500
+
+0 / 4,272
+
+813 / 813
+
+Ring[6]
+
+Aura Collector’s Ring
+
+Bound, Unity
+
++1.12 Aura Synergy [ON]
+
+47 / 500
+
+0 / 4,278
+
+814 / 814
+
+Ring[7]
+
+Aura Collector’s Ring
+
+Bound, Unity
+
++1.12 Aura Synergy [ON]
+
+47 / 500
+
+0 / 4,273
+
+816 / 816
+
+Ring[8]
+
+Aura Collector’s Ring
+
+Bound, Unity
+
++1.12 Aura Synergy [ON]
+
+47 / 500
+
+0 / 4,274
+
+813 / 813
+
+Ring[9]
+
+Aura Collector’s Ring
+
+Bound, Unity
+
++1.12 Aura Synergy [ON]
+
+47 / 500
+
+0 / 4,271
+
+814 / 814
+
+Amulet
+
+Magewell Amulet
+
+Bound, Unity
+
+Mana Well
+
+100% Import Efficiency
+
+100% Export Efficiency
+
+9,242 / 50,000
+
+0 / 39,211
+
+313 / 313
+
+Mainhand
+
+None
+
+NA
+
+NA
+
+NA
+
+Underwear
+
+Forceweave Rags
+
+Mundane
+
+NA
+
+NA
+
+NA
+
+Overwear
+
+None
+
+NA
+
+NA
+
+NA
+
+Rain sighed, though all of the red wasn’t exactly unexpected. Concentrating, he used Mana Manipulation to feed a trickle of mana into his rings, refilling them one at a time. Rather than sending the mana directly, he sent it spiraling up his arm like a stream running just beneath its surface. He’d taken to doing things like that as a way of practicing his fine control for the day he finally unlocked Elemental Refinement.
+
+As if I’ll have a skill point for that any time in the next ten thousand years.
+
+Once the rings were all evenly charged, Rain directed his attention to his armor, visualizing his mana spreading from his stomach, following his veins like roots seeking water. This proved as impossible as always. After a few more attempts, he gave up and let the skill take over. Left to its own devices, Mana Manipulation simply took the straightest path—in this case, sending a cloud of mana straight from his skin into the new, 25%-efficient intake runes spread across the armor’s interior. After he’d added 500 units of charge, he stopped.
+
+That should be enough for today. I can’t spare any more.
+
+He sighed.
+
+This sucks. It’s like living paycheck to paycheck.
+
+Shaking his head, Rain pushed the thought out of his mind, unwilling to let it get to him. The armor was amazing, as was the rest of his new equipment, even if the upkeep was a bit steep when combined. Access to proper materials made all the difference in the world. Tallheart had outdone himself.
+
+Firstly, Rain’s armor was up to seven layers now. The original three—Thermalitic Bronze, Chemical Pewter, and Force Steel—were unchanged, given that they didn’t have GranCrysts of the required elements to modify them. With GranTel, the more recently added adamant layer could now support enhanced versions of Durability and Hardness, but not a stronger version of Force Resistance.
+
+Grand Arcane Atantum—atantum being the deepened version of gold—was great for linking runes and supporting structures. A thin layer of it had been enough for Tallheart to integrate the offhand slot with the armor as a whole. Not having to carry a shield anymore was nice, but the real benefit was that the entire armor set could now benefit from shield-specific runes like Kinetic Conversion. However, the addition of the shield slot meant that more metal was needed to support the growing list of enchantments. So much metal that the plates would have become too thick for the joints to function properly. Fortunately, Tallheart had a solution for that.
+
+Grand Arcane Valis, it turned out, had high compatibility with Compression runes, similar to the ones that had been on Rain’s old Quickstaff, except less shit. The particular runes Tallheart had used couldn’t be toggled, but neither would they start degrading the metal after a certain number of uses—something Rain would have been angrier about not being informed of had the Quickstaff survived long enough for it to become an issue.
+
+For the armor, Compression’s effect was straightforward, thinning the plates down to something manageable. They did nothing for the weight, but that was mostly offset by the Lightness runes Tallheart had added, along with a layer of aluminum. Aluminum wasn’t a deepened metal, but its affinity for the mass-reducing enchantment was decent—better than anything else available to them, anyway.
+
+The remaining enchantments were supported on the Valis layer, the thickest layer by far out of necessity. Facade was a simple one that altered the armor’s appearance. It was why Tallheart’s armor looked like steel, not adamant. Finely crafted steel armor was bad enough, but adamant was something else entirely. The skill required to shape the metal was above and beyond that of an ordinary smith. Bound or not, wearing it around was just asking to be mugged by a covetous Citizen. In the same vein, Obfuscation was designed explicitly for confounding appraisal skills, not that those were common. Like the similarly named skill, it also disrupted Divination in general, though only that which was targeted at the wearer directly. Both enchantments were toggleable, and Rain and Ameliah would activate them before returning to the surface. Down here, shielded by at least half a kilometer of stone, they weren’t worth the mana.
+
+Arcane Regeneration was the big one, and it was exactly what it sounded like. It was similar to Dark Regeneration, but faster and without the allergy to light. It had a crummy efficiency, though, made worse by the complexity of the armor with all its different layers. Tallheart didn’t have it on his own equipment for that reason, along with the frankly stupid amount of Valis it required.
+
+The last enchantment was Arcane Resistance. Its effect was the most obvious of all, and also the reason Rain had felt like he had an elephant sitting on his chest since he’d woken up. To this day, he still hadn’t been able to get the system to tell him his resistance tolerances. At this point, he’d basically been forced to acknowledge that they didn’t exist—at least, not in the same way that they did for stats. There was definitely a limit, given how he was feeling, but it didn’t seem to come with any measurable consequences besides discomfort.
+
+He said before shattering his soul into a million tiny pieces.
+
+Rain shook his head. He’d crawled all over his paling, both with and without the armor equipped, checking for signs of added stress. There had been none. He’d had Ameliah hit him with Arcane damage—hard, too—and again, there were no signs of a problem. He was being as careful as he could be. After all, he needed that resistance. Without it, one hit from a Sparkscale could be fatal.
+
+Tallheart had designed Rain’s armor to have better mana conversion than his own, hence the low intake efficiency, but it wasn’t perfect. Arcane resistance would be the only thing stopping Rain from getting instagibbed by the leakage should he take a Lightning Bolt to the face. He still got chills thinking about how he’d gone into the tunnels without sufficient defenses other than his friends’ protection.
+
+Rather than dwelling on how many times he’d almost died, Rain returned his attention to his inventory window. His new rings were made from Grand Arcane Atantum, and they were terrific. The enchantment itself was mana-hungry, but Aura Synergy had no cost and boosted basically everything that he had in both power and range. Doing the math, it was the best choice overall, though Aura Compression had been a contender if pure power was all you cared about. Also terrific was the fact that there didn’t seem to be a soulstrain category for skill boosts, though there was still the hard cap—rank 15 for bronze, 20 for silver.
+
+The rings were another thing that had to be hidden. Not because anyone would be champing at the bit for a boost to an aura skill, but because their existence spoke of a crafter able to make them. Fortunately, their Unity runes meant they could piggyback on both Facade and Obfuscation. Ameliah’s rings were the same in that way.
+
+Rain looked down at her, still barely believing that the system permitted the combo that she was using.
+
+Her rings are so cheese. Not quite ash-yam-and-bloat cheese, but still. Total video game bullshit.
+
+To begin with, Ameliah had ranked Empowered Rings up to 10, doubling the power of any ring enchantments she chose to use. If she then wore a ring that added +1 to, say, Empowered Rings—because of course that was allowed—+1 became +2. Except it wasn’t that simple.
+
+In Grand Arcane Atantum, the maximum skill boost on a ring was +1.12, not +1. The system simply truncated the excess, as you couldn’t have a fractional skill level. The thing was, the boost from Empowered Rings applied before the truncation, and the calculation was recursive.
+
+Rain’s eyes flicked to the side, and a window opened, showing the calculated progression for various numbers of rings.
+
+# Rings
+
+Progression
+
+1
+
+1.12*(1+10/10)=2.24, coerced to 2
+
+1.12*(1+12/10)=2.46, coerced to 2
+
+Empowered Rings leveled off at rank 12
+
+2
+
+2.24*(1+10/10)=4.48, coerced to 4
+
+2.24*(1+14/10)=5.38, coerced to 5
+
+2.24*(1+15/10)=5.60, coerced to 5
+
+Empowered Rings leveled off at rank 15
+
+3
+
+3.36*(1+10/10)=6.72, coerced to 6
+
+3.36*(1+16/10)=8.74, coerced to 8
+
+3.36*(1+18/10)=9.41, coerced to 9
+
+3.36*(1+19/10)=9.74, coerced to 9
+
+Empowered Rings leveled off at rank 19
+
+4
+
+4.48*(1+10/10)=8.96, coerced to 8
+
+4.48*(1+18/10)=12.54, coerced to 10
+
+4.48*(1+20/10)=13.44, coerced to 10
+
+Empowered Rings leveled off at rank 20
+
+The key takeaway was that only 4 rings were required to get to rank 20, not 5. That wouldn’t have been enough to make it worth the effort, not on its own. Using four slots to boost the other six wasn’t as efficient as just using all ten slots for other enchantments directly. However, once Ameliah had Empowered Rings at rank 20, she could actually remove a ring. 3.36*(1+20/10)=10.08. That was just barely enough to hit the breakpoint, nudging the slot efficiency ever-so-slightly in their favor.
+
+Rain looked up, rubbing at his faceplate and feeling his fingers against his temples.
+
+And I used to wonder how Tallheart and Lilly managed to survive down here alone. She had most of the skills Ameliah’s got, but with an extra plus-five across the board from her specializations and another plus-three to everything in Equipment Use. She wouldn’t have needed to worry about any of this. She’d only need one ring to get to the cap. And Tallheart, hells. Just being able to MAKE a skill ring is insane in the first place. His class is stupid good. At mid-silver, he’s making gear that goldplates would kill for. Dedicated crafters are OP, especially if they’re working with someone who has item skills.
+
+Recognizing that he was getting off track, Rain took a deep, calming breath, then returned his attention to his inventory window.
+
+The final item on the list was his amulet, which was meant for storing mana. Rykir was the deepened version of lead, and it was bonkers in terms of mana capacity per unit volume. Further, Tallheart had been able to give it perfect import and export efficiency. It wasn’t armor, so the mana conversion rate didn’t matter. Essentially, the amulet was a soulstrain-free extension of Rain’s mana pool, limited by the transfer rate of Mana Manipulation.
+
+If only I could spare the mana to fill it. I can spare a little, though.
+
+Concentrating again, Rain sent 2,000 mana into the amulet. Strictly speaking, that was too much for him to recover before they were planning to descend, but he’d be able to get it back if he needed it. That was the point of having a well, after all.
+
+Notably missing from Rain’s equipment window was the Digger’s Mattock, but that was simply because it was lying half-forgotten in the strongroom somewhere. Tallheart hadn’t bothered to upgrade it. He’d been working basically flat-out as it was. He’d managed to partially repair his gauntlet, but his hand was still hurting him. It just wasn’t worth it for him to upgrade something that Rain would never use in combat. The mattock was a tool, not a weapon. Ameliah was the weapon.
+
+Rain looked down at the beautiful woman using him as a pillow, encased in her armor, then over at her bow and quivers, sitting innocently on the cave floor. It was hard to wrap his head around just how powerful she was with her new build and equipment. In his old world, it was the kind of power possessed by militaries, not by individuals. It was simply insane.
+
+Rain looked back at Ameliah, shaking his head slowly. He trusted her completely, of course, but there were others out there who were stronger. Much stronger.
+
+It’s no wonder society here is so fucked. At least the damage limit kinda keeps a lid on things when you combine it with the passive resistance cap. If goldplates were completely unkillable on the surface, rather than 75% unkillable, it would be even worse. As it is, they can keep each other in check. It’s just bad news for anyone caught in the crossfire.
+
+Rain shuddered, thinking back to the fight between Westbridge and Halgrave.
+
+If that had happened after the rank shift, the city might not have made it.
+
+Ameliah shifted, and Rain realized that he was squeezing her too tightly. He loosened his grip around her waist, forcing himself to relax.
+
+I can’t be thinking about this stuff right now. I just need to be strong enough to survive today. I’ll worry about the rest once I’m back on the surface.
+
+A footstep made Rain turn his head, and he saw that Tallheart had risen and was moving toward them. Rain raised a finger to his lips, and Tallheart nodded, continuing silently out of the cave. Rain watched him walk to the bubbling pot hanging over the fire. Stooping, the cervidian stuck a finger into the soup, then rose to inspect the liquid clinging to the armored digit.
+
+Rain held his breath.
+
+After a moment’s consideration, Tallheart stuck his finger into his mouth, licking it clean. He paused, then turned to look at Rain and gave him the barest of nods.
+
+Rain grinned.
+
+Nailed it.
+
+25/25 Slots
+
+Accolade
+
+Bonus
+
+6 [2x3]
+
+We Can’t Just Call It‘The Lair’
+
++400Force Res
+
+4 [4x1]
+
+The Halls of Corruption
+
++40Focus
+
+4 [2x2]
+
+The Icy Cellar
+
++1,000Health
+
+3
+
+The Lair of Embers
+
++1,000Heat Res
+
+2
+
+Southshore Rat Warren
+
++1,000Health
+
+2
+
+Oh Gods!Not Another Chem Lair!
+
++1,000Mana
+
+2
+
+The Ice Cavern
+
++20Strength
+
+1
+
+Everdeep Fortress
+
++10Perception
+
+1
+
+Snow Sprite Lair
+
++5Endurance
+
+Total Known Skill Trees
+
+Tier 0: 144
+
+Tier 1: 144
+
+Tier 2: 144
+
+Tier 3: 144
+
+Tier 4: 0
+
+Richmond Rain Stroudwater
+
+CLASS
+
+LVL
+
+CAP
+
+Dynamo
+
+24
+
+24
+
+EXP
+
+NEXT
+
+TOTAL
+
+55,249
+
+55,250
+
+1,971,992
+
+Vitals
+
+CUR
+
+MAX
+
+RGN
+
+Health
+
+3,589
+
+3,600
+
+750/d
+
+Stamina
+
+898
+
+900
+
+1230/d
+
+Mana
+
+3,674
+
+9,850
+
+826.2/h
+
+Attributes
+
+258/238
+
+EFF
+
+TOTAL
+
+BASE
+
+ACCLD
+
+MISC
+
+SYN
+
+STR
+
+38.9
+
+80
+
+10
+
+20
+
+50/50
+
+48.7%
+
+RCV
+
+35.8
+
+75
+
+10
+
+0
+
+65/55
+
+55.0%
+
+END
+
+18
+
+45
+
+10
+
+5
+
+30/30
+
+40.0%
+
+VGR
+
+79.3
+
+123
+
+10
+
+0
+
+113/93
+
+77.0%
+
+FCS
+
+44.3
+
+50
+
+10
+
+40
+
+0/198
+
+88.6%
+
+CLR
+
+260
+
+260
+
+260
+
+0
+
+0/181
+
+100.0%
+
+PER
+
+9.3
+
+20
+
+10
+
+10
+
+0/0
+
+46.5%
+
+SPD
+
+9.4
+
+10
+
+10
+
+0
+
+0/4
+
+94.0%
+
+Resistances
+
+TOTAL
+
+END
+
+ACCLD
+
+MISC
+
+HEAT
+
+1,504.5 0%
+
+4.5
+
+1,000 0%
+
+500 0%
+
+COLD
+
+504.5 0%
+
+4.5
+
+0 0%
+
+500 0%
+
+LIGHT
+
+4.5 0%
+
+4.5
+
+0 0%
+
+0 0%
+
+DARK
+
+4.5 0%
+
+4.5
+
+0 0%
+
+0 0%
+
+FORCE
+
+754.5 0%
+
+4.5
+
+400 0%
+
+350 0%
+
+ARCANE
+
+5,004.5 0%
+
+4.5
+
+0 0%
+
+5,000 0%
+
+CHEMICAL
+
+379.5 0%
+
+4.5
+
+0 0%
+
+375 0%
+
+MENTAL
+
+4.5 0%
+
+4.5
+
+0 0%
+
+0 0%
+
+Skills
+
+Aura Metamagic
+
+Tier 0
+
+Amplify Aura (10/10)
+
+Multiply aura intensity by 200%
+
+Multiply aura mana cost by 300%
+
+Extend Aura (10/10)
+
+Extend aura range by 10 meters
+
+Multiply aura mana cost by 300%
+
+Tier 1
+
+Aura Focus (10/10)
+
+Focus on an aura to boost its output
+
+Multiply aura intensity by 300%
+
+Multiply aura range by 300%
+
+Multiply aura mana cost by 300%
+
+User loses all external senses while focusing
+
+Aura Synergy (15/10)
+
+Increase all aura output by 1.5% for each rank in any aura
+
+Effective boost: 178.5%
+
+Tier 2
+
+Aura IFF (10/10)
+
+User may exempt entities from direct aura effects at will
+
+Selected entities receive 0.0% aura output
+
+Tier 3
+
+Aura Compression (10/10)
+
+Compress aura output, reducing range to boost intensity
+
+Increase intensity by 2% per meter of compression
+
+Defensive Auras
+
+Tier 1
+
+Arcane Ward (10/10)
+
+Increase arcane resistance by 83.55% for all entities
+
+Range: 27.9 meters
+
+Cost: 1 mp/dmg mitigated
+
+Chemical Ward (5/10) Exp: 2122/2200
+
+Increase chemical resistance by 41.775% for all entities
+
+Range: 13.9 meters
+
+Cost: 1 mp/dmg mitigated
+
+Mental Ward (1/10) Exp: 0/200
+
+Increase mental resistance by 8.355% for all entities
+
+Range: 2.79 meters
+
+Cost: 1 mp/dmg mitigated
+
+Tier 2
+
+Force Ward (10/10)
+
+Increase physical resistance by 83.55% for all entities
+
+Range: 27.9 meters
+
+Cost: 1 mp/dmg mitigated
+
+Tier 3
+
+Suppression (4/10) Exp: 4290/5600
+
+Increase mana costs for all entities by 139.25 mp (fcs)
+
+Range: 11.1 meters
+
+Cost: 4 mp/s
+
+Magical Utility
+
+Tier 0
+
+Intrinsic Clarity (10/10)
+
+Multiply base mana regeneration by 300%
+
+Intrinsic Focus (10/10)
+
+Multiply base mana by 300%
+
+Tier 1
+
+Channel Mastery (10/10)
+
+Allows intuitive control of channeled skill intensity
+
+Minimum skill intensity: 0%
+
+Maximum skill intensity: 200%
+
+Skill mana cost modified by intensity adjustment
+
+Mana Manipulation (10/10)
+
+Allows internal control of mana
+
+Allows expulsion of mana to environment
+
+Allows transfer of mana to and from capacitive items with direct contact
+
+Maximum transfer rate 2000.0 mp/s (fcs)
+
+Tier 2
+
+Magical Synergy (10/10)
+
+Enables limited synergistic cross-coupling of magical attributes
+
+25.0% of Focus contributes to mana regen
+
+25.0% of Clarity contributes to mana
+
+Offensive Auras
+
+Tier 0
+
+Immolate (10/10)
+
+243.69-278.50 heat (fcs) damage per second to entities and environment
+
+Sufficient damage causes ignition
+
+Range: 27.9 meters
+
+Cost: 50 mp/s
+
+Refrigerate (10/10)
+
+243.69-278.50 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 27.9 meters
+
+Cost: 50 mp/s
+
+Tier 1
+
+Radiance (10/10)
+
+243.69-278.50 light (fcs) damage per second to entities
+
+Brightens environment (fcs)
+
+Range: 27.9 meters
+
+Cost: 50 mp/s
+
+Shroud (9/10) Exp: 2919/7400
+
+219.32-250.65 dark (fcs) damage per second to entities
+
+Darkens environment (fcs)
+
+Range: 25.1 meters
+
+Cost: 45 mp/s
+
+Utility Auras
+
+Tier 0
+
+Purify (10/10)
+
+Purify poison, corruption, and contamination
+
+Range: 27.9 meters
+
+Cost: 100 mp/min
+
+Winter (10/10)
+
+Boost M.Regen by 278% for all entities
+
+Range: 27.9 meters
+
+Cost: 10 mp/hr
+
+Tier 1
+
+Detection (10/10)
+
+Sense selected items of interest
+
+Not occluded by mundane materials
+
+Resolution: 1.09 mm
+
+Range: 27.9 meters
+
+Cost: 10 mp/s
+
+Essence Well (10/10)
+
+Transfer mana to all entities within range, including user
+
+Transfer Rate: 27.85 mp/s
+
+Efficiency: 20%
+
+Range: 27.9 meters
+
+Velocity (10/10)
+
+278.50% boost to speed for all entities
+
+Range: 27.9 meters
+
+Cost: 10 mp/s
+
+Free Skill Points: 0

@@ -1,0 +1,253 @@
+---
+id: b88aca23-115d-5efe-8b9a-6acd3a51c26d
+page-type-slug: story-chapter-royal-road
+title: "078: Heatsink"
+slug: 0078-078-heatsink
+partOf: delve
+position: 78
+ownLength: 4352
+unit: words
+publishedAt: 2020-02-06
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/454222/078-heatsink"
+royalRoadId: "454222"
+---
+
+Rain slowly sat up from his slumped position, careful not to make any sudden movements. The Watch didn’t look openly hostile, but he wasn’t going to take any chances. He licked his lips, thankful for the helmet that was concealing his expression. How did they get in here?
+
+“Nothing to say?” said Lamida, arching an eyebrow.
+
+Rain took a deep breath and let it out slowly. Play it cool. “Hello, Sentinel Lamida, Sentinel Phoss, Sentinel Talasa.” He’d made a point of learning the names of all of the Watch sentinels, though Lamida and Phoss were the only two he’d interacted with before.
+
+Phoss had been the one who’d requested his aid with the river, though ‘request’ wasn’t that accurate of a term for the way the man had asked. The burly sentinel made Lamida seem like a ray of sunshine by comparison. He was some sort of spear wielder, though Rain had never seen him fight.
+
+The red-haired, red-robed Lamida was a mage. A fire mage, to be specific. It was the spell she had used in the baths that had led him to that conclusion, rather than her choice in apparel.
+
+Sentinel Talasa he wasn’t sure about. She had a shield slung across her back and a mace at her hip, so she was likely a warrior of some kind. She was quite a bit younger than the others, perhaps nineteen or twenty. Currently, she was raising an eyebrow as she looked at him.
+
+“You know me?” she said curiously.
+
+Rain shrugged. “I’ve heard your name in passing. I’d like to say it’s nice to meet you, but I’m not sure about that yet.” He looked at Phoss, then at Lamida. “What do you want with me? I’ll be honest, I wasn’t expecting to wake up surrounded by the Watch.”
+
+“Are you saying you aren’t usually honest?” said Phoss, his tone cold and serious.
+
+Rain gulped. “Just an expression.”
+
+Phoss frowned but didn’t comment further. Lamida glanced at him, then returned her attention to Rain. “You know why we’re here. That skill, Winter, is it? It is hardly subtle. I too will be honest, to use your expression. It is impressive, to say the least.”
+
+Rain shifted uncomfortably. “Thanks, I guess. Still, I’m getting the feeling that you didn’t just come here for the mana.”
+
+“Relax,” Talasa said. “We’re not going to do anything to you. I don’t know what experiences you’ve had with the Watch before, but there’s no reason to be so twitchy.”
+
+Rain looked around the room again and shivered. The air was freezing, and the tables were filled with Watch officers and sentinels. There were a few Guild members around too, which made him feel better, at least slightly. They would have cleared the room if they were going to do something…
+
+He cleared his throat. “Okay then, you’re here for the mana, and to…?”
+
+“Just to talk,” said Lamida.
+
+“Okay, that’s fine I suppose,” said Rain. “Why is it so cold in here, though?”
+
+“That wasn’t us,” said Phoss. “Some Guilder in a blue robe got carried away. She said she was going to cool the room down, but Froststorm is hardly suited for fine control. She’s lucky she didn’t kill anyone.”
+
+Mahria? Rain looked around again but didn’t see the ice mage anywhere. He returned his attention to Lamida. “Okay. Let’s have a chat.”
+
+“I do not like your tone,” Phoss said, narrowing his eyes.
+
+Lamida stopped him with a raised hand. “Phoss, let me handle this, please.”
+
+Phoss’s frown deepened, but he sat back, nodding to her in deference. “Very well. As long as he shows respect.”
+
+Lamida cleared her throat. “I will cut straight to the point. You have two skills that are critical to seeing the city through the current crisis. We are here to make sure that you understand your responsibility and to secure your aid. Nothing more.”
+
+Rain blinked. “What do you mean by ‘secure my aid’? You aren’t going to lock me up in your barracks and force me to use Winter, are you?”
+
+“That is an insolent accusation,” growled Phoss. “You—”
+
+“Enough, Phoss,” said the younger sentinel, Talasa. She looked at Rain. “I understand your concern. It isn’t easy being a support class, trust me, I know. Relax, we’re not going to do anything like that. The Watch isn’t some greedy noble house or a bag of dicks like the DKE. We’re here to ask for your help, not to force you to do anything.”
+
+“Language, Talasa,” said Lamida sternly, but the younger woman grinned and scoffed at her.
+
+Rain smiled too, relaxing. Talasa seemed to be pretty easy-going for a sentinel. Bag of dicks? He sat back in his chair, the wood creaking as he shifted his weight. He nodded to Lamida, who was clearly in charge. “Okay, what do you want me to do?”
+
+Talasa spoke before Lamida did, causing the older woman to give her a frosty look. “We want you to come to our stronghold and use that skill. We’ll gather up all of our mages to maximize the effect. The Guild mages are welcome to come too. We need as much mana as we can generate if we want to get rid of the mana drain. Until we do that, we’re practically crippled.”
+
+“I suppose I can do that,” Rain said, still wary. “Just…I don’t want to be stuck there for days and days. I don’t know how long it’s going to take to charge up the barrier.”
+
+“Fair,” Lamida said. “When can you come?”
+
+“Tonight? I can use the skill while I sleep. How about you set me up with a bunk and I’ll just do that every night until the barrier is full?”
+
+“You can use that while you sleep?” Phoss said incredulously. “How?” Lamida and Talasa also looked surprised and there was a wave of muttering through the rest of the room. Rain winced. Oops.
+
+He paused to recover his composure, then shrugged. “I just…kinda do it. I don’t know.”
+
+“What are you hiding? Auras are shit, but yours… Who the hells are you and what is your secret?” Phoss asked, then shifted his focus to Lamida. “I’m having trouble getting a clear reading from him. Either he’s got something to block me, or he’s past the wall and that bronze plate is a fake.”
+
+Talasa glared at Phoss. “Secrets are fine, Phoss. For the last time, we aren’t starting an inquisition. I can’t read him well either, but Lamida can. She was there for his assessment. It’s fine.”
+
+“Enough, both of you,” Lamida said. She looked at Rain. “Will you help?”
+
+Rain nodded.
+
+“Do you require any payment?” Lamida asked.
+
+“No,” Rain said, shaking his head after considering briefly. “It costs me nothing, and it helps the city. That’s enough. Just…”
+
+“Yes?” Lamida said.
+
+“Can you stop Vel—Citizen Sadanis if she tries to—”
+
+“No, we cannot,” Lamida interrupted, her tone grave. “She is strong enough that the risk of subduing her is not worth the attempt. We will attempt to guide her actions through whatever means we can, but we cannot directly oppose her.”
+
+“Besides, she hasn’t done anything too egregious,” Talasa said. “She hasn’t even killed anyone. Westbridge is another story, but Citizen Sadanis doesn’t seem too bad. Yet.”
+
+“Really?” Rain said. “I’ve met her once before, actually. Before she became a Citizen. She doesn’t seem like the type to hold back.”
+
+“Politics,” Phoss grumbled, then spat on the floor. “It’s all a game. If she starts murdering Watch officers, word will get out, barrier or no. Vigilance would retaliate against the DKE, and that would be a bloodbath. She’s going to play the game, and so are we. Otherwise, the Empire is the only one that will win.”
+
+Rain nodded. Makes sense. They can’t take back the city without causing a direct conflict that would let the Empire get the advantage. Damn, the DKE has us over a barrel. As bad as they are, we can’t fight back or we’ll end up with something worse.
+
+“Do we have a deal?” Lamida asked, watching him coolly.
+
+Rain nodded and got to his feet, extending a hand to Lamida. Lamida stood and took it, shaking it firmly as the other Sentinels got to their feet as well.
+
+“We’ll take care of gathering the mages,” Talasa said. “Come to the west stronghold tonight. And thanks.”
+
+“You’re welcome,” Rain said, adjusting his cloak. “I’m going to go now. I’ve got a plan for cooling down the city.”
+
+“Refrigerate?” Lamida asked.
+
+Rain nodded. “You’ve been doing your aura research. Yes, I have Refrigerate, and no, I’m not going to use it where it can hurt anyone. I’m going outside the city. There’s enough space between the wall and the barrier for me to use it at full range. I don’t know how much I’ll be able to do, but the math looks promising.”
+
+Almost two hours later, Rain walked out through the gate of the city, alone at last. He’d gotten held up slightly; it seemed everyone wanted to talk to him for some reason. The appreciation was nice at first, but it had quickly gotten annoying. Val had helped fend off some of the more persistent questioners before he’d left to help with one of the reconstruction crews—another of the Citizen’s requests. Thankfully, Rankin hadn’t been around to make a fuss, though Rain didn’t like not knowing what he was up to. Gus had been there, though, and Rain had taken the opportunity to collect the rewards for the three quests he’d completed before the DKE attack. The Guild was still operating normally for the moment, though Gus wasn’t sure if the synchronization of the Guild ledgers with the main branch would work while the barrier was active. They’d know when the next scheduled update came around.
+
+Regardless of whether his Guild rating was going to reflect the quest completions, he now had around a hundred Tel and 250 copper in his pouch. He needed to stop by the bank at some point to pay the Citizen’s imposed tax. He’d also reserved 20 Tel for paying back Jamus. That left him with 70 Tel to spend, plus copper for every-day expenses. He was planning to stop by the adventurer’s shop again at some point, as well as Mlem’s stand in the market. However, right now, the Citizen’s quest was the foremost thing on his mind. It also gave him a convenient excuse to get away from all the questions. He hadn’t revealed IFF, content to let people believe that they’d need to stay away while he worked. Right now, that was exactly what he wanted.
+
+He looked at the dome as he walked down the road that led away from the city. The visibility beyond the barrier was practically zero. It looked like a veritable blizzard out there. The magical wall seemed to be more or less frictionless, judging from the fact that snow wasn’t piling up on top of it. He’d yet to have the opportunity to walk right up to it and investigate properly. He’d have time to do that later; for now, he had a job to do.
+
+Commencing Operation Heatsink.
+
+He stopped, having reached a spot about half-way to the barrier. Fel Sadanis was laid out in a sloppy circle, the wall following the contours of the land. He estimated that the city was no larger than a square kilometer or two. The land itself was relatively flat, sloping toward the river slightly. The magical dome formed a perfect circle where it met the ground, slightly off-center from the city itself. The radius was quite a bit larger, though, at least two kilometers. There was plenty of room for him to use Refrigerate without restraint.
+
+He bent down, making a futile attempt at reaching his toes in a stretch. He’d gotten used to moving in the armor, but just because Tallheart’s clever metalwork didn’t inhibit his flexibility, it didn’t mean he had much to begin with. His physical skills were still lacking, which was why he’d decided to kill two birds with one stone and work on his athletics while he was out here. The plan was to use Refrigerate as a Nova, chilling the air in a radius of 100 meters. He would then jog for 200 meters and repeat. He’d keep that up until he either ran out of mana, got too tired to keep running, or finished cooling off the city.
+
+He’d done a few experiments with water before, trying to find the point at which the skill would turn it to ice. However, without a second reference, he’d been unable to work out the formula. The temperature at which water boiled was the obvious choice for that second data point, but that would require him to make an assumption, namely that Immolate and Refrigerate followed the same formula. Also, there was the small issue of Immolate’s tendency to set everything on fire. That didn’t seem to be directly related to temperature, judging by the wording of the spell.
+
+All of this was academic. The real question was how strong of a Nova could he tolerate. To that end, it was time for a few experiments. He pulled up the skill card for Refrigerate and fired off a Nova with Channel Mastery reducing it by 99%. He left off Amplify Aura as it wasn’t efficient, but used everything else.
+
+Refrigerate (10/10)
+
+5-5 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 108 meters
+
+Cost: 4.5 mp/s
+
+At this level, the spell felt like a sudden cool breeze. By his own definition, a Nova lasted exactly one second. That was the tick rate for his auras; he couldn’t reduce it any further, despite trying. He knew that Refrigerate was capable of freezing water at this intensity, but it didn’t have enough time to do so after only a second. The air would become uncomfortably cold if he sustained it for longer, but not so cold that it would damage him in any reasonable timeframe.
+
+He could have left Refrigerate on constantly while he jogged of course, but he’d calculated that doing so would be much less efficient. He needed the range from Aura Focus, and he couldn’t jog blind. The mana cost for Refrigerate scaled with the radius, but the volume scaled with the radius cubed. That meant pausing every so often to use a strong Nova would be the best method for stretching his mana as far as it would go.
+
+As best as he could tell, the aura itself was invisible, perhaps with a bluish tint as it spread through the air. That might have just been due to the light emitted from his armor. If Purify was any guide, the visual effect should get stronger as he increased the power, but he couldn’t see it when he was using Aura Focus. He’d previously tracked the progress of the skill by the wave of expanding cold that formed as the magic spread, accompanied by the rushing of wind. He’d come to realize after a while that his initial impressions about how the skill worked weren’t quite correct.
+
+It wasn’t that the aura sent out a gust of cold air; it sent out a wave of cold magic. That magic—or mana or whatever it was—then chilled the air and did damage to any entities that weren’t exempt via IFF. The sudden decrease in temperature caused a decrease in air pressure, and that was what caused the wind. At least, he was pretty sure that was what was going on. Complex meteorology was beyond him. Any simple explanation was further complicated by the fact that the aura seemed to use up energy as it traveled through things.
+
+Any matter would block the aura, including air, with solid objects like walls blocking it almost completely. The chilling was strongest at the center, just outside the radius of his soul. However, he’d noticed something interesting. Once whatever piece of the environment—air, ground, water, whatever—reached a certain minimum temperature, it would stop getting colder. Further, it would also stop blocking the progress of the spell. It wasn’t that the magic expanded faster, it was that the zone of minimum temperature did. The minimum temperature itself also decreased as he fed more power into the spell, but more slowly than the rate of cooling.
+
+At least, that’s what I think is going on. Let’s try 10% Channel Mastery this time.
+
+Refrigerate (10/10)
+
+45-52 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 108 meters
+
+Cost: 45 mp/s
+
+This time, the drop in temperature was much more pronounced. When his sight returned, he was greeted by rushing wind and a few swirling flakes of snow. It was uncomfortably chilly but hardly worse than what he’d subjected himself to in the past.
+
+Getting there. I don’t want to spend all day playing around, though. His eyes flicked to his health, then back to the skill card. Screw it. 50%. If I get hurt, that’s just more practice for Recovery.
+
+Refrigerate (10/10)
+
+226-258 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 108 meters
+
+Cost: 225 mp/s
+
+Rain gasped and stumbled at the rush of wind and snow that buffeted him, sending his cloak whipping around as the pressure equalized. He scrambled to wrap it back around himself, squeezing his eyes shut against the arctic blast coming in through his visor. The chill he felt was only partly from the cold.
+
+Fuck, that’s strong. Holy shit.
+
+He looked around at the ring of frost on the ground. It hadn’t reached the theoretical 108-meter range before the magic was consumed, but it was still a massive area that had been chilled. It would have gotten there if he left the spell going, but that would have been dangerous. He started to shiver for real as the cold leached in through his armor, the metal rapidly cooling against his skin. He hadn’t lost any health, but it sure did feel like he should have. His cold resistance was slightly higher thanks to the Ring, but it wasn’t clear how much that was helping.
+
+Time to move.
+
+He started walking parallel to the city wall, then bumped his pace up to an easy jog. He was careful to watch his footing as his feet broke the icy crust that had formed over the muddy ground. The cold hadn’t penetrated far, but it was enough to create a slushy, muddy, icy mess. The cold air burned in his lungs as he ran.
+
+Yeah, I’m not going any higher than that. I hate jogging and I hate the cold. Jogging in the cold? Three out of ten. Not a fan. He shook his head. Come on, Rain, stop whining. No pain, no gain. I wonder if I can find some hot chocolate or something once I’m done here. Do they even have chocolate? Probably not. Chocolate’s tropical.
+
+He frowned and quieted his thoughts, focused on his form. He really didn’t want to do a faceplant into the icy mud. When he started feeling warm again, he let off another 50% Refrigerate Nova. He did it mid-stride, as he usually did with Detection. The gust of wind almost made him fall, but he recovered quickly, even picking up his pace a little. The point was to get a workout. Getting out of the circle of cold was a good motivator, even if he was just going to create another one as soon as he did.
+
+As he ran, he started to notice that something was different. His lungs were burning from the cold, true, but the rapid pace he was setting wasn’t making him tired. He glanced at his HUD to check his health and stamina. The red bar showing his health hadn’t budged, but the green one had dropped slightly.
+
+Hey, maybe jogging isn’t so bad after all. Thank you, Stamina!
+
+He increased his speed further, breaking into a full-on run. He grinned as the air rushed past him, firing off another Nova. This time, he barely stumbled, armored feet crunching through the frozen layer of mud.
+
+Magic fucking rocks.
+
+On the ramparts of Fel Sadanis, two figures stood watching the progress of the armored mage. Every so often, the cloaked man would release an expanding shell of faint blue magic. The light was quickly followed by an expanding dome of snow and wind.
+
+“That’s eleven times now,” Sentinel Talasa said. “How much mana do you think that uses?”
+
+Sentinel Lamida shook her head. There was no way to tell, not without investing further into unlocking a bunch of spells that she would never use. Even then, Rain’s class, whatever it was, was also likely responsible for mitigating the ridiculous efficiency problems intrinsic to auras. There’d be no figuring that out, short of asking him directly. She didn’t want to risk alienating the mage by bringing him in for a full inquest. She didn’t have justification for that, either. Rain had done nothing wrong, the original incident with Purify notwithstanding. No actual harm had been done there unless you counted an annoyed noble.
+
+“It’s pretty impressive,” Talasa said, bringing Lamida’s attention back to the running mage. “You’re sure he’s not a silver?”
+
+“I’m sure,” said Lamida. “And it isn’t that impressive. Any ice mage could do the same by the time they reached level 10. We just saw it with Froststorm earlier.”
+
+Talasa shook her head. “Yeah, but could they keep doing it like that? And while wearing plate armor and going for a jog? Also, I still can’t believe Phoss didn’t insist we lock that Guilder away. Using a spell like Froststorm inside is madness. What the hells was she thinking?”
+
+Lamida shrugged. “Their building, their rules. Plus, that was Lavarro’s daughter. Phoss knows better than to make an issue of it. We don’t need that kind of trouble right now.”
+
+Talasa looked over at her. “You think they are going to register a formal complaint against us? The Guild, I mean. We did sorta just barge in. That old guy was furious.”
+
+Lamida snorted. “Not likely. We can’t get any communications out other than by hand-code, and I doubt that they can either. I’d like to see them try to force an arbitration with gestures being the only way of talking with our respective guild leaders.”
+
+Talasa smiled, then turned her attention back to the running mage. “He’s pretty slow, even accounting for the armor. Look, there he goes again. Twelve times. That is an aura, right? I’ve never seen anyone use one before. Too inefficient. He wasn’t lying, was he?”
+
+“He was telling the truth. You need to work on your Reading. His soul is on the strong side, true, but you should be able to push through it if you apply yourself.”
+
+“Really?” Talasa said. “He’s got to be close to the wall then.” She tapped a finger on the stone parapet. “You’re sure he’s not a silver? Like, really sure?”
+
+“Yes,” Lamida said, flicking her gaze at the younger sentinel in annoyance. “Stop asking. I know you’ve never been further than ten leagues from Fel Sadanis in your life, but if you had, you’d know not to judge power levels against what you see in this backwater. He’s strong, but only when you compare him to fools stumbling in the dark.”
+
+“Hey, I’ve been further than that and you know it. You were there when I got my blue.”
+
+“That doesn’t count. And you aren’t supposed to talk about it.”
+
+“Does too,” Talasa said. “Relax. There’s no one around to hear. Anyway, I say he’s strong, even if you don’t agree. That armor looks pretty impressive. You think he’s got a backer?”
+
+Lamida tilted her head. “Maybe, maybe not. He’s…different. The way he speaks, it’s as if…I’m not sure. It’s like he’s been living in a cave and doesn’t know anything about society. He is educated, though. If he has a backer, then he was probably snatched up when he was a child and trained in isolation.”
+
+“Suspicious,” said Talasa. “Not to mention the fact that he just showed up one day. We’ve got no record of him entering the city before he left and came back with a pile of Tel and that armor. Something definitely happened there. You think he’s dangerous?”
+
+“Yes,” Lamida said, sighing. “And no. He’s category three, but he was being honest when he said he wanted to help the city. I’m more concerned about him causing damage without thinking. He’s no Abaras. We’ll watch him, but there’s no danger of him going down the same path as that…man.”
+
+“Was it really that bad?” Talasa said. “I’ve heard the stories, but…”
+
+Lamida shook her head, fighting off the dark memory. She’d put the rogue mage down herself, but there was no undoing what he’d done. The only things left in the village that he’d claimed were the graves of those who hadn’t made it out in time.
+
+She frowned, seeing that Talasa was looking at her expectantly. “It was bad,” she said simply. “Nobody is above the law. It was our job to put him down, even more so because he was one of our own. His power corrupted him.” She breathed out slowly, then nodded to Rain. “I don’t get that feeling from our new friend, but we will monitor him all the same.”
+
+Lamida watched as Rain slid to a halt at the bank of the river and released another pulse of magic. The surface of the water flash-froze, leaving a thin pane of ice floating on the surface of the still river.
+
+“Think he’s going to try to freeze it completely so he can cross?” Talasa asked, idly playing with the mace that hung at her waist. “Oh, wait, never mind. He’s heading back the other way. Hey, I bet you fifty copper he makes it all the way to the river on the other side.”
+
+Lamida snorted. “Impossible.” She paused to consider. “I shouldn’t, but fine. I accept.”

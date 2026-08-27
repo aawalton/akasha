@@ -1,0 +1,55 @@
+---
+id: 4299357c-8f78-5368-a088-28889cd52e36
+page-type-slug: story-chapter-royal-road
+title: "Prologue - Welcome to the Multi-Verse"
+slug: 0001-prologue-welcome-to-the-multi-verse
+partOf: defiance-of-the-fall
+position: 1
+ownLength: 1230
+unit: words
+publishedAt: 2019-05-05
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/359118/prologue-welcome-to-the-multi-verse"
+royalRoadId: "359118"
+---
+
+Information was power. It could both be the sword with which you impale your enemy, or the sword you impale yourself upon. That was what was going through Zac’s head as he walked through the woods with a small hatchet in his hand, his face glowing with a sheen of perspiration and irritation.
+
+He was still unsure of how a short mention about spending time in his family’s cabin as a child turned into him being tasked with bringing firewood back to the campsite. He pushed some intrusive shrubbery out of the way as he ventured further into the woods. Maybe his friends were laughing it up as they stayed by the fire in their cozy chairs with a few beers while he was living the age-old scenario of man versus nature.
+
+He swung his hatchet and chopped off a small twig, but immediately saw that it would make terrible firewood from how fresh it was. What the hell did he know about gathering firewood anyhow? It had always been his dad getting it for their cabin, and Zac was pretty sure that he had actually bought it rather than cutting down trees.
+
+It was a sweltering day in May, with high humidity even though not a cloud was in sight, probably from yesterday’s drizzle. This, along with it being spring, made Zac seriously doubt whether any of these trees made for a decent fire if chopped down. The humidity and moisture in the wood would turn the campsite into an inferno of tear-inducing smoke at the first lick of fire. If it was even possible to light the fire at all.
+
+Besides, this whole area was part of a nature reserve, and he was not really sure if there were legal ramifications to cutting anything down. Still, he trudged on, dragging his now sticky hair out of his face as he surveyed the surroundings.
+
+For exactly what, Zac still didn’t know. He was still half-hoping to run into a neatly stacked pile of firewood secured under a tarp, left behind by some more adroit forester. Zac had been walking around aimlessly now for fifteen minutes, and he wasn’t really cut out for this, so he could really use the backup.
+
+Which was sort of ironic, as his appearance would usually indicate someone who has a good command of the great outdoors. Standing at five feet eleven with a set of broad shoulders, sporting a flannel shirt with the arms rolled up to his elbows, he at least somewhat looked the part. But the slightly too even beard, the pudge at his belly, and the lack of wiry muscles coming from manual labor were signs of a far more sedentary lifestyle.
+
+He was actually just a marketing consultant who jumped onto the bandwagon and got the slightly grizzly look, as it seemed pretty popular at the moment. And it did actually pay dividends, as this trip was arranged with his new girlfriend, Hannah, and three of her friends.
+
+Truth be told, had it not been for the heat and the humidity, he wouldn’t really have minded this solo trip into the woods. It was always a weird situation, being a new addition to a group that has years of history together. To figure out the dynamics and personalities of everyone while keeping up with conversations where half the content is inside jokes and stories from before you were in the picture.
+
+Of course, they mostly seemed like decent people. David was open and cheerful, and the trip would likely have lost much of its energy had he not been there. Unfortunately, David’s interests diverged with his, him being into soccer and hockey and Zac into video games and art. This made it a bit harder to find things to talk about during the long trip up into the woods. But he was still a guy one wouldn’t mind having a beer with.
+
+David’s girlfriend, Izzie, was a harder pill to swallow, with her unceasing grandstanding about whatever issue she could insert into the conversation, be it veganism, environmental conservation, or social issues. Of course, Zac generally agreed with her points of view, but it did get tiring to be constantly preached to.
+
+It’s ironic, he thought, it’s often the kids of the elite who get like this. He had heard from Hannah that Izzie’s father was some sort of manager at a hedge fund, and her mother was a partner at some high-end law firm. Apparently, a complete lack of supervision and unlimited funds leaves one with a surplus of energy that needs to be directed somewhere. And in her case, it was usually a crusade against “the Man” and the corporate machine. Still, it was hard to stay annoyed forever with her, as her bubbling energy was somewhat infectious.
+
+Which left Tyler. Or the Snake, as Zac renamed him in his head. He seemed like a charismatic enough guy and had those annoyingly clean-cut good looks. Had he been in a movie, he’d be cast as the good-looking jerk the heroine was dating before she found her true love. Which was somewhat his situation here. Not that Tyler and Hannah had been a couple, but most people had probably expected them to sooner or later get together, as they hung out a lot with David and Izzie in some sort of faux double date. Zac was not overly surprised with the hidden hostility he’d gotten from Tyler since the day they first met two months back. Tyler probably felt that I sabotaged the grand plan of the universe when I came along and inserted myself into Hannah’s, and by extension his, life, Zac thought with a snicker.
+
+“Maybe I should get back after all…” he mumbled, a slight unease at the situation lingering, adding to his general irritation of being stuck in the woods, waving around a hatchet like an idiot.
+
+Zac wasn’t really a jealous guy, but also not a huge fan of leaving his girlfriend with a vulture circling around. And it wasn’t like he would magically produce some firewood by walking around in this forest any longer. He adjusted his grip on the axe and once again readjusted his bangs, which by now were a walnut mess of wax and sweat, and started veering back towards camp.
+
+He had trekked in somewhat of a semicircle and should return back to the vicinity of the camp, or at least the road they took to get here, if he just kept veering right. After walking along for another five minutes, battling the constant threat of shrubbery and mosquitoes, Zac came up to a small clearing.
+
+Insidious shrubbery and intrusive twigs gave way to rustling grass and patches of bloodroot and cardinals. Somehow it felt like an oasis, with a noticeable lack of things to scratch him, and the sounds of wildlife felt somewhat subdued. Not a bad place for a camp should we decide to move it a bit further into the woods, he mused as he walked into the center of the glade, taking a last look around before turning toward the direction of his camp.
+
+But as he prepared to leave, all sounds suddenly stopped without notice, turning to an almost deafening form of silence he hadn’t really ever felt before. Just a breath later, the world was darkness.
+
+[Initiating System…]
+
+[Welcome to the Multiverse.]
+
+…

@@ -1,0 +1,155 @@
+---
+id: f530f37f-6461-5cab-abab-8d8e65f2abb1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6 - Born for Carnage"
+slug: 0007-chapter-6-born-for-carnage
+partOf: defiance-of-the-fall
+position: 7
+ownLength: 1633
+unit: words
+publishedAt: 2019-05-06
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/359379/chapter-6-born-for-carnage"
+royalRoadId: "359379"
+---
+
+There was only one way to find out. The quest panel appeared when he asked what he was supposed to do. Maybe there were other panels as well?
+
+“Menu,” Zac said into the air, somewhat embarrassed, feeling like those LARP’ers he had once seen running around in the park. Nothing happened, and Zac felt he could almost hear the system snicker at him. Not discouraged, he continued to search for some other panels or menus.
+
+“Status.”
+
+This time it worked, and a new bar replaced the one with the quests.
+
+Name
+
+Zachary Atwood
+
+Level
+
+16
+
+Race
+
+Human
+
+Alignment
+
+Human (Earth)
+
+Titles
+
+Born For Carnage, Ultimate Reaper, Luck of the Draw, Giantsbane, Disciple of David, Overpowered, Slayer of Leviathans, Adventurer
+
+Strength
+
+31
+
+Dexterity
+
+25
+
+Endurance
+
+27
+
+Vitality
+
+27
+
+Intelligence
+
+29
+
+Wisdom
+
+29
+
+Luck
+
+44
+
+Free Stats
+
+30
+
+Nexus Coins
+
+5100
+
+The status screen did indeed look somewhat like what he expected, with levels and stats. There were a few points he did not really understand though. The first was the alignment. Did it need to be specified that it was humans on Earth that he was aligned with? Were there actually humans on other planets or in other dimensions?
+
+He was surprised how much like a game the rest of the screen was. While there didn’t seem to be such a thing as HP or mana, stats did exist. He didn’t have any framework of what the numbers meant though, apart from higher obviously being better. Ironically he saw that his highest stat actually was luck, even though he felt very much out of luck.
+
+Strength seemed pretty straightforward, while the other stats might mean different things. Dexterity likely had something to do with movement and reaction speeds. Endurance and vitality both meant survivability, though he wasn’t sure of the difference. He was pretty sure that his stats were higher than a normal human though, maybe from his level. He couldn’t explain his superhuman recuperation otherwise. While he still felt pretty banged up, he should be lying on a bed dying now with the wounds he’d sustained, not walking around.
+
+Intelligence and wisdom should increase mental faculties. If the world actually had magic and wizards now, these stats would probably make them cast spells better. Finally, he had thirty free stats. A quick count showed that he had gained two points per level-up, if he had started at Level 1. He held off trying to allocate any points though, as he still had no idea what he was doing.
+
+The titles, to be honest, sounded pretty badass. They didn’t, however, really feel like something that described him too well. He neither felt like he was born for carnage nor overpowered from the last encounter with the demonling.
+
+“Titles,” Zac said, hoping for some explanation of the titles and what they meant.
+
+Just as he hoped, a new screen popped up with an explanation.
+
+Born for Carnage: First to kill a monster in world. All stats +10%.
+
+Ultimate Reaper: First to solo kill an Incursion General in world. All stats +5, all stats +10%.
+
+Luck of the Draw: Successful in cheating death in an endeavor against all odds. Luck +5, Luck +20%.
+
+Giantsbane: Solo kill enemy 5 levels or more above you. All stats +1.
+
+Disciple of David: Solo kill enemy 10 levels or more above you. All stats +2.
+
+Overpowered: Solo kill enemy 25 levels or more above you. All stats +3.
+
+Slayer of Leviathans: Solo kill enemy 50 levels or more above you. All stats +5, all stats +10%.
+
+Adventurer: Reach level 10. Rewards: Strength +1, Endurance +1, Intelligence +1.
+
+“Amazing…” Zac whispered. Titles were far more important than just sounding cool. From looking at his status page, he realized that most of his stats came from his titles rather than being strong on his own.
+
+This also gave him a few very important realizations. Almost all titles came from killing things, meaning that the system probably did not wish for a peaceful and harmonious world. It wanted a world of conflict, where people became stronger by walking over the corpses of their enemies.
+
+That didn’t bode well for humanity. If the system incentivized killing, who knows if some people would go crazy and start massacring people for strength instead of monsters. Who’s to say that there were no titles for killing humans?
+
+He once again realized the urgent need to meet up with his family before some maniac started cutting people down in an attempt to power-level.
+
+The second important point was that there were different types of titles. The first type was the Adventurer title. This was probably a title most people would gain. He did not know how hard it was to gain levels, but seeing as he was already level 16 after three days, it should not take too long. Therefore the rewards were not too exciting.
+
+The second type was struggling to complete tasks that were extremely hard. Zac had a slew of rewards for killing monsters at a higher level than him. He was a bit confused at first. While it had almost killed him, it did not feel like killing the demonling warranted all these titles. It did not feel like a boss or some monster that was more than 50  levels above himself if he could kill it with some dumb luck, a well-placed rock, and a lumber axe. The only thing he could imagine was that the system had given him the kill credit for out-rolling the unlucky herald and awarded him with the titles.
+
+Those rewards were a lot stronger and gave him all stat boosts, which likely increased his all-around powers. The most difficult titles even gave multiplier bonuses to his stats. Those bonuses would only get stronger and stronger the higher his level went, and the more stats he accumulated.
+
+Having those kinds of titles would almost ensure he would be stronger than an opponent at the same level unless the opponent also had some hidden means.
+
+He now realized what the system meant when it said that the lottery was an opportunity. All odds were stacked against him, but if he survived, he would not only gain a bunch of experience, but also amazing titles that would benefit him forever.
+
+[Protocol SL-34572 is a lottery opportunity. Congratulations, user,] the robot voice once again droned, this time with a tinge of satisfaction discernable in the tone.
+
+“Still fuck you,” Zac muttered back, pretty sure he would have declined even if presented the opportunity again. It was only dumb luck he sat here today instead of being vaporized by the system.
+
+Finally there were the first kill titles. It seemed that being the first in the world to accomplish certain deeds would give a powerful title as well. Most likely no one else on this planet would be able to gain the Born for Carnage or Ultimate Reaper titles, as he’d taken them.
+
+From these facts he could somewhat imagine how the world would develop. Everyone would soon realize the possibility of becoming stronger and breaking the limits of the human body. The importance of titles would also soon be public knowledge, at the latest as soon as people started reaching level 10. Maybe the tutorial in the safe zones had already explained everything.
+
+Those who were willing to take large risks and survive would gain strong titles, which would make them even stronger, enabling them to level faster and gain even more titles. Some would become elites, being far more powerful than normal people.
+
+Maybe some would keep their humanity and help the average citizens, but many would probably become tyrants, domineering everyone with sheer power.
+
+The world had turned into a place where power was paramount. And if he wanted to protect his friends and family, he would have to become one of the elites himself. Luckily, he had a pretty substantial head start. Zac was pretty sure that high-level titles were not easy to obtain, so very few, if any knew about the amazing power they could bring.
+
+Finally below the stat points was something called Nexus coins, and he had 5,100 of them for some reason. If he were to compare the menu to an RPG, then the Nexus coins would be the in-game currency.
+
+“Nexus Coins,” Zac said, hoping to get an explanation similar to the titles, but nothing happened.
+
+“Coins. Currency. Shop. Store,” he continued, searching for a correct keyword. But still there was no response.
+
+“System, are you there?” he grumbled up to the heavens. “Can you come and explain the menu for me real quick? Such as the Nexus Coins and stats?”
+
+[By accepting Protocol SL-34572, user automatically declined standardized initiation protocol in favor of lottery opportunity. Please explore the system of the multiverse yourself. Goodbye,] the system soullessly responded in a mechanical almost word-for-word repeat of what it had said earlier. After this the system didn’t respond to Zac no matter what he asked or how he extolled, as though the system earlier somehow was here, but now had left.
+
+After a while Zac gave up and refocused on the task at hand. He would have to keep his head start going, and keep pushing forward and get more benefits in this new world. He also thought about classes. Perhaps the class system was similar, where some classes were better than others, and some might even be exclusive ones. Finally there were the mentions of towns and becoming a Lord. While not something Zac was planning on focusing on now, it seemed that it was something extremely beneficial, seeing how hard it was to attain.
+
+A plan was starting to form in his head of how to get out of this situation and head back to his family.
+
+First he needed his weapon.

@@ -1,0 +1,115 @@
+---
+id: 13343b66-3592-5671-b493-b294f22d82e7
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 1"
+slug: 0224-b4-chapter-1
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 224
+ownLength: 1440
+unit: words
+ownProgress: 1440
+publishedAt: 2024-11-04
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1885052/b4-chapter-1"
+royalRoadId: "1885052"
+markedReadAt: "2026-06-29T19:13:21.169Z"
+---
+
+Eternus
+
+Yakashi Kito feels nervous as he walks through the capital city of Eternus. As he passes by one massive electronic billboard after another, each advertising the grand celebration of the Heir to the throne’s commencement ceremony. A round of celebratory and congratulatory celebrations that will be going on for an entire week, starting with a ball on day one.
+
+But none of that matters to Kito. Because what really matters to him is where he is currently going.
+
+His mind is fully locked on his current objective.
+
+To join the Pale Mercenaries. The personal mercenary company belonging to the Horseman of Death.
+
+News of the beautiful Horseman of Death has spread all across the universe at this point. A woman both powerful, beautiful, and eccentric beyond measure.
+
+She has grown largely known for her mercenary acts over her century or more of activity throughout the universe. Joining one war after another, or ending one conflict after another. All based on her whims and depending on where she wishes to travel next.
+
+The one being in the entire universe other than Death Spirits who will never die.
+
+Who will be around for eternity.
+
+Ever since the war on Silverfall, where the Pale Horseman stayed completely neutral, mercenaries throughout the universe began running in droves to join her mercenary company. Whether it’s those who wish a tie to the Horseman of the Apocalypse, a tie to the imperial family of the Crimson Empire, or just to join a company that doesn’t enter conflicts for no reason.
+
+And Kito is not ashamed to count himself amongst those numbers.
+
+He keeps walking through the city until he begins to near the outskirts. At which point he finds the building he is looking for standing high above every other building nearby, right next to the Hunter’s Bay within the capital. Property given to the Pale Horseman by the new Prince of the Eternal Dynasty himself. A man otherwise known as the Silver Merchant.
+
+The building itself spans over a hundred floors, and it’s been rapidly filling up with new hires by the day. But from what Kito has heard, most of the time Death herself is nowhere near the building. Instead she is traveling from one world to another.
+
+Now, however, is a different matter.
+
+Kito glances at the entrance of the building, where he finds long lines of people who are obviously mercenaries waiting for their turn to enter the building. Meanwhile, staff belonging to the Pale Mercenaries, each with suits of high-tech armor with the Pale Horseman’s personal emblem imprinted on their armor’s shoulder marking their identities, move around guiding each of the mercenaries and keeping order. And in addition to them, various bottom ranking Death Spirits wander around acting as security.
+
+Now the Pale Horseman is stuck in her company building doing work since she’s staying on Eternus now anyways. For the prince’s ceremonies.
+
+Kito glances down at himself to make sure he has everything he needs for the interview and testing here. And after he finds his own high-tech armor from the Rex Dynasty securely fit, along with his sword-gun, he nods to himself and joins the very end of the line.
+
+Then he waits.
+
+And waits.
+
+And waits.
+
+The line very slowly progresses forwards, with Kito very much wishing that he had arrived earlier. Before the line progressed to this point.
+
+But he didn’t, so he ends up spending over half the entire day in the line until he finally reaches the front and is called in for the next batch of testing. At which point he finds a woman that he immediately recognizes overseeing the tests.
+
+A woman who is also royalty, just like the Pale Horseman herself. Albeit to a much smaller nation.
+
+She is Selenia Atlantus Caelum, the Fourth Princess of the Kingdom of Atlantis, and the top ranking mercenary under the Pale Mercenaries ranks.
+
+The woman has long azure hair tied up in a ponytail, and is wearing a deep blue set of high tech armor, no doubt coming from the Rex Dynasty of the Dead. The official supplier for technology for the Pale Mercenaries. Meanwhile she has a sword hanging from her waist and both of her hands held behind her back.
+
+But despite her composed posture, Kito can’t help but look at the excited expression on her face as she looks over every one of the mercenaries. As if she can’t wait to test them all out.
+
+A battle-maniac, just like everyone says…
+
+He’d heard news before that the two youngest princesses of Atlantis both knew the Pale Horseman when the princesses were kids, and that’s why both of them joined the Pale Mercenaries. But the rumors around them mostly talk about their connection to the Horseman. Not about how talented they are individually.
+
+Although Kito feels a bit reassured by the fact that he can’t see the princess’s level. Even if she isn’t more skilled than him.
+
+“As many of you know, our leader is currently residing in our building,” the princess begins speaking, her voice clearly audible throughout the training hall. A hall filled with various pieces of testing equipment and some dueling rings, along with some illusionary dueling rings that must’ve cost the company a fortune. “And I am quite eager to take advantage of her once in a blue moon presence to recruit as many talented recruits as possible.”
+
+Whispers begin to fill the hall, only for the princess to start grinning from ear to ear as she shouts, “But before that, how about we eliminate the weaklings amongst you!”
+
+Her words immediately antagonize the mercenaries within the hall as some of them begin mouthing off to her. But the princess simply grins at them, then at everyone else, and says, “If you think you can take me, I’ll take you all on myself. One versus five matches each. In the illusionary dueling rings.”
+
+The crowd begins to quiet a little bit before she continues, “If you can defeat me, you’re in without having to take the rest of the tests. But if I beat you within less than half a minute, you’re out! I’ll be having the Death Spirits escort you personally!” Her grin grows wider as she leans forwards a bit. “So, what do you say?”
+
+Immediately after her question, one challenge after another fills the hall.
+
+But Kito stays silent, deciding to simply wait and watch on the sidelines to study the woman’s real combat strength before making any moves.
+
+And it doesn’t take him long to feel relieved at that decision. Not after seeing the first round of level four hundreds being wiped out in seconds by the princess.
+
+An act that quickly wipes out half of the challengers’ zeal, leaving only the other half left to challenge her. The stronger ones.
+
+But even they end up with nearly half of them being eliminated and taken away.
+
+Kito keeps watching every fight, however. No matter how the matches go.
+
+And through this, he manages to learn quite a few things about the way the princess battles.
+
+For one, like many of the Atlantis Royal Family, she uses a variant of water magic. Which, in her case, is ice magic. And she uses it far better than what her presumed level is most likely at. Based on the reactions of those others in the room who must be able to see her level. The ones higher level than he is. Along with the amount of physical strength the woman is able to put out.
+
+She is talented, and her combat style seems to treat everything like she’s battling in water. She freezes the air around her and moves around like she’s underwater, surprising those she faces and defeating them near instantly as they try to adjust to her fighting style.
+
+Overall, Kito feels rather impressed by the woman. Especially since the woman only has a Class A ability.
+
+But Kito is different from the other mercenaries in the room.
+
+So after the woman wipes the floor with another group, Kito steps up and challenges her.
+
+But he does it alone, startling her in the process.
+
+The woman tilts her head after his challenge and asks, “Are you sure? You won’t be able to join if you lose within half a minute.”
+
+Kito just smiles at her and nods, his long purple hair falling over his shoulders in the process.
+
+The princess’s eyes rove over his form, taking in his shorter stature, his weapons, and his armor until they land on his uniquely colored purple eyes, and she grins.
+
+“Alright,” she answers without any hesitation. “Let’s go.”

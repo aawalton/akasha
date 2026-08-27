@@ -1,0 +1,129 @@
+---
+id: 3b57b75f-9326-5137-9ccf-9b2bc3be3e13
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 26"
+slug: 0252-b4-chapter-26
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 252
+ownLength: 1449
+unit: words
+ownProgress: 1449
+publishedAt: 2025-01-31
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2040521/b4-chapter-26"
+royalRoadId: "2040521"
+markedReadAt: "2026-06-29T19:14:18.955Z"
+---
+
+Aria
+
+My questioning session lasts for quite a while. And it bears a lot of fruit as well.
+
+Through it I learn a lot of things I was curious about but didn’t have anyone to ask. Like why I generate death energy when I’m hurt. Why my skill calls me the ‘origin of all death magic’. And whether anyone else other than myself can pass through the rifts I make with my horse.
+
+And the answers are rather simple.
+
+I generate death energy because me ‘dying’ is pretty much the same as someone training one of their muscles. They tear it apart and let it rebuild itself stronger. So when I am ‘killed’, my body rebuilds itself while growing its death energy reserves.
+
+My skill calls me the origin of all death magic because that is literally what I am. My very existence now amplifies death magic as a whole in the universe. But at the same time, it makes it so that all death magic uses some of my power. Power that I’m personally not able to access.
+
+It’s rather complicated. But they did say that I could refuse anyone the ability to use death magic since I’m the origin. Which is cool.
+
+And I can’t take anything through the rifts I make yet. I won’t be able to do that until I’m a lot stronger, and even then, it will be very limited at first. And I’ll never be able to transport Death Spirits through the rifts.
+
+Since Death Spirits are special and need to be summoned to the mortal universe in order for their death energy to not immediately leak out and kill everything around them.
+
+Which is probably important to keep from happening. Unless I want to make a lot of enemies in the universe.
+
+And while said enemies won’t be able to actually do anything to me, I’d still rather avoid the bother they’d bring.
+
+It’d be annoying after all.
+
+After those questions, I go ahead and ask about the other Horsemen. And the Death Spirits have plenty to say about those three.
+
+Nothing good though.
+
+Because they don’t seem to like them.
+
+The other three Horsemen also have spirits like I have, but the Famine, Pestilence, and War Spirits are far weaker than Death Spirits. So they aren’t anywhere near as big of a problem for the universe.
+
+Although War Spirits are stronger than Famine and Pestilence Spirits. By a decent chunk at that.
+
+Even if Death Spirits are still by far superior.
+
+And the other Horsemen can also enter their own planes and are the origins of their magic.
+
+But just like with Death Spirits, death magic is far more common throughout the universe than famine, pestilence, or war magic.
+
+In fact, those three are actually rather rare. Or, at least, war and famine magic are.
+
+Pestilence magic isn’t as rare as the other two.
+
+It includes poison magic after all.
+
+And poison magic is a lot more common, even if it’s not something you see every day.
+
+Not that they matter to me, seeing as all I can use is death magic.
+
+And I don’t know anyone personally that uses poison magic. Poison abilities notwithstanding, since it’s just magic that the origin affects.
+
+Also, just like with how my existence amplifies death magic, the other Horsemen’s existences amplify their own magic too.
+
+That said, the most important thing I’ve gotten from this is that I probably just majorly screwed up the balance within the universe. Considering how the Rex Dynasty of the Dead is filled with death magic users as its top forces.
+
+Even its weaker forces use death magic.
+
+In fact, the majority of the people in the Rex Dynasty’s enforcer force use death magic.
+
+And while not all of their military use it, quite a few of them do.
+
+Although I have to say, the idea of being able to deny them the use of their magic if some of the fanatics in the Dynasty try anything again is a pleasant one.
+
+Not that it would help me all that much when they could just grab me using their far superior physical strength. But still.
+
+Back onto the topic of the Dynasty growing powerful though, it’s not like how the other Horsemen empower their own forces’ magic. Since they became Grands mostly because of the Horsemen themselves and not the forces under them originally.
+
+Sure they grew their nations into the roles in terms of power, but they started out weak with just a powerful leader.
+
+Except Pestilence, who couldn’t care about any of that and doesn’t even bother leading any sort of nation.
+
+Unlike them who empowered their nation before the nation was really formed, what with it happening long before they became Grands, the Rex Dynasty of the Dead was already one of the Nine Grands before death magic was empowered. So it’ll lead to a large disturbance to the power balance in the universe.
+
+Especially since the Rex Dynasty already has a full monopoly on the Gates.
+
+So I’m sure all the other nations of the universe just love me right now. Assuming they even know what’s happened.
+
+After that, the next question I ask is about my death energy and if it’s possible to suppress it. And the short answer is yes, it’s possible in the distant future, no it’s not possible for me to do it right now or in the near future.
+
+Which sucks and means I’m going to be a bloody beacon for every mage within a planet’s distance from me for a while.
+
+With the only bright side being that I’ll be a beacon too bright for anyone to fully pinpoint an exact location, even if they can tell the general location.
+
+And last but not least, I finish the round of questions with a rather simple one.
+
+“Can you teach me the basics of magic?” I ask with my arms crossed as I sit on the throne amongst the three Grand Death Spirits.
+
+“Of course, little one,” Zero answers with a smile on her face. Then she raises a single hand with her index finger pointing upwards as a black and crimson circle appears with script running around in circles through it, with some of the script going one way and other bits of it going in the opposite direction. And all of the script being in some strange symbols that I just somehow understand. “Magic is the process of controlling mana through spell circles to do what the caster desires of it to do. But unlike with an ability, which can break the laws of reality with ease, magic cannot do so. Magic must follow the laws of the affinity the caster is using, and it has to use the ancient script to do so. Otherwise known as runes.”
+
+“While an ability could for example send out a blast of flames that turns into water halfway through the attack, a spell could never do that,” Zwei states, making my gaze turn towards him as he makes a spell circle as well. One that sends out a wave of black and crimson flames filled with death energy. “Flames cannot suddenly turn into water in any way through a natural process, or through runes, and therefore it cannot be done through a spell.”
+
+“The very act of creating spell circles in the first place, little lass, is breaking the laws of the universe,” En states, turning my gaze towards him. “It is why mortals require an ability to manage even something as trivial as that. But it isn’t the same for beings like us.”
+
+“And neither is it the same for beings like you,” all three of them state at the same time.
+
+Interesting.
+
+So an ability is pretty much breaking the laws of the universe to do supernatural things while magic is using those very laws to do supernatural stuff.
+
+Overall, a rather simple explanation.
+
+“But magic is for mortals,” Zero states, surprising me with that statement. “Death Spirits are not bound by the laws of the universe, and neither will you be once you reach level 1000. We simply manipulate death energy as we please.”
+
+Well that’s good to know.
+
+“Until then, we will teach you, Young Miss,” Zwei states while bowing down a little. “And to start that process, please watch what we do.”
+
+I nod my head in understanding, quickly zeroing my gaze in on what the three Grand Death Spirits are doing.
+
+Because where could I possibly ask for better teachers on death magic than the three most powerful death magic, or rather, death energy users in the entire universe?
+
+And with that, my lessons begin.

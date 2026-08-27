@@ -1,0 +1,113 @@
+---
+id: c10c7308-7522-5181-9631-dbeaecea2500
+page-type-slug: story-chapter-royal-road
+title: "B3 | Epilogue"
+slug: 0222-b3-epilogue
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 222
+ownLength: 1280
+unit: words
+ownProgress: 1280
+publishedAt: 2024-10-28
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1872559/b3-epilogue"
+royalRoadId: "1872559"
+markedReadAt: "2026-06-29T19:13:16.954Z"
+---
+
+In the middle of a grand throne room, Famine quietly taps his fingers against the armrest of his throne. Utterly uncaring of the dozens of nobles bowing at the base of the dais the throne is standing upon, each half-starved and shivering from fear as Famine’s eyes rest upon them while he contemplates the most recent news they brought him.
+
+Aria Crimson… I knew it was likely, but you really are the lost princess after all…
+
+He continues tapping his fingers on the armrest for several minutes before suddenly stopping and snapping his fingers once. At which point a large screen appears in front of him, between Famine and the nobles. Nobles who immediately relax ever so slightly now that they aren’t in his direct line of sight. Meanwhile a woman with long white hair, glowing crimson eyes, and a beautiful figure partially covered by the coat she’s wearing as she walks down a street on Silverfall appears on the large screen.
+
+Famine was rather surprised when he first heard that the fourth and last Horseman was a woman. Simply because he’d begun to assume that they would all be men, strictly because they had always been men until now. All the way from the first of the Horsemen to be born, War, to the third Horseman, Pestilence.
+
+The Horseman looks over the woman for a few seconds, studying her before lightly shaking his head. Coming to the conclusion that even a female Horseman of the Apocalypse doesn’t cause any reaction.
+
+He’s wanted a successor for a long time now. Someone to create his own bloodline.
+
+A superior bloodline.
+
+One far greater than any of the lowly humans in the world.
+
+But the Horsemen of the Apocalypse cannot reproduce. Their bodies don’t even have any romantic or sexual urges.
+
+So when he first heard that the latest Horseman was a woman, it had brought his hopes up a little that maybe another Horseman would work.
+
+It was a waste of time thinking about.
+
+He shakes his head before glancing to the side when he sees a noble glaring at him through the screen.
+
+Bold inferior life form.
+
+Without hesitation, the Horseman of the Apocalypse reaches out and tugs on his connection to his only companion, Apocalypse. And just mere seconds later, the already starving noble is surrounded by a swarm of mutant locusts that instantly devour the man. Frightening all of the other nobles around him as the man’s screams echo throughout the throne room. All the way till the screams go silent and the locusts, who Famine affectionately named Apocalypse, immediately disappear.
+
+But Famine just leans his temple against his fist, his elbow resting on the armrest still as he lets out a soundless sigh. The disappointment he’s feeling making his poor mood even worse.
+
+Then he receives a telepathic message from War, making him instantly sit up to focus on the woman on the screen again. And when he does, all of the nobles stiffen up as well.
+
+He doesn’t pay them any mind, however, as an eerie grin spreads across his face and he mutters, “So the girl may be attending our meeting? That’ll be fun…”
+
+One of Famine’s favorite things to do, other than starving others, is to meet new people who he deems on relatively equal levels of superiority with him.
+
+So meeting other Horsemen of the Apocalypse.
+
+Famine puts both his elbows on his knees as he leans forwards, resting his chin on his hands.
+
+“Let’s have a splendid meeting, Death,” he whispers out loud while Apocalypse begins flooding the throne room before leaving and heading into the city down below.
+
+To hunt.
+
+And as the screams begin flooding up into the palace from the capital city of the Dread Empire, Famine’s eerie laughter can be heard echoing out through the throne room.
+
+Isabella scowls at the elderly-looking man bowing in front of her after hearing his report.
+
+“She is the Princess of the Crimson Empire!? Death?! One of the filthy Horsemen?!” Isabella shouts, her voice echoing throughout the top of the Archmage’s tower with a beautiful ring to it despite her anger. “Is this intel accurate?!”
+
+The man nods his head before raising it and looking directly in her eyes as he answers, “It is accurate, Lady Archmage. Furthermore, the Horsemen are planning their thousand year meeting soon.”
+
+Isabella feels her hands clenching around her staff as she stands at the edge of the top floor of her tower, turning to look out over the city from the open sides of the floor. And after a second, she asks, “Do we know where this meeting will be held?”
+
+“We do,” the elderly Ninth Tier Mage answers, sounding a little cautious in his response. “It was leaked to us by War.”
+
+His answer infuriates Isabella to no end. Because she knows without a shred of doubt that the battle-maniac simply wishes for her to attack so the man can duel her. Like he’s tried numerous times already.
+
+The first few times he attempted it, Isabella fell for it every time and very nearly lost her life. But after fighting him three times and escaping each time through different means each time, she eventually gave up on taking down the three Horsemen personally.
+
+And now that she finally has a Horseman who is fresh in her own lifetime, the Horseman had to be unkillable.
+
+If that were all then I’d be able to capture her for long enough to experiment and find a way to seal her away. Maybe even tossing her into the void itself. But if we try to attack her, I’m sure the Crimson Empire would take it as a declaration of war and attack us in return.
+
+Isabella finally understands with this new information why the Crimson Empire was aiding Aria. Before she could speculate it easily enough simply through her name, but she refused to believe it.
+
+But now it’s being shoved in her face and she has no choice but to accept it.
+
+“That’s not all, Lady Archmage,” the mage behind her says, making her turn her head partially to look at him through narrowed eyes.
+
+“What is it, Alvez?” Isabella asks, her sharp yet melodious voice echoing through the tower in a brisk manner.
+
+The Ninth Tier Mage immediately relays everything that happened during the war on the Grand Silvanian Empire. Specifically Death’s involvement in the war.
+
+Which, to Isabella’s astonishment, was little to no involvement at all.
+
+She didn’t even kill a single soldier on either side.
+
+Isabella feels her grip on her staff growing tighter and tighter by the moment as she feels herself questioning her own oath. But when she remembers what happened to her family at the hands of the Horsemen, and everything else the Horsemen did, she reconvinces herself that all Horsemen are evil.
+
+Even if it’s nothing more than an excuse for now, she’s sure there’s something evil about Death.
+
+So she clings onto the notion of the Horsemen being evil.
+
+But even if she didn’t, it wouldn’t change her oath.
+
+Her oath to mana itself.
+
+One ensuring that she would lose half of her mana if she ever broke her oath.
+
+After several seconds of silence, Isabella finally turns around and begins walking down to the center of the tower, past the old man. And the moment she reaches the spiral staircase at the center, she pauses and declares, “Follow Death. Study her every move.”
+
+Her eyes narrow a little bit as she stares down the staircase.
+
+“We will make our attack before the Horsemen’s meeting,” she finishes before continuing down the stairs again.
+
+Leaving nothing but a frowning mage behind.

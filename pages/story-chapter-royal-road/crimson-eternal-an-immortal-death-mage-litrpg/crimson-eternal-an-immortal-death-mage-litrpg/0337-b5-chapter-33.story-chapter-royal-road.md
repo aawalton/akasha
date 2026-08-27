@@ -1,0 +1,145 @@
+---
+id: 10e880ec-dcb5-50b3-b511-ac949e6e1912
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 33"
+slug: 0337-b5-chapter-33
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 337
+ownLength: 1429
+unit: words
+publishedAt: 2026-03-06
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/3124043/b5-chapter-33"
+royalRoadId: "3124043"
+---
+
+Aria
+
+Well this is nice. A nice and comfortable throne with several trays of wine around me that are constantly being refilled by Death Spirits. Millions of soldiers fighting in my massive Death Court that’s only growing larger as the battle continues – which I didn’t realize was even possible. And the sight of my progress to the next level rapidly rising.
+
+[One being has been killed within Death’s Court. A small portion of the Death Energy released upon death has been gathered. Requirements to reach level 302 have been updated. New requirements are as follows: 401243.5/31000000 beings have been granted Death.]
+
+[One being has been killed within Death’s Court. A small portion of the Death Energy released upon death has been gathered. Requirements to reach level 302 have been updated. New requirements are as follows: 401244/31000000 beings have been granted Death.]
+
+[One being has been killed within Death’s Court. A small portion of the Death Energy released upon death has been gathered. Requirements to reach level 302 have been updated. New requirements are as follows: 401244.5/31000000 beings have been granted Death.]
+
+[One being has been killed within Death’s Court. A small portion of the Death Energy released upon death has been gathered. Requirements to reach level 302 have been updated. New requirements are as follows: 401245/31000000 beings have been granted Death.]
+
+[One being has been killed within Death’s Court. A small portion of the Death Energy released upon death has been gathered. Requirements to reach level 302 have been updated. New requirements are as follows: 401245.5/31000000 beings have been granted Death.]
+
+[One being has been killed within Death’s Court. A small portion of the Death Energy released upon death has been gathered. Requirements to reach level 302 have been updated. New requirements are as follows: 401246/31000000 beings have been granted Death.]
+
+…
+
+[One being has been killed within Death’s Court. A small portion of the Death Energy released upon death has been gathered. Requirements to reach level 302 have been updated. New requirements are as follows: 441346/31000000 beings have been granted Death.]
+
+…
+
+[One being has been killed within Death’s Court. A small portion of the Death Energy released upon death has been gathered. Requirements to reach level 302 have been updated. New requirements are as follows: 471346/31000000 beings have been granted Death.]
+
+Just one after another. Over and over again.
+
+To the point that all I can hear are the ringing sounds from those messages along with words ringing in my head from the System.
+
+I finally found a nice and easy way to level up.
+
+And it’s only speeding up faster and faster as my Death’s Court castle continues to grow larger and larger until it finally spans across the entire planet. To the point that my level actually rises after about an hour to level 302. Following which the progress continues rising.
+
+All while I just drink wine and watch recordings of the Grands battling.
+
+Their separate battles continue to rage on as more and more soldiers enter the Death’s Court to fight. And my progress only speeds up even more every time War strikes a ship down, making it crash within the Death’s Court.
+
+Leading to the deaths of every single soldier and officer within said ship inside of my Death’s Court. Giving me a massive jump in progress with each ship.
+
+With tens of thousands more ships still out there and more arriving.
+
+These universe-wide powerhouses and other smaller nations really are going at it with this war. Going all out.
+
+Then again, considering that powers like the Council of Darkness have control over hundreds of thousands of planets all at once. Even if only through the underworld side of society.
+
+The criminal worlds of the planets.
+
+And that’s only one of the forces in this war.
+
+The alliance against them spans billions of planets, and the Dread Empire spans millions of planets on its own.
+
+Interestingly enough, the people of the Dread Empire look incredibly happy fighting here. Like they’re happy to die in the war and get out of their terrible life in the Dread Empire.
+
+Since Famine doesn’t allow them to kill themselves and actually has ways to enforce them to be unable to kill themselves.
+
+At this rate the war here is going to span entire weeks. Maybe even months.
+
+Or even years actually.
+
+Assuming they don’t pull back.
+
+And Grands can continue fighting for years without really running out of stamina. Especially the Grands.
+
+Grands can pull on the energy around them to fill up their reserves after all.
+
+I’m just flooded with death energy and soul energy reserves that could probably last me decades of constant battling after all. I can’t imagine just how much the other Horsemen have built up their reserves.
+
+And I know the other Grands all have their own ways of stockpiling energy as well. Even if they aren’t anywhere near as easy and efficient as us Horsemen.
+
+Most likely the war will continue raging on until the Grands finally come to a conclusion with their battles.
+
+My thoughts trail off when I sense numerous fallen demons appearing all across the battlefield before joining in. Following which the Demon King himself appears in one of his clones on a screen to fight with War.
+
+Only to be slaughtered by War without War even realizing he appeared.
+
+Well, that just happened.
+
+The Demon King reappears again in another clone before trying to attack him again. But the same thing happens.
+
+And it happens again. And again. And again.
+
+Over and over again until War finally realizes what’s going on.
+
+Then he continues killing him anyway.
+
+I tilt my head as I watch, only to find the Demon King appearing next to me in a clone as well. While still attacking War.
+
+But the clone that appears next to me turns into a paste when he’s killed instantly by one of the bodyguards next to me. The knight captain I believe.
+
+A man who has grown severely intolerant towards the Demon King’s presence over the years.
+
+To the point that he kills him most of the time when he appears before me. Instantly.
+
+Well, regardless, I just sit here drinking wine for entire days as I joyfully watch my progress towards my purpose rising. Rapidly at that.
+
+This is the fastest I’ve leveled up before in my entire life.
+
+To the point that I’m leveling up at least a few times every day.
+
+I continue lazing around on my throne for a while before just wandering through the castle amidst all the battling. And coincidentally, all the combatants avoid me like the plague whenever I move near them. Acting like they’re afraid of the mere idea of accidentally attacking me.
+
+But I ignore them until I eventually settle on an outside courtyard on the roof of some part of the castle. Where I set up my lawn chair again, along with several air conditioning units to make for comfortable resting.
+
+Then I use a privacy screen to change into an outfit that’s better for sun bathing before I lie down on the lawn chair on my back and just relax. Sunbathing in the middle of the war as people avoid this courtyard like the plague.
+
+Although for some reason the knights all surround me as if trying to block anyone from seeing me. Which is weird.
+
+But I think I’m starting to understand a little bit about other people’s attraction.
+
+At least, from the stories I’ve read.
+
+I kind of fit a lot of the more generalized idea of what a lot of people seem to consider attractive.
+
+Smooth skin, gem-like eyes, a large chest, silky hair, and so on.
+
+That’s only from what I’ve read in romance stories though. Particularly a subgenre that I’ve been reading lately with more animated art in the form of something called webtoons.
+
+I’ve been reading a lot of those lately and they’ve been very enjoyable.
+
+Just because I’ve learned all this doesn’t mean I understand it personally though.
+
+Flesh is flesh, hair is hair, and eyes are meant for seeing not to look at. So I don’t understand why anyone would be attracted to that stuff.
+
+I’ve even heard that some women find large chests like mine painful on their backs and shoulders. Which I’ve also not experienced since I don’t get sore.
+
+None of it makes sense to me.
+
+At the end of the day though, it doesn’t matter.
+
+I just ignore the actions of my knights as I enjoy another level-up.
+
+This is a nice life.

@@ -1,0 +1,109 @@
+---
+id: 84a17d6e-0913-528c-bd73-a2c1a8b7fbc4
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 39"
+slug: 0109-b2-chapter-39
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 109
+ownLength: 1529
+unit: words
+ownProgress: 1529
+publishedAt: 2024-02-23
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1529519/b2-chapter-39"
+royalRoadId: "1529519"
+markedReadAt: "2026-06-29T19:09:39.258Z"
+---
+
+The Sullivan Clan’s CapitalRight before the consecutive attacks
+
+Arnold Vaugn stands at the corner of the Grand Tree’s council chambers, simply watching as Aisling and the other council members discuss their next moves. But their discussion doesn’t get very far before word arrives about attacks on the Western and Central fortresses closest to the border.
+
+And Aisling immediately grows cold in her fury at that. Arnold can feel it from here. The sheer coldness emanating from her and freezing her surroundings.
+
+Man, she really does have a temper problem, doesn’t she?
+
+He heard about it from Arlan, who was the original bringer of the special news about this war and who was participating in it, but he had assumed that he was exaggerating. Although he can at least tell that the woman seems to be holding her anger in right now.
+
+Most of it, at least.
+
+And she’s still clear headed enough to give out orders to the other council members, directing four of them to head to one of the fortresses and four to head to the other.
+
+Then Arnold senses an approaching soul with one of his skills. One called Life Sense.
+
+And he quickly realizes that another one is about to attack the capital.
+
+So he makes for a swift retreat, turning into pure miasma and flowing out of the council chamber, through the air, before stopping atop one of the Grand Tree’s branches to watch.
+
+His only job here is to summon a Death Spirit if it comes down to it after all. Meaning there’s no reason for him to stick around for the actual war.
+
+And he genuinely can’t help but wish the Byrne Clan luck in their endeavors. Because he’s finally been given permission to summon a Death Spirit. Finally. An act that is considered one of the highest honors by the nobility of the Rex Dynasty yet is also highly restricted.
+
+Of course, he has zero expectations of getting out of this alive. Because while he doesn’t believe the Death Spirit will kill him, since he’s not planning on having it attack her. Just summoning it. And Death Spirits do tend to have more leniency towards those from the Rex Dynasty. He knows that even if he does survive the summoning, it may attract attention.
+
+And that attention won’t be pleasant attention for him.
+
+He watches as the Clan Leader of the Sullivan Clan finally loses it and rushes out to attack the man who is currently attacking her city. Then they begin to clash for a while, proving the two of them to be relatively evenly matched, with him just being a bit stronger until some of her council members join in the attack.
+
+Only for news to arrive of another fortress being attacked, and then completely destroyed soon after.
+
+And it’s at this point that he finally sees her snap.
+
+Aisling rushes away, closer to the tree while building distance between herself and Sean. Then she begins to quietly laugh amidst the silence that quickly begins to stretch across the capital amongst even her own council members.
+
+A slow and quiet laugh that then begins to pick up in volume and speed.
+
+Eventually she begins full-on cackling, only to go completely silent in a single instant.
+
+Arnold feels excitement building within him as he turns into miasma and moves towards the summoning circle he had set up after arriving. Something Aisling has kept from even her own people.
+
+Clearly proving how insane the woman has become over the period of this war.
+
+Not that Arnold particularly cares. If what Arlan said is true – and it’ll be proven whether it’s true or not in mere moments – she’ll be punished severely soon anyways.
+
+The silence stretches for a few seconds before Aisling’s muttering voice echoes across the capital, enhanced by magic while her face is pointed downwards with her hair covering it, “I tried… I really did… I tried ta win this war. Ta take tha planet like ye all wanted o’ me…”
+
+Arnold raises a brow at that, briefly wondering if there was more going on that he isn’t aware of.
+
+“But it looks like that’s not possible anymore,” she continues, sending a wave of fear and despair across her own people. One that grows even worse when she finally raises her head, her hair going clear of her face to reveal a look of insanity as she finishes, “So I’d rather have this world dead than let another Clan control it!”
+
+And the moment Arnold gets the all-clear, he activates the summoning ritual, making miasma immediately flood parts of the Grand Tree and sacrificing thousands of people. Arnold also gives the summoning ritual a bunch of his own miasma as well before a black and purple pillar of light shoots up into the sky.
+
+Then the veil of darkness spreads across the sky, covering it in a shade of black and crimson. After which the Death Spirit is visible slowly floating downwards towards the ritual’s center.
+
+The Greater Death Spirit is currently cloaked in a pitch black cloak with naught but two glowing red eyes shining from beneath its cowl. Eyes that slowly look around its surroundings, only to lock onto something in the distance and grow pleasantly surprised.
+
+Which is all the proof Arnold needs to know just who this ‘Aria Crimson’ person is.
+
+Arnold quickly kneels down in front of the Greater Death Spirit under the gazes of everyone in the capital, including the maniacally laughing Aisling, the terrified Sean, and the equally terrified citizens and council members. Many of whom are starting to succumb to the miasma naturally let off by the Greater Death Spirit.
+
+“Esteemed Greater Death Spirit, I have summoned you here to give you whatever you wish to do on this planet,” Arnold speaks, keeping his head low as he kneels, feeling more than a little reverence towards the Death Spirit in front of him. And towards Lady Death herself who is indeed on this planet. “And I wish to inform the Death Spirits that the Rex Dynasty of the Dead will perform whatever tasks required of them by Death, no matter the cost.”
+
+The Death Spirit remains silent for a long while, briefly surprising Arnold. But he keeps his head lowered regardless.
+
+Eventually though, an answer comes.
+
+But not the answer he was expecting.
+
+“Count Arnold Vaugn of the Rex Dynasty of the Dead, you have summoned me, disturbed my slumber, and given a mere pitiful sacrifice to do it,” the Greater Death Spirit states. “However, you have shown me our beloved Lady, and asked for naught. For that I shall spare your life. I shall not leave you in eternal solitude, forever being devoured in soul form within the Plane of Death as the last one who foolishly tried to direct one of our own to attack our Lady has been left.”
+
+Arnold feels absolute rage. Not at the Greater Death Spirit’s countenance towards him or his treatment, but at the mere fact that a lowly human being would ever dare to direct a Death Spirit to attack Death herself.
+
+It’s blasphemy.
+
+“Count Arnold Vaugn, deliver a message to your Pharaoh from the Death Spirits,” the Spirit continues, his voice slowly growing more and more distant, eventually making Arnold finally lift his head to see the spirit flying higher into the air. “You are not to bother our Lady. She is still young. And all children require time to themselves.”
+
+Arnold immediately bows his head again as he states, “Of course, Esteemed Spirit. Your will be done.”
+
+Then he feels the Greater Death Spirit’s attention shifting towards the Clan Leader of the Byrne Clan, then the Clan Leader of the Sullivan Clan. Both of whom have gone dead silent at the exchange they had just witnessed.
+
+And out of the corner of Arnold’s eye, he sees terror covering Aisling’s face.
+
+As if she had finally put two and two together about just who the immortal she had been facing was.
+
+“Clan Leader of the Sullivan Clan, for your reprehensible attempts at repeating the actions of the prior mentioned necromancer, you will experience his same fate,” the Death Spirit concludes, uncaring about the terror on her face as the Spirit reaches one arm out towards her, the cloak pulling back to reveal a skeletal hand in the process. And right when the hand stops moving, all the light in Aisling’s eyes goes dark, and her soul can be seen leaving her body and going towards the Death Spirit’s hand. “Decompose for eternity for the atrocities you have committed upon our Lady.”
+
+Then the Death Spirit ascends into the sky, following which all of the light vanishes, and everything returns to normal once again.
+
+Without hesitation, after everything returns to normal, Arnold climbs back to his feet, still feeling awed at what had just occurred. He then turns towards the direction Lady Death is in, bows once with a look of reverence on his face, and turns into miasma, heading straight towards the nearest Gate with a connection to the Dynasty.
+
+I must deliver the Esteemed One’s message as soon as possible.

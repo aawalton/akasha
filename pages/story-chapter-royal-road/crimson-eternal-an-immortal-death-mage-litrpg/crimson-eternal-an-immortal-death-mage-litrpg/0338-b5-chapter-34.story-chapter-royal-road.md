@@ -1,0 +1,143 @@
+---
+id: 5fa00b1e-924c-584c-8b87-6d28e3fcb3dd
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 34"
+slug: 0338-b5-chapter-34
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 338
+ownLength: 1412
+unit: words
+publishedAt: 2026-03-13
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/3148152/b5-chapter-34"
+royalRoadId: "3148152"
+---
+
+A News Station on Eternus
+
+“And we’re back with some more Galactic News!” Yujin says with a practiced business smile on his face the moment the camera starts rolling. “I’m your host, Ishikawa Yujin! And today I’m going to discuss a major topic that’s been flooding the internet for over a year now!”
+
+Yujin raises his hand and moves it to indicate the screen that appears floating behind him. Which shows a massive castle spanning across a volcanic world. With the castle itself covering every single inch of the planet as death energy floods the planet.
+
+“Death’s Castle!” Yujin exclaims. “The largest castle in the entire universe and the location of the latest Horsemen War! Where the Horsemen of War, Famine, and Pestilence are all fighting against an alliance of nations including the Crimson Empire and Council of Darkness!”
+
+The camera moves in closer to show the many battles taking place on the massive planet. All across the span of the castle.
+
+“This castle, one created through a skill of Death’s, is formed through pure death energy and automatically repairs itself from any of the damage taken during the war through the death energy filling the planet!” Yujin continues as the screen continues to move around, showing different battles raging on across the castle. “And yet, despite creating this beautiful and enormous castle with her skill, Death herself isn’t participating in the war! The different parties of the war aren’t bothering her either!”
+
+To show his words, the screen changes again, showing Aria Crimson, Princess of the Crimson Empire and Horseman of Death as she lazes around on a lawn chair within the castle’s courtyard. Just sunbathing without a care in the world while reading on an e-book reader.
+
+“Aria herself, as you may have guessed, has been lying around reading and watching TV for the entire past year throughout this war! Yet her level has been gradually increasing more and more over this time!” Yujin exclaims while snapping his fingers, making a number appear over her head showing her current level. A black number four hundred and ninety-nine. “Soon she’ll be reaching level five hundred! All without raising a finger!”
+
+On the screen, Aria can be seen yawning before suddenly closing her book and standing up. Then she starts stretching out of nowhere.
+
+“Oh? She’s getting up!” Yujin says with more than a little surprise in his voice. “Is she changing places? Or maybe she’s going to start watching TV?”
+
+But then he sees her level suddenly changing to five hundred, making him understand what is going on.
+
+His face lights up with excitement as he shouts, “No! She’s leveled up to level five hundred at last! Will we be seeing a new skill?! Stay tuned to find out!”
+
+Aria
+
+And it’s finally time for my next skill. I’m not sure if it’s because of how easily I’ve been leveling up, or if it’s just because I’ve reached too high a level, but I haven’t gotten a new skill since Death’s Court.
+
+Until now.
+
+I smile as I read the notification in front of me and stretch.
+
+User has leveled-up to level 500.
+
+Assessing user’s accomplishments and actions… assessment complete.
+
+User will now be given the following skill:
+
+Travel Through Death
+
+To Death, distance is nothing.
+
+Death may create Gates whenever she pleases.
+
+Allowing Death to emerge anywhere she’s been.
+
+And anywhere filled with Death Energy.
+
+So beware of mass death, for you may summon the Horseman herself.
+
+Well this will be very helpful. Even if it’s a skill I was expecting at some point.
+
+After all, the other Horsemen can make and travel through portals. So why wouldn’t I?
+
+It was just a matter of time.
+
+Once I finish stretching, I put away the lawn chair, use a privacy screen to change back into shorts, a T-shirt, and a jacket, then try out the skill. Making a large Gate appear in front of me. One that’s black and crimson in color.
+
+As for the destination? I make it the café back on Eternus.
+
+After a brief pause, I go ahead and enter the Gate before finding myself appearing inside of my café. In front of more than a few shocked people.
+
+I wonder what they’re so shocked about?
+
+They’re all looking at me with wide eyes, with some of them even dropping their spoons. The spoons they were using to stir coffee and other drinks.
+
+It’s like they’re seeing something they never expected or something. Which is weird.
+
+Also, that’s a waste of wine when I see some of them dropping wine glasses, spilling the wine on the floor in their shock.
+
+My staff ignores everything though and continues working. With several of them moving to clean up the messes the customers make.
+
+Hmm. Not sure what’s up with them, but it doesn’t have anything to do with me.
+
+So I go back through the Gate to reappear at the castle again, just to see if the castle stayed despite me leaving. And to my surprise, it is actually still there.
+
+Which is interesting.
+
+The skill really does only cancel when I specifically cancel it. Meaning I can just leave it in a Hunter’s Spot in the future and let mana creatures go around killing each other in it.
+
+That’ll be very helpful.
+
+Although for now I want to try out my Gate. Which will still leave this new discovery being helpful as it’s still on the planet in the middle of the war.
+
+So I open another Gate before passing through it and appearing in the headquarters on Eternus. Where I once again find a bunch of shocked people in the lobby.
+
+Why are all these people so surprised? There are plenty of people with portal powers across the universe.
+
+I purse my lips at that thought before shrugging. Then I open a different Gate when I notice Little Blue rushing into the lobby with a scary expression on her face.
+
+Almost like she’s planning on making me do paperwork or something equally terrifying like that.
+
+So after waving at her with a smile, I pass through the Gate and close it. Appearing at the café back on Vortel this time. Where I ignore the once again shocked people to grab some wine.
+
+I also go ahead and say hello to the current owner while I’m here.
+
+The owner doesn’t seem very surprised though. So that’s nice.
+
+After my stop at the café, I go ahead and head to my own café. At which point I check on the new stock of wine sent to me by Famine while he’s been fighting.
+
+And the stock has indeed arrived.
+
+I smile after tasting some of it.
+
+It’s just as good as it was before.
+
+I give the café staff a thumbs up and open another Gate, still ignoring the shocked looks of the customers as I do so. Then I arrive in a couple other cafés that I love to visit. Only to eventually visit Ruby and Ryan. Neither of whom seem surprised by my random visits.
+
+Then I proceed to visit other people around the universe that I know. Like friends on Vortel for example.
+
+All the way until I finally return to my Death’s Court. At which point I find quite a few messages flooding my terminal from the many people I’ve visited.
+
+Along with a rather scary message from Little Blue asking when I’ll be coming back to that paperwork.
+
+I completely ignore that message as I head to my throne room and just sit down on the throne. Only to find Arthur suddenly being send flying to slam straight into my throne room through the wall. With the wall repairing itself immediately.
+
+Until Pestilence casually creates a hole in the wall and floats through it as well. Following after Arthur.
+
+Huh. Well this just got interesting.
+
+I have some of the Death Spirits in the castle rush over, bringing me some wine. And after grabbing it with both hands, I bring it up to my face and begin sipping the wine with my elbows resting on my knees. Just watching the two.
+
+Pestilence slowly floats down as Arthur climbs back to his feet. With both of them having injuries covering their entire bodies.
+
+Albeit with Pestilence having fewer than Arthur.
+
+This should work for this evening’s entertainment instead of TV.
+
+With that thought in mind, I continue sipping at my wine while focusing entirely on them.

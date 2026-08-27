@@ -1,0 +1,149 @@
+---
+id: cb684453-1784-5a65-905a-0a81340a68c8
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 11"
+slug: 0169-b3-chapter-11
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 169
+ownLength: 1539
+unit: words
+ownProgress: 1539
+publishedAt: 2024-06-11
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1672921/b3-chapter-11"
+royalRoadId: "1672921"
+markedReadAt: "2026-06-29T19:11:27.760Z"
+---
+
+Aria
+
+We continue driving through the tunnel for a while until we finally reach sunlight once again. At which point we find ourselves in the once again snow-covered lands of Albaria. The original lands of Albaria.
+
+Guess that means it’s winter here.
+
+It’s always confusing to keep the seasons straight when I’m on so many different worlds with so many different climates.
+
+Especially on worlds like Atlantis that don’t really have seasons. Considering that the entire livable society in the world is underwater.
+
+The heavy snow coating the ground aside, the skies are currently mostly clear with only a few gray clouds in sight. And the roads themselves past the checkpoint outside of the tunnel are properly managed. So we make it through fine.
+
+Our trip takes just a couple more days with the three of us staying the nights at cities we pass through on the way to the capital. And during the nights there, I can’t help but notice all of the vast differences in the nation since I was last here.
+
+For one, people are walking around with cell phones. For two, their clothing is all quite a bit better than it was before. To the point that my current outfit doesn’t even stand out much. Just makes me look like a wealthier person, nothing more.
+
+Then there’s the cars. They’re far better than those crappy old things we had before the System Initialization.
+
+It’s not just the physical and technological differences though.
+
+Everyone looks… happier. Freer. More open.
+
+Probably because all of the time I have spent in Vortel was when we were at war. And war isn’t a pleasant time. Not for the soldiers fighting in it, nor for the people at home waiting for their family members to come back. Hoping against hope that they do actually come back.
+
+I…
+
+A smile inches its way onto my face as I look at the people in the capital while the three of us walk through the sidewalks of a busy street.
+
+…it feels nice. To see everything here like this.
+
+To see everyone happy and at peace.
+
+I may’ve despised the emperor and disliked some of the generals, but I never disliked Albaria itself. In fact, I might even stretch things to say that I loved Albaria.
+
+Maybe.
+
+The three of us continue walking through the streets until we arrive at a rather large manor located off to the side in a rich district of the capital. And it doesn’t even take us stepping onto the property for me to realize there’s a large barrier around it. One that we easily pass through without trouble.
+
+I glance at Hannah, recognizing the barrier.
+
+Guess her ability is growing. Pretty sure she didn’t used to be able to manifest a permanent barrier.
+
+We continue up to the door before ringing the doorbell and soon finding someone answering the door. Someone who looks vaguely familiar to me for some reason.
+
+The man at the door begins to smile and open his mouth, seemingly about to speak at the sight of Hannah. But then he freezes slightly, and his eyes widen in shock at the sight of me just standing here with my hands in my jacket pockets.
+
+Why does he look so familiar… I just can’t place my finger on it…
+
+“Aunty? Aunty Crimson?” the man mutters, giving me pause.
+
+I stare at him for several seconds.
+
+He stares back.
+
+Hannah and Shirogane both cover their mouths to hide their laughs.
+
+Eventually it finally clicks as I mutter, “The old man. You’re his grandson, right?”
+
+The man who looks to be about in his late twenties to early thirties wearing the clothes of a butler nods his head with a smile and says, “Yeah.”
+
+He’s the old man from the café’s grandson. Luke’s grandson.
+
+I was not expecting this.
+
+The grandson – whose name I believe was Jason Argent – looks just a little older than me in physical appearance but still in his prime – my own physical age having returned just about to normal by now – with brown hair and brown eyes. But the last time I saw him he was still just around five or so years old if I remember correctly.
+
+I recognize him more from Luke than anything else, if I’m being honest.
+
+The kid would sometimes show up at the old man’s café while I was there, and he just wouldn’t stop talking. No matter how much I frowned at him, he would just keep on talking.
+
+I never got mad at him though. He was the café owner’s grandson after all.
+
+That said, it still feels bizarre to see a kid I knew a while back as an adult. It was the same with Little Blue.
+
+“You still look the same as you used to, Aunty,” he says with a wry smile, using that same way of calling me the kid used to use. Which feels so weird seeing someone who visibly looks older than me saying that. “Come in! I’m sure you’re here to see the lieutenant general!”
+
+The man waves the three of us inside and leads us to a room closer to the middle of the house before knocking and calling out, “Sir, we have guests. And I’m certain you’ll want to see them!”
+
+A few seconds pass before we hear an answer croaked out from between the doors, “Come in.”
+
+And Jason doesn’t hesitate to open the doors – albeit quietly – letting us see into the room.
+
+But the sight that I find… I am not ready to see.
+
+The room is a well furnished bedroom with a king sized bed at the end and a lot of gray colors all around it. There’s a desk to one end of the room, a TV on the other, and some sofas in the corner directly to the left of the entrance.
+
+I ignore all of that though to focus directly on the man sitting on the bed.
+
+Frank Rogers – a man who used to look big and bulky – currently looks almost like skin and bone. He’s pale and has long white hair going down to his shoulders.
+
+A massive difference from how I remember him.
+
+And it takes me some time to even register that he actually spoke when Jason knocked on the door.
+
+He spoke. Words. Out loud.
+
+“You’ll catch a fly, Little Ari…” Frank croaks out with a smile on his face, the man just barely angling his head up to look at me amidst my shock.
+
+I quickly rush over to his bedside along with Hannah as Shirogane just awkwardly stands at the back of the room with Jason. And without hesitation, I grab his hand while quietly asking, “How’re you this bad already?! It shouldn’t… it’s only been…”
+
+He opens his mouth to speak, only to end up coughing, so I reach over and put a finger on his lips while saying, “No, don’t speak. I’ll just ask Jason.”
+
+Frank nods his head, making me turn to look at Jason, who is now walking over to stand at the edge of the bed.
+
+“The lieutenant general came down with an illness a few years ago,” Jason says, his face going dark as he holds his hands together in front of him. “One that no one saw until it was already too late. Until it had already drained away part of his lifespan.”
+
+My eyes narrow and I turn to look at Frank, who is calmly looking up at the ceiling.
+
+“We were able to cure him of the disease after it was found, but the damage was already done,” Jason continues, not explaining how they managed to cure it. Because I’m sure that it wasn’t easy.
+
+But I guess that doesn’t matter right now.
+
+Silence fills the room for a long time. And at some point amidst the silence, I feel a tear leak down my cheek.
+
+Frank just continues smiling though.
+
+Eventually he turns his head to look at me again with more than a little struggle while speaking, “Little Ari… you haven’t changed… at all…” He coughs and I reach up to try to make him stop pushing himself to speak. But he just shakes his head and continues anyways, “I didn’t have enough time… to reach level one hundred… anyways, Ari.”
+
+The tears begin to flow down my face even faster now.
+
+He seems to lose the strength he was using as his head falls back down to the bed to look up at the ceiling again. But I can already tell what he was going to say.
+
+And those unsaid words just keep echoing in my head.
+
+That it was bound to happen eventually. That I couldn’t do anything to stop it even if I was here.
+
+By this point I’m crying without letting out a sound. And I’m not the only one. Except Hannah is letting out a sound. Quite a few sobs at that.
+
+I keep holding his hand in silence as I mutter, “I should’ve visited sooner…”
+
+The corners of Frank’s lips move upwards ever so slightly at that.
+
+But he doesn’t say anything. Merely closes his eyes and seemingly falls asleep.

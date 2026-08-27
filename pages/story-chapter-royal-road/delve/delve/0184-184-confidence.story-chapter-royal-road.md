@@ -1,0 +1,321 @@
+---
+id: d14a9ede-9211-51fb-ae3a-fb463f9f740d
+page-type-slug: story-chapter-royal-road
+title: "184: Confidence"
+slug: 0184-184-confidence
+partOf: delve
+position: 184
+ownLength: 4152
+unit: words
+publishedAt: 2022-03-06
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/859003/184-confidence"
+royalRoadId: "859003"
+---
+
+[Val, it’s Nails. Careful, possible Adamants hiding in city. Details follow. Encountered local man, stabbed…]
+
+No longer using Transparency, Val made to wave away the serving girl, who was rushing over after he’d choked on his drink. Undeterred, she began dabbing at him with a towel, but he ignored what she was saying, focused on hearing the rest of the Mentalist’s Message.
+
+[…silverplate left. City attacked by Adamants three days ago. Enormous metal ship from fog bank. Battle followed, Adamants were winning, but then ship cut in half. Details unclear. Empire survivors suspected hiding amongst populace. Bounty issued. Hold for Message refresh.]
+
+[Message continues. Strongest local awakened is non-Guild: ‘Barge King’. Silver-level pirate. Other Sea Kings—silver—left before attack or died in fighting. Rumor that the DKE has fallen. Doubt. Going to Guildhall to find knowledgeable source. Guild is third tier, central north. Barge King is third tier, south, at cliff base. Rain says investigate. No contact. Be careful. Message ends.]
+
+“It’ll come out in the wash, you’ll see,” the serving girl chattered, still blotting at Val’s shirt as he returned his attention to his surroundings.
+
+“I told you, it’s fine,” Val said, gently pushing her hands away and looking down at his shirt. It most assuredly was not fine, an enormous purple blotch marking where the wine had dribbled down his chest. However, seeing as it wasn’t his shirt to begin with, he couldn’t bring himself to care. It wasn’t even the same shirt he’d been wearing as a part of his original disguise.
+
+Walking invisibly through the streets of the third tier, it had swiftly become apparent that his workman’s disguise wasn’t going to cut it. Even the servants here dressed well. Fortunately, he’d found a tailor’s shop. Unfortunately, he’d only learned upon entering this wine house that the outfit he’d pilfered was a bit too fine. When he went back for a new one, he’d have to leave a bit more money. Clearly, he’d underpaid.
+
+“Oh, please don’t be mad,” the serving girl said, wringing her hands on the cloth, having grown increasingly anxious during his long, contemplative silence. “I’ll just…I’ll just go get you another cup. Free of charge.”
+
+“Stop,” Val said sharply, and she froze. Quickly, he softened his expression. “I’m not mad at you. I’m mad at myself. I’m the one that tried to breathe my wine instead of drinking it. You don’t need to be afraid.”
+
+Instead of a reply, the serving girl looked down, releasing a nervous laugh.
+
+Val sighed. Just who does she think I am? Stupid outfit. “Seriously, relax. I’m new to this part of the city, as you’ve probably noticed. What kind of clients do you normally get to be so nervous?”
+
+“I…uh…” the serving girl said, looking over her shoulder toward the back room. The wine house wasn’t empty, but the handful of patrons were at least polite enough not to be watching them openly. The young server was the only staff member present, and as she returned her attention to Val, she fixed him with a shy smile with just a hint of a blush. “I’ve been told not to say bad things about our customers, so...”
+
+Val smiled back, laying on his own charm. This was more familiar territory. The serving girl was pretty—probably why she was working the front room of a place like this—but he had little interest in her beyond what she could tell him. “Tell you what,” he said. “As much as I’d like a free cup of wine, what I’d really love would be some conversation. I’m a hopeless gossip, you see, and I promise I won’t tell the owner.” He gestured to the seat across from him. “Please?”
+
+Surprisingly, the serving girl shook her head. “I really can’t. She could come out, and I’d get in trouble.”
+
+Val’s smile froze.
+
+Have I lost my touch? Is it the scars, or is it this damn outfit?
+
+He did his best to recover smoothly. “Well, if you can’t, you can’t. At least tell me one thing. You ever seen anyone really important in here? The Barge King, for example?”
+
+The girl surprised him again, this time by laughing, covering her mouth with a hand. “Oh, him? Of course not. We do get Sea Kings occasionally—or did, I guess, until they come back—but never that one. I don’t think he’d fit through the door.”
+
+Val bit off a follow-up question that would have immediately outed him as a foreigner, covering the awkward pause with a smile. “You know, I missed most of the battle. I’m not ashamed to admit I spent most of it cowering under my bed. Still, I’d liked to have seen those Kings of ours take down that ship. The Barge King’s the only one left, right? Was he the one that sunk it?”
+
+The serving girl shook her head. “No, not him. He actually came out of his stronghold to fight for once, if you can believe it, but it wasn’t him.”
+
+“Who then?”
+
+“Nobody knows,” she replied, leaning in to whisper conspiratorially. “Argle Thrast from the Guild is claiming the credit, but everyone knows that’s a lie. The ship just got sliced in half, like that!” She snapped her fingers. “The spray reached all the way up here, and I’m sure you heard the crash of thunder! There’s no way Thrast, the Barge King, or anyone else from Three Cliffs could have done that.” She lowered her voice further. “I’m saying it was a Citizen.”
+
+Val’s eyebrows shot up. “A Citizen? Here? Don’t they have their own problems to deal with?”
+
+She nodded. “Sure they do, but I’m telling you, that’s what it had to be. I say they Scryed that ship from Barstone, then sent someone to take it out while it was busy fighting us. Whoever they sent must’ve flown right back. War’s not going well, you know.” She lowered her voice further, leaning in so close that he could feel her warm breath on his cheek. “I heard yesterday that another city fell. Besides Southguard.”
+
+Val choked again, whipping around to look at her. “What? Which one?” Southguard? Holy shit. That’s a border city, and Citizen Southguard is one of the strongest in the DKE.
+
+“Don’t know,” the serving girl continued, pulling back with a blush. Val realized then that their lips had been very close. “There haven’t been any ships since before the harbor burned,” she continued after taking a breath to recover. “No ships means no news, and our news is always late anyway.” She leaned in again. “You know what I think… I think—”
+
+“Peli!” A new voice screeched, so shrill that Val almost crumpled his wine glass.
+
+The serving girl—Peli, clearly—jumped as if struck by Arcane lightning. She spun to face the doorway to the back room, where a wrinkled old woman was holding aside the curtain, glaring at them.
+
+“What did I say about flirting with the clients!?” the woman demanded.
+
+“Sorry, Miss Natrin,” Peli began. “I wasn’t, I was just—”
+
+“I don’t want your excuses, girl!” The older woman pointed at one of the other tables. “I see empty cups! Gods, what do I pay you for? Slacking off in times like these…” Without waiting for a response, the woman’s face disappeared back through the curtain.
+
+Peli cringed, turning to face Val once more. “Sorry. She’s like that.”
+
+Val smiled, rotating a pinkie in his ear. “Quite all right. I hope I didn’t get you in too much trouble.” He glanced around, hiding a grimace. The other patrons had stopped pretending and were now watching him openly, speculative expressions on their faces.
+
+I’ve made a hash of this. Time to move on.
+
+He made a show of looking down at his shirt and heaving a dejected sigh before reaching for his purse. “I suppose I’d better go home and change. I know I already paid, but here. For the gossip.”
+
+“No,” Peli said, shocking Val by placing her hand atop his before he could offer her a tip. She smiled. “I’m off work at seventh.”
+
+Val smiled back, not having to fake it. Still got it, after all.
+
+He cleared his throat regretfully, then stood, taking her hand and flipping it over gently to push the copper tile into her palm. “I’m flattered, but I’m afraid my girlfriend would murder me.”
+
+Gus heaved a heavy sigh, the numbers on the page seeming to swim before his eyes. He was tired, hungry, and had a headache that the bedlam out in the Guildhall wasn’t helping to soothe.
+
+I never should have gotten on that ship…
+
+After the evacuation of Fel Sadanis, he’d ended up in Barstone, not having had much say in the matter. At first, he’d been optimistic. Barstone was a port city, and it saw a lot of traffic. It saw ships from both the lanes to Bellost and from upriver, the two types meeting in the harbor to trade cargo. With that many people coming and going, the Barstone Guild was enormous compared to the one in Fel Sadanis, but, as he’d discovered, its prosperity also meant it had no use for a coward like him.
+
+Not only had they refused to hire him on as a clerk—dulls filling that role quite nicely, thank you—they’d also refused to let him take any work from the board. His Guildscore was too low, they’d said, but that wasn’t the real reason. He’d seen the way they looked at him the moment he’d mentioned wanting to work there.
+
+And the prices in that city…
+
+He could have gotten a menial job elsewhere, he supposed, but he wasn’t about to live in squalor like some peasant, grubbing in the dirt. And so, when he’d seen the posting for an awakened clerk in Three Cliffs, passage paid, he’d jumped at the opportunity. Nobody had told him the city was ruled by pirates, not just home to them. Nobody had told him the harbor would get smashed by the Empire not two weeks after his arrival. And—though this discovery paled in significance to the others—nobody had told him the last clerk hadn’t cross-checked the ledgers in years. And he’d been sloppy about it, too.
+
+Perhaps that was why he’d been stabbed.
+
+Gus shivered, hearing a commotion from the room overlooked by his tiny office. The Three Cliffs Guildhall was all one large room—tavern, quest hall, and dueling arena, all rolled into one. He was safe enough in his cubbyhole, thanks to the bars screening his window from the main room. Short of a scream from someone getting stabbed, he couldn’t be bothered to look up just because there’d been a little noise. Commotion was the norm.
+
+Gus pulled his thin cloak around himself, shivering again. The Three Cliffs Guild hadn’t even given him a uniform. His own clothes were threadbare, and with the weight he’d lost, he’d been feeling cold often of late. He’d probably be losing more weight, too, especially if someone didn’t fix the brineway. Food was expensive enough, though not quite as bad as in Barstone. If he suddenly had to start paying for water, too…
+
+The chill seemed to deepen, tickling at a half-forgotten memory, but Gus ignored it, cinching his cloak tighter and gritting his teeth as he focused once more on the numbers in the ledger.
+
+Stupid city. I’ll finish this page, then I’m taking a break by the fire.
+
+There was a clunk of metal footsteps on stone, and a shadow fell across the ledger as a person blocked the light from the hall. Gus sighed, reaching up to rub his eyes as he spoke in a defeated tone. “Welcome to the Adventurers’ Guild. How may I help you today?”
+
+There was no response.
+
+Gus suppressed another sigh, forced a smile onto his face, then looked up.
+
+Memory crashed over him like a frozen wave.
+
+A man stood there, wearing steel-gray platemail of an unusual design beneath a brilliant white coat. His eyes were hidden, not by the darkness within his helmet, but behind a line of silvery…glass? A sword was belted at his waist, but Gus’s eyes were drawn instead to the man’s gauntlets. The metal was different, but the craftsmanship of those joints…
+
+Before the man spoke, Gus already knew what he would say.
+
+“Hi Gus.”
+
+“You!” Gus stammered, knocking over his chair in his haste to get to his feet.
+
+Rain smiled, letting Winter fade and replacing it with Force Ward. As the bedraggled clerk’s mouth worked, Rain considered the merits of removing his helmet, as he had the last time he’d acted out this scene. He decided against it. Dropping Force Ward for a moment or two was one thing. Leaving himself completely unprotected was something else entirely.
+
+In fact, Force Ward’s probably not the best choice in here.
+
+Rain glanced over his shoulder as he shifted to Arcane Ward instead. Jamus and Nails were there, watching the muttering crowd of seedy adventurers, who were watching them right back. The majority appeared to be Mages, but there were plenty of Warriors, too. About three dozen people in total, and all bronze by Detection’s read on their plates. Much to Rain’s displeasure, an offensive haze of tobacco smoke hung in the air, stinging his nose and clouding the light. Resisting the urge to Purify it was taking a heroic act of will, but Rain still wanted to maintain his Warrior disguise.
+
+He and Jamus had both tucked their bronze Guild plates away prior to entering, wanting to leave people uncertain about their strength. Argle Thrast—the silverplate they’d encountered—was apparently the only one in the city right now. Others did come through from time to time, though, so without their plates showing, they hoped to be taken for such.
+
+Gus licked his lips, his eyes flicking momentarily to Jamus. “If you’re here… How are you here?” Excitement was creeping into his voice, along with more confusion. “Was there a ship, or…no, wait. Weren’t you two going to Vestvall? You and that rescue squad or whatever? Did you come to your senses and get out before the city—?”
+
+“You know these guys, Gus?” someone shouted from the crowd, interrupting him.
+
+Rain glanced at the speaker, then back at Gus, who didn’t seem interested in answering. He cleared his throat. “Yes, we went to Vestvall, and then we came here, overland. We’ve got the whole city with us. Refugees from the rank shift. I need your help, Gus. And the Guild’s.”
+
+“The fuck’d he just say?” a different voice from the crowd shouted.
+
+Rain ignored the voice, fighting off the wave of unease that had come with revealing their presence. He had been in communication with Vanna on the walk over here, using Nails and Ameliah as relays. They’d collectively concluded that the threat from the city was manageable compared to the cost of delay should the Empire launch another attack. Already, Vanna would be dispatching teams to the deserted lumber yard to get set up. The sooner they could get a ship built, the better.
+
+“You…want to run that by me one more time?” Gus said after a long pause. He started feeling behind himself for his stool, and when he didn’t find it, looked to see it lying on the ground.
+
+Rain smiled, speaking loudly so his voice would carry. “We have about eight hundred people camped on top of the cliff. We need a way to get them down, first, and then we’ll need lodgings, food, and water. Can I post some bills on the board for local adventurers to help with that stuff, or—?”
+
+“What in the Waste’s going on in here!” a rough voice shouted, far louder than any of the previous outbursts.
+
+Rain grimaced. Shit. Thrast. Did he follow us?
+
+He turned smoothly to see the red-and-yellow armored silverplate staring at him, wearing much the same expression as upon their initial meeting.
+
+“Should have known it was you three,” Thrast said, marching forward carelessly as people scrambled to get out of his way. “Why didn’t you say you were new to the city? I swear to the deep, if there’s been a ship and nobody told me, I’ll skin the lot of you.”
+
+“We didn’t come by ship,” Rain said, walking out to meet the silverplate in the clear space in the center of the Guildhall. He wanted to be as far as possible from anything or anyone that might get broken, and it looked like this space had even been designed with that in mind. There was even a circle of white stone set into the scuffed floor. From the size, it was probably meant as a dueling arena. His alternate guess—dance floor—didn’t seem likely.
+
+“Well, where the depths did you come from, then?” Thrast asked, poking his finger into Rain’s chest. “Was that you, flying up over the city?”
+
+Rain looked down at the finger, pressed firmly against his armor. “Do I look like I can fly?”
+
+“Rain!” Gus hissed from behind him, but his voice was swallowed by Thrast’s angry growl.
+
+“Sass me, you spoiled brat, and maybe we’ll see how you fly off the edge of the cliff.” Removing his finger, he instead rapped his knuckles on Rain’s chest, making a metallic sound. “I’m sure you feel strong in that armor daddy bought you, but I’ll teach you how little it means against someone like me. I bought my armor.”
+
+“No sass,” Rain said, taking a step back, mostly to get away from the man’s breath.
+
+Thrast smirked. “So, are you going to tell me where you’re from, or are you really an Adamant after all?”
+
+“He said he’s from Vestvall!” someone from the crowd supplied. “He said they walked here and that they’ve got the whole city with ‘em.”
+
+Thrast turned to look at the speaker, then scoffed. “Don’t tell me you believed that.” He turned back to sneer at Rain. “I say he’s a lying Adamant spy.”
+
+“That’s right, Thrast!” someone shouted. “He ain’t got a plate! Kick his ass!”
+
+“What happened to your plate, lying liar,” Thrast asked, crossing his arms smugly.
+
+Rain sighed. Thanks to his improved Perception sync, he could easily tell that Thrast didn’t believe what he was saying. It was obvious from his posture, tone, and the stupid, self-confident grin on his face that he was just spoiling for a fight.
+
+Careful to move very slowly and to keep his hands away from his sword, Rain spread his arms. “I am not with the Empire, and I have spoken no lie. I put my plate away, but I can show it to you if you’d like. Gus can confirm that it’s real. He knows me.”
+
+“Who?” Thrast asked over Gus’s panicked squawk.
+
+“I don’t want trouble,” Rain said, deciding that it was probably better to leave the clerk out of it. “Please just calm down.”
+
+Thrast laughed right in his face, and it was all Rain could do not to recoil from the fishy aroma. The silverplate spun away, spreading his arms confidently to the crowd. “Says he doesn’t want trouble, then steps into the ring to face me with a sword at his belt? Ha. Liar, liar, liar.” He spun back to face Rain, having reached the opposite side of the ring. He placed his hand on the hilt of his sword. “Well? Let’s see what this liar’s made of, shall we? Duel Start!”
+
+In response to Thrast’s shout, the air shimmered, and a translucent curtain of purple light snapped from the circle on the floor to the ceiling.
+
+Oh.
+
+“Yeah!” Kick-His-Ass Guy yelled as the onlookers scrambled to surround the ring. The barrier seemed to suppress sound, but he could hear their excited chatter well enough.
+
+Rain looked at his opponent. Somehow, despite this unexpected turn, he found that he was…unconcerned. He couldn’t put his finger on it, but something was telling him that Thrast, silverplate though he was, wasn’t a threat. Perhaps it was something picked up by his enhanced Perception, or perhaps it was just a feeling, but he knew he could win. It was the collateral damage that he feared, but with the barrier, depending on how strong it was…
+
+Am I really considering this? No, one last try.
+
+“Please don’t do this,” Rain said, spreading his arms. “I don’t know how tough this barrier is, but if you go all out, I’m sure you could break it. Everyone says you’re strong. People could get hurt.”
+
+“Ha!” Thrast laughed, drawing his sword. “Trying to flatter me won’t work! If you’re a bronzie like you say, I won’t need to lift a finger to put you on the floor, and you might learn something on the way down. And if you’re not a bronzie, that would make you a lying Adamant, now wouldn’t it? Shut up and duel!”
+
+“No,” Rain said, making no move to touch his own sword. “I refuse.”
+
+“You can’t refuse!” someone shouted from the crowd. “Unless you’re silver too, you gotta do what he says! Them’s the rules here!”
+
+“Stupid rules,” Rain said. “Okay, fine. I’m silver. I refuse.”
+
+“Bullshit!” Kick-His-Ass Guy shouted, dragging out the word. “If you’re silver, where’s your plate?”
+
+Rain sighed. This isn’t working.
+
+“Start!” Thrast suddenly bellowed, then he blurred.
+
+Rain had just enough time to swap Arcane Ward for Force Ward before the point of Thrast’s sword speared into his shoulder. There was a ping like cracking ice and a ripple in the air, combined with a small draw on his mana.
+
+dmgnum.sh version 0.4.0
+
+Physical Damage Detected
+
+Kinetic Conversion Triggered (Momentum Only)
+
+Mana: -86
+
+Armor Charge: -2
+
+Force Ward: 25%
+
+Rate: 0.03444 mp/dmg
+
+Hardness + Force Resist: 7,500 (capped)
+
+Original Damage: ~9999 (capped)
+
+He actually tried to kill me. Actually, maybe not. He did go for my shoulder.
+
+Either way, rude!
+
+Thrast had retreated and was staring at the point of his sword in confusion. “What in the hells was that?”
+
+“Ouch,” Rain said, casually reaching up to rub the spot where the blade had struck him. Other than a tiny hole in his new coat—sigh—there was no damage. “Can we stop now?”
+
+[Convincing,] Nails said flatly. [Also, Ameliah is on her way. She says don’t embarrass her.]
+
+Rain glanced at him, then nodded, also having noted that Jamus was standing ready in case something went down outside the barrier.
+
+Okay then.
+
+Rain turned his eyes forward again. Deciding he wanted a marker for this, he quickly set one without triggering an essence exchange. A progress report popped up automatically—
+
+Progress Report
+
+marker_1: giddyup [3061 Seedlings 12 09:00]
+
+marker_2: thrasts_ass_is_grass [3061 Seedlings 18 11:44]
+
+Span: 6.1 days
+
+Skills
+
+Force Ward: +134,889 exp, 10 -> 15 (+5)
+
+Arcane Ward: +67,880 exp, 10 -> 15 (+5)
+
+Velocity: +67,870 exp, 10 -> 15 (+5)
+
+Mental Ward: +67,398 exp, 10 -> 15 (+5)
+
+Suppression: +217,600 exp, 10 -> 14 (+4)
+
+Aura Compression: +206,761 exp, 10 -> 14 (+4)
+
+Aura Focus: +56,956 exp, 11 -> 15 (+4)
+
+Shroud: +50,425 exp, 11 -> 15 (+4)
+
+Amplify Aura: +25,905 exp, 11 -> 15 (+4)
+
+Aura IFF: +94,686 exp, 12 -> 15 (+3)
+
+Extend Aura: +17,168 exp, 12 -> 15 (+3)
+
+Essence Well: +6,484 exp, 11 -> 12 (+1)
+
+Winter: +3,385 exp
+
+Mana Manipulation: +996 exp
+
+Prismatic Intent: +2 exp
+
+Synchronization
+
+Endurance: 7.4 -> 7.6 (+0.2)
+
+Perception: 22.3 -> 26.9 (+4.6)
+
+—but he banished it without reading a single word. He knew what it said. He’d eased up on his mana restriction six days ago, no longer worried about his paling. Even limiting himself to ten skill ranks per day, the progress had been significant. Two million mana spent would do that.
+
+Rain was surprised to find that he was smiling.
+
+“Finally decided to fight, did you?” Thrast asked, apparently having picked up on Rain’s mood from his posture—his face, of course, being safely hidden.
+
+“Since you won’t give me a choice,” Rain replied, inclining his head toward the barrier. “Really, though. How strong is this? If I hit it as hard as you just hit me, will it break?”
+
+Thrast narrowed his eyes, but didn’t respond. Rain had been watching his opponent closely too. A hint of wariness had crept into his bearing. Just a hint, though.
+
+Not nearly enough.
+
+Calling on his combat macros, Rain adjusted Force Ward, increasing the level of protection to keep his weapon from breaking.
+
+If he hits me with anything tricky, though, or manages to pin me, the gloves come off. Keeping up the facade is pointless if it gets me killed.
+
+Slowly, Rain drew his mock blade—plain steel, unenchanted—meeting Thrast stare for stare. “If I hit you as hard as you hit me, will you break?”
+
+“For someone with that many openings, I’m hearing a lot of talk,” the Swordsman growled.
+
+“Come, then,” Rain said, raising his blade and sliding into the basic stance of First Sparrow.
+
+His mana, of course, was long since back at full.

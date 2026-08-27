@@ -1,0 +1,235 @@
+---
+id: f0f9c403-8ba0-59eb-8a56-c70db30ec949
+page-type-slug: story-chapter-royal-road
+title: "Chapter 36"
+slug: 0037-chapter-36
+partOf: death-healer
+position: 37
+ownLength: 2624
+unit: words
+publishedAt: 2025-06-20
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2372476/chapter-36"
+royalRoadId: "2372476"
+---
+
+Sabinus Cornelius left his horse tethered in a patch of marigolds a few kilometers from the outpost wall and continued on foot. The moons were thin tonight—good fortune for a man who preferred not to be seen—and a salt wind blew off the Dead Lands, bringing with it the dry reek of ancient dust.
+
+The lanterns wavered along the wall ahead of him, but their rhythm felt wrong: whole stretches of barrier that separated the living and the Undead were black, and the sentries who should have walked every hundred heartbeats were nowhere in sight.
+
+Father had suspected as much—patrol rosters forged, watchtowers left unmanned, the Gens Aemilia is coasting on their martial reputation.
+
+Aurelianus had cleared Dungeons and cursed stretches of the Dead Lands, but when it came to protective duties, which might have been even more important than accruing levels in fights, the Gens Aemilia preferred turning a blind eye to it. Their focus was on growing their military power by sending soldiers to fight in strategic locations, not on protecting civilians.
+
+And Sabinus was here to confirm it.
+
+Sabinus re-checked the sigil behind his ear, the focus point for the Skill, felt its faint, reassuring pulse, and slipped into Veil of Radiant Refraction—the Skill he had developed by using the knowledge of his family's Great Skill and applying it to stealth.
+
+The world smudged around him as Mana and light both curved away from his outline; to anyone's eyes, he would have just dissolved into the night breeze. Even a practiced [Mana Sense] sweep would skim past an empty pocket of turbulence and find nothing to grip.
+
+From that weightless hush he studied the outpost wall. The watch-fire in the nearest tower flared and guttered, starved of oil. Two sentries leaned on spears, drowsy, leaving a ten-yard gap where vigilance should have overlapped.
+
+Father was right: they run their northern bastions on reputation and prayers, trusting the Gens Cornelia to bleed in their stead.
+
+Sabinus vaulted, boots barely scuffing the stone, and flowed down the far side, landing among the barracks.
+
+At ground level he ghosted between supply sheds until muffled laughter drew him to a half-open barracks door. Lantern glow illuminated the scene.
+
+Four soldiers lounged, wine gurgling from skin to mouth. The tallest raised a sea-blue music-box.
+
+“Look at this frilly rubbish. My wife thinks I’m lonely out here. Maybe I should lull the undead to sleep with it, eh?” They barked out drunken laughter.
+
+One mailed fist crushed the winding key: crunch.
+
+The tinkling tune died on a strangled note, and the men roared again
+
+A shard of that note lodged under Sabinus’s ribs. His mother had kept a box exactly like that one, painted dusk-blue, spirals of tiny constellations on the lid. Father burned it the winter she died. Sabinus remembered the smell of lacquer in the hearth, the hollow place in his chest afterward.
+
+The soldiers drifted to the dice circle. Sabinus cancelled Veil for a heartbeat—hearing the soft pop of pressure equalising—picked up the box, and turned the ruined crank. Teeth slipped; only three crystalline notes escaped before the mechanism clicked hopelessly. Still, the box tried to sing.
+
+He tucked it inside his cloak.
+
+Keeping the Veil half-active, he moved. Mess hall: only two cold braziers. Armoury: racks of pikes left unwiped, orange rust bleeding at the rivets. Sabinus etched the negligence into memory for his father’s report.
+
+Through an open window he landed in the inner yard, crouched on a barrel lid, and scanned. The rose trellis by the armory hung with desiccated blooms, but one late bud glowed peach-gold in lamplight, stubbornly alive.
+
+Sabinus reached gently, cancelling his Veil long enough for Light mana to flow from fingertips into stem and sepal. The bud unfurled a fraction and its color deepened. He smiled, snapped the thornless stem, and slid it into a glass vial he had on him.
+
+Hoofbeats beyond the main gate—patrol returning hours early, half-strength. Another column in the ledger of failings. He retreated through shadows, flicking Veil to full invisibility whenever torch cones neared.
+
+Near the stables two lieutenants argued over missing payroll. One cursed the Gens Cornelia's penny-pinching; the other said, “Let the north wall fall—they’ll blame Drusus anyway.” Sabinus’s mouth tightened.
+
+He couldn't do anything to these man. His stealth was so powerful that not even they could notice him, but that didn't meant he was as strong as them.
+
+One day, you'll meet justice at my hands, Sabinus thought, feeling his heart rage. Not just Aurelianus. All of you bastards.
+
+He soon returned to his horse, satisfied with the information he had just gathered.
+
+Sabinus touched the glass vial, then the music box, before riding. He let himself smile at the two fragile things.
+
+He would bring them to Lily
+
+* * *
+
+Lavinia left the dining-etiquette hall in a daze.
+
+The tutor’s voice still rang in her head—hold the spoon this way, turn the wrist that way—but the words meant nothing. Her thoughts were flat, like a page scraped clean.
+
+She did not plan where to walk; her feet drifted through a side corridor and out into the unused forge behind the barracks.
+
+No fires burned here tonight.
+
+Cold ash lay in the hearth, and iron smell clung to the beams.
+
+She paused on the threshold, unsure why she had come, but a shape on the ground snagged her eye. A sword rested in the dust, half hidden under a loose board. It was not stored on a rack or wrapped in oiled cloth.
+
+Someone had dropped it and never cared to pick it up.
+
+Before Lavinia knew it, she was kneeling.
+
+Her hand closed around the hilt.
+
+The grip felt wrong: the leather had never been fully rolled around the hilt. She tested the edge with her thumb. Dull as a kitchen spoon. A quick breath slipped from her chest, and she looked around as if waiting for a shout of warning. No one came.
+
+The forge bench still held a whetstone block, though a long crack split it down the center.
+
+She set the blade across the stone and drew it back, slow and careful. Metal rasped. She didn't know why she was even bothering with this—it was clear that neither the whetstone nor the sword were any good. Plus, she had abandoned the hopes and dreams of ever becoming a [Templar], even after Lily's speech at her father's wedding.
+
+Gray dust sprinkled the bench. She expected the edge to brighten, yet when she touched it again, the steel had grown flatter. She frowned, but something made her keep going.
+
+Back and forth, back and forth—the rhythm settled into her shoulders. Sparks never flew. Only dry scraping filled the quiet air. Her mind stayed blank, yet her arm moved faster, more nervous. Each pass shaved more steel from the edge. Soon a fine lip of burr curled along the sword’s length, dulling it further.
+
+Why am I doing this?
+
+The question rose and sank without an answer. She only pressed harder, as if effort alone could force the metal sharp. The cracked stone jerked; the blade slide caught, and a louder grind made her wince. She lifted the sword and stared. Chips dotted the edge where the break in the stone had bitten it.
+
+She swallowed hard because the weapon was worse than when she found it—useless, almost ruined.
+
+A quick tremor ran through her hand.
+
+Father would sneer at such clumsy work.
+
+Livia would sigh and call it proof that Lavinia was not a proper lady since she had bothered entering a forge—not the place for a lady.
+
+The tutor would scold her for even touching forge tools.
+
+Shame bubbled in her throat.
+
+She looked left and right.
+
+Still no one watched, yet someone would come eventually.
+
+Across the forge lay a heap of straw used for packing crates. Lavinia walked to it, sword hidden against her skirt, and crouched.
+
+She slid the blade deep under the straw until only the cracked hilt showed. A toss of loose stalks covered that, too.
+
+She stood, brushed hay from her palms, and backed away.
+
+The whetstone sat on the bench, broken open like a split bone. Grey filings dusted the surface, the mark of wasted work. Lavinia wiped the filings with her sleeve, though the streak left a darker smear on the cloth.
+
+She sniffed once, swallowed again, and turned toward the courtyard lights.
+
+Her shoes tapped softly on the stone floor as she walked out.
+
+As she left, she felt like she was abandoning the sword forever, as if she would never return to it, fully accepting her destiny.
+
+Even so, her sleeve still carried the rasping scent of ground steel as she slipped inside the lamplit corridor and closed the door softly behind her.
+
+She looked around and brought the sleeve close to her nose, inhaling deeply, and feeling tears slipping from her eyes.
+
+* * *
+
+Decima carried a stack of fresh linens down the west gallery, but her mind was fixed on the conversation she had heard through the study door that morning. Adriana had paced, voice tight, speaking of Lily’s need for the Great Skill—the legacy of Gens Claudia that no woman had ever mastered. The words still echoed.
+
+“Without that skill, she will enter the Trial at a great disadvantage.”
+
+Decima had served the family since she was fifteen. She had watched Lily grow from loud toddler to fearless girl, and she had watched Adriana shoulder plans too heavy for any one soul. Decima wanted to help, yet every path felt barred. She had no title, no sword arm, no gift for magic or anything. What could a house attendant do?
+
+She reached the linen closet and stowed the last sheet, then lingered with her fingers resting on the shelf edge.
+
+Decima closed her eyes, searching for an answer. Instead she remembered being trained as an attendant while standing beside a young Adriana on winter nights while the Princess—still only a girl—trained late. Adriana had always pushed past everything, even most rules that stopped women from wielding power.
+
+Now Adriana needed a rule broken for Lily, and Decima could not sit idle after following her into the Gens Claudia.
+
+Footsteps scraped the floor. Old Maresa rounded the far corner, slow but steady. Her back bent more each year, yet her eyes stayed sharp, brown and bright behind deep lines. She had served this house since Lucianus himself was a boy. She had served as a humble maid for both his Lucianus's father and his grandfather. Lucianus himself had offered to promote her in charge of the house, but Maresa had never showed any interest in that. Still, Lucianus had her attend himself personally, trusting her more than anybody else in the house.
+
+“Lost in thought again, child?” Maresa asked, voice barely above a whisper.
+
+Decima managed a smile. “Only trying to remember where the tall candles for the chapel are stored.”
+
+“A good lie,” Maresa murmured, stopping beside her. “But lies sit heavy on the shoulders.”
+
+The elder woman’s gaze seemed to sift through Decima’s worry. She reached into the folds of her gray apron and drew out a small iron key, thin as a hairpin, its head shaped like a half-moon.
+
+“Your heart is in the right place,” Maresa said, pressing the key into Decima’s palm. “Use this before doubt steals your chance.”
+
+Decima blinked. “What's this? What does it open?”
+
+“A room beneath the watchtower around the edge of the estate. It must be dropped on the ground. There, there are tomes. Books. It's a library, child."
+
+Decima’s pulse jumped. “Does Adriana know of it?”
+
+Maresa shook her head. “A secret has use only when shared at the right hour. That hour is now. I have served three generations, and I can feel the house straining under its own silences.”
+
+"Maresa, how did you know what I was thinking?"
+
+"Those with combat Classes often forget what we can do. I'm a [Nurturer], Decima. I don't think even young mistress Lily can read your thoughts like I can. Not yet, at least. Now, bring this to your lady. She'll need it to level up her new Class."
+
+"What new Class?" Decima frowned.
+
+Maresa laughed and shook her head, not deigning her of an answer.
+
+"No one goes there anyway and Lucianus has reinforced it with many stealth spells. Without this key… it's basically impossible to access it."
+
+Decima closed her fingers over the key. It felt warm, as though it had waited in Maresa’s apron for years.
+
+“What is down there?”
+
+“Ledgers, journals, and scrolls marked with the Gens Claudia's seals. Things I never dared read.” The old maid’s voice dropped. “Some speak of the knowledge your mistress seeks.”
+
+"Maresa, I… why don't you give Lady Adriana this yourself?"
+
+"The Princess has no use for an old crone," Maresa winked at Decima. "The world is for youngsters like you. Now, go. She can keep the key. I lost it by accident many years ago and Lucianus had to make a copy."
+
+* * *
+
+Vespera saw Lily enter the courtyard with bags under her eyes and a bloodshot set of corneas.
+
+What has she been up to? The white-haired girl wondered. Whatever it is, it doesn't matter. Mother wants me to teach her a lesson, to break her.
+
+Lily settled in front of her and smiled.
+
+"Ready to lose?" The blonde asked.
+
+"Awfully smug for someone who had to go to bed early after almost crippling herself," Vespera snapped.
+
+The girl was always surprised at how Lily could push her buttons and make her lose her calm just like that.
+
+She's just too unaware of the world, of her own circumstances, of how hard we've been training to get a chance at living free.
+
+Vespera watched Lily halt at the center circle, red-rimmed eyes and a half-smile that said she feared nothing. The sight tightened something deep in Vespera’s chest. She set the butt of her spear down hard.
+
+“You look tired,” she said, letting her voice carry across the yard. “Training too late? Or crying because you finally know your place?”
+
+Lily rolled one shoulder. “Didn’t know my place was ahead of you. Thanks for clearing that up.”
+
+Heat flared in Vespera’s cheeks. That girl… always joking like the rules did not apply. Vespera tipped her chin toward Selena, who sat on the low wall sharpening a dagger. Selena smirked but stayed quiet—she had already learned how sharp Lily’s tongue could be.
+
+Calpurnia stood near the porch, arms folded. “This is a drill,” she said, voice calm. “Mind your limits.”
+
+Mother is telling me not to kill her—Lily probably thinks she's just saying to stay composed.
+
+“I know my limits,” Vespera answered, staring at Lily, “and they sit far higher than hers.”
+
+Lily raised her brows, still smiling. “Show me.”
+
+Vespera spun her spear once, let Balance mana surge from heel to wrist, and felt the world narrow to a crisp line. One clean thrust would bruise Lily’s ribs deep, maybe crack bone—pain enough to make her respect the spear.
+
+Calpurnia’s hand chopped the air. “Begin.”
+
+Vespera shot forward. Dirt sprayed. The spear point streaked for Lily’s side—
+
+—but Lily slipped past, smooth as mist. Vespera felt nothing but cool air brush her knuckles. She snapped the haft across, barely in time. Lily’s fist met the wood with a crack that stung Vespera’s palms and flung her backward. Her boots ripped twin tracks through the yard before she stopped.
+
+Dust settled around her ankles. Lily lowered her hand and brushed grit from her sleeve.
+
+“That’s one,” Lily said, quiet but clear. "I haven't like your tone so far. This is going to be a lesson in manners."

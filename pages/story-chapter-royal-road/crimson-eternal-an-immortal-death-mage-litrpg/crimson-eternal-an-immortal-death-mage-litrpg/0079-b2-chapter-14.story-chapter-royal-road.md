@@ -1,0 +1,133 @@
+---
+id: b0179d72-dee7-591d-9024-4f89ed4feac3
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 14"
+slug: 0079-b2-chapter-14
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 79
+ownLength: 1517
+unit: words
+ownProgress: 1517
+publishedAt: 2024-02-02
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1504228/b2-chapter-14"
+royalRoadId: "1504228"
+markedReadAt: "2026-06-29T19:08:37.684Z"
+---
+
+Several Kilometers Away from the Coast
+
+Conor Gallagher pants in exhaustion as soon as he and the other two surviving thralls of the raiding party stop running to look behind them. And after realizing that the creature on that ship isn’t chasing them, they let out sighs of relief. Then they collapse onto the ground.
+
+“What the fuck was that?! Ya saw that too, right?” Thrall Doyle exclaims while still panting in exhaustion. “That lass ain’t human! She can’t be!”
+
+“Humans can’t take a bloody bullet to tha brain an’ stand up again immediately,” Thrall Dunne, the usually softspoken one amongst them, agrees with Doyle while nodding her head.
+
+Conor doesn’t say anything out loud, but he absolutely agrees to the two. He knew that he was being sent on a possible suicide mission. Just the fact that he was being sent after a spirits’ damned black number was enough of a clue for that. Even if they were told that they didn’t have to kill her. Merely scout out the power of the target.
+
+But the fact that a level twelve killed multiple level fifties without even breaking a sweat, unless you count the bullets she took to the head without a care a sweat. Just that fact alone sends chills down Conor’s spine.
+
+“We need ta hire an Analyzer,” Conor suggests right away, bringing the other two’s gazes towards him. “No other way round it.”
+
+“No way!” Doyle shouts, the tall – for a lukian – man shouts, glaring at Conor for so much as even suggesting that. “No way in all the Luk’tar Hells am I ever headin’ anywhere near that monster of a lass ever again! An’ you can bet yer beard on that one!”
+
+Conor frowns at him and opens his mouth, only to close it again when Dunne shakes her head without a word. Then he grits his teeth and says, “They may not send us with em.”
+
+“Ya willin’ to bet on that? Cause I ain’t!” Doyle shouts back while standing up again and beginning to walk away. “We ain’t sayin’ nothing tha’ might require them ta send us back.”
+
+Dunne gets up after him and follows the man, leaving Conor feeling rather speechless on the ground. But he just grits his teeth and follows after the two anyways.
+
+I’m still going to make the suggestion at the debrief.
+
+Conor may feel just as terrified of the monster in girl’s form that they just crossed paths with, but he isn’t willing to jeopardize their clan just because of his own fear.
+
+But still, he knows that the Clan Leader will have to take care of this outsider somehow. Because despite their overwhelming numbers advantage over the Byrne Clan, even a thrall like Conor understands that the Byrne Clan is no pushover. Not when it comes to defensive warfare.
+
+And with this new addition to their ranks… one of unknown power despite being a lowly level twelve…
+
+Conor frowns as he walks, ignoring the other two surviving thralls while pondering just why that lass is still only level twelve when she’s clearly an adult based on physical appearance. If she doesn’t level up faster now, she’ll never make it to level one hundred by the end of her lifespan.
+
+And if she’s that powerful in the first place, how has she only reached level twelve by now?
+
+It just doesn’t make any sense to Conor. Someone that powerful at such a low level should already be skyrocketing up the levels.
+
+He halts midstep.
+
+Unless her class isn’t combat related? That could be it, but what non-combat class or purpose could give so much power?
+
+One way or another, Conor knows with absolute certainty that the lass has a Class S ability. There’s no doubt in his mind about that as he follows the other two.
+
+Eventually he just sighs and decides to give his report once they return and leave these questions for the council members to debate over.
+
+It’s not his job after all.
+
+Aria
+
+It ends up taking several minutes for the lukian to calm down before he decides to act like nothing had happened. As if he didn’t just spend several minutes having a pseudo panic attack.
+
+Or at least, I think that’s what it was.
+
+Probably.
+
+Although he does go ahead and call in the bandit attack to the base. And apparently the Clan Leader suspects that it was planned by our enemies.
+
+He can’t be absolutely certain of that though.
+
+So we just continue on with our little trip through the waters until we reach a mountain range and finally get off the ship, leaving it parked there. Which I feel is probably a bad idea if they don’t want it stolen, but it’s not really my problem. And I wouldn’t be too surprised if they have some sort of failsafe for that.
+
+Too bad they didn’t have a failsafe for the damages to the ship.
+
+Oh, and the guide guy takes the dead ‘bandits’ into his storage ring to investigate later. Probably while I’m doing my mission.
+
+Anyways, we travel through the mountains rather peacefully. And while the guide goes on telling me that he’ll be patient for me and go at my pace and all that, I end up having to wait for him after he grows too exhausted to keep up with me.
+
+His own fault. He really shouldn’t have tried to keep up with someone who doesn’t grow tired.
+
+I have to admit though, it was amusing to see him try.
+
+We take an hour or so to rest for him before continuing on. Then that process repeats itself a couple times before he grows a lot more tense, likely meaning we’re getting close to the outpost.
+
+Something I’ve realized about this world so far though is that there are a lot of mines. Up until recently, we’ve been traveling through the Byrne Clan’s territory. And repeatedly we keep passing by small towns and cities centered around mines.
+
+But it does make sense. After all, they had to have become a crafting focused nation for a reason. Having lots of minerals everywhere would be as good a reason as any.
+
+We also passed by one of the Hunter Spots on the way here. And it really is just a massive freaking tree. One that I couldn’t see the top of when we passed.
+
+Unfortunately I couldn’t go inside to check it out, considering that we’re in a hurry.
+
+And after just a few more minutes following his growing tense, he calls for a halt and crouches down near some of the heavier foliage.
+
+I join him and he quickly begins whispering, “Ye’ll go on yer own from here on out, lass. Continue heading North for just a few klicks and you’ll find the outpost.”
+
+That has me nodding my head. Then I frown before asking, “One question.” He nods, so I proceed, “Which way is North? The suns make that hard to tell.”
+
+I glance up at the two suns in different positions in the sky. Then I look back down at the surprised guide.
+
+“Right, outsider…” he mutters before clearing his throat and pointing in one direction. “This way’s North, lass. Any other questions?”
+
+I shake my head.
+
+“Then spirits be with ya,” he finishes with a nod before quickly scurrying away through the foliage, leaving me on my own.
+
+I watch him go for a moment before turning to face North and beginning to progress slowly towards where the outpost should be.
+
+Something I find interesting about the lukians here is that there are some of them who actually worship spirits. Like the Void Priest for example. There are some of those in the capital of the Byrne Clan. Although there were some Void Temples in the Dynasty on Eternus too, but there weren’t any other spirit temples.
+
+Probably only had Void Temples due to the whole revival thing. The other temples don’t really offer much beyond maybe a spirit companion to contract with or possibly a small blessing to their magical affinity if they have the affinity and are a mage for that element.
+
+Even a lot of people who don’t worship spirits still use spirits in their swear words though. And their blessings like that. Wishing someone good fortune.
+
+I’m not really used to it considering the lack of any religions on Vortel, and the lack of religious behavior on Eternus. Seeing as it’s a place of commerce. Not worship. Especially the capital.
+
+My thoughts come to a halt as I begin to see the makings of an outpost after almost making it to the peak of this mountain.
+
+Here it is. And judging by the voices I hear in the distance, they were right about it being occupied.
+
+Which means I have my first mission beginning now. And I’m all alone for it.
+
+I pause on that thought for a second.
+
+Never mind.
+
+A grin stretches across my face as I kneel down low and begin opening some rifts around me. Quietly, of course.
+
+Not entirely alone.

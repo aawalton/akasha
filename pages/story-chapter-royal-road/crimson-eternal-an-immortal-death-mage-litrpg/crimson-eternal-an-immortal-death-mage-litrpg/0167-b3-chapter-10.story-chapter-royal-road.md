@@ -1,0 +1,137 @@
+---
+id: 2e70c12c-325b-5670-84e6-baa2b95b9fee
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 10"
+slug: 0167-b3-chapter-10
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 167
+ownLength: 1535
+unit: words
+ownProgress: 1535
+publishedAt: 2024-06-05
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1664994/b3-chapter-10"
+royalRoadId: "1664994"
+markedReadAt: "2026-06-29T19:11:23.713Z"
+---
+
+Aria
+
+After discussing things a little bit more with the emperor, we all head straight to the Gate leading to Vortel. And I don’t even bother trying to disguise myself on the way. Simply because I know it won’t work.
+
+I can’t dye my hair since the dye would burn out right away. I can’t use contact lenses to change my eye color as the death energy let off by my glowing red eyes just dissolves the lenses. And if I try to wear a hood it would just make me look even more creepy having my crimson eyes glowing from underneath the hood.
+
+So I don’t bother. I’ve given up over the years after everything I’ve tried has failed.
+
+Instead I’ve taken a particular liking to the clothing from the Rex Dynasty. Since we did stop briefly to shop while we were there. Simply because nothing seemed to be going wrong, even if there were a lot of those odd terrorist attacks everywhere.
+
+Come to think of it, I wonder if those attacks are still going on or not?
+
+Either way, I got some regular clothing from the Rex Dynasty including a black jacket with red trim, black pants with red lines running down it, and a white V-neck shirt made out of a nice and smooth material. I also got a black undershirt to go beneath the white shirt, with a belt for the pants that I had my jewel embedded in the side of.
+
+Overall, it might just be my new favorite outfit.
+
+Comfortable, fits really well, great for movement, and I like how it looks. It also matches well with my hair and eyes.
+
+Of course, the outfit may stand out a little bit on Vortel. But not too much at the very least. Vortel isn’t that far behind in technology, and it has caught up a bit over the time I was gone according to Shirogane.
+
+At worst my outfit would be of higher quality than the clothing there and won’t catch too much attention.
+
+As for a holster for my sword and gun? No need.
+
+I just started using a storage ring to hold them instead since it’s just faster to pull them out that way. Seeing as I don’t have to go drawing the sword from its sheath or taking the gun out of its holster. I can just make them appear in my hand instead from the ring.
+
+Anyways, Hannah, Shirogane, and I all stop right in front of the Gate leading to Vortel. A much less busy Gate than most of the other Gates I’ve been to up till now.
+
+Probably because it’s a brand new world to connect to the universe.
+
+Or, a new world. Not brand new. It’s been connected for decades now after all.
+
+I take a deep breath after stopping right in front of the Gate. Then I glance at Hannah to find her smiling at me.
+
+Right.
+
+Almost home.
+
+After one last brief pause, I step through the Gate, quickly finding myself appearing in the middle of what looks like a warehouse. One with a checkpoint at the end of it that the three of us pass through with no issue when Hannah shows her ID.
+
+Then I stop after stepping out of the building and finding us to be on some sort of island.
+
+Right. Almost forgot. The Gate to Eternus is located on some random island near the former land of Arteria.
+
+Speaking of Arteria, according to Hannah, the nation was fully dissolved into Albaria. So it simply doesn’t exist anymore, and neither does the nobility from it. Other than their wealth, that is.
+
+Hannah turns around to look at me while wearing the same gear she was wearing when I first met back up with her. Gear from the Albarian military. Then she smiles and says, “Welcome home.”
+
+I nod back with a smile as we begin to walk down towards the port of the island before boarding a ship that takes us straight to Arteria’s former land. We pass through the port there with no issue simply through Hannah showing her ID, surprising me at her rank in the military. Which is a major general. One of the highest rankings in the military, just behind the lieutenant generals and the generals.
+
+When she sees my surprise though, she just points out that Leonardo – our division’s commander – is a lieutenant general who is currently being looked at as a possible candidate for general.
+
+Wow. Time sure flies.
+
+After entering the decently sized city to which the port belongs to, we head to the military barracks within to nab a jeep that we use to drive out of the city and in the direction of Albaria’s original territory.
+
+“Jason and Adrian were also promoted to major generals, with Frank actually serving as a lieutenant general,” Hannah explains as we drive. “Of course, his promotion is less real and more of a figurative reward. Since…”
+
+Right. He’s not expected to reach level one hundred before the end of his life.
+
+“All of us are still serving under the First General,” Hannah continues, her tone picking up again as Shirogane just looks at the surroundings we’re passing by with curiosity. “She’s helped us quite a bit over the years, and all she asked for in return was to support her position.” She glances at me with a wry smile on her face before looking out the front windshield again. “At this point she’s basically running the entire council herself, with a large majority of the votes. Even if she doesn’t actually have more votes than the others.” Her face scrunches up a little. “It’s complicated.”
+
+Politics always are.
+
+“She’s already reached level one hundred though, and so has everyone in our division other than Frank,” Hannah says without stopping in her driving. “One of the generals has already passed away, so they’re currently planning on holding a vote soon to replace him. And a couple of the other generals are looking to most likely not reach level one hundred either. So another vote will be held after they pass.”
+
+Wow… was not expecting all of that.
+
+I guess two to three decades really is a long time…
+
+A frown emerges on my face as the realization of just how long it’s been finally sinks in.
+
+Yet I still feel like it’s barely been any time since I saw them all…
+
+“You should see the commander in his younger form,” Hannah says while snickering. “He looks very different now.”
+
+“Oh?” I utter while tilting my head slightly at her. “That’ll be interesting.”
+
+“Yep,” she says before we fall into silence for a while. Just driving along through the deserts.
+
+To my surprise though, instead of heading to the Northern or Southern Passes, she heads to the center of the Great Divide mountains. Where we find a pass having been dug out through the entire mountain range.
+
+“There have been a lot of changes over the years,” Hannah says in explanation. “Mostly caused by the increased technological level we’ve had from the Dynasty.”
+
+Ah, right. That would do it.
+
+She goes on to talk about some of the technology Albaria purchased from the Dynasty that they’ve used to dig out the tunnel. Then she mentions the benefits to everyday life. A lot of technology I’ve grown used to over the years from spending time in some worlds with far higher levels of technology than Vortel.
+
+After that though, she moves on to mention something rather interesting.
+
+That Jason Vargas has been out of the military for a while now. Even if he still has his rank.
+
+Instead of fighting in the military, he’s mostly been working in prisons and psychological wards and the like. Places he can use his ability to help out and to further his purpose by reading and manipulating minds.
+
+Adrian Snow, on the other hand, has still been fighting. Using those ice blades of his to win any fight he enters without much trouble. Mostly because the fights are generally against criminals and the like rather than other soldiers.
+
+Frank was going around healing people at hospitals and helping with training centers by increasing stamina and the like, since he wasn’t a fan of war. Which I didn’t know about him.
+
+That he is actually rather against war and fighting.
+
+Then again, he’s basically a healer and support. So it fits the position, even if he’s a big guy that looks like he would be dangerous in a fight.
+
+Leonardo has mostly used his ability from a distance to pick off leaders in battle and to scout so that he can give out good commands.
+
+Overall, the Predator Division had broken up even if they all kept in contact.
+
+I grimace at that thought.
+
+They all just went their own ways.
+
+Then again, I did the same, and long before they did.
+
+It’s still sad though.
+
+I can’t help but think about that as I stare out the window of the vehicle at the passing tunnel walls.
+
+But…
+
+I am back now.
+
+The slightest hint of a smile appears on my face once more at that thought.

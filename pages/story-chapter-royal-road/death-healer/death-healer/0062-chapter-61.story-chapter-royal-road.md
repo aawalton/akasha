@@ -1,0 +1,179 @@
+---
+id: 95caa213-86f1-5500-a05a-cad3ab5c2822
+page-type-slug: story-chapter-royal-road
+title: "Chapter 61"
+slug: 0062-chapter-61
+partOf: death-healer
+position: 62
+ownLength: 2753
+unit: words
+publishedAt: 2025-08-15
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2521220/chapter-61"
+royalRoadId: "2521220"
+---
+
+The first zombies hit the dirt before most of the commanders had settled their elbows on the rampart. Lily’s fists and feet cracked bone with a speed and control that made even Galerius squint. She ducked and spun, never wasting a motion, but Galerius shook his head.
+
+“She’s fast,” Galerius said, keeping his eyes on the yard, “but it’s just Mana control. That kind of shell can’t last—not against a real mob. She’s burning through reserves with every blow.”
+
+Silanus watched as Lily hammered a corpse’s jaw sideways, then snapped a kick that buckled another at the knee. He frowned, following the flow of her Mana. “She’s unclassed. That’s not an Aura. I don’t see a Skill mark, but something’s burning in her core. Maybe a family technique.” He grunted as another body fell. “No way she keeps this up for more than a minute. Even a [Templar] with full support couldn’t push like that.”
+
+* * *
+
+The undead surged into the yard. Their armor clattered and their broken blades scraped stone. Some moved slow, their limbs stiffened by rot and old wounds, but others ran, jaws slack, tongues dangling, hunger burning red behind clouded eyes. The morning sun glinted off rusted helms and split mail, turning the press of bodies into a living wall of shadow and violence.
+
+Lily felt the world narrow to a single line drawn between her and the mob. She drew a long breath, letting [Mana Sense] unfurl through the field, mapping every corpse’s movement. She saw the lines of Death Mana pulsing inside each zombie—thick and hungry, thrumming in twisted arteries and clinging to their ruined joints. There was no order in their charge, only numbers and raw pressure. She tasted their stench at the back of her throat.
+
+She stepped forward, letting the Mana lattice thicken around her body, its threads flexing under the strain. Every muscle in her body tensed, every joint bent to perfect angle. She felt the familiar prickle—Light and Darkness twisting together, coiling through every fiber, pulled taut like fresh tendons strung between bone and skin.
+
+She braced her left foot and pivoted on the ball, her right arm sweeping up as the first zombie lurched close, mouth split wide, claws raised. In a single instant she snapped a thread of Coniunctionis from shoulder to wrist, fusing Light and Darkness through the biceps and triceps. The force erupted—a spike of power so pure it threatened to tear muscle from bone. She clenched her jaw and willed a net of healing into place, catching the strain before it could split her humerus. Her fist struck the corpse’s chin; bone shattered, skull cracking like glass. The undead flew backward and landed in a limp, twitching heap.
+
+Pain lanced through her arm, but she guided Light Magic to knit every microtear. Blood vessels resealed, tendons reformed, and the joint locked stable as new bone grew across the stress fracture. Her heart pounded, Mana thrumming in time with every beat.
+
+* * *
+
+As the first dozen undead dropped, Domitian’s eyes narrowed. “There’s no plate on her arms, no padding on her legs. She’s using Mana to reinforce her body. She’s pushing it hard. Too hard. She’ll collapse before the halfway mark.”
+
+Lily kept moving, sweat flying, her Mana shell bending but never breaking. She threw a corpse over her shoulder, then hammered two more to the ground before stepping sideways and spinning through a trio that tried to box her in.
+
+Galerius counted the bodies. “That’s more than twenty,” he said, still unimpressed. “It’s a good show, but all that Mana has to come from somewhere. She’s what, twelve, thirteen? No system gift, no Mana pool worth talking about. The dead will swarm her once she slows.”
+
+Silanus folded his arms, brow tight. “She’s healing as she fights, you see that? She takes a cut, and it closes. No chant, no spell. She’s burning more with every minute. No one taught her how to conserve. That’s not a Skill. It’s a trick.”
+
+* * *
+
+Another zombie lunged from her left. Lily twisted her hips, dropped low, and snapped a Coniunctionis strand through her right calf and up her spine. The fusion of Light and Darkness flared in her muscles, bending her leg faster than nerves could fire. Her foot shot out, heel crushing the zombie’s knee. She felt the patella rupture under the impact; Death Mana frothed as the joint collapsed. The corpse tumbled, and Lily flowed over it, letting Mana slide into her hip and back. Every motion fed into the next—Coniunctionis never shut off, never let go.
+
+She heard bones creak, a warning of strain, and flooded her joints with more Light. The healing pulsed, not in waves, but as a constant current. Sweat stung her eyes.
+
+Three more corpses broke from the pack, rushing her together. Lily let her weight drop, drawing Coniunctionis through her obliques, up her ribcage, and into her shoulders. She spun, left arm sweeping low, Mana threads firing through triceps and latissimus. Her open palm caught the first zombie under the jaw. She let the Mana twist, pulling its head sideways—vertebrae snapped, the skull turned a full half-circle before the corpse crashed into the mud.
+
+She didn’t pause. She felt the next body at her back, teeth closing on empty air. She let her right knee bend and fired Coniunctionis through her quads, calf, and foot. The kick shot backward, crushing the zombie’s femur; the bone split and the corpse folded over her leg. Lily yanked her heel free before the next monster could grab her ankle.
+
+The last zombie in the trio, a woman with half her face missing, lashed out. Lily ducked, feeling Mana crackle through the net she had laid across her collarbones. She drew both arms in, snapping Coniunctionis through her biceps and forearms. Her fists hammered the zombie’s chest in rapid succession—three blows, each one landing with the crack of splitting wood. The corpse crumpled, ribs caved, red light guttering from its ruined eyes.
+
+The mob pressed closer, filling the courtyard with death and noise. A half-dozen more corpses swarmed her. Lily wove Coniunctionis through her torso, hips, and knees, letting Light and Darkness spiral along her spine. She sidestepped the first two, letting the power snap her sideways—bones creaked as force tried to wrench her joints apart, but she stitched every fiber closed with Light. Her feet moved faster than she could think; the martial memory in her bones took over, guiding her through a dozen shifting stances.
+
+She drove her left elbow into the temple of a zombie, Coniunctionis flaring through the triceps and deltoid. The skull shattered.
+
+A corpse tried to seize her from behind. She let her back arch, Coniunctionis snapping through her latissimus and lower spine, and threw the monster over her shoulder in a blur. The impact cracked the flagstones.
+
+Another grabbed her wrist. Lily felt the cold shock of Death Mana biting into her own Mana. She twisted her arm, fusing Coniunctionis through every muscle in her forearm, and broke the corpse’s grip with a wrench that sent splinters of bone flying. She pulled free, bones shrieking, and let healing surge through the microfractures.
+
+Her lungs burned. Mana pooled in her core, draining with every strike. Yet the power never faltered. She felt the cost with every heartbeat—strands of muscle threatened to snap, ligaments begged for relief, but her healing ran just ahead of destruction, keeping her moving, keeping her alive.
+
+A zombie twice her size crashed toward her, sword raised. Lily ducked under the swing, weaving Mana through her neck and shoulders, feeling the strain at the base of her skull. She rolled forward, Coniunctionis snapping her spine into perfect alignment, and shot up inside the corpse’s guard. Her palm drove into its sternum—Mana fused through her arm and chest, the blow rupturing cartilage and stopping the monster cold. It fell, unmoving, as Light burned away the last ember of Death.
+
+* * *
+
+After thirty corpses hit the ground, Domitian leaned forward.
+
+“She’s still moving, the young girl, but you can see the fatigue now. Her Mana’s thinning. You ever see a child keep up that output for more than two minutes? An Unclassed child?”
+
+Galerius shook his head, jaw tight.
+
+“She’s just a kid. It’ll catch up to her. That’s what happens—too much Mana, too fast, and the body gives out. I’ve seen it before. This, though, is…”
+
+“Impressive,” Silanus finished his sentence.
+
+Down in the yard, Lily’s arms and legs pumped like pistons, each strike powered by that impossible lattice of Light. Sweat poured down her face and her mouth opened for breath, but her blows never slowed, and each wound sealed itself almost before the blood could run.
+
+The mob pressed tighter. Lily’s shell flickered at the edges. The pain crept higher in her joints. But still, she never broke.
+
+* * *
+
+She kept moving—Coniunctionis threading every muscle, never letting up, never breaking the flow. Zombies fell on all sides. Each blow, each throw, each parry was guided by Mana Sense and powered by the fused Martial Art. Lily lost track of time. Her body became a web of tension and relief, destruction and repair, pain and power.
+
+The hundred zombies became a storm she moved through, never stopping, never giving ground. The crowd above—the commanders, the [Templars], even Caesar—watched in silence as the child at the center of the mob tore through the dead with movements that no Classed fighter had ever shown.
+
+The strain built. The cost grew heavier. Her lungs burned. Her vision danced at the edges. Her healing slowed. But she never let go. She fused more Mana, drove it deeper, let the pain become a distant drumbeat.
+
+When the last corpse fell, its skull split under her heel, Lily staggered, breath coming in ragged gasps. The yard was silent except for the thud of bodies settling, the clatter of rusted weapons dropping, and the slow, steady drip of blood onto stone. Her Mana lattice shimmered—thinner now, but still whole.
+
+* * *
+
+The silence after the last corpse fell stretched thick and ugly. Domitian turned away first, shaking his head. Galerius folded his arms and drew a long breath through his teeth. Silanus stared down into the yard, eyes hard, while Lily’s chest heaved and her Mana shimmered faintly over sweat-soaked skin.
+
+Galerius was the first to break the quiet after a long sigh.
+
+“Are we supposed to be impressed?” he said, voice flat. “You have a crystalline talent, Caesar. I’ll give you that. I’ve never seen a child move like this. But so what? That’s one prodigy. The Papacy of Lumina lost a thousand talented man in the last generation’s campaign, and you show us one girl who can tear through a hundred zombies?”
+
+Silanus scowled and spat into the wind.
+
+“Give her a Class and put her in a duel with half the [Templars] in the South and she’d kill them, but it’s still just one child. You think this changes the war? She’ll be strong, but she’s not enough. One Champion doesn’t win a war.”
+
+Domitian kept his eyes on Lily, then turned to Caesar.
+
+“If this was a boy, it would be another story,” he said with his wizened voice. “You could build a bloodline around him. But a girl—no matter how much talent she has—can’t hold the line or carry the banner. She can’t inherit a legacy, not the way our laws are written. What do you think you’re doing? We’re breaking so many customs already, Caesar—we can’t break all of them.”
+
+Galerius gestured toward the courtyard with an open palm.
+
+“A woman can’t lead an army. She can’t inherit a title. Even if she’s the greatest fighter in the Dead Lands, what does that change for us? You spent a year to give us a spectacle. I need warriors. I need heirs.”
+
+Caesar listened in silence, then nodded once, slow and grave.
+
+“You’re right. One warrior isn’t enough. Talent alone isn’t enough. If she were a boy, maybe the other houses would already be fighting over to get in line behind her.
+
+“The only way someone would even consider giving her the time of the day was if she was an absolute, invincible monster, right?”
+
+The three commanders nodded, not without a pinch of sadness and regret in their eyes.
+
+If Lily had been a boy, they could have built an army around her, groomed her into a man perhaps capable of one day either taking down the Dead Lands or bring them away from this accursed continent.
+
+Sadly, that wasn’t the case.
+
+“That’s why this was just the first demonstration, friends.” Caesar said and turned and made a small, deliberate gesture toward the [Templars] by the gates.
+
+Four men in plate crossed the killing ground. They unlocked another set of iron doors, hinges shrieking, and stepped back fast.
+
+From the darkness beyond, a new tide of monsters poured into the courtyard.
+
+These were no slow zombies—fifty ghouls swept out, crawling on all fours and then rising to circle Lily in a tightening ring. They moved with the hunger of true predators, jaws open, black claws scraping stone.
+
+Their eyes glowed with a red, focused hate, not mindless like the zombies, but organized, coordinated, each one reading the space and tracking Lily’s breath.
+
+For a moment, nobody spoke. The tension on the wall thickened as the ghouls prowled the edges of the courtyard, fangs bared, eyes fixed on the girl at the center.
+
+Galerius rounded on Caesar, voice rough and urgent.
+
+“You’re mad, Caesar. That’s a slaughter line. You throw a child to those, you’re killing her in front of us. For what? A lesson?”
+
+Silanus bared his teeth and shook his head.
+
+“There’s no coming back from that. You want us to watch her get torn apart? You prove nothing by murdering your own talent.”
+
+Domitian stepped up to the edge of the parapet, gripping the stone so hard his knuckles paled. “Enough, Caesar. You made your point. No unclassed child could have done what she did. Even most men couldn’t. She’s the greatest natural fighter I’ve seen in fifty years, but she’s spent. Her Mana is nearly gone. You can see it in her stance, the way she’s breathing.”
+
+Galerius jabbed a finger toward the courtyard, voice rising.
+
+“She’s running on fumes. Any man with eyes can see she’s at her limit. Even if you wanted to break her, she already proved more than any of us believed possible. There’s no shame in ending it now. If you let those ghouls at her, they’ll tear her apart. She’ll die for nothing.”
+
+Silanus’s tone turned sharp as iron.
+
+“You want to show us what? That a girl can be a monster too? You proved it. She is. But she’s not immortal, Caesar. Even the greatest prodigy can’t take on a fresh mob after killing a hundred dead. Not when her Mana’s spent and her body’s on the edge. You’re not training a Champion—you’re feeding a child to wolves.”
+
+Domitian’s mouth drew tight with disgust.
+
+“I’ve seen grown men snap from less. You can hear the ghouls. They’re not like the zombies. They circle, they wait, they test the shell, and when she slows one step, they’ll pull her down and eat her alive. If you have a shred of sense left, Caesar, call it off.”
+
+All three glared at Caesar, expecting him to stop the trial or at least explain himself.
+
+Instead, Caesar stood unmoved, arms crossed, his expression fixed. He waited for their anger to crest, then cut through it with a cold, level stare.
+
+“You call her spent. Maybe she is. Maybe she’s one step from collapse. You say she’s the greatest talent you’ve ever seen, and you’re right. But that’s not enough. I don’t care about talent. I care about monsters. You want to win a war, you need something more than bloodlines and laws and custom. If she can’t survive this, she’s not worth a damn.”
+
+Galerius spat on the stone.
+
+“You’re insane.”
+
+Silanus didn’t hide his contempt.
+
+“You’ll kill her. You’ll waste everything you’ve built.”
+
+Domitian’s tone cut through the others, low and uneasy. “There’s vapor coming off her skin. I can see Mana burning out of her core. Caesar—did you… That’s not normal Mana. You taught her—no, you wouldn’t.”
+
+For a heartbeat, everyone turned, even the [Templars] below, listening.
+
+Galerius’s voice was wary now.
+
+“You taught her your Secret Skill?

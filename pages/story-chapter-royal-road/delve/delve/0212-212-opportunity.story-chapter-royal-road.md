@@ -1,0 +1,185 @@
+---
+id: 3b2d733b-7caf-5d80-a18e-fc3306648544
+page-type-slug: story-chapter-royal-road
+title: "212: Opportunity"
+slug: 0212-212-opportunity
+partOf: delve
+position: 212
+ownLength: 3392
+unit: words
+publishedAt: 2022-11-20
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1044832/212-opportunity"
+royalRoadId: "1044832"
+---
+
+“Dossier?” President Luna asked, not looking away from the live image of the conference room displayed in the Scrying Frame set into the wall of his office.
+
+“This is everything else we have been able to gather so far, sir,” the aide said hurriedly, stepping forward to place a thin folder on his desk. “We’ve sent runners to the other branches, but without telling them what we’re looking for directly, none of them have—”
+
+Luna raised a hand, silencing him. Risking a glance away from the three figures in the Scrying Frame, presently investigating the crackers and jam on the sideboard, Luna flipped open the folder. Rather than a dossier on the mysterious ‘Ascension,’ he instead found the report concerning the events at Three Cliffs. He’d already read it, and it was all unconfirmed hearsay, spread in Barstone by the very man in the conference room below him. Turning the page revealed another report, this from the Luxuriant, sent through the Barstone platform before it had departed in pursuit of Ascension. Again, it was something he’d already read. He turned the page again, this time raising an eyebrow. “Noble houses of Fel Sadanis?” He looked up at the aide. “Their captain is a noble?”
+
+“Not the captain,” the aide said, using the end of his pencil to point at a line on the list beside an orange flower crest. “The short one.”
+
+“Wagarardrogrum?” Luna said, reading. “Well, that’s a mouthful.” He snapped his fingers at the golden Diviner standing in the corner. “Get me a better look at his doublet.”
+
+“Sir,” the woman said, and the view flickered as she used her magic to focus the Scrying Frame along an alternate crystal channel. Normally, Scrying Pool could not be used indoors, but the Frame and the channels snaking through the building bypassed that restriction.
+
+From the new angle, Luna could clearly see the orange flower stitched on the short man’s chest. His eyes shifted back to the paper. The symbol matched the one on the page perfectly, so he went on to read the passage beside it aloud. “‘Wagarardrogrum: A minor noble house, stemming from the now defunct Wagadoragaragada family of Southguard.’ Founders, that’s even longer.” He clicked his tongue. “No information of use.”
+
+At a gesture from the Diviner, the view again shifted. The three figures had finished filling their plates and had returned to the conference table. Unlike the noble, the last of their guests was dressed like a grubby Guilder, though he wore no plate, only monster leather over rough-spun cloth. The red band on his arm marked him as awakened, but he had no visible weapon, not even a knife.
+
+The commoner is awakened, but the noble is not?
+
+Luna turned to the aide. “And what of the balding fellow?”
+
+“Sorry, sir,” the aide said, though his long silence had already told him all he needed to know. “Without even his name...”
+
+“We will learn it soon enough,” Luna said, waving a ringed hand. “For now, we shall assume he is a Mage of some description.”
+
+“Here we go!” the Diviner said in sudden excitement, zooming in on the armored leader only to let out a tch of annoyance. The man had lifted his visor, but only enough to slot a cracker through the tiny gap.
+
+“A cautious man, but not so cautious as to refuse the refreshments,” Luna observed. “He is either paranoid, shy, or aware we are watching. Perhaps all three. And yet he does not appear at all concerned to be observed. Most curious.”
+
+Suddenly in the Scrying Frame, Rain’s head turned to look at the door, which opened not a moment later, an unplated servant entering with a tray of coffee.
+
+“Sweet, thank you,” Rain said, his voice carried clearly by the room’s enchantments.
+
+The servant paled. “Apologies, m’lord. I thought you said unsweetened. I can—”
+
+Luna passively listened to the following inane exchange, more interested in the fact the armored man had known someone was coming before the door had opened.
+
+A sensory skill—and a powerful one, for it to pierce the wards. They are not rated for silver, but still. Perhaps he has a Diviner specialization?
+
+Luna glanced at the Mage Compass, yet another device keyed into the room’s enchantments. As it had been since their guests had entered, the needle was still spinning wildly, practically vibrating. That had to be deliberate obfuscation, but he could only guess what skill could be behind such a rapid procession of elements.
+
+Some defensive enchantment on the armor? I will need to wear my glasses.
+
+Looking back at his desk with a frown, Luna set aside the folder and returned to the writeup he’d been reviewing before the aide had arrived. There wasn’t much on the Watch’s new Custodian, unfortunately. While it noted him as an armored mage and aura user, there was no specific listing of his skills or information on his origin. Whoever had compiled this report had focused more on the political drama between the Watch and the DKE, and there was no mention of the word ‘Ascension’ at all.
+
+“How long are we going to keep them waiting, President?” the aide asked, sounding more curious than anything.
+
+“A time, yet,” Luna said, leaning back in his chair, then rummaging in a drawer for a cigar. “Anything from Luxuriant?”
+
+“No, sir,” the aide said. “They just docked. They should send a runner soon, unless you want us to Message—”
+
+“No, no,” President Luna said, puffing as he lit his cigar with his monogrammed sparklighter. “I see no need to risk interception. We can wait for the runner.” Exhaling a cloud of smoke, he leaned back in his chair, nodding to the Scrying Frame. This was a teaching moment. “We have what they need, so we hold the advantage. They will not leave. If they become impatient, they may reveal something.” He gestured to the door with a single finger. “Go. Tell them I am still in my meeting but that it should be ending shortly. It won’t be, of course.”
+
+“Yes, President,” the aide said, bowing as he retreated.
+
+Luna puffed on his cigar, a smile playing across his face. There was money to be made. That was always the case, naturally, but something about Ascension had his intuition tinkling like a thousand tiny bells.
+
+I want them.
+
+Rain looked up, feeling a shift from the powerful soul above. Flaring Detection, he was able to get a bit more information. Scrambled as the return was, he could tell that the Bank president had finally left his office. He sat up sharply, sliding his boots off the table. “We’ve got action.”
+
+“Finally!” Atyl said, shaking his fists at the ceiling, then splaying them open. “Two hours! Two!”
+
+“Mmm,” Rain said, moderating his reaction to avoid feeding the fire. He was playing captain, which meant he was calm and in control, no matter how irked he actually was. From the wait, yes, but also that he’d allowed it to happen.
+
+Should have just made an appointment for later when they told me he was busy. I gave him all the power before we even met, and he used it to trap us in here to stew. Can’t get a Message in or out through the wards on the building. Can’t send Nails outside or they’ll suspect he’s a Mentalist. Can’t use Radiance strongly enough to punch through without shattering my anchor on the other end. Gods, I’m bad at this. At least they let me send a runner, else Ameliah would have torn the building down by now.
+
+Realizing he was clenching his teeth, Rain forced himself to relax. It was fine. He had a signal accolade strapped to his forearm beneath his bracer. If there’d been trouble while he was stuck in here, Ameliah would have summoned it. Likewise, he could summon the one she wore or the backup to the backup he’d left with Vanna.
+
+Standing, he looked up at the ceiling, tracking the position of the powerful soul as it wound its way down through the enormous building. Unlike the branch in Fel Sadanis, which hadn’t hosted much beyond its cavernous marble lobby, this branch was filled with functional spaces, offices, and meeting rooms. It had an ostentatious lobby too, of course, but that went without saying.
+
+Over three minutes passed before the soul finally arrived outside the door, which opened without so much as a knock. As the lacquered wood swung outward, it revealed the hallway and the three people standing there.
+
+President Luna wore the DKE noble’s equivalent of a three-piece suit, sharp blue trousers and a buttonless waistcoat to match, but with a luxuriant fur cape in place of a jacket. No tie, obviously, but that didn’t mean the man lacked accessories. In addition to the intimidating sapphire and brushed silver plate dangling from his neck, golden rings choked his fingers, two apiece. A pair of spectacles—the first glasses Rain had seen other than Tallheart’s—rested on the bridge of his strong nose. The man himself was broad-shouldered, mid-forties, but without a trace of gray in his jet black hair, styled like he was running for Congress. He bore no visible weapons, but the plate and the hungry strength of his soul—orange, from the flashes—placed him on par with Halgrave. He also smelled vaguely of tobacco.
+
+Rain managed to keep the distaste from showing on his face behind his visor, distaste that came only partly from the smell. For all he knew, Luna’s glasses would let him see right through it. There was no question his entire outfit was enchanted and obscenely expensive.
+
+“I am President Luna Olentu,” the rich probably-asshole said, making no apology for the delay. Almost as an afterthought, he gestured to the others that had followed him. “My associates, Seeker Kan and Enforcer Gena.”
+
+Kan was a woman in a robe, rings braided through her hair rather than encircling her fingers. Gena was a man in reddish armor, polished to a mirror finish, with a pair of rapiers at his waist. Both Bankers wore golden plates set with rubies, making them rubyplates—or bloodplates, if you weren’t feeling charitable—the Bank’s equivalent to silver.
+
+Rain inclined his head. “Rain, Captain of Ascension,” he said, leaving it at that. He glanced at Atyl.
+
+Taking the hint, Atyl chose to make an elaborate bow. “Lord Atyl Wagarardrogrum, Entrusted of Ascension and head of its finance council.”
+
+“Nails,” Nails grunted.
+
+President Luna smiled like a shark, the expression not reaching his eyes as he gestured to the table. “Shall we?”
+
+Rain sat, his party taking places beside him as Gena pulled out the president’s chair. Meanwhile, Kan set a small black-lacquered box on the table in front of her boss, then joined Gena in standing subserviently behind him.
+
+“How was your meeting?” Rain asked once Luna was settled, not bothering to veil the accusation from his tone.
+
+“Most frustrating,” Luna replied easily, a knowing smile tugging at his lips. “The other party barely spoke for the entire duration, and when they did, it was never anything of substance.”
+
+“Perhaps they knew their every word would be mined for information,” Rain replied.
+
+“Perhaps they did, and yet, they still revealed much,” Luna said, twisting one of his rings. “Such as the fact that they watched me through the walls as I walked down here. Through the warded walls, which I expect will need maintenance sooner than usual this month.”
+
+“I guess we’re done with the verbal sparring, then,” Rain said. “And I’d be happy to recharge them for you. For a fee.”
+
+“And a chance to inspect the runes, I think not,” Luna said, releasing his ring and folding his hands in his lap. “Let us dispense with games. I do not mind a little banter, but I feel it is often better to be direct when it comes to business. And so, you wanted to secure a charter, yes?”
+
+“Yes,” Rain said. “One that gives us total autonomy within the bounds of the common law wherever we wish to sail. What do you want in exchange?”
+
+Luna smiled. “To be Director.”
+
+“Okay...” Rain said. “I was thinking more along the lines of Tel. What does you becoming Director have to do with us?”
+
+Luna smiled. “Tell me, do you know how the Bank’s Board is selected?”
+
+“By net worth,” Rain said, wondering where he was going with this. “Every year, as part of the Bank’s tax procedure, its members are ranked by the assessed value of their assets, minus any outstanding liabilities. The top ten are assigned seats on the Board based on that ranking, with the Director first among them.”
+
+“You have done your research,” Luna said, smiling. “Surely you can name the top three as well?”
+
+“Jien Initi is the current Director, followed by Omar of Tae, then Kenn Trell. What is this, trivia night? What happened to being direct?”
+
+Luna chuckled. “And what do they have in common, those above me?”
+
+It was Atyl that answered. “They control the Bank’s three largest subsidiaries. Omar for Havenheild, Lord Jien for Foundry, and Lord Trell for the Greater Bellosian Trade League. Lord Trell is also the current administrator of Splendor.”
+
+“Exactly,” Luna said. “Whereas I, at number four, control only this branch and a mere three Goldships. If I am to cross that gulf, I must exploit every advantage that falls into my lap. Advantages such as this.” He motioned to Gena, who nodded and pulled a small ornate box from the satchel slung over his shoulder, not unlike the one sitting on the desk in front of the president. He opened it, and Rain instantly received an alert.
+
+Anchor Connection Restoredanchor_det_t01_0000
+
+Oh.
+
+He recovered quickly. He’d assumed the loss of signal to the anchor he’d left at the site of his shame meant its destruction, but it wasn’t like he’d been scanning for magical skill-blocking boxes. Detection also couldn’t tell him whether Gena was the same rubyplate who’d pulled his anchor from the sludge—IFF not being able to categorize an anonymous signal like that—but it was a reasonable guess. If so, the man had to have no sense of smell.
+
+“This magic is new to me,” Luna said, gesturing to the jagged purplish crystal. “It clearly holds mana, but not enough to desecrate the land so. Is it some sort of bound marker, perhaps? So you could return to survey the results of your...experiment? Warning? Regardless of what it was, it was most impressive. You have power.”
+
+“No comment,” Rain said, reaching out and plucking the anchor from the box before handing it to Nails. “Also, if you tell anyone about what you saw there, I’ll...uh...”
+
+“You’ll what?” Luna said, smiling again as he touched his plate with a finger. “Don’t make threats if you can’t follow through. Gena, the next items, please.”
+
+Gena nodded, reaching into his satchel and pulling out another item to place on the table—a dagger, stamped with Ascension’s symbol. An aluminum dagger. Gena didn’t stop there, however, negotiating a bulky object out of the bag. A flashlight. He switched it on before placing it beside the dagger.
+
+Shit.
+
+Luna twisted one of his rings, peering at Rain through his glasses. “My enchanters tell me neither item contains mana, yet the weapon is far too light to be steel, and the flashlighter, well, that speaks for itself.”
+
+“Where did you get those?” Rain demanded, his voice icy.
+
+Luna laughed. “Everything has a price. Do you have any idea of the value of such things? Your man clearly did not. An unknown metal? Light without Crysts or flame?” He leaned forward. “What are lectons, exactly?”
+
+“Again, no comment,” Rain said. It was Del, then, or maybe Mig. Oh, they are in SO much trouble.
+
+Luna waved a hand. “We are getting ahead of ourselves. We can discuss such things once our deal is in place, so again, I will be direct. An unrestricted charter is unprecedented and out of the question. The Board would never allow me to issue such a thing.” He reached out and picked up the flashlight, pointing at one of the glowing plates on the wall. “Flashlighters and light bulbs could break the stranglehold Jien has on Light Plates and displace him in the market. The method of your ship’s propulsion could likewise break the monopoly he holds on Journey Cores.” He set down the flashlight and touched a finger to the dagger. “This, or rather, the metal it is made from and the antlered smith that made it, would have Omar frothing at the mouth. No, you will not be allowed to operate independently, no matter your ties to the Watch and the Guild. The disruption you would pose to the Bank is too great. However, there is one option available to you.”
+
+Rain narrowed his eyes. For the first time, he’d Seen something in someone’s soul he thought he could ascribe meaning to. There had been an odd...flickering...as Luna talked, not matching the rampant greed flooding from him.
+
+Luna smiled, oblivious to Rain’s thoughts as he removed the lid from the lacquered box, revealing a plate of ruby and gold, the gem etched with the Bank’s scale symbol. “I offer you an opportunity,” he said, sliding the box across the table. “Renounce your allegiance to the Guild. Cast aside that Custodian’s plate you wear. Work for me instead, and I will make you more wealthy than you have ever imagined. Help me rise to the Director’s chair, and I promise you—”
+
+“No.”
+
+Rain’s car-salesman alarm was blaring at full intensity. He didn’t need Reading. This was some bullshit.
+
+Luna stopped, then tilted his head. “Perhaps you do not appreciate exactly what it is I am offering you. I would give you the freedom to travel the entire world as you wish. The freedom to create wonders without fear of repercussion and all of the resources you could possibly require. All I ask is that you allow me to determine to whom your goods are sold and for what price. If it is the Warden’s retaliation you fear, then I assure you that the Bank’s influence—”
+
+“No,” Rain repeated more forcefully. “I’ve met her face to face. Have you?” He slashed a hand across his chest. “Regardless, Ascension isn’t something that can be sold. I am its captain, and that means I serve the will of its members, not the other way around.”
+
+“Come now,” Luna began.
+
+Standing, Rain reached behind his chair to retrieve the rolled flag they’d brought with them. “This is how it’s going to be,” he said, unfurling it across the table. Ascension’s symbol stood out boldly, stitched in royal blue against the snowy white cloth. “We will fly this symbol as our charter flag, whether you choose to recognize it or not. We’ll pay docking fees, passage fees, and so forth, provided we deem the rates reasonable, but we will allow no inspection of our ship or its cargo. If you wish to reverse engineer our goods, by all means, purchase them and try to do so. Competition breeds innovation.”
+
+“You dare speak to me so?” Luna said, rising from his chair like a thundercloud. “I come to you with the opportunity of a lifetime, and you spit in my face? I have half a mind to simply take what I desire.”
+
+“Don’t make threats if you can’t follow through,” Rain replied, coldly throwing Luna’s words back at him as he headed for the door, Nails and Atyl trailing hurriedly in his wake. He paused with his hand on the doorknob and looked back. “You don’t have the power to force us to do anything. Attack us, steal from us, waylay any of our people or otherwise interfere with our operations, and we will retaliate in kind. It didn’t end well for the Empire, and it won’t end well for you.” Pushing the door open, he turned and tapped the twin plates dangling from his neck. “And that’s without even getting into any of the political complications. Leave us alone, and we’ll leave you alone. Trade with us fairly, and you may still get what you desire.”
+
+“Just who do you think you are?” Luna demanded as Rain turned away.
+
+“Thank you for the coffee,” Rain said without looking back. “Crackers were a bit dry.”

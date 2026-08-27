@@ -1,0 +1,365 @@
+---
+id: a60a64f6-dceb-5a74-aa1a-ef2955d55916
+page-type-slug: story-chapter-royal-road
+title: "234: Unsupervised"
+slug: 0234-234-unsupervised
+partOf: delve
+position: 234
+ownLength: 3375
+unit: words
+publishedAt: 2023-06-11
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1241774/234-unsupervised"
+royalRoadId: "1241774"
+---
+
+“...and so, to take any possibility of the Denethor scenario that I just described off the table, effective tomorrow morning, I will be stepping down as cap—“
+
+Dozer stiffened his sensitive membrane, fighting back against the roar of outrage that had risen from the gathered bonesacks. This was not their first outburst, nor even the loudest. It would not be the last. Rain-King would be talking for at least three more whiles, which was effectively forever. Dozer had stopped listening a while ago, other than the occasional check-in.
+
+Rain-King had told him the important part earlier. He was leaving. He would die if he did not.
+
+Dozer was suddenly quivering with enough fury to make the bonesacks around him shout and step away, but he barely noticed. Grannybrain was not clean. She had fooled him. She was filth, and too strong for him to do anything about, and also too strong for Rain-King to do anything about. It was unacceptable.
+
+Eventually, the trembling calmed, but Dozer’s rage still simmered as he checked on Rain-King again.
+
+“...lair that Ameliah found in the basement is not the only one we can potentially access. The other, as some of you might suspect, is below Vestvall. Given that we don’t know if the Empire kept a presence there, we’ll need to...”
+
+Hearing nothing important, Dozer began winding his way through the crowd spread beneath the trees to distract himself. Rain-King would not die, obviously. The scouring of Bug-Home would stop because he had to leave, though. That was a problem. The cleaning would need to be continued by someone else. Someone like him. Except he was leaving too. He had to go with Rain-King—not just because of the king-link, but because Rain-King would get in trouble without him.
+
+And yet, there was filth.
+
+Deeply troubled, Dozer oozed past Tall-Brother, who was standing at the edge of the clump of cervidians. They had gathered apart from the other bonesacks, sorting themselves by boneheadedness in spite of Rain-King’s wishes. It was too ordered, Rain-King said. Divided and segregated and bad.
+
+Dozer understood. The ⟬order-need⟭ could be stupid sometimes. It was ⟬order-need⟭ that currently had his Crystal Slime kin battling over the stones in the play area Rain-King had made for them. Some were trying to sort them by size, while others were trying to pile them by texture, while others were trying to fit them together by shape. They did not realize how the ⟬order-need⟭ was creating ⟬disorder⟭. They simply followed their instincts.
+
+If Rain-King followed his instincts, he would die. If Rain-King died, he wouldn’t be able to clean anything. It was the same reason he’d defiled the Whale. Defiled to live.
+
+It was sense, but it was not.
+
+It was better to die clean.
+
+...
+
+Somehow, that didn’t seem right either.
+
+Dozer oozed on, no closer to solving moral philosophy than he was to solving the problem at hand. He was finally beginning to understand what made Rain-King brood so much.
+
+Speaking of Rain-King.
+
+“...this box holds what I’m calling the tech tree. I’ve been writing them out for a while now, but they’re more ‘what’ and ‘why’ and less ‘how’. Most of them should be self-explanatory. Anyway, the point is to bolster our industrial output, and the bills are grouped into tiers to make it easier for...”
+
+Still talking. Pointless. Boring.
+
+Talking would not scour the filth from the Bug-Home.
+
+Talking would not...
+
+Talking...
+
+Dozer froze, clarity piercing through the headache-without-head he’d given himself. Rain-King did lots of talking! Lots of telling Ascension what to do! With talking, he got them to do things he could not! The other bonesacks weren’t nearly as strong as Ameliah-Queen and Tall-Brother, but they were many! Cleaning was the work of many! Many could do what one could not!
+
+Dozer swerved, no longer oozing. By leaps and bounds, he shot through the crowd of listening bonesacks until he found the ones he hadn’t known he’d been seeking. The Crystal Slimes could do what he could not. They did not have to think. He just needed to show them the problem.
+
+⟪ You! ⟫ he sent in a way he knew not how, landing in the playpen with a splat. The communication was like the king-link, but not. More instinctual, somehow.
+
+As one, the Crystal Slimes paused in their endless sorting.
+
+⟪ Why no ⟬clean⟭? ⟫ Dozer sent, then quivered with frustration. It was clear they did not hear him from the way they were already going back to their pointless task. It was also clear why they were not cleaning. There was no filth here. Not in the pen. Only disorder.
+
+⟪ ⟬filth⟭ is that way! ⟫ Dozer tried anyway, trying to charge the command with a sense of direction.
+
+There was no response.
+
+That would not do.
+
+⟪ ⟬clean⟭! ⟬clean⟭! ⟬CLEAN⟭! ⟫
+
+Tamer Support System - Debug Output
+
+Detected attempted activation of corrupted natural skill
+
+Closest template: Noblesse Visqueuse
+
+Error: Missing required class family: Royal Slime
+
+Error: Contracted Tamer lacks required ability: Skilled Monster
+
+Error: Contracted Tamer lacks required ability: Tame Monster
+
+Error: Unsolvable Contradiction
+
+Notifying Tamer of Error State
+
+Error: Tamer not found
+
+Notifying Administrator of critical error state
+
+Error: Administrator not found
+
+Entering debug mode...
+
+Existing Shared Hybrid Interface Detected
+
+Warning: visual interface unsupported by target entity
+
+Compensating...
+
+Hybrid Interface Boot Complete
+
+Notice: unique monster species detected
+
+Generating class options from template: Crystal Slime
+
+Generating additional tailored options
+
+Notice: Administrator approval required due to warning flags
+
+Error: Administrator not found
+
+Working...
+
+Resolution completed with errors
+
+Beginning auto-evolution...
+
+Essence Slime King has been randomly selected
+
+Error: tamer_veto_dialog failed - Tamer not found
+
+Reverting to self-selection
+
+[RAIN-KING!!!!] Dozer sent, trying to contain his excitement and confusion. The first panel had already vanished, but more were appearing now, wrapping around him like muffling blankets. There were more words on them, words he could read by hearing. It was just like before.
+
+[Not now, please,] Rain-King’s response came.
+
+[But—]
+
+[Dozer, I know you don’t think so, but this speech is important. Whatever it is, you’re smart, figure it out on your own.]
+
+The connection snapped closed, but Dozer was so floored he barely even noticed the rudeness.
+
+Rain-King said Dozer smart!
+
+Shimmying with pride, Dozer bounced around the playpen, his troubles momentarily forgotten. The panels chased him as he indulged himself in sorting a few stones, but he quickly regained his composure. Urgently, he oozed for the edge of the pen, finding a hollowed-out tree trunk to squeeze into. He didn’t like the way the panels crowded in after him, blocking the sound from outside, but it still felt safer than remaining out in the open. Not paying attention to your surroundings was bad. Ameliah-Queen said so. She hassled Rain-King about it all the time.
+
+Dozer had remembered, though, because he was smart.
+
+After a little more comfortable wiggling, he buckled down to read. He hadn’t got much from the first panel—it had vanished too soon for him to make sense of it—but he would do better with these ones, starting with the first.
+
+Greater Essence Slime
+
+Common
+
+For a prolonged and pathetic existence as a Slime of any description, a reward is due simply for the feat of survival. Become a larger version of your base species, earning marginal increases to physical attributes. As the first of your kind, receive an additional bonus.
+
+Do you want to be a Greater Essence Slime?
+
+Why all words? Maybe words meant for Rain-King? Rain-King always picking from panels...so... No, wait. If for Rain-King, would be all numbers. Picking is for Dozer. Rain-King said so. Should pick?
+
+Wobbling gently from side to side, Dozer puzzled his way through the text a second time, finally coming to the conclusion that he did not want this, probably. If a Greater Essence Slime was anything like a Greater Crystal Slime, it would make him too big to ride Rain-King and Floofy-Cloud. He also did not like the word ‘common’.
+
+Next!
+
+In response to the thought, the panel drifted aside, letting him better hear the one behind it.
+
+Essence Slime King
+
+Uncommon
+
+For achievements far surpassing others of your kind, you have earned nobility. A Slime King is significantly larger and tougher than its lesser kin, with a minor ability to command them. A mark of your station shall be provided in the form of a resplendent crown. As the first of your kind, receive an additional bonus.
+
+Do you want to be an Essence Slime King?
+
+Dozer wrinkled his membrane, trying to understand the complicated sentences. He did not like this one either. Rain-King was ⟬king⟭. Dozer could not be ⟬king⟭. It also said it would make him large. And a ‘minor’ bonus to command did not sound like enough.
+
+Next!
+
+Essence Slime Queen
+
+Uncommon
+
+For achievements far surpassing others of your kind, you have earned nobility. A Slime Queen is moderately larger and tougher than its lesser kin, with a significant ability to command them. A mark of your station shall be provided in the form of a resplendent crown. As the first of your kind, receive an additional bonus.
+
+Do you want to be an Essence Slime Queen?
+
+Dozer jiggled unhappily. He could...should...not be ⟬queen⟭. Ameliah-Queen was ⟬queen⟭, even if she denied it as much as Rain-King denied being ⟬king⟭. The Commanding was more and the embiggen was less, but...
+
+No. Not without ask Ameliah-Queen. Can not ask Ameliah-Queen without Rain-King. Problem.
+
+...
+
+Next!
+
+Essence Slime Prince
+
+Uncommon, Hidden
+
+For achievements far surpassing others of your kind, you have earned nobility. A Slime Prince is faster and more adaptable than its lesser kin, leading not through direct command but by example. Gain significant bonuses to physical prowess and allure. A mark of your station shall be provided in the form of a shining circlet. As the first of your kind, receive an additional bonus.
+
+Do you want to be an Essence Slime Prince?
+
+Dozer quivered, given pause almost immediately. Faster and more adaptable. Neither of these things would make him larger at all. That was good. The sentence about leading was complicated, though.
+
+‘Not’ something ‘but’ something? What is ‘not but’? What is allure?
+
+He did not understand how the panel could give him a word he did not know. Prince was ⟬prince⟭, word and instinct interchangeable, but ‘allure’ was nothing he knew. His insides began to twist and churn like they were trying to dissolve one of the stones the slimes outside were playing with. Finally, after almost three minutes of no progress, he decided to move on. Maybe the next panel would have the answer.
+
+Essence Slime Princess
+
+Uncommon, Hidden
+
+For achievements far surpassing others of your kind, you have earned nobility. A Slime Princess is faster and more adaptable than its lesser kin, leading not through direct command but by example. Gain significant bonuses to magical prowess and allure. A mark of your station shall be provided in the form of a shining circlet. As the first of your kind, receive an additional bonus.
+
+Do you want to be an Essence Slime Princess?
+
+The churning redoubled. A Tel condensed from the effort, but he barely noticed, another joining it as he tried to wring meaning from his thoughts. There were too many of them. Too many thoughts. Too many options. More than three. He had to break them down into smaller pieces.
+
+Prince physical. Princess magical. Clean magical. Magical Princess better. Want.
+
+Faster not larger. Adaptable not larger. Princess smaller than Queen. Want.
+
+Allure is same. Allure-word is what? Lead ‘but not’ is what? Better? Want? Don’t know!
+
+The pressure grew and grew, three more Tel condensing all at once, but Dozer barely noticed. He needed to ask Rain-King, but Rain-King was busy. Rain-King had said to figure out. Had said Dozer was smart. Could not disappoint.
+
+Allure is what?!
+
+He stayed like that for over twenty minutes, Tel continuing to form one after the other, occasionally in twos and threes. The rate slowed eventually, the fatigue of creation setting in, but it took the sudden appearance of yet another panel to slice through the knot he had made his thoughts.
+
+Surprise turned quickly to anger.
+
+TOO MANY! STUPID, LAZY, LATE PANEL! GO!
+
+The panel didn’t react, staying where it was.
+
+Once he calmed down, Dozer released an unhappy pop, crunchy from the clump of Tel in his center grinding against each other. He was sure he’d never made so many at once before, just as he was sure that he was experiencing an emotion.
+
+Shame.
+
+He’d become stuck, he realized. Just like the dumb Crystal Slimes with their rocks. And then he’d become even dumber. He’d tried to dismiss the new panel without reading it. Even though it deserved it for being late, that would have been the biggest of dumbs.
+
+He quivered, realizing he was clenching the Tel so hard that it was painful, and with effort, relaxed his membrane.
+
+Not helpful brood. Magical Princess best of so far. Queen just okay. Ignore rest. Next! Wait! No! You go that way. And you! Queen! There with Princess!
+
+In response to his most excellent commanding, the panels for Princess and Queen moved right while the others he’d discarded floated around out of the way. Dozer felt reassured by the knowledge that he’d have been fine without a class if not for the Crystal Slimes’ frustrating inability to hear him. Confidence restored, he summoned the next panel forward.
+
+Essence Slime Purification Knight
+
+Rare, Hidden
+
+After devoting your life to the chivalrous ideal of cleanliness, you have earned the right to take the vow. Gain massive bonuses to innate Essence Slime abilities. Gain additional bonuses, strength, and magical power while mounted. Gain additional bonuses when battling the unclean. Armor and a lance suitable to your station shall be provided. As the first of your kind, receive an additional bonus.
+
+Do you want to be an Essence Slime Purification Knight?
+
+Dozer had learned his lesson. He didn’t even feel tempted to pick it immediately. Instead, he carefully read and reread the long list of bonuses. He wanted to ride, yes. It would not make him big, yes. It would give him a shell like Rain-King, yes. It would help him clean, yes. But it did not say anything about command. It would not solve the very important problem.
+
+He churned happily, the Tel clinking inside him causing only mild discomfort. This one was easy to discard. It looked good but was not. He did not need to keep it in his thoughts.
+
+Next!
+
+Void Slime
+
+Rare, Hidden, Unique
+
+For dissolving a significant quantity of physical matter, you have shown your dedication to the void. There can be no filth nor disorder when there is nothing at all. Gain massive bonuses to matter dissolution, with all type restrictions removed. As the Devourer, consume even the light that would illuminate your ever-growing form.
+
+Do you want to be a Void Slime?
+
+Easy. No want. Have been in void. Very much boring and scary same time.
+
+Dozer moved on quickly, and the world was, perhaps, spared.
+
+He turned his focus to the delinquent panel that had arrived after the others, prepared to dismiss it and return to the puzzle between Princess and Queen.
+
+Essence Slime Progenitor
+
+Rare, Hidden, Unique
+
+By condensing sufficient essence to anchor a soul to the physical world, you have discovered a means of procreation. Your offspring will inherit this capability, that they may continue the cycle. As the progenitor of a species, gain near-absolute command of your descendants and the ability to shape their instincts.
+
+Do you want to be an Essence Slime Progenitor?
+
+...?
+
+It took a few minutes, but eventually, Dozer realized that he’d been dumb all along. Three or thirty of threes, the Crystal Slimes were not enough to clean all of Bug-Home on their own. This, though... This changed everything! With this, he could make himself helpers! Just like Rain-King had made him!
+
+Thoughtful wobbling became excited tremors that became an all-out jiggling spasm that sent him hurtling toward the panel.
+
+YES PLEASE!
+
+Class selection applied.
+
+Evolution complete.
+
+Debug interface terminating.
+
+?
+
+Dozer landed outside the tree with a splat, not feeling any different. All of the panels had vanished, providing no insight.
+
+???
+
+Further self-inspection provided no clues either. Slowly, he began to wobble again, then to shake with fury at the stupid, late, re-un-forgiven panel. Just before he churned himself to a literal froth, he noticed something. The Tel bumping against each other in his insides felt...charged. Ripe with potential.
+
+He was experiencing something new. Not an emotion. An instinct and...an ability?
+
+As if in response to the realization, he felt it activate.
+
+⟬divide⟭
+
+Dozer began to swell. He instantly panicked, fearing that he was going to become large after all, though the class panel had not said anything about size. Mercifully, the swelling stopped almost as soon as it began, the Tel within him vanishing all at once. Then something else happened, triggering a whole new level of distress. It felt as if Ameliah-Queen was giving him one of her hugs but had forgotten she was stronk. No, this was like being hugged by Tall-Brother. No. This was worse. The squeezing grew tighter and tighter until—
+
+*pop*
+
+Dozer wobbled dazedly on the ground, back at roughly his original size again and feeling like he’d been sliced in half. As he regained his senses, he became aware of...another him.
+
+Another him! A smaller him! Actually, a her, he decided! Until she decided different, maybe!
+
+⟪ ⟬clean-need⟭? ⟫ the other sent. The signal was crisp and clean, not fuzzy like that of the Crystal Slimes. ⟪ ⟬order-need⟭? ⟬divide-need⟭? ⟫
+
+⟪ ⟬clean-need⟭, yes! ⟫ Dozer sent back to the smaller slime. ⟪ ⟬divide-need⟭, yes! ⟬order-need⟭, meh! Also, hello! I am Dozer. Who are you? ⟫
+
+⟪ ??? ⟫
+
+The response was confused. Not unclear. Just confused. She had understood the instincts well enough, but the rest had gone past her. She did not know who she was or how to speak. That was okay. She was baby.
+
+Dozer sent back feelings of comfort. ⟪ No worry! You will figure out! I am Dozer. ⟬progenitor⟭. You are Zero! Rain-King says is best for lists to start from zero! ⟫
+
+⟪ Zero??? ⟫
+
+[Okay, Dozer, I’m done. What was it you wanted to ask me?]
+
+Rain-King’s voice was so unexpected and well-timed that Dozer leapt straight up.
+
+And up.
+
+And up and up.
+
+The panel hadn’t said anything about physical prowess, but clearly, it was just something it had forgotten to mention.
+
+[Woah, Dozer, thinking of joining the NBA?] Rain-King said. Moving with speed that shook the air around him, he used his magic to rush forward and snag Dozer out of the air before he went splat. [Oof. I keep forgetting how heavy you’re getting. Hang on, are you smaller?]
+
+[Rain-King, careful!] Dozer interrupted, horrified by the waves of panic and alarm Zero was sending. ⟪ Calm! Calm! Rain-King is friend! Rain-King is ⟬king⟭! ⟫
+
+“What...” Rain-King said out loud, tilting his head as he did sometimes when listening. He blinked, then blinked again, then turned suddenly and stared straight down at Zero.
+
+[Zero is!] / ⟪ Rain-King is! ⟫ Dozer sent to both at once.
+
+There was a long pause.
+
+Rain-King stared. Zero listened.
+
+⟪ ⟬king⟭! ⟫ Zero sent, getting over the surprise first. Tentatively, she tried to ooze forward, but was clearly unsure how.
+
+Dozer quickly wriggled out of Rain-King’s arms, landing with a plop and rushing to show her.
+
+“Dozer...” Rain-King said, licking his lips. “Detection says...it’s...not a monster? An Essence Slime...but...also an animal? How—? What did—?” Rain-King’s mouth kept moving after that, but no more sounds came out.
+
+[Not animal!!!] Dozer said, wriggling with unimaginable pride as he gently guided Zero forward. He knew the right word for what Zero was, even if Rain-King could not think of it. [Daughter!!!]
+
+There was another long pause, though as they neared, Rain-King knelt and extended a finger.
+
+Zero happily glommed onto it, needing no encouragement to investigate.
+
+“Hello, Zero,” Rain-King said, gently shaking his finger up and down. “It’s nice to meet you.” He shifted his focus back to Dozer. “Congratulations. She’s adorable. Now, can we maybe rewind a bit?”

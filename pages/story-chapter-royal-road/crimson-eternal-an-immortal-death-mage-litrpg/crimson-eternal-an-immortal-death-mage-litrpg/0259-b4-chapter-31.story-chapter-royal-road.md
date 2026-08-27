@@ -1,0 +1,131 @@
+---
+id: c937b48f-abb8-51f2-8541-444116620f38
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 31"
+slug: 0259-b4-chapter-31
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 259
+ownLength: 1417
+unit: words
+ownProgress: 1417
+publishedAt: 2025-02-26
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2091332/b4-chapter-31"
+royalRoadId: "2091332"
+markedReadAt: "2026-06-29T19:14:33.149Z"
+---
+
+Aria
+
+After bringing me around for a bit, Lyra eventually leaves the Fracture. With the girl telling me to talk to the security guard she’ll be stationing outside of the Fracture whenever I’m ready to leave. And while I try to tell her that I might be in here for a while, she… yeah, she just says it’ll be fine.
+
+Something tells me she has no idea how long ‘a while’ is for me, but whatever. It’ll probably be fine.
+
+So I just send out all of my lovely Death Spirits and summon my horse before riding on my horse. With my horse – who I haven’t come up with a name for yet – immediately stepping into the air instead of on a platform. Completely ignoring gravity in the process.
+
+Because who needs common sense?
+
+Then I just let my Death Spirits go wild as my horse carries me through the Fracture. Ever so gradually gaining kills. Gaining progress towards my purpose and my next level.
+
+Although I find it a bit harder in this place since the majority of the mana creatures I can see are all flying. Which is something my Death Spirits unfortunately cannot do.
+
+But the bizarreness of this place makes it a bit easier for them to kill the things. What with up being down sometimes letting them get above the mana creatures and jump down. Or up?
+
+Or up down?
+
+This is getting confusing.
+
+Very confusing.
+
+Anyways, I continue moving further in on my horse. And further in. And even further in.
+
+Through the entirety of the first Tier, then the second, and the third. The fourth. The fifth.
+
+And with each Tier, the Fracture gets weirder and weirder. With there being more and more floating platforms at even weirder angles than before.
+
+It’s getting so weird in here that I’m starting to wonder if I’ll recognize what’s up and what’s down when I get out. But that’s a problem for future me.
+
+Present me is going to finally enjoy being at another Hunter’s Spot that I can blow things up in. Because no one cares about me blowing up the inside of the Fractures.
+
+So once I get far enough into the Fracture’s fifth Tier that I find some rather clustered spots, I get to work blowing things up. Along with the large nests of smaller mana creatures I find here.
+
+It’s kind of annoying how that diminishing returns thing works on kills though. What with how I get fewer and fewer ‘kills’ per kill with every one that I do back to back in a short period of time.
+
+Something that only started happening in the last few dozen levels or so.
+
+Although it does return to normal later on at least. And it’s only for each unique species.
+
+So when I kill thousands of a single species of mana creature in a day then they’ll start to count for just a small fraction of a kill each instead. But they’ll start counting for full kills again within a few days.
+
+Rather annoying overall.
+
+I asked the Death Spirits about it the last time I went there on the way here and they said that it’s got something to do with there being too much of that species’ unique death energy in the area. So I get less death energy over time in the same area from the same species.
+
+Anyways, I go ahead and start blowing things up.
+
+The Second Star of the Star Link StationsA few weeks later
+
+Laura Vecol smiles as she hands her customer a cone of ice cream and says, “Here’s your order. Have a wonderful day and please come again!”
+
+The customer nods his head silently and leaves without a word. Meanwhile Laura looks around the side of the station she and her stall is stationed at for her next customer. Only to find most of them going to the ice cream stand a bit before hers, closer to the entrance of the nearest hangar.
+
+A much better location than hers.
+
+She continues to look at each of the passing people for anyone who may be interested in her ice cream. But as she’s doing that, she notices something strange. The same something strange that she had noticed multiple times over the past couple of weeks.
+
+People walking by while limping. Almost like everyone is getting injured or something.
+
+Laura tilts her head for a second before deciding it’s not important and continuing to search for potential customers.
+
+At the very least, there have been more customers for her in recent days than before. Simply because there are a lot of people heading to the station just to see the Horseman of the Apocalypse that is rumored to be here. The Horseman of Death.
+
+But Laura still has her doubts about there being a Horseman here. After all, she hasn’t seen her yet. Even if some people say they have, and others took pictures.
+
+Pictures can still be altered, and there are always gossips and people spreading false rumors everywhere.
+
+So she won’t believe it until she sees it.
+
+Not to mention that she hasn’t heard a single thing about explosions in the station.
+
+Out of the corner of her eye, she notices a potential customer. Only to pause when she’s about to open her mouth.
+
+Because something else catches her attention.
+
+Some of the people who are limping seem to be dropping stuff as they walk. And they all look incredibly hungry.
+
+She narrows her eyes a little at it before broadening the range of people she’s looking at to include those outside of the vicinity of her stall. And she finds the same thing further away, and even on the other side of the station. Albeit without the dropping stuff thing.
+
+Laura looks back at the limping people again to focus on what it is that’s falling from under their pants or skirts.
+
+But when she realizes what it is, she immediately covers her mouth as she feels the urge to vomit.
+
+Is that… skin? Are they really just trailing behind dead skin as they walk?!
+
+Laura stops trying to attract people to her stall as she sits here and closes up the lid on the freezer full of ice cream. Then she continues to stare out, watching people walk by. Where she finds more and more people limping while trailing along flakes of skin.
+
+Something she didn’t notice before though is that every last person she sees limping and trailing dead skin has their legs covered. Whether it’s through leggings, in which they don’t trail dead skin but are limping, or through pants or long skirts.
+
+She narrows her eyes while kneeling a little bit to get a lower view, and what she sees has her immediately turning into her booth to vomit in a corner.
+
+Because what she saw was dead and dying flesh on their legs. But not very thick. Like it’s just patches of dying flesh on the surface of their legs. Just the skin.
+
+But it is clearly spreading, and the skin is just flaking off around the dying flesh as well.
+
+That’s all she needs to see before she clearly understands what is going on. At which point she hurriedly packs away all of her stuff and calls for a taxi.
+
+Then she immediately leaves the ledge of the station, letting out a sigh of relief as she does so. Letting the taxi drive her in the direction of her hotel.
+
+A pandemic… there is a pandemic spreading through the station!!!
+
+Laura frantically gets on her phone and begins researching any potential news on a pandemic, but all she can find are details about a rash spreading recently. Which confuses her to no end, because what she saw was far worse than a rash.
+
+She continues to search harder for news and she eventually finds it. All new reports that were just posted within the past couple hours.
+
+Almost like all of the rashes decided to progress at the same time.
+
+This… doesn’t sound good.
+
+Laura continues to search for information on the pandemic before glancing at the taxi driver, who is still driving. Then she looks out the window at the people on the two pathways alongside the main air street, where she sees a large number of people limping.
+
+She continues looking out for a few seconds, then she grimaces.
+
+I need to get out of this station as quickly as possible.

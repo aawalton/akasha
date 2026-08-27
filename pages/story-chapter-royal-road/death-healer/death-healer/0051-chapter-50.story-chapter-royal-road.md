@@ -1,0 +1,253 @@
+---
+id: a2c054b9-08ed-5c62-8d06-0cb670ee681e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 50"
+slug: 0051-chapter-50
+partOf: death-healer
+position: 51
+ownLength: 2708
+unit: words
+publishedAt: 2025-07-13
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2432541/chapter-50"
+royalRoadId: "2432541"
+---
+
+Sabinus dropped into a low stance, blade out.
+
+He scanned the field, but every nerve focused on Lily. The blood on her gauntlets hadn’t dried, and the way she stood over the corpse—barefoot, not even winded—made something cold crawl up his spine.
+
+He’d seen veterans break after one kill. Lily looked like she’d just shrugged off an annoyance.
+
+Three of the bigger bandits spotted her and tried to surround her in a rough triangle.
+
+Sabinus had seen this formation in border skirmishes: box in the smaller fighter, cut off retreat, collapse with heavy swings.
+
+He almost called a warning, then stopped.
+
+Lily didn’t need it.
+
+She flowed around the first bandit’s ax with her feet gliding over dirt and dead leaves. The man swung with all his weight, but Lily had already slipped behind his guard.
+
+Powered by Coniunctionis, her right hand snapped under his chin—no, to his neck.
+
+Unknown to Sabinus, Lily had just karate-chopped the man’s trachea to a mess.
+
+Unable to breathe, the man let the weapon go and grabbed his throat in a panic.
+
+These are at least level twenty [Soldiers]. What she’s doing is…
+
+Sextus had been fully trained. Normal [Soldiers] of Great Families, not [Templars], barely received any instructions before being thrown on the frontlines where talent would save the ones worth saving and weeding out the weak. The Gens Cornelia did not operate like this, giving a decent training even to the least talented recruit, which explained why almost no one deserted their ranks.
+
+But still, these were men who had seen combat. And Lily was handling them like…
+
+Children, Sabinus realized.
+
+The next two rushed in, and this time she spun low, sweeping one man’s ankle. She took a blade to her gauntlet, which skidded to her shoulder, drawing blood.
+
+That made Sabinus hiss as he charged the stronger warriors, but he saw a flash of blinding white light and the wound had already knitted itself.
+
+She’s trading blows on purpose because she knows she can take it… that’s ruthless.
+
+Lily punched the man who had overextended himself right in the side of the head using all the power of Coniunctionis. She knocked him out cold and then elbowed the ribs of the other, making him keel over. Before the next could come, she snapped a kick so powerful to the knelt man his neck broke.
+
+Sabinus caught one bandit trying to flank and dispatched him with a quick feint and stab. But his eyes kept flicking back to Lily, and what he saw shook him in a way the frontlines never had.
+
+She’s insane. That’s not a girl—that’s a weapon wrapped in skin.
+
+She moved with a precision he’d never seen in a girl her age. No wasted movement, no nervous glances, no breath spent on anything but the kill.
+
+Her [Mana Sense] let her read the battlefield like she’d been fighting for decades, not months.
+
+If this was what she could do without a Class, the world had no idea what was coming.
+
+The other bandits started to hesitate, a wall of doubt stalling their advance. A few backed off.
+
+He dispatched the high-level ones. They were probably around his level, but he was the scion of a Great Family with a Great Skill that allowed him to move at supernatural speed.
+
+One more fool charged Lily with an axe raised over his head.
+
+Lily didn’t dodge. She stepped inside the man’s guard and hammered her palm into his solar plexus, just like she had done against Sextus. The man’s eyes bulged; he dropped his axe and crumpled, spasming in the dirt.
+
+Sabinus whistled under his breath, not caring if the bandits heard.
+
+“Dawn’s Mercy,” he muttered, half admiration, half disbelief.
+
+In a crowd, she’s still raw. But one-on-one—
+
+Sabinus dealt with two more, then risked a glance her way. He saw her drop another man in the dust with a throw he’d only ever seen taught to advanced legion instructors—something out of the most fighting-obsessed experts he knew.
+
+She rolled with the momentum, landed in a crouch, then drove her elbow into the next bandit’s face, shattering his nose.
+
+There was no hesitation. No flourish.
+
+She was a brutal killing machine.
+
+He gritted his teeth as another two charged at her together—she let them come, then sidestepped the first, letting the second swing crash into his own ally. As they stumbled, she snapped a Coniunctionis strand through her shoulder, redirecting her momentum into a knee strike that caved in the first man’s sternum. The second bandit didn’t even have time to process before Lily seized his wrist, twisted, and snapped it with a clean pop. He screamed and dropped his weapon. She finished him with a chop to the throat.
+
+Sabinus dispatched the last two on his end and looked over the field. The bandits who still stood were already in retreat, the survivors bolting into the trees without a second thought. No one wanted any part of this “frail” girl who had just massacred half their number with bare hands and a splash of Mana.
+
+The whole fight had taken less than two minutes.
+
+Sabinus approached, catching his breath. The field was quiet except for the groans of the wounded and the gurgle of blood in the dirt. Lily wiped her gauntlet on her tunic and glanced at him, as if to ask why he was staring.
+
+“Lily,” he said, voice low, “you’re not normal. You’re not even close.”
+
+She shrugged, panting and bending on her knees. The fight had taken a toll on her. She was still an Unclassed dealing with weak men, yes, but with a Class.
+
+“Wasn’t trying to be.”
+
+A hush fell over the blood-soaked path. For a moment, only the crows dared make a sound. Sabinus was wiping his blade clean on a dead man’s sleeve when every hair on Lily’s arms lifted. The air thickened—every breath went heavy. It was Mana, dense and cold, pressing down like an invisible mountain.
+
+Lily barely managed a single word. “Sabinus—”
+
+He already felt it. His head whipped toward the treeline, eyes going wide.
+
+“Don’t move,” he said, voice tense. “Stay behind—”
+
+The trees darkened. A shape slid from the shadows—a man taller than any [Templar] Lily had ever seen. The only person bigger, and not by that much, than this man that the young blonde had ever seen was her Uncle Marcus, her father’s [Monk] friend and second-in-command.
+
+A ragged bandit’s cloak hung from his shoulders, blood-stained. His face was lost beneath a tangled silvery white beard and hair, but his eyes burned clear and blue as the most precious sapphires. The color looked familiar to Lily, not quite the white of age, but of something else.
+
+The ground itself seemed to flinch as he stepped forward. The corpses on the ground barely mattered to him. He nudged one aside with his boot, then looked down at the bandit’s torn throat, lips curling in a mixture of contempt and amusement.
+
+“Idiots,” he said, voice grinding low. “I leave you fools alone for an hour and you die to children.”
+
+Sabinus didn’t waste time. “Lily, he’s above Level 200 at least! Run—” he spat, voice cracking into command. He flashed forward with his body blurring as he activated his Great Skill.
+
+But the bandit vanished too.
+
+For a split second, nothing moved. Then Lily saw Sabinus—arms half-raised—appear mid-stride, already sagging.
+
+The bandit stood behind him, one thick hand closing around Sabinus’s throat, the other clamping down on his shoulder.
+
+Lily’s eyes went wide.
+
+Sabinus tried to twist free, mana flaring from his skin, but the man’s grip tightened. With a sharp motion, the bandit knocked the back of Sabinus’s head with two knuckles. Sabinus’s eyes rolled, his body limp before he hit the ground. The bandit caught him by the collar and slung him over one shoulder like a sack of wheat.
+
+Lily took a step forward, fists rising, [Life Flow] humming in her blood. She wanted to shout, to threaten, but the words caught in her throat. The man’s aura pressed down, heavier now—suffocating… just like her father’s.
+
+He turned, eyes meeting hers.
+
+He smiled, slow and wide.
+
+“I know you, Liliana Claudia,” the bandit said.
+
+His voice wasn’t loud, but it cut through the woods as if nothing else existed.
+
+Lily stood her ground, every instinct screaming at her to run, to hide, to survive—but her legs wouldn’t move.
+
+The man’s gaze lingered. Then he looked away, shifted Sabinus’s weight, and started walking into the trees.
+
+“Follow me,” he called, not looking back. “Do not make me chase you.”
+
+* * *
+
+The bandit camp sat in a hollow between giant moss-choked boulders.
+
+Fires flickered inside, illuminating battered tents and a scattering of men—every one of them silent, wary, and hard-eyed, not the usual rabble. These were survivors, not thugs.
+
+The bandit—probably the leader of all them—led Lily in with Sabinus slung over his shoulder, and every eye in the camp tracked them with predator’s patience. Nobody challenged their leader. Even the dogs slunk aside when he passed.
+
+Lily kept her head down, jaw clenched. She’d followed because the alternative was suicide; Sabinus had gone limp in the man’s grip with a single blow. If she tried anything, the result would be the same—she’d be dead before she blinked.
+
+At the center of camp, the leader tossed Sabinus down near the largest fire, propped him against a fallen log, and turned to Lily with the same cool detachment as before.
+
+Sabinus was breathing—Lily could see his chest rise and fall—but he was still out cold.
+
+She glared at the bandit chief. “Who are you?”
+
+The man grinned, showing perfect teeth.
+
+“Son of the Iulii. Caesar Iulius. Maybe you know my little brother.”
+
+“Caesar Iulius?” Lily’s eyes widened. “From the Gens Iulia? You’re a bandit? Wait, who’s your brother?”
+
+“He’s a [Cardinal], now, the little upstart.”
+
+Lily took a step back before she caught herself.
+
+“You’re Tiberius Iulius’s older brother?”
+
+Caesar chuckled, low and rough.
+
+“He likes to forget that I exist, but yes. The so-called Shield of Lumina. The one they all whisper about at night. I dragged his arse off the line more times than he’ll ever admit. Saved his life once too many. Not that he’s ever thanked me. I ought to teach him a lesson some day.”
+
+Lily couldn’t process it for a moment.
+
+This was a man who just claimed to be as strong, or stronger, than the single most powerful figure in the entire nation.
+
+Tiberius was legend; this man spoke of him like an annoying sibling.
+
+“Why are you here?” Lily asked, suspicion and awe mixing in her voice.
+
+Caesar let out a weary, bitter breath and crouched down by the fire, his gaze sweeping the flames.
+
+“Because I’m tired. Tired of the nonsense killing. Tired of pretending any of it matters. Tiberius would rather die fighting a hopeless war than admit it’s lost. He’s always been small-minded. A brute, not a thinker. Even when he was a kid, he just wanted to swing his sword harder than the next boy. But I always saw what he didn’t.”
+
+He poked at the fire with a blackened stick, then glanced at Sabinus, who groaned but didn’t wake. “I led him on the front more times than you can imagine. Saved his life so many times he’d be dead ten times over without me. I still don’t know if he’s stronger now. Maybe. Doesn’t matter. He’ll never be free of his own pride.”
+
+Lily stared. She expected some tragic tale, some hidden hero. Instead she found cynicism, resentment, and a kind of burnt-out brilliance that unsettled her more than any brute force.
+
+“What do you mean, the war is lost?” Lily pressed.
+
+Caesar just snorted, not meeting her eyes. “Exactly what I said. The Dead Lands are growing. You see it, right? The Church, the nobles, the families—they keep throwing bodies at the tide, hoping some of them become high-level enough to actually fight back. It doesn’t work. You know what happened to your grandfather’s generation, right?”
+
+Lily knew that there was some expedition that went really bad, but she didn’t know the details.
+
+“I was there, Liliana Claudia. I was there and I saw Undead stronger than any member of the Church. If they all marched on Lumina tomorrow, everything would be lost. Everything. Ironic that I meet the daughter of the only man who’s survived an encounter with a few those monsters.”
+
+“My father?”
+
+“Lucianus Claudius is…” Caesar seemed lost for words. “I shared bread with him on a several expeditions when he was at the beginning of his military career. He’s the single most resourceful man I’ve ever met. That’s what’s kept alive so long despite my cousin clearly wanting him dead.”
+
+Lily opened her mouth but she didn’t know what to say.
+
+“I’m not surprised his daughter is like this,” Caesar scratched his messy hair and shook his head. “But anyway, I’ve seen what the real Undead look like, girl. I’ve watched armies of peasants break on them like waves on stone. The Gens Cornelia—your friend’s house—they’re the worst. They sell a dream: ‘Come to us, we’ll make you a warrior, you’ll become a legend.’ What a joke. Most of their recruits die without ever getting a single good Class Skill. If any do become strong, it’s because they’re monsters to begin with. And even then, there’s always a bigger Undead out there, waiting to snap them in half.”
+
+He turned his cold gaze on Lily. “If it were up to me? I’d evacuate the whole damn kingdom. Move everyone east, across the sea. Pray the Undead don’t follow. End the farce. Let the dead rot in their desert and be done with it. But no—everyone’s too busy pretending we can win. They keep feeding children to the grinder, hoping for a miracle.”
+
+Lily’s heart hammered. “Why are you telling me this?”
+
+Caesar’s grin didn’t reach his eyes. “I told you: because I know who you are. I know what you’re about. You defied the Gens Aemilia, spat in the faces of nobles twice your size. I have contacts in the capital. I know you’re trying to become a Champion. I respect that. Takes will. But let me ask—are you really ready to do anything for it?”
+
+Lily’s voice stayed steady.
+
+“Yes.”
+
+He nodded slowly, then glanced at Sabinus, sprawled by the fire.
+
+“Then here’s the deal. I’ll release you. You’ll be free to chase your dream, start your legend. There’s only one price.”
+
+She tensed, dreading the answer.
+
+Caesar rose to his feet, casting a giant’s shadow.
+
+“Kill him.”
+
+Lily’s mouth went dry.
+
+“What?”
+
+“Kill the heir of the Gens Cornelia,” Caesar said, pointing at Sabinus. “That’s the price. Right now. Or neither of you leaves here alive.”
+
+She shook her head, numb. “You can’t be serious.”
+
+He stepped closer, towering over her, the fire glinting in his eyes.
+
+“I’m dead serious,” he said, removing Sabinus’s dagger from his belt and handing it to Lily. “The Gens Cornelia has sent thousands to die for nothing, hoping a handful will claw their way to greatness. Nobles use peasants as cannon fodder and call it ‘service.’ It’s a lie. Sabinus—he’s next in line to sell that same lie. To send more kids to die because his family needs glory. You want to change things? Prove you’re not just another selfish little noble, chasing power for yourself. End it now. Kill him. Or you both die here.”
+
+He folded his arms, waiting.
+
+“Decide, Liliana Claudia. Show me if you’re willing to pay the price for your dream, or if you’re just another one of those nobles looking for a free meal, too lazy to get their hands dirty for a greater cause. I won’t let anyone who’s not prepared to do anything have a shot at becoming the Pope and plunging this God-forsaken country into an even deeper hell.”
+
+Lily stared at the blade in her hand.
+
+The fire snapped and hissed.
+
+Sabinus, still unconscious, lay oblivious.
+
+The bandits watched, silent and grim.
+
+The only sound was Caesar’s quiet, unrelenting voice.
+
+“So, Champion. Show me what you’ll sacrifice. Is your dream worth more than his life?”

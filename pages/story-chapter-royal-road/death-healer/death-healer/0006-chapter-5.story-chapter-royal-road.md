@@ -1,0 +1,167 @@
+---
+id: 9ef885fa-ec67-52d1-a786-1450025759ba
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5"
+slug: 0006-chapter-5
+partOf: death-healer
+position: 6
+ownLength: 2022
+unit: words
+publishedAt: 2025-05-04
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2254575/chapter-5"
+royalRoadId: "2254575"
+---
+
+One-year-old Lily's delight was palpable when her mother, Adriana, traded the monotonous presence of hovering figures for a more engaging toy. The repetitive nature of the three figurines had dulled her interest rather quickly.
+
+Now, with her mother and enigmatic grandmother closely observing, Lily found herself fascinated by her new toy: a straightforward puzzle designed to play a musical note each time she made a correct match. Her task was to select a miniature cube from an array stored within a jar and determine its proper placement into one of six uniquely designated holes on the box before her. Each opening bore a distinct Mana signature, representing varying levels of Mana, which she could discern through Mana Sense. The essence of the game was to accurately guess the most suitable place for each cube.
+
+Clutching a cube between her tiny fingers, Lily concentrated, assessing the amount of Mana it contained. She wanted nothing more than to hear the nice little notes play out.
+
+So, she made her first move as the two women in the room held their breath.
+
+Unsurprisingly, she got the first one wrong. Then another one. Then another one after that. After a few more tries, little Lily grew confused and just sucked on one of the cubes, falling on her back and staring at the ceiling while clutching the piece of wood.
+
+"That's…" Adriana frowned. "Mother?"
+
+"It might be too hard for her," Hestia mused. "Let's give your daughter more time. I'll visit again in a week."
+
+* * *
+
+Hestia Iulia was reading an ancient book discussing child-rearing techniques in her chambers when she heard a knock and a servant announcing her son.
+
+"Lady Hestia, His Holiness is here," the loyal servant recited.
+
+"Let him in," the middle-aged woman sighed, putting the book down.
+
+The double door opened as her son and [Pope], Ennius, strode confidently inside.
+
+"Hello, dear." Hestia stood up, went to embrace her son, and kissed both his cheeks and his forehead.
+
+"Mother," Ennius saluted, returning the hug. "How's Adriana's daughter doing?"
+
+Hestia found a smile tugging at her lips as she released her son from the hug and gestured toward the table. She waited for him to be seated before pouring two chalices of wine and standing behind him with her hands on his shoulders.
+
+Ennius Iulius was remarkably young to be the [Pope], having ascended to the position at twenty-three, now only twenty-nine, younger than most Patriarchs of the other Great Families, including Lucianus. His late father had died in an unfortunate accident in a prolonged engagement in a Dungeon, sadly, which meant that his son had had to step up very quickly. The most important advisor in his ascent had been none other than his mother, which meant he placed incredible stock in her judgment.
+
+"Your niece is quite incredible, dear. It's almost a pity she isn't your own daughter."
+
+"It's alright," Ennius smiled, taking the cup of wine. Lucretia is a handful. I can't deal with two girls."
+
+"Well," Hestia said with a trailing note, "perhaps Lucianus could have been left without sisters and you with another—"
+
+"Mother," Ennius snapped, looking wildly at the doors.
+
+"The entire room is enchanted, dear."
+
+"I ordered you not to speak of this anymore!" Ennius said, taking one of his mother's hands, still on his shoulder, and tugging at her. "Go sit, please."
+
+"Alright, alright," Hestia smiled mischievously.
+
+"Is her daughter making any more progress?" He asked again, trying to recompose himself.
+
+"The new toy might be too much for her age. It's been three weeks, and she still hasn't figured it out."
+
+Ennius sighed in relief, his shoulders slumping down.
+
+"The last thing we need is another Adriana," he said, rubbing his temples. "How did she even have that daughter of hers?"
+
+"Your sister loves you, dear," Hestia sighed. "You should stop worrying about her and this little miracle. They're not a threat."
+
+The [Pope] stared back at her and shook his head.
+
+"Whatever you say, mother. I just need to know how powerful you think my niece might become."
+
+"She's a girl, Ennius," Hestia shook her head. "She might become a powerful [Healer], but that's all you can expect from her. She'll never be a Champion nor threaten the succession. I'm not even sure she'll even figure out the game we gave her in less than a couple of years."
+
+* * *
+
+Lily, with her blonde hair gathered in two pigtails, was being carried around her family's villa. It had been six months since they had first tried to have the little girl practice every day through new toys, but that strategy had had barely any success. After the first meteoritic rise in Mana Sense, the child had seemingly lost all her interest in training.
+
+She had gone from a prodigy to… just a kid.
+
+"My bundle of light," Adriana said, "you must behave today. Friends are coming over, and you'll be playing with Lavinia. Be a good girl, ok?"
+
+Adriana walked through a large corridor in the majestic mansion her husband had inherited as the heir of the Gens Claudia. She stopped beside the white marble lining up the wall.
+
+"Pearl Marble," her mother said, caressing the villa's walls, "Lucianus's ancestors excavated it from a very powerful Dungeon."
+
+"Papa is strong," Lily said, extending her hand to touch the wall.
+
+"The Gens Claudia's estate is even better than your Uncle's when it comes to gathering Mana, darling. Now, though, let's go. Lavinia and her father are waiting."
+
+Adriana and Lily entered the courtyard, a grand space framed by carved columns. A tiered fountain gurgled at the center, surrounded by trimmed hedges and colorful flowerbeds. Paved paths wound through the gardens, leading to a vine-covered pergola in the corner. Servants tended to the immaculate grounds all around.
+
+Lavinia's father, Aurelianus, stood by the fountain beside his daughter, taking in the courtyard's beauty. He smiled warmly as Adriana and Lily approached.
+
+"In His Light," Adriana said toward the man she had known since she was a child.
+
+"In His Light," he smiled back before shaking his head.
+
+"Adriana," the man's voice boomed. "I can't believe it took us this long to see each other again!"
+
+"It's a rare day, the one you don't go with my husband on an expedition, Aurelianus," the blonde replied warmly. "I miss the action, myself."
+
+The big man showed a remorseful expression as if he had just said something extremely insensitive, but Adriana, picking up on it, immediately waved his worries away.
+
+"We're here to chat and let the kids play. I'll arrange for some refreshments here and send them to Lily's room for now."
+
+"Sure."
+
+"Decima," Adriana called. The woman who had been shadowing her took Lily and Lavinia in her arms, bringing them both inside.
+
+* * *
+
+Lily stared antagonistically at the little redhead who had apparently come to invade her territory. And, as with all enemies invading territory, she needed to obliterate this nuisance. If she allowed the threat to prosper, who knew how many little redheads she could expect to come invade her room and play with her toys!
+
+Decima had placed them both side by side with a vast array of toys in front of them. Currently, the redhead scourge that had invaded her territory was playing with a doll Lily had deemed too below her to play with—that pleased the little blonde endlessly. It was clear that the red enemy had a subpar taste and that it wasn't even worth her bothering to consider her a threat at this point.
+
+But then, something happened.
+
+The redhead menace crawled closer to a toy that had been relegated to the corner of her room: her grandmother's gift, the sound box.
+
+Lily narrowed her eyes at the little redhead, but a small baby smirk touched her lips. There was no way for that fool to figure out the incredibly complex contraption her grandmother had developed. In fact, it made absolutely no sense to Lily and that was why she had abandoned it in favor of better toys.
+
+But then, the unthinkable happened.
+
+The redhead looked at the box and picked up two cubes lying beside it. Lily initially thought that, given the mindless expression in the enemy's eyes, the girl would just try and eat the cubes. Instead, the red threat casually chucked them into the same hole, eliciting two musical notes in rapid succession.
+
+Immediately, the enemy rejoiced and clapped her hands, clearly full of schadenfreude for having solved the enigma that had stomped Lily for so long. The little blonde, beside herself with horror, was reeling. Could the red thing have figured out the enigma that had stomped her so long? Or was it just beginner's luck?
+
+At that moment, the red enemy took another cube and, seemingly randomly, chucked it at another hole. This time, too, the box played a note. Most importantly, the red thing turned at her with a wide smile while clapping her own hands mischievously, celebrating the humiliation ritual she had just performed while encroaching on Lily's territory.
+
+"Oh my, she likes your toy," Decima smiled and giggled, clapping her hands herself.
+
+Lily was beside herself. Had now even her loyal follower decided to become a thrall of the red demon?
+
+She couldn't let this happen.
+
+Standing up as heroes did, on two legs, she heroically approached the box and frowned, not even bothering to look at her archenemy.
+
+She picked up a small cube from the box and stared intently at it before chucking it into one of the holes. Nothing happened.
+
+Feeling the humiliation mounting, little Lily felt a fiery rush of pride in her veins. So, she called upon the only thing she knew: the air.
+
+She knew how to read the air and guess who was where without even looking, but she had never thought to actually use that skill for the cryptic box. Now that she did, though, she felt a small prickling in her hand as soon as she picked up another cube. Then, looking at the box, she saw that each hole held a different amount of energy. When she saw the red abomination pick up another cube and randomly chuck it in a hole, not hearing the note play this time, she frowned.
+
+She looked again at the cube in her own hand, and finally, something in her mind went off.
+
+* * *
+
+Adriana stared, flabbergasted, as she saw her daughter pick up the small cubes and throw them at the right hole in the box two times out of three. A small melody was playing in Lily's room as the little blonde, more focused than her mother had ever seen her before, kept successfully playing the game that had eluded her so far. Beside her, Aurelianus's daughter, Lavinia, smiled and giggled at that. Lily kept glancing at the other kid from time to time, making Adriana wonder if they had already bonded and become friends over this.
+
+"That's a pretty game," Aurelianus smiled, "but what exactly should we be looking at?"
+
+"I think our daughter just became friends," Adriana responded, omitting the real meaning of what had just happened.
+
+Lily felt energized every time she guessed it right. Some cubes, however, had very ambiguous energy and were much harder than the rest to place, meaning she had to use all her focus to avoid being ridiculed by the red thing beside her.
+
+When she reached for yet another cube and found the container empty, an evil smile tugged at her lips. She turned to face the red menace and giggled, extending a palm in front of the demon's face.
+
+Lily had won. She had shown her superiority.
+
+Now, the red monster should leave her realm—that was why she had a palm in her face. It was a gesture she had seen her mother use to drive the people in their house away.
+
+However, the red threat clearly misunderstood the meaning of that. In the next moments, Lily felt a sharp pain coming from her hand and screamed at full lungs.
+
+"Lavinia!" Aurelianus shouted. "Don't bite Lily!"

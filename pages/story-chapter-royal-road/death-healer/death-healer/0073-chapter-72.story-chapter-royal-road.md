@@ -1,0 +1,111 @@
+---
+id: b4801dc1-2f74-5a78-8508-47b2a8a10cd1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 72"
+slug: 0073-chapter-72
+partOf: death-healer
+position: 73
+ownLength: 1585
+unit: words
+publishedAt: 2025-09-26
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2631661/chapter-72"
+royalRoadId: "2631661"
+---
+
+“Now, six Skills and three blessings. You shall receive them and be blessed. Do you know what a blessing is?”
+
+Lily had heard about blessings during her tutoring, and she remembered how the instructors spoke about the System as if it kept tallies in hidden ledgers. Incredible feats warranted greater Skills, and she had apparently earned several. She had not earned as many Perks, and they were not nearly as impressive in any other Skill, yet the blessings, when she counted the extra ones, came to seven. The book hovered at eye level, and the vast library held its breath, and dust motes turned like slow sparks in a column of sourceless light.
+
+“Death Healer is made of Life and Death. You have unlocked this Class because three Skills in your Subclasses are pure. They are Life or Death. Not Light or Darkness. And one of your Skills in Death Healer has transcended the type and become Individuated.”
+
+“Huh?” Lily knew about blessings that made Skills more powerful, yet this was the first time she had heard the term “Individuated.”
+
+“When a Skill is born out of purity, and once again it is blessed, it transcends the borders and the boundaries between types. It becomes its own thing. It has no type and no Affinity. It just is, independent, and capable of changing the fate of the world.”
+
+“For your Life Subclass, [The Otherworldly Healer], you receive six Skills, three Major, blessed, and three Minor.”
+
+Lily listened and kept her shoulders square, for the room felt like a courtroom and the book judged without haste. She knew that Subclasses mostly offered passives and bonuses, and she wanted to hear what she would get.
+
+“As for the Minor Skills,” the book said, “you received interesting and unique ones. Your knowledge from Earth shows, Liliana Claudia.”
+
+“The first is [Medical Genius]. You demonstrated great aptitude for medicine in another world, and you possessed a wealth of knowledge that surpassed that of most of your colleagues. Your great knowledge warrants a strong, very strong, bonus when dealing with biological tissue.”
+
+[Medical Genius - You receive a major boost to any magic that operates on biological tissue.]
+
+“Is this going to work for both [Life Touch] and [Sky of Death]?” Lily asked.
+
+“Indeed, Liliana Claudia. Indeed. It will power them much more than you imagine. It is not an easy Skill to gain. And I am sure you will level it up easily enough.
+
+“For the second, now, you receive [Fighter-Healer Constitution]. This is because of all the damage you caused yourself and healed throughout the years. Congratulations. This is a very rare Skill. Showcase feats of medicine to level up this Skill.”
+
+[Fighter-Healer Constitution - Your body becomes more resilient to physical damage and Mana drain. Take more damage and heal it to level this Skill.]
+
+“It doesn’t sound that great, honestly.”
+
+“You will find out how much it impacts you once you wake up,” the book said. “Now, for the third and last Minor Skill. You have [Healer’s Blood]. This is… unusual. [Healers] have never lost the amount of blood you have, nor have they ever shown such craziness in battle. This is a very interesting Skill.”
+
+[Healer’s Blood - The more damage you take during a fight, the more powerful your healing Skills become. Take damage and heal it in order to level this Skill.]
+
+“Oh, interesting,” Lily said.
+
+As expected, most of these were constitution Skills or passives, and they formed a lattice under everything else. The pages turned without fingers, and runes rose from the paper like breath on a cold day before they sank back into the vellum.
+
+“Now, for the first of the three Major Skills, the ones that were blessed.”
+
+Lily held her breath.
+
+“The first is [Primordial Life]. Your Affinity for Life and Light Magic has revealed itself to be so powerful that you have unlocked an Affinity Passive. This will boost every single spell of yours that uses Life Magic or Light Magic.”
+
+[Primordial Life - Having touched upon the very core of Life Magic, you are blessed by the System with an incredible bonus upon every Skill that uses Life Magic. Deepen your bond with Life Magic in order to level up this Skill.]
+
+“That sounds pretty sweet,” Lily said.
+
+Few, if any, ever received such a flat boost to one broad type of spell, and she knew it. If she read it right, even Skills like Coniunctionis would benefit since it used Life Magic.
+
+As long as the Skill uses Life Magic, even if it’s mixed, it’s going to be massively powered up.
+
+“The second Major Skill for your Otherworldly Healer Subclass is [Vitality Injection]. This complements very well one of your current Skills, [Lux Vitae Overdrive].”
+
+As soon as Lily read the description, she understood what the book meant. The ink shifted and drew a clean diagram of a heart and a lattice of vessels, and the glow traced how Life would enter.
+
+[Vitality Injection - You can transform your Life Magic into pure, raw vitality and inject it into anyone’s body. This not only restores health but also stamina. Inject as much Vitality as you can into people, including yourself, in order to level up this Skill.]
+
+“And for the last Major Skill of your first Subclass,” the book said, “we have something very interesting. Even for the few times that this has happened, this is an anomaly. Skills cannot cross worlds. Your knowledge is what granted you unique Skills. However, the specific experiences you had in another world are not supposed to influence your available Skills. That is why your getting this Skill is highly unusual. I suppose it is part knowledge and part [The Seven Eyes of Twilight]. You receive an Auxiliary Skill to The Seven Eyes of Twilight. Its name is [Life Scan].”
+
+[Life Scan - You can see a person’s body from the inside out. You also perceive where Life accumulates and where it is lacking so that you might heal it… or not. Interact with biological tissue with your magic at maximum efficiency in order to level up this Skill.]
+
+“Oh,” Lily said, and she understood at once.
+
+Auxiliary Skills were beyond rare because you had to pick specific Skills to unlock them, and the prerequisites were extremely demanding. The fact that she managed to get such a Skill meant that she had reached a level in [The Seven Eyes of Twilight] that met the conditions, and she had the knowledge to back it up. If she had to guess, her work as a Pathologist and as a Radiologist in her past life had made the difference. Without either one, she might not have met the conditions.
+
+“Now, for your other Subclass, the Dealer of Death, you have three Minor Skills and three Major Skills as well. I must say, they are slightly less impressive. Let us go quickly so we can reach your Class.”
+
+The book turned to a new page and the letters set like iron.
+
+The minor Skills were the following.
+
+[Touched by Death - You have experienced Death in person. This gives a significant boost to all your Death-Magic Skills. Further your experience of Death and Death Magic in order to level up this Skill.]
+
+[Death by Fist - You have demonstrated unorthodox usage of Death Magic in combat. Every fighting Skill that uses Death Magic receives a significant boost. Utilize Death Magic during your fights in order to level up this Skill.]
+
+[The Undead Whisperer - You have dealt with enough Undead to understand their physiology. You are able to learn Necromancy spells faster. Learn Necromancy and utilize it in order to level up this Skill.]
+
+Then it showed the major Skills.
+
+[The Reaper - Every time you kill a biological creature with Death Magic, you harvest part of its vitality or death energy. This restores part of your vitality or Mana based on the creature killed. Kill biological creatures with Death Magic in order to level up this Skill.]
+
+[Primordial Death - Having touched upon the very core of Death Magic, you are blessed by the System with an incredible bonus upon every Skill that uses Death Magic. Deepen your bond with Death Magic in order to level up this Skill.]
+
+“Sorry, what’s the difference between Touched by Death and Primordial Death here?” Lily asked the book.
+
+“Touched by Death is asking you about experiences, Liliana Claudia. It is telling you that experiencing Death will level up the Skill. Primordial Death is about knowledge more than experience. Experience can inform your knowledge, but knowledge will not change your experience. There is a slight overlap in one way, but less than you might think.”
+
+Lily shrugged and read the description of the last Skill. The shelves seemed to lean closer and the quiet pressed in, and the glow along the page drew neat lines through bone and marrow.
+
+“This sounds redundant,” Lily said with a frown.
+
+[Death Scan - You can see a person’s body from the inside out. You also perceive where Death accumulates and where it is lacking so that you might extirpate it… or not. Interact with biological tissue with your magic at maximum efficiency in order to level up this Skill.]
+
+“Redundant?” the book said, and she could hear the sneer. “This is the perfect complementary Skill. People pray to acquire skills that are complementary, Liliana Claudia. Now you are about to see your Class’s Skills. Are you ready?”
+
+Lily nodded.

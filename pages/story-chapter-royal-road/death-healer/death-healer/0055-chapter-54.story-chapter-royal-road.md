@@ -1,0 +1,193 @@
+---
+id: 25d19807-610e-5f91-ba17-693d4cc6c49b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 54"
+slug: 0055-chapter-54
+partOf: death-healer
+position: 55
+ownLength: 2443
+unit: words
+publishedAt: 2025-08-03
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2489527/chapter-54"
+royalRoadId: "2489527"
+---
+
+Lily dismounted and followed Caesar toward the wall. The structure rose above her, blackened stone stacked in sheer, brutal slabs. The top battlements cut the mist, and for a moment, Lily just stared up, craning her neck, trying to estimate the height. Forty-five meters or so, maybe more.
+
+She started climbing the steps, one hand gripping the uneven railing.
+
+How am I supposed to fight monsters on the other side of this wall? The thought crept on her. I never even faced an Undead.
+
+Even though she had tried her best not to give her emotions away, Caesar’s speech had actually left a mark on her.
+
+People? She had faced people, she knew people. The memories from another life she had allowed her to fight better than anyone she knew, at least when it came to melee. She had uncanny reflexes and her medical knowledge put her above everybody else.
+
+But, when it came to Undead, one mistake was all it took. If an Undead scratched at her neck, that was it. She couldn’t just cut off her entire neck.
+
+Maybe I could do an incision?
+
+She started running the possibilities in her head, trying to picture how fast she’d have to act not to turn.
+
+Caesar… Uncle Caesar is not going to coddle me, is he? He was ready to kill me and Sabinus before seeing my [Life Flow]. He might let me die if he thinks I’m a good-for-nothing idiot.
+
+It seemed like Lily’s survival from now on would rely on whether he could prove to be someone Caesar could stand behind.
+
+She wasn’t stupid. She understood that Caesar—despite his dooming words—cared.
+
+Also, aren’t there supposed to be guards here? Why are we not sneaking up on the wall? What is he doing?
+
+She reached the top and pushed out onto the wall walk. The wind was colder up here, tugging at her hair and the edges of her cloak. She glanced down and felt the world tilt—she could see for miles across the dead fields outside the wall and, behind her, the muddy sprawl of Caesar’s encampment.
+
+About a dozen men stood along the battlements, armor marked with old scratches and burnished to a dull shine. Their eyes flicked over Lily, then returned to the killing fields beyond. She realized, as she reached out with Mana Sense, that their auras weren’t like the bandits she had seen in the camp. These men glimmered in her senses with power.
+
+They’re nothing like Sabinus. He looks like a child’s drawing compared to their auras. These men are warriors. They’re killers.
+
+She swallowed, trying to steady herself. If Sabinus is level sixty, these men must be in the mid-100s. Maybe more. Caesar’s keeping his real fighters here, or maybe he moves them around.
+
+They moved toward a watchtower that jutted from the wall’s midpoint. Caesar opened the thick wooden door and strode in without ceremony. Lily followed, her footsteps echoing on stone.
+
+Inside, the air was cool and dry, the walls lined with weapon racks and old shields. Three men waited near a table. Their armor gleamed, perfectly maintained, not a spot of rust or grime. Each carried a longsword and a sidearm. Lily’s Mana Sense almost flinched from their presence. Their auras pressed against her skin, vast and disciplined, like Caesar’s—maybe not quite as deep, but close.
+
+They’re over two hundred, aren’t they? They’re almost like Uncle Caesar. They have Father’s same aura.
+
+The men straightened when Caesar entered, fists against their hearts. “Captain.”
+
+“We received your instructions, sir,” said the oldest, his voice clipped and military.
+
+“Thank you,” Caesar replied. His tone was softer than Lily expected. He nodded once. “You’re dismissed for now. Leave us the room.”
+
+The men snapped to attention, then filed out, boots quiet on the stone. As they left, Lily’s eyes caught movement near the side wall. Three other men—bound, gagged, and blindfolded—lay propped against the stone, their hands and feet tied, clothes torn and dirty.
+
+Lily felt her gut tighten as she stared.
+
+Prisoners? Who are they? Why bring me here to see this?
+
+“Soldiers of the Gens Aemilia,” Caesar said, guessing what Lily was thinking. “This is a rather safe outpost, so they were slacking. They brought prostitutes in here and even abducted a few villagewomen. Good people, huh?”
+
+There was the kind of spite in his words she had yet to hear from Caesar’s.
+
+“Your friend, the brat from the Gens Cornelia, he’s innocent in some ways. He has not committed crimes yet. These men?”
+
+Caesar went over them, towering over their bodies, and sighed.
+
+“They often abandon their posts. A small incursion of Undead, stuff you could haev dealt with, passed through here. They took two days to climb from side to side. Two days they left their post. They walked fifty kilometers, met a village, and caused a slaughter.”
+
+“You’ve never seen an Undead, have you?” Caesar asked, looking at Lily.
+
+She shook her head.
+
+“Lucianus was always too soft,” Caesar smiled. “I’m surprised your mother didn’t instruct you in that sense. But I guess Adriana never was for long at the front.”
+
+Caesar scratched his messy beard and pondered for a moment.
+
+“Kids? Undead kids? You have no idea what they’re like. You can still see the innocence in their eyes. And these men? They wanted a quick fuck. They thought, why not leave the post.”
+
+Lily started catching on what Caesar brought her here for.
+
+“You’ve killed some of my men. The undisciplined ones. The ones that have yet to learn their manners. We are more like outlaws than bandits. I don’t condone robbing innocents. We only rob the military.”
+
+“The military?” Lily’s eyes went wide.
+
+“Lots of men pledge their loyalty to their commander, to the ones who snatch them from the maws of the Undead, not to a noble house. And I kept recruiting for a long while, now,” Caesar smirked, turning toward Lily. “I’m glad you’re a fellow outlaw, Liliana Claudia, niece. I don’t get to talk much about this.”
+
+“What are you planning to do?” Lily frowned.
+
+“I plan to save as many as I can. I’m not sure it’s going to happen in this generation, but the Undead are going to win. I want to bring the men away. I keep monitoring the Dead Lands—that’s what I’ve always done. I kill some bastards, recruit the bastards who are sick of the senseless slaughter of our people.”
+
+“Are you killing them?” Lily asked.
+
+The question made the men start and wriggle on the ground, with muffled groans coming from the gags.
+
+Caesar walked over to the prisoners, his boots scraping on the stone. He squatted in front of them, the light from the slit windows painting sharp lines across his scarred face. He didn’t look at Lily, but his voice stayed steady, every word aimed at her.
+
+“These men abandoned their post. They let Undead through, and that cost the lives of a village—men, women, children. I tracked what happened. I always do. I have men for that, and sometimes I do it myself, because I know what gets covered up, and what doesn’t. Nobody in Alba will punish them. Their commanders will hand out some lashings, then send them somewhere quiet, and they’ll be back on a wall by summer. You think I’m being cruel, Lily?”
+
+Lily didn’t answer right away. Her jaw clenched, and she made herself stare at the three men, the way their bodies twitched when they realized they weren’t alone.
+
+What am I supposed to say? That I agree? That I care? That I’d do better? I don’t even know what better is.
+
+She forced herself to meet Caesar’s gaze when he finally turned to her.
+
+“What do you do with them?”
+
+“You tell me. This is your first lesson. You want to be a Champion? Then, let’s rehash yesterday’s choice. You had a reason not to kill your friend. I respect some of it. It’s foolish, but I get it. These? Rapists, murderers.”
+
+“I’ve already killed men, you said it.”
+
+“In battle,” Caesar nodded. “This? This is an execution. Can you kill in cold blood?”
+
+The man removed the blindfold of one of them, who looked terrified.
+
+“Can you kill a rapist who wouldn’t even look at you like a human, who would do anything to you if the occasion came, while you look them in the eyes? Can you plunge a dagger in their neck and go beyond the fear, beyond the guilt? Do you understand the difference between those who might be worth saving and those who are past that?”
+
+Caesar nodded at Lily’s dagger, and she unconsciously unsheathed it.
+
+Caesar stood and crossed to the window, arms folded.
+
+“You’re not a Champion until you decide what you’ll do when nobody’s watching. That’s why we’re up here. Not for a lesson in fighting. For this.”
+
+Lily swallowed.
+
+“But the choice is yours. Don’t kill them if you don’t want to. We can let them free. Maybe they have families, children, people who love them. Maybe, they’re good but they just slipped.”
+
+“Why would you say that?” Lily frowned. “Are you trying to tell me I shouldn’t kill them?”
+
+“Things are never easy or clear. Not one person is always bad. But every one of us has to be held accountable. Them? What do you want to do with them? Do you believe they deserve redemption? Do you believe they don’t? How are you going to act? Are you scared of slitting a man’s throat while he’s not fighting back? Does it make you feel bad? You’re so very young, but what happens when you’re fighting someone who has kids, who has family, whom you might have loved? Are you going to show them mercy? What if that mercy kills you?”
+
+Caesar inhaled.
+
+“I’ve played this game with my little brother, Tiberius, with my cousin, the Pope. I wanted to do it with your father, but I saw him execute deserters without blinking, so I never had to. I’m just curious to see what you’ll do. Tiberius kills with pleasure—Ennius ordered an underling to do it for him. Your father is very cold and detached, a bit angry, too. You? Who are you?”
+
+Lily walked over the three men and refused to look at Caesar.
+
+She had a disgusted expression on her face, with them, with him, with herself.
+
+But she bent over, held her breath, used [Mana Sense] to locate the jugular, and cut it for the first man. His eyes went wide, but Lily went to the next two. She narrowed her eyes, she made faces, but she took off their blindfold and stabbed both of them in the jugular in quick succession.
+
+Then, she turned to the side and emptied what little was in her stomach on the stone floor of the watchtower. She retched a few times and held herself up on her knees, spitting phlegm and vomit.
+
+“Anyone else to kill?” She asked in a raspy voice, not being able to avoid retching again.
+
+Caesar didn’t laugh as Lily dry heaved several times. He looked at her with a frown, then shook his head.
+
+He spoke in a composed, martial tone.
+
+“You probably made the right choice.”
+
+“Probably?”
+
+“No one has the right answers. Compassion can kill you, but killing in cold blood and enjoying it? I should’ve killed Tiberius when he was a teenager. I could always tell there was something wrong with him. One small accident, that’s all it would have taken. But I didn’t have the stomach for it. You don’t appear to have the stomach of your father, or mine. But you still did what had to be done. I’ve always found that women have a special kind of courage, a certain attitude—you might have inherited from your grandmother. What a woman…”
+
+Caesar looked at a bronze shield on the wall of the watchtower that reflected his haggard looks and frowned.
+
+“Give me an hour and we’ll depart. We’ll start your fighting training immediately. Cassius often fights at the front. But he only went out once before his Class day. You? I plan on keeping you here for the better part of a year, niece. You want to become a real Champion? I’ll turn you into the monster your father clearly didn’t have the guts to.”
+
+* * *
+
+When Caesar finally stepped out of the watchtower, Lily almost didn’t recognize him. Gone was the wild, ragged beard that had swallowed his jaw and cheeks in a tangle of grey. In its place, he had exposed strong, harsh features—the kind that belonged on a monument, not behind a mask of bristle and grime.
+
+His chin was square, the cheekbones cut high and clean, the nose straight, and there was an old scar that ran through the corner of his mouth and twisted it into a permanent half-scowl. His hair, cropped and brushed back, gleamed with the same strange, silvery-white hue that Cassius’s hair carried—though Cassius’s was youthful, almost luminous, while Caesar’s seemed bleached by battles
+
+His eyes—now that the hair no longer shadowed them—burned the same blue as Cassius’s. It was unmistakable. For the first time, Lily saw the family resemblance.
+
+There was no softness left in his expression, but there was a battered dignity, a nobility carved by pain and disappointment instead of glory.
+
+He caught her staring and gave a short, humorless shrug. “What?” he said, his voice still gravel but a touch lighter. “Didn’t expect me to clean up?”
+
+“You look… different,” Lily said, unable to hide her surprise.
+
+“Sometimes it pays to look the part,” Caesar said, pulling on battered armor with deliberate movements. “Your father always used to tell me I’d scare recruits half to death just by looking at them. It helped, at the time.” He cinched the last strap and glanced down at her with a tired half-smile.
+
+She didn’t answer, but she kept looking. For the first time since entering the camp, she found herself wondering what Caesar must have looked like before all the scars, before the world had burned him down to this hard, silver core.
+
+He caught her searching gaze and met it head-on, blue eyes unwavering.
+
+“We’ve got the same eyes,” Caesar winked at her, the first display of light-heartedness by the man.
+
+He reached for a battered shield and slung it over his arm.
+
+“Ready, niece?”
+
+Lily straightened her shoulders, chest still tight from what she’d just done in the watchtower, but she didn’t look away. She forced herself to nod.
+
+“Then, let’s get you dressed up for the show. You can’t fight Undead like that.”

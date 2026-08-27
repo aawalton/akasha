@@ -1,0 +1,123 @@
+---
+id: 2508720a-362f-5c3f-aeac-4f54b487197b
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 12"
+slug: 0311-b5-chapter-12
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 311
+ownLength: 1411
+unit: words
+ownProgress: 1411
+publishedAt: 2025-10-23
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2699256/b5-chapter-12"
+royalRoadId: "2699256"
+markedReadAt: "2026-06-29T19:16:23.749Z"
+---
+
+Aria’s Office after her Departure
+
+Isabella isn’t sure what’s happening anymore.
+
+After she finally bit down on her own pride and resolved herself to lose half of her mana by asking the Horseman of Death for aide, she arrived just to find one of her arch-enemies arriving mere seconds later. And to top that off, Famine and numerous other Grands and powerful individuals began arriving one after another after him.
+
+So now she’s just standing stiffly in place while warily watching everyone around her. Meanwhile the entire reason she came here clearly got fed up with all of the unexpected guests she was receiving and left for the Plane of Death.
+
+“It looks like the little girl finally broke and is resorting to asking the little lady for help,” Famine says with an amused smirk on his face. “The absolute nerves you must have on you to do that after everything you’ve done, brat.”
+
+Isabella feels surprised as she looks at Famine. Because the Horseman actually looks angry.
+
+And he normally never looks angry.
+
+Even as he chases her around everywhere toying with her, he never looks angry.
+
+But her decision to run to the Horseman of Death for help has clearly angered him.
+
+And he’s not the only one in the room that she seems to have angered either, as the forces from the Crimson Empire look livid at her actions, meanwhile the Silver Emperor simply looks livid at their bringing their conflict to his capital world. Which is where Death was at when they all showed up.
+
+Isabella tries to look around at the other people in the room, but no one here shows her even a hint of support.
+
+The Pharaoh of the Rex Dynasty just looks bored and like he’s guarding the rift to the Plane of Death despite Death being the only one who can pass through it. And War looks like he’s jumping at the bat to duel Isabella, which sends shivers down her spine.
+
+Isabella even thinks she saw the Demon King pop in a couple times, only for his clones to be blasted to smithereens in an instant each time. Without a single person so much as glancing in his direction.
+
+So by now Isabella just finds herself wondering what he hell is going on.
+
+Because she came here to ask for help. Not to end up facing half a dozen Grands including her biggest enemies.
+
+What’s even worse is that when she tries to make a portal, she finds it blocked by both War and Famine. After which the two begin to step towards her while radiating out their own energies.
+
+Until both the Pharaoh and the Silver Emperor step in and create a portal of their own at the center of the office.
+
+“I will not allow you to fight on my capital planet,” the Silver Emperor declares with a glare on his face. “Leave before I ban all three of you from ever doing business with my dynasty again.”
+
+Before Isabella can even say or do anything though, the Pharaoh of the Rex Dynasty suddenly waves his hand, making a powerful wave of death energy move through the room. One that surprises Isabella, whose defenses were set up to block against the Horsemen and not the other Grands, so badly that she is swept up by the wave and knocked into the portal.
+
+Then she sees the Horseman of War and the Horseman of Famine stepping through the portal after her as the pharaoh states, “Do not cause trouble for Lady Death. She does not have time to deal with your squabbles.”
+
+And without another word, the portal disappears, leaving her alone on a random planet with two Horsemen in front of her.
+
+Aria
+
+I go ahead and study death magic for a bit inside of the Plane of Death before finally leaving through the rift and reentering my office several hours later. At which point I find the place empty. Which is very nice to see.
+
+And even more importantly, there’s no War in sight. Probably because Lucius must be chasing after Isabella for that duel right about now.
+
+Assuming she’s even still alive, considering how many Grands were here.
+
+Actually, I go ahead and check the security camera’s footage of my office just to see what happened. At which point I realize everyone just kind of tossed Isabella out without much of a greeting.
+
+Just casually tossed her through a portal, with the two Horsemen following after her.
+
+I almost pity her.
+
+Almost.
+
+Well, anyways, I still have to go do the main reason why I left the Plane of Death anyways. So I turn around and open the secret entrance on the window before casually stepping off the edge to fall down to the ground. But unlike when I first would do this, I don’t turn into a paste on the ground. Instead my legs just break before repairing themselves immediately.
+
+Then I begin to walk with my hands in my jacket pockets through the streets while ignoring the looks people are sending me.
+
+Both due to what I just did and the fact that I can see my face on some of those electronic billboards on the skyrises I’m passing by. Probably because I gave Little Blue permission to let people take pictures of me to advertise their brands.
+
+I don’t really remember it all that well though. Mostly because I kind of slept through it.
+
+Hence why most of the pictures on the electronic billboards are all with my eyes closed and lying down.
+
+Which I find odd for advertisements, but apparently the mere fact that it has my face on it is enough for people to buy it for some reason.
+
+Little Blue says it’s largely due to those singing videos I posted a while back. Something I haven’t done in a while actually.
+
+Kind of amusing, but at the end of the day I don’t really care.
+
+So I continue walking through the streets while ignoring the stares until I arrive at the building I’m heading towards. Then I go inside and am immediately escorted to the elevator. In which I wait until we arrive at the top floor of the high-rise and am escorted over to a meeting room.
+
+“-and with the help of our insiders, you will be able to enter their base without any trouble,” I hear Ruby finish some presentation as the door to the meeting room opens, making everyone turn to look at me.
+
+I ignore their shocked stares as I walk over and give Ruby a hug, which immediately melts the cold look off her face.
+
+Although whether it’s because she’s hugging me or because she’s absorbing my death energy, I have no clue. But I’d like to think it’s the former rather than the latter.
+
+“It’s great to see you again Mother!” Ruby exclaims as we separate, albeit with her keeping her arm linked with mine. No doubt to continue absorbing my death energy. “How long are you going to stay this time?”
+
+I can’t help but glance at the people in the room she was just giving the presentation to as she clearly ignores their existence. But then I just decide that they’re probably not important at all, so I ignore them to answer, “Probably a few days. I have to make sure the café runs with my new improvements after all.”
+
+Ruby immediately looks displeased with that answer.
+
+“What if I joined you on your next trip?” Ruby suddenly asks, brightening up in the process.
+
+But I just shake my head and nod at the people she was talking to as I fire back, “Don’t you have business to handle here? You can join me the next time after this trip.”
+
+And hopefully forget I just said that.
+
+Because I know she’ll end up bringing paperwork along with her if she does come. And paperwork is the devil. Far worse than the actual Demon King.
+
+Who I’m kind of surprised I haven’t seen since he was blasted multiple times during that odd Grand get-together earlier. But whatever.
+
+Good riddance if he’s gone for good.
+
+Out of the corner of my eye I notice Ruby suddenly grinning almost like she just got what she wanted. But the grin vanishes so quickly I begin to wonder if I imagined it.
+
+Something tells me I didn’t though.
+
+And I don’t like that thought.
+
+I should leave soon.

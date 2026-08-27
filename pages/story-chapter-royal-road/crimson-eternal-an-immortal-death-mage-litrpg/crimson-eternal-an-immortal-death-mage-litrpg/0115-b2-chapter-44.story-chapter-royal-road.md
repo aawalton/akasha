@@ -1,0 +1,147 @@
+---
+id: bfe05aaa-99b2-5602-9306-05a7c51ba521
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 44"
+slug: 0115-b2-chapter-44
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 115
+ownLength: 1495
+unit: words
+ownProgress: 1495
+publishedAt: 2024-02-29
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1536752/b2-chapter-44"
+royalRoadId: "1536752"
+markedReadAt: "2026-06-29T19:09:51.975Z"
+---
+
+Aria
+
+So, as it turns out, the ‘private place’ he decided to take us turns out to be his café.
+
+“So, you want anything?” he asks while stepping around the counter and putting an apron on that has his bodyguards stiffening up, making me pity them.
+
+The person who was working here just kind of glances between all of us before bowing and leaving the room towards the back, clearly trying to avoid interrupting us. And the café itself is set up in an L shape with a bar at the center, windows on the exterior of the L, and the entrance at the corner of it.
+
+I ignore the guards who are standing on different ends of the room as I step up to the counter and sit down at the booth, answering, “What sorts of wine do you have?”
+
+He grins at that and answers, “What don’t we have?”
+
+That has me raising a brow before I decide to go ahead and ask, “Let’s start with something I haven’t had before. If you can find something like that within two attempts, I’ll even set aside some time to play arcade games with you afterwards.”
+
+Once again, the bodyguards stiffen up. And they full-on twitch when the prince retorts, “Oh, you’re on!”
+
+And immediately sets out to grab a bunch of bottle as Shirogane sits down next to me on the counter, having pretty much been ignored that whole time.
+
+“So what’ve you been up to on Luk’tar since I left?” Azura asks as he goes about grabbing multiple drinks and pouring them out. “Also, I’ll give you a new one you haven’t had yet before mixing a cocktail for you. That fine?”
+
+“Yeah,” I answer before answering his first question, “And I basically spent the entire time just hunting.”
+
+“And cutting down trees,” Shirogane mutters, making me send a glare his way that has him raising his hands.
+
+Azura lets out a wry smile as he pushes a drink towards me and Shirogane each and says, “Well, there aren’t exactly many trees on this planet. You can try cutting down the flora on the bottom of the sea, but I doubt it’ll-”
+
+“Azura,” I state, my eyes narrowing slightly.
+
+“Yes, little Riri?” he asks, sounding innocent.
+
+Too innocent.
+
+“Shut up,” I tell him before grabbing the drink and downing it. “Shit.”
+
+He bursts out into laughter.
+
+“That, my pale friend, is an Atlantean blend known as Aqua Nectar,” he says after he finishes his laughing fit.
+
+Damnit, I should’ve thought about there being local blends…
+
+Well, whatever. I was probably gonna end up playing some arcade games with him one way or another.
+
+“Want me to mix it?” he asks while leaning over the counter with his arms, the guards at the opposite ends of the room still having a silent fit with all their twitching. “It’ll taste a lot better that way. I guarantee it.”
+
+“Sure,” I tell him while pushing the actually pretty good stuff over towards him again. “Also, you have any carbonated drinks?”
+
+“Comin’ right up, little lady!” he says in a jovial tone of voice while beginning to prepare the drink.
+
+I watch him for a bit before looking out the window on the left side of the entrance at the street, and the dome above the street.
+
+“How strong is the dome surrounding the city anyways? Since it’s made of glass,” I ask out of curiosity.
+
+“That’s hardened glass made when lava from volcanoes mixes with the sand at the ocean floor in the Grand Ocean,” he answers without pausing in fixing the cocktail. “Makes glass that’s harder than steel and perfectly made to endure the pressure of the water this deep under the surface. Especially since it’s mixed with mana.”
+
+Right. Anything in a Hunter’s Spot is far superior than anything outside of one in terms of, well, anything. Living beings or otherwise.
+
+While Azura is fixing the cocktail though, the door to the café opens, bringing everyone’s attention towards it. But to my surprise, instead of finding another customer entering, I actually see a little girl wearing fancy clothes walking in with a smile on her face.
+
+The girl has the same aqua blue hair as Azura, with the same blue eyes, and judging by the bodyguards walking in behind her that quickly move to join the other guards in the room, she is most likely royalty as well.
+
+Also, her eyes lock onto me the moment she enters before she glances back at the door, waits for it to fully close, and then charges towards me with a quiet squeal, “It’s yoouuu!!!! Riri!”
+
+Uh… huh?
+
+The child tackles my legs in a hug, to the twitching irritation of her guards. Which makes me realize that Azura’s behavior may not just be specific to him.
+
+On that note though, I ask the child, “Hello, little Blue. How do you know me?”
+
+She raises her head up to look at me before pointing at Azura, the girl just barely standing taller than the counter. Then she says, “Azu told me! You’re the Horseman of the Apocalypse who’s terrible at arcade games!”
+
+I stare at her for a second before turning a look towards ‘Azu’.
+
+“Please don’t give me a death glare like that,” ‘Azu’ says while seemingly trying hard to ignore me and focus on the cocktail that he’s just now finishing up. “Even with your low level, it’s rather frightening.”
+
+Eventually I leave it at a simple, “We’ll see who’s ‘terrible at arcade games’ later.”
+
+Then I turn towards the child who is looking up at me with pure eyes.
+
+Waaaaay too pure eyes.
+
+I don’t do well with kids. I really don’t.
+
+Then again, might as well give it a try.
+
+“And what’s your name?” I ask her while she continues to hug my legs.
+
+And immediately after I ask that, she seems to remember something and steps back, letting go of my hands. Then she gives me a formal bow by moving her arm across her chest, resting her hand on her opposite shoulder as she bows her head, stating, “Greeting, Lady Death, my name is Nerissa Atlantus Azurion. The ninth in line for the throne and Fifth Princess.”
+
+Guess a princess will be a princess.
+
+I glance to the side as Azura places my cocktail in front of me along with a red drink that’s fizzing before moving back and grabbing something to give Shirogane while saying, “Little Neri often asks me about my travels and seems to have taken a shine to you, so please treat her well.” After getting Shirogane his drink, he turns back to me while leaning over the counter. “She’s my youngest sibling and only eight years old as of two months ago. And she’s been looking forward to your visit probably even more than I have.”
+
+That… confuses me.
+
+“Just what did you tell her to make her so interested in me?” I can’t help but ask.
+
+And it’s not Azura who answers this time.
+
+“He told me about how you blew up the weapons production facility on Luk’tar!!! And how you blew up their fortresses with yourself along with them! How you’re eccentric and don’t bother to walk out of the Grand Trees the normal way and instead-HMMHMMHMMMM” the princess starts gushing until the prince in question rushes to cover her mouth.
+
+I stare at Azura.
+
+Shirogane stares at Azura.
+
+I’m pretty sure even the guards stare at Azura.
+
+The man in question shamelessly kneels next to his sister and whispers not-so-quietly into her ear, “I thought we agreed you wouldn’t share that with anyone?”
+
+“Oh, right,” she says while clapping her fist into her palm as if having some grand memory coming back to her. Which I’ll admit is adorable. “Sorry Azu. I’ll keep it in mind next time.”
+
+My eye twitches at that last part.
+
+“There better not be a next time,” I mutter while glaring at a certain prince, who merely looks to the side and coughs awkwardly.
+
+I continue glaring at him even as I grab my cocktail and take a sip. Although the sheer tastiness of the drink almost makes me stop. But I manage to continue.
+
+He really can prepare a mean cocktail. Even if the alcohol doesn’t do shit to me.
+
+Now if only he didn’t go around telling his sister about explosions and stuff like that.
+
+He’s gonna make her weirdly obsessed with explosions when she grows up if he keeps it up.
+
+“Riri?” the child says while raising her arms towards me. “Up!”
+
+I frown before glancing at Azura, who just mouths ‘pick her up’. So I turn back to her with a mental shrug and pick the girl up before putting her on my lap.
+
+Then she goes and steals my carbonated drink, drinking it for herself.
+
+I frown at her, only to glare at Azura.
+
+“You can’t possibly blame that on me!” he exclaims.

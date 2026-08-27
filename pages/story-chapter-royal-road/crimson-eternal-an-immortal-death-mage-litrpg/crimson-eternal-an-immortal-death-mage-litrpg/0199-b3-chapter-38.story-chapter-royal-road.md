@@ -1,0 +1,137 @@
+---
+id: 06a66a7e-a27f-571e-b25f-14ac55636c28
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 38"
+slug: 0199-b3-chapter-38
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 199
+ownLength: 1518
+unit: words
+ownProgress: 1518
+publishedAt: 2024-09-01
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1783734/b3-chapter-38"
+royalRoadId: "1783734"
+markedReadAt: "2026-06-29T19:12:29.447Z"
+---
+
+Aria
+
+“Shirogane, you have this exact same look on your face every time I visit,” I state rather bluntly while crossing my arms and frowning at the man currently slumped over the bed in the middle of his room at this hotel. One of the more popular – and more importantly more expensive – hotels in the capital.
+
+He just groans into the sheets of his bed. Not even dignifying me with a response.
+
+Even as Asher jumps onto the bed and climbs onto his back, then his head. Or as Asher stands there acting triumphant. As if the little kitten – who is still a kitten after decades with him – had taken down the big bad merchant.
+
+I lightly shake my head before walking through the rather luxurious hotel room – a room he actually had a hand in designing himself – and sitting on a chair next to the bed.
+
+Unlike me, who has been grinding away in Spires all these years while earning myself a rather large fortune from magical ore, Shirogane has spent his time making connections. Earning money. Even creating some of his own companies here, granting some very low level magical ore to the Eternal Dynasty in the process.
+
+But he hasn’t even so much as met with the emperor without me being present. The man is just too stubborn in his hatred of Shirogane’s father.
+
+At this point I’m convinced the only way to get the emperor to even meet with Shirogane without my prompting it is if Shirogane managed to do some sort of great deed for the empire during his time here. But it’s already been…
+
+I furrow my brows before glancing down at my watch, where the current year of the solar calendar is stated.
+
+…it’s already been over fifteen years since we first arrived here, and nothing has happened. Nothing important, at least.
+
+There have been some terrorist attacks, but those were dealt with swiftly. One noble rebelling against the control of the empire. Something about a knight from one of the Orders of Knights – the Grand Silvanian Empire’s form of military – reaching the status of Eight Tier Mage. And that’s really it.
+
+Other than the word and excitement I’ve been hearing all over about the upcoming celebration. One happening in like five or so years on the nation’s half a millionth anniversary. A rather large milestone for a nation.
+
+The Grand Silvanian Empire has been going strong for longer than Vortel has been out of the stone age.
+
+Rather sad to think about.
+
+Anyways, Shirogane doesn’t say anything to me even after I sit down. So I just let out a sigh and rest my elbow on my knee while placing my chin in the palm of my hand, staring at the guy as I ask, “Has your father said anything?”
+
+The poor guy just shakes his head without a word, knocking a certain cat off his head in the process. Until said cat climbs right back up and returns to his triumphant pose.
+
+Ignoring Asher’s antics, it’s rather sad, to be honest. Considering the amount of work and success Shirogane’s gotten from this place.
+
+He’s gotten so many benefits for himself and the Eternal Dynasty from working here that he’s become rather well-known across Silverfall and even more well-known in the Eternal Dynasty. As the first Star Merchant to get access to the Starless Planet. A nickname the Eternal Dynasty gave Silverfall due to their ban of Eternal Dynasty residents.
+
+A sort of play-on-words due to how the Eternal Dynasty names their ‘officials’ Star Merchants.
+
+I sit here for a bit before sighing and getting up. Then I move over to the other side of the bed and flop down myself with a few feet between me and Shirogane.
+
+Kind of wish I could be of more help to him, but I don’t see what I can do.
+
+It’s a little sad.
+
+I feel movement from the bed, making me tilt my head upwards, only to find Shirogane glancing at me with a very slight blush to his face. Then I just drop my face into the bed again, having gotten used to that over the years.
+
+Almost feel bad for him, but we’ve already discussed it about a decade ago. He knows I have no interest in romance, even if he’s got feelings for me for whatever reason.
+
+He’s apparently going to be leaving me soon enough anyways. After we finish this job, or after he finishes it, he’ll be returning to the Dynasty.
+
+Whether as an Eight Star Merchant who has failed his trial, or as the Crown Prince of the Eternal Dynasty and a Nine Star Merchant.
+
+So he has no intentions of asking me out or anything like that.
+
+Doesn’t change the fact that he feels how he feels.
+
+I push myself up off the bed, deciding to back away a little bit.
+
+Honestly, I don’t know how it feels to be attracted to another person’s body. I just don’t think my body is even capable of that sort of thing. One of the differences in my body from other people. A lack of any reproductive instincts. Possibly a lack of reproductive capabilities entirely.
+
+Would make sense with the whole Death thing.
+
+I don’t really care about any of that though, but I’d rather not make Shirogane uncomfortable. He’s a friend after all.
+
+“Has the Leader of the Council visited you in the last couple weeks?” Shirogane asks while turning his emotions off. Something he does often after an interaction like that.
+
+I shake my head and answer, “Nope. Haven’t seen the stalker for nearly a month.”
+
+Still not sure why that stalker keeps popping up every now and then to follow me around.
+
+Any defenses around the world or me that the emperor and those guards have tried setting up over the years fail miserably as he slips right past them. So I’ve largely given up trying to stop him.
+
+“Anyways, I’ll be heading out,” I tell him while walking away, briefly waving my hand at him over my shoulder as I do so. “Heard one of my favorite authors just released a new book.”
+
+Shirogane mutters a goodbye before I hear him once again flopping on the bed. With Asher walking proudly next to me as if he’s the most important being in this room.
+
+I reach down to Asher and pick him up in my arms as I walk. But before I get out of the hotel, I briefly pause mid-step. Only to continue walking again.
+
+“What is it this time stalker?” I ask quietly with a frown while the shadows in the common room at the front of the hotel flicker a little.
+
+Several seconds pass before I hear the stalker’s familiar voice whisper in my ear, “Leave Silverfall within five years.”
+
+That has me stopping and turning around. But, as expected, no one is there.
+
+The shadows are still flickering though, meaning he’s still here. So I immediately ask, “Why?”
+
+In a whisper, of course. Since I don’t like giving others the impression I’m talking to myself.
+
+Silence befalls the common room again, with the only noise being that of the chatting people nearby at the reception desk. Then the whisper returns, “For my sister’s sake, leave.”
+
+And just as quickly as he arrived, the shadows stop flickering. Implying the man is no longer nearby.
+
+But the words he left me with… I’d heard the Council of Darkness was currently making themselves known in Silverfall, but what’s happening in five years? Are they making some sort of big move then? And if so, why would he tell me?
+
+Should I warn the emperor?
+
+I probably should. The stalker no doubt knows I probably will.
+
+The emperor has been too nice for me to just ignore something like this after all. It’d make me feel bad.
+
+Then maybe he’s trying to fake him out by telling me this? Implying something will happen in five years when it’ll really happen sooner?
+
+Either way, the emperor should know about this.
+
+I am rather curious about what he meant by that sister part. Honestly didn’t know that the Council Leader of the Council of Darkness even had a sister.
+
+Actually, I doubt most people are aware of it. Considering how there isn’t any word of it on the Universal Feed.
+
+Of him having any siblings.
+
+Then again, there isn’t much word on the man himself at all. Just his name. Not even his full appearance. Just the shadow-covered silhouette he usually hides himself within.
+
+The only detail people know about him is his body build and eye color. And even those could theoretically be fake too.
+
+I frown before shaking my head and continuing out of the building. Then I proceed into the carriage, telling the driver where to head in the process.
+
+Alright. Time to tell the emperor, followed by reading my book.
+
+A faint smile emerges on my face at the thought of reading that book.
+
+Been looking forward to it for a while now.

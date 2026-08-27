@@ -1,0 +1,251 @@
+---
+id: f2fd9d9b-e46c-5ec1-8b1b-811ff666b043
+page-type-slug: story-chapter-royal-road
+title: "048: Crucible"
+slug: 0048-048-crucible
+partOf: delve
+position: 48
+ownLength: 3010
+unit: words
+publishedAt: 2019-09-29
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/408177/048-crucible"
+royalRoadId: "408177"
+---
+
+The sound of hammering rang through the camp in the early dawn light. Tallheart examined the piece of iron that he was working on, then returned it to the fire to heat again. It wasn’t quite ready.
+
+As he waited, he inspected the large metal crucible that he had been working on the day before. Now that the tin had fully cooled overnight, he wanted to make sure that the enchantments were still holding. The metal would have shrunk slightly as it cooled, and if there was any flaw in his work, the entire thing would be destroyed the moment he tried to use it. He needed to make sure that the contraction hadn’t disrupted any of the pathways he’d painstakingly arranged within the metal’s matrix.
+
+He stepped back, satisfied. It looked good, but the true test would come in a few minutes, once he finished the piece he was working on. He sighed. This next part would be labor-intensive.
+
+Such primitive methods.
+
+He retrieved the circular piece of iron from the fire and placed it back on his anvil. He struck it a few more times, finalizing the shape, then held it up to his eyes, peering at it in the dim morning light.
+
+“Hey Tallheart. What are you working on?”
+
+Tallheart looked over as Rain joined him in his makeshift work area. He considered. Answering Rain was dangerous. It tended to encourage him. Finally, he decided he didn’t mind. If Rain was interested in the working of metal, perhaps he could teach him enough for him to be useful.
+
+“A filter,” he said, holding up the circular piece of iron for Rain to see.
+
+“Sorry, what?” Rain looked confused.
+
+“Once I inscribe the disk, the center will become permeable to mundane iron.”
+
+“What?”
+
+“Watch.”
+
+Tallheart placed the circle of iron on his anvil and set down his hammer. He withdrew his Telscribe from his pouch and inspected the tip. He’d have to replace it soon, but it would be good enough for this. Working quickly, he started carving a line of runes, forming a border of flowing script about half-way out from the center of the metal disk.
+
+“This is basic rune script,” he said, knowing Rain would just keep asking questions if he didn’t explain. “These are locator runes.” He indicated one of the repeating symbols. “They concentrate the enchantment on the center of the disk.”
+
+The inner ring completed, he started carving a larger rune outside, near the edge. He linked it to the circle with several supporting chains of symbols. “This is a heat resistance rune. It will not last long. This is mundane iron. It will keep it from melting for long enough for it to be useful.”
+
+Rain watched silently as he carved the intricate symbol. Tallheart hummed contentedly, enjoying himself, despite the primitive methods he was forced to use.
+
+It is good to work with metal again.
+
+He repeated the rune four times, hooking in each of the inscriptions to the locator ring with the same tiny chains of linking runes that he had used on the first.
+
+“This iron is impure. No better than four parts in five. I must repeat the rune multiple times across the ring. The enchantment cannot propagate well with the impurities. I would do it anyway for redundancy. Still, it will be weak.”
+
+Tallheart flipped the disk, starting to carve the targeting ring on the opposite side. He made no measurements. He was going by the feel of the enchantments as they started to take effect on the metal, his carving naturally following the line of script on the other side.
+
+“This is crude work. I prefer to lace the enchantments into the structure of the metal itself, beneath the surface. I cannot do that without pure materials, so I must use such methods.”
+
+“It doesn’t look crude to me,” Rain said. “Honestly Tallheart, I’m barely catching half of this. I still don’t see how heat resistance makes this a filter. It’s still solid metal, not a mesh or anything.”
+
+“It does not. This will,” he said, starting to etch a large rune of permeability within the confining circle. “This is not a basic rune. It allows things to pass.”
+
+“Tallheart, slow down, you lost me.”
+
+“Be patient.” He continued carving. “Now, I will layer a rune of homogeneity on top of the rune of permeability, combining the meaning.”
+
+“Tallheart, I don’t even know the words you’re using,” Rain said, a slight note of exasperation creeping into his voice.
+
+Tallheart paused. Oops.
+
+“Sorry,” he rumbled, resuming his carving. “Homogeneity. It means: things that are the same. Permeability. It means: things may pass through.”
+
+“Oh. I think I get it. So when you combine them, only things that are the same can pass through? You’re carving it in iron, so does that mean…only iron?”
+
+“Yes,” Tallheart rumbled contentedly. He understands.
+
+“A filter for iron? Why the heat resistance?” Rain asked.
+
+“To prevent the filter from melting. It will not work unless the iron is liquid. The impurities would prevent it. I need pure metal if I am to work…properly.”
+
+“So you’re building a filter so you can make some. I think I understand.”
+
+Tallheart smiled as he worked, adding in more linking runes as well as a few for durability and binding. He didn’t think he’d get more than one use out of it, but it was worth the effort to at least try and make it last. He finished just as the tip of his Telscribe shattered in a puff of white light.
+
+“Woah, what was that?” Rain said.
+
+“The Tel has been consumed. Its strength is now within the runes. Come. I require your assistance.”
+
+He was fully capable of continuing on his own, but he enjoyed the company. Plus, it would keep Rain out of trouble. Listening to the story of how he had almost died had been…distressing.
+
+Tallheart softly hummed a few notes of an old tune as he picked up his crucible and set it in the fire. It had metal legs that would allow it to stand over the flames. Tin would melt in a campfire. Iron would not.
+
+He slotted the filter into a spout that he’d built into the bottom of the vessel, blocking it off.
+
+“What’s that made of?” Rain asked. “And how the heck did you make it in only a few days?”
+
+“Tin. It will melt in a campfire. Iron will not. I was able to manually purify it once it was liquid. Then, I could shape it into this.”
+
+“Ooookay. Um, won’t it melt way before the iron does?”
+
+“It would, but for this,” Tallheart said, leading Rain around the fire and drawing his attention to a red gem inset into the back of the metal vessel.
+
+“That’s the Heat Cryst we got from the Kin,” Rain said.
+
+“Yes,” Tallheart hummed happily. “It is the anchor for the enchantment I have woven within the crucible.”
+
+“I don’t see the runes. Is that because you were able to purify the tin? They’re inside?”
+
+“Yes,” Tallheart said happily.
+
+“What’s it do?”
+
+“A Heat Cryst is good for anything involving the Heat element. I have added a twinned enchantment of heat resistance and amplification. It will last, thanks to the Cryst.”
+
+Rain nodded in understanding. “So it will amplify the heat of the fire, and not melt while it does it. Whatever you put in there will melt, but only iron will make it through the filter. That is so cool.”
+
+“It is, in fact, the opposite of cool.”
+
+Rain groaned. “Come on, I explained what ‘cool’ means.”
+
+Tallheart walked over to a pile of iron ore, hiding his smile. “Help me fill the crucible,” he said, bending to grab a large chunk of ore, fully the size of Rain’s head.
+
+“Sorry, I don’t think I should be moving rocks around. Ameliah said I should take it easy.”
+
+“Humm. Yes, you are right. Do not worry about it. I will manage.” He gently placed the large rock in the crucible, then went to retrieve another.
+
+“So you’re just going to toss it in there and collect what comes out?” Rain asked.
+
+“Yes.”
+
+“And that will be pure iron?”
+
+“No.”
+
+“Oh. The filter isn’t perfect? Other stuff can get through?”
+
+“Yes.”
+
+“Why?”
+
+“Because the filter is not pure iron.”
+
+“Oh. So then how can you get pure iron to make a pure iron filter?”
+
+“Once I have removed the iron from the stone, I will melt it once more and remove the remaining impurities with Order of Metal.”
+
+“If you can do that, why not just do it to the filter itself?” Rain asked.
+
+Tallheart shrugged. “It is not pure enough. Order of Metal is meant for sorting metals. It can only be used to remove impurities if the metals are molten and already above nine parts in ten.” He indicated the filter. “Getting this small piece to only four parts in five was difficult without magic.”
+
+Tallheart checked the crucible carefully after adding the next large chunk of ore. The tin vessel was already glowing a brilliant red, far above its natural melting point after barely a minute in the fire. Good. It is holding.
+
+“Wow,” Rain said. “That’s really heating up fast. What are you going to use to catch the iron that comes out?”
+
+Tallheart froze. “I did not think of that.”
+
+“What, really?”
+
+Tallheart shrugged and moved back to the pile. There was room for a few smaller pieces, and the first one would start to melt soon. “It will be fine. Get the shovel and dig a hole under the spout. Move quickly.” I really need to think these things through. It would have gotten everywhere.
+
+He placed the last of the ore into the crucible and watched as the heat reached a peak. The luminous runes that he had woven into the metal were now visible, glowing with an orange fire even brighter than the tin that anchored them. It was good that he had built a limiting loop into the enchantment, otherwise the temperature would have kept increasing. If it got any hotter, the heat resistance enchantment would fail. Even this much was only possible because of his skills and his high Strength.
+
+Rain returned with the shovel and Tallheart took it from him, seeing that the human was struggling with the heat being radiated by the crucible. He started digging.
+
+“I’m pretty sure you broke Thermodynamics, Tallheart,” Rain said, standing well back to watch as the first drips of molten iron flowed down the long spout and into the hole just as Tallheart finished it.
+
+“I have broken nothing,” Tallheart rumbled. “What is…thermodynamics?” The unfamiliar word was a struggle. Rain’s language had some very strange sounds in it that were difficult for him to replicate.
+
+He listened with half an ear as Rain attempted to explain, but his mind was elsewhere. He walked back to the pile of ore and grabbed a few more chunks. As the rock melted, it would settle, allowing him to add more. He slowly fed the pieces into the crucible, now filled with a glowing soup of rock and metal. He reached in with his armored hand, stirring the mixture. There was a steady trickle of iron flowing from the spout now, increasing as he stirred.
+
+“Tallheart…isn’t that hot?” Rain said, taking another step back.
+
+“Extremely,” Tallheart replied.
+
+Abruptly, the white light of Rain’s purification aura filled the air. Tallheart paused his stirring to look up at him.
+
+“That will not work on impurities in the metal,” he said.
+
+“Why not?” Rain asked. “Something about how metal messes with mana?”
+
+“Yes. It will not penetrate far below the surface.”
+
+“Oh,” Rain said. The aura didn’t fade away, however. “I don’t think you should be breathing all those fumes.”
+
+“Mmm,” Tallheart rumbled. The aura did seem to be canceling out the plume of pungent gasses that was escaping from the molten soup. He removed his arm from the crucible slowly, the metal and lava dripping from his enchanted armor.
+
+He continued adding ore to the crucible until it was full to the brim with molten stone and the flow of iron had slowed to a bare trickle. He lifted it from the flames and set it off to the side, careful not to spill the contents. He turned to look at Rain, who was standing well back from the fire.
+
+“Come,” he said. “Use your cold aura.”
+
+“I can’t do that,” Rain protested. “I’ll hit you too.”
+
+“I will be fine. Come.”
+
+Rain looked around, then activated Refrigerate, the cool wind of the aura clashing with the radiated heat from the crucible. Tallheart watched as the raw mana reacted with the metal of the chain shirt Rain was still wearing.
+
+Humm. I will have to keep his armor thin. Too thick, and the mana will start to be absorbed as it is shaped by his spells. The unshaped mana is being disrupted, but not dissipated. It is good that he does not need to aim. An armored mage… Yes, it could work.
+
+As the wave of cold reached him, his own armor shone with a blue light as the mana was drawn in like water to a sponge. The damage was well below the dissipation rate of the metal. He could tolerate this level of mana indefinitely, even without the added enchantments that protected him.
+
+The heat of Tallheart’s smelter had melted a large bare circle in the snow that had fallen the previous night. Frost was spreading from where Rain was standing, encroaching on the fire. Rain slowly approached, the radiated cold battling with the heat of the rapidly cooling metal.
+
+“Wow,” Rain said, staring at the puddle of metal in the bottom of the hole as it solidified. The cherry-red metal darkened and dimmed as the blue light of the mana was sucked into it. He looked up at Tallheart. “Why does metal do that to mana?”
+
+“It simply does,” Tallheart said, staring back at him. “You may stop. I do not wish for you to extinguish the fire.” Rain dropped the skill, mumbling something in his odd language.
+
+So inquisitive. It is good, but not for those who need to answer.
+
+He moved over to the crucible. The large plug of lava was still mostly molten, protected by the heat-magnifying effect of the vessel containing it. He lifted the crucible and walked over to the side of the ore pile to dump it out, the molten rock flowing slowly.
+
+If we are here long enough, I will build filters for the other base metals. It would be good to make one for the stone as well. Tallheart sighed. I hate working with stone. It is so brittle.
+
+“What now?” Rain asked, as Tallheart placed the crucible back over the fire. The flames were slowly regaining strength after Rain had nearly extinguished them. Tallheart didn’t answer, simply bending to dig his fingers under the chunk of raw iron that was sitting in the hole. He dropped it back into the crucible.
+
+He removed the iron filter and inspected it. Ruined. As I expected. He tossed the spent filter aside to be recycled later. He’d make a better one once he had pure iron.
+
+Malleability.
+
+He concentrated, placing his hand on the crucible’s drainage spout. He needed to close it off for what came next. He pressed on the tin with his palm, forcing the metal to telescope up into the body of the crucible. He pressed it flat from the other side, shaping the metal like soft clay while preserving its internal structure.
+
+Planarity.
+
+The metal between his palms flattened, becoming uniform in thickness. He used his fingers to shape it back to match the curve of the bottom of the crucible, then removed his hands. The iron was already starting to melt again.
+
+“Tallheart…what the actual fuck?” Rain said.
+
+“Pure metal is easy to work with, especially when it is hot,” Tallheart said, watching the iron closely as it melted.
+
+“If you can do that, what do you even need the hammer for?” Rain asked.
+
+“For stronger metals, and for alloys,” Tallheart replied simply. He placed his hands back in the crucible, touching the partly molten metal.
+
+Order of Metal.
+
+Working quickly, he isolated the iron from the other trace metals. The remaining non-metallic impurities resisted, but with the metal nearly molten he was able to work around them. He pressed them out of the metal’s matrix as he fed more and more mana into the skill. He smiled as the iron became easier and easier to work, his rate of purification increasing as the impurities fell away. He withdrew his hands, holding a liquid sphere of molten iron, held in place by his skills.
+
+Wonderful.
+
+He smoothed the sphere as it started to solidify, stepping back from the fire. “Rain, Refrigeration,” he said. The human obeyed, and Tallheart carefully flattened the sphere down into an ingot as the metal rapidly cooled. Finishing it with Planarity, he walked over to where he had left his anvil and set the perfectly rectangular brick of metal upon it. He would shape it into a filter for pure iron later.
+
+The purified metal would hold the enchantment better, lasting for at least a few days. He would take the time to add the capacitance runes to allow the enchantment to be recharged. Having a permanent filter would be worth the effort. Order of Metal took far too much mana to be practical for the quantity of metal he required.
+
+Humm. Rain could help with that too. He could restore my mana, and his Purification aura might actually work if the metal were molten and he used it for long enough.
+
+…
+
+No, making filters will be better in the long run.
+
+He walked back over to Rain and removed the crucible from the fire. Rain was watching him with a disbelieving expression.
+
+“Magic is fucking insane.”
+
+Tallheart smiled. “Come. I am hungry. Are there any potatoes left?”

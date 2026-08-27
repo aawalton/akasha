@@ -1,0 +1,223 @@
+---
+id: 48a3811c-95d9-584d-9d50-f52047b3f229
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9"
+slug: 0010-chapter-9
+partOf: death-healer
+position: 10
+ownLength: 2568
+unit: words
+publishedAt: 2025-05-05
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2257925/chapter-9"
+royalRoadId: "2257925"
+---
+
+Three Years Later
+
+"Fausta?" Adriana looked inside the dark room with apprehension. Her friend had apparently personally requested her presence for the first time in two years, which had made her equally excited and worried. Usually, she just showed up to check on her. But if Fausta wanted to see her, it was either going to be a very good or a very bad sign.
+
+No response came, and the blonde woman looked back at the servant who had led her to the room. "Leave us alone," she said to the man and watched as he went away.
+
+Adriana approached the bed of her old friend while holding her breath. Through the little light that filtered through the heavy curtains, she soon saw a disheveled woman lying on the bed, turned away from her.
+
+"Hey," she said, sitting on the bed.
+
+Fausta shuddered as the bed creaked under Adriana's weight. The blonde looked at the bottom of the bed, seeing several bloodstains. She was about to touch Fausta to cast a healing spell, but the woman finally spoke in a raucous voice.
+
+"The [Midwife] already healed me."
+
+"How are you feeling, dear?" Adriana didn't know what else to say. Fausta had just lost her third child halfway through the pregnancy.
+
+Surprisingly, Fausta slowly turned and hoisted herself against the headboard.
+
+"Tired," Fausta said with a smile. "I just want to sleep every day, every hour. I just want to… rest."
+
+Adriana took Fausta's hand and nodded.
+
+"You've shown tremendous courage. I'm certain you'll see the next pregnancy through to the very end."
+
+A few tears escaped Fausta's eyes as the disheveled woman, once a great beauty, now marred by the failed pregnancies and the self-imposed lack of sun and food, shook her head.
+
+"There's not going to be a next one," Fausta said.
+
+"Well, you know, I'm sure you and Aurelianus will work it out and—"
+
+"Adriana," Fausta put a hand on the woman's wrist. "There's not going to be a next one."
+
+A moment of silence followed as the two women looked at each other. Unlike the sorry looks of Fausta, Adriana still looked not one day older than twenty, despite having crossed twenty-six just a few weeks prior. She was, without a doubt, still the most beautiful woman in the country, the same epithet that she had once been so proud of and that now she almost felt ashamed of.
+
+"Fausta," the blonde said heavily, "Aurelianus needs an heir."
+
+"He does, doesn't he?" The woman stared ahead blankly.
+
+Both knew what that meant and what it implied for Fausta's future.
+
+"Are you pregnant, Adriana?" Fausta asked, turning toward her friend.
+
+Adriana shook her head.
+
+"Well, at least you're not a sick animal like me," Fausta replied with a hint of mirth. "That's what Aurelianus called me the last time he was here. He said I'm just letting myself die. I wonder how much he'd care if I did. Perhaps he'd just be relieved."
+
+"His Light, Fausta, is for every one of us, to guide us through—"
+
+"I'm in the dark, Adriana," Fausta said with a dry laugh. "There's no more Light where I am. I—I just wanted to thank you for coming here every time, trying to help."
+
+"Please, don't mention it."
+
+"You're the only one who kept visiting in the last three years," Fausta said. "Everyone, every old friend of ours, they're afraid of me. They're afraid they're going to catch whatever disease they think I have."
+
+"You're going to be fine," Adriana said, almost to herself, while squeezing Fausta's hand.
+
+"I am," Fausta nodded peacefully at her. "But I wanted to ask you a favor."
+
+"Anything," Adriana said, feeling her heart go heavy.
+
+"If anything happened to me, please look after Lavinia. Aurelianus doesn't understand what it means to be… us. I need you to look over her, Adriana. Please, promise me."
+
+"Nothing is going to happen to you—"
+
+"Promise me!" Fausta raised her voice, her face turning desperate. "Please! You've been more of a mother to her than I could. Please, Adriana. I need you to tell me that you will look after her if anything happens to me."
+
+"Ok, ok," Adriana sighed. "Dawn's Mercy, Fausta, I will look after Lavinia no matter what. I will look after her until you get better."
+
+"Thanks," Fausta let Adriana's hand go, now looking at the ceiling peacefully and slowly closing her eyes.
+
+"Why do you think something might happen to you? I've spoken with my mother, apparently, since you're still getting pregnant, Aurelianus doesn't have a strong case to send you to the Sanatorium. You'll be—"
+
+"Adriana," Fausta opened her eyes, this time showing an intensity her friend had never seen in the past years. "Can you still cast a protective shield?"
+
+The blonde woman nodded.
+
+"We need privacy."
+
+Adriana didn't ask why and simply casted a Light Magic shield around the bed. This would stop anyone from overhearing. Her Skill blocked both sounds and sight from the outside. It had been a common practice when they were younger and making strides in their own world. Adriana had gone adventuring for a while and fighting on the front—while Fausta had been an amazing lawyer. They had needed privacy more than a few times in their dealings.
+
+"How's Lily?" Fausta said, slowly hoisting herself up against the headboard with her friend's help.
+
+"She's well," Adriana shrugged. "Why?"
+
+"I meant, Darkened Skies, what's her talent?" Fausta's green eyes, the ones her daughter had taken after her, bore deep into Adriana's blue ones. Fausta erupted in a fit of coughing after she getting agitated.
+
+Adriana frowned but passed a cup of tea to her friend.
+
+"Why? She's doing well. Nothing changed. Her base talents are—unheard of. Her Mana Sense and Mana Shaping are out of this world, Fausta. But… she still can't learn any Affinity. It's like—I don't even know how to explain it—like she doesn't want to listen to me? Whenever I try to explain how Light Magic works in healing, for example, which is how most of us were introduced to Light Magic, she says I'm wrong. I even entertained her and asked her why. She keeps saying she doesn't know. I've asked Lucianus but he said she's probably just a slow learner—plus, he's never home lately."
+
+"Do you think he's cheating on you… like my husband?" Fausta slowly asked.
+
+That was the first time Fausta ever brought up the topic that Adriana had been privy to for years.
+
+"I—"
+
+"I know, Adriana," Fausta weakly waved her hand. "I'm not stupid… I'm just weak."
+
+"I don't think Lucianus is cheating… yet," Adriana said through her teeth. "I'm afraid he will not be happy about not having an heir. Every time he comes home, that's all he talks about."
+
+"Good, good," Fausta said weakly, putting a hand below the covers and taking out a book. "I have been inquiring about the Code of Fulvius…"
+
+Fausta took a few deep breaths, closing her eyes and bringing her eyebrows together, focusing.
+
+"There's a book—there's an exception to the rule, Adriana."
+
+"What rule?" Adriana asked, confused.
+
+Fausta passed the piece of parchment she had found three years prior to her friend.
+
+"I couldn't find that book… they're burning them… so hard to find…" Fausta said. "But I've got a copy… coming my way… soon… Lavinia might not qualify—"
+
+Fausta had to make several stops while speaking in between all the coughing.
+
+"You could've been a Champion…" Fausta said as she saw Adriana's eyes go wide as she read the piece of parchment. "Your daughter… she could be one. I'll summon you as soon as I have an answer."
+
+"I—I don't understand. How did you even—" Adriana stuttered.
+
+"I don't want this… for my daughter," Fausta said, looking straight at Adriana, who knew exactly what this referred to. "I know… you don't want it… for Lily."
+
+Despite the terrible condition Fausta's body was in, Adriana could sense a strong, sharp energy from her friend, the same she had had when she had been a lawyer.
+
+"I want to help, I want to do something. And don't worry, I'll take care of Lavinia if it's the last thing I do, Fausta. I promise. Whatever it takes. Can I do something else?"
+
+Fausta shook her head and turned away from her friend, lying down on the bed.
+
+"I just need to rest."
+
+"It's alright," the blonde caressed her friend's forearm. "You'll be okay."
+
+"Just need to… rest…"
+
+Adriana got up as Fausta slipped into her slumber and left the room with a black cloud over her head.
+
+* * *
+
+Adriana looked at Lumius and Lily, both eight years old, practicing together.
+
+There was a nice spring breeze in the bushy courtyard and when the blonde woman placed her hand on the balcony's thick granite railing, the sun had already warmed the stone for her.
+
+Lumina had warm and temperate seasons, which made it perfect to grow produce and raise farm animals. If they ever managed to conquer all of the Dead Lands, considering that Life Magic—the most common Affinity in Lumina—was the main Affinity used by [Farmers] and [Green Mages], they'd be the most plentiful and blessed state of all.
+
+Sadly, the fact that the Dead Lands were so close meant that not only did they have to fight the Undead to keep them away, but that sometimes those vile creatures would infiltrate their border and even reach the cities. A rather common terror tactic employed by the Necromonarch—if that thing was even still alive—was to send infected animals to spread the Undead disease. Over the years, the Papacy had become ruthlessly efficient at routing those threats; however, since the Undead Disease was incurable, the infected animals constituted a major danger.
+
+Undead-infested rats were the thing of nightmares.
+
+If you didn't know how to deal with infected flesh, you were pretty much guaranteed to die from one single bite. And if more than one rat bit you at one time, that was enough to fully spread the disease so fast no [Healer] in the Church would be able to save you. Worse, even, was inhaling Undead miasma or ingesting any infected bit.
+
+“Lumius, make sure you stabilize your shaping first,” Adriana sighed, descending the steps of the balcony and shaking her head.
+
+It still amazed Adriana how quickly they’d grown. It felt like only yesterday Lily had been five, flitting around the house in search of mischief. Now, the girl was taller, her slender limbs full of pent-up restlessness, her deep blue eyes keen and confident. Beside her stood Prince Lumius, the Pope’s youngest son, his silver hair tousled by the breeze, his gaze fixed on a sphere of condensed Mana in his hands.
+
+At her words, Lumius nodded, concentrating. A wavering globe of Mana hovered between his palms. He tried to mold it into the shape of a flower—a simple tulip. Adriana watched the sphere wobble, bulge, then collapse into a formless blob of light.
+
+“Not so fast,” she said gently. “Start with the petals. Keep them smooth.”
+
+Across from him, Lily yawned. She flicked her wrist and conjured her own globe of Mana, swirling it as if it weighed nothing at all. Adriana recognized that focus—Lily’s greatest strength had always been controlling Mana with uncanny precision. Were it not for the fact that Lily couldn’t wield a Light Affinity, she might have been unstoppable already.
+
+The exercise they were performing was called 'Mana Sculpting.' It wasn't a Skill per se, unlike Mana Shaping, it was simply used to gauge the rough level of Mana Shaping for someone who was yet to be Inititiated. As as a rule of thumb, once a kid could form a decent flower, their Mana Shaping would roughly be around Level 50. Reaching Level 50 before fourteen years old was something only nobles could aspire to. And crossing the Level 50 threshold guaranteed them much stronger Classes than anyone else once their Class Day came around.
+
+Lumius’ brow furrowed. He managed to form three petals, roughly symmetrical, but the rest of his tulip’s shape remained uneven. His Mana flickered around the edges, threatening to disperse. He gritted his teeth and tried again.
+
+“That’s extremely high control in Mana Shaping and Mana for your age, Lumius," Adriana said encouragingly.
+
+"It's meh," Lily commented from the side. "You suck."
+
+But the silver-haired boy looked at his cousin with pure spite on his face.
+
+"Why do I have to practice with her?" Lumius asked, bristilng. He was bothered at Lily's lackadaisical attitude and her mockery. "She can't even become a Champion. Why is she even practicing?"
+
+"Everyone born into a Great Family is required to practice, Lumius," Adriana said with a thin smile. "Your cousin too. If she deigns us of showing what she learn, at least."
+
+Lily sighed and shrugged, stepping a couple of feet away from them.
+
+Adriana braced herself for the impatience she knew would come next. Lily had never enjoyed following instructions precisely as given—she preferred to figure everything out on her own.
+
+They had started practicing this a while ago, but Lily…
+
+She practiced all the time when she was alone. Adriana knew her daughter didn't want her to know how much she enjoyed magic and Mana Shaping. Today, it was the first time Adriana had her practice in public after having explained the little blonde what to do. During these months, Lily just spent time by herself training or playing with Lavinia or just… getting in trouble.
+
+Another reason Adriana, and also her brother, Ennius, the [Pope], insisted that the two children practice together was that they had grown quite antagonistic with each other. Lumius didn't like Lily at all, and, well, the little blonde always reciprocated with passion.
+
+Lily closed her eyes—something Lumius avoided doing to get a better look at how the Mana Shaping turned out—and conjured several orbs of different dimensions in front of her, letting them levitate and slowly rotate around her.
+
+Lumius's mouth was now hanging open, his jaw threatening to dislocate.
+
+The ones that passed in front of her started getting sculpted, with rosebuds sprouting from each one of those with crisp details. All of them were in different stages of blooming and Adriana could count at least a dozen.
+
+Dawn's Mercy, Adriana thought. How much has she advanced already?
+
+Lily gathered the roses in front of her, now scrunching her forehead real tight, clearly having trouble with something.
+
+The roses are all formed, what is she even—
+
+Once they got close enough, the roses sprouted long stems that curled together until they formed a bouquet. Adriana could see, with her own Mana Sense, the fine control Lily was exercising to do this and was speechless.
+
+When did she even learn this? Who taught her?
+
+She knew her daughter had an outstanding Mana Sense, perhaps even close to Level 80, but this… To do this without even looking at her age…
+
+Lumius gazed at Lily so intently his own Mana globe dissolved when left unattended.
+
+Cheekily, the little blonde child opened her eyes and smirked at her cousin.
+
+"For you," Lily said, grabbing the Mana-made flowers and offering them to Lumius. "So that you won't cry too much about sucking so bad."
+
+Lumius immediately tried jumping Lily, who side-stepped the attempted tackle and moved behind her mother, putting on an innocent face.
+
+"Mommy, Lumius is being mean!"

@@ -1,0 +1,147 @@
+---
+id: ef702597-ed0f-51fc-953a-f8b10de5c092
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 54"
+slug: 0126-b2-chapter-54
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 126
+ownLength: 1522
+unit: words
+ownProgress: 1522
+publishedAt: 2024-03-12
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1551768/b2-chapter-54"
+royalRoadId: "1551768"
+markedReadAt: "2026-06-29T19:10:14.292Z"
+---
+
+Aria
+
+We continue on into the third ring over the next few days, coming back and forth from the capital as he shows us more and more resource locations in the ring. And unlike in the previous two rings, the third Tier is largely focused on more monstrous mana creatures, with much larger fish, the fishmen creatures which are just short humanoid fish with blue skin and razor sharp teeth, sharks, some large manta rays, and even a bunch of massive jellyfish.
+
+Meanwhile the resource gathering locations include places like jellyfish fields where there are just jellyfish for all the eye can see around a bunch of expensive resources, or more caverns, and even a couple of odd temples. Temples where the fishmen nest.
+
+But after he finishes giving us the tour, Azura leaves both me and Sel at the dock to go deal with some business.
+
+Then the two of us just kinda stand here for a few minutes before she asks, “Hey, you wanna go grab something to eat at Azu’s café?”
+
+“Sure,” I tell her with a nod.
+
+And we both quickly head over to the café using her carriage and guards. Only to find Shirogane surprisingly seated at the bar drinking.
+
+Huh. He’s not here often. Nor does he drink often either.
+
+Either something good happened or something bad.
+
+One or the other.
+
+Only times he ever drinks.
+
+I walk up to the counter and sit down next to him, with Sel curiously sitting down on the other side of me while leaning over and trying hard to look like she’s not watching while she’s watching. But failing pretty badly since being subtle really isn’t her thing.
+
+“So was it good or bad?” I ask while leaning over the counter and waving at the person behind it. One of the employees hired by Azura. A close friend of his at this particular café since it’s his main branch.
+
+The employee quickly nods and goes about making my favorite cocktail as Shirogane turns to me and grins, answering my question.
+
+“What happened?” I ask, cupping my fists with my elbows leaning on the counter as I rest my left cheek on my hands, my head turned to look at him.
+
+He takes another swig of his drink and answers, “I set up ties between the Nauticus Company and the Eternal Dynasty and received a heck of a lot of contribution points for it!”
+
+That has my eyes widening slightly as I lift my head to glance at Sel, only to find the princess surprised as well as the girl asks, “Wait, Rona decided to work with the Dynasty after all? I thought she hated the Dynasty…”
+
+I glance at Shirogane.
+
+“’Hated’ being the key word,” he says with a wide grin, clearly not being in business mode. “I managed to win her over.”
+
+Sel leans forwards, her stool scooting a little in the process and screeching slightly on the floor as she exclaims, “But how! She’s always hated the Dynasty for their deceptiveness! For calling what they do neutrality when it’s all just lies!”
+
+That has Shirogane raising a brow at her, but the teenage girl just keeps staring at him intensely without taking back what she just said.
+
+And I guess she has a point. They do call what they do neutrality even if they’re only directly neutral and not indirectly neutral.
+
+What with them getting involved all the time, just without directly helping anyone.
+
+Like in my case with the lukians, where they basically sent me there to help them out.
+
+Shirogane purses his lips and taps them for a few seconds before a wide grin stretches across his face and he says, “I’m sorry little one, but you’re too young for me to talk about it. Maybe when you’re older you can find out from your sister herself.”
+
+My mind blanks, and I see Sel freezing for a moment as well.
+
+Then I just send an incredulous look at Shirogane as Sel blushes as red as an apple.
+
+“S-s-sh-she wouldn’t do something like that! You’re not- no- you’re-” Sel stumbles over her words while still blushing beet red. And after a couple of attempts while Shirogane laughs, she manages to say, “E-even if you’re not lying about doing that, she wouldn’t alter her business just for you!”
+
+His laughter just gets even louder. Meanwhile I can’t help but wonder about the Nauticus Company and the First Princess after all if that’s enough for her-
+
+“I’m joking,” Shirogane finally says after calming down again, making my thoughts halt in an instant. “I discussed with her the benefits of trade between our two nations and the Hunter’s Bays on Eternus and the Grand Ocean on Atlantis. Along with the possibility of setting up a Gate between our worlds.”
+
+Sel begins to point at him while constantly stuttering out, trying to start speaking but failing miserably. Then she just pouts and crosses her arms under her chest, turning to look away from him.
+
+Hmm. Never mind.
+
+Guess the heir to the throne really is as I thought she-
+
+“I wasn’t joking about what we did though,” Shirogane adds while scratching his chin with a faraway look in his eye.
+
+I stare at him for a second as Sel sputters out next to me again.
+
+Then I just pat him on the shoulder and focus on my cocktail as it arrives in front of me.
+
+Good for him.
+
+Was beginning to wonder about him after seeing him always out doing business and even studying during the nights.
+
+It’s not a bad thing to have no interest in that sort of thing. I don’t have any after all. But it’s good to know he’s not just all work.
+
+Almost got worried about him at one point. Of course, I forgot my worries a lot since he tends to vanish for entire days during his business trips sometimes, and I vanished for days in the Grand Trees over the past few years.
+
+But still. The point remains.
+
+Although… the princess? That’s a surprise.
+
+That woman struck me as the type that overworks herself and doesn’t give herself any time to, well, herself.
+
+Oh, and Sel is still swearing like the elegant princess she is.
+
+But I ignore her as I sip my cocktail.
+
+And Shirogane can’t seem to get that grin off of his face.
+
+After a few minutes pass though, Sel finally calms down again and begins chugging away at her soda with that pouty expression still ever present on her face.
+
+“Say,” Shirogane suddenly asks while leaning forwards and holding his drink a little tighter as he finally wipes that grin off his face and glances at me, “you have any idea how long we’re gonna be staying on this planet?”
+
+That makes Sel stiffen slightly.
+
+The corner of my mouth quirks up slightly at that.
+
+Aww, she doesn’t want us to go, doesn’t she?
+
+“I’ll probably stay for a decade or two,” I tell him without much care, remembering just how many fish are in that Grand Ocean. Particularly those nests.
+
+And if I can send my Death Spirits out through the ocean they can cover a massive amount of ground… of water. Which will make for a very efficient killing spree.
+
+Sel relaxes again with a smile on her face.
+
+So cute. She really can’t hold back her emotions yet.
+
+At least, not when her guard’s down like this.
+
+I’ve realized that all of the royals have two versions of themselves. One where their guards are up. And one when they’re down.
+
+Like how Little Blue left my arms whenever we were in the public and acted like the royal she is. Even at her age.
+
+Anyways, the princess aside, I lean back a little while stretching my legs to one side of my stool and saying, “Either way, we’ll be here for a while. So do enjoy yourself while you’re here. Don’t hold yourself back from anything on my account.”
+
+Mostly talking about him developing a relationship with that princess if he wants to do so. Since it would suck for him to avoid doing it because he knows he’ll be leaving with me to my next world.
+
+“Nah, it’s not that sort of relationship,” he says with a wave of his hand. Making Sel sputter again.
+
+“Can you please not talk about my sister like this in front of me?!” she finally exclaims, apparently giving up on trying to deny it and moving on to getting him to stop talking around her. “I really do not want to know about that side of her life.”
+
+I pat her on the head before hopping off the stool, finishing up the last of my cocktail before setting it on the counter along with a few copper coins and heading back towards the stairs to go to my room.
+
+And, of course, Shirogane continues talking about it even as I leave. All the way till he frightens the princess out of the café.
+
+Sel has now realized how immature the non-business mode Shirogane is.
+
+May she rest in peace.

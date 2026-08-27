@@ -1,0 +1,167 @@
+---
+id: ab7729ef-6f49-5be9-8bd6-b4d0583431f8
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 18"
+slug: 0021-b1-chapter-18
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 21
+ownLength: 1855
+unit: words
+ownProgress: 1855
+publishedAt: 2024-01-09
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1471347/b1-chapter-18"
+royalRoadId: "1471347"
+markedReadAt: "2026-06-29T19:06:33.645Z"
+---
+
+AriaNearly a decade ago
+
+“Sergeant Daniels, this is your latest recruit,” Warrant Officer Danvers says as she waves at me. “Treat her well.”
+
+The sergeant stares wide-eyed at me, but I just nod my head in greeting, not saying much.
+
+“Really? Is this a joke?” he asks while turning to look at the warrant officer, making me flinch slightly in the process. “A nine year old child is the Category 5 Ability Holder? The one we’ve been looking forward to for over a week now?! Are you fucking-”
+
+“Sergeant, I would watch your words if I were you,” the warrant officer says, her eyes narrowing slightly as she briefly glances at me. But I don’t care much about the swearing.
+
+The emperor doesn’t hold back when he does it, nor did those back at the lab. So why should my superior officer?
+
+For some reason the sergeant looks startled for a moment before turning regretful eyes onto me. Then he turns back to the warrant officer and says, “You’re right, I apologize, ma’am.”
+
+She nods her head and says, “Keep it in mind for the future, and make sure your other soldiers know to treat Private Crimson well.”
+
+After that, she turns around and walks down the hall, leaving me behind with the sergeant right outside of the barracks. And neither of us say anything for several seconds.
+
+I just continue standing still, waiting for orders like I was told by those at the lab. Even though there isn’t any pain involved now doesn’t mean there won’t be any later if I screw up, so I need to do as they said.
+
+Eventually the sergeant sighs, making me flinch slightly.
+
+“Just… come inside, alright?” he says, making me blink for a second before stepping inside of the bunker, where I find ten beds lining the room. Five on each side of the room. And we’re not the only ones here as nine others are scattered throughout the room doing their own things, only stopping when they notice us coming in.
+
+“Woooah woah woah, who’s this, boss?!” one of them exclaims as soon as he sees me, jumping down from his bunker. Meanwhile another shouts, “The boss is into- HMMMM!”
+
+I frown as one of the other soldiers covers their mouth – a girl who looks to be in her twenties and is scowling at him.
+
+Meanwhile the others all rush over to me and kneel down as the sergeant says, “Soldiers, this is your new comrade. She is a Category 5 Ability Holder and will be joining us on missions from here on out.”
+
+Silence fills the room as everyone slowly turns to stare at their commanding officer.
+
+I look back and forth between the sergeant and the others, my stark white hair bouncing back and forth along with my head.
+
+“You’re kidding, right?” “Are you serious?!” “Boss, don’t joke like that!” “Sergeant! You can’t be serious!”
+
+I almost take a step back in surprise at all of the shouts that ring out through the room, but the sergeant just places his hand on my head, making me look up at him to find the man warmly looking down at me as he raises his other hand, stopping them all from speaking.
+
+“Little Ari, please make yourself at home,” he says while motioning towards a bed one away from the door on the right side of the room, away from the windows. One of the safest beds in the room. “The rest of us have something to speak about outside, alright?”
+
+I blink and tilt my head slightly, only to remember my orders and immediately salute, “Yes, sir!”
+
+A sad smile crests his face as he pats my head. Then I feel him patting my back, giving me a gentle push towards the bed. So I walk over and begin placing my stuff around it.
+
+Not that I have much to place.
+
+Meanwhile the others all leave the room, closing the door quietly behind them. And only seconds later, I hear shouting coming from the other side of the door.
+
+I can’t hear what they’re saying though.
+
+Probably soundproof enchantments on the wall.
+
+So I move about finishing setting everything up before standing at attention next to my bed and waiting.
+
+And waiting.
+
+And waiting some more.
+
+Eventually the door quietly opens, and all of the soldiers come back inside, only to look sad when they see me. Then they rush over to me, making me almost flinch, expecting to be hit.
+
+“Are you okay?” “No one did anything to you, right?” “Please call me Jenny, okay?” “Here, go ahead and sit down, I’m sure you’re tired!” “Can I call you Ari too?”
+
+I blink in surprise, unsure of how to take the wave of kindness I can pretty much feel flooding over me by them.
+
+They’re… not going to hit me?
+
+“Little Ari, know that you’re with family here, okay?” the sergeant says after pushing the others out of the way and kneeling down in front of me.
+
+Family?
+
+I feel my control over my face slacking as a sad look covers it at the thought of my family.
+
+Then he pulls me in for a hug, which snaps me out of it as I stiffen up, expecting pain. So he lets go just as quickly, saying, “Sorry, I didn’t… Sorry.”
+
+I shake my head before asking, “Do you have any orders for me?”
+
+He blinks in surprise and frowns at the others, only for them all to shake their heads. Then he turns back to me and pats me on the head, saying, “Just be you.”
+
+Just be… me?
+
+What does that mean?
+
+AriaThe Present
+
+I wake up with a start while shooting forwards in my bed, only to realize that I’m lying here in a bath towel with my bed soaked. So I quickly get dressed and put on my weapons and other gear, including one of the other hair bands the older officers gave me, before grabbing the letter from my drawer, putting it in my pocket, and grabbing the bags I packed yesterday. Then I head out, deciding not even to think about the dream resurfacing for the first time in years.
+
+Not this time.
+
+While passing through the streets, I occasionally nod my head at a passerby who greets me with a simple, “Morning officer,” until I make it to the train station. Then I show my pass to the receptionist, grab my tickets, and board the train.
+
+Once I reach my booth, I go ahead and place my bags above the seat and sit down before unbuttoning my armored jacket, revealing my white shirt beneath it.
+
+Why they require us to wear armored and enchanted formal attire when arriving at a base for the first time is beyond me. Other than it being tradition.
+
+But it’s annoying.
+
+I reach to grab my crystal before smiling slightly at the warmth it’s radiating. At the comfort it gives me.
+
+Then I frown as I feel the thing… pulsing?
+
+Odd.
+
+Doesn’t seem to be doing anything other than that though, and I personally don’t care even if it’s trying to do something to me. It’s the last thing my parents gave me, so I will always keep it with me no matter what.
+
+I still don’t think it’s doing anything though. Mom and Dad wouldn’t have given it to me if it was bad.
+
+A little while passes as I wait for the train to start moving, and after over an hour of waiting, the conductor arrives at our train car and begins giving their usual spiel. So I just turn to look out the window at the passing people in the train station.
+
+Eventually they finish speaking and move on to the next car, only coming back again a few minutes later after no doubt giving that same spiel to the other cars. And not long after they leave our car again, I feel the train beginning to move.
+
+I look out the window for a while as the train moves, but I gradually begin to feel both tired and bored. So I lay my head down on the counter of the booth I’m in and close my eyes, beginning to go to sleep.
+
+AriaNine Years Ago
+
+“Happy Birthday Little Ari!” all of the soldiers of our corps shout as soon as I wake up, making me blink in surprise before I find a cake on a tray in front of my bed. And I immediately smile and jump out of bed with a squeal of joy.
+
+The soldiers chuckle at my act, but I don’t bother with them, instead rushing to the cake.
+
+“Nuh-uh-uh,” Jenny says while pulling the cake back and wagging her finger. “Wash your face and hands first!”
+
+I pout at her, but she stays firm. So I quickly sprint out of the barracks, wash both my hands and face, and run back as fast as I can, still with some water dripping from my hair. Then I dig into the cake to the apparent amusement of the others.
+
+“You’re likely to end up fat if you eat like that, Aria,” Corporal Tennison jokes, but I, as always, ignore the meanie.
+
+“No she won’t,” Corporal Ruthers says, a smile on her face while she watches me dig into my chocolate cake. “You just eat and ignore the idiot.”
+
+No problems here!
+
+The others all begin making jokes about how little I spoke just a year ago, when I first arrived here. But by now we’ve all opened up and the events of the lab are mostly behind me. So I don’t really think about those times much anymore.
+
+We also haven’t been sent on very many missions up till now. Mostly just training, training, and more training. With only about three real missions.
+
+It’s been a lot nicer than I thought it would be.
+
+I hope things stay this way.
+
+AriaThe Present
+
+I wake up to the sound of screeching, screaming, and a crashing window, making me shoot to my feet just to find someone having crashed into the train through the window. And when I look out said window, I find more of what I quickly realize are mercenaries driving a car beside the train.
+
+A scowl covers my face at the sight of them.
+
+Seriously? I’m not sure if I should be grateful that they snapped me out of that dream, or grateful that they gave me something to vent on.
+
+Either way, I draw my pistol and quickly shoot the one that’s already in the train in the damned head, making them fall down to the ground as more screams echo from the train car.
+
+[User has killed one being of Level 6. Requirements to reach level 3 have been updated. New requirements are as follows: 151/250 beings have been granted Death.]
+
+“Everyone, stay down!” I shout at the civilians, and they all do so as soon as they see my officer uniform. Then I quickly make a call to Omega Fortress, reporting the attack.
+
+Guess I’ll be blowing off some steam now.

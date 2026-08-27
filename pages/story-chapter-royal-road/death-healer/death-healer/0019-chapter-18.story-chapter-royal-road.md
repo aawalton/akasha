@@ -1,0 +1,177 @@
+---
+id: bdfaccf7-1f5c-5d24-ad3a-d08f5e181010
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18"
+slug: 0019-chapter-18
+partOf: death-healer
+position: 19
+ownLength: 1578
+unit: words
+publishedAt: 2025-05-16
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2284487/chapter-18"
+royalRoadId: "2284487"
+---
+
+Darkness pooled in the corners of Fausta’s chamber like ink. The only light came from a single lantern, its flame trembling against the draft that slipped through cracked shutters.
+
+Every time the wick fluttered, the brass vial on her bedside table caught a glint of gold-orange and flung it into the gloom.
+
+Fausta’s gaze swung between two objects:
+
+—the vial, stoppered tight and still faintly warm from the alchemists’ hearth; —the pale scrap of parchment, edges smudged where her fingers had worried them raw.
+
+She read the lines again—Book XXIII, Chapter V, Clauses 12 through 16—until the words floated, weightless, in front of her eyes.
+
+“…under exceptional provision and in times of dire necessity, female aspirants are hereby permitted to present themselves for the Light Trial, upon meeting the conditions set forth…”
+
+The lantern hissed. On the table, the potion seemed to lean toward the parchment, as if one compelled the other.
+
+Closing her eyes, Fausta let the room flatten into sound: the hush of chilled night air, the muffled heartbeat in her own ears, the creak of mattress straw each time she shifted.
+
+I've finally found it.
+
+She opened her eyes. The room swam; the potion doubled, then steadied.
+
+In her mind two futures sprawled like branching corridors.
+
+The first corridor smelled of cinnamon and bile—the tincture’s tang. She pictured herself lifting the vial, gulping it without a second thought. Heat would rush through her veins, stitching her womb together with alchemical threads. The next conception would hold; her belly would swell.
+
+But in that vision Lavinia was all edges: smile chipped, shoulders squared under armor twice her size, training far from mother’s reach. Aurelianus’s pride tilted toward an unborn son; Lavinia was relegated to a marriage contract inked before she could bleed.
+
+Fausta tasted metal at the back of her throat.
+
+The second corridor tasted of bitter dusk. She imagined pushing the potion away—watched herself strike it from the table; glass shattered, amber liquid soaking the rug.
+
+No heir. No reprieve. Aurelianus’s fury unfurled like a banner; the Sanatorium’s iron wards loomed. Worse: Lavinia, unguarded, might become collateral in her father’s cold calculations.
+
+A mother who refuses her duty condemns her child.
+
+The thought rang like iron.
+
+But if I help Aurelianus, I won't be helping Lavinia—for her to become a Champion…
+
+* * *
+
+Every pulse of the pig’s agony hammered through her skull—hot, throbbing, relentless. It wasn’t just the gash in the creature’s flank she felt. Something deeper — spasms of muscle and gut, a feverish ache in every bone, a collapsing spark where the beast’s life-force should have been — seared across Lily’s own nerves. A low, tremulous moan rattled from the pen; the sound vibrated inside her ribs until she thought her heart might split.
+
+I have to help it, her mind whispered. I can’t leave it like that—
+
+A hand closed firmly around her shoulder.
+
+“Lily,” Gentiliana murmured, voice gentle but iron-hard beneath, “the trial animal is here.” She guided Lily’s gaze back to the rabbit. “Focus, darling. This is your task.”
+
+The pull of the pig’s suffering clung like barbed wire. Lily’s knees shook. She opened her mouth, but no words emerged.
+
+Gentiliana crouched, putting herself between Lily and that far pen, blocking the line of sight as much as she could.
+
+"Are you ok?"
+
+"Aunt, I—" Lily heaved. "I—"
+
+"Just heal the rabbit, just pour your Mana in it, Lily," Gentiliana said. "Now."
+
+* * *
+
+If I don't give Aurelianus an heir, Fausta reasoned, he's going to marry off Lavinia before I can make her a Champion. Maybe, even before her Class Day.
+
+She knew it deep inside that that was Aurelianus's threat. He wouldn't hurt Lavinia, but he would get her out of the way, together with Fausta if it came to it.
+
+Her shoulders sagged, not in defeat but in conviction. She turned, lifted the parchment once more, and began to copy the clause in a trembling, meticulous hand. When she finished, she tucked the new copy inside her bodice—close to the faltering thud of her heart.
+
+If he gets a male heir, nothing will change. But if he doesn't get at least one more child from me…
+
+Fausta was a lawyer. If she wanted to, she could dump the potion onto the lantern, fight the internment in the Sanatorium. She could just try to, at least. She'd be at risk; Lavinia, too. But she had enough strength to postpone the internment for long—she knew she could.
+
+But was she ready to bear the risk of it? Was she ready to get up from the bed to defend herself and her daughter?
+
+She looked at her skeletal-like body, at how depleted she was, how her sickness, which came more from the soul than the body, had consumed her. And she reasoned that there was no way she still had that in her.
+
+How?
+
+How could she fight?
+
+Why would she?
+
+It would be almost impossible to fight, Fausta looked at her pale hands, at the almost translucent skin on her forearms. No, this… this is good enough. I just need a little more time.
+
+Fausta took the potion and held it against the lantern, looking at some gold flecks in it.
+
+She didn't want to do this, she didn't want to conceive again against her will. But… the alternative…
+
+The frail woman shook her head and closed her eyes, uncorking the small piece of glass and bringing it close to her mouth.
+
+But maybe… She hesitated, looking around the room, and bringing the potion down to her side.
+
+She was isolated, she was alone.
+
+Sure, she had Adriana, but she couldn't ask her to go to war with her, could she?
+
+Fausta brought the vial back to her lips but then paused again.
+
+She wasn't sure she had it in her to become someone she wasn't, to give Aurelianus another child—or to try, at least.
+
+The old me would have stabbed him in his sleep, the bastard, she smirked to herself, but then she looked down at her wrecked body and felt a tear coming down her face. I'm not that person anymore.
+
+Fausta tipped the vial—and poured the potion into her throat.
+
+* * *
+
+Lily knelt in front of the rabbit.
+
+Its quick breaths shook its little body. Yet behind her, the pig started crying. It was so loud—deafening really, but no one else seemed to be able to hear it when Lily turned her eyes to them.
+
+She squeezed her eyes shut. Two heartbeats thudded inside her mind: the rabbit’s light and fast, the pig’s slow, weak, and heavy. They pulled her in opposite directions, and for a moment she couldn’t move.
+
+Gentiliana’s hand settled on Lily’s shoulder.
+
+"Darling?"
+
+Lily opened her eyes. The rabbit looked up at her, nose twitching. She nodded once.
+
+Warm Mana stirred in her chest—soft, steady, like water starting to boil. She guided it down her arm until pale light glowed around her fingers. The pig bellowed again; the sound broke against her back like a wave, but she held her focus.
+
+Slowly, Lily laid her shining palm on the rabbit’s injured paw.
+
+* * *
+
+Lavinia panted heavily as her vision swum. The bottom half of her face was completely covered in blood. Her ears rung from the last blow she had taken, but all she cared about now was the boy on the ground, with a large stab wound in his abdomen.
+
+“Lavinia Aemilia!” The referee said, going to the girl and raising her hand high while a [Healer] lazily waved his hand over the boy and restored him to full-health.
+
+Lavinia felt a wave of healing washing over herself as well, allowing her to breathe normally again. She must have had at least one broken rib. She had broken a few before during the brutal training her tutors put her through; they didn’t like training a girl and had always worked her much harder than anybody else, hoping she’d drop it. But the only thing that the brutal training had accomplished was turning her into a ruthless warrior.
+
+The redhead saw the upset boy starting to argue with the referee the moment he got up, babbling something about her being a girl, a lucky blow, or whatever.
+
+Her eyes roamed the bleachers.
+
+Up until the last moment, she had hoped that her father would show up.
+
+But he was nowhere to be seen.
+
+If he had been anywhere close, Lavinia would have—
+
+Suddenly, the redhead felt two strong hands raise her in the air.
+
+“Honey, that was amazing!” Came the booming voice.
+
+“Dad?” Lavinia’s eyes sparkled.
+
+“I took some time off,” Aurelianus said. “I didn’t tell you because I wanted you to focus. You did… amazing.”
+
+The little girl tightly hugged her father’s neck.
+
+“You know, only Lucianus managed to do something like this in our generation,” Aurelianus said, praising his daughter.
+
+Lavivnia’s heart swelled with pride. She had worked so hard, just so hard to get here. Her mother was constantly bedridden and her father on military duty. Finally, she was getting the recognition that she had craved so hard.
+
+Aurelianus brushed one of her daughter’s red locks and smiled almost sadly.
+
+“It’s such a pity you’re not a boy, honey.”
+
+* * *
+
+Fausta regarded the empty potion with a sigh.
+
+Everything was going to be fine.
+
+But then, on the same hand that held the potion, she saw a black vein appear.

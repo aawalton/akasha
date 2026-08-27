@@ -1,0 +1,133 @@
+---
+id: 65fe4fd2-981c-5afa-9eae-0486c047df7f
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 22"
+slug: 0181-b3-chapter-22
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 181
+ownLength: 1962
+unit: words
+ownProgress: 1962
+publishedAt: 2024-07-11
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1714107/b3-chapter-22"
+royalRoadId: "1714107"
+markedReadAt: "2026-06-29T19:11:52.362Z"
+---
+
+OrisThree Decades Later
+
+Lyra Nightshade shivers as she says, “Why the hell did we decide to visit this world again?”
+
+“Because the place is cheap and easy to earn coin in,” her brother, Arthur Nightshade, answers her. Meanwhile the other three people in their group simply nod their heads, used to Lyra’s complaints.
+
+But Lyra can’t help but complain. After all, she was outvoted four to one in their group.
+
+And the last place she wanted to go to was the frozen hellhole of a planet known as Oris.
+
+Even if the Hunter’s Spots on the planet are free for anyone with a hunter certification from the Eternal Dynasty to hunt in.
+
+She moves her hands up and down her arms despite the heavy coat she’s wearing over synthetic armor as the group walks through the mining and Hunter’s Spot town, her purple hair tucked in her hood. Meanwhile she peers out of her hood with her two glowing purple cat-like eyes, her pupils narrowed into slits with the woman wanting to be anywhere but here.
+
+But they keep moving, passing by the occasional rare person, each of whom are also bundled up heavily as snow falls down around the various huts making up the town and the mining equipment.
+
+She doesn’t say anything else despite her discomfort. Especially since the group has already gotten quite the haul from the trip, and it’s only the third day of hunting here.
+
+The group continues walking through the town until they arrive at a cave whose entrance is completely frozen over. A cave that quickly splits off into over a dozen tunnels, each of which split off further into more and more branches while going both down deeper into the ground and up into the mountains.
+
+“We’ll be heading to the Sixth Tier of the Frigid Caverns today, alright guys?” Arthur says, making everyone mumble their agreements while puffing out a visible breath of warm air amidst the cold.
+
+As they pass through the tunnels and caverns, all of which are frozen solid, they slaughter one mana creature after another while occasionally passing by miners mining away at some of the special icy minerals within the Hunter’s Spot. The most common reason for miners to head to Oris in the first place.
+
+Amongst the monsters are creatures such as wendigos – large humanoid creatures with stark white skin, glowing blue claws and eyes, and a mouth full of razor sharp teeth capable of tearing human flesh to shreds – and yetis – even larger humanoid creatures but with fur instead of bare skin. They also kill off several wolves whose fur is as white as the snow outside and breathe ice through their mouths, spiders made out of nothing but ice, and even some frost salamanders that breathe out water so cold it freezes a person upon contact.
+
+While they march from one Tier of the Frigid Caverns to another, they occasionally stop to mine the ore located around it where there aren’t other hunters or miners already mining. They also store the corpses belonging to the mana creatures in their own storage rings to make sure they’re preserved and able to be brought back to the town.
+
+Because amongst the mana creatures, the yetis and wolves furs make great resources, same with the fangs and especially the claws belonging to the wendigos. Then the spiders’ frozen carapace, and the scales of the frost salamanders sell for a good amount as well.
+
+Making the entire Frigid Caverns a wonderful place to earn coin in.
+
+However, most people rarely ever come despite that. Largely because Oris is one of the coldest planets in the universe, and it takes its toll on those who come.
+
+It’s always snowing year-round, no matter where on the planet one may be. And there are precious few settlements scattered across the world, with every last one being a simple town set up around the Frigid Caverns on the planet.
+
+But despite the hellish terrain, the world is an Alpha Tier world. So it is a popular hunting spot for the highest tier and most experienced hunters to hunt in.
+
+Even then though, the majority of the hunters who arrive are all the best of the best or those with a natural resistance to the cold. Like the small number of natives to Oris. Those who are naturally resistant to the cold.
+
+Lyra is not one of those though, and she is dreading every second she’s been on this planet. Even if she knows she’ll be overjoyed with their haul after they leave the place.
+
+Their fourth day in the Frigid Caverns passes slowly with the group occasionally drinking a red drink that sends a wave of heat through their body. The only reason their bodies can tolerate the cold on the planet.
+
+The magical Potions of Warmth.
+
+Warm Pots for short.
+
+At least for Lyra, who enjoys calling them that.
+
+They’ve quickly become one of her favorite drinks in the entire universe despite the woman being over two thousand years old and having traveled across dozens of worlds over the years.
+
+Even if they’re rather expensive.
+
+Eventually they reach their final destination. A large cavern at the end of the Sixth Tier of the Frigid Caverns.
+
+But what they find there confuses them more than a little bit. Since the sight that greets them isn’t the massive frost drake lying down and sleeping as they’ve come to expect from the intel they’d gathered. Instead it’s of a massive frost drake panting in exhaustion while letting out whimpered whines and small roars as some sort of smoke rises out of its mouth and a faint crimson glow comes from its body.
+
+The group share a confused glance before focusing on the frost drake. But the creature doesn’t even pay them a hint of attention other than a short glance.
+
+Not until they all draw their weapons and step forwards, deeper into the cavern. And even then, all the creature does is try to stand up on wobbly legs, only to fall down again. Then it appears to fail to breathe its usual ice breath attack that would freeze the entire cavern at them.
+
+“Okay, what’s happening here?” Lyra can’t help but ask.
+
+The others just shrug.
+
+They continue walking further into the cavern, spreading out into their usual formation. With Lyra standing front and center with her two blades held out in a ready stance, her brother on the opposite side of the monster with his own two blades – the two of them using the fighting style taught to their people. Meanwhile Argent stands behind Lyra, ready to heal anyone who gets injured, Bishop stands close to the back of the cavern with his staff ready to cast spells, and Lucy stands with nothing but a book in her hand far too close to the monster for Lyra’s tastes. But she knows how Lucy fights, so she doesn’t say anything. Since it’s best for her that way.
+
+The group watches the drake seemingly act strangely sick for a while before sharing a glance and beginning to rush in.
+
+Only for a strange sound sort of like a muffled explosion to echo from within the creature’s body, with a puff of smoke shooting out of its mouth.
+
+Then the creature flops down, lifeless to the ground.
+
+Silence fills the cavern for a while, with the group ready to attack at any moment.
+
+But nothing happens. Not for an entire minute. Then three. And after five entire minutes pass in silence, the group finally begins to move up towards the creature.
+
+And it isn’t until that moment that they start to hear the strange fleshy movement sound coming from the drake’s body and immediately tense up. Then they spot the small movements coming from within its stomach heading towards its throat.
+
+“Something’s coming out! Get ready for combat!” Lyra shouts, her soft and high pitched voice echoing throughout the cavern.
+
+They stand tensely for several more seconds before the movement to turn into a bulge in the thing’s throat. One that slowly works its way to the creature’s mouth until the group starts to hear muttering. Along with a meow.
+
+Lyra blinks in both surprise and confusion, sharing an odd glance with her brother on the other side of the creature before refocusing her attention on it.
+
+Then the strangest sight she’s ever seen occurs right in front of her.
+
+Ten fingers reach between the drake’s jaws and begin pushing the mouth open with some struggle, finally letting them understand the previously inaudible mutterings inside the creature.
+
+“That was a very unpleasant month… and Shirogane was probably rather bored during this time too,” a calm yet rather irritated sounding female voice comes from within the creature’s mouth. Then a meow follows after it. “I don’t think I want to come back to these caverns again after this trip. Let’s find a new world.”
+
+Another meow follows.
+
+The group grows more and more confused until the hands finally just give up trying to open the monster’s mouth, its sheer weight proving too much for her.
+
+And right when Lyra is beginning to wonder if she should help out whoever – or whatever – is inside the drake’s mouth, an explosion blasts open the drake’s mouth without actually damaging the drake. Shooting a beautiful woman covered in stomach fluids and partially frozen solid with half of her body dead to frostbite despite recovering at a visible pace straight out to splatter against a wall. Then the woman – under the shocked eyes of every member of Lyra’s team – slowly peels off of the icy wall and falls to land flat on her back on the ground.
+
+Lyra gets a better look at the rather filthy-looking girl – stomach fluids and all – and she can’t help but feel surprised by what she sees.
+
+The woman is beautiful despite the filth, with long white and silky hair, glowing crimson eyes, and – in the places where she still has skin – flawlessly spotless and smooth-looking skin. She’s wearing some sort of high tech outfit clearly designed by the Rex Dynasty with a crimson and black color scheme. An outfit that is somehow unscathed despite the damage she’s clearly regenerating from.
+
+And without any struggle, the woman just climbs to a sitting position before beginning to wipe herself off while muttering, “Damn, no easy way to clean myself off this time…” The cat that Lyra is only now noticing was blown out of the creature’s mouth along with her meows. “Yeah, guess we’re stuck going back to that frozen lake in the Fifth Tier to clean up before we go.”
+
+Lyra feels her mind blanking out at the sight she’s watching, having long since lowered her weapons at the scene in front of her.
+
+The woman eventually just gives up at wiping herself off with her hands and just waits for the strange crimson energy on her to burn off more of the bodily fluids. Then she climbs to her feet and stretches a little before turning around, only to wave at Lyra’s group.
+
+Lyra for some reason finds herself idly waving back, following which the woman casually walks over to the drake’s corpse before putting it in her undamaged storage ring and begin to walk out of the cavern.
+
+Uncaring of the frostbite that is still healing on her. To the point that it’s fully healed, and the woman looks as good as new by the time she leaves the cavern.
+
+And the group of confused hunters.
+
+“What… did we just see?” Lyra mutters, but the others in her group just stare blankly in response.
+
+None of them knowing how to respond to that.

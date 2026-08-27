@@ -1,0 +1,139 @@
+---
+id: 9e0fbf74-ccb2-5dfa-8bf4-1aaa1cedc765
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 50"
+slug: 0360-b5-chapter-50
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 360
+ownLength: 1332
+unit: words
+publishedAt: 2026-08-14
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/3815305/b5-chapter-50"
+royalRoadId: "3815305"
+---
+
+Aria
+
+The time for the exhibition matches finally comes, leading both me and my parents back to Eternus for the show. Where we arrive at the largest set of stadiums I’ve ever seen in my entire life.
+
+And that’s saying something considering how I’ve been to the Crucible.
+
+The tournament itself is located in a pocket dimension on Eternus. One filled with thousands of stadiums. All surrounding one massive stadium that is used as the main stadium.
+
+I arrive in a large VIP booth for all of the exhibition bracket fighters. Where I find two unexpected faces waiting by the grand looking throne meant for me.
+
+Uh…
+
+I begin looking around briefly for escape routes, only to remember that I can’t leave since I agreed to participate in the exhibition bracket.
+
+Little Blue and Ruby both just smile an unreadable smile at me as my parents and brother quickly make their way to their own thrones. Seemingly planning on watching and enjoying the spectacle they’re about to see. Without even trying to hide it.
+
+Traitors!
+
+They’re absolute traitors!
+
+What happened to their attempts to win over my favor?! Why do they decide to betray me now?!
+
+Ruby and Little Blue just continue to smile at me, with their smiles growing ever so wider as Little Blue snaps her fingers. Making someone enter the room with a cart full of papers.
+
+But as if that wasn’t enough, another person follows the first with another cart. And then a third.
+
+I stare blankly at the two and the paperwork. Then another brief thought about escaping crosses my mind.
+
+“If you try to escape, I will stop my brother from supplying your café with Atlantean wine,” Little Blue says, threatening me into freezing instantly.
+
+“You… you wouldn’t!” I exclaim as my eyes widen into saucers.
+
+She just stares at me and nods her head to the paperwork.
+
+I grit my teeth, only to see more of the Grands arriving in the booth. With some of them looking amused at the sight of me struggling.
+
+Well, damn.
+
+My next skill better be some sort of cloning skill. Or maybe even telekinesis or something that I can…
+
+Wait a second…
+
+A grin begins to spread across my face, surprising the others in the room. Then I walk up to the throne, sit down, and begin experimenting.
+
+I push out both death energy and soul energy to make little barely tangible wisps in the forms of tentacles that I move towards the pens. And after some struggle learning how to sign with them, I manage to figure it out.
+
+Nice!
+
+So just like that, I sit back on the throne while using the tentacles to sign the paperwork for me.
+
+Little Blue and Ruby stare blankly at me for several seconds before they both shake their heads in exasperation while sitting down on the seats next to my throne. Seemingly not questioning it at all.
+
+Then again, those two have long since been used to my actions. So unlike some uncultured people, they’re never surprised by the things I do anymore.
+
+Ryan is the same as well.
+
+I let out a yawn as I sit on the chair looking out over the arena down below. Meanwhile I head chuckling from the other Grands. Including my parents and brother.
+
+And after a while, Ryan walks into the room as well before laughing out loud at the sigh of the tentacles made of death energy and soul energy signing documents for me. Then he eventually sits down on a throne by his sister while still laughing.
+
+I ignore his laughter as I wait for the exhibition branch to be announced. Which takes a couple hours. At which point I hear a loud voice echoing through the stadium amidst the roaring audience.
+
+“Welcome, one and all, to the Eternal Championships!!!” a voice I don’t recognize shouts. “To those of you here in person, congratulations on receiving one of the few tickets available! I’m sure it must’ve been incredibly difficult to obtain! And to those of you watching online? Better luck next year at getting a ticket, but I’m sure you’ll have a blast watching nonetheless!”
+
+I yawn as I continue dealing with the paperwork.
+
+“But before the Eternal Championships get underway, we will be having our regular exhibition bracket!” the MC continues as I finally catch sight of the man. With the man himself seemingly being one of those darkblood humans. A human subspecies with black blood that drinks blood from other creatures that aren’t human to survive.
+
+The subspecies isn’t very common, and it’s generally considered a mutation. Not a native of a planet.
+
+There are some similarities between where they’re born though.
+
+Generally the darkbloods tend to be born on darker planets with black suns and a limited supply of plants on the planet.
+
+Although there is a growing nation of them out in the universe that is backed by the Eternal Dynasty. But the nation itself is still very small and doesn’t even cover an entire planet.
+
+The darkbloods are a rather unusual mutation. Since they don’t drink water or any food. Only blood.
+
+Also, it’s only blood from animals that aren’t humans. So they can’t drink from any other creature.
+
+No bugs, fish, mana creatures, or anything that isn’t a nonhuman animal.
+
+On top of that, they are a little stronger than regular humans physically. And they’re immune to poison.
+
+The darkblood has no visible differences between them and a normal human besides their black blood and bright crimson eyes.
+
+Overall, they’re a rather unique mutation. So a lot of people treat them like spectacles to gawk at.
+
+No one discriminates against them though. If anything, they’re treated as celebrities in a lot of nations.
+
+Which probably contributed to why the commentator for the Eternal Championships is a darkblood.
+
+Anyway, the commentator himself – who has been speaking as my thoughts drag on – continues in a louder voice than before, “The brackets that you all have been waiting for will begin in ten minutes! The first match of the exhibition match will be between the Horseman of War and out very own Emperor of the Eternal Dynasty, Shirou Amatsuraki!”
+
+Roars of applause echo throughout the stadium at his declaration. And if I’m being honest, I can’t help but feel interested in seeing this upcoming battle.
+
+I’ve seen War fighting multiple times, along with most of the other Grands.
+
+But I have never once seen Amatsuraki fight.
+
+Ever.
+
+Not in person and not through a video.
+
+In fact, most people never get to see him fight. After all, he tends to just lay out the future as he wishes it through his little prediction powers. All so he never ends up actually fighting.
+
+He didn’t even fight in the last Eternal Championships from what I’ve heard.
+
+I wonder how this fight will end up…
+
+The commentator continues speaking, but I ignore him as I think about the upcoming battle.
+
+I wonder just how this battle is going to end up. Considering how polar opposite the two Grands are.
+
+War is a very aggressive fighter who throws caution to the wind and doesn’t give a damn about stamina since stamina isn’t a thing for him. What with his skill making his stamina infinite so long as he’s fighting.
+
+Meanwhile Amatsuraki is very passive in every one of my interactions with him. He also seems to just take the most efficient route every chance he gets through his future prediction powers. Whatever those may be.
+
+One defaults to fighting while the other defaults to anything but fighting.
+
+It’ll be an interesting bout regardless of what happens.
+
+I feel the corner of my lips quirking upwards at that thought before two flashes of light shine in the booth ten minutes later. One crimson and one white. Leading to another flash to appear in the arena where the Horseman of War and Amatsuraki both appear.
+
+Time to see how he fights.

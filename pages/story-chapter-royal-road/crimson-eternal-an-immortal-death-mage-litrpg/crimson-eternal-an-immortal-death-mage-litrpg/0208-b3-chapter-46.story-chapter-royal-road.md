@@ -1,0 +1,125 @@
+---
+id: 7f889393-c8a1-5169-b702-02f25353cb6b
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 46"
+slug: 0208-b3-chapter-46
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 208
+ownLength: 1504
+unit: words
+ownProgress: 1504
+publishedAt: 2024-09-23
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1816564/b3-chapter-46"
+royalRoadId: "1816564"
+markedReadAt: "2026-06-29T19:12:48.221Z"
+---
+
+Aria
+
+The guy repeatedly tries one thing after another in an attempt to get me off of him, but I stick on without letting go thanks to that lovely sticky thingy that Shirogane gave me. Something about needing it to climb things.
+
+I kinda doubt he ever thought I’d use it like this, but that doesn’t matter.
+
+After five entire minutes of shouting and throwing me around like a ragdoll or even breaking my bones and burning me to cinders, the man seems to change up his tactics. He flips me around so that I’m facing him, still with my palm to his chest burning through with my black flames.
+
+Then he tries to pull me in for a kiss, crushing me against his chest in a very awkward position seeing as my hand is placed there blocking my own chest from getting near him. Thankfully.
+
+Seriously? Are you really trying to do that?
+
+Then again, I’ve had my hand placed on his chest for five minutes now…
+
+I let out a sigh before going ahead and drawing a sword, making him pause for a second in surprise. But instead of attacking him like he’s no doubt expecting, I just cut off my arm and casually begin walking away while stretching my other arm a little.
+
+Something I learned while in the Spire that’s rather convenient.
+
+I can choose to delay a part of my body from returning for a short period of time, and I can choose how I regain the body part as well. Whether the arm will regrow on my body, whether my body will be drawn to my arm, or vice versa.
+
+And during the time I wait, I can still control my arm to a degree.
+
+Hence the black flames still burning his chest despite me standing a few meters away now.
+
+He glances at me, then at my arm, then at me again. And the look on his face is just priceless. So priceless I have to cover my mouth with my other hand to stop myself from snorting in amusement.
+
+“What the hell are you, lady?!” The man whose name I don’t even know shouts, any and all of his previous flirtatiousness having clearly been thrown out the window in the place of fear and anger. “And what are you even doing?!”
+
+I blink at him before tilting my head slightly, ignoring the crimson energy very slowly snaking out of both ends of my severed shoulder as I answer, “Burning you?”
+
+Should be pretty obvious.
+
+He opens his mouth to respond, only to close it again.
+
+I knew this guy was messed up when he tried to force me into an intimate kiss to get me to stop, but he clearly can’t see what’s happening in front of him if he’s asking that.
+
+“No, I mean, why are you bothering to burn me with such a weak flame?! It’s barely even singing me even after this long!” He shouts. “And how are you even still alive?”
+
+The man proceeds to ask one question after another as I stand here, trying to hold myself back from yawning at the boredom this is causing. But for him to get his just deserved punishment served, I need to stand here for a bit longer.
+
+I doubt I’ll be able to kill him. I ran out of explosives in the Spire, and he’ll no doubt leave after he realizes he can’t heal the damage caused by my black flame.
+
+So might as well just let him continue asking pointless questions for a little while.
+
+While we wait, my arm draws me back to it, reattaching itself under his confused gaze. Until I cut it off again before he can try kissing me again. Because yuck.
+
+I have no interest in swapping spit with someone. It’s just gross.
+
+Why people find that interesting is beyond me.
+
+Anyways, the man tries one thing after another to get me to stop burning him. But I can clearly tell he’s being arrogant since he’s not even thinking about trying to heal his burns. All he’s doing is trying to catch me and make me uncomfortable.
+
+Almost makes me wish I could use that item to make his own feet stick to the floor or something to get him to stop. Because it really is making me uncomfortable.
+
+It’ll be fine after I finish though.
+
+He’ll have to live the rest of his life with a severe burn on his chest, never to be healed.
+
+A perfect punishment for everything he’s done here.
+
+After half an hour of playing tag with him, even resorting to using my Death Spirits to keep him from catching me by literally piling them all on top of myself, we’re interrupted by a portal opening up nearby. Then another portal. And through one of the portals steps some man wearing white robes, while through the other steps a knight captain from one of the Grand Silvanian orders of knights.
+
+Of course, both look incredibly confused when they walk in on us. Much less the soldiers behind them who look even more confused.
+
+Then again, all of this idiot’s soldiers ran away long ago since he was attacking them just as much as me. So I wouldn’t be surprised if this guy has some sort of reputation.
+
+Putting that aside though, the asshole looks like he’s in clear pain as he shouts at the guy in the white, priestly robe, “Heal me! And get this psycho away from me!”
+
+That would be my cue to leave.
+
+I quickly order my Death Spirits to pick me up and run away as fast as they can in the direction of the knights. Which surprises everyone here, but the priestly guy and the guy I was burning both focus their attention on healing the burns.
+
+It doesn’t take long for me to feel that my hand was burnt to a crisp again, following which a new one grows out of my arm wrapped in crimson energy that soon fades. But it doesn’t matter.
+
+I just let out another yawn as I stare up at the sky, letting my Death Spirits charge through the city streets while carrying me in a large crowd.
+
+Well, that was unpleasant. But I managed to test out Death’s Judgment and punish the guy in the process.
+
+Honestly think that was the closest I’ve been physically with another person in years. Much less the opposite sex.
+
+Unfortunately a necessity when I’m burning him.
+
+I glance downwards in the direction of the asshole when I hear a loud roar of anger echo from over there. A loud roar that I proceed to ignore as I look upwards again, truly believing the knights won’t just let that asshole through them to chase after me.
+
+Well, now that I have some experience using Death’s Judgment, I can try using it on people of my own level. And mana creatures. When I find non-golem mana creatures, that is.
+
+He may have been annoying, touchy, gross, wildly stronger than me, and perfectly happy killing his own people, but he made a perfect test subject for it.
+
+Let me do whatever I wanted to test the skill in his arrogance, and I didn’t have to worry about him dying on me. Or worry about the aftermath of using Death’s Judgment on him making it unhealable.
+
+It might also get my other goal accomplished for me. The goal of getting the word out there to the universe about my ability to deal out permanent, unhealable damage.
+
+Maybe it might make people think twice before chasing after me to capture me.
+
+Of course, it could also backfire and make people wanna chase me more. But I think the former is more likely.
+
+After all, who would want to risk permanent harm to themselves just to capture me? Permanent harm that can never be healed.
+
+At the very least it’ll drive away people who are anywhere near my level.
+
+People who are thousands of levels above me probably can’t even be damaged by the black flame with the level difference though.
+
+I glance to the side at the people I’m passing by. Some of whom are knights, others enemy soldiers or priests from some random holy empire, and others paladins. Then there are the citizens, merchants, and travelers, and pretty much anyone in the capital at the time of the attack.
+
+And lots of them are staring in confusion as my Death Spirits carry me past.
+
+So I simply nod my head sternly in their direction before staring up at the sky again. A sky that is completely blocked out by a bunch of fighting spaceships and knights in armored suits.
+
+After staring at the war in space for several seconds, I let out a sigh and mutter to Asher who is riding on top of me using my chest as a pillow while staring at my face, “This is going to be a loud next couple decades, isn’t it?”

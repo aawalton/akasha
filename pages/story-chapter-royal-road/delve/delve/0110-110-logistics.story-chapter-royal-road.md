@@ -1,0 +1,435 @@
+---
+id: a0b8717b-c58c-53f7-8222-dd8731e5362f
+page-type-slug: story-chapter-royal-road
+title: "110: Logistics"
+slug: 0110-110-logistics
+partOf: delve
+position: 110
+ownLength: 5700
+unit: words
+publishedAt: 2020-08-30
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/546548/110-logistics"
+royalRoadId: "546548"
+---
+
+Rain sat cross-legged on the ground near where Tallheart was working, his hands hovering above his keyboard. A terminal window floated in front of him at a comfortable height. Now that he’d built the components, he could use them for whatever, in this case, a text editor. Manually adding things to a panel took effort and concentration to bend the system to his will, while typing was practically effortless. It was faster, too, thanks to the fact that his macros still seemed to run at soul-speed. In fact, he’d had to add delays to some of his scripts to get them to work properly in the real world, but that was neither here nor there. He had a more serious issue to deal with.
+
+Company Names:
+
+(Before Kettel names it something stupid)
+
+(Where is Kettel, anyway?)
+
+Unity?
+
+Sounds like a cult.
+
+Tarny would be thrilled.
+
+Delvers’ Guild?
+
+Too close to the ‘Guild’ guild.
+
+Maybe just “Delve”?
+
+It’s a little on the nose…
+
+Cleaning Crew?
+
+Haha, I crack me up.
+
+No.
+
+The Hunters?
+
+Sounds cool…
+
+Not very accurate…
+
+A little generic.
+
+The Band of the Falcon?
+
+No.
+
+Just no.
+
+Ascension
+
+I think this is the first one I like.
+
+The organization will be about raising people’s levels and stuff, so.
+
+Also, I’m serious about that airship.
+
+How do they not have airships?
+
+Sky pirates when?
+
+Should it be in English, or Common?
+
+The words are similar, and so are one or two others, for that matter…
+
+Sidenote: Why?
+
+The ancestor of the Guild and the Watch was called the Majistraal Ascensi Guildum. Sounds vaguely Latin. Coincidence?? Ancient Roman isekaied through time? Possible thermae connection? Todo: investigate bathing technology.
+
+…
+
+Nobody is going to get that.
+
+Ahem.
+
+Why did I type ahem?
+
+Todo: build proper word processor. I need bullet points. It keeps losing all the indenting. I also need to get the panel to reflow text properly when I resize it…
+
+Todo: transfer todo list from notebook to system.
+
+Add priority and sort…
+
+ah-HEM!
+
+The Federation?
+
+Has the right moral framework
+
+Pro: No copyright lawyers in this world.
+
+Con: I would still know. I’d feel like a hack.
+
+The Culture?
+
+Same problem.
+
+Justice?
+
+Hmm. No, anyone who calls themselves ‘Justice’ isn’t just. Hey, that wasn’t bad.
+
+The Tallheart Fanclub
+
+His reaction would be hilarious. Also, I can never show anyone this list. They’d think I’m bonkers. Sidenote: is there a way to make system panels visible to others?
+
+Slimeco
+
+Lamest thing ever
+
+Auras R Us
+
+I stand corrected
+
+The Nameless
+
+Oooooh. Edgy.
+
+The Null Set
+
+Groan.
+
+Math Club
+
+No.
+
+Zero
+
+Actually, this one’s pretty good. Nice and simple.
+
+Uplift
+
+Similar to Ascension. I think I like Ascension Better.
+
+Ugh!
+
+I should literally just call it “Ugh!”, including the exclamation point.
+
+Naming things is hard.
+
+“Rain,” Tallheart said. “I require your assistance.”
+
+Rain looked up from the window, glad for the distraction. He’d come back to this later. “Sure, Tallheart, what’s up?”
+
+“Mmm,” Tallheart said, gesturing to Smelter: Version 2.0.
+
+“Sure, one sec,” Rain said. He got to his feet, wincing at the burning in his muscles. He’d been pushing his body hard, and the effects of his soul damage were still there, leaving him stiff even after a brief rest. He took a minute to stretch, pondering Tallheart’s work from a distance as he did.
+
+Tallheart had been collecting metals for a while now, amassing a modest stockpile in the Lee. His collection had really started to grow once he’d entered the city. Smelter: Version 1.0 had seen heavy use as Tallheart made trip after trip into the swampy ruins of Fel Sadanis, bringing back cups, forks, belt buckles, horseshoes, and more. All of it had gone into the melting pot to be liquefied, purified, and cast into ingots. Late last night, however, the overworked Heat Cryst that allowed the smelter to function had finally given up the ghost. Mlem had come to the rescue, acquiring more Crysts by bartering with the other survivors, though his help had come with a hefty price tag.
+
+Instead of just replacing the Cryst in the old smelter, Tallheart had broken the whole thing down and reforged it anew. He did this using Heat Steel that he created with the Crysts Mlem had gotten him, much as he’d created Dark Steel when he’d made Rain’s armor. Needless to say, Rain had a few questions, but he’d respected Tallheart’s desire to work in silence.
+
+He had the feeling that the cervidian smith was already on edge, being in a crowded human city. The evacuation was moving at the speed of politics, and it looked like they would have at least a few more days to prepare. Perhaps as much as a week if the DKE didn’t get their heads out of their collective asses. That being the case, Rain had set up some wooden partitions to give the smith a little relief from the prying eyes of the city, forming something of a compound for their company near the south gate.
+
+It wasn’t a perfect solution. Even now, Rain could feel people watching them. He sighed and returned his focus to inspecting Tallheart’s latest creation, putting the paparazzi out of his mind as he walked over.
+
+After only a day, the new smelter was almost twice the size of the old. Rain thought he could probably fit inside it, even wearing his armor. It looked basically like an oblong oil tank, with three valves on each side, and one larger one at one end. The other end was fitted with a slanted hopper, clearly the intake. The entire thing was held up by four stout legs that would allow a fire to be set beneath it.
+
+It certainly looked impressive, especially as Tallheart had somehow forged the thing perfectly in half a day, with not so much as a hammer mark to mar the pale crimson metal. What it didn’t look, was mobile.
+
+“Well?” Tallheart asked.
+
+“It certainly looks good,” Rain said. “Much more rugged than the last one, and the multiple spouts will let you pour off different things without changing filters. The one on the back is for waste?”
+
+“Mmm,” Tallheart said. “Yes. The Asshole.”
+
+Rain almost choked. He stared at Tallheart, then broke out into uncontrollable laughter when he saw the satisfied smile on his face.
+
+“It is my own design,” Tallheart said as Rain struggled to get a hold of himself. “But I have based it upon the work of my uncle. He was the smith in our village, and while he was not awakened, he was quite skilled at his craft.”
+
+Rain’s laughter died, the knowledge of what had happened to Tallheart’s family putting a damper on his mirth.
+
+“I do not remember him well,” Tallheart continued, his tone casual, “but I do remember the argument that he and my mother had concerning the naming of this particular feature.” He turned the valve, showing Rain how it could be opened.
+
+“What were their names?” Rain asked cautiously. “Your uncle. And your parents.”
+
+“Mmm,” Tallheart said, closing the valve again. “My mother was called Imbara, and her brother’s name was Ogara. My father was Oakheart, and I am named after him. His side of the family was more traditional.”
+
+“Will you tell me about them sometime?”
+
+Tallheart nodded. “I will.”
+
+“Thank you. I’d like that.”
+
+“Mmm,” Tallheart said. “So, now that you have inspected the smelter, what problems do you see?”
+
+Rain shrugged. “It doesn’t look like it’s going to be easy to move, for one.”
+
+Tallheart rumbled in agreement. “Yes. I will build a cart of steel, or perhaps modify a wooden one. The smelter will sit atop it with a firepan beneath, so I may work as we travel. I will need to bring my anvil as well, and a stockpile of metal. I will make a… Hmm… A forge-wagon.”
+
+Rain grinned. “Good name, Tallheart. That sounds awesome!” Maybe I should ask him to help name the company.
+
+“Mmm,” Tallheart said, sounding pleased. “There is a problem. There are no horses in the city. I could pull it myself, but we will be traveling through snow. Leverage and traction will be an issue. Leverage is always an issue.” Tallheart tilted his head. “I was thinking of the vehicles of your world. I hoped you could help.”
+
+“Oh, yeah, um…” Rain scratched at his beard. Tallheart was right; the weight was going to be a problem. Vanna had come up with a plan to use sleds for most of what they’d need to bring with them, but that wouldn’t work for Tallheart if he wanted to travel with something like the massive smelter. Rain wasn’t about to tell him to just make a smaller one.
+
+Suddenly, an image popped into his head, and he grinned. No, we can’t go smaller. We’re going to go bigger. He had to stop himself from cackling with glee. “Okay, we’re building a tank.” He deliberately didn’t translate the word. It would only cause confusion.
+
+Steam power? Hmm. Maybe, but it could be fiddly figuring out a throttle and everything. I’ll think about it. The treads are the key thing. It isn’t going to just be a forge-wagon, it’s going to be an all-terrain forge-wagon. Tallheart’s a beast; he can just pedal it if he has to. Do they know about gear ratios? They must. Ooh, this is gonna be metal as FUCK.
+
+Rain was already hopping from foot to foot in excitement. “Right, let me go get Staavo. He’d kill me if I don’t bring him in on this. Just…make steel. Lots and lots of steel. I’m going to need paper... Shit, and someone who can draw.” He looked around. “Hey, Jamus!”
+
+Warm, sticky muck squished through Ameliah’s toes as she splashed down onto the bottom of the riverbed, high walls of earth rising on either side of her. Her feet were bare, and she was covered with mud from her slide down the bank, but she didn’t let it bother her. She could feel the power of the earth flowing through the soles of her feet, the passive skill Rooted promising to boost any Earth magic that she chose to cast and to prevent her from being hurled away by the force of the spell.
+
+She walked along the bottom of the river, headed north toward the barrier. While Fel Sadanis was on flat ground, there was clearly enough of a slope to matter when it came to the resting point of the water. For most of the city, the river had remained content to stay within its banks, that being the lowest point. Past the northern wall, however, enough water had drained away to leave the riverbed exposed. Correspondingly, to the southwest, a small lake had formed against the barrier where the river had overflowed.
+
+Ameliah ceased pondering the geography of the situation as she reached the barrier. Before her, there was a wall of churning water smashing into the invisible dome, rising many times her height. Some unknown Earth Mage had built a stone barricade to divert the river to the east—she could see the edge of it pressed up against the barrier, the melted look of shaped stone clear to her eyes. That’s the first thing that needs to go.
+
+Reaching deep into the ground, Ameliah activated a series of metamagics. She began to chant a string of pseudo-sensible syllables, concentrating on the pattern required for the spell she wanted. Earth magic was slow, with the more advanced spells having a lengthy cast time, but it was powerful. She’d spent a significant portion of the day yesterday in meditation, re-creating one of her former builds that focused on the element. She had more power at her fingertips now than she’d had for years, as she was at rank ten in most of the spells. The downside was that there was little progress to be made.
+
+“Break,” Ameliah said, completing her chant. With as much as she’d boosted it, Break Stone’s effect was more like an explosion, blasting fragments of rock and a torrent of water high into the air. The spectacle was lessened slightly by the lack of sound, being on the other side of the barrier, but Ameliah had already started chanting her next spell.
+
+She walked right up to the barrier near the eastern bank, lowering herself into a wide stance as she felt the magic form a connection to the bones of the Earth. “Intrusion!” she shouted when she finally finished the long string of nonsense syllables. She thrust her palm upward and pushed with her legs, guiding the column of stone as she called it from the depths. Intrusion was high-tier magic, and her mana plummeted faster even than the stone rose. It was worth it to avoid wasting hours shaping and hardening the earth with lesser spells. The river was mighty, and building a barrier that could resist it the right way would take significant time and effort, especially now that it had dug itself a new channel.
+
+Ameliah cursed as she was launched upward, having been clipped by the rising pillar of rock. I might have miscalculated slightly. There was a shock of cold water and a sudden blast of sound as the stone carried her through the barrier. It stopped rising, but Ameliah kept going, her momentum sending her flying high into the air.
+
+Redirection! Wait, shit! She flailed her arms, trying to stabilize her flight. She’d gotten used to having the spell and had tried to use it instinctively, despite having removed it last night. Below her, water roared as it crashed into the stone she’d called, not dissimilar from the one that formed the Lee, though not even a quarter the size. Ice screamed as it fractured, the pressure of the water backing up the river as it was forced to find a new path.
+
+Ameliah didn’t have much time to appreciate her handiwork; she needed to figure out how to land with a modicum of grace. Shit, what do I have? Oh, duh, Rock Pull.
+
+A sense of all rock in the area blossomed in her head, and Ameliah latched onto the largest piece around. Her trajectory reversed, and she barely had time to orient herself before she crashed into the tip of the stone pillar. Strength rushed into her, carried from the depths that this shard had called home before she’d so rudely jerked it to the surface. Her passives let her tap into that power, partially refilling her reserves and steadying her footing. This was one of the things that made high-level elemental mages so dangerous.
+
+Still, she was significantly drained. She’d have to hang around Rain for a while to recover the rest of her mana. She was never going to be as efficient about this as a real Earth mage could be. Nevertheless, the job was done. She stood triumphantly, perched upon the stone, resolutely ignoring the fact that she was thoroughly drenched.
+
+Damn, I forgot how good Earth Magic feels.
+
+She brushed her soggy hair out of her eyes, disheveled from the force of the wind. A quick blast of Purify cleaned her off, though it could do nothing for the cold and the wet. Her sodden clothes clung to her body as she peered down at the ground, and she had to resist the urge to set herself on fire to dry herself out. She’d called enough attention to herself already. She wasn’t worried about the Watch learning of her capabilities—they already knew, and had given her permission to do this—but still.
+
+A whirlpool churned below her as the momentum of the water tried to batter down her obstruction. As powerful as the flow was, it had no hope of victory, so it was forced to find a new path to the west. Water was rapidly soaking the snow that covered the ground, turning it to slush.
+
+She looked east toward Vestvall, then down at the channel that the river had carved, which was now draining. She’d have to fill it in somewhere, making a bridge that their expedition could carry their supplies across. Compared to what she’d just done, that would barely be an inconvenience. Piling up a hill of dirt would be no trouble, as long as it didn’t have to resist the water’s flow. It would be good practice of her finer control.
+
+She needed to get used to these skills again. Earth Magic was perfect for creating fortified camps, a necessity when traveling in a ranked zone. It was just her and Tallheart to protect the others, and without something like this, she’d end up sleeping on a sled all day, just so she could keep watch all night. Every night.
+
+Honestly, did Rain think this through at all?
+
+Freelord Samson Darr approached the wooden partition that Rain’s people had constructed. They’d blocked off access to the southern gate, setting up a private compound for their company. Apparently, the Watch had no issue with this, which wasn’t that surprising. Nobody sane would want to leave by the gate, not with the teleporter as an option.
+
+Samson smiled. I suppose that makes me insane, then.
+
+Passing through the narrow entrance, he paused to look around. There were crates of supplies everywhere, and a small group of workers was busy constructing…snowshoes, it looked like. Numerous Crystal Slimes were oozing through the mess. He watched as one of the slimes stole a fur-lined hat from a crate and started hauling it toward a small pile of other hats, just sitting out on the ground. None of the workers seemed to care.
+
+Huh.
+
+The cervidian—Tallheart, if the rumors had his name correct—was on the other side of the compound, hammering at a thick plate of metal atop an anvil. The sound of his hammer rang clear through the warm air. Next to the smith was a pile of metal scraps and a strange tank, perhaps for water. There was a fire burning under it for some reason.
+
+Samson laid a hand on the sword hanging at his waist. The blade was enchanted, but it was nothing special. It will be good to meet a proper smith. Later, though.
+
+Nearby where he was standing, there was an incongruously gaudy wooden desk with a woman sitting behind it. The desk looked like it had been stolen from some tasteless noble’s estate and dumped here. His mother would probably have had a fit, seeing it sitting on the dirt like that.
+
+Samson smiled. One day, he would raise his children to be true nobility, without the baseless pride that plagued his family. Even his parents were afflicted with it. Awakened though they were, Samson was confident that he had been far stronger than either of them even before his own awakening. They were all lazy, his parents and his siblings, both. They thought that they were inherently better than others simply because of their name and the history of their house. Samson was different. Samson had trained. He had made it through the Citizen’s selection process. He had earned his pride.
+
+Samson turned and headed for the desk. The woman seated there was thirty or so, wearing peasant’s clothes and a tired expression. She was busy writing something on a piece of paper, but she looked up at his approach. Her skin was light brown, and her hair was dark, pointing to some distant measure of Osaran ancestry. She had attractive features, if a bit strong, and they were hardly marred by the smudge of dirt on her cheek. Her eyes narrowed warily as she inspected him in return.
+
+Samson looked down at his own neatly pressed tunic. It was green, with understated gold trim. While it was plain, it made him stand out, given the type of people he saw in the compound. Hmm. I should get something more appropriate for travel.
+
+Hiding his frown, he nodded to the woman. “Hello. I am here to join.”
+
+She blinked at him, raising her eyebrows and setting down her pen. “Wow,” she said. “Really?”
+
+Samson smiled. “Yes, really. My name is Samson. I am an acquaintance of Rain. And you are?”
+
+“Vanna,” the woman said, still looking a little shocked. “You’re a noble?”
+
+“Freelord,” Samson said. The term meant a noble who had broken from their house, and it was often used as a slur, though to whom it applied, it was usually a badge of honor. The woman was still looking at him like he had two heads, so he elaborated. “My great, great, great grandfather was Amnestine Darr, and it is for him that I am honored to keep my name. The rest of them can go and rot. I would pledge my sword to this cause if you will have me. I am awakened, and I have been practicing the sword for my entire life.”
+
+Dearest mother is not going to be pleased. Fortunately for me, she and the rest bribed their way into the second group to Jarro. I wonder if they even noticed that I am gone.
+
+“Ah,” the woman said, adopting a businesslike expression. She put aside the paper she had been working on and pulled a different sheet from a drawer in the desk. “I’ll have to test you.”
+
+Samson blinked. Test me? I am not concerned, but do they not need awakened? Wait, does she doubt my word?
+
+“Name and age?” the woman asked, looking at him.
+
+Her name is Vanna. I must not forget. “Freelord Samson Darr, twenty years.”
+
+“Occupation?”
+
+“Swordsman.”
+
+“Class and level?”
+
+Samson paused. “Is it required for me to answer?”
+
+“No,” Vanna said. “But Rain wanted me to ask.” She gestured to the paper she was writing his information on. “You can just give me a range if you prefer, or we can skip it entirely.”
+
+What is the purpose of this? Does she think I will turn away? “Level five,” Samson said. “No class yet.”
+
+“Wow,” Vanna said, her eyebrows practically climbing into her hair. “I didn’t think you’d actually answer.”
+
+Samson smiled. “I am not afraid of people knowing my secrets. Let them come.”
+
+Vanna snorted. “Okay, now that’s more like what I expected.”
+
+“What is that supposed to mean?”
+
+“Sorry, sorry,” Vanna said, looking back down. “Okay, I’m going to skip down a bit, since we’re on the subject. Noble section, noble section…” She ran her finger down the page. “Ah, there we go.” She cleared her throat. “Would you have a problem taking orders from a commoner?”
+
+“Only if they are incompetent,” Samson said. “Rain is not.”
+
+She looked up at him. “Rain says he isn’t in charge until we have that stupid vote he wants, and I wasn’t talking about him. In general, would you follow orders from a commoner, even an unawakened commoner, if they were your superior?”
+
+“I—” He tilted his head. Hmm. I do not know. “I suppose it would depend on the person. I will not follow a fool.”
+
+“Fair enough,” Vanna said, making a note. “Are you a speciesist?”
+
+“What?”
+
+She gave him a level look. “How do you feel about cervidians?”
+
+Samson glanced at where Tallheart was working, then back at Vanna. “I cannot say that I have any strong opinions. I have never met one. I would never consider killing one because of the Empire’s bounty if that is what you are asking.”
+
+“Good. How about other groups. Are you a racist? Do you discriminate on gender, skin color, sexual orientation, religion, or any other arbitrary category?”
+
+“What is this?” Samson said, looking down at the paper. “Did you write these questions?”
+
+Vanna laughed, flipping it around so he could see. The top of the page bore the words ‘Rain’s Asshole Test, Version: …’ and then a series of symbols he didn’t recognize. “Well?” she said, turning it back around.
+
+“No,” Samson said. “Unless you count thinking that Bankers are greedy bastards and Guilders are reckless fools.”
+
+“Hmm,” Vanna said, making a mark.
+
+“Look, is Rain here?” Samson said. “No offense, Lady Vanna, but he knows me. Do we really have to go through all of this?”
+
+“Oh, ‘Lady’, is it?” Vanna said, snorting. “Just Vanna.”
+
+“I was only being polite,” Samson said.
+
+Vanna sniffed. “Rain!” she shouted suddenly. “Get over here!”
+
+“What?” came a voice from the distance. Rain’s head poked up from behind the pile of scrap near where Tallheart was working. Both of them were looking over. “Oh,” Rain said, waving. “Hey!”
+
+Samson watched as Rain started moving toward him. The Night Cleaner’s form was bulky beneath his black cloak, which was open to show that that size was mostly coming from his armor, though he was blessed with height. Compared to Samson, most people were. Rain wasn’t wearing his helmet, and his face bore a neatly trimmed brown beard that it had lacked the last time Samson had seen him.
+
+As he grew closer, Samson got a look at his eyes. He couldn’t put a finger on what he saw there, but something about his gaze was unsettling, perhaps its intensity. He detected no trace of the man’s rumored Aura of Fear, but he had no doubt that he could activate it if he so chose. The vision of Rain charging a howling pack of kin and burning them to a crisp with barely any effort popped into his mind.
+
+I would never have thought someone could make Aura Magic so terrifying. I have a long way to go.
+
+“Huh, he really does know you,” Vanna said. Samson glanced at her. She’d gotten to her feet and was standing beside him. He noticed that she was almost a hand taller than he was, but he swallowed his irritation. She looked completely at ease at the approach of a man that some called Death Zone, despite the fact that she was presumably unawakened.
+
+Samson turned back, finding himself staring up at Rain, who was almost upon them. If Vanna had a hand of height on Samson, then Rain had a hand of height on her. As he came to a stop, he practically loomed over the pair of them.
+
+“Hey Samson,” Rain said, offering him his hand to shake. “What brings you here?”
+
+Samson grasped Rain’s offered gauntlet, shaking firmly. With his added Strength, he was able to match the Night Cleaner’s firm grip easily. “I came to thank you again for freeing me from the Citizen, as well as to offer you my services.”
+
+Rain blinked, then a huge grin broke out on his face. His teeth were just as unsettlingly white as Samson remembered, and he had to fight to control his expression. They were like bones that had been bleached by the sun and polished to a mirror sheen.
+
+“Rain, I didn’t finish the test, but he seems okay,” Vanna said.
+
+“Good, good,” Rain said, still smiling. He looked at Samson. “So, you really want to join, huh? Not just the trip to Vestvall, but the whole thing?”
+
+“Yes,” Samson said, nodding. “If you will have me. I was impressed by your leadership in the Fells, and I see great value in traveling with you, wherever it may lead.”
+
+“What about your family?” Rain asked. “We didn’t get time to really get to know each other in the Fells, but I heard a bit about them from Lady Par. Just gossip, I’m afraid. If you know Lady Par, you’ll understand what I mean.”
+
+Samson snorted. He knew precisely what Rain meant. “Don’t worry about my family. They have already left for the DKE, and are probably licking Jarro’s boots already. I have no interest in joining them.”
+
+“Well, all right then,” Rain said. “Welcome to the company. We don’t have a name yet, but I’m working on it. I’m also overdue on setting out some official rules, but for now, everyone’s an equal, and the guiding principle is ‘don’t be an asshole.’ You probably figured that out from Vanna’s questions.”
+
+“Fair enough,” Samson said. He looked around at the workers and the slimes, both toiling away industriously. “How can I help?”
+
+“Hmm,” Rain said. “Maybe combat lessons? You’re amazing with that sword. Would you be willing to teach—hang on, one second. Act casual.”
+
+“What?” Samson said.
+
+Rain raised a hand as if to scratch his beard, but instead, he made the hand sign for ‘silence’, then the one for ‘wait’ as soon as his arm was in front of his body. Samson glanced at Vanna, raising an eyebrow. She looked just as confused as he was. Samson jumped, reaching for his sword as Rain suddenly burst into motion.
+
+“CONSTANT VIGILANCE!” Rain roared, cloak whipping as he spun unnaturally fast, trails of wind following his movements. His arm shot up, pointing into the empty air behind him. There was a startled cry, and Samson began to draw his sword as he realized that it had come from the empty spot that Rain was pointing at. Before he could complete the motion, an Osaran man wearing a black jacket popped into view. Samson recognized him as the adventurer that they’d rescued in the Fells.
+
+“Gods damn it, Rain!” the man said, laying a hand on his chest. “What the fuck?!”
+
+“Ha!” Rain said, lowering his hand. “How do you like the taste of your own medicine?” He snorted out a laugh.
+
+Samson slowly slid his sword back into its sheath. The…taste of your own medicine? What’s that supposed to mean? No, more importantly, what’s the Osaran doing here? He can become invisible? I suppose that explains how he got into the Fells…
+
+Samson looked closer at the man. He had dark hair in a ponytail, and there was a spray of tiny pale scars on his left cheek that he didn’t remember being there, almost like the man had been splattered by burning oil. Other than that, he looked in much better condition than the last time he’d seen him.
+
+“Bah,” the Osaran said, lowering his hand from his chest as he stared at Rain. “Did you hear me coming, or was it that skill of yours?”
+
+“The skill, of course,” Rain said. “Face it, Val, your days of sneaking up on me are done.”
+
+“Owned,” Vanna said.
+
+Rain clapped his hands sharply, raising one into the air with an immensely satisfied expression on his face. He laughed. “Perfect usage, Vanna. Just perfect. Much better than last time. Also acceptable would have been ‘wrecked’ or ‘rekt’.”
+
+Is that last one even a word? What is going on?
+
+“Anyway, Samson, this is Val. Val, Samson.” Rain gestured. “You’ve met him, Val, but you probably don’t remember it. He helped save your life in the Fells.”
+
+“Oh,” Val said. He stepped around Rain, offering Samson his hand. “I suppose I should thank you then.”
+
+Samson shook it firmly, nodding. “Don’t worry about it. So, you’re in this company, too, then?”
+
+“Naturally,” Val said. “We’re going blue hunting. You’d have to be an idiot not to be interested in that.”
+
+“Mmm,” Samson said, reserving his opinion. Rain was one thing, but this Val was the walking embodiment of the adventurer stereotype. I should talk to Rain about enforcing some discipline in this company of his. This could get out of hand quickly, depending on how many adventurers are involved.
+
+Rain nodded. “Anyway, Val, did you want something, or were you just coming over to say boo?”
+
+Val shrugged. “I just wanted to see what a noble was doing here.”
+
+“Joining,” Samson said. “We were just discussing what I could do to help.”
+
+“About that,” Rain said. “I just had an idea when we were talking about the Fells.” He glanced at Val before looking back at Samson. “No, we’re not sneaking in there. It hasn’t gone up in level, and anyway, Bartum says the Watch has it locked up tighter than the Bank vault. I was just thinking that the rest of our party from that delve might want to come. Samson, do you think you can go find out?”
+
+“Hmm, I doubt Arlo and Rina will be interested. Bosco might be, perhaps. I can ask. Breggeh has already left for Jarro, according to Kettel. I spoke with him this morning, and I know that he already intends on joining.”
+
+“Where did you see Kettel?” Rain asked. “I’ve been looking for him. I heard from the Watch that, well… Anyway, I’ve got some yelling to do when I find him. One of the first things that I’m going to do is run a training course on how not to be a reckless jackass.”
+
+“I feel like you’re talking to me,” Val said.
+
+Rain snorted.
+
+Good. Perhaps I will not have to speak with him after all.
+
+Samson nodded. “I saw Kettel by the eastern stronghold. I wouldn’t bother going over there, though. He asked me if I wanted to go with him into the city to scavenge. When I said no, he and the rest of his group wandered off. I haven’t seen them since.”
+
+“And you just let him go?” Rain said, incredulous. “What group?” he demanded. “Who was with him?”
+
+“I am not his father,” Samson said with a shrug. “Some bronzeplates from the Guild. The only one that I knew was Mahria, and only because of her mother. Did you hear that—”
+
+“Yes, I know.” Rain interrupted. “When did they leave? Did you say this morning? Shit, it’s past noon, they… Shit!”
+
+“Where are you going?” Samson said, watching as Rain started sprinting for the exit from the compound.
+
+“Rescue mission,” Val said, grinning.
+
+“Yes, but not alone,” Rain said. He’d stopped almost as soon as he started. Samson glanced at Vanna, then back at Rain as he heard him sigh. “One pack of idiots trying to get themselves killed is enough. Vanna, please manage things here. Try to keep Staavo from bothering Tallheart too much once he gets back. I’m going to find Ameliah, or, if she’s not around, Bartum. I should be able to convince him to give us some help.” He beckoned, then started moving again. “Come on, Samson, Val, let’s go.” He slammed his hands together, his gauntlets making the collision sharp and loud. “Damn it, Kettel!”

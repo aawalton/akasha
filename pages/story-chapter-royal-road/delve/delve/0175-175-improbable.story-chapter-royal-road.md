@@ -1,0 +1,455 @@
+---
+id: 50b0982d-1966-5196-93c9-0e8ed5df504b
+page-type-slug: story-chapter-royal-road
+title: "175: Improbable"
+slug: 0175-175-improbable
+partOf: delve
+position: 175
+ownLength: 4748
+unit: words
+publishedAt: 2021-12-19
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/809053/175-improbable"
+royalRoadId: "809053"
+---
+
+Rain was torn out of his soul by Ameliah shaking him, and the importance of her news quickly banished the annoyance he’d felt at the violent awakening. The subsequent conversation lasted well into the night, only stopping when Tarny had come asking for a favor. The following dawn, it didn’t take much to convince Rain to keep them camped there a little longer. In fact, he’d insisted on it. There were discoveries to be made.
+
+Ameliah’s soul had clearly suffered from her white-knuckled attempt to stabilize it. When she’d managed to return—which had proven difficult—only the well and a tiny scrap of grass had remained intact, floating in an ocean of inky void, not unlike soulspace in the way the darkness swirled. The well was her core, they were fairly certain, and the water that pooled at its bottom was purified essence. Of chaos, there was no sign.
+
+Following Rain’s advice in lieu of whatever guidance her father had been trying to impart, Ameliah had managed to extend the island slightly. She’d done it by drawing water from her well, then changing it to earth. On her first try, too.
+
+As for Tallheart, his soul was more intact, still manifesting as the workshop Lilly had presumably built for him. She had yet to reappear to take the credit. Just outside the workshop was void, veiled from within by an illusion of a meadow. Tallheart’s void, like Ameliah’s, hadn’t come with any ground. It was fortunate, therefore, that the illusion had faded before he had unknowingly walked through the portal. None of them were sure what would happen if one of them were to fall from their island. It didn’t seem a good thing to test.
+
+Tallheart had a core too, of course: his forge. Upon further inspection, he’d found it to be more than had initially met the eye. It produced essence in the form of magma—as if the antlered smith’s metalness hadn’t already been beyond doubt. By hammering the molten essence into stone, he’d built himself a little platform to stand on out in the darkness. He, too, had no trouble doing this, though he’d been at it for longer than Ameliah had, thanks to his head start.
+
+Questions abounded, naturally, such as where their palings were in all of this, but the biggest one was the puzzle of the spirit guides. Their leading guess was still that they were simulations, constructed from the memories left in their loved ones’ minds. There was precedent for the system working that way, if only in name. In the lair that had swallowed Essed, ‘Memories’ had appeared, spectral remnants of fallen townsfolk. Given the similarities between lairs and souls, it seemed just as reasonable as anything else—souls called back from beyond, for example.
+
+Ghosts and disembodied spirits were no more than stories here, just as they’d been in Rain’s world. There were no resurrection spells, and Diviners couldn’t even talk to the dead, which—for a fantasy world—was just embarrassing. Opinions varied, but generally, most people believed that a dead person’s soul would either dissolve back into the world or make its way to one of the heavens or hells. Until Elric or Snowlilly reappeared, they wouldn’t be getting to the bottom of the mystery, and perhaps not even then. It was clear that whatever the system was trying to accomplish, something had gone wrong.
+
+One of the things Elric had said in particular had stuck in Rain’s mind. He’d told Ameliah that she was early. It could have been just another idiosyncrasy, some random snippet of a remembered conversation surfacing as a glitch in his memory. Just as easily, it could have been more than that.
+
+Burrik the Volcano supposedly had oversoul at high gold, as did Warden Vatreece and High King Kev at platinum. That spoke to soul manipulation, as not all golds had that aura of power surrounding them—Halgrave, for example, did not, nor did any of the Citizens as far as Rain was aware. For silvers, oversoul was basically unheard of. If you weren’t supposed to start messing with soul stuff until you were nearing platinum, it seemed plausible that Ameliah and Tallheart got broken, incomplete guides for the same reason that Rain got nothing at all. They were early. Some more so than others.
+
+Rain had other issues too, of course, but that was beside the point.
+
+Whatever the reason, they couldn’t camp forever trying to figure it out. They did have a little time, though. After returning with the lair’s accolade—an unexciting voucher for Heat Crysts—Samson had wanted to spend some time training the new awakened. They were enthusiastic too, of course, and it didn’t take much convincing to sway everyone else. Sore feet had needed a chance to heal, and Romer had been wanting to take Mlem’s Journey cart apart for a while now. It ran on runes and had been acting temperamental for weeks. While he didn’t pinpoint the problem before it was time to get on the road again, he said he was beginning to grasp how the magical cart worked in a general sense. That was amazing enough. Runic Intuition was no joke.
+
+Also no joke was the degree to which Tarny had thrown himself into training. He’d even earned himself a Val Award, puking all over his own boots sometime after midnight. Fortunately, that was nothing a little Purify couldn’t fix. The limiting factor for him wasn’t how much mana he could tolerate, as with the others, but how much he could use in the first place. He’d started with Summer, which consumed a pitiful amount.
+
+That’s where the favor he’d wanted from Rain came in. To earn himself that Val Award, Tarny had needed a little help. He’d needed Suppression. The aura’s brutal mana tax didn’t help its victim’s skills advance any faster, but it did help them earn class levels. The mana that it devoured counted for general experience. It was the same as how a person could spend stamina by running around—or health by getting their teeth kicked in.
+
+By the time true dawn rolled around, Tarny had managed to scrape together enough experience to jump straight to level two, using the skill points to unlock both Amplify Aura and Extend Aura. That would help, but it was still going to take him ages to unlock Fall. It would take five ranks each in Summer, Spring, and Winter. By Rain’s calculations, that would require a little over two months, unless Tarny learned to use spells while sleeping—no small thing.
+
+In two months, optimist-Rain said they’d be in Three Cliffs, making the rush unnecessary. Pessimist-Rain, on the other hand, said it would take them at least twice that long. They had about six hundred kilometers to cover, three times the distance between Fel Sadanis and Vestvall, with a group sixteen times the size, and without anything even remotely as convenient as a road.
+
+And so, though he was less than excited about spending more time in Aura Focus, Rain got them back on the road after only three days. Each night when they stopped, he’d work on the Tear, occasionally making trips back and forth from the Bastion for more essence. Ameliah and Tallheart kept working too, slowly exploring their own islands. Rain was happy for them, but he couldn’t help but feel a little bitter at their rapid progress. Things he’d struggled with seemed to come to them as easy as breathing. He blamed it on them being silverplates.
+
+Days passed, and kilometers rolled by. With the Codes sorted and his senses consumed by Aura Focus, Rain finally managed to justify the time needed to complete his Hobbit translation, much to the others’ delight. He started working on Fellowship as a matter of course, but didn’t mention it to anyone. He’d learned his lesson. Eventually, once he invented the typewriter, he planned to type out a copy of each, and several more books besides.
+
+Days became weeks, their speed improving as people grew more comfortable with Velocity and more fit in general. With stamina and health regeneration freely available to all, every day was leg day. The cost of all those gains was the depletion of their supplies, but hunting and foraging helped offset ravenous appetites. Still, Rain was constantly running the numbers, and in consultation with the logistics council, he decided that they would stop when they reached the plains. The awakened could hunt and gather while everyone else worked to replace hand-carried pallets with carts. That would speed up the crossing in the long run.
+
+Weeks became months, Promise becoming Expectation, then Sowing. The plains grew nearer day by day as the forest came alive with the spring. In all that time, there was only one notable incident. One day, when Rain had done his morning count, Detection’s ping had identified one more person than expected. He’d flown into action mode, thinking the Knives were trying to infiltrate the camp or something, only to discover that the new arrival was a baby. One of the Vestvallan women had given birth in the night, attended by her family, friends, Ameliah, and not one, but two awakened healers.
+
+On arrival, Rain’s panic had quickly turned to chagrin, then right back to panic as he was asked to bless the child. He…hadn’t expected that, nor handled it well. He managed some polite well wishes in the end, but not without a good deal of stammering, evasion, and general awkwardness. His friends were still teasing him about the whole affair. The mighty Death Zone, he who could slaughter monsters by the score without lifting a finger, but whose knees turned to water at an infant’s cry.
+
+More importantly, as the season wore on, Rain made great progress in his soul. He’d been making a point to sleep in there to take advantage of the speedup to essence generation, which had turned into a problem as the time acceleration factor improved. He found himself waking before dawn, unable to get back to sleep. Getting up to go hunting or to work around the camp didn’t help. His body would still feel groggy, despite the sleeplessness of his mind. As the pattern repeated day by day, it had reached the point that he felt physically exhausted all the time. Not mentally, though, which had been the key to working out what was going on.
+
+In a nutshell, Rain discovered that his body needed about seven real-time hours of sleep each night. Independent of that, his mind needed seven hours as well, but that was in perceived time. If he slept in his soul, his mind recovered faster than his body, leading to his symptoms. The solution was obvious: to leave his body slumbering while his mind stayed in his soul, awake.
+
+Awake, and Getting. Shit. Done.
+
+Naturally, his sleep schedule suffered, what with his mind and body operating on different-length days. He wasn’t about to stop, though. At a time acceleration factor of 1.6, 7 hours of physical sleep meant 7 hours of mental sleep plus 4 hours of wakefulness. That was a game-changer. With the extra time, he was actually able to outpace his essence generation. Waiting for the tanks to fill let him finally get some long-overdue work done on the Bastion itself.
+
+The discovery also shed light on something that had been bothering him for a while. It was a well-known fact that overstamina woke you up and gave you energy. However, abusing it to stay awake for extended periods was a bad idea, causing concentration problems, hallucinations, and so forth—classic sleep deprivation. From Rain’s revelation about the duality of sleep, it was now clear to him that whatever overstamina did, it affected the body only. Not the mind. It made zero sense biochemically—the brain being a part of a body and all that—but there it was. It was the same as his preternatural memory. Rain had moved past the belief that it was his meat doing the thinking a while ago—all of it, anyway. That might have been true in his old world, but it certainly wasn’t the case here.
+
+As for his physical progress, it was lackluster. Nonexistent, really, unless you counted Speed and Perception. Being carried was not conducive to improving, especially since he’d returned most of his accolades to Ascension’s armory. Even his progress on the mental side was less than he would have liked, owing to the need to keep a few points in Strength. So it was that as Rain clambered down from the infernal sedan chair one evening, his backside complaining after hours of remaining motionless, he couldn’t help but sigh at what he saw in his progress reports.
+
+Progress Report
+
+marker_1: sales_delving [3061 Promise 10 12:08]
+
+marker_2: bronze_peak [3061 Promise 29 08:00]
+
+Span: 18.8 days
+
+Skills
+
+Mental Ward: 1 -> 10 (+9)
+
+Tolerance
+
+Clarity: 200 -> 214 (+14)
+
+Speed: 7 -> 8 (+1)
+
+Progress Report
+
+marker_1: bronze_peak [3061 Promise 29 08:00]
+
+marker_2: no_more_chair_plz [3061 Sowing 25 18:22]
+
+Span: 60.4 days
+
+Tolerance
+
+Clarity: 214 -> 250 (+36)
+
+Attribute Buff: 268 -> 269 (+1)
+
+Speed: 8 -> 10 (+2)
+
+Synchronization
+
+Perception: 9.7 -> 10.0 (+0.3)
+
+“Why the sigh?” Tristin asked, arching an eyebrow.
+
+“Nothing,” Rain replied, waving away the dialogs. “Just wishing I could stop Aura Focus from blocking my senses. My physical training is taking a real hit. Also, I’m damn tired of that chair. Thank the depths today might be the end.”
+
+“Don’t complain,” said Fredek, the other appointed Rain-bearer for the day. He punched Rain’s shoulder in a friendly manner, the hit landing with a solid metallic thunk because of his passives. “We’re the ones who should be complaining. You’re as heavy as a full tun in all that steel.”
+
+Rain rolled his eyes. “Hardly. And don’t complain about free training.” He didn’t bother commenting on the punch. The Passivist—Rain still called his class that, for all the system had named him a Brawler—was plenty cautious with his strength around unawakened.
+
+Tristin yawned, scratching at his side as he glanced at Fredek. “We could try looping a rope around his armpits and tying him behind Dust.” He looked back to Rain. “A good drag would do you good, Captain. Let the townsfolk see your face bounce off every rock and tree root between here and Three Cliffs. Should solve that little hero-worship problem of yours.”
+
+Rain chuckled. “I’ve half a mind to try it, though, with my luck, it might just make it worse. Kettel would probably find some way to spin it. Anyway, I hope the point is moot. Hey, Tarny. Did we find the stream?” He nodded to his adjutant, who’d joined them in the midst of the conversation, wearing a polished aluminum breastplate under his cloak.
+
+“We did,” Tarny confirmed, pointing. “It’s down in that dell. The ground’s a bit marshy, so Vanna called a halt here. No clearings anywhere, but we can make our own. We’ll need the wood anyway. She and Mayor Graymond are already putting axe teams together.”
+
+Rain sighed in relief, barely even exaggerated. “You heard it here, lads. Looks like we’ve got our home for the next few weeks. I vote we have a party tonight to celebrate.” He kicked at the sedan chair roughly, making a loud crack as the wood splintered. “We can light this stupid thing on fire and dance around the ashes.”
+
+“Ha,” said Fredek, cracking his knuckles. “Maybe a little combat practice too?”
+
+Rain smiled. “How about a miniature tournament? Val and Lyn have both been bugging me. Who could have predicted that having so many fresh awakened about would get our resident dueling lunatics fired up?”
+
+“I like this plan,” Fredek said, grinning. “Break out the last of the beer, shall we?”
+
+“Hells yes,” Rain agreed, using the blade of his hand to strike the tops of Fredek’s shoulders in turn. “You are hereby promoted to Chief Party Officer. Use your judgment, and make sure you clear any big stuff with Vanna and Samson first. The beer is one thing, but we can’t blow through all our supplies in a single night.”
+
+“I’m honored, Captain,” said Fredek with a laugh and a mock salute. “I won’t let you down.” He turned, beckoning to Tristin. “Come along, Chief Party Assistant. We have work to do.”
+
+“I don’t remember agreeing to be anyone’s assistant,” Tristin said, following after nodding politely to Rain.
+
+Rain smiled, looking back to Tarny. “Where are Ameliah and Tallheart?”
+
+“Ameliah left to scout the edge of the plains from above before sunset. Tallheart’s looking for a spot to set up his forge, I think.”
+
+Rain nodded. “Good, good. Anything else I need to know before I go get myself an axe?”
+
+Tarny nodded. “I took Fall this morning.”
+
+“WHAT!?”
+
+Rain’s shout was loud enough to send a ripple of silence through the camp. He whirled on Tarny, flipping up his visor to reveal his incredulous expression. “Why didn’t you tell me!?”
+
+Tarny raised his hands, an amused expression on his face. “Sorry. I was going to, but you were busy having breakfast with Ameliah. I didn’t want to interrupt with the way you two were smiling at each other. Besides, it wouldn’t have changed anything. Here, see for yourself.” He reached into a pocket of his cloak, retrieving a folded sheet.
+
+Rain waved at the watching faces in what he hoped was a reassuring manner, scolding himself for his outburst as he took the page, then unfolded it.
+
+Fall - Rank 1
+
+Reduce entities’ need for food and water by 1%
+
+Cost: 1 mp/hr
+
+Range: 1 m
+
+Notes
+
+Power formula is linear (Amplify Aura works as expected)
+
+Hidden, unlocked by: Winter 5, Summer 5, Spring 5
+
+Rain sighed as he finished reading. “Damn. Twenty percent max with your current skills, probably. Once you get your class and take Channel Mastery, it’ll be 52%, and with Aura Focus, 156%, whatever the hells going past 100% will do. Even then, you won’t have the range to cover everyone at once. It’ll take the edge off, but it’s not going to get us across the plains on its own.”
+
+“As you say,” Tarny agreed, taking the paper back and slipping it away.
+
+Rain looked over the group, watching as people set about their various tasks. His eyes lingered on the crates, sitting atop their pallets. Many of them were empty, he knew. Reaching up, he lowered his visor until it sealed with a metallic click. “Tell Vanna that I won’t be helping with the trees today. Then go get Tallheart and ask him to join me. Ameliah, too, once she gets back.”
+
+“Captain?” Tarny asked, the confusion in his tone quickly replaced with excitement. “Does this mean…”
+
+Rain nodded. “Yes. It’s time.”
+
+Rain walked calmly through the Bastion. The makeshift hamster tubes had been replaced with corridors fashioned from stainless steel, carpeted, with clean fluorescent lighting set into the ceilings. Plumbing and electrical conduits were safely hidden, sandwiched between the inner walls and the outer shell. His hodge-podge of a space station had become something that would have made Starfleet proud. Or perhaps the Klingon Empire. Other than the aesthetically pleasing interior, it was all meter-thick adamant braces and overlapping plates of armor. Function before form. As it had been since the beginning, the Bastion had but one purpose. To endure. The patch he’d left at the Tear was even stronger, or so he hoped.
+
+A pair of white doors whisked open at his approach, closing behind him as he entered Dozer’s former habitat. It felt small to him now, preserved as it had been within the armored bulk of the station. The painted sky, the sculpted trees, and the soft grass did nothing to make the space feel less lifeless and artificial. Dozer was out there, not in here, waiting with Ameliah and Tallheart. The Bastion was strong, but it was also lonely.
+
+Sitting down beside Dozer’s empty bed, Rain leaned against the painted wall and closed his eyes as he shifted his mind into his core. Awareness of the station blossomed in its entirety. Gently, he slowed the intake fans, having two of them now. Enormous metal lids slid into place, blocking the shafts. Across the station, shutters closed over windows, blocking the view of the chaos. Internal bulkheads lowered themselves, segmenting the station as they locked into place. The light from the painted sky dimmed, fading to red. The low mechanical hum that had pervaded the station faded, leaving it as silent as the grave.
+
+He was ready.
+
+Rain opened his eyes, seeing Ameliah and Tallheart sitting cross-legged and watching him. Dozer was resting anxiously on Ameliah’s lap. Dusk had fallen, and they were in a tent that had been sewn together from failed parachutes, illuminated by the light of a lone candle.
+
+Slowly, so as not to startle anyone, Rain stood, removing his helmet. Ameliah wordlessly passed Dozer to Tallheart, then rose to help him. After much discussion, they’d decided that it would be safest for Rain’s soul to be under as little strain as possible when he advanced. That meant no armor. A thrill ran through him as the overvitals hit with the removal of his rings.
+
+Once he was down to his unenchanted Forceweave, Rain sat, accepting a cloak from Ameliah as she draped it about his shoulders. He caught her hand as she sat back beside him, pressing a metal plate into it as it formed. His Perception accolade, the only one he’d had equipped. She accepted it without comment, the metal vanishing moments later.
+
+Rain hesitated for a moment, then reached into the neck of his Forceweave to remove a crinkled envelope. He placed it on the ground between the three of them, then gestured, explaining in a soft voice. “In case I don’t come back.”
+
+Tallheart rumbled. “Humans. Always so dramatic. You in particular.”
+
+Ameliah smiled, removing her gauntlet before taking Rain’s bare hand in her own. “Sorry, but I agree with Tallheart. You’ll be fine. The silver evolution isn’t instant like bronze, but it’ll only take a few seconds once you make your selections. You’ll just get a notification of your new class name. That’s literally it.”
+
+“Danger magnet, remember?” Rain said, smiling and squeezing her hand. He reached out to Tallheart with his other. “Come on.”
+
+Tallheart grunted, then did something surprising. He twisted his left gauntlet sharply, pulling it free, then flexed his bare fingers. After a brief inspection and a low rumble of discontent—seemingly at the state of his fingernails—he took Rain’s outstretched hand firmly. His skin was warm. Callused, but not rough.
+
+Rain blinked, staring at their clasped hands. “I didn’t actually expect this.”
+
+Tallheart beckoned to Ameliah with his other hand. She smiled then reached out to take it, gauntlet meeting gauntlet with a clink and completing the circle.
+
+“If we must be dramatic,” Tallheart said, fixing Rain with an expressionless stare, “we should fully commit to the act.”
+
+Rain laughed, some small measure of his tension fading away. Dozer, clearly feeling left out, had oozed into his lap and climbed to his shoulder. Smiling, Rain nuzzled the slime with a cheek. “Okay. Here we go,” he said, looking up. “Wish me luck.”
+
+“I love you,” Ameliah said, squeezing his hand. “Good luck.”
+
+“Dramatic,” Tallheart said with a rumble.
+
+“I love you too,” Rain replied, staring deep into Ameliah’s eyes, then glancing at Tallheart with a smile. “And you. Like a brother, obviously.”
+
+Tallheart rumbled his amusement. “Thank you for clarifying that point. Now go. You have made us wait long enough.”
+
+Rain laughed, then closed his eyes as he called up his class selections.
+
+Select a Class
+
+High Worker (+)...
+
+High Warrior...
+
+High Mage...
+
+High Defender...
+
+Remedial Jack (+)...
+
+Remedial Scourge Beacon (+)...
+
+Remedial Warder Beacon (+)...
+
+Remedial Logistics Beacon (+)...
+
+Remedial Meta-Beacon (+)...
+
+Remedial Utility Meta-Mage (+)...
+
+High Dynamo (+)...
+
+Legendary Dynamo (+)
+
+Legendary
+
+Primary Requirements
+
+Dynamo
+
+All stat points invested in Clarity
+
+Secondary Requirements
+
+Recover at least 1,000,000 total points of mana
+
+Effects
+
+Personalized class name
+
+1,600% boost to the effects of Clarity
+
+Up to 5 specializations
+
+Notes
+
+Warning: Legendary classes have higher experience requirements
+
+Warning: Future attribute points may only be invested in Clarity
+
+Hidden class, revealed by meeting primary requirements
+
+Legendary Dynamo, he thought at the system, the decision made long ago.
+
+More text appeared.
+
+Select Specializations
+
+5 specializations are available
+
+Aura Metamagic [Selected]
+
+Defensive Auras [Selected]
+
+Magical Utility [Selected]
+
+Offensive Auras [Selected]
+
+Utility Auras [Selected]
+
+0 slots free
+
+Confirm?
+
+Confirm
+
+The text vanished. The panel shrunk as if it was going to vanish too, but then stopped, frozen.
+
+Um…is this normal?
+
+Just as he was about to open his eyes to ask, the panel expanded again, lines of text scrolling by almost too fast to follow.
+
+Errors Encountered during Class Evolution
+
+Direct Interface Unauthorized
+
+Existing Hybrid Interface Detected
+
+Hybrid Interface Boot Complete
+
+Hybrid Interface Mode: Non-Interactive [User-Defined]
+
+Debug Monitoring: Enabled
+
+Global System Link Active [Warning: Protocol]
+
+Scanning…
+
+Paling Integrity: 70% [Warning: Threshold]
+
+Soul Fragmentation: NaN% [Error: Scan Failure]
+
+Core Rank: 25 [Alert: Precocious Formation]
+
+Experience: Maximum
+
+Slack: 0
+
+Warning: Corrupted Natural Skill Detected
+
+Closest Template: Tame Monster [Error: Deviant]
+
+Attempting skill removal…
+
+Resistance detected
+
+[Error: Skill Removal Failed]
+
+Warning: Unexpected Structure
+
+Elaborating… [Error: Scan Failure]
+
+Integration unknown
+
+Composition unknown
+
+Origin unknown
+
+Integrity unknown
+
+…
+
+Multiple Errors Detected
+
+Extrapolating parameters using Bronze modeling…
+
+Calculating probable results of class evolution…
+
+Likelihood of paling breach: 100%
+
+Likelihood of core damage: 100%
+
+Attempting mitigation…
+
+Contacting guide… [Error: Not Found]
+
+Attempting recovery… [Error: Guide Template Not Found]
+
+[Error: Bone]
+
+An error that should never have occurred has occurred
+
+Consulting system administrator… [Error: Not Found]
+
+Attempting recovery…
+
+Failed
+
+[Critical Warning!]
+
+Total Dissolution of Entity Probable
+
+Continuing…
+
+Rain twitched in horror.
+
+Pardon me, WHAT?! Cancel, cancel, cancel! Abort! Ctrl+C! Damn it, SIGINT! SIGINT!!
+
+Significant Resistance Detected
+
+To avoid damage, class evolution may not be interrupted
+
+Silver Override Engaged
+
+Stop, damn you! STOP! STOP!!!!
+
+Extreme Resistance Detected
+
+To avoid damage, class evolution may not be interrupted
+
+Gold Override Engaged
+
+For thy temerity, may the Straal honor thee in the Depths Beyond
+
+Rain reeled as if slapped in the jaw by an excavator. The first override had not been gentle, but the second had been something else entirely. The system’s rebuke had obliterated his whole-hearted resistance as if he’d been no more than a gnat battling a hurricane. Finding himself unable to scream, he clung to his friends’ hands with all his strength as a crushing pressure settled around his soul. Deep within himself, he felt the Bastion groan at the contact.
+
+The system began to squeeze in earnest.
+
+Adamant bulkheads folded, beams snapping and grinding against each other as the station was scrunched in on itself like a ball of tinfoil. Rain couldn’t feel it when his paling ruptured for the third and perhaps final time, but the sudden cries of terror from outside the tent told him everything he needed to know. The pain should have been unimaginable, but to him, the fire shooting through his every nerve was depressingly familiar.
+
+“What’s happening?” Ameliah yelled as she scrambled in front of him and grabbed him by the shoulders. “Rain, talk to me!”
+
+He struggled to speak, clinging to her voice as he fought through the agony. An eternity passed, though it was really only a few seconds. Without warning, the pain vanished, leaving only a dull burn deep in his chest. He gasped, hauling in a lungful of air. At the same instant, the text resumed its frantic scroll.
+
+Evolution Successful
+
+[Error: Modeling Failure]
+
+Divergence: Extreme
+
+Scanning for signs of external interference…
+
+Minor interference detected:
+
+Entity - Dozer [Essence Slime (Unique)]
+
+Probable cause of skill removal failure
+
+Interference insufficient to account for modeling failure
+
+Resuming scan…
+
+No additional interference detected
+
+Modeling Failure: Unresolved
+
+Transmitting report to system administrator [Error: Not Found]
+
+Critical Error
+
+Hybrid Interface Terminated
+
+The panel vanished, giving Rain the briefest glance of Ameliah’s panicked expression before another dialog took its place.
+
+Evolution Complete
+
+Dynamo → Engine of Change
+
+[Level Up]
+
+Rain toppled forward through the dialog, dismissing it in the process. Ameliah cried out, catching him as if he was made of glass.
+
+“I’m…okay,” he gasped, clinging to her with considerably less restraint. The screams outside the tent had stopped. “I’m...okay.” I think...
+
+Shit, the Bastion. And my paling. I need to get in there.
+
+Calm down, Rain. Deep breaths.
+
+Tallheart rumbled, his antlered visage appearing as he leaned into Rain’s field of view. “As I said. Particularly dramatic.”

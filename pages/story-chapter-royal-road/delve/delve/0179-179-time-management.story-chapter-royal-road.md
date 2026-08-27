@@ -1,0 +1,431 @@
+---
+id: ab207ad1-4dca-5248-a601-5946ead2b58d
+page-type-slug: story-chapter-royal-road
+title: "179: Time Management"
+slug: 0179-179-time-management
+partOf: delve
+position: 179
+ownLength: 5396
+unit: words
+publishedAt: 2022-01-23
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/830084/179-time-management"
+royalRoadId: "830084"
+---
+
+After two subjective days of grueling soul work, Rain woke, had a quick breakfast with Ameliah, then left to freshen the camp and seek out Romer before either of them got caught up in something. He found the Runescribe picking up a large urn of ink from Myth. In the following conversation, he learned that the shininess of the liquid didn’t only come from Tel, but also from Arcane Crysts, though not as many of them. For Muffle runes, Romer needed Arcane-aspected ink, and that’s where Myth came in.
+
+Normally when Tel and Crysts were shattered—which took quite a bit of doing—they would dissolve away into nothing, much like the bizarre Telmetal alloy Tallheart had made once upon a time. It took an Alchemist to properly powder them and bind them to the pigments.
+
+The runes themselves were interesting too. Unlike the spell they were named after, and unlike the Muffler Tallheart had made for the forgewagon—currently quietening the steam engine powering the camp’s lighting—Romer’s runes didn’t dampen sound in an area. Instead, they blocked it, following the surface of whatever they were painted on. When multiple runes were used, they linked up with each other in some way that Rain didn’t understand, basically forming a shell of silence through which sound could not pass. This was a significant step up. Unlike with the Muffler, one could hold a private conversation inside the protected space without resorting to hand code.
+
+One caveat to all of this was that Mana Manipulation couldn’t charge runes directly. Specially-designed intake runes were needed for that, and while Romer could draw them, he hadn’t yet worked out how to link them to anything else. Until he figured that out, he and Tallheart would be the only ones able to recharge the Muffle formations via the Energize Runes skill. Myth’s ink was capable of holding enough mana to power a Muffle rune for a few days, so it wasn’t exactly a problem, but it did mean more Tel spent.
+
+Crafting was expensive. While it was true that Rain, Tallheart, and Ameliah had brought back a small mountain of Tel and Crysts from the depths, the company’s only real source of income right now was Dozer. Rain had several experiments queued up related to the slime’s money-conjuring, but as things stood, the tiny Essence Slime was only able to condense a dozen or so Tel in a day before he began refusing Rain’s mana. Unless that changed, there would simply be no way he could keep up with demand.
+
+Bidding Romer farewell—off to visit Tallheart and Staavo as his first customers—Rain went to find his adjutant. At his request, Tarny had collected a list of items requiring either the captain’s authority or his particular set of skills.
+
+First up was a quick meeting with Samson on the camp defenses, in which Rain learned that one of the hunting teams had encountered a crawler vine yesterday. He readily agreed with Samson’s suggestion that the teams be doubled up for safety, given the danger that the animate plants presented. Tallheart would be pleased to learn they were around, certainly, but for humans, there was no upside. They weren’t even monsters, somehow, so they didn’t drop Tel.
+
+The next item on Tarny’s list brought Rain down to the blasted area he’d created the day before. People had started referring to it as ‘the scar’, and the plan was to use it as a staging ground for the caravan. The far bank of the stream was abustle with activity, but Rain’s current task had him visiting Corrin and Clubbs, who were presently working on this side to deepen the stream and dry and flatten the surrounding land. As a Geomancer and a Hydromancer, they were both able to sculpt mud, using Earthmolding and Hydrodirection from the Earth Manipulation and Water Manipulation trees respectively. In speaking with them, Rain learned that the two skills seemed to synergize when used in tandem, becoming surprisingly efficient for this task. As promising as that discovery was for the future, it was still a large area they’d been asked to de-swamp, and that was where Rain came in. The moment he’d finished refilling their mana pools, however, Tarny pulled him away, off to the next item on the list.
+
+That turned out to be the authority-requiring kind, a meeting with Vanna and Mayor Graymond to discuss the plan for the caravan. Rain and Tarny crossed the stream, not using the partially constructed bridge Vestvall’s carpenters were working on, but simply wading across. Once the bridge was finished and the ground was dry, the entire camp would be moved to the far side, but for now, only the logging operation had been relocated. The second of Ascension’s two steam engines had already been set up to drive the table saw, and without a Muffler, it was making quite a racket. Shena was nearby, using her skills as a Woodsmith—Rain STILL couldn’t believe they called it that—to strip the bark from the planks the saw operators were piling beside her, straightening them while she was at it.
+
+The loggers weren’t why he was here, though. Vanna and the Mayor were up near the tree line, so Rain waded through the mud to meet them, leaving Tarny behind to use Fall on the collection of workers while the leaders spoke, because why not. The meeting, mercifully, didn’t take that long, with everyone being in general agreement on the plan and the path they’d take down to the plains. When it was over with, Rain slogged back to Tarny, cleaned the mud from everyone in range, recharged Shena, and then Corrin and Clubbs for a second time. Only then did he head back to the main camp, this time to see to a matter of justice.
+
+Yesterday afternoon while Rain had been out on his jog with Jamus, Smelt had been taking his daily inventory and had discovered a pair of enchanted aluminum longswords missing from the armory tent. He’d then gone to find Gardener, Rain being unavailable, and the Tracker had used Follow Trail to track down every single person who’d visited the tent since it had been set up, proving that Tracking skills were bullshit. The culprit turned out to be a Vestvallan grocer by the name of Larus. A search of his belongings had revealed the swords wrapped up in his spare bedroll.
+
+Larus, of course, had denied everything, claiming ignorance of how the swords had gotten there and that he hadn’t ever set foot in the armory tent. Never mind that Gardener was able to match the very boots the man was wearing to the tracks. Never mind that he’d been badgering Smelt to sell him one of the swords for weeks now despite being told that Ascension’s equipment was not for sale. Never mind that several people had seen him carrying an oddly-shaped oblong bundle through the camp yesterday during the party.
+
+The trial went quickly, ending with a confession in the face of the overwhelming evidence combined with some highly-effective looming. Larus, it turned out, wasn’t a total idiot, just the kind that thought stealing from the awakened who were helping you was a good idea and didn’t understand how Divination skills worked. He’d been well aware that there was no one out here to sell the swords to. His plan had been to carry them all the way to Three Cliffs, operating under the assumption that Rain’s Detection wouldn’t be able to sense the metal.
+
+That just left the question of what to do with him. Rather than slapping the thief with a fine for the cost of what he’d stolen—which was basically impossible to determine, as aluminum was unknown to the market at large—or lopping off his hands—which was suggested a depressing number of times by people who should have known better—Rain sentenced him to time out. Larus would be free to make himself useful, such as on the axe teams or the construction crews, but otherwise, it was imprisonment and basic rations only while he thought about what he’d done.
+
+…In a cage they’d need to construct specially for him, which was yet another thing to deal with.
+
+This wasn’t the first trial Rain had presided over since Vestvall, but it was the first that resulted in serious punishment. Unfortunately, it wasn’t to be the last, as bad things tended to come in pairs. With Larus handled, he now had to deal with the matter of Mig and Del, the two Aspirants who’d been tasked with securing the armory during the party. They’d abandoned their posts to join the festivities, allowing the theft in the first place. That was arguably the greater crime, given what was in there.
+
+All the enchanted aluminum equipment Tallheart had made. A considerable quantity of Tel and Crysts. Hegar’s sword and Anton’s bow, both still bound after all this time. More.
+
+Rain had only trusted Aspirants with the task in the first place for the very reason that there was no place for a potential thief to go. Clearly, he’d have to revise his policy.
+
+Using the codes as his guide, Rain fined Mig and Del in credits so heavily that they’d be paying it off for months, given the lack of potential jobs in an unranked zone. Even doing that much had been hard for Rain. Unlike Larus, he knew these two—liked them, even—but he couldn’t just let it go. He didn’t want Ascension to be a military company with strict discipline, rigid hierarchy, salutes, titles, and so forth, but neither could he allow it to be comprised of complete rabble. Discipline was a balance, and it was his job to ensure that it was maintained. Such were the woes of being in charge.
+
+Further woes followed, dozens of tiny things needing his attention, from arguing with the nobles, to reviewing scout reports, to hearing petitions. Most of the last were trivial, easily settled or delegated, but one of them stood out, meriting more consideration.
+
+Ujesh and Finn wanted to leave on a multiple-day monster hunt. It wasn’t the first time they’d asked.
+
+As a Tamer and an Arcane Shifter, respectively, both were struggling to advance. The only monsters they had easy access to were the Crystal Slimes the company had carried here all the way from Vestvall—and Dozer, technically, but he didn’t count, being bonded to Rain and thus immune to their skills. Ujesh could have easily bonded any of the slimes, but he hadn’t, not even one of the ‘Greater’ variety. Crystal Slimes had basically zero combat ability, and Tamer bonds couldn’t be revoked without a skill in a tier he didn’t have access to.
+
+Finn had a different problem. Arcane Shifters could inherently reacquire monster patterns, though they only had one transformation slot to start. Overwriting it basically meant starting over without any of the alterations you’d made to your form. That was a minor issue. The real problem was that being a Crystal Slime was apparently quite unpleasant.
+
+Finn had gone into great detail describing the claustrophobic lack of sight, the unsettling bonelessness, and the overwhelming urge to clean everything in…hearing. The echolocation and the difficult-to-describe full-body-taste-smell-sense were also problems. The total package worked great for Dozer, but for a human mind, it was a bit much, especially when you considered the transformation process itself. Feeling your skeleton dissolve while your skin sloughed off only to reform into the clear, gelatinous membrane that would contain your newly liquefied organs…
+
+Needless to say, Finn wanted something with a more familiar body plan. The trouble was finding it. Decently-leveled monsters weren’t unheard of in unranked zones, as Rain had discovered when he’d gone out to track down a murder-beaver, but they weren’t exactly hiding behind every bush and tree branch. Finn and Ujesh would have been over the moon to encounter anything as strong as a Skiffun.
+
+Generally, monsters outside ranked zones were aberrants, having spawned, gained some level of intelligence, then left to wander in contradiction of their instincts. It wasn’t likely that such a monster would mindlessly attack the caravan as a younger one might. They would be old enough and smart enough to know better. A smaller group, therefore, would have a much higher chance of being attacked, hence the request.
+
+After some discussion, Rain decided that the potential benefits outweighed the risks now that they were stopped, then authorized a five-day scouting and hunting expedition. He called for Ruce and Gardener—Diviner and Tracker—to go with them, to which they readily agreed, given the chance it would give them to practice their skills. To keep the four utility classes safe, Rain then recruited Lyn and Mahria, who’d been lazing about nearby and not doing anything productive. Six people was probably pushing it, but it was a damn sight better than eight hundred.
+
+Before they’d left, Rain had discreetly called Mahria aside, then gave her a pair of accolades for messaging in the case of an emergency. He hoped that by trusting her with the secret—minor as it was—she’d feel more closely bound to the company as a result. He also hoped that the responsibility would encourage her to take things seriously. He’d almost picked Kettel to go for a similar reason. Fortunately, he’d regained his sanity in time.
+
+Kettel, along with most of the other combat mages, had gone down to the scar for magic practice while Rain had been busy with the petitions. As soon as Rain was free, and before Tarny could appear with more work for him, he decided to head down there himself. There was something he wanted to see to on his personal to-do list, rather than the company’s. He didn’t need Kettel for that, though, but rather Nails.
+
+When he arrived, he found the Mentalist indeed there, but he was presently in combat, facing off against Delfina in a one-on-one duel. Val was supervising, and a bit of a crowd had joined the other mages to watch at a much safer distance. Rain surreptitiously inserted himself into the spectators—as surreptitiously as his height and recognizable armor would allow—then turned his attention to the combatants.
+
+Both wore leather helms, gambesons, and padded leggings. They had small aluminum bucklers held in one hand, leaving the other free for magic. Neither of them spoke as they circled each other, but that was hardly surprising, given who they were. Val was wearing a patient expression, watching with his arms crossed. His rapidly tapping foot gave away his real feelings on the standoff.
+
+From the equipment, it was clear what drill they were doing. The goal here would be to strike your opponent’s body, which was made difficult by the attractive force of the metal bucklers. It was less about raising skill levels and more about mastery of one’s domain.
+
+Seinfeld references aside, it was important training. Just as Ameliah could shove a Healing Word through metal armor someone else was wearing, a practiced mage would be able to keep the bucklers from disrupting their spells. It was easier for your own buckler—as long as you kept it away from your casting hand, that was—but to have any hope at all of getting past your opponent’s buckler, a spell had to be cast perfectly, with no environmental leakage whatsoever. The only way to do that was to practice until you had ground the skill’s mana pattern into your very soul. Or so it was said.
+
+In Rain’s case, such considerations were mostly academic. With all the experience he’d spent on skill trees, his soul was stronger than it had any right to be. Controlling things within his own domain wasn’t trivial, but brute force went a long way. Outside his domain, he didn’t need finesse either. Auras burned environmental mana, catalyzing it as they went everywhere and hit everything. If his spell patterns leaked, so what? It was just more fuel for the fire. And if there was any minor efficiency loss, again, so what? He was an Engine of Change. He oozed mana out of every pore just sitting there.
+
+Rain had obviously tried on and off to refine his own magic anyway, but it was more out of a desire to understand than for any immediate benefit. Unfortunately, he’d had little to no success. Mana Manipulation was a blunt tool, and the mana patterns Rain’s skills followed were both hellishly complicated and just stupid fast. It grew exponentially worse the more metamagic you threw into the mix. At maximum Focus boost, Rain thought that maybe, just maybe, he might have detected a few places where energy wasn’t flowing properly, but he still hadn’t been able to do anything about them. Hearkening all the way back to when he’d first tried messing with Purify in the Fel Sadanis Guildhall, any attempt to change a skill’s pattern resulted in its total collapse. There were probably several hundred to-dos on Rain’s list about the topic at this point. None of them, however, were high-priority. For people who needed to aim, it was much more important.
+
+Staavo, for example, could snipe a fly out of the air with an Ice Bolt so clear and razor-sharp that it looked like a crystalline dagger. When Mahria used the same spell, she conjured jagged bluish chunks, launched amid swirls of frost. Staavo didn’t have her levels, and with less metamagic boosting the spell, there was less energy to control, but that wasn’t the main reason for him being so much better. He’d literally been using the spell since before she’d been born.
+
+Without warning, Nails gestured with his free hand, pulling Rain out of his musing. A wispy cloud of pink energy shot toward Delfina, and Rain immediately placed the skill as Mental Blast, the only spell in tier-zero Psionics. He was intimately familiar with it, having tanked many a shot while training Mental Ward. The color was also a dead giveaway.
+
+The appearance of spells varied from person to person, and in rarer cases, so did their effects. Some, like Jamus, could nudge a spell’s color slightly, depending on their whims. Generally, though, each element had a color. Mental spells were some shade of pink, ninety-nine times out of one hundred. If the color bothered Nails, he’d never complained, not that the man ever complained about anything.
+
+Delfina darted left, her long black hair streaking from beneath her helmet as she raised her buckler to block. Despite beginning to curve toward the metal at the last instant, the shot still missed wide, streaking toward the watching crowd only to vanish upon reaching its maximum range. Delfina, meanwhile, had already responded in kind, jabbing a gloved hand at Nails with two fingers extended. Like liquid fire from a flamethrower, a thumb-thick orange beam lanced toward the Mentalist as he raised his own shield to block. Magma Ray was tier one, and while it had the same damage as the tier-zero Solar Ray, it was quite a bit slower. It was infinitely better at resisting metal’s pull due to the physicality of its image, though. This proved to be insufficient, the beam curving to strike Nails’s shield in the dead center.
+
+Rain let out a sigh of relief, only now realizing that he’d been holding his breath. Though it looked deadly, Magma Ray was probably the least dangerous of Delfina’s options in the context of training. Ray of Eclipse, for example, would have been a terrible choice. Burns could be healed, but the side effects of Dark damage were quite a bit more problematic. Even indirect exposure could result in loss of feeling and crushing despair that lingered for hours. Healing Word wasn’t designed to counter such things, and neither Mereck nor Tahir had advanced far enough as Healers to unlock any skills that were.
+
+The next minute or so devolved into a violent back-and-forth exchange, both combatants darting around flinging deadly magic at each other without uttering so much as a word. The only sound came from Val’s occasional callouts and from the crowd’s exclamations whenever there was a particularly close call. Neither Nails nor Delfina used anything other than the two spells they’d already displayed, as per the rules of the drill. Nails could have won pretty much instantly with a few casts of Bamboozle—a debuff that fired in a wide cone causing, well, bamboozlement—but winning wasn’t the point. Someone did win, though.
+
+The furious exchange ended when Nails failed to raise his shield in time and Delfina’s Magma Ray clipped the top of his helmet. Val immediately called a halt, though Nails wasn’t harmed in the slightest, likely having several Heat resistance rings tucked away on the hand behind his shield. Of the two, Delfina had been the one in more danger in this bout. Ascension still didn’t have access to Mental Crysts, so she would likely be using Strength rings to boost her health.
+
+Rain smiled, walking forward and thinking of how far Ascension had come as Val called the two combatants to him. As Rain drew nearer, he saw that Delfina looked like she wanted to run and hide. Out in public like this, having just won, and with Val singing her praises, she was in serious danger of shutting down completely. Rain increased his pace, arriving before Val could do anything stupid, like grabbing her hand to raise it in victory.
+
+“Rain,” Val said, laughing and greeting Rain with a wave. “These two have come a long way. We’ll make proper duelists of them yet.”
+
+“I’m glad you’re having fun, Val,” Rain replied, smiling easily. “Nails, Delfina. Good work. Both of you.”
+
+Nails nodded to Rain in silent acknowledgment, while Delfina looked like she’d like nothing better than to be curled up in a ball and rocking gently back and forth. However, after a moment, she surprised Rain by taking a deep breath, then meeting his eyes. “Thanks…” she mumbled before quickly looking away.
+
+Rain hid his smile. Progress. Can’t rush it, though. Clearing his throat, he turned back to Val. “Sorry to disrupt your training, but I need to borrow Nails for a bit. Are you done with these two?”
+
+“Except for the formalities,” Val said, motioning to Nails and Delfina. “Okay, come here. Bow, then thank your opponent for the duel.”
+
+Nails bowed, and a moment later, Delfina followed suit, though neither of them said anything. Val rolled his eyes, but apparently judged this sufficient. “Good work. Delfina, you can go. Nails, let’s see what the captain wants of you. Please tell me it’s a duel.”
+
+“Yes, but actually, no,” Rain replied, smiling as Delfina nodded to Val, then turned to walk briskly away. A brisk walk was quite a bit better than the terrified sprint he was expecting. She really was getting better with her social anxiety, as if the fact that she’d been out here at all hadn’t been proof enough. He turned to look at Nails. “It’s like a duel, in that I’m going to be standing here while Nails pummels me with magic.”
+
+“More Ward training?” Val asked. “Boring.”
+
+Rain wiggled a hand. “Yes and no. You up for this Nails?”
+
+Nails shrugged. “Sure. Need mana.”
+
+Rain tilted his head in acknowledgment, then activated Essence Well. “Don’t worry, I won’t drain you dry today.”
+
+Nails grunted. “S’fine. Getting used to it.”
+
+Rain grinned, dropping Essence Well. “That’s Sync for you.”
+
+“Right, have at it, then,” Val said, taking the aluminum shield from Nails and retreating toward the crowd. “Try not to break him. I’m just gonna go start the next match. Watching you fight anyone other than Ameliah is worse than watching grass grow.”
+
+Rain laughed, then slipped on his helmet as he adjusted his combat macros. He lowered his visor, then beckoned to Nails with his fingers. “Unmodded Mental Blast, please. I’m testing some defense settings related to timing, so please cast it on cooldown.”
+
+Nails nodded in confirmation, and without any further discussion, he raised a hand, wispy pink bolts streaking toward Rain one after the other, only to be swallowed by his thirsty armor.
+
+dmgnum.sh version 0.3.2
+
+Mental Damage Detected
+
+Saturation: +119
+
+Mental Resist: 8
+
+Original Damage: ~127
+
+dmgnum.sh version 0.3.2
+
+Mental Damage Detected
+
+Saturation: +89
+
+Mental Resist: 8
+
+Original Damage: ~97
+
+dmgnum.sh version 0.3.2
+
+Mental Damage Detected
+
+Saturation: +102
+
+Mental Resist: 8
+
+Original Damage: ~110
+
+Rain raised Mental Ward after the third shot. To make things simple, he used a helper script to set the power to 100% exactly. Mental Ward wasn’t like Force Ward. There were no issues with excessive mana consumption when trying for a full block.
+
+wardhelper.sh
+
+target = 100%
+
+Channel Mastery set to +0.016
+
+Mental Ward (10/15) Exp: 0/9,200
+
+Increase mental resistance by 100% for all entities
+
+Range: 32.8 meters
+
+Cost: 1.016 mp/dmg mitigated
+
+At the same time he activated the skill, Rain shifted his perspective, explicitly prioritizing the defense of his health first, saturation second, and mana third. Without making a mental effort, Mental Ward wouldn’t even trigger, his armor being perfectly capable of swallowing such puny attacks on its own.
+
+When the next bolt arrived, it struck a translucent distortion in the air, the energy dissipating like ripples on a pond. The effect was practically identical to that of Force Ward, only tinted pink. Rain let two more bolts strike, just as before. He’d calculate averages for all this later and compare them against the spell’s natural variation.
+
+dmgnum.sh version 0.3.2
+
+Mental Damage Detected
+
+Mana: -120
+
+Mental Ward: 100%
+
+Rate: 1.016 mp/dmg
+
+Mental Resist: 8
+
+Original Damage: ~126
+
+dmgnum.sh version 0.3.2
+
+Mental Damage Detected
+
+Mana: -111
+
+Mental Ward: 100%
+
+Rate: 1.016 mp/dmg
+
+Mental Resist: 8
+
+Original Damage: ~117
+
+dmgnum.sh version 0.3.2
+
+Mental Damage Detected
+
+Mana: -97
+
+Mental Ward: 100%
+
+Rate: 1.016 mp/dmg
+
+Mental Resist: 8
+
+Original Damage: ~103
+
+After three hits, Rain pushed Channel Mastery along the spell’s new, unfamiliar axis, urging Mental Ward to speed up. The skill card changed, showing a loss of efficiency, but there was no mention of a change in the tick rate as there had been when he tested this with his other auras.
+
+wardhelper.sh
+
+target = 100%
+
+Channel Mastery set to +0.270
+
+Mental Ward (10/15) Exp: 0/9,200
+
+Increase mental resistance by 100% for all entities
+
+Range: 32.8 meters
+
+Cost: 1.27 mp/dmg mitigated
+
+Interesting…
+
+dmgnum.sh version 0.3.2
+
+Mental Damage Detected
+
+Mana: -129
+
+Mental Ward: 100%
+
+Rate: 1.27 mp/dmg
+
+Mental Resist: 8
+
+Original Damage: ~109
+
+dmgnum.sh version 0.3.2
+
+Mental Damage Detected
+
+Mana: -142
+
+Mental Ward: 100%
+
+Rate: 1.27 mp/dmg
+
+Mental Resist: 8
+
+Original Damage: ~119
+
+dmgnum.sh version 0.3.2
+
+Mental Damage Detected
+
+Mana: -130
+
+Mental Ward: 100%
+
+Rate: 1.27 mp/dmg
+
+Mental Resist: 8
+
+Original Damage: ~110
+
+Okay, so speeding it up is a bad idea, as expected. How about the other way?
+
+wardhelper.sh
+
+target = 100%
+
+Channel Mastery set to -0.153
+
+Mental Ward (10/15) Exp: 0/9,200
+
+Increase mental resistance by 100% for all entities
+
+Range: 32.8 meters
+
+Cost: 0.8469 mp/dmg mitigated
+
+Cooldown: 1.2 seconds
+
+A cooldown? He raised an eyebrow. Now that’s new.
+
+dmgnum.sh version 0.3.2
+
+Mental Damage Detected
+
+Mana: -97
+
+Mental Ward: 100%
+
+Rate: 0.8469 mp/dmg
+
+Mental Resist: 8
+
+Original Damage: ~122
+
+dmgnum.sh version 0.3.2
+
+Mental Damage Detected
+
+Saturation: +123
+
+Mental Ward: 100%
+
+Rate: 0.8469 mp/dmg
+
+Mental Resist: 8
+
+Original Damage: ~131
+
+dmgnum.sh version 0.3.2
+
+Mental Damage Detected
+
+Mana: -101
+
+Mental Ward: 100%
+
+Rate: 0.8469 mp/dmg
+
+Mental Resist: 8
+
+Original Damage: ~127
+
+Rain smiled. So that’s how it works. Cool. And my scripts didn’t break for once. He raised a hand, motioning to Nails as the last strike fell. “That’s good. You can stop for a bit.”
+
+Lifting his visor so he could scratch his beard, Rain took a moment to think. Okay, so when I speed up the tick, it does basically nothing, which makes sense with how the system treats damage on the receiving end. If I slow it down, stuff can get through in the dead time, but each individual block is stronger. Lowering his visor again, he motioned to Nails. “Two more, please.”
+
+Nails nodded, then fired. The instant before the first bolt would have hit, Rain raised his ward, still configured with a 1.2-second tick.
+
+dmgnum.sh version 0.3.2
+
+Mental Damage Detected
+
+Mana: -100
+
+Mental Ward: 100%
+
+Rate: 0.8469 mp/dmg
+
+Mental Resist: 8
+
+Original Damage: ~126
+
+dmgnum.sh version 0.3.2
+
+Mental Damage Detected
+
+Saturation: +94
+
+Mental Ward: 100%
+
+Rate: 0.8469 mp/dmg
+
+Mental Resist: 8
+
+Original Damage: ~102
+
+Stronger block on the first, then no block on the second. So it’s a cooldown exactly like it says, not a channel time. Good to be sure about that. The system’s never lied to me, but it sure loves omitting stuff.
+
+Chuckling, he removed his helmet, then nodded to Nails. “Thanks.”
+
+“Welcome,” Nails grunted, beginning to turn away, but stopping when Rain raised a hand.
+
+“There’s one more thing I need your help with. We don’t need the dueling field for that, though.” He jerked his head back toward the camp. “Join me? We need to find Ameliah.”
+
+Nails nodded, removing his own helmet. “Okay.” His brown hair, which had been starting to thin when Rain had first met him, had recently been regaining ground. Awakening at work.
+
+After a quiet walk back to the main camp, Rain found Ameliah still in their tent. Unlike his morning, hers had been outwardly tranquil, as she’d elected to spend it working on her soul.
+
+Apparently, there were trees that needed fixing. He could sympathize.
+
+The Bastion was a mess, bad enough that starting over with the new image was starting to seem pretty attractive. It was on the back burner, though, as the patch holding his paling together was more important.
+
+Inviting Nails into the tent, Rain explained what he wanted, quietly so as to not disturb Ameliah. Then, he sat beside her and retreated to his soul to wait for Nails to send the time.
+
+Message, it turned out, didn’t have the same problem as the king-link when it came to time dilation, or rather, it did, but with an asterisk. Where Rain had expected Nails to sound like Treebeard on Valium, he’d instead gotten single words with long pauses in between. Each word was spoken at a normal rate—’What…do…you…call…a…three…humped…camel?’ and so forth.
+
+When Ameliah had helped Rain with this the last time, the time acceleration hadn’t been so extreme, so the effect hadn’t really been noticeable, nor nearly as annoying. Regardless, despite the new entries on Rain’s to-do list for determining how and why, the effect was welcome. It meant that as the acceleration continued to increase, inbound communication would remain possible.
+
+Once Nails transmitted the first number of the second time stamp, Rain calibrated his clocks, then took a moment to work out the time acceleration factor. It was 4.96x, roughly what he’d estimated before. Returning from his soul, he then had Nails send the time to Ameliah, prefaced by a warning that he was about to do so. She woke almost immediately after the final message to thank him, and not long after, Nails left, neither knowing nor having asked about what any of this was for. He was cool like that. In his shoes, Rain would probably have died from curiosity.
+
+The moment the flap closed behind Nails, Rain turned to pounce on Ameliah. She, knowing him all too well, smiled and stated a number before he could even voice the question. After a quick retaliatory kiss, Rain opened his interface to work through the math for the acceleration factor she’d given him.
+
+Time Acceleration = 1 + (Effective Clarity) * (Class Mod) * (Coefficient)
+
+Rain
+
+Time Acceleration = 1 + (470) * (17) * (496.1 μs/s)
+
+Time Acceleration = 4.96 s/s
+
+Ameliah
+
+Time Acceleration = 1 + (313) * (2.6) * (874.4 μs/s)
+
+Time Acceleration = 1.71 s/s
+
+Tallheart
+
+#todo make clock
+
+#todo rumble rumble rumble
+
+It turned out that Ameliah actually had a higher coefficient than he did in the underlying formula. The difference, they supposed, was probably due to her having been awakened for longer despite being newer to soul manipulation. Really, though, it could have been anything. Natural variation between people, the fact that she had never damaged her soul, her general awesomeness…on and on it went. Rain made sure to jot down some notes for later pondering.
+
+Ameliah, meanwhile, stiff and hungry, decreed that it was lunchtime.
+
+Rain banished his interface with a flick, deciding that this was a pronouncement of both great wisdom and discernment.

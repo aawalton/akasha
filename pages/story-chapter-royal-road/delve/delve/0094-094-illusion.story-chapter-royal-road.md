@@ -1,0 +1,497 @@
+---
+id: d770f66f-9060-5685-bbc0-02989955c5d1
+page-type-slug: story-chapter-royal-road
+title: "094: Illusion"
+slug: 0094-094-illusion
+partOf: delve
+position: 94
+ownLength: 6541
+unit: words
+publishedAt: 2020-05-10
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/494339/094-illusion"
+royalRoadId: "494339"
+---
+
+Hefty Maul
+
+Durability: 700/709
+
+Hardness: 142
+
+Material: Force Oak
+
+Mana Capacitance Rune
+
+404/3000 mp
+
+Import Efficiency: 100%
+
+Export Efficiency: 0%
+
+Weight Rune
+
+347% increase to mass, 57 mp/day
+
+Livingwood Rune
+
+Recover 10 durability per day
+
+Requires access to light, air, water, and nutrients
+
+Spark Lighter
+
+Durability: 38/44
+
+Material:
+
+Body: Iron Pyrite
+
+Striker: Arcane Flint
+
+Ambient Mana Rune
+
+1/1 mp
+
+Reduced Spark Rune
+
+Create a shower of sparks
+
+1mp/use
+
+Skulker’s Pigsticker
+
+Durability: 97/103
+
+Hardness: 129
+
+Material: Chem Steel
+
+Mana Capacitance Rune
+
+500/1000 mp
+
+Import Efficiency: 71%
+
+Export Efficiency: 0%
+
+Venom Rune
+
+Coat the blade with Bloodquill Venom
+
+Inflicts 13 chemical damage per second for 60 seconds
+
+500 mp/application
+
+Trickshot Bracer
+
+Durability: 204/205
+
+Hardness: 78
+
+Material: Arcane Leather
+
+Mana Reservoir Rune
+
+3420/5000 mp
+
+Trickshot Rune
+
+Allows the user to charge arrows with stamina to curve their flight paths
+
+10 sp/arrow
+
+Effect lasts 10 seconds
+
+40 mp/day
+
+Cycling Ring
+
+Durability: 18/18
+
+Material: Arcane Lead
+
+Mana Capacitance Rune
+
+0/20 mp
+
+Import Efficiency: 60%
+
+Export Efficiency: 60%
+
+Leakage: 10 mp/day
+
+Razorsteel Dagger
+
+Durability: 94/107
+
+Hardness: 184
+
+Material: Force Steel
+
+Mana Capacitance Rune
+
+940/1000 mp
+
+Import Efficiency: 74%
+
+Export Efficiency: 0%
+
+Sharpness Rune
+
+23% increase to damage to all strikes when using a dagger-aspect skill, 10mp/strike
+
+52% increase to sharpness, 10mp/day
+
+Razorsteel Dagger
+
+Durability: 97/103
+
+Hardness: 180
+
+Material: Force Steel
+
+Mana Capacitance Rune
+
+940/1000 mp
+
+Import Efficiency: 74%
+
+Export Efficiency: 0%
+
+Sharpness Rune
+
+24% increase to damage to all strikes when using a dagger-aspect skill, 10mp/strike
+
+47% increase to sharpness, 10mp/day
+
+Damn it.
+
+Rain sighed, respectfully tucking Melka’s daggers into his pack. He was sitting in the antechamber to the Fells, his shadow dancing by the light of a single evertorch. The Lair’s barrier gave off a diffuse green glow, contributing to the eerie sense of unreality.
+
+He had just spent two hours digging through all of the clothes and equipment of the fallen, separating what he’d found into four piles. He rolled his shoulders, still feeling a bit stiff from sleeping on the stone floor even though he’d been up for hours.
+
+The smallest pile sat in front of him, containing all of the enchanted items. There wasn’t anything that would help him dig his way free, unfortunately. The closest was the so-called ‘Hefty Maul.’ It was basically a tree trunk with a handle. It would also be a great way to end up buried under a thousand tons of stone.
+
+The second pile contained all of the mundane weapons and armor, including a nasty looking pick and a few metal war hammers. Those would be a great help, but he’d been hoping to find something enchanted. That would have made his life much easier.
+
+In point of fact, some of the items in that pile might be enchanted after all. It was just that he had no way to tell. A bound item appeared mundane to anyone but its owner.
+
+While most bound items would become unbound after their owners’ deaths, Rain’s understanding was that this process took a while. Years in some cases. Tallheart had said that the runes he used for binding his own work were permanent, even after death. He had also said that such binding was prohibitively difficult. Only the greatest rune smiths were capable of it. The cervidian had not seemed like he was boasting when he’d said this, merely as if he’d been stating a fact. Rain was inclined to believe him.
+
+In any event, it was unlikely that any of the weapons in the pile would have such protections. Rain was planning to check back periodically in case any of the bindings broke on their own.
+
+The third pile contained all of the broken equipment and torn clothing, while the fourth was composed of food and other supplies. There wasn’t much there, but it was still enough to buy him another week or two. He had no intention of staying down here that long.
+
+Out of the corner of his eye, he caught a flicker of motion. “Hey! Get away from that! I already fed you!” he shouted, making a shooing motion at Dozer. The slime pulled back, startled, then slunk away from the pile of food.
+
+Rain watched for a moment, then nodded in satisfaction. He released a tiny pulse of Essence Well, transferring three mana to the slime as a reward for obedience. He felt its surprise and delight through their bond as it devoured the mana.
+
+When he’d fed Dozer this morning, he’d immediately noticed the return of the strange intuitive connection between them. The more mana he sent to the slime, the stronger the link became. Interestingly, the bond worked both ways. Dozer had seemed to better understand his commands after it had been fed.
+
+That wasn’t to say that the slime always did what he asked it to, though. He’d stopped feeding it after seventy-five mana, not wanting it to fall asleep again. Now, he was using the rest for positive reinforcement. If the system wouldn’t help him train the slime, he’d just have to do it the hard way.
+
+He was already amassing quite the library of slime lore. For example, he knew that the creatures always fell asleep after eating their fill of mana. The three unconscious blobs that he’d shoveled into the shower room were confirmation that it didn’t take much.
+
+Yes, three.
+
+The fourth slime had spawned just a half-hour ago. Dozer had gone after it aggressively, but Rain’s Purify aura had turned it neutral before the two monsters got a chance to fight. It was a shame; he’d wanted to see how Dozer would do against a regular slime. Rain wasn’t planning on making Dozer his personal attack dog or anything, but he did want to know if it would be capable of protecting itself.
+
+Dozer hadn’t leveled overnight despite being jam-packed full of mana. Unless Rain found some way to strengthen the monster, he’d be forced to leave it behind. He had already thought of trying to overcharge it with Essence Well, but he was reluctant to try that for fear of killing it. Letting it gain experience through combat seemed safer, somehow. He could experiment on one of the other slimes, of course, but that seemed a little cruel.
+
+What am I supposed to do if they keep spawning? They’re harmless once they’ve been decontaminated, and it’s kinda cute how derpy they are, but they’re still monsters at the end of the day. I should just kill them to be safe, and yet…
+
+He shook his head. He’d cross that bridge when he came to it.
+
+In any event, he didn’t think he’d need to wait that long before Dozer got another chance to show off his combat skills. Detection was picking up a large number of slimes in the sewers above him, more than he’d ever seen at once, other than during the incident in the bathhouse. They seemed to be spawning faster than usual, which wasn’t helping with his anxiety. He’d hardly forgotten the whispers of rank shift that had been spreading through the city.
+
+[Hullo! Rain! It’s me! So listen, Velika says…hey, how do I know if this thing’s working?]
+
+Rain sat bolt upright. “Carten? What the—”
+
+[Oh. Right. So I just have to… Time limit? Shit. Uh. Rain, look. We’re workin’ on gettin’ ya out of there. It might, uh…take a while. Some bloody idiots started a riot and—]
+
+There was a pause.
+
+[Right, forget about the riot. It’s not important. What is important is that Velika is fucking pissed. She ain’t thinkin’ straight enough to come get ya right now, but Lord Whatsit here says he needs ya to keep doing that Winter thing ya do. Ya know, the one where you pretend to be a stump? The Empire is—Oi, shove off, I’m tellin’ him, dunghumper. The only one wastin’ time is you. Sorry about that, Rain. Anyway, listen, the Adamants are here. They’re attack—]
+
+Carten’s voice cut off with no warning, right in the middle of a sentence.
+
+“Carten?!” Rain shouted. “Hey! Damn it, Carten!”
+
+A moment later, he slapped his forehead. There was no point in shouting. That had been a Message spell, likely the single-use scroll version unless Carten had secretly become a Mentalist. That didn’t seem particularly likely. In any event, Message was one-way. Carten wouldn’t have been able to hear him, even if the time limit hadn’t run out.
+
+At least, I hope that him getting cut off like that was just the time limit running out.
+
+Rain quickly pulled open the dialog showing the status of the barrier, then breathed a sigh of relief and got to his feet.
+
+Attention
+
+The defense field is active. Please remain calm.
+
+Ingress and Egress from the protected volume is restricted to outpost residents.
+
+Barrier Integrity: Fair
+
+Mana Siphon: Active
+
+The message hadn’t changed. If there really was an attack, it looked like the barrier was holding, at least for now. Still, there was no telling how long—
+
+“Ah!” Rain shouted, startled as Dozer suddenly pressed against his leg. Looking down, he picked up a flash of fear and confusion from the slime. “I’m fine, Dozer,” he said, trying to push the slime. “Hey, calm down.”
+
+He shook his head. The slime wasn’t smart enough to actually feel empathy for him, he didn’t think. This seemed more like an instinctual response to the feelings it must have received from him over the link. It was trembling with fear and had come to him for protection from whatever the perceived threat was.
+
+Rain focused on his breathing, trying to project calming feelings toward the slime. It didn’t really work, as his own mind was racing, trying to work through the implications of what Carten had said.
+
+So Velika is alive, and the Adamant Empire sent an army to attack the city. There’s been a riot, either in response to the Adamants or to what Velika did. They know I’m alive, somehow, and they want me to keep generating mana to keep the barrier up. Everyone can see the integrity on the dialog, so they must be concerned that it isn’t going to last for some other reason. How bad could it be? This is Majistraal tech, so it should be able to take quite a pounding. How strong is the Empire’s army?
+
+He shook his head. Shit. This isn’t good. I need to get out there and see for myself. I’ve got crazy regen on my own, sure, but Winter doesn’t go through stone. If I really want to help, I need to get in range of people.
+
+He walked over to the pile of unenchanted equipment and grabbed a long-handled pick. He wasn’t about to sit in Aura Focus when monsters were spawning all over the place. He didn’t have enough torches to prevent it. No, he was getting out of here. Naturally, he’d immediately stop and use Aura Focus if the integrity of the barrier actually started to drop.
+
+He stopped suddenly, struck by a thought. Or will I? Maybe I should let them batter it down. For all I know, they just want to occupy the city, not destroy it. If they break the barrier, I’ll be able to get out.
+
+After a moment, he shook his head and hefted the pick. No. It’s too risky. They might slaughter everyone. I don’t know enough about them to know for certain, but I don’t think they’d be gentle about sacking the city. Velika is bad, but she’s the devil I know. I don’t think I want to trade her for the Empire.
+
+Rain grabbed the torch and headed down the tunnel, thoughts swirling.
+
+Westbridge will come back and let us out eventually. Maybe they were even waiting for this to happen. They might have an army of their own waiting nearby to crush the Empire against the barrier. I can’t know until I get out there and see for myself.
+
+Reaching the blockage, he stuck the torch in a sconce and hefted the pick. Mindful of where he was standing, he swung cautiously at the large piece of brickwork.
+
+Steel met rock. Rock lost.
+
+Rain nodded to himself, and set to work, being careful not to swing too hard. He still wasn’t used to his new strength, and this was going to be a marathon, not a sprint. He couldn’t afford to be reckless.
+
+The pick rose and fell, slowly but surely breaking apart the bricks. Once he had the section of arch split up into to reasonably-sized chunks, he’d shovel them into the shower, then repeat the process as many times as it took to get free. It was going to take a while, judging by what Detection was telling him.
+
+Damn it all.
+
+Four figures looked down on Fel Sadanis from far above. One of them was visibly struggling, beads of sweat forming on her forehead only to be blown away by the turbulent wind that surrounded her. The others were standing easily atop a wooden platform, held unsteadily in the air by their struggling companion. The curvature of the planet was faintly visible in the far distance. It was night, and the stars above sparkled with shocking clarity. This was a view that was seldom seen, even for individuals as powerful as these four.
+
+“How are you doing, Timar?” shouted Citizen Bowcraig over the roaring wind, looking up at his struggling companion.
+
+Citizen Timar didn’t respond. She’d flown them here all the way from Jarro, and the strain was clearly too much. She was at her limit. They’d needed to fly high above the clouds to avoid detection, increasing the difficulty. If that wasn’t bad enough, it was a little-known fact that it was impossible to breathe up here. Timar had said she was compressing the bubble of air surrounding them, drawing it in from a great distance.
+
+Roughly three-quarters of the Citizens could fly in some manner, but Timar was something of a specialist. This was pure Air magic, much more difficult to detect than Arcane methods of flight. Bowcraig was hazy on the details of how one could fly using only air, especially when there was supposedly so little of it to be had up here, but he couldn’t argue with the results.
+
+Air, Earth, and Water were not primary elements. The mages that controlled them were Force mages, technically. Air was a secondary element of Force, just as Lightning was a secondary element of Arcane, and Fire was a secondary element of Heat. People often confused primary and secondary elements, calling all Heat users “Fire Mages,” for example. It was understandable, but it couldn’t be further from the truth. Bowcraig should know. He was a rare dual-primary-elementalist, specializing in both Heat and Cold. While a Fire Mage might gain more raw power by specializing, a Heat Mage had much greater flexibility and control.
+
+He looked down from the struggling Timar to get a read on his other two companions.
+
+Citizen Greenfield was a siege specialist. It would be her job to break any fortifications that the Adamant Army had constructed. She was an Earth Mage, and she looked distinctly uncomfortable. Bowcraig supposed that it must be difficult for her to be flying so high in the air, far from her source of power. On the ground, or more specifically under it, she was unmatched in the DKE when it came to dealing with stationary targets. Up here, she would barely be capable of defending herself.
+
+Bowcraig shifted his attention to the last member of their party. Citizen Bluecrest didn’t look uncomfortable. It was hard to get a read on Citizen Bluecrest at all. He was a rare breed of fighter called an Aspect Elemental. In his combat form, he looked less like a man, and more like a scarecrow constructed of blades of translucent, razor-sharp ice. It was a strange fusion of Arcane transformation, secondary-elemental ice, and sword combat forms. It was startlingly effective for single combat. It shamed Bowcraig to admit it, but of the four of them, Bluecrest was likely the strongest.
+
+[You may begin,] came the voice of Citizen Jarro over the link.
+
+“Oh thank Melo,” said Citizen Timar, the rushing wind swirling to a stop.
+
+Hastily, Bowcraig sucked in a lungful of air before it dissipated. It was a long way to the ground.
+
+The platform wobbled, then started to fall. Below them, a volley of magic appeared from nowhere and crashed into the barrier covering the city. The telltale fog of Obfuscate was visible in the magical spectrum, masking any further detail.
+
+Bowcraig smiled, then started casting, focusing on the general origin of the barrage. He didn’t need an exact target. Not for this.
+
+This far in the air, he had plenty of time to cover the whole area. It would take quite a while for him to fall to the ground, though he was unsure precisely how long. At least a few minutes. Timar could probably have told him, but it wasn’t that important. He had as much time as he had, and that was that.
+
+Meteor.
+
+As he finished his first cast, a flaming rock the size of a horse appeared in the air beside him. He didn’t even glance in its direction, already beginning the process of summoning a second. Each cast only took 10 seconds, thanks to Quicken Evocation.
+
+Meteor. Meteor. Meteor. Meteor. Meteor. Meteor.
+
+The air around him began to thicken, and Bowcraig spread his arms to slow his fall. The Meteors passed him one by one, falling toward the ground in a line as he continued summoning more.
+
+He was holding back. There was no point in trying to boost the spells outside of a ranked zone. Each was already powerful enough to reach the damage limit on its own. It was surprisingly efficient, as such things went. The longer that it took him to fall, the more of them he could summon.
+
+Efficient did not mean cheap, however. He was forced to start drawing on his Well to replenish his mana. That was slightly regrettable, but it would all work out in the end. The mana that he was spending on this would not simply go to waste, even if the Adamants countered his opening salvo. He’d be able to repurpose it later.
+
+Bowcraig was momentarily distracted by the form of Citizen Bluecrest zipping past him, the Aspect’s scythe-like limbs held tight against his body. He was closely followed by Citizen Greenfield, who had assumed a similar posture. As he watched, Greenfield actually caught up to Bluecrest, then passed him, accelerating faster and faster in blatant disregard for the thickening atmosphere. As an Earth Mage, she would be actively pulling herself toward the planet.
+
+Stonevaulting is the strangest method of flight that I have ever heard of.
+
+With no warning, the first Meteor that Bowcraig had summoned exploded into flaming chunks, shattered by a bolt of Arcane lightning. It looked like the Empire had noticed them.
+
+Bowcraig kept casting, undeterred by the rain of flaming magma that he was now falling through. If such a thing could have bothered him, he would have hardly been worthy of the title of Citizen. The Meteors were mostly a distraction, anyway. It was a powerful spell, but slow. Against a fellow Citizen, it would be almost useless. Likewise, the Empire had their own means of dealing with such things, as the detonation of a second Meteor showed. The real threat to the barriers protecting their army would be Citizen Greenfield.
+
+They called her Siegemaster.
+
+The title wasn’t just for show. Not once had Citizen Greenfield met a wall that she couldn’t break, nor a magical barrier that she couldn’t shatter.
+
+Seeing the Majistraal barrier in person, she was aching to test herself against it, but that would have to wait until after the Empire had been dealt with. Regaining control of the barrier stone was a secondary objective, to be completed only if it looked like it could be accomplished without risk of permanently damaging the artifact.
+
+It was, in other words, a problem for later.
+
+Still falling, Greenfield flipped over at the last second to dive face-first into the ground. Instead of leaving a bloody crater as might have been expected, she slipped into the earth with barely a ripple to disturb the snow.
+
+Stone Swimming was a curious skill. It wouldn’t let her propel herself through solid rock—she needed to combine it with Rock Pull for that—but it did make the earth behave like water in many respects. As the stone flowed past her, she felt more and more resistance as her downward progress slowed.
+
+Greenfield had heard that with water, there came a point at which you would no longer float back to the surface. With stone, that didn’t apply. The density and strength of the rock increased the closer you got to the depths, correlating with the increase in rank. For Stone Swimming, the effect of this was that the user would always be pushed upward.
+
+If she did nothing, she would be flung back into the air at roughly the same speed at which she had entered the ground. There was some loss due to the resistance of the stone, but that could be mitigated with Rock Pull. Using both skills together like this was known as vaulting, and it was the Stone Mage’s answer to the conundrum of flight. The only difficulty was ensuring that you never ran out of mana while submerged in rock. That tended to end poorly.
+
+The pressure of the stone was crushing, reaching its peak at the bottom of her dive. Rather than fight it, she embraced it. It was rare to reach this kind of depth without spending a ridiculous quantity of mana to haul herself down. Thanks to the boost from Timar, she hadn’t needed to.
+
+Intrusion.
+
+Spending twenty thousand mana in a single burst, Greenfield latched onto a narrow column of deepstone and willed it upward. Like a spear launched from the center of the planet, the deepstone column slammed into the barriers of the Adamant Empire from below. There was a massive crash of shattering magic as the sheer momentum of the rock punched straight through their defenses.
+
+Greenfield was spat out of the earth, having adjusted her own trajectory to avoid slamming into the barrier. Some of her momentum had been lost, transferred into her attack, but she still flew plenty high enough to see the impact of her little greeting.
+
+The optical distortion that the army had been hiding behind had vanished. Where before there had been only wind-swept snow, there now stood a fortress constructed of blackened bricks. The deepstone spear had punched a hole straight through the center of the fortress but was rapidly collapsing as the high-rank mana of the depths drained away.
+
+To their credit, the Adamants reacted quickly, tearing down the stone pillar with their own Stone Mages. Using Mana Sight, she watched as they hurriedly patched the hole she had blown in their defenses. There was a flicker, and a second dome of protection formed outside the first.
+
+“More layers won’t save you,” she said with a smirk, taking a deep breath. She considered the fortress as she reached the top of her arc, then drew deeply on her Well, and pulled herself toward the ground once more. Waves of magic flew toward her, but she ignored them. It was the fortress that had her attention. It was always impressive to see how quickly the Adamants could construct a fortification. How much more impressive would it be if she managed to tear it down in a matter of minutes?
+
+The Aspect landed amid a flurry of ice and snow. It had come at his call, veiling him from the arrows and magic that had started tracking him during his descent.
+
+The Aspect was not concerned by such things, but getting hit would have been an insult to his pride. His mind was cool and calm as he wove between the oncoming projectiles, dodging them by less than a hair.
+
+Citizen Bluecrest would have been alarmed by the sheer volume of magic that was flying through the air, but Citizen Bluecrest had no place in this. This was a battle, and in a battle, there was only the Aspect.
+
+Sliding between two arrows that had been seeking his heart, the Aspect whipped his arms forward. The icy blades covering them broke away with a mighty crack, shattering the air as they were launched forward faster than sound.
+
+The snow swirled, and his blades were restored, as sharp and deadly as before.
+
+The Aspect felt no disappointment when he saw that he had failed to penetrate the newly reformed barrier. His ally would have it down shortly. It was merely an annoyance. He hoped that the Adamants decided to send him a worthy challenger while he waited.
+
+Needlelike teeth of ice made themselves known as the Aspect’s mouth widened into a malevolent grin.
+
+A second stone spear had just slammed into the far side of the fortress, piercing the arcane bubble protecting the pathetic flesh of the humans cowering within. Fire rained down upon them from the exploding Meteors above as they scrambled to restore the barrier.
+
+However, neither of these things were what had caught his interest.
+
+His challenger approached.
+
+An Incarn.
+
+The strength of the Empire of Adamant lay in their numbers, Bluecrest whispered in the back of the Aspect’s mind. While no individual member of one of their armies could stand up to a Citizen, they had their ways. An Incarn was simply a member of the regular infantry, perhaps level twenty at most. However, that was before the enhancer magic took hold.
+
+To become an Incarn was to die. No human body could withstand the combined magic of that many augmentations. Not for long. If not for the fact that they no longer felt pain, a soldier-turned-Incarn would have immediately gone mad from the mind-rending agony.
+
+Fortunately for the Aspect, it took a little while for an Incarn’s mind and body to fail. He would get to have his fun.
+
+Steel met ice as the Aspect parried the Incarn’s lightning-fast strike. He felt pain as the metal bit into his ice, the very substance of his body, but it only served to heighten his excitement. This was what the Aspect lived for.
+
+The Incarn looked shocked as the Aspect’s second blade plunged into his chest. The magic that had wrapped and protected him was woefully insufficient against the razor-sharp shard of ice.
+
+Naturally, this was not nearly enough to finish the battle. The Aspect parried the return strike, then ripped his blade out of the side of his opponent’s chest. Before his eyes, the wound sealed itself back together with chains of flickering magic.
+
+The following flurry of strikes, parries, and evasions was a marvel to behold. Both fighters moved faster than the dull eye could follow, their blades ringing out in a never-ending song of ice and steel. The Aspect hissed with glee as the Incarn’s sword scratched a line of pain across his brow.
+
+Of course, it could not last.
+
+It was not that either of the fighters had become tired. It was that the Aspect had grown bored.
+
+With no warning, he stopped holding back, tripling his speed in an instant. He danced around the Incarn, carving him apart with ruthless efficiency before ending it with a stab to the back of the head. The former soldier detonated like a fireball, chunks of blood and gore flying in every direction as the magic that had been enhancing him tore its way free.
+
+The Aspect skidded back from the force of the blast, shields of ice forming automatically to protect his body from the chaotic magic.
+
+Snow swirled, brushing the blood and gore from the Aspect as he uncrossed his arms. His mouth lolled open, releasing an icy fog as he hissed out a pair of words.
+
+“Send more!”
+
+Flight.
+
+Bowcraig activated his own magic just as the last of his Meteors was blown apart. He guided himself casually through the hail of fire, pleased with the dispersion of Heat mana in the air. Pillars of stone were continuing to assail the barrier, and Bluecrest appeared to be enjoying himself. Bowcraig was biding his time, planning to strike as soon as the barrier fell.
+
+A sudden searing agony assailed him. He was also blinded, the world going entirely white.
+
+Bowcraig cursed. No fire would be hot enough to burn him like this, meaning that it could only be one thing. No, one person.
+
+He’d attracted the attention of Lightbreaker.
+
+As his health began to drop, he hurriedly reached into a pocket to retrieve a glass charm. This was an artifact made in Xiugaaraa by the fabled Illuminator-Smith known only as the Weaver of Light.
+
+The Weaver had been dead for hundreds of years. For all that Bowcraig knew, this charm was the last of its kind in existence. Nobody alive knew how it had been made.
+
+He shattered the fragile glass in his fist, and immediately the pain and blinding light vanished. The charm had been activated.
+
+Ten thousand Light resistance—just over the damage limit in an unranked zone. It sounded so simple, but achieving it was anything but.
+
+Lightbreaker would have no way of harming him for the next five minutes.
+
+It pays to be rich, Bowcraig thought with a smirk. Who would have thought that I would be the one to finally kill Fecht’s strongest dog.
+
+[Watch out, Lightbreaker can create illusions. Don’t let him fool you,] said a voice through the link.
+
+[You think I don’t know that? Shut up and let me work,] Bowcraig sent back, then muted the link. He had Mana Sight active, and he could see Lightbreaker’s signature as clear as day. No optical tricks would work on him.
+
+He concentrated, drawing heat from the air using Thermal Conversion. This was his most potent skill, hidden and known only to him. It was the culmination of his mastery of both Heat and Cold. It allowed him to change energy of one type into the other, including that which occurred naturally.
+
+Such a thing was unheard of.
+
+Environmental mana was tantalizingly out of reach, even for those who could see it in the first place. Whenever anyone asked him about this ability of his, he would always point them to the foundation-tier skills Immolate and Refrigerate. Over the years, he had derived no small amount of amusement from the occasional fool who took one of them, hoping to imitate his power.
+
+As if such garbage abilities could compare, he thought, eyes flashing with pride.
+
+Raw Heat mana flowed into his body, filling his veins with fire as he flew along the path of the beam that was still enveloping him. That fire turned to ice as he circulated the mana through his spell, releasing it back into the environment. The balance was disrupted and started to spiral out of control. The sheer volume of Cold mana that he was producing began to displace the other elements.
+
+The beam of light vanished abruptly, revealing Lightbreaker standing atop a pale disk that glowed like the moon. The man was wearing a gray uniform, emblazoned with the twin black fangs of the Empire. His black skin spoke of his Osaran descent, but his head had been shaved in defiance of tradition. He instead wore a neatly trimmed goatee.
+
+Lightbreaker frowned, then the glowing platform shot forward and his arms were enveloped with blades of crimson energy. Bowcraig cursed and attempted to dodge, but he was too slow. He felt the impact of one of the blades on his arm as Lightbreaker flew past him.
+
+Thanks to the charm, he took no damage from the Light magic, but he wasn’t ready for his opponent to realize that. He needed time for his conversion to work. He quickly feigned a look of pain, grasping his arm and trying to gain some distance between himself and his foe.
+
+“Ouch,” he called over his shoulder, then laughed, his breath fogging the rapidly cooling air. “Well done, Lightbreaker, but you’ll have to try harder than that if you want to defeat me!”
+
+Bowcraig was immediately engulfed by another beam of light, but he just smiled and pretended to be blinded. The temperature was well below freezing at this point, and it was continuing to drop. A second wave of fog formed in the air as one of the constituent gasses flashed to a solid. Bowcraig wasn’t a chemist and cared little for the mechanics of such things. All he knew was that no one had ever survived Thermal Conversion long enough for the air to turn to rain. That point was rapidly approaching. It would just be a few more seconds now.
+
+He pulled on his Well, draining it completely, then summoned a pair of crystalline swords, one in each hand. With the temperature as low as it was, the magic came easily, as if it had its own will. The entire area was suffused with Cold mana now, with not even a shred of Heat mana remaining. Still, he did not stop, adding to the cold by channeling Froststorm. It was only a tier-1 spell, but it was well-suited for rapidly dispersing Cold mana.
+
+Closing the distance, Lightbreaker swung at the Citizen with his blades of crimson light. Each time, Bowcraig would move his own blades of ice to intercept. He had trained against the Aspect. Compared to that, this was nothing. The man’s strikes had no weight.
+
+“What’s wrong, Lightbreaker? No taste for swordsmanship?” Bowcraig said, then coughed, closing his mouth. The cold burned, even beginning to overcome his own incredible resistance. It wouldn’t be long now.
+
+He redoubled his efforts, moving on the offensive as Lightbreaker started slowing down. The cold was clearly getting to him, his skin turning pale and starting to crack. Still, the Light Mage remained just one step out of reach. Bowcraig would have laughed if the air wouldn’t have damaged his lungs.
+
+Fool. It’s already too late for you. You should have tried to get out of range.
+
+Suddenly, Lightbreaker stumbled, almost slipping from the platform that he was standing on. Bowcraig’s face split into a wicked grin as the first droplets of liquid air started to fall. No one had ever survived this long. Lightbreaker was indeed a worthy foe.
+
+The Citizen launched himself forward, icy blade seeking for his opponent’s heart. Lightbreaker didn’t even attempt to respond, toppling from his glowing platform like a frozen statue. A thrill of triumph rolled through Bowcraig as his blade pierced Lightbreaker’s body, meeting no resistance.
+
+No resistance.
+
+Lightbreaker vanished. In his place hung a tiny white orb, shining like the moon.
+
+What? An illusion?! Impossible! The mana signature…
+
+Bowcraig whirled, hunting for his foe. His lungs screamed for air, and he reversed his conversion. Even a citizen needed to breathe.
+
+Another beam of light struck him, small, this time, no wider than a piece of straw. It glowed over his heart, blinding in intensity.
+
+Bowcraig began to panic as he traced the beam to its source.
+
+Lightbreaker.
+
+The man was above him, far, far above. Bowcraig’s eyes widened as he saw the falling form of Citizen Timar tumbling through the air like a leaf.
+
+No!
+
+A sudden pain in his chest forced his eyes down. The beam of light was starting to burn through his tunic. Crackles of Arcane lightning started spreading out from the point of impact, oddly frozen in the air.
+
+No…not Arcane. This is…
+
+Before he could finish his thought, the charm’s protection broke completely. Bowcraig screamed in pain as his health began to drop more rapidly than he’d believed possible. The beam of light seared through all of his other defenses in an instant, piercing his heart. He canceled Flight, allowing himself to fall, desperate to get away. It was no use. The light tracked him, slicing spirals through his body as he tumbled through the air.
+
+He was dead before his pieces hit the ground.
+
+The man in chains sailed through the air above the city, standing upon a pane of hardened light. The two remaining Citizens were continuing their assault on the remains of the fortress, not yet having realized that it was empty. With a thought, he simulated the failure of yet another barrier. It was growing more difficult to maintain the illusion as the Citizens became less reserved in their attacks. He had to make it seem like they were making progress; otherwise, they would catch on.
+
+The first few barriers had been real, of course. A chosen hundred soldiers had remained, honored to give their lives so that the will of the Potentate could be carried out. Their purpose was not to defeat the Citizens. The remaining force had been gone for half of a day already, having vanished into the trees to the east under cover of his magic. He would join them soon. For now, he would buy them as much time as he could.
+
+He looked down at the barrier, smiling sadly. He was relieved that Fecht had not ordered him to bring it down. Even from this height, he could see the terrified faces of the residents staring at the destruction. One face, in particular, was the object of his attention.
+
+A tortured screech tore his gaze away from the city. The Ice-Aspect Citizen was standing in the middle of the illusory fortress, howling in outrage. The man in chains let the Mirage dissolve, revealing the broken and blasted landscape hidden beneath. Hundreds of Lunar Orbs spiraled up to him rapidly, having been scattered throughout the illusion so that he would be able to fool the Citizens’ magical senses. As each orb sunk back into his body, he regained a small fraction of the health that he had spent to imbue the mana with life.
+
+The remaining Citizens were not fools. They tracked the orbs to his position and launched attacks toward him.
+
+The man in chains frowned, adjusting his trajectory so the hastily-launched projectiles would miss. He was unsure if he would be able to take down both of the remaining Citizens on his own, not with his mana as low as it was. He sighed and shook his head. It was too much of a risk. Had the army remained, they would have been able to defeat all four without issue. Unfortunately, that, too, was not worth the risk. If the DKE had sent a larger force, it would have been the army that was destroyed.
+
+He caught himself rubbing at his wrists, then forced himself to stop, clenching his hands at his sides. The sooner that the Citizens fell, the sooner that the war would be over. The day that the Empire won would be the day that the killing would end. What was the pain of a life of servitude, compared to the terrifying void of death?
+
+He stole one last look at the city, then veiled himself and guided his platform of light off to the east. Despite the pain in his heart, he was happy. His son was alive.
+
+Stay safe, Val.

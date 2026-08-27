@@ -1,0 +1,155 @@
+---
+id: eeaee327-c18c-5f4c-ae05-48a2d259e001
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,357 - Fate through Chaos"
+slug: 0033-chapter-1357-fate-through-chaos
+partOf: defiance-of-the-fall
+position: 33
+ownLength: 3129
+unit: words
+publishedAt: 2025-09-23
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2623392/chapter-1357-fate-through-chaos"
+royalRoadId: "2623392"
+---
+
+The declaration was akin to Heavenly Law, holding a conviction that refused to be denied. The voice came from a patch of dust that Zac had all but forgotten. It was made from the shattered remains of Roan’s Fertile Earth Token. Once robbed of its spirituality, the dust had no choice but to comply with the unquestionable decree. Dust became fertile soil, and the soil was part of the Empire’s domain.
+
+The Fertile Earth expanded the borders with lightning speed, creating a counterbalance to Mox’s profane territory. Boundless faith seeped out of the ground, transmitting a comforting warmth akin to the touch of a loved one. A sea of crops spontaneously sprouted under the benevolent winds. They were made from pure Imperial Faith, and the holy domain grew stronger as they matured.
+
+The stalks parted with a gentle rustle to give way to their lord. Roan looked no different from when they last met, but his aura had grown deeper. Just looking at him made Zac’s vision swim. It was like he was trying to take in the whole Left Imperial Expanse at once. Roan only gave Zac a glance before facing Mox.
+
+Noxious fumes poured from Zac’s body as he found himself lying on a bed of greenery. It was the work of a steady current of consecrated power entering him through the ground. It was the extended hand that Zac had desperately needed, but it carried dangers of its own. The empire’s pure faith combined with the ancient might of the land was an enduring force approaching the peak of perfection. If Zac wasn’t careful, it would become a wildfire that burned his path to the ground.
+
+It was a suffering preferable to the madness, but Zac wasn’t out of the woods. Mox wasn’t about to go down without a fight. Roan’s momentum was being chipped away by roiling tides of madness, and black tendrils spread through the blessed soil. Meanwhile, countless purgatories lit up like profane bonfires, and painful wails holding eons of accumulated sacrilege countered Roan’s faith.
+
+It actually looked like Roan was outmatched, but it was clearly Mox who was backing down. Despite the Fertile Earth’s best efforts to keep Mox contained, her massive frame gradually shifted out of reality. Zac could feel dense waves of Void Energy coming from her. She was using the Void of the Inverse Peak to escape.
+
+Zac crammed a handful of pills into his mouth while searching for an exit. Every second he prolonged his stay was a test of fate. Roan wouldn’t let Mox retreat without a fight, and Mox would desperately lash out if pushed into a corner. In either case, the fallout wasn’t something a Hegemon could withstand. He needed to leave. If that didn’t work, he at least needed enough energy to slip back into the [Fuxi Mountain Gate].
+
+It was as though the Void Treasure could hear Zac’s thoughts, and it wanted no part in the imminent struggle. The [Fuxi Mountain Gate] began to violently shake inside [Purity of the Void], and the array engraved on its surface shone with terrifying intensity. The purification space was far from capable of handling such energies, and Zac was forced to bring out the treasure before he exploded.
+
+The Fertile Earth’s Imperial Faith flooded the [Fuxi Mountain Gate] the moment it appeared, and the Void Treasure came alive in a way Zac had never seen before. It grew to the size of an actual mountain, and Zac watched with mute incomprehension as an enormous figure emerged from the pathway.
+
+It was the statue depicting Margrave Wartorius, still marked by ancient scars. The scales in his hand shifted, and stone became flesh. Meanwhile, a line was drawn to separate good and evil. The divine treasure’s shadow covered Mox’s whole domain, steeping it in an aura of slaughter. Zac only felt benevolence coming from the Margrave’s back. If not for his towering size, Zac could have mistaken him for a simple farmer.
+
+The scales shifted once more, and Zac’s face grew pallid. He’d completely lost contact with his Void Emperor Bloodline. It went beyond severing the benefits transferred over from his other body. Zac couldn’t even see his Hidden Nodes, and his bloodline talents didn’t respond to his call. Was escaping even possible without the Void to open a path?
+
+Zac could only find some comfort in knowing he wasn’t the intended target. When the scales shifted, so did the balance between Void and Dao. Mox’s sanctuary had been dragged out of the hidden corners of the Void, turning it into a normal dimension. Considering the massive amounts of Imperial Faith, Roan's declaration had become truth. Their current position was undoubtedly part of the Empire’s domain.
+
+Seeing Mox’s escape route being sealed only felt good for a second. Zac instinctively knew he was no longer looking at a projection of Mox. The shifting scales didn’t just destabilize the Void; they’d manifested a projected realm into a real one. Zac was facing Mox’s true form in all its unholy glory.
+
+The Fertile Earth wasn’t enough to insulate Zac from Mox’s unholy path, despite borrowing strength from the entire Left Imperial Expanse. Too much Imperial Faith was spent on keeping the memory domain running. Zac railed against their insistence on keeping him around. He’d done his part, so why wasn’t Roan letting him out? The dream would keep going after he left, and there was no point in him staying while the big shots duked it out.
+
+Zac was again trapped in a losing battle against false hope and bottomless madness. He repeatedly summoned and dispersed [Warbringer Dharma]’s idol to remind himself of his path. Keeping it running was too dangerous. He was facing a hostile Supremacy, and his Dao Heart was no safer than the rest of his path. His hatchet would end up corrupted if he wasn’t careful.
+
+The hatchet-shaped idol and maintaining his Void State were barely enough to retain a thread of sanity, but Zac had nothing left to use against the vast amounts of Hope Energy pouring into his body. [Void Heart] had already been stuffed before the Margrave sealed the Void, and his Eoz Nodes weren’t up to the task of facing Mox alone.
+
+Even scarier was the tainted longevity mixed into the atmosphere. Mox was dispersing her lake, forcing its stolen lifeforce onto her enemies. Only a sliver managed to reach Zac, and that was enough to make his lifespan increase at an alarming pace. It was a backhanded gift accompanied by Mox’s immense Karmic debt.
+
+The Heavens were already drawing closer, its desire for destruction palpable. Mox was planning on sharing the suffering. She would have succeeded if not for the wall of Imperial Faith keeping the Heavens at bay. Zac’s Duplicity Core burned like a sun to resist the foul Karma, extracting a price Zac couldn’t afford. He’d last a second at best before the violent drain damaged his core.
+
+Salvation came in the form of a ripple originating in the depths of Zac’s body. Threads of absolute Death appeared across Zac’s skin, nearly snuffing out his life. Something had triggered Kālasūtra’s benediction left on his body—he’d recognize its aura anywhere. Everything Kālasūtra touched would die, including Karma.
+
+A million confrontations between tainted Life and absolute Death occurred in the blink of an eye. There were invaluable truths hidden in the unending cycle. Zac wasn’t in any condition to grasp the insights, seeing as his body was the battlefield. He felt like he’d entered the wheel of reincarnation and fallen through the cracks, placing him in an excruciating limbo.
+
+It was too much. Zac wasn’t sure how battles between Supremacies worked, but it didn’t seem like the fight had even started. Roan and the Margrave had only erected their Heavenly Territories to remove Mox’s home-field advantage. That was enough to push Zac to the point of collapse.
+
+“Help!” Zac wheezed, his voice barely a whisper.
+
+Whether by coincidence or not, Kālasūtra’s threads shuddered upon hearing his plea. The ancient lines morphed into countless eyes. The Dao of Death took on another hue, one not any weaker than the Realmlord’s absolute Death. Zac was just as familiar with its aura. He’d felt it when signing the Writ with the Undead Empire, and he’d felt it again when Kator broke the agreement.
+
+The Primo had stepped into the ring, and he came out swinging.
+
+The Primo’s gaze transcended time and space, and everything it observed was marked by death. Mox’s territory was forced into retreat, ending the battle over Zac’s body and soul. The Primo’s territory’s momentum was unstoppable, and deathly eyes appeared on the countless purgatories that gave Mox power.
+
+The Primo became an enforcer of the Four Laws, decisively ending the profane ritual. True Death brought release to countless trapped spirits, and Mox’s stolen longevity dissipated. Even Mox was affected by Death’s attention. Her enormous body suddenly exuded intense decay, to the point many of her arms directly rotted and fell off.
+
+Zac couldn’t believe the speed of the reversal. In the blink of an eye, he’d gone from facing the enemy alone to having three Supremacies on his side. Even a slippery figure like Mox would be hard-pressed to make it out in one piece before such a terrifying lineup, especially with the Heavens waiting outside.
+
+A smile spread across Zac's lips as the darkness claimed him. He’d walked the edge between Life and Death and stolen Fate through Chaos. He’d earned some sleep.
+
+-------------
+
+Wartorius frowned as the child sank into the soil, following the thread of hidden fate until it disappeared. Where did the sense of discrepancy come from? He replayed the last couple of minutes over and over, and the answer still eluded him. His instincts pointed toward the child’s brief visit to the Mountain Gate.
+
+Where was the issue? He’d begged him and the Earth Spirit to descend early, ignorant that fate’s trajectories had yet to intersect. The boy even had the audacity to call on the Emperor by his mortal name. Had he eaten a lion’s heart as a child, or had so much time passed that cultivators didn’t understand the weight of such an invocation? While it certainly deserved some punishment, it wasn’t enough to trigger a sense of unease.
+
+Was it a premonition of the scales of fate led astray? Were his sealed memories trying to warn him of something? Wartorius could only put aside his misgivings. They had already failed once, and there could be no further mistakes. Mox was no simple figure, and Galgallim’s descent certainly wasn’t part of their carefully laid plans.
+
+‘Fate not set, Karma complex beyond compare.’ The statement felt like an accusation in Wartorius’ ears. ‘To live is to greed.’
+
+Wartorius sighed. Nothing good would come from involving this bastard, but he was a critical crux. “Remember our agreement. Assistance for Eternity.”
+
+‘And even Death shall die.’ Countless eyes turned to the crumbling figure. ‘Mox’Eshu, you have suffered long enough.’
+
+-----------
+
+Bloodied and battered, Ventus pushed the key into Ogras’s hands. He wanted to curse the shifty elf for handing him such a hot potato, but reality’s collapse stole the words from his mouth. Space and time tore at his shadows before spitting him out on a bed of moss. The Hollow Court’s pillar loomed in the distance, the sole source of light in a world of darkness.
+
+Ogras’s eyes gleamed as two radiant halos appeared in quick succession. The first was a celebration of life; the second, a dark reminder of death’s hold on all. Zac may as well have put his face on them. The pillar wasn’t done. A third halo appeared, this one a mottled concoction. All Daos were arranged around the Inverse Peak and kept in line by Imperial Faith. It looked like things worked out okay on the other side.
+
+Ogras wasn’t given the chance to celebrate. He flashed out of the way, narrowly avoiding a star streaking past.
+
+‘Run!’
+
+Ogras didn’t need to be told twice. Ventus was a decent enough guy, but staying alive came first. There’d be time to figure out what the elf was up to after creating some distance. Ogras exploded into countless shadows that rushed in every direction. A few tendrils shed light on the situation within seconds.
+
+A trio was closing in on their location, one of them wearing a similar robe to Ventus. He looked like he could handle himself in a fight, but Ogras had dealt with much scarier people. The second was clearly a prisoner forced into becoming an underling, so he didn’t pose a threat either. The problem was the leader of the group.
+
+Ogras couldn’t place the human’s origins, but he was clearly not of common stock. If he wasn’t part of the Seven Heavens, he no doubt belonged to another top-tier faction. They finally had a face for the Radiant Temple’s boss. In either case, the stranger wasn’t strong enough to leave Ogras in despair, but he was sufficient to light a fire under his ass.
+
+Sacrificing a good chunk of his shadows to trigger a burst of speed, Ogras moved dozens of miles in the blink of an eye. Simultaneously, eight of his shadows turned into doppelgangers that rushed in different directions. They were empowered by his Dao of False Truths and carried a true seed of his constitution. Even Ventus would have a hard time calculating which was the real him.
+
+In some ways, luck was on his side. The collapsed memory domain had spat them out inside a massive cave, and there were plenty of shadows to go around. Ogras fused with the environment, spreading his consciousness in every direction. Instead of finding Zac like he had hoped, he spotted the newest addition to their party.
+
+Ogras shifted, appearing before Tavza, who was lying unconscious in a hollow, tightly gripping the nastiest book he’d ever seen. The girl was alive—as far as the undead goes—but she’d seen better days. She was covered in scars, and Ogras frowned at the familiar aura they exuded. He’d seen damage just like it on Zac inside the Void Star. The kiss of Chaos.
+
+Just what had happened after they lost communication? Was there a fallout between Tavza and Zac? Deeply concealed Killing Intent flickered in Ogras’s eyes as his spear appeared without a sound. This was the perfect opportunity to finish the job.
+
+Ogras shook his head. He put away the spear and disappeared, bringing the unconscious lass with him. He had too little information, and killing Tavza risked ruining Zac’s plans. Worse, it might bring a heap of trouble on his own little head. Tava An’Azol was a bona fide princess, the kind that could cause trouble from beyond the grave.
+
+Killing was out of the question, but he needed to take proper precautions. Ogras kept a frantic pace for an hour. After confirming there was no sign of his pursuers, he found a hidden cave.
+
+‘Will these things work properly with her?’ Ogras asked as he dubiously looked at the set of manacles in his hands.
+
+‘Uh, I think so?’ K’Rav answered, his voice laced with deadly levels of uncertainty.
+
+Ogras frowned and added a restrictive necklace after fastening the chains to Tavza’s hands. He still didn’t feel safe. This was a proper tyrant with a Supremacy granddaddy. Who knew what methods she possessed? Thankfully, restraints were one thing Ogras didn’t lack after hunting dozens of heretics on his way back to Zecia.
+
+‘Won’t she suffocate if you keep going like this?’ the spectral goblin asked, more out of curiosity than worry.
+
+‘It should be fine. This girl is supposed to be some form of Death battery,’ Ogras slowly said, looking at the bundled-up Tavza with a frown. ‘Maybe we should play it safe.’
+
+Ogras didn’t have any of those protective treasures designed for the undead, so he settled for tying a couple of Miasma Crystals to her limbs. Together, they formed something resembling a weak deathly domain. It was highly inefficient, but it should keep her safe for a moment. He finished his work by fastening a Miasma Crystal to her forehead.
+
+Doing so, Ogras noticed two abyssal eyes staring up at him. His heart clenched, but he didn’t let it show. He calmly tied a knot at the back of Tavza’s head, properly securing the crystal.
+
+“Hey there. How are you feeling, miss?”
+
+“What—what are you doing?” Tavza asked, her voice shaking from barely contained rage.
+
+Ogras looked at the little princess with interest. So her face wasn’t frozen in that know-it-all expression. If she didn’t have those scary eyes—Ogras shook his head. No, there are enough pretty flowers among the living. There’s no need to raid a crypt for companionship. The fleeting thought barely had time to form before Tavza’s scowl deepened. Damn, could the lass read minds?
+
+Well, so what if you can? Try to complain, see where that’ll get you.
+
+Naturally, Ogras wouldn’t say that out loud. He adopted a troubled expression. “Tough times call for difficult decisions. I was just attacked by my companion, and I can’t find Zac. Instead, I stumbled onto you covered in highly suspicious wounds. Having heard of Miss An’Azol’s great reputation, I had no choice but to inconvenience you until I understood the situation.”
+
+“The wounds are of my own making,” Tavza said with frightening calm. “I have taken inspiration from Zachary Atwood’s unconventional path to create a powerful attack.”
+
+“Then I feel like I should give you some advice as a longtime follower of Zac’s. Riding his coattails is fine, if dangerous. Trying to emulate his flavor of madness will only lead to disaster. Money and wits can’t make up for his dumb luck,” Ogras said.
+
+“If you believe me, why aren’t you removing the restraints?”
+
+“I would still like to touch base with our friend before making any hasty decisions,” Ogras said. “Not to worry, I’ll bring you along free of charge.”
+
+The silence lingered for a few seconds before Tavza spoke. “I have a tracker in my Spatial Ring. If you unseal—“
+
+“That won’t be necessary. I have my own tracker.”
+
+“And yet you haven’t located him. You must understand that's not a good sign.”
+
+“I’m sure he’s occupied. Slaying gods is a demanding job,” Ogras said, inwardly agreeing with her assessment. “In either case, we’ve already been sent into the inner region. We just need to head for the pillar, and Zac should pop up sooner or later.”
+
+“The inner region? What does that mean?”
+
+“Don’t worry, I’ll tell you all about it,” Ogras said as he hoisted Tavza over his shoulder—her head behind him so that he didn’t have to face her indignant stare. “It looks like our tail has caught up.”

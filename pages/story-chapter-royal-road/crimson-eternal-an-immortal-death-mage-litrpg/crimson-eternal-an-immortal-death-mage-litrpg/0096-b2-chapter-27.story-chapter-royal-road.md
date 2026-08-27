@@ -1,0 +1,149 @@
+---
+id: 427de6aa-e63a-52a6-99f9-679c588e3e80
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 27"
+slug: 0096-b2-chapter-27
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 96
+ownLength: 1598
+unit: words
+ownProgress: 1598
+publishedAt: 2024-02-11
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1514512/b2-chapter-27"
+royalRoadId: "1514512"
+markedReadAt: "2026-06-29T19:09:12.261Z"
+---
+
+Aria
+
+The next morning sees me, the council member going with us, and Rory all gathered on the same platform I was looking out from yesterday. Meanwhile another person that I don’t recognize is with us off to the side. Someone who seems to be wearing robes instead of armor.
+
+But for some reason, everyone is looking rather grim.
+
+I’m not really sure if I should ask or not, but they’ve looked rather grim ever since I first saw them this morning. Which can only mean that something happened on the warfront.
+
+“Are ya all ready?” the guy wearing robes asks, making me frown. But I nod my head anyways as the others answer in the affirmative. “Then good luck.”
+
+Then he spreads his arms out to his sides and closes his eyes, following which a large purple and blue spell circle with various different runes and other circles and lines running through it and even spinning in some cases appears.
+
+Oh, he’s a spatial mage.
+
+Guess we’re teleporting to the fortress instead of walking this time around.
+
+The circles and runes continue spinning and doing their thing for a little bit before a bright purple flash shines out from it and we all appear in the mountains.
+
+Snow.
+
+Covered.
+
+Mountains.
+
+Huh?
+
+I frown as I look around from my place right outside of the fortress at the bottom of the mountains that are covered in a lot of trees and snow.
+
+“Why’s it snowing?” I can’t help but ask.
+
+The mountains aren’t supposed to be snowing. There shouldn’t be snow.
+
+It’s supposed to be green for all the eye can see and actually a little humid from what I’ve heard.
+
+The others all sigh, their faces growing even grimmer as the fortress doors begin to open, leading inside of the mountains themselves.
+
+“Lass, this snow is the omen we’ve been frettin about all morn,” Conor says, the council member sounding just as grim as he looks, not turning to so much as look at the grinding doors. “Tis a sign of the Sullivan Clan Leader’s presence in the incomin’ hearth.”
+
+Wait a fucking second, does that mean their Clan Leader is personally leading the hearth attacking the mountains? Not the barrier fortress like Sean had thought she would attack?
+
+Well, that’s… not good.
+
+“But why is it snowing?” I can’t help but repeat.
+
+I can tell it has something to do with her ability or maybe magic, but why would it be snowing all over the mountains just from her presence here?
+
+“Rory, bring the lass up to speed,” Conor says before finally turning around and entering the fortress, quickly shouting orders at the thrall and officers inside.
+
+I watch him go for a few seconds, only to turn to Rory when she begins to speak, “All of the Clan Leaders of the six Clans on Luk’tar have one additional requirement to be recognized as Clan Leader other than birthright, skill, and being chosen as successor by the previous leader.” She narrows her eyes at me. “To be a Class S Ability Holder.”
+
+Oh.
+
+Rory turns to look at the large valley in between two sets of mountains. Kind of like the pass back on Vortel but only a single pass, and with a bunch of trees spread throughout it and on the cliffs.
+
+“Aisling Sullivan’s ability is called Absolute Zero, and it’s both a combat and crafting ability,” Rory continues. “It lets her directly infuse her ice mana into anything with a simple intent. And she’s also known for infusing her ice mana into the very air itself, significantly decreasing the temperature of the area for anyone other than her allies.”
+
+Oh, wow. That’s powerful.
+
+It’d be like the Byrne Clan soldiers are fighting in the middle of the winter against the Sullivan Clan soldiers who are fighting in the summer.
+
+“The only bright side about this is that she doesn’t bother with stealth or ambushes,” Rory says while turning back to me with a frown on her face. “She instead goes to wear down her opponent through this method. Whiiich doesn’t exactly leave much to the imagination as to her location.”
+
+Yeah, makes sense.
+
+And the fact that she can infuse her ice mana into anything means she can infuse it into people too, freezing them alive as if it were just ice magic. Not to mention that her infusing the air all the way over here with ice mana means she doesn’t have to be directly touching it to do so.
+
+It’s a good thing I’ve already adapted to freezing alive through ice mana.
+
+That bastard emperor is to thank for that when he tried to freeze me alive and leave me in a lake somewhere.
+
+Which didn’t work out how he expected.
+
+Hmm. Well, our plan should work either way.
+
+We ended up deciding on the best way to utilize my particular powers last night, during another meeting. And it’s rather simple.
+
+Although I’m kind of surprised that they decided to have Rory join us at the last minute.
+
+Then again, it’s probably because they thought we would need more help with the Clan Leader of the Sullivan Clan’s presence here.
+
+Not sure how much help Rory will be since I still don’t know her level.
+
+I purse my lips, considering asking her for a second before eventually just shrugging and deciding that I’ll see first hand what she can do. Since all I’ve seen her do is kill some mana creatures in a Hunter’s Bay thus far using poison.
+
+Both Rory and I head into the fortress to get ourselves settled in. And after we finish that, the two of us climb up to opposite sides of the mountains and head on over towards the mouth of the valley, where the enemy forces are currently camped.
+
+And what a sight it is, just looking down at the twenty-five thousand enemies all camped out there. Although it’s also a very strange looking sight compared to Vortel.
+
+There are artillery cannons, some sort of metal golems, and quite a few buildings spread out across the camp. Which isn’t really what I’m used to seeing in a war camp.
+
+But then again, artillery was banned on Vortel unless it was used in arid places that weren’t expecting to be able to grow anything anyways. Part of the Great Treaty.
+
+So we never really saw much of that in our wars with Arteria. Which I’ve heard has now been fully integrated into Albaria, making one nation ruled over by the council of generals.
+
+Also, it’s really cold here. But despite that, the enemy forces are just walking around without a care, clearly not feeling the cold temperature themselves.
+
+That really is a powerful ability.
+
+And the cold and snow seems to be the most powerful around the biggest building in the camp, with it slowly growing weaker the further out from that building it is. To the point of flurries of snow and a small blizzard centered in the air above the building.
+
+Overall, a very odd sight to behold. And one that is pretty obvious about where their Clan Leader is.
+
+Rory was right. Subtlety is not her specialty.
+
+My phone – which still works despite having bought it on Eternus while using it here – buzzes, making me bring it out to find a text message from Rory. One that shouldn’t be interceptable by the enemies purely because it’s Dynasty tech. Which is leagues above their technology.
+
+The message basically states that she’s in position and that we should begin our assault once the enemy forces start pushing in.
+
+Right now I can tell that they’re currently just setting everything up and entering formation. Moving their golems to the front, their artillery to the back, putting their mages closer to the back and their vanguard at the front. Even putting up a bunch of support spells and using support abilities on their forces to empower them.
+
+During the very short briefing Rory gave me, I learned that the enemy council most likely split up their council by leaving three council members in each of the first three hearths with the last of the ten council members being placed in their capital to defend and manage things back there.
+
+So there shouldn’t be any others in this hearth on par with their Clan Leader.
+
+Although, I do wonder how we’re gonna go up against her without someone on her level with us. Unless Sean himself is here.
+
+I don’t actually know what his ability is either, but if what Rory said is true, then he has to have a Class S ability too.
+
+I glance over at the other cliff from my own, where I know Rory is waiting. Then I glance back at the enemy forces right as they’re beginning to make their move, pushing into the mountains. With the golems moving first, then the vanguard, the mages, and the artillery falling in behind them all.
+
+Meanwhile a single woman can be seen leading the march at the very front and center of it. One wearing a set of pale and deep blue armor that is actually a lot less covering than most of the armor I’ve seen lukians wear.
+
+And her number is nowhere in sight as expected.
+
+She is also very clearly the eye of that winter storm.
+
+The Clan Leader.
+
+I look over their forces once, simply waiting for them to get into the mountains themselves before smirking.
+
+Alright.
+
+Looks like it’s about time to get things started with the plan.

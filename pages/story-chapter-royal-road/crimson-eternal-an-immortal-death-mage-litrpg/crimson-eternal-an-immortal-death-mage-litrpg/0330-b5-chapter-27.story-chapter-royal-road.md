@@ -1,0 +1,155 @@
+---
+id: a97b91a4-f860-5274-ac2d-7812f5ed14f7
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 27"
+slug: 0330-b5-chapter-27
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 330
+ownLength: 1478
+unit: words
+ownProgress: 1478
+publishedAt: 2026-01-17
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2953098/b5-chapter-27"
+royalRoadId: "2953098"
+markedReadAt: "2026-06-29T19:17:01.794Z"
+---
+
+Aria
+
+“Mornin’,” I state with a nod of my head after seeing Pestilence walk into the swimming pool area that I’m at once again. Mostly to cool off after spending a while just looking outside at the volcano crater down below.
+
+The Horseman just stares at me with more than a little bewilderment in his gaze.
+
+His eyes only briefly glance over my body, focusing more on my outfit before going back to my face again with that same bewildered stare. Like he can’t figure out what the hell I’m doing or something.
+
+Which is rude.
+
+Eventually the man just decides to ignore what I’m doing, at least from the change in his expression and his following words, as he says, “I would like to test another experiment on you while we’re here. In return I will do you a single favor within limits.”
+
+Of course that’s what he wants.
+
+In my mind, I feel the chances of me walking away from this meeting in a young child form rising exponentially.
+
+“Is there a time limit on the favor?” I ask while just letting myself float in the pool.
+
+“There is none,” Pestilence answers without hesitation. “The side effects will be similar to the previous experiments. Potentially extended for a longer period of time.”
+
+“Hmm,” I hum while staring up at the sky as I float in the water. Meanwhile all the staff around the pool look like they’re sweating buckets inwardly even if they aren’t showing anything outwardly.
+
+Probably because of their training and the fact that there are two Horsemen now instead of just one.
+
+And the new arrival has a much worse reputation than me.
+
+Anyways, this means I will in fact end up as a child again. For even longer this time.
+
+But whatever. At this point I don’t really care.
+
+Plus I’m mostly here to watch the show. That show being the little battle between all those nations and the other three Horsemen.
+
+Because this will be interesting.
+
+Oh, and to enjoy these lovely luxury facilities. And maybe steal them for myself too.
+
+I can still imagine that dream of having a portable version to drag around with me to Hunter’s Spots.
+
+Pestilence’s eyes narrow ever so slightly as he states, “We can go over the exact details of the favor closer to when the experiments will occur.”
+
+Oh, right. I almost forgot about him standing there.
+
+“And when will that be?” I ask while glancing at him.
+
+“After we are finished with our group meeting and move on to individual meetings,” Pestilence says without taking his eyes off of my own eyes.
+
+It’s kind of nice to interact with other Horsemen if I’m being honest. At least while at the pool.
+
+The rare few times I’ve gone to swimming pools outside of this place have left me feeling awkward due to the blatantly obvious stares some people there give me. Not to mention times I’ve sunbathed in Hunter’s Spots.
+
+But Horsemen don’t have the capacity to feel attraction like that. So it’s a lot more comfortable here.
+
+And those servants look more like half-dead dolls than people.
+
+It kind of makes me wonder if Famine actually had a ‘talk’ with them about how to treat me as the only female Horseman or something.
+
+I wouldn’t really be surprised though. Knowing him he’d probably say something about how ‘a lowly mortal like you should never stain the body of a Horsemen with your lecherous gazes’ or something like that.
+
+He might even add on something about ripping their eyes out.
+
+Actually, I wouldn’t be surprised if he possibly even considered ripping out the eyes of the male servants or something. Which I’m glad he didn’t do.
+
+Anyway, from what I understand, the meeting will be exactly as Pestilence said. We’ll do a single group meeting with all four Horsemen, followed by individual meetings between the Horsemen where we will all stay here for a couple weeks. Giving us plenty of opportunities to make deals with each other.
+
+So I guess doing the experiment during my individual meeting with Pestilence should be fine.
+
+“As long as we have our meeting last, that’ll work,” I tell him while turning my attention back to the sun again.
+
+I really don’t want to end up meeting with the other Horsemen in the form of a child. Because that would be embarrassing.
+
+Pestilence nods his head and states, “Very well.” Then he walks right out of the swimming pool without another word, leaving the servants all breathing easier with his passing. The only sign of their struggle.
+
+After his exit, I continue to leisurely swim in the pool for a while before eventually getting out, drying off, and changing into a regular hoodie and shorts.
+
+This is a very nice villa.
+
+Come to think of it, are there any Hunter’s Spots on this planet? Because that would make this place so much better.
+
+I begin to wander around the place with my hands in the pockets of my hoodie, just exploring out of a brief sense of boredom and curiosity. Only to eventually run into War as he opens a portal and enters the place right in front of me.
+
+And the moment he sees me, he grins and spreads both his arms outwards while exclaiming, “Aria! It’s wonderful to have you with us for the first time!”
+
+I nod my head at him as I stop walking, only briefly glancing at the knight and other servants who immediately walk up to War and begin acting subservient to him as well. As if some sort of silent alarm notified them of his arrival.
+
+These servants and his knight look just like mine in how they’re acting. Just silently following without saying a word.
+
+War seems used to it though as he completely ignores their existence and tries to pull me into a bear hug. The man having grown more and more touchy over the years I’ve known him. Wanting hugs for some reason whenever we meet.
+
+At first it was just him patting me on the head or something, but I’m starting to wonder if he’s grown to see me as a little sister or something.
+
+It’s weird.
+
+So I step back at the last second and summon a Death Spirit right in front of me. Leading to him hugging a skeleton instead of me.
+
+All without taking my hands out of my pockets.
+
+Then I just walk around him as he’s glancing between me and the skeleton. Only for him to eventually toss the poor Death Spirit away, making it slam straight through a few walls in the process before he follows after me. Without trying to hug me this time.
+
+At least he gives up easily every time. So it’s a one and done thing.
+
+Honestly feels like he’s making it into a game.
+
+Makes me wonder if he’s just bored or something.
+
+“So how long have you been here?” War asks as he walks beside me with his hands held behind his head in a very laidback manner and his servants and knight join mine walking silently behind us.
+
+“I’ve been here for over a day now just enjoying the facilities,” I answer, only for War to pause for a second while looking surprised.
+
+“Wait,” War mutters, “you actually use those facilities?”
+
+I glance at him with a brow raised.
+
+They exist to be used, so why wouldn’t I?
+
+I don’t bother asking the obvious question out loud though and instead continue walking.
+
+“Wait, let me explain!” War, or as he keeps trying to get me to call him Lucius, says while catching up. “None of us have ever actually used the facilities Ignatius set up other than him.”
+
+Wait, so neither Lucius or Pestilence actually use them?
+
+Well that’s unexpected. And it explains Pestilence’s surprise earlier.
+
+Doesn’t matter to me though.
+
+“You really should,” I tell him as I continue walking until we arrive at the main foyer of the villa. A very large and fancy one at that. “They’re great.”
+
+He stares at me for a moment before chuckling. And as the two of us continue walking upstairs and begin making our way to the meeting area, he says, “So you interested in the battle?”
+
+I nod my head without saying anything.
+
+Lucius grins. A wide, battle-lust filled grin that used to send a slight shiver down my spine when I first saw it.
+
+“It’s gonna be great,” Lucius says as all the servants behind us shiver slightly.
+
+Now whether that’s because of his face or the fact that we all know a battle is coming, and they could easily get swept up in it and killed, I’m not sure.
+
+Either way, I’m just gonna be watching from the sidelines.
+
+I should make sure to get some wine to drink while watching too.

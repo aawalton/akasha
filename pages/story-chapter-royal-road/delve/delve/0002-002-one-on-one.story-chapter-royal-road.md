@@ -1,0 +1,303 @@
+---
+id: 662711bc-25a1-5f22-b980-253772078229
+page-type-slug: story-chapter-royal-road
+title: "002: One on One"
+slug: 0002-002-one-on-one
+partOf: delve
+position: 2
+ownLength: 3452
+unit: words
+publishedAt: 2019-06-02
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/368033/002-one-on-one"
+royalRoadId: "368033"
+---
+
+Rain goggled at the box hovering in his vision. He had fallen to the ground when the wolf died and the message appeared. He had been feeling more and more like this world was some sort of game or copy of modern fantasy culture. Having it confirmed so blatantly was quite unexpected.
+
+So I'm in a game? He breathed in the scent of blood and death and gagged. Way too real to be a game, and yet, this thing...
+
+The dialog was hovering in the center of his field of view, moving with his eyes. It was making it a bit difficult to focus on the world with it hanging there. Also, it was shattering his assumptions about reality.
+
+OK, level up, got it, now... Dismiss! Close! OK! Well, this is annoying.
+
+“OK Close. Dismiss.”
+
+Bah.
+
+Rain pulled his bound hands down underneath himself and, with some struggling, managed to get them in front of him. The rope wasn't too tight, but it wasn't exactly pleasant. He swiped at the dialog with his bound hands. To his surprise, it moved with his touch, as if he was dismissing an app on his phone, sliding to the left and out of view. Even more interesting, the panel seemed like it had an actual physical form. It felt like glass, but somehow electric and fuzzy. Rain didn't know quite what to make of the feeling. At least he could see now.
+
+OK, so I leveled up and got a message telling me about it. I can dismiss the message, but I need to touch it to do so.
+
+Hegar was looking a bit worse for wear, panting heavily. The mage also seemed like he had seen better days. He was sitting down with his eyes closed and was massaging his temples. Rain couldn't see the woman or the archer, but he assumed they were nearby. Nobody seemed to be paying attention to him.
+
+If I was gonna run, this would be the time. I could probably find a sharp rock or something and cut these ropes, but... Yeah, they would totally catch me. Plus, I keep calling them bandits, but I'm not sure they are actually. Maybe...adventurers? I mean, they look shady as shit, but who am I to judge. I don't know anything about the culture here. Maybe brown is the height of fashion... OK, probably not.
+
+Rain looked around again and, satisfied that he wasn't being watched, scooted back so he could lean against a tree. Hegar glanced up but didn't do anything to stop him. Instead, he moved towards the wolf. Drawing a knife from his belt, he started butchering the animal. Rain’s stomach flopped around unpleasantly and he decided to find something to distract himself.
+
+Status, Rain thought, as hard as he could.
+
+Damn, nothing happened. How about...Inventory...Skills...Character...Menu.
+
+“Shit!” His entire field of vision was suddenly filled with blue. A panel was hanging before him, much larger than the dialog, listing out several options in the top left corner, but otherwise blank. Getting over his shock, Rain took a closer look.
+
+Attributes (+20)
+
+Skills (+2)
+
+Statistics
+
+Options
+
+OK, Attributes.
+
+The panel disappeared, replaced by another one listing what looked like a character sheet.
+
+Attributes
+
+Richmond Rain Stroudwater
+
+Level 1
+
+Experience: 3/100
+
+Unclassed
+
+Health
+
+200
+
+Stamina
+
+200
+
+Mana
+
+200
+
+Strength
+
+10 (+)
+
+Recovery
+
+10 (+)
+
+Endurance
+
+10 (+)
+
+Vigor
+
+10 (+)
+
+Focus
+
+10 (+)
+
+Clarity
+
+10 (+)
+
+Free Stat Points
+
+20
+
+OK, so I'm pretty generic. Level 1? So I guess I started at zero? 10 points per level, and a base level of 10 for each stat? Wait, so if I put 10 points in strength, does that mean I'll be twice as strong? I mean, that sounds pretty good, but I don't think it can work like that; otherwise, everyone would be able to bench press a tractor trailer. And what the heck are these other stats? Recovery? Of health, or is that everything? What the heck does Vigor do then? Maybe I should put some points in clarity, because this is pretty fucking cryptic. What happened to dexterity, intelligence, and constitution?
+
+Rain sighed and stared at the numbers. I can't put points in these, not until I know what they do. I have these guys to protect me, so it isn't like I'll die out here without the stats, so I can wait. I don't want to do something I might regret...
+
+Damn it, James was right, I am a hopeless min-maxer.
+
+Thinking of his friend from college and the DnD campaign they had both played in, his mouth quirked up into a half smile. Maybe it was the adrenaline, but Rain wasn't thinking too hard about his reality at the moment. Instead, he wondered what James would have said about this character sheet. James played bards. Always bards, ever since high school. No charisma in this world, eh? Too OP?
+
+His smile fell as he recalled the ending of that particular campaign. His character had died of poison as the rest of the party tried desperately to save him. It had been a bad time for Rain. His father had died at the start of the semester and he had decided to drop out to help support his mother. He had stuck around for this last session of the campaign, only for his character to fall in the final battle. The next day, he packed up his car and returned home, finding a job in construction. He hadn't kept in touch with James or any of his other friends. His mother had died a few years later and long hours and mild depression had caused him to withdraw from most human contact. It was only in the past few weeks or so that he had decided to claw himself out of the hole he had dug.
+
+I guess I don't need to go to the gym now... ha. Fantasy world, experience, levels. Who needs cardio?
+
+Rain looked down at his slightly pudgy gut. I wonder. If I put points in strength, will I hulk out? Question for later. Damn it, why can't everyone just speak the same language like in every science fiction show ever? That guy can throw fireballs, but doesn't know a translation spell? Another question for later: Translation spell, is it a thing? Oh, maybe I can check.
+
+Back. Dismiss. Menu. Ah, there it goes, ok, Skills. Great, I can go direct. Let's see here.
+
+Skills
+
+-
+
+Free Skill Points: 2
+
+-
+
+Fencing | Physical Utility | Physical Passive | Fire Evocation | < | > |
+
+Not a lot here, umm Fencing.
+
+Fencing
+
+Tier 0
+
+Counter 0/10 (+)
+
++5% damage after blocking (str)
+
+Thrust 0/10 (+)
+
+Stab forwards
+
+Deal 5-7 damage on hit (str)
+
+Cost: 5 st
+
+Tier 1
+
+Locked
+
+Ah, I see, so these are categories. Humm. Physical Passive.
+
+Physical Passive
+
+Tier 0
+
+Strength of Arm 0/10 (+)
+
+Increase physical strength by 2% (str)
+
+Lifespring 0/10 (+)
+
+Increase health regeneration by 10% (str)
+
+Rugged Defense 0/10 (+)
+
+Increase physical resistance by 2% (end)
+
+Tier 1
+
+Locked
+
+What does that (str) mean? Skills governed by strength? So (end) would be endurance then? Wait, shouldn't that lifespring thing be recovery? (rec)? Maybe it is something else. Need more data. Fire Evocation.
+
+Fire Evocation
+
+Tier 0
+
+Firebolt 0/10 (+)
+
+A bolt of magical fire assails your target
+
+Deal 6-8 heat dmg (fcs) on hit
+
+10m range
+
+Cost: 10 mp
+
+Tier 1
+
+Locked
+
+Only one spell? Well, it seems pretty good assuming that is what mageman over there was using. More damage than the sword thrust, don't need a sword, ranged, sets things on fire. Who would ever want to use a sword when you can throw fire? Damn it, distracted again. (fcs), that must be focus. So focus makes magic stronger, strength makes physical skills stronger, endurance is...defense?
+
+Rain flicked through several more tabs of the display, using the arrows to browse through the list. There were quite a few tabs, and he quickly got lost in the sea of options. He saw many skills governed by strength, endurance, and focus, but nothing for recovery, vigor, and clarity.
+
+I guess they are support stats? Judging by the layout, recovery goes with strength, so health regen probably. Vigor goes with endurance, stamina recovery, makes sense I guess. That leaves focus and clarity. Yes, it is all clear now...yeah right. Oh, maybe I should see if there is some sort of help menu. Help. Damn it. Menu.
+
+Everything closed.
+
+Help. Damn, nothing. Menu, ok, now Help! Damn it, still nothing. Menu.
+
+With all screens closed, Rain sighed and leaned back against the tree. He rubbed his eyes, wincing at the start of a headache. It had been an insane day of disorientation, walking, terror, more walking, and now overwhelming questions about the nature of reality. Worst of all, he hadn't had a coffee in something like half a day and the caffeine withdrawal was starting to kick in.
+
+He yawned. I'll save my points for now. I need to know what the stats do, not just guesses. And I need to know how skills work. Like, if I put a point in firebolt, do I just magically know how to cast it? Arrrrrgh, how is this bothering me more than the GIANT FUCKING WOLF that just attacked me?
+
+Looking over at Hegar, he saw that he had managed to remove the wolf's pelt. He was currently arguing with the archer, who had returned at some point. The object of the argument seemed to be a huge, ragged slab of meat Hegar was holding in his hand while he gestured at the fire. Apparently, Hegar thought musk wolf made for good eating, but the archer disagreed. Mid-sentence, the archer cut off and tilted his head, then looked out to the road, narrowing his eyes. Rain followed his gaze and started searching the treeline across the road for whatever had caught his attention.
+
+Shit, don't tell me... Wolves hunt in packs.
+
+Suddenly, the archer snorted and looked away. While he was distracted, Hegar had managed to impale the slab of meat on a skewer and propped it over the fire. He grinned at the archer, hands on his hips proudly, despite being covered in the wolf's blood. The bucket of water that the woman dumped over his head took him completely by surprise. He hollered as the archer bent over, laughing and gasping for air. The woman just smiled and threw a cloth at Hegar, who decided to be a good sport and sighed, rubbing at his clothes with the rag. It looked more like he was spreading out the bloody stains, not actually removing them. Suddenly, Rain heard something that could only be described as a splortch. He jumped and snapped his gaze back to the road. Something had wandered out of the trees and was squelching its way towards them.
+
+A slime? I thought they were supposed to be cute. That thing looks like a giant clump of congealed snot. White with yellow streaks, blech. Slimes are supposed to be green!
+
+Hegar was watching the progress of the slime with mild interest. The archer didn't even glance over at it; instead, he was trying to start a conversation with the woman, who was resolutely ignoring him. The mage was nowhere to be seen.
+
+Rain backed away, trying to edge around the fire so the bandits were between him and the slime. Hegar glanced at him, then poked the archer, who whirled around and demanded something in an annoyed tone. Hegar pointed at the slime. The archer snorted and wandered away. The woman shook her head.
+
+Hegar sighed, then peered around the clearing. Apparently, he didn’t see what he was looking for, as he bellowed a word at the top of his lungs. From the lack of reaction of the others, he assumed this to be the name of the missing mage.
+
+Yeah, come on Brovose, where are you? We need you to burn this nasty booger.
+
+Hegar shouted again, but there was no response. He stomped his foot and cursed.
+
+Hey, at least I'm learning to swear from these guys. This thing can't be much of a threat. I think Hegar just doesn't want to deal with it himself.
+
+Wearily, Hegar unsheathed his sword and looked at the slime, then the woman. She shook her head and Hegar sighed, turning to face the slime. Then, he stopped and looked directly at Rain.
+
+No. Oh no no. Rain held up his bound hands and shook his head.
+
+“No. No way.”
+
+Hegar grinned and replied with what Rain assumed was ‘Yes way’ and started stalking towards him. Rain started to back away, but tripped over something, falling hard to the ground. Hegar snorted, and with a flick of his sword cut the rope binding Rain's hands. Rain gulped.
+
+Well that was fucking terrifying. He could gut me like a fish.
+
+Hegar gestured at the slime, which was almost upon them, then stepped back behind Rain. Hoisting him to his feet, he gave him a push towards the slime, which Rain now saw was actually more interested in the bloody ground near the wolf's remains than the humans in the camp.
+
+“Can I use your sword, or...yeah, didn't think so,” Rain said despondently. Looking around, he spotted a sturdy branch over at the side of the clearing. Hegar watched him patiently. Picking up the branch, he gave it a few swings.
+
+Ok, slime, time to get splatted.
+
+Rain walked towards the slime, his branch held in front of him defensively. The slime was about the size of a large dog but had no other defining features. It was starting to take on a somewhat red tinge as it fed on the blood of the wolf. Somehow, it seemed to detect Rain's approach, as it quivered, then leaped at him. Screaming, Rain swung his branch like a bat and felt it make contact with the putrid mass. Instead of flying off into the outfield, the section of the blob that he hit splattered everywhere, some of it landing in Rain's mouth.
+
+“Urk, Gaaahah,” Rain spluttered and spat, backpedaling. His hit had killed the slime's momentum and it looked like it had done some damage, but it wasn't without cost. It felt like someone had dumped a bin of used diapers over him. Clumps of disgusting sludge were dripping down his face and plopping onto the ground. As he coughed and spluttered, the sound of raucous laughter reached his ears. He made out three distinct male voices gasping and wheezing in merriment.
+
+Great, the mage is back. Fuck you, mage. Attacking a slime with a stick, I feel like such a moron. Yeah, yeah, laugh it up.
+
+Having cleared his eyes, Rain tried not to think about the putrid taste in his mouth and eyed his opponent. The slime had drawn back and was sloshing side to side. It recovered and started moving towards him again. Rain walked backward, staying out of the range that it was able to leap. The slime continued to follow sedately as Rain walked toward the fire.
+
+Not too bright, are you? Rain thought, holding the end of his log in the flames until it ignited. Whatever the slime was, it seemed to be flammable. The flames took to the slime coating the wood quickly and started to spread towards his hand.
+
+“Shit!” Rain swore. I'm covered in this stuff!
+
+He lobbed the burning branch at the slime and, to his own amazement, hit it dead center. The slime lit up immediately and then started bubbling. Rain heard a curse from behind him, but before he could do anything the slime exploded, sending chunks of burning goo flying all over the camp. He dove backward, then rolled over, trying to smother the drops of burning sludge that had landed on him before. He writhed in the dirt, trying to bat out the chunky lumps of goo and having moderate success. He was aided by the fact that the goo burned quickly, almost too quickly to set his clothing on fire. Soon, all that was left was the odd clump that had somehow escaped the blaze, as well as a smell that defied description.
+
+Rain panted and spat, then looked angrily for Hegar. He was shocked to see that three of the figures were protected by a bluish magic field which dropped as he watched, revealing them to be unharmed. Brovose lowered his hands and laughed, not looking at Rain but instead at Hegar, who Rain saw was in just as bad of a state as himself. He wasn't on fire but his face was beet red and he was screaming at Brovose as he gagged and spluttered.
+
+Thank you Brovose! You may have saved my life with that stunt. Yes, yes, yell at the mage, forget about the idiot who detonated a fatberg all over your camp.
+
+Rain was distracted by the sudden appearance of a dialog in his vision.
+
+Your party has defeated [Slime], Level 1
+
+Your Contribution: 99%
+
+23 Experience Earned
+
+Level 1 slime. Not a Dire Dumpster Slime or a Putrid Pustule or anything. Just a regular old slime. Rain thought, dismissing the dialog, then clawing futilely at the oily, lumpy mess covering him. I will never be clean again.
+
+No sooner than he thought this, the slime started to dry out and flake off, dissolving into motes of dust even before it hit the ground. The smell also started to fade as the mess in the camp dissolved into thin air. There was a faint white glow in the air, pulsing in intensity. Looking for the origin, he noticed that the woman had her eyes closed and arms spread. The glow was emanating from her body and washing away the filth as if it had never been. The pulses of light built on her skin before silently breaking away, diffusing outwards in a sphere. The light drifted through the clearing like a pale, luminous fog, curling around objects it encountered and rolling along the ground in eddying waves. It faded away after having traveled several meters beyond the edge of the camp.
+
+Motion caught his eye and he watched Brovose walk over to ground zero and bend to pick something up. A white glint escaped his hand as he palmed up the tiny object before tucking it into a pouch at his belt. Rain wondered what the object was as Hegar joined him in standing next to the woman. Hegar tapped his foot impatiently as the light did its work.
+
+It took about 30 seconds, but when she finally stopped, Rain felt as if he had just taken a shower. At least on the outside. The memory was still all too real for him to feel truly clean. Looking down, he saw that his clothes, while singed, looked neat and freshly laundered.
+
+The camp was silent, save for the anguished moan of Hegar as he realized that his wolf steak had fallen into the fire in the excitement and was now charred beyond all saving. The wolf corpse itself was gone, bones and all, but somehow the pelt remained. It looked like it had been freshly dry-cleaned, if a bit matted down and tangled.
+
+Well. That happened.
+
+Rain looked at the woman in awe as she calmly walked over to her pack. Shouldering it, she started collecting her various supplies and tucking them away. The others were lazing about.
+
+What bums...the least they could do is help.
+
+Rain got up and moved to do just that. Accepting the crooked spoon he handed her, she nodded to him in thanks. She glanced at where the slime had been, then at the branch, which had been blown into the middle of the road, then back at Rain. Before returning to the cleanup, she smiled and shook her head with a chuckle of amusement.
+
+“Hey,” Rain said, as they worked. She looked at him, raising an eyebrow.
+
+“Thank you.” He knew she didn't understand him, but he felt he needed to say it anyway. He wasn't exactly sure what her role was in this little group, but she was clearly the only responsible member of the party.
+
+She just shook her head. Then, she gestured to herself and said a word.
+
+“Ameliah.” She then pointed to the others and named them in turn.
+
+“Anton,” she indicated the archer, “Brovose,” the mage, and with a roll of her eyes the swordsman, “Hegar.”
+
+She ended by gesturing at Rain, opening her palm in an inviting gesture.
+
+“Rain,” he replied, touching his chest.
+
+“Rain,” she repeated. Nodding, she set back to packing up the camp. Rain hurried to help.

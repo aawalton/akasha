@@ -1,0 +1,133 @@
+---
+id: 9078e98c-287f-5f24-83de-74310d299135
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,396 - River Crossing"
+slug: 0074-chapter-1396-river-crossing
+partOf: defiance-of-the-fall
+position: 74
+ownLength: 3019
+unit: words
+publishedAt: 2026-01-13
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2939831/chapter-1396-river-crossing"
+royalRoadId: "2939831"
+---
+
+Zac drew from his reservoir of untapped enlightenment. It wasn’t enough to turn his theory into a proper method, but the truth of Ultom strongly suggested that his idea had merit. Invigorated by potential gains and armed with the means of destruction, Zac met little resistance as he began forging a trail of destruction following the ancient dagger’s lead.
+
+Each kill was a double blessing. It allowed a few streaks of ancient Killing Intent to be integrated with his spiritual body while nurturing the nascent Warbringer Idol. A triple blessing if you counted the extreme battlefield clarity that came with absorbing the refined intent, though slaughtering Early Hegemons who neither used Daos nor Skills provided limited insights.
+
+The joy of finding a blessed hunting ground was short-lived. Zac was only allowed a few dozen kills before his actions came back to haunt him. The presence from the other side had seeped into the hidden battlefield, and it grew stronger with each fallen soldier. Zac quickly stopped his slaughter, but it wasn’t enough to make it go away.
+
+“Persistent bastard!” Esmeralda cursed as runes appeared on her body.
+
+The spatial field surrounding them grew stronger. It didn’t stop the spectral warriors from attacking, but it made it harder for their perception to lock onto their position. The realm itself was helping as well by resisting the presence. It wasn’t enough. Zac’s actions had created enough of a stir that the Imperial War Machine had been disrupted, giving the frenzied beasts the opportunity to mount a reversal.
+
+Each death provided the entity with more access, causing Zac’s looming sense of danger to grow louder. It was only a matter of time before it grew strong enough to overcome the interference. The sleeping Idiche didn’t provide any solutions this time. Her cloak kept her safe from attacks, and she was content to allow herself to be dragged along for the ride.
+
+Zac kept a frantic pace, careful not to release his aura out of fear it would expose his location. Escaping the shifting battlefield proved easier said than done. Like in a nightmare, Zac felt as though he was stuck running in place. They only confirmed they were making headway after five minutes.
+
+“I feel it!” Esmeralda exclaimed, at which point Idiche woke up with a start.
+
+With drowsy eyes, the Vice Guild Leader released a wisp that rushed ahead, taking a circuitous route among thronging soldiers and bloodthirsty beasts. The toad took the lead, dragging Zac and Idiche along roughly the same path. The wisp expanded just as Zac sensed an anomaly just ahead, and Esmeralda dove into it without hesitation.
+
+An azure glow filled Zac’s vision before they found themselves back in reality. He stood on the other shore of the shallow river, his legs wet up to the knees. The entity’s perception failed to follow them through the passage, but Zac had a sinking feeling that it would be waiting for him in the next river. But for now, they were safe—as safe as one could be in a desert teeming with corruption.
+
+Zac exhaled as his body stilled like an engine coming to a gradual halt. The ancient intent did the same, and the clarity brought from its distilled experience faded. Zac sighed with regret. He’d ended up taking out close to a hundred soldiers during the dash despite keeping the count to a minimum. That was enough to refine two percent of the remaining intent, but it only represented a fraction of the battlefield’s true value.
+
+Ultom’s enlightenment had already provided the answer to how illusions of Early Hegemons could bring greater benefits than slaying Peak Beast Kings and bathing in their blood. The soldiers he fought were real otherworlders. Their enemies had used the magic circles to send slivers of their souls across the timelines, and each soul carried the touch of that entity.
+
+Zac wasn’t sure if the mark was necessary to survive the passage or if it was necessary to achieve their goals. In either case, the impartation gave the soul slivers the necessary strength to take shape inside the illusory realm. They were clones marked by a great existence, and it was the shadow of the entity’s power that triggered the ancient intent.
+
+The streaks of spirituality entering his body should be a contingency to expose any enemies that tried to get in their way. It looked increasingly likely they would have to deal with the invaders themselves unless Astora Theomore had made it to the island in time. He couldn’t imagine any random disciple making it across the eight rivers without triggering the hidden trap.
+
+Unfortunately for the otherworlders, Zac’s body was a hungry vortex few energies could endure. If the ancient Killing Intent hadn’t seized it first, [Void Heart] would have gobbled it up. Instead of danger, it became the vehicle for his advancement, though using it that way brought unwanted attention.
+
+That was only the first gain of the crossing. Zac glanced at the illusory seed still floating before him. A slight crack had appeared on its pitch-black surface, and Zac could feel youthful life waiting to sprout. The nascent Idol actually represented both Life and Death. It differed from his original idea of having one idol per Dao, but it did align with the cyclic and mutually dependent nature of Life and Death that he’d experienced as a mortal on the Peregrine Ocean.
+
+The budding idol felt much more false now that they were back in reality. Even so, Zac could tell he was building toward something true. And should he fail to form it while crossing the other rivers, he’d recapture the feeling sooner or later. The only reason he’d fail was if he decided to forcibly change its nature, like splitting Life and Death or changing it into a Chaos Idol.
+
+But why would he? [Warbringer Dharma] was only an auxiliary method meant to improve the synergy of [Void Emperor Apotheosis]. He wasn’t a Heart Cultivator, and he neither could nor wanted to put too much time into nurturing his heart. His experience on the Peregrine Ocean had already shored up his shortcoming, and getting a second Warbringer Idol would suffice to cover his needs for a long, long time.
+
+After making sure the illusion seed wouldn’t slip through his fingers, Zac turned to his companions. “Are you two okay?”
+
+“I’ve seen better days,” Esmeralda grunted as the last streaks of corruption left her body. “At least the next crossings won’t be as bad. You could even say the realm helped us deal with a hidden danger. But why couldn’t it be more gentle about it?”
+
+Idiche didn’t respond to the question, but her steady aura was answer enough. She was not only fine, she seemed to have gained as much as Zac from the crossing. While the hidden realm forcibly extracted more corruption from her than from the others, it had also imparted plenty of illusory energy. Her aura had grown more exquisite, and it held a stronger hint of mystery and antiquity than before.
+
+‘I knew it. That ancient soul within her is stirring,’ Esmeralda said in a solemn tone through a telepathic message.
+
+Zac didn’t let his worries show, even if he’d noticed the same thing. Idiche’s transformation had begun when stepping onto the island, perhaps even sooner. They’d gradually extracted information about her sleepwalking abilities under the guise of dealing with their common enemy, and it was clear that her sleeping persona was increasing its authority over her body.
+
+According to Idiche, her ability had only been in the form of sporadic prophetic dreams in the beginning. When she seized Esmeralda, it was the first time Idiche’s other persona had forcibly taken control. Since then, she’d repeatedly fallen asleep unprompted to push their group down a certain path. Her changes had drastically accelerated after Idiche absorbed Marai’s treasure.
+
+Zac wasn’t sure who he was dealing with by now. He felt as though he was standing next to an inscrutable senior as Idiche gazed at the glowing moon with a distant expression. The other persona was leaking through even in her awakened state. How long would it be before the original Idiche was fully replaced by this unknown variable?
+
+The hidden persona was obviously much stronger than the original Idiche, but her goals and allegiances were unknown. She’d helped out thus far, but that could be because she needed help to access the lodge. Bringing her inside might do more harm than good. Zac briefly considered incapacitating her then and there before giving up on the idea. He still didn’t feel confident in pulling off the heist without her help.
+
+“We should continue. Every second we delay will only make it worse,” Zac muttered.
+
+Both Esmeralda and Idiche had expelled most of their corruption during the crossing, but the taint beyond the first river was noticeably denser than outside. Even Zac could feel the profane energy of the Lost Plane trying to burrow into his body from below. Worse, there was something wrong with the moon. Its radiance had grown stronger, and just being exposed to its azure glow was agitating his mind. It was some form of unseen mental corruption.
+
+Idiche slowly turned away from the moon as her expression became more normal. “I fell asleep again?”
+
+“You woke up before we emerged, I think,” Zac said, adding after a brief pause, “Did you see something new?”
+
+“That moon... It cannot be allowed to set,” she said.
+
+Zac nodded, not surprised in the slightest that the moon was bad news. “Anything else?”
+
+“I saw it. Sevona’s Divine Core from the vision. It floated in the middle of a wooden chamber, casting a great shadow and surrounded by four silhouettes,” Idiche added, her gaze growing distant again.
+
+“Good. Let’s go,” Zac said. Confirming that the Divine Core was still around was good news as far as Zac was concerned. It meant their plan had a clear target. Zac guessed the four silhouettes were those fighting over it, their group possibly one of them. “We still have seven rivers to cross, so I’ll hold off on sacrificing my blood to the dagger.”
+
+They set off again. The stretch of desert between rivers didn’t hold hidden dangers or formations. The only threat was the unusually active corruption that had pushed out all other energies. It actively sought out anything to stain. With Esmeralda’s speed, they only had to endure for five minutes before stepping into the next river and being brought to another battlefield.
+
+The fighting was fiercer, and the average strength of the combatants was a notch higher. The distortion was also greater, constantly shifting the cardinal directions while adding unpredictability. As expected, the overwhelming perception already covered the battlefield, searching for something that didn’t belong. There was even a decent amount of corruption in the air, causing a destructive cycle as it burrowed into their bodies. Luckily, the ambient illusory energy was also stronger. It had reset the perception to a large degree, and it failed to notice Zac’s arrival. It was still only a matter of time.
+
+Zac tried to rely mainly on his chains this time, restricting instead of killing. That plan hit a snag almost immediately. The heart seed had regained its power upon reentering a subspace, but the chains were still only semi-corporeal. Meanwhile, the soldiers appeared smarter than before. They quickly figured out the limits of the chains, and Zac soon found himself in a melee again.
+
+The pressure was manageable, though Zac noticed that the attacks held a sliver of Dao. In the previous battlefield, they’d solely fought with physical strength. Would each river add an aspect of their true strength until they were indistinguishable from real soldiers by the final river?
+
+Zac discarded any useless thoughts. He constantly shifted direction while dealing with the army’s growing resistance, unerringly following the direction pointed out by the dagger. Even that proved harder than before, as some force was interfering with the signal.
+
+Handing over the dagger to Esmeralda while he focused on the soldiers didn’t pan out. While she could see through the battlefield’s transformations better than Zac, her connection with the dagger was weaker. She kept losing the direction, and she wasn’t immune to the whispers of the ambient corruption. It kept messing with her decisions, and Idiche proved even more susceptible. Ultimately, they could only revert to their original method.
+
+The situation quickly deteriorated. More and more soldiers shifted their direction from the beasts to him. Zac had no choice but to start thinning their numbers when the onslaught grew too intense. It was gratifying to have his cultivation progress resume, but it couldn’t make up for the growing sense of doom.
+
+It took ten minutes to cross the battlefield, and the moon shone like a jewel when they emerged. Its light was mainly concentrated directly below, and it appeared capable of forcing the lodge into being. So far, only the tips of a few wooden spires were exposed. They were lacquered in different colors and somehow combined rustic charm with archaic gravitas.
+
+Just seeing the tip of the iceberg was enough to know they weren’t dealing with a simple huntsman’s lodge. Judging by the height and distance between the spires, it would be more apt to call it a forest castle. Both attracted and worried by the sight, they kept going without pause. The third, fourth, and fifth rivers were overcome without any significant setbacks. Nevertheless, Zac hesitated as they approached the sixth.
+
+Zac’s condition wasn’t bad. Fighting while only relying on his Warbringer Idols drained very little energy, and each river was more rewarding than the one before. He felt as though the seed only lacked a final push to sprout and become something real. The problem was whether he’d survive that push.
+
+Each crossing took more time while presenting fiercer resistance. It felt like the perception was only seconds away from locking onto their position when they found the fifth river’s exit. They wouldn’t make it out in time if they adopted the same approach for the next battlefield.
+
+“We could wait a few hours,” Esmeralda reluctantly suggested.
+
+“I’m not sure we can survive the break,” Zac hesitated.
+
+The moon was beating down at them with no less intensity than a sweltering sun. Zac could feel his Soul Aperture wither under its glare, and the corruption in the fifth band was simply unbearable. The sands shifted like they’d heard Zac’s thoughts, and a sandman rose from the dune. Dispersing it with a forceful kick didn’t change anything. Another sandman began taking shape, followed by even more.
+
+“Are they trying to escape the containment of the rivers?” Esmeralda blurted upon seeing their familiar shape. They looked just like the armored soldiers inside.
+
+“We’ll have to give it a try. Give it to me,” Idiche said.
+
+Zac hesitated a moment before handing over the dagger. She’d assured them she was strong enough to take them across the whole river with energy to spare. Should that fail, she would bring out another lifesaving treasure left by her master. Having witnessed the power of the Eighth Elder’s other gift, Zac had agreed with the idea. He’d just hoped to save the solution until the next river.
+
+Idiche dragged the edge across her palm, and the sacrificial tool greedily accepted the offering. It released a pulse, and the hidden road stretched out across the water. They only got halfway across before Idiche grunted, and the bridge collapsed. Zac quickly snatched back the dagger as they plunged into the water. Zac had already been prepared for the outcome yet chose to go ahead anyway. He believed that entering from the middle of the river would put them closer to the exit.
+
+It was too early to tell if he was right, but it had clearly made a difference. This time, they fell through unstable clouds instead of appearing shoulder to shoulder with the shadow army. Zac swore upon realizing his powers of flight were sealed, his voice cracking when hundreds of soldiers looked up at the same time.
+
+“Backup plan?” Idiche said, her cheeks flushed with exhaustion and embarrassment when Zac turned to her.
+
+“I was growing tired of playing tag anyway,” Zac comforted her with a crooked smile.
+
+“I guess we have no choice. Ten seconds, make it count,” Idiche sighed as she took out a crystalline bottle filled with starlight.
+
+She tapped the stopper against Zac’s hand before pouring out its contents on the soldiers below. Suddenly, Zac was no longer descending alone. A hundred copies of himself descended on the battlefield like a calamitous meteor shower. They were illusions, yet not; in some ways, they were more real than the corrupted army.
+
+Dozens of soldiers were torn apart in the blink of an eye, and Zac’s descent was no longer the focus. In fact, his presence was completely gone, shielded by a swirl of stars. The enemy lines were in chaos, and the powerful perception grew scattered as it began investigating the deadly squad that had appeared out of nowhere.
+
+Zac turned into a blur the moment he landed, cutting the closest soldier in two. The shimmering light hiding him held steady, and not even the powerful entity noticed his actions. Idiche had called the bottle a one-time escape treasure that conjured copies of oneself while hiding your presence. But the copies had more than half Zac’s strength, so it could just as well be considered a terrifying offensive item.
+
+There was no time to lose. Zac left a streak of starlight in his wake as he set out at maximum speed. He didn’t bother weaving back and forth to minimize casualties. He became a harvester of lives, feeding death into the seed during his mad dash. Now that the situation had reached this point, Zac only had one goal in mind. Idiche had given him a ten-second free-for-all, and he intended to make it count. How to cross the last two bridges was a problem for the future. For now, he had experience points to collect.

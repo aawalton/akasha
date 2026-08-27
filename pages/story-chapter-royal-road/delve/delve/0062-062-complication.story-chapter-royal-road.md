@@ -1,0 +1,245 @@
+---
+id: 925dfd6d-158f-5732-b22f-130010b24e6a
+page-type-slug: story-chapter-royal-road
+title: "062: Complication"
+slug: 0062-062-complication
+partOf: delve
+position: 62
+ownLength: 5129
+unit: words
+publishedAt: 2019-11-17
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/424497/062-complication"
+royalRoadId: "424497"
+---
+
+Rain stopped as he reached the guild square, looking up the steps to the building. After visiting the Bank, the Adventurers’ Guild looked small, almost humble. The sign hanging over the door bearing the Guild’s crossed sword-and-quiver emblem was made of wood, not gold. The stone of the building was rough, not the polished marble of the Bank.
+
+Not very impressive. Still, I think I like this better. The Bank wasn’t exactly gaudy, but it was a bit over the top. He shrugged and walked up the stairs. Let’s have a little fun.
+
+He activated Detection, having long-since decided that he had no compunctions about using the skill in the city. He was pretty sure that if anyone was capable of noticing him using his magical radar, they would have made an issue of it by now. He received plenty of signals for entities within his range, but the guildhall itself seemed to be mostly deserted. The lines from earlier that morning had cleared up, the adventurers off doing whatever quests they had found on the board. He temporarily blacklisted Gus. One of the signals disappeared until he removed him from the list again. Good, he’s there.
+
+He pulled up his hood, making sure that his helmet was completely hidden. His HUD appeared in his vision as the cowl fell over his eyes. There was yet another new bar that he’d added to his interface below the one for the armor’s durability and saturation. This one showed the charge of the mana capacitor in a pale metallic-blue color. It was mostly empty and was decreasing further as the Dark Regeneration rune worked. Rain didn’t care; he’d charge it up again in a moment. This wouldn’t take long, and it would be so worth it.
+
+He pushed open the door and walked blindly into the room. He kept Detection running so he could track his position, using the people inside as reference points. He threw in a few other pings for obstacles in his way, but mostly he was relying on his memory of the layout of the room.
+
+He managed to make it all the way to Gus’s counter without crashing into anything. He did his best to loom as he faced the signal in his mind, though he couldn’t see a thing. “Shiiiiire…..Baaaagiiiinssss!” he hissed.
+
+“The fuck is that supposed to mean? That you, Rain?”
+
+He reached up and slowly lowered his hood, grinning behind the visor of his armor. His face fell as he saw Gus staring at him, unimpressed. “I knew that was you. You’re really odd, you know that? No, odd is an understatement. I work in the Guild, I’m used to odd. You…are something else.”
+
+“Hi Gus,” Rain said with a shrug. “Come on, you’ve got to admit that was fun.”
+
+“No, I don’t.”
+
+Rain sighed. “You’d change your mind if you saw the movie.”
+
+Gus harrumphed. Rain looked around the room. The other signals turned out to have been coming from a pair of cloaked women standing near the entrance. They were arguing with each other, not paying attention to him at all. “Did you want something? You didn’t come here just to mess with me, did you?”
+
+Rain frowned, turning his attention back to Gus. Seems like he’s in a mood. Must have been a tough morning with how busy it was in here. Satisfied that he was secure in the guild, he raised his visor. “Well, I do have a quest to turn in. You’re not going on break soon or anything, are you? I can come back later if you were going to go get lunch.”
+
+“It’s fine,” Gus said with a sigh. “Rankin should turn up in a little bit and then I’ll go. Give it here. This the slime one? Done already?”
+
+Rain nodded, reaching into a pocket of his cloak to retrieve the quest slip. He passed it across to Gus, then dug in his bag for the crown. He held it up so Gus could see it. “Here, in case you need proof. It was a Mucus King, and it dropped this.”
+
+“Well, I’ll be damned, you really did take care of it, didn’t you? Did you get that idiot to help you? What was his name again? Vell?”
+
+Rain shook his head, placing the crown on the counter. “Val. And no, it was just me.”
+
+Gus picked up the crown and turned it over, peering at the metal. He set it back down and looked at the quest slip. “Well, this doesn’t say anything about requiring verification. The guild will usually just take you at your word unless the client specifically requests proof of completion.” He swept the quest slip into a drawer, then counted out 20 Tel on the counter before recording the quest as completed in a ledger. When Rain reached for the Tel, Gus quickly covered them with his hand and gave him a significant look. “I don’t think I need to tell you that lying about completing a quest is a bad idea. Not that I’m doubting you, that crown is pretty compelling, but…I’ll be clear. Don’t do it. You understand?”
+
+“Yeah, Gus. I get it.”
+
+Gus took his hand away and Rain happily added the Tel to his money pouch. I’m rich again. Well, not really. I need to be more careful with my money. That coffee was damn expensive. I think the only reason the merchant let me talk him down to 3 Tel was because I intimidated him. I wasn’t trying to. I kinda feel bad about it, actually. Still, I only got a small packet of roasted beans. Barely enough for a cup or two. Wherever coffee grows here, it must be far away. What are the logistics of importing something from across the world when you don’t have container ships or cargo planes?
+
+“You wanna sell that too?” Gus asked, nodding to the crown and bringing Rain out of his musing. “The Guild will probably buy it. Danna won’t be in until later, though. She usually does the appraisals for monster drops.”
+
+“No, I think I’ll keep it,” Rain said, picking up the crown and slipping it back into his bag. “Who’s Danna?” He thought back. “Older woman? Salt and pepper hair? Kinda tall?”
+
+“That’s her.”
+
+Rain nodded. I remember her. She was the one who took care of us when Hegar and co. brought me here for the first time. I think I saw her here this morning. He looked around the guildhall. Other than Gus, there were no other staff members apparent. The three heater plates glowed on the wall, but the room was fairly sparse in terms of ornament and decoration. The door was made of heavy wooden planks, not enchanted marble. He shook his head. “I don’t get it, Gus. I stopped by the Bank earlier today, and compared to their building, the Guild is a little…rustic. It was so busy in here this morning. It seems like we could afford to spruce the place up a bit. Where’s all the money going?”
+
+“Tell me about it,” Gus said with a sigh. “It’s not like they’re giving it all to me. I’ve no idea. Rankin takes care of the finances; he just tells me how much I’m allowed to spend on maintenance. As you can tell, it’s not much. “What does ‘spruce it up’ mean? What do trees have to do with anything?”
+
+Rain laughed. “Sorry, it’s an idiom. It means…to decorate I guess, in this context. Make things a bit nicer, more stylish. Never mind. Oh, hey, you haven’t seen Ameliah or Jamus, have you?”
+
+“The silverplate and the walking fashion disaster? Can’t say that I have.”
+
+Rain smiled despite himself. Hah, fashion disaster. “Well, I’m going to go over to the Guild tavern. If they come in, can you let them know I’m in there?”
+
+“Sure,” Gus said with a shrug. “If you see Rankin, tell him to get his ass out here. Maybe don’t say it quite like that, but damn it, I’m hungry.”
+
+Rain nodded and bid farewell to Gus. That went well. Even if he didn’t appreciate the Nazgul impression, at least he’s being friendly. I’m not sure I buy the economics of this place. The Guild should be way better off than this. Maybe they have to pay rent to the city or something?
+
+Eh, whatever. I need to worry about my own finances first. He glanced at the quest board, but it was completely bare. He shook his head and walked off to the tavern. I’m going to have to get here early if I want anything, looks like. I’m starting to see why Jamus would pay for a bunk even if he’s got a house nearby. Beating that line must be worth it. Everyone seems to wake up around the same time thanks to the system’s daily training notifications, so being closer is definitely better. I wonder if Tallheart can figure out how to make an alarm clock? No, scratch that. I might be able to convince the system to make me one.
+
+Neither Jamus nor Ameliah were in the tavern, confirming what Gus had said. There was no sign of Rankin either. He got himself a table and took out a ration bar. He wasn’t willing to spend more Tel on a meal, not after blowing so much money this morning. He only had the 20 Tel from the Mucus King, plus the eight bits. Nobody had wanted to bother with those. He chewed on his ration bar, debating what to do while he waited. He settled on working on a problem that he’d been considering ever since he’d gotten his cloak.
+
+Now that he had the cloth garment to worry about, he needed to figure out how to use his offensive auras without burning it right off of himself. He hadn’t had any issues so far with his clothing, but now that he was planning on getting Tallheart to make him a golden stat ring, he needed to consider what would happen when he used his auras at an even higher power level. Even if he boosted his resistances, he wasn’t sure that the protection would extend to his clothing.
+
+So, what do I know?
+
+Fact 1: When I used immolate before I got my armor, it didn’t set my clothes on fire. That means it either doesn’t count my equipment as the ‘environment’, or it starts a little distance away.
+
+Fact 2: Now that I have my armor, my auras make it go all glowy. It doesn’t seem to affect the power as far as I can tell, but I don’t exactly have an accurate way to measure that.
+
+Fact 3: Metal won’t actually absorb mana when it’s within the ‘domain of my soul’, whatever that means. It still messes with it, but it doesn’t get sucked up. I’m not sure I believe this one. What is making my armor glow when I use my skills? The energy for that’s got to come from somewhere.
+
+Fact 4: My soul extends a few ‘finger-widths’ beyond my body. I need to teach these people the damn metric system already. As near as I can tell, it’s something like five centimeters.
+
+Anything that is within that ‘soul bubble’, or whatever I want to call it, is probably safe. That can’t be all there is to it. My clothes are one thing, but my old backpack… I used Immolate while wearing it before and it jutted out way past five centimeters. Time for a few tests. I’ll use Purify so I don’t set the building on fire.
+
+He activated the skill at a low intensity, paying close attention to how the mana was flowing within him using the sense given to him by Mana Manipulation. He got a few startled glances, but people quickly settled down. It seemed that their surprise was more from the fact that they didn’t recognize him wearing the armor. He’d used the spell in here plenty of times before without issue.
+
+He looked down. The slate-gray metal was glowing faintly as Purify flowed through it. It was difficult to distinguish the glow from the normal visual effect of the skill, but he was sure that the mana was interacting with the metal somehow.
+
+He increased the power and the light got brighter. He reduced it, and it dimmed again. He opened his inventory tab, keeping an eye on the saturation number. Bah. I can’t tell if it’s absorbing anything. I can’t get Purify up to anywhere near the dissipation rate of the metal. If I’m right, any mana that gets absorbed into the armor will only build up if it goes in faster than it drains out. It’s like a bucket with a hole in it. He consulted the armor’s description. 13,202 mp is the size of the bucket and 92 mp/s is the rate that it drains out. Where does it go? The void? The mirror dimension? Narnia?
+
+He sighed. I still have no idea what mana even is…
+
+One problem at a time. If I want to see if the armor’s absorbing anything, I’ll need to use a higher-cost aura. Immolate and Refrigerate would do it, but I obviously can’t use them in here. I could get Detection, Essence Well, or Velocity up that high I guess… That’s more variables, though. They don’t make my armor glow at all…
+
+Damn it. I’ll just stick with Purify for now. Maybe if I can figure out how it works, I can figure out how to change it. Move it further from my body or something so the metal doesn’t mess with it as much.
+
+He focused on Mana Manipulation. As he’d noticed before, his sense of the mana faded once it left his body, stopping completely after a short distance. I suppose that’s the ‘domain of my soul’. Mana Manipulation says ‘internal control of mana’, but I can still feel it outside a little bit. I guess ‘internal’ means ‘inside my soul’ in this context, not ‘inside my body’. Where soul meets body? Damn, now I’ve got Death Cab for Cutie stuck in my head. This tavern needs a band or something.
+
+He shook his head and checked his mana bar. He still had plenty, despite leaving Purify on for quite a while. The entire tavern was spotless at this point. He focused again, trying to feel how the spell was shaping the mana as it flowed through him.
+
+Most of the energy was evenly distributed throughout his body; placid, like water at the bottom of a deep pool. The surface of that pool started growing turbulent just past his skin as Purify took effect. The transformation stopped almost as soon as it started, leaving the mana…changed. It flowed outward like smoke, released by the skill into the world. His ability to see the detail of what was happening was vague. It had gotten a little clearer now that Mana Manipulation had leveled a few times, but he was not even remotely close to being able to resolve what the skill was actually doing. It’s shaping it somehow. Once it’s done, the mana has a sort-of…flavor. What happens if I try to mess with it…
+
+He concentrated. Engineering, divert auxiliary mana to right hand. He felt the pool shift, becoming denser in his hand and more diffuse everywhere else. Purify didn’t seem to care, drawing the mana out through his skin evenly, despite his efforts to hold it back. Likewise, he couldn’t do anything to the mana once it had been modified by the skill. He could feel it until it exited his domain, but he couldn’t change it anymore. Looking with his eyes instead of Mana Manipulation, he didn’t see any noticeable change in the strength of the glow around his gauntlet.
+
+Damn. That didn’t work. What if I try to move the skill itself? He let his mana return to equilibrium, then focused on the turbulent layer where the skill was working. He pushed on a section of it with Mana Manipulation, directing it to move further away from the surface. Nothing happened. Huh. Am I even doing this right? I’m just feeling the mana as the skill shapes it. I’m not sure I can actually sense the skill itself, just the mana that is flowing through it. Hmm.
+
+He focused again, this time on the concept of Purify itself. He tried to modify the skill in the same way that he had when he’d convinced it to remove alcohol from his blood. He willed the skill’s activation out farther, past his armor, but still within his soul’s domain. As he did so, he felt the familiar resistance in his mind that indicated that the system didn’t want to let him do whatever it was that he was trying to. Ah hah! I have you now.
+
+He focused harder, fighting against the tension, urging the spell to move with all of his might. The resistance increased to match. He grit his teeth and strained. Despite his best efforts, he got nowhere, no matter how hard he pushed. Growling, he narrowed his focus, zooming in on one hand. If I can just extend a little piece of it— With no warning, the entire spell collapsed and he felt a searing spike of pain as if a nail had been driven straight into his skull.
+
+“Agh!” A few patrons looked up at him from other tables but didn’t say anything, returning to their conversations after a few moments. Rain shook his head. Thankfully, the pain was fading.
+
+Well, that did something. I clearly broke it. I feel like a bull in a china shop. Purify feels like some sort of…program for directing my mana. There’s inputs where it draws my mana in and outputs on the other side, but the middle? It’s intricate beyond belief, and that’s with me barely being able to see the surface of what it’s doing. It looks like it is possible to modify the skill, but…
+
+He hesitantly activated Purify again, watching as the turbulence formed once more. There was no pain and he sighed in relief. Good, whatever I did, I didn’t break anything permanently. I’m way out of my depth here…
+
+He sat silently for several minutes, watching as the mana was directed by the skill, trying to glean something, anything, about how all of this worked. He tried other tavern-friendly auras, changing the modifiers he was using and watching how the program changed with each alteration. It was hopeless. He’d never figure this out on his own, not in a million years. Maybe once Mana Manipulation is at a higher rank, I’ll actually be able to see things well enough to start decoding them, but right now…
+
+“Rain.”
+
+He turned to look for the origin of the voice. He had a minor heart attack as he saw Halgrave staring down at him, a serious expression on his face. Oh shit. He scrambled to his feet, deactivating Purify. “Halgrave,” he greeted the guild leader, trying to hide his alarm. He’s not mad about all the skills I was using, is he?
+
+“Come with me,” Halgrave said in a tone that brooked no argument. Rain nodded, following the man from the room. To his surprise, Halgrave didn’t lead him to his office. Instead, he opened the door to one of the Guild’s meeting rooms. He ducked under the door frame, his massive body blocking Rain’s sight into the room. Rain followed him in, then had a second minor heart attack when he saw who was waiting for him.
+
+There were three people in the room, two of which were Jamus and Carten, seated at the table. That wasn’t the issue. The issue was the woman leaning against the wall, an annoyed expression on her face.
+
+What is Lavarro doing here? Shit, it must be about the lair. This isn’t good.
+
+“Sit,” Halgrave said, pointing at one of the chairs surrounding the table.
+
+Rain sat.
+
+“Satisfied?” Halgrave said, glaring at Lavarro.
+
+“Take off the helmet,” Lavarro said, staring at Rain. He gulped, reaching up and slowly removing the armor protecting his head. He placed it on the table, activating Force Ward as he did so. He surreptitiously pulled up the skill card, boosting it until he reached 100% mitigation.
+
+Force Ward (10/10)
+
+Increase physical resistance by 100.44% for all entities
+
+Range: 18 meters
+
+Cost: 1.86 mp/dmg mitigated
+
+100% mitigation only required 86% of max power using Channel Mastery alone. He left off Amplify Aura as it wasn’t as efficient and he’d yet to see a skill that boasted the ability to penetrate resistance. If such things existed, he was probably screwed no matter what he did.
+
+That will have to do. She’s a force mage, but she’s practically a goldplate. If she gets serious, there’s no way I can stop her from just… Rain shuddered, fighting against the image of what Lavarro had done to the Dark Hounds. Their necks had snapped like dry twigs. No, she won’t do that. Not right here in the guild. Jamus said the lair was unclaimed. She can’t just—
+
+“It’s him,” Lavarro said, nodding to Halgrave. Halgrave sighed and closed the door behind himself, moving to stand in front of it.
+
+Rain glanced at Jamus. He quickly confirmed that both he and Carten were on the whitelist for Force Ward. The expression on Jamus’s face was not comforting. Carten, on the other hand, didn’t seem worried.
+
+“Hey Little Mouse. Long time no see,” the big man said, grinning at him.
+
+“What’s goi—” Rain started, but Halgrave cut him off.
+
+“Ok, Lavarro, get on with it. What do you want with these three?”
+
+Lavarro looked at Halgrave. “Restitution,” she said, not moving from the wall.
+
+Halgrave frowned. “For?”
+
+“Wasting my time,” Lavarro said. Rain felt her eyes pass over him and he shivered.
+
+Halgrave sighed. “Damn it, woman, you’re the one who’s wasting time. You need to give me more than that. What did they actually do?”
+
+Lavarro sighed. “They failed to make a proper claim on a wild lair that we discovered while I was out training our daughter. Because of that, Mahria and I went all the way out there again for nothing. They broke the core and left me to deal with a pissed-off noble.”
+
+Halgrave snorted. “Not my problem. They beat you to it, so deal with it. Nothing says they have to report it to the guild. That’s just common courtesy. I’m not going to punish them for being rude. Hells, I would’ve done the same if I knew the competition was you. Fucking waste of my time. You made me gather them all up for this? See, this is your gods damned problem, woman. Well, one of them. If you’d just told me what you wanted them for instead of saying ‘just gather them’, I could have told you to fuck off right then and there.”
+
+“I will have my due,” Lavarro said, pushing herself up off the wall to a standing position. “I’ll accept that they did no wrong breaking the core, but I will be compensated for my time. It is your duty as branch leader to arbitr—”
+
+“Fuck off,” Halgrave said. He turned, opening the door. “Whatever you think they owe you is their problem, not mine.” He slammed it behind himself, leaving Lavarro staring furiously at the rough wooden planks.
+
+“That fucking man…” she hissed, clenching her hands.
+
+The silence was broken by a raucous laugh. Jamus punched Carten in the shoulder. “Shut up, idiot. Do you have a death wish?” Rain noticed that he had lost a few points of mana as Force Ward absorbed the blow.
+
+He decided to stay silent. He couldn’t get himself in trouble if he didn’t open his mouth. Lavarro turned away from the door to stare at them. She closed her eyes and sighed, controlling her expression. “You,” she said coolly, opening her eyes and looking directly at Jamus. “Explain yourself.”
+
+Jamus swallowed and cleared his throat. “Well, uh…” He looked at Rain, then at Carten before returning his gaze to Lavarro.
+
+“Speak,” Lavarro said.
+
+“Yes ma’am,” Jamus said, nodding. “Since you never said anything about the possibility of there being a lair, we assumed that you didn’t care one way or the other. The three of us decided that we might as well go check it out. We weren’t sure it was actually a lair, mind, so we didn’t feel it was appropriate to record a claim with the guild.”
+
+Nice going Jamus! That’s technically correct, even though you’re bending the facts a little. You were pretty damn sure from what I remember. We might not be as screwed as I thought…
+
+“When we found out that it was there, we started milking it for Tel, as any adventurer would,” Jamus continued. “Then, we found out that the noble who owned the mine was coming, so we decided to break the core and get out of there before she arrived. Now we’re here.”
+
+Carten opened his mouth like he was about to add something. Rain quickly switched to Winter and blasted him with a full-powered burst. Carten blinked in surprise, looking at him. Rain shook his head slightly. The big man closed his mouth, much to Rain’s relief. Just keep your damn trap shut and let Jamus handle it. He switched back to Force Ward as he returned his attention to Lavarro.
+
+“Humph,” she snorted. “It was obvious that there was a lair down there. You are full of shit.”
+
+To Jamus’s credit, he didn’t even bat an eye. He kept his face controlled as he looked back at Lavarro, maintaining the same expression of respectful deference, with just a hint of fear. Rain wasn’t sure if the fear was a part of the act, or genuine. “It is the honest truth. I am not a veteran adventurer like yourself. I’ve only been doing this for a few years. I’d never even seen a lair before this one.”
+
+Yeah! Go Jamus! You’re in charge of all the talking from now on.
+
+Suddenly, Rain felt a massive draw on his mana. The telltale distortion of Force Ward appeared between Jamus and Lavarro. Jamus was pushed back toward the wall, his feet sliding against the floor as Lavarro stared at him. That shouldn’t be happening. Force ward is at 100%. How’s she still pushing him? Shit, piercing skills are real. Lavarro raised an eyebrow at Jamus’s slow progress. Rain cried out as his mana zipped from 50% to zero in less than a second. Force Ward shattered and Jamus was hurled against the wall with a loud thump. He stuck there, his feet dangling above the ground.
+
+She walked forward to look up at him. “What was that skill?”
+
+Rain swayed, struggling to stay on his feet. He was finding it difficult to concentrate, his mind shocked by the sudden and massive mana loss. It must have pushed him negative, the undermana leaving him foggy and confused. He activated Winter. The soothing cold helped, starting to clear his mind. Jamus tried to respond to Lavarro’s question, but all he managed was a groan, the force pinning him against the wall too strong for him to move his jaw.
+
+“Hey, put him down, bitch!” said Carten, taking an angry step forward.
+
+Carten disappeared. There was a loud crash and the entire building shook as Lavarro blasted him straight through the stone wall of the room and out of the Guild entirely. Dust filled the air and bits of shattered masonry rained to the ground. Rain gasped. She just…Carten, you idiot!
+
+“You killed him!” Rain stammered, choking on the dust. He shied back as Lavarro’s gaze fell on him. Shit. He felt himself start rising into the air, tugged along by some invisible force. The saturation gauge on his HUD started filling quickly, the metal’s dissipation overpowered by whatever magic she was using. The armor vibrated as the force mana worked on the metal. He felt his spine bend as he was pressed against one of the wooden rafters holding up the ceiling. The force didn’t relent, leaving him pinned uncomfortably with his back contorted and his neck at a painful angle.
+
+“He’ll live,” Lavarro said. “Stay silent unless you want to join him outside.” She looked back at Jamus. “Now, you will tell me the truth, or else I will—”
+
+“GODS DAMN IT, WOMAN!” Roared Halgrave, kicking down the door to the room. The strength of his voice shook the air. “WHAT THE FUCK ARE YOU DOING!?”
+
+“Stay out of this, Halgrave,” she hissed, turning her attention to him. Rain struggled against the force pinning him, straining to draw breath. His armor was still vibrating, though the durability didn’t seem to be decreasing.
+
+“Let them down,” Halgrave growled, clenching his fists.
+
+“Or what?” Lavarro laughed. “You’ll fight me? We’d destroy the whole city and you know it. No, I don’t think I’ll be listening to you, husband.”
+
+Halgrave roared in anger and smashed the wall with his fist. The stone shattered as if it had been made from Styrofoam even though he wasn’t wearing his gauntlets.
+
+“Are you done?” Lavarro asked, glaring at him. “Go the fuck away so I can finish with these fools.”
+
+“No, I am not fucking done!” Halgrave roared. “You will let them down and get out of my fucking sight or I will ban you from the guild!”
+
+Lavarro narrowed her eyes. “You wouldn’t.”
+
+“Yes I fucking would!” Halgrave screamed at her, spittle flying from his mouth. “Do you have any idea how much fucking paperwork that is going to cost me?” He pointed at the Carten-shaped hole in the wall. “You’d better pray he doesn’t land on some hapless peasant.”
+
+“You have no right,” Lavarro said coldly. Rain’s panic rose as the force pushing him against the ceiling increased, the wood creaking alarmingly. His armor started flexing, pressing in on his ribcage.
+
+“I have every right! By the gods, I should kick you out for this stunt. Not doing so is a greater crime. The Watch is going to be fucking livid! Let them down. Now.”
+
+Lavarro snarled in rage. The force pinning Rain to the ceiling vanished as quickly as it had appeared. He fell to the ground, frantically switching to Force Ward just in time. The tiny amount of mana that he’d managed to regenerate was blasted out of him, leaving his body to take the brunt of the impact. He lost a significant chunk of health as his unarmored head slammed into the stone floor.
+
+“WALLACE! GET YOUR ASS IN HERE!” Halgrave bellowed. Rain’s vision swam, spots of color whirling as the room faded to blackness.

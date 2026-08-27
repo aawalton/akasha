@@ -1,0 +1,245 @@
+---
+id: 5fcec3c5-037b-5f5c-a2e6-f3b9f39c1ac6
+page-type-slug: story-chapter-royal-road
+title: "197: Desperation"
+slug: 0197-197-desperation
+partOf: delve
+position: 197
+ownLength: 3789
+unit: words
+publishedAt: 2022-07-03
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/940558/197-desperation"
+royalRoadId: "940558"
+---
+
+Well then.
+
+Halgrave rose amid the maelstrom of fire and Heat mana, the remains of his cloak crisping and burning away to ash as he looked for the person with the death wish. To his surprise, the flames cleared to reveal that he had not been the target of the attack, or at least not the only one. The wooden platform on the rear of the ship had also been struck. Like his cloak, it had caught fire. Unlike his cloak, the construction clearly had some level of enchantment placed upon it, as the wave of Fireballs hadn’t blown it entirely to splinters.
+
+Screams brought Halgrave’s attention back to the deck, where he saw several white-cloaked figures struggling to rise, having been knocked from their feet by the concussive force of the spells. They were lucky. If not for the metal of their ship and the rain that had driven them to shelter beneath the platform, that strike would have killed them all outright. Indeed, that seemed to be the idea. Noticing the sky brightening behind him, Halgrave turned, seeing another wave of hostile magic, as well as the source. Two ships, each the mirror image of the one he stood upon. Except these were surrounded by domed magical barriers.
+
+The Empire. So they really were coming after all.
+
+Halgrave leapt. The weight of his hammer and the force of his jump drove the ship down against the sea, creating a wave across the water’s surface. In mid-air, his body began to grow. Stamina seeped into the metal covering him, Living Armor working to transform it into his new skin as his flesh, blood, and bones became metal all the way through. Another hit to his saturation told him he’d been struck with some invisible effect. Whatever it had been, it was naught but the buzzing of a fly.
+
+To him, at least.
+
+“MAHRIA!” he bellowed at the top of his awakened lungs. “STAY INSIDE!”
+
+With Airwalk, he redirected himself, then whipped a kick through one of the Fireballs, triggering a detonation that tore through the rest of them in a chain reaction. Steadying himself against the eddies of dissipating Force magic, he noted yet another invisible hit as he turned to look down at the Adamant vessels. They’d just launched another volley, again targeting Ascension’s ship. He moved to intercept, but they’d staggered the projectiles better this time, and he was only able to detonate half of them, the rest blasting the platform into burning chunks. Hopefully, the survivors of the first strike had been smart enough to get themselves below decks. If they hadn’t, that was their own damn fault.
+
+Another wave of magic arced toward Temerity, Ascension’s name for their vessel coming back to him at that moment. Halgrave didn’t move to block. He did not believe for an instant that any of these ships were truly forged from adamant, but even steel would withstand a barrage like this for a while. His business was striking back.
+
+Having built up enough momentum, he kicked off the air once more before letting ballistics take over. Targeting the nearer Empire vessel, he soared in a wide arc, gripping his hammer with both hands. The weight of the staggeringly-dense Ixyn Crystal, easily dwarfing that of his still-growing golem body, was comfortably distributed across his frame by Center of Mass, but just before impact, he let it all flood back into the hammer’s head.
+
+He didn’t bother to use any combat skills. That would have been excessive.
+
+The blow, which, but for the damage limit, would have shattered mountains, landed with a muted gong-like ring, sending a ripple running outward along the shield’s surface. The head of the hammer, which should have pounded straight through shield, ship, ocean, and stone below, was stopped.
+
+“Hmph,” Halgrave said, Quickstepping out of the way, though he hardly felt the need. Just as he reappeared, however, an arrow clattered off his metal skin. It was a glancing blow, but it still managed to do damage. That was more concerning than the magic, but only mildly. It wasn’t something he needed to fear. His blue-burnished plate was built to endure the depths. It had durability to spare. Or rather, he did, now that the transformation was complete.
+
+Firming his grip on his hammer’s adamant shaft, Halgrave dashed back in through a growing cloud of projectiles, not bothering to dodge. He would grind through their bubble, even if he had to stand atop it and work on it like a farmer driving posts. How long it would take depended upon how much mana the Adamants had. If their regen was enough to outpace continuous damage at the limit—unlikely—then it would depend on how long their souls could endure. Battles on the surface were always a slog.
+
+“RAAAH!” Halgrave bellowed through metal lips as he slammed into the barrier once more.
+
+Fucking domes!
+
+The ship shook again as Staavo struggled to free himself from his hammock in the engine room, and he slipped free to bounce off the turbine below before landing face-first on the titanium grating.
+
+“FUCK!” he swore, slipping his fingers through the gaps in the metal and pushing himself back upright. “Steaming, Dunch-infested, shit-stinking-pile, dumbass, holey floor!”
+
+Rubbing his bruised and scraped face with one hand, he fumbled around for his leg, made difficult by the dim red lighting. Once he found it, he slipped his stump into the socket and hurriedly strapped the prosthetic into place. Another impact like the one that had woken him struck the ship, making his ears ring as it reverberated through the hull.
+
+“Hey!” he yelled, staggering as he pulled himself upright using the ship’s wheel, hanging from the ceiling by the framework they’d added to support and crank the twin rudders. He found his footing, the cloth wrapping he’d added to his Force Steel foot preventing it from slipping through the stupid grating. No one responded to his shout, so he cursed again, lurching from the wheel to the switch on one wall, then flipped it up, flooding the compartment with near-blinding white light.
+
+Hobbling back to the wheel, he grabbed the peri-thingy Tallheart had installed just above it. Setting his eye to the eyepiece, he cursed again, seeing only darkness. He tried to swivel it by the handles, but it wouldn’t turn.
+
+“Damnation!”
+
+“Staavo!” someone yelled, and he took his eye away from the eyepiece to see Ellis charging into the room. “We’re under attack!”
+
+“Ya think?!” Staavo yelled. His face was killing him. If he’d been dull, he’d probably have knocked himself out cold. He reached up to touch his cheekbone, feeling blood on his fingers.
+
+“What happened?” Ellis asked, but Staavo waved him away. Snarling at another resounding impact, he lurched to one of the two enormous turbines that filled most of the compartment, then began turning the large valve that would bring steam in from the boiler. There was a sharp hiss that quickly faded until it was barely audible over Ellis and the clamor.
+
+“Yeah, good idea!” the young man yelled. “We need to get moving!” He started moving toward the other turbine.
+
+“Stop saying obvious shit!” Staavo said, intercepting him and giving him a shove toward the door. “I can handle this. Go turn the main valve, idiot!”
+
+“It’s already open!” Ellis said, stumbling as they took a particularly large hit, the vessel groaning alarmingly as the deck tilted beneath their feet.
+
+“Where’s the pressure, then?” Staavo demanded, knowing the answer. With just the lights to power, the boiler would have been turned way down, supplying only enough pressure to turn the generator. The lights were already beginning to dim now that he’d provided another outlet for the steam that had been keeping it up to speed.
+
+“I’m on it!” Kettel’s voice yelled unexpectedly from the boiler room, where once the ship’s journey core had sat. There was a flash of crimson light as the young Fire mage cast something. Whatever spell it was, it hardly mattered. The mana would be disrupted by all the metal around. Given its aspect, however, the side effect of the disruption would be heat, which was exactly what they needed. The boiler incorporated a good bit of Thermalitic Bronze and was designed to concentrate warmth from a variety of sources. There was another flash as Staavo began to open the second turbine’s valve, and Kettel yelled back to them again. “Ye lot jus’ wait! I got this!”
+
+“Fuck that!” Staavo yelled back. The power they’d need to get the enormous propellers moving was on a completely different level from the generator alone. He growled at Ellis, pointing out the door. “Go get Rain, assuming he’s not busy inviting the Adamants to tea! Get Ava too! Hells, get anyone who can cast anything hotter than a fart! And before you do ANY of that, dump more E-Oil in the burner! Now GO, two-legs!”
+
+“Right!” Ellis yelled, spinning for the door.
+
+Gripping the wheel again, Staavo yelled after him. “And send someone to tell me what way we’re fucking pointing!” He thumped a fist against the side of the broken peri-thingy. “I can’t see shit!”
+
+Ameliah ground her teeth as she fell toward the harbor, using Airwalk to angle herself toward the nearer of the two hostile ships as she drew back her bow. The string moved slowly, limited by Sniper Shot, giving her plenty of time to take in the scene. Temerity was burning. The platform had been blown to splinters, strewn flaming across the deck.
+
+Who was on watch? Shit.
+
+As she drew nearer the battle, she picked out Halgrave’s path through the rain by the swarm of hostile magic chasing him. The moment Sniper Shot was ready, she loosed, targeting the closer vessel, the one Halgrave wasn’t engaging. With the damage limit in play, the adventurer’s maxim of chopping the tree before the forest didn’t apply. There was nothing to be gained by doubling up on a single target.
+
+Before impact, her arrow split, striking with immense force thanks to the various Shot skills she’d stacked together. Other than a slight ripple, though, there was no dramatic response from the barrier. No explosion, either. She’d dumped the Elemental Archery tree entirely in favor of working through the rest of Heavy Armor. Defense and utility were more important than damage until they went delving again.
+
+Now in range without Sniper Shot, Ameliah began drawing and loosing as quickly as she could. At the same time, she reached out with Message to send Vanna a warning about the Knives, which, in retrospect, she should have done a while ago. As she did, a spike of pain behind her eyes made her cry out, thinking something had hit her. She dodged to the side, but there was nothing there. Her armor, too, showed no damage, and her health was still full.
+
+What the hells was that? Wait...
+
+She tried to message Vanna again, and the pain returned until she gave it up.
+
+They’re blocking it! How?
+
+She switched Mana Sight to active mode, then winced at the amount of magic dancing through the air. Both enemy ships blazed like the sun at noon, and threads of magic sprouted from them like branches of enormous trees. Blinking through the discomfort, she watched as another wave of Fireballs rose from the ship she’d been targeting. Instead of streaking for Temerity, they turned in mid-air, curving toward her instead.
+
+A normal person might have been concerned by that, but Ameliah just felt relief. Every spell hurled at her was one less her friends had to deal with. Had she been at all afraid of taking damage, she would have stayed above and just used Sniper Shot over and over again. After all, she had her armor.
+
+There was blood all over his neck. He said he was fine, but there’s no way that’s true. Fuck!
+
+Dodging through the air, Ameliah found that she could easily out-corner the hostile magic, staying just ahead of the Fireballs while keeping up her own barrage. Halgrave seemed to be having less success at avoiding them, but it didn’t particularly look like he was trying to do so. Mana Sight revealed that he was under steady assault by a multitude of other spells, ones that didn’t appear to mundane sight. That made them hexes, probably, which tended to be short range and line of sight. Halgrave’s metal skin was drinking them up without any trouble. Living Armor was too expensive for her to bother with, but it seemed to be working well enough for him.
+
+“AH!”
+
+Ameliah’s observations were interrupted by something punching her in the back of the elbow, shaving off a sliver of her armor’s durability. Whatever had hit her, she hadn’t seen it coming, nor had it had a noticeable mana signature. That probably meant it was an arrow. Sure enough, as she spun to look for the source, another arrow shattered off her breastplate, hitting with impressive force. Whether it had been a physical arrow or an Endless Quiver copy, it had contained little to no mana. As such, it had been invisible to Mana Sight through the rain.
+
+Damn.
+
+She wasn’t going to be able to effectively evade what she couldn’t see. Her armor had massive durability, but it wasn’t infinite. Still, if they were using real projectiles, they could run out, and if not, it was still stamina wasted. Every arrow launched at her, whether or not it hit, was a win.
+
+Ameliah winced as another arrow shattered against her helmet, then activated her armor’s Arcane Regeneration, deactivating Tactile Transference at the same time.
+
+Doesn’t feel like winning.
+
+Moments later, the Fireballs that had been chasing her this whole time detonated, reaching the end of their range. Another wave rose, curving not toward her, but once more toward Temerity.
+
+Crap. I dodged too well.
+
+Knowing she’d never make it in time to intercept, she dashed after the Fireballs anyway, wanting to be in a position to disrupt the next wave. As she approached, however, movement on the ship’s deck caught her eye. With an explosion of disrupted Cold mana, an overpowered Ice Bolt tore free of the suppressing influence of the metal, puncturing one of the Fireballs and causing it to detonate, taking out the rest.
+
+“DAMN IT, MAHRIA! GET BACK INSIDE!”
+
+Ameliah winced, her ears ringing from the volume of Halgrave’s shout even at this distance. Another cloud of Cold mana rose, but instead of spearing toward one of the ships, the Ice Bolt tumbled off at a high angle, the construct soon falling apart as its mana destabilized. Of more concern was the cry of pain and surprise from Temerity’s deck.
+
+“Aaaah!”
+
+Closer now, Ameliah watched Mahria by the mana circulating through her body. The current lack of Fireballs made it too dark to see more than her shadowed outline with normal vision. Dimly, Ameliah registered a hit to her armor’s saturation, but she paid it no mind. Mahria had fallen over and was clutching at her stomach, and two dimmer forms had come out to drag her back in through one of the hatches. Halgrave crashed into the deck moments later, followed by the barrage of magic that had been chasing him. He dashed to the hatch as it cleared, spreading his arms wide to form a metal wall. “I told you to stay inside!”
+
+“I’m...fine!” Mahria choked out with a cough as Ameliah alighted on the deck. “It was just an arrow, and we’ve got a healer!”
+
+Ameliah left Halgrave to it and turned to face the Adamant ships. What she saw made her gasp. The imperials hadn’t launched another wave of Fireballs. Instead, a literal wave was bearing down on them at horrifying speed, easily twice the height of the ship. Worse, standing atop it and riding a platform forged of water and Force mana was a group of people that blazed to her magical vision. One of them shone even brighter than the enemy ships. The mana was so strong that it seemed to be tearing the mage apart from the inside.
+
+“Incarn!” was all she had time to yell before the wave struck.
+
+She managed to keep her grip on her bow, but the force of the water blasted her from the deck and over the side. She tried to use Airwalk to catch herself, but being subsumed by the wave, the skill refused to engage. She crashed into the ocean’s surface, the weight of her armor dragging her swiftly down as she flailed.
+
+Shit!
+
+Slinging her bow over her shoulder, she got herself pointed back at the surface and swam for all she was worth, bubbles streaking from her fingertips with how quickly she clawed at the water. She broke the surface, sucking in a gasp of air as she worked to stay there, trying to get a foot high enough for her Airwalk to activate. Before she could manage it, a watery fist slammed her back down, the magic threading through the liquid telling her that it was under the Incarn’s control. Her armor broke that control, absorbing the Force mana, but it didn’t do anything about the pressure of the water itself.
+
+Shit, shit, shit!
+
+Clawing again for the surface, Ameliah’s mind scrambled for a plan. She could just let herself sink and use her bow to try and take out the Incarn from below. She could swim down, then back up, trying to build up enough speed to launch herself into the air. Neither plan struck her as particularly appealing, and both fled from her as she broke the surface and someone clasped her arm, hauling her roughly into the air.
+
+“Having fun?” Velika asked, standing on nothing.
+
+Ameliah coughed, the air hardening through Airwalk as she got her feet under her. Velika released her to slash at yet another wave headed for them, the wind from her strike parting it neatly in two and sending the Incarn surfing atop it flying. The mage didn’t cry out, and moments later, a pillar of water grew from the ocean to catch him.
+
+“You good?” Velika said, ignoring the enemy as she looked at Ameliah. Her arm blurred behind her back, and there was a small clack, then a splash. “Arrow,” she said by way of explanation. “So, what’ll it be? Do you want to play with Splashy? Or do you want to go back to plinking the ship? Fuck-all that was doing, by the way.”
+
+“You take the ship,” Ameliah said, having regained her breath. She freed her bow and launched a Seeker Shot toward the Incarn, who summoned a curtain of water to block. She jumped into the air to get away from his retaliatory blast of water, figuring that the more distance she put between herself and the ocean in this fight, the better.
+
+Velika kept pace, wobbling to a stop beside Ameliah as she prepared another shot. “Woah,” the ex-Citizen said, whirling her arms. “Damn it, what the fuck? You’re making this look easy. Why is everyone so much better at Airwalk than I am?”
+
+“Get the damn ships!” Ameliah yelled, loosing her arrow and dodging as a watery tentacle sliced through the air where she’d been standing. “Do that thing you did before! Cut them in half!”
+
+“Not gonna happen,” Velika said, hopping after her. “Even if I felt like breaking my sword trying, those barriers look stronger than last time.” She rubbed her chin, slashing behind herself again to sever a water tentacle as it went for her, then continued in a casual tone. “They didn’t have Incarns last time either. I think I made someone mad. Oh hey! Would you look at that! Looks like I’m not the only one to piss them off.”
+
+“What?” Ameliah said, glancing at her, then following her gaze to the city and the gigantic, flaming rock descending toward it.
+
+No!
+
+She raised her bow, knowing it was too far but that she had to try anyway. Before she could even draw, a water tentacle wrapped around her ankle and yanked her roughly out of the sky.
+
+Numbers danced through Rain’s mind at lightning speed as he beheld the Meteor plummeting toward them.
+
+The first number was two. Two seconds. All the time they had.
+
+His gut screamed at him to use Inverted Immolate and Force Ward together, but there was a problem with that plan. Like Fireball, Meteor’s damage was split, two-thirds being Heat, and the other third being Force. There was no question that the spell would hit the damage limit, so that was 3,333 Force damage and 6,666 Heat. To the system, damage mitigation and flat resistance were the same, both capped at 75% of the damage limit. Except it wasn’t that simple. The cap was distributed across the elements according to the ratio of the incoming damage. Force Ward being active didn’t change that critical, original ratio. Inverted Immolate couldn’t do a full block. Each target struck by the Meteor would still need to tank 1,666 Heat damage.
+
+It was too much.
+
+For him, the number would be survivable. Barely. He’d asked Mereck to start healing him on the way over, but he was still far from full. For the others, though...
+
+Samson was level six. Mereck, Stint, and Vanna were all level five. Even with Strength equipment, they simply didn’t have the hitpoints. The math painted an even grimmer picture for Dozer, Dust, and the townsfolk watching from the surrounding buildings. They would all die.
+
+That was unacceptable.
+
+Rain hauled open his skill window to acquire the required system context but didn’t bother with any buttons, using his will to slam one of his precious free skill points into Heat Ward. With approximately zero seconds left, he applied the changes and activated his magic, screaming in furious defiance as Aura Focus swallowed the world in black.
+
+modmon.sh: ['amplify aura', 'extend aura', 'aura compression', 'channel mastery']
+
+autocompress.sh: Target: 30 meters
+
+autocompress.sh: Extend Aura unnecessary, disabling
+
+autocompress.sh: Compression Applied: 52.8 meters
+
+autopower.sh: Target: 100%
+
+autopower.sh: Amplify Aura unnecessary, disabling
+
+autopower.sh: CM Setting: 15.58%
+
+Force Ward (15/15)
+
+Increase physical resistance by 100% for all entities
+
+Range: 30 meters
+
+Cost: 0.155796 mp/dmg mitigated
+
+modmon.sh: ['amplify aura', 'extend aura', 'aura compression', 'channel mastery', 'aura focus']
+
+autocompress.sh: Target: 30 meters
+
+autocompress.sh: Compression Applied: 323.3 meters
+
+autopower.sh: Target: 100%
+
+autopower.sh: Amplify Aura unnecessary, disabling
+
+autopower.sh: CM Setting: 14.11%
+
+Heat Ward (1/15) Exp: 0/100
+
+Increase heat resistance by 100% for all entities
+
+Range: 30 meters
+
+Cost: 2.25778 mp/dmg mitigated
+
+dmgnum.sh version 0.5.0
+
+Force Damage Detected
+
+Heat Damage Detected
+
+Mana: -93,667
+
+Force Ward: 100%
+
+Rate: 0.155796 mp/dmg
+
+Heat Ward: 100%
+
+Rate: 2.25778 mp/dmg
+
+Force Resist: 228.6
+
+Heat Resist: 1,028.6
+
+Original Damage: ERROR_MULTI_TARGET

@@ -1,0 +1,109 @@
+---
+id: 583a54f2-5c8c-5866-a26b-e0aad02ee1a6
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 33"
+slug: 0102-b2-chapter-33
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 102
+ownLength: 1495
+unit: words
+ownProgress: 1495
+publishedAt: 2024-02-14
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1518227/b2-chapter-33"
+royalRoadId: "1518227"
+markedReadAt: "2026-06-29T19:09:24.460Z"
+---
+
+Aria
+
+The enemy officers quickly split up with three focusing on me and five on my Death Spirits. But since these officers are all far stronger than me physically, the ones attacking my Death Spirits quickly turn it into a game of repeatedly killing the spirits while avoiding soul energy enhanced attacks made by them.
+
+A couple of the enemy officers attempt to use their abilities, but one of them has a poison ability that both the Death Spirits and I all ignore. So they give up on that one rather quickly. Meanwhile another one uses some sort of gravity ability that makes it harder to move.
+
+Once again though, the Death Spirits kind of just ignore it.
+
+I focus on the three officers in front of me while trying specifically to stay out of their clutches for as long as I possibly can. Simply buying myself as much time as possible. Both for Rory to finish dealing with the main forces and to arrive as backup for me, and for my own Death Spirits to wipe out as many of the enemy forces as they can.
+
+But it’s proving rather difficult when these officers are powerful enough to quite literally slap my head off of my neck. Which likely means they’re probably a lot higher level than just their level 100s.
+
+From what I heard, merkismathr are generally in their level three hundreds to low four hundreds. And these officers all give me the same feeling the merkismathr from the Byrne Clan give off.
+
+Doesn’t exactly bode well when I’m being slapped around so fast that I’m only just barely able to avoid being locked down. Simply through sheer overloading myself with soul energy to increase my physical capabilities as much as possible. Well, that and using some of my own explosive charges in suicide bombings just like my Death Spirits are doing every time they’re about to lock me down.
+
+Because high level or not, no one wants to be in the middle of an explosion.
+
+Especially one caused by lukian explosives made by the Byrne Clan.
+
+And so the battle continues going round and round in circles. A seemingly never ending cycle of I struggle to avoid them, they finally begin to corner me, then I blow myself up to make them back away while damaging them a little bit before they heal up again. Rinse and repeat.
+
+I try to focus on their healer at some points during the battle, but no matter what I do, the others defend her. So I eventually just give up on that, deciding to play a waiting game.
+
+Since they’re using up all of their mana while I have a nearly infinite resource of soul energy in the form of both the dying here and in the main battlefield where Rory is killing off the rest of the forces.
+
+Even if I only manage to devour the soul energy of a portion of those dying there, the distance between us proving to slow down the process enough that I don’t manage to get everyone before they leave to the void.
+
+But over the course of half an hour, I find myself slowly running out of explosives.
+
+Which isn’t good.
+
+The officers seem to realize that I don’t have an infinite amount of explosives, which should be obvious, and continue keeping up their onslaught without any hints of stopping. Meanwhile the other officers continue to attack my Death Spirits around us.
+
+But even that doesn’t last for much longer, since the Death Spirits I sent to attack the basecamp itself are finally out of explosives. And at this point they’re doing nothing but irritating the remaining quarter or so of the enemy forces.
+
+I grit my teeth as I find myself being slammed by a spike of earth, sending me flying through the air to slam into a mountain. Only to find that I’m out of explosives now when I try to reach for one.
+
+The enemy officers pause for a second, seemingly waiting for me to blow myself up, before they move in closer with satisfied looks on their faces.
+
+“Ya out of yer charges, merc?” the same officer who first spoke says, more as a statement than a question despite the wording. “Then let’s get down ta it.”
+
+I open my mouth to speak, only for everything to go dark.
+
+Once consciousness returns to me, I find that I’m still pinned to the mountain without the enemies having really moved much. Which seems to surprise them.
+
+One thing they didn’t really think much about most likely is that this long battle has given me adaptations to all of their attacks.
+
+They all look confused about it before trying again, making my vision go dark again. Before it returns and they repeat the process several times.
+
+Eventually they stop doing it and begin speaking amongst themselves, trying to figure out what’s going on as I finally get a chance to actually think. Since even I can’t exactly think without a head.
+
+I scowl at them but don’t say anything.
+
+Their only chance to actually make this plan of theirs work is to have some of the other officers who haven’t attacked me yet with their abilities destroy my head. And it would only work for a limited amount of time.
+
+Meanwhile crimson energy is starting to build up around my impaled chest, slowly whittling away at the stake of earth impaling me.
+
+All of the officers keep trying to come up with ideas on what to do as the energy continues building up. Until one of the other officers walks over after having finally dealt with my Death Spirits. An officer who quickly coats his fist with magma and slams it down on my face, crushing my head and making things go dark again.
+
+When my vision returns once more, I find them having started setting up some sort of stretcher in front of the long spike of stone. One with a bunch of different restraints on it.
+
+Then an idea comes to mind.
+
+Up till now in the battle, I haven’t had the chance to use my soul fire against them. Because every time I tried using it, they’d avoid it like the plague after the first hit led to the man being touched by it letting out a scream, even if the attack didn’t really look like it did all that much damage.
+
+So right when I see that magma-coated fist approaching my head again, I cover my head in so much soul fire that it gets uncomfortable for even me. And when the man’s fist slams into my head, the last thing I hear before everything goes dark again is someone screaming rather loudly.
+
+After consciousness returns to me again, I find that same guy lying on the ground with strange crimson lines stretching across his fist as he kneels on the ground gritting his teeth in pain and anger. Lines that look kind of like cracks.
+
+Interesting.
+
+The enemies all look a little surprised at my recovery, probably because I recovered faster this time no doubt.
+
+I glance down at the crimson energy building up around my chest – something they’re finally starting to notice now as well – before closing my eyes and focusing on summoning a Lesser Death Spirit far enough away that it manages to escape and run towards Rory.
+
+Only way I can tell her how things are going.
+
+At this point the officers all look wary of attacking me directly as the guy from before just raises his other fist and sends a large bolt of magma straight at my head, once again making me lose consciousness. And also once again, I regain consciousness before long.
+
+Surprising them again.
+
+They all begin muttering amongst themselves, some of them even speculating correctly about what my ability is. In terms of the adaptation part of it.
+
+But before they can come to any sorts of conclusions, I finally break free of the spike of stone, twisting my body to snap the last of it left behind by the growing crimson energy. And without hesitation, I grab ahold of all of the crimson energy and send it out in a flare of light around me meant to blind them all.
+
+Then I run, summoning a dozen more Death Spirits around me as a distraction while enhancing my body as much as possible.
+
+I manage to make it over a dozen meters before I feel something hitting the back of my head, making my consciousness go dark again. But before that, I make sure to send a request for reinforcements from the base through my communication ring they gave me for the mission.
+
+When consciousness returns, I find myself feeling some pain along with a very familiar uncomfortable sensation, so I look to find that my body has been cut into over a dozen pieces.
+
+Huh. Well, this is annoying.

@@ -1,0 +1,141 @@
+---
+id: a3addf4a-51f1-53d6-83fe-fc53623540a9
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 46"
+slug: 0354-b5-chapter-46
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 354
+ownLength: 1365
+unit: words
+publishedAt: 2026-07-06
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/3641124/b5-chapter-46"
+royalRoadId: "3641124"
+---
+
+Aria
+
+After arriving on the planet, I make my way straight to the meeting location where I’m supposed to meet with Shirogane. And when I arrive at his palace, I find the large building, which looks more like a massive mansion than a palace, floating on the water like normal. But unlike the past times I’ve visited, there are numerous other ships landed on the outstretched landing platform.
+
+I land on the landing platform myself using the shuttle.
+
+Or to be specific, I jump off of the shuttle and have it fly back to my ship before it even lands. Leaving me landing on the platform under the stunned looks of the people there.
+
+All of whom seem to be different guards for different nations.
+
+One thing that is the same across them all though is that they’re all guards of the different Grand nations.
+
+I see the robed holy knights of the Rex Dynasty, who are all currently kneeling towards me with their heads bowed without exception. Then there’s the knights of the Grand Silvanian Empire, who are bowing to me at about a forty-five degree angle. Showing me respect.
+
+There’s the mages of the Arcadian Society who just look wary of me. The council members of the Council of Darkness who give me simple head nods of respect.
+
+And the knights of the Crimson Empire who are all kneeling to me as well. To their princess.
+
+But the ones that stand out the most are the commanders and soldiers belonging to the Crimson Flag.
+
+War’s group.
+
+And the people who look like regular servants and researchers who I believe are from Pestilence’s world. Seeing as I recognize them from there.
+
+Those two groups in particular are getting a lot of stares from the people here though. Even more than I am.
+
+Although I can’t help but notice that the Crimson Empire’s forces look a little surprised by my visit.
+
+Actually, not just a little.
+
+Very surprised.
+
+And it’s at this point that I realize something.
+
+I never actually told the Crimson Empire about the curse having been devoured in the Plane of Famine. So they probably still thought I was cursed.
+
+The only people I mentioned it to was Shirogane and Ruby since they asked about it.
+
+And my usual bodyguards tend to put distance between us when I’m with them out of respect. So they likely didn’t hear.
+
+Huh.
+
+Well this is interesting.
+
+Considering their presence, my family must be inside of the manor right now. Hence their shock.
+
+My thoughts come to a pause when I notice someone charging straight out of the mansion towards me. Only to realize that it’s War charging right at me.
+
+But it’s too late as he slams into me and pulls me into a bear hug, lifting me into the air as I feel myself being partially crushed by his hug.
+
+“Ari!!! It’s been so long!” War exclaims while swinging me around in the air in his little hug. Making me feel rather irritated in the process. Then he pushes me a bit back with his hands still held under my arm pits as he looks at me and asks, “How’ve you been, kid?”
+
+I wriggle my way out of his grasp to land on the ground again while ignoring the drawn swords all across the platform from both the Crimson Empire forces and the Rex Dynasty holy knights. Then I answer, “I’ve been doing well. And I see you haven’t changed at all.”
+
+Which is interesting considering Famine’s death.
+
+“How’s ol’ Famine’s core doing for ya?” War asks with a chuckle. “I’m sure it’s giving you a nice powerup, right?”
+
+I blink at that, feeling rather surprised by just how nonchalant he’s acting about it. Like he didn’t give a single damn about Famine.
+
+Although I guess that wouldn’t actually be very surprising if he didn’t.
+
+I glance behind him to find Pestilence suddenly standing behind War while staring at me with a look that says he wants to know my answer as well. But seemingly more for a research standpoint.
+
+Looks like he just wants to know how much having Famine’s soul core is helping me…
+
+If Famine wasn’t such a scumbag, I might’ve felt slightly sorry for him. Considering how his fellow Horsemen don’t care about him at all.
+
+One is laughing about his passing as if he’d heard some random news about a friend visiting or something, and the other wants to know how much use I’m getting out of the soul core for his research.
+
+At the end of the day though, Famine was a terrible person and deserved everything he got. So I don’t feel even the slightest bit bad for him.
+
+I focus on War again as I answer, “It’s been helpful, but I already have more energy than I know what to do with, so not as helpful as I’d hoped.”
+
+War bursts out into laughter and says, “Yeah, I thought so! You don’t need a crutch like that, now do you?”
+
+“Just make sure not to lose his core,” Pestilence states with a blank look on his face. “Do not allow any chance at his revival.”
+
+That makes me stare at Pestilence with my jaw hanging open.
+
+At least, until I remember something.
+
+About how Pestilence was practically strong-armed into going to those meetings of Famine’s.
+
+Don’t tell me… is he happy about Famine’s death? Because it means no more of those regular Horsemen meetings?
+
+That’s… actually kind of amusing.
+
+And exactly what I’d expect of the man.
+
+“Are you still up for the deal we were previously discussing?” Pestilence asks, making me blink in surprise for a moment.
+
+Right. I forgot about that.
+
+“Let’s discuss it after the exhibition bracket finishes,” I answer him, to which he nods his head in agreement before he turns around and walks towards the mansion.
+
+With everyone in-between him and the mansion immediately walking out of his way as he does so. Both out of distaste and fear.
+
+My attention turns away from the Horsemen when I notice Raja walking over towards me from the mansion, with my parents staring in shock from behind him along with my brother and a couple other Grands.
+
+But I ignore most of them as I immediately walk over to Raja and ask, “Is the device finished?”
+
+Raja nods his head with a faint smile that shocks the hell out of everyone on the platform since he usually never smiles. Then he answers while handing me a small bracelet, “It is complete.”
+
+I can’t help but grin as I lift the bracelet into the air while admiring it.
+
+He finally finished it! The device that makes a copy of all the facilities at that Horsemen meetup place!
+
+Finally! I can enjoy all of those lovely facilities again.
+
+Even as I stand here, I find myself imagining using the bracelet to summon forth the lovely home he designed for me along with all its facilities in the middle of a Hunter’s Spot. All so I can just relax and enjoy my time in the Hunter’s Spot as my Death Spirits slaughter all the mana creatures inside of it.
+
+With my Death’s Court summoned as well to give me as many levels as possible.
+
+I grin as wide as possible while ignoring the looks some of the people around me are giving me for some reason. With some of them muttering things about how ‘Death is cuter than they thought’ and other things about liking my smile.
+
+And for some reason Raja looks smugly proud when he hears those compliments.
+
+One use after another for this new little home comes to mind until I finally remember that my parents and brother are kind of standing on the other side of the platform staring at me in shock. All because of the curse being broken without their realizing it.
+
+Oops.
+
+I clear my throat while lowering my arm and calming down. Then I tell Raja, “Thank you.”
+
+He just smiles at me without saying a thing, so I turn towards my parents and brother.
+
+Alright, so how exactly am I going to deal with this situation?

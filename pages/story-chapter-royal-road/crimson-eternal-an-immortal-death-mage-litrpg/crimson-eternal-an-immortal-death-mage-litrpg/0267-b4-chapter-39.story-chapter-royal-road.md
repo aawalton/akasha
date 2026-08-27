@@ -1,0 +1,149 @@
+---
+id: 44c4074c-699d-5f3c-8077-38abf7012ea1
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 39"
+slug: 0267-b4-chapter-39
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 267
+ownLength: 1438
+unit: words
+ownProgress: 1438
+publishedAt: 2025-04-01
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2166254/b4-chapter-39"
+royalRoadId: "2166254"
+markedReadAt: "2026-06-29T19:14:50.072Z"
+---
+
+Aria
+
+Somehow I manage to finish all of the paperwork before we arrive at the planet. Although I get the feeling Little Blue somehow swindled Crimson into lengthening our trip a bit for that very purpose. But Crimson says otherwise.
+
+It’s honestly starting to worry me a bit about how close that AI seems to be getting with Little Blue.
+
+Maybe I should add in some security countermeasures for this? Something like blocking the teleporter’s use when I know there’s going to be paperwork.
+
+I let out a sigh as I head to the hangar of my rather oversized ship currently parked right at the edge of the atmosphere.
+
+It’s such a pain that I can’t just give someone else the right to sign paperwork for me. But the ability to do that was removed from the universe at some point due to certain types of magic. Like mind control magic and cloning magic.
+
+Now people have to use a special pen when signing things. One that actually infuses the energy of the person signing it into the document itself.
+
+And no one can mimic someone else’s energy.
+
+Which is why every document I sign apparently feels rather eerie to anyone else near them. Because they’re filled with my death energy.
+
+Well, whatever. No point dwelling over that now.
+
+Especially when my current plan is to spend the next sixty or seventy years down on the surface of this planet going on a mana creature killing spree. At least until the pharaoh has finished figuring out where the lyon’s home planet is located.
+
+So with that plan in mind, I walk right up to the forcefield making up the entrance of the hangar before ordering Crimson to turn it off. Then I step right out of the ship, with the forcefield reappearing behind me.
+
+And after briefly shooting out a blast of miasma behind me to propel myself into the atmosphere itself, I just let gravity take control.
+
+While pulling out my lovely ebook reader. One that has the same enchantments as my clothes. So it won’t be damaged no matter what happens to me.
+
+I had Little Blue get one while I was doing the paperwork.
+
+It should be useful for passing the time while I’m in stomachs.
+
+Not that I’m planning on being in any stomachs, but still.
+
+Time passes as I fall until flames begin to build up from the speed at which I’m falling.
+
+I just keep reading though.
+
+One of the Cities above the Clouds of Khelethario
+
+Kelhar Tri Rala lets out a sigh as the man stands guard at the rim of the city. A long outer pathway that goes all the way around the city with a single railing at the edge of the platform. And no matter how long he stands watch, no matter how many days, he just can’t seem to grow any more interested in it.
+
+So he always finds himself sighing as he wonders why he chose this job and why he can’t get rid of it.
+
+The job of a city guard is a simple one. Stand alone throughout their entire shift just barely within visible distance of the next guard over but nowhere near within talking distance of them all while watching the skies around the city for any mana creatures trying to break out of the clouds. Or any approaching spaceships wishing to dock in one of the few hangars of the city.
+
+But most days he is left standing there for the entire ten hour shift, only occasionally swapping out with someone to use the bathroom. Without a single thing happening.
+
+Because, unlike the kheletharians, very few people in the universe wish to arrive on a planet filled with poison.
+
+Which brings Kelhar to the biggest problem of the guard post.
+
+He has to wear a full bodysuit just to handle the poisonous mist that drifts upwards from the clouds without melting alive from the acid within it. Much less the other poisons.
+
+Goes to show just how much the council’s plan to evolve us has proceeded…
+
+Kelhar has never been a very vocal supporter of his own people’s cause. Not that he’ll ever admit that to his superiors.
+
+They aren’t exactly the friendliest people towards non-supporters after all.
+
+Kelhar sighs again for the umpteenth time. Then he looks upwards right when something catches his eye. Only for him to blink and rub his eyes before looking again.
+
+Uh… what is that?
+
+Several hundred meters above the city and quickly approaching is some sort of ball of flames.
+
+The guard has to hold himself back from immediately sounding the alarm. Because he has heard before that space debris does occasionally fall down from above. And that sounding the alarm for nothing but space debris is a good way to get himself thrown off the edge of the city.
+
+Which isn’t a very pleasant way to go out.
+
+So he just tensely holds onto his polearm as he watches the fireball approach. But when it gets within a couple hundred meters of the city, he realizes that it is not space debris.
+
+It’s also not a missile or some sort of attack either.
+
+Kelhar blinks again as his mouth parts open in a sense of dumbfounded shock. Only for him to slowly pull out his phone and raise it to take a video of the woman currently falling down from space while reading on one of those latest generation ebook readers. On fire.
+
+This will serve as proof later when I report this. Just so I’m not called crazy or on drugs or something.
+
+He firmly nods his head despite the dumbfoundedness he feels.
+
+Soon the flaming woman gets within a couple dozen meters of the city and looks up from her book straight at the guard. But instead of any sort of panic, she just nods her head once at him in some form of passing greeting and then continues reading her e-book as she falls past.
+
+Right.
+
+He blinks again before scratching his head with his other hand, still recording her falling down below the city with his other.
+
+I’m still awake, right? This isn’t a dream?
+
+Part of him genuinely wonders if this is a dream. Because who wouldn’t dream about a beautiful woman falling down from the sky while reading without a care?
+
+He frowns a little at that thought.
+
+Right. Most people probably wouldn’t dream of that.
+
+Eventually the woman falls down below the clouds, leaving him just staring at the greenish purple line of clouds below. Then he just returns to his duty of watching the skies without pause.
+
+I’ll just post that to my blog later tonight. After this shift.
+
+Aria
+
+That was an interesting looking city. And the guard there was wearing some large bodysuit that made it so I couldn’t even see their face or anything about them. I couldn’t even tell if it was a male or a female guard.
+
+The city itself looked pretty meh, with it being shaped in a large disc shape. One with a large outer pathway with a railing running along the entire thing on the widest part of the city, and some hangars visible from the top. But the rest of the city is located within the disc-shaped structure.
+
+Putting the city aside though, I personally can’t help but wonder about that bodysuit. Because it couldn’t have been comfortable.
+
+Oh, and he had a spear too.
+
+The guard seemed friendly enough though. Considering that they didn’t try to attack me.
+
+I think they just watched me fall past.
+
+Very polite.
+
+Much politer than a lot of other nuisances I’ve seen on other worlds.
+
+Anyways, when I reach the clouds, I finally begin to feel the poison. A bit.
+
+All of the damage that the poison in the clouds causes me is healed before it can actually hurt much. So all I really feel is a sting running across my entire body. A sting that I proceed to ignore without much care as I continue falling down through the clouds until I break out and find the land below.
+
+And for the first time since arriving, I find myself feeling a bit surprised. Because the land below really is just a hellscape.
+
+There are trees and mountains everywhere, but all of the trees are dead and tainted green and purple in color. Meanwhile the grass is the same.
+
+But most importantly, there are mana creatures just roaming around everywhere.
+
+A lot of which are spiders.
+
+And other bugs, but mostly spiders.
+
+Interesting.
+
+This’ll be an interesting next several decades.

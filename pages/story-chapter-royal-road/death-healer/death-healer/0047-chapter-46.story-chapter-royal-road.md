@@ -1,0 +1,119 @@
+---
+id: a58401f1-1c8b-5460-8120-64edaff4dec0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 46"
+slug: 0047-chapter-46
+partOf: death-healer
+position: 47
+ownLength: 1223
+unit: words
+publishedAt: 2025-07-04
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2409566/chapter-46"
+royalRoadId: "2409566"
+---
+
+Many Years Prior
+
+“Life Flow,” Lucianus’s father, Tertullianus, said.
+
+“That’s the Great Skill?” Lucianus asked while his father prepared him for the trial.
+
+“Yes. The stronger your healing, the more dangerous the trial will be, Lucianus. Your Light Magic is extremely powerful, therefore you must beware. You will meet a shadow of yourself. It will stab you thrice. If you survive, you will learn Life Flow.”
+
+“So it’s not a Light Skill, it’s a Life one?” Lucianus looked confused. “Can a Skill even be Life-attuned
+
+“That’s the power of great skills,” Tertulianus revealed. “It takes complex rituals to bring out such Affinities before you have a class, but there exist Skills that already have a Combined Affinity.”
+
+“They do?” Lucianus was amazed by that reveal.
+
+“Combined Affinity Skills are usually Class Skills, but there are as many, if not more, Hidden Skilils around the world whose learning rituals and methods are close to impossible to find, and that is why [Librarians] exist.”
+
+“Aren’t librarians evil?” Lucianus suddenly asked; he had always had a curiosity for the forbidden. But hearing his father talk about it, he was confused—he had always thought his father was a proper man, someone who followed the rules. He, on the other hand, had studied bodies and corpses in order for his healing and his powers to be even greater, something banned by the Church.
+
+“They are a dangerous class,” Tertulianus admitted. “I get it: the temptation to subvert the natural order of things has a strong pull on any young man. It’s a class for rebels. Knowledge is perhaps the most dangerous weapon. Imagine you could have one man with the ability to uncover Skills as powerful as the Great Skills. Now, suppose he could gift the equivalent of Great Skills to your enemies, would you allow him to live?”
+
+Lucianus raised an eyebrow and said, “I would probably choose to befriend him if that’s the extent of the power they wanted.”
+
+Tertullianus then gave a large belly laugh. He nodded. “That is a good response, son, but one you could get hanged for. Don’t let yourself get weird ideas.”
+
+“So the trial,” Lucianus said, “I just go in there, heal three wounds—that’s what you said. Is there an animal there?”
+
+“You will first receive the wound, then you’ll be tasked to heal it,” the father said.
+
+“I will be wounded?”
+
+“Yes.”
+
+It sounded a little bit creepy to Lucianus, but he agreed.
+
+“On the third wound, the mirror will inject you with Darkness Mana. The point is to overpower Darkness with Life. Light, once it’s overcharged, will collapse onto itself and generate Life Mana. That’s the essence of Life Flow.
+
+“Then, once you overpower darkness with life, it is the same as having double the amount of light, which means it becomes life-attuned, and that’s when life to love, a much more powerful version of the universe, so powerful and scary, will appear. Of course, it varies in potency, but I suspect you will be among those to receive the strongest version of the skill. Even at its weakest, it’s the kind of power that everyone covets. It’s the kind of power that can make or break a great family. This is why we keep it here; this is why only a few are allowed to wield it, and only a few are allowed to know the secrets of it. It would happen if the entire mainline died. There are custodians of secrets, people in charge of furthering the bloodline. You will know more when you succeed. You will know more when you are a stranger. Oaths, blood, Lucianus. Leaving a great family is no easy task.”
+
+The young man had a doubt in his heart.
+
+“Why can’t Claudia do it? I think that Claudia is more suited to—” Lucianus began.
+
+Tertullianus raised her hand
+
+“Even if your sister could learn the great skill, considering how hard it would be for someone with a Darkness penchant like a woman, to have the power to govern these matters. Lucianus didn’t want to argue; he had already done that so many times.
+
+* * *
+
+Tiberius stood by the arched window of the western tower, arms folded behind his back. Sunlight poured through the stained glass, casting pale colors on the stone floor. His armor caught a faint shimmer from it, but his eyes were fixed beyond the wall, on the distant hills.
+
+Ennius stepped into the chamber. He didn’t speak right away, feeling the incredible rage of his older cousin.
+
+Tiberius Iulius was the most dangerous and powerful member of the main branch of the Gens Iulia, a warrior who spent as much time on the frontline as he did scheming.
+
+“She’s more dangerous than you think,” Tiberius said, not turning.
+
+“You’re talking about Liliana,” Ennius replied flatly.
+
+Tiberius gave a shallow nod.
+
+“I saw what she did during the Healing Trial and I warned you.”
+
+Ennius narrowed his eyes. “She healed a wound. That was the whole point of the trial.”
+
+Tiberius turned at that, meeting his gaze. “Not just a wound. That pig she was assigned—he had a wound beyond a normal Classed [Healer]. You know how hard it is to fix that.”
+
+Ennius said nothing. Tiberius continued.
+
+“No ten-year-old, not even a freshly Classed [Healer], could have stabilized that in one go. But she did. I checked the pig myself, Ennius. The damage was sealed to the root.”
+
+The Pope’s nerves were grating at the little respect that Tiberius put in his words when speaking to him, but he didn’t say anything.
+
+“She had help,” Ennius said at last, though the words were weak even to his own ears. “Her family’s specialty—”
+
+“The Gens Claudia’s attitude for healing doesn’t explain it. Her fathre wasn’t even in the capital, and you know it,” Tiberius snapped. “She didn’t use normal Light Magic. She used something else. I don’t know what. But whatever it was, it did not follow our doctrine.”
+
+Ennius’s mouth tightened.
+
+“She’s just gifted, Tiberius. So was Cassius.”
+
+“No,” Tiberius said, voice hard. “Cassius excelled within the space you created for him. Liliana has bent rules and she’s shooting for your position. You saw the duel with Sextus Cornelius.”
+
+Ennius turned away.
+
+“She should’ve lost,” the Pope admitted. “She still didn’t even have a Class. But she humiliated him. She didn’t just react—she dissected him. She baited his stance, manipulated his center of gravity, then hit the core of his Skill. Not even a [Weapons Instructor] could’ve taught that without years of drilling.”
+
+“She’s being trained,” Ennius muttered.
+
+“Not like this,” Tiberius said. “No one taught her that. She didn’t just learn it. She understood it.”
+
+The silence stretched.
+
+“Ennius,” Tiberius said at last, “I tried to warn you. This girl isn’t just talented. She’s unbound. If you don’t start treating her like a threat to the Papacy, you’re going to regret it.”
+
+“She’s just a rebel girl,” Ennius said quietly.
+
+“She’s something else,” Tiberius said. “You just don’t want to admit it.”
+
+It was true.
+
+Ennius didn’t want to admit that a girl, of all the people, constituted a threat.
+
+“She’s nothing, Tiberius. She won’t learn a Great Skill and she’ll just be a powerful [Healer]. That’s all.”
+
+“You’re stubborn, cousin,” Tiberius sighed and shook his head. “Careful that your stubbornness doesn’t become your demise.”

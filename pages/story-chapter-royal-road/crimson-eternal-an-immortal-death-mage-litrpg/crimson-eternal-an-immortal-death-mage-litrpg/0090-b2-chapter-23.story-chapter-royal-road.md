@@ -1,0 +1,123 @@
+---
+id: dfc9c4ce-1ff9-5ce8-9300-0ed4561906ad
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 23"
+slug: 0090-b2-chapter-23
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 90
+ownLength: 1489
+unit: words
+ownProgress: 1489
+publishedAt: 2024-02-08
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1510565/b2-chapter-23"
+royalRoadId: "1510565"
+markedReadAt: "2026-06-29T19:08:59.908Z"
+---
+
+Aria
+
+Alarms quickly begin to blare throughout the Grand Tree as I fall with my hair flying straight up down towards the coast below. And when my feet land, a loud crunching sound echoes off the water in the middle of the night, following which my legs – which had just quite literally snapped with the bones sticking out of my legs – repair themselves without pause. Then I begin to sink down to the bottom of the ocean floor where I proceed to jog as fast as I can away from the city.
+
+While feeling the discomfort of not breathing. But that’s fine.
+
+I would’ve chosen this route into the capital in the first place, but there weren’t exactly any places I could enter through from the water without drawing attention. Nor could I have gotten past the enchantments.
+
+Fortunately for me, those enchantments don’t mean a damned thing when I’m leaving the place. All they’ll do is sound an alarm signaling a random spot seemingly over the water to them that an intruder passed through.
+
+They’ll most likely just assume that the one behind the explosion was escaping on a ship or something.
+
+Well, unless they link our ship with this attack. Not sure how it’ll go then.
+
+But they shouldn’t know where the ship is. Rory assured me that it was the entire reason she came along with us. To help us hide the ship.
+
+Now, how a poison user will do that, I’m not really sure. But I trust her enough to do her job.
+
+I think.
+
+Anyways, it takes me several minutes of jogging through the water – what with water not being the easiest thing to jog through and me not being able to use soul energy lest I be shining a bright beacon telling people I’m down here – before I reach the alarm. And just as I was told by Shirogane, who really seems to know everything, it shoots a bright red light from where I cross and plays out a loud alarm. But no one can actually tell at what elevation I cross it.
+
+Which is good, since I highly doubt anyone’s gonna suspect that I’ll be jogging along the ocean floor. For quite a ways, actually. Since the spot Rory said she’d move the ship is very far away.
+
+So I just keep on jogging.
+
+And jogging.
+
+And jogging some more for who knows how long.
+
+Time is rather hard to tell when you’re just jogging along the ocean floor without much light and without breathing.
+
+Then again, so is its location. But I can at least see the location of the coast from here, so it’s fine. Just have to follow that until I find a cove.
+
+And eventually I do, so I begin walking up towards the coast again.
+
+The moment I reach the surface of the water, I just kinda peek my head out of it before looking around just to make sure no one is nearby. Well, other than the large ship, of course.
+
+And when I don’t see anyone other than the ship, I finally surface the rest of the way and step onto the shore, feeling utterly soaked.
+
+Thankfully my outfit is waterproof.
+
+I look up at the ship which has its gangplank out before finding Shirogane waving at me once as Rory gives a thumbs up and then a thumbs down with a questioning look on her face. So I return it with a thumbs up, making her smile at my answer to her unasked question.
+
+Without any hesitation, I quickly climb the plank onto the ship before Shirogane pulls it in and we begin sailing off back towards Byrne Clan territory.
+
+Sullivan Clan’s Grand Tree Council Chambers
+
+Aisling glares at every single council member as she coldly raises her voice just shy of shouting, “How did this happen?! Someone snuck into our weapons production facility and nary a single person caught on ta them? And they got away as well?!” She slams her fist into the table, making all of the council members flinch. “Explain!”
+
+“Clan Leader, after tha soldiers spotted tha merc lass fleein’ by jumpin’ down from the tree, we ordered all tha guards on the coast to search for ‘er,” Cathal Sullivan, Aisling’s cousin, answers, the woman clenching her own fist in anger as she leans over the table, her dirty-brown hair hanging over her shoulder. “But none ever spotted a vessel. Not a single glimpse of tha lass comin’ ashore. Not even any bubbles comin’ from the water.”
+
+“We believe she teleported away somehow after hittin’ the shore and settin’ off the alarm,” her other cousin, Eamon Sullivan, continues, making Aisling’s glare turn between him and Cathal.
+
+The Clan Leader feels rage filling every ounce of her body as she holds herself back from smashing the table to bits.
+
+“An’ tha weapons production facility? What remains of it?” she eventually asks, a chill radiating from her causing frost to begin building up on the table around her fist.
+
+The others notice the signs that she is close to losing control, but her older brother answers just as calmly as he always does, unlike her younger brother, “Nothing remains. Tha lass got every piece of equipment we had and killed over half of tha higher leveled workers.”
+
+“Bloody spirits of the damned!” Aisling shouts, finally slamming her fist into the table with enough strength to crack the entire thing and shatter a part off of it right next to her while also freezing over the rest of the table with her ability. “All this happened right under our noses, and no one bloody caught on ta it?! I want that spirits damned Class S merc captured and imprisoned in Sulli’s Hell for all eternity!”
+
+All of the Sullivan Clan members flinch at the mention of the torture chamber hidden deep under the Grand Tree. One filled with monsters who are known to almost never kill their prey. Only play with them.
+
+Monsters made that way specifically by the mage who created them to act as the Clan’s torture chamber. Even if the Clan has almost never used it since its creation.
+
+Because the chamber is too inhumane.
+
+But by now the Clan has already had analyzers look over her ability, although they couldn’t see her Class for some reason. So they know she cannot be killed.
+
+Some aren’t even sure if she would be all that troubled by the torture chamber because of her regeneration and lack of an ability to die.
+
+Aisling doesn’t give a shit about that though. She just sees red as she climbs to her feet and begins walking around the table, making each Clan Council Member stiffen up slightly whenever she passes.
+
+The Clan Leader is usually relatively passive and kind to her underlings. But she can’t bring herself to be kind now.
+
+Not when their route to victory in the war has just been smudged so badly.
+
+They won’t be able to replace any of their weapons on the battlefield. And they were already far behind in terms of weaponry and military technology, making this an even bigger blow to them.
+
+And there’s still the immortal to deal with.
+
+At this point, Aisling is beginning to consider teaming up with another Clan just to take down the Byrne Clan.
+
+But she knows how fruitless that would be. Because then that Clan would just turn around and swallow them up as well.
+
+One of their main purposes behind going after the Byrne Clan was because they were the weakest link amongst the Clans, and the Sullivan Clan needed a boost in strength if it wanted to match the Gallagher Clan. Because the Gallagher Clan has a Gate directly to War’s home world, and they’re already the strongest Clan in terms of defense despite that.
+
+And more importantly, she knows what the Clan will do if their Clan Leader sees themselves losing the war for the world.
+
+Better War have it than another Clan is what they’d say.
+
+That mere thought alone makes Aisling clench her fists in rage once more.
+
+Then she takes a deep breath, trying to calm down. Because she remembers that there’s still one chance for aid outside of the other Clans.
+
+So she stops at the very front of the table and asks, “What about our request ta tha Atlanteans? Did they accept yet?”
+
+Silence fills the council chamber after that. A silence that has Aisling slowly narrowing her eyes.
+
+Eventually her calm older brother answers once again, stating, “Tha Atlanteans have chosen ta withdraw their delegates from Luk’tar, stating tha’ they ‘will return once it’s safe once more.’”
+
+Aisling’s mind blanks completely at that response.
+
+Then the woman lets out a loud shout as a wave of frost flows free from her, coating everything in the council chamber and freezing the ground directly around her.
+
+“They said WHAT?!”

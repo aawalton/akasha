@@ -1,0 +1,189 @@
+---
+id: 0fd91e18-06cc-5d62-ae55-e82c5888f6bb
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 60"
+slug: 0132-b2-chapter-60
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 132
+ownLength: 1595
+unit: words
+ownProgress: 1595
+publishedAt: 2024-03-21
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1563049/b2-chapter-60"
+royalRoadId: "1563049"
+markedReadAt: "2026-06-29T19:17:16.996Z"
+---
+
+AriaFive years later
+
+I feel like I end up in places like this a lot. Just floating in some creature’s stomach.
+
+It’s a rather bad habit and I wish I would break it, but alas.
+
+These giant fish and giant serpents and giant whatever else is down here don’t agree.
+
+Then again, it could be my own fault for coming down to the sixth ring.
+
+On a side note, I really wish I could summon my spirits inside of here, but that doesn’t work either. Leaving me kind of just stuck in here.
+
+And I was just one kill away from level twenty-five as well.
+
+A pity.
+
+My thoughts come to a halt when more water suddenly floods the stomach I’m in, sending me up and then down. Only for my eyes to suddenly lock onto a still-living fish in here, instantly waking me up as I rush to go kill the thing with my gun – a gun that actually doesn’t work in the thing’s stomach for some reason.
+
+And after killing the fish, ignoring any of the other large fish mana creatures that were swept inside without the giant whale chewing for obvious reasons, I get a long awaited notification.
+
+User has leveled-up to level 25.
+
+User will now be given their fourth skill.
+
+Assessing user’s accomplishments and actions… assessment complete.
+
+User will now be given the following skill:
+
+Soul Drain
+
+This skill allows the user to drain the life force of others and convert it to soul energy.
+
+Punish those who try to harm the Lady, for their aging speaks volumes to all.
+
+Oh, wow. That’s unexpected.
+
+What’s even more unexpected is that I somehow instinctively begin draining the life force of everything around me. Considering that trickle of soul energy that I suddenly begin gaining, along with the strange red lines of energy trailing into me from all over.
+
+Uh, okay, so how do I stop this?
+
+I narrow my eyes before trying to think of using the skill. Which does nothing.
+
+Then I try to play around with my soul energy. Which also does nothing.
+
+So I proceed to do anything I can think of to stop the life force from being drained.
+
+Damnit, I can’t go into a city like this…
+
+Please just stop…
+
+To my surprise, the trickle of life force comes to a halt.
+
+I blink before looking around, no longer finding any of that red energy entering me and converting to soul energy.
+
+Wait, was saying for it to stop all I needed to stop it?
+
+With that thought in mind, I tell it to start again. And it does. Then I tell it to stop. And it does.
+
+Interesting.
+
+It’s rather annoying how all these skills are used and activated in different ways.
+
+Now then. How to focus it on one thing at a time.
+
+I think about draining the life force of the large whale I’m inside, and it immediately happens.
+
+So easy to figure out after I, well, figure it out. Okay, so easy to figure the rest of it out after finding how to start it.
+
+Also, I get the feeling I’m draining more from this whale than anything else I was draining. Is it because I’m closer to it? Or maybe because I’m touching it?
+
+Might be. Proximity or physical contact might speed it up. Maybe both.
+
+On that note though, I don’t really notice much change if any to the whale despite me sitting here draining its life force. So am I just draining such an insignificant amount that the thing plain doesn’t care? Or will I only notice a difference after I drain enough that it begins visibly aging?
+
+Or both.
+
+Sure would be nice to have some bombs right about now.
+
+Too bad explosives don’t work as well underwater. And I ran out of the few explosives I got from Luk’tar that were meant to work well underwater.
+
+Guess I’ll be sitting here draining this thing’s life force for a while.
+
+Maybe I can test out the new skill a bit more while I wait.
+
+After a few hours of testing, I figure out at least a few things about the new skill.
+
+For one, the power of whatever it is I’m draining the life force of does matter. Hence why this whale hasn’t so much has changed at all since I started draining its life force three hours ago.
+
+For two, I can target specific species of creatures with my skill and it’ll drain the life force from all those species that are nearby for me. Just kinda locking onto that life force somehow.
+
+Not sure how.
+
+Don’t really care either.
+
+And proximity does matter, and so does physical contact. They both boost it a lot. The closer I am and whether or not I’m making physical contact.
+
+And all it took to figure all this out was a bunch of shriveled up weak fish mana creatures filling this thing’s stomach. Fish who I drained dry of life force.
+
+Rest in peace fishies.
+
+You will – probably – be missed.
+
+I let out a sigh. Then regret it when I remember the bad smell in here before returning to not breathing again.
+
+At least I have my nose plugs. Can’t do anything about my mouth though aside from stopping breathing.
+
+It was amusing one day when Little Blue – who is now taller than me at eighteen years old – questioned why I always bring nose plugs with me when I go hunting in the Grand Ocean. Mostly because of the look on her face when I told her it was for when I get stuck in some mana creature’s stomach.
+
+Anyways, I can’t help but wonder how long I’m gonna be stuck in this whale’s stomach. Because while the death energy is definitely building up, it’s still not strong enough to leave any more than a very minor burn on the creature’s stomach walls. Proving just how strong this thing is.
+
+Probably somewhere around the level five hundreds or six hundreds if converted to a human’s level.
+
+My thoughts come to an odd halt when I notice purple mist and liquid slowly filtering into the whale’s stomach, making me rather confused.
+
+What’s that? And why does it look so familiar?
+
+Then the whale suddenly starts moving rather rapidly. As if the thing was just hit by something.
+
+Oh? Is someone hunting the whale?
+
+That’ll speed up my escape by a large margin.
+
+And right as I have that thought, a large rod of silver metal suddenly pierces straight through the massive whale right past my face, leaving me staring blankly at the metal rod. One that’s long enough to go straight through the stomach, in one end and out the other.
+
+Then the whale stops moving, and the rod is pulled out, making the stomach fluids rush out the holes it made, carrying me with it.
+
+Well, this was unexpected.
+
+Also, as I just kinda float over the stomach acid and through the creature’s body towards the source of the hole, I can’t help but feel something familiar about that silver colored metal.
+
+And when I get outside of the whale, I immediately realize why that is.
+
+At the sight of Shirogane floating outside of the whale alongside Rory and…
+
+My eyes widen in shock, and I immediately shout, gargling water in the process, “Hannah?!”
+
+Then I let out a grunt when she tackles me into a hug.
+
+She doesn’t say anything immediately. Just puts a ring on my index finger first.
+
+Only then do I hear her excited voice in my head, ‘Aria, dear! It’s so great to see you!!!”
+
+I feel pure shock as I hug the now much older woman – she looks to be in her mid to late fifties now unlike the mid to late thirties back when I last saw her – in my arms. Meanwhile Rory – who I’m also a little surprised to see – and Shirogane – who is far more powerful than I thought he was judging by the metal pole – both look on with smiles on their faces.
+
+Then again, guess I’ve never seen Shirogane in combat. Not in the entire almost two decades I’ve known him now.
+
+Which is odd now that I think about it. Even if he’s part of a neutral nation.
+
+All that aside, what the hell is going on? Why’s Hannah here? Why’s Rory here?
+
+Actually, why are all three of them here? Shirogane would normally never go to the Grand Ocean. He’s never gone to any of the Hunter’s Spots I’ve been to on these worlds.
+
+And also, he better stop laughing at my reaction. Rory too.
+
+Eventually they both calm down as Hannah continues clinging onto me with her hug.
+
+Then Shirogane says, “We needed to tell you about some unexpected guests to Atlantis that you might want to avoid. And the only way to tell you before you returned was to grab someone with a Class S scouting ability.”
+
+I turn my head in an attempt to look at Hannah’s face, but she just hugs me tighter.
+
+Like Hannah’s ability.
+
+Not sure how they got her here though without drawing attention, but I trust they did.
+
+But…
+
+“What guests?” I ask with a frown.
+
+He directly meets my gaze and answers, “There are two sets of guests. One is from the Arcadian Society, and the other is from the Rex Dynasty of the Dead.”
+
+Oh.
+
+Yeah, I should find a Gate to leave this world now.

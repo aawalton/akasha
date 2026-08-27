@@ -1,0 +1,155 @@
+---
+id: 51d0cfb9-7ed8-5c56-ab8a-0bf6a1f25dcd
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 42"
+slug: 0204-b3-chapter-42
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 204
+ownLength: 1584
+unit: words
+ownProgress: 1584
+publishedAt: 2024-09-13
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1801663/b3-chapter-42"
+royalRoadId: "1801663"
+markedReadAt: "2026-06-29T19:12:39.855Z"
+---
+
+AriaFive years later
+
+I still question it to this day. Why, oh why, does a large cube have stomach acid? And for that matter, why does it have a stomach?
+
+All very important questions.
+
+Very important indeed.
+
+I almost let out a sigh as I float in the stomach acid of this Tier 10 mana creature in the form of a large cube made of metal. But then I’d have to breathe in the putrid stench of the contents of its stomach. Which mostly contains a bunch of rusted metal and dead hunters.
+
+It’s rather annoying. I tried nuking my way out of here, but all that did was damage the walls of its stomach a little bit. Didn’t do much more than that.
+
+And the stomach healed again not too long after.
+
+I mean, what sort of creature tanks a nuke in its stomach and is perfectly fine?
+
+It should be fine though, since those obsessively protective guards should be checking up on me any day now. Since they check once a month ever since I stopped leaving the Spires entirely. Just spending years in the places, never leaving except to move on to a different Spire and restock my library of books.
+
+Still. The sensation of the mana creature’s stomach acid running over me has been more than a little unpleasant.
+
+I glance at the wall of the creature, where I used my lovely black flames from Death’s Judgment to begin burning the mana creature’s stomach. But all that’s left is a scorch mark. The black flames didn’t even burn through the stupid wall of its stomach. Not even after spending twenty days doing nothing but burning it.
+
+Goes to show just how tough a Tier 10 mana creature is. That even without it being able to heal, I can’t do much of anything to it. Because my flames aren't strong enough to even really damage it.
+
+Rather terrifying.
+
+My thoughts draw to a halt when the mana creature in question suddenly begins to shudder.
+
+What’s going on? Is someone attacking it?
+
+Maybe it’s the knights.
+
+Then I see bits of some sort of liquidy shadow slithering down into the mana creature’s stomach.
+
+Oh. It’s just the stalker.
+
+Hmm. Well, guess I’m fine with his visit today.
+
+Actually, I’m very happy with his visit. Means I can get out of this stomach faster than I would’ve otherwise.
+
+Also means I’ll be getting a nice soul core along with it from the mana creature in question.
+
+So I just lie here staring up at the ceiling as the black shadows in liquid form begin coating the walls of the stomach. And as soon as they completely finish coating them, the walls begin to disintegrate, getting devoured into the shadows from the inside out.
+
+At a relatively slow pace, proving that a Tier 10 mana creature isn’t just something even a Grand can ignore. But still thousands of times faster than anything I’d ever be able to do.
+
+I continue lying here for a few hours in my shirt and shorts with my arms splayed out on either side of me as the stomach gradually gets eaten from the inside-out. Then, finally, after four entire hours, the edges of the stomach burst and a gray liquid that I’m pretty sure is blood floods inside.
+
+There we go.
+
+After that, the shadows converge on me and begin carrying me out of the stomach while devouring everything along the way. All the way until I arrive at a wall made purely out of metal. No doubt the outer ‘skin’ of the mana creature.
+
+Right as I’m wondering if the shadows are going to start slowly devouring that too, the wall suddenly dents inwards. Almost like someone punched it.
+
+I blink in surprise, only for it to dent again. And again. And again.
+
+One hit after another comes and after a few dozen, the wall breaks, revealing the light from the outside. Along with a certain stalker whose fist is raised as if he just finished punching the mana creature.
+
+Oh, and his fist is coated in shadows too.
+
+Interesting, but not important.
+
+The shadows carry me the rest of the way out of the mana creature – whose form is that of a massive gray cube with glowing blue and black veins running through it – until they place me on the ground in front of Arthur. My biological uncle and stalker.
+
+Although I have at least learned that he’s only stalking me like this because of his complete lack of social skills and the fact that – because of the curse – I’m the only one he sees as family. Which makes the currently impending situation of the Grand Silvanian Empire rather awkward. What with news spreading that the Council is currently trying to attack them. Even if the attack hasn’t begun yet.
+
+Or, rather, they’re directing a bunch of other nations to go to war with the empire.
+
+Overall, it’s gonna be a massive headache to deal with. Especially because the empire will be sending in knights to gather magical ore and magical silver more often to help with the war.
+
+“Thank you,” I tell him after the shadows finish cleaning me up of any of that disgusting stomach acid, my voice ringing out through the balcony through the magical ring I have on.
+
+He just nods, the man as quiet as ever.
+
+I quickly grab and devour the soul core of the mana creature who ate me before stretching a little and walking over towards the edge of the enormous chamber I find myself to be in. No doubt the chamber belonging to that mana creature.
+
+After reaching the edge of the chamber, I walk right outside of the large, gaping opening onto a grand-looking balcony. One with a very small, stone railing all around the edge of the balcony.
+
+I smile after taking several steps out onto the balcony. Then I spread my arms out on both sides and take in the sensation of the wind rushing past the bare skin of my arms and legs and blowing through my hair.
+
+It’s so nice to be outside of that stomach again.
+
+Wait a second…
+
+I blink as I open my eyes again.
+
+Why is there wind up here?
+
+I look around, only to hear Arthur clearing his throat, making me glance back at him to find the man pointing upwards. So I look up to see a large bird made out of magical silver flying upwards toward the top of the Spire. And in its wake it leaves powerful gusts of wind that fill the entire Spire up here.
+
+Oh. I’m pretty sure that’s the ruler of this Spire.
+
+Wonder why it went down from the top? That normally doesn’t happen in the Spires.
+
+I watch the powerful and graceful looking creature until it vanishes over the top of the Spire. Then I stretch a little before walking over to the edge of the balcony and leaning over to look down at the planet below.
+
+It’s really interesting to see a structure like this that stretches out all the way to space. Not to mention that the view from up here is lovely.
+
+I normally avoid the top of the Spire due to not being able to kill any of the things up here. The only reason I’m here now is because of that Tier 10 mana creature gobbling me up and bringing me back with it. But I can’t help but feel like coming up here again sometime soon just for this view.
+
+“Soon,” Arthur says, making me turn around to look at him with a frown on my face.
+
+“Do you mean the war will begin soon?” I ask, and he nods his head without another word.
+
+Hmm. That’s not good.
+
+I turn around to look out over the edge of the Spire again.
+
+Something that’s been bothering me for a while now.
+
+Is it just a coincidence that Arthur’s attack happens to coincide with the general time that the curse will be refreshed, and my family will be coming to visit for their ten minutes? Or is that on purpose…
+
+I stare out over the edge of the Spire for several minutes before giving a mental sigh. Seeing as I can’t physically sigh here.
+
+Well, whatever.
+
+This war has nothing to do with me.
+
+Both Arthur and Leopold said they’ll keep me out of the war and that I can just continue hunting in the Spires while they’re going at it.
+
+What I’m more worried about is Shirogane, who still hasn’t made any strides toward his goal.
+
+I really hope he doesn’t do anything drastic. Because the last time I saw him he seemed to be reaching a breaking point.
+
+Then again…
+
+My frown deepens.
+
+That… could work. And I can definitely see him thinking of it himself.
+
+But the question is whether his father will let him.
+
+I fold my arms and begin tapping my finger against my elbow for a few seconds before eventually trying to sigh, only to find it rather difficult since there isn’t any air up here.
+
+Shirogane’s already told me that he wants to do this on his own, and Leopold wants me to stay out. So I guess I’ll just be a spectator to everything going on here.
+
+This Spire should be a nice place to watch from at least.
+
+Assuming I don’t end up in another metal cube’s stomach, that is.

@@ -1,0 +1,113 @@
+---
+id: 3c69fd42-1a63-50d3-8f35-a0071a8e74cf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,420 - Heavenly Descent"
+slug: 0100-chapter-1420-heavenly-descent
+partOf: defiance-of-the-fall
+position: 100
+ownLength: 2743
+unit: words
+publishedAt: 2026-04-09
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3252960/chapter-1420-heavenly-descent"
+royalRoadId: "3252960"
+---
+
+Zac spent three days getting familiar with the arrays. They blew his arrangements back on Earth out of the water, not to mention the mobile arrays he used during his previous breakthrough. Only the tailor-made arrays Zac used in Perennial Vastness could compare. In fact, their designs had a surprising number of commonalities. The Empire’s shadows truly existed in most, if not all, factions across the Multiverse.
+
+There were powerful tribulation defenses, along with energy-gathering, Dao-amplifying, Heart-calming arrays, and specialized arrays for every step of the breakthrough. Zac wouldn’t and couldn’t use all of them, including specialized arrays for unfamiliar cultivation manuals. The general arrays that he could use were more than enough to greatly bolster Zac’s confidence in success.
+
+Zac still double-checked every step of his plan. He had some practical experience in undergoing core formation with desynced bodies, thanks to wrapping up his breakthrough inside Terea Wendimar’s memory lantern. At the same time, the final part was the easiest, where one simply needed to integrate materials in the correct order. Containing the berserk energies of his Core Ignition while simultaneously facing a Four Desolates tribulation would be the real challenge.
+
+Dozens of recordings were exchanged to sync up his understanding. The Judgment Plateau in the Mercurial Court was largely the same. Instead of seventeen spires carved out of the mountain peak, there were seventeen pillars erected across the island. They formed a microcosm mimicking the Grand Dao and all its peaks.
+
+Throughout the prep work, Zac was in constant contact with his other half by manipulating threads of Mental Energy. After over a year of often being separated through memories, Zac had already established a rudimentary Dao Language with Esmeralda’s help. While its general vocabulary was lacking, it could cover most issues that might crop up during the breakthrough without the need to relay messages through [Purity of the Void].
+
+Eventually, there was nothing else to do. The steps of his core formation had occupied most of his attention for months on end, to the point that he almost felt confident he could perform them in his sleep. Most outcomes were prepared for. As for any unexpected disasters, he would have to take them as they came.
+
+Zac sat down in the middle of the central platform and fed [Void Heart] a set of Void Cores. Exactly two hours and fifteen minutes later, he turned his attention to his Duplicity Core. By this point, the engravings covering its surface were complete and filled with spirituality that perfectly encapsulated half of his path. His human side saw only an intricate tapestry of gold and silver, while his Draugr side saw black and steel.
+
+There was nothing that could be added, nowhere to go. The Specialty Core had reached the limits of its current potential. And yet, it was missing something that was impossible to define. It made Zac think of Iz Tayn describing the stages of Autarchy: ‘eight was peak, nine is perfection.’ The Duplicity Core gave off that same feeling of hidden, untapped potential.
+
+Zac believed the missing link was only having a Late Cosmic Core to power it. If not, he’d make do. The hunt for perfection was a deviation that had ruined countless cultivators over the years. His foundations were rock solid as is, and anything he was currently missing could be supplemented at a later stage.
+
+The Duplicity Core came alive when Zac flooded it with Mental Energy, and it began to madly draw Void Energy and Dao. A latch soon opened, allowing Zac to breathe out in relief. Lacking the Duplicity Core’s instruction manual had almost killed him when stepping into D-grade, and he’d always been worried about what other surprises it held. So far, it didn’t treat Peak D-grade differently from the previous minor stages.
+
+The same couldn’t be said for the Cosmos. Zac had barely initiated the Duplicity Core’s core formation process when he felt a prickling sense of unease. He looked up, immediately spotting a new star in the perpetual night sky. Its red light shone with fury, and it drew closer with palpable speed.
+
+The same thing was happening on the other side. A brief recording of an identical light appearing far above Dome Lake was passed through [Purity of the Void]. It was a clear escalation in their conflict. When breaking through to Middle D-grade, the tribulation had only really descended after the Core Ignition.
+
+Could it be an opportunity? A couple of experiments said no. The Heavens were still only gathering strength, and it slowed down when Zac began to resist the Duplicity Core’s pull. Neither could he abort the Technocrat Core’s activation now that he’d set the ball rolling. Undergoing the tribulation before the ignition was impossible.
+
+It was only a thought and not something Zac put any hope in. He calmly continued to feed the Duplicity Core, which in turn released increasingly powerful fluctuations into his Quantum Space. It was replicating a Cultivation Manual’s natural ignition of one’s Cosmic Core. Since its patterns perfectly matched his Cosmic Core, it was equivalent to Zac using a tailor-made manual.
+
+Increasingly powerful emanations seeped out of the Cosmic Core. Then, radiant streaks resembling northern lights poured out of invisible seams removed by Sevona’s blessing. The mesmerizing phenomenon occurring within his depths was almost enough to make Zac forget about the brewing storm outside.
+
+The Cosmic Core’s fluctuations were fast approaching levels that could level mountains. And yet, it remained fully stable with no section showing early signs of collapse. Such perfect balance should be a rare sight among talented cultivators and an impossibility for a mortal. If not for the unique opportunities presented by the Left Imperial Expanse and the Outer Courts, Zac’s Cosmic Core wouldn’t have reached this point in a million years.
+
+Zac’s heart hammered as the vibrations caused by his Duplicity Core reached unprecedented heights. He could tell at a glance that his current situation was a double-edged sword. His core had already accumulated enough momentum to initiate the next step, yet its seamless composition allowed accumulation toward a superior Core Ignition.
+
+A precision strike against one of the hidden fault lines would cause a chain reaction that triggered an early ignition. It would lead to a breakthrough just like the previous ones: an apocalyptic explosion akin to detonating a shrapnel bomb in his guts. With the arrays and treasures he’d been provided, Zac was confident he could deal with this much just fine. If the core were allowed to continue much longer?
+
+Zac wasn’t sure he could bear it.
+
+Knowing that, Zac still pressed on. His perfect core was the culmination of immense struggles and fortune that struck once in a lifetime. He couldn’t bear the thought of sacrificing it to guarantee a safe outcome that would put him back down in the mundane world. There was no need to confer with his other half. Zac was going for the big win, and the rumbling skies weren’t enough to make him back down.
+
+The raging star flashed, and darkness swallowed the world. It only lasted for a moment before the sky lit up with crackling red. Churning clouds covered the whole mountain range, and Zac finally lost his cool. It wasn’t the innumerable deep-red bolts adorning its surface, though its scope did exceed even his pessimistic predictions.
+
+Neither was it the hair-raising aura of the Four Desolates hiding within. The problem was that the descending clouds had kicked the hornet’s nest. When faced with Heavenly wrath, all of Fuxi Halls roused from its slumber. And like a beast woken from deep hibernation, the mountain range emitted a bloodthirst that matched the clouds above.
+
+Zac had become a side character in his own tribulation before it began. Boundless murderous intent rose from the ground as hidden reserves of Faith and Energy accumulated across thousands of mountain peaks. It surpassed anything he’d seen in the intersector war. Not one to be outdone, the clouds burgeoned as boundless power was dragged from the emptiness. The Heavens and Earth were going to war, with Zac caught in the middle.
+
+The mayhem only lasted for a moment before the Judgment Plateau trembled. The surroundings faded out of view, and the stirred intent disappeared. Only the plateau and the tribulation clouds remained. The clouds had not only returned to their former state; they had been reduced by a third. Zac guessed the Imperial Fate permeating the Hollow Court was responsible for the other third. The tribulation clouds were still grossly overpowered, but only Zac’s sins determined their weight.
+
+The plateau had erected a separate space so as not to disrupt the surroundings with his breakthrough. It was a standard feature in any high-grade faction, which would face endless interruptions otherwise. Still, Zac was immensely relieved to see it work as intended. For a moment, Zac feared his tribulation had been entwined with the ancient taboo of the Limitless Empire.
+
+While the Heavens didn’t look kindly on his Void-imbued path, it was nothing compared to the hatred it held for the mad emperor and his undertaking. The feeling was evidently mutual.
+
+“The Earth remembers…” Zac sighed, suddenly recalling the small statuette he’d encountered when obtaining the second piece of his seal inside the Void Star.
+
+The figurine had been eroded with time, yet its boundless anger directed at the Heavens remained. Its sentiment was eerily similar to what he’d just experienced. Perhaps it was the accumulated resentment of a fallen empire that reared its head when the Heavenly pressure reached a certain threshold.
+
+The only thing that mattered was that Zac was back on track. The Duplicity Core had finished drawing on his soul and bloodline and was now releasing stable fluctuations that urged Zac’s Cosmic Core to take the next step. Seeing it was time, Zac infused his will into one of the control arrays.
+
+The seventeen peaks hummed as bottomless power rose from the plateau. Seventeen streaks of power melded into a magnificent strand resembling Primal Dao. Zac gently guided it through the Duplicity Core’s hatch, where the strand immediately took on the fluctuations of his Evolutionary Path.
+
+The other peaks were still melded within without corrupting its essence. On the contrary, they gave the evolutionary strand a transcendent nature similar to the pristine energies formed when splitting Chaos Motes into Creation and Oblivion. It was as if the strand allowed his Evolutionary Dao to describe the entirety of the Heavens.
+
+At the same time, an identical barrier appeared out of nowhere, holding Conflict and Void of Death. It was his Draugr half activating a core-protecting array on his other side. Wasting no time, Zac activated [Void Mountain] and infused himself. When turned outward, its sigil became a weapon of Dao Extermination. When used on himself, it acted as a great unifier.
+
+Void and Dao seamlessly merged, and two barriers became one. It was the same method he’d relied on during previous breakthroughs, only the shields this time were much grander. Zac felt like he’d erected a miniature Heavens within his Quantum Space that protected rather than punished.
+
+Zac activated the array controller once more, and boundless Faith Energy poured through the mountain veins. It flowed into the seventeen mountain peaks until a vast, golden halo ignited above them. The ring of light held the whole spectrum of Dao, with Faith taking the leading position.
+
+Golden runes radiating immutable will danced across the stream, eventually stopping at the four cardinal directions. One by one, four terrifying sigils erupted, each emitting unmistakable fluctuations of the Four Laws. At the same time, they were different from Law-imbued treasures. The aura of Law was tightly controlled by streaks of Imperial Destiny.
+
+East and west were guarded by ‘Hollow’ and ‘Court,’ respectively. The former held the Law of Cosmos; the latter, Balance. ‘Imperial’ suppressed the north and the Law of Impermanence. Finally, the rune reading ‘Mandate’ held the Law of Truth and towered over the south. The light of the glowing runes further bolstered the golden barrier, adding the critical dimension it previously lacked.
+
+The display was extraordinarily domineering. The barrier represented the Seventeen Dao Peaks, and the runes represented the Four Laws. Both were tightly controlled by Imperial Faith and the Empire’s Destiny. The Limitless Empire had declared itself above the Cosmic Order and that its citizens weren’t subject to Heaven’s Mandate. It thankfully stopped short of actually erecting a barrier above the Judgment Plateau, which would definitely have broken the unwritten rules of tribulations.
+
+The blatant display of aggression didn’t further agitate the Heavens. Not that it needed any provoking. An enormous whirlpool had formed above the peak. Its outer rims were angry red, growing darker until reaching pitch black at its center. An eye made from the Four Desolates stared down at Zac, daring him to further encroach on its domain. It would have already struck if it weren’t bound by the very rules that it enforced.
+
+“The balance is eschewed!” Zac shouted to the sky.
+
+There was no answer from the System this time, no indifferent and lofty presence to complement the cosmic wrath. The System had shown extraordinary restraint throughout the trial, not even taking a gander when Authority or Chaos was up for grabs. This time was no exception, further cementing that Zac couldn’t rely on the System to swoop in and save the day every time he broke through.
+
+With the arrays in place, there was nothing left for Zac to do but keep an eye on the sky while staying ready to deal with the fallout. A timely thump from [Void Heart] preceded a surge of Void Energy to replenish some of what he had lost.
+
+Finally, thousands of glowing seams simultaneously erupted with blinding radiance, prompting the Quantum Space to undergo a marvelous transformation. Zac had already entered his Void State, and his two Warbringer Idols appeared to help him witness the metamorphosis with a clear mind.
+
+The Quantum Space ballooned to the size of a solar system, attracting vast amounts of energy from the Cosmic Sea. Zac could tell at a glance that this space could already sustain a weight comparable to most of the Early Monarchs he had encountered. Such was the benefit of extraordinary foundations.
+
+Still, Zac’s whole attention remained on his Cosmic Core, which now shone with blinding light that recast the solar system in Evolutionary Dao. Every scrap and morsel of energy had been fully activated, yet the core still held fast. With nowhere else to go, the rootless energy coming from outside poured into the core.
+
+This was something Zac had never heard of before. He started to wonder if there was such a thing as too stable foundations as the core began releasing ominous pulses of increasing intensity. It was too late to regret or to induce ignition now. Any imperfection he introduced at this stage would blow him to kingdom come.
+
+Six pulses came and went. Sweat pouring down his forehead, Zac began fastening talismans against his stomach and throat. If all else failed, he needed to at least protect his head. The rest of his body could be regrown. Finally, the core reached the ninth pulse. A corona of pure energy rushed out of the core, crashing into the erected barrier with extraordinary power.
+
+Zac was rocked by the blast, but he and the shielding held steady. He poured everything he had into the array, creating an intense counterforce to the outward pressure in preparation for the real blast soon to follow. Another flash, this one even brighter, quickly followed, and countless radiant stars rushed out of the haze left in the corona’s wake.
+
+They were so slow! Zac’s Void State almost collapsed upon seeing the gentle trajectories. Less than a third would reach his erected barriers before running out of steam. It was as if his Cosmic Core had simply fallen apart into glowing drops of starlight. The solar system inside the Quantum Space now looked like a galaxy, with countless stars forming stable trajectories based on Zac’s Daos.
+
+It was a truly perfect ignition that even cultivators could only dream of. None of the pieces were damaged, and none of them were lost. The tranquil scene was so far removed from his previous experiences that he briefly failed to react. However, while one part changed, another stayed the same.
+
+The reward came in the form of pitch-black lightning that aimed to erase all that Zac had accomplished.

@@ -1,0 +1,149 @@
+---
+id: bd84b499-d625-5ec5-93c0-aa530e03fe39
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 52"
+slug: 0215-b3-chapter-52
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 215
+ownLength: 1492
+unit: words
+ownProgress: 1492
+publishedAt: 2024-10-09
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1842109/b3-chapter-52"
+royalRoadId: "1842109"
+markedReadAt: "2026-06-29T19:13:02.580Z"
+---
+
+A World Far Away from SilverfallNot long after the Crimson Imperial Family was Teleported away
+
+Lucilia Crimson feels truly enraged as she glares at the Horseman of War in front of her, the man on the back of his horse barely floating above the ground of this dead and barren planet they found themselves teleported to. Because the man interrupted her first meeting with her daughter.
+
+But that’s not all that upset her.
+
+Seeing his interaction with her daughter also upset her. The fact that she seemed more comfortable talking to him than to her own family.
+
+In short, Lucilia feels jealous of War.
+
+And she knows how ridiculous that thought is. But it doesn’t change how she feels.
+
+She glances up at the spaceship high above the planet as wave after wave of their soldiers fly down to surround them. Then she looks at War again and asks, “Do you really plan to try something in a situation like this?”
+
+War grins back at her and answers, “Of course! When else would I be able to fight with opponents of your level? You’re always running away after all!” The man crosses his arms with his sword in one hand. “It’s almost like you’re avoiding me!”
+
+“No shit,” Lucilia retorts while tapping her foot on the ground, still scowling at the man. “And what, will you start chasing after Aria after you don’t get what you want from us?”
+
+That comment gets a response out of Lucius that surprises all three of the imperials there.
+
+“Why would I do that?” He asks with a frown on his face, tilting his head a little.
+
+Lucilia blinks in surprise before asking in return, “Isn’t your whole obsession about taking the skills of those you deem worthy in a duel?”
+
+“Yep!” Lucius answers with a nod. Then he looks at her rather blankly and says, “So why would I bother Little Death when she can’t even die in the duel? I wouldn’t get anything out of it other than the excitement of the battle.”
+
+That comment makes Lucilia open her mouth for a few seconds before closing it again.
+
+“He has a point,” her husband comments, having stayed quiet this whole time, focusing instead on his telepathic link to their forces that are still arriving on the planet.
+
+Even her son nods his head at that.
+
+Right. His skill works by giving a skill from the participant of the duel that dies to the winner. But she can’t die.
+
+“I can’t see Famine taking any sort of interest in bothering her either,” War adds with a shrug, uncrossing his arms. “Everything he’d try to drain out of her would immediately return to her after all. And Pestilence has already gotten the use he wanted out of her.” His grin grows wider as he focuses on Lucilia. “So, really, your whole stunt of hiding her has pretty much become pointless. None of us are going to bother her after all.”
+
+Lucilia feels this one comment alone as if it were a dagger straight to her heart, making her almost drop down to her knees. But she manages to stand tall, simply through reminding herself that the other Horsemen wouldn’t be treating her daughter the same way if they hadn’t already known she was the Horseman of Death.
+
+No one knew she would be the Horseman of Death for sure.
+
+Lucilia and Artorius only assumed it was a possibility based on her death energy and ability. Not that it was guaranteed.
+
+So their sending her away wasn’t pointless.
+
+It can’t have been…
+
+“Well, how about we begin the fun, shall we?” Lucius says, his grin turning psychotic as waves of scarlet energy begin to release from his body, spreading out all around the entire planet and beginning to fill everything nearby with a faint scarlet mist. One that makes it difficult for anyone to see.
+
+Until a bright scarlet light shines from Lucius’s blade as the man raises it into the air.
+
+“Move!” Lucilia shouts at all of their forces while using a skill to teleport herself through her life energy hundreds of kilometers away.
+
+Following which Lucius brings his blade down, sending a massive and constantly growing arc of scarlet energy straight towards the planet.
+
+Cutting the entire planet in two and making the core explode afterwards.
+
+Every single soldier nearby and even the spaceships coming out of the wormhole begin firing straight at War. Including her husband and son. But Lucilia only barely manages to teleport out of the way when another blade sweeps straight past where her neck was and she hears War whisper, “Let’s play,” near her ear.
+
+Lucilia grits her teeth and begins draining at his life force while drawing her own bladeless sword. One that quickly grows a blade made out of black and crimson energy.
+
+Out of life force.
+
+“If that’s what you want, I’ll entertain you until it’s time to leave,” Lucilia growls out, a little pleased at the chance to vent her anger on the man.
+
+Then their blades begin clashing in the middle of space, sending out waves of crimson, black, and scarlet energy as the soldiers, the ships, and her family all attack him at the same time, with the man himself managing to perfectly block every hit without taking a single wound. Only seeming to be worried about Lucilia’s attacks and no one else’s.
+
+Worried about the Grand of the Crimson Empire.
+
+Meanwhile any ships that happened to be passing near the area are either wiped out or flee as quickly as they can.
+
+AriaA few days later
+
+Huh.
+
+Well that’s interesting.
+
+I almost yawn before holding myself back, briefly reminding myself that I am currently inside the stomach of one of the birdies at the top of this Spire. A not-so-healthy or fun place to be.
+
+Despite that, and despite the stomach acid failing miserably to eat away at me, I can’t help but keep my eyes glued to the news article I’m reading on my phone.
+
+One about the battle between my blood family and War.
+
+A battle that wiped out several planets. Both uninhabitable and habitable ones.
+
+The battle is currently trending all over the universe.
+
+Which makes sense, considering that it’s a battle directly between two of the Nine Grands. Two of the strongest amongst the Grands at that.
+
+The Empress of the Crimson Empire and the Horseman of the Apocalypse, War.
+
+Just the mere fact alone that a Horseman was involved was enough for universal news, but the reveal of the appearance of the Crimson Empire’s Imperial Family was also an important aspect to it. Since before now no one had seen their faces. Out of not important people, that is. Just the higher ups of a lot of the more powerful nations.
+
+Mostly just the others of the Nine Grands.
+
+I’m a little surprised that most people are just talking about the recordings of the battle showing off some of War and the empress’s powers rather than the damage and casualties caused by the battle. Not to mention the fact that the Crimson Empire has finally revealed itself again after centuries of hiding.
+
+And with their leaders personally revealing themselves no less.
+
+I purse my lips while scratching the back of my head.
+
+Guess that was probably Arthur’s goal when he led War to Silverfall. To expose the Crimson Empire again using their visit to me to do so.
+
+It’s nice to at least know his goal. Although I don’t particularly like being used.
+
+Especially by a stalker.
+
+I don’t care if he’s my biological uncle.
+
+Actually, on that note, what happened to Uncle Jake? Was he a clone too?
+
+I frown at that, briefly wondering about it. But then I just shake my head and decide to leave that matter to the next time the three come to visit me.
+
+In a century from now.
+
+Because I’d rather not involve Leopold in family affairs by asking him about it. Especially when he’s fighting in a war right now.
+
+I heard he’s even fighting directly against Arthur in this war, making the empress and War’s fight not the only high profile fight going on.
+
+Which makes it so he can’t really help with the war personally. Since he’s busy with Arthur.
+
+I continue reading the article as I casually keep one hand plastered against the edge of the stomach I’m in, letting black flames burn away at it. An action that isn’t exactly getting me anywhere fast, but is better than doing nothing.
+
+Because I doubt anyone’s gonna help me out of here anytime soon.
+
+Especially when explosives don’t work, no matter the quality.
+
+And I’d rather not blow up the Spire and anyone in it by using a more powerful one.
+
+I stare at the article for several more minutes before sighing.
+
+And immediately regretting it.
+
+How long am I going to be stuck in here this time?

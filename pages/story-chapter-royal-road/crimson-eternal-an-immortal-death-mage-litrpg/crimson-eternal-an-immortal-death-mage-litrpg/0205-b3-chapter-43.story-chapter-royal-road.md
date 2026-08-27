@@ -1,0 +1,143 @@
+---
+id: b8428532-1d06-5ecf-9235-7ff837f612b3
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 43"
+slug: 0205-b3-chapter-43
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 205
+ownLength: 1534
+unit: words
+ownProgress: 1534
+publishedAt: 2024-09-15
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1804427/b3-chapter-43"
+royalRoadId: "1804427"
+markedReadAt: "2026-06-29T19:12:41.860Z"
+---
+
+Aria
+
+I continue staring out at the planet below for a little while before glancing backwards to find the stalker having already left. But when I look out over the planet again, I end up faced with a surprise.
+
+Explosions ringing out over three different Gates across the world at once. Dozens of portals opening up across barren land and even inside of cities. And soldiers of various different nations judging by their varying outfits marching through the portals.
+
+“Seriously?” I mutter with the use of my ring, my arms still crossed as I raise a brow.
+
+Talk about a last-minute warning. He literally warned me seconds before the war began.
+
+Who does that?
+
+What’s the point of the warning?
+
+Not like I can do anything about it.
+
+Or does he just want me to stay up here or something?
+
+I glance up at the strange-looking silver orbs in the sky. Then at the large elevator going into the space station outside of the planet. And all of the knights of the empire are rushing to deal with the attackers.
+
+Guess there’s no need to give them a warning. And they already know who’s behind this attack.
+
+I turn my attention back down to the planet below before raising one hand to tap on my chin in thought.
+
+From what I can tell, there are ten different types of outfits down there. Likely each from different nations.
+
+Some of the outfits are more medieval in style, some more along the lines of what we had on Vortel, some more advanced than that. But only one of them is high tech stuff that a spacefaring nation would have.
+
+And if one of the nations has that sort of technology…
+
+I raise my head right as several portals open up in space, allowing a bunch of large spaceships to pass through them. Spaceships that immediately begin firing on the space station and the planet itself. Only for large shields to form around the station and the cities alike, blocking every last laser and spell that shoots out of the ships.
+
+Yep. This is a bit more advanced than most of the wars I’ve seen. And I’ve seen a lot of wars.
+
+Also a bit more complicated. Since there are ten nations attacking one nation.
+
+The Grand Silvanian Empire won’t be able to just ignore this. They’re ten Beta Tier nations after all. Nations similar to Atlantis in power.
+
+Now, the Grand Silvanian Empire would never actually lose a battle like this. But these Beta Tier nations can definitely leave a painful dent in the Grand nation.
+
+Especially since one of the other Nine Grands is no doubt going to be out assassinating them. So they’ll have to worry about both the armies attacking them, and the assassins.
+
+I lean down before resting my arms on one of the higher elevated parts of the battlement surrounding the balcony before further resting my chin on my arms. Just looking out over the world in chaos.
+
+Despite everything that’s going on, I can’t really bring myself to care all that much about it.
+
+Is it because I’ve seen too many wars by now? Since I’ve seen a war on almost all of the planets I’ve visited. Or at least two thirds of them.
+
+It’s to the point that wars have just become the norm now.
+
+And these are all wars that I don’t really have any stakes in most of the time. Other than getting my immigration rights to the world.
+
+I watch as the armed forces all march to attack different cities as the guards of said cities begin throwing out spells while the walls for the cities start their automated defenses in the form of ballista and other wall-mounted weapons. Then I look up again at the spaceships firing spells and lasers at the space stations. Not to mention the knights literally jumping out of said space station while armed with full plate mail covering their entire bodies.
+
+Hmm. Never seen their armor suits in action before.
+
+From what the emperor was bragging to me before, in addition to what I’ve read on my own, these suits let their soldiers breathe and move even in space. They also significantly enhance their physical strength through magic, along with their magical resistance.
+
+Overall, they’re medieval looking mechs. Kind of like what the Rex Dynasty has.
+
+The armor suited knights all rush through the air with various weapons in hand. Some have swords, others great swords, and some have lances. I think I even see a couple gun lances. Lances with rather explosive guns on them.
+
+I personally like them because of the explosive part. But I’d never use one. They’re too heavy.
+
+Anyways, I get up and move to find a spot to lie down that still gives me a view of the world below and the battle above. Then I lie down on my front with my arms once again crossed in front of me and my face lying on them.
+
+After that I just lie here and watch the war going on as my Death Spirits continue fighting mana creatures within the Spire. Although I make sure to get my Death Spirits to give a friendly little warning about the war going on to any of the knights or nobles inside of the Spire that don’t already know about it.
+
+Just my little added bonus to Leopold for the help he’s given me. Not that it’ll help that much.
+
+Neither Leopold or Arthur will care if I do that little after all. And both are very dead set on me staying out of this conflict.
+
+So Imma stay out of it.
+
+The battles, both in space and on the worlds itself, continue raging as the armies of the Grand Silvanian Empire are deployed. But the moment they leave their barracks after forming, they’re attacked by people in dark robes. Each of whom are also covering their faces with their own various magics.
+
+There they are. The Council of Darkness has made its move.
+
+And, as expected, I can’t see a thing in regard to anyone’s levels. Not a single person down there.
+
+Guess that really goes to show the difference in a war against a Grand. These Beta Tier nations only brought their best.
+
+I wouldn’t be surprised if the lowest level soldier down there is already over level two hundred.
+
+At some point as I watch the fighting I start lifting and lowering my legs one at a time, not taking my eyes off of the strongest combatants out there. The ones taking on the largest garrisons of knights and their knight commanders. Commanders who are on par with said strongest combatants of the Council of Darkness.
+
+Judging by how strong they look in comparison to the commanders, they’re probably the members of the Council of Darkness.
+
+From what I remember, the Council has ten members, with one of them being the leader. That one being Arthur Crimson. My biological uncle and stalker.
+
+And he set up the Council of Darkness so that power reigns supreme. It has a list of ranks with the ten highest ranks of the organization being the ones on the Council. Meanwhile people who are part of the Council of Darkness can challenge anyone who is a member of it for their rank. And the survivor takes the higher rank of the two.
+
+There is no challenging and not killing the other member in the duel.
+
+It’s not allowed.
+
+No one ever challenges Arthur though, since he is leagues above everyone else.
+
+He’s why it’s a Grand level organization in the first place. Since he’s on par with the other Grands.
+
+Which makes sense. He is the younger brother of the Crimson Empire’s empress and a member of the royal family.
+
+I was rather surprised at first to hear that it was the emperor who married into the royal family and not the empress. But I guess that’s just because most of the nations I’ve seen on my journeys have leant a bit more towards having emperors and kings succeeding the throne than the other way around.
+
+Although the emperor does do most of the management of the throne.
+
+Apparently the royal family’s bloodline is more for battle than anything else. So the direct blood descendants often end up just focusing on combat while their spouses end up taking on the management duties.
+
+Some rather odd traditions, if you ask me.
+
+And I’m not just thinking that because it would imply that I’m some battle maniac like them. Because I’m not.
+
+I am perfectly normal. The most normal person ever.
+
+Well, my normality aside, I climb back up to my feet again.
+
+Might as well take a look down below.
+
+I kind of want to see what Shirogane is up to.
+
+Besides. I kind of want to see what it’s like falling from this height.
+
+The gravitational pull of the planet should be enough to bring me back into the atmosphere, so it should be fine.
+
+So with that thought in mind, I casually take a step off of the ledge.
+
+Immediately falling from the Spire and towards the planet below.

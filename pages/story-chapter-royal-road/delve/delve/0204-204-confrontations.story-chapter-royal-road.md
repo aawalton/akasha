@@ -1,0 +1,291 @@
+---
+id: 58c81537-0580-5d1d-b574-0f1e131cf25a
+page-type-slug: story-chapter-royal-road
+title: "204: Confrontations"
+slug: 0204-204-confrontations
+partOf: delve
+position: 204
+ownLength: 4151
+unit: words
+publishedAt: 2022-09-04
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/986223/204-confrontations"
+royalRoadId: "986223"
+---
+
+A piercing whistle cut through the clamor in the Guild, making unawakened and awakened alike clamp their hands over their ears.
+
+Looking over the heads of the crowd gathered around them, Rain saw a woman in a sleeveless jacket lowering her fingers from her mouth as she began stalking toward them, a pair of blue-coated clerks trailing in her wake—and a wake it was. As she moved, the crowd parted before her, minnows fleeing a shark’s passage.
+
+Danger bells began ringing in Rain’s head as the woman prowled closer, her predatory grace combined with the powerful definition of her muscles telling a story of high synchronization, while the traces of gray streaking her swept-back auburn hair and the scars crisscrossing her exposed arms spoke of long experience. The silver Guild plate dangling around her neck left little doubt of who she was. What was really putting Rain on edge, though, was his growing awareness of the woman’s soul. It was a far cry from the overwhelming sharpness of Velika’s or the occluded solidity of Halgrave’s, but as Everiss came to a stop before him, Rain had no doubt that the leader of the Barstone Guild was dangerous.
+
+Stronger than Bakal, for sure...
+
+Stronger than Ameliah...
+
+Maybe not.
+
+“Well?” the woman asked, crossing her arms angrily. “You wanted my attention; now you’ve got it, assholes.”
+
+“Branch leader,” Rain said, drawing the woman’s focus onto him quickly before Carten could say anything stupid. “I apologize for the disturbance, but it was necessary. We have important news. The Empire has attacked Three Cliffs by ship.”
+
+Everiss glanced at Carten with an unimpressed sniff. “I heard him the first time.” She turned next to Officer Sana, who did an admirable job at not shrinking away. “Since Officer Pushy is here, I take it it’s true?”
+
+“It is,” Officer Sana said with a firm nod, and the crowd erupted at her flat statement. Sana took a step closer to Rain’s elbow in response, but she didn’t take her eyes off Everiss. “Custodian Rain was there. He fought them.”
+
+“Quiet!” Everiss roared, glaring the Guild back into silence. Once order was restored, she returned her focus to Rain. She was shorter than him by a good margin, but somehow, it still felt like he was the one being stared down on by a hawk. Finally, after a few long seconds of silence, she spoke. “Custodian Rain, huh? You’d think I’d have heard of you.”
+
+“I’m new,” Rain said simply.
+
+Everiss narrowed her eyes as she stared into his mirrored visor. “What’s your Guildscore?”
+
+“Unimportant,” Rain said, meeting her stare for stare.
+
+Everiss snorted, uncrossing her well-muscled arms. “That bad?”
+
+Rain remained silent, judging it best not to mention that the last time he’d checked his score, it had been negative. Maybe that had changed after the Rankin incident, or maybe not. He neither knew nor cared.
+
+Unexpectedly, before the staring contest went more than a few seconds, the branch leader smiled. “Okay then.”
+
+Rain blinked. What?
+
+Everiss turned to Tiller, speaking to the blue-coated clerk in a no-nonsense tone of command. “Get his story down, then post it to the board as an event quest. I want everyone spreading the news through the city. Three Tel per taker should do it. No verification required; just have them go tavern to tavern. I’ll cover the cost. Send out a call for Diviners and Trackers to scout south of here, and have Twoah meet me in my office once I’m back from the delving. I’m getting everyone up and out. We don’t want people down there when the bear comes for the beehive. They’d miss all the fun.”
+
+“Yes, ma’am,” Tiller said, bowing low.
+
+Everiss ignored him, having already returned her attention to Rain. For some reason, she was smiling. “Fix your Guildscore. Fame is its own reward.” She began to turn away, then hesitated before spinning back to face him fully. She looked him up and down, her smile growing wider. “A thousand points if you duel me in the arena tomorrow, assuming we’re not all dead by then.” There was a flicker, and she was suddenly holding a spear. She twirled it over her head, the crowd ducking needlessly to get out of the way. Finishing her flourish, she slammed the butt against the ground with a thump, grinning at Rain the whole while. “Since you fought the Empire, you might even have a chance.” With that, she settled her long weapon against her shoulder, then turned once more for the lifts. “Move, people! For Guild and glory!”
+
+Rain simply stared after the retreating branch leader as the Guild roared back to life, everyone rushing forward at once and swiftly swallowing her from view.
+
+That went...well?
+
+Carten laughed, raising his shields to fight off the press. “I think I like her.”
+
+“Ameliah?”
+
+Ameliah woke with a start, finding herself slumped against a wall in Temerity’s brightly-lit bridge. She was still wearing the same crumpled outfit she had been since the ill-advised stealth mission to the city, but she’d dismissed all of her armor save her boots. She blinked up at Tarny, who gently removed his hand from her shoulder.
+
+“They’re on their way back.”
+
+“Thanks,” Ameliah said with a tired sigh, licking her teeth with a woolly tongue as she got to her feet. “How long was I out?”
+
+“Just a few minutes,” Tarny lied.
+
+“If you say so,” Ameliah replied, polling her interface for the time. It was 4:28 AM, but knowing that didn’t help her say how far Tarny was bending the truth. It wasn’t like she’d checked the clock before deciding to rest her eyes. She was exhausted, much more so mentally than physically, and sleep had just sort of happened. Grimacing, she shook her head and decided to move on. “Did they get the supplies?”
+
+“Yes,” Tarny replied, offering her a steaming cup, which she accepted gratefully. “They had to hire a barge to carry everything. Also, we’re going to have a visitor.”
+
+“Oh?” Ameliah asked, lowering the cup from her lips, the refreshing warmth of the spearmint tea washing some of the foul taste of sleep from her mouth. “Don’t tell me. He’s bringing the orphan girl.”
+
+“He isn’t actually,” Tarny said. “Though he did say he stopped by that tavern again and convinced what’s-his-name to turn it into a proper orphanage.”
+
+“That sounds about right,” Ameliah said, taking another sip of tea. Setting it on the chair she’d been sitting on, she summoned her armor from the waist down, then reached for the belt holding her quivers. “If not the orphan, then who?”
+
+“Officer Sana,” Tarny said.
+
+“Ah,” Ameliah said, finishing with her quivers. She picked up her bow before retrieving her tea and heading for the stairs. “I don’t think V’s going to be too happy about that.”
+
+“That’s why you get to tell her, not me,” Tarny said, hurrying ahead of her. The metal door at the top released a tortured groan as he shoved it open.
+
+Ameliah followed him through, her armored boots crunching against the layer of frost. The remains of the ship’s upper decks were entombed in ice, thick pillars of it holding up a low ceiling. Here, a small room had been formed for defensive purposes. Fredek was standing guard, holding an oil lamp, and she nodded to him in greeting.
+
+“We’re going to have to be very careful,” Tarny said, lighting a candle from Fredek’s lamp and handing it to her. “After I talk to Vanna and the Defense Council, Rain wants me to find her a room in the ice, assuming the vote to let her aboard passes.”
+
+Ameliah nodded, hooking her arm through her bow to accept the candle.
+
+Fredek cleared his throat. “Who are we talking about?”
+
+“Officer Sana,” Ameliah said, looking at him. “She’s coming back with the away team.”
+
+“Shit.”
+
+“Mmm,” Ameliah said, acknowledging his concern. [Rain, are you sure about this?]
+
+There was a pause, then a flash from Tarny’s pocket, making him hurriedly extract Rain’s anchor and hold it on his palm. The tiny yellowish crystal was about the size of a Tel and quite a bit more jagged, which Rain said had to do with how bad a job he’d done of making it. Ignoring its appearance, Ameliah focused on the pattern of flashes, which Rain was sending more quickly now that she and Tarny had grown more practiced at decoding them.
+
+When the crystal faded back to darkness, she spoke aloud for Fredek’s benefit. “Rain says he trusts this officer and that we need friends more than we need secrets.”
+
+Fredek rubbed at his chin. “Well, that’s all well and good, but what if she learns something she shouldn’t? What are we going to do? Kill her?”
+
+“You know Rain wouldn’t allow that,” Tarny replied. “It would be foolish, too. Even if she’s only bronze, she represents the entire organization.”
+
+“Obviously,” Fredek said, giving him a look. “Having muscles doesn’t mean not having a brain. That’s what I’m saying. If this officer finds out about V, we won’t be able to do anything to stop her from telling the rest of the Watch. We’ll be screwed.”
+
+“Not necessarily,” Tarny said. “The Watch let V go, remember?”
+
+“Maybe...” Fredek said. “I’d still be right miffed with her if I were them, whether they pardoned her or not.”
+
+“Shh,” Ameliah warned softly, receiving a muttered apology from both of them. She exhaled slowly, hugging the warm cup to her chest. Rain was still beating himself up over what had happened in Three Cliffs. He’d waited too long, and because of that, people in his care had died, or so he felt. She needed to have a long talk with him about taking the blame for things that weren’t his fault. Regardless, though he was acting hastily, he was right that they needed the Watch’s help.
+
+Shaking herself, Ameliah tossed her teacup and candle into the air, then summoned the rest of her armor before catching both objects without spilling a single drop of either tea or wax. Her bow, though, clattered against her arm, the sound wooden despite the weapon’s true nature.
+
+Carrying this thing around is such a pain. I should try to find Ranged Arsenal. That branch leader has the melee version, so maybe she knows what tree it’s in. Heck, this Guild’s big enough to have an archive, and my Guildscore should get me access. She smirked. Rain can’t have realized they won’t let him in there yet, or he’d already have agreed to that duel.
+
+Finishing her tea with a gulp, Ameliah passed the cup back to Tarny, then closed her visor and bade the two men farewell.
+
+Here we go.
+
+Navigating her way through the entombed wreckage of the deck, she found a sloping tunnel, then climbed the chiseled stairs to the next level. Despite the hour, people were working here and there, using picks to flatten the floor and carve storage rooms into the ice. The air was frigid but not as much as one would expect. It hardly mattered to her, given her armor, but it was something to consider if they intended to maintain the frozen shell.
+
+Emerging onto the surface, Ameliah breathed deep of the salty air, then looked around. The iceberg was longer than it was wide, but beyond that, there was little to suggest what lay within. Shelves and paths had been carved into the sharply sloped exterior, dusted with sand for traction, giving the cloudy ice an even dirtier appearance. Seeing that a few evertorches had been set up since she’d last been outside, she pinched out her candle, then tossed it in a nearby pile of snow.
+
+A crunch of breaking ice made Ameliah turn, and Velika landed beside her, probably having jumped from one of the lower shelves. The former Citizen wore a heavy brown cloak over her borrowed clothes, hooded, and with a Vestvallan Endnight mask concealing her face beneath. The only remaining clue to her identity was the sword tenting the cloak at her waist, but that was hardly remarkable considering that this was an adventurers’ iceberg.
+
+“Well?” Velika asked. “What’s taking so long?”
+
+“They’re on their way back,” Ameliah said, then continued to just get it over with. “And they’re bringing a Watch officer with them.”
+
+“Are they?” Velika asked, the former Citizen’s tone suddenly colder than their frozen surroundings. “Why?”
+
+“Rain is a Custodian. That makes the Watch our allies.”
+
+“Not my allies,” Velika replied, taking a step closer. “Remember what will happen if you betray me. I will kill everyone here, and then I will escape anyway. The DKE can’t track me through the Mantle anymore. I’ve learned their tricks. This ship is only the easiest path to my freedom, not the only one.”
+
+Ameliah’s eyes had widened at the word ‘Mantle’, then further as Velika had continued incriminating herself. That’s it. I’m done. She stepped forward, not bothering to hide her hostility as she hissed through her teeth. “Shut up! A Diviner could be listening. Did you even consider—”
+
+“Of course I considered,” Velika snapped, the Endnight mask doing nothing to conceal her fury. “I’m warded, idiot. Do not speak to me as if I am a child.”
+
+“Then stop acting like one,” Ameliah replied, just as hotly. “Wards can be broken. Your yapping is going to get us all killed.”
+
+A gloved hand shot out from beneath the cloak faster than Ameliah’s eyes could follow, clamping onto her armor’s collar. Deciding to ignore it, she looked up, meeting Velika’s eyes through the holes in the mask. “Gods, how can you be so dense? Titans are at war, and you’re threatening the ants trying to help you.”
+
+“Ants?” Velika said, pulling Ameliah even closer. “How appropriate, since I’m going to crush you like one.”
+
+“No, you’re not,” Ameliah said, grabbing Velika’s arm and trying to remove it. She might as well have tried moving Tallheart, but she continued, undeterred. “Fight us, and you’ll reveal yourself. Kill us, and you’ll still be stuck on this continent in hiding. The officer is coming, like it or not. Either shut up and get below, or leave. You can run across the ocean for all I care. Maybe a Leviathan will do me a favor.”
+
+The grip on her collar tightened, and Ameliah prepared herself to use Airwalk, suspecting that she was about to be treated to the Thrast experience. Unexpectedly, another voice spoke before that could happen, deep and bristling with threat.
+
+“Release her.”
+
+Halgrave.
+
+“Stay out of this,” Velika snapped at the former branch leader, who was walking silently on air toward them, his massive hammer resting on his shoulder.
+
+Halgrave grunted, coming to a stop facing her, though he didn’t let his boots touch the ice. “Your ward spell, supposing you even have one, does nothing for mundane ears. If I can hear you from the waterline, so can others.”
+
+“Oh, what do you care?” Velika said. “Just take your daughter and go.”
+
+“Mahria does not wish to leave,” Halgrave countered, looking at Ameliah as he continued, giving her a tiny nod. “She trusts them, as do I, to a point.” He looked back at Velika. “As should you.”
+
+After a long, angry silence, Velika’s eyes pivoted back to Ameliah’s. “We’re not done.” She released her, but not without an angry shove.
+
+Clenching her jaw, Ameliah forced herself to remain silent as the fallen Citizen left.
+
+Her view was blocked as Halgrave stepped in front of her, his feet still not touching the ice. “That is a bad habit of yours.”
+
+“What is?” Ameliah asked, fighting the jittery tension Rain attributed to a chemical called adrenaline.
+
+Halgrave snorted. “You know what I mean. I seem to recall you speaking to me like that, once or twice.”
+
+“You deserved it,” Ameliah said flatly.
+
+“Immaterial,” Halgrave said. “As they say in Xiugaaraa, you court death, except in that stupid language of theirs.”
+
+Ameliah sighed, then inclined her head, acknowledging the point. “You’re probably right. I just can’t let her push us around, especially when she’s being so...” She stopped herself, making a strangling gesture with her fingers instead before dropping her arms with a sigh. “Thank you.”
+
+Halgrave humphed. “It is in all of our best interests for her to remain calm. You should learn from your husband’s example. Bite your tongue and let the moron have her tiny victories.”
+
+Ameliah smiled, though not at Halgrave’s advice. “My husband?”
+
+“Rain,” Halgrave clarified. “Is he not? Mahria said the two of you are inseparable.”
+
+Ameliah chuckled. “That’s true enough, but it’s complicated. He gets hung up on titles, and I...well. Yeah. Complicated.”
+
+Halgrave snorted. “It does not seem complicated to me, but then, I am not one you should seek for marital advice.” He held up a hand. “Regardless, you have a larger problem to concern yourself with. Bringing the Watch here is dangerous. At best, you are only going to lose your ship.”
+
+“Rain knows what he’s doing,” Ameliah said. “Temerity won’t be secret much longer, no matter what we do. Too many people know, and we’re not about to go around silencing them. Being upfront with the Watch is our best option for keeping it. If they ask questions we don’t want to answer, we’ll just say as much.”
+
+“Right,” Halgrave said, clearly unconvinced. “To be clear, do not expect me to save you from this mess, politically or otherwise. Whether the Citizens try to take V from you or whether the Watch tries to take this ship, it is your problem. I do not care what happens as long as you keep my daughter out of it. Do we understand each other?”
+
+Ameliah nodded curtly. “We do.”
+
+“Good,” Halgrave said, adjusting his hammer against his shoulder. “Then, if you’ll excuse me, I’m going to bed. I want to be well-rested for when this all blows up in your faces.”
+
+He turned to depart, and Ameliah let him go, closing her eyes and exhaling slowly.
+
+I need a vacation.
+
+Loading the barge and crossing the harbor took longer than expected. By the time the eight rowers had managed to paddle the bulky vessel out to Temerity, the sun was already beginning to brighten the horizon. Rain, meanwhile, had passed beyond tired and into the realm of the living dead.
+
+“Just bring it up to the side, Lord Rain?” Caneb, the owner of the barge, asked.
+
+“Not a lord,” he said exhaustedly, though he perked up as he saw a flicker of movement. An armored form detached itself from the iceberg ahead, soaring toward them in a graceful arc. “Heads up. Nobody freak out.”
+
+“What— Ah!” Caneb shouted, stumbling back as Ameliah dropped down beside him, her boots thudding heavily against the barge’s wooden planks. The rowers likewise reacted with curses and gasps of surprise.
+
+“I said don’t freak out,” Rain said, but he was smiling as he stepped forward. He wrapped Ameliah in a hug, bathing himself in the comforting warmth of her soul. “Hi.”
+
+“Hi,” Ameliah said, squeezing back. “Sorry, I landed a little harder than I intended.”
+
+“It’s alright, my lady,” Caneb said. “You just startled us, is all.”
+
+“Not a lady,” Ameliah said, making Rain grin.
+
+He reluctantly released her after giving her another tiny squeeze, the air feeling just a bit colder as he stepped away. He gestured to the barge owner. “This is Caneb. He was kind enough to let us hire his barge despite the hour. Can you tell him where to...dock? Make land? Make ice? You know what I mean.”
+
+Ameliah waved a hand. “Just pull alongside anywhere. Someone will throw you a rope.” She turned to look at Sana, the final occupant of the barge. The officer was standing beside Caneb in her woolly coat, cradling a sleeping Dozer in her arms and looking extremely awkward under Ameliah’s gaze.
+
+Rain hurriedly stepped forward to introduce her. “Ameliah, this is Officer Sana.”
+
+Sana bowed sharply. “It’s a pleasure to...uh...” She struggled, muttering something too low for Rain to hear, then straightened. “Sorry. It’s a pleasure to meet you. You have a very beautiful soul.”
+
+Rain blinked. Right. Of course she can see.
+
+“Do I?” Ameliah asked, amusement in her voice. She waved to someone over Rain’s head, and Rain looked to see Jamus wave back, sitting beside Carten in the metal rowboat tied behind them. It was cramped back there, thanks to the cage holding a very plump and very angry Fatbird.
+
+“What’s that about?” Ameliah asked, returning her attention to Rain. “Dinner?”
+
+Rain chuckled. “No, that’s for Ujesh. I felt bad that we still haven’t found him something, and the Guild was willing to sell it, so...” He shrugged. “Fin might be interested too, maybe. I wouldn’t want to morph into a rotund chicken, but I don’t judge. It’s not as strong as the red ones, but it should do for a start. Let them use their skills, at least.”
+
+“I suppose,” Ameliah said. “Wasn’t it expensive, though?”
+
+Rain gestured toward Dozer, still held in Sana’s arms. “Surprisingly, no, and apart from that, Dozer managed forty Tel today. On top of what I brought with me, I had enough for everything we needed.”
+
+Ameliah fixed him with a flat look, plain despite her visor. “You let people see your money slime?”
+
+“Not by choice,” Rain said. “I was haggling, and he just—” He raised his hands, spreading his fingers quickly and making a popping sound with his lips.
+
+“Of course,” Ameliah said with a note of amusement. She looked again at Sana, still clutching the slime to her chest, then back to Rain. “You realize people are going to try to steal him from you now, don’t you?”
+
+“I would never...” Sana began, sounding horrified.
+
+“Not you, obviously,” Ameliah said. She gestured vaguely. “People. Guilders. Assholes.”
+
+“Oh, right,” Sana said, sounding embarrassed as she squeezed Dozer like a stress pillow.
+
+Rain cleared his throat. “How did the vote go?”
+
+Ameliah shrugged. “It was close, but she can come aboard.” She fixed Sana with a cold stare. “Provided that she agrees to a few restrictions.” Her voice was surprisingly harsh as she continued. “You aren’t to speak to anyone other than me, Rain, and a few others you’ll meet in the morning. No questions until then, and no snooping. If you learn something you shouldn’t, you might have to stay with us for a long, long time.”
+
+“Ameliah, come on!” Rain said. “You can’t just say that.”
+
+“Custodian?” Sana asked, concern in her voice as she took a step closer to him.
+
+“I have nothing against you, personally,” Ameliah said, though her tone remained hard. “Rain trusts you, and that’s enough for me, but Ascension can’t trust the Watch as a whole. Not with everything that we know. We’d like to, but we can’t. The restrictions are for your own protection as much as ours. Know that we mean you no harm, but we won’t let you take what’s ours.”
+
+Sana swallowed heavily, then stepped forward. “True.” She glanced at Rain, then back at Ameliah. “Okay. I agree to the restrictions.”
+
+“Thank you, Sana,” Rain said earnestly. “I really think this is the best way forward, given the urgency of the situation. We’re not forcing you, though. If you want to go back to shore, we won’t stop you.”
+
+“I’m coming aboard,” Sana interrupted firmly, stepping forward. Her confidence was clearly a mask, though. If Dozer had had bones, they’d have been powder by now. As it was, the slime was still firmly asleep, nothing but tired contentedness flowing through the link.
+
+“Good,” Ameliah said with a nod. She spread her arms wide, then beckoned. “Come on, then. I’ll take you both over.”
+
+“Thank you,” Rain said, quickly moving to embrace Ameliah, her comforting warmth again pressing back the chill. “And thanks again for the ride, Caneb.”
+
+“You’re welcome, my lord,” Caneb said. “For what you paid, you won’t hear me complaining.”
+
+“Not a lord,” Rain said again. He could feel Ameliah’s laughter, and while he was still tired to the bone from sleep deprivation and constant stress, the complaints of his body hardly seemed important with her beside him.
+
+“Coming?” Ameliah asked, beckoning to Sana, who had frozen in place.
+
+Rain turned to better look at the officer, then raised an eyebrow. Is she...blushing?
+
+“I, uh...” Sana stammered. “I wouldn’t want to come between... Your souls are so...and...I...um. I could just climb a rope, or...”
+
+“What—” Rain began, but before he could properly phrase his question, an urgent voice called down from above.
+
+“Rain!”
+
+“What?” Rain called back, looking up at Samson, who was pointing out over the water. Following his finger, Rain saw the DKE frigate in the predawn light. It was moving despite the lack of wind, riding a gentle swell as it bore straight down upon them.
+
+Filth.

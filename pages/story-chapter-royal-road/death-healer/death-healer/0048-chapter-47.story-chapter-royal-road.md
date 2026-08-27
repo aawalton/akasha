@@ -1,0 +1,183 @@
+---
+id: 8b35fa72-e69e-51bc-86dc-8c2af06e9561
+page-type-slug: story-chapter-royal-road
+title: "Chapter 47"
+slug: 0048-chapter-47
+partOf: death-healer
+position: 48
+ownLength: 1643
+unit: words
+publishedAt: 2025-07-07
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2416968/chapter-47"
+royalRoadId: "2416968"
+---
+
+The garden’s stone tiles were still wet from the morning’s dew, but Lily didn’t seem to care.
+
+She had yet to go back to Calpurnia and Sabinus—after learning the Great Skill, Lily had asked her mother to guard over her training and make sure it would stay private.
+
+The blonde girl had found a healing power so great that she was still grasping the extent of it.
+
+She was barefoot again, seated cross-legged on the training mat with her back straight and her palms resting over her knees. The faint glow of Life Flow shimmered at the edge of her fingers, flickering like a nervous flame.
+
+Adriana, arms folded and smiling tight with effort, watched her daughter from under the stone archway. She didn’t dare interrupt.
+
+There was no strain on her brow, no tightening of the jaw. Just focus.
+
+After a full minute, Lily opened her eyes. The glow faded. She looked up. “Did I do it right, Mother?”
+
+Lily had channeled the Great Skill it with a precision and consistency that put most adult [Healers] to shame when it came to a simple [Heal] spell, much less a Great Skill. Adriana could hardly believe what she was seeing. The flow of restorative Mana from Lily’s hands was rich, uniform, and deeply attuned—more than a burst, more than a flare. It was the kind of output she’d expect from a Level 50 [Healer], not from an twelve-year-old girl with no Class.
+
+That level of control shouldn’t have even been possible without years of field experience.
+
+Yes, it burned through her Mana like wildfire. Yes, she could barely hold it for more than half a minute without faltering. But that didn’t matter. Even a short burst like this would be enough to reset bones or re-seal grievous wounds in an emergency.
+
+“You—” Adriana crossed the distance in four strides and dropped to her knees. “You did better than right. You held it. Perfectly. You shaped the flow and kept it stable.” She took her daughter’s hands and kissed her knuckles one by one. “You’re beyond gifted, darling. You’re finally controlling it fully. This is what real shaping feels like.”
+
+[Mana Shaping] was a Skill of a fundamental importance for [Healers] for a reason. Adriana had never spent much time overseeing her daughter’s healing since Lily was so gifted. However, since Life Flow, which Lily had explained in detail to her mother, worked similarly to [Heal], the blonde woman had decided to take the time to make sure Lily’s [Mana Shapingi] was up to the task.
+
+The past few days, Adriana had run Lily through complex exercises that would be usually reserved for Classed [Healers], but her daughter had not even batted an eye.
+
+Not only Lily had gotten the Great Skill of the Gens Claudia, but something had changed in her.
+
+She looks more mature—she’s less stubborn.
+
+“You’re special.”
+
+“Mom,” Lily said.
+
+“Yes, darling?”
+
+Lily tried to hide her smile. “You always say that.”
+
+“Because every time, you exceed what you did the day before.” Adriana brushed a few blonde strands from her daughter’s brow. “You’re not just going to be a [Healer]. You’re going to make everyone in the Papacy call you a Champion.”
+
+“What about the law?” Lily asked.
+
+“I’m taking care of that. There’s… it’s simpler than I thought. Just…” Adriana hesitated. “I sent a letter to your father, implying that I was going to do this in order to force his hand. We’ll need his support for your claim to be recognized.”
+
+“But they’ll try to stop me.” Lily said it without malice. Just fact.
+
+Adriana’s hand stiffened on Lily’s. “They’ll try. But after you fight in the tournament. That’s all that matters. Once they see your power and you have your father and the Gens Cornelia behind you… when they try to say no—”
+
+“I’ll already be too strong to stop.” Lily’s voice was quiet, but certain.
+
+Adriana felt the warmth rise behind her eyes. She blinked it away and pulled Lily into a hug. “Exactly, my bundle of Light.”
+
+They stayed like that for a moment, wrapped in the early sun, surrounded by the rustling hedges and whispering breeze.
+
+Then they heard it.
+
+The sound didn’t match the garden—too heavy, too sharp. Boots. Not on gravel or dirt. On stone. Several men, moving quickly, in unison.
+
+Adriana rose at once, moving toward the edge of the archway and looking over the hedge wall.
+
+They weren’t her brother’s men. The armor was different—thicker plate, gold-edged, trimmed with the dark red that only belonged to one family.
+
+The Gens Claudia’s armor.
+
+Adriana’s face darkened.
+
+The lead soldier barked a command. Servants froze as the men entered through the outer courtyard. No weapons drawn—yet—but their posture was that of an escort, not a patrol. They were here with purpose.
+
+“Lily,” Adriana said without turning back, “go inside. Don’t ask questions.”
+
+Her daughter didn’t argue. She ran, barefoot still, the hem of her training robe flaring as she vanished into the house.
+
+Adriana stepped out of the archway, lifting her chin, her back straight. She descended the steps just as the guards entered the inner courtyard. The captain saw her, slowed his approach, and removed his helmet.
+
+“Lady Adriana,” he said. “We come bearing a letter. By order of Lord Lucianus Claudius.”
+
+She didn’t reach for it. “You bring armed men to deliver a letter?”
+
+“It’s not just a letter, milady. It’s a request for protective custody.”
+
+Adriana’s jaw tightened. “Protective from what?”
+
+The captain didn’t answer. Instead, he held out the sealed envelope.
+
+She took it.
+
+Adriana broke the seal with a single flick of her nail. The letter was thick parchment, folded with exacting care. She didn’t need to read far. The handwriting was unmistakably Lucianus’s—cold, mechanical, and without the slightest trace of warmth.
+
+Adriana,
+
+I don’t understand how you achieved such a result. I commend the results and the courage it took for the attempt. But whatever visions you believe you’ve seen, they do not supersede the judgment of those with clear minds.
+
+Our daughter is most certainly gifted. I do not dispute that. But gifts must be tempered. I will return shortly, and until then, I expect your full cooperation.
+
+Effective immediately, both you and Liliana are to remain within the estate at all times. I am sending guards not to offend you, but to ensure that no further complications arises. You are not to leave, nor is Lily to be presented publicly in any fashion.
+
+Specifically: our daughter, Liliana Claudia, is not to participate in the Tournament. That matter is not open to debate.
+
+Let us not force the Gens Claudia to clean up a family scandal. Stay your hand until I return. I expect better of you.
+
+—Lucianus
+
+Adriana’s lips parted slightly as she read the last line. A family scandal. That was how he saw it. Not as promise. Not as power. Not even as potential.
+
+He feared what he couldn’t control. And in Lily, he saw something he hadn’t planned for.
+
+She folded the letter slowly and pressed it against her chest, her fingers trembling—not with fear. With rage barely held back.
+
+“Milady,” the guard captain said. “If you please could enter the villa. Master Lucianus should be back in a matter of days. We don’t want to create any upset.”
+
+“You’d raise your hands on me?” Adriana said, narrowing her eyes.
+
+The captain sighed.
+
+“Milady, I have orders.”
+
+Adriana nodded curtly.
+
+“Follow them, then. I’m not stepping inside my house on anybody’s order.”
+
+* * *
+
+Lily stood just behind the second-floor window, her breath fogging the glass.
+
+She had hidden the moment her mother told her to run—but she hadn’t gone far. She crouched now behind the embroidered curtain, fists clenched, watching the inner courtyard unfold like a theater of shame.
+
+Her mother stood tall and proud in front of the guards, her golden hair catching the morning light like fire. She didn’t shrink. She didn’t plead. But they still stepped forward.
+
+They didn’t hit her.
+
+They didn’t shove her.
+
+But they touched her.
+
+And that was enough.
+
+Two guards reached out—careful, rehearsed—and placed their hands on her arms. Adriana jerked against them, screaming at the captain, demanding they unhand her. One of the younger guards faltered at the volume of her voice. The other held fast. They weren’t dragging her, not quite. But they were leading her.
+
+And Adriana did not follow. She kicked the wall. Her foot collided with the stone planter beside the fountain and knocked it over, soil spilling across the marble. She screamed again, incoherent this time.
+
+Her arms flailed once before the guards clamped down harder, restraining her without force—but also without respect.
+
+Lily couldn’t breathe.
+
+She couldn’t move.
+
+Her heart was pounding so hard in her chest it hurt. Every beat felt like it wanted to burst out and claw its way down the stairs. Her mother, the strongest character she had ever known—stronger than the men in armor, stronger than the priests, stronger than any book or banner or Skill—was being dragged like a criminal through her own garden.
+
+And no one stopped them.
+
+No one even looked away.
+
+The rage came fast. It didn’t climb or build. It snapped. It ignited inside her like oil on a fire.
+
+For the first time in her life, Lily felt something darker than fear.
+
+She felt the desire to burn.
+
+To kill these men.
+
+To show them what they deserved for treating her mother like that.
+
+Mana surged beneath her skin before she realized she’d drawn on it.
+
+Her vision blurred as the color of the world shifted. Lines of force and resonance rippled across the floorboards, traced through the walls, reached down into the stone where her mother stood.
+
+She gritted her teeth and hissed through them.
+
+“One day, they’re going to regret that.”

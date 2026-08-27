@@ -1,0 +1,155 @@
+---
+id: c5c33507-770f-523c-b611-38652f9e741b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,398 - Lodge"
+slug: 0076-chapter-1398-lodge
+partOf: defiance-of-the-fall
+position: 76
+ownLength: 3044
+unit: words
+publishedAt: 2026-01-18
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2955651/chapter-1398-lodge"
+royalRoadId: "2955651"
+---
+
+Zac exhaled as the raging torrent of ancient intent gradually calmed. The powerful attacker undoubtedly had his own methods of traversing the core region, but the commotion they’d triggered should have made river crossing extremely hazardous in the short run. The ancient dagger’s edge had also crumbled to dust. Zac suspected it had used up its remnant spirituality to bring their group to a safe spot within the lodge. Finding, let alone reaching, it would be easier said than done.
+
+The cost of reaching Sevona’s Hunting Lodge was cheaper than Zac had feared. His reserves of Miasma and Mental Energy were plentiful, and he had enough Vigor remaining to freely make use of his Hidden Nodes. He only felt a slight spiritual weariness from channeling his Warbringer Idols for so long, and there was an easy fix for that.
+
+Zac began channeling the [Warbringer Dharma] while his companions set out to inspect the surroundings. He’d brushed against death multiple times over the past ten minutes, and it was in these situations that the Dharma shone. Narrowly escaping annihilation from a much greater existence was the second most effective method after emerging victorious in a desperate life-and-death battle. With a second Idol to augment his cultivation, Zac felt his Dao Heart not only recover but also grow stronger at a record pace.
+
+The effect lasted until his body calmed down a minute later. The ancient intent had fully settled at that point, greatly satiated after clashing against the slivers of the enemy general with each soldier slain. The seventh river had helped him refine as much as the previous six combined. He’d already refined a full quarter of the intent, greatly surpassing his earlier estimates.
+
+Zac understood it was a chance encounter that could be found but not sought. How often would one be lucky enough to find countless enemies implanted with the mark of a High Autarch or possible Supremacy? Not encountering a second hunting ground would probably be for the best. He’d just gained the ancient intent, and there might be better ways of utilizing it. His spiritual body was also starting to exhibit some resistance from the infusion.
+
+Part of it could be explained by the extreme amount of conflict infused in such a short span. It could be compared to his human body, which needed years of consistent effort to gain a Life-attuned constitution. The second issue was the depth of integration. If his spiritual body was a bucket, each infusion of ancient intent was a rock thrown inside.
+
+The attunement wasn’t complete, yet the bucket was already filling up. The bucket would spill over, and he’d waste the ancient intent if he kept going at this pace. Zac needed to figure out at least an introductory stage of the [Thousand Axes Chapter] that turned the rocks into sand, allowing the Dao of Conflict to evenly permeate his spirit without any gaps.
+
+Zac suddenly paused as a strong sense of déjà vu hit him. He turned his attention to a bronze insignia silently floating in a corner of his Soul Aperture. It was the [Soul-Sealing Knot] he’d bought in the Transformation Docks. Since the purchase, the soul-strengthening treasure had worked on stabilizing his Soul Aperture by releasing weak fluctuations.
+
+Esmeralda had used the exact same analogy to explain its function as what Zac currently faced with his semi-attuned spiritual body. Seeing as the [Thousand Lights Chapter] was an auxiliary method connected to Soul Cultivation, maybe the treasure could help out with Zac’s situation. It could never fully replace a proper method, but it might be able to buy enough time to focus on more pressing issues.
+
+A pulse coming from the depths of the lodge derailed Zac’s thoughts. His vision swam, and he briefly felt like he was looking at countless overlapping realities. The sensation was vaguely familiar, but a profound sorrow flooded his mind and prevented him from tracing the source. It was only thanks to his firm Dao Heart and many sparring sessions with Vilari that he could suppress the overwhelming grief.
+
+It couldn’t stop the tears running down his cheeks, and his Soul Sense was pushed back into his body by an invisible force. Zac’s Danger Sense was quiet, but he knew better than to bet his life on his instincts—especially when something struck his left shoulder with enough force to make him stumble forward.
+
+Zac swirled around, the settling air of slaughter erupting again while his axe gleamed with cold death. His swing barely stopped short of sinking into the thick neck of an unfamiliar beast. It was a pitch-black bull with huge golden horns that held the power of Earth. Adorning its hide were matching runes. Altogether, it looked like a formidable creature able to steadily advance in the middle of a battlefield.
+
+The impressive specimen showed no hint of animosity, nor was it planning a follow-up strike. It trembled like a leaf in the wind, afraid to so much as breathe after being struck point-blank by the intense murderous intent imbued in the swing. Zac wiped his eyes and finally got a proper look at the situation. He was still in the stables, except it was full of life. The stables had come alive with a dozen workers, and beasts filled more than half the stalls.
+
+There were also four warriors decked in high-quality gear nearby. The commotion brought a halt to their discussions, but they showed no hostility. They looked at Zac with a mix of mirth and confusion, and Zac heard a jab about crybabies. The stablehands resumed their work after confirming the situation was under control.
+
+Zac understood he hadn’t been attacked. He had appeared right before a bull being led toward a stall. The stablehand holding the reins of the imposing mount looked equally shocked and confused, and he deeply bowed when his mind caught up.
+
+“I’m sorry, Sir! I must have been distracted. I didn’t notice you standing there.”
+
+“It’s fine,” Zac said while sheathing his weapon. “Just a little jumpy.”
+
+There was no sign of his companions. If Idiche had been dragged into the same illusion, she’d already activated her cloak. Zac was left to figure out the situation for himself. He wanted information, but he was also afraid of exposing himself. The scrape on his left shoulder was proof that these illusions could bring harm.
+
+“I forgot, where should I head next?” Zac slowly said as he reined in his aura further. It helped the Early Beast King Bull to calm down, though it still looked at Zac like he was a devil in disguise.
+
+“If Sir has seen to your mount, then you are free to do as you please. There is a reception in the courtyard, and you can take the opportunity to explore the lodge,” the worker said, indicating the barn door and the stairs. “The hunt will begin in three hours. There are few who stay in the lodge at that point.”
+
+“Thank you,” Zac said with a nod.
+
+“I would suggest you look for hunters to team up with, but you don’t look the type,” one of the warriors said as he sauntered over. “And no offense, I doubt the veterans would welcome someone so skittish into their ranks.”
+
+An older warrior joined the conversation at that point. He looked deeply into Zac’s eyes. “You have a strong smell of blood on you. I guess you’re from the border forts?”
+
+Zac slightly nodded after some deliberation. He didn’t mention which one, since he simply didn’t know their names. He only vaguely knew of their existence because of the vision he had when he arrived on the island. Half of Sevona’s kingdom bordered a dangerous wasteland full of beasts and hostile tribes.
+
+A gleam of respect appeared in the teasing warrior’s eyes. “I guess that explains your taut nerves. I hear those wildlings can appear out of nowhere.”
+
+“It’s not too bad. Still hard to get used to the environment here,” Zac said.
+
+“I know the feeling,” the older warrior sighed. “Forget the reception. You should take a walk inside the Royal Lodge. Praying in the Hall of Abundance will calm your mind and lead you to better prey during the hunt.”
+
+“Am I truly allowed to freely enter such a holy place?”
+
+“Why wouldn’t you be?” the younger warrior scoffed. “We’re different from those barbarians lurking outside our borders. They don’t even dare create totems of their twisted deities. Meanwhile, Her Majesty believes divinity belongs to the people.”
+
+The nearby workers nodded in agreement, with undisguised pride on their faces. Zac tried to follow up on the Hall of Abundance. The illusion faded with a sigh before he could get an answer, leaving behind a lingering sense of sorrow. Idiche appeared directly to his left at that moment. She looked like she’d been crying. Her eyes were puffy, and her nose was still running.
+
+“Did you catch that?” Zac asked.
+
+“It looked like a good memory, so why was it so sad?”
+
+“Grief of something lost,” Zac said, glancing at Esmeralda when she appeared on his shoulder.
+
+“Quick, put this into your sack,” Esmeralda urged while waving a piece of bark.
+
+Zac did as told, putting the item in his [Mercurial Sack]—not his old one, rather the Early C-grade sack he lifted from Guild Leader Marai. Zac wasn’t sure if he would be allowed to keep her sack after the dust of Sevona’s Hunt settled. Until then, it would make illusions real far quicker than what his standard-issue sack could.
+
+It only took a few seconds before Zac held a very real piece of engraved bark in his hand. He curiously looked at its patterns. They didn’t correlate to any Dao he understood, and they didn’t conform to the standardized scripts invented by the Apostate of Order. Neither did the markings convey the raw, primordial truths he’d seen on Pre-System items like the Stele of Conflict.
+
+And yet, even his depreciated [Primal Polyglot] could intuit the rules imbued onto the bark to some degree. It was like it transcended the Dao while still being the equivalent of an E-grade item. While Zac couldn’t understand how such a contradiction was possible, he could tell the bark was an information storage device like the Information Crystals of today.
+
+“Where did you get this?” Zac asked while carefully infusing a tendril of Mental Energy.
+
+“Liberated it from the pockets of the smug knight while you created a diversion.” Esmeralda patted Zac’s shoulder with a grin. “As expected of my protégé.”
+
+The bark only contained a letter filled with tips sent by the knight’s great uncle. It held valuable insider information from a veteran who’d participated in the hunt before. Most of it was useless to Zac, such as good hunting grounds and which participants to work with or look out for. However, he quickly found a piece of pertinent information.
+
+“Listen to this,” Zac said. “’Don’t forget to pray at the Hall of Abundance before setting out. The Hall of Abundance is connected to the Kingdom’s fortune, and previous winners have all visited the hall before setting out. Remember to visit early before it fills up with sapphire smoke. The smoke is the greed of man taken shape. Touching it will bring misfortune.’”
+
+“Greed of man,” Idiche muttered. “Who’s greedy enough to accumulate a moonful of that stuff?”
+
+“Those people from the other side aren’t satisfied with their own timeline, so they’ve invaded ours. I’d say they qualify,” Esmeralda shrugged before turning back to Zac. “I didn’t find anything else.”
+
+“Then let’s set out. We shouldn’t give that guy outside time to catch up.”
+
+The door leading into the lodge opened without a sound thanks to Esmeralda casting a spell on the hinges. The stench of rot hit them like a slap in the face from just opening a crack.
+
+“It’s monitored; give me a second,” Esmeralda muttered and began channeling some ability.
+
+A moment later, she teleported the trio through the crack, and the door silently closed behind them. They’d stepped into a smaller foyer completely made of ancient wood. Judging by the rotten items strewn across the room, Zac guessed it was something like a dressing room. Those who came from the stables could use this chamber to swap their travel-worn clothes for something more suited.
+
+Both the walls and ceiling were in a state of decay, with corruption eating through the walls like termites. There were a few gaps toward one of the outer walls, from where the moon’s azure glow peeked through. It blended with the swirling dust, fusing into small clouds that gave Zac an ominous feeling. Thankfully, the azure clouds failed to grow beyond a certain point.
+
+The lodge was still holding on, and an ancient energy permeated the building. It fought the corruption and kept the interiors from completely crumbling.
+
+“Don’t touch anything, and don’t move from my side,” Esmeralda cautioned. “This room has been searched recently, and it’s kept under surveillance by a hidden array.”
+
+Zac wasn’t surprised to hear they weren’t the first to arrive. The other side had Monarchs, and they were given a ten-hour lead. Thankfully, the Divine Core was clearly still safe and fueling the lodge’s resistance. The door leading further in and the surrounding walls were covered in recent scars, but they’d held against an attempt to break through.
+
+‘These fluctuations,’ Esmeralda said, and Zac slowly nodded.
+
+‘It gives a similar feeling as the Eternal Guardians. And it’s a lot more powerful than what we saw in the vision,’ Zac agreed before realizing that Idiche’s expression had gone slack.
+
+Zac urgently grabbed her shoulder before she could sleepwalk them all into a heap of trouble. “Did you see something?”
+
+“What? Ah, no. It was just like something called out to me for a moment,” Idiche said, blinking a few times as she pointed at the scratched door. “You know what? I think I can open it. I recognize the inner pattern for some reason.”
+
+Zac didn’t push to know why. Instead, they crept closer to allow Idiche to get a better look. Doing so only strengthened Idiche’s conviction, but Zac stopped her from infusing her energy into the door.
+
+“Opening it might trigger something. I want to see if we can get a look at whoever ransacked this place first.”
+
+It didn’t take too long to find what they were looking for, and they weren’t swept into any more memories on the way. The Lodge was by no means an impossibly large building like the Technocrat research station or the Centurion Base. It was at most a few miles across, making it a toy castle by Multiverse standards. It took them five minutes before Zac heard a rumble ahead.
+
+Two more minutes later, they found a hidden vantage in a servant room. Its inner wall had rotted to the point where there was a fist-sized hole, exposing the main lobby on the other side. It was significantly larger than the changing room, nearly a hundred meters across. Its ceiling was nearly thirty feet tall, and a huge spherical window was placed above the outer gates.
+
+The arrangement might have possessed the holiness of a cathedral back in the day. Now, it was corrupted beyond redemption. Tremendous amounts of moonlight poured through the window, causing the pillars on the sides to cast sinister shadows. It was on a completely different level than the contained breaches they’d encountered thus far. It was no wonder it had become their enemies’ main base of operations.
+
+Over thirty cultivators stood in the middle of the chamber under the protection of a sturdy barrier that covered most of the hall. Zac didn’t see the mysterious outsider among them, but he was certain two of them were Monarchs. Both stood in the center of the group. One was a warrior who constantly looked around for threats. The other held an intricately carved magician’s staff adorned with a sapphire the size of a football.
+
+The mage was using his weapon to draw all the moonlight into the barrier. Doing so prevented the Lodge from expelling it. The moonlight condensed into a thick mist until Zac could no longer see the enemies within the shield. At that point, the mist flooded out of the barrier all at once. It took the shape of dozens of twisted figures, from soldiers to mutated beasts.
+
+The mist army flung itself at the great doors leading to the heart of the Lodge. From what they’d gathered so far, the Hall of Abundance might actually be right down the corridor on the other side. Each time a mist creature struck against the gate, a pulse full of divinity struck back. It only took the sealed gate two to three counters to disperse an enemy.
+
+“There are real people too,” Idiche whispered, and it took Zac a moment to spot them as well.
+
+There were actual soldiers hidden among the conjured creatures, concealed beneath a shroud of moonlight. They looked and acted almost identically to their counterparts. However, something didn’t seem right about their frenzied attack. It was too spread out, too even. They were performing surgical strikes at weak spots while the summons whittled down and distracted.
+
+The soldiers quickly returned to the safety of the barrier before their shrouds collapsed. However, one of them proved a step too slow. His guise collapsed just before he reached safety, and the Lodge’s reaction was immediate. A lance of unidentifiable energy burst out from the gate and tore a hole straight through the man’s torso. He stumbled into the barrier and collapsed, his life and death unknown.
+
+The barrier was already filling up with moonlight again. The attackers were mounting a strike every three minutes. It was hard to say exactly how many attacks the gates could endure, but Zac doubted it was more than ten.
+
+“So that’s what the moonlight is for,” Esmeralda muttered. “What do you want to do?”
+
+Zac deliberated for a few seconds before turning to Idiche. “How sure are you that you could open that door back where we came from?”
+
+“I don’t know? Eighty percent?”
+
+“That’ll have to do, I suppose,” Zac smiled. “We’ll head back after I give them a little surprise.”

@@ -1,0 +1,127 @@
+---
+id: 9cf6764c-f9b0-5a44-8a35-3538323124b7
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 29"
+slug: 0098-b2-chapter-29
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 98
+ownLength: 1482
+unit: words
+ownProgress: 1482
+publishedAt: 2024-02-12
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1515701/b2-chapter-29"
+royalRoadId: "1515701"
+markedReadAt: "2026-06-29T19:09:16.357Z"
+---
+
+Within the Valley
+
+Aisling Sullivan feels both shock and a little fear as she fights against the outsider woman. The one currently using her poisonous mist to fight against Aisling.
+
+Because nowhere in the reports did it ever state that the woman was a Class S Ability Holder.
+
+She grits her teeth as she continues combatting the level 401 woman’s poisonous mist with her own ice mana. But no matter how hard she pushes, the result ends up the same every time. With an even draw between the two and no real progress done.
+
+At least I dealt with tha immortal. Tha ice should keep her there until I’m ready to pick her up after tha battle.
+
+Aisling doesn’t even pay attention to the cliff where the immortal is frozen as she focuses all of her attention on the Class S Ability Holder.
+
+She knew that the Byrne Clan wouldn’t just hire any normal person, but for them to hire two Class S Ability Holders is just ridiculous. Even if one of them is just a new child in terms of her level.
+
+Fucking Dynasty. Fucking bastard of an emperor.
+
+Her increasing rage fuels her ability as she fights, destroying the mountains nearby through freezing them as her enemy’s poison kills off all of the living things on it.
+
+But her battle is eventually interrupted when she gets a call over her communication ring, the buzzing sound echoing in her head as the telepathic link attempts to establish itself. And for a second she thinks about rejecting it due to not wanting to take any of her focus off of her current battle.
+
+In the end though she does accept it and begins to coldly state, ‘This better be-’ only to be interrupted by the merkismathr on the other side as they practically shout into her mind, ‘Clan Leader, we’re being attacked by the suicide skeletons again!!’
+
+That causes the Clan Leader’s eyes to widen in shock as she instinctively turns to look in the direction of the frozen cliff, only to find the immortal no longer being within the ice.
+
+Fuck!
+
+She turns to look back at the army that’s too far away now for her to assist them from here, only to find them in even more chaos than before, with new… creatures… attacking them that she doesn’t recognize.
+
+What in tha bloody Plane of Ice?! I thought she was a necromancer! What are those things?!
+
+The creatures that are currently attacking her forces appear to be a lot stronger than the ones the immortal was controlling before. Each being on par with a level fifty, unlike the skeletons that were as strong as their summoner. And each one of them is suicide bombing her forces before beginning to kill them without even pausing to wait for the smoke to clear. As if the creatures can see through the smoke without any problems.
+
+Right as Aisling is about to go to help them, a wall of purple and black mist rises up to block her view of her forces, making it clear that the poison Ability Holder won’t just let her go do as she pleases.
+
+Fuck, everything’s going ta tha plane of death!
+
+Aisling fights back against the purple mist, trying to push her way through, but this mist appears to be stronger than what she’s been attacking thus far. Which makes her realize that the outsider has been purposefully trying to keep her here and away from the main forces.
+
+‘Leader! Tha Byrne Clan is here!!! We need suppo-’ her officer’s telepathic voice is cut off as a loud explosion rings out from the other side of the mist wall, leaving Aisling to grit her teeth in rage.
+
+And after a brief hesitation, she reaches out to one of the merkismathr in charge of the spatial mages before giving the order, ‘Retreat! We’re pullin out!’
+
+The winter storm above Aisling’s head grows harsher and harsher as her anger reaches a fever pitch. But Aisling doesn’t pay it any mind as she turns her hateful gaze towards the poison mist user.
+
+If we’re gonna lose here, best make sure we come out with somethin’ to show for it.
+
+Aria
+
+My progress to level fourteen continues rising and rising faster and faster with every single kill my spirits make. All without me even doing so much as a single thing personally. And after a bit of my skeletons practically torturing the enemy soldiers, a certain Clan Leader finally joins the fray.
+
+I grin as Sean crashes into the enemy forces from the sky like a meteor. Quite literally, in fact. Makes a large crater where he lands along with an even bigger explosion than my spirits are making.
+
+It’s not just him either. Dozens of other officers jump down and begin attacking, leaving their forces still manning the walls. To the point that I’m pretty sure at least two dozen merkismathr are attacking the enemy forces alongside my spirits and the Clan Leader. All while Aisling is being held off by Rory.
+
+The winter storm over Aisling grows progressively worse with every moment, meanwhile I see the enemy mages beginning to shift. Clearly trying to escape with another teleportation.
+
+Only for the Clan Leader to shout, “Oh no ya don’t! Activate it!”
+
+And to my surprise, a strange red and black beacon shoots out into the sky from the mountain fortress before the red light moves outwards in a form of barrier, enveloping all of the enemy forces and the fortress itself.
+
+The moment the red and black barrier touches the purple spell circle that was beginning to form under the enemy forces, the spell circle shatters, making the mages casting it all drop to their knees while coughing out blood.
+
+Oh, wow. Didn’t realize he purchased one of those from the Dynasty.
+
+One of the things the Dynasty is known for the most.
+
+Their anti-magic field.
+
+They cost an arm and a leg and are supposedly only creatable by the Ten Star Merchant serving as Shirou’s right hand man. And the devices themselves need someone with a Class A or above enchanting ability to activate them.
+
+Although the magic part of the anti-magic field doesn’t refer to abilities. It only refers to spells in general.
+
+From what I heard the thing works by making it so that spell circles are not able to exist within the contents of the barrier.
+
+And the Sullivan Clan Leader is very clearly not happy.
+
+She actually looks rather livid, if I’m being honest. And the winter storm above her head is just growing worse every passing second.
+
+Actually, it’s growing bad enough that it’s beginning to push back against Rory’s poison. So Sean finally moves forwards to fight with Aisling himself, leaving the remainder of the army to us to deal with.
+
+Only for Aisling to finally run away after seeing his arrival, sending a flare of a rather dark colored ice all out around her in the process for some reason.
+
+Guess she isn’t stupid, even if she’s overconfident and rather easily angered.
+
+The sight of their leader abandoning them crushes what little morale remained of the army before they finally surrender, leading us to end our attacks.
+
+And just like that, the first battle of the war comes to a close. All because Aisling didn’t know about nearly half a dozen trump cards Sean kept hidden from her.
+
+Not just her though. From me as well.
+
+I had no clue Rory was that powerful. Makes sense why she kept mentioning that they were hiding her capabilities during our trip.
+
+And the anti-magic field… I’m honestly more than a little curious about how the Byrne Clan managed to afford one. Because one of those things is worth about as much as a Beta Tier world.
+
+Then again, their financial situation isn’t really a matter of my concern. So I don’t really care much in the end.
+
+Although I wouldn’t be surprised if they only got it on loan.
+
+That would make it a lot cheaper.
+
+Anyways, I begin to dismiss my Death Spirits now that the fighting is coming to a close.
+
+The enemies currently still number around ten or so thousand strong despite having surrendered. Which likely will put a large strain on the Byrne Clan. But I’m sure they have foolproof prisons to store them in, considering their advanced weaponry and all.
+
+Not likely as secure as the Gallagher or Nolan Clans, but still powerful.
+
+I watch the process of Sean rounding them all up for a few minutes before looking out over the horizon as the winter storm finally begins to subside and the snow starts to melt a little.
+
+The first step in the war is complete, but with Aisling’s escape, the other armies no doubt know of our victory here.
+
+I wonder how that’ll affect the board?

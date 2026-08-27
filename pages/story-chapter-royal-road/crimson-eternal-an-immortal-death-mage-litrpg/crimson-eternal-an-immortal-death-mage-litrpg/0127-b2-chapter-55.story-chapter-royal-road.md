@@ -1,0 +1,135 @@
+---
+id: 8418460b-3ac4-5acb-8910-d75269ad831e
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 55"
+slug: 0127-b2-chapter-55
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 127
+ownLength: 1345
+unit: words
+ownProgress: 1345
+publishedAt: 2024-03-13
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1552993/b2-chapter-55"
+royalRoadId: "1552993"
+markedReadAt: "2026-06-29T19:10:16.464Z"
+---
+
+Aria
+
+A few years pass by without much going on. Just with me heading to the Grand Ocean every day Monday through Saturday while taking Sundays off to just read or play one of the video games Little Blue started getting into when she turned ten years old.
+
+And I have to admit, she’s growing quickly.
+
+Very quickly.
+
+She’s only about thirteen years old now after almost five years have passed since the two of us met, and she’s already about five foot two inches tall. Just a few inches shorter than me now.
+
+Meanwhile Sel has grown into an adult of twenty years old.
+
+But both Little Blue and Sel still spend a lot of time with me. Particularly on Sundays, since Little Blue always wants to play those video games. And Sel always wants to spar.
+
+Although I prefer regular board games myself. Maybe some arcade games too. Like Azura, who often snags my time to drag me into playing some with him.
+
+Not that I mind.
+
+Over the years I’ve grown rather comfortable in Atlantis. Even if things have gotten relatively boring again.
+
+What’s most shocking though is that I haven’t ended up in a mana creature’s stomach even once throughout my entire time here.
+
+I grin at that, reaching my hand up towards the ceiling as I lie on my bed, feeling more than a little accomplished by that fact.
+
+Because who wants to be stuck in a fish’s stomach? It’s not pleasant. I know that from my time on Eternus.
+
+Or, at least, I know how it feels to be in an eel’s stomach. Eel snake? Eel snake serpent thingy.
+
+And poisoned too.
+
+Speaking of Rory, she’s actually come by to visit a few times over the years. Which was pleasantly surprising when she first showed up.
+
+Even more surprising when I learned she was the daughter of the Archduke of the Grand Silvanian Empire. A fact that explains perfectly well why the Empire decided to change its stance towards me.
+
+Apparently she went and spoke with their emperor convincing him that I’m not a threat to his people.
+
+“Riri! Are you coming?” I hear Little Blue shouting from downstairs, so I roll over off the bed before landing on my feet and beginning to walk out of my room in the café and then down the stairs to find her sitting on a stool talking with Shirogane and Azura. Both of whom are currently making cocktails, since Azura started teaching Shirogane how over the years.
+
+Little Blue turns her head to frown at me as she says, “Took you long enough Riri.”
+
+Ah, I miss the younger Little Blue. Before she became a teenager.
+
+“Leave that,” Little Blue says while pointing at Azura and Shirogane. “Now’s not the time to be making drinks! We’re gonna be late if you keep wasting time!”
+
+“Neri, the party isn’t for another two hours,” Azura says rather calmly and without putting down the drink mixer in his hands. “And I highly doubt Father cares about us arriving hours early for his birthday party.”
+
+“Damnit-” Little Blue begins, only for Azura to say, “Language, young lady,” before she ignores him and continues, “-we have to go now! Sel’s waiting for us! And so is Rona!”
+
+I notice Shirogane’s eyes flicker over to her for a second before returning to his drink mixer at the heir to the throne’s name. Probably because they’ve been having a relationship akin to detached lovers for a while now.
+
+From what I understand, both of them are using the other as stress relief. And it works, and they’re being careful, so neither the king nor the queen say anything about it.
+
+I do wonder if anything’s ever gonna develop romantically between them though.
+
+Anyways, I walk over towards the door as the two guys finish up behind the bar, quickly down their drinks, and begin walking around it so that we can all leave.
+
+As we walk out of the building and the door locks behind us, I open up my status.
+
+Name: Aria Crimson
+
+Class: Harbinger of Death
+
+Ability: True Immortality
+
+Level: 23
+
+I managed to level up three more times since arriving in Atlantis, but my leveling speed is certainly taking a hit. Even with the massive amounts of fish to kill in the Grand Ocean.
+
+Because at this point it takes me killing one hundred and seventy thousand beings to reach level 24.
+
+I might actually start diving deeper into the Grand Ocean to find more condensed areas of mana creatures. Since one of the issues with the Grand Ocean is that the mana creatures tend to be more spread out thanks to the much larger space. Which means less are dying around me at all times. Meaning less soul energy for me to refill my tank.
+
+So heading deeper in where there are more mana creatures and less space might be for the best. Especially since I know the twin princes tend to love heading all the way down to the seventh ring all the time. With them having the most powerful abilities of the royal princes and princesses.
+
+Other than the heir to the throne, that is.
+
+Those three all have Class S abilities. Just like the king and queen.
+
+Meanwhile the other princes and princesses have Class A or pseudo Class S abilities. Abilities that are stronger than Class A but weaker than S.
+
+I let out a sigh as we all sit in the carriage and begin heading towards the castle, finding it a little disappointing to always see everyone else’s levels going up so quickly around me while mine stay stagnant.
+
+Sel for example has already reached level ninety-one the last time I saw her just yesterday. So in the time I gained three levels, she gained dozens of levels.
+
+Even if I know I’ll outlive them and eventually surpass everyone in levels, it’s still depressing to see everyone passing me.
+
+Then there’s Little Blue, who also passed me in level despite not going to the Grand Ocean yet herself. What with the royal family only allowing it after they turn fifteen. Like Sel when I arrived.
+
+“Riri?” Little Blue suddenly says, catching my attention from where she’s seated to my left in the fancy carriage. “Thank you again for deciding to come.”
+
+I nod my head without saying a word. Instead patting her on the head and looking out the window again while she tries to push my hand off, talking about how she’s not a kid anymore and all.
+
+After how much begging she did… how could I not come?
+
+Not sure why Little Blue wants me to attend her father’s birthday party so badly though.
+
+On another note though, I turn towards Shirogane and Azura to find them still talking about the rumors recently.
+
+“So do you think it’ll start soon?” Shirogane asks with a serious look on his face, the man clearly in business mode right now.
+
+“Probably,” Azura answers with his arms crossed as he looks out at the passing people and vehicles. “The duke has been growing braver and braver by the day.”
+
+I grimace at that, still getting a bad feeling about this.
+
+Just like when I first heard about the unrest between the royal family and the duke. The only other person with a Class S ability in the nation.
+
+“We’ve heard that someone might try something tonight,” Little Blue suddenly says, entering the conversation and making me narrow my eyes slightly on her. “I’m sorry Riri, but I heard the capital may fall into chaos during this time and wanted you to be near us and out of the trouble.”
+
+Hmm.
+
+So they really did draw me to the castle to keep me out of whatever is coming up soon.
+
+Why do I get the feeling that things won’t work out as well as they hope?
+
+Things never do after all.
+
+Not on Vortel. Nor on Luk’tar.
+
+And not when we got that mind mage to help me a few years back.

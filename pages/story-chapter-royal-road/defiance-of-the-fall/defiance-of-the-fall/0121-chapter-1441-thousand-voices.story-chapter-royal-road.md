@@ -1,0 +1,201 @@
+---
+id: c59d3143-54c6-5dc9-b8bf-3966d8dcc353
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,441 - Thousand Voices"
+slug: 0121-chapter-1441-thousand-voices
+partOf: defiance-of-the-fall
+position: 121
+ownLength: 2990
+unit: words
+publishedAt: 2026-05-31
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3474563/chapter-1441-thousand-voices"
+royalRoadId: "3474563"
+---
+
+Kadel paused his work to wipe away the beading sweat on his forehead. A wayward drop could introduce heterodoxy to the fragile components, ruining millennia of work. He couldn’t afford any more mistakes, whether personal or professional. They’d staked everything to silence the overwhelming opposition.
+
+The clamor of countless parallel worlds filled Kadel’s mind, and a series of spasms made him drop his engraving chisel. He hugged himself, humming the nursery rhyme his wet nurse used to sing to calm him down during the summer storms. Thousand voices—all urging him to turn around—stilled. Yet as the chorus died down, another broke the silence.
+
+“It will not work.”
+
+Kadel looked up from his invention, his heart assaulted by a mix of comfort and sorrow at the familiar scene. The orderly worktables with chaotic piles of materials, the scholars devoutly pursuing truth. The subdued intellectual discourse between young minds filled with untapped potential. The Seat of Truth’s atmosphere of inquiry was unique and precious.
+
+And it was being used against him. Kadel turned to his neighbor, a young woman whose name eluded him. It wasn’t that he’d forgotten, he’d simply never bothered to learn. Looking back, there were too many things he’d missed out on, too much beauty he’d ignored because of his consuming arrogance. He would be the next Grand Scholar, he would prove himself and inherit his grandfather’s mantle. It was a waste of time getting to know people or engaging in leisure activities. Kadel sighed. Such a fragile Dao he once held.
+
+“You’re losing control,” Kadel commented. “That young man is something else, isn’t he?”
+
+Another scholar walked over to Kadel’s workbench. “Losing the singularity won’t change anything. Our trajectories have already fused; the Laws are being redrawn as we speak.”
+
+“And yet you seek me out,” Kadel said with a smile as his head began vibrating.
+
+Grand Dream’s vision shifted from the prison of his own making, taking in the countless avenues and parallel possibilities. He couldn’t see beyond the dream, but he could intuit some things from the ripples of reality.
+
+“It’s even worse than I thought,” Kadel laughed as he shifted a few realms. His grasp on the chamber remained tenuous, but he could at least do this much.
+
+A sickening patina spread across the web, freezing the trajectories in place. The Seat of Truth crumbled, save for a single spot on the Inquiry Stare. A figure walked out from the haze of uncertainty; himself, yet not.
+
+“Do you plan to resist until the bitter end? You cannot win.”
+
+Kadel laughed. “Why wouldn’t I? The children have been fighting their shadows all this time. As a responsible adult, I can’t be seen lacking.”
+
+Kadel’s doppelgänger sneered. “You’re not like them. They still have a chance. What about you? You’re but a figment of a possible past. There is no place for you outside, even if the Omnipresence Chamber is perfected.”
+
+“I’m aware,” Kadel smiled.
+
+The doppelganger sighed and shook his head as the Seat of Truth began recovering around them. “Join me. You, if anyone, should understand the wonder of the First Era’s gift. Your abilities have yet to reach their potential. It can allow us to step out. You can even go beyond the chamber’s scope. You can save the Seat of Truth.”
+
+Kadel looked across the square with sorrow and acceptance. “I can tell you truly believe in your own words, and the diagrams you’ve shown me hold promise.”
+
+“So?”
+
+“And that is precisely why I must stop you,” Kadel said, waving his sleeve and erasing the academy from existence. He stepped into the haze of ambivalence, lamenting to himself. “The payload is already too high, and you want to add to the burden?”
+
+------------
+
+Astora looked up from the scroll in her hand when the stranger sauntered into her courtyard. “You have some nerve showing up here.”
+
+“What makes you say that, Your Highness?” the man said in a tone that took Astora some time to identify.
+
+Derision.
+
+Astora couldn’t help a flicker of fury, and the mocking expression of the unfamiliar elemental did nothing to quell the fire. Astora's instinct told her to ignore the urgings and throw other considerations out the window. She didn’t care about the disdain of strangers. She even knew some of it was deserved.
+
+This was different. This man didn’t just look down on her; he held no regard for the institutions she represented. Everit Draom at least acted the part. Whether feigned or not, he showed proper respect for the sacrifices and beliefs of the empire. This shapeshifting bastard didn’t even bother to maintain a veneer of respect.
+
+“All those Sealbearers who have died by your hands,” Astora said. “Do you think yourself invincible after eluding capture for a few years?”
+
+“You should be careful with your words, Miss Theomore,” the man said as he sat down without invitation. “As I recall, the culprit you’re looking for is a troubled lady from the Grishod Clan. I’m Kaltosa Lu, an honorable man and humble servant of the Empire.”
+
+“You’re looking down on us too much. Don’t think changing your face can erase the stench of sin,” Astora said with disdain matching her guest’s. “It’s no wonder you suffered a setback back there.”
+
+“Ai, forget it. I already have enough wives, and this fruit is particularly bitter,” the man muttered under his breath, intentionally loud enough for Astora to hear.
+
+The idea of spending any more time than necessary in the presence of this filth was unbearable, so Astora immediately brought up the matter at hand. “I don’t know how you convinced two elders to run errands for you, but let’s hear what you have to say.”
+
+“It’s simple. I’ve heard rumors your family is about to open its doors. To celebrate the occasion, I’m here to offer a mutually beneficial trade,” Kaltosa Lu said.
+
+“The Theomore Dynasty does not lack for resources.”
+
+Kaltosa Lu laughed as he brought out an item from a pocket. “Are you sure about that?”
+
+It was the [Fatesiphon Seal] brought by Descartes Belial. The fool had been led astray by the allure of the corruption, thinking his bloodline capable of safely ingesting the First Era’s taint. If that were the case, it would never have fallen on the Theomore Dynasty to safeguard the Ultom Courts. In the end, he died before their battle could begin.
+
+While it was a weight off her shoulders, it also presented a problem. Defeating Descartes would have reaffirmed her destiny and strengthened her bond with Ultom. Instead, the benefits were split between two outsiders. She’d fallen behind her siblings before the race began. Meanwhile, this lunatic wasn’t satisfied with bringing down a descendant of a founding family.
+
+Astora had initially suspected Everit Draom kept the seal for himself. His greed was definitely not just part of his disguise. However, the events over the following years brought credence to Everit’s story. This shapeshifting elemental had taken the seal for himself and used it when killing at least two dozen Sealbearers.
+
+Astora wanted to say it was a futile hope, replacing fate with the Flameseeking trial with the lesser fates of Ultom. The truth was that she wasn’t sure. The few who held the answer wouldn’t share it, not even her mother. After all, the first Flameseeking trial took place long before the empire’s founding.
+
+“You’re overestimating the seal’s value. I am already fated with Ultom, so what use is siphoning someone else’s providence?” Astora lightly said. “The fact that you’re offering it to me also proves it’s no longer useful to you. It’s not worth bringing you along, especially not after what you’ve done.”
+
+“I’m sure you’d come to recognize my strong points if we spent more time together. Not to toot my own horn, but I am quite popular,” Kaltosa Lu laughed. “And I’m certain this token has some value to you, beyond its practical use. It represents mandate, does it not? If you return without it, you’ll just be the girl who got lucky.”
+
+“Nevertheless,” Astora said, slightly shaking her head.
+
+“Stingy,” Kaltosa Lu said, not looking the least disappointed. “Instead of a fruitful union, perhaps you can offer something else.”
+
+Astora frowned. “You know I can’t meddle in the affairs of the Mercurial Court. Its treasures are not mine to hand out.”
+
+“Nothing like that,” Kaltosa Lu leaned forward. “Information. Everything you have on the Ultom Courts and the Flameseeking Trail.”
+
+Astora silently observed the outsider for a few moments before taking out a Recording Jade. “It’s possible. But with the Flameseeking trial approaching, that information is as valuable as the entrance. The [Fatesiphon Seal] is not enough.”
+
+She activated the recording, which showed a battle between a hooded woman and a fleeing sealbearer. Countless Array Disks flew out of spatial pockets, raining down destruction on the target through myriad transformations.
+
+“I’m curious where you got your hands on that mobile array construction realm of yours. The one who made it is a true visionary.”
+
+Kaltosa Lu’s jovial attitude briefly cracked upon seeing his means and actions exposed.
+
+“In addition to the [Fatesiphon Seal], I want the model related to the Peak of Continuum,” Astora stated.
+
+“Impossible!” Kaltosa Lu spat. “You can’t use it anyway.”
+
+“Neither can the information related to the Ultom Courts benefit you,” Astora calmly countered.
+
+“Even so, it’s too much,” Kaltosa Lu spat.
+
+“It’s clearly just a derivation,” Astora said. “You can make another.”
+
+“We can, but so what?” the elemental sneered. “To you, the model is priceless.”
+
+“It’s up to you,” Astora shrugged. “Make your decision within the next minute. After that, I’ll have my guards hunt you down.”
+
+“Space or Time; you can pick one,” Kaltosa Lu said after some internal struggle.
+
+“Space, then,” Astora said.
+
+The trade went smoothly, and Kaltosa Lu stomped out of the courtyard without his earlier swagger.
+
+“Almost as bad an actor as Everit.” Astora shook her head. “Is this alright?”
+
+“Thank you,” Sevona said as she stepped out of the shadows.
+
+“This is the limit of my patience. I’ll kill him if I encounter him again,” Astora said as she handed over the model.
+
+“As you should,” Sevona said, her gaze growing distant. “The opportunity might arrive sooner than expected.”
+
+Astora followed her stare, seeing nothing but the foliage and open sky. Still, she could feel it. The curtain was about to rise, and she would finally have her answers.
+
+-----------------
+
+The dust had settled, yet Zac didn’t relax for a second. He drew on Fuxi’s runes another time, finding no clear signs of lingering threats. He doubted August and his accomplices were willing to give up just because they’d lost a couple of Hegemons, but it would take some time for them to find another route.
+
+With that out of the way, Zac began cleaning up the battlefield. What remained of the corpses was erased with D-grade Karma-erasing dust. He couldn’t very well have the bodies of the fallen act as beacons for their allies. Despite his and Esmeralda’s reluctance, they didn’t even spare Spatial Tools and high-grade weapons.
+
+Their spirituality was annihilated by [Void Mountain] before they were discarded in special spatial rifts opened by the toad. Afterward, Zac flew back and forth while running [Void Zone] on full blast until not a hint of the invader’s Dao remained. It had been a while since he’d found it necessary to take such precautions, but there was no choice when there were hostile Autarchs breathing down their necks.
+
+Only when all traces of battle were gone did Zac send an all-clear to his other half. His human counterpart was overdue to return to the surface for a final time. The ten-day deadline was about to arrive, and the biggest hurdle when dealing with [Second Singularity] should be dealt with.
+
+“As much as I hate to say it, you might really be better off as a barbarian than a gentleman thief,” Esmeralda said with reluctance. “It took you less than a month to integrate those vortices with the rest of your skills. And the way you methodically broke them down… I could see the shadow of the Grand Dao on you.”
+
+“It wasn’t as easy as it might have seemed from the outside, and I won’t be able to rely on the guidance of that ancient intent forever,” Zac said. “I just fought a bit smarter and came out ahead.”
+
+The breakdown wasn’t just Zac being humble. He’d used up every single skill in his repertoire to achieve a flawless victory. If the enemies had been a little stronger or if they’d fought with better cohesion, Zac would have been in real trouble. That wasn’t to say that Zac had been pushed against the wall. His skills were spent, but he had some reserves set aside.
+
+For one, the extremely powerful axe wraiths he raised using the archer’s thunderstorm were meant for the swordsman or in case backup arrived. He’d also held back on using his Void-infused technique to retain its element of surprise. Finally, he would only have needed to stall for a little longer before a second spectral chain of [Arbiter of the Abyss] regenerated.
+
+Nevertheless, most of his success could be traced back to Esmeralda’s sudden ambush. The mad swordsman was clearly the main offensive force while the mage and archer were ranged supports. The archer couldn’t levy enough pressure by himself, which pushed the giant and defender into a passive state.
+
+Suddenly seeing three of their people being torn apart had already weakened their resolve and damaged their cohesion. No one wanted to be the next to go, which allowed Zac to pick them off one by one.
+
+“You’re not so bad yourself,” Zac said as he looked down at Esmeralda with a smile. “How about becoming my apprentice in the ancient art of wreaking havoc?”
+
+“Bah, you overestimate yourself! Point out a cultivator with clean hands, and I’ll show you a hypocrite who’s hiding their misdeeds. I had my fill of those things long ago, and there’s nothing a whippersnapper like you could teach me,” Esmeralda snickered before grimacing. “Besides, I need to be careful about Karmic Debt until I recover. I almost unsealed the Karma of my true self just now.”
+
+“What does that matter?”
+
+“A Beast King bearing the accumulated Karma of a Supremacy?” Esmeralda scoffed. “Forget about whether my body could bear it; I felt a force of expulsion just now.”
+
+“Expulsion?” Zac said with confusion before his eyes widened in realization. “The trial?”
+
+“Exactly. I’d get boiled alive if the System threw me to the wolves waiting outside. I’ve robbed or tried to rob at least half of them,” Esmeralda said, a smile tugging at her mouth as she recalled those memories.
+
+“Then…” Zac glanced at the black dot silently floating in the realm’s center.
+
+“Don’t worry, I’ve got everything planned out,” Esmeralda thumped her chest.
+
+“Good. So, what’s next?” Zac asked.
+
+“Most of the taint should be expelled, but the disruption undid some of my preparations,” Esmeralda said. “Can you keep going?”
+
+“Sure,” Zac nodded.
+
+He’d spent some Void Energy activating [Eye of Desolation] and [Desperation’s End], but they were ultimately just Late D-grade skills. Their combined cost was only the equivalent of uncoupling two or three timelines. Nearly half of his Void Energy reserves remained, and his human side was already fast at work recovering the loss. By the time he ran low, his human side should already have returned to the mirror realm with Emir in tow.
+
+Zac stopped. “Wait, which ones should I pick?”
+
+“Begin with the ones that were connected to the evil timeline. As for the order, just go with your gut,” Esmeralda said. “I’ll keep an eye out as well.”
+
+Zac nodded, and they soon returned to their previous routine. Zac banished patches of silver water one after another, occasionally having to dodge bursts of corruption. Esmeralda’s estimate was soon proven correct. The cones of tainted Space of the First Era quickly grew weaker. By the third timeline, [Second Singularity] started to expel normal spatial Dao along with the corruption.
+
+The treasure wasn’t shedding its own spirituality. It was rejecting the Spatial Dao containing the unique markers of the Omnipresence Chamber’s artificial timelines. While their presence wouldn’t cause Esmeralda nearly as much problem as the corruption, it was still heterodoxy that would make absorption harder.
+
+Zac maintained a measured pace over the next day. Part of it was precaution, the other part was necessity. The war between timelines only grew more intense as fewer competed for space, and Zac had no choice but to add some buffer time to let things settle a bit between each dimension. Insisting on going at maximum speed was too taxing even with a C-grade Bloodline and Peak D-grade energy reserves.
+
+When the war grew too intense, Zac had no choice but to hunker down while continuously maintaining [Void Zone]. In the end, it wasted more time than if he had maintained the delicate balance between timelines. The breaks were a chance for Zac to recover some Void Energy while keeping an eye out for threats.
+
+The fact that August’s presence never returned wasn’t enough to make anyone lower their guards. They knew he was still out there somewhere, plotting in the shadows. As a precaution, Zac didn’t allow his Void Energy reserves to dip below thirty percent, and he didn’t hold back on pills to recover his wounds and mental energy. If a second strike arrived, it would only be deadlier than the first.
+
+Occasionally chanting the mnemonic did allow Zac to spot suspicious timelines two more times. He wasn’t as clear what about them was problematic, and he directly targeted them without looking into it any deeper. Then, during a routine inspection, his mnemonic exposed a timeline that made Zac react for a different reason.
+
+It was familiar. It was his—the reality where he’d spent a lifetime as a woodcarver.

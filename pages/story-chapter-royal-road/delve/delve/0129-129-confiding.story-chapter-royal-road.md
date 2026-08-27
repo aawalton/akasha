@@ -1,0 +1,367 @@
+---
+id: b3b7cb7f-b7e1-5982-978a-28e05bfb4970
+page-type-slug: story-chapter-royal-road
+title: "129: Confiding"
+slug: 0129-129-confiding
+partOf: delve
+position: 129
+ownLength: 5539
+unit: words
+publishedAt: 2021-01-10
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/612397/129-confiding"
+royalRoadId: "612397"
+---
+
+Lana tugged at the sleeve of her ill-fitting dress as she walked out of the Brass Stallion and into the market square. The fabric wasn’t quite long enough, leaving her wrists exposed to the cold. Even calling it a dress was a bit generous. It was made from thick, scratchy wool, and it was almost comically bad in its construction. The weak seams holding it together would likely fall apart the first time anyone tried to wash it.
+
+It was bad enough that it made her wonder just who had actually managed to create something so horrible. She could only think that it had been the first attempt of an apprentice who’d been given no instructions by their mentor whatsoever. She really had no idea where Hegar had found it. Probably in the back of some storeroom where it had been hidden in shame.
+
+“What the hells are you wearin’ now, little Lana?” came a voice from the other side of the street.
+
+Lana smiled. She knew that voice. She carefully scanned her surroundings for any sign of monsters. The militia patrolled regularly, but it paid to be careful. Once she was satisfied, she crossed the street, walking around the blazing bonfire in the center of the square.
+
+Gemma was a fixture of the city. The old woman had been selling household necessities out of her stall for as long as Lana could remember. Gemma always had the best soap, not that Lana often bought any. It was too expensive to waste on the type of washing that she did.
+
+Used to do, Lana corrected herself. She had been a washerwoman. She wasn’t sure what she was now.
+
+Lana came to a stop beside Gemma’s cart and greeted her with a deliberately ridiculous curtsy, given what she was wearing. “Shh. I’m in disguise. Don’t call out my name like that. You’ll give me away.”
+
+The old woman snorted. “It’s your face that does that, fool girl. Not a man in the city would miss you in a crowd, even if you weren’t wearing one of those fine dresses those adventurers have been giving you.”
+
+“Gemma, stop it,” Lana said, smiling, fending off the old woman’s attempt to pinch her cheek.
+
+Gemma cackled. “Oh, my darling flower. And that blush! It’s no wonder they took a fancy to you, girl. I just wish I was forty years younger. You’d have had some competition from me.” Gemma laughed again, then spread her arms. “You think I should make a pass at em’ anyway? This old girl’s still got it, and I hear that adventurers, well.” She wiggled her eyebrows suggestively.
+
+“Gemma!” Lana gasped, flushing. “You’re terrible! You could be their grandmother.”
+
+“Oh, hush,” Gemma said, laughing. “I’m just playing with you.” She paused, looking Lana up and down. “You aren’t running, are you, girl? If you are, you might want to get a better disguise than…that.”
+
+“I’m not running,” Lana said, though she felt conflicted as she spoke. “Hegar asked me to wear this. Trust me, I’d rather be wearing my old winter linens, not this…thing. Seriously, it’s like a bag with sleeves sewn on it with butcher’s twine. I don’t know what his game is.”
+
+“It’s his kink, dear,” said Gemma knowingly, laying a hand on her arm.
+
+“Gemma! It is not his kink!” I know perfectly well what his kink is, thank you. She shook her head. “I’m on a mission. They sent me out here to gather information about the other adventurers. The ones in white.”
+
+“And why do you need to wear a horrid bag to do that?” Gemma asked.
+
+Lana sighed. “I’m supposed to go over to the Hole and Oats and pretend to be a barmaid while I listen for rumors. Hegar says he worked it out with Timm, and knowing that man, I think I actually need to play along, or he’ll squeal on me. I was going to just walk around and talk to people to see if they’d heard anything, but Hegar says I can’t do that.”
+
+She sighed. He says I can’t do a lot of things. “It’s not like I’m infiltrating the Adamant Empire or something, Gemma. Hegar—”
+
+Lana stopped. There were some things she shouldn’t say out loud, such as the fact that the man was a colossal idiot or that he liked to get a little rough in bed.
+
+She settled on a shrug. “He says I’m too recognizable.”
+
+“He’s not wrong about that, dear,” Gemma said, cackling again.
+
+Lana rolled her eyes. “I have to go, Gemma.”
+
+“You watch yourself, you hear me?” Gemma said. “Hole and Oats ain’t a nice place. I worry about you, girl. When I was your age—”
+
+“Yes, Gemma, I’ll be careful,” Lana interrupted. She’d been to the Hole and Oats many times. It was a bit run-down, true, but Timms paid well enough, and inns always needed washing done.
+
+Lana hesitated, chewing her lip. “You stay safe too, Gemma,” she finally said. “You might want to slide your cart up against the wall to get rid of that shadow. I don’t like the look of it.”
+
+“Oh, get going, you,” Gemma said, making shooing motions. “Ain’t nothing gonna spawn behind my cart, not with this nice bright fire in the square.” She paused, rubbing at her wrinkled chin. “Say, since you’re gathering information, I hear them adventurers you’re going after are selling firewood. Strikes me as an odd thing for adventurers to be selling, but then, adventurers are odd to begin with. If you find out the rumor is true, let that fool Larus know. I don’t know how he’s gettin’ on with his stock, but I’m sure it’s not good.”
+
+Lana nodded. “I’ll do that, Gemma. Talk to you later?”
+
+Gemma nodded. Lana gave her one last smile, tugged on the sleeves of her dress, then strode off with determination. Her legs were freezing. She was going to stop by Dempton’s first, and, assuming the clothier was awake, she’d get a proper pair of pants to wear underneath this ridiculous costume. Hegar could deal with it.
+
+Lana smiled. Dempton’s reaction to the terrible dress would likely be the highlight of her morning. The gods knew she had little enough to laugh at these days.
+
+Hegar pulled his finger back through the curtains, letting them fall closed. Finally. Does she think this is some game?
+
+“Is she going the right way?” Anton asked.
+
+The three of them were sharing the master suite and were currently in the middle of breakfast. Well, two of them were. Brovose had fallen back asleep again.
+
+“Yes,” Hegar said, walking across the luxurious carpet, then flopping down into an overstuffed chair by the fire. The flames had a slight pink tinge to them and were giving off a cloying floral odor that filled the room.
+
+Hegar wished that the smoker pellets he’d purchased in Jarro had come in better scents. Like bacon. He was only tolerating the flowery aroma because it was shielding them from Divination. They’d decided not to waste any of the remaining charge in their ward stone. If the smoker pellets weren’t enough, then they had bigger problems.
+
+“What was the point of this plan, again?” Anton asked. He got up, then gestured to a gilded platter. “You done with this?”
+
+Hegar gestured that he could have what was left. “I want to know what this ‘Ascension’ thing is about, but I don’t want anyone to know it’s us asking. We’re pretending we don’t care.”
+
+“Why?” Anton asked. Moving over to the slumbering Brovose, he gently lifted aside the mage’s arm, then began filling the pockets of his new robe with soft cheeses from the tray. Brovose didn’t even stir.
+
+Hegar sighed in exasperation. “Because!” he said, gesticulating wildly. “Tactics, Anton! It’s all a game of Ranks. They won’t challenge us if we act…aloof.” He spread his arms wide. “Dragons do not spare any thought for the doings of ants!”
+
+He held the pose for a minute, then grunted and let his arms flop to his sides. “Besides, I could defeat that Ameliah woman. I just don’t know about the rest of them.” He leaned forward, then tapped his finger hard against the chair’s armrest, punctuating his next statement. “The crack is our ticket to the depths, and I won’t have them taking it from us. The hard part is going to be getting their help without them thinking we need it. Not that we do, mind you. It would just save us some time.”
+
+Anton snorted. “You truly think you could win? She’s silver.”
+
+Hegar sat back and glared at him. “So?”
+
+Anton shook his head, setting aside the platter. “If you want her dealt with, just say so. I’ll take her out from so far away, she won’t even know what hit her. I’m an archer. It’s what I do.”
+
+“I said defeat her, not kill her. You can’t kill a woman like that, Anton, especially not one with a figure like hers. It would be a crime against the gods!”
+
+“Offer stands,” Anton said, returning to his seat at the table. He speared a sausage with a two-tined fork, then took a bite, speaking as he chewed. “I could drill her from behind, just like I drilled that fellow in the alley in Stoneset.” He raised the hand not holding the utensil, and an accolade popped into existence between his fingers. He began twirling it across them. “Time it right, get her when she’s alone, and with a little luck, I could add to my collection. How many plates do you think they have in—are you choking?”
+
+Hegar’s smothered amusement burst forth, waking Brovose mid-snore.
+
+“Wait, wait, wait,” Hegar said as he forced back his laughter. “Who were you drilling from behind in an alley? A fellow, was it?”
+
+Hegar was caught flat-footed, his reflexes not quite fast enough for him to get out of the way completely. The fork grazed his cheek before it thunked heavily into the wall. It remained there, not even quivering, its tines driven clear through the fine wood paneling. Hegar tumbled to the ground, still sniggering as he rolled away from any further assault.
+
+“What is going on?” Brovose asked in sleepy-sounding confusion. There was a pause, then he spoke in a louder voice. “Why are my pockets full of… Is this cheese?”
+
+Hegar flopped to his back, then began pounding at the floor with his fist as he howled with laughter.
+
+Lana bumped into Fredek as he changed course without warning her. She stumbled, and he caught her by the arm and pulled her back to her feet.
+
+“Oh, sorry,” he said. “Watch your step. We’ve got some chairs over here. The captain will be right over.” His grip was gentle but nevertheless irresistible as he towed her toward a table surrounded by a few wooden stools. “Gigs, go find Rain. Tell him we found the girl he wanted to talk to.”
+
+The burly man released her, and Lana rubbed her arm as he moved a pile of documents from one of the stools to the table. As he looked up, she quickly lowered her hand and sat. She wasn’t hurt; it was more of a psychological reaction.
+
+Even had Fredek not been awakened, she knew that she would have had no hope of resisting being moved wherever he wanted to move her. The man had muscles on his muscles. The other man, Gigs, was even bigger, with arms like tree trunks.
+
+It was with no small amount of trepidation that she looked around Ascension’s camp. There was some sort of combat drill going on, with two sides facing off against each other with wooden weapons. It relieved her greatly to see that there were two women among them. As she watched, one of them lost her staff as the Osaran man she was fighting struck it out of her hands with his own. Instead of retreating, she lunged in, grabbed, and then threw him. The man's feet left the ground completely before he crashed down in a heap.
+
+Lana shivered and looked away.
+
+She’s awakened too… They all are. What was I thinking?
+
+Fredek and Gigs had found her in the Hole and Oats not thirty minutes ago. She’d done her best to maintain the ruse of being a simple serving girl, but it hadn’t worked. They’d been looking for her specifically. They’d had a sketch of her and everything, saying that their captain wanted to talk to her.
+
+Apart from how strange that was on its own, even stranger was that the white-cloaked pair had just accepted it when she’d initially refused to go with them. The two had almost been to the door of the inn before she’d stopped them to say she’d reconsidered. Now, she was regretting that decision.
+
+‘Go with the strange burly adventurers, Lana!’ ‘Hegar needs information, Lana!’ Great depths, I’m an idiot! Stupid! Stupid! Stupid!
+
+These people with the white cloaks seemed friendly, but then again, so had Hegar at first. Here, outside the city and amid all these awakened strangers, she felt very, very alone.
+
+“You okay there?” Fredek asked abruptly, leaning down to peer into her eyes.
+
+Lana flinched away. “I’m…fine.”
+
+Fredek grimaced. “Listen, about the captain. He’s got this thing. When he gets close, you’re going to feel like you’re being crushed, or like the air is trying to smother you. It varies from person to person, but it’s usually one of those…unless he’s in a bad mood. Um. Just remember that it isn’t real and that he means you no harm. It will get better once you’re used to it.”
+
+“I…what?”
+
+“Here he comes,” the man said, holding out his arm. “Quick. Take my hand. Squeeze as tight as you need to.”
+
+Lana glanced uncertainly at Fredek’s offered hand, then froze as she spotted the armored figure heading toward them, walking next to Gigs. The captain was taller than Gigs was, though not quite as wide, even with the armor he was wearing. The dark metal of his helmet hid his face from view.
+
+The pair of men stopped about twenty stride away, and a voice boomed forth from the helmet. It sounded annoyed. “I said find her, Fredek, not bring her here.”
+
+Fredek looked down at her, then at his extended arm. He let it fall to his side. “Oh.”
+
+“Lana?” the armored man asked, calling out loudly because of the distance. He raised his hands, then removed his helmet.
+
+Lana couldn’t quite say what she’d been expecting, but it wasn’t the rather normal-looking face that was revealed. The man knelt and laid his helmet on the ground, then spread his hands wide as he rose. “It’s okay. Nobody is going to hurt you.”
+
+She glanced at Fredek, who nodded to her encouragingly.
+
+The armored man raised his voice again. “Lana, my name is Rain. I’d like to speak with you, but it’s a little uncomfortable to be near me because of my…magic. Would it be okay if I came closer?”
+
+Lana hesitated, then gave a slow nod.
+
+The captain began walking toward her again, Gigs trailing after him. What little composure Lana had broke as the feeling Fredek had described grew in her heart. It was like a great weight, pressing down and stealing the air from her lungs. She gasped, her eyes widening. She scrambled up from the stool, knocking it over in her haste. A scream formed in her throat as sudden feelings of helplessness and terror washed over her, carrying her back to the night of the Shift. “M...Monster!”
+
+“Shit,” the captain swore. He stopped his advance, then took a few steps back.
+
+Lana blinked. The sensation faded as he backed away, but her heart was still beating like it was trying to jump out of her chest. What was THAT? She glanced at Fredek, then back at Rain.
+
+He looks…
+
+“I’m sorry, Lana,” Rain called to her. He gestured to Gigs. “Get her something warm to eat and a blanket. It’s cold out here, and she doesn’t have a coat.” He looked back at her, pausing as if considering something.
+
+Why does he look…sad?
+
+The captain shook his head. “Lana, I’ll ask someone else to talk to you, but she probably won’t be here for at least an hour. Her name is Ameliah. She’s the one who was healing people in the city a few days ago. If you don’t want to wait for her, I understand. Fredek and Gigs will take you back to the city if you ask.” He sighed, looking like he wanted to say more. Instead, he turned, then knelt to pick up his helmet. With one last glance at her, he slipped it back on his head, then walked away.
+
+Lana watched him go as her heart rate gradually decreased back toward normal.
+
+What a strange person.
+
+Ameliah dropped lightly into the camp, canceling the remaining duration of Flight and wrapping her cloak tightly about herself. It was too cold for flying to be comfortable—not that it ever was— but she hadn’t felt like walking the whole way back.
+
+Not seeing Rain anywhere, she made her way over to Tallheart. The cervidian was sitting at a table with Staavo, Myth, and Reason. The four of them had their heads together, bent over something she couldn’t see from where she was standing. As she approached, Tallheart looked up, making Staavo swear and jerk out of the way of his pivoting antlers.
+
+“You have returned,” Tallheart said, his eyes flicking to the wooden door they’d installed last night to block the tunnel through the wall. “The others?”
+
+“Vanna’s leading everyone back,” Ameliah replied. “They should be here in about fifteen minutes. They’ll be safe enough without me for that long.”
+
+“Mmm,” Tallheart said. He looked back down at the table, picking up a Telscribe as Ameliah moved to peer over his shoulder.
+
+“What are you working on?” she asked.
+
+“Aluminum,” Staavo said before Tallheart could reply. He picked up a twisted piece of light-gray metal and tossed it to her. “See for yourself.”
+
+Ameliah deftly snagged it out of the air, then blinked and looked down at the irregularly shaped nugget. “It’s light.”
+
+“Yes,” Tallheart rumbled. “Rain was correct.”
+
+“He usually is with stuff like this,” Ameliah said. She pushed her thumb against the metal, and with barely any force, a small piece snapped off. “It’s weak, too, just like he said.”
+
+Reason sat back in his chair, wiggling his hand at her. “Yes and no. We think it should be stronger than this. There is a lot of junk mixed-in that we haven’t been able to remove yet.”
+
+Ameliah raised an eyebrow. “Did you just speak normally?”
+
+Reason winked at her. After a moment, he laughed, Myth joining him and jostling him lightly with his shoulder.
+
+Staavo rolled his eyes, then held out his hand for the piece Ameliah was holding. She passed it to him, and he tossed it into a glass bowl with a few other small fragments.
+
+Tallheart suddenly grunted in annoyance. There was a flash of disrupted mana from the larger piece of metal he’d been scratching at. He set his Telscribe down with a click, then rumbled discontentedly as he sat back in his chair. “Another failure.”
+
+Myth reached over and patted his shoulder lightly, then looked at Ameliah as he explained. “We’re having problems getting it pure enough to make it into a filter for filter-refining. Tallheart says he hasn’t been able to work out its intrinsic rune yet, so he can’t make a targeting rune for the medium. Without that rune, the filter needs to be made of aluminum for it to work on aluminum. It’s fascinating, really. I never knew runes were this complicated.”
+
+Tallheart nodded, though he looked upset.
+
+“As for Reason and I,” Myth continued, “our skills don’t work very well on metal in the first place. We don’t have the metamagic for it.” He looked at his partner. “Chemical Intuition is helping, at least. We’ve confirmed that it’s an irreducible medium.”
+
+“An element,” Reason said, giving Myth a look. “We decided to use Rain’s terminology, remember?” He cleared his throat. “He who seeks clarity should strive for brevity.”
+
+“No, I don’t remember, Reason,” Myth said. “Irreducible medium is the accepted term in the profession.”
+
+“Too many syllables,” Staavo said without looking up. He was fiddling with a balance scale, weighing out a quantity of some whitish powder, which he then added to the glass bowl.
+
+“Mmm,” Tallheart rumbled. He picked up the piece of metal he’d been working on, then started breaking it up into smaller chunks with his gauntleted fingers. He spoke as he added the pieces to Staavo’s bowl. “It is frustrating. This metal does not wish to be separated from the other elements it is, hmm, bonded to. I did not have this much trouble with tungsten. This should be no more difficult, and yet…”
+
+“Didn’t Rain say something about electricity?” Myth asked. “I vote we try that next instead of the acid again.”
+
+“If you can get a coherent procedure out of Rain, then by all means,” Staavo said. “I don’t think he actually knows how the process he was describing works.”
+
+“He has been right about everything else,” Reason said. “I am beginning to change the way I see the very nature of chemistry. The things he knows…”
+
+“Yes, yes,” Staavo said, reaching for a glass flask of a clear liquid. He poured it into the bowl, which began to smoke lightly as the powder dissolved around the chunks of metal. Then, he sat back and drank the remaining liquid from the flask. “What?” he asked when he saw Ameliah staring at him. “It’s just water.”
+
+“I told you not to do that, Staavo,” Reason said. “A careless chemist is a dead chemist.”
+
+“Bah,” Staavo said, setting down the empty flask. He fanned at the smoke rising from the glass bowl with his hand, and Ameliah had to stop herself from asking what the powder had been and why adding the water was making the metal smoke like that.
+
+Can you powder acid?
+
+Truly, it was interesting, what they were doing. The discovery of a new metal would have all sorts of implications, especially if it proved to have unique magical properties for enchanting. However, as much as she wanted to know more, what she truly wanted was to find Rain.
+
+Ameliah took another look around the camp, frowning.
+
+Nothing much had happened after the second kiss, despite the rumors. It had been late, and once the excitement had died down, they’d both gone to sleep, exhausted—her from flying and running half-way to the mountains and back, and him from lying awake and agonizing about her departure. She really needed to talk to him about it. To explain herself.
+
+She smiled. And also kiss him again. That too.
+
+“He is in there,” Tallheart said.
+
+Ameliah jumped, seeing the smith pointing toward one of the sleeping rooms.
+
+“Who’s in the where now?” Staavo asked, looking up from the smoking bowl.
+
+“Ameliah is looking for Rain,” Tallheart said. “I can tell from her heartbeat.”
+
+“You can not,” Ameliah said, giving him a playful shove, careful not to disturb the table.
+
+Tallheart rumbled with amusement, and Ameliah rolled her eyes as she walked away, heading in the indicated direction. The teasing that she and Rain had been enduring for the past few weeks had only gotten worse. If Carten hadn’t fallen off the wall in his excitement and thus earned himself a share of the mockery, it would have been unbearable.
+
+I can’t believe I just kissed him like that in front of everyone.
+
+Ameliah could feel her cheeks heating as the memory washed through her mind, vivid and crystal-clear. Rain had been using Winter at the time, because of course he had been.
+
+She was still smiling as she pushed aside the curtain separating the sleeping room from the rest of the camp. Her smile widened further as she saw Rain sitting there, Dozer on his lap. He was facing her with his helmet off and his eyes closed, clearly meditating.
+
+Then, her smile vanished abruptly as she noticed the tears dripping down his face.
+
+What?
+
+Hurrying over, she crouched down, then had to fight off Dozer as it pushed itself desperately against her hands. She could tell the slime was upset, and it was obvious why. Whatever Rain was experiencing inside his soul, it wasn’t anything good.
+
+“Rain,” she said gently, jostling his shoulder. “Rain, wake up.”
+
+“Huh?” Rain said, blinking. “Ameliah, what…?” He paused, blinking again, then raised a hand to his face and touched the wetness that had collected there. He looked down at his gauntleted fingertips as he took his hand away. “Oh.”
+
+“Here,” Ameliah said, fishing in her pocket and removing a cloth-wrapped ration bar. She unwrapped it, then passed the wrapping to Rain and tucked the ration back into her pocket. He accepted the cloth, using it to dab at his eyes.
+
+Then, he blew his nose into it.
+
+He stared at the soiled scrap of cloth for a moment before handing it to Dozer, who grabbed it immediately.
+
+Though she tried to stop herself, Ameliah let out a strangled snort at the ridiculousness of what had just happened. Rain looked up at her, and she tried to force a concerned expression back onto her face. This was made difficult by Dozer, who was slowly pulling the rag through its membrane, clearly savoring the flavor of its contents.
+
+Rain smiled at her, and Ameliah felt her heart unclench as he began to laugh.
+
+He’s okay.
+
+“What was that noise you just made?” Rain asked, pointing at her. “You sounded like an elephant.”
+
+“I have no idea what that is,” Ameliah said. She shifted off her knees to sit across from him.
+
+“An elephant is…”—Rain tilted his head—”…a giant…trumpet mouse?”
+
+Ameliah gave him a look. “Let me guess. It lives in the same place as the cat snakes.”
+
+“They’re real, I tell you,” Rain said with a wry smile. He sniffed, then cleared his throat. “I’ve never actually seen one in person, though—an elephant, not a ferret. Elephants are much bigger. Like…as big as a house, bigger. You should have them here. You have gazelles, after all.”
+
+Ameliah smiled skeptically as she shook her head. “If you say so. I’d think I would have heard of a non-magical animal that large.” Something brushed her hand, and she looked down to see Dozer offering her the cloth, freshly cleaned. She hesitated, then shrugged and took it. “Thanks, Dozer.”
+
+The slime bumped her offered hand, then oozed back into Rain’s lap.
+
+“How was it over by the crack?” Rain asked as he absently petted the slime. “Did you find any other chasms? Anywhere the Stumper might have come from?”
+
+Ameliah looked up from tucking the cloth into a pocket. “We didn’t have any trouble, but something ate all the evertorches we left behind yesterday. Monsters were lurking at the bottom. No more Stumpers, but I think that’s probably where it came from.”
+
+Rain was looking at her with his head tilted. “What do you mean, something ate the torches?”
+
+“Exactly that,” Ameliah said. “Have you ever heard of a Fire Eater?”
+
+“No.”
+
+“It’s exactly what it sounds like. They’re supposed to be very elusive. Resistant to Divination and so forth, maybe even invisible. I’ve never seen one myself, but there are lots of reports of them stranding people in the dark.”
+
+“Damn. Sounds like a really annoying monster,” Rain said, rubbing at his eyes.
+
+“Mmm,” Ameliah agreed. “Vanna thinks we should just move our camp over there for tonight so we can watch out for it.” She paused, glancing at the curtain. It wouldn’t be long before the others were back. She looked back at Rain, who had let his head fall into his hands. If she was going to say something, now was the time.
+
+“Rain…” she hesitated, but he didn’t look up, so she continued. “Are you…okay? Why were you crying?”
+
+Rain shrugged, still without looking at her. “My body must have started doing that on its own once I was inside my soul.” He took a deep breath, then let it out slowly. “It’s…been a hard morning for me. I’ve been thinking about stuff in circles.”
+
+Ameliah felt her heart clench once more as Rain looked into her eyes, wearing a forced smile on his face. There was only one correct response to that kind of look. She pushed herself onto her hands, then scooted forward so she could wrap her arms around him.
+
+“Thank you,” Rain said softly as he returned the embrace, pressing his cheek against the side of her neck.
+
+They stayed like that for a few moments until the position grew awkward. Rain loosened his grip, and Ameliah released him. Instead of sitting across from him again, she moved next to him so he could lean against her side if he wanted to.
+
+“It’s just…” Rain began, then he sighed. “I’m stressing about my soul. I need to fix it.”
+
+Ameliah nodded. She laid her head on his shoulder to reassure him with the contact. She didn’t say anything, letting him speak.
+
+“There’s a woman out there in the camp that I need to talk to, and I can’t… I can’t get anywhere near her without her staring at me like I’m some kind of monster. Everyone says my soul feels…terrifying.”
+
+“You’re not a monster,” Ameliah said. “Don’t be stupid.”
+
+“But it’s my soul,” Rain protested. “It’s who I am. Being…inside it, it’s made it even more apparent. There’s something wrong with me, Ameliah, apart from the hole in my paling. The chaos… It’s not right. I’m…worried.” He was shaking slightly as he continued. “I want to be a person who people can trust! Who people can come to to solve their problems! Not someone that makes them want to run and hide.”
+
+Ameliah shifted awkwardly, unsure of what to say. She settled for wrapping an arm around his shoulders. “You’ll figure out how to fix it,” she finally said, squeezing hard. Stupid armor. “I’ll help you. I’ll try to replicate whatever it is you’re doing, and if it works for me, we can compare notes. Two minds are better than one, right?”
+
+Rain shook against her side again, and it took Ameliah a moment to realize that it was a laugh and not a sob.
+
+“I still can’t believe that rhymes in common,” he said. “It sounds so cheesy whenever anyone says it.”
+
+Ameliah smiled and opened her mouth to reply, but a sudden cry from atop the wall cut her off.
+
+“Party returning!”
+
+Rain sniffed, then sighed. “Back to work.” He pulled away from her, and she let him go. He ran a hand through his hair as he got to his feet, displacing Dozer in the process. “Vanna’s probably right,” he said. “We should move camp. And we need to deal with the woman I mentioned.”
+
+“Who is she?” Ameliah asked, getting up as well.
+
+“You remember Lana? The washerwoman Mlem said Hegar had taken a fancy to?”
+
+Ameliah nodded. “Yes, I remember. What’s she doing here?”
+
+“I asked Jamus to sketch her from Mlem’s description, and then I sent a few teams into Vestvall to see if they could find her and figure out what was going on in more detail. Covertly, of course.” Rain sighed. “Apparently, Tarny wasn’t specific enough in passing on my instructions to all of the teams. Fredek and Gigs found her, then brought her here instead of just observing like I wanted.”
+
+“Do you want me to talk to her?” Ameliah asked.
+
+Rain nodded. “Please. You know what I’m worried about. I need you to get the specifics. Find out if they gave her a choice.”
+
+“Of course,” Ameliah said, frowning. If they’re hurting her… “What will you do?”
+
+Rain sighed. “I don’t know. I obviously can’t send her back to them if what I think is happening is happening, but it will likely cause an issue if I don’t. Hell, it might have already caused an issue. They’re going to think we snatched her, because that’s definitely what it looks like, no matter what Fredek says. First things first, make sure to ask her what she wants. I could be way off base here and not even know it. Hell, she might even be the one who seduced them.” Rain dragged a hand over his mouth. “I should be the one dealing with this, not you, but I can’t.”
+
+Ameliah laid a hand on his elbow. “I’ll handle it. Go play with Tallheart. He and the other tinkerers are trying to make aluminum, and it will be a good distraction for you. Let Vanna and me handle all the important stuff for a little while.”
+
+Rain smiled. “Aluminum, huh? Okay, that does sound like it would get my mind off things.” He paused. “Thank you, Ameliah. For everything.”
+
+Ameliah smiled, then kissed him lightly on the cheek. “Come on. Let’s get back out there before people start jumping to the wrong conclusions about what we’re doing in here.”

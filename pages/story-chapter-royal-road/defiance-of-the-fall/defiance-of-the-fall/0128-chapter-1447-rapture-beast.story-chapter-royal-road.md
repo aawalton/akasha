@@ -1,0 +1,139 @@
+---
+id: 6f688577-d7b1-5885-b640-39d571c6a11f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,447 - Rapture Beast"
+slug: 0128-chapter-1447-rapture-beast
+partOf: defiance-of-the-fall
+position: 128
+ownLength: 3013
+unit: words
+publishedAt: 2026-08-16
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3822291/chapter-1447-rapture-beast"
+royalRoadId: "3822291"
+---
+
+Waiting to collect bloodline-evolving treasures until after they finished the main mission? Zac couldn’t have that. He was well aware that he was a trouble magnet, through no fault of his own beyond his extraordinary pool of Luck. Something was bound to go wrong in the mission, likely in an explosive manner. At that point, it would be too late to regret not stuffing his pockets when he had the chance.
+
+It wasn’t just superstition. Removing the Primo’s treasure would cause a major disturbance to the Rapture Observatory. The Grand Arrays inside the pyramids would definitely collapse, possibly triggering an energy backdraft. There was also the barrier of artificial Death that kept Ninth Hell’s decay at bay. Without the eye keeping them safe, it would all come rushing in.
+
+That wasn’t to say he was okay with delaying the mission indefinitely. Just like Tavza, he really wanted to secure the Primo’s eye to prevent further variables. At the same time, the Rapture Observatory could very well be the last chance he had to advance his Eoz bloodline until he visited the Abyssal Shores.
+
+Zac had tried everything to break through Late Shallows’ bottleneck, and nothing worked. No treasure and nothing he encountered when passing through the Eight Hells had worked. Yet now, Zac felt the blockade weakening simply by absorbing the ambient energy. Advancing his bloodline was a good opportunity on its own, and it held further implications.
+
+The slight imbalance between his two constitutions was one of the remaining concerns as he eyed Monarchy. One side being further along than the other was nothing new; the imbalance had been significantly more severe at different stages of his journey. Nevertheless, considering the difficulty and complexity of his breakthroughs, he needed to minimize any pain points.
+
+Having a natural balance between his bodies and classes when forming his Inner World would lessen his burden. It was for that same reason he’d begun mirroring his Daos of Life and Death, and why he’d asked Esmeralda to fashion two of the Shattered Sky Nuclei from his Evolutionary Daos. He hoped that covering all bases would make for a smooth fusion into a world embodying his trinity path.
+
+Zac estimated that pushing his Eoz bloodline to Peak Shallows would roughly put his undead constitution on par with his Fifth-layer [Void Vajra Sublimation]. Just reaching the bottleneck might be enough. He was currently at the cusp of Late Shallows, and the concentrated Death of a proper treasure might directly propel him through the bottleneck. So long as he crossed the threshold, he could resume progress with the help of his Void Emperor Bloodline.
+
+Tavza wasn’t the least surprised at Zac’s reaction. “Very well. Stay close to me. I’ll try to minimize the disruptions.”
+
+Even with Tavza’s Abyssal Domain cloaking their presence, the Rapture Observatory reacted to them like a body fighting off a virus. Clumps of feathered beasts appeared out of the ground at intervals. They also grew stronger as they neared the circular town at the ring’s inner edge, though it was still well within what Zac could handle without expending much effort. Tavza also began assisting, occasionally piercing the Rapture Beasts with spears of Abyssal Death.
+
+Not all encounters ended in battle. The Rapture Beasts turned out to be quite lazy, rarely moving more than a mile or two from the location they were spawned. If too many of them appeared at once, Tavza instead conjured decoys while they teleported out of the way. Without a target to unleash their death upon, they eventually slunk back into the ground.
+
+It didn’t take them long to reach the circular city, at which point Zac noticed a shift. There were plenty of Rapture Beasts already wandering its streets or lurking within the buildings. Perhaps the ambient energy was dense enough to maintain a number of creatures permanently. Their appearances were also more diverse than the biblically accurate angels they’d encountered so far.
+
+A few of them reminded Zac of the unusual insectoid he fought inside Ninth Hell a few weeks back; others took on slightly humanoid shapes. However, even the featherless ones were covered in vacant eyes crackling with apocalyptic death. Most importantly, they were much stronger. Zac even sensed a few C-grade fluctuations, mostly from within the larger buildings.
+
+It was no wonder Tavza hadn’t made much headway with her repairs. This wasn’t a place where one could act as they pleased. At the same time, the pull of fate coming from multiple locations quelled any notion of retreat. Instead of rushing headlong into the city, Zac turned to Tavza for further instruction.
+
+“You don’t have to be too worried,” Tavza said upon seeing Zac’s frown. “I’ve found that most of the residents—the Rapture Beasts who have made a building their lair—refuse to leave their domain. However, the rule isn’t absolute, and many of those roaming the streets can be attracted by the commotion. Also, always be cognizant of the Rapture Curtain’s location.”
+
+Tavza elaborated before Zac could ask. “Lord Primo’s gaze empowers the beasts, turning them more aggressive. Even the residents will go after us if they notice us at that point. Clearing out the locals beforehand won’t work. The surge of Apocalyptic Death will just bring them back. I’ve generally stayed away except when performing critical repairs.”
+
+“So, where to?” Zac asked.
+
+“I’ve already plotted out a rough path that will bring us past a resource without unduly delaying repairs,” Tavza said before leading him into the city.
+
+Keeping Tavza’s warning in mind, Zac always strived to end battles instantly. He drew close while hiding his presence before instantly bursting into motion. [Skystriker] brought him into melee range, at which point one or two furious swings were enough to immediately deal with even Late D-grade Rapture Beasts.
+
+Zac’s nerves were still taut as a string, constantly observing the C-grade auras for any reaction. His perception covered less than a third of the city, and that was enough to notice thirteen C-grade Rapture Beasts, two of which were Middle C-grade. He only relaxed when Tavza finally led him into a building lacking such a presence.
+
+“If this is how things look out here, there’s no way I can deal with the beasts inside the observatory,” Zac said with a frown.
+
+“Actually, it’s not that bad. Ironically, the energy is too dense in the Lord’s presence, to the point even the Rapture Beasts succumb to death’s release. This city is a spiritual sweet spot, where the beasts are able to remain and slowly accumulate strength,” Tavza said while infusing a dead console with a complex spiritual signal.
+
+A door opened with a groan, exposing a large courtyard filled with pitch-black plants.
+
+“Why is there a field in this kind of place?” Zac said with utter confusion. He could clearly see that the overgrowth wasn’t only the result of abandonment. A field of high-grade, Death-attuned soil covered most of the ground.
+
+“I believe it was part of an experiment,” Tavza said. “A treasure like the Lord’s eye is too valuable to be used for a singular purpose. Some of these buildings are cultivation caves to study the Dao of Death, and there are workshops where treasures are made relying on the unique energies. Someone once cultivated Death-attuned plants here. Unfortunately, the strains have degenerated to the weeds we see before us.”
+
+“Making use of every part of the buffalo, huh?” Zac muttered as he approached the field. “You call these weeds?”
+
+He could tell that most of the plants emitted D-grade fluctuations.
+
+“Energy density is worth nothing if they lack practical application. There should only be a handful of useful ones in the mix,” Tavza said, pointing at a room beyond. “I need to patch up a broken circuit. Will you handle the excavation?”
+
+“No problem, fifty-fifty?”
+
+Tavza lightly nodded. “Be careful, a few are poisonous.”
+
+The warning was appreciated but unnecessary. Between his treasure sense and the bestial intuition born from [Inborn Predator], it wasn’t difficult to sort out the good, the bad, and the useless. The bad was not limited to poison, either. Zac soon found himself grappling against constricting vines, acid attacks, and even a flower releasing curses.
+
+It took Zac nearly an hour to deal with the whole plot without causing a commotion or destroying everything. Zac was covered in burns and shallow scratches from spikes at that point, feeling thoroughly done with the whole building. Still, he kept going, digging up every inch of valuable spiritual soil. It would be a perfect addition to his medicinal fields back on Earth. With Boje Zethaya’s skill in Undead Alchemy rapidly improving, there would soon be a steady demand for herbs.
+
+The real harvest was eleven usable plants, one of which was Late D-grade. The rest were an even mix between Low and Middle. While by no means a bad harvest for a few minutes of low-risk work, it wasn’t quite what Zac had expected. Zac could feel that the energy they contained wasn’t intense enough to deal with his bottleneck.
+
+Tavza was almost done with repairs by the time Zac joined her, if what she was doing could be called repairs. Zac silently watched as she drew an unfamiliar script on a previously blank wall. The ink was clearly something valuable, and it sank into the stone as it dried. When she was done, Zac felt the previously dead wall fill with energy.
+
+Zac glanced at a large crack on the opposite side, guessing Tavza had rerouted the energy flow through an interior wall. It was obviously not a permanent solution, but like Tavza said, it only needed to work for a few seconds. When done, she stowed her tools, and they quickly divvied up the treasures as they left the building. To Zac’s delight, she didn’t want any of the soil after confirming it couldn’t benefit her bloodline.
+
+“These things are good, but I need something stronger,” Zac said, elaborating upon seeing Tavza’s raised brow. “I’m still at the cusp of entering Late Shallows. All the energy I’m absorbing now is mostly wasted. I need a high-grade treasure to push me through so that I can resume my progress.”
+
+“I see.”
+
+Zac sighed when the familiar silence stretched out, finally pointing toward a spherical structure a few miles away. “How about we check out that place?”
+
+“There? How did you know?” Tavza asked in surprise.
+
+“I can feel the pull of treasure,” Zac shrugged.
+
+Zac felt similar pulls from five different buildings. The one he pointed toward wasn’t the most promising, but it was the only one that wasn’t accompanied by the aura of a C-grade Rapture Beast. Zac had initially considered keeping the knowledge to himself and sneaking over in case they split up, but he ultimately decided against it. Tavza had shown enough sincerity not to scam her like that.
+
+“Just how high is your Luck?” Tavza sighed. “I have inspected that building before. There’s a small pool of highly valuable concentrate inside. However, I got a dangerous feeling when I peered inside, so I left before I triggered something.”
+
+“So there’s a threat hiding there, after all,” Zac sighed. “Let’s check it out. I can occupy anything that comes crawling out of the woodwork while you collect the concentrate. We don’t need to fight it to the bitter end,” Zac suggested.
+
+“Fine. We can see it as a test run for the other high-value targets. There’s also a critical structure guarded by C-grade Rapture Beasts that needs to be repaired,” Tavza readily agreed.
+
+Zac felt himself being led by the nose for some reason, but he shrugged it off. They quickly made their way to the entrance of the large rotunda. It didn’t have any doors, but its outer walls had collapsed in a few sections. They snuck inside, and an otherworldly stench hit Zac like a punch to the gut. It was like an Era’s worth of decay had been condensed and trapped inside the building.
+
+It was so bad that it took Zac a moment to notice the threat. Both his danger sense and [Inborn Predator] warned him of being targeted by an enemy, and he couldn’t pinpoint the source at all. Dealing with the proper C-grade residents would have been preferable to facing the unknown if the danger level wasn’t within tolerable levels.
+
+Whatever was lurking in the shadows was at most an Early C-grade Rapture Beast. So long as he could find it, Zac was confident in keeping it occupied for a while. For that, there was an easy solution. Zac refused to believe the creature wouldn’t show itself if he targeted the pool.
+
+The pool of tar-like concentrate wasn’t at the center of the building. It had collected in a crack toward the opposite side. Looking through the gap, Zac caught a glimpse of the huge spherical construct of the observatory between two towers covered in engravings. A hypothesis quickly formed, which was shared by Tavza.
+
+“The Lord’s gaze has poured through the crack. Something about this building has trapped his Dao, preserving it into the concentrate. It’s the result of a series of coincidences,” Tavza said. “As many Natural Treasures are.”
+
+“I’ll go first,” Zac said as his body grew. “I’ll try to drag it away after it appears.”
+
+He’d activated [Conformation of Supremacy], picking the defensively oriented Ent Elder form. He didn’t stop there. Spores spread from his body, filling the empty rotunda as he inched toward the pool of concentrate. With the boost from [Conformation of Supremacy], the whole building was filled with slithering vines made by [Primal Edict].
+
+A thousand appendages failed to grab onto the hidden enemy, but Zac didn’t have to wait long for the target to appear on its own. A sudden and extremely intense scream of danger made Zac flash out of the way with the help of a Void-activated [Skystriker]. The danger sense only abated by half, and Zac unhesitatingly swung [Verun’s Bite] in a wide overhead arc.
+
+Zac felt a pang of pain in his hand as his axe struck something harder than metal. Space rippled the next moment as a figure appeared out of nowhere. The hidden enemy was an enormous centipede that looked like it had been stitched together from dozens of Rapture Beasts. Its back was covered in a multitude of oily feathers, while its legs were crooked wings ending in serrated talons.
+
+It latched onto the ceiling the moment it appeared, effortlessly ripping apart the vines blocking the way. It wasn’t just because of a disparity of strength. The first generation of vines was already withered because of the overtly Miasmic environment. However, death was part of the skill, and the next generation was already sprouting, sporting greater resistance against the Dao of Death.
+
+The centipede had no maw, only an enormous eye that had almost stared Zac down point-blank moments ago. Despite Zac’s various advantages, he didn’t dare face that stare head-on. Wherever it looked, Zac's vines immediately turned to ash. Zac activated [Apex Jungle] and used the rebound of his strike against the centipede's leg to fly into a tree, appearing right behind the creature.
+
+[Verun’s Bite] was already glowing with swirls of Life and Conflict, allowing Zac to unleash [Rapturous Beginning] right onto the centipede’s head. The demarcation born between the churning swirls of Zac’s Daos tore through the outer layer of feathers, which exhausted a surprising amount of energy.
+
+Only half the force remained when the attack struck flesh. It was barely enough to create a shallow wound, and drops of ichor, five points similar to the pool of concentrate, fell to the ground. While the attack failed to cause any real damage, it was enough to fully draw the centipede’s attention. Zac was yanked away into a tree by a vine, his mind spinning from the toxic fumes released by the blood. It was just in time, too. The C-grade beast’s head yanked around, annihilating a hundred trees where its stare passed.
+
+“Go!” Zac shouted as the centipede barreled through the forest.
+
+Thousands of vines emerged from the surrounding trees, wrapping themselves around the monstrosity while Zac threw out occasional bursts with [Evolutionary Edge] to keep its attention. Generations of vines died and were reborn in the blink of an eye, each time gaining a slightly darker hue.
+
+Suddenly, the centipede stopped in place as it failed to directly tear apart the vines coiled around its body. It was at that moment that three vines shot forth from the swarm, each as durable as a D-grade Spirit Tool. They stabbed into the gap between the two frontmost segments. They barely managed to dig in deep enough to latch on, making it harder for the creature to wave its head around.
+
+Unfortunately, the centipede had plenty of other eyes, and one of them must have spotted Tavza carefully scooping the concentrate into earthen jars. The centipede wailed with fury, and Zac felt a terrifying premonition. There was no need to coordinate. Zac and Tavza disappeared from the building, leaving a third of the concentrate behind as they escaped through different cracks.
+
+Zac kept his skills going to help their escape. A few minutes later, they reconvened inside a building a mile away from the rotunda. They could hear and feel the centipede thrashing around inside, but it thankfully never left its lair. The mission was a success, though it left Zac with a sour taste in his mouth. After successfully killing a few Monarchs, failing to even wound the centipede felt like a failure.
+
+Sure, he didn’t use his strongest skills and his focus was to distract, but Zac wasn’t sure he could’ve killed the target even if he went all out. It was way more durable than he’d expected, especially for a creature with stealth abilities. A putrid stench dragged Zac out of his thoughts. It was Tavza who held out one of the two jars, which helped perk right Zac up.
+
+Judging by the roars of his other body, he’d secured the means to break through.

@@ -1,0 +1,207 @@
+---
+id: 3893f1c7-1817-53e3-b929-4851351d05ed
+page-type-slug: story-chapter-royal-road
+title: "Chapter 59"
+slug: 0060-chapter-59
+partOf: death-healer
+position: 60
+ownLength: 2589
+unit: words
+publishedAt: 2025-08-11
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2510428/chapter-59"
+royalRoadId: "2510428"
+---
+
+The first rays of sun slipped through the cracks in the ruined walls, painting Caesar’s face in long shadows as he sat cross-legged across from Lily. The fire between them had burned down to coals, but its heat clung to the air. He kept his gaze fixed on Lily, who sat opposite, back straight, arms wrapped around her knees.
+
+“This is probably the strangest ritual I’ve ever seen,” Caesar said, voice flat. “Even the ones with the strongest Light Affinity get torn up by the Sacred Flame. Every single one. The fact you’re not even sweating…” He shook his head, eyes narrowed. “It doesn’t make sense.”
+
+Lily didn’t answer. She watched the fire and waited for him to go on.
+
+Caesar broke a twig and tossed it onto the embers.
+
+“When you inhale the Sacred Flame, you don’t just burn. You meet yourself. You see what you are, deep down, stripped of every lie. You have to answer that vision. If you lie to yourself, the Sacred Flame latches onto the weakness of your Light Affinity and tears you apart. You have to let the lies burn off. That’s how you survive. That’s how you get the Skill.
+
+“However,” the man continued, perplexed, “I don’t know what will happen to you. You feel no burning from it. It’s a mystery.”
+
+“When I went through the trial, I saw myself as a king. I don’t know what that says about me. My brother Tiberius, he saw himself as an executioner. Each person gets what they deserve. When it’s your turn, whatever you see—don’t run from it. Face it. Answer honestly, or the Sacred Flame won’t answer you.”
+
+Lily nodded once, never looking away.
+
+Caesar pushed the ember box across the ground. “When you’re ready, inhale. Don’t hesitate. Whatever you see, you deal with it.”
+
+Lily picked up the ember, holding it steady in her hand. She brought it to her lips and inhaled. The taste on her tongue was metal and ash. For a moment, the world flashed white-hot, and her vision blurred.
+
+The world melted. She stood in a place she had never seen, stone beneath her feet, air heavy with a thick silence. Before her rose a tall archway, carved with tangled runes, light and shadow flowing across its surface. Beyond the arch, a second world waited—a grey hall with no end, floor strewn with dead leaves and black dust.
+
+A woman stepped out from beyond the arch. She looked nothing like the child Lily still felt herself to be. The woman was tall, pale, and grown, her hair black and heavy, her face sharpened by hunger and old pain. Black veins webbed across half her body, running from her left eye down her neck and into her arm.
+
+Behind her, a platoon of corpses stood in formation. They loomed as tall as armored knights, each built like a champion, shoulders broad, arms corded with unnatural muscle. They wore scraps of ruined plate and bent mail, and their hands clenched battered weapons—swords and axes caked with old blood, shields pitted and split. Their bodies still looked strong, but their skin was stretched tight over bone and muscle, tinted an ugly grey, puckered around old wounds that would never heal.
+
+None of them drew breath. Their mouths hung half-open, and their chests did not move. Their eyes glowed with a sick red light, staring straight ahead, wide and unblinking. In the silence, they stood motionless, not swaying or shuffling, but holding their ground with a grim discipline that no living soldier could have matched.
+
+Their faces were warped by death—lips rotted away from their teeth, cheeks sunken, jaws twisted into a near-snarl. Some had hair matted with black blood; others had none, only flaking scalp stretched over their skulls. When Lily looked at them, she felt no trace of humanity left in their gaze—only a cold, watchful hatred, as if they stood guard against the living world.
+
+The horror came not just from the rot or the wounds, but from the sense of strength that clung to them. They brimmed with Death Mana.
+
+The older Lily raised her hand, and the corpses began to move. They marched out from behind her, boots thudding on the dead stone, weapons scraping against armor and bone. They fanned out in a wide arc, spreading around Lily until there was no path left to escape. Their eyes never blinked. Their heads turned as one, tracking Lily’s every breath, every twitch of her fingers.
+
+Lily tried to back away, but her heels struck cold stone, and the archway blocked her retreat. The circle tightened. The Undead stood shoulder to shoulder, each towering over her, their stench thick as rot and wet earth. The air filled with the scrape of mail, the clack of broken teeth, and the faint rattle of chains. Every corpse looked powerful and fresh enough to kill, but their twisted faces and ruined bodies betrayed what they truly were—monsters, animated only by Death Mana, locked in obedience to the figure who commanded them.
+
+The woman stepped closer, her bare feet silent on the stone. The resemblance to Lily was unmistakable. The line of her jaw, the set of her eyes, the shape of her hands—older, changed by years, but still her. She carried herself like a queen walking through a field of corpses. The black veins running over her body pulsed with a slow, cold power, and when she spoke, her voice was Lily’s, only deeper and sharper.
+
+As the Undead boxed Lily in, the older version of herself gazed down with an expression that was not cruel, but judging. There was nothing left of childhood in those eyes. There was only hunger and strength.
+
+Lily recoiled as the corpses closed in, her breath catching in her throat.
+
+Fear drowned out everything else, leaving only the urge to shrink away from the older version of herself and the army of monsters that surrounded her.
+
+She stood close enough that Lily could see the details of her face—the unnatural pallor of her skin, the veins twisting beneath the surface, and the cold, steady gaze that held none of a child’s uncertainty. Their eyes locked, and Lily felt as if she stared into a future carved out by pain and darkness.
+
+“Why are you afraid?” The woman’s voice rang out, steady and deep, echoing in the silent hall.
+
+“I’m not afraid,” Lily answered, but the words came out thin and unconvincing. She forced her chin up, remembering that Caesar had specified to accept whatever she was seeing.
+
+But how could she accept this?
+
+Could this really be her future?
+
+To become a monster?
+
+The woman’s lips twisted, baring small, sharp teeth in a smile that never reached her eyes. She drew her arms wide, and two massive wings unfurled from her back—one black, one white.
+
+The feathers scraped long furrows through the dust, filling the space with the hiss of moving air and the low, dry rattle of bone.
+
+The wings seemed to fill the world, blotting out the arch behind Lily and stretching to either side until they nearly brushed the circling corpses.
+
+“Aren’t you?” the woman asked again, her voice softer now, but carrying a cold certainty that left nowhere to hide.
+
+Lily swallowed, chest tight. She didn’t know how to answer. She wanted to say she had nothing to fear, but the sight of those veins and those corpses froze the words in her throat.
+
+The older Lily came closer, shadows shifting around her.
+
+“You’re not burning. The Sacred Flame can’t punish you. You’re not like the others. Do you think that makes you safe?”
+
+Lily took a breath.
+
+“What is this? Why are there corpses? Why am I surrounded by Death Mana? I’m not a [Necromancer]. I will never be.”
+
+That monster that looked like her shook her head.
+
+“You’re not just Light or Darkness. Death is in you. It always has been. You can’t cut it out.”
+
+Lily’s voice wavered.
+
+“I don’t want this. I don’t want to look like you. I don’t want to be a monster.”
+
+The woman stepped forward and laid a cold hand on Lily’s cheek.
+
+“Are you afraid of becoming a monster?”
+
+Lily glared up at her.
+
+“I’ll never be a monster.”
+
+The monster-woman smirked.
+
+“Anyone can be harmless if they’re weak. It’s easy to stay gentle if you have no power. But if you want to wield fire, you have to be strong enough to be dangerous. Only then does your choice matter. You must choose not to destroy, even when you can. That’s the difference between deserving power and not.”
+
+She looked up at the woman in front of her—older, taller, her own features sharpened by time and pain, every line of her face an accusation. The black veins pulsed with a lifeless ugliness.
+
+“I am not afraid of you,” Lily said, voice trembling but clear.
+
+She was supposed to accept whatever came—but how could she? How could she accept that an any point in her future, she might look like this? That she might even control the Undead?
+
+“You’re not afraid of me? Then why are you shaking?”
+
+Lily looked at her hands. They trembled inside the gauntlets.
+
+“I—” She stopped. Lying here would be pointless. The Sacred Flame did not let lies live. She closed her eyes, forced herself to breathe, then opened them again. “I am afraid. I’m afraid of what you are. I’m afraid of becoming like you. I’m afraid of what’s inside me—Death, rot.”
+
+Lily pointed at the monsters.
+
+“Whatever this is, I don’t want it. I don’t believe that this is who I truly am—that can’t be.”
+
+The woman’s gaze stayed fixed on the blonde girl.
+
+“Do you think that matters?”
+
+The older Lily stepped forward, close enough that Lily could see the lines of exhaustion, the weight of battles lost and won etched into her face. She reached out and tapped a finger against Lily’s chest, right over her heart.
+
+“You carry Death, whether you want to or not. You always have. You think you can choose the parts of yourself you accept and the parts you burn away. But you don’t get to cut out what you are. You have to live with it. You have to learn to wield it. Or it’ll wield you.”
+
+The circle of corpses pressed even closer, a wall of dead flesh and angry light. Lily’s heart pounded so hard she felt it in her ears. She tried to summon her Mana, tried to call on the Light and the Life inside her, but the room swallowed it, every attempt getting snuffed out by the weight of so much Death.
+
+The older Lily leaned down, her breath cold on Lily’s face. “Tell me, are you willing to burn away everything you hate about yourself? Because that is not what the Sacred Flame does. You’re not experimenting the excruciating pain, the ravaging of your body that would be happening right now while the Sacred Flame travels through your body. You’d have to be forced to accept who you really are while pain lances through your mind. Yet, even while lucid, even when you can think this clearly, fear grips you, fear for what you really are. You fear the monster in you.”
+
+She drew her hand back and jabbed one finger into Lily’s chest, right over the heart. The hand suddenly blazed with white fire that started rushing over the tip. It burned a hole in Lily’s chest, making her sharply inhale from the pain. However, the pain also froze her, rendering her incapable of moving.
+
+The older Lily watched without pity. The corpses closed in so tight she could taste the stench of death. The black veins in the woman’s skin pulsed with every beat of Lily’s heart.
+
+Lily felt the burning point drill into her chest—fire, not just pain, but a hollowing heat that seemed to reach right through her bones and clutch her heart. She gasped, jaw clenched, nails digging into her palms, but she didn’t scream. She couldn’t.
+
+A breath later the white flame died, but the hole did not close. It glowed from the inside, and the edges pulsed with a soft light that beat in time with her heart. She forced her gaze up and locked eyes with her older self.
+
+“Regrettably, your body is ready and the flame has begun integrating. You’re an aberration. The flame can’t burn you. It’s waiting. One day, you’ll choose what you become. Until then, it will remain dormant in your body.”
+
+* * *
+
+Cold air slammed into Lily’s lungs. She sat back in the ruined outpost and clutched her tunic where the wound should have been. Her fingers met unbroken skin, yet a faint glow throbbed under the cloth.
+
+The campfire crackled in her ears.
+
+Caesar knelt in front of her at once. His hands hovered near her shoulders while his eyes tracked the light beneath the fabric.
+
+“You were gone for three breaths,” he said. “Your pulse stopped on the second.”
+
+Lily inhaled again. The taste of ash lingered, but she felt steady. “The flame entered me. It left a mark.”
+
+She pulled the collar aside. At the center of her sternum, a circle of pale fire glimmered, no larger than a coin. It did not burn her flesh. Instead, it rose and sank with each heartbeat.
+
+A few moment later, it became invisible and sank back into her skin.
+
+Caesar watched.
+
+“What did you see?”
+
+Lily shook her head once.
+
+“I was this… thing with wings and black veins. Corpses everywhere. She said Death is in me. She said the flame is dormant—so I can’t use it yet.”
+
+* * *
+
+Caesar sat back on his heels and studied her, eyes narrowed with something between caution and respect.
+
+“Dormant or not, it’s there now. It’s not burning you, but I’d wager it will wake up eventually. That’s the first time I’ve ever heard of something like this happening.” He shook his head. “Most people either survive the flame or they die. You took it, and it’s waiting inside you.”
+
+Lily tugged her tunic straight and drew in a slow breath. The pain still loitered under her breastbone, but she felt calm.
+
+“What happens now?”
+
+He folded his arms.
+
+“Your Class Day is in about eleven months. The Champion’s Trial is a year from now. Until then, you train. You learn to fight. You learn to use everything you’ve got. If you want a shot at mastering the Sacred Flame—really awakening it—you have to risk your life every day.”
+
+She nodded.
+
+“I’m ready. I can handle it.”
+
+He met her gaze.
+
+“Maybe that’s what will awaken the Sacred Fire in you. Maybe it won’t. But you won’t find out by hiding. Every day until your Trial, you fight. You bleed. You survive.”
+
+Lily stood and brushed the dust off her knees.
+
+“I’ve got somewhere I need to be,” she said, voice quiet but determined.
+
+Caesar gave her a look that was equal parts challenge and approval.
+
+“You’ll go as soon as you’re ready. I won’t keep you here any longer than necessary. But don’t kid yourself, niece—when you walk out of here, every lesson, every fight, every mistake will count. Whatever you have come your Class Day, it will define who you are.”
+
+She didn’t look away.
+
+“I know. I’ll be ready.”
+
+He stood, rolling his shoulders.
+
+“Then we get back to work. When you say the word, I’ll send you on your way.”

@@ -1,0 +1,137 @@
+---
+id: 7ba08eee-ebdb-5f26-b153-785493c5c016
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 22"
+slug: 0025-b1-chapter-22
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 25
+ownLength: 1540
+unit: words
+ownProgress: 1540
+publishedAt: 2024-01-12
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1474328/b1-chapter-22"
+royalRoadId: "1474328"
+markedReadAt: "2026-06-29T19:06:42.353Z"
+---
+
+Aria
+
+After having my usual ‘meal’ at the cafeteria, something I was surprised I could do so quickly since it usually takes a few days for the word to reach the new cafeteria that I’m allowed to drink on the clock, I head back to our ‘barracks’ and enter my room. Or rather, my side of the room, which has two sides and looks kind of like a double room with a split down the middle in the form of a wall. And my side is a mixture of red and gray in color, with a nice bed at the back, a couple wardrobes and a closet that I can only guess are already filled with my stuff from my last fortress, and a mirror. Meanwhile there’s a door at the back left side of the room, that I quickly find leads to a bathroom and a shower.
+
+Well, at least being used by the military has its perks. And I’m not alone this time, even if I’m still alone in the whole ‘not dying’ thing.
+
+Although that also makes it harder on me since the others in my team are even more likely to die now since we’re being used as a spearhead team against the invaders. Which gives me more reason to avoid interacting with them.
+
+That one bribe doesn’t count though. It tasted really good.
+
+I’m still confused why the others eventually arrived only to look really confused when they found me and Captain Rogers just sitting there enjoying our meals.
+
+Maybe they weren’t expecting me to be eating with the captain? Or, drinking, I guess.
+
+Speaking of, the captain doesn’t talk much. Not that I’m complaining.
+
+Anyways, I quickly head to the bathroom to take a shower, since I still have some blood on me from the battle in the train. Then I head to bed in my nightgown.
+
+AriaNine Years Ago
+
+“Attention!” Second Lieutenant Arlan shouts, making all of the members of our team stand at attention. “Your mission is simple. Make your way through the Southern Pass and scout out the Al Mountain Pass as we have reason to believe that the Arterians may be plotting something out there.”
+
+I continue standing at attention in the back as Sergeant Daniels asks questions about the mission. Then, once he’s done, the second lieutenant dismisses us and we all head back to the barracks.
+
+None of the others look very happy about the mission, so I can only assume it’s not a very safe one.
+
+So with that in mind, I nod my head, clenching my fists as I step up to the second lieutenant and say, “I’ll protect you!”
+
+A wry smile stretches across his face as he pats my head and says, “You don’t need to do that, little Ari. We’ll be protecting you, alright?”
+
+I pout at that and try to push his hand away and tell him that I don’t need protection. That I can’t die. But we’re interrupted by another officer calling the sergeant over.
+
+“Sorry little one, I’ve gotta go!” he says, patting my head once more and once again messing up my hair.
+
+I open my mouth to call out to him, only to close it again instead.
+
+He’s busy right now. I’ll tell him later.
+
+“Well, this is turning out a lot easier than I thought it would be,” the sergeant says with a smile on his face as we all march into the mountain pass without a single enemy soldier in sight.
+
+“At this rate we’ll be in the clear, ready to head home soon!” Corporal Tennison exclaims, sounding excited. And his excitement makes me feel excited too.
+
+It even takes my mind off of the biting chill of winter as we march through the snow.
+
+We fall silent on the march with the corporals occasionally trying to lighten the mood, likely for my benefit.
+
+I don’t tell them that I know what they’re doing though. Because that would make them sad.
+
+Oh, right. I never told the sergeant about my ability.
+
+Right when I’m about to do it though, I’m stopped once again by an interruption. This time from the sergeant himself as he says, “Night’s falling, so we should find a place to camp out soon.”
+
+I close my mouth again, which he seems to notice when he asks, “Was there something you wanted to say, little Ari?”
+
+Despite wanting to say it, I for some reason shake my head, unable to bring myself to say anything now that I was interrupted again.
+
+“Hmm, if you’re sure,” he says with a nod before we begin searching for a place to camp out.
+
+I hold myself back from pouting.
+
+Because everything will be fine.
+
+There’s nothing that I need to protect them from.
+
+I’m sure.
+
+AriaThe Present
+
+I wake up reaching upwards with tears falling down my face while muttering, “No…” But I quickly realize it was a dream.
+
+Another dream.
+
+Fuck. These are starting to happen every time I fall asleep.
+
+I grit my teeth as I sit up while wiping my eyes.
+
+At this point… I should just avoid going to sleep. It’s not like I really need it after all.
+
+My body is always in perfect condition, so I don’t actually need to sleep. The only reason I do is for a little escapism. To leave my depressing reality behind for a little bit.
+
+Part of it is just that I don’t want to be left awake the entire time everyone else is asleep though. Because that’d be boring.
+
+That’s probably the main reason.
+
+I put my face in my hands for a few seconds before pushing my feet over the side of the bed and getting up.
+
+To hell with sleep. I don’t need it.
+
+Especially because I know what the next dream will be. Or rather, nightmare.
+
+I know exactly what it’ll be.
+
+My fist clenches involuntarily at my side at the thought of it.
+
+Despite also not needing to shower, since I don’t exactly sweat or need anything to wake me up, I go ahead and take one anyways. Just because they’re comforting. Then I get dressed, put on my armor and weapons, and leave the room, briefly pausing to give Captain Rogers a nod at the sight of him sitting on the sofa in the common area – again, something that shouldn’t be in a barracks – while watching the television. Something I never really had before since they’re rather expensive.
+
+I turn from him to find the major cooking for some reason at the small kitchen in the common room – something that, I repeat, should not be in a barracks – while First Lieutenant Snow and Second Lieutenant Rogers are playing a game of chess.
+
+After a brief pause, I begin walking over to the entrance of the barracks. Only to pause when I hear the television.
+
+“As of today, the fifteenth day of the twelfth month of year 401 since the signing of the treaty, the Albarian Council and the Arterian Emperor have both declared a temporary ceasefire to handle the invading forces,” an officer declares on the black and white television. “From now on, we will be focusing our military efforts on pushing the invaders out of our world, proving to these otherworlders the power of our great Empire! The power of Vortel!”
+
+I purse my lips, meanwhile Second Lieutenant Snow just scoffs and says from his place, not looking up from his chess game, “Yeah right. Neither that bastard emperor of the Arterians nor our Generals are going to stop thinking about the war, even when we’re fighting these invaders.”
+
+The others nod their heads in agreement, and I honestly can’t deny what he said either. In fact, he’s probably correct.
+
+Unfortunately, we have too much history between the nations to go to peace. And it doesn’t help that we both want what the other has.
+
+Our two nations have been at war since before the treaty on strategic magic and weapons, and since we’re stuck on either sides of the Great Divide, with one side having an abundance of minerals and other luxury goods with better technology and the other having an abundance of food and water, it’s hard for the nations to go to peace. The emperors and generals simply believe it to not be possible. Especially after all of the warring we’ve done.
+
+Even a truce doesn’t seem possible. Not with the bad blood between the nations.
+
+But invaders would absolutely take advantage of our conflict if we were to continue openly being aggressive towards the empire. So this is most likely a way to make it seem like we’re unified against the invaders. And in all honesty, at least in the open, Arteria and Albaria at least won’t be doing any large operations against each other.
+
+That would break the illusion after all.
+
+Well, I’m pretty sure our team was set up for the invaders anyways, so this won’t affect me that much right now. Other than not having to worry about the Arterians attacking.
+
+Which I guess is a pretty big effect.
+
+Anyways, I leave the ‘barracks’ and begin heading towards the cafeteria to go grab my usual breakfast.

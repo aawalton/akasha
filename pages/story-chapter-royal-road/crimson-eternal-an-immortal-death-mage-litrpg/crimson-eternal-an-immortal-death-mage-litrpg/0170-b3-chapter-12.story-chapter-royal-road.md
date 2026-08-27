@@ -1,0 +1,133 @@
+---
+id: 7683b16f-fc70-5a08-8d1d-403836e9c316
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 12"
+slug: 0170-b3-chapter-12
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 170
+ownLength: 1444
+unit: words
+ownProgress: 1444
+publishedAt: 2024-06-12
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1674110/b3-chapter-12"
+royalRoadId: "1674110"
+markedReadAt: "2026-06-29T19:11:29.911Z"
+---
+
+Aria
+
+After spending a few hours just sitting with Frank, Jason takes us to our rooms in the manor that we’ll be living in. And after spending the night, the three of us go to do our own separate thing, with me and Hannah spending time at Frank’s bedside at least a few hours a day over the course of the next month.
+
+During this time, I travel around the capital to see everything that’s changed in the nation. I also catch up with Jason and find that the old man is still alive. Albeit barely.
+
+He’s even older than Frank by over a decade. Overall he’s in around the same situation as him, since he didn’t have his lifespan cut short.
+
+So I at one point follow Jason to go see his grandfather and spend some time with him as well.
+
+Apparently Luke’s son ended up taking over the café after Luke retired, but it didn’t really change the atmosphere much over the times I visit during the month.
+
+Which is nice.
+
+I stare up at the snow falling from the sky as I head back to Frank’s manor after my most recent outing to the café. And I can’t help but sigh while doing so.
+
+This month has been… I feel conflicted about it.
+
+It’s been rather nice going around and seeing what all has changed. Seeing the old man again. Seeing Frank. Seeing the old man’s grandson. And so on.
+
+But it hurts to see both Frank and the old man practically on their deathbeds.
+
+I pass through the gate to the neighborhood Frank lives in – one full of a bunch of rich people – before slowing down with my brows furrowing when I spot a few cars parked in front of the manor. Then my eyes widen at the sight of someone practically running out of the building. Someone who looks familiar to me albeit a bit younger.
+
+But even with that difference, I still recognize him.
+
+The moment Adrian Snow spots me, a wide smirk stretches across his face, and he clears the distance between us in moments, wrapping me up in a bear hug and lifting me into the air as I let out a light grunt.
+
+“Little Ari! You’re here!!!” he shouts, his voice echoing in my ear from his mouth which is right next to it.
+
+Then Leonardo Striker rushes out of the building as well before spotting me and running over as well. With Jason Vargas leaving the building a lot calmer after him and then walking over.
+
+“It’s good to see you,” I manage to grunt out despite Adrian crushing the air right out of me.
+
+“Adrian, put her down,” Jason says rather with a slightly dry tone of voice. “You’re crushing her.”
+
+Adrian puts me down while laughing and saying, “Yeah, but I doubt that would stop this immortal.”
+
+I roll my eyes before putting my hands back in my pockets and glancing at Leonidas as the man slowly steps up and pulls me into a hug as well. Just that his isn’t a bear hug like Adrian’s.
+
+“You guys finally got some time off?” I ask, knowing that the others haven’t visited due to the war between the Grand Roan Empire and Famine spilling over a little bit onto Vortel. Although not by much.
+
+The commander, or I guess former commander, nods his head as he separates from me and glances at the other two, “We’ve been busy till now and the First General hasn’t given us the time to stop by.”
+
+“Wait, does she know I’m here?” I ask while tilting my head a little.
+
+“I’ve known you were here since you first arrived,” a familiar voice says, startling me into looking at the cars where I find a faint shimmering before the First General appears. “Welcome back to Vortel, Aria Crimson.”
+
+Ah. Right. Makes sense she would know I’m here.
+
+I am a low level black number walking around everywhere. And while that isn’t something unseen before, it is still something to at least look into.
+
+After all, there are plenty of other low level black numbers across the universe. And even more high level ones.
+
+Especially in a brand new world like this one where most of the people outside of the world are a lot more powerful than those on the world.
+
+“First General,” I state while shaking Vargas’s hand.
+
+The First General and I stare at each other, our eyes directly meeting for several seconds. Then the corner of her lips finally quirks upwards ever so slightly and she says, “Just be careful about how long you spend here.”
+
+And just as quickly as she appeared, she fades away like an illusion. Which is probably what she was.
+
+Just an illusion.
+
+Such an annoying ability.
+
+“Let’s go inside,” Leonidas says, making me and the other two nod our heads.
+
+But as we all walk inside, I can’t help but look at the other three. Simply because of how starkly different they look now as opposed to when I last saw them.
+
+Since they’re all young again.
+
+They look the same age as me thanks to their level reverting their physical age.
+
+And it’s so bizarre.
+
+Then again, the last time I saw them they were in their mid to late thirties, with the exception of Frank who was the only one in his forties. So they all still look mostly the same, just younger. Fewer gray hairs, fewer wrinkles, and overall just more youthful.
+
+All of us move through the house while chatting about what’s happened over the decades since we last saw each other. Like the civil war that occurred in Arteria due to the remaining nobles before they were crushed. Or the initial arrival of the Grand Roan Empire who weren’t particularly happy all those years ago.
+
+The abolishment of nobility in its entirety. The establishment of more Gates.
+
+And so on.
+
+We also talk about a couple of the things I did during those years, but we arrive at Frank’s room before I can go too deep into my travels.
+
+All of us walk right up to Frank’s bed, the man himself surprisingly being awake. Since he generally sleeps a lot nowadays. Most of the time I’m here he’s asleep, only staying awake to eat meals.
+
+Just that when I first arrived it happened to be meal time.
+
+We just stand at his bedside silently watching with a dark atmosphere filling the room. Then Hannah steps into the room, making it so that for the first time in decades, all of us are together.
+
+The Predator Division is back together.
+
+I reach over to grab Frank’s hand as I kneel down next to his bed. Meanwhile Vargas just stands off to the side and Ardian stands with his arms crossed right next to the bed. Leonidas sits in a chair next to it and Hannah sits on the other side of the bed holding Frank’s other hand.
+
+After that I continue the discussion we had on the way here. Telling them all about my journeys through the worlds. About Eternus and the Hunter’s Bay there. About Luk’tar and the war with the Clans, not to mention the Grand Trees.
+
+And they seem to get a kick out of hearing about my habit of jumping off the Grand Trees, which makes me smile when I see Frank weakly laughing.
+
+Then I tell them about my time in Atlantis. About Little Blue and Sel. About the civil war there that I just kind of stopped right when it began without really meaning to.
+
+The time I spent in the Grand Ocean. On Arian fighting against the Frost Clan. In the Hive. And even my little trip to Pestilence’s world.
+
+Lastly, my trip through Sheng and Aral. About the Inner Palace, the emperor and princes, and the consorts in Sheng, and the terrorist attacks on Aral.
+
+Our conversation ends up going long into the night, and at some points during it, Jason – the old man’s grandson, not Vargas – arrives with meals from the chefs in the house. Or he just stops by to bring drinks and a snack for us. Never actually interrupting our conversation.
+
+After I finish going over everything that’s happened to me, the others start sharing their own stories.
+
+And I honestly can’t help but feel happy from spending my time here with them.
+
+Yet also sad, knowing that Frank won’t be with us for much longer to spend time like this with.
+
+But… this time is making me rethink my policy about not getting close to others.
+
+Maybe a little.

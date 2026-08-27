@@ -1,0 +1,153 @@
+---
+id: b0040d28-de6c-52b2-b948-83ed66cf37aa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,371 - Longanimity"
+slug: 0048-chapter-1371-longanimity
+partOf: defiance-of-the-fall
+position: 48
+ownLength: 3118
+unit: words
+publishedAt: 2025-10-28
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2712292/chapter-1371-longanimity"
+royalRoadId: "2712292"
+---
+
+“What are you thinking about?”
+
+Zac looked up and saw that Ogras had returned. Zac and Tavza had been waiting by the gates while the demon made a quick sweep of the outpost in search of hidden information and other opportunities. Tavza busied herself with studying the compasses and the seeds of the [Ketumati Lotus], while Zac was lost in thought.
+
+“I was thinking about the Templar’s parting words,” Zac said after the demon had erected a shroud of insulating shadows. “Saying that the journey was as important as the destination didn’t seem like a general suggestion. Meanwhile, the differences between the Outer Courts are becoming more apparent the further we progress.”
+
+Ogras nodded in agreement. “So I noticed. Do we need to change our plans?”
+
+“I think the availability of merit inside the Hollow Court is lower than in the Mercurial Court. We might not have enough points to achieve our goals when we arrive if we rush headlong through the layers,” Zac mused. “If so, performing well here is more important than the challenges.”
+
+If his suspicions were correct, his two bodies had reached the same stage of the trial. His Draugr side was sending updates on his exploration of Citadel, and he was currently heading toward the Peregrine Isles to farm Potentiality. It was very similar to their current task. Out of curiosity, Zac infused some mental energy into the compass given by General Vatnus. No prompt listing merit appeared.
+
+Like a proper compass, it simply pointed in a certain direction. Zac shook his head and stowed it again. “The priest should have noticed we were in a hurry to catch up, seeing how the trial started a few months ago.”
+
+“It wasn’t the only hint,” Tavza said as she stepped through the wall of shadows.
+
+“Come right in, won’t you?” Ogras muttered under his breath.
+
+Tavza treated Ogras’s comment as air, continuing unabated. “Our farming task above ground and the need for ‘longanimity’ to be awarded a nucleus from the Temple of Fertile Earth tested our patience. They’re urging the Sealbearers not to rush blindly to the Hollow Court. They’re not opening their gates out of generosity. They need our accumulated Fate to reinforce the bond between the Lower Planes and the Left Imperial Expanse. Only by furthering the cause will we be rewarded.”
+
+“I think you’re right. It doesn’t change the overarching plan; we’ll just have to put a little bit more effort into completing these tasks,” Zac said. Seeing no point in asking Tavza to leave, he continued the subject. If he and Ogras had something to discuss in private, they could always do so telepathically. “How about things on your end?”
+
+“Nothing worth mentioning. There are three factions who are licensed to trade through this realmgate. They generally stay one or two days before setting off toward Kabaton together. Safety in numbers, and all that. Between those visits, the outpost may as well be in hibernation. Us Sealbearers visiting is the most excitement the soldiers stationed here have seen in years,” Ogras said.
+
+“Did you figure out—”
+
+“One hundred fifty-three have passed through this outpost already, and there’s at least one more. It’s impossible to say how many of them are our kind,” Ogras said. “The journey to Kabaton should take a week, but who knows if that holds now.”
+
+“And the bazaar?”
+
+“There’s no point in waiting for it to reopen. It’s just a bunch of requests from the soldiers stationed here right now. The merchants bring it while passing through and sell the items at a terrifying markup. We have a better hope of finding good stuff in Kabaton, provided it’s like this place.”
+
+“What about that big building?”
+
+“Not sure. Not even the locals seem to know. Only a handful have access, and Sealbearers are not among them.”
+
+“It’s a tuner,” Tavza said, gazing at the pillar of life. “It harmonizes Poised Meadow’s Dao of Life with the Left Imperial Expanse’s broader Heaven. I believe this outpost is both part of the continent and the Lower Planes. They are being merged through Faith and Destiny.”
+
+The theory aligned with Zac’s suspicions, seeing as Poised Meadow’s aura was naturally woven together with the camp’s Imperial Faith. Whether the outpost and Kabaton’s main purpose or the task given by General Vatnus, they were the same as what Joyful Gardens were doing with their Garden Spirits.
+
+“There’s no point in us sticking around, then,” Zac grunted as he got to his feet. “Let’s get going.”
+
+The trio once more displayed their credentials to pass through the outer gates. An obscuring mist stretched all the way to the domain’s edge, stopping them from observing the beyond. A few tests confirmed there was a stable environment on the other side, at which point Zac stepped through to check things out. The mists parted, and Zac finally got a proper look at Poised Meadows.
+
+It would have been reasonable to expect a huge forest waiting outside. In reality, Poised Meadow more resembled the Calamity of the Perennial Vastness, with a smattering of small worlds floating about like an endless asteroid field. Then again, the chaos of the enormous storm was completely absent, replaced with an absolute tranquility Zac hadn’t expected from a Life-attuned realm.
+
+There were hundreds of floating islands in view, not two of them alike. Some were no larger than a football field, while others were the size of his island back home. The only thing unifying them was their powerful lifeforce. The islands were alive, and not in a vague, abstract sense. A few islands reminded Zac of Mossy, a large mass of plant matter. Other lifeforms took on shapes from the natural world. There were mountains, floating fields, even rivers and storm formations.
+
+Just as many were born from manmade objects. There were more than a dozen floating buildings within view, all of them exhibiting a powerful spark of life. There were also sculptures and large objects Zac couldn’t identify. Zac guessed they were things left from the Limitless Empire that had long since gained sapience thanks to Poised Meadows’ unique atmosphere.
+
+An almost faded aura of ancient resentment indicated that not all the structures were relics left by the Limitless Empire. The massive war that swept across the Left Imperial Expanse in its final days had reached Poised Meadows, so some of the islands could be made from items left by the invaders.
+
+The memory domain was fastened to a large seashell, with the closest island being a large temple that Zac actually recognized. While some incomprehensible changes had been made, it was the church of the Order of Fertile Earth they’d just visited—the real one, and not part of a memory. Apart from Tam Brooks’ grave and Mercurial Court’s ruins, it was the first proper relic connected to the memories.
+
+Seeing it indicated that this section of Poised Meadows had been hidden from the Heavens. Otherwise, the temple would have been tainted by the Empire’s sin and suffered the same misfortune.
+
+Staying hidden in the Lower Planes came at a cost. The temple was now a living entity like the rest of the islands, and it had noticed Zac’s appearance. He felt himself being observed through a powerful perception. It only reached the depths of a Late D-grade cultivator, but like Mossy, it had a scope exceeding the limits of its grade.
+
+The temple wasn’t the only local to notice Zac’s arrival, perhaps because he had to rotate his Daos to shield himself from the environment. The outpost’s protective aura had kept Poised Meadow’s influence suppressed, and it was now trying to awaken life in both Zac and his belongings.
+
+Dozens of locals inspected the unfamiliar presence in their midst. Zac wasn’t sure how to react, so he simply bowed in greeting.
+
+“Hello, I’m just passing through the area.”
+
+Like their scattered appearance, the locals all had their own thoughts about a foreigner appearing among them. A few islands trembled and began adding more distance, though silently and careful not to encroach on a neighbor’s domain. Others wanted to draw closer, either out of curiosity or spite. Most didn’t react at all, perhaps unable to hear him or process the message. They were content staying within their own bubble, absorbing the generous Life-attuned energies.
+
+None of the odd lifeforms actually came over. Zac had a feeling that the memory domain had a deterring effect. It created a safe zone that allowed Zac to inspect the environment for threats. After minutes of waiting and fully releasing his aura a few times, Zac confirmed the most important point: his presence didn’t draw the Realmlord’s attention, nor the attention of any high-grade locals. Only at that point did he signal his companions to enter.
+
+“The compass still works,” Ogras commented while looking around with interest. “It feels like an aired-out cellar.”
+
+The description was surprisingly apt. The Dao of Life, while more invasive than in the camp, paled compared to the unfettered Life flooding out of the Joyful Gardens’ realmgate. Their current location could barely match the spiritual intensity of the Left Imperial Expanse, and there was decay hidden within the Dao of Life. At the same time, there was a sense of freshness, as if the realm had begun recovering its damaged vitality.
+
+“I think this section of Poised Meadows was made part of the Left Imperial Expanse. There is an undercurrent of Imperial Faith keeping the memory domain running, and I can feel the influence of Imperial Destiny,” Zac said. “Perhaps this border region was finally reconnected to the real garden when the continent resurfaced for the trial.”
+
+“These are preserved remnants touched by forbidden history,” Tavza said, staring at the nearby temple with a complex gaze. She continued in a barely audible whisper, “What is dead may rise anew.”
+
+“What’s that?” Ogras asked while Zac looked at Tavza thoughtfully.
+
+“Nothing. It’s just something I heard before entering the trial,” Tavza said, her inscrutable expression having returned.
+
+“Are you okay?” Zac asked, inspecting the cloud of Abyssal Death surrounding Tavza. It kept her safe from the Dao of Life. More interestingly, Zac could barely sense it despite standing only a few meters away. Tavza had combined exquisite control and novel applications of Oblivion to create a powerful masking effect.
+
+“You should look after yourself before worrying about others,” Tavza said, pointedly looking at Zac’s feet.
+
+Zac swore when a spiritual fluctuation erupted from his shoes. They were a simple pair of Early D-grade boots that couldn’t even augment his speed. They could create a layer of isolation between him and the energies seeping from the ground, but he mostly wore them for comfort. He had a dozen pairs like them inside his Spatial Ring, seeing as they occasionally broke in battle.
+
+He’d been so focused on protecting the seed and his important treasures that he’d overlooked the life pouring into his shoes from the ground. Initially planning to suppress the surge, Zac chose not to interfere with the process. It was an opportunity to witness an awakening, so he just took the shoes off and placed them on the ground.
+
+The three watched with interest as the leather began to twist and grow fur while frantically drawing energy from the environment. The process actually garnered a stronger response from the locals than their arrival, but it didn’t last long. One by one, hundreds of perceptions retreated, and Zac quickly understood why.
+
+Instead of reaching the threshold to crystallize a consciousness, the energy accumulating inside the pair of shoes rapidly began to destabilize. Tavza waved her hand, sealing them in a cage of transparent water before they exploded. Dispersing the containment, the energy was returned to Poised Meadows, along with scraps of leather drifting off with the wind.
+
+“Poor things, awakening spirituality with the ingrained memory of your sweaty little piggies,” Ogras laughed. “I can see why they took the easy way out.”
+
+Zac ignored the demon’s jab. He was more interested in the mechanics of the awakening, or rather the reasons for its complete failure.
+
+“We can’t let the seeds evolve this way. The results are unreliable, and it’ll be extremely dangerous. There needs to be some form of control,” Zac muttered.
+
+“Location matters. Your shoes took on some of this plateau’s nature. Even if it’s a small part compared to the item’s own spirituality, it adds an unstable heterogeneity. We have two options. The first is finding an untainted source of Poised Meadow’s Dao of Life, where the pressure on us to manage the awakening will drastically lessen,” Tavza said, nodding at the temple ahead. “The second option lies within.”
+
+Zac realized that Tavza wasn’t talking about this specific temple, but rather the aura it emitted. Due to its origin with the Order of Fertile Earth, it carried a much stronger trace of Imperial Faith than the other lifeforms. There would be fewer problems with awakening the seeds in its presence since their spirituality had more common ground. The temple was also one of the lifeforms that communicated goodwill toward them, so it was unlikely to lash out at them during the process.
+
+“We should probably hold off on awakening the seeds until we’ve found Kabaton. It’ll give us a chance to look for better options along the way. We also don’t know what kind of reactions a successful awakening will trigger. The other creatures might see it as a threat,” Ogras suggested. “Considering the terrifying amounts of energy inside the seeds, we might not be able to control them after their awakening. Things will be easier if we can quickly drag them into Kabaton before things spiral out of control.”
+
+“I’d still like to inspect this structure. There might be important recordings left inside,” Tavza said. “This trial is centered on changing the past and avoiding the disaster that befell the Limitless Empire. To do so, we need to better understand what went wrong.”
+
+“We’ll have to interact with quite a few locals to reach our destination. It’s not a bad idea to have an exchange with a friendly one first,” Zac agreed, and the three flew toward the waiting temple. Problems arose the moment they stepped off the enormous seashell.
+
+“Damn, the whole chasm is alive!” Ogras cursed.
+
+“Go!” Zac said, feeling a vast presence slowly gather at their position.
+
+It was as though all the empty space between the locals was part of a mind-bogglingly huge creature. It was too early to say whether it was friendly or hostile, and Zac had no interest in finding out. The attention of such a powerful entity could be deadly even if it was without malice. It didn’t matter which grade it was. Like Mossy, such a powerful consciousness would effortlessly be able to overwhelm their souls.
+
+The three picked up their speed, zipping across the chasm. Below were two more layers of locals. There could very well be even more, but a layer of green mist obscured their vision. The view disappeared as they landed on the temple stairs, and the oppressive feeling vanished with it. However, they weren’t given the time to relax before the temple came alive.
+
+The row of pillars by the entrance detached from their base with a rumble, inching toward Zac’s group like the tentacles of an octopus. The columns didn’t exhibit the properties of stone, bending and extending as if they’d been turned into rubber. Patterns of life decidedly different from the Limitless Empire’s heritage lit up across the pillars as a wave of Divine Energy swept over the three.
+
+The tendrils stopped before Zac a little longer than Ogras and even longer on Tavza. Just when Zac feared the temple would reject her presence, the tendrils returned to their original position. The main gate had remained open throughout the process, but the idea of stepping inside left Zac leery. Between the malleable stone and the steady stream of energy pouring into the opening, the gate felt more like the maw of a disguised beast.
+
+Still, they were certain the temple was only the equivalent of a Late D-grade Beast King, so they carefully stepped inside. The temple seemed more surprised than alarmed at having visitors. Their actions may very well seem odd, and the creature was happy to accommodate their eccentricities. However, they didn’t get far before their exploration came to a halt.
+
+The nave was almost unrecognizable, nothing like the one they saw in the memory domain, and the rest of the temple was only accessible to Ogras’s shadows.
+
+“It’s all twisted and random. Hallways leading nowhere, rooms without proper entrances, and nothing resembling a maintenance array. I can’t find any preserved items. Unless the items are stored somewhere out of reach, this spirit must have eaten or discarded them,” Ogras said with annoyance. “Shouldn’t a natural-born Spirit Tool make more sense than this?”
+
+“You shouldn’t consider this a Spirit Tool. It’s a lifeform born without a Tool Spirit’s innate knowledge, closer to a Revenant’s awakening,” Tavza said as she looked around. “I encountered something similar to this when exploring the Imperial Graveyard. In that case, a fortress had come alive due to the installation of an incompatible formation. Only the areas with intact defenses were preserved in the castle. I cannot sense any lingering traces of arrays here.”
+
+“Should we try asking? It’s clearly watching our every move,” Ogras suggested, raising his voice. “Hello? My friend, you don’t happen to have some junk taking up room? We’ll be happy to take it off your hands. Jade and gold, we do it all.”
+
+There was nothing.
+
+Zac gave it some thought before taking out his Token of Fertile Earth. “My friend, could you lend some assistance?”
+
+A powerful fluctuation immediately slammed into Zac’s mind. His vision moved beyond the physical confines of the temple and the spiritual confines of his soul. It sailed down a vast river invisible to the naked eye, moving toward the heart of the universe as the temple knew it. Soon enough, Zac noticed thin, hidden threads below the surging river and the countless lives drawing on it for sustenance.
+
+It was unblemished groundwater providing the river with its lifegiving gift. Zac traced their origin, moving closer like a fish swimming upriver. The river grew more powerful, as did the lifeforms living in symbiosis with it. Zac could feel his body and soul back in the temple tremble with hunger and had to contain himself lest he triggered his Void Emperor Bloodline again. Then, he saw the source.
+
+The drop shimmered with archaic light, millions upon millions of patterns that were both profoundly complex and inexplicably simple. A wellspring of Life filled with boundless grace.

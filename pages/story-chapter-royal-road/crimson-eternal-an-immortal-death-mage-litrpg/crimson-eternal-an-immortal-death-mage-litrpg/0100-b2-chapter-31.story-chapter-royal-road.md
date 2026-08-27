@@ -1,0 +1,133 @@
+---
+id: d552a90e-abdf-582b-aa86-a5e341f94eb4
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 31"
+slug: 0100-b2-chapter-31
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 100
+ownLength: 1535
+unit: words
+ownProgress: 1535
+publishedAt: 2024-02-13
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1516986/b2-chapter-31"
+royalRoadId: "1516986"
+markedReadAt: "2026-06-29T19:09:20.348Z"
+---
+
+The Carrier
+
+Eamon Byrne lets out a sigh of relief as a message comes in from the stallari of the Byrne Clan’s military. A sigh that has the other two council members standing on the bridge of the carrier with him sending him looks.
+
+He quickly answers their unasked questions with a simple, “Tha plan in tha mountain fortress was mostly successful.”
+
+Both of the council members let out sighs as well, only to pause, with one of them asking, “Mostly?”
+
+Eamon frowns at this but answers anyways, “Aisling was leadin tha charge.”
+
+That crashes their previously brought up hopes as they begin to ponder over what sort of effects it could have on the war as a whole. But the blaring of a fog horn snaps them out of it, making them look out the window of the bridge, through the heavy rain and at the horizon.
+
+Where they soon spot enemy ships approaching.
+
+“We need ta let tha Clan Leader worry ‘bout them,” Eamon says, a frown on his face. “Our priority is tha approachin forces.”
+
+Both of the other council members nod their head in agreement. Then all three of them rush out of the bridge, going into the rain outside as they each prepare their spells to support the carrier and the small fleet of ships surrounding them.
+
+The marine forces of the Byrne Clan have the greatest advantage of the four forces in this war belonging to the Clan. Simply due to a marine battle being largely focused on weaponry over personal levels and abilities.
+
+However, Eamon and the other council members make sure not to grow overconfident due to this.
+
+Since just because that’s true, it doesn’t mean Ability Holders can’t turn the battle around on them.
+
+Especially if they’re powerful enough.
+
+“Begin tha defense!” Eamon shouts into the mic on his armor’s collar, his words echoing into every radio and phone belonging to the forces on their side of the encroaching battle.
+
+We must win, otherwise the capital will be lost.
+
+The Coastal Fortress
+
+Flachra Byrne smirks after hearing the message before immediately forwarding it to the other two council members serving at the coastal fortress, not taking her eyes off of the attacking ships. Meanwhile the cannons arming the fortress – each enhanced with special magic to make them nigh impossible to destroy from the sea while arming them with shots that never miss – fire endlessly at the ships.
+
+Each shot blows a hole in one of the opposing ships, and each one costs dozens upon dozens of lives. But the enemy ships aren’t just taking the blows. They’re all pushing to land on the shore, striking at the barrier with their ships while ignoring the fortress. All the way till they finally blow a hole through the barrier, letting them reach the surface.
+
+The other council members grow slightly tense at the part of the news about the Clan Leader of the Sullivan Clan being at the mountain fortress, but at the end of the day, it’s good news, since the mountain fortress defeated their army.
+
+And because Flachra doesn’t want to be overshadowed by the mountain fortress, especially since she’s one of three Class S Ability Holders in the Byrne Clan, she covers herself and all of her forces in pure vital energy and jumps straight off of the fortress wall. She crosses clear above the waters before landing on one of the ships and slamming her fist into the deck, sending shockwaves through the ship and tearing it apart.
+
+The council member then does this to four more ships before a loud thunderclap echoes through the ships, making her jump backwards right as a bolt of lightning strikes right where she was just standing.
+
+She turns to look at the source of the lightning bolt, only to find one of the Sullivan Clan’s other Class S Ability Holders standing on the flagship of this fleet with an indifferent look on the man’s face and a staff in his hand.
+
+Flachra’s grin grows even wider at the sight of him.
+
+Let’s get this raid started.
+
+The Barrier Fortress
+
+Seadhna Byrne – Sean Byrne’s wife – stands at the edge of the barrier fortress with her arms crossed and a pensive look on her face. She had gotten the message about the victory at the mountain fortress a day ago, at the same time as the other fortresses, but ever since then she hasn’t been able to relax. And especially not after the third hearth retreated after having attacked the barrier fortress. Retreated not long after she got news of their victory at the mountain fortress.
+
+Currently the forces from the mountain fortress are stalled at the mountain fortress, and she’s heard that her husband sent a scout into the Sullivan Clan’s territory. One that also has a secondary job of sabotaging the enemy forces if possible.
+
+From what Seadhna has seen of the Horseman of the Apocalypse, she believes that sabotaging them shouldn’t be much of a problem. But at the same time, she still finds it difficult to trust a Horseman. Regardless of how much help the Horseman has given them.
+
+Just from her and her husband’s previous experience dealing with War.
+
+Even if she realizes that this Horseman is very different from him.
+
+Seadhna lets out a sigh, only for something in the corner of her vision to catch her eye. So she narrows her gaze at it for a few seconds, following which her eyes widen in both shock and fear. Then she pulls a remote from her pocket and presses a button on it, sending the alarm blaring through the fortress.
+
+Fuckin’ hell! So that’s their plan?!
+
+‘Attention all officers, enemy scout spotted near tha cliffs north of tha barrier!’ she shouts into the communication ring on her finger through telepathy.
+
+After that she sends word to the other fortresses about the attack.
+
+I hope Sean gets here soon enough.
+
+The mountain fortress forces couldn’t leave the mountain fortress without knowing exactly where the third hearth was located and what Aisling was planning. Because for all they knew, she could’ve been planning to trick them into heading to the barrier fortress so that she could then assault the mountain fortress again.
+
+But it also left the mountain fortress forces stranded without being able to do much of anything. While also leaving the barrier forces tensely awaiting an assault.
+
+And if Seadhna’s hypothesis is correct, then they’re most likely going to pull repeated attacks, pulling out soon after each attack before reattacking again soon after. All to keep the mountain fortress’s forces away and on guard for an attack at the mountains.
+
+Because even if they can guess that’s what they’re doing, they can’t take the risk that they’re planning a second attack on the fortress.
+
+“Damnit,” she mutters while narrowing her eyes on the scout. “All this shit cause o’ that Clan Leader.”
+
+Aria
+
+I’m starting to wonder if I should just add sabotage to my nonexistent resume. Because at this point, I’ve gone on more sabotage missions than I can remember. Or, at least, more than I can count on one hand. Which is not more than I can remember, but the saying sounds better, so…
+
+This time Rory is joining me for the sabotage at least. So there’s that.
+
+I kind of wonder what Shirogane is doing back in the capital right now though.
+
+My brows furrow as I imagine the guy just lying back, relaxing while we’re out here fighting a war.
+
+Which I know is probably not true, but still.
+
+In all honesty, the man’s probably out doing business right now. What with him being an Eight Star Merchant and all.
+
+While Rory and I march in silence to follow the trail of snow and ice marking a certain Clan Leader’s escape, I play around with my soul fire. Just practicing it and seeing what it can do.
+
+I even try it on myself at one point during our trip.
+
+Then immediately decide never to do that again. Because it hurt. Bad.
+
+For some reason I get the feeling the soul fire burns the souls of anyone it burns. Not just their physical body. But I don’t really have much to back that up.
+
+Other than the whole soul fire name, of course.
+
+I might ask the Clan Leader about burning souls after the war is over. Or at least after this campaign is over.
+
+Because I don’t exactly know what it entails, or if it’s even healable. I don’t know if people are able to do it, what would happen if I burn someone’s soul to a figurative crisp, or whether what I’m even doing really is burning their soul.
+
+All I know is an instinctive feeling and the pain that I got when I burnt myself. Which was probably the worst pain I’ve ever felt in my life.
+
+And that’s sayin something considering the many different types of pain I’ve experienced.
+
+My thoughts come to a halt when Rory raises her hand and whispers, “They’re near.”
+
+I immediately stop messing with my soul fire and tense up a little.
+
+Time to start the mission.

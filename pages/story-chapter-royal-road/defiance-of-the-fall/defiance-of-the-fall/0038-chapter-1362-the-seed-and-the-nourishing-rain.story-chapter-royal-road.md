@@ -1,0 +1,163 @@
+---
+id: a58468cf-7613-57d7-9f77-88d4927d68d2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,362 - The Seed and the Nourishing Rain"
+slug: 0038-chapter-1362-the-seed-and-the-nourishing-rain
+partOf: defiance-of-the-fall
+position: 38
+ownLength: 2989
+unit: words
+publishedAt: 2025-10-05
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2653786/chapter-1362-the-seed-and-the-nourishing-rain"
+royalRoadId: "2653786"
+---
+
+“One’s Cosmic Core is the seed, and the Cultivation Manual is the nourishing rain that makes it sprout into a world. The Cultivation Manual controls which materia is drawn from the Cosmic Sea. The better the manual’s quality, the faster the process will be,” Tavza said. “Neither Core nor manual can be lacking when aiming for a perfect outcome.”
+
+Zac would be lying if he said he was unbothered, but he’d long since grown used to the problems mortals faced when defying their Destiny. “How does a C-grade bloodline factor into the breakthrough?”
+
+“There are various methods that can assist the process—any proper Heritage would hold a few unique techniques or cultivation grounds. Advancing one’s Bloodline could be considered a superior external method. A C-grade Constitution naturally exerts a slight pull on the Cosmic Sea, so it can complement one’s cultivation manual,” Tavza continued to explain. “Nevertheless, external methods are just that. No matter how many you collect, they can’t replace the function of a Cultivation Manual. They’re only the crowning stroke.”
+
+“If your manual and constitution clash, advancing it early might do more harm than good? I assume the constitution would pull materia that matches itself rather than your manual’s affinity,” Ogras asked.
+
+“I suppose,” Tavza assented after a slight pause. “Although, I would expect anyone ready to open their Inner World to have already harmonized their path.”
+
+“If external methods aren’t enough, how are mortals making it across the threshold?” Zac asked.
+
+“Your Inner World would naturally draw on the Cosmic Sea until you reach equilibrium,” Tavza said, matching what Zac had gathered from the notes left by Daoist Hidden Earth. “Naturally, this process is very slow, and you will reach equilibrium long before your Inner World has formed. This is why mortals have to open a proto-space instead of following the upper path. Adding a thousand years of accumulation is barely enough to form a Low-quality Inner World, provided you have prepared sufficient methods.”
+
+“How long does a cultivator’s breakthrough last?”
+
+“It depends on one’s foundations and the quality of the manual. Six months at the lowest, and three years is generally considered the limit,” Tavza said. “Keeping one’s Inner World in a state of reformation longer will do more harm than good.”
+
+“Like trying to modify a Skill Fractal after it’s already stabilized,” Zac surmised. “Which means mortals have to struggle for a thousand years instead of three, only to end up with an Inner World that isn’t properly fused.”
+
+“There are certain methods to force the gathered materia to fuse and condense, but I fear they cannot compare to the bond forged at the beginning of the process,” Tavza hesitated for a moment. “Worse, most mortals can’t gather enough materia to reach critical mass, even with a thousand years of accumulation. They’re forced to rely on external treasures, which will further diminish the outcome.”
+
+“Diminish how?” Zac smiled and waved his hand upon seeing Tavza’s hesitance to answer. “It’s okay. This isn’t my first rodeo. I overcame these problems during my Core Formation, and I’ll do the same for my Inner World.”
+
+Tavza slowly nodded. “The materia drawn from the Cosmic Sea is pure and unsullied, like Primal Dao. It’s neither claimed by Heaven nor Earth, perfectly malleable. There are naturally exceptions to any rule, but the foundation of an Inner World is best made solely with the help of the cosmos. On the other end of the spectrum are the alternative paths.”
+
+“Alternative? Like unorthodox?” Zac asked.
+
+“Mostly, but not exclusively,” Tavza lightly nodded. “The most common example is stealing foundations. Instead of forming your own world, you steal someone else’s. It’ll never match as well as something you’ve made yourself, but it might be better than the alternative.”
+
+“Better than cobbling together a dead piece of land that can’t even reach the threshold of an Inner World?” Zac said with a smile, suddenly having a decent idea of how Galvarion entered Monarchy.
+
+There were no explanations of how he crossed the threshold, but there were vivid descriptions of how he settled grudges, killing everyone who’d crossed him over the years—including C-grade clans. Rather than removing threats before his impending ascension, he might have been hunting for aging monarchs whose Inner Worlds would be easier to seize.
+
+“It’s not only mortals who follow this route. Cultivators can mitigate some of the significant downsides since they can gradually reform the Inner World with their Cultivation Manual,” Tavza said. “In either case, I don’t think this is an option for you. Your path is too unique. You would have a higher chance of finding an actual planet that suits your needs than finding a Monarch with a matching Inner World.”
+
+Zac and Ogras asked a few follow-up questions, after which most of the tension in his shoulders lifted. The situation could have been much worse, and learning that mortals following the orthodox path also relied on drawing materia from the Cosmic Sea was great news. He wouldn’t have to gather a mountain of suitable materials as he did before Hegemony.
+
+The challenge of Monarchy was figuring out a way to draw enough of the correct materia from the Cosmic Sea. The drawing part couldn’t be considered a problem thanks to the Void Emperor bloodline. So long as he got his bloodline going, Zac was even confident he could match the absorption rate of cultivators and complete the process within the optimal three-year period.
+
+The problem was getting his hands on the right materials. From how Tavza described it, the Cultivation Manual wasn’t just responsible for pulling attuned materia from the Cosmic Sea. It was also responsible for ensuring only the right materia was attracted. That was why most cultivators would customize their manuals before breaking through. That way, the Inner World would perfectly match their Daos.
+
+If Zac simply opened a bunch of Void Vortices inside his proto-space, there was no telling what he’d attract. His bloodline was an equal-opportunity glutton, making no distinction between attunements or materials. That also invalidated any plans of turning the hidden Void in the depths of his bloodline into his Inner World. He’d hoped it could give him a head start since it was filled with plenty of refined rubble, but most of it was useless. Instead, Zac suspected his personal Void was connected to the weight of C-grade bloodlines.
+
+After the talk, Zac could already see the path forward. It still had many details that needed to be figured out, but Monarchy had gone from a hazy aspiration to a goal that could be broken down into specific steps.
+
+“More than anything, don’t rush your progress. Even with the matchless opportunities we’ve encountered across the Left Imperial Expanse, it’s unlikely any trialtaker would take that step inside. At most, a few might encounter the opportunity to perfect their core ahead of schedule,” Tavza said, which reined in some of Zac’s newfound confidence.
+
+Forgetting that everyone inside the trial was rapidly advancing would be a deadly mistake. Ogras had elevated his constitution and his Daos. He’d also encountered an opportunity that greatly boosted his soul in one of the memory domains Zac had been unable to enter because of Mox. He was already eyeing Late Hegemony and would be ready after a few more months of fortuitous encounters.
+
+The same was true for the competition. There were almost three dozen halos spread between the nine Outer Courts, and each one represented a fate-changing opportunity.
+
+“I’ll take things one step at a time. I won’t take any crazy risks,” Zac said, ignoring the demon’s exaggerated eye-roll and Tavza’s obvious reservations.
+
+“So long as you’re aware. Now, I believe you promised to explain what happened after we split up,” the Draugr said.
+
+Zac nodded and quickly recounted what happened after he entered the realmgate inside the Mousetrap. It didn’t take long, considering only a few minutes passed between splitting up with Tavza and falling unconscious from the four Supremacies’ overwhelming auras. Naturally, he didn’t mention any parts related to the Void, including how the Hollow Court’s Margrave arrived.
+
+Unsurprisingly, Tavza placed the greatest weight on the Primo unexpectedly joining the battle. “The Lord descended through you? Are you certain?”
+
+“As certain as I can be, given the circumstances,” Zac nodded.
+
+“Did he say anything? He should have noticed traces of his mark on you,” Tavza asked.
+
+“Nothing. His eyes just appeared and started spreading death. I spent so much time unconscious because of its lingering touch,” Zac said, finally asking the question that had been on his mind for a while now. “Is the Primo a Realmlord of the Eight Hells?”
+
+Those terrifying, propagating eyes were too similar to what he’d seen from Kālasūtra’s Realmlord not to make the connection. It would also explain why the Primo had been conscripted for the construction of the Hollow Court and why his treasure was needed. Whatever the Limitless Empire commandeered from the Primo was probably turned into the core of the bridge to the Lower Planes.
+
+Tavza didn’t immediately answer. Zac’s brows rose as one of her three abyssal Array Disks appeared behind her. The next moment, the cave disappeared and was replaced by utter Abyssal Darkness.
+
+“The Lord is not part of the Eight Hells. The Lord should somehow be connected to the Ninth Hell, the untraceable darkness beneath Avīci. He might be its Realmlord. He might not. The Ninth Hell shouldn’t even exist under this Cosmic Order, and in some sense, it might not. It’s an enigma and paradox obscured by Chaos.”
+
+“What—”
+
+The darkness shattered, and Zac was back in the cave. Ogras warily looked around before settling on Tavza, who appeared paler than usual and was covered in small fracture wounds.
+
+“I’m sorry, I shouldn’t have asked,” Zac sighed.
+
+Not even the descendant of an Abyssal Lord was spared the Undead Empire’s commandments, and her techniques could only mitigate the backlash of divulging core secrets of the Emperor.
+
+“I planned on explaining this matter even if you didn’t ask,” Tavza calmly said as she ate a Healing Pill. “Considering our path forward, it might become important for our mission.”
+
+Zac glanced in the direction of the ruins. Even inside the hidden cave, he could vaguely feel the aura of the Lower Planes and the Inverse Peak. It permeated the very bedrock of the layer they were on. Tavza was most likely right. When it came to the Hollow Court, whether it was their mission or the court’s secrets, they all pointed in the same direction.
+
+Turning back to Ogras, Zac asked another question that was on his mind. “What happened on your end?”
+
+“Things went according to plan. We infiltrated the Rosemore Sect’s hidden base and installed Miss An’Azol’s modifications to the jammer. Soon enough, Imperial Faith started draining at an alarming rate, and spatial tears appeared all over. Our attackers couldn’t see them, though,” Ogras narrated. “We figured that was our cue. On our way out, we snatched this thing.”
+
+Zac curiously looked at the ancient cube, recognizing the telltale signs of the mysterious Evi’Shi who had erected the mousetrap. Unlike the teleportation cubes, this small cube was clearly an original creation. Not only that, but it was significantly more exquisite than what Zac had seen in the temple. It was covered in countless runes and was made from at least Late C-grade materials. Most importantly, it emitted a distinct aura of Law.
+
+“This little guy was directly connected to the jammer. We think it acted as a key that linked the jammer with the shelter. We also believe it holds even greater secrets, though Miss An’Azol hasn’t been able to figure out what.”
+
+“I’ll be able to uncover more now that I’m not indisposed,” Tavza said with some exasperation, though Zac also noticed a hint of tempered excitement. Tavza was a historian, and she was clearly eager to excavate the cube’s secrets. “We know it’s related to the Law of Cosmos, specifically the rules separating the energy of Prime dimensions from Lower Planes.”
+
+“We think,” Ogras coughed. “Ahem, Miss An’Azol believes the Evi’Shi used their understanding of Law to create their shelter at the crossroads of the Lower Planes and the Left Imperial Expanse. So even if we can’t figure out this thing’s use, it might be valuable to the Hollow Court. We could trade it for some favor if all else fails.”
+
+“Sounds like something the Margrave would like,” Zac agreed. “And what about Ventus?”
+
+“The moment we jumped through the spatial tears, the guy pushed this thing onto me and told me to run. Meanwhile, he started peppering me with attacks,” Ogras shrugged. “Moments later, he was helping his new teammates calculate my location. However, they stopped their pursuit after two days, and we haven’t seen them since. The guy’s scheming.”
+
+“They couldn’t catch you with or without Ventus’ help, so he could have escaped with you,” Zac said with a thoughtful frown. “Was it planned, or do they have something on him?”
+
+“Your guess is as good as mine,” Ogras shrugged. “Either way, we have no idea where they went. Probably down another route.”
+
+“We’ll see if we run into him again,” Zac sighed. “What did you do after splitting up?”
+
+“The Hollow Court’s arrangement is slightly different from the other intelligence our agents have gathered,” Ogras said, ignoring Tavza’s raised brow. He was naturally referring to the information on the Mercurial Court while pretending otherwise. “We only found one large memory domain outside, and it didn’t exactly present a trial. Still, we managed to earn some merit.”
+
+“Both of you?” Zac said in surprise, glancing at Tavza.
+
+Ogras explained, “It was just a big farm. We were handed a hoe and told to get to work after displaying our identities as sealbearers. We spent ten days tilling the field and nurturing some plants until it was time to go. Miss An’Azol somehow ended up with a greater reward than I did, though that might be because I occasionally ventured out to look for you.”
+
+“It was a matter of gratitude and reciprocity,” Tavza said, giving the demon a sidelong glance.
+
+“Maybe,” Ogras shrugged. “Either way, there didn’t seem to be many farms around. There might be more spread out, but the reward isn’t great enough to motivate the travel and time. Since I finally caught your scent in the hole, we decided to start our descent.
+
+“The idea is to just keep going down until we reach the bottom?”
+
+“Yes, and there are three general ways to go about it,” Ogras said.
+
+“The normal layers have hidden pathways like the one we used to get here,” Ogras continued. “There are also hidden Troves, but we haven’t found any real way to search for them. It seems to be a matter of luck and fate, so I have high hopes now that you’ve rejoined us.”
+
+“I’ll see what I can do,” Zac said with a smile. “The layer we’re currently on is different from the graveyards. I thought I could feel the aura of the Lower Planes from the ruins.”
+
+“Exactly,” Ogras nodded. “I guess you could say these are central layers. The most important difference from the graveyards is that there are no hidden pathways leading to the next floor. Jumping down is also impossible. Instead of deadly winds, there’s something like an absolute chasm. The next layer may as well be on the other side of the continent.
+
+“I guess we have to make our way through the Lower Planes to reach the Hollow Court?”
+
+“That’s the theory,” Ogras nodded.
+
+“Theory?”
+
+“You were dropped off close to the top, so we haven’t actually passed any major layers yet,” Ogras explained. “I just took a sneak peek on the other side. It’s filled with life, so I’m guessing it’s one of the gardens. Bringing the miss through in her previous state would have been… ill-advised, so we decided to stick around.”
+
+Zac saw Tavza’s brows flicker with annoyance upon hearing the “we,” and he had to suppress a smile. Apart from the kidnapping, spending some time with normal people might actually do the heiress some good. Zac could see some of the same isolation on her as he saw in Iz.
+
+If nothing else, being constantly annoyed by Ogras could help temper her Dao Heart while training her social skills. Tavza was a wealth of knowledge, but she was also undeniably somewhat rigid. The trial needed them to take on the identity of others, and not all interactions could be avoided by hiding within her personal Abyss.
+
+“Life… Another Garden? Or the Unbounded Pastures?” Zac asked.
+
+“Should be a different one. It has a very different feel to it,” Ogras said, scrunching his face. “And not a good one.”
+
+“Going by Mr. Azh’Rezak’s description, it should be the Fifth Garden, Poised Meadow. Its essence of Life is centered around the spark that begets the Soul and sapience. If not careful, its environment can trigger the birth of a new consciousness, creating a dangerous mental schism.”
+
+“Girl, you must have realized that when we inspected the entrance. Why didn’t you mention that when I went ahead to check things out? I almost got my ass—” Ogras withered under Tavza’s even stare. “Anyhow. It’s not necessarily a real Realmgate. There’s a memory domain on the other side.”
+
+Zac slowly nodded, having a rough idea of what was going on. The Hollow Court was responsible for using the Nine Gardens and Eight Hells to support the Left Imperial Expanse. The Joyful Gardens was one of the anchors connecting the two sides, though Zac suspected it was only a minor anchor. The main bridge would naturally be the Hollow Court.
+
+“We’ll figure out the details when we enter,” Zac said, not without some anticipation. Kālasūtra’s Realmlord had warned him not to “return” too early, but Fate had other plans in store. “I guess we’re going realm diving.”

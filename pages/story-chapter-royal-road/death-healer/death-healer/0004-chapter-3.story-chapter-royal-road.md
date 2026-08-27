@@ -1,0 +1,257 @@
+---
+id: 2e867e9b-4090-5a9c-ab86-8a0477b3a49d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3"
+slug: 0004-chapter-3
+partOf: death-healer
+position: 4
+ownLength: 2763
+unit: words
+publishedAt: 2025-05-04
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2254571/chapter-3"
+royalRoadId: "2254571"
+---
+
+A [Librarian] passed a hand through over his bald head, pouring over a text he had just recently obtained. He was hiding in a basement in the Capital, perusing one of his stashes and occasionally coughing from the excessive dust accumulated there.
+
+I have better things to do than clean, the [Librarian] thought to himself.
+
+“Why can’t we defeat the Undead?” The man murmured. “Why hasn’t anyone since Pope Fulvius managed to master the Six Great Skills?”
+
+[Libranians], an illegal Class in the Papacy of Lumina and all its adjacent territories, were storers and dispensers of knowledge. Their whole existence consisted of accessing more and more niche and, at times, forbidden knowledge to distribute and preserve it.
+
+This one [Librarian], in particular, sought a solution to defeat the Necromonarch, Lumina’s bane and greatest nemesis. It had been prophesied by one too many [Soothsayers] that the next person able to master the Six Great Skills would be the one to whom even the greatest Undead would kneel.
+
+“But why hasn’t anyone managed to do that in recent history?” The [Librarian] sighed, looking at the book in front of himself. “The Six Great Skills to fill half the twelve spots of a Class—why is it so unlikely to happen?”
+
+Suddenly, the [Librarian]’s eyes went wide.
+
+“In His darnest Light,” the man swore, picking up a piece of parchment from under a giant pile of books and then a pen—it was written in a language only he among all [Librarians] he knew could understand.
+
+The Language of the Dead.
+
+He had learned it after decades of studying—it had almost killed him.
+
+But he just realized this contained the answer to everything.
+
+I need to teach Hadrian about this, the bald man thought. And he will have to pass this information on to Lucianus as soon as possible. Otherwise, we’re doomed. How could I be so blind? How could I not realize that the monster was…
+
+He drew the circle representing the Six Great Skills and then scribbled all over it. A second prophecy was formulated after the most famous one. One that wasn’t usually taken seriously since only one [Soothsayer] ever gleaned it from the ether.
+
+“Only the one reborn in Death will master the path of Life.”
+
+Famously, the Champions who tried to learn the Six Great Skills to have a claim on the next Pope’s mandate had to fully master Life Magic; that’s the Affinity you needed to learn all Six Great Skills. It was the opposite of the forbidden Affinity in Lumina—Death Magic.
+
+And that gave the [Librarian] a hint no one else had yet grasped.
+
+But suddenly, as the [Librarian] looked at the piece of parchment, his eyes widening in the understanding he had sought for decades, he suddenly heard someone shout outside and then rap on the door with their gauntlet.
+
+“Open up! By the Gens Iulia’s command!”
+
+The man’s eyes went wide, and he immediately started scribbling something on a piece of paper.
+
+“No, no—not now!” He gritted his teeth and wrote down as much as he could before slashing his palm open and clutching the piece of paper, murmuring an incantation.
+
+The piece of paper went up in flames, and the [Librarian] growled.
+
+It wasn’t information objective enough to access the Knowledge of the Empyrean archives that all [Librarians] shared. Only someone who could delve for long in the Knowledge of the Nether—a very high level [Librarian] ready to lose their mind and life—could ever glean something like this.
+
+As they kicked the door down upstairs, the man simply reclined in his chair, holding his face in his hands.
+
+“All this time… the solution was Death Magic… All this time.”
+
+He shook his head as he saw the [Inquisitors] running down the stairs, reading their spells to incinerate him and his research.
+
+“It was always him. It was always a ruse. Hiding it like this.”
+
+“Be ready to die, traitor!” The [Inquisitor] shouted, reading the Sacred Flame spiraling along his forearms like giant white snakes.
+
+“No one’s ever going to find out the truth,” the [Librarian] said to no one in particular. “No one born in Lumina will ever be able to figure this out.”
+
+Being the only one capable of learning from the most ancient texts and yet to be able to pass on his knowledge of the Language of the Dead, he had doomed the continent—perhaps much more than the continent.
+
+The spell took form on the [Inquisitor]’s hand and left, aiming right for the [Librarian].
+
+“No child born in this damned continent will ever find out the truth.”
+
+Moments later, half the basement exploded in white flames that consumed everything but the [Inquisitor].
+
+* * *
+
+A newborn girl giggled as she looked up from her supine position, seeing a beautiful blonde woman staring back at her. The woman was saying something, but the little girl couldn't understand one word.
+
+Yet.
+
+Ding
+
+A Divine Being gifted you ‘Trait - Myriad Tongue.’
+
+Myriad Tongue: you can fully understand, read, and speak any language.
+
+Suddenly, the sound the little girl had been hearing until that moment transformed into something else entirely.
+
+"You're so cute, darling," the woman said, gently picking her up from her cradle. "If a girl could ever be shaped like Our Lord, it would have to be you," the woman whispered gently.
+
+The girl felt a slight discomfort as the woman held her. Something was missing somewhere, something… important. Then, a word materialized in her head.
+
+Hungry.
+
+She started making sounds, moaning, trying to pass along the message. Thankfully, even though her means of communication were very rudimental, the woman seemed to understand.
+
+The woman liberated a plump breast from her tunic and attached her to it.
+
+"My Lily, my most beautiful Lily," the woman giggled in adoration. "Eat up, darling."
+
+Li-ly was the second thought the girl ever had. First, hunger came; second, the notion of self.
+
+After Lily was done, the woman covered herself, gently holding her against her chest. The little girl felt something churning inside, a prickling sensation as her skin touched her mother's. She couldn't quite understand what it was, but it felt like there was something around them, something in the air of the room that beckoned to her.
+
+Those sensations were cut short by her mother's sudden outburst: the woman’s breasts trembled and shook.
+
+"Daddy's not happy that he's got two girls in the house now," the woman sobbed. "He wanted a boy—an heir. But mommy's happy, Lily. Mommy's really happy." The woman kept silently crying as she cradled her.
+
+Although she was much too young to comprehend the meaning of those words, Lily nevertheless easily caught the emotion behind them. So, despite being unable to move her little neck, she stretched an arm, and her little hand brushed against her mother's face.
+
+The golden-haired woman was taken aback and shot her daughter a puzzled look.
+
+"Oh, darling, my bundle of Light," the woman sighed and held her tighter. "You're so sweet. Fret not. Our Lord would never make a mistake. We'll show Daddy. Your uncle said you might have even more magical talent than Cassius, his firstborn. Do you know what that means?"
+
+Lily just stared back and giggled like infants often do.
+
+For a fleeting moment, the mother thought she saw a hint of understanding in her daughter’s deep blue eyes.
+
+* * *
+
+Lily awoke to the sound of shuffling in the room, followed by a heavy thud as if something had fallen. Then, she heard a sigh and an unfamiliar male voice.
+
+"He promised me an heir," the man said with an edge in his tone. "An heir."
+
+Now, like before, she could feel the same disturbance in the air, something that she could almost grab. But the more she focused on that feeling, the more ethereal it became.
+
+More shuffling ensued, and a dark-haired man with olive, tan skin appeared above her cradle. His tan complexion and imposing presence struck Lily, but what caught her attention most was the frown etched on his face. As he bent down to take a closer look at her, his dark expression slowly melted away, replaced by a gentle smile.
+
+"Thank God you are the spitting image of your mother," the man chuckled, shaking his head and caressing Lily's forehead with his finger.
+
+Although Lily couldn't fully comprehend his words, she understood that the man's angst had dissipated, and she giggled in response.
+
+"Radiance take me," the man whispered, tears welling up in his eyes. "No matter what, you are a miracle."
+
+* * *
+
+Lily's days were spent sleeping and slumbering. She wasn't able to do much more than emit sounds whenever she was hungry or felt an uncomfortable presence below her bottoms. Thankfully, her mother was quickly able to resolve both. The first by nourishing the little girl herself, the second by saying one word out loud.
+
+“[Cleanse],” her mother said, and the little girl felt her clothes not sullied anymore. You are very healthy," the woman added with a laugh. “If you keep going like this, you'll have this old skill level-up.”
+
+Then, someone knocked at the door.
+
+“Yes?” Her mother said, protectively putting a hand on the cradle.
+
+“It’s Ennius, sister,” the voice said from the other side of the door.
+
+Her mother's face dropped lightly, and Lily could feel a shift in her mood. This time, the little girl felt the same disturbance in the air she had perceived before. She didn't understand whether it was related to emotions or what, but it felt more palpable, more real.
+
+"You may come in," her mother replied and picked her up.
+
+"Sorry for the intrusion, Adriana," a man with a crown on his head said, smiling at them. Trailing behind him was a boy with short, white hair and a scar under his left eye.
+
+Adriana shook her head as she cradled her daughter in her arms, "it's alright, Ennius. Hi, Cassius, dear."
+
+"In His Light," the young boy replied, looking curiously at the baby in the room.
+
+"In His Light," the two adults replied.
+
+"She looks like you, Aunt Adriana," the boy said, tilting his head. Cassius had very delicate features that almost made him look like a girl, but he also had a very intense, contrasting gaze in his eyes.
+
+"A small grace," Ennius smiled. "Hopefully, the next one will be a boy, sister."
+
+"Hopefully," Lily heard her mother reply, but she also felt an undercurrent of anger in her. They had spent so much time together that by now, the little girl could glean her mother's emotions quite easily. She had gotten extremely good at it, considering that it was her only pastime other than eating and sleeping.
+
+Once again, Lily felt something move in the air and tried to sink deeper into that feeling.
+
+"Anyway, your nephew here insisted that he pays his respects to you. You must forgive him. He was distraught the day our children were born."
+
+Adriana looked down at the boy, whose face had slightly darkened.
+
+"It's alright, Ennius," the woman said, approaching them and putting a hand over the boy's head. "Cassius, your mother was a great woman. I'm sorry for your loss. Aurelia will be sorely missed."
+
+"Thank you, Aunt Adriana," the boy replied, bowing his head.
+
+“Cassius,” Ennius sighed. “Behave appropriately to your station. Stop moping.”
+
+“I’m sorry, Father,” Cassius said.
+
+"Well, at least our newborn baby survived," the [Pope] said. "Now, let's not talk about Aurelia anymore, Adriana. Cassius and I have some business to attend to. Pay Lucianus my respects and tell him to meet me tonight."
+
+"Are you sending him away?" The woman asked with a consternated expression.
+
+"We have Dungeons to tame, Adriana. I can't spare your husband—he's too strong to babysit a small girl here at home. That's your job."
+
+"She's barely a few days old! Can't you give him some more time?!" Adriana raised her voice.
+
+"Your husband asked me to lead this mission the day your daughter was born, sister. Please, quiet your tone with me."
+
+Adriana bit her lower lips and shook her head.
+
+“What is a daughter, anyway?” Ennius smiled widely. “She’ll never be an heir, nor a Champion, elder sister. But I’m sure we’ll be able to arrange a wonderful marriage for her back into the family.”
+
+Adriana felt her jaw clench since she was just reminded of what had been her fate several years prior.
+
+"Go," the blonde woman said, turning away from them as she rocked her daughter back and forth.
+
+Lily could feel just how upset her mother was and was starting to feel upset herself. This time, the feeling became more and more real with each passing second. The more she felt her mother getting upset, the more she could feel herself getting closer to that feeling.
+
+"Adriana, you shouldn't address—"
+
+"Go, Ennius! Just go!"
+
+"Let's go, Cassius," the man said, "women are hard to deal with soon after their pregnancy. That's why we should be gracious to them. Let this be a lesson to you as the future [Pope]."
+
+But right when the man was about to leave, Lily moaned, and everyone in the room felt a faint ripple in the Mana. Everyone fell silent for a moment and looked around, confused. Then, Ennius spoke.
+
+"Was that your daughter?" he asked, stunned.
+
+"I—I don't know, I don't think so?" Adriana said, looking down at the small girl in her arms.
+
+"There's no one else here," Ennius said, walking back toward his sister and frowning. "Adriana, may I? I might be able to detect her Mana signature."
+
+A Mana signature was a sign that someone had started interacting with the Mana around them. To detect it, though, it usually required the user to control the Mana around them willfully.
+
+"Ennius…"
+
+"Adriana, please. If that was a newborn child with already some control over Mana… I was exaggerating when I said her talent was the greatest we've ever seen, but if she could actually unleash her Mana already… That would be unheard of."
+
+"Go ahead," the woman sighed, gently passing Lily to her brother.
+
+The man raised her until his face was level with the newborn baby.
+
+"If she's interacting with any Mana in the next minute, I'll be able to tell," the man said while entirely focused on the baby.
+
+But the newborn girl with a rebellious blonde bundle of hair on her head just stared back at the man. She didn't giggle, and she didn't moan. She barely moved. She just gave him a stone-cold, vacant stare.
+
+The seconds trickled by, with Adriana and Ennius holding their breath.
+
+Cassius, on the side, felt slightly jealous. He had been the center of all praises since he had been born. His father had been so happy with his talent that he personally oversaw almost all his training.
+
+And so, the boy waited in silence, clenching his fists. But more and more, it looked like nothing was going to happen. That was until, in complete silence, the baby finally burped and lifted her tiny hand toward the man's head.
+
+"Ennius?" Adriana asked.
+
+"Nothing," the man laughed, sighing in relief. "She's just a newborn baby, sister."
+
+"What can I do for you, my dearest niece?" Ennius asked in a playful tone, tickling the girl’s cheek.
+
+Lily kept stretching her hand.
+
+"I think she wants to grab my nose," the man laughed and brought the girl closer to his head.
+
+However, right when he had brought Lily close enough for her to touch him, she raised her hand and palmed his crown. For a moment, it looked like the girl was trying to grab the headpiece, but her apparently clumsy movements pushed it off the man's head.
+
+The jewel-encrusted golden piece clanged against the granite stone at their feet, resonating ominously a few times before spinning, humming in place, and finally stopping under the gaze of the two adults and the boy.
+
+Adriana bent to pick it up, observing it for a very long second before passing it back to her brother.
+
+"It looks like she wants to become the next [Pope]," Adriana said with not enough mirth in her voice to make it sound like a genuine joke.
+
+“Thankfully, girls cannot become Champions,” Ennius replied, taking the crown from Adriana’s hands and shooting a troubled glance at Lily as he handed her back to her mother.
+
+“Thankfully,” Adriana parroted her brother, cradling the young Lily to her chest. “Who knows what this little girl could have done to your princely boys, otherwise.”

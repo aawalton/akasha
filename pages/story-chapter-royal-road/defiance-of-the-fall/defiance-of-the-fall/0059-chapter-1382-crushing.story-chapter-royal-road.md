@@ -1,0 +1,151 @@
+---
+id: 03a1e237-1c0c-5109-b3ff-4f398830c7d9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,382 - Crushing"
+slug: 0059-chapter-1382-crushing
+partOf: defiance-of-the-fall
+position: 59
+ownLength: 2882
+unit: words
+publishedAt: 2025-11-25
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2792760/chapter-1382-crushing"
+royalRoadId: "2792760"
+---
+
+“Too late, huh?” Zac muttered when a tide of Dream Energy came pouring into his Soul Aperture from his Draugr side.
+
+The Dream Energy was so powerful that Saṃghāta’s crushing Death was momentarily pushed aside. It stored countless images, which allowed Zac to catch glimpses of Sevona’s desperate exodus from inside his own memory domain within the Crushing Hell. It looked like it would take a while before the dream ended, but time waited for no man. Zac turned back toward Tavza, who observed him with an inscrutable expression.
+
+“It’s nothing. Just dealing with some unexpected feedback. What were you saying?”
+
+“As I was saying, we’re running out of time,” Tavza said before unfurling a schematic the size of a dinner table.
+
+Zac had to hold back the anti-intellectual impulse to retreat into the Dream Energy’s comforting haze as he took in the complex web Tavza had drawn over the past weeks. Ogras didn’t even bother pretending to analyze the schematic. He studiously observed the pillars, which had shown no change or reactions since they arrived.
+
+Saṃghāta was a dour, desolate world where death’s unrelenting pressure had mostly chipped away any notable features. The ground was a smooth anthracite gray that appeared to absorb the perennial darkness hanging overhead. There were no ruins, odd objects, or inhabitants. The only break in the monochrome vista was the pillars.
+
+Each was made from boulders the size of minivans, stacked on top of each other like mile-high snowmen. They appeared to be crystallizations of Saṃghāta’s unique Dao of Death, and getting close to any of the pillars would drastically increase the realm’s pressure. One could also climb up the pillars for an additional challenge.
+
+Each boulder you climbed past would add to the crushing burden. According to Tavza, the pressure even started taking on aspects of Law when you got close to the top. Zac wouldn’t know. Flight was banned through some hidden Law, and he struggled to climb past even the first boulder on his own. His seal’s protection and weeks of adaptation only allowed him to make it past the first couple of boulders before the pressure grew unbearable.
+
+Ogras was slightly better off, being able to summit a third, while Tavza could nearly reach the peak. It wasn’t a testament to the An’Azol descendant’s physical prowess. Tavza simply hadn’t killed too many people. Her headcount was barely equivalent to one day of Zac’s carnage on the frontlines, so their reception by Saṃghāta was the complete opposite.
+
+Experiencing the different treatment was an important reminder. His Duplicity Core might be able to resist any forced Karmic Links imposed by outsiders, but Karma existed in nature just like Life and Death. Just as he’d seen his Daos exist in the mortal world far from the concepts of cultivation, so did Karma permeate all reality.
+
+He’d killed too many people since the integration. He hadn’t participated in wanton slaughter or random acts of cruelty, yet it was impossible to ignore the impact on his surroundings. The Crushing Hell’s punishment was a taste of the Karmic retribution he’d suffer unless he reined himself in. That feeling was only amplified by the solitary boulders spread throughout the memory domain.
+
+They’d been surprised to find a memory in the middle of the Crushing Hell, one not connected to any realmgate. There were no people inside, and it looked mostly the same as the rest of the gloomy world. The difference was that only the memory domain held countless boulders not piling up in an attempt to reach for the heavens.
+
+The solitary boulders were spread out seemingly at random—a misconception that Tavza eventually corrected. They made up a complex formation, providing important insights into the arrays hidden outside. Apart from being placed by themselves, the boulders also had critical differences in their makeup.
+
+Their similarities only extended to their outer appearance. Instead of Saṃghāta’s Crushing Death, the pitch-black stones inside the memory domain were filled with horrifying levels of Killing Intent and Imperial Faith. Not even the most hardened veterans of the Imperial Army could emit such a menacing aura. Just looking at some of the boulders would have shattered the souls of the faint-hearted if not for the burning seals of Imperial Faith floating above each stone.
+
+Ogras had posited that each boulder held the souls of countless operatives like the Nameless Blades—the Empire’s executioners sent to perform countless bloody, thankless tasks in the shadows. The theory probably wasn’t far from the truth. While they still didn’t understand why the Limitless Empire would set up such a thing, the memory domain was undoubtedly central to Crushing Hell’s hidden objective.
+
+Tavza quickly occupied herself with researching the Grand Array through inference and comparing energy flows within and outside the memory domain. Zac didn’t even understand the complex array’s basic purpose. Neither was he in any condition to run around all day while his bones felt like they were about to be ground into dust.
+
+Zac had been content refining himself through the hellish pressure while Tavza untangled that mess. It wasn’t just about stabilizing his breakthrough or slowly advancing his Eoz bloodline toward the next stage. Seeing the blood-reeking boulders had given him inspiration, and he’d realized that the hellish pressure could temper his Killing Intent.
+
+Not only that, his Killing Intent was connected to the crushing Death, and refining it lessened his body’s burden. A few weeks of tempering hadn’t even weakened the load by one percent, but it still proved effective. It had also been a chance to consider the nature of Killing Intent. It obviously was different from Dao Intent. It didn’t grow as he leveled up but when he took down his enemies.
+
+Seeing the solitary boulders being pressured by far greater levels of Crushing Death, Zac more poignantly saw how Killing Intent could be considered a manifestation of fell Karma. Maybe the refinement he and the boulders were undergoing in Saṃghāta was a form of cleansing, where hidden resentment was crushed and returned to the cosmos.
+
+It gave rise to the idea of visiting the real Crushing Hell with his Draugr body when there weren’t a hundred things demanding his attention. Maybe his fell Karma would be completely cleansed if he endured for a century. At that point, he’d climb the pillars and see the truest expression of Saṃghāta’s Dao of Death.
+
+Zac didn’t hold out much hope he’d get the opportunity anytime soon. His schedule had been packed to the gills since Leandra returned to Earth and shattered his sense of security. This time, he didn’t even get three weeks of tempering before Tavza came running with bad news. Buddhist omens had started appearing in the sky, and there were signs of the Grand Array activating.
+
+“Our initial assumption wasn’t incorrect, it just didn’t cover the whole picture,” Tavza said. “The array spanning the Left Imperial Expanse’s section of Saṃghāta was indeed constructed by the Limitless Empire. This memory domain is placed over the original Grand Array’s core, which thus far has prevented a complete takeover.
+
+“One way or another, the Grand Array has been subtly influenced by the Buddhist Sangha. The real Crushing Hell has been infiltrated to a greater extent than Poised Gardens, which in turn moved over here. I assume there’s no powerful Natal Treasure here to prevent the Dao of Samsara from entering, or it may have failed in its mission by now.”
+
+“Not surprising that the Sangha have extended their grubby fingers toward this realm. The Crushing Hell with its Karmic Death seem perfect to be integrated into their cultivation system,” Ogras said.
+
+“What’s changed?” Zac asked. “Why is the Grand Array awakening, and where did the Buddhist phenomenon come from?”
+
+It took Zac a moment to realize that Tavza’s inexpressive face looked a bit stiff, and he immediately felt awkward. Ogras didn’t. He laughed loudly, which drew an annoyed look from the Draugr.
+
+“She happened.”
+
+Tavza seemed to mutter a silent mantra of patience before exhaling. “It’s indeed my mistake. Our pressed schedule forced me to forgo certain safety measures when investigating the formation. Nevertheless, I only hastened the awakening by a small degree. The Grand Array began awakening the moment we Sealbearers entered, carrying our complex Karma.”
+
+“And I’m assuming the change won’t be limited to numinous clouds and auspicious omens?”
+
+Tavza nodded. “The formation is rearranging itself at an accelerating pace. This memory domain will soon not be the Grand Array’s core. At that time, it’ll be completely out of our control.”
+
+“I dislike the baldies as much as the next guy, but does it matter if they take over this heaven-forsaken corner of the underworld? The Ruthless Heavens still won’t let them enter while the trial is ongoing,” Ogras asked.
+
+“Can you guarantee the realmgate will survive a shift in this realm’s inherent nature? Or that our seals will continue to share our burden when the Empire’s Grand Array is subverted?” Tavza countered, giving Zac a pointed look.
+
+“Very good points,” Ogras acceded while Zac grimaced. He definitely wasn’t ready to bear the full weight of his Karma.
+
+“Even if we could get out, letting the Sangha take control over the Crushing Hell can’t be good for our main objective. Meanwhile, stopping them should provide another boost in merit,” Zac said. “You said you have a plan?”
+
+“I wouldn’t call it a plan so much as an unconfirmed theory.”
+
+“That counts as a plan in these parts,” Ogras said with a grin. “What do we need to do?”
+
+“Simple. We blow up the memory domain,” Tavza said.
+
+Ogras looked at Tavza with appreciation before turning to Zac. “She’s getting the hang of things. You must feel like a proud mother hen bringing her into the fold.”
+
+Zac rolled his eyes at the jab. “As much as blowing things up is my specialty, I’m not sure how to go about doing it with this memory. We’ve tried interacting with the boulders without much success, and there’s nothing else here. I’ve found no way of directly interacting with a memory domain’s ambient faith.”
+
+“We need to disrupt the array core. The land holds an immense reservoir of Imperial Faith, but it’s used to contain and nourish these incubators,” Tavza said. “By severing the connection, we’ll unleash all that faith in one go.”
+
+“Won’t that just make the domain stronger?” Zac asked.
+
+“Unlikely but possible. The idea is predicated on creating a backlash in the formation, engineering chaos to the point that the trapped faith cannot integrate with the domain. If all goes according to plan, the domain will collapse, the Grand Array will be made whole, and the land’s trapped faith will pour into the pathways to combat the Sangha’s influence,” Tavza said. “Although, there are certain… issues… beyond the untested feasibility of the idea.”
+
+“Let me guess, igniting a powder keg of ancient faith and disturbing a bunch of murderous ghosts might be a tad dangerous?” Ogras said with a raised brow.
+
+Tavza solemnly nodded. “One cannot expect to blow up a dam without getting wet. There is a high risk of getting marked by the fell Karma and Killing Intent.”
+
+“Then let me do it. I’m mostly immune to Karma,” Zac said.
+
+“Another previously unknown advantage of the Vanguard’s bloodline?” Tavza asked with a raised brow.
+
+“Something like that.”
+
+“Very well,” Tavza said before handing over a talisman. “This should divert some of the backlash. I’ve made the necessary adjustments to adapt it to your Dao of Death.”
+
+“You knew I’d volunteer?” Zac asked, seeing that Tavza clearly was prepared for this outcome.
+
+“Who else would?” Ogras laughed. “Your vacation is officially over.”
+
+“Follow me. The sooner we act, the better,” Tavza said, leading the two to a specific boulder some ways off. “This is the most promising point of failure I’ve uncovered. It’s placed in the middle of a critical intersection. If you feel you can’t disrupt its inner workings, I have two backup locations.”
+
+“It’s perfect,” Zac said with certainty.
+
+It was definitely the right pick. It was somewhat close to the memory’s border, providing a route of escape. The golden rune floating above it was also clearly struggling to placate the incredible levels of trapped Killing Intent, which held greater spirituality than most. It should be easier to destabilize than the others. Just as important, Zac could vaguely sense swirls of destiny surrounding the boulder.
+
+“Let me show you,” Tavza said, walking over to the boulder to mark four different spots. “You have the greatest odds of breaching the containment by targeting these sections. Direct force won’t do. These boulders are not made from normal physical matter. While it might look like they’re about to explode, they’re incredibly resilient. You’d have to use a corrosive force like Chaos.”
+
+“Don’t worry, I have a few ideas,” Zac said. “You two should probably get out of the memory. No point in taking on the burden with me.”
+
+“Don’t get hurt. We still depend on you for the rest of the journey,” Tavza said.
+
+“What’s with the gloom? The Hells may burn and the Heavens fall, but that cockroach will be just fine,” Ogras chided.
+
+“I’ll take that as a compliment, you asshole,” Zac laughed, waving at the two as they flew off toward the border.
+
+Zac mentally prepared himself while observing the boulder’s fluctuations. He activated [Void Zone] the moment his companions passed through the memory’s shimmering film. The domain’s crushing Death was reduced by more than half, eliciting an intense feeling of liberation. Meanwhile, [Void Mountain]’s illusory projection hummed inside his Soul Aperture, readying itself to deliver a devastating blow to the marked spots.
+
+The past weeks had given Zac the chance to recover some of his emptied tanks of Creation and Oblivion Energy. He saw no reason to tap into those limited resources now, not when his other half was about to take on a whole platoon of corrupted infiltrators. Zac already had the perfect tool in [Void Mountain]’s Dao-annihilating seal, and recovering his Void Energy came much easier as long as he had something to feed [Void Heart].
+
+The crushing pressure grew stronger with each step, to the point where moving and even thinking became laborious. Without [Void Zone] and his Imperial Fate working together to remove the majority of Saṃghāta’s punishment, he would have been as infirm as someone on their deathbed at this point. The D-grade Bloodline Talent could only weaken the ambient Dao, and there was no need to mention its effect on the silent boulder.
+
+The nullification sphere only managed to penetrate the surface before being stopped right in its tracks, unable to go even an inch further. That small infraction was enough to trigger a vehement response, and the trapped Killing Intent felt like it would boil over. The harsh reaction once more reminded Zac of the interred saints he met during his Pilgrimage of Faith.
+
+It was their intense rejection of his Void Energy that had kept Zac from experimenting with his Bloodline Abilities in the vicinity of the boulders. Now that Zac needed to create a spectacle, he almost welcomed the boulders reacting the same way, with "almost" being the operative word. The risks of him being targeted by whatever he released outweighed the benefits of additional firepower.
+
+The stabilizing sigil floating above the stone faded by a few shades as its ward grew irate. There was no doubt in Zac’s mind it would shatter with a proper push, and he saw no reason to delay. He was spending exorbitant levels of Void Energy just to stay afloat. Still, Zac figured it couldn’t hurt to try reasoning with the trapped wills before releasing it.
+
+“Senior, I don’t know if you can hear me. The Empire needs your assistance,” Zac said, infusing his will while holding Tam Brooks’s Veteran’s Token and the [Court Cycle Token] against one of the weak spots. His eyes lit up upon sensing a hesitant ripple in the crashing waves of hostility, and he quickly pressed on. “The Empire’s Grand Undertaking is being threatened by a powerful force following a false God. They call themselves the Buddhist Sangha, and they—"
+
+Zac didn’t get to finish his sentence before the whole boulder began trembling from blinding levels of murderous intent. It stirred the whole region’s ambient Death, causing the crushing pressure to mount. Zac groaned, nearly forced to his knees. He was still elated. The thing inside could understand his words, and it absolutely hated the Sangha. Their mere mention elicited a much stronger reaction than being exposed to Zac’s Void Energy.
+
+“They want to replace the Imperial Fate with their Dharma while the Limitless Empire slumbers,” Zac croaked, adding further fuel to the fire.
+
+It worked, maybe too well. A deafening thud caused a ripple that spread through the whole memory domain. It sounded like someone was punching the boulder from within. The pulse held no physical force, yet a dozen bones shattered across Zac’s body when Saṃghāta’s pressure briefly skyrocketed. Not only that, the pulse had deposited a few slivers of monstrous Killing Intent in his body, causing an unprompted connection to the boulder.
+
+‘Void... Emperor…’ A chorus of voices seeped through the stones and into Zac’s body, filling it with an insatiable hunger for carnage. ‘We... serve…’

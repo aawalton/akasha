@@ -1,0 +1,157 @@
+---
+id: f24cea7f-28ed-5f45-aa41-ed15f8f8abed
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 24"
+slug: 0184-b3-chapter-24
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 184
+ownLength: 1483
+unit: words
+ownProgress: 1483
+publishedAt: 2024-07-20
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1725409/b3-chapter-24"
+royalRoadId: "1725409"
+markedReadAt: "2026-06-29T19:11:58.322Z"
+---
+
+Aria
+
+We quickly chart a route to Eternus from Oris. And I find the atmosphere that fills the ship being rather… strange.
+
+After we got the call, Shirogane stopped speaking altogether. He keeps glancing at me and looking away, and he looks both nervous and determined at the same time.
+
+Overall, I have no idea what’s going on.
+
+Other than the fact that whatever it is, it’s important.
+
+Shirou wouldn’t have called us if it weren’t.
+
+I frown with my arms crossed as I sit in my command chair within the bridge, trying to think of what this could be about. And one thing comes to mind during the trip.
+
+He’s been an Eight Star Merchant for several decades now.
+
+Maybe… he’s being promoted?
+
+Not sure why I would be called too. Since he made it sound like he had something to say to me too.
+
+|Aria, Sir Ryohei has just left the ship.|
+
+I blink in surprise at that before standing up from my seat and looking down at the spaceport we docked at within the capital of Eternus. Only to find Shirogane moving at a brisk pace out of the spaceport, not even bothering to wait for me.
+
+The hell? He’s already gone…
+
+Is this really about a promotion? He almost looks panicked.
+
+Almost.
+
+I watch him make his hurried exit for a moment before shaking my head and beginning to leave the ship myself.
+
+No idea what’s going on here, but I guess I’ll learn soon enough.
+
+I make my way out of the ship without any secondary stops inside before the hatch closes on its own. Then I leave the dock we’re in and call a hovercar taxi once I reach the street.
+
+The taxi takes a moment to arrive before I give them directions, surprising them in the process with my destination. But after showing them my ID card, they scan it and the vehicle immediately gains temporary permission to enter the emperor’s personal dock. Startling the man in the process.
+
+He seems to be professional enough though, since he quickly calms down and begins driving me there.
+
+I would’ve used my own hovercar, but I’ve come to realize that I do not like driving. Even though I know it wouldn’t hurt me or anything, I just don’t like being behind the wheel and driving.
+
+Simpler to just hire a taxi.
+
+I sit in the back of the hovercar with my head leaning up against the window, just looking outside at the passing buildings. And after a few minutes, we break out over the water, away from the city. Then we continue on towards the emperor’s home out on the water.
+
+That trip only takes half a minute since we’re out over open water. And once he drops me off, he immediately beats a hasty retreat. Leaving the premises immediately.
+
+Don’t blame him though. Who’d want to be on the front door of one of the Grands?
+
+I glance to the side to find Shirogane’s hovercar parked as well, proving that he’s already here. Then I head on inside of the emperor’s home, after which I follow the arrows in the hallways.
+
+But it doesn’t take me long to realize that the arrows are pointing somewhere else other than where they normally lead when I’ve visited in the past.
+
+Huh. Something really is odd about this visit.
+
+I continue following the arrows until I arrive at a large set of double doors. One with two suits of armor stationed right outside, each holding onto a large sword implanted into the ground. And when I step up to the two suits of armor, their helmets turn to look at me before the eye sockets glow with a silver light.
+
+Okay… this is new.
+
+A few seconds pass before the helmets look straight forwards again while pulling their swords out of the ground and stepping to the sides of the doors. Then the doors open right after that, revealing a grand throne room with strange silvery energy making up the walls. Swimming around as if we were in some bubble underwater. But with the water being the strange silver energy.
+
+My attention quickly focuses on the thrones at the end of the hall though.
+
+Yes.
+
+Thrones.
+
+Not throne.
+
+Thrones.
+
+I blink at the sight of the large throne along with the smaller one next to it. One that looks like it would be for a prince or a princess.
+
+But… I don’t remember hearing anything about the emperor having a child.
+
+Putting that matter aside for the moment, the emperor is seated on the throne while wearing his usual attire. Just with a silver crown on top of his head as well. Meanwhile Shirogane is kneeling in front of him.
+
+Other than the two of them, there’s also one man who I recognize as the Ten Star Merchant standing behind and to the side of the emperor’s throne.
+
+I step deeper into the room until I stop right next to Shirogane, who doesn’t even so much as look up when I stop.
+
+“Welcome, Lady Death,” Shirou says, the emperor nodding his head with a respectful expression on his face.
+
+The doors to the throne room shut as he speaks. And I hear the sets of armor moving in front of it as well, along with the sound of the swords reentering the ground.
+
+“So what’s up?” I ask while crossing my arms and shifting my weight to a single leg. “I know something’s going on.” I point at the guy still kneeling. “He’s been acting like a scared kitten ever since your call.”
+
+I see the slightest twitch of amusement on Shirou’s face. But what catches my attention more is the twitch of irritation on the face of the emperor’s right hand man as he frowns with disapproval at Shirogane.
+
+Interesting.
+
+Shirou glances at Shirogane before focusing on me and saying, “This is not to leave this room until Shirogane’s trial is complete. If you can agree to that, we will fill you in on the details of what is going to be happening.”
+
+Trial. Meaning he’s probably taking some sort of test to reach the rank of Nine Star Merchant.
+
+I glance at Shirogane to find him even more tense. Then I focus on the Ten Star Merchant, who is still frowning at Shirogane.
+
+Hmm. Why do I feel like I’m still missing something…
+
+Whatever. Not like I plan to go around telling anyone.
+
+“I promise I won’t say a word to anyone outside of this room about what you’re preparing to discuss with me,” I tell the emperor with a nod while shifting my weight to the center again and putting my hands in my pockets. “So what’s going on?”
+
+The emperor nods his head before turning to focus on Shirogane as his silver eyes begin to glow even brighter than before. And along with that, the silver energy all around the throne room begins to grow more and more turbulent.
+
+“Shirou Ryohei Shirogane, Hidden Prince of the Eternal Dynasty, you are to take your trial to reach the status of Nine Star Merchant, and should you fail, you will no longer be a prince of this nation,” Shirou declares, making my jaw drop open in shock. “Should you succeed, you will be publicly recognized as the Crown Prince of the Eternal Dynasty and a Nine Star Merchant.” His eyes narrow slightly. “Do you agree to take the trial, my son?”
+
+He what did how who why?
+
+Huh?
+
+He’s-
+
+Huh?
+
+I stare blankly at the emperor before turning to stare at Shirogane. Then the emperor. Then Shirogane again as the man raises his head and answers while occasionally glancing at me, “I agree to take the trial.” He stops glancing at me and focuses solely on his father, seemingly turning off his emotions at last. “Father.”
+
+Father… son… emperor… prince… he’s a prince… he… huh?
+
+My mind short-circuits as I continue staring blankly, with the emperor nodding his head and declaring, “Very well. Your trial will begin in three days.”
+
+I finally blink, snapping out of it. Then I stare for a few more seconds and firmly nod my head.
+
+Right. Shirogane is Shirogane.
+
+Prince or not.
+
+Although in hindsight, it should’ve been clear that they looked similar. They both have pale hair and eyes, except with the emperors being white and Shirogane’s being silver. And they’re about the same height with similar facial structures.
+
+It would also explain how someone as young as him has become so powerful.
+
+“Your trial will be,” Shirou begins, bringing my attention back to the emperor again. “Creating trade ties between the Eternal Dynasty and the home world of the Grand Silvanian Empire, finally giving us access to their magical silver.”
+
+The Grand Silvanian Empires what now?
+
+What’s magical silver?
+
+“Understood, father,” Shirogane declares while bowing his head again.
+
+I’m so lost.

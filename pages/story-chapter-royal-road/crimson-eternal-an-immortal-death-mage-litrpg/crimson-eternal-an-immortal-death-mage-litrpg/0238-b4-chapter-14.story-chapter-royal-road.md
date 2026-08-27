@@ -1,0 +1,127 @@
+---
+id: 9f354a67-0622-5e50-b954-85dfe2e710f2
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 14"
+slug: 0238-b4-chapter-14
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 238
+ownLength: 1443
+unit: words
+ownProgress: 1443
+publishedAt: 2024-12-19
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1964640/b4-chapter-14"
+royalRoadId: "1964640"
+markedReadAt: "2026-06-29T19:13:49.793Z"
+---
+
+Aria
+
+“So,” Shirogane says with more than a little amusement in the smirk on his face as we dance around the floor of the ballroom together, hand in hand, “I heard you got a babysitter assigned to you by Nerissa.”
+
+I glare at him and retort, “She’s not a babysitter.”
+
+Shirogane just smirks at me, twirling me around in a circle one last time with my dress’s longer skirt flaring out a little with me before our dance ends, and the other important people in the ballroom begin clapping for the performance we put on.
+
+At least I didn’t have to learn how to dance for this.
+
+“Doesn’t this bring you back to when you had to learn how to dance for that idiot prince’s ball?” Shirogane says as he escorts me by the hand – an annoying custom if I’m being honest – towards the edge of the ballroom to make room for the next pair to dance.
+
+I just let out a sigh as I mutter, “Please don’t remind me…”
+
+It was hard enough trying to forget about that terrible planet without him reminding me. The planet where one of the damned princes wouldn’t stop pursuing me in an attempt at marriage.
+
+Just remembering the dance lessons they bribed me into taking so that I could dance with the prince at that ball sends a chill down my spine. And that’s not even mentioning the ball itself.
+
+I shiver at the memory before Shirogane and I reach a balcony and guards station themselves at the entrance of the balcony. Both my own guards – the Crimson Empire having sent knights to keep their princess protected – and Shirogane’s guards.
+
+Of course, the instant I leave this world I’m ditching them without a moment’s hesitation.
+
+“What about you?” I ask with a smirk and a sideways glance at Shirogane as I lean over the railing with a glass of wine in my hand that I got from one of the guards. “Remember when you had to avoid that court lady back in the Cheng Dynasty? Because she kept coming onto you and even tried to slip an aphrodisiac into your drink?”
+
+Shirogane groans as he leans over the railing, not saying a word.
+
+I face the setting sun with a smirk on my face.
+
+Serves you right.
+
+I take a sip of my wine as I smile, reminiscing about the old times I spent with Shirogane on our trip. Old times that have now come to an end since we’re going our own separate ways.
+
+Although I’ll probably visit the Eternal Dynasty once every so often. Maybe once every fifty or a hundred years or so.
+
+And I can always keep in touch with him through messages. So it’s fine.
+
+On that note, actually, I plan to visit Vortel soon and see the people from the Predator Team there.
+
+Haven’t visited them in a while.
+
+After seeing the lyon’s homeland, of course.
+
+“So what are your plans after this?” Shirogane eventually asks after recovering from the memory of that court lady.
+
+“Well,” I start while swirling the wine around in slow circles, “first I’ll deal with the lyon’s homeland’s issue. Then I’ll go back to Vortel for a short visit. And after that? I’ll figure it out then. Probably just go to random worlds that happen to have a connection to whichever one I’m on at the time.”
+
+He snorts at that before muttering, “Yeah, that sounds like you.”
+
+Then silence fills the balcony with the only noise being that of the ball going on inside. Along with the occasional person attempting to meet with one of us who is turned away by our guards.
+
+Eventually Shirogane says, “Thank you. For these decades we spent traveling together.”
+
+I glance at him, feeling a little surprised by the sheer emotion I can hear in his voice. Emotion that is mirrored on his face as he smiles with some tears leaking out.
+
+“It’s probably been the best years of my life,” he admits, letting out a short laugh as he does so. “But now it’s over…”
+
+I take another sip of my wine as I look over the rim of the glass at the man.
+
+“And I know we’ve both talked about this before, but,” he says before turning to me with a sad smile and more tears going down his eyes, “I really do love you.”
+
+I let out a short hum while considering what to do right now. Then I eventually just answer, “I don’t really know what love is, to be honest. Romantic or otherwise. But if I had to guess, I probably love you too, albeit not in the same way as you love me.”
+
+He gives a sad and slow nod at that.
+
+“I think I see you as a sort of… younger brother, probably,” I state, startling him in more ways than one. Considering how he’s older than me. “Yeah, probably a younger brother.”
+
+He opens his mouth to respond, only to close it again. Then open it. Then close it.
+
+Like a fish.
+
+I turn to look out at the horizon as the sun finishes setting before stating, “I’ve always known that I’m not exactly the most normal person, even if I say or sometimes think otherwise. Especially when it comes to romance. And I’ve always just accepted that things are as they are. Didn’t even realize there was a reason for my outlook until I learned what we Horsemen are. What with us being formed from apocalyptic energy and not being physically capable of romantic or sexual feelings or urges and all.”
+
+“But,” I state while turning towards Shirogane again as some tears fall down his eyes, only briefly noticing the shimmering barrier no doubt showing some illusion to anyone watching us hiding his tears, “I’ll continue being your friend until the end of your days, and I’ll remember you for eternity.” A faint grin stretches across my face. “If that helps any.”
+
+He smiles and nods as more tears fall quietly down his cheek. And, after a brief hesitation, I set my wine glass down and pull him into a hug, startling him.
+
+Not sure why, but I just felt this was the right move.
+
+Never really understood hugs myself though. Or why this might help.
+
+I feel his tears wetting my shoulder and the strap of my dress for a few seconds before I move away again.
+
+And just like that, he wipes his tears and suddenly returns to his usual neutral expression. As if nothing had happened.
+
+So I turn back to the sun while grabbing my wine and taking another sip.
+
+He turns as well, leaving the two of us in a peaceful silence. Ignoring the noise of the ball that is actually dimming down, likely due to illusion magic from one of the guards.
+
+Probably to give us privacy or something.
+
+No idea, really.
+
+I take another sip of my wine amidst the silence as we both stare at the night sky, the sun no longer anywhere in sight anymore.
+
+“When I first met you, I was pretty floored by how you were acting,” Shirogane admits, making me glance at him for a moment before returning my gaze to the sun. “I never would’ve expected that I’d fall in love with you or be rejected so bluntly though. More than once even. But that’s just who you are. I can’t see anything ever tying you down. It’s just not in your nature.”
+
+I can’t help but raise a brow at the wry and slightly amused way he said that.
+
+A few seconds pass in silence before he turns to look at me and says, “I’m really glad we met. So go on and continue your little excursion around the universe.” A grin stretches across his face. “But make sure you don’t scare too many people by falling off towers, okay?”
+
+I smile at that and just take another sip of my wine, not bothering to grace that request with a response. And enjoying the sounds of the waves hitting the large castle we’re on.
+
+He turns to face the horizon again and we just stand here in silence drinking our wine.
+
+Until the silence is broken by a meow, making us both glance down to find a certain cat rubbing up against my legs.
+
+I smile before setting down my wine glass and picking Asher up into my arms.
+
+Then I grab the wine again and continue drinking as we all stare at the night sky once more.
+
+With the sounds of a purring immortal cat joining in with the waves.

@@ -1,0 +1,135 @@
+---
+id: 37f46339-4160-5da4-8521-9cba4612ac21
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 73"
+slug: 0147-b2-chapter-73
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 147
+ownLength: 1491
+unit: words
+ownProgress: 1491
+publishedAt: 2024-04-22
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1606539/b2-chapter-73"
+royalRoadId: "1606539"
+markedReadAt: "2026-06-29T19:10:42.950Z"
+---
+
+AriaOne hour later
+
+Hmm. So, yeah. I knew I’d end up in a situation like this soon enough, but just an hour after entering this place? Seriously?
+
+I let out a sigh. Or I try to, but the cocoon covering my mouth kind of makes that impossible. Until the death energy begins to burn away at the threads that is.
+
+Slowly. Eeeeever so slowly.
+
+Seconds pass by. Then the seconds turn into minutes. And the minutes turn into an entire hour, at which point I can barely move now, finding myself rather surprised by just how strong this thread is.
+
+Guess this probably is the Seventh Tier of the place after all. For a spider – a different one to the first one I encountered – to have thread this powerful.
+
+To my surprise, my phone rings about an hour later, at which point I can just barely move my hands to accept the call.
+
+“Aria! I reached level 100!” I hear a relatively familiar albeit also unfamiliar voice speaking in a very familiar manner through the phone. “And I can’t even begin to express just how great it feels to be back in a younger body again!”
+
+I blink at that before trying to wiggle around the cocoon in a way that might let me see what is most likely her video.
+
+It’s Hannah, isn’t it? That’s her manner of speaking, and while it is certainly younger sounding, it’s her voice too.
+
+“Really? That’s great!” I exclaim rather quietly and in a slightly muted manner considering that some of my mouth no matter how hard I try to move is blocked by the cocoon.
+
+A brief pause ensues before Hannah asks, “Um, Aria, what’s going on right now? I’m just getting a black screen for your video.”
+
+Oh. Guess my video is on.
+
+A certain spider returns to the little cavern I’m in while dragging another cocoon and making little chittering noises.
+
+“And… what’s that sound?” her voice continues to come from the phone, drawing the attention of the spider, who now drops its load and heads over to me. Then once it arrives, it seems to notice the state of my cocoon and lets out a loud hiss. “Is that a mana creature?”
+
+“Sorry Hannah, currently hanging around in a spider’s den at the moment,” I apologize, feeling a little bad that I can’t celebrate her reaching level one hundred right now.
+
+“A… what?!” she exclaims, sounding just as frantically worried as always even with her younger voice. “How the hell did you-”
+
+The spider screeches, cutting her off. Then it proceeds to cover me back up with webbing again, fixing the cocoon before I hear it leaving. Despite the fact that I can’t see or speak anymore.
+
+Which kind of just leaves me listening to Hannah rambling on about all the risks I take despite knowing that I’m immortal. And about how she keeps calling at rather inopportune moments.
+
+Come to think of it, she does often call at rather inopportune moments.
+
+When I’m inside of a massive fly’s mouth being chewed by teeth I didn’t realize flies had. When I’m falling down through the sky towards this Hive in the first place. When I’m trying to crawl my way out of a massive worm. And now, when I’m stuck in a spider’s cocoon.
+
+“You have terrible timing,” I try to tell her, only for it to turn into a mumbled mess when I realize I can’t talk.
+
+Probably for the best.
+
+She’d most likely get even more upset if she heard what I was just trying to say.
+
+I get the feeling the spider is just assuming I’m the one talking and is ignoring me, because it’s surprisingly not moving back over here despite all the racket Hannah is making. But eventually Hannah seems to realize I can’t speak right now and sighs before finally saying, “Just… give me a call when you’re out of there, okay?”
+
+I mumble an affirmative at that. And she seems to understand what I say, or at least what I’m most likely to say in this situation, as she hangs up the call leaving me in silence again.
+
+Well, silence if I’m ignoring the sounds of the spider hanging up another cocoon.
+
+I just kinda hang around for a while before hearing the spider leaving. Then I continue waiting. And waiting. And waiting some more.
+
+Eventually the cocoon finally breaks open thanks to the buildup of death energy.
+
+Good thing it doesn’t just reset or something with the progress it previously having made being reset.
+
+Although most of the reason it was building up death energy in the first place was likely due to some sort of poison in the cocoon.
+
+Kind of ironic that a poison most likely meant to keep them in the cocoon is the reason I got out.
+
+Anyways, I stretch a bit after getting out before waltzing out of the spider’s den and continuing my journey through the tunnels full of spiders. Of course, that’s only after setting a couple charges in that spider’s den. Because it got on my nerves.
+
+Would’ve just blown my way out of that cocoon with an explosive, but I couldn’t reach the damned things.
+
+I should probably move them to more easily accessible places. Or just hold one in my hand the moment a spider tries to get me.
+
+This one had some sort of venom that knocked me out in an instant though, which was how it caught me.
+
+I should be fully adapted to it by now though. So that’s good at least.
+
+Once I make it far enough away from the spider’s den, I activate the charges I set without so much as glancing back as the tunnels all begin shaking from the blast.
+
+To my surprise, I actually get a few System Messages. One of which mentions the spider.
+
+Nice. Guess I happened to blow the charges up after the spider got home.
+
+Now that’s even better revenge than I originally planned for.
+
+I continue walking for a little bit before pulling my phone out, glad that the thing also has the Ethereal Screen enchantment on it otherwise my own death energy would destroy my equipment too. Then I call Hannah, putting my phone up to my ear as I walk.
+
+Once the call connects, I speak right away, “I’m out of the spider’s den. Congrats on reaching level one hundred!”
+
+She doesn’t say anything for a moment, making me move the phone away from my ear to look at the video. And what I see has me pausing mid-step, since it’s really not what I was expecting. Even though I knew she’s reverted in age.
+
+At this point she looks to be about the same age physically as me. A sight that I am very much not used to seeing.
+
+She still has her brown hair and brown eyes, but all the wrinkles she had are gone, along with any of the gray hair she had gotten mixed in with the brown. Meanwhile, since she shrunk a bit after getting old, she’s now taller again.
+
+Then again, she was taller than me even after shrinking a bit. Which was unfair.
+
+I eventually smile before saying, “You look great.”
+
+That has her smiling in return finally as she nods and says rather pompously, “Yep! And I feel even better than I look!” Then she raises a brow at me. “Was wanting to return to Arian so that I could tell you the news myself, but then you had to ruin it by being wrapped up with some spider.”
+
+“Excuse me, I didn’t have a say in when you called, and I wasn’t wrapped up with the spider,” I complain while frowning at her. “The spider captured me and hung me up in a cocoon in its den!”
+
+She just covers her mouth to hide a laugh.
+
+“You try laughing when you’re cocooned in a spider’s den,” I mutter while crossing my arms, moving my phone away from my face.
+
+This time she doesn’t even try to hide her laugh.
+
+Rude.
+
+Eventually, after she calms down a bit, she asks, “So how long do you think it’ll take for you to find the source of the poison?”
+
+That has me pursing my lips for a second.
+
+It’s taken me about two or so years to get down here, seeing as I spent the first couple years focused solely on fighting the first few Tiers’ mana creatures. So maybe another year?
+
+“Probably another year or so,” I answer, only to tense up a bit when I hear the sounds of another spider moving along the tunnel somewhere. So I whisper, “Spider incoming. Talk to ya later, kay?”
+
+“Make sure not to get eaten,” Hannah responds back, almost making me trip before she hangs up the call.
+
+I’m just gonna act like I haven’t been eaten yet down here.

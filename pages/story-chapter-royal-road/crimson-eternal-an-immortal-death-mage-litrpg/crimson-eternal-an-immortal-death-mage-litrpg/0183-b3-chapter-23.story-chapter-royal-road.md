@@ -1,0 +1,157 @@
+---
+id: 01f2d008-4663-56e7-810f-ccb19235b8f0
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 23"
+slug: 0183-b3-chapter-23
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 183
+ownLength: 1597
+unit: words
+ownProgress: 1597
+publishedAt: 2024-07-17
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1721417/b3-chapter-23"
+royalRoadId: "1721417"
+markedReadAt: "2026-06-29T19:11:56.416Z"
+---
+
+Aria
+
+Yeah, this world wasn’t the most pleasant one. But I will admit, the place is cool and beautiful. Has plenty of nice scenery. And it let me stock up on some more specialties.
+
+A light smile coats my face as I walk out of the Frigid Caverns with my hands held behind my back and my head tilted up towards the snow falling down from the sky, my hair blowing lightly in the wind behind me.
+
+Overall, the last thirty years have been nice. Relaxing, a good change of pace without anything stressful going on, and I’ve kept in contact with everyone to make sure nothing like what happened with Frank ever happens again.
+
+Although that was only made possible because of the Universal Feed installed directly into my spaceship.
+
+Would’ve gone broke long ago considering how much I use it if I didn’t have a personal one.
+
+I move one hand in front of me before looking at my storage ring and then moving my hand back behind me again.
+
+Right. And I feel a sense of satisfaction from collecting stuff from each world. Stuff that I don’t always sell.
+
+At this point I have at least a few crates full of most of the stuff I collect in each Hunter’s Spot I visit stored on the ship. Just as both souvenirs and in case I ever actually need the stuff for one reason or another.
+
+Of course, I sell the rest of it. Which has led to me gathering quite the amount of coin over the years.
+
+And not having to use the Gates has allowed me to get through each world without any issue since it’s a lot cheaper to get immigration rights when I don’t use the expensive Gates to enter and leave. Especially when they know I can just enter and leave without their permission through my ship if I wanted to become a fugitive.
+
+My thoughts return to the whole bounties on my head thing at the word ‘fugitive’. But I quickly put those out of my mind as well. Since no one ever takes those bounties.
+
+Everyone who has taken them has mysteriously gone missing over the years after all.
+
+So everyone’s too afraid to take them.
+
+I glance at my watch to see what the date is, only to blink as I realize just how long it’s been since I entered Oris. At least a few years.
+
+Hmm. Time sure flies.
+
+Probably should pay a visit to the pharaoh in a few more years. Just to thank him for the help he’s given me over the years.
+
+Pretty sure I don’t need to bring gifts. From my understanding of him, he’d be overjoyed just from me visiting.
+
+I continue walking through the town without paying an ounce of attention to the occasional miners and hunters who stare at me as I pass. Probably because I went missing in there a month ago and they likely thought me dead. That or it’s because I’ve started my own mercenary company with Shirogane’s help, and they recognize me from that.
+
+The latter isn’t likely though, since my mercenary company is mostly just a front for me to find new worlds to visit.
+
+It’s easier to have a company after all.
+
+Although it could theoretically be possible. Since I’m starting to build up a bit of a name for myself at least. For my mercenary company of one person that is.
+
+Shirogane keeps bugging me to get more people in my company, but I’m just not sure if that would work.
+
+I don’t really work as well with others. And I like the peace and quiet of fighting in Hunter’s Spots on my own. Or fighting alone in general, since I’ve fought in at least four wars since getting my ship.
+
+On another note, I open my status as I walk.
+
+Name: Aria Crimson
+
+Class: Harbinger of Death
+
+Ability: True Immortality
+
+Level: 49
+
+I swear, if I don’t get a skill at level fifty I’m gonna throw Shirogane’s favorite metal vase. He can fix it with his ability anyways, and it always makes a good venting partner.
+
+Haven’t gotten even so much as a single skill since-
+
+Asher meows, interrupting my thoughts and making me glance down at the fella as we step out of the town through the guard post. But all I find is the cat – who has barely changed at all in size since I first got him – having caught a mouse. One that he is now holding in his mouth while walking pridefully in the snow.
+
+Snow that’s taller than he is, with the only reason he’s not sinking into it being that he barely weighs anything at all.
+
+“Having fun there?” I mutter with a faint smile while moving my hands to my pockets.
+
+He just meows back a muffled meow through the mouse in his mouth.
+
+I roll my eyes and continue walking, enjoying the heat enchantments placed on this outfit. An outfit that also has the Ethereal Screen enchantment to make all the damage it takes pass straight onto me.
+
+The outfit is a masterpiece that I found in the ship meant for me. It’s entirely focused on keeping me comfortable in different climates with the Ethereal Screen enchantment making it so I don’t have to worry about my clothes being destroyed.
+
+A wonderful thing to have, especially on this icebox of a planet.
+
+My clothes aside though, and in all seriousness, I better get a skill at level 50. I haven’t gotten one since level 33. When I got Asher.
+
+And going three decades without a new skill is depressing. Even if time still feels like it’s moving by slower… faster? Not sure what the word would be there. It feels like time is passing by far faster than it is for others.
+
+Just every day flows by like water in a river.
+
+Sometimes the water splits off of the main branch of the river, going a bit slower, but it almost always returns to the main branch.
+
+I think.
+
+Either way, I’ll just say it does for this metaphor.
+
+It could for all I know.
+
+Anyways, the times it splits off from the main branch are the times I enter a conflict like a war or something. Slowing down as it goes a slightly different route before returning to the main branch when I finish the conflict and return to my day to day life of farming Hunter’s Spots.
+
+And as Shirogane loves to say, finding new mana creatures to be swallowed by. But I don’t find that amusing.
+
+No matter how true it may or may not be.
+
+I continue walking through the snow after leaving the town before I eventually arrive at our cloaked ship. Then I press the button on my wrist, making the gangway thingy extend down to the ground.
+
+The communicator in my clothes beeps before I hear Shirogane’s voice in my head, saying, “Finally out of whatever stomach you crawled into this time?”
+
+I glare at the bridge where I know the man to be right now as I answer, “That just earned you a flick to the forehead.”
+
+“Oh, so terrifying,” he dryly comments.
+
+“And I’ll be punching your vase again,” I comment.
+
+“Please don’t,” he says, a lot more serious this time.
+
+I just hum in response as Asher and I step back into the ship. Then I close the hatch and tell him, “Anyways, we’re heading out. You have another planet selected for our next job?”
+
+One definite benefit of nearly being level fifty is that I’m finally the same level as the rank and file soldiers of a lot of worlds out there. Which makes fighting a lot easier when I’m not overpowered in physical strength, ignoring the boost I get from my soul energy enhancements.
+
+“My vase?” Shirogane asks. But when I don’t respond, he sighs and says, “Yes, I got a new world selected. Come down to the bridge and I’ll tell you about it.”
+
+“Roger that,” I tell him with a smile on my face, going the opposite direction of the bridge before stopping in front of a metal vase. Then I punch it once, putting a slight dent in it for the umpteenth time, following which I turn around and head to the bridge.
+
+That’s what he gets for that comment.
+
+He can fix it while we head to whatever world he’s chosen this time.
+
+Of course, when I get to the bridge, I find him blankly staring at me with a ‘why?’ look on his face. But I just give him a wide smile, to which he blushes slightly and turns his gaze towards the screen floating front and center in the bridge.
+
+Right. That’s becoming a little awkward.
+
+It’s become clear that he has indeed been developing some feelings for me over the years.
+
+And I have no idea how to deal with that.
+
+My thoughts drive to a halt when my communications device begins to beep, making me give Shirogane a nod after seeing who is calling me. Then I ask out loud, “Crimson, please put the call up on the main screen.”
+
+|Understood, Aria. Call is now up on the main screen.|
+
+Then the White Emperor’s face appears on the screen.
+
+“So what’s up, Shirou?” I ask the emperor of the Eternal Dynasty.
+
+He glances between me and Shirogane before answering, “There’s some important matters I would like to speak to you two about, so please return to Eternus whenever possible.”
+
+Oh?
+
+Interesting.

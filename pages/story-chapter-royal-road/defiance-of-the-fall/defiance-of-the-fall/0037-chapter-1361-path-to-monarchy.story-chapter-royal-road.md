@@ -1,0 +1,157 @@
+---
+id: 6fff5f4e-54ca-5a59-b186-ee79faaa0556
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,361 - Path to Monarchy"
+slug: 0037-chapter-1361-path-to-monarchy
+partOf: defiance-of-the-fall
+position: 37
+ownLength: 3088
+unit: words
+publishedAt: 2025-10-02
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2646395/chapter-1361-path-to-monarchy"
+royalRoadId: "2646395"
+---
+
+All things considered, Zac’s body was in a better state than one would expect. His failed Bloodline breakthrough hadn’t left any obvious damage, and the weeks spent in the ground were more than enough time to recover from his battle with Naruk and from stealing a sliver of power from the Gates of Transformation.
+
+Zac could only find two lingering issues. The first was his five sets of remnants, which were nearly completely drained. Zac remembered being careful about the amount of energy he used to form his Chaos-based attack, but that couldn’t account for the current state of the remnants. The rest must have been used up to manage the foreign Daos, while some had no doubt been siphoned by his bloodline.
+
+Having no reserves didn’t just limit Zac’s ability to use [Annihilation Edge] or [Origin Revolutions]. His Cosmic Core still couldn’t produce the Creation and Oblivion Energy necessary to activate [Primal Edict] and [Eye of Desolation], and both his Body Tempering and Soul Cultivation relied on the Remnants. The pure Creation Energy from the shards was also the most efficient for recovering lost limbs.
+
+Zac would have to manage his reserves carefully over the coming year, ideally figuring out ways to speed up their recovery. The Remnants still gathered energy on their own, though not at the speed they did when they held the undying will of the Spark and Heart. The somewhat crude fractals covering their surface did speed things up somewhat, making them a good candidate for another upgrade. Zac had engraved the patterns shortly after the Atavism. Since then, he’d greatly deepened his understanding of Creation and Oblivion, and he’d spent months researching their nature in the Chaos Library.
+
+The second problem was the fractals on his shoulders. They’d been altered, hinting at concepts he couldn't yet understand. Zac wasn’t sure if his Chaos attack was the culprit, as the changes weren’t limited to his Human side. There was a significant chance they’d been transformed by the Supreme Daos, with the skill fractals’ connection to Chaos opening the door.
+
+As things stood, Zac couldn’t say whether the change was good or bad. The fractals undeniably had issues stemming from his lack of comprehension, and the change might be the fractals aligning themselves. They might also have become Trojan horses for the Supremacies who’d marked him. Until Zac could say for sure, he would have to keep the skills quarantined.
+
+Ultimately, the issues weren’t the end of the world. The special skills had saved his life numerous times, but their use was slowly dwindling as Zac’s real cultivation was about to catch up with the remnants. Besides, his gains were substantial enough to compensate for the loss ten times over. Zac couldn’t help but take another look at his status screen.
+
+Name Zachary Atwood
+
+Level 220
+
+Class [D-Arcane] Evolutionary Precursor
+
+Race [D] Human - Void Emperor (Corrupted)
+
+Alignment [Zecia] Atwood Empire – Viscount of Conquest
+
+Titles [...] Peakmender, Exalted Destiny, Atavistic Defier, Valiant Viscount, Cosmic Entity
+
+Limited Titles Tower of Eternity Sector All-Star - 14th, Equanimity, The Final Twilight - 1st, Gates of Rebirth, Void Road, Chosen of the Empyrean Chalice
+
+Dao Earthly Dao of Defiant War - Early, Earthly Dao of Reborn Life - Middle, Earthly Dao of Sealed Death - Middle
+
+Core [D] Evolutionary Core
+
+Strength 413,622 [Increase: 256%. Efficiency: 567%]
+
+Dexterity 191,195 [Increase: 196%. Efficiency: 363%]
+
+Endurance 236,174 [Increase: 226%. Efficiency: 594%]
+
+Vitality 242,731 [Increase: 235%. Efficiency: 592%]
+
+Intelligence 44,132 [Increase: 176%. Efficiency: 363%]
+
+Wisdom 107,016 [Increase: 179%. Efficiency: 381%]
+
+Luck 2,217 [Increase: 219%. Efficiency: 488%]
+
+Free Points 2400
+
+Nexus Coins [D] 87 831 997
+
+[Earthly Dao of Sealed Death (Middle): All attributes +100, Strength +4250, Endurance +27500, Vitality +8000, Wisdom +7250. Effectiveness of Endurance +30%.]
+
+[Earthly Dao of Reborn Life (Middle): All attributes +100, Dexterity +4250, Endurance +8000, Vitality +27500, Wisdom +7250. Effectiveness of Vitality +30%.]
+
+The failed breakthrough didn’t come without a silver lining. You needed to reach the limit of your stage before you were qualified to fail at reaching the next stage. He had no idea what his Void Vortices had gotten their hands on, but it must have pushed his bloodline to the limit of D-grade. The clearest indicator was [Force of the Void], which was currently sitting at 49%. Zac guessed it had reached the full 50% before the failed breakthrough’s backlash pushed it down a notch.
+
+Recovering the last bit shouldn’t take too long. As for any hidden damage to his foundations, Zac wasn’t too worried. If there was one thing he was good at, it was getting back up after taking a beating. The inhuman resilience inherited from his Sindris Clan heritage had helped him bounce back from much worse. Seeing his level, Zac figured it might not be too long before he gave it another go.
+
+Zac remembered being level 208 before entering the Mousetrap. He’d gained five of those levels in the Hidden Earth Abode. The following three were mainly courtesy of [Void Heart], having spent months tirelessly refining Natural Treasures and Beast Cores. A small amount of progress came from directly consuming Natural Treasures gathered during the journey, though items that could directly act as Leveling Pills were quite rare.
+
+Jumping forward another 12 levels was like crossing half the stage in one giant leap. The limit of Hegemony was just around the corner, and Zac hadn’t relied on any Pills in his current stage since he didn’t have any. Such pills were extraordinarily rare in Zecia, and the Middle D-grade Limited Exchange naturally didn’t stock them. Zac had already entered one Outer Court and stood on the threshold of another. Securing the resources for a final push wouldn’t be difficult.
+
+The levels weren’t his only source of attributes. While the boosts from Earthly Daos didn’t scale nearly as well as in previous stages, he had advanced two of them. There were no surprises in the attribute allocation, and his Dao Avatars hadn’t undergone any major transformations. Focusing on the avatars brought his vision to the illusory, war-torn continent that represented his Daos.
+
+Zac couldn’t see any tangible differences yet felt Life and Death permeate the world on a more profound level. It was just as Zac expected. The upgrade of his Earthly Daos of Life and Death mainly focused on their pervasive nature, on how their shadows existed in all facets of existence. It was a first step toward being able to reinterpret anything through his Daos, of wielding Dao as Law.
+
+When it came to combat, Zac believed the insights would synergize extremely well with his Eoz Bloodline. Apart from the general boost from advancing a stage, opposing Daos would have a harder time suppressing and depleting his abilities. It went hand in hand with the fact that his Daos of Life and Death were mainly defensively oriented, while the offensive power mostly came from his Dao of Conflict.
+
+Advancing his Daos of Life and Death so soon was absolutely not planned and was only made possible through a series of coinciding factors. Experiencing the cycle of Life and Death as a mortal had been juxtaposed against Supreme Daos approaching the Grand Dao. Finally, the echoes of Chaos had fused paradoxical truths into solid comprehension.
+
+Zac wasn’t used to having his Dao of Conflict lag behind his other Daos. He didn’t believe it would take too long to catch up. He’d fought his way across the Left Imperial Expanse, gaining many insights along the way. He also explored the nature of Conflict through the eternal war between Life and Death and through his techniques. Both had taken a step forward.
+
+He had already integrated Creation and Oblivion into his stances after encountering Antuka, the giant crocodile. That was enough to put him at the threshold of Late Integration, a threshold he’d now surpassed. For a brief moment, Zac had even seen the limits of the Integration Stage and glimpsed what awaited beyond—Conception.
+
+The details remained vague, and recapturing that state would require time and a significant amount of practice. Even so, the central revelation remained clear. After reaching Peak Integration, it might be time to fuse his techniques into one system. That was the most obvious way to incorporate the paradoxical nature of Chaos into his attacks and to enable him to use the power of all three Daos simultaneously. Of course, that was a matter best explored after forming his Inner World.
+
+The last change to his attribute pool was a small upgrade to his Void Road title, which had increased from 130 Luck to 150. Any addition to his base Luck was a blessing, and seeing the change was further confirmation that Destiny could be devoured and made one’s own. Zac glanced at the brand on his left hand and quickly looked away.
+
+Imperial Fate was undoubtedly an integral part of the trial’s final stage. The Limitless Empire had made the candidates work hard to reshape the course of history and paint a brighter future. There would soon come a time when the empire reclaimed the Fate it had generated—one way or another.
+
+The unlucky would die, returning their accumulations to the earth. The winners would willingly trade the Imperial Merit for the great opportunities hidden in the ruins. Destiny was nice, but it was also elusive and intangible. Its value couldn’t compare to the Supreme and even Eternal Treasures concealed in the depths of the Outer Courts.
+
+Zac also wasn’t foolish enough to directly pit himself against the Limitless Empire’s fading Imperial Fate. Even a starving camel is larger than a horse, and Zac’s nascent Void Road couldn’t even be considered an ant. Forget about stealing the empire’s Destiny; keeping what little Void Destiny he’d accumulated safe was good enough.
+
+None of his other titles had advanced, and he hadn’t gained any new ones. The System still considered him to have a “Low-grade Cosmic Attainment.” The story might have been different if he had gone along with the Gates of Transformation and chosen the power of rebirth. The small sliver he’d stolen couldn’t compare to the real thing.
+
+Zac didn’t regret his choice for a second. The gain to his Dao Heart wasn’t something that could be quantified on his Status Screen. Zac also couldn’t see any changes when scanning himself. He remembered placing his experience inside the artificial timeline in the Void of his Heart to safeguard the memories, but he couldn’t actually feel them anywhere.
+
+The benefits remained real and impressive. First off, Zac distinctly remembered how much easier it became to resist the Supreme Daos after he consolidated his improved Heart. Without that, he would have been stuck for months instead of just another week, and coming out the other end with his path intact wasn’t a given.
+
+This bolstered spiritual fortitude was useful in all kinds of situations, from breakthroughs to battles. It would take some time to uncover exactly what had changed, but more was certainly better. He’d already seen how the Buddhist Sangha had set their sights on him, and his Duplicity Core’s Karmic Protections weren’t enough. This was a much-needed second layer of defense that could prove instrumental in surviving the trial’s fallout.
+
+The benefits didn’t end there. Zac remembered feeling absolutely spent after advancing his Daos of Life and Death inside the Imperial Graveyard. It wasn’t just a matter of shaky foundations; it was a spiritual exhaustion from going too far too quickly. His unusual journey across the Left Imperial Expanse had alleviated that to some degree, but he still felt himself pushing against the natural order as he progressed.
+
+That feeling was all but gone. Part of it stemmed from his empowered Dao Heart, and another from being given eight full decades to slowly decompress and digest what he’d been through. He may not have been able to make any tangible improvements to his cultivation while living inside Everit’s crippled body, but he’d been given the time to mentally recalibrate and recharge.
+
+That was something that set his time in Whitmore apart from his previous visions. Eight decades was long, but it paled in comparison to some of his earlier encounters. His second Dao Vision came in the form of a World Tree growing over countless years. Zac had even experienced the better part of the Lost Era through Starclad’s eyes. However, those were just visions where the concept of time was simulated, lacking its weight.
+
+Zac wasn’t sure how the Limitless Empire had managed to turn something illusory into reality, but it was exactly what a young centennial rushing through the grades needed. He didn’t particularly care whether the experience was tailored for him or Everit. He’d taken what he needed from the experience and benefited immensely. Thanks to it, Zac felt ready to keep forging ahead.
+
+Naturally, some hurdles remained. Zac hadn’t expected to break through again anytime soon, so he’d put very little effort into preparing his Peak Cosmic Core’s blueprint. While challenging, it wasn’t a problem without solutions. He’d seen plenty of high-concentration corruption further down the Hollow Court’s chasm that could be used to fuel his work.
+
+Getting his Cosmic Core ready for another upgrade was the larger hurdle. He’d barely managed to push it to the cusp of High Quality after it suffered massive damage during his breakthrough. He’d hoped to use the power of rebirth he had stolen from the Gates of Transformation to push it to the next level.
+
+Unfortunately, without the gates or anyone to guide the mysterious energy, most of it had gone into advancing his levels when it finally escaped his personal Void. While his core had officially reached High Quality, there was still a noticeable gap to a Peak Quality Cosmic Core, let alone a theoretical perfected core without a single imperfection.
+
+Monarchy was neither far off nor imminent. Unknowingly, his foundations had reached a mostly sufficient level, and he’d scrounged up a decent number of suitable treasures. Pushing his Daos to the limit of Peak Earthly Daos was preferable but certainly not required. The problem was that Zac literally had no idea how to take that step.
+
+The biography of Galvarion, the Mortal Monarch, didn’t detail the process, and there were no C-grade methods in Rava’s training camp. Zecia barely had C-grade cultivator heritages, let alone any methods designed for mortals. Esmeralda wasn’t much help when he asked. She vaguely remembered hearing about Spatial Treasures that could assist with the process, which wasn’t much different from saying nothing.
+
+Zac exhaled and got to his feet. Who knew? The answers might be waiting inside the Outer Courts. There were no such things as mortals or defiers before the First Defier came along and rewrote the System’s operations, but the rough and experimental cultivation environment during the ancient epochs had birthed countless ancillary techniques.
+
+Come to think of it, there was one more person he could ask for advice. Zac spent his free points in an even split between Dexterity and Wisdom before closing the screen. Leaving seclusion, Zac found Tavza and a slightly pale Ogras waiting nearby. Zac had a vague idea of what had transpired and saw no reason to clarify. Instead, he directly broached his questions.
+
+“I’m glad to see you’re feeling better,” Zac said with a slight smile. “I’m sorry to pester you for information after you’ve already helped so much, but I have to ask while my experiences are fresh. Do you happen to know how a mortal would go about forming their Inner World?”
+
+“Bloodline breakthroughs and attaining Monarchy… Just what happened to you after entering the realmgate?” Tavza asked with a raised brow.
+
+“I made some unexpected gains and figured it couldn’t hurt to plan ahead,” Zac said. “I’ll tell you all about it before we figure out our next step.”
+
+Tavza slowly nodded. “Mortals do not exist among Draugr, so it’s not a subject we have spent much energy researching. Nevertheless, I conferred with my seniors after learning of your situation. Generally, Mortal Monarchs follow the lower path. They first open a proto-space and stabilize it with a powerful treasure. Mortals can’t expand and nurture the proto-space themselves like a cultivator would. They have to rely on treasures for that."
+
+“What about actually forming the Inner World? Where does all that matter come from?” Zac asked.
+
+This was the main issue Zac had found. He’d struggled to collect the materials necessary for a measly Cosmic Core. He couldn't imagine gathering a literal world’s worth of C-grade materials. Even using Peak D-grade materials didn’t seem feasible.
+
+“The paths to Monarchy are diverse, but the fundamental mechanics are generally the same. The first step is to open a space. The second is to draw matter from the Cosmic Sea. The lower path has you complete one step at a time, while the upper path requires you to perform both steps simultaneously.”
+
+“Cosmic Sea?” Ogras asked, finding the topic just as important as Zac.
+
+“It’s not a true sea, at least not as far as I’m aware. It’s where matter and energy go when a star dies or a dimension collapses. It’s the source of the energy drawn by worlds. The Cosmic Sea encompasses everything in the Multiverse that’s neither claimed by the Lower Planes nor by prime dimensions,” Tavza explained.
+
+“The process is neither simple nor difficult. The core acts as a blueprint, and the manual serves as the guide. The Cosmic Core becomes the nucleus of the Inner World, and your manual will create a pull.”
+
+“So a better Peak Core means a better Inner World?” Ogras asked.
+
+“Correct. The more powerful the Cosmic Core, the larger the Inner World it can support. That is why most cultivators pursuing Monarchy and beyond spend a long time refining their paths before entering Peak Hegemony. There are other ways to improve the final outcome, but the potential of one’s finalized Cosmic Core is a deciding factor in the size of one’s initial Inner World.”
+
+Zac felt the pressure. With his terrifying tribulations to worry about, just keeping his Core intact could be considered a rousing success. To end up with something that could serve as the bedrock of an Inner World? Difficult, extremely difficult. Perhaps still annoyed over her incarceration or wanting to rip off the Band-Aid in one go, Tavza chose that moment to pour salt in the wound.
+
+“Of course, the potential of your core doesn’t matter much without an equally powerful Cultivation Manual,” Tavza said lightly, her real meaning evident.
+
+“Or no manual at all,” Zac muttered.

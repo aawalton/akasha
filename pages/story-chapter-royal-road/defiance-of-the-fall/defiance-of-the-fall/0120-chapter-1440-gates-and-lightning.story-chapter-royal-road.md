@@ -1,0 +1,121 @@
+---
+id: 017f7d8a-fe3c-51af-9c93-2dc72ae8a75c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,440 - Gates and Lightning"
+slug: 0120-chapter-1440-gates-and-lightning
+partOf: defiance-of-the-fall
+position: 120
+ownLength: 3168
+unit: words
+publishedAt: 2026-05-28
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3461327/chapter-1440-gates-and-lightning"
+royalRoadId: "3461327"
+---
+
+The sealed space of [Eye of Desolation] shook as three dimensional layers fused into one, and shrapnel of countless broken statues filled the space. At the same time, the shimmering waters of the Peregrine Ocean frothed. The enemies weren’t the only ones working on distractions. Zac had pushed his left arm into another vortex the moment he decapitated the giant, and he’d finally exhausted another rune with [Void Mountain].
+
+The two defenders were prepared for the fallout this time, but the distraction allowed a wraith to grievously wound one of the two. Things quickly went south from there, and then there was only one keeping the gateway safe. A deafening rumble that made Zac’s bones vibrate shook the realm before the final defender could be overwhelmed.
+
+Lightning rained from above, destroying chains and axe wraiths alike. The spectral summons shattered under the Heavenly Dao, at which point the Shieldbearer had rushed over to rescue his ally. Zac frowned upon feeling both [Fields of Despair] and [Deathmark] gradually weaken under the barrage, yet he ignored the archer who’d triggered the lightning domain. Maintaining the storm took up most of his attention, and maintaining it clearly cost a huge amount of Cosmic Energy.
+
+Left arm still inside the vortex, Zac rushed toward the giant to finish the job. Zac still didn’t quite understand how the pugilist remained unscathed from his attacks, but he knew from experience there was a price to pay for recovering one’s flesh so quickly. Even if the giant man relied on taboo methods to regrow his limbs, he’d need a moment to acclimatize.
+
+Meanwhile, two Void Vortices opened next to the plague mage, and Zac immediately sensed an intense resistance. Her surroundings were drenched in heavy corrosion, to the point the vortices began to disintegrate. Zac still sent chains through to stop her from damaging [Eye of Desolation] any further.
+
+The first chain crumbled before it could even reach the mage. The second showed both uncharacteristic resilience and speed as it lunged at the mage like a venomous snake. Zac had taken a cue from the archer’s misdirection. Rather than attacking with two chains with [Love’s Bond], the second strike was actually the spectral chain of [Arbiter of the Abyss]. The moment it tapped the mage’s shoulder, he’d already achieved his goal.
+
+It didn’t matter that the vortex was on the verge of collapse. The connection had been forged, which put the mage under Zac’s control. Not giving her the time to figure out what had just happened, Zac pushed her right into the ball of Oblivion with all his power.
+
+Unfortunately, the element of surprise and the unusually complex skill wasn’t enough to take out the mage in one go. A necklace erupted with power, and it released a river of pestilence upon the eye. The necklace poured out enough madness to momentarily cancel out [Eye of Desolation]’s Oblivion, giving the mage the chance to scramble out of reach. By that time, the void vortices had already crumbled.
+
+Her escape came at a cost. She’d lost a leg and part of her upper body before she could react, and Zac could feel both Pure Oblivion and his Inexorable Dao burrow into her body. Zac estimated it should be enough to keep her occupied for a while. Seeing that, Zac decided to raise the pressure on the two defenders.
+
+The rune floating beneath Zac’s feet ignited, and a secondary rune appeared beneath [Profane Exponent]’s lantern-wielding pygmy. The deathly flame erupted with such scorching heat that it seeped through Alea’s protective plating. The effect was thanks to the fourth pygmy amplifying the strength of its companion.
+
+A turquoise stream of fire descended on the Shieldbearer, who’d erected a barricade against [Eye of Desolation]’s last band of chain-wielding statues. It was like the souls trapped inside the statues could sense that they were about to fall before the raging thunderstorm and wanted to bring down at least one of their enemies before that happened. It was for this final hurrah that Zac held off on detonating [Eye of Desolation]’s core.
+
+The defense-melting flames ate right through the Shieldbearer’s spatial barrier without missing a beat, barely losing any steam. A defensive talisman activated by the second Sealbearer only managed to exhaust it by a third before the flames latched onto the defender’s shield like sticky napalm.
+
+The two remaining gate guardians were suddenly exposed and drowning under a focused assault of [Eye of Desolation]’s chains. Adding insult to injury was the occasional axe wraith reforming under the relentless barrage of lightning. With their backs against the wall both literally and figuratively, they didn’t have the luxury of worrying about their other allies.
+
+Zac descended on the isolated giant like a storm of violence, his smaller frame exuding a significantly more intense brutality. It wasn’t just the result of his superior physique. The battle had rallied the ancient intent, which guided Zac forward. The roaring intent imparted him with something approaching a sixth sense, yet he still couldn’t figure out his opponent’s weak spot.
+
+Two chains intercepted a punch strong enough to put a dimple in space, slowing it down long enough for Zac to pivot to the side. And yet, a flicker brought the fist right in front of Zac’s face. The pugilist was using the Dao of Time to speed himself up and almost skip the windup entirely. Zac didn’t have time to launch a swing of his own, so he directly blocked with an armored shoulder.
+
+Extreme force penetrated his armor, yet Zac remained rooted in place. His chains had already wound themselves around his prey, ensnaring the pugilist in tightening web of death. Whether it was callous disregard or wanting to utilize his sacrifice, the giant’s allies chose to capitalize on his impending demise.
+
+A sea of lightning rained down on Zac’s location, targeting him and the giant indiscriminately. A canopy of Miasmic wind formed above Zac’s head as his last pygmy exhausted its reserves of displacement. However, the archer wasn’t the only one choosing this moment to strike. Virulent pustules sprouted all over the giant’s body, releasing a flood of poisonous time into Zac’s face.
+
+Zac’s body cried with pain and his mind filled with twisted hallucinations. The suffering almost reached the point where he lost control over his skills. A pulse from [Purity of the Void] brought just enough clarity for Zac to mount a concerted resistance. He activated all his seals of [Undying Mark] to undo some of the physical damage. Meanwhile, a torrent of Miasma, Cosmic Energy, and Dao entered [Death’s Duality], forming two swirls around Zac’s edge.
+
+The axe fell, and the roar of thunder was silenced by two cyclones of Death and Conflict. Where they clashed, nothing could remain. Lightning was torn apart, poison diluted and dispersed. The giant with his newly-regrown flesh was no exception. His hulking form was cleanly cut in two by [Sonorous End], the bisection as clean as if it were made by laser.
+
+The combo skill wasn’t anything amazing on its own. While its cutting force was noticeably stronger than his normal swings or [Fatehew], it was far from reaching the power of [Desperation’s End]. It didn’t even measure up to the relative strength of its predecessor [Rapturous Divide]. So considering it still had a five-minute cooldown, it didn’t have a significant role in Zac’s toolkit.
+
+Nevertheless, [Sonorous End] had its useful moments beyond when used together with [Rapturous Beginnin]. Its churning forces ground the pestilence into nothingness, creating a corridor free of poison or any other Dao. Zac slipped through the crack and unleashed [Void Zone]. He wasn’t confident the giant was dead, and the feedback from his nullification domain confirmed his hunch.
+
+Zac rushed forth, instantly arriving at a seemingly empty spot at the edge of [Void Zone]. Space buckled under a Void-imbued punch, exposing a spectral figure looking like a miniature copy of the giant. It was no wonder Zac’s attacks left no permanent damage. The giant’s body was his real body, but it was used like a flesh puppet. The controller was hiding nearby, shrouded by illusions and folded space.
+
+It was an intricate method that you wouldn’t expect from someone emitting such a fierce fleshy aura, reminding Zac of the Astral Walking mentioned in [Thousand Lights Chapter]. Seeing someone practicing all three major Daos of the Mercurial Court was even rarer, particularly the combination of Time and Space. Zac had only heard of a handful of talents pursuing such an ambitious path within the court.
+
+The two major branches of Peak of Continuum didn’t have as troublesome a relation as Life and Death, but both Time and Space were famously difficult Daos to advance. Cultivating both at once had a high risk of overburdening your path. Even a supreme talent like Esmeralda opted to approach the Continuum though a shortcut.
+
+Zac suspected that the separation of spirit and flesh wasn’t just a matter of safety. Normally, the spectral half should have ambushed Zac while he had his hands full. The pugilist instead opted to stay at a safe distance while controlling his body like a puppet. He’d probably been waiting for his allies to wear Zac down instead of taking the risk itself. Zac encountered the same thing in most large-scale battles. Fear and selfishness prevented most groups from leveraging their strength to the fullest.
+
+Now, it was too late.
+
+“No—!” the pugilist’s scream was cut short as [Fatehew] split his soul in two.
+
+While Zac dealt with the spectral body, Alea had already bunched up the pieces of his bloating corpse in a tight web. He grabbed a handful of chains, his muscles straining as he swung the huge corpse with enough force to cause cracks in space. After accumulating momentum with a few loops, the chains suddenly let go.
+
+The corpse shot forth with the force of a falling star, smashing right into the sea of Miasmic flames. The Shieldbearer and his helper were already covered in burns and scars, and having a supermassive body smash into them with the full force of Zac’s Strength was more than they could bear. Bones snapped as the two sides collided, yet that was the least of their troubles.
+
+The momentum proved impossible to exhaust, and the rippling waters were just a few dozen meters behind them. Both corpse and combatants crashed into the gate just as it managed to send through another cultivator. A tidal wave of silver water swallowed all four. Going by the eruption of ancient desolation, they were sent to the afterlife rather than their own timeline.
+
+Zac breathed out in relief. He’d been keeping his eyes on the gate throughout to take out any newcomer before they could shift the battle. He’d originally planned on destroying a rune whenever a newcomer emerged, but the situation had proven too hectic to time things out to that degree.
+
+Ten out of thirteen invaders were dead and another was grievously wounded, yet Zac didn’t relax for a moment. The gate still stood, and the Sealbearers who remained were the strongest of the bunch. Considering Esmeralda’s silence, the swordsman was no doubt hard at work at breaking out of her cage. He needed to settle things here before that happened.
+
+A vortex opened and Zac stepped through. He emerged before the mage the next moment. A maelstrom of corrosive Temporal Energy greeted his arrival, slowing down his perception while rotting his flesh. However, Zac had never turned off [Void Zone] since using it to locate the pugilist, and it was severely weakened. The wounded mage was hunkered up inside the eye of the storm, yet Zac flashed toward its exit.
+
+His two Warbringer Idols appeared, and his vision doubled. The mage was still holed up at the heart of the cyclone while a second, hidden version of her was running toward the archer. She didn’t get far before Zac caught up. Tricking his senses was one thing while he was far away and preoccupied. Trying the same at melee distance—while resisting [Void Zone]’s suppression of the Dao—was a futile endeavor.
+
+[Death Duality] only hit air as the mage’s head turned into a stream of poison as it passed through. The mage was only able to maintain that state for a moment inside [Void Zone], just enough to buy another second of survival. Zac kept pushing, the mage kept retreating, until the antisun behind her suddenly went supernova. Zac scattered her intangible form a final time before slinking into a void vortex. The next moment, the mage was fully consumed by the detonation of [Eye of Desolation].
+
+The next moment, Zac was already back by the dimensional gate. While his body fought back against the storm of virulence, he began annihilating yet another rune. He estimated three or four more should do it unless this particular magic was more resilient than the others.
+
+Lightning rained down unabated as the sole remaining archer did everything in his power to bring him down. Zac remained undeterred. He let the weak ones hit him directly, splitting the punishment between his armor and himself. The ones that looked troublesome were scattered by a flurry of chains or by sacrificing an axe wraiths.
+
+Zac could veritably feel the archer’s inner struggle as he futilely watched Zac destroy another rune without missing a beat. He had burned a huge amount of energy to maintain the thunderstorm, yet all his allies had fallen. Now, he lacked the strength to pose a real threat.
+
+To Zac’s surprise, the archer suddenly disappeared in a flash of lightning. Instead of escaping or trying to pin down Esmeralda, he appeared just before Zac. The golden arrow in his left hand lit up like Zeus’s bolt while he managed to block Zac’s chains with his bow. Zac was surprised to find himself pushed back by a masterful spear technique augmented by lightning and desperation.
+
+The archer was an extraordinary infighter, meaning he excelled at both range and melee. Zac wouldn’t be surprised if he’d relied on the preconceptions regarding archers to slay plenty of enemies. They’d exhaust themselves getting closer, only to find the real threat waiting for them. That wouldn’t work against Zac. For one, he was no slouch himself. Furthermore, he wasn’t fighting alone.
+
+Six axe wraiths thrumming with murderous intent silently appeared around the archer the moment he emerged. Their axes gleamed with carnage; their hollow eyes held the promise of death. The archer tried to scatter them with a lightning nova and was aghast at seeing them only stumble a bit before resuming their assault.
+
+Most of Zac’s skills didn’t directly benefit from his breakthrough into Peak D-grade, but two of them were exception to the rule. One was [Primal Edict], whose undying swarm of vines were only limited by how much Cosmic Energy Zac could bear to feed it. The second was [Deathmark].
+
+The main major change Zac had introduced to the skill at D-grade was its gradual empowerment. Each time a wraith was destroyed, a stronger one would be reborn. While the skill lacked [Primal Edict]’s ability to adapt to the attacks and evolve into a natural counter, it was a linear growth seemingly without limit.
+
+The bottleneck was that each rebirth cost exponentially more Miasma. By five or six cycles, Zac usually deactivated the skill to release a domain. Maintaining the skill beyond that was too costly to make sense, risking leaving him with nothing for emergencies and his other skills. That problem was gone now that he had a Peak D-grade Core and no Peak D-grade skills to exhaust his reserves.
+
+Under the barrage of the lightning, the wraiths had all been reborn at least a dozen times each. Even Zac would have some trouble facing six of them at once. Adding Zac himself, the archer was woefully outmatched. He quickly realized his mistake, but it was already too late. His escape was blocked, and he was unceremoniously hacked to pieces.
+
+Zac threw himself at the next rune on the magic circle. He could see the invaders on the other side readying themselves to push more people through despite the risk of further damaging the bridge. While worrying on its own, Zac was more wary of the muted eruptions going off in the distance. They were so sharp that Zac felt his soul being lacerated just sensing their presence. The mad swordsman was about to break free.
+
+A message from Esmeralda confirmed Zac’s hunch, yet it also allowed him to relax. The next moment, a bedraggled Esmeralda stumbled out of a spatial pocket halfway to [Second Singularity]. She looked back fearfully before disappearing, hiding in another layer of space. A flower of corruption and bladelight rapidly grew where she appeared, until space shattered from a blinding red radiance.
+
+A streak filled with Peak Intent illuminated the whole realm, and Zac saw his thoughts scatter before its sharpness. Thankfully, witnessing the hyper-condensed cones of corruption had inured him to some degree, and he retained enough of his wits to remember Esmeralda’s words. He rallied his Void Energy once more, prompting a scroll filled with lines to instantly appear behind him.
+
+Zac had activated the last skill in his repertoire, [Desperation’s End], targeting the swordman the moment he appeared. Its executioner’s blade rose from below, cutting through bladelights and spatial instability to strike right at the center. However, a second red blade appeared at the nick of time to meet Zac’s skill head-on.
+
+The underworld’s executioner’s blade was actually stopped by the monstrous blade of madness, and the added line on the scroll floating behind Zac’s began flickering to convey uncertainty. And yet, there was no worry in Zac’s eyes as he faced the swordman in the distance. The rune grasped by his left hand shattered. At the same time, more than fifty bridges connecting the timelines collapsed at once, courtesy of Esmeralda.
+
+Together, it was enough to push the magic circle over the edge. The gateway collapsed, and the remaining bridges couldn’t uphold the connection on its own. They snapped like dry twigs, and yet another timeline was expelled from [Second Singularity]’s inner realm. The distant, furious roar rattling Zac’s may as well have been a trumpet announcing victory.
+
+Zac sensed that facing the Swordsman would have been an opportunity to truly push his Inexorable Stance to its limits and possibly glimpse another clue to taking the next step. It wasn’t meant to be, nor would he ever know if the infiltrators had some way of turning the situation around. A small cone of corruption swallowed him just before he’d managed to exhaust [Desperation’s End].
+
+The mad swordsman may have drawn from the Lost Era’s tainted well, but that didn’t make him immune to a concentrated blast approaching B-grade in intensity. He was erased body and soul before he could realize what just happened. Another name was added to the scroll of [Desperation’s End] before it faded fading.
+
+The corrupted timeline’s invasion had reached its conclusion.

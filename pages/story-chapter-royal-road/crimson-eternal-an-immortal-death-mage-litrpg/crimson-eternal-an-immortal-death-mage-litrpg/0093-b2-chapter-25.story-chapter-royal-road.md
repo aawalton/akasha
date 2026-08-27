@@ -1,0 +1,161 @@
+---
+id: d6b51724-3781-5b8f-8217-d2c3ddee31f8
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 25"
+slug: 0093-b2-chapter-25
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 93
+ownLength: 1439
+unit: words
+ownProgress: 1439
+publishedAt: 2024-02-10
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1513018/b2-chapter-25"
+royalRoadId: "1513018"
+markedReadAt: "2026-06-29T19:09:06.171Z"
+---
+
+Aria
+
+Alright. Time for take two.
+
+Still not sure how my clothes somehow manage to remain perfectly in one piece despite my body becoming a literal paste on the ground, but I’m not gonna complain. I’ll just leave it as magic and move on.
+
+I nod my head at that thought and walk through another green portal after having reentered the tree.
+
+And this time I actually find myself inside of the tree instead of on the outside.
+
+So yay for that.
+
+Although… how is this inside of a damned tree? The place I find myself in, while it does still have large bark walls and ceilings, the floor is all grass and there are a bunch of trees growing all across the area. Like a forest inside of a tree.
+
+The heck?
+
+This is not normal.
+
+I blink at that before deciding that most trees that are so tall you can’t see the top from the ground are probably not gonna be normal on the inside. Especially when they have random portals at the bottom.
+
+Well, anyways, I quickly begin to look around my vicinity, only to realize something. Something that I’ve missed for a long while now.
+
+I wonder… do trees and plants count as beings?
+
+That’s… not really something I considered before.
+
+Huh.
+
+So, without hesitation, I infuse a bunch of soul energy into my fist and punch through a random, relatively thin tree. And the tree quickly snaps and begins to fall.
+
+[User has killed one being of Level XX. Requirements to reach level 13 have been updated. New requirements are as follows: 1190/30000 beings have been granted Death.]
+
+I pull my fist back before glancing at it, then at the tree, then at my fist again. Then I look down at the grass and yank out a random blade of grass.
+
+Nothing happens.
+
+So I grab a fist full and yank it out.
+
+Nothing happens again.
+
+Hmm. Guess it’s on the same line as bugs in that regard?
+
+But these trees don’t have any intelligence… does that mean intelligence isn’t the marker for what counts as a being killed like I thought it was?
+
+I repeatedly go through all the things that make a tree, an ant, a blade of grass, a random wild animal, and a human being different.
+
+And after thinking about it for a little while, I finally come up with something.
+
+Lifespan.
+
+Their biggest difference is in their lifespan.
+
+An ant only lives like a year or two at most I think. A tree can live for centuries depending on the tree. A human lives for one hundred years on average in the universe after System Initialization, and without reaching level 100. And a lot of wild animals live from several years to a few dozen years.
+
+I’m not sure how long a blade of grass lives, but I don’t think it was more than a couple months.
+
+Which means that lifespan may very well be the determining factor of whether or not I get progress towards my purpose from something.
+
+I purse my lips for a second before nodding.
+
+Yeah, guess that makes sense. If my purpose is to bring death unto others, it would be perfectly logical that the more potential life I end, the better for the purpose.
+
+Or at least that there’s just a cutoff of how much a single life gives.
+
+Anyways, I turn to look at the trees around me. Then an idea comes to mind.
+
+Hmm. Hope this place doesn’t mind some deforestation.
+
+I nod my head with a smile on my face as I stand with my arms crossed, merely watching as my many spirits go around with axes, chopping down trees. Meanwhile other spirits focus on killing the mana creatures that come out of said trees.
+
+It ended up taking me a couple hours to get the axes from a very confused Shirogane before taking another ten minutes to find a second place like this within the Hunter’s Spot. Because I kept being put in other random places where I had to make my way back to the entrance of the tree in a rather unique method.
+
+The same method I used the first time after being so kindly pushed towards it by a certain mosquito.
+
+Although I feel I may have traumatized a few people down there. And for that, I gave them a silent apology in the form of a head nod.
+
+Should be enough.
+
+I furrow my brows slightly while reaching back to scratch my head as the ‘being killed’ notices continue rolling in while muted.
+
+The looks they were sending me after the seventh fall though… makes me wonder if my common sense has gotten skewed over the years.
+
+It’s entirely possible, but…
+
+Nah, probably just my imagination.
+
+And my immortality.
+
+Anyways, I’m glad I ended up in a tier one part of the tree. Because there are a lot of things my Death Spirits can kill here.
+
+Makes for a good farm of progress in my purpose.
+
+And so, I end up spending the next ten hours just lazing around on a large tree while my Death Spirits work away at the large tree cavern.
+
+During this process, I actually manage to get even more beings killed than I had gotten during my last treks into the trench. Which is a pleasant benefit of chopping down these trees.
+
+What’s even better is that the trees grow back somehow and still count! Although it takes them hours to grow back.
+
+Probably a result of the mana here.
+
+After I finish up for the day and gather everything up from my spirits, I find quite a haul. One that has the attendant at the station’s eyes bulging in shock as they sputter once I arrive.
+
+“Y-y-you got all of this?! In one day?!” she exclaims, not keeping her voice down and thereby drawing attention over here from others. Leading to me getting even more attention. But I just nod at her question, following which she calms down and says, “My apologies, I’ll begin counting now.”
+
+Cool.
+
+I wait for her to count up everything – which takes a while – before collecting my coin and heading out back in the direction of the city established near the Grand Tree.
+
+The city is rather impressive in its own right. But what makes it impressive isn’t the size of the city.
+
+It’s the massive barrier going over it, protecting it from anything that might attack or fall from the tree above us.
+
+Something that generally happens rather often from what I hear.
+
+My own case as an example.
+
+I find myself smiling as I walk through the little outcrop of plains surrounding the Grand Tree, just feeling rather peaceful now that I’m not actively fighting someone.
+
+It’s nice to be on break again. Especially since I can focus on making more coin and leveling up at the Grand Tree.
+
+Because I really need to put in effort to level up if I want to get anywhere in the next century.
+
+A rather depressing thought.
+
+As I walk, my mind begins to drift off towards the war.
+
+From what I was told about it, there are four total war fronts. Each fought at different strategic locations.
+
+One of the locations is in a mountain range filled with trees, where a large fortress is stationed, blocking the path towards that part of the Byrne Clan’s territory. Another location near the coast where a coastal fortress is located on a cliff. A place I passed by on my trip over to the Sullivan Clan’s Grand Tree in fact.
+
+Then there’s a major fortress that powers the barrier blocking people from entering the Byrne Clan’s territory, stationed at the very edge of the territory and right inside of said barrier so that it can defend it.
+
+And lastly, an aircraft carrier in the ocean. One that is manned by quite the number of weapons, with a fully automated system meant to deal with the ocean forces brought by the Sullivan Clan.
+
+Overall, a good defense. And now that the Sullivan Clan is unable to make more weapons, they’re gonna be in a pinch.
+
+I glance up at the tall tree in the sky as I near the city before looking down again.
+
+The only question at this point is where I’ll be stationed.
+
+Or if I’ll even be stationed at just one place, since it’s entirely possible they could have me moving between locations.
+
+Either way though, this war is finally truly beginning.
+
+Just as soon as the armies make it where they’re going.

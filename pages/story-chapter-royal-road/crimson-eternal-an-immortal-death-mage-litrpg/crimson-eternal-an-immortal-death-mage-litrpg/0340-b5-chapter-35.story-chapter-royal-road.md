@@ -1,0 +1,143 @@
+---
+id: 5bcc1f58-d90b-5b86-a34b-86eaf4d78732
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 35"
+slug: 0340-b5-chapter-35
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 340
+ownLength: 1380
+unit: words
+publishedAt: 2026-03-27
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/3201425/b5-chapter-35"
+royalRoadId: "3201425"
+---
+
+Aria
+
+The war continues on for several more months before it finally begins to wrap up. First with Pestilence growing tired of the war and straight up leaving, followed by War getting bored of slaughtering the small-fry here and trying to harass Arthur into accepting his duel. Only for Arthur to repeatedly decline enough even while fighting him that War just straight up leaves.
+
+Which ends up with Famine being the only one left here of the Horsemen aside from me.
+
+And Famine – from what I can see from the footage shown to me – is left stuck here, locked in space through space magic. Thanks to the help of a vast majority of the surviving mages of the Arcadian Society.
+
+All of whom are very upset with what Famine did to them.
+
+Famine is currently surrounded by three different Grands. Both of my parents and Arthur. On top of millions of assassins and knights from both the Council of Darkness and the Crimson Empire, my brother, and the mages of the Arcadian Society.
+
+He’s also straight up been ditched by the other Horsemen. Since I’ve already received word that War is entering another battlefield somewhere in some other galaxy. And Pestilence is nowhere to be seen.
+
+Probably back on his own planet again doing experiments now that his anger has faded.
+
+I casually sip on my wine as I lie in one of the beds in the castle’s many rooms. Just wearing a tank top and shorts enjoying the recording.
+
+Because it’s the first time I’ve seen Famine struggle.
+
+And he’s really struggling right now.
+
+He’s covered in injuries from head to toe, even if he’s constantly draining energy from those around him to keep up his combat ability. And he doesn’t look happy.
+
+But why would he when he’s facing off against three Grands and numerous other people all at once and on his own?
+
+Or, on his own until he opens a portal to summon his own armies. Finally fighting alongside his forces for the first time that I’ve seen.
+
+If I had to guess, he’s held back because he strongly dislikes the idea of needing help from non-Horsemen. Or something like that at least.
+
+But he doesn’t have much of a choice now.
+
+Even if his powers make him grow stronger the more people are around him, there are still just too many people attacking him at once.
+
+In fact, before I even get close to finished with watching the recording, I hear news about how the galaxy all around their battle is completely destroyed. Making it a very good thing that they decided to hold this little war of theirs in an uninhabited galaxy without all that many planets in it.
+
+The galaxy is practically a hazard just to enter at this point.
+
+I turn over onto my side while resting my head on my hand with my elbow on the pillow. Just watching the screen as the battle progresses on it.
+
+The different Grands all focus on attacking Famine while the mages all hold him back. Blocking him from escaping.
+
+But at the same time, Famine repeatedly tries to break through their spatial lockdown spell. Slowly putting dents in it. Breaking it bit by bit.
+
+All while the Grands hurt him more and more. Even if he regenerates from the majority of the damage.
+
+Except for when my parents work together to drain his energy at a pace far quicker than he’s recovering it. Something they don’t seem to be able to do often judging by how much exertion they’re putting into doing it.
+
+And right as cracks begin to form in the spatial barrier from Famine’s attempts to get away, a powerful cursed attack is launched by Arthur along with his subordinates and even the mages of the Arcadian Society. All at once.
+
+I watch as the powerful cursed attack hits Famine mere seconds before the barrier shatters. Making Famine lose his left arm in the process. With numerous other gashes opening up across the rest of his body at the same time.
+
+But that’s all that happens to him. Even if the wounds are covered in some sort of blackish purple energy.
+
+Because Famine opens a Gate and passes through it.
+
+Right after sending one powerful blade in the form of an arc-shaped black hole that devoured millions of mages, assassins, and knights in the process. And even manages to badly injure all three Grands in the battle.
+
+Letting Famine get away, ending the war at last.
+
+I tap my chin as I see the video coming to an end. Feeling that the ending to this battle is rather surprising.
+
+If I’m being honest, a part of me didn’t expect the Grands to be able to beat the Horsemen at all. Or cause any significant problems for them.
+
+But I guess that was wrong.
+
+Pestilence and War both got out of this without any consequences, other than Pestilence’s research, but Famine is a different matter. Because from what the Crimson Knights tell me, that curse was one that blocks any and all forms of healing and regeneration.
+
+So a normal person wouldn’t be able to recover from those wounds.
+
+But since he’s a Horseman, they believe he’ll eventually recover from most of them. Even if it takes years.
+
+So they’re planning on recovering from their own injuries quickly before hunting Famine down.
+
+There’s a major problem with that plan though, from what they tell me.
+
+What the Grands apparently don’t realize right away though – from what the knights tell me – is that Famine didn’t just teleport somewhere in the universe through that Gate.
+
+He went into the Plane of Famine.
+
+A place no one other than him and Famine Spirits can enter.
+
+I go ahead and tell the knights this, at which point they quickly begin to show panic before they notify their superiors. But I just lie back on my bed with my arms out to my sides. Staring up at the ceiling as I do so.
+
+If I had to guess, Famine was holding back during that battle. All because of his sheer arrogance and superiority complex.
+
+Actually, more like a god complex.
+
+After all, he never once summoned any Famine Spirits during the battle despite me knowing that he can.
+
+He said so himself when I spoke with him before the meeting.
+
+That he doesn’t like summoning them to help him because he enjoys commanding those ‘mortals’ to sacrifice themselves for him instead. Rather than using the Famine Spirits that he almost sees on the same level as us Horsemen.
+
+So he didn’t use one of his strongest trump cards in that battle.
+
+His army of Famine Spirits.
+
+That would’ve made the battle a lot easier for him.
+
+But since he didn’t use them, he was left struggling and even injured before escaping.
+
+I close my eyes.
+
+Knowing him, he probably won’t hold back the next time he fights them. And he will go back for revenge as soon as he’s recovered.
+
+At the same time though, he won’t be recovering any time soon according to those who cursed him. Which will give them plenty of time to take back the territory claimed by the Dread Empire. Freeing those under Famine’s rule as they do so.
+
+And Famine isn’t going to sit back and watch that happen. He’ll probably leave the Plane of Famine before he fully recovers just to stop them.
+
+Most likely.
+
+There’s always the chance that he abandons them to fully recover first.
+
+It entirely depends on how he views this.
+
+I feel like it’s more likely that he’ll leave before fully recovering though. Simply because he would absolutely hate the idea of people thinking he’s weak enough for him to lose most of his territory.
+
+That said, if he doesn’t leave before recovering, I can’t really see them ever killing him. Not when he doesn’t hold back from arrogance.
+
+I let out a sigh at that thought.
+
+Well, whatever.
+
+None of this really has anything to do with me. So I’m just gonna take a nap now.
+
+Right as I’m about to fall asleep though, a thought comes to mind.
+
+Huh. Guess that deal with Pestilence is on hold for a while.

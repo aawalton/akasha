@@ -1,0 +1,319 @@
+---
+id: f7d102ae-7e41-543c-877f-87f5f814676a
+page-type-slug: story-chapter-royal-road
+title: "199: Unprecedented"
+slug: 0199-199-unprecedented
+partOf: delve
+position: 199
+ownLength: 3896
+unit: words
+publishedAt: 2022-07-24
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/955185/199-unprecedented"
+royalRoadId: "955185"
+---
+
+“Enter,” Dominus Illus said, seated at the broad metal table that dominated the receiving room. He was aboard the Heart of Adamant, in the quarters ceded to him by the ship’s Cento. Not looking up at the door’s motion, he continued studying the schematic of the vessel spread on the table before him. The annotations, written in the latest Imperial Coding, resolved themselves into common before his eyes. To most others, they and the schematic as a whole would read as complete gibberish.
+
+When he finally looked up, it was not the Cento standing before him, but rather one of the man’s Sereni. Setting aside his annoyance, Illus gestured for the officer to speak. “Well? Do you have the information I requested?”
+
+“Apologies, Dominus, but Cento Lenus first wishes me to—“
+
+Illus merely had to narrow his eyes to stop the Sereni in his tracks. The man cleared his throat, seeming to shrink in on himself like a dog fearing the boot. “We have not been able to determine how they are blocking the core override.”
+
+Illus clicked his tongue. “Unbend your spine. I am not Alarus, to mistake failure through opposition for failure through incompetence. However, if you continue to forget the pride of Adamant, you will wish that I were he.”
+
+“Sir,” the Sereni said, rising stiffly. He took a deep breath, then composed himself, standing at attention.
+
+“Better,” Illus said, settling back into the Cento’s padded chair. It was far too plush for his liking. “Their speed?”
+
+“Still increasing, up by another three parts in ten. They are headed toward deep water.”
+
+“Hmm,” Illus said, glancing at the time on his interface, then back down to the schematic of the Fist. “They are bold. I cannot deny that.” Two of the stolen vessel’s Domain Anchors were non-functional, they knew, but it made little difference. The Incarnations and the barriers would be drawing more of the ocean’s ire than the emissions from any journey core. He was surprised they hadn’t started attracting Whales already.
+
+“Sir, Cento Lenus has authorized an increase of our speed to match and is continuing to pursue.”
+
+“Good,” Illus said. His glorious ships would endure whatever came—Whales, or worse. What irked him was that the thieves had managed to repair the Fist’s core. Their ability to disregard the remote shutdown command simply followed from that first impossibility. They told him the Fist had been destroyed, cut cleanly in half through the core room. That the hull had been raised and repaired was possible, but the core? It was equally difficult to believe that the thieves had just happened to have a replacement core on hand capable of disregarding metallic interference.
+
+Something does not add up.
+
+Illus tapped his finger on the vessel’s heart in the schematic. “There is still no external magic that could explain their motion?”
+
+The Sereni shook his head. “No, Dominus.”
+
+Illus’s frown deepened. He supposed he would have to wait to learn the secret until the ship was retaken. He didn’t like waiting.
+
+“There is something else, Dominus,” the Sereni said, clearing his throat, looking nervous again.
+
+“Speak,” Illus said.
+
+“The anomaly overcame Sereni Kemer’s Fourth. The Eyes say that he is now confirmed to be the leader of the enemy forces. His name is Rain, amongst other aliases.”
+
+Illus narrowed his eyes. Their leader? Now that was surprising. Even more surprising than when the anomaly had survived the Recalled Meteor, earning himself that designation. That, in turn, had been more surprising than when he’d survived having his throat slit. It all came back to the failure of the Eyes in performing their primary function.
+
+He would be having a conversation with them later.
+
+Illus looked back up at the Sereni. “Any further details on the anomaly’s abilities?”
+
+“The Mind says he is some manner of evolved Warder-Detonator hybrid. Sir, if you could—”
+
+“No Beacon could defeat a Fourth,” Illus said, waving a hand dismissively. “Mind’s ravings.”
+
+“Apologies, Dominus, but the Mind said you would say that,” the Sereni said. “She also instructed me to tell you he is using something called Prismatic Intent.”
+
+Illus looked up sharply at the skill name. It wasn’t one he recognized, which meant the Mind should never have spoken it.
+
+“It is an obscure manakata, allowing multiple Aura use,” the Sereni continued, mistaking Illus’s reaction. “The Mind says the observations are consistent with no less than six simultaneous workings. She also said that a Beacon displaying such skill and power is unprecedented in her Memory.”
+
+Illus frowned. It was not just the Eyes he would need to speak to later. Minds were always peculiar, their sanity cracking under the weight of their knowledge and the potent restrictions layered upon it. Those restrictions were clearly not working.
+
+This went too far.
+
+Not only the Mind, but Cento Lenus as well would need to be reprimanded. The man had proven himself lax for his Mind to speak so freely. His Knives to be so dull. His Eyes so blind. His chair so unapologetically soft.
+
+Does he think this a pleasure barge?
+
+Illus clicked his tongue again, watching the Sereni squirm. He returned his face to a hard mask of impassivity. Knowledge was a treacherous thing. He would have no choice but to recommend Revision upon their triumphant return to civilization. Perhaps for not just the unfortunate officer before him, but for the ship’s entire complement.
+
+Still controlling his expression, he returned to the matter at hand. “So, the anomaly is gold-level?”
+
+The Sereni hesitated. “The Mind does not believe so, however—”
+
+“It is not the place of a Mind to believe,” Illus said, again tapping the table. He used no force, but the gentle impact of his finger was enough to make the Sereni take a step back. “It is the place of a Mind to know.”
+
+“Yes, Dominus. As you say, Dominus.”
+
+The silence stretched.
+
+Finally, Illus sighed. “I am satisfied with your report for the moment. Now, what did the Cento send you to ask me?”
+
+The Sereni straightened again, somehow looking relieved and more nervous at the same time. “Cento Lenus asks that you authorize another Incarnation, Sir.”
+
+Illus raised an eyebrow. “Because of a Beacon?” From the quiet lapping of the water against the hull behind him, Illus already knew the answer to his next question, but he asked it anyway. “What is the status of the goldwalls?”
+
+“Holding, but the Tread of Industry is still sustaining a continuous assault. The enemy assailing the barrier is moving too quickly for the Eyes to track, and neither active Incarnation is available to deal with it. They are fully occupied by the Guilder Halgrave and the False Lilly. All other parties that we have sent beyond the safety of the barriers have been cut down.”
+
+Illus continued tapping his finger against the table as he considered.
+
+“Sir, please, if you could just come see for your—“
+
+“Enough,” Illus raised a hand. “Cento Lenus must persevere with the resources he has been given. If he believes our situation is truly so dire, he can tell me that himself.”
+
+“Dominus,” the Sereni said, lowering his eyes in compliance. “I shall carry your words.” He slammed a fist to his chest. “Adamant Unbending.”
+
+“Adamant Unbending.” Illus made a shooing motion. “Leave me. I shall expect your return with news of any significant developments concerning the Fist. Do not bother me with trivialities.”
+
+Not watching the officer depart, he looked back down at the schematic. He wished he could have given the Sereni what his Cento wanted, but as Dominus, he had his orders too, handed down from the Potentate himself.
+
+If they could not retake the Fist before the Incarnations expired, they would have no choice but to abandon the chase. The loss of the vessel would be a personal insult, but he would not jeopardize the entire war for his pride. Three Cliffs was to be taken and fortified, a safe harbor past the badlands to serve as an anchor for the assault on Barstone. Deploying more Incarnations now would be risking disaster when the clash with the Citizens truly began.
+
+For a third time, Illus clicked his tongue.
+
+An entire Fourth defeated by a single Beacon. Absurd.
+
+Metal thrummed beneath Val’s feet as he huddled in the command deck with the rest of the baggage. Above him on the lower crew deck, those who could actually fight were gathered in case of incursion. Below him on the core level were the Mages and Crafters who weren’t entirely useless in this situation; Ava and Kettel, hurling fire at the boiler; Clubbs, working to hold back the water; and Tallheart, doubtless the reason the ship was only leaking instead of resting on the ocean floor.
+
+A massive jolt suddenly shook the hull, triggering a wave of screams. The battle between Halgrave and the Incarn was still raging, and from the direction, the two were fighting atop what was left of the outer deck. The level just below had been evacuated after the Incarn’s poleaxe had torn a gash through the ceiling.
+
+“What happens if he loses?” Lana asked once the cries of alarm died down.
+
+“He won’t,” Mahria replied, propped up against a crate with her hands pressed against her stomach. “He fought Westbridge, remember?”
+
+Another concussion shook the vessel, preventing Lana’s reply, and the lights flickered.
+
+“Westbridge won that fight,” Taron reminded Mahria, gripping a metal support beside Kalman and Gardener.
+
+“Only because he tricked him,” Mahria fired back. “My dad’s an ass, but he’s untouchable on the surface.” She grimaced, taking her hands away from her stomach, then placing them back. Tahir had healed her enough to close her wounds, but no more. The Healer had already been almost spent after healing those who’d been on deck when the Fireballs had fallen. With his efforts and the exhaustion of Ascension’s potion stock, they’d managed to save most of them. Most. Kip and Telen were still missing, probably blasted overboard, and Mollo...
+
+Val grimaced.
+
+He didn’t deserve that. Raise a fucking jar.
+
+“What if he gets tired?” Meloni asked as the tremors of another impact faded. Jamus was nodding beside her.
+
+Mahria laughed, then winced. “Are you kidding? He’s a melee goldplate.”
+
+“So is the Incarn,” Jamus said. “Depending on your definition of gold. How long do they last, anyway? Incarns. Does anyone know?”
+
+No one responded, and before long, another jolt shook the ship. When the deck stilled, the silence lasted for another long moment until it was broken by an angry shout.
+
+“Where the hells are they!?”
+
+It had been Corrin, rising up from the crate he’d been sitting on to punch the wall. The Geomancer cursed, shaking his hand.
+
+No one said anything, though they all knew who the Geomancer meant. They shared his sentiment, too. Rain, Ameliah, and Vanna were all missing. Worse, Rain’s armor had been found abandoned in his room. Not a single person seemed to know where they’d gone or had seen them leave.
+
+“Nails?” Myth asked, standing beside Reason, not far from Jamus and Meloni.
+
+The balding Mentalist shook his head. “Still blocked.”
+
+“When did you last try?” Ruce asked. Like the Mentalist, several of the Diviner’s spells were less affected by the metal around, but that didn’t make him any more useful than the others. The one spell they could have really used in this situation, Scrying Pool, was out of his reach, despite him having reached level nine.
+
+“I haven’t stopped trying,” Nails said, rubbing his head with a pained expression. “It doesn’t—“
+
+Val stiffened as Nails cut off mid-sentence.
+
+“What is it?” Ruce asked.
+
+Nails shook his head. “I lost Vanna.”
+
+“What?!” Meloni demanded.
+
+Nails grunted. “The spell didn’t connect, and not because it was blocked. There was no response at all. She’s either out of range, or...”
+
+Another impact rattled the hull, and half the lights didn’t come back this time. A wire must have come loose. Val summoned his Lunar Orb between his hands, keeping it close to shield it from the influence of the metal.
+
+“Just lost Rain, too,” Nails said.
+
+“Well, we’re fucked,” Corrin stated, matter of fact.
+
+“Shut up,” Val said. He couldn’t say he disagreed, but the last thing they needed was a panic. He wasn’t overly worried about Ascension cracking under pressure, but there were others aboard. Many of the Vestvallan members had brought their families, as had a few of the latest recruits from Three Cliffs.
+
+It was to one of these that he looked, daring to hope. “How fast would you say we are going, to already be a quarter-league from shore? That’s how far Nails can reach someone with Message. How long will it take us to get to Barstone?”
+
+Shu remained silent for a moment before responding in that curious, thick accent of his. “I cannot say.”
+
+“Take a guess, navigator,” Val growled. “It’ll be at least as good as any of ours.”
+
+Shu shook his head. “Again, I cannot say, bearer of Light. I do not know our heading. I would need to see the stars.”
+
+Bearer of Light?
+
+Val narrowed his eyes. Not for the first time, he found himself thinking about the man’s accent. It seemed almost...fake. Exaggerated. As if it had been layered on thickly to hide something else underneath. Something vaguely familiar.
+
+“Val, leave him,” Ruce said. “We’re not sending him up to take a look.”
+
+Val grunted, fighting to keep his balance as another impact rocked the vessel. This one was worse than most, and someone somewhere behind them screamed so shrilly that he’d have believed they’d been stabbed. When the keen ended and the shaking stopped, he gave Ruce a look. “Nobody was suggesting that.” He glanced at Shu again, seeing the navigator watching him closely before he looked away.
+
+The man was clearly suspicious of him too, but that was probably just reciprocation. Like many others, Val didn’t trust the recruits from Three Cliffs in general, and he hadn’t exactly been trying to hide that fact. Ultimately, though, while their new navigator was shiftier than most, he wasn’t awakened. The damage he could do was limited.
+
+He was just as useless as the rest of them.
+
+Damn it.
+
+Val’s fingers flexed as he tried to strangle the empty space occupied by his Lunar Orb. Despite his wishes, the magic provided no resistance.
+
+I need another blue.
+
+As the darkness receded, Rain began picking his way toward Bakal.
+
+His steps crunched.
+
+The stone surface was brittle and pitted, shattering away with just the impact of his workman’s boots. His clothing, too, had suffered. Less from the Dark damage, from which it had been protected, and more from the abuse of the Adamants’ magic. It felt threadbare, tattered, and thin. So incredibly thin.
+
+“Captain Rain,” Bakal greeted him, shifting his wooden mallet to rest over one shoulder as he moved to meet him. “Nice work.”
+
+The Sea King was still surrounded by a shell of water, quiescent now, like a soap bubble rather than the torrent of before. The watery tentacles sprouting from his back arched protectively over him, barely poking out through this liquid shell. The tentacles came from a skill Rain recognized, but the shell was something new to him. Perhaps it was tier four, or perhaps it was hidden, or perhaps it was simply expert Hydrodirection. Now wasn’t the time to ask.
+
+Rain came to a stop at the same time as Bakal, taking in another detail. The enormous man’s flesh was sagging, his formerly plump face now creased and lined. His entire body, in fact, was shriveled like a flabby raisin.
+
+Oh. Oh, I see. Wait, what skill is that? It’s not Internal Reservoir... Or maybe it is, just with some modifier. Is it even on purpose?
+
+Rain shook away his questions, coming to a stop. “Bakal,” he said, nodding to the pirate, then turning to look out at the sea and the battle that yet raged. He didn’t reduce his Clarity, still leaning on it for regeneration. When his mana reached full, he shunted the excess to his Magewell, and it must have shown in his eyes.
+
+Bakal reacted defensively, extending his tentacles and looking where Rain was looking. “What is it? Is something coming?”
+
+“I’m just recharging my equipment,” Rain said.
+
+“Oh,” Bakal said, relaxing and drawing his watery arms back in.
+
+Rain glanced at him. “Do you need mana?”
+
+“I need many things,” the Sea King said with a tired sigh. Stone cracked as he shifted his footing, and Rain noted that the bubble of water had thinned. One of the pirate’s tentacles was snaking its way along the ground for the dozen-odd meters to the ocean. As Rain watched, the magical construct plunged over the edge, then thickened, bulges of water traveling backward along it like it was some kind of enormous cartoon straw.
+
+Again, Rain waved away his questions. “Brace yourself,” he said, then included Bakal in Winter. He held nothing back. The man was silver. He could take it.
+
+Bakal inhaled sharply through his teeth. “Well, that’s more potent than expected.” Another of his tentacles writhed, gesturing at the devastated landscape. “Now I see why they call you Death Zone. Deny the name as you like, just as I deny mine, but it fits.”
+
+Rain nodded slowly. He deliberately didn’t look at the shadowed forms of the fallen Adamants, barely visible through the downpour. He’d already seen all he’d needed. The bodies were little more than charred and frostbitten husks. Like soggy, burned-up matchsticks.
+
+“Hmm,” Bakal said, lowering his mallet and letting the head thump to the ground. Already he was starting to plump back up as he stared out at the horizon. “Did you know your ship is leaving?”
+
+“I’ve noticed,” Rain said, more concerned with the barely-visible shockwaves in the rain that told of Ameliah’s continuing battle. “Do you have Surf?”
+
+“I do, but it isn’t what I would call efficient,” Bakal said. “Not at speed. Not for that kind of distance.”
+
+“Not a problem,” Rain said, the blue rings of Essence Well appearing around the pirate, who again reacted with a twitch of his tentacles. Rain turned his glowing eyes upon him, expressionless. “Will you help?”
+
+Bakal recovered from his surprise quickly, releasing a booming laugh that sent wobbling tremors across his now fully re-inflated body. “You are terrifying. Do you know that?” He gestured. “To not even be winded after this? And to still be using mana at that kind of rate? I believe I have been underestimating you.”
+
+“Will you help?” Rain repeated.
+
+Bakal grinned. “I expected to die today, you know?” He raised a hand. “I will help. I owe you that much. Tell me, though, just how much mana do you have, truly? I do not wish to die when you run out.”
+
+Rain looked back out at the ocean. “I have enough.”
+
+It was a lie. There was no such thing.
+
+We need to go.
+
+He took a step toward the ocean. “Come on, let’s—“
+
+Hearing rapid footsteps, Rain stopped, then turned to see the remainder of his party approaching. They were joined by Thrast and a few more members of the local Guild, one of them bearing an Evertorch.
+
+“Rain!” Vanna shouted, in the lead.
+
+“Gods...” one of the local Guilders—Cessa—said, tripping over one of the shriveled swordsmen. That didn’t seem to have been the cause of her outburst, though. She was staring straight at him with an expression that said she was seeing more than normal sight could account for.
+
+Thrast began laughing. “I never had a fucking chance.”
+
+They can’t come with us.
+
+“Everyone,” Rain said, nodding to Vanna before turning to Mereck. He needed to get to Ameliah, but since a small delay looked unavoidable, there was no sense not taking advantage of every resource he had. “Sorry, Mereck, but I seem to have lost some of that health you gave me.”
+
+Mereck nodded, stepping forward, then placing his hand on Rain’s shoulder. “Try to keep better track of it this time.”
+
+Rain inclined his head in thanks as he felt the rush of healing, then turned back to look at the sea. With a flick, he allowed Winter to flood over everyone there, though only at half strength. Thrast and the Guilders gasped, reaching for weapons, but his own people barely reacted, long used to the sensation. Except Dust, that was, who released an excited whinny.
+
+“What now?” Samson asked, stepping up to join Rain. “Is that Ameliah, fighting up there?”
+
+Rain nodded. “I think so. Captain Bakal and I are going to Surf out and help her.”
+
+“Can he take us too?” Vanna asked, having joined Rain on his other side.
+
+Rain shifted his gaze down to Temerity. The ship was still fleeing, and the two Empire vessels were still pursuing, surrounded by their barriers. If Halgrave and Velika hadn’t made a dent in those by now, there would be no overcoming them. If he and Bakal could get Ameliah, then get to the others, the best they could do would be to join them in flight.
+
+Balls.
+
+He turned, then pointed toward the lift. “No. I want all of you to get to the top of the cliff, then go north. We’ll pick you up when we can. Cross the mountains if you have to. Worst case, meet us in Barstone. And be careful. There are still Knives unaccounted for.”
+
+Vanna shared a look with Samson, then looked back at Rain. “We refuse.”
+
+Rain pivoted his glowing eyes to stare down at her.
+
+She wasn’t fazed in the slightest. “We’re coming with you.”
+
+Rain shook his head, sweeping his gaze over the others. “It’s too dangerous.”
+
+Vanna simply stared at him in challenge.
+
+Behind Rain, the Guilders were muttering to each other.
+
+“Gods, it’s like ice in my veins.”
+
+“Did you see the size of that spell he used? It covered the whole harbor!”
+
+“Death Zone...”
+
+“His eyes are shining...”
+
+At last, Rain spoke, barely audible above the pounding rain.
+
+“I am the real man...”
+
+“What?” Vanna asked.
+
+“Korpiklaani,” Rain said, song lyrics running through his head. “Don’t worry about it. It’s just the Clarity talking.” He glanced at Mereck, then Bakal before gesturing to the sea. “I’m full, Mereck. Let’s go, Captain Bakal, unless you need healing too.”
+
+“Just the Clarity talking?” Bakal said consideringly. Slowly, a wide grin spread across the old pirate’s face. “Okay, I see what’s happening, yeah.”
+
+You’re face to face with greatness, and it’s—NO.
+
+Rain mentally slapped himself.
+
+Stop it, brain. You can’t just change genre like that, especially not from Finnish metal to a Disney song. This is serious.
+
+Bakal gestured at the still-rising rings of Essence Well. “How much mana you have is the wrong question. You can sustain this indefinitely, can’t you?”
+
+Rain nodded, seeing no hope of a lie being believed. “I can.”
+
+Bakal’s grin widened, his own eyes beginning to glow even more strongly than Rain’s. “In that case, we have...another option. Heal me, little Healer. This will take some time. Depths, I haven’t done this in an age.” He turned toward the sea, then raised his arms, water exploding upward at his call as the pressure of his soul flared upward. The exploding water began to flow in giant streams, coming together to form something. Something big.

@@ -1,0 +1,147 @@
+---
+id: c1462ab6-543b-5dc8-9c5e-de022e077f7d
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 37"
+slug: 0265-b4-chapter-37
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 265
+ownLength: 1566
+unit: words
+ownProgress: 1566
+publishedAt: 2025-03-25
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2150156/b4-chapter-37"
+royalRoadId: "2150156"
+markedReadAt: "2026-06-29T19:14:45.966Z"
+---
+
+Aria
+
+I manage to successfully complete all of the paperwork without being glomped or cuddled by Little Blue. Mostly because of Crimson’s teleporting of the girl away from me when she tried the first several times. After which she gave up.
+
+Then Little Blue moves on to discussing matters of the mercenary company with me. The Pale Mercenaries.
+
+Specifically how my current fame and popularity is helping the company grow by leaps and bounds. Both in the stock market and with getting new mercenaries.
+
+Not that we really needed much help in the recruitment department from what I saw while on Eternus.
+
+Little Blue goes on and on about a bunch of things she deems important. Mostly things regarding the wealth, status, influence, etcetera of the company. Including how much it’s making annually, the expected growth, how many planets we send our mercenaries to, how many world leaders we have connections with, and so on.
+
+None of which I really care about. What with my massive pile of money that I have from my year upon years of endless hunting that only seems to grow no matter how much I spend on explosives.
+
+Although it is at least nice to know about the connections the company has made. Since I can use those connections to check out new worlds.
+
+I may even be able to look at what the mercenaries are doing there.
+
+Would be interesting to watch them fight.
+
+“Are you listening?” Little Blue asks with a frown after looking at me from the PowerPoint she was going over in my office.
+
+I subconsciously nod my head without thinking about it. Which has her narrowing her eyes at me.
+
+And thus our lovingly boring session continues as I wonder what I’m doing with my life. All the way until she finally finishes, and I manage to escape to the Fracture near the station.
+
+Then I continue slaughtering mana creatures within it for another few decades. Completely losing myself in my books, TV shows, and death magic training while I do so.
+
+Until I find myself stuck in the stomach of a Tier 10 mana creature, that is. One that just has some pitch black pit in the place of its stomach, so I’m not even sure how to get out.
+
+I can’t see anything in here, can’t move, and don’t actually feel any pain.
+
+I just feel cold.
+
+Which makes it so that I can’t really read a book or anything while in here.
+
+What I can do though is fill this place with miasma and see if it does anything.
+
+So I do just that. I constantly create miasma for days upon days, filling the place to the brim. Then I eventually start using my black flames on everything as well until I finally begin to see something that’s not just pitch black darkness.
+
+Tiny little cracks in the darkness that look kind of like cracks in flesh.
+
+Interesting.
+
+I purse my lips for a moment before shrugging and pulling out a bundle of about a dozen nukes.
+
+Let’s see if this works.
+
+The Tenth Tier of the Fracture
+
+Laura Ren Thorne yawns as she uses her spatial magic to carry her lazy self through the center of the Fracture’s deepest depths towards the massive orb floating dozens of meters in front of her and her entourage of random soldiers. And just like when she first entered this place at her sister’s order, she wants to go take a nap somewhere. But she also knows the soldiers won’t let her.
+
+So she keeps moving while yawning over and over again. Casually making any mana creature that approaches her pop like a balloon after spatial fractures appear across their bodies.
+
+Unlike her sister, Lyra, Laura doesn’t have light based magic. Which disqualified her automatically from the position of Star.
+
+But despite that, pretty much everyone in the Second Star knows that Laura is stronger than her twin. And that their Second Star would be a much greater force if Laura or Lyra actually cared about going out to conquer others.
+
+Laura is too lazy for any of that though. So she just spends her days sleeping.
+
+She was actually surprised when her sister barged into her room while she was trying to watch the latest anime and dragged her out to join this search team saying something about their savior having been in the Fracture for over thirty years without a word of hello.
+
+It doesn’t really matter to Laura if this savior of theirs is still alive or not, but she kind of hopes she is. Because it would mean the search wouldn’t take as long.
+
+Fortunately for her, Lyra said that if she would be anywhere, it would probably be closer to the center of the Fracture.
+
+Must be a strong savior…
+
+Laura yawns again while popping several more mana creatures like balloons, making their insides splatter across multiple barriers around Laura and the soldiers behind her. Soldiers who by now are used to their team leader’s attitude and are just ignoring what she does.
+
+Eventually the group arrives at the lair of one of the few fracture blobs of the Fracture. The Tier 10 mana creatures ruling over the others with an iron stomach.
+
+After that, Laura stops moving and pulls out her sensor. Activating it without really expecting much.
+
+Only for the sensor to begin beeping, waking her up ever so slightly in the process. Only for her eyes to begin drooping closed again as she orders the soldiers, “Cut open this blob… I’m gonna take a nap.”
+
+The others fall awkwardly silent at that command but begin to gather their tools anyways.
+
+But right when Laura is about to go find a good place for a nap, she pauses. Because she sees something odd about the blob that attracts her attention.
+
+So she teleports straight up to it and studies the cracks around the creature’s body.
+
+The blob itself is a massive ball of flesh and blood with mouths that occasionally open up at random places across its body. With tentacles growing around those mouths that pull food inside so that it can absorb the life force from said food forever in its stomach that is cut off from reality in a strange dimension region.
+
+Theoretically it should be impossible to escape from the blob’s stomach without a level surpassing ten thousand. But Laura finds herself feeling a little surprised when she sees flashes of light coming from underneath the slightly cracked skin of the blob.
+
+And with every flash of light, the cracks grow by a tiny amount.
+
+Laura tilts her head in curiosity at the sight. Only to eventually shrug and create a blade of pure spatial rending power around her right hand.
+
+Then she digs that blade straight into one of the cracks, making the blob open up dozens of mouths across its thousands-of-meters-long body while screeching the soldiers’ ears off.
+
+Literally, in the cases of two of the soldiers whose ears crumple.
+
+But they’re healed soon after by other soldiers, so Laura ignores it and continues digging into the blob.
+
+Until she finds herself immediately teleporting away when a massive explosion shoots out of the cracks, making the blob screech even louder as the cracks are widened.
+
+Laura blinks at the sight before waiting for the explosion to die down. But when she moves up to the blob again to continue digging, another explosion echoes out.
+
+And another.
+
+And another.
+
+Eventually she just pouts at the blob with her arms crossed as one explosion after another repeatedly widens the hole while making more cracks across the creature with more gouts of the same explosion coming out of them.
+
+Until the entire blob eventually just pops like a bubble from the inside out. Except with a massive explosion following the bubble’s popping.
+
+Laura makes a barrier around herself and the soldiers and waits for the explosion to eventually die down. And when it does, she finds herself staring at a single woman located at the center of the blob’s remains which are all floating lifelessly around in the Fracture.
+
+Then the woman looks up at Laura and tilts her head, asking, “Lyra?”
+
+But Laura is still trying to figure out what she just saw.
+
+“What are you doing here… wait a second, you’re not Lyra,” the woman continues through Laura’s silence.
+
+Before Laura can bring herself to say anything, she finally takes note of the three nukes that the woman is currently storing away somewhere. At which point it all clicks in her head.
+
+She… brute force nuked her way out of the blob? But how? That shouldn’t work unless…
+
+Laura’s thoughts pause as she notices the miasma in the area, along with the black flames.
+
+Oh… no idea what those black flames are, but the miasma might’ve…
+
+Her thoughts run faster than they’ve ever run in the last five years of her anime watching binge, only for her to eventually just shut her mind down and yawn as she says, “I’m Laura, and I’ve completed my mission now. Have a nice day.”
+
+Then she teleports away without another word, heading back to her room to continue watching anime.
+
+Deciding that trying to figure out what an anomaly does when they’re doing anomaly things is too much trouble.
+
+And that she’d rather go back to her anime.

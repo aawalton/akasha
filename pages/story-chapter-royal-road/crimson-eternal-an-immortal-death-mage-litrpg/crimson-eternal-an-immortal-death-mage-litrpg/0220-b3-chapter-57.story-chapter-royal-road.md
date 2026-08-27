@@ -1,0 +1,167 @@
+---
+id: 39a79b83-a989-5f08-8bd3-b45168ac3c66
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 57"
+slug: 0220-b3-chapter-57
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 220
+ownLength: 1472
+unit: words
+ownProgress: 1472
+publishedAt: 2024-10-21
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1861573/b3-chapter-57"
+royalRoadId: "1861573"
+markedReadAt: "2026-06-29T19:13:12.794Z"
+---
+
+Aria
+
+I end up spending the next few days – because that’s how long it takes them all to fight – just reading my new book. And as I read, I can’t help but wonder.
+
+Should I try writing one of these days? Becoming an author?
+
+That would be interesting.
+
+I could write stories inspired by my own lovely adventures. Or I could write up research papers over things I’ve experienced myself.
+
+Like that curse on the Cheng Dynasty’s treasury. I’m sure a paper over that would go over nicely somewhere.
+
+Although I don’t really know enough about magic to really, well, do that.
+
+Maybe I should go to a magic tower one of these days?
+
+Not like it’d matter since I can’t use magic spells.
+
+That thought has me putting down my book for a second as I glance out the window at the fighting people who seem to be getting close to done.
+
+Huh. Actually, can I use magic?
+
+I know I don’t have an ability or skill for it right now, but what about the future?
+
+I’m Death after all. It would be weird if Death couldn’t use Death magic.
+
+Certainly worth a shot.
+
+My thoughts pause on the subject when all of the noise outside finally grinds to a sudden halt. And when I focus on them all, I find each member of the Council of Darkness finally retreating. Meanwhile Shirogane didn’t let a single one of the other nation leaders or soldiers escape alive.
+
+He slaughtered every last one. And if I know him well, he’s also likely going to force a body contract on every single person within this dome making them unable to speak about his interference in this conflict. Just to cross every last possible leak.
+
+After all, it’d break the neutrality of the Eternal Dynasty if it leaked.
+
+He has to be incredibly cautious.
+
+I stand up from the chair I was sitting on next to the window before stretching a little while putting the book in a storage ring. Then I glance at Asher as the little guy gets up from the base of the chair, stretching himself. The little guy no doubt copying my habits.
+
+Adorable.
+
+I walk over to the bed before changing from shorts to pants and from a tank top to a regular T-shirt. And after putting on my usual jacket and boots, I go ahead and leave my room.
+
+Heading directly for the throne room.
+
+As I walk, though, every knight I pass by waves at me with a friendly smile. Which has become a regular sight around here, even if most of these guys also ignore me when I’m out walking around the battlefields.
+
+Putting that aside, I end up walking into a rather tense discussion when I enter the throne room unbidden.
+
+And I soon find myself smiling when I hear them discussing the magical silver. Not just debating over whether the dynasty will get access to it, but what the empire wants in return.
+
+Meaning at this point they’ve already decided that they’ll be getting the magical silver.
+
+Way to go, Shirogane.
+
+Way to go.
+
+And with nearly a decade to spare at that.
+
+Although I get the feeling he never would’ve gotten the magical silver if it weren’t for the stalker’s little scheme. Which means my parents paid for his success.
+
+Then again, he’s not at fault just because it benefits him. And they’re the ones who jumped in as soon as they could to meet me despite the potential dangers.
+
+Anyways, I sit at the side of the throne room on a window sill as I listen to the negotiations, ignoring the many nobles who occasionally glance my way from their places kneeling at the sides of the halls. Each one looking rather awkward at my casual presence over here.
+
+At this point I’ve stopped caring about their little noble etiquette.
+
+Just no point after all. Not like it affects me, and a certain emperor is still doting on me in a way.
+
+The negotiations continue on for a good while, leaving me sitting here swinging my legs back and forth as I glance out the window at the large dome that’s still around the entire capital.
+
+I wonder when Shirogane is going to remove that? Maybe after he gets the contracts from everyone? It is one of the conditions he put on his side of this little negotiation of theirs.
+
+Can’t have people leaving and talking. Not that anyone would be able to prove anything without evidence.
+
+But it would be best for him to avoid bringing more pressure on the Eternal Dynasty. Even if no one can really do much with just the words of random people.
+
+After all, even if there are truth-seekers, they can easily be tricked. And people’s memories can be altered.
+
+Evidence is king.
+
+There’s no changing that.
+
+I yawn before glancing at the throne room again right as they begin to close out the deal.
+
+Hmm. Guess Shirogane is going to officially be declared as a prince soon.
+
+Wonder if I should treat him any differently? What with him being royalty and all…
+
+I blink at that thought before frowning.
+
+Actually, come to think of it…
+
+My parents are the Emperor and Empress of the Crimson Empire.
+
+So… doesn’t that technically make me a princess too?
+
+I stare blankly for several seconds as they continue negotiating.
+
+Huh. Not sure how my mind missed that.
+
+I look down while tapping my chin in thought, my hair falling over my shoulder in the process.
+
+Maybe I was just too focused on the whole ‘not wanting to bother with this stuff’ thing that it didn’t register the implications beyond ‘my sorta family is alive’?
+
+No idea. But I guess I am a princess.
+
+Then again, I guess I’ve been blocking out the fact that the knights are calling me princess and Her Highness. Just not really recognizing it myself even if they’ve been calling me that.
+
+I purse my lips for a few seconds before just shrugging.
+
+Meh. Doesn’t matter.
+
+I’m me.
+
+On a different note, I wonder if Shirogane will have official duties now that he’s an official prince? Maybe?
+
+He’s already been rather busy.
+
+Oh, and him being promoted to a Nine Star Merchant as well.
+
+My thoughts cut off when the two finish negotiating, with Leopold not looking too pleased. But there isn’t much he can do.
+
+He can’t exactly turn away someone who pretty much saved his nation from extremely large setbacks. Possibly even saved Leopold’s life, if things had gone worse.
+
+And all Shirogane is asking for in return is the rights to trade for something. Not even for that something for free, but the rights to trade for it.
+
+I have to admit, though, when I hear the price of the magical silver that they end up agreeing on, my eyes bulge more than a bit. Because I can’t even afford a single ingot of it, and I thought I was filthy rich at this point.
+
+But then my eyes narrow a little and I cover my mouth with my hand, briefly wondering if I should invest in getting some magical silver gear at some point in my eternal life. Because if it’s worth that much, it would be very nice to have a full set of equipment made of it.
+
+Even if it would likely take millions of years to save up enough for that.
+
+Both Leopold and Shirogane turn to look at me with tired smiles on their faces, Shirogane’s emotions turning back on now that he’s no longer negotiating. And I still can’t help but wonder how it feels to turn off your emotions just from the sight of that.
+
+But I don’t say anything. I just wave at them before looking out the window again with a faint smile on my face.
+
+Looks like our time in this world is finally going to come to an end. What with Shirogane’s business being complete.
+
+I hear footsteps as everyone scatters from the throne room, followed by a flash of golden light from Leopold no doubt leaving. Then a single set of footsteps march towards me until Shirogane leans over the window about half a meter away from me.
+
+“Congrats on your success, Your Highness,” I tell him with the corners of my lips quirking upwards.
+
+“Thank you, Your Highness,” he jokes back.
+
+Silence fills the chamber for several seconds.
+
+Then he says something that leaves me stunned.
+
+“Aria, now that I’ll be officially instated as the Prince of the Eternal Dynasty, we won’t be able to travel together anymore,” he says, making my head jerk around to stare at him as I find a sad look in his eyes.
+
+“Excuse me, what?” I ask, just blankly staring at him.

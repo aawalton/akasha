@@ -1,0 +1,119 @@
+---
+id: 95d3259b-3fc9-58b4-b832-c7b3141c38c9
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 11"
+slug: 0076-b2-chapter-11
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 76
+ownLength: 1537
+unit: words
+ownProgress: 1537
+publishedAt: 2024-01-31
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1501930/b2-chapter-11"
+royalRoadId: "1501930"
+markedReadAt: "2026-06-29T19:08:31.077Z"
+---
+
+Aria
+
+Over the course of the next few weeks, I make daily trips to the fourth tier of the trench. Just gathering all of the resources I can find. And from time to time, I stop by the first tier to just slaughter fish. Since the bigger mana creature fish in the first tier count for one whole being to my leveling progress.
+
+I manage to make a lot more progress on leveling up now than when I was just sending my Death Spirits down here. Especially since I’m having my Death Spirits kill stuff on the first tier still while I’m on the fourth tier.
+
+So during my last month on Eternus, I manage to bring my level all the way up from level ten to level twelve. Killing a total of twenty-seven thousand things down in the trench.
+
+A much larger amount than what I’d normally do in a single month.
+
+Something rather… coincidental… is that the very moment the others and I are about to leave through the Gate to Luk’tar, the emperor pauses as he gets a call. So he takes the call, talks for a little bit, and hangs up. Then he smiles at the four of us, each of whom are standing in our gear right next to the Gate to Luk’tar with a bunch of other guards all around us as the emperor states, “Yeah, the Grand Roan Empire just called. So how about you all head out?” He waves, still with that polite smile on his face. “Remember to ask Shirogane should you need anything from us.”
+
+And without missing a beat, the emperor casually turns around and walks away, leaving me feeling stumped.
+
+I fucking swear, that guy has some sort of foresight power. He has to. The number of predictions he makes in business, his constantly messing with that coin, the fact that the Grand Roan Empire is calling the moment we’re leaving…
+
+There’s no way he doesn’t have some sort of foresight power.
+
+Then there’s the fact that Luk’tar’s war and my plans to leave happen to coincide as well.
+
+I watch the man walking away, feeling more than a little fear at this turn of events.
+
+Just how far does that man see? And how much is he manipulating everything?
+
+The man in question just walks out of the large, armed facility we’re in meant to process immigrants. A facility closed down to immigrants right now due to the Clan Leader’s presence.
+
+I glance at Shirogane to see his reaction, but he doesn’t show anything on his face. Nothing at all. Just his usual stoic and silent stare. The same one he always has in his business mode. Which is the mode I see him in almost all the time now.
+
+Actually have only seen him out of it a few times since that first time.
+
+Wouldn’t be surprised if he was unhappy with his first impression with me, considering that he’s my contracted partner with the Dynasty. And first impressions are important.
+
+After the emperor leaves, the four of us share a glance before walking through the large Gate.
+
+The first thing I notice after crossing through the Gate is the smell. Not even the large metal walls surrounding us, but the smell.
+
+I can clearly tell that the air on this planet is a lot less polluted than it is on Eternus. It just smells really fresh and like nature in general.
+
+Then I focus on the giant metal walls surrounding us. Like a miniature fortress made just to hold the Gate.
+
+Meanwhile a large gate slowly opens up within said fortress’s walls, revealing the outside. And the guards who travel through the Gate after us quickly move around to make a path through the wilderness I see outside.
+
+Unlike Eternus, Luk’tar is a world made up largely of mountains and forests. Oftentimes both in the same location.
+
+Other things I’ve heard about the planet is that, well, it’s full of mostly crafters. But they do have armies, and while their rank and file soldiers aren’t combat specialists, they’re using the extraordinary weapons they themselves made. And I believe the Byrne clan in particular makes guns.
+
+Which would be nice for me, since I use pistols and swords most of the time as my weapons.
+
+The Clan Leader also mentioned that he’d be providing me with weapons for the job so that I can assist more efficiently. And that I’ll be able to keep them after the term is up.
+
+So I have no complaints.
+
+The four of us move through the escort out of the fortress and into the mountainous forest beyond. Then we simply continue traveling until we reach the top of the mountain, at which point I see a rather beautiful sight. That of a rather large tree looking out over a coastal city.
+
+The tree has a large structure built through its trunk, with some more in the branches and a couple outstretching parts where people can walk around on the outside of the tree. Meanwhile the city below is filled with people. The vast majority of whom are rather short. Shorter than me.
+
+For some reason I feel a very faint amount of smugness from that thought.
+
+But I’m just gonna ignore that.
+
+Anyways, the soldiers I see across the city are wearing heavier metal armor, with some sort of odd weapons on them. They look like swords and guns fused into one. Or short swords at least.
+
+The weapons seem to have some sort of switch on the cross guard, with some of the guards pressing it to magically transform the blade into a gun. A transformation that also alters the hilt as well.
+
+And it’s rather interesting to say the least.
+
+Also, the armor seems to be made out of a metal I’ve never seen before. One most likely found in the Hunter Spots on this planet. Which, if I remember correctly, are giant trees.
+
+Kind of like the tree at the center of the city, but without the giant tree house in it.
+
+And I think the trees are supposed to have a lot of birdlike mana creatures and just other sorts of forest and mountain dwelling creatures. Like large hawks, monkeys, deer, more snakes like the trench, and wyverns. Yeah. Wyverns.
+
+No idea what a wyvern is, but people sounded frightened of them.
+
+We proceed through the city towards the large tree, which I’m now noticing actually doesn’t have any other foreigners in it. Just natives of Luk’tar. And when we arrive at the tree, we immediately head up it, going through various different tunnels in the tree, some ornate rooms, and then coming out on the exterior part to end up at a grand set of double doors leading into the tree again.
+
+The few guards who followed us all this way proceed to open the door for us before we walk in, revealing a massive chamber with water fountains on the side leading deeper into the tree, a large round table at the center of the room, and some sort of green crystal above the table high in the air.
+
+Sean walks into the room as a conversation that was going on before we opened the doors comes to a halt, following which the lukians involved in it go almost immediately slam their fists into their breastplates and shout, “Welcome back Clan Leader!”
+
+The Clan Leader waves them down as he proceeds through the hall alongside Rory, and I quickly join them with Shirogane. And as we walk, I can’t help but notice the stares the people around the table are giving me. A group that is half men and half women on the dot, with the women being just as short as the men.
+
+Sean walks straight up to the table before stopping and declaring, “I have returned with aid.” He turns to look at me as he declares, “Welcome tha Horseman of the Apocalypse, Death!”
+
+Silence immediately fills the chamber as the doors behind us slowly grind shut.
+
+It takes all of one entire minute before the council members start shouting.
+
+“Why’d tha hell did ya bring er’ here!?” “Are ya daft?!” “Ye’ve doomed us all!” “Why is she only level twelve?!”
+
+“Silence!” Sean shouts, his voice echoing throughout the room as the other lukians around the table go silent. “This lass is different from tha other harbingers! I’ve also already established a soul contract with er’. So shut yer yaps or I’ll be seeing yer asses out tha door!”
+
+They shut up right away.
+
+Well then. He’s certainly… assertive.
+
+Also, it’s kinda sad just how bad a reputation the other three horsemen get. All things considered.
+
+The Clan Leader proceeds to walk around the table until he reaches the largest seat at the opposite end. Then he sits down and motions for me to take a seat on the chair opposite of that. While completely ignoring the Silver Merchant, who walks over to stand at the edge of the room.
+
+At the same time, Rory walks to stand slightly to the right, behind Sean.
+
+“Now,” Sean states while leaning over the table. “Let’s begin. The first war council meeting.”

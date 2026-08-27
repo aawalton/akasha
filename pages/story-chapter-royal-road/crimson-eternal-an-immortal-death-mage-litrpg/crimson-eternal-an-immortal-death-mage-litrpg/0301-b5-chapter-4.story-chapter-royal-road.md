@@ -1,0 +1,149 @@
+---
+id: a89423b1-26a2-558a-bfa6-a2500ace7e51
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 4"
+slug: 0301-b5-chapter-4
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 301
+ownLength: 1414
+unit: words
+ownProgress: 1414
+publishedAt: 2025-08-31
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2561890/b5-chapter-4"
+royalRoadId: "2561890"
+markedReadAt: "2026-06-29T19:16:03.184Z"
+---
+
+AriaThree years later
+
+The day after Ruby and Ryan’s eighteenth birthday, I use a lovely item I got from a certain pharaoh without telling Shirogane or Little Blue to teleport straight to the bridge of my ship. Then I activate the other teleportation item I got from him to teleport the teleport panels within my ship away from the ship before immediately having Crimson bring the ship off the planet.
+
+And before I get any sort of messages or calls, the ship enters lightspeed, traveling far away from Eternus.
+
+Not to mention the mound of paperwork that I was supposed to start working on today for the latest planet to annex itself under my control.
+
+All without anyone catching me. I even had Raja do a search of my ship and override of the commands on it just to make absolutely certain that Little Blue didn’t add any ways to track me or teleport to me. Or to have Crimson take me back himself. Not that he even has the authority to do that.
+
+Raja even installed some new devices on my ship to make sure they block any unwanted teleportation attempts both from within and outside of my ship. Just to make sure no one ever finds and teleports to me.
+
+And my payoff for all of this?
+
+I find myself smugly looking out through the windows of the bridge as the ship moves at light speed far away from Eternus towards the next planet on my list to visit. With this little parenting arc of my life behind me now that the twins are finally adults.
+
+The twins are great, and I love them, but I am never adopting another kid. Even if I kind of foisted off most of the worst parts of raising them onto the Death Spirits.
+
+Like changing their diapers as babies.
+
+It’s fine. The Death Spirits don’t have a sense of smell, so they can’t smell it.
+
+I think.
+
+They don’t have noses after all, so it’s probably true that they can’t smell.
+
+If they can? Well, I just won’t consider that.
+
+Willful ignorance is great after all.
+
+Anyways, I’ll make sure to visit the twins at least once every few decades or so. And I’ll call from time to time as well.
+
+Although they’ll probably be calling me a lot more than I’ll be calling-
+
+My thoughts are interrupted when my terminal begins to buzz, making me look down to see a call from one of those very twins. And then a call from the other, and a call from Little Blue, and a call from Leone, and a call from Shirogane.
+
+And more calls other than that.
+
+Yep. They’re probably not happy.
+
+It was never really my idea to create a nation or the Pale Mercenaries in the first place though. So I will just leave the issues of managing them to Little Blue and the others down there.
+
+I will answer the twins’ calls though.
+
+With that thought, I smile as I look out the window and answer the call.
+
+“Seriously?” Ruby asks with a frown, followed by Ryan who seems to be in the same room as her as he asks, “You left the day after our birthday?”
+
+“Little Blue never once suspected I would leave this quickly, now did she?” I ask without looking at the terminal screen.
+
+I hear the twins sighing.
+
+“I’m more surprised that I didn’t expect this to happen…” Ruby mutters, sounding almost like she’s talking to herself. Then she focuses on me again as she says, “Please don’t lose track of time in some mana creature’s stomach, okay? And make sure to come visit at least once a decade. Remember that you have the café to return to and improve as well if you need more motivation.”
+
+My expression brightens a little at the mention of my lovely café.
+
+Right. I need to continue improving that and the winery. So I should visit from time to time for that.
+
+Of course, seeing the twins is good too.
+
+I notice Ruby narrowing her eyes at me through the screen, but I act like I didn’t notice. Then out of nowhere a door in whatever room they’re at right now – most likely in the Pale Mercenaries Headquarters building – bursts open and I notice Little Blue charging through the door.
+
+“Aunt Aria Crimson, you better get back here right now and finish this-” she begins, only for me to interrupt her as I say, “Looks like I’m passing through an asteroid belt, so I’ll be on my way. See ya when I see ya!”
+
+And without hesitation, I make a swift exit from the call as I hang up.
+
+I give myself a proud nod of my head at my own actions before crossing my arms and smiling smugly out the window.
+
+Good. No one to bother me as I immerse myself into fiction and level up for years upon years!
+
+And most importantly, no paperwork!
+
+I can also study my Death Magic a bit more in this time, since I’ve grown a little stagnant in that. Even if teaching it gave me a bit of a new perspective on it all.
+
+But most importantly, I get my quiet.
+
+I let out a sigh before pressing a button on the chair of my command seat, making a glass of wine rise up from the floor. Then I take said glass and begin calmly sipping away at it. Just waiting for the ship to make it to my destination.
+
+Peace and quiet.
+
+With no one-
+
+A portal suddenly appears to my right of which War casually walks out of.
+
+I glare at him.
+
+“Go away,” I tell him with a frown. “I’m trying to enjoy my peace and quiet here.”
+
+How did he even find my ship anyways?
+
+As if he wasn’t bad enough, a certain Demon King suddenly appears on the other side of my bridge.
+
+“Okay, what the fuck is going on with those defenses Raja set up?!” I shout while waving both of my arms – after draining my wine, of course – in exasperation.
+
+|Defenses are operational. The problem seems to be connected to the identities and powers of the two intruders. Would you like me to annihilate the Demon King clone?|
+
+I love how he doesn’t even bother with mentioning annihilating War. Because there’s no way he would be able to do that.
+
+“Please do,” I tell it while glaring at both War and the Demon King body. “And try to figure out a way to stop them from bothering me again.”
+
+|Understood. Annihilating the intruder.|
+
+Shouts ring out in the bridge as a bunch of robots march in with rifles, meanwhile more rifles and even lasers appear all over the bridge and begin bombarding the clone. Killing his clone while I ignore every word he shouts.
+
+Although I think I did pick up on a couple words no matter how much I tried ignoring him.
+
+Like something about trying to join me on my journey.
+
+As if I’d let him.
+
+War barely glances at the Demon King as he asks me, “You heading out on a little journey?”
+
+I glare back at him and answer, “Yes. Now go away.”
+
+Instead of leaving he walks over to an open area on my bridge, pulls out his sword, and seems to begin doing some training drills with it. Clearly not bothering with doing as I request.
+
+I turn a slightly dead look up at the ceiling of my ship as I wonder how the hell things went so wrong.
+
+How I ended up being War’s little place to go for years whenever he’s bored in his little war against Isabella. Not to mention how the hell that archmage has continued fighting for years against Famine.
+
+Unless Famine is just toying with her?
+
+Then again, he probably is just toying with her. Leaving her alive and able to fight back without finishing her off just to mess with her.
+
+The main question is whether or not he’ll actually finish her off in the end this time. Unlike the last times he toyed with her. Not to mention made her hate Horsemen in the first place.
+
+I let out a sigh.
+
+This is ruining my plans for peace and quiet…
+
+As if to mock me, another Demon King clone appears on the bridge of my ship and begins continuing where the last one left off.
+
+Why me?

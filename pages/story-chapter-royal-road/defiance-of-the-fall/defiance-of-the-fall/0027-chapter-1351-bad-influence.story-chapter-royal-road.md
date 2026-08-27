@@ -1,0 +1,203 @@
+---
+id: 6b9159bb-0d31-5147-9d62-f57c23024082
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,351 - Bad Influence"
+slug: 0027-chapter-1351-bad-influence
+partOf: defiance-of-the-fall
+position: 27
+ownLength: 3156
+unit: words
+publishedAt: 2025-09-09
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2587946/chapter-1351-bad-influence"
+royalRoadId: "2587946"
+---
+
+Zac inspected Tavza while ushering her to his temporary residence. The sun was extremely glaring in this region, and even he suffered from prolonged exposure. An undead would have it even worse, yet Tavza showed no sign of discomfort.
+
+Undead generally combated hostile Dao through their equipment. Low-grade cultivators fought under Unholy Beacons while Higher-grade would have similar features installed in their gear. Those who grasped innate methods to resist ambient Dao were rare. Catheya was one, and Tavza was another.
+
+The An’Azol heiress felt like a walking Nexus Vein, providing a ceaseless font of Abyssal Death to combat Heaven’s glare. Surprisingly, Zac sensed a vague resonance coming from her, and not because of his Eoz heritage. That aspect didn’t transfer between bodies. Rather, the connection was to his human side. Zac couldn’t figure out the reason without scanning her body, but he had some idea of what was going on.
+
+“I never got the chance to thank you for helping me back there,” Zac said as they entered his cave, gesturing for her to sit down by a table.
+
+“It’s nothing. Doing so aligned with my goals, and opportunities to observe the Dao of Chaos are extremely rare.”
+
+“Still, I’ll remember the favor,” Zac said. “I hope it didn’t put you in a tough spot?”
+
+“Nothing worth mentioning,” Tavza said, avoiding Zac’s attempt to confirm his hunch. “Now, if you could explain how Kator died?”
+
+“You knew?” Zac said, noting Tavza’s lack of reaction.
+
+“How else would the tracker enter your hands? I could also feel when the agreement was voided.”
+
+“Fair enough,” Zac wryly smiled.
+
+Zac quickly recounted his experiences since Kator appeared on Earth. Tavza already knew part of it, but she seemed genuinely surprised to hear two Undead Autarchs had snuck into the Zurbor sector to capture him. She was already waiting to sneak into the Imperial Graveyard at that point, and everyone’s lines of communication were cut soon after entering.
+
+Tavza asked a few clarifying points, emphasizing their words and treatment. She didn’t care about the details of how he escaped their grasp, rather focusing on their goals. Zac didn’t see any reason to hold back in that regard and shared what he knew and his suspicions about being used as a political prisoner.
+
+Zac couldn’t read Tavza’s thoughts, and his attempts at digging for information yielded little. He was able to confirm the rebellion hadn’t reached open warfare last she heard. So far, it was mostly limited to gathering arms and schemes among those at the top. It also wasn’t a complete rebellion. Apart from the Abyssal Shores, there were factions among both Reavers and Vampires who remained neutral. Whether that remained true today was impossible to say.
+
+Eventually, Zac reached the part with Kator’s betrayal under the influence of the Lost Era’s corruption, and entering the trial mid-breakthrough.
+
+The Azol scion sat in silence for a few moments as she digested the news. “And that is why you’re here instead of Arcaz?”
+
+“Exactly. I ended up in the area, so I’m afraid you’ll have to make do with me.”
+
+“Why?”
+
+“Why, what?” Zac asked since Tavza’s expression provided no context clues.
+
+“Why are you still trying to complete the mission? The agreement is voided, and you’ve made it clear you’re not interested in joining the empire. You could just walk away,” Tavza said. “The outcome of this mission will not only affect me, but it could also affect the fate of the Abyssal Shores. I need to understand your motivation before I’m comfortable working with you or sharing intelligence.”
+
+Zac remained silent for a few seconds before telling the truth. “For protection.”
+
+“The empire is in chaos—the whole Cosmos is. It’s not certain we can protect ourselves, let alone you,” Tavza sighed.
+
+“Well, I don’t have many options,” Zac shrugged. “My little faction and I have drawn too much attention because of Ultom and the Fifth Pillar. We need an umbrella to cover us during the fallout. The Primo’s my best bet. Seeing how the rebels are scrambling to stop the treasure from entering his hands, I’m guessing it’s powerful enough to ruin their plans.”
+
+“What if the rebels give you a better offer than the Primo? Will you give the treasure to them?”
+
+“What’s the point?” Zac said. “Ignoring my strained relationship with the other divine races, only the Primo is a peak figure among your Supremacies. Can the rebels make the Centigrade Pryer or the Seven Heavens back down? I doubt it.”
+
+“What if the Abyssal Shores have joined the rebels by the time we emerge?”
+
+Zac couldn’t immediately answer. While unlikely, that scenario would certainly throw a wrench in his plans. The issue wasn’t just jeopardizing his access to the Abyssal Shores in the future. Protecting his people would come at the cost of betraying the shores after they’d poured so much effort into helping him. It definitely wouldn’t sit right with him.
+
+“I guess I could give it to your ancestor, provided he used it to smooth things over with the Primo?” Zac eventually said. “That way, we all get what we want. I don’t think the shores would have turned traitor unless they were coerced.”
+
+“The future is full of variables, and even I cannot speak to what route the elders will choose. There is a risk our goals will put us on a collision course,” Tavza countered. “As much as we wish for the blood of the Vanguard to return, the continuation of our race would take precedence.”
+
+“So you’re planning on going at it on your own?” Zac asked.
+
+“No. I share your hope. A war at this moment isn’t in our interest. The dangers far outweigh the potential gains, especially now that you’re involved. It’s worth risking my life if the treasure can make the rebels rein in their ambitions, and working together will increase our odds of success,” Tavza said. “That said, we need a new agreement.”
+
+“What do you have in mind?”
+
+“The treasure will be brought out by whichever party has contributed the most to the mission,” Tavza said. “I can give you the treasure should I be the one to seize it, but only after confirming it aligns with our race’s interests. If I do, Arcaz shall immediately return with me to the shores. No tricks or excuses.”
+
+“And if I get it?”
+
+“Then that’s fate. I’ll have to pray my ancestor’s trust in you wasn’t misplaced.”
+
+“That’s fine with me, except one thing,” Zac said. “I know Arcaz is planning on visiting the shores, but I can’t promise anything on his behalf.”
+
+“You cannot speak for your own clone?”
+
+“Arcaz is—”
+
+“Do you think us stupid? You’ve been kept under near-constant surveillance for years. My side has spent as much time covering your tracks as gathering intelligence,” Tavza said. “We might not understand exactly how you’ve accomplished what you’ve done, but the Cosmos doesn’t lack for the mysterious and inexplicable.”
+
+“Fine, fine. I’m not saying you’re right, but I agree with your terms,” Zac relented.
+
+Tavza’s mouth twitched with exasperation, but she didn’t press the issue. “You said we need to set out? I assume it’s related to the memory domain?”
+
+“My teammates were trapped while investigating a threat to our mission. I can’t head to the Hollow Court before I’ve saved them and resolved the issue.”
+
+“A threat…?” Tavza slowly said. “Have you been targeted by Mox?”
+
+“How the hell did you know?” Zac blurted.
+
+“For any number of reasons. Because you’re enough of a troublemaker to drive Supremacies up the wall. Because following a thread of fate related to Mox led me here. Most of all, you’re both Void Cultivators,” Tavza said, raising her hand before Zac could object. “We’ll be stuck here forever if you insist on keeping up the charades. We may not have understood what you did during your duel with Kator, but I’ve since come to understand the truth.”
+
+Zac quickly moved on to hide his embarrassment. “You said you followed a thread of fate to come here? Is that how you found me?”
+
+“To be exact, a spy of ours supplied the blueprint of Kator’s tracker ahead of time. From there, it was easy to make a modified receiver,” Tavza said as she displayed a small stone. “I can see anyone without them seeing me.”
+
+Knowing some of the dirty tricks Kator had played over the years, Zac wasn’t surprised to hear Tavza had responded in kind. “How did you get mixed up with Mox?”
+
+“I’ve told you I enjoy researching ancient texts, particularly regarding the Limitless Empire. I encountered mentions of Mox while investigating the Hollow Court in the Imperial Graveyard, and I’ve followed the clues since. She was thought to hide in the Void of the Inverse Peak to avoid Heaven’s Wrath.”
+
+“Was?” Zac reiterated. “She’s dead?”
+
+“Presumed dead,” Tavza said. “I’ve spent some time studying beings who’ve reached a state of false Eternity. I should have encountered mentions of someone like Mox. Such a sinister route to immortality leaves traces, yet I’ve seen no mention of her following the Dark Ages.”
+
+“So her scheme failed,” Zac muttered.
+
+“Not necessarily.” Tavza shook her head. “I started closer to the Farsee Court due to my seal. In case you aren’t aware, the Farsee Court is where the Imperial Workshop is headquartered. They were the ones who built the vast array spanning the whole continent. It held unfathomable power, and certain parties intended to use that to their advantage.
+
+“Mox’s method of extending her lifespan came with an immense Karmic debt—you should have guessed as much if you’ve encountered her followers or Grimoires. I believe her aim is to permanently resolve this issue. The Hollow Court has opened many paths to the Lower Planes for reasons I’m not yet aware of.
+
+“They needed to spread the weight of the Fifth Pillar,” Zac clarified. “They were afraid the Left Imperial Expanse couldn’t bear the burden alone.”
+
+“That explains some things,” Tavza nodded. “However, doing so created weaknesses in the Imperial Road that Mox exploited. She used these pathways to connect her Karma with the continent’s, and by extension, the Limitless Empire. Her sins became theirs.”
+
+“You’re saying Mox somehow pinned her crimes on the Limitless Empire?” Zac said with surprise.
+
+Until now, he’d worked under the assumption that Mox planned to use the chaos to partake in an enormous feast. The ramifications would be far greater if Tavza were right. The Hollow Court would have their hands full resisting Heaven’s wrath when the Fifth Pillar was erected. To suddenly be saddled with the sin of an existence as evil as Jalach was like pouring gasoline on the fire.
+
+Zac also couldn’t help thinking of Ogras. He’d never quite understood why the demon was chosen by the Hollow Court. The Mercurial Court was connected to the Peaks of Continuum and Fantasy, and nearly all its sealbearers followed a related path. Meanwhile, the Hollow Court appeared associated with the Inverse Peak and the Peak of Chaos. Ogras practiced neither, but his plan for his [Shadewar Flag] sounded very similar to what Mox was up to.
+
+“Precisely,” Tavza nodded. “She may have succeeded only to be caught unprepared by the Dark Ages. She may also live on, using a different method to extend her life. There would be little point in taking this risk if she had to resume her hunts shortly after.”
+
+“Cleansing the slate,” Zac muttered.
+
+The pieces fit. Mox having some abilities related to the Void, even if only as an auxiliary path, was the simplest answer to how the corrupted garden disciple could hide in the Void between dimensions.
+
+“Anyway, you’re right,” Zac said. “Mox is targeting me. I can’t step into a memory domain without my danger sense going crazy.”
+
+“She must consider you a threat to her plan,” Tavza said.
+
+Zac had already suspected his connection Void was the reason Mox was so insistent, though he didn’t understand why. He was just a Hegemon, and there were limits to what he could do. Even if he could find Mox’s apostles inside pockets of Void, she could just raise new ones. It wasn’t like he could threaten Mox with his meager abilities.
+
+However, if Mox planned on framing the Limitless Empire, then she needed to be perfectly hidden when the Heavens went crazy. Otherwise, she wouldn’t just face retribution for her own transgressions, she might be implicated by Limitless Empire’s massive sin. And Zac was someone who could open a door to Mox’s hiding place—no wonder she couldn’t abide his existence.
+
+The Draugr continued with a tone tinged with resignation. “You plan on using yourself as bait so that an Imperial Supremacy can slay her.”
+
+“Or at least scare her off,” Zac confirmed.
+
+“Are you confident?”
+
+“It’s a work in progress,” Zac grimaced. “Actually, I could use your help. Do you have a way to hide my presence? The odds of success will be much higher if I can control the timing and set things up beforehand. That’s partly why my companions entered the memory ahead of me.”
+
+“That’s…” Tavza looked slightly troubled.
+
+“Is your hesitation related to the fluctuations of Creation coming from you?” Zac asked.
+
+“It is,” Tavza sighed after a slight pause, and Zac suddenly sensed the fluctuations far more clearly than before.
+
+“May I?” Zac asked.
+
+“Go ahead. But I ask that you do not interact with it. It’s… temperamental.”
+
+Zac nodded in understanding before sending over a Mental Tendril. Entering Tavza’s body felt like being submerged in the Abyssal Lake. Zac quickly infused some Dao of Death into his spiritual thread to keep it from being eroded without causing harm as he followed the calling. And there it was. A second heart.
+
+The opalescent organ was nestled right next to Tavza’s Cosmic Core. It had a beat despite not being connected to any veins or nerves, each thump releasing a significant amount of Creation Energy. The heart was surrounded by countless runes radiating Abyssal Death and Oblivion. The array had created a separate space that kept the foreign heart isolated. It kept Tavza safe, but just countering the steady pulses of Creation required a significant amount of Miasma.
+
+“What the hell? Is it a shard? No, it’s pure energy…” Zac muttered. He looked up at Tavza in disbelief a true undead could walk around with such a thing without keeling over. “How did this happen?”
+
+“It’s the price of touching the Peak of Chaos without the qualifications,” Tavza said. “Some of it followed me back after our previous encounter. I could barely survive with it spread across my body, let alone exhibit my abilities. I finally found a solution during my time here. I delineated the Dao, separating Chaos into Creation and Oblivion.
+
+“One became nourishment, the other a lesser threat. However, it exhibited surprising resilience. Because of how I reached you, I believe the energy is directly connected to the Tapestry of Chaos. I still couldn’t expel it, so I chose to contain it all in one spot. Then this happened.”
+
+“Is this thing why you’re traveling alone?” Zac asked. “You’d have little left for yourself if you had to provide your subordinates with Miasma while keeping that thing trapped.”
+
+“That’s one of the reasons,” Tavza nodded.
+
+The situation was eerily similar to his own, and Zac wasn’t thinking of the Shards of Creation. Tavza’s predicament was just like when he was poisoned by the ancient Draugr blood, which eventually turned him into a Draugr himself. Zac had even combated his festering wound the same way, though naturally in a much cruder fashion.
+
+Tavza didn’t have a Technocrat Heritage to deal with the malignant tumor. Besides, the Creation lodged by her core was far more troublesome than some ancient Draugr blood smeared on a Corpselord’s weapon. Just as Tavza said, it seemed even purer than his own Creation. It retained a state of perfection he’d only seen when absorbing Chaos Motes.
+
+“I’m not sure I can absorb its energy as much as I’d like to. It’s almost like it has a will of its own. There are a few other things I could try, but I’m not sure how well it’d work,” Zac admitted.
+
+The most obvious route was blasting it with [Void Mountain]’s Dao-extinguishing brand. Exhausting Dao with Void was much more effective than Tavza’s war between Creation and Death. However, there was a limit to how much Dao Zac could extinguish every second, and he wasn’t even sure his complete stores of Void Energy were enough to deal with the heart.
+
+The alternative was trying to open up a Void Vortex inside Tavza’s body to swallow the accumulation in one big bite. His personal Void could easily accommodate that amount of energy, and it might even prove highly beneficial. Unfortunately, Zac didn’t have that kind of fine control over his Bloodline. If he managed to open a vortex, he’d probably accidentally cut Tavza in two.
+
+“The good news is that I’m certain this thing has no connection with the Heart of Creation. I’m intimately familiar with their brand of obsession, and there’s none of that here.”
+
+“It’s fine. I can keep it under control. Worst case, I’ll have my ancestor expel the corruption upon my return,” Tavza said. “I’m only bringing it up because there is a limit to how much energy I can divert to hiding your presence.”
+
+Zac kept his face impassive to keep his suspicions from showing. Tavza wasn’t exactly one to wear her heart on her sleeve. Still, shouldn’t there have been some disappointment upon hearing she’d be stuck with the energy-draining parasite for the foreseeable future? Would she have accepted if he presented a solution, or would she have come up with an excuse? Because it almost seemed as though she wanted to keep it around.
+
+“Let me know if the situation changes. I’ve been implanted with all kinds of weird things over the years, so I’ve gotten pretty good at coming up with counters on the fly,” Zac said, deciding to drop the matter. It was no business of his if Tavza wanted to turn the ball of Creation into something useful.
+
+“I will,” Tavza promised. “If you give me a moment, I’ll prepare something that should buy you a few hours.”
+
+“That’s perfect,” Zac said, part of his attention diverting to the Seal of Fertile Earth floating inside [Purity of the Void]. “It should be enough time to call reinforcement.”
+
+“A Hegemon slaying a God,” Tavza lightly exhaled. “I look forward to writing history with you.”
+
+Zac looked at Tavza with surprise and some alarm. She was being sincere. Ventus had already cracked under the pressure, blabbering about the winds of Chaos whenever death drew close. Now, it looked like the An’Azol descendant had lost her marbles before they even started traveling together.
+
+Was Ogras right? Was he really that bad an influence?

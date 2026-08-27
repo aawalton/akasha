@@ -1,0 +1,139 @@
+---
+id: 73bf6d04-9150-5103-8ef6-33f2180cad83
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1 - Roll For Survival"
+slug: 0002-chapter-1-roll-for-survival
+partOf: defiance-of-the-fall
+position: 2
+ownLength: 1563
+unit: words
+publishedAt: 2019-05-05
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/359137/chapter-1-roll-for-survival"
+royalRoadId: "359137"
+---
+
+[Initiating System…]
+
+[Welcome to the Multiverse.]
+
+A cold, detached voice echoed in Zac’s ears. Or in my head? he thought while looking around, confused. Nothing in his life had prepared him for his current circumstances, and he for a second thought there was an extreme solar eclipse happening. All that greeted his eyes was complete and utter darkness. The only thing visible was himself, as if there was an invisible source of light shining just on him, leaving the rest of the world in black.
+
+“Heatstroke?” he muttered hesitantly even though this didn’t feel like some heat-induced delirium. But before he could further analyze these baffling events, the monotone voice interrupted his train of thought.
+
+[Planet Earth scanning complete. Low F-grade mass, ungraded energy.]
+
+[Adjusting…]
+
+[Due to insufficient energy and size, planet Earth will be merged with additional planets drafted for initiation. New values: Low D-grade mass, low D-grade energy. Topography readjusted. Spawn points randomized based by cohorts. Wildlife upgraded due to insufficient challenge. Link to the Multiverse system activated.]
+
+“What? Hello?” he shouted, or at least he thought he did, as the utter blackness seemed like a natural dampener, quenching all sound. But the voice seemed unaware or uncaring of his calls.
+
+This was starting to feel less like some extremely elaborate practical joke or heatstroke, as everything felt just too real. Zac pinched himself, and the sting told him he hadn’t passed out either.
+
+Trying to glean any meaning from the ramblings from the odd voice only made him more confused as well. It spoke about Earth, but also used some terms that felt like they came out of a sci-fi movie or a video game. However, the voice gave Zac no opportunity to figure the situation out, as it heedlessly droned on.
+
+[Initiating Incursions. Spawning Heral–]
+
+[ERROR! Herald occupying same space as you! Adjusting…]
+
+A more blaring version of the same mechanical voice interrupted itself.
+
+The ominous voice and the message quickly accelerated Zac’s heartbeat, and he got a sinking feeling. This was all too real in its craziness, and if this was real, he was in deep shit. He was told he occupied the same space as some herald, and no matter how he looked at it, it couldn’t be anything good.
+
+Erring on the side of caution, he jumped to the side to avoid whatever would happen, but it was as though he were in space. He made the motions of movement but still was stationary at his spot.
+
+[Merge unfeasible. Protocol SL-34572 initiated.]
+
+“Phew.” At least he wouldn’t be turned into a half human, half herald, whatever that was. But the fact that the voice seemed to be ready to mash him together with another being was extremely unsettling, and unease was quickly turning into panic.
+
+Zac mentally tried to force himself to awaken, and when that didn’t work, he even slapped himself hard in the face. But nothing worked, and he was still stuck in the darkness.
+
+[Roll for survival. Due to the massive power gap between Herald Ur’Khaz and you, odds heavily in his favor.]
+
+“SHIT!” Zac screamed, or rather squeaked. The panic was now full-blown, and adrenaline was coursing through his veins. “WHAT THE HELL IS GOING ON?”
+
+But again, the only thing greeting his inquiries was utter silence until there was a break in the darkness. Seemingly from nowhere, a screen popped up in front of him, hovering silently.
+
+The window looked like something taken out of an old video game, blue with white edges and text. The surreal situation made him blank out for a few seconds before registering what the screen actually said.
+
+Ur’Khaz
+
+1-100 000
+
+ROLL
+
+Zachary Atwood
+
+1-100
+
+ROLL
+
+It looked just like a prompt from a video game, and the familiarity actually calmed him down for a second until he read what it said and realized the implications. At that point the panic came back in full swing, threatening to evolve into hysteria.
+
+It looked like the window was a prompt for rolls between him and this herald, but instead of loot, they were rolling for their survival. And the roll ranges were clearly skewed in his opponent’s favor, giving Zac abysmal odds for actually surviving.
+
+“Hello? This isn’t funny anymore. Let me out!” he screamed, grasping at some last straws that this was all some insane experiment. But the reality of the situation was starting to set in. Zac just stared numbly at the screen in front of him for a few seconds as if to comprehend what he was seeing.
+
+“This is crazy. Wanting me to gamble with these odds? Why the hell would I roll?” Zac muttered. But the second he said “roll,” the screen changed, and the numbers next to his name started to rapidly change.
+
+[Protocol SL-34572 accepted by participant. Rolling…]
+
+“No, no, no, wait, wait. Stop. Let’s figure out a different solution!” he shouted, waving his arms in a panicked attempt to stop the proceedings. But no matter what he did, the numbers kept spinning. It was as though they were rapidly counting down his remainder of time on earth.
+
+Panic was slowly turning into rage in Zac’s mind over the messed-up situation he was in. Rage over the complete and utter lack of answers. Rage over the obviously paltry assessment of him by the voice, seeing the obvious disparity in treatment between him and this Ur’Khaz guy. Rage over the scammy way the voice had started the roll, as though it looked for a loophole to proceed.
+
+With a red tint that suffused his otherwise blue eyes, Zac roared and smashed the hovering screen in an effort to vent his fraying emotions. The screen, however, did not acquiesce to his feelings and shatter in a million pieces, but rather only flickered slightly.
+
+Unheeding of any attempts at a physical catharsis, the numbers once again flickered slightly, and the spinning started to slow down until it stopped at a final number. Almost as an afterthought, it also added an infuriating line instead of the roll button.
+
+Ur’Khaz
+
+1-100 000
+
+ROLL
+
+Zachary Atwood
+
+98
+
+Re-Rolls unavailable
+
+Something about the reroll message just sucked the energy out of him. It really wasn’t a bad roll. If it were in a game, he’d definitely have won the loot, he thought with a morbid sense of humor. But he was quite aware that this was no game by this point.
+
+He still held out some hope that he was still lying in the woods with massive heatstroke. But if that was true, he most likely was a goner as well. So either he was about to be killed by the sun, or by a video-game god. Neither was an ending he had expected nor hoped for. He didn’t know whether to laugh or cry, so his face settled on a sickly grin as he blankly stared ahead.
+
+Of course, all hope wasn’t lost, as the other individual hadn’t rolled yet. But it didn’t really feel like it mattered when the game was rigged. He once again took a glance at the screen, and his eyes lingered for a second on the roll range of the other entity.
+
+The smile slowly shrank away from his face. A sigh escaped his mouth like a deflating balloon, and he closed his eyes and slumped down to a sitting position. All of Zac’s strength and energy were wrung out by the situation and the roller coaster of emotions. Left was only a bleak sense of despair, realizing that this was it. Dead alone in the woods, never being able to say goodbye to his family or loved ones.
+
+Zac had no epiphanies or huge regrets at the end of his life, except that he wished he had been closer and better to his family. His mind drifted to memories of his past as a solace and escape from the insanity he was experiencing.
+
+, her long brown locks cascading around him in her embrace. His dad giving him a quiet smile as he opens the door of their apartment to head to work, his eyes sad and tired but full of love. Spending most of his youth plastered in front of the computer, largely ignoring his smaller sibling. College years drowned in alcohol and partying. First day at his job, and the humbling realization of how ill-prepared for adult life he was even after seventeen years of school and university.
+
+[Protocol SL-34572 accepted by Herald. Rolling…]
+
+The monotone voice again droned, like an executioner giving final rites.
+
+[Congratulations!]
+
+Zac didn’t bother with the voice anymore, and memories flashed past in his mind one by one. Friends, family, and events both happy and sad. Not the most exciting of lives, but it was his…
+
+Wait, what, congratulations? His eyes snapped open and refocused on the monitor.
+
+Ur’Khaz
+
+91
+
+Rerolls Unavailible
+
+Zachary Atwood
+
+98
+
+Rerolls Unavailible
+
+Stunned, he stared blankly at the screen until the voice interrupted his lack of thought.
+
+[Protocol results in the continued existence of Zachary Atwood. Ur’Khaz vanquished. Resuming standard protocols.]
+
+A nauseating explosion of light, color, and sound took over, disorienting him and turning his insides to mush. His body suddenly felt like it was on fire, tearing and scorching him all over. The last things he saw before passing out were the small clearing he disappeared from and a huge red pillar reaching toward the sky.

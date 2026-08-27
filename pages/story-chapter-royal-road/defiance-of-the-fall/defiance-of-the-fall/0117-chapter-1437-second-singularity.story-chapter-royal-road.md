@@ -1,0 +1,175 @@
+---
+id: 8b74428a-80d3-52cf-88d8-88aaf6cd81df
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,437 - Second Singularity"
+slug: 0117-chapter-1437-second-singularity
+partOf: defiance-of-the-fall
+position: 117
+ownLength: 3039
+unit: words
+publishedAt: 2026-05-21
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3428724/chapter-1437-second-singularity"
+royalRoadId: "3428724"
+---
+
+The sounds of metal striking tile were swallowed the instant they were formed, creating an ephemeral patter as Zac walked down the grand hallway. Zac was in no condition to study the unusual phenomenon. The ambient Spatial Energies swallowing all sound were the least of his problems.
+
+Zac helplessly looked back and forth between the dense engravings covering the walls. He felt as though he’d come face to face with the grand tapestries of the Spark of Creation and Heart of Oblivion again, except he was dealing with a conception solely based on the Peak of Continuum. The lofty truths radiating from the runes were no less persuasive than the pathbreaking grandeur of the Buddhist Sangha.
+
+More alarming was the fact that the runes weren’t meant to impart the Dao of Space. In fact, it was the opposite. The hallway was covered in seals designed to absorb the emanations of the treasure waiting further within. The transcendent concepts battering Zac’s mind were leakage that couldn’t be scrubbed in time.
+
+It wasn’t just an issue of supreme truths trying to subvert his Dao Heart. The remaining Spatial Energies were dense enough that the hallway might as well be a world on its own. Despite walking at a pace that would turn him into a blur to an E-grade cultivator, it looked like he remained rooted in place.
+
+‘If it’s this bad now, just how am I supposed to reach the real thing?’ Zac thought to himself, yet never relenting in his advance toward a massive inlaid gate at the end of the path.
+
+Eventually, his tempered Dao Heart wasn’t enough to reject the growing majesty of space. Then, his Void State faltered when the gate was a hundred meters away. Only by activating [Warbringer Dharma] did Zac reach the end of the corridor after seventeen hours of struggle.
+
+Zac was tired, but he had to admit that the experience ended up providing a valuable round of tempering to his Dao Heart. It wasn’t every day one could come in contact with supreme truths without it involving certain death. By itself, Zac deemed the hallway worth a few hundred Imperial Merit.
+
+“Two Warbringer Idols? Not bad.”
+
+The voice felt like it came from a million miles away, echoing through time and space. Zac turned to its source, finding an old man sitting on a mat to the left of the gate. Zac hadn’t spotted so much as his shadow in the hours he fought against the hallway’s suppression, yet he wasn’t surprised to find him there.
+
+For one, how could the treasury of [Second Singularity] not have guardians stationed, both in the shadows and in the open? Secondly, he’d seen all this before in Idiche’s vision. The old man’s greeting was the same, causing a feeling of déjà vu to wash over Zac. However, the guard’s next words came as a surprise.
+
+“Forming new idols will come easier with time, but relying on quantity can only lead to minor success with the [Warbringer Dharma]. One idol filled with a lifetime of meaning will display greater effect than ten idols made of hollow conviction,” the guardian added.
+
+“I’ll remember Senior’s guidance,” Zac said after a slight pause.
+
+This part was new. The old man had let them through after that initial comment in the vision. Was the added guidance the result of his improved cultivation? After all, he’d arrived here with Late D-grade cultivation and a D-grade Bloodline in Idiche’s vision. Sensing Zac’s current potential, the elder might have decided to form some good karma on a whim.
+
+Or was the treatment related to what Emir said? With the Fifth Pillar being reintegrated with the Left Imperial Expanse, the strict lines of noninterference would fade away. Zac had tried to verify the claim through Ogras, but the demon hadn’t noticed any significant changes. When his master returned, they simply resumed digging graves and interring criminals like nothing had happened.
+
+In either case, the elder’s advice was welcome news to Zac, who’d been somewhat stumped on how to proceed in this regard. His second Warbringer Idol encompassed both his Daos of Life and Death, meaning his trinity path was already covered. He could possibly form idols based on his Void Vajra Constitution and Eoz bloodline, but it felt redundant.
+
+The only other promising candidate was an idol representing the Void. Whether such a thing was possible was unclear, though. It wasn’t exactly the kind of topic that would be covered in the introductory chapters of the Heart Nurturing Manual stored in Rava’s library. Evolving the idols instead of creating more of them was a different solution that Zac didn’t know was possible.
+
+His version of [Warbringer Dharma] only covered how to form them and how they were used to nourish his Dao Heart. It didn’t appear to be a natural process, either. The simple woodsman’s hatchet he formed when reuniting with Joanna looked exactly the same despite all he’d gone through. Unfortunately, the elder switched topics before Zac could ask for further guidance.
+
+“You wish to observe [Second Singularity] without practicing the Dao of Space?” the guard asked, returning the conversation to the original script.
+
+Zac inwardly sighed, deciding not to push it. He’d just have to look for a more complete version of [Warbringer Dharma] when he had time. It shouldn’t be too difficult to find. The method, at least its simplified version, was widely practiced in the Imperial Army and among the empire’s various factions.
+
+“It’s mainly for my companion,” Zac explained. “I came along to broaden my views.”
+
+“You’ve paid to come this far; what you do with your visit is up to you. You’re aware of the rules?”
+
+“I am,” Zac said with a somber expression.
+
+The rules were quite simple and explained when he purchased the compass. The visit was limited to two weeks. Someone would extract you if you lingered longer, and you’d have to pay a fine. There were also risks involved when studying a treasure like [Second Singularity], even when it was almost completely sealed. The Mercurial Court wouldn’t take any responsibility for cultivation mishaps.
+
+The clerk had added that the court would compensate in case of a breach, but the payment would be made out to his family. After all, there was no surviving an A-grade treasure’s hiccup for a Hegemon unless an elder managed to get there in time. This rule was the only part relevant for their purposes, and it was the reason Zac’s nerves were taut as bowstrings.
+
+“Then go on,” the guard said and closed his eyes.
+
+Zac braced himself as the enormous gates began opening. A flood of Spatial Energy poured out of the gap, twisting their surroundings. The memory domain immediately shattered, erasing the hidden elder and grand palace from existence. From this point on, Zac only recalled fragments from Sevona’s glimpse into the future. They’d have to rely on themselves.
+
+A domain of nullification erupted around Zac to weaken the initial gust of unbridled space to bearable levels. Zac maintained [Void Zone] for only a few seconds, yet it cost him a noticeable chunk of his Void Energy. It was a huge weight off his shoulders that his other half had stationed himself in the Turbid Realm. The bottomless and accessible Void Energy it provided might prove as useful as evolving his bloodline for the next step.
+
+Enduring through force wasn’t a sustainable solution, even with all Zac’s advantages. It was for this exact reason that Esmeralda had been biding her time inside the [Shrine of Kanba]. Esmeralda emerged and took over the moment Zac deactivated his domain. A profoundly refined bloodline aura erupted from her body as she unleashed her power to its limits. With their goal just in front of them, there was no longer any point in worrying about agitating the [Timescape Loop].
+
+A thin stream of starlight flew out beneath Esmeralda’s feet, resembling the amazing bloodline talent she used to trap the Qriz’Ul that borrowed her appearance. Suddenly, Zac felt himself pulled forward, accelerating at an alarming speed until they turned into a streak of light. The streak fused with the starry river, at which point Zac could no longer keep up with their movement.
+
+Esmeralda had never displayed such terrifying speed before. It effortlessly exceeded anything Zac had seen within Hegemony, and the near-instantaneous movement of [Earthly Dome] was no exception. Hell, Zac doubted even Middle Monarchs could keep up with Esmeralda’s frantic dash.
+
+Time lost its meaning within the extremity of speed. Zac couldn’t be sure whether a moment or an hour had passed when Esmeralda slowed down. They appeared in the middle of a shimmering, variegated mist full of extraordinarily vigorous power. It felt like they’d arrived in outer space. There were no signs of the Mercurial Court or even the Left Imperial Expanse.
+
+Zac’s thoughts first went to the Grand Unity Essence as he inspected the mist before discarding the notion. They were dealing with pure Spatial Energy imbued with extraordinary meaning. A more accurate description would be comparing it to the Death and Life he’d derived directly from Chaos. The vigorous feeling reminiscent of Creation Energy was an expression of Spatial Dao unfamiliar to Zac.
+
+Then again, [Second Singularity] was a treasure approaching the very limits of the Grand Dao. As Zac had seen from Kālasūtra’s Realmlord, a Dao could encompass all meaning at that stage.
+
+“It’s full of… potential,” Zac muttered as he looked around.
+
+Comparing the mist to normal Spatial Energy was like comparing a desolate wasteland to the tilled soil of a spiritual field. Zac felt as though he could harness this power and turn it into anything he pleased. Yet he wouldn’t. This fatal attraction was part of the danger. If Zac dared to mess with this power, he was the one who would end up harnessed.
+
+Thankfully, that was the only danger they faced after passing the first hurdle. There were no errant streaks of high-grade energies to dodge, and the spiritual pressure of exalted Daos wasn’t nearly as intense here as in the hallway. Zac was fine by simply keeping his wits about him, which was suspicious on its own. Zac turned to his companion, who needed some time to come to her senses.
+
+“It’s here, it’s really here,” Esmeralda whispered, her voice hoarse from anticipation.
+
+“It’s… a bit weak?” Zac said.
+
+“It’s expected. The old fogies would normally keep the treasure in an agitated state so that it could be studied. How else would you get an Autarch to guard the gate?”
+
+“Fair enough,” Zac smiled.
+
+“When disaster struck, they completely locked it down to preserve its spirituality. This energy is fresh, shed recently, which means the item is still here. Encountering this corona is also a good sign. It means there’s a crack in the containment for us to pass through,” the toad said, her excitement building with each sentence.
+
+“Stay calm. We did die the first time we attempted this. And we don’t know what other problems we might have to face after passing the first hurdle,” Zac reminded her.
+
+“Of course, of course,” Esmeralda said, clearly only listening with one ear. “This way!”
+
+They flew through the mist for a few minutes before Esmeralda suddenly stopped. Zac warily inspected their surroundings until he caught a hint of an astringent aura hidden in the mix of vibrant Space. It was the opposite of perfumes, where a pungent undertone could help bring forth a desired scent. It felt more like he’d found a fly wiggling in his soup.
+
+“Is that the Dao of Space of the First Era?” Zac asked.
+
+“I knew it, twisted spacetime,” Esmeralda spat with disgust. “Some of the corruption must have leaked into [Second Singularity]’s domain.”
+
+“Well, that’s where I come in, right?” Zac said. “Except, I’m still not sure how I’m supposed to excise the corruption of an A-grade treasure. I only remember draining something until I ran out of steam.”
+
+“Easy. We just have to enter it and treat it from within,” Esmeralda said and began dragging Zac along again.
+
+“Huh?”
+
+“Do you know why High-grade Space-attuned Natural Treasures are so rare? I mean, space is literally everywhere,” Esmeralda asked.
+
+“Because the general density of space isn’t enough? Like you said, it’s everywhere, so it has spread itself thin,” Zac ventured.
+
+“Well, sure. That’s part of it,” Esmeralda nodded. “It’s also because they’re sneaky. At C-grade, they usually hide in spatial folds or pockets. Higher up, they might disguise themselves as common Mystic Realms, where what you see is only the tip of the iceberg. Others are anchored to countless spatial coordinates and switch places anytime a threat draws close. The most elusive ones won’t leave a single trace. You could fly past an A-grade Spatial Treasure without even noticing.”
+
+Zac understood that Esmeralda was rambling to calm herself down, but he didn’t understand what she was getting at. “How does that help us? Won’t we get treated by its aura on full blast if we sneak inside?”
+
+“No need to worry about that,” Esmeralda slapped her chest. “I have everything planned out. There’s a reason I specifically picked [Second Singularity] for my plan and why the Mercurial Court allowed its disciple to study it. A singularity is boundless space compressed into a single point. Its force is almost fully directed inward, like an onion with an infinite number of layers. Safe for us weaklings to approach.”
+
+“If you say so,” Zac said.
+
+It only took Esmeralda a few minutes to find the source of the leak and a few more to squeeze them through. However, the scene waiting for them on the other side was not what either of them had expected.
+
+“Those bastards! You better pray I don’t find your graves in the future!” Esmeralda stomped her feet in frustration.
+
+“What the hell is this?” Zac groaned, rubbing his eyes in an attempt to alleviate his disorientation.
+
+The kaleidoscopic nebula had been replaced by a realm mostly cast in the silver of the Peregrine Ocean. There were hundreds, perhaps a thousand cut-off sections of the ocean stuffed inside [Second Singularity]. Their specific flavor of decay was unique, indicating they were connected to different timelines.
+
+Some of the pieces were flat like mirrors, seemingly only projecting the real thing. Others were amorphous blobs of silver water that released deadly drops that disappeared the moment they fell. No matter which type, they were surrounded by swirling runes made of Imperial Faith, looking a lot like the magic circles they’d seen on Sevona’s island.
+
+The runes were responsible for maintaining some form of connection between the oceans and a pitch-black dot in the realm’s center. It didn’t release a speck of aura, yet Zac only dared to observe it from the corner of his eye. It had to be the true body of [Second Singularity], a spatial anomaly going beyond a simple black hole.
+
+Zac felt the oceans were in contention for some reason, like they all wanted to monopolize the treasure. It was this unseen battle that caused Zac’s disorientation. Their surroundings had frayed, turning into a nexus that was all the timelines and none. This unstable environment seemed to instinctively reject everything within, including Zac and Esmeralda. He had no choice but to reactivate [Void Zone] to stop his head from spinning.
+
+“Do you know what this is?” Zac asked.
+
+“Those old fogies have connected my treasure with their whatever-chamber through the Peregrine Ocean,” Esmeralda spat through gritted teeth.
+
+“What?” Zac blurted. “Can we even take it if that’s the case?”
+
+“You’re not getting cold feet, are you? Remember, we’re not actually part of the Limitless Empire,” Esmeralda scowled. “Those people are long dead, even if they’d like us to think otherwise.”
+
+“It’s not that,” Zac said. “I’m afraid of what’ll happen when we remove this thing. Will we collapse the memory domains all across the continent? I have a lot of people inside them, including my other body.”
+
+“Do you think I’m like you, blowing things up left and right?” Esmeralda said with exasperation. “And it’s the opposite. The old bastards are making us do free labor for them. They want to step out of the dream, right? The first thing they need to do is get rid of some of the excess weight.”
+
+“Discard the bad timelines and lock in the useful trajectories?"
+
+"Or at least weaken the bond between then," Esmeralda shrugged. "Hard to say for sure what the purpose of this arrangement is."
+
+"That’s fine, then,” Zac nodded as he looked around in thought. “I’m not sure how I’m supposed to detach these things. Exhausting a few is fine, but hundreds?”
+
+“Start with the ones leading to corrupted timelines. After all of them are severed, it should be safe for me to put the singularity into the Hunting Lodge. It’ll help stabilize the situation as you slowly work your way through the rest.”
+
+“Alright,” Zac agreed before frowning in thought. “Wait, what’ll happen when we decouple the treasure? Won’t it disturb the Peregrine Ocean? We could trigger a tsunami that drowns the whole Mercurial Court with us in it.”
+
+Esmeralda vacantly stared at the river for an uncomfortably long time. Finally, she shook her head, displaying a harrowing lack of certainty. “No. It should be fine. The eye of the storm is always the safest. And if things get out of control, I’ll teleport us away.”
+
+Zac sighed in defeat. “Fine, let’s get to work.”
+
+“Uh, one more thing,” Esmeralda coughed. “Things might get a bit... unpredictable when you remove the corrupted timelines. The treasure will probably start spitting out some of the tainted space that’s been showed down it's throat."
+
+“Excellent, anything else?” Zac said with a deadpan expression.
+
+“No,” Esmeralda said before immediately contradicting herself. “Just one thing. You absolutely can’t stop before all the corrupted gates are closed.”
+
+“Why?” Zac slowly asked.
+
+“For one, it might trigger something like a backdraft of corruption, flooding this whole place. Also, I don’t expect those corrupted denizens to take kindly to their timeline being thrown out of the Omnipresence Chamber. So, we probably want to wrap that part up before anyone catches on to what we’re up to.”
+
+“Fantastic.”

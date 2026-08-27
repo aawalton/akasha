@@ -1,0 +1,93 @@
+---
+id: 3aa9ce80-5238-5991-9fe7-c5e813f549c4
+page-type-slug: story-chapter-royal-road
+title: "B5 | Intermission 3"
+slug: 0324-b5-intermission-3
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 324
+ownLength: 1039
+unit: words
+ownProgress: 1039
+publishedAt: 2025-12-12
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2842914/b5-intermission-3"
+royalRoadId: "2842914"
+markedReadAt: "2026-06-29T19:16:50.435Z"
+---
+
+Within Nerissa’s Office on Eternus
+
+“What?” Nerissa mutters while staring at the message on her terminal.
+
+Part of her wonders if her aunty has finally gotten a screw loose. Or rather, another screw loose.
+
+Her eyes narrow at the message.
+
+[I just sent a certain former Archmage over to you, so make sure to treat her well. And fleece her of every explosive and explosive factory you can. She wants my protection after all. So do your thing and keep the paperwork to yourself please.]
+
+Before Nerissa can think anything else about it, she looks up as a portal appears, setting off the alarms of the headquarters building in the process. Following which numerous mercenaries begin to rush into the office. Meanwhile Nerissa creates a barrier of water around her, wondering how someone managed to break through the wards to enter in the first place.
+
+Then another message appears on her terminal.
+
+[Oh, and she’ll be appearing in your office soon with a different appearance. I gave her a one-time use password for the wards.]
+
+Nerissa blanks out at the message for a moment before looking up at the portal as a woman walks out of it. One with blonde hair and green eyes and being escorted by a Death Spirit. Proving exactly who she is.
+
+So Nerissa goes ahead and waves away the mercenaries, telling them to leave her office. Then she lowers the barrier she set up while rubbing her temples.
+
+How does she always manage to do this? Blindside me with more work that happens to be so beneficial that I can’t refuse it? And somehow more often than not has something to do with explosives…
+
+Nerissa lets out a sigh before focusing on the former Archmage’s face as she says, “So you wish to have Death’s protection from the other Horsemen?” She then begins to continue only to pause and glance at her terminal when her aunty sends another message. One with the Archmage’s previous offer. So she looks at the woman again and continues, “Then what are you willing to offer for it?”
+
+Isabella sends a sharp look at Nerissa, clearly feeling indignant at the idea of such a weak person treating her this way if Nerissa had to guess, before answering, “I’m sure you’ve already received a message with what I offered Death, so let’s just get this discussion over with.”
+
+Her words irritate Nerissa a little bit, but the prospect of getting the former Archmage as a subordinate, not to mention all of the assets she will be offering, is far more important than her irritation.
+
+So she gets straight down to business and begins the negotiations.
+
+All while making a mental note to give her aunty extra paperwork the next time she shows up.
+
+Within the Flagship of the Crimson Empire
+
+Lucilia Crimson stares out from the bridge at the space around the ship as numerous knights of the Crimson Empire appear on the bridge from the bridge’s entrance. Meanwhile she lets out a sigh, wondering just what the universe is coming to this day and age. With the other Horsemen aside from her daughter doing as they please and the other Grands turning a blind eye.
+
+And to top that off, she, as another Grand, doesn’t even care about any of it. All she cares about is her own empire and her family.
+
+The irony in that is palpable.
+
+The Empress of the Crimson Empire turns her head to look at a large black and purple portal that just appeared in the bridge moments ago. One that the knights that were rushing inside the bridge are moving to surround as she looks at it.
+
+“Now what do I owe the pleasure of your visit?” Lucilia asks with an apathetic look on her face. A face that looks incredibly similar to her daughter’s face.
+
+Which is no doubt why the man who walks through the portal stares at her face for several seconds before answering, “Arthur.”
+
+Lucilia feels more than a little surprised at that before waving her hand to make her knights stand down. Then she looks out at space again.
+
+The Pharaoh of the Rex Dynasty of the Dead slowly steps forward through the knights until he stops right next to her. And something tells her that the only reason he feels comfortable enough getting this close to her is because she looks so much like the woman the pharaoh worships. Since the man almost never gets anywhere near living creatures.
+
+Even when he’s killing others he rarely ever gets close to them.
+
+Because he’s publicly known to be distasteful of living things.
+
+“What’s my brother up to?” Lucilia asks with her brows furrowed at the thought of the man.
+
+After several seconds, the pharaoh answers, “He is targeting someone he shouldn’t.”
+
+That gives Lucilia pause before she glances at him with a frown on her face. One that only grows even deeper when he continues.
+
+“Pestilence,” the pharaoh states without a hint of emotion on his face.
+
+Lucilia clenches her fist and narrows her eyes at his answer.
+
+Arthur’s targeting Pestilence now? Is it because of the curse? But why now? And one of the Horsemen…
+
+None of the Grands ever target the Horsemen of the Apocalypse for a reason. Since they’re too powerful and would cause a catastrophe to far too many people when targeted. Especially with many of them lacking any sort of care for life.
+
+Even if they manage to kill one, it would come with the loss of countless galaxies in the process. And another Horseman would just appear again in the distant future, making for an infinite loop.
+
+So if they decided to hunt every Horseman every time a new one is born, all they would be doing is killing the population of the universe off with every Horseman that arrives and slaughters people.
+
+“Is it the curse?” Lucilia asks, only for the pharaoh to nod his head before beginning to step back towards the portal without a word. But at this point, Lucilia’s mind is already focused on her brother and Pestilence.
+
+And the first matter at hand for her with this information is to find them both.
+
+Which won’t be easy.

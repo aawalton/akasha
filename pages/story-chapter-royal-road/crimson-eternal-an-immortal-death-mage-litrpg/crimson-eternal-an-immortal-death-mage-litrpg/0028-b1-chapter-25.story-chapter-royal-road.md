@@ -1,0 +1,139 @@
+---
+id: 16b5d424-67f4-5359-9325-57cf7ca9b02d
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 25"
+slug: 0028-b1-chapter-25
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 28
+ownLength: 1764
+unit: words
+ownProgress: 1764
+publishedAt: 2024-01-13
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1476230/b1-chapter-25"
+royalRoadId: "1476230"
+markedReadAt: "2026-06-29T19:06:48.729Z"
+---
+
+The Enemy Fortress
+
+“No! Aria!” “Shit!” “You bastard!” The other three intruders shout at once while preparing to attack Legate Aresius Lesius as the legate swipes his blade down, swinging the blood off of it with a frown on his face directed at the corpse he just made.
+
+So much for her regeneration. Looks like the Crimson Eternal wasn’t Class S after all.
+
+He shakes his head before turning away from the nearly bisected corpse and focusing on the girl’s angry teammates.
+
+“I have been trying to decide if your little team of playthings was here as a distraction or as the main assault since I heard a team of five-” he pauses to glance at the cliffs when an arrow flies by towards him. An arrow he quickly bisects with his sword coated in a silver energy, sending the two halves flying past him. “-six was tearing their way through the base.” He turns his gaze back to where one of the intruders has their hand on the tribune’s head, making him frown slightly while tilting his head. “Mental power? Could be useful…”
+
+“You bastard!” The other intruder with white hair shouts as quite a few blades of ice appear all around them and begin flying down towards the legate.
+
+The legate just shakes his head, feeling that the intruder is too emotionally invested to be a competent officer as he counters each and every blade with his own sword. But he does feel some surprise each time his blade strikes the ice blades. Because every single hit makes the next hit seem stronger.
+
+“Interesting…” he mutters before turning his gaze to the white haired intruder. “An ability that grows stronger with each unsuccessful hit on the target? Or is it every consecutive attack in general?”
+
+His guess is proven correct when the white haired man’s eyes widen in shock. So the legate just swings his sword all around him, sending a pulse of silver energy that shoots out, knocking away every ice blade remaining before he thrusts it towards the white haired intruder, sending a narrow pulse straight at him. One that shouldn’t kill, only cripple the man.
+
+The legate’s main objective is to determine the class of the enemy Ability Holders and if he determines them to be Class S, capture them alive. And he feels that this white haired intruder may be Class S, unlike the so-called Crimson Eternal who couldn’t even regenerate from being cut in half.
+
+He pauses in surprise when a strange purple barrier appears right in between his attack and the enemy soldier, blocking the attack entirely and bringing his gaze to a woman with a purple light shining from her eyes.
+
+Powerful barrier…
+
+His gaze moves across each Ability Holder, including the one that is still firing arrows at him from the cliff.
+
+An impressive team. Maybe I should capture them all-
+
+Pain suddenly flares from Aresius’s knees after two metal gunshots echo from behind him as he unceremoniously lets out a shout of pain and drops down to the ground, barely holding himself back from disgracing himself with a scream. Then he, along with all of the other intruders, turn back in shock to find the woman he had cut in two sitting on the ground with one foot placed directly on the ground, her knee held to her chest as her other lies half crossed on the snow. Meanwhile she is pointing one of the native’s guns at him with a scowl on her face. One that holds extreme hatred within it.
+
+“Fuck, that was unpleasant…” she mutters, making the legate’s mind blank slightly. “You’re going to pay for making me relive that again, you invader bastard.”
+
+What?
+
+AriaNine Years Ago
+
+I’m woken up by the sound of a shout, followed by a muttered swear from a voice I don’t recognize. Then the shout cuts off as I quickly rise to my feet in my tent, grabbing my gun in the process.
+
+Only to hear more shouts, followed by gunfire, screams, and the screams cutting off.
+
+My heart beats a million miles per hour as I quickly move out of the tent, just to find my worst nightmare going on outside.
+
+The sergeant, along with Corporals Tennisson, Ruthers, and Jameson, all dead on the ground. Jenny with a gun held to her head as the others all scramble out of their own tents with the exception of Privates North and Night, whose tents are eerily silent while someone who I don’t recognize walks through the openings.
+
+“We’re here for the Category 5,” someone says, bringing my panicked attention to the man with his gun to Jenny’s head. He seems to be in his mid-forties with gray hair, gray eyes, and is wearing the armor of the Arterian Empire’s officers. With the gray and orange colors displayed proudly on the military uniform and armor mix. “Tell me where they are and we might consider letting you go.”
+
+My eyes widen in both fear and shock at his words. Because they imply that the Arterians knew exactly where I’d be.
+
+This was a trap.
+
+Set for me.
+
+And the others are paying for it in blood.
+
+The last string in my mind snaps when Jenny spits on his shoe and says, “We’d never sell out our own, unlike you Arterian basta-” only to be shot in the head before she can finish.
+
+I let out a scream that quickly turns hoarse as I raise my pistol and fire at the Arterian officer, getting him in the shoulder as he grunts and drops to his knees, his eyes immediately locking onto me. Then he spits out, “A fucking child?!” But his anger and training quickly catches up to him as he shouts, “Get rid of the damned kid!”
+
+Two of the enemy soldiers begin rushing towards me while the rest of them – I don’t know how many as I can’t focus on them in my rage – keep their guns trained on the others of my team.
+
+I continue screaming while firing at the approaching soldiers, but my aim and current mindset makes me miss most of the shots, only finally shooting one of them in the head as they’re raising their own weapons to fire at me. And right before the other one, who looks incredibly angry right now, fires, I hear the leader of the Arterians shout, “There is no fucking Category 5 here. Just kill them all.”
+
+Then a wave of gunshots echo through the area, followed by a warm feeling from my chest as my arms go limp.
+
+I feel myself dropping to the ground while looking down at my chest to find blood coming out. But I manage to push myself to my feet despite that, feeling the wound slowly beginning to close itself as I cough out blood.
+
+“An Ability Holder? Now I can see why they brought a child with them,” the leader’s voice echoes in my head, but my gaze is fuzzy so it’s hard to lock onto him.
+
+Then I hear a slicing sound before my gaze somehow goes flying.
+
+I grow more and more confused, but also terrified when my gaze continues spinning to see the others dead.
+
+Only to find that I can’t scream for some reason.
+
+Then I see my own body falling to the ground. Without my head attached.
+
+And everything goes dark.
+
+The moment I begin to hear things again, my eyes shoot open, and I find myself staring at some sort of lid.
+
+I panic while shouting and slamming on the lid, almost immediately shoving it off of what I quickly find to be a coffin as I shoot up to a sitting position, silencing the voices I was hearing.
+
+“Where are-” my words cut off when the realization that I’m in a coffin near a cemetery sets in. And my coffin isn’t the only one.
+
+Ignoring my state of dress being some sort of gown, ignoring the silence of the shocked people attending what I can only guess is a funeral, I run over to the other coffins and push the top off of the closest one.
+
+What I find inside has me breaking down into tears as everything around me fades into the background.
+
+The sergeant, his eyes closed, never to awaken again.
+
+I begin crying and sobbing nonstop, not paying any attention to what’s going on around me as everyone rushes around, their silence stopping with my crying.
+
+But I don’t care.
+
+Everyone’s dead.
+
+Again.
+
+I continue crying for a very long while until I feel completely cried out and end up staring blankly ahead, finding myself to have been moved at some point to some sort of office. But I don’t react to any of the questions asked of me, even though I can understand them as they ask about what happened.
+
+Nothing matters.
+
+They’re dead.
+
+AriaThe Present
+
+My eyes shoot open as I feel tears crawling down my cheeks. But instead of sadness, I feel nothing but absolute rage towards whoever the fucking bastard was who killed me and put me through that nightmare.
+
+I sit up to find a man wearing fancy invader armor using his sword to block the increasingly powerful ice blades belonging to Snow while also knocking away the arrows from the major. And without even so much as thinking about it, I sit straight, using my right leg to support me since I’m still a little dizzy from being cut in fucking half before I grab my gun sitting next to me and shoot the bastard in both of his kneecaps one after another.
+
+He drops to the ground with a shout of pain before everyone turns to stare at me in shock including the invader.
+
+“Fuck, that was unpleasant,” I mutter under everyone’s stares. “You’re going to pay for making me relive that again, you invader bastard.”
+
+The silence stretches on with the only sounds being that of the gunfire and shouts from the main battle outside of the fortress, with the vast majority of the enemy soldiers already having left this area. That or gotten killed by us.
+
+I turn my glare from the invader to Vargas as I order him, “Do your thing, and don’t worry about making any mistakes.”
+
+After a brief pause, he regains his calm and nods, walking over to the invader who is trying to raise his sword again.
+
+So I shoot his elbows next, not giving a single shit about his shouts of pain.
+
+That’s for making me relive those memories again.

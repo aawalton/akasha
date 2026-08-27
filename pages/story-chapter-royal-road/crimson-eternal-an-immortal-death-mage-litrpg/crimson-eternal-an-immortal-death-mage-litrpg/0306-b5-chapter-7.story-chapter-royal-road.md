@@ -1,0 +1,137 @@
+---
+id: f7585cbf-5ef0-5b2c-a6d0-df8485df71b4
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 7"
+slug: 0306-b5-chapter-7
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 306
+ownLength: 1444
+unit: words
+ownProgress: 1444
+publishedAt: 2025-09-18
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2610685/b5-chapter-7"
+royalRoadId: "2610685"
+markedReadAt: "2026-06-29T19:16:13.442Z"
+---
+
+Aria
+
+Before I can decide on a destination, I’m literally handed one by an unexpected guest to my ship that appears right in front of me. Through a rift to the void.
+
+I glance between the USB and the void spirit in front of me. One that has the form of a black silhouette and nothing more.
+
+“Please take this chance to visit our abode, Horseman of Death,” the void spirit states with a light and polite nod of its head. Then it floats through the air back into the rift, with the rift closing behind it.
+
+Leaving me in the silence of my ship’s bridge for a little while before I eventually just shrug and plug the USB into one of the many terminals of my ship. At which point I find that the USB holds the exact spatial coordinates of some sort of black hole.
+
+I go ahead and send a couple messages out to ask if this is accurate, mostly because I don’t really want to go jumping into a black hole just because I was told it was the void spirits home within the universe. And I almost immediately get replies from multiple people.
+
+Shirogane tells me that the void spirits’ home within the mortal plane is through a portal found only close to the center of a black hole. But most people in the universe, including the Grands, have no idea which black hole it is. And even this information was only achieved through multiple seers and the Grand Void Spirits themselves.
+
+Then I get very similar answers from other contacts, such as the Imperial Guard Captain of the Crimson Empire, the Pharaoh of the Rex dynasty, and the Emperor of the Grand Silvanian Empire.
+
+With each one saying that while they do know of the entrance to their universal home being a portal next to a black hole, no one has ever found which black hole it is.
+
+So I eventually just shrug and decide to go ahead and check it out.
+
+After all, I wanted to see new and interesting places. And what better place to see than the home of the void spirits?
+
+Plus I promised them a while back to visit, so…
+
+“Take us to the coordinates, Crimson,” I order my ship. And immediately after doing so, Crimson responds in the affirmative and the ship begins to head straight towards the location on the map.
+
+Which is surprisingly close by.
+
+I wonder if that was why they decided to tell me now? Since it’s not far away, and I was struggling to find the next place to visit.
+
+Either way, when I arrive, I find it to be exactly what I expected.
+
+A dead solar system with a massive black hole at the center of it.
+
+Crimson stops the ship outside of the black hole’s range of gravity, at which point I go ahead and ask, “Does this ship have anything to ignore gravity?”
+
+|Affirmative. However, the gravitational pull of a black hole is too powerful, and therefore the defenses will not last long.|
+
+In that case…
+
+“Make sure the ship is in the best position to enter a rift at the exact coordinates where said rift is located,” I order Crimson. “Also, please triple check that there is actually a rift there. Because I would rather not lose my ship to a black hole.”
+
+I’ve actually already been in a black hole myself before. So I’m not really worried about if a black hole would actually be able to do anything to me or not.
+
+There was one in one of the many Hunter’s Spots I’ve been to after all. And I was tossed into it multiple times.
+
+It kind of felt like I was being given a massage. Even if I needed someone’s help to get out of the thing each time.
+
+Which wasn’t easy to tell anyone when you’re in a black hole.
+
+|Coordinates have been checked, and a minor spatial fluctuation has been found. After thorough analysis, the fluctuation has been identified as a rift in space. Intel is therefore found to be accurate.|
+
+Good.
+
+“Bring us into the rift before the gravitational protection loses to the black hole,” I tell the ship while sitting on my commander’s chair with my legs crossed and one elbow resting on the armrest with my cheek on the knuckles of that very arm.
+
+Now it’s time to see the home of the void spirits within the mortal universe.
+
+I purse my lips as a thought comes to mind.
+
+Huh. I’ve never actually visited the Death Spirits’ home within the mortal universe.
+
+Never really thought about that before.
+
+Maybe I should ask Zero about it.
+
+No one in the outside universe should know, considering how reclusive the Death Spirits are. Not to mention supremist against everything that’s not me or a Death Spirit.
+
+And I highly doubt mortals would be stupid enough to search for it. Considering how many entire planets the mid-power Death Spirits alone have slaughtered. Just for someone summoning one and being rude to it in some way.
+
+The engines of the ship begin to make rather loud noises as the hyperdrive goes full throttle before the ship just blitzes forwards straight at the black hole. And into the rift itself.
+
+Then I find myself in a very… unusual… place.
+
+All around me are large floating temples in the middle of space, with one massive planet, and a large black sun a ways away from us. Far enough that the sun won’t harm anything but also still rather close.
+
+But more importantly, I see numerous void priests roaming around while floating in space without any sort of suit on. Along with several void spirits that are just going from one temple to another.
+
+As for the planet? There are even more temples on the planet. Some of which are larger than multiple castles put together.
+
+If I had to guess, those are probably temples to the Grand Void Spirits.
+
+Their main temples.
+
+And yet, despite all of this, and despite my being able to see clearly, it is dark as hell. All over the place.
+
+Probably because the only sources of light here are my eyes, which glow crimson, my ship which has some lights on it, and the black sun. Which doesn’t exactly give off that much light in the first place.
+
+So, all in all, I stand out quite a bit.
+
+Hence why all of the void spirits and priests immediately turn to look my way not long after my entrance. With a lot of the priests showing pure shock on their faces, even if the void spirits don’t.
+
+Both because the void spirits don’t have faces, and because they don’t seem surprised.
+
+How I can tell they aren’t surprised, I honestly don’t know. I just know they aren’t.
+
+As for the priests being surprised? The void spirits probably just didn’t bother to tell them about my arrival.
+
+Which isn’t too surprising considering that the void spirits are within the top five most powerful spirits. Even if they and the others are nowhere near the power of the Death Spirits.
+
+|Warning. Ship’s energy is being drained by a strange energy radiated out by the black sun. Would you like the ship to enter hibernation so that you may exit the rift once finished without the black hole devouring the ship?|
+
+Huh. Now that’s interesting.
+
+“Go ahead and enter hibernation for now,” I tell Crimson while standing up from my commander’s seat. “I’ll go see what these void spirits want.”
+
+I’ve been on friendly terms with them for a while, so I trust them. That and I trust them not to be stupid, considering that they’re afraid of the Death Spirits.
+
+If there’s anything close to being the ruler of the spirit realms, it would be the Grand Death Spirits.
+
+After all, they’re the only ones capable of permanently killing a spirit.
+
+Other than myself, of course.
+
+All of the power within the ship begins to dim down as I walk over to one of the hatches in the bridge. Then I go ahead and open the hatch and jump right on outside of the ship before practically swimming through space while using my soul flames to push me along until one of the massive temples down below begins to glow.
+
+And before I can move any further, a pillar of black light shines from the temple and a Grand Void Spirit appears in front of me while bowing his head and saying, “Welcome to our abode, Lady Death.”
+
+I nod my head in greeting.
+
+Time to see what they want.

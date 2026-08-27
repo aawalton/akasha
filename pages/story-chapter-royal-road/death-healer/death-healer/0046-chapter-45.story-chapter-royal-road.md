@@ -1,0 +1,173 @@
+---
+id: 83ef609a-d0a5-5978-a6d6-55ce8c95e9a7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 45"
+slug: 0046-chapter-45
+partOf: death-healer
+position: 46
+ownLength: 1128
+unit: words
+publishedAt: 2025-07-03
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2406778/chapter-45"
+royalRoadId: "2406778"
+---
+
+Lily collapsed to her knees.
+
+Blood poured down her neck, hot and fast. Her hands flew up to staunch the flow, but her fingers slipped over slick skin. The gash was too high, too wide. She couldn’t apply pressure; couldn’t breathe. Her vision blurred at the edges, and the rush of blood sounded louder than her thoughts.
+
+She tried to channel Light.
+
+Nothing.
+
+The spell fizzled as soon as she summoned it. The threads frayed before they formed, and the world pitched sideways. The pain came in pulses now—white, screaming pulses that pushed everything else away. Her limbs shook.
+
+Darkness crept in.
+
+Not unconsciousness.
+
+Darkness.
+
+The same type of Mana that she used for Coniunctionis.
+
+The more she tried to push Light Mana into the wound, the more it faltered. Each attempt grew weaker than the last, like water slipping off oiled skin. The threads of Light unraveled the moment they touched the edge of the darkness inside her. Her healing refused to take hold. It was like the wound rejected her magic, and the more she insisted, the more it twisted against her will, unraveling before it could stitch.
+
+She felt it now, inside her throat wound. It pulsed with each heartbeat, coiled and writhing. It wasn’t killing her.
+
+It was resisting her.
+
+She tried again, forcing Light to thread through the tear. The darkness responded by thickening. Her own mana rebounded and burned like acid. A low noise escaped her—half gasp, half sob.
+
+It won’t work. It won’t let me heal.
+
+Not unless I...
+
+She stopped fighting.
+
+She let the Light go. She let the Darkness rise.
+
+She had never done that before.
+
+Not fully. She had always treated Darkness as something external. Something dangerous. Something to be wrapped in Light and purged. But now, she didn’t have time for that. She didn’t have blood for that.
+
+I am about to die. If this isn't it, I'm dead. I could brute-force it--but that's not it... It doesn't feel right.
+
+She reached deeper. She let the Darkness into her fingers.
+
+Instead of pulling the Mana out, she guided the Light to wrap around it. To thread with it. Not weave over—with. Together.
+
+The reaction was instant. Her throat burned so bright that for a heartbeat, her whole body flared like a candle. Mana surged in opposite directions: Light meeting Darkness, each one twisting around the other. Like double helices. Like twin threads in a tendon.
+
+The pain spiked, then vanished.
+
+Not faded. Vanished.
+
+She dropped her hands and took in a single, rattling breath.
+
+Air.
+
+She blinked, and the room looked different.
+
+The walls were still stone, the pedestal still dark, the mirror still slick with reflected blood—but everything shimmered. The air around her glowed like breath on cold glass. She felt the Light and Darkness together now. In her throat. In her hands. In the threads that pulsed through her mana channels.
+
+This wasn’t just healing.
+
+It was as if she had fed Darkness into Light to magnify the effect of healing tenfold.
+
+She looked at the mirror. Her reflection still stood inside it, blood staining its throat but no longer dripping. The wound on its neck glowed with light—not pure, not white, but tinged with ash.
+
+Lily rose. She reached up and touched her own neck.
+
+The skin was smooth.
+
+There wasn’t even a scar.
+
+She inhaled. Mana coiled through her lungs, not just Light, not just Darkness. She had fused them. She had created something in between.
+
+Balance, she thought. Not peace.
+
+Power.
+
+The mirror rippled.
+
+Her reflection smiled—a small, quiet smile.
+
+It was about to turn and walk away when it tilted its creepy head and frowned.
+
+Dad must have brute-forced the healing. He couldn't have done it this way... but that means...
+
+That meant Lily had approached a Great Skill in a completely new way. And it was only because she had been lucky enough to learn Coniunctionis, which allowed her to recognize that the Darkness Mana had craved Light, not to be extinguished.
+
+I know that it is possible to achieve different quality of Skills, but does this mean that I'll get something even stronger than whatever Dad and the other Patriarchs of the Gens Claudia had?
+
+The creature in the mirror walked closer to the surface and reversed the grip on the ritual dagger, holding it by the blade and offering it to Lily.
+
+Lily, confused and guarded, got close and slowly took it from her double's hands.
+
+Now, the creature stood back and pointed at its own chest and then at Lily.
+
+"You want me to stab myself? Haven't I already gotten the Skill? Wasn't that it?"
+
+The creature shrugged and turned, starting to walk again.
+
+"Wait!" Lily shouted, feeling like she was about to miss a great opportunity.
+
+The creature turned and smiled at her with her pointy teeth.
+
+"You want me to stab my own heart, don't you?" Lily said with gritted teeth.
+
+The creature nodded.
+
+Lily stood silent for a moment. Then she plunged the blade into her chest.
+
+The dagger slipped past ribs and slid between the ventricles with eerie precision. A sudden jolt rippled through her. She gasped and yanked it free.
+
+Her knees buckled.
+
+Cardiac shock set in immediately. Her body entered a rapid cascade of reactions—peripheral vasoconstriction, oxygen drop, blood pressure falling. Her heartbeat spasmed, then faltered. Diaphoresis slicked her skin with cold sweat. The brain, starved of oxygen, flickered in and out of clarity.
+
+This time she fell forward.
+
+The pain came like a thunderclap. Then darkness. Her lungs no longer obeyed. Her blood no longer pushed. She felt her retinas begin to fail.
+
+Then—
+
+A voice.
+
+"Lily," it said, calm and resonant. "It's far from your time."
+
+A figure stepped out of the darkness. He was tall, dressed in a long coat the color of shadow, with a face both unfamiliar and impossibly familiar. His eyes shimmered with starlight.
+
+Then—
+
+Another vision.
+
+Lily stood in a sterile hospital corridor. The fluorescent lights buzzed overhead. She saw her reflection in a glass pane: older, taller, dressed in surgical scrubs. For a moment, she remembered. Procedures. Patients. Her hand writing prescriptions. Her voice calling vitals. Her name etched on a badge.
+
+Dr. Liliana Claudia.
+
+But as it came…
+
+Then it vanished.
+
+Her body screamed again. Her chest burned. She gasped.
+
+And the room lit up.
+
+Not with torchlight. Not with mana.
+
+It lit like day.
+
+Brilliant. White. Real.
+
+From her chest, a light brighter than the sun lit everything up.
+
+The creature slowly evaporated and turned into ash which entered through Lily’s healing wound, meshing and fusing itself with the Light.
+
+Lily opened her eyes and let out a primal scream.
+
+She was alive.
+
+Whole.
+
+And something in her had just changed.

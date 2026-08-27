@@ -1,0 +1,149 @@
+---
+id: 72cbbb40-5b51-59b4-a7a4-5ad0a98442fb
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 9"
+slug: 0233-b4-chapter-9
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 233
+ownLength: 1513
+unit: words
+ownProgress: 1513
+publishedAt: 2024-12-01
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1934040/b4-chapter-9"
+royalRoadId: "1934040"
+markedReadAt: "2026-06-29T19:13:39.771Z"
+---
+
+Aria
+
+“Weelllcoooome oooone and alllll!!!! To the Crown Prince’s Introductory Grand Tournament!!!!” the Master of Ceremonies exclaims, her voice echoing out through the entire stadium as she appears floating above the arena. The woman having long brown hair fluttering around her with gray eyes while wearing a fluttery green dress. “Let’s get this started!!! To begin with, let’s introduce our competitors!!!”
+
+I lean my cheek against my palm, my elbow resting on the armrest of my little throne as two hundred people appear all across the arena. With each one of them waving at the audience.
+
+Or most of them, at least.
+
+There are a few wearing what look like royal garbs that are just standing there looking at the other competitors. No doubt sizing them up.
+
+The MC goes on to introduce them all one by one, starting with each of the biggest names, and just barely glossing over the smaller, not well known people. But I don’t really pay much attention and instead begin reading a book.
+
+At least, until they finally get around to introducing Shirogane, making me glance up from my book to find him floating in the air with particles of silver around him.
+
+Huh. Wonder how he’s doing that?
+
+I tap my chin a few times before eventually just shrugging.
+
+Whatever. Power is power. Power does things.
+
+Probably some sort of skill.
+
+Anyways, he looks rather impressive floating above everyone. But I still can’t tell anyone’s power apart. Not without being able to see their levels.
+
+And I can’t see a single level out there.
+
+On that note, I glance at the audience, at which point I realize I can’t see over half of the levels of the people within the audience.
+
+Well that’s not awkward at all.
+
+I continue tapping my chin for a bit before returning my gaze to my book.
+
+Just waiting for the first match to start.
+
+And when it does – about half an hour later – I finally put my book down and focus on the match that is just starting up. One between some guy named Regers Alvarez and a woman named Artoria Vela.
+
+The guy actually looks to be a lukian from Luk’tar, with a large build and a thick beard. Along with those pointy ears that they have and a set of heavy metal armor.
+
+On the other hand, the woman has rather pale skin and is wearing a mage’s robe. Likely someone from the Society.
+
+I cross my legs and lean forward a little bit with more than a little interest over seeing a match. Since I know that everyone down there is at the very minimum level one thousand. It was a requirement to even so much as enter the preliminary matches after all, much less the actual tournament I’m watching now.
+
+It’s not every day that I see a high level battle. Most of the high level users I’ve seen fight just slaughtered a bunch of people.
+
+Like Shirogane.
+
+Although I did see a couple matches between Leopold and the stalker.
+
+Not that it was a very showy set of matches. What with the stalker, or rather, my uncle being an assassin type fighter.
+
+And there was the whole army fighting too. But I was paying more attention to the nuisances on my mind at the time rather than the battles I was walking through.
+
+“Now begin!!!!” the MC shouts, her voice echoing throughout the stadium as the audience roars their approval. Meanwhile the two combatants immediately begin moving, with the mage floating into the air while a bunch of green spell circles appear around her, and the warrior suddenly making a bunch of strange runes appearing across his body.
+
+I tilt my head a little in curiosity at those runes. But I’ll be seeing what they do soon enough, so I don’t say anything about them.
+
+Instead I just watch as a bunch of poison bolts shoot out from the green spell circles, and the warrior jumps straight at them with a large hammer appearing in his hands. A two-handed one at that.
+
+He swings the hammer at the bolts of poison, sending them flying towards the audience, only for a barrier that was previously invisible to appear and block them perfectly. Then it vanishes again without a trace as the warrior continues soaring through the air towards the woman. With the mage in question sending one bolt after another at him.
+
+I watch them go at it, with her creating barriers of poison and attacking him with a bunch of poison while flying through the air to avoid his attacks, and the warrior just running around with incredible physical strength swinging his hammer around. Once in a while even taking an attack that simply makes the runes on his body flash and actually reflect back at the mage.
+
+Overall, it’s not as impressive as I was expecting, but still interesting to watch at the very least.
+
+Actually, the exhibition match before the finale might be rather interesting, now that I think about it.
+
+A very slight smirk stretches across my face at the thought of it.
+
+Yeah. Very interesting.
+
+A single match where every last participant of the tournament is meant to attack a single person. And if they can kill them or make them surrender, then they win. But if they can’t do either, even with two hundred against one, then they lose.
+
+And, of course, they can’t kick me out of the arena.
+
+That’ll be great for developing new adaptations. Although I’m pretty sure the reason the emperor set that up was to increase my own influence for me.
+
+Probably something related to his ability making him decide it would be a good idea. That or Shirogane suggesting it.
+
+Either way, I’m actually looking forward to it.
+
+Too bad it doesn’t happen until right before the finale of the tournament.
+
+Meaning tomorrow.
+
+I let out a sigh at that before leaning back again. Then I just watch as the match comes to a close with the warrior beating the mage in the end.
+
+After that, one match after another occurs. With some of the matches being between people of differing strengths.
+
+Some of them, according to whispers I hear around the stadium along with intel from Little Blue, are upwards of level six or seven thousand. Others are just at two or three thousand.
+
+But what interests me the most is how their levels don’t always determine the results of the match.
+
+A couple of the matches actually surprise me quite a bit.
+
+One of which in particular ended with a level three thousand something losing against a level two thousand something. With almost a thousand levels between them.
+
+All because of a mixture of skill, equipment, and the level two thousand something having a Class S ability while the level three thousand something had a Class A ability.
+
+It was very interesting to see.
+
+So far I’m actually quite happy I came here.
+
+Until I start growing bored, that is.
+
+Because when you’ve seen a dozen matches, you’ve seen them all.
+
+Sorta.
+
+I continue watching the matches one after another, seeing the many different types of humans from all over the universe fighting against each other. All the way until Shirogane’s match finally arrives.
+
+And Shirogane’s opponent?
+
+Surprises the hell out of me.
+
+I’m not the only one, either, because Little Blue and Sel both show surprise on either sides of me as well.
+
+“This is an unexpected event,” I mutter while leaning forwards again and uncrossing my legs, resting my arms on my knees in the process as a smile stretches across my lips.
+
+“And our new Crown Prince is fighting agaaaaaiiiiinnnsssttt!!!!!” the MC exclaims, drawing it out before the large screen above the stadium changes to show the man in question. A man with long, blue hair matching both his name and his suit’s color as he floats with droplets of water surrounding him. “The Seventh in line for the Atlantean Throne, Azura Atlantus Altheaaaaa!!!”
+
+Haven’t seen Azura in a while. Wasn’t expecting this tournament to be the first time I see him in so long.
+
+And he’s fighting against Shirogane as well.
+
+The two of them begin talking a bit amongst each other, their words not traveling to those of us in the audience. But it’s most likely some sort of ‘haven’t seen you in a while’ greeting, if I had to guess.
+
+“Let’s see how your brother matches up against Shirogane,” I comment with a smile on my face, making both the sisters nod their heads in agreement without a word. Both of them too shocked to say anything.
+
+Which is understandable. Considering that Azura wasn’t above level one thousand the last time I saw him.
+
+The two continue talking amongst themselves for a short while before they finally separate and create some distance between them.
+
+“Now!!! Let’s get this battllllleeee staaaarrrteed!!!!” the MC exclaims, her shout bringing out a roar from the audience as both of the competitors begin their attacks at the same time.

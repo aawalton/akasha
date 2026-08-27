@@ -1,0 +1,117 @@
+---
+id: c7dccb05-8f5c-5774-b636-a743e9a1c089
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,402 - Inexorable Fate"
+slug: 0080-chapter-1402-inexorable-fate
+partOf: defiance-of-the-fall
+position: 80
+ownLength: 2943
+unit: words
+publishedAt: 2026-01-27
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2985268/chapter-1402-inexorable-fate"
+royalRoadId: "2985268"
+---
+
+Zac had always refused to use [Love’s Bond]’s ability unless everything else had failed. Exposing his Void Talents was a better option than forcing Alea’s spirit into an exchange of mutual destruction as far as he was concerned. Zac had hoped Alea would respect his wishes as she advanced toward greater heights, but she’d dug her heels in, keeping her skill’s sacrificial nature. She argued that there was no point in her having an ability if it wasn’t stronger than Zac’s own skills, and this was the only way to make it happen.
+
+‘Give me a moment. I’ll make sure your contribution counts,’ Zac said as a new plan quickly took shape.
+
+Unleashing an unexpectedly powerful ability wouldn’t be enough to break through Descartes’s veil of immortality. Furthermore, Zac didn’t delude himself into thinking that what Descartes had displayed was the extent of his powers. They all needed to work together at chipping away at Descartes’ mental state before going in for the kill.
+
+‘I’ll try something. Be ready to finish the job.’ Zac sent to the Elemental as the Buffing Pygmy of [Profane Exponents] stirred.
+
+The lantern held by the defense-incinerating pygmy suddenly shattered as an archaic pattern appeared beneath its feet. The exposed candle lit up like an unholy sun to unleash a tsunami of Miasmic flames. It swept forth to inundate Descartes and his menagerie of painted servants, and not a single one was spared. Thanks to exhausting the skill in one go, even the paintbrush was set ablaze.
+
+The treasure wasn’t damaged, but the stubborn flames temporarily restrained its ability to draw in the air. The brush had been reduced to a stylized club, and there were suddenly many openings for Zac to exploit. A chain lunged straight for Descartes's left eye, disrupting the energies he tried to gather.
+
+Even experts among ancient cultivators had an undeniable handicap compared to those working within the System. Their skills took a breath longer to activate, making them much easier to interrupt during a dogfight. It had been Zac’s secondary task since the beginning, the first being creating an opening for Kaltosa Lu.
+
+Zac had already sacrificed [Profane Exponents], so he couldn’t be satisfied with just a few feints. He pushed straight through the flames until he was close enough to touch his target before unleashing a lightning-quick palm strike. It slammed into Descartes’ chest with enough force to cave in his lungs and shatter his heart as he pushed back a few steps. In return, the brush smashed down onto Zac’s shoulder with a crunch.
+
+Getting struck by the brush felt like being crushed by a mountain, and Zac had to anchor himself with his chains not to be thrown away. Meanwhile, Descartes didn’t need to worry about wounds in the slightest. His caved-in chest had recovered before he came to a halt. It was a losing deal, but one sometimes had to lose a battle to win the war.
+
+Descartes curiously looked on as the burning brush failed to sweep the spectral chain aside. He wasn’t given any more time before the energy coursing through his body ran amok. Zac knew that Descartes would quickly adapt to the empowered version of [Arbiter of the Abyss]’s force-redirecting ability, so he aimed for maximum impact during the shortest possible window.
+
+Zac once more appeared right before Descartes, who stumbled like a drunk. Zac had essentially rewired the directional perception of every single muscle in his body. Even as [Death’s Duality] descended toward his head, there was only mockery and lazy curiosity in his eyes. He was a cat waiting to see what its prey would try next.
+
+It wasn’t hard to understand what was going through his head. Descartes was walking a road of dominion. He clearly relished breaking the path of others and flaunting his superiority. He was consciously giving his opponents the opportunity to give it their best shot, confident he could come out unscathed. When he did, his Dao Heart would be firmer and his path wider. Zac would make him regret that blind arrogance.
+
+Zac wasted no time unleashing an utterly unhinged barrage with [Fatehew]. He used the momentary lockdown brought by [Arbiter of the Abyss] to cut Descartes into a hundred pieces. Meanwhile, there were no drawings to block Alea’s chains after destroying them all by exhausting [Profane Exponents]. But instead of adding to Descartes’ suffering, they wound themselves around the paintbrush.
+
+As a final act, Zac showed his true card by unleashing [Void Zone] at maximum intensity. He was immediately losing massive amounts of Void Energy, yet he failed to snuff out the convergence of the unfathomable forces trapped within the blobs of flesh strewn on the floor. Zac had expected as much. The odds of his D-grade Bloodline Talent working against an ability empowered by bestowed Authority were slim to none. At most, he’d slowed down the process by 20%.
+
+Zac, however, received a pleasant surprise. The paintbrush locked in a cocoon of chains had shrunk back to its original size when sealed away from the Heavens, and the runes across its handle had dimmed by a decent margin. The unexpected change made Zac alter his plans without hesitation. He stilled his roaring bloodline and instead produced a rock covered in golden scripts.
+
+Its appearance elicited a tremble from the blobs of flesh. Zac stomped onto the ground to scatter the flesh. It had no effect on the time before Descartes reformed, but it hopefully fanned his agitation. Ultimately, it was only a small act of pettiness while he channeled all his Strength into cramming the brush into [Fuxi Mountain Gate]’s opening.
+
+Zac had originally planned to force open a Void Vortex and throw Descartes’ Spiritual Tool into his personal Void to prevent him from recalling it. Seeing the brush shrink back to a manageable size had presented a better option. This way, Zac wouldn’t have to risk the backlash of a massive brush forcing its way out of his body.
+
+The brush struggled against the treatment until Zac managed to push its tip inside. At that moment, it froze, and Zac could feel abject horror transmitted by the instrument. It completely forgot to fight back, allowing Zac to push it through in one go. The next moment, the [Fuxi Mountain Gate] was back inside [Purity of the Void]. A breath later, it was gone again.
+
+Zac grinned as an infuriated Descartes reformed inside the nullification space just a breath too late to interrupt the theft, this time without a weapon in his hand. Disarming Descartes had proven fruitless before. Any time Descartes reformed himself, the brush would automatically return to his hand. However, everything had its limits.
+
+The paintbrush was already on the other side of the Left Imperial Expanse, hidden inside a Supreme Void Treasure. Even if the brush managed to break out of the [Fuxi Mountain Gate], it would just appear somewhere at the edge of the Crushing Hell. Zac was sure his human half should understand the situation without leaving a message, and Tavza was there to restrain the weapon if need be. He had bigger fish to fry.
+
+Stealing Descartes’ weapon was only the appetizer of what Zac had planned for his enemy, and Kaltosa Lu had dutifully prepared the next course while Zac kept the target occupied. In contrast to Descartes, whose vision was impeded by [Fields of Despair] and senses sealed by [Void Zone], Zac could perfectly observe the movement patterns of the thousands of Array Disks above.
+
+They’d moved seemingly at random until the moment Zac trapped Descartes inside the nullification sphere. At that point, they’d hurriedly linked up to a singular whole, and Zac didn’t need his Danger Sense to warn him of the incredible danger they posed. He instantly turned into a streak of Abyssal Death, ensconcing the chained-up Descartes in absolute darkness while he snuck away in the dark.
+
+[Abyssal Drive]’s absolute sensory deprivation would only last a moment against someone like Descartes. That was all Zac needed to hide the appearance of a featureless figure with four arms. Each hand was positioned palm down as if it were suppressing the Earth, and the hundred meters around Descartes imploded as reality collapsed.
+
+Zac briefly thought he could sense the energy patterns of the present age, meaning that Kaltosa Lu’s strike had caused some damage to the memory. Was this how the Elemental planned on making his escape if things went south? Zac had used the same method to escape memory domains before, but he’d found the memories of the Mercurial Court utterly indestructible. It went to show just how much power Kaltosa Lu had managed to gather and unload by chaining up thousands of arrays.
+
+“The Emissary is immune and exempt!” Descartes roared from the epicenter of the attack as he slammed a flag into the ground. On it were twenty-three wavy lines.
+
+A constellation holding dozens of stars erupted from the banner despite its apparent lack of spirituality. The huge apparition radiated tremendous amounts of Order and Imperial Faith. Standing before it was like bearing the weight of the dome of imperial flames that protected and oversaw the cosmos.
+
+Inside each star was a sigil or item filled with such dignity that Zac quickly had to avert his gaze before his eyes exploded. Some held such power that Zac couldn’t even discern their appearance. That was especially true for the three idols right above the banner, around which all the other constellations swirled. They were separate yet one, both foreign and vaguely familiar to Zac. Others were very familiar.
+
+A barely glowing sun holding the Theomore Dynasty’s crest suppressed the constellation’s western edge. Similarly, the Empyrean Chalice with its Eternal Flame silently hovered right above the banner as if it kept the dome of the Heavens in check.
+
+All the Imperial Bloodlines and departments were represented. Most of them barely bothered to emerge, like the Theomore Dynasty’s sun, but that alone was more than enough to reject Kaltosa Lu’s ultimate attack. Thousands of Array Disks shattered at once while Kaltosa Lu was forced to his knees. The shimmering shroud his body was made of faded into obscurity, with only three small glimmers within him putting up a futile fight.
+
+While not struck by such a painful backlash, taking in the scene left Zac’s mind throbbing with pain. It held lofty knowledge that Zac wasn’t able or qualified to understand. The constellation reminded Zac of the mosaic he found in the hidden room of the Centurion Lighthouse. It had portrayed a simplified model of the System, with its Eight Pillars depicted as provincial capitals.
+
+Meanwhile, Descartes’ banner held some form of celestial chart of the Limitless Empire. It almost felt like a map of their combined Heavenly Territories, with the three majestic stars in the center representing the Emperor and his seat in the capital. It represented the dignity and authority of the Limitless Empire standing above all creation.
+
+The turnaround had come more suddenly and with greater furor than Zac had expected, but it was still within the bounds of what he could accept. Zac had never relied on Kaltosa Lu actually finishing the job. The goal was to break Descartes’ conviction bit by bit. Even if the brush didn’t have anything to do with his immortality, having it ripped out of his hands proved Descartes didn’t have the situation under control.
+
+That’s why Descartes brought out what had to be his most powerful safeguard when he felt threatened. His enemies had proven more resourceful than expected, and he didn’t want to suffer from another unpleasant surprise. If Zac could overcome this constellation, Descartes’s spiritual bastion, there was a good chance his Dao Heart would be disturbed.
+
+Zac’s bones groaned under the unrelenting pressure, and the Soul Cores had almost been forced to a halt. It was like a giant was pushing down on his shoulders in an attempt to force obeisance. However, the pressure wasn’t unbearable. He first thought it was [Void Zone] keeping him safe before realizing it only played a small role.
+
+The true reason he wasn’t on the ground like Kaltosa Lu was an unexpected disharmony in the celestial chart. While the other suns had trained their swords on those who’d harmed the Imperial Emissary, one was extending a welcoming hand. The golden chalice soon filled Zac’s whole vision, and his memories became a bridge connecting the past and the present.
+
+The Empyrean Flame had faded over the past eons, but it roused from its slumber upon sensing the call. Zac could feel the flame extend from the edge of reality all the way to the Left Imperial Expanse in a bid to drape its chosen with a mantle of supreme jurisdiction. A mere emissary dared to borrow its authority to suppress its Terminal Son, someone who carried the fate of the Empyrean Chalice?
+
+Zac didn’t know what repercussions the blessing would bring or how long it would last. The only thing he knew for sure was that this was an opportunity far greater than any other countermeasures he could think of. It was time to prove there was no such thing as immortality.
+
+The Void of Life joined the sonorous hymn of War and Death without missing a beat, adding a new depth to Zac’s inexorability. A hidden route leading through the Empyrean Chalice opened up before Zac’s eyes, and he stepped onto the path without hesitation. The warm comfort of a summer breeze swept through Zac’s body when he passed the illusory chalice, and most of his wounds melted away.
+
+Descartes had started making his way toward Kaltosa Lu to finish him off, but he spun around with an incredulous expression when Zac appeared right next to the banner. His face grew even more aghast when Zac successfully grasped the pole without suffering any harm.
+
+“No—!”
+
+Zac ignored his plea and pulled up the banner with a herculean tug. The constellation was like a punctured balloon, immediately losing its transcendent glory. The three inner suns disappeared first and without hesitation, as if their presence couldn’t be maintained unless the banner acted at full capacity. Their disappearance left Zac conflicted. Even at such close range, he’d failed to discern what they hid, but their withdrawal also triggered an exodus of the other suns.
+
+Suddenly, there was only a single idol hanging overhead—a golden chalice holding an ethereal flame. It didn’t just stay behind in the lodge; it had grown stronger to the point it seemed corporeal.
+
+“You! This is treason!” Descartes roared as he looked up at the sole remaining sun with fury.
+
+“Treason? A mere emissary dares to raise the banner of the Empire against me? The Emperor himself is a protector of my Dao. You must really have a death wish,” Zac sneered as he snapped the banner in two.
+
+Zac’s heart hammered at the audacious yet somewhat true words that spilled out of his mouth, and he half-expected a divine punishment to strike him down where he stood. It didn’t, and his words had the intended effect. Descartes looked like he’d taken more damage from Zac’s words than from any previous attack. He looked visibly sick and confused, and Alea understood this was the time to strike.
+
+A five-meter apparition of Alea’s upper body silently appeared above Descartes, looking down at him with a gentle smile. Descartes trembled as ten chains appeared across his body without warning. They were connected to Alea’s fingers, creating the impression that she was controlling a puppet on strings.
+
+Tremendous pulses of power erupted from the depths of Descartes’ body as he tried to break free, and the bestial roars from before returned with renewed fervor. However, the energies were pushed back down as Descartes took a jittering step toward Zac. Over and over, he tried to break free, but the result was the same. Soon enough, Descartes stopped before Zac, his arms outstretched in a welcoming gesture.
+
+All mortals were puppets controlled by the strings of fate, marching toward their inevitable demise. A spirit of inexorability could briefly manipulate those strings if they were willing to pay an equivalent price.
+
+This was the fundamental idea behind the upgraded version of [Fate’s Predestination]—[Inexorable Fate]. The ability didn’t control dao or energy; it manipulated fate itself, leading it down a certain path. The stronger the opponent’s fate, the greater the backlash Alea would suffer. If the fate she wanted to create was too far-fetched, her spirit would directly collapse.
+
+“You were right before. It’s time to put the trajectories back on track. The Left Imperial Expanse has no need for you,” Zac said, his voice laden with genuine rancor. Cracks were already appearing across Alea’s body. Her soul was damaged every time she co-opted Descartes’ fate to maintain his current state. He needed to make this quick.
+
+Zac extracted every ounce of power from the ten remnants spread across his bodies. Torrential forces poured into his shoulders as he closed the distance. His left hand held the power from which all evolved; his right hand grasped inexorable nothingness. He had become the beginning and the end, with a vast sea of existence between the two delimited forces. Lastly, the Void of Conflict broke the inherent law of separation to birth Primordial Chaos.
+
+It was an unfathomable power that still technically couldn’t exist today, let alone in ancient times when the Peak of Chaos remained mostly in tatters. Deepening confusion and new levels of horror appeared on Descartes’ face as the shimmering silver power of Chaos danced in his eyes. Zac uttered a silent prayer as he delivered his coup de grâce.

@@ -1,0 +1,133 @@
+---
+id: 20143ca3-87df-522d-91b9-2637b16daab7
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 10"
+slug: 0309-b5-chapter-10
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 309
+ownLength: 1548
+unit: words
+ownProgress: 1548
+publishedAt: 2025-10-09
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2663633/b5-chapter-10"
+royalRoadId: "2663633"
+markedReadAt: "2026-06-29T19:16:19.751Z"
+---
+
+Outside a Quiet Café on Eternus
+
+“So you’re telling me this place is really owned and run by the Horseman of Death? Seriously?” Ajax asks without so much as a hint of belief that it’s true in his voice. “Don’t joke around. The Horseman would probably have your head or something for that.”
+
+“No, I’m serious, bro!” Ajax’s twin brother, Arjax, says as the two stare at the large café in front of them. One that is larger than a lot of restaurants he’s seen.
+
+Ajax just snorts at his brother’s words, but he goes into the large café anyways.
+
+Only to halt the moment he steps into the place and finds a bunch of waiters roaming around from table to table, along with more staff standing behind the desk and all over the place. Except with each of these staff being creatures with glowing crimson eyes and glowing crimson veins running across their skin.
+
+But most importantly, he can immediately tell that they’re filled to the brim with condensed death energy. Enough that he can easily determine their species to be that of Death Spirits.
+
+Death Spirits… going around waiting tables and acting as receptionists…
+
+Ajax stares blankly at the scene even as his brother walks up to the receptionist desk with some confusion on his own face despite his having been here before. Which makes Ajax wonder if this is a new development here or something.
+
+And when they reach the desk, the Death Spirit manning it types something on a keyboard in front of him at a speed of several hundred words per minute. All while a robotic sounding voice sounds from a speaker attached to his fancy uniform’s collar.
+
+‘Welcome to the Crimson Café, wait just a moment and a spirit will be here to take you to your table.’
+
+Ajax just continues staring at the absurdity all around him as his brother converses with the receptionist. Then he blankly follows his brother to their table after a Death Spirit comes to guide them.
+
+It isn’t until after the Death Spirit leaves them at a table near the window with a menu on it that he finally recovers and asks, “Just what sort of hellhole did you bring me to?!”
+
+His brother just gives him a confused look and answers, “I told you already, bro. This is the Crimson Café, run and owned by that Horseman of Death herself.”
+
+Ajax stares at his brother. His brother stares back at him.
+
+Their staring lasts for an entire ten seconds before Ajax looks down at the menu, realizing that his brother did, indeed, tell him about that. And if this place really is owned by Death herself, then having Death Spirits as staff for the place doesn’t sound too farfetched.
+
+Logically speaking. Because Ajax isn’t ready to emotionally accept the idea of a bunch of walking spirits of mass destruction serving him coffee.
+
+He looks around the café to find the other customers all a little weirded out by the Death Spirits as well, but most of them seem to be taking it well aside from that.
+
+His entire thought process comes to a halt though when he looks up at the third floor of the café, which, along with the second floor, are both overlooking the first floor. And he finds the Horseman of Death herself just lazily leaning over the railing looking out at the café from up there.
+
+Ajax’s eyes almost bug out at that sight.
+
+Then he focuses on his menu while shivering from pure terror.
+
+I wish I believed him earlier…
+
+Meanwhile his brother just hums to himself while looking through the menu and muttering, “Pancake, pancake, get me some coffee and a pancake…”
+
+Aria
+
+This idea is turning out rather well if I do say so myself.
+
+As it turns out, the basic Death Spirits are fully capable of intelligent thought. They’re just lacking the capability to speak. So I had the pharaoh whip up a little device to let them speak, and he was all for it.
+
+Which makes sense. Not only was it a request for me, which the guy would never turn down. But it’s a device to help the Death Spirits speak. And they also worship the Death Spirits, albeit nowhere near as much as they worship me.
+
+Honestly, it was probably the most enthusiastic I’ve ever seen the undead pharaoh act since meeting him.
+
+More importantly, I can keep the café open all hours of the day doing it this way. Since I just have my Death Spirits swap out for others if they ever actually want a break. Which none have actually requested for one yet.
+
+Probably because they don’t tire. And they are just as enthusiastic about helping me as the Rex Dynasty of the Dead.
+
+The first time I heard one of the regular Death Spirits speak was… a memorable moment. To say the least.
+
+And an unexpected one too.
+
+Because the very first thing he did was to ask if he could hug me. Which was probably the last thing I was expecting at the time.
+
+As it turns out though, the Death Spirits literally grow stronger just from close proximity to me. And physical contact with one for an extended period of time can actually evolve a Death Spirit.
+
+On another note, I haven’t seen that Death Spirit again since.
+
+Not after he was dragged away by the other Death Spirits back into a rift after which more Death Spirits replaced him.
+
+I wonder what happened to him? They didn’t seem particularly happy about his question.
+
+Another Death Spirit later asked Asher if he could be his perch though. Which was hilarious.
+
+Especially when Asher just glanced at him and then laid his head back down in my jacket’s hood without even bothering to answer him. Making all of the other Death Spirits – each of whom seemed to be interested in asking the same question – give up on it. Almost like a light was snuffed out within their eyes.
+
+I glance at the cat who is currently sitting on a table near me drinking wine from a little bowl.
+
+Asher certainly takes after me. In some areas, at least. Not others.
+
+He loves wine, which is a must, and never lets others near him. He is bossy as hell, takes naps wherever he feels like it – even on a nuclear bomb once, which was freaking out the people who were trying to dismantle it that one time – and doesn’t listen to anyone but me. And on top of all that, he is incredibly lazy and for some reason likes to eat fish with his wine.
+
+Like the fish next to his bowl.
+
+Although the only things he gets from me are probably his love of wine.
+
+He’s a very bossy little guy after all, and he doesn’t listen to what anyone tells him to do. Not to mention he disappears for quite a while sometimes without even a simple meow. Most of the time because he was eaten within a Hunter’s Spot, or got swept up in some wave or attack or something while sleeping and got lost.
+
+I bet it’d be a pain to deal with someone like that if they weren’t just a little kitten.
+
+A multi-century-old kitten.
+
+I give him a proud smile and a nod of my head at the sight of him gulping down some more wine before focusing on the main floor of the café down below. Or to be more specific, at the Death Spirits working on the café.
+
+My wine here has aged quite a bit and improved, and the café itself has grown rather popular as well. And since I’m using Death Spirits, I don’t even have to pay for the staff.
+
+Plus the Death Spirits barely require any upkeep from me since they’re not fighting. So they aren’t using up the death energy I’ve given them.
+
+Although I have seen a few particularly sensitive mages pass out at the entrance from the sheer amount of death energy in them. Which is why I made the entrance enchanted so that if they pass out they’ll be teleported to a sleeping room right next to the entrance so as to not bother others.
+
+A couple of the mages even threw up at the sight of them. So I had a cleaning enchantment placed on the entrance too.
+
+It’s fine though. Most of my customers aren’t mages. And the ones that are, most aren’t sensitive enough to have a major reaction like that.
+
+Also, these lovely basic Death Spirits don’t require me to be anywhere nearby to stay out. So I can just open a rift and bring them to the mortal universe and they’ll stay here until I dismiss them. No matter how far away I get.
+
+So yay.
+
+My thoughts are cut off when my terminal begins to buzz, with Ruby’s name appearing on the caller ID. Followed after by a second call incoming at the same time. This one being from Little Blue.
+
+Guess they’re getting impatient.
+
+That’s alright.
+
+I think it’s safe to leave this place be now.
+
+So it’s time to head to the Pale Mercenaries HQ for the first time in a century.

@@ -1,0 +1,443 @@
+---
+id: bf31d57b-7fc5-5567-a8f7-16865f52f254
+page-type-slug: story-chapter-royal-road
+title: "131: Appearances"
+slug: 0131-131-appearances
+partOf: delve
+position: 131
+ownLength: 6380
+unit: words
+publishedAt: 2021-01-24
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/619463/131-appearances"
+royalRoadId: "619463"
+---
+
+Stint sat alone at one of the stone tables in the room that Ascension had decided to call the ‘tavern’. The name was fitting, for all that it lacked a ceiling and had a dirt floor, dirt walls, and tables and chairs made from rough-cloven boulders. The steady glow of the light bulbs behind their stretched-linen shades made the place seem somehow cozy, despite the chill in the air. The sun was just peeking over the horizon, filling the sky with rose-hued light.
+
+The new camp was, without any understatement, amazing. Seeing Ameliah raising walls and breaking rocks with a gesture had been an eye-opening experience for Stint. He’d been asleep—unconscious, really—when she’d constructed Ascension’s camp near Vestvall, but this time, he’d been able to watch.
+
+Ameliah was strong. Unbelievably, inconceivably strong. Stint knew that there were people out there that far outstripped her—his former employer for one—but seeing someone casually levitate a rock large enough to smash him into paste left a certain impression.
+
+I have a long way to go.
+
+Stint ripped off a piece of monster-jerky with his teeth and began chewing laboriously. It was just before sixth bell. He’d finished his watch and saw little point in going to bed. He’d only end up being woken again—first by their stupid wake-up call, and then by his system alarm two hours later.
+
+Almost as if summoned by his thoughts, an aggressively-peppy tune began belting out from beyond the curtain dividing the tavern from the rest of the camp. It was being played on a flute today. Stint groaned and set down his jerky, covering his ears.
+
+Oh, gods. Why?!
+
+A sudden movement from near the line of hearths along the wall made him jump. The woman from Vestvall was struggling to free herself from a pile of furs beside the one fireplace that was lit. She dazedly sat up, looked around the room, and then suddenly shot to her feet, pressing herself against the earthen wall. After a moment, she seemed to relax, laying a hand over her heart.
+
+Stint smiled and took another bite of his jerky. I’m right there with you, lady. Gods know, I’ve woken up in plenty of strange places.
+
+As the flute finished its jaunty melody, the Vestvallan woman seemed to notice him. After a moment, she moved hesitantly toward the table, then spoke. “Um, excuse me, sir, what’s going on? What was that music?”
+
+“They call it ‘reveille’.” Stint said, swallowing. “It means it’s sixth bell.”
+
+The woman blinked. “Okay…”
+
+Stint rubbed at his temples. “I don’t have the faintest idea why anyone would choose to live like this, but they always get up two hours before true dawn.” He let his forehead thunk to the table, then spoke with his face smooshed against the stone. “Every. Single. Day.”
+
+“You’re not with them?” the woman asked.
+
+“What?” Stint raised his head to look at her.
+
+“You said ‘they.’”
+
+“Oh.” He glanced at the white cloak covering his shoulders. “No, I’m a member. I’m just new.” He coughed. “My name’s Stint, by the way.”
+
+The woman’s mouth made an ‘o’ of surprise. “Stint? The archer who was living in Ebert’s old barn?”
+
+“That’s me,” Stint said, feeling Rain’s Winter aura wash over him. He shivered involuntarily, but the woman didn’t seem to be affected. A moment later, the curtain leading to the company hall was jerked aside. Carten led the way into the tavern, laughing and hauling Rain after him in a headlock.
+
+Neither man was encased in armor for once, and Stint wasn’t sure who was dressed more inappropriately for the weather. Rain had on a thin linen shirt and trousers, while Carten was wearing a sleeveless monster-fur vest, open at the front, with shaggy pants to match.
+
+After a bit more struggling, Rain broke free of Carten’s hold, then glared at him as he tried to straighten his hair. Winter subsided for a moment, then a blindingly bright pulse of Purify filled the tavern, making both Stint and the woman flinch.
+
+Stint quickly recovered, licking his now-clean teeth and looking back to see Carten laughing. The big man raised his arm and made a show of sniffing at his armpit, but his mummery was swiftly interrupted.
+
+Tallheart had followed him into the room, and he hoisted Carten from the ground like a dockworker lifting an empty barrel. He casually carried the struggling turtle aside, clearing the way for Ameliah to follow him.
+
+Like the captain, Ameliah was only wearing a simple shirt and trousers. She walked over to stand beside Rain, and he leaned close to whisper in her ear. Carten, who had recovered from his involuntary displacement, began laughing again, pumping his fist into the air. Rain glared at him, then he and Ameliah walked away toward the lit hearth. As they moved, Rain slipped an arm around Ameliah’s waist, and after a moment, she returned the gesture.
+
+Stint snorted. Love ducks. He gnawed off another chunk of jerky. Lucky bastard.
+
+“They’re…together?” the Vestvallan woman asked, taking a seat next to Stint at the table.
+
+“Seems so,” Stint said as more company members began entering the tavern in varying states of consciousness. He gestured to the woman. “What’s your story, anyway?”
+
+“Oh, sorry, I didn’t introduce myself. I’m Lana. Rain and Ameliah invited me to stay with the company for a while.”
+
+“Why?” Stint asked, inspecting her discreetly while she was distracted. She didn’t look like a fighter, just an ordinary young townswoman. She was wearing a tunic that was too large for her and a baggy skirt to match.
+
+She turned to look at him, and he quickly looked away. “They’re protecting me,” she said.
+
+Before Stint could ask why she needed protection, Carten crashed down next to him. “Mornin’ Stint,” he said as Stint flinched. “Who’s yer friend?”
+
+Lana glanced at Stint as the silence stretched. With an effort of will, Stint forced himself to relax, but not before Lana introduced herself.
+
+“I’m…Lana,” she said haltingly.
+
+“Carten,” the big man replied, pointing at his hairy chest with his thumb. “Don’t even think about it. I’m taken.”
+
+“What?” Lana asked.
+
+“He means I’ve claimed him,” said a white-cloaked woman whose name Stint didn’t know. She sat beside Carten, then leaned against his shoulder, patting his bare arm. “I don’t mind sharing, though, if you’re in the mood for some fun.”
+
+Lana blushed furiously and looked away as Carten laughed, freeing his arm and wrapping it around the unfamiliar woman.
+
+“That’s enough of that, Evonna,” Rain said, approaching the table carrying a steaming mug. Ameliah was walking beside him, carrying two more.
+
+“Yes, leave her be,” Ameliah said. “No teasing. Not her and not us.” She set one of the mugs down in front of the Vestvallan woman. “Here you go, Lana. It’s just tea.” She turned to stare at Carten and Evonna as she continued, her voice hardening. “If they’re bothering you, just tell them to stop. They will.”
+
+Stint didn’t see the pair’s reaction to the implied ‘or else’, as he was more interested in what Lana was doing. She had tensed at Rain’s approach, just as he had at Carten’s, freezing like a mouse cornered by a cat.
+
+After a visible struggle, the Vestvallan woman reached out to take the cup, her hand trembling. She paused, then took a deep breath. The shaking stopped. She took the mug, raised it to her lips, and hesitated a moment before taking a sip. She nodded to Ameliah in thanks before shifting her gaze to Rain, taking another deep breath. “Sorry.”
+
+Rain smiled at her. “It’s not your fault.”
+
+Stint looked between them, then his eyes widened as he realized what was happening. This must be the soul-wind thing people were talking about yesterday.
+
+“There’ll be food ready in a little while,” Rain continued, still speaking to Lana. “Ameliah and I are going to go scout around. Just tell Jamus what you want to eat. It’s his turn on breakf—oh, Jamus isn’t here, that’s right. Hmm. Stint, can you cook?”
+
+Stint blinked, surprised by the sudden question. “Kinda?”
+
+“Great. We’ve got a rotation going. Can you cover for Jamus this morning?”
+
+“I guess…” Stint said, glancing over at the hearths. A teenager with unnatural cherry-red spiked hair was walking down the line carrying an armful of logs. He tossed the last of them into the fireplace on the end, then began walking back the other way, blasting each hearth with a Firebolt to get the wood burning.
+
+Stint looked back at Rain, then jerked his chin toward the kid. “Is he cooking too?”
+
+Rain looked in the indicated direction. “Kettel?” He turned back to Stint and nodded. “Yeah, it was supposed to be him, Jamus, and Mereck today. That’s Mereck over there, by the job board. With the black hair.”
+
+Stint glanced in the direction Rain was pointing, then back at the fiery-haired teenager. Dozens of questions were bouncing around his mind, but the one that came out was likely the least important of the bunch. “What’s going on with that kid’s hair? Is it a Fire Mage thing?”
+
+“Hmm?” Rain asked, in the middle of sipping his tea. He looked over at Kettel, then laughed. “No, he’s just going through a phase.”
+
+…what?
+
+Rain nodded. “Right, then. No sense letting all the tasty monsters rot. We’ll be back in two shakes of a lamb’s tail.”
+
+Two shakes of a—?
+
+“Don’t ask,” Carten said with a chuckle. “It ain’t worth it.”
+
+Stint looked at Lana, who was clearly as confused as he was. He looked back at the departing form of Rain just in time to see Ameliah shove him playfully, making him stumble and almost drop his tea.
+
+“Lucky bastard,” Carten said out loud, echoing Stint’s thoughts from before.
+
+Evonna cuffed Carten in the back of the head so hard that his face almost slammed into the stone table.
+
+“Ow!” Carten yelped. “What’d I do?”
+
+Rain hugged himself, rubbing at his elbows as he stood atop the wall, looking out at the surrounding hills. Nothing moved. The sentries had been doing their jobs, and it was light enough now to prevent most spawns, at least out in the open, but there could still be things lurking out there beyond the hills. He glanced back at the camp. I should go get my armor…
+
+Ameliah stepped up next to him, then looked down over the edge. “Come on, stop worrying so much.” She jumped down, landing lightly, and with one last moment of hesitation, Rain uncrossed his arms and followed her. He didn’t bother to use Force Ward to absorb the landing, relying instead on his boosted stats to counter the three-meter drop. He had the Malleable Ring on a chain around his neck, Frodo-style, having finally worked out the concentration trick required to wear it as an amulet.
+
+The smell of blood and death rose to greet him, so he activated Purify in response. He kept the radius tight, only clearing the air around him and Ameliah for the moment.
+
+The area beyond the walls was a frozen horror show of gore. Rain had taken the first watch, and repeated exposure to Immolate had melted the snow and frozen earth, turning it all to mud. Over the course of the night, the mud had been churned together with monster blood and entrails, creating a disgusting slush that had gradually frozen solid. Corpses were strewn about everywhere, piled deepest near the wall and extending out to a considerable distance, many of them riddled with arrows.
+
+It had been a rugged defense by recent standards, thanks to the proximity to the crack, but it was nothing compared to the first few nights they’d spent outside Fel Sadanis.
+
+And to think I’ve gotten used to this.
+
+“Okay,” Rain said, closing his eyes and focusing inward. IFF couldn’t help with what he needed to do next; it was a pure effort of will.
+
+Fungiform Stumpers, Murder Shrews, Ice Coursers, Whooping Snails, Vine Shufflers, Sakeren, Dire Sakeren, and Emouiles are all FOOD. Everything else…
+
+[⟬filth⟭!]
+
+The sudden intrusive thought stopped Rain moments before he activated his modifiers, his focus slipping.
+
+Damn it, Dozer! Rain sighed, rubbing at his neck. [So you finally decided to wake up, huh?]
+
+[Rain-King! ⟬filth⟭!] Dozer sent back happily.
+
+Rain could feel the slime heading in his direction, dropping down from the partly-disassembled forgewagon. Rain had stashed Dozer’s crate near the smelter in the room that was to be the company’s workshop, knowing that the slime liked the warmth. Even with such prime bed placement, it had taken quite a bit of convincing to get Dozer to sleep there last night, rather than between him and Ameliah as it typically preferred.
+
+“Problem?” Ameliah asked, raising an eyebrow at the delay. “Did you want to check for new types first or something?”
+
+Rain shook his head, walling off the slime’s excitement about filth, as well as some unrelated filthy thoughts of his own. He smiled. “No, it was just Dozer distracting me. We’ve got better things to do than to sort through all this.”
+
+He focused again on his list of monsters, and his senses faded as he boosted Purify with Aura Focus, though he compressed the range down to only ten meters. He’d found that Purify tended to respect his wishes better the closer he was to whatever he was targeting. When he opened his eyes, the killing field around him was a much cleaner place. A few corpses of the chosen monster types remained, along with dozens of arrows and the odd Tel or Cryst.
+
+“I still don’t understand how you can do that,” Ameliah said. “I think your brain is weird.”
+
+Rain snorted. “I know my brain is weird.” He pointed. “Watch out.”
+
+Ameliah turned just as Dozer flung himself at her from the wall. The slime landed well short with a wet thud, then quickly reformed and began oozing toward her. Rain relaxed his hold on the connection between him and the creature, allowing its thoughts to come through once more.
+
+[Ameliah-Queen! Awake!]
+
+“Dozer says good morning,” Rain said as the slime extended a vaguely fist-shaped protuberance for Ameliah to bump.
+
+[You’re getting better with the fingers, Dozer,] Rain sent, receiving happy confusion mixed with pleasure at being praised. Finer meaning often eluded the simple creature, but it still was amazing just how much it could understand. [Do you think I should tell her your name for her yet?]
+
+[Yes!] Dozer sent, though Rain could tell it hadn’t really followed the question.
+
+Rain smiled and shook his head. [Later.] Sensing that Dozer was hungry, he activated Essence Well to send the slime a quick burst of mana. That would hopefully stop it from being annoying while he and Ameliah worked. It was already creeping toward one of the reserved monster corpses. [That’s not for you, Dozer! Leave it! Go collect arrows.]
+
+[Arrows! ⟬order-need⟭!] Dozer swerved, then began slurping up arrow after arrow, shifting them within himself so they formed two bundles: broken and unbroken. In both cases, all of the shafts ended up pointing in the same direction within Dozer’s gelatinous insides. [⟬order⟭! Happy!]
+
+Rain smiled. Oh, to be so blissfully uncomplicated. He wasn’t sure he would have been able to keep himself together this well for this long if not for having his very own therapy slime.
+
+Leaving Dozer to his mission, Rain and Ameliah continued on theirs. Rain repeated his Purify trick as needed, while Ameliah used Attract to collect the scattered Tel and Crysts the spell left behind. Using it on arrows wasn’t actually as bad of an idea as one would expect, but Dozer had things under control there. As for the gourmet monsters they were leaving behind, they’d deal with them soon enough; they still had plenty of time before anyone from Vestvall would show up to collect them.
+
+Before long, Rain and Ameliah reached the crack and the barrier of gravel she’d raised surrounding it. She hadn’t been able to do more than that, already strained from building the camp, but it had been enough. Rain could easily see all the places where the gravel had been disturbed during the night.
+
+The idea was that the loose stones would send a climbing monster tumbling back to the depths, or at least stall it long enough for the defenders to hit it with an arrow or two. Invariably—on Rain’s watch anyway—any monsters so-struck had beelined for the waiting defenders, just as they’d hoped. He would have to check with the other watch-leaders to determine if that had remained true or if they’d had to stage any sorties to prevent anything from escaping toward Vestvall.
+
+Careful of the treacherous footing, Rain began climbing toward the edge. He had to windmill his arms as the gravel abruptly shifted beneath him, but he quickly caught himself, finding solid ground beneath his feet. Not just any ground, in fact. Stairs.
+
+He looked to see Ameliah smiling at him, then she yawned enormously.
+
+Rain smiled back. “Tired?”
+
+“Sorry,” she said, waving her hand in front of her mouth as she moved to join him on the stairs. She smirked. “I didn’t get as much sleep as I should have.”
+
+Grinning back, Rain moved in for a quick kiss, but a sudden alert from Dozer made him whip his head to the side.
+
+[Enemy!]
+
+Rain spotted Dozer near a neat pile of arrows, but his eyes quickly fixed on something else. There was a monster headed for his slimy companion at a dead sprint.
+
+Dire Rat - Level 3
+
+“Shit!” Rain swore. A Dire Rat was a credible threat to an unawakened human, even if that human was armed. Dozer would have no chance, but as Rain watched, the slime began oozing to meet the Labrador-sized rodent head-on, heedless of the danger.
+
+Before Rain had even taken two steps, an arrow slammed into the Dire Rat, and a chime informed him that it had been killed instantly. He stumbled to a stop, looking at the camp wall. Hanes lowered his bow, then waved to Rain and Ameliah in greeting as Dozer pounced on the corpse of the Dire Rat.
+
+[⟬kill-need⟭! Protect Rain-King!]
+
+Rain pressed his hand to his chest in relief as Dozer wrestled with the dead rat. Suddenly, Dozer’s thoughts shifted from anger to pride as it realized the monster wasn’t fighting back and wrongly concluded that it had something to do with it.
+
+“Well,” Ameliah said, lowering her hand. The jagged spear of gravel she’d formed fell to the ground with a crunch of impact as it broke apart. She laughed, turning to look at him. “At least I’m awake now. Odd. I thought monsters usually ignored Crystal Slimes.”
+
+“So did I,” Rain said, waving back at Hanes in thanks. He returned his attention to Dozer, watching as the slime began trying to swallow the rat whole, despite it being roughly the same size as itself. He shook his head. “Other slimes will attack them, but Dire Rats definitely leave them alone. Unless… Did Dozer aggro it somehow?”
+
+[Dozer, did you decide to attack it first, or did it decide to attack you first?]
+
+The only response Rain got was happy confusion. Dozer had finished engulfing the monster and was wobbling as it tried to stabilize itself. Slowly, it began to roll. With its rat-filled center, the slime’s membrane was too taut for it to control itself properly. It looked like one of those plastic hamster balls, only significantly more morbid, and it would only become worse as the rat began to dissolve.
+
+Rain shook his head, then began to laugh. “Damn it, Dozer.”
+
+Jamus drilled his knuckles into his temples, scrunching up his eyes. He was beyond tired, to the point that his throbbing headache was probably the only thing keeping him on his feet. His three companions looked little better, seated around a dirty table in an even dirtier inn called the Hole and Oats.
+
+“Spawn! To arms! To arms!”
+
+Jamus’s head shot up at the cry, and he shook himself free of his weariness and lurched to his feet, knocking over his chair in his haste. “Come along, the break is over,” he said, hoisting Tahir to his feet by the elbow and waking the healer in the process.
+
+Tahir groaned but quickly grabbed his bow from where he’d stashed it and headed for the door. Lago was already there, having been the fastest despite the heavy steel breastplate he was wearing. As a future Defender, the dark-haired man’s stats leaned toward Endurance, giving him an advantage when it came to staying up all night, though he’d yet to take the class.
+
+Not to mention that he hasn’t been using mana for almost twenty-four hours straight, Jamus thought as he righted his chair. He glanced at Val, who was heading for the door. The Osaran man looked like he was wilting in the pale light of the Lunar Orb hovering above his head. He’d unbound the cord that he typically used to bind his hair, and it hung limply about his face, hiding the scars on his cheek.
+
+Jamus shook his head, then grit his teeth against the continuing pain in his skull and followed Val out into the torch-lit street.
+
+“I think it came from over there,” Lago said, gesturing with his shield.
+
+“For Vestvall!” A cry came from the indicated direction, then a chittering screech that Jamus recognized as coming from either a Dire Rat or one of its elementally-aligned variants.
+
+“Go!” Jamus snapped, then dashed after Lago, who was already moving. By the time they reached the source of the cry, the excitement was all over. A circle of Vestvallan militia surrounded the dead monster in the middle of the street, indeed a Dire Rat. An older man in a nightgown was slumped against the side of a house, breathing heavily but seemingly unharmed.
+
+“Anyone hurt?” Lago asked, startling one of the militia members badly enough that the man spun and swiped at him with a cudgel, coming nowhere close to hitting him. Lago ignored the hostile reaction, spreading his arms wide to show that he hadn’t drawn his sword and wasn’t a threat. The light from the militia’s torches danced across his breastplate, revealing the painted creature that was his namesake.
+
+“No,” answered a different man, the patrol leader by Jamus’s guess. His equipment was of higher quality, marking him as a noble, perhaps even an awakened one. It wasn’t anyone he recognized, but the man was young, so he would have been a child when Jamus had left the city.
+
+“Well, now, hang on, there,” said another of the men, pushing forward. “I’ve had this ache in my knee since three winters ago and—”
+
+“Sorry,” Tahir interrupted, sounding suddenly irritated. “I can’t help with that.”
+
+Jamus laid a hand on Tahir’s shoulder, then stepped forward to intercept the man’s response. “Pardon me, but our mana is limited. Additionally, that sounds like an old injury, which would be beyond all but the greatest healers. I am afraid we can do nothing for you.”
+
+“Oh,” said the man dejectedly. “Damn.”
+
+“You’re Jamus, right?” cut in the patrol leader, a note of hostility entering his voice. “Didn’t you work for the Bank?”
+
+“Yes,” Jamus said, raising his hands, “but not anymore. I quit. I’m with Ascension, now, as well as the Guild.”
+
+“Good,” the patrol leader said, then spat. “Bankers. Fuck ‘em.”
+
+Jamus smiled. The sentiment against the Bank was something he could easily understand, given how they’d cut and run, combined with their general reputation. He’d worked for them, true, but even after his long years of service, they’d never given him a membership plate. He’d only been a lowly unawakened clerk. He felt scarce loyalty to his previous employer, especially now that he’d seen how vast the world really was.
+
+“Come on, let’s go check on the barricades again,” Lago said. “We’re already out here. Might as well.”
+
+Jamus nodded. He glanced at the recovering man in the nightgown, then to the patrol leader. “We’ll leave you to it, then?”
+
+The nobleman nodded back. “We’ll be fine.”
+
+“If you need anything, just scream,” Val said over his shoulder, already walking away.
+
+“Not that way, Val,” Jamus said, pointing. “Take that alley. It’s faster.”
+
+“Pays to know a local,” Val said, swerving in the indicated direction but hesitating as he reached the mouth of the alley. “Ew.”
+
+Jamus looked, then sighed. Someone—possibly multiple someones—seemed to have been using it to dump their chamber pots.
+
+“Ah, yes. Shit,” Lago said, marching past Val and into the alley. “I’d almost forgotten what it smelled like. Come on, it won’t hurt you.”
+
+Jamus shook his head, then followed. His thoughts weren’t on the alley, nor its contents, but on where it led.
+
+If I have us go west along Miller Street, it will bring us right by Bens’s house. It won’t hurt to check on him one more time…
+
+A sudden clang from the direction of the bell tower startled Jamus out of his thoughts.
+
+Eighth bell already?
+
+His book didn’t appear. He’d learned to disable the automatic notification a few weeks ago—an achievement he was still proud of, as few members of Ascension had managed it. His present companions certainly hadn’t. They were all staring into the middle distance at the moment, looking at interfaces that he couldn’t see.
+
+Though Jamus’s head was throbbing in time with the ringing of the bell, all he felt was relief. Monsters would now be skulking back to their holes as their daytime instincts took over. There were still plenty of shadows to be found in the beleaguered city, of course—the threat of an unexpected spawn never really went away—but the danger was markedly less than it had been mere moments ago.
+
+“Day at last,” Val said, waving a hand, perhaps to dismiss his interface, or perhaps in a futile attempt to waft away the stench.
+
+“Let’s head back to the camp and get some sleep,” Tahir said. “I’m just about done with this place.”
+
+“I vote we rest here,” Lago said. “Not the alley, obviously. We could go back to that inn. I could probably manage the hour’s walk to the camp, but not if I have to carry you three.”
+
+Jamus nodded. “We’ll go to the inn. We’ll rest for a few hours, then catch up with Mlem when he comes to trade.”
+
+“This was not worth it,” Val said, tiredly. “I don’t care how many extra shares we’re getting.”
+
+Jamus shook his head, too tired to argue. Earning a few extra shares of the night’s spoils was all well and good, but that wasn’t why he’d agreed to this job. Helping the city was part of it, but that wasn’t the real reason.
+
+I need to talk to Bens before I go back to camp. Maybe he can invite Alden and Dami to a meal to get them away from their mother, and then I could…
+
+He sighed, shaking his head again. What? Convince them all to join Ascension?
+
+“Jamus, you coming?” Lago asked.
+
+Frowning, Jamus nodded, then moved to follow the others, leaving the stinking alley behind.
+
+They’re safe. There’s no need to rush things. That bastard Urs can afford his own guards, and despite how we’ve been dashing about all night, the militia has things mostly under control. I’ll get some sleep first, and then… Then I’ll see.
+
+“Wake up! Wake up! Wake up! Wake up! Wake up! Wake—”
+
+Brovose caught Hegar’s arm, stopping his hand just short of striking his face. He worked his jaw, wincing at the sting coming from both cheeks. “Ow.”
+
+“Finally,” Hegar said, pulling free from Brovose’s grip and climbing off his chest. “Get up, you lazy ass. Gods help me, if you go back to sleep again, I’ll do things to you that will make you wish…”
+
+Brovose stopped listening. There was little point in paying attention to Hegar most of the time. There was also little point in trying to explain the benefits of Torpor, even if he’d had a mind to reveal the workings of the hidden passive. Hegar wouldn’t care.
+
+With a mighty yawn, Brovose pushed himself up into a sitting position. Working at his own pace, he climbed out of bed, then donned his robe and checked the pockets for any surprises or missing equipment. Finding everything as it should be, he grabbed a cold sausage from one of the trays scattered about the room, then began gnawing on it as he followed Hegar and Anton down from the room and out onto the street.
+
+The entire time, Hegar had been nattering on and on. The gist was that Lana hadn’t returned from her mission yesterday and that Hegar wanted to track her down.
+
+Brovose frowned as he considered this. He hoped that nothing terrible had happened to her. A sulky Hegar was even worse than a regular one. Besides, she’d seemed nice.
+
+I wonder if she decided to run away, he thought, fighting back another yawn. He glanced at Hegar, then quickly hid a smile. I can see why she would. Hegar needs to learn to stop trying to steer the river. It’s much better to just let it carry you along.
+
+“Wait here,” Hegar snapped suddenly, startling Brovose with a hand against his chest. They’d reached what looked like an inn, one of only three that he knew of in the city. The weathered sign depicted a man pouring grain from a sack into the gaping mouth of the fattest horse Brovose had ever seen. The words ‘Hole and Oats’ were burned into the wood beneath the faded picture.
+
+Brovose snorted as Hegar disappeared inside. Ridiculous. I love it.
+
+“What?” Anton asked, looking at him.
+
+Brovose gestured. “The sign.”
+
+“What about it?” Anton asked.
+
+“The horse,” Brovose said. “Look how fat it is.”
+
+“Oh,” Anton said, then paused, looking at the sign. “That’s supposed to be a horse? I thought it looked more like Hegar’s mother.”
+
+Brovose grinned. “Nice.”
+
+“THEY DID WHAT!?” Hegar’s voice boomed from within the inn. “WHY DIDN’T YOU SEND SOMEONE?!” There was a crash that sounded like an overturned table.
+
+Brovose glanced at Anton, then sighed and stepped through the door. Using Barrier Shaping, he sculpted Arcane Bulwark into a dome, then placed the modified spell over the cowering innkeeper, blocking him from Hegar’s wrath. He also layered a few more augments into the barrier, imbuing it with the strength it would need if Hegar was really serious about harming the man.
+
+Hegar lowered his fist, then glared in Brovose’s direction. “What the hells are you doing, Sleeper?”
+
+“Saving you from yourself,” Brovose said, yawning.
+
+“I wasn’t going to hurt him,” Hegar snapped. He kicked at the barrier like a petulant child. As his foot made contact, there was a flash and a crack of thunder. Hegar’s boot was blown away by the backlash, almost sending him to the ground. “Gah!” he shouted, hopping on one foot, the other one smoking slightly.
+
+Anton laughed, slapping Brovose on the back. “Lightning? Nice touch.”
+
+Brovose smiled. “And fire.” He snapped his fingers, and the barrier seemed to vanish. In reality, he’d only made it invisible. Using Barrier Shaping again, he shrunk it down, then used Affix Conjuration to tie it to the innkeeper so it would move with him. There was no sense letting the mana he’d already spent go to waste. Besides, it would be funny once the man realized he couldn’t touch anything without the barrier pushing it away.
+
+Brovose rubbed at his chin. Hmm. I should probably reclaim the elemental aspects before he burns down the building…
+
+As Brovose worked to further modify the construct, Hegar stomped over to him and Anton, then past them and back into the street. “Come on. We’re going to their camp. They took her.”
+
+“Really?” Anton said, following.
+
+Brovose raised an eyebrow. Finishing with the barrier, he nodded to the innkeeper. “That should last about thirty minutes. Have fun.” He turned and followed after Hegar.
+
+Just before he reached the door, a flicker of motion caught the corner of his eye, and he glanced at the stairs at the back of the room. There was a distortion in the ambient mana there, so he switched to the active version of Mana Sight, revealing the crouched figure of a person watching them.
+
+Whatever spell the person was using to veil themself appeared to be purely visual, unlike any concealment spell Brovose knew of. The technique was obviously flawed, however. It didn’t block Mana Sight at all, allowing him to see the mage’s mana flowing, plain as day. They were no threat, judging from the volume of power he was seeing.
+
+Hmm.
+
+Smiling, Brovose waved to the strange, invisible figure, then ducked out of the inn. Hegar beckoned, then stomped off in the direction of the gate.
+
+Brovose chuckled to himself. No, I don’t think I’ll tell him yet. Let’s see where this leads.
+
+Hegar set a quick pace, and before long, they reached the impressive earthen walls of Ascension’s camp. There were no sentries atop them, and while Mana Sight couldn’t penetrate solid structures, there were no disturbances in the ambient mana that would have indicated recent spellcasting. It’s deserted? Interesting.
+
+“Right, we’re going in,” Hegar said. “Let me lead. Remember, we don’t know what their leader can do, so let me do the talking. Try to look tough.”
+
+“There’s nobody here, Hegar,” Anton said. He pointed. “No sentries.”
+
+“Bah,” Hegar said. “They don’t need sentries with walls like that. Come on.”
+
+Passing into the tunnel through the walls, they found only a single burning evertorch and a shut wooden door at the end. Hegar knocked, but didn’t wait, pushing it open and striding confidently into the camp.
+
+“Fuck!” he swore almost immediately.
+
+Brovose snorted, following him through, then looking around. Other than a large stack of firewood and some evertorches burning here and there, the camp was just as abandoned as he’d suspected.
+
+“Told you,” Anton said.
+
+“Shut up, I need to think,” Hegar said, sitting on the ground and rubbing at his temples. “I underestimated them, no, him. I knew he was pretending the moment I saw him, but I never thought he’d be this cunning…”
+
+“Uh-huh,” Anton said skeptically. “Sure you did. Can we please just go kill things already? Your stamina must be fine by now.”
+
+“In a minute!” Hegar snapped. He pinched the dirt in front of him, then rubbed it between his fingers, holding them up to his eyes. “They’re two steps ahead of us. They somehow found out about my spy and then captured her and moved their camp before I even realized. Just who is he?”
+
+Brovose yawned, then dragged his hand over his mouth. That is the question, isn’t it? I do wonder. From the expensive armor and the level of mana I saw on him, he’s clearly a hybrid warrior-mage of some type. That Musk Wolf would have put his cap at eighteen, and if he chose Dynamo, that would explain the rapid growth and how he learned the language so quickly… Perhaps he’s a foreign noble? He’d need to be rich to afford armor like that. If so, what was he doing alone and unawakened in the forest?
+
+“Ahh!” a sudden cry from the tunnel made Brovose look up. Anton had drawn his bow and was pointing it at a sword-wielding man with a torch who had just come through the tunnel.
+
+“Who are you?” Hegar shouted, jumping to his feet. “Are you one of them?”
+
+Brovose raised an eyebrow, checking the man with Mana Sight. He wasn’t wearing one of the white cloaks that would have marked him as a member of Ascension, nor was he a mage. That didn’t mean he wasn’t awakened, though, nor that he wasn’t dangerous. A powerful warrior could read as completely manaless, right up until they stabbed you through the heart.
+
+“Please, don’t shoot me,” the man said, dropping his sword. “I’m with the militia.”
+
+“What are you doing here, then?” Hegar asked angrily. “Hey! The rest of you! Come out here! Hands where I can see them.”
+
+One by one, several more men and women filed into the camp, a few more bearing weapons, but most unarmed. Brovose relaxed slightly but didn’t stop focusing on his magic. It might be needed, yet—not to protect himself from the newcomers, but to protect the newcomers from Hegar and Anton.
+
+“Please, C..Crimson Gar, Skinner, don’t hurt us,” said the first man, still staring at the tip of Anton’s drawn arrow. “We’re just here for the wood.”
+
+“What?” Hegar snapped, glancing at the pile behind him. He turned back to the man. “Explain.”
+
+“The mayor sent us to get it,” the man said, gesturing to the people standing behind him. “They’re just laborers, I swear.”
+
+“Then why do you have a sword?” Hegar asked, drawing his own rapier and pointing it at the man.
+
+Brovose rolled his eyes, deciding that this had gone on long enough. “There are monsters everywhere, Gar, of course he’s got a sword. Stop scaring the man before he wets himself.”
+
+Anton snorted, then lowered his bow. “You’re no fun, Sleepy.”
+
+Brovose ignored the misuse of his nickname. He hadn’t wanted to have one in the first place. He walked past Hegar, lightly pushing the tip of his sword out of the way. He placed himself between him and the laborers, then addressed their leader. “You said the Mayor sent you to collect this wood?”
+
+The man nodded vigorously.
+
+“Do you know where Ascension went?” Brovose asked.
+
+“They went north, honored Sleeper,” the man said. “They should be at their new camp by now.”
+
+“Where?” Anton asked coldly.
+
+The man flinched. “By the crack, I heard.”
+
+“WHAT?!” Hegar roared. “Those bastards are jumping our claim!”
+
+“Looks like you were right, Gar,” Anton said, smiling, though the expression didn’t touch his eyes. “They are two steps ahead of us.”
+
+Hegar slammed his rapier back into its scabbard with more force than was strictly necessary. “FUCK!”
+
+Brovose tilted his head, frowning as he considered the invisible mage in the inn in a different light. Hmm. Could Hegar’s paranoia actually be warranted?

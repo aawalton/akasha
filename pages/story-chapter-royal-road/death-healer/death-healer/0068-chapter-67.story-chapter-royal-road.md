@@ -1,0 +1,135 @@
+---
+id: 75030cdb-2956-5a3b-8707-8248455cab35
+page-type-slug: story-chapter-royal-road
+title: "Chapter 67"
+slug: 0068-chapter-67
+partOf: death-healer
+position: 68
+ownLength: 1591
+unit: words
+publishedAt: 2025-08-24
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2544595/chapter-67"
+royalRoadId: "2544595"
+---
+
+Lily’s mind would not let go of Sabinus. Every thought led back to the image of him lying there, and she kept running through every possibility that could bring him back or take him away for good. Yet as much as she worried about Sabinus, she could not ignore the pale woman standing across from her. This woman insisted that she was not just an ancestor, but the very founder of the Gens Claudia, and Lily could not shake her suspicion.
+
+“My friend—”
+
+“He’s not dead,” the woman answered before Lily could finish. “He will not die for a long time. His vitality will continue to drain away, but that is a slow process. He is not lost yet.”
+
+Lily did not relax. Instead, she squared her shoulders and glared. “What do you want?” she demanded, her voice flat with hostility.
+
+The specter’s lips twisted into a smile, and a short, cold laugh escaped her. “Me? I want nothing at all. You are the one who woke me up after so long. Why would I want anything from you? I ought to ask whether my family is finally back in power.”
+
+“What?” Lily’s eyes narrowed. “The Gens Claudia is one of the Great Families. Of course we have power.”
+
+The woman’s smile faded. “That is not what I mean. I am asking whether we have reclaimed the seats we once held in the past.”
+
+Lily hesitated. “The seats? Are you talking about the Papacy?”
+
+The woman fell silent, and her eyes unfocused as though she looked somewhere far beyond the room.
+
+“How long has it been since someone last awoke me? Why do I sense so much Death all around us? Wait—there is something very wrong with the projection. What is going on here?”
+
+Lily’s confusion grew.
+
+“The projection?”
+
+The woman turned to her with a heavy expression.
+
+“The ghost you saw is just one of many projections that were carved into the foundation of this villa. I do not understand why everything here feels abandoned. Where are the living? What has happened to this place?”
+
+Lily blinked several times as she tried to put her answer together. “We’re in the Dead Lands. Nobody lives here. Everyone says it’s cursed.”
+
+“I do not know that name. Dead Lands?” The woman looked genuinely lost. “Did anyone move our ancestral home? Where are we now?”
+
+Lily searched for a clear explanation, but the right words refused to come. “No, this is still the same land. I think. Maybe it would help if I told you about the Church. I mean, what’s going on right now.”
+
+“That would help a great deal,” the woman replied, and her shape brightened a little. “The Church of Light and Darkness is dear to me.”
+
+Lily’s mouth twisted.
+
+“Actually, we call it the Church of Light now.”
+
+The woman’s laughter rang out, bright and crystalline, but there was nothing warm in it.
+
+“They are still making that old joke? Those men who sit in the seats of Light—they always wanted to believe they could cut the Darkness out and hold the power alone.”
+
+But when Lily did not laugh with her, the woman’s amusement disappeared. The two stood in silence for several seconds, and the air between them grew heavier.
+
+“You’re not joking,” the woman said, her voice thin.
+
+“I wish I was,” Lily said.
+
+For almost an hour, Lily explained everything. She described the way the Church had been arranged, the laws that banned women from leading the Great Families, the way even Librarians were hunted and burned as heretics. She answered every question the specter asked, and she did not try to soften the truth or spare the woman’s feelings. She told her how power had passed from hand to hand, always shrinking and darkening—at least that was what Caesar had told her. She told her how women had been pressed into corners and cut out of their own traditions. She told her about the endless hunting and the fear that spread wherever someone spoke about Darkness.
+
+The woman listened, and every answer seemed to make her taller, angrier, and somehow sadder. By the end, she looked like a statue made of old regrets, lit from within by something that might have been pride or bitterness.
+
+“I do not know what happened,” the woman admitted, her voice stripped bare. “It was never meant to be like this. When the Church was founded, it was so to celebrate the union of Light and Darkness. That was the entire purpose. The communion of what was holy and what was forbidden bound us together, and there was no shame in it.”
+
+“So, could women lead families?” Lily asked, and the question was not polite.
+
+The woman nodded. “Not only could we lead, we often did. Women would take the Seats of Darkness, and men would take the Seats of Light. It was our custom to encourage the Great Families to arrange marriages between their best, because strong blood built strong generations. But we did not force divisions. When two people married, they could forge their own House. They were not owned by anyone. It was not a rule, and it was never a law.”
+
+“You could just marry anyone?” Lily’s frown deepened.
+
+“Our empire was wealthy, and there was enough for everyone. We only fought when monsters came, not for power among ourselves. Sometimes women oversaw Death Magic and Darkness, and men handled Life Magic and Light, but those were tendencies, not laws. Sometimes, the council had more women on the Seats of Light and more men on the Seats of Darkness. Nobody’s fate was ever decided by attitude or gender.”
+
+“There was a council? What about the Pope?”
+
+“Sometimes the council would choose a representative. The strongest seat would lead us through war or famine or times when decisions had to be made fast. That leader was called the Dictator, or the Pope, but it was never meant to be a permanent throne. Whoever took up that mantle had to step down after the crisis ended. If they refused, the council had to remove them.”
+
+“So you did fight each other.”
+
+Claudia shook her head, “more rarely than you’d imagine.”
+
+Then, she sighed.
+
+“I remember the last one—Octavia. She was the greatest of us, and when a monster horde threatened our entire land, she led us to victory. But when her time came to step down, she fought it. She could not give up the power, and in the end, we had to confront her. I was mortally wounded during that struggle, and I anchored my soul here to watch over this place. I never learned how she died, but I always hoped her sacrifice would not be wasted.”
+
+Lily asked, “And the Necromonarch? Was that a thing, back then?”
+
+The woman nodded. “There were always those who went too far with Death. It was usually men who had never faced Darkness before. They wanted to touch the forbidden and seize what was not theirs. Just like women, the feminine had a way of drawing them in, but power always had its price.”
+
+Lily shifted, feeling the weight of too many stories at once. “So what now? What am I supposed to do with all of this?”
+
+The woman looked at her with a gaze that pinned her to the floor. “Who are you, really?”
+
+Lily answered, “I told you. I am Liliana Claudia, daughter of Lucianus and Adriana—”
+
+The woman shook her head. “Not your lineage.”
+
+She drifted closer, her form half-glowing, and pressed a spectral finger against Lily’s chest. Lily’s body turned cold, and she shivered.
+
+“Your soul is old. What brought you here? What kind of magic was used?” The woman’s hand passed into her body. Lily felt a sensation like ice in her heart.
+
+“I don’t know. I have memories that aren’t mine. Sometimes they’re so clear, but I can’t ever grab them for long. I think they come from another life. They get sharper each day, but always slip away when I try to hold on.”
+
+The woman’s eyes widened. She drove her hand deeper, searching for something hidden. Lily could not breathe. Then, suddenly, the woman pulled back, her expression shocked.
+
+“This is divine magic. Someone made a bargain. Did you make a deal with anyone?”
+
+“With who?” Lily asked, her voice trembling.
+
+“Not you, then. Someone sacrificed dearly for you, Liliana Claudia. Or perhaps—”
+
+The woman stepped back as glowing runes spun through the air, drawing lines of light into a Mandala above her. She lifted her face, breathing in magic that no living person could see. Her spectral body rose higher, casting the room in a radiant glare.
+
+“What are you doing?” Lily shouted, panic rising as she felt her skin prickle with heat.
+
+“I must know you,” the woman answered.
+
+Light burst through the room, and Lily screamed as symbols crawled over her skin, burning for a moment before fading.
+
+“You are not just Liliana Claudia—” the woman began. “You’re also Liliana Ember. You—”
+
+She stopped. Her mouth snapped shut, and the magic around her constricted into a web. For a long moment, she only stared at Lily, caught by rules that would not let her speak.
+
+“What did you see?” Lily demanded.
+
+“Forgive me, child,” the woman said. “I saw your memories, both past and present. I know why you are here.”
+
+“My mother sent me—”
+
+“That is not the only person who sent you here, I fear. Come with me now. There is more you must learn.”

@@ -1,0 +1,351 @@
+---
+id: 4aa52d3a-fcd4-5de2-9da4-83470e38d3db
+page-type-slug: story-chapter-royal-road
+title: "134: Unbreakable"
+slug: 0134-134-unbreakable
+partOf: delve
+position: 134
+ownLength: 4022
+unit: words
+publishedAt: 2021-02-14
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/631237/134-unbreakable"
+royalRoadId: "631237"
+---
+
+Hegar gasped, feeling the breath freeze inside his lungs. The air glowed faintly blue, a sure indicator of the rapid combustion of Cold mana. His health, which had been gradually eroding, dropped sharply, almost as quickly as the temperature. He tried to close his eyes and failed, his tears freezing them open as he stumbled back, tripping in his haste.
+
+Impossible!
+
+Something about the magic was slowing his movement, and he couldn’t get his arms beneath him to cushion his fall. He hit the ground rigid, like a frozen tree.
+
+A horrible panicked moment later, the magic vanished. His health stopped falling, leaving him with just under six thousand. The terrible chill, however, remained. He felt it in his bones. Sluggishly, he got to his feet, his skin crackling as the layer of frost flaked away.
+
+How in the hells is a person supposed to dodge that? Magic is unfair.
+
+His jaw creaked as he forced it open, expelling the frozen mist that was filling his burning lungs. He coughed, preparing to defend against the anticipated follow-up strike, but it didn’t come. The Swordmage had fallen as well, lying face-down on the stones.
+
+No, not a Swordmage, he corrected himself, fighting against a sudden wracking shiver. I have no idea what the fuck he is.
+
+He tightened his grip on his rapier. Other than dead!
+
+Movement caught his eye as Rain’s hand grasped at the snow, trying to form a fist.
+
+“Oh no you don’t!” Hegar shouted. He dashed forward, shifting his sword into a two-handed grip that was ill-suited for a rapier, but one that would serve. He was holding the blade point-down, intent on plunging it through the armor covering Rain’s neck. A sudden sound from behind him made him look over his shoulder just in time to dodge a blast of fire.
+
+There was a shout from the mage charging toward him, and Hegar’s eyes widened as he saw what looked like the entire company in tow. He whipped his sword around, slicing apart a bolt of ice, then a small stone which exploded upon contact. His sword flashed as it hungrily drank in the disrupted magic.
+
+Rek’s pit, there’s a lot of them.
+
+Hegar rechecked his health and cursed, swatting aside an arrow. The attacks so far had seemed weak, but he was technically vulnerable. He’d taken enough damage now that a single lucky strike could actually end him. If they’ve got anyone else capable of hitting the damage limit, I’m shorn. He looked down. Hostage? Yes, hostage.
+
+“Stop!” he shouted, planting his boot on Rain’s back and moving his sword back into position. “I’ll kill him if you don’t!”
+
+The onrushing group of white-cloaked figures slowed, pressing against each other. The Fire Mage in the lead sent his readied magic into the ground, the Firebolt—for that is what it was, not a Fireball—detonated with a flash of red-orange light. “Ye fucker!” he shouted.
+
+Hegar relaxed slightly, but he didn’t let it show. Gods, it’s just a pimply kid. A Firebolt? Really?
+
+Rain shifted, trying to push himself up.
+
+“STOP MOVING!” Hegar yelled, stomping him back down. The man had clearly overdrawn his mana, judging from how he’d collapsed. That didn’t mean he wasn’t a threat. Hegar felt himself being lifted again, and he had to remove his foot from Rain’s back or be pushed over. “I said stop!” he screamed. I’ll show you what happens when you don’t take me seriously!
+
+With a vicious kick to the forearm, Hegar knocked Rain’s arm out from under him, sending him smashing back into the ground. Before any of the watchers could respond, he focused on his sword, using three skills at once.
+
+Crimson Sword!
+
+In contrast to Swordplay, Fencing was about countering your opponent, empowering your sword, then striking decisively. The three particular abilities he was using weren’t meant to be used simultaneously, but he’d found a way, just as he’d found a way to make the cumulative effect glow crimson.
+
+He was just that good.
+
+The best part was that it didn’t prevent him from using other, more traditional attacks as well.
+
+Limb Cutter!
+
+The tier-2 Swordplay skill seized control of his arm, sending his augmented blade scything down in a guided arc. He’d focused on Rain’s forearm when activating it, intending to slice free the hand that bore a pair of likely-magical rings. The strike gouged deep, biting through armor, then flesh.
+
+Rain collapsed, unable to support his weight with his muscles severed.
+
+“No!” shouted several members of the crowd, raising weapons, though interestingly, Rain himself made no sound.
+
+Hegar frowned, looking at the hand that remained stubbornly attached to the armored mage’s arm. Depths, that’s good steel. Might even be worth the weight. I guess I should have used a stronger skill.
+
+“Tarny, stand down!” someone shouted.
+
+Hegar looked up, then sliced an Ice Bolt out of the air. Really? Are they this pathetic, or are they trying to trick me into lowering my guard? He snapped his sword to its previous position above Rain’s neck, then activated Crimson Sword again, making it glow. The offending Ice Mage froze.
+
+“What did I fucking say?!” Hegar demanded. “His armor’s spent now. One more hit, and it’s over!”
+
+“Ameliah’s gonna rip yer bloody head off an’ shove it up yer arse!” Yelled the flame-haired teenager with the Firebolts.
+
+Hegar scoffed. “Not likely.” He fixed the lad with a predatory grin. “Listen.”
+
+Things had gone silent, which meant the fight on the other side of the wall was over. There was no way Anton and Brovose would have lost two on one, no matter how incompetent they were. The silverplate was dangerous, true, but she was a Geomancer. Geomancers were good at fighting hordes of monsters, not other awakened.
+
+Hegar began to laugh as his assumption was proven correct. Anton appeared, rounding the edge of the wall. He was hunched over, towing an unconscious Brovose with one hand and the white-cloaked woman with the other. Both of them left trails of blood through the snow.
+
+Hegar laughed harder. Nice, Skinner! Very dramatic! His laughter stopped, and he narrowed his eyes. Wait, is Brovose dead? Shit.
+
+“Ameliah!” several voices from the crowd cried in surprise and anger.
+
+“See?” Hegar said, pushing aside his concern. The fallen mage had redoubled his struggles with Anton’s appearance. In response, Hegar stomped on his head. The weakened helmet flexed, then cracked. Such was the downside of a durability enchantment. Once it was spent, the item would become weak everywhere, not just where it had been damaged.
+
+Rain didn’t stop fighting, despite the pressure he must be feeling against his skull and the growing circle of his blood soaking the snow.
+
+Hegar clicked his tongue. Gods, he’s an idiot. Does he not care about his own life?
+
+The struggling was pathetic, but it wasn’t getting any weaker. Shaking his head, Hegar removed his foot from Rain’s head to stomp instead on his wrist, right where he’d sliced into his armor. “I said stop moving!”
+
+“You…killed…her…” Rain gasped, still not abandoning his attempts to escape. He pushed at Hegar’s leg with his free arm to little effect. Wisps of wind trailed from his arm as he pulled it back. Hegar tensed as Rain’s fist slammed into his calf, but the skill, whatever it was, didn’t seem to do much.
+
+Hegar clenched his teeth in frustration, grinding down with his heel. There was momentary resistance, then the metal bracer cracked, falling apart under the pressure. He pressed harder, stopping when he felt the snap of breaking bone.
+
+He blinked. That was too easy. He’s low on health.
+
+Still, Rain didn’t stop pounding at his leg.
+
+“Do you even feel pain?” Hegar asked, incredulous. If the man really was that injured, he’d have to let him up soon, or he’d kill himself in his attempts to get free. “Anton, hurry the hells up!” Hegar shouted. “Is Brovose dead? What about the woman?”
+
+“They’re both alive,” Anton said, coming to a stop beside him. He let go of their arms, and they fell limply to the blood-soaked snow. With the tip of his boot, he kicked at Ameliah’s ribs, flipping her over. “She got Sleepy with a rock to the skull, and I think he’s just too lazy to bother waking up yet. As for her, I got her with like six Bleeders. She won’t be doing much for a while, not without half her blood. I burned all the holes shut, so she should keep well enough until we get her back to the inn.”
+
+Rain’s struggling ceased. Hegar looked down, seeing him reaching for the fallen woman with his uninjured arm.
+
+Oh. He grinned. That explains a lot.
+
+“What are we waiting for?” Anton asked, gesturing toward the onlookers. He slipped his bow free from his back and reached for an arrow. “If they thought they could beat us, they wouldn’t just be standing there. Let’s just kill them. I know you wanted the woman alive, Gar, but you’re not going to stop me from getting at least one plate out of this.”
+
+“Just a moment, Anton, let me think,” Hegar said.
+
+Anton shook his head. “Come on, Gar, let’s just finish up. We need to be ready when the damn deer gets back. I’m getting that bounty.”
+
+“Hey!” Hegar shouted, not in response to Anton but to Rain’s renewed struggles. He lifted his boot, then stomped back down. There was another snap of breaking bone, but still, Rain didn’t relent. He’d resumed his attack on Hegar’s calf though the blows had less force behind them now, like those of a sick kitten.
+
+Hegar sighed. It had actually hurt a little before. Now it was just sad. “You just don’t give up, do you?”
+
+“If you kill either of them, we will kill you,” said one of the white-cloaked watchers in a matter-of-fact tone. He held a bared longsword of fine make, and in contrast to the idiot bleeding out in the snow, he actually looked like he knew what to do with it. He had it raised into a stance from Egret.
+
+Hegar frowned. He had to admit, this hadn’t turned out quite like he’d expected. He clicked his tongue, glancing at Anton. The archer was bleeding from a deep gash on his forehead, and Hegar was still leery of his own lowered health. He looked down at the concussed Brovose, and his frown deepened.
+
+Hmm… Cut and run? One quick stab through this armor, then we take the woman with—
+
+“Dozer, no!” someone shouted.
+
+Hegar blinked as he saw the monster headed for his face. He’d barely even recognized it as a slime before he slashed it with his glowing sword. A wave of clear, gelatinous liquid blasted him as the monster literally exploded.
+
+“AAAAAHHHH!!!”
+
+Rain’s tortured scream made Hegar pause in wiping the slime from his face. Now you feel pain?
+
+He worked his jaw as the scream faded, Rain going limp as he passed out. Hegar turned back to the crowd, his rage building. Firebolt? Ice Bolt? A DEPTHS-CURSED CRYSTAL SLIME?! That’s it. They’re dead.
+
+“Okay, listen up, you shits!” he snarled. “I was going to just let you go after I finished with your leader, but then you had to go and insult me!”
+
+He rubbed at his face. The clear goo was odorless, but it was still disgusting in the way that it clung to his skin. He spat, trying to clear his mouth. “Which one of you is Dozer?” He looked up, raising his rapier and activating Crimson Sword once more. “Here’s what’s going to happen. I’m gonna kill this idiot under my feet, then I’m gonna kill the idiot Tamer who threw a fucking Crystal Slime at me, and then I’m gonna—“
+
+There was a metallic clatter as accolades tumbled to the stones, followed moments later by the dull thump of a body.
+
+Anton was already moving. He’d activated Quickstep the moment the armored cervidian had appeared, dodging back out of the way. As the blur from his skill faded, he saw an antlered head turn in his direction. The cervidian raised the gore-coated hammer that he’d used to stave in Hegar’s chest, then charged.
+
+How didn’t I sense him coming?
+
+Anton raised his bow, using Quickstep on cooldown as he backpedaled. Each use of the spell carried him dozens of stride, and he used the gaps between activations to take careful aim. Once he was ready, he loosed an arrow straight at the armored cervidian’s eye. Naturally, the missile was boosted with more than enough skills to reach the damage limit.
+
+Why even wear armor if you’re not going to wear a helmet? Honestly.
+
+Just before impact, a silvery-gray helm shimmered into existence. It encased the cervidian's head completely, wrought of the same metal as the rest of his armor. The faceplate was no mere visor. It had been worked into the animalistic visage of an elk. The cervidian’s antlers, too, were now coated in metal, though a metal of a different kind. They shone like polished silver, tapering to wickedly sharp points.
+
+Anton’s arrow struck the helm’s sculpted eye and bounced away harmlessly. A split second later, it detonated, the energy he’d crammed into the arrowhead breaking free with a concussion that he felt even from this distance. The blast didn’t seem to affect his foe in the slightest. The deer was rapidly closing the distance despite Quickstep speeding Anton’s retreat.
+
+That could be a problem.
+
+Anton turned, abandoning offense. He slung his bow over his shoulder, scrolling through his accolades and switching a few of them out to increase his speed and resistances. Risking a glance over his shoulder, he saw the armored smith—though he had his doubts about that last part—running after him.
+
+Not running. Bounding.
+
+Anton would have laughed had he not been fleeing for his life.
+
+The deer man was moving with the characteristic stride of someone with an overabundance of strength and a lack of movement skills. Each of his steps was more like a leap. Anton looked forward again and pumped his arms, wishing he could use Quickstep more than once a second. Let’s try this, then. Without warning, he changed direction, shooting off at a right angle to his previous path. People who ran like the cervidian was running couldn’t corner sharply, nine times out of ten.
+
+Anton remained focused on the sound of his pursuer’s footsteps. Apart from slowing you down, looking back was a good way to trip and end up with your face smeared across the countryside. Slowly but surely, the pounding of metal boots on dirt faded into the distance. Once everything was quiet, Anton ran on for another few minutes, then stopped, ducking behind a boulder to catch his breath.
+
+He chuckled. Looks like I’m on my own again. Can’t say I’ll miss you, Gar. Sleepy, though… Now, he was fun to mess with. I wonder if they’ve killed him yet, or if—
+
+Anton barely activated Quickstep in time. The rock he’d been using as shelter exploded into a shower of jagged shards, obliterated by the impact of the smith’s hammer.
+
+The cervidian turned, falling bits of rock pinging against his armor. He hefted his weapon, then fixed Anton with a metallic stare. The effect of the helmet was striking—perhaps it would have even been terrifying to someone else. The elk’s features had been sculpted into a scowl as hard as adamant.
+
+Anton clicked his tongue as he darted away, resuming his zig-zagging flight. I didn’t hear him at all. If I hadn’t seen his shadow, I’d have been paste. How is he doing that if he’s a crafter? The rumors said he was high-level, but this is ridiculous.
+
+This time, Anton didn’t stop running until his stamina was all but gone. He’d long since passed out of the hills and into the forest that lay between Vestvall and Fel Sadanis, but he had decided to take no chances. Slowing to a walk, he struggled to catch his breath as he searched the canopy for a place to hide. His limbs were trembling, he realized. He hadn’t been this low on stamina in years.
+
+A twig snapped, and Anton froze.
+
+That was deliberate.
+
+He shook his head, smiling to himself. One hunter to another, he could appreciate the artistry behind that simple noise. As he expected, the cervidian was standing there when he turned, not even winded. The elk helm had faded back to invisibility or been sent back to wherever it had been summoned from. Hells, it might just be pure magic. Sleepy was the one who knew about that shit.
+
+The antlered man tilted his head, his craggy face expressionless. His eyes, however, were filled with a rage so cold that it made the winter air feel like a summer breeze. It was a stare that promised death. Inexorable, inevitable death.
+
+Anton checked his stamina, sighing in resignation. Can’t run. Can’t fight. Only one thing left. He raised his arms, unslinging his bow and casting it aside. “I surrender.”
+
+The cervidian lunged.
+
+Anton rolled out of the way, but his foot snagged on a root as he tried to get back to his feet. He tumbled, and his momentum sent his face plowing into the ground. Hurriedly, he flipped himself over, scrambling backward on arms like jelly. He stopped almost as soon as he’d begun, realizing that his opponent was simply watching him once more.
+
+“So that’s how it’s going to be,” Anton said after spitting out a clump of dirt. The cut on his forehead had opened again, and blood and sweat were mixing as they ran down his face. He wiped at his brow, scooting himself back to prop himself up against a tree. The cervidian, meanwhile, had begun calmly walking forward.
+
+Anton frowned. Well, shit.
+
+The hammer smashing its way through his skull was the last thing he ever felt.
+
+⟬you died⟭
+
+Dozer was very confused.
+
+He did not know what this place without echoes was.
+
+He did not know how he had gotten here.
+
+He did not know where Rain-King and Ameliah-Queen had gone or what had happened to the ⟬enemies⟭.
+
+The message he was hearing-but-not-hearing made no sense. Obviously, he wasn’t dead. That was impossible. He was Dozer.
+
+The existence of the message itself was also confusing. It was as if the instinct had decided to speak to him and had somehow drawn itself in one of the blue boxes that Rain-King always saw.
+
+Dozer quivered with realization.
+
+That is what it was! The hearing-but-not-hearing. This was seeing! He was seeing the message!
+
+Focusing on it, Dozer tried to understand what it could mean. It was difficult. Something was wrong. He felt like… He felt like…
+
+His thoughts slowing, Dozer shrunk himself down into a lump, only then realizing that he was on a surface that he could neither hear, feel, nor taste.
+
+Why was he so tired suddenly? Was it time to sleep?
+
+The message changed.
+
+⟬lifetime summary⟭
+
+Dozer
+
+Sentient Bound Entity
+
+Crystal Slime
+
+Level: 1
+
+Age: 52 days
+
+Contractor: Rain — Tame Monster Rank: 0
+
+Criteria not met
+
+⟬prepare for dissolution⟭
+
+These were words!
+
+Dozer wobbled, celebrating his discovery. His excitement brought him back, allowing him to fight the ⟬sleep-need⟭.
+
+If only he knew how to read!
+
+He could understand two lines. The ones that had been…written? Yes, written. The ones that had been written in the language of instinct. The rest was a mystery. That was bad, as Dozer did not particularly like what the second of the instinct-messages was saying. He did not want to be… He did not want to be…
+
+…dissolutioned?
+
+Why was thinking becoming so hard all of a sudden?
+
+Fighting off another intrusive pulse of ⟬sleep-need⟭, Dozer thought harder than he’d ever remembered thinking before. Then he thought harder still. Finally, it came to him.
+
+Rain-King knew how to understand words! All he needed to do was ask Rain-King to read the middle of the message for him!
+
+[Rain-King?] Dozer tugged at the ⟬king-link⟭. There was no response, but he could still feel it there, inside himself, the same as it always was. He jiggled from side to side as he traced the feeling, then began oozing through the nothingness toward his ⟬king⟭. The ⟬sleep-need⟭ dragged at him, but Dozer refused to give in to it. He still did not know what had happened to the ⟬enemies⟭.
+
+The ⟬enemies⟭!
+
+How had he forgotten!?
+
+Dozer quivered with outrage, forcing himself free of the ⟬sleep-need⟭ that was trying to drag him down. He bunched himself up, then leapt, soaring through the nothingness. He leapt again and then again. Each impact with the not-ground launched him faster and faster in the direction of his ⟬king⟭. That direction kept changing, sometimes even sending him back the way he had come, but Dozer would remain steadfast. He could feel the presence of his ⟬king⟭ through the ⟬king-link⟭. It filled him with determination.
+
+After more leaps than Dozer could count—which meant more than three—the message changed, moving in front of him.
+
+⟬resistance detected⟭
+
+Criteria not met
+
+⟬commencing dissolution⟭
+
+Dozer crashed straight through the ⟬filthy⟭ blue box, and it shattered. It would not stop him, and neither would the ⟬sleep-need⟭, no matter how it called to him.
+
+He began to tire and had to stop jumping. The instinct had become almost overwhelming. It was demanding that he give in. That he stop.
+
+That he…
+
+That he…
+
+Die.
+
+Against his own will, Dozer found himself slowing further. He could feel that Rain-King was close now. His presence was like a scent in the air, not that Dozer had ever been particularly good at smelling anything other than ⟬filth⟭. He knew he was almost at his goal. Maybe if he just…rested for a little while…
+
+…
+
+…
+
+No!
+
+I will not!
+
+⟬resistance detected⟭
+
+⟬sapience detected⟭
+
+Criteria not met
+
+⟬dissolution imminent⟭
+
+Fighting harder than he’d ever fought before—harder even than he’d fought against the Dire Rat—Dozer dragged himself forward. The scent of Rain-King was everywhere now, blowing about him like a great wind.
+
+⟬resistance detected⟭
+
+⟬sapience detected⟭
+
+⟬domain interference detected⟭
+
+Criteria not met
+
+⟬dissolution mandated⟭
+
+A memory bloomed in Dozer’s mind, and he knew how he’d died. He remembered the blade of the ⟬enemy⟭ cutting into his membrane. He remembered exploding. He remembered the pain.
+
+I. Did. Not. Die! I am Dozer! Rain-King needs me!
+
+Dozer bumped into a barrier. Its appearance was sudden and completely unexpected. He fell back to the not-ground, feeling himself buffeted by the wind as the pain of his death tried to tear him apart.
+
+No!
+
+Pulling himself back together, he threw himself against the barrier, spreading himself against it. It tasted like it was made of…
+
+Rain-King! This is Rain-King’s membrane!
+
+Dozer pushed harder, but the wall refused to yield. [Rain-King! Let me in!] He quivered in frustration and pain.
+
+[Rain-King!] he tried again, but it was no good. Rain-King wasn’t listening. He would not give up.
+
+[Rain-King! Rain-King! Rain-King!]
+
+The ⟬sleep-need⟭ was calling—promising relief. Promising the end.
+
+No! No! No! No! No! No! No!
+
+Dozer turned, trembling in agony as he oozed into the wind. It had to be coming from somewhere. If it was getting out, then he could get in!
+
+Despite his will, his progress slowed. He could feel himself coming apart now. His membrane felt thin, as if it would burst at any moment. It was being dissolved by the ⟬system⟭. It was ⟬purifying⟭ him.
+
+Like he was ⟬filth⟭.
+
+I refuse!
+
+The wind was a hurricane now, threatening to tear Dozer to shreds even if he somehow managed to resist the will of the universe itself. He was so focused on holding himself together that he barely realized when he reached a gap in the wall. The wind was howling out of it with such force that Dozer almost lost his grip on the ragged edge. Perhaps it only felt that way with how weak he had become.
+
+With every last iota of his strength, he hung on.
+
+And then slowly, ever so slowly, he hauled himself inside.
+
+Criteria met

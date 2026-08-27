@@ -1,0 +1,647 @@
+---
+id: 4629bdc8-0d4f-5a30-a1a8-74cc52cab595
+page-type-slug: story-chapter-royal-road
+title: "023: Paralysis"
+slug: 0023-023-paralysis
+partOf: delve
+position: 23
+ownLength: 3909
+unit: words
+publishedAt: 2019-06-27
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/376480/023-paralysis"
+royalRoadId: "376480"
+---
+
+“Owwwwww,” Rain moaned as he leaned back against a boulder. His legs, arms, and back were incredibly sore from the two days of back-to-back labor. First, he had helped Tallheart build a shack, then he had spent a whole day traipsing through the forest. Carrying the heavy meteorite had been the straw that broke the camel’s back, and now he was paying for it.
+
+When he woke, he had barely been able to move. He had forced himself to get up and stretch out his muscles, knowing that if he didn’t he would only take longer to recover. He was walking with a noticeable limp, the pain in his leg from his earlier injury having returned with a vengeance. His stamina was only around half, his natural recovery not being enough to restore him to full overnight. Rain didn’t feel like he would be up for half a day of exertion, though.
+
+I guess it works the same way as health. I feel way worse than I should, just based on the numbers. I suppose I need overstamina if I want this soreness to go away faster. I need to unlock those damn well auras. If I had the stamina one, I could just dump mana into the problem. I am sure as hell not wasting attribute points in vigor when that is on the table.
+
+Rain rubbed at his shoulder as he rested against the rock. He had walked down to the river to get some water and stretch his legs. Tallheart was back at the clearing building… something. Rain had no interest in going back to help the man move rocks around, so he had decided to stay down here for a little while. He had seen the boulder upstream and walked over to it to investigate. The smooth rock was on its own in a little sandy outcrop into the river. The sand was coarse, but not too unpleasant, so he decided to make it a beach day and took off his shoes. Now, he was resting his back against the cool stone to soothe his aching muscles.
+
+The sun was up and shining warmly, promising that it would be a much nicer day today. Rain had brought his pack with him, but didn’t pull out a ration bar to have breakfast yet. His jaw was just as sore as the rest of him.
+
+To take his mind off his body, he pulled up his attributes panel. He had reviewed his training overview earlier, noting that he had reached level 10 and ranked up in extend aura and aura focus. He hadn’t gone any further than that though, so a review of his full status was next on his morning agenda.
+
+Attributes
+
+Richmond Rain Stroudwater
+
+Level 10
+
+Experience: 3372/6091
+
+Dynamo
+
+Health
+
+400
+
+Stamina
+
+200
+
+Mana
+
+400
+
+Strength
+
+20 [10] (+)
+
+Recovery
+
+10 (+)
+
+Endurance
+
+10 (+)
+
+Vigor
+
+10 (+)
+
+Focus
+
+20 [10] (+)
+
+Clarity
+
+100 (+)
+
+Free Stat Points
+
+20
+
+Twenty free points, huh? Well, if I’m not spending them on vigor, recovery is right out. Clarity is the obvious choice if I want to maximize the benefit of Dynamo, but strength, endurance, and focus deserve a little consideration too.
+
+Endurance would help with my low stamina, but just raising the cap wouldn’t help me with my current problem. It would also give me some resistances, but there are the defensive auras for those. If I can find a way to use more than one aura at once, that would be the ideal solution. I’m guessing there will be one for each damage type, or maybe even one that boosts all of them. If I can get that going, then I can just use mana to reduce damage, like a mana shield. I really need something to keep me from dying in one hit from a strong enemy.
+
+Strength would give me more health, and that is important for the whole ‘not dying’ thing. Still, there isn’t really anything that dangerous in this forest according to Tallheart. Can I hold out until I get my resistance auras going? I am hoping that there will be one for physical damage in a higher tier. Apart from the health issue, I still don’t know if boosting strength makes me physically stronger. I don’t notice a difference with the ring, but there has to be something going on here. There is no way Tallheart got that strong by just doing push-ups. I’ll have to ask him about that. I wonder if his people have the same taboo around talking about stats and stuff. Maybe I’ll ask him that first so I don’t offend him.
+
+Right, back to the issue at hand. Last up is focus. Boosting that would help the damage of refrigerate and let me keep my higher base mana pool once this ring breaks. Damn adventurer shop guy neglected to mention that whole issue when I bought it. Focus doesn’t really help the other auras though. I don’t think I’ll be fighting much of anything in this forest, but later on, I’ll want more mana so I can do more damage in a single burst. Also, if I get those resistance auras going and leveled up, I will need the bigger mana pool to absorb damage. If I invest in anything other than clarity, it would be focus.
+
+Do I really want to risk it, though? I only got dynamo because I put everything into clarity up until level five. I didn’t get any notifications about classes or anything at level 10. I can’t get back into that menu either, but something tells me that there’ll be another chance eventually. If I keep dumping points into clarity, maybe I can get that 3x boost even higher. I don’t wanna spend points in other stats and jeopardize that.
+
+“Arg! Can’t decide!” Rain said aloud, paralyzed by indecision.
+
+Pulling out his notebook, he turned to a fresh page and started a list of questions. He was planning on cornering Jamus when he returned, as Tallheart started getting cranky if you asked him too many things in a row. As he wrote down his questions about the effects of attributes on the body, he suddenly realized something.
+
+He had been doing a lot of physical activity lately and it was starting to have an effect; he was able to walk for a full day now without feeling like hot death. That hadn’t been the case before; his couch-potato lifestyle had left him completely winded after half a day of walking when he was with Hegar’s group. Despite the improvement to his endurance, the attribute of the same name hadn’t budged.
+
+Can you raise an attribute by training? If not, then what the hell is going on here?
+
+He added the question to the list and set the notebook aside to look back at his attributes screen.
+
+I don’t wanna leave these uninvested either… Damn it! I wanna put them in clarity for the regen, but I don’t wanna get splattered into a paste if a monster so much as sneezes at me. Maybe I can get Tallheart to make me some armor or something. Wait, how does armor work? Does it reduce damage, or…? Fuck, there I go again. Writing it down, more questions for later.
+
+Rain added the question to his list, then a few more that he thought of as he was writing down the first. Belatedly, he remembered that he was supposed to be deciding what to do with his stat points. He set the notebook aside reluctantly.
+
+Fuck. Well, I can’t decide. I guess no decision is a decision too, so uninvested they will stay until I get some answers. It isn’t like there are any monsters around here, and I’m not exactly in a rush.
+
+Ok, now for skills. Let’s see how I’m doing here.
+
+Skills
+
+Refrigerate (4/10) Exp: 356/700
+
+31-35 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 4 meters
+
+Cost: 20 mp/s
+
+Extend Aura (7/10) Exp: 270/2200
+
+Extend aura range by 7 meters
+
+Multiply aura mana cost by 240%
+
+Purify (7/10) Exp: 1735/2200
+
+Purify poison, corruption, and contamination
+
+Range: 7 meters
+
+Cost: 70 mp/min
+
+Winter (3/10) Exp: 321/400
+
+Multiply M.Regen by 130% for all entities
+
+Range: 3 meters
+
+Cost: 3 mp/hr
+
+Intrinsic Clarity (10/10)
+
+Multiply base mana regeneration by 300%
+
+Amplify Aura (6/10) Exp: 992/1600
+
+Multiply aura intensity by 160%
+
+Multiply aura mana cost by 220%
+
+Detection (5/10) Exp: 1869/2200
+
+Sense selected items of interest
+
+Not occluded by mundane materials
+
+Resolution: 0.60 meters
+
+Range: 5 meters
+
+Cost: 5 mp/s
+
+Aura Focus (2/10) Exp: 147/400
+
+Focus on an aura to boost its output
+
+Multiply aura intensity by 140%
+
+Multiply aura range by 140%
+
+Multiply aura mana cost by 140%
+
+User loses all external senses while focusing
+
+Channel Mastery (1/10) Exp: 156/200
+
+Allows intuitive control of channeled skill intensity
+
+Minimum skill intensity: 90%
+
+Maximum skill intensity: 110%
+
+Skill mana cost modified by intensity adjustment
+
+Free Skill Points: 2
+
+Gah, winter levels up so slowly! I’m never gonna get those well auras at this rate. I need to level up all the modifiers so I can pump more mana into it. Extend and amplify are pretty high level, and they add a lot. Using them with something like refrigerate gets them a ton of experience, so I should train them that way. Aura focus is starting to get there, but channel mastery is only level one. I was expecting that to level, but it looks like it still has a bit to go. Does it need more experience because it’s tier 1? Aura focus too, now that I look at it. Another question for the list.
+
+I have two skill points. What are my options?
+
+Rain opened up the full skill lists for each of the trees he had his eye on. He lined up the panels next to each other, trying to get a full view of his options. As he was trying to decide whether to purchase the next tier of the defensive auras, he came to a dead halt with his finger hovering over the button.
+
+...How… did I do that?
+
+The five instances of the skill panel hung before him, taking up the entirety of his view.
+
+I… couldn’t do that before. How the heck did I open multiple copies of this window? I didn’t mess around with the options menu, I kinda just… did it. I popped them out into new windows like tabs in a web browser. I am SURE I couldn’t do that before.
+
+Rain sat back, rubbing at his eyes. He felt like he should have a headache. Picking up his notebook, he added a few questions about dialogs and the general interface to the bottom of his list before deciding to just get on with it. Setting the notebook down, he spent the required 100 experience to unlock the next tier of defensive auras. He then shook his head and regarded the full list of options available to him in the five trees he had opened.
+
+Magical Utility
+
+Tier 0
+
+Intrinsic Clarity (10/10)
+
+Multiply base mana regeneration by 300%
+
+Intrinsic Focus (0/10) (+)
+
+Multiply base mana by 120%
+
+Tier 1
+
+Mana Manipulation (0/10) (+)
+
+Allows internal control of mana
+
+Allows expulsion of mana to environment
+
+Allows transfer of mana to and from capacitive items with direct contact
+
+Maximum transfer rate 140.0 mp/s (fcs)
+
+Requires 5 ranks in Intrinsic Clarity
+
+Channel Mastery (1/10) Exp: 156/200
+
+Allows intuitive control of channeled skill intensity
+
+Minimum skill intensity: 90%
+
+Maximum skill intensity: 110%
+
+Skill mana cost modified by intensity adjustment
+
+Overcharge (0/10)
+
+Delay cast of an immediate spell to charge it with mana
+
+Charge time reduced by mana manipulation
+
+Boost effect intensity by up to 120%
+
+Maximum mana charge 120%
+
+Requires 5 ranks in Intrinsic Focus
+
+Tier 2
+
+Locked
+
+I was just looking at this one. Channel mastery was a hidden skill, but there’s nothing there now to indicate that it’s special in any way. Well, other than how awesome it is. Are there other hidden skills? There have to be... Are they as awesome as channel mastery? Damn it all! Now I want to save these skill points until I figure out how to unlock them. Fuck.
+
+What else do we have here? Mana manipulation? Is mana not just energy? Does it have a form if I ‘expel’ it? Why would I do that? What the hell is a capacitive item? Damn it, I should be writing these down.
+
+Rain grabbed his notebook again and started writing down the questions. He didn’t set it back aside this time, knowing that he would inevitably think of more things to ask as he reviewed the other skills.
+
+Intrinsic focus might be nice. At max level, it would triple my mana pool. If I am going to invest in focus at all, I’ll want to pick that up. Not now though, not yet.
+
+Overcharge is a little useless to me. I don’t have any ‘immediate’ spells. Or, at least, I think I don’t. What… is.. immediate… spell. There, got it. Rain jotted the question down as he moved on to the next tree.
+
+Offensive Auras
+
+Tier 0
+
+Immolate (0/10) (+)
+
+8-9 heat (fcs) damage per second to entities and environment
+
+Sufficient damage causes ignition
+
+Range: 1 meter
+
+Cost: 5 mp/s
+
+Refrigerate (4/10) Exp: 356/700
+
+31-35 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 4 meters
+
+Cost: 20 mp/s
+
+Tier 1
+
+Radiance (0/10)
+
+8-9 light (fcs) damage per second to entities
+
+Brightens environment (fcs)
+
+Range: 1 meter
+
+Cost: 5 mp/s
+
+Requires 5 ranks in Immolate
+
+Shroud (0/10)
+
+8-9 dark (fcs) damage per second to entities
+
+Darkens environment (fcs)
+
+Range: 1 meter
+
+Cost: 5 mp/s
+
+Requires 5 ranks in Refrigerate
+
+Shear (0/10)
+
+8-9 force (fcs) damage per second to entities and environment
+
+Not occluded by mundane materials
+
+Range: 1 meter
+
+Cost: 10 mp/s
+
+Requires 15 ranks in Offensive Auras
+
+Tier 2
+
+Locked
+
+Nothing new there. Man, I really should stop ignoring refrigerate. I’ll spend some time practicing it later today. Next.
+
+Utility Auras
+
+Tier 0
+
+Spring (0/10) (+)
+
+Multiply S.Regen by 110% for all entities
+
+Range: 1 meter
+
+Cost: 1 mp/hr
+
+Purify (7/10) Exp: 1735/2200
+
+Purify poison, corruption, and contamination
+
+Range: 7 meters
+
+Cost: 70 mp/min
+
+Winter (3/10) Exp: 321/400
+
+Multiply M.Regen by 130% for all entities
+
+Range: 3 meters
+
+Cost: 3 mp/hr
+
+Summer (0/10) (+)
+
+Multiply H.Regen by 110% for all entities
+
+Range: 1 meter
+
+Cost: 1 mp/hr
+
+Tier 1
+
+Velocity (0/10) (+)
+
+10.0% boost to speed for all entities
+
+Range: 1 meter
+
+Cost: 1 mp/s
+
+Requires 5 ranks in Utility Auras
+
+Detection (5/10) Exp: 1869/2200
+
+Sense selected items of interest
+
+Not occluded by mundane materials
+
+Resolution: 0.60 meters
+
+Range: 5 meters
+
+Cost: 5 mp/s
+
+Life Well (0/10)
+
+Convert mana to health and transfer to all entities within range, including user
+
+Transfer Rate: 1 hp/s
+
+Efficiency: 20%
+
+Range: 1 meter
+
+Requires 5 ranks in Summer
+
+Energy Well (0/10)
+
+Convert mana to stamina and transfer to all entities within range, including user
+
+Transfer Rate: 1 sp/s
+
+Efficiency: 20%
+
+Range: 1 meter
+
+Requires 5 ranks in Spring
+
+Essence Well (0/10)
+
+Transfer mana to all entities within range, including user
+
+Transfer Rate: 1 mp/s
+
+Efficiency: 20%
+
+Range: 1 meter
+
+Requires 5 ranks in Winter
+
+Tier 2
+
+Locked
+
+Nothing new here either. Damn. Just two more ranks in winter and I can get essence well. Do I want that? I could give mana to other people, which would be good for someone like Jamus. Rain’s mystical magical instant headache cure! Well, maybe not. I have no idea how much mana the man has. It might take me all day to top him up.
+
+The 20% efficiency wouldn’t help matters. It would cost me 100 mana to give him 20. No, wait, it might be worse than that. ‘Including user’, it says. So I… give myself mana? At 20% efficiency? That blows! For health and stamina I’d be fine with it, but for mana it’s just a waste. Unless… does it get more efficient with level? If it is 20% per level, then at level 10, do I get 2 mana for every 1 mana I spend? That can’t be right, can it?
+
+Rain sat for a moment, thinking about the implications of his modifiers on the spell.
+
+Jamus won’t know about this specific aura, but he might know what happens when you totally break the system. Detection too, the whole negative resolution thing. Another question for the book. Oh, and velocity. Is speed just physical speed, or is it mental speed too? Can’t forget that one. If not for the whole hidden skill thing, I’d just spend a point on it right now and find out. I don’t want to do that, though, if there are some hidden ultimate techniques just lying around waiting to be unlocked.
+
+Ok, next, defensive auras.
+
+Defensive Auras
+
+Tier 0
+
+Cold Ward (0/10) (+)
+
+Increase cold resistance by 3.0% for all entities
+
+Range: 1 meter
+
+Cost: 1 mp/dmg mitigated
+
+Heat Ward (0/10) (+)
+
+Increase heat resistance by 3.0% for all entities
+
+Range: 1 meter
+
+Cost: 1 mp/dmg mitigated
+
+Tier 1
+
+Arcane Ward (0/10) (+)
+
+Increase arcane resistance by 3.0% for all entities
+
+Range: 1 meter
+
+Cost: 1 mp/dmg mitigated
+
+Chemical Ward (0/10) (+)
+
+Increase chemical resistance by 3.0% for all entities
+
+Range: 1 meter
+
+Cost: 1 mp/dmg mitigated
+
+Dark Ward (0/10) (+)
+
+Increase dark resistance by 3.0% for all entities
+
+Range: 1 meter
+
+Cost: 1 mp/dmg mitigated
+
+Mental Ward (0/10) (+)
+
+Increase mental resistance by 3.0% for all entities
+
+Range: 1 meter
+
+Cost: 1 mp/dmg mitigated
+
+Light Ward (0/10) (+)
+
+Increase light resistance by 3.0% for all entities
+
+Range: 1 meter
+
+Cost: 1 mp/dmg mitigated
+
+Tier 2
+
+Locked
+
+Holy shit, there are a ton of new ones! Mental ward? I’m gonna end up in a mental ward because of all these options.
+
+Looks like none of them have requirements. There is one for each damage type except physical. Damn it, that is the one I want! It must be tier 2, that or it’s hidden.
+
+Oh, while I am looking at these, what the hell is an ‘entity’, anyway? If I use one of these auras, does it give the monsters resistances too? That would suck. What… is… an... entity. There, written down. I suppose it wouldn’t be too bad if I was fighting a fire monster. Use refrigerate to attack and heat ward to defend at the same time. It isn’t like I can actually do that though. Come on, aura metamagic! Hidden skill to use multiple auras, let’s go!
+
+Aura Metamagic
+
+Tier 0
+
+Amplify Aura (6/10) Exp: 992/1600
+
+Multiply aura intensity by 160%
+
+Multiply aura mana cost by 220%
+
+Extend Aura (7/10) Exp: 270/2200
+
+Extend aura range by 7 meters
+
+Multiply aura mana cost by 240%
+
+Tier 1
+
+Aura Focus (2/10) Exp: 147/400
+
+Focus on an aura to boost its output
+
+Multiply aura intensity by 140%
+
+Multiply aura range by 140%
+
+Multiply aura mana cost by 140%
+
+User loses all external senses while focusing
+
+Aura Synergy (0/10)
+
+Increase all aura output by 0.1% for each rank in any aura
+
+Requires 1 rank in five different Auras
+
+Tier 2
+
+Locked
+
+Damn it! Nothing. I’m guessing it’s tier 2, if it exists at all. Oh, hang on, how… many… tiers… of… spells? Oh, and what… is… level… cap? I might even wear Jamus’s patience out with all of these questions.
+
+Right, so I want synergy eventually, that is a given. I only have four auras right now, though, refrigerate, winter, detection, and purify. I could pick up velocity or something, then use my last point on synergy. That would give me…
+
+Rain quickly tallied up the ranks in his other auras.
+
+Nineteen, plus 1 for the new aura I would need, so 20, times 0.1% is a 2% boost to everything. Hardly groundbreaking. I think I can wait on that one. Depending on how fast it levels, even getting it to max wouldn’t help as much as working on amplify, focus, and channel mastery.
+
+So, that’s everything. No new hidden skills. Do I want to pick up velocity? Maybe one of the defensive auras to start training it so it’s actually useful? Fuck me, I can’t decide on skills either! I don’t really need any of this right now, and all these choices are killing me! What I really want is a way to use more than one aura at a time, that way I can just leave winter on 24/7. If the damn skill didn’t level so slow I would be swimming in mana!
+
+Damn it, I’m gonna regret this, but I think I’m gonna unlock tier 2 aura metamagic. Even more options to deal with, but damn it I wanna know. How much does it cost?
+
+Hovering over the locked out tier 2 section, Rain learned that the cost had increased to 1000 experience, up from 100 for tier 1. Shrugging, he paid the price and unlocked the next set of skills.
+
+Aura Metamagic
+
+Tier 0
+
+Amplify Aura (6/10) Exp: 992/1600
+
+Multiply aura intensity by 160%
+
+Multiply aura mana cost by 220%
+
+Extend Aura (7/10) Exp: 270/2200
+
+Extend aura range by 7 meters
+
+Multiply aura mana cost by 240%
+
+Tier 1
+
+Aura Focus (2/10) Exp: 147/400
+
+Focus on an aura to boost its output
+
+Multiply aura intensity by 140%
+
+Multiply aura range by 140%
+
+Multiply aura mana cost by 140%
+
+User loses all external senses while focusing
+
+Aura Synergy (0/10)
+
+Increase all aura output by 0.1% for each rank in any aura
+
+Requires 1 rank in five different Auras
+
+Tier 2
+
+Prismatic Intent (0/10)
+
+User may maintain 2 auras simultaneously
+
+Requires 10 ranks in Aura Synergy
+
+Requires 1 rank in 15 different auras
+
+Aura IFF (0/10)
+
+User may exempt entities from direct aura effects at will
+
+Selected entities receive 90.0% aura output
+
+Requires 10 ranks in Amplify Aura
+
+Requires 10 ranks in Extend Aura
+
+Requires 10 ranks in Aura Focus
+
+Tier 3
+
+Locked
+
+“YES!” Rain shouted loudly, startling a flock of birds out of a nearby tree. He had immediately jumped up in excitement upon reading the description of prismatic intent, ignoring the protests of his aching body. The skill was exactly what he had been looking for.
+
+“I knew it!” Rain paced excitedly, the stiffness in his legs the only thing preventing him from jumping up and down. The skill windows followed him as he paced, hovering in his field of view as he turned his body. He continued reading, his grin spreading even wider as he read the description of aura IFF.
+
+IFF is… Identification, Friend or Foe? Isn’t that a military thing? This is perfect! With that at level 10, I could use refrigerate without worrying about hurting my allies! Holy shit, I need to get both of these asap!
+
+Humm, these requirements are a bit insane. I need to…
+
+“Rain.”
+
+“FUCK!” Rain leapt into the air, landing in a kung-fu pose and whirling to face the source of the noise. He saw Tallheart staring at him through the transparent skill windows. Sheepishly, he swiped them closed and relaxed his arms. He winced at the sudden spasm of pain in his lower back from the unplanned acrobatics. Tallheart was chuckling.
+
+“You did that on purpose,” Rain said accusingly.
+
+“I heard you yell, so I came to see what happened. It was worth it.”
+
+“Did you have to be so quiet?”
+
+“I was not being quiet.”
+
+“Bullshit!”

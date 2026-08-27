@@ -1,0 +1,155 @@
+---
+id: 9f719bc9-75d7-52e9-be55-cf47f844083c
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 18"
+slug: 0176-b3-chapter-18
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 176
+ownLength: 1585
+unit: words
+ownProgress: 1585
+publishedAt: 2024-06-27
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1695436/b3-chapter-18"
+royalRoadId: "1695436"
+markedReadAt: "2026-06-29T19:11:42.168Z"
+---
+
+Aria
+
+I quickly wave at the maids and tell them, “Get me some popcorn please.” After which they immediately set out to do so before returning with a bowl of popcorn that I begin to eat.
+
+Despite my habit of never eating, popcorn just feels right at this moment in time. Just does.
+
+Asher seems to agree too since he’s eating some as well.
+
+Not sure how healthy popcorn is for cats, but I don’t really care either since he’s just as immortal as I am. He can deal with the consequences of eating it if there are any.
+
+Probably not though.
+
+Then we both settle in to watch as what look like thousands of different spell circles begin to fill the air all around the androgynous pharaoh. Terrifying a lot of the cultists in the process.
+
+And just as quickly as the circles appeared, black, red, and purple missiles begin to shoot out of them. Blowing up everything they strike and literally disintegrating any living being they touch to ash.
+
+Ash that then continues to wiggle around as if alive.
+
+Holy fucking shit on a cat, is he turning these cultists into… ash… undead? Is that a thing? Undead as small as little bits of ash?
+
+Might just be my mind playing tricks on…
+
+That thought trails off when I see a bit of ash jump up into the air while casting a spell of its own and screaming in some rather high pitch voice. Only for it to freeze in place and turn its attack on the other cultists as if forced by some overwhelming power.
+
+Right. So ash undead is a thing.
+
+I glance at Asher before saying, “Remind me to never get on the pharaoh’s bad side.”
+
+Asher meows back at me as if saying that he wouldn’t be able to turn me into an ash undead even if he wanted to.
+
+And he’s right.
+
+I also very much hope I’m not imagining his responses. Because I like being sane.
+
+Anyways, the pharaoh keeps turning the cultists into ash undead one after another after another. Slaughtering entire waves including my poor maids.
+
+Rest in… ash? Rest as ash maids. You will not really be missed by me at least.
+
+I continue eating my popcorn as the pharaoh turns his gaze towards the cultist leaders, all of whom just start floating up to the pharaoh without a word or even trying to attack. Then the pharaoh declares, “Nefertari Hatshepsut Maatkare, leader of the Cult of the End, you will hereby be put to work as the undead commander of the legion in Hell.”
+
+The cult leader turns to look at me as he says, “So long as it serves Lady Death’s will, we will do whatever is necessary.” He turns back to the pharaoh again. “Do your worst.”
+
+And the pharaoh does just that. Literally waves his hand and the cult leader splits apart into a dozen different pieces before reforming again as an undead. Not sure which type of undead though.
+
+He seems to have seams between all of the parts that were torn off with glowing red eyes. And he’s emitting a creepy purple mist.
+
+That’s what you get for writing down everything I did.
+
+I nod my head in satisfaction while finishing off the rest of the popcorn. Popcorn that seems suspiciously little, most likely due to a certain cat who is sitting on my munching on something.
+
+Rascal stole most of the popcorn.
+
+Whatever. Doesn’t really matter.
+
+The moment deserving of popcorn is over now anyways.
+
+I toss the bowl to the side, not really caring about cleanliness as I stand up, stretching my arms over my head.
+
+Well, that was a rather annoying vacation. Other than the luxuries they gave me and the free levels, that is.
+
+Although, I can’t help but notice the pharaoh – having already turned the other leaders of the cult into undead as well – turning an amused look at the cat that I’m currently picking up from the lawn chair. Then I walk over to the edge of the balcony as the masses of undead around this complex – mostly consisting of ash undead – are escorted onto the ships in a bizarre display. Meanwhile any of the cultists who were killed in the fighting are also resurrected as undead, and the people on the pharaoh’s side who were killed have their bodies taken to the ships. No doubt to be resurrected at a Void Temple later on.
+
+If I’m being honest with myself, that battle was a lot more boring than I was expecting.
+
+Guess the pharaoh is just too powerful.
+
+Makes me wonder how strong Shirou truly is. Or the other Grands.
+
+And speaking of the Grands, the pharaoh barks out some orders to the ships before floating down and landing on the balcony next to me. Then he kneels and declares, “I welcome you to the nation I have built in your name, Lady Death.”
+
+Great. More worship.
+
+After his kneeling though, he rises to his feet with the corners of his lips quirking ever so slightly upwards. Which I guess must be his version of jumping for joy, considering how the guy is known for never once smiling in all the millions of years he’s been ruling the nation.
+
+Then he adds rather warmly, “I’ve been waiting for a long time.”
+
+Huh. Unexpected.
+
+That didn’t sound fanatical. More romantic.
+
+Which is still a no.
+
+Not that I don’t understand it a little though. Since he was quite literally born from death energy.
+
+But romance isn’t my thing. Actually, from what I’ve heard, Horsemen don’t even feel reproductive or romantic urges at all.
+
+Of course, that could just be a rumor, but considering how I’ve felt my whole life, it would make sense.
+
+“Would you like to head with me towards the capital of the Rex Dynasty, or would you rather continue your travels, Lady Aria?” the pharaoh says, surprising me again by his use of my name instead of just ‘Lady Death’ along with him actually asking.
+
+So maybe this guy isn’t…
+
+My thoughts return to his turning people to ash undead.
+
+…isn’t all bad. Even if he’s known as a ruthless tyrant. And turns people into ash undead.
+
+“Hmm,” I hum while tapping my chin and glancing at the cat in my left arm. A cat that quickly begins to climb up to my shoulder before moving on to my head and just kinda perching there. “I think I’ve stayed in the Dynasty for long enough. Just point me in the most interesting place that has a Hunter’s Spot and is near this world that I can get immigration rights to easily enough and that’s all I’ll need.”
+
+“As you wish, Lady Aria,” the pharaoh says with a bow before floating up into the air the moment a hover platform appears next to me. Then he says, “Hop on, My Lady, and I will bring you to the flagship for you to peruse the planets all you like.”
+
+Oh. Right. I almost forgot he has a damned spaceship that can just skip the Gating process.
+
+Wait a second…
+
+I blink as a thought comes to mind.
+
+Then I hop onto the hover platform before asking the pharaoh, “Hey, any chance I could buy a spaceship from you? One capable of travel and that has a way for me to get from one world to another without much trouble.”
+
+He doesn’t even stop flying as he says, “I will have one arranged for you to have.”
+
+Well, that’s convenient. And very easy.
+
+Probably for the best that I don’t ask how expensive it is. All things considered.
+
+It’d probably make me feel a tad bad for accepting it from him.
+
+Since I get the feeling he’s not gonna accept my money even if I tried forcing it on him. Not to mention how he said he’d have one arranged for me to have.
+
+Not that he’d let me purchase one.
+
+We continue floating up into the sky before entering directly through the bridge windshield of his flagship. Not even bothering to enter any real entrances. Just pass straight through a purple spell circle placed in front of the windshield.
+
+To my complete lack of surprise, I find Shirogane just kinda sitting around in the bridge while reading a book. And he wordlessly waves at me for a moment before returning his attention to his book.
+
+Goes to show how worried he was about me.
+
+Then again, he knew that I was being treated as a goddess there. So there wasn’t much to worry about.
+
+Once we reach the command seat of the bridge, I can’t help but notice the fact that every last person within the bridge is an undead. And they’re all bowing to me while ignoring their own pharaoh.
+
+“Would you be alright with me taking you to the royal capital of the Rex Dynasty to pick out the best possible ship for you?” the pharaoh asks while tilting his head ever so slightly.
+
+I stare at him for a second, then at the undead who are all looking at me with puppy dog eyes. Which is weird considering that they’re all intimidating undead wearing cloaks over purple and black metal, high tech armor.
+
+Eventually I sigh and tell him, “That’ll be fine.”
+
+“Very well then,” he says before sitting on the commander’s chair and declaring, “Move out.”
+
+Guess I’m seeing their capital after all.

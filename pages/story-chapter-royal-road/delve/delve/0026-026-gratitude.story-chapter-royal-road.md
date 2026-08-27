@@ -1,0 +1,605 @@
+---
+id: a2a20ed3-c002-5897-94a4-74dca8967221
+page-type-slug: story-chapter-royal-road
+title: "026: Gratitude"
+slug: 0026-026-gratitude
+partOf: delve
+position: 26
+ownLength: 3440
+unit: words
+publishedAt: 2019-07-07
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/379331/026-gratitude"
+royalRoadId: "379331"
+---
+
+Training Overview
+
+General Experience Earned
+
+Mana Use: 8907
+
+Stamina Use: 17
+
+[Level Up]
+
+Skill Experience Earned
+
+Extend Aura: 1360
+
+Purify: 2420 [Rank Up]
+
+Winter: 191 [Rank Up]
+
+Amplify Aura: 2294 [Rank Up]
+
+Detection: 1123 [Rank Up]
+
+Aura Focus: 334 [Rank Up]
+
+Channel Mastery: 192 [Rank Up]
+
+Velocity: 993 [Rank Up] [Rank Up]
+
+Intrinsic Focus: 8366 [Rank Up] [Rank Up] [Rank Up] [Rank Up] [Rank Up] [Rank Up] [Rank Up]
+
+Haha, holy shit, I think I broke it. That’s a lot of rank up messages. Seven ranks in intrinsic focus in one day? Wow.
+
+Rain swiped the dialog closed and climbed out of bed. He looked over to Tallheart’s spot, but the man wasn’t there. Shrugging, he ventured out into the chill morning air and headed over to the forge. Tallheart was feeding wood into it to build the fire back up. Rain pulled up a log to sit on near the flames while he warmed himself. It hadn’t rained, but there was a layer of dew over everything and it looked like it was going to be a cold day.
+
+I need a cloak or something.
+
+“Good morning, Tallheart.”
+
+“Rain.”
+
+“Is the forge done?”
+
+“No.”
+
+“Can I help?”
+
+“Not with this. Can you find more metal?”
+
+“I want to stick around here and wait for Jamus. He didn’t show up last night. Maybe I’ll go look later.”
+
+“Very well.”
+
+“I’ll just sit here, if that won’t bother you.”
+
+“It does not bother me, you are welcome.”
+
+“Thanks.”
+
+It was a little hard to get a read on Tallheart, but Rain thought he was in a good mood. His curt responses didn’t bother him at this point; he knew that it was just how the man spoke.
+
+Rain used purify to freshen himself up and started peeling off the bandage from his finger. The skin was tender, but not nearly as painful as it had been the day before. He tucked the clean bandage into a pocket; it would be useful if he got hurt again, and purify took care of any sanitary concerns. He pulled up his attributes window to see the impact of yesterday’s training.
+
+Attributes
+
+Richmond Rain Stroudwater
+
+Level 11
+
+Experience: 4005/7304
+
+Dynamo
+
+Health
+
+400
+
+Stamina
+
+200
+
+Mana
+
+520
+
+Strength
+
+20 [10] (+)
+
+Recovery
+
+10 (+)
+
+Endurance
+
+10 (+)
+
+Vigor
+
+10 (+)
+
+Focus
+
+10 (+)
+
+Clarity
+
+120 (+)
+
+Free Stat Points
+
+10
+
+Wow, that was a lot of experience. What is up with the requirement for the next level? I can’t figure out the formula ever since I took dynamo. It’s going up, that’s for sure. Ten free points, right into clarity, thank you very much.
+
+As Rain applied the points, a number caught his eye and made him do a double take.
+
+520 mana? Yes! Go intrinsic focus! Stat ring, you’ve been replaced! Statistics.
+
+Statistics
+
+Total
+
+Base
+
+Modifier
+
+Health
+
+400
+
+400
+
+0
+
+0%
+
+H.Regen
+
+100
+
+/day
+
+100
+
+/day
+
+0
+
+0%
+
+Stamina
+
+200
+
+200
+
+0
+
+0%
+
+S.Regen
+
+100
+
+/day
+
+100
+
+/day
+
+0
+
+0%
+
+Mana
+
+520
+
+520
+
+0
+
+0%
+
+M.Regen
+
+858
+
+/hr
+
+487
+
+/hr
+
+-28/hr
+
+82%
+
+Movement Speed
+
+10
+
+Perception
+
+10
+
+Resistances
+
+Heat
+
+Cold
+
+Light
+
+Dark
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+Force
+
+Arcane
+
+Mental
+
+Chemical
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+“Yeah!”
+
+Rain pumped his hand in the air at the sight of his total mana regeneration. The boost from winter was really starting to make a difference, almost doubling the base rate. Tallheart looked at him and raised an eyebrow, but didn’t comment.
+
+“Sorry, I just got a little excited,” Rain said, settling himself back down on the log.
+
+“I understand. I remember what it was like to level up.”
+
+“Remember? Are you… capped?”
+
+“Yes. I have not leveled for years.”
+
+“Oh. You should go find one of those monsters.”
+
+“I am not a warrior.”
+
+“So you’ve said. I could help you, once I’m strong enough. What level are you, if you don’t mind telling me?”
+
+Tallheart stared at Rain with a contemplative expression, then nodded.
+
+“I trust you, but do not tell others. It is dangerous, for a cervidian’s level to be known. I have your word?”
+
+“You have it.”
+
+“I am level 37.”
+
+“Wow, that’s really high. How did you kill something that strong if you don’t fight?”
+
+“My wife helped me.”
+
+“Oh, so she’s a fighter, is she...”
+
+Tallheart stared into the flames, silently.
+
+“Shit, sorry,” Rain apologized. There was a pained expression on Tallheart’s face.
+
+“It was a long time ago.” The antlered man shook his head and sighed, picking up a larger log and adding it to the fire.
+
+“Do you want to talk about it?”
+
+“No,” Tallheart said as he got to his feet. “Do not let the fire go out,” he continued as he started off toward the river.
+
+Rain winced. He’d really put his foot in it. He’d have to make it up to Tallheart later, but for now he sensed that the man wanted to be alone. He stared at the fire, dwelling on the tragedy that was Tallheart’s life.
+
+What the hell happened to his people? Dangerous for his level to be known? Why?
+
+Rain shook his head and shivered. He pulled his log closer to the fire and then brought up his skills menu to distract himself.
+
+Skills
+
+Refrigerate (4/10) Exp: 356/700
+
+29-34 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 4 meters
+
+Cost: 20 mp/s
+
+Extend Aura (7/10) Exp: 1630/2200
+
+Extend aura range by 7 meters
+
+Multiply aura mana cost by 240%
+
+Purify (8/10) Exp: 1955/2900
+
+Purify poison, corruption, and contamination
+
+Range: 8 meters
+
+Cost: 80 mp/min
+
+Winter (4/10) Exp: 112/700
+
+Multiply M.Regen by 140% for all entities
+
+Range: 4 meters
+
+Cost: 4 mp/hr
+
+Intrinsic Clarity (10/10)
+
+Multiply base mana regeneration by 300%
+
+Amplify Aura (7/10) Exp: 1686/2200
+
+Multiply aura intensity by 170%
+
+Multiply aura mana cost by 240%
+
+Detection (6/10) Exp: 792/3200
+
+Sense selected items of interest
+
+Not occluded by mundane materials
+
+Resolution: 0.50 meters
+
+Range: 6 meters
+
+Cost: 6 mp/s
+
+Aura Focus (3/10) Exp: 81/800
+
+Focus on an aura to boost its output
+
+Multiply aura intensity by 160%
+
+Multiply aura range by 160%
+
+Multiply aura mana cost by 160%
+
+User loses all external senses while focusing
+
+Channel Mastery (2/10) Exp: 148/400
+
+Allows intuitive control of channeled skill intensity
+
+Minimum skill intensity: 80%
+
+Maximum skill intensity: 120%
+
+Skill mana cost modified by intensity adjustment
+
+Intrinsic Focus (8/10) Exp: 2066/2900
+
+Multiply base mana by 260%
+
+Velocity (3/10) Exp: 393/800
+
+30% boost to speed for all entities
+
+Range: 3 meters
+
+Cost: 3 mp/s
+
+Free Skill Points: 1
+
+This… is getting a little unmanageable. If I get many more skills, I’ll have to see if I can reorganize the display. I don’t feel like messing with settings right now, so I’ll just live with it. Pretty good progress overall.
+
+What should I work on today? Humm. The wells are a bit out of reach until I get aura focus and channel mastery higher, so I guess I’ll work on offense. It’s way too cold to use refrigerate, so I’ll take immolate and train with that instead. Should help me warm up, at least.
+
+After spending the point on the skill, Rain considered the forge. He was unsure if he would damage it by adding to the heat of the fire. To be safe, he got up and moved a few meters away.
+
+This should be good. I won’t use extend, so the range will be pretty short. Immolate.
+
+When he activated the skill, immediately he felt his mana warm as it flowed through his veins and out into the world. A hot wind blasted forth from his skin and made the grass in a circle around him wave slightly. He couldn’t feel the heat directly, but the dew on the grass was quickly drying. He canceled the aura after around ten seconds and bent down to inspect the grass. The area around him in a one-meter radius was dry, the dew burned away. The ground was slightly warm to his touch, as if the sun had been shining on it all day. It felt nice against his cold skin.
+
+Good, I’m not going to set the forest on fire. Well, not at rank one anyway. What if I push it?
+
+He activated the skill again, using amplify and channel mastery to boost it. He left off aura focus, not wanting to be without senses should he inadvertently set his pants on fire. The hot wind gusted out, noticeably stronger this time. Rain watched as the grass started yellowing and drying out. He left the skill on for another thirty seconds until his mana started to get low.
+
+Good, no fire. I can practice this here; I just need to be careful. Now that the grass is dried out, it might burn if I do that again.
+
+Rain started pulling up the dead grass as he waited for his mana to regenerate, piling it on the dirt in front of him. Once he had cleared the entire circle, he sat back down in the center and checked his mana. It was nearly full again, so he re-activated the skill. This time, he used focus as well.
+
+He was able to hold it for around 20 seconds. The smell of burned grass greeted his nose as his senses returned. The pile in front of him was blackened and smoldering, having been ignited by the heat. Additionally, a circle of grass outside of the dirt ring was now dried and yellow.
+
+Oops, I forgot about the range boost of aura focus. At least that grass was still wet. Even if it did catch on fire, the rest of the grass is probably wet enough so it wouldn’t spread that far. I… need to be really careful with this.
+
+Rain eyed the burned pile of grass, then fingered the hem of his shirt contemplatively.
+
+My clothes aren’t burned. Huh, they’re barely even warm. I guess the skill makes an exemption for things I’m wearing. Why? Purify doesn’t do that. I’m not complaining, though. I like wearing clothes. Still, I expected it to be stronger than this. Refrigerate can kill a slime, easy, so why does immolate take so long just to kill grass? Refrigerate is higher level, true, but... Slimes must really suck if they are weaker than grass. What does that say about me?
+
+Anyway, I can’t use this willy-nilly. I kinda get where the Watch is coming from. Once this is all leveled up and stuff, I could accidentally burn down a city block if I used it without thinking. That explains why they take such a hard line with magic. I’m not sure if I’m mad at them anymore. Sure, they kicked me out of the city, but that was second-hand information they were working on. That big blue bastard though, him I’m not going to forgive.
+
+How the hell am I going to get back in the city if there are no monsters around here to farm for Tel? The only places I can think of are the sewer, which I can’t get to, and that mine, which would probably get me killed. There were slimes in the forest where I started, but not many. Maybe I could try there. I’ll ask Jamus if he knows any good farming spots.
+
+Rain pulled out his notebook to write down the question, then started looking through his notes while he waited for his mana to regenerate.
+
+“Hello! Tallheart! Rain! You there?”
+
+Rain looked up at the sound of the voice. He was waiting for his mana to recover after his latest bout of immolation. He’d been practicing for the last few hours, and Jamus’s voice came as a welcome distraction. Just sitting and using his aura was hardly exciting, and Tallheart had yet to return.
+
+“Over here!” he called out, climbing to his feet.
+
+He saw the brilliant orange of Jamus’s robe break through the trees into the clearing. The man standing next to him was much less visible in his tattered black outfit. Rain walked over to join them, leaving the circle of scorched earth behind.
+
+“Hi Jamus,” he said, then turned to the other man. “Val, are you ok? I was really worried about you. Sorry, I couldn’t get them to heal you.”
+
+“Don’t apologize. I owe you my life,” the man replied in a firm voice, stepping forward and offering Rain his hand to shake. When Rain moved to take it, the man reached past his hand, grasping his forearm instead. Rain did likewise. The man released him and stepped back.
+
+“Don’t worry about it. Anyone would have done the same.”
+
+“No, they wouldn’t,” Val stated flatly.
+
+Rain had no response to this, but luckily Jamus cut into the awkward silence.
+
+“Sorry we were late, Rain, there was some news in the city. It caused a bit of a commotion in the guild. By the time it all calmed down, it was too late to head out here.”
+
+“Don’t worry about it. What was the news?”
+
+“The <something> of Adamant declared <something> on the <something> kingdoms.”
+
+“Sorry, what?”
+
+“Oh, right, most of those words haven’t come up. Here, I got you something.”
+
+Jamus pulled out a large, leather-bound book from a bag that he had slung over his shoulder. He handed it to Rain for him to inspect. Taking it, Rain flipped open the cover, revealing page after page of hand-written script. From the layout, it appeared to be some sort of dictionary.
+
+Damn, I wish I could read.
+
+Rain peered closer at the page. He’d been practicing with his notes and he thought that he had most of the alphabet down, but it was still going to take him quite a while to decipher the cramped text.
+
+“Oh, wow. Thanks, Jamus. It’s written by hand… This wasn’t expensive?”
+
+“I know a guy. Don’t worry about it.”
+
+“Thanks,” Rain said, tucking the book under his arm.
+
+Jamus shifted to adjust the bag on his back, then looked around the clearing. “Where’s Tallheart? I have a few other things I want to give you guys.”
+
+“Down by the river, I think.”
+
+“I’ll go find him and leave you two to catch up. I’ll just put this stuff over by the… hut.”
+
+Jamus walked off and left Rain and Val standing awkwardly in the clearing. Rain inspected the man surreptitiously. In the mid-morning light, he could see that he was in good shape, despite the mage’s robes he was wearing. He didn’t share the spindly build that he had come to associate with Jamus and other mages. In fact, even calling the black tattered garment a robe was a bit inaccurate. It was more like a long trench-coat, but without the buttons. The man had dark skin and his straight black hair was still tied into a ponytail as it had been in the sewer.
+
+“So, you… live out here?” Val said, sizing Rain up in turn.
+
+“For now. I got banned from the guild.”
+
+Val raised a hand to touch the bronze plate hanging from his own neck, then dropped it. “So Jamus said. Something about magic in the city?”
+
+“Right. I pissed off the Watch, even though it was a harmless spell.”
+
+“Which one?”
+
+“Purify, the one I was using in the sewer. This one.”
+
+Rain activated the skill to demonstrate, the pulses of white light visible even in the sunlight, thanks to the increased strength of his skills. Val took a cautious step back, then relaxed, letting the light wash over him.
+
+“Were you? I don’t really remember that much after I hit my head. So, you’re a mage, then? What does it do, purify?”
+
+“It…cleans things. The skill description says it works on poison too, but I haven’t ever tested that.”
+
+“That’s convenient. Wish I’d had that when I went down there.”
+
+“What were you doing in the sewer, anyway?”
+
+“I was trying to kill that damn giant slime. Thing had way too much health.”
+
+“Giant slime? The one from the quest in the middle of the board? They let you go after it alone?”
+
+“Nobody tried to stop me. Wish they had. I guess I look stronger than I am.”
+
+“So you’re a mage too? What was that light spell?”
+
+“Lunar orb. It isn’t good for much, other than making light. Still, I need it, for my build.”
+
+“What build? Oh, I’m being rude, sorry.”
+
+“A little. Don’t worry about it. You saved me, so I owe you. Can I trust you to keep quiet about what I’m about to tell you?”
+
+Rain nodded.
+
+“Good. I know of a rare class, including the <something> requirements. I am trying to unlock it, so I need to pick some really specific skills.”
+
+“Oh, I see,” Rain said, debating whether to tell the man about his own rare class. He decided against it for now. He really didn’t know anything about him, other than the fact that he was some sort of mage. I’ll get to know him a bit better, first.
+
+“So you went after the slime to, what, earn money? Experience?” Rain asked.
+
+“Neither. I need to kill a strong essence monster, and I’d hoped that the slime would be one. It wasn’t, but by the time I found that out, it had already blocked the tunnel behind me.”
+
+“An essence monster?”
+
+“Yes. It’s a requirement for the class I want. I’m stuck at level 5 until I pick something. I’m not taking mage, that’s for sure.”
+
+“Oh, so it’s not just the cap? You can’t level until you pick?”
+
+“Right.”
+
+“Oh, I didn’t know that. It never even occurred to me to not pick right away. Shit. Thanks for telling me about it.”
+
+“Thanks for saving me. Is there anything I can do to pay you back?”
+
+“Well... I do need Tel to get back into the city...”
+
+“Sorry, I’m flat broke. I lost what little coin I had in the sewer. In fact, I was hoping that I could join you out here so I don’t have to pay for lodging. I’m not from around here, and I don’t fancy hunting slimes so I can afford the bunkroom.”
+
+“Sure, I’ll have to talk to Tallheart, though. This is his hut, though I suppose we did kind of build it together.”
+
+“Stick to being a mage.”
+
+“I know, right?”
+
+“Tallheart is the cervidian?”
+
+“Yeah, did Jamus tell you about him? Is that going to be an issue?”
+
+“No. I have no problem with his kind, as long as he doesn’t have a problem with me.”
+
+“Oh, good. Well, then, I’m sure he won’t mind...”
+
+Rain stood awkwardly as Val looked around the clearing.
+
+“Should we go find him?” Val asked.
+
+“No, I think it would be better if we let him talk to Jamus for a little while.”
+
+“Then what should we do while we wait? What were you doing before I got here?”
+
+“I was just training my magic.” Rain waved at the burned circle of grass.
+
+“Fire mage, then?”
+
+“No, I am… an aura mage, I guess. I use auras. It isn’t my ‘class’ class.” Rain made air-quotes with his fingers to explain what he meant, but this just got him a puzzled look.
+
+“I don’t think I’ve ever heard of that one before. There are some aura users in the <something>, but they’re more… humm. They aren’t adventurers, let’s say.”
+
+“The <something>? Jamus said that word before. Sorry, I’m not from around here either. This isn’t my first language.”
+
+“Yeah, Jamus told me that you were a bit… different. Your accent is pretty strange, that is for sure.”
+
+“What did he say?”
+
+“Just that you were quick at learning languages, and that you were from somewhere, very, very, very far away. His words.”
+
+“Ah, yeah. That’s accurate. I was teleported here, I don’t know how.”
+
+“Hell of a thing. So, training, huh? Fancy a bit of a spar? You don’t seem like you’re too much higher level than I am.” Val looked at him expectantly.
+
+“I don’t know... My magic isn’t really good for that kind of thing.”
+
+“Ok, what then?”
+
+“How about if we go hunting? All I have to eat are ration bricks.”
+
+“I can’t eat those damn things. Your bartender... Khurt? Was that his name? Anyway, he’s <something> for making them like that. I didn’t believe Jamus when he said they were your favorite food. He has a stack of them for you, by the way.”
+
+Rain scoffed. “Don’t listen to Jamus. I don’t eat them because I like them.”
+
+“Hah. I knew he was full of shit. Well, I’m up for it. What are we hunting?”

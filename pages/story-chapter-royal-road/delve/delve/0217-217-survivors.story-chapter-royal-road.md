@@ -1,0 +1,193 @@
+---
+id: 2dc947fc-287a-521d-8752-1732c5f76a2e
+page-type-slug: story-chapter-royal-road
+title: "217: Survivors"
+slug: 0217-217-survivors
+partOf: delve
+position: 217
+ownLength: 2776
+unit: words
+publishedAt: 2023-01-08
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1081909/217-survivors"
+royalRoadId: "1081909"
+---
+
+The storm was truly upon them by the time the unnamed cervidian led Ameliah to shelter, the canopy doing little to shield them from the fury of the heavens. Water fell in torrents, pelting them with leafy debris, and thunder made a near-constant rumble. The visibility was so poor that even with Lunar Orb, Ameliah didn’t pick out the cave entrance until they were practically on top of it. Her companion ducked inside, but she slowed, seeing something else that gave her pause.
+
+Beside the cave mouth—propped open with wooden supports that suggested it was actually a mine—was the carcass of a thoroughly dead bear, the broken haft of a spear still lodged in its chest. It had been skinned inexpertly, ragged cuts deep into the rotting meat showing where its pelt had been torn away.
+
+Ameliah looked again at the cave entrance, noting the splintered and rotting wood of the supports, though they were fairly solid overall. There was a brilliant flash and a deafening boom, and she whirled to see the flaming limb of the tree that had been struck tumble to the ground. Muttering a curse, she ducked into the mine shaft, though she was less concerned about the lightning than losing her guide.
+
+The rain-dampened stench of corruption didn’t fade as she followed the cervidian deeper. She began slicking the water from her hair, rivulets streaming past her boots, carrying dirt and debris. Concern for a flood joined the host of her other worries, but she was confident that even should she be trapped, whether by cave-in or rising water, she’d be able to swim or smash her way free. She was less sure she’d be able to save her companion, but he apparently wasn’t bothered by the risk, disappearing around a bend ahead of her.
+
+“Daddy!” a small voice cried out almost instantly. Thunder drowned out what came next, but as it faded, Ameliah caught the tail of a question. “—t’s that light?” A small face appeared.
+
+“Eeeeeeeee!”
+
+Ameliah crouched down, spreading her open hands and trying to look non-threatening. Mentally, she nudged her estimate of the tall cervidian’s age up by a few years, guessing the child to be perhaps five or six.
+
+“Hush, child,” the tall cervidian said from out of sight. “What did I say about screaming?”
+
+“Screaming will bring the humans.” The face disappeared as if tugged away. “But there’s a human right—”
+
+“I know, daughter,” the tall cervidian interrupted. “Let me worry about the human. I’m sorry, but I couldn’t find any medicine. How is she?”
+
+“She won’t wake up,” the child responded, a sob breaking through her fear.
+
+Both Ameliah and the tall cervidian cursed, and she rose from her crouch to hurry around the bend.
+
+“Daddy!” the child shouted again, pointing at her from around her father’s side, where she was being carried like a bundle of lumber.
+
+“I said I know!” the older cervidian snapped. “Was she still breathing?!”
+
+The only response was a sniff as Ameliah hustled after them, scooping up the cervidian’s discarded bow as she passed. Another crash of thunder reverberated down the tunnel, and her feet soon splashed through water that had to have been up to the child’s waist. Fortunately, the passage soon began sloping back upward.
+
+Resigned to being trapped at this point, Ameliah pressed on, the smell of rot growing stronger until her light illuminated a tiny room at the back of the cave. There was a form lying there, which she mistook for another bear before she realized it was simply the pelt from the first.
+
+The tall cervidian roughly set down his daughter, falling to his knees beside the prone woman beneath it. Stooping, he brought his head close to the woman’s, speaking in a terrified whisper. “Dawn? Dawn, can you hear me? Dawnlight!”
+
+“Here,” Ameliah said, laying down the bow and hurrying forward. “Let me—”
+
+“Get back!” the tall cervidian screamed, catching her cheek with his elbow as he flailed at her. Ameliah moved with the blow, letting herself be pushed away so he didn’t injure his arm from the impact.
+
+The little girl screamed, an earsplitting wail that easily drowned out the muffled rain.
+
+“I’m a healer!” Ameliah shouted over the noise, desperately raising her hands and spreading them wide. “If she’s alive, I can save her!”
+
+The tall cervidian’s eyes went wide, his chest heaving as he stared at Ameliah. The daughter ran out of air, inhaled, then screamed again, her eyes screwed shut and her hands balled into fists at her sides. The man’s eyes flicked to the prone form of the woman. After a pause that felt like an eternity, he nodded.
+
+Ameliah nodded back, slipping off her pack and moving gently forward as the tall cervidian shifted out of the way. Ameliah placed a hand on the unmoving woman’s forehead, finding skin that burned except for the two hard nubs pressing into her armored palm. She sighed in relief, using an unfocused Healing Word without waiting to see the wound. Fever was better than the chill of death.
+
+Purify
+
+The stench of infection faded as Ameliah peeled back the pelt, then the sodden bandage beneath, revealing the woman’s bare chest. Three thin slashes ran from her right shoulder to her belly button. Assuming that to be the bear’s work, she’d gotten off easy, but the flesh around the scratches was still swollen an angry red. Already, Healing Word had begun to work, her skin returning to a healthy color as putrid scabs flaked away to reveal scars beneath.
+
+Casting again and guiding the magic with her will this time, Ameliah crammed the unawakened woman full of overhealth, but the pale lines only faded slightly, refusing to shrink any further. It had been too long. The woman would be marked for life.
+
+Letting Purify fall, Ameliah switched to Summer on the off chance the regeneration would help.
+
+The daughter had stopped screaming by this point. Breaking free from her father, she wormed past Ameliah and pressed her palms flat against the woman’s shoulders. “Mommy! Mommy! Wake up!”
+
+The woman’s eyes flickered, then opened. Confusion, then horror filled her eyes as she saw Ameliah. She screamed, not as shrilly as her daughter had, but with much larger lungs. Bucking, she scrambled backward and grabbed her daughter as she kicked herself free of the ragged pelt.
+
+“Dawnlight!” the husband yelled, diving for the pair and wrapping them in a hug.
+
+“What did you do to me?” the woman demanded, slurring her words slightly. That could have either been the lingering effect of the fever, or simply from the healing. “Get behind me!” she cried, then broke her husband’s grip with surprising strength, sending him tumbling. She rose in an aggressive stance that lost nothing for the fact she was entirely naked. “Die, human!”
+
+“Dawn!” the man yelled, pushing himself back up. “Calm down!”
+
+Already as far back as she could get, Ameliah sat, crossing her legs and resting her empty hands in her lap. The woman marched up to her, and rather than stopping as expected, she swung, her fist striking Ameliah hard in the temple. Though Ameliah tried to move with the blow as before, the cave wall stopped her short. There was a crack of breaking bone. The woman screamed in pain but didn’t relent, her next hit landing on Ameliah’s nose. No third blow fell.
+
+“Get off me!” Dawnlight yelled, hammering at the man’s arms wrapped around her waist. “Where’s my spear?!”
+
+Ameliah closed her eyes, deciding it would be best to sit things out until he managed to calm her down. The cervidian man was whispering furiously in his wife’s ear as the pair struggled. Ameliah could hear everything he was saying, but the whisper was probably more for the child’s benefit. Her reply was more like a hiss, and soon, their quiet argument became less so, raging back and forth. The tall cervidian tried to talk reason into her, while she ignored him, arguing that death would be better than help from the enemy.
+
+Before they got anywhere near a conclusion, a polite tug on Ameliah’s bangs made her open her eyes.
+
+“Are you really a human?” the little girl asked hesitantly, staring into her eyes.
+
+Behind her, the arguing pair froze.
+
+“Heartwood,” Dawnlight said, panicked pleading in her voice. “Come away from there, right now.”
+
+“I won’t hurt her,” Ameliah said, glancing over the little girl’s shoulder to give her a look that said as much was completely obvious. She returned her eyes to the little girl’s, then nodded. “Yes, I’m human.”
+
+“Why aren’t you mean, then?”
+
+The corner of Ameliah’s mouth twitched. “Not all humans are. We’re people, you know? There are good ones and bad ones.”
+
+The little girl seemed to consider this for a long moment, and then without warning, Ameliah found herself being hugged.
+
+“Thank you for saving my mom.”
+
+“Heartwood!” Dawnlight gasped in horror.
+
+Very, very carefully, Ameliah extracted one arm, lightly patting the little girl on the back.
+
+“Daughter,” the tall cervidian’s voice warned. “What have I told you about personal space? You are making our savior uncomfortable.”
+
+Ameliah’s eye twitched. “Please don’t call me that. I just—”
+
+“Saved my wife from certain death,” he interrupted. “Dawn may not be able to show her gratitude, but you must forgive her for that. She has suffered at human hands more than most.” Standing as straight as the cave would allow, he bowed low. “My name is Rush, and I am at your service, my lady.”
+
+“Please don’t call me that either,” Ameliah said, gently freeing herself from Heartwood, then doing her best seated bow as she spoke in a formal tone. “I am Ameliah, friend of Tallheart.”
+
+Dawnlight looked like she’d been slapped, cradling her broken hand. “Liar.”
+
+“Truth,” Ameliah countered calmly as she straightened back up, another crack of thunder seeming to punctuate her words. “I have a letter from him that you can read once you’ve calmed down.”
+
+Dawnlight shook her head angrily. “No! That’s not possible.” She struggled, fending away Rush as he tried to drape the bear pelt over her. “He was always soft, but Snowlilly would never have let him send a human here.”
+
+Ameliah’s face tightened.
+
+They don’t know she’s dead...
+
+“Where did you get that armor?” Dawnlight demanded.
+
+“Peace, Dawn,” Rush said, managing to trap her arms with the pelt. “Where are Tallheart and Snowlilly now?”
+
+“Tallheart is in Yelfenn,” Ameliah answered, swallowing hard. “He’s with the rest of our company, Ascension, which he helped found. Snowlilly is— I’m sorry, there’s no easy way to say this. She died to a dragon several years ago. Tallheart made this armor for me after—”
+
+“LIAR!” Dawnlight screamed, flinging herself forward, the pelt flying away.
+
+Ameliah moved faster than any unawakened could possibly react, catching Dawn’s wrist and locking it in place as she simultaneously triggered another Healing Word. Dawnlight struggled, swinging with her freshly healed fist, only for Ameliah to trap that as well. She stood, keeping her grip and forcing the struggling woman to take a step back. “If I wanted to hurt you, I wouldn’t keep healing you. Don’t do that again. There’s a limit to how much overhealth your body can take. Damn it, stop. I’m your friend.”
+
+“Humans are not friends!” Dawnlight spat in her face. “You’re trying to trick us!”
+
+“Don’t be my friend, then,” Ameliah said, letting her struggle. She used a quick pulse of Purify to clear away the spit. “I’m yours, though, whether you like it or not. I just ask that you stop fighting the person trying to help you! I don’t know what happened to you in the past, but that wasn’t me. I didn’t destroy your village. If I ever find who did, I’ll destroy them. You have my promise.”
+
+Dawnlight grunted with exertion, trying to kick her.
+
+“Can you?” Rush asked softly.
+
+Ameliah turned to look at him, having captured the woman’s leg between her knees.
+
+“Can you destroy them?”
+
+“How strong were they?” Ameliah asked as Dawnlight continued to struggle.
+
+Rush shook his head. “We were not there for the attack, which was perhaps a week ago. I have lost track. We were spending the day at the lake, and the village was burning when we returned. There were no bodies. Everyone was simply gone. We found tracks heading to the west, but we dared not follow them. We have been hiding ever since out of fear that they may return. Today was the first day I dared to leave the mine, and only because I had no choice.”
+
+“So they were taken alive, then,” Ameliah said. She glanced at Heartwood, then closed her mouth, deciding to spare the child’s ears from her gruesome logic.
+
+If the attackers were after their antlers, they’d have dug them out of their skulls and let the bodies lie. No, they must have made them walk. Why, though? For slave labor? To...harvest...later?
+
+She shook her head, then released Dawnlight, who’d finally given up. “How strong were the village defenses?”
+
+The defeated woman crumpled into a sobbing heap, and Rush was quick to move to her side, letting her bury her face in his chest. “Heartwood, the pelt,” he said, gesturing to his daughter, then returning his focus to Ameliah. “Not strong enough.”
+
+“Please,” Ameliah said, crouching down. “Not all of those houses collapsed from fire, and there were burns on the street. It’s hard to say for sure, but it seemed to me there was a fight. If they held their own, even for a little while, it means the enemies weren’t completely overwhelming. If that’s true, I can try to fight them alone. If not, I’ll need to get help, which could take days. Proudrock is level fifteen, right? Did you have any other awakened?”
+
+“You know Proudrock too?” Rush asked in clear surprise.
+
+Ameliah shook her head. “No, but Tallheart told me about him. He said he and Snowlilly took him to get a blue not long after they founded this place.”
+
+“Ah,” Rush said, then shook his head. “No, he was the only awakened among us. He tried many times to convince others to leave with him in search of essence monsters, but few wished to go, and the others always convinced those that did to stay. Awakening is dangerous for us.” He gestured to his forehead. “As I am, I may walk amongst humans with little fear, provided that I stoop and cover my head. Even were I to be discovered, few this far north would bother with the bounty for nubs. If I were to leave and earn my antlers, however...” He shook his head. “In returning, I would risk leading the humans to us. That was a risk few were willing to take.”
+
+Ameliah nodded with a grimace. That was one of the reasons Tallheart hadn’t returned here. “Did Proudrock have equipment like mine?”
+
+Rush frowned. “He did, but I have never seen him wearing it.”
+
+“So you had one level fifteen, probably without equipment unless someone saw the attackers coming,” Ameliah mused, rubbing her chin. “The village looked big enough for about fifty people, maybe a hundred. How many of you were fighters? Did you post guards?”
+
+“A handful of fighters, but none that could stand against an awakened. We held a night watch against wolves and the other dangers of the forest, but that was all. Our main defense was secrecy.”
+
+“Right...” Ameliah said, chewing on her lip as she again considered the site of the battle.
+
+I can probably do this...
+
+“What level are you?”
+
+Ameliah looked up sharply, seeing Dawnlight staring at her. The woman’s eyes were red, and her whole body was tight with anger beneath the pelt, but her voice didn’t tremble. It looked like she’d finally managed to regain some measure of control.
+
+Ameliah hesitated for a moment, then replied honestly. “Thirty-one.”
+
+“Wow!” Heartwood said, peeking out from her mother’s side.
+
+“There is hope,” Rush said, wrapping an arm around his family and squeezing them tight.
+
+Ameliah nodded. Thunder boomed, and she had to fight the urge to run out into it. She had to stay here until the storm broke, as she wasn’t about to leave these three undefended. Follow Trail would likely still be enough to pick up the remains of a track left by so many people, even with this much rain. Even if it couldn’t, there were other Tracking abilities she could use, and if not tracking, Divination. Her prey would not escape her.
+
+Clenching her fists, she reached for her skills.
+
+Please, let me get there in time.

@@ -1,0 +1,129 @@
+---
+id: 24e1450f-91fb-5f26-bbeb-54c10d47f33d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,425 - Emperor of Man"
+slug: 0105-chapter-1425-emperor-of-man
+partOf: defiance-of-the-fall
+position: 105
+ownLength: 2711
+unit: words
+publishedAt: 2026-04-23
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3310107/chapter-1425-emperor-of-man"
+royalRoadId: "3310107"
+---
+
+Emir maintained his vigil from the safe vantage of his cave mansion, his mental state as overcast as the sky. The issue wasn’t the clouds or the crackling lightning trapped within. The denizens of the Pesvati Rift were no strangers to the raw tribulations of the unbounded Heavens. They were saddled with immense Karmic debt since the day they were born, and the rift could only do so much to counteract the backlash.
+
+With the Heavens growing stronger from the Zenith’s approach, the rift would not last much longer. If everything worked as planned, it wouldn’t have to. No, not if. It had to work.
+
+The notion of retreating into the shadows after having a taste of the light was unthinkable. Emir couldn’t bear the thought of condemning his blood and future descendants to eke out a meager existence until the Sixth Pillar’s ascent. Emir would rather become kindling to the growing fire than return in failure. Thankfully, it hadn’t come to that, even with Fate working against them.
+
+There were agents of change who could ignore the trajectories imposed on reality, which was exactly what the Empire needed. If only the changes they brought were more predictable. Emir turned his attention to the neighboring peak, or the hollow in reality where it once stood. It had been utterly hidden from his perception, ensconced in Fuxi’s Void.
+
+Emir took out the small rosary he’d been carrying since birth. The rust-like patina on its surface brought both comfort and grief. Emerging from the rift had come at a great cost, despite their memories and Karma being sealed until reaching the Left Imperial Expanse. Thousands died bearing their Karmic debt, including his father.
+
+The cycle in the Heavens reset once again, with beginnings replacing the end. A month of the same had left Emir’s carefully laid plans in tatters. He wracked his brain, going over the ancient scriptures in search of guidance. Zachary Atwood was a variable that constantly left him stumped. While the Earth Sage was successfully brought into being, he wasn’t supposed to meddle like this. In this precarious time, any Karmic entanglements came with great ramifications.
+
+Emir wished he’d acted more decisively when they first met. He also had a feeling it wouldn’t have changed anything. The providence that man carried was as powerful as it was complex. The wrong action could lead to a lifetime of regret.
+
+There were no answers to be found in the scripture. The preparations were intentionally kept in a state of uncertainty to prevent the cosmos from closing the door. The emergency line of communication with the prince had failed. He was either preoccupied on the Bridge of Karma or unwilling to take charge of this mess. Emir had nowhere else to turn, forced to bear the weight of responsibility alone.
+
+To interfere or to sit idly by? Just what were the Earth Sage and the Margrave thinking by taking such an active role? Nearly half the halos remained, and the foundations had yet to be set. They must have seen an opportunity in Zachary Atwood’s ascent to Peak D-grade, but an opportunity for what? And was Emir part of their calculations?
+
+He shouldn’t be. They of the Pesvati Rift carried an additional layer of insulation against the forebearers. Past and present Karma could not be allowed to mix before the palace had time to emerge. They would taint each other and bring down calamity. At the same time, the forebearers had to be waiting for something. Why else would they trap Fuxi Halls in this costly cycle?
+
+A sudden eruption from the hidden mountain quelled the tempest. A majestic presence filled the world, imposing hushed compliance. The mountains seemed shorter, forced to bend their heads in deference. Unwilling clouds were pushed closer to the ground. It was as though the awakened consciousness refused to be placed below the Heavenly Dao.
+
+The Earth roused from ancient slumber, filling the mountain peaks with boundless power. The void had already been transformed by the hidden presence, gaining a depth it previously lacked. Faith so palpable it turned into golden rivers filled the valleys, bonding with the Void before it could be tainted by the cosmos.
+
+The Heavens were further suppressed by the ancient formation, not to mention the cultivators hiding on the peaks. Before this unquestionable authority, not even thoughts could survive. And yet, Emir’s mind worked just fine in the frozen landscape, all thanks to his natal mantra triggering on its own. Mysterious fluctuations stemming from the depths of the River of Time unsealed the rest of Emir’s body, and he gasped with realization as a flood of memories stored across countless generations was unsealed.
+
+The veil was lifted, and there was no more hesitation. The Heavens broke free just as Emir emerged from the cave, pelting him with rain and cutting gusts. Like a man possessed, Emir didn’t notice his impenetrable defenses coming undone as he knelt in the direction of the hidden mountain—or rather, knelt before the presence within.
+
+“This unfilial descendant greets the Emperor! The flame yet burns, the purpose yet remains!” Emir shouted as his mantra began pulling.
+
+Countless generations had suffered for the blood flowing through their veins. Countless generations had withstood the tribulations, bearing the Emperor’s Karma and sharing his burden. All for this day.
+
+“Glory Eternal!” Emir roared as the mantra extracted every drop of his blood, condensing it into its true form.
+
+It was the most beautiful thing Emir had ever seen. Looking at the drop was like looking at the Limitless Empire at the peak of its glory. It held limitless possibility and potential, transcending the chains of the Heavenly Dao. It was the nectar from which civilization could cast off the shackles of mortality, and the Heavens could not abide its existence.
+
+The tribulation clouds abruptly ceased their effort to escape the Margrave’s temporal maze. Heaven’s attention wasn’t at the hidden mountain either. Incomprehensible levels of fury were trained on the solitary drop of blood, and the clouds rapidly transcended anything Emir had seen before. Not even his ancestor had brought forth such madness when Defending his Dao.
+
+Emir would have been reduced to dust from a single clap of thunder if not for the mountains casting a protective halo of Imperial Fate. Unfortunately, he wasn’t destined to witness what came next. He was utterly spent, and his vision was already closing in. He smiled, relieved he never ended up barging into the neighboring mountain over the past month.
+
+Zachary Atwood was indeed a necessary agent of change. Only a trace of the Emperor’s image could unlock the Holy Blood. Only when together could the beacon be lit, heralding the return of the Left Imperial Palace. As for the still-growing calamity above, it was someone else’s problem. He’d earned some rest.
+
+Emir dreamt of holy rain nourishing parched lands, of an Emperor with three faces. He dreamt of the past and present being connected in a Gordian knot of Karma. He saw the utmost peak and the utmost chasm converging at one point, bringing ancient mandate to fruition. He saw the scales shift, Life and Death converging into Chaos.
+
+The rain was carried to the center of the Left Imperial Expanse through the veins of the Earth, imparting its blessings where it passed. The Heavens were in hot pursuit. They sensed a piece of themselves that had been hidden away for countless years and were desperate to reclaim it. If they could just seize the raindrop, they could track down its source.
+
+The raindrop burrowed deeper, guided by the Void. Pillars of lightning a thousand miles across carved a path through reality, intent on following it to the literal ends of the world. It was a battle of wills between the Heavens and Man, with neither side stepping down.
+
+------------------
+
+The hatred was boundless, bottomless. It was carved into the very fabric of reality, twisting causality and unraveling the natural order. The darkness continued without end as the Cosmos discarded neutrality in its battle for survival. With the Dao of Space collapsing, distance held no meaning. Space Gates crossing dimensions and vast distances kept opening up to provide passage to Heaven’s avengers.
+
+Men and beasts bared their fangs against the Empire’s last bastions, the great pivots of sin. Tears of the Cosmos had stained the invaders’ reasoning, leaving nothing but one inexorable truth: the Heavenly Dao would collapse if the enemy wasn’t stopped, taking the myriad paths of cultivation with it. Former enemies fought shoulder to shoulder in a desperate attempt to bring down the Mad Emperor and his evil Empire.
+
+Joanna couldn’t breathe. The Dao was drained, and the world’s energy had turned against her. What she already held struggled with all its might to escape, and what still existed around her was fast turning into lethal poison. She’d lost an arm, an eye, and there was no end to the attackers. Still, she fought.
+
+Her loyal soldiers had already fallen, struggling until the last gasp against the never-ending swarm of enemies. When their energy was drained, they sacrificed flesh to keep going. When flesh failed, their souls burned. And when the battlefield had wrung them dry of all else, their very essence was sacrificed to keep going just a little longer.
+
+Joanna’s spear stabbed the head of a winged tiger, puncturing the kingly rune on its forehead. The tiger unleashed a dying roar that shattered her eardrums, and a stealthy swordsman took the moment to strike. A flash of warmth appeared on Joanna’s throat as she narrowly avoided having her head cut off.
+
+A second swing was already upon her. Joanna had no choice but to release her weapon lodged in the tiger’s skull. She used the stump of her left arm to push the blade aside just before it reached its mark, forcing open the swordsman’s stance. Her remaining hand lunged forward, gouging out his eyes with a swipe. The man’s screams turned into a wet gurgle when a small dirk was pushed into his throat.
+
+Joanna stumbled forward. An arrow had pierced her thigh while she finished off her opponent. Red mud sloshed as she stomped hard onto the ground and righted herself, and she pried the sword from the dead man’s hands. It would have to suffice until she got her hands on another spear.
+
+She held no thoughts of backing down. Where would she even go? Carnage surrounded her in every direction, as it had for weeks. Joanna ignored the screams of her body that urged her to lie down and rest. To stop was to die, and her Emperor had ordered her to live. With every step she took, every breath she endured, Joanna felt herself drawing closer to an answer.
+
+It took Joanna a moment to realize there was no enemy blocking her path. She looked around with bloodshot eyes, realizing the stellar battlefield and the Imperial Army were fading away. The enemies didn’t get to enjoy such gentle treatment. They directly melted, joining together into a sea of blood and resentment.
+
+Joanna silently watched as her master rose from the center of the pool. Indra Eyler didn’t explain why she’d cut the trial short. Her gaze was distant, head turned in the direction of the Hollow Court. Joanna could tell since she’d often done the same during her few moments of respite since arriving at the Indomitable Court.
+
+“Don’t blame me, child,” the Godking eventually said. “This is the doing of the one you so stubbornly cling to.”
+
+“What?” Joanna said, looking up at her master with alarm. What had Zac done this time? “I’m sure it was uninten—"
+
+“Nine courts, nine undertakings. The tasks were not difficult; they were impossible. That didn’t stop us. If Cosmos couldn’t contain our goals, then we’d change the Cosmos,” Indra said, turning back to Joanna. “The Indomitable Court’s mission is both the easiest and hardest. We fight. We cut down the enemies of the Empire. Even if that enemy is the Heavens themselves.”
+
+“What does that—"
+
+“Child, bear witness. This spear is why I was sent here, away from the Emperor’s side at such a critical time,” Indra said as the sea of gore condensed into a bloody spear.
+
+Joanna shuddered at the intent gathered in the spear. It didn’t just hold the resentment of a billion fallen enemies; it embodied the great aspirations of the Limitless Empire. Glory built on a foundation of conflict. Breaking the status quo through bloodshed.
+
+“After suppressing the Eight Directions and opening your inner gates, you need to excavate your True Extremity. This is the Extremity of Man,” Indra declared as power built until nothing else could exist. “One day you will remember this spear of mine. At that time, prepare yourself, because it means Armageddon has arrived.”
+
+-------------
+
+Discussions died down. Those waiting on the shores solemnly observed the Left Imperial Expanse. Its calm exterior was hiding a great displacement of Heavenly Dao, and change meant opportunity. Deducing the progress of the young was but a pastime before the real game unfolded, and the first signs were appearing well ahead of schedule. Even those hidden in the deepest folds of reality had inched toward the surface in anticipation of the unexpected potential.
+
+Blessed Fate inwardly shook his head upon calculating Karma. The scent of Eternity coming from the Ultom Courts was an irresistible lure; it was unlikely the gathered would take the bait. Potential or not, the road was much too narrow. The Left Imperial Palace had yet to truly emerge, and it remained protected by the ancient formations. Ultom’s transcendence could only act as a roadmap to its courts. They still had to rely on their own strength to get there.
+
+The disruption caused no ripples in Blessed Fate’s heart. As patient as the old friends in the shadows were, could they compare to the Buddhist Sangha? The Era of Order held the greatest potential thus far, but that was it. Nirvana was bound to wait at the Terminus, whether it was today or tomorrow. Not even Laondio Evrodok could upend the Eternal Dharma.
+
+Blessed Fate was more interested in the hint of familiarity hidden in the complex tangle of ancient Karma. It appearing everywhere he turned was a sign from the Cosmos, yet the message remained unclear.
+
+“Curious, indeed,” Blessed Fate said with a smile, turning to his neighbor. “Does benefactor have any insights for this poor monk?”
+
+“When have I ever?” the reticent fisherman grunted, his hood failing to hide the subtle scowl on his face.
+
+A distant gong, only heard by Blessed Fate, drowned out the Stillsun ancestor’s jab. Buddha turned, and Karma suddenly pierced the veil. Realization shattered the tranquility of Blessed Fate’s Dao Heart, triggering a storm so great it almost disintegrated his avatar. He finally remembered. After all these years, he finally understood the cause of his ongoing discomfort.
+
+The Peak of Progress, the Emperor of Man! There was something terribly wrong with the First Mountain.
+
+Sending back a warning proved futile. His thoughts were reduced to cosmic dust, his will eroded by the hidden hand. A billion incarnations were born with a thought, spread across every corner of the Cosmos. Each carried a seed of taboo knowledge in a desperate attempt to protect the truth. Every single one was washed away by an intractable power that only Buddha could endure.
+
+“Something wrong?” a devilish laugh from his left became another barb in his heart.
+
+“Namo Amituofo,” Blessed Fate chanted. It proved futile.
+
+A sanguine pillar erupted in the continent’s absolute south, silencing the storm and errant thoughts. Transcendent barriers rose along the shoreline to protect against the extreme sharpness that overwhelmed even the System’s containment. The Cosmos stilled, the waters stilled, and the Heart stilled.
+
+The window of opportunity had passed. As expected, the old friends hidden in the shadows chose to stay their hands. Stepping out now would make you a target of both Heavens and Earth. They’d remained patient for so long; they could wait a while longer. Blessed Fate was the same. What would be, would be.
+
+And yet, he couldn’t cast off the shadow of his heart.
+
+‘Laondio Evrodok, what must I do to erase this shadow in my Heart?’

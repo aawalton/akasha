@@ -1,0 +1,135 @@
+---
+id: 1e1d63fc-1841-5985-a362-125cda1104c0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,451 - Invasion"
+slug: 0132-chapter-1451-invasion
+partOf: defiance-of-the-fall
+position: 132
+ownLength: 3198
+unit: words
+publishedAt: 2026-08-25
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3864266/chapter-1451-invasion"
+royalRoadId: "3864266"
+---
+
+Four days had passed since they felled the C-grade Rapture Beast. It had been butchered for valuable parts by Zac, with almost grotesque efficiency. The remains were discarded from the platform, yet time and cleansing spells had failed to fully rid the halls of the stench of corrupted death. The malodor had reached the point where it manifested into something resembling a curse.
+
+Tendrils of decay tried to burrow into Tavza’s skin until she had no choice but to maintain a blockade with her personal Abyss. It was nothing new—what unexplored ruin wasn’t accompanied by some form of unpleasantness? The stench didn’t slow her down as she roved over the intimately familiar patterns across the floor, matching them with the schematics in her mind.
+
+She was already on her fifth review, and it was no surprise she found the preparations impeccable. Checking the time once more, she forced herself into nervous stillness until the communication crystal finally vibrated. She grabbed it, eagerness forcing out words the second a connection was established.
+
+“How’s your situation? Everything good?”
+
+‘How… it be? These goddamn… everywhere!’ Zachary Atwood’s voice emerged from the other side. Already deep inside the observatory, not even her reinforced communicator was immune to the interference of profound death. ‘I see it. 150 seconds, on the dot.’
+
+They both repeated the timing three times to make sure they were in sync. Shortly after, the link was cut as her companion continued toward the observatory’s innermost part. Counting the seconds, Tavza brought out a large vase. It held all the blood of the C-grade Beast that had made the Rapture Curtain’s control station its home.
+
+Dealing with the Beast Emperor guarding the canopy’s control station had been the most important part of their plan. Forcing it to flee and gaining access wasn’t enough. It had to be killed because its blood was a necessary reagent for the repairs. Its aura had permeated the whole building after its prolonged stay, making its blood the perfect—and only possible—ingredient to draw the array core.
+
+Streams of blood rushed out of the vase, landing on recently mended surfaces along already outlined paths. It took just under a minute to draw thousands of intricate runes and intersecting paths, at which point it looked like Tavza was caught in the middle of a bloody web. Tavza channeled her Miasma through the diagram a few times and made some adjustments according to the feedback.
+
+After confirming the time, Tavza decisively activated the main console. She lightly exhaled as the building hummed, sending a signal that passed from house to house. Soon enough, a wave of specific death had circumnavigated the whole city, triggering a massive shift. Enormous amounts of death were dragged back from the pyramids and disk alike to fuel the curtain’s activation.
+
+An uncountable number of runes poured out of long-dormant buildings, imparting new orders to the observatory. With most of the control damaged beyond salvation, Tavza had to frantically input instructions to manually control the activation. The huge sphere shifted direction with a groan, causing the open slit to face the sky.
+
+The sudden movement made a storm of death sweep through the streets. The Rapture Beasts roared with glee at the unexpected infusion, unaware it would be their last meal. Tavza glanced out a nearby window, not a ripple in her expression as more and more runes failed before reaching the sphere.
+
+The startup was a success, and the canopy was closing. That didn’t mean her role was over. The number of runes that managed to enter the observatory would decide how long the Rapture Curtain would suppress the Lord’s eye. Surveying the fault lines, Tavza constantly rerouted the vast amounts of energy coursing through the city to avoid a complete rupture.
+
+A sudden fluctuation of energy made Tavza turn her head with a frown, her heart sinking when her alterations had no effect. Had she missed a critical area during her survey? Unless it was handled correctly, it risked shutting down a whole quarter of the array. She needed to switch to a secondary—
+
+The carefully laid backup plan went out the window when the fluctuations erupted with power. Then came a disruptive deluge of Life that was quickly snuffed out by the artificial Death. Nevertheless, the environment failed to fully quench its flickering flame. And at its center, a golden tear suddenly appeared. It widened to a five-meter passage in the blink of an eye, long before Tavza could think of a counter.
+
+One after another, invaders appeared through the shimmering wall.
+
+A single glance was all that Tavza needed to understand the situation. In the group of over thirty cultivators, there were six undead Sealbearers. Seeing a mixed alliance was exceedingly rare on the outside, which made the Atwood Empire such an anomaly. The insignias most of the dreamers wore on their robes made the situation feel all the more incongruous.
+
+Tavza only recognized two of the undead. The first was an Izh’Rak Reaver named Malorus, a member of the White Sky Phalanx. Seeing him was expected, but spotting the Draugr next to him was not. Tavza was infuriated at seeing Usoro Kavriel rubbing shoulders with the enemy. Even if it was only a member of impure blood with a tenuous connection to the Abyssal Shores, it was still a blatant act of racial treason.
+
+Beyond the two was an Eidolon, a Corpselord, and two Revenants. In the group, the Reaver was clearly the strongest, though a notch lower in both bloodline and strength than Kator at his peak. The mottled group was obviously part of the rebellion, replacements sent to complete the mission after confirming Kator’s death.
+
+It wasn’t a force that could threaten the mission, so it was no wonder they’d looked outside the empire for helpers. Surprisingly, four of the living wore the insignias of the Phusudor Republic. Nearly a dozen more belonged to subordinate forces of the Phusudor Republic Alliance, cultivators who’d spent their lives resisting the Zi Branch’s crusade against the living.
+
+Tavza even recognized one of the followers. It was Ventus Kalavan, the Numerologist who’d been part of Zachary’s team until the fallout inside the mousetrap. Judging by his pallid expression, Ventus wasn’t here willingly, and he’d likely been forced to peer into Heavenly Secrets to ensure the timing was right.
+
+As for the rest, they appeared to be a mottled group of Sealbearers, most of them of middling strength. Tavza guessed the alliance wasn’t confident in facing her and Zac’s combined might alone, so they’d recruited any Sealbearer willing to risk their life for treasure.
+
+Seeing that all three factions of the Phusudor Republic were represented, Tavza knew the alliance couldn’t be broken with a few words or a bribe. Their elders must have already negotiated an agreement on the outside, and the contents weren’t difficult to guess. The rebels were trading assistance for peace.
+
+The Phusudor Republic and its allies were spending a fortune in resources and manpower on resisting the Undead Empire every year. And yet, they must be painfully aware that it wasn’t a war they could win. They were but a B-grade faction facing one of the strongest A-grade forces in the Multiverse.
+
+The only reason the Phusudor Alliance hadn’t been quashed was their remote location, far from the Empire Heartlands. Their territory wasn’t something that the Undead Empire particularly needed. The war was partly fought to replenish bodies and resources, and partly because of the Primo’s Commandments.
+
+If the Primo fell and a new faction seized power, there’d be little to fight at all. Beyond empty promises, Tavza guessed the insurrectionists had sworn a binding oath to return territory and call home the Zi Branch’s forces if the Phusudor dynasties helped secure the Primo’s eye. That meant, at least until the treasure was secure, their cooperation would remain ironclad.
+
+Tavza sighed with exhaustion at the group’s sudden appearance. She wasn’t surprised to see enemies arrive at the eleventh hour. Conflict was Heaven’s mandate, and it wasn’t like the System to allow the seizure of a supreme treasure without proof of worthiness. She was, however, surprised by how many people their enemies had managed to rally, and there was a problem with where they came from.
+
+Influenced by Zac’s sudden appearance, they’d allotted some time over the past eight days to boobytrap the four pyramids. If something, or rather someone, passed through the temporary gates as the pyramids activated to release the pressure, the trap would spring. The array would be disrupted, immediately closing the path.
+
+Those measures proved to be a waste of time since the enemy appeared in the middle of the city. Judging by the dense Life-attuned energy seeping through the barrier, the passage should lead somewhere inside Ascension Gate.
+
+Ultimately, the failure couldn’t be blamed on either her or her companion's lack of foresight. There was simply too little time to uncover all the pertinent information in the short window since they reached the Hollow Court. Similarly, there were too many buildings surrounding the Rapture Observatory. Even with her head start, she’d barely managed to pinpoint the buildings critical for the mission, leaving the rest largely unexplored.
+
+Relying on the local fauna to reject the incursion of intruders wasn’t an option. For one, the ambient death was rapidly decreasing as a result of the Rapture Curtain closing. The Rapture Beasts had just fed during the surge, and they were now growing languid to conserve energy. By the time they noticed things were different this time, it would already be too late.
+
+Seeing the group fly toward the Rapture Curtain’s closing gap, Tavza shrouded herself in the Abyss before she leapt through the window. History didn’t wait to be written, and there was no time to come up with an intricate plan. Despite being vastly outnumbered, despite knowing the group had undoubtedly prepared countermeasures, there was no hesitation.
+
+At the very least, she needed to hold some of them back. As for the rest, she would have to rely on her companion’s unmatched talent in coming out ahead amidst the chaos. After constantly second-guessing her decision over the past week, she was suddenly immensely relieved to have an anomaly like Zac stay right by the Lord’s eye.
+
+Tavza wove esoteric patterns with her hands while activating [Last Banquet]. The War Regalia’s layers of engraved fabric turned her into a mobile fortress. The gown alone would block physical and spiritual ambushes. Adding half a dozen defensive relics and her ancestor’s protective mark, she could focus on offense without reservation.
+
+The darkness of the Rapture Observatory grew deeper, and a flood of murky water swallowed everything to form a lake atop the ancient city. She’d interlaced her Bloodline Talent with a domain ability, making it twice as effective and harder to disrupt. Still not satisfied, she shattered the leathery bangle on her left wrist.
+
+Huge stalks of ancient seaweed rose in the waters, stabilizing it further. More importantly, they created a dense barrier blocking the path into the Rapture Observatory. With the arena set up, Tavza activated [Origin Font], boosting her attributes by 20%, then [Fallmarsh Grasp], borrowing strength from the Grand Dao. In this location, it meant a drastic empowerment to her Death-attuned Dao.
+
+The large group had clearly been waiting for an ambush, yet they still froze as the Abyss robbed them of their senses. At that point, Tavza had finished her preparations and activated one of her few purely offensive skills. Dozens of hulking figures appeared in the dark waters she’d conjured, swiftly swimming toward the group.
+
+Unfortunately, her targets had done their homework. The Izh’Rak Reaver took out a pitch-black pearl. It released a pulse, creating a friendly Death-attuned domain to compete with hers. The treasure couldn’t push back Tavza’s water, but it did manage to wrest back some of the group’s senses.
+
+A huge maw with rows of serrated fangs was already upon the Reaver at that point, but he simply hunched over and let himself be bitten. His confidence in his Warbones proved costly. Malorus groaned in agony as the teeth of the conjured deep-sea monster pierced his protective shell. Meanwhile, more beasts lunged at the group with voracious hunger.
+
+Tavza added to the pressure by unleashing a series of deathly spears holding the full weight of her cultivation, forcing the whole squad to form a defensive circle. Radiant lights and razor-sharp blades struck at the creatures of the Abyss, yet only two fell under the concentrated fire.
+
+Tavza was still disappointed with her performance. She’d only managed to kill four of the cannon fodder and wound a few more. Apart from the Reaver she’d put most mental effort into suppressing, all the core personnel remained mostly unscathed. The embarrassing scene made her once more regret not gaining more experience during the intersector war. She had plenty of experience sparring with talented foes, but large-scale enactments were outside her field of expertise.
+
+“It’s Tavza An’Azol! Don’t hold back!” the spectral screeched as she conjured a chained head with four mouths.
+
+All its mouths opened in silent screams of agony that caused Tavza’s minions to momentarily freeze up. Tavza also felt a slight pressure on her Soul Aperture, though her defensive layers blocked the area attack before it reached the defensive perimeter of her skills. Such a display of power could only come at the expense of a valuable medium. It couldn’t damage her skills, but it bought more time for the quartet from the Phusudor Republic, who clearly posed the greatest threat.
+
+Tavza couldn’t see what they were up to, but she still had a bad feeling. The gemstone on Tavza’s necklace snapped, releasing five drops of pitch-black water. It was true water brought from the depths of the Abyssal Lake. When it joined the waters, the lake became real. With a flood of true Abyssal Death infusing the fishes, the pressure immediately mounted.
+
+Life-saving treasures and talismans were fired off in rapid order, yet three more died in short order. It would have been one more, but the ruthless cultivator suddenly grabbed the man behind him and threw him into the mouth of the beast. Ventus Kalavan released a scream full of fury and despair as he was swallowed whole. The Phusudor elites didn’t spare him a glance as they were busy finishing up their preparations.
+
+“Eight Paths of Righteousness!” one of them shouted while drawing a wide circle with a Ruyi made from jade.
+
+The Ruyi radiated intense waves of Scholarly Energy, an imbuement that couldn’t possibly come from a cultivator less than a hundred years old. The Daoist tool must have been interred inside an orthodox faction for eons to gain such a refined aura of righteousness. Such a scepter wasn’t something the Phusudor Alliance could produce, meaning that even the Grand Unity Hall had a hand in this scheme.
+
+Despite its grand traditions and consecrated strength, it was facing the full extent of Tavza’s power. The Ruyi cracked and rotted into mud reeking of Abyssal Death just as it finished the circle, but it had achieved its goal. A gargantuan bagua appeared in the sky, resisting both Apocalyptic and Abyssal Death as if it had become a fixture in reality.
+
+Two more items were brought out to empower the bagua. The first was a copper ruler covered in ancient talismans. Apart from radiating the intense righteousness of Legalism, it imposed a certain order on its surroundings. The wall of unbreakable seaweed was forced to align itself along the truths conveyed by the bagua, which incidentally opened a path to the observatory.
+
+And yet, it was the second item that made Tavza draw a deep breath in shock. It was an azure sapphire shimmering with ancient starlight.
+
+‘Such a large piece of [Eion Starsource]!’ Tavza stared at the sapphire with alarm.
+
+The Abyssal Shores were certain that the last of the veins had been destroyed over a hundred million years ago, and the involved parties had been silenced. To think that the White Sky Phalanx had not only managed to uncover their secret but even sourced such a large piece without their notice. It was a reminder of the danger in having too great a reliance on a single resource.
+
+Tavza felt her connection to the Abyss drastically weaken under the sapphire’s influence, and the drops of true Abyssal Water withered too. It didn’t matter that the crystal’s grade was lower than the water’s. [Eion Starsource]was one of the few materials in the universe that had a directly suppressive effect on the Abyssal Lake and their bloodlines.
+
+Half her summons were destroyed in the blink of an eye, yet Tavza remained unruffled. If these people thought some starsource was enough to do her in, they were in for a rude awakening. No matter how much they’d prepared for today’s encounter, there were some things they could not possibly have anticipated.
+
+The three gemstones hidden within the waters behind her stirred. Inside each was a pitch-black grimoire reeking of death. Tavza briefly wondered what kind of expression that guy would make if he knew the truth. The value of the treasures that went into the refinement of Mox’s grimoires was staggering. The treasures she’d sourced from the observatory alone far surpassed what they’d collected since Zac’s arrival.
+
+The Void inside Mox’s grimoires clashed with the Era’s demise, and the Abyss became the catalyst. All ended; all returned to the origin. Death reverted into Chaos. The group didn’t get the chance to react before a grey tear in reality opened before them. From it poured a storm of chaotic destruction that distorted defenses and dismantled flesh. Five cultivators immediately died, and at least a dozen more were saddled with festering wounds.
+
+Most importantly, the Phusudor elite that controlled the bagua was consumed, killing him outright. The cosmic chart collapsed, yet the fallout made Tavza’s eyes widen in surprise. Instead of being erased by her Death as she had hoped, the Daoist scripture gained something akin to sacrificial strength as it rained down. Before she knew it, the bagua had reformed around her, creating an impassable cage.
+
+“Did he know he was bait?” Tavza muttered as she touched the wall.
+
+It was a seal of absolute separation. She could no longer attack, but neither could the alliance target her. She might be able to destroy it if she went all out, but what was the point? Even if she succeeded, she’d be too exhausted to accomplish anything else. Not to mention the storm brewing within her. Just keeping the chaos contained demanded much of her attention.
+
+Having successfully refined Mox’s grimoires didn’t mean that using them was safe. Beyond the ingrained resentment, there were inherent risks to borrowing the power of Chaos. Since she was completely safe, she might as well deal with the internal danger before worrying about the threat outside. Besides, such a powerful banishment couldn’t possibly last very long on its own.
+
+Tavza steadily gazed toward the closing gap as the small army poured inside. Beyond two people stationed to maintain the prison, the rest rushed into the observatory before the curtain could close.
+
+“It’s up to you now.”

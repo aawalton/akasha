@@ -1,0 +1,415 @@
+---
+id: aa590eb3-acb5-5dc0-8914-04d8928d75ec
+page-type-slug: story-chapter-royal-road
+title: "121: Restraint"
+slug: 0121-121-restraint
+partOf: delve
+position: 121
+ownLength: 6581
+unit: words
+publishedAt: 2020-11-15
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/585212/121-restraint"
+royalRoadId: "585212"
+---
+
+Samson sat cross-legged atop his cloak, slowly going over his sword with an oil-soaked rag. The blade was pristine. Rain’s aura had dealt with the blood of the third turtle they’d faced, but it had removed the protective coating as well. The durability enchantment worked into the metal would slow the formation of rust, but it wouldn’t stop it entirely. Even had Samson owned an indestructible sword of legend, he would still have taken the time to care for the blade. Being a swordsman wasn’t just about what kind of weapon you used. It was a way of life.
+
+Carefully, Samson slipped the blade back into its sheath and stood. He belted the weapon on with no further ceremony, tucking the rag into a pocket. He wasn’t so far-gone down the path of the sword that he’d named the blade or began to think about it as the seat of the soul or some other such foolishness. In the end, it was a tool, nothing more. He maintained it as any craftsman would, just as he maintained his own body.
+
+Stretching, he stepped off of his cloak, feeling his boot slip slightly on the treacherous ice. He adapted smoothly, falling into the first stance of Fifth-Sparrow. The instinct given to him by the form’s kata tried to guide his hand to the hilt of his sword, but he ignored it. Ignoring that instinct was getting easier and easier to do as he practiced with the skill. He’d been training in this style since he was a boy, and he knew all thirteen forms so well that the actual kata was more of a distraction than an aid. He wouldn’t have taken Sparrow at all, had it not been a prerequisite for Egret. The higher katas contained motions that were simply impossible for a mundane swordsman. First-Egret was already proving a significant hurdle for him, and not one that he would attempt to pass here. This was just to kill time and keep his body limber.
+
+Samson moved through the familiar motions of the fifth form, focusing on the placement of his feet. Sparrow taught fast, darting movements and sudden reversals, which were made particularly difficult by the ice. He moved slowly, reflecting on the dissonance between his muscle memory and the kata’s guidance. With each step, the skill urged him to adjust his footing, to draw his sword, to pivot and bring it down. It was wrong. From his long years of practice, he knew better. On ice, you could not place your balance in the same way. You had to adapt, had to alter the movements.
+
+Minutes passed as he practiced, feeling the others’ eyes watching him as they chatted on the other side of the room where they were resting. He tuned them out, everything fading but his perception of his balance.
+
+Eventually, Samson reached the seventh movement of Fifth-Sparrow—a sudden reversal, then a leap followed by a spiraling upward slash meant to surprise a pursuer. It was a rather tricky movement, even on solid footing. It had given him a lot of trouble as a child. As he attempted it now, his foot slipped out from under him, and despite his efforts to compensate, he was going down. There was nothing he could do to stop it.
+
+That simply meant that he shouldn’t try.
+
+Samson flung himself at the ground, landing in a roll. As the momentum of his fall threw his legs over his head, he executed the second movement of Eighth-Sparrow, pushing off the ground as hard as he could. His palms found no traction on the ice, but his shove gave him the height he needed. Bowing to the instinct of the kata this time, he whipped his legs down in a vicious heel-kick toward an invisible enemy. The movement stabilized his spin, and he managed to get his feet under him before he hit the ground. He slid to a stop in the low stance of Eighth-Sparrow, ready to continue the fight.
+
+“Wow,” Rain said, sounding impressed. “Sick flip, dude.”
+
+Samson smiled, then rose out of his form and assumed a normal standing posture. “Thank you.” When it came to the things Rain said, it was best to just pay attention to his tone.
+
+“That was still Sparrow Kata, right?”
+
+Samson nodded. “Fifth form, seventh movement, then eighth form, second.”
+
+“Ah, obviously,” Rain said, nodding. “How could I miss that?”
+
+Samson smiled, dusting some crushed ice from his gambeson. The stiff fabric limited his movements slightly, but it was worth it for the protection. “You still serious about wanting to learn?” he asked, nodding to the poor excuse for a sword at Rain’s waist.
+
+“I want to learn everything,” Rain said, laughing. He touched the sword, then shrugged. “Just not enough hours in the day, you know? I probably shouldn’t have even brought this thing, but I figured it would be good to have a spare in case someone else’s broke.”
+
+Samson nodded. “You should get yourself a better sword. Tallheart would make you one if you asked, yes?”
+
+“Yeah, he probably would,” Rain said with a shrug, “There’s no real point if I can’t use it, though. I don’t want to waste his time or resources. By the way, do you think you could keep running those classes you were doing back in Fel Sadanis? Maybe we save time for it each night?”
+
+Samson nodded. “I was going to suggest that.”
+
+“Great,” Rain said, smiling. “You’ll have one student, at least. Anyway, I came over to let you know that we’re almost ready to go down. Do you need more time?”
+
+Samson shook his head. “No. I’m ready, but are you sure the others don’t need a longer rest?” He glanced at Jamus. The Arcane Mage clearly had a headache from the way he was rubbing at his temples. Everyone else was watching them, their own conversation having died away. Val, he noticed, was missing, likely scouting the way ahead.
+
+Rain shrugged. “At this point, it’s press on until the end, or stop for the night. I, for one, would prefer to have a real supper.”
+
+“We’re fine,” called Lyn, slapping Jamus on the shoulder. “We’ve been ready for a while. We just didn’t want to interrupt a man while he was rubbing his sword.”
+
+Carten barked out a laugh at her crude innuendo. Samson frowned, his estimation of his fellow noble dropping by several degrees. He ignored them both, still addressing Rain. “And you? You’ve been refilling everyone’s mana with Essence Well. Shouldn’t you be in an even worse state than they are?”
+
+Rain spread his hands. “Dynamo. What can I say?”
+
+“You really don’t feel soulstrain at all, do you?” Samson asked.
+
+“Oh, I do,” Rain said, “Just not for mana use.” He paused. “Well, not for any sane level, anyway.”
+
+Samson snorted. “Should I even ask what you consider to be an insane level?”
+
+Rain grinned. “Probably not. Anyway, since you’re ready, let’s go.”
+
+“Any idea what’s down there?” Samson asked.
+
+Rain shrugged. “Detection says it’s about three hundred steps down, then there’s a room about half the size of this one, with a door into what might be a bigger room or a really wide hallway. I couldn’t get much more than that. The spiral really chews into the range of Detection.”
+
+Samson snorted. “Three hundred steps, you said? Joy. Let me get my cloak.”
+
+Rain waited as Samson packed up, then the two of them proceeded to the alcove that had appeared once they’d cleared the room, joining the others. As in the mill above, there was a spiraling staircase set into the floor.
+
+“Val already went down?” he asked, turning to Rain.
+
+“No,” Rain said with a sigh. “He thinks he’s being sneaky. He’s right next to you.”
+
+“Really?” Samson said, looking to the indicated spot. Rain had mentioned that Val was capable of invisibility during the briefing before they’d entered the lair, but he hadn’t expected it to be so complete. “That is impressive. I can’t tell you’re there at all.”
+
+“Thanks,” Val said. “Okay, follow me.”
+
+Tahir jumped, edging away from the source of the voice. The others barely reacted.
+
+“Everyone, be careful,” Rain said, addressing the room. “If anyone slips, we’ll all go down. I can’t believe I forgot my climbing stuff in my pack outside. Had I known there weren’t going to be any damn railings…” He sighed, then shook his head.
+
+Samson had been listening with half an ear, focused on the floor as he tracked Val by the sound of his footsteps and the faintest shimmer of motion in the air as he moved. Hmm. The illusion isn’t as flawless when he’s moving. Still, I don’t think I’d notice if I wasn’t looking for it. He glanced at the party display, checking the white bar that represented Val’s mana. If it was dropping, it was doing so quite slowly.
+
+“Samson, go next,” Rain said.
+
+Samson nodded, then began his descent, following Val’s footsteps and quickly dropping below the level of the floor. Behind him, Rain continued. “I’m third. After that, Jamus, Lyn, Mlem, then Tahir. Carten has the rear guard. Carten, don’t you dare slip. You’ll crush us all.”
+
+“S’why I shoulda gone first,” Carten said, his voice following Samson down the stairs.
+
+“Everyone, quietly, please,” Rain said. Samson heard him start his descent. “Come on.”
+
+The party proceeded down the stairs for a few careful minutes, moving in relative silence. Samson counted the steps, and around the time he reached two-fifty, a hiss from Val brought him to a stop. “The wall stops, but the stairs continue. It’s a room, just like you said, Rain. No monsters. And yes, no railing.”
+
+“Understood, Val,” Rain said, whispering from above. “Keep going. Carefully.”
+
+Samson closed his mouth, having opened it, intent on relaying the message. He’s got good hearing.
+
+True to Val’s word, the walls ended soon, the stairwell opening up into a cylindrical room. The walls were smooth gray stone, as was the floor. Everything was lit dimly by the stairwell’s blue glow, the magical ice forming a pillar in the center of the room as the stairs spiraled down to the floor. There was one doorway, through which Samson could see a few stone steps leading down before they emptied out onto snowy ground.
+
+Despite his confidence in his balance, Samson slowed his descent even further. By the time he had reached the ground, Val was already at the door, judging from the position of his voice.
+
+“The door leads to some sort of huge cavern,” the Light Mage said, a curious note in his voice. “I can’t see the ceiling or the walls. The ground is snow, but it just stops suddenly. There’s a barrier. It’s hard to describe. Like a ripple in the air or something. You’d better just come look.”
+
+“Don’t go out, Val,” Rain said from the stairs.
+
+“Yeah, yeah,” Val said. Samson blinked as Val popped into view, peering through the dark doorway. He looked back over his shoulder, then motioned to Samson.
+
+Samson joined him as the others made their careful way to the floor. Through the door, he saw hard-packed snow, lit as if by the moon. The light faded away a few dozen stride from the doorway. Looking closer, he noticed a faint shimmer in the air near the demarcation between light and dark. That must be the barrier.
+
+It took a few minutes for the rest of the group to reach the ground, fortunately doing so without incident. Once everyone was ready, Rain had Carten lead the way through the door and out into the cavern.
+
+Samson drew his sword as he stepped down onto the snow. Rain would have told them if there had been any monsters, but the lair had surprised them before. The air was cold and completely dead, with not even a hint of wind.
+
+“What…?” Mlem said, sounding startled. Samson glanced at him, seeing that he was staring back the way they’d come. Almost immediately, he felt his heart skip a beat as he realized what the man was looking at.
+
+How…?
+
+The cylindrical room with the stairwell wasn’t set into the wall of the cavern as he’d assumed. Neither was it the bottom-floor of a tower or something of that nature. The walls of the building ended abruptly, no more than half a stride above the doorway. It was a single story, for all that they’d descended much, much further than that. The gray, featureless stone was lit by the same sourceless light as the circle of snow surrounding it.
+
+“There’s definitely something Arcane about this lair, no matter what aspect it claims to be,” Jamus said lightly.
+
+“Ya don’t say?” Carten said, staring straight up. He looked down, then spun, gesturing with a shield. “What’s with the…whatever it is?”
+
+“A barrier, clearly, but I have no idea what it does,” Rain said. “Detection says it isn’t there. I just sense snow on the other side.” He paused, then shrugged. “Regular snow, too, not the magical stuff like before. There’s dirt underneath.” He pointed out at the darkness. “There, anyone else see that?”
+
+Samson followed his finger but saw nothing.
+
+“Light,” Val said. “Very faint.”
+
+“Send your Lunar Orb out there, Val,” Rain said, lowering his arm. “Everyone, stay focused. Something might happen when it passes through the barrier.”
+
+Samson adjusted his grip on his sword as a glowing ball of white light appeared. The spell’s light wasn’t blocked by the odd barrier, revealing more packed snow on the other side, fading into darkness. After a moment, Val sent the orb through and out into the blackness. Nothing happened as it passed through the magical curtain.
+
+The party watched silently for almost a minute as the orb traveled, revealing nothing but more featureless snow and the occasional rock or fragment of ice. Samson sheathed his sword, as it was clear that nothing was coming, though he kept his hand on the hilt.
+
+“Max range,” Val finally said. “One thousand stride.”
+
+“Shit,” Rain said. “That’s a long walk. There’s definitely something out there, though.”
+
+“I can’t see anything,” Lyn said. “Where am I supposed to be looking?”
+
+“Past my light, about twice that distance again, maybe,” Val said, pointing.
+
+“Are you sure?” Mlem asked. “I can’t see anything, either.”
+
+Rain shook his head. “It’s there. What’s your perception?”
+
+Mlem hesitated. “I have a hearing boost,” he finally said, glancing from Rain to Val. “You two have enhanced vision?”
+
+“Yes. General perception, not just vision,” Rain said.
+
+Lyn whistled. “Isn’t that supposed to be rare? I’ve never heard of equipment giving a general perception boost, short of silverplate stuff. Does it work on touch too? What about smell?”
+
+Rain shrugged but didn’t elaborate.
+
+Samson frowned, considering. I believe there is a skill that boosts perception, but I don’t find it likely that they both took it. An accolade? He glanced at Jamus and Carten, who both seemed to be staring at the same spot in the darkness. Them too? Ah, the darkness lair. That makes sense. Lucky. Still, if it’s out there… Samson squinted. “Dismiss the light please, Val,” he said, then moved toward the barrier cautiously.
+
+“Careful, Samson,” Rain said, his metal boots crunching on the snow as he followed. “Don’t touch it.”
+
+Samson nodded, stopping a step away from the distortion in the air. Val’s light vanished. With the lit snow now behind him, Samson waited for his eyes to adjust. Very faintly in the distance, he began to make out one spot that might have been just a bit brighter than the rest of the inky darkness. “It’s there,” he said after another moment. “Faint, but there.”
+
+“Well, looks like we’ve got some walkin’ ta do,” Carten said, crunching loudly up to the barrier. “Startin’ ta not like this lair.”
+
+“Starting?” Jamus asked. “The reanimated villagers begging us to kill them wasn’t enough to cement your opinion?”
+
+“Don’t drop your guard,” Rain said sternly. He reached into a pouch and removed a rock, motioning them back. “Get ready.”
+
+Samson nodded, retreating from the barrier. Rain tossed the rock through, and it vanished into the darkness. Val summoned his light again and sent it out, revealing the rock resting atop the packed snow. He brought it back to rest near his head after a moment, though he didn’t dismiss it.
+
+“Carten,” Rain said. Carten nodded, walking up to the barrier. He waved the edge of his shield through it, then, when nothing happened, stepped through.
+
+“Hoahh!” he yelled, stopping dead in his tracks.
+
+“What is it, Carten?”
+
+“S’bloody brisk!” Carten said, a plume of frost billowing from his mouth.
+
+“Dangerous?” Rain asked. Samson’s eyes flicked to Carten’s health, but it hadn’t dropped.
+
+“Fer me? No,” Carten said with a shrug. “Fer you lot? No idea.”
+
+“Okay,” Rain said. “I’m coming through.” He stepped through the barrier, then cursed. “Shit, that’s cold!”
+
+“Warned ya,” Carten said.
+
+“Is this the challenge, then?” Tahir asked. “Make it to the distant light without freezing to death?”
+
+“That can’t be all,” Jamus said, walking through the barrier. “Oooh!” he gasped, desperately clutching at his cloak. “You weren’t kidding, Carten!”
+
+“Hang on a second, the rest of you,” Rain said, motioning them back. He flipped up his visor, spat, then quickly flipped it back down again and bent over. “I’ve always wanted to try that. It’s already frozen, maybe even before it hit the ground. I’m thinking it’s below minus forty, but I can’t prove it.”
+
+Samson blinked, glancing at the others. Minus forty? Minus forty what?
+
+“That’s…bad?” Lyn asked, clearly just as confused.
+
+“Yes,” Rain said. “You’ll get frostbite on exposed skin within minutes. The awakened will probably be okay, assuming everyone has at least a few points in Endurance, but you and Tahir would have problems. We don’t have the gear for this. I’m going to need to keep Immolate going, or we’ll never make it past the first marker. Sorry, ignore that. Reference to something. Anyway, with Immolate, we should be fine.”
+
+“Jamus is right,” Mlem said. “This can’t be all there is.”
+
+“Another reaper class monster when we get there?” Jamus asked. He gestured. “The lair integrity is at one in three.”
+
+“Maybe,” Rain said. “But then again, maybe not. We had one big-boss with a buttload of adds, then three mini-bosses. My bet is we’re going to run into nine regular monsters this time. Probably all at once right at the worst possible time, like when we’re halfway there.”
+
+Samson tapped his index finger against the hilt of his sword, still staring at the darkness. Adds were…monsters that accompany a reaper, right? And he’s calling reapers ‘bosses’ for some reason. Rain’s terminology is so confusing.
+
+“I’ll take that bet,” Mlem said. “Say…ten Tel on there being nine enemies? Naturally, I agree with you that they will show up at the worst possible time.”
+
+Rain snorted. “Fine, why not? You’re on. Come on through the barrier, everyone. Immolate seems to be working fine. There’s been no reaction from the lair so far.”
+
+Samson stepped through. The barrier proved to be a surprise, but not in any way that he’d expected. There was no resistance when he crossed, but the temperature sharply increased. It appeared that the magic blocked both cold and heat. Rain’s aura hadn’t been able to pass through. Another surprise was the air itself. It suddenly felt…thin, like the air in the mountains near his family’s holdings in the north.
+
+“Everyone, sit tight,” Rain said, clearly manipulating his interface. He had his hands held in front of him as if working on a counter, and he was wiggling his fingers strangely. “I’ve just got to dial in the level.”
+
+Samson shook his head, knowing better than to ask what the finger motions meant. He turned to Val. “Val, would you mind sending your light out again? Scout around a bit. I’d like to know if there’s anything else out there.”
+
+“Good idea,” Val said, nodding to him. The orb of light that had been spinning around his head started to depart, but quickly returned as the party was plunged into darkness. “That’s a problem,” Val laughed. “The light from the snow doesn’t cross the barrier. Somebody light a torch.”
+
+“Rain?” Samson asked.
+
+“Hmm, what?” Rain asked, pausing his finger-wiggling. “Oh, sorry. Yeah. A torch is fine.”
+
+“Okay, one moment,” Tahir said. He knelt and removed his quiver, which had a pair of torches strapped to it. He freed one, then fussed with the bindings, retying the other. Samson shivered as he watched the man work. The temperature had dropped sharply, just in the few moments they’d been talking. Just how cold would it be without Rain’s aura?
+
+Tahir got the torch lit, the flames growing quickly. The circle of light that it threw extended a good distance into the darkness, but it would also blind them somewhat. “Anyone else want to hold this?” Tahir asked, gesturing with the torch as he held his bow in his other hand. “I need both hands free.”
+
+“I’ll take it,” Jamus said mildly.
+
+“Why, Jamus?” Carten said. “What good’s ‘is bow gonna do?”
+
+“Carten, hush,” Jamus said, taking the torch.
+
+“He has a point,” Lyn said. “I don’t know about you, Tahir, but I feel pretty useless here. I can take it if you want, Jamus.”
+
+Samson shook his head, glancing at Rain. A good leader was one that managed the morale of his followers, but their captain didn’t appear to be paying attention. How difficult is it to just pick an intensity? What is he doing over there?
+
+Samson cleared his throat, returning his eyes to tracking the progress of Val’s light. “You aren’t useless, Lyn, Tahir. It depends on what kind of threat we face. Based on what I’ve seen of your capabilities, you should be fine against most monsters up to level five. Up to level ten, you can still provide support and deal damage, though resistances start to be a problem, like with those turtles.”
+
+“I know all that, Samson,” Lyn said with a sigh. “We’re going to get a spot in the party if there’s a blue, right Rain? … Rain!”
+
+Rain looked up from his interface. “Huh?”
+
+Samson frowned. He is too easily distracted. Is it the Clarity, or is it just him?
+
+“Oh, yes, of course,” Rain answered after Lyn repeated her question. “I’d want you two in the party that kills it, or in the one that breaks the core. I don’t think there’ll be much of an argument about that, but then again, there might. I need to get the credit system straightened out asap.”
+
+“Asap?” Mlem asked, having slight difficulty with the unfamiliar word.
+
+“It’s an acronym, or if we’re being pedantic, an initialism. It means as soon as possible,” Rain said. “Unfortunately, it’s not pronounceable if I translate the words so it works in—”
+
+“Rain,” Samson said, interrupting. He was starting to feel the burn of the thin air against his skin and in his lungs. “It’s getting too cold.”
+
+“Yeah, sorry,” Rain said. “I dropped Immolate for a second. The air out here really doesn’t want to hold the heat.” He paused, wiggling his fingers some more. “Um…okay, what if I…hmm. No, that’s a terrible idea. Still…”
+
+“What?” Mlem asked.
+
+“Well, I have a skill called Aura IFF—that’s another acronym, by the way, for ‘identify friend foe’, but it’s not one that you pronounce, so I translated the letters into common for you. Anyway, it’s what lets me use attack auras without frying my allies. I was thinking that if I stopped using it, I could warm you all…directly.” He raised his hands. “It’s slightly less dangerous than it sounds. Everyone has a base Heat resistance of one, so I thought if I kept it really, really, really low—”
+
+“Rain,” Samson said, interrupting again. “Just do what you need to do. We’ll keep watch.”
+
+“Right,” Rain said after a moment. “I should take my own advice and stay focused. Just let me know, anyone, if you feel like you’re about to freeze or catch fire. This is going to take me a minute. I need to make sure I do things safely, and Val’s still scouting anyway. Anything yet, Val?
+
+“Just snow,” Val said. “Lots and lots of snow. In every direction. I’ll keep looking.”
+
+“Right,” Rain said. “Stay frosty, everyone… Sorry. That was bad. This’ll just be a minute.”
+
+As Samson expected, the captain’s ‘minute’ turned out to be closer to fifteen. Only then did Rain finally declare that he was satisfied with the number of fail-safes that he’d built into his ‘script’. The word itself was familiar, but it clearly had nothing to do with a play.
+
+Whatever Rain had done, it seemed to be working. Samson felt warm, almost uncomfortably so. Further, he was staying warm, despite the fact that the air felt shockingly cold on his skin and the snow beneath their feet wasn’t melting.
+
+“Everyone ready?” Rain asked.
+
+“We’ve been ready,” Val said, sounding annoyed.
+
+“Did you look up?” Rain asked.
+
+“Yes, Rain, I looked up,” Val said. “Nothing but darkness up there.”
+
+“I still find it interesting how this lair is able to manipulate space,” said Mlem, stroking his mustache. He’d removed his hood and thrown back his cloak, as had the others. “The sheer enormity of this chamber defies explanation. I need to get my hands on a copy of Sameter’s Lair Atlas.”
+
+“You and me both,” Rain said with a sigh. “Okay, um, let’s mix it up. Samson, want to take point this time?”
+
+“Very well,” Samson said, intuiting Rain’s meaning. It’s about time that he asked me to lead. These…adventurers don’t know how to stay focused. He looked out at the darkness, then cleared his throat. “Carten, with me, if you’d please. Somebody let me know if I stray off-course. I don’t have—” he stopped himself, having been about to say ‘a perception accolade,’ but decided against voicing his guess aloud. He didn’t have so little tact that he’d reveal their secret like that. “…special eyes,” he finished lamely after his pause.
+
+For some reason, Rain barked out a laugh. “Right, I need to remember that,” he said, grinning like a fool. “Okay then, Val’s the navigator.” He pointed. “Look, Val. Look with your special eyes.”
+
+“You are so weird, Rain,” Val said. Everyone nodded in agreement, but Rain just grinned at them goofily, then flipped down his visor.
+
+Samson sighed and led the way into the darkness. He set a cautious pace at first, keeping his hand on his sword as they advanced, their boots crunching through the snow. After about five minutes, nothing had appeared to attack them, so he increased his speed to a brisk walk. Judging from how far Val’s light had reached, it was about four or five thousand stride to the light. They’d be walking for a while.
+
+The thing that struck Samson was how dead the air was. There was not so much as a lick of wind, despite the size of the cavern they were in. It was unnatural and eerily silent. Worse than the muffling snow in the false village above. That had been the familiar silence of winter. This was the silence of the void. Combined with the darkness, it made for a nervewracking experience. If not for Rain’s aura, it would have been completely unbearable.
+
+Finally, they drew close enough to make out the source of the light ahead of them, or more accurately, to see what it revealed, for there was no source. It was just a circle of lit snow, about twenty stride across, with the same shimmering distortion surrounding it that had surrounded the building with the stairwell. It had been around half a league from the stairs.
+
+“Carefully,” Samson said as they approached. “Be ready.”
+
+“Wait,” Lyn puffed, holding up her hand. “I need a minute…before we go in.”
+
+Samson nodded. The modest pace he’d set had ended up being quite taxing due to the thin air, even for him with his boosted stats. He was honestly impressed that Lyn and Tahir had managed to keep up without complaint until now.
+
+“Expect monsters when we cross,” Samson said. “We’ll go when you’re ready.”
+
+“Detection says there’s nothing around, but I don’t disagree,” said Rain. “There’s nothing in there except more snow. There’s got to be a trigger for the next event inside. I don’t see anything else anywhere in the darkness.”
+
+“By the way, Rain,” Tahir asked, breathing heavily, though he looked slightly better than Lyn. “How long can you do that heat thing for? Are you going to be able to use your spells once we’re through, or do you need to rest?”
+
+“No, I’m good,” Rain said, waving him away. “I’ve got it running at 0.65% power with the range brought down to six meters. I’m so happy my script can do fractional levels like that. It was such a pain to do manually. Anyway, those settings make the damage 0.86-0.98. Basically, less than one. That’s the important part. The cost for it is 0.325 mana a second, and my natural regen right now is 0.335—can’t use Winter because Immolate’s on, obviously. I could do this all day. What’s really fascinating is how it works. It looks like it warms you up until the point you start getting uncomfortable, then your resistance kicks in and clamps it there. I didn’t have to adjust it to compensate for the awakened having more—”
+
+“Depths, Rain, enough!” said Val. “He asked if you needed to rest, not to give a lecture.”
+
+“Fine, fine,” Rain said. “Ask me later, and I’ll be happy to explain the math. You’re right, though. It doesn’t matter right now.”
+
+Samson smiled. I don’t think you’ll get any takers on that offer, Rain.
+
+Once everyone was ready, Rain motioned to Samson, and he and Carten led the way through the shimmering distortion. The air warmed significantly, but the heating effect of Rain’s aura also vanished as he passed through. A few seconds passed, then the hair raised on Samson’s neck as a piercing howl shattered the stillness, coming from behind him.
+
+“Get inside,” Rain shouted, darting through the barrier. Samson felt the aura re-appear as he did, then quickly vanish. “They’re coming from outside. Dozens of them. Don’t know what yet.”
+
+“Dozens, you say?” Mlem said, drawing his sword. “That means I win.”
+
+“Damn it, focus!” Samson shouted, drawing his own sword. “Val, light! Rain, which direction?”
+
+“All directions,” Rain said.
+
+“Jamus, Arcane Bulwark,” Samson barked. “Give us something to put our backs against.”
+
+Jamus nodded, extending one hand, the other still holding the torch. After a few seconds, the purple-blue barrier appeared, practically bisecting the small circle of illuminated snow.
+
+“Look, Jamus! Puppies!” Carten shouted.
+
+By Val’s light, Samson could see the forms of the monsters rushing for them. Forms that he recognized. “Frost Hounds!” he shouted. Finally, something normal.
+
+As the first of the hounds crossed through the barrier, a health bar popped into existence above its head, along with the name of the monster and its level—five, as he had known it would be. Hounds were common, almost as ubiquitous as slimes. These ones were shaggy, their white fur matted and encrusted with frost, but were otherwise similar to every other hound he’d fought in the past. It was a large pack, though. Worryingly large. At least thirty strong.
+
+Samson shifted into the basic stance of Second-Sparrow, the form specifically meant for dealing with this type of creature.
+
+“Shit! Problem!” Rain shouted, but Samson didn’t get a chance to hear what it was before the first hound lunged for his throat. Stepping to the side, he drew his sword behind him, tracing a long slash along the monster’s side, his motion taking him into the path of a second hound that had been trying to get around him. Light Cut banished the weight from the metal in his hands—the real reason he’d taken the skill, not the paltry Light damage that it added—and he sent his sword whipping across in a slash that neatly severed the second Frost Hound’s head from its shoulders.
+
+Depths! Samson mentally cursed, finding himself overextended. He barely avoided crashing into yet another hound, which fortunately darted away rather than taking advantage of his unbalance. I’m still not quite used to that. Carten charged forward in front of him, so Samson whirled, spinning to face the first hound he’d injured. It was already dead. Lyn had skewered it, but she was being harried by another pair of them, with more looking for a way to get at her. There was a crack of thunder, and Jamus’s whip sent them darting back, clearing a wide space between Lyn and the Arcane Bulwark to her right.
+
+“We’ve got this side,” Mlem shouted from somewhere behind him, but Samson didn’t look, rushing to Lyn’s aid. Second-Sparrow, Third bought him some room, the wide slash sending the hounds scrambling back again, as he knew it would. Monsters were predictable, even more so than people or animals. They would respond to certain movements the same way, regardless of the actual threat. The katas were at least partly designed to take advantage of that—something not many people realized.
+
+“Rain, burn them!” Tahir shouted.
+
+“Can’t!” Rain yelled back. “Damn it! Something went wrong with my safety script! I can’t change the settings!”
+
+Samson’s eyes widened, but not from what Rain had said. “Blue!” he shouted, pointing with his sword.
+
+Frost Hound Alpha – Fifth Level
+
+It padded out of the darkness at the back of the pack. Beside it was another larger-than-average Frost Hound, though a normal one if its name and level were to be believed. The pair of them sat, watching with hungry eyes as their smaller kin attacked.
+
+“Don’t kill it!” Rain shouted. “Damn it, how about this!”
+
+There was a sudden cacophony of yelps as every single one of the hounds stumbled at once, except the two seated at the back. Samson found himself flying forward to capitalize on the opportunity, guided by instinct even as his mind wondered what Rain had done. His thrust struck deep, the enchanted sword killing another of the hounds. He drew the blade back, then thrust again, landing a glancing hit on the shoulder of another hound.
+
+Whatever the spell was, Rain kept doing it. Every time the hounds tried to get up, they’d simply fall again. There were tracers of wind trailing their bodies as they moved. Samson blinked as he noticed this. It’s Velocity, he realized, finishing another of the beasts. Back in Fel Sadanis, Rain had spent an hour or so having the entire company practice marching under the skill’s influence. It hadn’t gone well, just as it wasn’t going well for the hounds now. I had no idea he could use that on monsters.
+
+With the skill active, dealing with the entire pack gave them little difficulty. Val picked off most of them, and Jamus wasn’t far behind, though Samson got the sense that the older mage wasn’t trying that hard. Tahir even managed to get a couple kills, his bow allowing him to do so safely. Samson felt no need for either him or Lyn to engage. Even disabled as they were by Rain’s spell, the hounds were still dangerous in melee.
+
+Finally, it was down to just the alpha. Carten had smashed the other large hound to a pulp and was currently fending off the angry essence monster. Interestingly, Rain’s aura never seemed to have bothered either of the larger monsters in the slightest, all through the fight.
+
+“What are we doin’?” Carten asked, slamming the essence monster back as it once more went for his neck. “’S fun as this is, we’d best be movin’ on. Damn!” he cursed, jumping back and covering his neck. “This thing’s really mad!”
+
+“And fast, too,” Samson said, watching. The essence monster truly did seem to be more agile than the others, despite its size. Its patterns were also more varied. However, against Carten, its level was simply insufficient for it to be a serious threat. “You killed its mate,” Samson continued. He gestured to the broken hound near where Carten was fighting. “It will never stop now. It’s going to ignore everything else until it kills you, or it dies. That’s what hounds do.”
+
+“Mate?” Rain asked, sounding pained.
+
+Samson chuckled. “Don’t make the face, Rain. Monsters don’t have families. It’s just how they are. Hounds always come in packs, and sometimes, there’s an alpha. When there is, it always has a mate. Wolves too, but be thankful these aren’t those. Frost Wolves are deadly things. Pray that you never meet one.”
+
+“…What face?” Rain asked.
+
+“How can you tell he’s making the face?” Mlem asked, ignoring him. “He’s got his helmet on.”
+
+“It’s obvious,” Val said, chuckling. “It’s Rain. He’d feel bad for a monster if it choked on his armor while it was trying to eat him.”
+
+“Ha!” Carten shouted, backhanding the monster with a shield. It rose and lunged at him again, completely undeterred.
+
+“Um, this could be an issue,” Jamus said, gesturing around. “We still have nowhere to go. Are we going to have to kill it?”
+
+“No,” Rain said with a put-upon sigh. He pointed out at the darkness. “Look. There’s more light over there. It probably appeared the moment we crossed the barrier. Carten, stop playing and sit on that thing. I’ll use Force Ward on you, so just grab it. I think I’ve got some rope.”
+
+“Hmm,” Val said, walking to the edge of the circle. “Yeah, you’re right.” He pointed off to the right. “That’s where the stairs were. I can still make out the building.” He shifted his finger off to the left until he was pointing in almost the opposite direction. “And that’s something else. Can’t tell what.”
+
+Rain clicked his tongue, flipping up his visor. “Another circle like this one would be my guess,” he said, gesturing. “Look at the party display.”
+
+Samson did. The lair’s integrity showed as thirty in one-hundred.
+
+Rain sighed. “I’m thinking we’ve got eight more fights like that to go. There was a nine in there, after all. One-ninth of one-third. 3.7 percent.”
+
+“I still win the bet,” Mlem said, merrily.
+
+“This lair is horrible,” Jamus said, rubbing at his temples. “My poor head.”
+
+“My poor legs,” Lyn said. “You realize how much walking that is, right?”
+
+“Oi! No biting!” There was a loud thump as Carten punched the hound in the stomach. He’d tossed aside his shields and had the thing in a bear hug, the two of them rolling through the snow. “Damn it, sit still!”
+
+“Do monsters have stamina?” Tahir asked.
+
+“Yes,” Val said. “It will wear itself out eventually.” He dismissed his light, then took the torch from Jamus and planted it in the ground. “How was a normal party even supposed to deal with this? If not for having our own personal mana fountain, this would have taken us days. This place is a nightmare for mages.”
+
+“Ahh! It’s got me beard!” Carten shouted over the continued, angry growling. “Cold teeth, cold teeth!”
+
+“You think we should help him?” Lyn asked.
+
+“Why?” Mlem asked, stroking his mustache with an amused smile on his face. “Normally, you’d have to pay to see this kind of entertainment.”

@@ -1,0 +1,141 @@
+---
+id: c227cb39-1b14-5136-bad6-05bda81f4df8
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 16"
+slug: 0018-b1-chapter-16
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 18
+ownLength: 1858
+unit: words
+ownProgress: 1858
+publishedAt: 2024-01-07
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1469060/b1-chapter-16"
+royalRoadId: "1469060"
+markedReadAt: "2026-06-29T19:06:27.355Z"
+---
+
+AriaLater that evening
+
+“If there’s one thing you should remember above all else, it’s this,” the instructor says with a serious look on his face. “Mercy may save your humanity, but it could also kill a comrade. Keep that in mind when giving orders. That’ll be all for today. You may leave for your private training.”
+
+All of us get up from our seats and begin gathering our things. Then we all leave for the door, as if we were in sync or something.
+
+In reality though, the others, just like me, are trying to use the little time we have for System stuff as efficiently as possible.
+
+Right when I’m about to step out of the classroom though, I’m stopped when the instructor calls out, “Cadet Crimson.”
+
+I turn back to find the man approaching me with a stack of documents in his hand. But he doesn’t do anything with them and simply says, “Remember, if there’s anything I can do, I’m always open for coffee.” Then he walks past me without another word.
+
+He said the same thing yesterday, and said something similar during sparring this morning.
+
+It’s kind of ironic considering some of the lessons he’s given us.
+
+From what I can tell, the man seems to be utterly against child soldiers and is trying to get me to retire after I finish training here. And if I don’t, he’s trying to get me to rely on him for help.
+
+What’s more is that he’s not even the only one doing this. Ever since the other cadets here, all people in their forties and fifties – mostly forties – learned that I was a child soldier until I reached adulthood last year, they’ve all been overly friendly towards me. Most of them have even been treating me like I was their daughter or something.
+
+It’s getting awkward.
+
+I let out a sigh as I continue my way out of the building and head straight to the nearest streets, where I hitch a ride on a taxi to the border. Then I simply walk through the military outpost there, the soldiers all letting me pass thanks to my outfit and the magical device there meant to identify officers. And soon enough I’m back in the same forest I was in yesterday.
+
+Alright, so when I tried using the soul energy in the spar earlier, I realized that I can enhance more than just my strength. I can enhance any aspect of my body, but the more aspects that I enhance, the less I can enhance it by. Like spreading out the power to get a broader but weaker boost.
+
+And there’s still the part where I have to spread the energy around certain areas to enhance, so I can’t enhance everything without having enough energy to do that.
+
+So if I want to use this skill efficiently, I’ll need to gather some soul energy.
+
+Which means hunting while I’m out here for my two hours every day. Something that will also help gradually raise my level.
+
+I drop my bag on the ground before opening it and beginning to assemble my rifle.
+
+Time to start the hunt.
+
+The Great Divide
+
+Invasion General Lucius Cornelius Caesar kneels with his head pointed down as his father’s voice echoes from the cross-planet communication device in front of him, “Explain yourself, General. Why has the invasion been delayed by an entire month?”
+
+The Invasion General calmly raises his head to look at the portal – one that only allows sounds through it – and says, “This isn’t fully confirmed yet, however, it would appear the enemy has a Class S Ability Holder.” His father’s eyes narrow slightly at that, but Lucius continues speaking. “They have regeneration so powerful that they survived a barrage of attacks from every officer in the fifty-first legion, somehow played dead afterwards to be brought into the camp for processing, and managed to sabotage the camp before destroying the tunnel connecting us to the camp.”
+
+His father frowns and stays quiet for several seconds. Then he slowly begins to speak, “The next shipment of supplies and reinforcements will have an ability analyzer amongst them. If they prove the ability of this so-called Class S to not be as you say, then you will be relieved of your position as the Invasion General.” Lucius feels his fist clenching slightly at that, but since it’s held behind his back, his father doesn’t notice any change. “But should your words be proven true, then we will have to shift our priorities from subjugating the world to opening communications and learning more about these natives. And preferably recruiting this potential Class S to our side.”
+
+“Understood, Royal Father,” Lucius declares, bowing his head again.
+
+“Give me a report on the other side of the war,” the emperor declares, moving on from the topic of the saboteur.
+
+Lucius raises his head again and begins, “We are having more success on the Southern front than the Northern front. From what we’ve gathered, the Eastern nation has a stronger presence in the South than the Western nation, and the Eastern nation has lower quality Ability Holders in general. However, they make up for it with their more numerous Ability Holders as opposed to the quality over quantity that the Western nation has. We’ve also been able to discover that the two nations were at war even before we arrived, so I have been working on a plan to use the nations against each other.”
+
+The emperor remains silent for a few seconds before eventually nodding his head and stating, “I will be awaiting news of your success. Do not disappoint me this time.”
+
+Then the portal vanishes, leaving the hut in silence as Lucius rises to his feet with a frown on his face. And after just a brief pause, the Invasion General turns around and begins to walk out of his hut.
+
+The officers of the fifty-first legion may not be very pleased by the idea of recruiting someone who has already slaughtered their own officers, so I may have to play up this possible Class S some before we can attempt it. Or I could attempt to brute force the matter, but that would merely decrease the legion’s morale more than the saboteur’s actions have already done. And I can’t have that damaging the war effort even further…
+
+If he remembers correctly, his own soldiers have taken to calling her the ‘Crimson Eternal’ simply due to her regeneration and her supposed ‘coming back from the dead,’ so he could always promote her with that title to improve her reputation.
+
+He walks through the main headquarters of the invasion force, ignoring the salutes his soldiers are all sending his way as he passes.
+
+We also haven’t seen her since then… is she on military leave? Maybe it’s a strategy to put us off guard? She could potentially be receiving a reward for what she managed to do, but I can’t see someone that powerful leaving the war effort for long.
+
+The general glances towards the North as he stops walking.
+
+Then there’s what the necromancer mentioned about death energy…
+
+He stares towards the north for several seconds before shaking his head and continuing his walk through the base.
+
+I need to see this ‘Crimson Eternal’ with my own eyes.
+
+AriaThree Days Later
+
+I narrow my eyes as soon as I leave the outpost on the fifth day of my training.
+
+Seriously? I was wondering when he’d show his disgusting face.
+
+Despite knowing that I’m being followed, I continue marching into the woods. And my stalker only shows themselves after I’ve dropped my bag and begun assembling my rifle.
+
+But I don’t bother looking at the lieutenant general as he says, “Warrant Officer Crimson, you are hereby ordered to cause a commotion within academy grounds to cause your promotion to be canceled. His Majesty will be expecting you to do so by the end of tomorrow.”
+
+I continue assembling my rifle, acting as if no one said anything.
+
+Silence fills the clearing with the only sound being the clinking of metal from my rifle.
+
+“Warrant Officer Crimson, you will respond now,” the lieutenant general says.
+
+But I ignore him again.
+
+Once I finish assembling my rifle, I stand up and pull my bag over my shoulder again before stretching slightly and beginning my hunt. And just seconds later I feel a tickling pain of a knife being lodged into my shoulder.
+
+Without pausing in my step, I pull the knife out of my shoulder and begin to toss it to the side while muttering, “Pesky bug.” But then I take a look at the knife.
+
+Oh, this knife isn’t half bad.
+
+“I’ll be taking this,” I mutter while placing the knife in my bag, to the apparent anger of the lieutenant general who reaches for my arm. Only to miss when I enhance the agility of my legs and quickly sprint away from him, to his apparent surprise.
+
+I can’t really harm them yet, legality and all, but I can ignore them.
+
+After all, I’ve been moved to the First Army now. So he can’t do shit to me anymore.
+
+Not that he could do all that much to harm me other than order me around even before that. The emperor is on his last legs and is pretty desperate.
+
+Then again, he was pretty desperate back when he killed my family. His own… issues… and all.
+
+He probably wouldn’t have done something so stupid if he weren’t.
+
+And if I were to go missing, the first place the army would look is him. Which is the same reason he never tried to imprison me forever or anything like that. Since the other generals were looking at him and searching his properties for any signs of his having killed my family. And he doesn’t exactly have the funds anymore to hide or smuggle me somewhere they wouldn’t find.
+
+As for the ones who didn’t realize it was him, it’s not exactly hard for them to realize what’s going on after a decade of my service in the military, starting when I was only nine years old. Even if they couldn’t do anything since the leader of the Ninth Army doesn’t give a shit about me.
+
+But the leader of the First Army is a lot kinder. Towards allies, at least.
+
+She’s also the most powerful General of the Military.
+
+I just go on with my hunt with the lieutenant general following me practically screaming like one of those horror story banshees for a while. Then he eventually gives up and leaves after giving me a couple pointless threats.
+
+But with me being transferred to a different army, the contract doesn't force me to obey him anymore.
+
+And it really does feel nice to ignore him. But I still need to fight for the sake of growing stronger.
+
+And one day slitting his and his master’s damned throats without having to give a shit about consequences.
+
+I also don’t know how the First General views me still. So I can’t get content.
+
+Not yet.

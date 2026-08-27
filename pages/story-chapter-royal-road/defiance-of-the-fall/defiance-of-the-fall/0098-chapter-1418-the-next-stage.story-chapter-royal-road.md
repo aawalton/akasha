@@ -1,0 +1,167 @@
+---
+id: acb63eda-bf3c-57d2-b725-250b785a3fff
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,418 - The Next Stage"
+slug: 0098-chapter-1418-the-next-stage
+partOf: defiance-of-the-fall
+position: 98
+ownLength: 3116
+unit: words
+publishedAt: 2026-04-05
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3235606/chapter-1418-the-next-stage"
+royalRoadId: "3235606"
+---
+
+The two watched another disciple stumble out of a sealed chamber of Planepressure Halls. A gust burgeoning with dimensional weight was blocked by the arrays installed in their secluded alcove. The body-tempering palace at the central square had become their gathering spot of choice since it provided isolated lounges to recuperate free of charge. You didn’t even need to use the facilities to reserve a room.
+
+“As I said, there’s nothing. Not even rumors. Whatever the Primo’s involvement is here, they’ve kept it tightly under wraps,” Ogras said as he turned back to the table. “It might be waiting for us inside one of the graverealms, but I doubt it.”
+
+Ten days had passed since announcing their arrival. The registration went through without a hitch. They simply needed to showcase their tokens at an administrative building to activate them and receive a welcoming kit depending on what department they’d joined. From there, progress quickly stalled.
+
+They quickly discovered that the situation in Hollow Court differed from the Mercurial Court in more ways than one. First off, it was easier to consider the Hollow Court as two sects rather than one. Accordingly, it was very compartmentalized. Each department had its own realm, which in turn was connected to countless subspaces through realmgates—most of which needed payment or specific credentials to enter.
+
+Tavza and Ogras had been registered as Gravekeepers of the Interment Gate, the court’s death-aligned department. It supposedly housed the headquarters of the Nameless Blades, though Ogras had yet to find its actual location. The main attraction was the graves themselves. Each grave held a prisoner caught by the Nameless Blades or handed over by the Imperial Magistrate.
+
+The graves took everything from their captives, from energy to providence, until they were nothing but husks trapped at the precipice of death. All that energy went into opening something called graverealms. They worked a lot like memory lanterns, except they were full of madness and malice. The job of the Gravekeepers was to enter those realms and bring something out.
+
+One couldn’t actually take out items from the graverealms, but you could extract something equally valuable: information. The interred prisoners had all been brought to Hollow Court because they possessed important intelligence protected by seals or restricting oaths. The unusual graves provided a universal workaround to such measures, though extracting the information came with risks.
+
+Securing the intelligence usually provided some Longanimity, though nowhere near completing a thread of fate. Gravekeepers still kept risking their lives because the right information could provide access to restricted areas.
+
+This opportunity was only meant for the Gravekeepers. Upon registering, members of Interment Gate received an item called a [Nine-Yin Realm Accentuator]. After supplying it with enough of Hollow Court’s Miasma, it could connect to a headstone and open a realmgate. Other departments would have to rent an accentuator, and the pricing was enough to make even Zac think twice.
+
+Ascension Gate worked similarly. There was an enormous seed bank on the other side of the gate. You needed to pick the right seed and find the right patch of soil to bring forth a new lifeform. A successful sprouting yielded some Longanimity. A valuable specimen gave access to a restricted subrealm. Top-tier creations could directly connect with hidden realms and send their planter inside.
+
+Lifegivers or Ascension Gate could freely pick one seed every month, and they received a [One-Yang Augmenter] that helped the unusual seeds take root. The job wasn’t as dangerous as a Gravekeeper’s, but there were certainly risks. Ascension Gate was either inside or directly fueled by the First Garden, whose boundless life held marks of creation. Deadly weeds and unpredictable spirits could pop out of nowhere.
+
+Zac hadn’t bothered trying his hand at Hollow Court’s basic tasks yet. There could very well be a grave that held the necessary information and credentials to access the Primo’s treasure, but they had no way of figuring out which one. There were millions of headstones, and Zac had already confirmed that his Luck couldn’t directly point him in the right direction. There were no treasures in the graves, so there was no pull of fate.
+
+The whole situation was quite frustrating. It had taken him and Esmeralda less than an hour to confirm the existence of [Second Singularity] and form a rough plan on how to get it. The Primo’s treasure had proven much harder to pin down. Ten days of searching Interment Gate’s graveyards and Ascension Gate’s fields had hinted at countless opportunities, none of which matched what they were looking for.
+
+Neither did any of the advertised treasures in the Exchange Halls appear connected to the Primo’s specific brand of death. Not knowing the name and appearance of the item certainly didn’t help with their search. Nevertheless, Zac was starting to have a suspicion that the item simply wasn’t up for grabs through conventional means. Ogras had arrived at the same conclusion.
+
+“There are two likely scenarios. First, the item is the core of the graveyard or sealed in one of the most secured areas. If we don’t want to rely on finding the right grave, we’d have to wait for the memory domain to collapse and snatch the treasure from the ruins,” Ogras said, adding with a raised brow, “Unless you’re feeling particularly explosive?”
+
+“Not at the moment,” Zac said with a wry smile.
+
+“Then that domain isn’t going anywhere. It’s sold enough to bear Autarchs without missing a beat,” Ogras said with some complaint in his eyes.
+
+“How is it?” Zac asked curiously, having already heard of Ogras’ gravedigging boss.
+
+“That guy knows his stuff. He might not be as strong as my dear master on the outside, but he’s actually teaching me things,” Ogras said. “I just wish my lessons didn’t all involve digging graves.”
+
+“Why are you complaining? You hit the jackpot,” Zac laughed. “He’s your best bet at fixing up your [Spiritlock Manual]. It was made by a Monarch and never truly completed.”
+
+“Not to mention Rasata was a raving lunatic, hiding refinement techniques within poems about slick noses and pointed teeth,” Ogras said with disgust. “I’ll have to keep buttering him up. I’m afraid he’ll knock my head right off if I show him the scripture right now.”
+
+“Keep at it,” Zac said. “You think the Margrave’s castle is the second option?”
+
+“Of all the inaccessible regions, it makes the most sense. Though it could be hiding in one of the restricted areas outside the bounds of the connected memories. The trouble is getting there,” Ogras nodded. “That girl and her unlucky tongue.”
+
+Zac’s token did cause a small stir. Just like Tavza said, it wasn’t connected to Ascension Gate, the life-attuned half of Hollow Court’s two major departments. Instead, it marked Zac as a member of Fuxi Halls. It was a small and highly confidential section, generally considered an elite unit.
+
+Most members of Hollow Court stayed within their gate their whole lives. As they grew stronger, they simply advanced into deeper subrealms with greater opportunities. Less than a percent gained the qualification to transfer to Fuxi Halls, and it was the same with outsiders. In the years that had passed since Hollow Court officially opened its doors, only four other sealbearers were directly recruited.
+
+Benari Theomore was one. Another was Searsense, the Hollow Court’s equivalent to Descartes Belial. As it turned out, the battle of fates had already concluded before their group arrived. This time, it was the outsiders who came out ahead. The official story of Searsense saving the prince’s life inside a graverealm was obviously nonsense. The two had probably fought a fierce battle inside an interred sinner’s mind.
+
+The battle left Benari’s mind addled. Ogras believed that Searsense had imprisoned part of the prince’s consciousness inside the graverealm before collapsing it. Benari hadn’t been seen since. Most likely, he was tucked away somewhere recovering from the spiritual damage. His qualification to join the Flameseeking Trial was definitely taken by Searsense.
+
+Zac didn’t particularly care about those matters, though arriving late meant missing the opportunity to make some additional Longanimity. His feats inside the Hollow Chasm had awarded him nearly 48,000 Longanimity upon arrival. It was a great starting point, but his venues for accumulating more Longanimity were scarce.
+
+Members of Fuxi Halls, who for some reason were called masons, did get decent discounts when exploring the opportunities of the two gates. They still weren’t a sustainable method of accruing merit unless Zac could keep getting lucky. As for the opportunities of his own halls? For an outsider like Zac, there were none.
+
+Tavza had been proven correct with her second theory too. The realmgate to Fuxi Halls was outside the bounds of the common square’s memory domain. Worse, the Margrave’s castle was located inside Fuxi Halls. Zac had considered using the contributions he made in Joyful Gardens to ask for an audience if no clues panned out. Now, Zac didn’t even know how to get his foot through the door.
+
+Zac had held onto a bellyful of complaints since arriving, yet who was he supposed to turn to? He couldn’t exactly walk up to the administrative clerks and demand the realmgate be moved closer for his convenience. The only solution Zac could think of was to find a shortcut. There were a few facilities Zac suspected were located near or inside Fuxi Halls. If he used Longanimity to access those, he might be able to get there another way.
+
+The problem was, if the realmgate was lost outside the memory domain, what about Fuxi Halls itself? What if he stepped into the teleporter and appeared in the desolate darkness?
+
+“We’ll figure something out,” Zac sighed. “What’s Tavza been up to?”
+
+“Same as me. Traveling the graveyard, inspecting the crypts. I don’t think she’s entered any graverealms yet, but she’s been talking a lot with the heroic spirits. Unsurprisingly, they’re quite taken with her, both being dead and all,” Ogras said.
+
+“Anything useful from them?”
+
+Ogras shrugged. “I wouldn’t know. She’s been asking seemingly unrelated questions about their history and local cultures. If she knows something, she’s keeping it close to the vest.”
+
+“Keep an eye out just in case,” Zac said. “She’s both our ally and competition at this point.”
+
+“Sure. Any luck on your end?”
+
+“Nothing related to the Primo. I’ll make a deeper dive in the future,” Zac said.
+
+“You still think it might be there?” Ogras asked with surprise.
+
+After three days of finding nothing inside Interment Gate, Zac chose to tour the farmlands just in case.
+
+“It seems unlikely, but it’s not impossible. The Hollow Court rests on a delicate balance. They might be using Death to suppress Life to bind the First Garden to the Left Imperial Expanse,” Zac theorized. “I didn’t sense any hints of Death. I did sense a few whiffs of the Void, though, same as in the graveyards. I can’t pinpoint the source for the life of me.”
+
+“Maybe leakage from Fuxi Halls?” Ogras ventured. “By the way, I’ve been thinking. Do you think the Ninth Hell and the Primo were directly created by the Limitless Empire?” Ogras asked.
+
+“I wouldn’t put it past them. Creating a couple of lower planes should be well within their means, considering the items they’ve collected. Except, if they were genuine members of the empire, why did the Primo emerge unscathed from their fall? He would be even more tainted by Imperial Fate than the other Realmlords,” Zac said.
+
+The two went over their experiences a little longer. The inevitable conclusion was that their mission couldn’t be completed with money. Either the timing wasn’t right, or they needed to find and resolve the threads of fate hiding within the court. There were no hints of invasions from other timelines here, so there should be something else lurking beneath the surface.
+
+“Then… you’re doing it?” Ogras eventually asked.
+
+“There have been no clues for ten days. There’s no point in waiting any longer. Breaking through might open up new avenues,” Zac said. “I’ll be gone for at least a month.”
+
+“Well, we have time. There hasn’t been a new halo in weeks. The last ones are obviously harder to ignite.”
+
+After two months of almost weekly ignitions, the speed of halos appearing was demonstrably slowing down. It wasn’t hard to guess why. The first round of halos was ignited by the chosen ones like Janos and the Flamebearers, who could unravel threads of fate through force. They were acting like ringers, giving the Outer Courts an early push.
+
+Then came the second group, the elites who needed a little longer to cross the Left Imperial Expanse. They were a year and a half into the trial at this point. All the second-string competitors should have completed their threads of fate and reached the inner region. Those who remained outside were unable or unwilling to journey to the courts, settling for collecting opportunities in the shallows.
+
+Some might seize enough benefits to make a late push, but the number of threads being completed was going to slow down. The final halos would require dealing with issues within the courts or steady accumulation by altering the past of countless memory lanterns.
+
+“Keep an eye on things while I’m away, will you? See if you can suss out if any trial taker got here before us. I have a suspicion that one of the other masons is an outsider like us,” Zac said. “Oh, and see if you can find out anything else about that Searsense guy. He might be a good inroad to the main quest.”
+
+“Don’t worry, I’ll keep my eyes peeled. You just focus on avoiding a repeat of last time. We’re all out of ice,” Ogras said while shaking his head. “Peak Hegemon in less than a hundred years. You might really be the reincarnation of the First Defier at the pace you’re going.”
+
+“Let’s hope you’re wrong,” Zac smiled as he sent a message to his counterpart. “I’m planning on sticking around for a long time.”
+
+------------------
+
+Zac was walking through Citadel’s open market when the update came in. Disciples were sitting shoulder to shoulder with illusory hawkers, competing for the business of passers-by. The buyers were also a mix of real and conjured people.
+
+Such things didn’t matter much in Mercurial Court with its blurred lines. If the item you bartered for was an illusion, you’d simply stuff it into your [Mercurial Sack]. The imaginary merchants had been one of Zac’s main sources of Core-forming materials since their wares weren’t limited to local produce. Meanwhile, the items sourced by real disciples were generally connected to the main peaks of Mercurial Court.
+
+Zac wasn’t looking for anything specific this time. He was taking a break after months of running back and forth, having some fun by trying his luck like a dozen other sealbearers scouring the square. You never knew when a priceless artifact would come on sale for a ridiculously low price. Today’s hunt only yielded a few trinkets, and it was time to go. There was only one thing left on the itinerary. He flashed over to the other side of the square.
+
+“You again?” an indolent-looking merchant glanced up from the scripture in her hands.
+
+“Still chewing on that old thing?” Zac said with a smile as he placed a sealed box on the table.
+
+“Still? It’s only been two decades. Its difficulty proves I picked a good one,” Limanta scoffed.
+
+‘Takes a certain kind of person to take pride in failing to grasp an entry-level technique,’ Esmeralda snickered from her spot within the Shrine of Kanba.
+
+Zac was happy to see her in such an excellent mood. Esmeralda hadn’t said anything, but it was clear that she had to divert more of her attention to suppress the [Timescape Loop]. She was becoming sensitive to the dense powers of the Continuum suffusing the Mercurial Court, opting to spend less and less time outside. On the flip side, she’d almost caught up to Zac’s cultivation, and more of her bloodline abilities had been unsealed.
+
+“It’s done, then?” Limanta asked as she glanced at the box.
+
+“The poor man wasn’t fated,” Zac grinned.
+
+“Be careful, you’re starting to sound like one of them.”
+
+“There are worse outcomes than that,” Zac said, nodding at the box.
+
+The severed head of Trevokles Imsun, one of the two remaining bounties, was lying within.
+
+“That’ll do,” Limanta nodded after taking a look inside. “You want the thing, then?”
+
+“Why else would I run all over this place?” Zac said.
+
+Truthfully, the whole thing could only be attributed to his extraordinary Luck. He’d stumbled onto one of the Imperial Magistrate’s bounties while pursuing the first fated encounter marked on his Disciple Token. That outing had yielded enough Peak D-grade illusions to keep his [Mercurial Sack] busy for a month, and it prompted Zac to put actual effort into looking for a second target.
+
+Finding Trevokles was still a matter of luck and fate, as most things were in the Mercurial Court. They’d pinned down a general area of the Citadel, after which Esmeralda tracked the target down. The actual battle was over three weeks ago, but Zac hadn’t been in a hurry to return to the markets.
+
+“Suit yourself. Not sure why you’d want this. It might work as a supplement for others, but someone who cultivates Death? You may as well buy a vial of poison and save yourself the trouble,” Limanta said, but she still brought out a small box.
+
+The box didn’t emit so much as a whiff of energy, yet Zac’s Draugr heritage urged him to throw it far away. Inside, there was a golden egg covered in natural runes—a Life-attuned C-grade item and the final piece of the puzzle for his future attempt at monarchy. Like the set of items that later became his Core Nucleus, Zac finally had a full set of top-tier Early C-grade treasures.
+
+“There’s still one at large. Too much time has passed, so the higher-ups increased the bounty,” Limanta said with a grin. “I commissioned a dream divination from an Inner Disciple of the Dreamwalker Society. For a fellow Magistrate, I’ll only charge 1,500 Potentiality for the scoop.”
+
+“Pass. Who knows how many times you’ve sold that intel by now? Anyone capable of eluding capture this long has a knack for survival. Some greedy fool has probably spooked her already. Besides, I have better things to do,” Zac said. “I just came to pick this thing up and thank you for all your help.”
+
+“The famed Everit Draom, scourge of both personnel and finance departments, thanking someone?” Limanta laughed. “Well, now I’ve seen everything.”

@@ -1,0 +1,117 @@
+---
+id: d9b95da8-8545-5913-aad5-312ad2625c0a
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 47"
+slug: 0052-b1-chapter-47
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 52
+ownLength: 1561
+unit: words
+ownProgress: 1561
+publishedAt: 2024-01-23
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1491717/b1-chapter-47"
+royalRoadId: "1491717"
+markedReadAt: "2026-06-29T19:07:39.770Z"
+---
+
+The Castle’s Third Servant’s EntranceTwo hours before the party
+
+The head maid of the Imperial Castle nervously taps her foot as she goes from one room to another, eventually ending up at the servant’s entrance, constantly watching the maids and other staff of the castle as they go about their work. And throughout the entire process, she can’t help but feel nervous. Every time she sees a noble, she tries to politely and without their notice make her way around them so as to not provoke them in any way. Something that is extremely common amongst the castle staff.
+
+At the same time, she double and triple checks every important job in the castle, occasionally scolding a maid or other worker for even the slightest of errors that could get the maid or servant killed should a noble take notice.
+
+And right when she’s about to leave the servant’s entrance, she sees the door to the outside opening, following which a beautiful maid walks in. The maid has the type of body the male nobles would love, with a full figure, snow-white hair, pale skin and beautiful red eyes that seem to glow in the darkness of the entrance.
+
+An albino?
+
+The head maid quickly walks over to the maid, glances at the symbol on the uniform which shows the job she currently has, and warns her, “Be careful when you’re on the upper deck. I don’t care if you take a break down here, but make sure you’re absolutely perfect in everything you do up there if you want a chance at returning home unscathed after this party, do you hear me?”
+
+The maid looks surprised for a second before nodding her head and saying rather meekly, “Yes, ma’am.” Then she scurries off to go do her job.
+
+Head Maid Jesselle watches her for a moment, making sure she’s doing everything as neatly and perfectly as possible, but she grows surprised when she sees just how put together the maid is.
+
+This one might survive the night unscathed after all.
+
+She glances towards the other end of the servant’s entrance before frowning.
+
+But… if only such a splendid maid didn’t have to go to the upper deck…
+
+Every servant working in the castle knows just what sort of temperament the Emperor has.
+
+Crude, vicious, rude, vile, manipulative, and a drunkard. None of which are good qualities for a ruler to have.
+
+And many of the nobles share a lot of those temperaments, some even attempting to mimic them just to gain the man’s favor.
+
+Jesselle shivers as she remembers the poor fate of the last maid who so much as tripped in the Emperor’s presence. Even though she caught herself without spilling anything or making a mess, or even falling.
+
+She still can’t get the sight of the woman’s corpse lying outside of the servant’s entrance out of her mind. Or what was left of it at least.
+
+The head maid looks around once more at the workers in the area before quickly moving on to go check up on another area of the castle wing.
+
+AriaOne and a half hours before the party
+
+I feel slightly surprised as I carefully make my way through the hallways of the castle. Because I was at least expecting someone to question me in some way.
+
+Instead I got what looked like a higher authority maid, possibly even the head maid, fussing over me and worrying.
+
+Which goes to show just how terrible working at this castle must be. For her to specifically warn me like that.
+
+And after just five minutes of walking through the castle, which is still hastily in preparation for the ball, with many of the higher nobles already having arrived just to impress the Emperor with their early attendance, I can tell just how harsh it is. Some servants are even having their hands cut off if they so much as step too close to the wrong noble. And no one even bats an eye.
+
+Some of the maids end up dragged away and never seen again if they make even the slightest of mistakes, which leaves me feeling… slightly nervous. Because if someone tries to do that to me, I’m pretty sure they’re gonna end up dead. And that might cause a problem with our plan.
+
+Scratch that. They will end up dead.
+
+Fortunately for me, I’m skilled enough to navigate towards the upper deck without a word. And I use other servants as cover whenever I can, making sure to look natural while doing it.
+
+Military training certainly has its unexpected benefits, after all.
+
+Once I arrive at the upper deck, I find it shaped like a large rectangle, with another smaller rectangle taken out of the side of said rectangle closest to the windows with no floor within that smaller rectangle, allowing the upper deck to look down at the lower floor of the ball. Meanwhile there’s a railing going around that smaller rectangle, with an area for the upper class nobles to dine and talk on the other side of the large rectangle.
+
+Of the people here, it already looks like most of the party is here. Dozens of nobles, all of whom are important, along with the Emperor himself, and even the commander, who is standing off to the side acting meek.
+
+The Emperor has pitch black hair and is wearing some sort of dignified robe with what appears to be black and silver metal peeking out from underneath while glowing with a faint blue shimmer. Which is clearly the barrier from the five, now four batteries. The man also appears to be in his early to mid-forties, which is what I came here expecting. He has pitch black eyes that actually emit some faint wisps of shadows from them, and has one of the new guns the Empire received from the Eternal Dynasty at his waist.
+
+And, unsurprisingly from what I’ve heard of him, he seems to have already had some alcohol to drink as his face has a hint of red to it. Nowhere near enough to classify him as drunk, but still plenty.
+
+Despite the ball not even having started yet. There’s still more than an hour before it begins in fact.
+
+I let out a mental sigh at that before proceeding with my part of the plan.
+
+After studying the upper deck a little, making sure to stay out of any noble’s attention, I begin to understand the area a bit better. Then I go about gathering the wine glasses across the tables, covertly sneaking small little purple balls into them containing a more concentrated alcohol. Something that isn’t recognized as poison by the enchantments on the glasses or the building itself.
+
+I move to hand the glasses off to noble ladies in particular, since they’re far less likely to take an interest in me. And after doing so, I move to grab some empty glasses before taking them back to the large bowls of wine within the room meant for people to dip their empty glasses in before I do just that.
+
+While, of course, sneaking several of the purple balls into the alcohol.
+
+Then I just repeat this process a few more times and stick to the edges of the room, simply waiting for the upper nobles and the emperor to get more and more drunk.
+
+The other servants and maids in the upper deck proceed to hand drinks to the upper nobles, the nobles in question oblivious to the significant increase in alcohol within the drinks. In fact, most actually seem to be marveling at how delicious the alcohol is.
+
+Which makes sense. After all, those purple alcohol balls were purchased from the Eternal Dynasty. They’re meant to be extremely delicious alcohol that you’re supposed to dilute into a drink to both increase the flavor and make it alcoholic.
+
+What you’re not supposed to do is dump dozens of them into a drink that is already alcoholic.
+
+That’s how you get people passing out drunk.
+
+And that’s exactly what I did.
+
+Now, I understand that these people have high tolerances. It’s kind of a must have here. After all, Arterian nobles love their alcohol. And the levels from the System apparently help with alcohol tolerance as well.
+
+But to have this sheer amount of it?
+
+Yeah, they’re all gonna be having a splitting headache in the morning. If they make it to the morning.
+
+I proceed to go about my business as a maid, only being accosted once by an upper noble who fortunately is so drunk that I manage to get away with the help of another servant. Which goes to show just how supportive these servants are of each other. To the point that each time one ends up in trouble, they do what they can to help them out.
+
+Gradually the remaining time until the start of the party passes, and by now, all of the upper nobles are flushed red in the face, especially the emperor. Some are even tripping over their own feet.
+
+Meanwhile a few smart ones are starting to realize that something may be wrong.
+
+The Emperor doesn’t care though. He walks up to the front and center portion of the upper deck looking out over the lower deck.
+
+And begins his speech.
+
+I hide a smirk.
+
+Almost time.

@@ -1,0 +1,163 @@
+---
+id: cc341a47-a973-53a7-b9ae-e8f811514d42
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,386 - Excellent Luck"
+slug: 0063-chapter-1386-excellent-luck
+partOf: defiance-of-the-fall
+position: 63
+ownLength: 3013
+unit: words
+publishedAt: 2025-12-04
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2819088/chapter-1386-excellent-luck"
+royalRoadId: "2819088"
+---
+
+Zac savored the stillness. Like an engine coming to a gradual halt, the turbulent energies within him calmed down. Not even half a percent of the ancient Killing Intent had been purified and incorporated, and the rest showed no indication of leaving. It had settled in, acting like a koi lazily swimming about in its pond. It was more than welcome to stay now that it didn’t trigger an overwhelming fight-or-flight response.
+
+It was very possible it would start acting up again in the future. Zac wasn’t too bothered. He was long since accustomed to being the home of dangerous energies. Compared to the unstable Remnants, the stream of Killing Intent was not nearly as troublesome, and the benefits it brought were evident.
+
+Having the intent harmonizing with his technique had filled him with insights that improved his decision-making. The feeling was somewhat close to the hubris brought by certain berserking methods, except the clarity of thought was real. It was a subtle enhancement compared to the destructive attacks enabled by the remnants. They were also exactly what Zac wanted.
+
+Knowledge was permanent and his own, while the Remnants still represented reliance on external methods. To point, the insights he’d gleaned remained, silently fusing with his own wealth of experience. It was like he’d fought two battles instead of one, and the improved internalization of experience meant faster progress with both his Dao of War and techniques. And that was just the cherry on top of the real benefit.
+
+It would take time to figure out how the attunement of his spirit worked and how to continue the process after he’d run out of foreign Killing Intent. Thankfully, it would likely be years before he ran out, provided the Killing Intent didn’t dissipate on its own before that. Zac somehow doubted it would, seeing as it had stubbornly held on since before the Dark Ages.
+
+Zac could already envision a path forward. Instead of using methods like Kator’s Intent Arrays, he’d point his Killing Intent inward and use it to temper his spirit. The straightforward approach seemed better suited to him than drawing complex arrays or fusing it with skills.
+
+It didn’t matter if changing his intent to become an internal force prevented him from fully unleashing it. The suppressive force from releasing his intent was becoming negligible anyhow. His current opponents were Early Monarchs or Heaven’s Chosen approaching the limits of Hegemony. Who in this group wouldn’t have a steady enough heart to shrug off a blast of Killing Intent?
+
+“What a lunatic!”
+
+Zac opened his eyes, finding Idiche looking at him with a disgusted expression. His current appearance undeniably warranted the look. The rain had only managed to leave streaks in the layers of grime covering his body. What remained was caked on so heavily it could only be seen as intentional. Zac had never looked like this, even when spending days fighting on the frontlines.
+
+“What kind of lawkeeper has such a sinister aura? What kind of lawkeeper bathes in blood with a deranged smile on his face? Admit it, you’re a criminal who killed their pursuers and stole their credentials,” Idiche said, looking at the sky with indignation. “That’s just my luck, teaming up with such an unreliable partner.”
+
+“I’m unreliable?” Zac sputtered as he got to his feet.
+
+Doing so, he released bursts of miasma that rejected the filth covering him. With a shake, the last of the blood was thrown off. His new set of clothes was even easier to fix. With a thought, the illusory garments returned to their original state. His burns and cuts hadn’t healed, and there was still a palpable, bloody aura surrounding him, but at least he didn’t look like a deranged caveman any longer.
+
+Looking refreshed, Zac pointed at his companion. “You were the one who fell asleep at the wheel and sailed us right into the island before we were ready. You were the one who robbed the egg and triggered the blood feud that I had to sort out.”
+
+“That wasn’t me, silly. I can’t be held accountable for what my body does when I’m asleep,” Idiche said with a grin. “And even if I threw the egg, I’m sure it was for a good reason. Maybe it was to expose your true nature to my waking self.”
+
+Zac exhaled, dropping the matter. “I guess it was for the best. I lost control over some imparted Killing Intent, and the battle helped me regain control.”
+
+“Imparted Killing Intent? Did a cabal of criminals put a hex on you?” Idiche asked curiously. “I can see why. I’ve never seen anyone fight like that. You outsiders aren’t messing around.”
+
+“Not criminals, and it’s not a curse. It was a gift from the Empire’s martyrs,” Zac said, giving Idiche a pointed look. “The kind of people who got their hands dirty so that others can live in peace.”
+
+Idiche’s eyes widened, and she actually bowed to apologize. “I’m sorry, I didn’t know.”
+
+“It’s fine,” Zac said with a wave of his hand. It was at that point a shocked exclamation came from the Shrine of Kanba.
+
+‘Ah! What in the Nine Heavens is this stuffy energy?’
+
+‘Oh, you’re awake?’ Zac asked while Esmeralda looked around from the shrine’s mud pool with wide eyes.
+
+‘How am I supposed to keep sleeping with all the ruckus outside?’ Esmeralda complained. ‘What did I miss?’
+
+Zac quickly caught her up to speed while leaving Idiche to stew in the uncomfortable silence.
+
+‘Hmm… Just be careful. Refining the cultivation of others borders on the unorthodox,’ Esmeralda cautioned. ‘Make sure you’re not being stuffed like a pig.’
+
+‘I’ll keep an eye out,’ Zac agreed.
+
+He’d been considering the same thing as the furor died down. The amount of perfected Killing Intent lodged in his body should be enough to realign the spiritual bodies of both his Draugr and Human sides. From there, it’d be much easier to patch together a method that could temper and refine a finished product. The process itself was even providing him with insights into his Dao of Defiant War.
+
+Such generous gifts rarely came without strings attached. He was still waiting on a proper update from the Crushing Hell, but he couldn’t shake off the feeling of being manipulated. The Limitless Empire was even scarier than the Buddhist Sangha in many ways, and Zac had experienced the Sangha’s nefarious methods firsthand. If he wasn’t careful, he might accidentally refine himself into another Eternal Avenger.
+
+Then again, the situation was nothing new. He was becoming an expert at extracting benefits from those at the top without signing away his future.
+
+‘And don’t let the intent enter my shrine. It’s bad enough staying next door,’ Esmeralda added before emerging to take her seat atop Zac’s head.
+
+“Anyway, we’re here now, and I think we’ve all realized something odd is going on,” Zac said. “Did the two of you see the vision of Sevona’s death?”
+
+“I did,” Idiche said with a solemn expression while Esmeralda nodded in confirmation. “This hunt is clearly different from the others. None of the hunts have covered such an ominous scenario. There’s always been a festive atmosphere where the elites of the kingdom gathered. Then, depending on the personality of the current generation’s Sevona, the beasts and their prizes would veer in a certain direction.”
+
+Esmeralda peered at the ground with a frown, archaic runes glimmering in her eyes. “The rain is slowly losing ground. There might be an outbreak before the hunt ends, depending on how things look in the island center. And that’s not including meddling.”
+
+“Do you think Sevona lived in the same place as the invaders? Could the invaders actually be former members of Sevona’s kingdom?” Idiche asked.
+
+“It might be connected, it might not… That corruption has touched many realms,” Zac said. “However, the infiltrators are definitely planning on using the taint somehow.”
+
+“Quick, go loot the beasts before we set out. The rewards might provide clues,” Idiche urged. “This hunt is full of problems, and we shouldn’t stay exposed like this. The other explorers should have awoken by now.”
+
+A smile returned to Zac’s face as he turned to the waiting carcasses, the troubles with the trial temporarily put aside. With everything going on, he’d forgotten the original purpose of the hunt. Zac also realized why their bodies were in better states than they should be. The trio of Peak Beast Kings didn’t emit nearly as much corruption as they did by the end, and the subordinates were no longer burnt, withered, or torn apart. They had been restored to facilitate looting the illusory rewards.
+
+Zac walked over with anticipation. Unless the strength of the beasts had skyrocketed for the hunt, the pack of Unvai Drakes would be close to the top of the island’s food chain. Together, they could nearly compete with a Beast Emperor. If you included their Ancestral Sacrifice, they could directly face one.
+
+Slaying powerful beasts didn’t necessarily guarantee good loot in the previous hunt. There were instances of amazing treasures emerging from E-grade beasts or randomly found in the forests. Even so, there was a general correlation between risk and reward. With twenty Late and Peak D-grade beasts that carried a trace of draconic bloodline, there should be at least a few valuable drops.
+
+Zac placed his hand on the closest drake, and the island did the rest. The beast immediately disappeared in a flash of illusory light. Mixed within was a foul cloud of rootless corruption. Zac pushed it away with a wave, and it was swiftly cleansed by the rain. However, not even a blade of grass appeared after the shimmer faded.
+
+Undeterred, Zac continued to the next. The result was the same. The third did leave a boon that only left Zac angrier. It was a cracked clay bowl that couldn’t have been an F-grade item even when it was whole. A broken mortal-grade pottery for slaying a Late D-grade drake. Even if the loot was random, was the floor truly so low?
+
+Zac's face grew more overcast with every pull. Time and time again, he came up empty or wished he had. There was still nothing of value when only half the drakes remained.
+
+“Do you want me to give it a try? Maybe they need a woman’s touch,” Idiche said with an amused expression. “Or at least the touch of someone not cursed by seven years of bad luck.”
+
+“My luck is quite excellent, thank you. There’s obviously something wrong with these animals,” Zac muttered, having a hard time reconciling the results with his massive pool of Luck.
+
+Esmeralda was just as shocked and looked at him askance. “Who are you? What did you do with the real Zac?”
+
+“I refuse to believe I won’t get anything,” Zac muttered under his breath before continuing his sweep.
+
+Finally, Zac saw his winds of fortune turn. In lieu of releasing corrupted mists, the next drake dropped a crystal filled with the Lost Plane’s corruption. It looked just like the raw crystal Idiche had looted from an outsider, except this one was even more jam-packed with corrupted energy.
+
+Like with Idiche’s raw crystal, the ratio of enlightenment to corruption was much worse than the refined Ultom Crystals prepared for the [Courtyard Compass]. That didn’t matter to Zac. It still held significantly higher amounts of enlightenment than the lake water back then, and this level of taint wasn’t enough to pose a threat to him. It was the perfect souvenir to bring back from the trial.
+
+While there was plenty of unclaimed enlightenment drifting about in the Left Imperial Expanse, Zac would have to go back to relying on his own comprehension when he returned to the outside. Every stack of Corrupted Crystals represented the chance to break through a bottleneck when researching skills or cultivation methods. The more he could collect before leaving, the better prepared for monarchy he’d be.
+
+“These things again?” Idiche said, her face souring even further. “So not only do I have to risk my life against a bunch of evil faceshifters, but there won’t even be any loot on the way?”
+
+“If the other beasts prove no better, there’s still the lodge itself,” Zac consoled, careful not to show any satisfaction. So long as everyone considered the crystals worthless, it’d be easier to keep them for himself. “Give me a second, and I’ll wrap this up.”
+
+It truly looked like his luck had come around because Zac found two more crystals from the Late D-grade drakes. Better yet, he got two more from the Peak D-grade Beast Kings he’d saved for last. Each crystal thrummed with power, easily exceeding what [Purity of the Void] could deal with in one sitting. Its Dead Dao was also of a higher rung, which hopefully meant its enlightenment was of higher quality.
+
+“As expected, these things aren’t illusions,” Zac said when the [Mercurial Sack] rejected the crystals.
+
+The trinkets had entered just fine and were spat out seconds later, confirming they were near-perfect illusions that needed the sack’s powers to be made real. The Corrupted Crystals were directly stored inside Kaltosa Lu’s reinforced Cosmos Sack. The corruption was strictly contained in the crystals, but there was no point in taking the risk of mixing the crystals with his other resources.
+
+“So, any ideas on where we should go next?”
+
+“I’ve tried to figure that out while you were playing around,” Esmeralda said. “The corruption has muddied the rules. Otherwise, the island’s formation would have followed the same rules as Citadel, except for some local quirks.”
+
+“That’s the Omnipresence Cipher,” Idiche said, her brows rising in surprise upon seeing the strong reaction from her companions. “What? That’s what it’s called.”
+
+“Why haven’t I heard that name before?” Zac slowly asked.
+
+“I only know the name because my master has mentioned it a few times. It’s not really relevant until you become an Inner Disciple. Outer Disciples lack the knowledge and cultivation to study the cipher, whether it’s to draw inspiration for their cultivation or seize fate,” Idiche explained. “Inner Disciples are qualified to touch the corner of the mystery. True Disciples are strong enough to contribute to its completion.”
+
+Idiche looked at the illusory mists swirling through the forest. “I’ve heard that expanding the cipher is extremely lucrative.”
+
+“It’s incomplete?” Zac muttered, glancing at Esmeralda. “Like the Perennial Vastness?”
+
+“The approach is similar,” Esmeralda agreed. “Though they’re not completing the Dao. They’re working together to fix that old man’s machine.”
+
+Zac was of the same mind. He hadn’t heard anything about Omnipresence since stepping foot on the Mercurial Shores, but he would have been surprised if the concept wasn’t central to the court’s operations. Otherwise, Janos wouldn’t have activated two halos by saving Kadel, who later became Grand Dream.
+
+A fate-defying scheme like the Omnipresence Chamber, based on the unique nature of the Stellar Wanderers, would naturally present multiple challenges. The court’s elite disciples had probably been chipping away at those bottlenecks for generations. Zac had a feeling they never reached their goal in the original timeline.
+
+They probably ran out of time, forcing them to take shortcuts. Perhaps that was why timelines were bleeding into each other around the Peregrine Ocean, and why Ultom’s corruption had managed to seep into the Omnipresence Chamber. If the missions surrounding the Hollow Court were to stabilize the bridges to the lower planes, then the Mercurial Court’s tasks had trialtakers perfecting the technology that preserved and altered history.
+
+“I don’t know what you two are whispering about, but I have an idea,” Idiche said. “I think there was a second reason I went and lured over that specific pack of beasts. I saw an underground tunnel and pools of lava in my dreams. I think they were blocking the path we needed to take, and fighting them in their home would have been dangerous.”
+
+“Beats picking a route at random,” Zac said. “Where did you find them?”
+
+“There, I think?” Idiche said, pointing at one of the closest mountain peaks.
+
+“Alright. Let’s just follow their trail. Shouldn’t be too hard,” Zac said.
+
+“I wish you’d stop saying things like that. Nothing good ever comes after,” Esmeralda sighed, shrinking deeper into Zac’s mane of silvery hair.
+
+“I—” Zac raised his hands in defeat when Idiche glared at him like she’d bite him if he kept tempting fate.
+
+The trio finally left the beach, with Zac taking the lead. He tensed up the moment he passed through the first line of trees. The ambient energy had skyrocketed. It was still mainly Dream Energy, with corruption trying to emerge from below, though Zac also noted a slight undertone of Temporal Dao. That little Time-based spirituality couldn’t harm Zac, especially after getting help from Grand Dream. The problem was the overbearing power of Fantasy.
+
+If not careful, his mind would be set adrift. That wouldn’t be that big of a problem if he were at home. On an island covered in formations, it could lead one into a deathtrap. Just as dangerous, being distracted by the illusions could provide the whispers of the Lost Plane a point of entry into one’s mind.
+
+This much wasn’t enough to make Zac lose his wits or his bearings, but they’d also just entered the forest. The ambient energy was not the only thing to worry about. The mists churned, and a toppled trunk suddenly exploded to give way to a herd of frenzied deer. Their horns were a beautiful green jade, but their eyes were pitch-black and marred by madness.
+
+Frothing at the mouth and reeking of hostility, the beasts charged right at Zac. The Killing Intent that had just calmed down began accelerating, and Zac’s heart thumped with anticipation. Rather than rabid Beast Kings, the pack of eight looked like enlightenment on legs. They hadn’t even made it a hundred meters into the forest before a second pack delivered themselves. Their journey to the lodge would be a constant battle at this rate.
+
+Zac couldn’t be happier.

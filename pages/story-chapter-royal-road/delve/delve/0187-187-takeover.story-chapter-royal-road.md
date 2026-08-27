@@ -1,0 +1,307 @@
+---
+id: 3ea7e373-d962-5b1f-b49a-6f315541d00c
+page-type-slug: story-chapter-royal-road
+title: "187: Takeover"
+slug: 0187-187-takeover
+partOf: delve
+position: 187
+ownLength: 4494
+unit: words
+publishedAt: 2022-04-03
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/876665/187-takeover"
+royalRoadId: "876665"
+---
+
+Attention Residents of Three Cliffs
+
+We are Ascension, an organization dedicated to the betterment of ourselves through cooperation. Our members consist of awakened and non-awakened alike, and we are loosely affiliated with both the Adventurers’ Guild and the Vigilant Order of Watch Keepers.
+
+Effective immediately, your city is now under our jurisdiction.
+
+Do not be alarmed.
+
+We are here to help.
+
+Shortly after this message has been distributed, we will enter the city, our first priority being ameliorating the damage caused by the Empire of Adamant. To this end, we will begin by sanitizing the city and its occupants. Do not fear the white light. Purify cures diseases and scours away filth and contamination, leaving everything else untouched. A Healers’ clinic will be established in the center of the second tier for other injuries. Look for the white flag near the reservoir. Magical healing, food, and clean water will be provided, free of charge. Aid will be prioritized by need, independent of social standing. If you are caring for someone too injured to be moved, inform any Ascension member of your situation, and we will assist. Members will be marked by a white cloak for easy identification.
+
+Any residents able to help with the restoration of the city should report to the camp we will establish in the ruins of the low city in the coming days. A city watch will be created from these volunteers. Further, those skilled in construction will be organized, focusing on housing for displaced residents, as well as for the refugees already in our care from the fallen cities of Fel Sadanis and Vestvall. Basic harbor infrastructure will also be prioritized in anticipation of inbound vessels.
+
+Ascension does not intend to exert lasting control over the city, and we plan to depart as soon as we have constructed sufficient vessels to carry us. The purpose of our organization is not to impose our will upon others. That said, injustice will not be tolerated while we are in control. Superseding any and all local laws, the following are classified as severe crimes and will be harshly prosecuted:
+
+Murder
+
+Rape
+
+Slavery
+
+Assault
+
+Abuse
+
+Harming a Crystal Slime
+
+Impersonating a member of Ascension
+
+All persons are equal under this law. No allowances will be made for differences in species, race, lineage, religion, organizational affiliation, or awakening status. Further, general misconduct and actions counter to the restoration of order will not be tolerated. Additional information will follow, posted at the clinic, our camp, the Adventurers’ Guild, and large, local gathering points to be identified.
+
+Please remain calm and share this message.
+
+Again, we are here to help.
+
+Rain
+
+Captain of Ascension
+
+Custodian of the Watch
+
+Silverplate of the Adventurers’ Guild
+
+3061-04-18
+
+“Well, what’s it say?”
+
+Illik looked up from the sheet of blue paper the grubby washboy had handed him, unsure how to answer the question. He stood in the dimly-lit common room of his tavern, crammed to bursting with the destitute souls that had been lucky not to be working the docks when the Adamants had descended. The smell of sickness was heavy in the air, and a man in the back was hacking watery coughs that promised more death to come. The smoke had probably burned his lungs.
+
+Illik grimaced and fixed his gaze back on the boy. “Where did you get this?”
+
+“An armored lady fell out of the sky and handed it to me!” the washboy said excitedly. “Almost soiled my britches! She said to read it to everyone, but then she flew off before I could tell her I don’t know how. I brought it to Vea first, cuz she’s great at reading, but—”
+
+“It’s a joke, right, Mister Illik?” the equally grubby washgirl—Vea, presumably—interrupted. “There was lots of big words, but I think I got most of it… Mister Illik? Hey, Mister Illik? Are you okay?”
+
+“I don’t know,” Illik replied numbly, rubbing a hand over his head. He looked back at the boy who’d given him the note. “Was this armored woman an adventurer?”
+
+“Sure as sails,” the boy replied in a rush. “She had one of those silver plates round her neck, and a huge bow, and her armor was like ‘bwaaa,’ and her face was pretty and clean like a hero from—”
+
+“I believe you, lad,” Illik interrupted, burgeoning hope burning away his disbelief. There was no way either of these children could have written this note. The girl was right about the words. Even he was unsure of some of them. Other than the signature, the printing was immaculate, the work of a professional scribe, and the blue paper, while odd in color, was thick and high quality.
+
+This wasn’t a joke, or if it was, it was in particularly bad taste, even for an adventurer.
+
+I wouldn’t put it past them. But if its real and I don’t read it...
+
+Looking around, Illik spotted a nearby crate, then clambered atop it. He cleared his throat loudly, holding up the note for the room to see.
+
+“Everyone, uh…” He licked his lips, finding himself in need of a drink. “There’s news…”
+
+Rain stood atop the cliff face with Ameliah, Vanna, and Jamus. A line of fifty or so white-cloaked individuals stood behind them, waiting to make their descent, Tarny first among them. The remainder of Ascension would remain here, already beginning to work the lumberyard with help from the refugees.
+
+“That should be long enough,” Rain observed, glancing at the setting sun, then at Vanna. “Ready, Commander?”
+
+“Ready,” Vanna said. “It’s a shame we couldn’t all go at once. It would be much more impressive.”
+
+“We’d need to practice that first,” Ameliah said, laughing. “There’s only one of me to catch anyone who drifts away.”
+
+Rain smiled, looking forward again and mentally adding some group drills to his to-do list.
+
+Purify.
+
+White light burst from his armor, the spell burning at full power and extended to maximum range. “Tarny, if you please.”
+
+Tarny stepped forward, setting a bugle to his lips and releasing a long blast.
+
+“Have a nice jog,” Jamus said in Rain’s ear as the sound of the horn echoed up from the city. He tapped Rain on the shoulder, and Rain felt himself start to drift into the sky before he clamped down on the magic.
+
+“Thanks,” he replied with a smile, watching as Jamus moved on to Vanna. She’d be right behind him, then Tarny, then on down the line.
+
+“Ascension!” Rain called out with awakened lungs, stepping over the edge. “Drop!”
+
+“Shit, shit, shit, shit, shit, shit…”
+
+Gegalmar hovered about in a panic, repeating his litany to the sound of Ulau’s hammer striking chain. The gates to the pens had been thrown open, and dozens of bedraggled men and women were lined up, waiting to have the manacles stricken from their wrists. Two hulking guards watched over both Gegalmar and the smith, keeping the slaves back by gripping their clubs and glaring menacingly.
+
+“Hurry up!” Gegalmar snapped at Ulau. The pace of the hammer didn’t increase. Instead, the sound of laughter came to his ears. Gegalmar whirled, seeing one of the slaves leering at him. An old man with a scraggly beard. Scars on his shoulders from where the whip had wrapped around told a story of disobedience.
+
+I never should have bought that one.
+
+“You’re a dead man,” the slave promised, rattling his chains. “I heard what was in that letter. Custodian of the Watch, it said. And you think freeing us will save you?” He barked out a laugh.
+
+“Quiet!” one of the other slaves hissed, a woman, just as shirtless as the old man, though without the scars. Pleasure slaves were of lesser value if they were damaged before sale.
+
+“No…” Gegalmar said, coming to a stop. “No, he’s right.” He looked back at Ulau as the smith’s hammer finally shattered the pin, freeing the manacles from the wrists of the slave he’d been working on. The freed man immediately flung them aside, then dashed off into the night.
+
+Gegalmar had a fleeting urge to order one of his guards to chase after him and club him into a bloody mash, but he restrained himself.
+
+No, that ship has left the harbor. It doesn’t matter if they talk. Everyone in town knows me by the quality of my stock. My only hope is mercy.
+
+Gegalmar shivered.
+
+Their leader took down Thrast like he was an ant. He walked into the Barge King’s garden, then walked back out in one piece.
+
+And that light…
+
+Gegalmar’s pens were on the north end, near where the shining man in armor had descended. He had always prided himself on keeping his stock clean, but now the pens shone as if they’d never been used. The whole city did. The leader of Ascension had done it from two streets over, and he was still doing it, the glow clearly visible above the peaked rooftops to the south. Gegalmar could still feel the power of that light, stripping the dirt from beneath his fingernails. He hadn’t felt this clean since he’d been born, except for the sour certainty that had settled into his stomach.
+
+If he wants me dead, I’m dead.
+
+Gegalmar looked back at the scarred slave, who was still cackling with sadistic glee.
+
+“All I can do is beg you for forgiveness,” Gegalmar said over the laughter, his desire to beat it out of the man held in check by reason. Penitence, or a show of it, was the only hope he had left. “Truly, I’m sorry,” he continued, filling his voice with as much sorrow as he could. “I only did it for the money. I never whipped you when I didn’t have to, did I? Only when—“ He coughed. “It wasn’t like I enjoyed it, not like some of the others. You must understand that everyone has to make a liv—“
+
+A snap of shattering bone rang out, and Gegalmar fell, dead before he hit the ground. The blow had cracked his skull and had probably broken his neck for good measure.
+
+“There,” the smith grunted, lowering his bloody hammer. The guards took one look at each other, then ran off without a word.
+
+The smith spat on the corpse. “Piece of shit wasn’t wrong about needing to make a living, but I’ll be damned if he takes me down with him and his lies.” He gestured to his anvil. “Now, come on. Let’s get back to it before that light comes back.”
+
+Rain jogged to a stop outside the spooky-looking manor Nails had described, his newest cloak swishing behind him. He let Purify die away, then let go of a pent-up sigh. It hadn’t taken him long to complete his jog through the city, but he was exhausted. It wasn’t a physical toll that had been extracted from him, but a mental one.
+
+Three Cliffs was in a bad way. Quite a few things would need to be dealt with, one way or another.
+
+Rain shook his head, starting up the path to the manor. Vanna and the healers would be at the reservoir by now, and injured townsfolk had already been gathering there when he’d run by. He hadn’t stopped, though it had pained him. He’d needed to finish Purifying the city and cementing himself as an inexorable force in the minds of the populace. A handful of Aura-Focus-empowered blasts would have accomplished the first task just fine, but for the second, a slow jog would give people more time to really come to terms with it. To see the unavoidable and unstoppable purging of the filth as the work of a person and not that of some impersonal wall of magic.
+
+As much as Rain didn’t like leaning on his reputation, it would be the armor that kept the rest of the company safe.
+
+[⟬filth⟭!] Dozer sent, seemingly at random, given that he was happily scrubbing away inside Rain’s soul and only vaguely aware of what was going on outside.
+
+Rain quirked half a smile, then entered the manor. As expected, Nails was waiting for him in the foyer, along with a half dozen aspirants, all cloaked in white. The room itself was trashed, probably having been looted days ago.
+
+After greeting everyone, Rain got an update from Nails on the general status of the invasion, including information relayed from Ameliah, who was monitoring everything from above. He then told Nails about the problem areas he’d spotted, giving him a moment to relay the information to Vanna. The plan called for a small pause now, owing to the need to consolidate their position at the reservoir. Samson would send out teams to deal with the issues Rain had seen in time.
+
+Nails’s eyes refocused as he finished. “Anything else?”
+
+“Not for now.” Rain replied. “Where are the stairs, and who’s the random guy? Not the one in the vault. The other one.”
+
+Nails pointed. “Stairs are down that hallway, and he’s one of Bakal’s. He was guarding the entrance when we got here. No traps, and yes, we checked.”
+
+“Ah,” Rain said. He glanced around at the aspirants, then pointed to a different door. “There’s a pile of copper coinage in that room. In a desk, to the left of the door, low down. Probably in a hidden compartment, given that it’s still there. Whoever looted this place clearly missed it.”
+
+I love Detection.
+
+He shifted his finger to point up the stairs. “There are a couple books up there in the room on the right, and another one in the big room at the end of the hall. Someone go see if any of them are on my list. Heck, just grab them all anyway, and anything else that you see that isn’t too heavy. I’m going to go find out what’s taking them so long.”
+
+Hearing murmured assents, Rain headed for the stairs. As he descended into the basement, now seeing it with his own eyes, he immediately fixated on the vault. It wasn’t set into one of the walls as he’d expected before running his sweeps. Rather, it was a free-standing metal cube, perhaps two meters on a side. A smallish circular door that wouldn’t have been out of place in a bank was installed on the side facing them. A purple line of runes traced its outer edge, the color striking in the light of the lone evertorch burning nearby.
+
+The basement itself was cramped, with stone arches supporting a low ceiling. Lines of crates further crowded the space, clearly already having been looted. The area immediately around the vault was clear but for the three figures standing there. Tallheart and Romer were crouched by the vault door, inspecting it with their cloaks splayed behind them on the ground. The third figure was an unfamiliar man, wearing Bakal’s green and blue, and he was standing and looking at Rain with a wary expression, tinged by clear irritation.
+
+“How’s it going, guys?” Rain asked, more to Tallheart and Romer than to the stranger.
+
+Romer just kept muttering to himself, alternating between scribbling in a notebook and tracing the line of runes with a finger. Tallheart, meanwhile, had his hand placed against the vault beside the door, his eyes closed.
+
+The unfamiliar man was looking at Rain uncertainly, glancing at Tallheart and Romer as if unsure whether Rain expected him to respond.
+
+Rain coughed loudly.
+
+“What?” Romer said with a start, looking over his shoulder and blinking at him. “Oh, hello Captain.” He returned his attention to the runes. “This is fascinating.”
+
+A muffled groan came from within the vault.
+
+“Tell your men to hurry it up,” said the man in green and blue, clearly having gotten over his trepidation. “He’s been in there for days, and these two are out here bloody studying!”
+
+“Don’t worry,” Rain said as he glanced at him, paradoxically pleased at the rudeness. It was better than cowering. “What’s your name?”
+
+“Nemen,” the man said tersely.
+
+Rain nodded. “Nice to meet you, Nemen. I’m Rain. As I was saying, don’t worry. We’ve got this under control.” He shifted his gaze to Romer. “Romer, do we have this under control?”
+
+“This is beyond me,” Romer said, looking up from his notebook, then getting to his feet and levering his free hand into his back as he stretched. “I’m just trying to learn what I can. If we can get it open without breaking—”
+
+“Damn you!” Nemen shouted, whirling on him. “My friend is in there! This is no time for joking around. How can you be—“
+
+“Hey!” Rain sharply interjected before continuing in a softer tone as he walked forward. “I said don’t worry.” He clapped a hand on Tallheart’s shoulder, a smile forming on his lips. “Grond will breach it.”
+
+Tallheart rumbled, only now opening his eyes and taking his hand away from the vault wall. “That is not my name.”
+
+“Grond, Grond, Grond,” Rain chanted, not a doubt in his mind.
+
+Rumbling again, Tallheart brushed Rain’s hand from his shoulder, then crab-walked slightly closer to the door. He extended a single finger, then pressed, and his finger sunk into the steel below the door with a squeak. He then rose slowly, loudly carving his finger around the perimeter of the door as easily as if the vault had been made of wet sand. When he finished, the door settled into the gap with a clang. Before it could fall free, Tallheart grabbed it by the wheel in the center, then pulled it out like a stopper from a bottle. He set the door down against one of the stone columns with a dull clang, its runes still glowing.
+
+“There,” he said, his antlers lightly scraping against the ceiling as he turned to face Romer. “Undamaged. You may study it at your leisure.”
+
+“That works,” Romer replied, snapping his notebook closed.
+
+“Make way,” Rain said, stepping forward and activating Purify.
+
+The vault hadn’t been airtight, obviously, given that the occupant was still alive, but it had been airtight enough to keep the worst of the smell inside. Now that the seal was broken, there was nothing stopping it…or the truth of what the man inside had been forced to do.
+
+Gods, I’m glad I’m done with that.
+
+Perception-enhanced senses complaining loudly, Rain stepped through the door. The vault’s metal walls hungrily drank up the luminescent fog, but Rain simply boosted the power, kneeling beside the man sprawled on the ground between the shelves. He was wearing a brown robe, the color fortunately having nothing to do with the rapidly evaporating mess in the corner.
+
+The Mage moaned weakly, having raised a hand to shield his eyes.
+
+Three days without water. He’s probably only conscious because he’s awakened.
+
+“Here,” Rain said, extracting a test-tube vial from a thigh compartment, then pulling out the cork. “Drink this. It’s a health potion. Anyone have a waterskin?”
+
+“I do,” Nemen said, not having room to cram himself into the vault behind Rain. He passed it over Rain’s shoulder, and Rain took it while the prone man spluttered on the syrupy potion.
+
+“Sorry, it’s concentrated,” Rain said, holding out the waterskin. “Here.”
+
+The Mage grabbed it, eagerly raising it to his lips and practically pouring the contents down his throat. He choked, coughing and slopping water down the front of his newly-cleaned robe, only for it to be evaporated away by Rain’s spell. Clothing was not supposed to be wet while worn. That was a bit of a stretch for Purify, but Rain had come a long way since the time he’d been drenched in slime in the sewers below Fel Sadanis. With how much power he was shoving into the spell at the moment, convincing the magic to wipe away a little dampness was no trouble at all for his practiced will.
+
+Rain looked around while the man was busy taking a second, more controlled draw from the skin. The shelves glittered, anything and everything metallic reacting to his ongoing magic. The back wall in particular caught his eye. Three shelves practically shone in his sight, loaded with silver bars about the size and shape of smartphones, stacked three-high in double rows.
+
+Rain whistled to himself softly.
+
+Those are Bank issue.
+
+In day-to-day dealings, most people stuck to copper coinage—or copper and iron, if you were the kind of person who liked paying with exact change and holding up the line at the grocery store. The largest denomination of copper was a small bar, a little bigger than a domino, and it was worth fifty of the common, one-copper pieces. After that, it switched to silver.
+
+Incidentally, there was no point in trying to melt down coinage to exploit the difference between its fiat value and that of the metal it was made from. Rain had asked. It turned out that the Bank didn’t use pure metals, but instead alloys containing Tel, which, in addition to being more durable and immune to corrosion, would shatter into nothing if overly damaged. It was a tidy solution to the dual problems of counterfeiting and coin clipping, he supposed, cleverly exploiting the rules of the world to make a system that didn’t need much in the way of oversight.
+
+It almost made up for the non-decimal insanity. Almost.
+
+Two copper bars made a single small silver coin—or just a ‘silver,’ in the same way the small copper coins were ‘coppers.’ Five small silvers made a large silver, or a ‘ring,’ the name coming from the hole stamped in the center of the coin. Four rings made an ‘orb,’ which was a patterned sphere of silver about the size of a gumball, because screw you.
+
+Seriously. Somebody at the Bank in times of yore was sadistic.
+
+Rain shook his head, then looked back at the shelves. A silver bar was worth two orbs and two rings, making this a lot of money. It was hard to assign dollar values to things, given the wildly varying cost of goods and services when comparing an industrial society to a magical one, but the figure Rain liked to use was $2 per small copper. Doing the math, that made one silver bar worth about $10,000, provided that you were only buying stew.
+
+Rain smiled, recalling the irritated look on the waitress’s face when he’d paid for that meal in Tel. Then he finished his count, and his smile widened.
+
+Five hundred and four bars, so about five million dollars. Wow, okay. I’ve come a long way from that day in Fel Sadanis. Granted, my conversion rate is suspect, but it gives me a rough idea of what I’m working with. How about GranTel? One GranTel is worth…three silver bars…ish, so… Huh, wait a minute. Is that why they’re stacked three high? Eh, maybe not. Price of Tel varies. Probably a coincidence. Anyway, one hundred sixty-eight GranTel is at least as close as five million dollars.
+
+…
+
+Hot damn, piracy pays well. Good thing, too. With all the Tel we’ve been burning through, this should add some nice backing for the credit system. Anyway, fiscal policy later. Looks like he’s ready to talk.
+
+Lowering the empty waterskin, the Nature Mage looked up at Rain and scrubbed at his mouth. He cleared his throat, then spoke in a scratchy voice. “Thanks.”
+
+“You’re welcome,” Rain replied, watching as the man got to his feet. He moved to help, but the man waved him away.
+
+“Who are you?” the Mage asked, using one of the shelves for support. “And what’s that magic you’re using? Are you—” he licked his lips. “Are you with the Empire?”
+
+Realizing that Purify was still active, Rain let the spell fade, backing out of the vault as he replied. “My name is Rain, that was the best spell ever, and no, I’m not with the Empire. Anyway, come on out. Your friend was worried about you.”
+
+“Are you okay?” Nemen asked hurriedly, having been hovering behind Rain’s back, too short to see over his shoulder.
+
+The Nature Mage relaxed significantly. “Nemen? Gods. Yes, I’m okay. Just a little unsteady.”
+
+“Here, let me help you,” Nemen said, offering him a hand to help him through the carved hole where the vault door had been. Once the Mage was safely through the opening, he brushed himself off, then immediately did a double-take, snapping an arm up to point at Tallheart.
+
+“C—cervidian!”
+
+Tallheart recoiled as if he’d seen a snake. “H—human!” he exclaimed, pointing right back.
+
+After a perfectly held pause, Tallheart dropped his arm, his face becoming stone once more.
+
+“That is how you sound.”
+
+Once Rain stopped laughing, he flashed Tallheart a quick thumbs-up, then addressed the Mage. “Captain Bakal asked me to get you out. He didn’t tell me your name, though.”
+
+“Lellermen Green,” the Mage replied, sounding a bit overwhelmed. “Just Green is fine.”
+
+“Green, then,” Rain replied. “Is that a family name?”
+
+Green shook his head. “From my class.”
+
+“Ah,” Rain said. “Anyway, Green, the city’s a bit crazy right now, and I’ve got a lot to do tonight. If you’re up to walking, I can take you back to Captain Bakal’s place. Before I do, though, a couple questions. First, and most importantly, do you want to go there?”
+
+“Uh,” Green replied, hesitating. “Yeah, sure.”
+
+Rain frowned behind his visor. “I’ll be more direct. Do you serve Bakal willingly, or has he coerced you somehow?”
+
+“What?” Green asked. “No, I just work for him.”
+
+“He pays you?” Rain insisted. “How much?”
+
+Green glanced at the open vault, then back at Rain, then to the silver plate dangling from Rain’s neck. “Yeah, he does,” he said, his eyes narrowing. “Are you trying to make a better offer?”
+
+Rain shook his head. “Nothing like that, and by the way, feel free to keep what’s in your pockets. You deserve it after being trapped in there. Anyway, I’d rather not piss off Bakal, especially with what we just…well, you’ll see. I just wanted to make sure I wasn’t returning you to slavery or anything.”
+
+“Uh…no,” Green said. “Nothing like that. He paid for my class, but I’ve been free of that debt for ages. I stay because I want to.”
+
+“Good, good,” Rain replied, catching Romer’s eye. “Romer, can you start filling some of these crates, please? I’ll have the others upstairs come down to help. Tallheart, guard everyone and make sure they get to the clinic safely, yeah? I wouldn’t put it past someone to try something. People are stupid. I’ll have Nails tell Vanna to send another team for backup, just in case.”
+
+“Mmm,” Tallheart rumbled.
+
+“So much to do, so much to do,” Rain said with a sigh, heading for the stairs and beckoning for the Nature Mage to follow. “Come along, you two. Say, Green, about that class of yours. While we walk, would you mind if I asked you just a few questions? Can you, like, make plants grow super fast, or…?”

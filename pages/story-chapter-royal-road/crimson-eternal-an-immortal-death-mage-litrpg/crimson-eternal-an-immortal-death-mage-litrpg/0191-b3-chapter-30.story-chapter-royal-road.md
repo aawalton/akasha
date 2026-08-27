@@ -1,0 +1,165 @@
+---
+id: 6b3a0960-b815-5f25-bb66-83d7cb998038
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 30"
+slug: 0191-b3-chapter-30
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 191
+ownLength: 1446
+unit: words
+ownProgress: 1446
+publishedAt: 2024-08-07
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1748586/b3-chapter-30"
+royalRoadId: "1748586"
+markedReadAt: "2026-06-29T19:12:12.954Z"
+---
+
+Aria
+
+The moment I pass through the doors, they close behind me. Leaving me inside of the Spire on my own as I look around at the bottom floor.
+
+It’s a rather mysterious place. Filled with floating blocks, various towers, floating mana creatures that just casually float through the air defying gravity, and other moving objects in the air.
+
+The mana creatures vary in shape and size. Some look like floating spheres made of various different rings, with some of the popping out and going back in. Other mana creatures look like different shapes like octagons and triangles or pyramids. All just floating around the place.
+
+Lastly there are more mana creatures on the ground that are very clearly stone and iron golems. Often with sets of metal armor on. Full plate armor. And polearms.
+
+No swords though, which is surprising.
+
+Other than the mana creatures, the towers sometimes stretch upwards into massive blocks. Which are, from what I’ve heard, more sections of the Spire.
+
+I did a little bit of research before coming here, and I’m pretty sure the second Tier starts…
+
+My thoughts trail off as I look high up into the air. All the way to a very far point so far up that it’s a little difficult to see. Where a ceiling is.
+
+Right. The second Tier starts on the next ‘floor’.
+
+Above that ceiling.
+
+I turn my attention to the various towers all around. Some of whom build off of previous towers on those large blocks.
+
+Then there are some that just kinda start midair completely defying gravity. With some entrances that have floating blocks near their entrances, and other floating blocks moving around making a pattern that they move back and forth across.
+
+Some of the golems on the ground level take notice of me and begin walking towards me at a brisk pace. I turn my attention to them before sprinting forward and punching it right in the head, denting it and sending its helmet flying with my physical strength alone.
+
+I blink at that before raising my fist and looking at it. Then I turn to look at the golem as well. A golem that is still walking towards me.
+
+So I punch it in the chest this time, denting it as well. And without hesitation, I pull out my sword and cut straight through the thing with ease, slicing it in half.
+
+[User has killed one being of Level 8. Requirements to reach level 50 have been updated. New requirements are as follows: 999971/1000000 beings have been granted Death.]
+
+Hmm.
+
+I… haven’t really had much chance to test out my physical strength now that I think about it. Over the years I’ve mostly just used explosives, my Death Spirits, and guns to kill the mana creatures. I haven’t really used my own physical strength to beat them to death or use a blade. Despite having a swordgun.
+
+But I’ve gotten a lot more physically stronger over the years, haven’t I? I know I’ve seen it when moving around. Just based off of my speed, maneuverability, how high I can jump, and so on.
+
+A faint smile stretches across my face at this. At the realization of just how much stronger I’ve gotten.
+
+Then I tap my foot once while summoning hundreds upon hundreds, even thousands of Lesser Death Spirits throughout the ground floor around me. And without hesitation, I point forwards while declaring, “Off you go! Start your hunt!”
+
+All of the thousands of Lesser Death Spirits sprint forwards before tearing apart the golems in a massive wave.
+
+A sight that is rather cool to watch.
+
+So I watch it with my arms crossed for a bit before tilting my head upwards to look at the path I’ll need to take forward.
+
+Hmm… that’ll work.
+
+I begin walking forward through my Death Spirits, all of whom are going around slaughtering golems one after another. With little Asher going off on his own as well to explore. But I stop walking within moments. Because a notification appears in my vision along with a System Message.
+
+User has leveled-up to level 50.
+
+User will now be given their fifth skill.
+
+Assessing user’s accomplishments and actions… assessment complete.
+
+User will now be given the following skill:
+
+Death’s Judgment
+
+This skill allows the user to infuse direct attacks using the user’s bare skin with flames of Death’s Judgment. These flames will not burn away at those inflicted by them, but will instead be left as a curse on them. A curse that will disable all healing.
+
+Judgment is left in Death’s hands.
+
+Beware, for those who are judged will bear the marks left by Death herself for all eternity.
+
+Seconds pass as I stare at the new skill. Then I raise my bare fist before tilting my head at it and activating the skill, with it being one of those easily activated ones. And the moment I activate it, black flames begin blazing from my fist.
+
+Huh.
+
+Interesting. Very, very interesting.
+
+This… is a rather nice skill.
+
+I can’t help but wonder how the System deals out these skills though. How it chooses them.
+
+Is it really assessing everything I do? My accomplishments and actions?
+
+How would it come up with this one?
+
+What have I done that would lead to a skill making people unable to heal after fighting me? I can see Asher’s skill coming from the loneliness and sorrow that came from Frank’s death, but what about this one?
+
+Wait, something is coming to mind.
+
+The times I’ve been stuck in powerful mana creatures’ stomachs.
+
+A lot of those times, the wounds I dealt to them healed themselves right away. For the Tier seven and higher mana creatures at least.
+
+At least, not until the death energy I let off built up enough that it was too much for them to ignore.
+
+So if I think about it like that, I really did end up dealing with a lot of things healing from my attacks.
+
+I look down in thought for several seconds, then I nod my head once and begin stepping forwards again. While having a Death Spirit walk up to me holding a flailing golem by its metal armored collar.
+
+The Death Spirit stops when it gets a couple feet in front of me before I raise my fist and coat it in black flames. And without hesitation, I slam my fist straight into its shoulder so as to not kill it, going in one side and out the other.
+
+Then I pull my fist back out and wait as the black flames linger very faintly on the thing’s wounds.
+
+And wait.
+
+And wait some more.
+
+I blink as a realization comes to me.
+
+Oh. Right.
+
+Uh… yeah.
+
+This is a golem.
+
+Golems don’t regenerate.
+
+So what’s the point of this experiment?
+
+I stare awkwardly at the golem for several seconds before eventually just nodding my head.
+
+Right. This didn’t happen.
+
+I turn to stare at the Death Spirit and tell it as well, “This didn’t happen.”
+
+Of course, the Death Spirit doesn’t show any signs of understanding me. But that doesn’t matter.
+
+The Death Spirit crushes the golem’s head, killing the thing. Then it just tosses the thing aside and moves on to go find more golems.
+
+[User has killed one being of Level 9. Requirements to reach level 51 have been updated. New requirements are as follows: 1/1030000 beings have been granted Death.]
+
+Okay, now I’m starting to wonder if my new skill will even be of use here, in the Spires. Since it doesn’t look like they will be.
+
+Most of the mana creatures here aren’t biological after all.
+
+Then again, I’m pretty sure there are some biological mana creatures in the upper Tiers of the Spire. Things like gargoyles and manticores.
+
+Also, I’m pretty sure I heard of some non-biological mana creatures here that can regenerate. Like the Tier 10 monster ruling over the Spires that I am going to avoid the hell out of.
+
+Well, putting the new skill aside for the moment, I begin to walk towards one of the nearby towers.
+
+Anyways, this is a good place to start racking up some more levels.
+
+Fifty years of this place mixed with my enormous backlog of soul energy that I’ve built up over the years. Since I don’t tend to use anywhere near as much as I get.
+
+In fact, after I get close to another tower, I go ahead and summon thousands more Lesser Death Spirits and send them off hunting as well.
+
+Time to get this hunt started!
+
+And maybe find some magical minerals while I’m at it.

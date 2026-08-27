@@ -1,0 +1,133 @@
+---
+id: 7f29e411-106c-570a-afb8-0aeae931d40f
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 47"
+slug: 0279-b4-chapter-47
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 279
+ownLength: 1576
+unit: words
+ownProgress: 1576
+publishedAt: 2025-05-14
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2279254/b4-chapter-47"
+royalRoadId: "2279254"
+markedReadAt: "2026-06-29T19:15:14.829Z"
+---
+
+Aria
+
+“Kids,” Shirogane states rather blankly as I sit behind my desk in my office back on Eternus. The four of us – me, the kids, and Little Blue – having already made it back here to find Shirogane waiting inside of the building for me to arrive. And not just him, but Rory too, as she is standing next to him with an amused smirk on her face while she watches the kids play with Little Blue over at the seating area in the corner. “Are you serious?”
+
+“Seriously serious,” I answer with a nod of my head. “I’m gonna enroll them into a school on Eternus and stay the next eight years here farming your lovely Hunter’s Spots. So could you handle the paperwork?”
+
+“You’re really serious…” he mutters, making me frown a little.
+
+Is he that against paperwork or something?
+
+But no, he has to do a lot of it while working as the crown prince, right? So is he just shocked about me taking them in or something?
+
+It’s not like I’ll be raising them for long. I raised them for ten years while trying to brute force a password after all. And I’ll only be raising them for another eight brief years. Until they’re adults who can handle themselves.
+
+I’m honestly not sure what’s so surprising about all of this.
+
+“And the look on her face says she doesn’t know why we’re surprised,” Rory says while chuckling her ass off. The Silvanian noble sounding rather amused by this entire situation for some reason. “At all.”
+
+“Aria…” Shirogane mutters with more than a little exasperation in his voice. Then he opens his mouth, just for Ryan to run over with his arms held out behind him before he grabs onto Shirogane’s sleeve, making Shirogane look down at the kid.
+
+“What’s a school?” he asks while tilting his head a little. Clearly having overheard part of our conversation.
+
+And I can tell that Ruby looks just as curious as Ryan, considering how she’s repeatedly glancing away from her conversation with Little Blue to watch. Eventually making their conversation end when Little Blue realizes she’s not paying attention.
+
+“Well, uh, it’s a place for learning,” Shirogane answers with more than a little awkwardness to his tone that has me feeling slightly amused. “Where kids your age and older go to study and learn about the universe and everything you’ll need to be able to support yourself once you’re old enough.”
+
+Ryan blinks once, then twice, then he smiles and says, “Sounds neat! Can I go?”
+
+I try rather hard to hold myself back from laughing out loud when Shirogane opens his mouth to speak, just for him to pause when Ruby arrives next to him as well while looking up at him and tugging on his other sleeve. All with both twins having some rather adorable puppy dog eyes sent straight at the crown prince.
+
+And, as expected, the crown prince gives in with a sigh and mutters, “Alright…” Then he turns to me and continues, “I’ll get them enrolled in the Eternal Academy, but the paperwork will take a bit to fill out, and the next year doesn’t start again until a few months from now. So they’ll have to wait until then to start school.”
+
+“Sounds good,” I state with a nod and a smile on my face, still feeling a little amused how he gave in so quickly to the kids.
+
+Kids who are now literally jumping for joy.
+
+Albeit quietly in Ruby’s case. Which makes it even more adorable.
+
+Rory gives Little Blue a look that has her nodding before Little Blue says to the kids, “Hey, how about I go show you around your mother’s company? There are a lot of interesting things around the place.”
+
+Ryan looks up at her and asks, “Will we be able to see people fight?!”
+
+Everyone in the room chuckles at that as Little Blue answers, “Yes, I can take you to the training department where you can watch some sparring matches if you want.”
+
+The little boy starts jumping for joy again.
+
+On the other hand, Ruby just fidgets for a few seconds before eventually asking, “Can… I see some… explosives?”
+
+This time everyone turns their gazes towards me. But I just find a rather cute looking bird flying outside of the window as I stroke the cat on my lap. Because this development has nothing to do with me.
+
+Nor does it have anything to do with me showing off some of my explosives to Ruby over the years after she saw me killing a werewolf at one point with one and seemed a little interested.
+
+“Sure… you can…” Little Blue answers, probably a little too stiffly for some reason. But she takes the kids off anyways.
+
+Although the entire time she was leaving the room I swear I could feel daggers aimed at my back.
+
+And after she leaves, Shirogane and Rory ask at the same time, “Seriously?” “Are you serious?”
+
+“Not my fault explosives are cool…” I mutter without taking my gaze from the window.
+
+I hear both of them sighing.
+
+“Well, whatever,” Rory mutters, making me turn back to find her with a serious expression on her face again. “What are you going to call the kids anyways? Do you know their family names?”
+
+That makes me shake my head as I answer, “No, there wasn’t anything there detailing their last names. So I don’t know what their family names are. From what I could find out, their parents both snuck into and started living in their capital’s main hall after the world was already evacuated. And they’d given birth afterwards as well. So there wasn’t anything I could find.”
+
+“So we don’t know what to make their full names…” Shirogane mutters while looking down and rubbing his chin, which looks like is starting to grow a tiny bit of stubble. Something that he’d never let happen before.
+
+Guess he really is busy with administrative work…
+
+Anyways, I shrug and state rather bluntly, “It’s fine. I already asked them and they told me what they wanted.”
+
+Both of my friends from across the desk look at me as if asking for me to continue. So I do as I say, “They wanted my family name. So they’ll have it.”
+
+“Aria, you know you can’t just give them the family name of an imperial family of all things, right? Not without-” Shirogane begins, but I just shake my head and cut him off without hesitation.
+
+“Don’t care,” I state rather bluntly. “I genuinely don’t give a cat’s tail-” Asher’s tail twitches in my lap, and he looks up at me “- about what that imperial family thinks about this decision. They can take their complaints and send them somewhere random that I’ll never find them.”
+
+Asher lowers his head again and purrs on my lap while closing his eyes.
+
+Rory starts laughing out loud, meanwhile Shirogane purses his lips. No doubt torn between our friendship and his duty.
+
+Eventually he opens his mouth, no doubt about to give in despite his qualms, only for one of the Crimson Knights set to guard me by those rather overprotective people somewhere out there to appear next to the desk. Startling us all in the process.
+
+Then he states, “Be at ease, Crown Prince Shirogane, for the Empress has given her express permission for Her Highness to do whatever she pleases, including adopting children and granting them the Imperial Family name.”
+
+That makes Shirogane sigh with relief as he mutters, “That’ll make this a lot easier.” And without further word, the knight vanishes again. No doubt going back into guard mode.
+
+“Hey, Aria,” Rory suddenly says, bringing my gaze back to her. “Why don’t you take a trip to your home world of Vortel? I know your friends there are missing you, and I’m sure they’d love to meet the twins.”
+
+I blink at her once before opening my mouth to speak, only for Shirogane to quickly back up that thought. So I close my mouth again and look down at Asher.
+
+Hmm. I guess that’s not a bad idea.
+
+Eventually I look up again and nod, “Sounds good.”
+
+“And I’ll be accompanying you, of course,” Rory says with a grin on her face that has me blinking in surprise. “I’ve been given the go-ahead by both Father and Uncle, so it’s fine! And I want to see more of this comedy routine!”
+
+“Comedy… routine?” I mutter with a frown, only to shake my head. “Whatever. Do as you please.”
+
+Her grin grows wider at that.
+
+“Before I do anything though, I still have to see Leone,” I state, my frown fading again. “I need to give her the artifact. Does anyone know when she’ll be arriving?”
+
+“She should be arriving soon,” Shirogane answers as he glances at the terminal on his arm. “I just got word that her ship has landed, and she is on her way to the building now.”
+
+Good.
+
+After I hand off that artifact, I can go ahead and take the kids to see Vortel.
+
+A slightly bittersweet feeling goes through me at the idea of going back to Vortel again for the first time since learning about my parents still being alive.
+
+I let out a sigh.
+
+This’ll be an interesting trip, that’s for sure.
+
+At least I can see if that café is still there.

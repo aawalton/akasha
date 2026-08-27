@@ -1,0 +1,191 @@
+---
+id: d18fb366-7161-5fdd-934a-5fc4b15c377f
+page-type-slug: story-chapter-royal-road
+title: "066: Encounter"
+slug: 0066-066-encounter
+partOf: delve
+position: 66
+ownLength: 3553
+unit: words
+publishedAt: 2019-12-08
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/432435/066-encounter"
+royalRoadId: "432435"
+---
+
+“Ah, shit!”
+
+There was a muffled thump as a cloaked figure lurched to a sitting position, slamming into the low ceiling of the hayloft. Stint rubbed at his head and dismissed his training notification angrily.
+
+“Still not used to that…” he mumbled, cursing the dialog. He saw it as a rapidly unfurling scroll of parchment, accompanied by the blast of a trumpet. The noise was completely gratuitous, but he hadn’t yet found a way to make it stop. It had been waking him up with the dawn ever since he’d become awakened, whether he wanted it to or not.
+
+He was most definitely not a morning person, but the mandatory wakeup trumpet was a small price to pay for the benefits that he was only now beginning to explore. He felt at his head in wonder. Despite slamming it roughly into the wooden rafters of the hayloft, he had barely felt any pain. It was surprise more than anything that had caused him to cry out. His health, shown as a blood-filled globe in the bottom left of his vision, had gone down by a few points from the impact, but his scalp wasn’t even tender. Health really did act like a buffer like Jamus had said.
+
+Stint freed himself from his tangled cloak and stuck his head over the edge of the loft. If anyone had heard his cry, they didn’t appear to care enough to investigate. He wasn’t sleeping up here to hide from the townsfolk or to avoid paying for a room or anything; he just wanted to be close to his horse so he could get underway as soon as possible. He was still far too close to Fel Sadanis for his comfort. Staying inside the inn would have tempted him into having breakfast, which was counter to his plan.
+
+He grabbed his bow and swung his legs out over the edge of the loft. He took a guess at the distance, then shrugged and jumped down. He landed easily, the enhanced strength of his legs allowing him to arrest his momentum as he dropped into a crouch.
+
+This is great. I feel superhuman! What would my friends say if they could see me now?
+
+He sighed and shook his head. He wasn’t going back to the DKE any time soon. He’d probably never see his old friends again. He’d somewhat expected that when he’d signed up to work for the Vekuavaks, but he’d never dreamed he’d end up this far east, and on the run from his former employer, no less. No, he wasn’t going back to the DKE any time soon. I need to keep going east. What was the city that’s supposed to be out there? Damn, I can’t remember the name. I’ll have to ask someone. Later, though. I need to get on the road.
+
+Stint brushed at his cloak, trying to clear it of the straw that had gotten caught in the fabric. Once again he wished for the cleaning skill that the armored mage had always been using. He’d considered putting a point in it himself but decided against it. He didn’t have the mana, and while it was supremely useful, it wouldn’t help him survive if Velika sent anyone after him. He needed to keep things covert, which meant no flashy magic. He could pass for a normal archer if he stuck to purely physical skills.
+
+He looked around in the dim light of the stable, searching for his horse. He spotted it staring back at him, watching him with eyes that were all-too intelligent for a beast. It snorted when it saw him looking and turned its head away.
+
+“Something’s wrong with that horse,” Stint muttered, walking over to the wall to retrieve the riding blanket that he’d hung there. He pulled it down and hauled it over to the horse. He stared at the animal, putting his hands on his hips. “Okay, you aren’t going to give me any trouble, are you?”
+
+The horse just looked at him, unblinking. Stint sighed and opened the stall, edging in to toss the blanket over the horse’s back. It stretched its neck but didn’t fight him as he adjusted the blanket. “There, that’s better. You need a name. How about ‘Stump’? You look like a—Hey!” Stint jumped back as the horse nipped at him with its blunt teeth. It stared at him, flicking its ears in annoyance. “Okay, not ‘Stump’, by the depths, what’s wrong with you?”
+
+The horse snorted and looked away again.
+
+“Well, come on then,” Stint said, slipping out of the stall to retrieve the tack. The horse snorted and followed him out. It nuzzled at his cloak as he tried to untangle the bridle. “Damn it, how did this get all tangled when it was just hanging there? Hey, cut that out. I’ll get you some oats or something. That’s my food in there. Hey! I said stop!” Stint swatted at the horse, then sighed. “Fine, come on, let’s go see if there’s anything in the barrel.”
+
+Stint walked over to the wooden barrel that was sitting near the door, prying open the lid and seeing that it was indeed full of oats. He shrugged and reached in, grabbing a handful. “The innkeeper won’t notice. And I did pay him to use the loft, so he can’t complain.”
+
+Not having a feedbag, he eyed the horse, then warily held out his hand holding the oats. “If you bite me, I swear…”
+
+The horse’s muzzle was warm as it ate the oats out of his hand, and while it was a bit enthusiastic in licking them up, it managed to finish them without taking off any of his fingers. He fed it a few more handfuls, then pushed it away. “Okay, come on. We need to go. I’ll get you some more when we make it to the next town.”
+
+The horse reluctantly let him equip it with the bridle. He led it out of the barn into the cold winter air, blinking as his eyes adapted to the dim morning light. Looking up, he thanked his lucky star for the fortune it had granted him. It wasn’t visible, but he could feel it there, watching over him from beyond the sky.
+
+He looked at the horse. “Okay, time to go. You sure you don’t want a name? How about ‘Clodhoof’? Or ‘Mr. Chompers’?” The horse laid its ears back and tossed its neck. Stint sighed. “I can’t just call you horse.”
+
+The horse whickered, then stomped the ground, kicking up a puff of dirt. It lowered its head, puffing a blast of air at the dry ground, blowing the dust up further into the air.
+
+“What the hells is that supposed to mean?”
+
+The horse stomped again, kicking up even more dust.
+
+“’Dirt’? You want to be called ‘Dirt’?”
+
+The horse huffed out a horsey sigh and started walking away, heading for the road leading out of town. “Hey!” Stint shouted, hurrying after it. “Stop, let me up!”
+
+The horse ignored him, walking at a sedate pace as he hurried after it.
+
+“Damn it,” Stint growled. “At least the damn thing’s going in the right direction.”
+
+A few hours later, Stint was lost in thought, riding along the road as it wound through a forest. The traffic had died down quickly once he’d made it out of the farmland surrounding Essed. He’d asked for directions from a farmer, learning that the road would fork in a few leagues, at which point he needed to angle north if he wanted to make it to Vestvall. Either way, he was looking at camping in the cold. There wasn’t another village within a day’s ride.
+
+He blinked as he heard noise coming from beyond a bend in the road. It sounded like voices. He sat up straighter, taking a firmer grip on the reins. He wasn’t expecting any serious trouble, but this far out from Fel Sadanis, the Watch’s patrols were few and far between. Bandits weren’t out of the question. As he neared the corner, there was a sudden shout of anger. He pulled up on the reins sharply, bringing his horse to a halt.
+
+“Hey! What do you think you’re doing with that, eh? Drop it!” came the angry voice from beyond the trees.
+
+“No, I don’t think so,” a man replied in a rich baritone.
+
+“Well, then,” said the first speaker. “Grinner, get the crossbow an’ plug this idiot.”
+
+“No!” a young girl’s voice cried.
+
+Stint cursed and quietly lowered himself down from the horse. “Shh,” he whispered to the animal, retrieving his bow. He bent the wooden stave, stringing it and holding it at the ready. Pausing, he checked his quiver at his hip, confirming that he could get to his arrows without his cloak getting in the way. Satisfied, he crept forward, peering through the thick snow-frosted bushes.
+
+“There is no need for this, gentlemen,” the man with the deep voice said. “We will go our way, and you will go yours. There is no need for violence.”
+
+“Daddy, look out!” the girl’s voice cried.
+
+A rough voice spoke. “Got the bow, boss. Where you want I should do ‘em? Right in the eye?”
+
+“Try it, see what happens,” said the deep-voiced man calmly.
+
+Stint crept closer, spotting a cart stopped on the road. There was a man in a bright orange robe standing beside it, brandishing a scimitar. Facing him a short distance away was a line of scruffy-looking bandits. From the crates and barrels piled in the cart, the orange-robed man was clearly a merchant of some kind, scimitar notwithstanding. Stint’s eyes flicked to the blade, then to the small girl clinging to his side, then back to the bandits. Damn it. There’s eight enemies that I can see. This isn’t a fight I want…
+
+“Oh, confident, eh?” said the lead bandit. “Fine, have it your way. Grinner, don’t shoot ‘im.”
+
+“Eh?” Grinner said, “Whassat Jhem? Why not?”
+
+The lead bandit, Jhem, laughed. “Teach him a lesson. Shoot the kid.”
+
+“No!” the orange-robed merchant shouted, pushing the girl behind himself. “Your quarrel is with me. If you loose that bolt, it will be the last thing you ever do.”
+
+Stint cursed under his breath. I should run or hide in the bushes. If I try to intervene, I’ll just be putting myself at risk. I got what was coming to me for trying to stop that Carten fellow, even if it did turn out okay in the end. This isn’t my business and I’ve learned my lesson. I’m sure the merchant can handle it. He doesn’t look scared... Unless that’s just bravado…
+
+Don’t let your gift go to waste. Ameliah’s words popped unbidden into his head.
+
+There was a sudden twang. The merchant moved quicker than Stint would have believed possible, his sword flashing through the air and striking for the crossbow bolt. Stint blinked, seeing that the bolt had lodged itself in the man’s shoulder, the fletching shorn off.
+
+“Daddy! No!” the girl screamed as her father overbalanced and fell to his knees.
+
+“Oh damn,” the man said, dropping his sword to reach for the growing red patch on his robe. “This could be a problem…”
+
+“Finish ‘im,” the bandit leader said. Ameliah’s words ran through Stint’s head again. Don’t let it go to waste. He swore and stood up, drawing an arrow and stepping out from behind the trees. I won’t. He drew a bead on the pimply man with an axe that was stalking toward the downed merchant.
+
+I can’t believe I’m doing this. He concentrated, pulling the arrow back to his cheek. Seeker Shot. He released the arrow. There was a startled cry from the leader as he saw Stint, but it didn’t come in time to save the unfortunate bandit with the axe. The arrow landed right between his eyes, killing him instantly.
+
+“Archer, down the road!” the leader screamed. “Take him!”
+
+Stint swore as six of the bandits rushed for him, including the leader. The one bearing the crossbow bent, placing his foot in the stirrup to draw it back for a second shot. Stint nocked another arrow and loosed, using Seeker Shot once more. The arrow seemed to curve as it flew, hitting a second bandit in the throat and sending him gurgling to the ground. He fumbled at his quiver as the bandits rushed for him.
+
+“Ahh!” one of the bandits cried. It looked like the merchant had tripped him as he ran past. Stint let fly with another arrow, striking the nearest bandit through the heart. They were almost upon him. He cursed, turning to run as he saw the man with the crossbow aim it in his direction. He dove behind the cover of the trees, imagining that he felt the wind from the bolt as it shot past him. He tore down the road, counting on his enhanced stats to let him gain some distance. Skidding to a halt after sprinting for a few seconds, he raised his bow again, reaching for an arrow. He fumbled, almost dropping it.
+
+“Damn it!” he shouted, correcting his grip and drawing the bow back. He loosed the moment he saw movement from around the corner. The arrow thudded into the wooden shield of the bandit leader as he rounded the trees. “Fuck!” Stint swore, drawing another arrow. The bandit grinned and stalked toward him, murder in his eyes.
+
+“Take this!” Stint shouted. Drilling Shot. This time, the arrow blasted clear through the wood of the shield, lodging in the man’s arm as evidenced by his howl of surprise and pain. Stint didn’t have time to celebrate; two more bandits had rounded the corner and were charging for him. He’d only have time for one more shot. His arrow took the leftmost bandit in the shoulder, sending her to the ground with a cry.
+
+He dropped the bow as the last bandit swung a sword at him. He dodged back, then launched a kick at the man. Overextended, the bandit took the blow full in the side, the crack of his ribs audible to Stint’s enhanced hearing. The man cried out and fell to the ground. Stint stomped down at his head with his boot, but the bandit rolled to the side, dodging the strike.
+
+Stint kicked at him again, landing another crunching blow to the man’s ribs. He didn’t have time to finish him, though, as the female bandit was rushing toward him, his arrow still lodged in her shoulder. She had a sword raised over her head, ready to chop down on him with all of her might. Damn it all!
+
+Stint reached out grabbing for her arm as she swung the sword. He caught her wrist, holding it in place as she struggled to reach him with the blade. There was a look of surprise on her face at the ease with which he had stopped the blow. He reached out with his other hand and ripped the arrow from her shoulder, jabbing it into her neck ruthlessly. She went down in a fountain of blood.
+
+He scrabbled for her sword in the dirt, picking it up as the bandit leader approached him warily, shield discarded. The man’s arm hung at his side, blood dripping from where he’d pulled out the arrow.
+
+“I’ll fucking kill you!” the bandit leader screamed, raising his sword into a guard position. Shit, looks like this one actually knows how to use a blade.
+
+His fears were confirmed as the bandit leader slashed at him with a series of lightning-quick cuts. He barely managed to get his own sword in the way to block. Even with only one arm, the bandit was clearly a much better swordsman than he was.
+
+Hopelessly outclassed, Stint roared and swung wildly at the man, trying to surprise him with his enhanced strength and speed. There was a blur of motion, then he felt a horrible pain as the bandit dodged his wild strike and cut him across the stomach. Stint gasped, the sword falling from his fingers. He clutched at the wound, staggering back as his health globe dropped by more than half.
+
+He fell to the ground, landing hard on his back. The bandit grinned as he stalked toward him. “Tough bastard, ain’t ya? That should’ve gutted ya, but don’t worry, this next one’ll do the trick.”
+
+Stint pushed himself away, frantically trying to escape. The bandit laughed as he watched Stint struggle. “Should have minded your own—”
+
+The man’s speech broke off in a gurgle as the blade of a sword burst through the front of his neck, covering Stint in a spray of blood. The dead bandit toppled, revealing the orange-robed merchant standing back near the bend in the road. His arm was still extended forward from how he’d thrown the sword.
+
+Stint went limp with relief, his head hitting the ground with a soft thud. He pawed at his stomach, feeling blood on his hands. It was hot and sticky as it soaked through his tunic, but the cut didn’t seem to be that deep. Suddenly, something wet and warm touched his neck, causing him to twitch violently, then scream from the resulting pain.
+
+He rolled away before he identified what it was that had touched him. He swore again when he realized what it had been. “Fucking horse!”
+
+The horse snorted and nuzzled at him. He reached out to push it away. “Cut that out! I’m bleeding, here!”
+
+A deep laugh met his ears as the orange-robed man walked toward him. “It seems like your horse is worried about you. You going to make it?”
+
+Stint attempted to sit up, then fell back, hissing in pain. The merchant knelt down next to him, peering at his wound. Stint stared at him, his thoughts foggy through the haze of pain. What a magnificent mustache. The man clicked his tongue. “Humm, could be worse. Still, we’ll want to do something about that.” He turned to look over his shoulder, calling out in a loud voice. “Ava! Bring me a healing scroll, would you? They’re in the brown leather bag. The small one, not the one that’s full of turnips.”
+
+He turned back to Stint. “I suppose I owe you some thanks. What is your name, stranger?”
+
+Stint coughed, wincing at the sudden flash of pain. He cleared his throat. “Stint.”
+
+“It is good to meet you, Stint.” The man got to his feet and gave an elaborate bow. “Wanderer and trader extraordinaire, Mlemlek Ko-Latti, at your service. You can call me Mlem if you’d prefer.” He held up a finger. “Not Lem, mind, I have standards.” Stint heard the sound of footsteps approaching and the man looked over his shoulder once more. “Ah, there you are. Thank you, Ava.”
+
+The man accepted the bag from the girl and dug around in it. Ava looked away from the corpse of the bandit leader, hiding behind Mlemlek’s…Mlem’s robe.
+
+“There we are,” Mlem said, “Heal!” A light flared from the scroll as it burst into ashes. Stint felt the pain in his abdomen vanish as his health shot to full. He sat up, patting at his mended flesh, finding himself whole again.
+
+“Thanks,” he said, struggling to his feet.
+
+“Come, let us get away from this grisly scene,” Mlem said, motioning to his daughter.
+
+“Daddy, you should use one too,” the girl said, pointing at his shoulder.
+
+Mlem looked down at the red patch staining his orange robe. “What, for this?” he laughed. “Ava, what is the sixth rule?”
+
+“Don’t waste the merchandise on yourself,” Ava said reluctantly. “But Daddy, doesn’t it hurt?”
+
+“Bah,” Mlem said. “A little scratch like this is nothing to worry about. I’m more upset that I missed my parry. This is going to stain.” He touched the patch of blood unhappily, looking at his fingers as they came away red.
+
+“Who are you?” Stint asked as he followed the man and his daughter back toward the cart, the damn horse trailing after him. “You clearly aren’t just a merchant…that throw was…”
+
+Mlem laughed as they rounded the bend in the road. The bandit that the man had tripped was lying dead, as was the crossbow-wielder, though Stint couldn’t see how he’d been killed. The orange-robed man didn’t even look at the corpses. “I told you. Mlemlek, wandering merchant.” He snapped his fingers and the cart started rolling on its own, trundling away from the dead bandit.
+
+Stint’s jaw dropped. “You have a journey cart?”
+
+The merchant grinned. “It gets us from A to B. You want any food? Water? A new bow, perhaps? A saddle for that magnificent horse of yours? I won’t say I owe you my life; as a merchant, I’m very careful about debts. I do, however, owe you for saving me quite a bit of…hassle.”
+
+“Daddy, come on. Let’s just go. You promised we’d make it to Essed today.” said Ava.
+
+“Now, now, Ava, we’ve got plenty of time and we need to thank Stint for helping us. Besides, remember the twenty-first rule.”
+
+“Daaaad,” the girl protested.
+
+Mlem grinned at her. “Come on, out with it. I know you know it.”
+
+The girl sighed. “Never forget to loot the bodies,” she said, rolling her eyes.

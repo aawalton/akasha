@@ -1,0 +1,221 @@
+---
+id: ae915d78-4a2c-5cb4-8bee-f14015762845
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7"
+slug: 0008-chapter-7
+partOf: death-healer
+position: 8
+ownLength: 2666
+unit: words
+publishedAt: 2025-05-04
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2254578/chapter-7"
+royalRoadId: "2254578"
+---
+
+“Our Lord sees everything, Liliana,” Adriana admonished her daughter and wagged a finger in the five-year-old’s face.
+
+Lily pouted and crossed her arms.
+
+She had tried evading her morning lectures by running out of her room’s window and into the garden, falling asleep behind a tree in the warm day of spring in Lumina.
+
+Lily had quite the rebellious streak and, despite being the daughter of one of the heads of the six Great Families of the Papal State, she rarely obeyed her mother.
+
+After turning five, she had started her education, mostly supervised by her mother. Despite her uncle, the Pope, having said that Lily might have had a great talent years ago when she was born, Lily's talent had stagnated.
+
+Adriana didn't know why, but Lily had yet to learn Mana Shaping. And even her great Mana Perception seemed to have receded.
+
+Even though Lily was a girl and thus could not inherit her father’s title, her mother was still frustrated by the fact that her daughter had turned out to be completely normal. She had hoped with all her heart that Lily could somehow bedazzle everyone with a talent even greater than her own already prodigious mother so that she could have gotten what had been denied to Adriana—the papacy.
+
+Adriana, Ennius’s older sister, previously the Eldest Princess of Lumina, had been hailed as a generational talent. Despite that, her younger brother was the one who had been crowned leader of the six Great Families of Lumina.
+
+The woman, however, was frustrated. She knew her daughter was special—deep in her soul, in her heart of hearts—but she also had no idea how to actually stoke those embers, how to turn them into a blaze.
+
+The problem was that if Adriana wanted Lily to have a real shot at becoming a Champion, a contender for the position of Pope, she needed her daughter to practice. Girls had a naturally stronger Affinity for Death-related Affinities, unlike boys, who had a stronger penchant for Life Affinities. That was one of the main reasons why women weren’t allowed to inherit the leadership of a Great Family in Lumina—all the Great Skills were made for those with the strongest Life Affinity.
+
+So, if Lily wanted to have any chance at learning the Gens Claudia’s Great Skill, she needed to practice as much as possible. Increasing one Affinity was doable, but it went hand in hand with as much experience and knowledge one had about it.
+
+So far, no woman in the entire Papacy had been able to learn their family's Great Skill—not even Adriana. That's how insane the requirements were for every one of them.
+
+The key to learning an Affinity was first manifesting a strong Mana Shaping. After that, combining Mana Shaping and Mana Perception would allow a young child to start learning Affinities.
+
+One thing that worried Adriana was that Lily had an unnerving talent for the Death Affinity. She had her tested at a young age and, for some reason, Lily had displayed an insane compatibility with it—way more than your average girl. Perhaps, the most Adriana had ever seen with her own eyes.
+
+And that means, the woman thought, that if I ever manage to find a way for her to inherit Lucianus’s Great Skill, she’ll need to work harder than anyone else—any girl or boy—to be compatible with it. As things stand, she’s basically a natural repellent for Life Magic.
+
+“So,” Adriana sighed, “let’s start.”
+
+Lily was dragged to a table, and her mother opened a large book with all the Primary Affinities. A child needed to learn as early as possible about Affinities since they had a massive impact on what Class one would get.
+
+Classes, something everyone gained at fourteen on Class Day during someone's awakening, were offered based on the achievements of those who went to Class Up. Knowledge was one of the greater achievements one could have under their belt. That was why all the children of nobility were force-fed as much information and practice, physical and magical, as they could bear before their Class Day.
+
+The more you knew and trained for something, the greater the chances to get it. And since Lily was born in the greatest family of [Healers], the Gens Claudia, headed by Lucianus, her father, the strongest caster bar none in the country, she was expected to become, at the very least, an exceptional Healer.
+
+“What are the eight Main Affinities?” Adriana asked.
+
+Lily shrugged.
+
+“Come on.”
+
+“Life and Death?” Lily said, bored.
+
+Adriana sighed.
+
+“Life and Death are both Secondary Affinities and what we use to categorize the eight Main Affinities,” Adriana said, trying not to lose her patience.
+
+She knew her daughter knew—the little blonde girl had a prodigious memory, but she was lazy and didn’t want to recite all eight Affinities.
+
+“Tonight, Lavinia and Lumius are coming over—”
+
+“Lumius?!” Lily groaned. “YUCK!”
+
+“Prince Lumius, your cousin, is coming over. But Lavinia, too, is coming over with her father. If you behave and do your practice, I will let you two girls play in your room with the wooden swords. I’m sure Lumius won’t mind.”
+
+It was a tradition in Lumina that cousins had to spend as much time with each other as they could.
+
+Lily’s eyes immediately sparkled at the mention of her friend, Lavinia, and she jumped out of the chair like a bobcat, ready to earn the right to have a swordfight.
+
+“Lightfireearthwoodarknesswaterwindmetal,” the girl said in one breath.
+
+“Liliana.”
+
+Lily clenched her fists and acquiesced to the unspoken request.
+
+“The Life Affinities are Light, Fire, Earth, Wood. The Death Affinities are Darkness, Wind, Water, Metal.”
+
+“Is that the correct order for the Death Affinities?”
+
+Lily raised her eyes in a pensive manner and shook her head.
+
+“Darkness, Water, Wind, Metal.”
+
+“Good,” Adriana said.
+
+The order was important because the affinities weren’t just ordered by how close they were to the main concepts, life and death, but also because each element had its polar opposite in its other affinity at the same step.
+
+Light - Darkness
+
+Fire - Water
+
+Earth - Wind
+
+Wood - Metal
+
+“What different Affinities must you combine to get the Life Affinity?”
+
+Lily knew that to be a trick question.
+
+“Light and Light.”
+
+Indeed, to have a Class with a Life Affinity, you had to choose two Sub-Classes with a Light Affinity.
+
+“What Affinity should a member of the Six Great Families never choose?” Adriana asked, her tone colder now.
+
+“Darkness.”
+
+Adriana nodded and exhaled.
+
+Lily had a dangerously long rebellious streak and rarely complied with what she told her, even when her mother tried to bribe her like today. It was Adriana’s greatest fear that her daughter, on her fourteenth birthday, would pick a sub-class with a Darkness Affinity.
+
+“Why?”
+
+The blonde woman recognized that asking ‘why’ might overwhelm a child her daughter's age, potentially leading to a simplistic answer. However, she also understood that she had practiced this with her daughter enough times to get an appropriate response.
+
+“Remember,” Adriana admonished her. “If you don’t have a good answer, no playtime with Lavinia.”
+
+Lily, on the verge of a half-assed response, bit her lip and frowned heavily.
+
+“We can choose Death Affinities like Water, Wind, and Metal because they can still give us good Classes. Dad chose Light and Air, which gave him a Radiance Class. But the Darkness Affinity is too close to Death. It can’t be chosen.”
+
+“Why?” Adriana pressed her daughter.
+
+“It’s…” Lily scrunched her forehead, trying to remember. “Evil?”
+
+“Exactly. And remember, picking a Darkness Affinity means you will get a forbidden Class and become a criminal, Lily.”
+
+* * *
+
+"How's your wife?" Adriana asked as if she didn't know already, spreading some jam on a toast as they lounged in the courtyard.
+
+"It's bad enough that I have to be held back here in Alba," Aurealianus sighed, sipping from a chalice of wine. He wasn’t accustomed to spending time in Alba, the capital of Lumina, and away from the front. “I still have to thank you for all the help you sent, Adriana. I don't know what to do with Fausta. She refuses to get out of bed now, and all the other [Healers] keep saying there's nothing wrong with her. At least you can see things for what they are."
+
+Adriana observed the man vent, more focused on his facial expression and hands than she was on his words. Having once been in the Gens Iulia, she had received the same training her brother, now the [Pope], had. That meant her cunning had been cultivated since she was Lily's age.
+
+And so, as Aurealianus kept talking, she couldn't help but feel a small pit open in her stomach.
+
+"I'm not sure how long I can keep covering for her," the man sighed. “What am I supposed to do here? Not go on the front anymore because my wife has lost her mind and won't even eat? How are we supposed to have another child like this?"
+
+He's already shifting the blame, Adriana thought. He's already arranging excuses for turning her over to the courts while he fucks a whore on the side.
+
+The Papal State of Lumina had an extremely intricate legal system built to ensure that all disputes could be solved by arranging deals that would avoid bloodshed. The code of laws were so long no one really knew all of the strange laws that had been created along the years. Some laws even contradicted previous ones—even though the older ones carried precedence and, therefore, superseded the newer ones.
+
+Prior to Lumina’s actual establishment as a unified state under the six Great Families, civil war and betrayal predominated as methods for resolving conflicts. This was why most of the ancient laws were developed to prevent additional disputes and bloodshed.
+
+He's getting too affectionate with the whore—I should have had her killed when I had the chance.
+
+Adriana had ended up listening to her mother's advice, so she ignored the woman from the cadet family of the Gens Claudia. But now, Aurelianus spent more time with the whore than his own wife—he even brought her along on Dungeon campaigns since she was a [Healer].
+
+A whorish, weak [Healer], Adriana bristled inside.
+
+"If she's been infirm for more than two documented years, she could become a ward of the Sanatorium," Adriana spelled out Aurelianus's suggestion.
+
+"I really don't want to," the man shook his head. “But what choice do I have?”
+
+Adriana, however, could easily see through his facade and feel his real emotions: he didn’t want to deal with this problem.
+
+"If you do that," she said, "do you know what's going to happen to her?"
+
+"She's going to get help," Aurelianus replied.
+
+Adriana fell silent.
+
+Wards of the Sanatorium are treated like animals. They're not allowed to go out until they show significant improvements, which is unheard of. Most likely, they'll take their own life in one or two years after they've been deprived of all their other rights one by one. And that would allow him to marry the whore.
+
+Knowing that, Adriana wasn't sure what to reply. It was pretty clear in her eyes that Aurelianus had already made up his mind. It didn't matter that he had been crazy in love with the woman and pursued this marriage at all costs; after the first pregnancy had somehow devastated Fausta's psyche, he seemed ready to move on. It didn't matter how many failed pregnancies he had forced upon his wife. Once the Sanatorium accepted Fausta, it would only be a matter of time before he could marry again in order to sire a new heir.
+
+"I'll talk to Fausta," she smiled with a heavy heart. "It's the least I can do. Then, if she still doesn't improve, you go ahead with what you believe is the best for her."
+
+"Thanks," Aurelianus said, with a weight clearly removed from his shoulders.
+
+He just wants me to absolve him of his sins.
+
+* * *
+
+“Anyway,” Aurelianus said after the servants offered a proper meal while the girls still played together, “how’s your daughter’s training? Lavinia hounds me every day for some sword training. Some days, I hate that she couldn’t be a boy. My, oh my, with her guts? She would have been a strong Champion, let me tell you.”
+
+A Champion was the official title given to those who qualified to learn the Six Great Skills. The other part was that if someone ever managed to learn all Six Great Skills, a task unheard of in the last millennia, they would become the next in line to inherit the position of Pope outside the current leading family.
+
+Indeed, the Pope’s role wasn’t necessarily hereditary. In theory, any challenger from the Six Great Families could have earned the place if they learned all Six Great Skills. The problem was how hard it was for someone to fulfill the requisites to learn all of them since they involved an exorbitant amount of resources, training, and raw talent to be grasped.
+
+The issue was that to qualify for the Champion’s Trial, a participant had to not only master one of the Six Great Skills but also possess exceptional control over their Mana. Furthermore, they needed to land a very strong Class during their Class Day, which meant they needed to both train and study more than anyone else. That was because all of one’s knowledge and accomplishments before their Class Day would decide which offers they’d get.
+
+Then, at eighteen, they'd finally compete in the Champions' Trial with everyone else from their generation. And only the strongest of each generation was allowed a shot at becoming a Champion. Most years, no one even qualified.
+
+Adriana had dreamed of becoming the first female Champion and then Pope of the Gens Iulia, but not only women were not allowed to inherit a Great Skill and much less to lead one of the Six Great Families, she had not been able to learn the family's Skill even when she had tried to.
+
+“Lily doesn’t like to train,” Adriana sighed. “And even if she did, with how naughty she is, I’d expect her to pick up a Death Affinity, Aurelianus, I swear. Darkness, if any.”
+
+“I’ve heard that Prince Cassius just unlocked his first Affinity at ten! I should go extend my congratulations to His Holiness," Aurelianus laughed away Adriana's concerned and changed topic.
+
+“Yes,” Adriana sighed. “Cassius has an exceptional attitude for magic and fighting. He’s… incredible.”
+
+“He might be the first to master the Six Great Skills in the last thousand years, hah!” Aurelianus shook his head, amused. “I was hoping we could dethrone your old family, finally, and give someone else a turn! But that boy is something else!”
+
+Aurealianus laughed heartily since that was a common joke among the Six Great Families.
+
+“Well, as long as Lily doesn’t get a Darkness Affinity, I should be happy, no matter when she awakens her first.”
+
+Of course, no child was actually allowed to awaken—much less practice, the Darkness Affinity.
+
+“She just spends her days running around and bothering everyone in the house.”
+
+“She most definitely took after her old man,” Aurelianus remarked with a smile. “Well, there’s nothing you should worry about. She’s a girl; she doesn’t need nor will have the headaches your husband and I had our whole life. You girls should count yourself lucky, trust me. Do you even know the kind of responsibilities I deal with every day? Hah! I’d much rather stay home and just be a nice host for banquets and whatnot!”
+
+“Of course,” the blonde woman smiled politely back to the man.
+
+As Adriana sipped pensively from her cup, she suddenly heard someone shout for her.
+
+"Lady Adriana!" Decima, Lily’s maid, shouted, running toward her.
+
+"Is everything ok?" She asked the servant. "Are the girls alright?"
+
+"Yes! Yes! Please, come see! Mistress Lily just awakened her first Affinity! And it’s bad!"

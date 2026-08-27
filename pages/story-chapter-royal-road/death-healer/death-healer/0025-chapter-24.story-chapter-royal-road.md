@@ -1,0 +1,77 @@
+---
+id: be8e1545-7545-546a-bd40-a88c7dc31ff6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24"
+slug: 0025-chapter-24
+partOf: death-healer
+position: 25
+ownLength: 1087
+unit: words
+publishedAt: 2025-05-29
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2315160/chapter-24"
+royalRoadId: "2315160"
+---
+
+It was not the first time Lily felt unfamiliar words and knowledge appear in her mind like when she examined something with healing magic. She remembered a similar experience when Aunt Gentiliana showed her the inside of a rat, and she recalled how those strange words had taken shape again when she looked inside Ridi. The moment she could finally speak them, it was as if they had always belonged to her.
+
+She had sensed the same potential while sparring with Lavinia, though a barrier had kept her from truly leaning into it. She had never discovered how to remove that blockade. Now, as she stood at the party and called Livia all manners of insults, she felt a sharpness in her own voice.
+
+It was more than a simple insult because she noticed that something in her body was awakening, and it enabled her to realize what kind of person Livia truly was.
+
+Lily watched the woman’s expression change.
+
+The calm mask Livia usually wore began to crack as the emotions she had pushed down in her chest rose to the surface. Then Lily sensed a wave of anger emanating from Aurelianus, who glared at her with intense eyes. He towered over her, and his higher position on the dais made him appear even taller.
+
+Instead of raising his voice at Lily, Aurelianus turned toward Lucianus and asked, “Are you going to do something about your daughter?”
+
+Lily felt her father’s rage close behind her, but she refused to look at him. She instead lifted her head and locked eyes with Aurelianus, then said firmly,
+
+“You do not deserve to lead one of the Great Families.”
+
+Several guests had been whispering about the spectacle of a twelve-year-old’s outburst, yet the moment she spoke those words, she sensed a crushing aura spill from Aurelianus. The entire gathering fell silent. He lifted his hand, as though indicating Lucianus, and aimed an arched eyebrow at Lily before asking.
+
+“What did you just say?”
+
+Livia tried to salvage the moment by calling, “Aurelianus, don’t waste your time with—” but Aurelianus snapped, “Silence, Livia.”
+
+His hopeless infatuation for the woman was apparent, yet his fury outweighed it. He faced Lily and waited for an explanation.
+
+Lily forced herself to speak clearly.
+
+“Your daughter is not cattle,” she said. “You are bartering her in marriage to a spineless loser all to secure an heir who has not yet drawn breath, merely because she was born a girl. A man whose mind is so cramped with pettiness that it cannot house a single honorable thought deserves authority over dung heaps, not the fate of a Great Family."
+
+Aurelianus clenched his jaw but Lily wasn't done.
+
+"If you didn't understand my words," she said, "someone like you doesn’t deserve to lead a Great Family.”
+
+Aurelianus unleashed more of his aura so that Lily felt her joints strain as she felt the crushing pressure. She knew it insulted Lucianus for another man to crush his daughter’s aura like this, although Aurelianus seemed to believe Lily’s brazen words justified his response. He began to speak in an icy voice.
+
+“Girls cannot inherit families,” he said. “They cannot become Champions, either. You too will be married off, Liliana Claudia, and so will my daughter. Your parents coddle you, and that’s their failing. I had to destroy my own daughter’s childish dreams because she has greater obligations—the same will happen to you.”
+
+Until she heard this, Lily had never wanted to fight for the role of Champion, nor had she yearned to involve herself in the Church’s politics. Whenever her mother brought them up, Lily felt uneasy. However, as Aurelianus taunted her, she felt an unfamiliar fire kindle in her chest. She spoke quietly and declared.
+
+“I will be a Champion. I will be the next Pope.”
+
+She pointed a determined gaze at him.
+
+“When that happens, you will lose your place at the head of the Gens Aemilia, and your ignorance shall be punished.”
+
+Lily’s last word carried enough mana to make the nearby tables quiver. Although she had far less power than most of the people around her, the unexpected force startled many of them. Aurelianus gripped his sword hilt again. He looked ready to strike, but a stronger aura ripped through the gathering and made him recoil. Lucianus appeared at Lily’s shoulder, pressing down with a hand that felt rigid on her arm.
+
+“Silence,” Lucianus said. “Stop disgracing yourself and our family.” He leaned close to Lily and hissed, “You are my daughter. You share my blood, but if you keep this up—” He did not finish because Lily interrupted him.
+
+“If you feel embarrassed by me,” she said, “you too are not worthy of—”
+
+Lucianus slapped her so fiercely that she fell to the ground with a thud. Pain lanced through her jaw, and she felt the bone crack. She had to channel healing magic immediately to speak again. She looked up at him, sensing that he expected her to tremble and apologize. Instead, she rose, flexed her jaw, and allowed only the slightest sign of emotion to pass across her features—channeling the same attitude her mother usually displayed.
+
+Adriana watched from her seat. She did not intervene or scold Lily. Through [Mana Sense], Lily perceived her mother’s curiosity, which seemed stronger than any anger.
+
+Lucianus ordered Lily to sit down again, adding, “We will deal with this at home. Apologize now.”
+
+He seized her arm to drag her toward the table, though she let him grip it before twisting out of his hold in a quick motion that he had not anticipated.
+
+She stepped backward and turned to Aurelianus, saying, “Come to my Champion’s Trial in two years. When I defeat that spineless fiancé you chose for your daughter, you can apologize to me.”
+
+Aurelianus responded with a low laugh.
+
+“You would need not only a Great Skill—which you cannot feasible nor legally inherit,” he said, “and a sponsor outside your own family to even participate in the Champion’s Trial, especially as a girl.” He shrugged. “If the God of Light wants you to compete, and you manage to defeat Lumius, someone who's trained for battle since he was a young child, I give you my word and I shall dissolve the marriage in case. However, if you lose,” he said, voice darkening, “I will select the flowers for your own wedding. And if Lucianus consents, you shall marry my firstborn. Having you in my house would let me teach you some manners.”

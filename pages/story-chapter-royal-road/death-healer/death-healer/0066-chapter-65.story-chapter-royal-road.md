@@ -1,0 +1,165 @@
+---
+id: 3cb0b6ff-afc7-5e31-8e7e-3b328703be89
+page-type-slug: story-chapter-royal-road
+title: "Chapter 65"
+slug: 0066-chapter-65
+partOf: death-healer
+position: 66
+ownLength: 2500
+unit: words
+publishedAt: 2025-08-22
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2539580/chapter-65"
+royalRoadId: "2539580"
+---
+
+Lily dismounted and tied her horse to a crooked, half-burnt pine at the edge of the training yard. Sabinus stood among a loose line of half-armored men, many of whom had been pressed into the legion after running from their old posts. Their faces showed sunburn, fatigue, and the quiet terror of people who had already lost too many friends.
+
+Sabinus, released from the makeshift stockade only a month ago, now drilled the men in the way Caesar demanded—no shouting, no bribes, no blows for mistakes, only endless repetition until every movement ran smooth as a river after rain. He caught sight of Lily moving toward him, so he handed a battered practice shield to a nearby recruit and excused himself.
+
+“You’ve got the formation, Hanno. Anyone who gets pushed out, you pull him back in. If the line breaks, you’ll die first,” Sabinus said to the men. The soldiers grunted, their voices ragged but more confident than when Lily had first arrived.
+
+She watched him approach and noticed the way the sun struck his copper hair, making it seem even more out of place among the mud and smoke of the camp. He carried himself with the slow ease of someone who had spent too long on the edge of survival but who now believed that things might finally be turning.
+
+“It’s time to go,” Lily said. Her voice did not waver, though she felt a pang of anxiety beneath the steady surface.
+
+Sabinus looked at her and tried to hide his relief. “I’ve trained enough people. They can manage without me for now.” He tried to smile, but the lines on his face had deepened since the last time she had seen him. The memory of his imprisonment still clung to him, and though he walked free, Lily could see that he had not left the cell entirely behind.
+
+He studied her for a long moment. “You’ve grown taller than me.” He said it as if he barely believed it himself.
+
+She gave a lopsided grin.
+
+Lily glanced at the drill yard, where a few of the younger soldiers struggled to copy what they had seen Sabinus do. “Fewer people will die because of you,” she said. “They have a chance now, and not just against the Undead. If the soldiers know how to use Mana to reinforce their bodies, the nobles won’t be able to throw them away as fodder anymore.”
+
+Sabinus sighed and rubbed his chin, which was rough from days without shaving.
+
+“You give me too much credit. Your knowledge has saved more lives than anything I’ve done. Caesar’s spreading your method faster than you can imagine. Once the soldiers start using it, leveling will speed up for everyone. The Undead won’t be able to tear through them like before.” He hesitated and lowered his voice. “You know they’ve started calling you the Goddess of Light? They’re scared and in awe at the same time.”
+
+She winced. “I don’t care what they call me. As long as it helps.”
+
+“Back in the Capital, they’d burn them for heresy. Here? You brought more hope to these men than anyone else, Lily.”
+
+A wind carried the stench of boiled meat and the faint, metallic tang of blood across the camp. Lily’s eyes narrowed.
+
+“We should move,” she said. “Caesar told me it’s time to return. My parents know I’m alive, but for now, we should reach the villa.”
+
+Sabinus nodded. He did not argue.
+
+They headed for the row of horses tethered beneath a tattered canopy. Sabinus picked up the reins of a grey mare, his hands moving with mechanical efficiency. Lily started to check her own horse, but a sudden crack split the sky.
+
+A white-hot explosion erupted above the camp, as if someone had torn open the clouds with a lance of fire. The burning afterimage lingered in her vision, and she squinted, raising a hand against the glare.
+
+“That’s the Sacred Flame,” Lily said, frowning. “Why would Caesar—?”
+
+Before she finished, a second detonation rattled the branches, showering them with flakes of burned pine needles. More Sacred Flame billowed high above, swirling like a banner, and she realized this wasn’t a drill or some demonstration for the soldiers.
+
+She heard a voice booming from the sky.
+
+“Caesar! Finally, I’ve found you, you filthy traitor!”
+
+Sabinus dropped the saddle blanket and jerked his head upward. Lily’s pupils constricted to star points, and she focused with the power of her ocular Skill, drawing the scene into sharp relief. Two figures hovered in the sky, both wreathed in burning white Mana, their forms larger than life.
+
+One of them, cloaked in silver and crimson, gestured grandly. His laughter echoed across the camp.
+
+Lily immediately recognized Cardinal Tiberius, the one who had once commanded entire armies with a gesture. She also recognized the way Caesar’s jaw set when he prepared for violence.
+
+“Touch my men again and I’ll execute you on the spot,” Caesar’s voice rang out, deeper and steadier than his brother’s. He stood with both feet planted on nothing but air, held aloft by pure will and Mana.
+
+“Execute me? Caesar, you’ve grown senile if you think you can threaten me! I am the strongest—”
+
+Caesar moved with terrifying speed, crossing the distance between himself and Tiberius in an instant. The Cardinal tried to react, but Caesar’s fist smashed into his ribs, sending him spinning through the air. Tiberius bellowed, and spirals of white fire erupted from his arms. He swung back, but Caesar pressed in, never giving ground, hammering him again and again with blows that struck like thunder.
+
+Lily’s focus shifted as she heard the faint whistle of something slicing through the air. She turned, barely in time, and saw a black-fletched arrow speeding toward her head. She channeled power through her arm, moving with the certainty of someone who had trained for this very moment, and slapped the arrow aside. It snapped in half and tumbled into the dirt.
+
+Sabinus swore and ducked, covering his face.
+
+“The Gens Iulia’s men. They can’t see us.”
+
+“They won’t,” Lily answered, spinning in place, her eyes searching the treeline. “But it looks like they decided to die. They’re not above level fifty, Sabinus. Tiberius must have known this was a low-level camp and didn’t want to take troops from other places.”
+
+He nodded, his jaw set.
+
+“If they recognize us, we can’t ever go back to Lumina. We have to get out now.”
+
+Lily clenched her fists and stared at the rows of men emerging from the forest. Dozens wore white tabards marked with the insignia of the Gens Iulia, and behind them, a handful of robed figures crackled with burning Mana.
+
+[Fire Mages].
+
+[Templars].
+
+“They’re going to slaughter everyone,” Sabinus said, his voice raw with fury.
+
+Lily shook her head. “Not if we move now.”
+
+She took a deep breath and reached inside herself, searching for the current of Caesar’s Skill—Lux Vitae Overdrive. She willed the power into her body, feeling every nerve ignite, every muscle tighten until her veins shone with unbridled mana. She stepped forward, her face covered by a strip of cloth, and threw herself into the chaos.
+
+Her metabolism, empowered by the Mana, ran so hot that her skin started steaming.
+
+She draped a piece of cloth over her head, shielding her appearance, and then ran toward the attackers.
+
+The first wave of [Templars] charged, swords flashing. The [Fire Mages] hung back, their hands weaving sigils that sent sheets of flame sweeping through the camp. Men screamed as fire caught their uniforms. The weaker recruits broke and ran, but a few veterans closed ranks, trying to buy time for the others.
+
+Lily fell among the attackers like a meteor. She ducked beneath a clumsy swing from a robed [Mage], drove her fist into his gut, and threw him over her hip. A [Templar] lunged from the right, swinging a massive longsword. She sidestepped, grabbed his arm, and locked his wrist in a brutal hold. The man roared, spittle flying from his mouth, but Lily twisted his arm behind his back, kicked out his knee, and threw him face-first into the dirt.
+
+A second [Templar]—this one at least level forty—charged at her, swinging a warhammer. She didn’t try to block it, but let it crash past her shoulder, closing in and slamming her palm into the side of his jaw. The force didn’t break his neck, though the impact snapped something. He staggered, his eyes rolling back, but stayed upright.
+
+Lily cursed. Undead were slow and fragile compared to these men. A [Templar] of the Gens Iulia had the strength to tear a horse in half.
+
+She ducked another blow and rolled behind the man, driving a knee into his kidney, then slipped her arm under his chin and yanked him into a chokehold. The templar twisted and bucked, nearly throwing her off, but she tightened her grip. His armor dug into her forearm, but she forced his arm up and heard the pop as his shoulder dislocated. He screamed, but Lily kept squeezing, drawing on every ounce of strength Caesar had forced into her training.
+
+The man thrashed, clawing at her arm. She felt blood run down her cheek from a wild backhand, but she held on. When his struggles weakened, she gave a final jerk, snapping his neck. He slumped to the ground, and she let him fall.
+
+A [Fire Mage] tried to incinerate her, hurling a spear of white-hot Mana. Lily dove aside, rolling through mud and ash, and came up beneath the mage’s guard. She drew a knife and jammed it into his thigh, then drove her fist into his solar plexus. The mage collapsed, retching.
+
+She heard Sabinus shouting something behind her. He fought with his face turned away from the men, careful not to reveal his family’s techniques. His blade flickered, cutting down a [Templar] with precise, efficient blows. He never showed his back, and he never let an enemy catch him in open ground. Every time someone lunged for him, he dropped low, swept their legs, and crushed their throats with the edge of his shield.
+
+* * *
+
+Sabinus had sparred with Lily hundreds of times, but never like this. He had seen her train with Caesar, had watched her learn how to move her body so it became a weapon. But now, as she tore through the ranks, he realized he had never truly seen her fight for her life. She moved like a demon, every strike ending in a kill.
+
+She was good before, but she lacked something—this… this is incredible. I’ve never seen an Unclassed person move like her. What is she going to become after she finally obtains a Class?
+
+She spun through three [Templars], slipping between their blows. She hooked a leg around one’s ankle, threw him down, and stomped on his wrist until the bones shattered. She took his sword and used it to parry a blow from the next attacker, then smashed the pommel into his face, caving in his nose.
+
+Sabinus felt the hairs on his neck rise. He knew what it was to kill, but he had never moved like that. She made the rest of them look like children swinging sticks.
+
+A Level 50 [Templar]—one of the higher-ranked ones, judging by the quality of his armor and the way the other soldiers gave him space—stepped forward. He was a giant, taller than Sabinus by a head, and his sword gleamed with inscriptions that glowed red with Mana.
+
+He pointed at Lily.
+
+“Deserter!” he roared. “You’ll pay for betraying the Gens Iulia!” His voice rang with conviction, but his eyes were wild.
+
+Lily did not reply. She rushed him, feinted low, and tried to kick out his knee, but he anticipated her. He caught her leg, twisted, and hurled her into the dirt. She rolled, sprang back up, and ducked a horizontal slash that would have taken her head off. The templar pressed her, using his strength to batter through her defenses. She barely blocked a blow that drove her to her knees, her arms numb from the impact.
+
+He tried to stomp her head, but she rolled aside, swept his leg, and climbed back to her feet. She jabbed for his throat, but he caught her wrist and squeezed until her bones creaked. She growled, broke his grip with a brutal headbutt, and staggered back. The templar pressed in, raining blows that bruised her ribs and rattled her teeth. He grabbed her by the hair and tried to drag her down, but she twisted, kicked his ankle, and wriggled free.
+
+* * *
+
+Lily knew she could not win this by trading blows.
+
+She feinted right, ducked left, and got under his guard. She wrapped her legs around his waist and locked in a triangle choke, using every bit of leverage and strength Caesar had taught her. The [Templar] thrashed, but Lily squeezed, tightening the hold until he turned red, then purple. He roared, smashed his fist into her side, destroying her ribs, and nearly broke her grip, but she held on, using [Life Flow] to patch herself up from the mortal wounds she was receiving.
+
+But then, one blow caught her on the head and she momentarily lost her senses. When she came back, she saw Sabinus resting over her, his sword dripping blood.
+
+She looked to the side and saw that the [Templar] she had been fighting had been beheaded.
+
+He grabbed her by the arm.
+
+“We have to go. Now. We killed most of them. Only low-level ones remain. We can’t afford anyone, especially the Cardinal, to see us.”
+
+Lily glanced at the sky, where Caesar and Tiberius traded blows like gods fighting for the fate of the world. They seemed evenly matched. For a moment, she worried Caesar would fall, but she saw the fury in his eyes and knew he would not die today.
+
+She nodded and followed Sabinus.
+
+They sprinted through the shattered camp, past burning tents and bodies, until they reached the horses. Sabinus threw himself into the saddle and pulled Lily up behind him. She clung to him, her body aching, her breath ragged, but her mind focused.
+
+They galloped away from the carnage, cutting through the trees and down the narrow, twisting path that would lead them back to the Dead Lands, where the Gens Claudia’s villa rested.
+
+Lily did not look back, though the sounds of battle still echoed behind them.
+
+As they reached the edge of the forest, Sabinus slowed. Lily turned, searching for any sign of pursuit. She couldn’t see anyone.
+
+* * *
+
+Someone watched from the shadows as Lily and Sabinus left the camp, waiting several minutes before following them on horseback. The person wore a cloak that hid most of their features, but a single lock of white hair slipped from beneath the hood.
+
+The stranger mounted a dark horse and urged it after them, following at a distance.

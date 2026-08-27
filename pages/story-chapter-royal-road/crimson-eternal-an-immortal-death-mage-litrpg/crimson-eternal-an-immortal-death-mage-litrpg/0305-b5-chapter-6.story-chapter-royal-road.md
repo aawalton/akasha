@@ -1,0 +1,127 @@
+---
+id: dde6e2c5-dc8f-56a2-9f1c-f739e1582440
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 6"
+slug: 0305-b5-chapter-6
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 305
+ownLength: 1449
+unit: words
+ownProgress: 1449
+publishedAt: 2025-09-14
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2600322/b5-chapter-6"
+royalRoadId: "2600322"
+markedReadAt: "2026-06-29T19:16:11.367Z"
+---
+
+Somewhere within a Secret Lair on the planet Fay
+
+Silence fills the secret laboratory as the many supervillains of the planet Fay, archenemies of the Magical Guardians, watch the screen in front of them. A screen showing a single beautiful woman with long snow-white hair, glowing crimson eyes, and pale skin wearing a black and crimson military officer outfit falling from the sky. All the way until said beautiful woman turns into a paste on top of a well-known Magical Guardian.
+
+Then they watch as the woman suddenly reforms again right in front of the slightly traumatized-looking Magical Guardian, glances at the guardian, and walks away without a word.
+
+“This… is our target… right?” one of the head researchers at the secret laboratory asks, his voice sounding more than a little trepidatious.
+
+But Arc doesn’t care. After all, he didn’t set up this evil organization so that his top brass could just wimp out of any operation they decided to take.
+
+Even if it’s an operation against a Horseman of the Apocalypse.
+
+“Yes, she is our target,” Arc answers, his cold voice cutting through the air and any of the discontent within the laboratory. “We are targeting her precisely because she is such a protected individual within the universe. And if she were to be targeted, the ones targeting her will face a price.”
+
+Everyone in the room nods their heads at that, knowing full well what happened to some of the secret mage orders of the Arcadian Society that tried targeting Aria.
+
+Secret mage orders that haven’t been seen since they received a visit from the Rex Dynasty or the Crimson Empire.
+
+And that doesn’t even include the one world that Arc is too afraid to even name. An Alpha Tier world whose emperor decided that the beautiful Horseman of Death would make for a wonderful bride and refused to believe that Horsemen of the Apocalypse couldn’t have offspring. So he tried to kidnap her for that purpose.
+
+Only for his entire planet to go missing from the solar system, throwing said solar system into chaos as the gravity of the other worlds was thrown out of order in the process.
+
+Not even Arc knows what exactly happened to the planet in question, or the emperor with a clear mental issue if he was stupid enough to target Aria for that purpose.
+
+But things are different for Arc.
+
+After all, Arc’s goal is precisely that.
+
+To bring the ire of the big players to Fay and let the world be destroyed.
+
+All he needs to do is kidnap Aria and blame it on the Magical Girls of Fay. Then he’ll be able to completely rid the universe of the Tier 10 fae menace.
+
+Arc’s lips quirk upwards into a grin that sends shivers down the spines of anyone who sees it. But he doesn’t pay them any mind as he says, “Since the Horseman is out of the zone now, ready the last stages of the operation. We begin in one hour.”
+
+“Sir!” everyone shouts within the laboratory before getting to work.
+
+Leaving Arc standing in front of the screen that’s still showing Aria as she walks down the street.
+
+Even if I should die in the process, I will get my revenge on this planet and those fae…
+
+AriaOne hour later
+
+The end of the Galactic New Year. A wonderful time where everyone in the entire universe celebrates the Galactic Calendar changing from one year to another.
+
+It’s also a wonderful time to find my eBooks on sale. Not that I really need a sale.
+
+But more importantly, it’s a wonderful time to find new books released. Because a lot of authors think it’s a cool idea to go and release books around the holidays, when people are, well, on holiday. And able to buy things.
+
+So I was really looking forward to today. Just going into a rather popular bookstore on this planet to get a couple exclusive books by my favorite authors that are only being sold here and a few other choice stores for the New Years.
+
+But nope.
+
+I can’t help but glare at the cute looking girl in front of me who has my hands tied up behind my back with the completely destroyed book store all around us. Including the little cards with the codes on them that I had just purchased.
+
+Codes that are completely burnt and can’t even be read anymore.
+
+Of course some asshole had to attack me right this very moment. And of course they had to blow up the entire book store.
+
+And of course they had to damage my code cards.
+
+“Aria Crimson, we are taking you into custody for being a danger to our very planet and for spreading death magic to the inhabitants of Fay,” the ‘magical girl’ says while glaring at me despite looking half my age. Which is just weird. “You may not speak until-”
+
+“Cut the shit and stop acting like a fucking authority on this planet,” I interrupt the fake magical girl with a glare of my own, startling the girl in the process. “Do you really think I’m stupid enough to fall for that?! What fucking authority of this crazy pious planet would go blowing up a bookstore just to capture me when I’ve done nothing wrong?” My eyes narrow. “You’re going to pay for that bookstore, by the way.”
+
+The fake looks confused as hell right now. But I’m too pissed about the bookstore and my codes to care.
+
+A few seconds pass before the fake tries to speak, but my anger makes me ignore them and instead stand up while using soul flames to begin burning away whatever magical zip-tie is tying my hands together. Which fails miserably, at which point I just snort and – after taking a picture of the fake with my terminal – I go ahead and summon my horse right beneath me.
+
+Then I open a portal to the Plane of Death and have my horse walk straight through it, shocking the fake even more as I casually go somewhere he can’t.
+
+Fucking asshole.
+
+How dare they destroy my codes?! They better give me new ones.
+
+Do they realize how long it took me to find those special limited edition codes while scouring this planet in the first place?!
+
+Then again, that difficulty was my own fault for happening to be on one of the worst worlds possible in terms of fantasy books from the outside universe on Galactic New Years of all times.
+
+I let out a sigh before finding a random Greater Spirit and asking them to break the damned zip-tie. Which they do with ease. And without pause, I go ahead and send a call to the governing office of Fay to tell them about this incident.
+
+Although I mostly just end up complaining to them about my lost code.
+
+But before I can even finish complaining, they tell me about how a massive supervillain organization and its leader were just wiped out without warning. With the only evidence of their base left behind being the Crimson Empire’s emblem.
+
+Huh. They got there faster than I thought.
+
+Still, did this supervillain really think he could frame an entire planet on kidnapping me?
+
+Ridiculous.
+
+I humph out some air in my irritation as I head back through a different gate onto the world. Then I go and search for another store that may have the code in it.
+
+Of course, I don’t even make it half a block after leaving the Plane of Death before some actual magical girls begin bothering me and asking if I’m okay. And no matter how many times I tell them that I’m fine and try to make them leave, they keep insisting on assisting me.
+
+Probably because my mere presence here just got rid of a major supervillain for them and without any charge.
+
+Other than a bookstore.
+
+That precious bookstore.
+
+Eventually I give in to their request of giving me something in return by asking them to search for a bookstore that has a code in it. Which confuses the hell out of them, but I don’t really care.
+
+So long as I get my code.
+
+And after ten minutes, they finally take me to another bookstore on the opposite side of the planet where they give me the code for free. Of which I immediately cash in.
+
+Then I go ahead and head to my ship, deciding that this planet is just a pain in the ass to be on.
+
+And now that I have my code, it’s time to leave.
+
+After I figure out where to go next, that is.

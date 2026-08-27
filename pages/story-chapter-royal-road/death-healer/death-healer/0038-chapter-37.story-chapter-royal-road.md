@@ -1,0 +1,165 @@
+---
+id: fd7d6452-e625-5f7d-9924-44a428120442
+page-type-slug: story-chapter-royal-road
+title: "Chapter 37"
+slug: 0038-chapter-37
+partOf: death-healer
+position: 38
+ownLength: 1909
+unit: words
+publishedAt: 2025-06-21
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2374883/chapter-37"
+royalRoadId: "2374883"
+---
+
+Vespera blinked, heartbeat thick in her ears. Behind her, Selena sat frozen, whetstone idle. Calpurnia’s brows had risen a hair, nothing more, yet Vespera felt the change in the air.
+
+She tightened her grip on the spear. Lily’s smile was gone now, replaced by steady eyes.
+
+"What are you waiting for? I'm right here," Lily said, widening her stance.
+
+Vespera noticed a spark of Mana around Lily's eyes and frowned.
+
+But before she could question whatever she saw, the girl had dashed toward her.
+
+Calpurnia waited on the stone flagstones at the edge of the courtyard with her arms folded and her eyes fixed on Lily and Vespera.
+
+Morning light streamed across the earth, turning dust motes from the duel into drifting gold.
+
+She was equally tense and worried. Part of her felt her pride wounded.
+
+It was a mix of contrasting sensations.
+
+On the one hand, seeing Lily become so strong in such a short amount of time was exactly what Calpurnia wanted. Not one woman after Adriana had showed the talent needed to aspire to become a Champion—one that could have a shot at the Papacy. Calpurnia suspected that if Lily had actually trained during all these years, she might have surpassed even her mother in sheer power.
+
+And to this day, not even Flavia, the strongest of the triplet, equalled Adriana's power. Truthfully, as far as Calpurnia knew, only one person had showed more talent than the famed Princess: Cassius, Pope Ennius's firstborn.
+
+Lily hasn't showed that level of power, but her healing…
+
+Calpurnia had never seen anything like it. She was surprised no one tried investigating more where Lily's insane healing power came from.
+
+Now, if Lily failed today, she would lose more than a sparring match. She would lose a chance to prove that women could be as strong as men—no, stronger—in this world.
+
+Selena sat beside her, silent but alert.
+
+Calpurnia could feel her daughter’s fidgeting by her side.
+
+Selena was the most hopeful of the women in their family. Even though she was the weakest of her daughters, the one with the least talent and the one with the roughest character, she was the dreamy one. She was the one who believed that Lily could actually make it to the Champion's Trial and win.
+
+Selena believed in Lily. That belief did more to steady Calpurnia’s heart than any promise she had made. Still, Calpurnia would not relax until Lily finished what she had begun.
+
+Part of Calpurnia really wished that Lily could pull off a miracle today; then again against Sextus; then again at the Trial; and then again until the Papacy would be fully changed.
+
+Vespera stood opposite Lily with her spear aimed at the blonde.
+
+Calpurnia sensed her daughter’s steady breath as if it echoed her own. Vespera did not hate Lily. She tested Lily because Calpurnia had asked her to. But she also loathed part of the girl's behavior because they way Lily behaved was… unacceptable. Unacceptable in the very sense of the word. No one in society would accept a woman behaving like Lily, talking to the Patriarch of one of the Great Families like the blonde had already done. Yet, Lily didn't care. She did whatever she wanted. And part of that, despite being exactly what Calpurnia wished for her daughters, irked all of them but Selena.
+
+If Lily could stand here and win, then maybe she could stand facing Sextus next.
+
+Calpurnia watched Lily set her feet wide. She saw how Lily’s shoulders squared, how her jaw stiffened.
+
+She has never trained from what I know. I wonder what kind of divine talent, what kind of Perk, perhaps, made her like this.
+
+Lily fought like someone who had spent their entire life engaged in the art of fighting, not like a lazy girl that had neglected their training up until now.
+
+“When you circle, your shoulder binds, and the spear drags. I can feel the weight gather there," Lily pointed at Vespera with a smug smile. "I see you. I see all your openings."
+
+“If you truly feel that drag and can strike me through it, I shall kneel in full respect. If you fail, you will set aside your challenge to Sextus and train another year before you even dare speak to me like this.”
+
+While they reset positions Calpurnia murmured in a voice low enough for only herself. “Adriana could control Mana like nobody, yet this girl seems to have such an incredible [Mana Sense], like I've never seen before. Not even in Cassius.”
+
+She folded her arms harder as another thought took her.
+
+“Yet to weave Coniunctionis with that reach during combat should grind bones into dust.”
+
+Selena replied while she watched Lily settle her feet. “Mother, she tears and mends faster than we can follow. Her healing is too powerful."
+
+“Resume fighting,” Calpurnia said sternly, feeling the need for Lily to be humiliated.
+
+Her voice carried across the yard, firm and without doubt.
+
+Vespera sprang forward as her spear thrust in a straight line that should have split Lily’s ribs.
+
+Calpurnia’s heart jumped because Lily shifted on her toes so that she slid back just enough for Vespera’s spearhead to skim past her shoulder.
+
+Calpurnia felt a thrill because Lily had seen the gap. The middle-aged woman realized that Lily had sensed the drag in Vespera’s shoulder before the strike. Yet, she admired how calm her daughter remained after her spear had missed.
+
+Lily’s palm met the spear. Calpurnia heard wood scrape Lily’s sleeve and then saw a fine crack blossom where Lily’s Coniunctionis pulsed through her arm. As the shaft groaned, Vespera twisted free before the blow could lodge.
+
+The first exchange ended in a wash of dust.
+
+Calpurnia finally remembered to breathe. She turned her head to Selena and saw Selena give a slight shake. Neither of them spoke because speaking now would break the spell.
+
+Vespera adjusted her grip.
+
+She squeezed the haft with both hands so that Coniunctionis forced through her boots and into the spearhead. Lily braced herself while Calpurnia felt Lily’s pulse deepen because a second strike slammed down.
+
+That second crack rang sharper than the first.
+
+Calpurnia’s breath caught when she saw the shaft bend near the center, and Vespera recoiled in surprise.
+
+Lily’s jaw clenched as Calpurnia noticed the rush of Mana flare in Lily’s eyes like a lantern lighting. Before Lily could follow, Vespera spun and used the spear’s momentum to avoid the next blow.
+
+Calpurnia tensed because she had thought Lily might shatter the spear right there. Instead, Vespera slipped free. The shaft hissed as hairline cracks spread along its length, yet it did not break.
+
+Calpurnia used her own [Mana Sense] to see that Lily's ribs had been partially torn by the continuous use of Coniunctionis that the girl was doing. She had not turned it off for one second. While Vespera used it in bursts, Lily had seemingly not stopped using it since their first exchange, which meant that not only Lily's mastery over the Martial Art had grown beyond the woman's wildest imaginations, but that the girl was already capable of modulating the output of power of the Skill, something that only Flavia among her three daughters was capable of.
+
+Yet, she saw Lily’s Light Magic continuously her muscles so that they held together. Calpurnia’s heart ached because seeing that strain made
+
+“Her frame… it should buckle,” escape her lips in a whisper, but Lily remained upright.
+
+The third exchange began before Calpurnia could think. Because Vespera lurched forward in a burst of speed, she drove the spear in three fast jabs, each with enough force to shatter flesh and bone.
+
+Calpurnia held her breath while Lily saw the jabs converge on her center and twisted her torso backward. When Lily’s left foot pivoted, her right palm struck the spear just above Vespera’s gauntlet.
+
+Calpurnia saw the blow travel from Lily’s chest along her arm and into her palm. The spear shuddered as cracks fanned out like spider legs from the point where Lily’s hand pressed. Splinters flew and Vespera yanked back. After another half-second—enough time for Calpurnia to notice a drop of sweat on Lily’s temple—the shaft split.
+
+Vespera backed away while holding the broken spear as if it weighed nothing.
+
+This time, Lily's Coniunctionis flared with so much Mana that Calpurnia felt her jaw seize.
+
+How can she support that much energy in her body?
+
+Lily's legs and back muscles snapped her back in an unnatural motion that projected her right upon Vespera. Lily threw a punch so fast that Calpurnia was sure her daughter could have not seen it coming.
+
+Is she trying to—
+
+No, Lily wasn't trying to kill Vespera.
+
+The punch stopped an hairline from Vespera's throat.
+
+The white-haired girl, immediately understanding what had just happened, sank to one knee while holding the broken wood in both hands. Dust floated around Vespera and Lily as it settled on each shattered splinter.
+
+Lily stepped forward with her arms open, and Calpurnia’s chest tightened because if Lily had killed Vespera, Calpurnia did not know what she would have done next. Instead, Lily lifted Vespera with gentle strength. Calpurnia felt a sudden wash of relief because Vespera remained on her knees with head bowed while Lily released her hand.
+
+A breeze stirred, and Calpurnia heard a faint rustle as she looked up. Because rose petals drifted from the east, they floated like slow red snow, they landed among the wood shards and Lily’s sandals.
+
+Silence stretched before Calpurnia spoke. She stepped forward, and Vespera rose while holding a spear fragment in one hand and meeting Calpurnia’s gaze. Calpurnia saw respect there, honest and unguarded.
+
+“You have proven yourself,” Calpurnia said with a voice that held both pride and a sting of worry. “Because you read Vespera’s movement you struck true. Yet you draw Coniunctionis with a strength that should shatter even tempered steel and break your own bones in turn. Why do you stand now?”
+
+Lily’s chest rose and fell as she set her jaw again. Calpurnia watched how Lily’s fingers curled whenever Coniunctionis seeped from her skin so that Calpurnia could almost see the threads, shining white, knitting Lily’s bones.
+
+“I heal,” Lily said. “I heal faster than it breaks.”
+
+Calpurnia studied Lily’s arms. She saw faint bruises along muscle that should have shattered. Because those bruises glowed with a faint luminescence, Calpurnia felt her throat tighten.
+
+“Your healing… it is a gift, but if you keep this path you risk your own life. Sextus’s duel will be harder. Do you trust that healing to hold against him?”
+
+Lily nodded.
+
+"I shall win, Aunt Calpurnia."
+
+"He will try and cripple you, Lily," Calpurnia warned her.
+
+"I shall cripple him, then," Lily smiled.
+
+Calpurnia nodded once and felt the weight in her chest lift a little.
+
+“You surprise us all, but you must understand that when you face Sextus the stakes will be higher than you realize. You face his father’s reputation and the Gens Cornelia’s pride. If he loses, a large chunk of our house loses.”
+
+"I understand."
+
+Selena slipped closer to Lily’s side and touched Lily’s shoulder.
+
+“Enough talk, then,” Calpurnia said as she lifted her chin. “Go rest. You must be almost out of Mana for today. You're forgiven for how you spoke to me. We resume at dawn, so go rest. I will take care of the next steps of your training myself.”

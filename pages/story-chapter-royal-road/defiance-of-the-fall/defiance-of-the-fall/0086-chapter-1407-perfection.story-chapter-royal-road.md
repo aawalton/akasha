@@ -1,0 +1,189 @@
+---
+id: 35864ef5-74af-5e0c-b845-7021a7c2933e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,407 - Perfection"
+slug: 0086-chapter-1407-perfection
+partOf: defiance-of-the-fall
+position: 86
+ownLength: 2890
+unit: words
+publishedAt: 2026-03-05
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3119872/chapter-1407-perfection"
+royalRoadId: "3119872"
+---
+
+Calling his core Peak Quality didn’t seem to do it justice. Gold, black, and steel meshed in perfect harmony, without so much as a hint of incongruity. Zac wouldn’t have known he was looking at a mortal’s Cosmic Core if it weren’t his own, and cycling his energy indicated it had seen a noticeable buff to recovery and transmission rates. There were no longer any roadblocks or potholes in the way.
+
+A pang of regret followed the initial sense of wonder when Zac realized he would have to blow up this piece of art. Why couldn’t he have worked a bit harder, advancing to Peak Hegemony before the hunt? Zac shook his head and discarded the irrational thought. Disregarding the fact that it simply wasn’t possible, the [Peregrine Almond] wouldn’t have enough juice to patch up a newly advanced core—at least not the way Zac advanced.
+
+“How long was I out?” Zac asked as he looked around.
+
+“Not long, ten minutes or so,” Esmeralda said.
+
+‘All good?’
+
+‘Better than good,’ Zac answered before bowing toward Idiche.
+
+“I have no words. Your gift is beyond generous.”
+
+“It’s what you deserve,” Idiche said.
+
+“Well, what about me?” Esmeralda asked while stretching her hands out like a child asking for candy.
+
+“I haven’t forgotten you,” Idiche said before opening her arms in a grand gesture. “For graciously acting as my Dao Guardian, I leave you my lodge.”
+
+“WHAT?! This filthy, derelict, imaginary hovel?!” Esmeralda bellowed, stomping her feet with fury. “Give me half of that sphere! Forget it, even a few shavings are better than inheriting this dump.”
+
+“I’m afraid that’s not possible. The Divine Core is part of me now.” Idiche lightly laughed. “And don’t look down on this so-called hovel. It may have seen better days, but it is still the nucleus of a memory that has endured since the First Era. It will help you contain the item you seek, allowing for a more controlled integration.”
+
+“Don’t you need this place?” Zac asked.
+
+“I…” Idiche’s voice stalled as she gazed at the sky. “I have a mission to complete. The sect paid an extraordinary price to bring me into being. Master needs me to stand guard, to protect their sacrifice.”
+
+If the previous vision wasn’t proof enough, it was clear that Idiche knew the truth of the Mercurial Court’s current state. Her view of the future had contained snippets taking place outside the memories. Zac wasn’t sure exactly what sacrifice she referred to, but it should be related to the Mercurial Court’s hidden mission.
+
+Esmeralda’s earlier remark echoed in the back of Zac’s mind as he saw Idiche’s determined expression. Everyone’s loyalty to the Limitless Empire was beyond anything he’d encountered elsewhere. Even the invaders teeming with corruption were fiercely loyal to the Empire in their own twisted way. The war back home would have gone very differently if Zecia’s stronger factions possessed a fraction of this level of dedication.
+
+Zac could also tell that this was goodbye.
+
+“Is there anything else we can do for you?” Zac asked.
+
+“There will be an inquiry. Marai died a martyr, not a traitor,” Idiche said.
+
+“Of course,” Zac agreed without hesitation.
+
+“Take care,” Idiche said before turning into a beam of light grander than when she awoke. As it shot into the sky, Idiche’s voice echoed in his mind.
+
+‘Sometimes, we have no choice but to walk down a road paved by others.’ Idiche’s voice suddenly echoed in Zac’s mind. ‘Be patient. Your path is sanctioned by His Majesty, and The Eternal has released your Life Chart. Your future is no one’s but your own. Keep on walking, and you’ll eventually reach open pastures.’
+
+Life Chart? Zac had no idea what that was or how Idiche knew he’d locked eyes with the Eternal. There was also no time to ask Esmeralda. The whole Hall of Abundance had begun flickering as Idiche’s lingering divinity entered its walls, activating the circular pattern on the ceiling one final time.
+
+The hunting lodge was fast losing its corporeal state, turning into streaks of light that pulled toward Esmeralda. The whole thing was gone in a flash, leaving only a dense golden mist behind. Zac noticed a wooden miniature structure had appeared in one of Esmeralda’s vats before it was submerged in viscous liquid. Zac showed nothing on his face as he looked away.
+
+Dozens of perceptions, all stronger than his own, locked onto them the next second. The feeling was unnerving, yet Zac remained calm as the golden mist dissipated. A chill crept up his legs the next moment. The lodge’s tiled floor was gone, and Zac found himself standing in crystalline, knee-deep water.
+
+The spot where the lodge stood had been turned into a shallow lake atop a bed of desert sand. Zac could still sense a hint of corruption beneath the surface, though nowhere near the levels he’d encountered before. The lake had roughly reached the seventh concentric lake, but the rest of the core region looked mostly as it did before.
+
+There were no signs of the azure moon or the magic circles in the sky. Considering there were dozens of mountain rivers depositing rainwater into the lake, it was only a matter of time before the whole core region became a submerged basin. Nature was cleansing itself, though it appeared unlikely the island would remain untouched by human hands.
+
+Zac bowed to the dozens of Monarchs hanging overhead. He wasn’t as calm as he let on, and Esmeralda opted to immediately retreat into the [Shrine of Kanba]. There were two reasons they didn’t attempt a desperate escape. First, Idiche’s glimpse into the future showed him reaching his disciple manor safe and sound. Secondly, these new faces all wore a specific emblem on their robes, denoting them as members of the Enforcement Hall.
+
+“Everit Draom of the Imperial Magistrate greets the esteemed colleagues,” Zac said, noting the array flags in some of their hands.
+
+He suspected that while the immediate danger was averted, Sevona’s island posed a latent threat. The film between realities was weaker and possibly damaged in this region. Idiche’s mission was no doubt connected to rectifying this problem, but she couldn’t be everywhere at once. The Mercurial Court would have to install temporary plugs at the problematic areas until a permanent solution was found.
+
+“Everit Draom of the Imperial Magistrate?” a Late Monarch slowly nodded as he landed before him. “Did you emerge from the lodge?”
+
+“I did,” Zac nodded.
+
+“You alone?”
+
+“The rest are dead or gone,” Zac said, frowning when the perception dug into his body.
+
+The enforcer didn’t bother to apologize for the invasion of privacy. He stretched out his hand, causing Zac’s Disciple Token to fly into his grasp. His steely demeanor didn’t relax throughout, but he slightly nodded after completing his scan.
+
+“There are no issues, but we need you to share your experience of your time on the island,” the Monarch said.
+
+Another voice cut through just as Zac was about to agree, and he saw Astora Theomore teleport over.
+
+“I’d like to be present for the debriefing.”
+
+“Your Highness,” Zac said with another bow.
+
+“Master Draom… I didn’t expect to see you here,” Astora Theomore said, unable to hide her surprise.
+
+“Didn’t Your Highness get my message?” Zac asked, not understanding her reaction.
+
+“I did. I simply assumed…” Astora didn’t finish her sentence.
+
+‘She simply assumed it wouldn’t be you walking away from this island alive,’ Esmeralda snickered from within the shrine.
+
+“Uh-huh,” Zac said with an even expression.
+
+The Monarch agreed to the request after a short deliberation and set up a temporary barrack. He led Zac inside along with Astora and two randomly selected Monarchs. Zac guessed they needed multiple interviewers in case there were traitors hidden within their midst. Zac spent the next twenty minutes narrating the course of events, or at least a version of them.
+
+He unabashedly deflected as much responsibility as he could, even onto Astora sitting right before him. After all, it was the princess who’d sent him to the archipelago in the first place. He started with finding the dead infiltrator and their signet ring, then being taken hostage by Idiche. First and foremost, Zac made sure to push the blame for Descartes’ death onto Kaltosa Lu.
+
+Descartes may have come to the Mercurial Courts to compete with Astora Theomore for her qualifications as a Flamebearer, but he was still a bona fide nobleman from the Imperial Capital. Zac definitely didn’t want to get dragged into those murky waters or have the Mercurial Court invite a senior tribesman for further questioning.
+
+“You are saying that Descartes Belial is dead?” the leading enforcer asked as the others shared a solemn look.
+
+“I can’t say for certain. I was only responsible for keeping him busy. My attacks couldn’t even leave a mark. He healed right up the next second,” Zac said. “The other guy seemed sure of it, though.”
+
+“The Centigrade Elemental?” another Enforcer asked to confirm.
+
+Zac nodded. “He said his grandfather had devised a specific poison to target their clan. The Elemental also took a token from Descartes’s body, it appeared connected to the courts.”
+
+“And then?”
+
+“He tried to kill me too, that lunatic. He didn’t care at all that I was working with Her Highness to root out this evil. You really should do something about him before he hurts someone else. Thankfully, the Enkindling Sage of the Order of the Empyrean Chalice intervened,” Zac sighed, adding after a dramatic pause, “Apparently I’ve become a Holy Son of theirs. I’m not sure how it’ll affect my other duties.”
+
+“You? A Holy Son?” Astora said with clear skepticism. However, her expression shifted to surprise when she brought out a holy relic. It ignited with the Empyrean Chalice’s flames the moment she brought it close to Zac. “How is that possible…”
+
+The staid expressions on the Enforcers finally broke into something that could reluctantly be called friendly. It was partly for this reason Zac chose to share his new title. Since he’d officially taken up the mantle, Zac figured he may as well use it.
+
+When asked about Idiche’s transformation, Zac explained that he used the lingering power from Xiphos’s sacrifice and the Empyrean Chalice’s to close the dimensional tear. Holy Son or not, Zac definitely wasn’t planning on exposing the [Fuxi Mountain Gate].
+
+The enforcers were satisfied shortly after. As far as Zac could tell, they weren’t too interested in the exact details of the ongoings inside the lodge. Like Zac, they were reluctant to get in the middle when troublesome factions like Founding Families and Templar Orders were involved. After confirming it was Idiche who ascended and the locations of all the magic circles, they poured out of the building.
+
+“What happens now?” Zac whispered after he was alone with Astora.
+
+“The Mercurial Court’s upper echelons are no longer insisting on non-interference. They will soon declare a sect-wide mission to root out any infiltrators. This whole island will be sealed by the Enforcement Hall. Space is brittle enough here that they’ve decided to encase the whole thing in crystal,” Astora said. “The invaders will have to pay a much steeper price to pass through going forward.”
+
+“But it’s not over?” Zac ventured upon seeing Astora’s dissatisfied expression.
+
+“No… It’s…” Astora hesitated. “Frankly, I feel like I’m missing something. I am trying to put out fires without understanding their origin, and everyone seems adamant about keeping the truth hidden.”
+
+“We’re still only qualified to be chess pieces,” Zac smiled. “At least you know more than I do.”
+
+“Do I?”
+
+“Sure. I’ve been too busy swinging my axe and not getting myself killed.” Zac started to feel unnerved by the growing intensity in Astora’s eyes and quickly changed the subject. “Anyway, this Descartes fellow getting himself killed should be good news for Your Highness. It sounded like he came here explicitly to cause trouble. That’s what he gets for underestimating the Theomore Dynasty.”
+
+Astora’s expression grew odd. “To think the Grand Preceptor could miscalculate so badly. Or is it part of a deeper plot...?”
+
+“Grand Preceptor? Judging by everyone’s expressions before, I guess Descartes was someone important? I figured he was another heretical cultivator because of the filthy energies he exuded,” Zac said with a guileless expression.
+
+Astora didn’t call him on his bluff beyond giving him a reproachful look. “The depravity you sensed is the reason why the Belial Tribe could become an Imperial Bloodline. The Belial Devils are perhaps the only race that can thrive in environments others would consider blighted grounds. While the rest of us fight an eternal battle against the accumulation of Earthly Taint, the Belial Tribe draws those impurities into their bodies to empower themselves.”
+
+“Wait, they can cultivate with Earthly Taint?” Zac exclaimed, genuinely surprised at such an overpowered ability.
+
+His own resistance against Earthly Taint could already be considered a cheat, yet it was still a notch below those devils. While such an ability wouldn’t count for much after the System came around, it had to be extraordinary back in the Limitless Empire’s time. There were undoubtedly regions with terrifying levels of Earthly Taint, where taking a single step inside would damage one’s cultivation. Such places would be worthless for everyone else, allowing the Belial Devils to seize supreme cultivation grounds for free.
+
+Astora lightly nodded in confirmation. “The more they absorbed, the stronger they grew, seemingly without limit. Their degenerated nature is also an exceedingly effective weapon against ancient races. Those born from a broken Dao have irredeemable imperfections engraved in their very existence. The Belial Tribe can target those gaps and fill them with their madness.”
+
+“Then the Centigrade Elemental’s elder…” Zac inquired.
+
+“The Belial Tribe has contributed greatly to the empire by hunting Primordial and ancient races. It is a fair assumption that these Centigrade Elementals were brought in by them,” Astora nodded.
+
+“What a powerful race,” Zac muttered.
+
+“Their strength comes at a price; the Belial Devils aren’t immune to the madness they’re nurturing. Most drove themselves insane before accomplishing anything of note,” Astora explained. “I don’t know if it was the Emperor or one of the tribe’s founders who figured out the solution. Overnight, they all became scholars. They sealed the devils inside their hearts. By balancing order and chaos, rules and anarchy, they could reach greater heights than before.
+
+“They are both refined scholars and bloodthirsty hunters, depending on which side they let out. They have sixteen different methods of forming outer Avatars, including the Lucent Scholar Avatar you fought. Naturally, they’re not supposed to be as durable as you described. The Grand Preceptor must have pushed the scales in their tribe’s favor.”
+
+Zac nodded in thought. It wasn’t hard to understand why the Belial Tribe went so far to seize new opportunities. In some ways, their tribe would be the biggest losers when the System woke up. The continents under Imperial rule were already scrubbing the taint from major cities, and the Belial Tribe’s holy grounds filled with Earthly Taint would be swept away by the System’s purification. To continue their cultivation, they would have to leave the empire’s borders, taking them away from its seats of power.
+
+Ultimately, the reason behind their actions didn’t interest Zac much. The odds of running into them again should be quite low. Even if more tribesmen had traveled to the Left Imperial Expanse, they wouldn’t be able to enter the Mercurial Courts. Furthermore, Zac didn’t plan on using Everit Draom’s persona after stealing the [Second Singularity] in case the heist marked Everit as a wanted criminal.
+
+What was more interesting to Zac was how the Belial Tribe’s path mirrored Yselio Tobrial’s. Or perhaps, the other way around. The Seven Heavens were once unremarkable clans that rose to the top by raiding the ruins of their former masters. Had the Tobrial Dynasty managed to abscond with part of the Belial Tribe’s inheritance when they defected? They lacked the bloodline, but the Tobrials could still cultivate the Belial path of duality.
+
+“Is it really okay for you to tell me all this?” Zac asked.
+
+“It’s as you said. Descartes Belial’s death has helped the Theomore Dynasty and me personally. You deserve to understand the situation and who you’ve inadvertently offended.”
+
+“Not me, not me,” Zac quickly said. “As I said, I was barely involved. More of a bystander, really.”
+
+“I have a feeling that happens to you a lot. That you just so happen to find yourself in the middle of the storm.”
+
+“A mix of coincidences and bad luck,” Zac said.
+
+“I’m sure.”
+
+Zac gave up and changed the subject again. “I have to seclude myself before returning. It may last a year or more.”
+
+Astora nodded, not the least surprised by the news. If anything, she would probably have found it odd if a Hegemon did not plan on secluding themselves after an experience like this. Normal cultivation sessions could span years for a Late Hegemon, so seclusions after life-and-death battles were a given. Whether it was to recover from hidden wounds or digest new insights, one needed to close themselves off from the world.
+
+“Then I’ll be on my way, unless there’s nothing else?” Zac said as he stood up to leave.
+
+“Perhaps,” Astora said. “Ultom. Do you wish to know more?”

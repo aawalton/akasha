@@ -1,0 +1,269 @@
+---
+id: a1a75945-d297-5213-9f46-693b24177a90
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15"
+slug: 0016-chapter-15
+partOf: death-healer
+position: 16
+ownLength: 3063
+unit: words
+publishedAt: 2025-05-13
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2277209/chapter-15"
+royalRoadId: "2277209"
+---
+
+Aurelianus held the pendant his lover, Marcellina, had given him close to his chest, feeling almost as if he was about to betray her as he entered his wife's chamber. At least, he noticed as soon as he entered, despite Fausta's sickness, unlike the chambers of those suffering from an illness, his wife's chambers didn't have that sick smell; no, they actually smelled good.
+
+He found Fausta reading intently a piece of parchment.
+
+She's still wasting her time with this—
+
+Aurelianus shook his head and moved forward, stopping at the feet of his wife's bed.
+
+"Fausta," Aurelianus called out.
+
+The woman didn't seem to pay heed to him at all.
+
+"Fausta!" Aurelianus raised his voice, injecting some Mana into it, making the chambers suddenly tremble.
+
+Slowly, Fausta raised her eyes to meet her husband's uncharitable gaze.
+
+"What?" The woman asked.
+
+"I've consulted with the [Healers] and the [Potion Makers]," Aurelianus said. "They finally managed to finish the potion I commissioned them years ago. This is going to ensure your next pregnancy will carry to term."
+
+Aurelianus took a small vial out of his belt and walked to the side of the bed, leaving it on the woman's nightstand.
+
+Fausta put away the parchment she was reading—something stupidly complicated, Aurelianus would bet.
+
+"We've spoken of this before… Aurelianus," Fausta said, forcing the words out of her mouth, already breathless. "These potions… they don't work… they are dangerous, they—"
+
+"I don't care," Aurelianus said sternly. "I need an heir, Fausta. Unfortunately, you are my wife. I won't let a minor branch of the family take over because of you. I have no brothers or sisters alive. The main heritage of the Gens Aemilia lives and dies with me at the moment."
+
+"You have… a daughter," Fausta said, disgusted with her husband.
+
+"So what?" Aurelianus asked.
+
+"She's testing for…"
+
+"Lavinia won't inherit the Gens Aemilia's Skill, Fausta. Even if she had the talent, she couldn't pass down my name nor my heritage. Do us both a favor and take the potion. You won't have to see me other than to conceive our next child."
+
+Fausta felt her skin curdling at the sole thought of having to have intercourse with her husband again.
+
+"No."
+
+Aurelianus's face darkened and he took a step closer to the bed.
+
+"You will, Fausta."
+
+"You can… kill me," Fausta said, spitting to Aurelianus's feet. "I don't… care."
+
+"I can't kill you," Aurelianus said matter-of-factly, looking at his wife coldly. "Not even I could escape from the sentence that would follow. You keep getting pregnant, though, and that means you can't go to the Sanatorium either. But, I'll tell you what, dear wife, I know you don't care much about your own life anymore nor me. What about our daughter?"
+
+Fausta suddenly frowned.
+
+"What are you… saying…" Fausta said between wheezes.
+
+"Lavinia will have to get married, Fausta. And she wants to train and fight in Dungeons before that, right?"
+
+Aurelianus steeled his heart for what he was about to say next.
+
+"I love our daughter very much, Fausta. But the family always comes first. If you don't take the potion and give me an heir, whether it's something you like or not, Lavinia will suffer the consequences. I will make sure of it. There are many things that can go wrong in our little daughter's life. So far, I've been shielding her from everything—don't make me take this out on her, please."
+
+Fausta trembled, feeling tears pooling in her eyes.
+
+"Take today to decide," Aurelianus said, shrugging and turning his back to his wife, leaving the potion by her bedside.
+
+"But know that if you want to stand firm on your stupid principles, your daughter may suffer the price of your actions."
+
+* * *
+
+Anacletus narrowed his gaze, pressing his bony knuckles against the table. "Tell me, Young Mistress Liliana," he began, voice trembling with annoyance, "do you think you can simply do anything you please? Do you believe you're beyond the customs and duties placed upon young ladies of noble birth?"
+
+Lily leaned back in her chair, her earlier hauteur vanishing in an instant. She lifted her shoulders in a small, dismissive shrug. "I don't really care what I'm going to do," she replied in a flat, carefree tone, her eyes drifting idly toward the dome-shaped ceiling.
+
+For the second time in mere moments, Anacletus found himself speechless—though for a drastically different reason. If Lily’s bold, elegantly cutting remarks from before were unexpected, this sudden display of complete apathy was almost more jarring. He had braced himself to quell another outburst, to at least engage the sharper tongue that had challenged his sense of propriety. Instead, Lily looked like a bored, clueless child who had already forgotten why she’d been so defiant in the first place.
+
+Adriana frowned from her vantage point on the balcony.
+
+What is she doing? The blonde woman wondered.
+
+Anacletus cleared his throat.
+
+"You… don’t care?" he repeated, brow furrowed. For all his years of instruction, he clearly had no lesson prepared for a child who swung so effortlessly from scornful grandiloquence to apathetic disinterest. It was as though the man’s mind had stuttered, failing to find a place to hang his retort.
+
+"I don’t," Lily replied, not even looking at him now. Her little fingers fiddled with the embroidered patterns on her sleeve before she dropped her hand into her lap, returning her stare to the ceiling as though transfixed by a shape only she could see.
+
+Lavinia threw Lily a confused glance. Clearly, she hadn’t expected her friend’s staunch defense to conclude in such a blasé dismissal of it all. She wondered if Lily was planning something else entirely—or if she had simply tired of the lesson’s tension.
+
+Anacletus blinked several times, his breath halting in his chest.
+
+"Hmph. I see."
+
+He turned, almost mechanically, scanning the ornate hall until his gaze landed on Adriana at last. He hadn’t realized that, from the balcony above, the lady of the household had been quietly monitoring him.
+
+She… saw all that? The question echoed in his mind. He composed himself with a slight cough, straightening his posture. “Yes, well… as I see I am not as appreciated here as I believed—” His tongue clacked awkwardly against the roof of his mouth. “It seems our lesson will have to end here for today.”
+
+Lily watched him without true interest, while Lavinia remained tense, still absorbing the emotional back-and-forth.
+
+The old tutor rose from his seat, smoothing down the front of his robe with motions that betrayed his frazzled nerves. “We’ve covered quite enough about Classes. And as for Subclasses… a deeper study of them can wait until—”
+
+He stopped himself short, not wanting to imply he would refuse to return. He was paid quite handsomely by the Iulia family, after all, and in high demand elsewhere, too. No doubt Adriana would summon him again, if only to finalize the lessons required. But at that moment, with the mother’s keen gaze upon him, he could think of nothing he wanted more than to slip away from the presence of these two perplexing children—especially the golden-haired one whose mood changed like the gusts of a sudden wind.
+
+With a curt bow, Anacletus clutched his notes in one veiny hand and inched toward the door. “Until next time… Young Mistresses,” he managed to say, doing his best to restore some semblance of dignity to the moment.
+
+He paused at the exit, glancing back with something between exasperation and sternness. He opened his mouth, seeming on the verge of delivering a scolding—but when he caught Lily’s glazed-over stare, he hesitated. It was like talking to a cat that had already turned its back on you to groom itself.
+
+“…Yes, well,” he muttered instead. “Next time.”
+
+And with that, Anacletus fled the banquet hall.
+
+Still holding the railing, the blonde woman watched her daughter run the back of her hand across the table’s surface. Meanwhile, Lavinia remained frozen, as though trying to unravel what had just happened.
+
+* * *
+
+Adriana brought Lily into her study. She closed the door behind them, then turned to face her daughter. Lily, small and curious, casually walked to the edge of the desk with both hands, leaning over it.
+
+“Lily,” she began gently, “why don’t you want to become a Champion?”
+
+It was a fair question from Adriana's point of view.
+
+Lily was talented, fierce, loyal to her friend.
+
+Then, knowing what Anacletus had just told them, why didn't Lily want to become a Champion?
+
+“A Champion? Why would I want that?” Lily tilted her head.
+
+“For yourself,” Adriana said, trying to keep her tone calm. “For Lavinia—so you can help her.”
+
+“Help her do what? Lavinia can do it herself.” The little girl scrunched her nose, seeming baffled.
+
+Adriana felt a pang in her chest. She really doesn’t see it. Lily’s words were painfully direct, free from the usual pretensions of noble children—free from the constraints Adriana knew so well. She doesn’t realize Lavinia can’t just defy her family like that… not the way Lily could if she wanted.
+
+“So you believe Lavinia is just… fine?” Adriana pressed, measured concern slipping into her voice.
+
+Lily shrugged. “Well… yeah. She’s strong. She’ll become a [Templar], right? That’s what she wants.”
+
+If only it were that simple, darling, Adriana thought.
+
+Many had called Adriana the most talented individual in the Papacy—up until her marriage to Lucianus took her off from the Dungeons and the Dead Lands. Even just as a [Healer], Adriana had been peerless.
+
+Lily showed even more foundational talent than her, a talent that had likely never been seen before in the Papacy. The little blonde girl currently showed no sign of awakening a Light Affinity, something vital to become a Champion—or even just to pass the Healing Trial of the Gens Claudia.
+
+Adriana sighed. She decided to try another angle.
+
+“But what if Lavinia isn’t allowed to do what she wants?”
+
+Lily frowned.
+
+“Not allowed? That’s… silly.”
+
+“Silly or not, sometimes men like Master Anacletus—or even her own father—believe it’s impossible for a girl to be a [Templar]. What if everyone forced her not to become one?”
+
+A flicker of confusion crossed Lily’s features, as though the idea didn’t compute. “They can’t just force her… that’s not fair.”
+
+Adriana took a breath. “Humor me, Lily. What if they did? What if no one let her do it, and you were the only one who could make a difference? What would you do?”
+
+She watched Lily carefully. At first, the girl just blinked, her eyes darting to the shelves lining the wall. Then, slowly, Lily’s expression shifted. Her brow creased, and she tilted her head, almost as though listening for a distant voice. When she finally turned back, her gaze had changed—it was the same glint Adriana had seen when Lily confronted Anacletus.
+
+“Long ago, Dad once said there’s only allies and enemies in the world,” Lily said, her voice quiet yet eerily certain.
+
+Adriana stiffened.
+
+Lucianus told her that? When?
+
+“So… what does that mean to you?”
+
+“It means anyone who’s against Lavinia is my enemy,” Lily replied, matter-of-fact. Her posture, her stare, everything about her suddenly felt too composed for an eight-year-old.
+
+Adriana sat in her chair, reclining back and watching over the little blonde girl's reaction. The blonde woman was convinced that her mother, Hestia, was one of the most cunning, ruthless women who had ever lived in the Papacy—probably the woman who had accomplished more than any other woman who ever lived in Lumina, all of which from the shadows. That gave Hestia an aura of command and certainty that Adriana found lacking even in her own brother, the Pope.
+
+Yet, as she stared at Lily, she felt like she was in front of someone shrewder, more ruthless, more calculating.
+
+Adriana could barely recognize her own child at the moment.
+
+“And what would you do with your enemies, Lily, if you thought they were hurting Lavinia?”
+
+Lily blinked once, her voice calm, final.
+
+“Eliminate them.”
+
+* * *
+
+It was late afternoon, just a few days before the upcoming Healing Trial.
+
+Lily, Lumius and Lavinia had been playing hide and seek while holding small Mana trinkets that they used to train their Mana Sense.
+
+Lumius ran wildly across the Gens Claudia's estate, trying to secure a hiding spot. He saw a little raised platform at the edge of the garden—something like a small gazebo—and very high and thick rose bushes. He dived behind them, trying to use his Mana Shaping to hide the trinket's own Mana with little success.
+
+Lily did it the previous round, Lumius thought furiously.
+
+Lumius had been the one on the lookout in the previous round and, after twenty minutes, he had given up on finding Lily. Lavinia had been rather easy. When he announced his defeat, Lily had popped down from a nearby tree. She had barely run a few yards away before climbing on a damn tree like a monkey and simply using her Mana Shaping to hide her own Mana.
+
+With his Mana Sense, Lumius had been literally blind to her.
+
+He still felt the searing humiliation of that experience on his skin.
+
+He looke dat the vine-covered lattice of the gazebo and laid down, trying his best. He had gotten quite far, possibly too far for the game. But he didn't care.
+
+I'm going to win, no matter what, he thought.
+
+Plus, from this vantage, he could see nearly all the estate, which would tell him if Lily was approaching.
+
+However, after a few minutes, he heard steps and snapped his head to the left, seeing two figures approaching. He felt his heart jump in his throat until he noticed that it was Adriana, his aunt, and the man's sister.
+
+Before he could say anything, the blonde woman erected a large [Light Shield] around the gazebo, encasing Lumius as well.
+
+Lumius could make their figures out from a few holes in the lattice.
+
+Now, Adriana sat on one stone bench, with her arms rested on her knees and her hands clasped together. On the facing bench sat her sister-in-law, Gentiliana.
+
+"I don't leave the House of Claudius for small matters, Adriana," Gentiliana said pointedly. "This better be urgent."
+
+"The Healing Trial is in two days," the blonde said, looking deep into the middle-aged woman's eyes. "I need Lily to pass."
+
+"Lily hasn't yet acquired a Light Affinity," Gentiliana frowned. "What else is there to do? Your daughter won't pass. Why are you obsessing over this? I understand Lily's your only child at the moment, but maybe when the next—"
+
+"There's not going to be another one," Adriana said plainly, unable to hide the rest of the pain in her voice. "Whatever granted me a child, Gentiliana, it was a miracle. There's not going to be another one."
+
+Dawn's Mercy, Lumius mentally swore. He wasn't stupid. He immediately understood that this was going to be a very important conversation that he wasn't supposed to hear. That's why he started sweating profusely, praying not to be noticed by the two adults.
+
+"Adriana," Gentiliana said warily. "What are you trying to tell me? And why didn't you bring my brother into this? Why call me?"
+
+"If Lily fails the Healing Trial, she'll have no basis to claim the Great Skill of the Family in any context, Gentiliana. I know she can be the Champion I couldn't be, the leader of the Gens Claudia you couldn't be."
+
+Gentiliana frowned at that but just pursed her lips.
+
+"But for now, I need to give her the time to get there."
+
+"What are you asking?" Gentiliana said curtly.
+
+"Rig the trial," Adriana said with a straight face, extending a small amulet toward Gentiliana.
+
+Gentiliana didn't reply and simply took the trial.
+
+"That's what Lily's going to be wearing. You put this," Adriana took out a small crystal, "on a small animal's body. You tell her to try and heal that animal. When her Mana will come out, it will be converted by the amulet into Light Mana and a minor [Heal] spell will be triggered. It won't dazzle anyone, but she'll have the legal basis to claim the Skill as far as the requirements of your family go."
+
+"This is treason, Adriana," Gentiliana said, frowning. "This would warrant a sentence that would lock any one of us in the Dungeons for years. Even you. If the Inquisitors were to come and check—"
+
+"Your niece is the most talented child to be born in the Papacy as far as I know, Gentiliana," Adriana said icily. "If I have to risk imprisonment—and I'd like to see them try that—I will. I won't let my daughter suffer my fate. Whatever I need to do for her, I'll do—that's who I am. I'm her mother. That's what a mother does."
+
+Gentiliana took one last look at the amulet and gave it back to Adriana.
+
+Adriana raised an eyebrow but then the middle-aged woman rubbed her face. Some of the weariness of her life emerged on her features, making her look older than she was as she shook her head and sighed.
+
+"Idiotic men would hold Lily being late to the Light Affinity against her, Adriana, I know. But I've seen what Lily could do. There's something in that little girl. Something special. Beyond what I will ever be capable of. Just… give me the stone. Tell her to go for the white rabbit—I'll have one arranged just for her."
+
+Adriana sighed in relief and smiled at the woman.
+
+Lumius, from his point of view, made himself even smaller, his eyes wide.
+
+"Found you!" Lily shouted, pointing at Lumius.
+
+Lumius had remained under the gazebo even after his Aunt Adriana and Gentiliana had left. He looked up at Lily, the little blonde brimming with Mana, with her eyes currently shining with Mana Sense as she looked at him.
+
+She said something else but Lumius wasn't even listening.
+
+Everyone seemed to recognize what an incredible talent Lily was, but no one—especially in his own family, had ever praised his own talent. Not when Cassius was there as a term of comparison the entire time.
+
+Looking at the smug little blonde towering over his form on the ground, the silver-haired boy smiled widely, knowing his time to outshine the little pedantic girl had just come.

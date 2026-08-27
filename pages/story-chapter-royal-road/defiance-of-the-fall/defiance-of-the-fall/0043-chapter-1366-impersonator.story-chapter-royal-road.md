@@ -1,0 +1,137 @@
+---
+id: 362e9899-146a-53d9-8267-4fbc95207d26
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,366 - Impersonator"
+slug: 0043-chapter-1366-impersonator
+partOf: defiance-of-the-fall
+position: 43
+ownLength: 2759
+unit: words
+publishedAt: 2025-10-16
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2681474/chapter-1366-impersonator"
+royalRoadId: "2681474"
+---
+
+Esmeralda looked about ready to blow her top over having her appearance appropriated and profaned. Zac was more worried about reinforcements since the remnants of the Scripture Tower were situated right against a corrupted zone. If the environment could birth one Peak D-grade Qriz’Ul, then it could birth more. Considering their location, there might even be C-grade Qriz’Ul lurking about.
+
+There was also the question of the doppelganger’s intent. It didn’t seem like it was simply trying to ambush him, but silencing the threat took precedence over getting answers. He feared the Qriz’Ul would be targeted by Citadel’s arrays and that he would be deemed guilty by association. Zac activated [Arbiter of the Abyss] and [Fields of Despair], enveloping the surroundings in an isolating miasma. He became death incarnate as he shot forth, the rattle of chains echoing the promise of deliverance. Not even the Qriz’Ul would escape judgment.
+
+Using his arbiter-form’s taunting domain proved superfluous when the doppelganger faced Zac’s approach head-on. Its head expanded until it was almost double Zac’s height, and its maw thrummed with twisted forces of space. The Qriz’Ul had become a conduit, and the Lost Plane waited on the other side in all its distorted splendor. The madness that came pouring out was no less than what Zac had to endure when escaping the Polaris Vault.
+
+A year later, the Lost Plane’s undiluted corruption still wasn’t something Zac could endure for long. Nevertheless, he pressed on, inexorably advancing toward a shimmering nucleus hidden within a spatial fold. Chains severed escape routes while [Death Duality]’s edge gleamed with [Fatehew]’s spiritual annihilation.
+
+Countless purple tears attempted to keep him at bay, and the whispers flooding his mind grew more urgent by the second. Zac vanished before the Qriz’Ul’s efforts could yield any results. He stepped onto the Void’s hidden paths, which existed even in the Lost Plane. Following this path, Zac traversed a hundred meters in the blink of an eye. He stood right before the nucleus, and death was about to deliver.
+
+“Wait!”
+
+Zac had already halted when Esmeralda’s warning reached him. The surroundings shuddered, and one of the scriptorium’s pillars appeared just before him. Had he continued his swing for just a moment longer, he would have struck the pillar and likely triggered the array within. Reality expanded with the pillar as its center, and the Lost Plane was no more.
+
+The Qriz’Ul’s spatial gate was an illusion holding a seed of truth. If his Heart hadn’t seen through the deception, he might even have been transported for real, considering the ample amount of Spatial Energies infused into the illusion. The illusion had doubled as a mental attack. Any hesitation allowed to take root would become a backdoor for the Lost Plane’s madness. Zac looked around, finding the Qriz’Ul sitting at its original location.
+
+“You’re strong, outsider,” it said as it split into hundreds of copies. One voice became a chorus that held a “Join us.”
+
+Zac would have to be mad to entertain the thought. He rushed forth, using his intuition to target the copies that seemed the most real in search of the real spirit. Throughout, he kept constant vigil over his perception, ensuring the Qriz’Ul didn’t trick him into attacking the building again.
+
+“Our goals align,” one copy said before a chain punched through its forehead. The Qriz’Ul wasn’t deterred. It kept talking, its voice continuously changing origin. “The Limitless Empire is gone, and its wealth is unclaimed. There’s more than enough for us to split the haul.”
+
+“Or we kill you and take everything for ourselves,” Esmeralda sneered.
+
+“The flame lingers, containing terrifying Karma. Our kin can corrupt it, but it’s not enough,” a palpable desire appeared in its voice. “You can resist it. You can consume it. You can open the path, and we’ll help you destroy the defenses. Together, we—”
+
+“Enough.”
+
+A spectral chain suddenly detached from [Love’s Bond]’s rampaging links, targeting a surprised copy nearby. Its Spatial Energies simply disappeared when it tried to teleport away, allowing [Arbiter of the Abyss]’s spectral chain to reach its mark. Zac was already upon it, his axe roaring with doom as [Fatehew] descended on the creature’s incorporeal body.
+
+The Qriz’Ul’s attempts to confuse him had been doomed from the start, but that wasn’t to say it was helpless. His mind screaming of danger, a protective coffin appeared before Zac as he finished his swing. The Qriz’Ul exploded when his axe passed through, but there was no joy in his gaze. His barrier was pelted with chaotic energies, while the remaining projectiles turned into a new set of doppelgangers.
+
+The creature had self-detonated to escape [Arbiter of the Abyss]’s binding. Doing so clearly left it weakened, but its aura was quickly recovering. Zac guessed it could actually draw on the Lost Plane for sustenance, or at least draw on the nearby dead zone. Even so, it didn’t get far. Zac’s taunting domain was still in full effect, and Esmeralda began.
+
+With its illusions not working, the doppelganger could tell its situation wasn’t looking good. Instead of trying to trick Zac into damaging the array, it began showing inclinations of escape. Seeing the signs didn’t help Zac in keeping the doppelganger contained. Zac tried every trick in the book to keep the target inside his inexorable web of death, but the freed Qriz’Ul was as slippery as an eel.
+
+Anytime he managed to narrow down his target, it split into another brood of tainted toads. With each split, fewer of Esmeralda’s original features remained, with the rest replaced with the stuff of nightmares. A few times, the Qriz’Ul almost managed to trick Zac into attacking the Scripture Tower again. For the same reason, unleashing large-scale destruction to clean out the illusions in one go was out of the question.
+
+“I’ve had it with you!” an infuriated Esmeralda eventually shouted as massive amounts of Spatial Energy coursed through her small frame.
+
+The Qriz’Ul had accomplished something the Left Imperial Expanse hadn’t over the past months. It had made the thief angry enough to activate an ability similar to a proper skill. A road of starlight running through an ancient sky replaced the Scripture Tower’s first floor. Zac could tell that stepping off the road meant falling through the cracks of reality.
+
+Not only that, Zac saw countless projections of himself appear further ahead as Esmeralda turned the stretch into an endless loop. The infuriated Grand Traversal Toad had erected a spatial cage no weaker than the prison of [Eye of Desolation], and even the Qriz’Ul seemed taken aback at the sudden change. Being a creature of corrupted space, it probably understood better than Zac the profound knowledge necessary to create this space.
+
+With space completely in Esmeralda’s control, the battle was all but over. Zac moved like the wind, cleansing the road of impostors until only one remained. Just as it was about to split again, Zac activated [Void Zone]. Its ability was interrupted, and [Fatehew] bit into the Qriz’Ul—this time for real.
+
+The Qriz’Ul was unusually clever, but Zac didn’t bother trying to question it. It was corruption incarnate, and listening to its words would do more harm than good. Qriz’Ul didn't have true souls, but the skill still worked wonders against incorporeal beings. A few swings were all that was needed to finish the job, and they were back in the scripture hall the next second.
+
+The fight wasn’t very clean, and he’d relied on Esmeralda’s help. Zac was still quite happy with the outcome. The fight had allowed him to confirm some theories he’d formed during his walk through the illusory city. Within his immediate vicinity, Zac could see through certain illusions that tricked his eyes and even Soul Sense. Not only that, he could exert some control within this domain. That was what actually destroyed the illusion hiding the Qriz’Ul at the beginning, not the burst of Miasma.
+
+This was the benefit of his breakthrough in Heart Cultivation, and it made Zac recall the descriptions in the [Boundless Vajra Sublimation]. The first major threshold at the third layer would impart a Boundless State, which became his Void State after reforming the manual. The second major breakthrough at the sixth layer would also bolster his Dao Heart.
+
+After shattering the Heavenly Chains, one would create a Heart Domain. Zac hadn’t even derived the cultivation method of the sixth layer, but it looked like he’d gained some of its benefits ahead of schedule. Part of it might be that he also practiced the [Warbringer Dharma], which felt about ready to form a second idol. However, his constant effort to keep real and fake separate in the Peregrine Ocean was the main reason.
+
+Zac saw no downside to cultivating a Heart Domain early. It meant his Domain would become even stronger than normal after practicing the [Void Vajra Sublimation]’s sixth layer. More importantly, it had already proven itself a critical tool inside the Mercurial Court, where the lines between truths and falsehoods were blurred and ever-changing. Zac suspected that was part of the reason the Limitless Empire insisted on Sealbearers crossing the Peregrine Ocean.
+
+“I didn’t expect you to have a death cage skill,” Zac commented, seeing that Esmeralda had calmed down.
+
+“What death cage? Why would I stay and fight when I can just run away? If I’m lucky, my pursuer will get unlucky and fall right into the Lower Planes,” the toad huffed. “By the way, don’t expect me to keep trapping your enemies. I could barely use the ability after having some of the excess Temporal Energy extracted, but it damages the balance between Space and Time.”
+
+Zac smiled and shook his head. That Qriz’Ul was really too unlucky. Its idea to mimic Esmeralda had completely backfired, only serving to anger her to the point she used a self-harming technique to trap it. If the doppelganger had taken another form, it would’ve had a chance to escape. Its survival methods were quite impressive, and Zac wasn’t able to activate [Eye of Desolation] at the moment. He needed another week or so to collect enough Oblivion Energy.
+
+“Stealing my likeness and not even leaving something behind. These things are truly no good,” Esmeralda said, glaring in the direction of the corrupted zone like it owed her money.
+
+A weak fluctuation from Zac’s Outer Disciple Token drew his attention before he could answer. “Huh. It’s not all bad. I actually gained three points of Potentiality from taking it out.”
+
+“You can gather merit on the outside?” Esmeralda’s gaze grew even more intense. “Three points isn’t much, but if we flatten a whole zone…”
+
+“The benefits could be significant,” Zac agreed.
+
+“Potentiality… Removing a threat opened new possible futures,” Esmeralda mused, starting as she turned around. “What are you up to?”
+
+“The doppelganger wanted to lure me in by saying it had found a hidden hatch. When that failed, it tried to trick me into destroying parts of the scriptorium’s array,” Zac explained as he tapped at various spots on the ground. “I think there’s really something down here, but it was afraid of messing with the array itself.”
+
+Esmeralda looked mortified, and it took Zac a moment to understand why. She’d been so clouded by anger that she’d forgotten her original creed, allowing Zac to catch the scent of loot before her. It was an embarrassing case of the student surpassing her master for the proud thief. Sensing her inner turmoil, Zac decided to throw her a bone. He sighed and stepped back, shaking his head in defeat.
+
+“I can’t make heads or tails of this, and I’m afraid I’ll trigger an alarm if I force it.”
+
+Esmeralda perked up and jumped over. “You keep swinging that axe of yours. Leave the delicate tasks to me.”
+
+Zac grinned as the little thief started flitting about with newfound vigor, feeling like he’d stopped a child’s tantrum by handing them a piece of candy. Even so, he hadn’t lied. His preliminary investigation had yielded nothing apart from a vague warning from the scriptorium’s arrays.
+
+It didn’t take long for Esmeralda’s search to bear fruit. A small rune emerged on a tile close to where Zac first found the Qriz’Ul. Zac didn’t recognize the pattern, but even he could somewhat intuit its use.
+
+“It’s a keylock,” Esmeralda muttered. “Don’t worry, it’s very crude. It won’t take long to bypass.”
+
+“Crude?” Zac asked.
+
+Esmeralda looked just as disappointed as Zac felt as she echoed his sentiments. “Not something you’d see guarding a secret treasury holding supreme scriptures.”
+
+“If that’s the case, let me try something,” Zac said and walked over with the Outer Court token. He got his hopes up when the hidden array communicated with the token, only to have them dashed seconds later. “The token might be the key, but it would have to be a specific one.”
+
+“Try your other one,” Esmeralda urged.
+
+Zac hesitated a second before taking out the [Court Cycle Token]. Its energies were limited and impossible to replenish with his spealbearers split up, but the hidden rune was a good choice for experimentation. They needed to know if the token could work as a master key like in the Centurion Base.
+
+The Outer Court Token hummed before Zac could try anything. Holding one token in each hand, Zac quickly made an interesting discovery. The Outer Court Token faded, adding a much smaller boost to the [Court Cycle Token]. Zac sensed he could transfer even more into the Outer Court Token but chose not to.
+
+“Interesting. It looks like Potentiality is equivalent to the infusions from my Realmsingers of Ultom. I’d say there’s around five thousand Potentiality stored in the token,” Zac said before putting the [Court Cycle Token] against the rune on the ground.
+
+After a small drain, the rune faded while the four surrounding tiles flickered and disappeared. Behind it was a narrow chute leading into the darkness. It was wide enough for Zac to jump inside but not wide enough to maneuver his weapons.
+
+“Let me go ahead and look for danger,” Esmeralda eagerly said.
+
+“Be careful.”
+
+Seeing the greedy glint, Zac knew her offer was as much to look for treasure as threats. Still, Zac waved her to go ahead. Esmeralda disappeared into the hole while Zac tried another transfer between tokens. Unfortunately, it proved his hunch. Using the [Court Cycle Token] drained all nine types of charges, while the Potentiality could only replenish one.
+
+While disappointing, it opened up interesting possibilities down the road. Zac wasn’t sure when Janos would show up, but he and Ogras would soon reach the Hollow Court. If things worked the same there, did the [Court Cycle Token] represent an infinite money glitch? If he could have Ogras repeatedly infuse the token before converting the infusion to merit points, he’d eventually be able to buy the Primo’s treasure outright.
+
+Esmeralda soon returned, interrupting the beautiful dream. “There’s a small chamber down there, and there’s even a—why are you looking at me like that?”
+
+“Just making sure I’m not dealing with another impostor,” Zac replied, a smile tugging at his lips.
+
+“You—what! Kid, did a heron steal your eyes? Or are you asking for a beating? How can you mistake that ugly thing for these heaven-blessed features?” Esmeralda sputtered. “I’ll have you know, the number of suitors back home is large enough to fill an ocean. No, two oceans!”
+
+“You’re right, of course,” Zac laughed. “Quick, lead the way.”
+
+The toad huffed with annoyance, but she still led him down the chute. It was only thirty meters deep, which was well within the range of the scripture tower’s arrays. The room measured ten by ten meters, with a somewhat generous ceiling height of four meters, and the floor was covered by a thick layer of dust.
+
+The chamber would have felt spacious before the integration. It felt cramped after having witnessed the grand buildings of the Limitless Empire. Like Esmeralda said, it wasn’t the place one would store a supreme scripture. That was why the pedestal waiting in the corner was such a surprise. Floating above it and in remarkable condition was a single tome.
+
+Zac walked a few steps closer to get a proper look. Embossed on the cover were three words written with Spatial Ink that retained its spirituality—[Collapsing Sky Scripture]. Zac smiled as he took in the dense spirituality. It might not be one of the Mercurial Court’s supreme scriptures, but it was definitely not something that would be left on the Scripture Tower’s first floor.

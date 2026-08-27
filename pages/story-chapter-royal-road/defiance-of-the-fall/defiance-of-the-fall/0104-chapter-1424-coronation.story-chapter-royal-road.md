@@ -1,0 +1,153 @@
+---
+id: b23df842-561f-5d32-a1b7-53ca649cdc89
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,424 - Coronation"
+slug: 0104-chapter-1424-coronation
+partOf: defiance-of-the-fall
+position: 104
+ownLength: 3023
+unit: words
+publishedAt: 2026-04-19
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3293515/chapter-1424-coronation"
+royalRoadId: "3293515"
+---
+
+Countless Dragon Veins covered the ancient expanse, sending their gift of longevity to the surface. In some sense, they were the very bedrock of civilization. Whether man or beast, when the basest requirements were met, they sought something more. When mortal pursuits no longer sufficed, they sought meaning from the stars or from within.
+
+The Dragon Veins held the key to cultivation, turning mundane soil into Holy Lands that paved the path to Eternity. More than fresh water and fertile soil, the veins decided where cities and nests were built. At least that was how it was supposed to be.
+
+Guided by a Heavenly mandate, streaks of spirituality detached from the veins to go their own way. While they amounted to little on their own, they were legion. Countless streaks moved in the same direction, crossing unfathomable distances to answer the call. Rills fused into streams, and streams grew into seventeen mighty rivers.
+
+Almost every aspect of the Heavenly Dao was represented. It was a rarified sight under a Cosmic Order where regions aligned with a certain Heavenly Kingdom. Their destination was a solitary mountain surrounded by numinous clouds. It dispersed the gift unto its surroundings, creating a microcosm aligned with the Boundless Path.
+
+Seasons turned and years passed until there was a change. The active call turned into a passive drain, reducing the strain on the Dragon Veins. The invisible dome covering the whole region slowly began retracting to the numinous mountain. As the domain shrank, Karz’s detached state of mind regained its sharpness. By the time the dome only covered his mountain, he was back to his normal state.
+
+“Five hundred years, gone in the blink of an eye,” Karz muttered, his gaze growing distant as he acclimatized to the passage of time.
+
+It was his longest seclusion thus far, and yet it felt insufficient. He would have kept going if not for his spirit reaching its limits. If he kept pushing his luck, he would eventually lose his sense of self and return all he’d taken to the cosmos.
+
+Karz’s brows furrowed as he inspected the transformations of his world. Progress had slowed yet again, and there were no easily accessible remedies to his situation. It made Karz miss the days of yore, when he’d just formed his Inner World. While he’d grown stronger since then, the world appeared smaller. Perhaps it was the unavoidable consequence of settling down.
+
+His Heavenly Sigils had entered his Inner World upon crossing the threshold, directly setting him apart from conventional Void Heralds. The Inner Worlds of others were incomplete creations of limited scope, their Dao and environment restricted by their owner’s comprehension. Karz didn’t labor under such constraints.
+
+The Heavenly Sigils acted as a secondary Heaven inside his domain, turning it into a complete world. In other words, his Inner World exhibited traits exclusive to Celestials from the moment he became a Void Herald. That fact had saved him more than once during troubled times. He’d even tricked a Divine Herald into backing down by acting as a wounded Celestial.
+
+Karz understood his abilities were nothing like the real thing. His Grand Dao was limited by the insights infused into the Heavenly Sigils, while true Celestials could borrow strength from the Heavens themselves. The feature was still mostly a parlor trick that provided some small conveniences. For instance, his Inner World could be used to grow and nourish Natural Treasures from all seventeen Heavenly Kingdoms.
+
+More importantly, the sigils were the foundation of the ability Karz awakened shortly after ascending. With them mimicking Heaven’s Mandate, Karz gained the ability to extend his domain across mind-boggling distances. Its scope was nowhere near the bounds of a Supremacy, according to Laondio, but it greatly surpassed what should be possible for a Void Herald.
+
+Karz called the ability his Heavenly Dome, and it had become the cornerstone of his cultivation. Advancing his Heavenly Sigils had grown exceedingly arduous by the time he became a Perfected Lord. The materials he needed rarely appeared on the open markets, and there were always people watching. Even if he could produce Heavenly Treasures on demand with the sigils, people soon started asking questions.
+
+There were some in the Serene Sea Sect’s treasury, but it was the same old problem. The greedy elders used the good stuff as carrots to secure cheap labor. Even if Karz had the patience to toil for centuries, he lacked the connections to secure the right missions. Without better options, Karz had no choice but to risk his life in the Thousand Beasts Ridge or travel to distant trading posts to offload his wares.
+
+The Heavenly Dome circumvented all that by allowing him to siphon energy from Dragon Veins separated by vast distances. Their spirituality wasn’t as valuable as the accumulated and refined truths of Natural Treasures, but they provided pure spirituality directly sourced from the Cosmos. Their Earthly Taint was of no concern. The ability that brought him into the world of Cultivation had only grown stronger over the years, and he could effortlessly deal with any taint sent his way.
+
+With enough Dragon Veins providing sustenance, his Heavenly Sigils were making slow but steady progress. It was a self-perpetuating cycle. The stronger the sigils grew, the further Karz could extend his Heavenly Dome. He no longer needed to tangle with Beasts or fellow Daoists to advance his cultivation.
+
+After millennia of running himself ragged, Karz welcomed the change of pace. Only a fool would play with his life if there were safer options for progress. Of course, arrogantly robbing spirituality from Dragon Veins in all eight directions would have gotten Karz killed in the olden days. A Dragon Vein was the lifeline of established factions, and they would quickly notice something was wrong. Even with Laondio hiding their tracks, someone would eventually trace the flows to their stronghold.
+
+The great calamity arrived just at the right moment.
+
+The Sages called it the end of a Minor Cycle connected to Heaven’s rebirth. A Heavenly Kingdom had become complete, triggering an upheaval in the River of Destiny. Dynasties connected to the old order saw their providence collapse. Sects crumbled, clans fell, and entire species went extinct. The chaos that followed provided the opportunity Karz and Laondio needed.
+
+When the Serene Sea Sect collapsed, its Sect Master left its riches with his prize disciple, Laondio Evrodok. Instead of using the resources to make a comeback, Laondio led Karz and a few loyal followers into the depths of Thousand Beasts Ridge. They hadn’t emerged since, even after the world regained a semblance of order.
+
+And why would they? Cultivators weren’t the only ones hit by the calamity. Most of the ridges were left empty, with new ones sprouting like mushrooms after rain. With the right timing and some bladework, they’d seized a holy ground fit for a Celestial. Their home had only grown more resplendent since, making it one of the shining gems of the former Thousand Beasts Ridge.
+
+Karz stepped out of the cave hidden in the back of his palace and teleported to his observation deck. The sprawling city beneath the slopes of his mountain had grown noticeably larger during his retreat. There were even mortals walking the streets, an unthinkable scene when they had just arrived in the Grand Expanse.
+
+The scene brought Karz no joy. If anything, it left him annoyed. From the grand manors to the hovels at the city’s edge, they were all parasites benefiting from his inadequacy. The Heavenly Dome needed to cast a wide net to bring back useful spirituality. As much as Karz wanted, there was simply no way to consume all that energy by himself. He only kept a small piece for himself and released the rest to the region.
+
+It was also a matter of equivalent exchange. To avoid Heavenly backlash, Karz had to slightly refine the energy before sending it off the mountain. That way, he gave back as much as he took, maintaining the Heavenly Cycle.
+
+A knock on the door brought Karz back to the present. He hadn’t hidden his emergence, and his steward waited outside. Benion looked just like he did five hundred years ago. It seemed he’d successfully crossed the threshold and become a Lord. Karz slightly nodded in satisfaction. He’d only provided a few pointers over the years, but few had as profound insights into the Heavenly Dao.
+
+If Benion still failed to break through while benefiting from his manor’s environment, then Karz may as well replace him with a pig.
+
+“Come in,” Karz said.
+
+“Congratulations on your successful cultivation, Emperor Evrodok,” Benion said with a deep bow.
+
+The air froze in the observation deck as Karz slowly turned around. “What did you just call me?”
+
+“I’m sorry, my Lord!” Benion fell to his knees under Karz’s murderous stare. “Please punish this servant as you see fit!”
+
+Karz took a steadying breath to suppress the impulse to strike first and ask questions later. Benion had looked after the manor for two thousand years, and he was a direct descendant of the previous steward. He was staunchly loyal, and Karz could tell his confusion was genuine. That meant there was another culprit behind the ominous moniker.
+
+“Did you need something?” Karz said, suppressing the growing unease.
+
+“The Grand Chancellor has requested an audience at your convenience.”
+
+“I understand,” Karz grunted. He’d never heard the unfamiliar title before, but there was only one person who could possibly fit the bill.
+
+Was it finally time?
+
+Karz tore through space and appeared above a small forest neighboring his mountain. Compared to the vaunted status of his mountain, the forest was all but forgotten among the city’s common populace. Only a few knew of the courtyard situated in its center, and fewer still knew the identity of the man living inside.
+
+As Karz’s star of providence rose during his time in the Serene Sea Sect, Laondio saw his halo of genius fade. Even Laondio’s own master chalked it up to him reaching the limits of his allocated destiny and put his efforts into molding Laondio into the next generation’s Sect Master instead. Only Karz knew the truth. The further Laondio retreated into the shadows, the more horrifying his powers had grown.
+
+The fact that their city remained safe and uncontested to this day was unmistakably the effect of Laondio Evrodok. His growing ability to influence the minds of men and redirect the course of history was part of the reason Karz could brazenly draw from so many Dragon Veins. With all of them gaining new masters, no one realized their supply was slightly lower than before. And no one ever seemed inclined to look into the unusual streaks beneath the Thousand Beasts Ridge.
+
+Some days, Karz even wondered if the gentle scholar had a hand in ushering in the great calamity. After all, it was the Kingdom of Man that had reached perfection. With the board reset and the old guard gone, even Void Heralds could stake a claim on critical cultivation resources. And Laondio was undoubtedly the largest winner of the competition of Fate, with the benefits spilling over onto Karz.
+
+Karz still hadn’t heard of Laondio secluding himself, and today was no exception. However, the man wasn’t working on one of his contraptions this time. Laondio stood before a stele engraved with two characters. They exuded a sense of majesty and possibility that very much meshed with Karz’s sensibilities, to the point they rekindled some of the vigor he’d lost. Still, Karz only gave the stele a glance before facing his old companion.
+
+“What is this, then? Possession?” Karz asked as a halo made from eleven supreme swords emerged behind him.
+
+Each sword was emblazoned with a Heavenly Sigil. The other six seamlessly fused into a rune of utmost power on Karz’s forehead. Six incarnations were his current limit. With the addition of his sigil-imbued swords, even Divine Heralds could fall beneath his blades.
+
+Today was the reason he’d been tirelessly working on his cultivation year after year, never relaxing for a moment. For better or worse, Karz was tied to Laondio’s chariot. Without his aid, Karz’s cultivation would grind to a halt. He’d always known the chickens would come home to roost one day, and he needed to be prepared for when that happened.
+
+“Ever the pessimist,” Laondio said with a helpless shake of his head. “I’m quite comfortable with my own body, thank you very much.”
+
+“If that’s the case, why is my servant laboring under the assumption that my name is Evrodok? Emperor Evrodok, even,” Karz growled.
+
+“Benion and the other children might not complain when you refer to them as servants. Nevertheless, isn’t it an unnecessary reduction of your relationship?” Laondio said with some reproach. “Why deny the softness under that steely exterior? You’re more than qualified to accept disciples of your own, and you clearly have the talent for it.”
+
+“I don’t see you following your advice with that Indra girl,” Karz commented as he took a step closer. “And don’t change the subject. What is all this? What scheme are you cooking up this time? What’s the Limitless Empire?”
+
+“It’s yours, should you want it,” Laondio smiled.
+
+Karz carefully scanned the stele for traps. When finding nothing, he broadened his scope to the whole courtyard. “What are you getting at? You want to adopt me and gift me a fake empire?”
+
+“Fake? Your citizens are waiting just beyond the tree line,” Laondio laughed. “Do you remember the first time we met?”
+
+“Still holding onto that delusion? The Cosmos is inherently unfair,” Karz scoffed as he followed Laondio’s gaze. “What qualification does a mortal have to pursue Eternity? Most of the weaklings you’ve gathered will die during my next seclusion.”
+
+“Yet some will remain. And those who departed early will have passed on their flame of hope to the next generation,” Laondio gently said. “And you have already tasted the fruits of their efforts.”
+
+Karz had to admit that Laondio’s pet project had its benefits. After fifty thousand years of arduous cultivation, his manor was considered a Holy Mountain. Especially the younger generations prayed to the “mountain god,” and the incense offerings helped Karz hold onto his sense of self as his mind expanded with the Heavenly Dome.
+
+Extraordinary treasures also had a way of finding their way into the city one way or another. Lucky adventurers brought their hauls to market, and clans relocated with their Dao reserves. Once, a celestial stone dropped right out of the sky and landed on Karz’s doorstep. All of this would be normal if not for the excessive frequency. Laondio was manipulating the strings of destiny to gather providence.
+
+“The foundation is set. We have land, companions, wealth, and inheritance,” Laondio said, nodding at the stele. “We are soon ready to announce ourselves to the world, and I hope you can become the Empire’s pillar. There is no one who better embodies our ideal than you.”
+
+Karz said nothing, instead training his swords on his old companion.
+
+“My friend, I admit I’ve had an ulterior motive for helping you all these years,” Laondio smiled, unbothered by the malice directed at him. “Except it’s not what you think. As much as I want to keep the incense offerings for myself, I have to rein myself in. Certain parties cannot abide my ambitions, forcing me to retreat to the shadows. With you standing in the light bearing my name, we will equally share the glory.”
+
+“Someone’s looking for you? Is it the Selvari? I know they can’t be happy about a cultivator with such a terrifying affinity to the Kingdom of Man running amok in the colonies. I’ve heard they’ve been spotted recently,” Karz asked with suspicion.
+
+“Only some inspectors checking in on their investments, nothing to worry about,” Laondio lightly laughed. “Do not worry, the Selvari will not pose a threat to our undertaking.”
+
+“The rulers of the Cosmos won’t be a problem? Isn’t that comforting,” Karz said, his voice dripping with sarcasm.
+
+It had been a huge shock to learn that the Grand Expanse, with its ancient history, seemingly limitless lands, and countless opportunities, was but a colony of a monstrously powerful faction on the other side of the universe. The Serene Sea Sect wasn’t qualified to communicate with the great families of the Selvari, but Karz knew that the great sects of the expanse all had to pay tribute.
+
+Karz saw no reason the Technocrats would release their hold on the continent because of the cataclysm. They’d just install new families to provide benefits. The only reason they didn’t bother directly taking over the whole thing was its remote location.
+
+“Their road is a dead end, I can assure you of that. It may have been the Kingdom of Progress in previous Eras, but this time it shall stay in the hands of Man,” Laondio said with utmost certainty.
+
+“What kind of hare-brained idea is it to establish an empire if you need to lay low? I don’t need the heat either,” Karz muttered. “What’s wrong with staying the course?”
+
+“The status quo isn’t enough. Not for the Cosmos, and not for us,” Laondio said. “You need terrifying amounts of resources to achieve your Dao, and I can tell that you’re about to reach an impasse. You’ve already seen how the city can become your hands and feet. An empire can reach much farther. One day, it shall cover every corner of existence.”
+
+The silence stretched for twenty minutes until Karz sighed. “What would I have to do? You know I’m no good with administration.”
+
+“Do you think I’m blind?” Laondio laughed. “Haven’t I been gathering competent followers for precisely this reason? There will also be some helpers arriving soon.”
+
+“So what am I supposed to do? Sit on a throne and look pretty?”
+
+“You only need to do one thing: become unmatched and embody the ideal of the Empire,” Laondio said. “Only the strongest under the Heavens deserve to be called the Limitless Emperor.”
+
+“Limitless Emperor?” Karz muttered, his gaze lingering on the stele. “I like the sound of that.”

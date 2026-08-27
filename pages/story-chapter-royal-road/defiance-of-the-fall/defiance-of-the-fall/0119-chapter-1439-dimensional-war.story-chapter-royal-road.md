@@ -1,0 +1,123 @@
+---
+id: c846879c-ef5e-5e51-b4f4-c62dd7eb6a9d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,439 - Dimensional War"
+slug: 0119-chapter-1439-dimensional-war
+partOf: defiance-of-the-fall
+position: 119
+ownLength: 3092
+unit: words
+publishedAt: 2026-05-26
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3449785/chapter-1439-dimensional-war"
+royalRoadId: "3449785"
+---
+
+Despite being confident in his strength, Zac knew things had gotten troublesome. A brief inspection revealed that three of the thirteen invaders were powerful characters who stood at the summit of the Sealbearers. Outwardly, they were Peak Hegemons one and all, yet Zac’s senses told him they were hiding some of their strength.
+
+The first of the three was the person who’d forced Zac away from the magic circle. Rather than a spearman, it turned out the attacker was an archer wielding a massive bow made of purple steel. He would have been considered a proud son of heaven with his sharp features, glowing eyes resembling setting suns, and a heroic demeanor, if not for his immense corruption.
+
+The effect of the Lost Era’s taint differed among them all. In this man’s case, it was particularly grotesque. His left shoulder had morphed into a misshapen head, whose eyes glowed with deranged malevolence. Its mouth was locked in a voiceless scream; whether in agony of its existence or hatred of the world was impossible to say.
+
+If Zac wasn’t mistaken, he was A’Mesio Evor, a Saint Son of a local sect. His path was a mix of space and lightning. Seeing a twisted creature cultivate a Dao of the Heavenly Peak seemed wrong and paradoxical, yet his attainments were no joke. From the pressure he emitted, Zac was sure both his Daos were at least Middle Earthly Daos.
+
+The second threat was a rotund mage covered in massive welts and pockmarks. Not an inch of her exposed skin was spared, to the point Zac couldn’t figure out her true identity. Judging by the danger Zac sensed from the welts, she had likely harnessed her ailment and turned it into a weapon. She wielded a knotted staff embedded with Temporal Crystals, so time was also in the mix.
+
+The third one gave Zac the greatest pause, and he was the reason Zac didn’t immediately rush in. The man was barefoot and draped in tattered robes, a hacked, rusty sword in his hand. Another sealbearer, this one a member of the Imperial Army. His name was Aemod, and the real one had died in the square during the worship ceremony. It looked like this doppelganger had made it back to his own timeline before the invaders were routed from Transformation Docks.
+
+Different from the other two, there were no outward signs of taint on Aemod. It was all gathered in his vacant gaze. This man had drawn horrifying amounts of corruption into his mind and sharpened it into a grotesque intent. Zac felt like he’d have to fight with his life on the line the second he took a step closer.
+
+The others weren’t a cause for worry individually, though they clearly had a diverse set of skills that could prove troublesome when combined. Zac thanked his lucky stars that this seemed to be the limit for the time being. The restrictions on the timeline gateways evidently extended all the way to [Second Singularity]’s inner realm. Otherwise, he would be facing a gaggle of Monarchs and a couple of Autarchs instead.
+
+Just as important, there was a limit on the number of invaders that could squeeze through. With each combatant emerging, the magic circle supporting the timeline faded a bit. Sending over the three elites at the limit of Hegemony to act as vanguard had pushed the gateway to its limit. It looked like it could collapse at any moment, which was why they’d formed a protective perimeter against Zac.
+
+The bad news was that the dimensional gate was recovering with every moment. It wasn’t just siphoning strength from the other timelines; it was being actively nurtured from both sides of the gate. Two of the subordinates hiding behind the swordsman were fallen templars. The moment they stepped through, they began infusing the weakest runes with Imperial Faith.
+
+Zac quickly organized his thoughts and devised an attack plan. Obviously, time was on the enemy’s side. Their camp would grow stronger for every second the stalemate dragged on. Zac needed to strike hard and fast, ending things before they had a chance to dig in. This kind of battle wasn’t the forte of his Inexorable Apostle Class, but that didn’t mean it couldn’t be done.
+
+It only took Zac a moment to organize his thoughts, yet someone was even faster than he.
+
+“You brats think I’m a vegetarian just because I’ve kept my hands clean? Those who try to ruin my good thing can just go and die!”
+
+Neither Zac nor the invaders got the chance to react before a streak of starlight flashed right past the gateway and through the group of cultivators. Three of the underlings, including one of the templars, collapsed into chunks of flesh as space cracked. Only by the combined effort of the others were the fractures stopped from claiming any more lives. More importantly, the swordsman and greatest threat was gone without a trace.
+
+Zac was pleasantly surprised to see Esmeralda launch a direct attack after having limited her involvement in battle to support thus far, though not nearly as surprised as his opponents. They frantically looked around for a threat Zac suspected wouldn’t strike a second time. As expected, Esmeralda’s voice entered his mind before the dust settled.
+
+‘I’m not able to strike again. Most of my reserves are already held up by the treasure. I’ll keep the big one trapped as long as possible, and I’ll sever some of those bridges to slow them down. I’m relying on you for the rest.’
+
+‘I’ll take care of it,’ Zac promised.
+
+Zac didn’t give his enemies the chance to recover from the visceral sight of their companions being reduced to gory scraps. He activated two skills, and utter darkness descended on the gate and its surroundings without warning. Three enormous bands made of countless statues appeared, separating the world into three. Floating in its center was an eye of utter darkness, an anti-sun crackling with utmost destruction.
+
+There was no point in holding back, so Zac unleashed two of his strongest skills from the start: [Arbiter of the Abyss] and the Late-stage [Eye of Desolation]. Upgrading it had always been high on his list of priorities since reaching Late Hegemony, but it was an extremely complicated Skill Fractal. It was only with the help of a large amount of refined corruption and the Mercurial Court’s facilities that he finalized the blueprint and performed the upgrade.
+
+The skill didn’t come with any new features at Late mastery. As was the norm, it built on its foundations by adding a third layer and another band. In other words, his targets would have to deal with yet another band before they could escape desolation’s pull. Naturally, the statues and their chains had grown much sturdier since the upgrade. Normal D-grade cultivators could forget about even leaving a scar on them.
+
+The archer and the walking plague were trapped by themselves, where they would be forced to face the chains of a whole band alone. The remaining underlings were all placed in the third layer, along with the dimensional gateway itself. Seeing the gate being accommodated without issue was a weight off his shoulders. If his skill had directly clashed with the Peregrine Ocean, [Eye of Desolation] would undoubtedly be the one to suffer.
+
+The invaders seemed to think that Zac wanted to directly strike at the gate with his skills, and Zac was happy to encourage that misconception. He ordered the suffering statues to target the Peregrine Ocean, pushing the invaders into a passive state. Four of the seven cultivators remaining took on the burden of dealing with the onslaught of chains; the other two stood guard against outside threats while defending their remaining templar.
+
+Zac wasted no time in approaching his target under the invisibility imparted when he activated the skill. His target was neither of the elites, who were already embroiled with a swarm of chains. They were ultimately just distractions meant to divert Zac’s attention. His target was still the gate itself. So long as he could close it, he could take his time dealing with the stragglers.
+
+August and the other leaders might still be able to find another route to [Second Singularity], but it would be too late by then. It had already been cleansed of most corruption, and Esmeralda would soon be able to seize control.
+
+A sudden clap of thunder ruined Zac’s plan. A streak of lightning descended from above, unerringly targeting Zac through his guise. Not only that, it completely ignored Zac’s attempts to redirect its trajectory with [Arbiter of the Abyss]’s rejection domain. It was like the lightning bolt had been sent by the Heavens themselves, making evasion impossible.
+
+Still, if there was one force Zac didn’t fear by now, it was lightning. He’d lost count of the number of tribulation bolts he’d endured, so what was some man-made lightning? Besides, this particular attack had sacrificed much of its destructive power in exchange for speed and tracking ability. He swung his axe, cleaving the bolt in two.
+
+The expected scene of him scattering the lightning with a burst of death didn’t happen. Instead, the bisected lightning ran down his weapon then up his arm like two snakes. The lightning finally burrowed into his body, somehow bypassing [Love’s Bond]. There was still no pain, but the situation wasn’t good.
+
+“Damn it!” Zac cursed upon seeing he’d lit up like a Christmas tree.
+
+The illumination wasn’t just there to blow his cover, either. The lightning was imbued with something like a curse that was the direct opposite of [Adamance of Eoz]. His Miasma had suddenly become brittle like a dried piece of wood. The effect erased the advantage brought by his Eoz bloodline, and it refused to be scrubbed away by [Immutability of Eoz] in one go.
+
+Exposed and weakened, Zac suddenly found himself in the crosshairs of six Sealbearers. Even those held up by a storm of chains sent over some attacks his way. Zac immediately shifted gears. Two overlapping waves of darkness filled [Eye of Desolation]’s sealed space, further drenching the world in death.
+
+Not even [Field of Despair]’s sense-depriving effect worked against the sticky lightning, but it boosted his strength. Meanwhile, the Axe Wraiths would crank up the pressure on the defenders so that he only needed to worry about the other three. Or so he thought.
+
+Saved by his Danger Sense, Zac narrowly dodged a crackling arrow tearing through the fabric of space. The attack was nothing like the weak lightning bolt from before. The arrow was imbued with enough power that it could be mistaken for the attack of a War Machine. Losing a limb would be the least of Zac’s worries if it had reached its mark.
+
+The attacker was the archer, who was supposed to be trapped in another layer of [Eye of Desolation]. And while he was still fighting off a whole band’s chains by his lonesome, he’d somehow managed to send a deadly attack his way. And while he’d failed, the scream of danger in Zac’s head had only grown more urgent.
+
+Unable to understand where the threat came from, Zac cranked [Arbiter of the Abyss]’s field of rejection to its limit while imbuing himself with Void of Life. He only used the Void-imbued version of his Inexorable Technique for a moment to take a subtle step to the left. It didn’t stop an eruption of agony in his left lung. A second projectile had not only reached him unseen, it tore through his flesh unimpeded as it grazed past.
+
+The filth of the Lost Plane flooded his body from the wound and was quickly crushed by Zac’s constitution. Even weakened, the hostile Dao left from a flesh wound wasn’t something that could threaten Zac. He was more worried about being attacked out of nowhere, with his danger sense barely enough to protect him. With the attack’s penetrative force, the next strike could pulverize his heart if he failed to react in time.
+
+Zac scanned the battlefield and soon realized the source was still the archer. The mage had her hands full dealing with the incoming chains. She used temporal winds to slow them down and corrosion to reduce them to dust. Still, her skillset clearly favored biological targets, and it looked like she’d remain occupied for a while longer.
+
+‘It’s that head!’
+
+While the archer had drawn a second arrow from his quiver, his second head had silently formed another arrow in its shadow. It was a pure spiritual arrow made of corrupted Dao of Space. It was extremely covert, and Zac only noticed its shape after it was slathered with his ichor. Understanding the threat didn’t change anything. He still needed to deal with the gate. At the very least, he needed to break a few runes and kill the remaining templar.
+
+Zac was already close to the gate from the start, and he’d moved even closer before he was exposed. Since subterfuge was impossible, he opted for a head-on collision. Three chains made up the vanguard, targeting three of the gate’s defenders.
+
+One of them had already turned into a three-eyed giant, his body crackling with physical prowess surpassing most beast kings. The second was a Shieldbearer whose weapon had conjured a durable spatial blockade. The last was naturally the templar, who frantically tried to empower the gate enough that it could send through another round of reinforcements.
+
+The giant and the defender moved to intercept, creating an impassable wall of space and flesh. But just as the two sides were about to collide, three swirling gates appeared in the middle of the chains. The severed section slammed into the invaders a moment later without causing much of a stir. While the chains carried their original momentum, they were rootless and lacking the empowerment of [Love’s Bond] and [Inexorable Subjugation].
+
+It was already too late by the time the two realized it was a diversion. Three more gates had appeared around the templar at the same time. Alea’s chains burst forth from the beyond, and the templar was impaled before he could react. Two gates closed while one expanded, allowing Zac to pass right through. Two arrows impotently whizzed past a few hundred meters away, their target suddenly gone.
+
+“Stop!”
+
+[Death’s Duality] had already dug into the grievously wounded templar’s head by the time the roaring giant had turned around. Between Zac’s unpredictable movements, the deathly cowl of [Arbiter of the Abyss], and the rattling chains surrounding him, he perfectly played the part of a grim reaper descending on the mortal plane.
+
+Zac wasn’t taking any chances when there was no Kill Energy to provide confirmation. He tore the templar into shreds, both body and soul, with a blitz of swings. With his left arm still inside the portal, it looked like he planned on escaping after the ambush. However, a second lightning bolt descended from the sky, followed by a fist the size of Zac’s whole upper body.
+
+The lightning briefly immobilized him, and the brawler struck with such force that it resisted the redirecting force of [Arbiter of the Abyss]. It was like he’d managed to replicate the effect of an Inner World despite only being a Late Hegemon. A wall of Miasmic mist rose to block, yet the passive defenses of [Love’s Bond] couldn’t match up to that force.
+
+Zac felt like he’d been hit by a train as he was forced out of the vortex, flying away until he slammed into a spatial barrier. Just when it looked like he was cornered, the magic circle surrounding the Peregrine Ocean heaved. With it, the silver waters already being overloaded with borrowed force triggered a sudden tide that swallowed two of the embattled invaders.
+
+How could Zac have been planning to escape after taking down the Templar? He was Death, a wolf among sheep. His left hand had only remained inside the vortex because he was busy with something else; striking the magic circle with [Void Mountain] outside of the sight of the others. He’d just barely managed to exhaust another rune before he was interrupted.
+
+The deadly surge of silver water became Zac’s helper. It didn’t just kill two unlucky Sealbearers tasked with guarding the dimensional gate, it unraveled the Shieldbearer’s spatial prison. Zac could naturally have escaped on his own, but not without exposing the unusual abilities of his void vortices. So far, they could still be mistaken for normal spatial gates.
+
+As the barrier collapsed, Zac emerged in a gust of Miasma, leading four pygmy skeletons. A shimmering coffin appeared in the nick of time to intercept a third set of arrows. The golden arrow caused huge cracks to cover its surface, the hidden arrow made it crumble directly. One of the pygmies of [Profane Exponents] had fallen from a single exchange, but it freed up Zac to face the giant directly.
+
+Six chains bound him down, each adding a suffocating layer through [Inexorable Subjugation]. Slowed and with his actions manipulated by [Arbiter of the Abyss], the man was nothing more than prey. He didn’t get the chance to unleash the terrifying power he’d gathered in his left fist before his whole arm was cut off. With a keening swish, his head shot into the air, cleanly severed by Zac’s follow-up swing.
+
+Zac frowned upon feeling no feedback through [Fatehew]. He’d failed to strike the brawler’s soul. There was no time to worry about the mystery before Zac’s mind screamed with danger as the headless body rapidly expanded as corruption surged. A fell wind cast by a pygmy skeleton descended on the body, displacing its self-destructive force right atop the Shieldbearer.
+
+The defender expertly blocked the self-destructive attack without missing a beat, and the giant was already conjuring another body through a surge of corrupted timeflow. Bad turned to worse as a deafening groan shook the whole realm. Two bands of [Eye of Desolation] had snapped out of nowhere.
+
+Zac’s head swivelled, and he was shocked to find the supposedly struggling mage floating right above the Oblivion-filled eye. The fierce battle turned out to be a mirage that had tricked even his senses, while the real mastermind was hard at work dismantling Zac’s cage. Now, the three realms had been reduced to one, allowing the invaders to join forces directly.
+
+A sigh escaped Zac’s lips as he rushed at the giant to finish the job. He had to give it to them; these people knew how to throw down.

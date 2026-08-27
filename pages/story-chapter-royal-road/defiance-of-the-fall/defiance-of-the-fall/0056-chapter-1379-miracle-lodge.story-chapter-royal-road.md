@@ -1,0 +1,163 @@
+---
+id: 1c40deb2-b0d4-5c5d-b787-1153730219c0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,379 - Miracle Lodge"
+slug: 0056-chapter-1379-miracle-lodge
+partOf: defiance-of-the-fall
+position: 56
+ownLength: 3083
+unit: words
+publishedAt: 2025-11-18
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2772575/chapter-1379-miracle-lodge"
+royalRoadId: "2772575"
+---
+
+“A miracle lodge, huh?” Zac said, nodding to have a drink served. “What can you tell me about it?”
+
+“That depends on what you can provide in return,” the barkeep said. “We’re not taking shifts at the Dusty Apple out of generosity, you know.”
+
+Zac rolled his eyes and took out a Late D-grade stalk giving off strong temporal fluctuations. Its spirituality wasn’t deep enough to be considered a Natural Treasure, but Time-attuned materials were always valuable and in demand—especially with Temporal Cultivators like the barkeep.
+
+“I found this thing on the way, I believe it has some fate with you.”
+
+“I think you’re right,” Nathan agreed with a wide grin, his hands turning into a blur to snatch it. His time-enhanced swipe was intercepted by an intractable metal chain before he could claim his payment.
+
+“Exactly how fated it is depends on whether what you know is valuable enough,” Zac added.
+
+“Fair enough,” Nathan said, collecting his thoughts. “You should know the Peregrine Ocean is a nexus of Destiny that brushes against countless realms and timelines. Sometimes, Exotic Treasures will appear that can’t be found anywhere else. At the same time, the ocean is too unpredictable. True Disciples can barely explore its shallows, and even the elders won’t enter its depths lightly.
+
+“Exotic Treasures are normally far out of reach for us mortals stuck on the island, but the Heavens always keep a path open. The six miracles are all unique creations that have found their way into the archipelago. Since it’s a matter of fate, True Disciples and even stronger seniors aren’t allowed to compete for them whenever they appear.”
+
+“But we can?”
+
+“Sure. Why else would everyone be so excited? Even us D-grade cultivators have a chance to reinvent our wheel of fate, seeing as there are less than a dozen Void Heralds on the Isles,” Nathan said. “Although that number might have increased lately.”
+
+The Peregrine Isles was a region meant to temper Outer Disciples, though the Mercurial Court didn’t directly restrict Inner Disciples from entering. One’s fate simply ended with the archipelago upon stepping into Monarchy, so the disciple token no longer pointed to its location. Most of the dozen or so Monarchs in the area had broken through somewhere nearby and simply stayed behind since then. From what Zac had heard, the Explorer’s Guild’s Guild Leader was among them.
+
+While it seemed wasteful for Monarchs to linger in a low-grade environment instead of competing for better resources, being a local tyrant had its advantages. They could use their strength to gather a large amount of top-tier D-grade resources and use them to enhance their foundations before moving on. And whenever a top-tier resource emerged, like now, they were the most likely to seize it.
+
+There was also a chance that a C-grade Cultivator had affinity with something on the Peregrine Isles, just like the sixth pull of fate that Zac could still feel from his token. Such cases were likely why Nathan hinted that the number of Monarchs lurking about had increased recently.
+
+In either case, the C-grade Cultivators were at most Early Monarchs. It was still highly unlikely for Zac to defeat any one of them. Even the weakest Monarch raised in the Mercurial Court would be considered an elite in the outside world, completely different from a C-grade cultivator who’d formed an Inner World by the skin of their teeth.
+
+That wouldn’t stop Zac from throwing his hat in the ring. A hunt wasn’t only about having the biggest fist. When it came to Luck, Zac refused to believe any of the locals could compete.
+
+“Naturally, most of us aren’t aiming for the lodge itself,” Nathan added. “We’re happy to drink the soup while the hotshots compete for the meat.”
+
+“If someone seizes this Hunting Lodge, there’ll only be five miracles left?” Zac asked.
+
+“At least in the short run. Another Exotic Treasure will eventually find its way here. That’s how it goes. There were only three miracles for a while after two Exotic Treasures were seized in quick succession. It was Elder Istazh who snatched them both when she was an Inner Disciple,” Nathan said with an expression any man would recognize.
+
+Zac had already heard about the Eighth Elder, whose reputation greatly eclipsed Old Sixth’s. Her experiments were reportedly significantly more chaotic and dangerous, yet there would still be thousands of volunteers lining up to participate if she sent out a recruitment call. The Eighth Elder was not only the youngest member of the Elder Council, she was also Mercurial Court’s greatest beauty.
+
+Looks, wealth, power, and reportedly unattached. Elder Istazh was the whole package and, unsurprisingly, the dream companion of many. They dreamt of ascending the ranks, becoming the Ninth Elder and Istazh’s Dao Companion. By the looks of it, Nathan belonged to this group of delusional lovebirds.
+
+“Did you know? Elder Istazh was the Guild Master of her generation. She hasn’t visited for the past hundred thousand years, but if one of us manages to snatch the lodge, she might make an appearance,” Nathan exhaled with a dreamy expression.
+
+“Keep it together, man,” Zac sighed. “The lodge can’t be too easy to seize if it keeps appearing.”
+
+“So long as there’s a chance,” Nathan said, completely unbothered.
+
+“When is it and how long will we have access?”
+
+“According to the Guild Master’s calculations, the island will emerge in two days. If the guild’s lucky, we’ll only need a day to reach it. The island will be accessible for three days before disappearing. If you stay any longer, you’ll get sent out to a random part of the isles. If you plan on participating, you should make sure to leave within the allotted time. Don’t get greedy and continue hunting until the last second.”
+
+Upon seeing Zac’s confusion, Nathan elaborated with a wry smile. “The Lodge Spirit—if that’s who’s controlling the event—is a real piece of work. It tends to send explorers to extremely troublesome locations, especially men. In its twelve recorded appearances, there have been nearly as many who died from the teleportation as from the hunt itself.”
+
+“I’ll keep that in mind,” Zac nodded. “What are we hunting?”
+
+“Anything, really,” Nathan said. “It’s a bit odd. The island is full of fantastical beasts, different ones between each hunt. When you kill them, they can turn into anything. Powerful Spirit Tools, Celestial Pills, extraordinary Cultivation Manuals, you name it. They can also turn into a piece of worthless wood or a cloud of deadly poison. You need either Luck or discernment to make a killing.”
+
+“The treasures just form out of nothing? They’re illusions?” Zac asked to confirm.
+
+“Yes, and exceedingly detailed ones. They need very little time and energy to be stabilized by our [Mercurial Sacks]. Even higher-grade items can be brought out with some patience,” the barkeep explained. “We do believe that the lodge itself is real. Although we don’t know if the lodge itself is the prize or whatever’s placed inside it. No one’s managed to find it—at least not anyone willing to share the inside scoop.”
+
+“If no one’s found it, how do you know there’s a hunting lodge in the first place?”
+
+“You’ll find out when you reach the island,” Nathan said with a mysterious expression, but his expression fell when Zac began pulling the Temporal Treasure away. “Wait! A vision! Everyone who steps ashore gets the same vision. Each round is slightly different, but the Earth Diety Sevona and her Hunting Lodge have been featured each time.”
+
+Zac asked a few more clarifying questions before handing over the Temporal Treasure. The first signs of the lodge’s appearance began over a month ago. Information had been tightly controlled by the Adventurers Guild and a few large organizations while they gathered their own forces in secret. Word had already begun to spread now that it no longer mattered. It would be nigh impossible to reach the lodge in time if you set out from one of the four harbors at this point.
+
+You’d have to be lucky and get sent over by a spatial anomaly or know of a hidden pathway. As such, there was no longer any seal on the information. Zac was welcome to send word to others if he wanted, and he planned on doing just that. Astora should be aware by this point, but it didn’t hurt to send a report to score points. Reaching the island in time was her problem.
+
+Nathan also handed over a collection of experiences left by guild alumni during the previous hunts. There was clearly a large degree of randomness to the trial, but there could be some valuable clues left within. It was a decently valuable information packet sold by the Guild’s information exchange, something Nathan repeatedly reminded him of with a suffering expression.
+
+“Nice doing business with you. Let’s help each other out if we meet up on the island,” Nathan happily said while stashing his payment.
+
+Zac guessed he’d overpaid for the information, but he wasn’t too bothered. With time being so short, he needed to focus on uncovering the doppelgangers or whatever plot they were hatching.
+
+“We’ll see how things go,” Zac promised, knowing Nathan’s words were an empty gesture.
+
+The sect might forbid the killing of fellow disciples, but the short-worded list of rules and lack of binding oaths left many matters up to interpretation. Esmeralda had unearthed a few unsavory rumors while skulking around in Westharbor—instances of luring fellow disciples into deadly formations on the seas or triggering beast tides.
+
+Such actions didn’t appear to break any rules, though they were obviously frowned upon. Zac felt that the Mercurial Court’s native cultivators were more honest and guileless than what you’d see on the outside, but there were still plenty of ruthless characters around. And a supreme treasure like Sevona’s Hunting Lodge would bring out the worst in people. More likely than not, the affable barkeep would be scheming Zac’s downfall should they meet during the hunt.
+
+That was an issue for the future. The talk about Sevona’s Hunting Lodge had derailed Zac from his original task, and there was still the matter of officially joining the guild to deal with. Zac handed over his signet ring and a drop of his own blood.
+
+“Oh, almost forgot,” Nathan muttered as he placed both on a small but complex array disk installed on the other side of the bar. A minute later, he handed the ring back. “There we go. You’re officially an explorer!”
+
+“Glad to be here,” Zac said while fiddling with the ring.
+
+“It’s bound to you now,” Nathan said. “That means it can’t be transferred in case you want to retire from the guild in the future. If you want to invite someone else, you’ll have to purchase a new ring with contributions. Same if you want to have one of your attendants represent you on the island, though that’s much cheaper.”
+
+“Good to know,” Zac said, finishing his drink and turning for the exit. “I’ll see you around.”
+
+“Feel free to contact me if you find more Temporal Treasures. I’ve stayed in the isles for a century, and I have both intelligence and items to trade,” Nathan exhorted as Zac left the bar.
+
+Throughout, Nathan never asked who recommended him, and Zac didn’t broach the subject. He already knew having the ring would be enough. It wouldn’t even matter if the guild discovered he’d found the ring on a corpse. The Mercurial Court was all about seizing fate. So long as the Mercurial Court’s enforcers hadn’t apprehended him, Zac was presumed an innocent bystander who’d stumbled onto some good luck. And since he’d managed to reach the guild headquarters, he was qualified to join.
+
+Zac continued to inspect the ring as he took in the bustling streets. He could feel an aura matching his inside, confirming the branding. The open streets weren’t the right place to check whether the engraving had harmed the hidden array inside. Zac would have been very surprised if it wasn’t designed to survive the basic branding.
+
+Quickly growing tired of the constant looks, Zac eventually found a tailor. She was a cute demi-human who barely reached his chest. Considering her fin-shaped ears, there should be some amphibian species in her family tree, giving her skin a bluish tint and scale-like patterns resembling those of the Torrid Demons back home. The tailor’s bloodline was still mostly human, but her appearance still made her stand out in a faction heavily populated by pure Selvari.
+
+“Just joined, and it seems like I need a pirate kit,” Zac said while flashing his ring.
+
+His exasperation must have been obvious as the tailor giggled. “I know it seems weird, but we’re not doing this because we have too much time on our hands. There are actual benefits from looking and playing the part.”
+
+“Such as?”
+
+“Ten generations ago, the guild uncovered a pirate ship from the bottom of the sea. It can’t be sailed any longer, but it still holds incredibly powerful inscriptions that bless its crew and home port. We haven’t managed to properly control the inscriptions, but we eventually discovered that looking the part is enough to get the blessing,” the tailor said, showcasing her elaborate dress. “It’s also fun and helps us get in the spirit of adventure.”
+
+“Blessings?” Zac said, honing in on the salient part.
+
+“Simply put, it’ll augment your Fate during your stay inside the Peregrine Isles. You’ll be less likely to run into dangerous waters and more likely to stumble upon valuable islands.”
+
+“No wonder so many want to join the guild,” Zac whistled. “Well, what do you recommend?”
+
+Five minutes later, Zac emerged in full swashbuckling regalia. He’d bought a pair of wide trousers and leather boots, held up by a wide buckle, where [Death’s Duality] was fastened. Zac kept [Love’s Bond] partially unfurled, so that it only covered his heat and Cosmic Core. Any more would have come in the way of the loose blouse and leather vest.
+
+Zac also had one chain wound around his free arm, which actually meshed well with the pirate aesthetic. Zac had finished the look by braiding a few beads into his long, silvery hair, and adding two cosmetic bracers. It wasn’t his choice. He’d simply added accoutrements until he felt a ripple of Destiny harmonizing with him. Esmeralda was not one to be undone and she’d stole a pirate captain’s hat for herself, glaring at Zac when he insisted on tipping the tailor to make up for the loss.
+
+The clothes lacked any defensive or offensive features. They did, however, have a surprisingly practical trait. They were essentially indestructible. The clothes were actually semi-illusory in nature, and their true core was safely stashed inside a Spatial Ring. Zac could fight to his heart’s content without worrying about damaging them. So long as he kept his ring safe, the clothes would reappear with a thought.
+
+There were skills that could mimic that effect, and cultivators highly skilled in energy manipulations could directly fashion robes from pure energy. Zac had tried that a few times, and he was far from reaching that state. This time, Esmeralda retreated to [Shrine of Kanba] to better allow Zac to blend in.
+
+The two spent an hour exploring Explorer’s Cove, listening in on gossip and looking for hints of corruption or cultivators acting off. As their perimeter expanded, they eventually reached the outer quarters of the small city. Zac couldn’t see it now that he was inside the memory domain, but he estimated they were coming up on the border to the wall of corruption.
+
+Not so coincidentally, it was at the edge of the memory domain that the settled part of the island ended. Beyond was a complex jungle that veritably reeked of adventure and possibility. The Daos imbued into the environment were far more profound than those on Monkey Island, making it the perfect breeding ground for Natural Treasures. And yet, Zac didn’t hear the calls of beasts in the slightest.
+
+There was only one thing that stood out in Zac’s view. An hour’s journey away, a patterned stone pillar rose at least a dozen miles into the air. It didn’t look like a natural formation. It rather resembled a skyscraper made of stone, sporting a smooth, rounded top. Zac didn’t want to leave the memory domain’s borders, so he flashed over to a Servant Disciple lounging nearby.
+
+“Excuse me, what’s that thing over there?”
+
+“Oh, that’s the beehive,” the attendant explained. “It’s actually a wasp nest cleared out by our alumni, but ‘beehive’ has a better ring to it. The nest is located right above the island’s most powerful Dragon Vein and is equipped with extremely potent Natural Formations, so it was repurposed into a cultivation manor. There are 17 top-tier cultivation chambers in the depths and another 108 high-quality chambers in the outer hexagons. It’s also connected to the underground.”
+
+“This island also has a subterranean level?” Zac asked curiously.
+
+“Yes, and a big one,” the disciple nodded. “In fact, it’s why the Guild chose this island for its headquarters. The Endless Caves is a pseudo-illusory realm with very real rewards. It changes and replenishes its riches every decade or so, providing the guild with both wealth and experience. Some even consider the Endless Caves the archipelago’s Seventh Miracle.”
+
+“Hm,” Zac said. “When did it reset last?”
+
+“Just over a year ago, I think?”
+
+“So, it’s cleared out?”
+
+“Not at all; there are still mysteries left to unearth, and certain resources can be harvested in intervals. Of course, the more easily accessed treasures have already been plucked clean. You’ll have to take some risks and delve deeper if you want to make a large profit now.”
+
+“Is it dangerous?”
+
+“Not too bad. In fact, the current version seems safer than usual. There have only been two deaths right when it opened. Since then, there hasn’t been a single one. I hear there would usually be over a dozen casualties in the first year after a reset. During that time, the routes still aren’t explored, and there’s a lot more activity.”
+
+‘No casualties?’ Esmeralda sneered within the shrine. ‘More like no exposed casualties. I wonder how many have entered the depths only to be replaced by a doppelganger.’
+
+‘It looks like we’ve found our infiltration point,’ Zac agreed. ‘The question is, should we barge down there right away, or should we hold back until the hunt?’

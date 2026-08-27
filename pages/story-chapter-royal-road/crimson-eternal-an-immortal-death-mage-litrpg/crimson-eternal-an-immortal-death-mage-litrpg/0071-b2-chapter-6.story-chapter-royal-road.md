@@ -1,0 +1,149 @@
+---
+id: 27659217-7baf-5cd0-810b-75e9daefd409
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 6"
+slug: 0071-b2-chapter-6
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 71
+ownLength: 1553
+unit: words
+ownProgress: 1553
+publishedAt: 2024-01-30
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1499869/b2-chapter-6"
+royalRoadId: "1499869"
+markedReadAt: "2026-06-29T19:08:20.427Z"
+---
+
+Aria
+
+I have to admit, serious Shirogane knows what he’s doing.
+
+After he becomes my contracted partner within the Dynasty and learns of my current short term goals, he leads me straight to a hidden store with good intel on Tier 3 of the Hunter’s Spot. He points out a map of the Tier 3 part of the Hunter’s Spot, the list of mana creatures within it, how much they’re worth, what magic they have if any, what resources are where, and more. And he even gets me a twenty-percent discount on it all.
+
+Then he leads me to a store that sells weapons that can be used underwater. Since guns aren’t as effective underwater. So he proceeds to get me a fifteen-percent discount on some things like harpoons, underwater guns – weapons made specifically to ignore the resistance of the water – and some pickaxes for the minerals. Also some other collection tools for the other resources.
+
+And I can’t help but notice as we move through the markets of the city near the Hunter’s Bay that every store clerk we pass by sends him a frightened look the moment they spot him and realize he’s walking with purpose. As if they’re afraid of dealing with his serious persona.
+
+Meaning that, at the end of the day, his serious persona is incredibly helpful. Unlike his idiot persona.
+
+By the time we finish our little shopping spree – which doesn’t take too long since we don’t need to deal with food, water, or preservatives for the two of them – we both head down to the Hunter’s Bay. And the clerks there look surprised to see me for a second time on the same day. Although not as surprised as they look when they see the Silver Merchant looming over my shoulder.
+
+The bright side is that it surprisingly seems to clear up that misunderstanding rather quickly. Because he’s apparently well known for having that split personality, and people know he only enters the other one when he’s in business mode.
+
+And seeing him in this business mode while walking with me makes them all believe that he’s working with me in a platonic way.
+
+Not entirely sure how all of this just worked out for me, but I’m not gonna complain.
+
+We both pass through the station without issue before moving to find a tether. And the other hunters that we pass by look both shocked and for some reason, in a few of their cases, relieved to see the Silver Merchant in business mode walking alongside me.
+
+Not sure what that’s about.
+
+Eventually we find a tether. Which surprises the other hunters even more since I never go down myself.
+
+I quickly figure out how to work the tether before downing a water-breathing potion, pressing the button to activate the shield, and preparing to jump down into the water. Only for the Silver Merchant to toss me a slip of paper that I catch almost instinctively.
+
+When I unroll the paper, I realize it’s a phone number.
+
+“To contact me once you’re finished,” he says with an emotionless voice. The same one he’s had since entering this ‘business mode’ of his. “I still need to show you a few more stores and then we can go over the terms of our contract in further detail.”
+
+I nod my head in agreement with that before jumping off of the tether-post and diving into the water.
+
+Good thing my outfit is completely waterproof.
+
+The view underneath the docks is certainly an intimidating one. Just pure darkness with the occasional fin or person swimming by.
+
+I can’t even see the other parts of the dock from here.
+
+Although amusingly enough, my glowing eyes make for a little bit of light down here. So I can see a little bit.
+
+I swim forwards, down and down and down some more. For quite a while.
+
+Honestly, I’m not sure how deep the trench is. I’m not even sure if I’m in the trench yet or not.
+
+It’s a good thing I learned to swim while I was getting military training.
+
+Been mostly avoiding going down here because of one particular reason.
+
+I know there are giant creatures down here that can eat you whole.
+
+And I would rather not end up spending years in the stomach of some creature constantly being digested until it dies.
+
+Unless I could somehow manage to rip my way out of its body from the inside.
+
+But I’d rather not bet on that.
+
+Would be even worse if I was swallowed whole by something that got swallowed whole by something else.
+
+I shiver at that thought as I continue swimming.
+
+Soon enough though, I feel a wave of power wash over my body. Meanwhile it becomes a little easier to see in the water, letting me see the trench wall near me.
+
+Guess that probably happens when you fully enter the Hunter’s Spot.
+
+Probably.
+
+I’m not an expert.
+
+The trench itself is so large that even with this slight increase in my vision, I still can’t see the other side. I doubt I can even see halfway to the other side.
+
+Although I can see some other hunters going down into the depths, along with some fish that either swim after them or swim away depending on how strong the hunter in question is.
+
+Doesn’t look like there’s anything too-
+
+My thoughts come to an abrupt halt when a giant tentacle shoots out of the abyss beneath us to reach up and grab several fish before going back down and out of sight again.
+
+I stare for several seconds before deciding that the wall of the trench is a nice and friendly place. Very comfortable and I should stay near it.
+
+Then I continue swimming down while hugging said wall.
+
+Because I do not want to end up spending my time inside of a giant squid. And I can’t see the owner of that tentacle as being anything other than a giant squid.
+
+I try to put the giant tentacle out of my mind as I focus on the very much waterproof map the Silver Merchant had me buy. A necessity for going around down here without dying. Or ending up in something’s stomach in my case.
+
+But the sight of the endless depths and the darkness around me makes it a tiny bit hard to concentrate.
+
+I really hate not knowing everything around me at all times… it’s just unsettling.
+
+Even though I can’t die.
+
+I take a deep breath – which is also slightly unsettling but in a different way since I’m deep underwater – before focusing all of my attention on the map. And from what it says, it looks like the first tier of the trench is mostly made up of little tunnels that connect to the main trench. Just tunnels and caverns stretching all over just a little below ground.
+
+Also, judging by the lower tiers of the trench on the map, this trench itself lasts all the way down to the fifth tier. Then it basically just becomes a bunch of large and small caverns and tunnels. Meaning that the squid tentacle that passed by was likely from a deeper tier of the trench.
+
+As for what I’m hunting for, it’s not in the first tier of the Hunter’s Spot.
+
+I need to go deeper to the third Tier.
+
+So after another deep breath, I continue on my trek downwards. I know I’ve heard the hunters giving advice to new hunters before, not to mention the guides that I read while going here. And in each of them, they said to hug the wall.
+
+Which is what I’m gonna do.
+
+Not hugging the wall tends to lead to-
+
+My thoughts are interrupted again when another tentacle flies upwards from the deep. But this time it doesn’t grab fish as I hear a gurgled scream.
+
+Then I see the tentacle going back down with a hunter who was swimming deeper into the trench, not near the wall.
+
+Yeah. Leads to that.
+
+I move closer to the wall as I continue swimming downwards, occasionally finding the tentacle returning. And after I reach the first tunnel, I begin to count in my head as I swim down. Because that’s what the guide thing said to do.
+
+Count to five minutes while constantly swimming. Then you’ll find the second tier tunnels of the trench.
+
+After that, the third tier will be easy to find. Just look for the glowing tunnels.
+
+Although I guess I don’t actually have to count since I’m just going straight for the third tier tunnels.
+
+So I keep on swimming. Even when the tentacle returns, and even when more than one shoots up for their food.
+
+I just keep swimming.
+
+After a while I finally find myself in front of the first glowing tunnel. And I immediately make a beeline for the entrance, deciding that I hate this trench and want out of it as soon as possible.
+
+Ugh. Fighting underwater is going to be even more annoying than just this swimming.
+
+I am not looking forward to it.
+
+Looking forward to it or not though, I proceed to make my way into the first glowing tunnel.
+
+Entering the third tier of the Hunter’s Spot.

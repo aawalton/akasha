@@ -1,0 +1,185 @@
+---
+id: bbcd1f86-5850-592b-b772-e35ec12ed719
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,409 - Ghost Markets"
+slug: 0088-chapter-1409-ghost-markets
+partOf: defiance-of-the-fall
+position: 88
+ownLength: 3314
+unit: words
+publishedAt: 2026-03-15
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3155424/chapter-1409-ghost-markets"
+royalRoadId: "3155424"
+---
+
+While eager to get going, there was no quick or easy way to get back to the mainland. Zac couldn’t spot any familiar landmarks around Sevona’s crystallized island. In fact, there weren’t even any islands on the horizon, which was somewhat rare for the Peregrine Archipelago. Zac decided not to worry about it since he had an expert in spatial navigation by his side, and he leaned back into the gondola to get some shuteye.
+
+Half a day of fitful sleep after getting knocked out by [Fuxi Mountain Gate] couldn’t be considered a proper rest. Zac was still exhausted from rushing through the hunt, and he’d reached the point where only sleep would help. Getting back to Citadel would take a week or two, provided they could find a spatial shortcut, which seemed just about right to get back to optimal condition.
+
+Naturally, Zac couldn’t stay idle for weeks on end. He slept for another six hours—a real sleep shared between both bodies—before Esmeralda roused him. Already feeling more refreshed, Zac spotted a small ridge peeking through the silver waters in the distance. The tallest peak was only a hundred meters tall, yet it exuded a significant amount of corruption.
+
+“Let’s go,” Zac said, and Esmeralda changed the course.
+
+The ridge couldn’t be called an island, and it was utterly bare. There were no Qriz’Ul to hunt, nor were there any corrupted treasures or crystals. It didn’t matter to Zac, and he didn’t try to investigate the mountain range hiding beneath the surface. They only stayed long enough for Zac to completely fill up [Purity of the Void] with dense corruption before resuming their journey.
+
+While Esmeralda managed the boat, Zac took out a notepad and jotted down the insights he’d gleaned while absorbing the [Peregrine Almond]. He’d already memorized everything, but systematically writing them down helped solidify his understanding and make new connections. Soon, exotic patterns began filling the pages.
+
+When two dimensions failed to capture Zac’s ideas, he switched to carving sections of his blueprint. The experience was nothing like his years of trial and error back on Earth. Zac had spent eight decades pouring his heart and soul into woodcarving while crossing the Peregrine Ocean. Despite lacking Cosmic and Mental Energy, his carvings were powerful enough to pose a real threat to Cultivators by the end.
+
+Now that he was back in the real world, Zac was able to make full use of the skills he’d learned. His hands moved in complete harmony with his Dao in a cycle of equivalent exchange. Unnecessary wood was taken away, and Zac’s path was gifted in return. It allowed a single cut to hold more meaning than a whole finished sculpture.
+
+Zac tuned out all else. Only the axe and wood remained, along with the steady sound of shavings falling to the ground. A few hours later, a complete prototype of his Void Core floated in the middle of the gondola. It was made from three pieces of wood, one for each Dao, exquisitely interlinked to form a singular sphere. Now that Zac could pour his heart and Dao into the wood, there was no need to separate his unusual core into two sculptures.
+
+“Using normal wood to imprint meaning. You’re getting better and better. I’d say you’re the equivalent of a peak E-grade Blacksmith already. You should be able to carve statues with actual combat ability if you find materials that can hold your intent without collapsing,” Esmeralda nodded in praise as she inspected the work of art. “But it seems…”
+
+“Incomplete,” Zac nodded as his fingers grazed a raw spot on the sculpture. “It’s where I’m at now. The next step is to fill in the blanks.”
+
+“Keep at it, little disciple,” Esmeralda said. “Don’t worry about the course. I’ve spotted a few promising spatial flows. We’ll be back before you know it.”
+
+Zac nodded and resumed his work. [Purity of the Void] had refined a tenth of the collected corruption, and Zac wasted no time drawing it out. Immediately, he figured out the solution to the unfinished spot. It was too small to carve with his axe, so he etched a few lines with a tendril of Mental Energy. Doing so, he also recorded the answer he gleaned.
+
+There were thousands of imperfections just like it, and figuring out certain answers would invalidate others. Nevertheless, his final Core Formation Blueprint was like a half-completed puzzle with the hardest sections already filled in. Zac rode the wave of enlightenment to fill in one piece after another, each success bringing him closer to his goal.
+
+There would be a need for a final round of adjustment after he advanced his Earthly Dao of Defiant War, but Zac already had a decent idea of what concepts it would hold. Its upgrade was straightforward compared to his Daos of Life and Death, which were in the middle of incorporating Creation and Oblivion. He’d already accumulated most of the insights needed as he fought his way through the Imperial Graveyard and the Left Imperial Expanse. He was only waiting for a catalyst that would bring it all together. As such, Zac could already do the groundwork on his blueprint.
+
+While his Draugr side wholeheartedly threw himself into cultivation, Zac's human side finally opened his eyes. While he hadn’t been fighting for his life inside Saṃghāta, his body was still completely drained after bearing the brunt of Crushing Hell’s Karmic Death. Furthermore, it had taken a while to properly accommodate the refined Ancient Killing Intent.
+
+His spiritual bodies were extensions of his singular soul, allowing him to seamlessly spread out the Conflict-attuned pieces between his bodies. Zac had still kept most of it on his Draugr side until linking up again. The infusion came from slaughter and bloodshed. Without remembering the experience, Zac feared sending over too much refined spirituality would lead to imperfections.
+
+That was not a problem now that his memories had synced up, and his bodies were already in perfect balance. Zac grunted with satisfaction as he got to his feet and cracked his back. He knew it was a placebo from finally being rid of Saṃghāta’s unrelenting pressure, but he felt better than he had in a long time. Which meant it was time to get going.
+
+The shadows stirred as Zac emerged from the small cultivation chamber he had carved into the ground, yet there was no sign of the demon except for his sentry shadows. Tavza was still sitting where he’d left her, inspecting a stack of yellow papers covered in unfamiliar runes. Zac curiously walked over. While the papers didn’t emit a strong aura like powerful talismans, they emitted a curious combination.
+
+Death and providence. The aura of Death was hard to pin down. He could sense both Saṃghāta and Kālasūtra on them, but they were only part of a larger tapestry. It was as if the papers held the combined aura of the Eight Hells, yet the effect was so weak that a mortal would only feel a chill from holding a piece of paper.
+
+The Providence was neither the irresistible scent of Luck-increasing Attribute Fruits nor the inscrutable aura of Fate-augmenting treasures like his old [Lucky Beads]. Zac felt like he was looking at a large group of people instead of a stack of papers for some reason. Each paper represented the accumulated providence of one person. Some had more than others, but none of the papers came close to the providence of a Heaven’s Chosen, let alone the fate Zac carried.
+
+“Your friend grew impatient and went out to rob graves,” Tavza commented as Zac sat down next to her.
+
+“I figured,” Zac smiled.
+
+The demon was already getting impatient after Zac’s massive harvest in Poised Gardens. It was no surprise he couldn’t sit still after Zac seized another opportunity in Saṃghāta. Ogras worked best, or at least the hardest, when fueled by jealousy. The Hollow Chasm’s graveyards should hold plenty of loot, and skulking around on the outside would let him keep an eye out for Ventus and other Sealbearers descending the chasm.
+
+“Did you loot these things from the zombie monks?” Zac asked as he nodded at the papers.
+
+The realmgate leading out of Crushing Hell had been blocked by a party of unusual Revenants. They emitted an ancient aura of decay, indicating they weren’t Sealbearers sent to the Hollow Court. The undead monks showcased no hint of awareness despite being D-grade Revenants. They neither held onto their old memories nor had a new consciousness formed in their bodies. That left them as mindless zombies like those that once proliferated Earth’s Dead Zone.
+
+However, the Dharmic power of Buddhist warriors lingered in their bodies, making them exceedingly sturdy. For some reason, Saṃghāta’s pressure didn’t affect them in the slightest, despite the realm’s ongoing war between Death and Dharma. It didn’t make much difference to Tavza, who didn’t break a sweat dispatching the group.
+
+“Cursed vessels, but yes,” Tavza nodded. “These Underworld Notes held unusual Buddhist markings. Studying them didn’t provide any significant insights, so I restored the notes to their original state.”
+
+“Underworld Notes?”
+
+“A type of currency connected to the Eight Hells,” Tavza explained.
+
+“The Eight Hells have a currency?” Zac said in doubt as he thought back to his brief visits. “They don’t exactly strike me as mercantile empires.”
+
+“All eight hells hold large populations, including Saṃghāta. You just need to adjust your definition of citizens,” Tavza said. “That said, these notes purportedly hold more of a ritualistic purpose in most cases.”
+
+“Most? But not all?”
+
+“There are records of Ghost Markets appearing in the Eight Hells, mostly in Tapana, the Enlightened Hell. Those who have survived visits generally end up deranged because of its Laws. For one, it’s impossible to leave without completing a trade. Secondly, the merchants only accept two forms of payment; Underworld Notes and souls. When the customer lacks the former, they’re forced to pay with the latter,” Tavza explained.
+
+“I believe ancient monks entered the hells with currency tainted by their Dharma in hopes of having the notes enter circulation. It’s no doubt part of their soft siege on the Lower Planes. I’m not sure why these monks ended up in such a state, though. Perhaps they were punished by an angry Ghost Merchant. They are exceptionally powerful within their domains.”
+
+“They’re not counterfeit, right?” Zac asked, nodding at the stack of currency. “With how things are going so far, I wouldn’t be surprised if we encounter one of those markets.”
+
+“They shouldn’t be,” Tavza said in a tone that instilled little confidence. “Either way, it’s unlikely a true Ghost Market can appear in these small cross-sections. The markets are unique life forms made from the combined laws of the Eight Hells and an exceedingly large number of conjoined spirits. They wouldn’t survive in these isolated pockets.”
+
+“They have other uses, too,” Tavza added upon noting Zac’s waning interest. “They are a decent supplement in awakening rituals, and they can be used as Luck-enhancing Natural Treasures in the right conditions.”
+
+“They can really improve one’s Luck?” Zac exclaimed.
+
+Zac was somewhat interested in the notes for his future visits to the Eight Hells, whether it was to survive those Ghost Markets or to bribe his way out of a dangerous situation. However, that was something for the distant future, and the notes didn’t seem too rare. There were probably some stashed away in the treasuries of the Abyssal Shores, and he could stock up when he visited.
+
+It was a different matter if the Underworld Notes could boost his Luck. Luck wasn’t something you could have too much of, as far as Zac was concerned, even if the opportunities it brought occasionally came with mortal peril. And yet, he still hadn’t managed to reach the limit of what Luck Fruits could provide at his current stage. Such fruits were simply too rare on the frontier, and the stock on the Limited Exchange couldn’t match the bottomless demand.
+
+“Our kin cannot use them, nor can the living,” Tavza said. “It’s only for Revenants and Corpselords.”
+
+“Why them?” Zac asked, reluctant to give up just like that.
+
+“The awakened are born with a congenital defect in their providence. After all, they’ve stepped into someone else’s shoes, living a life that’s not theirs. Inheriting talents from someone else’s ancestors. This condition is further exacerbated when grudges are involved, like when using the corpses of one’s enemies,” Tavza said with a meaningful look. “If this grudge is strong enough, it can be inherited by the Revenant’s descendants, leading to a rapid decline of what should have been a powerful bloodline.”
+
+“Why haven’t I heard of anything like this?” Zac asked with a frown.
+
+“Most are ignorant or uninterested since the effect is generally not that severe. Providence is not easy to observe or measure. Just looking at one’s Luck isn’t enough. Furthermore, high-grade awakening rituals can mitigate the effect to a certain degree,” Tavza glanced at Zac. “In fact, your faction’s attempts to reconcile families across the veil of the afterlife might help resolve this hidden knot.”
+
+“And these notes can help those who can’t find closure that way?” Zac asked.
+
+Tavza nodded. “By erecting a grave and burning the Underworld Notes, you’ll provide recompense and closure to the departed. It will restore the congenital defect while incidentally increasing one’s Luck. The amount needed differs depending on circumstances. Generally, a higher-quality corpse demands a greater offering.”
+
+“Frankly, it’s wasteful to use the notes this way. Underworld Notes occasionally find their way to the prime dimensions on their own, but most are sourced by visiting the Eight Hells. Expeditions are exceedingly rare. The Undead Empire has agreements in place with the Realmlords not to invade, while other factions have little reason to visit such dangerous realms. The Empire also has other ways to remedy this issue for its prized Revenants. Staying in the Empire Heartlands long enough will resolve the issue.”
+
+“Heart of the Empire,” Zac muttered, figuring it was a boon from the Primo’s Eternal Heritage.
+
+Zac’s eyes were still glued to the stack of money, now for a different reason. Like Tavza hinted, he had plenty of followers who could make use of the Underworld Notes, including people inside the trial. Vilari was the one who stood to benefit the most if the quality of the corpse was the leading factor. Considering her past couple of years, she certainly fit the bill of someone with a hidden debuff to her Luck.
+
+Tavza could clearly see through his thoughts. “I can give you these notes after we’ve reached the Hollow Court.”
+
+“What do you need in return?”
+
+“I briefly sensed an extraordinary power from your chamber. I want to know what you did just now,” Tavza said.
+
+Zac inwardly complained. It was certainly convenient that all these rich heiresses, from Astora to Iz, and now Tavza, were content in trading resources for information. At the same time, it drove home just how poverty-stricken he was compared to the real scions of the Multiverse. Just once, he’d like to make a clean trade without involving his secrets or unpredictable Karmic entanglements.
+
+Still, in contrast to Astora’s offer, this was an exchange Zac could stomach.
+
+“I used a Core-improving treasure,” Zac said.
+
+“That doesn’t explain the fluctuations I sensed,” Tavza immediately rejected.
+
+“It does if the treasure was infused by the power of a Stellar Wanderer,” Zac shrugged.
+
+“Then your Cosmic Core…” Tavza hesitated with a slight frown on her face.
+
+“I won’t say it’s perfect, but it’s not far off,” Zac said.
+
+“You’re almost ready to break through again? How can a mortal cultivate this quickly? It doesn’t make sense!”
+
+Zac snickered as Ogras stepped out of the shadows, his face green with envy. “Are the Heavens blind? Have they turned their gaze away from this decrepit realm?”
+
+“The Heavens reward the handsome,” Zac said with a smile.
+
+“That cannot possibly be true, or I wouldn’t be suffering like this,” Ogras muttered.
+
+“Are the two of you done?” Tavza asked.
+
+“No, let me vent a few more minutes, or I’ll develop gout,” Ogras muttered, lifting his hands in surrender at Tavza’s withering stare. “I’m joking, of course. Please, do go on, Mistress An’Azol.”
+
+“How did you acquire a treasure infused with the fundamental power of the First Era?” Tavza asked.
+
+“The trade was to explain the source of the energy fluctuations, not where I sourced the item,” Zac said.
+
+“… Fine,” Tavza relented. “Nevertheless, you should be careful. You are not the first to draw on the powers of Ancient Arcana. Its transcendent nature seemingly makes it a perfect addition to any path and cultivation system. That’s also why it cannot be tamed. Instead, it will try to distort you in imperceptible ways, making it no less dangerous than the First Era’s corruption.”
+
+“I’ll be careful,” Zac promised before he froze with alarm. “Wait, what about the epiphanies? Like the ones we got from the seals?”
+
+“The pure enlightenment of Ultom should be different. It holds no latent will of the races of Ancient Arcana, as far as we can tell,” Tavza said, allowing Zac to breathe out in relief.
+
+His three-month deadline would be impossible without relying on a whole bunch of purified corruption. Not to mention, his whole path was propped up by the insights he’d accumulated under the influence of tainted bathwater and while collecting seals.
+
+“Thank God,” Zac muttered before turning back to Ogras. “Anything on the outside?”
+
+“Found a few trinkets, mostly rusty and in desperate need of restoration,” Ogras sighed. “No sign of our friends or foes. I’m starting to think we’re not seeing the real chasm. The terraces are completely exposed. I feel we should have spotted someone by now. We know that we’re not the first who made it here.”
+
+Zac had the same thought. They hadn’t traveled nearly as fast as Esmeralda, and they’d been further delayed by Mox. There was at least one party of humans that had arrived before them, and there were undead who’d gone ahead. There was also the extremely powerful cultivator who forced Zac into the storm where he found Tam’s memory lantern. Someone that powerful wouldn’t have any problems reaching the Hollow Chasm.
+
+“I’ve been considering this issue for a while, and I agree,” Tavza interjected, ignoring the exaggerated shock on Ogras’s face. “The Hollow Chasm is not as linear as it would appear.”
+
+“Meaning?”
+
+“We first visited the Fifth Garden, then the Third Hell. This sequence makes no sense, no matter what theories or concepts I apply. Neither do I believe the order is random, leaving me with one conclusion. The order of our crossing is chosen by destiny, and those walking another path will travel along a different route.”
+
+“Destiny…” Zac muttered. “Threads of Fate?”
+
+Tavza nodded. “The trial wants us to rectify the past, so it sends us where we can make the most difference. Accordingly, we shattered the status quo in the two realms we passed.”
+
+“Wait, if the trial sends us to the most suitable realms first, doesn’t that mean the opportunities will only get worse with every place we enter?” Ogras grimaced.
+
+“It would also mean that the risk of entering a realm in the middle of dangerous upheavals will increase as others complete threads of fate in realms we haven’t visited yet. There might even be people lying in ambush further down the road,” Zac added.
+
+“It’s only a working theory,” Tavza reminded him.
+
+Zac got back to his feet with a grunt. “Well, there’s only one way to find out.”
+
+Ogras laughed as he followed Zac out of the hidden chamber. “Are you getting antsy from the idea of someone else kicking up a storm when that’s your thing? Don’t worry; I’m sure you’ll find ways to make things worse.”

@@ -1,0 +1,185 @@
+---
+id: 2652a715-911c-5276-b3eb-aacc6e195bb3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,413 - Service"
+slug: 0092-chapter-1413-service
+partOf: defiance-of-the-fall
+position: 92
+ownLength: 3360
+unit: words
+publishedAt: 2026-03-24
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3189167/chapter-1413-service"
+royalRoadId: "3189167"
+---
+
+“That’s it? That’s the best you can do? These are quality goods, mister!” Emily slammed her hand onto the table.
+
+What she really wanted to do was grab the penny-pinching engineer by his collar and shake him until money started falling out of his pockets. Unfortunately, doing so would probably get her kicked off the mountain. The fact that she was dealing with a Divine Monarch didn’t help. She’d probably get smote by lightning the second she acted on the impulse.
+
+“Little miss, I’m not a merchant pushing for a better deal,” the bespectacled ascetic patiently explained. “I am but an instrument conveying your… contributions to the cathedral. The value of your service is decreed by the Heavens. If there was too much or too little, there would be a disturbance in the Law of Balance in our causality.”
+
+“Still, less than 5,000?” Emily said, unable to suppress her pent-up frustration. “It’s barely enough to enter your monastery.”
+
+“The problem is that your insights, while unrecorded, lack the depth necessary to bring forth noteworthy ideas. If you manage to advance your Dao to the next stage, there’s a good chance your contribution will be valued significantly higher,” the monk explained, glancing at the array of deadly machinery and blueprints spread out across the hall. “As for these weapons, I fear they hold limited value.”
+
+“Then what am I supposed to do?” Emily asked through gritted teeth.
+
+“There are infinite roads to sainthood,” the monk said with an infuriating smile.
+
+“If that were true, then why am I flat broke?” Emily countered before her eyes lit up. “You said my insights would become more valuable, right? How about an advance? I feel I’m close. Give me a tour of your Heavenward Monastery, and I might be able to repay you on the spot.”
+
+“What do you think?” the ascetic laughed as he got to his feet. “Focus on how you can serve the Empire, not what benefits the Empire can provide. The righteous path shall lead you toward what you seek.”
+
+“Sure, sure,” Emily muttered as she collected her offerings.
+
+Minutes later, she was once more walking through gilded hallways with their gilded ceilings and a complete lack of windows. Emily struggled to suppress her annoyance as she bowed at the two passing acolytes with their dumb, blissful expressions. Apparently, the true scripture of the Imperial Faith was imbued into the ever-changing patterns of the Radiant Court’s excessively large temples, but what good did that do her?
+
+It wasn’t fair. It took a series of near-death experiences and killing off a few competing Sealbearers to finally reach the Radiant Court. And what did she have to show for it? Almost nothing. Emily gnashed her teeth as she inspected her Visitor Badge. That’s right. Visitor’s badge, not Disciple Tokens or Court Member Insignias like most of the other courts apparently handed out.
+
+[Imperial Merit: 3,741]
+
+[Service: 6,233]
+
+The pitiful tally only reinforced her decision, and she reminded herself that this was just an experiment. Five thousand points of Service just to show off her toys and her Daos wasn’t too bad considering it had taken her nearly two months to accumulate the other 1,200. But it was clear she needed to switch things up if she didn’t want to sit out the rest of the trial.
+
+Emily’s thoughts drifted to the map she’d drawn by combining snippets of information collected in the outer libraries of the Radiant Court and her survey of the Inner Region—the Holy Land of the Left Imperial Expanse with the Radiant Court in its center.
+
+The whole holy mountain that housed the Radiant Court was one enormous memory domain, surpassing anything else she’d seen by a hundredfold. It housed four cities at its feet, six temples and four monasteries on its slopes, and a grand cathedral at the peak. After observing for a month, Emily had chosen to enter through the closest one.
+
+There were no dangers, but neither were there any opportunities. She’d been shocked to find the city barely held any Cosmic Energy. It was just barely enough to sustain a Hegemon, but cultivation was out of the question. Unsurprisingly, most of the locals were mortals, and what they lacked in cultivation, they made up for in blind, unwavering faith.
+
+The mortals were the Empire’s most ardent devotees, brought from every corner of the Left Imperial Expanse. Their endless, unblemished faith nourished the holy mountain and formed a mutually beneficial relationship with the powerful Faith Cultivators residing there.
+
+Emily still didn’t exactly understand why a mortal’s faith was so useful to the Templar Orders, but she was shocked to find that most of the mortals had lived in the cities for thousands of years. Their faith alone helped sustain them far beyond what should be possible. Interacting with these unusual devotees probably held amazing opportunities for any Faith Cultivator, but they were useless to Emily.
+
+She’d only stopped for a few days before ascending the Steps of Inquiry that separated the mortal and immortal domains. The ascent certainly had its dangers, but preparation and some luck made it much easier than most of her experiences getting this far.
+
+The facilities were much better in the temples. The ambient energies were dense enough to leave you drunk, and the training halls made the Ensolus Ruins back home look like a joke. There were even earth-shattering opportunities waiting in the monasteries and the inner halls of the temples. According to rumor, the Cathedral had three pools, each better than the last.
+
+The Three Purities Pool could cleanse anyone of their earthly filth. It was the most sought-after goal among the ancient sealbearers since it would rid them of all their Earthly Taint—even natal impurities that otherwise were impossible to get rid of. Emily could benefit too since the pool also eliminated Pill Toxins, sequelae from battles, spiritual impurities, and even Heart Demons.
+
+The others were even better. The Primordial Pool could reach into the depths of one’s existence and awaken slumbering bloodlines. Normal humans could reignite the most powerful constitution in their genealogical history, even if it had been separated by countless years and thousands of generations. Emily wasn’t as interested in that one. She had no idea what kind of bloodlines she carried, and there was no guarantee they’d mesh with her path.
+
+The most promising one was the Four Desolates Pool. If the Tribulation Throne that gave Zac an incomplete Cosmic Attainment was the prototype, then the Four Desolates Pool was the finished product. It could give even the trashiest cultivator Middle-grade Cosmic Attainment. If lucky, you could achieve High-grade Cosmic Attainment.
+
+Emily had made the Four Desolate Pool her main goal since she couldn’t figure out how her presence at the Radiant Court could help Zac. A dip in those Law-imbued waters would directly turn you into an Eonic Seed. Forget about the Titles; one’s affinities would shoot through the roof. It would blow the door wide open, paving a straight path to Monarchy and beyond.
+
+One could dream.
+
+Forget about saving enough money to enter the cathedral; Emily was only left with an emergency buffer after two months of cultivation. She’d spent Imperial Merit like water to power up. It wasn’t really a waste since the good resources in the Radiant Court only accepted Service, and there was no way to exchange the two currencies. Two ancient sealbearers had already been kicked off the mountain for soliciting private trades.
+
+The obvious answer was to work hard and accumulate wealth. Unfortunately, Emily had quickly come to realize that nearly all sources of Service required faith. There were no trials with awards like back in the Ensolus Ruins, nor any giveaways for reaching certain thresholds. The stingy bastards didn’t even provide a single point of Service as a welcome bonus.
+
+The easiest way was to simply sit down and pray. Part of the faith you accumulated by praising the Old Emperor’s name would be added to your account. Naturally, faithless heathens like Emily were out of luck. The templars would reluctantly let you use their training halls in exchange for merit, but they kept the good stuff for themselves. The ascetics hiding in the monasteries didn’t even extend that level of courtesy.
+
+Emily wasn’t one to give up. The trial was all about improving the past, and the Radiant Court was no exception. Emily already understood the main purpose of the Radiant Court. It was responsible for the creation of the memory lanterns that had kept the souls safe for all these years. This was the task Emily had assisted in by infiltrating the Sun-worshipping cult.
+
+She’d yet to find any new inroads to further that goal, but it looked like the Radiant Court was tasked with more than one mission. She suspected the Radiant Court was chiefly responsible for suppressing the Heavenly Judgment while the Fifth Pillar’s Grand Array came online. Emily had found out about it through sheer coincidence.
+
+One day, she noticed a group of ascetics emerge from their sealed monastery. They flew over to the Temple of Dawn, where they began installing lightning rods that looked similar to the ones that had powered the tribulation throne. A few days later, a series of tribulations rained down from above. For a moment, it was as if the world had frozen in place.
+
+The lightning had been trapped by the spikes and turned into conduits for thick currents of Imperial Faith. It rushed into the Heavenly Clouds, and Emily briefly saw a complex golden pattern appear before two of the spikes exploded. The formation in the sky collapsed before it could fully form, and the spikes were gone the next day.
+
+Watching the twelve lightning bolts frozen in place sparked a small epiphany for her Dao, and it gave her the idea to display her War Machines and Daos. She wasn’t so arrogant as to genuinely think that her toys were of any use to the Limitless Empire, but she had an advantage that even the saints of the Radiant Court lacked.
+
+The Radiant Court evidently focused on the Peak of Faith and the Heavenly Peak. Emily had no connection to the former, but the Lightning of her seasonal path was definitely connected to the Heavenly Peak. Furthermore, the Heavenly Peak remained incomplete to this day, not to mention how it looked back during the Empire’s heyday.
+
+Some of the insights she displayed could prove groundbreaking for these tinkering ascetics, helping them perfect their contraptions. The idea proved feasible, though she hoped for more than 5,000 Service for her input. Even if she managed to advance the relevant Earthly Dao to Middle Stage, it was far from enough for a visit to the Four Desolates Pool.
+
+Emily had looked high and low and arrived at an unavoidable conclusion. She needed to descend from the mountain, leave the Radiant Court, and provide acts of service in the surrounding holy lands. The dozens of memory domains within reach all had threads of fate waiting to be resolved, and not all required access to faith to resolve.
+
+Emily had an inkling that her contributions would provide Service rather than Imperial Merit now that she held the Visitor’s badge of the Radiant Court. A few other sealbearers had the same idea and had already left the court. Emily neither had the time nor patience to wait for their return. She needed to get going. Even if the plan didn’t work exactly as she’d hoped, it was still an opportunity to refill on Imperial Merit.
+
+Descending the mountain by foot would take days. Thankfully, the templars had installed a series of faith gates, and Emily gladly paid 20 Service to be brought straight to the Steps of Inquiry. She was surprised to see she wasn’t alone. A party of three was hovering at the bottom of the stairs. They didn’t feel right, as in not feeling like people of the ancient era.
+
+Emily knew the trio couldn’t see her thanks to a mountain-spanning array. She still snuck behind one of the massive statues that lined the end of the steps and took out a sound-amplifying array.
+
+“No more stalling. We’ve been waiting for three days already. Who knows when the next sealbearer will arrive?” the clear leader said with obvious impatience. “Test it out, and that’s an order.”
+
+The young man sent a hopeful look the girl’s way, but she studiously looked down at the ground. He sneered and turned back toward the steps. After taking a minute to compose himself, his foot landed on the first step. The inquiry had begun, and Emily immediately realized they hadn’t figured out the hidden trick.
+
+“WHO ARE YOU?”
+
+The booming voice came from a statue further down. It was loud enough to give Emily’s soul a good shake, and she wasn’t even the recipient. Still, only those right by the stairs would hear the question.
+
+“I am Mesin Dinsur of the Radiant Temple,” the sealbearer said with a vacant expression as he ascended to the next step.
+
+“WHY ARE YOU HERE?”
+
+A stream of Imperial Faith entered Mesin’s body when he failed to answer. Green smoke was pushed out through his seven apertures the next second, and he took a shuddering breath before answering.
+
+“I was ordered by Master Terfin.”
+
+‘I knew it. The steps can remove seals of secrecy,’ Emily nodded to herself while taking note of the leader’s appearance.
+
+Emily already knew that both the Havorak Empire and Radiant Temple were working for a greater force. It was to be expected, seeing as Ultom wasn’t something B-grade factions could contend with. The local B-grade overlords were simply drafted because of their proximity and karmic links to the Zecia Sector. Seeing the difference in status between Mesin and this Master Terfin, he might just come from that superior faction.
+
+“ARE YOU LOYAL TO THE EMPIRE?”
+
+“No.”
+
+Emily sighed, knowing the inquiry was over just as it began. The leader who’d sent his underling had arrived at the same conclusion, and he’d also been implicated by the inquiry. A powerful fluctuation erupted from his chest, but it was strangled by an overwhelming surge of Imperial Faith. He and the girl were both pulled onto the stairs, where they immediately lost any sense of self.
+
+“WHO ARE YOU?”
+
+“I am Jon Terfin of the Phusudor Republic.”
+
+“I am Inda Endemire of the Allbright Empire.”
+
+“What the hell? It’s her?” Emily blurted and shot down the stairs as the inquiry continued.
+
+“ARE YOU LOYAL TO THE EMPIRE?”
+
+Emily appeared before Inda before she could answer. Thankfully, she wasn’t questioned on her way down. Emily placed her left hand on the girl’s forehead and breathed out in relief when the Imperial Merit successfully transferred over.
+
+‘Idiot, say yes!’ Emily roared in a telepathic message as Inda’s vacant eyes regained their focus.
+
+“Y-yes,” Inda said as she looked around in confusion and fear. “Yes, I am.”
+
+‘Good. Now channel the Imperial Merit in your seal every time you need to lie.’
+
+Twenty minutes later, Emily sat inside her little cottage with a reluctant Inda on the opposite side of the table.
+
+“Why are you looking at me like I drowned your puppy? I saved your life!” Emily scoffed. “Bunch of fools running in blind. Interfering cost me a thousand merit, you know?”
+
+“You also forced me to divulge secret information. I’ll be questioned when I leave. Do you think the Phusudor Republic will look the other way? Or the Grand Unity Hall, for that matter?”
+
+“I was curious about the bastards who screwed over Zecia, okay? Giving me the inside scoop was the least you could do,” Emily said with a shrug. “Beats getting carted off to the dungeons like your companions.”
+
+Inda Endemire had become an outer disciple of the Radiant Temple after seizing a Soultaker Seal during the war. Both the temple and Havarok Dynasty were part of a coalition led by the Phusudor Republic. The republic was a Peak B-grade faction with a Taoist tradition that wasn’t dominated by a single clan.
+
+Instead, the top families held office for roughly 50,000 years before handing over the reins. The mortals and lower factions didn’t know it was an intentional process, believing it was a natural rise and fall of dynasties. Both Emily and Zac had suspected that the ultimate controller above the Phusudor Republic was the Seven Heavens, or at least one of the peak Human Dynasties.
+
+It turned out they were wrong. While any top-tier human faction was bound to have some dealings with the Seven Imperial Clans, the utmost leader was actually a sect called the Grand Unity Hall. Inda didn’t know many details since her handler was only a descendant of the republic who’d bought passage from the Kan’Tanu Sect.
+
+Apparently, the Grand Unity Hall was considered the origin of the “Hundred Schools of Thought” of Taoism. The Phusudor Republic was only one of multiple factions under their control. While not considered an absolute peak faction like the Buddhist Sangha or the Seven Heavens, the three schools of Confucianism, Legalism, and Daoism all had a Supremacy presiding. It was also a major player connected to the Peak of Order, which held certain advantages in the current Era.
+
+Reportedly, the Grand Unity Hall was also among those who’d benefited the most from the Limitless Empire’s fall. The sect only appeared after the Dark Ages, but many of its heritages could be traced to the Limitless Empire. While they sounded impressive enough, Emily didn’t have a good impression of them. Those scumbags were complicit in Zecia’s fall.
+
+The Grand Unity Hall wasn’t above purchasing dozens of seals from the Kan’Tanu Cult, providing the cultists with high-grade resources not available in the frontier. While the top-echelon fighters would still have been stronger on the cult’s side, their contribution had made the situation worse. The Hall Masters of the cult had grown stronger thanks to the Grand Unity Hall, adding to the high casualties of Monarchs within the Zecia Alliance. Without enough fighters at the top, the alliance eventually crumbled.
+
+The Grand Unity Hall wasn’t here to compete for Ultom. Many of their inheritances were incomplete, and their sealbearers were tasked with finding specific treasures and manuals inside the outer courts.
+
+“Don’t worry so much. You can still finish your mission. Do you think the sect will care if some fool from a subsidiary faction died if you managed to bring out a valuable inheritance? If all else fails, you can come live with us. My master owes your grandpa a favor, so he’ll welcome you with open arms. I’ll protect you in his stead until then,” Emily grinned.
+
+“Please, everyone knows you got all that contribution from riding Lord Atwood’s coattails,” Inda muttered under her breath, though she did look a bit better.
+
+“What was that?” Emily said as malice began seeping from her tomahawks.
+
+“N-nothing.”
+
+“Then let’s head out. We lose face every day the Radiant Court remains in last place,” Emily said.
+
+“How is that my problem? I’m a Soultaker of Ultom,” Inda complained as she followed Emily out the door.
+
+“Not since you got your hands on that lantern.”
+
+“Didn’t ask for that either. Who in their right mind would come here willingly? Those templars are insane.”
+
+“Should have thought about that before you started flirting with that young master,” Emily snickered.
+
+“What do you know!” Inda said with a glare. “My whole clan collapsed after the Patriarch was killed, and the Allbright Empire was going up in flames. I would have ended up like Mesin sooner or later if I didn’t find myself a new backer.”
+
+“A love story for the ages,” Emily mocked. “Well, why not try shaking those hips for me, cutie? I happen to know where to get one of the items on your list. I’ll tell you all about it after you’ve helped me with a few things.”
+
+Emily snickered upon seeing a calculative gleam of ambition appear in Inda’s eyes. Inda was right, the templars were crazy, and there were plenty of dangerous sealbearers running around. It couldn’t hurt to bring along a patsy.

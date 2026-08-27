@@ -1,0 +1,127 @@
+---
+id: df442d70-d13f-5dae-b3a6-42654657c140
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 2"
+slug: 0225-b4-chapter-2
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 225
+ownLength: 1365
+unit: words
+ownProgress: 1365
+publishedAt: 2024-11-07
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1890626/b4-chapter-2"
+royalRoadId: "1890626"
+markedReadAt: "2026-06-29T19:13:23.286Z"
+---
+
+Aria
+
+I stare blankly at the stacks of paperwork sitting on my desk as I rest my chin in the palms of both my hands and my elbows sitting on the desk. Just wondering why I have to deal with paperwork.
+
+It’s so annoying. The entire reason I hired Little Blue was so that I wouldn’t have to deal with paperwork. So that she could deal with it all for me.
+
+But nope. Apparently, while she can do most of the paperwork, some of it absolutely requires the signature of the person at the top of the food chain here.
+
+I let out another sigh before sitting up straight and spinning my chair around to look out the window at the very long line of applicants to the mercenary company. A line that I swear only gets longer by the day.
+
+Because it probably is getting longer by the day.
+
+All because news is finally getting out to the universe as a whole about some of my actions over the years. Some of the wars I’ve fought in, conflicts I’ve resolved, situations I’ve handled, and even the wars I just kinda sat by and watched. Like the one with the Grand Silvanian Empire not too long ago.
+
+Then there’s news about my presence here for Shirogane’s little ceremony to officially grant him the title of Crown Prince. A ceremony that some people higher up in society are apparently calling ‘Death’s Debut’, since it’s the first time I’ll have shown up in an official ceremony where all the important nation leaders will be attending.
+
+I felt a little bad for Shirogane at first due to this attention, but he’s apparently rather happy with it all. Mostly because it creates a connection between me and Shirogane in the eyes of the other nations, showing a good standing between us.
+
+So I guess it’s fine so long as it doesn’t bother him.
+
+But it is still annoying.
+
+I hear the door to my office opening, making me immediately spin around to focus on the paperwork again as Little Blue exclaims, “Please focus on your paperwork. You have to get this paperwork done by the end of the ceremony Aria.”
+
+And the nagger is back.
+
+“Can’t I just designate you as having the authority to sign for me?” I complain while glaring at the paperwork in front of me. Then I raise my head and add, “And why do I need to sign a document about some set diet for the mercenaries anyways?”
+
+Little Blue sighs and explains, “Because unlike you, we all have to eat. And what we eat determines the physical health and fitness of our bodies.”
+
+I blink at that before looking down at the paper and muttering, “Sounds like a pain.”
+
+Little Blue sighs again. A common occurrence these days.
+
+It’s rather sad how things progressed to this point. When I first stopped by Atlantis a little while back and asked if she wanted to take a job managing my company, she was quite thrilled. But she always gets like this when the paperwork stacks up.
+
+And she’s rather scary if I try to say no.
+
+“Little Blue, what do you think about a two-week-long vacation?” I ask with a bright smile on my face.
+
+She just stares at me.
+
+“Okay, then how about a month-long vacation?” I continue, my smile growing a little.
+
+She keeps staring.
+
+“Fine,” I mutter, “then how about a year-long vacation? Paid in full.”
+
+“First of all, I’m not a kid anymore. Please don’t call me Little Blue,” she says, a very slight blush on her otherwise stern face. Then she says, “Secondly, why do you keep extending it instead of shortening it?”
+
+“I’m sorry, Little Blue, but you will always be a kid in my eyes,” I tell her with a firm nod of my head, making her drop her face into her hands with another sigh. But when I open my mouth to speak again, the buzzer on my door rings. So I call out, “Come in.”
+
+Nice. A break from paperwork.
+
+Little Blue squints her eyes at me as if she just read my thoughts, but I ignore her to focus on the mercenary who enters the room and immediately salutes me.
+
+“Lady Death, the recruitment department believes you may want to see what’s happening in the training hall right now,” the mercenary says without any hesitation, having learned by now that I don’t like wasting time with formal talk and greetings.
+
+I share a glance with Little Blue before turning to a device on my desk and saying, “Crimson, please pull up the feed from the training hall.”
+
+The AI responds right away by making a holographic screen appear in front of my desk.
+
+|Showing the main training hall.|
+
+Little Blue walks around the desk and stands right behind my chair to the side, looking over my shoulder at the screen. Meanwhile the screen itself shows Sel, Little Blue’s older sister, fighting with all she’s got against a man with a relatively uncommon appearance. He is rather short, with purple hair and eyes, and a black and purple high tech set of armor.
+
+“Name and level?” I ask while resting my cheek against my fist, my elbow on the armrest of my chair.
+
+|The recruit’s name is Yakashi Kito, and his level is 612.|
+
+“His level is over a hundred below Sel’s, yet he’s keeping up like this…” Little Blue mutters while leaning against the back of my chair with her head sticking out over my shoulder.
+
+By the looks of it, he’s a mage. One with gravity magic, considering the purple coloring and how his body is moving far faster than it should otherwise move. Not to mention how he seems to be weighing down Sel with his magic as well.
+
+But the spell circles he’s using… and those spells I can sense engraved in his own flesh…
+
+|It is estimated that Yakashi Kito is a Class S Gravity Mana Control ability holder.|
+
+“My thoughts exactly,” I mutter while watching the two go at it despite the large level gap between them.
+
+Mages have different Classes for their abilities. And while a low Class mage can catch up to a higher Class mage, they do have inherent advantages. Like the limit of how many spells can be engraved into their flesh, what types of spell circles they can cast, and how much mana they possess.
+
+Honestly, if the Arcadian Society were to find out about this guy, they’d probably come knocking just to get him to join them.
+
+“Huh,” Little Blue mutters while tilting her head a little. “Wasn’t expecting to recruit a Class S ability holder so soon.”
+
+But it sounds like you were still expecting to recruit one.
+
+I don’t say that out loud though.
+
+It is rather surprising to have a Class S joining us, if I’m being honest with myself. Although, at the same time, I don’t really care one way or another.
+
+After all, while this mercenary company is technically mine, I have nothing to do with building it up to where it is today. Other than my name attracting people here.
+
+I mostly just use it for my own convenience and forget about it afterwards.
+
+Little Blue is the one responsible for taking charge of it.
+
+She’s also rather happy with it, since the mercenary company she manages on Atlantis isn’t anywhere near as big as mine has grown. And she can use mine from time to time to help out hers.
+
+Both Little Blue and I watch the battle for a little bit as Sel and the mage go at it. But eventually Sel manages to beat him. Not until long after that time limit she gave, though. Which lets the Class S gravity mage immediately skip the rest of the tests to join us.
+
+I watch for a few seconds longer as Sel and the man shake hands, then I comment, “I kind of want to meet him.”
+
+Little Blue looks at me for a second before saying, “I’ll add it to your schedule.”
+
+Good.
+
+“Now back to your paperwork,” she adds, making me grimace.
+
+Not good.

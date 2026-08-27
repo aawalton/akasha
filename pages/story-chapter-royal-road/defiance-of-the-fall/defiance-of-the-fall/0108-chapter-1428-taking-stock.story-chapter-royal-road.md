@@ -1,0 +1,165 @@
+---
+id: 0a329d96-98f9-590e-ad49-326f20da1b14
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,428 - Taking Stock"
+slug: 0108-chapter-1428-taking-stock
+partOf: defiance-of-the-fall
+position: 108
+ownLength: 3116
+unit: words
+publishedAt: 2026-04-30
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3338024/chapter-1428-taking-stock"
+royalRoadId: "3338024"
+---
+
+Six days passed without a hitch, and redrawing his pathways went exceedingly well. For once, there were no damaged sections that needed to be redrawn from scratch when upgrading the fractals. Between its weakened state and Zac’s Early Stage Law-attuned body, the Four Desolates had failed to cause any permanent damage to him. He’d fully recovered over the following month, and the Bloodline breakthrough didn’t cause him any harm at all.
+
+While there were no new upsets, the passage of time allowed Zac to confirm two points. First, the lights they presumed pointed to the Left Imperial Palace showed no indication of going out. On the contrary, each day brought them closer to forming a fully-fledged pillar like the Outer Courts. Zac estimated it would take no more than three months before it fully formed.
+
+Whether the appearance of the Left Imperial Palace spelled the end of the current phase of the trial was too early to say. Most likely, the Outer Courts would remain open a while longer. After all, some weren’t even halfway done forming their halos. With plenty of threads of fate remaining unsolved, Roan and Wartorius would have to be crazy to trigger an early conclusion.
+
+Zac leaned toward the Left Imperial Palace simply opening its gates like the Outer Courts, presenting its own set of opportunities for those fated. For instance, Zac still held the Limitless Merit stored in the Wendimar Clan’s token. That superior merit could provide access to the very best of the Empire’s reserves, and it was definitely something Zac wanted to spend before the trial ended.
+
+Whatever the case may be with the Left Imperial Palace, Zac would try to finish his tasks before the three-month deadline. Everything was in place for seizing [Second Singularity]. Idiche even showed them a glimpse of the future, providing him and Esmeralda a rough map of how to reach the sanctum where the Supreme Natal Treasure was stored.
+
+The matter of the Primo’s treasure was more of a headache. There was still no sign of Tavza a week later. Thankfully, it wasn’t a matter of life and death like his mission in the Mercurial Court. There was still a decent chance of salvaging the situation so long as it was the An’Azol Descendant who ended up seizing the Primo’s treasure.
+
+Zac's being the sole descendant of the Eoz branch remained the critical link between him and the Abyssal Shores. As Tavza said herself, she had no reason not to give him the treasure after confirming it aligned with the goals of the Abyssal Shores. Should that fall through, the shores should still put some effort into protecting Zac’s budding empire.
+
+Furthermore, there was still a chance all his problems would already be solved by the time he emerged from the trial. The intersector war had already ended on the outside, and the small Atwood Empire stood head and shoulders above even Zecia’s C-grade factions. If the System planned on providing any with a new lease on life, it was them.
+
+Still, getting his hands on the Primo’s treasure was Zac’s best option. His recent experience with the Void Tree and the disappearing tribulation was a poignant reminder that gifts from old monsters came with strings attached. It was too easy to find oneself entangled in a web beyond his comprehension.
+
+Rather than relying on the benevolence of the Abyssal Shores or any other old monster, he wanted to make an equivalent exchange with the Primo: the treasure for a guarantee of safety, possibly moving the Atwood Empire to another part of the Multiverse. That way, he could continue his cultivation journey without a weight on his heart.
+
+The other point of note was the indications that the Duplicity Core’s sealed state wasn’t the new normal. It was gathering power, and the accumulation had exponentially sped up after Zac wrapped up his Core Formation. On top of the constant drain on the Cosmic Sea’s rootless energy, the Duplicity Core consumed increasing volumes of Dao, Vigor, and Peak D-grade energy.
+
+Zac would be lying if he said he wasn’t worried as he felt fate gathering. The Duplicity Core was fast approaching a tipping point. He’d only survived on a hope and a prayer when it went berserk during his D-grade breakthrough. Splitting himself into two was a shot in the dark, and surviving the ordeal was more luck than foresight. He couldn’t depend on always getting lucky that way.
+
+What if the Duplicity Core wanted him to return to one body again? If need be, Zac was ready to ferry his human half to the Mercurial Court with the help of [Fuxi Mountain Gate]. It meant giving up on the Hollow Court’s opportunities and the Primo’s treasures since there was no way he was getting back there again, but it beat having his body torn apart by quantum forces. If all else failed, Zac would strangle the Duplicity Core until it was thoroughly suppressed and keep the lid on it until he got his hands on the Kayar-Elu’s research in Sanctuary.
+
+On the seventh day, the Duplicity Core erupted with power. Zac’s heart lurched when cracks appeared across its surface, though he calmed down when flakes began sloughing off. New, pristine pathways matching his Daos appeared beneath. Like before, the Duplicity Core seated in his Draugr body conveyed a mix of Death and Conflict, while the one on his human side matched his Evolutionary Path.
+
+The relief was short-lived. It only took a moment for Zac to notice that while the Duplicity Core retained the correct Daos, its pattern was no longer a perfect match to his Cosmic Core. Until now, its pathways had faithfully followed his path. That feature was an important reason his Core Formations were much smoother than those of other mortals.
+
+Why had it changed? What did the alterations hint at? It wasn’t an issue of grade, where the truths engraved on the Duplicity Core exceeded Peak D-grade in preparation for Monarchy. On the contrary, Zac felt the concepts on the Specialty Core were a step below that of his actual core. And yet, the additions felt weirdly familiar.
+
+The Technocrat Core provided the answer before Zac could draw a conclusion himself. It released an overbearing pulse that severed the Quantum Space’s connection to the Cosmic Sea, officially ending his Peak D-grade Breakthrough. That was only the beginning. The pulse was omnidirectional, spreading through every inch of Zac’s body.
+
+The wave passed unnoticed until it reached his Soul Aperture. Zac briefly saw double as it felt like someone had taken a hammer to his soul. The pain grew worse as extraordinary energies appeared out of nowhere, filling every inch of his aperture. Meanwhile, Zac's newly reformed Cosmic Core was showered in the light of meaning, giving further depth to the energy it stored.
+
+A second pulse made the agony worse, and Zac felt a tremendous pull. He felt as though a black hole had opened in the center of his body, drawing in Zac's whole existence. Zac suppressed the natural instinct to fight back, to defy the foreign will. He’d already understood what was going on. Instead of resisting, he willed his soul to enter the unknown.
+
+Absolute darkness followed blinding light, and the pain was no more.
+
+A comfortable sensation greeted Zac when he came to. It was distinct from gaining Cosmic Alignment. Rather than moving in step with the Four Laws, Zac felt complete in a way he’d rarely experienced since separating into two bodies. It was similar to the state he entered during bouts of enlightenment, like when he glimpsed the path forward of his Techniques during his battle with Naruk.
+
+For better or worse, his bodies hadn’t been forcibly brought back together. Zac turned his attention inward, setting his sights on his Quantum Space. It was thirty percent smaller than before, and it was still shrinking at a glacial pace. More importantly, his Cosmic Core was no longer alone. The subspace was filled with stardust made from pure truth. In the heart of the mists were two stars: one black, one gold.
+
+The scene was an inversion of the natural order. The smaller stars were caught by the gravitational pull of a supersized world, creating a geocentric solar system. The stars cast their light of Dao onto the world, creating a cycle of deathly nights and vibrant life brought by daybreak. In return, boundless energy rose from the planet, filling the suns with the energy to continue their cosmic dance. Zac shifted focus to his mind. As expected, there was nothing. His Soul Aperture was gone, or rather fused with the Quantum Space holding his Cosmic Core.
+
+The situation was similar to what you’d see in a Monarch. The Inner World became their true nucleus after it was forged, and their Soul Aperture was moved to the center of that world. It could be likened to becoming the Realm Spirit of the world you’d just created.
+
+This was another reason why killing Monarchs was so difficult. Both their physical and spiritual cultivation was hidden in the depths of a subspace. One’s true body was still a necessary bridge to the world and the Heavens, but killing them required targeting their Inner World.
+
+Zac hadn’t reached that point yet. There were clear differences between Zac’s situation and a Monarch’s natural state. Most importantly, his Soul wasn’t actually hidden in a proper subspace. Targeting his soul hadn’t become any harder than before; the unusual placement might catch them by surprise.
+
+The Cosmic Core and Soul Cores also hadn’t undergone a true fusion into an actual world. It was only the spaces themselves that had become one, and even that union wasn’t perfect. There was an intangible layer of separation between the soul aperture and Quantum Space, as if they had yet to perfectly fuse. Following a hunch, Zac opened his Status Screen.
+
+Name                  Zachary Atwood
+
+Level                    225
+
+Class                    [D-Arcane] Evolutionary Precursor
+
+Race                     [C] Human - Void Emperor (Corrupted)
+
+Alignment          [Zecia] Atwood Empire – Viscount of Conquest
+
+Titles                    [...] Exalted Destiny, Atavistic Defier, Valiant Viscount, Cosmic Entity, The Third Step
+
+Limited Titles     Tower of Eternity Sector All-Star - 14th, Equanimity, The Final Twilight - 1st, Gates of Rebirth, Void Road, Chosen of the Empyrean Chalice
+
+Dao                      Earthly Dao of Defiant War - Middle, Earthly Dao of Reborn Life - Middle, Earthly Dao of Sealed Death - Middle
+
+Core                     [C] Evolutionary Core
+
+Strength             495,413 [Increase: 256%. Efficiency: 567%]
+
+Dexterity             234,929 [Increase: 196%. Efficiency: 363%]
+
+Endurance         265,106 [Increase: 226%. Efficiency: 594%]
+
+Vitality                309,849 [Increase: 240%. Efficiency: 643%]
+
+Intelligence        55,793 [Increase: 176%. Efficiency: 363%]
+
+Wisdom              121,594 [Increase: 179%. Efficiency: 381%]
+
+Luck                     2,249 [Increase: 219%. Efficiency: 488%]
+
+Free Points        1,000
+
+Nexus Coins       [D] 87,831,997
+
+The Status Screen itself looked nearly identical to a week ago, after he’d successfully formed his core. While the attribute gains of Hegemony weren’t as pronounced as the previous grades, there were still certain perks associated with reaching the peak of the stage. First off, the raw attribute boost of reaching level 225 was the equivalent of five levels, both concerning free points and fixed gains. With Zac having two classes, the effect was quite noticeable. There was also a new entry on his title screen after staying the same for quite some time.
+
+[The Third Step: Reach peak of D-grade. Reward: Luck +10, Base Attributes +1,000.]
+
+The title brought no surprises compared to the previous ones. The title he received upon opening his last node in E-grade provided 10 to all attributes and 90 to Base Attributes. These kinds of low-tier titles didn’t make much of a difference to Zac at this point. The real benefit of reaching Peak Hegemony was still the vastly superior energy density and transmission of his upgraded core.
+
+The only addition was that the line listed as “Core” had gone from D-grade to C-grade Evolutionary Core. The change didn’t come with any attributes. Continuing on, Zac revisited his bloodline screen.
+
+Bloodline                        [C - Corrupted] Void Emperor, [D] Children of Draug - Eoz
+
+Talent                              Force of the Void - 66%, Void Zone, Void Mountain, Earthly Dome
+
+Bloodline Nodes          [D]Void Heart, [D] Spiritual Void, [D] Purity of the Void
+
+Nodes                             [D] Adamance of Eoz, [D] Conviction of Eoz, [D] Immutability of Eoz, [C] Origin Point
+
+The change to [Force of the Void] from 99% to 66% wasn’t new either. It happened immediately upon finishing his Core Formation. Going by volume, it remained a significant boost. Having 66% Void Energy of his Peak D-grade Cosmic Core was more than three times the total of having 99% of a Late D-grade core. Whether he would be able to nourish his Bloodline until the number went back to 99% remained to be seen.
+
+The important change was to the Hidden Nodes. Zac had already sensed as much, but he was still disappointed that most of his nodes remained at D-grade. He’d held out some small hope that his transformation would continue after the Duplicity Core wrapped things up. He was right in a sense, but only when it came to his Technocrat nodes.
+
+Just like his Soul Aperture and Quantum Space had become one, so had [Alpha Link] and [Omega Link] fused into a C-grade Hidden Node called [Origin Point]. Zac hoped that “origin” didn’t refer to his Selvari heritage. And from what he’d seen, it didn’t. Recalling the black hole that drew all of Zac’s cultivation to itself, the term seemed like a return to the origin. His path focused on a single point.
+
+“Thank God I switched things up with the [Nine Reincarnations Manual],” Zac muttered as he closed the screens.
+
+The original [Nine Reincarnations Manual] was designed to have the nine nourish the one, meaning that one would either align their soul to Life or Death. The other element would be reduced to a supporting role. That outcome was unacceptable to Zac, who equally pursued both Daos. He’d decided to stake out a new path by forming two Soul Cores instead of one.
+
+The decision caused significant delays to his Soul Cultivation, but it saved his life today. The fusion of his two Quantum Spaces only progressed so smoothly because they were mostly harmonized already. If he’d cultivated the original method or an unattuned Soul Nurturing Manual, there would have been a conflict between the spaces like when the Duplicity Core tried to fuse Life and Death while becoming a Hegemon. The weaker space, in Zac’s case his Soul Aperture, would most likely have collapsed.
+
+The new set of runes covering the Duplicity Core was the result of combining his Soul Cultivation and the pathways of his Classes. The reason Zac felt they were somewhat subpar was likely due to his lagging Soul Cultivation. While his soul was stronger than the average Peak Hegemon’s, much of that was the result of fortuitous encounters and tempering himself through battle. His actual mastery of the [Nine Reincarnations Manual] was barely the equivalent of Early D-grade.
+
+The slowly shrinking space of Quantum Space was related to the lack of strength in his soul as well. It couldn’t currently support a microcosm of that size, so it was automatically adjusting itself to a state of equilibrium. While somewhat regrettable, it didn’t affect Zac’s cultivation or combat ability. The realm was still close in size to the Inner Worlds of the Monarchs he’d fought during the trial. His Cosmic Core and Soul Cores felt as small and insignificant as planets did in outer space.
+
+Zac spent the next hour trying out a few things, at which point he finally relaxed. The switch-up brought more benefits than downsides. The centralization of Dao and Energy made control much smoother. Zac could now effortlessly attune his energy as it left his core, slightly cutting down on skill activation time.
+
+The synergistic effect of [Void Emperor Apotheosis] had seen a decent boost. His Soul Cores, especially, saw significant benefits when directly nourished by the roaring energy of his Peak D-grade Cosmic Core. Zac didn’t even need to cultivate for the nebulaic clouds to slowly gather strength from the emanations of his core.
+
+The slow leakage of spatial integrity remained a cause for concern despite being barely discernible. Channeling his bloodline couldn’t do anything to stop it. Actively rotating his Soul Cores at maximum efficiency did temporarily stabilize the realm, but Zac couldn’t maintain such a state permanently. The only real solution seemed to be focusing on his soul until it grew strong enough to cover the whole realm.
+
+There was one more question Zac failed to answer. Since he couldn’t figure things out on his own, he emerged from seclusion to confer with his mentor.
+
+“What do you think? Have I become a Half-step Monarch?” Zac asked after explaining the situation.
+
+“I—I have no idea. Why can’t you do things the normal way?” Esmeralda grumbled, staring at Zac with exasperation. “Here, rotate your energy and punch this.”
+
+A spatial field appeared between them, and Zac immediately followed the instruction. He experienced the feeling of being trapped in a nightmare where you tried to run but remained stuck in place. Esmeralda had created a mile-wide spatial expanse inside that small space. To destroy it, Zac would have to exert his Daos to counter hers.
+
+“No traces of a Monarch’s domain,” Esmeralda muttered after dispersing the field. “While you technically haven’t entered Pseudo C-grade, you should probably consider yourself a half-step Monarch in regard to your cultivation. The space you’ve opened is still the foundation of your Inner World. Let it set too long, and you could harm its potential for future expansion.”
+
+“How much time do I have?” Zac asked.
+
+“A few centuries? It’s hard to say. Your soul will help you keep the space alive longer than normal, almost like a real Mystic Realm,” Esmeralda marveled. “Either way, you don’t have to worry too much.”
+
+“You think I’ll be ready to become a Monarch that fast?” Zac asked. Centuries still felt like an eternity to him, but Monarchy was a monumental barrier even in the Multiverse Heartlands.
+
+“I wouldn’t bet against you after what I’ve seen so far, but that wasn’t what I was referring to,” Esmeralda exclaimed as her nose pointed to the sky.
+
+“I guess this is a problem pertaining to the mysteries of space. If only there were a sagely master who could point me in the right direction,” Zac dutifully played along.
+
+Esmeralda giggled, never tiring of the game. “How can such a small issue stump the great Esmeralda? I’ll fix it right up after I’ve recovered some of my cultivation.”
+
+Zac laughed and got to his feet. “Then what are we waiting for? There are treasures to steal.”

@@ -1,0 +1,141 @@
+---
+id: 4a371d40-aaba-58f1-8541-573f862c9032
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,377 - Archipelago"
+slug: 0054-chapter-1377-archipelago
+partOf: defiance-of-the-fall
+position: 54
+ownLength: 3358
+unit: words
+publishedAt: 2025-11-14
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2759699/chapter-1377-archipelago"
+royalRoadId: "2759699"
+---
+
+“Damnit! Where’s the exit?” Zac swore while frantically dodging countless projectiles coming at him from every direction.
+
+“Just a little longer. I’ve almost untangled the web,” Esmeralda said, her eyes filled with Spatial Power as she derived the mysteries of their surroundings.
+
+Esmeralda’s voice was nearly drowned out by the persistent, agitated calls of countless monkeys, the weakest of which were Elite Middle Beast Kings. Their numbers might seem inflated by their voices bouncing off the stone trees, yet there were still more than enough to strangle any thoughts of fighting back. Just keeping himself in one piece was enough to keep him busy.
+
+A streak entered his periphery just as Zac squeezed through a gauntlet of Space-imbued feces and rock-hard coconuts. It contained enough force and velocity that could only come from one of the alphas, and it would slam right into him if he maintained his course. The skill fractal of [Profane Exponents] already showed hairline fractures after repeated use, and physically blocking was out of the question. Zac chose the lesser of two evils by veering sharply right while swinging his axe.
+
+A smaller coconut was cut in two, triggering an explosion overshadowing the Spatial Chaos of any conventional Spatial Bomb. Zac pushed right through, paying for passage with another layer of skin. The diversion allowed the monkeys to catch up, and Zac swore when the piece of monkey dung he’d avoided disappeared as if it were made of mist.
+
+At least it was only an illusion. Zac had been ready for the noxious attack to teleport right into his altered path. The monkeys hounding him were a perfect representation of the Mercurial Courts, equally skilled with illusions and space. The combination was extremely annoying to deal with, and the constant illusions made it impossible for Zac to trust his eyes.
+
+An undulation of energy allowed Zac to pinpoint the monkey captain, who grinned at him before disappearing among the branches of an enormous, fossilized tree. Zac knew better than to pursue. The infuriated monkeys were as cunning as any dexterity-based Hegemon and full of tricks up their sleeves. They also had a significant home field advantage.
+
+The whole island was covered in Natural Formations. There was an illusory maze formation that had kept Zac from escaping all this time and a secondary formation that amplified abilities based on the Peak of Fantasy. The monkeys who were native to the island were naturally the greatest beneficiaries.
+
+Zac’s breakthrough in his Dao Heart hadn’t made him completely immune to illusions. A skilled illusionist like Janos could still trip him up. None of the Monkey Kings were at that level, but they were boosted by the island and replaced quality with quantity. How was Zac supposed to analyze every attack coming his way while navigating the labyrinthine jungle? What Zac saw with his Soul Sense couldn’t be trusted; even his danger sense was occasionally delayed.
+
+Making matters worse, there were also Space-attuned Natural Formations hidden beneath the illusory glimmer. A hasty step in the wrong direction could send Zac back to the heart of the island—something that had happened twice already. More likely than not, the monkey captain was trying to goad him into taking a third trip back.
+
+Even if Zac could catch up, he had no choice but to suffer in silence. Only a fraction of the island’s thousands of inhabitants were currently pursuing him, and their hostility hadn’t reached levels of an irreconcilable grudge. That might change if Zac started lobbing off monkey heads. Doing so might even alert the Monkey Emperors staying on the secluded mountain.
+
+Of course, there was a chance their playful harassment would turn into a true assault if the monkeys realized what he’d done.
+
+Zac could only eat the loss and keep going despite knowing the monkeys were forcing him to maintain a pace where he risked triggering the island’s illusions and spatial traps. Void coursed through his veins, and he disappeared before the pack could follow up on the opening their leader had managed to create.
+
+It was only thanks to his Void-infused Late-stage Inexorable Stance that he had only some scrapes and bruises after an hourlong pursuit. Three weeks of constant threats in the Peregrine Isles had given him a crash course in combat, allowing him to smoothly catch up with his Life-attuned technique. Unfortunately, the unique unpredictability the Void of Life added to his movements wasn’t enough to break free from the local fauna.
+
+The Void Emperor Bloodline wasn’t powerful enough to let Zac act as he pleased within the D-grade. It was best used at a critical moment to turn a battle around in one go. During a protracted battle, it only added a bit more power than wielding another Dao. The monkeys were already relying on their bestial instincts to intuit his movement patterns, and it was becoming harder and harder to dodge their attacks.
+
+A deafening roar suddenly shook the whole island as four overwhelming perceptions swept through the forest. Zac knew they wouldn’t find what they were looking for—the near-mature [Peregrine Almond] was safely tucked inside [Purity of the Void]—but it wouldn’t be hard to guess who’d stolen it. When Esmeralda helplessly shook her head, Zac saw no choice but to add to his sins.
+
+A pitch-black blade emitting a harrowing light appeared atop [Death’s Duality]. Throwing caution to the wind, Zac cut into the nearest tree. Each stone pillar made up part of the vast Natural Formation. Cutting down one or two wasn’t nearly enough to break the formation, but it would hopefully create a large enough disruption in the energy flows that Esmeralda could find the way out.
+
+The incessant chatter from around him gained a frenzied pitch when huge chunks of fossilized bark began falling like rain. Zac turned into a blur, striking at one tree after another, dodging swarms of attacks with rapid-fire Void-activated uses of [Abyssal Drive]. Soon enough, one of the trees succumbed to [Fatehew]’s combined assault on both spirituality and physical matter.
+
+The mile-high pillar fell with a deafening rumble, ending its eons of enduring vigil. A geyser of Spatial Energy and psychedelic sap erupted from the severed stump, throwing the area into chaos. Zac’s danger sense had already advanced to an incessant scream, with at least one Beast Emperor rushing over. The complex terrain would delay even a C-grade beast for a moment, but Zac didn’t have much time.
+
+Two of the strongest monkeys couldn’t restrain themselves while waiting for backup. The deterrence of Zac’s overbearing, blood-drenched aura paled before their anger at seeing their home destroyed. Two streaks flashed over on waves of Spatial momentum, immediately drowning Zac in a flurry of swipes and punches.
+
+The nigh-impenetrable wall made from Alea’s chains couldn’t stop the barrage, and the speed was so quick that keeping track of real attacks and illusory feints was impossible. Not to mention, knowing the right answer wasn’t always enough. An illusory punch slipped through the cracks, and the air was forced out of Zac’s lungs when it slammed into his breastplate.
+
+Like Ogras, these Fantasy-wielding monkeys were capable of inverting truths and falsehoods. Zac guessed they relied on space to teleport their limbs to take the illusion’s place. Understanding the concept didn’t make much of a difference when he couldn’t activate [Void Zone]. Esmeralda needed to observe the real formation to find a way out.
+
+Zac was forced to rely on superior attributes and honed instincts to guard his vitals and the toad perched on his head. Soon enough, he saw through certain patterns and seized the tempo. From solely defending, the chains dripping with [Inexorable Subjugation] began targeting eyes and throats.
+
+It wasn’t a true attempt to maim his opponents. He just needed to control the pace and delay with the Inexorable Technique’s constrictive combat style. Killing the monkeys would only make the others angrier, and the four-meter-tall hulks were the perfect human shields against the long-range attacks.
+
+‘I got it!’ Esmeralda suddenly exclaimed in Zac’s mind.
+
+Zac answered by unleashing a roar filled with Death and War as coruscating waves of Miasma began coursing through his body. It all congealed in a spot on his right arm, signaling the activation of a powerful skill. The monkey kings were shocked awake from their berserk state and quickly scurried out of the way.
+
+Instead of a desperate, all-out attack, Zac simply disappeared. The surroundings rapidly shifted as the pocket-sized toad dragged him through the complex labyrinth of subspace streams, following rules only known to her. The seemingly endless forest of stone trees gave way to a familiar shoreline in the blink of an eye, and Zac knew they were safe. The monkeys might dare to follow him onto the shores, but the rippling waters beyond were a safe zone.
+
+The local tyrants of the Peregrine Isles clearly had an agreement with the Mercurial Court not to move against lower-grade disciples, though those restrictions only went so far. There were plenty of disciples who were grievously wounded or died while exploring the isles every year. It was all balanced.
+
+The greater the commotion a disciple caused, the fiercer resistance they’d encounter. Exploring the island only warranted some light harassment, while wanton slaughter or stealing valuable treasures would trigger a deadly response.
+
+The disciples knew as much, yet they kept diving deep into the jungles. Finding a [Peregrine Almond] or other valuable resources near the shores was no different from finding a needle in a haystack. On the rare occasions something like that happened, it would be snatched up by one of the thousands of sailors exploring the freshwater archipelago in minutes.
+
+Another roar shook the island, this time much closer. A gargantuan head appeared between the trees. It was just an avatar, seeing as these humanoid beasts were on the smaller side, but its power was very real. The emperor immediately spotted the intruders and attacked by spitting a ball of phlegm infinitely more terrifying than any booby-trapped coconut.
+
+Esmeralda met the incoming attack with an excited laugh, clearly enjoying the thrill of the escape following a successful heist. Zac watched in awe as she siphoned some of the attack’s rampant energy for herself and turned it into an unstable Spatial Gate. They slipped inside just before five miles of pristine shores were torn apart.
+
+Zac immediately felt an intense weakness in the fabric of reality and saw no reason to delay the memory’s collapse. He gave the monkey island a final look before their surroundings rippled and gained a sense of decay. The island looked slightly different from when they found it. The crater from the Beast Emperor’s attack had been brought to the present, adding a large lagoon.
+
+The rest was the same. There were still hints of corruption creeping out of the waters, and the clouds holding the Lost Plane’s aura surrounding the island hadn’t dispersed. Neither had the memory domain’s shimmering barrier weakened. It still prevented the foreign energy from encroaching any further.
+
+Beyond the altered geography, there were no signs of anything following them out of the past. The rules of the memory domains weren’t as absolute in the Mercurial Courts, but they still hadn’t encountered any uncorrupted beings who could join Zac on the outside. The monkeys, while hostile, were genuine natives of the Peregrine Isles, showing no trace of corruption.
+
+Zac took out their gondola—a normal one they’d bought before setting out to sea, whose only unique feature was its natural resistance to the Peregrine Isles’ position-shifting mists. They’d visited the monkey island because of the encroaching taint, following their plan of using clues in the present to expose infiltrators in the past. Their search didn’t expose any doppelgangers.
+
+What they found was even better. The [Peregrine Almonds] were exceedingly rare, and stumbling onto one was a matter of chance. Harvesting it before reaching full maturity had harmed its efficacy to some degree, but the Mercurial Courts had treasure arrays that could forcibly mature the treasure.
+
+“Not bad,” Esmeralda said with a grin while taking her seat on a pillow left at the fore. “You’re getting better. The elders must have noticed the lingering traces of death. The treasure isn’t due to mature for another year or two.”
+
+“Who could have expected that plucking the [Peregrine Almond] would cause such a scene? There was nothing like that in the reports. I had to use [Eye of Desolation] to seal the fluctuations,” Zac helplessly said while tending to his wounds.
+
+“That’s why you need to figure out ways to use your affinities to your advantage. I hide my actions in folds of space because that is my nature. You walk the path of death, so you obviously have to come up with alternative measures,” Esmeralda said. “For instance, you could have harnessed the trace Miasma into the plant, making it look like it had suffered a setback and withered on its own. That way, you’d both hide your tracks and add some confusion that might delay their search.
+
+“I know, it wouldn’t have made much difference on this occasion since we were discovered almost immediately by the gardeners. Just something to think about.”
+
+“I’ll keep it in mind for the next time,” Zac said, looking around until stopping at a distant pillar. “Looks like it was the Starfall Court that booted us this time.”
+
+Weeks of trial and error had given them a basic understanding of how the Mercurial Court’s memories worked. They’d already confirmed that the memory domains and memory winds acted the same, having no borders or exit after you’d entered. They’d since realized those borders were still there, it was just that one couldn’t see them.
+
+So long as you stayed inside a memory domain, you wouldn’t be kicked out unless the domain itself collapsed. The clock would only start ticking after you left its borders, like a battery slowly running out. The realm would eventually destabilize and throw you out unless Zac prolonged their stay with Imperial Merit. When you reached that point, returning to a static memory domain wouldn’t help. You’d still get booted and appear at the domain’s borders.
+
+However, the clock would be paused if you returned to a memory domain before the signs of instability appeared. That worked in their favor during their exploration of the Peregrine Isles. Most of the islands had small memory domains. Therefore, you only risked getting kicked out at a bad time while exploring one of the few unoccupied islands.
+
+These rules possibly applied to the roaming memory winds, but following their path while inside was impossible. For one, the winds could change direction at any time, and you’d be none the wiser while staying in the past. Secondly, space wasn’t linear inside the Mercurial Court. Citadel was made from countless spatial layers and illusory realms, and those layers didn’t match between present and past.
+
+How long one could stay in the past after entering through a memory wind wasn’t a given. Thankfully, the first time they were booted within a few hours appeared to be an outlier. Their other visits had at least lasted a few days, even when Zac caused a commotion that would normally cause a drain on a memory.
+
+Figuring out the difference in time flow had proven trickier, and there still appeared to be an element of randomness. They lost nearly a month when exploring the Scripture Tower. The last time they were sent out, they only lost an afternoon. If there were a method to the madness, it’d need a Temporal Cultivator to make sense of it.
+
+There appeared to be two factors influencing how much time passed, the first of which was fluctuations of Fate. The greater the changes, the more time passed on the inside. They believed the trial takers still working on their threads of fate were part of this equation, and it wasn’t only Realmsingers that influenced the Mercurial Court.
+
+New Halos had appeared at a rate of one a week since they’d arrived at the Peregrine Isles. Each forced an immediate expulsion the moment they left the borders of a memory domain. When they’d returned, at least a month had passed. In that sense, the halos acted as a countdown clock for the trial. They believed that the Sealbearers’ stay at the Outer Courts would come to an end when each court had gained a full set of nine halos.
+
+Zac felt it was too early to worry about running out of time. He suspected that the halos would become harder and harder to trigger and that some of them needed to be activated from within the courts themselves. Even if much shorter than the real opportunity, their stay in the Outer Courts would likely be measured in years.
+
+The second factor affecting how quickly history progressed was more of a theory than observation. Just as memory domains focused on important events, so did the Mercurial Court’s timeline. The memories were essentially fast-forwarding through uneventful periods to get to the important points.
+
+They’d noticed how the timeline was moving slower and slower. The first halo added three months, the second one and a half. Altogether, roughly a year had passed in the memories, which wasn’t much for a Hegemon.
+
+The trial was still at the stage where only a few dozen Sealbearers had reached the Mercurial Courts, and many would likely stay months in seclusion to digest the insights they’d gained during their crossing. On the other hand, failing to produce any tangible results wasn’t a great look for someone wanting to hug Astora Theomore’s thigh.
+
+More importantly, Zac could sense they were approaching a surge in destiny. The Starfall Court’s new halo might have taken them all the way to the critical point in time. Zac could feel the winds of destiny blowing. They might lose the opportunity unless they could produce some results.
+
+They’d only found one infiltrator after visiting nine islands and the harbor district attached to the archipelago, and it was only a weak Servant Disciple. By all accounts, the infiltrator had been lucky enough to stumble onto a dimensional weak spot, or perhaps unlucky enough. After all, he was actually an anomaly—someone without an alter ego in the main timeline.
+
+The invader had mostly kept to himself out of fear of his unusual identity being exposed. He only had one piece of valuable intelligence. There were indeed a few stable passages and a hidden base of operations somewhere in the isles. Unfortunately, the corrupted doppelganger was still looking for it in hopes of joining up with his compatriots and getting a proper identity.
+
+Zac needed to uncover a bigger target, and quickly. There’d be no one to complain to if Astora or one of her helpers raided the hidden base while he was dallying around. If Zac couldn’t find the main base, uncovering one of the passages would do. Even a Sealbearing doppelganger or a well-connected Inner Disciple would let him present some form of progress.
+
+“Good news, I was right!” Esmeralda suddenly exclaimed.
+
+“Of course you were,” Zac distractedly said, slowly turning away from the Starfall Court’s pillar. “Wait, what are we talking about?”
+
+Esmeralda rolled her eyes and waved a Spatial Ring at him. Zac recognized it at a glance. It was the ring she had lifted from a corpse on Monkey Island. They’d found four bodies altogether. Three were just skeletons, meaning their deaths occurred before the invasion began. Only the owner of the Spatial Ring was a recent death.
+
+Most would think it was a fellow Disciple who’d discovered the [Peregrine Almond] and died before they could seize it. At the same time, the persistent presence of corruption indicated a dimensional weak spot, so the corpse could have been an unlucky infiltrator who’d popped out at an unfortunate location. Esmeralda had leaned toward the latter based on traces of unusual spatial fluctuations. Based on her smug expression, she’d been proven right.
+
+“Well, let me have it. What did you find?” Zac asked curiously.
+
+Esmeralda took out a ruby signet ring with a grin. “We should head over to the Explorers Guild.”

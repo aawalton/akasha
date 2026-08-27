@@ -1,0 +1,131 @@
+---
+id: b957e232-65c6-5e8a-b75b-ce86e29697ad
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,337 - Everit Draom"
+slug: 0012-chapter-1337-everit-draom
+partOf: defiance-of-the-fall
+position: 12
+ownLength: 3077
+unit: words
+publishedAt: 2025-06-13
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2354399/chapter-1337-everit-draom"
+royalRoadId: "2354399"
+---
+
+“Holy crap,” Zac mumbled with awe.
+
+Zac could only identify one pile without Esmeralda’s assistance: the neat stacks of Cosmic Crystals. There were exactly a thousand Middle-quality Cosmic Crystals, nearly half of them attuned. The ten High-quality Cosmic Crystals were all unattuned. Together, the stacks were worth over 30 C-grade Nexus Coins.
+
+The High-quality Cosmic Crystals were technically worth less than the pile of Middle-quality crystals, but most C-grade factions would pick the former if they had to choose. High-quality crystals were a genuine C-grade resource and incredibly rare on the frontier. They never appeared on the open market, and they’d become fiercely guarded strategic resources during the war.
+
+Their extremely condensed C-grade Cosmic Energy was far more suitable for nurturing Inner Worlds. Using them also saved a significant amount of time compared to refining mountains of lower-grade resources, leaving Monarchs more time to cultivate. For the same reason, only High-grade Cosmic Crystals could fully unlock the might of C-grade Arrays.
+
+As sought-after High-quality Cosmic Crystals were by Monarchs, Peak Hegemons were just as anxious to get their hands on some. Their calm, stable C-grade Cosmic Energy was a great supplement when attacking the bottleneck of Monarchy. Five crystals weren’t enough for Zac with his exceedingly deep foundations, but they would relax the requirements on where he broke through.
+
+The 30 C-grade Nexus Coins worth of crystals was only the tip of the iceberg. There were also two array disks and twelve piles of processed materials, all of which emitted energy fluctuations ranging from High D-grade to Pseudo C-grade. Anticipating that Zac wouldn’t recognize them, each resource came with an Information Crystal. Zac scanned one floating before a cube of ochre-colored dust.
+
+‘Since time immemorial, the Centigrade Constellation has pushed the boundaries of innovation. Our marvels have dazzled the Cosmos with their grandeur and ingenuity. Other breakthroughs are hidden gems only known by our closest friends. Originally the residue of a failed experiment, the [Spacemelding Rust] is one such treasure.
+
+When infused in Spatial Treasures or Spatial Arrays, the [Spacemelding Rust] will effectively raise its strength by half a grade. Its calming effect will also improve longevity. Taking full advantage of this miracle material requires the use of the Centigrade Foundries and proprietary techniques. You’re welcome to bring your idea to us, and we shall faithfully turn your vision into a reality!
+
+Should you be unable to reach our subsidiaries, you can use the provided simplified method. Be warned, that path will only exhibit 30% of the described potential.’
+
+The whole thing read like a marketing brochure, including the following section with technical information aimed at artisans. Still, what Zac saw was extremely impressive. Raising a Spatial Treasure by half a grade was outstanding on its own, and the rust also helped stabilize the spatial fluctuations. The provided compound was Peak D-grade so it would retain some of its effect on Pseudo C-grade treasures.
+
+The applications were endless. Teleportation Arrays would reach further, providing access to remote areas. Spatial Rings would hold greater spaces, and their ability to contain high-grade materials would improve. Whether it was for your own use or resale, the potential profits were immense.
+
+Zac inspected the next Information Crystal, and it was more of the same. The cube of deep-blue goo could strengthen the barriers of Town Protection Arrays by the same amount, which could mean the difference between life and death during a siege. It didn't take long to go through the information. The materials were all local specialties of the Centigrade Constellation related to crafting.
+
+They boasted a wide array of uses, from increasing the success rate of difficult projects to improving the quality of the product. Two could boost the effect of finished arrays, and one could assist in salvaging damaged Spirit Tools. The arrays were multi-function crafting formations needed to use compounds.
+
+Even the Cosmos Sack was a treasure. Instead of a blank subspace with vague borders, the bag held a proper chamber covered in arrays designed to nurture, stabilize, and self-repair from within. While still a D-grade Spatial Treasure, it was probably as durable as an Early C-grade Spatial Ring. In other words, it might be able to permanently store D-grade Void Treasures without causing spatial degradation.
+
+There was no way to convert most of the materials into the strength inside the trail, most likely by design. Two could be used when upgrading [Verun’s Bite], but Zac had no plans of doing so. The Centigrade Pryer’s insight into the Peak of the Grand Tapestry was among the highest in the Multiverse. Zac had no way of knowing if the materials would install hidden backdoors like the Yphelion’s tracker.
+
+Selling them was the prudent choice. Going by Zac’s limited understanding, the materials vastly surpassed the Cosmic Crystals in value. The collection could more than double his net worth if he found the right buyer. That was enough for Zac to discard any notion of tossing the bag, even if he couldn’t rule out it was part of a scheme.
+
+With the intersector war coming to an end, Zac’s main source of income was gone. His Creator Cosmic Vessels were prohibitively expensive for their grade. It was fine when the ships could recoup their cost by accruing war contributions. Without that, it was more efficient to spend money on large fleets of cheap vessels or higher-grade designs.
+
+There was also the security issue of the Creator Shipyard. Zac understood that the Centigrade Constellation’s interest in him and the region should plummet after the trial was over. Still, having the spies of an A-grade faction on his homeworld was too big a risk, and his encounter with Kaltosa Lu had done nothing to ease his fears.
+
+Without the shipyard, the Atwood Empire would enter a deficit. It wasn’t like their costs would decrease just because the war was over. If anything, it was the opposite. Provided his government followed their plan, Earth was already a High D-grade planet. In addition, the Atwood Empire would have added a dozen feeder planets that needed to be brought up to standard. Cash infusions like Kaltosa Lu’s bribe would tide them over until his faction could establish new income streams.
+
+The reason behind the gift was as important as what it could be used for. The elemental had proclaimed his ambush was because Zac was a homewrecker who consorted with his “fiancée.” Zac spent days providing explanations, and it made no difference. However, the second they reached the Transformation Docks, anything Zac said was taken as a compliment.
+
+Kaltosa Lu acted like he hadn’t tried to kill him just seconds ago, shifting the topic to cooperation. Zac would have to be a fool to take the Flamebearer’s words at face value. His whimsical personality wasn’t necessarily feigned, but Kaltosa Lu was no Don Quijote out adventuring with his squire. The Centigrade Constellation’s Flamebearer was cut from the same cloth as Yselio Tobrial.
+
+Ruthless pragmatism lurked behind the exterior of a scatterbrained genius. There was no malice behind the ambush. It was a simple attempt to snatch Zac’s Imperial Merit. Kaltosa Lu didn't harbor any anger when his plan failed. He just pivoted to another method of extracting value from Zac.
+
+The butler’s invitation to cooperate was most likely sincere. The Centigrade Constellation didn’t lack money, and getting the assistance of another Flamebearer could prove useful. Such a collaboration would only last so long as Zac could provide more benefits alive than dead. Kaltosa Lu would turn on him the second the risk-to-reward ratio was good enough.
+
+As much as he wanted to, Zac couldn’t disdain the elemental for his amoral actions. Zac knew he wasn’t much better. While Zac tried to avoid targeting other cultivators for their resources, he’d done things that would horrify anyone before the integration. Furthermore, Zac wouldn’t reject a temporary alliance if he thought it the best way to achieve his goals. It also wouldn’t stop Zac from plotting his revenge.
+
+Zac shook his head and turned back toward the bustling street. Whether revenge or cooperation, it would have to wait until he’d seen what the Mercurial Court had in store.
+
+The Imperial Road Project was almost completed, and capitals like the Transformation Docks were already seeing the benefits. There was barely any Earthly Taint in the air. The ambient energy was also extremely abundant. Even diluted, it could cover a Monarch’s needs, so the city planners squeezed large districts into spatial arrays the size of a block. As such, the Transformation Docks were even larger than the memory domain indicated.
+
+The streets were overflowing with people here to witness the historical occasion, and Zac could quickly confirm the salient points. As he’d learned over the past month, the Mercurial Court’s opportunity wasn’t a one-day event. Participants were coming from every corner of the world, so the Outer Courts would keep their gates open for a three-year window.
+
+The caveat was that the opportunities were on a first-come, first-served basis, much like the items on the Limited Exchange. The Mercurial Court was only taking in nine permanent disciples among hundreds of sealbearers. If you arrived late and the slots were already taken, you weren’t fated. Beyond the basics, Zac learned overheard a few new things.
+
+“Grandpa, the docks opened six days ago, so why have only a dozen Sealbearers set out? Shouldn’t it be better to head out to sea early?” a young woman just ahead asked her guardian. “The longer Senior Brother waits, the fewer [Peregrine Gondolas] he’ll have to choose from.”
+
+“A few days won’t make a difference,” the old man said. “They’re waiting for the opening ceremony.”
+
+“Excuse me. I couldn’t help but overhear,” Zac interjected, quickly taking out a gilded identity token upon noticing the Late C-grade aura leaking from the frowning elder. “I’m Everit Draom of the Imperial Magistrate.”
+
+“A Lawkeeper?” the old man said with surprise while his granddaughter paled and took a step back. “How can we help you? We only recently arrived with the Duscenia Clan’s delegates. If we’ve committed any mistakes, it’s unintended. We’re happy to—”
+
+“This is not an inquiry,” Zac assured. “I just arrived, and I hoped Senior could tell me more about the ceremony and the gondolas you mentioned.”
+
+“I see. I’d be happy to clear Young Master’s confusion,” the elder said with relief. “The Mercurial Court opened the docks without warning. Since most of the Sealbearers are busy accumulating merit out of town, they chose to delay the opening ceremony by two weeks. That’s enough time to finish the trials and reach the Transformation Docks.”
+
+The old man quickly covered the key points. The Opening Ceremony was the main reason why the streets were so packed. Princess Astora Theomore would make her first public appearance, and the city was packed to the gills with the Empire’s elites waiting to greet the Imperial Bloodline. It was the perfect opportunity for commerce and making connections.
+
+Trade meets and auctions were held daily, with a major one held after the ceremony. While interested, Zac understood he wasn’t qualified to compete at an auction of that scale. Zac’s wealth was nothing compared to young masters like Kaltosa Lu, and the sealbearers who'd stepped into the past with him weren't even his real competition.
+
+This was a once-in-a-lifetime opportunity for the Left Imperial Expanse. Only a few of the items were meant for the Sealbearers, and there would be plenty of wealthy ancestors willing to part with their wealth to give their descendants a leg up on the competition. Zac couldn’t compete with that, and he could forget about the main items. They were all B-grade or unique treasures that were impossible to grade.
+
+“Surely there’d be sealbearers eager to get an early start, even if it meant skipping out on the festivities?” Zac asked.
+
+“Young Master is correct. However, there are rumors that the Theomore Dynasty will provide valuable insights that can assist with the crossing. They're willing to wait a week if it can prevent a deadly mistake,” the old man said, adding after some thought. “Of course, you can occasionally see confident Sealbearers setting sail early.”
+
+“Is this related to the [Peregrine Gondolas]?”
+
+“Yes. The Mercurial Court has prepared a set number of gondolas, all of them different. I’m afraid I do not know the meaning behind it.”
+
+“Thank you, Senior,” Zac said with a bow. “Oh, one last thing. Could you direct me toward the First District?”
+
+“The First District? Are you perhaps also a—” the old man blurted, and a few pedestrians stopped to look over with surprise. Zac nodded and raised his left hand. Far more courteous, the elder continued. “Is Young Master possibly looking for assistants at this time? The Duscenia Clan has brought talented descendants who may be of use.”
+
+Zac could barely hear him over the dozen similar inquiries that suddenly filled his head. After sealing his mind, Zac shook his head. “My attendants have not been finalized, but I can’t discuss this at the moment. My journey has been long and arduous. Clan Duscenia is welcome to contact me after I’ve settled in.”
+
+“Certainly, certainly,” the old man said. “This one is called Maesovio A’Duscenia. I shall forward your message to the leaders.”
+
+Maesovio offered to personally lead Zac to the First District. Zac rejected, excusing himself before hurrying in the direction he pointed. Accepting attendants was a matter best left to stew. Zac had thrown out the bait, and news would spread through the Transformation Docks. The offers would come on their own. This was a money-making scheme he and Esmeralda had thought up before, and his exchange with Kaltosa Lu didn’t change anything.
+
+The First District was one of the few areas located in uncompressed space, allowing its residents to fully take advantage of the unsurpassed environment. Zac headed straight for his accommodations. Each inch of the first district’s land was no doubt worth its weight in gold, yet Zac was assigned a freestanding villa with a walled courtyard halfway up an artificial mountain.
+
+The luxurious treatment was wasted on Zac, but not even the most talented Hegemon could make use of such boundless Cosmic Energy. While the environment wouldn’t bottleneck their cultivation speed, they would still be limited by their talent and cultivation manuals.
+
+Zac still enjoyed the comfort and clarity it brought, and the courtyard’s view was stunning. It provided a perfect line of sight to the docks, and he finally spotted the [Peregrine Gondolas]. Zac hadn’t expected the term docks to be literal. The silver waters didn’t hold the threat of spatial decay inside the memory domain, but the mysterious power he’d seen in Dawndeep Bastille was magnified many times over. It wasn’t something Hegemons could deal with, so Zac had expected the docks to be equipped with a teleportation array.
+
+The gondolas weren’t flying ships or majestic galleons, either. Their shape and make differed, but even the largest couldn’t seat more than six or seven people. None of them held cabins. At most, some had partial roofs to protect against the sun. As ludicrous as it sounded, it really looked like sealbearers were supposed to take those boats to the Mercurial Court. The First District was too far to make out any details. Zac couldn’t see what would make one gondola better than another.
+
+One of the boats set out just as Zac was about to look away, and its passage triggered a reaction from the ocean. A mist rose around the gondola while fleeting windows to different worlds appeared on the water's surface. Zac could make out a vague outline to confirm only one person was aboard before the view was obscured.
+
+The sealbearer either couldn’t control the gondola or chose to ignore the surrounding phenomena. The boat maintained a straight course until it reached the edge of the memory domain and disappeared. Zac frowned at the sight. What would happen if he did the same thing? Would he sail out of the memory domain, where the much more terrifying ocean waited? Could those rickety old boats really keep him safe if that happened?
+
+That problem would have to wait. Zac really needed rest, and not just because of his wounds. The past two months had been no less hectic than the ones before. He first spent half a month tracking down a memory lantern with a ticket to the Mercurial Court. After confirming that wasn’t enough to activate the Transformation Docks, they returned to Dawndeep Bastille.
+
+Altogether, Zac managed to compete in six trials before the Mercurial Court awakened. While generous helpings of Imperial Merit were welcome, Zac’s main goal was to trigger a change and reach the Mercurial Court Early. In the end, they had to rely on someone else to open the path.
+
+The trials were more like the deadly pilgrimages of the Empyrean Flame than some festive games. The outwardly safe river-defying event had literally cost him an arm and a leg. He’d been unable to react to the unpredictable currents in time, and his limbs had been whisked away to another dimension. The other trials held other dangers that threatened physical or spiritual destruction.
+
+Zac’s results were a mixed bag, though he only failed one. It was a pebble-searching event. Zac had thought it would be the easiest one since you could pick as many as you liked within the timespan. Except each stone held a brutal attack aimed at his Dao Heart. Neither his Luck nor Esmeralda’s scans managed to sniff out the hidden prize, and he was forced to concede after randomly picking eight stones.
+
+Now that Zac had arrived, the suffering he’d endured was more than worth it. The six trials had almost doubled his Imperial Merit. The next step was to rest up and wait for Esmeralda to wake up. Zac’s guts said he was better off avoiding the opening ceremony. Still, he would have to go if he couldn't figure out the secret behind the gondolas.
+
+Zac didn’t even get to settle in before a series of loud, angry thumps announced he had guests. Someone was knocking on his doors with enough power to activate the courtyard’s protective barrier. Zac sighed. He didn’t need to look outside to know who’d arrived. Zac's third memory lantern worked just as advertised. Everit Draom’s invitation was transferred to him, smoothly providing passage to the challenges and the Mercurial Court.
+
+He just wished he’d picked an identity with less baggage.

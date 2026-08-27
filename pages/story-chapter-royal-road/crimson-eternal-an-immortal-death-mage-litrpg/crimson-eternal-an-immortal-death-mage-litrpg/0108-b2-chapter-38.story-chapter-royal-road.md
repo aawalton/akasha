@@ -1,0 +1,125 @@
+---
+id: c4a7d266-7791-57c8-a37e-0add6da39201
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 38"
+slug: 0108-b2-chapter-38
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 108
+ownLength: 1557
+unit: words
+ownProgress: 1557
+publishedAt: 2024-02-21
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1527068/b2-chapter-38"
+royalRoadId: "1527068"
+markedReadAt: "2026-06-29T19:09:37.185Z"
+---
+
+Aria
+
+“We’re goin’ all out an’ endin tha war in one week,” Sean says the moment the meeting starts, making silence fill the meeting hall. A silence he quickly breaks as he continues, “We’ve been fightin a faulty war with tha bastards for over a year now, an’ I’m getting sick o’ it. So let’s finish this in one more assault.”
+
+Huh. Very interesting.
+
+Everyone in the room – which includes each one of the council members along with the stallari, Rory, myself, and Shirogane, with the council member who is still avoiding me sitting on the opposite side of the room – looks contemplative about his words. But none of them say anything, simply giving the Clan Leader time to continue.
+
+“Tha plan this time will be a simple one,” he says while standing at the front of the table. One with a large map on it. “I will go assault tha enemy capital. Lady Violet will assault one of their fortresses. Council Member Flachra will assault the second enemy fortress. An’ Lady Death will assault their third fortress.” He raises his head from the map. “All at once.”
+
+All of the council members in the room and the stallari begin to discuss amongst each other for a little bit, but eventually the Clan Leader raises his hand for silence. Then he continues, “All of ye will defend our Clan’s territory from any counter attack attempts, so make sure ya don’t let yer guards down.” And after he sees them all giving salutes, he looks between me, Rory, and Flachra, and says, “Tha assaults will begin in this order. Flachra an Rory will assault their fortresses first, then I’ll move between those fortresses ta assault their capital. Lastly, Lady Death will attack tha third fortress ta make sure tha Sullivans don’t send a Class S ta hers.”
+
+Hmm. That sounds like a reasonable plan.
+
+A little risky, but reasonable.
+
+“An’ Lady Death,” he says, making eye contact with me before the corners of his lips quirk upwards a bit. “Ye’re allowed ta obliterate tha fortress at your leisure this time.”
+
+Okay. I take that back.
+
+This is a great plan.
+
+“Understood,” I tell him with a smile. And the others follow suit.
+
+The others quickly begin to discuss methods to defend the Byrne Clan during our absence, but I personally focus on trying to figure out how to infiltrate this fortress. Because by now I’m rather infamous amongst the Sullivan Clan.
+
+Especially thanks to the rather strong grudge that Aisling woman has against me.
+
+It’s not just me though as she also has a large grudge against Sean and Rory.
+
+Actually, speaking of Rory, I’ve spent a decent chunk of time with her over the last year. Mostly because I know she’s already a very high level in her level four hundreds or so. Or thereabouts. I don’t know her exact level.
+
+But that means her lifespan is already in the several hundreds. Probably either eight hundred years or one thousand six hundred years to live. Depends on if she’s in her level three hundreds or four hundreds.
+
+Which certainly makes it a bit easier to let her get closer to me.
+
+And that’s exactly what she was doing, spending some of her time recovering at my home – a nice little manor in the city next to the Grand Tree – whenever I’m just reading.
+
+She also helped me pick out my outfits. All of which have the same enchant on them.
+
+Almost reminded me of the time I spent getting clothes with Hannah back in Vortel.
+
+Eventually the discussions amongst the council members and other people comes to a close, following which Rory and Flachra immediately head out to begin their attack. With the Clan Leader following soon after.
+
+Then I’m left waiting for the spatial mages to finish a teleportation circle meant to take me right outside of the third fortress.
+
+Unfortunately a lot of the plan ideas I had come up with are thrown out the window since they’ll be able to detect my teleportation right away. Hence why they’re waiting until after the others begin their assaults to send me. So that attention isn’t drawn to this fortress first.
+
+So we wait for around an hour or so before finally getting word that the others have begun their assaults.
+
+After which they activate the magic circle and I quickly find myself appearing right outside of a large wall.
+
+And without any hesitation, I set and blow up a high explosive charge right on the wall, completely collapsing the wall before I begin waltzing right on inside.
+
+In the end, I decide to go with a strategy similar to my first strategy upon arriving in this world. So I grab a cloak from my storage ring and summon hundreds of Lesser Minor Death Spirits right on me before dumping a bunch of explosives on them and sending them loose. Then I summon a bunch of Lesser Death Spirits and send them as well, using up a bunch of the stored up soul energy I’ve gotten over the past year from the skirmishes and a lot of time in the Grand Tree.
+
+While the soldiers are all distracted by my Death Spirits, I quickly make my way through the base, planting one charge after another. Occasionally being caught by soldiers before tossing a grenade at them and hiding before they can see my face. The same thing a lot of my Death Spirits would do. Except without the hiding part.
+
+And so I continue going around the fortress until every charge I have on me is set – which actually proves a lot easier than the first time I arrived here simply because this fortress is far bigger and with only around seven thousand soldiers in it, not enough to fully man the place. Then I proceed to blow everything up without bothering to interact with the soldiers inside this time around.
+
+Which leaves me blacking out again before coming to and finding, or rather, not finding the fortress anymore.
+
+I’m left standing in a large crater.
+
+One of the reasons I quickly realized why I was sent to this fortress in particular is that it doesn’t have any death magic users. Which can sense me pretty easily.
+
+It also doesn’t have anyone with especially powerful senses that’d be able to sniff me out in an instant. What with this being one of the fortresses a bit further away from the border, not right next to it. Meaning they probably saw it as less important.
+
+Doesn’t really help the enemy’s case in the fact that they’re rather short on weapons. Even if they did manage to rebuild their weapons production facility, albeit with far lower level and worse people manning it. Along with worse technology making the weapons.
+
+I look at the aftermath of the destruction I’ve wrought on my enemies before kneeling down and muttering, “Your fight is over. Rest well.”
+
+Then I stand up straight and walk away again while sending a telepathic message to the spatial mage to teleport me back. Which only takes a few seconds, the mages probably already having the spell ready to cast.
+
+After returning from the enemy fortress, err, former enemy fortress, I stretch a little before noticing the shock on the faces of the mages and even council members who don’t seem to have even left the barrier fortress left.
+
+Oh. Right. That entire mission took me like fifteen minutes to pull off.
+
+They’re probably a little surprised.
+
+And frightened.
+
+But they probably shouldn’t be. I was only able to do that because they were sorely lacking in personnel, sensory Ability Holders, technology, and weaponry. Not to mention powerful Ability Holders and higher level officers to fight off my Death Spirits quickly.
+
+If I were to have done that at the beginning of the war, I wouldn’t have been able to do much of anything. Would’ve just been caught right away.
+
+Also wouldn’t have amounted to anything if I didn’t have the Byrne Clan supplying me with literally hundreds of explosive charges.
+
+On that note, the mission did give me a large jump in progress towards level sixteen.
+
+A nice little benefit, that.
+
+I decide to ignore the looks being sent my way by the others as I proceed to move through them and out of the building the meeting was held in. Then I continue on until I arrive at the wall of the fortress, where I just sit at the edge and dangle my legs over the side, waiting for the rest of them to finish their parts of the mission.
+
+Time passes slowly as I wait, but eventually, something happens.
+
+Something rather… surprising.
+
+A massive pillar of black and purple light shoots up into the sky from all the way across the Sullivan Clan’s territory, in the direction of the capital and Grand Tree. Neither of which can be seen from here. Well, except some very vague branches of the tree, simply because the tree is just that big.
+
+Guess no one really thought of them doing that.
+
+Interesting.
+
+Kind of wish I could go say hi to the Death Spirit, but whatever.
+
+I lie down onto my back, looking up at the sky.
+
+Probably a lot more exciting over there.

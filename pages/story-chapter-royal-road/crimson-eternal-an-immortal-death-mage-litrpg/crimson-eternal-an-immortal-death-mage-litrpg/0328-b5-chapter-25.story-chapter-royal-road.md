@@ -1,0 +1,149 @@
+---
+id: d213501f-21ea-525d-8cbc-aa7075f35edf
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 25"
+slug: 0328-b5-chapter-25
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 328
+ownLength: 1458
+unit: words
+ownProgress: 1458
+publishedAt: 2026-01-02
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2906137/b5-chapter-25"
+royalRoadId: "2906137"
+markedReadAt: "2026-06-29T19:16:58.034Z"
+---
+
+Aria
+
+Out of curiosity, my next destination quickly becomes one of the battle royale arenas. Where I immediately summon forth my lovely little castle in the middle of the arena. Confusing the hell out of the other people in the battle royale along with the spectators in the process.
+
+Of course, I don’t pay attention to any of them. Only briefly glancing up to see through my castle at the large screens high above the castle that are giving a perfect view of the inside of my castle somehow before I just sit on my throne and watch the other people in the battle royale.
+
+All of whom look rather intimidated by this place.
+
+Then I snap my fingers to summon hundreds of Death Spirits all around the throne room, making hundreds of rifts appear before the Death Spirits march out of them. Almost like some scripted play or something.
+
+I have to admit, it’s rather cool. And I feel especially cool sitting here with my head resting against my fist and my elbow on the throne.
+
+A classic look in a situation like this.
+
+Not that my Death Spirits manage to actually hurt the contestants much beyond being a nuisance though. Seeing as I’m still a lower level than most of them. Even with my level now being in the three hundreds.
+
+Unfortunately the three hundreds in level is only the basic level of the average foot soldier in most of the Alpha and Beta Tier planets’ armed forces.
+
+Anyways, I’m mostly just curious about if my Death’s Court skill has any effect on people who aren’t mana creatures. And more importantly, on beings that I’m not personally responsible for killing.
+
+So after the other competitors in this little battle royale finally regain their composure, they begin to attack each other. Completely ignoring the unkillable Horseman of Death sitting on the throne over here in the process.
+
+To my surprise though, when some of them actually do kill each other, I find myself getting progress towards my purpose for it. Albeit just half a kill’s worth of progress.
+
+Half a kill is still progress though. And it means that I get death energy advancing my purpose for every being killed within Death’s Court.
+
+Regardless of if I’m responsible for their death or not.
+
+And that’s the most important detail about this new skill to me.
+
+Well, maybe also the double progress for my own kills. But still.
+
+Oh. There’s also one other benefit.
+
+I continue watching as the other competitors either kill each other or surrender, leading to them being teleported out of the arena. All without getting up from my lovely throne.
+
+With this new skill, I get a nice throne to bring along with me.
+
+One that’s incredibly comfortable.
+
+So I can just watch the action while relaxing.
+
+Eventually the battle royale finishes up with just me and one other competitor remaining. And just like a lot of other enemies I find in these tournaments, the competitor in question tries to tell me to surrender. But I just send waves of Death Spirits to attack him.
+
+He slaughters the first wave with ease.
+
+So I attack him some more with more Death Spirits.
+
+He continues slaughtering them.
+
+So I send more.
+
+And more.
+
+And even more.
+
+Eventually he surrenders after draining every last bit of stamina he has to continue fighting, leaving me as the winner despite the fact that I haven’t stood up from my throne throughout the entire battle royale. And when I dismiss my court, I immediately hear roaring applause from the audience.
+
+I give them all a single nod before walking out of the stadium, grabbing my reward for my victory, and heading back towards the place I’m staying. Which right now is War’s castle.
+
+While I walk, I completely ignore the gazes sent my way by the people I pass by. Some of which are of fear, others of awe, and some even openly ogling my appearance even though my outfit is pretty modest. Being pants, a T-shirt, and a coat on top.
+
+Come to think of it, Little Blue mentioned something about me having grown quite popular over the years. With a lot of fan sites set up about me.
+
+Although the few places that have ads that I modeled in are extremely rare since I don’t want to bother most of the time with that.
+
+There are some places every now and there that I visit where I hear my own songs playing, but even those aren’t from music videos. So there aren’t actually that many videos or pictures of me taken professionally.
+
+Even if there are plenty non-professional ones.
+
+The strangest thing though is a single website whose original creator I still can’t quite pin down. Which is annoying.
+
+I frown as I walk, remembering how the pharaoh mentioned that he couldn’t find it. Nor could the Crimson Empire or the Eternal Dynasty.
+
+All of them are saying the same thing.
+
+That the website must be made through someone’s personal skill.
+
+And there are a lot of people who could have a personal skill that could create a specific section of cyberspace for it.
+
+It’s rather annoying.
+
+The website itself is one that is incredibly popular and is all about two things.
+
+One is a gathering of every ‘ridiculous thing Death does’ for everyone’s ‘viewing pleasure’. Which is incredibly annoying.
+
+I don’t do ridiculous things after all. I’m perfectly normal.
+
+The epitome of normality.
+
+It makes me want to teach the people on the website a lesson. But there’s not much I can do when no one can even track the people on the website or the creator and host of it.
+
+As for the other purpose of the website? It’s also a fan forum for discussing everything related to the Horseman of Death. Mostly just to discuss the so-called ‘ridiculous things Death does’ that are posted in the other part of the website.
+
+All of this is just ridiculous. And I’m pretty sure Little Blue may be on the website, but she always denies it when I ask.
+
+I let out a sigh at that as I continue walking until I eventually arrive at War’s castle.
+
+The warriors around his castle immediately let me pass the moment they see my face, and I make my way over towards the suite set aside for me. But while I walk I can’t help but glance at that annoying website.
+
+And just as I expected, it’s already got both the instances of my use of Death’s Court on it. One of them with someone recording my blowing up the castle before it reformed while leaving some bizarre and very rude commentary about it. With the other showing the castle appearing in the middle of the arena and the initial silence from the crowd.
+
+I let out a slight scoff at the sight of the videos while shaking my head. Then I look at the comments, where I find a lot of people talking about how I’m ‘just doing another Aria thing’ or how I’m ‘adorable as ever’. Neither of which I understand.
+
+Sure I’m objectively attractive – I’m not really sure what would be considered attractive if I’m being honest – but why do people feel the need to point it out?
+
+Maybe it’s just because I’m a Horseman of the Apocalypse and don’t feel any sort of sexual or romantic desire that I don’t understand it?
+
+Either way, I eventually close out of the forum again and lie down on my bed after reaching my room.
+
+Whatever. I should just ask Raja to try again to find it. Maybe he’ll manage if he works together with the Crimson Empire and the Eternal Dynasty.
+
+Pooling together a bunch of resources may do something.
+
+If not I can pester Shirogane’s father to use his ability to help me. He’ll probably help if I bother him for a few days.
+
+My thoughts are interrupted when I find my terminal buzzing with a text, making me look down to see a text from War. One reminding me about the upcoming meetup with the other Horsemen.
+
+Right. That’s a thing.
+
+It’ll certainly be… a change of pace.
+
+I stare at my terminal for a few more seconds before lying flat on my back again and staring up at the ceiling.
+
+Going to meet with someone who my family is currently warring against.
+
+Not awkward at all.
+
+It should be fine though since I have nothing to do with their conflicts.
+
+Plus I’ve seen Pestilence multiple times at this point.
+
+I just hope I don’t end up walking out of this meeting in the form of a child again. Because that would be annoying.

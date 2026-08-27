@@ -1,0 +1,143 @@
+---
+id: 0b0f152b-158b-5276-b2b0-ef8b19055c05
+page-type-slug: story-chapter-royal-road
+title: "Chapter 69"
+slug: 0070-chapter-69
+partOf: death-healer
+position: 70
+ownLength: 1753
+unit: words
+publishedAt: 2025-08-29
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2558705/chapter-69"
+royalRoadId: "2558705"
+---
+
+Lily dodged, although that word flattered what she actually did, because she ran hard and used every bit of the garden to split the shadows when she could.
+
+She cut behind boxwood and then she slid along the fountain’s outer ring so the copies would lose line of sight on each other. One shadow sprang onto a wooden bench that a gardener had left by the wall and the bench collapsed at once.
+
+She felt a snap of luck cut in her favor.
+
+She drove Darkness into her arm and smashed a fist across the side of its head while it tried to recover its balance. The body folded and went away like ash under wind.
+
+She wheeled on the second, and the second had already closed the distance. It threw a straight that would have broken a nose and followed with a hook that would have taken a jaw.
+
+Lily shaved the first by a finger’s width and then she stepped inside the second. She slid a palm under its elbow and cut its base with her knee. The copy hit the stones and she fell on it with a hammering series that forced Death through the shape it held. Smoke tore free and the garden smelled like wet cinders.
+
+When the second one dissolved she felt exhaustion drop onto her shoulders like a cloak that had soaked through. Sweat ran behind her ears and the world seemed too bright.
+
+"This is too much!" Lily shouted. "I’m going to die like this! Is there actually two more fights?! I can’t!"
+
+"Right now, you can’t. But the shadows only follow what you are in the moment you looked into the pool. There’s so much more to you, Liliana. There’s an entire life in you. You better use it."
+
+Lily turned in terror and watched three shadows step out of the fountain in a line. Silver slid from them and dripped back into the pool.
+
+"I’m dead," Lily said. She clenched her fists.
+
+She wanted to run and she wanted to be done with it, yet the part of her that her mother had hardened and the part that Caesar had sharpened would not retreat. Determination burned in the hollow where fear lived.
+
+I need to change. What do I have?
+
+She counted options while she sprinted away across the flagstones and then cut into the gravel path that circled the roses. The copies moved as one and they did not breathe hard.
+
+My ocular Skill is far from being evolved again. We can discard that immediately. What about [Lux Vitae Overdrive]?
+
+This was a trial of Death, yet in the trial of Life it had been Death that had given her the leverage to push her healing beyond what anyone in her family had recorded. The symmetry did not comfort her, and it still mattered.
+
+But this is different, Lily thought. The trial had me use Light Magic to win, to heal. Now, they want me to use Darkness? But I’m already doing that. What else is there to do? Should I...
+
+A voice spoke in her head and she knew it as her own.
+
+"When the body is about to die, when it thinks it is dying, it harvests resources from itself that it never thought it had in the first place."
+
+She saw a classroom in a… University… and she saw a young woman that looked like her sit straight while an old man gave a lesson from the front of a whiteboard that carried diagrams like spiderwebs.
+
+"Adrenaline is powerful. But we can’t explain all the effects that the fear of death and the fight-or-flight mechanism have just through adrenaline. Catecholamines are powerful, yet the body seems to hold something deeper and it knows when it is time to go all-out."
+
+That was when Darkness and Death began to mesh in her body and they seeped into her flesh. The pressure felt cold and clean and it did not feel like rot. It felt like a stop code that the body reserved for moments when it would either break or survive.
+
+This is all about Death. The shadows are called upon by Light. Without Light, there’s no shadow. So, I have to rely upon Death.
+
+She picked a line and dashed for the low roof that stretched over the colonnade. She kicked off the fountain’s rim and then off a column and she caught the ledge with her fingers. She pulled herself up and reached the roofline while the three shadows watched her with wary eyes. She closed her eyes for a heartbeat and she brought her palms together.
+
+Please, work.
+
+Lily started running Darkness and Death throughout her body, with the same Skill that Caesar had taught her—[Lux Vitae Overdrive].
+
+She had a very simple working theory.
+
+If she threatened her own body, her own cells, with actual Death, then she’d be able to draw from a deeper well, to fully utilize the power of her body.
+
+She drove Mana into the smallest units of herself, and the change spread cell by cell. She pushed Death against every membrane so the sodium–potassium pumps shifted their set point and the resting potential crept toward threshold. Voltage-gated channels opened in clean sequence, and axons fired in near-refractory cadence so saltatory conduction leaped between nodes of Ranvier at brutal speed.
+
+Life rode with Death and forced mitochondria into emergency throughput, and ATP flooded the cytosol while AMPK and mTOR read the crisis and removed every brake on contraction and repair.
+
+Calcium spiked and troponin released its grip so actin and myosin locked and pulled with maximum duty cycle. DNA damage sensors like ATM and ATR took measure and held back the hammer because Life kept caspases primed but silent. Autophagic flux stripped waste before it could choke a cell, and microtubules aligned so the cytoskeleton braced and moved as a single machine.
+
+Synapses cleared faster as astrocytes swept the clefts, and neurotransmitter turnover hit a pace that made hesitation impossible. Hemoglobin shifted its curve, and oxygen fell into muscle as if the air itself gave way. The whole system lit and did it without romance, and the body treated the moment as a terminal exception that it had to survive.
+
+When Lily snapped her eyes open again, the vapor around her body looked dark and her skin glistened with heavier sweat.
+
+She felt a drain from the Skill that she had never felt before. Her medical knowledge had let her route around some of the worst side effects of pushing [Lux Vitae Overdrive] that way, yet the cost pressed into her bones and told her that the crash would be absolute.
+
+The shadows jumped her at once. Her lips curved into a smile because her metabolism had reached and passed the limits of biology. It now ran on Death Mana and Life Mana in tandem, and she essentially disappeared on the spot.
+
+* * *
+
+Claudia watched Lily punch through the three shadows within moments.
+
+Her knowledge is greater than mine. My magic is far superior, but it seems that it is because whatever era this is, they have relinquished the knowledge of old. Something is afoot. But her…
+
+Claudia saw Lily roar as she absorbed the remaining Death Magic from the three shadows.
+
+Six is the number of Darkness. She’s just learned the Great Skill. The ritual is complete. But this is not where it stops for her. She triggered the last step in Life, and now she’ll have to survive the same in Death.
+
+Claudia had not told Lily, yet every Great Skill that tied to Life was in a way easier to gain than its Death counterpart. Easier was not the right word because the truth was that the Life path killed less often.
+
+You could survive failing to acquire a Life Skill. But you could not survive failing a Death Skill trial.
+
+Claudia knew that, and worry finally took root.
+
+She’s too powerful. Her margins of improvement are narrow. What she just did with that Skill is nothing short of miraculous, but she can’t keep doing that. How many other Skills can she evolve on the spot?
+
+This trial was meant for the young. The design assumed gaps, and the design rewarded steady gains. The fact that Lily stood far ahead actually worked against her. An ordinary candidate would learn a few more moves and would master Darkness step by step. An imperfect shadow who could not improve in the moment could be outlearned.
+
+Lily did not fit that pattern.
+
+Claudia admitted a hard truth. The way Lily fought required a decade of training for a prodigy who never wasted a day.
+
+Claudia had not read every memory. She had only seen a few exchanges. Fighting without Skills demanded a threshold of craft that most never reached, and Lily had crossed it.
+
+That meant the monster that Lily was about to face would be real.
+
+“The monster’s going to be unstoppable,” Claudia said.
+
+A tall figure rose from the fountain.
+
+It’s always someone different for everyone. I should have expected this, Claudia hissed. She… she’s about to die.
+
+* * *
+
+Lily saw, for the fourth time, something emerge from the fountain’s mirror water. This time, it was not a figure made of ink and smoke. It was a human who wore armor and who watched her with deep blue eyes that looked like the reflection of a full bright moon on an ocean at night.
+
+The woman who came out of the pool looked in her mid-twenties or perhaps early thirties.
+
+She looked at Lily with a pitiful expression.
+
+“I’m sorry I have to kill you,” the blonde woman said. She was tall, slender, and clearly athletic, and she widened her stance and took a martial pose.
+
+“Who are you?” Lily asked, although she felt like she already knew the answer.
+
+“My name is Liliana Ember. Nice to meet you. I’ll make it quick, I promise.”
+
+Then the woman moved, and she moved at a speed that Lily could barely track.
+
+The first punch, clad in so much Death Energy that it had taken on a bluish hue, almost killed her on the spot.
+
+Lily could not believe the sheer amount of power that sat behind that punch from the older version of her.
+
+“Liliana Ember?!” Lily shouted. “What?!”
+
+“It’s a pity you came here this late,” the older version of her said. “It really is.”
+
+Two bluish hues covered the woman’s fists again as she approached.

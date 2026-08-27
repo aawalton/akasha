@@ -1,0 +1,111 @@
+---
+id: b9e890bc-dc59-51c3-a144-6ccf2e14801d
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 19"
+slug: 0243-b4-chapter-19
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 243
+ownLength: 1487
+unit: words
+ownProgress: 1487
+publishedAt: 2024-12-31
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1984432/b4-chapter-19"
+royalRoadId: "1984432"
+markedReadAt: "2026-06-29T19:14:00.339Z"
+---
+
+Aria
+
+Less than an hour later, I find myself standing atop a cliff looking out as my forces of shadow-cloaked Death Spirits rush through the frozen plains straight towards the army of soldiers and knights. Only for them to clash and the soldiers and knights to immediately begin making short work of my Death Spirits with ease.
+
+Until my Death Spirits simply reform themselves and take a large chunk of the soldiers and knights out from behind, the soldiers and knights clearly not expecting them to recover from their injuries.
+
+After losing a good number of their forces, the soldiers and knights manage to regroup and take my Death Spirits on in a much more defensive manner. Still slaughtering my Death Spirits with ease thanks to the soldiers and knights being much higher leveled than me on average, with my Death Spirits being weaker than me, but not doing much of anything other than that. Since my Death Spirits can’t die.
+
+I watch for a bit before dropping down and sitting on the edge of the cliff, simply swinging my legs back and forth while holding the edge with both my hands in between my legs out of boredom.
+
+So much for this being interesting.
+
+But then, as if to contradict my thought, several higher level nobles suddenly jump in along with some higher level knights. Or at least I assume they’re higher level judging by the clear power gap between them and the others out there. And these nobles and knights tear entire paths through my Death Spirits with ease and just a single strike of whatever they’re using. Whether that’s magic or blade or gun.
+
+I lean forwards a little, still swinging my legs back and forth. But my Death Spirits reform even after these stronger opponents arrive. My soul energy at this point having amassed so much that there isn’t much they can do to face off against my Death Spirits.
+
+Especially when my soul energy is actually still being replenished from all of the dying soldiers nearby. Both in my own battle here and the other battles going on nearby.
+
+Since this isn’t the only battle. In fact, it’s just one out of four within the couple hundred kilometer region around us.
+
+The battle continues raging with my Death Spirits still fighting without losing any steam at all. Meanwhile the enemy soldiers and knights very much lose steam. At least for the weaker ones.
+
+After watching for a bit and getting bored, I decide to stand up and stretch a little bit. Then I look past the enemies at their basecamp.
+
+Because what’s the best way to deal with an army?
+
+Starve them out.
+
+So I jump down from the cliff and begin heading through the forest surrounding the plains towards their basecamp on the other side of said plains. All while ignoring the enemy nobles and higher ranking knights who are clearly starting to search for me. Having no doubt realized by now the futility of trying to kill my Death Spirits.
+
+I sneak all the way to the edges of their basecamp, finding it still filled with soldiers and knights. Meanwhile I sense stronger energy sources inside.
+
+Well, time to get things ready.
+
+I frown as I begin sneaking down to get into their base.
+
+Would be so much nicer if I could use a nuke. But that would probably kill my allies as well.
+
+A pity.
+
+The Basecamp
+
+General Vladmar scowls as he slams his fist into the desk, destroying the desk while sending splinters all across the tent. Splinters that pierce into his subordinates armor without damaging the high level knights at all. With the splinters going towards the general all vanishing in a purple light the moment they get near his own blue and purple set of metal armor.
+
+“What is the point of this farce?!” the general shouts, his voice ringing out through the tent. “How are we supposed to kill an army of immortal Death Spirits?!”
+
+None of his nobles and officers say a word in response. Simply letting him continue ranting to himself.
+
+“What the hell is the duke thinking?! Going against a Horseman!” General Vladmar continues, his hands starting to blaze with purple flames with even more spilling out of his eyes. Then he raises his head to look at his highest ranking officer as he shouts, “How close are we to capturing the Horseman?!”
+
+The officer in question just shakes her head and answers, “We haven’t spotted her yet, my Lord.”
+
+“You haven’t even fou-” the general begins, only to freeze in place when he notices a change in the basecamp. Following which his head jerks to the side and he falls silent for a bit.
+
+“My Lord?” one of the nobles asks, but most of the higher level officers and nobles in the room all turn to look in the same direction as the general.
+
+Then the general whispers without even looking at them, “Get ready.”
+
+The others nod their heads, with only a few nobles in the large tent looking confused.
+
+But that confusion vanishes when a woman walks straight into the tent with ease and too much calm for her own good. Just walking right in with her hands in her pockets.
+
+The woman looks to be about twenty-one or twenty-two years old, but with the System and the obvious identity of the woman, her exact age is unknown to the general and the others in the room. She has long white hair, with glowing crimson eyes and is wearing clothes that are far too light for the freezing temperatures of the planet.
+
+“This makes things easier,” the general states while looking directly into her eyes. Trying hard not to look anywhere else that could even possibly offend her, despite her beauty and current bizarre choice of outfit for the climate. “Have you decided to turn yourself in?”
+
+Death just raises a brow at them and asks, “Why would I do that?”
+
+General Vladmar shrugs and answers, “To make this easier on all of us. And because you’re an outsider who shouldn’t be in this conflict in the first place.”
+
+“Should or shouldn’t is a matter of opinion, don’cha think?” Death asks while tilting her head a little, giving the general a bad feeling for some reason. But the woman just walks up to a random part of the table nearby and bends down to poke at it, making all of the knights and nobles near her back away while still holding tightly onto their blades’ handles. None of them having drawn them yet.
+
+“If you’re not here to turn yourself in,” the general begins before narrowing his eyes a little as the woman picks up a bit of wood from the table and seems to inspect it, “why are you here?”
+
+She doesn’t answer for a few seconds, leaving the general feeling wary.
+
+Because he knows she is most likely one of the last people in the universe anyone would want to fight. What with her power to permanently damage someone so that they aren’t able to ever heal, or her power to erase souls entirely.
+
+All without being able to be killed herself. Even if she’s not all that powerful on her own.
+
+“Oh, just came here to deal with something,” she answers before tossing the piece of wood onto the ground and standing up straight to look at the general.
+
+“To deal with something?” the general asks with a frown on his face. “To deal with us?”
+
+All of the nobles and officers in the room tense up with some beginning to draw their weapons part-way.
+
+The girl just smiles at him – and she is as old as a child in the general’s eyes even if she is over a century old at least – before crossing her arms and answering, “Nope. I came here,” she starts before the general hears something akin to a button being pressed from her pocket, following which she pulls her hand out with a remote in said hand, “to blow up your supplies.”
+
+Then explosions start to ring out from across the entire basecamp, making the general’s eyes widen in surprise and anger. But his anger is still limited because they have plenty of spare supplies within their storage rings.
+
+“And to destroy your storage rings,” Death adds a moment later before more explosions blow up the edges of the tent they’re in, leaving smoke filling the area even if it doesn’t actually harm the general or most of his nobles and officers.
+
+And amidst the smoke, the general just sees Death’s gaze looking straight at him, her eyes glowing through the smoke cover. As her voice echoes through the smoke-filled basecamp, sending chills down the spines of people far stronger than she is.
+
+“Let me know when you’re done playing and I’ll bring you back as a prisoner, okay?”

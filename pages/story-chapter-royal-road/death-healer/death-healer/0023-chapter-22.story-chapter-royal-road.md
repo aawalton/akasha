@@ -1,0 +1,241 @@
+---
+id: 60ba8639-57ed-55cf-8302-275e356c3608
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22"
+slug: 0023-chapter-22
+partOf: death-healer
+position: 23
+ownLength: 3496
+unit: words
+publishedAt: 2025-05-24
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2303306/chapter-22"
+royalRoadId: "2303306"
+---
+
+Lucianus hunched over a sheaf of official papers in one corner of the carriage, the lamplight flickering off the inked seals. Across from him, Adriana sat pressed into the cushioned bench, her gaze flicking to their daughter, Lily, who sniffed at the air and frowned.
+
+A faint smell of smoke rode the wind through the open window and made both mother and daughter curl up their nose. The father and husband, instead, seemed unbothered.
+
+"Lily," Lucianus said without looking up, voice flat. "You shattered a tree in the courtyard. Do you understand the difference between an orange sapling and an elm?"
+
+Lily lifted her chin.
+
+"It was an oak branch, Father. I—"
+
+He cut her off with a slow nod, finally lowering the scroll onto his lap.
+
+"The oranges were untouched. But you will no longer ride Ridi in the courtyard. You clearly need discipline."
+
+Adriana caught her husband’s eye as Lily’s protest rose, sharp with indignation. He met her look briefly, and she saw the tension in his shoulders and all his manners. Despite the fact that Lucianus was the Patriarch of the Gens Claudia, he had clearly not been taught how to hide his emotions.
+
+He's the one who wanted Lily to be a normal child, Adriana reasoned. Yet, he gives a hard time now that he got his wish. We could have trained her in the ways of the Gens Iulia, instead, if he had been ready to see her suffer in order to reach greatness.
+
+Adriana still lamented that Lily, with all the talent that brimmed from her lithe body, refused to follow a strict training regimen.
+
+The blonde woman noticed that on Lucianus kept shifting the heavy signet ring on his finger, the steel seemed to have made the skin swollen despite the fact that it had been refitted to Lucianus's measurements.
+
+For some reason, that made Adriana’s thoughts stray to the Dead Lands.
+
+Lucianus had faced the highest grade of Undead there, Revenants.
+
+Revenants were creatures that retained most skills of their former selves—and legends narrated that the Necromonarch himself was a Revenant. It must have taken every shred of Lucianus’s strength to slay those horrors, and still he returned to Alba.
+
+If he survived a gathering of Revenants... Marcus and he must have gained a trove of levels. How strong has he become? That aura he unleashed felt physical. Much stronger than my brother's. Perhaps, stronger than Tiberius's.
+
+She leaned back against the velvet cushion and said nothing further.
+
+* * *
+
+Lily pressed her forehead against the cool wood of the carriage door and watched the road wind toward the capital. She summoned the courage to look at her parents.
+
+“Where are we headed?” she asked.
+
+Adriana offered her a gentle smile that did not reach her eyes, and Lily sensed a bitter spark in her mother’s heart, a surge of anger beneath the calm surface that Lily read with her Mana Sense. By now, she was able to keep it active at all times, it wasn't even an afterthought.
+
+The interesting thing was that she had rarely felt so much hate flow like a river behind her mother's.
+
+“We are going to see Lavinia,” Adriana said, her tone light as she brushed a stray lock of hair behind her ear.
+
+Lily’s chest jumped, but before she could say anything, Lucianus spoke over her, with his eyes never leaving the pages of his papers.
+
+“We are celebrating the union of Aurelianus and his new wife, Livia,” he explained, voice measured as if declaring a fact rather than sharing joyous news.
+
+Lily swallowed.
+
+She glanced down at her robe. Her mother had fought her longer than usual, trying to get her to wear a gown. But Lily had threatened to let Ridi eat her entire wardrobe if her mother wanted her to look like a stupid upside-down mushroom.
+
+Adriana wore a dress of deep teal, its skirt falling in soft folds around her ankles. It sported simple, subtle pattern engraved in silver that shined whenever she turned around.
+
+Lily had seen Lavinia only a handful of times over the years. Her mother had told her that the redhead had been attending [Templar] training away and was too far from her for Lily to visit.
+
+The blonde twelve-year-old could not help but wonder what new Skills her friend might have mastered. A flicker of jealousy pulsed through her, but it was quickly swallowed by relief and excitement. Finally, she would be reunited with her childhood friend.
+
+The carriage wheels ground to a halt on the smooth stone drive, and a footman in black-and-silver livery stepped forward to unlatch the door.
+
+Lucianus shifted in his seat, released a low, weary sigh, and gathered the papers into a neat stack. He pressed them to his chest, then eased the door open and swung his leg out, boots clicking on the carriage step as he descended first and alone.
+
+The world outside was made alive by banners and torches, their light reflecting off polished marble of the cathedral in the front.
+
+Lily stepped onto the smooth marble threshold and paused as the cathedral’s vast portal rose before her.
+
+The front of the cathedral was beautiful, of course. The Church spent lots of money on sanctuaries to the God of Light. But, there was something that made the blonde girl cringe.
+
+Not only she could feel that most people that dismounted from carriages like them weren't feeling particularly joyous, but also the fact that the columns that she could see from the outside were looking quite... thin.
+
+* * *
+
+After Lucianus and Adriana had taken their time being greeted and welcomed as the heads of the Gens Claudia, they finally settled on a pew on the third row of the cathedral.
+
+Along the nave, vases brimmed with arrangements of pale green lilies, their petals tipped in silver dust. Black tulips—rare and velvety—clustered at their base, as if shadows had taken floral form.
+
+A hush fell as towering wooden doors swung open. All eyes turned, and then applause rippled through the congregation. Lily’s breath caught when Lavinia appeared.
+
+A hush fell as towering wooden doors swung open. All eyes turned, and then applause rippled through the congregation.
+
+Lily’s breath caught when Lavinia appeared. Her gown was a cascade of mossy green and soft butter yellow, the yellow like pale sunlight filtered through damp leaves.
+
+To most it was radiant, but through Lily’s Mana Sense the green pulsed with rot, like a spoiled stem stretching toward decay.
+
+Lavinia paused at the threshold and swept a cool gaze across the hall. She spotted Lily and her frown deepened. Lily didn’t hesitate: she vaulted over the pew with a grace that surprised even her and tried throwing her arms around Lavinia’s waist.
+
+Lavinia’s hand rose, fingers splayed against Lily’s shoulder.
+
+“Don’t ruin my dress,” she said, voice low.
+
+The applause dulled to silence as Lavinia turned her head and fixed Lily with a measured stare.
+
+“You really wore that to Father’s wedding?”
+
+Lily froze, uncomprehending. Her lips parted, but before a word could form, Lavinia’s voice cut through the hush.
+
+"The ceremony is about to start," she said, stepping back and brushing a stray lock of hair from her face. "Go sit down."
+
+Without waiting for Lily’s reply, Lavinia turned on slender heels and glided past her toward the front row. The hem of her green-and-yellow gown whispered over the marble floor as she took her place in the first pew, her posture poised and distant as if she had never known Lily at all.
+
+Lily remained frozen, her heart thundering in her chest.
+
+What just happened? she wondered. Why won’t she speak to me?
+
+Did I offend her? A dull ache of hurt settled behind her ribs.
+
+Lily went back to sit with her parent, feeling, weirdly enough, her mother taking her hand and caressing it softly.
+
+Then, once everyone had been seated, the couple finally stepped through the large double-doors.
+
+Aurelianus stepped in first and wore robes woven of burnished gold thread so that each fold caught the torchlight and gleamed like sunlit metal. As Lavinia had worn mossy green, he traced that color in leaf motifs along his hem and cuffs.
+
+A soft keening hush followed Livia’s entrance.
+
+She appeared in pristine white silk, its smooth surface unbroken save for a single bold accent: a deep ruby resting at her throat in a finely woven filigree of silver around her neck--almost like a collar.
+
+They moved together down the central aisle beneath vaulted arches. Guests rose, their murmurs swelling to applause that echoed under stone vaults. Lily watched as the father-and-bride approached the altar.
+
+When Aurelianus reached the dais, he paused, inclining his head to Livia with a gesture both regal and weary. Livia offered him a gentle smile, her ruby flashing bright as she extended her hand. He took it, and in that moment the gold and green of his robe caught the light in a way that almost blinded Lily.
+
+Aurelianus drew a slender ring from his finger—an heirloom of the Gens Aemilia fashioned from dark gold—and placed it on Livia’s palm.
+
+* * *
+
+At the party, which was held in a sprawling garden decorated for the occasion, Lucianus, Adriana, and Lily moved toward the elevated table where Aurelianus and Livia would sit. The platform rose above the long rows of benches and marked their place at the center of every eye.
+
+Lucianus and Adriana sat just below them and so close that their chairs nearly touched the dais, which showed all guests how high the Gens Claudia stood. Lily noticed her mother’s hand tighten on the table and so through her Mana Sense she felt the pure hate Adriana directed at Livia as she smiled but kept her eyes on her husband.
+
+Across the hall Lavinia took a seat beside Aurelianus’s cousins, and she sat up so straight that even her chin seemed to lift a little higher. Lily frowned because her friend seemed to be a different person.
+
+She heard Adriana lean in and say, “There is the Gens Cornelia, Lucianus, and Drusus has just arrived. Let us go greet him.”
+
+Lucianus rose and Adriana followed, and Lily stayed at the table as she often did when grownups moved away.
+
+Her attention shifted when a performer in bright orange stepped into the center of the garden--which was were all the table were turned toward.
+
+The performer wore a fox mask and caught fire in his hands while he juggled. Lily watched without much surprise because she knew it was magic, yet she had to admit that he was nimble as he threw globes of flame high and caught them with ease.
+
+Then he lit several blades and let them spin through his fingers among the fire orbs, and he sent them even higher.
+
+The crowd clapped.
+
+Lily thought he held her gaze each time he tossed a blade up.
+
+He struck both the blades and the fire-orbs with his hands and feet in quick motions, and sparks showered like light rain. At last he caught a blade between his teeth as he stared at Lily, and then he turned and threw one blade in her direction.
+
+The steel spun through the air and landed an inch from her place.
+
+Laughter rose around her, but Lily felt her pulse spike when she saw it. She reached out and touched the blade, and it melted into an orange lily that lay softly in her palm.
+
+She looked up and the fox-masked juggler gave her a slow wink. Then he vanished in a swirl of orange smoke, leaving only the flower in her hand.
+
+Who the hell was that?
+
+Everyone around Lily was eating, talking, and celebrating. Even her mother appeared to be in a better mood. Lily noticed that her mother kept looking at her father whenever he was not paying attention, and she seemed to believe that no one else could see her gaze. Lily, however, was able to catch that look because her [Mana Sense] allowed her to sense small ripples of movement.
+
+After Lily finished a platter of fried artichokes, and while their rich flavor still lingered in her mouth, she set her cutlery on the table and turned her attention to her own hands. She examined the calluses that had formed across her palms. She had realized before that her healing ability did not erase calluses as thoroughly as it cured other injuries, and it sometimes seemed to make scars stand out even more. Lily recalled that her mother once made a similar observation but Adriana likely did not remember telling her since it had been in passing.
+
+Lily tried to imagine how many calluses Lavinia might carry, since she had always pictured her friend drilling with a sword until her skin grew hard and uneven in the past four years.
+
+Lily herself was not particularly interested in becoming a warrior. She felt uncertain about what her future should be, but she had believed that Lavinia’s determination would lead her friend to become a great [Templar]. Now that Lily saw Lavinia from across the garden, dressed in a gown Lily never would have imagined her wearing, she felt confused and wondered what had changed.
+
+Lavinia stood at a distance, wearing a lovely dress that made Lily pause because she had almost failed to recognize the girl she used to know so well. Lavinia had grown so much that she was now Lily’s height, which was surprising because Lily had been told several times that she was tall for her age. Their mother often mentioned Lily’s blood whenever she described that height, and Lily felt a little embarrassed that all the boys she had seen around the house of Claudius or in the capital were shorter than she was. Yet Lavinia, straight-backed and elegant, appeared even more self-possessed.
+
+Lily saw that her redhead friend was smiling politely and giving nods to whatever the others at her table were saying; she looked like a perfect lady, the kind that Adriana would admire, but she knew Lavinia’s nature and still pictured her more as a scrappy fighter than a delicate noble.
+
+She could not help asking herself why her friend had changed so drastically. She repeated the question in her mind and glanced across the crowd to Lavinia’s father, Aurelianus, and to Livia, who was now pregnant.
+
+Her belly was already large. Lily noticed her mother’s temper had eased around the new wife because she was so absorbed in Lily’s father. Yet, Lily felt that some of her mother’s old anger had settled in her own stomach.
+
+Lily used [Mana Sense] on Livia and sensed a gleeful pride that made her uneasy. She thought that Livia’s satisfaction was not the kind of happiness that anyone else would share because it seemed smug, as if she were admiring her husband the way someone might admire a particularly succulent piece of meat.
+
+Meanwhile, Aurelianus regarded his wife as though she were the most exquisite woman in the world. His longing for her was so intense that Lily’s [Mana Sense] almost registered it like a beacon of warmth. Lily tried to look away because she did not understand how these two people perceived each other.
+
+Her attention shifted as she remembered the masked performer who had worn a fox mask. She had been trying to catch a glimpse of him amid the revelers because she was still curious about how he had concealed his mana signature while casting. She had rarely experienced that kind of near‑invisibility in her senses. Even her father, who could suppress his own aura, was easy for Lily to detect from one end of their villa to the other.
+
+And so, she kept wondering who the fox‑masked stranger might be.
+
+Curiosity pushed her to do something that she was not entirely proud of. She decided to break one of her personal rules. She had no qualms about using [Mana Sense] to read her parents’ emotional states, since that was often helpful to see how they would react if she accidentally provoked them, but she usually refrained from using it on Lavinia. She had held to that rule since she had first used it on her by mistake almost.
+
+Now she felt she had to see what her friend was experiencing, so she let her [Mana Sense] reach out toward Lavinia.
+
+She discovered that Lavinia was hard to read from a distance because so many people surrounded her. Lily tried harder and found herself concentrating more than she had in a long time. She frowned and tried to isolate Lavinia from the dozens of others around her, but something in her friend’s aura was elusive.
+
+Lily felt a mounting pressure in her head as she reached deeper with [Mana Sense]. She recognized that the skill was demanding more focus than usual. She paused, pressed her lips together, and searched for a clever way to cope with that difficulty.
+
+The process was so consuming that she felt blood start trickling from her nose, so she used a handkerchief to hide it.
+
+"Are you ok, darling? Are you feeling sick?" Adriana asked when she noticed Lily ignoring her soup.
+
+"I'm fine, mom."
+
+It didn't take much to get Adriana to focus on something else.
+
+She decided to redirect her power. She knew how to look inward with healing magic because she had repaired her own body and Ridi’s body after accidents or injuries.
+
+If she could mend bones and strengthen joints, she could perhaps address the side effects of [Mana Sense]. She recalled that whenever she checked inside herself for injuries, esoteric, mysterious bits of knowledge flitted through her head.
+
+And just like that, a word came to describe the phenomenon of her memory experiencing those bits. She thought of the phrase “photographic memory.”
+
+As she studied the intracranial pressure behind her eyes, inside her skull, in her very brain, she understood that it was not just blood flow but cerebrospinal fluid as well. She told herself that she needed to be cautious because she might become brain‑damaged if she pushed her senses too far.
+
+Images related to term brain death formed in her thoughts, and she tried to force down her rising apprehension. Lily's plan was to now act on the arteries. She believed her [Mana Shaping] was already at a high level, so she chose to attempt a delicate maneuver.
+
+She created tiny threads of light magic and looped them around her arteries, including the smallest ones. She took care to weave them around even the capillaries.
+
+It took so long that once again Adriana asked Lily if everything was ok, and she had to stop for a moment.
+
+Lily smiled and took a few spoonfuls of the soup, saying that it was not up to her taste, and, knowing how picky she was with food—or at least that was what she wanted her to believe—Lily just went back to work on the spell.
+
+Halfway through that, Lily realized she was probably going to get a skill for it, because she had wrapped most of her arteries and capillaries in nets of Light Magic; the amount of Light Magic she had to use was very small, since this was more about control.
+
+By the time Lily finished weaving her lattice of magic, she felt relief because the pressure in her head had massively eased up.
+
+She smiled and cast her [Mana Sense] outward again, embracing the calm that her Light Magic brought her. She then narrowed her focus until only Lavinia occupied her senses. She blocked out everyone else until it seemed there were only two people at the party.
+
+She finally perceived her friend's emotional state, which was neither sad nor pleased, but profoundly tired. It was the weariness of someone whose spirit had grown gray. Lily realized that she had only encountered such a feeling in the very old or in those whose hearts had been worn down by age and life's challenges. She wondered why a twelve‑year‑old child felt such bone‑deep exhaustion. Her thoughts were still churning around that question when she noticed Livia rising to her feet.
+
+“Dawn’s mercy,” Livia exclaimed while she clapped her hands excitedly. “We’re so happy to have all of you here, and we have two grand announcements.”
+
+Aurelianus rose as well with a large smile on his face, and Livia looked expectantly at him.
+
+"A [Healer] confirmed it this morning. Livia's about to bring me a male heir!"
+
+The entire party erupted in cheers and applause, and Aurelianus saw many of his pals, especially from the military, getting up and toasting him; this was great news, and the gents Emilia would soon have an heir, and, as the cheering calmed down
+
+As the cheers subsided, Aurelianus prepared to deliver the second announcement, but Lily was distracted because she still sensed a deep pit of despair from Lavinia at the incoming news.

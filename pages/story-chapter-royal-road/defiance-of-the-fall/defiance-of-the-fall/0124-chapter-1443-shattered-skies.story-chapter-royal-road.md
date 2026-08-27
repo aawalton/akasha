@@ -1,0 +1,175 @@
+---
+id: b1971638-7d73-5a81-8d03-20a76d6d7839
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,443 - Shattered Skies"
+slug: 0124-chapter-1443-shattered-skies
+partOf: defiance-of-the-fall
+position: 124
+ownLength: 3017
+unit: words
+publishedAt: 2026-08-06
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3778710/chapter-1443-shattered-skies"
+royalRoadId: "3778710"
+---
+
+“It’s mine?” Zac said as he looked at the spatial nucleus in delight.
+
+Zac had initially been ecstatic to find [Shattered Sky Scripture] hidden beneath the repository. It was exactly the sort of auxiliary technique that almost any Monarch would like, especially Mortals. Its first benefit was that it lowered the drain of the Inner World’s spirituality. Part of the leakage would be absorbed by the Shattered Sky Nuclei before it was returned to the cosmos.
+
+The nuclei didn’t immediately return the energy to the sender, though. Instead, they slowly stockpiled the reserves until they reached extraordinary levels. This tied into the method's other use. The nuclei could be sacrificed during breakthroughs to provide an additional push.
+
+In other words, they were like self-made breakthrough pills. Since they were filled with one's own energy, there were no problems of mismatching spirituality or toxicity. A practitioner of [Shattered Sky Scripture] could form one nucleus during each minor realm of Monarchy for a total of four. It was also up to the user when to use them.
+
+The optimal solution was to save all of them until the most difficult step of Monarchy, the Dao Confirmation into Divine Monarchy. However, Zac could see the nucleus being just as useful when taking the first step into Monarchy. Lastly, the nuclei could also be used as last-ditch attacks, though that meant sacrificing the chance for a smoother breakthrough down the road.
+
+Zac’s joy didn’t last long upon discovering the manual, and he ended up handing it over to Esmeralda after a brief study. The reason was simple; it didn’t matter how good a manual was if you couldn’t practice it. [Shattered Sky Scripture] mostly relied on the Dao of Space. You needed to create these black hole nuclei that could stably store the energy leakage for millennia.
+
+“It’s a shame I didn’t have more time. I had to make some sacrifices,” Esmeralda said with mock humility. “You won’t be able to take it out to blast your enemies. I figured you have enough ways to deal with your enemies already. This is for cultivation only.”
+
+“Not a problem.”
+
+“These external nuclei have one more downside. They will accumulate energy roughly half as quickly as the original,” Esmeralda said, quickly adding as if afraid he’d misunderstand. “It’s not because they’re lacking in quality or anything like that. You don’t practice the Dao of Space, so I had to figure out a different way of ensuring they remain stable inside your inner world. There’s essentially a maintenance array crammed inside.
+
+“Half is better than nothing,” Zac said, not bothered in the least.
+
+“It is, but you need to be careful,” Esmeralda solemnly said. “The arrays need to feed. Otherwise, they won’t be able to contain the accumulated mass.”
+
+“You mean they’ll explode if I completely drain my energy?”
+
+“Exactly, and that includes you right now,” Esmeralda said before shrugging. “The drain shouldn’t be too bad. Just remember to always keep a little something in the tank.”
+
+Zac thought it over before nodding. There were some risks involved, but the potential gains far outweighed the downsides. Progressing through the C-grade as a mortal was extremely difficult. You faced constant drain with no natural way to recover the loss. Any moment he slowed down, he would be losing his cultivation.
+
+Repeated temperings from Four Desolates Tribulations would decrease the loss, but there was only one permanent solution. A Monarch’s inner world would stop leaking after they’d confirmed their Dao. In other words, Zac couldn’t very well be turning down solutions that would help him break through faster. He needed to blitz through the stages before his resources ran out.
+
+“What do I need to do?” Zas asked.
+
+Zac quickly followed Esmeralda’s instruction to release a few drops of essence blood. Zac only felt a brief wave of weakness before it turned into a pang of hunger. With his layered constitutions, he was a veritable blood factory. The blob of pitch-black Ichor silently hovered before the spatial sphere as Esmeralda began pouring a dizzying number of intricate runes into it.
+
+“Now, the Dao,” Esmeralda said as she created two distinct runes around the nucleus. “I can’t recreate your odd path, so you’ll have to do with this.”
+
+While made of pure Spatial Energy, Zac could easily sense which rune corresponded to which of his Daos. One was Death, the other Conflict. He rallied his Dao Avatars to begin infusing them with streams of pure comprehension. As he did, the runes began shifting on their own, gaining new details while removing others.
+
+They were gradually morphing from Esmeralda’s best estimates of his Daos into tailored patterns perfectly matching his path. And they were insatiable. Zac kept pouring and pouring until his pallid skin nearly turned translucent.
+
+“How much more?” Zac croaked.
+
+“What are you complaining about?” an equally pressed Esmeralda grunted in response. “Would it have killed you to only focus on one Dao?”
+
+“…Probably?” Zac said after some thought.
+
+“Very funny. Anyway, we’re about done,” Esmeralda said.
+
+As promised, the runes were filled out shortly after. Esmeralda first inserted the Dao Runes into the sphere, at which point it began to tremble precariously. Zac’s eyes widened at the ominous fluctuations, and his Danger Sense urged him to add distance. This was a genuine C-grade ball of compressed space that was originally meant to act as a desperate attack. Not even he could endure a head-on collision.
+
+Thankfully, Esmeralda truly had the situation under control. She inserted the ball of Ichor next, and it became the bridge between his Inexorable Daos and the [Shattered Sky Scripture]. The sphere stabilized, and Zac even felt a weak connection similar to his Spirit Tools.
+
+“Phew, it worked,” Esmeralda muttered, ignoring Zac’s suspicious glare. “Now, the final part. Open a vortex inside your subspace.”
+
+“I don’t think my vortices can bear a C-grade black hole passing through,” Zac hesitated.
+
+“It won’t have to,” Esmeralda promised.
+
+Zac shrugged and followed suit, opening one vortex before them and another at the edge of his Quantum Space. Instead of directly pushing it through, Esmeralda conjured a weak stream of starlight. The river passed through Zac’s Void and shortly after appeared on the other end. Esmeralda did nothing for a few seconds before nodding.
+
+The next second, the sphere winked out of existence, directly teleporting inside. It looked like Esmeralda only needed the vortices to locate the coordinates of his inner realm. A weight began permeating the Quantum Space as the orb settled into a distant orbit around Zac’s Cosmic Core. While slightly uncomfortable, it wasn’t harmful.
+
+On the contrary, the constant pressure seemed to have a somewhat tempering effect on both his cores and the space itself. It was much more effective than his aperture-tempering bronze knot, which still rolled around inside the Quantum Space. And that wasn’t even the best news.
+
+“It’s slowed down!” Zac said.
+
+“I thought it would, but I wasn’t sure,” Esmeralda grinned.
+
+With the nucleus releasing constant pressure, the Quantum Space’s shrinkage had slowed down by nearly half. Of course, the nucleus wasn’t going to put in all that work for free. Just like Esmeralda said, the nucleus began drawing both energy and Dao into itself. The nucleus spared the Divine Energy and Dao of Life while both components of his Inexorable path were gobbled up.
+
+Thankfully, it really wasn’t that bad. Zac judged that the nucleus had slowed down his natural recovery by just under twenty percent.
+
+“Not bad, huh?” Esmeralda said upon seeing Zac’s satisfied expression.
+
+“It’s amazing,” Zac said. “Thank you.”
+
+“Oh, don’t thank me yet,” Esmeralda grinned. “This is just the first of many. I’ll produce three more over the next few weeks as I transition through Monarchy, so make sure to keep your soul topped up and ready for more infusions.”
+
+“Can you make two of them a mix of Life and Conflict?” Zac eagerly asked.
+
+Four nuclei would commandeer most of his natural recovery, but Zac didn’t care in the slightest. He could supplement the loss with Cosmic Crystals and Void Heart. There were also energy-gathering treasures like the mother-daughter array he used in the F-grade. Such treasures weren’t that rare, so getting his hands on a Peak D-grade Energy Gathering tool was by no means impossible. Besides, half of what he invested would eventually be returned when he needed it the most.
+
+“Sure, but you’ll need to provide blood from your other body or it’ll clash,” Esmeralda said, waving him away. “Now, get back to work. I can’t keep the spiral suppressed much longer.”
+
+“How long until the next one?”
+
+“At least a week. I’ve reached the limit of what this trial allows. It can’t directly kick me out while I’m connected to [Second Singularity], but I have to dedicate some of my focus to hiding from the System’s glare.”
+
+“A week? That’s more than enough,” Zac said before flying out of the zone’s center.
+
+Just seconds later, the vibrant mists of Spatial Energy once more opened up around Esmeralda, and the purple stream of spacetime regained its otherworldly quality. Zac didn’t immediately resume his duties, though. His other half might need the spare energy soon enough.
+
+-------------------------
+
+Zac exhaled and finally tore his eyes away from Fuxi’s statue.
+
+‘Still not there,’ he lamented.
+
+He’d spent every waking moment pondering the mysteries of the [Grand Unity Canon], going so far as to dip into his stash of Corruption Crystals to accelerate his learning. While he was much further along than he had been ten days ago, he still hadn’t grasped the introductory layer. At the same time, staying any longer wouldn’t make much of a difference.
+
+There was an unbridgeable chasm between Zac’s current level and actual comprehension. It wasn’t a problem with the mnemonic Emir provided, though it was connected. Zac didn’t understand the underlying meaning of the lines, so the insight they brought didn’t go all the way. He even suspected there might be some contradictory facts to muddy the waters, particularly with the mnemonic’s last line; ‘Unity is the mandate of man.’
+
+After his Bloodline Vision, it was hard not to connect the word "man" with Laondio Evrodok, and the statue’s glowing orb of Imperial Faith indicated the Peak of Man might be connected to the [Grand Unity Canon]. But for some reason, Zac kept feeling it wasn’t the correct interpretation. Fuxi’s mantra was an individual’s pursuit of Eternity, and the word "man" could be a reference to using the “self” as a catalyst to form Grand Unity Qi. It was only later that the Limitless Empire stepped in to subvert the original meaning so that it suited their needs.
+
+It was equally possible that Zac was seeing what he wanted to see. The scripture would be useless to him if it relied on Imperial Destiny or Imperial Faith to function. This nagging uncertainty by itself was part of the reason he couldn’t make any further headway. He either needed more context or the actual cultivation manual to make further progress.
+
+The good news was that he’d comprehended enough that the runes should remain stable in his mind for a few months, enough to complete his mission inside the Ninth Hell. Meanwhile, the Shattered Sky Nucleus had stabilized inside his Quantum Space, and he’d recovered most of his Mental Energy over the past few hours. It was time to go.
+
+Zac dusted off his robes before he rose toward Fuxi’s raised arm. Emir was sitting atop a platform, relying on the upheld sun made of Imperial Faith to avoid the ambient Void Energy. The set of bangles he wore was undeniably quite effective at creating a force field of Dao to nullify the relentless drain, but solely relying on it was too taxing in his wounded state. Zac had been forced to crush a few Cosmic Crystals or set up temporary shelters a few times during their journey through the earth’s core.
+
+“Are you done?” Emir asked, continuing upon seeing Zac’s curt nod. “I’m ready whenever you are.”
+
+Haro’s vines extended to grab hold of Emir’s floating platform, and the two set off through the lifeless world. The mirror realm’s pervading silence only felt louder from the unspoken words between them. Emir still hadn’t offered up any permanent solution on how to deal with the dangerous knowledge he possessed. He’d been hinting at valuable insights that could prove vital when it came to the Primo’s treasure and the Left Imperial Palace.
+
+Zac still wasn’t sure what his best option was, though he had devised a decent backup solution. Esmeralda had confirmed she could easily put Emir in stasis by the time she reached Late Monarchy. That way, he could keep Emir inside [Shrine of Kanba] until they were back on Earth. The shrine had already lost its use now that Esmeralda had reached C-grade.
+
+They reached the small mountain nestled among its bigger brethren a couple of hours later. The timing was just about right. The pathway that presumably led to the Primo’s treasure only opened during each surge, and the next one was only two hours away. It was more than enough time to sneak inside the mountain and position themselves.
+
+“Now that’s better,” Emir said with relish as they entered the mountain's Faith-attuned domain.
+
+Zac appeared casual as he brought Emir closer to the wall, yet his senses were strained to their limit. He was ready to strike at a moment’s notice if he noticed something amiss with his prisoner. If something were to go wrong, it was here.
+
+Emir had Zac take him around the mountain two times before they stopped before a particular section in the middle of its slopes. The location he picked was enough to raise Zac’s expectations. It was one of three spots he’d identified as potential entrances.
+
+“Do you need array flags or array breakers?” Zac asked.
+
+“I am the array breaker,” Emir said with a slight smile as he put his hands against the wall.
+
+Nothing happened for more than an hour. Was Emir waiting for him to lower his guard? Finally, Zac started sensing spiritual fluctuations from the man. They grew stronger and stronger until Emir’s eyes shot open. At that point, they were fully gold, and an archaic rune appeared on his forehead. Zac carefully took a step closer, giving him a better view of the mantra emerging from Emir’s mind. It was as if Emir had extracted his own soul, and he would have collapsed if not for a vine holding him upright as the mantra entered the mountain.
+
+There were no large fluctuations or explosions. The complex patterns on the wall silently rearranged themselves until a pathway opened. Behind a shimmering curtain of Imperial Faith was a clean corridor inlaid with glowstones and decorated with simple environment-maintaining runes. It was clearly a proper entrance and not a backdoor.
+
+“Not bad,” Zac praised as he carefully inspected the interiors.
+
+“Just doing what I promised,” a winded Emir said as his mantra returned to his soul aperture.
+
+“Are there any traps—” Zac didn’t get the chance to finish his sentence before the golden shimmer covering the entrance turned opaque.
+
+Then, an extreme suction locked onto both Zac and Emir, who suddenly tapped Zac’s forearm. He felt a flash of warmth as something similar to his Flamebearer seal took shape, and the pull grew significantly stronger. It was like the whole mountain was trying to drag him into the sea of Imperial Faith that now blocked the entrance.
+
+Just when it looked like the two would get sucked in, a pitch-black vortex popped up to block the entrance. The Void Vortex only lasted a moment before shattering, at which point only Zac remained outside. Without its controller, the gateway collapsed. What once looked like the very same portal that Emir had emerged from during their first encounter reverted to its normal pathway with an isolating barrier.
+
+For safety’s sake, Zac created two more vortices, appearing inside the tunnel without ever touching the film of Imperial Faith. The next moment, he disappeared as the [Fuxi Mountain Gate] fell to the ground. Zac had taken it out the moment he noticed something was wrong. He appeared in the Void Treasure’s hidden realm, where Emir had already been deposited. He had been placed right by the gate itself, and he looked lost as he gazed at the darkness beyond.
+
+“Thank you for making things easy,” Zac said as he landed on the platform.
+
+Emir slightly smiled as he turned around. “It was worth a try.”
+
+“Was it?” Zac said with a sigh.
+
+“You’re only delaying the inevitable. Whether you like it or not, you belong with us. It’s both your duty and your destiny,” Emir said.
+
+“My destiny is made, not inherited,” Zac said as his arm flashed.
+
+Emir was cleanly cut in two before he could spout any more nonsense. The weakened mantra recuperating inside his Soul Aperture was ripped apart by a violent storm of evolutionary violence. Zac added a few more axelights for good measure before waving his left arm. What remained of Emir and his treasures was pushed through the mountain gate into the bottomless Void beyond.
+
+That was a space where not even Zac dared to tread, and he watched as all traces of Emir were erased. Zac shook his head and turned away. Emir had truly made things easier for him. Truthfully, he’d somewhat expected that Emir was preparing to sacrifice himself to open the path into the mountain.
+
+Those kinds of selfless acts were more in line with the Limitless Empire than covert schemes, unless you counted the Emperor himself. If Emir had sacrificed his life willingly, Zac would have found himself tied down by yet another debt to the Limitless Empire. Instead, the slate was wiped clean and Karma was severed.
+
+The next moment, Zac was back in the corridor. The exit behind him was gone, while the path to the inner hollow remained open. He could already feel the forces of Life and Death gathering within. One more hour. It should be enough.

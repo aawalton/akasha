@@ -1,0 +1,103 @@
+---
+id: 49ddebd1-3df7-588c-a09e-a2f267469da6
+page-type-slug: story-chapter-royal-road
+title: "B5 | Intermission 5"
+slug: 0350-b5-intermission-5
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 350
+ownLength: 828
+unit: words
+publishedAt: 2026-06-05
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/3498017/b5-intermission-5"
+royalRoadId: "3498017"
+---
+
+Within the Fallen Planet
+
+The Fourteenth Demon King frowns at the sight of the notification that appears in front of his vision.
+
+This is an announcement to all users within the System throughout the universe!
+
+A Horseman of the Apocalypse has fallen!
+
+The Horseman of Famine has been killed, ending the Era of Famine!
+
+But be warned, for a new Era of Famine will begin again in the future.
+
+Under a new Horseman of Famine.
+
+For the Horsemen of the Apocalypse are eternal.
+
+The message may mean that Ryzen has less competition, but it also means that the universe will have less distracting it from his recovery.
+
+Up until now, Ryzen has managed to recover a large amount of his power thanks to the crusade against the Horseman of Famine. So they will most likely return their focus to hunting Ryzen now.
+
+Ryzen narrows his eyes before opening a gate and appearing next to the Horseman of Death to once again ask for aid. Only for his clone to be erased in an instant by one of the knights constantly guarding her.
+
+Those damned Crimson bastards…
+
+His greatest chance for survival has always been to ask for aid from one of the Horsemen of the Apocalypse. But none of them have shown even the slightest interest in helping him.
+
+Back when Famine was alive and before the Famine Crusade, Famine just drained his clone of all its energy before trying to keep his clone locked up for amusement.
+
+And when he tried to ask Pestilence for aid, Pestilence kept his clone to experiment on.
+
+Ryzen still hasn’t seen that clone since.
+
+Finally, when Ryzen went to ask War for aid, the Horseman of War simply ignored him when he realized he couldn’t get anything from dueling Ryzen’s clone.
+
+Ryzen continues staring at the notification until it disappears. Then he turns his attention to the balcony of his palace around him.
+
+He walks over to the balcony from his throne room before looking out at the dead wasteland surrounding his purple and black palace. And at the fallen energy filling the air all over the planet.
+
+At the very least, he’s managed to create a home for himself that no mortal can intrude upon.
+
+No mortal can even find.
+
+So long as he stays on this planet, no mortal in the universe can find him.
+
+Because it’s a planet completely infested with fallen energy.
+
+The Fourteenth Demon King narrows his eyes as he looks out at the wasteland around the castle. And at the swarms of fallen demons roaming around the wasteland.
+
+A part of the Demon King also feels worried after seeing the rest of the universe killing off the Horseman of Famine.
+
+Because the Horseman of Famine was also a being made of energy. And he was one far stronger than Ryzen.
+
+That knowledge alone is enough to make Ryzen push off his plans to the future.
+
+Until after he has grown stronger than the late Horseman of Famine.
+
+And preferably after he’s gained some allies.
+
+No one will be able to find his planet now. Not unless the Horsemen or the undead pharaoh themselves begin to search the universe for his planet.
+
+Which is unlikely.
+
+The Demon King can’t see Pestilence or War caring about him considering his previous experience with them. Unless War decides he wants a duel with Ryzen’s real body. Or Pestilence wants to experiment on his real body.
+
+And Death doesn’t have any interest in him at all.
+
+Even the pharaoh likely won’t have any interest since Ryzen isn’t interfering with any of the pharaoh’s matters. Not unless the Horseman of Death orders him to.
+
+With that in mind, Ryzen soon orders all of the fallen demons across the universe to retreat. Turning them all into fallen energy and drawing them into the Fallen Planet.
+
+Further empowering the planet in the process and ridding the rest of the universe of any traces of him.
+
+With this I should be able to hide for a while without interference with the universe.
+
+Fortunately for him, all he needs to level up is to absorb more fallen energy from the universe.
+
+So he can do it without any fear of being discovered.
+
+All he needs to do is to wait on the Fallen Planet and level up as much as he can. All the way until he’s strong enough to take on the Horsemen themselves.
+
+Even if it takes him tens of thousands of years, or even hundreds of thousands of years.
+
+He will wait for as long as it takes.
+
+And just in case, he should stop bothering Aria during that time.
+
+Once his level has become high enough, he can continue with his previous plans without hesitation. Spreading all of his fallen demons across the universe and taking over everything he can in the process.
+
+“Because everything must fall,” Ryzen mutters to himself as he stares out at the wasteland all around him.

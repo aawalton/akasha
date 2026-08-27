@@ -1,0 +1,315 @@
+---
+id: dd736e83-2e22-57ad-b723-5edb42d69715
+page-type-slug: story-chapter-royal-road
+title: "185: Promotion"
+slug: 0185-185-promotion
+partOf: delve
+position: 185
+ownLength: 4506
+unit: words
+publishedAt: 2022-03-13
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/863579/185-promotion"
+royalRoadId: "863579"
+---
+
+Welen furrowed his brow as the white-jacketed warrior raised his sword into a simplistic guard. It was from the very first rank of Sparrow Kata, he was sure. Welen was an Axeman, not a Swordsman, but he’d been fighting in and out of ranked lands for decades with more parties than he could count. He knew Sparrow well enough to recognize it, and also well enough to know it to be a poor choice. The introductory sword Kata was meant for darting exchanges against the weakest of monsters. It was NOT meant for trading blows with an armored human opponent in an enclosed space. Thrast’s armor—consisting of heavily-hammered plates strapped over a layer of chainmail—wasn’t impressive, but it would easily stand up to the passing cuts of the form. For a Swordsman, Egret was what was needed when facing an armored target, and any adventurer worth the price of a whetstone would know it.
+
+Either he’s taunting Thrast, or he really was lying about being silver. If all he has is Sparrow, he’s a dead man.
+
+A few chuckles spread through the room, others coming to the same conclusion. One way or another, this fight would be entertaining. Either Thrast would finally get a beating—something for which he was long overdue—or they’d get to watch him work out his irritation by batting the newcomer’s body about the dueling ring like a cat batting about a dead mouse.
+
+Thrast, for his part, clearly didn’t appreciate the laughter. After a moment of indignant disbelief, he roared, striking forward with a brutal, two-handed chop that would have split a boulder in half. The newcomer shifted his sword to catch the blow, but at the last moment, Thrast spun away from his original line of attack in a blur, his blade simultaneously bursting into flame. The twisting, momentum-defying reversal was characteristic of an advanced Kata—Hawk, perhaps. It ended with Thrast somehow behind his opponent, his blade arcing up to slam into the man’s armpit, left vulnerable from the attempted block.
+
+As before, there was a sound like cracking ice in coldest winter, accompanied by a ripple in the air.
+
+There was no cry of surprise or pain from the armored fighter. Seemingly unconcerned at having missed his block, he slashed gracelessly at Thrast, forcing him to dart away. The crowd cheered in appreciation once they realized what had happened.
+
+Undeterred, Thrast went back in for another pass with his burning sword, again using an advanced technique to slip past the newcomer’s guard. This time, his blade carved a smiling line across the newcomer’s chest. There was no sound but that of steel on steel this time. The strange defensive magic didn’t trigger, and there was no ripple in the air.
+
+The newcomer turned, the burning fabric of his jacket falling away to reveal steel beneath. Undamaged. The crowd around Welen hollered in excitement.
+
+“He’s a bloody Defender!” Breal shouted from Welen’s elbow. “Kick his ass harder!”
+
+“Burn him up, Thrast!”
+
+“Yeah!”
+
+“Go, new guy!”
+
+Again and again, the two combatants clashed, smoke rising from the charred remains of the newcomer’s jacket as it burned away. He was clearly outclassed when it came to skill with a blade. Only once did he manage to catch Thrast’s sword with his own, and even then, it was immediately batted aside. His footwork was decent enough, Welen supposed, but it wasn’t overly challenging to keep your balance when you were just standing there like a stump.
+
+If he’s a Defender, he might be trying to get Thrast to tire himself out. Bad idea. Thrast ain’t much of one, but he’s still a silverplate.
+
+Thrast’s speed had kept increasing, the flames surrounding his blade intensifying and beginning to leave burning trails of embers in their wake as the man himself became a blur.
+
+Starling Frenzy?
+
+Welen became sure of it as Thrast’s tempo kept climbing. Starling Frenzy was an infamous Swordsman skill, despite being tier three and thus quite rare. With each successive strike, the user’s Speed would climb slightly higher, and the stamina cost of the next movement would be slightly reduced. The effect would continue indefinitely, provided that Thrast kept moving and didn’t miss.
+
+The real limiting factor was the damage limit. In a lair, Starling Frenzy was devastating, but on the surface, with the user at silver, there was little point in using it. When even a single hit could reach the damage limit, striking faster than once per second was pointless. Even Thrast would know that.
+
+That’s Thrast for you, using it anyway, just to show off.
+
+The newcomer didn’t panic under the flurry of blows, weathering them like a tree in a hailstorm. Through the blaze and the smoke, Welen watched him shrug off dozens of hits before he lost count. When the warrior reactivated his rippling defensive skill, the sound of the hits merged into a warbling whine.
+
+Thrast was now a blur, having reverted to Sparrow, amusingly. The simple, darting motions were perfect for this kind of assault, and anything more complicated would have resulted in him tripping over his own feet. This continued for several more seconds, the trapped smoke spreading until it was hard to make out much beyond the darting lines of fire left in Thrast’s wake.
+
+He’s still going. Damn, Thrast, I’m actually a little impressed.
+
+No sooner than Welen had thought this did the warbling tone end, the ripples in the smoke fading. Thrast’s boots skidded across the floor as he came to a stop, lowering his flaming blade. Silhouetted within the smoke, it was hard to tell how the newcomer had fared, besides the fact that he was still standing.
+
+Damn it. Fire magic always makes for a poor—
+
+White light pulsed, and then the smoke was gone.
+
+Welen inhaled sharply, but his reaction was mild compared to Cessa’s. Welen glanced at the Fire Mage sitting beside him, who’d spilled wine all down her front.
+
+Must be Mana Sight. What did she see?
+
+“Are you done?” the newcomer asked, bringing Welen’s attention back to the ring.
+
+Then it was his turn to stare.
+
+Denuded of his jacket, the man stood in naked steel. From head to toe, he was covered, the unadorned plates sliding past each other with nary a gap between them as he reset his stance. Before Thrast’s Speed had grown too great, he had been targeting his opponent’s joints—as one did—but now, it was plain that there were no weaknesses there to be found.
+
+Dystees’s glowing orbs, where did he get that steel? I’ve never seen armor like that in my life.
+
+“So, you’re a Defender.” Thrast shook his head, then spat. “Why carry a sword at all? You clearly have no idea how to use it.”
+
+“Speak for yourself, Thrast!” some suicidal idiot shouted from the crowd.
+
+Thrast roared. “Who said that!?”
+
+The newcomer didn’t take advantage of the opening as Thrast whirled, politely lowering his blade instead. Thrast, oblivious, marched around the ring, loudly repeating his demand for the speaker to identify themself.
+
+Welen carefully hid his smile. As if anyone would be dense enough to answer.
+
+Cessa, meanwhile, had clearly seen something else, as indicated by the sound of breaking glass. Welen glanced at the Mage to see her clutching her glass by its shattered stem, the base having fallen into her lap.
+
+“What—“ Welen began.
+
+“Damn it!” Thrast swore, stomping his foot loudly and dragging Welen’s focus back to the ring. He rounded on the newcomer, and after another few muttered curses, raised his blade into a form from Egret. “Okay, enough playing around.”
+
+The newcomer nodded, returning his sword to its ready position.
+
+Still in Sparrow.
+
+Thrast’s eyes narrowed, the hot anger in his expression becoming cold. Dangerous.
+
+Oh, shit.
+
+As if mirroring Thrast’s mood, his flaming sword flickered, then died. A silent moment passed, and the blade exploded into darkness, waves of deadly black magic rolling off it like smog.
+
+Chairs scraped and were knocked over as people scrambled back from the protective field, Welen’s among them.
+
+“Hey now, Thrast, don’t be using that in the—“ Breal began, but Thrast was already moving.
+
+Using the same two-handed chop with which he’d started the battle, Thrast shot forward. As before, the newcomer moved to block, but unlike before, when Thrast pivoted away to redirect his strike, the armored Defender anticipated the movement. His counter was slow, but perfectly aimed, the edge of his blade slicing right across the bridge of Thrast’s nose. Thrast’s blade still found the newcomer’s side, leaving a smoking line of darkness on his armor, but it was Thrast who stumbled back.
+
+“Gah!” Thrast barked, clawing at his face.
+
+“Are you okay?” the newcomer asked, turning to watch the retreating silverplate. He’d been halfheartedly scrubbing at his armor with one hand, trying to dislodge the black smoke that was clinging there. “Sorry, I thought you’d block that instead of following through.”
+
+Thrast lowered his hand, revealing his face to be undamaged. Instead, it seemed to be his pride that had taken the hit. “You keep mocking me. We’ll see how funny you find me in a second.”
+
+“I’m not mocking you,” the armored warrior said, looking up as the dark smoke finally began to fade away from the cut, revealing undamaged steel beneath. “That was the first time I hit you, and I don’t know how much you can take, especially since you’re not wearing a helmet. For all I know, you’re all offense. Also, you really shouldn’t use the same move on someone more than once.”
+
+“Shut up and fight, shitstain,” Thrast snarled.
+
+“What did you just hit me with, anyway?” the newcomer asked, ignoring the insult. “That really did a number on my saturation, the way it lingered. Wait, hang on, if I stop blocking the physical aspect, would the damage limit actually help me? Hmm. Either way, I don’t think I can let you hit me with too many more of those, especially if it stacks.”
+
+“L-LET ME HIT YOU?” Thrast spluttered, beyond apoplectic. He hurtled forward, only to stumble awkwardly while the armored warrior darted away. The sudden reversal of the two combatants’ relative speed was like night passing into day.
+
+There was a crash as Cessa finally dropped her broken glass completely. “Depths below…”
+
+“What do you see?” Welen asked, not taking his eyes off the battle. Thrast and the newcomer were now trading blows back and forth. Thrast looked to be on the defensive, barely holding off the newcomer and staggering about like he was drunk. The newcomer, meanwhile, was still sticking to basic techniques, only he was now fast, tracers of wind following his movements.
+
+“He’s stealing his Speed,” Cessa said, breathless. “Gods, that’s a lot of power, but it’s not… I have no idea what skill that is. It looks like…it looks like an AOE channel, but… He keeps adjusting the output. Thrast can’t keep up with the changes, and his armor’s already…”
+
+Welen tuned out Cessa’s rambling, suddenly feeling like a dull in a rowboat upon spotting a Whale rising off the bow. A line of black smoke hung in the air, following the curve of the dueling barrier. Amongst the ineffectual hits Thrast had landed on his opponent, one must have gone wide.
+
+Oh, rotten hulls.
+
+Even without the direct hit, the malevolent Dark leaking from Thrast’s sword would bring it down eventually anyway, Welen realized. The shadow had already begun to build in the air, and the stone beneath the combatants’ feet was starting to crack and crumble, made brittle by the malevolent magic. There was a reason Dark magic was banned inside the Guildhall.
+
+Welen glanced toward the door, where some of his more prudent fellows were already moving to make their escape. His own plans for flight were put on hold when the door was suddenly yanked open from outside. A second armored figure stood there, looking around at the faces of the Guilders as they scrambled back, crying out in surprise. The armor was almost identical, but instead of a sword, the latest newcomer held an oaken bow as tall as he was.
+
+“Don’t mind me,” the Sharpshooter said, stepping casually inside. “As you were.”
+
+She, Welen corrected himself. He was only mildly surprised at this point to see a silver plate dangling from her neck. He glanced at the door one last time, then sighed at his own foolishness as he settled back into his chair.
+
+The smart thing would be to haul anchor, but the barrier should hold a while longer. The enchanter who installed it was from the City of Lights, after all.
+
+“What is this!?” Thrast demanded, oblivious to the goings-on outside the ring. He again failed to block one of the armored warrior’s strikes, grunting more in anger than in pain. “Stop these tricks and fight fair!”
+
+“Get better armor,” the newcomer countered, cutting for Thrast’s leg and making him dart away. “I shouldn’t be able to affect you like this.” Another cut and another dodge. “It’s totally saturated already, isn’t it?” The newcomer moved to parry as Thrast counterattacked. “Maybe if you— Ah!”
+
+The sound of metal on metal was followed by that of metal on stone—the better half of the newcomer’s sword ringing like a bell as it clattered across the ground.
+
+Thrast shouted in triumph, lunging forward to take advantage of the opening. His celebration, however, was short-lived. Reacting smoothly, the newcomer nudged Thrast’s blade aside with an armored forearm. As part of the same motion, he pivoted his entire torso, brutally driving his opposite palm into the shorter man’s face.
+
+Thrast’s head snapped back violently, and he stumbled away, cursing. The newcomer dropped the useless hilt of his sword and raised his arms in the guard distinctive to Bear Kata.
+
+Welen grinned. If I die, I’ll at least have a good story to tell in the heavens. Who IS this guy?
+
+“Damn you!” Thrast shouted, clawing at his nose with his free hand.
+
+“Should have worn a helmet,” the newcomer retorted, dashing forward in a sudden burst of speed beyond anything he’d shown thus far. Thrast didn’t have time to get out of the way and was slammed into the barrier hard enough for the reverberation to rattle dust from the rafters. Before he could recover, the newcomer lifted him and tossed him back into the center of the ring, chasing after him a moment later.
+
+“He’s having fun,” a female voice observed mildly.
+
+Welen jumped, spinning his head around to spot the Sharpshooter standing behind him, having joined the orange-robed Mage and the dagger-wielder by the quest board.
+
+“He is,” the orange-robed Mage agreed. “How is the barrier holding up?”
+
+“Not great,” the woman replied. She raised her voice, calling toward the ring. “You should probably finish up, Rain. The barrier can’t take all that Dark mana. One or two more good hits, and it’s done for.”
+
+Welen whirled to ask Cessa for confirmation, only to find the Mage’s chair empty.
+
+“Ah, shit,” the armored warrior said, catching Thrast’s smoking blade in one hand. “I was afraid of that.”
+
+There was a pulse of…something…the shadow deepening momentarily. When it cleared, the air was empty once more.
+
+“That should help,” the armored woman called. “Good idea, but I still don’t like how it looks.”
+
+“Let go of my damn sword!” Thrast yelled, yanking at his weapon with both hands.
+
+The newcomer glanced at him, ignoring the Dark magic creeping up his arm. Whatever had cleaned away the shadow, it hadn’t stopped Thrast’s technique itself. “Call it a draw?”
+
+“Fuck you!” Thrast swore, managing to tear his blade free with a mighty twist that would have pulled the newcomer off his feet had he not let go. Thrast staggered back, then snarled as he lunged. “Die!”
+
+“How about no?” the newcomer replied, not even bothering to block. Instead, he exploded with orange light.
+
+It took Welen a moment to recognize it as spell interference.
+
+Powerful spell interference.
+
+He didn’t need Cessa with him to know this newcomer was no Warrior. No Defender. Not even a Jack—not with that kind of power at his call. No, this man was a Mage. An Armored Mage.
+
+“Ahhg—ack!” Thrast screamed, staggering back and holding up his sword to ward off the assault, for all the good it did him. Some of the watchers were yelling at Welen for him to get away. Others streamed for the door. Welen, though, remained where he was, grinning like a fool. He’d noticed something.
+
+The barrier hadn’t even flickered in response to the heat.
+
+This is controlled. He won’t hurt us. Thrast’s fucked, though.
+
+The only other person remaining this close to the ring was Breal, which hardly came as a surprise. His reason for staying, though, clearly didn’t come from any clever observations. He was chanting, clapping in time with each word.
+
+“Kick! His! Ass! Kick! His! Ass! Kick! His—”
+
+Thrast’s hair burst into flame, and Breal gave up the chant in favor of a cackle of glee.
+
+Paint was flaking from the silverplate’s armor, and the leather straps beneath had started to smoke. A moment later, they too went up like tinder.
+
+“Surrender.” The Armored Mage’s voice cut firmly through Breal’s mad cackling. He’d walked to the center of the ring, not dodging as Thrast laid into him with his hair blazing like a torch. The smoking trails crisscrossing the Mage’s armor looked thin, overwhelmed by the blaze of magical energy from within.
+
+What did she say his name was? Rain? How much mana does he HAVE?
+
+“Surrender,” Rain repeated, crossing his arms, clearly unconcerned by Thrast’s continuing assault, not to mention the heat. The Guildhall had fallen into silence, even Breal having given up his chant to stare.
+
+Thrast staggered away, coughing. He was still burning, though his hair and clothing were completely gone at this point. His armor plating had fallen from him with the degradation of the leather holding it in place, leaving only his chain shirt for modesty. Its links were glowing even more brightly than the Mage’s armor, completely oversaturated. He still clung to his sword, but the dark magic empowering it had vanished. An orange glow was beginning along its length as it, too, neared saturation.
+
+Without warning, orange changed to blue. The fire around Thrast winked out.
+
+“I can do this all day,” Rain said flatly, frigid energy practically rolling off him. “Surrender.”
+
+There was a long pause, only Thrast’s dry coughing audible in the silence of the hall.
+
+And then there was a clatter of steel on stone.
+
+Rain stopped dumping mana into Refrigerate once the air temperature dropped to a reasonable level, already having excluded Thrast from the effect the moment the flames surrounding him had gone out. Still excluding his defeated opponent, Rain released another weak pulse of Shroud to burn up the lingering Dark mana in the air, then stepped forward, extending a hand. “Good fight.”
+
+“Liar,” Thrast rasped, and Rain’s concern was replaced with incredulity as a smile spread across the silverplate’s eyebrowless face. “That wasn’t a fight at all.” He coughed. “You’re strong.”
+
+Despite himself, Rain smiled. “How’s your health?”
+
+Thrast scoffed, taking Rain’s hand to shake. His grip was firm and didn’t tremble. “I’ve had worse. If you feel bad, you can buy me a drink.” He coughed again, releasing Rain’s hand to run a hand over his now-bald head. “Preferably something strong enough to sprout hair.”
+
+He’s a surprisingly good loser, considering all that shit before.
+
+“I’ll see what I can do,” Rain replied.
+
+Thrast coughed again, releasing Rain’s hand and turning away. “Duel End!” At his hoarse shout, the barrier shimmered, then fell.
+
+Seeming to take that as a signal, the crowd broke out into applause. All but for Kick-His-Ass Guy, that was, who looked a bit put out.
+
+Rain shook his head. These people really need TV.
+
+He turned to see Jamus and Nails smirking at him, and he was sure Ameliah’s visor was hiding a similar expression. Smiling himself, he glanced back at his opponent, then immediately regretted it. Thrast had stooped to retrieve his sword and the fallen remains of his armor, and while his chain shirt fell just past his waist, that wasn’t nearly low enough.
+
+The crowd, for their part, hooted and hollered at the show, jeering at Thrast as he unabashedly set about collecting his belongings.
+
+“Oh, shut up, you bastards,” Thrast rasped. “Someone get me a damn beer and some pants.” Rising, he marched toward a table, jerking a thumb over his shoulder. “He’s paying.”
+
+Several faces turned toward Rain, and he offered them a bemused shrug, clearing his throat. “I guess I am. I’ll leave some money at the desk.” He jerked his head toward Thrast as he moved toward Gus, his boots crunching on the Dark-pitted stone. “Fixing the floor’s on him, though.”
+
+There was a wave of laughter at this, and Rain heard dozens of conversations start up, though everyone seemed more than happy enough to leave him alone for the moment.
+
+Just another day at the Guild, I guess.
+
+“You think I should heal him?” Ameliah asked quietly as Rain reached her, a smile in her voice.
+
+Rain smiled back and shook his head. “Nah, wouldn’t want to rob him of his lesson. Thanks for coming, even if I didn’t end up needing help.”
+
+“I just wish I hadn’t missed the start,” Ameliah replied. “So, that was your first real fight at silver, wasn’t it? What did you think?”
+
+“It was different,” Rain said, shaking his head. “The damage limit really changes things. We should go all out when we train next time so I can get more used to it.”
+
+“Mmm,” Ameliah agreed. “How did they work for you?”
+
+Rain tilted his head. “Huh?”
+
+[The new rings Tallheart made you, dummy,] Ameliah replied silently.
+
+“Oh,” Rain replied, deliberately not looking at his right hand, not that there was anything there to see thanks to Facade. “Great. They worked great. No explosions.”
+
+Rain smiled wider, considering just how lucky he was to have met a legendary smith. Without his equipment, Thrast would have sent him home in a box.
+
+Tallheart, MVP.
+
+Instead of one Malleable Ring in five slots, Rain now wore three in three, each providing a slightly greater boost than the original. Starting a few days ago, Tallheart had been working to make him a full set of five. Amazing as the smith was, though, he’d yet to complete the final two. The enchantment was apparently quite ticklish at the GranCryst level.
+
+In response to the threat of the Knives, one of the first things Tallheart had done was to bring each of Ameliah’s stat rings up to the limit of Atantum by reforging them with additional GranCrysts. It wasn’t as straightforward for the delicate Malleable enchantment, unfortunately. Tallheart had needed to redesign it completely when he’d made Jamus’s earring, and then again to accommodate the modifications Rain had requested. Never once had the smith complained, instead saying that he viewed it as an interesting challenge.
+
+There was a sudden, sharp sound of metal striking metal, and Rain jumped, reaching for Force Ward. Jamus and Nails whirled, ready for battle, while Ameliah calmly turned to look over her shoulder.
+
+Gus grunted, bringing a wooden mallet down on top of a chisel-looking tool, making a repeat of the sound.
+
+“Ah,” Jamus said, lowering his hands.
+
+Relaxing as well, Rain stepped forward to see what Gus was working on. He smiled upon seeing the rectangular plate of silver, already with two numbers stamped into it. A one and a four.
+
+As Rain watched, Gus picked up another die, placed it against the plate, then struck. When he took the die away, he revealed the number five, freshly stamped into the soft metal.
+
+“I figured we could forgo the usual procedure,” Gus said, pausing and looking up. “Beating Thrast covers the test, and I know she’ll vouch for you as your sponsor.” He nodded to Ameliah. “Nice armor.”
+
+“Thanks, Gus,” Ameliah said warmly. “I didn’t think we'd see you again so soon.”
+
+“That’s my line,” Gus replied, stamping the final two numbers of Rain’s ID—a two and a nine. He rubbed the plate with a thumb, then flipped it over, revealing the sword and quiver symbol of the Adventurers’ Guild. He looked up, then smiled as he held the plate out to Rain. “There you go. Congratulations on your promotion.”
+
+“Thanks, Gus,” Rain said, taking the plate. He held it in one hand, using his other to extract his old plate from a shielded compartment on his thigh. Tallheart had added a pair of them after Rain’s last cloak-destroying incident.
+
+I really do go through them. Granted, it was a jacket this time.
+
+Working with nimble gauntleted fingers, Rain detached the bronze plate from the chain, then attached the silver one in its place before slipping the chain over his head. He tucked his old plate away in the still-open compartment, then extracted a small vial of Tel. Its contents were just what Dozer had made in the last day or so—hardly worth mentioning in the grand scheme of things.
+
+He held it out to Gus. “Feel free to use whatever’s left after Thrast’s beer to help pay for the floor. I know a Geomancer who’d be happy to work on commission if there isn’t one around.”
+
+“Rain…” Gus said, glancing at the vial as he took it. “How are you so strong? I might believe a lucky blue, what with the Shift and all, but this… It’s been…what? Two seasons?”
+
+Rain looked up at the ceiling, sticking his tongue into his cheek and thinking for a moment before he answered. “We last spoke around noon on the first of Winternight, so…six months, seventeen days, and a half-hour.” He looked down and smiled, wiggling a hand. “Ish.”
+
+“You’re not going to tell me, are you?” Gus said.
+
+“Maybe later,” Rain replied. “I’ve kinda got a lot to do today.”
+
+Gus snorted. “Do you really have the entire population of Vestvall with you?”
+
+Before Rain could respond, a commotion from behind him made him turn around. The door had banged open, and Emerton was standing there, wearing his wingsuit. “There you are!” he gasped, out of breath. “Val’s in trouble. Vanna sent me to get you.”
+
+“Shit,” Rain swore, glancing at Ameliah. As one, they headed for the door, Jamus and Nails hot on their heels.
+
+As the door boomed closed, silence fell over the Guild, the previous muttered conversations having died with the sudden arrival of yet a fifth newcomer. Before any of those discussions could resume, a loud rasp of a throat being cleared brought everyone’s attention to the bald man sitting beside the ring in borrowed pants.
+
+“So,” Thrast croaked, setting down an empty mug with a loud clunk. “Would someone care to tell me just who the HELLS that was?”
+
+Gus felt his bowels turn to water as dozens of heads turned to him as one.

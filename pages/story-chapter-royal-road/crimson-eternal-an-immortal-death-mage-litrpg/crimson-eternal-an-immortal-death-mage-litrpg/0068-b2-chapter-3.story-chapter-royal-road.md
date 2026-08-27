@@ -1,0 +1,141 @@
+---
+id: a37ab82d-501c-5a9d-9c64-3922536d25b7
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 3"
+slug: 0068-b2-chapter-3
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 68
+ownLength: 1560
+unit: words
+ownProgress: 1560
+publishedAt: 2024-01-29
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1498565/b2-chapter-3"
+royalRoadId: "1498565"
+markedReadAt: "2026-06-29T19:08:13.980Z"
+---
+
+Aria
+
+“You’ve gotta be kidding me,” I mutter to myself when I reach the intersection between a bunch of massive buildings to find a detour sign floating in the air talking about a poisonous gas leak. “Who even has poisonous gas near a busy street like…”
+
+My voice trails off as I find a sign talking about a company specifically meant to manufacture war supplies.
+
+Okay, guess that would make some sense. For a military based manufacturer to have something poisonous.
+
+I let out a sigh before going through the detour. Since there’s not just poison, but the entire street is completely blocked off so that I can’t pass through the street. Which, unfortunately, means I’ll be taking the long way home.
+
+But I guess it’s probably about time I stopped by the mall anyways. The Universal Feed is there after all, and I haven’t seen this week’s news from the other worlds yet. And I’d like to know what’s going on around Vortel and Roan.
+
+From what I understand, there’s still about three or so more months left until the System restrictions on Vortel go away. And I need to leave a little bit before that happens. Maybe a month or so.
+
+I’m not entirely sure what I want to do, but I do know I’ll be going traveling. Probably gonna visit one of the Eternal Dynasty’s allies since the emperor can get a word in for my travel permissions.
+
+A lot of worlds have requirements for travelers, and even more for immigrants. And if I’m going to stay for longer than a year, I’ll be counted as an immigrant.
+
+From what I’ve learned so far, the best neighboring ally of the Dynasty to go to would be Luk’tar. Because that place doesn’t have a single governing entity in the world. It has about half a dozen governing clans instead.
+
+So immigration is different depending on what clan’s territory the Gate is in. And the Emperor is close with the leader of one of the clans and already promised me immigration rights.
+
+Meaning I’m good to visit the first world. But every other world after that is my job to figure out.
+
+My line of thought comes to a halt when I finally arrive at the mall and proceed to park my hover car. Then I get out and leave the parking lot to enter the mall proper.
+
+The moment anyone looks at my number, I find a suspicious lack of people near me. But I don’t pay it any mind. It’s honestly making it easier to avoid getting close to others.
+
+Plus they don’t bother me this way.
+
+I head into the rather high-tech looking mall. One with flashing lights all around the building and several floors to its name, with most of the floors having a large open space with no floor in the center of the main area of the mall. Meanwhile there’s a hover rink at the center, where people can run around on hover boots, and an arcade on the other side of the rink.
+
+Ignoring the hover rink and the arcade, I walk straight into the store next to the entrance and head over to the line. Time ticks by as everyone goes in and out, finishing up their business until I arrive at the front of the line.
+
+The person at the front is the same person from the last time I was here, and just like that last time, they look both confused and frightened at the sight of my number.
+
+“Same reason as last time,” I tell them, not wanting to deal with this person any longer than I have to.
+
+Because the last time I was here, despite only coming here to get the latest news, it took me half an hour to get past their initial fear of me.
+
+A very annoying process.
+
+And not one I want to repeat.
+
+This time the clerk seems more amenable as she quickly moves through the process of checking my ID and everything before letting me through to go into the room connected to the Universal Feed. A universal scale type of ‘internet’ – a term that’s used in this world for a rather convenient thingy on computers that lets you research things and do other stuff like read and watch TV shows – that is only accessible through these little terminals. Strictly due to how intensive the thing is.
+
+Which makes sense considering that it’s connected all throughout the entire universe.
+
+Anyways, I quickly hop onto the thing and search for the Grand Roan Empire. Only to find my eyes narrowing.
+
+Shit.
+
+I lean closer to the device while frowning at the screen.
+
+Seriously?
+
+Looks like the Grand Roan Empire sent some delegates earlier than expected through the Gate. Delegates that actually returned alive.
+
+With information about the ‘terrifying Horseman of the Apocalypse, Death, who can erase people’s souls’.
+
+But when I see the next bit of information I find myself blinking in confusion, the anger fading away in an instant.
+
+Huh?
+
+The next intel… is about Death being a woman in her late thirties with black hair and eyes.
+
+How… did they convince the emperor that was my appearance? Unless they just made some random person a guinea pig…
+
+Wait a second…
+
+My thoughts go back to the First General’s illusion ability.
+
+Could she have done something with that?
+
+But why would she help me when I ruined her plans?
+
+Unless she just feels regretful for using me. But that just sounds too softhearted for her.
+
+It has to be something else… or maybe a mixture of the two? A real reason for it along with her wanting to pay me back for the help I did give them…
+
+I guess one possibility comes to mind.
+
+If the Grand Roan Empire decided to leave Vortel alone while they went to search for me and then found me after that, only to realize that I worked with Vortel, they’d just go back and wipe them out completely. But if they don’t know what I look like and are looking for the wrong person… they’d end up on a wild goose chase that’d last pretty much until they realized they were tricked.
+
+So the general would be buying the both of us time in this way.
+
+Not a bad plan if that was what she’s doing.
+
+I do worry a little bit about the others on the team, not to mention Warrant Officer Alexander Greaves, who I haven’t talked to in quite a long time, simply leaving in that letter to the others to mention the stuff in it to him. But at the same time, what the hell can I do? There’s not really much if anything that I can do.
+
+The Emperor of the Grand Roan Empire is supposedly in the level three hundreds. He could probably cut my head off with his pinky.
+
+Of course, it’d grow right back. But that’s beside the point.
+
+Then again, there isn’t as much to worry about since I know the Eternal Dynasty is working with Albaria. So Albaria is already getting enhanced weaponry.
+
+And the best mass manufactured guns they have here on Eternus I know can shoot and kill a level two hundred and fifty through their armor. Although a level three hundred something would be harder to deal with.
+
+They’re hella expensive though.
+
+As for the best guns just in the Dynasty itself? Not really sure how high those can kill. Generally depends on who made the weapon. But I think a gun can kill pretty much anyone so long as the crafter was a high enough level.
+
+There are some worlds that are still exclusive to swords though. Which is rather stupid, considering that guns are just better in war than swords. Even if I personally was trained in the sword.
+
+It’s just a fact of life.
+
+So long as the material is strong enough in the gun, and the crafter a high enough level with good enough skills, the gun will win. Unless they’re at close range. Then it becomes trickier.
+
+Anyways, I’m not sure how high tech the guns the Dynasty sold them are, but they’re definitely good enough to take on the forces of the Grand Roan Empire. Whether they’re good enough to take down their Emperor or not is another question entirely.
+
+Considering that they let those delegates through at all, likely to give information back to buy time, I doubt they can take the Emperor himself. Or his closest aides and generals, who are all in the level two hundreds, with a few even at the low three hundreds.
+
+I let out a sigh before closing out of the terminal and leaving the terminal room. Then I ignore the terrified clerk and leave the building, letting them bill my card for the expense. Since they already swiped my ID.
+
+Convenient method of payment, and one that I wish we had back on Vortel.
+
+Not that I’ll likely ever be going there again. Or at least not anytime while the Emperor of the Grand Roan Empire is alive.
+
+Whether he dies by old age or is killed.
+
+I begin to leave the mall, only to find a group of what looks like reporters at the entrance, blocking my view.
+
+Annoying.
+
+What’s going on now?

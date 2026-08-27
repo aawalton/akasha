@@ -1,0 +1,229 @@
+---
+id: 42113e55-1838-5bb1-9886-317f0bfd1770
+page-type-slug: story-chapter-royal-road
+title: "Chapter 42"
+slug: 0043-chapter-42
+partOf: death-healer
+position: 43
+ownLength: 2699
+unit: words
+publishedAt: 2025-06-29
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2395397/chapter-42"
+royalRoadId: "2395397"
+---
+
+Adriana reined in her mare at the palisade of the frontier outpost, one arrow-shot short of the Dead Lands. The wind slid off the blasted plain and rattled the watch-bells, yet the courtyard lay empty because only a single legionary dozed beside the gatehouse brazier. She dismounted, handed the reins to the drowsy guard, and crossed the barracks yard that reeked of pitch and stale fear.
+
+A hot wind raced out of the Dead Lands, and it rattled the tin chimneys of the hillside outpost where Lucianus had stopped to rest.
+
+Adriana climbed the last ramp of mud-brick steps and found him on the roof beside a broken watch-gong, bent over a bucket of black water where scraps of rusted mail floated, and dust caked the folds of his cloak while the buckle at his throat had gone missing. His hair hung in matted ropes around a face half hidden by a ragged beard, and the winter-bright eyes she recalled now burned dark and restless.
+
+He wore no armor, only a torn undershirt and breeches stiff with salt. Sweat had dried in white lines on his bare arms. He did not hear her approach. He stared east, toward the black dunes, while the sunset burned the sky behind him.
+
+Adriana crossed half the roof before she spoke.
+
+Lucianus did not turn. He lifted a ruined pauldron from the bucket, studied the jagged tear that ran through the iron, and set it down, pitch dripping back into the water. Only the harsh drag of his breath answered her.
+
+She stepped closer.
+
+“Lily defeated Sextus Cornelius two days ago,” she repeated.
+
+Lucianus shook his head as though the words held no meaning. Adriana saw how his shoulders braced whenever he inhaled.
+
+“What happened out here?” she asked.
+
+Lucianus dragged a hand through his hair, straightened with a brittle motion, and still looked past her toward the gate. The spark of recognition she expected did not appear, and only a cornered rage lived in his gaze.
+
+“You always wished for a fighter strong enough to challenge Ennius,” she said while she kept her tone level. “Lily is that fighter, yet you refuse even to look at her victory.”
+
+At last he spoke. His voice scraped like stones in a dry riverbed.
+
+“You know nothing of wishes.”
+
+Lucianus rubbed thumb and knuckle against the bridge of his nose. “The girl should not have been there.”
+
+“She was there because you forged that will,” Adriana answered, voice low. “She carries your wrath, and today it found its mark.”
+
+Lucianus’s shoulders twitched, though he still watched the horizon. Adriana stepped closer.
+
+“I came for something else. Stand beside her when the Trial opens. Teach her the Great Skill.”
+
+Wind whipped his hair across his eyes. He pulled it back with a rough shake and finally turned toward her. His stare looked wrong—fever‑hard, like a wolf that had tasted just tasted human blood for the first time in his life.
+
+“I have seen what waits beyond those sands,” he rasped. “I dragged men home in pieces. I carried Marcus when he breathed through his ribs. I do not want that world to swallow our daughter.”
+
+“You always wanted an heir capable of dethroning my brother.”
+
+Lucianus blinked, startled. “I never said that—”
+
+“You think I was deaf?” Adriana cut him off. “You let slip more than once while the candles guttered and the walls listened. You wished for a Champion strong enough to cut down the Pope--my brother--if needed. Now the girl stands ready, and you shrink from her shadow. She's your heir! She's what you've always wanted!”
+
+Lucianus knelt by the shattered gong, running fingers along its dented rim. Each breath scraped. Adriana felt the air thrum; she knew the feral part of his character inside him was awakening.
+
+"I don't have an heir, Adriana."
+
+“The dream you chased," Adriana said, "now stands in front of you, and you hide from it in this ruin of an outpost. Lily is your heir. She's strong, Lucianus. She has more talent than me and you ever had! What she did to Sextus--”
+
+Rage flickered in his eyes, then ebbed to weary grief.
+
+“She is twelve. She does not grasp the cost,” he said.
+
+Lucianus closed his eyes. When he opened them the rage had dulled yet stubborn sorrow remained.
+
+“If I teach her the Gens Claudia's Great Skill, the Church will drive her against the Necromonarch before she turns fifteen, whether you can make it legal or not. I cannot risk her life.”
+
+I can't do this again, Lucianus thought.
+
+Adriana placed her palms on his chest, neither gentle nor violent, and forced his eyes up to hers.
+
+“Your protection breaks her wings. Hand her one brick, Lucianus, and I will build the bridge.”
+
+“You do not understand,” he said at last. “The Necromonarch gathers Revenants near the Ash Line. If I fail to stall him, no wall will keep Alba safe. Lily must stay clear while I hold that front. I have never killed so many high-level Undeads, Adriana. They keep popping up. Something is afoot. And your brother...”
+
+"My brother wants nothing more than to see you die like this, Lucianus."
+
+"I just want Lily to be at peace," Lucianus said, turning to his wife with genuine pain over his face. "Please, Adriana. Just... stay clear of trouble. Have Lily stay clear of it, too."
+
+“She will never stay clear. And the Church will never stay clear of her. The families already circle like carrion. Lucianus, Dawn's Mercy, just teach her the Great Skill! Leave the rest in my hands!”
+
+Lucianus rose too fast. The gong toppled, clanging. He towered over her—until he caught her wrists, not rough yet immovable.
+
+"No."
+
+“Leave it in my hands, Lucianus. I’ll take care of it.”
+
+The words echoed across memory and into the stillness of the estate’s western gallery, where moon‑blue lamplight spread in thin sheets along the flagstones. This was years ago—long before Lily’s birth, before Adriana’s marriage, before Lucianus earned the first silver thread in his beard.
+
+* * *
+
+Many Years Ago
+
+Lucianus had only just returned from his first border patrol as the head of the Gens Claudia, shoulders still sore from a borrowed armor after his had split in an engagement, when he found his sister Claudia in the secret family archive. Mahogany cabinets towered on every side, scroll‑sashes and map tubes half‑drawn were scattered everywhere.
+
+Claudia knelt at the oak travel chest. One hinge squealed each time she lifted another parchment tied with vermilion silk—permits, letters of passage, dossiers stamped with the solar seal of Gens Iulia. A modest [Healer]'s bag rested atop the pile, its brass clasps buffed to a shine.
+
+Lucianus halted under the lintel. Dirt caked his boots; sweat and road‑dust clung to his tunic. Yet the sight of Iulia wax seals set panic beneath his ribs in a way no Undead skirmish had managed.
+
+“Claudia, what is all this?”
+
+She did not startle—she never did. Instead she smoothed a curl of dark hair behind her ear and looked up with eyes the same slate‑blue as his own.
+
+“I’m answering a summons,” she said. “Midwife to the Papal nursery. They want the best Light‑healer on call when the new brides start their line.”
+
+Lucianus stepped in, boots thudding on mosaic. “You’re heir to Gens Claudia. The other families already grow restless because you’ve not taken the mantel. Extinguished Light, serve as nursemaid to Ennius Iulius and they’ll call it proof we bow to those pigs! The last Pope had an entire generation of warriors die for nothing!”
+
+Claudia let a small, almost mischievous smile bloom.
+
+“Let them talk. Words are cheaper than salt. What matters is sight—and I intend to keep my eyes inside the Gens Iulia's walls.”
+
+She rose, brush‑stroke graceful despite plain robes, and unrolled a parchment over the chest lid. It showed the inner courts of the Papal palace: nurseries, convalescence wards, hidden corridors where servants passed unnoticed.
+
+“Ennius is barely older than we are, yet already he rules by papal decree. I watched him at the equinox Mass. He spoke of piety with his tongue but his aura stank of cold hunger—the same chill his father had around him. Only now it manifested on him.”
+
+Lucianus folded his arms, trying—and failing—to look the elder brother she needed. He was still the youngest of the lineage. Gentiliana was now in the House of Claudius, and his only family wanted to leave the estate. He had no desire to lose Claudia as well.
+
+“You think the boy‑pope plots treason or worse?” Lucianus frowned.
+
+“Perhaps,” Claudia answered, rolling the map tight again. "Whatever he wants, Lucianus, is nothing good."
+
+Claudia had been born with a very rare variant of Mana Sense that she had brought up to Grandmaster and whose special Perk she had leveled six times. She was a natural empath, someone who could read people's emotions, character, strengths and weaknesses. Lucianus regretted not having the same capability since it would have been incredibly useful in battle.
+
+"Just... be careful. Don't use the Great Skill in public."
+
+"I'm not a fool, Lucianus," Claudia's laughter rang like crystal.
+
+Claudia wielded the Great Skill of the Gens Claudia. Lucianus himself had taught it to her, brought her to stand the ritual. It was amazing how, despite Claudia being a woman, she had survived the trial much better than him.
+
+If the Inquisitors knew... if the other families found out...
+
+"Claudia," Lucianus knelt beside his sister and grasped her hands, "if *anything* were to happen to you, I'd never forgive myself. Please, are you sure you want to do this? Just stay here. Come campaigning with me. Your talents could save so many people."
+
+"Something tell me that *this*, Lucianus, could save even more. I'm no [Augur] nor [Prophet], but I've been seeing things. Dreams..."
+
+Claudia smiled.
+
+"Actually, among those dreams, I saw hair like threads of gold. The bluest eyes, too. I think it was the Princess. Ennius already mentioned you should marry her, right? Do it. In my dreams, there's a blonde woman who helps you, who strikes down the Undead, the Church, so strong no one can stop her."
+
+"What?" Lucianus laughed. "What are you talking about?"
+
+Claudia stopped smiling and tightened her grip on Lucianus.
+
+"Someone will be in your life, even when I'm gone, and she'll be *everything* you ever needed, Lucianus. Treasure her. Do *not* let yourself be a fool. Your fate can be woven it gold or pain. Choose carefully."
+
+"And that... Adriana?" Lucianus frowned. "Are you sure?"
+
+"She couldn't be anyone but Princess Adriana," Claudia shrugged. "By the way," she looked confused for a moment, "do you know whether the Princess can also fight with her hands?"
+
+"I have no idea," Lucianus shrugged.
+
+"Mh, it doesn't matter. I'll find out more when I'm with the Gens Iulia. The Pope will have his first child soon and I'll probably be the one delivering it."
+
+“If your suspicion is true,” Lucianus said, “then you walk into a cloister of knives. Spies vanish in that palace. An ‘accident’ would end your life, Claudia. I would go mad if that ever happened.”
+
+Claudia’s gaze softened. She reached across the chest and gripped his forearm, thumb brushing the scars he had already accumulated in his first outing.
+
+“I have survived worse than the Gens Iulia. Leave it in my hands, Lucianus. I’ll take care of it.”
+
+He opened his mouth—found no rebuttal. Outside, the estate’s reflecting pool caught moonlight and scattered it in restless shards against the shutters.
+
+“At least let me ride to Alba with you,” he said at last.
+
+“If you appear, they’ll make a scene,” she replied, laughter flickering yet gone at once. “Your place is here, little brother—holding the crest that Gentiliana set down. The houses won’t stay uneasy forever; someone must show them the lion still guards its gates.”
+
+She closed the travel chest. The latch clicked like a verdict. Then she slid a slim blade—half‑sword, half‑scalpel—into the kit beside the tonics.
+
+Lucianus recognized the pattern etched along the flat: five spiraled stars, the sigil of their mother’s family. The blade hummed faintly with life‑mana, yet slumbered under a thinner coil of shadow. Even with his training he could scarcely sense it.
+
+“Dawn’s Mercy, Claudia. One mistake—excommunication, scandal, assassins.”
+
+“Then I must not err.” She lifted the kit, slung the leather strap across her shoulder, and faced him square. “Swear to me you’ll keep the family steady. If Ennius threads a needle through our laws, you’ll feel the tremor. But I’ll see the stitch before the cloth tears.”
+
+Lucianus felt the protest rise—I am not ready; I am the youngest; I am barely a soldier—but the words died under her earnest calm. He swallowed, placed his hand atop hers where it rested on the kit, and nodded.
+
+“I swear. But sister… come home alive.”
+
+Claudia’s smile curved rueful and bright at once. “I intend to. The child‑pope has secrets, and I'll find the key.”
+
+She brushed past him toward the colonnade. Moonlight silvered her dark braid, and her footsteps made no sound on the mosaic of lions mid‑pounce. At the archway she paused and glanced back.
+
+“Tell Gentiliana to take it easy. And you do the same. Our family has a penchant for killing ourselves with our own hands."
+
+Then she vanished down the moonlit hall, leaving Lucianus alone amid the waiting dark and the rustle of maps that whispered like restless spirits.
+
+“Lord, treasure her Light and let her come home,” he whispered, “please, let her come home same.”
+
+* * *
+
+Lucianus shook his head. “I am sorry. I cannot. I will not leave this war in Lily’s hands.”
+
+“You…” the blonde woman finally understood, feeling the tremendous increase of power in his aura. “You’ve been here, gathering so many men, more than Aurelianus, more than the Gens Cornelia… you want to kill my brother yourself, Lucianus.”
+
+The man just stared with hard eyes back at her.
+
+“It would never work,” Adriana said, dazed. “The Great Families would turn on you. Even if you could kill him—which I’m not sure you could if Tiberius joined the fray—then what? You would be executed in the best scenario for you.”
+
+“He would be dead, though,” Lucianus said through gritted teeth. “And justice would be served.”
+
+“And you’d leave a daughter without a father, in a family that now is headed by no one? Without your support, neither I nor Lily could take the reins of the Gens Claudia. You’d be casting us in ruin!”
+
+“Ennius,” Lucianus growled, “he killed my sister.”
+
+“And so what?!” Adriana shouted at him. “Look at you! You have a daughter, you fool! Will you stop acting like a little brother who needs babying and be the adult father she needs?!”
+
+“How do you dare—”
+
+“How do I dare?!” Adriana was shouting at the top of her lungs now, her training in social skills completely forgotten and eaten up by her fury. “How do you dare being so blind?! Come home! Look at your daughter! Look at what she is! She is it! She’s what any Great Family wished their heirs could be! She’s going to be the next Pope! She just needs her foolish imbecile of a father to teach her the Great Skill of the Gens Claudia!”
+
+Lucianus swallowed and his aura made the entire building tremble. Then, the rage seemed to subside, returning to just embers beneath the ash.
+
+“I can’t. Go home. Let her enjoy her life, Adriana.”
+
+“She doesn’t want to, Lucianus,” Adriana said with a raw throat. “She wants to fight. More than you do.”
+
+“She won’t be doing that with the Gens Claudia’s Great Skill,” Lucianus declared and turned away from her, staring again at the Dead Lands in the distance.
+
+Adriana stared at him—a raw, silent moment. Then she smoothed her cloak and spoke with iron calm.
+
+“Very well. I will find another way.”
+
+She turned toward the stairwell, the wind snapping her cloak like a banner. Behind her, Lucianus stood rooted—hair wild, eyes haunted—as the last sun‑fire bled over the Dead Lands and painted him half man, half night.

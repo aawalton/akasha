@@ -1,0 +1,829 @@
+---
+id: e51a20ab-85f9-5d78-9805-85d4e14ac50d
+page-type-slug: story-chapter-royal-road
+title: "182: Subtlety"
+slug: 0182-182-subtlety
+partOf: delve
+position: 182
+ownLength: 4746
+unit: words
+publishedAt: 2022-02-13
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/844611/182-subtlety"
+royalRoadId: "844611"
+---
+
+Sitting atop one of the wooden trunks stowed on the forgewagon’s cargo deck, Rain smiled. His feet were dangling over the side as he surveyed the trail of carts arrayed behind them. They were linked to the forgewagon like boxcars, one after the other, connected by chains to form an enormous land-train. Anywhere else, it would have been a terrible idea, but the salt flats were, well, flat. Here, it was working perfectly. There was one caveat, though. They were only moving at about ten kilometers per hour, and the plume of dry, salty dust being kicked up by the passage of so many wheels was enormous.
+
+Someone might notice…
+
+Rain chuckled to himself, falling back to stare at the canvas awning that had been erected to shield the cargo from sun and rain. It had been three days since the vehicle’s debut rampage, and now, finally, Ascension was on the road again. Ameliah was driving at the moment, seated behind him on the control platform. Tallheart and Staavo were below, monitoring the reactor, but everyone else had elected to ride in the cart train. For whatever reason, most people seemed to think that the forgewagon was unsafe.
+
+Rain had no idea why.
+
+The ride was entirely smooth, thanks to the insane vibration-damping capability of enchanted Force Steel. He could hear the carts rumbling along behind them, and there was a gentle rush of wind thanks to their speed, but the vehicle itself was utterly silent. Only the soft crunch of dirt beneath its treads gave away its passage. And yet, it was completely impossible to miss.
+
+And he calls it Subtlety. Ha. Tallheart is a genius.
+
+Still smiling, Rain conjured a progress report using the marker he’d set just before they got underway. He’d already seen it, but he wanted to see it again. Finally, he’d made some headway.
+
+Progress Report
+
+marker_1: attempt_asdfasdf2 [3061 Sowing 27 19:20]
+
+marker_2: giddyup [3061 Seedlings 12 09:00]
+
+Span: 16.6 days
+
+Character
+
+Level: 27 -> 30 (+3)
+
+Total Exp: 2,138,665 -> 2,536,316 (+397,651)
+
+↳Health Use: 21
+
+↳Stamina Use: 1,152
+
+↳Mana Use: 396,499
+
+Clarity: 270 -> 320 (+50)
+
+Skills
+
+Radiance: +67,825 exp, 10 -> 15 (+5)
+
+Detection: +65,212 exp, 10 -> 15 (+5)
+
+Aura Synergy: +55,932 exp, 11 -> 15 (+4)
+
+Immolate: +27,140 exp, 11 -> 15 (+4)
+
+Refrigerate: +27,113 exp, 11 -> 15 (+4)
+
+Channel Mastery: +44,367 exp, 12 -> 15 (+3)
+
+Aura IFF: +33,677 exp, 10 -> 12 (+2)
+
+Purify: +16,795 exp, 13 -> 15 (+2)
+
+Magical Synergy: +33,950 exp, 14 -> 15 (+1)
+
+Shroud: +17,500 exp, 10 -> 11 (+1)
+
+Essence Well: +14,240 exp, 10 -> 11 (+1)
+
+Amplify Aura: +4,590 exp, 10 -> 11 (+1)
+
+Aura Focus: +2,624 exp, 10 -> 11 (+1)
+
+Aura Compression: +30,377 exp
+
+Extend Aura: +3,200 exp
+
+Force Ward: +1,099 exp
+
+Mana Manipulation: +240 exp
+
+Arcane Ward: +120 exp
+
+Fulmination: +100 exp
+
+Winter: +96 exp
+
+Mental Ward: +64 exp
+
+Chemical Ward: +39 exp
+
+Velocity: +25 exp
+
+Suppression: +15 exp
+
+Prismatic Intent: +1 exp
+
+Synchronization
+
+Endurance: 7.0 -> 7.4 (+0.4)
+
+Vigor: 8.9 -> 9.2 (+0.3)
+
+Clarity: 270.0 -> 320.0 (+50.0)
+
+Perception: 10.0 -> 22.3 (+12.3)
+
+Everything else aside, it was the experience gain for Prismatic Intent that stood out to him. Sure, a single point was almost insulting, considering the amount of effort he’d put in, but it spoke of more to come. Besides, he hadn’t really been focused on the metamagic itself, but on his auras. Samson was always saying in his Swordsmanship classes that by practicing wrong, the only thing you got better at was doing things wrong. You needed to master the basics the right way, and only then should you move on.
+
+And so, Rain had been avoiding metamagic, allocating his daily mana to his lowest-tier auras to rank them up first. They’d level the fastest, and thanks to Aura Synergy, that would boost the efficiency of everything he did. That was just a side benefit, though. The real point was to get a feel for how each of his spells worked before he started tinkering with them.
+
+For training Prismatic Intent, though, he needed to polish a single aura to perfection as a starting point. For that, he’d chosen Purify. With its low cost, he’d been able to spend an order of magnitude more time working on it than anything else. Winter’s cost was even lower, true, but the subsequent torrent of mana in the other direction disrupted things. It was like trying to find patterns in ripples on a lake versus the ocean in storm.
+
+Granted, my ocean is never exactly NOT in storm. #DynamoProblems. There might be a way to fix that, but I need to talk to Tallheart to see if the trick I’m thinking of is possible. I’ll ask him tonight as long as he’s in a good mood for questions. For now, I’ll just carry on with the tricks that I have.
+
+Reaching into one of his pouches, Rain removed a ball of wax, which he divided in two then stuffed into his ears. Next, he tugged a heavy cloth blindfold from a different pouch, wrapping it around his eyes before donning his helmet. After deactivating his armor’s Tactile Transference, he called up his interface to slot the accolades he’d borrowed.
+
+6/31 Slots
+
+Accolade
+
+Bonus
+
+6 [1x6]
+
+Everdeep Fortress
+
++60 Perception
+
+The wax-muffled rumble of the wagons became a grinding roar, and the smooth ride of Subtlety suddenly felt not so smooth. Every jostle sent signals verging on pain shooting through his nerves. The dry, salty air rasped at his lungs with each breath, tickling his nose hairs on the exhale.
+
+The first time he’d tried this, he’d sneezed, and the resulting explosion of pain had practically knocked him unconscious.
+
+It wasn't just his senses being multiplied by seven—that, he could deal with, especially with boosted Endurance. The real problem was the delta between Total Perception and Effective Perception. A delta of ten was nothing; in fact, he was so used to it at this point that it felt odd to go without it. At a delta of thirty, he started feeling hypersensitive, and some normal stimuli began to verge on being uncomfortable. At a delta of fifty…things became...worth it.
+
+No pain, no gain. As sure as Dozer loves to clean, there’s been plenty of both.
+
+Purify. Status.
+
+Purify (15/15)
+
+Purify poison, corruption, and contamination
+
+Range: 68.1 meters
+
+Cost: 150 mp/min
+
+Richmond Rain Stroudwater
+
+CLASS
+
+LVL
+
+CAP
+
++STAT
+
+Engine of Change
+
+30
+
+30
+
+0
+
+EXP
+
+NEXT
+
+TOTAL
+
++SKILL
+
+130,422
+
+130,423
+
+2,536,316
+
+4
+
+Vitals
+
+CUR
+
+MAX
+
+RGN
+
+Health
+
+1,700
+
+1,700
+
+300/d
+
+Stamina
+
+1,700
+
+1,700
+
+520/d
+
+Mana
+
+88,400
+
+88,400
+
+172.9/h
+
+Attributes
+
+287/2,690
+
+EFF
+
+TOTAL
+
+BASE
+
+ACCLD
+
+MISC
+
+SYN
+
+STR
+
+85
+
+85
+
+10
+
+0
+
+75/500
+
+20.6
+
+RCV
+
+16.8
+
+30
+
+10
+
+0
+
+20/770
+
+5.6
+
+END
+
+62.9
+
+85
+
+10
+
+0
+
+75/310
+
+7.4
+
+VGR
+
+47.8
+
+52
+
+10
+
+0
+
+42/1,140
+
+9.2
+
+FCS
+
+85
+
+85
+
+10
+
+0
+
+75/2,000
+
+50
+
+CLR
+
+320
+
+320
+
+320
+
+0
+
+0/2,500
+
+320
+
+PER
+
+22.3
+
+70
+
+10
+
+60
+
+0/0
+
+22.3
+
+SPD
+
+9.4
+
+10
+
+10
+
+0
+
+0/10
+
+9.4
+
+Rain looked at his positive—albeit slow—mana regeneration and smiled. He couldn’t help that smile, even though it was old news. Purify didn’t draw enough mana to overcome his base income. If not for the self-imposed mana budget, he could have used it literally twenty-four eight. And it was strong, too. Thanks to Aura Synergy, the filth-free zone was massive. The luminescent fog didn’t ramp in brightness as quickly as the spell’s stain-busting power, fortunately for his sensitive eyes, but it was still bright enough to be noticeable through the blindfold. He was making a point not to use it too much at night, lest he make himself visible from space.
+
+Subtlety would be doing its part to keep his practice covert, at least. It was an enormous hunk of metal. Even with him elevated atop the cargo, far from the chassis, it would still be absorbing a good bit of the spell. It would block it entirely if he went inside, of course, but that would annoy Tallheart. That was something to be avoided. The cervidian had been grumpy ever since the brake failure incident, seemingly having taken it as a personal mark of shame or something.
+
+As if I don’t ever make mistakes. Come on, Tallheart. Nobody is perfect.
+
+Rain sighed gently, then focused on his mana, watching as it wove through the spell’s framework. With his Perception boosted, Mana Manipulation was less of a blunt club and more of a…slightly less blunt club. It was still pretty bad, honestly, but it was something. Even as hazy as his view was, he could see a few places where things had obviously gone wrong in the spell’s weaving. Picking the worst of these, he let the spell fade, then concentrated and tried again.
+
+Purify.
+
+The spot he’d focused on came out better that time, unga-bunga’d into submission.
+
+Nice.
+
+The mana-sensing side of Mana Manipulation got better with Perception, but the mana-moving side was still just as blunt as ever. Mana Manipulation was a spell too, of course, with its own pattern that was presumably leaking. By the spell’s nature, though, its pattern was invisible to him. It was like trying to see your own eyeball.
+
+Rain clicked his tongue, seeing that in fixing one of Purify’s leaks, he’d created another elsewhere.
+
+And so, the eternal game of whack-a-mole goes on.
+
+He let the spell fade, then cast it again.
+
+Purify.
+
+While he’d had some success patching leaks after the fact, he found it better to nudge the spell’s matrix while it was forming. Once the pattern had solidified, any change risked shattering the whole thing. It was the difference between molding molten glass and trying to fix a window after it had cracked.
+
+Purify… Purify… Purify… Shit.
+
+He ground his teeth, having pushed too hard on the last attempt. The spell hadn’t even activated. There was nothing for it but to try again.
+
+Purify.
+
+Frustrating as it was, he WAS making progress. Every once in a while, the spell’s pattern would come out just a little bit better than average. In remembering how he’d done it that time, he’d be more likely to be able to do it again. If there was one thing he had, it was a good memory.
+
+Purify.
+
+It’s just… The moment I think I’m getting a handle on how the system works, it throws me a curveball. If I ever meet a Majistraal, I’m going to have some words with them about their documentation. I know I’m being petulant, but really, would it have been so hard to just slap the word ‘kata’ in the spell description?
+
+Purify.
+
+Granted, I shouldn’t be complaining too much. I get more detail than most. Mollo and his ridiculous jars. I mean, seriously. Still. It’s impossible to know what to expect sometimes. And other times, the expected thing seems impossible, then happens anyway.
+
+Rain chuckled, then immediately regretted it. As the pain of spasming muscles faded, he turned his thoughts to his most exciting discovery in the last week, namely that Aura IFF went negative past level ten, just as advertised. Wards became damage amplifiers. Offensive Auras became flat resistance. And Purify, well… The less said about that, the better.
+
+Purify.
+
+There were a few strange ones, too.
+
+In Detection’s case, the strict opposite of ‘finding’ was ‘losing’—which apparently meant selective amnesia or something like that. Critically, the person getting the amnesia wasn’t Rain, but everyone else. With Detection inverted, he could prevent people in range from noticing the spell’s targets, making them seem to slide into the background. He could even veil himself, he’d been delighted to discover. He hadn’t known if he’d be a valid target for Detection in the first place, not having previously felt the need to verify his own existence.
+
+Purify.
+
+It wasn’t invisibility, though, and that was an important distinction. The veiled individuals would be seen, just not noticed. If they did anything sufficiently interesting, the effect would break, and people’s memories of them would come rushing back. Even after the fact—say upon discovering a strip of bacon missing from their plate and asking themselves where it had gone.
+
+Why yes, that IS an oddly specific example. Why do you ask?
+
+Purify.
+
+Boosting the power made the effect harder to pierce, yes, but not by much, and Arcane Resistance seemed to be particularly effective in helping an observer ignore it. Still, it was something.
+
+Purify.
+
+Compare that to Suppression, which did nothing at all. Ameliah had reported feeling a bit tingly, but that was it, no matter how much Rain boosted the power. His interface had been no help in explaining what was going on, and for all he knew, the tingle might have just been the placebo effect. The system generally didn’t allow flat mana cost reductions. No free lunch and all that. Energy had to come from somewhere.
+
+Purify.
+
+As unsatisfying as it was, the answer might just be: ‘Inverted Suppression does nothing, sorry.’ He’d need to run a proper blind trial on the tingling, of course, but he needed to do a lot of things. On the list it went.
+
+Purify.
+
+And then there was Essence Well. Rain’s dreams of becoming a mana vampire had been dashed. While the spell did let him hoover up mana from everyone in range, it cost him an equivalent amount of mana to use, making it net-zero. In other words: useless. The mana drain was divided amongst the targets, so it was basically a crap version of Discombobulate. The comparison had prompted Rain to boost the spell to see if he could make a decent attack out of it anyway, and that, in retrospect, had been unwise.
+
+The moment the inverted spell had dropped below one-hundred percent efficiency, he had become incredibly, absurdly, cookie-tossingly ill. After evacuating his lunch, and subsequently evaporating his lunch with Purify, he decided that Essence Well was best left in its safe, normal operating region.
+
+Purify.
+
+As if I should have needed the reminder.
+
+Purify.
+
+Essence Well is best left untaunted, just like Happy Fun Ball.
+
+Purify.
+
+Oh, that’s a good one.
+
+Winter.
+
+Rain shivered as the chill washed over him, amplified by the Perception accolades. He did his best to ignore it, focusing on the much gentler currents of the second spell. They wove through Purify’s flows, guided by the matrix of Prismatic Intent. Winter was leaking horribly, the spell barely holding together. The second spell was always harder, and Prismatic Intent wasn’t doing much to help.
+
+Nope. Not good enough.
+
+Winter… Winter…. Winter….
+
+After a dozen or so attempts, Rain stopped, releasing both spells. He’d gotten better at noticing his wooziness before he passed out, but there had still been the occasional incident.
+
+Yes, training with two auras wasn’t strictly in line with Samson’s philosophy, but it was what had gotten him the experience point. Besides, he had a hunch.
+
+Prismatic Intent worked by shifting each spell circuit to a different layer, and when it ranked up, the isolation would grow stronger. His individual spells wouldn’t need to be as perfect. Rain hadn’t deduced this through experiment or anything. He simply knew. It was exactly the kind of hunch that a kata was supposed to give you, and it wasn’t the only one. He also knew that he’d be able to use an additional aura per level. That was entirely too optimistic of a notion, so it had to be coming from the skill. Probably.
+
+Ah, well.
+
+Rain paused, about to activate Purify again. It struck him that reversing the order would be worthwhile, given that he hadn’t made as much progress with Winter. While it was harder to see what was going on with all that mana rushing in, it wasn’t impossible. Besides, at this point, he was sure he could tolerate a little overmana. His soul was coming along, and he’d reached max experience as of yesterday. He just wasn’t ready for a tier-four unlock.
+
+Winter.
+
+The issue was essence—specifically, the upper limit on its strength. His paling didn’t gain any material when he leveled; it just got pulled tighter by the pressure, like a balloon. Rain had shifted his approach of keeping the tear together from making more cables, to thickening the ones he already had, to joining them together into a solid metal plug. It had taken subjective ages to finish, and he wanted to double its thickness at least before he went any further.
+
+Winter.
+
+Technically, there was a chance that his current patch would survive an unlock, but the possibility was firmly on the wrong side of the margin of error. The airlocks he’d built along the plug’s length were designed to open automatically if the pressure grew too great, preventing total failure, but by his math, they might not close again afterward. At the speed Subtlety was moving, they were less than a week from civilization. He wanted to make a good impression for once, and that would be hard to do if he was leaking doom all over the place.
+
+Winter.
+
+With the airlocks acting as overpressure valves, he was confident that the scenario that had resulted in the original damage to his paling had been rendered a non-issue. He was keeping to his daily mana budget more out of an overabundance of caution than anything else. Now that he was capped, though...
+
+Winter.
+
+Rain smiled, considering how wonderful it would be to let his mana off the chain. Without restriction on his mana usage, leveling most skills would be the work of minutes, though he’d likely still take it slower than that. There was no rush. Some skills were still going to take time no matter what, like Mana Manipulation with its shitty experience ratio. There was also the issue of essence starvation.
+
+Winter.
+
+Rain’s core was pumping out quite a bit of essence these days, and the new mental model he was using was working quite well to store it, but it was consumed to regenerate his mana. He would starve himself out if he really went at it, and he needed that essence for other things.
+
+Winter.
+
+Soon, though.
+
+Winter.
+
+Damn, I wish I had a way to make essence stronger. Then I wouldn’t need so much of it.
+
+Winter.
+
+That reminds me.
+
+[Hey, Dozer, you know how you pop in and out of my soul whenever you want? Do you think you’d be able to carry a Tel with you? What about a Cryst? Some elemental essence could be really interesting to play with.]
+
+[No experiment! No play! ⟬filth⟭!]
+
+[That excuse isn’t going to work, and you know it. We’re trying it tonight. I’ll sail out there and harpoon you if I have to.]
+
+[>.<]
+
+[Did… Did you just send me an emoticon? How did you even—?]
+
+Rain blinked as the connection was suddenly snapped closed. He rolled his eyes, not bothering to force the link back open. Tonight, buster, whether you like it or not. Right after I talk to Tallheart.
+
+Okay, no more mind-wandering. This time with feeling. Winter!
+
+Winter… Winter… Winter… Winter… Winter… Winter… Winter… Winter… Winter… Winter… Winter… Winter…Winter… Winter… Winter… Winter… Winter… Winter…Winter… Winter… Winter… Winter… Winter… Winter… Winter… Winter… Wint—
+
+“Oh, gods, make it stop!”
+
+Ameliah’s voice was muffled by the wax, but it still boomed painfully in Rain’s ears. He winced, but not from the volume. Shit, I didn’t think it would be getting to her.
+
+“Sorry.” Transmitted through his skull, his own voice was so loud that it made his eyes water. He hurriedly removed half of the Perception accolades in time to hear her response, which began with a laugh.
+
+“It’s fine. You’re doing well, actually. Particularly with Purify. Winter…eh. You’re trying, and that’s what counts.”
+
+“I’ll take it,” Rain replied with a grin. “Hey, have you been watching me, or the road?”
+
+“What road?” Ameliah asked. “There’s nothing but flat nothing. And yes, I’m watching it. I can do more than one thing at once. Unlike you.”
+
+“Okay, ouch,” Rain said. “True, though. Hey, can you see if Winter is getting to the wagons?”
+
+“Not to any with people in them. Even with you being the one using it, it’s still a low-mana spell. The forgewagon’s sucking the range right out of it, just not before it gets up here.”
+
+“I can do this later if it’s bothering you. I just… I really want to get the hang of it, you know?”
+
+“You’ve earned a bit of bother,” Ameliah said in a playful tone. “Go on. I’ll keep an eye out for any rogue mountains that pop up out of nowhere. Wouldn’t want to hit anything. You can go back to being a <something>.”
+
+Rain blinked. “A what now?”
+
+“A <something>,” Ameliah said, raising her voice slightly. “Are you putting wax in your ears again?”
+
+“Yes,” Rain admitted with a laugh. “That’s not the problem. I just don’t know the word.”
+
+“Oh,” Ameliah said. “That hasn’t happened in a while. It’s a building you see along the coast, marking dangerous waters. Some of them flash like you were doing. Light runes, probably. I’ve never actually gone in one to find out. Seems expensive.”
+
+“Oh, a lighthouse,” Rain said, using the new word. It was nothing like the English equivalent, containing neither the words ‘light’ nor ‘house.’ It actually sounded like it might be a loan word from Vejik. He made himself a note to ask Myth or Reason later, then put it out of his mind. Learning more languages was not a priority. “We have those. Well, had, I guess. They’re more of a historical curiosity now that we’ve…they’ve…got GPS.”
+
+“Right, the satellite thingy,” Ameliah replied. “I’m still not sure I believe you about that.”
+
+“When have I ever lied to you?”
+
+“Headlight fluid.”
+
+“Keep your voice down,” Rain said with a smirk. “Tallheart hasn’t figured it out yet.”
+
+Ameliah chuckled. “Maybe. Or he has and is playing along for some reason. It’s hard to tell with him. Anyway, the hatch is closed. He won’t hear a thing. What’s he gonna do? Read my lips through the periscope?”
+
+“Don’t put it past him,” Rain replied, grinning. He sat up, removing his helmet, then began to work on the blindfold. “So, you haven’t been in a lighthouse, but you’ve seen one before? Was it when you and your dad took a Goldship to get off Karmark? I’ve been meaning to ask you about that, do—“
+
+“Hey now,” Ameliah interrupted. “Not that I mind a little conversation, but weren’t you just moaning about how you wanted to practice and your mean girlfriend was stopping you?”
+
+“You’re not mean,” Rain replied, removing the wax from his ears, then looking over his shoulder. “You’re the least mean person I’ve ever met. And I’m the one who should be apologizing. I’ve been ignoring you for weeks now.”
+
+“You haven’t been ignoring me,” Ameliah said without looking back at him. “You’ve just been having some busy days. Granted, that’s your own fault, Captain. You should try delegating a bit more.”
+
+Rain shook his head as he clambered over the supplies, his progress made difficult by the low awning. He switched Tactile Transference back on as he dropped down to the control platform. There was only one chair, situated in front of an expansive dashboard, now complete with a windshield. Subtlety could move alarmingly fast when it wasn’t towing a couple hundred wagons, so the glass barrier was basically necessary.
+
+That reminds me. I need to talk to Myth to see if he’s finally done making those potion glass visor plates I asked him for. It’s been ages. Oh, I should check how his crystals are growing too. I need diodes, damn it, and Tallheart can’t do a thing with silicon other than complain about it confusing his skills. Stupid metalloid, rumble grumble rumble. Later. Later.
+
+He walked across the platform, stopping right behind Ameliah atop the hatch that led to the vehicle’s interior. Only then did she turn to peer at him, taking a hand from the controls to brush a strand of hair from her face. “Hey.”
+
+“Hey,” Rain said, smiling goofily. He couldn’t help it. She was so beautiful. He raised a hand, conjuring a trio of Perception accolades before offering them to her. “Here.”
+
+Ameliah raised an eyebrow, taking the plates. “What am I supposed to do with these?”
+
+“That should be obvious.” Reaching around the headrest, he placed his hands on her shoulders and began massaging them through her armor.
+
+“Oh,” Ameliah said with a smile. Rain could feel the softness of her skin through the metal, so he knew her armor’s sensory enchantment was active. The accolades she was holding vanished, and she gasped, then let out a low moan. “Ohhhh. That feels amazing! Ow! No, don’t stop! Just…not so hard… Ah! Yes. Like that. Mmmmmmmm.”
+
+Rain grinned. “Remember to watch the road.”
+
+Skills
+
+Aura Metamagic
+
+Tier 0
+
+Extend Aura (12/15) Exp: 6,632/6,700
+
+Extend aura range by 12 meters
+
+Multiply aura mana cost by 340%
+
+Amplify Aura (11/15) Exp: 3,495/5,600
+
+Multiply aura intensity by 210%
+
+Multiply aura mana cost by 320%
+
+Tier 1
+
+Aura Synergy (20/15)
+
+Increase all aura output by 2.0% for each rank in any aura
+
+Effective boost: 354.0%
+
+Aura Focus (11/15) Exp: 1,844/11,200
+
+Focus on an aura to boost its output
+
+Multiply aura intensity by 320%
+
+Multiply aura range by 320%
+
+Multiply aura mana cost by 320%
+
+User loses all external senses while focusing
+
+Tier 2
+
+Aura IFF (12/15) Exp: 514/26,800
+
+User may exempt entities from direct aura effects at will
+
+Selected entities receive -20.0% aura output
+
+Prismatic Intent (1/15) Exp: 1/400
+
+User may maintain 2 auras simultaneously
+
+Tier 3
+
+Aura Compression (10/15) Exp: 35,660/36,800
+
+Compress aura output, reducing range to boost intensity
+
+Increase intensity by 2% per meter of compression
+
+Defensive Auras
+
+Tier 1
+
+Mental Ward (10/15) Exp: 602/9,200
+
+Increase mental resistance by 136.2% for all entities
+
+Range: 45.4 meters
+
+Cost: 1 mp/dmg mitigated
+
+Arcane Ward (10/15) Exp: 120/9,200
+
+Increase arcane resistance by 136.2% for all entities
+
+Range: 45.4 meters
+
+Cost: 1 mp/dmg mitigated
+
+Chemical Ward (10/15) Exp: 39/9,200
+
+Increase chemical resistance by 136.2% for all entities
+
+Range: 45.4 meters
+
+Cost: 1 mp/dmg mitigated
+
+Tier 2
+
+Force Ward (10/15) Exp: 1,111/18,400
+
+Increase physical resistance by 136.2% for all entities
+
+Range: 45.4 meters
+
+Cost: 1 mp/dmg mitigated
+
+Tier 3
+
+Suppression (10/15) Exp: 35/36,800
+
+Increase mana costs for all entities by 646.95 mp (fcs)
+
+Range: 45.4 meters
+
+Cost: 10 mp/s
+
+Magical Utility
+
+Tier 0
+
+Intrinsic Clarity (15/15)
+
+Multiply base mana regeneration by 400%
+
+Intrinsic Focus (15/15)
+
+Multiply base mana by 400%
+
+Tier 1
+
+Channel Mastery (15/15)
+
+Allows intuitive control of channeled skill intensity and tick rate
+
+Minimum skill intensity: 0%
+
+Maximum skill intensity: 200%
+
+Maximum skill tick rate: 2.0s
+
+Minimum skill tick rate: 0.0s
+
+Skill mana cost modified by intensity adjustment
+
+Skill intensity per tick modified proportional to tick rate
+
+Mana Manipulation (10/15) Exp: 279/9,200
+
+Allows internal control of mana
+
+Allows expulsion of mana to environment
+
+Allows transfer of mana to and from capacitive items with direct contact
+
+Maximum transfer rate 2700.0 mp/s (fcs)
+
+Tier 2
+
+Magical Synergy (15/15)
+
+Enables limited synergistic cross-coupling of magical attributes
+
+37.5% of Focus contributes to mana regen
+
+37.5% of Clarity contributes to mana
+
+Offensive Auras
+
+Tier 0
+
+Immolate (15/15)
+
+679.30-776.34 heat (fcs) damage per second to entities and environment
+
+Sufficient damage causes ignition
+
+Range: 68.1 meters
+
+Cost: 75 mp/s
+
+Refrigerate (15/15)
+
+679.30-776.34 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 68.1 meters
+
+Cost: 75 mp/s
+
+Tier 1
+
+Radiance (15/15)
+
+679.30-776.34 light (fcs) damage per second to entities
+
+Brightens environment (fcs)
+
+Range: 68.1 meters
+
+Cost: 75 mp/s
+
+Shroud (11/15) Exp: 8,375/11,200
+
+498.15-569.32 dark (fcs) damage per second to entities
+
+Darkens environment (fcs)
+
+Range: 49.9 meters
+
+Cost: 55 mp/s
+
+Tier 2
+
+Fulmination (10/15) Exp: 225/18,400
+
+452.87-517.56 arcane (fcs) damage per second to entities and environment
+
+Sufficient damage causes paralysis
+
+Range: 45.4 meters
+
+Cost: 50 mp/s
+
+Utility Auras
+
+Tier 0
+
+Purify (15/15)
+
+Purify poison, corruption, and contamination
+
+Range: 68.1 meters
+
+Cost: 150 mp/min
+
+Winter (10/15) Exp: 312/4,600
+
+Boost M.Regen by 454% for all entities
+
+Range: 45.4 meters
+
+Cost: 10 mp/hr
+
+Tier 1
+
+Detection (15/15)
+
+Sense selected items of interest
+
+Not occluded by mundane materials
+
+Resolution: 0.54 mm
+
+Range: 68.1 meters
+
+Cost: 15 mp/s
+
+Essence Well (11/15) Exp: 9,935/11,200
+
+Transfer mana to all entities within range, including user
+
+Transfer Rate: 49.94 mp/s
+
+Efficiency: 20%
+
+Range: 49.9 meters
+
+Velocity (10/15) Exp: 130/9,200
+
+454.00% boost to speed for all entities
+
+Range: 45.4 meters
+
+Cost: 10 mp/s
+
+Free Skill Points: 4

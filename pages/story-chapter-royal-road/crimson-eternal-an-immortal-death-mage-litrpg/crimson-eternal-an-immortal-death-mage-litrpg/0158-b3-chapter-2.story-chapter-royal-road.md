@@ -1,0 +1,141 @@
+---
+id: 6ffa901f-d73e-5b82-8bdf-ed7b86ba3130
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 2"
+slug: 0158-b3-chapter-2
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 158
+ownLength: 1521
+unit: words
+ownProgress: 1521
+publishedAt: 2024-05-16
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1638803/b3-chapter-2"
+royalRoadId: "1638803"
+markedReadAt: "2026-06-29T19:11:05.710Z"
+---
+
+Aria
+
+It ends up taking us about two weeks of travel to reach the Gate leading to Sheng. Simply because the Gate is on the opposite side of the world as the Gate to Luk’tar. And after we arrive, both princesses pretty much tackle me with a hug, bothering me ever so slightly by the fact that they’re taller than me right now. Since I’m still reverted in age because of Pestilence’s poison.
+
+Although after taking two weeks to travel to this Gate, and another week or so to travel to Luk’tar from Arian before that, I’ve already gone back to looking like a sixteen or so year old.
+
+So the poison’s effect is going away.
+
+Eventually the two let go of me and step back. Then Azura steps forward and reaches his hand out, so I reach in return to shake it as he says, “There’s not much point in telling you to stay safe, but do stay happy at least.”
+
+I nod to him and respond, “You stay safe, Azura.” I glance at the two princesses and add, “And you too, Little Blue and Sel.”
+
+Little Blue blushes at my use of her nickname before quickly looking around to see if anyone nearby heard. Something she often does for some reason. Ever since she became a teenager a while back.
+
+But I ignore her as I glance at Shirogane. Only for a flash of a camera to briefly blind me when I turn past Sel, finding her taking a picture of me.
+
+She just stares at me before smiling without saying a word.
+
+“Uh, what was…” I ask, but she just says, “Don’t worry about it.”
+
+I stare for several seconds, feeling slightly embarrassed at her taking a picture of me being in my younger form. But at the end of the day, I don’t really care.
+
+So I turn back to face Shirogane to find him nodding his head. Then he, Hannah, and I all begin to walk through the Gate.
+
+And immediately after passing through, we find ourselves staring at two dozen soldiers in a little fortress surrounding the Gate. With more soldiers on the walls of the fortress.
+
+The soldiers are all wearing metal armor, with helmets on their head that cover their entire head and much older metal armor plating across their bodies. They also have swords and spears without any guns. Which is surprising. Even if I’d already looked into it before.
+
+Most of the worlds I’ve been to at least have some guns. So it’s just weird to see even if I was expecting it.
+
+“Aria Crimson, Ryohei Shirogane, and Hannah Harvey, you three are all to follow us, and you are not to go anywhere without an armed guard,” someone standing at the gate to the fortress wearing a lot of cloth with his hair also wrapped up in cloth for some reason shouts. Probably some sort of officer considering the different outfit. “We will be taking you directly to the Inner Palace. Lady Crimson and Lady Harvey will enter the Inner Palace and stay until His Imperial Majesty has the time to see you to the Royal Vault, while Sir Ryohei will be shown to the guards barracks in the Outer Court.”
+
+They certainly don’t take no for an answer, do they? Don’t even give us the chance to.
+
+Shirogane motions for us to walk forward as he speaks through our communication ring, ‘Just do as they say. It’ll make things easier to pass through if we don’t raise any sort of fuss. They’re already giving us special permissions.’
+
+I share a glance with Hannah before nodding my head. Then I focus on the man who seems to be impatiently waiting for us and tell him, “Very well.”
+
+And the three of us quickly begin to follow after them. First outside of the fortress, and then down a road with an escort of about two dozen soldiers.
+
+Once we arrive at a large city, I find it looking very… old.
+
+From what I learned in my research, the Shengshi Dynasty specializes solely in Ability Holders. They put very little importance on technology or magic and focus entirely on Ability Holders.
+
+In fact, they have the most Class S Ability Holders out of most worlds except for the Nine Grands. With the exception of a couple Alpha Tier worlds. Despite them being on a Beta Tier world themselves.
+
+We enter the city before passing straight through it, easily drawing the eye of the citizens due to our clothing very much not matching the local clothing.
+
+I personally was left buying some new outfits to fit my current size. Which was annoying.
+
+But we definitely stand out like a sore thumb. Whether it’s due to the soldiers escorting us, our outfits, or the weapons we have on hand.
+
+Everything about us stands out.
+
+While we walk, passing through the gate on the other side of the city to walk on the road away from it, I can’t help but think back on the poison Pestilence used.
+
+I’m glad Pestilence told me how the poison worked. Or a vague amount about it.
+
+Mostly the fact that the poison doesn’t actually change the life force of the one affected at all. So it won’t restart their lifespan or anything.
+
+And if it’s used on someone else, it’ll most likely kill them. Seeing as it’s not even complete yet. And he wasn’t really making it to help people anyways.
+
+The body can’t handle being reverted in time all the way back to infancy after all. I’m only fine because I’m me.
+
+Meaning the poison wouldn’t do anything for Rogers.
+
+I grit my teeth as we walk, not really paying attention to much. Especially since the soldiers are all dead silent as they march, and so are Shirogane and Hannah.
+
+Why… why didn’t I even try to spend more time with them? Because of the Grand Roan Empire?
+
+Sure we talked over the Universal Feed, but I could’ve talked more than we already did. Could’ve tried to get to know them better.
+
+But I just didn’t bother.
+
+Didn’t care.
+
+Why?
+
+My frown grows deeper and deeper.
+
+This is why I wanted to avoid making connections…
+
+My thoughts pause for a moment when we all arrive at some sort of group of carriages drawn by horse-like creatures. And the soldiers quickly get us in the central carriage before we all take off on the road.
+
+Then I’m left in my thoughts again as I sit in the back of the carriage, staring up at the ceiling with a sad look on my face.
+
+The times when I would sit in the cafeteria just drinking wine as he silently ate, reading the newspaper all run through my mind. Then there’s the times we would just sit in the common room doing our own things without saying a word. Followed by the comfortable silence we had.
+
+And after thinking about and remembering those times, a thought comes to mind.
+
+Would… he really have said anything even if I tried? Considering how we always interacted. With us never really saying anything to each other.
+
+Even when we would message through the Universal Feed it wasn’t really much. Just a short and simple ‘how are you’ and a ‘good’ from time to time.
+
+Nothing more than that.
+
+Neither of us are all that talkative in messages, him even less talkative than me.
+
+So I’m not entirely sure if he would’ve even answered if I tried.
+
+Huh.
+
+Not sure why, but that makes me feel a touch better. Not much though.
+
+Still feel like shit.
+
+I take in a deep breath before glancing at Hannah.
+
+And what about her? What about the others?
+
+How will I feel when they die?
+
+I clench my fist so hard that blood is drawn, and the crimson light shown. Then I relax again, thumping my head on the carriage with a sigh.
+
+The others glance at me before returning to what they were doing. Which is just staring out the front of the carriage.
+
+Damnit, maybe it would be best to just lean into my usual laidback attitude and put this all out of my mind. At least until I see him again…
+
+But then I might end up losing track of time, so maybe not…
+
+I continue trying to figure out what to do, how to treat and process all of this, but eventually my thoughts are interrupted when the carriage comes to a halt who knows how long later. Then we leave the carriage to find a walled off area with a small castle and various other buildings inside.
+
+The soldiers don’t waste any time taking Shirogane away before some people wearing gray clothes with those odd hats bow from their place standing in front of the gates to this walled off area. Bow with their hands held in their opposing arms’ sleeves. Which is odd.
+
+“Please come inside, Lady Crimson and Lady Harvey,” they state before waiting a few seconds and rising again. “We welcome you to the Inner Court of the Shengshi Dynasty.”

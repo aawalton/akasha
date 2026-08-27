@@ -1,0 +1,123 @@
+---
+id: 9dc8a19f-adf7-5ae8-bb31-baa0a25de67a
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 28"
+slug: 0254-b4-chapter-28
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 254
+ownLength: 1410
+unit: words
+ownProgress: 1410
+publishedAt: 2025-02-09
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2057368/b4-chapter-28"
+royalRoadId: "2057368"
+markedReadAt: "2026-06-29T19:14:22.820Z"
+---
+
+Aria
+
+It doesn’t take us long to reach our destination. What with my ship being one of the best in the universe. And when we do, I can’t help but gaze in awe out of the window.
+
+Because the Star Link Station in front of me – the one that I’m going to land in and stay for a while – is massive. It’s damn near the size of half a planet. The largest space station I’ve ever seen, with the sole exception being Rex. The capital of the Rex Dynasty of the Dead.
+
+Assuming that counts as a space station since it’s literally just a metal planet created by the dynasty personally.
+
+Anyways, the station seems to consist of large sectors in a grid formation, with some trains running between each sector. Meanwhile there’s an even larger train parked on a rail that seems to just stretch off endlessly into space. No doubt connecting to the next station.
+
+Or, the high tech type of train, that is.
+
+There are also people flying in and out of multiple hangars in the station quite a bit. Probably because of the tourist sectors of this place.
+
+After all, other than the main sectors of the stations, there are tourist sectors that do not allow combat at all. Places filled to the brim with more stores than you can count in a day. More than even Eternus has, if you added up all of the stores across the many stations.
+
+The Star Link Stations are known for being amazing tourist spots after all. And I can see why simply from the sight of the stars and other astral formations clearly visible from the station itself.
+
+Not to mention that there aren’t many worlds that have such easy and open access to space. Ignoring that this isn’t a world.
+
+It still has Gates and that’s all that matters.
+
+The place also has the least strict security at the gates and hangars out of every place I’ve been to from what I’ve heard. For the tourist sectors at least.
+
+When it comes to the main sectors of each station, including the sectors that have the main trains linking to other stations, those have much stricter security.
+
+Anyways, Crimson flies the ship towards their largest hangars. Their VIP hangars from what their Star has told me.
+
+And after we park the ship in there, I head out of it along with Leone. Immediately finding the Star in question outside of the ship here to personally greet me herself.
+
+“Welcome to the Thirteenth Star, Princess Aria, Horseman of Death and Harbinger of the End!” Lyra Ren Thorne declares with a wide smile on her face and her arms spread out to either side of her in a welcoming gesture. “I hope you enjoy your stay!”
+
+I nod at the woman, briefly taking a moment to analyze her appearance and gear.
+
+She is wearing a set of high tech black and gold armor, with black being the main color and gold being the outline, and she seems to constantly be smiling. Probably because I saved her brother in some war I fought in long ago. With her brother being some random mercenary I helped and largely forgot about at the time.
+
+Haven’t met him again, but I apparently left an impression on him. And it’s worked out for this.
+
+Certainly puts into perspective that saying about never judging a book by its cover. Or something like that.
+
+Anyways, Lyra has black and gold hair, with glowing gold eyes, and a youthful appearance that matches my own. Albeit with her looking only about five feet in height that would make her look like a child if not for her figure making it obvious that she’s not. And from what I’ve heard, she should be about level 5000 something.
+
+Of course, her ability has something to do with radiation or light, the same as every other Star. So that’s not hard to figure out.
+
+What is hard to figure out though is what exactly her ability does, since no one has really been able to confirm it.
+
+Some people say that she can create her own radiation from her body and control it, others say she can just control radiation that’s already in space. But no one really knows for sure.
+
+Not sure about any of that or why they can’t figure it out, nor do I really care.
+
+“Thank you for having me,” I tell her with a nod of my head. Then I glance around her, unsurprisingly not finding a single guard in the hangar.
+
+Because the Stars are known for not liking the idea of having bodyguards. What with their society literally being built on a ‘whoever is the strongest rules’ mentality.
+
+“Please, come this way!” Lyra says before glancing at Leone and giving her a light nod, “You too, Miss Leone.”
+
+Both Leone and I follow after the woman out of the hangar, where I immediately see a massive amount of guards stationed outside of the doors. Not to mention entire laser cannons pointed outwards from next to the door.
+
+Very tight security outside of the hangar.
+
+Lyra ignores them all as she waltzes through with a wide smile on her face and her hands held behind her back and her chest pushed out. Really almost making me wonder if she has the mentality of a child or something.
+
+If it weren’t for the fact that I’ve seen videos of her fighting, I would assume that.
+
+But I’ve seen her turn people inside out using radiation with that same smile on her face. So that’s a no.
+
+She’s a rather terrifying woman, and one of the top ten most powerful Stars.
+
+Although Leone might be able to take her on, considering how well she did against Shirogane.
+
+Not that I have any interest in fighting her in the first place.
+
+“By the way, Your Highness,” Lyra says, tilting her head backwards at me as she continues walking through the long tunnel we’re in that I’m pretty sure leads to a tourist sector, “please refrain from using explosives on my station.” Then she turns her head to face forwards again while still smiling.
+
+I blink at her before a slightly sad expression crosses my face. One that I wipe away entirely.
+
+Right. Explosives are probably bad on a space station.
+
+Wouldn’t want to kill everyone on the station after all.
+
+And while I’m sure they have plenty of shielding that defends against it, a strong enough nuke will likely render those null and void.
+
+I hear a meow, making me glance down to find Asher popping his head out of the breast pocket on my jacket before he looks around with curiosity clear in his gaze. The cat having shrunk himself down a bit to fit in the pocket, making him look absolutely adorable in the process.
+
+After petting his head a bit, making him purr, I look up to see Lyra staring at the cat like she wants to pet him.
+
+The corners of my lips quirk upwards a bit and I tell her as we walk, “You can pet him if he lets you.”
+
+Lyra immediately vanishes from sight before appearing in front of me with her head level with my chest as she stares at the cat. Meanwhile Asher yawns and opens his eyes again to stare back at her.
+
+Then the two just continue staring at each other for half a minute before he meows and closes his eyes while going back into my pocket, making a look of disappointment cross Lyra’s face.
+
+“He’ll probably warm up to you over time,” I tell Lyra, feeling slightly sad for the gi- I mean the woman.
+
+Right. She’s older than me by thousands of years.
+
+Lyra looks up at my face and says, “Sorry about that display.” Then she vanishes again and continues walking as if that hadn’t happened.
+
+Even the guards in the corridor – of which there are many – act as if that interaction didn’t happen.
+
+They just stare forwards in silence like statues.
+
+I glance at Leone, who seems to be trying to hold back her laughter. Then I look down at the breast pocket of my jacket again where Asher is just snoozing away.
+
+Finally I raise my head to look at the back of Lyra’s head as we walk.
+
+This place might be more amusing than I was expecting.

@@ -1,0 +1,141 @@
+---
+id: 078eabda-16f5-5afc-af6e-06612fee45ac
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,342 - Grand Dream"
+slug: 0017-chapter-1342-grand-dream
+partOf: defiance-of-the-fall
+position: 17
+ownLength: 3227
+unit: words
+publishedAt: 2025-06-27
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2390514/chapter-1342-grand-dream"
+royalRoadId: "2390514"
+---
+
+The organizers made no effort to quell the clamor and reestablish the solemnity of the occasion. If anything, they welcomed it. Zac’s face scrunched with annoyance upon seeing concession stands appearing among the F-grade cultivators and Mortals at the back of the square. He’d been turned into an opening act, though he’d be a fool if he couldn’t notice there was something else going on.
+
+The Transformation Docks were undergoing a metamorphosis that started with an enormous influx of Imperial Faith. The world beyond the spatial gate infused the Imperial Army’s ferocity, and Grand Dream primed the mix for a specific purpose with his speech. That energy was still being absorbed by the crowd. The efficacy had even gone up since the atmosphere changed.
+
+The Mercurial Court had taken the opportunity to plant millions of seeds, and only they knew what kind of flowers would sprout in the future. Zac had his own problems to deal with before he could worry about hidden plots. Finding his challenger didn’t prove difficult. The perception-bending array brought Zac’s attention to an unfamiliar face on the ground without the need to leave his seat.
+
+The challenger was holding up a token of the Tethered Court while fiercely glaring right back at Zac. He looked much the same as the hundred sealbearers gathered around Zac. His energetic aura put the Late Hegemon somewhere at five or six hundred years of age, which appeared to be the average of the native sealbearers.
+
+There was absolutely no recollection of this Threadbinder of Ultom in Everit’s memories, and none of the other sealbearers offered any clues. The challenger also didn’t give Zac the impression he was a fellow trial taker. Frankly, he wasn’t strong enough to so confidently challenge the real Zac. Even so, the challenge wasn’t random. Had the Vigil’s nun arranged for someone to test him? Or was this another consequence of Everit’s prickly personality?
+
+Zac could feel countless gazes turning to him, including the terrifying group on the stage. No one was striking him down where he stood, which actually helped calm Zac’s fraying nerves. His borrowed identity was withstanding the intense scrutiny. Astora Theomore also remained oblivious to the proceedings, which provided some additional comfort.
+
+“I suggest you stop making a ruckus and scurry back to the Tethered Court. Otherwise, you’ll come to regret it,” Zac said while giving the challenger a baleful look.
+
+Acting the part of Everit Draom had never come so easy. Safe or not, Zac was furious at being thrust into the spotlight. Everit would have hated it just as much, though for a different reason. Being picked among nearly two hundred sealbearers marked Everit as a bottom-of-the-barrel talent, and it happened in front of such a huge crowd.
+
+“Time marches forward, and two rivers cannot occupy the same space. One will absorb the other,” a gentle reminder came from the stage. Meanwhile, four enormous holograms appeared above the altar. “Everit Draom, you may choose the trial of passage.”
+
+Grand Dream had spoken, meaning there was no way to back down. Zac reluctantly got to his feet, wondering if his disaster-attracting ability was starting to outpace his other progress. This time, he didn’t even get what he came for before everything was turned into a mess.
+
+At least it seemed like he’d get to walk away with the challenger’s Imperial Merit if he won. The Fate sealed inside his Tethered Token couldn’t match Zac’s significant accumulations, but it would boost his stockpiles by nearly a quarter.
+
+Zac inspected the four holograms carefully. Each conveyed a vague impression and a basic set of rules. The first depicted two crossed blades, and it represented a simple duel. Zac almost picked that option without looking at the others. It was an opportunity to satisfy his deep-seated desire to plant his fist on that haughty challenger’s face.
+
+The second trial was foreign to Zac. It was called a dreamshaping contest. From what he could make out, each side would nurture a dream provided by a mortal in the crowd. The contestants would enter the other’s creation, and the one who broke out first won. It would have been the perfect option for Janos.
+
+Zac was confident in his ability to break out of a hastily erected dream. It was the shaping part that stumped him. The third hologram looked a bit like a whirlpool, and it represented a race through a transforming spatial maze. The final option was a crafting trial where the parties would compete by completing a tool embryo. The options confirmed the Mercurial Court didn’t solely judge candidates through power, though all options would benefit from a higher cultivation.
+
+Combat remained Zac’s best option. He couldn’t shape dreams, and [Cosmic Forge] hadn’t reached the stage of actually crafting equipment. His only other option was the maze. However, the challenger was clearly a Spatial Cultivator. Zac wasn’t confident he could perform better than a Spatial Cultivator even if he relied on the Void. Not to mention, he definitely didn’t want to rely on his Void Emperor Bloodline before the Vigil and Astora Theomore.
+
+Trial by Combat was also the fan favorite. Countless voices were clamoring for Zac to pick it, and he was happy to oblige. Fighting in a manner significantly different from Everit’s might raise questions, but this was something he had to face eventually. Zac planned on using Everit’s long training journey as an excuse. Encountering great enough opportunities to reforge one’s path wasn’t anything unheard of.
+
+‘The race! Pick the race!’ Esmeralda urged just as Zac was about to make his decision. ‘I’ll run circles on that bastard. I’ll show him what happens to greedy fools who dare covet my things.’
+
+Zac’s eyes lit up at the idea. Having Esmeralda deal with the challenge would make things easier, and it would avoid the risk of revealing his Bloodline in front of Astora and the nun. As for the shame of bringing on a ringer, Zac didn't care. He wasn’t a real elite of the empire, and his reputation was already in the dumps.
+
+‘Are you sure? You’ll be exposed in front of all these people. I can just beat him up. I’m already in the mood to pummel a Spatial Cultivator after dealing with Kaltosa Lu,” Zac asked to confirm.
+
+‘I was never one to skulk in the shadows. A skilled thief doesn’t fear the attention. They welcome the challenge,’ Esmeralda said while slapping her chest. ‘Besides, it doesn’t matter. That old thing on the stage noticed me the moment you were challenged. I might as well make an appearance now so that I can move in the open after we reach the court.’
+
+Zac turned to the Dao Guardian who announced the challenge. “May I ask if there are any limitations on equipment? Or on external aid, such as talismans, contracted beasts, or berserking pills?”
+
+“Any method within the bounds of your grade is permitted.”
+
+“Then I choose the maze.”
+
+The declaration only caused some dissatisfaction in the crowd since it was the second most interesting option. Watching a crafting competition would be much more boring in comparison. The sealbearers looked at Zac with surprise, especially those who knew Everit. They’d undoubtedly expected him to pick the combat trial.
+
+Their confusion only grew when a small toad appeared on Zac’s head as he flew toward the altar. The hologram had already transformed into a churning sphere of Spatial Energy. It looked like it was only fifty meters across, but even Zac could tell the labyrinth was an enormous subspace of hundreds of overlapping layers.
+
+The maze reminded Zac of their harrowing journey through the Imperial Graveyard. The few navigable paths couldn’t be considered safe, and the constant transformations meant a path could turn into a dead-end or death trap. Zac couldn’t keep up with the changes at all. Just looking at the churning spatial bubble was enough to make his head spin.
+
+Esmeralda took the scene in stride, her eyes gleaming with supreme confidence. That was, until they reached the altar’s border and noticed the hidden temporal field. The maze was actually kept inside a temporal chamber, speeding up time ten to one, so the paths were actually rearranging themselves much faster than it looked.
+
+That wasn’t so much a problem as their most recent confrontation with the Dao of Time. Esmeralda only woke up yesterday, and Zac wasn’t doing much better. Such a weak Temporal Dilation wouldn’t threaten his life, but it would certainly reopen the wounds he’d worked so hard to mend.
+
+‘It’s ironic. A child visiting us from the future being afraid of time.’
+
+The Supremacy’s message was followed by a wave of pure Time that poured into Zac before he could react. Esmeralda received the same treatment. No matter how quick the thief was on her feet, how could she avoid Grand Dream’s nearly perfected Dao of Time? It moved in its own timestream, arriving at its moment of conception.
+
+First horrified, Zac quickly realized he wasn’t about to be ripped apart by an immense temporal backlash. Instead, he felt his body align with the Cosmos while countless temporal fractures that had eluded his notice were exposed and repaired. Realizing what was going on, Zac decisively transferred as much of the gentle Temporal Energy as he could to his other body. His Human side would recognize what was going on after the initial surprise.
+
+The process only needed a few moments to finish. Zac hadn’t felt so good since he first suffered a temporal backlash while advancing to Middle D-grade. His vexing temporal jitters were long gone, but he clearly hadn’t been as well-adjusted as he thought. It was at that moment Grand Dream spoke again, reminding Zac what he’d been called—a child of the future.
+
+‘I have smoothed your flow of time but your debt remains. Be careful not to overindulge in the future.’
+
+Zac’s mouth opened and closed, not sure what he should do. So it wasn’t that his seal had provided a perfect disguise. Those who’d seen through his origin had chosen not to act. It did make some sense. Grand Dream certainly had a hand in setting up the memory lanterns and trial. Why undo his own work? However, Zac still didn’t know how far-reaching their plans were and what they had in store for their lab rats from the future.
+
+Grand Dream could sense Zac’s confusion and shared a few words of suggestion. ‘Why worry about the countless branches in the river? Follow your heart and pursue the future you desire. What will be will be.’
+
+Zac took a calming breath and bowed toward the stage. The ancient Supremacy was right. Zac had grappled with theories and their implications since he appeared on the Left Imperial Expanse. It always boiled down to the same thing. It didn’t matter what the empire plotted. He’d had his own goals, so he’d let the chips fall where they may.
+
+No one had noticed the exchange, and the bow could be seen as common courtesy. The challenger quickly followed suit so as not to come off as rude. His eyes gleamed with confidence as he turned back toward the maze. Two stable entrances had already appeared.
+
+‘Are you ready?’ Zac asked.
+
+‘That old mirage isn’t too bad. He just extracted a huge amount of excess timescape from me. I haven’t felt this good since I got mixed up with you,’ Esmeralda grinned. ‘I’ll let him keep some of his items even if they’re within reach.’
+
+Zac smiled at seeing much of Esmeralda’s tension gone. Grand Dream hadn’t just solved the issue with the challenge. He’d bought Esmeralda years before her curse erupted, much like how Sendor and Lova had assisted during her cycle of rebirths. It wouldn’t solve her underlying issue, but it had greatly alleviated the immediate pressure.
+
+The countless eyes on him no longer felt so piercing. With a backer like Grand Dream, there was no need to overthink every little action. Zac would follow his heart. First on the docket was to nab another round of merit.
+
+---------------
+
+Was this a dream? Tevrin couldn’t believe his luck. He’d thoroughly studied the information packet and performed his own research before accepting the mission. Tevrin only had one shot at seizing Destiny, and no amount of rewards could outweigh the Mercurial Court’s opportunities.
+
+Luckily, Everit Draom truly was one of the most suitable targets to challenge. Everit held no evident connection to the Mercurial Court. He possessed no Daos connected to the Kingdoms of Continuum of Fantasy, and his abilities were generally geared toward tracking and combat. Tevrin had to pick someone, so why not make some extra money on the side?
+
+The society elders had predicted that the Mercurial Court’s challenge wouldn’t involve something as crude as a normal duel. Leave that to the brutes of the Indomitable and Tethered Courts. It was precisely for that reason they’d decided to take the gamble and send him here. Tevrin’s Daos of Phantasmal Dreams and Ancient Realms made him more of a match to many of the chosen Realmsingers.
+
+In contrast, Tevrin would become the Everit Draom of the Tethered Court if he dared show up. It was simply the society’s bad luck they'd only managed to get their hands on a Tethered Token. Tevrin’s heart had dropped upon seeing the crossed blades signifying a duel, only to soar upon hearing Everit’s choice. Defeating him in a direct confrontation would have required tremendous effort and no small amount of luck.
+
+Was this an attempt to save face? Being challenged among hundreds of Sealbearers certainly wasn’t a good look. If so, Tevrin’s plan worked even better than he’d expected. Everything, from his words to seizing the first challenge, was designed to agitate Everit’s acerbic personality and shake his mental state. But was the man truly this pig-headed?
+
+Tevrin didn’t recognize the diminutive toad on Everit’s head. It should be the reason for his confidence. But how could some tracking beast the inborn talents and assiduously nurtured skills of the Realmtreading Society? There was no trail to follow like when Everit tracked his criminals. Tevrin discarded any errant thoughts, and calming ripples steadied his heart. He wouldn’t allow complacency, no matter how optimistic the outlook.
+
+The call came, and Tevrin surged into the maze. His [Six Direction Compass] pointed down a route that looked like a dead end, but he followed its path without hesitation. Real and illusory Space combined into a stable tunnel, and Tevrin threw out four spikes. They embedded themselves in the seams of space, exposing a hidden route.
+
+The labyrinth’s constantly shifting alignment would quickly undo any manmade alterations, and Tevrin’s tunnel barely lasted long enough to squeeze through the gap. Having to leave behind two of his Realmtreading Wedges was painful, even if Tevrin knew it was a worthy trade. Nothing mattered except making good time, and his shortcut had saved him nearly ten minutes.
+
+Any Spatial Cultivator could see through the trial’s true nature. There were dozens of viable paths hidden in the complex spatial knot. Those at the edges were safer, with less spatial instability and slower transformations. However, the spatial compression was actually far greater at the borders. One would have to cross ten times the distance compared to going straight through the sphere.
+
+Tevrin was taking a calculated risk, choosing a path brushing against the center. Even the peak geniuses would suffer before the terrifying maelstrom in the labyrinth’s core. Skirting it was enough to pose great danger, but Tevrin had made ample preparations for the day. It didn’t matter if it was overkill against someone like Everit Draom. At worst, it was a learning experience and an opportunity to showcase his skills.
+
+Every crossroad was a riddle connected to the Dao of Space, requiring experience and intuition to solve. The [Six Direction Compass] crafted by the Realmtreading Society’s Ancestor was the perfect assistant. It greatly lessened Tevrin’s mental burden while increasing his speed. It even gave him the freedom to explore the marvelous Dao on display.
+
+The further he went, the deeper Tevrin’s awe for the Mercurial Court grew. What a marvelous trial. Not only was the concept instilled into the spatial layers exquisite, hinting at a heritage far surpassing the society’s. The trial was actually a gift for the fated. The whole labyrinth was a blueprint, one only visible from the inside. The deeper Tevrin pushed, the clearer the picture became.
+
+Alas, Tevrin soon had no energy to spare on the hidden pattern. The labyrinth soon grew excruciatingly complex and filled with nefarious traps. Every turn could lead you down a thousand different routes. Of them, nine hundred held false spaces, and ninety-nine led the wrong way. Only one route was true, and being a second too slow would turn the true path into another dead end.
+
+The compass soon couldn’t deduce the route on its own. Tevrin used every ability in his repertoire and everything he’d learned during his centuries traversing the World Tree's myriad realms. There was no price too steep to take another step forward. Deep lacerations covered his body, but they couldn’t extinguish the fire burning in his heart.
+
+Seizing destiny never came easy. Tevrin’s roared with defiance as he stabbed forward with his hand. A lance of condensed space crashed against a spatial barrier with enough power to dispatch a whole mountain peak to the Void. It wasn’t nearly enough to force a path. The collision only managed to create a series of ripples. They provided the critical clues Tevrin needed to continue.
+
+The crude approach was quick and effective, but it drained significantly more energy than his other means. Tevrin was forced to rely on similar methods with increasing frequency. The slightest delay meant certain doom. The labyrinth became a hazy blur as his soul was wrung dry, and Tevrin increasingly leaned on instinct to lead him down the promised path.
+
+Tevrin’s unyielding determination was finally awarded. The exit ahead. His crossing had felt like an eternity, but he knew he’d made great time. He’d made few mistakes, none of them major. He’d even overcome his limitations by tapping into his potential and desire to seize Destiny, surpassing what should be his best performance.
+
+Preparation and force of will had coalesced into a time just shy of fifty minutes. Tevrin understood there were always higher mountains, but he couldn’t imagine more than a few dozen Sealbearers beating that record. Another hour might not be enough for Everit Draom to reach the end.
+
+The final stretch proved blessedly calm, giving Tevrin the opportunity to pull himself together. Someone was already waiting outside to greet him, and he’d emerge victorious before countless witnesses. His feat would become a fable told in inns and tea houses, and he couldn’t do something to tarnish his or the society’s name.
+
+Tevrin rallied the last of his reserves and forcibly teleported past the finishing point. He emerged in a burst of valor. The crowd wouldn’t know the maneuver left his vision spinning and his stomach ready to refund yesterday’s feast. They’d only remember his heroic expression as he seized Destiny. It worked. Tevrin could feel the countless gazes, and the square was steeped in rapt silence.
+
+Stabilizing his breath, Tevrin jumped into his prepared statement. “This day—"
+
+“Took you long enough.”

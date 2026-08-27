@@ -1,0 +1,105 @@
+---
+id: 424d097e-9e8f-5608-8749-188783314c9a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,348 - Whitfall"
+slug: 0024-chapter-1348-whitfall
+partOf: defiance-of-the-fall
+position: 24
+ownLength: 2768
+unit: words
+publishedAt: 2025-09-02
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2569098/chapter-1348-whitfall"
+royalRoadId: "2569098"
+---
+
+Zac—or rather Everit—had been crippled.
+
+Lawkeepers lived lives full of danger, at least the greedy or ambitious ones. The [Peregrine Gondola] had brought Zac to a timeline where one of Everit’s missions had gone sideways. Instead of catching the fugitive, he’d been lured into an ambush. Everit managed to kill the offender and his companions, but it cost him everything.
+
+A crippled Lawkeeper could still live a life of comfort, relying on a pension and the wealth they’d accumulated as a cultivator. That wasn’t the case with Everit Draom. He’d made too many enemies among criminals and Lawkeepers alike. He’d also spent centuries brazenly embezzling everything he came across, and his net worth was thought to rival Monarchs. That even attracted the attention of people Everit had no relation to.
+
+Everit’s fortune was ripped from his hands so quickly it made his head spin. His residences were seized under the guise of rooting out corruption, and his hidden haunts were exposed through torture and soul-damaging memory scans. It still wasn’t enough. The vultures were convinced he had more stashed away, and they’d stop at nothing to get it.
+
+Originally of humble birth, Everit had no backing within the Magistrate. The Judges looked the other way, siding with their own over a toxic has-been. Only one of Everit’s old instructors took pity on him. He arranged for Everit to be brought away and sent to a remote corner of the Left Imperial Expanse to live out his final days. Five years had passed since then, and Everit was still traveling the shallows.
+
+It took Zac nearly two hours to digest the new set of memories. They were far more complete than what he’d gathered from the memory lantern. The alternate timeline’s Everit Draom already felt more real to Zac. It wasn’t the only difference from the times Zac had stepped inside the bodies of others inside the memory lanterns.
+
+The transformation was nearly complete and impossible to influence. Inside the memory lanterns, Zac could still access his cultivation if he focused. That wasn’t an option inside the Peregrine Ocean’s illusion. His Soul Cores and Cosmic Core had been replaced by Everit’s broken remnants, which couldn’t even generate enough energy to sustain an F-grade cultivator.
+
+Calling on the Abyss in his bloodline was fruitless, and what little energy remained in his body was Cosmic Energy rather than Miasma. Perhaps the latter was for the best, given the circumstances. The Hidden Nodes, quantum spaces, the Remnants, and the Shrine of Kanba—all gone. Zac had no way of telling how Esmeralda fared. Hopefully, she was safely sealed inside the shrine while he overcame this test.
+
+Zac could vaguely feel the Void, but it was blocked by something that felt like immutable Law. It was a first for Zac, and it left him feeling incredibly exposed. Even while trapped inside the Orom, Zac always had the Void as an ace in the hole. Its ability to make the impossible possible had been an important reason Zac never gave in to despair. It was just a matter of finding the right solution. Not this time.
+
+The only apparent things remaining were his Daos. The intangible Dao Apparitions of his Trinity Path had appeared in his destroyed Soul Aperture the moment Zac took over Everit’s body. Maybe the alternative was impossible. Was the trial supposed to impart him with a true understanding of the Dao of Order to match Everit’s cultivation? Was it supposed to alter his mind to forget about his insights? Zac sensed that would go against the purpose of this test.
+
+His body had stabilized by the time Zac had sorted through the memories and taken stock of his situation. He only felt slightly nauseated, though that was partly from the red plants lining the country road. Naturally, the soul-crushing weakness remained. Understanding the Dao meant little when you had no Mental Energy or abilities to infuse them into.
+
+From an attribute standpoint, Zac estimated his current strength to be even lower than when he woke up on the day of the integration. That still left him slightly better off than the commoners in this particular region.
+
+Lacking any talent or heritage, most had to settle for being passively nourished by the ambient spirituality, becoming slightly more healthy than people of medieval earth. Those better off could attend cultivation schools in the cities. But even there, they mostly practiced inefficient manuals that provided little in terms of strength.
+
+For instance, the young guardsman Tam Brooks instructed only reached the equivalent of a level 20 cultivator after more than a decade of diligent practice. Exceeding such people only put Zac above the lowest strata in society. The wandering cultivators who’d made some inroads could threaten his life, and there were E-grade Clans in the larger cities.
+
+Despite understanding the situation, Zac spent another hour silently sitting on a stone by the side of the road. He occasionally gazed across the huge field, occasionally turning toward the sprawling forest on the other side of the road. He looked down the horizon, sometimes turning around in the direction Everit Came from.
+
+A few travelers had passed by during this time, giving Zac curious looks before walking off. One kindhearted stranger reminded him not to stay too long. Apparently, the herbs were called Blood-Boiling Reeds, and their harmful aroma would grow much stronger during the night. Zac nodded in thanks before continuing his ruminating vigil.
+
+What was he supposed to do?
+
+There were no clear indicators and no helpful quest prompt to throw him a bone. In fact, Zac couldn’t access his Status Screen at all, and he had no one to bounce ideas off of. Was there a mission to finish or a thread of fate to resolve? Was he supposed to do the same thing as Janos in the nightmare city, find a weakness and break out? Was he supposed to survive until the clock ran out without having his identity replaced? After all, Everit’s memories continuously pushed against his.
+
+A scream of danger forced Zac out of his confused state. He tilted to the side and saw a streak of black flash by. A burning flash of pain on his cheek followed. The arrow had only grazed him as it passed, but a second one had slammed into his left shoulder with enough force to make Zac see stars.
+
+Everit had outfitted himself with a decent chainmail last year, and it was still mostly intact. It protected Zac from suffering a puncture wound, but the force was still enough to dislocate his arm. This kind of injury should barely register, yet it cut deeper than some of the worst wounds of Zac’s life.
+
+He had no energy or war-tempered body to mitigate the pain. It was raw and unadulterated, and Zac had to face it head-on. However, the illusion couldn’t take away the resilience hammered into his very essence. Zac’s mind was still sharp as a razor, and he responded on instinct. Using the arrow’s force to speed up his pivot, he lunged into the fields of shoulder-high herbs.
+
+A surprised curse came from deeper into the woods—one of the archers who’d ambushed him. The other one should be hiding somewhere in the fields. They still posed a threat, but Zac first had to deal with the two bandits who’d approached to finish the job. The burly duo had displayed surprising stealth, almost managing to sneak up on Zac through the fields.
+
+The scimitar-wielding bandit to the left was either a mortal blessed with extraordinary strength or exceedingly shallow cultivation, but the leader was a proper practitioner. Zac also got a vague sense of familiarity from him, or rather the distinct tattoo on his throat. The bandit had relied on a washed-out and barely functioning talisman to hide their presence, but it was useless now that Zac had noticed them.
+
+Their weapons were drawn, but neither had expected Zac to react so decisively. Everit had no spatial treasure, but he had a sword slung over his back and two daggers at his belt. Zac didn’t bother with the sword; it was too heavy to properly wield with one arm wounded. He instead unsheathed and threw one of his daggers in a fluid motion, and it shot straight for the bandit leader’s eye.
+
+The bandit cursed and quickly parried with his blade, briefly blocking his vision. The henchman immediately paused, clearly afraid to face Zac alone. Zac could read his every thought. What the bandit thought was easy prey was now barreling toward him with the eyes of a predator. Zac couldn’t exhibit his accumulated Killing Intent, but he was still someone who’d slaughtered enough people to make a mountain of corpses. The calm finality in Zac’s gaze would be just as horrifying to an inexperienced vagrant.
+
+The henchman adopted a defensive posture like his captain, but it was much sloppier. Zac’s second dagger found a gap beneath his arm, and the dagger sank into the bandit’s lung until the pommel touched flesh. Another scream of danger interrupted Zac just as he was about to finish the job. Instead, disengaged to avoid a third arrow, forced to leave his dagger in his opponent's body.
+
+The leader had already recovered, and the air screamed as he swung his sword in a grandiose arc. Such a massive swing would have immediately gotten him killed in a war. However, his significant attribute advantage allowed him to cover the glaring gap in his defenses with superior speed.
+
+Zac couldn’t infuse his movements with Dao to use his stances, but he still had his fundamental knowledge and vast experience to fall back on. It was like he could see into the future, knowing precisely how the next second would play out. Zac actually leaned into the swing like he planned on falling on the sword.
+
+It was enough to stop the prickling sensation of danger in Zac’s neck. The archer in the woods had planned to attack when Zac disengaged but was forced to pause out of fear of hitting his boss. Zac pivoted, drawing every morsel of speed from Everit’s body. Sparks flashed as the sword cut through Zac’s tunic to graze the chainmail beneath, failing to land a clean hit.
+
+Zac countered with a punch at the bandit’s chin, but it seemed to hurt Zac more than his opponent. The bandit leader had a weak film protecting his skin. It was perhaps the crudest application of Cosmic Energy Zac had ever seen, but it worked well against someone unable to channel energy of their own.
+
+Never having put all his hopes in his fist, Zac’s left hand had already grabbed a grisly dagger on the bandit’s belt. It was almost as large as a machete and surprisingly heavy. Stabbing pain prevented Zac from raising the weapon, so he slammed his dislocated shoulder into the leader’s chest with his whole weight.
+
+The bandit’s eyes bulged when the air was punched out of his lungs. His suffering was nothing compared to Zac’s, yet it was Zac who kept going without missing a beat. Placing one leg behind the bandits, the leader fell onto the ground with Zac on top. He never got up. His eyes were glued to the hilt of his own dagger sticking out of his throat.
+
+Zac had swapped hands while they fell and used gravity to pierce through the bandit’s flimsy energy barrier. There was likely a bit of spiritual metal in the weapon. The herbal field got a splash of deeper red as Zac ripped the serrated dagger out of the bandit’s throat, causing a great splatter to drench the nearby stalks.
+
+He narrowly avoided another arrow but effortlessly dodged a hollow swing from the second bandit. The henchman’s whole side was completely drenched in blood. The fool had actually ripped out the dagger on his own, and he bled like a sieve. The man would probably have bled out without Zac’s interference, but he still went in for the kill. The bandit blocked a punch aimed at his wound with his arm. The pain left his face green before it turned white, allowing Zac to slit his throat.
+
+The short grapple made Zac feel as though his lungs had been set on fire. He couldn't remember the last time he was out of breath. He still rushed deeper into the fields, hunched over to make a smaller target. With only the archers left to worry about, Zac welcomed their attacks. Following their trajectory, Zac quickly found his first target. The archer died while frantically trying to reload his crossbow.
+
+Only taking a moment to catch his breath, Zac turned toward the last archer hidden in the woods. He emerged from the forest ten minutes later. A new wound had been added to his chest, and his lungs heaved like great bellows. The archer was smart enough to escape when the first two bandits fell, but it only delayed the inevitable. Zac had picked up a rock and knocked the archer over with an inhumanly accurate throw.
+
+The battle had been completely in Zac’s control despite being roughly at the same level as the henchmen and significantly weaker than their leader. Zac may as well retire in this illusory world if he couldn’t run circles around a couple of low-grade hooligans. However, experience couldn’t create miracles when he lacked the strength to follow up on it. An elite cultivator could fight a hundred same-grade opponents, but Zac knew he would have been in serious trouble if there were two or three more bandits.
+
+If his power of deduction wasn’t enough, there was ample proof in Everit’s memories. Full of anger and still seeing himself as an elite cultivator, he’d gotten into multiple fights after reaching the shallows. Like Zac, Everit could effortlessly dispatch an early F-grade cultivator of equal strength, and he’d relied on that to set himself up for his new life.
+
+Only after being robbed of what little possessions and stuck in a sickbed for half a year did Everit learn to rein in his temper and avoid attention. It was actually that insight that had brought today’s trouble. Everit had targeted a companion of these bandits for his bounty, but he’d made the kill look like a lucky kill during a drunken brawl.
+
+“Had to be the one that stuck,” Zac muttered as he took out a stack of notes from Everit’s backpack.
+
+Zac rifled through the notes until he found a sketch of the leader. Even the tattoo on his cheek was faithfully replicated. Zac stowed the bounty notices and got to his knees with a grunt. He used the commandeered machete to sever the leader’s head and stashed it in a burlap sack. The others were only grunts without bounties of their own.
+
+After some hesitation, Zac dragged the corpses into the edge of the woods. It drained his already faltering reserves, but Zac didn’t know if some local tyrant owned the fields. He was too tired to dig graves, so he left the bodies behind a bush for the wildlife to handle. The scene cleaned, he set off on the road. The burlap sack in his hand left a trail of blood.
+
+The nearest city was nearly twenty miles away, and there was no good place to stay. He reeked of blood, making him a magnet for the forest’s nocturnal hunters. The fields with their toxic pollen were no better, so he needed to reach the city.
+
+The sun had already set when Zac stumbled into Whitfall. There’d thankfully been a creak on the way where Zac could wash off the worst of the grime, but his wretched appearance still gave the night guards a scare. Thankfully, Whitfall was built on the edge of the Whitmont Forest, where many hunters made a living. Not only was the main gate open and manned around the clock, but Zac was also able to collect the bandit’s bounty after explaining the situation.
+
+He used the payment to order a hearty meal and book a simple room in a rough inn near the gate. It catered almost solely to hunters, and his gristly appearance only drew a few additional looks. The stench in the tavern was overwhelming, but Zac barely noticed. He robotically scarfed down his hearty meal before retreating to his room. Zac fell dead asleep the second he lay his head on the hard straw pillow.
+
+Uncovering why he’d been brought to this world would have to wait until tomorrow. If lucky, he might even wake up on the gondola.

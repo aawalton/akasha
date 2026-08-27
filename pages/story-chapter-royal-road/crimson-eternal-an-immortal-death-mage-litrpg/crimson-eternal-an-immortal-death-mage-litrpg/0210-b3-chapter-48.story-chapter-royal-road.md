@@ -1,0 +1,167 @@
+---
+id: f64ae7b0-341f-59b7-8117-747f08b7385a
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 48"
+slug: 0210-b3-chapter-48
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 210
+ownLength: 1568
+unit: words
+ownProgress: 1568
+publishedAt: 2024-09-28
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1824822/b3-chapter-48"
+royalRoadId: "1824822"
+markedReadAt: "2026-06-29T19:12:52.459Z"
+---
+
+Aria
+
+I hum a little as I lean out over the edge of the fifth Tier of the Spire, just resting my cheek on my palm while looking out at the battles going on outside.
+
+It didn’t take long for me to end up back here again. Not long at all.
+
+Shirogane refused to tell me his plans beyond how he was initially going to start helping with the war in a mercantile manner before moving onto helping directly in combat, and when I met with Leopold, he just told me to go back to the Spire and ignore the war.
+
+So I did just that.
+
+But I can’t help but stare out and watch it a bit. Kind of hard to just ignore a war after all.
+
+Although I do still have my Death Spirits roaming around the Spire killing things. Because why wouldn’t I?
+
+I let out a yawn before hearing a meow, bringing my attention over to the entrance of the little ledge I’m on, where Asher is currently casually walking out of the Spire. Then I turn to look outside again.
+
+After a few seconds though, I turn to look down at myself. At the outfit Leopold had me change into for some reason.
+
+It’s not the fanciest of outfits or anything, but it still isn’t something I’d normally wear. My usual go-to outfits have pants or are just plain shorts. But the outfit he had me change into is a blouse with a skirt. A rather nice looking outfit overall.
+
+I’m just not sure why he asked me to change into it.
+
+Although, I don’t really care one way or another what I wear one way or another. I mostly just like pants and shorts because they’re both easy to move and fight in and are not very revealing.
+
+Something about this makes it feel like he’s dressing me up for…
+
+I blink as I realize what’s going on.
+
+Oh.
+
+I lean over the edge again and sigh.
+
+Well, that’s annoying.
+
+It’s gonna happen soon, isn’t it?
+
+I tilt my head up to look at the sky, feeling my hair blowing in the wind as I do so. And I can’t help but feel like something’s going to happen any second now that I’ve figured out what he had me dress up for.
+
+But nothing happens for over an hour, so I eventually turn to look down at the fighting again.
+
+It was rather weird when I came back up here. Everyone was avoiding me.
+
+Well, every enemy of the Grand Silvanian Empire, that is.
+
+They looked terrified of me.
+
+Makes me wonder if news about what I did to the soldier guy got out or something. But unless he’s really important to their nation or something, I doubt it would’ve blown up that quickly.
+
+It was really bizarre to see them all running for the hills when they saw me. Or, at least, the weaker ones ran for the hills. The stronger ones just looked wary of me and avoided me.
+
+Such a strange sight.
+
+I ignored them all though. Just walked straight through all the fighting and entered the Spire.
+
+Doesn’t really matter at the end of the day.
+
+I let out another sigh before yawning.
+
+Maybe I should take a nap. I’m plain bored now.
+
+Normally I would’ve left this world to move onto the next one long ago.
+
+I just don’t like to spend more than like a decade or so on any particular world.
+
+The mana creatures tend to get boring, and so does the scenery.
+
+But I’ve been here for two decades now and I can’t leave for another three decades. Unless I just want to leave Shirogane behind. Which won’t be happening.
+
+My thoughts are cut off when I hear a very loud warping sound along with a lot of flames and overall just the sounds of a spaceship leaving hyperspace. So I raise my head before frowning at the sight of an enormous red ship that completely dwarfs every other ship in space. It’s so large that it’s like a fifth or so of the size of the entire planet I’m on.
+
+A spaceship. The size of a fifth of a planet.
+
+It’s ridiculous.
+
+And everyone that was battling immediately pauses as they focus on the ship. Whether they’re the people in space or on the planet.
+
+I frown as I slump over the railing, my arms dangling over the edge.
+
+Well, guess it was bound to happen at some point. No avoiding it now.
+
+At least it’s happening when I’m bored and don’t have anything to do that I’m particularly interested in. Especially since a lot of my favorite books from this world are kinda being put on hold for the war.
+
+Which is very unfortunate. If they’re gonna fight, couldn’t they at least avoid causing problems in the publishing industry?
+
+I sigh again at that before lifting my head again and spotting three people as they appear outside of the spaceship, each of them immediately letting out an incredibly powerful aura that spreads across the planet. Auras that vanish almost immediately. Meanwhile hundreds of people wearing cloaks with masks on appear around them like bodyguards. And without wasting a single moment of time, the three all rush straight over to float right in front of the ledge I’m on with the bodyguards surrounding the Spire in a dome shape.
+
+And the ten minute timer begins now.
+
+So with that in mind, I stand up straight and cross my arms under my chest while looking at my parents and brother. All three of whom look exactly like they did before, except with a slightly different feel to them.
+
+Like they’re filled with pride and arrogance. Something they didn’t have anywhere near as strongly from what I remember.
+
+I’m sure they originally did when they made the clones, but after being separated for so long and weakened… that pride and arrogance probably faded a good bit.
+
+Although I wonder where Uncle Jake is? Haven’t heard a single mention of him.
+
+That aside, the three look like they’re struggling to figure out what to say.
+
+“You’ve had a century to figure out what to say, and you’re still struggling?” I can’t help but ask while tilting my head and tapping my foot.
+
+Then again, it might not be a bad thing if they waste their ten minutes.
+
+Also, is it just me, or are they struggling to figure out how to look at me? Because their gazes keep shifting from the look of a parent or sibling of a newborn baby to that of a long-lost family member. All mixed in with a bunch of regret.
+
+The former kind of pisses me off. And the latter, I’m not really sure if they fully deserve being able to feel like that or not. But at the end of the day, I think they do.
+
+They hid the truth from me, or rather, their clones did. And while I do think of them like pseudo strangers, they also lost their child right after I was born. And were banned from seeing them more than ten minutes a century.
+
+Anyways, the three move to land on the ledge behind me. So I turn around as Asher begins to climb up my side to my shoulder.
+
+I absentmindedly pet Asher as Empress Lucilia takes an awkward step forward, making me focus on her. Which feels rather odd, seeing as she looks like an older version of me.
+
+Just kinda disorienting.
+
+Very obvious that she’s my mother.
+
+“Aria, can…” She starts, only to pause for a few seconds and glance at the other two. Then she looks at me again, bows, and says, “I’m so sorry. I’m sorry for everything you went through because of us. Sorry about everything.”
+
+I blink in surprise, not having expected this introduction at all.
+
+Both Adrian and Emperor Artorius bow and say very similar things. And I can genuinely tell that they truly feel sorry for everything.
+
+I cross my arms again and begin tapping on my arm with my finger, trying to decide how I should take this.
+
+A few seconds pass as the three continue bowing before I eventually sigh and tell them, “Stop bowing please. It feels weird.”
+
+The three immediately straighten up, making me briefly think of them as puppy dogs loyal to my every order. Like they’re trying to do whatever they can to appease me.
+
+They really do want to be my family, don’t they?
+
+But I genuinely don’t feel much of anything for them. After all, I can tell just from how we’ve interacted thus far.
+
+They are very different from how I remember my brother and parents when I was a child.
+
+They aren’t the same people. Not all the way.
+
+My assumptions about their clones branching off of the originals turned out to be correct.
+
+Honestly kind of wish I can avoid this situation entirely to go back to my comfortable life of hunting and reading. My uncomplicated life.
+
+But that’s not possible.
+
+I open my mouth to say something, only for another aura to suddenly spread across the world. And this one isn’t being hidden.
+
+All four of us immediately turn our attention towards the direction of the aura, each of us tensing up in the process.
+
+Fuck.
+
+That’s what Arthur was after.
+
+He’s here.

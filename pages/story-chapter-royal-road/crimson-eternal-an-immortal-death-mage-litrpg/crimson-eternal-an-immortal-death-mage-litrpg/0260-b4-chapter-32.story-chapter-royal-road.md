@@ -1,0 +1,159 @@
+---
+id: 660478fd-82f9-5476-a3e4-58f8db03bc5a
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 32"
+slug: 0260-b4-chapter-32
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 260
+ownLength: 1583
+unit: words
+ownProgress: 1583
+publishedAt: 2025-03-03
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2101470/b4-chapter-32"
+royalRoadId: "2101470"
+markedReadAt: "2026-06-29T19:14:35.286Z"
+---
+
+Aria
+
+“Huh,” I mutter while staring blankly at Zero in front of me as the two of us sit on comfortable chairs in her bedroom within the Plane of Death. A rather comfortable place despite the name that happens to be situated in a massive castle. “I didn’t know about that.”
+
+“Understandable, little one,” Zero says with a smile on her face. “There are plenty of events kept hidden from the populace about the Horsemen and the other energies of the universe.”
+
+Hmm. I wonder what else is being kept hidden?
+
+Zero opens her mouth to speak, only for us to be interrupted when the terminal on my arm buzzes implying that I’m getting a call.
+
+So I glance at Zero, who gives me a nod and a smile for me to accept it, then I reach over and accept the call. Immediately making Leone’s face appear on the terminal.
+
+And she doesn’t look particularly happy for some reason.
+
+For a moment I wonder if I did anything wrong, but nothing comes to mind. Which makes me even more curious about what’s up.
+
+Then she answers my curiosity as she says, “An outbreak of a new virus has infested the Second Star of the Star Link Stations.”
+
+I stare blankly for several seconds.
+
+She stares back.
+
+Silence fills the air.
+
+I turn to look at Zero, only to find her nodding. So I nod back once and summon my horse again before opening another gate back to the Fracture. Then I go ahead and ride on my unnamed horse through said Fracture back towards the entrance.
+
+“I’m on my way now, but it could take several hours to reach the entrance of the Fracture,” I tell Leone while searching through the Star Link Forums on my terminal, splitting the screen into two as I do so. Just trying to find anything I can about this outbreak.
+
+And the very first thing I see isn’t a good one.
+
+Because it’s about Pestilence.
+
+Apparently this outbreak has signs that it was caused by Pestilence. The foremost sign being a rather obvious one, considering that he is literally just floating outside of the Star Link Stations watching the station.
+
+But there isn’t too much buzz on that right now because of the outbreak itself.
+
+And it’s a rather brutal virus at that.
+
+“I’m currently safe and haven’t gotten exposed, and no one has boarded the ship either,” Leone states as I read up on the virus. “So there shouldn’t be any worries about the ship getting contaminated. But do please stay outside of the ship, or at least in a decontaminated portion of it.” I notice her shivering slightly in the other half of the screen. “I really don’t want to catch this virus.”
+
+“Understandable…” I mutter as I finish reading up on the virus.
+
+The virus starts out almost completely imperceptible. Nothing but some minor itchiness on the legs of the infected. With no signs externally visible that they’re even sick. No fever, no marks on their legs, no nothing.
+
+Then the virus progresses through their legs from the inside out, literally eating away at their flesh. But it does it at such a slow pace and with some sort of antiseptic agent that completely numbs any sense of pain so it’s still unnoticeable.
+
+Aside from an itchy sensation that continues to build. Making the infected want to scratch their legs.
+
+Which, in turn, makes it even worse as they tear off some of their own flesh in the later stages.
+
+The first few days of the infection have no signs beyond the itchiness. It isn’t until after the first few days that the virus finally reaches the surface flesh and begins to leave large, black and dead holes in their legs. Although it does become noticeable before that simply because of a sensation of weakness in their legs.
+
+Which makes sense, since there are some rather large holes inside of their legs.
+
+Would be weird if they didn’t feel weak.
+
+Anyways, after that, the virus continues to spread upwards throughout the entire body of the infected.
+
+But that’s not the worst of it.
+
+There is a way to stave off some of the virus. And it’s incredibly cruel.
+
+To stave off some of the virus, the infected must eat fresh flesh. Straight off the bone.
+
+And it’s only a temporary fix as well.
+
+Obviously no one knew about this at first though. They only learned of it when the devastating hunger that came with the dying flesh began to drive some of them insane.
+
+So insane they started to eat their fellow man when they weren’t close to any other food sources.
+
+And that very act snapped them out of their insanity for a brief period of time.
+
+Only for the horror to set in about what they just did.
+
+Overall, the illness pretty much turns them into zombies that still retain their sapience and are forced to live with the consequences of anything that happened while they are infected. And there aren’t any permanent cures known as of yet.
+
+The virus also doesn’t seem to affect people above level one thousand, so most of the guards at the station are fine and are trying to keep the peace there. Which is difficult with the billions of people aboard the station.
+
+As for the other nations of the universe? They’re all quarantining the Star Link Stations.
+
+Even the other stations are quarantining the Second Star. Not that it’s helping all that much, since it has spread to several other stations already.
+
+Although considering that Pestilence is still floating in space writing notes while watching the Second Star, it’s obvious he released it in the Second Star.
+
+I purse my lips as my horse rides through the air in the Fracture completely ignoring gravity and the platforms in the process.
+
+It’s kind of ironic that I end up seeing Pestilence again when I’m planning on heading to a world Pestilence destroyed a while back in one of his previous experiments.
+
+On that note, I glance at the video call side of my terminal to see Leone gritting her teeth as she looks out the window of the ship. No doubt at Pestilence, but I can’t see from this angle.
+
+Yeah, Leone probably isn’t happy to see him.
+
+I let out a sigh before just riding in silence through the Fracture. All the way until I eventually leave the Fracture entirely, just to find the spaceship that Lyra mentioned before waiting for me here. But I don’t see or sense anyone inside of it.
+
+Guess the guard stationed with it headed back to help deal with the emergency.
+
+Understandable.
+
+My horse slows down a little bit and neighs, making me glance in the direction of both Pestilence and the station. And through the station windows, I find people running around wild on the two pathways, with some people even trying to eat each other.
+
+Meanwhile Pestilence just continues taking notes, only briefly glancing up at me from his horse. Simply because his horse turned to look at us, seemingly locking eyes with my own horse. As if the two were communicating or something.
+
+Pestilence doesn’t even say anything when our eyes meet though. Just returns to his note taking.
+
+Doesn’t even nod or acknowledge me.
+
+I head inside of the ship next to the Fracture before searching for something that can easily contact Lyra. Because I’m sure she must’ve left something of the sort behind.
+
+And lo and behold, she did just that. Some receiver sitting on top of the captain’s seat.
+
+I grab it and press the call button before waiting.
+
+And waiting.
+
+And waiting some more.
+
+Eventually the call is accepted, and I hear Lyra’s voice immediately coming from the other end, “Hey, so you’re finally out of the Fracture? That’s good! I really underestimated how long ‘a little while’ would take, didn’t I?”
+
+I open my mouth to speak, only for her to continue speaking without giving me a chance to say anything, “By the way, is there any chance you could speak with the rather intimidating fella floating outside watching my station like we’re some group of labrats of his?”
+
+That has me raising a brow.
+
+“You want to turn me into a labrat in your nation’s place?” I ask without lowering my brow. “Why would I do that for some strange nation that I have no ties to? You’re the one who owes me a favor, not the other way around.”
+
+A brief pause ensues.
+
+“What if I gave you a dozen factories to produce your own explosives of all kinds?” Lyra eventually asks, making me blink for a moment as a list of factories on the Star Link Station appears in a hologram in front of me within the ship.
+
+“As I was saying, is there anything you’d like me to ask him in specific?” I ask without any hesitation. “Other than stopping his experiment, of course.”
+
+Another pause ensues.
+
+“Could you ask him if he could cure our people of the virus?” she asks, sounding oddly bemused.
+
+I nod my head before stating, “Got it. I’ll go ask him now.”
+
+Then I put the receiver thing into my jacket pocket and turn back around to leave the ship.
+
+But all I can think about despite my heading over towards Pestilence are those factories.
+
+Why didn’t I ever think about making factories to produce my own explosives before?
+
+It’s genius.

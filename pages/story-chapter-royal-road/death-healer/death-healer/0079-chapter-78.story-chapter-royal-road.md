@@ -1,0 +1,89 @@
+---
+id: ef4c06ae-28a7-58b8-9320-9686045b4e93
+page-type-slug: story-chapter-royal-road
+title: "Chapter 78"
+slug: 0079-chapter-78
+partOf: death-healer
+position: 79
+ownLength: 981
+unit: words
+publishedAt: 2025-10-05
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2652929/chapter-78"
+royalRoadId: "2652929"
+---
+
+Lily slowly opened the Book of the Dead and looked at the first page.
+
+"The History of the Seats," she read easily. She had been gifted [Myriad Tongues] by Lucas the day that she had been sent to this world, which made her capable of reading any language.
+
+I'm not sure that was just something done on a whim, she thought.
+
+Now that she had regained her old memories, the figure of Lucas sounded much more scheming and manipulative than she had realized when she met the God.
+
+When she raised her eyes from the book, all three adults were watching her with expressions of varying degrees of disbelief. Her mom had a mix of incredulity and pride on her face. Her father had a slight smirk painted all over his expression. Hadrian, though, narrowed his eyes at her.
+
+"So you can read this. I thought I heard it wrong when you, as a child, read the cover. How?"
+
+Lily explained herself again.
+
+"I believe we should address the fact that you have talked to a God," Adriana said, keeping her eyes on Lucianus, staring him down. "Your father messed with the same God."
+
+Adriana proceeded to explain what she knew of what Lucianus had done.
+
+When she heard all of that, Lily couldn't believe her ears.
+
+"You traded with a God?" Lily said. She didn't have much knowledge on the topic, but that sounded like a very quick way to completely lose your soul or something like that.
+
+"I was... I have been furious for many years. The [Pope] killed my sister, and I couldn't figure out why. In my rage, I decided that I wouldn't just figure out his motives, but that I would bury his family entirely. I wanted an heir capable of destroying the Gens Iulia thoroughly—and my arrogance brought me to meet an entity that I wasn't even sure could be contacted by mortals. Hadrian helped greatly in tracking it down. When it woke up, I traded. The details... I cannot share."
+
+"So..." Lily suddenly frowned and turned to her mother. "Mom... you can't have children?"
+
+Adriana sighed.
+
+"I tried learning the Holy Flame. The fire burned my body and some of the damage couldn't be healed. I won't be able to ever have any children other than you, darling," she said, somewhat dejectedly.
+
+"Mom, would you like to have more children or was it just to have heirs?" Lily asked cautiously.
+
+"I love you more than anything in the world, darling," Adriana prefaced her response before continuing. "And I would love to see you thrive alongside brothers and sisters."
+
+"We should get back to the Book of the Dead," Hadrian said impatiently. "I've waited years for someone to decipher this damn tome! It's time that we—"
+
+"Mom," Lily ignored Hadrian. "Could you give me your hand?"
+
+Adriana nodded and gave it to Lily, slightly confused.
+
+They clearly had not grasped the full implications that Lily possessed a doctor’s memories from her past life, together with all the medical information she had studied over the years.
+
+Lily used [Life Scan] and [Death Scan] together, creating a vision in her eyes of her mother's body from the inside out.
+
+She zoomed in on her uterus and, focusing as much as she could, found a terrifying amount of scarring in it. She double-checked her mother's tubes and ovaries to make sure that those were still intact. And they were. The scarring, however, had blocked the access from the tubes to the uterus.
+
+This is so easy to solve, Lily realized, looking back at her mother.
+
+"I have some news," she said with a smile.
+
+* * *
+
+Lily had not imagined that the news she gave her mother would have the woman erupt in sobs. They were tears of joy, but still. She requested that Lily immediately do the procedure. By using the smallest amount of controlled Death Magic, Lily cleaned up all the scarring and restored her mother to normal. She also swept through the rest of her body, finding more and more scarring. It took over an hour and a lot of sweat—since Adriana was much higher leveled than Sabinus—but in the end, Lily managed to completely heal all the damage.
+
+Now, her mother was in her father's arms, crying and hiccupping, telling him how now they could have more children.
+
+Hadrian, meanwhile, was completely non-plussed by the reaction of the couple. However, he still took interest in Lily's magic.
+
+"You're using Death Magic to remove the damaged tissue before healing. You could even regrow limbs like that, couldn't you?"
+
+Lily nodded and explained. "I almost entirely lost my hand during the fight with the strongest of my doppelgangers during the trial in the Dead Lands. I'm confident I could easily regrow limbs of people at low levels. If someone has too many levels over me, it might be too much. Perhaps, I could do that over the course of weeks, but it would drain me of every single drop of Mana I have. It makes much more sense for me to become stronger and heal them later."
+
+Hadrian reclined in his chair and looked at the girl in marvel.
+
+"You're going to change everything. You and your knowledge will..." he trailed off with a sigh. "Or it might cause a war."
+
+"Speaking of which," Lily asked, reaching for the Book of the Dead, "is Caesar still alive?"
+
+Her father, catching the question from the other side of the room, responded before Hadrian could.
+
+"Tiberius was almost killed. Apparently, that old fox, Caesar, has been killing Undead in the Dead Lands for longer than we gave him credit for. He's been training non-stop. If Tiberius didn't flee, he would have been slain. Why?"
+
+Lily tapped her knuckles on the page of the Book of the Dead.
+
+"I think that we should threaten to start a war.”

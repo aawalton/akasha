@@ -1,0 +1,153 @@
+---
+id: 0ceae590-b0ca-50a5-a992-afea8c776c1a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,427 - Changes"
+slug: 0107-chapter-1427-changes
+partOf: defiance-of-the-fall
+position: 107
+ownLength: 2926
+unit: words
+publishedAt: 2026-04-28
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3330037/chapter-1427-changes"
+royalRoadId: "3330037"
+---
+
+Who would have thought that Peak D-grade, a step that brought most Hegemons to despair, would end up being the smoothest? Sure, having to advance his bloodline was a surprising curveball, but the Core Formation itself went as smoothly as could be. Not a single piece of his core was lost or damaged beyond salvation, and there were no major issues when integrating the new Peak D-grade materials.
+
+Only part of the success could be attributed to Zac’s personal growth. Much of it had to do with the resources he’d been able to access since the start of the trial. The materials that went into his core far exceeded anything available in the Zecia sector, as did the arrays he used to facilitate his breakthrough. The ancestors of the Allbright Empire or the Dravorak Dynasty would go to war over a cultivation environment at the level of the Judgment Plateau.
+
+Like Laondio said in the Bloodline Vision, one needed Land, Companions, Wealth, and Inheritance to flourish on the path of cultivation. From the vantage of the established factions of the Multiverse, the frontier lacked all of them.
+
+Knowing this made Zac worry for the future. The Left Imperial Palace making an early entrance was a reminder that this rapid progress wouldn’t last forever. He needed to make use of what little time he had left to prepare for the future. First off, while his Cosmic Core was in great condition, there was still room for improvement.
+
+The core no longer had the perfected aura of before, and its Law-attunement had been diluted. Zac had known that would happen going in, and the core looked almost indistinguishable from what you could expect from a talented Cultivator. Nevertheless, having seen the final state of his Late D-grade Cosmic Core left Zac reluctant to settle. If he wanted to bring his core back to that perfected state, the Left Imperial Expanse was his best bet.
+
+It came down to whether Zac could seize the Primo’s treasure outright. Zac couldn’t help but grimace upon scanning his Disciple token. His reserves of Imperial Merit had not just dwindled, they’d been outright erased. He still held a few thousand points of Potentiality and all the Longanimity he’d accrued, but Zac felt like a pauper compared to before.
+
+The Void Tree’s high price tag was worth it as far as Zac was concerned. He knew from Tavza it was more difficult to advance one’s Bloodline to C-grade before opening an Inner World, yet Zac had stepped through that threshold as easily as drinking water. The two fruits derived from the true Void of Chaos had to be a major factor in his success, putting their value shoulder to shoulder with the top-tier treasures available on the exchange. One might even argue he’d received a substantial discount.
+
+Zac still had over a week left on his reservations, and he decided to stay for a little while longer. His core would still need a few days to settle, and the Judgment Plateaus were the best place to do it. The decision wasn’t just to squeeze more value out of the 12,000 merit points he’d paid for two Judgment Plateaus. The plateaus were extremely secure, which had become unexpectedly important.
+
+With the Duplicity Core still undergoing its transformation, Zac couldn’t actually use his newly formed Cosmic Core. The Void was insatiable, and no energy he tried sending out through a vortex was returned. In other words, he could only activate skills with Void Energy at the moment. Part of him wanted to starve the Technocrat Core into compliance, but he’d seen the precarious state it entered when deprived for too long.
+
+Instead of suppressing, Zac figured he was better off speeding things along. First, Zac took out his communicator. This time, it came alive when infused with energy. He’d repeatedly tried to contact Ogras over the past hours to get an update on the Hollow Court. It never worked, with something blocking the connection. In a sense, the seal was further confirmation that Esmeralda’s theories were correct.
+
+Something big happened during his breakthrough, and the commotion wasn’t limited to the sealed-off mountain. Zac still had no idea what happened. Why did a tribulation descend, only to ignore him? It would somewhat make sense if it was connected to the mysterious tree, but the Heavens had already retreated when the Void of Chaos was split into Life and Death.
+
+“It’s done,” Zac said.
+
+‘Ha! I knew you’d be fine even when the sky fell,’ Ogras responded after a short delay.
+
+“The sky fell? What’s going on? I have to stay on the Judgment Plateau a few more days,” Zac asked.
+
+‘What else could there be? Complete and utter mayhem! This has to be your finest work yet. I really thought you’d bring down the Hollow Court for a moment. At the very least, the memory domains would have collapsed if not for a timely infusion of additional Faith. Massive formations sprung into life to shield us when the Dao unraveled. Life and Death clashed with the Heavens,’ Ogras said. ‘Thankfully, it didn’t last long.’
+
+“Did you see two pillars appearing in the middle of the Left Imperial Expanse?”
+
+‘I didn’t. Then again, I was busy curling up in a fetal position and praying to every Deity I knew. Did something happen?’
+
+“It looks like the tribulation was dragged there, and the Indomitable Court joined the brawl for some reason. I’m still in the dark about the details,” Zac said before describing Esmeralda’s recording.
+
+‘This calamity is an odd one, even for you,’ Ogras agreed.
+
+“I’m not convinced that it was mine,” Zac said. “I passed my tribulation a month ago, and I didn’t feel any hatred directed at me this time. I think the leaders used the heavenly descent of my breakthrough to achieve something else, like they were piggybacking on me.”
+
+‘Do you know what they’re saying? Interment Gate announced that one of Fuxi Hall’s elders ascended, and some of his tribulation leaked,’ Ogras said. ‘I figured it was a cover-up to explain the mess you caused, but there might be some truth to their explanation. Do you want me to do some digging?’
+
+“I think we should leave it be,” Zac said after some thought. “We’re only qualified to be chess pieces for events at this level.”
+
+‘Fair enough. If I keep poking my nose where it doesn’t belong, I might end up digging my own grave the next time master comes around,’ Ogras laughed. ‘Speaking of, there’s something else. Tavza’s gone.’
+
+“Gone? What happened?”
+
+‘Like I said, the two Gates weren’t spared the commotion. They rallied their entire forces of Life and Death to fight back. I was still in the library looking for solutions to your situation when Tavza slipped away from my shadow sentry. Her tracks suddenly disappeared when I tried tracking her down afterward. I did find unusual traces of energy, though. One of them was Chaos.’
+
+“Chaos? Hers, or naturally formed?”
+
+‘Both, I think. I felt the Dao of Chaos on Tavza when I captured her back then, and a similar mark remained. But most of it was the primal forces unleashed during the commotion.’
+
+“What else did you find?”
+
+‘I felt the terrifying death of the outside. I think a gap opened in Interment Gate’s memory domain, and she snuck out before it could close. Not only that, it seemed premeditated. Her tracks were straight as an arrow.’
+
+“Is she back?”
+
+“Thirteen hours and still no sign of her,” Ogras said. ‘Do you think her Abyss is immune to the outside?’
+
+“I doubt it. I could only last a few minutes when exploring it before,” Zac said. “She doesn’t strike me as one to act on impulse or without assurance. She must have figured something out.”
+
+‘Then we’ll have to pray she’s still willing to uphold the agreement. And maybe start looking into fallback options. If she’s seized the seal and decided to go into hiding…’
+
+“It hasn’t come to that yet. We’ll investigate together when I emerge in a few days. Keep me posted if you figure something out,” Zac sighed.
+
+That said, Zac couldn’t help regretting not using all his cards when looking for the Primo’s treasure upon arriving. He could have tried using Roan’s token to ask for guidance, and he still had the Primo’s feather from Kator’s Spatial Ring. With his breakthrough imminent, he’d decided against using them upon confirming there were no obvious clues in case they triggered some sort of event.
+
+Now, Tavza had used his breakthrough to beat him to the punch. As they guessed, her seemingly random inquiries while traveling the graveyards held a deeper meaning. They just lacked the understanding of the Primo and ancient history to connect the dots.
+
+‘Sure, be careful when you come out. The atmosphere is still a bit off.’
+
+“I will. Talk to you later.”
+
+Zac put away the communicator, his gaze turning to the empty sky of the Judgment Plateau’s isolated realm. He would almost have preferred another tribulation over the murky situation he found himself in. What were the leaders trying to accomplish by having him advance his bloodline? Was the unusual situation with his Duplicity Core even a trap left by the Kayar-Elu?
+
+The Earth Sage was perfectly aware of Zac’s connection to the Void, and Roan was capable of bringing out the ideal treasure to trigger his bloodline evolution. He could also have messed with Zac’s Specialty Core to force the course of events. Even if they weren’t directly responsible, they clearly wanted this to happen.
+
+Zac didn’t have the luxury of worrying about the details before, but there were bound to be ramifications to evolving his Void Emperor bloodline in full view of multiple Imperial Supremacies. Could they recognize the bloodline of Karz, the original Limitless Emperor? Was it Karz’s kingly aura that helped bring out the Left Imperial Palace ahead of schedule?
+
+And if they did recognize Karz’s aura, did it make the Left Imperial Expanse’s Supremacies friend or foe?
+
+The Bloodline Vision had confirmed that Karz indeed was the original Limitless Emperor. Zac wasn’t sure why Karz needed to don Laondio’s name, but he guessed it had something to do with the Imperial Fate and the vast amounts of Faith Energy that the empire accumulated.
+
+While Karz stood in the light, Laondio Evrodok took on an advisory role from the shadows. Or rather, he became the spider manipulating an ever-growing web of schemes. Karz’s servant had referred to Laondio as Grand Chancellor. Come to think of it, Laondio might even be the Grand Chancellor that sent Descartes Belial to the Mercurial Court. No, the timing didn’t seem to match.
+
+It remained unclear whether Karz voluntarily handed back the crown toward the end, or if he really was backstabbed and forced into exile by the Sindris Clan. Either way, that event would already have taken place at the point in time depicted in the memory domains of the Outer Courts. Unless Laondio held onto his old role, the chancellor mentioned by the Belial Descendant should be someone else.
+
+As far as Zac could tell, the point in time in the memory domains was merely centuries away from the System’s awakening and the arrival of the Dark Ages. In contrast, Karz spent hundreds of thousands of years with the Technocrats, according to Leandra. At the very end, Karz brought the Progenitors of the Technocrat Clans to stop Laondio’s plans.
+
+What happened in that exchange remained shrouded in mystery to this day. From what Zac saw in the Bloodline Vision, he leaned toward Karz’s exodus and later return being part of a plot. Whether Karz was backstabbed in the end or intentionally took that step, it appeared all but certain that Karz eventually became the core of the System. The detached state of Karz’s Heavenly Dome was too similar to the System’s lofty presence for it to be coincidence.
+
+Zac even had an inkling why Karz had to infiltrate the Selvari. It was all connected to the most outrageous revelation of the Bloodline Vision: the existence of the Peak of Progress, or the Peak of Man, as Laondio called it.
+
+There being a Peak of Man wasn’t the odd part. If anything, it fit perfectly with the Peaks of Heaven and Earth, creating the trinity central to many Daoist concepts. The shocking part was that Zac had absolutely no recollection of the Peak of Man before this day, nor could he recall a single cultivator pursuing this Dao. Zac couldn’t even imagine how such a Dao would portray itself.
+
+It was like his mind had a blind spot until certain things were spelled out in the vision, and Zac wasn’t the only one affected. It was as though the whole cosmos had collectively forgotten about one of the peaks of cultivation. Not even the Technocrats, whose inheritance supposedly was based on the “Peak of Progress,” were spared.
+
+Zac recalled thinking the spirituality of Technocrat inventions was quite unusual. It was a mottled mix of countless concepts, a complete opposite of the pure Daos he pursued for his own cultivation. What if that wasn’t the original state of the Dao of Technology? Rather, the original concepts were lost when the Peak of Man disappeared, leaving the Technocrats to figure out new avenues of progress.
+
+The culprit was obvious. All schemes led back to Laondio Evrodok in the end. Karz was a cultivator with limitless potential, perhaps the only one in history with the potential to cultivate a Grand Dao made of all seventeen peaks. And still, Laondio Evrodok had kept pace without breaking a sweat, something that left Karz increasingly wary.
+
+Today’s Bloodline Vision finally cast light on Laondio’s path, beyond his uncanny ability to bend the perceptions of those around him. Laondio was an unprecedented genius solely focused on the Peak of Man, pursuing a path of extremity that was the opposite of Karz’s. And yet, it appeared Laondio’s ambitions were no less grand.
+
+While the seventeen Utmost Authorities and the power they held were considered the peak of cultivation, it almost looked like Laondio had managed to walk a step further by the end. He’d lured in the leaders of the Selvari, Supremacies that held a sizeable chunk of the Peak of Man’s authority, and took them all out. With the competition out of the way, Laondio seized the whole Peak of Man for himself.
+
+The difference between merely seizing a peak’s Utmost Authority and becoming a Seal or Throne was staggering. Becoming a Seal or Throne was to become an emperor of a vast empire. The emperor might hold title over his domain, but he could only really control his palace and immediate surroundings. There were still millions of people living in his empire, mostly acting as they pleased.
+
+What Laondio appeared to have done was to expel the whole population before erecting a tall wall around his kingdom. The audacity to perform such a feat was one thing; the strength necessary to redraw the cosmic order had to put Laondio shoulder to shoulder with the primordial beings of Ancient Arcana—the existences that became the very bedrock of the Multiverse.
+
+With a sudden thought, Zac brought out the [Omnitool]. His first task when inheriting [Cosmic Forge] was stabilizing the crafting tool by infusing it with treasures from all seventeen peaks. Try as he might, Zac couldn’t sense anything missing with the tool. It felt complete. Had he actually explored a dimension based on the Peak of Man back then? Had the tool been filled on its own, or did the Grand Dao function as a complete whole with one tapestry missing?
+
+“Hey, have you heard about the Peak of—” Zac’s voice caught in his throat when Esmeralda bounded over.
+
+A strong premonition warned him that something terrifying would happen if Zac insisted on airing Laondio's dirty laundry.
+
+“Heard about what? Did you remember something?” Esmeralda asked.
+
+Zac quickly changed his words. "Could you recite the name of the Seventeen Peaks of Dao for me, please?"
+
+“What? Now?”
+
+“Please, humor me. All seventeen of them, please.”
+
+“Continuum, Order, Chaos, Conflict, Stellar, Karma, Nature, Impetus, Grand Tapestry, Grand Materia, Fantasy, Faith, Taiji, Heavenly, Inverse, and finally the Solitary Peak,” Esmeralda said. “There, happy?”
+
+“Are you sure you didn’t miss one?”
+
+“Miss one?” Esmeralda huffed. “My little protégé, don’t think the stars revolve around you just because of a minor breakthrough. Your beautiful master is a former Supremacy. I may have forgotten a lot since those days, but how could I make a mistake with such elementary knowledge?”
+
+“I’m sorry, I’m still muddled,” Zac said, dropping the matter.
+
+He’d confirmed his hunch that Laondio had exiled the knowledge of the Peak of Man, much like he'd done with Karz's name. Trying to force the issue was no good. At best, Esmeralda would react like the conjured people in the memory domains, glossing over the information when they heard taboo knowledge. At worst, Esmeralda would get tangled up in this mess, perhaps garnering the attention of Laondio’s ghost. It wasn’t worth the risk to satiate his curiosity.
+
+“Don’t worry, your head was never your strong point,” Esmeralda snickered, her voice lowering to a whisper. “Everything else… Is it fine? Are you fine?”
+
+“I’m fine,” Zac smiled, keeping the issue with the Duplicity Core to himself upon seeing Esmeralda’s fraught nerves. “Give me a week or two to upgrade my pathways, then we can set out. That [Second Singularity] won’t know what hit it.”

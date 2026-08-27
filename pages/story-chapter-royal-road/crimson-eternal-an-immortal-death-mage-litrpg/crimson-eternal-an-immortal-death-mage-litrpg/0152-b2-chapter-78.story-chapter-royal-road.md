@@ -1,0 +1,107 @@
+---
+id: 70d80b82-8145-5b52-8ef8-fccd73e84b5f
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 78"
+slug: 0152-b2-chapter-78
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 152
+ownLength: 1491
+unit: words
+ownProgress: 1491
+publishedAt: 2024-05-01
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1619102/b2-chapter-78"
+royalRoadId: "1619102"
+markedReadAt: "2026-06-29T19:10:53.248Z"
+---
+
+The Gate on the infected island within Arian
+
+Groaning can be heard all across the island as a man with black hair tinted with a sickly green shade while wearing a white lab coat flies through the large Gate and crashes straight through the walls of the emigration fortress, crashing the fortress to the ground in the process. Then the man stops moving, leading to him floating midair above the rotting people moaning and groaning as they lumber around the island. He looks around, briefly looking beyond the island while his already glowing pale green eyes glow even brighter for a moment before dimming again. And without waiting even a second, he pulls out his tablet and begins tapping away on it, muttering to himself, “The spread of the infection seems to take longer to infect through the air on this planet, most likely due to the poisonous mist filling the clouds below… but what could be making the poison… mana creature perhaps? Or something else… either way, the infection looks to…”
+
+He trails off as his head raises to look several thousand meters past the island where an uninfected source of mana enters his senses. But after inspecting it for a second, he lowers his head back to his tablet and continues muttering, “Infection doesn’t mix well with poisons… will have to find the source of the poison to determine what unique properties it has but for now…” He pauses in his muttering as he summons a vial in midair and flies straight over the edge of the island and down to the clouds below to fill it with poison. Then he flies back over the island again and finishes, “…sample of the poison collected. Now…”
+
+The man stops muttering to himself again and raises his head from the tablet as the uninfected source of mana reaches the island.
+
+He studies the source of mana – a man with silver hair, eyes, and clothes – for a few seconds as if looking at an insect beneath his feet. One whose worth is absolutely nothing in his eyes. Not a threat. Not an annoyance. Not even a person. Just a potential test subject. A boring one most likely. Then he disregards him again and focuses on his tablet some more, returning to tapping away on it.
+
+Almost collected all of the data I need on this evolved branch… but I still need-
+
+His thoughts are interrupted when the silver-haired interruption speaks, stating, “Horseman of the Apocalypse, Pestilence, I would like to make a trade with you for something you will be interested.”
+
+Pestilence, otherwise known as Victor von Lüneburg, turns his head to finally pay more than an ounce of attention to the interruption as he asks, “What is it? Speak now or leave.”
+
+Victor is mildly surprised by the level of the interruption considering how this should only be a Beta Tier world, but he doesn’t care enough about the planet to think further on it.
+
+His interest is quickly piqued, however, when the interruption states, “Would you like to know the location of the perfect test subject to some of your experiments? A subject who cannot die. Another Horseman of the Apocalypse?”
+
+Victor finally closes out of his tablet as he moves so fast that the interruption’s eyes don’t even follow him, appearing right in front of the interruption while asking, “Speak child. Now.” Meanwhile sparks of pale green energy begin to flicker out of his equally pale green and whiteless eyes.
+
+“Aria Crimson, the Horseman of the Apocalypse known as Death,” the interruption continues, making Victor’s eyes narrow. “I will tell you where she is so long as you do two things for me.”
+
+Pestilence stares directly into the interruption’s eyes for a few seconds before stating once more, “Speak.”
+
+He’s been interested in Death ever since he saw that notification. If for no other reason than to test out his plagues and poisons on her just to see how they would affect an immortal and for how long.
+
+With one of them being even more interesting to test on her than others, merely to see if it’ll work.
+
+“First, you will save her from her current predicament, and second, you will only experiment on her for at most two weeks and no longer,” the interruption continues.
+
+Pestilence doesn’t waste any time as he declares, “Deal. Tell me where, child.”
+
+The child visibly relaxes, but Victor doesn’t care. All he cares about is his test subject.
+
+He doesn’t even care about the infection anymore, deciding to let it do whatever as he leaves.
+
+Although he might return at a later date to see what comes of it.
+
+“She is at the very center of the Hunter’s Spot located at the core of this planet beneath the clouds, and she’s captured by the Tier 10 mana creatures down there,” the child answers right away, still surprising Victor a little with the completely emotionless tone of voice and facial expressions he’s using.
+
+But this man is of little consequence to him.
+
+What he cares about is finding the test subject in question.
+
+So without any hesitation, he snaps his fingers, making a horse appear in the air next to him, neighing so loudly that it echoes across the surrounding islands with a sickly tone. The horse lets off a sickly green flame from various parts of its body while wearing a set of black and green armor, with the same pale green and glowing eyes that Pestilence has.
+
+Victor jumps onto its back and vanishes in an instant from the child’s sight without another word.
+
+Aria
+
+The endless pain continues on and on, with only the breaks in my consciousness giving me any pause. Which is why it’s so noticeable when all of it suddenly disappears out of nowhere, leaving me blinking as I lie flat on the ground.
+
+I fail to move at all for several seconds, as if trying to remember how. Then, with the help of… someone... who pulls me up by the arm pit, I manage to reach my feet again while still blinking.
+
+It takes me a few moments to figure out what’s happened. First for my mind to fully recuperate from the trauma I just went through – which feels a bit more distant than it should. Probably because of my ability. Then for me to register what is currently surrounding me.
+
+The massive hole going straight through the Hive from the outside in.
+
+The dead and dying vegetation and the rotting and sickly bugs and even the trees in the center of the Hive.
+
+The faint flickers of some sort of green energy leaving the corpses and trailing their way towards where I am.
+
+And most importantly, the man whose expression is completely blank as he floats midair while still holding me by the armpit. He has glowing pale green eyes with a slightly sickly tone to them, black hair tinted heavily in that same sickly shade of green, and a white lab coat on over a dress shirt and green tie.
+
+Most importantly though, I feel that same click in my mind that I felt with War.
+
+And I instantly know who he is.
+
+Victor von Lüneburg. The Harbinger of Pestilence, Horseman of the Apocalypse, White Horseman, and one of the most infamous figures across the entire universe.
+
+Pestilence.
+
+“Deal has been made, now it’s your turn, Death,” Pestilence declares, making me frown in confusion. Then he explains for me. “A silver-haired interruption above gave you to me to experiment on for two weeks so long as I save you.”
+
+I blink in surprise by how much he’s talking. Because I’ve heard the man almost never talks. And when he does, it’s mostly him muttering to himself or just saying a very brief sentence.
+
+Like all that matters to him are his experiments.
+
+Although his calling the person who I’m guessing is probably Shirogane – he’s the only one on the planet that I know with silver hair after all – an interruption does sound like what I’ve heard of him.
+
+But… a deal? Guess a long time must’ve passed.
+
+I glance at the rotting corpse of the Tier 10 mana creature, feeling… more than a little terrified by how easily this man – whose hand is still holding me up in the air by my armpit – killed the queen. Then I return my gaze to Pestilence and nod my head, only briefly glancing at the odd horse floating next to him.
+
+He doesn’t wait for more response. Simply moves onto the horse while adjusting his hold on me to hold me in his arms instead – a rather awkward position – before some sort of green portal appears in front of him and the horse gallops through it leading to us arriving on some barren and dead planet.
+
+One I recognize from the Universal Feed as Pestilence’s home world.
+
+Vest.

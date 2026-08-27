@@ -1,0 +1,121 @@
+---
+id: 26cf4cad-ac29-568c-9dec-9633dc9b2423
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 59"
+slug: 0292-b4-chapter-59
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 292
+ownLength: 1424
+unit: words
+ownProgress: 1424
+publishedAt: 2025-07-25
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2466168/b4-chapter-59"
+royalRoadId: "2466168"
+markedReadAt: "2026-06-29T19:15:44.158Z"
+---
+
+AriaThe next day
+
+“Right, so you’re sure this is supposed to be my classroom?” I ask with a frown as I look down on the large auditorium from a box high up in it. And more specifically, down at the what must be thousands of people filling every last seat in the auditorium.
+
+“Yes, Princess, this is your classroom,” the headmaster answers without any hesitation. “Ever since your awakening those years ago, the number of death magic users in the universe has significantly increased by over 200% in number every year. And I’m sure you can guess why.”
+
+Right. I forgot that death magic grew significantly stronger because of me reaching level 100.
+
+And because of that, a lot more people are going all in on learning death magic.
+
+But that’s not all, since I’m pretty sure more people are being born with death magic related abilities now as well. Just like when the other Horsemen awakened at level 100 except for their own magics.
+
+I also forgot about a certain something I can do that I actually feel like trying out right now.
+
+A smile stretches across my face at the thousands of death magic users, many of whom are practicing their death magic or even comparing it with each other. Actually, a lot of them seem to have their death magic more advanced than my own in terms of what spells they can use.
+
+Their fundamentals are shit though.
+
+Which is what this class is going to teach them about.
+
+A faint smile touches my lips at the sight of Ruby and Ryan sitting in the corner of the auditorium away from the more wild and annoying students.
+
+Glad they’re here.
+
+“Good luck,” the old man – who actually does look like an old man – states, making me nod my head at him before I begin walking down a hall towards the entrance at the stage of the auditorium.
+
+Time to teach.
+
+Within the Auditorium
+
+Crown Prince Jero Vontegonal de Grega feels more than a little irritated at the idea of having to sit in the same auditorium as peasants. Even if said peasants are said to be established in their own areas of research.
+
+The only things keeping him from wiping them out are the many other royals in the auditorium and the fact that he knows he isn’t the strongest in the room.
+
+Of course, there’s also the fact that he understands full well that his father would be terribly upset if he upset the Horseman of the Apocalypse without due cause.
+
+But he has also been given permission to defend their grand nation of Grega should he feel insulted. No matter who insulted them.
+
+An Alpha Tier nation like their can’t sit back and simply let those lower than themselves insult them after all.
+
+For now, Jero sits in his chair quietly as he ignores the rabble in the room practicing and showing off their death magic. All the way until double doors magically appear at the center-end of the auditorium’s stage, following which they burst open and a beautiful woman walks through them.
+
+A woman everyone there recognizes from numerous news platforms as the Horseman of the Apocalypse.
+
+Death.
+
+Even if Jero can clearly tell that she’s holding back all of the death energy in her body. Death energy he’s heard is so massive that it can cover an entire planet, even if he has difficulty believing that rumor. He can still tell it’s her even if he hadn’t seen the news platforms.
+
+The woman has long white hair that doesn’t look like it’s from old age and is instead as beautiful as the fallen snow, and her eyes are a glowing crimson. Meanwhile her skin is just pale enough to look beautiful without looking sickly, and she’s wearing a regular black jacket with red trim over a black shirt and pants.
+
+With a single rose placed in her hair as an accessory.
+
+But the woman doesn’t bother to bow or say anything as she walks up to the front of the stage, only stopping when she reaches the podium that rises from the ground to stand in front of an electrical screen board that appears behind her.
+
+Then she finally speaks amidst the silence that had stretched through the room at her entrance, “Today I will be teaching you about the base fundamentals of death magic. If you’re looking to advance your magic further and learn new spells, then get out as that is not what I am teaching today. But if you simply wish to enhance your understanding of death magic and strengthen what you already know.”
+
+Something about her words rubs Jero the wrong way. Almost as if she is looking down on their understanding of their own magic.
+
+And that makes him stand up from his seat and narrow his eyes at the woman the moment her eyes meet his as he asks, “What makes you so sure your understanding of death is greater than ours? You’re only a mere two hundred years old. Two hundred and thirty at the most.”
+
+Everyone in the auditorium falls silent and begins to hold their breath as they watch Jero face off against the Horseman of the Apocalypse. With many of them no doubt using it as a test to see how far they can push the beautiful woman themselves. And others simply wanting to see what happens.
+
+But to everyone’s surprise, the Horseman doesn’t bother humoring Jero as she states, “If you don’t wish to learn what I have to teach, then you may leave. It doesn’t matter to me if you stay or not.”
+
+Those words make something snap in Jero’s head.
+
+The absolute insult she just threw on his face and on his entire royal dynasty. On the entire kingdom of Grega.
+
+His eyes narrow with his hatred not even concealed as he begins to cast numerous death spells, making one spell circle after another appear in the air facing towards the Horseman. All while he slowly says, “If that’s the case, I believe we have all seen-”
+
+“Can you shut up already? I’m getting tired of this fiasco,” the Horseman says, cutting him off and enraging him even more. But then she waves her hand at him and says more than a little lethargically, “I deny your use of Death Magic, so please leave and don’t let the door hit you on the way out.”
+
+For a second Jero finds himself wanting to laugh. And he sees numerous other people in the audience of the auditorium looking the same.
+
+Until every last one of his spell circles suddenly freezes in place before vanishing without a trace.
+
+Jero blinks, at first feeling stunned at the sight. But then that turns into shock when he tries to call on his death mana and cast more spell circles, just to find his own death mana ignoring him while the spell circles refuse to form.
+
+He blankly stares at the Horsemen as Eternal Dynasty enforcers walk through the auditorium to drag him away.
+
+Yet he still doesn’t say anything, feeling too shocked to even form words.
+
+Eventually he is simply tossed straight out of the building onto the sidewalk while still feeling numb. Because no matter how many times he calls on his death mana or tries to form spell circles out of the ambient death mana in the air, nothing happens. Not even a single thing.
+
+And any death mana he tries to grab simply moves away from him, avoiding his touch. Both magical and physical.
+
+As if he was marked by Death as unworthy of death magic.
+
+Aria
+
+“Right, so does anyone else have anything to say?” I ask while leaning against my podium with my chin resting on one hand and my other arm holding onto my other elbow. “Because I would kind of like to start the lesson now.”
+
+Everyone in the stadium just numbly nods their heads in silence, no doubt still shocked by the display I just put on.
+
+And I can’t really blame them, because it was pretty cool even to me.
+
+Something about being able to blacklist people from using one of the now-most-common elements of magic just feels really nice.
+
+I glance at Ruby and Ryan to find them looking at me with stars in their eyes.
+
+That feels nice too.
+
+“Then let’s begin the lesson,” I declare with a nod of my head before standing up straight.
+
+This is more fun than I thought it’d be.

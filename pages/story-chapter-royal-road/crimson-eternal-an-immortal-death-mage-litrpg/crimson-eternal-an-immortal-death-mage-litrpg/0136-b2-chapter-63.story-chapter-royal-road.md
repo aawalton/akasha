@@ -1,0 +1,117 @@
+---
+id: fd9a443e-61a8-5726-be85-de1147c2973d
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 63"
+slug: 0136-b2-chapter-63
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 136
+ownLength: 1451
+unit: words
+ownProgress: 1451
+publishedAt: 2024-03-31
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1575042/b2-chapter-63"
+royalRoadId: "1575042"
+markedReadAt: "2026-06-29T19:17:24.626Z"
+---
+
+Atlantis
+
+Ahmed Gamal, the Eighth Finger of Rex, ninth in command of the entire Rex Dynasty of the Dead, finds himself feeling disappointed as he spreads his senses across the nearest hundreds of thousands of kilometers and fails to find Her Eminence. But he doesn’t feel upset at all, for Lady Death should easily be able to get out of a situation such as this one.
+
+The Third Finger was wrong believing that Lady Death would need their assistance to escape the evil society.
+
+Now, however, he’s left glaring down at the miserable creatures that call themselves humans from his place on a balcony of the Atlantis Royal Castle. The bastard mages from the Arcadian Society known widely for hunting down anyone from the Rex Dynasty across the universe and capturing them without killing them.
+
+Because they all know that death is a goal for all rexians to seek with the sole exception of the taboo of suicide. One punishable by resurrection as an undead, forever to serve the nation with no rest.
+
+And as a rexian, Ahmed has no need to breathe. Unlike the pitiful creatures using water breathing potions down below him. Creatures who are glaring at him just as vehemently as he and his forces are at them.
+
+“Eighth Finger, we meet again,” the leader of the bunch of Society members, a Seventh Tier Mage, declares while the woman holds a staff in her hands. She has long brown hair with blue eyes and a long robe covering the woman’s full figure. “Care to explain what you’re doing here? Shouldn’t a figure of your power be on the frontlines or in Rex?”
+
+“What purpose would there be to explain myself to a lowly dog sent on a chase by its master?” Ahmed answers as he stands on the balcony, the bottom of his deep black trench coat waving in the water even as he crosses his arms, an indifferent look on his face. “Leave this planet now or be annihilated by our own. We’re giving you this opportunity with respect to our hosts.”
+
+The woman and all of her subordinates practically growl at his words, but they all finally begin to leave. After all, none of them are anywhere near the Finger’s level of power, both in ability or System Level. But Ahmed isn’t stupid enough to believe they’re really leaving.
+
+Most likely they’ll act like they’re walking through the Gate before teleporting away and continuing their fruitless search.
+
+And while Ahmed could leave them to their wild goose chase, they may find remnants of the Greatest Horseman could’ve left on the planet.
+
+So he snaps his fingers, ordering his own subordinates to spread around the neighboring cities within range of a Seventh Tier Mage’s teleportation, each of them being a higher level than the king and queen of this nation themselves. And therefore also a higher level than some random Seventh Tier Mage.
+
+Then, with his eyes still closed, Ahmed senses the mages reaching the Gate and then using an instant teleportation spell the moment they ‘pass through’ it, ending with them separated in the nearby cities. And without hesitation, he snaps his fingers again, making the Hounds of the Pharaoh with him slaughter the weaker and unsuspecting mages in an instant.
+
+Meanwhile he himself turns his entire body into pure miasma before instantly moving out of the castle, past the enchantment without it even registering him, and into the city before appearing next to the Seventh Tier Mage herself.
+
+And before she can so much as blink at his presence, he floods her with miasma from all sides, turning the woman into a shriveled husk in moments.
+
+All of the citizens and guards nearby either scream or go on alert, moving to or from the location as chaos arises.
+
+But Ahmed merely ignores them all, puts the body in his storage ring, and leaves once more.
+
+Not without sending one last prayer for the peace of his Lady, though.
+
+Arc
+
+Isabella folds her arms under her chest with her staff floating upright next to her and her attention completely focused on the vast spell circle in front of her. But after watching the various scripts moving through it for several hours, she merely scowls and swipes her hand across it. Not happy at all with the result of the news she’d just heard.
+
+About the full extinction of any and all contract dealers in the Alpha and Beta Tier worlds under her jurisdiction within the universe. About the slaughter of one bounty hunter party, whether full of outsiders or not, after another. And about the complete lack of any results for their search.
+
+First the Crimson Empire, then the Rex Dynasty. And now even Leopold and his damned Silvanian Empire are ignoring our contracts?
+
+She grits her teeth, her rage growing stronger by the moment.
+
+At the rate this is going, the only members of the Grand Nine who won’t directly interfere with her actions against Death are the villainous ones that also need purging just like Death.
+
+The Horsemen of the Apocalypse are staying completely silent in regard to their fourth member. The Council of Darkness seems to have made no moves at all besides taking advantage of the situation to strike and save their own from the contracts. And the Eternal Dynasty has a contracted merchant assigned to Death.
+
+None of this is going as she originally foresaw it.
+
+Not a single detail.
+
+And Death being a true immortal was one of the worst things that she could’ve possibly imagined.
+
+When Isabella had previously sworn to the mana itself all those millennia ago that she would kill the fourth horseman herself after they appear but before they become a problem, she never would’ve expected that the horseman in question wouldn’t be capable of dying. And while the Rex Dynasty and the Eternal Dynasty’s actions are to be expected of the fanatic and money obsessed leaders of those two nations, the Crimson Empire’s actions are beyond anything she would’ve expected.
+
+Isabella still manages to retain her composure, scowl aside, as she turns around and begins walking back into her tower.
+
+She knows the Horsemen all have slow growth periods, so she isn’t stuck yet.
+
+There’s still more than enough opportunity to capture the errant Horseman.
+
+Even if she has to annihilate a few planets to do it.
+
+Nothing will stop her from ridding the universe of the Horsemen.
+
+Aria
+
+So this world is very relaxing. Beautiful, a relaxing atmosphere, lots of floating islands, and despite there not being any ocean, there’s plenty of water in the form of rivers and lakes. The people are all very friendly, if a little blunt and without a filter, and they all are quite happy to help whenever Shirogane gets lost. Which happens more than I would prefer since he has very little map to rely on here.
+
+Unfortunately, this world has no Universal Feed. And the level of technology in the world is just a little bit worse than on Vortel. Or what used to be Vortel, since Vortel’s technology has vastly improved since I was last there.
+
+I let out a sigh as I lean partially out the window of my hotel room at the edge of the island, looking out over the endless clouds below.
+
+The city and skies are really quite beautiful. Although I wish there were Hunter Spots.
+
+At most there are apparently a couple of islands filled with undead. But I’m not even sure if undead will count as me killing something.
+
+I’ve never killed an undead before.
+
+Not even sure if that’s the correct phrase for it.
+
+Also, as it turns out, ‘Ake’ – as she so enjoys telling me to call her – is the leader of the entire nation of Arian. Which is named after their world and is the only nation on it. Other than the invaders, of course.
+
+Never would’ve expected that fiery and filterless woman to be the leader of their nation.
+
+That has me sighing again before I stand up straight and close the window again, only briefly glancing at the two suns in the sky as I do so.
+
+My only problem with this world is that it’s hot. Probably a result of the two suns.
+
+And also the most likely reason for the wardrobe these people wear. What with the very little clothing.
+
+The invaders are apparently the opposite too, with them being bundled up since they come from an ice-covered planet.
+
+Part of why they’re invading.
+
+Anyways, I begin heading towards the door to leave my room.
+
+Because there is some shopping I need to do before I proceed to the frontlines tomorrow.

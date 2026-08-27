@@ -1,0 +1,125 @@
+---
+id: 18e4fa44-2677-597d-a33d-be12414fd874
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,448 - Concentrate"
+slug: 0129-chapter-1448-concentrate
+partOf: defiance-of-the-fall
+position: 129
+ownLength: 2335
+unit: words
+publishedAt: 2026-08-18
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3831102/chapter-1448-concentrate"
+royalRoadId: "3831102"
+---
+
+“Good job,” Tavza said as Zac accepted the jar.
+
+“Likewise,” Zac said.
+
+The jar disappeared as he sent it into [Purity of the Void]’s purification space. Thankfully, the jar was only the size of his hand, easily fitting inside the Hidden Node without issue. That way, he didn’t have to send it through [Fuxi Mountain Gate], risking having the raging sea of Imperial Faith incinerate the pungent elixir.
+
+Streams of darkness poured out of the jar as waves of purity attacked it. Zac wasn’t surprised to see that something that had accumulated inside a crack in the ground contained some impurities. If anything, the concentrate was much cleaner than he’d expected, considering its odor. It only took his D-grade Node a minute to refine it, at which point it was ready for use.
+
+On the side of the Mercurial Court, Zac dipped a finger into the jar, his nose scrunched in disgust. The refinement had only intensified the smell, to the point even his Draugr sensibilities balked at the intense aroma of decay. Still, it wasn’t the first time he’d endured smelly concoctions during his cultivation journey.
+
+Zac took out a single drop and smeared it on his forearm as an experiment. His pores greedily absorbed the profound spirituality inside the concentrate without prompting, and it poured directly into the abyssal ponds in the depths of his cells. Even so, Zac soon frowned with dissatisfaction. It wasn’t that the medicinal efficacy was bad, but rather that he didn’t get to keep it to himself.
+
+The concentrate began rapidly leaking medicinal energy the moment it left the jar. Zac estimated he only got half of it to himself, and that was when channeling [Void Emperor Apotheosis] to generate additional pull. Such a significant loss was unacceptable, especially when it wasn’t just a problem of wastage. He was facing a bottleneck, and he needed a massive surge of energy to break it open. Without the full medicinal efficacy hitting at once, the concentrate risked being wasted.
+
+Zac curiously looked at the jar that kept the concentrate perfectly sealed even without a stopper, only then realizing it was made from the same black stone as the buildings inside the Rapture Observatory. Tavza really was prepared. Zac couldn’t help but wonder just how many treasures she’d picked in the weeks before he arrived.
+
+Was it truly that all the observatory’s good items had C-grade owners, or had Tavza simply snatched everything readily accessible already? The question was bound to remain unanswered. Not even Zac was shameless enough to bring up the issue after she’d given up on her claim to the Primo’s Treasure without a fight. Still, her previous ventures might mean Tavza already had a solution to his problem.
+
+“Do you have any idea how to apply it on myself without the energies leaking?” Zac asked.
+
+“You plan on slathering it on yourself?” Tavza said, her staid expression collapsing into a grimace of disgust.
+
+“You don’t?”
+
+Tavza vigorously shook her head. “Of course not. Just extract the essence and discard the rest.”
+
+Zac watched as the abyssal darkness in Tavza’s eyes grew so deep that he almost found himself lost in it. Their surroundings were cast in dusk, but Zac could still see a small stream of extraordinarily refined death rise from the bowl to enter Tavza’s mouth and nose. Not a speck was lost on the way.
+
+The process only lasted a few seconds, at which point a thin film of anthracite clay had formed on the surface. With a wave of her finger, the clay was extracted from the jar. Zac stopped her just as she was about to throw it out the window, and she looked at him with confusion as he inspected the revolting clump of smelly goop.
+
+“…I see, thank you,” Zac said with a scrunched expression, his stomach turning as Tavza discarded the ball of clay.
+
+He’d found a solution, one he’d hoped to avoid. He obviously couldn’t mimic her feat of rallying his bloodline. He didn’t have that kind of control over his Draugr heritage, and if he used his Void Emperor Bloodline to devour the energy, most of it would end up inside his personal Void. Meanwhile, the clay was clearly not any more toxic than spoiled food.
+
+Back by [Second Singularity], Esmeralda watched in fascinated horror as Zac reluctantly brought the earthen jar toward his lips.
+
+“What’s the matter with you? Have you lost your mind, drinking sewage like it’s fine wine?” Esmeralda hollered, so intrigued she almost lost control over the spirals.
+
+“You’re in no place to talk. I’ve seen you chomp down plenty of bugs,” Zac said before decisively chugging the viscous concentrate in huge mouthfuls.
+
+Any delay would have weakened his resolve, and he was determined to get it down as quickly as possible before the taste could register in his mind. That plan failed spectacularly, and tears began pouring down his cheeks from the acrid taste. Thankfully, there were only a few cups of the liquid.
+
+“You actually did it!” Esmeralda sputtered, adding under her breath, “Don’t let anyone know you’re my protégé.”
+
+Even with a vision blurred from tears, Zac could see his mentor surreptitiously stowing a recording crystal. Zac sighed at the knowledge of there being yet another embarrassing recording of his cultivation misadventures, but the embarrassment took a backseat to the radiating sun of Apocalyptic Death that had been born in his stomach.
+
+Extraordinary levels of death coursed through his veins, burrowed into his bones, and filled his viscera. Nothing was wasted, nothing was spared. Every scrap of potency was dragged into the depths of his cells, causing the Abyssal Ponds to stir. A painful thud shook both mind and body as his constitution barreled into the bottleneck that had barred his path for months.
+
+Another thump, and microscopic cracks appeared across his body. The small wounds immediately healed, mostly thanks to his Void Vajra Constitution running support. A third thud, and Zac sensed the bottleneck clearly. The feeling was only tangentially similar to the chains he dealt with when practicing [Void Vajra Sublimation].
+
+The feeling was more similar to being submerged in water with a sheet of ice preventing him from returning to the surface. Lungs burning from suffocation, he banged on the barrier, and it was finally beginning to give way. The force of the Death-attuned concentrate was propelling him up the water, imbuing his limbs with superhuman strength. The first crack appeared.
+
+Punch after punch caused the cracks to grow in numbers and size. The bottleneck was on the cusp of collapsing, yet Zac felt himself running out of steam. The apocalyptic sun in his stomach was fading, having burned both medicine and clay until almost nothing remained. Surprisingly, it wasn’t enough to finish the job.
+
+Time was of the essence. Failing a breakthrough was never a good thing. If he allowed the cracks to mend, the sheet of ice would grow even thicker. If that happened, he would probably have no choice but to slowly grind at it after visiting the Abyssal Shores, which in turn would waste a whole lot of potential.
+
+Just as he was about to chase down the tar with the plants he’d collected, Zac was suddenly struck with an idea. A Void Vortex opened up before him. At the same time, a second vortex silently appeared on the other side of the Left Imperial Expanse. It was only the size of a coin at first, almost invisible as it floated just above the concentrate.
+
+Only after five seconds did it expand just enough to allow a chain grasping an earthen jar to pass through. Two swipes took away most of the remaining concentrate. The wounded centipede finally stirred, but the vortex was already gone by the time its enormous eye swept the area. A few miles away, Zac glanced at Tavza, who showed no indication of having sensed Zac’s theft.
+
+Combining forces through the Void Vortices was among the first things Zac had thought of when looking for applications for his new Bloodline Talent. Unfortunately, lining up vortices inside the hidden realm was much harder when their locations were far apart. When his human side created two vortices next to each other, they’d also be somewhat close inside the Void Realm.
+
+When his human and Draugr sides made one vortex each, he’d have to move them together before they could be used. It could take anything between two and ten seconds, which was an unacceptable delay mid-battle. Meanwhile, transporting goods through [Fuxi Mountain Gate] or [Purity of the Void] didn’t expend nearly as much energy. Still, the technique undeniably had its uses.
+
+A second helping of concentrate went down the hatch, giving the fading sun a second burst of glory. The eruption of power was exactly what Zac needed. A deep thrum shook him to his core as he heard the sound of glass shattering. This time, there was no pain, only deep comfort as a deathly chill swept through his body.
+
+His cells didn’t expand from breaking through, nor were there any additions to them. All the changes were centered on the Abyssal Ponds themselves. Zac thought they’d been cast in the absolute limit of black, yet they’d somehow grown darker. The ponds reached deeper into the abyss, and doing so imbued him with more power.
+
+Zac allowed the darkness to sweep through his body for a few minutes until it settled, at which point he opened his eyes. Instead of congratulations, Esmeralda greeted him with a retort from their earlier discussions.
+
+“Eating bugs as a toad is normal. What you’ve done is decidedly not normal for humans, or any sentient beings for that matter.” The toad shook her head in feigned disbelief. “And you even went back for seconds. Or maybe I can.”
+
+“Say what you will. Some suffering to reach the top is to be expected.” Zac felt he could only own it at this point. He patted his belly. “Besides, what does it matter? It all went into the incinerator, so it doesn’t count.”
+
+“Deviant Asura, indeed,” the alabaster toad scoffed, then switched to a more serious track. “Are you settled?”
+
+Esmeralda had been keeping the space around him steady during his breakthrough, preventing the overstuffed timelines around him from causing any trouble.
+
+“I’m done, thank you,” Zac said with a nod.
+
+“If you’re thankful, don’t make your poor master watch something like that again.”
+
+“Deal.” Zac smiled and opened his Bloodline Screen, which had seen a small alteration.
+
+[Death] Branch of Eoz (Late Shallows): Base Attributes +500, Strength +2,500, Endurance +4,500, Luck +30, All Attributes +10%, Strength +5%, Endurance +15%. Effect of Strength +5%, Effect of Endurance +15%.
+
+The boost in attributes wasn’t too impressive. The raw attribute bonuses had doubled, except for Luck, which had seen a modest boost of 5 points. As for the percentual increases, only Endurance and Effect of Endurance had seen 5% boosts, respectively. While decent, it wasn’t a gain that would make much of a difference in combat.
+
+The larger gain was to the unquantifiable boosts brought by his Death-attuned constitution. If his Life-attuned constitution acted as a hidden multiplier to his Vitality, then his Eoz bloodline provided enchantments to Endurance. Skin, muscles, and bones had grown tougher, and he’d already noticed a significant improvement in his resistance to hostile energies and Daos.
+
+Zac experienced two immediate benefits from the latter. The chaotic environment brought by the clashing timelines didn’t impact him as much any longer. It wasn’t to the point where he would dare to come into direct contact with the Peregrine Ocean’s silver waters, but it would still be a huge help in cleansing [Second Singularity] of stubborn holdouts.
+
+As usual, his human body got to enjoy the same benefits. The queasiness from being exposed to such powerful Death had been reduced by half, and rotating Divine Energy through his body no longer felt as turbid.
+
+The greatest boon of advancing one’s Draugr bloodline was still kept from him—each stage would increase a Draugr’s affinity to the Dao of Death. A multiplier to zero was still zero, so Zac was neither better nor worse off than before. Zac didn’t care at this point—if anything, he was almost afraid of gaining affinities to the Dao.
+
+Being the Zero Affinity Container, as his mother called him, hadn’t slowed down his seizing of the Dao in the slightest. If anything, he was making unbelievable progress. He was almost standing shoulder to shoulder with the multiverse’s greatest talents, many of whom were a few decades older.
+
+The only thing that put a damper on his mood was the unnerving stare coming from Tavza. While his human body hadn’t released any energy fluctuations during the breakthrough, she clearly noticed the difference. Zac could veritably see the gears turning in her head as she tried to pick apart his methods and the rules governing his split existence.
+
+Tavza didn’t shy away when her inspection was exposed, either. She simply nodded. “Congratulations. Reaching Late Shallows before visiting the Abyssal Lake is extraordinarily rare. I look forward to seeing the ripples you cause when we return.”
+
+“Thank you,” Zac coughed. “I look forward to paying my respects to the Abyssal Princes. But for now, let’s see if we can wrap things up here without getting ourselves killed.”
+
+“Good. We’re already behind schedule, so we’ll have to work inside the Lord’s gaze for a bit,” the An’Azol scion said before leading the way.
+
+“Behind schedule? How? I just arrived,” Zac muttered under his breath, but he still followed Tavza out the door.
+
+As they emerged Zac drew a deep, satisfied breath. The Apocalyptic Death was so dense that it poured into his body without prompting, channeling into his other body through the Quantum Space. It barely needed any refining before it fused into his Abyssal Ponds, stabilizing his breakthrough and pushing him closer to the next step.
+
+A week in this bountiful environment? Could it even be called work?

@@ -1,0 +1,127 @@
+---
+id: 05f8a747-7543-5b4e-a241-efd4b43e353b
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 40"
+slug: 0110-b2-chapter-40
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 110
+ownLength: 1499
+unit: words
+ownProgress: 1499
+publishedAt: 2024-02-24
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1530624/b2-chapter-40"
+royalRoadId: "1530624"
+markedReadAt: "2026-06-29T19:09:41.560Z"
+---
+
+The Planet known as ConquereMoments before the Death Spirit was summoned
+
+A man appears in a flash of scarlet energy that tears apart everything around him as he falls towards the ground with a mad look in his eyes and his wild black hair tinted in scarlet flying around him. He is wearing a set of mostly black armor with bits of scarlet here and there and a scarlet cape going over one shoulder that is blowing in the wind and energy around him. On the man’s forehead is a black and scarlet metal band, meanwhile glowing crystals can be found all across his armor, each with the same shade of scarlet as the energy coming off of him.
+
+When the man lands, a crater forms while a blast of that same scarlet energy is sent all around him. A sinister energy that sends shivers down the spines of all those who follow him, each appearing in various blips of purple light, teleporting onto the planet.
+
+“Now that was riveting!” the man declares, laughing as he quickly begins walking towards the large fortress nearby, uncaring of the sand and dust floating in the air and being erased by the scarlet energy around him. Then he tosses over his shoulder, “So what’s next, mister second in command?”
+
+Another man – this one being a man known widely across the universe as being the only one who can keep some level of control over the man in front of him – quickly answers with a short, “A Beta Tier world known as Aranfeld. We recently found it through the new initialization, and the world has registered as having a powerful enough mana signature to host a single Hunter’s Spot.”
+
+“Then let’s-” the man coated in scarlet energy begins, only to suddenly jerk his head in a seemingly random direction. Then he glances at his second in command – who also seems to have noticed what he’s noticed – and raises a finger while saying, “Hold that thought!”
+
+And without a single moment of hesitation, his scarlet energy begins to build up all around him before turning into a horse. One made of both flesh and the scarlet energy. So much of it that just a mere touch from the horse would drive a man mad with bloodlust.
+
+But the man simply jumps onto the horse without a care before it immediately breaks the sound barrier the moment it starts running. And soon enough, the man finds himself charging straight through a Gate he believes he vaguely remembers as the Gate to Luk’tar.
+
+He doesn’t stop after crossing the Gate. Not even as the scarlet energy being emanated from him and his horse begin driving the lukians near the Gate into a state of bloodlust, making them attack their own.
+
+Instead, he simply raises his head to see the black and purple light shining like a beacon in the sky what must be thousands of klicks away.
+
+And just like with when he left his second in command, he gives his horse a mental order to start galloping again, making the creature break the sound barrier once more. Along with every wall of the city belonging to what he believes was the Gallagher Clan that’s in his way.
+
+During his trip though, the black and purple beacon fades away completely, leaving him feeling slightly disappointed as he arrives in a burst of scarlet energy that destroys dozens of houses around the point where he stops. A place he recognizes by the symbol hanging on the Grand Tree as the capital of the Sullivan Clan.
+
+All he finds are boring people though. People with that same gaze of fear that he always finds other people having when looking at him.
+
+Boring.
+
+He hears mutters of his title, but he ignores them as he leads his horse to climb into the air, walking on steps made of crimson energy until he arrives at where the summoning circle was. Only for something to catch his attention in the distance.
+
+So he orders his horse to charge in that direction, soon leading him to end up tearing through large trees before he stops his horse right in front of a large wall. One that he sees two legs just dangling over the edge of at the top of it.
+
+Then the owner of the legs sits up and looks down at him, making his eyes narrow ever so slightly.
+
+Because the woman’s level is a mere level fifteen.
+
+But she has a black number.
+
+The corner of War’s lips quirks upwards ever so slightly with the tiniest bit of interest.
+
+An interest that only grows when he looks at the unbelievably disinterested look on the woman’s face as her stark white hair blows in the wind behind her, her glowing crimson eyes lighting up the night.
+
+A look he hasn’t seen directed at him by anyone other than his second in command in millennia.
+
+And the death energy emitted by her body…
+
+All of the sudden, his scarlet energy – energy of War and Conflict – reaches out towards the girl as her energy of Death reaches back. Then they connect midway between the two, making both of them instantly understand who the other is.
+
+And just as quickly as they’d reached out, the two energies return to their natural owners.
+
+Silence fills the wall for a few seconds before War’s grin grows even wider and he says, “Hello there, little Death.”
+
+Aria
+
+I stare at the man sitting atop a scarlet horse that’s radiating that scarlet energy of his for several seconds before he speaks.
+
+“Hello there, little Death.”
+
+The man is War. The Horseman of the Apocalypse, Red Horseman, and Harbinger of War and Conflict.
+
+Somehow I instantly understood that the moment our energies touched.
+
+But what I don’t understand is why he’s here right now.
+
+Oh, and he has no number. But that’s to be expected.
+
+Also…
+
+I glance at the trail of destruction the man left in his wake. Which amounts to a lot of trees destroyed.
+
+Meanwhile I hear footsteps and shouts coming from the stairs as a bunch of people rush up to the top of the fortress wall.
+
+But I just continue sitting here at the edge of the wall with my legs dangling over it as I watch the man in front of me.
+
+“Hello,” I finally answer, my voice carrying past the loud commotion of those climbing the stairs, and even those gasping in fear at the sight of the man.
+
+If I’m being honest, the first thing I thought when seeing this man was that he’s unhinged.
+
+He seems to be looking at everything as if he’s judging it. Trying to see whether it’d make for a good fight or not.
+
+And now that I’ve seen him glancing at the other soldiers who come up to the wall, I can see the pure apathy in his gaze towards them. Almost as if they were ants that didn’t even so much as exist in his world.
+
+Instead of paying them an ounce of attention, he focuses on me again with that wide, insane grin, and says, “Little Death, mind tellin me your name?”
+
+I stare for several seconds before eventually answering, “Aria Crimson. You?”
+
+He looks even more surprised, and pleasantly so by the looks of it, before he answers, “Lucius Octavio.”
+
+An answer that literally makes some of the soldiers faint around us.
+
+But both he and I ignore them as we stare at each other, our eyes meeting. And after several seconds of this, his horse suddenly neighs and raises its front legs as he begins to turn it.
+
+Not without turning his head back and saying, “Come find me again when you’re older, Little Crimson Rose. Bloom a bit more until you’re more than just a dainty little bud and we can have ourselves a splendid duel!”
+
+And just as quickly as he appeared, the man vanishes in a flash of scarlet energy the moment the horse begins to charge.
+
+Leaving everyone here in silence, other than the soldiers seemingly having panic attacks behind me.
+
+I pull one of my legs up from the ledge towards my chest before resting my arm on it, and my cheek on my arm, simply looking out at the damage the Horseman of the Apocalypse caused.
+
+Guess I’m gonna be exposed to the universe at large after this. Unless someone does something to cover this up, that is.
+
+On that note, I glance at the soldiers still having panic attacks behind me. And I find quite a few of them sending me fearful looks.
+
+Which I guess makes some sense.
+
+Mostly it was just officers who knew that I was Death. The rest of the soldiers just thought of me as an anomaly with a Class S immortality ability.
+
+I turn to look out over the edge of the fortress wall again before sighing.
+
+Well, that was unexpected.

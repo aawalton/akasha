@@ -1,0 +1,151 @@
+---
+id: 8e1ae58f-4d9b-56f3-b843-e12ffaafbe91
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 39"
+slug: 0043-b1-chapter-39
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 43
+ownLength: 1721
+unit: words
+ownProgress: 1721
+publishedAt: 2024-01-20
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1488007/b1-chapter-39"
+royalRoadId: "1488007"
+markedReadAt: "2026-06-29T19:07:20.212Z"
+---
+
+Aria
+
+On our little trek through the frigid wastelands of the Southern Pass, we wear officer uniforms stolen from Arterian officers. But after we climb up the side of the cliff nearest the dunes, we take a moment to change out of the uniforms to more normal clothing that would be seen in Arteria.
+
+The clothes we change into consist of much lighter clothes than what we wear in Albaria, with thinner and slicker material of a much brighter shade. Mostly to deal with the heat of the deserts.
+
+My outfit in particular is that of a white shirt lined with a few crimson lines along with a pair of basic black pants. Meanwhile I have my officer uniform and some other outfits stored in a storage ring on my right index finger. Something the Republic only gives out to officers of major rank and above.
+
+Which makes me really glad that I reached major rank.
+
+Storage items can only be made by several Ability Holders working together. With the Ability Holders including enchanters, alchemists, spatial mages, and forgers.
+
+Enchanters being those Ability Holders who can infuse magic into items through some sort of ancient runes. Alchemists being those who can mix together strange ingredients to create powerful items and other objects while fusing mana into the creation and mixing process. Forgers are those who can enhance special metals and craft them into unique metallic objects and weapons.
+
+And spatial mages being spatial mages.
+
+Just a single storage ring requires all four to work together to forge it. An alchemist to create the materials for it, a forger to forge it into a powerful ring, an enchanter to place holding enchantments on it that are meant to hold certain spells, and a spatial mage to place a spatial storage spell within the enchantments.
+
+So they cost an arm and a leg.
+
+I stretch a little while looking at the others who are still changing, each behind a tent for privacy. Then I look out over the edge of the cliff.
+
+Honestly, it’s rather surprising that they don’t have anyone watching the cliffs near the edge of the Pass. I know we do on our end.
+
+Probably another result of this strange circumstance that they’re in.
+
+Possibly the doing of the invaders from that potential Gate.
+
+We still need to be on guard, but I don’t think I’ve ever seen Harvey’s ability fail us thus far, considering it’s incredible sensitivity and range. So I don’t think we’ll have a problem.
+
+Actually, that ability is probably another reason why we were sent here.
+
+I kneel down close to the edge of the cliff as I look out in the direction of the fortress, but I only barely make it out from here. And that’s solely because this is a barren and rather flat wasteland.
+
+On the other hand, I can see the dunes on the horizon beyond said fortress.
+
+After a second, I go ahead and pull my rifle out of my storage ring and look through the scope at the fortress. But I find the Arterian soldiers just sitting there as if nothing’s wrong.
+
+“Weird…” I mutter while lowering my scope again and frowning in the direction of the fortress.
+
+“Weird indeed,” the commander says, bringing my gaze to find him approaching me wearing a pair of white pants and a white shirt, with black lines going down either side of the pants and shirt that match rather well.
+
+Didn’t realize he had a good sense of fashion.
+
+I turn back towards the fortress again and continue looking through the scope of my rifle as he continues, “Major Harvey hasn’t sensed anything unusual about their fortress either.”
+
+“Then we need to be even more careful than normal, right?” Captain Snow adds, but I don’t bother looking back at him.
+
+“Better careful than dead,” First Lieutenant Vargas says, as happy-go-lucky as always.
+
+“Let’s continue moving along the cliff,” the commander orders, making me climb back to my feet after putting my rifle into my storage ring again. “Major Harvey can keep an eye out as we march.”
+
+“Understood, sir,” everyone declares, Majors Harvey and Rogers both having arrived at some point as well.
+
+Then we begin moving across the cliff tops without another word.
+
+The silence stretches on for a while as we march, and after half an hour, Major Harvey raises a hand to stop us. So we draw to a halt.
+
+A few seconds pass before she whispers, “There’s something… strange. Just a few meters ahead of us.”
+
+I frown before narrowing my eyes in front of us, but I don’t see anything.
+
+None of the others seem to either, so after a brief discussion, we end up deciding to send me through with Harvey’s barriers covering me. Since we don’t know what it is. And Harvey can tell that it’s spanning across the entire cliff and past the fortresses through the wastelands as a massive wall.
+
+The only thing we can do is hope her barriers block it and make it not activate when I pass through.
+
+After she covers me with her barriers, the others all step back to avoid any dangerous traps, and I walk straight past the invisible barrier.
+
+Only for a loud alarm to begin blaring out across the cliffs with a bright beacon shining from where we are.
+
+“Well fuck,” the commander mutters, and I can’t help but agree. “Run for it!”
+
+Without any hesitation, we all immediately begin to run straight across the cliff while Rogers enhances each of us. Meanwhile I use a small part of my soul energy reserves to enhance myself further and keep up with the higher level officers.
+
+Arterian soldiers begin rushing out of the fortress, but they’re too far away to even see us thanks to our position high atop the cliffs. Unless they have an ability user specializing in farsight that is. But even then, all they’d see are the purple barriers Harvey is putting up along the edge of the cliff to block us from view.
+
+That way the Arterians wouldn’t be able to know exactly who we are, what we are, our levels, or our numbers.
+
+We continue running for a while, eventually losing sight of the chasers entirely. Then we continue running for a bit longer after that, just to make sure.
+
+And as soon as we’re certain it’s safe, we all collapse into naught more than piles of sweat and exhaustion on the cliff.
+
+Or, rather, they do. I just stand watch while looking out off the cliff, having already recovered.
+
+“What… was… that…” Snow asks in between pants of exhaustion.
+
+“No…” Vargas pants, “…idea…”
+
+A few seconds pass as they all try to catch their breath before Harvey stands up again, her hands on her knees and says, still slightly out of breath, “I don’t know… it wasn’t something I’ve ever seen on Vortel before…”
+
+I glance at the commander to find him having risen to his full height, still heaving a little in exhaustion himself while seemingly deep in thought. Meanwhile Rogers looks like he’s perfectly fine. Likely because it’s his own enhancement magic that he was using on us.
+
+Probably helps him more than us.
+
+I turn to look out from the cliff again at the dunes of sand we’re now above as the others discuss amongst themselves – while still panting – about what just happened. But after a few seconds, I find my eyes narrowing at the sight of some people beginning to crest over the dunes.
+
+People who aren’t dressed as Arterian soldiers.
+
+They look more like… merchants?
+
+“Guys, we’ve got company,” I warn them, interrupting whatever it is they were saying. And each one of them quickly begins moving over towards me to look out over the cliff as well. “But they don’t appear to be Arterians.”
+
+Not only are they not wearing the garb of Arterian soldiers, but they’re not even wearing clothes from here either. They seem to be wearing some sort of white and purple, high class merchant garb. Garb that is very alien to anything we’ve ever seen, and quite a bit higher quality as well.
+
+We watch them for a few seconds, but to our surprise, none of them appear to be very harmful. They’re all around level ten, yes, but they aren’t armed.
+
+Not a single one has a weapon on their person.
+
+“You think…” I mutter, a frown on my face.
+
+“Yeah,” the commander responds with a nod of his head from his spot standing next to me, “looks like we found the invaders from this new Gate.”
+
+And the fact that they’re casually roaming around the dunes of Arteria isn’t a good sign for what’s going on, especially considering that the Arterians are still manning the fortresses.
+
+Although they’re also not with any Arterians right now, nor are they armed…
+
+Are these invaders… really merchants?
+
+One of the Nine Grands comes to mind as I think of otherworlder merchants, but it’s highly unlikely that it would be one of those. From what we’ve heard after all, the Nine Grands don’t bother themselves with brand new worlds very much. If ever.
+
+The maybe-merchants continue approaching at rather fast speeds across the dunes riding atop some sort of odd machines that I’ve never seen before. Narrow ones that appear to hover above the sands and have a single seat, with a glowing blue energy coming out of the back of them.
+
+Meanwhile the merchants themselves, after looking through my scope, appear to be staring straight at us.
+
+Then multiple things click in my mind at once.
+
+For one, these invaders really do appear to be working alongside the Arterians in some form if they’re able to freely travel across the dunes with transportation like that without being caught by one of the cities.
+
+Then for two, that alarm from before must’ve been set up by these guys if even Harvey, who I heard worked at the Enchanter Association in the Albarian capital in the past, has never heard of it.
+
+And lastly, the symbol on their shoulders. It looks exactly like one of the symbols in the set that was on that intel sheet a while back.
+
+The symbol of the Eternal Dynasty.
+
+The neutral merchants of the Grand Nine.

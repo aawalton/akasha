@@ -1,0 +1,157 @@
+---
+id: b467257d-9f07-5675-bdb3-6510dbdd5c3c
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 59"
+slug: 0131-b2-chapter-59
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 131
+ownLength: 1507
+unit: words
+ownProgress: 1507
+publishedAt: 2024-03-20
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1561664/b2-chapter-59"
+royalRoadId: "1561664"
+markedReadAt: "2026-06-29T19:17:15.064Z"
+---
+
+Aria
+
+The next few days pass by rather boringly without much going on. Although I do learn more about the Void Temple in this time.
+
+At first I had begun to wonder why they even bothered with a rebellion when they could just revive the rebels or the king or queen. But nope. That’s not possible.
+
+There are only around four or so dozen to a hundred Void Temples in the universe at any particular time. And almost every single one is on an Alpha Tier world. Half of which are run by the Grand Nine.
+
+And the Void Temples have rules for people, varying based on their position.
+
+The Horsemen of the Apocalypse can only revive once. A requirement the other six Grand Nines managed to purchase with so much gold it would fill an entire ocean planet if melted down.
+
+If someone is coming from another world to be revived, the price is ten times the original, and the wait is over ten times as long. Generally whenever the Void Spirit gets around to it.
+
+Which could take decades to revive them for the price of an entire kingdom.
+
+Like how much it would cost Atlantis.
+
+So if the king or queen were killed, they would probably only be able to revive one of them, and it would take decades and pretty much bankrupt the nation.
+
+Also, the cost rises the higher the level of the person being revived. Both the Temple’s price in gold and the price in levels to revive them.
+
+Meaning the king or queen would lose a hundred or so levels after being revived as well. Not to mention the price of half of Atlantis just to revive one of them. Which would explain the rebellion, seeing as by the time one of them would be revived, the duke would’ve taken over the entire planet. Including the nation’s money. Meaning they wouldn’t be able to be revived in the first place since the ones who would be doing it wouldn’t have the money.
+
+And since the duke was a hundred levels below them ish, he’d still be very expensive to revive, and take decades to be revived as well.
+
+I never really paid much attention to any of this because the Void Temple had little to nothing to do with me. We have a respectful relationship where they answer my questions and I leave them alone. Mostly just a source of information for me.
+
+Although, I’m pretty sure they’re also looking to work with me simply because they know I’ll eventually be rich. And I’d still have to go to them if I want someone else revived.
+
+After all, just because I can’t die doesn’t mean someone I know can’t.
+
+And even then, I only visited them twice on Eternus. And twice on Vortel.
+
+Overall though, according to Azura at least, Void Temples tend to set up shop on two different types of worlds.
+
+Worlds ruled over by someone very rich and powerful, with it always being Alpha Tier.
+
+Or worlds where a void mage or void priest was born.
+
+Because void magic users are apparently rare.
+
+Oh, and also, one last rule. No reviving people for dying of old age. Since they’d just come back to life at the age they died before dying again. Which is just cruel.
+
+I lean over the counter while sipping my most recent beverage at the bar, wondering if the duke even has the funds to revive himself. Meaning my devouring his soul core might even go unnoticed.
+
+Amusingly enough.
+
+Not that I care one way or another. Because people already know I can kill people without them being able to revive anymore.
+
+I never really tried to hide that. Not really something I can hide if I want their soul cores.
+
+And I do want powerful soul cores.
+
+Like the one I got from the duke. A very nice soul core indeed.
+
+I glance at Azura who is behind the counter, only to continue sipping my drink.
+
+He’s been very busy over the past few days due to that rebellion that was quickly squashed. Him and the other royals alike.
+
+Which makes sense, considering the whole rebellion thing.
+
+I was mostly just annoyed that it delayed the ferry. At least, until the royal vessel started picking me up instead.
+
+Because apparently the royal guard feels they all owe me a favor. Not to mention the royal family.
+
+I just killed a rude idiot who vaporized me in an instant, so I don’t really think they owe me anything. Would’ve done it regardless. But I’m not gonna complain.
+
+Although I might complain about the other thing.
+
+That thought has me grimacing as I finish my drink and get up from my seat, making Azura glance over and give me a brief wave, saying, “Have a good hunt today.”
+
+I nod back before heading out the front door to find the two carriages waiting outside. One of which opens at the sight of me.
+
+Right.
+
+The other thing.
+
+I send an exasperated look towards the royal guards that are now escorting me to the open carriage.
+
+It’s not just the royal vessel, but the royal guards have been treating me like a princess of the nation ever since then. Just following me around to protect me from any rebels who may try to kidnap me, giving me free transportation places, and literally giving me open access to any place I want to go to.
+
+I let out a sigh as I sit down in the carriage, with the vehicle closing over me and the driver asking where I’m heading. Then, after I tell them the Grand Ocean, they quickly take off.
+
+What makes this worse is that I’m pretty sure that I’ve heard whispers about an honorary princess or something. Which I’m just gonna ignore and act like isn’t happening.
+
+Best way to go about life.
+
+Although I will admit that the free transportation is nice.
+
+Saves a lot of my time not having to return to the ferry location in the Grand Ocean. And it lets me come and go when I please instead of only being able to come and go at certain times.
+
+Not to mention the other people on the ferry.
+
+“Lady Death, did you hear the news?” the carriage driver suddenly asks, making me glance over at the royal guard in full body armor. “The Council of Darkness has made their move. They’ve finally directly struck Arc.”
+
+I frown at that.
+
+“Arc?” I ask, not really sure what he means.
+
+“Oh, right,” the guard says, “Arc is the home world of the Arcadian Society.”
+
+That makes my frown grow deeper.
+
+“Word is that the Council of Darkness was most likely behind the ten rebellions – including the one you stopped – that struck all across ten Beta Tier worlds at the same time,” the guard continues, surprising me with a bit of news I hadn’t heard about. The whole ‘nine other rebellions happening at the same time’ thing. “And that they’re using those rebellions as a coverup for their surprise attack. They struck the enforcer division of the Arcadian Society and tore the place down before the Archmage arrived to clear the assassins out.”
+
+I hum in response while folding my arms.
+
+Well that’s interesting.
+
+They started ten entire rebellions just to get a good surprise attack in on the Arcadian Society.
+
+Or… maybe that’s not all? I know assassins tend to thrive during war. So maybe they started those rebellions to give them more work along with that surprise attack?
+
+Could also be for levels for all I know.
+
+“Why’s the Council attacking the Society anyways?” I ask after a few moments of silence.
+
+The guard laughs and answers, “They’ve been in a bit of a cold war for several millennia now. Think about it. The Arcadian Society is well known for trying to police the universe, and the Council of Darkness is the biggest underground organization in the universe. Only makes sense that they’d be at odds.”
+
+True.
+
+“Thank you,” I tell him with a nod, making the man give me a thumbs up without taking his eyes off of the street.
+
+Guess royal guards like gossip.
+
+If I had to guess based on the name of the division they attacked, it’s probably the division that tries to do that policing he mentioned. Since they’re enforcers and all.
+
+Which would explain their attack.
+
+Come to think of it, this is the second time in just a few years that the Society was targeted. First for their contracts, and now for their policing.
+
+I get the feeling people don’t like them.
+
+The only things I’d heard about them until now was that it’s an association of scholar mages. That the Society is very arrogant and looks down on others. And that one of their divisions is behind deciding the Tiers for worlds through divination.
+
+Not much else.
+
+Oh. And they hate the Horsemen.
+
+So I better avoid the Society.

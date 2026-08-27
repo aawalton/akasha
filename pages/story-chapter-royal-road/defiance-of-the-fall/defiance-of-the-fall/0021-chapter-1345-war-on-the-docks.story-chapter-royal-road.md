@@ -1,0 +1,143 @@
+---
+id: ef34d5c0-300e-5917-9e2f-a9222801b007
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,345 - War on the Docks"
+slug: 0021-chapter-1345-war-on-the-docks
+partOf: defiance-of-the-fall
+position: 21
+ownLength: 3142
+unit: words
+publishedAt: 2025-08-25
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2547413/chapter-1345-war-on-the-docks"
+royalRoadId: "2547413"
+---
+
+There was no time to get a proper understanding of the situation on the other side, though the memory domain’s shimmering wall in the distance proved they’d found the right place. The Spatial Tear was rapidly closing while the existential decay in the house recovered. Zac turned into a streak of death and squeezed through while Janos created an illusion of himself on the other side and swapped places.
+
+The Peregrine Ocean’s scent filled Zac’s nostrils with nauseating intensity the moment he reformed on the docks, and the roars of battle filled his ears. An urgent scream of danger proved he wasn’t spared the mayhem, but Zac’s limbs didn’t listen when he tried to move out of the way. Space had turned into a suffocating blanket, and Zac could barely exhibit the speed of a Late E-grade cultivator—not nearly enough to avoid the spatial storm barreling toward him.
+
+The attack came from one of the sealbearers, and Zac wasn’t the intended target. He had the bad luck to emerge next to one of the pitched skirmishes raging across the docks. The intensity behind the energy outburst confirmed that the sealbearers were fighting for their lives, and they were in no position to worry about friendly fire. Though judging by the Spatial Sealbearer’s cold gaze, he wouldn’t mind accidentally taking out the competition.
+
+A carbon copy of the sealbearer stood between Zac and the attack, the distance between them less than two dozen meters. At least Zac assumed it was a doppelganger. The invaders on the docks were very different from the twisted mutants in the nightmare city. They exhibited no physical malformations, and Zac could only sense the Lost Era’s corruption from a few.
+
+Already covered in serious wounds and distracted by Zac’s sudden appearance, the doppelganger could only tide endure the storm by creating a spatial slipstream. It was forced to take some of the mayhem head-on, but the rest was left for Zac to deal with. Zac couldn’t perform a spatial dodge like the doppelganger. Even if he could, Janos was standing right behind him, hard at work calibrating his sphere. The attack needed to be stopped.
+
+The four pygmies of [Profane Exponents] emerged from the dancing darkness of Zac’s cloak, and a sturdy coffin-shaped barrier appeared before Zac and Janos. The shield that could normally protect a whole division of soldiers struggled to cover even Zac in his current form. The spatial suppression restrained Zac's skill to an even greater degree.
+
+The effect helped to drive home just how much power the incoming attack contained. The spatial attack resembled a comet comprised of countless spatial fractures, and a trail of destruction followed in its wake. Just the core was nearly as large as the barrier, though that didn’t mean one was stronger than the other.
+
+The bulwark shook precariously, and the tiles beneath Zac’s feet cracked as he was pushed back a few steps by space heaving from the collision. Deep scars covered the shield, but the blades failed to break through or destabilize the skill. If only that was the end of it.
+
+Thousands of errant spatial splinters poured around the bulwark to target the hunched-down Zac behind. They moved with speed and precision, even resisting the [Arbiter of the Abyss]’s control. The phenomenon couldn’t be random. Zac was about to counter the tide with the second pygmy’s swirl of displacement when a spatial ripple from Zac’s shoulder intervened.
+
+Esmeralda had perched on his shoulder instead of returning to the Shrine of Kanba, and she deftly redirected the storm through spatial manipulation. With the threat averted, Zac barreled through the tail of spatial chaos, using the damaged bulwark to crush whatever splinters that Esmeralda couldn’t deal with in time.
+
+Zac’s target wasn't the sealbearer who’d attacked him. It was the doppelganger who had his hands full expelling the storm of hostile Dao seeping from his wounds. His back was wide open, and space was chaotic enough to prevent teleportation. Zac’s axe moved with speed and precision while his chains severed any avenue of escape.
+
+Sensing his impending doom, the doppelganger turned around. The abject fear and utter lack of deranged bloodlust Zac had seen in the other mutants gave him pause. Had he misunderstood the situation? Was this the real sealbearer while the one who attacked with a corruption-free skill the invader? Their auras were indistinguishable, and neither exhibited the golden halo from before. In fact, none of the sealbearers did.
+
+The slight hesitation added a small delay to [Death’s Duality]’s arc of final release. It was enough to change the outcome. A flicker of deeply hidden corruption and another pang of danger made Zac’s gaze harden, but his blade only hit air. The doppelganger had created a spatial tunnel straight through his body, splitting himself in two before Zac’s axe could do it for him.
+
+A small tear opened to swallow a chain, and the invader flickered and disappeared before Zac could follow up. The doppelganger had used some hidden method to break through the spatial turbulence forcibly. It came at a price. A dense haze of tainted blood was left behind, along with a severed foot.
+
+“Fool! If you’re going to assist, do it properly,” the sealbearer cursed before disappearing in an identical manner. The only difference was the lack of deeply hidden corruption.
+
+Zac didn’t care. He could have prevented the teleportation by activating [Void Zone] or a skill using Void Energy, but why should he expose his hidden cards to help a man who didn’t care about Zac’s life or death? The sense of danger clearly came from the sealbearer, not the invader who was focused on survival.
+
+“Over there,” Esmeralda said, lightly tapping Zac’s head.
+
+Zac followed her pointing and spotted the same two spatial Sealbearers. They’d resumed their duel some distance away. While still in a wretched state, the invader wasn’t trying to escape. It seemed more likely that he’d relocated to resume the previous one-on-one with his alter ego.
+
+Looking around, Zac realized most of the duels were the same. The sealbearers were generally fighting their own doppelgangers instead of random targets. The few exceptions were the combatants who lacked a bizarro-version of themselves.
+
+“What the hell’s going on?” Zac muttered.
+
+Another sealbearer provided the answer before his companions could put forth any theories. It was the burly soldier Zac had seen during his previous visit to the docks. Yesterday, he’d scoffed at the half-cooked theories surrounding the voyage across the Peregrine Ocean. He cut a different picture this time. Covered in blood, missing an arm, and exhibiting an exceedingly unstable aura, stood in the middle of a war between flying weapons.
+
+Standing in the middle of the violent, the soldier head-butted his twin with a desperate roar. They both fell to the ground, but a massive mace crushed the invader’s head before he could get up. The invader had tried the same thing, but his aim was off. The local only saw the severed stump beneath his left shoulder further mangled.
+
+Half the weapons in the air faded, leaving eight emitting a calamitous aura. Zac had an inkling the weapon array was constructed by a mix of Conflict and Fantasy. Still, he was more interested in the golden stream of Imperial Fate emerging from the invader. It poured into the soldier’s token, and that wasn’t the end of it.
+
+The radiant halo from the worship ceremony reappeared with twice its original momentum. It burned brightly, and its aura transformed into something Zac immediately recognized. It was just like the blessings he’d encountered during his time in the Empyrean Chalice training base, and a powerful one at that. If Zac would translate it to modern terms, it would be a top-quality title providing high multipliers and efficiency.
+
+As odd as it was seeing dense Imperial Fate on an invader twisted by the Lost Plane, Zac was certain it was the impostor who’d died. Whether it was because of lacking control or his desperate state, the stink of corruption was much stronger on the fallen soldier than the spatial sealbearer.
+
+The soldier wasn’t fazed by his brush with death or slaying his alter ego. Ignoring his wounds, he gleefully looted a jade ring from the corpse’s hand. He also created a small incision on the invader’s spine to extract a mysterious crystal humming with the Dao of Dreams. The soldier’s conjured weapons hummed when it appeared, and their aura grew a notch deeper. The soldier no doubt had an identical treasure infused into his body, and it was an important component of his path.
+
+“Who better to loot than your twin? They only keep the things you want,” Esmeralda snickered.
+
+“It shouldn’t be the only reason they’re targeting their own,” Zac said, watching as the soldier leapt into the closest gondola and pushed it away from the pier.
+
+He showed no interest in targeting the other doppelgangers or rallying allies to mount a coordinated resistance. It wasn’t how Zac expected a soldier of the Limitless Empire to act, and the man’s wounds weren’t enough to explain his hasty retreat. The battle-hardened warriors of the empire didn’t fear death, and the soldier still had some energy left to spare.
+
+Was he unusually selfish, or was he acting under order? Come to think of it, Zac realized there were only sealbearers on the docks. There was no sign of any high-grade defenders joining the fray. A single Late Monarch would have sufficed to take most, if not all, copycats. Adding the willingness from both sides to fight to the death before jumping onto the boat, there was something else at play.
+
+“What do you want to do? There’s no copy of you—or you—and the same’s true for the demon,” Esmeralda noted. “Taking out the other invaders might net you some merit, and we’ll stop the competition from growing stronger. We might even make a killing. These brats are bound to have some good stuff.”
+
+“We should hurry,” Janos reiterated, having returned to his reticent state.
+
+“He’s right. Reaching the court is more important,” Zac agreed. “There’s already another twenty gondolas missing, and something’s up with the peregrine ocean. I feel like I’m moving through quicksand, and my skills don’t work as they should.”
+
+“Oh, that’s not the ocean. There’s a space compression array running, the type used when all else has failed. Most energies are contained, while the docks have been expanded beyond their original size,” Esmeralda explained. “It’s a way to limit the damage on the infrastructure when battles erupt inside a city. This one is an absolute suppression and nothing a Hegemon can circumvent.”
+
+It’ll limit the damage invaders can cause on the infrastructure. It’s an absolute suppression on space, so I can’t do anything about it,” Esmeralda explained.
+
+“I guess it’s fine so long as it affects everyone.” Zac nodded before turning to Janos. “Which way?”
+
+Janos pointed at a spot to the left. It wasn’t too far away, but they’d have to pass at two dozen battles. Despite the spatial suppression containing the scope of the battles, there was barely any free room with hundreds of Late and Peak Hegemons duking it out. Zac took the lead, using his domain, feints, or direct attacks to force people out of the way.
+
+Whenever Zac could confirm that someone nearby was a doppelganger, he used his chains to inflict some additional harassment. Even if the chains couldn’t extend more than fifty meters before the spatial suppression grew too powerful, they were lightning-quick and imbued by [Inexorable Subjugation]. The interference helped save the lives of two sealbearers and allowed a few more to seize an advantage.
+
+Zac didn’t try to kill any of the invaders, partly because of the difficulty. Corrupted or not, these people were renowned elites of the empire. Even the Middle Hegemons could carry deadly aces in case their back was against the wall, and they were empowered by the Lost Plane’s corruption. It wasn’t worth the risk, and Zac putting his thumb on the scale might actually harm his long-term goals.
+
+He wasn’t convinced that saving his fellow sealbearers was the best course of action. He’d already spotted one impostor jump onto a gondola after killing her twin, and the gondola treated her the same as the soldier. Having the doppelgangers infiltrate the court would add danger and introduce unpredictable variables, but that was where Zac thrived. The more chaos, the higher their chances to successfully nab Esmeralda’s treasure.
+
+Their passing didn’t go unnoticed, and the surrounding combatants were quick to adapt. The sealbearers tried to push their enemies into Zac’s path after seeing that he limited his interference to light harassment. Meanwhile, the doppelgangers furiously fought to add more space. The more cautious ones completely disengaged until Zac had passed.
+
+Either case, it made Zac’s life easier, and they faced no real trouble by the time they’d almost reached the waterline. The sealbearers thought the dangerous free agent was about to get out of their hair. It was at that moment that Zac struck.
+
+The ground beneath Zac’s feet groaned as he launched himself forward through harnessing the full extent of his physical prowess, including a significant boost from [Conviction of Eoz]. He’d already noticed that energy toiled under a greater suppression than one’s physique. Zac’s lunge exhibited a brief burst of momentum that matched [Abyssal Drive]’s speed.
+
+Janos’s eyes grew wide when a chain dragged him along for the ride. The demon wasn’t prepared at all, so there was no need to mention the outsiders. The dash only relied on Zac’s monstrous physique, so it gave no warning like a surge of energy. Target was no slouch, and he quickly adapted to the unwelcome twist.
+
+The doppelganger activated a talisman, releasing a dreamy haze, but a winged whale conjured by the sealbearer actually swallowed it whole. The defender’s gleeful expression froze when a suffocating wall of Oblivion separated him from his opponent. [Eye of Desolation]’s domain only extended sixty meters under the intense spatial suppression, but that only brought the invader closer to the eye’s deathly stare.
+
+“Everit, what are you doing!” a muffled roar came from the other side.
+
+Zac ignored the real Xinyi trapped on the outside. He’d already deposited Janos in one of [Eye of Desolation]’s two layers before rushing toward the invader. It was true Zac didn’t want to insert himself into the conflict at this point, but he also needed to know if there were huge benefits to killing corrupted sealbearers. Picking Everit Draom’s old enemy, who’d annoyed him yesterday, was a nice bonus, especially when Zac remembered how wealthy Xinyi’s family was.
+
+The biggest reason was that Zac had inherited some inside information about his opponent’s strength. He knew that Xinyi’s mental fortitude was on the weaker side, at least when compared to other Heaven’s Chosen. The doppelganger was no different. His eyes glazed over when his thoughts were annihilated by [Eye of Desolation]’s Oblivion-infused stare.
+
+The doppelganger woke up in time to unleash an ability stored on his forehead. Zac blinked in surprise when a monstrous wave of untamable power swallowed the incoming swarm of chains. There was nothing in Everit’s memories of this attack. One of [Eye of Desolation]’s protective bands shattered, fusing the layers.
+
+Unfortunately for the invader, Zac had approached from the other direction, his presence perfectly hidden by the domain. By the time the doppelganger noticed Zac’s presence, it was already too late. A spectral chain tapped Xinyi’s back, sealing his fate and future. Feeling Death’s approach, the invader unleashed a wave of corrupted space.
+
+Up became down as Zac used [Arbiter of the Abyss]’s strongest rejection to turn Xinyi around at the perfect moment. The doppelganger’s desperate counter slammed into [Eye of Desolation]’s second band while the gleaming edge of [Death’s Duality] dug into his head. Taking no chances, Zac took advantage of his domain’s obfuscation to briefly activate [Void Zone].
+
+The nullification sphere disrupted the doppelganger’s defensive treasure, making it pewter out before activating. There was no more suspense. Fate had been sealed, and Death brought finality. The invader was split in two, and a weak stream of Imperial Fate was absorbed by the seal on Zac’s hand. It wasn’t much better than what he extracted from the Elemental in Terren’s Loom, and a far cry from Zac’s gains during the challenge or what the soldier was awarded just moments before.
+
+It was at that moment [Eye of Desolation] collapsed. The onslaught of twisted Dao of Space hadn’t been canceled by its controller’s death, and it had torn apart the skill’s second band of chain-wielding statues. With both bands destroyed, the skill couldn’t keep going.
+
+“No need to thank me,” Zac said with a refreshing smile when the real Xinyi rushed over.
+
+Zac’s grin widened when Xinyi’s face crumpled. He looked back and forth in vain. The doppelganger was already safely stored in Zac’s corpse-sack, and his spatial treasures were handed over to Esmeralda for lockpicking. Zac had already confirmed that bodies were one thing that couldn’t be brought out of the memories, but it was worth testing whether the Lost Plane’s energy could help circumvent that rule.
+
+If it worked, the Atwood Empire would see an influx of talents surpassing the Echelon Class. Still, it was only a long shot. Zac didn’t receive any blessings, and the influx of merit was nothing to write home about. It wasn’t worth his time to keep targeting invaders.
+
+Xinyi gave Zac a baleful glare, but he didn’t dare act on his impulse after seeing his old nemesis take out his copy in the blink of an eye. Instead, he rushed for the gondolas, and the other combatants gave Zac a wider berth after his successful hunt.
+
+The doppelgangers gave Zac an even wider berth after his successful hunt, but a much greater problem presented itself just when Zac reached the waterline.
+
+“My friend, we meet again,” Xiphos said with a smile as he stepped out of a shimmer of pristine faith.
+
+“Don’t know you, buddy,” Zac frowned.
+
+“Is that so? I thought we'd forged a bond after our talk in Dawndeep Bastille.”
+
+“Wrong person,” Zac said with a sinking feeling. “Sorry, I need to set out before it’s too late.”
+
+“I suppose I don’t leave as much of an impression as I thought,” Xiphos lamented with a glimmer of humor in his eyes. “Since Sir Atwood is in a hurry, I won’t keep you.”
+
+The Enkindling Sage had seen through his disguise, and being allowed to leave did nothing to lift Zac’s spirits. Zac could feel it. This encounter wasn’t fated to end like his pleasant exchange with Grand Dream. Trouble had finally come for him. As expected, the templar’s next words confirmed there was no way out.
+
+“However, I must insist your friend stay behind.”

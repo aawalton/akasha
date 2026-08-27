@@ -1,0 +1,159 @@
+---
+id: 9e39b1b5-dc02-5dc9-8210-930f81c57583
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,405 - Sevona yet not Sevona"
+slug: 0084-chapter-1405-sevona-yet-not-sevona
+partOf: defiance-of-the-fall
+position: 84
+ownLength: 2786
+unit: words
+publishedAt: 2026-03-01
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3105652/chapter-1405-sevona-yet-not-sevona"
+royalRoadId: "3105652"
+---
+
+“Couldn’t you have given me a pillow too? That’s the least a benevolent master ought to do,” Zac muttered as he took in the surroundings.
+
+The Hall of Abundance had undergone a drastic transformation. The hanging moon was gone, replaced by a tranquil night sky. There was no trace of the dimensional tear or August, for that matter. Idiche was floating where the Divine Core once hung, her eyes closed in meditation. Her energy fluctuations were already approaching Late C-grade, and there was a good deal of Sevona’s divinity in the mix. As shocking as it seemed, Idiche had advanced a whole major grade in half a day, and her aura was still climbing.
+
+“How is she?” Zac asked in a low voice.
+
+“It seems stable. She quickly got things under control after you closed the doorway,” Esmeralda sighed. “It shouldn’t be much longer.”
+
+It took a moment for Zac to deduce the mix of emotions on Esmeralda’s face and a while longer to understand the reason behind them. Esmeralda was looking at the meditating Idiche with longing and jealousy. It wasn’t because the Vice Guild Leader got her hands on the ultimate treasure of the trial, an item holding the aura of a Stellar Wanderer. In some sense, Idiche was returning to her origin, becoming the Goddess Sevona.
+
+Wasn’t Esmeralda’s goal in coming all this way the same? She was essentially watching someone else live her dream.
+
+“We’re almost there. I’d be surprised if I’m not directly promoted to an Inner Disciple after this mission. And we’ve got plenty of Potentiality already,” Zac comforted.
+
+It was no exaggeration. The tally on his Disciple Token had skyrocketed to 29,171 since he checked last time, and Zac had a feeling there’d be a final payout when Idiche finished her transformation. There might even be a bonus waiting for him when the dust settled.
+
+“I know, I know,” Esmeralda nodded before throwing over the [Fuxi Mountain Gate]. “Here, don’t forget your head basher.”
+
+Zac tsked with annoyance upon failing to pour Mental Energy into the opening. The Void Treasure was back to normal, and it felt noticeably sturdier than before. Things had been hectic by the end, but Zac was certain it had absorbed a hefty amount of Void Energy at the end. Most likely, there’d been a gap of nothingness between dimensions that leaked into August’s gate.
+
+The influx should have helped the [Fuxi Mountain Gate] fix some of its damage. However, the Void Treasure had also swallowed a huge amount of energy from the Peaks of Fantasy and Continuum. A storm raged within the treasure’s subspace that destroyed Zac’s Mental Threads before he could check out the situation. Zac wasn’t worried that the platform would be damaged—August wasn’t qualified—but it would be a while before he could access it.
+
+Zac chucked the miniature mountain into [Purity of the Void] to let it settle down, at which point he noticed there was already a report waiting from his human half. They’d left Saṃghāta and were back on the Hollow Chasm’s ledges. There’d been some surprises by the exit, but nothing Tavza couldn’t handle. They were still not ready to continue their climb, so they’d created another hideout on the ledge.
+
+The spiritual brush was subdued, and Ogras was quite taken with it. Zac wasn’t surprised. The magical brush appeared to be a mixed-meaning Spirit Tool of Order and Illusions. It didn’t exactly align with the demon’s Daos, but the way Zac used his weapons was by no means the norm. The brush was extremely powerful, and not everyone needed their weapons to be life-long companions.
+
+Even if Ogras couldn’t fully bring out its power, it would serve as a strong complement until he reached Peak Hegemony. After that, he could swap it out for something else. Not having perfectly aligned spirituality was often considered an upside. Many cultivators would intentionally pick up tools with features that complemented their path.
+
+The best piece of news was that the holy flames had spread to his other half, ensuring his bodies remained balanced. Zac sent an update on how things played out on his end, urging them to stay hidden for a day longer. The hunt wasn’t over, and there was still a risk that August was preparing a last-ditch gambit.
+
+“So what happened with that dour fella? Did he and the Centigrade Elemental take each other out like we hoped? There was nothing left when I checked the lobby earlier?” Esmeralda asked, dragging Zac out of his thoughts.
+
+“Something like that,” Zac smiled before describing the chaotic four-way battle.
+
+“So the burst of Continuum I sensed was the Elemental running with his tail between his legs. Serves him right, trying to steal my—ahem—our Potentiality,” Esmeralda laughed. “It should have been the Pryer’s protective arrays, something similar to the marks Old Man Sendor left on you. He’ll hopefully keep himself in check now that it’s gone.”
+
+“Let’s hope so,” Zac agreed.
+
+“And that sage hurried all the way here just to die? He should’ve just stayed on the gondola like he was supposed to,” Esmeralda huffed.
+
+“I think it was Descartes who fished him ahead of schedule,” Zac said.
+
+He still hadn’t forgotten Descartes’ earlier words. Someone had warned him that there’d be more Flamebearers appearing. Zac first thought it was the corrupted invaders or perhaps even the Sangha. Now, he leaned toward it being Xiphos who sent the message. The Enkindling Sage was essentially using Descartes to sound out the “specters,” as he called the real trialtakers. Zac’s triggering the real Empyrean Chalice had exposed the secrets Xiphos sought and more.
+
+“Don’t feel too bad about his sacrifice. It’s no coincidence the Limitless Empire rose to the very peak. Its people were much too enthusiastic in throwing away their lives. How could normal factions with their corrupt officials and internal strife compete?” Esmeralda looked at Zac askance. “And now you’re one of them.”
+
+“I’d like to think of myself as an outside contractor,” Zac said with a wry smile.
+
+“Well, the job you’ve been contracted for is no laughing matter, and you already have enough old monsters gunning for you,” Esmeralda said before perking up. “As expected of my disciple. If you don’t have a dozen Supremacies cursing your name, are you even alive? Just keep running, keep filling your pockets, and everything else will work itself out.”
+
+“On that note, did you find anything while looking around?” Zac asked.
+
+“There’s not so much as a single coin left behind in this wretched place,” Esmeralda complained, suddenly looking physically ill.
+
+Zac sighed. If Esmeralda said there wasn’t anything of note left in the lodge, then there wasn’t. He’d hoped there would be more rewards waiting for them at the end of the hunt. The Potentiality was earned, and Xiphos’ blessing couldn’t really be considered an opportunity.
+
+“At least there are no more enemies,” Zac said as much to comfort himself as the grumpy toad.
+
+“If there are, they’re stuck outside,” Esmeralda said. “The lodge shut its gates shortly after you knocked yourself out. There’s no blue light shining through the gaps either.”
+
+“Then let’s pray it’s reinforcements waiting on the other side,” Zac mused.
+
+“Whoever it is, I’m sure they’re hanging on the door. I bet they’re dying to know what’s happening in here,” Esmeralda snickered.
+
+The Hall of Abundance grew silent soon after as they focused on recovery. Apart from the stubborn bump, Zac was recovering faster than expected. Part of it could be explained by the lingering effects of Xiphos’s impartment, but Idiche’s warm halo also had a nourishing effect better than any recovery array that Zac had used.
+
+Two hours later, Idiche began releasing steady pulses made of pure divinity. Her transformation was reaching its final stages. Esmeralda’s eyes gleamed as she looked up with anticipation.
+
+“A goddess reborn… She must have some goodies stashed away, don’t you think?”
+
+“If all else fails, we can ask her to create some nice illusions,” Zac whispered while pointing at his C-grade [Mercurial Sack].
+
+Esmeralda had already mentioned there’d been no tribulations or churning clouds when Idiche advanced through the stages, and neither was there one this time. However, it quickly became evident that the nondescript sprint through the stages would end in a spectacular climax. The billowing coming from Idiche’s body soon forced Zac and Esmeralda into the hallway as the Hall of Abundance filled with golden splendor.
+
+Then, a tremendous force that scattered Zac’s thoughts erupted, and the divinity that filled the chamber was poured into the sky. Idiche released an overwhelming pillar of ancient prowess into the sky. It was countless times grander than the small beam of moonlight, completely filling the twenty-meter-wide skyroof above.
+
+A band of runes vaguely similar to the invasion’s large-scale magic circles appeared on the ceiling. They interacted with the pillar somehow, but there was no way to tell what was happening outside. The only change to Zac’s immediate surroundings was that the smell of rot and decay was being swept away.
+
+The beam kept going for a full ten minutes before it winked out. Idiche was finally visible again.
+
+There were no longer two distinct energy signatures coming from her body. It had fused into a perfected whole that took from both sides. Reaching a harmonic state of oneness was enough to bring Idiche to the very limits of Monarchy, but she lacked the heavenly pressure of an Autarch.
+
+Truthfully, Zac had expected more. Something equivalent to a Divine Monarch was a far cry from August’s power, who possessed a cultivation level equivalent to an advanced Autarch. Then again, she’d just awakened, and her cultivation was augmented by the unfathomable echoes of Ancient Arcana. Idiche’s growth could very well keep going.
+
+“The spatial integrity... it’s been reinforced,” Esmeralda whispered while sniffing the air. “No one will be opening dimensional gates any time soon.”
+
+Zac breathed out in relief, knowing that the threat was officially dealt with. Even if there were some stragglers left on the island, how could they possibly deal with Idiche in her current state? The thought made Zac imagine Sevona unleashing waves of destruction on her island to erase any traces of August’s coup, and he suddenly wasn’t so sure if he was safe.
+
+“Should we...” Zac drawled, but it was too late to leave.
+
+Idiche had opened her eyes, and she was staring right at them. The lack of hostility and divine judgment was good news, yet Zac’s stomach still churned as he walked back into the Hall of Abundance. There was barely anything familiar about the current Idiche. Her expression, bearing, and even some of her features—everything had changed. If not for the familiar traces in her aura, Zac wouldn’t have known they were dealing with their old companion.
+
+“Should I call you Idiche or Sevona?” Zac tentatively asked as he walked over.
+
+“I am neither. I am both,” Idiche said, her eyes glimmering with ancient starlight.
+
+“Good, that clears things up,” Esmeralda muttered under her breath.
+
+Idiche smiled, and Zac’s heart lurched when the Hall of Abundance was replaced by another scene. They’d been transported to Aylen Gan, the capital of Sevona’s Divine Kingdom, and they were standing in the very same garden where the vision started. Except this time, they’d been sent here in person, and they weren’t alone.
+
+Apart from Esmeralda and Sevona-yet-not-Sevona, there was a member of an unfamiliar humanoid race. She had the vibrant aura of a youth who’d just set out on the path of cultivation, and she could barely be considered E-grade. Despite the discrepancies, the location and her garb of office identified her as Sevona.
+
+“A very long time ago, a girl lost her parents to sickness,” Idiche said, her words eliciting no reaction from the unfamiliar alien. She kept vacantly looking up at the starry sky. “She inherited the mantle of office at a time when the kingdom faced the crisis of a malignant plague. The girl did everything in her power to protect her people and was lauded as a saint.
+
+“The plague was eventually contained, but neighboring countries were already looking to take advantage of the kingdom’s weakened state. The girl faced the threat head-on, knowing a new set of challenges would be the only reward for victory. Whenever the pressures of office grew too much to bear, she would visit this garden to look at the stars,” Idiche said, her pose mirroring that of the adolescent Sevona’s.
+
+“One day, the stars looked back.”
+
+Zac gasped when two stars grew into enormous eyes that covered the dome of heaven. They contained whole universes and truths transcending the bounds of reality. They saw through the past, present, and future, representing omniscience that couldn’t be grasped by mortal minds. It was a gaze stemming from the earliest eddies of time, the attention of Ancient Arcana.
+
+Idiche stood by his side, silently returning the gaze until the eyes faded. “The Transcendent One had returned from a voyage into the great beyond. For reasons unknown, its attention was drawn to an insignificant kingdom and the young girl tasked with leading it. Eyes met, and Sevona was changed forever.”
+
+Idiche sighed as she walked over to pat Sevona’s head. “However, Sevona was never reborn. There was no such thing as a Divine Kingdom led by a Goddess reincarnating inside the bodies of its citizens. Sevona’s kingdom experienced a period of glory and a longer period of decay. After two hundred thousand years, it fell to the expansion of an aggressive empire.”
+
+“Then why…?” Zac failed to articulate the question.
+
+“Because Sevona was witnessed and remembered by a Stellar Wanderer. Her kingdom lived on in the mind of a being that had witnessed all its possible futures. Much later, the wanderers shed their everlasting coils to raise the firmament of the Heavenly Dao. Their immortal memories became the bedrock of the Ultom Courts, helping it endure Era after Era.”
+
+Idiche sighed, and the tranquil garden was replaced by the chaotic world of the lost plane. Twisted relics and boundless madness attacked Zac’s senses until Idiche erected a barrier that kept them safe.
+
+“Not even the Stellar Wanderers are Eternal. Memories eroded and were discarded to protect the courts. They were left to their own devices.”
+
+With those words, a huge crack appeared in the nauseating mess before them, and a whole section of the Lost Plane fell out. It was the size of a small continent before fragmenting into countless pieces. The vision locked onto one particular mass of corruption as it fell through cracks of reality until it appeared before a familiar landmass.
+
+“Some memories found their way into the Left Imperial Expanse,” Idiche said, her starry eyes full of sorrow. “The memory of Sevona eventually fused with the Peregrine Ocean, disrupting ancient plans. Slumbering souls with no connection to Sevona or her kingdom were dragged inside and forced to play out unfamiliar roles. The faded memory grew in power with every cycle of sacrifices, but it also grew more twisted.
+
+They were back in the Hall of Abundance the next moment.
+
+“Thanks to you, the cycle has ended. Sevona’s memories and existence are now mine. I will not allow them to bring any further harm to my fellow disciples,” Idiche declared.
+
+“Sevona yet not Sevona,” Zac sighed.
+
+It was no wonder there was such a discrepancy between August and Sevona in the vision and the power they exhibited now. The August they fought was the fabrication of a Stellar Wanderer’s stubborn memory that had fed on countless memory lanterns.
+
+The revelation also meant that Sevona’s memory was a disruptive component thrown into the Omnipresence Chamber. It didn’t just damage the Grand Array with tremendous amounts of corruption; feeding on its souls meant the memories were forced to change. Zac glanced at Idiche, guessing she was only the latest of countless “reincarnations.” Each cycle, the recorded reality would deviate further from the truth.
+
+Finally, that destructive cycle had come to an end thanks to outside agents bringing the winds of change.
+
+Idiche looked to the sky once more. “Poor August. For Sevona’s most loyal guardian to be remembered as the sinner who claimed her life… The universe has a twisted sense of humor.”
+
+The silence stretched for a full minute until it was broken by an impatient cough.
+
+“That’s all well and good. You can call yourself Sevona or Lemona for all I care, but you surely haven’t forgotten how we worked ourselves half to death to bring you here?” Esmeralda huffed. “As a grand ancient Goddess, it’s time to bestow your bounty.”
+
+“Uh…” Zac said, only relaxing upon seeing a smile appear on Idiche’s face. “What she said.”

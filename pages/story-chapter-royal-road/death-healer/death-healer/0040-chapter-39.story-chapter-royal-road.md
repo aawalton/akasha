@@ -1,0 +1,153 @@
+---
+id: 2b077801-600e-5479-86ce-c462890d28b1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 39"
+slug: 0040-chapter-39
+partOf: death-healer
+position: 40
+ownLength: 1329
+unit: words
+publishedAt: 2025-06-23
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2380043/chapter-39"
+royalRoadId: "2380043"
+---
+
+The sound of the gong rang through the air.
+
+There was certainly an expectation for Lily to make the first move since she was the weaker fighter. It was really expected by most of the presents that she would lash out and embarrass herself. Perhaps, only her own family, the Pope's family, and a few others knew that Lily was actually a threat.
+
+Those who kept tabs on the various heirs of the Great Families knew that, despite not having trained her talents, Lily's healing feats had been unparalleled. Not even her mother had come remotely close to the level of healing that Lily had displayed as a young child.
+
+However, when everyone saw her calmly waiting for Sextus to attack, even those who didn't know about her talent raised an eyebrow. Some didn't know what to make of that, remaining puzzled at the calm displayed by the blonde.
+
+Some, instead, mocked her.
+
+"How arrogant," one said.
+
+"This is ridiculous. What is she waiting for?"
+
+"I can't wait for the beating to commence."
+
+In a way, everyone had forgotten that this was meant to be just a sparing match and not a duel to the death. The reason was that all the presents excluded the previously mentioned selected few believed that Lily had no chance of winning whatsoever.
+
+Lady Leontina's voice pierced to the silence.
+
+"Stop embarrassing our family!" the woman chided.
+
+Sextus nodded and sighed, looking toward Lily with a frown.
+
+He felt almost bad for the girl.
+
+You have no idea what kind of sleeping dragons you've woken up, Sextus thought.
+
+Even as a man, Sextus would have thought twice. And she was a woman. What was she even thinking?
+
+"I'll show you the difference between someone with a Class and someone without," Sextus said, cracking his neck.
+
+Please, surrender as fast as you can, he thought. I don't want to cripple you.
+
+"[Quartz Knuckles]," Sextus summoned one of his Class Skills and felt the Mana empowering his body, seeping into his muscles.
+
+* * *
+
+Lily frowned.
+
+She had always had a prodigious memory and seeing the crystals growing around Sextus's knuckles, she immediately understood what kind of Class he had gotten.
+
+Crystal—he chose Light and Earth subclasses, which gave him a Crystal Affinity Class. The most defensive Affinity there's.
+
+She hadn't received any news on what Sextus's Class would be, but she had known that it would have been one of the most common combinations, most likely Light and one of the Life-related Affinities.
+
+Lily gritted her teeth because this was one of the worst possibilities. Crystal meant that not only Sextus would be physically much more powerful than her because of his Levels, but this made getting to him much harder. Crystal users were usually tank types, made to resist as many blows as one could imagine from terrible beasts. They were an essential part of Dungeoneering groups.
+
+Sextus sprinted and Lily felt a small mote of relief when she saw how slow he was.
+
+Vespera's faster than this.
+
+What she didn't expect, however, was the use of the Class Skills that came next.
+
+"[Crystal Shield]!"
+
+A wall of crystal appeared right behind Lily and almost tripped her, making her lose her balance.
+
+However, as the fists from Sextus whistled toward her midriff, she felt an unsettling calm take control of her body.
+
+Lily crouched and slipped behind the fist, leaving Sextus stunned by the reaction. Anyone else, especially not a trained warrior, would have panicked at this simple trick.
+
+Feeling Lily's gauntlet about to approach his body, he activated another Skill.
+
+"[Crystal Armor]!"
+
+A thin layer of Crystal appeared all over Setxus body. Despite being solid, it somehow shifted as the boy moved.
+
+Lily's new white gauntlet bounced off the body with a dull clanging sound.
+
+Right after, she rolled to his side, avoiding a possible counterattack. She started shifting on the balls of her feet, moving to the side as Sextus regarded her with interest.
+
+That's a lot of defense. If I go for an attack, I need to hurt him bad. He could tank punches and just grab me and that would be it.
+
+As usual, she didn't even know where these thoughts were coming from, exactly. She was just soaking in them and letting them inform of her body of what to do next. Over the years, and especially over the last month of training, Lily had grown accustomed to riding these battle instincts.
+
+Sextus attacked again and Lily started dodging, measuring him up.
+
+"Your daughter is quite fast," Ennius smiled patronizingly at Adriana as Lily slipped away from every blow of Sextus. "That's not going to win the spar for her, though."
+
+Adriana said nothing in return.
+
+"Cassius," Ennius smiled. "Do you think you would have won this spar at her age?"
+
+"Father, I don't find the comparison useful," Cassius said, clearing his voice. "Lily has not been trained."
+
+"That's not what I hear," Ennius says, turing toward Adriana. "Someone told me your cousin, Cassius, is apparently training with the Gens Cornelia of all people."
+
+"The Gens Cornelia?" Lucretia screeched. "What?"
+
+Lumius looked dazed at the news but then he remembered not to show any emotion.
+
+"Yes, darling," Ennius smiled. "Apparently, your aunt wants to enter her daughter in the Champion's Trial. I mean, your cousin announced that she'd take out the Patriarch of the Gens Aemilia… I took that as a joke, which is why I didn't take any measures to punish her, but it seems both mother and daughter are feeling quite serious about it."
+
+"She's too weak," Lumius said, almost choking on his own saliva. "Look at her. She can just dodge. And we've seen only three out of six of Sextus's Skills."
+
+"Lumius's right," Ennius smiled. "If this is all that the young Lily can do, she could place decently at the Champion's Trial, but going against my son?"
+
+"Brother," Adriana said, feeling her blood boil. "I remind you etiquette. You are primum inter pares, first among your equals, as per the Code of Fulvius. This is the Gens Claudia's estate and even the Pope isn't exempted from the law."
+
+"What?" Ennius frowned.
+
+"Book X, Chapter II, Clauses 1 through 8," Adriana recited pointedly. "You are not to offend the head of any Great Family, brother. In fact, if you checked the law, the punishment can go from lashing to losing a hand. It was apparently done to make sure that Popes wouldn't get too arrogant with their powers and would remember to serve the people and the families—Great Families and minor ones."
+
+"I—" Ennius stuttered.
+
+"You didn't know?" Adriana smiled. "I've been reading up on the law since Lavinia's mother, Fausta Aemilia, passed. It reminds of her."
+
+"Father! Can aunt talk to you—" Lucretia was immediately interrupted by Ennius's hand on her shoulder.
+
+"Silence. Let's just watch your cousin learn her place," Ennius said stiffly.
+
+* * *
+
+Lily just kept dodging and dodging.
+
+What's your next move? She thought.
+
+While it was true that Sextus had Attributes and Skills, the armor that he had summoned for himself consumed both Mana and weighed him down. If he continued like this, he would just get tired. In fact, Lily could already see his breathing getting irregular.
+
+"Sextus!" Lady Leontina screamed. "Stop messing around!"
+
+Lily briefly turned toward Sextus's mother, looking at two malicious eyes trying to bore a hole through her.
+
+"Stop messing around," Lily mimicked the woman's voice. "What are you waiting for, Sextus?"
+
+Sextus, who had been holding back somewhat until that moment, narrowed his eyes.
+
+Yes, show me all your cards.
+
+"[Crystal Shield]," Sextus called.
+
+"Again?" Lily smiled. "The same trick twice?"
+
+But this time, a larger, curved shield block Lily's rear and partially her sides. She didn't fear that because Sextus was still too slow to hit her even so close up.
+
+What she didn't expect was Sextus to barely throw a punch, just extending both his hands forward.
+
+"[Quartz Explosion]."

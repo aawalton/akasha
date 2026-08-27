@@ -1,0 +1,125 @@
+---
+id: 3a00fbb8-db62-596e-aab9-2e1af41a71a8
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 42"
+slug: 0112-b2-chapter-42
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 112
+ownLength: 1403
+unit: words
+ownProgress: 1403
+publishedAt: 2024-02-26
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1532946/b2-chapter-42"
+royalRoadId: "1532946"
+markedReadAt: "2026-06-29T19:09:45.669Z"
+---
+
+Aria
+
+I end up having dinner with Rory and Shirogane at a certain café belonging to a certain prince within the Byrne Clan territory. One that I started visiting on the regular, even if the prince himself isn’t actually here. Something about having to deal with his royal duties on Atlantis.
+
+He stopped by the Clan to set up his café here not long after the war came to an end. And this one has a very different feel to it than his café on Eternus had.
+
+Especially during the winter like right now, when there’s snow covering the trees. Which makes for a similar yet still different scenery towards what Luke’s café had.
+
+I’m still planning on visiting his café again, of course. Luke’s. Back on Vortel. But not for a while.
+
+I wouldn’t be surprised if Vortel has a bunch of people watching its entrances and the world itself for me. So I can’t really go there.
+
+Which is rather unfortunate.
+
+“You heading to Atlantis with Little Ari?” Rory asks Shirogane after we get our drinks at our usual table next to a window, and the guy – who finally began to open up to us a bit and return to his original personality that I saw when first meeting him – quickly nods his head.
+
+“Yep, planning on going there with her,” he says before taking a sip of his coffee. “I’m her contracted merchant after all.”
+
+He still goes into that ‘business mode’ whenever we’re doing, well, business though. But that might be for the best.
+
+The man can be a bit of a klutz sometimes when he isn’t in his business mode.
+
+“You three enjoyin yer evenin’?” the shift manager of the café – a lukian woman named Ríona Dáire – asks as she walks up to us with a tray balanced on one hand. She has long brown hair with a rather large figure and is actually quite tall for a lukian. And Azura introduced her to me when I came here the first time, back when he was actually here instead of doing royal stuff.
+
+“Yep, thanks ma’am!” Shirogane says with a smile at the same time as Rory answers, “Yeah.”
+
+I just nod my head at her with a smile on my face.
+
+“Good ta see it,” she says before continuing on past us to another table.
+
+Rory begins to look over the newspaper sitting on the table in front of her meanwhile Shirogane just gets on his phone, seemingly looking at something he calls a ‘stock market’ that he’s been looking into recently. Which I have no idea what is.
+
+So I slowly begin sipping my wine while looking out the window at the passersby who are all going about in the snow amidst the wood and metal buildings, with the occasional vehicle driving by the street.
+
+Generally cars aren’t all that common on Luk’tar because of the significant number of trees and small number of roads, but they are definitely still a thing. Particularly in the cities like this one.
+
+And as I watch, I can’t help but wonder what the next world I visit will be like.
+
+From what I’ve heard, the entire world of Atlantis is covered in water. Just like Eternus. But Atlantean cities are all underwater unlike Eternus. Which’ll be interesting for me.
+
+The Gate itself apparently leads to an underwater city. Albeit not the capital of Atlantis.
+
+It does lead to a city close to the capital though. So there’s that.
+
+And their capital is the closest city to their Hunter’s Spot.
+
+Unfortunately I’ll likely end up taxed if I use their Hunter’s Spot, but it is what it is. And I don’t really need much more coin right now, considering how overflowing my metaphorical coin pouch is already.
+
+So I don’t really care much about that part.
+
+I’m more interested in what types of mana creatures and resources are in their Hunter’s Spots. And the scenery. Always gotta love the scenery.
+
+The Hunter’s Bays on Eternus were beautiful when underwater, albeit terrifying at the same time. Meanwhile the Grand Trees on Luk’tar are all very beautiful as well. But without the terrifying aspect for me. Other than those nasty birds that like to sneak up on me and gobble me up.
+
+A pain.
+
+Even if they made for good coin after I got out. Eventually.
+
+But for the Atlantis Hunter’s Spot? It’s a certain region of their ocean. A massive region. And it’s separated by ‘ring’. Where each ring of the ocean is a tier just like the other Hunter’s Spots. And the closer you get to the center of the Hunter’s Spot, known as the Grand Ocean, the higher the Tier.
+
+One way or another, my next little adventure will be an interesting one.
+
+The next day
+
+I finally let out a short laugh at the System Message I get for hitting level twenty the moment I finish killing the deer through shooting it in the head. Even if I feel a little disappointed that I’m not getting any new skills for the level-up.
+
+[User has met the requirements to reach level 20. User’s level has been updated to level 20. New requirements to reach level 21 are as follows: 0/120000 beings have been granted Death.]
+
+Well, that’s a lot of kills I need to make.
+
+The only reason I was even able to get this high a level so soon was because I realized that I can use fire in the form of my soul fire. In a Grand Tree. Against trees.
+
+Burning a forest always works out well after all, even if said forest is inside of a giant tree.
+
+Certainly sped up the process of dealing with the trees. Even if I got less profit from doing it.
+
+But how am I going to get to 120000 kills on Atlantis… maybe those fish schools count? I think I read somewhere that there were a lot of schools of fish packed together in the lower Tiers. And the middle Tiers. And the high Tiers.
+
+Okay, in the Grand Ocean in general.
+
+I glance to the side as I begin ordering all of my Death Spirits to return to me. Then I just kind of wait until they all arrive before gathering everything I need up and sending the fellas back to the Plane of Death.
+
+And without hesitation, I march on through the third Tier of the Grand Tree, heading towards the exterior before stopping at the edge of the tree and looking down. Then, for what will be the last time, I step off of the side of the tree and begin plummeting down below.
+
+Also for the last time, I turn into a paste on the ground before recovering to find a man standing right in front of me, looking more than a little terrified and disturbed.
+
+But I act like I wasn’t there and quickly make my way towards the station.
+
+They’ll be fine.
+
+I stop at the station to trade everything in before immediately beginning to head towards my little manor home, where I gather everything up real quick while sending a message to both Rory and Shirogane about my reaching level 20. And once I have everything together, I begin making my way towards the teleportation hub. The place that lets people teleport between the cities of the Byrne Clan.
+
+A rather new and nice setup that I’ve grown to like. Even if I don’t use it much.
+
+After arriving at the teleportation hub, I wait for Rory and Shirogane to arrive. And once they do arrive, both Shirogane and I say our goodbyes to Rory. A process that has some tears in Shirogane’s case – his not being in business mode right now – and more tears in Rory’s case. But none in mine.
+
+Because I don’t plan on this being the last time I see her.
+
+I don’t say final goodbyes after all.
+
+I just say farewells until the next time I see them.
+
+Same with Hannah and the others on Vortel. And Luke. And that random dude working at the station in the Hunter’s Bay whose name I forgot.
+
+I’ll never forget any of them.
+
+A smile stretches across my lips at that thought before both me and Shirogane head through the portal to the former capital of the Sullivan Clan.
+
+Time to head to Atlantis.

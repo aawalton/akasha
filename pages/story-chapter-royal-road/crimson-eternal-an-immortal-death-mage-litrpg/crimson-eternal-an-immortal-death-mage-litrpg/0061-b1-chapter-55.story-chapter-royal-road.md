@@ -1,0 +1,107 @@
+---
+id: 923a0c4e-e96c-5f4f-9a3f-9c9b10f0760a
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 55"
+slug: 0061-b1-chapter-55
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 61
+ownLength: 1577
+unit: words
+ownProgress: 1577
+publishedAt: 2024-01-26
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1495489/b1-chapter-55"
+royalRoadId: "1495489"
+markedReadAt: "2026-06-29T19:07:58.954Z"
+---
+
+Aria
+
+The last order of business for me after finishing up my conversation with the Five Star Merchant is to meet with my team for our daily debriefing in the guy’s dormitory building. The one made just for the commander, Snow, Vargas, and Rogers.
+
+A meeting… I’m not looking forward to.
+
+We meet as always when we’re at this base in their common living room, with some snacks laid out on the table as we all sit on various couches.
+
+And before we begin, I raise my hand and state, “I have something I want to tell you all before we proceed.” My eyes directly meet the commander’s as I add, “It’s important.”
+
+Not only is he surprised, but the others appear so as well. But he still nods his head and says, “Go ahead,” anyways.
+
+I take in a deep, shaky breath, before beginning. “As you all know, I’ve been in the military ever since I was nine years old. And while I can’t go into the specifics, I can at least tell you it wasn’t my choice to enter the military.” They all nod their heads, clearly having already guessed that. Although they seem surprised I’m talking about it. “Immediately after joining the military, I was put on a team of very kind people who treated me like I was their own daughter. We spent about a year together, and throughout that time, I grew to care about them as if they were my family. There were still dark times where I cried myself to sleep at night, but I was starting to move past things, even just a little bit.”
+
+The atmosphere in the room plummets as I talk, everyone growing tense. Likely knowing what happens next.
+
+“It was a little over a year after I first joined the team,” I continue, feeling a slight wetness in my eyes as I look down at my hands from my seat on the couch. “We were sent on a mission to the Southern Pass where we were meant to scout the Al Mountain Pass for signs of the Arterians setting up camp there.” I almost choke up. “But in the end, I was the only one to make it back…”
+
+I see tears building up in Hannah’s eyes, meanwhile the others all grimace.
+
+“I can’t say anymore about the details other than it was a trap,” I tell them while wiping my eyes, briefly thinking about the contract I was forced to sign a while back. “The Arterians were given information that we’d be there with a Category 5. But since they didn’t realize the Category 5 would be a child, they just assumed I was there as an Ability Holder, and that they were lied to. So they killed everyone and left.” I suck in a breath of air, finding it increasingly hard to speak. “I later woke up in a coffin at a ceremony.” I lift my eyes to look at the others, finding the horror in their own. “My own memorial ceremony, along with that of the people I had grown to cherish.”
+
+Hannah bursts out of her seat and pulls me into a hug. But I don’t stop talking even as my cheek is pressed into her chest, her arms around my head. An awkward position.
+
+“After that, I spent the next nine years avoiding everyone. If someone tried to treat me kindly, as they would a child, I avoided them. If someone tried to become friends with me, I would send them away as coldly as I could,” I tell them, feeling tears running down my face. But by now, I can speak clearly. As if I’m growing numbed to the pain despite the tears. “This didn’t always work, since it was hard to act like I had no interest in talking with anyone around me. And I ended up being caught in two more traps meant to send me off to Arteria. Traps in which my teammates ended up dead again. But eventually the traps stopped. Their purpose already having been voided. Long since deemed impossible.”
+
+I feel wetness on my head as Hannah no doubt cries. And to my surprise, the commander joins the hug, and so does Rogers.
+
+But I keep talking, “By that point I truly began to grow cold towards others. Apathetic in a lot of ways. I just stopped caring as much about others or even myself. All I knew about by then was pain and killing. I had become a weapon myself. A blade.”
+
+Now Vargas joins in, which is rather shocking.
+
+“Eventually my ranking grew more and more, and the people behind this couldn’t effectively force me into doing much anymore,” I tell them, not even able to move anymore because of the people squeezing me. “Then I met you all, and something in me just felt… wrong… to push you away. But I tried, nonetheless.”
+
+I try to raise my head to look at Hannah, but the tears keep coming more and more as I once again have difficulty speaking, “But Hannah… she just kept pushing. And I couldn’t turn her away. Not when I thought about my own loneliness. Not when I saw how hard she was…” my throat closes up a little as my crying makes it hard to continue.
+
+I feel Hannah stroking my hair and I begin to truly cry.
+
+At this point Snow joins the hug.
+
+After a few minutes of crying, everyone finally separates, and I finish what I was trying to say, “Despite my attempts otherwise, I grew to care about you idiots.” They all laugh a little at that. Except Vargas, of course. Because he’s Vargas. “So I wanted to tell you how thankful I am for you, even if I don’t show it much.” I look down a little. “I think my past has kind of killed my expression of emotion at this point.”
+
+“Don’t worry,” Hannah says in a gentle tone of voice while reaching over and grabbing my hand from its place on my knee and squeezing it. “Things’ll get better over time. I’m sure of it.” She glances at the others and says, “Right? Guys?”
+
+They all agree with her. And when they mention how things will get better as we spend more time together, working as a team, I can’t help the bitter smile that spreads across my face. One none of the others can see.
+
+Right. I’m going to have to leave them soon.
+
+If the generals find out I’m Death, then there’s no telling what they’ll do.
+
+From the stories of the other Horsemen, not a single one of them didn’t end up being an apocalyptic force their world had to face. So most likely, the Republic will turn against me and try to lock me away. Meanwhile the others here will end up facing harsh scrutiny, and will have to live out their lives knowing I’m locked away.
+
+And while I don’t think they’ll hate me for what I am, I don’t know that for sure either.
+
+At least, if I leave now, even if the truth is revealed – which it will be when they try to revive the former emperor – they won’t publicize it. After all, it’d be bad publicity to know that Death herself was in their nation being reveled as a hero.
+
+Just what would the other worlds in the System think?
+
+They wouldn’t be happy.
+
+I feel more tears fall down my face, which the others do notice, and Hannah squeezes my hand slightly.
+
+For now, though, I’m just glad to be able to spend some time with them. Even if it is only for now.
+
+On that note, one last thing I have to say.
+
+I raise my head again and begin speaking once more, “I’ve cherished our time together. All of it.” Mostly. “And I always will, long after we eventually part ways.” I give them a full smile despite my tears as I finish, “Thank you, for bringing some light back into my life.”
+
+They all go through their lines of saying things like, “We’ll be a team until we croak of old age,” or “You don’t have to worry about having to remember us since we’ll be making more memories together,” and more. But I just keep smiling at them.
+
+And, if I’m being honest, the part about them croaking from old age… hits me hard despite my visible reaction.
+
+Because it also reminds me of the other reason I avoid people.
+
+Since I will never age, but they will.
+
+Even with the System, they will still age unless they never stop leveling.
+
+So I will eventually be left alone again, just after I spend decades with them caring even more about them instead of the amount I care now.
+
+Another reason for me to leave. Before I grow to care about them any more.
+
+I take in a shaky breath before forcing myself to relax and taking a deep breath to calm myself.
+
+We all talk for a little bit more, with us talking a little bit about Hannah’s sister and her time spent with her since her sister’s revival, then the commander brings us back on track again to the point of the meeting.
+
+Finally, after the meeting is over, I turn around at the door and tell them, “Goodbye.”
+
+They all wave a brief farewell, expecting to see me again.
+
+But they won’t.

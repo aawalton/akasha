@@ -1,0 +1,931 @@
+---
+id: 23eb355b-24fe-5463-9559-b45dae50fbc2
+page-type-slug: story-chapter-royal-road
+title: "157: Speculation"
+slug: 0157-157-speculation
+partOf: delve
+position: 157
+ownLength: 6180
+unit: words
+publishedAt: 2021-08-08
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/730133/157-speculation"
+royalRoadId: "730133"
+---
+
+“This sucks,” Rain said tiredly, sweeping at the glittery dirt with his makeshift broom. Dawn had broken fifteen minutes ago. It had been a long, long night. At the moment, he was regretting his suggestion to clean up before going to bed.
+
+“You’re the one that told me to dump Attract,” Ameliah said, standing beside him, sweeping vigorously with a broom of her own. “I could have done all this with a snap of my fingers, but no.”
+
+“Oh, shove off,” Rain said. “It was just as much your idea as it was mine. I didn’t force you to do anything. You could always retake it if you—”
+
+He stopped. There was a low, grating rumble that, tired as he was, it took him a moment to realize was laughter.
+
+“Only humans could complain while sweeping wealth from the ground,” Tallheart said.
+
+“Maybe we wouldn’t be complaining if you were helping,” Ameliah said, puffing a strand of hair out of her face, then leaning on her broom and glaring at him.
+
+Rain nodded, still sweeping. “Yeah, come on, Tallheart. Don’t just stand there. Grab yourself a tree branch.”
+
+“Hmph,” Tallheart said, crossing his arms. “I will make you a sieve. That will be a better use of my skills.”
+
+“Seriously?!” Rain said, stopping. He straightened himself up and pressed a hand to his back in an attempt to relieve a growing kink, then fixed his gaze on the stone-faced smith. “I’ve seen the way you work with wire. Making a sieve will take you all of five minutes.” He grasped his broom again and gave a few demonstratives sweeps. “This is going to take hours.”
+
+“Mmm,” Tallheart said, turning toward his anvil and walking away. “Perhaps you should stop wasting time then.”
+
+un_soul.odt
+
+B
+
+U
+
+I
+
+Color
+
+*
+
+Uncommon Knowledge: The Soul
+
+Warnings
+
+Infohazard
+
+The powers-that-be restrict some aspects of this knowledge
+
+Citation Needed
+
+Contains unverified information
+
+Marked where possible, but this should not be taken as a guarantee
+
+Hard Hat Area
+
+Document is a work in progress
+
+Contains incomplete information or other errors
+
+Capitalization, spelling, and punctuation are not guaranteed
+
+To Do
+
+#todo Link functionality is not implemented yet
+
+Come back and update/fix.
+
+#todo Prove some of this stuff and revise this entire file
+
+See if you can suss out which aspects aren’t restricted, then make a Common Knowledge version for distribution
+
+#todo Think about mind-reader countermeasures
+
+If they can read this, they’ve already cracked English, which means I really don’t need to be careful about what I write in my notes. They’d already know my intent anyway if they can dig in that deeply. If not, can I create defenses of some sort? What is the relationship between the mind and the soul? Damn it, create Uncommon Knowledge: The Mind and link. Also, if you are a mind reader and are reading this right now, could you kindly not?
+
+#todo General Cleanup
+
+See green text in particular
+
+Entity
+
+According to the local definition, an entity is anything with a soul
+
+Sapient entities, such as humans, cervidians, and other rumored/unconfirmed races (see Common Knowledge: Hogwash), have ‘full souls.’
+
+Full souls allow awakening.
+
+Larger, non-sapient entities (animals, animate plants, etc.) have ‘animal souls’ or ‘half souls’
+
+They cannot be awakened
+
+Smaller animals do not count as entities
+
+The line seems to be around the size of a mouse, but there is some blur
+
+See Misc Experiments
+
+Insects and the like aren’t even considered to be ‘alive’ by most people
+
+Monsters have ‘monstrous souls’ or ‘demonic souls’.
+
+It is generally accepted that monsters can neither level nor reproduce
+
+There are rumors to the contrary in both cases
+
+See Common Knowledge: Hogwash
+
+The level of tamed monsters can be increased
+
+See Train Monster
+
+Unclear if their souls are modified to allow this
+
+For swarm monsters, one soul is shared by all physical bodies
+
+Bodies must stay within the domain of the swarm’s soul
+
+Bizarre thought: Humans might be swarms as well!
+
+Symbiotic gut bacteria might count…
+
+#todo Test this...somehow. Or don’t. Priorities.
+
+Domain
+
+The physical space controlled by an entity’s soul
+
+Most noticeable with metal equipment/mana interaction
+
+#todo Create Common Knowledge: Domain
+
+Compile scattered notes concerning skill interactions with domains, such as Flight, Healing Word, etc.
+
+Soulspace
+
+Another plane of existence
+
+Official term not known, if there is one
+
+People that have experienced it describe it as “a void” or “a dark place” but not “THE void” or anything like that.
+
+#todo interview more awakened on this topic.
+
+People are brought to soulspace when receiving accolades
+
+Other methods of visiting soulspace exist, such as the Majistraal Obelisk
+
+System interfaces do function within soulspace, and skills may be activated
+
+Time is accelerated
+
+#todo copy section from Majistraal Obelisk document here, then delete
+
+Geometrically, an MC Escher hellscape
+
+Physical proximity in the real world does seem to correlate somewhat
+
+I was able to see Wallace when our domains overlapped
+
+Speculation: Magic/Skills can have soulspace components
+
+When Wallace used a healing spell, I could see it manifest
+
+Speculation: Watch Reading works by accessing soulspace in some way
+
+Soulform
+
+The form that an entity takes in soulspace
+
+Official term not known, if there is one
+
+Known Examples
+
+Rain: Hologram of Rain (glitchy after soul damage)
+
+Wallace: Red Bubble
+
+#todo experiment idea: enter soul while in physical contact with someone, go to tear, look out into soulspace. Can I see them out there?
+
+#todo anchor stations and tethers so I don’t fall out
+
+#todo move all experiment ideas to Misc Experiments, then sort and prioritize
+
+Some objects appear physically in soulspace
+
+Known Examples
+
+Accolades
+
+Majistraal Obelisk
+
+Inside the Soul
+
+Possible official name: “The Inner Self”
+
+Passing remark from Bartum, who is not an expert on the subject
+
+Accessed through meditation
+
+Various structures exist
+
+Much of the inner reality is defined by the expectations of the entity
+
+#todo Which aspects? What are the limits?
+
+Soul: POV
+
+Within the soul, senses extend from the Point of View
+
+At low essence totals, POV is invisible
+
+As essence is converted, the core forms, growing out of the POV
+
+#todo Is this everyone, or just me?
+
+Immaterial Senses
+
+Defaults to something approximating normal vision
+
+With focus, POV can be split from the current anchor (core/avatar) and moved/expanded/focused
+
+Approaches omniscience within the occupied volume, though at a low resolution
+
+POV reverts to last core/avatar if focus is lost
+
+Disrupted by chaotic essence
+
+Blocked by solid, non-transparent essence
+
+Material Senses
+
+As Immaterial Senses, but less disrupted by chaos
+
+Sight, hearing, taste, etc. function over a greater range, even when fully immersed
+
+Will
+
+POV limits where Will may be applied. See Soul: Will.
+
+Soul: Core
+
+The linkage between the soul and the body
+
+Acknowledged as a “thing” by the Majistraal Obelisk
+
+More generally, the source of an entity’s power
+
+#todo this point is highly speculative
+
+Appears as a glowing gem
+
+Size increases with available pure essence
+
+#todo or with chaos-free volume?
+
+Brightness increases with character level
+
+The Majistraal Obelisk reported ‘core rank’ as a stat
+
+Mine was apparently too low for it to be happy talking to me
+
+Attributes are a property of the core
+
+#todo This is an assumption, prove/disprove
+
+The Majistraal Obelisk attempted to report Focus Sync and had a ‘callback’ error
+
+Core generates (how?) essence (mist), storing in soul for use
+
+Rate corresponding to core size/brightness
+
+#todo Highly speculative. Test.
+
+#todo How is essence used and for what? Is it consumed by spells? What is the relationship to mana? Experiments are already defined in Misc Experiments. Run them and then update this section.
+
+Soul: Avatar
+
+A constructed anchor for the POV
+
+#todo is this just me?
+
+Built from purified essence
+
+Even when not in them, I have limited awareness of valid avatars
+
+Can tell where they are and their condition, but not anything about their surroundings
+
+#todo can I improve this?
+
+Must be ‘lifelike’
+
+See Misc Experiments
+
+Soul: Essence
+
+Essence is the underlying basis of all reality
+
+The notes here pertain to how essence manifests within the soul only
+
+For more, see Uncommon Knowledge: Essence
+
+Forms the bulk substance of the soul
+
+In unmodified form, essence is gaseous
+
+Can be ‘pure’, appearing as white mist
+
+Can be ‘chaotic’, appearing as orange gas
+
+Chaotic essence carries slight elemental aspects of the local zone
+
+Heat/Chem in the Ashen Jungle
+
+The ratio of pure to chaotic essence is known as “fragmentation” according to the Majistraal Obelisk
+
+#todo Verify this assumption somehow. It could have been referring to something else.
+
+My fragmentation was reported as 99%, and this merited a warning
+
+Chaotic essence may be condensed and purified with an effort of will
+
+Limited to 1 unit at a time
+
+See Misc Experiments
+
+Dozer can do this too
+
+#todo How? Actually, Dozer-In-Soul should get its own section, or maybe an entire document. Later.
+
+Pure essence may be shaped into physical form
+
+Modified essence can be hardened/softened/made transparent/liquid, etc.
+
+#todo Just realized. There is sound in my soul, which means there is air, but I didn’t make it, at least, not deliberately. Is it possible to manipulate essence unconsciously? How can I test that? Maybe it is just pure essence, but too diffuse for me to see? Everything in the soul is essence in some form, maybe? Come up with some experiments.
+
+Soul: Will
+
+The force by which elements of the soul may be manipulated
+
+Will correlates to stats in some way, notably Strength, possibly Endurance
+
+See Misc Experiments
+
+Will is limited by free space within the soul
+
+Only at very low levels
+
+Not really a factor anymore with the current size of the Bastion
+
+Exerting Will seems to carry little to no cost
+
+There is some mental fatigue, but more research is needed
+
+Will also allows the physics simulation to be tweaked
+
+Gravity, light, etc. can be modified
+
+The Paling
+
+A protective barrier that surrounds the soul
+
+It is a real thing for sure, not just something specific to me
+
+In Vejik, the term for it is Me’ke-Tar Tek, meaning ‘the barrier which divides’
+
+Followers of Dystees call it the ‘Divine Envelope’
+
+Acknowledged by the Watch
+
+Acknowledged by the Majistraal Obelisk
+
+Regulates essence pressure within the soul
+
+‘Homeostasis’ for whatever level you are supposed to be
+
+Diffusion rate is slow
+
+#todo measure
+
+See The Barnacle Incident
+
+Can be damaged
+
+The Majistraal Obelisk reported “paling integrity” as a stat.
+
+Mine was at 74%
+
+This merited a warning
+
+I suspect it is even lower now, but how low?
+
+#todo test
+
+how?
+
+At 0%...you die?
+
+#todo don’t test
+
+Awakened Palings
+
+The Watch can approximate a person’s power by looking at their paling
+
+See Watch Reading
+
+According to Bartum
+
+Undergoes daily (at true dawn by default) essence exchange
+
+Unawakened Palings
+
+According to Bartum
+
+‘Weak’ and ‘porous’
+
+Do not undergo essence exchange
+
+Speculation: this is the “natural” state of palings
+
+Speculation: the paling is modified by the awakening process
+
+Unawakened are affected by my doom aura
+
+Speculation: unawakened struggle in the depths, starting at high silver or low gold
+
+Ameliah confirmed, though details are vague
+
+See Common Knowledge: The City of Lights
+
+#todo Ask Mahria about this effect. What is her actual cap? Did her mother bring her to the depths for her awakening? Nobles might know too. Samson’s/Lyn’s/Atyl’s families weren’t gold-rank, though. It might also be something you can adapt to. Need to interview more people about this. Vestvall nobles, maybe? Can unawakened get stronger if they live in the depths for an extended time??? Ameliah and TH both say no, but have no proof. I want to believe.
+
+Animal Palings
+
+Unknown appearance to Watch Reading
+
+Unknown essence exchange
+
+Animals don’t seem to be affected by my doom aura
+
+Animals have been observed in the depths, doing just fine in rank-15 essence
+
+Might also have problems deeper, just like people
+
+More research is needed
+
+Monster Palings
+
+Unknown appearance to Watch Reading
+
+#todo kick self for not asking about this when I had the chance
+
+Unknown essence exchange
+
+Monsters seem to be attracted by my damaged soul
+
+Range is much greater than doom aura
+
+#todo update after tonight’s defense; might just have been initial blowout
+
+Monsters weaken in low-rank zones, suggesting:
+
+Leaky palings
+
+High essence consumption
+
+Monsters don’t need food
+
+“Live” off essence?
+
+Essence Exchange
+
+According to Bartum
+
+First, the paling shrinks, expelling essence from the soul (into soulspace?)
+
+Next, the paling expands, drawing in fresh essence (from soulspace?)
+
+Happens daily
+
+Ameliah and I shouldn’t be able to do it at will based on what Bartum knew.
+
+This is therefore likely to be information restricted by the Watch muckety-mucks, or at least uncommon knowledge.
+
+The Watch higher-ups know I can do this, presumably.
+
+I haven’t been murdered/imprisoned, so it can’t be that bad. Still, maybe don’t teach the entirety of Ascension how to do it until you know for sure.
+
+With my damaged paling, Bartum saw significantly more essence expelled when I triggered the process
+
+Like a blowout from the site of the tear
+
+Speculation: the system has some purpose for the exchange process
+
+Beneficial for the soul?
+
+Beneficial for the world?
+
+#todo experiment?
+
+See Uncommon Knowledge: The System
+
+Leveling
+
+Reverses the essence exchange process
+
+Bartum said it looks like ‘in, then out’ instead of ‘out, then in’
+
+Within my soul, I feel pressure build, then essence condenses and rushes into my core
+
+#todo create a document for theories on breaking the level cap
+
+The Damage
+
+This entire section is highly speculative!!!
+
+#todo implement double underline formatting so I can use fewer exclamation points
+
+While I’m at it, strikethrough
+
+#todo move some of this to Uncommon Knowledge: System
+
+#todo clean up this mess after you run some damn experiments, dingus
+
+Key Premise
+
+The system is an artificial construct, complete with bugs!
+
+Locals say that the system:
+
+Was made by the gods to bring order to the primordial chaos
+
+Was made by the Majistraal to train/guide their young
+
+Has always been there since before the Majistraal AND the gods
+
+Other
+
+See Common Knowledge: Hogwash
+
+Supporting Observations
+
+The system provides ‘experience’ as a reward for performing certain actions
+
+Spending mana, stamina, and health
+
+Killing monsters
+
+Using skills
+
+Skill experience is related to general experience, but different in a few ways, see Uncommon Knowledge: Skills
+
+Experience acts as a currency
+
+Can be ‘spent’ to level
+
+Can be ‘spent’ to unlock skill trees
+
+System tracks current balance as well as lifetime spend
+
+Experience can be ‘pending’
+
+When any monster is killed, the experience total displayed by the system updates immediately, and this can trigger a level-up
+
+When resources (health, mana, stamina) or skills are used, the system grants pending experience instead, and this can not trigger a level-up, nor does it appear on the user’s interface until after essence exchange
+
+There are loopholes, allowing experience to be gained for “free”
+
+Essence Well, obviously, but I’ve spotted a few other potential ones, all on skills that I’ve never seen anyone use.
+
+#todo Can the system be patched? Perhaps the common builds have been fixed to not have these problems. Is the system in any way intelligent/self-correcting? If not…
+
+System is abandonware?
+
+Corollary
+
+If the system is artificial, so is ‘experience’
+
+Unlike essence, experience is just a metric, not anything ‘real’
+
+Pending experience is ‘paid out’ by the system during the essence exchange and leveling processes
+
+On the exhale, some quantity of essence is expelled
+
+#todo how much, and why?
+
+On the inhale, the system injects essence into the soul
+
+Quantity determined by pending experience
+
+#todo ratio?
+
+Consequences
+
+The soul can become overpressurized if there is a discrepancy between the exhale and the inhale
+
+Essence Well can generate experience without using mana!!!
+
+If the overpressure is too great—say, if some idiot tries to exploit the system to get free experience—the paling can rupture
+
+Level Caps
+
+#todo this doesn’t go here, move to Uncommon Knowledge: System
+
+Observation: There is something special about essence monsters that makes the system incentivize killing them
+
+Also: Lairs (accolades are a system-made reward for clearing them?)
+
+Oddly soul-like. Core. Boundary. Essence matter.
+
+Can trigger awakening
+
+#todo update lair notes
+
+Option 1
+
+The system needs something from the blue in order to strengthen the soul of the one that defeated it
+
+“Blue essence” for the paling?
+
+My paling is blue in color.
+
+COINCIDENCE?!
+
+Option 2
+
+Level caps are purely artificial, just like experience, and the system wants blues dead for some other reason
+
+Option 3
+
+Something else
+
+Of options 1 and 2, option 1 seems more likely
+
+If the system just wants blues dead, it wouldn’t hold people back…
+
+Option 3 could be something like a “prove your worth” type condition, particularly if the system was made by the Majistraal as a training tool. Why specific monsters, though? What makes a blue special?
+
+Skills, Stats, and Classes
+
+#todo this doesn’t go here, move to...somewhere. Maybe it does go here. Regardless, clean it up and run some damn experiments already!
+
+More forms of system currency, similar to experience?
+
+Redeem skill points for access to system-granted abilities?
+
+Redeem stat points for modification of your soul/body???
+
+This modification costs the system something?
+
+-or-
+
+Soul/core is only capable of so much modification?
+
+Skills, Stats, and Classes are the system’s way of representing that???
+
+Other
+
+#todo SERIOUSLY! Clean up! Dozer would have a fit!
+
+Sustained, high levels of resource use likely damage the paling/soul as well.
+
+Related to soulstrain in some way, or not?
+
+Domain clash?
+
+Does the paling heal over time?
+
+Can I repair it with hardened essence?
+
+Suture it shut?
+
+#todo connect anchor stations?
+
+Make a plug or patch?
+
+Make a full artificial paling?
+
+Does it need to flex?
+
+Can I level outside the system by manipulating essence density?
+
+Can I make myself into a depth gauge by sensing pressure somehow?
+
+#todo barometer buoys
+
+Half a day later, Rain sat wrapped up in his cloak, staring stubbornly at the window hanging in front of him. After the cleanup, he’d slept fitfully for an hour or two, but then he’d woken and found himself unable to get back to sleep. His brain was too excited. So, making the most of it, he’d turned his focus to compiling this document. It wasn’t going particularly well.
+
+I should just scrap this whole thing and start over.
+
+Rain sighed, glancing at Ameliah. She was bedded down beside him in a nest she’d dug in the soft dirt, safely encased in her new armor, sans helmet. Tallheart was nearby, his hammer clanging steadily as he worked to upgrade Rain’s armor to match. Unwilling as he’d been to help with the cleanup, the smith could hardly be called lazy. Rain’s two hours of sleep were two hours more than Tallheart had gotten.
+
+As if feeling Rain’s gaze on her, Ameliah shifted in her sleep. A moment later, her eyes flickered open. She sat up, yawned enormously, then licked her lips. Her hair was matted with dirt and all snarled into a massive tangle.
+
+Rain smiled, closing his interface with a mental flick to get a better look. He couldn’t help it. He began to laugh.
+
+Ameliah blinked at him blearily. “What’s funny?”
+
+“Your hair,” He fought to control his growing laughter as she raised a hand to investigate. “You look like a tumbleweed.”
+
+“Uh-huh,” Ameliah said, yawning again. “I’m sure that’s very flattering, whatever it is. If you’re done giggling, use Purify, please.”
+
+Rain’s laughter froze in his throat, and his eyebrows shot up. “You swapped it out?”
+
+“Mmm,” Ameliah said, running her armored fingers through her snarled locks ineffectually. “Yesterday afternoon. I already regret it. Now, come on. Stop staring and make with the magic.”
+
+Rain grinned, activating the requested spell and watching as the dirt evaporated from her hair and face. She’s moving on.
+
+Freed of the contamination, the tangles mostly worked themselves out. “Thank you,” Ameliah said, running her fingers through it to get the few that remained. “I don’t think I slept very well.” She cleared her throat, then raised her voice. “SOMEONE is making a lot of NOISE.”
+
+Rain grinned and looked over his shoulder at Tallheart, who was still hammering away.
+
+Ameliah raised her voice further. “Stop that banging! Hey! It’s your turn to rest.”
+
+“Come on, Tallheart,” Rain said when Tallheart didn’t reply. “You’re making me worry about you.”
+
+Tallheart grunted, not looking up. “I am almost finished,” he said without breaking his rhythm. “I will have the final piece ready within a few minutes.”
+
+Rain shook his head. “He’s been impossible. I’ve been up for a few hours already, and I told him I’d keep watch, but he won’t stop.”
+
+“We do not have the luxury of time,” Tallheart said, his hammering becoming more forceful, if anything. “Not if every night is to be like the last.”
+
+“I seriously doubt it will be that bad,” Ameliah said, yawning again. “The attacks stopped well before dawn. I think we depleted the entire jungle, and it isn’t going to recover that quickly.”
+
+“Even so,” Tallheart said, still not breaking rhythm.
+
+“See?” Rain said, jerking his head toward the antlered smith. “Impossible.”
+
+“Mmm,” Ameliah agreed, getting to her feet and stretching. “Well, he does have a point, I guess. We don’t actually know how fast this place will recover.” She looked down at him, then extended a hand, beckoning for him to take it. “What’s with the cloak, anyway? You cold or something? Camping next to a lava lake isn’t hot enough for you?”
+
+Rain ignored her hand, tightening his cloak reflexively. “My Forceweave is in a state. I’m not decent under here.”
+
+“In a state, is it?” Ameliah said with a snort. “What a curious phrase. Now I just want to see even more.” She smiled, then made a show of biting her lip. “This might be the last chance I get to see you without your armor until we’re back on the surface.”
+
+Rain shook his head. “If you’re trying to make me blush, it won’t work.”
+
+Ameliah’s expression became pleading. As with the lip-biting, it was ridiculously exaggerated.
+
+Rain sighed. “Fine.” Accepting her hand, he let her pull him to his feet, his cloak falling partly open as he did. After a moment of hesitation, he shrugged out of it completely. The protective shroud fell away, revealing his transformed body with only the tattered, skin-tight Forceweave to shield him from Ameliah’s gaze. He met her eyes, then smiled, trying to appear more confident than he felt.
+
+While he didn’t have access to a full-length mirror, he knew that the changes were extensive. He was no Incredible Hulk, but he was firmly in Arnold Schwarzenegger territory—as Conan, not the Governator. The embiggening had stopped as of a few days ago. While he was still eating a lot, he had come to realize that was just his new normal—the maintenance cost for his expanded muscles.
+
+And expanded, they were. The Forceweave had been pushed to its limit, then beyond. It had torn open at the shoulders, biceps, thighs, and the side of his chest where it had been slashed open before. Almost everywhere else, the fabric was either worn through, or stretched so thin as to be practically sheer. Fortunately, the padding in his most sensitive area had been sewn double-thick for extra protection, leaving him with some shred of modesty.
+
+It still felt strange, being like this. Unearned. Not bad, though. Ameliah had been right. This body felt like it was his, much more so than any of the avatars he’d created. In fact, he was finding it hard to envision himself in better shape, which, after all the thinking he’d been doing on the nature of the soul, probably wasn’t a coincidence. It was nevertheless going to take some getting used to. Just because he thought he looked good, it didn’t mean he was comfortable standing exposed like this. That was why he was forcing himself to do it.
+
+I need to get over this.
+
+Ameliah was inspecting him with an appreciative expression on her face. Smiling, she looked him up and down, her eyes lingering in several places. It was all Rain could do not to hunch his shoulders and try to cover himself up. There were too many things that needed covering.
+
+“Hmm,” she finally said. She began walking around him in a circle, and Rain had to fight to stand still as she passed behind him. She paused, and he heard her click her tongue softly. “Nice.”
+
+Rain clenched his fists. I will not blush.
+
+Ameliah finished her circle, coming to a stop in front of him, smiling unabashedly.
+
+I. Will. Not. Blush.
+
+Ameliah’s smile widened further, becoming an unmitigated smirk. “I approve. That Forceweave isn’t doing you any favors, though. You should take it off so I can get a better look.” She took a step forward, reaching for his collar. “Here, let me help.”
+
+“Hey now,” Rain said, breaking at last and taking a hasty step back. “This is all I have. The spare clothes I brought would never fit me now.” He glanced at Tallheart, continuing in a pleading tone. “Help me out here, Tallheart.”
+
+Tallheart snorted, finally setting down his hammer to look at them. “As amusing as his shriek would be, please refrain from tearing the Forceweave from his body. Some padding is required. I do not enjoy sewing.”
+
+“Thank you,” Rain said gratefully, raising an open hand in Tallheart’s direction. For once, he’s got my back. Well, kinda. He looked back at Ameliah in time to see her rolling her eyes.
+
+“I wasn’t going to do that,” she said with a huff. “I’m just teasing, not trying to traumatize him.” She pointed rudely at Rain’s face. “Look, he isn’t even blushing. Clearly, I haven’t gone far enough.”
+
+“Hmm,” Tallheart said, walking over to join them. Rain again fought the urge to cover himself. Tallheart stopped to stand in front of him, holding the piece of armor he’d been working on at his side as he took his turn inspecting Rain. After a moment, he snorted. “I believe the tight fabric is merely preventing the blood from reaching his face.”
+
+Ameliah laughed. “You think so?” She tapped her chin thoughtfully. “It is really tight.”
+
+“Mmm,” Tallheart rumbled, dropping the piece of armor to the ground to land with a soft thump. He turned away. “The armor is complete. I will rest now.”
+
+“Damn right you will,” Rain said, relieved to no longer be under scrutiny. I made it. He shook his head, then continued speaking to Tallheart’s back. “You’ve been awake for, what? A day and a half straight? You’re pushing yourself too hard.”
+
+Tallheart stopped, then turned to look at him. He didn’t say anything. After a long moment, he slowly raised an eyebrow.
+
+Ameliah laughed. She then surprised Rain by wrapping an arm around his waist and squeezing him close to her. “You’re cute when you’re being an enormous hypocrite.” Before he could respond to that, she stretched her neck up to kiss him on the cheek. She pulled away almost immediately, spluttering. “Ack, got a hair. Time for a trim, scruffy.”
+
+The next morning, Rain sat uncomfortably against the wall of the cave that led to the Arcane biome, having just woken up. His armor was now jacketed with adamant, just like Ameliah’s, and he was still getting used to the added weight. At the moment, he was ignoring it, focused on the lone dialog hanging in front of him.
+
+Progression Tracker [0.7.0]
+
+marker_1: dusk_24 [3060 Fallow 27 15:39]
+
+marker_2: deeper [3060 Fallow 30 08:00]
+
+Span: 2.7 days
+
+Character
+
+Total Exp: 1,940,171 -> 1,961,992 (+21,821)
+
+Skills
+
+Radiance: 6 -> 10 (+4)
+
+Tolerance
+
+Recovery: 38 -> 39 (+1)
+
+Vigor: 56 -> 57 (+1)
+
+Focus: 193 -> 198 (+5)
+
+Attribute Buff: 188 -> 190 (+2)
+
+Synchronization
+
+Vigor: 6.8 -> 6.9 (+0.1)
+
+Focus: 23.1 -> 27.6 (+4.5)
+
+Clarity: 250.0 -> 260.0 (+10.0)
+
+Perception: 8.6 -> 8.7 (+0.1)
+
+Closing the window with a sigh, Rain let his head thump back against the cave wall. He could feel Dozer industriously toiling away in his soul, working to purify the chaos with which he’d flooded the slime’s room. There’d been no panicked reaction from Dozer in response to the essence exchange, which meant that it had gone off without any trouble. This had been the sixth time he’d triggered it since the damage, operating on the theory that multiple, weaker exchanges were better than one big one. Working up the courage to trigger it the first time had been excruciating. Since then, his fears had begun to fade, but it was still nerve-racking each and every time. There was no way around it, though. The prospect of postponing the process indefinitely had occurred to him, but he’d put that firmly off the table. Firstly, he wasn’t sure if the system would even let him do it. Secondly, he was sure that it was a bad idea. Banking too much pending experience was how he’d gotten into this mess in the first place.
+
+Rain sighed again, sagging forward to rest his helmeted head in his hands. He gave it a moment, then got to his feet, stretching. No rest for the weary.
+
+Contrary to his fears, the night had passed uneventfully. They’d moved their camp to the cave, hoping that Rain’s presence would coax a monster or two up from below so they could see what they’d be facing, or, better yet, get a few Arcane Crysts. Unfortunately, nothing had taken the bait, though Rain had gotten plenty of hits with Detection. They came in ones and twos, even three signals moving in unison, once. They never lingered for long. Whatever monsters lived down there, they were either shyer than he was, or unwilling to ascend for other reasons, such as the essence density.
+
+As for the Ashen Jungle, it hadn’t been quite done with them yet. Surprisingly, the lava lake proved to be no impediment to most monster types, but the wide-open space gave Ameliah plenty of time to shoot them down from the island as they attempted the crossing. The assault ended up being slow, but steady, even when they’d tried hiding quietly in the cave. They had taken that as confirmation that Rain’s soul was still acting as some sort of lure. As expected, their assailants seemed to be fresh-spawns, proven by the relative lack of Crysts and Tel reported by Detection. There would be little point in bothering to collect what few drops there had been, not after the haul they’d gotten the day before.
+
+Other than refilling Ameliah’s mana from time to time, Rain hadn’t had much to do with the defense. He’d mostly managed to avoid using his offensive auras, relying on Ameliah’s greater mana-efficiency to keep his own usage low. She’d insisted on that strategy, though it had been hard on her. Rain hadn’t been able to argue in light of the fact that the symptoms of his soul damage had finally made themselves apparent.
+
+As before, he was starting to feel a bit headachey. There was no heartburn or stiffness yet, at least. He hoped that with what he’d learned, he’d be able to keep them at bay, trading them off for the new symptom that had appeared.
+
+In yesterday’s experiments, he’d discovered that using too much mana in a short span made him tired. Very tired. Exhausted, even.
+
+It wasn’t soulstrain, or at least, not any flavor he was familiar with. Dynamo status notwithstanding, he did remember what that felt like, and this wasn’t it at all. As near as he could determine, the problem was one of starvation. Specifically, essence starvation.
+
+After much testing, Rain’s working theory was that vitals—health, stamina, and mana—were physical forms of essence. Basically, they were fuel for his body in the real world. They had no manifestation in his soul whatsoever. There was only essence, which included the ‘air’ he’d been taking for granted.
+
+Mana regeneration consumed essence, and it followed that health and stamina regeneration were the same. In Rain’s tests, he’d spent mana, then entered his soul to watch the aftermath. First, the mist in his core room was devoured, then the air, and then air in the Bastion as a whole, passing through the glass, for all that he’d tried to prevent it. It turned out that the completeness of the vacuum directly correlated with the lethargy that he felt in the real world. He could power through it—his mana regeneration was unchanged, even when the Bastion was a complete void—but that was obviously unwise. As for why he could do so, he chalked it up to his core being as yet incomplete.
+
+For good or ill, some of the connection to his body was still diffused through the bulk of his soul, rather than concentrated at its center. Before he’d formed the Bastion, he’d been fueling himself with chaotic essence without knowing it, leading to the gradual buildup of his other symptoms. That process still worked, but less efficiently day by day. As his core grew, he suspected things would soon reach a point where he’d find himself physically unable to regenerate mana while the Bastion was empty, or, failing that, pass out if he tried. Needless to say, he had some more experiments to do before he got there. The silver lining to all of this was that if he managed to keep his mana use down, he’d likely be able to avoid the other symptoms. Even his current headache might go away.
+
+I just need to let essence build up before I use too much magic. My core generates it at a decent...
+
+Rain tilted his head, something coming to him thanks to the clarity granted by a night’s sleep.
+
+Hmm.
+
+Quickly, he sat back down and opened a fresh window, not bothering with the catastrophic mess of a document he’d been working on the day before. Raising his hands, he keyed in a few quick bullet points, then kept going, adding sub-bullets and temporarily losing himself in speculation.
+
+untitled1.odt
+
+B
+
+U
+
+I
+
+Color
+
+*
+
+Chaotic essence diffuses in through the paling from soulspace
+
+The soul naturally purifies essence at a defined rate
+
+That makes more sense than my core just being able to generate it from nothing. Can’t make something from nothing.
+
+Essence is consumed when regenerating health/stamina/mana
+
+Pure essence is used preferentially, but any essence will do in a pinch.
+
+My soul is so chaotic because:
+
+I’ve got a hole in my paling preventing me from building up pure essence that I haven’t solidified
+
+I use so much damn mana
+
+Since I’m picturing my core as the link to my body, my soul wants to store pure essence nearby for easy access
+
+This manifests as the unconscious generation of air/mist to fill the Bastion
+
+How is my core getting access to unpurified essence to convert it?
+
+Seemed to deplete purified essence despite lack of physical connection
+
+Wireless transfer?
+
+This might be a limitation of my mental model
+
+#todo Think of some experiments
+
+Should I add plumbing?
+
+Bring chaos to my core for purification?
+
+Input/output channels?
+
+The system rewards vital use because it wants people to spend pure essence.
+
+It wants us to send it out into the physical world?
+
+As mana, etc.?
+
+Why?
+
+The system does essence exchange to ensure that the soul is always somewhat chaotic
+
+That way, it always has essence to purify
+
+The system is using us as…air cleaners?
+
+Rain lowered his hands, resting the back of his head against the cave wall as he considered.
+
+Does that make any sense? Any contradictions? Hmm. No more so than any of my other batshit insane theories, I guess.
+
+He looked over at Ameliah, who was still soundly asleep. The plan was that they’d descend around noon, once she’d had a chance to rest, having been up practically all night. He shifted his gaze to Tallheart, who was sitting at the mouth of the cave with his back to him. He was looking out into the jungle, with his elbow resting on his knee, idly opening and closing his left hand into a fist. The cervidian seemed to be especially grumpy this morning. He’d been curt in declining Rain’s offer to take over, saying that he would continue his watch until tenth bell as they’d originally agreed.
+
+Rain sighed. He needs his space. I wish he’d just tell me what’s bothering him. He shook his head slowly. I’ll try again tonight, assuming he’s in a better mood and we don’t get ourselves killed before then. Damn, I really wish the depth gauge went higher.
+
+He paused, scratching at his now-neatly-trimmed beard. Then again, I probably have time to make those buoys, don’t I? Hell, even if I don’t, the ambient pressure increase should mean that I won’t get as tired. That might be proof enough if I can measure it somehow. Still thinking, he furrowed his brow. If it gets above twenty-four, will I have a problem? How much of a problem?
+
+...
+
+Okay, I need to start writing this stuff down, or else I’ll just sit here spinning for hours. Damn Clarity.
+
+Opening his previous document, he moved it so he could see it and the new one side by side. Then, he began to type.

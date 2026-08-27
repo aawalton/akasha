@@ -1,0 +1,117 @@
+---
+id: 45294cb8-dcb5-5c90-a482-b048a280111a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,432 - Mirror Realm"
+slug: 0112-chapter-1432-mirror-realm
+partOf: defiance-of-the-fall
+position: 112
+ownLength: 3074
+unit: words
+publishedAt: 2026-05-10
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3379343/chapter-1432-mirror-realm"
+royalRoadId: "3379343"
+---
+
+Zac spent minutes silently hovering in the air, taking in the imposing scenery and the near-pristine Void. As he did, he began picking out differences from his Void Treasure and the upper world he came from. It would seem that Fuxi Halls was built much like the world disks of Twilight Harbor. One side of the coin faced the Dao, the other the Void.
+
+Different from the world above, the memory domain’s edge was clearly visible. The sea of Imperial Faith and the memory lanterns weren’t located within the memory, rather hanging like a blanket just outside. As such, Zac couldn’t sense the atmosphere outside, nor whether his current location was where [Fuxi Mountain Gate]’s plateau was hidden.
+
+Most of the lanterns showed no indication of moving, seemingly content to be nourished by the fiery sea. The lanterns that broke off to fuse with the memory domain brought some of the flames with them. The powerful Imperial Faith was absorbed by the mountains the moment it entered the memory, before it could be exhausted by the Void Energy.
+
+The runes covering the mountain slopes followed the same logic as the patterns on [Fuxi Mountain Gate]. They covered every inch, from peak to base. They held no gaps like the doorway Zac relied on with his Void Treasure, and while outwardly similar, their purpose differed from that of the [Fuxi Mountain Gate].
+
+The vast reserves of Void Energy didn’t actually come from the Void itself; it was pulled out of thin air by the mountains. Almost invisible bubbles floated above the peaks. They came in all sizes, from the diameter of Zac’s head to almost overshadowing the mountain itself. While floating nearby, they felt incredibly distant, as if he were looking at the projection of the real thing.
+
+Suddenly, there was a powerful fluctuation in the distance. A sphere had reached capacity. The mountain runes beneath darkened, the sense of distance disappeared, and the bubble popped like a balloon full of smoke. Half of the accumulated force directly replenished the ambient energy, while the other half turned into five mighty Void Rivers that ran for a few miles before disappearing without a trace.
+
+The rivers didn’t leave without leaving a trace. Dozens of dimensional tears appeared in their wake, turning into a dark tail full of death. The Void was both the cause and the cure. The plentiful Void Energy exhausted the tears and scrubbed the realm clean of desolate death. The area stabilized, and a new bubble began growing above the mountain.
+
+Rather than a naturally formed Void-aligned world, the mirror realm came off as man-made like the Hidden Earth Abode. Of course, comparing the two was like comparing a palace to a thatched hut. While there were obvious marks of the Empire’s presence all around him, Zac saw no signs of actual cultivators. He wasn’t convinced it was connected to the quarantine.
+
+The mountain range was shaped just like the upper world, yet there were no palaces adorning the peaks. There were also no traces of destruction, unless you counted the occasional dimensional tears. And really, who’d willingly stay in such a hostile environment?
+
+From what Zac had gleaned from Daoist Hidden Earth’s notes, normal Void Cultivators weren’t like Zac. Not even Hidden Earth would have wanted to stay in these mountains. The ancient Void Cultivator would be much better suited to cultivate on the other surface, limiting his interaction with the Void to siphoning the streams of filtered Void Energy that reached the surface.
+
+Still, Zac could only see a small part of the full picture from the bottom of the valley. There could very well be people tasked with maintaining this realm gathered somewhere else. Zac rose into the air, taking the opportunity to perform a few tests. Verun growled with reluctance as she was brought out, but channeling a current of Dao through the axe protected it from being eroded by the environment.
+
+The axelight conjured by [Evolutionary Edge] didn’t fare as well. Just growing out the blade was met with fierce resistance, and it winked out after traveling a hundred meters. Zac’s immunity to the Void didn’t extend to his skills, and his bloodline couldn’t make his Dao-based skills act like his Void Talents when activated in normal realms. His skills were simply suppressed and eroded by the pervasive Void.
+
+[Force of the Void] provided a convenient workaround. His abilities worked as intended when activated with the Bloodline Talent, though they only exhibited around 80% of their original might. Compared to normal cultivators who had to fully resist the Void, it was a clear advantage.
+
+Zac passed the mountain peaks and kept going until he reached the very edge of the memory domain. The vantage point exposed two points of interest in the distance, but there was something else Zac wanted to do first. After exchanging a few messages with his other half, Zac stepped through the barrier and officially left Fuxi Halls’ memory domain.
+
+A storm of impressions flooded Zac’s mind, their sheer volume giving him a splitting headache. While the fusion of memories wasn’t anywhere near as painful as when he emerged from the Peregrine Ocean, it took Zac close to a minute to digest everything. There was no choice since his bodies hadn’t synced since before his breakthrough.
+
+Combining the insights he gleaned in the heat of the moment could be considered the final step of his breakthrough. Crude communication with mental tendrils and exchanging letters through [Purity of the Void] couldn’t compare to living through the experience an additional time.
+
+Zac didn’t want to linger on the outside, and not just because of the sweltering heat created by the Imperial Flames. As usual, he took out the Primo’s feather. He’d vaguely felt it stir when he stepped out, though the reaction was not nearly as intense as what he saw before. It was also cooling down on its own, leaving Zac unsure what to think.
+
+It shouldn’t be a problem of lacking energy reserves. It was like the feather sensed something before it lost the trace. Were the signals intermittent, or was the Primo’s treasure on the move? Should he wait and see if it came back?
+
+Zac glanced down at the mountain range beneath him. The Void Orbs looked the same as when he emerged, confirming that time hadn’t jumped forward after his departure. How could it, with Ramses acting as a temporal anchor? At the same time, it would be foolish to take anything for granted, so Zac returned after making a final sweep of the surroundings. There were no signs of the mountain gate or the First People’s stone plateau.
+
+The stench of death clung to Zac’s robes after returning to the Void-attuned memory domain. The sea of Imperial Flames couldn’t hide the truth. The realm waiting beyond the flames was the same as what they saw outside the memory domain housing the welcoming square, the place they suspected were the remains of the mysterious Ninth Hell.
+
+By the looks of it, the sea of Imperial Flame acted as a protective film that helped keep Fuxi Halls’ unusual memory domain stable. Zac couldn’t imagine the memory lanterns would last long if exposed to the suffocating death of the Ninth Hell. That didn’t necessarily mean his current location was completely separated from the space inside [Fuxi Mountain Gate].
+
+Zac was already starting to form a theory from what he’d gathered. Connecting the Void Mountain to a flourishing Primal Heaven was a monumental undertaking. One was a domain of absolute Void; the other a continent closest to the Grand Dao. They could be considered polar opposites, and the war inside the hollow was the expected outcome if you tried to connect the two. The Empire must have adopted a softer approach that relied on multiple steps. Instead of creating a direct link, the fusion was made in steps.
+
+First, the Hollow Court connected the Left Imperial Expanse to the Lower Planes. Then, they created a halfway point with the help of Imperial Faith and the Inverse Peak—the mirror world where he found himself. It acted as a cosmic filter that encouraged a mutual exchange. Void moved through Dao, and Dao moved through Void.
+
+The last step was the [Fuxi Mountain Gate], of which Zac believed there was more than one. They were the final checkpoint, with the true Void waiting beyond the gate. The theory would explain why the Void Treasure responded to his surroundings. The [Fuxi Mountain Gate] was supposed to connect to the vast formation erected by the rolling mountains. Perhaps it was even its array core.
+
+Zac had no thought of returning it to where it belonged. It was his now, won fair and square. It wasn’t like it would do the Empire any good in its current state anyhow. Besides, missing a core component wasn’t the only problem from what Zac had seen with the arrangement.
+
+He was almost certain the many dimensional tears weren’t part of the original plan. The memory domain was in a weakened state. Its very nature was eroded by the Void it was built to contain. On the other side was the creeping decay of the Ninth Hell, where something clearly had gone awry.
+
+The tears could possibly be seen as a self-regulating safeguard. Whenever the Void grew too strong, space would shred, and hostile Dao would come pouring in. The Dao and Void would extinguish each other, reducing the load to bearable levels. However, the process was extremely wasteful, and the empire should have more elegant solutions to maintain balance.
+
+Zac sensed the situation represented untapped potential—just like the invasion did in the Mercurial Courts. Since he had no idea how to act on the notion or whether it was connected to his goal of seizing the Primo’s treasure, Zac set his sights on the two landmarks he’d spotted.
+
+One was a much smaller mountain nestled among its brethren. What it lacked in size, it made up for in spirituality. The dense layer of scripture and the golden runes floating around it couldn’t hide the immense amounts of Void Energy it nurtured. Even if it didn’t provide any clues, it seemed very promising for repairing [Fuxi Mountain Gate].
+
+Nevertheless, Zac set his sights on the second landmark—a solitary statue standing in the middle of an enormous valley. It was much closer than the mountain, and it only took Zac an hour to reach it. The statue was only a few hundred meters tall, yet it exuded such a lofty presence it seemed to tower over the mountain.
+
+The statue depicted a man draped in flowing robes covered in unfamiliar runes. The sigils neither resembled the script of the Limitless Empire nor the natural patterns created by exposure to the Dao. At the same time, they felt oddly familiar, and looking at them made Zac’s heart gnaw with frustration. The secrets they held seemed just out of reach.
+
+The immortalized man held an unusual pose. His right hand was raised just above his head, palm facing the sky. Floating above it was a sun made from pure Imperial Faith, and the echoes of Destiny coming from its depths were unmistakable. Zac had to suppress the greed in his heart upon estimating that the amount of Imperial Destiny it held was in excess of a million points of Imperial Merit. It was one thing to pick up some treasures growing in the ground and another to desecrate a consecrated landmark.
+
+The statue’s left hand was extended in the opposite direction. His lowered hand faced the ground, and an inverted mountain silently rotated below. It was almost a perfect replica of Zac’s [Void Mountain], and its surface lacked the golden runes that covered the surrounding mountains.
+
+Try as he might, Zac couldn’t make out the statue’s features. It wasn’t that the statue had been eroded by the Void, nor was it an intentional ambiguity left by the artisan. Zac was certain the features were there; it was just that his mind was incapable of registering them. He took the hint, sensing that sending out Haro’s vines as feelers or creating a cast would have ramifications.
+
+Apart from the inverted mountain, the statue was made of white marble that neither seemed attuned to the Dao nor the Void. And yet, it exuded a vast aura that filled the whole valley. It wasn’t dangerous, and the impression it left was different from what Zac had come to expect from the empire’s architecture.
+
+The statue lacked the imperious air of a conqueror or the halo of glory imbued into everything touched by Imperial Fate. And while the general design was similar to the worn statuette Zac found in the temple in the depths of the Void Star, it didn’t convey the same sentiments. That man had exuded a fury targeting the Heavens and its limitations. He’d turned himself into a weapon trained at the Terminus, determined to shatter the shackles of fate.
+
+The landmark before Zac gave off a refined, ethereal aura removed from worldly affairs. He was a man of ancient secrets and profound mystery. There was no sense of ambition, as you’d expect. If the statue had depicted Laondio or Karz, the meaning of the pose would have been very different. They would be grasping the Dao with one hand and the Void with the other, placing themselves above both.
+
+The depicted man wasn’t trying to command either side. He was reaching out in hopes of communicating, of exploring their nature, of becoming a bridge between the opposing sides of reality. It looked like Zac finally had a face, or at least a form, to match with the name Fuxi after weeks of increasing curiosity.
+
+Zac had often thought back to his meeting with Wal’Zo, Ultom’s ancient Realmspirit, since arriving at Hollow Court and joining Fuxi Halls. Wal’Zo mentioned that in the countless epochs since the First Era, eight cultivators had attained enough mastery over the Void to leave an eternal mark on the Void Mountain. Could Fuxi be among them?
+
+If not, he still had to be among the foremost Void Cultivators of the Era of Order. Who else could set up this whole thing?
+
+Unfortunately, that was still the extent of what Zac knew. Not even the members of Hollow Court seemed to know anything. The only thing Zac had managed to confirm was that Fuxi was a person and likely a great sage of the Limitless Empire. He wasn’t actually part of the Hollow Court, though he must have consulted during its construction.
+
+Zac wasn’t sure whether to be relieved or disappointed that his meeting with Fuxi only amounted to facing his likeness. Having upgraded his bloodline to C-grade didn’t change the fact that Zac was still muddling along when it came to cultivating Void. While he had gained some preliminary understanding of the Voids of his path—the Voids of Life, Death, and Conflict—his comprehension wasn’t systematic or properly integrated with his path.
+
+Meeting a Void Cultivator with actual mastery, not someone like Daoist Hidden Earth who was copying without understanding, would be a huge opportunity. A few words of guidance could dispel most of Zac’s confusion. What was the Void, why did it exist, and how did you cultivate it in a world shaped by the Dao? If anyone in the current era knew, it was Fuxi.
+
+At the same time, Zac’s ties to the Limitless Empire had already grown more numerous than he would have liked. If he kept going like this, he would end up being swept up in the storm that would follow the Fifth Pillar’s ascent. Zac didn’t particularly care whether the Limitless Empire would successfully step out of the dream or if their ambitions would be foiled yet again. He just didn’t want to get involved.
+
+It wasn’t like he hadn’t thought about it. What if he stopped fighting the winds of fate, fighting his birthright? Depending on how things panned out, a reborn Limitless Empire could become the protective umbrella that the Atwood Empire would need in the coming years. Whether it was his heritage or status as the Terminal Son of the Imperial Chalice, joining their ranks shouldn’t prove very difficult.
+
+The idea made sense on the surface, yet Zac wanted to avoid that outcome unless he was left with absolutely no choice. He could imagine how the Multiverse could react to the empire’s resurgence. The new factions wouldn’t tolerate an old dynasty reclaiming its former glory, possibly seizing control over the System itself. The Empire would trigger a massive, cosmos-spanning war with the Left Imperial Expanse at the center.
+
+The Atwood Empire was too young and weak to be thrown into a war of that scale. They would be much better off staying in some remote corner of the Multiverse where they could gather strength in silence. Above all, the primal voice from the depths of Zac’s soul railed against the idea. Joining the Limitless Empire meant giving up on his own path.
+
+It was one thing to accept their benefits during the trial. They were just using each other, maintaining balance through equivalent exchange. But how could he possibly perfect his Void Road while becoming yet another of Laondio’s followers? He would end up like the broken Realmlords, moths to the flame of the Emperor’s ambition. His personal goal to find Kenzie would be replaced with the grand undertaking.
+
+There were no plaques or steles accompanying the statue, nothing to explain its presence or purpose. Zac didn’t believe for a second it was just an expression of vanity or a commemoration of service. The statue felt like a lynchpin that helped stabilize the whole mirror realm, further evidenced by the enormous amounts of Destiny swirling around it.
+
+An hour of careful investigation only left Zac with an unbearable mental itch. The runes filled his mind whenever he closed his eyes, swirling around, taunting his ignorance. Zac finally couldn’t take it any longer. He turned away and entered his Void State to quell the voices. The result was the opposite.
+
+When witnessed through the lens of the Void Road, a hidden layer was exposed of the chaotic runes. Roaring echoes coming from the deepest recesses of time superimposed, forming a tapestry ancient beyond compare. Zac gasped as he finally understood. The Decaying Death of the Ninth Hell, the Primo, and Fuxi’s Void.
+
+It was all connected.

@@ -1,0 +1,143 @@
+---
+id: f22a2224-3476-5639-8d99-0209900096df
+page-type-slug: story-chapter-royal-road
+title: "Chapter 71"
+slug: 0072-chapter-71
+partOf: death-healer
+position: 72
+ownLength: 1439
+unit: words
+publishedAt: 2025-08-31
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2563545/chapter-71"
+royalRoadId: "2563545"
+---
+
+Lily was still panting and reeling from the revelations and from what her older self had said. The weight of it had been overwhelming, and to some extent, it felt like the older self had spoken for herself, rather than for Lily. She still memorized every single word. She refused to let such a message go to waste.
+
+Lily felt partially replenished by what had just happened, and she activated the Skill again.
+
+“The name is [Death Surge]. I don’t know what variant that is. But that is the basic Skill’s name. You now have mastered one form of Life and Death. Congratulations.”
+
+“I…” Lily couldn’t believe her ears. “I—I am still so confused about everything. I’m still wondering about the Pope. About the Necromonarch.”
+
+“Your destiny, for now, is to fight for yourself. When the time comes for you to face the monsters that lurk in the dark, Liliana Claudia, you’ll find that the power you touched upon today will come to your rescue.”
+
+“Am I able to save Sabinus now?” Lily asked.
+
+“Your body carries a lot of fatigue, a lot of wounds. You need rest. I’ll put you under a spell. It will mend and empower your physique before your Class Day. Then, when it comes, you shall be ready to take care of the projection. You won’t need to fight it, of course. But greater powers will be revealed to you. That is how you’ll save your friend.”
+
+Before Lily realized it, she yawned, and then she fell asleep.
+
+* * *
+
+[Countdown Completed.]
+
+[00:00:00:01]
+
+[You have reached your Class Day.]
+
+[Welcome to the System.]
+
+[You have now unlocked your Akashic Record.]
+
+Lily woke up, and she found no villa around her. She stood inside a gigantic library, and a book floated in front of her. Stacks rose like narrow towers, and ladders leaned against rails, and the aisles ran straight until they vanished into a haze. Light fell without a source, and dust hung in slow spirals, and the air smelled like old paper and cold rain.
+
+“What is…”
+
+“Welcome, Liliana Claudia. Or should I say, Liliana Ember? Which of the two do you prefer?”
+
+Lily tried to speak, but she shouted and put her hands to her head. She had not even noticed that she wore a simple white tunic, and it sprawled on the floor when she fell. Pain tore through her skull for several moments, and then quiet returned.
+
+When she rose, she shook.
+
+“Doctor. I am a doctor. That’s why I know so much. Mom… she didn’t like me. Dad… died.”
+
+Lily took a few deep breaths and straightened the tunic, and then she looked at her hands. All the memories from her past life had merged with her, and the book hovered in front of her while it waited for an answer to the most important question she had ever been asked.
+
+Liliana Claudia or Liliana Ember.
+
+“Both,” Lily said, and she smiled. “But now, Claudia. Liliana Claudia.”
+
+Memories rushed back in order. The world had stood on the edge of destruction by the Undead. She had traveled back through time and space, and she had found herself on a foreign world where Magic was not only real but also commonplace and treated as a happenstance like any other. She remembered Lucas, the God, and she remembered why she had asked for [Death Touch] and not a Perk.
+
+“Death Touch could be used to heal diseases,” she muttered. “But what about the Undead Disease? Can that be healed? Claudia probably knows more about this. I should ask.”
+
+She also remembered Lavinia and Lumius and all the trouble that waited in this life. She smiled because her body had remembered everything about fighting, and it had stayed intuitive and hard to control. She clenched her fists until the joints popped, and she felt in control again. She felt like she could now use what she knew with intent.
+
+“Liliana Claudia, then. Welcome to your Class.”
+
+The book turned its pages and said, “First, for all the Skills that you leveled up growing up.”
+
+“Your first ever Skill. No one has learned as early as you have. Not even the great creatures of old, who developed it in the womb. Their gestation period was much longer than nine months. For this feat, your Class will be heavily influenced and blessed.
+
+“Mana Sense reached the Grandmaster Stage, Level 90. Then, it evolved into The Seven Eyes of Twilight. It is currently Level 20, Master Stage. It would have otherwise broken through. Interesting. It could have been your highest Level Skill ever. Instead, it is not.”
+
+“For the second Skill, Mana Shaping, Level 50. You’ve dealt with Mana more than any other kid of your race. Grandmaster Stage.”
+
+“Those are the two greatest feats I’ve seen, especially together,” the book said, and Lily watched the Skills and their Levels appear on the page.
+
+[The Seven Eyes of Twilight - Level 20, Master]
+
+[Mana Shaping - Level 50, Grandmaster]
+
+“You’ve learned many more Skills, common ones, for the most part. Running, Jumping, Fast-walking. Mending, but not… sewing? Interesting choice.”
+
+Lily cleared her throat. She had never wanted to learn how to sew.
+
+“Then, there’s more. Hand-to-Hand Combat, your highest-leveled Skill. Level 10, Great Grandmaster Stage. For this unique feat, your Class will be blessed again.”
+
+[Hand-to-Hand Combat - Level 10, Great Grandmaster]
+
+“You’ve developed healing beyond what most would be capable of at your age. But your experience with it never went as deep as one would have expected. Not as deep as your aptitude for fighting. Heal, Level 30, Grandmaster Stage.”
+
+Lily raised her eyebrows, and it still sounded like an incredible achievement.
+
+“Nonetheless, it shaped you.”
+
+[Heal - Level 30, Grandmaster]
+
+“Beyond that, you demonstrated proficiency with Skills that are as rare as they come in your predicament. Coniunctionis, Level 40, Master Stage. Lux Vitae Overdrive, Level 90, Beginner Stage. Death Touch, Level 70. Impressive. But even more impressive...”
+
+Lily saw the Skills being recorded.
+
+[Coniunctionis - Level 40, Master]
+
+[Lux Vitae Overdrive - Level 90, Beginner]
+
+[Death Touch - Level 70, Beginner]
+
+“Two Pure Skills have entered the fray. Life Flow, Level 10, Master Stage. To be precise, it evolved the moment you got it. It is not Life Flow. It is [Blessing of Life]. For this almost Unique feat, your Class will receive another blessing.”
+
+[Blessing of Life - Level 10, Master]
+
+“And last, but not least, the most recent Skill you’ve learned, Death Surge, Level 20. But this is perhaps the greatest accomplishment. It evolved the moment you learned it. So, it is now the Sky of Death. This is a Unique accomplishment. This will bless your Class thrice.”
+
+[Sky of Death - Level 20]
+
+Lily stood in awe of what she had heard.
+
+“As for the Perks,” the book said, “you had one when you entered this life in Mana Sense. And you gained seven more. You’ve strengthened yourself beyond imagination.”
+
+Seven lines appeared on the page.
+
+[Perception of Wisdom - Even in your foolishness, even in your infancy, even with your eyes closed, you can feel the Mana. 10% proficiency added to Mana Sense and its evolutions.]
+
+[Perception of Greatness - When the others were learning to walk, you were learning how to feel the world around you. When the others saw colors for the first time, you gazed upon Mana. 20% proficiency added to Mana Sense and its evolutions.]
+
+[Goggles of the Wizard - You merged your practice and your senses so much that you’ve gained proficiency beyond what normal practitioners will ever reach. 40% proficiency added to Mana Sense and its evolutions.]
+
+[Fantasy of Mana - You dream of Mana. 80% proficiency added to Mana Sense and its evolutions.]
+
+[Threads of Fate - You have managed to zoom in on those in need. When a friend calls, your eyes can follow them anywhere. 160% proficiency added to Mana Sense and its evolutions.]
+
+[Eyes of Judgment - Your eyes have evolved beyond human, beyond mortals. You can now feel the future as it is becoming and intercept it. 320% proficiency added to Mana Sense and its evolutions.]
+
+“Eyes of Judgment is one of the greatest Perks you’re ever going to be able to touch upon in the line of Mana Sense Perks. It is what unlocked The Seven Eyes of Twilight for you.”
+
+The explanation of the book made her nod slightly.
+
+“Classes are not chosen, Liliana Claudia. They choose you. And this, this is your Class.”
+
+Lily looked at the book and found the name of the Class she was about to receive.
+
+Death Healer.

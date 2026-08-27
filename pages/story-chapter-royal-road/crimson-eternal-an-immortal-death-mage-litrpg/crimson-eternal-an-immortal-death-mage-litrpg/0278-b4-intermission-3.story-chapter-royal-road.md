@@ -1,0 +1,103 @@
+---
+id: c7907d10-5dd2-5461-bfe9-b559ba2bcc24
+page-type-slug: story-chapter-royal-road
+title: "B4 | Intermission 3"
+slug: 0278-b4-intermission-3
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 278
+ownLength: 1058
+unit: words
+ownProgress: 1058
+publishedAt: 2025-05-11
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2271923/b4-intermission-3"
+royalRoadId: "2271923"
+markedReadAt: "2026-06-29T19:15:12.611Z"
+---
+
+The Demon King’s Domain
+
+Lucilia stares down at the black and purple energy coated planet with pure apathy and some boredom filling her gaze and nothing more. All while she floats in space above the planet seated on a throne made out of the life force of the fallen demons she’s draining down there. And from the Demon King’s own life force as the embodiment of Sin shifts from one fallen demon’s body to another. With each body transforming into the Demon King’s own body every time.
+
+Most of her is just feeling bored doing this.
+
+She wouldn’t normally be involving herself in the Demon King’s pesky wars if it weren’t for her having revealed herself to the universe again. Which therefore requires her to participate in events like this.
+
+And more importantly, the other nations’ Grands keep bothering her with diplomatic garbage that she doesn’t want to have to deal with. Stuff she wishes she could just foist onto her husband or son.
+
+But they mysteriously vanished to go look into breaking the curse and into where her beloved daughter ran off to, ditching her guards for over a decade.
+
+Which is exactly what she wishes she could be doing. Both the ditching her guards and the finding her beloved daughter and breaking the curse.
+
+Alas, she is instead stuck here. Killing demons and draining their life force away like some damn that’s overflowing with water and needs to be emptied after a monsoon.
+
+If that sort of thing happens. Not that she’d know since her nation doesn’t even have planets, and therefore has no weather.
+
+Other than natural occurrences in space. Like black holes.
+
+She’s dealt with eating black holes before to clear a trade path. That she’s good at.
+
+The earpiece currently in her ear clicks and she hears one of her intelligence agents contacting her, “Your Imperial Majesty, we have news of Her Highness, the First Princess.”
+
+Without hesitation, she stops attacking the planet and looks up at the ship before flying towards it as she asks in return, “And where is my beloved daughter?”
+
+“Dear, please go back to work,” she hears her husband’s voice taking over for the agent. “We can’t visit her right now anyways. And we’re relying on the mana cores we’re being given from this job to research breaking the curse.”
+
+Lucilia pouts for a second as she stops flying towards the ship, but her husband doesn’t budge. So she eventually sighs and moves back to where she was. Making her throne once more appear before she begins slaughtering demons again.
+
+“Fine,” she grumbles. “But you and Adrian need to take over for me in twelve hours, got it?”
+
+“Of course, dear,” Artorius answers, sounding too sweet for his own good. Only for that image to shatter the moment he shouts, “Wait, repeat that for me?!?”
+
+Lucilia blinks and tilts her head as she asks, “Is something wrong?”
+
+Silence answers her for several minutes, making Lucilia grow more and more confused.
+
+What could be happening?
+
+She purses her lips as she tries to come up with an answer, but nothing comes to mind. Unless they made some sort of breakthrough with the curse.
+
+Or it could just have something to do with their daughter.
+
+Lucilia knows she’s not the only one in their family who is incredibly overprotective of her.
+
+Another click comes from her earpiece before she hears someone else’s voice that she wasn’t expecting to hear, “So little Ari is in the greater universe now?”
+
+Lucilia’s eyes widen in shock as she shouts, “Jake?! You’re awake?!”
+
+Her younger brother-in-law has been asleep for centuries now after nearly sacrificing himself to place the barrier around their family to block the curse. Only for the barrier to eventually shatter and reach them anyways, albeit without enough force to affect most of them.
+
+Except for Aria, who was but a newborn infant.
+
+And the shattering of his barrier caused a significant backlash onto him that’s kept him out of it ever since.
+
+“Yes I am, little snow,” Jake says with a laugh that has tears beginning to appear in the corners of Lucilia’s eyes.
+
+When she opens her mouth to speak again though, her other earpiece clicks and her husband’s voice echoes out of it so loudly that she’s sure Jake can hear as he shouts, “We are now proud grandparennttsss!!!!”
+
+Lucilia’s mouth parts open, just to shut again. Then it opens again, and shuts again.
+
+A process that repeats two more times until she’s snapped out of it by Jake shouting, “Wait a second, excuse me?! Since when was Adrian even married?! How could he have kids?! Did I miss something important in these short two hundred or so years?!”
+
+“Wait, brother?” Artorius mutters, sounding confused and surprised.
+
+“My awakening is not as important as this information! So tell me!” Jake shouts again, and Lucilia can’t help but agree.
+
+And Artorius wastes no time in saying, “Well, no. Adrian isn’t married, and they aren’t his kids.”
+
+Lucilia’s mind blanks at that. Then thoughts of some random filthy man touching her beloved daughter flood her mind and her eyes begin to glow crimson. Meanwhile a screen of Jake appears in front of her and no doubt her husband as well, with the man looking just as furious.
+
+“It looks like Aria found two babies in her latest journey and raised them both herself!” Artorius exclaims rather happily, snapping both Lucilia and her brother-in-law out of their anger in an instant.
+
+“Wait, so they… aren’t hers?” Lucilia asks, her confusion clear in her voice.
+
+“What? No. That would be impossible with her being Death and all…” Artorius mutters, sounding rather confused himself about how she could come to that conclusion. “But that’s not important. What’s important is that we’re grandparents now! And apparently my brother’s awake again?”
+
+Lucilia lets out a sigh as she relaxes again.
+
+Then the whole ‘grandparent’ thing hits her again and she lets out a squealed, “I want to meet them!”
+
+“We’ll have to wait, Mother,” Adrian joins the conversation as another screen appears near Lucilia. “The curse will pause for another ten minutes soon. So just a little bit longer.”
+
+Lucilia calms down a little bit at that, a smile covering her face as she does so.
+
+Right… I’ll be able to see her again soon.

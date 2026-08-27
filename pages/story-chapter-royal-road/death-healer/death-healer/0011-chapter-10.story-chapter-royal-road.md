@@ -1,0 +1,245 @@
+---
+id: 5b47d4bf-047d-50d8-8011-2bd02aeea22e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10"
+slug: 0011-chapter-10
+partOf: death-healer
+position: 11
+ownLength: 2653
+unit: words
+publishedAt: 2025-05-06
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2260714/chapter-10"
+royalRoadId: "2260714"
+---
+
+Lucianus's steps resonated in the vast, circular atrium of the building. The air remained fresh, continually circulated by numerous spells to prevent any unpleasant odors from taking hold. Eight chambers lined the walls.
+
+The Patriarch of the Gens Claudia wrinkled his nose at the pungent aroma of herbs. Still, he took pleasure in the grand architecture of this particular Healing House—the House of Claudius—which his family had sponsored since time immemorial.
+
+The floor was laid out in a checkerboard pattern of white and brown, each tiny square painstakingly crafted by hand. Between the chambers, frescoes depicted the Gens Claudia’s history and victories in the Dead Lands. A few, as tradition dictated, honored the God of Light, but the majority celebrated the family’s own legacy.
+
+Each Great Family maintained a Healing House, providing care for births, injuries, illnesses, and more. Light Magic, though it could only ease a person’s suffering—unable to cure disease or poison—still helped improve survival rates when combined with the expertise of the [Apothecaries].
+
+"Dear sister," Lucianus smiled as he opened the door to the administrative chamber. As the Patriarch of the Gens Claudia, no novice or [Healer] here had the authority to stop him. Well, almost no one.
+
+A middle-aged woman with silver strands in her hair raised her eyes from a series of documents on her desk. This chamber was extremely bare and, clearly, focused on functionality more than anything.
+
+Gentiliana clicked her tongue at her younger brother and shook her head.
+
+"What, now, Lucianus? You only visit when you need something."
+
+"Can't I come and visit my favorite sister?" Lucianus tried acting cordially.
+
+"Your favorite sister was Claudia, Lucianus," Gentiliana waved her hand at the man like only an older sister could.
+
+Gentiliana immediately regretted saying that when she saw the man's face darken and his jaw tightening. Claudia, their sister who had been given their Family name, had been nothing short of an angel. She had been the most generous, most talented [Healer] their family had ever seen. Lucianus himself had been always in awe of her. He had been the youngest of the three children and while Gentiliana and him didn't have much in common, Claudia had basically acted like his mother after their real mother had passed. Even when Lucianus had to rise up to the occasion and take the reins of the family after their dead died on a campaign in the Dead Lands, Claudia had been his most trusted advisor. Claudia had refused marriage and the path of a House [Healer], someone who embraced celibacy. She was a rebel, but Lucianus loved her so much that he had shielded her from everything, from any accusation, any pressure. In turn, Claudia had helped him build himself up.
+
+"Ennius will pay, Gentiliana," Lucianus said.
+
+His sister didn't know the details, but she had been told by Lucianus that he believed it had been Ennius, the Pope himself, to kill Claudia.
+
+"Sit down and tell me what's going on and why you're here. I thought you were campaigning with your brute friend."
+
+"I've come back for some business," Lucianus replied vaguely.
+
+Gentiliana looked at the door behind her younger brother and immediately created a Mana shield to encircle them both and grant them privacy. It wasn't nearly as strong nor good as Adriana's, but it was enough for the situation.
+
+"This is about the [Librarian] they found," Gentiliana said, slamming her palm on the table.
+
+She knew her younger brother, like her and Claudia, had been initiated into the secret knowledge of the family. Among the three siblings, Lucianus had been the one to take it the most seriously, to become obsessed with knowledge, with everything that was forbidden by the Papacy.
+
+Lucianus didn't reply and simply stared back at her sister.
+
+"What do you need from me?" Gentiliana asked.
+
+"Nothing about my business here," her brother shook his head. "I'm here because I wanted to ask you to help out with my daughter."
+
+At that, Gentiliana almost recoiled.
+
+She had expected to be asked about many favors, but not this one. She would occasionally visit her niece, Lily—Gentiliana actually found the girl adorable, unlike her look-a-like mother. Because of her job as the head of the Healing House and a committed, sworn-in [Healer] who had taken vows to the place, she had many responsibilities.
+
+Still, if possible, she'd love to help out her brother's daughter.
+
+"What about Lily?" She asked.
+
+"She's almost turning nine," Lucianus said, sighing. "You know what that means."
+
+The Gens Claudia had a very important requisite for anyone wanting to learn the family's Great Skill. And it wasn't just a requisite, but more of a rite of passage for every child of the main branch of the family to show they deserved their spot.
+
+Gentiliana had heard the rumors about her daughter and even confirmed them first-hand.
+
+Liliana Claudia wasn't without talent. On the contrary, the young girl showed what most believed to be the most incredible mastery of Mana they had recorded since time immemorial. However, there was a problem.
+
+A big problem.
+
+Lily had yet to acquire an Affinity.
+
+If anyone who didn't know much about the dealings of Great Families overheard that, they might not even worry about it. They'd think that it would all come in due time. But what they didn't know was that the earlier one got their Affinity, the more their future Class would be influenced.
+
+In fact, an Affinity influenced the eventual Class they'd get at fourteen way more than any other factor. The more Affinity-related Skills and the greater the Affinity, the stronger the Class would eventually be.
+
+"I need Lily to pass the family test. There are kids her age in our Minor Families that have unlocked several Light Affinity Skills, Gentiliana."
+
+"Lucianus," Gentiliana frowned. "Your wife is much better than me at healing, for all it pains me to admit."
+
+Despite Gentiliana having studied her family's secrets and being talented, Adriana was just… a monster. If Lily was the greatest crystalline talent they had seen in generations, it was because both her parents were incredible spellcasters. The difference between her parents was that Lucianus was a man who had put a lot of hard work to get where he had gotten with a great talent, while Adriana… if Adriana could have learned her own family's Great Skill - Gentiliana suspected - she would have become an offensive caster stronger than Lucianus himself.
+
+Perhaps, the strongest they had ever seen.
+
+Princess Adriana, Gentiliana chewed on those words mentally.
+
+"Can I ask you to try? Maybe teach her something about… you know."
+
+"You want to break the family traditions," Gentiliana raised an eyebrow. "Lily should only learn about the family secrets after she proves herself worthy, Lucianus. Not before. Why worry so much, anyway? She's a girl."
+
+Lucianus lowered his gaze for a moment and then swept it across the hall.
+
+"My instincts tell me that it's the right thing to do," Lucianus said. "It's the right thing for me to do, Gentiliana. And I know you. I know you want to help your niece. As the Patriarch of the Gens Claudia, you have my permission to break the rules. Claudia might have been my favorite, but you and me were the ones who got into the most trouble, weren't we?"
+
+* * *
+
+Adriana was currently reading over some documents when a servant knocked a few times, announcing, "Milady, there's a visitor. He says he's our Lord's friend."
+
+"Let him in," she sighed, putting together several sheets of paper in a neat pile.
+
+Then, a middle-aged, gruff-looking man with a perennial frown over his shoulder entered the place.
+
+"In His Light," Adriana said, raising to her feet, lightly bowing as a courtesy.
+
+The man snorted and didn't return the salute, looking with interest over the desk instead. "You're not as stupid as Lucianus, are you, Princess?"
+
+"Excuse me?" Adriana asked with a frown.
+
+"The Gens Claudia's estate has never been richer or more prosperous and has never hired so many good administrators. In ten years, your latest purchases," he said, pointing at some documents, "might make this family the richest in the country. Someone has clearly read about the cyclical nature of storms in the valleys."
+
+Adriana's eyes widened.
+
+"You wouldn't sell all your vineyards otherwise, would you? The temperatures are going to drop, and the storms will ruin vineyards in the valley for the next ten years or so. But you managed to sell at the best possible moment. And I'm told your best friend is one of the most knowledgeable people regarding the Laws of our dear Papacy."
+
+"How—"
+
+"I like reading as well," the man said with a laugh, taking out a little metal bottle from his coat and taking a swig of it. "Mana-infused mead," he said, dangling the bottle in front of her. "Want some?"
+
+"No, thank you," Adriana frowned.
+
+"Well, they say it's good for your Mana reserves, but I think it's just an excuse for drunkards not to feel guilty about their habits. Anyway, which books do you like?" The man asked, taking a seat and inviting Adriana to do the same.
+
+"Chroniclers, mostly. They're good for business. And the many interpretations of the law."
+
+"Dry reads," the man chuckled, taking another swig. Good, good. Be careful, though, never get too much into books, or they're going to burn you alive."
+
+Adriana felt her blood go cold.
+
+The man was talking about [Librarians], the Forbidden Class that would get anyone, no matter their status, on a large, public pyre.
+
+"There are bunches of them hiding in plain sight," the man smiled. It's quite popular among women, too."
+
+"I would never accept a Forbidden Class."
+
+"Great," the man chuckled. "Anyway, I'm Hadrian. We have the same name, but I regret to say I don't have your looks. How did the most talented Princess in ten generations, a smart, beautiful woman, end up with Lucianus, huh?"
+
+"Lucianus is a great husband, sir Hadrian," Adriana quipped back.
+
+"Lucianus is a good man," Hadrian smiled. "He is. But that's not why you married him, is it?"
+
+Adriana was speechless in front of the man's smile.
+
+"Enough of this, then," he shook his head. "I'm not here to give you grief. I came to retrieve a book."
+
+Adriana nodded and opened a drawer in the desk, taking out a big tome Lucianus had left her—he had told her to retrieve it from some place in the city through trusted servants and to tell no one else of it. It had all manners of runes and glyphs on its cover, complete with a symbol of a single snake coiling around the chalice and drinking from it.
+
+"Huh," the man mumbled, looking at the cover. "This is the Language of the Dead."
+
+"You mean, it comes from…"
+
+"This relic comes from—Lucianus is surely playing with fire," Hadrian said, looking at the woman.
+
+At that moment, the door of the study suddenly opened, making both adults jump in their seats.
+
+"Mama!" Lily shouted, making Hadrian almost fall from his chair from the surprise. "Look, look!"
+
+Lily had managed to cover her arms with many coils of Mana and puffed her chest proudly, looking smugly at her mom.
+
+"Now can I go to Lavinia's?! I did it! See!"
+
+"Darling, can you wait? I'll send someone to fetch Lavinia and bring her here. Her mom is sick—I've told you already."
+
+"Alright!" Lily sighed, barely paying any attention to Hadrian.
+
+"Do you want to know how I did it?" The girl asked.
+
+"Later, Honey. I promise to come to your room as soon as I'm done."
+
+Lily blew some air from her mouth but nodded.
+
+"Ok."
+
+For a moment, Lily stared at the book Hadrian was holding in his hands and got closer.
+
+"The—Book… of… the Dead? Cool."
+
+And then, as quick as she had arrived, the little blonde girl left the room.
+
+"You're a patient mother," Hadrian said curiously. "It's rare for your family."
+
+"The Gens Claudia has many patient women," Adriana sighed.
+
+"I'm talking about the Gens Aemilia," the man smiled. "Patience is not a virtue that belongs to your family."
+
+"My family is the Gens Claudia now."
+
+"Sure," Hadrian smiled before turning his head toward the door. "You look like a great mother to that girl."
+
+"I don't know," Adriana confessed, shaken by the events of the day. "She has a great talent, but for some reason, she can't pick up any Affinity. Every time I talk to her about Light, she says it's wrong, and she doesn't even know how to explain herself. She's all over the place. I don't think I'm guaranteeing her a great future."
+
+"Her Mana Shaping is close to the Master Stage," Hadrian said quizzically. "Isn't your daughter eight?"
+
+Adriana nodded and frowned.
+
+"She is, but I don't her Mana Shaping can be that high, yet. It would mean her Mana Sense is already at the Master Stage and has been for a while. She's eight and can't even learn a Light Affinity."
+
+"Well, actually…"
+
+Hadrian let his mouth hang open but Adriana noticed it was as if something stopped him from speaking as he reluctantly, frustratedly clamped his jaw shut.
+
+"Nothing," the man coughed.
+
+"I think I should have been harsher. I'm too soft with her," Adriana let herself think out loud, a rare slip of her private thoughts.
+
+"Why?" Hadrian asked.
+
+"My old family trains kids from a young age, younger than her. They give you less freedom, but they put you on the right road to become strong, to succeed."
+
+"Did you succeed, Princess?" The man asked.
+
+Adriana stared back at him, affronted.
+
+"You don't know what you're talking about," she snapped.
+
+"I don't," he admitted. "I'm not a woman. I wasn't a beloved Princess of the realm either. But I know that right now, you look like a great mother. If I were you, I would keep being who you are and let your daughter be whoever she chooses to be."
+
+"What happens when she's not fit to be Lucianus's heir? I had to shed blood every day in training, and I still fell short."
+
+"That's not what happened," Hadrian smiled. "Is it? You tried playing a game that had no interest in letting you win, that had no way for you to win. And now, you're a Princess locked up in a room, a glorified [Secretary]. You really think this is the place for you?"
+
+"I—I…"
+
+"Princess," Hadrian said, "I know your husband. He's young and foolish. You're young, but you clearly hold much more wisdom than he does. Do not doubt who you truly are. A borrowed face, Princess—a borrowed face massacres the soul. You'll never be who you're not. The same goes for your daughter. Many in your old family went crazy trying to twist their very nature. They still do, don't they? They inject powers that are poison for the soul. They claw into their flesh because they're not comfortable in it."
+
+"Who are you?" Adriana frowned, reeling from those words.
+
+"I am a friend of Lucianus," Hadrian said, getting up from the chair. "And, if you'd like, a friend of yours. Now, though, I must leave. There are other affairs I have to tend to."
+
+Hadrian went for the door, but before his hand could touch the pommel, he turned toward the book in his hands and then back at Adriana.
+
+"What did your daughter say before going out?"
+
+"What?" She looked confused.
+
+"She said, 'The Book of the Dead,' I believe. What does that mean? Is that a thing?"
+
+"I've never heard her saying anything like that. I thought she was just making up words while trying to read that book."
+
+Hadrian looked down at the book in his hands and opened and closed his mouth a few times.
+
+"It can't be…" He muttered, leaving the room.

@@ -1,0 +1,155 @@
+---
+id: 15aa630a-a46f-5d31-8123-af208cd568b1
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 53"
+slug: 0216-b3-chapter-53
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 216
+ownLength: 1356
+unit: words
+ownProgress: 1356
+publishedAt: 2024-10-12
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1846535/b3-chapter-53"
+royalRoadId: "1846535"
+markedReadAt: "2026-06-29T19:13:04.755Z"
+---
+
+AriaAria’s Fourth Decade Living on Silverfall
+
+And there it is. It’s about time.
+
+The System Message I’ve been waiting for.
+
+User has leveled-up to level 75.
+
+User’s skill ‘Servants of the Pale Horseman’ will now be upgraded.
+
+Assessing user’s accomplishments and actions… assessment complete.
+
+User’s new upgraded skill is as follows:
+
+Servants of the Pale Horseman
+
+This skill allows the user to summon up to Lesser Major Spirits of Death, including the three lowest of the hierarchy of Death Spirits. These spirits will then obey all of the orders given to them by their beloved Lady Death.
+
+Set these Spirits on the fools who would try to harm Death herself.
+
+For they do not know of whom they harbor animosity towards.
+
+User will now be given their sixth skill.
+
+Assessing user’s accomplishments and actions… assessment complete.
+
+User will now be given the following skill:
+
+Blood of Death
+
+This skill changes the user’s blood into a deadly poison.
+
+One that will curse those who aren’t able to withstand it.
+
+For to devour Death is to play with your Life.
+
+Now that’s what I’m talkin’ about.
+
+I glance at Asher from my place seated atop the ledge of the eighth Tier of the Spire looking out over a city far from the capital, and the little fella is just happily playing with a ball of yarn that I got not too long ago. So I return to leaning backwards with my hands splayed out on either side of me on the stone ledge, just swinging my legs back and forth over the edge.
+
+While I have no idea what it means by a curse, this should help a lot with the whole ‘being eaten alive’ thing that happens more often than I’d like.
+
+And for a place that doesn’t have any biologically living organisms in these Spires, I sure do get eaten a lot here.
+
+Rather depressing.
+
+Either way, though, my next goal is clear.
+
+To reach level one hundred.
+
+I smile at the thought before glancing down while still kicking my legs, looking at the battles still being fought.
+
+The war has progressed a lot over the course of the last couple decades. To the point that several cities have even been taken on Silverfall. Meanwhile hundreds of planets have been taken across the universe from the attacking nations. Each of whom is most likely regretting their choice of attacking the Empire by now.
+
+At the same time though, I haven’t been able to meet with Leopold for years now because of how busy he’s been. Or Shirogane, for that matter.
+
+Leopold has been repeatedly clashing with the Council of Darkness, fighting against Arthur over and over again, only to end up fighting every last member of the council when Arthur pauses to recover. Making it so that he doesn’t ever get a single moment to help with the war itself.
+
+He barely even manages to recover between fights, much less help fight the other invaders.
+
+As for Shirogane? He just kinda cut off contact after saying he wanted to do this all on his own. So I haven’t talked to him in years.
+
+I let out a sigh as I lean backwards, putting my weight onto my arms as I stare up at the sky. A sky that is, at the very least, clear of spaceships.
+
+Unlike the ground forces, the space forces ended up taking the battle away from the planet, restoring the beautiful skies once more.
+
+But throughout all of this war and death, despite my gaining more soul energy than I know what to do with, I’m still feeling more than a little bored. And I’m getting to the point that I might just want to join in on the fighting simply for something to do.
+
+Because spending forty years fighting and reading in a tower is boring. Even more so during the times when I’m eaten by a mana creature, because I can’t read then. Unless it’s an e-book. Seeing as the books wouldn’t last five minutes in a stomach.
+
+And even then, my phone only has so much power before it’ll die.
+
+I almost want to leave early before the fifty years are over, but then Shirogane would likely be kicked off the planet.
+
+Maybe.
+
+Actually, I’m not sure if he would anymore. Not since I know he is helping the war effort a lot through the economy.
+
+He hasn’t told me his grand plans, but I know he’s set up multiple businesses, used his contacts and favors to pull in a bunch of trade including both food, weaponry, tools, and potions and enchantments, and has set up new Gates for the purpose of sneak attacks.
+
+A lot of different benefits, each of which has significantly helped the Empire.
+
+But none are anywhere near enough for what he’s here to do. And from what he said the last time I spoke to him, he’s likely planning on fighting personally.
+
+So he’ll have to hide everything somehow. To make it so no one knows it was him who fought.
+
+I lean forwards while moving my hands to my sides on the edges of the stone and looking out over the planet again.
+
+Well, whatever he’s doing, I’m rather curious to see it up close and personal.
+
+After all, I’m sure it’s gonna be interesting.
+
+Maybe I can even find him down there? Not like it’ll hurt to check things out instead of staying cooped up inside this tower all the time.
+
+Plus I’ve reached the point that I can keep my Death Spirits summoned here even from far away.
+
+Although that’s mostly because of the overwhelming amount of soul energy on this planet from the war. But whatever.
+
+Oh. Right.
+
+I stand up before turning around and walking a little further onto the ledge.
+
+Should test out the new summon.
+
+The Lesser Major Death Spirit. A rather simple name.
+
+First it was Lesser Minor Death Spirits, then Lesser Death Spirits, and now Lesser Major Death Spirits.
+
+I raise a hand before using the skill to summon a Lesser Major Death Spirit. And the moment I do, a larger rift than normal appears, following which a rather large creature steps out from it.
+
+My eyes widen ever so slightly at the sight of the creature. Then the corners of my lips quirk upwards a little.
+
+Interesting.
+
+The Lesser Major Death Spirit at first glance looks like a rather large creature cloaked in shadows. To the point that it almost looks like an actual cloak, when in reality it’s just a bunch of shadows gathering around the thing’s body. But after taking a better look at it and seeing past the shadows, I can tell that the thing is actually a skeleton.
+
+A skeleton of a beast.
+
+Not a human, but of a beast.
+
+Looks like a gorilla’s skeleton. And it’s rather large.
+
+At least three meters in height.
+
+With glowing red eyes.
+
+I cross my arms and begin walking circles around the Lesser Major Death Spirit. A spirit that is currently just watching me walk around it with its head tilted. Like a curious animal.
+
+After circling it twice, I stop in front of it with a faint smile and state, “Let’s see what you can do.”
+
+Then I order the spirit off of the Spire, making the thing jump straight off the ledge to shatter on the ground below before reforming again. Something I once in a while have the spirits do ever since I realized they don’t feel pain.
+
+No point for pain when the beings can’t die after all. And, well, have no nerves to feel pain with.
+
+I quickly follow after the spirit and jump down until I begin burning from the velocity of my fall. And after creating a lovely crater, I ignore the open gazes of those around the base of the Spire – most of whom seem used to my presence by now, with some seemingly even having jumped out of the way as if knowing I was coming – before entering the Spire after the spirit.
+
+Alrighty.
+
+Time to see what this fella can do.

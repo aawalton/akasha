@@ -1,0 +1,133 @@
+---
+id: 0197d4d7-b150-5334-a933-f411686999fb
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 37"
+slug: 0198-b3-chapter-37
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 198
+ownLength: 1542
+unit: words
+ownProgress: 1542
+publishedAt: 2024-08-30
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1781047/b3-chapter-37"
+royalRoadId: "1781047"
+markedReadAt: "2026-06-29T19:12:27.347Z"
+---
+
+Silverfall
+
+Captain Hartfell Sol stands at perfect attention in front of the gate leading to the Spire next to a city called Lavan. One slightly further away yet still nearby the capital city that the princess started frequenting. Mostly due to the complaints of the Silvanian nobility that Princess Aria was unfairly hogging the use of the Spire for herself.
+
+Luckily for them, the captain’s warm-hearted princess decided to move to a different tower instead of simply ignoring the nobles. Showing just how kind and generous the woman born from the Emperor and Empress of the Crimson Empire truly is.
+
+The captain smiles beneath his metal helmet, his face hidden from the sight of the people traveling in and out of the Spire.
+
+Princess Aria even decided to allow other people into the lower floors of the tower!
+
+Every time the captain sees one of her acts of kindness, he can’t help but think about how wonderful it is to have such a kind princess. Much better than the cold block of ice that is their prince.
+
+Although the man does understand a little bit how the prince ended up as he is. Since he hasn’t been able to see his baby sister ever since the curse was placed on her soon after she was born. And he’s grown far colder ever since.
+
+But the last time the prince saw him, the captain felt a chill run down his spine just from the way he looked at him.
+
+Although he’s not sure why the man looked even colder than usual.
+
+He was just giving his report on the spaceship located a solar system away from Silverfall, yet the man seemed especially annoyed with the captain and all of the knights serving on the princess’s defensive detail.
+
+The only possible reason that comes to mind for the captain is that the prince was jealous. But he wasn’t sure if the prince was even capable of that emotion.
+
+A loud whistling sound echoes around the clearing in front of the tower, making the captain and everyone else nearby look up. Then whoever is closest to the falling person immediately tries their best to move out of the way before she turns into a paste on the ground. Only to pop right back up after her body reforms itself, with her clothing all in order still despite the fall.
+
+A sight that always very nearly gives the knight captain a heart attack every time he sees it.
+
+But after he’s seen it happen hundreds of times over the course of the last fifteen years, he’s given up trying to convince her to try leaving the Spire a different way. Like walking.
+
+And that’s not the only habit of hers that the guard captain isn’t very pleased about. There are plenty of habits that are clearly fueled by her immortality making her apathetic to pain or danger.
+
+The princess looks around for a moment before spotting the guard captain, nodding her head once, and proceeding to begin walking away without saying anything. Despite being in the Spire for two weeks straight this time around.
+
+At least she wasn’t in there for a year this time. I was really scared she may’ve run into trouble then.
+
+If it weren’t for the Grand Silvanian Empire’s emperor telling him she was fine, he would’ve rushed in to find her. But at the end of the year, she ended up walking right out, or rather, falling right out on her own. As if nothing had happened and it was just another day.
+
+Captain Hartfell watches the princess and the nobles and commoners near her with a sharp eye, making sure none of them get too close to her as she walks. Meanwhile all of his knights leave their previous posts to follow after them, discreetly surrounding them.
+
+After spending over a decade and a half with the princess, the knight captain knows more of her hobbies than even the emperor likely knows. Like her interest in reading books. How she tends to get absorbed in reading for entire days if she finds a series she enjoys, somehow forgetting entirely about the Spires in the process until she finishes it. Then she just goes back to the Spire like it was business as usual.
+
+Or how she occasionally plays with her immortal cat using some cat toys when she thinks no one is watching.
+
+He’s also learned more about her person. Like how little attention she tends to pay towards others who aren’t directly in her vicinity at any particular time.
+
+She cares about others, but they often tend to slip her mind if they aren’t in eyesight of her, or she’s not reminded of them one way or another.
+
+Like the merchant she came with from the Eternal Dynasty who still hasn’t made any strides in brokering that deal he came to broker. Hasn’t even been able to meet with the emperor more than twice. Both of which were because he followed the princess to speak with him.
+
+The guard captain almost pities that merchant.
+
+At the same time though, the princess is incredibly analytical of everything and anyone in her surroundings at all times. As if she’s constantly on guard for possible threats. Even when she’s alone in her room.
+
+Which doesn’t bode well to what may’ve happened to her when she was young. A revelation that has been worrying the guard captain, all of the guard, and the imperial family a great deal. Since they still don’t know everything that happened to her on Vortel. Or even much of it at all.
+
+But the biggest detail that wasn’t immediately noticeable about the princess but is known pretty widely across those who recognize her in Silverfall is that she has little to no sense of time. He isn’t sure if it’s because of a side effect from her ability or class, but she can’t keep track of time even the slightest bit.
+
+If she says she ‘won’t be long’ when she enters the Spire, she will most likely come out a month or two later.
+
+The knight captain shivers at the thought of her one day saying she would be spending a long time in the tower. Just wondering how long she might end up spending in there. If a month is ‘not long’ and a year is ‘a little time’ to her.
+
+But despite those habits, she is still the precious lost princess of the Crimson Empire. And she must be protected at all costs.
+
+It doesn’t matter to him or any other citizen of the empire that their princess is one of the four Horsemen of the Apocalypse. That she cannot die. Or that she likes to jump off of high towers and windows instead of taking the stairs.
+
+The captain smiles underneath his helmet again as he watches the princess walk while looking down with half her face covered by her hand and her other arm folded over her stomach.
+
+He swore long ago that he would never allow her to face true hardship ever again.
+
+And he will keep that promise.
+
+For the sweet and kind hearted princess.
+
+Aria
+
+I can’t help but frown as I leave the clearing around the Spire. Because I swear there’s more people there than there normally is.
+
+Ever since I moved here due to the lack of magical ore in the lower tiers of the capital’s Spire. Something about the place needing a bit more time to replenish what I kinda just had my Death Spirits scavenge. And when I told the nobles that they could enter the Spire at the same time as me due to how annoying they were getting.
+
+No reason not to let them in, and their whining was really getting annoying.
+
+Although…
+
+I glance back at the knight captain following me.
+
+…for some reason I feel as if the knight captain is misunderstanding half the things I do for kindness.
+
+Then again, not really my problem.
+
+I face forwards again as I walk into the carriage before sitting down.
+
+It’s his spirits that’ll be disappointed after all.
+
+At first it was rather annoying having him follow me around everywhere. To the point that I only allowed it due to the puppy-dog look he always gave me when I was about to tell him to leave.
+
+But now I’m fine with it. Especially since the Arcadian Society knows I’m here and has not been shy about hiring kidnappers to capture me in broad daylight.
+
+The knights deal with them so cleanly that I’m glad they’re here.
+
+Makes less trouble for me.
+
+Although their actions aren’t exactly doing the Society any favors with the Grand Silvanian Empire. Good ol’ Leopold’s been fuming over it for a while now.
+
+I yawn before leaning against the side of the carriage.
+
+Come to think of it, how long was I in the Spire this time?
+
+I blink at that before yawning again.
+
+Hope Shirogane’s gotten some progress on his mission.
+
+Doubt it though, unfortunately.
+
+I’ll find out when I pay him a visit later, I guess.
+
+Now’s as good a time as any for a short nap though.
+
+So I close my eyes and fall asleep in the carriage.

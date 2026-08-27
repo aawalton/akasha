@@ -1,0 +1,27 @@
+---
+id: a4eb0cbd-3198-5c67-b796-9dc5cf0d783b
+page-type-slug: story-chapter-royal-road
+title: "Writing Seclusion Announcement"
+slug: 0081-writing-seclusion-announcement
+partOf: defiance-of-the-fall
+position: 81
+ownLength: 290
+unit: words
+publishedAt: 2026-01-28
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2989113/writing-seclusion-announcement"
+royalRoadId: "2989113"
+---
+
+Hey gang.
+
+I've made the decision to pause DotF releases for February.
+
+The Ultom mega arc has been a massive undertaking. There are so many parallel plot treads, overarching plot points, and a huge ensemble of characters with their own schemes and motivations. I'm having a lot of fun putting together all these little puzzle pieces. I'm also arriving at moments that I plotted out years ago, which is rewarding in its own way.
+
+On the other hand, there has been a linear increase in time commitment and mental energy drain with the increase in complexity. I've lost count of how many times I've plotted up some sections only to throw it out the window the next week. Starting a story arc is easy; wrapping it up is not (at least not in a satisfying way).
+
+As such, I'm pausing the scheduled releases for February, though I will release a chapter on February 1st to make up for the one I missed a few weeks back. I want to tinker with the story for a bit without weekly releases demanding my attention. I need to write out some important scenes/chapters further down the road, so that I for certain know what Zac is running toward
+
+One thing for RoyalRoad readers to note is that you cannot sign up to a Patreon page while it is paused. If you're thinking of signing up to read the 50 early-access chapters, you need to do so before Patreon charges have been paused on the 31st. Signing up now does not mean you'll "waste" the subscription. It'll get extended for the duration of the break, so it'll last 60 days or so.
+
+I'm sorry about the inconvenience, and thank you all for your patience.

@@ -1,0 +1,153 @@
+---
+id: 50d4d199-76fd-5eca-a940-660f010d2ea6
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 9"
+slug: 0308-b5-chapter-9
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 308
+ownLength: 1553
+unit: words
+ownProgress: 1553
+publishedAt: 2025-10-02
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2646456/b5-chapter-9"
+royalRoadId: "2646456"
+markedReadAt: "2026-06-29T19:16:17.645Z"
+---
+
+Aria
+
+The next one hundred or so years pass by in a flash as I continue hunting in this one Hunter’s Spot. Completely forgetting what I had said or thought before about the once every ten years visit thing. With the void spirits and Death Spirits just meeting every now and then for some important conference they’re hosting the other spirits at.
+
+How that works, considering I needed to open a rift for the Death Spirits to participate, I’m not entirely sure. But at the same time, I don’t care enough to ask.
+
+I’ve just kind of been taking advantage of the fact that this whole Hunter’s Spot is for my private use only. Without a single other person here.
+
+Since the void spirits and the priests never bother coming in here.
+
+For obvious reasons, seeing as it’s a sun and all.
+
+I just continue hunting and hunting and hunting. Or, to be more exact, I sit here reading while my Death Spirits hunt.
+
+It’s a very relaxing time.
+
+A time that I only finally break out of when I get the System Message I’ve been waiting for a long time to see.
+
+User has leveled-up to level 150.
+
+User’s skill ‘Servants of the Pale Horseman’ will now be upgraded.
+
+Assessing user’s accomplishments and actions… assessment complete.
+
+User will now be given the following skill:
+
+Servants of the Pale Horseman
+
+This skill allows the user to summon up to Spirits of Death, including the three lowest of the hierarchy of Death Spirits and the average Spirit of Death. These spirits will then obey all of the orders given to them by their beloved Lady Death.
+
+Set these Spirits on the fools who would try to harm Death herself.
+
+For they do not know of whom they harbor animosity towards.
+
+There we go. I finally got another upgrade to my Death Spirit summoning skill.
+
+Without hesitation, I put my eBook reader down before activating the skill in front of me. Making a rift open before one of the many types of Death Spirits I’ve seen from my time in the Plane of Death passes through it.
+
+Unlike the rest of the Death Spirits I’ve summoned, this one immediately kneels down on one knee and bows its head before me. Displaying clear intelligence in his actions.
+
+Which will be an immense help to me when hunting. Since I should be able to have these average Spirits of Death order around the rest of them.
+
+“Can you talk?” I ask while tilting my head. Only for the Death Spirit to shake his head.
+
+Right. So they are intelligent but unable to speak.
+
+Interesting.
+
+The Death Spirit in question actually looks rather human in appearance. Unlike any of the other Death Spirits I’ve summoned until now.
+
+Which I guess makes some sense. What with the others being considered lesser than every other Death Spirits. To the point that I’m only now being able to summon what is considered the average Death Spirit.
+
+Anyways, the Death Spirit is wearing a pitch black cloak over black clothing, and he has the appearance of a regular old human. Except with glowing red eyes, glowing crimson veins running across his body all over, some of which shine through his clothes, and a glowing crimson jewel embedded in his chest.
+
+Overall, he looks a lot more intimidating than the other Death Spirits I’ve summoned until now.
+
+He also takes a lot more death energy and soul energy to fuel his manifestation here.
+
+So there’s that.
+
+I purse my lips while looking at the Death Spirit before shrugging and ordering him to attack some of the mana creatures in the area we’re at right now. Which is the fourth Tier of the Hunter’s Spot.
+
+And, to my surprise, the Death Spirit actually begins to use death magic. Which isn’t something the other Death Spirits I’ve summoned up till now could do.
+
+All they can do is use their physical body to attack things, or use items for the higher ranking ones. With some exceptions.
+
+But to have Death Spirits that can use magic… that’ll be a major help.
+
+It also explains why they require so much more death energy and soul energy than the others. If they’re able to use it for something other than keeping themselves manifested.
+
+Not that it really matters how much they take, considering that I’m pretty much a bottomless pit when it comes to death and soul energy at this point.
+
+I glance at my terminal when I get another message from Ruby talking about some important matters that I need to take care of. Matters at the company that can’t be taken care of by anyone else.
+
+Because it involves another few worlds that Little Blue added to the collection. Along with some sort of grand ceremony she wants to host to celebrate the formation of what she has labeled the ‘Empire of Death’. Just to give it a name.
+
+And because some people were trying to name our unnamed nation as a massive cult worshiping me.
+
+Which would’ve been very awkward, and everyone I’m friends with knows I’d hate that.
+
+At this rate I don’t really care about what she does. After all, what’s an additional three worlds on top of the over two dozen I’ve already got tacked onto my name at this point?
+
+On another note, the meetings between the Death Spirits and Void Spirits have slowed down a lot lately. And Zero says they don’t need my assistance here anymore.
+
+Plus I got to level 150 now and got my new skill upgrade.
+
+So I guess it’s finally time to leave this place.
+
+Ruby and Ryan have been upset at not being able to see me in person for a while too. Even if we do regular calls while I’m here in this Hunter’s Spot.
+
+Although how much of their being upset is because they miss me and how much is because they haven’t been able to hug their little bottomless death energy tank and therefore have slowed down drastically in their leveling over the years is a mystery.
+
+After testing out the new Death Spirit for a little bit, I go ahead and send them a message telling them that I’m gonna be heading back to Eternus soon. Then I begin to make my way out of the Hunter’s Spot.
+
+A hundred years of hunting sure does a person’s level good.
+
+I feel a faint smile stretching across my face at that thought.
+
+And more importantly, none of my friends have died in this time! Which is very nice.
+
+Everyone from Vortel managed to make it to level 300. So their lifespans are pretty secure at this point.
+
+Even the little kid at the café on Vortel managed to increase his lifespan. So I won’t have to go to his burial like I did for Luke.
+
+This past hundred years have also been nice because a certain annoying Demon King can’t reach me here. Nor can the other pest in the form of War.
+
+Since this is the territory of the Void Spirits. And War isn’t on good terms with the Void Spirits.
+
+As for the Demon King… he’s just probably not able to come here at all.
+
+Both because he isn’t strong enough, and because he’s been a little preoccupied if the news I’ve seen is correct. That he’s been on the run for the past decade. With most of his claimed worlds being freed by this point with him being chased down by the Grand Silvanian Empire like a group of exterminators chasing some rats.
+
+Or maybe roaches would be a better word. Since he has so many clones and is incredibly difficult to actually kill.
+
+Then again, I don’t think I’ll be needing to deal with War’s visits anymore either. Even after I leave this place.
+
+What with War sticking his nose into Famine and the Archmage’s war, which is still going on. Despite a century having passed.
+
+Apparently it’s because the Archmage had some special weapon up her sleeve that has made it a lot harder for Famine to get ahold of her. Even if he is still a lot stronger. And her nation is still on the losing side quite badly.
+
+And since War decided to enter the fray too, she’s been on the run nonstop.
+
+Which kind of led to a pause on the war. What with neither side having their leaders leading them.
+
+I wonder how long their little game of tag will end up being?
+
+Famine trying to chase Isabella to prove the superiority of the Horsemen. War trying to chase Isabella to get her to duel him before she is killed by Famine so that he can take her skills and fight her one last time. And Isabella just kind of running from them both while her own public image comes crashing down both amongst her own people and everyone else.
+
+At the end of the day though, their little game doesn’t affect me.
+
+So I’m just gonna keep doing my own thing.
+
+Which means visiting my winery and café before anything else.
+
+Because, while I have been doing regular meetings with them through my terminal, I really want to see how it’s doing in person.
+
+And that’s more important than any nation.

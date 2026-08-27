@@ -1,0 +1,123 @@
+---
+id: 997aa5b4-adbe-58e2-b9d0-1d5b5f3e7518
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 2"
+slug: 0299-b5-chapter-2
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 299
+ownLength: 1574
+unit: words
+ownProgress: 1574
+publishedAt: 2025-08-22
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2539799/b5-chapter-2"
+royalRoadId: "2539799"
+markedReadAt: "2026-06-29T19:15:58.783Z"
+---
+
+Aria
+
+“You’re a minute late,” Shirogane says with his eyes narrowed as me and Ruby both walk up to the hallway connected to the large balcony overseeing the ceremonial hall where the ball is taking place. With each of us wearing dresses that are matching in color scheme. Unlike Ryan who is already standing with Shirogane and has a completely opposite color scheme from our red and black colors. His being blue and white.
+
+“I can confidently say that this is not my fault,” I tell him with a proud smile on my face. All while pointing a thumb at the slightly blushing Ruby next to me as I finish, “Ruby couldn’t decide on our dresses for the ceremony and kept having us both change into one outfit after another.”
+
+Her blush grows deeper at that, almost matching the color of her dress. But she fights back by saying, “If you weren’t eaten again we would’ve had more time to try them all!”
+
+I roll my eyes while crossing my arms and shooting back, “Says the girl who took five hours to decide on a pair of dresses on the day of the event!”
+
+That shuts her up.
+
+I give a satisfied nod, only to glance at Ryan, who looks like he dodged a bullet with the clearly relieved expression on his face. Which has me raising a brow at him.
+
+He thinks he got out of her fashion obsession?
+
+That’s unlikely. She’s probably planning something for him for the tournament that’ll come after this.
+
+In fact, I know she is.
+
+Ruby has grown very obsessed with fashion during important events over the past few years. Ever since she turned thirteen and heard from one of Little Blue’s older sisters about fashion when she visited.
+
+A sister who tried to drag me into it, but I managed to escape by jumping into the Plane of Death with the excuse of a lesson with the Grand Death Spirits.
+
+Because I personally don’t care about any of that high end fashion stuff. I have my usual style of clothes, which is whatever I’m most comfortable in, and that’s that. Nothing more.
+
+I’m not going to go around coordinating every last detail of my outfit just to look good for people gawking at and ogling me.
+
+My gaze turns back to exhibit A. Shirogane. Who is currently looking me over with clear appreciation in his gaze now that he realized our tardiness wasn’t my fault this time.
+
+And the look in his eye makes me think he actually appreciates Ruby’s work choosing this dress.
+
+Traitor.
+
+It’s unfortunately taking him longer to get over his feelings for me than I originally expected. I just hope he gets over them soon. Like in the next few centuries at least.
+
+Both because I don’t feel it’s fair for him, and because Little Blue mentioned something about my uncle giving Shirogane a death glare at some point when I wasn’t here, and he therefore could be.
+
+Which I wouldn’t be surprised about, considering how overprotective he was back when I was a kid when it came to boys.
+
+“Please be on time for the tournament,” Shirogane eventually says before alternating his gaze between the twins and adding, “Ruby and Ryan, remember that you are representing your graduating grade as the top students in your respective departments. Hold your heads high and feel proud.”
+
+Both Ruby and Ryan grow serious at his words, and I find myself smiling a little. Since the twins have done incredibly well over the past five years.
+
+Ruby excelled in the Academics department and did very well in the Magical department as well. Meanwhile Ryan placed at the very top of the Martial department far above anyone else in the entire academy right now. Albeit largely due to being a werewolf. But still.
+
+“Understood, Uncle Shirogane,” both twins state at once with proud looks on their faces.
+
+I glance between them with a smile. Feeling very proud myself just by looking at them.
+
+Both the kids have grown up rather well. Although maybe too well in Ryan’s case, seeing as he’s taller than me now. And it feels weird not being able to pick either of them up anymore when it’s only been a mere fifteen years since they were little babies bothering me while I was trying to crack a safe combination.
+
+Or, technically I can pick them up, seeing as my level is 125. But it’s just weird to pick up people their size like kids.
+
+And embarrassing for them. Despite how much they still cling to me even at their age.
+
+Even if they only do that in private.
+
+And no matter how much they try to pass it off as being for the advancement of their purpose – which they finally told me about a few years ago – I can clearly tell that they very much enjoy clinging to me.
+
+“Ari, if you’d please?” Shirogane says, calling me by a nickname he started using at some point in the past few years for some reason as he reaches his hand over to me. With his palm facing upwards and his fingers outstretched.
+
+I go ahead and place my fingers in his hand and walk up next to him. Then the doors to the ceremonial hall open and the announcer declares loud for everyone to hear, “Introducing the Crown Prince of the Eternal Dynasty, Shirou Ryohei Shirogane, with his partner for the night, the Horseman of Death and Princess of the Crimson Empire, Aria Crimson.”
+
+And without hesitation, the two of us walk onto the large balcony overlooking the grand-looking hall beneath us. With two spiral stairwells going downwards to the ground floor on the edges of the balcony. Meanwhile the hall itself has multiple large water fountains with tables lining the sides of the hall and several exits leading to the outer courtyard where some people were dancing before we entered. Although they immediately stopped upon the announcer’s declaration of our names.
+
+As for the reason why I’m acting as Shirogane’s partner for this little ceremony? It’s because of politics and the twins.
+
+I wanted to go for the twins’ sake, and Shirogane was politically required to have a partner to this thing otherwise he would look bad. And he didn’t want to go with anyone. So he asked me for a bit of give and take.
+
+Especially since I fit the status side of what his partner needs as well. What with me technically being of equal or even greater status than him in terms of the political standing of the universe. With me being the princess of one of the Grands and a Horseman as well.
+
+Even if I’m not a crown princess like he is the crown prince, my status as a Horseman pretty much seeds me as a future Grand myself in a lot of people’s eyes.
+
+After the two of us walk over to the edge of the balcony, the announcer continues his declaration, “Now introducing the top scoring students of the academy for their grade, Prince and Princess of the Crimson Empire, Ruby and Ryan Crimson. The Children of Death.”
+
+Both Ruby and Ryan walk hand in hand to the edge of the balcony before stopping next to but a little bit behind us as is their tradition. Then the crowd assembled down in the hall begins to applaud, after which Shirogane and I both walk down the stairwell to begin dancing at the center of the hall. With Ruby and Ryan doing their own dance. The two of them having cheated their own need for a partner by going together. Which is perfectly acceptable in society for siblings to escort each other to a ball.
+
+And I find myself looking over to the tables almost every five seconds during my dance with Shirogane.
+
+At the wine on the tables.
+
+Which makes Shirogane chuckle.
+
+And when I’m finally done with my duties for the night as his partner, I immediately make a beeline towards the tables. Where I grab a glass of wine and begin sipping away at it, only letting out a sigh after I finally taste the lovely flavor of the wine.
+
+My own winery really does have a long way to go before catching up with this…
+
+On another note, I have started making my own café branch. One that I’m calling the Crimson Café. Since I’m stuck with the crimson name for everything anyways.
+
+It reminds me of one of my oldest little nicknames.
+
+The Crimson Eternal.
+
+There are actually some places that still call me that, since it apparently leaked out of Vortel at some point. So that’s rather amusing.
+
+Anyways, I completely ignore any and all attempts by royals here at the party to make connections with me or ask me to dance as I enjoy the lovely wine all around the tables. All the way until and after they give up, leaving me to my wine.
+
+“Please tell me this wasn’t your real reason for coming here Mom,” I hear Ruby muttering from her place beside me, the twins having finally settled their own duties here.
+
+Not the only reason, no.
+
+“Of course not,” I answer her between sips of wine. “I came to celebrate your graduation.”
+
+And to test out the wine they have here to improve the wine in my winery.
+
+She lets out an exasperated sigh.

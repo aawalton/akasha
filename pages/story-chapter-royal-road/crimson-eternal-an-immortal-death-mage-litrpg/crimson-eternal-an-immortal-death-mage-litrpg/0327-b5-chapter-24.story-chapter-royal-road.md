@@ -1,0 +1,179 @@
+---
+id: 0c46c163-d217-5685-8557-f60e157ed416
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 24"
+slug: 0327-b5-chapter-24
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 327
+ownLength: 1406
+unit: words
+ownProgress: 1406
+publishedAt: 2025-12-26
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2883170/b5-chapter-24"
+royalRoadId: "2883170"
+markedReadAt: "2026-06-29T19:16:56.099Z"
+---
+
+Aria
+
+Over a decade passes before the next System Message I’m looking for arrives. After spending a lot more time than I originally planned in the Hunter’s Spots on War’s planet that is.
+
+Way too much time according to the other hunters on his planet, but I don’t really care what they think.
+
+User has leveled-up to level 300.
+
+Assessing user’s accomplishments and actions… assessment complete.
+
+User will now be given the following skill:
+
+Death’s Court
+
+To stand within Death’s Court is an honor.
+
+An honor for all. And a brief end to life.
+
+But most importantly, an increase to Death’s power.
+
+Death’s Court is now in Session.
+
+Beware Her Judgement.
+
+I stare blankly at it from my place lying down on my lawn chair.
+
+Death’s… Court?
+
+What’s that?
+
+This skill isn’t exactly very self-explanatory. Even if it does sound kind of cool.
+
+After a brief moment to think, I just shrug my shoulders and get up from my lawn chair. Then I pack everything away and head off to a location filled with mana creatures.
+
+And without any further hesitation, I activate my new skill. Instantly making a massive structure just materialize all around me and the many mana creatures near me.
+
+The structure itself seems to be made out of pure death energy, and it looks like some incredibly grand throne room. With the throne itself appearing right behind me.
+
+Huh. This is cool.
+
+I sit down on the throne before finding it to be incredibly comfortable. Then I turn my attention to the mana creatures filling the grand hall in front of me.
+
+From what I can tell, the hall seems to be filled with death energy. Far more death energy than I’ve ever seen in one place outside of the Plane of Death.
+
+I narrow my eyes while seated on my throne. Only to see the mana creatures finally begin to grow used to this place and continue fighting each other again.
+
+But nothing seems to happen other than that, which leaves me curious.
+
+Just what is this place supposed to do?
+
+Out of curiosity, I go ahead and summon Death Spirits to this court. And while the Death Spirits do seem a bit more energetic, that’s all.
+
+At least, that’s all until they begin to fight with the mana creatures.
+
+Interesting…
+
+Normally I have to recharge the Death Spirits with death energy or soul energy whenever they’re hurt to regenerate them. But this time they’re regenerating from the ambient death energy in the Court.
+
+So that’s one benefit to this place I guess.
+
+It isn’t until my Death Spirits finish slaying one of the mana creatures that I quickly begin to realize the other benefit.
+
+All because of one message from the System.
+
+[User has killed one being within Death’s Court. All Death Energy released upon death has been gathered. Requirements to reach level 301 have been updated. New requirements are as follows: 2/30000000 beings have been granted Death.]
+
+Excuse me, what?
+
+Killing one mana creature gave me the progress for killing two?
+
+I pay closer attention to the mana creatures as my Death Spirits continue slaying them.
+
+[User has killed one being within Death’s Court. All Death Energy released upon death has been gathered. Requirements to reach level 301 have been updated. New requirements are as follows: 4/30000000 beings have been granted Death.]
+
+[User has killed one being within Death’s Court. All Death Energy released upon death has been gathered. Requirements to reach level 301 have been updated. New requirements are as follows: 6/30000000 beings have been granted Death.]
+
+[User has killed one being within Death’s Court. All Death Energy released upon death has been gathered. Requirements to reach level 301 have been updated. New requirements are as follows: 8/30000000 beings have been granted Death.]
+
+Interesting…
+
+I’ve known this for a while now. That I don’t manage to retain all of the death energy released from beings I am responsible for killing. That a lot of it gets expelled into the air around me and the creature without entering me.
+
+But it’s different here in my Court apparently.
+
+The ambient death energy just somehow latches onto the death energy expelled by the killed beings and brings it into me somehow. Making it so that I get all of the death energy upon their deaths.
+
+On top of that, I also seem to get death energy for deaths that I’m not even responsible for. Seeing as I’m getting progress towards my purpose even when other mana creatures kill each other without my interference at all.
+
+A faint smile spreads across my face.
+
+I rather like this new skill. It’ll make it a lot easier to level up.
+
+It’s just too bad that the Court isn’t bigger. Seeing as it’ll probably make it a bit harder to use nukes inside of it.
+
+Actually, can the Court even withstand nukes?
+
+Hmm… I should test that.
+
+Outside Death’s Court within the Hunter’s Spot
+
+“What’s that?” Javier asks while pointing at the massive building that looks almost like a castle. One letting off an incredibly eerie sensation and that is black and crimson in color. “Does anyone else remember there being a castle inside of the Hunter’s Spot?”
+
+The other hunters in his team shake their heads. And they’re not the only ones as other hunters begin to gather to stare at the massive castle.
+
+A castle that looks almost like it could belong to the Demon King or something.
+
+“Whatever it is, it’s flooded with death energy,” Ayase, the mage of his team, states while shivering. “You know what that means.”
+
+Everyone stares at her for a moment before turning their attention back to the castle.
+
+“Oh.” “So it’s her.” “Right, moving on.” “What’s she up to this time?”
+
+After learning about the death energy, everyone nearby immediately begins to disperse. Deciding not to question it any further.
+
+Not when it clearly has something to do with the Horseman of Death.
+
+“But why would she make a castle in the middle of a Hunter’s Spot?” Javier asks with a frown on his face.
+
+Ayase looks at him with an expression that makes him wonder if she is thinking he’s stupid for asking that question as she responds, “She’s Death.”
+
+He stares at her for a moment before eventually nodding his head without a word.
+
+Because for some reason that explanation is all he needs, considering everything he’s seen and heard about the Horseman since she arrived at the Scarlet Crucible years ago.
+
+Blowing up the Hunter’s Spots mana creatures while watching TV or reading a book. On a lawn chair. With Death Spirits bringing her wine every now and then while hunting mana creatures themselves.
+
+Sometimes leaving the Hunter’s Spots and falling on top of people’s heads outside, even if she doesn’t really hurt them much.
+
+And even marching through the outside with large armies of Death Spirits just lugging around materials from the Hunter’s Spots.
+
+At this point most of the people on the planet have grown used to her antics. Which is saying something.
+
+“I guess we need to go find a different Hunter’s Spot today,” Javier mutters, not finding that particularly pleasing.
+
+It’s become a bit of a custom at this point. Avoiding whatever Hunter’s Spot Death is currently farming at.
+
+But before any of the nearby hunters can get far, massive explosions ring out from within the large castle. Destroying large parts of it as a mushroom-shaped cloud breaks out and goes into the air.
+
+Then the castle just somehow reforms itself without any visible damage.
+
+Javier stares blankly at the castle for several seconds before quietly turning around and leading his team away.
+
+Deciding not to question things that should not be questioned.
+
+Aria
+
+Huh. That worked better than I expected.
+
+I stand with my hands on my hips in front of my throne and my chest pushed out slightly in pride at the sight of my handiwork. That being the sight of the now empty Death Court, along with the flood of messages from the System.
+
+All of which are giving me twice the progress in my purpose than what they used to.
+
+Very nice.
+
+Now I just need to gather more mana creatures into this place.
+
+Or maybe I can just move somewhere and resummon it?
+
+That would be cool.
+
+I give a firm nod of my head.
+
+Explosions really are the best way to level up.

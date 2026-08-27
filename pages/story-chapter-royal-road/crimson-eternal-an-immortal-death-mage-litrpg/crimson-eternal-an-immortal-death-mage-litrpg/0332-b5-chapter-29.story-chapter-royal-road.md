@@ -1,0 +1,151 @@
+---
+id: 489c8cb8-3a37-5e2d-9fed-a1c8172ff273
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 29"
+slug: 0332-b5-chapter-29
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 332
+ownLength: 1448
+unit: words
+ownProgress: 1448
+publishedAt: 2026-01-31
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2999925/b5-chapter-29"
+royalRoadId: "2999925"
+markedReadAt: "2026-06-29T19:17:05.642Z"
+---
+
+A Ship Located outside of the Planet the Meeting is on
+
+“Is she out of there?” a man asks with a frown on his face as he stands at the front of the flag ship’s bridge.
+
+“Yes, commander,” his closest aide answers right away. “Her personal knights from the Crimson Empire took her away from the combat zone. She is now watching on the edge of the volcano… no, she just left to her ship. But it looks like she’s coming back with a cooler.”
+
+The commander glances at his aide for a moment before slowly asking, “A cooler?”
+
+His aide nods her head and says, “A cooler. One that looks to be full of different wines.”
+
+Regalos Veltran stares blankly at his aide for a few seconds before said aide puts a video of the Horseman of Death up at the top of the bridge, making numerous officers in the bridge look up at her. Just to see a beautiful woman with long white hair and glowing red eyes humming to herself while setting up a relaxing little area on the edge of the volcano’s crater. One with a lawn chair, an umbrella, and even a table with her wine cooler next to the lawn chair and a glass on the table.
+
+The commander sees no small number of his officers reaching up to take pictures and video of the video, but he decides to act like he didn’t see that. While also pretending to not know the exact website those pictures and video will end up on.
+
+Regalos watches the woman just lie down on the lawn chair with a sigh before grabbing her wine and beginning to drink from it as the dust from the explosion around the villa finally begins to settle.
+
+“Leave her be,” Regalos eventually orders while turning his attention back to the subject at hand. “Don’t touch a hair on Death’s head. Or it’ll be your head that you’ll find missing.”
+
+“Understood, sir!” all the officers in the bridge exclaim at once.
+
+“What if the targets approach her, or she approaches them?” his aide asks, making him glance at her for a moment before focusing on the sight of the volcano as seen from space.
+
+“Avoid her at all costs,” Regalos answers without any hesitation.
+
+I am not going to lose my head from attacking her, nor do I have any intentions of making the Crimson Empire and the Rex Dynasty my enemies.
+
+They’ve got enough problems as is with the Demon King and the other Horsemen. They don’t need to go adding more unnecessary problems because of some accidental misfire hitting the Horseman of Death.
+
+“Have the Grands arrived yet?” he asks with a frown as the dust finally settles and sight of what used to be a villa is restored. Showing nothing but rubble atop the chain-held platform along with the three Horsemen. Two of whom are incredibly upset and one is ecstatic.
+
+“Not yet,” his aide states, crushing that hope.
+
+But what did he expect? The Grands will do what they want when they want.
+
+He can’t plan around their actions.
+
+Even if he is the official commander of the attack.
+
+“Pestilence looks angrier than we expected,” one of the officers reports in, making everyone focus on Pestilence’s gaze. Which is angrier than any recorded image of the usually expressionless Horseman has ever shown.
+
+Regalos frowns at the sight.
+
+We were expecting Famine to be upset for us attacking Horsemen, but why is Pestilence so angry? This wasn’t in the plan.
+
+He continues watching for a bit before noticing what looks like a shredded piece of paper in one of Pestilence’s hands.
+
+What’s that?
+
+“Zoom in on that paper,” Regalos orders, following which a screen appears showing a zoomed in shot of the paper in his hand.
+
+A paper that looks like it has a bunch of scientific calculations on it.
+
+Then it clicks in Regalos’s head.
+
+Was he really doing experiments and calculations while in the middle of their meeting…?
+
+His gaze turns towards War.
+
+And why is War not wearing a shirt or any armor on his torso at all?
+
+He glances between the three Horsemen, then at Death. But nothing clicks in his mind.
+
+These four… were having a meeting, right?
+
+Regalos can’t help but tilt his head, genuinely beginning to wonder if they were actually having a meeting or not.
+
+Eventually he just shakes his head, deciding that the events of their meeting don’t matter for the attack. And as long as a certain uncontrollable factor doesn’t get up from her lawn chair and cause problems, things should proceed relatively smoothly.
+
+At least for a little while.
+
+Aria
+
+Well this is fun.
+
+I should get a closer look at some point later. But for now I very much like my position here.
+
+And conveniently enough, all the shots fired from the what must be thousands of spaceships above us happen to be avoiding me entirely. Which is very nice.
+
+So I continue sipping away at my wine as I watch, even briefly pondering over if I should’ve gotten popcorn as well. Just for the image it would give off.
+
+But after a few moments, I decide against it. Because I don’t really like popcorn, so there wouldn’t be much point beyond that image.
+
+On another note, Pestilence seems really angry right now. Probably because their attack completely destroyed all of his laptops and papers.
+
+Never destroy a researcher’s research. It’s a line I often see on the internet and in books. And now I’m seeing it proven in real life.
+
+While I’m sipping wine.
+
+This is good wine. I’m glad I made sure to ask Famine for some before the villa was blown up.
+
+And by some, I mean I stole his entire stock inside the villa and put it in my ship. Which means the wine is safe.
+
+So long as the wine is safe, nothing else matters.
+
+I give a firm nod of my head at that thought as I continue watching the explosions ring out through the volcano’s crater. But none of them are really doing much of any damage to the Horsemen.
+
+And after a brief pause, Lucius summons a sword and floats up to space – while still half naked – before swinging the sword once.
+
+Slicing a spaceship in two.
+
+I put on some sunglasses when the massive spaceship explodes. Turning into a very bright light. Without stopping in my wine drinking, of course.
+
+My attention turns towards Pestilence as the man floats up into space as well before emitting some sort of green misty liquid from his body. A liquid he begins sending straight inside of all the ships.
+
+And after just a few moments, I see several of those ships beginning to crash to the ground. No doubt having had all their operatives incapacitated or killed by whatever plague he just set loose on them.
+
+As for Famine… well, some ships crash without Pestilence even targeting them. And I can see famine energy heading towards him through the air, so I’m guessing he’s starving the people in those ships. Turning them into husks.
+
+And husks can’t fly ships.
+
+Ironically enough, I find a barrier placed over me. So any ship that tries to crash on me just kind of bounces off, leaving me in peace as I drink my wine.
+
+Considering the level of technology and power these attackers have, I’m guessing this barrier is probably the Crimson Empire knight’s doing.
+
+Anyway, right now the Horsemen are just going wild slaughtering the attackers. Which kind of makes me wonder why they thought they could actually fight them in the first place.
+
+But then it happens.
+
+A couple rifts open up and hundreds of spaceships leave them. With one side being from the Crimson Empire and the other from the Council of Darkness.
+
+Each side has an enormous presence, and I can feel a massive amount of mana flooding the area because of their far superior forces compared to the other attacking ships. And amidst them all, I see Arthur appearing. The former stalker still wearing the exact same thing he was wearing the last time I saw him.
+
+Then numerous stronger people from the other attacking forces all leave their ships and begin to surround the Horsemen. Using a quality over quantity style of attack now instead of what they were doing before.
+
+Hmm. I just realized something.
+
+With me being here, the Crimson Empire’s Grand can’t actually participate in this battle.
+
+That’s… an interesting thought.
+
+I stare blankly forwards for several seconds before eventually just shrugging.
+
+Meh. Not my problem.
+
+Back to watching the show.

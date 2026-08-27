@@ -1,0 +1,775 @@
+---
+id: 63cf9ce8-f9b1-531c-abab-6919ef62b804
+page-type-slug: story-chapter-royal-road
+title: "210: Atrocity"
+slug: 0210-210-atrocity
+partOf: delve
+position: 210
+ownLength: 6622
+unit: words
+publishedAt: 2022-10-30
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1027065/210-atrocity"
+royalRoadId: "1027065"
+---
+
+Only a glimmer of light snuck into Rain’s bedroom from beneath the door, but thanks to the six Perception accolades he was using, he had no trouble seeing the mundane details of his surroundings. The mundane was not his focus, but rather, the riot of color and sensation pressed against his senses.
+
+Through that haze, he watched as Ameliah scrunched up her eyes, then opened them, yawning like a cat. “Still at it, huh?” she asked muzzily, her soft voice booming in his ears.
+
+Rain relaxed Detection and lifted his chin from his steepled hands, then shook his head in an attempt to clear the hallucinations. The tiny swirls of gold that might have been Ameliah’s soul—or might have been brain damage—began to fade, leaving an overpowering scent of cinnamon and a prickly feeling across the soles of his feet. He sneezed, practically knocking himself out with the sound, then fell into an uncontrollable coughing fit.
+
+Ameliah sighed. “I get it, you know? But trying to master Reading in twenty-four hours?”
+
+Rain grimaced, getting his diaphragm under control and replying in a whisper that seemed to rattle his skull. “I didn’t think it would be this hard.”
+
+“Dummy,” Ameliah muttered, probably not expecting him to hear, then let herself fall back on the bed with another enormous yawn. “Did you at least sleep?”
+
+“Full eight hours,” Rain said. He sighed, then gingerly transferred himself from his chair to sit beside her on the edge of the bed, summoning a progress report.
+
+Progress Report
+
+marker_1: grannybrain [3061 Seedlings 31 00:32]
+
+marker_2: reading_rainbows [3061 Seedlings 32 06:02]
+
+Span: 1.2 days
+
+Skills
+
+Ethereal Aura: +3,024 exp
+
+Synchronization
+
+Endurance: 29.5 -> 30.3 (+0.8)
+
+Perception: 26.9 -> 38.9 (+12.0)
+
+I think I might have overdone it on the Perception, given that I got Endurance sync too, but pushing through the pain works wonders.
+
+He shook his head, then dismissed the window.
+
+She’s right. I am a dummy, aren’t I?
+
+With a grimace, Rain lifted his hands to his helmet. They began to tremble as they got close, but he pressed them firmly against its sides until they stopped. Twisting sharply to unlatch it from the rotating collar, he pulled it free, grinding his teeth, but not from the sudden increase in light.
+
+There was a sound of shifting covers.
+
+Rain froze as Ameliah’s weight pressed against his back. Gently, she draped herself over his shoulders, wrapping her arms around his stomach. Her cheek brushed his beard, and she recoiled for an instant, but then nuzzled against it.
+
+“Scruffy, I know,” Rain said with a tight smile. His hypersensitive skin was screaming at him, pleasure mixing with pain. “I need to shave again.”
+
+“You took off your helmet,” Ameliah murmured in his ear. “That’s good.”
+
+“It’s easier...” Rain began, then swallowed heavily, his fingers tightening against the helmet in his lap. Once more, he found himself struggling with the memory of hot blood spurting from his carotid artery. With great effort, he pushed it away. “It’s easier...when it’s just you. I’ll get there.”
+
+“Mmm,” Ameliah said, kissing his cheek. “You don’t need to rush.”
+
+“I do,” Rain said, shivering at the fireworks her lips had sent exploding through him.
+
+Ameliah hummed skeptically, ruffling her fingers through his hair. “Some things are better done slowly.”
+
+Rain smiled, then angled his face to kiss the side of her neck. He groped for one of her hands, the shadows deepening as he pressed three Perception plates into it. “Here, then.” He kissed her neck again. “Some things are better shared.”
+
+Velika leapt to her feet, or rather, tried to. Her muscles trembled in agony, and she cried out as she tangled in the sheets, falling to the floor with a heavy thump. Something tugged at her arm, a sharp pain, as if she’d been hooked by a stinging nettle, except no mere nettle could have pierced her flesh. Still, it hurt. The sharpness was striking, even against the backdrop of the grinding ache that spread from her heart to the centers of her bones.
+
+“Lana, get help!” a male voice shouted, cutting through her hurt.
+
+“Hnnget away,” Velika slurred, struggling with the blankets. Managing to rip herself free, she looked down at her arm, seeing that the tug had come from a long metal needle lodged in her inner elbow. A smooth cord ran from it, strapped to her arm with a strip of cloth before trailing away to tangle in the torn bed sheets.
+
+What?
+
+With clumsy fingers, Velika grasped the needle and ripped it out, tearing the cloth in the process. She held the metal object to her bleary eyes. Its disproportionate weight told her it was adamant.
+
+What?!
+
+“It’s okay, calm down,” the male voice said, closer now. “It was just giving you water.”
+
+My sword!
+
+The needle clattered heavily to the floor of the tiny metal room, forgotten. Velika had spotted her naked blade propped against the wall in the corner. She lunged for it, but again, her body disobeyed her, and she cried out wordlessly, collapsing in a tangled pile of limbs.
+
+“Watch it!” the voice shouted in alarm, its owner scrambling back.
+
+Velika stilled, panting on the floor. She touched her elbow, her fingertips coming away crimson with her blood, though it was just a tiny drop.
+
+What did...they do to me? Why is it...so...hard to...
+
+Her eyes widened.
+
+The Warden! She took the Mantle, then...
+
+Then...
+
+“Lady Vekuavak, can you understand me?” the male voice asked, close again.
+
+Velika looked up, squinting in the lamplight. The man speaking to her was one of Rain’s people. His servant, as she remembered.
+
+She reached for a Perception accolade to get a better look at his face through the shadows, but...
+
+Her soul was empty. There was nothing there.
+
+She inhaled sharply, choking on her own breath. “Urk!”
+
+“Lana!” the man called again. “Hurry up!”
+
+Gasping for air and thrashing like a fish, Velika queried her interface. It responded sluggishly. Pulling the time into her mind felt like wading through a bog, but eventually, she pushed through. It was the 32nd of Seedlings.
+
+It wasn’t just her accolades that were gone, but two days as well.
+
+Her health, though...
+
+...Full? But why do I feel—
+
+A deep rumble filled the air.
+
+Velika managed to raise her head again, then hissed as the lamp’s brightness was drowned out by one of those magical bulb things. “You,” she slurred, recognizing the antlered cervidian in the doorway.
+
+“Oh, good, Tallheart,” Rain’s servant said in clear relief. “Lana, did you find Rain and Ameliah?”
+
+A woman coughed, then answered from the hall as Tallheart negotiated his antlers inside. “Yes, but they’re busy.”
+
+“Busy?” the servant demanded. “What do you mean, ‘busy’?”
+
+“I mean busy,” the woman responded, emphasizing the word.
+
+“What could possibly be more important than—?”
+
+“Calm yourself, Tarny,” Tallheart interrupted, crouching beside Velika as she struggled to control her limbs. The grinding pain was growing worse, centering on her heart as pins and needles began spreading from her extremities. The cervidian rumbled, fixing her with a granite-eyed stare. “This one will not cause trouble. She knows to whom her life is owed.”
+
+With immense effort, Velika drew her knees to her chest, hugging them tightly to prevent their escape. The pain in her heart was unbearable. Hot tears welled up in the corner of her eyes, and she released a low moan. The world was growing dark again despite the glowing bulb on the wall.
+
+Distantly, she was aware of herself being lifted by strong hands—aware of being gently laid back into the bed.
+
+Someone spoke, but the words were nonsense, a distant buzz.
+
+The pain, mercifully, was fading, but not her anguish.
+
+I...lost.
+
+“Down there!” Rain called over the wind, pointing at a damp-looking depression in the scrubland, moderately sheltered from outside eyes by the natural geography. He felt Ameliah tighten her grip around his waist, and then there was a jerk as she changed their direction through the air.
+
+“How long are you going to need?!” she shouted. “If she wakes up again, I want to be there!”
+
+“Tallheart can handle it!” Rain replied, the wind slowing. “You heard how well he did the first time! Besides, we’ve got Halgrave!”
+
+“I think he’s more likely to kill her than just restrain her,” Ameliah countered as she set them down in the mud with a squelch. “He hasn’t come out of his room since the Warden spoke to him. It has to be more than just her breaking through his defenses that’s upset him. What could she have told him, do you think?”
+
+“No idea,” Rain said, again reminding himself to work on that whole ‘therapy’ thing. He shook his head, kicking off a full sweep with Detection. “I need to solve the problems I can solve.”
+
+“Fair,” Ameliah replied, then summoned her bow with her new skill. “Are you going to unlock a skill tree first? It seems like a shame to waste the experience.”
+
+Rain shook his head. “The experience is just a drop in the bucket.” He pinged a few more times with Detection, then shrugged. “I’m still not happy with my paling integrity, and I’ve got enough to be getting on with without any other distractions. Once we’re done here, I’m going straight back to Reading practice. I’m only bothering with this at all because it’ll make my spells work better aboard Temerity, especially since I can decouple occlusion resistance and output.”
+
+“Again, fair,” Ameliah said with a shrug, giving her bow a few half-pulls, then lowering it to her side. “Do your thing, then. I’ll keep watch.”
+
+Rain rubbed his chin through his visor. “Though, now that you’ve brought it up, there’s nothing stopping you from unlocking stuff.” He gestured to her bow by way of example. “Sana gave you a clean bill of health, so we don’t need to worry about that hiccup you experienced when the Incarn detonated. If you’re willing to unlock Utility Auras for me, I’d—” He stopped, seeing she’d raised her hand. “What?”
+
+Ameliah lowered her arm. “I already unlocked a tier-four after I finished straightening out Ranged Arsenal yesterday, and it wasn’t exactly pleasant. I was going to mention it last night, but you were busy, and then I forgot.”
+
+“What?!” Rain gasped, almost slipping on the mud in his haste to rush over to her. “Forgot?! Are you hurt?! You didn’t do it alone, did you?! Was Tallheart there?! What happened?! Did you—”
+
+“I’m FINE,” Ameliah spoke over him, laughing. “Thank you for your concern. It wasn’t any worse than the first time I unlocked a tier four, so it’s nothing to worry about. It was just a little uncomfortable. The skill didn’t answer any questions, so it slipped my mind.”
+
+Rain shook his head violently, grabbing her shoulders and inspecting her as if he’d be able to see the damage. “If it hurt—if you’re hurt—why didn’t you tell me?!”
+
+“I said it was uncomfortable, not that it hurt,” Ameliah said, looking down at his arms before meeting him eye to eye. “I’m fine, Rain. If you want to compare it to something, it was like getting poked in a bruise.”
+
+“A bruise on your soul!” Rain said, pulling her into a crushing hug. “You need to be careful!”
+
+“Which is why I’m going to give it a few days,” Ameliah said, a note of irritation seeping into her voice. She dismissed her bow, then snaked her arms inside his and broke his hold with the unrelentingly smooth strength of a hydraulic jack. “Don’t treat me like I’m made of glass. It’s cute, but it gets old. You’re the one that broke yourself, fluff brain.”
+
+Rain sighed. “Point.”
+
+“Damn straight,” Ameliah said, crossing her arms and leaning backward in imitation of him when he’d taught her the expression.
+
+Rain smiled, grateful to her for diffusing the tension.
+
+Ameliah’s expression broke with a chuckle, and she stepped forward to rap her knuckles on his breastplate. “Now, do you want to know what I unlocked or not?”
+
+Rain’s smile widened. “Is that a question?”
+
+She grinned at him. “Silly me. Tier-four Psionics. The capstone is called Mind Flay, and it just does piercing Mental damage, shredding random memories as a side effect. Nasty, but not mind reading.” She summoned her bow again, holding it tightly as if seeking solace. “The more I learn about Mentalists, the less correct it feels to call Vatreece one. It’s like comparing a world-renowned painter to a monkey smearing its shit on the wall.”
+
+“Nice image,” Rain said with a smile. “Apt, though.”
+
+Ready to begin, Rain caught himself, having been about to ask Ameliah to step back. That would have been a mistake in light of what she’d just said about treating her as fragile. Even without her helmet, there was no way he’d be able to get through her resistances with environmental effects, and that was without even taking IFF’s damage mitigation into account. That didn’t mean he wasn’t going to warn her, though. “Here we go. Starting with Immolate in a five-meter radius, max power short of Aura Focus, but with only ten percent environmental output.”
+
+“Don’t drain yourself dry,” Ameliah said. “We’re out here alone, remember. We might need to defend ourselves.”
+
+Rain nodded, configuring his ring and macros. Caution was warranted, though with five hundred extra Clarity and maximum Winter at his call, he wouldn’t stay empty for long no matter what he did.
+
+The game has changed.
+
+After one Detection pulse and a visual scan of the horizon for good measure, he finally let loose, simultaneously upping his interface’s verbosity to maximum.
+
+Ethereal Aura (9/15) Exp: 17,697/29,600
+
+User may exempt the aura from environmental effects at will
+
+Aura gains 45% resistance to environmental occlusion and absorption
+
+Environment receives 10% aura output
+
+focusboost.sh: 600 points shifted to Focus from secondary stats
+
+focusboost.sh: Focus: 870
+
+modmon.sh: ['amplify aura', 'extend aura', 'aura compression', 'channel mastery', 'ethereal aura']
+
+autocompress.sh: Target: 5 meters
+
+autocompress.sh: Compression Applied: 168.4 meters
+
+iff2.sh: offensive aura detected
+
+iff2.sh: foes: none
+
+iff2.sh: friends: !foes
+
+iff2.sh: ignore: none
+
+iff2.sh: friends non-empty, power target doubled
+
+autopower.sh: Target: 2e+06 dps
+
+autopower.sh: Target not met
+
+autopower.sh: CM Setting: 200%
+
+Immolate (15/15)
+
+98251.65-112287.60 heat (fcs) damage per second to foes
+
+49125.82-56143.80 heat (fcs) mitigation per second to friends
+
+9825.16-11228.76 heat (fcs) damage per second to environment
+
+Sufficient damage causes ignition
+
+Aura resists 45% of environmental occlusion and absorption
+
+Range: 5 meters
+
+Cost: 2400 mp/s
+
+Instantly, everything within five meters caught fire. That included himself and Ameliah, though the energy cloaking them was of a different nature and did not burn. At this level of power, the inverted effect of Immolate clung to their armored skin like crimson faerie fire. Rain’s armor was further girded with swirls of a slightly muddier red, evidencing the sloppiness of his high metamagic cast. The light show didn’t end there, either, the interior of his helmet lit up in blue as his eyes blazed with mana use.
+
+“Bit warm, this,” Ameliah observed as the last of the fires died. It had only been a few seconds, and all that remained was ash, swirling in the burning air.
+
+“Right proper toasty,” Rain replied, but he was distracted from trying to make a British accent work in common by an ominous rumble. Looking down, he observed the growing circle of baked earth beneath his feet, the rising steam growing to a hissing torrent before his eyes.
+
+“Woah,” Ameliah said, hopping upward to land upon a platform of air. “What the—?”
+
+“It’s the reduced occlusion!” Rain called over the growing roar. “Immolate can’t usually spread through solids!” He looked down again through the steam, the dry circle expanding even faster now. “Without that limit, it’s taking less and less time to—”
+
+*WHUMP*
+
+Rain cried out, finding himself tumbling as he was launched into the air. Scalding steam and dirt brought the already low visibility to zero, preventing him from stopping his fall with something other than his face. It didn’t hurt, though, and he scrambled back up quickly, feeling the earth slumping beneath him as it settled. As the steam carried away the last of the dust, he found himself standing at the center of a shallow crater, Immolate still running.
+
+Well then.
+
+“Gah,” Ameliah coughed, spitting to clear her mouth as she alit on the bone-dry earth. “Since when did you learn Fireball?”
+
+“That was a steam explosion,” Rain said, wiping a hand across his visor to clear the dust. His mana being close enough to half, he dropped Immolate in favor of an empowered blast of Purify, quickly followed by Winter.
+
+accumulate.sh: Used Immolate for 21 s
+
+accumulate.sh: 50400 mana used
+
+accumulate.sh: 139 mana passively regenerated in 21s
+
+accumulate.sh: 2063285-2358040 Heat damage
+
+restore.sh: Secondary stats restored
+
+focusboost.sh: auto-disabled, non-scaling spell
+
+focusboost.sh: 0 points shifted to Focus from secondary stats (non-scaling spell)
+
+focusboost.sh: Focus: 270
+
+modmon.sh: ['amplify aura', 'extend aura', 'aura compression', 'channel mastery', 'ethereal aura']
+
+autocompress.sh: Target: 5 meters
+
+autocompress.sh: Compression Applied: 168.4 meters
+
+Purify (15/15)
+
+Purify poison, corruption, and contamination
+
+Aura resists 45% of environmental occlusion and absorption
+
+Environment receives 10% aura output
+
+Range: 5 meters
+
+Cost: 4800 mp/min
+
+accumulate.sh: Used Purify for 1 s
+
+accumulate.sh: 80 mana used
+
+accumulate.sh: 7 mana passively regenerated in 1s
+
+macroset winter_solo_passive
+
+Using Winter with:
+
+Amplify Aura
+
+Channel Mastery Multiplier: 2.00
+
+Compression Range Reduction: 173.40m
+
+Winter Multiplier: 269.86
+
+Winter Adder: -11520.00 mp/day
+
+Winter Range: 0.00 m
+
+mregen.sh v0.3
+
+Mana Regeneration: +1,787.98 mp/s
+
+Base Regeneration: 6.626157 mp/s
+
+Clarity: 830
+
+Winter: 26,985.67%
+
+Winter: -0.13 mp/s
+
+Mana: 183,612 / 235,250
+
+Full: 28.88s / 0.48m / 0.01h
+
+Okay, perhaps that’s an overabundance of verbosity. Let me tone that down a bit.
+
+When Rain finished waving away the windows blocking his vision, he saw Ameliah wearing an amused expression.
+
+Seeing he’d come back to her, she made a rolling gesture with one hand. “Okay, why was there a steam explosion? And why did Purify look so faint? Did you use Ethereal Aura on that too?”
+
+“Yeah,” Rain said, noting that they were both spotless. He sucked his teeth for a moment, considering. “Right, so here’s what I’m thinking. Immolate’s maximum temperature tracks its damage, yeah? It’s not linear, and I haven’t fully pinned down the number, but water will boil at around five thousand dps sustained. Not instantly, mind you. It takes time to heat up. The actual boiling takes even more energy, the so-called ‘enthalpy of vaporization.’ I remember because I failed the quiz. Point is, when water boils, the water itself never gets above one hundred degrees Celsius at sea level. If that’s below where Immolate wants the temperature to be, the spell gets occluded.”
+
+“And Ethereal stops the occlusion,” Ameliah said, nodding. “I think I see where you’re going with this. So all the water in the ground boiled at once?”
+
+“Exactly!” Rain said, getting really excited now. “I must have hit a breakpoint! I was using max power to burn mana, so even with Ethereal Aura cutting the output by 90%, it was still hitting the environment at the damage limit! With 45% less occlusion, that’s forty-five hundred dps! That’s on the low side, sure, but once everything was preheated, and with the direct effect still coming from the middle...” He raised his arms sharply. “Whoom!”
+
+It’s like microwaving a hotdog! No, more extreme than that! It’s like every atom is getting heated individually! Where in the name of Maxwell’s demon does it get the energy to do that?!
+
+He dropped his arms.
+
+What would happen if I used this underwater?! Holy shit!
+
+“You went quiet,” Ameliah said, laughter in her voice. “Even with your visor down, I can tell you’ve got that look on your face. Should I be concerned?”
+
+“Very concerned,” Rain said, sitting down hard. “I think I broke thermodynamics. Please hold.”
+
+Slipping into his soul, he woke in his pajama-clad avatar, lying on a cushion beside Dozer’s box-bed. Without waking the slime—without even sitting up—Rain left his avatar for his core, then used his immaterial senses to check his essence level. Reading it off the graded stick he’d left protruding from the ocean surface took but a moment, and converting radius to volume took but a moment more. Well within the minute he’d promised Ameliah, he had his answer. He returned to his body to look up at her with a shake of his head.
+
+“Still broken?” she asked, a smile playing at her lips.
+
+“I’m about 100 KESS down after those two tests,” Rain said as he clambered back to his feet. He began to pace, too excited to stay still. “I hadn’t checked the level since yesterday, but it’s clear enough that the conversion was one-to-one, purified essence to mana, just like always.” He ran his hands across his helmet, the sensation feeling a bit on his scalp through the helmet. “Water has a high specific heat capacity! I shouldn’t have been able to do that! The energy has to come from somewhere!”
+
+“Well, you burned up a thorp’s worth of Heat mana,” Ameliah said with a shrug as she looked around. “It’s like we’re in a Cold zone in winter. It’s like a vacuum out here.”
+
+“Oh,” Rain said, stopping short, then slapping himself hard in the forehead with a clang.
+
+Right! Environmental mana!
+
+He gestured hurriedly at Ameliah to wait, then dashed for a fresh patch of earth. Once he was sure the five-meter radius wouldn’t overlap that of his previous test, he skidded to a stop and activated Immolate with the same settings as before.
+
+A good scientist never changes more than one variable at a time.
+
+Immolate (15/15)
+
+98251.65-112287.60 heat (fcs) damage per second to foes
+
+49125.82-56143.80 heat (fcs) mitigation per second to friends
+
+9825.16-11228.76 heat (fcs) damage per second to environment
+
+Sufficient damage causes ignition
+
+Aura resists 45% of environmental occlusion and absorption
+
+Range: 5 meters
+
+Cost: 2400 mp/s
+
+Again, the fires appeared immediately, but those were an explicit secondary effect of the spell, not really related to the temperature increase. After a good ten seconds, only ash remained, but it wasn’t flying around, dampened this time by the still-muddy ground. There was barely even any rising steam.
+
+Rain switched off Thermal Regulation, just to be sure, then pressed his hand to the ground. It was getting warmer, but slowly. Very, very slowly.
+
+“See?” Ameliah said, having followed him at a much more sedate pace. “You’ll have to wait a while if you want to do that again. Plenty of other mana types, though. Do you want to try Refrigerate?”
+
+“Yeah,” Rain said distantly, still feeling the ground as he watched his mana. When it fell to around two-thirds full, he dropped the spell, leaving his macros to do their work.
+
+mregen.sh v0.3
+
+Mana Regeneration: +1,787.98 mp/s
+
+Mana: 177,809 / 235,250
+
+Full: 32.13s / 0.54m / 0.01h
+
+Rising, Rain picked a spot diagonal to his first two test craters, then hustled in that direction. When he got there, he turned, then did a double take, seeing that Ameliah hadn’t followed him. He spotted her watching him from what would soon be the center of his triangle of test sites. Smiling, he flashed her a thumbs-up, then activated Refrigerate without waiting for his mana to fully regenerate.
+
+Refrigerate (15/15)
+
+98251.65-112287.60 cold (fcs) damage per second to foes
+
+49125.82-56143.80 cold (fcs) mitigation per second to friends
+
+9825.16-11228.76 cold (fcs) damage per second to environment
+
+Sufficient damage causes slow
+
+Aura resists 45% of environmental occlusion and absorption
+
+Range: 5 meters
+
+Cost: 2400 mp/s
+
+Instantly, the air froze, exploding into snow. The scraggly bushes in range detonated, their sap freezing and ripping them apart as a tortured, cracking groan rose from the ground. Rain soon found himself stumbling again as the earth heaved upward, but it was hardly the bomb-blast eruption Immolate had provoked.
+
+Just to be sure nothing like that would happen with more time, he gave it a good thirty-count. When he finally gave up and terminated the spell, he was left standing not in a crater, but upon a domed mound, pocketed with pucks of ice and dusted with snow and frozen, shredded plants.
+
+mregen.sh v0.3
+
+Mana Regeneration: +1,787.98 mp/s
+
+Base Regeneration: 6.626157 mp/s
+
+Full: 45.28s / 0.75m / 0.01h
+
+“That’s it?” Ameliah called.
+
+Rain turned, then shrugged, his boots crunching across the frozen earth as he walked toward her. “Guess so. How about the Cold mana?”
+
+“All used up,” Ameliah said, waving a hand. “But then, this isn’t a ranked zone, or even an aspected one, so there wasn’t much to begin with. With Heat and Cold gone, all that’s left around here is Force, really. Maybe a little Light. Do you want to try Radiance?”
+
+Rain shrugged as he reached her, then turned to look again at the dubious winter wonderland he’d created. “How would we even notice a difference? Radiance is already instant. No, it’s probably better if I just get on with it. We haven’t even gotten to what we came out here for, and I’m already distracted.”
+
+“I’m not in a rush,” Ameliah said. “It’s nice here. Well, other than what you’ve been doing to the scenery. It feels good to get away. Good to just...not think about it. It’s quiet.”
+
+Rain nodded, reminded of his responsibilities and the ticking time bomb in his head. “I know exactly what you mean.” Suppressing a sigh, he set a marker, then triggered an Essence Exchange.
+
+Progress Report
+
+marker_1: reading_rainbows [3061 Seedlings 32 06:02]
+
+marker_2: quiet [3061 Seedlings 32 13:39]
+
+Span: 7.6 hours
+
+Skills
+
+Ethereal Aura: +162,072 exp, 9 -> 13 (+4)
+
+“Got it to level thirteen,” he said, pulling up the skill card.
+
+Ethereal Aura (13/15) Exp: 14,969/63,200
+
+User may exempt the aura from environmental effects at will
+
+Aura gains 65% resistance to environmental occlusion and absorption
+
+Environment receives -30% aura output
+
+“Does it go negative?” Ameliah asked.
+
+“Mmm, it does,” Rain said, having been looking for exactly that. “It just says ‘Environment receives -30% aura output’ though. I’m gonna try Immolate. Wanna take a guess what -30% actually means?”
+
+“Well, making it cold would be the obvious thing, so obviously not that.”
+
+Rain chuckled. “Let’s find out.”
+
+He activated the spell, again using a range of five meters, though now intersecting all three of his previous test zones.
+
+Immolate (15/15)
+
+98251.65-112287.60 heat (fcs) damage per second to foes
+
+49125.82-56143.80 heat (fcs) mitigation per second to friends
+
+-29475.49--33686.28 heat (fcs) damage per second to environment
+
+Sufficient damage causes ignition
+
+Aura resists 65% of environmental occlusion and absorption
+
+Range: 5 meters
+
+Cost: 2400 mp/s
+
+Despite using full power, nothing happened, save the usual light show. Reading the dialog to see why that might be, Rain’s eye twitched.
+
+Two negative signs in a row with no spacing? Disgusting. Gotta fix that...
+
+Ripping his eyes away with some effort, he raised a hand, watching the chaotic swirls of energy. The mitigation was just as strong as ever, but as he looked closer, he realized the interference had actually faded.
+
+Decreased absorption at work.
+
+“So...nothing?” Ameliah said, looking around.
+
+“Nothing dramatic, anyway,” Rain said, then pointed at a dust-coated bush. “Think you can nail that with a Fire Arrow?”
+
+“I swapped that out.”
+
+“Sorry, Firebolt Arrow. One of Tallheart’s enchanted ones. Same difference.”
+
+“Have I ever told you your language is stupid?” Ameliah said, drawing an arrow with a reddish head from her quiver—which she was only wearing because she hadn’t leveled Ranged Arsenal yet. She drew and let fly with casual grace, and the arrow streaked unerringly for its target, though whether she’d used Seeker Shot to help it along, Rain couldn’t say. When it struck, the woody bush exploded in a puff of flame, sending burning splinters and leaves flying every which way.
+
+“One ex-bush, as ordered,” Ameliah said. “So still nothing?
+
+“It wasn’t in range,” Rain said, then released his grip on Aura Compression, letting the spell expand to a fifteen-meter radius. The fires went out instantly and without any fanfare.
+
+“Oh,” Ameliah said. “So it does do something. They’d love you on the fire brigade.”
+
+Rain grinned. “Now I just need a Dalmatian.” He glanced at her. “That’s a white dog with black spots. It’s traditional for—never mind. Not important.”
+
+“I’m trying again,” Ameliah said, drawing and aiming at another bush. “Make sure it’s in range when it hits this time.”
+
+Rain nodded, holding the aura steady, and this time when the arrow struck, there was no explosion. Leaves flew as the arrow tore through the bush to bury itself in the earth, but that was it.
+
+“Very interesting,” Ameliah said, lowering the bow. “Mitigation for the environment, maybe?”
+
+“Maybe,” Rain agreed, resolving to test it further with the assistance of an actual Fire Mage. “Refrigerate next. Mana first, though.”
+
+Not wanting to wait a whole ten seconds, he looped his arm through Ameliah’s for support, then activated Aura Focus.
+
+mregen.sh v0.3
+
+Mana Regeneration: +25,062.95 mp/s
+
+Mana: 125,155 / 235,250
+
+Full: 4.39s / 0.07m / 0.00h
+
+“Woah,” he said, finding Ameliah holding him up as his senses returned.
+
+“You overdid it, didn’t you?”
+
+Rain licked his lips as she released him, fighting off the shivers. “I feel like I just got mugged by an Altoid.”
+
+Ameliah arched an eyebrow. “Is that a monster? You’re not going loopy on me, are you? What’s your Clarity/Focus ratio right now?”
+
+“Not important,” Rain said, clapping his hands together. “Refrigerate time.”
+
+Refrigerate (15/15)
+
+93381.28-106721.46 cold (fcs) damage per second to foes
+
+46690.64-53360.73 cold (fcs) mitigation per second to friends
+
+-28014.38--32016.44 cold (fcs) damage per second to environment
+
+Sufficient damage causes slow
+
+Aura resists 65% of environmental occlusion and absorption
+
+Range: 15 meters
+
+Cost: 2400 mp/s
+
+Yuck, there’s that double negative again. Let me just—NO. Ameliah’s got a point. I need to focus, or else the Clarity will win. Ha. Focus. Clarity.
+
+...
+
+Damn it.
+
+Dragging his thoughts back, kicking and screaming, Rain peered through the swirling blue haze surrounding him toward his frozen test zone.
+
+“It’s not melting,” Ameliah said, following his gaze.
+
+Rain nodded. “No, it’s not. Try an Ice Arrow—sorry—an Ice Bolt Arrow.”
+
+“Way ahead of you,” Ameliah said, a blue-tipped projectile already nocked. Her shot hammered into the same bush as before, but again, nothing magical happened, the only casualty being a few more leaves.
+
+Rain released the spell, letting Winter return but disabling the dialog. “More evidence for mitigation,” he said, rubbing his chin. “Reverse Refrigerate clearly prevents Cold damage, but it doesn’t seem to undo it. It won’t melt stuff, but it might...stop it from freezing? Hmm. Did reverse Immolate cool down the fires, or did it just stop them from burning directly? If I hadn’t waited so long, would they have spontaneously reignited when I released the spell? What about superheated—” Rain stopped, seeing Ameliah’s expression. “You know what? Never mind. You’re right about the Clarity.”
+
+“Told you,” Ameliah said in a singsong voice.
+
+“Don’t worry, I’ll go quick through the rest of them. Fulmination first.”
+
+Fulmination (15/15)
+
+93381.28-106721.46 arcane (fcs) damage per second to foes
+
+46690.64-53360.73 arcane (fcs) mitigation per second to friends
+
+-28014.38--32016.44 arcane (fcs) damage per second to environment
+
+Sufficient damage causes paralysis
+
+Aura resists 65% of environmental occlusion and absorption
+
+Range: 15 meters
+
+Cost: 2400 mp/s
+
+“Nothing!” Rain said over the crackling hum of the energy now limning him, which wasn’t even the most distracting thing to be seen. Damn double negative sign.
+
+“Hey!” Ameliah shouted back, her shoulder-length hair standing completely on end. “Cut it out! You’re making me look like Cloud!”
+
+“Oh, whoops!” Rain replied, grinning.
+
+She really does look like him!
+
+Quickly, he set IFF to completely exclude entities rather than hit them with the inverted effect. The hum faded to almost nothing, Ameliah’s hair falling slightly along with it.
+
+“Nobody told me I’d need to bring a brush,” she said, the soft crackle of static electricity accompanying her fingers as she ran them through her hair, trying to flatten it the rest of the way. “Stop laughing.”
+
+Rain covered his mouth, doing his best. “Do you need help, or—?”
+
+“Just do the next one. I think it’s best we get you back as soon as possible so you can have a quiet lie down.”
+
+“Oh, come on, Cloud, I can see you smiling underneath all that floof,” Rain said, unrepentant.
+
+Ameliah rolled her eyes.
+
+“Fine, fine,” Rain said. “Here’s Radiance.”
+
+Radiance (15/15)
+
+93381.28-106721.46 light (fcs) damage per second to foes
+
+Banishes light from the environment (fcs)
+
+Aura resists 65% of environmental occlusion and absorption
+
+Range: 15 meters
+
+Cost: 2400 mp/s
+
+Like a switch had been flipped, everything within fifteen meters went utterly, completely black, so much so that Rain couldn’t even distinguish the silhouette of the testing bush. Everything except him and Ameliah, that was. She was lit normally, while he was glowing gold with disrupted Light mana.
+
+“What the hells?” Ameliah said, looking around at the seeming hole in the world in which they were now standing.
+
+“It’s like we’re in soulspace,” Rain said, turning to inspect the perimeter of the spell’s effect.
+
+Ameliah bent, feeling around on the ground, then picked up a rock. The moment it was in her hand, color blossomed across its surface, and she held it up to demonstrate. “Huh.”
+
+“Huh,” Rain agreed. “This would be great for interrogations. I could really freak someone out if I did this in a small room. Do you think I should try it on Velika next time she wakes up?”
+
+“Absolutely,” Ameliah said with a smirk, tossing the rock away. “I’ll watch from a safe distance.”
+
+“Smart,” Rain said, dropping the spell. “Last but not least, Shroud.”
+
+Shroud (15/15)
+
+93381.28-106721.46 dark (fcs) damage per second to foes
+
+Banishes shadows from the environment (fcs)
+
+Aura resists 65% of environmental occlusion and absorption
+
+Range: 15 meters
+
+Cost: 2400 mp/s
+
+Light and color returned to the world as abruptly as they’d left, the golden glow surrounding Rain replaced with a malignant black haze. Surveying the restored surroundings, it took him a moment to notice what had changed. It was just as the skill card suggested: all of the shadows had vanished. Every last one.
+
+It’s unsettling, actually. Like a cruddy video game without ambient occlusion.
+
+“This is bizarre,” Ameliah said, lifting a foot and looking at the fully illuminated ground beneath it. “It’s like the sun is shining right through me.”
+
+“And yet I can still see you,” Rain said, his thoughts spinning.
+
+Would this zone stop, say, Ray of Eclipse? That’s LITERALLY a beam of shadow. Would it ‘banish’ it? It didn’t banish Ameliah’s arrows, but those are impact triggered. What about the skill version, Fire Arrow? That burns while it’s in flight. Better yet, Firebolt. Would that work as normal? It shouldn’t damage the environment, but if it hit an entity, would it do damage? It would have to CROSS the environment to get to—
+
+“Hey,” Ameliah said, snapping her fingers in front of his face.
+
+Rain blinked. “Did you unsummon a gauntlet just so you could do that?”
+
+“Maybe,” Ameliah said. She wiggled her fingers at him, her loose rings jingling before she dumped them into her opposite hand and resummoned her gauntlet. She began replacing them one by one as she continued. “Are you going to answer my question or not?”
+
+“Sorry, I must have missed it,” Rain said, letting go of Shroud. He knocked on his temple. “Lots of stuff going on in here right now.”
+
+“I’m not so sure about that,” Ameliah said with a smirk. “Anyway, I asked you if you thought this would stop a spell in flight.”
+
+“That’s exactly what I was thinking about!” Rain blurted out. “Great minds think alike, and yeah, no idea! I’ll have to recruit Val or someone to help me test it when we get back. Unless you swapped in a spell without telling me?”
+
+“Just Ranged Arsenal and the prerequisites, which I still need to clean up. Nothing that would help here.” Ameliah shrugged. “I guess we should head back, then. You max Ethereal yet?”
+
+“Should have,” Rain replied, setting a marker, then triggering the exchange.
+
+Progress Report
+
+marker_1: quiet [3061 Seedlings 32 13:39]
+
+marker_2: dozer_forgive_me [3061 Seedlings 32 13:58]
+
+Span: 19 minutes
+
+Skills
+
+Ethereal Aura: +121,831 exp, 13 -> 15 (+2)
+
+“Yup.” He waved the window closed in satisfaction. “But we’re not quite done, though. There’s one more spell to try.”
+
+“What—oh.” Ameliah’s face grew pale, and she took a step back. “Oh no. Don’t you dare.”
+
+Rain’s face split into a juvenile grin.
+
+Purify
+
+Purify (15/15)
+
+Purify poison, corruption, and contamination
+
+Aura resists 75% of environmental occlusion and absorption
+
+Environment receives -50% aura output
+
+Range: 15 meters
+
+Cost: 4800 mp/min
+
+At that exact instant, he realized he’d fucked up.
+
+The aroma of steaming-hot garbage rammed itself up his nostrils like a speeding semi plunging into a too-tight tunnel. At the same time, a horrid, wet, splattering noise filled his ears, putrid sludge manifesting in mid-air and falling to the ground in an upsettingly chunky deluge.
+
+It was a literal shitstorm.
+
+“Reverse it!” Ameliah yelled, then retched, missing her step with Airwalk as she attempted to escape. It had only been a few seconds, but the filth was already pooling gloopily above Rain’s ankles. He scrambled for his metamagic, but before he could flip the spell back to normal, Ameliah landed hard on her back with a wet splat.
+
+Purify!!!!
+
+Like a blessing of the divine, white mist exploded from Rain, wiping the vile sludge from existence as if it had never been, though the expanding shell stopped just past Ameliah. He’d compressed the spell, partly for added potency, but mostly because his Clarity-addled mind was urging him to get a second look at what exactly it was that he’d summoned.
+
+Ameliah clearly had no interest in getting a second look. She threw herself backward from the glowing boundary, jumping lithely to her feet and shoving a finger in his face. “You pigeon-headed ASSHOLE! I don’t care how loopy you are! Did you even THINK?! Full power?! Are you kidding?! You tested it on yourself with IFF, and that was barely a trickle, but you remember what happened! You should have known that—!”
+
+*pop*
+
+[⟬FILTH⟭!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+
+The instant Dozer touched down, he launched himself forward like a gelatinous ballista bolt, disappearing through the magical bubble holding the conjured sewage at bay.
+
+“Dozer!” Ameliah shouted after the slime, then whirled back to Rain. “Clean up the rest, right now!”
+
+“But then I won’t get to see how long it lasts!” Rain protested. “It’s conjured matter, so—”
+
+“We’re leaving!” Ameliah said, grabbing him by the collar. “I need a bath, NOW! So do you!”
+
+“But Purify already—” Rain began, fumbling open one of his thigh compartments only to yelp as she hauled him into the air.
+
+[⟬filth⟭! ⟬filth⟭! ⟬filth⟭! ⟬filth⟭! ⟬filth⟭! ⟬filth⟭! ⟬FILTH⟭!!!!!!!!]
+
+[Get back inside!] Rain sent, frantically extracting his sole remaining Detection anchor, then tossing it behind him. [Leave the filth! It will go away on its own, and I need—]
+
+[No! No leave ⟬filth⟭! ⟬clean-need⟭!]
+
+Like Rain, however, Dozer had little choice in his retreat. Since becoming an Essence Slime, he couldn’t travel as far from Rain as he once could have, whether in the real world or in soulspace, and as Ameliah hauled Rain toward the ocean, his spiritual leash ran out. The slime vanished with a pop, reappearing in his box-bed. His dismay at the sudden scenery change didn’t last, replaced by something Rain hadn’t thought the blissfully simple creature to be capable of experiencing.
+
+The anguish of betrayal.
+
+[RAIN-KING!!! NO!!! ATROCITY!!!]
+
+Dangling from Ameliah’s hand and with an aerial view of the entirety of his crime, Rain came to a crushing realization.
+
+Dozer was exactly right.
+
+Gods, what have I done?

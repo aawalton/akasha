@@ -1,0 +1,161 @@
+---
+id: 42ceef01-45a0-5e18-ae76-0b0a36430aea
+page-type-slug: story-chapter-royal-road
+title: "B1 | Epilogue"
+slug: 0064-b1-epilogue
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 64
+ownLength: 1535
+unit: words
+ownProgress: 1535
+publishedAt: 2024-01-27
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1496939/b1-epilogue"
+royalRoadId: "1496939"
+markedReadAt: "2026-06-29T19:08:05.191Z"
+---
+
+The Dungeon Cell right before Aria’s Disappearance
+
+“Get that coi-!!!” Elara begins to shout, only for the coin to flare with a bright white light before Aria Crimson vanishes from the cell. Then the First General shouts, “Damnit!”
+
+The soldiers around her all look confused, but she quickly dismisses them and begins rushing through the dungeon to the surface, hoping against hope that the girl didn’t go far. She even orders the soldiers all around the upper floors of the fortress to search the surrounding areas for her.
+
+But no one ever finds her.
+
+The girl vanished completely.
+
+At first Elara is furious about this, but then she manages to calm herself down. Because, while her plans involving the Crimson Eternal, who apparently turned out to be Death, have fallen through, she still has more plans.
+
+So she and the others all wait for around two weeks while the Void Temple prepares for the revival of the former emperor. Which Elara is pretty sure is just them wasting the Republic’s time without actually doing anything.
+
+But they finally call for her when the two week mark arrives, so she decides not to say anything. Especially since there isn’t much she could say.
+
+When she arrives, though, she is immediately told the worst news she could’ve been told.
+
+“I apologize, but the soul of a being known as Lysandre de Pyre Voltaire does not exist,” the Void Priest declares before bowing his head. “You have our condolences.”
+
+Elara stares at the priest with her mouth wide open as the other generals around her shout, both at her and at the priest, asking how that’s possible.
+
+The Void Priest opens his mouth to speak, only for the Greater Void Spirit to appear and state, “If you soil the pact any further, favor will be lost. Waste not the gift Death has left with you.”
+
+Then the spirit vanishes again, leaving the Void Priest to finally speak, saying, “You heard the Esteemed One. Please leave.”
+
+All of the generals leave the Void Temple without a word.
+
+They keep walking in silence all the way until they arrive at a private meeting room. Then all of them immediately glare at the First General, shouting all at once.
+
+Because while the former emperor was useless and had no power, he was still the emperor of the nation, and his death will rattle the nation greatly.
+
+“What happened?!” “How did the Emperor die?!” “Who is Death?!” “Why did the spirit mention Death?” “How did his soul get erased entirely!?”
+
+Elara feels a headache coming on, but not before she slowly answers their questions with a single answer.
+
+“Death, as it turns out, was the Crimson Eternal,” she says while rubbing her temples from her seat. “She had lied about her Class and purpose using the self-induction trick.”
+
+The First General pauses for a moment before opening her mouth to continue, only to freeze as pieces to the puzzle begin to click in her mind.
+
+Death’s last words to the former emperor.
+
+“And you won’t be coming back,” Elara mutters, confusing the other generals. Then she raises her head to look at them as she says, “Those were the last words Aria Crimson told Lysandre before she killed him.”
+
+It doesn’t take long for the other generals to link what happened with the truth.
+
+“So what you’re telling me is that the Crimson Eternal, Death, can permanently erase someone’s soul so that they cannot be revived?” the Fifth General asks, making the First General grit her teeth. “Meaning the prince and the other higher ups of the Grand Roan Empire can’t be revived not because of the Death Spirit, but because of Miss Crimson?”
+
+Silence fills the meeting room for longer than the generals would like to admit.
+
+Because how does one handle a being who can permanently kill them but not be killed herself?
+
+“Do we at least know where the Crimson Eternal went?” the Second General asks, to which the First General looks up and nods her head.
+
+“If my assumptions are correct, we can blame the Five Star Merchant for her possession of that strange coin she used,” Elara answers. “And she had left a letter in her room for her teammates that mentioned how she was resigning from the military. So I can’t see her returning.”
+
+Then they all go silent again.
+
+Albaria cannot compete with the Eternal Dynasty after all.
+
+Which leaves the Albarian Republic high and dry in this situation, with the only winner being Death.
+
+“Well, remember that she still helped us win the war,” the Fourth General speaks up, breaking the silence. And the others nod in agreement at that. “She could’ve just killed Lysandre and left without helping us. But instead she helped.”
+
+A few seconds pass in silence before the Eighth General raises his hand and states, “I call for a vote. All those who support placing the information that Aria Crimson is Death, the Horseman of the Apocalypse, under top secret intelligence of the military, raise your hands.”
+
+Every last general raises their hand.
+
+“The vote passes,” the Eighth General states.
+
+Then the First General raises her hand and states, “I call for another vote. All those who support telling the Grand Roan Empire about who truly killed their prince should they arrive and we do not believe we can handle them, however, without disclosing her connection to Albaria or her true appearance, raise your hands.”
+
+Every general, once again, raises their hands.
+
+“The vote passes,” the First General declares. “And so, I call this meeting to a close.”
+
+Aria’s Room at the Central FortressThe day after Aria’s disappearance
+
+Hannah feels her hands trembling as she and the others of the Predator Division all sit around a table reading a letter.
+
+Dear my friends,
+
+I’m sorry to be leaving you all without notice. But I had no choice.
+
+I wanted to be the one to tell you this myself, so I decided to leave a letter.
+
+I am Death. Harbinger of Death, Horseman or Horsewoman of the Apocalypse, Pale Horseman, Ageless One, whatever you want to call it.
+
+I lied during my questioning about what my Class and purpose were.
+
+My purpose is to bring death unto others.
+
+Now, I’m sure you can realize how that would make the nation react when they found out.
+
+And they would find out.
+
+Because I am not letting that former emperor bastard revive.
+
+That’s another thing I wanted to tell you all.
+
+I can devour what is called a soul core of any individual who dies near me, and my doing that makes it impossible for them to be revived. It erases the soul’s individuality and everything about them that made them who they were so that even if I release the soul core, they wouldn’t be able to be revived. Because they simply won’t exist anymore, soul core or not.
+
+Feel disgusted by me if you want, even fear me.
+
+But know that I truly did grow to care for all of you in the end.
+
+Yes, even Snow.
+
+The captain in question snorts at that as tears run down his eyes. And he’s not the only one, as the others show similar if not the same reactions.
+
+If you ever do see me, it’ll be in another world.
+
+I plan to travel the worlds! To see the sights and learn new things!
+
+And preferably to avoid war, but considering my little title, I can’t really see that happening.
+
+To be honest, I wouldn’t be surprised if I ended up involved in a lot of wars over the years.
+
+I probably will be.
+
+But for now, know that I will be happy, away from the ties that bound me to Vortel.
+
+And that I will always cherish the time I spent with you all.
+
+Sincerely,
+
+Aria Crimson
+
+PS: Please tell Warrant Officer Alexander Greaves what’s in this letter as well.
+
+All of the team members let loose, crying like they’ve never cried before. Even Vargas sheds a couple tears despite not being too close to Aria. A feeling that he believes to be mutual.
+
+But they were still comrades. And that’s all that matters in the end to him.
+
+All of the members of the team continue crying for a while before they begin simply talking about Aria. About times they spent with her. Times they wished they could’ve spent with her.
+
+Moments where she said something sarcastic to Snow, to his displeasure. Or the few times where Snow tried to ask a fourth girl out during an outing he, Aria, and Hannah went on, only for Aria to drag him by the collar to continue walking with them, having gotten sick of watching him get rejected over and over again.
+
+The quiet times when Aria and Rogers would spend a nice breakfast together without saying a word, with her just drinking her wine.
+
+And times in combat about how many ridiculous stunts she would always pull.
+
+They continue on into the night before eventually ending with an agreement toasted on with the girl’s favorite wine.
+
+That if they ever saw her again, they’d give her a warm welcome back into their team.

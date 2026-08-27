@@ -1,0 +1,141 @@
+---
+id: ed9efa4c-2105-5612-bb85-422b0ab06c5a
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 35"
+slug: 0196-b3-chapter-35
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 196
+ownLength: 1414
+unit: words
+ownProgress: 1414
+publishedAt: 2024-08-25
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1773979/b3-chapter-35"
+royalRoadId: "1773979"
+markedReadAt: "2026-06-29T19:12:23.341Z"
+---
+
+Aria
+
+It doesn’t take me long to find myself face to face again with the emperor of the Grand Silvanian Empire. Because the moment I step up to the palace gates, the guards immediately begin leading me directly to him.
+
+I didn’t even need to ask or say a word. Almost like they could read my mind. Or they were just told to do so after I left the Spire.
+
+Probably the latter.
+
+And when I enter his office – which looks rather large and medieval with a table and seating on the left and plenty of bookshelves spread around the rest of the office – I find the emperor himself sitting behind his office desk at the back. With a large window and balcony behind him.
+
+“Aria!” he exclaims with a bright smile on his face. “You’re back from your first trek into the Spire! How did it go?”
+
+I glance at the knights as they shut the door to his office behind me, leaving us alone, before I begin walking over to a random couch within the office and lie down across the thing with my head on an armrest. Then I tilt my head backwards to look at the emperor, finding him to be upside down from this position.
+
+“It was rather peaceful,” I answer him truthfully. “Not much to talk about. Other than the stalker.”
+
+His face twitches at that last part as his smile grows eerily wider and he asks, “Stalker? Do you mean there was someone else in the Spire with you?”
+
+Time for the main reason I came to see him.
+
+Other than Shirogane’s problems, of course.
+
+“Yeah, that’s why I came here,” I tell him while shifting my gaze to the ceiling. “I’m guessing you didn’t invite the leader of the Council of Darkness to Silverfall?”
+
+His silence is all the answer I need. Even without looking at him.
+
+“The guy followed me around the Spire for about twelve hours without really doing much of anything,” I continue with a frown on my face. “Just stalked me as if he were some serial killer in a movie. It was rather creepy.”
+
+He still isn’t saying anything, so I tilt my head back again to look at him, only to find a conflicted expression on his face. One that shifts between pain and determination. Almost as if he both wants to deal with the problem but doesn’t at the same time. And not due to any difficulty in the problem, but more like a genuine sadness about dealing with it.
+
+Hmm. Is there a history between Hassan and the emperor?
+
+Interesting.
+
+Then again, they’re both hundreds of thousands of years old, possibly even millions, so… I guess it would be more of a surprise if they didn’t know each other.
+
+The emperor lowers his head and starts muttering to himself while staring at the papers on his desk. But from what I can tell – his muttering sounding slightly muffled – he seems to be talking to someone through a communication device. So I look up at the ceiling again with my hands in my jacket pockets.
+
+I wonder if I should try on the attire of this world? Might be fun to try out.
+
+Then again, I know better than to ask a royal family for an outfit. I still remember making that mistake at the Atlantean Royal Castle, which led to me becoming a dress-up doll for at least a few hours as they tried to figure out the perfect outfit to put me in.
+
+I am not gonna fall for that again.
+
+And… I glance down at my attire before shrugging to myself.
+
+Meh. No need to change.
+
+Rex Dynasty’s clothing is the best for a reason. Actually, its almost everything. In terms of technology and exports at least.
+
+Plus medieval just isn’t my style in my humble opinion.
+
+Might wear something if a ball ends up happening. Haven’t been to one of those in a while.
+
+I think the last one I went to was on some Beta Tier world whose monarch kept hassling me to marry his son.
+
+Almost blew up their castle along with the son in question actually. Only attended that ball because it was the price of immigration rights. And they told me about a special wine I could only find during it. But all I ended up doing was hiding from the guy who kept trying some weird flowery language to propose to me over and over. Eventually almost blowing him and the castle up when he got a little too drunk and handsy.
+
+Can’t even remember half the things he said before that. Something about Death this and Winter that.
+
+I wasn’t paying much attention after our first encounter.
+
+Overall, not fun.
+
+The wine was good though.
+
+I furrow my brows slightly as I try to remember when this happened.
+
+Was it a couple decades ago? One decade ago?
+
+Can’t remember.
+
+Didn’t stay on that world long. For obvious reasons.
+
+I sit up before turning to look at the emperor right as he says, “Thank you for telling me about him, Aria.”
+
+“No problem,” I tell him. Then I stand up while stretching my arms a bit over my head. “I’ll be heading out now.”
+
+“Okay,” he says with a nod. But I don’t get far after taking a step towards the entrance to the office before stopping again and turning around.
+
+“Actually, I forgot,” I start again, redrawing his attention. “Do you know anything about why those knights guarding me are so obsessively loyal and attentive?”
+
+He blinks before frowning, “Knights? What knights?”
+
+Now it’s my turn to blink, leading to us just kinda looking at each other in confusion.
+
+“The knights who I’m pretty sure are all crimsons?” I point out with a frown and a slight tilt of my head.
+
+“I…” he says, sounding confused as his frown grows deeper, “…never assigned any knights to follow you.”
+
+Wait, what?
+
+“But there was an entire force of at least three dozen knights waiting outside the Spire for me,” I tell him while folding my arms.
+
+That confuses him a bit more. Until he blinks as if realizing something and says, “Wait, you said you thought they were all crimsons?” And when I nod, he continues with a smile, “That makes sense then. Don’t mind them. They’re probably of the Crimson Order. It’s an Order from the Crimson Marquis. A delegate from the Crimson Empire who’s earned a title of his own in the Grand Silvanian Empire.”
+
+Oh. But, wait, why?
+
+My mind flashes back to the train of thought I had earlier. About the clones, the emperor’s friend, the Crimson Empire, and all that.
+
+Then I immediately shut it away in a box again, not wanting to figure it all out. At least not until it’s shoved in my face by proof.
+
+Like my parents appearing in front of me alive.
+
+“Would you mind telling them to calm down a bit?” I ask, no longer frowning as I put my hands back in my pockets again. “They were a bit… overzealous.”
+
+“If that’s what you want, but I doubt they’ll listen,” he says with a slightly amused smirk on his face.
+
+Probably because they belong to a delegate and not someone solely of his empire.
+
+“Okay, then could you tell me why you aren’t letting Shirogane enter the palace?” I ask, deciding to move onto the other thing I almost forgot.
+
+His face goes dark at that question. And after several seconds of awkward silence, he answers, “Because I know what he wants, and I will never let the Eternal Dynasty have access to magical silver. Not in Amatsuraki’s lifetime.”
+
+I open my mouth to say something, but he just lets out a sigh and adds, “Please don’t interfere. I ask this of you as a friend.”
+
+My mouth closes again. Partially due to what he said, and partially due to me feeling slightly confused.
+
+When did we become friends?
+
+I blink a few times at that before nodding my head, deciding that pushing the matter won’t help Shirogane at all. It might even hurt him.
+
+“Well, see ya later,” I tell him while turning around, waving my hand over my shoulder in the process. And when I reach the door, one of those Crimson Order knights opens it for me. As if just waiting for me to get nearby.
+
+This is gonna be tiresome.

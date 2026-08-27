@@ -1,0 +1,469 @@
+---
+id: 99569cf5-0691-54cc-8ad7-1626d32b57cb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28"
+slug: 0029-chapter-28
+partOf: death-healer
+position: 29
+ownLength: 4903
+unit: words
+publishedAt: 2025-06-03
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2328174/chapter-28"
+royalRoadId: "2328174"
+---
+
+Adriana stood motionless before a heavy oak door.
+
+On it, there was the word ‘[Librarian].’
+
+It was the [Librarian]’s sanctum within the Class Hall.
+
+A pair of brass candle holders flickered low on the stone walls, their light barely reaching the door’s carved surface.
+
+In the shifting glow, the ancient oak seemed to breathe, its knots forming shapes resembling letters. Adriana’s heart thudded as she reached for the iron handle. She hesitated while her fingers rested over the hard metal.
+
+On the other side lay the Subclass that haunted her dreams.
+
+Crossing it would change everything.
+
+Her pulse echoed in her ears.
+
+Am I truly ready to do this? she thought, swallowing hard.
+
+The [Librarian] Subclass had been outlawed since the beginning of the Papacy; if she claimed it, she would be breaking both church law and tradition.
+
+[Librarians] were famed to be the most troublesome, researching knowledge that had destroyed entire kingdoms—which was why it had been outlawed.
+
+She could almost hear the whispers of long-dead scholars from beyond the door.
+
+Images of pyres and inquisitors flickered behind her eyelids. If discovered, she would face the Tribunal’s flames as a heretic. Worse, failure here could mean losing everything—the life she had built, and the daughter she would die to protect.
+
+Lily.
+
+The thought of her child steadied Adriana’s breathing.
+
+Lily’s character—her pure affinity for Light, her frightening talent for healing—meant that ordinary guidance would not be enough. The Papacy would never help Lily reach her potential; if anything, they would fear her for it.
+
+I have to do this. For her.
+
+Adriana’s hand drifted from the door handle to the small silver locket that hung just above her breast. The cool metal pressed against her skin. She opened her eyes and glanced down as she thumbed the etched front open. Inside lay a tiny dried sprig of Mana-infused lavender. Its purple had now faded to an ashy gray. A gentle fragrance escaped the locket.
+
+Her mother had placed that flower in the locket many years ago, telling Adriana it would calm her nerves and keep nightmares at bay.
+
+Even now, the blonde woman clung to it.
+
+Mother.
+
+The word was a plea and a remembrance. How many nights had Hestia pressed this very locket into her palm, whispering that all would be well? How many of those assurances had been lies?
+
+A tremor passed through Adriana’s fingers. The lavender’s scent carried her back through the years, past the layers of courtly poise and maternal duty she wore like armor, to the single most harrowing night of her life.
+
+It was the night everything changed—the night she glimpsed both the brightest light of ambition and the darkest shadow of consequence.
+
+The night her mother almost lost her, and they almost lost themselves.
+
+* * *
+
+Hestia Iulia’s quill scratched softly across parchment in her husband’s study.
+
+A single oil lamp burned on the mahogany desk, casting long shadows that wavered with each flicker of the flame.
+
+She shuffled a stack of requisition orders and signed the bottom of the final page with a flourish that perfectly mimicked her husband’s hand. The ink dried as “Quintus Iulius” emerged in bold strokes—his name, but her will.
+
+Hestia smiled bitterly.
+
+Quintus should have been at the Papal Council at this hour, sharpening his dull wit for the imminent campaign against the Undead. Instead, he was almost certainly sprawled in a brothel bed, snoring off spiced wine in the arms of a stranger.
+
+And their son, Ennius… Hestia pictured the timid boy cloistered two floors above, likely hunched over toy soldiers with his tutor’s chants droning in his ears.
+
+A wastrel husband and a cowed heir; these were the legacies the world would expect of House Iulia if she did nothing.
+
+No, Hestia thought as she sanded the wet ink. These will be the last nights either of them spends in complacency.
+
+She set the quill aside and inspected the parchment in the lamp-light.
+
+It was an order committing a hefty sum from the treasury to purchase a winter’s worth of grain from a distant realm. Already, spring crops here showed black lesions—signs of blight carried by death-magic on the morning fog. The common folk had no idea how dire the coming famine could be, but Hestia knew.
+
+Quintus, in his negligence, would have let them starve. Hestia would not. With this final act of stewardship—carried out in his name but by her hand—she ensured the people would survive the winter. It was, in a way, a parting gift to the realm from a man who had given so little. Her husband’s study still smelled of him, a mix of cinnamon smoke and staleness, as if his presence tried to cling to authority even in his absence.
+
+Hestia had changed almost nothing in this room since coming here as a young bride. She traced a finger along a deep scar in the desk’s edge, recalling how naive she once was, content to linger at the threshold of power. But Quintus’s vast irresponsibility, countered by her own furious competence, had thrown the doors of power wide open.
+
+Year by year she had walked through those doors, mastering every corridor of influence: bribes made in well-lit gardens, bargaining during mass at chapels, even, once, trading her dignity for a critical vote in the back of an enemy’s carriage. All of it to secure a future for her children that would not depend on a weak man’s whims.
+
+Even so, Hestia knew that all her authority was built on sufferance.
+
+She was tolerated as an exception—a woman wielding power only until the patriarchs of Lumina found it convenient to snatch it back.
+
+They will not take it from me, she swore silently.
+
+Over years, she had cultivated loyal friends and covert alliances. Some friendships were purchased with gold, others forged through shared secrets, and a few sealed by far deeper bonds. Every thread led here, to this very night, poised on a knife’s edge of violence and destiny.
+
+Ennius had already shown the faint heart of his father—a cowardice that could never command the Papacy.
+
+And the throne of Lumina required command.
+
+By contrast, her daughter—Princess—Adriana bore command as naturally as breathing. From the time she could walk, Adriana had proven herself fearless, inquisitive, alive with purpose.
+
+Hestia had watched her golden-haired girl at dawn practice spells on in the arena. When drills ended, Adriana would walk the city’s alleys, refusing the guard that Ennius brought everywhere. Hestia still sent her own trusted men to follow Adriana and knew that she traded jokes with the commonfolk, shared bread with them.
+
+At times, Hestia herself followed at a distance, veiled and unnoticed, witnessing how Adriana lingered to console widows and beggars others ignored. Compassionate and bold—Adriana was everything a leader should be. Everything a Pope should be, were it not for the accident of her gender.
+
+Hestia’s jaw tightened. Lumina’s laws would never allow her daughter to inherit the mantle destined for her son. No matter how bright Adriana’s soul was, the bigotry of tradition cast it in shadow.
+
+A woman could not be a Champion; a woman could not master the Six Great Skills needed to claim the Papacy.
+
+That thought Hestia refused to accept.
+
+If the rules of their sacred game would deny Adriana her destiny, then Hestia would simply change the rules.
+
+Talent alone will not save her, she reminded herself as she moved to bolt the study door. Only mastery will.
+
+Mastery of the Iulia family’s greatest Skill—a feat no woman had ever been permitted—could force the world to acknowledge Adriana. So Hestia had stolen that chance in secret.
+
+She had her man and the hated [Librarians] she employed through many agents scour archives for the ritual of the Great Skill of the Gens Iulia, bribed men to smuggle the necessary ingredients—at least all they had discovered—and diverted enough coin to raise a hidden order of [Assassins] loyal only to her.
+
+All of it in preparation for this night.
+
+By dawn, Lumina would be remade: a negligent Pope and a weak heir would be gone, and Adriana, armed with a Great Skill, would rise from their ashes to guide the realm.
+
+A soft rap sounded at the window shutters. Hestia extinguished the lamp and let darkness envelop the study.
+
+Only the faint moonlight outlined the edges of furniture as a figure appeared now inside as silent as a shadow.
+
+When Hestia re-lit the lamp, a woman clad in black stood before her, face obscured by a dark cowl.
+
+This [Assassin] had a presence like a blade in the dim light—dangerous and sharp. Uranus, the woman called herself, one of the highest-ranked [Assassins] ever trained under her. Hestia had financed Uranus’s loyalty with gold and blood; now the time had come to claim what she had paid for.
+
+“The poison is in place,” Uranus reported in a low, flat voice from beneath her hood. “We await your signal.”
+
+Hestia’s throat constricted.
+
+Even expecting those words, she felt her stomach dip with anxiety. There would be no undoing this once the die was cast. She gathered herself, straightening her spine.
+
+“My son,” she said quietly, “he will pass without pain?”
+
+Uranus gave a single, solemn nod.
+
+“The poison is gentle, by design. He will drift off as if to sleep. And the blades will follow swiftly should mercy falter.”
+
+Her tone did not waver; compassion was not part of the transaction.
+
+“Quintus will not escape either,” the [Assassin] continued. “The venom is potent enough to slay even the Necromonarch, were that monster still alive.”
+
+Hestia closed her eyes at that, a strange relief and sorrow twisting together in her chest.
+
+Ennius, her only son—she had steeled herself to make this sacrifice, to exchange his life for Adriana’s ascension.
+
+It will be a kinder death than the world would give him, she tried to believe. Better a gentle poison than the teeth of the undead or the machinations of rivals.
+
+Yet a tremor of grief threatened her resolve. She forced it down.
+
+“And Adriana?” she whispered, almost not daring to ask.
+
+For the first time, Uranus hesitated. The [Assassin]’s silence rang louder than any alarm.
+
+“We guided the Princess to the forge-chamber under the east wing, as instructed,” she said carefully. “She began the rite an hour ago. Two trusted [Healers] monitor her pulse. Even so… she falters.”
+
+The lamplight seemed to flicker, and Hestia’s vision swam.
+
+“Falter… how?” she managed, fighting to keep her voice level.
+
+Uranus kept her eyes lowered.
+
+“The ritual tests the body fiercely, Your Highness. The girl endures agony. Already the chamber’s wards have seared runes across her skin in half a dozen places. Her heartbeat is irregular. We fear—” The [Assassin] paused, choosing her words like a careful blade. “We fear she may not last much longer, Your Highness. We might have missed something—an additional requirement for the ritual. Or perhaps… her Light Affinity is not…”
+
+For a heartbeat, Hestia could not breathe. Her hands grasped the edge of the desk to steady herself as the room tilted.
+
+In her mind, she saw Adriana as she’d left her: brave chin lifted, stepping into the runic circle with fear she refused to show. Hestia had been so proud—and so afraid. Now the image of her daughter writhing in pain somewhere beneath the palace tore a rift in her soul.
+
+She’d prepared to kill a husband and son tonight, but never—never—had she imagined Adriana might be the one claimed by death.
+
+“If she cannot claim the Skill…” Hestia’s voice broke, and she bit down on the inside of her cheek until she tasted blood. She had promised her daughter a great destiny, but this ordeal could be her death sentence. “If she fails, the Patriarchs will close ranks as they always do. Any attempt to raise her without it—without proof—” Hestia couldn’t finish the thought. Adriana’s bid to lead would crumble without the Great Skill, and all of this night’s bloody work would hand power not to her daughter, but to opportunists and enemies.
+
+Uranus stepped forward slightly, a glint of urgency in her dark eyes.
+
+“There may be another way,” she offered in a low tone. “The true method of the rite—perhaps His Holiness knows it.”
+
+The title His Holiness referred to Pope Quintus, her husband, the current Pontiff of Lumina, who jealously guarded the secrets of the Six Great Skills.
+
+“If you give the word, I can prise the knowledge from him. I would need only one night to extract the true ritual from the Pope’s mind.”
+
+Hestia hesitated. Could she afford another night?
+
+The poison was already prepared; her husband and son would be gone by morning.
+
+If Adriana survived the abortive rite but without mastering the Skill, they would have traded two lives for nothing, worse than nothing, a treason with no reward.
+
+But if Hestia delayed the assassinations and sent Uranus after her husband, that meant postponing everything.
+
+Her husband was a fool, but he wasn’t weak.
+
+Would she be able to—
+
+Adriana’s anguished face flashed in Hestia’s mind. The thought of her daughter enduring even one more minute of that torment was unbearable. Hestia realized with a start that her hand was trembling atop the desk. She flattened it firmly, feeling the oak's grain and the moment's solid reality. In all her careful plans, she had never truly accounted for this choice: risk everything for ambition, even her daughter, or let go.
+
+She had thought her plan was bulletproof. She had believed in Adriana so much, she…
+
+“No,” Hestia said at last, her voice quiet but resolute. She opened her eyes, meeting Uranus’s gaze through the gloom. “No. We stop.”
+
+Uranus tilted her head, uncertain.
+
+“Your Highness… stop?”
+
+“Call off the rite,” Hestia commanded, each word heavy as stone. She felt something hot and wet on her cheek and realized a tear had escaped. “Get my daughter out of that chamber alive. Now.”
+
+The [Assassin] didn’t move. “And the others? The plan—”
+
+“Everything is aborted,” Hestia snapped, finding strength in the decision even as agony lanced through her at its cost. “Send word to your blades. There will be no signal. Remove the poison if you can. If not… pray they do not drink.” Her voice shook on the last phrase. She could only hope Quintus and Ennius would remain oblivious tonight and be spared by their laziness or luck. Either way, Hestia no longer cared about them—only Adriana.
+
+Uranus bowed swiftly.
+
+Hestia was already striding toward the door, lifting her skirts to run.
+
+“Where are you going, milady?” Uranus called softly after her.
+
+“To my daughter,” Hestia snapped, wrenching the study door open. A rush of cool air and corridor torchlight met her, but she hardly noticed. “Have the [Healers] ready to do everything—anything—to save her.”
+
+She did not see Uranus’s expression as she fled into the hall, but the [Assassin]’s parting words followed like an echo: “As you command.”
+
+* * *
+
+Adriana shivered at the cold air of the Class Hall corridor.
+
+Her eyes flew open. Her hand was pressed hard over the lavender locket, clutching it so tightly that her knuckles had turned white.
+
+She hadn’t realized tears had gathered at the corners of her eyes until she blinked and one rolled down her cheek.
+
+I’ve already failed once.
+
+Gently, Adriana closed the locket and let it fall against her breast. Her mother’s face—stern, proud, and tonight in that memory, stricken with rare fear—lingered in her mind.
+
+She brushed the tear away quickly, standing straighter.
+
+It was so long ago, Adriana reminded herself, exhaling. Yet the ache in her ribs where old scars lay made it feel like yesterday. Unconsciously, she touched her side, fingers grazing the spot through her silk blouse. Even now, faint ridges of warped skin spelled out a fragment of the runes that had burned her that night.
+
+They were usually hidden beneath fashionable gowns and healing ointments, but she would never forget them.
+
+I survived, she told herself. Her mother’s quick decision had saved her life. I wasn’t enough.
+
+A soft scuff of footsteps from the other side of reality made Adriana , heart leaping into her throat.
+
+She had been so lost in memory she hadn’t heard anyone approach.
+
+She exited the Class Hall in her mind and focused on her study.
+
+Her brother, the Pope, emerged from the doorway, unannounced, wearing a white robe with a gold trim—the raiment of the Holy See—and upon his head sat his crown. Though his hair was the same platinum blond as Adriana’s, it was cropped short in austere fashion, and his face bore a cold expression.
+
+“Brother,” Adriana said, finding her voice, “what are you doing here so early?”
+
+She quickly wiped any remaining wetness from her eyes, willing herself to appear composed.
+
+“I do take an interest in my family’s activities. And you, dear sister, have failed your duties. I heard of your daughter’s exploit. Like mother, like daughter, I suppose.” His voice hardened.
+
+“If you know so much, Your Holiness,” she said, letting a hint of sarcasm color his title, “then why are you here? You must have heard all the retellings.”
+
+“Adriana, listen to me,” he said in a low tone. “You cannot do this.”
+
+He drew back a half-step, then spoke in a calmer tone.
+
+“This isn’t a joke, Adriana. I am trying to help you.” His eyes searched her face, as if willing her to understand. “If you don’t rein in your daughter, you’re going to cause much trouble to Lucianus. I don’t want to hear any more talk of her becoming a Champion. It defies my authority—especially since she’s my niece.”
+
+For a fleeting moment, Adriana saw not the Pope but her little, scared brother—the boy who used to run to her when nightmares troubled him.
+
+He truly is afraid of Lily, she realized.
+
+“I appreciate the concern, brother,” she replied, softer now, like she used to practice, “I shall relay your instructions to your niece.”
+
+As Adriana smiled amiably at Ennius, who seemed rather satisfied with her answer, she was silently talking to him through her eyes.
+
+Lily’s talents… they’re beyond anything we’ve seen. You know this. She’s a miracle, Ennius. And miracles attract fear. Already, your advisers whisper about her behind closed doors—I hear it. They fear what she might become.
+
+Ennius glanced away, a sign she took as confirmation.
+
+I won’t let you smother Lily.
+
+“Think, Adriana, what’s better than a life of safety and privilege?”
+
+“You’re right,” Adriana nodded. “I’ll make sure Lily behaves.”
+
+Safety and privilege? Adriana echoed in her mind. You mean a gilded cage. I would rather be a fugitive with my child than watch her slowly suffocate in the Papacy’s embrace.
+
+* * *
+
+Ennius had left more than fourteen hours ago, but Adriana still hesitated while drinking from a cup of wine, trying to find the courage to do what was necessary.
+
+The choice she needed to make was…
+
+A soft rustle sounded from the shadows to her left. Adriana tensed, fear jolting anew.
+
+She spun toward the sound, raising one hand instinctively as if to cast.
+
+“Peace, Adriana,” came a hushed voice from a dark corridor. “It’s only me.”
+
+Hestia, her mother, emerged as if from nowhere, pulling back the hood of a midnight-blue cloak. Adriana’s eyes widened. “Mother?”
+
+Hestia’s lips curved in a small, wry smile.
+
+“Who else would be sneaking about at this hour to aid your mischief?” she replied softly.
+
+Adriana could only stare for a beat.
+
+Hestia Iulia was as impeccably composed as ever—tall, silver threaded through her once-ash-blonde hair, her bearing regal even in clandestine circumstances.
+
+But Adriana immediately noticed two things that made her chest tighten: Hestia’s eyes were bright with unshed tears, and a fine tremor passed through her gloved hand as she lowered the hood.
+
+Adriana had seen her mother wear many faces—stern matriarch, charming diplomat, even distraught parent—but this vulnerability was rare.
+
+“You… you know,” Adriana realized. “How?”
+
+Hestia inclined her head.
+
+“I do. Forgive a mother for….” She stepped closer. “Are you alright?”
+
+Adriana opened her mouth, a retort ready—of course, she wasn’t alright, she had just argued with her brother about her own daughter for whom she was about to take the mots illegal Class in the Papacy—but the simple question, spoken with genuine motherly care, unraveled her composure.
+
+The adrenaline that had carried her through the fight drained away, leaving her feeling suddenly small and exposed.
+
+“I… I’ll manage,” she whispered, though her voice trembled.
+
+Hestia’s eyes flicked over Adriana, as if checking for any physical hurt, and settled on her daughter’s face.
+
+“He didn’t harm you, did he?” There was a dangerous edge to her tone.
+
+Adriana shook her head quickly.
+
+“No. Nothing like that.” She managed a faint smile. “We only traded words, Mother. He’s upset about Lily’s exploit.”
+
+Hestia exhaled, a mix of relief and lingering anger crossing her features. She reached out and gently took Adriana’s hand between her own. Her gloves were soft and smelled faintly of lavender oil. Adriana felt that gentle fragrance surround her again, like a familiar embrace.
+
+“My brave girl,” Hestia said softly, squeezing her hand. “You’ve grown even stronger than I imagined.”
+
+Adriana’s throat tightened. In that quiet praise, she heard an echo of all the years they hadn’t spoken of that night and the unacknowledged wounds between them. She lowered her eyes.
+
+“I don’t know what to do, Mother,” Adriana confessed.
+
+“You are choosing such a path, and I… I am here to make sure you walk it freely.”
+
+From her cloak, Hestia withdrew a small silver object.
+
+Adriana recognized it—a signet brooch in the shape of a medallion, with a sun on one side and a moon on the other. She glanced down; indeed, the matching locket was at her neck.
+
+Hestia followed her gaze.
+
+“Yes,” her mother said, confirming Adriana’s dawning suspicion. “That isn’t merely decorative or protective. One of the most powerful artifacts I have ever owned; as far as I know, the only one that can read someone’s Subclasses—even the ones offered to them.”
+
+Adriana had understood her mother knew about the [Librarian] Subclass, but only now did she understand how she could know.
+
+Adriana felt a chill of anger.
+
+“A tracking artifact,” she muttered.
+
+“From when you were training to be a Champion,” Hestia smiled, her visage distorted by bitter memories. “I wanted to make sure you had the best of the best offered and that you’d pick wisely. Then, I just left it there…”
+
+With a quick motion, Hestia stepped forward and took the lock from her daughter’s neck, breaking its frail chain.
+
+Adriana’s eyes stung, realizing the depth of her mother’s foresight.
+
+“You knew… and you came,” she said softly. “Even after everything—”
+
+“Shh.” Hestia placed a gloved finger to Adriana’s lips, silencing her gently. “There is nothing you could do, Adriana. I hope you know that.” Her gaze flickered with regret, pride, and sorrow all at once. “In my heart, you’re still the only Princess deserving of the throne.”
+
+A heavy silence fell. Adriana felt tears threatening again. She managed a nod.
+
+“I know, Mother,” she whispered. And she did. And though the scars of that night remained, time had given Adriana the perspective to understand the love behind the extremity.
+
+Hestia inhaled deeply and straightened, the moment of raw vulnerability passing. She held up the sunburst pin.
+
+“Shall we destroy this nasty little spy?” she asked, a hint of fire in her tone.
+
+Adriana almost smiled.
+
+“Are you sure? Isn’t it extremely valuable?”
+
+“In the hands of Inquisitors, it would—you know what it would do.”
+
+Without ceremony, Hestia placed the brooch and the locket on the stone floor. She raised the heel of her leather boot and stomped down. A sharp crack echoed in the corridor as the two jewels shattered. A brief sizzle of released magic fizzled in the air, then died. Hestia ground her heel for good measure, twisting until the brooch and the locket were nothing but dust thanks to her enhanced Attributes.
+
+Hestia stepped back, satisfaction evident on her face.
+
+“There. That’s the last tether,” she said quietly.
+
+Adriana looked at her mother—this woman who had plotted for her daughter, who now risked her own standing to help commit another high treason, all in the name of family.
+
+“Thank you, Mother.”
+
+Hestia cupped Adriana’s cheek, her thumb brushing away a remnant of moisture there.
+
+“Don’t thank me yet. You have the hard part to do.” She nodded toward the oak door. “Your husband won’t cooperate. I understand why you’re choosing to become a [Librarian], Adriana. But… I’ll leave you to it, then.”
+
+“Mother, I wanted to ask advice on—”
+
+“Adriana,” Hestia said with a pained expression as she turned toward the dark corridor. “I am not on your side anymore. This is the last thing I’ll do for you. I’ve chosen to stick behind Ennius. He will never know of this, but… I’ve given too much to your brother to support you now. I wish that you’ll be able to make Lily what I couldn’t make you.”
+
+Adriana felt her heart being crushed under those words, but steeled herself and nodded back.
+
+“I will,” she promised.
+
+Hestia gave her one last long look—a mixture of motherly worry and confidence. Then, like a wraith, she slipped back into the shadows from which she’d come, disappearing with barely a whisper.
+
+The scent of lavender and a kiss of air were all that remained of her presence.
+
+* * *
+
+Adriana turned back to the oak door. No more doubts, no more second thoughts.
+
+Her family’s shadow had been vanquished, at least temporarily, by her mother’s intervention.
+
+Now it was only Adriana, the door, and the choice she had already made.
+
+She re-entered the Class Hall and stood before the mighty threshold that would change everything.
+
+She grasped the iron handle firmly. The metal was cold, but her resolve ran hot in her veins.
+
+Inside, the Librarian’s sanctum was cool and dark.
+
+The heavy door closed behind her with a deep thud, sealing out the torchlight and noise of the corridor. For a moment, Adriana could see nothing at all.
+
+The air smelled of old paper and dust but also of a hint of ozone, as if ancient spells were still present. She extended her hand and summoned a tiny wisp of [Light] at her fingertip—a simple illumination spell anyone in the Papacy knew.
+
+She found herself in a circular chamber of modest size. The walls were lined floor-to-ceiling with carved shelves, but where one might expect books or scrolls, there were none—only empty slots and brackets, as if all the knowledge had been removed or hidden.
+
+In the center of the chamber stood a pedestal of white marble.
+
+Upon it rested an open book carved from stone, its pages blank but covered in elaborate runes around the edges.
+
+It looked like an altar, waiting.
+
+Adriana stepped forward. A domed ceiling rested above her head, where a mosaic of midnight-blue tiles depicted a sky full of stars. At the dome’s center, a depiction of a radiant sun was intertwined with a crescent moon, almost as if in an eclipse, sharing their light and darkness in equal measure.
+
+As she approached the central pedestal, the runes along the stone pages began to glimmer faintly, reacting to her presence. Adriana felt a gentle pressure in the air, a probing sensation across her mind, as though the chamber itself were aware of her.
+
+She had heard rumors that when a person underwent the formal acceptance of a Subclass, especially one so rare, the process could be semi-sentient—like a test or an embrace.
+
+Normally, it would have gone very simply, with her accepting whatever Subclass and selecting the Skills she was most interested in.
+
+This felt foreign—no, not foreign… ancient.
+
+She raised her hand above the stone book. The golden wisp of light bobbed above her palm, illuminating motes of dust dancing in the air. Adriana’s heart was pounding again, but this time it was excitement as much as fear. This is it.
+
+“Adriana Claudia Iulia,” she whispered into the stillness, voice echoing softly. “I seek the Subclass [Librarian].”
+
+She felt a gentle tug in her mind, as if an unseen entity were asking a question without words. It was the same feeling as when a prompt from the World System appeared in one’s consciousness.
+
+In the silence, a voice not her own resonated in her head—neither male nor female, neither kind nor cruel. It simply was, and it spoke with the authority of ancient law: “Subclass available: [Librarian]. Requirements met. Accept Subclass?”
+
+Adriana closed her eyes.
+
+She had no doubts left.
+
+“Yes,” she answered aloud, clear and firm. “I accept.”
+
+The runes on the stone pages blazed white, and a column of light shot up from the pedestal to the center of the domed ceiling.
+
+Adriana gasped as the light enveloped her.
+
+She suddenly turned her eyes and saw the mosaic overhead glowing impossibly bright right, then shattering—tiny shards of light cascading down around her like falling stars.
+
+Each point of light that touched Adriana sank into her skin with a faint tingling sensation. She felt knowledge—snippets of thoughts, images, words in tongues she had never heard—flutter at the edges of her consciousness.
+
+It was as if a thousand books whispered to her all at once.

@@ -1,0 +1,201 @@
+---
+id: a3ab8035-dea5-5807-9307-47e80eb8cda2
+page-type-slug: story-chapter-royal-road
+title: "181: Creation"
+slug: 0181-181-creation
+partOf: delve
+position: 181
+ownLength: 4244
+unit: words
+publishedAt: 2022-02-06
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/839677/181-creation"
+royalRoadId: "839677"
+---
+
+The pavilion that had been erected for the wedding was rectangular, like a great hall. Unlike a tent that might have been used for this purpose in Rain’s world, it had been left open to the night sky and was otherwise unlit. Stars twinkled above, the full moon only partly visible over the stretched-linen panels that formed the structure’s walls.
+
+Rain stood on a raised platform at one end of the hall, immensely uncomfortable in his armor. Instead of his helmet, he wore a green-enameled crown, from which hung a sheer linen veil to symbolically obscure his face.
+
+As Jamus had promised, the wedding was a small affair, with less than twenty people in attendance, seated in chairs before the platform where Rain was situated. What Jamus hadn’t cared to mention was that the ritual, while brief and simple, called for those performing it to impersonate the FLIPPING GODS.
+
+Rain tightened his grip on the green-painted spear shaft grasped in his hand. The ceremonial weapon was ridiculously large, over twice his height, with a blade that formed a perfect hollow diamond he could have passed an arm through. El’s spear. The weapon the primordial human had forged to battle the chaos—before his great victory, ascension to godhood, and sorting of the world. Or so it was said. Rain didn’t believe any of this.
+
+Come on, El, just smite me and get it over with…
+
+A complicated mix of relief and terror washed over Rain as a light appeared, marking the start of the ceremony. The light—a Lunar Orb—entered through a gap between the panels at the far end of the aisle from his platform. A hush fell over the crowd.
+
+Here we go…
+
+Rain lifted the butt of his spear, then brought it back down with a thump before raising his voice and speaking in a deep, solemn tone. “Dystees, who do you bring before me at the height of the system’s power?”
+
+The light bobbed, but no voice offered a reply. Such would have broken the stillness of El’s hall. The floating ball of magic gently drifted further inside, followed by a pair of cloaked figures. The spell was Ameliah’s doing, seated in the front row and looking over her shoulder along with the rest of the crowd. It was standing in for the god of light, just as Rain was standing in for the god of order. Had such magic not been available, a lantern would have been used, held by another veiled priest.
+
+“Be revealed,” Rain said. He gestured with his free hand, and the two figures dropped their cloaks as if it had been by his will. It was Jamus and Meloni, of course.
+
+Jamus was wearing his orange robe, but it had been ironed. He’d also combed his hair, visible thanks to his rare hatless condition, and his golden earring glinted softly in the magical light. Meloni had her graying hair tied back into a short braid, hanging to the nape of her neck over a high-collared blouse of blue linen. The blouse flared at the hips but fell short of becoming a skirt, and beneath it, she wore a matching pair of plain blue trousers.
+
+The ceremony called for no special attire other than that of the priests. In fact, it prohibited it, doctrine holding that everyone should come as they were in their daily life. People generally dressed themselves up anyway, but doing much more than taking a bath and putting on your newest shirt was considered gauche.
+
+A second or two after the cloaks fell away, Rain spoke again, as called for by his role. “Before me, I find two souls that would stand as one in my great design. I commend you, Dystees, for finding them, and thus aiding me in the restoration of order. I bid you bring light to my hall, such that all may witness.”
+
+The light bobbed again, rising to hover above the center of the hall, increasing in brightness and making the pale shadows of the watchers slide across the room. Again, had such magic not been available, it would have just been more lanterns. Slightly late, a second orb joined the first, diffusing the shadows. The second spell was Val’s doing, obviously, approximately as bright as Ameliah’s, though through different metamagic.
+
+Rain beckoned. “Come.”
+
+The pair walked silently, ascending the steps to Rain’s platform, but stopping short of joining him atop it. Neither of them met his eyes, instead looking subserviently down at their feet.
+
+Rain hid a grimace.
+
+I really don’t like this ceremony. A proper wedding should be about the people getting married, not the gods doing the marrying. It’s what they wanted, though. Bah.
+
+He thumped the spear again. “Raise your eyes to me so that I might judge your place.”
+
+They did, and Rain turned his head to meet Meloni’s gaze first through his veil. He smiled at her, though he wasn’t supposed to. She smiled back, then winked. After a short pause, and feeling slightly better, Rain continued. “I see you, Meloni of Ascension, Chemist and loyal follower of mine.” Technically, ‘Meloni of Vestvall’ would have been the correct title, for all that Vestvall was no more, but she and Jamus had wanted it changed.
+
+Rain turned his head to Jamus, who was smiling at him even more broadly than Meloni had been. Rain grinned back. “I see you, Jamus of Ascension, Arcane Mysteries Mage, member of the Adventurers’ Guild, and loyal follower of mine.”
+
+He turned away again, returning to a position between them, then again spread his arms as he recited his next line. “I have seen your souls and judge your union to be true. From the disorder of the fall, you have found your place in the system, and I shall bind you together, such that your union shall endure.”
+
+He extended his hand to the side. On cue, Tallheart rose from his place at the side of the hall, climbing the platform and walking solemnly toward Rain. He wore a white circlet across his brow, and like Rain’s crown, it came with a veil to obscure his face. A crescent moon had been painted on his armor, marking him as Karum, god of craftspeople, servants, and—for some reason—death.
+
+As Tallheart reached Rain, he bowed his head respectfully, extending both hands to offer him a linen scarf, white as snow. Rain spoke as he took the offered scarf, trading it for his spear. “I thank you, Karum, for forging this bond as you once forged the system from my power and according to my will.”
+
+‘Karum’ nodded, then retreated silently with the spear, returning to his position at the side of the hall. Rain hid another grimace. The god got treated like a damn lackey in the mythology, all of his works—the system included—merely done at El’s direction and with El’s power.
+
+Karum, Dystees, and Samahleah were the second generation of gods, El and Rekzakurax—the latter having no part in this ceremony for obvious reasons—were the first generation. The third generation of gods was said to have risen from humanity after Rekzakurax broke El’s order, but before the rise of the Majistraal. The fourth and newest generation came after El had struck the Majistraal down for subverting his will. Depending on who you talked to, there were hundreds of gods—Me’ke the Shrike, third-generation god of birds and swordsmen, for example—but the newer ones had no part to play here. This ceremony was old school.
+
+Rain turned back to face the couple. In response to a gesture, they spun to face away from him, each raising a single fist beside their heads before pressing their forearms together. Rain bound their raised arms with the scarf, weaving a complicated knot that had been, arguably, more difficult to learn than the entire rest of the ceremony. “With this, I mark your souls as joined,” he said as he finished. “Where one might go, the other shall always follow, in this world, and in the heavens beyond. Go forth.”
+
+The couple retraced their steps down the aisle in eerie silence, their arms still raised. The invited guests were visibly struggling to restrain themselves as the pair beamed at each other.
+
+Midway to the exit, Carten, wearing a veiled circlet like Tallheart’s, rose from his place in the crowd to follow them. The back of his armor had been painted with a silver ship, the symbol of Samahleah. A few members of the crowd broke at this, their laughter hurriedly shhh’d by the others.
+
+It was all Rain could do not to cringe himself out of this reality and into a new one altogether.
+
+He had…learned some things about Samahleah over the past week. The implication, here, was that the goddess’s interest had been…piqued.
+
+Ellish doctrine held that Samahleah liked to ‘ride along,’ as it were, during sex. Essentially, she shared the senses of women that had caught her eye. If the goddess was satisfied by a particular couple’s performance, she would draw from them to create a new soul, which she’d then leave with the woman to nurture because she couldn’t be bothered. That was, apparently, where babies came from. All humans were Samahleah’s children, but the lewd goddess only concerned herself with the making. As soon as she was done with one couple, it was right on to the next. Eternally.
+
+As serious as Jamus and Meloni had been about the rest of the ceremony, Rain couldn’t imagine what had possessed them to grant Carten the role. Granted, he hadn’t gotten the impression that they believed the ‘ride along’ thing to be literal. The cult of Samahleah’s fire, on the other hand…
+
+The moment Carten followed the newlywed couple out of the pavilion, Rain reached up and removed his veiled crown. He wanted to fling it across the room as if it had been a venomous cobra, but instead, he set it respectfully down on the platform. Something must have leaked through the mask he was holding over his features, as Ameliah’s laugh was bright and clear as she rose to join him. The crowd seemed to take this as a signal, releasing their pent-up laughter and getting to their feet to clap.
+
+“Get back in here!” Val shouted after the departed couple.
+
+Ameliah wrapped an arm around Rain’s waist as he reached ground level. Tallheart came over from his spot against the wall to stand on Rain’s other side, removing his circlet—which he’d made with a hinge to allow him to wear it in the first place. Moments later, Jamus and Meloni reentered the pavilion, their arms still bound but resting comfortably at their sides. They were greeted by a second wave of applause and cheers. Carten entered not long after them, grinning like a madman to a torrent of laughter.
+
+Rain sighed in relief.
+
+The formalities, thank anyone BUT the gods, were over.
+
+“Good work,” Ameliah said, giving Rain a friendly squeeze. Gently, she began guiding him forward. “Come on, El, let’s go say congratulations to the happy couple.”
+
+“Mmm,” Tallheart rumbled in agreement as he fell into step beside them.
+
+“I need a drink,” Rain said.
+
+“Ah ah,” Ameliah scolded, laughter in her voice. “That’s not very Ellish of you. Besides, it’s all gone, remember?”
+
+“Not quite.” Rain said, using Detection to confirm what he’d sensed before. “Wouldn’t you know it, the bride’s a Chemist. Feels like she brewed enough to share.”
+
+Tallheart stood silently, listening to the gentle ticking of the grandfather clock that stood incongruously in his uncle’s workshop behind him. Before him, resting on the island he had forged from the void, was a copy of the forgewagon.
+
+Rather, the real one was the copy. This was the prototype.
+
+Rain had given Tallheart a wondrous gift in teaching him to access his soul: a place in which he could experiment. There was a slight time acceleration—his Clarity being middling at best—but the real benefit was that of infinite resources. Here, he could build without worry for the cost. Forging metal from raw essence was infinitely faster than smelting it from thin ore.
+
+Like Ameliah—and unlike Rain, much to the latter’s whining about it being ‘unfair’—Tallheart had found that many of his skills functioned normally within his constructed environment. Runes worked as he expected them to, though he had learned to periodically test the results against reality. Assumptions were dangerous, and he had fooled himself more than once. Even with the occasional false path, this space had proven its value. Without it, he would never have achieved a functional design. Not in the week it had been since Jamus’s wedding.
+
+Tallheart uncrossed his arms, then walked forward to begin his inspection.
+
+The vehicle was enormous. Twelve meters from bow to stern, eight across, and six in height. Rather than the mark-one forgewagon’s single pair of treads, the mark-three had three pairs, arranged in six individual pods. Each pod comprised a frame holding three wheels, a Durability-enchanted steel track, and Force Steel suspension. The central wheel of each pod was driven by a gimbaled drive shaft leading into the main body of the vehicle.
+
+The first structural layer was an inverted trapezoidal box, housing six turbines and the requisite plumbing. The steel frame was enclosed by thick aluminum plates, forming a sealed compartment. The aluminum was enchanted with the same runes as the steel, though Durability and Lightness were inversely effective on the lighter metal. Without enchantment, the frame likely could have supported the vehicle’s massive weight still, but the resulting forgewagon would have been weak, heavy, and slow.
+
+I do not build weak things.
+
+Tallheart rumbled to himself in amusement, having climbed the ladder on the side of the vehicle to the control platform. He manipulated the mechanism holding the access hatch closed, feeling a solid mechanical thunk as the bolts disengaged. He descended through the hatch, minding his antlers, not stopping until he reached the drive compartment at the bottom.
+
+He flicked a switch on the wall near the ladder, and red electric light illuminated the space, revealing the six drive turbines and the narrow passage between them. The low aluminum ceiling was supported by heavy steel braces, and the plumbing made it difficult for him to turn around without banging into something. Thus, to spare his neck, he did not linger once he finished his inspection, switching the light back off before ascending the ladder once more.
+
+Rather than climbing all the way back out, he instead came to a stop in the engineering compartment that formed the main bulk of the vehicle. Flicking on the lights—white this time—he revealed a rectangular room, twelve meters by eight meters by three. Fully half of it was taken up by what Rain insisted on calling the ‘main reactor’.
+
+The forgewagon’s heart was all one piece—furnace, forge, smelter, boiler, turbine, generator, mana capacitors, intakes, and tanks for water, steam, and fuel. Pipes snaked from it, mostly leading through the floor to the drive compartment, but some also went through the walls and ceiling. The reactor—it was easier not to argue with Rain about the name—was the primary reason Tallheart had needed his soul as a testing ground. It was not the size of the vehicle that was impressive; it was the complexity.
+
+Tallheart made his way through the compartment, not having to stoop. The reactor was enchanted, of course. The most critical runes were deep within, worked in Thermalitic Bronze and designed for the careful shepherding of heat. Others were for vibration dampening, noise suppression, and strength. Still more dealt with mana—intake, distribution, and storage. The list went on.
+
+In the same way that a heater plate was not a Flame-enchanted sword, the forgewagon was not equipment. Its enchantments could not rely on the soul of a wielder. Everything had to be done the hard way, and the size of the vehicle made it infeasible to encompass everything with a single runic chain.
+
+Tallheart had not let such trivialities stop him, of course. He had simply built additional chains. Each string of runes necessitated independent charging and mana storage elements, but there was no helping that.
+
+He scratched at the base of one of his antlers, turning away from the reactor.
+
+Truly, a vehicle fit for a Dynamo.
+
+The remainder of the engineering deck was functional space. His anvil. Workbenches. Tools for Staavo, Ellis, Shena, Myth, Reason, Meloni, Mollo, and Romer. Dedicated storage space, including a vault to hold their rarest and most valuable materials.
+
+The entire vehicle, not just the vault, was shielded with Obfuscation and Facade. The base runes for those enchantments were the same as those on his armor, but they were not used in the same way. Learning to ward an area had been a challenge. He had needed to combine his knowledge with what Romer had discovered from the Sale-human’s lair. Even that had not been enough, and he had needed to iterate the design, both within his soul and in the real world. Testing the efficacy of anti-Divination wards was not something he could do on his own.
+
+In the end, however, he had persevered. The forgewagon’s interior would be strongly shrouded from senses both magical and mundane. Everything was Muffled, both for secrecy, and for the comfort of those working within. Anyone standing outside this compartment would have scarce insight into the manner of the vehicle’s propulsion. Most would assume it to be a large Journey Core, similar to the one that animated Mlem’s cart. Such Core-driven vehicles were common enough in large human cities, though not typically on this scale. Goldships were perhaps the ultimate example; however, only the most trusted of the Bank’s Workers would know for sure.
+
+Like the Bank, Ascension would do its best to discourage questions.
+
+Staavo had mounted the two ballista emplacements they had scavenged from the Sale-human’s mansion atop the control platform, though the weapons were more of a statement than any real defense. In Staavo’s words, they said, ‘Mind your own damn business.’ Hopefully, it would be enough.
+
+A goldplate-level Diviner would be able to pierce the wards. Any goldplate could simply tear the vehicle apart if they were sufficiently motivated to see what was inside. Fortunately, encountering someone that strong in Three Cliffs would be unlikely, given what they knew of the city. The true concern was that the fact of the vehicle’s existence would spread. Over eight hundred humans would be witnesses to its creation. That was eight hundred humans that needed to keep their mouths shut. Such a thing would be impossible, even for one.
+
+Tallheart chuckled to himself as he climbed back out onto the control platform, which, even here, was only half-finished, missing its fabric awning. Fundamentally, nothing had changed. At this point, the fact that Ascension had crafters would be impossible to hide. The enchanted swords and rings were more than enough to paint a target on his back. It was just a matter of keeping that target as small as possible. Perhaps building the forgewagon so large was not the wisest decision in that regard, but it would significantly ease their crossing of the salty plain.
+
+Settling himself in the driver’s seat, Tallheart closed his eyes and took a deep breath. Mentally, he compared what he had just seen in his inspection to the real version, then nodded, satisfied. He exhaled, and when he opened his eyes, he was seated in the driver’s seat of the real thing. He was alone on the platform, having told everyone that there was a significant risk of an explosion when he engaged the turbines. There was not. As the dials on the console before him indicated, the boiler was already at full pressure and had been for some time. If the vehicle was going to explode, it would have already done so. No, he had simply wanted time to complete his inspection in peace. And to reflect.
+
+The completed vehicle was…impressive. A masterpiece, even, but not one that he could claim as his alone. Staavo had helped with mechanical aspects, solving several intricate problems through a lifetime of experience as a tinkerer. Ellis had helped with the metalwork in his small way, proving his worth as an apprentice. Myth and Reason had supplied frictionless grease for the drive train, as well as the mysterious headlight fluid Rain swore was essential. Even the unawakened had participated. A Vestvallan glassblower had made the lenses for the headlights, and still more Vestvallans had worked to gather fresh earth for the smelter. Indeed, it was a team effort.
+
+Tallheart smiled, humming as he reflected upon the novel experience of building something with others. It had been…nice.
+
+If only we could agree on a name.
+
+He retrieved a pair of brass goggles from beneath his seat, fastened them across his eyes, then reached for the throttle.
+
+A strange vibration from the ground made Dust pull up short, nostrils flaring. He’d been running playfully from the fiery human filly, not presently on fire—which was fortunate, as she crashed into him moments later.
+
+“Ooof!” Ava grunted in surprise. “Why’d you stop?!”
+
+Dust ignored the young human as she rebounded from his flank, trying to get a better feel for the vibration. Flicking his ears, he looked toward the gap in the line of trees on the ridge. That way led to where the human herd had been staying before they’d moved to the river. Yes, something was definitely coming.
+
+“Hey, do you feel that? It’s like the earthquake again,” Ava dusted herself off, getting back to her two human feet. As if there was any wonder why she’d fallen over.
+
+Dust snorted, trotting away toward the ridge. He didn’t bother trying to unpuzzle what she had said to him. Humans made far too many sounds, and remembering what each one meant was difficult. It didn’t help that Rain was being stingy with her winter’s breeze of late.
+
+Dust wasn’t exactly sure what was going on with Rain. Why the other humans treated such a lazy mare as their leader was a mystery. Ameliah was far more deserving of a place at the head of the herd, even if her mane was not so long as it had once been. Perhaps it was Rain’s shell that the others admired? But then, Ameliah wore a shell now too, as did the pointed human and the loud human, though his was not as sleek. They had had their shells first, as Dust recalled, though his memory of that time was fuzzy. Regardless, it didn’t make sense.
+
+Dust snorted again, putting it out of his mind as he neared the ridge. Ava was following after him, babbling more human nonsense that he didn’t have time for. The vibration was growing stronger, and he needed to know if it was a threat. Humans were stupid, and those of this herd were stupider than most. They couldn’t be trusted to look after themselves without his help.
+
+Suddenly, and with much less sound than something so large should have made, an enormous boulder tore over the top of the ridge. No, not a boulder. It was too shiny, and it was the wrong shape. A house? Houses didn’t move. A wagon? A monster? Dust didn’t know what it was, only that it was extremely bad. His ears had flattened down against his neck, but as he turned to bolt, he saw Ava standing there, her eyes wide in shock.
+
+“Look!” the young human shouted, pointing dumbly. She clearly had no intention of getting out of the way.
+
+Hurriedly, Dust moved to place himself between the stupid filly and the onrushing danger. The wagon-boulder-house-thing was much, much larger than him, though, and didn’t seem to be intimidated. It was coming at them very, very fast.
+
+“Move! Hyaa!” a deep voice shouted.
+
+Dust didn’t see where the pointed human’s voice had come from, but it didn’t matter. It was too late. He dug in his hooves, bracing for the impact, but the object that struck him was not the wagon-thing, but something else. Something from the side that he hadn’t seen coming. Dust screamed in terror, his hooves flailing as he found himself tumbling through the air. Only after he struck the ground did he realize that there was very little pain. There had also been a strange…ripple in the air. The thing that had struck him, he saw, was not a thing, but a human. Rain was already getting back to her feet, sparing Dust a glance before she galloped after the fleeing not-boulder, yelling as she went.
+
+“Tallheart! Slow down!”
+
+Dust got his hooves back under himself, then rose. Ava was fine, he saw. The young human was standing beside him as if nothing at all had happened. Meanwhile, the pointed human—Tallheart—was shouting something.
+
+“I cannot! Something has gone wrong with the brakes!”
+
+Dust’s eyes widened as he spotted the source of the voice. The pointed human was riding the monstrous contraption!
+
+“Dust, look!” Ava shouted, jumping up and down at his side. She laughed. “It’s huge!” She grabbed at him, attempting to climb up. “It’s going for the bridge! It’ll totally smash it! Let me up and let’s go!”
+
+Dust snorted, then bucked, thoroughly done with this whole situation.
+
+Ava shrieked as she was dislodged, tumbling to the ground, and then Dust was off, headed for the trees.
+
+Perhaps he would come back later.
+
+Perhaps not.
+
+He would have to think about it.

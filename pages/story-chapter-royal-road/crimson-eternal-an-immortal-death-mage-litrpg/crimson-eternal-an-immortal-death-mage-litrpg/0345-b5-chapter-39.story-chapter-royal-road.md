@@ -1,0 +1,167 @@
+---
+id: 6d57fdf8-710d-5d91-b1a9-53637ae81d09
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 39"
+slug: 0345-b5-chapter-39
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 345
+ownLength: 1368
+unit: words
+publishedAt: 2026-04-29
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/3334733/b5-chapter-39"
+royalRoadId: "3334733"
+---
+
+Aria
+
+Eventually I decide to let them hold their little banquets. Numerous banquets over and over again.
+
+But I don’t attend a single one.
+
+I just let the Grand General hold them on each planet I visit so as to feed the people there. Since everyone is allowed to attend the banquet.
+
+All because Famine doesn’t discriminate against social position in society.
+
+At all.
+
+Since all people in his eyes are the same. They’re either mortals, not mortals, or Horsemen.
+
+So Famine doesn’t give a shit about whether someone is a peasant or a king. Whether someone is level one or level ten thousand.
+
+And thanks to that, along with just how much Famine cares about the Horsemen, the banquet itself ends up spanning the entire planet. Giving people there food to make it so they aren’t starving. Even for just a day.
+
+Also, the food they’re given is done in some magical way so that they don’t get sick despite eating it while starving.
+
+So they can eat as much as they want during that day.
+
+I generally try to make sure not to interfere with matters on the planets I visit. But the starving people here are just a little too pitiful to ignore while I’m on the planets themselves.
+
+The least I can do is to make it so they aren’t starving on the days I visit each planet.
+
+And after that they won’t be in my mind anymore.
+
+I continue moving from one world to another, just helping each world relieve their hunger for a little while. Especially as Famine is currently stuck in his Plane of Famine recovering. Making it so he can’t drain them as much there.
+
+And finally, after visiting dozens of planets and giving them banquets, I finally leave the Dread Empire behind. Feeling more and more depressed just from looking at the empire.
+
+It’s a pitiful place run by a disturbed Horseman.
+
+Also, it’s going to be torn down eventually. At the rate things are going.
+
+The other Grands are getting closer and closer to the point of interfering after all.
+
+The ones that didn’t participate in the attack on the Horsemen are going to start a crusade against Famine since he’s so weakened. And while no mortal can enter the elemental planes, there are several powerful non-mortals in existence.
+
+Spirits. The Demon King. The Fallen Demons.
+
+Other Horsemen.
+
+And finally?
+
+The Pharaoh.
+
+Raja Singh Amunet, the ruler of the Rex Dynasty of the Dead, is a special type of undead. One born from the universe itself.
+
+He is a necro. A species born in places of immense death energy and miasma. Miasma so thick and large in quantity that it can be mistaken for a planet.
+
+He’s the only known necro in existence and is not a mortal himself.
+
+Raja is the strongest of all the Grands not including the Horsemen. All simply because of his status as a non-human.
+
+Because of his status as a necro.
+
+Technically I could even bring him into the Plane of Death if I want.
+
+I just haven’t had a reason to.
+
+That said, while I don’t have the power to open a rift to the Plane of Famine, there are other people and beings that do.
+
+Pestilence and War for one are capable of doing it. And I can see Pestilence being convinced to do it just to stop Famine from pestering him every time that meeting comes around.
+
+I’ll probably be able to open a rift myself to his plane later on. When I’m a higher level.
+
+But right now the only likely possible ways for Raja to get to Famine’s Plane is to find where Pestilence’s home is, or to ask the Void Spirits to open a rift there. Since Void Spirits can go anywhere.
+
+As for him just waltzing through one of the already open rifts currently spilling out Famine Spirits? That could work, but only once.
+
+Famine could easily kick the pharaoh out of his Plane. All he needs to do open a bunch of rifts out of the Plane of Famine and force Raja out of one of them.
+
+So he needs someone to keep opening rifts for him.
+
+I look outside through the window of the café on Vortel at the snow falling quietly outside. Having gone all the way here through a rift of my own making.
+
+But even as I sip on my wine, I can’t stop thinking about the situation with Famine.
+
+I don’t know if it’s because it’s all over the news everywhere. With people constantly talking about the potential downfall of one of the Horsemen at last. And the worst of the Horsemen at that.
+
+The Horseman who terrorizes hundreds of galaxies all on his own for no reason other than his own power and his sadistic glee.
+
+Or if the reason I can’t stop thinking about the situation is because I’m also a Horseman.
+
+I’m just not sure.
+
+But at the same time, I don’t really care about why at the end of the day.
+
+At the rate things are going, Famine’s reign really will come to an end. If things keep going as they are.
+
+The end of the Dread Reign.
+
+People are calling this the Era of the Horsemen. But at the same time, the era itself seems to be leaning more towards the opposite.
+
+Towards the end of the Horsemen rather than their era.
+
+A crusade.
+
+Against all of the Horsemen except for myself.
+
+And I’m certain that when the next Famine is born, people won’t just sit by and let them grow. They’ll cut them down before they can grow strong this next time.
+
+They’ll stop them.
+
+And the same will no doubt go for when they turn their attention on War and Pestilence as well.
+
+The Four Horsemen of the Apocalypse are meant to act as drains to absorb the apocalyptic energy of the universe. To make sure the actual apocalypse doesn’t happen due to the universe being filled with the energy and turned into a hellscape.
+
+But at the same time, all that is technically required is for the Horsemen to be born. Not for them to continue staying alive.
+
+They automatically drain an enormous amount of that energy just from their birth, according to the Grand Death Spirits.
+
+So theoretically, the Horsemen can be killed right after their birth and the universe will be safe.
+
+The Apocalypse won’t happen.
+
+Except for Death, of course. Since Death can’t die.
+
+And from what I’ve seen online, people don’t even want me to die. In fact, they are absolutely against the idea of people attacking me.
+
+All because I’m publicly recognized as a good person. And if I were to be replaced with a bad person, that would be terrible.
+
+Having an evil Horseman of Death.
+
+So at this point, even if it were possible for me to be killed, anyone trying would be considered public enemy number one.
+
+It’s all interesting to think about.
+
+The Horsemen. The Demon Kings. The Spirits.
+
+The Grands.
+
+I take a light sip of my wine before letting out a sigh as the snow continues falling outside, and the relaxing music fills the café.
+
+Time passes as I calmly look out the window. All the way until I finish my wine and yawn.
+
+Then I open a rift and pass through it. Appearing on my ship.
+
+And as I begin traveling across the universe to just explore and try to find different Hunter’s Spots located in space – since there are some of those once in a blue moon – I begin to hear news about nations declaring war on the Dread Empire. Attacking them more and more.
+
+Liberating one world after another.
+
+Over and over again.
+
+All while the Grands begin to turn on Famine more and more.
+
+And after a few months, I find myself receiving a visit from Raja. One in which he asks me if he is permitted to finally deal with the problem that is Famine.
+
+I answer that he can do as he pleases before continuing on my trip.
+
+Leaving the universe to begin its first major turning point in a long time.

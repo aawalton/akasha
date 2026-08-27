@@ -1,0 +1,71 @@
+---
+id: a5d43ad8-0461-5954-abe1-d692c6c923bd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4 - Alone"
+slug: 0005-chapter-4-alone
+partOf: defiance-of-the-fall
+position: 5
+ownLength: 1691
+unit: words
+publishedAt: 2019-05-05
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/359142/chapter-4-alone"
+royalRoadId: "359142"
+---
+
+Zac had an ominous feeling and prepared to look around in the vicinity for tracks or signs of where his friends had gone. However, a dizzy spell reminded him of the most pressing issue. Almost falling, he went to the car and brought out the small green box with the first aid kit from the trunk.
+
+He then limped to the camper, whose door was standing ajar, and hesitantly went in. The interior was completely empty as well, with no signs of either friend or foe. Scared that the smell of blood would attract more monsters, he firmly closed the camper’s door. Luckily, it was one of the few spots that hadn’t been dented by the demonling’s rampage. Zac finally slouched down on the sofa, not caring that the blood would stain the fabric.
+
+He put the box on the small dining table and opened it and first grabbed the small bottle of surgical spirit. By this time his face was drenched in sweat from the pain, and his hands were already shaking. Putting all the things he needed next to him, he started to prepare for his treatment.
+
+Slowly and gingerly, he took off his shirt and pants. Luckily, the blood was still wet and hadn’t had time to coagulate and stick to his wounds. Still, the pain was a hundred times worse than ripping off a Band-Aid as he removed the clothing.
+
+The claws of the beast had raked a long gash on his waist, and three additional but slightly smaller on his left thigh. There was finally the last wound on his right calf. While the wounds looked ghastly, it actually did not seem as bad as he feared. The cuts seemed clean and straight, and the bleeding had somehow almost stopped by now, turning into a slow trickle. He could only hope that it meant that he was getting better, and not that he was running out of blood.
+
+Knowing what came next, he almost whimpered when grabbing a water bottle and a gauze swab. He carefully poured the water over the wound at his waist to clean out the blood and dirt, and the agony almost made him pass out. Gritting his teeth and blinking away the tears falling from his eyes, he then grabbed the alcoholic solution and poured some in the wound as well. The wound didn’t look inflamed, but he didn’t dare skip this part, even though it felt like he was being ripped in two from the alcohol.
+
+His face was like a beet by now, sweat pouring down and veins throbbing out on his forehead. Finally, he took some surgical tape and taped the wound together, and then wrapped some bandages a few rounds around his waist.
+
+The first part down, Zac just sat panting for a while. He closed his eyes, and a wave of exhaustion hit him like a truck, almost making him pass out then and there. However, there were still wounds to treat, so he roused himself again with some difficulty.
+
+Zac did the same procedures on his legs, and by the time he was done, his face had gone from red to a ghastly white. His hands were shaking so bad that he could barely grip the water bottle when he downed the last of its contents in a few big gulps. He was so weak he barely managed to make it to the bed in the back, and as soon as he hit the pillow, he passed out even though the suns still stood high in the sky.
+
+They were still shining brightly through the window when Zac woke up. Was there no longer any night now that there was an additional sun up in the sky? He stretched a bit and found out that while far from healed, he did feel much better than he did before. His bandages were red with blood but not wet, so the bleeding seemed to have stopped. He also didn’t feel that intense pulsing agony anymore, and it was replaced by a lesser throbbing pain.
+
+He still had problems keeping weight on his left leg, though, and almost fell when moving toward the fridge. The second thing he noticed when waking up, besides his wounds improving, was a fiendish hunger as if he hadn’t eaten for weeks.
+
+He ambled to the fridge and found out it didn’t work anymore, and some food was already starting to spoil. The monster had probably broken something while creating the various dents in the mobile home. He picked up a few sausages they’d prepared yesterday before they ran out of firewood, and a couple of slices of bread. Then Zac finally relaxed with a bottle of water after he had virtually inhaled the food like a starving ghost.
+
+The others still hadn’t returned. Zac was afraid they either were dead or had fled without looking back. Both scenarios were grim, and the possibility of the second left a sour taste in his mouth. He took out his phone from his pocket, but it was mangled and bloodied beyond redemption, likely from one of his tumbles.
+
+Luckily, they had prepared an emergency phone in the camper in case something went wrong, and he opened a cupboard and took it out. The phone was in working order, but it got no reception. This was weird, as they’d had a decent signal yesterday. Even if they were camping and enjoying the wildness, they wouldn’t stop at a spot with no reception, as no one was ready to go a whole day without surfing on their smartphones.
+
+He also noticed from the time that three whole days, not one, had passed since the world went mad. He truly had blacked out hard after tending his wounds. The date only further reduced the chances of his travel mates and Hannah coming back. At least it also probably meant that the monsters kept to their territories and didn’t wander around as much as he feared. He wasn’t sure he would be able to handle another of those demon dogs at the moment, even with knowing their weaknesses from the last fight.
+
+With food settled and not having any pressing issues, he started to take account of what had happened, and what to do from here. The absurdity of the situation finally hit him, and Zac spaced out with glazed eyes, unsure of how to proceed.
+
+A distant roar brought him back to reality. This was no time to slack off; he was by no means safe at the moment. He was in the middle of the forest surrounded by crazy monsters, and that glowing pillar still shone in the distance, reminding him that more monsters might come.
+
+Perhaps the pillar was a portal to hell or something similar, and demons could keep flooding through from their infernal plane. Or was this an alien invasion? The monsters could be something like Zergs in a popular computer game he’d played back in the day.
+
+Then he finally remembered the weird robotic voice he’d heard earlier, and the confusing things it said before it started its crooked gambling scheme that almost cost him his life.
+
+“Welcome to the multiverse…” he mumbled. If the TV shows and comic books he had devoured throughout the years were any indicators, a multiverse was a connection between multiple planets, galaxies and even dimensions.
+
+If the voice was to be believed, Earth had been introduced to some larger system, and due to this, there were suddenly demons roaming the forests. But that didn’t mean that only demons were around. What about other monsters or races? Would he suddenly meet elves jumping around in the trees, shooting arrows at him with pinpoint accuracy?
+
+The voice also said it had initiated incursions. It seemed reasonable that the huge pillar in the distance was the incursion, which would mean he probably wasn’t too far off with his demon-portal theory. And when it spawned in the forest, the demons came with it.
+
+But that meant that the monsters wouldn’t necessarily spawn next to it, as one had already been in the camp when he came back. It was hard to tell the distance to the huge pillar, but it should take hours on foot to get there. And something called a herald had spawned right on top of Zac, resulting in the largest emotional roller coaster in his life.
+
+Finally, he had gotten stronger for some reason with all these changes. Both his speed and power saw noticeable improvements from whatever the weird voice did. It almost felt like he had gotten a power-up like in some video game, which made sense after having seen the floating windows in the dark dimension. He still didn’t understand why the prompts were designed to look like some old-school RPG. Was it his mind desperately trying to make sense of an insane situation and adjusting reality for him?
+
+Fantasy monsters, magical portals, and gamelike elements. If some parts of the world were turned into an RPG, did other elements get introduced as well? At least there was no health bar, and the demon had no description or text above its head either. In fact, the only time he had seen any true game elements was when he was in the black space the voice brought him to.
+
+He tried to notice anything in the periphery of his vision, but there was nothing there apart from the vision of the now somewhat bloody and grimy trailer. Tyler’s parents would probably be pretty pissed off when they saw the state of their camper, he thought with a smirk.
+
+If they’re even still alive, he then realized somberly. If the world was turned to shit at his location, what about the rest of the planet? Would it be safer or even more messed up? What about his hometown?
+
+Thoughts of his father and younger sister surfaced, and a sense of urgency appeared. If this was a global problem, nowhere was safe. Zac had no idea what was going on, but he would have to figure that out on the way.
+
+He needed to get back home.

@@ -1,0 +1,121 @@
+---
+id: acc90aba-2778-5765-ae77-fbc40a7f6c9e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,401 - Immortal"
+slug: 0079-chapter-1401-immortal
+partOf: defiance-of-the-fall
+position: 79
+ownLength: 2962
+unit: words
+publishedAt: 2026-01-25
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2978535/chapter-1401-immortal"
+royalRoadId: "2978535"
+---
+
+Zac lunged at the azure barrier without another word, his axe already in motion. The attack failed to leave so much as a mark, and Zac could sense that striking with [Void Mountain] wouldn’t make much of a difference. The moonlight powering the seal had grown stronger in the blink of an eye, and it had gained a touch of lofty Daos that exceeded Zac’s bloodline’s ability to counter.
+
+Worse, the boost didn’t come from the moonlight still pouring through the large windows on the opposite side of the hall. It was coming from within the Hall of Abundance. The seal prevented Zac from getting a proper look at the situation inside, but it was impossible to miss that the depths were illuminated in blue. There were also traces of the very same perception that had hunted them all the way to the lodge’s doorstep. It was steadily growing stronger, bit by bit encroaching on Sevona’s divinity.
+
+Just moments ago, Zac had felt that the hardest part was done and over with. All invaders except Descartes were out for the count, and he’d successfully opened a gap in the seal to let Esmeralda sneak into the Hall of Abundance. He’d thought the final step was to simply stall while Idiche absorbed the Divine Core, only to realize he’d trapped his two companions with a terrifying foe.
+
+Hearing the name August made the pieces fall into place. The so-called leader of the invasion wasn’t a general or corrupted elder of the Mercurial Courts. The perception that descended into the illusory rivers, who forcibly reached across dimensions to seize Idiche. The moon hanging overhead, even now reaching for the lodge. It was all August, a personification of sin and man’s greed.
+
+August was the name of Sevona’s guard captain in the vision, the very one who dug out her Divine Core from her chest. Zac couldn’t understand why he wanted the Divine Core. Had he lost the one in his own timeline? Or was he simply not satisfied with the one he took? Perhaps he’d joined hands with the corrupted timeline to sweep through the Omnipresence Chamber. He’d get the Divine Cores while the corrupted imperials slaughtered their alter egos.
+
+Either way, this exceedingly powerful existence had managed to infiltrate the lodge with Descartes’ help. Zac suspected that he’d inadvertently lent a helping hand as well. While the invaders could force open a path using moonlight, simply dying would also further their goal. It was a no-win situation where Descartes nudged the scales in his favor.
+
+Kaltosa Lu reached the same conclusion. While Zac struck the azure seal, the Elemental swept his sleeve. The dead and dying cultivators across the hall all stilled at a molecular level. Even their lingering spirituality was frozen by intense chill, while all time was sucked out of their bodies. Finally, Spatial Tears swallowed the bodies before the river of time could drag the corpses back into its waters.
+
+Descartes looked at the proceedings with a mocking smile. “It doesn’t matter. The ritual offering quarry at the hunt’s end is symbolic in nature. The bodies I took out aren’t even the originals. They’re left rotting across the island. With my wish granted, Fate has reached equilibrium. Each candidate has been allowed to send forth their champion. Astora picked Sevona while I joined hands with August.”
+
+Zac’s mind spun as he searched for alternative solutions. If the main entrance was a no-go, then what about the side door? With the lodge’s divinity weakened, he might be able to force his way through. Of course, that would depend on whether Kaltosa Lu was willing to cooperate, and whether he could hold down Descartes.
+
+It was as though Descartes could hear Zac’s thoughts. “You’re free to leave this room and officially end the ceremony. Of course, doing so will leave me no choice but to push the needle in our favor. August left me with more than one safeguard. I suggest you stay for a final hunt. The Fate accumulated in this hall is enough to overturn the Heavens.”
+
+“You’re going against the Empire’s interests siding with that thing,” Zac said.
+
+He couldn’t tell if Descartes was bluffing with his threats. Even if he was, Zac didn’t dare call it. There appeared to be a fraught balance in the tug of war on the other side, and that was while only a fraction of August’s power had reached the Hall of Abundance. Another push and all would be over.
+
+Willing or not, his best option was to play along with Descartes’ game. Zac needed to kill or at least incapacitate Descartes before figuring out a way to help his allies. How Kaltosa Lu would react when only the two of them were left standing in the ring was a problem for later. At least for now, their goals should be aligned.
+
+“Going against the Empire’s interests? How?” Descartes jeered. “You’re deluding yourselves if you think those you just killed are not devout subjects of our Empire. They may have become monsters, but what true citizen isn’t willing to become a monster to further our cause? The very fact that they can enter our side proves that final legitimacy is open to interpretation. Why should I work with the Theomores, who have stubbornly kept the Gift of the First Era to themselves?”
+
+Zac understood that Descartes was buying time, but he still chose to play along. This outside party left Zac feeling a tremendous amount of pressure, and he still didn’t understand how Descartes had recovered his lost arm. It would be nigh impossible to kill Descartes without understanding his path, and getting a glimpse of his origins could provide a critical clue.
+
+It couldn’t be something so simple as regeneration since Descartes’ sleeve and bracer had returned with the regrown flesh. Considering he was sent to the Mercurial Court, he should possess one of its related Daos. If cutting through his arm was an illusion, it was an exceedingly realistic one. Zac hadn’t noticed anything amiss, and he couldn’t find anything suspicious in his memories. Except, if Descartes wielded illusions that could influence his surroundings to such a degree, then Zac would never have noticed the ambush ahead of time.
+
+It could be extraordinary control over space. If he connected the space of his stump and the severed arm just as it was being cut, Descartes might be able to reconnect the spaces and reattach his arm. If this control was taken to an extraordinary level, each cell could be connected with its neighbors through spatial links. That way, he could be cut down at an almost molecular level without actually being wounded.
+
+Or was it time manipulation? Had Descartes rewound time to before his arm was severed? Zac felt this was the least likely of the alternatives. He’d already seen temporal attacks from Kator and Kaltosa Lu. They could only manipulate temporal flow to their advantage. Rewinding time was another matter entirely, and Zac suspected that it would break the rules of causality like Leviala Cartava’s Heavenly Eyes.
+
+“The Theomores grew too conservative after the Emperor gave them control over the Ultom Courts. They wasted the gift, and their understanding of the Ultom Courts isn’t necessarily greater than that of my new helpers. Our grand undertaking is approaching fruition, but the Empire is filled with rot. We were sent here to administer a final test. If Sevona falls, it simply means the Astora girl and the Theomore Clan are unworthy of wielding the Ultom Courts.”
+
+“We? Just who are you?” Zac pressed.
+
+“My identity is irrelevant. I’m but the instrument of a larger design,” Descartes said as an intense Killing Intent gathered in his chest. “I’m more curious about who the two of you are. The Grand Preceptor said that there’s only room for one Flamebearer candidate at each court. I hoped to use this island to seize Astora Theomore’s Fate, but it looks like she had the foresight to stay away.
+
+“Instead, I track down not one but two other Flamebearers who shouldn’t exist,” Descartes said with a bemused voice. “Oddly enough, someone warned me this might happen. Do you know what his suggestion was?”
+
+“To gracefully back down and leave this opportunity to your betters?” Kaltosa Lu asked with a smile.
+
+“A mere Centigrade Servant dares to talk about betters? I don’t know how you escaped the facility, but I’ll make sure to send back your Primordial Runes,” Descartes sneered, causing a flicker of genuine anger to appear on Kaltosa Lu’s face. Not bothering to hide his disdain, Descartes brought out a paintbrush covered in runes. “He urged me to erase the anomalies. Seizing your destinies will return the trajectories to their natural order. It should also give me a leg up in my next round with Astora Theomore.”
+
+Part of Zac wanted nothing more than to continue the exchange. Descartes obviously possessed extremely valuable information, and not just about Ultom and the First Era. Zac’s earlier suspicion was proven correct: Descartes was a high-ranking disciple from the Imperial Capital far away on the Limitless Expanse. He would know about the Empire’s situation in its final days. He might even know something about Karz's ultimate end and the Technocrats’ attempt to stop the System’s awakening.
+
+Nevertheless, the clock was ticking, and Descartes was no longer holding back his greed for their Flamebearer seals. His demeanor was almost identical to Kator’s when he rushed for the final seal inside the Centurion Base. Once more, Zac would make sure their schemes came an inch short of fruition.
+
+Zac shot forth like a meteor, opening with a lightning-quick swipe aimed at Descartes’ throat. Black chains dripping with the weight of Death rattled as they rushed to weigh their target down. All the while, two billowing clouds of deathly Miasma filled every corner of the lobby. Zac knew he’d need every advantage he could get, so he activated both [Deathmark] and [Fields of Despair].
+
+Kaltosa Lu was naturally exposed to the skills as well. Zac could control his skills well enough to ensure no wraiths targeted the Elemental, but Kaltosa Lu had to deal with the sense-depriving aspect of [Fields of Despair] himself. It probably wouldn’t be a problem. Zac had used the skill a few times during their clash, so the Elemental should have devised counters already.
+
+Descartes moved his brush as if he were painting the air, causing the treasure to grow to the size of a broadsword. A curtain of azure-black ink actually appeared where the bristles passed before the lacquered handle crashed into [Death’s Duality]. Zac’s attack was stopped right in its tracks, confirming his opponent’s Strength was equal his own.
+
+More surprisingly, the streak of ink turned into a flock of birds. The painted creatures grabbed a link with their beaks and began dragging the chains away, while others threw themselves against the first Axe Wraith to appear, leading to mutual destruction. The thrashing chains broke free in just a moment. At that point, Descartes had already blocked Zac’s axe once more, the movement conjuring a pack of monkeys to act as his guardians.
+
+“That’s it. Use your meaty face to keep him occupied,” Kaltosa Lu hollered while hundreds of small spatial tears formed a small constellation over the lobby’s ceiling.
+
+It didn’t take long for a constant bombardment of surgical attacks to start raining down on Descartes, targeting any gaps in his defense. They were made from the whole gamut of Daos, and array disks constantly entered spatial tears while something new emerged to take their place. Zac immediately recognized the Elemental’s scientific approach. He’d suffered under the exact same technique while he was pursued all the way to the Transformation Docks.
+
+Kaltosa Lu was pouring money into the problem, analysing which mixtures of Daos would be most effective at bringing down their enemy. When he found something that worked, Kaltosa Lu would bring out the big guns to finish the job. The problem was that they didn’t have days to figure out what made Descartes tick, and the man truly seemed immortal.
+
+Descartes wasn’t missing a beat in his dogfight against Zac. His technique was polished to perfection, and it echoed grand concepts that couldn’t possibly be his own. Someone extremely powerful—perhaps the Grand Preceptor mentioned before—had taught Descartes a method based on Perfected Dao.
+
+With the magical and seemingly inexhaustible ink on his brush, Descartes blocked all of Zac’s attacks and more than half of Kaltosa Lu’s. The attacks that actually reached home accomplished nothing. His head was split in two, limbs were scorched, and devastating poisons ravaged his body. A breath later, Descartes would be back to normal.
+
+Zac was making no headway. The only thing he’d achieved while pushing his Inexorable Stance to its limits was confirming that Descartes indeed relied on illusions to heal himself somehow. The approach appeared similar to how the Threaded Hell’s Realmlord “killed” Zac’s wounds with the Dao of Death. Similarly, Descartes was able to turn any wound and impediment into an illusion.
+
+The same was true for the ink. It was both illusory and real. [Arbiter of the Abyss] proved utterly incapable of manipulating the trajectories of the ephemeral constructs. However, the lantern-wielding pygmy was exceedingly good at incinerating them. Most of Zac’s strikes were thanks to its ghastly flame.
+
+Secondly, there was something deadful sealed or hidden in the depths of Descartes’s body. Zac had vaguely heard a terrifying roar when he managed to pour some of his Daos into a wound. He immediately lost contact with his Mental Energy. It had been torn apart before the cleansed wound disappeared.
+
+Part of Zac understood that Descartes’s apparent immortality had to come at a cost. If nothing else, he should be constantly draining Cosmic Energy. However, his foundations were as deep as they came, and his goal was clearly not to take Zac out. The azure radiance leaking from the Hall of Abundance was growing stronger by the second as August’s position advanced. Descartes only needed to hold out a little longer before he had a B-grade helper to wrap things up.
+
+Zac still had a few cards left to play, but none of them would matter unless they could counter Descartes’s cheat-like resilience. Zac couldn’t see how infusing his Inexorable Stance with the Void would make a difference. He’d easily sneak past the paintbrush, but then what? Descartes would still recover even if he was cut into a thousand pieces.
+
+‘We’re running out of time. Have you figured it out yet?’ Zac urgently asked.
+
+‘Our friend picked the right place to seize our destiny. His illusions are empowered by borrowed Authority. And on this island where the bounds of reality are blurred, they’ve become even stronger,’ Kaltosa Lu answered. ‘I wonder if it was planned or if he’s simply lucky. It’s quite vexing.’
+
+‘Borrowed Authority? Don’t you have something like that, too? Isn’t your ancestor supposed to be some sort of big shot?’ Zac said, suppressing his annoyance over Kaltosa Lu’s nonchalant tone.
+
+‘Ha! You wouldn’t have said that if you knew anything about my miserly grandpa. He throws a fit any time I send some small greeting gifts to my betrothed. To lend us his Authority? Forget about it,’ Kaltosa Lu laughed. ‘The only way he’d ever do that was if his mental state reached such a low that he had to reduce Heaven’s pressure.’
+
+‘This is no time to be joking,’ Zac groaned. ‘We’re screwed if we let this go on. You should be able to tell that something bad will happen with the lodge in the next few minutes.’
+
+‘Huh? Screwed? Speak for yourself. Did you think I would step into this hotbed of trouble without leaving myself a way out? I’m gone the second August seizes the Divine Core. It’d be a shame, but there are other ways to gather Potentiality,’ the Elemental said, and Zac could almost feel the bastard laughing at him from the other side of the lobby.
+
+His unspoken meaning was clear: ‘What kind of fool runs into danger without a backup plan?’
+
+Undeterred, Zac kept pushing for answers. ‘But then you would also fall behind the other Flamebearers. Do you think Iz Tayn will fail when fate tests her? Or the other Flamebearers who are competing for the Ultom Courts? You may as well give up on your chances if you throw in the towel. Then Iz Tayn will go off marrying that prince from the Seven Heavens.’
+
+‘My goals are not necessarily what you think, but your words do have some merit—apart from your blasphemous words about my beloved. If I had to think of a solution, plant a seed of doubt in his heart.’
+
+‘What?’ Zac said.
+
+‘He believes his illusions can rewrite reality, so they can. Therefore, you need to disrupt this certainty. Tear him apart until his conviction falters. Make him doubt himself, doubt his very existence. Destroy his Dao and reject his trickery,’ Kaltosa Lu said. ‘In other words, give him a big ol’ scare.’
+
+It felt silly, but the plan undeniably had a simple logic to it. Zac also had no better idea. But how to scare someone who thinks themselves immortal? He didn’t even flinch when Kaltosa Lu blew up his whole head. His body just kept moving until it reappeared. Would unleashing [Eye of Desolation] or his other skills accomplish anything? Probably not. He needed something that could break convention, breaking what Descartes thought possible.
+
+Zac’s heart ached upon knowing he’d finally reached a point he’d managed to avoid for a long time. ‘I’m sorry, I might need your help.’
+
+‘Never apologize for that,’ Alea answered. ’I have been waiting to hear you say that for a long time.’

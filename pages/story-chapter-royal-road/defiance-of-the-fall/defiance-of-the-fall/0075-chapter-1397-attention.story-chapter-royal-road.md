@@ -1,0 +1,133 @@
+---
+id: 77dd8064-3151-598b-8226-c2a5293f80b1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,397 - Attention"
+slug: 0075-chapter-1397-attention
+partOf: defiance-of-the-fall
+position: 75
+ownLength: 3003
+unit: words
+publishedAt: 2026-01-15
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2946608/chapter-1397-attention"
+royalRoadId: "2946608"
+---
+
+A descending swing embodying finality followed two lightning-quick swipes. The illusory warrior was too busy blocking the brutal barrage of one of Zac’s hundred doppelgangers to figure out what hit him and how. His collapse freed up the clone conjured by Idiche’s bottle, and he seamlessly teamed up with his brother to take down another foe.
+
+Similar scenes were taking place all over the shifting battlefield. Being illusions themselves had made the starwrought clones more efficient than Zac in dispatching invaders. They existed on the same wavelength as the illusory soldiers, allowing them to fully leverage his superior power.
+
+The otherworlders' army was utterly incapable of mounting a response to one hundred copies of Zac working in perfect conjunction. Hundreds fell every second, and the tide of Sevona’s beasts was more than happy to join in on the bloodbath. The true Zac was the one reaping the most lives by far while remaining unnoticed by the rapidly expanding perception.
+
+Ensconced in shielding starlight and with a mind razor-sharp from a raging river of refined Killing Intent fusing with his very existence, Zac was free after having his wings clipped. The leader of the invasion was yet another in a long line of insurmountable enemies that forced Zac to dance to a tune that went against his nature.
+
+The past hours had forced him to measure every action and hold back on meting out judgment on deserving enemies. Zac understood he was still running along the edge of calamity, where the path to life was hidden in a sea of death. Being a breath slow or falling a step short meant tumbling into the abyss.
+
+Nevertheless, this foolhardy balancing act felt completely different when he was dancing to no tune but his own.
+
+Ten seconds was nothing on a cosmic scale. Yet even the smallest of windows could bring about a reversal of fate and a shift in the tides of war. For a Late Hegemon with thousands of points in Dexterity, it was enough to swing one’s axe an uncountable number of times. It was enough to leave a sea of corpses in his wake when the stars obscured his actions.
+
+It made no difference that the soldiers conjured in the sixth river were far stronger or that they accessed both Daos and abilities. What could they do when they failed to notice his approach, when they weren’t given the opportunity to face their executioner? Zac may as well have been given the authority of the Grim Reaper as he rushed through the ranks with inexorable malice.
+
+There was no dishonor in attacking from the shadows to take their power for his own. He was seizing Life by delivering Death, embodying the intrinsic nature of conflict. When you boiled it down to its base elements, war only followed the rule of the jungle. The dead had no say, and surviving was justification.
+
+Zac downed another foe without missing a step, prompting a crack to echo in his mind. The seed nourished on the battlefield was shedding its illusory nature to sprout into the ironclad truths upholding his path. The seed’s shell unfurled and turned into soil from which a miniature tree grew.
+
+Seeing that his second Warbringer Idol took the shape of a tree was by no means a surprise. Apart from the axe, trees in various shapes had taken up the greatest symbolic meaning for his path. Even his Dao of Death had been depicted as a dead tree with a hanging coffin at one point in time. What surprised Zac was which tree had been dredged from the depths of his heart.
+
+It wasn’t any of the trees that had become his Dao Avatars, nor was it the Worldtree he saw in one of his first Dao visions. Neither was it the small tree desperately fighting to stay alive in the Miasmic blight of the Dead Zone during the integration, despite being one of his first encounters of life through death.
+
+It was the poplar tree that had grown in the backyard of his childhood home, a tree that stood to this day in Greenworth. Was it the result of his lifetime living as a mortal carver on the Greenworth Trading Street? Or was it his subconscious desire to hold onto his mortal heart?
+
+Of course, the idol had some important distinctions from the tree of old and the larger specimen it had mutated into since the integration. It had become a symbol of the cycle that began with life and ended in death, showing the whole process at once.
+
+The leaves growing from the lowest branches were golden and so full of vigor that it felt as though one could squeeze pure lifeforce from them. The further up you went on the tree, the vibrant air faded, eventually giving way to decay. The leaves in the crown were pitch-black and in a perpetual cycle of disintegration. An ashy rain of pure death fell toward the soil, becoming the nourishment to begin the cycle anew.
+
+The tree showed no sign of rejection or incompatibility despite holding both Pure Life and Pure Death. There was no sign of the Void acting as a bridge either. Zac guessed those rules didn’t matter as much when it came to a heart construct. The idol didn’t actually hold any Dao. It was a projection of his beliefs and his path, the same as his carvings in his other life.
+
+The twisting dimensions of the chaotic battlefield stilled as the truths and falsehoods were forced apart, and Zac could feel the path of Life stretching out before him. At that moment, he didn’t need the dagger to know where he needed to go, and his will kept the exit from moving further away.
+
+There was no time to allow himself to get lost in the birth of his second Warbringer Idol. Luckily, there was no ancient will left by a long-gone civilization to make him lose his sense of self this time. Zac simply allocated some of his attention to channel [Warbringer Dharma]’s method, never forgetting the situation he found himself in.
+
+He had never forgotten that his free-for-all had a time limit. The stars that hid him from the leader of the otherworlders were winking out one by one, acting as a countdown to his doom. Zac had unerringly moved toward the sixth river’s exit while unleashing his slaughter. Without anyone able to hinder his advance, he’d covered more ground in a few seconds than in minutes in the previous rivers.
+
+The passage was right ahead, and he’d achieved his goals, so there was no meaning in sticking around. The entity’s perception had grown so dense that the vault in the sky had buckled inward. Both hunger and anxiety leaked through the cracks of reality to permeate the realm. It was pressing against the barrier, and Zac didn’t dare so much as sneak a peek out of fear it would bring deadly attention.
+
+Just when it seemed as though the entity was about to force its way through the barrier between timelines, a refreshing, unstoppable wind swept through the crumbling battlefield. The salt of the sea and the earthy musk of untouched forests filled Zac’s nostrils. The scents of nature completely dispersed his sense of doom, and the intruding enemy’s burgeoning momentum was fast dwindling.
+
+It was as though nature itself had stepped in and thwarted man’s encroachment on the cardinal rules of the cosmos. It was only half correct. Balance had been irrevocably upended by Idiche’s bottle and his wanton slaughter. The thousands of soldiers had dwindled to a fifth of the original tally, and the rest were lambs to the slaughter. The remaining beasts were more than enough to finish the job.
+
+The humid wind ushered Zac forward, sweeping him into the passage just as the protection of the stars ended. A world being made anew greeted his arrival. A magical forest was sprouting with speed rivaling [Apex Jungle], covering the entirety of the seventh band. Zac wasn’t given any option but to continue his dash before getting his bearings. The expanding river behind him was growing aggressively, swallowing everything in its path.
+
+There was no doubt that being swallowed by an illusory realm that was rapidly growing in power would spell trouble. An enemy of your enemy wasn’t necessarily your friend, and Zac didn’t dare try his luck with an island running amok. Thankfully, the upheavals helped Zac with one of the dangers. The churning water created a rising mist that helped isolate the azure moon’s painful glare.
+
+The desert fought back against the island’s attempt at restoration. The layer of corrupted sand siphoned the lifeforce of the first generation of growth, turning them into hollow husks that crumbled from a light gust. That wasn’t enough to reverse the growing trend. The plants that died became fertile soil for their descendants, and new generations of trees appeared within seconds.
+
+Watching the cycle of growth and decay deeply resonated with Zac. It was like he’d become an Autarch who imposed their path on their surroundings, supplanting the natural laws. Ultimately, the illusory nature of the trees prevented a true connection. Their appearance didn’t hold the genuine birth that came from Creation, and their deaths lacked the gravitas of Oblivion.
+
+Zac’s pocket suddenly vibrated, and the world darkened as his mind reeled from an urgent scream of danger. He was ready for the challenge. His whole body throbbed with the desire for conflict after absorbing an unprecedented amount of perfected intent. It was like he’d been blessed by the Gods of War, pushing his instincts into something bordering on precognition.
+
+He was dodging while channeling energy before he’d actively registered the threat. Four pygmies emitting the archaic aura of his Bloodline appeared, and an immutable coffin barrier blocked the attack coming from his left. Zac’s eyes grew slightly wider when the coffin shattered before a clawing hand. He sensed the attack held tremendous force, so he augmented the barrier with the fourth pygmy’s empowering ability.
+
+It was his strongest defense, and it only brought a moment’s respite. Zac was observing and analyzing every little change at superhuman speed and realized the feat wasn’t as effortless as it let on. A gleaming flash of darkness struck the hand with impeccable timing, just before its exhausted energy could be replenished.
+
+Metal met flesh, and blood spattered the leaves as the arm was cleanly dissected. Zac’s steely gaze bore into the surprised attacker before he disappeared. Esmeralda hadn’t stayed idle during the exchange. The delay bought enough time to analyze the cage that had sprung up around them, and she brought them through the cracks while the attacker dealt with losing a limb.
+
+The attacker only pursued for a few seconds before Esmeralda lost him with a burst of speed. Zac inwardly exhaled with relief as their view of the stranger was blocked by a row of trees. He looked more interested than angry, like a predator who had found worthy prey. Zac could tell that their mission had hit a huge setback.
+
+He may have come out ahead in their brief exchange, but Zac understood they’d run into a terrifying opponent. It wasn’t just that the man’s shredded arm had reappeared with speed surpassing Zac’s when he used Creation Energy. The ambusher was one of the few people Zac had encountered with a physical prowess that outshone his own. The fact that he was a Late Hegemon only made him more terrifying.
+
+“I’ve never seen him before. I’m certain he’s not a disciple of the Mercurial Courts,” Idiche said when Zac looked her way. “Perhaps a visitor like you?”
+
+“Perhaps,” Zac muttered as he reached into his pocket.
+
+The man was most likely an imperial from his appearance and aura. He had the same olive skin and black hair as many imperials, and the cut of his huntsman’s vestments matched that of ancient times. However, Zac hadn’t seen him during the worship ceremony on the Transformation Docks, nor did he resemble the descriptions of the sealbearers who set out on the Peregrine Ocean before Zac arrived.
+
+The fact that he triggered a reaction from the [Court Cycle Token] was the strongest clue to his identity. It made Zac recall his first meeting with Xiphos in Dawndeep Bastille. The Enkindling Sage openly shared all the pertinent gossip, from the rules of entering the Mercurial Courts to the participation of the Theomore Dynasty. He’d also mentioned the participation of elites coming all the way from the Imperial Capital.
+
+These people were supposedly the reason why the Theomore Dynasty sent out their young. It was a way to protect their interests and honor against the competing factions of the capital. And yet, Zac hadn’t seen a shadow of them until now. Zac suspected he’d finally caught a first glimpse of this mysterious elite.
+
+Whether they were dealing with the real thing or a copy from the corrupted timeline was too early to say. Perhaps it didn’t matter. Zac, or rather Everit Draom, had solidly placed himself in Astora’s camp, making him an enemy of this outsider.
+
+“The dagger!”
+
+Zac understood Esmeralda’s plan and handed it over without question. The next river was coming up ahead, and she planned to improve on Idiche’s attempt to cross the previous river with the dagger’s help.
+
+“Give it back if you’re about to lose control. Each of us can cover half the distance,” Zac urged.
+
+Solidifying another Warbringer Idol left him more confident in traversing the shifting dreamscapes below the rivers, but why risk it now that they were so close to their destination? The seventh river was already dangerous on its own, and it was about to fuse with a tsunami coming from the sixth.
+
+“Don’t think I’m the same as that unrelia—huh?” Esmeralda’s eyes lit up, and she changed course without warning.
+
+“Wai—” Zac’s warning was swallowed by an earsplitting groan as a gargantuan tree lost its footing and fell toward the river.
+
+Esmeralda had already jumped onto the log when it crashed into the river with a splash, and Zac was pleasantly surprised to see their surroundings remain in place. Was it because the tree shared origins with the waters, yet was somehow distinct? It was a safe path across the waters that needed no sacrifice.
+
+The tree only lasted a second before illusory powers ripped it apart. Esmeralda was already two-thirds across by that point, and she easily covered the final stretch with the dagger’s assistance. She didn’t even look winded when handing back the dagger with a cocky grin.
+
+“See, easy enough.”
+
+“Do I look like I ran out of stamina?” Idiche huffed with annoyance, still clutching the invaluable but empty bottle. “Something interfered with the dagger’s power. Otherwise, I would have taken us across safe and sound without a problem.”
+
+A field of nothingness interrupted the conversation, quenching the traces of Killing Intent that had appeared on both Zac’s companions. Esmeralda’s expression scrunched up, and one of the vats on her back bubbled. Her speed temporarily surged, transcending what should be possible within Hegemony without external aid. She crossed the desert in no time, at which point Zac wordlessly turned off [Void Zone] while stabbing the ancient dagger into his palm.
+
+The blinding blue faded, exposing a moon so close that Zac felt as though he could reach up and touch it. It had elongated, like it was trying its hardest to touch down on land ahead of time. From Zac’s vantage, it resembled a vertical pupil of an unfathomable existence staring down on them. He prayed its influence didn’t reach the lodge interiors. It was already strong enough to kindle murderous impulses in his companions.
+
+They would find out soon enough. Esmeralda rushed across the bridge over the final river at breakneck pace, yet the world itself was working against them. The river was powerful enough that not even the hidden road was immune to its influence. Zac felt as though they were trapped in a quagmire while his Vigor rapidly drained away.
+
+It was at that moment that the river surged without warning. Not even his Danger Sense gave Zac an early indication that something was wrong, and it remained subdued while a gargantuan hand rose and gripped the illusory passage. Esmeralda’s eyes began glowing, and she released a deafening bellow. The starry river she had used once before to trap her doppelganger appeared and superimposed on the crumbling bridge, stabilizing it for another moment. Idiche was only a step behind in adding a set of pylons that seemed both real and illusory. They kept the destroyed pieces aloft just long enough for them to cross.
+
+A distant roar made Zac’s vision go dark, if only for a moment. When he came to, Zac realized they weren’t standing on a patch of desert. They were inside a wooden outbuilding filled with stalls of different sizes. A large barn door presumably leading outside was right behind them, and there was a set of stairs leading to a reinforced door not far ahead.
+
+“I’m sorry about that. I felt so frustrated all of a sudden,” Idiche muttered before looking around. “We were directly sent inside? Are these the stables? Did the dagger lead us here, or was it because of the commotion just now?”
+
+“Who cares? We made it thanks to me,” Esmeralda said with a grin. “Where’s the world heading? Some random weasel thought they could catch a Grand Traversal Toad with a mere projection.”
+
+“They would have succeeded if not for my timely intervention,” Idiche rebutted before giving Zac an inscrutable look.
+
+“What?” Zac asked.
+
+“Be careful. That guy on the other side really seems to hate you,” Idiche said with a raised brow. “Trying to force his way through like that must have come at a cost.”
+
+“He must be jealous of my handsome face,” Zac said with a slight smile, hiding his true thoughts.
+
+Was it really him that the entity was after?

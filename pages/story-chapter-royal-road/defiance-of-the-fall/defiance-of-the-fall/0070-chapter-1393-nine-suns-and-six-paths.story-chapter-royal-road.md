@@ -1,0 +1,175 @@
+---
+id: 5325b247-ee13-5146-ae1d-ccb0cdd2a795
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,393 - Nine Suns and Six Paths"
+slug: 0070-chapter-1393-nine-suns-and-six-paths
+partOf: defiance-of-the-fall
+position: 70
+ownLength: 3457
+unit: words
+publishedAt: 2025-12-21
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2867943/chapter-1393-nine-suns-and-six-paths"
+royalRoadId: "2867943"
+---
+
+The good days were over.
+
+The five-element domain faltered, and the surge of flesh pressed closer. At least a hundred Beast Kings had been attracted by the spiritual spring appearing right by the base, and there were too many descendants to count. The basin was filled to the point that a layer of trampled beasts had become the new surface.
+
+The scene normally wouldn’t have fazed Carl in the slightest. He wasn’t sure if "dependable" was the word he’d use for Iz Tayn, but more beasts generally meant a larger pyre while she was around. This time, Carl was forced to face the beast tide by himself. It wasn’t going great. There were no armies to hide behind, and the arrows he’d released had already marked him for retribution the moment the elemental barrier collapsed.
+
+“Guess I have no choice,” Carl said through grit teeth and brought out a set of arrows made from Spiritual Gold.
+
+Each was covered in runes that, while crude, perfectly matched the pathways of his class. He’d only managed to make twenty-six such arrows during their brief windows of downtime. That wasn’t a lot, especially when [Empyrean Suns of Yi] needed at least eight arrows to be activated. The expenditure wasn’t nearly as worrying as the backlash.
+
+Carl took a steadying breath as he inserted the arrows into the ground before him, lining them up in a neat row. The shafts began vibrating as Carl drew on the flames of his path, and the distant calls of divine crows echoed in his mind. For a minute, there was only stillness. Then, Carl became one with the sun.
+
+Arrows were drawn and released according to a mysterious cadence that Carl still didn’t fully understand, though his Earthly Dao guided him through the motions. The released arrows turned into streaks of scorching flames surrounded by golden-red feathers of pure fire. Carl didn’t aim at any particular beast, instead targeting the sky above the beast tide.
+
+The energy arrows Carl usually used could travel a dozen miles before running out of steam. These physical arrows should have been able to go even further, but they exploded into intense conflagrations shortly after emerging from the barrier. The beasts only looked up in confusion before continuing their assault on the five-element barrier.
+
+Carl didn’t have time to worry about their reaction. He was only three arrows in, and smoke was already coming out of his nostrils. Terrifying flames were eating his organs, with each added arrow worsening the punishment. By the fifth arrow, the pain was so overwhelming that he couldn’t think straight. By the seventh, his whole existence was consumed by flames.
+
+By some miracle, Carl managed to find the eighth arrow among the flames, and his smoldering bowstring didn’t snap when drawn. He released the arrow, and the relief made tears pour down his cheeks as he fell to the ground. The fires that dragged him toward oblivion had stabilized before he was pushed to the point of no return, though he’d need weeks of bed rest to get back on his feet. Not to mention that every inch of his pathways was scorched.
+
+His emptied Cosmic Core trembled with hunger, and Carl glanced at the spiritual spring like he was dying of thirst. Maybe just a—Carl shook his head and focused on the matter at hand. The fires inside his body had gathered into eight miniature suns hovering around his heart. Their appearance was perfectly mimicked on the battlefield.
+
+The unstable explosions were unstable no longer. They’d turned into actual suns holding the entirety of Carl’s cultivation along with the power infused into the arrows over months. Dozens of three-legged crows orbited each one, emitting even greater heat than the suns themselves. By the time beasts realized there was a problem, it was already too late.
+
+The crows dove toward the ground with suicidal fervor, and their shapes morphed as they picked up speed. They looked mostly like arrows made from fire by the time they crashed into the beasts below. Deafening explosions shook the valley as thousands of beasts were reduced to ash. The arrows didn’t wink out after tearing apart their targets either.
+
+The flames attached themselves to furs and hides, growing and spreading beyond Carl’s control. Even the environment was working in his favor. A massive, fire-attuned Spirit Vein was hidden beneath the basin. The five-element Spiritual Spring appearing out of nowhere had thrown the focused ambient energy out of balance, but there was still ample fuel for the flames.
+
+New crows emerged from the suns as soon as the first generation had perished. It was Carl who controlled the process through the miniatures in his chest. There was enough fuel for two more batches, but Carl knew he didn’t have the time. A dozen Beast Kings had perished under the first barrage, and just as many were busy putting out flames on their bodies. That meant there was still plenty to go around, and they wouldn’t just watch Carl turn the whole basin into a furnace.
+
+Better to detonate what was left as an attack than see the suns be torn apart. Of course, there was a second option that had some chance of forcing the tide to back down. Heart as kindling, soul as arrow—a sacrificial art that turned oneself into the ninth sun in a bid for mutual annihilation. Even the Late D-grade Beast King towering at the back would have to watch out for that blast.
+
+Not that Carl ever planned on using that feature unless it was to protect his wife and daughter. He wasn’t a lunatic who lived for the battlefield and glorified the idea of becoming a martyr. Carl squished the suns with his mind, and the real ones turned into infernal fireworks that rained down on the suffering tide.
+
+The streaks weren’t as potent as the arrowcrows, but there were thousands and thousands of them. The flames fused with the environment, turning into a true wildfire. Carl wryly smiled at the scene. What a shame. That would have been a decent chunk of Kill Energy. He unsteadily got to his feet, popped a few healing pills into his mouth as he stumbled toward the spiritual spring.
+
+Carl was aware that he wasn’t a one-man army like Emperor Atwood. There were at least seventy Beast Kings left, and it was mostly the weaker ones who’d fallen. However, the flames held a trace of the true aura of the three-legged crow—courtesy of Iz, of course—and most beasts would think twice before approaching.
+
+The attacks on the barrier had stopped, and they were already recovering some of their lost energy. By the time the beasts outside figured out it was a ruse, the barrier would have grown even stronger. Carl figured he’d bought at least twenty minutes of safety with his little stunt.
+
+Extraordinarily dense but mixed spiritual ripples rose from the crystal-clear waters. Carl didn’t get it. He would have thought that a spring appearing in one’s backyard was a blessing. Its nature was even somewhat aligned with the five-elements defenses keeping the frontier base safe. It was related to the blasted road.
+
+The Imperial Workshop had deemed that this stretch needed a fire-attuned node stabilized by the five elements, and having the five elements naturally emerge would destabilize the road network. So he and Iz were tasked with resolving the issue while the defenders kept the thirsty beasts at bay. So much for that plan.
+
+Carl did his part by putting his whole head into the pond, greedily gulping mouthfuls of spring water. It temporarily soothed his aching pathways and replenished his lost energy faster than any Cosmic Crystal could. Since the spring had appeared right atop the Imperial Road, it also lacked any of the nasty impurities that permeated most of the Left Imperial Expanse.
+
+How he wished he had the boss’s proclivity for ingestion. Zachary Atwood could gobble up half a mountain while he was still an E-grade cultivator. This little spring was child’s play. He could swallow it in one sitting, removing the reason for the beast tide to stick around. Carl barely managed to make a dent in the spring before he was filled to the point of bursting. He burped and patted his protruding belly as he sat on the shore, his immediate lack of energy somewhat resolved.
+
+What now?
+
+Carl glanced at the burning base. There were still signs of an intense battle going on inside. Carl had run to the frontlines as much to escape her flames as to stall the tide. The girl had suddenly gone mad, turning on the people they’d been sent to assist. Now, the stench of burning flesh wafting over from the fortress was even stronger than the one coming from outside the barrier.
+
+Some messes were too great to clean up. What the hell was he supposed to say when they returned to the Farsee Court?
+
+“It’s my fault for expecting smooth sailing while running the Emperor’s errands,” Carl muttered.
+
+With Iz Tayn clearing the path, they’d successfully explored three Memory Domains on the way and another two after reaching the inner region. The results spoke for themselves. Iz had erected a halo based on her flames, and they’d been working on bringing forth a second since successfully entering the Farsee Court.
+
+The Farsee Court was connected to three Dao Peaks: Elements, Nature, and Order. It was the court responsible for taming the wilds and subduing the elements to construct the mind-boggling, continent-spanning formation. The other courts had helped out in various ways, but it was the Farsee Court that imposed Order on the Left Imperial Expanse—the Empire’s flavor of order, anyway.
+
+Such a monumental task could never have too many helping hands, and they’d been put to work the moment they joined the court. The Sealbearers were sent through the Earthgate—essentially a backdoor that could teleport the Imperial Workshop anywhere on the road—to random problem areas on the continent to deal with whatever prevented the road from functioning properly.
+
+In this case, it was the emergence of the spring that disrupted the area’s energy flow. The previous two tasks were different, with one being an issue of an incompetent Array Master and the other the theft of critical resources. Carl had eagerly solved each one, feeling that each completed task took him closer to the Farsee Court’s true seat of power. That was where he would advance Emperor Atwood's plans.
+
+Carl thought Iz was on the same page. Had he been deluding himself?
+
+Until today, Iz had never given him reason to think their goals were incompatible, and traveling with a golden spoon undeniably had its perks. Carl’s pockets were bursting at the seams with Natural Treasures that failed to attract the lady’s eyes. [Empyrean Suns of Yi] was also something she brought to reciprocate his ongoing assistance, and the force that gave the arrows their kick came from her own blood.
+
+Iz Tayn wasn’t interested in the treasures left in the memories, nor did she appear too keen on exploring the meaning behind the threads of fate they encountered. She mostly seemed interested in setting things on fire and spouting nonsense about fate. The girl had the face of an angel but the mind of those fire-starting imps back home.
+
+The way she barreled through challenges like a meteor made the mad emperors of Earth appear measured in comparison. It was Carl who performed all the investigations, and he dealt with all social issues after Iz nearly tested the fates of a group of engineers from the Imperial Workshop. Carl should have known then that it was only a matter of time before disaster struck.
+
+Killing the workers of the Imperial Workshop was a big no-no, and the only way back was through the Earthgate in the middle of the burning fortress. If they left through the domain’s border, they’d emerge at some random spot on the continent, undoing months of travel in one go.
+
+Carl tried to make sense of the situation as the flames outside began fading. Iz Tayn was crazy, but not crazy crazy. There had to be more to it. But it was impossible that she’d uncovered traitors among the locals. They barely had time to step out of the Earthgate before she began launching fireballs left and right.
+
+Was it a play to approach the Clan of Pomul?
+
+The Imperial Workshop controlled the Farsee Court, but the design behind the Imperial Road wasn’t solely their work. The Clan of Pomul was an ancient race thought extinct long before the Limitless Empire’s time. Iz only knew of them because their ruins still stood to this day. They were a popular target for cultivators hoping to excavate treasures from the beginnings of the Era.
+
+The great empire of Pomul had been reduced to a small clan, but they possessed an extraordinary understanding of Order. The Imperial Workshop had found the survivors in some corner of the universe and conscripted them to help design the road. While the cooperation was harmonious on the surface, there was clearly some tension between the two camps.
+
+Iz Tayn had also been in a private meeting with the four-armed race a few days ago.
+
+“Sitting here won’t change anything,” Carl muttered under his breath and reluctantly set a course for the fort.
+
+The commotion had finally died down, and Carl found Iz standing in the middle of the main square. Lying before her was a corpse burnt beyond recognition. He’d essentially been turned into charcoal, and Carl wouldn’t have known he was looking at the militia captain if not for the large mallet in his hand.
+
+“Uh, is everything alright here?” Carl asked as he glanced at the corpse.
+
+“It is now,” Iz said, unleashing another wave of fire.
+
+“Uh, isn’t this literally beating the dead—" Carl stopped in surprise when the flames ate away the charred skin, exposing a golden luster beneath. “What the hell! These baldies are everywhere.”
+
+Beneath the layer of charred skin was a Buddhist monk. It clearly wasn’t just an issue of having his hair singed off during the battle. The man was outfitted with six small scars on his forehead, and he emitted the unmistakable aura of Karma. Carl would never forget the feeling after being exposed to that crazy B-grade monk outside the Imperial Graveyard.
+
+Thankfully, this monk didn’t appear any stronger than the Early C-grade captain that Iz had subdued. In fact, he was clearly on his last legs, and his pristine skin couldn’t hide the devastation within. Most likely, his whole Inner World had been incinerated, and he was only holding on through sheer will.
+
+“Benefactor, must you leave us with no hope?” the monk sighed as he looked up at Iz. “I can sense that you already carry great sin. Your actions will only further stain your Karma. It’s still not too late to turn away from the sea of regret.”
+
+Iz’s answer came in the form of a final wave that reduced the dying monk to ash.
+
+“Damn, these baldies are simply everywhere. Was it a trialtaker?” Carl asked.
+
+“No.” Iz shook her head. “This man should have been an infiltrator who implanted the rest of the base with seeds of Dharma. Over decades, this fort was turned into a stronghold of the Buddhist faith.”
+
+“You could have told me and spared me the heart attack,” Carl muttered. “I thought you’d gone crazy there for a while.”
+
+“They’d prepared for our arrival. Our Dao Hearts were targeted the moment we stepped out of the Earthgate. I had to unleash my flames to assert my path,” Iz said, giving him an odd look. “You didn’t notice anything?”
+
+“Huh?” Carl said, thinking back. “For some reason, I missed home when we appeared. Not sure if it’s related?”
+
+“Power of belief,” Iz said, slightly shaking her head.
+
+“So the monks were meddlesome bastards even back in the day,” Carl said. “I didn’t expect them to deal in road sabotage, though.”
+
+“They weren’t,” Iz said. “The Spiritual Spring wasn’t part of their plan. There are signs of them trying to contain it. When they failed, they knew the Farsee Court would send someone to investigate.”
+
+“Then what were they here for?” Carl asked.
+
+Iz took a moment to gather her thoughts before answering.
+
+“The cosmos is limited—limited in resources, space, and even ideas. For one’s cultivation to advance, the fates of those standing in the way must be severed. Similarly, for one truth to exist, another reality must falter.”
+
+“The truth is the truth, isn’t it?” Carl said with confusion, not sure what she was getting at.
+
+“Truth is malleable, and control over the interpretation is at the heart of the great struggles raging across the Multiverse,” Iz said, looking down at the corpse. “The Buddhist Sangha has almost completed the Six Paths of Reincarnation. At that point, the Wheel of Samsara will become truth, and reincarnation will follow the rules of Buddhist doctrine.”
+
+“What’s that got to do with the monks masquerading as border guards?”
+
+“You should have understood the Limitless Empire’s ultimate goal by now,” Iz said.
+
+“Sure, they want to resurrect.”
+
+“In a manner of speaking,” Iz nodded. “Don’t you think it was suspicious how easily we caught onto the clues on our way here?”
+
+Carl’s brows furrowed in thought. Now that she mentioned it, it did seem a bit convenient. He’d chalked it up to his travel partner piecing together the clues thanks to her exceedingly high vantage. But no matter how strong, they were still just juniors playing a game set up ages ago. If the empire wasn’t okay with the truth being exposed ahead of schedule, they should have been more than capable of hiding the traces.
+
+Suddenly, Carl’s neck hair stood on end, and he realized the little tyrant by his side was staring at him with an inscrutable smile.
+
+“Ideas and beliefs can hold great and unexpected power,” she said. “Us knowing should be part of the design. It plants the seed of possibility in our subconsciousness, and it influences our actions as we explore the courts. Even trying to stop their plot helps foster credibility. There would be no reason to resist their attempt if you sincerely believed it could not come true.”
+
+Carl didn’t really understand what Iz was talking about, simply nodding along while memorizing her words. Someone else could unpack all this stuff after he went home. Iz seemed to realize his lack of comprehension and changed her approach.
+
+“Even long after its fall, the Limitless Empire is the Sangha’s greatest adversary. While others fight over the interpretation of Dao, they’ve fought a silent war over the interpretation of Destiny. These Dharmic seeds were planted eons ago, knowing they would die and become part of the continent. They are just pawns in the struggle for the Era’s direction.”
+
+“Wait, are you actually saying that the monks somehow knew this trial would take place and began plotting even before the Dark Ages?” Carl asked. “Are they really that powerful?”
+
+“The Sangha has firmly grasped the Dao of Karma since time immemorial,” Iz shrugged. “Even if they didn’t know exactly what was going on, they’d sense that the Left Imperial Expanse would play a role in achieving their goals. If their attempt didn’t work out in the end, they would only lose a few Dharmic Guardians.”
+
+“For one truth to exist, others have to suffer,” Carl said, finally catching what Iz was putting out. “Will the resurrection of the empire undo their work on their Six Paths of whatever?”
+
+Iz nodded. “What the Limitless Empire is trying to accomplish goes far beyond reaching into the past and resurrecting someone. It goes against all reason, and it proves that the rules of Samsara aren’t absolute. The belief supporting the Six Paths of Reincarnation will be damaged, preventing it from reaching perfection.”
+
+“Wait, if the monks knew this place was trouble, why didn’t they launch a proper strike back then? Why send weak monks to infiltrate remote locations?”
+
+“Perhaps they did? Few know what truly happened during the empire’s final days. The attackers were erased by the Dark Ages along with the empire itself,” Iz shrugged. “I also suspect that thwarting the empire’s plot was never their goal. They’re more ambitious than that.”
+
+“Then what?” Carl asked. “The pillar? Or Ultom?”
+
+Iz looked at the sky where a light drizzle of memory lanterns was falling. “No. What they want is the empire itself. They want to send the last souls of the Limitless Empire into the Six Paths. The extraordinary levels of Destiny these souls carry will become the nourishment that renders the Six Paths Eternal.”

@@ -1,0 +1,137 @@
+---
+id: b30f8876-9409-56e5-9c9a-c7368d2464dc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,426 - Peak"
+slug: 0106-chapter-1426-peak
+partOf: defiance-of-the-fall
+position: 106
+ownLength: 3189
+unit: words
+publishedAt: 2026-04-26
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3321831/chapter-1426-peak"
+royalRoadId: "3321831"
+---
+
+Past and present remained blurred as the vision ended. The memory of rumbling skies before sleep took hold of him quickly brought Zac around. He flew to his feet in the hidden treasury far below ground, urgently readying himself for a calamity that never arrived. There were no signs of the tribulation he’d sensed just before passing out. Only a trace of Heavenly presence lingering in the air was proof he hadn’t imagined it.
+
+With the threat of a Void-augmented tribulation gone, Zac’s thoughts couldn’t help but turn to his bloodline vision. Like previous snippets of Karz, it answered a few questions while raising new ones. Those questions would have to wait. He hadn’t forgotten why he took the risk in the first place. While advancing his bloodline ahead of schedule would bring plenty of benefits down the road, the breakthrough was first and foremost a means to an end.
+
+A mental check indicated he’d been passed out for nearly an hour. The fact that he didn’t feel like a powder keg bursting at the seams was promising, and a preliminary investigation brought more good news. His gamble had delivered in ways Zac hadn’t dared hope for. An intangible pressure permeated his Quantum Space, which had shrunk to some degree.
+
+Not only that, but the flow of energy from the Cosmic Sea had been greatly reduced. By rousing his bloodline, it was fully cut off. Zac didn’t maintain that state. The Quantum Space was still dozens of times larger than what one should expect, and the slight compression brought by his breakthrough had made it tougher. It was no doubt connected to his Duplicity Core, which was still drawing energy.
+
+The situation was better than expected. If need be, Zac was confident he could destabilize the subspace and harness the forces of space to compress his Cosmic Core. The question was whether taking that step was even required. Surprisingly, the pressure unleashed by his bloodline awakening had completed half the job for him. The core was less than half the size compared to an hour before, with separated sections showing signs of natural fusion.
+
+The core was still in a swollen state in need of further compression, and time was running out. With the threat of overloading his core with foreign energy dealt with, the remaining issue was the length of his breakthrough. He’d intentionally drawn out his breakthrough to wait for his Quantum Space to destabilize on its own, and over a month had passed at this point. His Cosmic Core was starting to lose its malleable state. Every second wasted would make the final compression harder.
+
+There was nothing that needed to be consolidated, so Zac directly removed the seal on the hidden treasury. The commotion outside had died down by the time Zac emerged, yet the district was barely recognizable. The grand ruins that had endured through the Limitless Empire’s final days were no more after his breakthrough. Huge craters and festering scars covered the region. He hadn’t just absorbed the treasures stowed away with his Void Vortices; his ascent had required a mountain’s worth of raw materials.
+
+Most of the damage was caused by malfunctioning arrays, much like the chaos he’d seen in the Centurion Lighthouse. Zac gingerly navigated the battle zone as he made his way back to Dome Lake’s memory domain. The site of his breakthrough remained untouched by both the Heavens and the commotion outside. Curiously, its Imperial Faith seemed even stronger than before.
+
+Zac passed through the barrier, and the fraught environment was replaced by Dome Lake’s nourishing mists. He made a beeline for his island, where an extremely agitated toad waited for him.
+
+“Maniac! What have you been up to?!”
+
+“I told you, I had to advance my bloodline. You know my breakthroughs are a bit chaotic,” Zac said, confused by the reaction. While things were bad outside, it wasn’t to the point that it should frazzle an experienced hand like Esmeralda.
+
+“Not that! What did you do to infuriate the Heavens so badly? How are you even alive?” Esmeralda asked. “I’ve seen Dao Defenses drawing less ire than you did.”
+
+“There really was a tribulation?” Zac frowned.
+
+“You’re telling me you didn’t notice? Is that even possible? Just look!” Esmeralda said as she activated a recording.
+
+The first scene depicted an overcast sky, with clouds far more intense than those he faced a month ago. The image blurred for a few seconds. When it stabilized, the Left Imperial Expanse had gained two new pillars at its center. Neither resembled the pillars of the Outer Courts. One was a gargantuan monolith made of Tribulation Lightning, the other was a sharp geyser of blood. The image didn’t convey their auras, yet Zac took a step back instinctively.
+
+“What the hell is that?” Zac blurted, instinctively turning toward the real scene. Both pillars were already gone, but there was undeniably something there. Flickering lights were rising from the ground, as if a pillar was about to emerge. The scene made Zac think of Transformation Docks before the memory domain had stabilized. “Is that the Left Imperial Palace? Why’s it emerging now?”
+
+“How should I know?” Esmeralda rolled her eyes. “I only know that the Heavens turned their attention toward you for less than a second. Then, it rushed toward the continent’s heartlands. Actually, the Mercurial Court was spared the worst of it. The vast majority of the tribulation clouds seemed to come from the Hollow Court. It’s like we were just an afterthought.”
+
+“How could you tell at this distance?” Zac asked, his confusion only deepening.
+
+He’d already exchanged a few words with his other half. His human side couldn’t leave the isolated mountain peak to investigate, but the situation was stable. He was fine, and the mysterious Void Tree was gone. His counterpart would have mentioned if there were any signs of world-ending tribulations originating from his position.
+
+“The accumulation was enough to impact the whole continent,” Esmeralda said. “The Heavens were out for blood, but it didn’t get to finish its job. The blood spear came from the south. It dispersed most of the tribulation clouds, and things stabilized shortly after.”
+
+“The South? Indomitable Court?” Zac mused, a vague image of Joanna’s master appearing in his mind. He shook his head. “This will all have to wait. I need to wrap things up with my core.”
+
+On the other side of the continent, Zac was hard at work investigating his C-grade Void Emperor Bloodline. The unexpected breakthrough had fallen into his lap like a pie from the sky, and there was much to unearth. Some things were as expected, others not so much.
+
+Bloodline [C - Corrupted] Void Emperor, [D] Children of Draug - Eoz
+
+Talent Force of the Void - 99%, Void Zone, Void Mountain, Earthly Dome
+
+Bloodline Nodes [D] Void Heart, [D] Spiritual Void, [D] Purity of the Void
+
+Nodes [D] Adamance of Eoz, [D] Conviction of Eoz, [D] Immutability of Eoz, [D] Alpha Link, [D] Omega Link
+
+The biggest upset was that his Void Emperor Hidden Nodes all remained at D-grade. While their performance seemed to have slightly improved, it was far from a proper evolution. For instance, [Purity of the Void]’s purification space had grown by a third, and it showed no indication of awakening new features. It was roughly the same with the other Hidden Nodes.
+
+Zac sensed it was connected to him still being a Hegemon. The nodes needed a proper Inner World to bring out their true C-grade potential. Luckily, the same restriction didn’t seem to hold back his Bloodline Talents. [Force of the Void] had skyrocketed to 99%, though that could potentially be due to the vast discrepancy between his Late D-grade cultivation and his C-grade bloodline. Ignoring all else, Zac was already qualified to help Esmeralda with the heist.
+
+[Void Zone] had seen both qualitative and quantitative improvements. Its range had reached nearly 100 meters, and the intensity of the nullification was noticeably stronger. Like before, the increased strength came at an exponentially higher consumption. Not only that, Zac sensed an odd fluctuation that could best be described as anti-gravity from the domain.
+
+It needed testing, but Zac believed [Void Zone] had gained the ability to mitigate the weight of a Monarch’s world. That newfound ability would be key when facing C-grade cultivators, especially while he was still a Hegemon.
+
+The improvement to [Void Mountain] was a straightforward enhancement to its infusion. Further testing would be needed to figure out if anything else had changed. Judging by the Bloodline Vision, the major addition could very well be connected to his Inner World in the future. For now, Zac could confirm that none of his upgraded abilities were of any use to his Core Formation.
+
+It all came down to his new ability: [Earthly Dome]. Zac had finally gained an ability that overlapped quite well with Karz’s original version. There was no need to get used to the ability either since he knew it quite well. Zac stretched out his left hand, and a small, stable Void Vortex formed above it.
+
+His new Bloodline Talent was actually an old one, with some additions. It was the ability to freely open up vortices. He was technically able to do it before by straining his bloodline to its limits, but that method had many restrictions. There were times he’d tried and failed to open a vortex. Even when successful, Zac lacked control over the vortex he’d created.
+
+Those shortcomings were gone after gaining [Earthly Dome]. He could conjure or move them with a thought, and the range was extraordinary. The dome, true to its name, maintained an invisible domain. As far as Zac could tell, he could open vortices anywhere within. While it was nowhere near the world-spanning area of Karz’s Heavenly Dome, it could cover his island back home a few times over.
+
+The ability to freely manipulate vortices technically made [Earthly Dome] a functional combat ability. However, using them that way was fraught with danger. The vortices were equivalent to spatial gates leading to a Monarch’s Inner World, except they’d take the enemy to Zac’s hidden Void Realm. That realm remained outside his control, and there was no telling what trouble a trapped opponent could cause.
+
+The talent’s intended purpose was closer to Karz’s, though there was a critical difference. Karz’s Heavenly Dome was able to draw pure spirituality from the world’s Nexus Veins. Meanwhile, his [Earthly Dome] rather targeted physical matter, just like when he advanced his bloodline. The only difference was the improved control.
+
+So while Karz’s talent encouraged him to stay put and slowly draw sustenance from the cosmos, Zac needed to do the opposite. [Earthly Dome] would only shine when he roamed through resource-rich regions like a swarm of locusts, devouring everything that came within reach. It suited Zac just fine, and it could become the key to swiftly advancing through Monarchy.
+
+The improved control over the void vortices had one interesting side effect. A second vortex appeared beneath the first, and Zac dropped a stone through it. Shortly after, the very same stone fell from the upper vortex. The process repeated, and the stone gradually picked up speed until it crumbled. The cause wasn’t velocity, but rather being exposed to the Void Realm’s erosion multiple times.
+
+While the Void Realm remained out of his control, Zac could still sense where the vortices terminated. By putting the exits next to each other on the other side, he’d essentially created a spatial gate. No, better than a spatial gate—it was a pathway going through the Void, thus inheriting its unique features.
+
+Since Zac was immune to the erosion of the Void, he wouldn’t suffer the same side effects as the stone if he stepped into the vortex. Instead of forcibly phasing through barriers by infusing himself with [Void Mountain], Zac could simply open a Void Gate and teleport dozens of miles away.
+
+Not to mention, Zac no longer needed to rely on skills like [Abyssal Drive] to sneak into hidden burrows. He didn’t even need to find cracks to squeeze through in an intangible form. Intact treasuries guarded by active formations were useless before [Earthly Dome], so long as its barriers didn’t greatly exceed Zac’s cultivation. Esmeralda would probably go crazy if she learned of it.
+
+Most important to Zac’s current circumstances, the Quantum Space inside his Duplicity Core was considered part of his new domain. He could directly open a vortex inside, effectively bypassing the Specialty Core’s seal.
+
+A preliminary experiment quickly brought Zac down from his victory high. While he could open a passage into the Quantum Space, it didn’t work like the physical opening of the Duplicity Core’s latch. He could send his mental tendrils through as long as they were imbued with the Void, and the same was true for materials. However, Zac failed to reactivate the Judgment Plateau’s arrays.
+
+Zac guessed the problem was connected to the nature of [Earthly Dome]. An intangible force like the energy of an array couldn’t be transported, only physical items worked. Zac looked at the charred spires surrounding him before shaking his head. He would have to send the whole mountain peak through a void vortex if he wanted to make use of its arrays this way.
+
+Doing so was naturally impossible, whether because of the limitations of his bloodline or fear of punishment. Even if he could, it would be of no use. The arrays relied on the Imperial Faith and energy provided by the Left Imperial Expanse to function.
+
+“All that, and I’ve circled back to explosions?” Zac lamented with a face full of reluctance.
+
+He could certainly throw in a couple of bombs, destabilize the space, and use the unleashed forces to wrap up his breakthrough. Such a rough finish to an otherwise sublime core formation would inevitably leave a mark on his core. There was also the risk of triggering unforeseen changes to the Duplicity Core, which was still in the middle of whatever it was up to.
+
+Not doing anything wasn’t an option, even if his engorged core could easily fit after the subspace’s expansion. For one, there was no guarantee the space wouldn’t return to its original size after the Specialty Core was done. Secondly, the compression wasn’t just there to make sure the core fit inside his body.
+
+The pieces still hadn’t fully fused. It was currently in a more precarious state than it had been after his mid-fight breakthrough. Pieces would start falling off the moment he activated his more demanding skills until the whole thing fell apart. Only when the core was welded into one solid piece would it work as it should.
+
+Zac grit his teeth as he stared at his Duplicity Core with annoyance. It was all this thing’s fault. The Specialty Core had acted as it pleased since the day it appeared. He still remembered how close he’d come to losing everything when it began drawing Miasma. Zac had somehow managed to deal with the curveballs it had thrown, but he’d long since grown tired of it all.
+
+For once, he would make it listen.
+
+What did he have to fear? With the Specialty Core’s operations shrouded in mystery, there was no telling which approach carried greater risks. If so, he might as well go with the route that could lead to the optimal outcome. Zac began by sealing off the Duplicity Core’s energy source. He hoped it would trigger a cancellation protocol and open the latch. If not, the seal would still be weakened since it had to draw on something.
+
+Exerting the weight of his bloodline came easily, no different than squeezing a muscle. The caveat was that Zac only managed to do so within his own body and only while infusing himself with [Void Mountain]. In other words, he wouldn’t be able to bully his opponents with the weight of a C-grade Bloodline—at least not at the moment. Thankfully, there were no enemies to deal with at the moment, only a rebellious Specialty Core.
+
+It only took a few minutes to see results. Without the cosmos to provide energy, the Duplicity Core tried taking what it needed from Zac. However, under the Void Emperor’s C-grade suppression, both the Cosmic Core and Soul Aperture had come out of reach. To add insult to injury, Zac began striking the seal from within the Quantum Space, accelerating its decline.
+
+The Duplicity Core began vibrating precariously after half a day. Zac had no idea what it was about to do, and he didn’t plan on waiting to find out. His patience had borne fruit. While the latch hadn’t opened as Zac hoped, its outlines had finally reappeared. He immediately slammed a bundle of mental tendrils at it from within while yanking from the outside.
+
+The passage was reluctantly wrenched open, moving sluggishly as if its hinges were full of rust. Everything was in place, and Zac was primed to go. He swallowed a pill while placing a talisman on his stomach. A fierce storm poured out from the pill, while a vibrant aura of Life seeped from the talisman. From the other side of the continent, a matching stream of death poured into the Quantum Space.
+
+The three core-igniting treasures, matching each of his Daos, were the best in his stockpile and saved for last. They poured into his Cosmic Core, reigniting its fading flame. Blinding light filled the Quantum Space as the Cosmic Core gained a second wind. At that point, four ancient sigils resembling the ones that diverted the tribulation lightning appeared around the core.
+
+A solid wave of Imperial Faith pushed into his core, subjecting it to tremendous pressure not much weaker than a collapsing realm. An identical arrangement had been summoned by his Draugr half, directly doubling the efficacy. Zac felt like a billion people were praying for his success, their desire so intense that reality could only oblige.
+
+His core directly shrank by fifteen percent without a hint of damage, and the array had plenty of juice remaining. A second wave soon followed the first, and then a third. The series of pulses created a mysterious cadence. The accumulation reached a crescendo on the ninth and final pulse, where a surge of Fate-empowered Faith flooded his core.
+
+The wave swept through his newly created pathways, identifying the stubborn holdouts that refused to assimilate. The pieces were made to keel, making it look like the core shrank by a third on its own. Zac exhaled with relief and finally released the hold on his Quantum space. Rootless energy began pouring in once more, and the latch sealed shut.
+
+The Duplicity Core was still up to no good, but Zac couldn’t bring himself to care at the moment. His eyes were glued to the pristine Cosmic Core floating in the emptiness of space. As usual, the road had been a bumpy one, but he’d made it through. Defying reason and convention, he’d successfully become a Peak Hegemon before turning one hundred.
+
+Doing so, he’d also proved himself a qualified contender for the Flameseeking Trial.

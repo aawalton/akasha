@@ -1,0 +1,255 @@
+---
+id: be846b1d-b1f5-5658-9e6f-0bbf6c990409
+page-type-slug: story-chapter-royal-road
+title: "Prologue"
+slug: 0001-prologue
+partOf: death-healer
+position: 1
+ownLength: 3142
+unit: words
+publishedAt: 2025-05-04
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2253605/prologue"
+royalRoadId: "2253605"
+---
+
+It was darker than it was supposed to be.
+
+It was too dark inside the pyramid even though many globes of magical light hovered around the group; it was almost as if the darkness here was resistant to their magic.
+
+Everyone kept snapping their heads left and right even though the corridor was so narrow barely two people could walk it, shoulder to shoulder. Some of them kept twisting around to look behind, convinced the darkness stirred where their eyes did not linger, or as if they heard raspy whispers in the stone.
+
+Two figures led the way. One was massive, and he had to bow as he walked. The other was smaller and moved with sharp confidence. His aura crackled around him like static.
+
+"Stay close to each other," came the voice of the smaller man at the front. "Do not break ranks when the boss appears. Do not step outside the formation."
+
+The giant at his side looked at them but said nothing.
+
+They walked in this grim procession until the corridor finally opened into a large hall. A sarcophagus rose at the center. The thing looked ancient and strangely pristine. The most disconcerting thing about it, however, was its size. It was clearly too large to contain anything human, stretching easily thirty feet in length. Black, jagged runes were etched all over it, marring the otherwise clean look of it.
+
+"Lucianus," the giant said to the leader.
+
+"On it, Marcus," Lucianus replied and raised his hands.
+
+He summoned gigantic orbs of light which started floating and stopped as soon as they got to the ceiling. The hall lit up as though the sun had forced its way underground.
+
+They moved several feet beyond the threshold, and as soon as the last member entered the room, the walls behind them sealed shut, closing off their passage. Neither Lucianus nor Marcus reacted, but the rest of the expedition began trembling, weapons and armor clattering against their shaking bodies.
+
+They took a few cautious steps beyond the threshold. The walls behind them closed the passage with a groan, making dust fall from the ceiling above and the floor tremble under their feet.
+
+Almost everyone jumped in place.
+
+Unfazed, Lucianus stepped forward and took a better look at the ceiling. He spotted what looked like giant air vents positioned near the top, which made him frown and then widen his eyes.
+
+That's—
+
+He quickly bent to his knees and touched the ground with his palm. He summoned a mandala on the ground that spanned fifteen feet in diameter.
+
+"Everyone, step on the symbol!" He commanded.
+
+Marcus immediately obeyed, but the others seemed frozen in place, dazed. Before Lucianus could say anything more, terrifying clicking sounds echoed through the hall. From the vents came the distinct rattle of bone.
+
+All eyes turned upward as a skeletal, rotten form fell from above, collapsing onto the floor—or so it appeared. Moments later, its bones began snapping together again, arching grotesquely. It rose unnaturally to its knees, its head twisted backward until it slowly rotated to face the expedition.
+
+Its red eyes locked onto them. They were glowing with malevolent intent.
+
+And then, the horrifying Undead emitted a soul-piercing shriek and started running toward them at breakneck speed.
+
+A blade of magic vaporized its head a moment later, letting the body tumble forward on the ground from the inertia. Everyone turned to Lucianus, whose hand still shimmered with residual magic.
+
+A moment later, as if that had broken some sort of spell, a veritable flood of zombies started pouring out from the vents into the room. Row after row of red-eyed monsters spewed onto the ground.
+
+Even more concerning was that a thick miasma started coming out of the vents together with flying Undead—Liches.
+
+"Step onto the—" Lucianus couldn't finish his words.
+
+They had recruited these people outside the Papacy in order to carry this secret mission out, but they were clearly not the military-instructed Adventurers they were used to.
+
+None of them had been standing upon his protective array and the miasma suddenly exploded forward. It engulfed everything, only repelled by Lucianus's Radiance Magic.
+
+The adventurers caught in the spreading miasma doubled-over. Their skin immediately turned gray, with bulging black veins soon spreading under the thinning epidermis. Their eyes' irises disappeared completely, leaving only an enlarged pupil that reddened more and more with each passing second. Then, their limbs started jerking in an uncoordinated manner as they fell on their backs, bones snapping and curving unnaturally.
+
+The jaws of the warriors went slack and their teeth elongated; gums receded and decayed as their fangs grew longer and longer while their bodies became bloated and stronger. The [Healer]'s and the casters' instead shriveled, but a toxic miasma-infused Mana suddenly empowered their bodies.
+
+They all left any semblance of humanity behind, now reduced to unintelligent predators driven only by hunger.
+
+Lucianus sighed as he saw the Adventurers rising again, not human anymore. Not alive, not dead.
+
+Undead.
+
+He summoned a mandala in front of those poor souls.
+
+The closest transformed Adventurer lunged forward, reaching for Marcus.
+
+Then, in a flash of white, an explosion enveloped all of them and they turned to dust and ash.
+
+Lucianus didn't waste any more time, turning toward the incoming horde with dispassionate calm and wove one more spell.
+
+"[Radiant Cleanse]," he murmured. Another explosion of white followed and cleared out all the miasma in the room.
+
+Marcus, his body now growing even taller, stepped forward and, covered in a thick layer of magic, swung his fist.
+
+A giant silhouette—a projection of his fist—appeared and turned all the zombies in front of him to dust in a cone.But the Undead kept running and stumbling upon each other, trampling the slower ones, ruthlessly bashing their own kin to take a bite of living flesh out of the only two survivors.
+
+Several mandalas lit up, and giant beams of Radiance Magic pulverized the zombies so fast that Marcus had the time to look over his shoulder and make a face at his friend.
+
+At that moment, the lid of the sarcophagus suddenly started shifting, making the entire room tremble and giving everyone, even the raving zombies and the flying Liches, pause.
+
+Both warriors would have had an easy time dealing with the minions around them, including the higher level ones, but the aura now filling the room made them both frown.
+
+A gigantic, skeletal hand gripped the edge of the sarcophagus, helping the rest of the body up.
+
+A twenty-foot monstrosity slowly rose from its burial chamber.
+
+Ancient armor was fused to its skeletal, fossilized frame, while a thick miasma, even thicker than the one that had turned the Adventurers into Undead, seeped from his every orifice.
+
+Lucianus, not waiting for the Boss to fully wake up, used the distraction to unleash a barrage that destroyed every Lich in the room and a large chunk of the Undead. More were pouring from the vents, but at least he had cleared a space for Marcus, the giant [Monk].
+
+The Death Knight lorded over everything. It had rust-colored stains on both his armor and bones. What terrified the two of them most were the two flames blazing in place of his eyes under its horned helmet.
+
+"Marcus, it's above Level 300!" Lucianus shouted.
+
+Neither of them was, which meant they were in big trouble.
+
+The Death Knight's first step shook the entire room, almost making it shrink. The oppressive presence of its aura had a physical touch to it that made Marcus sick—only Lucianus, who sported a Secret Skill at the Grandmaster Stage, could fully resist it.
+
+It raised an enormous, rust-eaten greatsword, the blade longer than a man and thicker than a shield. It was covered in corruption and a sickly green hue.
+
+"Marcus, if that touches you, you're done!"
+
+Lucianus’s spells blazed with the radiance of a thousand suns.
+
+The tweaking Undead evaporated in bursts of ashes.
+
+Lucianus supported Marcus, the giant [Monk], up against the even bigger twenty-footer Death Knight, the Boss of the Dungeon.
+
+Each swing of the colossal blade made the underground chamber tremble, and even Marcus’s armor cracked under the force.
+
+“Lucianus, hurry up!”
+
+“I’m almost done!” Lucianus shouted back, finally placing the last mandala together. It, along with the others, were consumed, summoning an even larger mandala upon the ceiling of the pyramid's chamber.
+
+A terrifying shockwave erupted from Lucianus, nearly consuming all his Mana at once but grounding to dust every Undead present as soon as it enveloped them, forcing even the Death Knight to its feet. The Boss tried resisting the Radiance Magic, almost able to fight Lucianus's spell back, but Marcus's giant fist aided the process and finally allowed them to defeat the terrifying threat.
+
+* * *
+
+“Are you sure we’re safe now?” Marcus breathed heavily and looked around with wide eyes. Not even the ten-foot-tall, colossal [Monk] felt comfortable after what happened.
+
+Lucianus held his friend’s bleeding chest as he channeled his family’s Great Skill to heal him. However, as he glanced at Marcus’s arm, he immediately hissed.
+
+“Marcus! The arm!”
+
+Marcus glanced at his arm and turned pale. His gaze was fixed on a spot of grey, swelling skin.
+
+“I’ll take care of it!” Lucianus said frantically, generating a blade with Radiance and severing half of his friend’s bicep, cutting deep to the bone.
+
+They couldn’t take any chance.
+
+The Undead Disease was incurable even for someone at Lucianus’s level—if you didn’t remove any infected part, it was just a matter of time before you turned into an Undead yourself.
+
+Next, Lucianus dug deep into his Mana reserves, powering his Great Skill.
+
+He wasn't a Healer, but he had inherited the Great Skill of his family, the Gens Claudia.
+
+"[Reconstruction]," Lucianus said, focusing on the wound.
+
+The moment Mana left his body, the flesh on his friend's arm started knitting itself together.
+
+Marcus watched in amazement as the muscles and skin repaired themselves, restored and healthy once more. Relief and profound gratitude flooded him.
+
+Even though Lucianus wasn’t a [Healer], his command of anatomy astonished everyone who had ever witnessed his spellwork. He knew which bones knitted fastest under Light Magic, which organs could suffer lacerations without killing someone instantly, and even knew of the dangers of internal bleeding. But such knowledge was widely frowned upon.
+
+In this world, cutting open a body—especially a human body—was considered desecration, and the idea that people and animals shared the same internal structures was branded “pig-doctor nonsense.” While most proper [Healers] simply learned to channel light into a wound until it closed, Lucianus had quietly studied corpses (and a few unlucky beasts) in secret; he had been guided by his father before, and then by the ancient texts of his predecessors before him. The Gens Claudia, the strongest dynasty of [Healers], had compiled secret books on how to approach healing through the actual study of the body.
+
+What little he had glimpsed of the body’s inner workings had given him a staggering advantage. In healing—and all magic at large—the more precisely you understood the subject at hand, the stronger your magic would be. In this case, the more you knew about the flesh, the more effectively you could guide your magic. Lucianus knew that the body beneath the skin was not filled with blood, as many believed, but that the blood would travel through tube-like structures and through the heart in a pattern
+
+He knew that to stimulate the closing of a wound and to regenerate blood, he had to stimulate the inside of bones—he didn't know why, but it helped produce strong blood and strengthen the muscles around it. That's why he had to focus on Marcus's arm bones.
+
+Picturing the minute wires that seemed to control the muscles and the tubes that provided the flesh with crimson fluid in his mind also greatly aided the magic, making it more efficient than any other [Healer] manifold. His knowledge was so insanely advanced that, paired with his Great Skill, he could rival a [Healer] at his Level even without the Class. That's how strong knowledge was—and his went deep.
+
+The [Monk] noticed the pensive stare of his friend and smirked.
+
+“If you’re about to start babbling about hearts and blood again,” Marcus grunted as Lucianus finished mending his arm, “just skip it. You know that I think most of that’s hogwash.”
+
+Lucianus nearly smirked at the comment—he’d heard it before.
+
+“You don’t have to believe it. You just have to be alive to complain about it.”
+
+“Fair enough.” The big [Monk] flexed his newly healed bicep, unable to hide his amazement. “Hogwash or not, it sure works.”
+
+Lucianus smiled wearily, exhaustion evident but overshadowed by relief. “Rest now, Marcus. We’ve escaped fate once; let's not tempt it again.”
+
+Whatever they had met inside the pyramid wasn’t something he’d ever want to encounter again. They had not known they were about to meet Undead so far from the Dead Lands.
+
+This was supposed to be an unexplored Dungeon where they’d find something to help with Lucianus’s biggest problem: the lack of an heir.
+
+“I really hope we find something that gives you a child, Lucianus, or I swear…”
+
+Breathless, Lucianus said, "We should be good." He paused. There was exhaustion in his voice since his Mana was almost completely drained.
+
+“You know what, I’d settle for some Ancient Martial Art,” Marcus said, massaging his neck.
+
+Ancient Martial Arts were nothing more than compiled volumes of physical Skills that would make one’s attacks stronger. But, since everyone relied so much on their physical Attributes and Class Skills, very few had ever developed Martial Arts worth being passed down. And that’s why they were so rare and hard to find—an enormous treasure that would change the life of even a Noble Family.
+
+Furthermore, Ancient Martial Arts would benefit both Marcus and Lucianus—as well as any children in their respective families—by offering a wider range of Classes on Class Day to those who began training early. Since Lucianus was looking to secure an heir, Marcus believed he would welcome such a treasure himself: neither of their family currently held any powerful Ancient Martial Art. With Lucianus’s family resources, his friend could nurture a child who might one day become the Champion and ultimately supplant the current woeful [Pope].
+
+But Lucianus’s drive to overthrow the [Pope] went deeper than simple political ambition. He was fueled by personal vendetta—the man had murdered his sister, a midwife who had assisted in delivering the [Pope]’s firstborn. After her disappearance, her body had never been found; yet, through unconventional means, Lucianus had confirmed that she had been killed by him.
+
+When Lucianus had confronted the [Pope], the man had neither admitted nor denied the murder. No, when Lucianus had pushed it, the [Pope] had simply said something he would never forget.
+
+“All that you cherish, Lucianus, exists by my permission; I can strip it away with a single breath. Never forget that.”
+
+Meanwhile, Marcus had imagined that fighting a few monsters would have brought them to some weird elixir that would bring a child to his friend and his friend’s wife.
+
+That’s what Lucianus’s source had told him. And while neither had known they’d have to face a Death Knight, and one stronger than those normally found in the Dead Lands, Lucianus hadn’t exactly divulged the whole truth to his friend, afraid that Marcus would otherwise pull out of the expedition.
+
+“I should have known better,” Lucianus whispered to no one in particular because he knew that this pyramid was intended to be more than just a Dungeon; it served as the final resting place for something far beyond humans.
+
+“Fascinating,” a haunting voice, echoing from unseen depths, whispered into the cold air.
+
+That was enough for Marcus to pass out on the spot and fall to the ground, crushed by that being’s Soul Pressure.
+
+Lucianus screamed. He clutched his ears. The pain was absolute, unbearable.
+
+A pressure like he had never witnessed before bore down on his soul, threatening to crush it.
+
+The most talented caster of the Church, the youngest Patriarch of the Gens Claudia, stumbled forward, blood pouring out of his every orifice.
+
+Every adventurer they had hired had just died while fighting to reach the end of the Dungeon. Apparently, he and Marcus, the only survivors of the expedition, were next.
+
+The pursuit of the forbidden had ruined them.
+
+How is this aura doing all this damage?! My [Meditation] is at the Grandmaster Stage!
+
+“How low have your people fallen,” the voice said. Its tone was mild, but it might as well have been daggers stabbing right into Lucianus’s ears. Lucianus fell on his knees, already suffering the first signs of brain damage. As his vision blurred, he noticed an inscribed symbol on the outstretched palms of the mysterious being – a circle with a cross within, entwined by two serpents. A symbol he had seen in one of the ancient tomes of the friend who had pointed them here.
+
+“First, tend to your wounds,” the being made an inviting gesture with his marked palm.
+
+Lucianus wasn’t a man known for his hesitation. Immediately, he felt the tremendous pressure that had cut off his magic removed, and his own Radiance Magic enveloped him, repairing the damage.
+
+Sneaking a glance, he cast a healing spell over Marcus. Whatever thing they had awoken didn’t complain about it, though, filling Lucianus with relief.
+
+I can’t let Marcus die.
+
+“Impressive healing for a dweller of a fallen continent and a non-[Healer]. Still, transgressions shall be punished,” the being spoke chilling words that froze the blood in his veins.
+
+Lucianus opened his mouth, but he couldn’t speak. The air was too thick, too dense to transmit any sound. He felt as if he was underwater.
+
+The being’s gaze bore through the mortal, feeling like a thousand nails had been driven through him.
+
+Lucianus’s mind raced.
+
+Is this the end? After everything, will it all end here?
+
+“I can see you consorted with the children of the pages to find my shrine. But only I remain above the Abyss, and only because of my simple yet inevitable nature. Lucianus Claudius, tell me, would you like to live?”
+
+Lucianus felt his body seize, and blood poured from his eyes, but he still nodded eagerly. But… he’d never told him his name.
+
+“Then, we shall have an exchange of old. Three lives for three gifts. Do you accept?”
+
+Lucianus hesitated, every fiber of his being screaming at him not to.
+
+But somewhere in the back of his mind, he couldn’t forget their true purpose: overthrowing the wretched [Pope], no matter the cost.
+
+Truth be told, however, any man who dared to attempt such a feat would have to be a merciless cutthroat.
+
+So, too, would his heir and future Champion.

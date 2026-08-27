@@ -1,0 +1,159 @@
+---
+id: 67e97f13-0ac6-5880-8003-36bcf1bb8025
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,410 - Emergent Pool"
+slug: 0089-chapter-1410-emergent-pool
+partOf: defiance-of-the-fall
+position: 89
+ownLength: 2816
+unit: words
+publishedAt: 2026-03-17
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3163202/chapter-1410-emergent-pool"
+royalRoadId: "3163202"
+---
+
+“You really jinxed us with your doomsday theories,” Ogras muttered as they spied on the feeding frenzy taking place in the distance.
+
+To avoid getting dragged in, Ogras and Tavza had joined hands to ensconce themselves in Abyssal shadows. Zac couldn’t help but wonder if it was only fit to serve as a temporary measure. The denizens of Emergent Pool appeared crazed enough to target anything emitting so much as a whiff of energy the moment they ran out of proper enemies to tear apart.
+
+After three days of descending plateaus and investigating gravesites, they’d found the next realmgate without issue. As Ogras said, some contained funerary items or relics, but their state was usually worse than the few trinkets he brought back from his outing. Most had lost all their spirituality despite the nourishing effect of the fertile soil.
+
+Only the strongest treasures retained some use, but their strength had degraded to the point of being worthless to Hegemons. They decided to leave them behind. Professional Restoration Artisans could possibly bring the items closer to their original glory, but the cost and time investment would surpass crafting a new Spirit Tool.
+
+On a more positive note, they’d made some useful discoveries when it came to the graveyards. For one, the graves were just like the boulders they found in Crushing Hell. The tombstones were part of massive formations that blurred the line between manmade arrays and Natural Formations. The formations were long since defunct, but someone like Tavza was able to glean all kinds of clues by tracing the patterns.
+
+The graves that represented major array flags didn’t look any different from their neighbors, and eons of erosion had blurred any other clues. Still, only the most powerful martyrs could be buried at those spots to sustain the formation. And it was usually in those spots they found treasures that still retained a semblance of utility.
+
+Knowing where a bunch of rusty scraps were buried would prove more valuable as they progressed. The plateaus of the Hollow Chasm formed a cycle where newly erected graves that still emitted Killing Intent were slowly reclaimed by nature. Fallen soldiers became nourishment for the Fertile Earth, returning their strength to the Empire instead of the Cosmos.
+
+The graves they’d encountered so far were all in the later stages of this transformation, so it was no surprise that the items they’d found were useless. They had better chances of finding Natural Treasures on such plateaus, though the soil itself seemed reluctant to part with its blessings. Things would change as they went to the lower levels, where some graves looked like they’d just been set in the ground. There would be a real chance of finding something valuable there.
+
+The next realmgate brought them to one of the Nine Gardens, whose appearance made Zac think of the twilight ocean. The realm was submerged in liquified energy, except it was made from Pure Life instead of Twilight Energy. There was no surface in this realm as far as Zac could tell, though he hadn’t gotten the opportunity to investigate. Tavza had identified it as the Ninth Garden, Emergent Pool.
+
+They’d been greeted by the familiar fluctuations of large-scale slaughter the moment they entered. After inching their way toward the source of the commotion, they found two enormous schools of fish duking it out. The area was turning into a golden syrup from the vast amounts of blood released into the waters.
+
+On one side was a school of brown, bulky fish that emitted the fleshy pressure associated with body tempering. Their scales were thick and sturdy, making them look like floating pinecones. Still, they weren’t a breed that focused on defense. The species sported nasty horns that could release piercing energy beams, and some of the leaders wielded actual intent. They also possessed explosive speed, allowing them to directly impale their foes.
+
+On the other side was a smaller school of sleek silver fish. Amazingly, they were able to detach special scales on their backs and use them like one would a sword formation. The leaders were controlling thousands of razor-sharp scales, and they could even join forces to unleash devastating combination attacks.
+
+The battle was already chaotic enough when thousands of E- and D-grade beasts were involved, but the schools appeared to have lost their minds. While they mainly targeted the opposing side, there was plenty of infighting any time a fish was slaughtered. The fish acted like starving ghosts ready to slaughter their parents to secure food. The way things were going, Zac wouldn’t be surprised if only a single fish remained at the end.
+
+“No, this should be how the Emergent Pool works,” Tavza said.
+
+“Should?” Ogras asked.
+
+“I didn’t expect to visit the Lower Planes during this trial, and the Nine Gardens were never a topic of my studies. What little I know about the lower seven is through hearsay or snippets I’ve encountered incidentally while translating old records,” Tavza said. “As for the two major gardens? I know as little as you.”
+
+“Anything you can tell us helps,” Zac said.
+
+“This plane acts as an enormous Insect Rearing Furnace. Ascension by devouring one’s enemies. You can already observe the changes.”
+
+“They’re getting bigger,” Ogras whistled. “Wait, did that boss hornfish just detach its horn? It’s using it like a flying sword!”
+
+“Devouring enough of another race will allow the victor to incorporate their enemy’s bloodline abilities. Most likely, the leaders of these schools intentionally raised descendants because only large-scale conflicts can provide them with enough biological material,” Tavza said.
+
+“Feeding their descendants to the enemy, then feasting on the enemy?” Ogras snickered. “Ruthless enough.”
+
+“It’s not just new abilities they’re gaining. Some of the weaker survivors have already advanced two minor stages. There are even a few who have directly become Beast Kings mid-battle,” Zac muttered. “How is that possible?”
+
+“The Dao of Life in the Emergent Pool has unshackled all evolutionary restrictions. Furthermore, you are not looking at conventional beasts. They are spirits who follow different rules than true living creatures. They will keep advancing so long as there is enough biological material.”
+
+“Such cheats,” Ogras muttered.
+
+“There’s a price for it,” Zac said as he observed the energy flows within the bloodthirsty creatures. “It’s like their lifeforce is set ablaze, and eating adds new kindling to the fire. They won’t last long when they’ve run out of food.”
+
+“The Emergent Pool is no cultivation haven. It’s the embodiment of hunger and desperation,” Tavza calmly said.
+
+“What’s the limit? Will they become Supremacies if they keep eating?” Zac asked.
+
+“Unlikely. Incorporating heterogeneous traits at a frantic pace will eventually lead to collapse. Should they survive, will the Realmlord accept the rise of a contender? Furthermore, the energy in this isolated section can’t support anything beyond Early C-grade. It’s curious, the ambient energy is noticeably lower than the previous realms,” Tavza muttered, briefly glancing at Zac. “STOP!”
+
+Zac froze just when he was about to bite into a piece of jerky. “What? Their hunger was starting to rub off on me.”
+
+“Resist the urge. We may not be spirits, but we’re still under the Laws of the Ninth Garden.”
+
+“We are?” Zac asked and quickly turned his sight inward.
+
+Like Tavza and Ogras, he’d prevented any ambient energy from seeping into his body since entering the realm. He hadn’t forgotten how his organs had nearly gained sapience when crossing Poised Meadows. So far, everything looked good. Neither [Purity of the Void], [Void Heart], nor [Immutability of Eoz] found any foreign energies or influences to target.
+
+At the same time, Zac could feel the pangs of hunger growing more intense, confirming something was wrong with him. Activating [Void Mountain] accomplished nothing. The Laws that governed the Ninth Garden were beyond his constitution’s ability to counteract, which meant that [Void Zone] would have a limited effect at best.
+
+“If you devour the meat of a beast or even a plant, you’ll take on some of its traits,” Tavza reiterated.
+
+Deciding to play it safe, Zac stowed away the food. “Then what should we do? We’ve been here a few minutes, and I’m already starting to feel hungry.”
+
+“Suppressing our strength and avoiding conflict should mitigate the effect. When we can’t hold it any longer, we’ll have to consume pills in a protected environment. It’s still not safe, but the purification step of pill refinement should lead to fewer mutations. We can deal with the effects after leaving,” Tavza said after some thought.
+
+The ultimate victor had been decided by the time they’d finished their discussion. It was one of the leaders of the scale-controlling silver fish. It had worn down the impenetrable defenses of its main adversary with a cyclone of scales. Each scale carried a chunk of energy-dense flesh back, hollowing out the Beast King from within.
+
+Its few surviving descendants seemed to realize that victory wasn’t necessarily a good thing. Only two of the fastest escaped in time, while the rest became desert. The sole victor stayed on the battlefield a little longer to absorb as much blood essence as it could before it dispersed in the golden water.
+
+The Peak D-grade creature’s back scales detached, and its back began humming shortly after it was done lapping up blood. It was using vibrations to find its next target, and it set out shortly after. Zac estimated that the bloody banquet had bought it a month of life at most. The spirit remained in a constant state of evolution. When it ran out of stockpiled energy, its cells would begin devouring each other for sustenance.
+
+“Let’s go before something more dangerous is attracted by the smell,” Zac said.
+
+“Remember, suppress yourselves and avoid conflict,” Tavza said, giving Zac an extra-long look.
+
+Making plans was one thing; following through was another. Because the natives were stuck in a perpetual state of starvation, where a missed meal meant death, most had developed extremely keen senses. Their combined efforts weren’t enough to fool everyone, and they ended up targeted all the time. Even the weaklings at E-grade posed a danger since they occasionally drew deadlier fare.
+
+Luckily, the manic Beast Emperors roaming the sea emitted such blinding waves of energy that they were easy to avoid. They were clearly so desperate for sustenance that they willingly broadcast their location to the other tyrants, and distant clashes between titanic spirits triggered violent storms.
+
+Zac watched helplessly as Ogras dispatched a Middle D-grade underwater slug, feeling like history was repeating itself. Despite having a Life-attuned Constitution, or perhaps because of it, he suffered the most in Emergent Pool. Despite sealing himself to the best of his abilities, he was suffering from gut-wrenching hunger pangs within hours.
+
+Tavza only fared marginally better. Different from Zac, she had to keep channeling her bloodline to resist the Life-attuned environment. In addition, her constitution wasn’t much weaker than Zac’s, which seemed to trigger a greater response from the evolutionary forces.
+
+This time, it was Ogras who helped pave the way thanks to his unusual constitution. His body was part shadows and illusions from practicing the [Spiritlock Physique], and he still didn’t feel any hunger despite being responsible for both scouting and dealing with approaching hunters.
+
+When Zac and Tavza could no longer bear it, they excavated a cave in a spot with weaker ambient energy. Tavza set up sets of isolating arrays empowered by the Abyss, which siphoned all life out of the cave. It was followed by a cocoon of shadow, and finally the nothingness of [Void Zone]. The three sat inside the nullification zone, frantically gorging on fasting pills until the hunger no longer consumed all thought.
+
+“Something is wrong,” a pallid Tavza said after a while.
+
+“I can feel a few problem spots, but they won’t be hard to fix after we leave,” Zac said after scanning his body. Some of his skeletons had gained greenish spots that emitted an herbal aura.
+
+“Not that,” Tavza said. “There are too few spirits.”
+
+“Too few?” Ogras sputtered. “I’ve more or less spent the day in a protracted battle.”
+
+“From what I understand, the Ninth Garden should have the highest number of inhabitants. They constantly procreate, and the realm itself constantly births new species. There should be life everywhere, yet we’ve seen submerged islands completely bare and whole regions bereft of beings,” Tavza said. “It’s like the realm is leaking, disrupting its natural cycle.”
+
+“This is the weakened version of Emergent Pool?” Zac grimaced, making a mental note to stay far away from the real thing. “You think it’s the Sangha plotting again?”
+
+“It’s worth investigating, though we won’t survive a prolonged stay,” Tavza nodded. “I’ve already deduced the rough location of the next realmgate.”
+
+“Let’s see what we can find. Fixing it should award us another chunk of Imperial Merit,” Zac said.
+
+It took five days of canvassing to find the culprit. Contrary to expectations, the Buddhist Sangha was innocent this time, unless they were the ones responsible for depositing an enormous coral reef into the pocket realm.
+
+Usually acting as sanctuaries for maritime wildlife, this reef was eerily silent. The fact that the ambient energy was higher than anywhere else only made the situation more ominous. The local fauna had clearly learned to stay far away, and for good reason. Zac felt his hunger return at an alarming pace.
+
+Tavza worked at a feverish pace to solve the mystery. It turned out the reef had become a deathtrap because of a microscopic algae it produced. It was able to amplify the Ninth Garden’s evolutionary compulsion. She released a sphere of Pure Death upon this realization, killing all life within a mile’s radius. Immediately, the laws returned to normal.
+
+“These things are ancient,” Ogras muttered as he inspected the colorful corals. “Are they alive?”
+
+“They are,” Zac confirmed. “And their lifeforce is extremely stable. They’ve become immune to the local laws.”
+
+“So that’s what’s happened,” Ogras nodded. “This thing keeps gobbling up all the energy to slowly grow, and its algae is preventing the beasts from getting close, let alone killing it.”
+
+“I don’t think it’s only a defensive measure,” Tavza said while inspecting a large hollow filled with a web of root-like strings. “This chute is actively filtering the water.”
+
+“Filtering it of what? The energy density is as strong on the other side,” Zac said before noticing a slight difference. “No, wait. The energy has been cleaned somehow.”
+
+“Cleaned of the blood essence that is constantly spilled across the realm. These are digestive tracts, and I’ve seen dozens just like them,” Tavza said.
+
+“So this chunk of rock is hunting millions of beasts—including Beast Emperors—without moving an inch,” Ogras exclaimed. “It’s the perfect predator.”
+
+Zac suddenly burst into action, swinging his axe at a nearby formation. He only managed to chip away a piece of coral the size of his palm. The action triggered another release of algae, forcing Tavza to perform a second round of cleansing.
+
+“Destroying the whole thing in a reasonable timeframe is impossible. We’ll have to target the problem area,” Zac said, glancing at the hundreds of tendrils inside the nearest “mouth.”
+
+“Let’s get to work. We can’t stay here for long,” Tavza said.
+
+The stringy tendons were extremely durable, taking even Zac a few swings to cut loose. Thankfully, there were only 23 funnels across the whole coral forest, and the coral didn’t have any way to actively fight back against aggressors. The huge organism kept producing algae only to have them killed by Tavza’s Abyssal Death.
+
+By destroying the filters, they took away the reef’s ability to replenish its energy. Without that, it would eventually run out of energy to produce new algae and would eventually face starvation. At least that was the idea. There was no way to stay and make sure the reef didn’t have backup plans or ways to build new filters.
+
+Zac was already so hungry that unspeakable thoughts filled his mind when looking at his companions, and the sentiment was mirrored in their eyes. Meanwhile, Zac’s body was reaching dangerous levels of mutation. Since the mutations were technically part of him and Zac was completely out of Creation Energy, he would have to cut out the problem pieces manually. If the mutations were allowed to expand into the depths of his cells and into his bone marrow, the issues could potentially become permanent.
+
+The trio scurried away the second the last tendon was ripped out. There were no earth-shattering explosions or beast tides to confirm their actions. There was only a small surge of accrued destiny in their seals as they fled toward the realmgate, leaving behind a silent death that would nourish new life.
+
+Going by the frantic pace that life moved in the Emergent Pool, the next group of Sealbearers would have to face a far more bustling scene.

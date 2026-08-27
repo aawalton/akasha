@@ -1,0 +1,127 @@
+---
+id: 97023376-c17f-511e-8c76-89dae1b00622
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 51"
+slug: 0283-b4-chapter-51
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 283
+ownLength: 1451
+unit: words
+ownProgress: 1451
+publishedAt: 2025-06-04
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2330809/b4-chapter-51"
+royalRoadId: "2330809"
+markedReadAt: "2026-06-29T19:15:25.430Z"
+---
+
+The Military Headquarters of the Verian State Republic
+
+A loud crash echoes through the military council chamber of the Verian State Republic’s main Military HQ after one of the five generals throws a glass that ends up shattering on the chair belonging to the High General of the military. But the High General just closes his eyes even as wine drips down his chair.
+
+Even as the general who threw the glass shouts, “You assured us that the Horseman of the Apocalypse would stay out of our war! You guaranteed that we wouldn’t be dealing with her, and now look at where we are!!!”
+
+All of the generals and the High General himself look at the large screen floating above the round table at the center of the chamber. A screen showing a fleet of ships, both aquatic and space-faring ones, as it approaches the frontlines of the war.
+
+But that’s not all as numerous spaceships can be seen heading directly towards three planets in particular.
+
+The capitals of the three allied forces.
+
+Veria, the capital planet of the Verian State Republic out of their four planets.
+
+Artel, the capital and sole planet of the Arelian Kingdom.
+
+And Malangiolue, the capital of the Malan Tribe out of their two planets.
+
+“Stop freaking out, it’s merely one mercenary company and a low level Horseman of the Apocalypse,” General Varsa grunts as the man crosses his arms while watching the screen. Countering any and all of the complaints made by General Delares. “We knew this was a possibility regardless of the High General’s assurances. Don’t say you didn’t.”
+
+General Delares grits his teeth and sits back down.
+
+“No one has seen the full strength of the Pale Mercenaries in a force this large before, nor has the Horseman of Death directly participated in a war for years,” General Varse states in a calm tone of voice that brings the attention of every other general in the room towards her in an instant. “I suggest we reach out to the Arcadian Society and the Valantene Military for assistance.”
+
+Silence follows her words, only for it to be broken by General Delares who narrows his eyes and says, “I refuse to believe a single mercenary company and that little girl can threaten our alliance on their own.”
+
+General Varse doesn’t say anything in response to him. Instead she just looks at the other generals and the High General as she reads their reactions.
+
+Eventually the High General finally speaks, saying, “The Arcadian Society will not aid us openly. They are not willing to put themselves in the line of fire of three different Grands just to fight with the Horseman of Death.”
+
+General Varse opens her mouth to retort, only for the High General to raise a finger and continue, “But they will most likely be happy to aid us from the shadows.” Then he looks directly at General Varse and states, “Send a request for help to the underworld of the Arcadian Society.”
+
+A chill runs down the spines of everyone in the room at the thought of contacting the dark mages of the Society.
+
+The mention of the underworld even silences General Delares, who simply leans back in his seat without saying a word.
+
+Unlike the mages of the Arcadian Society, the dark mages of the Society have no problems with anything considered taboo or illegal. No matter what it is. All in the goal of pleasing the Archmage, who merely tolerates their corrupt existence because of the benefits they bring. Even if she still cleanses out their number every now and then.
+
+The dark mages are all obsessive followers of the Archmage down to the weakest member. And even if she kills a large portion of them off every now and then to keep them in check, they still obediently do everything they can to please her.
+
+A situation that sends chills down the spines of everyone else who knows about them.
+
+But they sometimes do things to please their Archmage that the Archmage herself is unaware of and sometimes downright doesn’t want happening. Therefore the Arcadian Society gains the ability to throw any responsibility for their actions at them. Removing any responsibility from the Archmage’s head.
+
+And all of the generals and the High General know without a shred of doubt that the dark mages will jump over each other to get a chance at targeting the Horseman of Death.
+
+Because everyone knows how much the Archmage despises all of the Horsemen of the Apocalypse.
+
+Eventually the silence is broken when General Varse states, “Very well, I will send the request immediately.”
+
+After that, all of the generals focus on the screen showing the Horseman of Death herself as she stands at the bridge of a spaceship that is currently firing on the spaceships flying above the dead continent of Vortel known as Entre. The same continent where all of their fleet is currently docked.
+
+But the sight of Death Spirits swimming up from the bottom of the ocean and tearing holes in the ships hulls sends a chill down the spines of all the gathered generals. And in the process manages to convince even General Delares of the urgency of their situation.
+
+“High General, we have received a response from the dark mages,” General Varse declares, bringing the generals’ gazes towards her. She then continues after seeing the High General nod his head, “They wish to pay us so that they may participate in our war and capture the Horseman of the Apocalypse personally.”
+
+The High General furrows his brows a little, only to eventually nod his head and state, “We accept their offer.”
+
+General Varse nods her head and immediately sends his response, just to get a reply almost immediately that surprises her. So she lifts her head and says, “They’ve already sent a fleet of fifty ships over with a total of ten thousand dark mages.”
+
+“That was fast,” General Urach says with her eyes narrowed. “How soon will they arrive?”
+
+General Varse furrows her brows a bit more as she looks at General Urach and says a little awkwardly, “In a few days.”
+
+Silence fills the room once again. Because her words make it clear as day that the dark mages were already on their way to the conflict before they had even contacted them.
+
+The High General leans forwards and places his forehead on his linked hands.
+
+They were going to enter the conflict whether we wanted them to or not.
+
+This thought echoes through his head as he begins to wonder how much of this war was even his choice in the first place.
+
+I just hope we can last until they arrive.
+
+Aria
+
+Well this war has been rather anticlimactic so far.
+
+The enemies’ spaceships are using very outdated technology compared to my own. Their aquatic vessels are sinking simply because of my Death Spirits poking holes in their hulls. And their soldiers are being overwhelmed by my Death Spirits to the point that my Pale Mercenaries don’t even have to board their ships to shoot them dead.
+
+It’s practically turning into a bloodbath down there.
+
+But for some reason I get the feeling it won’t be like this for long. And I can’t figure out where this feeling is coming from.
+
+I really don’t like this feeling though.
+
+Something about it just gets on my nerves.
+
+My thoughts pause when I feel my terminal buzzing, making me look at it to find a call from the pharaoh. Which is rather surprising since he doesn’t exactly call me very often.
+
+When I answer, he immediately states, “The dark mages of the Arcadian Society are heading towards your conflict to target you. Would you like me to eliminate them for you?”
+
+I stare at the screen for several seconds before shrugging and saying, “Sure. Please do.”
+
+No idea who these ‘dark mages’ are though. But if they’re targeting me, then he can do as he pleases.
+
+“Thank you, Aria,” he says with a nod, a faint smile that would likely shock anyone else who saw it, and a brief farewell before he ends the call.
+
+I scratch the back of my head as I realize that bad feeling is gone.
+
+Huh.
+
+Well, whatever. What’s more important right now is this war.
+
+That feeling was probably nothing.
+
+And with that thought in mind, I snap my fingers, sending out a wave of miasma from the ship that goes down to the other ships below and begins to raise the dead enemy soldiers as undead. Adding them to my forces.
+
+I hope this war wraps up quickly.
+
+I absolutely can’t miss the twins’ entrance ceremony after all.

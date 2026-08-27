@@ -1,0 +1,1367 @@
+---
+id: 0a4efb90-0c32-5575-9056-1b3f06f40494
+page-type-slug: story-chapter-royal-road
+title: "160: Spelunking"
+slug: 0160-160-spelunking
+partOf: delve
+position: 160
+ownLength: 5133
+unit: words
+publishedAt: 2021-08-29
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/741736/160-spelunking"
+royalRoadId: "741736"
+---
+
+His breathing rapid but even, Rain tore down the tunnel beside Tallheart, the two of them chasing Ameliah as she led the way deeper into the Sparkscale Deep. They were moving at what was essentially a jog, though it was more like a sprint in terms of effort. The air was thick, and the drag substantial. Light was provided by a Fire Arrow, nocked to Ameliah’s bow. They only had one evertorch remaining, and it was reserved in case of an emergency.
+
+They were quite deep now. Unlike the Ashen Jungle, the Sparkscale Deep wasn’t uniform. The rank increased as you descended, the tunnels sloping ever downward and the air becoming progressively thicker. At present, they were on their way to a sheltered cave they’d found on a previous expedition. It was in that cave that Rain had constructed the anchor stations and calibrated his barometers. This time, they were planning to spend the night, and likely several nights to come.
+
+Detection pinged, and Rain shouted. “Left! Now!”
+
+Reacting immediately, Ameliah kicked off of nothing to send herself down the indicated tunnel. She’d needed to use Airwalk to redirect herself, not having time to slow down. Tallheart swerved after her, Rain keeping pace with him as he ran through his threat-identification sequence. “Three signals. One is a Hunter. Left again.”
+
+Ameliah swerved, taking the indicated tunnel. “How far?”
+
+“Close. Five meters down that tunnel on the right. The other two are Workers.”
+
+“Got it,” Ameliah said, increasing her speed and pulling ahead. “Radiance, please.”
+
+Rain didn’t reply other than to activate the requested skill, keeping the power low. Ameliah just wanted it for the light.
+
+Her arrow flared as the magic touched it, the flames easily driving back the shadows, far overpowering the subtle golden glow from Rain’s armor. Moments later, she skidded to a stop in front of the adjoining passage, drawing in a smooth motion. She loosed, and the light doubled, one flaming arrow splitting into twenty.
+
+Rain squinted against the glare. He couldn’t see her target from where he was standing, but he could easily imagine the spinning projectiles tracing lines of fire as they fanned out before converging smoothly to spear the unfortunate monster. The effect of the combo was quite striking.
+
+A detonation rocked the tunnel. The system chimed, and moments later, a wave of hot, heavy air slammed into Rain’s chest.
+
+Your party has defeated [Sparkscale Hunter Drone], Level 24
+
+Your Contribution: 9%
+
+Rain squinted again reflexively as Ameliah took her next shot, but she didn’t use Fire Arrow this time, just a regular Seeking, Drilling Multishot. She didn’t wait for it to land before firing a third and ending the battle, if you could call it that.
+
+Your party has defeated [Sparkscale Worker Drone], Level 21
+
+Your Contribution: 9%
+
+Your party has defeated [Sparkscale Worker Drone], Level 21
+
+Your Contribution: 9%
+
+Rain dropped Radiance. The tunnel dimmed as he switched to Detection, scanning for more threats. “Clear,” he said after a moment, switching to his loot-scanning sequence as he moved to follow Ameliah, who was already walking toward the carnage. Thermal Regulation would take care of the heat, and the flames were already dying. His loot sequence finished, and Rain clicked his tongue. “No good scales. A few Tel in the Workers, but that’s it.”
+
+“Mmm,” Tallheart rumbled. “More freshspawn. Disappointing.”
+
+Rain sighed, pointing. “This tunnel goes the right way. Follow it for about forty meters, then go straight at the fork.” He activated Radiance again, needing it as the last of the flames flickered and died.
+
+Ameliah nodded wordlessly, then used Airwalk to catapult herself over the Hunter’s smoldering corpse. Rain and Tallheart followed, careful of their footing as they threaded their way past the punctured Workers, lying there like slowly deflating weather balloons.  Crimson blood was leaking from the holes Ameliah’s arrows had punched through their thin scales, mixing with the silvery, mercury-laden ichor of the Hunter.
+
+Rain snorted, considering one of the Hunter’s scales that lay in his path. He stepped on it, and it shattered beneath his boot. Dozens of the things were scattered across the ground, blasted free from the corpse, along with chunks of flesh and other innards. Nothing here had enough deepened metal in it to be worth harvesting. The scales still had plenty of silver, of course, but with how much of the metal they’d already gathered, it wasn’t even worth picking them up. They were less than trash, not even worthy of Purify.
+
+Ahead, Rain heard Ameliah chanting. Clearing the Hunter’s corpse, he dropped Radiance as she finished, another Fire Arrow blazing to light in her hand.
+
+“Hurry up,” she said, glancing back briefly, then taking off at a jog once more. “We’re behind schedule.”
+
+“This place is too damn big,” Rain said, following.
+
+“Mmm,” Tallheart said, matching his pace easily. “Do not complain. At least you have something to do in combat. I am merely here.”
+
+“Hold up,” Rain said, raising a hand. “There’s something in there. Several somethings.”
+
+Ameliah slowed, then stopped, facing forward warily. They were in a familiar section of tunnel, almost at the cave that was their goal. It was just beyond a crack in the tunnel wall ahead, too narrow for the larger varieties of Sparkscales. It was an excellent place to hole up for sure, and it appeared that something else had come to the same conclusion.
+
+“What are they?” Ameliah asked, not taking her eyes off the tunnel ahead.
+
+“I don’t know,” Rain said, his identification sequence having just finished. “Whatever they are, there are about twenty of them.”
+
+“Hmm,” Tallheart said, crossing his arms.
+
+“There are some corpses in there too,” Rain said, still scanning. “Scavenger Drone corpses. Just a few. Looks like whatever’s in there can hold its own.”
+
+“Okay, stay with me, but not too close,” Ameliah said, creeping forward with her bow at the ready. Reaching the crack, she had to turn sideways to negotiate her way through. Tallheart followed, then Rain, clenching his fists nervously. She wouldn’t have a lot of room to draw her bow in there. The monsters were out in the cave, not clustered at the entrance, but if they had ranged attacks, she might take a hit or two before she could retaliate.
+
+“Woah,” Ameliah said, “What the hells?”
+
+“What do you see?” Rain asked, squeezing through the crack after Tallheart and trying to see past him. The cervidian was having a hard time of things, thanks to his antlers.
+
+“Flying slimes,” Ameliah replied. Her bowstring thrummed, and there was a flash of light.
+
+Your party has defeated [Stunner Jelly], Level 17
+
+Your Contribution: 5%
+
+Rain breathed out a sigh of relief upon seeing the listed level. A quick burst of Detection revealed that the others were all the same type, and he relaxed further. Finally, Tallheart got himself unstuck with a little help from his hammer. Rain squeezed out of the passage after him, then gasped, seeing the monsters with his eyes instead of his magic.
+
+Stunner Jellies were enormous jellyfish, floating through the air like it was water. Their gelatinous bells glowed a vibrant, fluorescent purple, as did their long, reaching tentacles. Those were already beginning to fuzz with bizarrely-silent lightning as the creatures approached.
+
+Ameliah’s bow twanged, and the nearest Jelly exploded, bringing noise to the cavern as Ameliah’s Fire Arrow splattered luminous fluid across the walls and the ceiling. The flames died almost instantly. Whatever the monsters were made of, it was apparently non-flammable.
+
+“Let’s try this,” Ameliah said, loosing another shot. Her arrow split, the twenty flaming projectiles spreading in a fan rather than converging on a single target. They struck hard, hammering into the wave of oncoming jellies, shredding health but not killing outright. Instead, the bolts pierced, continuing on to spear into the second rank.
+
+Ameliah fired again, barely bothering to aim. Many of the projectiles missed, veering off course thanks to the disruption of Fire Arrow, but it hardly mattered. She simply kept up the barrage until the last ding had sounded in Rain’s mind and the floor was covered by a gelatinous mess of shredded, still-glowing jelly flesh. More of it painted the walls, like someone had tried to create the world’s largest Jackson Pollock painting using the contents of a rave’s worth of glow sticks.
+
+Tallheart rumbled. “A shame. They were quite beautiful.”
+
+“Yeah,” Ameliah said, lowering her bow. “I feel kinda bad. I think I’m turning into Rain.” She snorted, pointing. “They were dangerous, though. Look. They were tough enough to take out a whole pack of Scavengers.”
+
+Rain looked, sweeping his gaze over the dozens of bodies scattered around the cavern floor, buried beneath a healthy coating of glowing slime. He grimaced. “Ew.” Many of the Scavengers looked to have been partially digested, their scales missing, leaving them as nothing more than melted hunks of flesh, too far-gone for Detection to identify as corpses.
+
+There was a sudden clang, and Rain glanced at Tallheart, seeing that he’d set down his metal carriers and was working to remove his mobile forge. He looked back at Ameliah as she gestured vaguely at the mess.
+
+“These...slimes...probably slimes. Jellies. Whatever. They were able to hold out here. Makes me feel better about this cave. If a Hunter had gotten in, it would’ve fried all of them to a crisp.”
+
+Rain nodded in agreement. This was the first evidence they’d seen of their mining operation upsetting the status quo. The Sparkscales were dominant in this biome, having killed or displaced Hababas, Stunner Jellies, and whatever else naturally spawned here. Their population had clearly snowballed until it filled up all of the available essence capacity.
+
+According to Tallheart, such uniformity wasn’t uncommon in biomes that hadn’t seen awakened in a while. Unlike predators in a natural ecosystem, monsters wouldn’t starve if they hunted their prey to extinction. Usually, there would be mitigating factors that kept things a little more balanced, such as the narrow entrance to this cave. It had been enough for the Jellies in the short term, but long-term, the Sparkscales would likely regain control.
+
+“Did we bring those empty potion bottles?” Ameliah asked, shaking Rain out of his contemplation. He looked up to see her crouched near one of the larger globs of glowing ooze.
+
+“Good idea,” he said, guessing her intent. Any source of light was valuable down here. He slipped off the heavy water canteens, then shrugged out of Ameliah’s pack, setting it down much more gently. While he rooted around for the potion bottles, he used Detection to sweep for loot, finding plenty of Tel and Arcane Crysts scattered through the mess, but no GranTel or GranCrysts. He tossed the bottles to Ameliah once he located them, but was subsequently distracted as he spotted Tallheart wading into the carnage.
+
+The cervidian’s boots made horrible squelching noises as he plowed through glowing ooze and half-digested meat alike. He stopped near a corpse that still had most of its scales, then turned and kicked it like a football. The unsettling projectile flew a short distance before landing on bare stone with a wet clatter. It rolled for a short ways, leaving a glowing trail of purple ick before coming to a stop beside Tallheart’s stuff.
+
+“Damn it,” Ameliah said, and Rain shifted his gaze back to her. Her gauntlets were covered in luminescent ooze up to the elbow. She stood, then whipped an arm through the air in an attempt to dislodge it, but this only served to spread the mess further. She turned to look at him. “This stuff’s worthless. It’s too gloopy to get into the bottle, and it’s already losing its light. Go ahead with Purify, Rain.”
+
+“Yeah,” Rain said, seeing that it was true. The glow was already fading. He activated Purify, not worried about the magic dissolving anything of value. The spell barely worked on Scavenger Drones in the first place, thanks to their scales.
+
+As the rapidly-dimming ooze evaporated, Rain knelt once more to rummage in Ameliah’s pack. He emerged with two items, a flask and a lamp. The flask was made of Heat Copper and bore the same rune sequence as the Pan of Frying. Rain pushed a trickle of mana into it, then waited for the Fatbird tallow inside to melt. It only took a few seconds, and once it was liquid, he filled the lamp carefully, then inserted a wick. Recapping the flask and tucking it back into the pack, he extracted a spark lighter, then lit the lamp with a couple clicks.
+
+During the day, spawns were relatively unlikely, even in complete darkness. The lamp, feeble as its flame was, would make them less likely still. At night, it would be nowhere near enough for a cavern of this size, but in conjunction with a Fire Arrow, it would do for now. Ameliah had summoned one of those while Rain had been occupied, tossing it to the floor and leaving it to burn. Assuming it was a real arrow and not one made with Endless Quiver, it would stay lit as long as she remained focused. Unfortunately, it would go out instantly if she were to try and light another one.
+
+“You were right,” she said, seeing Rain looking at her. “We should have brought more torches.”
+
+Rain nodded, smiling behind his helmet. I told you so. He knew better than to say it.
+
+“Torches are a luxury,” Tallheart said, still gathering Sparkscale corpses. “These scales should contain enough metal for chains. I am already working on the problem.”
+
+“Great,” Ameliah said, walking toward him. “Here, let me help you with that. Get the smelter going. I’ll get the rest of the bodies. Rain, you want to get started on the alcove?”
+
+“Work, work,” Rain said in his best orc voice, his impression enhanced by the heavy air. He smiled to himself, shifting his stats balance toward Strength and reaching for the mattock hanging from his belt.
+
+I’m gonna break this thing. Deepstone’s no joke.
+
+Sparkscale Scavenger Drone
+
+Class: Sparkscale
+
+Level: 16
+
+Aspect: Arcane (Lightning)
+
+Bounty
+
+0-29 Tel
+
+0-2 Arcane Crysts
+
+~4kg Iron
+
+~1kg Mercury
+
+~75g Silver
+
+Health: ~6,500
+
+Natural Armor
+
+Hardness: ~500
+
+Saturation: ~1,000
+
+Resistances
+
+Light: 0
+
+Heat, Cold: ~100
+
+Dark: ~200
+
+Arcane: Lots
+
+Attacks
+
+Teeth
+
+Damage unknown
+
+Unable to damage hardness-enchanted adamant
+
+Electric Pulse
+
+~2,000 Arcane damage, ~1m range, 3s cooldown
+
+Description
+
+Scavengers look like piranhas the size of chickens. Like all Sparkscales, they can swim through air like it’s water. They come in packs and seem to operate on a similar behavioral model to Kin. They swarm their prey, latching on with their teeth while timing their electric pulses with each other to combine the damage.
+
+Scavengers have been seen carrying fallen Sparkscale scales and other objects in their mouths, possibly to bring back to their hive.
+
+Sparkscale Hunter Drone
+
+Class: Sparkscale
+
+Level: 24
+
+Aspect: Arcane (Lightning)
+
+Bounty
+
+0-3 GranTel
+
+0-1 Arcane GranCrysts
+
+0-2 kg Valis
+
+0-250g Atantum
+
+0-50g Adamant
+
+0-30g Rykir
+
+~200kg Iron
+
+~40kg Mercury
+
+~20kg Lead
+
+~10kg Silver
+
+~30g Gold
+
+Health: ~175,000
+
+Natural Armor
+
+Hardness: ~10,000
+
+Saturation: ~100,000
+
+Resistances
+
+Light: 0
+
+Heat, Cold: ~2,500
+
+Dark: ~5,000
+
+Arcane: Probably Lots
+
+Attacks
+
+Passive Fulmination
+
+? Arcane damage/s, ~2m range, always on
+
+Lightning Bolt
+
+~20,000-40,000 Arcane, 10m range, 5s cooldown
+
+Description
+
+Hunter Drones are murderous, horse-sized, spiky, floating, electric catfish. A constant aura of lightning emanates from a pair of long whiskers near their mouths, and they can use them to launch more powerful lightning bolts on a short cooldown. Hunters are typically encountered alone or escorting a small group of Worker Drones.
+
+Hunter scales can contain deepened metals, though the concentration varies wildly. They also contain a significant quantity of mundane silver and a lesser quantity of gold. Speculation: Hunters accumulate additional deepened metal in their scales over time. The older the monster, the greater the reward.
+
+Sparkscale Worker Drone
+
+Class: Sparkscale
+
+Level: 21
+
+Aspect: Arcane (Gravity?)
+
+Bounty
+
+0-5 Tel
+
+0-1 Arcane Crysts
+
+~8kg Iron
+
+~1l Water
+
+~1kg Lead
+
+~500g Nickel
+
+~100g Zinc
+
+Other trace metals
+
+Health: ~80,000
+
+Natural Armor
+
+Hardness: ~1,000
+
+Saturation: Negligible
+
+Resistances
+
+Light: 0
+
+Heat, Cold: ~500
+
+Dark: ~1,000
+
+Arcane: Probably Lots
+
+Attacks
+
+Levitation
+
+Combat applications unknown
+
+Description
+
+Sparkscale Worker Drones are enormous, zeppelin-looking fish with tiny mouths. Their scales are finer than those of their smaller brethren, and while they contain traces of iron, they do not provide significant protection against magic. Worker Drones have been seen levitating rocks, but the combat applications of this ability have yet to be observed. Unless accompanied by a Hunter Drone, Worker Drones attempt to flee. They are deceptively fast given their size and shape. For their level, they present little threat.
+
+Unlike Hunters and Scavengers, Worker Drone blood is red and contains water. Their flesh is spongy and distinctly unpalatable, with a strong metallic taste. Eating it is inadvisable, particularly for anyone susceptible to heavy metal poisoning.
+
+Stunner Jelly
+
+Class: Slime?
+
+Level: 17
+
+Aspect: Arcane?
+
+Bounty: ?
+
+Health: < 50,000
+
+Resistances: ?
+
+Attacks
+
+Shocking Tentacles
+
+Effect/damage unknown
+
+Capable of harming Sparkscale Scavenger Drones
+
+Description
+
+Glowing person-sized jellyfish. Can float in air and move without any apparent method of propulsion, not even that pulsing thing jellyfish do. Purple and translucent.
+
+Come in packs?
+
+When killed, their jelly gradually loses its glow
+
+Possible chemical/alchemical uses?
+
+Study is a low priority
+
+Should I have tasted it?
+
+Waving away the updated monster dossiers, Rain summoned a terminal, then committed the changes to his mental repository. His revision control system was still a bit of a work in progress, but he’d needed to do something. He had simply too many files now, and the list was only growing. The documents had started as a way for him to order his thoughts, but they themselves were starting to become a hassle to manage. Of course, he was perfectly capable of remembering each one down to the exact sequence of key-presses required to create it, but that was a problem in itself.
+
+That level of detail simply wasn’t something a human mind could hope to comprehend. Not all at once. Even now, Rain could feel the growing weight of his accumulated knowledge lurking in his subconscious, pressing on his thoughts as a constant distraction. Even without Winter running, he still found himself getting lost in the noise from time to time. Only after being without the spell for weeks had he realized just how bad his mental state had gotten. Fortunately, the changes he’d been making to his interface were helping, locking that knowledge away behind layers of structure. At least, he hoped.
+
+I’m not going insane. I’m not. There have been other Dynamos, and I haven’t heard of any of them going bonkers, so…
+
+He sighed.
+
+I have to stop dwelling on this. I’m doing the best I can, and the files are helping. I just need to keep my mind tidy. On that note, what’s next on the todo list?
+
+…
+
+Sort the todo list, maybe? Yeah, that’s probably a good place to start.
+
+Before Rain could open the document, a breath of wind washed over him. Ameliah had pulled open the door to the alcove, entering with a Fire Arrow held in one hand. Rain squinted at the sudden light, watching her through the metal chains dangling from the ceiling. Spaced in a quarter-meter grid, the chains were Tallheart’s solution to monster spawns. If there wasn’t enough free space, it didn’t matter whether it was light or dark.
+
+Ameliah stooped and made her way inside, parting the chains before her and making them clink softly. “What are you two still doing in here?” she asked, raising her visor. “It’s almost time. And why did you put out the lamp?”
+
+Rain shrugged. “I was working on my interface, and I don’t need light for that. I figured I might as well save oil. Tallheart’s asleep.”
+
+“I am not,” Tallheart said from somewhere behind him. “I am meditating. It is not going well.”
+
+“I told you, you need to stop trying to force it,” Rain said, craning his neck around to look over his shoulder. “You have to let go.”
+
+“Hmph,” Tallheart snorted without opening his eyes. He paused, tilting his head, his antlers disturbing the chains with the motion. “Your method did not work for me. I am having more success with mine.”
+
+“Sure you are,” Ameliah said, her voice dripping with skepticism.
+
+Rain smiled. She and Tallheart had started something of a competition. It struck him as a bit counterproductive, but listening to them heckling each other about their lack of progress was nothing if not amusing.
+
+There shouldn’t be anything stopping them except themselves. I mean, hells, I’ve got the attention span of a hyper-caffeinated gerbil. It should be easy for them by comparison. Tallheart has a point, though. The method might not be the same for everyone.
+
+“By the way, Rain, I ranked Equipment Mastery again,” Ameliah said, bringing Rain’s gerbil brain back on track. “It’s at thirteen now. Damn skill takes ages to level. It’s even slower than Smell Bound Item was.” She snorted. “Good riddance. Such a useless skill.”
+
+“I know, right?” Rain smiled, summoning a spreadsheet. “Let me just update this real quick. What about Stacked Shot? Still at six?”
+
+“Seven,” Ameliah said. “Not that it matters.”
+
+Rain nodded, entering both skill levels. He scrolled down to the bottom of the spreadsheet, watching the numbers change as the formulas were reevaluated. It was his mind doing the math; his scripts just co-opted the system’s low-level functions to push the effort to his subconscious.
+
+He said casually, as if it was nothing.
+
+Chuckling, Rain watched patiently as the changes slowly rippled their way down the sheet.
+
+Man, this is really starting to chug. I need to do some more optimization work. That, or make myself multicore somehow.…
+
+Wait…
+
+Multicore? Yes! Multicore! High-rank lairs are supposed to have subcores sometimes, aren’t they?! If lairs are like souls, I could—
+
+No! Bad Rain! No getting distracted. Todo: multicore.
+
+Now, where was I?
+
+Rain refocused on the spreadsheet, the calculations finally finished.
+
+ameliah_heavy_archer.ods
+
+B
+
+U
+
+I
+
+Text Color
+
+Cell Color
+
+A
+
+B
+
+C
+
+D
+
+E
+
+1
+
+Rings
+
+Boost
+
+Modified Boost
+
+2
+
+Empowered Rings
+
+[x3]
+
+3.36
+
+10
+
+3
+
+Equipment Mastery
+
+[x3]
+
+3.36
+
+10
+
++Stat Total
+
+(soulstrain)
+
+4
+
++20 All Stats
+
+[x4]
+
+80
+
+240
+
+1,440
+
+5
+
+6
+
+Base Stats
+
+Item
+
+Accolade
+
+Jack
+
+The Ameliah Number
+
+7
+
+63
+
+240
+
+10
+
+2.6
+
+813.8
+
+8
+
+9
+
+Vital Pools
+
+Regen
+
+(/hr)
+
+10
+
+16,276
+
+339.08
+
+11
+
+12
+
+Skill
+
+Ranks
+
+Formula
+
+Value
+
+Meaning
+
+13
+
+Thickened Plate
+
+10
+
+[1+RNK/10]
+
+2
+
+Durability Multiplier
+
+14
+
+Hardened Plate
+
+10
+
+[1+RNK/10]
+
+2
+
+Hardness Multiplier
+
+15
+
+Heavy Resistance Enhancement
+
+6
+
+[1+RNK/10]
+
+1.6
+
+Resistance Multiplier
+
+16
+
+Deep Plate
+
+6
+
+[1+RNK/10]
+
+1.6
+
+Max Saturation Multiplier
+
+17
+
+Skill
+
+Ranks
+
+Formula
+
+Value
+
+Meaning
+
+18
+
+Fire Arrow
+
+10
+
+[(5 to 10)*RNK*(1+FCS/200)]
+
+380.18
+
+Avg Heat Dmg
+
+19
+
+Arrow Affinity
+
+10
+
+[1+RNK/10]
+
+2
+
+Elemental Dmg Multiplier
+
+20
+
+Prismatic Arrow
+
+4
+
+[1+(RNK/10)*(1+FCS/100)]
+
+4.66
+
+Elemental Dmg Multiplier
+
+21
+
+Skill
+
+Ranks
+
+Formula
+
+Value
+
+Meaning
+
+22
+
+Deep Durability
+
+10
+
+[1+RNK/10]
+
+2
+
+Durability Multiplier
+
+23
+
+Deep Hardness
+
+10
+
+[1+RNK/10]
+
+2
+
+Hardness Multiplier
+
+24
+
+Empowered Mainhand
+
+10
+
+[1+RNK/10]
+
+2
+
+Enchantment Multiplier
+
+25
+
+Empowered Offhand
+
+10
+
+[1+RNK/10]
+
+2
+
+Enchantment Multiplier
+
+26
+
+Empowered Amulet
+
+10
+
+[1+RNK/10]
+
+2
+
+Enchantment Multiplier
+
+27
+
+Empowered Armor
+
+10
+
+[1+RNK/10]
+
+2
+
+Enchantment Multiplier
+
+28
+
+Empowered Rings
+
+20
+
+[1+RNK/10]
+
+3
+
+Enchantment Multiplier
+
+29
+
+Equipment Mastery
+
+13
+
+[RNK*5%]
+
+65%
+
+Item Strain Reduction
+
+30
+
+Skill
+
+Ranks
+
+Formula
+
+Value
+
+Meaning
+
+31
+
+Drilling Shot
+
+10
+
+[1+(RNK/10)*(1+STR/200)]
+
+6.07
+
+Physical Dmg Multiplier
+
+32
+
+Seeker Shot
+
+10
+
+[(RNK*90)(1+FCS/200)]
+
+4562
+
+Turn Rate (deg/s)
+
+33
+
+Sharpened Arrowheads
+
+10
+
+[1+RNK/10]
+
+2
+
+Arrow Dmg Multiplier
+
+34
+
+Strong Draw
+
+10
+
+[1+RNK/10]
+
+2
+
+Draw Weight Multiplier
+
+35
+
+Piercing Shot
+
+10
+
+[RNK*5%]
+
+50%
+
+Hardness Ignore
+
+36
+
+Endless Quiver
+
+10
+
+[RNK]
+
+10
+
+Copy Duration (minutes)
+
+37
+
+Sniper Shot
+
+10
+
+[1+(RNK/3.33)*(1+STR/100)]
+
+28.41
+
+Physical Dmg Multiplier
+
+38
+
+Bleeder Shot
+
+10
+
+[RNK]
+
+10
+
+Bleed Duration (minutes)
+
+39
+
+Multishot
+
+10
+
+[RNK*2]
+
+20
+
+# Arrows (10% dmg each)
+
+40
+
+Stacked Shot
+
+7
+
+[1+RNK]
+
+8
+
+# Skills
+
+41
+
+Skill
+
+Ranks
+
+Formula
+
+Value
+
+Meaning
+
+42
+
+Healing Word
+
+10
+
+[(10 to 20)*RNK*(1+FCS/200)]
+
+760
+
+Avg Healing
+
+43
+
+Airwalk
+
+10
+
+*
+
+*
+
+Complicated
+
+44
+
+Fire Affinity
+
+10
+
+[1+RNK/10]
+
+2
+
+Fire Keyword Multiplier
+
+45
+
+Heat Mastery
+
+10
+
+[1+RNK/10]
+
+2
+
+Heat Keyword Multiplier
+
+46
+
+Chanting
+
+10
+
+[1+RNK/5]
+
+3
+
+Spell Multiplier
+
+47
+
+Channel Mastery
+
+10
+
+[1+RNK/10]
+
+2
+
+Max Spell Multiplier
+
+48
+
+Energy Well
+
+10
+
+*
+
+*
+
+Complicated
+
+49
+
+Recharge Bound Item (Alternate)
+
+10
+
+[10*RNK*(1+CLR/100)]
+
+913.8
+
+Charge Rate (mp/s)
+
+50
+
+51
+
+Base Damage
+
+Physical
+
+Magical
+
+Combined
+
+Item Strain
+
+52
+
+Unmodified Draw Weight (kg)
+
+285
+
+285
+
+53
+
+Draw Distance (m)
+
+0.63
+
+0.63
+
+54
+
+Bow Efficiency
+
+0.79
+
+55
+
+Conversion Factor (dmg/J)
+
+2.21
+
+56
+
+Base Shot Damage (approx)
+
+1,537
+
+1,537
+
+100
+
+57
+
+With Sharpened Arrowheads
+
+3,074
+
+3,074
+
+200
+
+58
+
+With Strong Draw
+
+6,149
+
+6,149
+
+400
+
+59
+
+60
+
+Fire Damage
+
+Physical
+
+Magical
+
+Combined
+
+Item Strain
+
+61
+
+Firebolt Arrow Enchantment
+
+400
+
+400
+
+26
+
+62
+
+With Fire Arrow
+
+780
+
+780
+
+51
+
+63
+
+With Heat Mastery
+
+1,560
+
+1,560
+
+101
+
+64
+
+With Fire Affinity
+
+3,121
+
+3,121
+
+203
+
+65
+
+With Empowered Mainhand
+
+6,241
+
+6,241
+
+406
+
+66
+
+With Arrow Affinity
+
+12,483
+
+12,483
+
+811
+
+67
+
+With Prismatic Arrow
+
+58,110
+
+58,110
+
+3,777
+
+68
+
+69
+
+Shot Damage
+
+Physical
+
+Magical
+
+Combined
+
+Item Strain
+
+70
+
+Drilling Shot
+
+37,315
+
+58,110
+
+95,425
+
+6,203
+
+71
+
+Sniper Shot
+
+174,706
+
+58,110
+
+232,816
+
+15,133
+
+72
+
+Multishot
+
+12,297
+
+116,220
+
+128,517
+
+8,354
+
+73
+
+74
+
+Stacked Combos
+
+Physical
+
+Magical
+
+Combined
+
+Item Strain
+
+75
+
+DS
+
+1,060,290
+
+58,110
+
+1,118,400
+
+72,696
+
+76
+
+DM
+
+74,631
+
+116,220
+
+190,851
+
+12,405
+
+77
+
+SM
+
+349,412
+
+116,220
+
+465,632
+
+30,266
+
+78
+
+DSM
+
+2,120,580
+
+116,220
+
+2,236,800
+
+145,392
+
+79
+
+80
+
+With Chanting
+
+Physical
+
+Magical
+
+Combined
+
+Item Strain
+
+81
+
+M
+
+12,297
+
+348,660
+
+360,957
+
+23,462
+
+82
+
+DM
+
+74,631
+
+348,660
+
+423,290
+
+27,514
+
+83
+
+DSM
+
+2,120,580
+
+348,660
+
+2,469,240
+
+160,501
+
+Shaking his head, Rain saved, committed, then dismissed everything but his HUD before looking back up at Ameliah. “The strain for a full shot is still way too high, but I don’t think you needed me to tell you that. Your damage is just too insane.”
+
+“I know,” Ameliah said with a smile, offering him her hand. “I’m kinda terrifying. Now come on, we should all be out there for nightfall. That means you too, Tallheart.”
+
+Tallheart grunted, and Rain heard a chain rattle behind him as the cervidian moved. Rain accepted Ameliah’s hand, allowing her to pull him to his feet, and the three of them left the alcove, moving out into the sheltered cave. Rain took the Fatbird lamp with him, relighting it, for all the good it would do.
+
+As many times as they’d visited the Sparkscale Deep, they’d never been this far down after dusk, so they were unsure how vigorous the assault would be. In the shallower tunnels, every time they’d come down at night, they had faced heavy resistance. It was debatable whether that had been Rain’s soul acting as a lure, or just the natural aggression of the Sparkscales in patrolling their territory. Regardless, this cave was rank 24, the equilibrium point. In theory, that meant no metaphorical blood cloud leaking from Rain’s metaphysical wound, nothing to attract the sharks.
+
+Rain still felt nervous as he glanced at Tallheart. The smith looked utterly unconcerned. Of course, the antlered smith wouldn’t have flinched if a dozen DKE Citizens had been bearing down on him. That made him a bad example. Ameliah had closed her visor after leaving the alcove, so he couldn’t read her expression, but she was a bad example too. She’d lived in a place like this for nine years.
+
+Sighing, Rain kept his mouth closed and his concerns to himself, setting his lamp down where it would be out of the way. Yes, there was no guarantee that the larger Sparkscales couldn’t break through the deepstone if sufficiently motivated. Yes, there was nothing to stop Scavenger Drones from swarming in through the crack to bury them. Yes, they wouldn’t be able to flee if something went wrong.
+
+The risks were there; there was no denying it. Ameliah was right, though. She was terrifying.
+
+Or rather, her power was, especially if you were a monster. She was level 31, with an optimized combat build, and thanks to Tallheart’s general ridiculousness, her equipment was closer to gold. On her own, she was stronger than an average team of silverplates. Even if the rank-24 biome threw everything it had at them, she’d still win. She was more than strong enough. Beyond that, it wasn’t like Rain and Tallheart were helpless. For his part, Rain still had plenty of essence left. His hoarding had paid off, and with the higher pressure in this cave, his core was running much more efficiently.
+
+Realizing that his hands were trembling, Rain clenched his fists.
+
+We’ve got this. We don’t have time to be pussyfooting around.
+
+Rain’s eyes latched onto the time.
+
+07:59:43 PM
+
+Silently, he watched the seconds count up.
+
+Here we go.
+
+Unlike in the Ashen Jungle, there was no visible change to herald the coming of true dusk. The seconds displayed on Rain’s HUD simply rolled over, then kept counting.
+
+One minute passed, with not even a blip from Detection.
+
+Two minutes.
+
+Three.
+
+“Okay then,” Ameliah said.
+
+Rain was proud of himself for not letting his panicked shriek escape his mouth. He took a second to recover, raising a hand to his chest before rounding on her. “Don’t do that!”
+
+“Nervous?” Ameliah asked, amused. She looked back at the crack, then yelled, making full use of her awakened lungs. “Hey! Fish, fish, fish! Come and get us!”
+
+“Ameliah!” Rain gasped, his ears ringing as he gaped at her in horror.
+
+“Oh, relax,” she said, glancing at him. “This was always the plan. If we can thin them out tonight, the hive won’t be as defended tomorrow. Assuming we can find it.”
+
+“Yes, but…” Rain gestured, half-expecting to be interrupted by a monstrous roar.
+
+Instead, all he heard was a low, rumbling chuckle.
+
+“I am going to sleep,” Tallheart said, turning away and heading back for the alcove. “Wake me if—“
+
+He was interrupted by the thrum of Ameliah’s bow, then an explosion.
+
+Your party has defeated [Sparkscale Scavenger Drone], Level 16
+
+Your Contribution: 3%
+
+Light flared beside Rain as Ameliah drew a fresh arrow. The burning corpse of the Drone lay in the narrow passage, having entered silently while Rain had been looking away.
+
+Two seconds too late, Detection fired, and dozens of signals appeared in Rain’s mind. “More coming,” he said, his tension replaced by resolve as adrenaline flooded his system. “Full pack of Scavengers.” There was no place for fear once the fighting started. Fear kept you alive, but it could just as easily get you killed.
+
+Ameliah fired again, and another detonation rocked the cavern.
+
+Your party has defeated [Sparkscale Scavenger Drone]x3, Level 16
+
+Your Contribution: 4%
+
+“Three for one!” she shouted in satisfaction. “They’re all grouping up in there. This is going to be ea—“
+
+“Don’t you DARE say it!” Rain shouted, stopping her before she could doom them all.

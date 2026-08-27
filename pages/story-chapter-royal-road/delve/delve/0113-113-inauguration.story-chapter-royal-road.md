@@ -1,0 +1,895 @@
+---
+id: 300cb1fc-7736-58da-9735-be0974379593
+page-type-slug: story-chapter-royal-road
+title: "113: Inauguration"
+slug: 0113-113-inauguration
+partOf: delve
+position: 113
+ownLength: 8939
+unit: words
+publishedAt: 2020-09-20
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/557320/113-inauguration"
+royalRoadId: "557320"
+---
+
+Rain and Tallheart sat in the two seats of the forgewagon inside an open-roofed garage that screened them from view. Rain wasn’t that concerned about people seeing the vehicle, not after he’d realized what Mlem’s cart could do, but a private space for working on it had been vital to avoid distractions. It was hard to believe that it hadn’t even been five days since he’d pitched the idea to Tallheart. The man wasn’t just a smith; he was a certified miracle worker when it came to anything metal.
+
+The forgewagon was a marvel, and it was at once both overcomplicated and not complicated enough. Rain had come up with an elaborate plan of trying to build an actual torque converter, but issues had arisen almost immediately—lack of a suitable transmission fluid, for one. It was on his list for later. Also on the list for later were friction clutches, chain derailleurs, planetary gears, and a whole host of other things that he had a surface understanding of thanks to long hours spent on YouTube, but no practical knowledge of how to build.
+
+The final setup was far from ideal, but with Tallheart’s massive strength, it got the job done. In the front of the forgewagon, there were two seats and two sets of pedals connected to the same shaft. In the center, between the seats, there was a large, fixed gear. A heavy chain linked that gear with a similar gear mounted in the back of the forgewagon, driving a shaft with a heavy flywheel. The second gear wasn’t fixed. It was instead joined to its axle with a freewheel, a clever ratcheting bearing that made it so the flywheel could keep spinning even if the motors—Tallheart and an unfortunate friend—decided to take a break.
+
+The gear ratio was fixed for now. A manual chain tension lever and a few concentric gears up front would have allowed rudimentary shifting as long as you didn’t mind getting your hands greasy, but there simply weren’t enough hours in the day. There’d been other problems to solve first. Still, Rain wasn’t happy with leaving something undone.
+
+Next came the issue of transferring power from the flywheel to the treads.
+
+The transmission sat behind the driver’s seat—transmissions, technically, as there was an independent mechanism for each side. The flywheel’s axle turned a pair of fixed wooden drums connected via leather belts to corresponding drums on two independent driveshafts. Each driveshaft drove a wheel that was locked into the treads on that side, finally transferring power to the ground.
+
+To control all of this, the driver had two levers of the ratcheted steampunk variety. When one was pulled, it would tension the drive belt on that side via a third free-spinning wooden drum. Steering was like an RC car. Push the right lever to turn left, push the left lever to turn right, push both to go forward, pull both back to stop.
+
+Eventually.
+
+Brakes were also on the list of things to worry about later.
+
+While it was perfectly functional, the issue with this whole setup was the leather belts. They kept slipping and were also prone to failure. Leather wasn’t something they could easily replace outside the city, so they’d have to bring spares. Lots and lots of spares.
+
+Again, there weren’t enough hours in the day. Proper friction clutch. On. The. List.
+
+The suspension was perfectly acceptable, Rain felt, prior to any rigorous testing. The driveshafts included universal joints, allowing some degree of travel. There were five wheels inside each tread, with the drive wheel being the one in the middle. Thanks to the leaf springs on each and every axle, there was enough play in the tracks to drive over small rocks, logs, and woodland creatures without any issues. That last obstacle wasn’t much of a concern, as nothing with eyes to see and ears to hear was going to miss this thing coming. All-terrain it was; stealth it was not.
+
+Practicality had reared its ugly head as well, and they’d had to cut the size of the smelter to a third of Tallheart’s original design, regrettable as it was.
+
+The forgewagon was enormous. The bed was about the size of a normal wagon all on its own, perhaps slightly wider. The seats and all of the mechanics of the drive system took up the space that would have normally been occupied by a pair of horses. The flywheel poked up through the front-right corner of the bed, below a flat shelf that supported the smelter.
+
+The smelter itself had been shrunken slightly and mounted transversely behind the transmission such that the ‘asshole’ was on the right side of the vehicle and the intake hopper was on the left. All of the smaller outlet valves had been moved to the rear face of the smelter on the right side, ending up just above the anvil. The smelter’s left side was now home to a large cubic indentation that pulled double-duty as a firebox and a forge. Taking advantage of the spinning axle right below, they’d added a fan and some ductwork to pump air into it, eliminating the need for bellows. Standing at the back-left corner of the forgewagon’s bed, you could work at the anvil with easy access to both the forge and the smelter’s valves at your elbow.
+
+The heat wasn’t as much of an issue as you’d expect. Tallheart had resistances, obviously, but the metal that the smelter was made from thumbed its nose at thermodynamics, though it needed mana to do it. As long as it was charged, it acted as a sort of one-way insulator, making it much easier for heat to get in than to get out. Rain was currently sitting in the passenger’s seat, which put the smelter about a meter behind him, completely full of molten metal. While it was a decidedly warm place to be, it wasn’t unbearable. In fact, once they were out in the cold, it would become a feature instead of a bug. Heated seats were a part of the luxury package.
+
+The frame of the forgewagon was made from steel. Pure iron would have been faster for Tallheart to shape, but it lacked the required strength. Force Steel would have had that strength and then some, allowing them to thin the material and thus reduce the weight. They hadn’t used it, however. Apart from not having the Crysts to spare, they were trying to keep the full extent of Tallheart’s enchanting abilities under wraps. The only enchanted piece was the smelter itself, which was honestly bad enough on its own.
+
+All told, the entire thing was ridiculously Kerbal and more than likely to fall apart at any moment. It was also just so awesome that that didn’t matter. If something went wrong, they’d fix it. They’d have the tools to make new parts on the road—that was the whole point of having a forgewagon in the first place. Rain was already thinking about steam power and the potential for integrating the generator. They could add headlights and—stretch goal—a sound system to play Rauta.
+
+That came later, though. For now, there was just one last piece that was needed. Rain turned to Tallheart, who was sitting to his left in the driver’s seat. “Ready?”
+
+“Mmm,” Tallheart rumbled. Rain could tell that he was excited. Who wouldn’t be?
+
+Reaching into a bag sitting below his seat, Rain removed two pairs of mismatched brass goggles. One pair had a leather strap with a buckle that would allow Tallheart to wear them without worrying about his antlers. Rain offered that pair to the smith, grinning. “Here. Our last test failed because we weren’t properly attired.”
+
+Tallheart blinked, taking the goggles and looking at them curiously. He looked back up at Rain and raised an eyebrow. “Why?”
+
+“It’s to complete the look. Come on,” Rain pleaded, “I had to look everywhere to find these.” He slipped his own goggles on, tightening the leather strap. Eventually, Tallheart huffed and put his on as well. Rain had to fight down an undignified squee. So awesome!
+
+Tallheart snorted in amusement at Rain’s expression, then nodded toward the wooden door that hid the rest of the compound from view. “Ready.”
+
+“Initiating spin,” Rain said excitedly, then began pushing as hard as he could against the pedals. It wasn’t easy, especially with his legs already feeling shredded from his morning workout. The flywheel was steel-jacketed lead, and the effective gear ratio from it to the pedals was something like 1:1 at the moment. Myth and Reason had magically refined some lard into a stable high-performance grease, which helped, but the grease itself wasn’t magical. Friction and inertia couldn’t be ignored.
+
+Things suddenly went from difficult to practically effortless as Tallheart began pedaling on his side. The flywheel rapidly came up to speed, with significantly less judder being transmitted through the frame than there had been last time. It appeared they had fixed the alignment problem. It remained to be seen if the rest of the issues had been resolved as well.
+
+“Jamus!” Tallheart called.
+
+“What?” came a voice from outside the garage. The door opened a crack, and Jamus’s head poked through. “Oh, you’re ready for another try? Here, let me open it up. Staavo! They’re ready!”
+
+“Coming! Wait for me!” Staavo’s voice came from the distance.
+
+Tallheart didn’t wait. He reached up, grasping both control levers and pushed them forward, tensioning the belts that connected the treads to the flywheel. There was a rough jerk that settled Rain back into his seat as the belts engaged. Where the ratio from pedals to flywheel was 1:1, the ratio from the flywheel to the ground was more like 2:1. As a result, the forgewagon was now moving forward at a slow walking pace.
+
+Rain whooped as Jamus hurried out of the way, clutching his orange hat to his head. The clank of the treads filled the air as the forgewagon cleared the garage. Rain kept pedaling, working with Tallheart to increase their speed as they headed toward the flimsy wall of the compound. Before they got anywhere close to it, Tallheart squeezed the releases and pulled the levers back to the neutral position. The treads kept rolling, but their speed fell off quickly.
+
+“Okay, let’s try a turn,” Rain said over the clatter of the treads. “Just engage the right one.”
+
+Tallheart nodded, pushing the right lever forward. There was another jerk as the belt engaged, and the entire forgewagon started turning left, drawn by the right tread.
+
+“Yes!” Rain shouted. “We have steering!”
+
+Tallheart pushed the left lever forward again, and their course straightened. They were now headed away from the wall. As satisfying as crashing through it would have been, the ability to steer was, arguably, a more important test.
+
+“Gods above, it’s actually working!” Jamus exclaimed. There was a growing clamor as everyone dropped whatever they were doing and rushed over, except for Meloni. She was chasing Cloud, who was running about frantically, barking at the mechanical monster attacking the compound.
+
+“Look out!” Rain suddenly shouted, pointing. Dozer had popped up out of a depression in the ground in front of them. The slime was oozing directly at the forgewagon, showing none of Cloud’s wariness.
+
+Tallheart quickly pulled the levers back, and their speed dropped. They came to a clanking stop just in time, barely avoiding learning whether a slime could survive being run over by a tank. Rain had to hang onto his seat to avoid being tossed by the bouncing suspension as the heavy vehicle shifted. Right, this thing is dangerous. Brakes first, then seatbelts, and damping for the suspension. Also, FUCK YES!
+
+He cackled maniacally in the mid-morning sun, removing his feet from the pedals and standing unsteadily on the still-bobbing vehicle. He pumped his fist in the air in victory. A sudden impact against the side of his breastplate made him look down, and his smile grew even wider when he saw Tallheart offering him his closed fist in a familiar gesture. He bumped Tallheart’s fist with his own, grinning from ear to ear.
+
+Eight hours later, Tallheart was still working on the forgewagon, running more tests and ironing out (ha!) issues as he found them. He wasn’t radically changing anything, though, as the plan was to leave first thing tomorrow. Staavo and Jamus were helping him, as well as Ameliah, who, apart from being the only other person who could really pedal the machine for any length of time, had also taken an interest in how it worked. Once she’d seen it running, she’d started peppering Rain with questions, delighting him with the reversal of roles.
+
+Rain sighed, looking away from his friends and slumping down to sit on a crate. I wish I could just spend the rest of the day working on it too.
+
+Unfortunately, as the newly-elected captain of the company, he had work to do, namely, making sure that everything was in order for their departure. First on that list was himself. His full status popped up in front of him with the barest exertion of will.
+
+Richmond Rain Stroudwater
+
+CLASS
+
+LVL
+
+CAP
+
+Dynamo
+
+18
+
+18
+
+EXP
+
+NEXT
+
+TOTAL
+
+15,589
+
+22,750
+
+747,672
+
+Vitals
+
+CUR
+
+MAX
+
+RGN
+
+HP
+
+381
+
+400
+
+540/d
+
+SP
+
+59
+
+200
+
+620/d
+
+MP
+
+5,812
+
+6,562
+
+1.8/s
+
+Dark Revenant’s Armor
+
+CUR
+
+MAX
+
+RGN
+
+DUR
+
+13,338
+
+13,338
+
+0
+
+SAT
+
+0
+
+13,202
+
+-92/s
+
+CHG
+
+3,946
+
+14,209
+
+-65/d
+
+Attributes
+
+171/151
+
+EFF
+
+TOTAL
+
+BASE
+
+BUFF
+
+SYN
+
+STR
+
+6.6
+
+20
+
+10
+
+10/37
+
+33%
+
+RCV
+
+15
+
+54
+
+10
+
+44/24
+
+44%
+
+END
+
+3.6
+
+10
+
+10
+
+0/16
+
+36%
+
+VGR
+
+19.7
+
+62
+
+10
+
+52/32
+
+47%
+
+FCS
+
+10
+
+10
+
+10
+
+0/50
+
+100%
+
+CLR
+
+265
+
+265
+
+200
+
+65/116
+
+100%
+
+Resistances
+
+50/?
+
+FLAT
+
+PERCENT
+
+HEAT
+
+1.0
+
+0%
+
+COLD
+
+1.0
+
+0%
+
+LIGHT
+
+1.0
+
+0%
+
+DARK
+
+51.0
+
+0%
+
+FORCE
+
+1.0
+
+0%
+
+ARCANE
+
+1.0
+
+0%
+
+CHEMICAL
+
+1.0
+
+0%
+
+MENTAL
+
+1.0
+
+0%
+
+Skills
+
+Aura Metamagic
+
+Tier 0
+
+Amplify Aura (10/10)
+
+Multiply aura intensity by 200%
+
+Multiply aura mana cost by 300%
+
+Extend Aura (10/10)
+
+Extend aura range by 10 meters
+
+Multiply aura mana cost by 300%
+
+Tier 1
+
+Aura Focus (10/10)
+
+Focus on an aura to boost its output
+
+Multiply aura intensity by 300%
+
+Multiply aura range by 300%
+
+Multiply aura mana cost by 300%
+
+User loses all external senses while focusing
+
+Aura Synergy (10/10)
+
+Increase all aura output by 1.0% for each rank in any aura
+
+Effective boost: 80.0%
+
+Tier 2
+
+Aura IFF (10/10)
+
+User may exempt entities from direct aura effects at will
+
+Selected entities receive 0.0% aura output
+
+Tier 3
+
+Aura Compression (10/10)
+
+Compress aura output, reducing range to boost intensity
+
+Increase intensity by 2.0% per meter of compression
+
+Defensive Auras
+
+Tier 2
+
+Force Ward (10/10)
+
+Increase physical resistance by 54% for all entities
+
+Range: 18 meters
+
+Cost: 1 mp/dmg mitigated
+
+Magical Utility
+
+Tier 0
+
+Intrinsic Clarity (10/10)
+
+Multiply base mana regeneration by 300%
+
+Intrinsic Focus (10/10)
+
+Multiply base mana by 300%
+
+Tier 1
+
+Channel Mastery (10/10)
+
+Allows intuitive control of channeled skill intensity
+
+Minimum skill intensity: 0%
+
+Maximum skill intensity: 200%
+
+Skill mana cost modified by intensity adjustment
+
+Mana Manipulation (9/10) Exp: 6239/7400
+
+Allows internal control of mana
+
+Allows expulsion of mana to environment
+
+Allows transfer of mana to and from capacitive items with direct contact
+
+Maximum transfer rate 1080.0 mp/s (fcs)
+
+Tier 2
+
+Magical Synergy (10/10)
+
+Enables limited synergistic cross-coupling of magical attributes
+
+25.0% of Focus contributes to M.Regen
+
+25.0% of Clarity contributes to Mana
+
+Offensive Auras
+
+Tier 0
+
+Immolate (10/10)
+
+132-151 heat (fcs) damage per second to entities and environment
+
+Sufficient damage causes ignition
+
+Range: 18 meters
+
+Cost: 50 mp/s
+
+Refrigerate (10/10)
+
+132-151 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 18 meters
+
+Cost: 50 mp/s
+
+Utility Auras
+
+Tier 0
+
+Purify (10/10)
+
+Purify poison, corruption, and contamination
+
+Range: 18 meters
+
+Cost: 100 mp/min
+
+Winter (10/10)
+
+Boost M.Regen by 180% for all entities
+
+Range: 18 meters
+
+Cost: 10 mp/hr
+
+Tier 1
+
+Detection (10/10)
+
+Sense selected items of interest
+
+Not occluded by mundane materials
+
+Resolution: 2.07 mm
+
+Range: 18 meters
+
+Cost: 10 mp/s
+
+Essence Well (10/10)
+
+Transfer mana to all entities within range, including user
+
+Transfer Rate: 18 mp/s
+
+Efficiency: 20%
+
+Range: 18 meters
+
+Velocity (10/10)
+
+180.00% boost to speed for all entities
+
+Range: 18 meters
+
+Cost: 10 mp/s
+
+Free Skill Points: 0
+
+It had been a long five days since the rescue mission and confrontation with Rankin. In addition to being incredibly busy with company business, Rain had made a specific point of setting aside two full hours to exercise every morning, and another two for meditation every night. Consequently, he hadn’t been getting enough sleep, but it wasn’t like he was sleeping well to begin with. When he closed his eyes, the memories were there.
+
+He was going to need time—something that he never seemed to have enough of.
+
+Early on in his training, Rain had come to the bitter realization that his initial gains had only been so fast because of how much room he had to improve. That had only spurred him on to train even harder, desperate to hold the pace. Results were mixed, and while Ameliah said that his rate of physical improvement was typical, Rain hadn’t been happy to hear it. Typical wasn’t good enough. Scanning his status, he didn’t see so much as a single point of difference from when he’d checked it a few hours ago.
+
+Rain sighed, closing the window and taking a long drink from his waterskin. His gaze traveled over the piled supplies around him, though the sight barely even registered, so lost was he in thought.
+
+As he was in the relative safety of the city, his training focus was on tolerance for Recovery and Vigor. He didn’t have much use for large health and stamina pools right now, so Strength and Endurance were getting synchronization training instead. If he improved his tolerance for the secondary stats first, that would increase his regeneration. More regeneration meant more training. More training meant faster improvement.
+
+At the moment, he’d decided to keep his Strength at a resting buff of ten. He could have gone lower, but while the city was safe enough, four hundred health was already pushing it. He wouldn’t want to get hurt falling down a flight of stairs, for example. There were other reasons for keeping the stat low as well. Boosting Strength also made him stronger. In addition to being a contender for the ‘obvious statement of the year’ award, this also meant training became more problematic.
+
+At 6.6 effective Strength, Rain already felt superhuman compared to his past self. Going higher just meant he had to do even more pushups. He was already doing enough. Some would say too many, but after his experience with the obelisk, the normal pain of sore muscles was hardly worth mentioning. His training sessions were just as intense as those he’d subjected himself to while he’d been trapped underground. The rule was to keep going until his body physically gave up, then to refresh himself with the ring and keep going, stopping only when soulstrain started to set in. He’d slowly recover over the rest of the day, abusing the ring to make sure that he never hit his cap on any resource.
+
+Rain snorted and took another swig of water. Always. Be. Regenerating.
+
+People had started looking at him strangely, but he didn’t care. He wasn’t abusing potions this time, at least. If he’d wanted to, he could have gone even harder, pushing through the soulstrain. Unfortunately, he needed to be at least somewhat functional. Wobbling around on jelly legs all morning was bad enough. It would be hard to take care of the preparations for departure if he couldn’t even move.
+
+Even with all that work, the results were disappointing. Over the past few days, he’d only earned himself nine Recovery tolerance, eight Vigor tolerance, four percent Strength synchronization, and two percent Endurance synchronization. It wasn’t enough.
+
+If his progress kept slowing down, he wasn’t sure what he was going to do. For Endurance, anyway, the gains seemed to be tied to his resistances somehow. A few of the awakened he’d talked to—though he’d yet to find anyone that even approached being expert on the subject—had said that damaging himself might help. Punching hot sand, maybe?
+
+Rain shook his head, clearing away the half-remembered flash of some random kung-fu movie. Vigor training still came first.
+
+As for his mental stats, Clarity was the name of the game. He’d been boosting it as much as he could every night, despite the fact that it kicked his mind into overdrive and made his sleep even more restless. It hardly mattered with as tired as he was each night, and he wanted his armor fully-charged, especially after the incident with the Razorspine. There was no excuse for slacking off. He’d finally gotten the durability to max and was steadily working on filling the capacitance rune.
+
+All of his questionably-restful power-sleeping had earned him twenty-three points of Clarity tolerance—proof positive that Dynamo made training his mind easier. It had also gotten him a rank-up of Mana Manipulation, which was now creeping toward the cap, something that he had mixed feelings about. On one hand, Ameliah said max-level Mana Manipulation would reveal a bunch of hidden skills. On the other hand, it was his last skill. Once it was rank ten, that was it until he found a high-level blue, and there was no telling how long that would take. The promise of hidden skills even made it worse, in some ways. It wasn’t like he’d be able to get any of them.
+
+Focus… Focus could take a hike. A bigger mana pool did nothing for him, and the tiny boost to his damage output wasn’t worth sacrificing regeneration. Besides, thanks to the ring, he could get that benefit anyway just by dumping points into Focus right before using a spell, then taking them out again when he was done. He’d tried automating that using a macro but found that while he could script his own skills as much as he wanted, controlling an item was different. It was tied in with bonds, and—though this was somewhat speculation—the damage to his paling. The paling was the interface between his soul and the outside world, after all.
+
+Rain yawned, not yet noticing that he’d forgotten why he’d come over here in the first place. Thinking about his soul had turned his thoughts to the subject of bonds. He kicked his feet against the side of the crate idly as he stared vaguely in the direction of Dozer, following the connection between himself and the slime.
+
+Linksight was still broken outside of soulspace, despite his efforts to fix it. The bond with Dozer was the only one that he could truly interact with out here in any real sense. That wasn’t even linksight when it came down to it. His slime-whisperer powers came from something inherent to the nature of the pet-bond. Of course, that, too, was dysfunctional. Rina gets an interface for her slime. Why don’t I? Damn paling.
+
+Rain sighed, picking at a splinter of wood on the top of the crate. His broken soul was making things difficult. All he got from linksight out here were flashes. When something accessed a bond strongly, he’d get a flicker of awareness in his mind—plus a headache, eventually. The awareness wasn’t even enough to identify what had happened, only that something had. It was a far cry from what he’d had in soulspace, but amazingly, it was only mostly useless.
+
+For example, something in his brain had twitched violently when he’d received his custodian’s plate. That had been linksight’s way of telling him that the plate had bound itself to him, though he hadn’t realized that until after he’d had Tallheart examine the thing later.
+
+The enchantment on the plate was threefold, yet harmless. It was just a permanent binding rune, a unique identifier rune, and an ambient mana rune to power the other two. It wasn’t a homing beacon or anything. Tallheart said that a real tracking enchantment like the one Rain had been afraid of was impossible, and he trusted Tallheart when it came to these things. The issue was distance, Tallheart had said.
+
+Still, harmless as the plate was, Rain would have liked to have known about the self-binding enchantment before opening the box.
+
+Setting that small annoyance aside, he found his thoughts dragged back to linksight. The major revelation there was that it didn’t just work on items. It also worked on people—specifically, people in his party. Whenever someone joined or left, he’d get the faintest flicker of awareness, still without any meaning other than the fact that something had happened. He was hoping that it would one day let him do cool things such as summoning the party interface while not in a lair, or creating a macro trigger based on party-member status. At the moment, it did none of that, despite his efforts. It had given him a bit more information about how parties worked, though.
+
+Parties were weird. Rain flared Winter with Aura Focus for a second and concentrated, dragging a few scattered memories to the front of his mind.
+
+[”Val, Samson, I’m going slime hunting near the barricade. Want to come?” *Twitch* *Twitch* Party.]
+
+[”Hey guys. Still working on the suspension? I’ve got a few minutes. Want some help?” *Twitch* *Twitch* *Twitch* Party.]
+
+[”Vanna, I’m going to go see Khurt about the ration bars. Want to come? No? Okay, I’ll help you finish this later, then.” *Twitch* No more party.]
+
+Rain let Aura Focus fade, exhaling a breath that only felt like it should have fogged the air. The memories were clear, but it was just so strange. The world—or the system or whatever—somehow knew what everyone’s intentions were. In essence, if you were working with someone on something, you’d automatically get grouped up, provided that there were eight people or less involved. Why eight? Nobody seemed to know. That was just the way it was.
+
+Just one more thing for the pile. Depths, I’m getting distracted…and I’m thinking in common again. With an effort, Rain switched his thoughts back to English. Fuck off, mind readers. I need to get me a Magneto helmet or learn how to boobytrap my soul or something. I’ve got some heavy ordnance packed away… I wonder if I can weaponize my trauma?
+
+Rain chuckled, but his mirth didn’t last. The damage to his soul still wasn’t healing. As amusing as it was to picture a mentalist getting obliterated by one of his memories, he was fully aware that he had some serious issues. Meditation helped with most of them, but only temporarily. He needed a more permanent solution.
+
+Fortunately, his continued efforts to access his soul each night had borne fruit. Two nights ago, he’d managed to tolerate the tumultuous insanity for a full second instead of being immediately hurled back into his body. He had yet to be able to repeat the feat, but the mere fact that he’d done it was proof that progress was possible. It gave him hope.
+
+The chaos in his soul was…difficult to describe. It wasn’t pain. It also wasn’t color, sound, smell, or even something intangible like emotion. The closest sensation that Rain could think of was the experience of tipping back slightly too far in a chair—that sudden flash of utter certainty that you were going to die. It was like that, except much, much worse, and not nearly so narrowly defined. It was as if the entire logical underpinning of reality had been shredded and thrown into constant flux.
+
+The more he thought about such things, the more questions he had about what the soul actually was. It couldn’t be his consciousness. If it were, he’d have been a complete drooling potato, not just slightly scatterbrained from time to time. Likewise, it couldn’t be his system-self. His skills worked fine, which wouldn’t be the case if they were all twisted up in that insanity. Solving the mystery wasn’t going to be easy. His memories of freshman year covered physics, not metaphysics.
+
+Rain sighed.
+
+Of course, there was always the possibility that the chaotic realm that he was trying to enter wasn’t even his soul in the first place. His intuition told him that it was, but intuition wasn’t something you should be trusting when it came to these things. He needed help, but the only person so far who’d offered was the reason he’d been thinking about a Magneto helmet. That was not an option.
+
+With a groan, Rain rubbed at his temples. He could feel a real ripper of a headache building, but he had too much to do to just go lie down in a dark room, not that there was any darkness to be found in Fel Sadanis. The company wasn’t going to manage itself.
+
+Rain lowered his hands, looking around at the toiling workers as he admonished himself for getting distracted. There were approximately two hundred people inside the compound now, though only a fraction of those had joined the company itself. The rest were those who wanted to help but were unwilling or unqualified to join. In addition to not being an asshole, anyone who came with them would need to be able to defend themselves and travel for days on end through difficult terrain. To that end, he’d set up something of a test.
+
+Anyone who wanted to join had to fight Carten’s Aunt Mazel.
+
+They didn’t need to win, mind. It was more of a test for bravery than anything else, though they did need to get her approval.
+
+Mazel herself wasn’t coming. Rain would have been happy to have her along, despite the fact that her injuries would make things difficult. There were others for whom exceptions had been made. Mazel was an experienced fighter, and more importantly, disciplined. She’d had long years of experience as a merchant’s guard, and she knew how to take orders and how to give them, a skill that was in short supply. Nevertheless, she didn’t want to come. She’d agreed to help him screen applicants, but that was it.
+
+Rain clicked his tongue, then summoned the beta-version of his word processor, which really wasn’t much more than his terminal plus buttons for bold, underline, and italic, though he hadn’t gotten the last one to work yet. He spent a moment digging through his disordered mind for the specific memory he wanted, then slotted it into the display.
+
+memberlist.odt
+
+B
+
+U
+
+I
+
+Awakened
+
+Level 37
+
+Tallheart - Runic Powersmith
+
+Level 30 (approx)
+
+Ameliah - “Legendary (probably) Jack” [Unknown]
+
+Level 18
+
+Rain - Dynamo
+
+Level 12
+
+Jamus - Arcane Mage [Arcane Mysteries Mage]
+
+Carten - Shield Turtle [Shieldwielding Defender]
+
+Level 10
+
+Staavo - Swordsman* [Swordplay Warrior]
+
+*Note: Hybrid build including magic
+
+Level 8
+
+Val - “Laser Dude” [Unknown]
+
+Level 7
+
+Mlemlek Ko-Latti - Swordsman [Swordplay Warrior]
+
+Ava Lek-Ani - Fire Mage [Fire Evocation Mage]
+
+Level 6
+
+Myth (Bip) - Alchemist [Alchemy Worker]
+
+Reason (Bop) - Chemist [Chemistry Worker]
+
+Level 5
+
+Mahria - Unclassed (cap ?)
+
+Samson Darr - Unclassed (cap 6)
+
+Kettel - Unclassed (cap 6)
+
+Unawakened
+
+Laborers/Porters
+
+Vanna - Good Leader
+
+Tarny - Fanatic (problem?)
+
+Smelt - Dependable
+
+Faas - Prankster
+
+Fredek - Bareknuckle boxer
+
+Kip - Snores
+
+Gardener - Plays the flute
+
+Nails - Quiet, major NPC energy
+
+Delfina - Even quieter than Nails, somehow
+
+Tristin - Gambling (problem?)
+
+Tilian - Decent cook
+
+Evonna - Smooth/cheesy, haven’t decided
+
+Shet (Shettel) - Likes to sing. Also, bad at singing.
+
+Corrin - Kal’s rival
+
+Kal (Kalman) - Corrin’s rival
+
+Ron (Taron) - Funny. Keeps Kal and Corrin in check.
+
+Outdoors/Combat Types
+
+Hanes - Hunter
+
+Tahir - Hunter
+
+Ujesh - Fisher/Trapper
+
+Shortcrust (Joyanna) - Caravaner/Guard
+
+Finn (Finnbogi) - Guard
+
+“Quickhand” Telen - Mercenary
+
+Gigs (Dewiggen) - Bouncer
+
+Unawakened Nobles
+
+Atyl Wagarardrogrum (Wa-Ga-Rar-Dro-Grum)
+
+Lyn Aleuas Draves - Chasm duelist (don’t let Val find out)
+
+Misc Trades
+
+Meloni - Shopkeeper
+
+Clubbs - Farmhand - Scary-good at Ranks
+
+Ruce - Farmhand
+
+Lago (Lauger) - Chandler
+
+Romer - Scribe
+
+Mollo - Servant - Foul-mouthed
+
+Ellis - Apprentice Farrier
+
+Mereck - Innkeeper
+
+Lena - Apothecary/Herbalist
+
+Belson - Barber - Clumsy (watch your ears)
+
+Shena - Carver (wooden knick-knacks)
+
+The list came out to fifty people, which was a nice even number, but more than Rain had been expecting. Fortunately for their supply situation, it looked like that was going to be it. The last person to join had been Shena, late last night, and the city was getting pretty deserted. Other than the company members and those who were sticking around to help, it was essentially just the Watch left at this point.
+
+Demographically speaking, most of the company members were young, early to mid-twenties as an average. Anyone older than that was generally married and had kids, making such a risky expedition an unattractive proposition. Rain had been resistant to teenagers joining, but a few had made it through the screening despite his reservations. He could have drawn a hard line, but he had to face the reality that teens here weren’t quite as pampered as those he was used to. Kettel was a good example.
+
+Speaking of Kettel, Rain hadn’t been expecting him to want to join, especially not after he and Ameliah had ‘stolen’ the loot in the whole Rankin incident. However, Kettel had actually apologized, even going as far as promising to be less reckless in the future. Rain was skeptical, and he still wasn’t sure that letting Kettel in was wise, but he didn’t have the luxury of turning awakened away if he could help it.
+
+Mahria had been another surprise. Apparently, she needed a respecialization accolade and had decided that a lair-hunting company was just the way to get it. Rain was still a little concerned that having her along would bring Lavarro down on them, but Mahria assured him that that wouldn’t happen.
+
+Lavarro had pulled Mahria aside before the news about Westbridge had become common knowledge. She had wanted to explain herself and to say goodbye to her daughter. The conversation had not gone well, apparently, and as far as Mahria was concerned, her mother was dead. As for her father, Mahria said that she’d sent him a message. She also said that he wouldn’t care what she did and never had.
+
+To say that Mahria had issues with her parents was putting it mildly.
+
+Between Mahria and Kettel, Rain thought Mahria was going to end up being the bigger issue. Kettel was an idiot, sure, but that was just because he didn’t have the experience to know better. There were encouraging signs that almost dying had woken him up. There’d be a lot of drills and training in his future to solidify the lesson.
+
+Mahria, on the other hand, was still in denial. She’d been an adventurer for years. Her parents, in addition to all their other issues, were adventurers too. The recklessness ran deep, and rooting it out would take some doing. It was hard to remember that she was his own age sometimes, but her behavior made a little more sense when you considered that all of her adventuring experience had been earned while in the presence of Apache-Mom. The Froststorm incident was likely her first real brush with death too.
+
+Fortunately for Rain’s sanity, no other Guild members had joined, leaving the number of remedial students at two—three if you counted Val, four if you counted Rain himself. Jaks, Stoneshield, Mindyblades, and Elmwood had had the expected reaction to losing out on what would have been thousands of Tel, wanting nothing to do with him. Only one other Guilder had applied, in fact, doing so very early on before word had spread about his selection criteria. It had been Cera, the Water Mage, and Rain had rejected her. Hard. Her asshole interview had made her opinions abundantly clear, and for all that Rain hated confrontations, there were some things he would NOT tolerate.
+
+Recklessness was a tractable problem; it could be rectified with discipline and experience. Bigotry, on the other hand, especially the deep-seated kind that Cera harbored, was not. You couldn’t fix it with a lecture. There was no way that Rain was going to let someone like her join the group before its identity had even been established. She mistrusted or outright hated everyone not from Fel Sadanis—cervidians, islanders, Xiugaaraans, Osarans, everyone. Further, her position on the unawakened was that if they weren’t strong enough to help themselves, then they might as well just die.
+
+Reeducating such a person was a laudable goal, but not something that was achievable in any reasonable timeframe. Cera’s opinions would have been like a poison in the company. There was no place for it. She hadn’t been the only one that he’d needed to reject for that reason, either. The confrontations hadn’t really gotten any easier with practice, though most people hadn’t made as much of an issue of being rejected as she had. Still, Rain was happy to be done with recruiting, and he was planning on putting someone he trusted in charge of personnel so he would never have to do it again.
+
+Delegation was hot on his mind. He’d had the election he’d wanted two days ago—explaining ranked-choice voting to everyone had been an incredibly frustrating experience—and been confirmed as the captain of the company. Not CEO, mind. Having never experienced corporate hell, Rain felt unqualified to recreate it in a fantasy world.
+
+Banking on getting that airship one day, he was thinking more along the lines of pirates. He was the captain, first among equals. Someone, probably Vanna, would be quartermaster. Distributing shares of booty would also be easier than trying to set every member up with their own pay-grade and hourly rate.
+
+Rain sighed. Ugh, I’ll deal with that later. I’m supposed to be making sure everyone has everything they need. He rubbed at his forehead, dragging his thoughts back on track as he reviewed the names and skills of the members. There were notable gaps, such as a skilled carpenter, but there wasn’t much he could do about that. Fortunately, people were generally handy, so they’d be able to get by.
+
+Apart from people, they also had a few pets in the company, though he hadn’t listed them. He had Dozer, and Meloni had Cloud, but that wasn’t all. One of the hunters, Hanes, owned a pair of hunting dogs, and Romer the scribe had a tabby cat. It was a good thing that nobody else had a cat, too; otherwise, the expedition would have been in serious jeopardy. One cat was all well and good, but two? Madness. The last thing that they needed was a catsplosion.
+
+Rain chuckled despite his headache and loaded up another file, this one listing equipment.
+
+standard_equipment.odt
+
+B
+
+U
+
+I
+
+Standard Equipment - 64 Tel x 50 -> 3,200 Tel
+
+Gambeson - 11 Tel
+
+Heavy Cloak - 4 Tel
+
+Leather helmet - 2 Tel
+
+Fur gloves - 3 Tel
+
+Leather Boots - 2 Tel
+
+Knife - 3 Tel
+
+Heavy-Duty Pack - 3 Tel
+
+Spear - 3 Tel
+
+Sword - 4 Tel
+
+Shield - 2 Tel
+
+Bow - 4 Tel
+
+Arrows - 3 Tel
+
+Misc. Stipend - 20 Tel
+
+There was more, of course, but Rain hadn’t bothered making sure that everyone had a spare set of underwear, instead focusing on what they’d need for combat. Some people already had some of this stuff—or didn’t need it in the case of the awakened—but he’d made sure to get extras so nobody would be without some critical piece of kit. He also wanted to have at least one of each kind of weapon for everyone, even if they didn’t know how to use it yet.
+
+Rain got to his feet and headed over to a row of crates, each containing something from the list. He started going through them, checking to make sure that everything was accounted for and that there weren’t any quality issues. It would all get handed out a little later tonight, and then everyone would get some geared marching practice.
+
+The condition of Fel Sadanis made acquiring things problematic, but Mlem had risen to the challenge with a series of minor mercantile miracles. A lot of things, like the gambesons, had to be cobbled together from scraps. Fortunately, many of the people who were sticking around to help the company were merchants and craftsmen. In other words, people with stuff. Negotiating transport for their livelihoods through the teleport platform was problematic, so they were doing as much as they could to liquidate their assets before they left.
+
+Mlem’s position in the company was interesting. On one hand, he’d said he wanted to join properly, agreeing to be a full member. On the other hand, he was still a merchant. Uncharitably, he could be viewed as a tick that had latched onto the company and was draining its coffers to line his own pockets. A more open-minded viewpoint would paint him as something like the company’s personal trade liaison. It seemed to be working, at least for now. Mlem was certainly happy.
+
+The equipment that Rain had purchased was ‘company steel,’ meaning that it remained the company’s property. In general, he was planning on keeping everything like that. The company’s finances would be managed by the quartermaster—which wouldn’t be Mlem, for obvious reasons—such that people wouldn’t need to worry about paying for food, supplies, and basic equipment. Adventuring gains would be split up, with each member getting a share for their own use, and some portion going to the company. An airship wasn’t going to pay for itself, after all. It would be best to start saving up now. The money from Rankin hadn’t gone nearly as far as he’d hoped.
+
+As for why they had to buy all of this stuff in the first place, one reason was time, and the other was that Tallheart wasn’t willing to make equipment for people he didn’t trust. Rain hadn’t even asked, though he was planning on broaching the subject with him later. They were going to need to be careful about managing knowledge of the full extent of Tallheart’s abilities, regardless. If some organization, say, the Bank, decided that they wanted to abduct him, there wouldn’t be much they could do to stop it. That was one reason Rain was so worried about maintaining good relations with the Watch and the Guild. As a custodian and a Guild member, he—and by extension, the company—had some measure of protection. Still, it would be best to keep things covert for now.
+
+Rain sighed, pulling out a particularly ratty gambeson from one of the crates. He tugged lightly, and the loose seam that he’d spotted gave way under the force. Shaking his head, he walked over to a different pile, this one for miscellaneous resources, and tossed the gambeson on top. They could use the linen to repair other clothing, at least. This is why I wanted spares.
+
+Stretching his stiff muscles, Rain surveyed the bustle of activity. There was an endless list of things that they would need to survive out in the wilderness. Food, tools, sleds, snowshoes, evertorches, wood, cloth, leather; on and on it went. Fortunately, many hands meant light work. While Rain had ponied up the cash, he’d let others figure out the details while he focused on equipment and specialty items like Crysts.
+
+Damn it. He shook his head. I wish I hadn’t given away those bribes to the Guilders, now. I’m practically broke again. He looked up with a sigh. We’ll be fine. There’ll be plenty of chances to make money, and we have what we need for now.
+
+While it was true that he didn’t know their entire supply situation down to the number of toothpicks they owned, everyone kept coming to him with questions. Thus, he still had a pretty good idea of what they had and what they didn’t. For example, he knew that they only had about one week’s worth of food and water. He would have preferred to have more, but they needed the space for things that they couldn’t get in the wilderness. Food could be replenished by hunting—a single Stumper could feed the company for a whole day—and water was easy to get by melting snow.
+
+Honestly, if this whole experience reminded him of one thing, it was Oregon Trail. Not the actual Oregon Trail, Oregon Trail the video game. You could either leave Independence with a half-ton of food, or you could just buy a couple boxes of bullets.
+
+Rain snorted. Nobody is dying of dysentery on my watch. Purify is a game-changer. He already had a macro running that activated the aura every two hours. One brief pulse as a signal, then a one-minute delay, then full blast for ten seconds. It was better than having people come over to tell him that they needed to go to the bathroom. There will be no pooping in this company. Ooh! The Vestigial Assholes. Now there’s a good company name. Too bad I already decided.
+
+Rain started laughing to himself. His asshole was just fine, thank you very much, though he’d needed to sneak away to check. Gus had offhandedly asked him if it had sealed itself shut, and he’d actually been concerned for a little while. These are the real questions, people.
+
+“What’s so funny?” Vanna said, looking up from where she was working nearby.
+
+“Nothing, nothing,” Rain said, waving the question away. Back to business.
+
+He gestured to the crates. “I think we’re ready to distribute this stuff. Do you agree?”
+
+Vanna got up and stretched. “Yes, I think so. We’ll find out if anything is missing pretty quickly anyway.”
+
+“Right,” Rain said, nodding. “I’ll go round everyone up. I’m going to give a little speech once everyone has their stuff.”
+
+“A speech?” Vanna said. “I thought you said you hated speeches?”
+
+“I do,” Rain said. “But this is the foundation of the company we’re talking about here. It’s important.”
+
+“Okay,” said Vanna with a shrug. “I’ll go get everyone then. You just find a spot to stand.”
+
+Rain nodded. He walked over to one of the crates, one filled with heavy winter cloaks. His own cloak was folded neatly next to it, pinned with a small scrap of paper with his name on it. It was the same one that Val had given him, but it, like all the others, had been dyed white and patterned with dappled patches of shadow. The resulting pattern was arctic camo, more or less.
+
+Rain smiled as he shook out the cloak and threw it around his shoulders. Myth and Reason had outdone themselves. They had needed to use a dozen precious Chem-Crysts to make the alchemical dyes, but it had been worth it. Rain would have liked to have dyed all of the equipment, not just the cloaks, but Chem-Crysts were in short supply thanks to the need for evertorches. Some would have called it a waste, given the noise that the forgewagon made, but it wasn’t just about the camouflage. It was about creating a unified identity. Something that everyone could share.
+
+A little over an hour later, the sun was just starting to dip below the city walls. Rain was standing on the same crate he’d been sitting on earlier, surveying the gathered members of the company. Everyone else had been politely ushered out of the compound. He could have chosen to use a proper podium or clambered atop the city wall or something, but this was better. More personal.
+
+What he saw filled him with a heady excitement that made it hard to control his expression. Each and every member was now wearing a white dappled cloak like his own. The company was formed. He’d done it.
+
+Rain cleared his throat, and the chatter of conversation died as people stopped playing with their new equipment and looked in his direction. With a thought, he pulled up a window containing his prepared speech. There was no way he was going to try to do something like this off the cuff. He had the whole speech memorized, of course, but having it in front of him would force him to remain on track.
+
+“Firstly, I’d like to thank you for your time,” he said, doing his best to project confidence. “I know that everyone is busy getting ready, so don’t worry; I’m not going to give some long-winded monologue. I just have a few practical things to tell you. Before that, though, I did at least want to say a little bit about what this company is, and what I hope it can become.”
+
+Rain glanced at Ameliah, and she gave him an encouraging nod. She was standing next to Tallheart, who was fiddling with his cloak, trying to get it to fit better over his armor. Rain smiled, then refocused on the words in front of him.
+
+“I know you all know me, so I won’t bother introducing myself. Thank you to everyone who voted in the election, whether you cast your vote for me or not. It will be my honor to serve as your captain.
+
+“If you’ve spoken with me at all, you’re probably expecting some sort of self-demeaning joke here. Possibly a reference to something that you’ve never heard of. For once, I’m not going to do that. My homeland is far, far away, but this company… This is my home now. In the coming months, you’ll have plenty of time to get used to me. Apologies in advance.”
+
+There was a small rustle at this, but not the smattering of polite laughter that Rain had expected. He pressed on, doing his best to look unfazed by the lack of reaction.
+
+“Ascension. That is the goal of this company, and so, it is what we will call ourselves. Ascension.” He stopped, letting the name sink in before he continued.
+
+“Simply put, the word Ascension means the act of going upward, but it is so much more than that. Ascension is to rise above the mundane. We strive to better ourselves, and, one day, to create a better world. A world where the strong protect and guide the weak. A world where everyone has the same opportunities for advancement, irrespective of the circumstances of their birth. A world where we all work together to create a brighter future.”
+
+Rain smiled. “Obviously, we’re not going to do that overnight. It might not even happen in my lifetime. For now, Ascension will simply be our family. By electing me as your captain, you have chosen to grant me the responsibility of deciding our course. It is a job that I take most seriously.
+
+“I know that many of you were confused when I insisted on a vote for leadership of a group that was, essentially, my own idea. Unfortunately, democracy is a tainted word in Fel Sadanis, thanks to the example set by the DKE. Do not mistake their council of Citizens for anything but what it is: the rule of the powerful over the powerless. What we do here is different. True democracy means that everyone gets a voice and that their voices are all equal.
+
+“The leader of Ascension is nothing more than a representative of our collective will. A captain, not a king. We will write ourselves a document outlining what the captain may do, and what they may not. That will become our constitution. Our code. We will define rules for how and when a new captain is selected, and yet more rules for how a captain that is not fulfilling their duty may be removed. The code will be what defines what it means to be a part of Ascension, and no member will be exempt from its laws, captain or not, awakened or not. Under the code, we are all equals.”
+
+Rain shrugged. “That’s all politics, of course, and I promised to keep this brief. For now, there’s only one rule. The golden rule: Treat others as you wish to be treated. We’ll work out the rest later. On to practical matters.”
+
+He paused, waiting for the appreciative murmuring of the crowd to die down.
+
+“We leave for Vestvall tomorrow morning at ninth bell,” he continued. “Our mission is to search for survivors. After that, we will decide whether to make for Three Cliffs and civilization, or to turn south for the Badlands and the promise of lairs, blues, and awakening. Everyone already knew that, of course, otherwise, you wouldn’t have joined, but I want to be clear. If you wish to change your mind, this is your last opportunity to do so. Once we leave Fel Sadanis, it may be a long time before you get this chance again.”
+
+Rain paused, looking out at the crowd. There were a few uncertain expressions, but the general mood seemed to be one of resolve. He nodded. Good.
+
+“You don’t need to decide now,” he continued. “We will spend the rest of the evening practicing with our new equipment and discussing how we will navigate the dangers of a ranked zone. If you do decide to remain in Fel Sadanis, please, return your gear to Vanna. There will be no judgment nor recrimination.”
+
+Rain cleared his throat, scrolling so he could see the last paragraph of his notes.
+
+“With that, I’m done talking. I told you that I would keep this short, and we’ve got a long walk ahead of us.”
+
+He spread his arms wide and hopped down from the crate.
+
+“Welcome, everyone, to Ascension.”

@@ -1,0 +1,125 @@
+---
+id: c486645f-5701-5c35-a5b2-d27c3a5098f0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,356 - Mox"
+slug: 0032-chapter-1356-mox
+partOf: defiance-of-the-fall
+position: 32
+ownLength: 3508
+unit: words
+publishedAt: 2025-09-21
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2618007/chapter-1356-mox"
+royalRoadId: "2618007"
+---
+
+Reality twisted with Mox’s descent. The statue grew beyond the bounds of the hidden pocket within the Void, eclipsing the size of most worlds. Zac could no longer see the Ancient’s head through a haze of fell Karma. It was undoubtedly for the best. What he was forced to witness was already bad enough to push him to the edge.
+
+Mox’s arms had multiplied from eight to countless appendages. Just like the statue, a purgatory filled with tormented souls hung from each one. Some were blazing suns filled with the spirituality of billions of lives; others had withered beyond salvation. The trapped beings came in all shapes and sizes, and the only thing unifying them was a shared suffering that transcended Zac’s comprehension.
+
+The torture had a clear purpose. The lower half of Mox’s body was submerged in a lake of such anguish that [Soul Guardian] immediately crumbled from its reflection. Drops of tainted longevity were slowly extracted from the purgatories to replenish the lake’s loss. Madness and torment were used to scrub the captives of everything except their longevity and providence.
+
+It was also obvious that the Mousetrap wasn’t Mox’s only avenue of infiltrating the Left Imperial Expanse. Six of the purgatories differed from the rest. Zac could feel the Imperial Faith trapped within. They were each held aloft by three hands, and they were covered in extremely complex patterns. These purgatories also weren’t stripped of their essence. Instead, Mox was personally infusing something.
+
+The Hope Energy considered salvation by the Pathfinders was nothing but the unclean runoff from the process, carrying some of Mox’s accumulated sin. Each drop was a clear and blatant subversion of the Laws, and the overwhelming fell Karma was proof. Mox’s evil was different from Jalach’s. The latter’s joyful sacrifice seemed part of his path, while Mox’s malevolence was the result of extreme deviancy into heretical practices.
+
+While the madness wasn’t necessarily part of her original Dao, it now permeated her very existence. Knowing how long Mox had relied on such a ghoulish method of prolonging her life, her Heavenly Territory had probably been corrupted long ago. Zac had a feeling that her scheme to offload her Karma onto the Limitless Empire wasn’t just about avoiding Heaven’s pursuit. It was as much a way to salvage her soul before she lost her final threads of sanity.
+
+The realization didn’t stir any feelings of sympathy, and it certainly didn’t help with his predicament. A glimpse was enough to overwhelm his Soul Defenses and any protection brought by the Void. The collective madness of countless civilizations was so far beyond what Zac could endure that there was no point in fighting it. He was nothing but a bug caught in the storm, and he could feel every part of him being corrupted with horrifying speed.
+
+Zac didn’t think he’d actually been transported to Mox’s domain. The scene was a reflection of Mox’s consciousness when it descended onto the statue. However, there was no sign of the path he came from, and he could barely move under the overwhelming pressure. There was only one thing he could do. The [Nine Courts Token] appeared in one hand and the [Fuxi Mountain Gate] in the other.
+
+“Laondio Evrodok! I’m Karz’s descendant! I need help!” Zac croaked before escaping into the [Fuxi Mountain Gate].
+
+The lethal attention of the mad god was replaced by the Void and a sea of burning Imperial Faith. It gave Zac’s mind much-needed stability after being exposed to Mox’s profane path, and oily residue filled with corruption poured out of his skin to be incinerated by the Empire’s flames. The succor was destined to be short-lived.
+
+The [Fuxi Mountain Gate] remained incomplete, and it began rejecting his presence the moment he appeared. Zac resisted with all his might while repeatedly invoking Emperor Limitless, Roan, the Hollow Court’s Margrave, or anyone who’d be willing to listen. This wasn’t the time to worry about the implications of calling on Laondio and Karz during a time they were alive.
+
+Zac was ejected long before he could recover, and it turned out his desperate gambit was more than a delay of the inevitable. Mox’s true form and her lake of evil were gone, and Zac was back in the hidden hollow with Naruk and the statue. His Danger Sense had gone from indicating certain death to grave danger, and the statue’s presence had weakened by more than half.
+
+It was impossible to say whether it was name-dropping Emperor Limitless or something about the [Fuxi Mountain Gate] that made Mox back down. The Void Treasure was evidently much better equipped to resist her aura than Roan’s token. It was fine apart from its golden script of Imperial Faith being weakened by half.
+
+It was still too early to celebrate. Mox’s presence remained in the shadows, and her brief descent had triggered unwelcome changes to the hidden realm. The ambient Hope Energy had skyrocketed, and it carried a hint of Mox’s true madness. Worse, there was still no sign of the exit or his Law-infused doorstopper, and Zac could feel that the dimensional integrity was much stronger than before.
+
+Opening a new exit would be difficult, if not impossible. Mox had added a second layer of isolation, and she would pounce after confirming the coast was clear. Zac refused to let the desperate situation break his spirit. The fact that he was still alive proved there was hope, and her short descent came with a huge drain on the memory domain’s Imperial Faith.
+
+Mox’s seal seemed to somewhat stabilize the spatial pocket, except it wasn’t nearly as effective as when Roan kept Tam’s memory going by infusing more faith. Come to think of it, that could be the real reason why Mox suddenly backed down. Even if Mox didn’t know she was part of a simulation, she might have sensed that her prey would escape her grasp if she persisted. Someone like Mox must have extraordinary intuition to have survived all these years.
+
+There was still a chance his calls for reinforcements would be answered, but Zac couldn’t put his life in the hands of others at this point. His gaze turned to the statue, knowing it was the key to survival. If he could break it, the seal on space should disappear. Even if it didn’t, it might force a proper descent that pushed the memory over the edge. No matter where he ended up after the memory domain collapsed, it had to beat his current circumstances.
+
+Zac resisted the urge to unleash a Void-activated [Arcadia’s Judgment] at the platform. If he wanted to destroy the altar, he first needed to deal with its priest. Naruk’s discarnate soul was as strong as a Monarch, and he had covered his deity in a radiant barrier while Zac was hiding inside his Void Treasure. It looked extremely sturdy, and the consequences of wasting his finisher were too high. He needed to create an opening.
+
+There was no time to make a detailed plan. The Hope Energy alone was a threat to his life, and Zac could already feel madness stir. He shot forth as a haze of spores filled the chamber, but Zac’s face fell upon sensing Naruk’s powerful consciousness rush toward him through the skill’s spiritual link. Recalling his battle with Ching’Ru, Zac quickly cut off the connection to [Primal Edict]. Any slower, and his Soul and possibly Cosmic Core would have been infiltrated.
+
+If one skill was vulnerable, all of them were. It didn’t matter to near-instant skills like [Evolutionary Edge] or [Skystriker], but [Apex Jungle] and [Conformation of Supremacy] were out. Bringing out Verun for support was out of the question. The environment was even deadlier to the Tool Spirit Zac. [Empyrean Aegis] and [Arcadian Crusade] could still be brought out, if only for a short moment.
+
+Zac was essentially fighting with one arm tied behind his back, which didn’t stop his advance. [Void Mountain] and [Spiritual Void] joined forces to fill his body with Void of Death. Adding [Void Zone] already working at maximum capacity, the drain on Void Energy and Void Vigor was significant. Zac could only bear the cost as he unleashed an opening salvo of [Evolutionary Edge].
+
+The blades moved so fast they looked like flashes of lightning, yet Naruk effortlessly blocked them all with his eight arms. His hands weren’t damaged in the slightest, but Zac noted that his miniature purgatories had dimmed somewhat. The effect was negligible but provided vital information. Naruk borrowed power from the worlds, which in turn drew sustenance from the statue.
+
+Zac hoped that didn’t mean he had to drain all three to win, and there was only one way to find out. Naruk couldn’t remain unruffled when Zac crashed into him like a rampaging bull. Zac fought with the violent ferocity that only existed at the edge of Life and Death. His intense desire to live became his greatest weapon against Mox’s influence, and his desperation infected Haro through [Adaptive Symbiosis].
+
+The young vine almost went mad but thankfully remembered his training. It ceded control, and two wills harmonized into a singular purpose—the struggle for survival. Vines reeking of bloodlust unrelentingly targeted the faded worlds while [Verun’s Bite] became a dizzying blur that tried to take a bite out of Naruk’s illusory body.
+
+The brutal assault quickly forced the discarnate soul into a passive state. Zac chose that moment to suddenly integrate the Void of Death into his attacks, and his movements shifted in inexplicable ways. Zac was still slapped so hard he broke a rib when he tried to slip past the priest, and his following tests yielded similar results. Naruk could actually see through his Void-imbued technique.
+
+As disappointing as it was, it was within Zac’s expectations after learning Mox had some understanding of the Void. The good news was that Naruk couldn’t use the situation to his advantage. The soul didn’t seem to possess any skills, and his combat techniques weren’t nearly as refined as Zac’s.
+
+He was simply keeping himself above water by relying on superior speed and boundless energy reserves. That wasn’t to say he wasn’t attacking. Naruk didn’t stop his attempts at infiltration after failing with [Primal Edict]. Countless threads of evil were burrowed into Zac’s mind in an attempt to claim his soul.
+
+The grimoire was left with the clone outside, robbing the threads of their ability to move through the void. It allowed Zac to erect a barrier forged from indomitable will and Void, but it was still a losing battle. The strength of Naruk’s soul was terrifying on its own, and it was bolstered by Mox’s madness.
+
+Zac was barely holding on, but maintaining the status quo wasn’t sustainable. [Void Zone] couldn’t protect his body from the boundless Hope Energy much longer. His situation wasn’t much better than the souls trapped in Mox’s purgatories. He was being refined, and Naruk simply needed to hold out until the process was finished.
+
+There was no obvious route to a quick conclusion. Naruk wasn’t like elementals or spectral cultivators who had some form of nuclei. The discarnate soul was much like Izh’Rak Reavers, whose souls were spread through Warbones. That was both their greatest strength and weakness, and Zac had no choice but to approach Naruk the same way. The priest’s body and soul were one and the same, so any piece destroyed was a permanent loss.
+
+At least that was how it was supposed to go. Zac manipulated the pace of their duel into repeatedly trading blows. He endured palms filled with madness to let Verun take a bite out of his enemy, only to see Naruk’s worlds supplement the lost spirituality. Naruk was actually grafting pieces of trapped souls into his own to retain peak condition. Fusing souls like that should have driven him insane, yet he just kept fighting without missing a beat.
+
+Zac didn’t give up on the strategy despite its apparent futility. While Naruk was able to repair his soul, his worlds weren’t able to restock on souls at the speed they were lost. As they grew dimmer, so did the barrier protecting Mox’s statue. Zac understood that the problem wasn’t his approach; he simply needed to deal more damage.
+
+With death breathing down his neck, Zac pushed beyond his limits to overturn his fate and open a road to survival. Soon, the only thing in his head was the desire for more speed, higher precision, and greater lethality. The Evolutionary Stance’s cycle of constant reinvention moved faster and faster as desperation pushed Zac toward perfection.
+
+Naruk’s worlds were quickly dragged toward an early twilight. And with the corrupted priest being forced to divert more effort to prevent chunks of his soul from being ripped away, the attacks on Zac’s soul lessened. Zac barely noticed. He’d fully embraced evolution’s hunger as a way to stave off insanity. It filled his whole being to the point he could feel fate’s shackles slowing him down.
+
+Zac railed against his limitations, doing everything he could to overcome the lock on his potential. His instincts told him that infusing evolution’s struggle into his movements wasn’t enough. He needed to fully embody the essence of his Evolutionary Stance to bring out the full extent of his power. The realization made something click, and Zac was no longer a cultivator battling his enemy. He was a primal force, unpredictable and unrelenting.
+
+A bestial roar shook the subspace. Zac couldn’t tell whether it came from him or [Verun’s Bite]. He was consumed by the beauty of his swing as it snuck by Neruk’s faltering defenses. The impressions and memories that Mox had tried to destroy were imbued into his axe, giving its edge the ability to cut through anything.
+
+Two of the worlds floating behind Neruk directly crumbled to keep his bisected body together. Even so, the priest’s spirituality grew dimmer as evolution’s sharp fangs ripped through his body. Naruk had lost a quarter of his soul in one go. It wasn’t enough to bring the duel to an end, but Naruk’s death was never Zac’s goal.
+
+The darkness of the Void lit up with Arcadia’s splendor. Its majestic aura of holy judgment dispersed the madness and suppressed Mox’s false hope. Meanwhile, the dense patterns of [Arcadian Crusade] appeared across Zac’s skin, filling his mind with the roars of war and his body with enough power to overturn the Heavens.
+
+Arcadia’s blade burned with finality as it descended on the platform, giving the priest no time to exploit Zac’s skills. Judgment appeared before the statue in the blink of an eye, just when its protections were at their weakest. Unknowingly, Naruk had been moved more than a hundred meters away by Zac’s onslaught. After suffering the consequences of Zac’s epiphany, the spirit didn’t have the luxury to properly maintain the statue’s shield.
+
+What remained of the barrier couldn’t possibly withstand Zac’s strongest finisher empowered by his berserking skill. However, Naruk lived up to his role as a chosen zealot. His last two worlds exploded with Sacrificial Dao, and the spirit winked out of existence. The next moment, Zac felt Naruk’s soul appear on the barrier. He’d sacrificed himself to empower the shield.
+
+[Arcadia’s Judgment] crashed into the shield, and the realm was painted in blinding gold. Zac was almost knocked out cold by the wails of a million souls being reduced to ash. After seeing Mox’s domain, he knew his attack was an act of kindness. Nevertheless, the cacophony confirmed his fear.
+
+His strike was only enough to leave a shallow scar on the statue. The barrier was all but destroyed, but there was no sign of a second descent. Zac knew he had to keep going, so he activated [Empyrean Aegis]. This time, the wooden wheel stayed in place. There was nothing to interrupt its disruptive pulse, and Zac needed to channel all the skill’s energy to create a protective cocoon.
+
+The gateway to Arcadia had closed after Mox successfully endured its punishment, but the attack had created deadly shockwaves. Zac relied equally on his defenses and the Void’s hidden pathways to make it to the statue before its defenses could recover. When he arrived, his body already churned with monstrous power.
+
+Zac had already put away his weapon, and Haro had retreated into his ring. There was no point in them enduring the rampaging forces coursing through him. Zac's left arm glowed with opalescent splendor filled with possibility; his right was a desolate black hole. Cracks spread across Zac's torso to channel even more power from the fractals.
+
+There was no refinement, no sign of [Extinction Event] or [Origin Revolutions]. When dealing with a supreme existence, Zac needed to bring out an equally supreme force. Only Chaos could create the miracle he needed. And yet, Chaos eluded him. Zac desperately tried to fuse the two opposing forces, but he couldn’t actually push his hands together.
+
+Zac suddenly saw the answer in the energies about to disintegrate his arms. It was too orderly. Ironically, his increased understanding of Chaos had limited his potential. The delineated Dao of Creation and Oblivion were originally free from the influence of Man. When forced to mix with the cosmos, they were no longer pure. As such, they couldn’t return to their origin.
+
+Zac’s eyes hardened. If the energies didn’t want to play ball, he’d simply force them to. Zac extracted the last of his Void Energy reserves while [Spiritual Void] squeezed out a concept he’d never used before—the Void of Conflict. The stream of attuned Void neither entered the imploding forces of [Extinction Event] or [Origin Revolution]’s opalescent swirl. It filled the gap between the two, replacing the unbridgeable delineation with the absence of struggle.
+
+The Void of Conflict became a conceptual vacuum, effectively bringing the two forces together. Yin and Yang fused, and Primordial Chaos was born. Zac could vaguely hear the sound of shattering chains as he found the answer he’d sought in the Chaos of his making. His Evolutionary Path was the combination of purposeful design and random chance. Such a paradoxical fusion was only possible through the inheritance of Chaos. If he wanted to push his Technique to the point where even fate could be severed, he needed to infuse Primordial Chaos.
+
+An urgent scream of danger pulled Zac out from the swamp of alluring truths. The Void of Conflict had only brought the two sides together. It wasn’t nearly enough to create a stable product. The ball of chaos was rapidly spiraling out of control, becoming as much a threat to Zac as to Mox. He desperately tried to hold onto the madness he’d birthed as he pushed it into the statue.
+
+The last remnants of Naruk’s broken soul were snuffed out, and the churning ball of Chaos directly entered Mox’s chest. For a brief moment, there was only silence. Then, deep, chaos-filled cracks spread across the statue. Three arms directly exploded, and Zac was more than happy to be flung away by the shockwave. He’d delivered the payload, and his Danger Sense was going insane.
+
+Chaos was the antithesis of uniformity and direction, so the ball of Chaos instinctively railed against being caged inside the statue. The cracks across the statue quickly spread, releasing deadly waves in every direction. The vast amounts of unstable Hope Energy were the perfect fuel to perpetuate Chaos, and a storm of uncertainty swept through the hidden realm.
+
+The statue bore the brunt of the damage, but Zac didn’t fare much better. The backlash wasn’t as bad as when he smashed together the Origin Mark and Annihilation Sphere during his fight with the Qriz’Ul Goblin. He’d made tremendous improvements in every aspect of his cultivation since. The problem was that he was absolutely spent, and there was nothing left to shield him from the growing storm.
+
+Zac didn’t even have the energy to overcome the [Fuxi Mountain Gate]’s rejection. The only thing he could do was stubbornly hold on while reality unraveled. He prayed the statue would explode before he did, and that it would damage the subspace enough for him to slip out. That didn’t happen. The statue suddenly stabilized, and boundless madness poured out of its wounds.
+
+Mox had returned with double the fury, and not even Chaos could withstand her wrath. Mox rejected the memory domain’s efforts to bring an end to the scenario, and Zac was brought back to Mox’s sanctuary. He immediately realized the memory was being forcibly kept going by igniting the trapped souls of the Empire’s subjects.
+
+Zac knew it was over, but seeing the special purgatories collapse brought him some comfort. Mox had been forced to sacrifice all her stolen faith just to deal with him. Even if he lost, he’d ruined the plans of an undying Supremacy. That had to count for something, right? It was at that moment a gravelly voice echoed through the Void, and the madness was cleansed by a surging tide of devout Faith.
+
+“This fertile land is the Empire’s domain.”

@@ -1,0 +1,841 @@
+---
+id: 347449d6-fffa-59d0-8fb8-88ae44336473
+page-type-slug: story-chapter-royal-road
+title: "176: Patience"
+slug: 0176-176-patience
+partOf: delve
+position: 176
+ownLength: 5561
+unit: words
+publishedAt: 2021-12-26
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/813296/176-patience"
+royalRoadId: "813296"
+---
+
+After spending about ten frantic minutes pinballing around his soul like a squirrel that had mistaken caffeine pills for acorns, Rain returned to his body and opened his eyes. He found only Ameliah and Dozer waiting for him in the dim tent. Tallheart was nowhere to be seen, and he could hear distant voices outside. Thinking about that was secondary to making Ameliah’s worried expression go away.
+
+“You’re back,” she said, stiffening. “How is it?”
+
+Rain opened his mouth to respond, pausing to catch Dozer as the slime cannonballed into his stomach. “I learned my lesson after the last time this happened,” he said, struggling with the excited gooball. Before he forgot, he set a marker for his progress report macro, though he didn’t open his interface now to check it. “I promised I wouldn’t make you worry like that again, and I meant it. On that note, I’ll cut right to it. I’m not in imminent danger. Pretty sure.”
+
+Ameliah closed her eyes, sagging in relief.
+
+Rain managed to wrangle Dozer into his lap, petting the slime to keep him there as he continued. “That’s not to say everything’s great. The Bastion is a crumpled mess, and it’s flooded with so much chaos that I can barely feel anything outside the core room. My core itself seems to be just fine, though. Better than fine. The system did something to it, Ameliah. It’s making liquid essence directly.”
+
+“That sounds important. Is that important?”
+
+Rain shrugged. “I didn’t stick around to think about it. I’m going to need to reseal my core room, but I can’t do that until I’ve got a place for the essence. I don’t even know if my storage tanks are still there. All the avatars I could have used to check aren’t responding. There’s just one Snek that somehow ended up in my core room, and even as small as Sneks are, the way is blocked. My avatars at the Tear survived, though. Once I transferred over there to check things out, I had other things on my mind.”
+
+Ameliah nodded, listening intently.
+
+“Bad news: my paling’s torn again,” Rain said, not trying to sugar coat it. He continued quickly. “Good news: it’s not as bad as it sounds. The patch held. A bunch of cables snapped, and some anchor stations popped off completely, but it held. The rip is buried underneath all the FlexSeal, right where the single-layer section meets the rest. The flap is stuck to the bottom of the sealant plug, so the actual gap in the paling material is pretty small. I don’t even think it’s leaking.”
+
+“That’s good to hear,” a woman’s voice said from outside, the tent flap opening.
+
+“Ah!” Rain lurched halfway to his feet, raising Dozer as if to throw him at the attacker before he recognized the voice as Vanna’s.
+
+“Sorry, I didn’t mean to startle you,” she said, entering.
+
+Rain tossed Dozer to Ameliah, then looked hurriedly around for his cloak, self-conscious in his Forceweave. Past Vanna, he caught a glimpse of a distant crowd watching through the trees from the main camp, but then she closed the flap behind her. Rather than move further inside, she stayed at the entrance, hunched from the sloped ceiling and watching him with a smile.
+
+“The pulse reached the whole camp,” she said when he was settled with his cloak over his knees like a blanket. “I’m glad to hear you’ve got a lid on it. I’m also glad you’re okay. Running this company on my own doesn’t sound like much fun.”
+
+“Yeah,” Rain said, awkwardly rubbing at his neck and thanking the dim lighting from the lone candle. “Thanks.”
+
+Vanna nodded. “You gave everyone quite a scare. It’s always something with you, isn’t it?”
+
+“Sorry,” Rain said.
+
+“Don’t apologize,” Ameliah said, reaching out to take his hand. She settled it on the ground between them, giving it a comforting squeeze.
+
+Rain squeezed back. Dozer had oozed out of her lap and into his, so he began idly petting the slime again with his other hand.
+
+After a moment, he returned his attention to Vanna. Soul stuff was need-to-know, but she met that bar. Besides, she already knew most of it anyway. “I’m going back in,” he said, deciding. “You’re welcome to stay, Vanna. It might take a while, so have a seat if you’d like.”
+
+Vanna shook her head, reaching for the flap again. “I’ve got to tell everyone you’re not dead so they can get back to their party. Good idea on that, by the way.”
+
+“Don’t tell anyone he advanced,” Ameliah said. “Not yet.”
+
+“Don’t worry, Ameliah,” Vanna replied. “Rain told me to keep it quiet before you got back from the plains when he told me what he was planning. Tarny knows, as do Samson and Jamus. Everyone else seems to think Rain set up this tent so far away for…” she paused, smiling slightly as she looked at the two of them, “...other reasons.”
+
+“Of course they do,” Rain said with a long-suffering sigh.
+
+Ameliah laughed, squeezing his hand again.
+
+Rain looked up sharply, realizing something. “Wait, but I asked for Tallheart too! He was here with us the whole time! People don’t think—?”
+
+“Kettel certainly does,” Vanna said, rolling her eyes. “He’s been quite insistent in sharing his,” she cleared her throat, “opinion.”
+
+Rain groaned. Damn it, Kettel. He shook his head. He had more important things to worry about. “Where did Tallheart go, anyway? He should be here for this.”
+
+“I am here,” Tallheart said.
+
+Rain made a sound like a stepped-on parrot, spinning to face the tent wall and catapulting Dozer from his lap in the process. A quick Detection pulse revealed that the cervidian was just on the other side of the thin fabric.
+
+“Nice reaction,” Ameliah said, laughing.
+
+“Damn it, Tallheart,” Rain hissed, issuing a few more Detection pulses. In retrospect, that was the first thing he should have done before he started blathering about souls. The scans came back clear to twenty meters, so he sighed, sending calming feelings to Dozer. The slime had apparently decided that it was playtime and started bouncing up and down, eager to be launched again. Rain ignored the excitable creature, sitting again next to Ameliah. He shifted himself so he could keep glaring at the rear wall while he dragged his cloak back over his knees.
+
+Tallheart chuckled, apparently sensing Rain’s attempt to burn a hole through the fabric. “Apologies,” he rumbled. “I grew tired of sitting, and the ceiling is too low for me to stand. Go on. I can hear you. The night air is pleasant.”
+
+Rain sighed, snagging Dozer and pulling him back into his lap before he could knock over his piled armor. “That’s it. I’m going to have to put bells on his antlers or something.”
+
+Vanna laughed. “That would be hilarious if you could manage it. Anyway, I’ll leave you to it,” she reached for the flap, then paused, her expression becoming serious. “Really, I’m glad you’re okay. And congratulations on silver.”
+
+“Thank you,” Rain said seriously.
+
+She nodded, then left the tent.
+
+After a moment, Ameliah looked at him and made a shooing motion. “Go on. I think you should fix those cables. I don’t want to know what would happen if they fail, and the sooner you get things put back together, the sooner we can get you back in your shell. As much fun as it might be to use this tent for what people think we’re using it for, I’m not comfortable with you exposed like this. You’re vulnerable.”
+
+Rain nodded. “Yeah.” He licked his lips, reminded of the fact that he only had two hundred health right now. “Yeah, okay…”
+
+No resistances and two hundred health. Maybe it’s good that Tallheart’s standing guard out there…. Shit! That’s probably why he’s doing it in the first place! If the Knives are still out there and choose now to attack, I’ll be paste! I didn’t tell anyone outside this tent I’d be taking my armor off, and Vanna won’t talk, so it should be… Wait! Shit! Someone might have seen me when she opened the flap! Forget the Knives! What about the nobles!? They aren’t the brightest bulbs, but it wouldn’t take a genius to… Holy shit! Holy SHIT!! How can I be sitting here like this!? What the HELLS is wrong with—
+
+“Hey,” Ameliah said, booping him on the nose.
+
+Rain twitched, startled out of his panic. Dozer was oozing frantically around them in a circle, searching the tent for the invisible filth that had dared to threaten his King so he could scour it from existence.
+
+Ameliah smiled at Rain, raising a hand to guide a few strands of his hair back into place. “A seventeen-times Clarity modifier is no excuse for spacing out.” She stared into his eyes, then pulled him into a hug, resting her chin on his shoulder. “Don’t worry. I won’t let anyone touch you.” She returned him to arm’s length. “Now go on, pigeon-head. You’ve got work to do.”
+
+“…Right,” Rain said, letting out a ragged breath as she released him. “Thanks.”
+
+Two hundred health… How did I ever live like this?
+
+He didn’t bother sending calming feelings to Dozer this time. One more guard wouldn’t hurt, even if that guard was only a slime—an Essence Slime, rather. Yet one more thing he needed to unpack.
+
+He nodded to Ameliah, then closed his eyes.
+
+Progress Report
+
+marker_1: presilver [3061 Sowing 25 19:20]
+
+marker_2: silver [3061 Sowing 25 19:34]
+
+Span: 14 minutes
+
+Character
+
+Level: 25 -> 26 (+1)
+
+Total Exp: 2,035,829 -> 2,035,830 (+1)
+
+Tolerance
+
+Strength: 50 -> 500 (+450)
+
+Recovery: 77 -> 770 (+693)
+
+Endurance: 31 -> 310 (+279)
+
+Vigor: 114 -> 1140 (+1026)
+
+Focus: 200 -> 2000 (+1800)
+
+Clarity: 250 -> 2500 (+2250)
+
+Attribute Buff: 269 -> 2690 (+2421)
+
+Richmond Rain Stroudwater
+
+CLASS
+
+LVL
+
+CAP
+
++STAT
+
+Engine of Change
+
+26
+
+30
+
+10
+
+EXP
+
+NEXT
+
+TOTAL
+
++SKILL
+
+0
+
+73,713
+
+2,035,830
+
+1
+
+Vitals
+
+CUR
+
+MAX
+
+RGN
+
+Health
+
+200
+
+200
+
+100/d
+
+Stamina
+
+198
+
+200
+
+100/d
+
+Mana
+
+7,917
+
+35,025
+
+1.6/s
+
+Attributes
+
+0/2690
+
+EFF
+
+TOTAL
+
+BASE
+
+ACCLD
+
+MISC
+
+SYN
+
+STR
+
+10
+
+10
+
+10
+
+0
+
+0/500
+
+100.0%
+
+RCV
+
+5.6
+
+10
+
+10
+
+0
+
+0/770
+
+56.0%
+
+END
+
+7
+
+10
+
+10
+
+0
+
+0/310
+
+70.0%
+
+VGR
+
+8.9
+
+10
+
+10
+
+0
+
+0/1140
+
+89.0%
+
+FCS
+
+10
+
+10
+
+10
+
+0
+
+0/2000
+
+100.0%
+
+CLR
+
+270
+
+270
+
+270
+
+0
+
+0/2500
+
+100.0%
+
+PER
+
+10
+
+10
+
+10
+
+0
+
+0/0
+
+100.0%
+
+SPD
+
+9.4
+
+10
+
+10
+
+0
+
+0/10.0
+
+94.0%
+
+“Hsssssss….”
+
+Rain hissed in serpentine annoyance, straining to bend the beam blocking the corridor in front of him. Hardened essence resisted modification, and this beam was adamant, made to be as strong as possible. Without his Strength boosted by his ring, his will lacked the punch to soften it on any reasonable timescale, which was why he was trying to move it in the first place. He’d been in here for hours already, and he was only just getting started.
+
+Finally, the beam shifted enough for him to slither through the gap. He flicked his tongue in satisfaction, ignoring the taste of chaos. His eyes weren’t burning, at least. The miniature pair of goggles he’d made for himself saw to that.
+
+In retrospect, making his core room completely air-tight might not have been wise. The system had clearly needed access and had just as clearly taken offense at being denied. As Rain had been working, he’d spent a lot of time thinking through the messages it had sent him. Apparently, the system had provisions for cores, and even for people who’d formed them before they should have. Structures too. There, however, it hadn’t been able to make heads or tails of what he’d built. ‘Integration unknown,’ it had said. He took that to mean he’d skipped a step or twelve. It had also said...other things.
+
+For thy temerity, may the Straal honor thee in the Depths Beyond...
+
+Now that was something to be puzzled over. Rain wasn’t quite sure what the difference between a Straal and a Majistraal was, but clearly, they were related, even if the message had been mangled in translation. The so-called ‘Hybrid Interface’ was the same one that the barrier obelisk had built to communicate with him. That and the bizarre benediction all but confirmed the Majistraal were behind both.
+
+The system was fascinating. One thing he’d realized, though, was that it didn’t have much intelligence in the human sense. Like the obelisk, it appeared to operate at the level of a particularly clever set of algorithms. Intuitive, maybe even capable of learning, but not aware as such. It probably made guides and the like for that reason. It couldn’t exactly hold a conversation without them.
+
+The fact that such an automated system was still working at all was mind-boggling. With its administrators being dead and gone for three-thousand-plus years, it spoke to their mastery of whatever process they’d used to create it.
+
+Then again… ‘Error: Bone’? Come on! That’s like something I’d—
+
+Sudden pain brought Rain up short. In his distraction and the poor visibility, he’d jammed his snoot into another blockage.
+
+He let out a sibilant sigh. “Hssss…”
+
+Cleaning this all properly was a longer-term goal. Right now, he just needed to get an avatar free of the wreckage to see if any of his essence tanks had survived or—Dozer willing—his airship. He’d already been at the Tear as several versions of Stubs, but there was a limit to what he’d been able to do. To make new cables, he needed more essence, and purifying it himself without the aid of his core would take forever.
+
+“Hssssss!”
+
+Straining, Rain pushed at the blockage. In a moment of inspiration, he focused on the matter around him, and heat began rolling off his tiny form in a pretty decent imitation of Immolate. He had decided to try something new, hoping to soften the adamant for easier bending. It actually seemed to be helping, so he redoubled his efforts. There was an alarming creak, and then thick, oily chaos blasted him in the face, making him recoil in disgust.
+
+He recovered quickly, dropping pseudo-Immolate and letting the heat fade. Yes! This next room must be open to the outside!
+
+Slithering against the torrent, Rain thanked his tiny goggles for their tiny service as he pushed his way through. The chaos had changed slightly with his evolution. It wasn’t quite liquid like the essence from his core, but it was definitely thicker, and just as unpleasant as ever. Today, it tasted like burned hair, motor oil, and spoiled cabbage.
+
+Finally, Rain reached the other side of the blockage, his scales finding soggy, ruined carpet. That, plus a large fragment of wood, told him where he was. This was his room, and the wood had come from his grandfather clock. Rebuilding and recalibrating that would be annoying, but so would reconstructing the Bastion as a whole. It was a problem for later, and he didn’t spend any time being annoyed about it, as there was something else he’d left here that his senses told him was more or less intact. Struggling against the interference, he reached out to the object buried in the wreckage of his bookshelves.
+
+The sub-core came to life, glowing with a bluish light.
+
+Yes!
+
+It took a moment for Rain to dig it out, but soon, the icosahedral object was up and orbiting his head at a distance of 1d3 feet—or rather, it was trying to. He’d designed this particular sub-core to act like an Ioun stone, its behavior subconsciously enforced by that image. Given that he was currently piloting a Snek and that the sub-core had been designed on the scale of Big Bone, it looked a bit ridiculous. Like his tiny danger noodle avatar was being chased by a friendly planet.
+
+That didn’t matter.
+
+What mattered was that it was still intact and that it was full of essence. Even his core room didn’t have that much collected, given the way the chaos was leaking in and evaporating it.
+
+Rain began to dance.
+
+Even if no other tanks survived, this was a huge win. With this much essence, he could seal off his core room in a tenth of the time it would take him otherwise. Of course, he’d then have essence buildup to contend with, but given that essence was what he needed, that was hardly an issue.
+
+I can just make a pipe or something, following the path I cleared. And then—
+
+Rain stopped. In the middle of his excited wriggling, he’d seen something else, and his joy had turned to rage in an instant.
+
+He abandoned his dance, then hissed—less like a snake and more like an offended goose. His true avatar was on his bed, impaled through the chest by an adamant girder. That surely wasn’t good for his self-image, but it wasn’t what had raised his ire.
+
+In a flash, he was at the bedside. With his will, he reached for the fallen picture frame and turned it over, revealing shattered glass and the picture of Ameliah within, rotting from exposure to the chaos.
+
+That would not do.
+
+That would not do at all.
+
+The damage to the Bastion could be forgiven. It could be repaired. But this… This was personal. The system had attacked his heart.
+
+[⟬filth⟭!]
+
+The thought came from Dozer. Some of Rain’s emotions had clearly reached the slime through the King-Link, which he’d kept open so he could ask for updates on the situation outside. The time dilation meant getting the slime to understand him required even more patience than usual.
+
+Thinking as slowly as he could, Rain replied, sending his full agreement through the link. [Yes, Dozer, Filth.]
+
+He reached to the sub-core for the essence he would need. No sooner had he taken hold of it, however, did the essence twist itself out of his grasp.
+
+“Hisss!?”
+
+Rain whipped his head around to stare at the sub-core in abject shock.
+
+The sub-core shattered, and the essence within fell to the ruined carpet with a plop. Rather than splashing apart or evaporating, the glowing liquid drew itself together into a blob. The glow faded, the essence becoming transparent. Gelatinous.
+
+It quivered.
+
+[⟬clean⟭!]
+
+[Dozer!?] Rain demanded. [How the sassy FUCK!?]
+
+Midnight had passed by the time Rain returned from his soul. Ameliah had stayed with him the whole time, as had Tallheart, though he’d only reentered the tent after Rain announced he was ready to don his armor.
+
+For Rain, it had been longer than the system clock would suggest, but how much longer, he wasn’t sure. Nailing down the coefficient was a project for later. What was important now was that he’d gotten a lot done, especially with Dozer’s help. The industrious ooze was still in the Bastion, toiling away. Rain hadn’t actually checked on him since he’d left for the Tear in Big Gulp.
+
+By a stroke of luck, the airship had survived mostly intact. When Rain had re-configured the station, he hadn’t bothered to rebuild the hangar, leaving the ship moored in vacuum at the end of a long pier instead. That had placed it not completely out of harm’s way, but at least out of the direct line of the system’s wrath. Its hull had cracked, and more than half its essence load had boiled off before he’d found the leak and patched it, but he’d still been left with over two MESS. With that windfall, he’d gotten the Tear battened down quite a bit.
+
+For now, it would do.
+
+“Okay, let’s see how this goes,” Rain said, looking from Ameliah to Tallheart, seated with him in the tent. His health was still low, but a great burden had been lifted from his mind with his armor on and the visor down. He flexed an armored hand, the Malleable Ring glinting in the light of the candle sitting between them.
+
+“Remember to tell us what you’re doing,” Ameliah said, touching his knee.
+
+Rain nodded, pulling open his status. “The resistance buffs from my armor are working as usual,” he narrated. “No surprises there. I can’t even feel the weight of them. Same with the boost to Aura Synergy from my rings. If the connections to my items were threads before, now they’re like...ropes...or something. Thick ones. The King-Link too.”
+
+Ameliah smiled. “I still can’t believe you’re calling it that.”
+
+“Easier than arguing with Dozer,” Rain replied, smiling back. “Whatever the system did to my core, I think it’s better at making connections now. This probably happens to everyone, which would explain why tolerances get higher at silver. Anyway, I’ll worry about the theory later. I’m activating the ring now, starting with Strength. I’m going to try bringing it up to max.”
+
+“Slowly,” Tallheart cautioned.
+
+Rain clicked his tongue at him. “It was one time. Okay, two times, but the second time was on purpose.”
+
+Tallheart rumbled, unimpressed. “And no sudden movements when you are unbalanced.”
+
+Rain nodded. “Right. Starting with plus ten. And now twenty. Thirty. Forty. Fifty, which was my old tolerance. Sixty. Seventy. Eighty. Ninety. One hundred.”
+
+“Still okay?” Ameliah asked as he paused.
+
+Rain gave her a thumbs-up. “Peachy.”
+
+She blinked.
+
+Chuckling, he continued, raising the boost faster now. “One fifty. Two hundred. Two fifty. Two eighty-seven.” His visor was doing a great job of containing his grin, but it couldn’t contain the elation in his voice. “That’s it! All topped out!”
+
+“How do you feel,” Ameliah asked.
+
+Carefully, Rain raised an arm, concentrating on the sensation of his muscles contracting. “I feel...strong. Like, really strong, but brittle. Like I might shatter my spine if I sneeze. No pain, though. No bone fire. Gods, Tallheart, is this what it’s like for you without your armor?”
+
+Tallheart grunted. “Not even close.”
+
+“I guess it’s time for a new ring, then,” Ameliah said.
+
+“Give me a few days,” Tallheart said. “I must find a place to work away from cantankerous goats.”
+
+“Awesome,” Rain replied, suppressing a chuckle at Staavo’s expense. His cheeks were starting to hurt, and he wasn’t sure he could even blame it on stat imbalance. “I’m bringing Strength back down to…say...seventy-five? That should be safe, right?”
+
+Tallheart rumbled in confirmation, then gestured to Ameliah. “Heal him.”
+
+“Hang on,” Rain said, fussing with the ring. “There. I’m all balanced now. Seventy-five each in Strength, Endurance, and Focus, twenty in Recovery, and the rest in Vigor.” He swung his arms around, reveling in the power filling his limbs. With his Endurance and Strength matched, the brittle feeling had gone away completely.
+
+“Having fun?” Ameliah asked, watching him flail with amusement written clearly on her face. “Careful. You’ll knock the candle over.”
+
+“Yeah, yeah,” Rain said, smiling. “Okay, I’m ready. I’ll mess with Clarity later. I need to be careful until I know how bad my featherbrainedness will get. Say, Ameliah, remember that time way, waaay back when I challenged you to a race? Tallheart, you were there.”
+
+Tallheart rumbled.
+
+“I remember,” Ameliah said, chuckling as she pressed a hand to his chest. “You overdid it trying to beat me, despite having no chance, and then you tried to drink an entire cauldron of soup before passing out in my lap. Now sit still.”
+
+Rain laughed, settling his arms into his lap as the thrill of healing rushed into him from her palm. “In my defense, I didn’t have the faintest clue what I was doing back then.”
+
+“And you do now?” Tallheart asked.
+
+“Okay, ouch,” Rain said. “Good thing I’m being healed right now.”
+
+Ameliah snickered, offering Tallheart a fist, which he bumped. She hit Rain with a second Healing Word, then took her hand away, her expression becoming serious once more. She gazed into his visor, finding his eyes. “You’re not worried about the imbalance?”
+
+“Of course I’m worried,” Rain replied easily, his light tone belying just how true that statement was. “I accepted the risks months ago, though, and nothing’s changed. If I need a Focus boost to avoid chasing squirrels, so be it.”
+
+“Mmm,” Tallheart rumbled. “Perhaps you should refrain. You humans could use the meat.”
+
+“It’s just an expression, Tallheart. I didn’t mean literally chasing them. And besides. Nobody eats squirrel because they want to.”
+
+“Squirrel’s fine,” Ameliah said, laughter in her voice. “Can you imagine how many he’d need to catch, though?”
+
+Rain flipped up his visor so she could see the disgusted face he was making. Squirrel actually wasn’t bad—leagues better than most monsters—but still.
+
+Ameliah smiled, brushing a strand of hair from her brow. “You want stamina too?”
+
+“Nah,” Rain said, smiling back. “Thanks, but if you spend too much mana, I’ll have to refill you, and I want to take it easy until I fix my essence situation. I don’t want heartburn.”
+
+“So no Winter, then?” Ameliah asked.
+
+“In moderation,” Rain replied, wiggling his hand as he reached for the spell. Mercifully, his macros had survived the silver evolution. At his call, Winter configured itself according to its active macroset, which was winter_solo_passive. A flick of will brought up the debug output, and he moved the display next to his open status so he could see both at once.
+
+macroset winter_solo_passive
+
+Using Winter with:
+
+Amplify Aura
+
+Extend Aura
+
+Channel Mastery, Multiplier: 2.00
+
+Aura Compression, Reduction: 65.00m
+
+Winter Multiplier: 30.90
+
+Winter Adder: -4320.00 mp/day
+
+Winter Range: 0.00 m
+
+Richmond Rain Stroudwater
+
+CLASS
+
+LVL
+
+CAP
+
++STAT
+
+Engine of Change
+
+26
+
+30
+
+10
+
+EXP
+
+NEXT
+
+TOTAL
+
++SKILL
+
+0
+
+73,713
+
+2,035,830
+
+1
+
+Vitals
+
+CUR
+
+MAX
+
+RGN
+
+Health
+
+1,700
+
+1,700
+
+300/d
+
+Stamina
+
+202
+
+1,700
+
+520/d
+
+Mana
+
+35,604
+
+39,525
+
+49.7/s
+
+Attributes
+
+287/2690
+
+EFF
+
+TOTAL
+
+BASE
+
+ACCLD
+
+MISC
+
+SYN
+
+STR
+
+85
+
+85
+
+10
+
+0
+
+75/500
+
+100.0%
+
+RCV
+
+16.8
+
+30
+
+10
+
+0
+
+20/770
+
+56.0%
+
+END
+
+59.5
+
+85
+
+10
+
+0
+
+75/310
+
+70.0%
+
+VGR
+
+46.3
+
+52
+
+10
+
+0
+
+42/1140
+
+89.0%
+
+FCS
+
+85
+
+85
+
+10
+
+0
+
+75/2000
+
+100.0%
+
+CLR
+
+270
+
+270
+
+270
+
+0
+
+0/2500
+
+100.0%
+
+PER
+
+10
+
+10
+
+10
+
+0
+
+0/0
+
+100.0%
+
+SPD
+
+9.4
+
+10
+
+10
+
+0
+
+0/10.0
+
+94.0%
+
+Smiling, he spoke, working through the math. “I have two hundred seventy Clarity, times the base rate of ten, times three for Intrinsic, times seventeen from Engine of Change is one hundred thirty-seven thousand seven hundred mana per day. I also have eighty-five total Focus at the moment, so times the base rate of twenty, divide by four from Synergy, times three for Intrinsic, is one thousand two hundred seventy-five. My macro is telling me that Winter is giving a multi—”
+
+“Rain.”
+
+“—hirty point nine, so add the first two and multiply the sum by that for four million two hundred ninety-four thousand three hundred twenty-seven point five mana per day. Subtract the daily cost of Winter, which is four thousand—“
+
+“Rain!”
+
+“—dred twenty, and you get four million two hundred ninety thousand and seven point five mana per day. Converting to mana per second, that’s...forty-nine point...six...five...two...eight—mmphHH!”
+
+“Rain,” Ameliah said sweetly, her hand pressed firmly against his mouth. “There is such a thing as too much math.”
+
+Rain grinned at her as she took her hand away. “You take that back.”
+
+Ameliah rolled her eyes. “I know you’re just messing with us, but come on. Nobody cares about that level of detail.”
+
+“I wouldn’t be so sure about that,” Rain said with a knowing smile.
+
+“Mmm,” Tallheart rumbled.
+
+Rain chuckled. “Anyway, sorry, you’re right. I shouldn’t be messing around. It’s late.”
+
+Tallheart gave him a flat look. “Early. Late was three hours ago.”
+
+“Right you are,” Rain agreed, looking back at his status. His mana was already full, so he deactivated Winter as he continued. “I should sleep, but before that, there are two more things I want to do. First, an essence exchange. Hang on a second.” He held up a finger, then reached along his link to Dozer. [Hey, buddy. It’s big squeezy time. Make sure you’re re—]
+
+There was an abrupt pop, then a splatter.
+
+Dozer landed on the dirt between them, barely missing the candle.
+
+“That works too,” Rain said without missing a beat, not even surprised at this point. [How are you doing that!?]
+
+Dozer happily popped a few bubbles in a non-answer before oozing into Ameliah’s lap. She shook her head slowly, stroking the slime while wearing a bemused expression.
+
+Tallheart blinked. “At least you did not have to sneeze him into existence this time.”
+
+“The less we talk about that, the better,” Rain said. “Anyway, I’m doing the essence exchange now. Here goes nothing.”
+
+Before he could psych himself out, he triggered the process, then gasped.
+
+“What?” Ameliah asked, her eyes widening slightly. “Did something go wrong? Are you hurt?”
+
+Rain shook his head, the sudden sense of Ameliah and Tallheart’s presence vanishing almost as swiftly as it had come.
+
+Okay. Okay, so...that was definitely linksight. My paling must have flapped open for a second there. He listened, hearing nothing from beyond the tent save a few distant snores. There had been no screams. Either the oversoul wasn’t as intense that time or the range was shorter. I’ll have to test it later.
+
+“It was Linksight,” he said, looking up before his friends could prompt him. “I felt the two of you in my party when I triggered the exchange, but now...nothing. I think my paling opened up for a second, then closed again. Hang on, I’m gonna go make sure the cables are okay.”
+
+He closed his eyes, not waiting for their response as he focused on his breath. To speed things up, he reached out to Dozer, who’d managed to fall asleep in the two minutes that no one had been paying attention to him. With the aid of the slime’s sleepy non-thoughts, he was inside his soul within thirty seconds, then at the Tear not a second later. A quick inspection revealed no further damage. The cable gauges showed that there had been some strain, but the needles had returned to nominal. His barometers reported much the same.
+
+He returned to his body, quickly filling in the others before summoning his keyboard to type himself some reminders.
+
+Todo: Schedule essence exchange, observe within soul.
+
+Todo: Test essence exchange with unawakened around, verify oversoul.
+
+Todo: More cable reinforcement. Maybe do this one first. Think about it.
+
+Todo: Make a porthole. Will linksight function if I make the essence clear? Will works that way. Promising.
+
+Todo: Make an iris. Oversoul on command.
+
+Question: How is oversoul controlled from outside the soul? Can I get system access now that I’m silver? Test at core. Test at paling.
+
+“You know,” Tallheart said to Ameliah, scratching at the base of one of his antlers, as Rain continued typing furiously, “I have met many strange humans, but I believe he might just be the strangest of them all.”
+
+“I won’t disagree with you,” Ameliah said, smiling.
+
+Rain wiggled his fingers at them, dismissing his keyboard. He set a fresh marker, then summoned a verbose progress report, whistling in appreciation of what he saw.
+
+Progress Report
+
+marker_1: silver [3061 Sowing 25 19:34]
+
+marker_2: s1 [3061 Sowing 26 02:49]
+
+Span: 7.2 hours
+
+Character
+
+Total Exp: 2,035,830 -> 2,036,178 (+348)
+
+↳Stamina Use: 6
+
+↳Mana Use: 342
+
+Skills
+
+Extend Aura: +21 exp
+
+Winter: +4 exp
+
+Intrinsic Clarity: +342 exp
+
+Amplify Aura: +61 exp
+
+Detection: +105 exp
+
+Channel Mastery: +30 exp
+
+Intrinsic Focus: +342 exp
+
+Magical Synergy: +342 exp
+
+Aura Synergy: +32 exp
+
+Aura IFF: +120 exp
+
+Aura Compression: +1 exp
+
+“What now?” Tallheart asked.
+
+“I just checked my experience gains from the essence exchange,” Rain replied. “I leveled three times.”
+
+Ameliah did a decent Dust impression. “You did not,” she scoffed.
+
+Rain beamed at her. “Okay, yeah, not even close. I was just surprised by how many skills got experience. I’ve been so focused on what new ones I want to take that I almost forgot about all the stuff I already had. They can get to fifteen now, and some of them...I’m not sure what’s going to happen.” He pointed at the list they couldn’t see. “Aura IFF, for example.”
+
+“Mmm, the negative thing,” Ameliah said. “I doubt it will work that way, given that Channel Mastery doesn’t. I suppose we’ll see.”
+
+“You will take Prismatic Intent, correct?” Tallheart asked, interrupting Rain’s reply.
+
+Rain nodded, glancing at him. “That was the other thing I wanted to do before I called it a night, but…”
+
+He looked at the list of experience numbers again. There were a lot of skills there, and he’d barely done anything. Just his normal usage was going to be a strain until he sorted himself out. On that note, he activated Purify at half power, confining it to the tent and holding the spell until the urgent signal from his bladder vanished. He swore he could feel the experience flooding in.
+
+That need settled, he looked up, receiving his friends’ appreciative gazes. “I think I just reconsidered. Even if we’re not traveling tomorrow, I’ll be using mana on this and that, and I don’t want to risk adding something new. Not yet.”
+
+“Come again?” Ameliah asked, gratitude turning to incredulity. “I mean, I agree that that’s the smart thing to do, but you’ve been drooling over Prismatic Intent since you learned of its existence. Multiple auras at once! You’re telling me that you’re sitting there, with a free skill point, able to take it right this instant, and you’re going to wait!?”
+
+Rain chuckled. “I know, right? Sometimes, I even surprise myself.”

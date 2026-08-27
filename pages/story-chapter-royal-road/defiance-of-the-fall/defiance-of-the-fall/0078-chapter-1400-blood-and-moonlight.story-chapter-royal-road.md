@@ -1,0 +1,127 @@
+---
+id: 10b16562-cd53-5261-bf6e-5841228ec69c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,400 - Blood and Moonlight"
+slug: 0078-chapter-1400-blood-and-moonlight
+partOf: defiance-of-the-fall
+position: 78
+ownLength: 3082
+unit: words
+publishedAt: 2026-01-22
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2968792/chapter-1400-blood-and-moonlight"
+royalRoadId: "2968792"
+---
+
+The greed of man greeted Zac the second he emerged from Esmeralda’s spatial pocket. It wasn’t dense enough to influence Zac at its current density. If anything, it lent a helping hand. Their enemies thought they could use the moonlight to expose hidden threats, but both Esmeralda and Idiche had ways to elude their senses. With that false sense of security and Zac acting as a decoy, they would be less likely to notice a problem.
+
+Zac was confident that Idiche would live up to her promise so long as she reached the Hall of Abundance, though not for the reasons she believed. He had faith in the gathering winds rather than in her personal capabilities. It had become increasingly obvious to Zac and Esmeralda that the power slumbering within the Vice Guild Leader of the Explorer’s Guild wasn’t a random soul sliver reincarnated into an Outer Disciple.
+
+Idiche should be the next generation’s Sevona.
+
+As Esmeralda said, letting Idiche take the Divine Core would lead to the resurrection of an ancient goddess. Zac had agonized over whether this was a good or bad thing since first suspecting Idiche’s true identity. Would her awakening play into the goals of the invaders? A newly ascended goddess might not be in control of her power, and the process could create an opening for the other side.
+
+Seeing the powerful entity’s urgent attempts to intercept their approach left Zac leaning toward the belief that this was not the case. Furthermore, Idiche might be the Mercurial Court’s hidden weapon against the otherworlders. Zac even suspected her second identity was the reason why the Eighth Elder had taken Idiche as a disciple in the first place.
+
+A talent of the outer courts would be considered a Heaven’s Chosen wherever they went, standing head and shoulders above any random Peak Hegemon of the Empire. At the same time, her abilities weren’t at the level that should draw the attention of a figure like Elder Istazh. The ten strongest cultivators of the Mercurial Court had to be extraordinary Autarchs.
+
+And yet, Elder Istazh had taken such keen interest, even outfitting Idiche with priceless artifacts. The secret discipleship was the elder council’s way of influencing the course of events without breaking whatever restrictions kept them in check. Letting Idiche absorb the Divine Core would end the hunt early and undo the island’s seal, all while foiling the enemy’s plans.
+
+Zac’s instincts told him there was an even deeper plot at play. Esmeralda’s comment when they stepped into the lodge kept ringing in his ears. Sevona’s divinity held trace energies similar to those of the Eternal Guardians. Or rather, it held traces of the Stellar Wanderers, one of the Ancient Arcana—the very same Ancient Arcana whose Dao-transcending nature acted as the foundation for the Omnipresence Chamber.
+
+The invaders wanted Sevona’s divinity to ensure they were the ones to survive when the dream ended. The Mercurial Court probably wanted Sevona to reinforce the weakening barriers between the Omnipresence Chamber’s timelines. Zac had been swept up in an existential struggle for survival. Winning meant extraordinary rewards. Directly gaining access to the [Second Singularity] wasn’t out of the question.
+
+Of course, that was provided he survived the next hurdle.
+
+“There he is. The prodigal son,” Kaltosa Lu smiled as Zac stepped into the war-torn lobby.
+
+His arrival was met with mixed reactions. The remaining invaders tensed upon seeing another threat step into the ring while the newly arrived Monarch bristled in anger. Traces of Zac’s Abyssal Death were still all over the lobby. It was impossible to miss Zac’s involvement in the deaths of his companions. The Monarch only held himself back because of Descartes calmly standing to his side. The Monarch wouldn’t move until his leader conveyed his intentions.
+
+“You could have given me a heads-up, you know?” Kaltosa Lu sighed as if there were no one else there. “You almost cut me in two just now.”
+
+“How was I supposed to know you’d hidden yourself inside his body? In fact, how are you even here?” Zac countered while drawing closer.
+
+The Elemental’s words were an unwelcome reminder he’d been given a front-row seat to Zac’s hidden abilities. He couldn’t help that more and more people knew about his ability to control Void Energy, but very few truly understood what that meant. The ability to instantly activate skills with [Force of the Void], and that doing so would bypass most barriers, was one of his most tightly guarded secrets.
+
+That was something Zac only exposed when going in for the kill. You could say he’d lowered his guard to deal with these figments of the past because he’d never have expected a fellow trial taker to be hiding right next to him. Consequently, Kaltosa Lu knew about [Force of the Void], which would come back to bite him in the ass one way or another.
+
+The Elemental had already managed to expose most of Zac’s abilities while hunting him for days on end. Figuring out a plan against the scheming Elemental simply wasn’t possible. Since that was the case, Zac would have to go in the opposite direction. He’d throw the hunt on its head and ruin everyone’s schemes. From there, he would seize victory in the chaos.
+
+“If there’s a will, there’s a way. That’s just as true for life as it is for love. And with fate’s rising tide, the needed performers will be swept into the heart of the storm. We’ll—HEY!” Kaltosa Lu exclaimed with genuine surprise when Zac turned into a blur.
+
+Four warriors were cut down by Zac’s axe despite being on guard. Zac emerged from a mist of blood, now wielding a justiciar’s cloak and standing three meters tall. He’d activated three skills at once: [Inexorable Subjugation], [Arbiter of the Abyss], and [Fatehew]. The first slowed down the targets the instant his chains were within reach, the second redirected their counters just enough to create an opening. The last one seized the moment and sealed their fates before Descartes or the Monarch could react.
+
+“Bastard!” the wounded Monarch roared.
+
+He no longer waited for Descartes' go-ahead, disappearing before Zac could target a second clump of recovering soldiers. The C-grade leader appeared before Zac in the blink of an eye. It wasn’t rapid movement but true teleportation. Zac sighed upon confirming his opponent was a Spatial Cultivator, and speed wasn’t his only weapon.
+
+Zac felt as though the dimensional fabric had shrunk around him to create a suffocating cage. The spatial prison was powered by the Monarch’s C-grade energy and stabilized by the weight of his Inner World. Kaltosa Lu conjured a series of arrays meant to countermand the effect, but the array disks were torn apart by a swipe of Descartes’ hand. The Elemental found himself stuck in a cautious exchange where two experts looked for gaps in their opponent’s path.
+
+Zac was left to deal with the assault on his own, and the spatial restriction wasn’t one that raw power could overcome. Using the Void to break free was premature. Since dodging wouldn’t work, he would simply have to endure the strike. It was a decision Zac started to regret the moment a small black ball shot out of the Monarch’s sleeves.
+
+It crackled with barely contained Spatial Energy, though what little it leaked was promptly sucked back inside. The Spatial Cultivator had actually been growing a fake black hole, relying on its energy-hiding characteristics to avoid detection. It resulted in a similar advantage to when Zac relied on [Force of the Void], where he had to deal with a fully charged skill appearing out of nowhere.
+
+The black hole tore through the four chains and the urgently activated [Profane Proxy]’s barrier. Zac managed to divert nearly half the force by combining [Arbiter of the Abyss] and the pygmy wielding the force-shifting black wind. That left him with a final layer of protection; the breastplate formed by [Love’s Bond]. Its defenses had sharply risen since its upgrade, and Zac believed it capable of resolving most of the remaining threat.
+
+Perhaps arriving at the same conclusion, the Spatial Monarch didn’t give Zac the opportunity to find out. Zac cursed when the black hole suddenly disappeared in a small ripple. The next moment, he was wracked with intense agony. The attack had performed a short-range teleportation, narrowly passing Zac’s armor to strike at his guts on the other side. It tore through flesh and viscera, heading straight for his Duplicity Core.
+
+Zac desperately fought back against the spatial collapse headed for his Core. [Adamance of Eoz] woke with a defiant roar, turning his energy into an enduring wall. Death, Conflict, and even Life worked in concert with his Hidden Nodes to exhaust the attack. Zac was left with a nasty crater in his stomach, but the attack failed to reach his Duplicity Core.
+
+The scream of danger didn’t wane from enduring the attack. It only grew louder. His opponent was hot on his heels, turning into a mesh of figures striking from every direction. It made no difference that each attack only held a fraction of the black hole’s force. They were more than strong enough to cause injuries, thus demanding a proper response.
+
+Zac squeezed out every drop of clarity that the roaring Killing Intent could provide, manipulating the trajectories of countless strikes with the help of [Arbiter of the Abyss]. The spectral chain wound around his left arm was poised to strike, but Zac failed to catch so much as the Monarch’s shadow. The few opportunities to strike were hidden traps where the Monarch intentionally exposed a weakness. There’d be a spatial chasm or similar barrier to render his attack useless while Zac was left exposed to a lethal counter.
+
+Enduring a few more blows wasn’t a problem. However, each hit required him to pay a price, and the suffering wouldn’t bring him closer to turning things around. Instead, Zac would be pushed toward an unredeemable situation. Zac was facing a textbook approach of how a speedster dealt with a tank. It was a process of whittling down, dismantling defenses one after another.
+
+Outside help arrived in the form of a chorus of agonized screams. More than half the remaining soldiers fell to their knees, desperately clawing at their throats. Kaltosa Lu had his hands full dealing with Descartes’ forceful charge, but he was not too busy to spread some deadly toxin into his surroundings. Zac’s opponent’s eyes bulged at the scene. He briefly paused, seemingly considering whether he should take out the Elemental before he caused more harm.
+
+The window had appeared. Oblivion and Inexorability fused into an unstoppable force of annihilation. It coursed through Zac’s arm and into [Death’s Duality], forming a small edge of utter darkness. The blade cut through falsehoods and severed space, even destroying the thought of resistance. The Monarch, distracted by Kaltosa Lu and then affected by [Extinction Event], had slowed down a pace.
+
+Space split, but a pained grunt came from Zac as he was yet again thrown away like a ragdoll. The Monarch had deftly dodged [Extinction Event] and launched a counter of his own. Zac had only barely managed to contain its force to avoid lethal harm. Zac drew a hacking breath, enduring the stabbing pain. It was a small price to pay to achieve his goal.
+
+The Monarch thought Zac had underestimated their skill, but the only one being underestimated was Zac. He knew his Oblivion-powered attack would never strike home. How could such an experienced warrior be distracted just by having a few subordinates die? His demeanor since stepping into the lodge was yet another trap, one Zac willingly stepped into. The expenditure of Oblivion Energy was regrettable, but it was also the best way to make Zac’s attack seem real.
+
+Zac had already seen through his opponent’s rhythm and begun subtly manipulating the flow of battle using his Inexorable Stance. At the very last moment, he’d blocked most avenues to counter [Extinction Event], leaving the Monarch with only one option. The attack provided the momentum Zac needed to reach the azure seal blocking the Hall of Abundance.
+
+Before now, the Monarch had kept Zac contained at the center of the lobby, preventing him from opening a path to his hidden companions. His wounds were the necessary price to open a path to the Divine Core.
+
+The Spatial Cultivator realized the problem in time. His lack of information resulted in the wrong response. When the Monarch tried to stretch and twist space in an attempt to drag Zac back to the center of the lobby, a sphere of nothingness erupted with Zac as the nucleus. [Void Zone] quelled space and allowed Zac to pass right through.
+
+A second, stronger eruption of annihilation appeared on Zac’s blade. It crashed into the shimmering seal before the Monarch could catch up. A huge chunk of moonlight was consumed, but enough remained to keep the seal intact. The follow-up palm strike finished the job when a tear was blasted wide open with the help of [Void Mountain].
+
+Suddenly, Zac saw it in the distance; the Divine Core, floating in the middle of a large rotunda. He almost felt as though it was looking back at him, and the attention filled his mind. He only vaguely sensed a rush of wind passing him by before the azure seal patched itself up. Just before it fully closed, a shockwave filled with sorrow rushed out from the lodge's depths.
+
+The next second, Zac found himself shoulder to shoulder with a very surprised pair of attendants. Around them were more than fifty hunters who frowned at the sudden disruption to the opening reception. Having already experienced this situation before, Zac acted before anyone else could.
+
+“Enemy attack!” Zac roared, coughing out a mouthful of Miasma for improved effect. “Enemies full of corruption. They’re trying to sully our holy grounds!”
+
+The crowd was slower to react than Zac had hoped, but it turned out that there was no need to rely on the illusory hunters. The grand foyer, now in a pristine state and teeming with Sevona’s benevolence, sensed the existential threats hidden within the invaders. Scorching sunlight poured through the grand window, and a dozen screams erupted through the hall.
+
+Among them was the Spatial Cultivator. He was helpless before the holy light’s angry glare, and there was nowhere he could teleport to avoid his judgment. In contrast, neither Kaltosa Lu nor Descartes were affected. Zac first thought they’d gained passage by finding items similar to the dagger, but a vibration from his pocket hinted at a different theory.
+
+Zac noticed a slight drain of Imperial Fate from one of the Elemental’s arms while Descartes gripped a very familiar object. He possessed an item almost identical to the [Court Cycle Token]. Like Kaltosa Lu, he was paying Imperial Merit to change his destiny, seizing the fate of an ally in the eyes of the lodge.
+
+Descartes wasn’t content simply surviving the purge. He threw out an old banner emblazoned with the crest of Sevona’s Kingdom. It collapsed into dust before Zac had the chance to intercept, and the whole illusion collapsed. Zac went for the second-best option, striking at the dying Monarch to secure the kill.
+
+Holy flames already raged within him, and spatial tears leading to a burning world surrounded him. Zac pushed his hand inside and activated [Deathmark] to release a stationary cloud of corrosive death. His other hand followed up with another swing of [Fatehew], aimed straight at the Monarch’s head. He was cut in two, and his very soul was lacerated by the skill’s spiritual blade.
+
+Still not done, Zac finally dropped one of his remaining [Cherry Nuts] before retracting his left hand from the spatial tear. It was the same approach that Ogras adopted to finish off the competition in Dipper Seven. It was crude, but Zac didn’t have a lot of options. His Draugr Class had very few abilities that could directly target an Inner World. Beyond [Desperation’s End], there wasn’t anything particularly impressive.
+
+Zac’s mind screamed of danger, and he kicked the man away. The spatial cultivator had already lost consciousness from the pain, and he put up no resistance as he was flung against Descartes. The outsider merely scoffed and threw a punch at the incoming projectile. Even the force from the Monarch’s crumbling Inner World was suppressed by the punch.
+
+The pitiful C-grade Spatial Cultivator drew his last breath before his whole body exploded, his own boss delivering the finishing blow. Zac looked around and realized only two Hegemons remained alive. Both would be dead within the minute without divine intervention.
+
+“Just about there,” Descartes muttered, not the least perturbed by suddenly standing alone against two formidable foes.
+
+Zac got a sinking feeling when Descartes threw out a dozen more corpses, including those of two Monarchs reeking of corruption. Another was a familiar face. It was the sealbearer who’d killed off their own clone, the man with seven illusory swords whom Zac later met at Astora’s mansion. It looked like his luck had finally caught up with him.
+
+Why was Descartes doing this? Was he showcasing his work to prove that they were on the same side? It didn’t seem like that was the case, and even Kaltosa Lu had gained a solemn expression as hundreds of Array Disks appeared in the sky. Something was wrong.
+
+“Did you think I had sold my soul to these pitiful natives? Do I look like someone who would blindly swallow Ultom’s toxic truths? People stuck in these remote corners of the Empire truly lack discernment,” Descartes scoffed.
+
+“Trying to jump ship now that your subordinates are down?” Zac countered, his eyes roving back and forth in search of threats.
+
+“Believe what you will. I would have upheld my agreement with the creatures of the false timeline if they were more competent. What’s it to me which side wins? I’ll return to the capital when I’ve achieved my goals. But they’re floundering before we could even begin to strike at the Theomore’s hegemony,” Descartes said, his smile widening as he gazed toward the Hall of Abundance.
+
+“It doesn’t matter. My agreement was with Lord August, and I believe he’s about to uphold his side of the bargain.”
+
+The name hit Zac like a sledgehammer, and his eyes widened in horror as he spun around. A second energy signature had appeared inside the Divine Core, one all too familiar.

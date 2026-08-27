@@ -1,0 +1,155 @@
+---
+id: 9cc82fd9-d0d2-5681-8b74-ec99c93afcce
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 21"
+slug: 0180-b3-chapter-21
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 180
+ownLength: 1535
+unit: words
+ownProgress: 1535
+publishedAt: 2024-07-09
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1711256/b3-chapter-21"
+royalRoadId: "1711256"
+markedReadAt: "2026-06-29T19:11:50.218Z"
+---
+
+Aria
+
+After that little fiasco, the pharaoh takes me out of the flagship towards my new ship, giving me a better look at it from the window I’m staring out of.
+
+My new ship is wider on the rear half of it than the front half, with two additional segments sticking out from the rear half going parallel to the front half. Albeit not as long. Meanwhile the back half is more of a diamond shape attached to the front rectangular shape. And the back half also gets taller in segments until the bridge located at the very top back of the ship.
+
+The ship also has quite a few visible weapons just like the implication the pharaoh made when he called it a battleship. With the engines being at the back of the ship, and what looks like sealable docking spaces in the front half and on the bottom of the ship.
+
+Overall, the ship is a beautiful thing. An incredibly beautiful thing.
+
+After we enter the ship, the pharaoh takes me around and shows me all of the important places. Including the engine room, the core room meant to power the ship’s electricity, weapons, and lightspeed engine, the cafeterias. Yes. Plural. The cabins, particularly my own. The bridge, and so on.
+
+To my surprise though, there isn’t a single person on the ship other than us. And according to him, the ship can be operated by a single person. Although it will need to stop once every so often at a docking station for a checkup. Just to make sure everything is still running smoothly. And it would run better with other people operating it than just me.
+
+Don’t want to end up stuck in the middle of space after all. Because that would be annoying.
+
+Once he finishes the tour, he gives me a deep bow, a smile, and a farewell. Then he leaves me and Shirogane on the ship.
+
+I turn to look at Shirogane, who hasn’t really said much of anything since I first met the pharaoh. And he just shrugs, saying, “Guess we won’t be using Gates anymore.”
+
+“Yeah,” I mutter while turning to look at the command controls in the bridge flowing in the form of a screen in front of the commander’s chair. My chair. “Well, time to figure out where to go.”
+
+After a brief second, I glance at Shirogane before asking, “Any suggestions?”
+
+He steps up to me and the control panel before reaching over, his face frosting over and turning emotionless again the moment he gets within a few inches of me. Which surprises me for a moment. Especially since I’m pretty sure I saw his face heating up a little and blushing when he got close before he switched off his emotions.
+
+Odd.
+
+But whatever. Probably just my imagination or something.
+
+Anyways, he quickly points out several different worlds. All of which are either Alpha or Beta Tier worlds with at least one Hunter’s Spot that he believes would be willing to give me immigration rights and rights to their Hunter’s Spots. And out of the ones he picks, I end up choosing a mercenary world that’s currently in the middle of a civil war. With two different powerful mercenary groups fighting over control of the world.
+
+The world is an Alpha Tier world with plenty of Hunter’s Spots all over it, and quite the number of mercenary companies. Most of which are smaller than the two large ones, but not all of them are.
+
+After selecting the world – a volcanic world covered in a lot of lava and volcanoes called Vulcan – the ship itself beeps and a slightly monotone, male voice echoes from the speakers in the bridge.
+
+|Destination set. Charting route… route charted. Welcome aboard, Lady Death. Please select a designation for your ship, then the journey will begin.|
+
+Oh. Right. The pharaoh did mention that the ship had an AI to run most of the automated stuff for me.
+
+But… a designation?
+
+“What do you me-” I begin, only for Shirogane to tap my shoulder, bringing my gaze to him.
+
+“It means for you to name the ship,” he says, answering my unfinished question.
+
+A name…
+
+I’ve never been particularly good at naming things.
+
+Then again, I do feel pretty good about my name for Asher.
+
+I glance at the cat currently running around the bridge without a care before refocusing on the screen again.
+
+But naming a ship is entirely different.
+
+“You can probably ask the AI for name suggestions,” Shirogane comments, clearly recognizing the struggle on my face.
+
+I meet his eyes for a second before shrugging and focusing on the screen again while saying, “Do you have any suggestions, ship?”
+
+|List of suggested names include Death’s Hand, the Crimson Flight, or the Crimson Terror.|
+
+Huh… too many things with crimson in their name. Crimson Empire, Crimson Flag, Crimson Eternal, Crimson Crimson Crimson.
+
+“Let’s go with Death’s Hand,” I state with a nod, my decision made.
+
+At the end of the day the name of the ship doesn’t really matter that much anyways.
+
+|Understood. Designation of the ship has been set to Death’s Hand. Please choose a designation for this unit.|
+
+I blink at that before muttering, “What?”
+
+|Please choose a designation-|
+
+“No, I heard that,” I state while crossing my arms. “You want me to name something else now?”
+
+“The AI wants a name,” Shirogane states, clearing up the confusion.
+
+So that’s what it meant by ‘this unit’? Why didn’t it just say so?
+
+This is starting to remind me of when I first went to Eternus and had to adjust to the technology and lingo they used there. All of which was new to me.
+
+Wasn’t a particularly fun adjustment period.
+
+But… a name for the AI? From what the pharaoh told me, an AI means an Artificial Intelligence. An intelligence created by humans. Although the ones made by the Rex Dynasty of the Dead are apparently far more advanced than the AI from other nations. With the one I was given even more advanced, and also in every single one of the ships the pharaoh made for me.
+
+So even if this ship is destroyed the AI will still be with me.
+
+And this AI is so advanced that it’s even begun advancing into an evolved intelligence. One that goes beyond just its mere coding and has real intelligence. Like a human.
+
+Of course, still with the locks on what it can do to make sure it doesn’t go wild.
+
+But a name for it…
+
+To my surprise, a name comes to mind right away.
+
+“I’ll call you Crimson,” I state with a smile on my face.
+
+|Understood. This unit’s designation has now been set to Crimson. It is a pleasure to meet you, Lady Aria.|
+
+“Just call me Aria,” I tell it while waving a hand. “Lady Aria sounds too stuffy for my tastes. And reminds me of the fanatics.”
+
+|Understood. Aria.|
+
+“Better,” I state, my smile growing a bit.
+
+I notice Shirogane backing up a little as the emotionless mode turns off and he avoids looking at my face a little for some reason. But I ignore that.
+
+|Notice to all passengers. Please take your seat as the Death’s Hand will soon be entering hyperspace.|
+
+I take my seat, and Shirogane chooses a random seat in the bridge and sits down as well while pulling out his phone again.
+
+Then the ship turns rather quickly to face away from the massive metal planet before a crimson energy begins to coat the exterior. One that passes over the ship faster and faster until I can no longer see outside.
+
+|The ship is now in hyperspace. Beginning to traverse the routed course to the planet known as Vulcan. The trip is estimated to take five minutes.|
+
+Well that’s a fast trip.
+
+Especially considering how far away the planet is from this one.
+
+The ship suddenly begins moving. And when it does, it moves so fast that I feel myself being pushed straight back against my chair, making it very difficult to move for several seconds. At all.
+
+Then I slowly begin to regain the ability to move again.
+
+|You may now move again. A secondary warning will be given out when the ship is about to arrive to warn you to retake your seats. Please enjoy the trip.|
+
+I undo the seat belt on my seat before standing up and stretching a little, briefly noticing Shirogane’s eyes moving towards me in the process from his phone before they flicker back to the phone again. And it’s at this point that I’m starting to wonder if he’s developing feelings for me or something. Considering everything that I’ve noticed in the past like hour or so.
+
+But that’s probably not the case. He’s just not the type.
+
+He probably just looked since I moved or something.
+
+Anyways, I step a bit closer to the balcony of the bridge looking out over the other, currently empty seats in front of a bunch of monitors. Monitors that are acting on their own through Crimson.
+
+Alright.
+
+Time to see the next world on my journey.
+
+This’ll be fun.

@@ -1,0 +1,681 @@
+---
+id: 1e6c0c47-aa6a-5dbe-b9d9-c1f4cf1be285
+page-type-slug: story-chapter-royal-road
+title: "189: Unveiled"
+slug: 0189-189-unveiled
+partOf: delve
+position: 189
+ownLength: 4240
+unit: words
+publishedAt: 2022-04-17
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/887887/189-unveiled"
+royalRoadId: "887887"
+---
+
+Almost there. Come on. Here we go.
+
+Rain kept his focus on the edge of the pipe, his goggles shielding his eyes from the fog of essence rushing out past him. He’d been building it for well over a week at this point, like some sort of obsessive-compulsive tubeworm. Before that, it had been endless trips back and forth on Big Gulp. The drudgery was getting really old.
+
+Are we there yet? Are we there yet? Are we there yet?
+
+Gods, I’m losing it...
+
+Wiping the condensation from his goggles, Rain looked up, then did a double-take. A grin blossomed across his face.
+
+Through the mixed cloud of chaos and essence belching forth from the pipeline, he could clearly make out the dark line of his patch against the blue sea of his paling.
+
+He was there.
+
+Oh, thank Dozer!
+
+He looked down at the pipe, extending off into the chaos. The double-thick adamant tube led all the way back to the station in orbit of his core world. There, a boiler and a powerful turbine were sending a steady stream of vaporized essence through it to be used as construction material. Within a day or two, he’d have more than enough to get his paling into shape for a tier-four unlock.
+
+And all I have to do is wait. Well, all I have to do is finish the pipe, build a condenser, wait, then complete the patch, but whatever.
+
+Loosening the grip he’d been holding with his knees, he let the pressure of the essence waft him up and out. With this much of the stuff around, he was able to exert his will to keep himself from floating off into the chaos. Flipping himself over, he took a moment to refill his sub-core, floating obediently behind his shoulder, then began shaping essence into an adamant cable extending from the lip of the pipe. He descended like a spider, forming more cable as he went.
+
+I want this connection made, NOW.
+
+The haze cleared as he neared the surface, chaos giving way to fresh air and weightlessness to gravity. Above him, the outflow had formed a light-blue cloud in the orange sky. Soon enough, the entire sky would be blue, just as it was on his core world. He’d see to it.
+
+Three... Two... One...
+
+Rain’s boots hit the ground, and everything lurched.
+
+The sensation was so disorienting that he was almost thrown back into his real body, something that hadn’t happened in a long, long time. Clinging to the cable for dear life, he was vaguely aware of his feet scrabbling on the metallic surface, more focused on the blossoming awareness in his mind.
+
+He could feel the patch.
+
+He could feel the pipeline, the orbital station, and his petite planet below with his core within.
+
+He could feel it all.
+
+Concentrating on his avatar, he welded its hands to the cable and its feet to the ground. Thus secured, he left it there, locked in place, while his consciousness flitted back to his core. The golden light of awe burst from his gemstone self as his senses became sharper still. Through his core, he could feel the connection to his body and the links to Dozer and his items, but that wasn’t all. Following the pipeline, then leading out through his paling, was another bond. He could feel Ameliah in his party, slumbering beside him in the real world.
+
+Linksight was working.
+
+A flicker of reddish annoyance momentarily marred the golden light of awe rolling off him.
+
+THAT’S all I had to do? Connect my core and my paling together?
+
+He’d tried for hours before giving up and working on his pipeline. Opening his airlocks and staring out at the void of soulspace had done nothing. Extending cables out into the darkness like antennas had done nothing, and they crumbled away almost instantly besides. He’d even stuck his avatar’s hand out, something he hadn’t ever dared to do before, then lost that hand for his trouble. Nothing had worked.
+
+And now, apparently, he’d solved it by accident. Now, he was sure that if he stared into the void, he’d be able to see Ameliah’s soul. And so he looked. Rather than switching back to his true avatar, or even to the Stumps he’d left in one of the airlocks, he simply...looked.
+
+“Ah!” he gasped, landing on hard ground with a thump.
+
+His hands before him were glowing, blue and translucent. The ground was darkness. No, not darkness. Nothingness.
+
+Holy shit! I’m in soulspace!
+
+No sooner had he thought it than something pressed at his awareness, and a dialog appeared.
+
+WarningUnauthorized Liminal Void ProjectionThis action has been logged
+
+What the... The system? It’s working? It’s working! Status!
+
+Richmond Rain Stroudwater
+
+CLASS
+
+LVL
+
+CAP
+
++STAT
+
+Engine of Change
+
+30
+
+30
+
+0
+
+EXP
+
+NEXT
+
+TOTAL
+
++SKILL
+
+130,422
+
+130,423
+
+2,536,316
+
+4
+
+Vitals
+
+CUR
+
+MAX
+
+RGN
+
+Health
+
+10,600
+
+10,600
+
+600/d
+
+Stamina
+
+4,300
+
+4,300
+
+600/d
+
+Mana
+
+102,600
+
+102,600
+
+356.6/s
+
+Attributes
+
+900/2,690
+
+EFF
+
+TOTAL
+
+BASE
+
+ACCLD
+
+MISC
+
+SYN
+
+STR
+
+295
+
+430
+
+10
+
+20
+
+400/500
+
+20.6
+
+RCV
+
+33.6
+
+60
+
+10
+
+0
+
+50/770
+
+5.6
+
+END
+
+109
+
+215
+
+10
+
+5
+
+200/310
+
+7.6
+
+VGR
+
+55.2
+
+60
+
+10
+
+0
+
+50/1,140
+
+9.2
+
+FCS
+
+250
+
+250
+
+10
+
+40
+
+200/2,000
+
+50
+
+CLR
+
+320
+
+320
+
+320
+
+0
+
+0/2,500
+
+320
+
+PER
+
+20
+
+20
+
+10
+
+10
+
+0/0
+
+26.9
+
+SPD
+
+9.4
+
+10
+
+10
+
+0
+
+0/10
+
+9.4
+
+“AAAAAHHH!” Rain jumped, landing in a judo stance and pointing at the window hanging in front of him. The shout failed to echo, and that was enough to bring his mood crashing back down as a horrible thought occurred to him.
+
+He whirled, dismissing the window and looking around.
+
+Other than the tether to Ameliah, leading off into the distance, there was nothing.
+
+Swirling, oddly smoke-like nothing.
+
+He looked down at his glowing hands, then focused on his heart, on the connection back to his core. The transition back into his soul was so effortless that when he appeared, he found himself glowing a surprised purple.
+
+Thank fuck.
+
+He flicked back to his avatar, still welded between cable and ground, and breathed a sigh of relief.
+
+It would be just like me to bumble my way into the shadow realm only to get stuck there, banished for eternity. If I can do it whenever I want, though...
+
+He looked outward again, and once more, he was a hologram.
+
+WarningUnauthorized Liminal Void ProjectionThis action has been logged
+
+“Oh, quiet, you,” Rain said, swatting the dialog out of the way. “The administrators are dead. Nobody cares.”
+
+*pop*
+
+Rain jumped and whirled, taken aback by the timing, momentarily sure that some not-dead-after-all admin had just appeared to smite him.
+
+Dozer splattered to the dark not-ground, just as blue and holographic as Rain himself.
+
+[Happy! Explore?]
+
+“Ahhh!” Rain shouted, pointing at the slime.
+
+[Ahhh!] Dozer agreed, launching himself straight upward and jiggling uncontrollably.
+
+This continued for some time.
+
+Eventually, though, Rain was struck by a thought and skidded to a stop amidst chasing Dozer in an excited, non-Euclidean circle. He returned to his core, taking it in stride when the slime appeared beside him only a moment later.
+
+[Tag!] Jetting through the liquid essence like a squid, Dozer careened into Rain’s core, then shot away.
+
+Rain would have smiled if he’d had lips at the moment.
+
+Status!
+
+Richmond Rain Stroudwater
+
+CLASS
+
+LVL
+
+CAP
+
++STAT
+
+Engine of Change
+
+30
+
+30
+
+0
+
+EXP
+
+NEXT
+
+TOTAL
+
++SKILL
+
+130,422
+
+130,423
+
+2,536,316
+
+4
+
+Vitals
+
+CUR
+
+MAX
+
+RGN
+
+Health
+
+10,600
+
+10,600
+
+600/d
+
+Stamina
+
+4,300
+
+4,300
+
+600/d
+
+Mana
+
+102,600
+
+102,600
+
+359.1/s
+
+Attributes
+
+900/2,690
+
+EFF
+
+TOTAL
+
+BASE
+
+ACCLD
+
+MISC
+
+SYN
+
+STR
+
+295
+
+430
+
+10
+
+20
+
+400/500
+
+20.6
+
+RCV
+
+33.6
+
+60
+
+10
+
+0
+
+50/770
+
+5.6
+
+END
+
+109
+
+215
+
+10
+
+5
+
+200/310
+
+7.6
+
+VGR
+
+55.2
+
+60
+
+10
+
+0
+
+50/1,140
+
+9.2
+
+FCS
+
+250
+
+250
+
+10
+
+40
+
+200/2,000
+
+50
+
+CLR
+
+320
+
+320
+
+320
+
+0
+
+0/2,500
+
+320
+
+PER
+
+20
+
+20
+
+10
+
+10
+
+0/0
+
+26.9
+
+SPD
+
+9.4
+
+10
+
+10
+
+0
+
+0/10
+
+9.4
+
+[Son of a mother pheasant plucker! I was right! I’ve got system access in here now! Come on, Dozer. We can play more later. We have to tell Ameliah!]
+
+Rain lurched up from his bed in the darkness of his tent, the barest fingers of dawn creeping in from beneath the flap. Not having anything like the patience for finding the light switch, he activated Radiance. The golden glow from his armor banished the shadows in an instant.
+
+“Ah!” Ameliah convulsed, practically falling out of the bed before catching herself and landing with her fists raised. “What is it?!” she asked, her helmet appearing as she spun, looking for her bow. “Are we being attacked?”
+
+*pop*
+
+“Ameliah!” Rain shouted as Dozer splattered to the ground. He grabbed her by the shoulders and began shaking her excitedly. “It works!”
+
+[Tag!] Dozer sent, bouncing up and down excitedly. [Tag! Tag! Tag!]
+
+“What works?” Ameliah asked. Her helmet vanished again, revealing sleepy confusion tinged with alarm. “What did you do?”
+
+Rain grinned, then brought her close into a crushing hug. He could feel her, and not just through Tactile Transference. The comforting sense of safety was still there, perhaps slightly clearer, perhaps not. The real difference was linksight. It was working. It was working, and his paling was still closed.
+
+Laughing, he brought her back to arm’s length, schooling his face to awe and adopting his best impression of Jeff Bridges from the Tron remake. “I got in.” Almost immediately, he lost it again, cracking up at his own ridiculousness. “Also, tag, you’re it.”
+
+After a very exciting morning of experimentation, Rain found himself—somehow, impossibly—bored. Ameliah was out scouting for ships, having fun, while he was stuck at a desk in an open-sided tent near the reservoir. His helmet sat on the table in front of him beside a stack of reports and the spotless plate that had until recently held his lunch. He wasn’t exactly comfortable, risking an arrow to the ear canal like that, but it was necessary. Sitting here, exposed and out in the open, would soften his image, as would talking to people like a person instead of some mythical figure.
+
+To that end, he’d posted office hours. Nine until one, first come, first serve. In retrospect, that might have been a little too long.
+
+A pair of chairs were arranged across the table for visitors, but they were empty at the moment. The initial rush of curious Guilders, bold suck-ups, and the genuinely desperate had died away. In fact, it had probably been at least an hour since his last visitor. It seemed that most people weren’t very keen to chat with the mysterious warlord who’d casually bathed their entire city in magic after declaring himself its new ruler.
+
+The Pure-Mist King...
+
+Rain’s expression tightened. His jog through the city had done its job far, far too well.
+
+It wasn’t like Vestvall, where people had simply been overawed by the magic itself. Three Cliffs wasn’t a big city, but it saw more than its fair share of adventurers thanks to the shipborne monster hunting trade at the edge of the badlands. Between that and the presence of the Sea Kings, the locals were used to living around people who could rip your head off with no repercussions. They’d developed a strategy: obey all commands; beg, grovel, and flatter as needed; and—most importantly—keep your head down.
+
+To the average resident, Rain was just another Sea King. Just another pirate. That’s what the people here expected, and so when they looked, that’s what they saw. It would take time for them to accept that Ascension wasn’t just using their offer of aid as a pretext to loot the city.
+
+Rain stifled a sigh, checking the clock on his HUD, then glancing at Tahir, who was speaking with one of the locals nearby. The clinic was working well, at least. Those who’d been brave enough to seek healing on the first day had talked. More were trickling in now, even if scarce few of them wanted to sit across the table from the captain.
+
+Once we get the Vestvall survivors down, things should get better. They know what Ascension’s really about, and they’ll talk, which should help people relax. Won’t be until tomorrow, though, or the day after. We’ve got to get an elevator working and then bring people and stuff down in batches. I have NO idea what we’re going to do about Subtlety. Stupid city.
+
+Rain let his thoughts drift, idly doodling with his finger on the desk. It was pretty obvious to him at this point that the cliffs that gave the city its name were artificial. They were too smooth. Too regular. In the distant past, some goldplate Geomancer must have carved them out of the natural rockface, perhaps as a fortress, or as an art project, or for whatever other inscrutable reason. It didn’t really matter.
+
+The city that now clung to those cliffs had clearly come later. Stone stairs had been laboriously mined between the lowcity, midcity, and highcity. The buildings in the highcity had likely been constructed from that mined stone and from the stone carved out to create the reservoir. The wooden midcity buildings and the docks would have had to have been built with lumber brought by ship. The Darkmane’s tree farm and the now-collapsed, OSHA-violating stairs to reach it had been recent developments. Before that, the only thing up there had been salt.
+
+The city relied on a magical saltwater purification system to fill the reservoir, and that system had been damaged in the attack. Fortunately, repairing it had been a simple matter for Tallheart. It was basically just filter refining. There weren’t even pumps. People carried the water up from the sea for purification and then hauled the purified outflow wherever else it needed to go. The whole setup struck Rain as appallingly labor-intensive.
+
+Needless to say, it wasn’t going to work for the Vestvallan refugees above. Clubbs was doing his best with Internal Reservoir, but he was just one man. It would have taken a silverplate to supply the trees up there, which was likely exactly what had been going on. The Darkmane, like most of the Sea Kings, had been some flavor of Hydromancer in addition to being a colossal, walking, human-rights-violating butt nugget.
+
+Rain grimaced, thinking again of all the unpleasantness he’d had to deal with yesterday. There were more trials lined up for the afternoon. His plan to find the Adamants hadn’t borne fruit yet, but through questioning those few who’d been willing to talk to him, he had gotten a fairly decent sense of the city’s social strata. It had been run by gangs, essentially—one for each Sea King, of which there had been seven. The five that had fled the city hadn’t taken all their thugs and leg-breakers with them, and there’d been something of a turf war going on between the leftovers before the Adamants had shown up to wreck shop. Things were basically a mess.
+
+Catching himself dwelling, something he’d promised not to do, Rain shook himself, then checked the time again. Fifteen more minutes. Well, I’m done with these reports, so if nobody’s going to come, I might as well deal with my status since I forgot to do that earlier.
+
+Concentrating, he triggered an essence exchange, set a marker, and called up a progress report.
+
+Progress Report
+
+marker_1: thrasts_ass_is_grass [3061 Seedlings 18 11:44]
+
+marker_2: tc_office_hour [3061 Seedlings 20 12:45]
+
+Span: 2.0 days
+
+Skills
+
+Essence Well: +42,381 exp, 12 -> 15 (+3)
+
+Winter: +3,840 exp, 10 -> 11 (+1)
+
+Aura Compression: +29,571 exp
+
+Mana Manipulation: +84 exp
+
+Prismatic Intent: +1 exp
+
+Hmph. Not bad. Filling everyone’s mana got me something, at least. Also, what the hell? Aura Compression didn’t level? How much is even left?
+
+Aura Compression (14/15) Exp: 73,592/73,600
+
+Compress aura output, reducing range to boost intensity
+
+Increase intensity by 2.8% per meter of compression
+
+...Really? Eight experience? Come on!
+
+Rain thought for a moment, then selected Suppression and tuned it up to the max, using all of his modifiers while compressing it down to zero range. Used as a Singularity and while excluding himself with IFF, the spell did literally nothing except drink mana like crazy. The spell card, though, gave Rain pause, brilliant blue in the darkness from Aura Focus.
+
+Suppression (14/15) Exp: 19,235/73,600
+
+Increase mana costs for all entities by 586063 mp (fcs)
+
+Range: 0 meters
+
+Cost: 1792 mp/s
+
+That’s a damn big number, and my combat macros aren’t even on!
+
+He let the spell end after only a few seconds. Suppression wasn’t exempt from the damage limit, so the biggest cost increase anyone could possibly be slapped with was 9,999 mp, but it was still an absurd level of power to contemplate.
+
+As his senses returned, he came to a related realization, then winced and looked around. His rapid mana use just then would have had his eyes shining gently with Arcane power for all to see. Fortunately, it appeared that no one had noticed. He breathed a sigh of relief before sheepishly scratching at his beard.
+
+I need to be careful if I’m not wearing my helmet. Close my eyes first, at the very least. Or, you know, show some bloody restraint or something.
+
+Rain snorted, then generated himself another progress report.
+
+Progress Report
+
+marker_1: tc_office_hour [3061 Seedlings 20 12:45]
+
+marker_2: tc_office_hour2 [3061 Seedlings 20 12:46]
+
+Span: 1 minute
+
+Skills
+
+Aura Compression: +8 exp, 14 -> 15 (+1)
+
+Suppression: +4,480 exp
+
+That’s better. He closed the window with a careless swipe of one hand. I’ll get Suppression to fifteen later. Again, he glanced at the clock. Still ten minutes to go. I might as well work on Prismatic Intent.
+
+Reaching through his link to his rings, Rain removed two hundred points from Focus, then applied them to Clarity as a debuff, remembering to close his eyes this time. A shiver of overmana washed through him, and his mind sharpened, showing him every embarrassing thing he’d ever done all at once. Fortunately, the effect was short-lived, and he was left only with the horrible hollow feeling that using his new rings in this way generated.
+
+Sucking in a breath through his teeth, Rain opened his eyes. The new rings let him reduce his Clarity for the dual purposes of stilling his mana and dealing with his scattered thoughts. Technically, he could use the rings to reduce any of his stats, but in addition to there being no reason for him to do so, bringing an attribute below ten by any means was a game of diminishing returns. It took a one-point reduction to bring a stat from eleven to ten, but getting it to nine took a further ten points of debuff. It was then one hundred more points of debuff to get to eight, a thousand more to get to seven, and so forth. On down to one, at which point the formula likely changed again. Getting to zero was said to be impossible, let alone pushing a stat negative.
+
+Turning his focus inward, Rain concentrated on Arcane Ward, which was a nice, safe spell with no visible effect unless it was triggered. He began casting it over and over again, doing his best with Mana Manipulation to address the various, vaguely-felt issues. Unless they had Mana Sight, nobody would know what he was working on, and even if they did, he supposed he didn’t care.
+
+Arcane Ward
+
+Arcane Ward
+
+Arcane Ward
+
+He paused, simply watching the slowly flowing mana as it waited for any Arcane damage that would push it into action.
+
+If I can just...figure this out...I’ll be able to keep all my wards up all the time. So many things to do, though. There’s Prismatic Intent training, getting the rest of my regular skills to fifteen, working on my synchronizations and tolerances, unlocking tier four, and now exploring soulspace and learning about this new soul sense of mine. Speaking of, why the heck does it only work on silverplates, anyway? Is it because only they’re strong enough for me to feel, or is there something actually different about their souls? Some sort of qualitative difference? From a sample size of two—three if you count me—all silvers seem to have cores, whether they know about them or not. Does that have something to do with it?
+
+...
+
+Rain sighed, letting Arcane Ward fade, realizing he’d been completely derailed from his practice after only a handful of cycles.
+
+Bah, even with my Clarity sapped, I get distracted. I guess that overmana pulse hasn’t worn off yet, after all. Might as well just...go with it until it does. I was only killing time anyway.
+
+Rain chuckled to himself, releasing his grip on his thoughts and letting them run wild.
+
+What am I going to work on tonight? I’ll have plenty of essence to play with at my paling by then. Finishing the patch would be the responsible thing, but it’s just more drudgery. I want to experiment! Having system access in there is such a game-changer. I can finally justify some real time to work on my interface, and I should even be able to do aura training while I’m asleep! Even Prismatic training, maybe. If that works...hot damn. Regardless, even if I can’t get it to level soon, I don’t really need it. Thanks to Channel Mastery’s new thing, I could basically just do hyper-threading. Sure, the total power output would be less than true Prismatic, but looking at Suppression just now, I don’t really need power, do I? I just need to fix my scripts to set that up. But then... With Prismatic Intent AND Channel Mastery... I could use LITERALLY ALL OF THE THINGS! Silverplate power is INSANE! And I don’t even know what’s waiting for me in tier four! Ameliah said she’d check for me if I asked her to... Should I ask her to? Heck, she might have already done it and just not told me. I did say I didn’t want to be tempted, after all, but...
+
+Someone cleared their throat, and Rain jumped. He looked up to see a young, pale, short-haired man in a dark jacket staring at him with a resolved expression. He stood with the same easy discipline as Samson, looking like he was at parade rest or something.
+
+Damn it, brain! What if he was hostile? Is he awakened? Shit.
+
+“Sorry,” Rain said, grabbing ahold of himself and glancing at his clock. He gestured to one of the chairs. “Hello. I’m Rain, Captain of Ascension, but you probably knew that. How can I help you?”
+
+“I do not know,” the man said in a curious accent. He slowly sat in the indicated chair, sitting up straightly and meeting Rain’s gaze without wavering. “I can only hope that you will.”
+
+Confused by this statement, Rain tilted his head. “You’re a Guilder?” he guessed, despite the lack of a plate around the man’s neck.
+
+“I am not,” the man replied. “My name is Fechton Stone.” He hesitated for an almost imperceptible moment. “I have come to surrender.”
+
+“Surrender?” Rain asked, though a cold certainty had settled into his thoughts the moment he’d heard the man’s name. “You’re...” he lowered his voice, “You aren’t...an imperial, are you?”
+
+“I am,” Fechton said with a curt nod. “I served as first starguide on the Fist of Progress.”
+
+“Holy shit!” Rain shouted, activating Force Ward and reflexively reaching for his helmet.
+
+Fechton tensed but made no move to leave his chair. “If you choose to execute me, I will not resist. I am not Called. Even if I were, I now realize that I could no more stand against you than I could against the Vileheart, nor against the one that clove what could not be cloven. In defeat, I have seen the lie. From that sight and from the doubt it has stirred in my heart, my life is already forfeit. And so I hope that you are as you claim to be. I hope that you will uphold the equality promised in your declaration. I have killed no one and have committed no crime upon your list within the city.”
+
+“Keep your voice down,” Rain said urgently, lowering his own and glancing around as caution warred with excitement. This is an opportunity. He sat his helmet back on the table deliberately, though he yearned to slip it on his head instead. “Will you answer questions about the Empire?”
+
+“I will do whatever you ask of me, provided that you spare my life and protect me from the Vileheart and those who have hunted my fellows,” the soldier replied, obligingly lowering his voice to a whisper. “I fear that I am the only remaining survivor. To admit such is shame, but I do not wish to die.”
+
+Rain did his best to control his expression as he hunched forward. “Who’s the—” he began, but he was brought to a sudden stop.
+
+A hooded figure in a tattered brown cloak stepped into view, pulling out the second chair and sitting beside Fechton without invitation. Rain’s blood froze even before he caught a glimpse of the eyes within the deep cowl. His soul was suddenly screaming at him, and his mind joined it a heartbeat later as recognition took hold.
+
+No...
+
+“Get lost, whoever you are,” Velika said through the scarf veiling her face, sparing a dismissive glance for Fechton. Her dark eyes locked onto Rain’s, skewering him to his chair. “I have business with the captain.”

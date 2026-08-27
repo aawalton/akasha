@@ -1,0 +1,183 @@
+---
+id: 777f0039-79e7-5021-85e2-a92532d42d94
+page-type-slug: story-chapter-royal-road
+title: "Chapter 57"
+slug: 0058-chapter-57
+partOf: death-healer
+position: 58
+ownLength: 1807
+unit: words
+publishedAt: 2025-08-09
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2505446/chapter-57"
+royalRoadId: "2505446"
+---
+
+Two weeks later, Caesar leaned on a ruined parapet and watched his niece face a real fight.
+
+He had gone to an abandoned outpost, an advanced center that they had probably used decades ago for some recon. Sometimes, expeditions still stopped inside the ruined walls for shelter to catch some sleep. Sleep was an ethereal thing in the Dead Lands. Most preferred sleeing during the day in turns. At night, the Undead were even more dangerous since one unseen claw could end your life.
+
+Now, the dawn was pale and cold.
+
+Lily moved through the thin mist, her outline sharp against the mud, padded up in leather and iron, visor down, hands flexing in the gauntlets Sabinus had gifted her.
+
+She looked like she had been born in armor by now—she had quickly gotten used to it.
+
+And not just to the armor.
+
+Yesterday, she had wiped out a horde of thirty zombies by herself—nothing pretty, but she had done it without breaking. Caesar had kept throwing harder tests at her, raising the numbers and mixing in new threats. She did not slow down or flinch.
+
+She was learning to fight swarms, just as he wanted.
+
+Now, though, three ghouls circled her.
+
+These were not zombies.
+
+Zombies were slow, stupid, and soft. Ghouls had claws like knives. Their skin looked stretched, tough, with blue-black veins pulsing under the rot. Even at Level thirty, they were weaker than most monsters of that rank, but compared to a normal zombie, they were predators. Most new recruits lost fingers or eyes to a ghoul—then their life to the disease—before they even learned to react.
+
+Lily stayed low, shield up, never losing sight of the monsters as they spread out around her.
+
+Caesar tensed, ready to leap in at the first mistake, but something in the way she moved made him pause. It wasn’t just good training.
+
+It was something deeper, something he had seen start to shift in her a few days earlier.
+
+* * *
+
+Four days earlier
+
+A tide of thirty zombies had broken through a weak section of the wall they had been patrolling.
+
+Lily met them in an open trench while Caesar watched from the parapet, ready to drag her out.
+
+At first she fought by rote; her fists shattered skulls, yet mud and grasping hands slowed her. When the horde pressed in a full circle she shut her eyes instead of looking for an escape.
+
+Caesar nearly leapt down.
+
+She had stumbled, lost her footing, and for a second, he thought she would die. But she had kept her eyes closed. Caesar had watched, baffled, as her head turned, tracking the invisible.
+
+Then Lily exhaled, and her body started to weave through every blow as though invisible threads guided her. A jaw snapped shut where her neck had been, a rusted sword whistled where her ribs had stood, and her counter-strikes landed with perfect timing.
+
+She started dodging attacks she couldn’t have seen, slipping through grasping hands. Every step, every shift, she seemed to know exactly where each threat would be before it moved. He had never seen anyone—adult, child, noble, or peasant—fight with that kind of awareness. She finished the horde blind, breathing hard, fists dripping with black gore.
+
+She had built a sense that reached behind her skull and beneath her heels.
+
+* * *
+
+Now, as the first ghoul came for her from behind, Caesar saw it again. She didn’t even look back. She twisted, caught the monster’s wrist, and slammed it down with a sickening crunch, Coniunctionis sending a shockwave through her arm. The ghoul’s spine cracked so loud even Caesar winced. Its legs and free arm went limp, head still hissing but the rest of its body useless.
+
+The second ghoul came in fast, claws outstretched, jaws snapping for her throat. Lily moved so quickly it looked unreal—almost as if she had seen the attack coming a second before it started. She stepped into the ghoul’s charge, driving her forehead, covered with the helmet, right into its skull. The monster’s head dented inwards, the force of its own momentum crushing the bone. The ghoul dropped straight to the ground, twitching, its mouth frozen in a snarl.
+
+The third circled, smarter than the others. It feinted, slashing at Lily’s side, then pulled back and lunged low, claws aimed for her ankle. She barely moved, her eyes flat behind the visor, only reacting when the claws flashed up near her knee. She snatched its arm, wrenched it sideways, and in one brutal motion, twisted the monster’s wrist around, driving its own claws straight through its skull. The ghoul went stiff, body sagging as the last bit of Death Mana bled out.
+
+The fight lasted less than ten seconds.
+
+The last ghoul’s body hit the mud, red eyes flickering and then going out for good.
+
+Caesar stared, mouth tight, not moving from his spot on the parapet. He had seen warriors, seen monsters, seen prodigies, but this was new. Lily moved with the kind of precision that came from knowing the whole field—knowing it as if she could see behind her, above her, around corners, through the fog.
+
+He stepped down from the wall, boots grinding over stone, and called out to her.
+
+“Niece!”
+
+She stood up, wiping blood from the eye slits of her visor. Her breath came steady, not even ragged. She scanned the field, checking every corpse for signs of movement, then looked up at him.
+
+“You knew they were there,” Caesar said, walking up. “You knew exactly where to strike.”
+
+Lily muttered something.
+
+“[Cleanse].”
+
+The infected blood on her body was immediately cleaned up and she looked at Caesar as she pulled off her helmet, sweat running down her face, hair plastered to her brow.
+
+She had to learn the spell, which apparently everyone had to once they reached the front. It was essential to eliminate every residue of infected blood from one’s equipment. Otherwise, one simple scratch could have turned you into an Undead.
+
+“I can feel where they are. It’s like I see everything around me.”
+
+He narrowed his eyes, studying her.
+
+“How long has this been happening?”
+
+She thought about it, then shrugged.
+
+“A few days. Since the horde. I think Mana Sense got a new Perk.”
+
+He exhaled, rough and low.
+
+“You’re not just talented. You’re something else. No one gets this good in two weeks.”
+
+Lily knelt by the paralyzed ghoul, cracked open its skull.
+
+“They’re tougher than the others, but they’re slow. Not stupid, but not alive, either. I can beat them.”
+
+“You broke its back so hard it can’t even move. The other one you used its own claws. You shouldn’t be able to do that—not at your age, not with your build. You know how much force it takes?”
+
+Lily had explained how Coniunctionis worked to Uncle Caesar since the man was a literal outlaw. He had been quite impressed with it and had asked Lily to teach him, actually.
+
+* * *
+
+One month passed, and Caesar stopped pretending Lily was just another recruit. The day she destroyed twenty ghouls on her own, leaving the field so littered with ruined bodies that even his veterans went silent, he called her out before dawn.
+
+The morning air bit at her skin, but Lily ignored the cold. She had grown leaner, harder. Her movements had lost the last traces of hesitation. She walked across the training ground with a quiet focus, dried blood still staining the seams of her armor.
+
+Caesar watched her from the edge of the field, arms folded, face unreadable. He waited until the last of the men had cleared away the corpses, then beckoned her over.
+
+“You’re not here to kill ghouls anymore,” he said. “You’ve done enough of that.”
+
+Lily said nothing. She stood straight, feet planted, hands steady. Her hair had started to grow out under the helmet, and her face was cut with bruises and scratches from the unwieldy protection on her head.
+
+Caesar let the silence stretch. He studied her with a cold, measuring look.
+
+“You think you’re ready for real monsters?”
+
+Lily nodded once, her eyes not leaving his.
+
+“Good. Because we’re about to commit the highest of treasons.”
+
+Caesar smiled when he saw the girl get very excited at that.
+
+“There’s an everburning ember that allows you to experience the Sacred Flame. Years ago, I shaved a little piece of it so that I could bestow it upon those I considered worthy.”
+
+Lily’s eyes suddenly went wide.
+
+“You’re going to actually give it to me!?”
+
+Caesar reached into his coat and drew out a tiny wooden box. He flipped it open and revealed a single, pale ember—small, cracked, and warm to the touch.
+
+The stone glowed with a faint, white fire.
+
+“This is a special box. The moment you touch this, you’ll catch on fire. The fire will be the stronger based on your Light Affinity. The weaker the Affinity, the stronger the fire will be. It’s Holy, so it’s meant to cleanse Darkness and Death, Lily.”
+
+Lily stared at the stone. “What do you want me to do?”
+
+“I want you to burn,” Caesar said, his voice hard. “But I want you to burn without turning to ash. That’s the whole trick. Most people think [Sacred Flame] is a weapon. It’s not. It’s a judgment, first and foremost. Your cousin, Cassius, mastered the greatest form we’ve ever seen because of how in tune with Light Magic he is.”
+
+“So, I just—” Lily extended her hand.
+
+“If you want to die,” Caesar snorted, snapping the box close. “Sure.”
+
+“Can’t I try? My healing is powerful. Why shouldn’t I?”
+
+Caesar made a face and then said, “there are many things to know about Fire that you don’t know yet. You won’t be able to learn about the Sacred Flame without that. But sure, you want the pain? Let’s try.”
+
+Caesar did not hesitate. He cracked the box open again, holding it in the flat of his palm. The ember looked like an ordinary stone until Lily stepped forward. Light flickered along its edges, the glow pulsing in time with her heartbeat.
+
+“Take it,” Caesar said.
+
+Lily reached out and pressed her palm against the ember.
+
+Caesar watched without a word.
+
+The light around her hand faded, but the ember kept burning. She did not drop it.
+
+After a full minute, Lily opened her fingers. The ember sat in her palm, unchanged, still warm.
+
+She looked up at Caesar. Her voice came out confused.
+
+“It doesn’t hurt.”
+
+Caesar stared at her, then reached over and took the ember from her hand. His eyes were hard, but his lips twitched at the corner.
+
+“Your Light Affinity…” Caesar shook his head.
+
+“You’re ready,” he said.
+
+He turned away and started walking back toward the ruined outpost.

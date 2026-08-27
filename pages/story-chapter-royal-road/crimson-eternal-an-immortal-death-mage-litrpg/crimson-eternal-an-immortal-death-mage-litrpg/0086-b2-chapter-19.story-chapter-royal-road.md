@@ -1,0 +1,135 @@
+---
+id: a1f501da-2719-568b-b5e2-5c937bdf1efa
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 19"
+slug: 0086-b2-chapter-19
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 86
+ownLength: 1915
+unit: words
+ownProgress: 1915
+publishedAt: 2024-02-06
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1508230/b2-chapter-19"
+royalRoadId: "1508230"
+markedReadAt: "2026-06-29T19:08:51.771Z"
+---
+
+Aria
+
+I wasn’t particularly conscious while my body was… diced… but I have to admit, I don’t want to ever do that again if I don’t have to. Of course, if it helps a mission, I’ll do it. But if I don’t have to, I’d much rather avoid it.
+
+Because it gave a very… weird feeling. Since I did start regaining consciousness at some point. While my head was still separate from the rest of my body.
+
+And it felt… kind of disturbing. Not painful, per se. But a kind of phantom pain. Not a very bad one, but still extremely uncomfortable.
+
+Just being a head in a crate.
+
+I shiver at that as the Silver Merchant finally parks the vehicle and turns off the magical engine inside of it before suddenly putting everything into his storage ring, leading to me and Rory falling onto our rears on the cement in the alleyway he parked in. Which has us both sending a brief glare his way.
+
+He ignores the glare as he motions us to follow him deeper into the alley. So I quickly do that while pulling the hood of the cloak I grabbed from my storage ring over my face as I do so.
+
+Once we reach a spot far from any traffic, I finally look around. And just like in the Byrne Clan’s capital, the buildings here are all mostly made out of wood and metal. A combination of this planet’s two most numerous resources. Meanwhile the ground is cement, and the alleyway is lit up through the green lights hanging from the Grand Tree high above us. Shining brightly despite the sun beginning to go down.
+
+Shirogane quickly pulls out another device that makes a thin blue barrier appear around us before he says, “That’ll block people from eavesdropping.” Then he turns to look at me and adds, “Good work with our entrance.”
+
+My eyebrow twitches at that but I don’t say anything.
+
+I can’t tell if he’s being genuine or not.
+
+“I think it would be best to search for information now that we’re in the capital,” I state while folding my arms under my chest and glancing back at the opening of the alley every now and then.
+
+“Remember that you’re the only one who will be entering the Grand Tree, Aria,” Rory says, making me nod my head. “And I agree with the plan to collect intel. We should split up and meet back here soon.”
+
+Shirogane nods his head without voicing any complaints, and after sharing some brief information that Rory does know about the capital with us, we head off on our own.
+
+I make sure to keep to the alleyways away from any guards, and I’m pretty sure Rory mentioned that she was going to be looking at the bars.
+
+Shirogane didn’t say where he was heading, but I would wager it’s probably the business sector of the city.
+
+Unfortunately, Shirogane is not to participate directly in the mission. His neutrality and all. So the only thing he can do to help is information gathering and making plans.
+
+As for Rory, she’s here to help with the escape. Nothing more.
+
+Which leaves me on my own for actually conducting whatever plan we make up.
+
+I’m not really bothered by that though.
+
+So I just go around the alleys, gathering intel from random poverty-stricken people and criminals. The poverty-stricken people through bribing them and the criminals through beating them up. And maybe breaking a few touchy hands.
+
+Okay, more than a few.
+
+Wish I could’ve used my gun, but that would’ve drawn attention. Even if I used a silencer.
+
+In the end I gather a decent chunk of intel before meeting back up with the others. Only to find Shirogane smirking slightly.
+
+I narrow my eyes at him for a second before he starts speaking, “The Grand Tree is the most secure place in the entire capital as you probably surmised, but there is one way we can get you in without any issues.”
+
+He glances at Rory as he asks, “You remember the living artifacts sector of the Grand Tree that we wrote on the documentation?” She nods her head, making him glance at me before I nod as well. “Well, it would appear that that sector allows people to trade corpses and body parts for coin. And those corpses and body parts are immediately brought inside of the Grand Tree to take advantage of the storage units deeper inside, on the seventh floor of the tree.”
+
+I let out a sigh, able to figure out what sort of plan he has come up with without the man even finishing.
+
+“You want me to kill myself with something I haven’t used before so that I’ll stay dead long enough to transport me to the seventh floor,” I state, immediately making him nod his head in agreement.
+
+Meanwhile Rory just sends him a slightly disturbed look. Which I don’t really understand.
+
+But that’s not what’s important right now.
+
+“In that case, please fill me in on the structure of the Grand Tree,” I tell him, already resigned to this plan. “I’m sure I’ll need to know all I can about the place to make my way up the floors.”
+
+I’ve already done plenty of plans that involved killing myself to get into places before, so there’s no reason to stop now.
+
+I just hope no one goes around calling me a masochist or something in the future. Because I do not enjoy this.
+
+“Very well,” Shirogane says with a nod.
+
+Then he immediately begins to describe all of the intel he managed to gather about the structure of the Grand Tree. And as I expected, he got it from wealthier merchants who have been in the Grand Tree themselves for their business.
+
+He really is a good businessman. Sounds like he got that intel without even asking them directly.
+
+It does make me wonder how he got into contact with merchants that influential though. Without unveiling his identity as an Eight Star Merchant, seeing as the Eternal Dynasty isn’t looked upon too highly here. What with them being in trade with the Byrne Clan and all.
+
+The Grand Tree itself has the same number of floors as the Grand Tree back at the Byrne Clan, but with a different floor layout from that tree. There is a single grand spiral stairwell in this Grand Tree, unlike the multiple stairwells across each floor unconnected with any other floor besides the two they’re on that were in the Byrne Clan’s tree. One that was clearly constructed more for defense than efficiency.
+
+There are five wings of each floor, all containing one stairwell to the next floor. Meanwhile there are twenty-five total floors. With the weapon’s manufacturer being on the tenth floor in the fifth wing. Spreading across most of the fifth wing, actually.
+
+The entire Grand Tree has cleaning enchantments on it, so they don’t have almost any servants roaming around. Instead having a few assistants per Clan member, along with said Clan members who live in the tree. Those who are of direct descent to the original founder of the Clan.
+
+At first he tries to explain to me the entire layout – something he somehow got just from merchants, which is ridiculous – but then he gives up and just puts it all in a map he scribbles down for me. One I go ahead and put in my storage ring immediately after.
+
+From the sound of things, what I’ll need to look out for most are the guards and soldiers who roam around the tree. Because they can apparently be pretty touchy about unfamiliar faces.
+
+But right now that’s not as big of an issue since a lot of their soldiers are gone, seeing as their army had just moved out days before we arrived.
+
+The entire reason we were given this mission in the first place.
+
+Apparently most of the other staff will be too busy to care about unknown faces. Nor are they even expected to learn the faces of everyone in the Grand Tree – a very large place, making it hard for them to even try to do that in the first place. So I don’t have to worry about them, other than not standing out.
+
+Although I’ll probably have to snag a uniform to blend in better.
+
+And from the sounds of it, I can place plenty of charges. Because, while the tree is definitely flammable, it isn’t going to topple just from a single wing of a single floor being blown up.
+
+So I can use my high explosive charges all I want. Within reason.
+
+As for the actual plan to get into the Grand Tree? Shirogane apparently bought some sort of spellgun artifact made by this clan themselves. And not only will it work to kill me since I’ve never been hit by one before, but using it to kill me will adapt my body to their main weapons.
+
+A two in one use there.
+
+Meanwhile the two will stuff me – or rather, Rory will stuff me into a body bag after I kill myself with the weapon. Since I’m gonna have to go in almost naked and all.
+
+The staff don’t actually expose the bag far enough to see past the face though, since they only open the bag to check the life signs.
+
+Their general process for, well, processing the corpses is to send them up to wait at the storage for the lab to open at a certain time. Then they will go through and check the quality of the corpse or body parts and usability for the living artifacts – which are basically just artifacts that use biological parts in them – at certain times every day. Times we will try to avoid by waiting till their break on the dot.
+
+The person who sold the corpse or body part will then be given a special ticket stating which corpse or part they came in with, and they’ll also give their contact information so that the Grand Tree can contact them when the stuff is processed.
+
+Of course, the tree also uses divination magic to make sure the corpse wasn’t killed by the person turning it in. And if it was, to make sure it was legal. So that people don’t go around killing people just to sell their corpses.
+
+Surprisingly the divination even works if someone else has someone kill them and tries to turn the corpse in themselves.
+
+So the plan is for me to use the spellgun right after storing most of my outfit in the storage ring to kill my body in a place that isn’t near the head so that they don’t see the crimson energy, following which Rory stuffs me in the body bag and brings me to the Grand Tree to ‘sell my corpse’ to them. They bring me up to the seventh floor and leave me in the storage, and I’ll come back to life again. Since we’re doing this right after their last shift for processing them, meaning I would be left there all night.
+
+Plenty of time to come back to and leave the storage, taking everything back out of my storage ring again so that I’m not walking around in my underwear.
+
+I let out a sigh after we finish the plan before taking the spellgun from Shirogane.
+
+Twice in one day…

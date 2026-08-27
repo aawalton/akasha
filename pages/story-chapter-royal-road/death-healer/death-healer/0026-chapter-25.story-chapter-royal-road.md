@@ -1,0 +1,181 @@
+---
+id: 317b41c9-cfff-5bb5-8a89-c60084a6e6fc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25"
+slug: 0026-chapter-25
+partOf: death-healer
+position: 26
+ownLength: 1982
+unit: words
+publishedAt: 2025-05-31
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2320335/chapter-25"
+royalRoadId: "2320335"
+---
+
+Lily marched across the torch-lit courtyard while her boots struck the cobbles so loudly that every guest must have heard the echo.
+
+She couldn't believe what had just happened—she couldn't believe her father had said nothing in her defense. Sure, he was mad, but deny that she could become a Champion?
+
+She felt a mote of pride.
+
+I didn't want to—I never said I couldn't.
+
+She soon arrived where the carriages were kept and her gaze fixed on the door of her family's carriage. She clenched her fists until the leather of her gloves creaked, since she refused to let even a single tear slip.
+
+When she reached the door she hauled herself inside, snapped the latch shut, and flung her back against the padded seat. The carriage lantern swayed on its hook, and the flame threw restless shadows across the carved panels, yet the dim light did nothing to soothe the anger that still throbbed behind her ribs.
+
+She rubbed her temples and forced slow breaths through her teeth, although the words she had hurled at Aurelianus still spun inside her memory.
+
+If I become a Champion, he's not going to marry Lavinia off? Does he take me for a fool? He believes that I would believe such a lie? That a coward that would sell off his daughter like that would hold his word to a high standard?
+
+No, I will take matters in my own hands. It won't just be me winning the Champion's Trial. I will make sure that Aurelianus cannot afford marrying Lavinia off.
+
+With my healing, I can probably pick-up training so fast. The sponsorhip, though…
+
+Lily didn't know that one needed to be sponsored by another Great Family in order to participate to the Champion's Trial. But it made awful sense: a Champion was supposed to learn all Six Great Skills eventually to replace the current Pope. And that meant that, at the very least, they needed one Great Family to support them—eventually all of them.
+
+Lily didn't exactly know if a Great Family could refuse a Champion, but she imagined they could very well make things very difficult for her.
+
+A faint rasp drifted through the cracked window, and a gravel-rough voice reached her ears.
+
+“Begging your pardon, young mistress,” a stranger said, “yet a throat that has baked dry all day cannot shape any sensible words. Might you spare a swallow of water? A man’s throat should not feel as dry as old parchment when night winds blow so sweet. A small price to pay, really, for a few words.”
+
+Lily jerked upright while surprise pricked her skin, for her Mana Sense had failed to notice anyone draw near.
+
+She lifted the curtain. A figure waited on the road, and his skin drank the lantern glow until even the brass fittings beside him appeared dull for he was so dark, darker than the night, almost, but his skin glowed of gold nonetheless.
+
+The man wore tattered linen that hung in uneven strips, and the soles of his bare feet pressed against the stones while he stood with the quiet certainty of someone who feared neither insult nor dismissal.
+
+His eyes, which seemed as dark as midnight ink, regarded her without pleading.
+
+Lily swallowed.
+
+Adriana had taught her that nobility must meet poverty with dignity, and the lesson surfaced although fury still clouded her thoughts. She unfastened a waterskin by the side of the carriage, leaned over the sill, and extended the strap.
+
+The tramp accepted the skin, and he tilted it only slightly. While he drank, the hum of cicadas outside the courtyard faded, and Lily felt an odd hush settle over the entire yard. When he finished he wiped his mouth with the back of his hand, then he balanced the waterskin on his palm and spoke in a tone as steady as falling sand.
+
+“I’ve smelled your anger lighting the air, Liliana Claudia, Champion unborn."
+
+"Excuse me?" Lily said. "Who are you?"
+
+"A friend. To walk the road of Champions, you’ll harvest two wounds, one deep, one even deeper, and two mirrors. Yet neither will reveal its heart to any face that comes masked. Wear the soul you’ll fear, and the mirrors will open a door no gate can bar—past fathers, past popes, to the throne that bears your name.”
+
+Each phrase sank into Lily’s chest and weighed upon her lungs until her next breath burned. She gripped the window frame and tried to anchor herself because she sensed that the words themselves carried mana older than any she had touched. Finally, she realized she could barely perceive the man through [Mana Sense]. But, for a moment, he seemed to relent his aura and she almost went blind.
+
+She opened her mouth, meaning to demand who he was and what mirrors he promised, yet the tramp had disappeared from her vision momentarily because she had been blinded. She heard him step sideways so softly that his heel scarcely scuffed the cobble. The lantern flickered and Lily threw herself almost out of the window. But the man had vanished from sight.
+
+Heart pounding, she thrust her head past the sill and swept her Mana Sense through the courtyard. The spell skimmed over tethered horses, weary coachmen, and distant guests, yet it found no trace of the man who had spoken some sort of prophecy only moments earlier.
+
+She pulled back inside, slid the window shut, and sank onto the seat while the carriage leather sighed beneath her. She cradled the half-empty waterskin against her collarbone and repeated every syllable he had uttered.
+
+Two wounds and two mirrors. A soul I would fear. A door that no gate could bar, she recited mentally. What does it mean?
+
+* * *
+
+Lily reclined against the carriage’s cushioned bench. The tramp’s warning still echoed, ominous and vague, yet her mind shifted to a more immediate worry: Father had witnessed her outburst, and Mother—unpredictable even when calm—had watched as well. Discipline could fall from either parent, but she meant every word she had spoken; she would not let Lavinia become a mindless puppet.
+
+She began listing what she would need to qualify for the Champion’s Trial—sponsorship, training—when a faint shuffle sounded outside the carriage.
+
+Was it the tramp again? She pushed the door fully open and leaned out. Beyond the glow of scattered torches the party’s murmur drifted, but the courtyard itself lay silent.
+
+A slight silhouette blinked past the rear wheel.
+
+Lily dropped to the cobbles, circled the carriage once, glanced under the chassis, checked the driver’s box, then scanned the lane in a thoughtful stare that lingered on the distant gates.
+
+Seeing nothing, she climbed back inside and shut the door.
+
+The latch clicked.
+
+She raised her gaze to the opposite bench—and jerked upright.
+
+A figure sat there, a bright orange fox mask catching the lantern light. Shock pinned her for half a breath.
+
+Before she could speak, the stranger eased the mask upward, slow and deliberate, baring his face.
+
+"That was quite the performance," the young man said, moving a lock of sweaty, matted bronze colored hair from his forehead. "This thing runs hot. It has a few enchantments," he said, twirling the mask on one finger.
+
+Lily looked at the mask for one moment and then at the guy.
+
+He stared at her with sage-green eyes and tilted his head in an awaiting smile.
+
+"Who are you?" Lily asked.
+
+He looked relieved to finally receive a question, as if the moment could have never come instead.
+
+"Are lilies your favorite flowers?" he asked.
+
+"Excuse me?"
+
+"Lilies, the flowers?"
+
+Lily moved a hand on the dagger she held below her tunic, but she didn't find it. She looked with wide eyes as the young man took that same dagger out of his sleeve and then handed it to her.
+
+“You were looking for this?” The young man held out the dagger.
+
+Lily took it without a word and turned it over, almost convinced it might vanish.
+
+“Do you like lilies?” he asked, tilting his head.
+
+“What?”
+
+“Your name is Lily, so I wondered whether lilies are your favorite flower.” As he spoke, he gave an exaggerated wink.
+
+She weighed the dagger in her palm and gauged the distance to his chest, yet she recognized that whatever class he held, he carried far more levels than she did.
+
+“I prefer things that don’t wilt,” she said.
+
+He gave a quiet laugh and replied, “Every lady enjoys flowers.”
+
+Her gaze drifted to the blade once more, and she considered how many levels still mattered when steel touched a heart.
+
+“I stopped in only because I wanted to applaud your courage,” he finished, sketching a short bow.
+
+“Are you here to provoke me?” Lily asked, squaring her shoulders. “Do you serve the Gens Aemilia?”
+
+The young man rested a hand on the seat back and lifted one eyebrow. “I assure you I do neither,” he said. “I came only to offer respect. Few heirs of a Great Family would dare defy a gathering full of nobles as you did, and the nerve you showed marks a true leader. One day you will stand as a fine Matriarch.”
+
+"Aren't ladies unable to inherit a Great Family?" Lily tightened her grip on the dagger and spoke with a wry tilt of her head.
+
+He tipped his chin toward the blade that gleamed between them, and his smile revealed straight white teeth.
+
+"But you don't like flowers—so, you're not a lady."
+
+The brightness of his grin pulled an unexpected smile from Lily, although she fought to keep her expression neutral. She meant to ask his name, yet a brisk tread echoed on the cobbles outside the carriage, and the lantern swayed as footsteps drew near.
+
+“I will see you again,” he whispered. A ripple of mana folded the air, and he vanished as cleanly as if a curtain had dropped.
+
+Lily’s heart was still racing when the carriage door swung open and her mother stepped inside.
+
+For a moment, mother and daughter, looking one the younger copy of the other, just stared at each other in silence.
+
+Lily imagined that Adriana must have been judging her and perhaps came here to call her back—which Lily fully intended to refuse. From her understanding, it would take several hours still for the celebrations to finish. Moreover, it was considered extremely rude and disrespectful to leave these gatherings in advance.
+
+So, balling her fists and still holding her dagger, Lily gave a cold stare to her mother. But when the older woman's feelings seeped through Mana Sense to Lily, the blonde girl felt a mote of surprise.
+
+"Liliana," her mother asked with a very serious tone, "do you mean what you said? Do you truly wish to become a Champion or was this one of your fits?"
+
+Lily, remembering what Lavinia had felt, frowned and looked at her mother with watchful eyes.
+
+"I meant it."
+
+Her mother's emotions spiked.
+
+It wasn't anger, it wasn't disappointment.
+
+No, it was excitement.
+
+The most excitement she had ever felt from Adriana Claudia.
+
+"I've spoken with a friend," her mother said. "He's leaving the party as well. What you did ruined everyone's mood. Livia has been fuming for the past thirty minutes. No one dares to speak to her or Aurelianus. Your father is trying be stoic and not make things worse, but people have already started leaving. You've effectively ruined their marriage ceremony."
+
+"I—"
+
+"Oh, darling," Adriana said with an exhilarated giggle. "Do not apologize. Now, are you ready to take on the training that will make you the strongest Champion we've ever seen?"
+
+Lily nodded and Adriana smiled.
+
+"Then, it's time to visit the best trainers in the world."
+
+Adriana opened the door of the carriage, making a gesture toward their drivers, who waited in the distance.
+
+"We're going to the Gens Cornelia's fortress!"

@@ -1,0 +1,171 @@
+---
+id: c33111d7-8c94-5b5a-b355-c3262ae20b6d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13"
+slug: 0014-chapter-13
+partOf: death-healer
+position: 14
+ownLength: 1889
+unit: words
+publishedAt: 2025-05-09
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2267740/chapter-13"
+royalRoadId: "2267740"
+---
+
+Adriana knew that Lucianus had brought Lily to his sister, Gentiliana.
+
+There wasn't any real bad blood between the two women—however, Adriana was very much aware of the fact that Gentiliana wasn't so fond of her. And, honestly, the feeling was reciprocal.
+
+However, the blonde woman also knew that Gentiliana had just made her best attempt to help Lily—she knew that there was some weird secret in the Gens Claudia about their healing techniques, which was why Lucianus's healing powers were so great despite him not being a [Healer].
+
+But then, why had Lily come back home without an Affinity?
+
+The woman was in her office and looked at the plants around her, at the piles of documents, and the carpets on the floor.
+
+I need to talk to her, Adriana sighed and, placing her palms on the desk, got up. The trial is in one week. She's… not going to make it.
+
+She walked toward the courtyard, finding Lily throwing little rocks inside a pond.
+
+"Lily," Adriana called her.
+
+The little blonde turned her head mid-swing and Adriana flinched when she saw the rock fly toward a window. Adriana erected a small [Light Shield] and the rock gently bounced off it.
+
+"What?" Lily asked.
+
+"Darling, sit with me," Adriana said, going for one of the marble benches and looking around, seeing a few servants attending their gardens. "Everyone, please leave."
+
+The servants left mother and daughter in the courtyard.
+
+"You have the Healing Trial of the Gens Claudia in three days, darling," Adriana said. "Do you know that?"
+
+"Aunt Gentiliana told me," Lily shrugged, still looking at the pond.
+
+"Darling, if you don't pass the trial, you won't qualify to become a Champion, which means you'll never have a chance at becoming the Pope."
+
+Adriana had said that with as much gravitas as she could inject in her words, but Lily seemed nonplussed by that.
+
+"Ok," Lily said and tried getting up, but before she could leave the bench Adriana grabbed her sleeve.
+
+"Liliana Claudia," her mother said with a stern tone. "Don't you always go blabber around becoming the Pope?! What's wrong with you?! Why can't you learn the damn Light Affinity?!"
+
+Before realizing it, Adriana had grabbed her daughter and she had started shaking her by her thin shoulders. Lily looked daze once her mother realized what she was doing. With all the Attributes Adriana had on Lily, she could have actually hurt her daughter. Noticing marks on the skin where she had grabbed Lily, Adriana immediately showered her with a [Heal] and tried recomposing herself.
+
+"I—I don't know, mommy," Lily said, clearly afraid now of her mother's possible reactions.
+
+Feeling a pang of guilt, Adriana embraced Lily and cradled her head against her chest.
+
+"I just… I don't understand, darling. Your talent is so amazing. Why can't you learn the Light Affinity? Did Aunt Gentiliana not help?"
+
+"I think I felt something," Lily said, recalling the moment she had seen the rat's innards. "But… I didn't learn it."
+
+"I'll figure something out, darling," Adriana said, clenching her teeth. "I'll figure something out."
+
+I won't let them hold you back because of this stupid custom.
+
+* * *
+
+Sometimes, Lily and Lavinia would have lessons together. Aurelianus and Adriana had agreed that the two unruly children learned better when in the presence of one another.
+
+Today, the same tutor that oversaw the education of Prince Cassius, Lucretia, and Lumius, Anacletus, had come to hold a specific lesson on Classes and Subclasses.
+
+Adriana had wanted someone with great expertise and a teaching Class to take care of this explanation and to cover everything she might have missed. The more Lily knew, the better her chances would be once her Class Day would come around.
+
+The two girls were sitting beside each other at the large, ornate wooden chairs in the banquet hall, with Anacletus sitting right before them.
+
+Anacletus was an old man with a large balding spot on the top of his head, flabby skin over his neck, and two small and beady eyes.
+
+Adriana was observing from a balcony in the room, not letting the girls know that she was overseeing their behavior. Something bothered the blonde woman—the paternalism and condescension in the way the man looked at the two little girls. It looked like the man almost considered this a waste of his precious time.
+
+And Adriana knew exactly why the man thought so, but refrained from saying anything.
+
+"So, girls, can one of you tell me how we gain Classes?"
+
+Lily yawned in response and just stared blankly at the man.
+
+Lavinia, instead, seemed wired and on edge today, and immediately took the chance to reply.
+
+"We choose two Subclasses during our Class Day among all those that will be available to us. The two Subclasses will then bestow a Class upon us."
+
+"Good," Anacletus sighed. "But, what is the most important thing about the Subclasses?"
+
+Lavinia frowned and didn't know what to say.
+
+Adriana looked at Lily and expected the little blonde girl to answer that.
+
+I know that she knows—that lazy little girl.
+
+Anacletus even turned toward Lily and tried a soft smile.
+
+"Young Mistress Liliana, would you like to answer that?"
+
+Lily frowned at the man as if a container full of rotten eggs had been opened under her nose.
+
+Anacletus raised an eyebrow but decided to ignore her and continue with his explanation.
+
+Lily's been doing this more and more often, Adriana thought. It's like she can tell when someone doesn't like her. Whenever we have guests over, she acts weirdly in tune with their attitude toward her, even when they're doing their best to conceal it.
+
+Adriana had been trained for years in reading body language, how people spoke, which words they chose, and so forth. She could easily read everyone, often even her own husband. But Lily, who had not been trained in any of that so far, seemed to have the most crystalline talent when it came to understanding people's emotions.
+
+"Affinities," Anacletus said. "The most important thing about Subclasses are not even their rarities, their potential Skills, or their roles. No, the most important thing are Affinities. Why?"
+
+"It's the combination of Affinities that decrees which type of Class we'll get," Lavinia said.
+
+"Good," Anacletus nodded with relief painted all over his face.
+
+Adriana started feeling her blood boil at the conceit the man was showing for the two girls.
+
+"Which are the two main Affinities?" Anacletus continued.
+
+"Light and Darkness," Lavinia replied promptly.
+
+"Good. Darkness is the forbidden Affinity that no one should ever pick," Anacletus explained. "Whereas Light is what our Lord gifted us. Light empowers the Six Great Skills that were bestowed upon us in order to defeat the Necromonarch. It's the same Affinity that Champions must master in order for them to learn all Six Great Skills and ascend as the new Pope of Lumina."
+
+Anacletus shrugged after saying the last part.
+
+"Not that it concerns you two, of course. You girls can take it much easier than that."
+
+Adriana white knuckled the railing of the balcony and she saw Lavinia, down below, shifting on the chair.
+
+"I want to become a Champion," Lavinia declared boldly.
+
+Adriana waited for Lily to say something but the little girl had simply turned toward the redhead, looking intensely at her friend.
+
+"Well, we all have dreams," Anacletus deflected, trying to get back on course. "Let's talk about something serious, now. Huh, how about we go over the Six Skills of each Subclass—you two are girls, so most likely, you'll end up as [Healers]. Why don't we—"
+
+"I'll be a [Templar]!" Lavinia said, slamming her little fist on the table.
+
+"Sure," Anacletus sighed. "Young Mistress Lavinia, I am being paid to teach you two about Classes. Now, the requisites to acquire the [Healer] Class are rather straightforward. However, there are many variations of it that depend not much on the Affinities, but the Prestige Accumulated in [Healer]-related Skills before—"
+
+"Lavinia will be a [Templar]."
+
+Anacletus was interrupted by Lily, who had just spoken for the first time.
+
+"Unlikely," the old man said, starting to lose his patience. "Young Mistress Lavinia is the firstborn of the Gens Aemilia, which means she'll need to marry someone to make space for the rightful heir of her family. The most important responsibility of a married woman is to deliver heirs to their husbands—being a [Templar] is not compatible with that."
+
+Lavinia started trembling and Adriana could have sworn to have seen tears welling in her eyes. But what really caught the blonde woman's attention was Lily's posture.
+
+Adriana's daughter had just shifted on the chair, leaning forward and frowning at the man.
+
+"Lavinia will follow her destiny, whatever she deems worthy of her time," Lily said in a crystalline voice with a sudden maturity that defied her young age, as if an older, weathered, more ruthless soul had possessed her.
+
+Anacletus was taken aback by the sudden change in vocabulary.
+
+"Darling, your friend, and you, will eventually have to marry. If you had an older brother, you might have chosen to stay celibate and not take someone in marriage. As things are, I'm sorry to inform you, there are very precise customs in the Papacy—girls are not able to learn Great Skills nor can they pass their name onto an heir. It is perhaps regrettable for you but, as I've said before, I don't think your friend will be a [Templar]. That's not what a proper woman does, sadly."
+
+"You speak of destinies as though they were trifles decided by men with narrow minds. Pray forgive me, Master Anacletus, if I find your notions of what a ‘proper’ woman must do rather quaint. My friend will decide her own destiny, however little that may suit your sensibilities. Now, if you have nothing more to teach than the limitations of your own imagination… perhaps we should conclude this lesson."
+
+Every person present looked at Lily completely stunned.
+
+"What did you just say to me?" Master Anacletus raised his eyebrows.
+
+Adriana could tell that the man had clearly never been subject to such disrerspect. It was one thing to hear noble kids talk back in their childish and haughty ways, it was another to be essentially called 'stupid' in a way that a Cardinal would have had trouble to articulate.
+
+What kind of books has Lily been reading? Adriana wondered. Where did she even learn to speak like that? She never does.
+
+Once again, it was as if Lily had channeled something, as if something had taken over for a moment.
+
+What exactly that was, her mother couldn't tell.
+
+Now, however, Anacletus was mad. If Adriana had been anyone else, she would have already intervened. However, she had been taught by the Gens Iulia, the most ruthless of all the Great Families. And even though she had yet to subject Lily to any of her original family's training, she wanted to use this moment to test the kid. Anacletus knew better than to try and actually hurt her child—especially if he wanted to keep his head the next time he entered a dark alley—but he was also allowed physical punishment when he deemed it necessary.
+
+What are you going to do, Lily, when a man tries to take your dreams away?

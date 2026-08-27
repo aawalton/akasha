@@ -1,0 +1,159 @@
+---
+id: 568f7765-fe9a-5e04-8c19-cb5402ff004f
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 31"
+slug: 0035-b1-chapter-31
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 35
+ownLength: 1656
+unit: words
+ownProgress: 1656
+publishedAt: 2024-01-16
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1479647/b1-chapter-31"
+royalRoadId: "1479647"
+markedReadAt: "2026-06-29T19:07:03.369Z"
+---
+
+The Ambush Site
+
+Invasion General Lucius Cornelius Caesar, Sixth Prince of the Grand Roan Empire, slowly stalks through the barren wasteland, the snow falling down all around him as he and his men all surround the Class S Ability Holders. Each one of them has a cloaking spell of sorts attached to them that should cover up their heat signature, soul, and mana. And each one of them is one of the elite Ability Holders of the Invasion Force.
+
+Unlike with the previous attempts at the Class S Ability Holders, the Invasion General decided to put in everything for this attempt.
+
+Because at this point it’s all or nothing.
+
+Victory or defeat.
+
+And while some may ridicule him, believing the man to have thrown away critical parts of his army just for the removal of a few enemies, he knows otherwise.
+
+He still remembers his elder brother, the Fourth Prince, who participated in their ally’s invasion of a new world. An invasion of a world that turned out to be home to a single Class S Ability Holder.
+
+Class S Ability Holders are a rare breed. Almost never seen, but with near infinite potential should they be able to level up their class.
+
+Before the System initializes, they’re nothing more than a person with an incredibly powerful ability. One that is unmatched in their area. But after the System initializes and they’re allowed to grow, all Class S Ability Holders become incredibly powerful players within the universe at large.
+
+The Fourth Prince made the mistake of letting the Class S Ability Holder grow and it cost him the entire war.
+
+Just a single Class S.
+
+The Sixth Prince will not make the same mistake.
+
+But at the same time, his choosing to head down this route is already dooming the invasion.
+
+It’s not too late to turn things around. So long as this mission is successful.
+
+The man grits his teeth at that thought as he and the other soldiers and officers continue spreading out around the Class S enemies within the building. Then he turns to look at the sole surviving space mage of his force and begins to nod his head, only for thousands of enemy soldiers to suddenly surround their entire force, shocking both him and his soldiers.
+
+And if that weren’t bad enough, he feels a wave of spatial mana pass over the group, no doubt locking the area of teleportation.
+
+“It’s a trap!” Lucius shouts, feeling his heart pounding damn near out of his chest as he draws his sword, his cloaking falling apart immediately. Meanwhile all of his soldiers do the same, using their abilities at the same time to send all sorts of attacks at both sides. Those within the building who are beginning their own assault, and those surrounding them.
+
+Lucius quickly finds that the enemy firepower is overwhelming them though, so he changes his orders, directing his forces to enter close combat to nullify the native’s technological advantage.
+
+But even then, the sheer numbers of the enemies proves too daunting a challenge to overcome.
+
+We’ve lost…
+
+The Invasion General feels his heart growing numb at the realization. Then anger fills him. Anger directed at the leaders of the enemies who refused to work with them. Anger at his father for ordering him to capture the Class S Ability Holders or send them to Roan. And lastly…
+
+He strikes down the officer he was fighting and turns around, his eyes blazing with a black flame as they lock onto the true immortal girl who had started this all.
+
+…rage at the instigator of it all.
+
+Aria
+
+I feel a slight shiver run down my spine for some reason as I fire bullet after bullet, shattering the flimsy barriers made by the invaders. Guns proving too much for them once again.
+
+The only ones that turn out to be major issues being those with incredibly powerful offensive abilities.
+
+But those just serve as new adaptations for me as I soak up the attacks meant for the others. Or just useless attacks that are blocked by Harvey’s barrier.
+
+Her barriers really are powerful as hell.
+
+Then again, she’s Category 5 for a reason.
+
+Messages from that System continue playing out in my head over and over again as I kill one soldier after another.
+
+[User has killed one being of Level 11. Requirements to reach level 5 have been updated. New requirements are as follows: 109/1000 beings have been granted Death.]
+
+[User has killed one being of Level 13. Requirements to reach level 5 have been updated. New requirements are as follows: 110/1000 beings have been granted Death.]
+
+…
+
+I kind of hope that I get another skill at level 5. It just kinda sounds right for it. Maybe.
+
+I’m also getting a little sick of being so weak. The only reason I can keep up with these enemy soldiers physically is thanks to the physical enhancement from both my soul energy and from Captain Rogers.
+
+Literally everyone is outleveling me. And it’s getting annoying.
+
+I perfectly understand that I have eternity to level up, so it’s nothing more than a slow game for me. But still. It’s a pain seeing everyone easily outleveling me and leaving me behind in terms of physical strength.
+
+Guess that’s what it costs to be a true immortal.
+
+Then there’s the fact that it’s taking more and more beings with every single level. Meaning when I reach the higher levels, just how many beings will I have to kill to level up? Millions for a single level up after I’ve reached several hundred levels?
+
+What would that make me if I went through with it?
+
+Unless I just killed animals or critters?
+
+I continue endlessly pondering these thoughts as I shoot through the enemy soldiers, our side’s technological firepower proving too much for the enemies and quickly reducing their numbers. Until I feel a sudden wave of pain from my leg, bringing my gaze down to find… no leg.
+
+What happened to my leg?
+
+I know I’ve been racking up wounds all across this battlefield even while keeping my distance, but I’m pretty sure I should’ve noticed losing a leg.
+
+Wait, what’s with those black flames?
+
+I frown at the strange black flames burning on the edge of my pants-leg from my upper thigh down. Also burning at my leg itself, but I try to pat it down to extinguish it. Which doesn’t do anything. So I instead drop down, letting the burning flesh of my leg hit the snow on the ground. And that manages to put it out. Mostly.
+
+To my surprise, it ends up taking a while for my leg to heal, leaving me to look up while on the ground to find a man wearing incredibly fancy armor walking over towards me with a look of absolute hatred on his face.
+
+Huh. He doesn’t seem to like me.
+
+Wonder why?
+
+Also, his level is pretty high. At level 17.
+
+Actually, he looks even angrier when he sees that I’m not really in pain.
+
+Sorry bud, pain just really isn’t my thing anymore. After you feel your head being cut off, heart being pierced, and legs and arms cut off once, twice, maybe a few dozen times, you tend to not care much anymore.
+
+Especially since my ability seems to suppress it a little as well.
+
+I hear someone scream my name from the building, following which the others begin turning their attacks on the newcomer. And he quickly starts blocking the attacks with his black flames. But that doesn’t last long, for Snow’s ice blades grow stronger with each consecutive attack.
+
+So before he can make it halfway across the distance to me, he ends up being stuck full of ice blades across his body.
+
+All while still glaring at me as if I killed his puppy.
+
+“Do… it…” the man suddenly shouts with a very scratchy and blood-filled voice. “End… it all!”
+
+I watch for a while as my leg heals before pointing my pistol at him and shooting him directly in the head, right between the eyes. Not really caring much about what he was just saying.
+
+Because that angry glare was starting to get annoying.
+
+Right after that, I devour his soul. Because he is the strongest invader I’ve seen thus far.
+
+[User has killed one being of Level 17. Requirements to reach level 5 have been updated. New requirements are as follows: 141/1000 beings have been granted Death.]
+
+I continue waiting for my leg to heal, but then I notice a bright flash of black and purple light shining from the direction of the Art Mountain Pass. The other Mountain Pass down here in the South.
+
+The light is so bright it fills the entire sky and makes everyone in the battle pause at once. And along with the light is an incredible surge of power. A power I somehow feel familiar to me.
+
+Interesting.
+
+For some reason the enemy officers look terrified of the light though. Not sure why.
+
+After a few seconds, both the light and the power vanishes in the blink of an eye. Leaving us in silence once more.
+
+And now the enemy officers just look confused.
+
+I tilt my head, wondering just what’s with their little cycle of emotions. Then I shrug it off and look back down at my leg, which is getting close to halfway healed. Healed enough that I have a knee again at least.
+
+Sure is taking a while to heal for a mere leg wound.
+
+I raise my head to look at the other officers, only to find our own soldiers rushing in and taking them all down, capturing quite a few of them in the process since we can.
+
+And just like that, the battle draws to a close not too long after beginning.
+
+All because of us Category 5s and the power of guns.

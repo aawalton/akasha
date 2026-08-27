@@ -1,0 +1,441 @@
+---
+id: fdbb58bd-b961-58f5-874f-2a69ab6542eb
+page-type-slug: story-chapter-royal-road
+title: "103: Illumination"
+slug: 0103-103-illumination
+partOf: delve
+position: 103
+ownLength: 7172
+unit: words
+publishedAt: 2020-07-12
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/523266/103-illumination"
+royalRoadId: "523266"
+---
+
+Two days after the Shift, Val found himself dangling from the edge of the roof of the Watch administration building in their southern stronghold. This was by design, rather than as a result of some accident. The Watch used the building itself as their headquarters, but Rain seemed to have some agreement with them. He was the only one they let up here.
+
+Silently, Val pulled himself up over the edge. Thanks to Transparency, no one would see him, but the slightest sound could still give him away. His target came into view as his head cleared the lip. Rain was standing at the opposite edge of the roof and staring out at the city, wearing his battered armor with his helmet hanging from his waist. He’d yet to replace his cloak, and the dented and torn metal stood testament to the beating that he’d endured. A scrap of canvas had been lashed over his right shoulder to hold the damaged pauldron in place, and a large rent in the left side of the breastplate revealed the ripped fabric padding beneath.
+
+Val frowned, the twinge of pain that the motion caused serving as a forcible reminder of his own damage from the battle. As if I could forget.
+
+Silently, he stood, bringing the city into view over the walls of the stronghold. Many buildings had been deliberately demolished, and others lost to fire or to Stumpers. Those that still stood were looking the worse for wear, blackened by soot and under attack by the toxic moss that had started growing everywhere. The city as a whole was oppressively hot, and it smelled more like a swamp every day. The air on the top of this roof in particular, however, was cold and fresh. Rain’s doing.
+
+Slowly, carefully, Val padded across the bricks until he was standing invisibly beside his armored friend. A grin formed on his face, painful thanks to his injury, but he ignored it as he dropped Transparency. “What are you doing?”
+
+“I’m brooding,” Rain said, without missing a beat.
+
+Val’s grin faltered. Damn it, he’s impossible to sneak up on. Is he using that Detection skill all the time or something?
+
+“It is difficult, without eyebrows,” Rain continued, turning his head. “Want to help?”
+
+Val snorted, then winced. “Ow.”
+
+As if the missing eyebrows weren’t enough, Rain also looked a bit like a raccoon. He had a reddish patch of tender skin surrounding his eyes where he’d been injured. Val resisted the urge to raise a hand to his own injury, looking away.
+
+“How is it?” Rain asked.
+
+“What?”
+
+Rain motioned to the bandage covering Val’s cheek. “What does Wallace say?”
+
+“I’m going to have some scars,” Val said, reaching up to lightly touch the bandage. “I don’t know how bad yet. The acid burned really deep, and I didn’t get to a healer in time.” He shook his head. “It’s fine,” he lied.
+
+“Damn, Val, I’m sorry,” Rain said. “I thought the potions would—”
+
+“I said it’s fine.” It’s my own damn fault. I wasn’t strong enough.
+
+Rain’s face bore a pained expression, and it looked like he was struggling to think of what to say.
+
+“How about you?” Val asked to change the subject, wiggling his eyebrows pointedly.
+
+Rain gave a half-smile. “Wallace says they’ll grow back on their own. I told him to save his mana for people who need it more.”
+
+Val shook his head. “You would.”
+
+Rain shrugged, staring back out at the city. Val stood beside him in silence as they surveyed the devastation. After a while, Rain shook his head and punched Val in the shoulder lightly. “If it makes you feel any better, chicks dig a man with scars.”
+
+“What?” Val looked at him. “Is this another one of your sayings?”
+
+Rain paused, then translated. “Women like a man with scars.”
+
+“Oh,” Val said, laughing. “Yeah, they do. Depending on the scars, anyway. I’ll have to wait and see how mine turn out.” He paused. “Why are women baby chickens?”
+
+“Honestly, I have no idea,” Rain said. Then he looked back at the city, his smile vanishing as he sighed. “This is a catastrophe.”
+
+Val nodded. “Yeah.”
+
+In the Shift, as the first night was being called, over a third of the city’s population had been killed. The following day had been chaos, with the Watch trying to clear the city of danger and working to bring people to their strongholds. It was a fool’s hope that the monsters would just disappear with the rising of the sun. No, they lingered, hiding from the light, but not damaged by it. Navigating through the city was fraught with danger outside of the Watch’s perimeter.
+
+Razorspines, thankfully, were rare. Only two or three had been reported, and as long as they had the numbers, the Watch was capable of dealing with them. It helped that the deadly reaper-class monsters weren’t stupid and avoided large groups of awakened. Still, the death toll during the first day hadn’t been insignificant. The Guild and the bathhouse had been abandoned, as had the holdouts of the various nobles. Other than the Watch strongholds, only the Bank remained as an area of relative safety, though their enforcer, whatever his name was, wasn’t allowing anyone inside.
+
+The second night was rough, but nothing compared to the first. More people had died thanks to unexpected spawns, but nothing stronger than a Razorspine had appeared. Other than one or two incidents, the southern stronghold made it through mostly unscathed. In preparation for the second night, the commander had ordered a large barricade constructed outside the walls, sealing off a semi-circle of the city that included the south gate and a segment of the river. The barrier extended right down into the water, and Rain had Purified and chilled the slapdash reservoir after it had been cleared of aquatic monsters. That provided the people with much-needed water and relief from the heat. During the day, that had been enough, but at night, Monsters had kept spawning beneath the surface despite their best efforts.
+
+The second day didn’t go as well as the first, thanks to a large fire that had broken out in the hill district. The northern and western strongholds had been abandoned in response. To accommodate the refugees, the barricades around the two remaining strongholds had been extended and joined, sealing off the city’s south-east quadrant. There were plenty of free hands to help with the work, and Earth mages for when hands weren’t enough. Outside of the barricade, the only remaining building of note was the Bank, which had been sealed. The enforcer, it appeared, had made the vault his number one priority. He’d destroyed the nearby buildings to stop the fire. Val hadn’t seen the man do it, but as a rubyplate—the Bank’s silverplate equivalent—it shouldn’t have been that hard for him.
+
+As for the Citizen, Velika had been a catastrophe on the scale of the Shift itself, but one that was nominally on their side. She wasn’t interested in saving people or working with the Watch, but nevertheless, she probably killed more monsters than anyone else. On the first day, she’d made a game of throwing Stumpers through the air— ‘going for distance,’ she’d said. Mercifully, she had constrained this activity to the area outside of the city walls.
+
+On the second night, Velika had tired of her Stumper-throwing game and really let loose, killing every last monster outside the walls in the space of ten minutes, it had felt like. She’d repeated this performance periodically all night, waiting for the monsters to respawn, then obliterating them in a whirlwind of destruction. Then, once the sun rose on the second day, she had disappeared, leaving the ground outside the walls almost as shattered as the battlefield where the Empire and DKE had clashed. Nobody Val had talked to had seen her since.
+
+Now, on the dawn of the third day, people were working on clearing out the wreckage inside the barricade. Scavenging parties would soon be sent out into the destroyed city to retrieve food and supplies, and Val was planning to join one of them. Rain was tied down here, of course. His mana-generating and cleaning abilities were vital for ongoing operations.
+
+Val shook his head, clearing his throat. “Rain.” He paused. “I wanted to tell you… I’m sorry. For making you save me again.”
+
+Rain looked over at him, a complicated expression on his face. “Don’t worry about it,” he said after a moment. “I made plenty of mistakes too.”
+
+Val shook his head. “No, you really didn’t. Remember when you froze up against those Kin? That was, what, a month ago?”
+
+“Thirty-five days,” Rain said.
+
+It is ridiculous that he knows that to the day. Val sighed. “I don’t mean the fight specifically. Look, Rain, against something like a Dissolver, I thought, well… I thought I needed to distract it. I was going to stay invisible, hit it from range, I don’t know. I knew we didn’t really have a hope, I just thought that I could…do…something.” He looked away. And then Rain went and killed it. Seventy-one percent fucking contribution. How did he get so strong? It’s not fair. I’m the one who should be saving him, not the other way around.
+
+“It’s okay, Val, you made a mistake. It happens,” Rain said.
+
+“No, it’s not okay,” Val replied, looking back at him. “You saved me from that damn snake, too. Did you know that thing was only level eight? That’s the same level as me, and I almost fucking died. The thing could see me through Transparency somehow. How was I supposed to know that?”
+
+“What were you doing in there, anyway, Val?” Rain said, looking at him. “What did you think would happen when Velika found out?”
+
+“She wasn’t going to find out,” Val said. “If I hadn’t gotten half-eaten by a damn snake, I’d have been out of there before she could do a thing.”
+
+Rain shook his head. “It was a stupid risk.”
+
+“I’m fucking capped, Rain,” Val snapped, glaring at him. “If I don’t take risks, I’ll never be able to fix that. Not everybody gets a fucking level eighteen blue dropped in their lap.”
+
+Rain looked away. “Yeah…” He shook his head. “You don’t have to do it alone, Val. I can help you, will help you. Even then, you could just save up some money and—”
+
+Val slashed his hand, cutting Rain off. I didn’t come up here to defend my actions. I came to apologize and…fuck. “It isn’t that easy, and you know it.” Except it is. For him.
+
+“Val,” Rain said, laying a hand on his shoulder.
+
+Val whirled, pushing his hand away. The compassionate expression on Rain’s face struck him, and something inside him snapped.
+
+“You don’t get it, do you?” he hissed. “How hard it was to just watch you fight something like that? I saw the whole damn thing! Saw how many times you went down, and then just got back up again. You and your lucky blue and your ridiculous armor. I mean, do you have any idea what something like that is worth?”
+
+Rain looked like he wanted to respond, but Val rode right over him, shouting now.
+
+“Just save up? Do you have any idea how ridiculous you sound?” He clenched his fists. “I’ve been training since I was four! FOUR! Since before Fecht took my father away! And here you come, blowing past me in less than a season! It should have been me, standing up to that thing. Being the hero. Not you.”
+
+“Val, I don’t know what—”
+
+“Shut up!” Val shouted, closing his eyes, panting. After a moment, a murmur of voices from the ground caught his attention, and he looked down to see a crowd of faces staring up at them. The sudden reality of what he was saying hit him, and he flushed with embarrassment. “Shit.”
+
+“Val, it’s okay,” Rain said. “Calm do— no, telling someone to calm down never works. Um.”
+
+Val stared at him, still breathing hard. “You are ridiculous, you know that?”
+
+Rain looked confused and a little hurt. Val sighed, turning away from the edge and walking to the center of the roof. He heard Rain following him, and he spoke without looking back. “Here I am throwing a tantrum like a spoiled child, and you’re still trying to make me feel better. Stop it. You’re acting like my mother.”
+
+Val stopped, staring down at his feet. He could feel Rain standing behind him.
+
+Fuck. Life isn’t fair, Val, grow the fuck up. Stop being envious, and just apologize to your friend and thank him for saving your damn life.
+
+Val shook his head, still not looking at Rain. “Sorry.”
+
+“You want to talk about it?” Rain asked.
+
+Val sighed deeply, turning around to look at him. “I’m just… I keep screwing up. You’ve had to save me, shit, four, five times now? A person as weak as me should just die.”
+
+Rain looked appalled, but he controlled the expression quickly. Still, he was clearly at a loss for what to say to that. He slumped down, sitting on the roof.
+
+Val joined him, and the next few minutes passed in awkward silence. When Rain finally looked up and spoke, his face bore a serious expression.
+
+“Have you tried getting good?”
+
+It was Val’s turn to be taken aback. Did he just…? Oh. He’s messing with me, isn’t he? Damn it.
+
+Val looked away from Rain’s increasingly strained mask of seriousness. “Ha-ha, very funny,” he said halfheartedly. Strangely, he felt a little better. After a moment, he snorted and looked up.
+
+“Just get good, huh? I’m trying, but it isn’t as easy for me as it is for you. It’s not fair, but that’s just the way of the world.”
+
+Rain nodded. “I know.” He gestured to the city. “You’re right, it isn’t fair. None of this is fair. We’re the lucky ones, and I’m not just talking about being awakened. Lots of people weren’t so lucky in the past few days.”
+
+Val nodded. “Yeah.”
+
+Rain got back to his feet, turning to look once more at the city. “I need to be stronger. So I can change it.”
+
+Val scoffed, watching him. “You and your hero bullshit.”
+
+“It isn’t bullshit,” Rain said, whirling on him. “And you are a hero too, idiot. Vanna is alive because of you.”
+
+Val looked away. “Yeah, I guess. Nothing like what you did. You led like a hundred people out of that damn sewer.”
+
+Rain shook his head. “It isn’t about numbers. I saved a lot of people, so what? Even more died that I couldn’t do anything about. Hell, more might be dying right now, and I’m just hiding up here so I don’t go insane from overwork. I need a break, but I feel horrible for taking one. Just saving people isn’t going to cut it, Val, and it never will be.” He gestured to the city. “Stuff like this shouldn’t happen. People should be able to protect themselves, but they can’t, not without the system. Did you know that there hasn’t even been a single blue yet? I mean, seriously? What the hell?”
+
+“It isn’t your responsibility,” Val said.
+
+“I know,” Rain sighed. “I just want people to be able to protect themselves. Until I can figure out how to awaken everyone, all I can do is save as many people as I can. And to do that, I need to be stronger.”
+
+“I can respect that, at least,” Val said. “I just need to be strong enough to kill that bastard Fecht. That will be enough for me.”
+
+“Is it because of your father?” Rain asked.
+
+Val looked away, raising a hand to touch his jacket. “My father is dead.”
+
+“But I thought…”
+
+“Lightbreaker is not my father,” Val said, not looking back. “Fecht killed my father. His body might still be moving, but the man who raised me is gone.”
+
+Rain tilted his head. “Did Fecht use a skill or something? Mind control? Wait, you mentioned your mother… Does Fecht have her? Is she…”
+
+“She’s dead,” Val said, softly. “And I don’t know if it was a skill Fecht used, or just…” He took a ragged breath. “With the things Lightbreaker has done, it doesn’t matter. I know you probably haven’t heard the stories, but…” he shook his head, closing his mouth.
+
+I didn’t want to talk about this. Fuck.
+
+“You don’t have to tell me if you don’t want to, Val, but I’m here if you need me to be. That’s what friends are for.”
+
+Val shook his head. Friends, huh? He’d tried doing it alone, and that hadn’t exactly worked so well, but what else was he supposed to do? The only person you could really count on was yourself when it came down to it. This was his battle, his demon to kill. He shook his head again, closing his eyes. Maybe I should…ask him to help me. Tell him everything….
+
+He sighed. I need to think…
+
+“Don’t tell anyone I’m his son. It could cause problems,” he said, finally.
+
+“I won’t,” Rain said. “But it’s kinda obvious. There aren’t a lot of Osaran Light Mages around.”
+
+“Just tell them I’m a failed Illuminator,” Val said with a sigh, getting to his feet. I should go…
+
+Rain replied with a flowing sentence of vaguely familiar syllables.
+
+Val paused. “Was that supposed to be Zeelada?”
+
+“My point exactly,” Rain said. “You won’t fool anyone.”
+
+Val snorted. “Neither will you, with an accent like that. I might not speak Zeelada, but that sure as hells wasn’t even close to right.”
+
+Rain grinned. “In my defense, I did learn from a book.”
+
+“Of course you did,” Val said. “How long did it take you, like a day?”
+
+Rain shrugged. “I can teach you, though we should probably get Mlem to teach us both instead. I’ve heard him speak Zeelada before, and Winter should work for more than just me, you know. That’s kinda the point of an aura.”
+
+Val scoffed. “As if we have time to even worry about something like that.” He looked up at the sky, watching the smoke from the fires swirl, trapped by the dome. “We need to get out.”
+
+“Yeah,” Rain said.
+
+The silence stretched on for a few moments, then Rain shrugged. “So if you’re not an Illuminator, what are you? You’ve got some secret legendary class, don’t you?”
+
+“No,” Val said, hesitating. “And not here. Ask me again if...when we get out of here. It isn’t like it will matter if I can’t raise my cap. My father left me everything he knew, and you heard for yourself what he…what Lightbreaker can do. It isn’t an easy path to follow, thank the gods. Imagine what the Empire could do if they could make more…” He shook his head. “Anyway, it is still dangerous. Someone could be listening. I did kind of make a scene.”
+
+“Yes, you did,” Rain said. “It was very dramatic. I could really taste the angst.”
+
+Val snorted. “Shut up, Rain.”
+
+“Well?”
+
+Reason thought quickly, stroking his chin and wishing that a beard wasn’t a liability in his profession. “The mystery of nature defies the knowledge of man.”
+
+“So you don’t know,” said the Watch officer.
+
+“Unfortunately, no, we do not,” Myth said, placing a clump of the strange moss in a deep glass bowl, which he then lifted and began swirling gently. Reason cringed. The bowl contained a powerful acid, and Myth wasn’t wearing gloves.
+
+“We haven’t had the time to do many experiments. We’re working on it,” Myth continued.
+
+Reason turned away, directing his attention to the steaming vat of oil sitting next to the fire. He spread his arms wide, using Fume Control to coax the vapor into a swirling vortex around him and up into the air. This was completely pointless, of course, but the officer wouldn’t know that. “Time cares not for the soul of humanity.”
+
+“Seriously, what in the depths is that supposed to mean?” said the officer, annoyance clear in his tone.
+
+Reason smiled.
+
+“We have been busy,” said Myth. “Now that Reason has finished dissolving the Crysts in the oil, we just need to wait for the mixture to cool slightly. Then I’ll be able to Stabilize it. You’ll have your evertorches like we promised. Once they are complete, Reason can assist me in investigating the moss further.”
+
+Reason redoubled his efforts, trying to get the smoke to form a helix pattern. “Crystals of green, the harvest of nature defies. We stand needfully of neighbors’ bounty.”
+
+There was an exasperated noise from the officer, but Reason didn’t look back. He was focused on the steam, making sure to direct it away from his nose as he sent it swirling around his head.
+
+“We need more Chem-Crysts,” said Myth. “We’d like to start another batch as soon as we can.”
+
+“We’ve given you all that we have,” the officer said. “The monsters are too fresh. They haven’t had the time to collect any essence, chemical or otherwise.”
+
+Reason frowned at this. If they couldn’t get more Crysts on a reliable schedule, then things were going to get bad. This one batch of mage oil should be good for thousands of evertorches, but they had half a city to light.
+
+“Fate frowns upon us in our time of want,” Myth said.
+
+Reason almost lost control of the smoke in response to the beautiful noise that this drew from the officer. “Oh, gods, don’t you start too,” the man growled. “One of you is bad enough. Look, we’ll bring you any that we find. Just keep working on that moss, okay? Commander Bartum wants to know what will happen if we start burning it.”
+
+“The smoke would be toxic, I can tell you that already,” said Myth. “Reason thinks he might be able to break it down and extract the toxins so he can use the rest. For what end, he did not say. These things take time. Until we know more, just make sure no one eats any.”
+
+“We already figured that one out,” said the officer, sighing. “Let us know as soon as you learn anything more. We need to get ahead of this before it spreads any further.”
+
+“Of course, Officer,” Myth said.
+
+The officer’s footsteps retreated, and Reason turned to look at his partner, then released the smoke when he saw the serious expression on his face.
+
+“I think we’re in trouble,” Myth said, holding up the bowl filled with the mixture of moss and acid. Reason peered into it and frowned. The moss hadn’t withered at all, and that was the most potent acid that he had. To make anything stronger, he’d need more Chem-Crysts, which they obviously didn’t have.
+
+“Hmm,” he said. “We will just have to keep trying. Meloni should be back soon with the things we sent her for. There is hope yet. Perhaps it is not an issue of the strength of the acid. We can try other chemicals. Also, gloves, please. How many times must I tell you?”
+
+“Oh hush,” said Myth, setting the bowl down gently. “I have Nonreactivity, same as you, and this isn’t magical at all.” He turned, and Reason followed his gaze to the weary faces of the citizens huddled around the numerous bonfires in the courtyard. “Do you think we’ll be able to get the torches done by nightfall?” he asked.
+
+“Time cares not for the soul of humanity,” Reason replied, forcing himself not to smile.
+
+Myth laughed. “Okay, I’ll admit, that was a good one. Even I have no idea what that means. The reaction was marvelous. Did you see his face?”
+
+“I did not,” Reason said, giving a slight bow, “but I can imagine.” He gestured to the steaming vat of oil. “Now, come on, it is almost cool enough. Let’s get this done so the workers can commence with the dipping.”
+
+Myth nodded. “I am so glad we’re not going to have to do that ourselves.”
+
+Staavo looked up as he heard a deep rumble, realizing after a moment that it was just Tallheart clearing his throat.
+
+“It is ready,” the cervidian smith said, offering him a coil of thin, dark wire, wrapped around a twig of all things.
+
+“Ah, good. Thank you,” Staavo said, setting down the hot metal pipe he was holding. He took the makeshift spool of wire from Tallheart with a leather-gloved hand to inspect it. “It took you long enough.”
+
+“Be nice, Staavo,” Jamus said from where he was working the bellows. The three of them were standing next to a small makeshift glassworks, situated near the edge of the Lee.
+
+“What?” Staavo said indignantly, glaring at the orange-robed mage. “I said thank you.”
+
+“It is fine, Jamus,” Tallheart said. “I am not bothered by the bleating of a goat.”
+
+Jamus barked out a laugh, and Staavo frowned, conscious of the scraggly white hair on his chin. He hadn’t had a chance to shave since he’d gotten trapped out here. “Don’t you have somewhere to be?” he said, glaring at Tallheart.
+
+“I want to see how it works,” said Tallheart, gesturing to the wire. “That was difficult to make.” He tilted his head, “A very quarrelsome metal. Difficult to draw into wire. Worse than iron. Much harder to melt.”
+
+“And you’re sure it’s the stuff Rain was talking about?” said Jamus. “Tungsten?”
+
+Belatedly, Staavo realized that Jamus was clean-shaven, meaning that he had a razor somewhere in that ridiculous robe of his. He’d have to ask to borrow it later.
+
+“Yes,” said Tallheart, nodding to Jamus. “He described it well. I did not know it would become so workable once the contaminants were removed. I would like to talk to him about other metals.”
+
+“Well, since you’re here, make yourself useful and bind these,” Staavo said, setting down the spool of wire on his workbench and pointing to what he’d been working on. While Tallheart had been speaking, Staavo had removed his gloves and twisted off a small length of the tungsten filament to wrap it around two thicker copper wires. These were threaded through holes in a wooden plug, which kept them from touching each other. The relative thickness of the tungsten filament made it look like a tiny clothesline that had been strung between two trees, with the wooden plug as the ground. The copper wires ran straight through the plug, protruding much further from the other side. There was another hole drilled through the wood as well, but this was for a different purpose and didn’t have a wire threaded through it.
+
+Wordlessly, Tallheart picked up the assembly and used an armored finger to bind the tungsten to the copper.
+
+Staavo shook his head. He’d asked the smith to explain how his metalworking skills functioned before, but Tallheart had just grunted and walked away from him. Cervidians hated questions, apparently.
+
+Staavo sighed deeply. “I have to admit, you sure are handy to have around, even if you won’t indulge an old scholar’s curiosity.” He started stringing together a second pair of wires. “Shouldn’t the filament be all coiled-up like a spring like Rain said, though?”
+
+Tallheart shrugged. “Tedious. Also, Rain said that it is best to test one thing at a time when you are doing science.”
+
+Staavo grumbled at him. Once he finished with the second assembly, he passed it to Tallheart for binding and donned his leather gloves once more. Two metal pipes were sticking out of the glassworks, one of which he grabbed, pulling it out slowly. There was a glowing glob of molten glass on the end. Pure glass. The clearest he had ever seen, once it cooled. Staavo frowned, glancing at the smith, then back to the molten glass. Then, he sighed, mumbling as he shifted his grip on the pipe. “I’m sorry I called you a deer.”
+
+“Apology accepted,” Tallheart said evenly.
+
+“See, there you go, Tallheart,” Jamus said, still working the bellows. “He apologized all on his own. I told you he wasn’t so bad.”
+
+Staavo grunted, then turned his back to them in a huff. He had his irascible image to maintain. He wouldn’t even admit it to himself, but he was starting to grow fond of the cervidian. Tallheart had used that smelter of his to melt some sand, then used filter refining to separate the glass from the mess of molten rock and metal that he kept simmering in there at all times. With the number of filters that the smith had made at this point, he could pour off metals as easily as a barman could tap a keg. Staavo was familiar with filter refining as a concept, but the removable and interchangeable filters that Tallheart used really took it to a different level. He hadn’t even known that it was possible to make one for glass.
+
+Tallheart had been busy these past few days, hardly seeming to sleep. He had fetched a ridiculous amount of firewood, helped to construct the barricade while fighting off the unending horde of monsters, set up his forge, and made basic swords to arm the merchants and farmers that were sheltering with them. He had also made the steel blowpipes for the glassworks, the copper wire, and a whole bunch of other things besides. Seeing the high-level craftsman at work had Staavo feeling inferior, and a little redundant.
+
+Other than collecting firewood, however, Tallheart couldn’t do anything about the light situation. Light enchantments required Light-Crysts, of which they had none. Ameliah’s Lunar Orb helped, but bonfires were their main weapon against the darkness. What they needed was a bunch of evertorches, but they didn’t have Chem-Crysts either, let alone anyone to refine them. Keeping the entire Lee lit at all times was no small task, and that was what had motivated Staavo to construct the glassworks. It wasn’t like there was much else for him to do.
+
+With practiced motions from a lifetime of diverse hobbies, Staavo blew a heavy bulb of glass on the end of the pipe, spinning it to keep it from becoming too lopsided. Then, he carefully inserted the wooden plug into the pipe, threading the wires in after it. He fed it through carefully with a stick, such that the short end of the wires and the tungsten filament ended up inside the slowly cooling bulb of glass. This ticklish feat accomplished, he used a pair of tongs, also made by Tallheart, to pinch off the bulb, leaving the trailing ends of the two copper wires exposed when he took the pipe away. He made sure to completely seal off the wooden plug, blocking the third hole and making sure that there were no gaps around the wires. This done, he carefully hung the completed bulb upside down by the wires from a wooden rack set up next to the glassworks. With much protest from his back, he stretched, arching his spine to work out the kinks.
+
+“You are getting quite good at that,” said Jamus.
+
+“Thanks, kid,” Staavo said, grinning at the annoyed expression that this caused on Jamus’s face. “Now, go get Ameliah so I can prove you wrong.”
+
+“I’m right here,” Ameliah said.
+
+“Gah!” Staavo shouted, almost falling over as he whirled to face her. “How long have you been there?”
+
+Ameliah smiled as Tallheart rumbled in amusement. “Not long. I was waiting for you to put down the molten glass before I said hello.”
+
+Staavo snapped his gaze to Jamus angrily. “You could have warned me she was there.”
+
+“Where would have been the fun in that?” Jamus said, raising a bushy eyebrow.
+
+“Bah, whatever happened to respecting your elders?” Staavo grumped as he removed the second blowpipe from the glassworks. As he worked, he considered once more whether he’d need to build the void pump that Rain had described. It seemed like a lifetime ago when they’d had the conversation about light bulbs back in his tower. They’d discussed the topic further when Rain had come to the barrier the night before the Shift, but Staavo hadn’t had time to ask all of the questions he’d wanted. He had picked up many things in his travels, but a grasp of hand code—beyond the basic combat signs, anyway—wasn’t one of them. Ameliah had shown admirable patience in translating the strange concepts Rain had been attempting to describe, but she’d eventually grown annoyed by the back-and-forth.
+
+“Are you going to try Purify again?” Tallheart asked Ameliah, clearly thinking about the same issue.
+
+Ameliah shook her head. “No. I have a different idea that I’d like to try. I don’t think I’ll be able to do what Rain suggested with Purify. I’ve never seen a real light bulb, and I can’t picture one well enough. I tried both pure void, and the nitrogen thing, and there was no difference.”
+
+Staavo nodded along as she spoke. The copper-filament bulbs that Ameliah had treated with Purify the day before had all burned out just as quickly as the untreated ones.
+
+“It didn’t work because the void doesn’t exist,” Jamus said. “You can’t have nothing!” He waved his hands through the air. “And air is just air. None of this invisible nitrogen or oxywhatever.”
+
+Staavo opened his mouth to call Jamus an idiot, but an angry grunt from Tallheart cut him off.
+
+“Cease,” the smith said. “I will not allow you two to start that argument again. Whether or not the void exists, you would fill it with your childish noise and ruin the experiment.”
+
+Ameliah snorted loudly, covering her mouth to hide her amusement. “Nice one, Tallheart.”
+
+Staavo bit off his reply about how Rain had said there was no sound in the void. He knew when he’d been beaten.
+
+“Anyway, my idea should work,” Ameliah said, still smiling. “I might not be able to picture a void inside that bulb, but I can try something like the experiment with mercury that Rain mentioned.”
+
+“But we don’t have any mercury,” Jamus said. “Tallheart couldn’t find enough around here. We’re lucky he found the tungsten.”
+
+“Mmm,” Tallheart rumbled.
+
+“I don’t actually need the mercury,” Ameliah said. “You’ll see.”
+
+Staavo finished inflating the bulb as before and inserted the filament. Instead of sealing it, he looked up at Ameliah, then passed the pipe to her when she gestured for it. She grabbed the hot metal with her bare hands, then flipped it vertically, so the bulb hung toward the ground. Then she took one hand off the pipe and held it to the side. After a moment, a trickle of water appeared, dripping from her finger.
+
+“Since when can you cast Aquifer?” Jamus asked. “Isn’t that tier three? Is there anything you can’t do?”
+
+Ameliah smiled but didn’t reply. Staavo didn’t miss the fact that steam was rising from the conjured water, meaning that it was boiling hot. Metamagic of some kind? And Channel Mastery, too, or she’d have drowned us by now. Depths-cursed silverplates.
+
+Ameliah raised her finger to the pipe, letting the barest trickle of water drip down through it and into the bulb through the empty hole in the wooden plug. Fortunately, the bulb didn’t immediately shatter, but there was still a hissing plume of steam as hot water met even hotter glass.
+
+“Wait a minute, how did that make it through the pipe?” Jamus said. “It’s made of metal. Aquifer makes conjured water, right?”
+
+Staavo tilted his head. Huh. He’s right, that is odd.
+
+Ameliah just smiled and continued filling the bulb. It was taking a while for the magical water to displace the air through the tiny hole, especially with the bubbles of steam fighting against the flow.
+
+“Oh. Ohhhh,” Jamus said after a long silence, hitting himself in the forehead. “Of course. Mana Manipulation. You saturated the pipe.”
+
+Ah, of course. I should have thought of that.
+
+“Yes,” Ameliah said, nodding to him. “The metal can’t break down the water magic because it is already full of mana. And speaking of full…” she took her hand away, shaking off the last droplets of water. A flame flickered into existence between her fingers, and she reached down, carefully reheating the glass and sealing off the bulb. She held it up to show them.
+
+And some sort of fire spell. Of course.
+
+“And now, the metal in there should take care of the rest,” Ameliah said, smiling. Staavo peered at the bulb and saw that it was true. The water level was slowly draining before his eyes as the tiny metal wires broke down the magic.
+
+“Mmm,” Tallheart rumbled. “If you did this without the metal, could you trap pure mana when the spell expired?”
+
+“No,” Ameliah said. “Mana passes straight through stuff like glass. I can see it doing it right now. Perhaps if you used Arcane glass, you could do it, but what would be the point? Nobody can use environmental mana, at least, not with any efficiency.”
+
+Staavo forced himself not to react to this. She has Mana Sight too? How many skills does this woman have?! And from how many trees? Bloody fucking depths-cursed silverplate bullshit.
+
+“I still don’t believe it,” Jamus said, taking the bulb from Ameliah carefully with a handkerchief and peering at it. The water was almost completely gone. He shook it lightly. “It just looks like air to me. Ah, getting hot! Take it back! Take it back!”
+
+Ameliah took it from him and hung it next to the first. Staavo frowned, wishing for a proper annealing furnace, not that he would have had the patience to wait that long. Despite all of the fires burning in the Lee, it was still quite cold, and there was a serious risk of the glass cracking, no matter what he did. It wasn’t like he was working with proper equipment here. Further, Rain had gone on and on about the pressure of the air as opposed to the void. Staavo didn’t understand quite what the aura mage had been getting at, but nevertheless, he’d left the glass of both bulbs nice and thick to compensate for the supposed issue. It seemed to have worked, at least this time.
+
+Staavo nodded. “Now then, these should be cool enough. No sense waiting for the glass to break.”
+
+He picked up both bulbs gingerly, then twisted the protruding copper wires together in parallel, as Rain had called the configuration. Then, he connected them up to the generator and placed them carefully back on the rack. Incidentally, the generator had been rebuilt completely, using Tallheart’s copper wire instead of the steel greatbow cables that he’d purchased from a shop in Fel Sadanis. Unwrapping and rewrapping all that wire had not been fun, but the results spoke for themselves.
+
+Staavo motioned to the crank with his free hand, steadying the hanging bulbs carefully with the other and using his fingers to keep the wires separate. He was still wearing his gloves, of course. The rebuilt generator was significantly more powerful, and touching the bare wires wasn’t a mistake he was going to make more than once. “Jamus, old friend, you may now prove yourself wrong.”
+
+Jamus grinned, grabbing the crank and starting to turn it slowly. With each crank, both bulbs pulsed with amber light, growing stronger as Jamus increased his speed.
+
+Staavo smiled as the light increased, passing the point at which the copper bulbs had failed. Jamus cranked faster still, and Staavo’s smile widened into a grin.
+
+Tallheart hummed appreciatively. “Tungsten. Hmm. Wonderful metal. Faster, Jamus.”
+
+Jamus stopped holding back, cranking as fast as he could without damaging the generator. Suddenly, the brightness from the bulbs, which had grown to rival an oil lamp, dropped by half. Jamus stopped cranking, looking at his hand with a surprised expression. One of the bulbs was blackened inside with soot, the filament broken. The other, the one that Ameliah had filled with water, looked completely unharmed.
+
+“Ha!” Staavo shouted. “I win!”
+
+“Not yet you don’t,” Jamus growled. He went back at the crank like a madman, abandoning all concern for the generator. His orange hat fell to the ground, and the bulb glowed with a fierce, pure white light. He kept going until finally, something gave. With a crack of splintering wood, the heavy core of the generator slipped out of the frame, and the whole thing went crashing to the ground.
+
+“Damn it!” Jamus swore, staring at the undamaged bulb. “The Mana must have strengthened…” he trailed off, then muttered something under his breath. “No, damn it. I can admit my mistake. I’d like to run a few more tests, but I think...I think I was wrong.”
+
+“Ha!” Staavo shouted, jumping in the air. His wooden foot came loose, and he found himself hopping, but he didn’t care. “Someone write that down. Jamus admitted I’m smarter than him.”
+
+“I never said that!” Jamus said indignantly, bending to retrieve his hat.
+
+Any further argument was cut off as a steely voice spoke from behind them. A woman’s voice. “But what good is it?”
+
+Staavo gasped. He recognized the speaker. He fell to the ground next to his foot and looked up at Lavarro, the silent, deadly killer.
+
+“Is a torch not enough?” The terrifying Force Mage asked, a skeptical expression on her face. She looked away from Staavo, fixing her gaze on Ameliah instead.
+
+“Hmm,” Tallheart rumbled, and Lavarro narrowed her eyes as she shifted her focus to him. Unconcernedly, Tallheart bent to retrieve the generator. “You are right, of course. On its own, it is...a curiosity. But this is only a beginning.”
+
+Lavarro seemed to consider this but didn’t comment. Instead, she just shook her head, the haunted expression returning to her face. Something was clearly bothering the woman, but Staavo wasn’t about to ask her what it was. She’d arrived during the Shift, and though she was sleeping in the Lee with the rest of them, she wasn’t really with them.
+
+“It is your turn on the barricade,” the older woman said to Ameliah. “I am going to sleep. Don’t expect me to save you.”
+
+Ameliah nodded. “I’ll be fine,” she said coldly. Staavo shivered. He wanted no part of whatever issue the two silverplates had with each other.
+
+Lavarro didn’t respond. She spun on her heel and headed toward her secluded sleeping area.
+
+“Well, I have to go,” Ameliah said, with a sigh, gesturing vaguely at the barricade. “Tallheart, don’t get too wrapped up. I’m not Rain; I’ll eventually run out of mana, even against monsters like these.”
+
+“I will relieve you before nightfall,” Tallheart said, shaking his head slowly. “Call if you need assistance before then.”
+
+“But how can we make more bulbs without—” Staavo began.
+
+“Later,” Tallheart said, pointing at the generator. “We will work on that. It seems someone has broken it.” He looked at Jamus, then back at Staavo. “I am not wrapping the wire.”

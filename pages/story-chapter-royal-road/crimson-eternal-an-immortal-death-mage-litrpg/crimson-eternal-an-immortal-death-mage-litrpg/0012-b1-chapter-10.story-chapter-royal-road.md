@@ -1,0 +1,175 @@
+---
+id: a114eca1-b8a6-5f96-9557-e13a7e0314e5
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 10"
+slug: 0012-b1-chapter-10
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 12
+ownLength: 2236
+unit: words
+ownProgress: 2236
+publishedAt: 2024-01-02
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1463283/b1-chapter-10"
+royalRoadId: "1463283"
+markedReadAt: "2026-06-29T19:06:14.875Z"
+---
+
+Aria
+
+After a couple days of climbing, I finally arrive at my destination. The intersection point between the Western and Eastern Mountain Passes. And just as I expected, there’s another fortress there.
+
+What I didn’t expect though was to find another little tunnel going through the mountain behind the pass. Or the vast number of soldiers in the fortress.
+
+My eyes narrow slightly.
+
+Interesting. Guess there really is a new path through the Great Divide.
+
+But how far does it go?
+
+I tap my chin a little bit as I sit at the edge of an outcrop overlooking the fortress.
+
+The fortress is a lot better set up than the one at the end of the Western Mountain Pass. Even if it’s still not that good.
+
+Then again, for something built within a few days, it’s really good.
+
+It has a five meter tall wall going across both the Western and Eastern Mountain Passes, dozens of wooden and stone buildings spread across the fortress, a gate going to both Passes, and a large building at the back right next to the tunnel entrance. Meanwhile there are tens of thousands of soldiers packed down inside.
+
+I’ve seen this many soldiers before, but I have to say, looking down at them from above like this is odd. Especially when they all have a number above their heads.
+
+Very odd.
+
+The floating numbers aside, the sheer amount of soldiers down there doesn’t do much good for my confidence. Both in my mission and our war.
+
+Just how many people at level 1 did they have ready to fight? I know there were already several thousand at the fortress in that faceoff with the major, but there’s also another thirty or so thousand here?!
+
+What about the other pass? The Eastern Mountain Pass? Are there soldiers there too?
+
+And what about the Southern Pass?
+
+This can’t have been a coincidence. They couldn’t have prepared for this invasion in the short term.
+
+With this many people at level 1, even someone brand new to the System like me can tell that they’ve been preparing for a long time.
+
+Makes me wonder how they found our planet in the first place, not to mention how much it hurt them to keep that many soldiers at level 1.
+
+Unless there’s a good reason to stay at level one?
+
+I frown at the thought before shaking my head.
+
+Unlikely. But now I need to focus.
+
+Out of habit, I reach up and begin rubbing the red crystal right below my armor’s collar as I look out at the fortress.
+
+The diamond-shaped crystal is just as hard as a diamond, and occasionally lets out a strange red light. One similar to my own crimson light. And it was the last thing I got from Dad before he and the others died.
+
+I still have no idea to this day what it does though.
+
+The biggest obstacle in this sabotage mission is the large barrier going around the base. From what I’ve heard from those bandits I captured earlier, the barrier doesn’t actually keep things out. It’s mostly just an alarm that blares when someone unregistered with the base’s barrier enters.
+
+But I already have a plan to deal with that particular problem.
+
+My eyebrows furrow slightly as I find some enemy soldiers carrying around food. But they simply end up bringing it to the largest stone building near the back before leaving again. So I keep an eye on them in an attempt to find where their food storages are located.
+
+What’s the best way to cripple an invading force that’s far from home?
+
+Cut off their food supply.
+
+And maybe their weapons supply too.
+
+It takes me a while, but I manage to find four of their food storage buildings along with three weapons storage buildings. Although to be perfectly honest, they’re more like huts than buildings.
+
+And after finding them, I begin to carefully climb down the mountain until I reach a small slope that goes down directly towards the edge of the barrier. Then I kneel down, pull out my rifle, and begin to edge my way over to the barrier.
+
+Before crossing it, I make sure to look through my scope to find any invaders that look unique out of the bunch. And after picking my targets, I cross the barrier and immediately begin shooting as an alarm rings out over the base, a bright blue light shining from where I am to show my location to the enemies.
+
+A lot of shouting echoes from the fortress as I begin to snipe random people down there that look like officers. And it doesn’t take long for the enemies to begin sending spells back up at me, all of which I avoid since I’ve seen them all before. Something I can only do because they’re so far away and on the ground.
+
+My plan needs me to get hit by new spells and attacks that I’ve never been hit with before. So that I’ll stay ‘dead’ for a little bit. Albeit not too long.
+
+I continue shooting their officers, picking one off after another until I begin to see new spells and attacks from abilities and their special magical weapons sent my way. So I let those attacks hit me, and immediately find that they are, in fact, new attacks that I haven’t adapted to yet.
+
+Despite the pain not really being much to me, I let out a grunt just to fake the enemies out. Then I continue shooting a bit more, avoid some more attacks to put on a good display, and let a few more new attacks hit me. And when I feel my consciousness beginning to grow dark, I go ahead and let myself fall over the side of the cliff.
+
+Right before I hit the ground, I can’t help it when the corner of my lip quirks upwards just a little.
+
+So far so good.
+
+Then everything goes dark.
+
+The Enemy BaseMoments ago
+
+Legate Sartorius frowns as he looks at the document on his desk while eating his evening meal. But his meal is interrupted when the alarms begin to blare all over the base, making him drop the food as he rushes to his feet, draws his sword, and sprints out of the tent. Then he searches for the source of the intrusion and finds the glowing blue light to be shining, to his surprise, from the cliff. Where a person can be seen with something the legate recognizes as a ‘rifle’ from other higher technology worlds.
+
+He can’t make out many details of the person, but the bullet fire echoing from them, followed by screams from his own men is enough for him to understand what they’re doing.
+
+Are they insane?! Forgetting how they got here in the first place, what sane person attacks an army of thirty thousand on their own?!
+
+Despite his thoughts, the legate watches as spells and various attacks from his mens’ spell guns and their abilities fly through the air towards the person. But they just duck down behind the cover of a boulder whenever the attacks get near.
+
+He frowns before stepping forwards, pulling his sword to the side while making a golden energy begin running through the blade. Then he swipes it straight towards the attacker, making an arc of golden energy fly towards them.
+
+And he’s not the only officer beginning their attack as he sees attacks from several of his tribunes flying towards the attacker as well.
+
+Each attack strikes the cliff around the intruder, with several of them directly hitting them. But they surprisingly continue attacking as a crimson light begins faintly shining from them.
+
+Legate Sartorius’s eyes narrow as he shouts, “Watch out for an ability.”
+
+Then he sends another two arcs of energy at them, striking them before they can get back behind the rock. And his attack seems to cripple them as they collapse, unable to move as more attacks strike at them.
+
+Ridiculous. The enemies haven’t shown themselves to be idiots thus far, so this has to be a suicide attack. To clear out our officers.
+
+The legate’s eyes begin burning with rage at the idea of sacrificing an experienced and well-trained soldier like this one just to kill some officers. And he can tell just how skilled they are by how, despite their injuries and semi-crippled state, they’re still shooting down his officers one by one. All the way till they end up falling down from the cliff to crash into a roof down in the base.
+
+Legate Sartorius rushes through the base until he stops in front of the corpse, which he finds still emitting some very faint crimson light. But what surprises him is how beautiful the sacrificial intruder is. And that’s not all that surprises him. He can’t see her eyes since they’re closed, but her hair is a pure white, just as white as the snow around them.
+
+He lightly shakes his head, feeling this as an unforgivable waste of an experienced soldier.
+
+Then a grin stretches across his face.
+
+Guess we’ll take them off their hands if they don’t want them.
+
+He turns to look at the officers and soldiers who are gathering around him and the girl’s corpse before he shouts, “Bring her, her gear, and her weapons to Tribune Lucilius’s storage. And send a message to the Western Mountain Pass for the tribune to come back as soon as possible.”
+
+“Understood, Sir!” shouts echo out as soldiers immediately begin to carefully bring the corpse with them.
+
+The legate can’t help his gaze from briefly pausing on the girl’s many wounds which are still emanating a very faint crimson light. But he had already made sure she was dead, so he doesn’t feel any suspicion.
+
+Likely had some sort of mutation ability or skill that made her blood glow or something.
+
+He dismisses the oddity as he turns around and begins heading back to his tent to finish his meal.
+
+Someone as skilled and dedicated as this may be good enough to become a vampire instead of a zombie. Certainly food for thought.
+
+AriaOne hour later
+
+I suck in a gasp of breath as my eyes shoot open and I find myself inside of an underground room, staring up at the dirt ceiling. So I shoot to a sitting position while patting myself down and finding that my armor has already repaired itself, my wounds have closed, and the invaders didn’t take anything as expected. I still have everything on me that I had before.
+
+I let out a sigh at that before grinning and standing up. Only for my grin to go away when I notice the smell in the room, along with my surroundings.
+
+There are several corpses in the room, each of people who look skilled at first glance. Some of whom I actually recognize as important officers from Arteria.
+
+After a brief hesitation, I walk over to them while drawing my sword before cutting their heads off.
+
+Best not to give them more ammunition.
+
+Before I reached the cliff, one group of bandits mentioned to me one of the jobs that they were given, after some motivation, of course. To find and notify the invaders of powerful people from our side, and if possible, kill them and bring their corpses back so that their ‘grand necromancer’ can bring them back to life as slaves for the invaders. The bandits even mentioned entering their main fortress – although they never said how large it was or how many soldiers there were – and said that they met with this ‘grand necromancer’ themselves in a room filled to the brim with corpses. Each armored and still with their equipment and whatever they had when they were captured and killed.
+
+Because apparently the invaders understand that their new risen dead need their equipment if they’re to be of use to them.
+
+But from what the bandits said, this ‘grand necromancer’ guy wasn’t at the main fortress. And I confirmed that when passing over the Western Mountain Pass fortress. Since I saw the guy they described standing outside of a tent.
+
+I also confirmed that he is in fact a necromancer thanks to the undead I saw around him. People identified simply by the fact that they had very pale skin and pitch black eyes, were being treated pretty terribly, and had a high number above their heads.
+
+Generally necromancy is a banned ability in Albaria. And while it’s legal in Arteria, they don’t have any necromancers. Since the only two necromancers to show up on the continent showed up in Albaria. And were executed for being necromancers.
+
+But that aside, the fact that they were doing this meant it was the best way to get into the base. Since I didn’t really know of any other way to sneak inside and sabotage things.
+
+If I tried crossing the barrier and fighting my way through, I’d just do a lot of damage before being captured.
+
+This way I didn’t need to do that.
+
+The room stinks though.
+
+After dealing with the corpses, making sure they can’t be turned into undead, I head to the door and quietly stand at the edge of the wall as I put my ear to it to listen to the other side.
+
+Here’s hoping I don’t get caught now.

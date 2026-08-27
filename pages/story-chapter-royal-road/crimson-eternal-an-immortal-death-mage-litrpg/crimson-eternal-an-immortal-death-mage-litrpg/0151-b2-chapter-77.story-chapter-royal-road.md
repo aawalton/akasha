@@ -1,0 +1,135 @@
+---
+id: 98993d3e-0269-56fb-bf58-007807c15f65
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 77"
+slug: 0151-b2-chapter-77
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 151
+ownLength: 1612
+unit: words
+ownProgress: 1612
+publishedAt: 2024-04-30
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1617589/b2-chapter-77"
+royalRoadId: "1617589"
+markedReadAt: "2026-06-29T19:10:51.247Z"
+---
+
+The Capital Island of Arian
+
+“What do you mean it’ll take an entire two years to get the antidote produced?! Aria is down there right now suffering-” the Silver Merchant shouts, startling Ake after she tells him the news. Because the man has never raised his voice even a single time since he and the others arrived on Arian.
+
+Ake had long since written it off as impossible for the man.
+
+But now he genuinely looks worried for the Horseman.
+
+“But she can’t die, you shouldn’t-” Ake begins, only to trail off when she sees the hellishly cold glare sent her way by the Silver Merchant. A look she also has never seen from him before.
+
+“Know there are worse fates than death,” the Silver Merchant states in a tone so cold it sends shivers down Ake’s spine.
+
+It only takes her a few seconds to realize that they aren’t literal shivers, but instead small threads of silver metal attached to the Silver Merchant’s fingers that’re now wrapped around her tightly. And she instantly realizes just how deadly the man is.
+
+He was always taken by both her and everyone else in the nation as a laid back albeit largely emotionless man who was all merchant and no battle. With nothing but a high level that even she can’t see. One hidden behind an item that blocks anyone without a certain ability or skill from seeing his real level.
+
+A level that is far higher than her own.
+
+She, a level five hundred and seventy-nine planetary leader, can’t see his level. The level of a mere subordinate of another ruler.
+
+Ake grits her teeth as the silver threads dig into her skin a little bit before vanishing, making her drop down a little in response.
+
+The Nine Grands really are powerful if even their upper subordinates are this strong… it’s just… frightening… and he’s how young?!
+
+She stands up straight again, not a single tribesman around the edge of the island even so much as having noticed what’d just happened. Then she takes a deep breath and lets it out again.
+
+It’s too bad the Eternal Dynasty has that neutrality obsession, otherwise he could’ve just slaughtered the entirety of the Frost Clan himself… no, nevermind. It’s not his war. It was ours.
+
+“Finish the antidote as soon as possible,” the Silver Merchant declares. “I want us to be gone from this planet before Pestilence gets anywhere near.”
+
+Ake nods her head without a word in response. Then she turns to look down at the clouds below as a silence spreads across the edge of the island.
+
+Eventually the Silver Merchant asks, “Has she answered any of your calls since sending the poison up?”
+
+Ake shakes her head in response, feeling her own hand clenching as she can’t help but feel some worry herself. Despite what she said earlier.
+
+Since even when Aria was hung up in a cocoon, she would always respond when called.
+
+What she must be going through now… I can’t even imagine.
+
+Aria
+
+Over the course of who knows how long, I feel myself slowly coming to, only for a flash of incredible pain to run through me before I black out again. Over. And over. Again. With the wasps killing me again the moment I recover, and their necrotic poison taking longer than anything other than that petrification to recover from has ever taken.
+
+I’m left barely able to form any coherent thoughts as the pain simply returns almost immediately after I begin to regain consciousness. Almost like the wasps were dedicated to keeping me dead.
+
+And this continues on and on.
+
+Never ending.
+
+The only brief moments of respite are a few times when some sort of explosive or fire bomb is sent through the app. But even that only stalls the next black out by a single minute, giving me a small amount of time to regather my bearings.
+
+Before I’m put back under, into the same cycle again.
+
+The Capital Island of ArianOne year later
+
+Shirogane paces back and forth at the end of the island alongside Hannah as the two feel nervous. More nervous than they’ve ever felt in their entire lives.
+
+After one entire year, Aria has not contacted them even a single time. And they can’t do a single thing to help her.
+
+Shirogane grits his teeth, deciding to just fucking do it as he activates and sends another nuke through the app to her. Something he can only do because she has it set to allow him to activate things before sending like that.
+
+But still no answer. Even after the fifth nuke he’s sent through the teleporter.
+
+Which means the mana creatures that no doubt have her are just as tough as the leviathan and other Tier 10 mana creatures on Atlantis. Or the ancient kraken on Eternus in its largest Hunter’s Spot.
+
+Shirogane almost loses his temper. Meanwhile Hannah does lose her temper, coating her fists with her barriers and slamming them on the ground as she falls to her knees, tears coming from her eyes without her making a single sound otherwise.
+
+They don’t have long before the plague fully envelops the neighboring world. And they’ve tried to completely blockade the entire Gate there, but that hasn’t done a single thing to stop the infection from entering Arian. An infection known as The Rot. One created by Pestilence himself and evolved in nature to turn anything infected by it into a natural sort of zombie. One not created by magic. But by science.
+
+The only reason they’ve managed to keep the infection contained was through Hannah’s barriers, keeping it locked on the island that has a Gate connected to the infected world.
+
+But that won’t stop Pestilence, who has already been heard to have arrived on the world in question.
+
+“At this rate, she’ll still be down there by the time Pestilence arrives…” Shirogane begins muttering to himself as he returns to pacing. “Then she’ll…”
+
+He blinks as he realizes something.
+
+Shirogane turns to Hannah, only to pause when a hologram of the Eternal Dynasty’s emperor appears in front of him, making him instantly kneel down, confusing the woman. Until she sees the hologram as well and takes a step back, looking unsure of how to treat the White Emperor.
+
+“Ryohei Shirogane, you are hereby ordered to stop wasting your own funds on trying to free the Horseman of Death from the Tenth Tier of the Hive,” the White Emperor declares seconds after appearing, shocking Shirogane until he realizes what he’s saying.
+
+But Hannah doesn’t understand like he does and quickly shouts, “What?! You’re just going to abandon her?! You bas-”
+
+Shirogane quickly covers her mouth before she can finish as he whispers into her ear, “Let him finish.”
+
+That gives her pause before she seems to calm down, only to notice that his mouth is still near her ear, making her blush. But Shirogane ignores that reaction and returns to the hologram to find his Emperor looking at him with a raised brow.
+
+The White Emperor doesn’t ask or speak about what just happened as he continues, “Right now the only way I can see her escaping from the Tier 10s down below is for you to personally save her once the antidote is finished in a year-” Hannah gasps, drawing the emperor’s gaze to her for a moment before it returns to Shirogane, “-or for Pestilence to save her himself.”
+
+Pestilence.
+
+The only being in the universe completely immune to every single poison, plague, disease, or any other form of pestilence in existence. No matter how powerful.
+
+Even Aria isn’t immune to them, just gains an adaptation and heals after their damage is done.
+
+If Pestilence were to hear about her being on this planet, there is no doubt he would go look for her to experiment on her a little bit. His attention isn’t easily focused on one thing for long, so he will likely leave after testing on her for a week or two, but he wouldn’t be able to hold himself back from trying. And to do that he would most likely save her from whatever fate she’s currently stuck in.
+
+“I understand, Your Majesty,” Shirogane declares while lowering himself to one knee and bowing his head. “I will make contact with the Horseman of the Apocalypse, Pestilence, and notify him of Aria’s current situation.”
+
+Shirou Amatsuraki nods his head before adding one last thing before ending the hologram.
+
+“Make sure you do not let Pestilence anywhere near Atlantis. We do not want his pet projects to gain any further ground towards the Dynasty. Otherwise I will have to call her back to deal with the infection.”
+
+Shirogane shivers at the mention of the Nine Star Merchant. But he nods his head all the same, making the hologram vanish moments later.
+
+He stands up straight and glances at Hannah for a moment, only to look down at the clouds again.
+
+Well, guess I’m gonna be meeting Pestilence soon. You better hold on until then.
+
+Even with her ability heavily muting trauma and making it hard for things like this to stick, he still can’t help but worry about her sanity.
+
+Although in reality, he understands that he should be more worried about the first person to piss her off after she gets out of there. Since despite what she may think, she does have a temper after dealing with things that would traumatize another.
+
+And her temper is frightening.
+
+But he wishes she wouldn’t have to deal with things like this.
+
+I knew she never should’ve let herself fall down off the islands…

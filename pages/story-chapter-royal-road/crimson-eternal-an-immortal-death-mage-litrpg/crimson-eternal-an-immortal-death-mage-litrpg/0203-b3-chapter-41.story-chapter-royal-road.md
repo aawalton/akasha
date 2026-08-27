@@ -1,0 +1,167 @@
+---
+id: 87035543-7514-5562-9d36-7ceb12cb61d8
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 41"
+slug: 0203-b3-chapter-41
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 203
+ownLength: 1573
+unit: words
+ownProgress: 1573
+publishedAt: 2024-09-10
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1797143/b3-chapter-41"
+royalRoadId: "1797143"
+markedReadAt: "2026-06-29T19:12:37.772Z"
+---
+
+Aria
+
+I let out a yawn as my eyes squint nearly closed on instinct before continuing to read my book. Simply enjoying the chilly and incredibly thin air around me as I lie here on a lawn chair in a two-piece swimsuit sunbathing high up on the seventh Tier of the Spire’s exterior. One consisting of a small ledge extending from the Spire itself, giving me a perfect view of the sun and the stars.
+
+Ever since learning about my family, I’ve done nothing but read.
+
+And it’s been wonderful.
+
+The sensation of burying myself in fiction. Of not having to even so much as think about real life outside of the story.
+
+It’s incredible.
+
+Everything going on around me just melts away. And after sunbathing on and off over the years when I get a chance, I’ve grown to find it relaxing. Especially when I’m reading like this.
+
+There’s very little that’s better.
+
+The only thing that comes to mind…
+
+I glance away from my book to grab the glass of wine on the stand next to me before taking a sip.
+
+…doing all of this while drinking some lovely and incredibly aged wine. Wine I got straight out of the emperor’s cellar.
+
+After taking a sip, I glance towards the entrance to the ledge. Then at the obstacle course next to it leading to the next ledge.
+
+Then I return my focus to the book again, burying my mind in the story.
+
+This particular book is actually a romance novel. A fantasy one.
+
+I wanted to see what all the fuss about romance was about after Shirogane’s constant attempts in the past three months since learning about my family to help console me. But I haven’t really gotten anywhere with it.
+
+The action in the stories is good though.
+
+I just don’t understand the romantic actions. Or their interest in sexual activities either.
+
+Ends up with me skipping past those scenes half the time.
+
+The sounds of some explosions ringing out from a lower ledge as some hunters no doubt fight the mana creatures in the Spire echo up towards me. But I ignore them to continue reading. Meanwhile I have more than a few of my Death Spirits just wandering around the various Tiers of the Spire killing off any of the mana creatures they find.
+
+And by more than a few, I mean at least ten thousand.
+
+A rather impressive number that’s only possible due to the many soul cores I’ve collected over the years from powerful people. Many of whom were idiots. Like that duke what’s-his-name that tried conducting a rebellion on Atlantis some years ago.
+
+Or at least, I think that was what he was doing. All I remember is his spilling my wine and his vaporizing half my body.
+
+I continue reading my book for a couple more hours before closing it and letting it fall onto my chest as I let out a breath of air and stare up at the sun. Finally finishing this last book of the series.
+
+Now I can move back onto regular fantasy novels. Maybe some academic texts too, since I haven’t read any of those in a while.
+
+I hear my phone beginning to buzz on the table next to me, but I ignore it as usual. Since I know it’s either Shirogane, Leopold, or the captain of the guard that the Crimson Empire assigned me. The nation not bothering with hiding anything from me now that I know the whole story.
+
+And I’m pretty sure they’ve just upped their protectiveness after I lent Leopold my jewel.
+
+Probably because they realized what happened to me all those years ago.
+
+The knights are calling me princess and Her Highness now too on top of that protectiveness.
+
+But I just ignore them. It’s easy enough to do when they won’t lay a finger on me.
+
+Literally.
+
+Almost as if they were afraid of breaking me just from a simple tap.
+
+I’m not complaining about it though.
+
+Means they don’t actually stop me from doing anything. They just whine a lot.
+
+I yawn again while looking directly at the sun, only to blink when part of the sun starts going completely black.
+
+Huh. An eclipse.
+
+Interesting.
+
+I glance towards the opening to the ledge I’m on to find a team of seven hunters walking out and just kinda freezing in place, openly staring at me.
+
+Don’t mind me, people. Just sunbathing in a Spire. Nothing wrong here.
+
+I glance at my ring while beginning to search through my storage looking for the next book to read. Completely ignoring the team, half of whom are men with two of them openly ogling me despite my swimsuit not being very revealing.
+
+Or rather, they ogle me until I hear the other man clearing his throat before the team just casually continues moving up through the obstacle course. Not paying me any mind beyond their initial shock.
+
+Probably because this wouldn’t be the first time this has happened.
+
+News has no doubt reached people down below already about me, considering that I’ve been here for a month now. Haven’t budged from this spot.
+
+It’s nice not having to worry about muscle atrophy.
+
+And my clothes self-clean.
+
+Makes it so that I can just sit here and read forever. I don’t even have to stop to sleep.
+
+All while my lovely Death Spirits hunt for me, sustaining themselves with some of the soul energy from the things they’re hunting.
+
+A very peaceful existence up here. Not having to worry even a single bit about what’s happening in the universe. Or what I learned before.
+
+Well, other than my initial decision to just not bother.
+
+Things are easier that way.
+
+I’ll talk to them when that century timer on the curse ends and they come to talk to me, sure. But they’re only able to talk for ten minutes anyways, so why should I stress about it?
+
+It’ll only cost me ten minutes of my time, and I can make a decision as to whether I really recognize them as my family or not.
+
+If I do? I’ll still be upset about what happened.
+
+If I don’t?
+
+Too bad for them.
+
+On another note, I find that curse on the leader of the Council of Darkness a little interesting in the fact that it doesn’t affect me. It doesn’t make him hate me.
+
+Since the curse only made him hate the imperial family members who were alive when the curse was placed. But I was only born years after that, so he doesn’t hate me.
+
+Rather bizarre in how that works. And I’m pretty sure he knows about the curse.
+
+But he still can’t help but follow it regardless.
+
+Kind of sad.
+
+My thoughts come to a halt when I finally find the book I’m looking for and roll over onto my front to start reading it in a different position. Only to find the shadows beginning to move oddly again.
+
+“What do you want this time?” I ask, not even turning my gaze away from my book.
+
+Just like how he normally does it when he arrives, other than the first time, I hear his voice whisper in my ear, “How long?”
+
+“Do you mean how long am I going to be lazing around up here?” I ask for confirmation, having learned how to understand my apparent uncle better from his infrequent visits over time. Following which the shadows shake as if in confirmation. “Maybe a year or two. Or till I run out of books. Whichever comes first.”
+
+I have a whole library’s worth of books to keep me occupied though, so it’ll probably be the former that comes first.
+
+Gotta love storage rings.
+
+Silence fills the ledge as I begin to read. But I see the shadows still in the corners of my eyes as I do so, so I know he hasn’t left yet.
+
+Eventually the shadows vanish without the leader of the Council of Darkness saying anything. But for some reason, a cloak appears on top of me. One spread out as if it were a blanket meant to cover my whole body.
+
+I frown before shrugging and deciding it doesn’t matter now if I’m covered like this or not, considering the eclipse.
+
+Not much sun to sunbathe in when the sun is covered by the moon.
+
+I know the knights were raising a fuss about me being up here in a swimsuit on my own without some guards, but surely the leader of the Council of Darkness doesn’t agree with them.
+
+Several seconds pass as I occasionally glance at the cloak before returning my gaze to the book again. And eventually I glance down at myself to make sure I’m wearing the right swimsuit and quickly finding that I am wearing the right one. A black and red one that covers up more than most two-piece suits do.
+
+What’s wrong with this anyways?
+
+I study it for a few seconds before shrugging to myself and going ahead to automatically swap out my clothes through enchantments that are placed on them. Enchantments that let me instantly change outfits with other clothes in my storage ring that also have the enchantment.
+
+This outfit is a simple tank top and shorts.
+
+Should get them to stop complaining at least.
+
+And with that, I continue burying myself in the lovely fantasy that is my books.

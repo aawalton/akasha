@@ -1,0 +1,161 @@
+---
+id: 93773425-5ffe-545f-abef-7ca626bdbe1e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,364 - Mercurial Sacks"
+slug: 0041-chapter-1364-mercurial-sacks
+partOf: defiance-of-the-fall
+position: 41
+ownLength: 2841
+unit: words
+publishedAt: 2025-10-13
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2672167/chapter-1364-mercurial-sacks"
+royalRoadId: "2672167"
+---
+
+Zac was surprised the old man personally led him toward the central building at a leisurely pace. The elder’s weak presence and simple blue robes couldn’t hide the fact that his status was extraordinary. The fact that the Mercurial Court’s disciples didn’t notice his presence also hinted at great power. Whenever Esmeralda hid him in a pocket of space, Zac could still sense the spatial fluctuations. Right now, there was nothing to explain why the disciples subconsciously kept some distance.
+
+‘He’s not using the Dao of Space,’ Esmeralda confirmed when Zac asked.
+
+“It’s a simple illusion aimed at perceptions. A little trick to spare these old bones from bumping into strangers while taking a stroll. Nothing as impressive as the feats of your mutated Grand Traversal Toad, I’m sure,” the old man laughed while stroking his beard, clearly having listened in on their conversation somehow.
+
+Zac coughed in embarrassment, his confusion deepening. It was fine for someone like this to exchange a few words with a junior out of curiosity, but to personally lead the way and handle the introductions? Was it connected to Esmeralda? Seeing her affronted yet pleased expression, the elder had obviously classified her species accurately.
+
+As curious as Zac was to hear more, he wouldn’t use the elder to dig into Esmeralda’s secrets. “May I ask for your name, senior?”
+
+“What senior? I’m a simple groundskeeper,” the elder said, his gaze sweeping across the crowd. “These children sometimes call me Old Sixth.”
+
+“So old yet still playing coy,” Esmeralda scoffed as she appeared atop Zac’s head.
+
+“My companion has picked up some bad habits during our journey, leaving her a bit outspoken,” Zac apologetically said, though inwardly agreeing with Esmeralda’s assessment.
+
+The old fox by his side couldn’t have played the role of a hidden elder more obviously if he tried. Zac wouldn’t be surprised if he found Old Sixth sweeping the floor of some scripture hall in the coming days, just waiting for some threat so that he could burst out with unmatched ferocity. Thankfully, Old Sixth didn’t mind Esmeralda’s tone. Emboldened by Old Sixth’s casual attitude, Zac took the opportunity to learn as much as he could.
+
+“What is the meaning behind the color of their robes?” Zac asked.
+
+“Grey robes are Servant Disciples, white are members of the Outer Court—that’s where you guests will start. Beyond that, there are Inner and True Disciples. Those talents rarely appear in this area,” the old man said, glancing at Zac. “You seem surprised? Did you expect to start at the top?”
+
+“No, it’s not that,” Zac assured. “I suppose I didn’t expect to see so many disciples of my generation. I’ve never heard of the Celestial Courts recruiting outsiders. I also noticed that many of the Servant Disciples have higher cultivation than the Outer Disciples, leaving me confused regarding the grading.”
+
+“Cultivation level doesn’t necessarily equate to status here. We mainly look at affinity and Fate when it comes to promotions,” the elder explained. “Most are unable to influence their own Destiny, let alone influence the grand trajectories. Even so, they’re loyal subjects who can contribute within their own means. As for recruitment, you’re correct. These children were all born here.”
+
+“Will they be stuck on this island their whole lives?” Zac asked, recalling the sea of people who’d emerged for the worship ceremony in the Transformation Docks.
+
+“These children are both enviable and pitiable. Our heritage is unmatched, but our work carries great Karma. Being born here is enough to leave them entangled. Only the Mercurial Court can protect permanent residents from backlashes in causality. They have to stay here for their safety and for the safety of the world outside,” the custodian sighed. “At least until they’ve reached the necessary strength to resist the backlash on their own.
+
+“You guests can only stay for a limited duration for this very reason. Any longer, and you’ll be marked,” Old Sixth looked at Zac with a stern expression. “In addition, all actions have consequences. You’ll be provided entry to many restricted regions, but you need to be mindful of the reciprocal effect on causality. Those walking too close to the river will eventually fall inside.”
+
+“Sealbearers having their Karma entangled will become permanent disciples?”
+
+“Just stepped through the gates and already trying to game the system? You’re welcome to try. More likely, you’ll get sent out early before our fates are indelibly aligned,” Old Sixth laughed. “We’re here.”
+
+As expected, the large building at the center of the square was an administrative building. Over a hundred clerks worked inside, helping disciples with all kinds of matters. Old Sixth led Zac right toward one of the largest desks to be registered. Just when Zac was about to introduce himself to the clerk, the old man leapt right over the counter. Zac blinked in confusion, choosing not to follow suit.
+
+“Sects, Departments, Clans. In the end, they function mostly the same, and our Mercurial Court is no different,” Old Sixth said as he began rifling through the compartments behind the desk. Their powerful restrictions proved worthless before the old man.
+
+Zac glanced at the clerks, realizing they didn’t notice what was going on. While Esmeralda watched with appreciation, clearly interested in learning the old man’s methods, Zac mostly felt embarrassed. While he didn’t expect a hero’s welcome after successfully navigating the Peregrine Ocean, it felt like he was being snuck in through the back door.
+
+“Ah, here we are,” Old Sixth eventually said after finding a compartment filled with identical Cosmos Sacks.
+
+The old man picked one at random and threw it over to Zac, who curiously inspected it. It was obviously a high-quality craft, but it didn’t particularly stand out. Its craftsmanship even seemed slightly inferior to the one he got from Kaltosa Lu. However, there was something unusual about it that Zac couldn’t quite grasp.
+
+“It’s a [Mercurial Sack]. One of the fruits of our endeavor,” Old Sixth explained, his eyes gleaming with pride.
+
+“Oh?” Zac’s curiosity grew, and he infused a mental sliver inside.
+
+Zac’s high expectations were quickly dashed when faced with a space not much bigger than the common Cosmos Sacks sold by the System Stores. Its subspace was naturally much sturdier, but it didn’t have anything like the reinforced spatial walls of Kaltosa Lu’s sack.
+
+The items waiting inside weren’t anything to write home about. There was a white robe matching the Outer Disciples, though it also had a golden sigil of the Mercurial Court engraved on its chest. There was also a booklet, an identity token, an Information Jade, and an unfamiliar Array Disk matching the Mercurial Court’s Daos.
+
+“This…” Zac hesitated.
+
+“Not impressed?” Old Sixth guffawed, waving at him to jump over the counter as well.
+
+Hesitating for a moment, Zac decided to go with the flow. He lightly jumped over and followed the old man through a door on the other side. They passed through four corridors with increasingly stringent defenses, the last one filled with arrays whose latent fluctuations gave Zac palpitations.
+
+The defenses remained inert, and the reinforced door at the end offered no resistance when Old Sixth pushed it open. A chamber filled with shocking levels of Fantasy Energy awaited on the other side. If not for his upgraded Dao Heart, such density of ambient energy would probably have filled his mind with illusions. There were still confusing flickers in the air, but Zac could clearly see the twelve items hovering above individual pillars.
+
+“A small greeting gift. Go ahead, pick one, anyone,” Old Sixth generously waved.
+
+Zac walked inside but stopped after a few moments. He turned to the old man waiting by the door. “They’re illusions?”
+
+The items looked real enough, and they felt solid to the touch. Their auras were also distinct and powerful, no different from what you’d expect from a top-tier Late D-grade treasure. They also looked the same after entering his Void State. Even so, Zac’s instincts told him that these items weren’t actually there.
+
+“Are they?” the custodian countered, his smile the same as when Zac asked about the artificial timeline. He pointed at the Cosmos Sack still in Zac’s hand. “Anything can enter [Mercurial Sacks], even Illusions and Dreams. However, anything taken out will be real.”
+
+“That’s impos—” Zac stopped before he could finish the sentence.
+
+Was it really impossible? Hadn’t he seen this exact thing repeatedly over the past year? Everything brought out of the memories, possibly barring the Void Treasures, was by all accounts illusions made real. It wasn’t inconceivable that the [Mercurial Sacks] held a simplified version of the concepts that made it possible.
+
+“Any illusion put inside will be turned into a real object?” Zac said, looking at the seemingly simple sack in a new light. “How—”
+
+“The underlying mechanics would probably bore you. And you need to understand there are limitations,” Old Sixth said as a log appeared above his hand. It looked real enough, but the old custodian made no effort to hide that it was an illusion. He even conjured it slowly to make sure Zac would understand. “Here, try it out.”
+
+Zac eagerly followed the instructions and sent the log into the sack. To his surprise, nothing happened for ten seconds. Finally, the log appeared inside the subspace. When brought out, it was indeed a very real log of mortal lumber. The simple demonstration left Zac in awe. It was one thing when the System did things that exceeded Zac’s understanding, and another thing entirely when other cultivators did the same.
+
+“Amazing,” Zac whispered, looking at the twelve treasures with a burning gaze.
+
+Illusions or not, they were all extraordinary items with unusual effects, like the ancient Soul-strengthening knot he’d bought at the market.
+
+“Go ahead, take one,” Old Sixth urged.
+
+Zac wasn’t sure how sanctioned this all was, and he didn’t want to know. He’d already scanned the items and quickly stowed a small bronze mirror called the [Myriad Path Reflector] before a higher-ranked elder could come along and stop the bequeathment. To Zac’s delighted surprise, a new mirror started forming atop its pedestal. It’d look like nothing had been taken in a few minutes.
+
+Despite its appearance, the [Myriad Path Reflector] was an escape treasure. Like the countless timelines of the Peregrine Ocean, the mirror would reflect countless possible futures. They would be both real and illusory, and Zac would be able to pick any route while the reflector remained active. It also held a powerful spatial function that would allow all the reflections of himself to move at significantly greater speeds than the [Flashfire Flourish].
+
+The latter was an important reason for Zac’s choice, though more than half the treasures were only really useful for Spatial Cultivators or Illusionists. While one could never have too many Escape Treasures, the [Flashfire Flourish] was approaching the limits of its use. It was ultimately an E-grade treasure. It could still transport him just fine, but his opponents had more ways to disrupt or block its stream of fire.
+
+The [Myriad Path Reflector] was both of greater quality and grade, incorporating Space and Illusions to make a perfect escape. It could also be used to scout ahead through dangerous routes, places where ninety-nine paths led to death and one to life.
+
+“It hasn’t appeared inside?” Zac asked after ten seconds had passed.
+
+“The [Mercurial Sack] is an orthodox treasure. As such, it must adhere to the Laws,” Old Sixth explained. “Turning illusory treasures into true items naturally requires more time and effort than a piece of mortal wood. The process will take roughly a month, even longer if you’re too stingy to supply the necessary crystals to maintain the formations.”
+
+“That’s still amazing,” Zac said, noting the satisfied gleam in Old Sixth’s eye. The elder clearly had some connection to the creation of the [Mercurial Sacks], and he enjoyed the flattery.
+
+Esmeralda was equally intrigued. “Does the sack work on all illusions, even those created outside the Mercurial Court?”
+
+“They’re universally applicable,” Old Sixth confirmed, making Zac’s heart beat with even greater fervor.
+
+Absolute treasure! Rather than the [Myriad Paths Reflector], the [Mercurial Sack] was the real prize. Should he send the sack over to his Human side, where he could have Ogras conjure an endless series of Law-imbued treasures? Unfortunately, the elder’s following words tempered the flames of greed before they could go out of control.
+
+“As I said, there are limits. First of all, it’s a Late D-grade [Mercurial Sack].”
+
+“I’m sorry, D-grade?” Zac said with surprise and suspicion. This was the first time he’d heard that terminology used inside a memory since his translation skills had always kept the old wording. Was this old man someone who’d snuck inside rather than an elder of the court, or had he read Zac’s memories to hear that term?
+
+“The scholars back at the Imperial Capital have established a unified set of terminology to ease the exchange of ideas. The courts have long since adapted them, and the twenty-three departments are soon to follow. Eventually, it’s expected to replace the old terms across the whole Empire,” the custodian explained.
+
+“Anyhow, this is a Late D-grade [Mercurial Sack], so you really shouldn’t put items of higher grade inside. The sack can still accept higher-graded treasures, but the amount of time... Heh. Don’t put any B-grade illusions inside, or the poor formation will be toiling away long after we’re buried and forgotten. During that time, it’ll be fully occupied, making it impossible to convert any other items.”
+
+“I’d have to encounter a B-grade illusion for that to become a problem,” Zac smiled.
+
+“Anything’s possible now that you’re here, so I’m warning you early. We don’t provide spare sacks, just so you know. However, you can trade in your starting sack for higher-graded versions for contribution,” the custodian said while conjuring two new logs. One looked identical to the previous, while the other was an obvious forgery. It felt more like a projection than a real item, lacking the heft of something physical.
+
+“Secondly, not all illusions will work. The second log lacks the basic qualifications to be made real.”
+
+“So it’s like a Cultivation Manual,” Zac surmised. “It can’t be copied or imparted without first understanding the underlying essence.”
+
+“Just so. Even if you somehow manage to trade for a B-grade [Mercurial Sack], you can’t just dream up a B-grade Treasure. You lack the necessary understanding. Even most Celestials—or Autarchs—do.
+
+“There are also differences among illusions reaching the minimum threshold. The more detail that’s missing in the illusion, the more energy and effort is needed for the conversion. The illusions in this chamber are made from perfected molds. That’s why they need so little effort to be brought out. Many of the rewards in the Mercurial Court are the same.”
+
+Zac nodded in understanding, and the custodian led him out the way they came. They may as well have been thieves from how they came and went without leaving a trace or record. Zac could almost hear the wheels turning in Esmeralda’s head. If they could sneak back inside, they could pick up the rest of the treasures since the chamber would just reform them.
+
+“That’s the end of the tour,” the custodian said as they emerged from the administrative building. “Don’t forget to infuse the token with a drop of your blood. Everything else you need to know is recorded in the booklet.”
+
+“Uh, just asking to make sure. The Mercurial Court will know I’ve registered properly?” Zac asked, glancing at the [Mercurial Sack] like it was stolen contraband.
+
+“What more do you want? Should I throw you a banquet?” Old Sixth glared with mock anger. “Truth be told, the Mercurial Court has a hands-off approach to our management. Most of the upper echelons are busy with their research, and we’ve found the best results occur when letting nature take its course.”
+
+“Thank you for your guidance, senior,” Zac said. “Do you have any suggestions for my next step?”
+
+“Hmm… Don’t be too quick to spend your hard-earned Imperial Merit. There are many avenues to explore and many ways to shift the trajectories in your favor,” Old Sixth said. “Alright, have fun. I have to go repair the gates before the next guest appears.”
+
+“Uh, that’s—”
+
+“Don’t apologize. We invited you outsiders for this exact reason. You’re here to disrupt the status quo and open new paths into the future. The more chaos you bring, the better,” Old Sixth said, his words laced with double meaning.
+
+The old custodian was gone before Zac could ask anything else, leaving him alone in the square. Zac slowly turned around to gaze up at the enormous statue.
+
+“Telling you of all people that the more chaos, the better?” Esmeralda snickered from her perch atop Zac's head. “I wonder if the old goat will curse his big mouth before things are over.”
+
+“Let’s go get ourselves settled,” Zac said with a smile. “After we do, I think it’s time for you to explain exactly what we’re after.”

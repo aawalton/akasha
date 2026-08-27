@@ -1,0 +1,373 @@
+---
+id: 973d0957-a8f2-5c54-a0d3-afc7d159a49e
+page-type-slug: story-chapter-royal-road
+title: "178: Proposition"
+slug: 0178-178-proposition
+partOf: delve
+position: 178
+ownLength: 4059
+unit: words
+publishedAt: 2022-01-16
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/825753/178-proposition"
+royalRoadId: "825753"
+---
+
+The sun beat down on the plains, a barren, treeless expanse extending off into the horizon. Rain was sweating in his armor as he came to a stop beside the rock that he’d chosen as their destination. His Thermal Regulation enchantment was disabled, not because of the mana cost, which was trivial in the grand scheme of things, but because he wanted to feel the heat of his exertion. He’d deliberately removed points from Vigor for much the same reason. The imbalance made the run a better workout, as well as more fair.
+
+“Oh gods,” Jamus gasped, grasping at his side as he stumbled to a stop beside Rain. Rivulets of sweat poured down his face, and his orange robe was dampened in a ‘V’ across his chest.
+
+Rain smirked, reaching for the canteen hanging from his belt beside his helmet. “Here,” he said, removing the cap and holding it out to Jamus, who grabbed it eagerly. The mage’s Adam’s apple worked as he practically poured the liquid down his throat.
+
+“Ahhh,” Jamus sighed in relief, letting the canteen fall from his fingers with a hollow thump.
+
+“Better?” Rain asked.
+
+“Not yet,” Jamus puffed, waving a hand and looking up at him from beneath his limp hair. “I’m doing the thing.” He gestured, then made a motion like writing in the air.
+
+Rain smiled as Jamus gasped, taking a ragged breath. That would be the overstamina taking effect. After Jamus exhaled, his breathing became steady—still rapid, but under control.
+
+“Now I’m better,” he said, straightening himself up, then touching the golden stud in his ear. “This thing is basically cheating.”
+
+“Isn’t it?” Rain asked with a chuckle. He released a quick blast of Purify, earning himself a thankful glance, then dropped to one knee. The ground here was hard and cracked, the dirt encrusted with white. Reaching down, he touched one of the denser patches with a pair of fingers, then brought them to his mouth for a taste.
+
+“What are you doing?” Jamus asked, his breathing almost back to normal already.
+
+Rain rose from his crouch, then gestured at the white patch. “League of Legends was played here.”
+
+Jamus rolled his eyes. “Want to try again?”
+
+“Salt,” Rain said with a laugh. “It’s an ancient lake bed, or maybe a sea, I guess.” He pointed back the way they’d come. “That ridge must mark the edge of a watershed, but I can’t see any reason for this side to be so much hotter and drier. Meteorologically speaking, it’s odd. You’d think there’d need to be mountains or something between to stop the rain. Maybe it’s the local mana?”
+
+Jamus shook his head, brushing back his hair and whipping his hat out of a pocket. “Rain talking about rain. However odd it is, you’re odder still.” He pulled his hat onto his head, then took a moment to adjust the brim. “Meetee-oo…what?”
+
+“The study of the atmosphere,” Rain said, smiling unashamedly. “And don’t go calling me odd when you’re the one who wore a carpet on a jog.”
+
+“And what else would I wear?” Jamus said. “My dressing gown? Full platemail?”
+
+“Ascension has a tailor now, Jamus,” Rain said, still smiling and deliberately not looking down at his own armor. “You could get yourself some pants.”
+
+“I have pants,” Jamus said, gesturing toward his knees. “Under here, thank you. And I will have you know that this robe is both durability-enchanted and extremely fashionable.”
+
+“Uh-huh,” Rain said. Vestvallan fashion. Talk about an oxymoron.
+
+Jamus’s fake indignation broke, and he chuckled, leaning against the shaded side of the rock. “I have to say, I never expected to make it this far.”
+
+“Me neither.” Rain shaded his eyes, staring back at the hills transitioning to forest. “We must have done…at least a 10k. Ten kilometers, that is. Hells, maybe twice that.”
+
+“That too, but that’s not what I’m talking about,” Jamus said, letting himself slide down the rock until he was seated on the baked earth. “I meant this far as an adventurer.”
+
+Rain nodded, moving to sit beside him.
+
+“I got lucky,” Jamus continued with a sigh. “Finding a team willing to take me into the Badlands, to start. Then we all got lucky to find an essence monster on the surface. Did Carten ever tell you what it was?”
+
+Rain smiled. “Some sort of scarecrow-thing with daggers for hands. He called it a Face Stabbing Face Stabber, but I’m pretty sure he was messing with me.”
+
+Jamus barked out a laugh. “Oh, I assure you, he wasn’t. That was indeed what it was called. Ages come, empires rise and fall, but adventurers remain adventurers. Whoever named that thing must have had a bizarre sense of humor.” He chuckled, then his face grew serious. “It was…not a good fight. Of the eight of us that went, only four came back—me, Carten, and two others. I knew the odds going in. That’s what I mean when I say I never expected to make it this far. A fresh start was all I wanted. Or a clean end.”
+
+“Shit,” Rain said, as if a bucket of ice had been dumped over his mood. “Jamus.”
+
+Jamus gave a slight shake of his head, raising his palm. “Sorry. That’s long past. Seeing my family has got me thinking about stuff. That’s one of the things I wanted to talk to you about.”
+
+Rain nodded seriously, giving Jamus his full attention.
+
+Jamus chuckled, cracking a smile. “So serious. You can relax. Things are…good.” He wiggled a hand. “Good enough. Bens is planning to join Ascension, and Alden and Dami are going to come live with him and his family.”
+
+Rain’s eyebrows shot up. “Jamus, that’s amazing news! What made them change their minds?”
+
+“It was less that they changed their minds and more that they saw a way free,” Jamus replied, smiling sadly. “Bens had mostly severed ties with his mother even before I got here. Alden and Dami would have too, if they thought Karilla would let them go. I’m thankful that Bens had more of a hand in their upbringing than she did. If she or that bastard Urs had any interest in actually raising their children, rather than just clucking over them, El knows they’d have turned out just like them.”
+
+“I’m pretty sure Bens is yours, Jamus,” Rain said. “He looks quite a bit like you.”
+
+“Thank you for saying that,” Jamus replied with a small smile. “It might even be true. It doesn’t matter if it’s not. He’s my son. So is Alden. And Dami’s my daughter, if she’ll have me, even if I only remember her as a baby.”
+
+Rain nodded. “So they are.”
+
+“Anyway, Alden and Dami want to leave, but they don’t want to make trouble. Please don’t mention it to anyone. Not even the council. If Urs finds out what they’re planning—or, gods-forbid, Karilla—it’ll be…apocalyptic. Best to wait until we’ve got a ship loaded and waiting.”
+
+“Yeah, no shit,” Rain said, having spoken to Jamus’s ex once or twice. Once or twice was enough. “But if they’re being mistreated, then—”
+
+“They’re tough,” Jamus interrupted, cutting him off with a smile. “It’s their decision, and do you think I’d just be sitting here if it was that bad? What’s a few more months? Anyway, let’s talk about something more cheerful.”
+
+His thoughts swirling, Rain nodded, looking down at his knees.
+
+“Meloni and I are getting married,” Jamus said with no further preamble.
+
+Rain practically gave himself whiplash as he snapped his head back up. “Since when? Jamus, that’s great!”
+
+Jamus smiled, laughing. “I knew that would get a reaction.”
+
+“Seriously, Jamus, you two are great together, and now… Getting married! Jamus, that’s… That’s great!”
+
+“And now you’re repeating yourself,” Jamus replied with a grin. “I don’t know why you’re so shocked. Even a blind man could have seen this coming.”
+
+“I didn’t!” Rain said, too excited to remain sitting. He got to his feet, pacing back and forth. “I mean, I knew you two were serious, but…so soon!”
+
+“We’ve known each other for over a year,” Jamus said, laughing. “That’s hardly soon. And at our age, we both know better than to dither.”
+
+“Shut up, Jamus, you’re not old,” Rain scoffed. “Which one of you proposed?” he demanded, whirling on him. “And how did it go? Details, man, details!”
+
+“Proposed?” Jamus asked, tilting his head. “Is that…a cultural thing? I suggested we hold the ceremony now, if that’s what you mean. Truthfully, we decided months ago. I just got tired of waiting to make it official.”
+
+[Rain-King! Happy what?]
+
+Rain came to an abrupt halt in the midst of his pacing. Dozer was presently in his soul, working in the chaos outside the Bastion. Rain had clearly let his emotions get away from him if the leakage had been enough to distract the slime from cleaning.
+
+[Nothing, Dozer, Nothing,] he sent, judging it too complicated to explain.
+
+“Listen, Rain,” Jamus said, getting back to his feet with a grunt. “I have a favor to ask of you.”
+
+Rain turned to face him, a kernel of horror lodging itself in his heart. Oh no…
+
+“Well, you see,” Jamus said, doffing his hat and playing with the brim. “You probably know this, but only one priest survived the Shift in Vestvall. He’s Ellish, and he’s a bit…traditional about it.”
+
+Shit! Oh, no, no, no!
+
+“He refuses to grant an annulment between Karilla and me, no matter that we both loathe each other, so… Look, I know you don’t follow the gods, but as Ascension’s captain, you’re an authority figure, and you’re also my friend. I’d like to ask…”
+
+[Rain-King! Danger!!!?]
+
+[Not now, Dozer!]
+
+“…I was wondering if you’d be willing to say the words,” Jamus continued, quickly raising his hands. “Now, don’t worry. I’ll tell you exactly what you need to do for the ceremony, which can’t be held until the turning of the month anyway. With your memory, you could be ready ten minutes from now.”
+
+“I…but…” Rain spluttered, waving his hands. “I’m not…I don’t believe in… Well, I might believe, given…magic…but I don’t follow… I mean practice…uh. Are you sure that would be okay? I’m basically a heathen.”
+
+Jamus smiled wryly. “I’m not so devout myself. It is more about the tradition for Meloni and me. Besides. Any god that would be offended over a friend saying the words is no god of mine. I want it to be you.”
+
+“But surely, Tallheart…shit, public speaking.” Rain raised a finger. “Carten! Carten would be great! It’d be a riot!”
+
+Jamus laughed, fiddling with his hat. “Honestly, Rain. Be serious.”
+
+[Rain-King!]
+
+Rain ignored Dozer, closing his eyes before turning to face Jamus fully. He opened them, then reached out to lay a hand on Jamus’s shoulder. “Of course I’ll do it, Jamus. I’d be honored.”
+
+Jamus placed his hand over Rain’s. “Thank you.”
+
+There was a sudden pop, then Dozer appeared in mid-air, falling to the ground with a splat. Before Rain or Jamus could do more than recoil, the slime was airborne once more, spasming violently like a Jello sculpture that had rebounded from a kitchen floor.
+
+[!!!!]
+
+There was another pop, then Dozer was gone.
+
+[Bad!] the slime sent, along with the impression of a flavor. Rain didn’t get the sense that the slime was injured, just…offended…was perhaps the best translation. That was all he got before Dozer snapped the connection closed.
+
+What the…? Did he just…hang up on me? Wait, he EATS salt. He’s always licking it off people’s skin if I haven’t used Purify in a while. Was it just too much at once or something?
+
+“Rain,” Jamus said, bringing him back to reality. The older mage had lost his hat and had his hand over his chest. “Was, um… Was that Dozer?”
+
+Rain blinked. “Yeah. Yeah, it was.”
+
+A long moment passed.
+
+“Would you care to explain further?” Jamus asked.
+
+Rain shrugged, spreading his arms helplessly. “Apparently, slimes don’t like salt.”
+
+Ameliah stared at her creation, standing amid twisted bits of wood, metal, and some chunks of essence that had landed halfway between.
+
+The clock was taller than she was, its cabinet open to reveal a large brass pendulum and the lead weight that would drive it, held up by a chain. That chain was wrapped around a large gear, up behind the clock face. Rain had apparently driven his version with an electric motor. She was still a bit shaky on how those were supposed to work, which was doubtless why her attempt to build one had failed. The weight was supposedly the traditional method, and unlike electricity, it was something she could see. Still, Rain hadn’t gone into detail on the ‘old way’, so she’d had to fill in a few missing pieces.
+
+It’ll work. I’m sure it’ll work.
+
+Reaching out, Ameliah held her breath as she removed the peg blocking the pendulum’s motion. There was a mechanical tick, and it began to swing, gradually picking up speed. Her eyes darted to the clock face, seeing the second hand clicking forward in time with the pendulum. The time was completely wrong, of course, but that was a problem for later. She’d track down Nails tomorrow to help her calibrate it with Message. For now, it was working.
+
+“Yes!” She pumped both hands up over her head, then spun away, gesturing and imagining Force Wave sweeping up all the debris. She didn’t have any such spell, nor would the real thing have been so controlled, but the junk responded anyway, flying to land in a tidy heap next to what could have charitably been called a tree. She’d been working to restore the ones that had toppled into the void, and her initial efforts had come out looking a bit…sick. Not letting the sight bother her, she moved over to an enormous bed, sitting incongruously on the grass beside the stone well that was her core. Leaping into the air, she spun, then landed on it with a grunt.
+
+“Oof.”
+
+She hadn’t really figured out how to make essence soft yet, so the mattress was about as comfortable as a mound of dirt. Not much better than the ground, really. Like the tree and the wrong time, it was a problem for later. Rolling onto her side, she looked at the clock, still ticking away, then smiled.
+
+Making it had taken her hours, hours in which she was supposed to be sleeping. There was no helping it, though. She couldn’t exactly let Rain get ahead of her.
+
+Progress Report
+
+marker_1: s5 [3061 Sowing 26 10:01]
+
+marker_2: s6 [3061 Sowing 26 21:13]
+
+Span: 11.2 hours
+
+Character
+
+Total Exp: 2,075,220 -> 2,087,394 (+12,174)
+
+↳Stamina Use: 675
+
+↳Mana Use: 11,499
+
+Skills
+
+Amplify Aura: +40 exp
+
+Aura IFF: +63 exp
+
+Aura Synergy: +614 exp
+
+Channel Mastery: +5,970 exp, 10 -> 11 (+1)
+
+Detection: +1,680 exp
+
+Extend Aura: +3,404 exp, 11 -> 12 (+1)
+
+Magical Synergy: +11,499 exp, 11 -> 12 (+1)
+
+Purify: +150 exp
+
+Winter: +192 exp
+
+Experience Monitor
+
+Target
+
+Since Dawn
+
+Since EsEx
+
+50,000
+
+50,978
+
+0
+
+Not bad for my first day as a silverplate.
+
+Rain smiled, lying flat on his back atop a pallet within the tent Vanna had set up for him and Ameliah. This tent was made from thick monster pelts, not linen, and it felt more private despite being smack-dab in the center of the camp. He couldn’t hear any noise from their neighbors, nor even Tallheart working at his forge in the distance. An incandescent bulb hanging from the central pole cast warm light over the interior, making things positively snug.
+
+The snug feeling could also have come from Ameliah, lying perpendicular to him and once more using his chest as a pillow. Rain had his arm draped over her waist, and she was tracing tiny circles on his forearm with a finger. They were both armored, but with the enchantments active, the sensation came through clearly. They’d also removed their helmets and gauntlets. Such things were fast enough to slip back on in an emergency. Rain had been taking advantage of the opportunity to run his fingers through Ameliah’s hair, the Malleable Ring loose around his finger, though he’d paused to look at his status.
+
+“Hey,” she said, laughter in her voice. “Did I say you could stop?”
+
+“Sorry,” Rain said, smiling and resuming the motion. “I was distracted.”
+
+“Mmmhmm,” Ameliah said, not sounding surprised. “Get those three levels yet?”
+
+“Class, no, skills, yes,” Rain said, then pulled open the skill card for Channel Mastery.
+
+Channel Mastery (11/15) Exp: 1,334/11,200
+
+Allows intuitive control of channeled skill intensity and tick rate
+
+Minimum skill intensity: 0%
+
+Maximum skill intensity: 200%
+
+Maximum skill tick rate: 1.2s
+
+Minimum skill tick rate: 0.8s
+
+Skill mana cost modified by intensity adjustment
+
+Skill intensity per tick modified proportional to tick rate
+
+“Anything interesting?” Ameliah asked.
+
+“Channel Mastery,” Rain replied, doing a bad job of hiding his excitement. His generally giddy mood after hearing about Ameliah’s soul progress wasn’t helping. “It does exactly what you said, look. Let me read it to you.”
+
+Ameliah listened patiently, then shrugged when he finished, clearly not sharing his enthusiasm. “I’m glad you’re happy, Rain. Most people feel robbed when they find out. Sure, if you slow a spell down, you can concentrate damage to break resistances, but more damage would have had the same effect. As for increasing the tick rate, it would be one thing if it let you get around the damage limit, but that’s on the receiving end, so it won’t help. The speedup is useless for most spells.”
+
+“It’s not useless for Detection!” Rain said. “Do the math, Ameliah. If it keeps scaling like this, it will be continuous at rank fifteen. Real-time tracking of whatever I’m looking for.”
+
+Ameliah snorted. “As long as whatever you’re looking for doesn’t have resistance.”
+
+“Bah,” Rain said, waving the hand he’d been using to stroke her hair to dismiss the window. “So I use a tick of fifty milliseconds at high power. I would barely even notice the lag. It would have been great to have this afternoon, let me tell you. Reason had me traipsing all over the forest, looking for a list of plants longer than my arm. They aren’t entities, so I can’t use IFF to bundle them up, but with this…” Rain snapped his fingers, “I could run the whole sequence like that.”
+
+“If you say so, macro boy,” Ameliah said.
+
+“Hey, careful,” Rain said, craning his neck to smile at her. “What if Kettel heard you? That could catch on.”
+
+Ameliah laughed. “Don’t worry about it. We’ve got Muffle runes now.”
+
+“Huh?” Rain asked, blinking. “Wait…what?”
+
+“I thought you knew,” Ameliah said, lifting her head slightly. “Romer figured it out this morning.” She pointed at one of the tent walls, and Rain’s jaw dropped as he saw that there was indeed a rune painted there. The ink was black, barely standing out against the Deepcat hide, but it had a slight reflective sheen—doubtless from ground-up Tel.
+
+“You must be blind,” Ameliah continued. “How did you miss them?”
+
+“I’ve been looking at you, not the tent,” Rain replied, rolling his head the other way to see a second copy of the rune on the opposite wall. He peered over Ameliah’s raised head to see a third painted on the inside of the flap. “You’re very distracting.”
+
+“I am,” Ameliah agreed contentedly, settling her head back down on his chest and snuggling his arm tighter around her.
+
+“Why aren’t they glowing?”
+
+“Romer’s level five, Rain. I don’t know what you were expecting.”
+
+“Glowing,” Rain said, shaking his head, then laid his head back as well to look at the ceiling. “I guess I need to talk to Romer. I’m surprised he didn’t mention it when I got back from my run with Jamus. I was running Winter for his literacy class, and he had plenty of opportunities to brag about it while the students were working. He’s been obsessive about the runes we found in Lady Sale’s lair, doubly so since I asked him to find a way to secure the council meetings. Why didn’t he tell me he cracked one of them?”
+
+“Would you have derailed his entire class to interrogate him for the details?”
+
+“…maybe.”
+
+“Well, there you go,” Ameliah said. “He knows you.”
+
+“He could have told me after,” Rain said with a sigh. “Though I suppose that would have just disrupted my algebra class instead. If I hadn’t jumped right into it once he finished, half the students would have had the chance to escape.”
+
+Ameliah laughed. “Speaking of running, how’s Jamus? Did you two have a good guy talk?”
+
+Rain grinned. “He and Meloni are getting married.” Jamus had authorized him to spill the beans, given that he planned to tell Carten tomorrow. Once he did that, the whole camp would know in short order anyway.
+
+“About time,” Ameliah said, her tone conveying not the slightest hint of surprise. “When?”
+
+“On the first,” Rain said, slightly put out. “He asked me to conduct the ceremony.”
+
+“Really?” Ameliah asked, raising her head again to look at him.
+
+“Oh, now you’re surprised,” Rain said with a laugh. “Yes, really. And I accepted. For some reason, he didn’t go for my initial suggestion that Carten do it instead.”
+
+Ameliah smirked. “Tallheart would have been even better. Remember what he said to us?” The emotion suddenly drained from her face, and she spoke in a flat tone, deepening her voice. “Now, kiss.”
+
+Rain laughed, kissing her on the forehead, though it was awkward from his current angle.
+
+Ameliah sighed happily. “You know, I’ve never been to a wedding. Ellish or otherwise.”
+
+“Ellish?” Rain asked. “Jamus used the same word, but I didn’t get a chance to ask what it meant. Does that refer to like a sect or something?”
+
+“Nothing so specific,” Ameliah said, waving a hand. “It means people who follow El above the other gods. Most do, outside Xiugaaraa. There, it’s all Dystees, Dystees, Dystees, with El demoted to steward or something. Don’t ask me to explain the pantheon. I’m not an expert.”
+
+“You are compared to me,” Rain said, smiling. “I asked Jamus why Samahleah isn’t in charge of marriages, given that she’s the goddess of love and all that, and apparently, that was the funniest thing I’ve ever said. He wouldn’t tell me why.”
+
+Ameliah chuckled. “Oh, Rain. So innocent.”
+
+“Huh?”
+
+“Here,” Ameliah said. She rolled her head to the side, levering herself up to bite playfully at his lips. “Let me teach you a few things.”
+
+*CLANG* *CLANG* *CLANG*
+
+“Tallheart!”
+
+Pausing with his hammer raised in mid-swing, Tallheart looked up. Slowly, the echo of metal crashing into metal faded into the night. He squinted, seeing Vanna step into the flickering light of his forge.
+
+“It’s late,” Vanna said in lieu of a greeting, crossing her arms and fixing him with a particularly human glare.
+
+“So?” A scratchy voice asked. Staavo’s grease-covered head popped up from behind the half-reconstructed forge-wagon. “We’re working.”
+
+“I am working,” Tallheart corrected. “You are an invader.”
+
+“Bah,” Staavo grumped, waving a hand at him.
+
+“What you’re doing is keeping everyone awake,” Vanna said.
+
+“Mmm,” Tallheart rumbled, returning his hammer to his belt. “Apologies. I will ask Romer to ward the area tomorrow now that he has learned the required rune. A dozen of them should be sufficient.” He turned to look flatly at Staavo. “Unfortunately, the formation will only block noise. It will not stop goats from getting in.”
+
+“Hardy-har-har, you lumbering hat rack,” Staavo replied, planting his hands on his hips.
+
+“Staavo,” Vanna warned.
+
+Tallheart rumbled, amused. She did not understand the game.
+
+Staavo walked over to Tallheart, then slapped him on the back before pointing to a strung-out assembly lying on the ground. “You were right. That gearbox will never work. I’ve got no fucking clue what Rain was trying to say, and he can’t draw for shit. Meet you for breakfast to talk about it before we hunt him down?”
+
+“Very well,” Tallheart said, turning toward the camp and walking past Vanna into the darkness. “Good night, old goat.”
+
+“Bark-eater.”
+
+“Hop-foot.”
+
+“Shovel-face.”
+
+“Smooth-skull.”
+
+There was a pause, then Staavo muttered, “Damn it, I’ve got nothing.”
+
+“Mmm,” Tallheart rumbled, wearing a satisfied smile. He could practically hear Vanna’s eyes rolling in her head behind him.

@@ -1,0 +1,143 @@
+---
+id: e04f1627-8b2a-58df-be5a-253de5f6bb93
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,414 - Avīci"
+slug: 0093-chapter-1414-avci
+partOf: defiance-of-the-fall
+position: 93
+ownLength: 2790
+unit: words
+publishedAt: 2026-03-26
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3197157/chapter-1414-avici"
+royalRoadId: "3197157"
+---
+
+Zac’s screams were swallowed by the void—not his Void, but the bottomless abyss of suffering within the sea of anthracite flames that made up his surroundings. His soul was burning, his Dao Heart was burning. A lifetime of memories was set ablaze, threatening to eradicate his past. Zac feared that not even his personal Void was spared since it had effortlessly spread to his other half.
+
+He almost wished that something would give. Sacrificing part of himself to take away some of the pain seemed like an excellent trade. That was also why it would never happen. The flames of Avīci weren’t there to destroy. Its silent malevolence kept Death’s sweet release to itself.
+
+Avīci’s fiery lakes were a purgatory designed to punish whatever sins it thought interlopers had committed. It remained at the very limit of what one could endure, forever, with nothing but a hope and a prayer waiting at its other end.
+
+There were no feasible methods of avoiding or escaping the torments of the Eighth Hell. It held absolute dominion, transcending an Autarch’s domain where their Dao became Law. Zac’s Hidden Nodes and Bloodline Talents were utterly incapable of weakening it, let alone shutting it down. It was a tribulation that had to be faced head-on, without shortcuts or tricks.
+
+Zac couldn’t even tell if he was moving forward because of his addled state. The surroundings had looked the same for God knows how long. He suspected that was part of the test. Not knowing whether the guiding call coming from the distance was real or whether he was getting closer.
+
+A moment of weakness would be all it took to undo all his hard work. A single step back would take him back to the plateau he came from. As it turned out, stopping too long was the same. The knowledge made every step forward a war of wills where Zac fought his own weakness.
+
+He couldn’t do it again. This was already Zac’s third attempt. The first entry may have been an exploratory expedition meant to gain an understanding of Avīci’s rules, the second was a genuine failure. Zac knew he didn’t have it in him to step through the realmgate a fourth time if he gave up at this juncture. He would make it through, even if he had to pay a steep price of passage.
+
+There was only one way to gain a short reprieve from Avīci’s purgatory. Zac kept going until he could take it no longer, at which point he pushed off the ground. He rose above the sea of flames and the curtain of black mist that sat atop it like a lid. The pain relented immediately as Zac found himself pelted by ashen rain. Each drop exacted a steep fee for succor.
+
+The rain held a Dao of Death embodying a deficiency that Zac felt was far more horrifying than his bloodline’s bottomless hunger. It desperately drew on its surroundings, and Zac was the only available target. The Perfected Death didn’t lack for strength or energy, nor did it target life. It was a fate-killing Death that consumed providence.
+
+No Hegemon could resist its pull. Zac quickly channeled the seal on his left hand, protecting his Destiny by offering up someone else’s. The rain killed 50 Imperial Merit every second Zac spent above the mist curtain, and it was worth every penny. Zac drew deep, calming breaths as he flew above the clouds.
+
+Zac inspected his surroundings, desperately hoping for a break in the monotony, anything to prove he was making progress. Avīci had no hope to give beyond the constant call coming from the distance—a sliver of life in a sea of death. Everything remained the same as during his previous breaks above the earthly purgatory.
+
+The sea of flames and its cloud cover stretched to the horizon. There were a few burning mounds far in the distance that peeked through the curtain, but Zac neither had the strength nor the willingness to investigate. They were well out of the way from the guiding call. He wasn’t confident in reaching his destination as it was, so any detours were out of the question.
+
+The deathly rain fell across the whole domain. It silently dropped into the mist to be incinerated, adding to the curtain separating Heavens and Earth. The roiling clouds above were frozen in place as if time had stopped. If one took a closer look, they would realize the clouds were made from countless burning giants, floating with their heads pointing toward the ground.
+
+The upside-down bodies emitted terrifying strength, and yet they were empty. They held no Destiny, leaving them without a past or a future. Moving so much as an inch was beyond what their providence could allow. Zac wasn’t sure if they should be considered dead or alive. They were neither; they were both.
+
+The giants were trapped for all eternity. Their blood was extracted and vaporized by Avīci’s true flames before gathering into rain in an unnatural cycle of Pure Death. Zac could almost feel the captives beckoning him, knowing he’d join them the second he ran out of Destiny to offer up. He averted his gaze and descended into purgatory once more.
+
+Zac didn’t know how long the cycles of suffering and costly relief, hope and despair, lasted. He’d entered a catatonic state where his whole existence rallied around approaching the light of hope. It was a war of wills, one he’d fought many times before. One day, the war ended with a step no different than the millions before.
+
+There was no warning or lead-up. One second he was still in Avīci, suffering from its unrelenting flames. The next, he was ensconced in a cocoon of Perfected Death that drew out his earthly woes. It took away all the pain that had accumulated and exchanged it for boundless warmth. Zac had experienced something similar before: the blessing of the Fertile Earth.
+
+A touch of Imperial Faith was still there, but it was overshadowed by a cyclic force unique to the lower planes. It turned torment into clarity, delirium into truth. His whole existence had been tempered in the furnace of the Eighth Hell. The cocoon shattered, and Zac gazed at the sky from the bottom of the hollow.
+
+Seeing the distant Heavens left Zac feeling like the proverbial frog in the well. He’d fought against creatures and concepts beyond comprehension. He’d overcome wars of the spirit, the flesh, and the heart. For nearly four months, he’d walked the edge between life and death. And he’d won.
+
+Zac had reached the deepest depths of the Left Imperial Expanse, emerging like a butterfly from Avīci’s cocoon. Countless impressions sublimated into one, and Zac understood it was time. He looked around, only now realizing there was nowhere to seclude himself.
+
+The bottom floor of the Hollow Chasm was no more than fifty meters across. The walls leading up to the terraced graveyards were lacquered with a layer of impassable energies marked by the Inverse Peak. He’d probably fall into the Lower Planes if he tried to approach. Burrowing into the ground was equally impossible, seeing as the floor was made from gray marble emitting fluctuations of Law.
+
+The sight triggered a mix of greed and fury in Zac. Those wastrels of the Hollow Court had carved the whole reception floor from a slab of Law-imbued stone that was at least Peak C-grade. Then again, he couldn’t be too angry. It was this floor that had provided him with the nourishing energy moments ago.
+
+Zac also noted that he wasn’t alone. In fact, he was extremely shocked to find that he was the last to arrive. Tavza was sitting on the opposite side of the plateau, her body covered in the markings of her bloodline. Zac realized that they were much more filled in than when he saw Tavza’s bloodline patterns at the Abyssal Pond.
+
+It was most likely a recent addition. Tavza’s eyes were closed in meditation, and she emitted the fluctuations of a recent breakthrough. By another side was a cocoon of death flickering with shadows. Ogras had made it through, but he was still undergoing death’s sublimation. Zac was extremely curious how the two had crossed Avīci faster than he had. If there was one thing he was confident in, it was his capacity to endure punishment.
+
+The answers would have to wait. Zac’s momentum had reached its peak, and delaying his breakthrough meant missing the opportunity. His other half was prepared, so Zac threw out a set of array disks to get some privacy. The arrays immediately collapsed when coming into contact with the plateau’s boundless energy. No wonder Tavza was forced to meditate in the open.
+
+Zac could only go as is or lose the opportunity. He decisively chose the latter. He took out three boxes holding Dao Treasures and swallowed the first. Its energies rushed into his Soul Aperture, where his Dao Apparition waited. It was scattered before Zac could refine it and use it to fuel his breakthrough.
+
+The plateau understood Zac’s needs and readily imparted purer fuel than any Dao Fruit could provide. Zac felt his Earthly Dao of Defiant War advance at a record pace, prompting a distant rumble. The sky clouded over as Zac made the final push, yet Heaven’s wrath felt distant.
+
+It was as if the Hollow Chasm magnified the distance between the Heavens and Earth, inadvertently turning it into a Tribulation-assisting formation. Its effect was even stronger than the tower in the Centurion Base. Zac tsked with annoyance when the first bolt of angry red illuminated the chasm.
+
+Zac would have welcomed the assistance if it were his breakthrough into Peak Hegemony. However, his Dao tribulations weren’t tainted by his sinful cultivation of the Void, and the Peak of Conflict was within the System’s purview. If not for cultivating two Boundless Daos that were inextricably linked to his Earthly Dao of Defiant War, there wouldn’t have been a tribulation at all.
+
+He'd faced a double tribulation when advancing his other Earthly Daos without missing a step, so a single Dao breakthrough could only be considered a feast for [Void Heart]. Now, someone was stealing his dinner. What little remained of the first bolt when it crashed into Zac’s forehead was barely able to leave a mark.
+
+Zac sighed, figuring he might as well take the moment to perform an experiment. His human side jumped into a memory wind before the second bolt could descend. Meanwhile, Zac fully released his restraints on [Void Heart]. A second bolt descended, then a third, both failing to cause any damage.
+
+They only had time to anneal his Dao before being dragged into the Void. Only pieces of the third bolt managed to escape. Seeing that there wasn’t a hint of the Four Desolates in the third tribulation, Zac wasn’t surprised to see there would be no fourth. The sky cleared, leaving a faint hint of reluctance.
+
+Zac looked down at his hands, not sure what to think. Advancing his Earthly Dao of Defiant War had been his main goal over the past months, and he’d tried everything to make it happen. He’d spent over 7,000 Imperial Merit in the Mercurial Courts to expedite the process, yet something held him back. Now, he’d seized it so quickly and effortlessly that it felt like an illusion.
+
+A set of abyssal eyes trained on him brought Zac out of his unusual state. He nodded at Tavza before sitting down, neither saying a word. Tavza was still consolidating her breakthrough, and Zac had his own things to deal with. As for Ogras, Zac saw no reason to disturb him. Forcibly extracting him would only do more harm than good. Instead, Zac opened his status screen.
+
+Name                  Zachary Atwood
+
+Level                    224
+
+Class                    [D-Arcane] Evolutionary Precursor
+
+Race                     [D] Human - Void Emperor (Corrupted)
+
+Alignment          [Zecia] Atwood Empire – Viscount of Conquest
+
+Titles                    [...] Peakmender, Exalted Destiny, Atavistic Defier, Valiant Viscount, Cosmic Entity
+
+Limited Titles     Tower of Eternity Sector All-Star - 14th, Equanimity, The Final Twilight - 1st, Gates of Rebirth, Void Road, Chosen of the Empyrean Chalice
+
+Dao                      Earthly Dao of Defiant War - Middle, Earthly Dao of Reborn Life - Middle, Earthly Dao of Sealed Death - Middle
+
+Core                     [D] Evolutionary Core
+
+Strength             465598 [Increase: 256%. Efficiency: 567%]
+
+Dexterity             223459 [Increase: 196%. Efficiency: 363%]
+
+Endurance         253289 [Increase: 226%. Efficiency: 594%]
+
+Vitality                297524 [Increase: 240%. Efficiency: 643%]
+
+Intelligence        49928 [Increase: 176%. Efficiency: 363%]
+
+Wisdom              115665 [Increase: 179%. Efficiency: 381%]
+
+Luck                     2217 [Increase: 219%. Efficiency: 488%]
+
+Free Points        0
+
+Nexus Coins       [D] 87 831 997
+
+[Earthly Dao of Defiant War (Middle): All attributes +100, Strength +30000, Dexterity +13000, Wisdom +4000. Effectiveness of Strength +30%.]
+
+Looking at the screens brought a smile to Zac’s face. Seeing the numbers helped drive home that he’d made it. As for the “unnecessary” expenses, they weren’t without use. The [Thousand Temperance Trials] of the Mercurial Court helped his Techniques sync up and advance at Late Integration, pushing them closer to the perfection of the stage.
+
+The addition of attributes was heavily geared toward Strength this time, with Dexterity and Wisdom only gaining 1,000 points each. The allocation did surprise Zac to some degree. Many of the newly integrated insights into his Dao were concepts related to defiance. Daring to defy the Heavens and wage war against anyone standing in his path seemed more like a spiritual strength than something physical. Accordingly, a larger boost to Wisdom would have made sense.
+
+At the same time, pointing his axe at deranged Supremacies like Mox couldn’t exactly be called wisdom. Maybe the System considered his defiant Dao weaponized ignorance, so putting all points into Strength was the only thing that made sense. If so, that was fine with Zac. He’d put all his free points into Dexterity lately, and he retained a decent balance between explosive power and speed.
+
+The attribute boosts of evolving Earthly Daos weren’t the main draw anyhow. The actual strength he could exert in battle was significantly higher. The defiant aspects of his Conflict-attuned Dao meshed extremely well with his style and other advantages, too. Zac could tell it would make his skills more durable.
+
+Together with [Adamance of Eoz] and [Conviction of Eoz], his attacks would have a decent chance to come out on top when clashing against a superior force—within a reasonable limit, of course. His defensive skills should also be able to stubbornly endure a little longer before collapsing.
+
+Most important to Zac’s current circumstances, successfully advancing his third Earthly Dao meant he was done. All necessary materials had been collected, and his level had reached the required threshold. The leveling pills he bought from Tavza and the Mercurial Court were both top-of-the-line. What little Pill Toxins they left behind would easily be cleared out with the Tribulation Lightning he’d just collected.
+
+By the time [Void Heart] had finished its refinement, Zac would already have made the final adjustments to his blueprint. Shortly after, more good news came in the form of a note inside [Purity of the Void]. The tribulation had struck as normal while undergoing it inside a memory wind, and it didn’t appear to clash with any restrictions imposed on the trial.
+
+The locals could see it, and items inside the memory could interact with the tribulation. Seeing as the memory wind remained stable, the experiment could be considered a complete success. He was ready to advance to Peak Hegemony.
+
+If there was one regret, it was that Zac hadn’t accomplished much in the way of his soul. Advancement had become faster since inventing [Void Emperor Apotheosis], but he was still some ways from perfecting [Nine Reincarnation Manual]’s fourth layer. There was simply not enough time.
+
+All his efforts had gone into collecting materials and preparing his blueprints over the past months. Before that, he was busy crossing the Left Imperial Expanse. Rather than steady practice and refinement, his soul cultivation had turned into a means of consolidating unnatural progress propped up by Natural Treasures he’d picked up during the trial.
+
+Somewhat shaky foundations weren’t a detriment to his upcoming breakthrough. The stronger one’s soul, the better. Zac would need all the Mental Energy he could get to control the berserk energies he’d unleash during his final Core Ignition. But after his heart-strengthening experiences in the Mercurial Court, his soul had become his weakest link.
+
+Thankfully, there was still time left in the trial, and he’d accumulated enough Potentiality to achieve his goals in the Mercurial Court. He just needed to figure out how much Imperial Merit the Primo’s treasure would cost him. Whatever was left could be used for his cultivation, setting the stage for Monarchy and beyond.

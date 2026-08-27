@@ -1,0 +1,289 @@
+---
+id: acaf4250-6fbf-5666-a4ea-1287be576a93
+page-type-slug: story-chapter-royal-road
+title: "B2 | Updated Glossary"
+slug: 0083-b2-updated-glossary
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 83
+ownLength: 3780
+unit: words
+ownProgress: 3780
+publishedAt: 2024-02-04
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1506327/b2-updated-glossary"
+royalRoadId: "1506327"
+markedReadAt: "2026-06-29T19:08:45.781Z"
+---
+
+Vortel
+
+Description: The World of Vortel is a world where one tenth of the population will be born with a special ability. These ability users are classified in two different ways. Special Class Ability Holders, or SCAH, who have a unique ability that no one else has ever had before, and Regular Ability Holders, or RAH.
+
+The abilities come in various different classifications:
+
+Physical: Physical Ability Holders gain an increase to their body in some physical manner such as superstrength or speed.
+
+Magical: Magical Ability Holders gain the ability to use one magical element and gain a mana pool to go along with the element.
+
+Special: Special Ability Holders are the in between. The abilities that cannot be classified in the other two classifications but are still abilities. These can include a hybrid of Physical and Magical, or neither. Some examples include the ability to use a single powerful attack, the ability to set yourself on fire but feel no pain and take no damage, or the ability to nullify abilities. But these abilities do not give the user any mana to use.
+
+There is only one continent on Vortel as all of the others have been destroyed over the years through war, leading to the Great Acclaims being established, banning the use of strategic abilities and strictly enforcing it within both nations to lock down any person with a strategic level ability and restrict the use of their ability.
+
+Aran
+
+Description: The continent of Aran houses the Albarian and Arterian nations, both of whom have been at war for as long as either side can remember. The Albarians want the gold and metals that the Arterians have, and the Arterians want the fertile land that the Albarians have. And neither are willing to share with their eternal enemy.
+
+Albaria
+
+Description: The Albarian nation treats its soldiers generally well, but if a soldier has a bad officer in charge of them they will not have a good life. The people flourish with food and water, but are lacking in the technology department as opposed to Artaria.
+
+Ruled by a council of governors with a political emperor figurehead who has little power.
+
+Ability Holders are required to enlist into the military within four years of graduating from lower education, by the time they turn 22 years old. They are also required to attend special classes to help them learn how to control their ability during their education.
+
+Albaria has a smaller population and less land, with fewer Ability Holders. However, their Ability Holders often end up being higher quality than the Arterian Ability Holders.
+
+Trade from Arteria is illegal.
+
+Military Rankings:
+
+Private
+
+Corporal – Can directly command during battle up to 3 subordinates.
+
+Sergeant – Can directly command during battle up to 10 subordinates.
+
+Warrant Officer – Can directly command during battle up to 20 subordinates.
+
+Second Lieutenant – Can directly command during battle up to 50 subordinates.
+
+First Lieutenant – Can directly command during battle up to 100 subordinates.
+
+Captain – Can directly command during battle up to 200 subordinates.
+
+Major – Can directly command during battle up to 500 subordinates.
+
+Lieutenant Colonel – Can directly command during battle up to 1000 subordinates.
+
+Colonel – Can directly command during battle up to 5000 subordinates.
+
+Major General – Can directly command during battle up to 10000 subordinates.
+
+Lieutenant General – Can directly command during battle up to 20000 subordinates.
+
+General – 9 Generals in the army
+
+Arteria
+
+Description: The Arterian nation treats its soldiers poorly unless they are nobles or Ability Holders. The people often are lacking in food and water, albeit still with enough to live off of even if it doesn’t necessarily taste good, but have a higher level of technology than the Albarians have.
+
+Ruled by an Emperor with absolute power.
+
+Ability Holders are required to enlist into the military right away after graduating from lower education. They are also required to attend special classes to teach them how to control and fight with their ability during their education.
+
+Artaria has a larger population and more land, with more Ability Holders. However, their Ability Holders often end up being lower quality than the Albarian Ability Holders.
+
+Trade from Albaria is illegal.
+
+Military Rankings:
+
+Private
+
+Corporal
+
+Sergeant
+
+Warrant Officer
+
+Second Lieutenant
+
+First Lieutenant
+
+Captain
+
+Knight
+
+Major
+
+Colonel
+
+General – 4 Generals in the army
+
+Emperor and the rest of the Royal Family
+
+Eternal Dynasty
+
+Description: The largest commerce network and empire in the entire universe. It is a completely neutral force that does not directly interfere with other powers no matter what. The Dynasty is ruled by a single Emperor who has absolute power, however, he rarely interferes with his subjects, merely directing trade and managing the largest business deals the Dynasty holds. While taking a large chunk of profit from all the merchants working under the Dynasty’s name and his protection.
+
+The Dynasty spans over dozens of planets across the universe, with connections to nearly every single important nation.
+
+Military Rankings/Social Structure:
+
+Zero Star Merchant – Initial position for all new merchants to the Dynasty. It is also the grunt position that is used in the military as the base soldier.
+
+One Star Merchant – The One Star Merchant has authority over all merchants with fewer stars than they have. They also act as lower level officers within the military.
+
+Two Star Merchant – The Two Star Merchant has authority over all merchants with fewer stars than they have. They also act as lower level officers within the military.
+
+Three Star Merchant – The Three Star Merchant has authority over all merchants with fewer stars than they have. They also act as lower level officers within the military.
+
+Four Star Merchant – The Four Star Merchant has authority over all merchants with fewer stars than they have. They also act as higher level officers within the military. They can also directly contract with an official business partner of the Dynasty, granting both them and the partner benefits.
+
+Five Star Merchant – The Five Star Merchant has authority over all merchants with fewer stars than they have. They also act as higher level officers within the military. They can also directly contract with an official business partner of the Dynasty, granting both them and the partner benefits.
+
+Six Star Merchant – The Six Star Merchant has authority over all merchants with fewer stars than they have. They also act as higher level officers within the military. They can also directly contract with an official business partner of the Dynasty, granting both them and the partner benefits.
+
+Seven Star Merchant – The Seven Star Merchant has authority over all merchants with fewer stars than they have. They also act as top commanding officers within the military. They can also directly contract with an official business partner of the Dynasty, granting both them and the partner benefits.
+
+Eight Star Merchant – The Eight Star Merchant has authority over all merchants with fewer stars than they have. They also act as top commanding officers within the military. They can also directly contract with an official business partner of the Dynasty, granting both them and the partner benefits. They are also not required to report for military duty if they are directly contracted with an important business partner.
+
+Nine Star Merchant – The Nine Star Merchant has authority over all merchants with fewer stars than they have. They also act as members of the war council within the military. They can also directly contract with an official business partner of the Dynasty, granting both them and the partner benefits. They are also not required to report for military duty if they are directly contracted with an important business partner.
+
+Ten Star Merchant – The Ten Star Merchant has authority over all merchants with fewer stars than they have. They also act as the top generals within the military. They can also directly contract with an official business partner of the Dynasty, granting both them and the partner benefits. They are also not required to report for military duty if they are directly contracted with an important business partner.
+
+Emperor – He has absolute power over the entire nation and its citizens.
+
+Unlike many other nations, the Eternal Dynasty’s military is stylized based entirely off of the ranking of the merchant in question, with one of the requirements of each Star Rank being combat capability and strategic thinking.
+
+Luk’tar
+
+Description: A largely crafter dominated world ruled by six clans who are often at a cold war with each other until recently when it finally broke out into a full war. The world is covered mostly in forests on the surface, a high amount of humidity with vast oceans and lakes, Grand Trees that stretch higher into the sky than people can see, and six different Gates to other worlds.
+
+Military Rankings:
+
+Thrall: New to everything and has a lot to learn.
+
+Huskarl: Lowest ranked officer.
+
+Vanir: Middle ranked officer.
+
+Merkismathr: High ranking officer chosen by the members of the Council.
+
+Stallari: Leading general of the military chosen by the Clan Leader.
+
+Council Members
+
+Clan Leader
+
+Clans:
+
+Byrne: The clan focused on military development with very little manpower in terms of their own military. Their Gate is connected to the Eternal Dynasty on the Alpha Tier world Eternus.
+
+Sullivan: The clan focused on artifact development with a strong focus in their military’s manpower. Their Gate is connected to the neutral Beta Tier world called Atlantis.
+
+Gallagher: The clan focused on industrial structures with the most powerful defenses of the clans in terms of building strength with a manpower greater that is the second weakest of the clans. Their Gate is connected to the Crimson Flag, with ties to War, the Horseman of the Apocalypse, on the Alpha Tier planet Conquere. (pronounced con-q-where)
+
+Nolan: The clan focused on enchantment with a strong focus on mages within their military. Their Gate is connected to the Arcadian Society on the Alpha Tier world Arc.
+
+Keane: The clan focused on potion development and alchemy also with a strong focus on mages within their military. Their Gate is connected to the Arcadian Society on the Beta Tier world Raja.
+
+Sorrel: The clan focused on bladesmithing with a smaller military filled with more powerful officers. Their Gate is connected to the Grand Silvanian Empire on the Alpha Tier world Silverfall.
+
+Universe
+
+Revival is possible if a strong enough void mage or a Void Spirit is present. They are capable of pulling a soul from the void and placing it back in the body at a significant cost levels from the one revived. However, conditions have to be fulfilled for the revival to work. Such as the being who is getting revived needing to be at least level 10 if it is a void mage doing the resurrection. However, a Void Spirit can revive most people with only a few restrictions.
+
+Every world has a World Core where the users of the System are allowed to reset or lower their levels. However, these changes are permanent and cannot be revoked. Furthermore, people are not capable of forcing others to reset their levels as the System will detect attempts to do so.
+
+Invasions of new worlds are considered an honor for those who participate, and entire forces are created just to prepare for invasions, filled with people who have either stopped themselves from leveling or have had their levels purposefully reset to 1 at a World Core.
+
+Coordinates of new worlds are found by spatial magic users, and the worlds are classified by a division of seers from the Arcadian Society into five different Tiers. Alpha, Beta, Gamma, Delta, and Epsilon, with Alpha being the highest Tier.
+
+These Tiers are decided based on planet size, population, quantity and quality of Ability Holders, and resources.
+
+Level of the user plays an important role in society outside of Vortel. Meanwhile most adults are already at least level ten, with the higher level average adults being around level 20.
+
+Raising the level of someone’s class has various effects on the user in question. Some of them include but aren’t limited to raising their physical strength, their mental capacity, their magical power, their mana capacity, and their lifespan.
+
+Every user in the System tends to live for around 100 years on average, with every 100 levels doubling the user’s total lifespan.
+
+Worlds across the universe vary in their levels of technology and magical understanding, with Vortel’s level of technology being just a small amount above the average level of technology in the universe, and their understanding of magic a little above that.
+
+System
+
+Description: The System is an instinctive defense mechanism on every single planet in the universe, and it activates when invaders arrive to attack the planet.
+
+Class: A Class is automatically assigned to every user based on their natural ability and talents. Leveling up their Class will give them skills that will benefit them in further accomplishing what their Class requires along with possible physical or magical enhancements to their own body.
+
+Ability: An Ability is whatever special ability the user was born with.
+
+Level: A user’s level is increased by doing the action that their Class centers around.
+
+Planets are tiered based on various factors including but not limited to the size of the planet’s population, the number of Ability Holders they have, and the power of the Ability Holders on the planet. And they are rated between Tiers Alpha, Beta, Gamma, Delta, and Epsilon, with Alpha being the highest.
+
+Abilities are divided into five Classes or Categories, the term varying depending on the culture classifying them.
+
+Category 1/Class D
+
+Category 2/Class C
+
+Category 3/Class B
+
+Category 4/Class A
+
+Category 5/Class S
+
+Aria Crimson
+
+Description: The main protagonist of the story and a true immortal. She was a soldier fighting on the side of Albaria and was on the frontlines when the gates open and the System Initializes. And she is the only surviving member of the Crimson Noble Household – a family made up of Category 5/Class S Special Ability Users, each with their own unique ability. However, all of the money of the household was taken away by those who killed her family off, and she is the only one left because it is impossible to kill her. So as the only way the Emperor could think of to get rid of her, he sent her to the frontlines where she is expected to fight for eternity for the Empire. But he lost his political and military power, and was eventually killed by Aria with his soul core devoured so that he could never revive again.
+
+Aria then left Vortel and arrived on Eternus, the Capital world of the Eternal Dynasty.
+
+Aria personally likes the Albarian Empire despite its emperor.
+
+She is beloved by the Death Spirits.
+
+Ability: True Immortality – The user will never die and will always regenerate from any sort of damage done to them given time. Furthermore, the amount of time it takes to heal from a wound will shorten every time that exact same type of wound is received.
+
+Class: Harbinger of Death – One of the four Horsemen of the Apocalypse, the harbinger must bring death unto others to grow stronger.
+
+Characters
+
+Pestilence: Pestilence, otherwise known by the name of Victor von Lüneburg, is a mad man who is obsessed with science with a specific focus on poisons and diseases. Victor is always in his lab on the planet of Vest and rarely sets foot out of it. He lives on a secluded planet, only ever leaving in order to test out a new virus, plague, or disease he has made, wiping out the populations of entire planets in the process.
+
+War: War, otherwise known by the name of Lucius Octavio, is a war fanatic who brings war wherever he goes. He is the absolute ruler of a military nation called the Crimson Flag and is always on the battlefield, his class giving him the ability to fight forever without rest.
+
+Famine: Famine, otherwise known by the name of Ignatius Darkheart, is a brutal tyrant who starves his people for obedience within his ever-growing Dread Empire. He is also a warmonger who travels from planet to planet, spreading his rule along with the eternal famine that comes with it. Ignatius also grows stronger by the number of starved near him, so the further he spreads his rule the stronger he becomes.
+
+Isabella de la Vega: The ruler of the Arcadian Society that has dominance over the world of Arc. She is a mage with the ability to keep three spells ongoing indefinitely as long as she pays the mana price to activate them initially, with no more price required to upkeep them. And her Arcadian Society is a society of mages with a powerful school of magic.
+
+Leopold da Silva: The Emperor of the Grand Silvanian Empire ruling over the world of Silverfall. He is a kind ruler who loves his people but is ruthless towards his enemies and goes the extra mile to remove threats to his Empire before they become a problem.
+
+Raja Singh Amunet: The Pharaoh of the Rex Dynasty of the Dead. He is a brutal tyrant who worships death and the Spirits of Death and views death as a reward for those who have fulfilled their purpose. And his people believe it as well.
+
+Hassan al-Malik: The Leader of the Council of Darkness, an Assassination group that is spread out across most of the powerful worlds initialized into the System. He is a psychopath without the capacity for emotions and cares only for coin, same as his assassin underlings.
+
+Shirou Amatsuraki: The Emperor of the Eternal Dynasty, a neutral empire that wishes only to stay afloat forever without entering conflict with other nations. Shirou himself is a lover of commerce and runs the empire as a merchant would. He has white eyes and shoulder-length white hair, and enjoys fiddling with a coin in his hands.
+
+Ashur Kaelar Valan: The emperor of Arteria. DEAD
+
+Lysandre de Pyre Voltaire: The former emperor of Albaria. He is power hungry and cares only about himself without any care for the nation. To the point that he eliminated the Crimson family simply due to their power and influence threatening the little power he has remaining over the people and politics. DEAD
+
+Elara Crescent: The First General of Albaria. Serious, intelligent, leader, and cares about skill more than anything.
+
+Rowan Vale: The Second General of Albaria. Analytical and ruthless. Meanwhile he appreciates tactical maneuvers and intelligence.
+
+Calyx Star: The Third General of Albaria. Quiet, reserved, and in charge of the Third Army, which is in charge of gathering the nation’s intelligence.
+
+Seraphina de Aragon: The Fourth General of Albaria. She has the most powerful Superstrength Ability in the world and can crush a skull with her bare hands with ease. Supports Aria. And she does not like how powerful ability holders are treated.
+
+Selene Morn: The Fifth General of Albaria. She has long blond hair and golden eyes and is blunt and to the point. Supports Aria because her brother, the Eighth General, supports her. While she is very much a nationalist who loves her nation and will do whatever she can to benefit it, she will assist her brother over her nation any time.
+
+Alaric Ashfall: The Sixth General of Albaria. He is an old man who doesn’t participate in any of the political squabbles surrounding the generals and therefore has the least power amongst them.
+
+Valerie Sylver: The Seventh General of Albaria. She has a screw loose and does what she wants, when she wants, and when she becomes interested in something.
+
+Victor Morn: The Eighth General of Albaria. Supports Aria. He is passive aggressive and sometimes is hard to figure out.
+
+Aeliana Fang: The Ninth General of Albaria. She is power happy and enjoys having as much power as she can get her hands on.
+
+Frank Rogers: Part of Team Predator with a Category 5 Enhancement ability that lets him flood energy into other people’s bodies, replenishing their mana, stamina, and healing them while also increasing their strength and speed. He doesn’t speak much but when he does, everyone listens. Meanwhile he sees himself in Aria and takes a liking to her. He has a large frame with black hair and green eyes and is in his early forties in age. Overdrive.
+
+Leonardo Striker: Leader of Team Predator with a Category 5 ability that lets him control kinetic energy to a degree. He wishes for his team to get along well and be more informal, so he’s constantly making attempts to get them closer together. And he especially likes Category 5 abilities, finding them all to be interesting as he tries to learn more about them. He has black hair and purple eyes with an average height. He is in his mid-thirties. Twilight Huntsman.
+
+Hannah Harvey: Part of Team Predator with a Category 5 Perception and Protection ability that allows her to sense everything with mana in a ten kilometer radius around them and use her own mana to create an incredibly tough barrier within a single kilometer radius around her. She is very excited to have another girl joining Team Predator but is saddened by how Aria treats them. She is taller than Aria and has brown hair with equally brown eyes and is in her mid-thirties in age. Mystic Warden.
+
+Adrian Snow: Part of Team Predator with a Category 5 ability that lets him create blades of ice that are nearly indestructible and grow stronger with each unsuccessful blow against the target. He is a lady-killer who often goes to mixers when given time off. So he is very interested in Aria when she joins Team Predator since she’s a beautiful girl. However, he believes she is too young for him and to be an officer in general and believes that she should retire. He is tall and has white hair and blue eyes and is in his mid-thirties in age. Arctic Edge.
+
+Jason Vargas: Part of Team Predator with a Category 5 ability that lets him read the minds of whoever he touches and dig into their memories. He acts kind and jokes with everyone but when it comes to his job, he is ruthless and follows Striker’s orders to a T. He sees Aria as a weapon to be used, just like himself. So he has nothing against her joining the team and welcomes her. He has gray hair and eyes and is in his late thirties in age. Psionic Inquisitor.
+
+Vorelius Cornelius Caesar: Emperor of the Grand Roan Empire.

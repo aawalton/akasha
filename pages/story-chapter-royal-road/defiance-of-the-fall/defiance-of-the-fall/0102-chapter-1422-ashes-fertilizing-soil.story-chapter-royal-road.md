@@ -1,0 +1,153 @@
+---
+id: 37fbabd2-611d-500b-b767-de0476b8513a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,422 - Ashes Fertilizing Soil"
+slug: 0102-chapter-1422-ashes-fertilizing-soil
+partOf: defiance-of-the-fall
+position: 102
+ownLength: 2858
+unit: words
+publishedAt: 2026-04-14
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3273641/chapter-1422-ashes-fertilizing-soil"
+royalRoadId: "3273641"
+---
+
+Two figures floated in the sky, untouched by the remnant streaks of lightning and unnoticed by both Heavens and man. It wouldn’t matter should their presence be exposed. In this realm, they were the transcendent authority. They were not here to raise their swords against the Heavens, at least not this time.
+
+Their eyes were on the child far below. As naked as the day he was born after the heavenly assault, covered in scorch marks and teetering at the brink of collapse. And still, the fire in his eyes had only grown fiercer. As had the unfathomable fluctuations of the Inverse Mountain.
+
+“Using Void to overcome Extremity Lightning. The boy is adding to his debt,” Wartorius tsked. “Though he does show some mettle.”
+
+“Ashes fertilizing soil,” Roan said.
+
+The casual statement brought a slight change to the mountain’s healing formation, and the nourishing streams of energy acquired deeper meaning. The boy didn’t understand the implication, chalking it up to the quality of the recovery formations.
+
+“Be mindful of the balance,” Wartorius warned.
+
+“The Earth can bear it.”
+
+Wartorius grunted, dissatisfaction evident on his face.
+
+“A modicum of success has left him brazen. Was he shouting at the Imperial Tutor just now? It’s should be no surprise he dared to utter the Emperor’s name. Or can his lack of devotion be traced to his roots?” Wartorius scoffed. “To think we’re supposed to put our faith in one of the Kayar-Elu’s puppeteers.”
+
+“Hope springs from the unlikeliest of sources,” a discarnate voice echoed in the void.
+
+Wartorius glanced to the distance, his vision piercing time and space until reaching the Mercurial Court. Distance was inverted to proximity, and two positions became one. The world split in half, with the cracked mountain peak on one side and a scorched island on the other. The old man floating above the island unseen nodded in greeting.
+
+“Uncertainty is a necessity. We can only maintain the Faith,” Grand Dream said.
+
+“I will not interfere with the overarching arrangements,” Wartorius said. “That said, this is far from enough.”
+
+A gate opened, displaying the world outside. While the tribulation had come and gone inside the isolated space, the standoff between Heavens and Earth continued outside. And yet, the Heavens held its hand, even after the remnant tribulation of the Mercurial Court’s dream was brought over.
+
+“I can force a resolution. It will not achieve our goals, but every little bit borne now will leave the earth better positioned for its true awakening,” Roan offered.
+
+“This is but the hair of an oxen. How am I to ignite the beacon with such lacking kindling?” Wartorius glanced at Grand Dream with annoyance. “Your side was too lax, allowing the boy to refine so much resentment ahead of schedule. What’s left is so weak he managed to seal it away.”
+
+“We can only set the stage. How the game plays out is ultimately in the hands of the children,” Grand Dream smiled. “Truth be told, he surprised me. Cultivating without a spiritual root is a miracle by itself; who could guess he’d display such talent in spirit-refining?”
+
+Wartorius was about to make his leave when the old man suddenly trembled. A ripple of projections surrounded him, like he’d grown a million heads in the blink of an eye. The fluctuations of time and antiquity forced Wartorius to reinforce their surroundings before the River of Time split into countless interpretations.
+
+The frothing river eventually calmed, and Grand Dream returned to normal. “Oh, I see.”
+
+The old dreamer grabbed something out of thin air, allowing the other two to notice the change.
+
+“There’s a shift in the trajectories,” Wartorius said in surprise as he looked down on the child. “The Heavens hate him enough to descend twice? This seems excessive, even for a Void Cultivator. Has the Grand Dao changed so much since our time?”
+
+“The opportunity will arrive in thirty-three days,” Grand Dream said as his half of reality faded.
+
+“A month? It’s manageable,” Wartorius mused. “Are you certain about this?”
+
+“We’re willing to take a chance on him,” the Earth Sage affirmed.
+
+Wartorius nodded in agreement and reached out his hand toward the churning clouds. Causality inverted, with beginnings following the end. The clouds across the Fuxi Plateau went from showing signs of departure to gathering with renewed strength. The loop would continue until it could align with the hidden trajectory they needed.
+
+“Child, don’t let us down. We can only bend the rules so much,” Warorius muttered as a crack opened on his index finger. “Only a true storm can cleanse the slate.”
+
+---------------
+
+Each and every celestial object had been thoroughly melted down to a pure and perfectly malleable state. They’d also taken on more characteristics of the Four Laws, continuing the cosmic alignment started by the Tribulation Throne. Between some pills and the Judgment Plateau’s amazing healing array, Zac only needed a few hours to get back to working condition.
+
+By that point, he would also know if the new type of lightning would be able to escape his Personal Void. While the alabaster lightning was a notch above the black Four Desolates lightning, it was still made of the same stuff. He’d been worried for a moment the Heavens was planning on sending down a tribulation made from Cosmic Destiny.
+
+Zac could only wait and see. Zac felt it should be fine, though his Void Emperor Bloodline had yet to calm down. It remained at a low roar, like a startled beast lashing out at any perceived threat. He couldn’t do much about that, so Zac turned his attention to two particular pieces floating near his Core Nucleus.
+
+The two Shards of Creation were unrecognizable from their previous appearance. They had been melted down to its most essential state just like the pieces of his core. They’d lost much more of their essence compared to the actual pieces of his core. Together, two pieces barely matched the ones floating in his Soul Aperture.
+
+The situation was the same for the two slivers that looked like balls of Void of Death from Zac’s current vantage. What they’d lost in quantity they’d made up for in purity. The specialized formations left by A’Zu and Be’Zi in their compendium had worked wonders. They were ready to be implanted.
+
+The inherited repository had dozens of suggestions on how to utilize the shards, one of which was to simply turn them into Core Formation Materials. Zac had already leaned toward this solution since the beginning, which is why he’d moved four of them to his Quantum Space. Being forced to draw on them to the point of damaging their essence during the trial had only solidified his decision.
+
+The Remnants had already entered a spiral of decline. They couldn’t restore energy nearly as fast as when they were controlled by the ancient existences, and getting damaged only slowed down the process further. Meanwhile, Zac’s needs for Creation- and Oblivion Energy kept increasing.
+
+Zac wanted to integrate them with his Core Nucleus before they collapsed entirely. The amount of energy they’d provide in the beginning would be even lower, but that problem should go away by the time he formed his Inner World. As a bonus, the remnants would help realign his Core Nucleus to better reflect his current path.
+
+Hours passed until Zac was ready to begin his work on the second stage of Core Formation—the ascension where High D-grade pieces of his core were upgraded to Peak D-grade. The feeling was bittersweet since it forced Zac to face one undeniable fact. His ignition may have progressed as well as for a Heaven’s Chosen, with Zac not losing a single piece of his core this time. That didn’t change the fact that he was a mortal. He would still have to introduce external materials to upgrade his core.
+
+In other words, his perfected core would soon be perfect no more. The Cosmic Alignment he’d gained just hours ago would also be diluted since none of the treasures he’d prepared held traces of Law. Furthermore, perfectly incorporating the new materials was simply impossible. [Cosmic Forge] could remove most of the heterodox spirituality, but creating materials perfectly attuned to his path was beyond Zac’s ability.
+
+Zac had planned on advancing [Cosmic Forge] to the next layer—[Essence Union]—during the downtime when he worked on solidifying his foundations. The universe had other plans, leading to his current predicament. He’d tried to make up for lost time with sporadic practice over the past months, and he’d made surprising inroads into the crafting technique.
+
+His quest progress had advanced all the way to 33/34, mostly thanks to the lifetime of crafting insights accumulated while crossing the Peregrine Ocean. Alas, that final step was more difficult the previous ones combined. His previous extractions all had small defects, preventing him from taking the final step. Only with a perfect foundation could two full cycles be extracted.
+
+Zac took a calming breath and cast aside the useless thoughts. Once again, he reminded himself that the pursuit for perfection was an illusion. His situation was already much better than any previous breakthrough.
+
+The cracks covering the mountain peaks were only surface damage and not enough to damage the arrays installed on the mountain. Among them was a treasure-refining array. With the rough environment in the ancient days, infusing some Natural Treasures into one’s core was not too uncommon even among cultivators. From what he’d heard, there were also cultivation methods that required specific materials to be incorporated.
+
+Zac began the same way his cultivation did. He took out a supreme-quality Conflict-attuned treasure and placed it on a refinement array. It was probably the best material he’d prepared for the occasion. Or rather, the best material Kator had prepared for his own cultivation. Zac had found a set of Supreme-quality Core Formation treasures inside the Izh’Rak Reaver’s Spatial Ring.
+
+Of them, Zac could only use two: one Conflict-attuned and one Death-attuned. The latter was saved for a rainy day since Zac couldn’t find a Life-attuned treasure that could balance it out. The former would have to be added to his nucleus to maintain the balance between Life, Death, and Conflict.
+
+Either way, the spoils of war was worthy of being integrated first, and it would set a stable foundation for the following work.
+
+The [Omnitool] appeared in his hand, and Zac deftly began extracting heterogenous spirituality from the piece of metal that was almost shaped like a brain. The moment the treasure showed signs of collapse, Zac placed it on the refinement array. After infusing his Earthly Dao of Defiant War, the mountain peak correlating to the Peak of Conflict connected to the array.
+
+The treasure rapidly melted down to a primal nature, and the array gave a final round of tempering that brought it closer to Zac’s Dao. The process was identical to when he formed his core inside the Perennial Vastness. Some of the designs back then had clearly come from the Limitless Empire, and the familiarity ensured smooth operation.
+
+The infusion of the remnants went smoothly, and by the time he was done, the refinement of the Conflict-attuned metal was complete. Adding it immediately stopped the signs of instability. The three materials wouldn’t be fully fused with the nucleus until the third step of the breakthrough. For now, it was sturdy enough to act as a base for the rest of his work.
+
+The following days passed in a blur as one treasure after another was refined to its limits before being fused with the shimmering stars inside the Quantum Space. The expanded pieces became nigh-bottomless receptacles for the steady stream of pure energy provided by the Cosmos.
+
+By the sixteenth day, the last treasure was integrated. Every single piece had seen an infusion, elevating them to a transitionary state between Late and Peak. The parts were made of a singular Dao, and they could only show their true potential when combined according to Zac’s trinity path.
+
+Zac carefully scanned the asteroid belts swirling inside his core over and over, finding nothing out of place. While his core no longer deserved epithets such as ‘perfection,’ he’d performed at the limit of his ability. He’d made no major mistakes, and there’d been no external factors causing trouble. One might even say things were going too well.
+
+Ogras would have accused him of being so addicted to chaos that he was looking for problems if he heard the sentiment. There could very well be some truth to the statement, but there was clearly something odd going on. Rather than destabilizing, it almost looked like the temporary realm inside the Quantum Space was growing stronger.
+
+There should have been signs of weakness long ago. From there, the spatial turbulence would grow with intensity, causing great energy storms inside the temporary realm. As before, his formation would become a race against time, where he struggled to finish his work before it was too late.
+
+The plateau’s space-stabilizing array stood at the ready, as did the talismans he’d prepared for the occasion. Zac had even plotted out various shortcuts that would speed up his progress at minimal cost to his core’s quality. None of that proved necessary as Zac fused the myriad core pieces into complete sections.
+
+There was no point in figuring out the situation by himself. He called Esmeralda over to take a gander.
+
+“It’s certainly odd. The subspace during Peak Hegemony is the most stable, but this does seem excessive,” Esmeralda muttered. “The odd thing is that there’s actually signs of spatial decay.”
+
+“There are?”
+
+“Something is keeping it in check, refreshing the space just before it can start to break down,” Esmeralda glanced at a broken spire. “It’s not the arrays that’s on the fritz, right?”
+
+“I don’t think so,” Zac said.
+
+“I’ll think of solutions,” Esmeralda promised.
+
+Ogras failed to bring any better news the next day. His gravedigging master had up and disappeared, and he couldn’t find any answers in the library. Zac could only pray he was making a mountain out of a molehill and focus on rebuilding his core. It wasn’t as easy as one may have expected.
+
+The parts Zac had to work with were vastly superior to his previous breakthroughs, who’d been  marred by disasters and damaged matter. On the other hand, the pieces were crammed full of vastly superior energies than before. Even the smallest of issues could cause disastrous chain reactions.
+
+Another two weeks passed this way as Zac carefully pieced everything back together. Zac slowly exhaled as began integrating the final set of upgraded pieces that would become the outermost shell of his core. He could have reached this step a week earlier, but he’d intentionally maintained a slow-going pace.
+
+For one, Zac didn’t want to trip on the finish line. More importantly, he was still waiting for the subrealm to show signs of instability. Having reached this point, he’d officially run out of time. The radiant light coming from his Cosmic Core was starting to fade. His core would soon exit its malleable state, where further work would prove impossible. Zac could rekindle the core and buy another day with the help of treasures, but he’d rather avoid it if he could.
+
+The ominous feeling had only grown stronger over the weeks. Zac feared the source was the tribulation he’d consumed. While it never managed to escape, [Void Heart] had entered an almost comatose state. Meanwhile, his bloodline was still agitated to this day. It was like the Four Desolates were lurking in the shadows, ready to pounce at a critical moment.
+
+Right or wrong, something needed to be done. Zac watched his finished core with a sinking feeling. Only the last step remained, where he used the collapsing subrealm’s spatial pressure to pressurize his Cosmic Core. It was a necessary step to properly fuse the assembled pieces while compressing the core to a size that could fit. His assembly had gone much better than previous time, but the glowing core still needed to be compressed to a third of its current size.
+
+The third step was supposed to be the easiest, yet it stumped Zac before he could began. With a rock-solid space that didn’t so much as fluctuate when he pressured it, how was he supposed to finish the job? The arrays installed on the Judgment Plateau could only help stabilize the collapse while adding some outside pressure. By itself, it wasn’t nearly enough to deal with a core.
+
+The same was true for the backup treasures and talismans Zac had prepared. It may have worked if he were a normal mortal, but his foundations were simply terrifying. The force required, especially when stepping into Peak D-grade, was extraordinary.
+
+Was there no choice but to return to that well once more? The one filled with explosions and self-mutilating explosions. The trick was picking a set of explosives that could destabilize the subspace without damaging his vulnerable core. However, there was a change just as Zac was about to discuss options with Esmeralda.
+
+“No!”
+
+Zac’s roar fell on deaf ears as the Duplicity Core’s latch slammed shut.

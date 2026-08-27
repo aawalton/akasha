@@ -1,0 +1,79 @@
+---
+id: f686ab68-40be-5474-93d3-b1623a461626
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5 - Stranded"
+slug: 0006-chapter-5-stranded
+partOf: defiance-of-the-fall
+position: 6
+ownLength: 1269
+unit: words
+publishedAt: 2019-05-05
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/359143/chapter-5-stranded"
+royalRoadId: "359143"
+---
+
+Driven by a newfound sense of purpose, Zac immediately started packing a backpack with food that wouldn’t spoil easily and some other necessities, and then immediately made a beeline for the SUV. If a slow shuffle where every step felt like walking on fire could be called a beeline.
+
+He opened the door, relieved that no one had been paranoid enough to lock the car in the middle of nowhere. The electric keys were lying on the driver’s seat. With no time to spare, he placed the backpack on the front passenger seat and pressed the button to start the car. A spectacular absence of sound greeted him. The car had no reaction, even after pressing the key increasingly hard accompanied by angry swearing. The focused power of his will had no impact either, the dashboard unlit, and the motor didn’t give so much as a whimper in response.
+
+So the car was broken as well. Or not broken, rather out of battery, he surmised after noticing a black smartphone plugged into the outlet in the car. The car had been on when the world turned to shit, and by now the battery had died. Freaking Tyler.
+
+It was a weird feeling walking back to the camper with his backpack. He felt somehow robbed of his momentum. If the car battery was broken, he was pretty much stuck in the middle of nowhere, at least for now. Either he had to somehow fix the car with his nonexistent knowledge of cars, or he had to get back to the nearest town by foot, which was about eighty kilometers away.
+
+Eighty kilometers would take the better part of a day when conditions were good, but with hurt legs and monsters likely lurking in the woods, it was suicide. There was no way he would try that in his current condition. His only option was to wait where he was in order to heal up, and maybe someone would even come and rescue him. Like the military or the police.
+
+To be honest, he didn’t hold high hopes of a rescue. First of all, no one really knew he was here, and even if someone did, he was afraid that these changes would have disrupted law and order to the point they couldn’t be bothered about a single straggler stuck deep in a demon forest.
+
+He would have to save himself, and for that he needed to recover and figure out a way to get back to civilization.
+
+“If this stupid system could help out a little and tell me what to do, that would be great,” Zac mumbled, lost as what to do from now.
+
+Active Quests:
+
+Dynamic Quests:
+
+A screen flashed in his view just like when he had been transported to the blackness earlier. Zac froze for a second before even registering what was happening. So there was more to this system and multiverse, as he’d suspected.
+
+The screen slowly hovered in front of him and even moved with him when he turned his head and looked around.
+
+It seemed the system could give out quests that would grant different advantages and power-ups. What Zac first took note of was that there were two types of quests, active quests and dynamic quests. From looking at the contents, it seemed that active quests were normal quests that you either automatically got or got from quest givers or something.
+
+Wait, would NPCs spawn around the world, with yellow exclamation points above their heads, giving out quests? Zac’s gut feeling said no.
+
+The other type of quest was dynamic quests. All the quests were related to the demons and the red pillar. By now he was pretty certain the red pillar in the distance was, in fact, the incursion mentioned by the system.
+
+He also noticed that there was a rarity or difficulty in front of each quest. He currently had two types, normal and unique. Normal was pretty straightforward and seemed like normal grinding quests in video games, “kill x number of y…” or “collect ten ores,” which would reward some experience and gold.
+
+In this case, there was no gold, but the unique quests did reward him with something called Nexus Crystals, which might be a currency. The other rewards were a bit more unclear.
+
+The Class System he could somewhat guess what it would mean. He would probably get to choose warrior, magician (if magic was now real, which actually felt like a very real possibility) or something, and get buffs pertinent to that class.
+
+The demon-slaying quest’s reward was also somewhat straightforward, although +3% stats did not seem very strong. However, it was better than nothing, and anything that would help him deal with these weird monsters that had popped up was more than welcome.
+
+The last rewards he had no idea what they meant. Upgrade outpost to town? What outpost? And why would he want a town in the middle of nowhere surrounded by monsters? As that quest somehow seemed the hardest to complete, he felt there was something more to it, but couldn’t figure out what. As for the benefits of being a lord of Monstertown or a unique building, he did not have the slightest idea.
+
+“Why is there no explanation of things?” Zac grumbled. “There should be a tutorial or something.”
+
+[User does not qualify for teleportation to tutorial protocol. Please explore the system of the multiverse yourself,] a robotic voice echoed in his head.
+
+“WHAT?” Zac shouted. “Why can’t I get the tutorial? Teleport me right now!”
+
+[By accepting Protocol SL-34572, user gained a personalized initiation protocol, a lottery opportunity.]
+
+“OPPORTUNITY? PLAYING A RIGGED GAME IS AN OPPORTUNITY?!” Zac screamed, forgetting he was surrounded by who knows how many beasts. This shitty system actually did not only almost get him killed, but it also skipped a teleportation to a safe zone, which sounded a lot better than a demon-infested forest.
+
+[Affirmative. Please explore the system of the multiverse yourself,] the voice dully responded and once again went quiet.
+
+Zac fumed but realized he would get no more help from the cosmic douchebag robot. With a few deep breaths, he once again calmed down and realized the implication of what the voice said.
+
+He himself had missed the opportunity to get to the safe zone, but what about others? Unless it was voluntary, then almost everyone should have been teleported to wherever those safe zones were, barring any extremely unlucky instances like his.
+
+[Protocol SL-34572 is a unique opportunity. Congratulations, user,] the system responded as if reading his mind.
+
+“Well, fuck you too.”
+
+Once again calming down, he thought of his fellow campers. Hannah and the others might actually still be safe, teleported away somewhere before this forest turned insane. That would explain the lack of blood and mangled body parts at the campsite.
+
+It also meant that his family hopefully still was alive. While not optimal, a safe zone sounded pretty swell compared to his surroundings. He was still worried, though, and wanted to get to them as soon as possible. Both his father and little sister were out there somewhere, and he was afraid the apocalyptic events would lower the inhibitions of less scrupulous people. While his sister was an avid martial arts practitioner, he wasn’t confident that would hold up against perverts with guns and other weapons.
+
+Refocusing his thoughts, he realized something he had just glossed over from the quests. The normal quest had a progression of (16/25). Did this mean that there was actually such a thing as levels, and he was level 16? What did that mean?

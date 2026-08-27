@@ -1,0 +1,165 @@
+---
+id: bb0e8be0-23d6-5703-9d7c-ba04925889e1
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 42"
+slug: 0272-b4-chapter-42
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 272
+ownLength: 1428
+unit: words
+ownProgress: 1428
+publishedAt: 2025-04-22
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2222807/b4-chapter-42"
+royalRoadId: "2222807"
+markedReadAt: "2026-06-29T19:15:00.075Z"
+---
+
+Aria
+
+The weeks fly by rather quickly as I read, and soon enough I find myself staring out of the ship’s bridge at the home world of the lyons.
+
+And what a world it is.
+
+The world is enormous. To the point that it’s larger than a lot of Alpha Tier worlds. Not to mention that it has multiple rather obvious Hunter’s Spots scattered across the planet, each of which are in the form of massive holes in the ground.
+
+Holes filled with worms.
+
+Enormous worms.
+
+I feel the corner of my lips drawing downwards a bit at the sight of the enormous worms burrowing into and out of the ground around the holes and inside of them. But my attention quickly turns towards the other creatures on the planet. Of which there are many.
+
+There are regular animals, sure. But what catches my attention the most are the werewolves.
+
+And they really do look just like werewolves from fiction. Humanoid hybrids between humans and wolves.
+
+Although… some of them look… I’m not really sure how to put it.
+
+Cleaner? Maybe?
+
+More well-formed?
+
+Amongst the werewolves, some look kind of malformed and crippled or even disfigured. With some of them being hunchbacks, missing arms or legs, and so on. Even if it only makes up around twenty or so percent of them.
+
+Then there is another forty or fifty percent of them that look like regular werewolves. Followed by the remainder of the ones I can see from here through my level-enhanced vision that look larger than a normal human by quite a bit. Not to mention stronger than the others.
+
+I can’t see any of that tiny 0.01% that I heard about that could maintain their sapience though.
+
+Whether that’s because they’re hiding or because they’re all dead, I have no way to tell from up here.
+
+Regardless, it’s not my responsibility to do a rescue operation even if there are survivors hiding out down there.
+
+So I simply get in my shuttle and head down to the surface. Not bothering with jumping out this time because I don’t really want to attract a large number of those werewolves to me while I deal with adapting to the virus.
+
+And more importantly, I don’t want to accidentally destroy their castle and the artifact if I land on the wrong spot.
+
+Because that could be awkward.
+
+It doesn’t take long for the shuttle to reach the ground. And before I even open the door to the shuttle, I hear scratching and banging from the outside. No doubt from the nearby werewolves who spotted me and came to investigate.
+
+So what do I do?
+
+I open the hatch, letting them inside.
+
+Then I close it again and just sit here in the ship waiting for the werewolves to infect me.
+
+Better to adapt to it sooner rather than later after all. And doing it now will make it less annoying to move around out there.
+
+All five of the werewolves who got inside rush straight towards me and begin tearing me up with their claws and chomping on me with their fangs. But I just keep a blank face as I yawn through it, ignoring the pain and the black color beginning to spread through my veins.
+
+Although when the black color spreads all the way through my body, I find myself feeling rather surprised. Simply because it hasn’t reverted yet.
+
+And at this point, I feel the pain increasing in intensity as my bones begin to crack and shift. Only for them to return to their original form just as quickly thanks to my healing.
+
+Then my crimson death energy begins to shimmer across my body around all of my veins as the black coloring in my veins starts to recede.
+
+Hmm. Definitely a virus made by Pestilence.
+
+Normally diseases and poisons are reversed not too long after I get them. Even for brand new poisons and diseases that I’ve never experienced before.
+
+But this one is taking a while.
+
+It doesn’t help though that these werewolves are gnawing on me like a chew toy while also scratching me like a cat using a scratching post.
+
+None of which is particularly pleasant, but I don’t really care.
+
+Instead I just read my book as I wait.
+
+Until one of the werewolves tries to damage my e-book reader and irritates me. At which point I whack it in the head with the back of my hand.
+
+Breaking my hand in the process.
+
+Ouch.
+
+Not really, but the point stands.
+
+Just how strong are these…
+
+My mind comes to a brief halt when I finally bother to pay attention to the fact that they don’t have any numbers above their heads. A fact that I didn’t think much about at first until now, as I remember that these are technically former people. Former users of the System.
+
+So they do have a number, I just can’t see their numbers.
+
+Huh.
+
+Guess I’m stuck here. Doesn’t look like there’s much I can do to these things even if I tried.
+
+Well, until I bring out the nuke and self-destruct feature of this shuttle.
+
+I have more shuttles, so it’s fine.
+
+For now I just let these werewolves gnaw and claw at me for several days while reading my book. All the way until the virus completely stops doing anything to me at all. When it starts reverting and vanishing the moment it even enters my body.
+
+Then I go ahead and pull out a couple nukes and activate both of them at the same time as I activate the self-destruct feature on my ship. Making everything blow the hell up. Giving me quite the number of kills in the process, considering the werewolves who had gathered outside of the ship and were banging on it over the course of the days.
+
+Fortunately for me, it manages to kill all of the werewolves. And destroy everything within a few thousand kilometers around me. But that’s fine.
+
+Hopefully.
+
+I frown.
+
+Please tell me I didn’t blow up their capital…
+
+Because that would be a pain.
+
+I look around, only to find their capital located several mountains away from here. Judging by the appearance Leone gave me of it, at least.
+
+It’s probably the capital.
+
+I don’t think I saw any other mountain that large on the planet when moving around it after all.
+
+Hmm. Well, guess I can go ahead and explore a bit since I know what the capital looks like.
+
+Mostly because I don’t want to deal with getting caught by a mob of werewolves in said capital. What with me not being able to blow it up.
+
+Such a pity.
+
+No one should ever ban blowing things up.
+
+Blowing things up is a sacred right.
+
+I blink at that before pursing my lips as I remember something about a couple factions of cults in the Rex Dynasty beginning to actually make blowing things up some sacred ritual.
+
+Right. That has nothing to do with me.
+
+With a firm nod of my head at that thought, I begin to walk out of the rather barren wasteland I have made of this random forest in the opposite direction of the capital. All while browsing on that device Shirogane gave me to purchase stuff and have it teleported here for me. To where the device is.
+
+Because I’m going to need some smaller yet still powerful explosives. Or just some things to stop these damned werewolves from metaphorically and literally dogpiling me.
+
+Otherwise I’ll be stuck here forever trying not to damage their precious capital.
+
+I let out a sigh as I walk, wondering why damage control is my number one greatest difficulty with this job.
+
+Such a pain.
+
+Anyways, I continue walking for a while until I reach the ends of the wasteland I made. At which point I finally find a lovely device through the device that I purchase. One that cloaks me and covers me in some sort of film that makes it impossible to get a grip on me.
+
+So it should be harder for the werewolves to spot me, and harder for them to get a hold of and pin me down.
+
+And it has bonus points for both of the devices being easy to put on and wear.
+
+The film pretty much latches on like a second skin, and the device is a bracelet with a button.
+
+Easy peasy.
+
+Now to go test this stuff out.
+
+And take a look around the planet while I’m at it.

@@ -1,0 +1,253 @@
+---
+id: dabd7425-2194-5a5b-8c7e-d427c5af478c
+page-type-slug: story-chapter-royal-road
+title: "057: Restored"
+slug: 0057-057-restored
+partOf: delve
+position: 57
+ownLength: 4578
+unit: words
+publishedAt: 2019-10-30
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/418175/057-restored"
+royalRoadId: "418175"
+---
+
+Gus yawned and stretched, rubbing his neck in a futile effort to work out the kink that had been forming since early that morning. It was a slow day. Though the city was packed with people, the Guild itself was almost deserted. Lots of people in the city meant lots of work for adventurers, whether it was guarding, fetching, delivering, or something else. For Gus, it meant busy mornings, busy nights, and dead afternoons while everyone was out working in the city.
+
+He sighed and turned the page in the ledger that he was slaving over. Rankin had asked him to check the accounts for the past month, taking advantage of the relative lull in quest seekers. That meant lots of cross-checking to make sure all of the quests that had been brokered through the Guild had been completed, paid out, and properly reported to the main branch. It was drudgery, pure and simple. Most of the time, Gus was annoyed if a line started forming in front of his desk, but right now, he would have been overjoyed to have a customer.
+
+He sat back from the ledger and sighed, rubbing at his eyes. Rankin had left for lunch, leaving him to manage the guildhall on his own. Even though Halgrave was actually in his office today, Gus was technically in charge until Rankin got back. It wasn’t like the goldplate was likely to come out and man the desk in his stead.
+
+Gus looked around the room. There were a few people staring at the board, and a few more seated on benches near the heater plates, chatting idly. Nobody new, and nobody likely to need anything in the near future. I wonder if anyone will notice if I slip off to the tavern for a drink?
+
+He sighed again. It wasn’t worth the risk. He was already on Rankin’s shit list for forgetting to get the heater plates recharged. It was snowing today, and only one of the plates had enough mana left in its enchantment to actually function. That had left the guildhall uncomfortably chilly. The tavern was heated by a roaring fire, as any self-respecting tavern should be, but the other rooms relied on the enchanted metal plates for heat during the winter months. There was no fireplace out here, so short of building a bonfire in the middle of the floor, there wasn’t much he could do about it other than to hope someone would accept the quest he’d posted.
+
+I wonder if I should increase the reward? He sighed again. No, I can’t do that. Rankin would be mad if I wasted the Guild’s maintenance budget to fix my own mistake. I should have posted the damn quest a month ago. Someone with too much mana and not enough money will come along eventually.
+
+Gus shivered. It felt like it was getting colder. He looked at the sole functioning heater plate unhappily. If it failed, he’d have no choice but to up the reward. Damn it. Halgrave should take care of stuff like this. I know he’s not a mage, but I bet he could sort this out himself without breaking a sweat. Damn high-level bastard. I bet he doesn’t even feel the cold.
+
+He rubbed his hands together. The plate had to be failing. It was definitely colder in here. It felt like there was a cold snap coming on. He added installing the heavy winter shutters to his list of maintenance tasks. Closing the summer shutters helped, but they were designed to block the sun, not the wind. Suddenly, there was a blast of cold air as someone opened the front door of the guildhall, sending flurries of snow swirling into the room.
+
+“Shut the damn door!” someone shouted. Gus looked over, then raised an eyebrow.
+
+Who’s that?
+
+The newcomer was wearing slate-gray platemail of an unusual design. There were no gaps between the plates that Gus could see. At the joints, smaller plates were tucked underneath the larger pieces of the armor, sliding past each other smoothly as the man moved. At least, Gus assumed it was a man. The figure was wearing a full helmet with a visor that concealed the face completely. There was only a narrow slit for vision, too small for Gus to even make out the eyes of the wearer. Other than the joints and the uniformity of the craftsmanship, the armor was unremarkable, simple and without frivolous ornamentation.
+
+Gus watched as the man surveyed the room. He could feel the eyes behind the visor lock on to him. The armored figure started heading his way. He must be from another city. I’d have remembered someone with armor like that. I don’t see his guildplate…I’ll have to assume he’s at least silver. No bronzeplate could afford that kind of gear.
+
+He hurriedly closed the ledger that he had been working on and shoved it into a drawer. This was Someone Important. He knew just how to deal with Someone Important. He stood up off his stool and straightened his uniform as best he could, trying to look professional. Damn jacket is too tight. I need to cut back on the pie.
+
+The armored warrior came to a stop before his desk. Gus inclined his head respectfully. “Welcome to the Adventurers’ Guild. How may I help you today?” he said in his best servile tone. He straightened, trying to peer through the slit of the man’s visor without seeming to. It was no good; the darkness inside the helmet was absolute. I wonder if that armor’s enchanted? It must be.
+
+“Hi Gus.”
+
+Gus blinked. That voice sounds familiar…
+
+The feeling of deep winter abruptly vanished as the armored man reached up and placed his hands on the sides of his helmet. He twisted it sharply and there was a small click as some hidden mechanism or latch was released. He lifted the helmet slowly, sliding it up over his head to reveal a stubbled jaw and clear, lightly tanned skin. The helmet came away, exposing an unruly mop of brown hair that curled slightly, hanging nearly to the man’s eyebrows. A gauntleted hand brushed it back absently as the man grinned at him.
+
+“Say, do you happen to know where I can get a haircut?”
+
+Gus took a step back in shock, stumbling as he tripped over the leg of his stool. “Gah!” he gasped, managing to catch himself before he toppled over. “Rain. I thought you were dead.”
+
+Rain laughed. “Nope. I’m alive and well. A little tired, maybe. Kinda hungry.”
+
+“I don’t…how did you?…When did you learn to…? Where did you get?…What the depths?”
+
+Rain laughed again. “It’s good to see you too, Gus.”
+
+Gus just stared at him. How?
+
+Rain was smiling that innocent smile of his as Gus struggled to process what was happening. Halgrave kicked him out for being an idiot, what, last month? No, it couldn’t have been that long… How did he learn to talk properly? And what’s with that armor? Have I lost it?
+
+“You gonna need a minute?”
+
+Rain’s words brought him back to reality. He shook his head, looking around the guildhall. The interested faces of the other occupants stared back at him. His face paled. “Rain, you can’t be here. Halgrave—”
+
+Rain held up a hand to stop him. “I know. Relax, I’m here to pay my fine. Where can I find him? Or can I just settle up with you?”
+
+Gus blinked again. And he’s got 500 Tel? Who the fuck did he fall in with? Some noble? He cleared his throat. “Uh…”
+
+“Gus, come on. It’s really me. I swear. Look, I’m not mad at you or anything, but I really do need to talk to Halgrave.”
+
+“…Right. He’s, uh, in his office. Wait here. I’ll go… Just wait, okay? Don’t do anything stupid.”
+
+Rain laughed. “Ha. I suppose I deserve that warning. Fine, I’ll be right here,” he said, pointing to his armored boots.
+
+Rain looked around the guildhall as Gus scuttled out of the room. He shook his head. The portly man was just as he remembered. He had to admit that he’d gotten quite a bit of amusement out of Gus’s reaction to his sudden appearance. He eyed his helmet sitting on the counter. I really have changed quite a bit since then…
+
+He surveyed the room. People were staring. He resisted the urge to slip his helmet back on. As comforting as it was to hide within his metal shell, he needed to be seen for this next part. He shivered, partly from the cold, and partly from nerves.
+
+This is going to be rough. I need to make a good impression. Well, fix his impression of me, that is. I wish I knew more about him. What did Ameliah say? Loves the spirit of the Guild? Whatever that means, it’s not a lot to go on.
+
+Rain stopped himself from using Immolate to warm up the guildhall. He’d told Gus he’d be good, and accidentally burning down the building seemed counter to that promise. His eyes lingered on the strange plates of metal hanging on the wall. There were three of them, each about a meter square and made of some reddish metal. Those are new.
+
+The leftmost plate glowed softly with orange light, given off by unfamiliar runes scrawled across its surface. The other two were dark. Must be some kind of heat enchantment. Is that Fire Steel? Fire Copper? I need to figure out how enchanting works. Add that one to the list for things to ask Staavo. I don’t want to bother Tallheart. He’s got enough on his mind.
+
+He sighed and shook his head. We’re going to have to do something about that. He said he wasn’t going to run, so… I suppose a little research about the nobility is in order. He absently started tapping his helmet with a gauntleted finger.
+
+“He’ll see you.”
+
+Rain looked up to see the anxious face of Gus peering at him from one of the hallways. He motioned for him to follow, so Rain picked up his helmet and walked over, tucking it under his arm.
+
+Gus led him to a thick door that he’d never seen opened before. He turned to Rain, regarding him in the steady candlelight of the corridor. “Rain, don’t say anything…stupid. Halgrave is…well, you found out what he’s like.”
+
+Rain nodded. “I’ve got it, Gus, don’t worry. I’ve given this meeting some thought. I’ll be polite.”
+
+Gus nodded. “Don’t tell him about…well. Please don’t say anything about me. At all.”
+
+Rain smiled. “Don’t worry, Gus. I’m not going to throw you under the bus. Sorry, carriage. Relax, it’ll be fine.” I hope.
+
+Gus sighed, then knocked on the door.
+
+“Come,” said a deep voice from the other side. Gus pushed the door open, then motioned to Rain, stepping out of the way. He closed the door behind him, leaving Rain alone with the big blue bastard himself.
+
+Halgrave was wearing the same blue-enameled plate armor that he had been before. His armor was similar to Carten’s in design, though the plates were even thicker, possibly more than 10 centimeters in places. The symbol of the Guild was embossed in gold in the center of his breastplate, and the armor shone as if it had never seen combat. Halgrave ignored him, continuing to write on a piece of paper as Rain waited in awkward silence.
+
+He fought down his nerves. The man was massive, even without the armor. Just being in the same room with him was intimidating. His rugged and scarred face and military haircut were at odds with the showpiece that was his armor. He’d clearly seen his fair share of battle, even if his armor had not. That, or whatever it’s made of is so insanely durable that it’s nigh-indestructible.
+
+Rain looked around the room while he waited. Halgrave’s office was spartan; other than the desk the huge man was seated behind, the only other furniture was a pair of uncomfortable-looking wooden chairs. The walls were bare. Halgrave clearly didn’t spend much time in here. The only other things of note in the room were Halgrave’s helmet and gauntlets, which had been placed on a sturdy shelf behind him. They were in proportion to the rest of his armor, explaining the rugged construction of the shelf. I wonder what the chair he’s sitting on is made of.
+
+“So. Why are you here?” Halgrave said, without looking up.
+
+Rain licked his lips. Here goes. Time to suck up my pride and just deal with this like a functioning adult.
+
+He reached to his waist where he’d tied a small pouch holding his money. His armor was amazing, but one thing that it lacked was pockets. For now, he’d decided to leave his pack with Jamus while he took care of his business in the Guild. His modified backpack was a hodgepodge of leather and uncured hide. He didn’t want to have it with him for this. He needed to make a good impression, and hobo-chic wasn’t it. Rain cleared his throat as he worked to untie the pouch. “I’ve come to pay my fine.”
+
+“So Gus said. Let’s have it then.” Halgrave sighed. He put down his pencil and looked up at Rain. If he was surprised at all by the armor, his face didn’t show it. Rain stepped forward and placed the pouch on his desk.
+
+“It’s all there. You can count it if you’d like. 500 Tel.”
+
+Halgrave looked down at the pouch but didn’t take it. He motioned to one of the chairs. “Sit.”
+
+Rain sat. The chair was sturdier than it looked. It didn’t even creak as he sat down, despite the weight of his armor. He set his helmet to the side of the desk, careful not to scuff the finish. Is this mahogany?
+
+Halgrave steepled his hands as he stared at Rain. “Well?” he asked, arching an eyebrow.
+
+Rain was ready for this. He knew what Halgrave wanted. “I’m sorry,” he said, trying to sound as sincere as possible. “I apologize for causing trouble for you, and for the Guild.” Though I didn’t know any better at the time, and nobody told me anything, and I could barely speak…
+
+Halgrave frowned. “You do not mean that. You are just telling me what I want to hear.”
+
+Shit. “No. Well, yes and no. I am sorry, believe it or not, but, well…”
+
+Halgrave just stared at him.
+
+“I had a reason for doing what I did, and I didn’t think it would cause such a big problem. I thought the Watch wouldn’t mind, as long as the magic I was using wasn’t harmful. I’d heard they were touchy, but…” Rain trailed off. Halgrave was still staring at him, his stern expression unchanged. Rain sighed. “Sorry, I’m just making excuses. I’m not trying to justify my actions. I’m here to pay the fine, as I said, and to ask for your forgiveness. I was wrong. I won’t do it again.”
+
+Halgrave sighed and dropped his hands. “May I?” he asked, indicating Rain’s helmet. Rain nodded. Halgrave picked it up and turned it over, inspecting it. He peered at the hinge connecting the visor to the helmet, then set it back on the desk without comment. He looked at Rain, his blue eyes unsettling in their intensity. “Do you know what the Guild is?”
+
+“I…what?” Rain said, taken off guard by the unexpected question.
+
+“The Guild. What is its purpose?”
+
+Rain thought for a few moments before responding. “I suppose it’s to help connect adventurers to people who need things done.”
+
+Halgrave made an unimpressed noise. “Not the worst answer I’ve heard, but no. It is more than that. The Guild is freedom. It is the freedom to make your own way, free from outside…entanglements.”
+
+Rain nodded, waiting for the huge man to continue.
+
+“The Guild is more than just a convenient place to meet up and accept quests. People come to the Guild with their problems because they know that the Guild is reliable. It has a reputation. It is my job, unfortunately, to protect that reputation. I can’t have adventurers running around the city causing problems. We don’t exactly get along with the Watch at the best of times. What you did…put me in a difficult situation.”
+
+Rain nodded again. Yeah, guess I can see that.
+
+Halgrave sighed. “The Watch allows the Guild to operate in Fel Sadanis only because we provide a valuable service. We deal with the tasks that they deem too trivial to bother with, or too difficult. In exchange, they grant us certain liberties that we might not otherwise enjoy. We’re allowed to use magic in the city, provided that we do not endanger the populace, and that such magic use is in the pursuit of an approved quest. They allow us autonomy within our own guildhall and turn a blind eye to our activities outside of the city. Only the great noble houses enjoy greater privilege within the city walls, and even they are not beyond reproach from their peers.”
+
+Halgrave leaned forward. “When you break the rules for something so…frivolous, you endanger our relationship with the other powers in this city. The Guild is about freedom, yes, but freedom has limits. In Fel Sadanis, those limits are particularly strict. In order to enjoy the benefits of the Guild, you need to Play. By. The. Rules.” With each word, he tapped his finger on his desk, staring at Rain.
+
+Rain nodded. “I understand.”
+
+“Good,” Halgrave said. He stared at Rain in silence for what felt like an hour. Eventually, he spoke again in a much less forceful tone. “I also owe you an apology.”
+
+Rain blinked. I wasn’t expecting that…
+
+“I should not have thrown you from the Guild,” Halgrave continued. “I sometimes forget how…fragile you people can be. In truth, I hate having to enforce the rules. I’d rather be out there, not in here, behind this desk. Sadly, it is necessary.”
+
+He reached for the pouch, weighing it in his hand. He opened it and counted out ten Tel. He placed them in a pile on the desk, then tied the pouch again and opened a drawer. He dropped the bag inside and removed a bronze guildplate fastened to a broken leather cord. He placed it on the desk and slid it across to Rain along with the pile of Tel. “Four hundred and ninety Tel was the remaining balance on your fine. You are hereby fully reinstated into the Guild, pending the next update of the master ledgers in the City of Lights. You may operate in and around Fel Sadanis, effective immediately.” He picked up his pencil and returned to the form that he had been working on when Rain had entered.
+
+Rain picked up his plate, wonderingly. Wow. That went much better than I expected… He stood, collecting his helmet and heading for the door, clearly having been dismissed.
+
+“Rain,” Halgrave said. Rain froze. Halgrave was still writing, not looking at him. “I do not wish to see you in my office again. Consider this your final warning.”
+
+Rain swallowed. “Yes, sir.” He opened the door and stepped out into the hallway, closing it gently behind him. He let out a breath of relief and looked for Gus, spotting the man hovering nearby. Rain smiled and gave him a thumbs-up, which was amazingly a gesture that spanned realities.
+
+Gus rolled his eyes. “I’ll go update the ledger,” he said, walking away. “Whatever you said to him, it must have been the right thing. I was expecting him to throw you through the wall.”
+
+Rain snorted and shook his head. Tell me about it. He smiled to himself. I’m back.
+
+“So, the fact that you’re still alive means that it went well. Congratulations.”
+
+Rain looked up at the sound of Jamus’s voice. He and Carten had entered the tavern and were making their way over to him. They joined him at his table, where he was currently enjoying a long-overdue meal.
+
+“Hey guys,” Rain said, gesturing with the piece of chicken at the end of his fork. “You have to try some of this. It’s amazing! So much flavor!”
+
+Carten laughed. “Sounds good to me. I’m starvin’. Oi! Two more plates of chicken, and some of that beer he’s drinkin’.”
+
+The server was on the other side of the room, but that didn’t stop Carten from just yelling out their order to her. She gave them a long-suffering look. Rain smiled at her apologetically. She must be used to it. Working in an adventurer’s tavern has got to be a wild ride. Hey, maybe I should just give up this whole adventurer gig and get a nice stable job bussing tables…
+
+Nah.
+
+Rain took another bite of the chicken and smiled in contentment. He swallowed and looked around before whispering to the others in a quiet voice. “I think the perception boost had something to do with it. It doesn’t really taste better, it just tastes…more.”
+
+“I think you may be right,” Jamus said, breathing in deeply through his nose. “It certainly smells delicious.”
+
+“Did you get everything they needed?” Rain asked.
+
+“Yup,” Carten said. “Food, blankets, general sundries.”
+
+“Good word, Carten,” Jamus said with a smile.
+
+“Thanks, Jamus,” Carten said.
+
+“They should be all set for a few days,” Jamus said. “Ameliah told me she’d stay with Tallheart until she was sure that we haven’t been followed. Stint is laying low with them for the moment. Val, I have no idea. He disappeared the moment we returned from the supply run.”
+
+Rain nodded, then reached for his beer. It was the same dark brew that he remembered, but now he could appreciate it on so many more levels. He wished once more that Khurt was around so he could thank him for gifting this wonderful beverage to humanity. Unfortunately, the man didn’t seem to be working this early in the day. It was only around 2 in the afternoon, and the tavern wasn’t exactly packed.
+
+The server arrived with chicken and beer for the others. While she set them up, Rain reluctantly removed his helmet. He’d been wearing it while he ate, with the faceplate up, of course. I think I’m starting to develop a little bit of a paranoia problem. The others are here now. I need to relax.
+
+He didn’t drop Force Ward, though. He’d kept the skill running ever since he’d taken the helmet off in the quest hall. One of the adventurers in there had had a bow. I don’t think it’s particularly likely for someone to take a potshot at me in the Guild, but now that I’ve got the armor, I’d be an idiot not to wear it. I’m still a glass cannon under all this metal.
+
+He rubbed his bare neck uncomfortably, stopping himself from reaching for the helmet. Nobody was going to attack him in broad daylight in the middle of the Guild. To distract himself, he turned to Jamus, who was cutting up his chicken with a knife.
+
+“Hey, do you happen to have a spare pouch? Halgrave kinda took mine. Also, here’s half of what I owe you.” He pushed across the small pile of Tel that was lying on the table. “Thanks for that, by the way.”
+
+“No problem,” Jamus said. He pushed the Tel back. “Hang on to those until you get back on your feet. I think I have a spare pouch somewhere. I’ll look for it once I’m done eating. You can pay me back later.”
+
+“Thanks, Jamus,” Rain said, corralling a Tel that was rolling toward the edge of the table. “I can’t believe that after all that time in the…” he looked around, “…cave, I ended up 20 Tel short of the 500 I needed. I wasn’t sure Halgrave would remember that I’d already paid some of the fine. I’m glad he did. I certainly wouldn’t have made an issue about it.”
+
+Carten laughed. “Stop gettin’ yerself kicked out of the Guild. Imagine what you couldah done with that much money! I know what I’m gonna do with mine!”
+
+“Don’t talk with your mouth full, Carten,” Jamus said. Carten ignored him, chewing happily.
+
+“So, what now?” Rain said, looking from Carten to Jamus. “What are you two going to do?”
+
+“Well,” Jamus said. “Firstly, I’m going home. I’ve got a nice feather bed waiting for me. After a good night’s sleep, I’ll see if I can track down Staavo. Hopefully, he won’t be up to anything too unusual. I’ll let you know when he’s free to have a nice long chat.”
+
+“Ha,” Carten laughed. “If he was smart, he’d leave the city when he heard Rain had some questions for ‘em.”
+
+Jamus smiled. “You’d be surprised, Carten. It depends on whether he takes an interest. If Staavo decides that Rain’s build is worth studying, it might be Rain who wishes he’d left the city.”
+
+Carten snorted around a mouthful of chicken. “Me, I think I’ll do the same. The bed part, not the bit about talkin’ to a stuffy scholar.”
+
+“You both have houses in the city?” Rain asked.
+
+Jamus nodded. “Yes. I’m not sure where Carten lives, but I’m just a few blocks over from the Guild. You’re welcome to stay the night if you want. I’ve got a spare bed. Of course, if you want to get a good quest in the morning, staying in the bunkroom is probably your best bet.”
+
+“Thanks, Jamus, but I’m good,” Rain said. “I was planning on staying with Tallheart, actually.”
+
+Jamus shrugged. “Your loss. I can promise you that my house is a lot warmer than Tallheart’s...cabin?”
+
+Rain laughed. “Hey, I helped build that. Watch what you say.”
+
+“It’s only the truth.” Jamus grinned at him, then took a swig of his beer. “Wow, that is good.” He set the mug down and looked back at Rain. “So, what will you do for the rest of the day?”
+
+“Well, I think I need to do something about my storage situation. The backpack really isn’t doing it for me.” He nudged at the pack under the table. Jamus had brought it with him and dumped it there when he’d sat down. “I need to get some of those belt pouches that Tallheart uses. Maybe a bandoleer. Hey, have you ever heard of a bag of holding?”
+
+“All bags are bags of holding,” Carten said. “That’s what bags do.”
+
+Rain laughed. “Fair enough, Carten. No, it’s the name of a magic item from Dungeons and Dragons. It’s bigger on the inside than it is on the outside.”
+
+“Hmm,” Jamus said. “I’ve never heard of anything like that. Sounds bloody useful. I won’t say they don’t exist—anything is possible—but I think I’d know if they did. You should get a cloak. There’s no better multi-function adventurer garment. Protects you from the rain, doubles as a blanket, and most importantly, has plenty of space to sew pockets on the inside. I feel like a squirrel, some days, with everything I’ve got tucked into this robe.”
+
+Rain nodded. “Yeah. It’s already on the list. So basically, I’m going shopping. I might see if there is a quest or two available first.”
+
+“Cheers,” Jamus said, raising his mug. Rain and Carten followed suit, saluting the end of one adventure and the start of the next.

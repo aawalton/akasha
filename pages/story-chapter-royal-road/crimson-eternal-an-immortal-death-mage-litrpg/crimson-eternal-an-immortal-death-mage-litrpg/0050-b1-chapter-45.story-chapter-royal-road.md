@@ -1,0 +1,127 @@
+---
+id: 0269fb1b-edd1-555e-93bf-8f1984783479
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 45"
+slug: 0050-b1-chapter-45
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 50
+ownLength: 1607
+unit: words
+ownProgress: 1607
+publishedAt: 2024-01-22
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1490676/b1-chapter-45"
+royalRoadId: "1490676"
+markedReadAt: "2026-06-29T19:07:35.369Z"
+---
+
+Aria
+
+The next few days pass by quietly as we make our way into and through Arteria, taking a ride on a jeep through the sands of the Arterian Desert on the way to the capital. And no one has really said much of anything during this entire trip.
+
+If I had to guess, everyone’s too busy thinking about whatever the general bribed them with to talk.
+
+Then again, I’m not much different.
+
+If I had to guess, the First General probably assumes the emperor is going to be revived after she gives him to me to kill. Which isn’t going to happen.
+
+A fact that’s gonna raise more than a few problems for me in the Republic afterwards. Since she’s going to realize that I was the one behind the permanent death of the prince when she learns of the emperor’s permanent death.
+
+So I’m going to be leaving the Republic after the emperor is dead.
+
+The only reason I’ve been staying up till now anyways has been to get my revenge, and maybe to help the Republic out a little bit as well since I know some people I care about in it.
+
+But after I get my revenge, and after we kill the Arterian emperor, there won’t be much reason for me to stay.
+
+I can leave the Republic without any regrets.
+
+It might even be for the best, if I’m being honest with myself. After all, the news will eventually get out, and the emperor of the Grand Roan Empire will learn about how I was the one behind permanently killing his son.
+
+Meaning that my staying in the Republic will only make things harder on them after the restrictions are lifted.
+
+I can fully see the generals planning to trade with the Eternal Dynasty for technology that may help them against the sheer levels that the Grand Roan Empire will be attacking with. Which is the most likely reason that the generals are rushing to end the war as soon as possible.
+
+They’ll get just as much progress for our soldiers’ purposes since we’re still defeating the Empire’s army, but if we also capture their Empire entirely, we’ll get more resources to trade with the Eternal Dynasty. And more resources for that means for a better chance to survive after the restrictions vanish.
+
+And after I kill the emperor himself, more of the problems that the Republic has will fade. Since he won’t be there to muck up the process anymore.
+
+A conclusion that has nothing to do with my absolute hatred of the man.
+
+My thoughts come to a halt when the driver at the front of the jeep says in his light Arterian accent, “We’re almost there. Comin’ up right ahead of us.”
+
+I look through the window between the front and back of the jeep to look past the windshield and the driver at the sight of a city coming up on the horizon. One with sandstone and metal walls, quite a few carts, jeeps, and vehicles held up at the front gate on the same road we’re driving down. Meanwhile several guards check each and every vehicle coming in and out of the city.
+
+And just a glance at these guards and what they’re doing to some of the people shows off one of the biggest reasons we’re at war.
+
+The guards are very clearly using their power to abuse some of the people going into the city, taking a bigger tax from some than from others, and even stealing from some of the people entering the city without even trying to hide it. Then there is one of the guards who is getting handsy with pretty much any good looking girl who passes by his station.
+
+Thankfully his station isn’t the one we’re going through, otherwise I’m not too sure if I’d be able to stop myself from cutting his hand off if he tried it with me.
+
+And these are just the guards. They’re not even nobles.
+
+I’m pretty sure some parts of Arteria practice slavery as well. They even capture some of their own citizens on the accusation of them being Albarians before selling them off for profit.
+
+The First General prepared everything for us though, so we should be good to pass through. Fake identities and everything we need.
+
+And we’re traveling with a longtime partner of the Republic, someone we quickly got back into touch with through that pesky barrier after the Two Star Merchant told us how.
+
+We see just how influential this partner is when the guards simply let us all through without so much as asking a single question.
+
+As we pass though, I can’t help but notice a tiny purple barrier appearing near that perverted guard’s leg, quickly knocking it out from under him when he’s about to reach for another girl. So he ends up falling flat on his face, letting the girl pass by without an issue as he had already okayed her to go.
+
+I glance at Harvey, just to see her shrug when she notices me.
+
+Not bad.
+
+Our group continues on into the city while leaving the guard, who is currently a laughingstock for the other guards, behind. And the city itself is enormous. Much larger than the cities in Albaria, with larger walls, a lot more people, and a lot more sand and metal.
+
+One of the biggest differences between Albaria and Arteria is the level of technology, amount of metals and ore, and the number of people. Arteria beats Albaria in every single one of those aspects, losing out only in the quality of their Ability Holders. Since Albaria has far higher quality Ability Holders on average than Arteria has.
+
+Which, at the end of the day, is more important than the quantity they have.
+
+Just looking at our eight Category 5s compared to their one makes it clear as day.
+
+And what makes it clear as day how much more metal is located in Arteria than Albaria is the sight of the city buildings and walls. Just the sheer number of buildings made at least partially out of metal, at the metal walls, the numerous vehicles, and the weaponry the soldiers are armed with.
+
+Everything is pretty much showing it all off.
+
+We drive through the main street, in between metal and sandstone buildings, past stalls, and all the way through to the heart of the city where we eventually park in a large, three or so story building’s parking area. Then we head inside before Harvey sets up barriers around the room we eventually end up in. For soundproofing.
+
+“The ball is in a week from now,” the partner we’re working with says as he brings out a map and places it on the table. “This is a map of the area, so please make use of it as you will.”
+
+Lieutenant Colonel Striker walks up to the map and begins to study it. Then the rest of us do the same.
+
+From the looks of it, we’re in a city that’s near the capital but not quite there. It’s about a day’s drive from the capital, with a single road leading straight there. And the capital itself seems to be centered around a massive castle made of metal and sandstone. With obsidian mixed in by the looks of it.
+
+“Will we have any issues getting into the city?” the commander asks without raising his head from the map.
+
+I glance at the merchant we’re working with as he shakes his head and answers, “No, they won’t question my entry.”
+
+Convenient.
+
+“And the bodyguards scheduled to protect the emperor during the ball?” the commander continues while raising his head this time. “Do you know who they are and where they live?”
+
+The merchant quickly moves up to the map and points out five locations, stating a name with each one.
+
+“And what about the healer?” the commander asks, looking down at the map again.
+
+With the speed of a professional, the merchant moves his finger to another mansion closer to the castle and says, “Here. And they’re a Category 4 healer who focuses on empowering the regeneration of their target.”
+
+Good to know.
+
+At that, the commander hums while still looking down at the map with both of his hands on the table as he leans his weight against it.
+
+I focus on the map as well before asking, “Where in the castle is the ball going to be held?”
+
+The merchant circles a portion of the castle on a higher floor with his finger and says, “Throughout the third through fifth floors, on the East wing of the castle.”
+
+“And how long is the emperor going to be attending the party?” Rogers asks, to my surprise.
+
+He rarely ever talks after all.
+
+Which is why we always know whatever he’s saying is important when he does, so we all look at the merchant as the man answers, “For the entire party. He will also be there for a few hours before the party begins, and a few hours after it ends to close out the night.”
+
+All of us turn to look at the commander, just waiting for him to tell us what he’s come up with.
+
+The commander asks a few more questions about the security for the castle and the event, along with how the bodyguards are arrayed around the emperor, where the healer will be stationed, and various other details like that.
+
+Then, after a brief period of silence while staring at the map, he raises his head again and says, “Here’s what we’re gonna do…”

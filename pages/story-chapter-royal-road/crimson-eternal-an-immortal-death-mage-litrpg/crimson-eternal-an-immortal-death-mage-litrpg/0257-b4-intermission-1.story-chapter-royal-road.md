@@ -1,0 +1,103 @@
+---
+id: adde9338-ce04-5096-ae3d-52a0a87be124
+page-type-slug: story-chapter-royal-road
+title: "B4 | Intermission 1"
+slug: 0257-b4-intermission-1
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 257
+ownLength: 1009
+unit: words
+ownProgress: 1009
+publishedAt: 2025-02-19
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2077039/b4-intermission-1"
+royalRoadId: "2077039"
+markedReadAt: "2026-06-29T19:14:29.042Z"
+---
+
+Somewhere on the Planet known as Vest
+
+Victor von Lüneburg, otherwise known by the majority of the universe as Pestilence, finally finishes his latest plague. A plague he has been working on for several years now.
+
+The plague itself is one designed to mutate any living creature that it comes into contact with into a mana creature. But it’s a rather untested plague, and more like a virus in nature.
+
+So Victor finally leaves his lab, making those in the hallway of his castle stiffen up at the sight of him before bowing.
+
+He ignores them to walk through the castle towards his throne room, which is still in disrepair thanks to the lack of use. Even if the place is clean thanks to the maids in the castle.
+
+Once Victor reaches the throne, he sits down on it with his legs crossed, the man wearing the same green and white suit with a lab coat pulled on over it as he does so. Meanwhile he opens several holographic screens in front of him through the terminal on his arm showing dozens of different maps. Each of which has worlds and solar systems that could potentially be used as testing areas for his new virus.
+
+Victor has never cared about killing or harming people before. He takes no join in it nor any displeasure, and he has never cared about any of the effects his viruses or plagues have on others beyond his mere curiosity towards making the ultimate viruses and plagues.
+
+Making the ultimate pestilences.
+
+He couldn’t care less about his reputation to the universe as a whole or his own level.
+
+All he cares about are his experiments.
+
+And this experiment is an important one for him. The type of place he wants to test it on needs to be filled with as many people as possible, with a very closed off society.
+
+So he narrows the search down to just a few civilizations. Each of which are largely known for their tourist attractions.
+
+He also doesn’t want any other mana creatures in the picture, so they either have to have their civilizations separated from their Hunter’s Spots, or they can’t have any Hunter’s Spots.
+
+But the problem with that is that all tourist planets have Hunter’s Spots without exception.
+
+It’s just how the universe works.
+
+Which eventually narrows his search down to a single civilization.
+
+The Star Link Stations.
+
+While he’s looking though, he finds something rather curious about the place.
+
+Or rather, he finds a person curious in the place.
+
+Because he senses a Horseman of the Apocalypse within the Second Star of the Star Link Stations.
+
+He leans his cheek against his fist, his elbow resting on the broken armrest of the throne as he stares at the Second Star, just thinking back to the experiments he did on Death a while back. But he doesn’t have anything to trade with her this time around.
+
+And Victor finds violence to be a waste of valuable experimentation time. So he has no interest in trying to force her into his experiments. Even if he could at least temporarily do that.
+
+Until Death’s dogs came chasing after her, that is.
+
+He taps the finger of his other hand against the undamaged armrest on his other side as he tries to think of a solution.
+
+Only for him to pause as an idea comes to him. A solution that’s pretty much been handed to him on a golden platter.
+
+From what he’s heard, Death is rather apathetic towards others and time. But if someone she did care about ended up getting infected by the virus…
+
+Victor waves his hand across the screen, selecting the Second Star of the Star Link Stations as the first test subjects of the new virus.
+
+A perfect location in every possible way.
+
+He can get the testing of the virus done in a perfect environment, and he can bribe Death to let him experiment on her a bit more by cleaning up the mess afterwards and curing them once his experiment is over.
+
+Victor nods his head as he starts making preparations for the experiment.
+
+Right now the virus should only affect lower level beings. People at level one or two thousand and below. No more than that. So the Star and her followers shouldn’t be affected by this.
+
+He rubs his chin as he continues making preparations on the screen in front of him projected from his terminal.
+
+I’ll also see how this virus will affect Death herself. Will she fully turn into a mana creature before returning back to normal? Or will she not even turn at all? And if she does turn, how long will she stay a mana creature?
+
+The Horseman’s excitement continues to grow as the corner of his lips twitch, showcasing his rare expression of emotion.
+
+Even if it’s an expression the vast majority of the universe wouldn’t notice.
+
+A loud crackle of thunder brings Victor’s attention outside of one of the throne room’s balconies, where he sees crimson lightning beginning to bubble up a little bit in the skies. And after seeing that, he stares for several seconds before sighing.
+
+I guess the time for a new birth is getting closer and closer.
+
+Victor can barely even remember the last time a birth happened, much less what lengths the other Grands went to in order to deal with it.
+
+But at the same time, he doesn’t care. Since it doesn’t affect him in the slightest.
+
+Or it shouldn’t.
+
+If it does end up affecting him, then there will be hell to pay for everyone.
+
+And he’s sure that Famine agrees with him there. Even if War is most likely celebrating the upcoming birth with fervor, no doubt launching himself into even more wars to prepare.
+
+For now, though, Victor focuses all of his attention on setting up the preparations for spreading the new virus to the Second Star of the Star Link Stations.
+
+And for his second meeting of the Horseman of the Apocalypse, Death.

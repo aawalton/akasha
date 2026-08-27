@@ -1,0 +1,601 @@
+---
+id: 1b1d901d-5cd8-5467-a120-5092d0ff10c2
+page-type-slug: story-chapter-royal-road
+title: "198: Unrelenting"
+slug: 0198-198-unrelenting
+partOf: delve
+position: 198
+ownLength: 4528
+unit: words
+publishedAt: 2022-07-10
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/945543/198-unrelenting"
+royalRoadId: "945543"
+---
+
+“How......not...?”
+
+“Hey! ......check...”
+
+“Rain? Rain!”
+
+“...breathing......probably...”
+
+“How are we not dead?!”
+
+“...already asked that.”
+
+“...where...th...”
+
+“Dust! Stop! Leave.......”
+
+“......Meteor was...”
+
+“...used.......Raiment but......enough to...”
+
+“...my cloak is...”
+
+“How are we not dead?!”
+
+“Seriously? We get it.”
+
+“...there is......where...?”
+
+“...Empire...”
+
+“...would you stop!?”
+
+The voices coming to Rain as if through a badly tuned radio snapped into clarity, bringing with them the roar of the terrified city and the continuing detonations from the harbor. He gasped, sucking in a lungful of humid air as he lurched up from the broken ground, or rather, tried to. Instead, his chest crashed straight into something heavy that snorted and pulled away.
+
+He blinked, the object swimming into focus.
+
+Dust?
+
+“Rain!” Vanna shouted.
+
+“Stay still,” Mereck said, and Rain lifted his head to see the slightly-singed former innkeeper sitting beside him on the shattered cobblestones. “How’s your health?”
+
+Rain’s jaw worked as he tried to respond. His head felt like a thousand miniature dwarves had crawled inside his skull and had been vigorously mining his brainstem for gold. He glanced at his HUD, seeing his health at about half and his mana in critical condition.
+
+Shit.
+
+Sitting up, the reality of his situation struck through the haze, and he reached for Winter and Detection, shoving aside the pain. “Health’s at half. Keep healing.” Detection informed him that everyone was still alive, and his mind sharpened as Winter settled in, allowing him to think.
+
+Meteor was a fourth-tier spell, something he hadn’t thought the Adamants to have access to. They’d clearly targeted them via Divination and had likely chosen Meteor for its indirect line of attack. Barring other factors, nothing would stop them from doing it again. In fact, he was surprised they hadn’t already.
+
+“Rain—“ Vanna began.
+
+He cut her off, his eyes blazing with mana as he drew heavily upon his Magewell amulet. “Hang on, gotta make sure we’re safe...” Concentrating, he triggered an essence exchange, then summoned a dialog to show him his current regeneration info.
+
+Progress Report
+
+marker_1: WHAT?! [3061 Seedlings 28 23:56]
+
+marker_2: how_are_we_not_dead? [3061 Seedlings 29 00:04]
+
+Span: 8 minutes
+
+Skills
+
+Heat Ward: +45,262 exp, 0 -> 14 (+14)
+
+Prismatic Intent: +1 exp
+
+Synchronization
+
+Endurance: 19.8 -> 25.7 (+5.9)
+
+mregen.sh v0.2
+
+Mana Regeneration: +19,926.04 mp/s
+
+Base Regeneration: 2.690972 mp/s
+
+Winter: 26,985.67%
+
+Winter: -0.13 mp/s
+
+Mana Manipulation: +19,200.00 mp/s
+
+Magewell: 30,800 / 50,000
+
+Depleted: 1.60 s
+
+Mana: 28,809 / 107,750
+
+Full: 66.31s
+
+Not fast enough.
+
+Rain scowled, shifting five hundred points into Clarity as he swiped the Progress Overview away, more annoyed by the near-nonexistent gain for Prismatic Intent than by Heat Ward having barely missed making rank fifteen.
+
+What the hells is it going to take to level that damn thing?
+
+His eyes winked out as his Magewell was exhausted, but it had served its purpose. Leaving Winter going, he willed a macro into activation, filling his second slot with wards: Heat, Arcane, Chemical, Mental, and Force, cycling rapidly, each at 100% despite the time division. He could feel the strain of it, feel the hazy pressure of the soot trying to suffocate his consciousness, even without any of them being triggered.
+
+“Okay, help me up.”
+
+Accepting Mereck and Vanna’s assistance, Rain looked around at the devastation. It wasn’t as bad as he’d feared. The buildings surrounding them had been sprayed by rubble, but they were all still standing.
+
+It wasn’t Overcharged, then. A tactical Meteor?
+
+He looked down at his feet briefly. The crater was centered directly on him, shattered cobblestones revealing the raw stone of the cliff beneath.
+
+Why did they bother to cobble it in the first place?
+
+Brushing aside the idle thought, Rain looked back up at Vanna, who had started layering him with buffs. Nodding to her, he turned to check on Samson. The swordsman wasn’t far, standing with his back to them and his sword drawn, watching the entrances to the square and the sky above. Stint, Mereck, and Dust were accounted for, which just left Dozer.
+
+A shiver ran down Rain’s spine as he realized exactly how close they had come. He hadn’t had the time to do the math for the level-one spell, and the efficiency had turned out to be appalling. If the Meteor had hit the buildings directly, his Wards would have tried to protect the people inside. That would have meant disaster. Even one more target taking a direct hit would have pushed the mana cost over his total.
+
+[Thank you, Dozer. Your quick thinking saved us all.]
+
+The explosion of pure, blissful pride that flooded the link made Rain’s eyes water even more than the strain of holding his magic active. A moment later, the slime appeared with a *pop*.
+
+“Ah, shit!” Stint swore explosively. “Don’t do that!”
+
+[Hello!] Dozer sent, the link still overflowing.
+
+Rain’s mouth twitched as he struggled to weather the joyous onslaught. He shuddered to think how strong the feeling would have been if Dozer had actually understood the magnitude of what he’d been praised for.
+
+“We should get under cover,” Samson said, speaking over his shoulder as a particularly large detonation lit up the sky.
+
+Rain shook his head. “No need.” Everything we say, they can hear. The last thing I need is them targeting buildings. Spreading his arms and looking up at the falling rain, he spoke in challenge. “Well?”
+
+“What are you doing!?” Mereck hissed, still clutching Rain’s arm. “Don’t taunt them!”
+
+Samson cleared his throat. “If they could have launched another Meteor, they would have already. Like as not, they have other things on their minds. I’m more concerned about the remaining Knives.”
+
+“I’m more concerned about the ship,” Vanna said. “I heard Halgrave yelling earlier. That man is damn loud. He’s definitely fighting them, but, well, the fight hasn’t ended yet, so...”
+
+“Right,” Rain said, catching her meaning and acknowledging that his brain still wasn’t quite running on all cylinders. Not that it ever did.
+
+I need to get down there to help. Depths if I know how.
+
+He reached up to rub at his neck, finding that his hand was shaking, though his fingers found only unbroken skin.
+
+Filth.
+
+“There, full,” Mereck said, finally releasing Rain’s arm. “I had no idea you had that much health, Rain. My mana’s getting low.”
+
+“Here,” Rain said, expanding Winter slightly to cover his allies. He’d have used Essence Well, but he needed the mana more than they did. The only thing stopping him from using Aura Focus to get it was the need to react to the next attack when it came.
+
+“Seriously, Rain, how aren’t we dead?” Stint asked.
+
+“Math saves lives,” Rain said absently, fending off Dust, who’d pressed past his rider. The horse forced his muzzle past Rain’s hands, pressing firmly against Rain’s chest, then rubbing his nose across it, as if searching for something.
+
+“Damn it, Dust!” Stint shouted, grabbing Dust’s reins and hauling the horse’s head away. “Sorry, Rain. He was after your chest the whole time you were out. I think he was trying to check if you were breathing.”
+
+“I’m touched,” Rain said, straightening his overtight shirt.
+
+“More like groped,” said Stint, still fighting with Dust. “Behave, you damn mana-addled pigeon-head!”
+
+Another explosion lit up the sky, and Rain glanced impatiently at his HUD. His mana hit full a moment later, and he shunted the excess to his Magewell.
+
+mregen.sh v0.2
+
+Mana Regeneration: +0.00 mp/s
+
+Base Regeneration: 6.626157 mp/s
+
+Winter: 26,335.42%
+
+Winter: -0.13 mp/s
+
+Mana Manipulation: -1,744.89 mp/s
+
+Magewell: 0 / 50,000
+
+Full: 28.66 s
+
+Mana: 235,250 / 235,250
+
+It will do.
+
+He looked up at his companions. “Ready to go?” Everyone nodded, though Stint looked worried as he swung into Dust’s saddle, the horse finally back under control. Rain could empathize with Stint’s reluctance, but he didn’t let it stop him as Dozer leapt to land on his head. “Let’s move.”
+
+[Get inside!]
+
+[No!]
+
+Grinding his teeth, Rain set a quick pace, calling up his interface again as his amulet refilled. There was one more thing he had to do before he was ready to face the Adamants, and the risk of doing it was far outweighed by the potential benefit.
+
+Navigating to Defensive Auras, his finger hovered over the button to unlock the next tier. He’d delayed unlocking any further tiers out of an overabundance of caution, and that was coming back to bite him. Caution wasn’t going to get him through this.
+
+He needed a tier-four.
+
+Even if he’d had the prerequisites, Anchor Aura was useless for him here. Hybridize, the tier-four from Magical Utility, wasn’t even worth mentioning. It was a powerful skill, just not for him. It was one of the few well-known tier-fours, and it was equally well-known that it didn’t work on channeled spells.
+
+That left his three aura trees. A new Offensive Aura would be of doubtful utility, the damage cap being what it was. While a tier-four Utility Aura was a serious contender, Defensive Auras was most likely to give him something he needed right here and now.
+
+His finger paused for only an instant more, then pressed down. A new skill appeared at the bottom of the window, printed in gray.
+
+Overgrowth (0/15)
+
+Affected entities gain temporary health at a rate of 95.081 (fcs) hp/day
+
+Temporary health persists until depleted
+
+Cap: 1x entity maximum health
+
+Range: 5.78 meters
+
+Cost: 30 mp/min
+
+Requires 10 ranks in Heat Ward
+
+Requires 10 ranks in Cold Ward
+
+Requires 10 ranks in Dark Ward
+
+Requires 10 ranks in Light Ward
+
+Requires 10 ranks in Arcane Ward
+
+Requires 10 ranks in Chemical Ward
+
+Requires 10 ranks in Mental Ward
+
+Requires 10 ranks in Force Ward
+
+Rain’s eyes took in the lengthy list of requirements, and his jaw tightened. He hadn’t even read what the spell did. Whatever it was, he couldn’t afford it. With three wards to go, he didn’t have the points. The gamble had failed.
+
+Closing the skill tree, he opened Aura Metamagic instead. He would be fighting amongst allies soon, and perhaps on a metal ship, whether Temerity or one of the enemy vessels. He needed Ethereal Aura. Without giving himself time to reconsider, he pushed a point into the skill, then applied the changes.
+
+Ethereal Aura (1/15) Exp: 0/800
+
+User may exempt the aura from environmental effects at will
+
+Aura gains 5% resistance to environmental occlusion and absorption
+
+Environment receives 90% aura output
+
+Two skill points left.
+
+“Ho! Ascension!”
+
+Rain glanced to the side as he continued his rapid march toward the cliff, seeing Argle Thrast jogging toward him through the downpour. The silverplate had his battered sword drawn and did a double-take upon seeing Rain’s face. To his credit, he recovered quickly. “Captain Rain,” he said in greeting, his voice carrying a note of wariness.
+
+“Thrast,” Rain replied as the man hurried after them. “Will you fight with us?”
+
+“Damn right I will,” Thrast said, his voice firm once more. “What happened to your armor? And why is there a slime on your head?”
+
+Rain nodded to Thrast, ignoring the man’s questions as Linksight told him how their party had grown one larger. “Buff him.”
+
+“What—“
+
+“Concussive Blows,” Vanna said, interrupting Thrast by grabbing his shoulder. “Force damage on all attacks. Inner Fire, Cold resistance and added Fire damage. Frost Raiment, the opposite. Stubbornness, Mental resistance. Superstition, Arcane—”
+
+“You don’t have to narrate,” Thrast interrupted. “I can bloody tell what they do.”
+
+“Just making sure,” Vanna replied, taking her hand away. “I don’t have a buff for intelligence.”
+
+“Hey!” Thrast shouted.
+
+Despite everything, Rain barked out a laugh, but his flicker of amusement died as he neared the cliff and saw what waited below. The two Adamant ships were chasing Temerity toward the horizon, already at least a kilometer out, lit by the glow of the Arcane barriers and the streams of Fire magic. A battle raged above the waves, midway between the shore and the ships. Kraken-sized whips of water clashed against a tiny figure, dancing through the air above, almost impossible to make out at this distance.
+
+Ameliah.
+
+Rain came to a decision. “I’m going ahead,” he said, not slowing down as he shifted his focus to the shoreline, where yet another battle raged. Linksight twitched, and he was a party of one.
+
+Don’t bring bronze when dealing in silver.
+
+Flinging himself over the edge, Rain veiled himself with Detection. Where Ascension’s camp had been, more Arcane light stood out in the darkness, but not a dome like those protecting the ships. Rather, five large, curved Arcane Bulwarks stood between what had to be a hundred Adamant soldiers and their lone opponent, Sea King Bakal.
+
+The massive man seemed to be holding his own, watery tentacles sprouting from his back amidst a hurricane of water surrounding him. The tentacles were fully engaged by swatting away Fireballs, the hostile magic raining down upon the Sea King from behind the barriers. Each time a tentacle caught one of the Fireballs, the projectile detonated, blowing away the tentacle only for it to reform moments later. Bakal himself was wielding a cartoonish, two-handed wooden mallet, sweeping it about himself defensively and fending off a trio of hulking soldiers that Rain recognized from Ameliah’s description. The Adamants were even larger than Bakal, wielding two-handed great-swords that looked like they’d been designed to bisect horses. Two more of those swords lay near Bakal’s feet beside the crumpled forms of their owners, shrunken to normal size in death.
+
+Rain landed, absorbing the impact with Force Ward and rising in time to see a volley of arrows arc over the nearest barrier to rain down on the embattled Sea King. Bakal’s tentacles deflected most of them, but a few made it through, joining the others already lodged in his flesh like porcupine barbs. The pirate roared like a bear, bellowing out his desperation and pain.
+
+He got two, but he’s not winning.
+
+Rain’s eyes narrowed as he took in more details. The majority of the enemies weren’t even engaging Bakal. On the contrary, they were mostly ignoring him, marshaling behind their barriers as they prepared to launch an assault on the city or something.
+
+Realizing that he wasn’t moving, Rain forced himself to take a single step forward. He’d intended it to become a run, but he found that his legs were trembling. His hand had once more found his neck.
+
+D...amn...it!
+
+Biting down so hard he’d have shattered his teeth if not for his Endurance, Rain tore his hand from his neck and took another halting step forward, then another. They hadn’t noticed him yet. The closer he got, the more efficient his spells would be when he unleashed them. If only he could get his stupid legs to listen.
+
+Dozer, clinging to his hair in continued defiance of his orders, sent him a pulse of determination.
+
+It...helped, actually.
+
+Rain’s halting walk smoothed out, then became the charge he’d intended. The distance began to close, yet the Adamants didn’t react. Detection was working far better than expected, preventing them from—
+
+Never mind.
+
+The latest wave of Fireballs that had been arcing toward Bakal leveled out in mid-air, curving for him instead. Either they’d pierced the veiling effect of his spell, or the Eyes had finally gotten their shit together and warned them. Regardless, it didn’t matter. He wasn’t as close as he’d wanted, but they were in range. As the hostile magic bore down upon him, he canceled Detection, using the entirety of that slot for Immolate while leaving his wards running in the second. He didn’t prioritize Heat ward, but it was fine. He didn’t need to.
+
+focusboost.sh: 600 points shifted to Focus from secondary stats
+
+focusboost.sh: Focus: 870
+
+modmon.sh: ['extend aura', 'aura compression', 'channel mastery']
+
+autocompress.sh: Target: 150 meters
+
+autocompress.sh: Compression Applied: 23.4 meters
+
+iff2.sh: offensive aura detected
+
+iff2.sh: foes: unknown_entities
+
+iff2.sh: friends: !foes
+
+iff2.sh: ignore: none
+
+iff2.sh: friends non-empty, power target doubled
+
+autopower.sh: Target: 19998 dps
+
+autopower.sh: Target not met
+
+autopower.sh: CM Setting: 200%
+
+Immolate (15/15)
+
+11052.50-12631.43 heat (fcs) damage per second to foes
+
+5526.25-6315.71 heat (fcs) mitigation per second to friends
+
+9947.25-11368.28 heat (fcs) damage per second to environment
+
+Sufficient damage causes ignition
+
+Aura resists 5% of environmental occlusion and absorption
+
+Range: 150 meters
+
+Cost: 600 mp/s
+
+Even with the reduction from Ethereal Aura, the full-powered aura immediately boiled the falling rain, creating a rapidly expanding cloud of scalding steam that swallowed Rain’s view of his enemies. He ran on, heedless, the air around him shimmering with the inverted effect of the spell. The steam carried warmth into his lungs, but no pain, his buffed resistance more than sufficient.
+
+Then the Fireballs struck.
+
+dmgnum.sh version 0.5.0
+
+Force Damage Detected
+
+Heat Damage Detected
+
+Mana: -1,691
+
+Force Ward: 100%, 0.2 tick
+
+Rate: 0.538319 mp/dmg
+
+Heat Ward: 100%, 0.2 tick
+
+Rate: 0.606207 mp/dmg
+
+Force Resist: 218.6
+
+Heat Resist: 6,642.4
+
+Original Damage: ERROR_MULTI_TARGET
+
+The shockwaves buffeted Rain, making him stumble, but it was just mundane force, only felt at all because the damage cap prevented his wards from absorbing it all. In fact, the draw on his mana had been lower than expected. Dozer hadn’t dodged this time and should have been hit just as hard as he had, but the numbers didn’t reflect that. It wasn’t the time to ask why. The slime was reeling from what must have been an overwhelming disruption to his hearing-based perception and, to Rain’s relief, vanished with a *pop*.
+
+[Loud!!!!]
+
+[You see why I told you to stay inside?] Rain sent back, simultaneously reducing his interface’s verbosity to cut down on further distractions. He could review the logs later.
+
+[Dozer stay inside!] The slime sent back, unapologetic, but acknowledging Rain’s wishes this time. [Rain-King fight strong! (ง’̀-‘́)ง ]
+
+[Where are you even getting those!?]
+
+Slime-related confusion flew from Rain’s mind as a wave of arrows struck him, rebounding from the ripple-like distortions of his Wards.
+
+dmgnum.sh version 0.5.0
+
+Force Damage Detected
+
+Cold Damage Detected
+
+Arcane Damage Detected
+
+Mana: -2,670
+
+Health: -1,947
+
+Shit.
+
+Rain sucked burning air through his teeth as a wave of shivers ran through him. The Adamants apparently had Elemental Archery skills or something like them. While the physical arrows had been blocked, at least some of their payloads had made it through. Critically, one of those payloads had been Cold damage.
+
+Vanna’s Inner Fire was still bolstering his meager resistance, but it wasn’t enough.
+
+Fixing it was problematic.
+
+Refrigerate would give him flat resistance, but it was incompatible with Immolate. He could interleave them, reaping the resistance benefit, but the damage wouldn’t spread because of the conflicting environmental effects. He could start over, switching wholly to Refrigerate and relying on Wards alone to block the Fireballs, but while that solved this problem, there were other elements to consider.
+
+Before Rain could decide what to do, another round of Fireballs struck, the enemy mages proving that they had no problems targeting him through the steam.
+
+dmgnum.sh version 0.5.0
+
+Force Damage Detected
+
+Heat Damage Detected
+
+Mana: -1,769
+
+Rain adjusted the size of the vitals on his HUD, disabling damage number popups entirely. Immolate had been going for about ten seconds now, and the draw from the spell over that time was about the same as taking another hit on his Wards. Fairly inconsequential, compared to the hit to his health.
+
+Health: 10,453 / 12,400
+
+Armor: 0/0
+
+Stamina: 3,698 / 3,720
+
+Mana: 214,720 / 235,250
+
+Magewell: 50,000 / 50,000
+
+I’m...fine, actually. For now.
+
+...
+
+Right.
+
+Slowing his sprint to a run, then a walk, Rain dropped Immolate’s tick time to eight hundred milliseconds, leaving two hundred milliseconds for Detection to monitor the Adamants’ positions. They hadn’t scattered or anything, so he compressed Immolate’s radius slightly. Every shred of efficiency helped. He began drawing again on his amulet, as there was no reason not to.
+
+Without warning, one of the hulking sword-wielders who’d been fighting Bakal burst from the steam, slicing across Rain’s chest with a diagonal slash that rebounded harmlessly from Force Ward. There’d been no hit to his health, so Rain kept walking, raising his hands and summoning a keyboard.
+
+He’d need to type for this bit.
+
+He didn’t have a macro prebuilt for what he wanted, and the speed with which he needed it to run precluded doing it manually.
+
+Another wave of arrows struck, ricocheting away and stealing another sliver of health. The sword-wielder, his armor blazing crimson as it began to saturate, cut again, but as before, it was only physical damage. Rain’s Wards took it easily. He was more worried about what came next. If the huge soldier had Light Cut, say, it would be a problem.
+
+Rain’s fingers wiggled.
+
+Another wave of Fireballs detonated around him, but he paid them no mind. It was far from a constant barrage, which spoke to something limiting the rate at which they could cast. Probably Overcharge. As if to refute that thought, a second wave detonated no more than a few heartbeats later.
+
+Doesn’t matter.
+
+Rain kept typing as the explosions became a near-constant barrage.
+
+Heat, Arcane, Force, Chemical, and Mental are covered by my wards. That leaves Cold, Dark, and Light.
+
+“AHHHH!” The towering sword-wielder howled as he burst into flames, but he didn’t stop. He struck again and again, the blade rebounding harmlessly each time. Rain did his best to tune out the distraction as he kept working. The arrows that struck next were harder to ignore, digging at his precious health like icy fingers, but he didn’t flinch.
+
+Refrigerate will block Cold, leaving Heat to Heat Ward. For the Arcane-Force pairing, I don’t have Shear, so I’ll strike with Fulmination to lessen the load on Arcane Ward. Dark and Light...
+
+I have to choose.
+
+The sword-wielder collapsed to his knees, then fell, a burning corpse. Detection told Rain that he hadn’t been the only enemy to have perished. The other two sword-wielders had gone down as well, over near Bakal. The water gushing around the pirate was now boiling, but he didn’t seem to mind, hurling great rivers of it at the Adamants’ defenses.
+
+Rain clicked his tongue, backspacing to fix a typo he’d made during his brief glance away from his terminal.
+
+Dark is better. Shroud will hide me from view once Refrigerate freezes the steam out of the air. Better exempt that one from Ethereal Aura.
+
+According to Detection, the soldiers had grouped themselves tightly, sheltering in the magical shadows of their Arcane Bulwarks. The defensive constructs wouldn’t block auras completely, but they’d do a better job of it than walls made of mortar and stone. Another wave of arrows hit, and Rain grimaced at the steadily increasing pain.
+
+Health: 6,104 / 12,400
+
+Armor: 0/0
+
+Stamina: 3,698 / 3,720
+
+Mana: 235,250 / 235,250
+
+Magewell: 5,007 / 50,000
+
+I need to hurry.
+
+The chill had been stronger this last time, more than just the drop in his health could account for. Somehow, the Adamants had determined his weakness and shifted the ratio of their attacks. Worse, he was battling growing wooziness from the spiritual soot that had to be building up within him. He compressed Immolate further, still typing as he continued his slow walk before finally coming to a stop. The heat was so intense now that the steam had thinned, all moisture evaporated from the ground.
+
+Rain saved his script.
+
+It was pretty simple, really, but as with all simple things, it had taken longer to write than expected. Before invoking it, he triggered an Essence Exchange.
+
+Progress Report
+
+marker_1: how_are_we_not_dead? [3061 Seedlings 29 00:04]
+
+marker_2: in_the_shit [3061 Seedlings 29 00:19]
+
+Span: 15 minutes
+
+Character
+
+Total Exp: 2,636,316 -> 2,700,431 (+64,115)
+
+↳Health Use: 3,148
+
+↳Stamina Use: 4
+
+↳Mana Use: 60,963
+
+Skills
+
+Ethereal Aura: +2,478 exp, 0 -> 3 (+3)
+
+Heat Ward: +178 exp
+
+Synchronization
+
+Endurance: 25.7 -> 27.0 (+1.3)
+
+Screw Prismatic Intent.
+
+> namethislater.sh
+
+He pressed enter.
+
+Immediately, Immolate went inactive, replaced by a rapid carousel of Refrigerate, Shroud, Fulmination, and Suppression, with just the barest sliver of time devoted to Detection to monitor the soldiers’ positions. At the same time, his Wards shifted, the tick rates re-balancing to reflect the change to his flat resistances.
+
+Urk!
+
+Rain clenched his jaw, fighting to remain conscious as his mana expenditure increased. The trouble wasn’t the cost, but the side effects. His macros didn’t cast cleanly, not when switching this fast. Somehow, he managed to hold on, spots swimming across his vision before the billowing darkness stole it away. There was a loud crack as one of Fulmination’s leaders found one of the Arcane Bulwarks, a powerful bolt discharging in the same instant, the flash muffled by the growing murk. Another crack followed as the air temperature began to plummet. The Arcane damage would eat into the barrier’s resistance quota, making it easier for Suppression to punch through. Paired debuffs and damage were often more effective than either alone. Meanwhile, the corrosive Dark damage would creep past the barrier’s boundaries, even more so than the steadily increasing Cold.
+
+A second passed. Two. Another wave of Fireballs struck back at him, then more arrows, even more strongly shifted toward Cold. Nothing made it through to his health this time, which meant they couldn’t reliably strike above the resistance cap. He just had to hold on.
+
+[Rain-King!]
+
+Rain’s vision had shrunk down to a tunnel, and yet, leaning on Dozer as his rock of relentless, unwavering determination, he endured. The Adamants, too, refused to bend, abandoning Fire and sending wave after wave of arrows against him. Time crawled by with glacial slowness as ten seconds passed. Then twenty.
+
+How are they still blocking it?!
+
+Health: 6,104 / 12,400
+
+Armor: 0/0
+
+Stamina: 3,698 / 3,720
+
+Mana: 130,434 / 235,250
+
+Magewell: 0 / 50,000
+
+As Rain’s mana continued to fall, he began to fear he might have made a miscalculation. With what mental bandwidth he had, he began preparing to abandon his assault. With Velocity, there was a faint hope that he could get away from the arrows that were still pounding him.
+
+He didn’t see the first shield fall.
+
+Even had he been able to see through the crackling murk, he wouldn’t have torn his eyes away from his plummeting mana gauge. Detection, however, was not so easily distracted. As hail pelted down around him, lost in the crackling roar of thunder, the number of enemies dropped by a fifth. Then another fifth. Then two-fifths at once. The final shield, the furthest, lasted only a few seconds more. The next pulse of Detection came back clean.
+
+It was done.
+
+...
+
+Rain released his new macro, stumbling but managing not to fall.
+
+No, it’s not done. Not even close.
+
+Progress Report
+
+marker_1: in_the_shit [3061 Seedlings 29 00:19]
+
+marker_2: just_getting_started [3061 Seedlings 29 00:20]
+
+Span: 1 minute
+
+Character
+
+Total Exp: 2,700,431 -> 2,736,316 (+35,885)
+
+↳Mana Use: 35,885
+
+Skills
+
+Ethereal Aura: +10,771 exp, 3 -> 5 (+2)
+
+Synchronization
+
+Endurance: 27.0 -> 29.2 (+2.2)
+
+Reading the text slowly, Rain released a breath of steam into the arctic air, the darkness only reluctantly beginning to slink away.
+
+He clenched his fists, his loose rings digging into his fingers beneath his gloves.
+
+Winter
+
+mregen.sh v0.2
+
+Mana Regeneration: +1,787.98 mp/s
+
+Base Regeneration: 6.626157 mp/s
+
+Winter: 26,985.67%
+
+Winter: -0.13 mp/s
+
+Mana: 119,806 / 235,250
+
+Full: 64.57s

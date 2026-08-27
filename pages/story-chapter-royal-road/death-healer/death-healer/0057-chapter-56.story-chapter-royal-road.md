@@ -1,0 +1,271 @@
+---
+id: aa661adc-c605-5a8e-90a3-8ce9b6866aff
+page-type-slug: story-chapter-royal-road
+title: "Chapter 56"
+slug: 0057-chapter-56
+partOf: death-healer
+position: 57
+ownLength: 3593
+unit: words
+publishedAt: 2025-08-09
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2503497/chapter-56"
+royalRoadId: "2503497"
+---
+
+“Your mother?” Lucianus asked. “What do you mean?”
+
+“I…” Adriana sighed. “When I was almost fourteen, my mother had me try to go through the trial to learn the [Sacred Flame]. However, my Light Affinity wasn’t powerful enough. The [Sacred Flame] has a strong Life aspect, but it is primarily Holy affinity. The Holy Affinity calls for Light and Fire together. You know I was a Holy caster, like most of the people in my family, right? Other than being a very powerful healer.”
+
+Lucianus was still reeling from the realization that Hestia, Adriana’s mother, had tried having her daughter learn the [Sacred Flame]. But he tried staying on topic.
+
+“Yes, of course. We were on the front together. But the [Sacred Flame]?”
+
+Adriana summoned a wisp of her [Holy Flame]. The [Holy Flame] was to a Holy Affinity user what [Heal] was to a [Healer], and essentially the [Holy Flame] was to the [Sacred Flame] what [Heal] was to [Life Flow].
+
+“I trained my Fire Affinity since I was a baby—the same goes for my Light Affinity, Lucianus. My mother wanted me to lead, to be the next [Pope]. But I needed a display of Skills greater than anybody else. Everyone respected my talent, but if I couldn’t learn the Great Skill…”
+
+Lucianus suddenly understood something.
+
+“You think the reason she pushed you through the [Sacred Flame] trial was to break you?”
+
+Adriana nodded, looking away, jaw set hard enough that her cheeks trembled. “She wanted either to make me or break me. I wasn’t enough for her as I was. When I failed, she kept me locked in the villa for a whole year, pretending I was sick. I was, truly. The trial had broken me. The fire had eaten deep into my body. I always suspected that might have played into me not being able to have children…”
+
+Lucianus breathed out, running a hand over his face. “You never told me this.”
+
+“There was never any reason to. It was the price for trying to acquire power.”
+
+Adriana’s fingers dug into the table, knuckles whitening.
+
+“But that means,” she continued, “that my mother must have known. She must have known what the trial did to me. She has all sorts of [Healers] and weird characters under her command. Someone must have informed her. And she told me nothing all these years. She truly decided to side with Ennius once she knew I wasn’t a viable option. But then, what is she thinking now?”
+
+“Adriana,” Lucianus said, his aura starting to burst from his body, “I promise, no one will ever do this to you again. I will take care—”
+
+“No,” Adriana snapped, putting a hand on her husband’s chest. “Not you. You’re past that time. You can’t. The only person I trust to take care of this is our daughter, Lucianus. You want things to change for people like me? It’s not going to be the slaughter of Ennius, my brother, by your hand that does it.”
+
+Lucianus exhaled and nodded slowly, finally convinced.
+
+“Lily will need the performance of her life at the tournament, Adriana,” Lucianus said. “Do you understand that?”
+
+“She will—and Lucianus… I mentioned the [Sacred Flame] because I think that what Lily did… it applies to the [Sacred Flame] as well. The reason my body got ravaged… it’s because there’s a similar ritual to the one necessary for the [Sacred Flame]. I believe our daughter would be able to learn the [Sacred Flame]. The only thing is, I wish there was someone in my family, perhaps someone who mastered it, who could teach her. [Life Flow] was easy for her—she’s always had the greatest talent for healing. But the [Sacred Flame] is a much more complex ritual, it involves character, experience, ruthlessness. And she’d need be taught.”
+
+* * *
+
+The armory stank of oil, sweat, and the dry musk of leather gone too long without the sun.
+
+Caesar led Lily inside, boot heels drumming on the pitted boards.
+
+Racks crowded the walls—spears, pikes, shields, battered swords of every shape and length.
+
+Most were too heavy, too long, or too clumsy for a girl of thirteen, even one as wiry as Lily.
+
+Caesar rummaged through the racks, tossing aside a chipped partisan, then a rusted short sword, until he found what he wanted.
+
+He held up a pair of reinforced leather vambraces, the kind meant for knife-fighting and crowd work—each one embedded with narrow plates of blackened iron that would turn a blade or stop a rotten tooth from tearing flesh.
+
+“Put these on,” he said, handing them over.
+
+Lily slid her hands into the braces, flexed her wrists, then buckled the straps tight. The leather was stiff and worn, but it fit. She looked up and Caesar threw him more and more padded leather to put on, even double-layers, until she felt like she could barely move.
+
+“Are you serious?” she asked, wrapping a second layer around her neck and putting on the thickest helmet she’d ever seen.
+
+“I’m dead serious,” Caesar said, without even cracking a smile. “You’re not going to die your first hour out there because you wanted to look pretty or fast. The Undead don’t care how quick your reflexes are. You get bit once, you’re done. This gear buys you time to make the right decision.”
+
+Lily strapped on the helmet, which wobbled on her head and pinched at her ears. The second layer of neck padding made her feel like she was wearing a brace for a broken neck, but she locked it tight, ignoring how much it dug into her skin. She tried to move her head and felt like a statue. “I can barely see out of this thing.”
+
+“Good. You won’t need to,” Caesar said, sorting through a crate of battered wooden shields. He pulled out a buckler barely bigger than a dinner plate, thick and chipped. “Strap this to your arm. Don’t let go. If something grabs you, you lose the shield before you lose your hand. You break your arm before you let them sink their teeth into your throat. If you get grabbed anywhere and you can’t get yourself free, smash the buckler into the zombie’s maw. Now, for the eyes.”
+
+He took her through every piece, not rushing—inspecting the fit, tightening every strap himself, double-checking the gauntlets and the seams for any flaw. For every spot Lily complained about, Caesar added another strip of leather or bark.
+
+She ended up looking less like a fighter and more like a padded scarecrow sent to guard a cabbage patch. Her knees were stiff, her arms barely bent, and her gloved fingers barely poked out from the overwrapped gauntlets.
+
+He held up a visor that looked like it had been hammered out by a blacksmith who hated children. It was a rusted iron faceplate with a slotted bar over the eyes protected by surprisingly clear glass and a crossguard down the nose.
+
+“Put this on. If it cuts your cheeks, don’t whine. That’s better than getting your face torn off.”
+
+Lily slid the visor down and fastened it behind her head. The world narrowed to two thin bands of light and a tunnel of muffled sound. The padding pinched her jaw, and the iron smelled of sweat and dried blood. She adjusted the strap with gloved fingers and blinked at Caesar, her vision already tunneling.
+
+She tried to lift her chin. The extra padding forced her to keep her head low, like a dog.
+
+“Even if you’re going to fight with your fists, remember this, Undead don’t duel. They swarm. You can’t risk a sword getting stuck in bone or armor, much less a gauntlet. I’ll teach you how to kill them with your hands.”
+
+He pulled a long dagger from his belt—a squat, leaf-bladed thing with a handle stained dark from old blood. He handed it to her hilt-first.
+
+“Just in case. Strap it to your left forearm like this,” Caesar demonstrated. “You need protection, easy access to weapons. You will not have the time to fumble around with your belt. During engagements, I prohibit my men from bringing any other equipment than what they can carry over their armor. Some idiots bring food out there. Do you know what happens if you eat contaminated food in the midst of an encampment of tired, or worse, sleeping soldiers?”
+
+Lily recoiled at the thought.
+
+“Fighting the Undead,” the said, “it’s complicated.”
+
+“Protocols, rules,” Caesar exhaled, “one must drill their men day in and day out. You can’t take chances. All it takes to die and come back immediately after is one bit. One drop of contaminated blood in your eye, your mouth, any exposed wound. That’s all it takes. One drop and you’re dead. High-level warriors can wear their magic around their body, but before you can attempt that, I’d rather go the safe route.”
+
+Lily nodded and flexed her fingers inside the gloves. They felt foreign, heavy, like someone else’s strength.
+
+Caesar buckled on his own breastplate and swept up a round shield.
+
+He motioned for her to follow.
+
+“Time to see how you move in front of Death.”
+
+They crossed the courtyard, and Caesar didn’t say a word as they moved to the northern gate—a squat arch of black stone manned by three silent sentries.
+
+He barked a command, and they opened the heavy door. The outside air hit with a chill that sliced to the bone.
+
+Beyond the gate, the world went grey and still.
+
+Sparse trees, stripped of bark and leaves, clawed at the sky.
+
+Patches of white fog clung low to the ruined earth.
+
+To the east, a ravine dropped away, thick with the scent of rot.
+
+Caesar scanned the horizon, then pointed at a patch of upturned ground.
+
+“That’s where we’ll work,” he said, voice flat. “We’ll start with the slow ones. You’ll see worse if you survive.”
+
+He strode ahead, Lily keeping pace.
+
+Her feet pressed dew from the grass, her heart thumping with a strange mix of terror and hunger—she wanted to see, to test herself, to know if she was as dangerous as everyone feared.
+
+They reached a low rise. Caesar signaled for her to crouch. He pointed into the mist.
+
+“See that?” he whispered.
+
+She squinted and let Mana Sense pour out in a fine net. There—shuffling between two sunken graves—lurked a corpse.
+
+“Some idiot buried their friends here,” he said with a bit too much emotion, as if he might have made the same mistake in the past.
+
+Its skin hung in grey folds and its jaw sagged while its eyes glowed red with a steady, hateful light. It dragged a rusted sword in one hand and its nails were black with rot.
+
+Lily nodded once.
+
+“Your first Undead,” Caesar said, his voice low, almost approving. “Remember what I told you. If it touches you, cut, burn, or run. Don’t let it bleed on you. Don’t let it bite.”
+
+He didn’t wait for a reply. He vaulted the rise, boots silent on the wet earth, then stepped aside. “Go.”
+
+Lily drew in a breath, steadied her nerves, and dropped into a fighter’s crouch—feet apart, knees bent, fists up.
+
+The Undead noticed the movement, mouth gaping wider. It shambled forward, sword scraping mud.
+
+Lily measured her distance, letting Mana sense track its every limb. It lunged, too slow, blade swinging for her shoulder.
+
+She pivoted, let it miss, and hammered her gauntleted fist into its face. The skull cracked, bone shattering beneath the knuckles.
+
+The thing buckled, then snapped up, jaws closing on empty air as she danced back.
+
+Another swing—faster, powered by Coniunctionis—shattered the monster’s skull into pieces.
+
+The corpse spasmed, then collapsed in a heap.
+
+The red gleam in its eyes guttered and went dull, and the lifeless sockets stared at nothing.
+
+The sword dropped with a clatter.
+
+Lily stood over the twitching body, chest heaving, blood humming with adrenaline.
+
+Caesar watched with no visible reaction, but the tightness at the corners of his eyes eased.
+
+“Good. Fast. Clean. You said you learned this from Calpurnia Cornelia?”
+
+Caesar referred to Coniunctionis—the massive acceleration and power Lily had demonstrated had surprised the man.
+
+“Aunt Calpurnia is a terrific warrior. Their martial art is incredible and they taught to me,” Lily explained.
+
+“I should bring her to men,” Caesar said, studying the corpse.
+
+“It’s only taught to girls,” Lily said.
+
+“A nice change of pace,” Caesar laughed, crouching to take an even better look at the dead zombie.
+
+“I didn’t expect the Undead to be this weak,” Lily said. “What level was that?”
+
+“Fifteen. But they stay weak. Their corpses are mostly for show until about level one hundred. Beyond that, Death Mana starts doing weird things. You don’t want them to level up, to absorb more Death, to absorb corpses. That’s when they get nasty. But at this level? Only the infection from the fight poses a real risk—one drop, no matter the level, will kill you. They’re shitty fighters, otherwise. I could take a dozen Undead at my level, but all they need is one scratch. One scratch that I can’t cut off, and that’s it. It’s goodbye from your Uncle Caesar.”
+
+The man rose and shook his head.
+
+“Anyway, you’re going to do that a hundred more times,” Caesar said. “Then we’ll see if you have what it takes to survive the next lesson.”
+
+Lily nodded, jaw set. She wiped the sweat from her brow and bent to collect the corpse’s weapon, glancing up at the line of trees beyond the rise. More shapes moved there, hunched and shambling, drawn by the noise, the smell of violence.
+
+“Uncle Caesar,” she said, voice low and fierce. “How do I fight more than one?”
+
+Caesar grinned—a brief flash of teeth. “With your eyes open. Don’t think. Move. Kill. Never trade. Don’t let them grab you. If you get tired, put as much distance between you and them as you can. Find shelter. Never take chances with the Undead.”
+
+* * *
+
+Caesar stood on the rise, arms folded over his battered chestplate, his expression carved in stone as he watched Lily approach the next patch of broken ground. The mist clung to her padded armor, turning her outline into a shadow among shadows.
+
+The first thing anyone noticed about the Undead in the half-light were their eyes. The sockets glowed with a raw, unnatural red—points of bloody fire burning in skulls where life had long since vanished. The light didn’t flicker or dim; it drilled straight through the fog, tracking every living thing with unblinking, perfect malice.
+
+Three of the monsters shambled out between the half-buried stones, their gazes fixed on Lily, the crimson glare never wavering, cutting through the morning haze with a cruel, steady brilliance.
+
+The rotten corpses dragged broken weapons and left streaks in the mud, the stench of them hitting hard—a stench of open graves and cold rot, strong enough to turn a grown man’s stomach.
+
+Lily moved forward with that same compact stance, her whole body braced behind the little buckler.
+
+When the first corpse lunged, she sidestepped—no wasted motion, just a slip of her foot, a turn of the hips, and her gauntleted fist cracked the thing’s jaw sideways. The blow sent the skull spinning and she spun with it, never letting her eyes off the next monster.
+
+The second one lunged. She didn’t panic, didn’t even blink. Her shield snapped up, absorbing the wild swing, and she slammed her knee into the thing’s ribcage. Rotten bone gave way. She shoved the corpse aside and pivoted toward the last one, snapping a punch into the side of its head. The skull caved with a dull crunch.
+
+She never stopped moving. Not once did she flinch at the sight of torn faces, not at the red, burning eyes, not at the snapping jaws. She barely reacted when putrid blood spattered her arm, only flexed her hand inside the heavy glove, checked that the leather held, and stepped back into a loose guard. When a fourth corpse appeared, stumbling fast and wild, she locked her eyes on its glowing stare, let it swing past her, and drove the reinforced buckler straight into its temple. The monster crumpled in the dirt.
+
+Caesar watched in silence, the mist swirling around his boots. He had seen enough men lose their minds fighting the Undead. He’d seen veterans vomit at the stench, break at the first sight of those red eyes. Most lost their heads—swung too wide, wasted precious energy, tripped over their own feet trying to keep distance. Some froze and died, or ran and died worse.
+
+Not Lily.
+
+She moved like she’d been drilling for years, every action pared down to what worked and nothing more. No twitch, no wasted glance, no panic in her breath. She didn’t even show disgust—not at the stench, not at the sight of those glowing eyes, not at the hands reaching for her.
+
+The three corpses at her feet stopped twitching. She looked at Caesar through the slit in her helmet, her shoulders squared and breath steady, not even winded.
+
+He shook his head, not with disbelief but with a cold, careful interest.
+
+If I saw that from a grown fighter, padded up like a green recruit, I’d assume it was some old monster—someone going back to the basics, re-learning from the ground up, Caesar thought. But she’s a child. She fights like someone who’s forgotten fear, someone who’s been taught by people who dedicated their whole life to martial arts.
+
+He motioned for her to step back.
+
+Lily checked her gloves for tears, made sure there were no gaps in the wrist. Then she wiped the gore off her shield on the grass, eyes scanning the field for new threats, her body angled to keep distance from the corpses.
+
+Caesar walked over, boots squelching in the mud. He crouched beside one of the fallen Undead, split its head open with the flat of his hand, and sniffed at the black ichor leaking from its skull.
+
+He looked at Lily.
+
+“Most people lose their heads when the dead come for them,” he said, tone flat, no hint of praise. “You didn’t flinch. Not at the smell. Not at the teeth. Not at the eyes. You moved like you’ve done this a hundred times.”
+
+She didn’t answer. She just nodded once, watching the tree line for more movement.
+
+He stood, dusted his hands on his armor, and studied her for a long moment.
+
+“Where’d you learn that?” he asked, not because he expected a real answer, but because he needed to know what kind of monster his niece was.
+
+Lily shrugged, barely a hitch in her shoulders. “I practiced. A lot. Calpurnia’s drills. And then, I just… focused. I don’t let anything in my head but what I’m doing.”
+
+Caesar grunted. “No wasted motion. No nerves. No panic. You’re not like the others, Lily. If I didn’t know better, I’d think you were just some old veteran hiding in a girl’s body. But you’re not even Classed. You shouldn’t move like that.”
+
+He turned, gestured at the corpses. “Get ready. More are coming.”
+
+Lily didn’t ask for rest. She just slipped into her stance, eyes hard, body already ready for the next fight.
+
+Caesar watched her move, the way she let every threat come to her, the way she measured distance with every step, the way she killed without any of the drama or rage that burned up most recruits.
+
+She’s precise. She’s brutal. She wastes nothing, Caesar thought. Not even a glance. It’s not natural. It’s the kind of efficiency you only see in the greatest fighters.
+
+He narrowed his eyes, tracking how she shifted between the corpses. The System keeps track of everything—even before Class Day. Everyone starts picking up skill levels just by surviving and fighting, long before they ever see a status screen. It’s all invisible, but it counts. All those hours, every kill, every perfect move, every mistake—it piles up, just out of sight.
+
+He watched as Lily cleaned off her gauntlets and reset her stance, eyes sharp and unblinking. He tried to imagine how many skill levels she’d already stacked from doing this day in and day out. Most noble kids got maybe a couple of skill levels from drills, from sparring, from the handful of fights that teachers let them have. But Lily? If she kept this up for a year—if she kept facing the Undead with real stakes, real fear—by the time she reached her Class Day, her skill levels would be obscene. She’d have the kind of foundation it took a lifetime to build.
+
+No one would see it until she finally triggered her Class and the System dumped all the hidden skills and perks into her lap at once. He almost felt sorry for the idiots who thought they could compete with that.
+
+Caesar nodded, keeping his expression as flat as ever as his niece destroyed another small group of zombies that had crawled close after hearing the noise from the fight.
+
+“Again.”
+
+He watched her move, thinking.
+
+The real monster isn’t the one who’s Classed—it’s the one who built their skills in the dark, year after year, while the rest of us looked away.
+
+If she keeps this up… perhaps, I wouldn’t have to go to another continent.
+
+This child…
+
+Is she the answer to our problems?
+
+And what happens if I teach her how to wield the Sacred Fire? How much stronger can she get?

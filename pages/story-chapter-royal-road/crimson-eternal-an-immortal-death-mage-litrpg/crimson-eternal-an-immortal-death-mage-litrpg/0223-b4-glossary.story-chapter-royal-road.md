@@ -1,0 +1,429 @@
+---
+id: 504b5cdc-9764-5250-8f98-ecee10707bc1
+page-type-slug: story-chapter-royal-road
+title: "B4 | Glossary"
+slug: 0223-b4-glossary
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 223
+ownLength: 6743
+unit: words
+ownProgress: 6743
+publishedAt: 2024-10-30
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1875818/b4-glossary"
+royalRoadId: "1875818"
+markedReadAt: "2026-06-29T19:13:18.982Z"
+---
+
+Vortel
+
+Description: The World of Vortel is a world where one tenth of the population will be born with a special ability. These ability users are classified in two different ways. Special Class Ability Holders, or SCAH, who have a unique ability that no one else has ever had before, and Regular Ability Holders, or RAH.
+
+The abilities come in various different classifications:
+
+Physical: Physical Ability Holders gain an increase to their body in some physical manner such as superstrength or speed.
+
+Magical: Magical Ability Holders gain the ability to use one magical element and gain a mana pool to go along with the element.
+
+Special: Special Ability Holders are the in between. The abilities that cannot be classified in the other two classifications but are still abilities. These can include a hybrid of Physical and Magical, or neither. Some examples include the ability to use a single powerful attack, the ability to set yourself on fire but feel no pain and take no damage, or the ability to nullify abilities. But these abilities do not give the user any mana to use.
+
+There is only one continent on Vortel as all of the others have been destroyed over the years through war, leading to the Great Acclaims being established, banning the use of strategic abilities and strictly enforcing it within both nations to lock down any person with a strategic level ability and restrict the use of their ability.
+
+Aran
+
+Description: The continent of Aran houses the Albarian and Arterian nations, both of whom have been at war for as long as either side can remember. The Albarians want the gold and metals that the Arterians have, and the Arterians want the fertile land that the Albarians have. And neither are willing to share with their eternal enemy.
+
+New Albaria
+
+Description: The Albarian nation treats its soldiers generally well, but if a soldier has a bad officer in charge of them they will not have a good life.
+
+Ruled by a council.
+
+Ability Holders are required to enlist into the military within four years of graduating from lower education, by the time they turn 22 years old. They are also required to attend special classes to help them learn how to control their ability during their education.
+
+Military Rankings:
+
+Private
+
+Corporal
+
+Sergeant
+
+Warrant Officer
+
+Second Lieutenant
+
+First Lieutenant
+
+Captain
+
+Major
+
+Lieutenant Colonel
+
+Colonel
+
+Major General
+
+Lieutenant General
+
+General – 9 Generals
+
+Eternal Dynasty
+
+Description: The largest commerce network and empire in the entire universe. It is a completely neutral force that does not directly interfere with other powers no matter what. The Dynasty is ruled by a single Emperor who has absolute power, however, he rarely interferes with his subjects, merely directing trade and managing the largest business deals the Dynasty holds. While taking a large chunk of profit from all the merchants working under the Dynasty’s name and his protection.
+
+The Dynasty spans over dozens of planets across the universe, with connections to nearly every single important nation.
+
+Military Rankings/Social Structure:
+
+Zero Star Merchant – Initial position for all new merchants to the Dynasty. It is also the grunt position that is used in the military as the base soldier.
+
+One Star Merchant – The One Star Merchant has authority over all merchants with fewer stars than they have. They also act as lower level officers within the military.
+
+Two Star Merchant – The Two Star Merchant has authority over all merchants with fewer stars than they have. They also act as lower level officers within the military.
+
+Three Star Merchant – The Three Star Merchant has authority over all merchants with fewer stars than they have. They also act as lower level officers within the military.
+
+Four Star Merchant – The Four Star Merchant has authority over all merchants with fewer stars than they have. They also act as higher level officers within the military. They can also directly contract with an official business partner of the Dynasty, granting both them and the partner benefits.
+
+Five Star Merchant – The Five Star Merchant has authority over all merchants with fewer stars than they have. They also act as higher level officers within the military. They can also directly contract with an official business partner of the Dynasty, granting both them and the partner benefits.
+
+Six Star Merchant – The Six Star Merchant has authority over all merchants with fewer stars than they have. They also act as higher level officers within the military. They can also directly contract with an official business partner of the Dynasty, granting both them and the partner benefits.
+
+Seven Star Merchant – The Seven Star Merchant has authority over all merchants with fewer stars than they have. They also act as top commanding officers within the military. They can also directly contract with an official business partner of the Dynasty, granting both them and the partner benefits.
+
+Eight Star Merchant – The Eight Star Merchant has authority over all merchants with fewer stars than they have. They also act as top commanding officers within the military. They can also directly contract with an official business partner of the Dynasty, granting both them and the partner benefits. They are also not required to report for military duty if they are directly contracted with an important business partner.
+
+Nine Star Merchant – The Nine Star Merchant has authority over all merchants with fewer stars than they have. They also act as members of the war council within the military. They can also directly contract with an official business partner of the Dynasty, granting both them and the partner benefits. They are also not required to report for military duty if they are directly contracted with an important business partner.
+
+Ten Star Merchant – The Ten Star Merchant has authority over all merchants with fewer stars than they have. They also act as the top generals within the military. They can also directly contract with an official business partner of the Dynasty, granting both them and the partner benefits. They are also not required to report for military duty if they are directly contracted with an important business partner.
+
+Emperor – He has absolute power over the entire nation and its citizens.
+
+Unlike many other nations, the Eternal Dynasty’s military is stylized based entirely off of the ranking of the merchant in question, with one of the requirements of each Star Rank being combat capability and strategic thinking.
+
+Luk’tar
+
+Description: A largely crafter dominated world ruled by six clans who are often at a cold war with each other until recently when it finally broke out into a full war. The world is covered mostly in forests on the surface, a high amount of humidity with vast oceans and lakes, Grand Trees that stretch higher into the sky than people can see, and six different Gates to other worlds.
+
+Military Rankings:
+
+Thrall: New to everything and has a lot to learn.
+
+Huskarl: Lowest ranked officer.
+
+Vanir: Middle ranked officer.
+
+Merkismathr: High ranking officer chosen by the members of the Council.
+
+Stallari: Leading general of the military chosen by the Clan Leader.
+
+Council Members
+
+Clan Leader
+
+Clans:
+
+Byrne: The clan focused on military development with very little manpower in terms of their own military. Their Gate is connected to the Eternal Dynasty on the Alpha Tier world Eternus.
+
+Sullivan: The clan focused on artifact development with a strong focus in their military’s manpower. Their Gate is connected to the neutral Beta Tier world called Atlantis. DEFEATED
+
+Gallagher: The clan focused on industrial structures with the most powerful defenses of the clans in terms of building strength with a manpower greater that is the second weakest of the clans. Their Gate is connected to the Crimson Flag, with ties to War, the Horseman of the Apocalypse, on the Alpha Tier planet Conquere. (pronounced con-q-where)
+
+Nolan: The clan focused on enchantment with a strong focus on mages within their military. Their Gate is connected to the Arcadian Society on the Alpha Tier world Arc. DEFEATED
+
+Keane: The clan focused on potion development and alchemy also with a strong focus on mages within their military. Their Gate is connected to the Arcadian Society on the Beta Tier world Raja. DEFEATED
+
+Sorrel: The clan focused on bladesmithing with a smaller military filled with more powerful officers. Their Gate is connected to the Grand Silvanian Empire on the Alpha Tier world Silverfall. DEFEATED
+
+Atlantis
+
+Description: A world ruled by a single absolute monarchy, with a King or Queen ruling over it. The monarchs have absolute power, however, unlike many other nations, the rulers of Atlantis are known to treat their people fairly. Atlantis is largely known as one of the greater but not greatest aquatic powers of the universe. However, it is still overshadowed by the Eternal Dynasty. The other nation of which’s capital planet is an ocean world. They make their money through sending out mercenaries to other nations and acting as a tourist planet, where tourists may come in from other worlds and enjoy the underwater cities known around the universe for their beauty. Meanwhile some hunters often come to the world simply for the Grand Ocean, whether to enter it or to see it.
+
+Their middle name is their family name. And each prince and princess inherits one mercenary company based on their surname.
+
+Military Rankings:
+
+Marine and Sailor: The bottom two ranks of the Atlantis military. The marines are the baseline grunts of the military meant for direct combat, whereas the sailors are the baseline grunts of the military meant for ship combat, whether submarine or above water.
+
+Petty Sailor/Marine Officer: Officers who hold various specialized roles on a ship and amongst a crew of marines, such as gunnery or navigation.
+
+Chief Petty Sailor/Marine Officer: The highest-ranking enlisted member on a ship or in a crew of marines, responsible for the crew's discipline and morale.
+
+Ensign: A middle-ranking officer that can be stationed either as a sailor or a marine.
+
+Lieutenant: A middle-ranking officer higher than Ensign that can be stationed either as a sailor or a marine.
+
+Commander: Second-in-command on a ship or in a squadron of marines, responsible for assisting the captain and managing ship and squadron operations.
+
+Captain: The commanding officer of a single ship in the Atlantean navy or of a single league of marines. They are responsible for the ship or league's crew and their mission.
+
+Commodore: A senior officer in charge of a fleet of ships or a legion of marines. They are responsible for planning and executing naval missions.
+
+Admiral: Second highest rank of the entire navy of Atlantis, responsible for leading naval operations.
+
+High Admiral: The highest-ranking navy officer in Atlantis, responsible for overseeing the entire navy and making strategic decisions in times of war.
+
+Princes and Princesses: They have control over the navy on par with an Admiral unless they are the First Princess or First Prince, at which point they have authority directly between an Admiral and a High Admiral.
+
+King and Queen: They have absolute control over the entirety of Atlantis and the military.
+
+Royal Mercenary Companies:
+
+Azurion Company: The company currently belonging to Nerissa Atlantus Azurion, Ninth in line for the Throne of Atlantis, and Fifth Princess. She was eight years old and therefore doesn’t manage the company herself. The Azurion Company focuses largely on mercenaries sent out for use by other companies on Atlanta itself.
+
+Caelum Company: The company currently belonging to Selenia Atlantus Caelum, Eighth in line for the Throne of Atlantis, and Fourth Princess. She was fifteen years old and only just started managing her company herself with some help. The Caelum Company focuses largely on mercenaries sent out for use by other companies on other planets.
+
+Althea Company: The company currently belonging to Azura Atlantus Althea, Seventh in line for the Throne of Atlantis, and Fourth Prince. He was one hundred and fifty years old. The Althea Company focuses on mercenaries sent out to support other mercenaries and companies in combat but not directly in the combat themselves and are largely made up of support and healer Ability Holders.
+
+Aquarius Company: The company currently belonging to Koralis Altantus Aquarius, Sixth in line for the Throne of Atlantis, and Third Princess. She was one hundred and sixty years old. The Aquarius Company focuses on mercenaries sent out to cities on Atlantis.
+
+Neptune Company: The company currently belonging to Typhon Atlantus Neptune, Fifth in line for the Throne of Atlantis, and Third Prince. He was one hundred and seventy-five years old. The Neptune Company focuses on mercenaries meant to defend the Gates and keep spies from entering Atlantis.
+
+Sirenna Company: The company currently belonging to Marisandra Atlantus Sirenna, Fourth in line for the Throne of Atlantis, and Second Princess. She was one hundred and eighty years old. The Sirenna Company focuses on mercenaries sent out to directly support combat and warfare of loosely allied nations.
+
+Aquarion Company: The company currently belonging to Nauticus Atlantus Aquarion, Third in line for the Throne of Atlantis, and Second Prince. He is twins with the Second Prince, and they were both two hundred years old. The Aquarion Company focuses on sending out specialized mercenary teams meant for covert operations.
+
+Aegir Company: The company currently belonging to Azarus Atlantus Aegir, Second in line for the Throne of Atlantis, and First Prince. He is twins with the Third Prince, and they were both two hundred years old. The Aegir Company focuses on sending out mercenary leagues and ships to close allies in times of their war with others.
+
+Nauticus Company: The company currently belonging to Azurona Atlantus Nauticus, First in line for the Throne of Atlantis, and First Princess. She was two hundred and twenty years old. The Nauticus Company focuses on sending out entire legions of mercenaries to be used in warfare with other nations and by other nations. It is also the main Company of Atlantis.
+
+All of the Companies can be used as mercenaries sent to others or to work for Atlantis itself.
+
+Not all mercenaries are specifically for combat as some are used for recreational and construction jobs, and various other jobs of the like.
+
+Arian
+
+Description: A lower population nation with a level of technology on the lower end of the universe governed by a council of tribe chieftains and a single kahuna. The decisions of the nation are all made by a group vote amongst the council and the kahuna, however, many decisions can be made by the kahuna on their own.
+
+The world of Arian is separated into floating islands spread across the sky world, where each island has a single tribe on it, each of whom are represented in their council.
+
+However, Arian has no military, and each tribe has their own defenses largely consistent of powerful independent fighters.
+
+Frost Clan
+
+Description: The nation ruling over the world of Jotunheim with a level of technology at the bottom rung of the universe. They are led by a single Clan Leader whose emotions are always erased the moment they take control, along with a council of Chiefs. However, the Clan Leader has absolute control over the nation due to their inability to be affected by emotions.
+
+The military of the Frost Clan is separated into three ranks:
+
+Vanguard – The forces of the Clan that are sent to attack other worlds.
+
+Frost Sentinels – The forces of the Clan that stay on Jotunheim to defend their own world.
+
+Frost Keepers – The names of officers serving below Clan Chiefs within the Frost Clan.
+
+The Clan Chiefs each have their own forces and take commands directly from the Clan Leader.
+
+Rex Dynasty of the Dead
+
+Description: The most technologically advanced nation in the universe. They created the Gates connecting each world, created the Universal Feed keeping the worlds connected through the internet, and manage each and every Gate’s creation and management except for Gates created by the Eternal Dynasty.
+
+The Rex Dynasty of the Dead is ruled in an absolute monarchy by the Pharaoh, Raja Singh Amunet, and the nation and its leader both worship Death itself along with the Spirits of Death. Death is seen as a reward in the Dynasty and not a punishment. Only those who have done enough for the nation are allowed to die. Meanwhile those who do die yet have not done enough are raised as undead and forced to work until they have done enough if they killed themselves, or they will be resurrected if they were killed by other means such as murder. However, various other factors may influence it as well, such as how much benefit the being in particular may grant the nation.
+
+The necromancers of the Rex Dynasty of the Dead are the only ones to be publicly known to never have summoned a Death Spirit and be killed by the Death Spirit summoned. Every Death Spirit summoned by the necromancers of the nation left without killing their summoner, regardless of if they carried out the wishes of the summoner or not.
+
+The Rex Dynasty of the Dead’s military:
+
+Pharaonic Royal Guard – The personal bodyguards of the Pharaoh. They are at the top of the military and have the right to command any other member of the entire military to do anything.
+
+Death Legion – The ground forces of the military. They handle the ground warfare on other planets.
+
+Death Sentinels – The defensive forces of the military tasked with defending the Rex Dynasty’s territory. They are often split up into enforcers to keep the peace on the worlds and military sectors to defend against attackers and have the lowest ranks amongst the military varying depending on what worlds they are stationed on.
+
+Death Fleet – The space and naval forces of the military tasked with marine and space warfare. They are often the highest ranking members of the military and are tasked with defending their worlds and attacking other worlds from space. They also station themselves around the capital to defend the artificial mechanical planet known as Rex from others.
+
+Nobility – The nobility have a large amount of control over the military, with the noble rankings ranging from baron to duke, with barons having control over low-ranking officers and dukes having command over up to mid-ranking officers. However, no nobles have control over high-ranking officers. Meanwhile the planetary governor of every planet is at the very minimum a viscount of the Dynasty.
+
+Shengshi Dynasty
+
+Description: A harsh nation on both natives and non-natives alike with a level of technology on the lower end of the universe. It is ruled by the emperor with a council of state officials who got the highest scores on various tests to earn their positions.
+
+The nation has no measures in place to help out the poor or the struggling, and purposefully uses them to benefit the higher ranking members of their society. Whether they got to where they are through birth or skill. And the nation does not trust outsiders in the slightest, only allowing them in unimportant cities while banning them from more important cities to the nation.
+
+The military is led by a single general who has the same ranking in regards to military decisions as the princes of the nation. Meanwhile the emperor has the authority to direct where a war will go, however he has no control over what exact actions the military will take in any particular war.
+
+The governing of the nation is split between the state officials, the emperor, and the consorts, with each having their own responsibilities. Meanwhile the consorts are all titled off of different flowers.
+
+The nation currently has six consorts, including the Rose Consort, the Daisy Consort, the Lily Consort, the Orchid Consort, the Chrysanthemum Consort, and the Azalea Consort. Meanwhile there are two princes and no princesses within the nation.
+
+Grand Silvanian Empire
+
+Description: The second largest empire in the world in terms of pure number of owned planets and citizens, with the Dread Empire being the largest. It largely specializes in healers and protection and has a strange focus on medieval aesthetics. One beginning with its emperor. And it is ruled absolutely by the Emperor of the Grand Silvanian Empire, with the other nobles each having some sway with him as he does truly listen to his noble court.
+
+The nation makes up the majority of the healer market around the universe, providing healers through the Healer’s Order to every world with ties to the nation. Meanwhile they fund themselves largely through the Spires and the magical iron and magical steel within, which are leagues below the powerful magical silver but still incredibly powerful for a naturally found metal, and worth an extremely large sum. One large enough to fund the running of thousands of worlds.
+
+The Grand Silvanian Empire is in a constant cold war against all of the Horsemen of the Apocalypse except for Aria, who of which the emperor considers like a niece to him.
+
+Military:
+
+The Grand Silvanian Empire’s military is split up into Knightly Orders, each of whom belongs to a different noble. With the Royal Order of Knights being directly under the Emperor’s command and far above the others in power. However, all Knightly Orders are required to listen to the emperor as well.
+
+Royal Order of Knights: They serve the royal family and include ten Class S ability holders along with millions of Class A ability holders. The captains and commanders of the order also have authority over everyone within lower authority Orders. Which include every single other Order within the nation.
+
+Violet Order of Knights: They serve the Archduke’s family and include three Class S ability holder along with millions of Class A ability holders. The captains and commanders of the order also have authority over everyone within lower authority Orders. Which include every single other Order within the nation except the Royal Order.
+
+Aqua Order of Knights: They serve the Aqua Duke’s family and include a single Class S ability holder along with millions of Class A ability holders. The captains and commanders of the order also have authority over everyone within lower authority Orders. Which include every Order that serves a noble beneath the rank of duke or duchess.
+
+Emerald Order of Knights: They serve the Emerald Duchess’s family and include a single Class S ability holder along with millions of Class A ability holders. The captains and commanders of the order also have authority over everyone within lower authority Orders. Which include every Order that serves a noble beneath the rank of duke or duchess.
+
+Amber Order of Knights: They serve the Amber Duchess’s family and include a single Class S ability holder along with millions of Class A ability holders. The captains and commanders of the order also have authority over everyone within lower authority Orders. Which include every Order that serves a noble beneath the rank of duke or duchess.
+
+Gray Order of Knights: They serve the Gray Duchess’s family and include a single Class S ability holder along with millions of Class A ability holders. The captains and commanders of the order also have authority over everyone within lower authority Orders. Which include every Order that serves a noble beneath the rank of duke or duchess.
+
+Governance:
+
+The nation’s everyday operations are controlled by the Council of Nobles, which only allows nobles from the rank Marquis and above to join. But all decisions can be overruled by the emperor should he desire.
+
+Dread Empire
+
+Description: The Dread Empire is in a constant state of starvation. It is ruled absolutely by the Horseman of the Apocalypse, Famine, who has zero cares for his own people outside of their use as a source of famine to level him up. However, he tries to stop killing as much as possible for no other reason than to have more people to starve. So the nation still has the lowest death count out of most nations in the universe despite it being the worst place to live.
+
+Additionally, the Dread Empire is the largest nation in the universe in both number of worlds owned and population. With tens of thousands of worlds under its control and quadrillions of people.
+
+Meanwhile every last citizen including the nobles are required to sign a body contract blocking them from killing themselves or allowing others to kill themselves in any way whether directly or indirectly. They are also forced to obey incredibly cruel laws meant to put them in a constant state of starvation and fear.
+
+The military is directly under the control of Famine’s Nine Generals and his Grand General, who of which has a perfect cloning ability reliant on illusion magic, unlike the Crimson Empire’s Class S perfect ability user that uses life and death magic.
+
+There are no officers in the military as the Dread Empire’s method of fighting often tends to be simply throwing their soldiers in numbers at their enemies without a care for their lives. Then reviving them afterwards by paying a massive price to their levels with void mages, their nation having been banned from the Void Temples long ago.
+
+Every single world at the end of the day is governed by one of the Grand General’s clones. With a substitute governor assigned from the upper class nobility.
+
+Universe
+
+Revival is possible if a strong enough void mage or a Void Spirit is present. They are capable of pulling a soul from the void and placing it back in the body at a significant cost levels from the one revived. However, conditions have to be fulfilled for the revival to work. Such as the being who is getting revived needing to be at least level 10 if it is a void mage doing the resurrection. However, a Void Spirit can revive most people with only a few restrictions.
+
+Every world has a World Core where the users of the System are allowed to reset or lower their levels. However, these changes are permanent and cannot be revoked. Furthermore, people are not capable of forcing others to reset their levels as the System will detect attempts to do so.
+
+Invasions of new worlds are considered an honor for those who participate, and entire forces are created just to prepare for invasions, filled with people who have either stopped themselves from leveling or have had their levels purposefully reset to 1 at a World Core.
+
+Coordinates of new worlds are found by spatial magic users, and the worlds are classified by a division of seers from the Arcadian Society into five different Tiers. Alpha, Beta, Gamma, Delta, and Epsilon, with Alpha being the highest Tier.
+
+These Tiers are decided based on planet size, population, quantity and quality of Ability Holders, and resources.
+
+Level of the user plays an important role in society outside of Vortel. Meanwhile most adults are already at least level ten, with the higher level average adults being around level 20.
+
+Raising the level of someone’s class has various effects on the user in question. Some of them include but aren’t limited to raising their physical strength, their mental capacity, their magical power, their mana capacity, and their lifespan.
+
+Every user in the System tends to live for around 100 years on average, with every 100 levels doubling the user’s total lifespan.
+
+Worlds across the universe vary in their levels of technology and magical understanding, with Vortel’s level of technology being just a small amount above the average level of technology in the universe, and their understanding of magic a little above that.
+
+System
+
+Description: The System is an instinctive defense mechanism on every single planet in the universe, and it activates when invaders arrive to attack the planet.
+
+Class: A Class is automatically assigned to every user based on their natural ability and talents. Leveling up their Class will give them skills that will benefit them in further accomplishing what their Class requires along with possible physical or magical enhancements to their own body.
+
+Ability: An Ability is whatever special ability the user was born with.
+
+Level: A user’s level is increased by doing the action that their Class centers around.
+
+Planets are tiered based on various factors including but not limited to the size of the planet’s population, the number of Ability Holders they have, and the power of the Ability Holders on the planet. And they are rated between Tiers Alpha, Beta, Gamma, Delta, and Epsilon, with Alpha being the highest.
+
+Abilities are divided into five Classes or Categories, the term varying depending on the culture classifying them.
+
+Category 1/Class D
+
+Category 2/Class C
+
+Category 3/Class B
+
+Category 4/Class A
+
+Category 5/Class S
+
+Aria Crimson
+
+Description: The main protagonist of the story and a true immortal. She was a soldier fighting on the side of Albaria and was on the frontlines when the gates open and the System Initializes. And she is the only surviving member of the Crimson Noble Household – a family made up of Category 5/Class S Special Ability Users, each with their own unique ability. However, all of the money of the household was taken away by those who killed her family off, and she is the only one left because it is impossible to kill her. So as the only way the Emperor could think of to get rid of her, he sent her to the frontlines where she is expected to fight for eternity for the Empire. But he lost his political and military power, and was eventually killed by Aria with his soul core devoured so that he could never revive again.
+
+Aria then left Vortel and arrived on Eternus, the Capital world of the Eternal Dynasty where she began living life as she pleased. Going from one world to the next with her friend Shirogane.
+
+Eventually she learns that she is the Princess of the Crimson Empire and that the family who raised her were in actuality clones and that her real blood family is still alive. And at the end of a war she was stuck spectating between the Grand Silvanian Empire and various other nations, she is finally separated from Shirogane, beginning her travels once more through the worlds alone this time. Albeit with her immortal cat, Asher.
+
+She is beloved by the Death Spirits and the people of the Rex Dynasty of the Dead.
+
+Aria doesn’t care for anything that’s bothersome and is a laid back person in general. And if something doesn’t interest her, she won’t care about it.
+
+Ability: True Immortality – The user will never die and will always regenerate from any sort of damage done to them given time. Furthermore, the amount of time it takes to heal from a wound will shorten every time that exact same type of wound is received.
+
+Class: Harbinger of Death – One of the four Horsemen of the Apocalypse, the harbinger must bring death unto others to grow stronger.
+
+Characters
+
+Pestilence: Pestilence, otherwise known by the name of Victor von Lüneburg, is a mad man who is obsessed with science with a specific focus on poisons and diseases. Victor is always in his lab on the planet of Vest and rarely sets foot out of it. He lives on a secluded planet, only ever leaving in order to test out a new virus, plague, or disease he has made, wiping out the populations of entire planets in the process.
+
+War: War, otherwise known by the name of Lucius Octavio, is a war fanatic who brings war wherever he goes. He is the absolute ruler of a military nation called the Crimson Flag and is always on the battlefield, his class giving him the ability to fight forever without rest.
+
+Famine: Famine, otherwise known by the name of Ignatius Darkheart, is a brutal tyrant who starves his people for obedience within his ever-growing Dread Empire. He is also a warmonger who travels from planet to planet, spreading his rule along with the eternal famine that comes with it. Ignatius also grows stronger by the number of starved near him, so the further he spreads his rule the stronger he becomes.
+
+Isabella de la Vega: The ruler of the Arcadian Society that has dominance over the world of Arc. She is a mage with the ability to keep three spells ongoing indefinitely as long as she pays the mana price to activate them initially, with no more price required to upkeep them. And her Arcadian Society is a society of mages with a powerful school of magic.
+
+Leopold da Silva: The Emperor of the Grand Silvanian Empire ruling over the world of Silverfall. He is a kind ruler who loves his people but is ruthless towards his enemies and goes the extra mile to remove threats to his Empire before they become a problem.
+
+Raja Singh Amunet: The Pharaoh of the Rex Dynasty of the Dead. He is a brutal tyrant who worships death and the Spirits of Death and views death as a reward for those who have fulfilled their purpose. And his people believe it as well.
+
+Hassan al-Malik: The Leader of the Council of Darkness, an Assassination group that is spread out across most of the powerful worlds initialized into the System. He is a psychopath without the capacity for emotions and cares only for coin, same as his assassin underlings.
+
+Shirou Amatsuraki: The Emperor of the Eternal Dynasty, a neutral empire that wishes only to stay afloat forever without entering conflict with other nations. Shirou himself is a lover of commerce and runs the empire as a merchant would. He has white eyes and shoulder-length white hair, and enjoys fiddling with a coin in his hands.
+
+Artorius Crimson: The Emperor of the Crimson Empire, an underground empire with many of the most powerful ability holders in the universe. He is Aria’s biological father. His ability is Death Lightning.
+
+Adrian Crimson: The Prince of the Crimson Empire, an underground empire with many of the most powerful ability holders in the universe. He is Aria’s biological brother. His ability is Life Clone.
+
+Lucilia Crimson: The Empress of the Crimson Empire, an underground empire with many of the most powerful ability holders in the universe. She is Aria’s biological mother and one of the Nine Grands. Her ability is Life Drain.
+
+Ashur Kaelar Valan: The emperor of Arteria. DEAD
+
+Lysandre de Pyre Voltaire: The former emperor of Albaria. He is power hungry and cares only about himself without any care for the nation. To the point that he eliminated the Crimson family simply due to their power and influence threatening the little power he has remaining over the people and politics. DEAD
+
+Elara Crescent: The First General of Albaria. Serious, intelligent, leader, and cares about skill more than anything.
+
+Rowan Vale: The Second General of Albaria. Analytical and ruthless. Meanwhile he appreciates tactical maneuvers and intelligence.
+
+Calyx Star: The Third General of Albaria. Quiet, reserved, and in charge of the Third Army, which is in charge of gathering the nation’s intelligence.
+
+Seraphina de Aragon: The Fourth General of Albaria. She has the most powerful Super Strength Ability in the world and can crush a skull with her bare hands with ease. Supports Aria. And she does not like how powerful ability holders are treated.
+
+Selene Morn: The Fifth General of Albaria. She has long blond hair and golden eyes and is blunt and to the point. Supports Aria because her brother, the Eighth General, supports her. While she is very much a nationalist who loves her nation and will do whatever she can to benefit it, she will assist her brother over her nation any time.
+
+Alaric Ashfall: The Sixth General of Albaria. He is an old man who doesn’t participate in any of the political squabbles surrounding the generals and therefore has the least power amongst them.
+
+Valerie Sylver: The Seventh General of Albaria. She has a screw loose and does what she wants, when she wants, and when she becomes interested in something.
+
+Victor Morn: The Eighth General of Albaria. Supports Aria. He is passive aggressive and sometimes is hard to figure out.
+
+Aeliana Fang: The Ninth General of Albaria. She is power happy and enjoys having as much power as she can get her hands on.
+
+Frank Rogers: Part of Team Predator with a Category 5 Enhancement ability that lets him flood energy into other people’s bodies, replenishing their mana, stamina, and healing them while also increasing their strength and speed. He doesn’t speak much but when he does, everyone listens. Meanwhile he sees himself in Aria and takes a liking to her. He has a large frame with black hair and green eyes and is in his early forties in age. Overdrive.
+
+Leonardo Striker: Leader of Team Predator with a Category 5 ability that lets him control kinetic energy to a degree. He wishes for his team to get along well and be more informal, so he’s constantly making attempts to get them closer together. And he especially likes Category 5 abilities, finding them all to be interesting as he tries to learn more about them. He has black hair and purple eyes with an average height. He is in his mid-thirties. Twilight Huntsman.
+
+Hannah Harvey: Part of Team Predator with a Category 5 Perception and Protection ability that allows her to sense everything with mana in a ten kilometer radius around them and use her own mana to create an incredibly tough barrier within a single kilometer radius around her. She is very excited to have another girl joining Team Predator but is saddened by how Aria treats them. She is taller than Aria and has brown hair with equally brown eyes and is in her mid-thirties in age. Mystic Warden.
+
+Adrian Snow: Part of Team Predator with a Category 5 ability that lets him create blades of ice that are nearly indestructible and grow stronger with each unsuccessful blow against the target. He is a lady-killer who often goes to mixers when given time off. So he is very interested in Aria when she joins Team Predator since she’s a beautiful girl. However, he believes she is too young for him and to be an officer in general and believes that she should retire. He is tall and has white hair and blue eyes and is in his mid-thirties in age. Arctic Edge.
+
+Jason Vargas: Part of Team Predator with a Category 5 ability that lets him read the minds of whoever he touches and dig into their memories. He acts kind and jokes with everyone but when it comes to his job, he is ruthless and follows Striker’s orders to a T. He sees Aria as a weapon to be used, just like himself. So he has nothing against her joining the team and welcomes her. He has gray hair and eyes and is in his late thirties in age. Psionic Inquisitor.
+
+Vorelius Cornelius Caesar: Emperor of the Grand Roan Empire.
+
+Ryohei Shirogane: The Silver Merchant, traveling companion, and contracted merchant contracted to Aria. He is a Nine Star Merchant and Prince of the Eternal Dynasty whose level is incredibly high but unknown, and he has the Class S ability to manipulate and create metal and turn it into liquid or molten metal.
+
+Aisling Sullivan: Clan Leader of the Sullivan Clan on Luk’tar.
+
+Darragh Sullivan: On the Sullivan Clan’s council and brother of Aisling.
+
+Sean Byrne: Clan Leader of the Byrne Clan on Luk’tar.
+
+Azura Atlantus Althea: Seventh in line for the Atlantean throne and friend of Aria’s. He likes setting up cafes.
+
+Nerissa Atlantus Azurion: Ninth in line for the Atlantean throne and a friend of Aria’s who thinks of Aria as an older sister. She was only 8 years old when she first met Aria but is now an adult. She quickly became close to Aria and shares Aria’s interest in explosions.
+
+Selenia Atlantus Caelum: Eighth in line for the Atlantean throne and a friend of Aria’s who thinks of Aria as an older sister. She was only 15 years old when she first met Aria but is now an adult. Sel enjoys battling very much and would often spar with Aria or join her on hunts to the Grand Ocean during Aria’s time on Atlantis.
+
+Akela Nalohia: Kahuna of Arian.
+
+Hao Xing Shengshi: Emperor of the Shengshi Dynasty.
+
+Lei Xao Shengshi: Elder Prince of the Shengshi Dynasty.
+
+Mo Xao Shengshi: Younger Prince of the Shengshi Dynasty.

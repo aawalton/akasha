@@ -1,0 +1,127 @@
+---
+id: a075922b-77dd-5b29-a492-c0c27ffcef3d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,383 - Eternal Glory"
+slug: 0060-chapter-1383-eternal-glory
+partOf: defiance-of-the-fall
+position: 60
+ownLength: 3113
+unit: words
+publishedAt: 2025-11-27
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2798776/chapter-1383-eternal-glory"
+royalRoadId: "2798776"
+---
+
+It was as though the Karmic Grand Array outside had realized something was wrong, that the future was moving in a forbidden trajectory. Vast numinous clouds started forming with incredible speed, covering the darkness in the sky with Buddhist light. Resplendent mountains, ancient temples, holy beasts, and countless practitioners of the Buddhist faith emerged from the clouds to safeguard the Dharma.
+
+The air itself was transforming, shimmering with Sanskrit characters filled with meaning. In the blink of an eye, the memory domain had been completely sealed off. As a crowning stroke, enormous statues appeared in the four cardinal directions. Their halos were like radiant suns that lit up the whole Crushing Hell. Looking at them was to look at paradise, and Zac was forced to look away.
+
+The golden Buddhas were so enormous that their heads were obscured by the numinous clouds. It was for the best. There were consequences to looking directly at the face of God. The latent aura of the statues was too powerful, and they became the focal points of the accumulated forces outside. The memory domain’s absolute divide couldn’t withstand the outside pressure any longer.
+
+Unconditional benevolence and love as vast as the sea spread through the domain, suppressing Karmic Death and placating the ancient murderous will. Zac could sense how the fluctuating Imperial Faith transformed, yet the domain remained absolutely stable. Meanwhile, immense amounts of Karmic Energy poured into the slumbering boulders.
+
+The Sangha was going all out to stop the slumbering entities from awakening, or perhaps even convert them. A few boulders were even starting to sprout Sanskrit. If left unchecked, it would be a Vajra who’d emerge, not an Imperial Executioner. The boulder before Zac was no different. On the contrary, it appeared to be a main target, with enormous levels.
+
+However, Zac had already awakened the consciousness slumbering within, and the boulder fiercely resisted the manipulation. The Karmic Energies were rejected, after which some turned their attention to Zac. He was already struggling against the Sangha’s growing influence inside the memory domain. It meddled with the Imperial Fate’s ability to weaken the Crushing Death, like it was forcing Zac to repent for his sins.
+
+Out of options, Zac quickly threw out Tavza’s Talisman. A field of Abyssal Death surrounded him and the boulder. It swallowed Karma and silenced the Dharma, providing some temporary relief. Unfortunately, it couldn’t do much against the enormous levels of Karmic Energy that had already infiltrated Zac and the boulder. His mind filled with chants that tried to wash away individual thought, and his current strength wasn’t enough to resist it by himself.
+
+The suffocating Killing Intent invading his body became the lifeline that kept him from being swept away. It was only a matter of time before he was overwhelmed. The lineup outside was conjured by Karma nourished for billions of years, imbued with boundless Dharmic merit. It was perfection, causing a hierarchical suppression that was only growing worse.
+
+Only the rampaging entities inside the boulders had a chance of fighting back, and even that chance would be gone if the Sangha was given any more time to prepare. Even so, it wasn’t a call to action that came out of Zac’s mouth.
+
+“Why do you know that name? How are you connected to the Void Emperor?”
+
+‘War… Expansion and eternal Glory,’ the chorus answered. ‘Hurry.’
+
+It wasn’t much of an answer, but Zac understood he’d truly run out of time. At least it was a direction to look into. Adding what he heard from Poised Gardens, the Empire had likely invaded the Lower Planes before the Eight Hells and Nine Gardens joined the ranks. It was possible that Karz was part of that expedition, maybe even leading it.
+
+That would somewhat explain his apparent connection to the Lower Planes. They may even have been part of Kayar-Elu’s experiment. It wasn’t like his mother had provided full insight into their million-year undertaking. Either case, it would have to wait.
+
+“I’m counting on you!” Zac roared, smashing the boulder with [Void Mountain]’s seal just as Tavza’s talisman failed.
+
+Karmic Energy came flooding in like moths to the flame, trying to exhaust his Bloodline Talent before it could reach its mark. Zac furiously supplemented the Void Energy lost by interference, but the seal was still weakened by half. Thankfully, the existence inside the boulder was aware of their perilous situation, and something crashed against the weak spot from within.
+
+Already weakened and targeted from both ends, the boulder exploded with a deafening roar that silenced the Dharmic chants. The pacifying Karma burned from the winds of fanatical zeal as the shockwave swept through the whole memory domain. With the two sides locked in battle, Zac was once more forced to endure Saṃghāta’s Crushing Death alone. It was even amplified by the large amounts of Killing Intent that covered the memory.
+
+Zac was thrown dozens of meters away and found himself utterly incapable of getting back to his feet. Tavza’s talisman was already exhausted, and [Void Zone] wasn’t enough to counteract the pressure. Meanwhile, his Duplicity Core was burning red-hot to resist the hidden Karmic entanglements that came with his actions. He was losing energy at a dangerous speed.
+
+Worse, cracking open the boulder didn’t accomplish what they’d hoped. It was supposed to release a tide of Imperial Faith but instead released a pillar of raw Killing Intent. What little Imperial Faith managed to escape the Sangha’s blockade was spent to keep the remaining boulders from defecting.
+
+The good news was that Zac could feel the energies below ground churning, matching the increasingly unstable situation above. It just hadn’t reached the tipping point, while the current change to history wasn’t significant enough to trigger a collapse on its own.
+
+With Zac’s growing anger came a fierce, burning defiance. Time and time again, the Sangha stood in his way, plotting while spouting their sanctimonious litanies. They saw their schemes as Heaven’s Will and their meddling as Cosmic realignment. Zac had had it with them. If they wanted the Crushing Hell, he’d stop them if only out of spite. And if unsealing one boulder wasn’t enough to blow up the memory, then he’d try with two.
+
+Blazing runes in gold and steel appeared across Zac’s skin as his anger transformed into a force of nature. His heart thumped with Arcadia’s vengeance, and only a crusade would satiate its hunger. Who was the Crushing Hell to punish him for his actions, and what gave the Sangha the right to make him repay for his “sins?” The blood on his hands was justified and proof of the righteousness of his Dao.
+
+Karma would be crushed, the Wheel of Samsara overturned. Even Death would be forced into retreat when Arcadia’s crusade swept through the cosmos. Bones creaking, Zac got to his feet and shot forward like a bullet. The complex tapestry Tavza spent weeks drawing overlapped with the complex flows of energy and fate, and Zac instinctively knew where he needed to go.
+
+The Karmic Energies once more tried to get in his way. It even gave up ground in its claim on a few boulders to focus on his advance, causing the existential pressure to grow beyond what [Arcadian Crusade] could handle. Railing against his weakness and the injustice did nothing to prevent him from slowing down or his Duplicity Core from approaching levels of Karmic Entanglement it couldn’t block.
+
+It was at that point a thousand bursts of near-perfect Killing Intent seeped out from as many boulders. They came rushing over, tearing into the accumulating Karma. Zac’s eyes burned with fervor, and he could almost see a stalwart army coming to his aid. While their allegiances were different, they were unified in purpose. The enemy had arrived, and it was time for a cleansing crusade.
+
+Unbelievable levels of Killing Intent fused with Zac, filling his body with purpose and his mind with delusions of grandeur. He felt like a god of war, a manifestation of slaughter that could overturn the Heavens themselves. A small hatchet appeared to stabilize his Dao Heart and remind Zac of his true nature. The Killing Intent was only a tool, one that had to be used the right way.
+
+Zac barreled into another boulder with enough kinetic force to topple mountains. The boulder only trembled. [Arcadian Crusade] and the boundless Killing Intent demanded he keep railing against the roadblock until only rubble remained, but Tavza’s earlier warning cut through the madness. The stones weren’t true physical items, and he still needed a different method of breaking through.
+
+He settled for a compromise that satisfied his primal craving while accomplishing his goal. A deep clap shook the domain every time Zac punched the boulder with a fist imbued with [Void Mountain]. Each rumble was a call to war, and the countless incubators began vibrating in harmony. The Dharmic will was forced into retreat against the Limitless Empire’s growing momentum.
+
+The boulder Zac picked wasn’t on Tavza’s list of potential targets because its seal remained in a much better state. Unsealing the first bloody pillar and Zac’s madness were enough to overcome the difference, and Zac was once more blown away in a deafening explosion. He knew he’d succeeded before he even landed.
+
+Two became three, and three became thirty. The chain of explosions swept through the memory domain with growing, unstoppable momentum. Not a single boulder remained in one piece by the time Zac slammed into the ground. Wherever he turned, pillars of Killing Intent rose to the sky. Zac distractedly noted that none of them were nearly as pure as the streams they’d sent to his aid.
+
+While it came short of perfection, there was plenty to go around. Zac trembled with anticipation as a thousand pillars fused into four massive swords. The world grew dim as they drew in every speck of Crushing Death and Imperial Faith left inside the memory domain. The invading Dharma had already been cut to ribbons before the swords were fully formed.
+
+The memory domain buckled under the extraordinary drain. Without the Karmic Energy to forcibly keep it stable, it popped like a soap bubble. For a moment, all was still. Zac held his breath, horrified at the boundless Dharma about to come crashing down on him. That never happened. The swords had actually survived the memory’s collapse.
+
+It was as though nothing could erase them, not even death. The edges pointing at the sky fell, their movement unleashing a wind of carnage that safeguarded the sanctity of Zac’s current location. Then, they burst into action with unstoppable momentum. Mountains crumbled, chants were interrupted, and the sky darkened once more as Imperial judgment descended on Saṃghāta.
+
+The conjured swords were unstoppable and impossibly fast. They tore through a gamut of Buddhist apparitions before stabbing the statues right in their hearts. The swords went out in a blaze of glory, and bottomless sorrow descended on the world as the four statues shattered and faded away.
+
+The four statues collapsing drastically lessened the Sangha’s influence, but the imperial swords had exhausted their energy to take out the ringleaders. There were still countless apparitions who’d survived the charge, and Buddhist energies permeated the cut-off section of Saṃghāta. Most likely, more fuel for the realignment was being channeled from the main hell to replenish what was lost.
+
+Thankfully, the empire’s preparations weren’t limited to what Zac had witnessed until now. If anything, collapsing the memory domain could only be counted as an opening move. His surroundings had transformed to match the domain’s original appearance.
+
+The boulders that had shattered were only copies of the past. The real incubators hidden beneath the memory domain remained intact. They now looked like normal stones, missing the shimmering runes and their murderous aura. Not a speck of Killing Intent leaked out, yet they needed no push to burst into action.
+
+They cracked as one, barring the scant few who’d been fully marked by Sanskrit inside the memory. No pillars of Killing Intent rose, yet Zac’s heart began beating like a drum. Even the zeal brought from [Arcadian Crusade] was quelled. He instinctively understood this was the calm before the storm.
+
+The lack of commotion didn’t mean the boulders had degraded since the memory domain’s epoch. The opposite was true. The intent had been tempered since before the Dark Ages, reaching levels of perfection that Zac couldn’t begin to comprehend. Soon enough, blood-drenched warriors rose from their incubators like dragons emerging from their shells.
+
+The army was made from pure energy, a mix of Death and Imperial Faith held together by monstrous levels of Killing Intent. Zac’s intent accumulated through years of constant bloodshed was a joke in comparison to even the weakest soldier. It wasn’t just a difference in quantity.
+
+Every strand was like thousand-folded steel, filled with purpose. Zac’s Killing Intent was a raw, noxious cloud of metallic vapors in comparison. Even the thousand threads of Killing Intent left in his body, which already approached the limits of what Zac thought possible, were eclipsed. It was proof that anything could be refined to miraculous levels if given enough time and effort.
+
+The auras of the unsealed soldiers were so overwhelmingly brutal that space twisted around them, and it took Zac a moment to realize they lacked any facial features. Zac immediately thought back to Rava, and a rough idea formed in his mind. These blood-drenched crusaders weren’t true Eternal Servants, nor an incomplete servant like Instructor Rava.
+
+Considering their intensely murderous aura, they also didn’t share the same purpose as the Eternal Servants. The servants were meant to protect holy sites. They were holy defenders safeguarding the flame for eternity. These warriors were no defenders; they were butcherers, bloody avengers.
+
+However, they were made following similar concepts. Instead of transforming one extremely powerful templar into an Eternal Servant, the empire had taken the Killing Intent of countless warriors and fused it into one unstoppable warrior. They were more like automatons than spirits, naturally lacking any soul of their own. All they needed were the blood-drenched swords in their hands and an enemy to train them on.
+
+Zac couldn’t begin to calculate how many intents had been sealed inside this hidden graveyard to make a thousand Eternal Avengers. His thoughts went back to the layers upon layers of graves in the Hollow Chasm. Was this where the murderous intent went while the faith stayed to nourish the land? Why did the empire go to such lengths? Did they somehow know that Saṃghāta would come under assault far in the future? After all, the refinement only seemed to be in its earlier stages in the memory domain’s timeline.
+
+Zac’s hair suddenly stood on end upon sensing a perception lock onto him. He’d stayed still until now, afraid to draw any attention from either side. These forces were too powerful, to the point Zac didn’t dare to make a run for it. Not that he could. Only his immediate surroundings were temporarily drained of Crushing Death. The pressure would come rushing back the moment he stepped into the region controlled by the Sangha.
+
+He regretted his cautious approach now that one of the Eternal Servants was looking right at him. It was the one that emerged from the boulder Zac first cracked open. Did it sense a connection? After all, its alter ego inside the memory had deposited a significantly larger chunk of Killing Intent than any other Eternal Avenger. Thankfully, the warrior only spared Zac a glance before turning toward the remaining Buddhist apparitions.
+
+“Glory Eternal!” the avatars suddenly roared as one, their shouts imbued with such intense conviction that the Dao of Samsara buckled under the pressure.
+
+They rushed out as one, creating an expanding perimeter to counter the Sangha’s assault. Suddenly, their numbers expanded thousandfold. To match the sea of Buddhist apparitions, each Eternal Avenger conjured an army of their own. They were also made from Death, Faith, and Intent, though not nearly as strong as their creators.
+
+They were more than enough to deal with the weaker apparitions while the leaders trained their blades at the larger threats. Their combined aura wasn’t a match for the boundlessness of the Dharma surrounding them, but they fought with unmatched brutality. Benevolent monks were cut down, Holy Beasts torn limb from limb. The Imperial War Machine gave no quarter, and neither did they.
+
+With each enemy slaughtered, a wisp of Imperial Faith rose from the ground. The Eternal Avengers were reclaiming the Crushing Hell through bloodshed, growing stronger with each breath. Soon enough, they’d pushed the perimeters more than a dozen miles away, to the point Zac could barely hear the incessant chanting.
+
+Zac breathed out with relief. The gradually climbing Imperial Merit in his seal confirmed they’d made the right call, and his role was over now that he’d set the stage. It was at that moment [Arcadian Crusade] ended, and Zac became painfully aware of the terrifying amounts of Killing Intent still deposited in his body.
+
+Each sliver held much greater potency than the entirety of ancient resentment that he encountered in Centurion Lighthouse, more than enough to shatter his soul. Without the combative haze brought from his berserking skill to keep him calm, the sensation was the spiritual equivalent of a thousand nuclear warheads running through his body.
+
+Adding insult to injury, the Crushing Death was rapidly recovering now that his surroundings were emptied of opposing forces. His Duplicity Core had managed to keep him safe from Karmic Entanglements throughout the ordeal, but it couldn’t hide the massive amounts of Killing Intent from the realm.
+
+The problem wasn’t the “gift” left by his fellow crusaders. It was how it made the environment react. Saṃghāta’s death was drawn by the powerful intent, forcing him to endure the same treatment as the boulders had for countless years. As such, Tavza’s fear ultimately came true. He was marked by the sins of others and forced to carry some of their burden.
+
+Zac’s body creaked as his bones verged on being ground to dust. His flesh was repeatedly torn and reformed in a cycle that he only survived on the grace of his newly advanced constitution. Still, he would be ground to dust long before the foreign Killing Intent was dealt with. Luckily, Zac had already come up with a solution now that his mind had cleared.
+
+Since proximity was the problem, he just needed to add some distance. He couldn’t move himself or the Crushing Death, but what about the vast repository of Killing Intent? Better yet, he knew just where to put it.
+
+Wasn’t his other body far out of Saṃghāta’s reach?

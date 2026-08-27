@@ -1,0 +1,159 @@
+---
+id: d3189134-d6da-573f-91e9-9e846206559f
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 12"
+slug: 0077-b2-chapter-12
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 77
+ownLength: 1925
+unit: words
+ownProgress: 1925
+publishedAt: 2024-02-01
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1502912/b2-chapter-12"
+royalRoadId: "1502912"
+markedReadAt: "2026-06-29T19:08:33.269Z"
+---
+
+Large Tree within the Sullivan Clan
+
+Aisling Sullivan – Clan Leader of the Sullivan Clan – narrows her eyes as she leans over the council table, listening to the report the high ranking officer, Merkismathr Ryan, near the entrance of the large chamber had barged in to give.
+
+“Tha Byrne Clan Leader is back onworld, an’ he’s come with supplies and two new faces,” the young merkismathr personally appointed to the rank by Aisling herself declares, his voice filling the silence of the grand hall located within their own grand tree. “One o’ them was a young girl only at level twelve with a black colored number above er’ head, and tha other a merchant garbed in silver from tha Dynasty!”
+
+His words bring whispers through the chamber, but Aisling just narrows her eyes even further upon hearing his declaration.
+
+“A level twelve black number?! Preposterous!” Aisling’s younger brother, Darragh Sullivan, declares while slamming his large fist down on the table. A sentiment that many of the other council members appear to agree with.
+
+But Aisling herself trusts the young merkismathr, so she asks, “Show the evidence, boy.”
+
+He quickly brings up a large cube before moving over to place it in front of the Clan Leader. Then he backs away and bows again, staying like that as he states, “Here ya are, Clan Leader.”
+
+A second later the cube begins displaying a hologram of the woman as she walks through the Grand City marking the home of the Byrne Clan. She has stark white hair that contrasts broadly with the greens of nature all around her, along with glowing crimson eyes that make her seem even more out of place. The lass has a beautiful appearance and is a little taller than the average adult male lukian.
+
+What catches Aisling’s attention the most, however, is the sight of the black number twelve above the lass’s head.
+
+And she’s not the only one who sees it as all of the other councilmembers, split half and half between men and women as is tradition with lukian councils, immediately begin discussing it.
+
+“Tha lass truly does have a black number…” “How does a wee level twelve have a black number?” “It’s true…” “But how?!”
+
+Aisling slowly raises a hand, making all of the council members immediately go silent. Then she lowers it again and states, “Looks like tha Byrnes found themselves a merc from the Dynasty. No doubt with tha’ crooked merchant’s help no less.”
+
+All of the council members’ faces grow dark at the mention of the emperor of the Eternal Dynasty. A man who has constantly foiled any attempts the other clans have made to get at the weakest clan amongst them.
+
+Even now he is getting in the way.
+
+Aisling taps her finger against the table several times, briefly looking up at Ryan in the process, and at the number above the boy’s head. A number stating 306.
+
+The lad’s far higher leveled than any other his age, which was precisely why Aisling raised him to his rank in the first place. And she’s certain he’ll climb even higher.
+
+But for a lad of his level to see a black number even from a level twelve…
+
+It’s just unheard of.
+
+And the Clan Leader of the Sullivan Clan hates unknowns.
+
+She slams her fist on the round table and declares, “Send a party of thrall raiders their way led by a huskarl an’ see how powerful that lass really is. Make sure they’re disguised and unrecognizable, an’ attack only when tha lass is near the border.”
+
+All of the council members immediately stand up from their seats and slam their fists into their chests as they shout, “Yes, Clan Leader! Your bidding is our law!”
+
+Aisling leans back in her seat again as one of the council members runs off to go see about the order. And as she sits there thinking about the lass, she can’t help but wonder just what sort of ability would lead to a level twelve having a black number shown to a level 306.
+
+She knows just from that information alone that it can’t be any less than a Class S ability, but what sort of ability would make her that dangerous?
+
+And the Clan Leader is willing to lose at least a few raiding parties to find that very information out.
+
+Aria
+
+I let out a sigh as I look through the window of my newly assigned room in the massive tree house the lukians apparently refer to as a grand tree. Something all of the Clans of this world have.
+
+They’re apparently just Hunter Spots that were abandoned by the world’s mana. Which is apparently something that can happen on this world in particular, where the mana will shift around so that the Hunter Spots occasionally move once every several centuries.
+
+And every time they do move, and a household claims it, a new Clan is born.
+
+A rather interesting albeit also kinda useless bit of lukian trivia.
+
+I will admit though. The view from this room is absolutely beautiful and was worth the trip here all on its own.
+
+The room I was given is really high up in the tree, so I can see incredibly far from here. I can see the ocean, the vast forest reaching all the way up to the ocean, and the large city beneath me. And it all looks gorgeous.
+
+First there were the oceans of Eternus and the beautiful cities above them, and now the forests and grand trees of Luk’tar.
+
+This traveling gig absolutely has its ups.
+
+I look out the window for a few more minutes before finally turning around and looking around the room itself. The room has a much more woodsy feeling to it than my rooms back in Eternus, with wood used in most of the things here. Including appliances that don’t look like they’d be in a setting like this. Like TVs. And even a computer.
+
+Not stuff you’d expect to see in a place so clearly medieval in its design choices.
+
+Then again, it’d probably be weird if they didn’t have higher level technology here. Considering that they have a Gate directly to Eternus and all.
+
+I glance towards the bathroom.
+
+They even have a shower.
+
+Although, I do wonder how they deal with termites in a place like this.
+
+After pondering over that for a few seconds, I shrug and head to the bathroom to take a quick shower. Then after doing that, I walk over and flop down on the bed. One that’s actually quite comfy.
+
+I stare up at the ceiling while lying flat on my back with my hair still a little damp and a towel around my neck while wearing a simple T-shirt and shorts. Having already changed out of my outfit for the evening, since my first mission isn’t till tomorrow.
+
+The first war council meeting of theirs didn’t really go all that well, if I’m being honest. From what I heard, the Sullivan Clan – the clan we’re at war with – has over a hundred thousand soldiers, each armed with equipment far better than what we had on Vortel. Not as good as what’s on Eternus though by a long shot.
+
+They apparently don’t have the sword gun things that the Byrne Clan uses – and I’ll be using soon too since they’re gonna give me one for free – so they’re behind in terms of equipment. But the Byrne Clan has a total of twenty thousand five hundred in its forces. Some of whom aren’t even trained in combat.
+
+Goes to show just how crafting reliant this Clan really is. Also why they’re partnered up with the Dynasty in the first place.
+
+Because I can’t see that stingy Emperor letting go of a golden goose like the Byrne Clan and their weapons crafting skills.
+
+Fortunately though, the Byrne Clan also has more fortifications than they can even fully man. And plenty of defensive weaponry stationed on them.
+
+So defense isn’t as big of an issue as it could’ve been.
+
+I’ve also been given the authority of a merkismathr in their army. The highest ranking officer in their forces below the stallari. Otherwise known as their general.
+
+Luckily their military structures are shared across every Clan. So it’s easy to compare the structures across different Clans.
+
+The lowest ranking soldiers are called thralls, followed by the lower ranking officers known as huskarls, then mid-ranking officers known as vanir, followed by the rank I got assigned, and then the stallari at the top. And, of course, the council, and the Clan Leader himself.
+
+As for the merkismathr? They can be appointed by any member of the council. Meanwhile the stallari can only be appointed by the Clan Leader.
+
+A rather simple military structure, to say the least. But I like it.
+
+It’d probably take me days to remember the rankings if they had a much more complicated system after all.
+
+I roll over onto my side before blowing my hair out of my face with little luck due to its length. Then I reach up to grab it before muttering, “Need a haircut…”
+
+Don’t think I’ve gotten it cut for at least a few months.
+
+Might want to deal with that before heading out on my mission tomorrow.
+
+My hair is rather weird when it comes to being cut. It’s like, if I want it to be cut, then it’ll stay cut. If I don’t, then it won’t. It’ll just regrow back.
+
+A rather confusing gimmick to my ability, but not one I’m gonna question.
+
+At least my ability takes into consideration that I don’t want to walk around permanently unable to cut my hair.
+
+Then again, I don’t get it cut often. Mostly because it’s annoying to have to trust a hair stylist not to mess it up.
+
+I continue lying down, not moving myself from the bed.
+
+Maybe I’ll get up in an hour.
+
+I roll over onto my back again, my arms spread out on both sides of me as I stare up at the ceiling.
+
+My first mission in another war… and to think… so ironic.
+
+The first mission I’m being sent on is a solo mission where I’m supposed to head to an outpost several dozen kilometers away from Byrne territory, between Byrne and Sullivan territory. Specifically to scout if the outpost was taken over or not, and if it was taken over, then to take it back or destroy it.
+
+By any means necessary. Just like the mission I was on right when the System initiated on Vortel. Sorta.
+
+But this one is a sort of test for me to see how useful I’ll really be in this war.
+
+Of course, a guide will be following me to watch the results, and, well, bring me to the outpost in the first place. So I won’t be totally alone.
+
+Although a certain merchant is just gonna be entertaining himself in this city while I’m gone. Said something about making connections with the crafters here. And something about how that’ll help me too in the future.
+
+Which I guess is probably true.
+
+Anyways, I let out a sigh before grunting as I sit up. And without prolonging it any further, change out of my clothes into my gear with a simple flick of the storage ring – a very convenient feature I might add – and leave my room.
+
+Time to go find a hair stylist to cut my hair.

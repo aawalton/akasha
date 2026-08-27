@@ -1,0 +1,181 @@
+---
+id: 9236d720-5070-52cd-b870-885fd00dc0de
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 16"
+slug: 0082-b2-chapter-16
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 82
+ownLength: 1722
+unit: words
+ownProgress: 1722
+publishedAt: 2024-02-04
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1505838/b2-chapter-16"
+royalRoadId: "1505838"
+markedReadAt: "2026-06-29T19:08:43.545Z"
+---
+
+Aria
+
+I let out a breath of air, trying not to breathe in the disgusting smoke as I wave my hand in front of my face, trying to blow it away like a fan. But my focus is on the rather loud sound of System Messages ringing in my head.
+
+[User has killed one being of Level 56. Requirements to reach level 13 have been updated. New requirements are as follows: 105/30000 beings have been granted Death.]
+
+…
+
+[User has killed one being of Level 50. Requirements to reach level 13 have been updated. New requirements are as follows: 1119/30000 beings have been granted Death.]
+
+After the annoying ringing session ends, I look around at the crater that is all that remains of the outpost. Then I nod my head to myself before lowering it again and closing my eyes.
+
+And after a brief pause, I mutter, “May those lost here be always remembered.”
+
+Then I stand there for a couple moments of silence before raising my head again and proceeding to walk towards the edge of the crater where a certain guide is frozen stiff.
+
+Something else I realized over the past couple years. I may not have any empathy or sorrow for the enemies I kill in battle – they are trying to kill me and are just plain my enemies after all – but that doesn’t mean they don’t deserve respect.
+
+So respect is what I’ll give them.
+
+As I walk, I make sure to devour a few of the officers’ soul cores to replace the weaker soul cores that I currently have in me. Because from what I understand, most people here aren’t going to be revived anyways.
+
+Revival is generally only something that can be done by an official government, or possibly a very rich individual. Not regular soldiers or even officers of a military.
+
+Although the highest ranking ones would be revivable since their superior officers would probably pay to have them revived.
+
+Then again, probably best to devour the highest ranking officers too. Otherwise they’d just come back and get their revenge.
+
+And I still don’t have any ‘faith’ so the idea of erasing a soul to me is still the same thing as just plain killing them.
+
+On that note, the Sullivan Clan’s forces were all much higher level than me. So they were pretty much all strong enough to snap my neck without much trouble. Much less defeat me in direct physical combat.
+
+Which makes fighting these people a lot harder. Even if I’m able to significantly enhance my body’s physical capabilities, it’s only enough to enhance everything by around two or three dozen levels’ worth of power.
+
+It’s not enough to compete head to head in physical strength against even a single level 50 soldier.
+
+But my Lesser Minor Death Spirits do at least make up for this weakness a little bit. Their real forms are more like spiritual forms powered by soul energy, with their physical forms being those skeletons that are basically just being possessed by them. Making them really and truly spirits both physically and metaphorically.
+
+So their physical forms can be repaired as much as they’d like so long as they have the soul energy to do it. And if they run out of soul energy, they’ll just be banished back into the Plane of Death again.
+
+Since Death Spirits can’t die.
+
+Same as me.
+
+It’s too bad they’re not actually very strong. Basically all the same strength if not weaker than I am. Simply because they can’t use soul energy to enhance their body. It’s kind of their vitality after all.
+
+They are useful for fighting with weapons though. And they feel no pain.
+
+Anyways, I finally step out of the crater after a rather long walk before stopping in front of the guide. A guide who – by the way – is still staring at me with his mouth gaping open.
+
+“You okay?” I ask while tilting my head slightly. And my words finally seem to snap them out of it.
+
+“Y-yeah,” he mutters while hurriedly glancing back and forth between the crater and me. “L-let’s go back.”
+
+I nod my head and answer with a short, “Yep.”
+
+Then we begin to head back towards the Grand Tree of the Byrne Clan.
+
+With the guide still occasionally throwing glances backwards.
+
+Uh, sorry fella, but that crater isn’t gonna just reappear if that’s what you’re worried about.
+
+At least, I think that’s the problem.
+
+“Welcome back, lass!” the Clan Leader exclaims the moment I walk through the double doors into the council chamber alongside the guide, who looks tense for some reason. “I take it yer mission went well, then?”
+
+I nod my head and stand perfectly straight after coming to a stop a few meters in front of the table before stating, “Mission complete. The Sullivan Clan forces occupying the outpost have been annihilated.”
+
+Along with the outpost itself.
+
+“Excellent!” he shouts, joy clear in his voice as he focuses on the other council members and says, “Now ya see why I contracted the lass?”
+
+The other council members all nod their heads, some muttering agreements, others even shouting them. Not a single one of them seemingly having any issues with my working with them anymore.
+
+Which is amusing considering how against it they originally were.
+
+After letting the council members speak for a few minutes, the Clan Leader holds his hand up for silence before looking at one of the council members in particular and saying, “Councilmember Ronan, take a party down to resecure tha outpost. Make sure it’s ready for an assault at any moment.”
+
+“Understood, Leader!” the councilmember in question exclaims while saluting.
+
+Then the Clan Leader glances towards us and asks, “On that matter, were there damages to tha outpost in yer battle?”
+
+I blink once. Then twice.
+
+And finally, I turn to the guide while motioning for him to speak.
+
+Yeah, let’s let him tell them.
+
+Sounds like a good plan.
+
+The guide in question sends me a horrified look in response. But when I just casually begin to examine the suddenly very beautiful ceiling, he lets out a sigh and begins to speak, “Our apologies, Clan Leader, but there is no longer an outpost anymore.”
+
+Silence fills the chamber before I feel some gazes turning to me without even looking down from the ceiling.
+
+“Lady Death, would ya mind explaining how ya eliminated tha enemies?” the Clan Leader calmly asks, making me lower my gaze again to – yep – find everyone staring at me.
+
+He wants to know my exact plan?
+
+I give a mental shrug at that before answering, “I had my Death Spirits attack the walls, blowing holes into them to let the spirits inside. Then I slipped in amongst them while the spirits were causing havoc and set the higher explosives you supplied me with all around the outpost.” Their faces all grow slightly pale. “And after I felt I had put enough of the charges through the outpost, I activated them all.”
+
+The council members all stare at me like I’m crazy. Some of them stare like I’m suicidal. Which is ironic.
+
+“To be clear, Clan Leader, the merkismathr did not wait til she was clear of the outpost ta activate the charges,” my guide says, pointing out something I don’t really feel is important. “She stayed inside of tha outpost an’ activated it right as tha vanir commander was rushin’ her.”
+
+More silence fills the council chamber.
+
+I look between each of the stunned councilmembers, genuinely wondering why they’re acting like this.
+
+They gave me permission to do as much damage to the outpost as I’d like, so why are they so surprised?
+
+They even gave me quite literally hundreds of charges for the job.
+
+“How many of tha charges did ya use, lass?” the Clan Leader quietly asks.
+
+I blink before answering, “I used up half of the charges given to me.”
+
+Silence again.
+
+“Lass…” the Clan Leader begins, only to shake his head as if at a loss for words.
+
+I frown at that, only to glance at Shirogane – who I find standing in the corner behind us – before he mouths, ‘Those were meant to be supplies for an entire three months.’
+
+Oh.
+
+That’s… awkward.
+
+Hmm…
+
+I turn to look at the council members, all of whom have lost pretty much all of the gusto they previously had.
+
+Guess they were expecting to get that outpost back after all.
+
+It might be best to avoid blowing up entire outposts next time.
+
+Probably better to use poison or fire.
+
+Eventually the Clan Leader clears his throat and says, “Well, lass, next time please try to leave a base behind for us to take. Is that understood?”
+
+I salute him and declare, “Yes, Clan Leader!”
+
+“Good,” he says with a nod before continuing, “Now that we have tha outpost taken out of tha picture, our next targets are tha weapons production facilities within tha Sullivan Clan’s Grand Tree.” All of the council members nod their heads. “Yer job is to destroy tha production facilities while tha Sullivan forces begin their march.”
+
+Interesting. Rid them of their weapons supply and leave them even further behind in the military technology area.
+
+“Understood,” I tell him with a salute, making him nod his head.
+
+“Yer dismi-” he begins, but I interrupt him, “Clan Leader, could I make a request?”
+
+He frowns for a second before nodding his head and saying, “Go ahead, lass.”
+
+“In that case,” I continue, the faintest of smirks stretching across my lips, “would it be alright if you refilled my explosives stock?”
+
+The man stares at me.
+
+What? I need explosives if I’m gonna blow up this weapons production facility.
+
+Besides. He only said to leave behind a base for us to take. He never said anything about not using explosives.
+
+And explosives are a woman’s best friend.
+
+Eventually he sighs and waves his hand, “Very well, lass.” Then his eyes go stern. “But – an’ I can’t believe I have ta say this – do not destroy tha Grand Tree.”
+
+I give him another salute and quickly make my way out of the chamber, broadly smiling the moment the doors close behind me.
+
+I’d say that turned out pretty well.

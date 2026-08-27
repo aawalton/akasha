@@ -1,0 +1,129 @@
+---
+id: f6145f63-8caa-5f74-a5b3-94f02a0e6774
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 33"
+slug: 0261-b4-chapter-33
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 261
+ownLength: 1456
+unit: words
+ownProgress: 1456
+publishedAt: 2025-03-06
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2108169/b4-chapter-33"
+royalRoadId: "2108169"
+markedReadAt: "2026-06-29T19:14:37.457Z"
+---
+
+Aria
+
+I immediately find Pestilence waiting for me when I go out to meet with him. And the very first thing he does when I arrive is to ask, “Would you like to make a deal?”
+
+Which can imply one of several different possibilities.
+
+He could’ve come here knowing that I was here so that he could draw an agreement out of me. A possibility that is very highly likely and would irritate me a bit.
+
+He could’ve come here without knowing I was here but realized I was here immediately and decided that he’d rather have what I can give him than the results of this experiment. Which is also technically possible and is what I would prefer.
+
+Or he could’ve just noticed my arrival and, once again, decided that I’m more important than the experiment.
+
+The most likely possibility is the first one though, since there’s no way in my eyes that he didn’t already know I was here beforehand.
+
+All that aside though, I nod my head and answer, “Yes,” as my horse slows down to a halt several meters in front of him in the middle of space.
+
+Pestilence nods his head once in return at my single word statement before raising a hand and snapping his fingers. Following which everyone I can see through the windows in the station below who has the virus immediately stops moving as if he froze them in place. And it’s not just them, but their viruses too. They stop spreading instantly.
+
+“Very well,” Pestilence eventually states while tapping his foot on his sickly looking horse’s side and making it take a couple steps towards me and my horse before stopping. “I would like for you to participate in the same agreement we had last time. Allow me to experiment on you with viruses for two weeks. You may have whatever freedom you wish during those two weeks so long as it does not interfere with my experiments, and I am allowed to check up on the progress whenever I wish during those two weeks.”
+
+I think back to the two weeks I spent on his world the last time, remembering the fact that most of it was just plain boring. Since I wasn’t able to go hunt mana creatures or anything. And the only experiments he did weren’t painful in the slightest.
+
+The most annoying part about it was my de-aging for a while.
+
+“Very well,” I state before putting out my conditions, “In return you will cure every single person of this virus and leave the Star Link Stations.”
+
+Pestilence simply nods his head and snaps his fingers again, making everyone I can see through the window collapse to the ground as the signs of the virus vanish. Although the dead spots on their skin and the holes still remain, and now a lot of people are screaming in pain. Likely because the numbing agent of the virus is gone.
+
+“Bring them to healers and they’ll be fine,” Pestilence states when I turn to look at him.
+
+I just stare with a raised brow.
+
+After a few seconds, he sighs and snaps his fingers, making a wave of some green powder spread out from him and through the station. And the moment the powder touches the injured people down there, their wounds begin closing on their own in moments.
+
+Thought so.
+
+It only makes sense that there are ‘pestilences’ that can heal people as well.
+
+I raise a finger before grabbing the receiver and asking through it, “Is everything good?”
+
+Almost immediately I get a rather happy response from Lyra saying, “Yes! Very good! Thank you! You’ll have your factories as soon as I can get them transferred to your ownership!”
+
+“Understood,” I state into the receiver with a smile on my face while Pestilence opens up a portal to his world. “I’ll be gone for two weeks.”
+
+After telling Lyra, I go ahead and tell Leone as well. Although Leone doesn’t seem particularly happy with how I’m currently with Pestilence. For obvious reasons.
+
+And with that, I go ahead and follow Pestilence through his little portal to Vest. His home world that is cut off from the rest of the universe.
+
+Then the two of us proceed to head towards his lab, dismounting and unsummoning our horses when we get into the castle. With each of the servants of said castle giving me a rather surprised look upon seeing me.
+
+Guess they don’t get many repeat visitors.
+
+Anyways, when we reach the lab, he immediately gets to work testing pestilences on me. But at this point I’m numb to pain, so I don’t really pay much attention to what he’s doing.
+
+Actually, I start reading a book at some point as he’s busy sticking my body full of viruses.
+
+The only nuisance is when a virus or poison or whatever makes it so I can’t move to turn the page, or makes it so I can’t see.
+
+One of the viruses he gives me actually makes me begin transforming. But my body just kind of says no to that and cancels the transformation halfway through. Making me return to my usual form.
+
+He tries it again though despite that, and the transformation cancels even sooner.
+
+And again.
+
+And again.
+
+All the way until the transformation doesn’t even begin in the first place.
+
+Meanwhile I just continue reading.
+
+This process continues on and on for an entire week before he finally speaks, telling me, “I will be testing out one last poison on you. This one will most likely last for six months based on how the last attempt worked on you in your previous visit and the differences between this poison and the last.”
+
+Wait a second, does that mean-
+
+My thoughts halt for a moment as everything just kind of morphs together in my mind and everything freezes moments after he injects something into my heart. And when I come to again, I find myself once more in the form of a child. Except this time I look – judging by the mirror nearby – about nine years old.
+
+The sight of my nine year old self – the same age that… things… happened – has me grimacing. Although not as much as the sight of my clothes practically piled on top of me due to being way too big.
+
+But it’s fine. Because Pestilence just casually tosses clothes at me while writing down notes. Clothes that I can tell are literally copies of my current outfit except meant for a child instead.
+
+Huh. Considerate.
+
+Maybe he’s warming up to me.
+
+That aside though, why is he doing so many experiments with age reversal anyways? Is there a specific reason for that, or what?
+
+Actually, I might as well ask him. So while I change into the clothes he dumped on me, with the man not paying any attention to me and looking the other way in the process, I go ahead and ask, “Is there a reason you’re so focused on age reversal poisons?”
+
+Although the sound of my young voice briefly startles me again, reminding me of past memories. Briefly being the key word.
+
+Pestilence doesn’t turn around until after I’ve finished changing, at which point he finally says, “Yes.”
+
+But that’s all he says.
+
+Guess he doesn’t want to explain any further than that.
+
+He continues writing down notes as I adjust to my current size. Which isn’t very easy to adjust to. Suddenly returning to your nine year old body.
+
+I dump my other clothes and stuff in my storage ring, with the ring itself adjusting to fit my new size. Then I turn to look at Pestilence again when he says, “Please make sure to return to this lab once every hour for the next twenty-four hours. Then come once every two hours for the following twenty-four hours, and once every three hours after that.” He turns to look at me. “Beyond that you’re free to act as you please for your remaining time here.”
+
+“Alright,” I answer before stretching as I walk out of the lab.
+
+Only to find maids and servants doting on me again soon after simply because I’m cute.
+
+It’s not very hard to escape from them this time around though. Not when their levels are rather abysmal. To the point that I’m a higher level than them all.
+
+So I just push through them with my higher than level one hundred self, even if I’m in the body of a child.
+
+But that aside, it’s definitely giving me a sense of déjà vu being here again. In a young body again.
+
+Well, whatever.
+
+Time to find a nice corner to read in.

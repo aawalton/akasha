@@ -1,0 +1,125 @@
+---
+id: 9b558983-735e-5ef4-a716-f1ae8ee2140a
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 18"
+slug: 0242-b4-chapter-18
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 242
+ownLength: 1459
+unit: words
+ownProgress: 1459
+publishedAt: 2024-12-27
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1977936/b4-chapter-18"
+royalRoadId: "1977936"
+markedReadAt: "2026-06-29T19:13:58.219Z"
+---
+
+Aria
+
+I end up attending a few war councils with the king and his generals, all of whom are wary of me, before finding myself standing on a cliff looking out over an army. One made up entirely of Death Spirits and numbering in the tens of thousands.
+
+Meanwhile the officers assigned to me by the king look more than a little shellshocked by the sight of the army.
+
+Not sure why though. It’s just a bunch of Death Spirits.
+
+Lovely creatures, they are.
+
+No one could ever dislike them.
+
+They’re so nice.
+
+It takes a royal knight teleporting in to knock the officers out of their stupor as the knight ignores my army and bows lightly to me, saying, “Your Highness, the enemy forces have arrived on the plains and have raised a white flag to negotiate. Your presence is requested by His Majesty.”
+
+I glance at the knight before nodding my head, ignoring his use of the honorific. Something most people here have been doing way too often, with the exception of the king, who uses Lady Death instead.
+
+After that, the knight reaches his hand out with his fingers pointing upwards, expecting me to take his hand. And after an inner sigh at their annoying customs, I take his hand.
+
+Then a few purple specks appear around us as he no doubt tries to teleport me.
+
+With nothing happening.
+
+Which was honestly to be expected, but there’s always a chance they’d have teleportation magic that I haven’t seen yet.
+
+The knight looks confused before I take my hand back and scratch the back of my head as I mutter, “Uh, sorry about that. I’m pretty much immune to most spatial magic teleportation spells and abilities at this point.”
+
+He just stares blankly at me, finally stunned into the same stupor the officers were in earlier.
+
+“It’s a pain,” I admit to him, snapping him out of his stupor. Following which he opens his mouth and closes it again, seemingly unsure of what to do in this situation. “I can just go to the meeting spot on my own, if it’s alright with you. Tell the king that I’ll be there in a few minutes.”
+
+He finally settles on closing his mouth and nodding. Then he teleports without a word.
+
+And as usual in this situation, I raise my arm up to around my chest level before pressing a bunch of buttons on the terminal to call forth the shuttle from my ship. A shuttle that appears within moments after teleporting here.
+
+Without paying the soldiers and officers any mind, I step inside of the ship, give them one last salute, then let the small ship bring me straight to the meeting place. At which point I step outside of the ship to find a bunch of guns aiming at me.
+
+I just give them a wave as my shuttle leaves again without a sound.
+
+The king doesn’t look fazed in the slightest as he nods his head at me from some sort of outdoor pavilion with a massive tent over it and a large table surrounded by seats. With the seats being separated on two sides.
+
+I look at the seats, finding about seven seats on the king’s side, with six of them filled and one directly next to the king empty, along with another five on the duke’s side, each being filled. And after looking, I go ahead and take my seat at the table next to the king. Crossing my legs and put my hands in my pockets after sitting before glancing between the duke and his supporters on the other side of the table. All of whom are blatantly staring at me without hiding it.
+
+Now, whether it’s because of my outfit of shorts, a T-shirt, and a regular black jacket while seated at a table of nobles, each of whom are wearing fancy military uniforms, or it’s just my presence here in general, I’m not sure.
+
+Either one is probably an oddity to them though. So it could be either.
+
+“Now that we’re all here, let us begin,” the king declares with a frown.
+
+“You coward!” the enemy duke whose name I don’t know – I’ll just call him Duke Goatee, since he has one – shouts almost immediately. “You couldn’t even fight for your own kingdom without help from a damned Horseman of all things?!”
+
+All of the nobles in the meeting, including the ones on Duke Goatee’s side, send him shocked looks before turning worried glances towards me. As if they’re worried I’ll take offense.
+
+But I just yawn, clearly showing my disinterest in this farce.
+
+Because I really don’t care about what happens here.
+
+I would be reading a book right now if I could. But that would probably piss them off a bit too much.
+
+“Why would I be a coward for using my connections? Isn’t that what a King is supposed to do?” the king asks with a brow raised. And his question seems to gather support from the others seated next to us.
+
+Even from one of the nobles on Duke Goatee’s side seems to show some tiny hints of support, with another one seemingly starting to question his decision to support the duke. Mostly because of Duke Goatee’s comment scorning Horsemen right in front of me.
+
+After that, the nobles all continue to squabble amongst themselves as I just kind of sit here without really caring. Although I do pay attention. Just in case something important for the war is said.
+
+Most of it is political squabbling though. Stuff that is unrelated to the war and is just them arguing like children.
+
+Then, as expected, by the end of the little truce talks, it all breaks down with Duke Goatee shouting at the king and shooting straight up from his chair. The other nobles all around us doing the same thing as if in sync.
+
+I just yawn again before feeling a certain cat jumping in my lap, making me pet him.
+
+Duke Goatee glares at me with quite a bit of animosity – the guy himself being too high a level for me to identify, although he should be somewhere around the king’s level if the king isn’t mistaken. And after glancing at Asher, he looks up at my face again and asks, “You better leave this world soon, brat. I don’t care if you’re a princess or not. Our world has no place for Horsemen.”
+
+I continue stroking Asher’s soft fur as I look down at the cat and respond to the guy, “Yeah, yeah, say what you will, but it doesn’t really matter at the end of the day.”
+
+The snow around us begins to heat up a little bit, making me glance up to find flames building up around the man’s eyes as steam quite literally lifts off of his head.
+
+Huh. Didn’t think I’d ever see someone get so mad they’d actually start steaming like this.
+
+He doesn’t do anything, though. Because, asshole or not, he is still a duke.
+
+So Duke Goatee reigns in his anger – and his steam – and turns around rather swiftly, beginning to walk away.
+
+I turn to look at the king as I can’t help but ask, “Does Duke Goatee just have something wrong with Horsemen?”
+
+Then everything goes silent.
+
+A brief wave of confusion fills me at the strange looks everyone is sending me – not the anger Duke goatee is looking at me with though, because that’s normal for his face – until I realize that I said my little nickname for the man out loud.
+
+Oops.
+
+The king’s lips quirk ever so slightly upwards as he tries to hold back a smile. And he’s not the only one.
+
+I even hear a couple of the soldiers on either side of the pavilion trying to hold back snickers.
+
+Which serves to piss off Duke Goatee even more, leading to him storming off while shouting something about capturing me alive and torturing me.
+
+Not sure what purpose that would serve though, considering my lack of any sensation of pain at this point.
+
+After Duke Goatee is too far away to hear, the king answers my question, “No, he is most likely just upset about my bringing you in, and wanted to find some sort of excuse to force you out of the war.”
+
+Ah. Makes sense.
+
+I turn to look at Duke Goatee’s retreating back as I continue stroking Asher’s fur, the cat also not having a single issue with the weather as he sits on my lap.
+
+Well, I haven’t really fought a full war in a while. Much less on a frozen planet like this one.
+
+So this’ll be interesting.

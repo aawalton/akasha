@@ -1,0 +1,145 @@
+---
+id: 123c7373-2843-5598-9ada-56ebf95400c0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,376 - Unraveling"
+slug: 0053-chapter-1376-unraveling
+partOf: defiance-of-the-fall
+position: 53
+ownLength: 3204
+unit: words
+publishedAt: 2025-11-11
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2752797/chapter-1376-unraveling"
+royalRoadId: "2752797"
+---
+
+“Why are you doing this? What harm have we done you?!” the struggling warrior roared, barely maintaining the barrier against the incoming cascade of pitch-black, crystalline flowers.
+
+The chill of death that had claimed the whole valley crept closer, freezing the very foundations of the small village. The glacial seal severed the settlement’s connection to the Nexus Vein, exacerbating the formation’s evident deficiency. The cold eventually breached the shielding, causing the first Array Flag to snap. From there, a smattering of explosions spoke of finality as the barrier flickered out of existence.
+
+Shaky breaths created plumes of frost as winter’s chill crept closer, and the villagers huddled together for warmth and connection. Catheya took in the scene with equanimity as she advanced, undeterred by the fact that all but one of the defenders were children. Nor did she relax her guard. The crude village with its sole defender might look helpless, but she knew better than to trust her eyes.
+
+“We just wish to live out our lives in peace,” the guardian entreated when Catheya stopped at the town’s border.
+
+Catheya lightly sighed as she scanned the three dozen villagers. The majority of the fell Karma was contained within the adult, but every single one was implicated. “The Heavens are merciless. You may have committed no wrong, but you shouldn’t have gone against the tides. Right or wrong, there must be an end.”
+
+“The responsibility is mine. Please, the children,” the guardian said in a final attempt to elicit sympathy. He would find none.
+
+“Children?” Catheya shook her head before extending [Black Ice Cosmos] to cover the whole village. “It’s time for you all to wake up.”
+
+The false reality fiercely resisted Catheya’s Earthly Domain, relying on willing delusion and seniority. Her combination of Heaven and Earth Harmonization with a Dao Domain was only a visitor, while these villagers had eked out a living in this knot of Karma for epochs. However, Catheya wielded the truth, shedding its pitiless light on the darkness.
+
+The conflict was locked in a stalemate until a murky gemstone on the crown atop Catheya’s head flickered to life. It released an ethereal light that effortlessly integrated with her Earthly Domain, allowing for a deeper fusion than her own abilities could reach on their own. Not only that, her domain became all-encompassing, swiftly absorbing the threads of Karma to unearth the resentment hiding beneath.
+
+“Wh—" the weathered warrior grunted when his form unraveled.
+
+Soon enough, a twisted and hollowed-out specter stood in his place, his emaciated frame covered in holes shaped like small bite marks. With the warrior as the epicenter, a wave of transformation swept forth. The ruddy-cheeked children became gaunt, hungry ghosts with empty eyes, protruding bellies, and strips of flesh in their maws. The simple but well-maintained huts became covered in blood, soot, and grime, while gnawed bones appeared in the flowerbeds.
+
+The children had lost all thought except for unrelenting hunger, and they would have lunged at Catheya if the hollowed specter hadn’t sacrificed an arm to keep them fed. The action was pure instinct and so smooth it must have happened countless times before. The warrior briefly appeared surprised at his action, then quickly settled into a macabre acceptance.
+
+“I see… So much time has passed. Trapped in a loop because of the Empire’s greed. They brought the children to this purgatory, and they refuse to let us off in death,” the wraith lamented, his mind unraveling the moment his memories were unsealed.
+
+He looked at the feasting children with sorrow as the last traces of humanity leaked from his spirit. When he turned back toward Catheya, the specter reeked of malice.
+
+“And they’re still having others run their errands. Not even corpses are spared from being chained to the Empire’s chariot.”
+
+“You’re probably right. I’m being used as a tool by the Empire. Knowing that doesn’t change the outcome,” Catheya calmly said, glancing at the hungry ghosts. “You tried your best to keep the children safe throughout the cycles. Through your efforts, they haven’t been fully corrupted. I’m sure that’ll count for something in the afterlife. You’ve earned your rest. It’s time for the suffering to end.”
+
+The words coming from Catheya’s heart were more effective than any attack. The energy fluctuations of the settlement and its trapped inhabitants began diverging, and Catheya used the weakness to further her control. Even the most stubborn traces of the past were being realigned to her Dao. It proved to be a necessary precaution as the guardian grew increasingly erratic.
+
+“No! I can feel it! So long as we suffer, the Empire suffers. We’re bonded, FOREVER!” the guardian roared as he exploded into action.
+
+Or at least he tried to. The defender only closed the distance by three steps before stopping in place, dozens of flowers made from crystalline ice blooming in his joints and at every energy crossroad. The newborn flowers greedily drew on their surroundings, equally equipped to devour the spirit’s lifeforce as the ambient energy perfectly matched their alignment.
+
+Catheya waved her hand, causing a frigid wind to move past the guardian and cover the children. They didn’t even notice. Until their last breath, they were consumed by the consumption of flesh. One by one, the frozen spirits shattered, and their icy dust joined the thin layer of snow covering the village.
+
+“They’re at rest,” Catheya said.
+
+‘Be… careful… the next… might be you.’
+
+The spirit finally let go of his deep-seated resentment and joined the children in nonexistence. Only an amulet depicting an unfamiliar sigil remained of his body. Catheya looked at the remains of the Peak D-grade cultivator, who’d succumbed without managing to put up a fight. Part of it was thanks to planning and patience. Forcing him to maintain the barrier for two straight days had drained most of his reserves.
+
+The other reason was the incredible power of her Earthly Domain, boosted beyond its natural limits. Catheya had experienced the might of the crown dozens of times by now. Each time, she was left more in awe of the damaged [Grand Unifier’s Crown]. The crown was her main reward from multiple life-and-death tribulations when following the threads of Karma, and it was the only reason she’d managed to come this far. The Spiritless Spiritual Tool had already become a critical instrument of her journey and a core feature of her path.
+
+While crossing the Left Imperial Expanse, Catheya had spent countless sleepless nights questioning herself and why she was chosen by the Daedalian Court. It was clearly a faction centered around the Peaks of Karma and the Grand Tapestry. She was not a Karmic Cultivator, nor did she display any inborn sensibilities to Karmic entanglements or manipulation.
+
+Catheya did possess some insights into formations, mainly from her side profession as a Lich, but she was a layman who didn’t even possess a Mixed-meaning Dao of the Grand Tapestry. What did she bring to the table? Was she overestimating herself by not being satisfied with looking for opportunities in the trial’s outer regions?
+
+Seizing the [Grand Unifier’s Crown] was the turning point, and successfully protecting her place at the table in front of a hundred Sealbearers awoke her to the truth. The Daos propping up the Daedalian Court—and the other courts for that matter—were only the surface. What truly mattered was the court’s goals and how it hoped to achieve them. The Daedalian Court sought an impossible fusion, a concept she understood well.
+
+The Celestial Workshop and the Farsee Court fought against nature and the elements to lay down the physical pathways of the Imperial Road. On the other side, the Anima Court erected a vast communal soul spanning the whole continent. The Daedalian Court worked with the Department of Rites to build the nodes of the Imperial Road, connecting the physical with the intangible.
+
+They were the Array Masters who instilled the Imperial Road with Purpose, and that wasn’t the extent of their contribution. They had somehow created a second, world-spanning network, one solely made with Karma. It was a bridge that existed in the hearts of men rather than on the physical or spiritual plane.
+
+The physical plane represented the body, the spiritual plane the soul. Karma became the bonds of the heart, the final piece of the whole. Combining the three pillars was possible, as [Three Purities] that her master bestowed upon her proved. The Limitless Empire was not content simply controlling all three roads. They needed to subvert their nature, create such complexity out of simplicity that even the Heavens were fooled. Only by breaking through the bonds of reality could reality be overturned.
+
+Catheya shook her head and walked over to pick up the amulet. The Empire’s plan worked, if barely, but eons had passed since the Daedalian web was formed. The weaknesses allowed imperfections to take root, causing further instability. And like the guardian said, the Empire had brought in helpers to further their cause.
+
+After making sure there were no hidden threats lingering, Catheya continued into the village. She searched every hut, finding nothing of value until reaching the guardian’s home. Inside was a small altar matching the amulet. Catheya briefly wondered if it represented a true entity or if it was a creation of the guardian’s increasingly deranged mind.
+
+Beyond the altar, there was a dog-eared book lying on the table. It was a diary, and Catheya noticed the increasingly erratic tone as she flipped through the pages. Halfway through, it was all gibberish. Interestingly, while it showed signs of extensive handling, it hadn’t seen any further additions during the countless loops the village had been forced to live through. Did the guardian use his own words as an anchor to keep the children safe?
+
+The encampment began fading while Catheya still looked through the pages for clues. She didn’t waste any merit to keep it around a while longer. The amulet held all the necessary Karmic entanglements, while the diary provided useful context. If it could be trusted, the guardian had told the truth.
+
+The children were not from the Left Imperial Expanse, nor from any other part of the Limitless Empire. They were seeds holding great Karmic Merit that had been discovered in a dimensional pocket at reality’s edge. Seeing their potential, they were brought to the Daedalian Court by the Vigil, whose shadows had been everywhere during her journey. Catheya worked under the assumption that they assisted in the court’s construction, like Lord Primo with the Hollow Court.
+
+The children were true Heaven’s Chosen on the Path of Karma, allowing them to make great strides in their cultivation. Their innate connection to the Cosmos was also the reason for their hasty escape. They could sense the boundless darkness looming in the near future and the blight that would touch everyone marked by the Empire’s flame.
+
+They managed to manipulate a senior disciple to sneak them off, but how could the Daedalian Court’s threads of Karma be that easy to escape? They’d already drunk from the tainted well, and there was no corner they could escape to when the curtains fell. They were trapped in a nightmare, forced to relive the Dao’s collapse and the loss of all Energy. Over and over, they were starved and slowly driven insane by the Lost Plane’s aura.
+
+They’d avoided complete conversion by the guardian, who served his healthy flesh while sealing the Lost Era’s taint in the rest of his body. Over time, their resentment and hatred of the Limitless Empire became a Karmic knot that prevented time’s erosion of the Empire’s debt.
+
+When Catheya looked up from the diary, she once more stood on the Bridge of Karma. The node beneath her feet was cleared, allowing the broken-off deck to reform. The road forward had been opened, presenting six different choices.
+
+Catheya didn’t immediately step forward. For one, she’d expended a decent amount of energy to whittle down her opponent, and not all the “roadblocks” were as weak as this group of refugees. More than once, Catheya had been forced into desperate situations because of her inability to handle the blemishes on the Empire’s Karma. Some detractors were simply too powerful to be dealt with by her, and she didn’t have the ability to resolve the resentment through other means than violence.
+
+Take the wrong path, and she wouldn’t have to activate the next Formation Node to face danger. Not all the blemishes were sealed inside the bridge. There were roving groups of sinners, along with Qriz’Ul and all kinds of anomalies that prevented the Bridge of Karma from operating properly. Worse, the odds of stumbling onto such encounters seemed to increase by the day.
+
+Catheya turned beyond the railing at the countless bridges crisscrossing the night sky. Rather than a bridge, it was more apt to call it a web of interpersonal connections—a web connected to every corner of the Left Imperial Expanse and those who tread it. There was still no sign of her own Karmic Bridge—the path she believed would take her to the Daedalian Court.
+
+The bridge had seen some changes during her time inside the memory—not to the point of the upheavals that accompanied the emergence of another halo, but a significant alteration of the past should have occurred. Or perhaps the change wasn’t connected to history at all. Her proximity to the Daedalian Court wasn’t the only reason the road was growing increasingly perilous.
+
+The Sangha was up to no good.
+
+She’d seen groups of monks traversing the bridges more than once, their numbers far greater than what should be possible. She already had a decent idea of what was going on. Those she saw were not of this time. One of her most perilous encounters inside the bridge nodes was with a C-grade Abbot proselytizing during the empire’s fall, adding to the rapid decline of the Imperial Destiny.
+
+Catheya had narrowly escaped being trapped in his web of Karma. Two days later, she saw the very same monk leading a contingent of acolytes down a parallel bridge. The monks were breaking out of the past, or more likely, being extracted by the Sangha’s trial takers. It didn’t matter whether the conjured monks were real or not. Their power was very real, at least while they trod the Bridge of Karma.
+
+There had to be a price to pay to alter the balance in such an overt manner. Catheya guessed the Sangha didn’t have a choice, considering the opponent they faced. She would normally have been more than happy to watch the Sangha and the empire’s remnants duke it out. Neither side was a friend of hers, the Empire, or her people’s.
+
+If only they could have done it elsewhere. Each battle redrew the threads of Karma, undoing Catheya’s efforts to plot a route. Thankfully, the immediate surroundings were blissfully quiet at this moment, and she planned to capitalize on the calm to cover some ground. The [Grand Unifier’s Crown] was the reason she’d come this far, and it was the reason she had to keep going.
+
+The item was of extraordinary nature, but it needed a Spirit to be bonded and unlock most of its power. However, allowing a random spirit to take hold would do Catheya no good. There were too many mysteries surrounding it, and only the Daedalian Court had the answers. She could feel that unlocking its potential would unlock her own, and allow her to progress further down the road she’d chosen.
+
+Using her drive to rouse her domain once more, Catheya fused it with the amulet. The guardian’s resentment harmonized with Catheya’s Destiny, bonding over their shared Karmic link; their connection to the Daedalian Court. [Black Ice Cosmos] took on the harmonized energy before spreading down the sixth paths. Minutes passed as Catheya carefully sensed the different reactions, discarding one path after another.
+
+An all-too-familiar fluctuation interrupted Catheya’s work when only two choices remained. Catheya frowned and got to her feet, gazing at the newly formed bridge that had connected with her location without warning. Its deck was obscured through unknown means, but Catheya knew there was a decent chance the path had been opened by exploiting her Karmic links.
+
+Catheya prepared to pick a path at random and make a run for it. She was alone and in no condition to fight with the Buddhist Sangha. However, she held back upon realizing only a single monk stepped onto her bridge before the path behind him collapsed. Judging by the aura, he was one of the trial takers. He was also vaguely familiar, and it took Catheya a moment to realize why.
+
+“You’re Earth’s traitor,” Catheya said, her brows furrowing with disgust upon the realization.
+
+She recalled Zac once mentioning Abbot Everlasting Peace, who escaped Earth when his home needed him most. He only returned when the Fifth Pillar stirred. And yet, he made no attempts to contact Zac or lend a helping hand. Not so much as a thank you for saving his home world during the integration.
+
+“Traitor… You’re right. It would not be wrong to call this poor monk a traitor. I have also made many mistakes in the name of the greater good,” Everlasting Peace said with a calm expression as he placed his hands together in prayer. Catheya watched as the lingering traces of resentment surrounding the Formation Node were cleansed.
+
+“That is why I’m trying to right the course and find merit in this sea of regret. Karma led me here, and I believe we can help each other.”
+
+“Help each other?” Catheya said with a raised brow. “Are you trying to recruit me for your war? Those imperials must be giving you a run for your money if you come to a Yin Creature for assistance.”
+
+“This bridge… It should not be,” the old monk sighed. “It’s trapped and twisted so many, denying both faithful and faithless their chance at Samsara. This cycle of suffering will not end by clashing with the Sangha’s enemies. Only by concluding the trial can this thread of Karma finally end for real.”
+
+“What are you saying? Do you want to work together to reach the court faster?” Catheya said with a thoughtful frown.
+
+Working together with the Buddhist Sangha bordered on sacrilege, but there was no such thing as eternal enemies. The old monk could obviously manipulate the bridge of Karma in ways she could not.
+
+“Why do you need me?”
+
+“Because of benefactor’s abilities, and frankly, because of benefactor’s connection to Zachary Atwood,” Abbot Everlasting Peace sighed as he took out an unremarkable lotus leaf. “I’m afraid this poor monk has exhausted my Karma with Zachary Atwood, precluding me from discovering the shortcut he’s unearthed.”
+
+“What shortcut?”
+
+“If Benefactor agrees, this poor monk will exert some effort to provide an answer.”
+
+Catheya couldn’t hold back her curiosity and slowly nodded. Abbot Everlasting Peace placed his hands together, and Catheya frowned upon seeing his aura wither away. The lunatic was actually sacrificing lifespan to forcibly build a new bridge. A seventh path emerged, stirring a sense of warmth in Catheya’s heart.
+
+“Fine. We’ll work together for now,” Catheya said, stepping onto the road, holding streaks of blistering Life.

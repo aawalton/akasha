@@ -1,0 +1,133 @@
+---
+id: d575a028-0c6f-5c61-810f-719f5d8c8701
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 38"
+slug: 0266-b4-chapter-38
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 266
+ownLength: 1480
+unit: words
+ownProgress: 1480
+publishedAt: 2025-03-30
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2161715/b4-chapter-38"
+royalRoadId: "2161715"
+markedReadAt: "2026-06-29T19:14:48.047Z"
+---
+
+Aria
+
+When I get back to the station, I find that both a lot and very little has changed. Everything that was damaged before from Pestilence’s attack is fixed, but everything is once again going on as normal from prior to the attack. As if it had never happened.
+
+People are also still fussing over me even after three decades have passed. Which isn’t fun.
+
+I manage to make it to my ship without much trouble though. Because all of the people fussing over me at least give me room and do it from a distance. Unlike what they did before.
+
+As for when I arrive back at my ship again? I find that Little Blue long since left to return to the company, meanwhile Leone was off exploring other stations. According to Crimson, at least.
+
+Also, Crimson has a message for me that I very much do not like.
+
+I grimace after listening to a recording of Little Blue happily talking about how much paperwork I’m going to have to deal with.
+
+Okay. So maybe I should find Leone and leave this place fast to avoid her?
+
+Preferably before she gets word that I’m out of the Fracture.
+
+One thing I am a little surprised about though is that Lyra sends a message welcoming me back instead of coming personally. Which is very much unlike her from what I’ve seen so far.
+
+So I do some snooping, having Crimson open up various news articles from the past years all across the universe out of curiosity. And lo and behold, something strange is going on.
+
+I frown.
+
+Very strange.
+
+Pretty much every one of the biggest powers in the universe is readying their military. Or most of them, at least.
+
+Some of them aren’t doing anything, but the ones not doing anything are all the ones that tend to stay neutral in everything or just plain not concern themselves with outsider affairs. Which still leaves thousands of nations across the entire universe with several of the Grands included raising their militaries.
+
+Almost like everyone’s preparing for some disaster or enormous universal war.
+
+I try to have Crimson look into it, but the only thing I can find are details about something everyone is calling ‘another birth’ all over the universe. With no one specifying what that even means.
+
+Weird.
+
+Other than the military preparations, there are also other preparations. Like increasing security in populated areas, increasing production of space travel vessels, and for some reason making some sort of purifiers meant to purify the air.
+
+But everything is locked down tight in regards to information.
+
+I frown before eventually just giving up, honestly not caring enough to bother Shirogane to look into it for me. Or any of the other nations.
+
+Atlantis doesn’t seem to know what’s going on since they aren’t preparing anything. So I can’t bother Little Blue about it like I normally would. Or Azura.
+
+Actually, come to think of it, maybe I can ask those annoying bodyguards that are waiting outside of the ship?
+
+That should be simple enough.
+
+With that thought in mind, I head straight outside of the ship and stop right in front of it with my arms crossed as I shout out, “Come out guards! I have a question I want to ask!”
+
+All of them appear in an instant in front of me, kneeling down with their heads lowered to look at the ground.
+
+“Tell me what this ‘another birth’ thing everyone’s preparing for means,” I order while feeling ever so slightly uncomfortable at the sight of them all kneeling. Although I am at least starting to get used to it a little bit.
+
+The captain of the guards looks up and states, “I apologize, Your Highness, but Her Majesty has forbidden us from speaking on the subject of that being’s birth to you.”
+
+I blink in surprise, but the guard doesn’t stop surprising me there.
+
+“We have also been ordered to keep any information about the being’s birth away from you as you do not need to know about it,” the captain continues with an apologetic look on his face that gets on my nerves. Considering what he’s saying right now. “Please continue moving around the universe at your leisure, for the being will not target you even should you run into it after its birth.”
+
+And without letting me get a word in after that, the knights all shout out a quick, “Your Highness,” in respect before vanishing without another word. Leaving me standing here in silence, no longer crossing my arms and just holding them at my side instead.
+
+The fuck just happened?
+
+Silence fills the hangar for a little while. Then I eventually just let out a sigh and head back into my ship.
+
+Whatever. Just, whatever.
+
+I don’t even care anymore.
+
+Besides, they’re just gonna block me if I try to dig any deeper. And it’s not worth the effort to try to go around them.
+
+I’ll figure out what it is when it happens.
+
+Anyways, I go ahead and leave a message with Lyra about me leaving the station. Then I have Crimson start up the ship and head over to whatever random Star Link Station Leone is currently in before picking her up and leaving the Star Link Stations entirely. With her complaining the entire way about how she got stuck on gambling while I was away and ended up having to leave before she could win back her earnings.
+
+Which is her own fault, not mine.
+
+So I do the responsible thing in this situation and ignore her.
+
+And with that, my ship and I both finally bid the crazy nation full of crazy people who are now treating Death as their savior behind. Leaving it to go to another crazy nation full of crazy people.
+
+This next world is one that I’ve been interested in checking out for a while now. It also has Hunter’s Spots, of course, and it is one of the few worlds in the universe where the mana creatures have spread out from said Hunter’s Spots to fill the planet itself. Which has led the people of the world to settle in the skies way above the surface of their world. Above the clouds even.
+
+Clouds that are poisonous to the touch, much less breathe.
+
+The world of Khelethario. A world most people avoid like the plague because of the poisonous clouds and the fact that the Hunter’s Spots are down on the surface. In the middle of the poisonous gas-filled caves.
+
+And the other mana creatures are also on the surface. A surface covered in that same poisonous gas.
+
+So it’s a very dangerous world. One where the people literally have to live on large cities above the clouds suspended there by massive towers that go all the way down to the surface just to survive.
+
+But the reason these people are crazy is a simple one.
+
+They’re still living there despite the shit conditions because they want to become a subspecies of human.
+
+It’s ridiculous. They’re actually trying to stay there just to make their bodies undergo evolution to be immune to the poisonous gas.
+
+Overall though, they don’t have much of a society. Each one of those cities is individually ruled, and there isn’t much of a presence on the surface. So I can just go down and land there without much problem using a shuttle. And no one will stop me.
+
+Meaning I can completely ignore the people on the planet and check out the Hunter’s Spots. While also getting myself an adaptation to that particular poison.
+
+Because more adaptations are always nice.
+
+“You’re seriously taking us there?” Leone mutters after she looks over my shoulder at the map and where I indicated Crimson take us.
+
+“Yep,” I answer without looking back at her, “I’ll probably spend some years there. You’re free to head back to Eternus while I’m there if you want. The company can always use the help.”
+
+I smile as I look out the front window of the ship while sitting back in my commander’s seat.
+
+“If that’s how you feel, then why don’t you fill out some more paperwork on the way to this new destination of yours?” I hear a familiar voice echoing from the entrance of the bridge, making me stiffen up before I slowly turn to find Little Blue there with a smile on her face. Not to mention a cart of paperwork next to her. And before I can ask anything about how the hell she got on the ship, she glances up at the ceiling with her smile growing and says, “Thank you Crimson, for letting me test out the teleportation pad. It seems to be working wonderfully.”
+
+|Your welcome.|
+
+My eyebrow twitches in irritation.
+
+When did she become so friendly with my ship’s AI?

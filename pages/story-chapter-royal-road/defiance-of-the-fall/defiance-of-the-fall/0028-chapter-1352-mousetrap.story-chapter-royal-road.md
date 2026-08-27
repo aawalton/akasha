@@ -1,0 +1,193 @@
+---
+id: 8d581774-2eca-5c08-9013-1327a0aa57bc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,352 - Mousetrap"
+slug: 0028-chapter-1352-mousetrap
+partOf: defiance-of-the-fall
+position: 28
+ownLength: 3257
+unit: words
+publishedAt: 2025-09-11
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2593200/chapter-1352-mousetrap"
+royalRoadId: "2593200"
+---
+
+The complex magic circle shrank from the size of a washbasin until it fused with Zac’s forehead as a pitch-black stylized urna. An immense flood of Abyssal Death surged through his body as the region’s glaring Stellar Dao almost faded to nothingness. The surge was temporary, though Zac could vaguely sense a hidden tapestry covering his pathways, Soul Aperture, and Duplicity Core.
+
+“It’s curious how your human half retains such an affinity for Death.”
+
+“There are plenty of humans who practice the Dao of Death.”
+
+“Granted, but they wouldn’t be walking around with Life-attuned Constitutions,” Tavza said. “I simply cannot understand the mechanics behind it. And why can I sense the Branch of Eoz on you despite lacking a Draugr bloodline? It’s no wonder you’re working so hard to protect your secrets.”
+
+“Clearly not working hard enough,” Zac muttered as he inspected his state.
+
+He felt himself ensconced in an invisible cocoon of Abyssal Death. It wasn’t the suffocating darkness he’d experienced when Tavza first used her bloodline ability against him. It was closer to the welcoming warmth he’d experienced in his visions and during his dip in the abyssal pond.
+
+Having the mark left Zac somewhat nauseated, and he needed to keep his bloodline in check to prevent them from expelling the foreign influence. It wasn’t enough to become a distraction. He rotated his energy and activated a few skills. Tavza’s array didn’t interfere at all, though he noticed a slight fluctuation of Miasma from her. It looked like fighting would drain both his and Tavza’s reserves.
+
+“And this will protect me?”
+
+“The Abyssal Mark is based on my second bloodline talent. It’s effective against most tracking methods, and I believe that extends to Mox’s method of tracking you. Her proliferator should have caught a piece of your memories or emotions during your clash, and she’s using that to find you. The Abyss can sever those emotional bonds,” Tavza said. “Then again, this is an ancient Supremacy. There are no guarantees.”
+
+It had been an hour since the An’Azol descendant found him. They’d compared notes after ironing out their new agreement while Tavza modified the Abyssal Mark. It was originally meant to protect her subordinates and provide them with a steady stream of Miasma. She had discarded the energy supply and protection, instead focusing the seal to use all its energy to extend Tavza’s domain.
+
+“Take this, just in case,” Tavza said, handing him a platinum earring with a drop-shaped black opal.
+
+Zac pushed it through his earlobe, and the wound immediately closed, securing it in place. An ethereal light flickered in the gem’s depths when he infused it with some Earthly Dao of Sealed Death. Zac could feel a slight ripple of fate from within. It was eight parts similar to the streak of supreme Abyssal Dao that helped him create [Fatehew]. It was a Fate-protecting treasure made by the Ur’Mez clan.
+
+“Pure Death,” Tavza mused.
+
+Zac could almost hear the gears turning in her head. “You have to stop studying me like a praying mantis or we’ll never get out of here.”
+
+“You’re right. My apologies,” Tavza said. “I’m ready.”
+
+Zac turned toward the memory domain. Just as he was about to step through, he stopped and activated [Conformation of Supremacy]. A swirl of life enveloped him, and both [Ossuary Bulwark] and his skin grew a few shades darker as they drew closer to the ochre rocks. He also grew half a head taller as he felt his legs fill with explosive power.
+
+The first two levels of the skill had covered the basics. The warchief form added explosive offenses while the Ent Elder focused on defenses and recovery. Zac had considered having a third state that mainly focused on infighting and elevating the Evolutionary Stance. He ultimately decided to first add some utility by incorporating a form that boosted speed and, to some degree, hid his presence.
+
+Zac felt like a predator that stalked its prey until it drew close enough to erupt in a burst of speed and violence. Satisfied with the result, he decided to call it his Stalker form. Tavza gave the go-ahead when Zac glanced at her, confirming that maintaining his skill wasn’t a problem for her or the Abyssal Mark.
+
+“I guess we’re about to find out if this works,” Zac said. “Last chance to back down.”
+
+“The mark won’t last ten minutes without me to maintain it. Besides, I believe I’ll be better off sticking close,” Tavza said.
+
+Zac nodded and turned to face the shimmering swirl on the other side of the memory domain’s border. There were still many uncertainties, but he couldn’t wait any longer. Two more halos had appeared on the Outer Courts over the past week, each one expanding the border to the inner regions. More than half the memory domain was already inside, and he might be locked out if another halo suddenly appeared.
+
+The brand on his left hand undulated as he stepped through, taking on Tam Brooks’ identity. He’d confirmed that his choice of identity made no difference to Mox, and his Veteran identity had a strong connection with the Hollow Court and the Order of Fertile Earth—a requirement for his plan.
+
+Zac grunted as he was exposed to the domain’s ambient Dao. Even [Ossuary Bulwark]’s protection couldn’t prevent the painful itch digging at his skin. It felt as though he was being sanded from head to toe with the coarsest sandpaper. The pain barely registered as Zac's full attention was on his Danger Sense. He’d even brought out his broken [Lucky Beads] to maximize the effect.
+
+Mox’s particular feeling of danger was still present, though significantly weaker than before. At its current rate of increase, Zac had more than a day or two before it reached critical levels. However, he also knew Tavza’s Abyssal Mark wouldn’t last that long. To be safe, he needed to be ready within half a day.
+
+“Oblivion and Stellar Dao,” Tavza said as she appeared by his side. “Apocalyptic Dao. How apt.”
+
+“What’s that?”
+
+“The combination is occasionally called as such. It’s an unstable Dao that naturally appears near collapsing stars.”
+
+“Well, let’s go before one drops on our heads,” Zac said.
+
+He didn’t need to ask if Tavza was fine. Her methods were clearly effective even in such intense environments, though the drain on her Vigor had to be much greater. The two cut through the haze, heading straight for the domain’s center. Haro’s slithering vines helped investigate the obscured surroundings, and windows kept popping up around Tavza.
+
+Their scans yielded the same results: nothing of note. Much like the storm where he picked up Tam’s lantern, any structures or landmarks had been eroded by the Apocalyptic Dao.
+
+“Jump up,” Zac eventually said while Haro formed a chair. Tavza silently regarded the vines. She said nothing, but Zac could somewhat intuit her thoughts this time. “It’s not that I doubt your ability to keep up. There’s no point in you wasting your energy on movement skills.”
+
+Tavza lightly sighed and draped a fine Death-attuned quilt over the Life-attuned vines. She sat down, and Zac shot off like a bullet. His legs were filled with boundless explosive power, allowing [Skystriker] to cut through the vast deposits of Apocalyptic Dao with ease. Each step covered over a mile, leaving a tremendous storm in his wake.
+
+Zac only stopped upon reaching a pocket of calm. As expected, there was something in the domain’s center: a temple that kept the Apocalypse at bay with an aura of Sacrificial Dao and what may have been the Inverse Peak. It resembled Roman architecture, and while deserted, it was in decent condition. There were a few cracks on its surface, but its arrays remained steady.
+
+“Interesting. Preli Epoch, maybe?” Tavza muttered as she stepped down from her seat.
+
+“My companions must have entered,” Zac said as he stepped forward. There was no sense of danger coming from the building, and their search still hadn’t uncovered anything else.
+
+“Wait.”
+
+Zac looked over to see a notepad in Tavza’s hands. She rifled through the pages until reaching a section filled with unreadable notes. The writing appeared to have some form of encryption to prevent prying.
+
+“Did you discover something?”
+
+“This arrangement seems familiar to something I saw in the Imperial Graveyard. Please give me a moment,” Tavza said as a flock of small creatures flew out of her sleeves.
+
+The creatures resembled feathered fish, and Zac sensed no true spirituality from them. While they looked like Undead Beasts, they were energy constructs made from an array. A few took up positions where the temple’s energy flow was the strongest. They began to vibrate and morph until they transformed into unfamiliar runes. A few more flew into the temple, which did not react to their presence.
+
+“I see. It’s a shelter designed to protect civilization in case of catastrophe,” Tavza said, nodding with satisfaction.
+
+“Can you see my friends?”
+
+“No. The temple is a gateway to the sanctuary. Your companions should have been sent there.”
+
+“Did you see something similar outside? Is this something the Limitless Empire built in anticipation of the Dark Ages?” Zac asked.
+
+“No. This temple was built at the end of the Preli Epoch, which predates the Limitless Empire,” Tavza replied. “It’s likely the work of a lost civilization from the Left Imperial Expanse.”
+
+“How can you tell? It looks like some of their buildings.”
+
+“You need to understand the language of history,” Tavza said.
+
+“I’ll add it to the list,” Zac said. “Is it safe to enter?”
+
+“It depends. There’s no telling what’s waiting on the other side. A Mystic Realm, a hidden location on the continent, maybe a high-grade Spatial Treasure. Considering the situation, I assume it’s a one-way route,” Tavza sighed. “These projects rarely end well. If they’re not breached, they turn into prisons. With limited resources, the survivors descend into tribalism.”
+
+“Well, there’s a solution since it became a memory,” Zac shrugged and walked inside.
+
+The temple only held one large room. Each wall held two alcoves with large piles of dust. Whatever had been placed inside had long since been eroded by time. The only thing left intact was a large stone cube placed in the center. Unfamiliar runes were carved onto it, but it didn’t emit any energies.
+
+“‘The Evi’Shi shall endure, even should the final sacrament fail,’” Tavza said, giving Zac a sidelong gaze. “No, I don’t know what it means. I simply used an ability to translate the script.”
+
+Zac wasn’t surprised Tavza had something superior to [Primal Polyglot], which remained an E-grade skill without stages.
+
+“The method of teleportation is quite unusual. Looking at the stone is enough to be sent over. It doesn’t appear to use the Dao of Space. At least one Late Stage Autarch was involved in this temple’s construction. We’ll be sent over the moment I stop my interference,” Tavza looked at Zac.
+
+“Do it.”
+
+Tavza waved her hand, and her conjured creatures flew back. They barely had time to return to her sleeves before the surroundings shifted. They appeared on a small, cracked platform in the middle of a sprawling slum. Zac gaped at the crude buildings stacked on top of each other, quickly closing his mouth when the stench hit him like a brick.
+
+It was as though the residents were in a constant battle for space. The shelter was likely underground. The buildings stretched over a thousand feet before reaching a gray ceiling. Not an inch was wasted, to the point he couldn’t see much further with his eyes than with Soul Sense. The city was illuminated by enormous bulbs installed haphazardly, half of which were out of order.
+
+Only the platform’s immediate surroundings were awarded a few dozen meters of breathing room. Beyond that, the streets were narrow alleyways barely wide enough for three people to walk in line. The buildings were in an advanced state of decay, and refuse was everywhere, yet they clearly weren’t abandoned.
+
+Humans and humanoid species moved about like busy ants, too many to count and all gaunt from malnutrition. The clamor of mortals was almost deafening. It was the most impoverished place Zac had ever seen. The rickety skyscrapers looked like they could collapse at any moment, and the claustrophobic experience was worsened by the dearth of ambient energy.
+
+The misery shattered Tavza’s placid demeanor. She took in the scene with horror and confusion but reacted the moment Zac sensed hostility from all directions. Zac disappeared in a flash, leaving two footprints on the platform. [Conformation of Supremacy] had turned him into a speeding train, transforming his body into a weapon.
+
+Two Early Hegemons hidden in an alleyway exploded in a cloud of gore without Zac needing to attack. He simply stopped in his tracks and released some of the kinetic energy gathered in his legs. A swift swing with [Verun’s Bite] killed the third enemy lying in wait, and Zac was already in another alley when his head hit the ground.
+
+Meanwhile, explosive eruptions of Death shook the surrounding buildings as Tavza cleared the area. Hiding behind walls or corners offered no protection against Tavza’s superior cultivation and Draugr Vision. Each enemy would light up like a beacon of Life in Tavza’s eyes. They tried to fight back, but the trio of weak Early Hegemons were among the strongest in the welcoming party. It wasn’t a fair fight.
+
+A figure shrouded in starlight suddenly leapt out of a window, narrowly avoiding an intense Abyssal blast. Zac cursed and quickly moved to Ventus’s side. Tavza smoothly shifted her attention to the remaining enemies, and the streets soon fell quiet. All cultivators within a hundred meters were dead or gone, and the mortals had retreated to safety. However, the streets were already filling up with people who hadn’t noticed the slaughter.
+
+“Thank you,” Ventus exhaled, giving Tavza a fearful look as she approached.
+
+“Good thing you waited for me. I’m not sure how I’d find you here,” Zac said. “Is Ogras okay?”
+
+“Some bruises aside, yes,” Ventus said while quickly handing Zac and Tavza crude cloaks to conceal their appearances. “You picked the right time to arrive. There are usually big shots lurking near the welcoming platform—even Monarchs.”
+
+“This place can produce C-grade cultivators?” Zac said in disbelief. Even encountering Early Hegemons had been surprising.
+
+“We were just as shocked when we first arrived. Luckily, Master Azh’Rezak found a thigh to grab onto before we were robbed blind,” Ventus said while frantically tapping away at his abacus. “Still, we shouldn’t linger. We need to be gone before the big shots return. Mistress An’Azol, I’d appreciate it if you donned the cloak. Even with proper credentials, your grace will stand out in those clothes.”
+
+“So what’s going on?” Zac asked, already draped in the crude garment.
+
+“You’ll understand soon,” Ventus said, leading them back into the building he escaped. From there, he took them down an underground corridor. The stench was overwhelming. Then again, the streets above weren’t much better. “I know you have questions, but please be patient. This place is complicated, and the walls have ears.”
+
+The Numerologist led the two through the labyrinth of misery in silence, navigating alleys and indoor corridors within the jam-packed buildings. Occasionally, they cut straight through people’s living quarters. Strangely, the inhabitants merely shot the trio an annoyed glance before going about their business.
+
+The cramped buildings eventually gave way to a more orderly city. There was still no sky, and the Cosmic Energy was inferior to most E-grade worlds, but Zac finally felt he could breathe again. He was shocked by the sheer size of the slums; there had to be millions upon millions living inside.
+
+After another round of calculations, Ventus guided them up a flight of stairs for a better view of the city beyond. Zac took a deep breath, feeling as if he’d emerged from a toxic lake. The streets were wider, and likely due to some ordinance, the buildings only reached three-quarters of the way to the ceiling.
+
+The lightbulbs were evenly mounted in the ceiling like spotlights, rather than haphazardly placed. Beyond the city, there were terraced farmlands and a few massive structures larger than entire districts in the slums. The vantage also revealed a surprising number of D-grade guards patrolling the streets.
+
+Overall, the shelter was much larger than Zac had expected, to the point where he couldn’t see the other end. Only a faint glimmer of Imperial Faith confirmed they were still within the memory domain. The area was far larger than what they had seen above ground and among the largest domains he’d visited if the other directions looked the same.
+
+Zac barely had time to absorb the scene before a massive explosion erupted in the distance. It was followed by three flashes of light, and three concentric shockwaves swept toward the city. Zac exhaled as the blasts scattered, with no follow-up to the initial clash.
+
+“What the hell was that?” Zac whispered. “That had to be a clash between Late Monarchs.”
+
+“That would be the negotiations between the Pathfinders and the Rosemore Sect falling through,” Ventus said, furiously scribbling on a parchment. “Let’s go.”
+
+Back on the street, Ventus used his Numerology to avoid as many guards as possible. When they were eventually stopped by a group of Early Hegemons, he presented a certificate bearing an insignia matching their equipment. While exchanging pleasantries, the Elf also handed over two uncut crystals that Zac didn’t recognize.
+
+They emitted a chaotic mix, dominated by the Inverse Dao of the Lower Planes. It was completely different from the unusually unattuned atmosphere. The captain gave the certificate a cursory glance before waving them on with a smile, and Ventus stopped in front of one of the high-rises shortly after.
+
+“We’re here,” Ventus said, leading them down into a cellar after checking his left and right.
+
+A narrow path led to a small basement without windows or other exits. A group of five played cards on a table that took up half the room. They looked just like the gangsters they’d taken out just minutes before. It was clearly a disguise. Zac could tell the mobsters were highly trained and ready to strike at a moment’s notice. He even felt a vague threat from the leader.
+
+“Your buddies came looking for you, after all?” the leader said, giving Zac and Tavza a pitying look. “The Heavens are ruthless, so what’s the point of nostalgia? You should have burned some incense instead of looking for trouble.”
+
+“What if they’d found some treasure and ran off in the night? Couldn't take that chance,” Zac said with a slight smile, seeing that the leader was just joking around.
+
+“Aye, greed is just as dangerous as a soft heart,” the captain laughed as a hidden door opened behind them. “Anyway, welcome to the mousetrap. I’m Halvar. You two look like you’ll be useful in a scrap. That’s perfect; we’re woefully short-staffed.”
+
+Ventus had handed over his notes during the exchange. Halvar skimmed through them, and his lazy expression turned into a somber frown. “So it’s already come to this.”
+
+“My companion?” Ventus asked.
+
+“He’s investigating the refinery. Eighth gate,” Halvar said. “Be careful. It’s going down today, so quickly catch your friends up to speed.”
+
+Ventus led them down the hidden path. The gate closed behind them, and Halvar’s parting words became an echo traveling by their side.
+
+“If they’re going to die, they should at least know why.”

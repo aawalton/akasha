@@ -1,0 +1,123 @@
+---
+id: 8bc31f8a-0166-554b-abb6-672534f54a49
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 57"
+slug: 0129-b2-chapter-57
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 129
+ownLength: 1485
+unit: words
+ownProgress: 1485
+publishedAt: 2024-03-16
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1556992/b2-chapter-57"
+royalRoadId: "1556992"
+markedReadAt: "2026-06-29T19:10:20.445Z"
+---
+
+Aria
+
+It all happens in an instant. Figures of all sorts appear across the ballroom, some coated in shadows, others with their own abilities and skills, but all cloaked in a way that makes their face difficult to distinguish. And they all rush in and kill a random noble within the room, leaving the higher leveled ones alone.
+
+Then they all retreat quickly after that, leaving chaos in their wake.
+
+And just like that, I watch from my spot on the balcony as shouts and accusations begin to be thrown around by the nobles on both sides about who is behind the assassinations. Quite a few people even draw their swords and guns. Although mostly swords. Because guns were never as prevalent on this planet, what with it mostly being underwater. So they focused on swordplay. Since they don’t have the technology from the Eternal Dynasty to make underwater guns, nor do they have the greatest of enchanters or smiths working for them.
+
+The guards all join in on the sword drawing as well, and it doesn’t take long for the guards and nobles to begin attacking each other.
+
+I just kinda sit here in the corner sipping wine as I watch, not really sure what to do.
+
+Meanwhile I spot Shirogane doing the same thing. Which is to be expected, since the Dynasty is directly neutral and would never participate in a rebellion on either side.
+
+Although I do see him using his ability to cover his body in a liquid metal as a sort of armor. Probably just for his safety in case a stray bullet from one of the few guns here does hit him.
+
+Then the king and queen finally get involved.
+
+The queen sends a powerful wave of vibrating water throughout the entire ballroom, quite literally ripping the attacking nobles to shreds while completely ignoring anyone who isn’t amongst the duke’s forces. That isn’t one of the rebels.
+
+Meanwhile the king – to my surprise – sends a wave of darkness through the hall, swallowing up the rebels without leaving a trace behind.
+
+I continue to sip my wine while watching this as the rebel nobles are quickly taken care of. Only for something to flash straight past me, making my mind go blank for a second before consciousness returns and I find myself staring at a man’s back. Someone who is now standing in front of me on the balcony, with little green tentacles extended from his body, fighting back against the king and queen’s attacks.
+
+Did that guy just blast half my body off? He did, didn’t he?
+
+I glare at him, but fortunately for me, I didn’t wear a dress this time around. I just came wearing my favorite outfit instead.
+
+Which didn’t even so much as get a scratch thanks to the enchantment.
+
+I love that enchantment.
+
+“Duke Sirenaeus Thalassar Oceanicus, I was wondering when you’d show up,” the queen declares without a hint of emotion on her face.
+
+That’s a long and complex name.
+
+I don’t like him.
+
+He vaporized half my body up when he arrived and doesn’t even seem to care.
+
+I’m not even sure if he realizes I’m still here.
+
+“For committing the act of treason, you are hereby sentenced to death, Sirenaeus,” the king declares, the pair once again doing their little alternating speech thingy.
+
+The duke snorts at that and begins to attack both of them, surprising them with his sheer ability to even do that. Since they’re both almost a hundred levels above him. But despite that, they actually struggle to push his attack back even with both of them fighting at once. And this gives the remaining noble rebels a chance to retreat as more powerful noble rebels emerge and begin attacking.
+
+I scowl at the duke. Honestly couldn’t care less about those other rebels, but this ass literally vaporized me just from landing and didn’t even bother apologizing.
+
+That’s just plain rude.
+
+The Ballroom
+
+Azura grimaces as his sword clashes with the sword of a marquis, the two just barely being even. Until his elder sister helps him out by sending a spear of ice straight through the man’s brain from further away, making Azura nod his head in appreciation. To which she nods back.
+
+Then he turns his attention towards their parents, who are both fighting the duke.
+
+And towards the girl who is currently scowling at the duke from behind the man, with the duke not even seeming to notice her presence.
+
+Probably thinks she’s dead. He did vaporize half her body from the hips up.
+
+He sees her scowl growing harsher when she seemingly notices the shattered glass on the ground near her and the spilled wine just floating in the water.
+
+Yeah, she doesn’t look very happy.
+
+Azura’s attention is briefly taken away when two of the rebel nobles decide to team up on him and he has to fight off their attacks. And periodically he returns his attention to the duke, finding him somehow fighting evenly with both his parents. Something that shouldn’t be possible without an enhancement potion.
+
+It doesn’t even take Azura long to figure out how he must’ve gotten the potion. Considering the assassins that had attacked during the ball.
+
+Assassins obviously hired from the Council of Darkness.
+
+Although Azura also notices that the duke doesn’t look very happy. Almost like he’s disappointed that he’s not able to quickly kill both the queen and the king with his boost despite what it must’ve cost him.
+
+Azura continues fighting the two rebel nobles for a bit before finishing both of them off with his own ability, tearing them apart. Then he turns back to the battle with the duke, only for his eyes to widen when he sees the man pulling out another potion, pushing the green tentacles defending his back to support the front as well due to his distraction.
+
+But right as he’s about to down the potion, Azura’s eyes widen in shock at the sight of Aria summoning her swordgun to her hand and raising it to point at the duke. And he’s not the only one as all of his siblings and the other nobles watching, both rebel and otherwise, do the same.
+
+Then a loud gunshot inherent to guns not fired underwater echoes out through the area and blood begins to stain the duke’s chest right where his heart would be. And he immediately, seemingly on instinct, lets go of the potion he was about to ingest as his eyes blink in surprise.
+
+Silence instantly fills the ballroom, only shattered by the sound of two more gunshots. As if the young woman is just mocking the guy now.
+
+Everyone stares in shock at the young woman and the duke, whether they’re rebels or not.
+
+Azura wouldn’t even be surprised if most of the people had forgotten she was there. With her being a foreign guest and all. One at level 23, even if she has a black number.
+
+The duke slowly lowers his head to look at his chest before the strength in his legs gives out and he slowly drops to his knees in the water. Then he tries to turn his head to look at Aria, only for the light to go out in his eyes when another gunshot echoes through the ball, with the bullet passing through his head.
+
+And silence fills the ballroom once more as the woman who’d just killed the duke puts the gun away and walks over to the table closest to the balcony before grabbing a full glass of wine and walking back towards her spot at the balcony.
+
+Everyone just stares at the woman while she takes a sip of her drink, still scowling at the duke’s corpse, clearly holding a grudge for his entrance.
+
+Azura understands that the only reason she was able to kill him is the fact that he was fully focusing his defenses on Azura’s parents. To the degree that the duke didn’t have a single defense from behind.
+
+And while all of the other nobles and rebels are no doubt still shocked about what happened, Azura can’t help but admire the gun she used to be able to kill someone that high a level.
+
+Now that’s good worksmanship. Maybe I can ask where she got it from.
+
+He blinks before shaking his head.
+
+No, she most likely got it from the Byrne Clan. And I doubt they’ll sell something that good to an outsider other than her.
+
+The prince shakes his head, feeling like that’s a pity.
+
+While everyone else in the room is still getting over their shock about what just happened.
+
+“Well that rebellion didn’t last long,” Azura can’t help but mutter aloud despite everyone’s shock.
+
+And his words finally snap everyone out of it as shouts and cheers alike raise throughout the hall from rebels and non-rebels alike.

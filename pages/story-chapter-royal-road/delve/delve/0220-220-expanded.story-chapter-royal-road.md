@@ -1,0 +1,257 @@
+---
+id: 844149ad-7c3d-5446-9482-155e33ba8c24
+page-type-slug: story-chapter-royal-road
+title: "220: Expanded"
+slug: 0220-220-expanded
+partOf: delve
+position: 220
+ownLength: 4177
+unit: words
+publishedAt: 2023-02-05
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1106013/220-expanded"
+royalRoadId: "1106013"
+---
+
+“Okay, Dempton, you said you had something to show me?”
+
+“Yes, Captain,” said the curly-haired tailor, rising quickly as Rain entered the tent marked with the number two. Tarny trailed in after him holding a clipboard.
+
+Dempton snapped his fingers sharply at the other three occupants. “Come on, you three, line up. Sharply, now.”
+
+Rain did a double take, then slid his hand down his face with a tired sigh. “I said keep it simple.”
+
+“And I told you the purpose of a uniform is to impress!” Dempton said, waving elaborately at the three burly models, all former dock workers from Three Cliffs.
+
+“The purpose of a uniform is to be uniform,” Rain said. “All I want is something practical that people will recognize.”
+
+He looked again at the third Aspirant, whose outfit was the worst of the lot. The man was grinning, clearly having a great time, wearing a Vestvallan hat covered with wavy teal lines that hurt the eye. He also had a pair of enormous shoulder pads that made him look like a linebacker, except with dangling crimson tassels. His jacket and pants would have been perfectly at home in Hot Topic, all edgy black leather and studs.
+
+Rain turned back to Dempton. “Recognizable, yes. Practical, no. Fashionable, hell no.”
+
+Dempton inhaled, raising an offended hand to his chest as if he’d been stabbed. His soul, though, betrayed him.
+
+Rain sighed, kicking himself for not realizing immediately. “Lana put you up to this, didn’t she? This has her name written all over it.”
+
+Dempton grinned. “Maybe.”
+
+The sound of stifled laughter from behind a cloth partition made Rain roll his eyes. Lana walked out a moment later wearing a smile and what appeared to be the actual uniform. It was a white jacket like Myth’s, buttoning up on the left side and hanging to the ankle. The fabric was heavier, though, like sailcloth, and the collar was simple rather than evocative of the cone of shame. Ascension’s symbol had been sewn onto the breast in blue thread.
+
+“What do you think?” Lana said, giving a turn and revealing the arrow-and-globe symbol also stitched large across her back. As she completed her spin, she gestured downward at the dark trousers and beige boots trimmed with white fur that completed the ensemble.
+
+The pants are fine, but the boots...
+
+“Better,” Rain said, rubbing his chin as the decoys laughed and slapped each other on the back. “Looks cool, but it’s still a bit too much. The jacket can just button up the middle so it can be worn open if it’s hot, and it needs about three times as many pockets. It doesn’t need the symbol on the back, either. A white jacket is distinctive enough. If the pants are part of the getup, they don’t need to be. Let people wear their own stuff. Also, lose the Uggs. Nobody’s going to Starbucks.”
+
+“Sir?” Dempton asked.
+
+“The boots,” Rain clarified. “Smelt’s already got boots for anyone who doesn’t have their own. No need for anything special. Like I said, keep it simple.”
+
+“Good work, Dempton,” Tarny said, catching Rain’s attention, then signing ‘time’ in hand code.
+
+Rain nodded. “Let me know when the next version is ready, and start rounding up materials. Assuming Smelt and Vanna sign off, we’ll need five hundred at least.”
+
+Dempton choked. “Fff...five hundred?!”
+
+Rain nodded, turning for the open tent flap. “Numbers go up. Lots of new members coming in, given, you know”—he gestured vaguely—“everything. Actually, make it a thousand. Plan for tomorrow, not today. See you later, Lana, Dempton.” He stopped, looking back at them. “Actually, are either of you free tonight for Nine Dice? One more player, and we’ve got a full nine.”
+
+“Will Sana be playing?” Lana asked, taking the arm of the still-struggling tailor.
+
+“Yes,” Rain replied. Tonight. Tonight, I’ll win. I have to.
+
+“Pass,” Lana said, wrinkling her nose. “I love Sana, but if she’s playing, it isn’t fun.”
+
+“Come on,” Rain pleaded, looking at Dempton.
+
+“Never again,” Dempton said.
+
+Rain sighed.
+
+“I’d play,” said one of the burly models unexpectedly, raising a hand. “What’s the buy?”
+
+Rain turned to look at him, then grinned. “Tek, right?”
+
+“You know my name?” the man asked, taken aback.
+
+“Of course,” Rain replied, fighting not to laugh at his expression, though really, it was the Aspirant’s enormous frilled collar that was doing it. “No buy-in, just snacks and good company. It wouldn’t feel right, taking everyone’s money. Saying Sana and I are good is an understatement.”
+
+“I don’t know, Captain,” said Roan, another of the Aspirants. “Tek’s good too. So good, I say he’s a damn cheat.”
+
+“You take that back,” Tek growled, rounding on him.
+
+“All the better,” Rain said. Sorry in advance, Tek. My cheats are stronger. He smiled. ”My tent, fifth bell.” He glanced significantly at the man’s frilled collar. “No need to dress up.”
+
+Tek laughed as Rain turned for the open tent flap. “See you then, Captain, and thank you for the invitation.”
+
+“Bye, Rain!” Lana called.
+
+Rain waved over his shoulder as he ducked out through the wards into the eternal gloom of the overcast sky.
+
+The Maelstrom, as it had come to be called, was the center of what had been a desert in the northeastern Empire. It wasn’t exactly a desert anymore, thanks to the clash between Fecht and the Warden’s puppet army. The effects of their reportedly-days-long showdown had rippled across the entire continent. Here, it was just persistent clouds and wind, but further south, things worsened. It had been raining in Greenfield for a full week, and the storm showed no signs of stopping.
+
+As far as Rain knew, nobody had yet managed to breach the cataclysmic wall of wind that was the Maelstrom itself. Even with Fecht dead—as he hoped against hope was the case—the potentate had gotten his wish, in that the Empire was very much not, at least for the moment. With the Citizens still missing, they’d solidified their hold on the southern DKE, taking Lenleah, Falking, and Kinepeak, with Lightbreaker having participated in all three battles. That was a whole OTHER problem, Fecht’s hold on Val’s father being apparently undiminished. As it pertained to the ongoing apocalypse, though, the point was the Empire wasn’t exactly allowing on-location weather reporters in to have a look around.
+
+Fortunately, Guilders were crazy people.
+
+Alrich the Enkindled, a goldplate and one of the Ten, had fought through Adamants, monsters, and the fury of the storm to get closer than anyone else so far. According to his report, which Rain was getting third or fourth hand at best, system abilities began to misbehave near the Maelstrom, particularly outward-facing ones, such as the unnamed movement techniques Alrich had been using to fight through the gale-force winds. From that, it was clear that reality hadn’t merely been cracked this time, but outright shattered, and nobody knew yet how serious the implications were. Even if it was just the rain and flooding, refugees were already fleeing north in droves.
+
+And I’m here dealing with fabric.
+
+He turned for tent three, knowing he was being hard on himself. Really, he was dealing with everything, and it was only by coincidence that he had two cloth-related appointments in a row. He nodded to Vanna, spotting her talking to a member of Ascension’s growing army of clerks beside the entrance to tent six, then stepped through the flap of his own numbered tent to see an anxious-looking man sitting beside the table. The moment he crossed the threshold, the chaotic symphony of saws and hammers was snuffed out by Romer’s updated wards, and so he had no problem hearing the sudden gasp of surprise from the tent’s occupant.
+
+“What do you have for me, Aspirant Wes?” Rain said as the startled man scrambled to his feet. Wes was from Yelfenn and had only joined Ascension yesterday, answering the call for crafters Rain had posted in the city’s largest square.
+
+“Pardon, but you surprised me, Captain,” Wes said, doffing his slightly shabby hat before bowing low. “It is an honor to meet you for a second time. I’d like to personally thank you for allowing lowly craftsfolk like me and mine to join your company.”
+
+“No need for formality, Wes,” Rain said, happy to have not been called ‘lord’ at least. “I’m the one who should be thanking you for joining. We need all the talented people we can get with everything we’ve got going. On that subject, I’m almost a full minute behind schedule, so I’m afraid I don’t have time for pleasantries. Do you have the sample with you?”
+
+“Ah, yes. Yes, I do,” Wes said, rising and hurrying over to a table. He lifted a bolt of blue cloth and held it out in both hands, a note of pride entering his voice. “Here you are. It is my very best.”
+
+“Hmm,” Rain said, taking the deep blue fabric and rubbing it between his armored fingers. It was thin, with a tighter weave than anything he had seen in this world. That included the long-deteriorated pajamas he’d brought with him.
+
+Perfect.
+
+“Please, Captain, remove your gauntlets and feel the weave,” Wes said anxiously, dry washing his hands. “If you do, you’ll find—“
+
+“Relax,” Rain interrupted. “This is great stuff, and exactly what I need.” He pulled the fabric taut, making a sharp snap. “Nice and light. Strong. Should make a great envelope.” He pulled harder, then harder still, until finally managing to rip the fabric in half, much to the horror of the man across from him. “Relax, I said. I just wanted to see how much it could take. I’m buying it, plus however much else you have ready, and then some.”
+
+“That was all I had,” Wes said dejectedly.
+
+“Oh,” Rain said, folding the two torn halves, then placing them on the table. “Sorry. Anyway, I’ll need a lot more, like a lot more. As the posting said, I’ll pay handsomely in credit. How is it woven?”
+
+There was a long pause while the weaver continued staring at the torn fabric, then he shook himself and looked up. “Well, my family has been in the weaving business for three generations, and our shop has a dozen—“
+
+“No, no, mechanically, I mean,” Rain interrupted. “What kind of looms are you using?” He held up his hands together in front of him, palms pressed together and his fingers splayed apart to create a valley. “The warp gets set up like this by a pair of sliding frames holding the heddles? Pass the weft through the warp, then swap the frames over so it gets trapped, like”—he meshed his fingers through each other, keeping them straight. “Then you pass the weft through again, swap the frames”—he opened his fingers—“and on and on and on?” He lowered his hands, done with the demonstration. “Something like that?”
+
+“I...yes. Essentially.”
+
+“Good,” Rain said, nodding. “Is it mechanized at all? Are there levers to move the bits around?”
+
+“Yes,” the weaver said. “Pardon me, but were you a weaver before your awakening?”
+
+“No, I went on a field trip to a monastery in grade school. Don’t ask what that means. Back to the point, what carries the yarn when you pass it through? Some kind of shuttle, or do you just have it on a spool as you feed it through by hand?”
+
+“How else but a spool?” the weaver asked. “What do you mean by ‘shuttle’?”
+
+“Okay, look,” Rain said, motioning to Tarny, who’d been standing silently behind him this whole time. “Clipboard, please.”
+
+“One moment,” Tarny said, and there was a rustle of paper as he removed the top sheet, then passed Rain the clipboard and a pencil.
+
+“Thanks,” Rain said, then began to sketch. “You’ve got your frame like this, and the thread goes through here, then gets packed down by the thinger. Sorry, don’t know the name for that part. Anyway, you put a little shelf on it like that, then you get a big heavy chunk of wood and put a spool in the middle like this, see? So it spools out as it slides. Then you tie a rope to the shuttle there, and when you yank, it goes flying along the shelf you put on the thinger and runs the weft all the way through. The shuttle’s gotta be heavy, because momentum. Pack down the weft by pulling the thinger toward you, swap the heddles with the levers however you do that, yank the rope again to wack the shuttle back to the other side, again, again, again, you get the idea. Flying shuttle. You’ll be able to make the frame a good bit wider than your arms now. Even without that, it should still be faster, and that’ll save you buckets of time.”
+
+“Speaking of the time,” Tarny said.
+
+“I know,” Rain said, rubbing his eyes with a sigh. He’d left a few five-minute gaps in his schedule, but he just kept burning through them. Signing the page, he unclipped it from the clipboard and passed it to the weaver, who looked like he’d been poleaxed. “Half of what I drew is probably wrong, but it looks like I at least sparked something. Take that to Shena, our Woodsmith, if you haven’t met her yet. She shouldn’t be hard to find. In the meantime, if more hands would help with the equipment you have, Shena can help you with that too. She’s taken charge of that kind of thing.” He returned the clipboard to Tarny. “Tarny, make a note for Staavo: electric looms. I don’t know nearly as much about them, but I know they’re possible, and that’s all he should need. Low priority, though. More generators first, and I still want that blasted printing press already.”
+
+“I’ll add it to the list, Captain,” Tarny said. “Should I instruct Aspirant Dempton to see Aspirant Wes for the cloth he will need for the uniform jackets?”
+
+“No, no,” Rain said, shaking his head. “Dempton can buy that anywhere—well, Mlem can buy it—and then Myth and Reason can dye and treat it for toughness. This stuff needs a better strength-to-weight ratio right out of the gate. You’ll see why.”
+
+I’m getting that damn airship if it kills me. Even a normal balloon will be great for scouting now that we have a working radio again. Take some of the load off Emerton.
+
+“Oh, hold on,” Rain said suddenly, having caught sight of Myth and Reason passing by as if he’d summoned them. Technically, he had, though it was they who’d requested the meeting, which was scheduled right after this one. With the Wards blocking sound, he waved at them furiously until they noticed him, then beckoned, glad he’d managed to save them all the walk to tent one.
+
+“With me, Aspirant,” Tarny said, laying a hand on Wes’s shoulder, who was still staring intensely at the sheet clasped in his hands. “We’ll work out the details of the order, then discuss a point rate for compensation.”
+
+“Thanks, Tarny,” Rain said, nodding to him. “See you around, Wes. Tarny, please get back here in time for the meeting with the headman. And bring snacks. He should be happy once we’re done, regardless, but an apology is always better with snacks.”
+
+“You’re just hungry,” Tarny said, guiding Wes out past Myth and Reason as they entered for their scheduled appointment.
+
+“So?” Rain asked, smiling.
+
+“Now, Wes, your equipment is still in—”
+
+Tarny’s voice cut off abruptly as he passed through the wards, and Rain grinned, beckoning to Myth and Reason again as they made way. As they entered, he waved a hand. “Hey, guys. How are things?”
+
+“Good day, Rain,” Myth said, looking uneasy to Rain’s immaterial senses.
+
+“Things exist independent of qualitative judgment,” Reason said.
+
+Rain snorted out a laugh. “Nice to see you too. Are we still on for tonight?”
+
+“We will be there,” Myth said, tension still hanging heavy in his voice.
+
+“Great, great,” Rain said, smiling, but he didn’t raise his visor so they could see the expression. He’d been having...trouble...in that regard, with Ameliah gone for a full week as of today and with Tallheart perpetually squirreled away working on the titanium problem.
+
+For probably the thousandth time that day, Rain pulsed Detection through the anchor Ameliah had taken with her. The scan came up empty, with not a single human or cervidian in range. He’d done an excruciatingly detailed sweep once he’d realized she was leaving it behind, already thoroughly confused and worried at that point.
+
+First, there’d been the deserted village, then the three cervidians in the cave, whom Ameliah had taken west before leaving the anchor with them. Then she’d returned with dozens more, plus a handful of humans. Rather than simply heading back to the village or taking the group north, she’d made a trip to a ruined building where she’d left the anchor in a cellar—or perhaps a dungeon, from all the bars. Something had gone wrong, he knew, but the details...
+
+What the hells happened out there, Ameliah? And what’s taking you so long to get back?
+
+Myth politely cleared his throat.
+
+Shaken out of his thoughts, Rain spread his hands, attempting a smooth recovery. “You called the meeting, guys, so it’s your show. What do you want to talk about that couldn’t be discussed over beer?”
+
+“Should we sit?” Myth asked, looking around for chairs and not finding any.
+
+“Sure,” Rain said, folding his legs to sit on the bare dirt floor right where he was. “Sorry, chairs are in short supply, like basically everything. Well, everything except slag.”
+
+“The lack of accommodation poses no obstacle to my repose,” Reason said, flaring out the hem of his black jacket so he could join Rain on the floor.
+
+“What’s going on?” Rain asked, smirking briefly at Reason’s ridiculousness before returning his attention to Myth, who was shifting anxiously from foot to foot. “You’re nervous, and it’s making me nervous. Whatever it is you want to ask, just ask.”
+
+Myth hesitated a moment longer before flaring his coat to sit as well. “We didn’t tell you at the founding, Rain, but we...Reason and I...never intended to remain in Ascension long term.”
+
+Rain froze. FILTH! They’re not—
+
+[⟬FILTH⟭!]  Dozer echoed, interrupting him.
+
+“What exactly are you saying?” Rain managed in a level tone.
+
+“We have changed our minds,” Reason said simply. The words Read true.
+
+Rain held back the expletive that tried to escape his lips, and instead, he simply nodded. “I see. Well, that explains why you didn’t want to be Entrusted. Damn it, okay, I guess I’ll have Smelt close out your accounts and pay you for your—“
+
+“Actually—“ Myth began, but Reason cut him off.
+
+The dark-haired Chemist’s eyes were dead serious, as was his soul. “You would let us go with no challenge?”
+
+“Yeah,” Rain said, turning to him. “I’m not happy about it, of course, but Ascension’s not an army. Anyone can leave if they want to, even Entrusted if the council votes to allow it. You’re just Trusted, so as long as you agree not to talk about certain things, you can just...” He paused, then clicked his tongue. “Why, though? Is there some problem? If you aren’t happy—”
+
+“We are happy,” Myth interrupted, laying a hand on Reason’s. “Reason is simply testing the strength of your word”—he turned to glare at him—“as I told him was not necessary.” He looked back at Rain. “We have changed our minds in that we wish to stay. We wish to be Entrusted.”
+
+“Oh!” Rain said, laughing and breaking into a goofy grin. “You assholes! You let me think—”
+
+*pop*
+
+[Assholes!] Dozer sent.
+
+Reason smiled, or rather, his soul smiled. Rain couldn’t see his mouth, thanks to his black coat’s collar.
+
+“Oof!” Myth said, catching Dozer as the excited slime bounced off his chest. “Has Dozer gotten bigger?”
+
+“A bit,” Rain said, waving THAT whole mystery away. Pretty soon, he’d have to weigh him again. “Anyway, you want to be Entrusted, boom, you’re Entrusted. Why were you so nervous? I feel like I should be throwing you a party. Actually, yeah, that’s exactly what I’m doing. Cake tomorrow. Tell your friends.”
+
+“Wait, what?” Myth said, struggling to contain Dozer’s excited jiggling. “Just like that? The codes say there is supposed to be an interview and an exam...”
+
+Rain again waved a hand. “Oh, exam nerves? That’s all it was? Gods, what a relief. No, the council has pre-approved a few of those who turned down Entrusted initially. Anyone who’s on the list and asks to be promoted gets promoted, no questions asked. That’s just the first secret you’re Entrusted with now. I’ll do the paperwork tonight, so just sit tight until then. Depths, you guys. You really had me going.”
+
+Reading the truth doesn’t mean you can’t be led astray.
+
+Having allocated a full fifteen minutes for this meeting, Rain spent the rest of it just chatting with the Alchemistry duo and playing with Dozer. It was a welcome break, though finally, he had to get back to work, so he bid them farewell, coaxing Dozer back inside his soul before moving to tent two.
+
+On and on it went, meeting after meeting, issue after issue, packed nearly back-to-back and leaving him little time to dwell on Ameliah’s continued absence. All the while, he modulated his auras through the various anchors around the camp, powering the smelters, banishing filth, and resupplying mana to any that needed it.
+
+As Rain worked, he caught occasional glimpses of Vanna, occupied much as he was, the two of them linking up properly for the shared meeting with the headman. That went rather well, especially after Tarny showed up with the snacks, the headman leaving with a promise that Ascension would build his village a breakwater from the stone bricks leftover from the furious smelting operation as recompense for all the chaos they were causing.
+
+Really, though, it was still a problem. They weren’t being very good neighbors, and if things continued as they had been, Ascension’s camp would soon grow to the point that it eclipsed the man’s village entirely. If Tallheart didn’t have a breakthrough soon, Ascension wouldn’t fit on Temerity by the time it was seaworthy again, especially if you counted the coming cerv—
+
+“...which is why we need—“ Atyl cut off mid-sentence as Rain bolted, having been running through Ascension’s latest finances. “Where are you going!? Rain?! What’s happening!? Are we under attack?!”
+
+“She’s back!” Rain shouted, not looking back or bothering to explain what had just popped up on Detection. Carten and his mother unexpectedly stepped out from between two wagons, deep in a heated argument, and not having space to dodge, Rain instead leapt clear over them, almost flattening Kettel on the landing.
+
+“Oi!” no less than three voices shouted, but Rain couldn’t be asked to care.
+
+“Get Tallheart!” he shouted, increasing his speed as he tore through the bustle of the camp. Once he was free of the press, he activated Velocity, tearing along the beach toward the village. The headman was still on his way back, apparently, but Rain blew by him so quickly that the man was little more than a blur. Only when the large group he’d picked up on his anchor came into view did he drop the spell, taking care to leave plenty of time to slow down without showering anyone with sand.
+
+“Ameliah,” he said, jogging to a stop as she moved out to meet him, her radiant smile only outshone by the golden intensity of her soul. Behind her, he saw the souls of the cervidians, seventy-nine of them by Detection’s count, dancing and shimmering with all the colors of the rainbow. Five at the front were slightly larger than the others, with the telltale solidity that told him they were awakened. The cervidians themselves either wore hats or had strips of cloth bound around their heads to hide their antlers, and every last one of them looked to be utterly exhausted. Beyond that, though, one soul was missing. Even amongst the awakened, there were none large enough to have belonged to Proudrock.
+
+“Rain,” Ameliah said, wrapping her arms around him, and through the contact, he felt her happiness and relief, but also a bone-deep tiredness mixed with worry and uncertainty. “I’m back.”
+
+Though it hurt him to release her, he let go after only a moment more, well aware they were not alone. The cervidians were shifting uncertainly, huddled together behind Ameliah as if for protection. Turning to them, Rain bowed, folding at the waist until his back was completely horizontal. “Welcome, friends. I am Rain, friend of Tallheart, who should be here shortly. I believe we have much to—”
+
+*pop*
+
+[Ameliah-Queen!]
+
+Dozer landed on Rain’s back, catapulting himself toward Ameliah and disrupting Rain’s already-precarious balance. Past the tipping point and with his arms at his sides, there was nothing he could do to stop his face from plowing directly into the sand.

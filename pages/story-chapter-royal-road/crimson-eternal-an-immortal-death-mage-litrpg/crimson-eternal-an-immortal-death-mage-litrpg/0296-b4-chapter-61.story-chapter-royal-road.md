@@ -1,0 +1,133 @@
+---
+id: 71d2dfd5-1703-5d58-aa7d-83a53eadda1b
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 61"
+slug: 0296-b4-chapter-61
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 296
+ownLength: 1463
+unit: words
+ownProgress: 1463
+publishedAt: 2025-08-09
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2505164/b4-chapter-61"
+royalRoadId: "2505164"
+markedReadAt: "2026-06-29T19:15:52.559Z"
+---
+
+Aria
+
+Both Ruby and Ryan look bored as the three of us sit in my office just waiting for the warning from Shirogane. A warning that comes in rather quickly at the very least. Then just a few seconds after the warning, four people teleport into the office on the other side of the table from us.
+
+My parents, Adrian, and Uncle Jake.
+
+Then out of nowhere, Uncle Jake rushes up and picks me up into his arms despite my having been sitting down on a sofa. And without a single care for my age, he begins spinning me around like a child, making my eye twitch slightly with irritation.
+
+Although a faint blush spreads across my face as well, along with a hint of happiness that I find surprising.
+
+He’s acting exactly like he used to…
+
+“Little Ari!!!” Uncle Jake exclaims as he spins me around with a wide smile on his face. Meanwhile my parents and brother glance between me and the two kids. Both of whom are staring at Uncle Jake with their eyes as wide as saucers. “You’ve grown so much! And into such a beautiful woman at that!”
+
+It takes him several seconds, along with the pleading of my parents, for him to put me back down. At which point I pat myself down to straighten the skirt I’m wearing before sitting on my sofa again.
+
+Only for both Ruby and Ryan to jump onto my lap and cling onto me while narrowing their eyes at Uncle Jake as if they’re marking their territory or something. Which is adorable.
+
+I turn to look at my parents again as I ask, “Was there something you wished to talk about this time?”
+
+My mother answers right away, saying, “Yes. I wanted to ask if you could tell us more about yourself.” She turns a warm smile towards the kids. “And to introduce these two.”
+
+I stare at her for a few seconds before eventually answering, “This is Ruby and Ryan. I adopted them after raising them alone on the lyon’s old home world. But you should already know all of that by now.”
+
+The look on her face says that she does, but she still says, “I wanted to hear from you and the little ones personally.”
+
+I continue to stare at her for a few seconds, then I turn my gaze on the twins to find them both looking up at her with curiosity. Then I let out a sigh and turn to look at her again as I say, “Alright. But only if they’re comfortable with it.”
+
+She smiles at that and nods. And just like that, the next five minutes pass with the four introducing themselves to the twins. Albeit with the twins not really saying much in response.
+
+Most of the time they spend glaring at Uncle Jake while clinging onto me.
+
+Which clearly distresses him in return, but that’s his own fault for picking me up like that.
+
+After the initial five minutes, we spend the next five minutes with me talking about my likes and dislikes. Then the moment the ten minute period ends, all four of them vanish as a wave of two different energies – both of which I recognize – bursts outwards from my body and teleports them away.
+
+I frown a little as I finally notice the curse on my body. Something I’ve never been able to do before.
+
+The curse doesn’t appear to be doing anything though. To me at least. Hence why my body is taking so long to remove it.
+
+But…
+
+My brows rise a little.
+
+Huh.
+
+Now that I’ve noticed it, it looks like it’s starting to speed up in how quickly my body removes the curse. So that’s interesting.
+
+Other than knowing that it’s there though, all I can tell about it is that it’s made from both shadow mana and pestilence energy combined. With the energy and mana being far stronger and denser than anything I could muster at my level.
+
+Well then.
+
+I yawn before glancing at the kids to find them both having fallen asleep in my arms.
+
+Considering how tired they were prior to everyone’s arrival, I’m surprised the twins lasted this long. They did have a quiz and another little tournament earlier today after all.
+
+Anyways, I turn my attention towards where Uncle Jake was sitting.
+
+While Adrian and my parents both feel different from how I remember them when I was a kid, Uncle Jake doesn’t look or act any different whatsoever. Probably because he’s been in a coma ever since making that clone that was with me all that time in the first place. So after getting those memories from our time together, he really is just the same person.
+
+And that makes me feel happier than I’d like to admit.
+
+The idea that one of the family members that I remember is still who I remember. Even if he did still lie to me, just like the others.
+
+That aside though, I feel like I’m starting to get over the fact that they lied. A little bit. Maybe.
+
+I might get over it in a few centuries or more.
+
+Probably.
+
+Not actually sure.
+
+I glance at the twins who are still asleep in my arms before looking out the window as I think about everything currently going on in the universe.
+
+The war against the Demon King.
+
+The new war between the Arcadian Society and the Dread Empire.
+
+The repeated clashes between the archmage and Famine that have been happening over the past couple of days, with the archmage actually holding out a bit better than most people expected. Even if she’s still struggling to not lose.
+
+And to top it all off, I’ve heard that War is heading over to the capital of the Arcadian Society, Arc, himself. With everyone on the internet talking about how he’s most likely planning on joining the war for fun. Or just to challenge the archmage to a duel.
+
+Which I guess isn’t all that surprising. Considering that he’s War and all.
+
+Overall, the universe is a mess right about now. But none of that really matters to me.
+
+Not a single bit of it.
+
+So long as it doesn’t bother Val or the kids.
+
+I yawn, feeling myself growing a little drowsy as well. Only for me to blink once and suddenly find a fallen demon standing in front of me. One that looks suspiciously like one of those higher ranking fallen demons I’ve seen pictures of on the internet.
+
+The thing is a little short with a bipedal form and has a cloak over its body and head. But I can’t see a single thing hidden under the cowl of its cloak other than four creepy purple eyes.
+
+It also has spikes sticking out of the cloak in some areas, and sharp claws on its hands.
+
+For some reason though I get the feeling it doesn’t mean me any harm. And that’s not because the thing clearly can’t see me and is only guessing as to where I’m located, what with the fallen demons’ inability to see me thanks to my lack of life force.
+
+“Horseman of the Apocalypse, Death, we come to seek aid,” the fallen demon says, its voice sounding rather raspy and creepy in general. “As thou and His Majesty share common origins, both beings made of energy, we-”
+
+“Can you go? You’re gonna wake up the kids,” I mutter with a frown on my face. And when the fallen demon blinks and then tries to repeat what it’s saying, I let out a sigh and press a button on the side of my terminal.
+
+One that makes several Crimson Empire knights immediately appear within my office upon being called, following which they surround the fallen demon and capture it.
+
+“Take it away quietly so as to not wake up the kids,” I tell them while yawning again. And with just a single nod of their heads, the knights all leave with the captive fallen demon in tow.
+
+I need to get better security for this place if a fallen demon can just teleport inside…
+
+After glancing behind me to find a couple of the knights having decided to stay guard right outside of the office, with their senses hovering inside to make sure no other intruders enter, I yawn once more and lie back further in my chair. Hugging both the twins as I do so.
+
+I’ll tell Little Blue to up security in my office later.
+
+That and all the other matters and wars and affairs can wait.
+
+For now, it’s time for a nap.
+
+My eyes slowly begin to droop closed before I fall asleep with the kids still in my arms.

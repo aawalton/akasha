@@ -1,0 +1,177 @@
+---
+id: 164db9a2-1473-5f25-be25-6a6dfc4bca61
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,353 - Furnace"
+slug: 0029-chapter-1353-furnace
+partOf: defiance-of-the-fall
+position: 29
+ownLength: 2882
+unit: words
+publishedAt: 2025-09-14
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2600265/chapter-1353-furnace"
+royalRoadId: "2600265"
+---
+
+“Who’s the chipper guy?” Zac asked in a low voice after they had put some distance between themselves and the hidden door.
+
+“Halvar’s the Nameless Blade who got us out of trouble when we first arrived. Or former Nameless Blade, I suppose. Outside titles don’t count for much in the mousetrap. Now they’re just enforcers of the Rosemore Sect. The others at the table are descendants of his old teammates,” Ventus explained.
+
+“The Rosemore Sect was once the Rosemore Clan, a family with ties to the Hollow Court that only recruits new arrivals with similar backgrounds. They eventually picked up enough outsiders that they had to restructure into a sect. The real Rosemores still make up the core. The Sect Leader, whose sword beams you saw at the surface, is also the Rosemore Patriarch.”
+
+At that point, they reached a door marked with an 8. The elf opened it, revealing a cubic stone on the other side. It resembled its larger counterpart inside the temple, complete with four rows of alien script. The only significant difference was that this monument only reached Zac’s chest.
+
+“It’s a replica.”
+
+Ventus looked at Tavza in surprise. “Mistress An’Azol is correct. The Mousetrap is governed by special rules, an impenetrable seal on space being one of them. The locals have gradually unraveled parts of the Evi’Shi heritage, including these Gate Stones. They’re essentially teleporters that utilize the realm’s unique rules. It will take the stone a moment to charge.”
+
+“Is this the point where you catch us up to speed?” Zac asked after closing the door behind them.
+
+“Certainly,” Ventus said. “First of all, we’re trapped, as you’ve probably realized. That goes for both us and the natives.”
+
+“Why is there no population control in effect?” Tavza asked, the squalor of the slums clearly still on her mind. “Having millions of mortals and low-grade cultivators will put a monumental strain on the shelter.”
+
+“There were checks and balances until a few centuries ago,” Ventus confirmed.
+
+“They’ve found a way out,” Zac said with certainty. “That’s what they were fighting about, wasn’t it?”
+
+“You could say that. We have a few minutes, so I’ll start from the beginning. The Evi’Shi Shelter, colloquially known as the Mousetrap, has been populated by outsiders for at least ten million years. When the first settlers arrived, the Evi’Shi were long gone, leaving only some ruins behind. We still have no idea what happened to them.
+
+“The temple we came from is one of four confirmed entrances. These entrances are designed to appear upon detecting signs of great turbulence—I don’t know the exact details. The settlers all originated from roughly the same region of the Left Imperial Expanse, and the frequency of appearances has increased with the Imperial Road Project.
+
+“Throughout most of the Mousetrap’s history, things have been somewhat stable. Although a few man-made disasters nearly wiped out the population, the constant trickle of new arrivals has ensured that the heritage was never completely severed.
+
+“The first batch of settlers named themselves New Dawn, one of the Mousetrap’s three major powers. Today, New Dawn is the weakest of the three factions, existing mostly in name. The other two factions are the Pathfinders and the Rosemore Sect, which I mentioned earlier. The Pathfinders are currently at the top—despite the sect’s heavy recruitment, courtesy of the Imperial Road.
+
+“The Mousetrap is kept habitable through three energy rivers, with each faction controlling one of them. They’ve always fought over the limited resources and land, but the main conflict is now centered on the Mousetrap’s future.
+
+“New Dawn officially wants to stay inside. The other factions are working hard to ‘return to the Empire’s embrace.’ The Rosemore Sect is doing so by researching Evi’Shi’s heritage and the Mousetrap’s rules. These cubes are the sect’s handiwork, but they’re still far from creating one that can take us out of the shelter.
+
+“The Pathfinders haven’t limited themselves to one direction. They’re throwing everything at the wall to see what sticks. Mister Azh’Rezak previously commented that they remind him of a certain Goblin Kingdom.”
+
+“So mad scientists,” Zac surmised.
+
+“Precisely, and it was these experiments that eventually broke the stalemate,” Ventus said. “A brilliant Array Master arrived fifty thousand years ago during a major surge of newcomers. He quickly became a core member of the Pathfinders and took charge of one of their oldest projects. Four thousand years ago, he discovered the coordinates of a Lower Plane.”
+
+“The odds of randomly finding a Plane are infinitesimal,” Tavza commented.
+
+“The Pathfinders had searched for over a million years without success. If not for Naruk coming along, the project would probably have remained theoretical,” Ventus agreed. “Finding the coordinates was just the first step. At the beginning, they could only open a pathway limited to transferring energy. That’s the origin of these so-called Hope Crystals.”
+
+Ventus took out another of the mottled crystals he’d used as a bribe. “Their appearance created a cultivation boom, and they brought the Pathfinders into the limelight. Only the Rosemore Sect rejected the Hope Crystals, claiming their energy was problematic.”
+
+“Were they?”
+
+“Oh, yes. They can induce hallucinations and nightmares, even if you’re careful and use purification. Worse, those visions have a small chance of becoming real. That introduced monsters to the shelter for the first time. Even so, many consider that an acceptable price to break through and extend their lifespan,” Ventus nodded. “The next discovery came a few centuries later. It’s easier to show you. Remember—don’t absorb the energy.”
+
+Seconds later, the stone lit up, and Zac found himself standing inside a hollowed-out tree. Judging by the many arrays covering the walls, it was a hidden base.
+
+“That’s one of the refineries where they extract Hope Crystals. We’re not sure if there’s an active pathway there or if the energy pool is here for another reason,” Ventus said, nodding at the huge structure visible on a screen. “Let’s go. Keep your auras restrained.”
+
+Zac grimaced the moment they emerged from the tree. He would have taken the slum’s energy deficit any day over the chaotic mix in the air. It was even worse than the Hope Crystals, and it gave Zac a definite sense of foreboding. Not only that, the slowly accumulating sense of danger from Mox actually trembled.
+
+“Some hope,” Zac muttered.
+
+Ventus sighed. “I hear you get used to it, though three weeks isn’t enough. Anyhow, the Pathfinders eventually stabilized their gate enough to flood the whole realm with energy. While impure, the quantities were dozens of times greater than what the Mousetrap naturally supplied. This was when the Pathfinders unilaterally lifted the measures for population control.”
+
+“They claimed that it was only a matter of time before they would be able to send people home, and restricting freedom amounted to needless cruelty. New Dawn and the Rosemore Sect couldn’t fight public sentiment, and many of their elites defected to the Pathfinders. The sect had forbidden the use of Hope Crystals, but many within their ranks used them anyway.”
+
+It was at that point Zac noticed a flickering shadow. They followed it through the forest until they found Ogras perched in the shadows of a tree. The demon’s aura was slightly unstable, but his eyes remained bright as he jumped down to greet them.
+
+“Buddy, aren’t you a sight for sore eyes,” the demon grinned, giving Tavza a curious look. “I see you found the princess.”
+
+“Miss An’Azol found me just as I was about to head inside,” Zac said. “Are you okay?”
+
+“I’ll be fine in a week or two. Did the elf explain the situation?”
+
+“He’s in the middle of it,” Zac said, turning back to Ventus. “You said the whole shelter was flooded, so why is there no tainted energy in the city?”
+
+“It’s thanks to the sect. They could tell there was something wrong with the situation. Things were progressing too smoothly since Naruk appeared,” Ventus said. “We think they’re right. Naruk should be a champion of our ancient friend.”
+
+“It’s really her,” Zac exhaled.
+
+Ogras nodded. “The elf can only read imminent death on part of the population, but I doubt anyone in the Mousetrap had a happy ending. Maybe she’s saving the rest for a midnight snack.”
+
+“No. They will be safely sent back to the surface.” The trio turned to Tavza, and even Zac was surprised at the certainty in her voice. “There's been a significant rise in patriotism lately, has it not?”
+
+“Every second word coming out of everyone’s mouths,” Ogras nodded.
+
+“How did you know?” the elf asked.
+
+“This shelter has become a furnace, mixing sin with Imperial Faith out of sight of the Empire,” Tavza said. “The natives will become proliferators upon their return to the surface.”
+
+“Tavza is following a thread of fate connected to ours. She has some unique insights,” Zac explained, adding when his Danger Sense increased. “It’s probably safer to explain after we’re out. The walls have ears. Anyway, please continue.”
+
+Ventus nodded. “Seeing Hope Energy’s problematic nature, the Rosemore Clan began work on countermeasures. They eventually invented a device that boosted the shelter’s isolation rules, drastically weakening access to the Lower Planes.”
+
+“As you can guess, it didn’t go over well. People aren’t fond of food getting ripped out of their mouths,” Ogras grinned. “The sect barely managed to negotiate a pause, threatening to make the interference permanent. To avoid annihilation, they still had to make a concession. The restriction would remain for two decades to give more time for research and to remove dangers,” Ogras said.
+
+“And the deadline is today?”
+
+“No. It came and went a week ago,” Ogras wryly smiled. “We helped blow up one of their facilities to buy some time.”
+
+“We can’t delay any longer,” Ventus sighed. “The final negotiations fell through just as you arrived. The Pathfinders must be confident in accomplishing their goal despite the sect’s threats.”
+
+“So when Halvar said we’re all going to die...?”
+
+“They’re out of options, so they’re going out with a bang,” Ogras said. “They’re mounting a desperate attack, hoping to kill Naruk and destroy the gate while they have the chance.”
+
+“How are their chances?”
+
+“None to infinitesimal. Naruk is only an Early Monarch, but he’ll be kept behind a gamut of highly motivated elites,” Ogras said.
+
+“I’ve already crunched the numbers. We can’t change the outcome. We’re talking about multiple Middle Hegemons and Late Hegemon Leaders,” Ventus said.
+
+“I guess you have a backup plan, seeing as you’re not drinking yourselves to oblivion,” Zac said with a slight smile.
+
+“Exactly. We can finally enact our real plan now that you’re here,” Ogras said with obvious excitement. “We want the path opened, right?”
+
+“Probably. There’s no point in bringing reinforcements if the target isn’t even in the area. She’ll just slip away,” Zac nodded. “Except, I’m not sure my method of contact will work inside the shelter. The seal must be extremely powerful if the Empire hasn’t noticed anything.”
+
+“I think we can kill two birds with one stone. It’s time for us to switch sides,” Ogras grinned. “We’ve spent as much time investigating the Rosemore Sect as the Pathfinders, and we know where the sect keeps its rule amplifier. Its defenses should be at their lowest when they mount their attack. They can’t afford to keep any elites behind. We initially planned on blowing it up, but we might have a better option now.”
+
+“You want me to modify the device to weaken the sealing laws?” Tavza said upon seeing the demon’s pointed look. “It’s possible, but it could take days of research to find a working solution—time we don’t have.”
+
+“What if you had this?” Ogras said, handing over a crystal.
+
+“You managed to get your hands on the complete schematics?” Tavza said in surprise. The three kept silent as the Draugr inspected the crystal. Soon, she nodded. “I see. I’m somewhat familiar with this type of arrangement. What you suggest is doable.”
+
+“You’re actually able to reprogram the jammer in such a short time?” Zac asked to confirm.
+
+“It’s not so much a jammer as a redistributor. They have diverted resources from the shelter’s energy supply to the sealing laws. You simply need to reverse the allocation, which is much simpler than turning a jammer into an amplifier. However, everyone will immediately notice the change since Cosmic Energy will begin pouring into the shelter.”
+
+“That should be fine so long as we time things right,” Ogras said. “It might even fan the flames and add to the chaos.”
+
+Ogras and Ventus already had the rough bones of a plan in place, and the group began filling in the details. They quickly ran into a problem when Tavza insisted on sticking to Zac’s side instead of splitting up to deal with the jammer.
+
+“Anyone can do that part with the right schematic,” Tavza calmly said. “Meanwhile, only I can hold off a Monarch blocking your path.”
+
+“But you’re already spending so much energy on the mark,” Zac said, not mentioning the bundle of Creation causing her trouble.
+
+“The idea is to deactivate the mark to draw in the target, is it not? I’ll be able to fight at my peak long enough to create an opening,” Tavza calmly said. “I can also provide support to the other team remotely should the need arise.”
+
+Zac had to admit that she made a good point. He was planning on heading into the gate of the Pathfinders before calling Roan, meaning he had to carve a path through the defenses. The Rosemore Sect would carry most of the burden, but they were heavily outnumbered. Having a top combatant like Tavza by his side would make his life a lot easier.
+
+Besides, Ogras had K’Rav by his side. It looked like the goblin couldn’t understand the jammer’s schematic, but implementing Tavza’s solution should be a breeze with his help. Ultimately, they settled on Ventus and Ogras dealing with that part. Neither were frontline combatants anyhow, and they would have an easier time infiltrating the Rosemore Sect’s inner sanctum.
+
+The group stayed a while longer to give Ventus time to read the flows of destiny. The sect had planted bombs inside the refinery as a diversion, and the Numerologist’s job was to calculate the odds of success. On his suggestion, Ogras assassinated two workers heading to work. He’d calculated they had some form of connection with the bomb and might interfere with the plan.
+
+Mission complete, they returned to the hidden underground base. Zac and Tavza were ushered into a cultivation chamber while Ogras and Ventus completed all the arrangements. Hours passed with Zac’s anxiety gnawing at him. The sect hadn’t backed down, right? If they did, then Zac had no idea how he was supposed to reach the gate in time. Thankfully, the door slid open an hour before Tavza needed to deactivate her mark. Halvar stepped inside, now dressed in ancient armor. The whole corridor was filled with warriors.
+
+“It’s time,” Halvar said. “Last chance to back down. You just arrived, so I won’t hold it against you. If you want, I’ll seal this room until the dust has settled.”
+
+“I trust the judgment of my subordinates, and I’ve felt that energy first-hand. That’s not something that should be brought to the Left Imperial Expanse,” Zac shrugged as he got to his feet. “This isn’t how I expected to go out, but I’ve lived long enough. It’ll be nice to see my old companions again.”
+
+“I heard you were a starred Veteran?” Halvar asked, his eyes lighting up when Zac presented the token. He was even happier when a monstrous wave of Killing Intent roiled out of the holding cell, almost knocking out a few of the weaker combatants. “Good! You two are with us. Frontal assault.”
+
+Throughout, he didn’t acknowledge Tavza’s presence, despite her identity as a War Engineer of the Imperial Workshop. She was just the kind of talent they could use. It wasn’t incompetence on Halvar’s part; Tavza was actively channeling her personal Abyss, and Zac had noticed it included insights into Oblivion. She was erasing her presence and destroying any impressions of her, making the locals overlook her.
+
+“Is there a plan?” Zac said as they joined the ranks, feeling like he’d passed an invisible trial.
+
+“Sure there is. Kill everything that’s in our way,” the captain grinned, clearly unwilling to divulge any details.
+
+The underground corridors were much longer than Zac expected. The group kept a rapid pace for nearly an hour until Halvar stopped. No one so much as breathed for the next twenty minutes, despite tremors growing stronger and closer. After what felt like an eternity, a trapdoor suddenly opened without warning.—
+
+“Go!” Halvar roared, leading the charge himself.
+
+Zac, Tavza, and the two hundred Hegemons emerged on the surface in his wake. They were greeted by a shelter alight with the flames of war. The acrid smell and deep thuds of projectiles hitting a sturdy barrier almost felt nostalgic. If only this was it. Zac could do war, even when the enemy's army was far superior. Squaring off against an ancient Supremacy with an unconfirmed method—where the slightest miscalculation meant certain death—was another matter.
+
+"There's only one way to find out," Zac muttered under his breath.

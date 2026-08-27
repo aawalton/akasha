@@ -1,0 +1,185 @@
+---
+id: b63ef8bd-bfd1-564a-855f-9eee1d679ff7
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 56"
+slug: 0062-b1-chapter-56
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 62
+ownLength: 2688
+unit: words
+ownProgress: 2688
+publishedAt: 2024-01-27
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1496222/b1-chapter-56"
+royalRoadId: "1496222"
+markedReadAt: "2026-06-29T19:08:01.050Z"
+---
+
+Aria
+
+After I leave the guy’s building, I go straight to mine and Hannah’s building before making for my room. Then I quickly begin to write the letter I’ll be leaving for them, putting in all of the information I believe they need to know. Including information that I would normally be blocked from saying by the contract, since they won’t be reading this until after Lysandre is dead and the contract is void.
+
+At this point I’m all cried out though, so even as I’m writing, I don’t feel much other than a sad acceptance of my circumstances.
+
+Once I finish, I label it “For my team” and then leave the letter under my pillow.
+
+And without hesitation, begin packing things into my storage ring.
+
+I had a lot of my personal belongings – particularly the stuff I went shopping for with Hannah – delivered to the base during the last mission. So I go ahead and put that stuff in the storage ring too.
+
+Of course, I also went ahead and paid my butler for quite a few years of work despite not needing to. Because he’s a cool guy.
+
+After I finish packing everything, I go ahead and leave the building, not saying anything to the others before I meet up with the First General in nothing more than my officer uniform with my storage ring on. Nothing suspicious at all.
+
+She looks me over for a second before asking, “Are you ready?”
+
+I nod my head and we immediately begin heading over to where the former emperor is being held.
+
+Which, as it turns out, is a random fortress within the Republic. In the dungeons of the fortress.
+
+Or at least, that’s where she takes me. We end up walking through the fortress dungeons for longer than I’m pretty sure the dungeons should be.
+
+Probably some sort of effect of her ability. Masking how large the dungeons are with her illusions.
+
+And after walking for nearly half an hour, we finally end up at a large cell, where a familiar mana signature lies within.
+
+“Open the cell,” the First General tells the guard stationed at the cell door. And they quickly rush to open it, letting me inside. The general then closes the cell door, leaving me in silence inside of the dark cell.
+
+She had told me that all I have to do is ring the bell after, giving me an impression of privacy. But if I’m being honest with myself, I know she’s spying on everything that happens in this dungeon.
+
+But I also don’t give a shit.
+
+Whatever is said and done here doesn’t matter. Not when they’ll find out my secrets anyways after they fail to revive the emperor.
+
+Up until now, everyone believes the failed summoning of a Greater Death Spirit caused the prince of the Grand Roan Empire to not be able to be revived. Both the Roan people and our own.
+
+But after this? And after other successful revivals have already taken place?
+
+It won’t take but a few minutes to put two and two together.
+
+So I let a grin stretch all the way across my face as I step forwards, deeper into the pitch black cell. And after using a tiny amount of the soul energy reserves I had built back up after the battle by absorbing the souls of the dead post-war, the crimson light fills the room.
+
+Illuminating the man behind all of my traumas sitting at the back of the cell in rags.
+
+I won’t be holding back anymore.
+
+The CellNot Long Ago
+
+Lysandre de Pyre Voltaire, former emperor of the former Albarian Empire, had always wondered why. Whether it was to the question of why his parents half-abandoned him in their attempts to produce another heir. One who could actually continue the bloodline. Whether it was to the question of why the people’s support was gradually leaving his family. Why he ended up with such a useless ability for an emperor or his power. Or whether it was to the question of if his choice to get rid of the Crimsons was a good idea or not.
+
+The word always rolls around in his head for one regret or another. For one ‘what-if’ and for another question of the universe’s fairness.
+
+Would he have still killed the Crimson family if he’d known one of them was a true immortal? Or rather, if he’d believed the rumors that one of them was?
+
+It’s possible. Lysandre himself knows that he isn’t always the first to act beyond his rashness. And he has always hated the Crimson family. That family of outsiders who've taken a lot of the power within the nation and made it their own.
+
+Could he have planned better, at the very least, if he had known before killing them?
+
+This, the former emperor is absolutely certain of.
+
+In his mind, it’s all about having the right information. Knowing every piece on the chessboard and how they’re used most effectively. Predicting the other players’ moves, because in reality, you will always be faced with an infinite number of players.
+
+But now, as he sits in the corner wearing naught but rags in a jail cell of the First General’s dungeons? Now he wonders where it all went wrong. And how to bring it back around in the right direction.
+
+His planning is entirely disrupted when the door to his wide-open cell finally opens, spilling some light into the pitch black room. But right when he’s about to begin throwing abuse at the First General, he pauses. Because he sees who is entering his cell.
+
+And it’s not the First General.
+
+The cell quickly closes and locks again, leaving the two in the pitch black darkness alone with naught but the girl’s glowing crimson eyes to light the cell. A glow that sends a shiver down his spine as she slowly steps closer and closer to him.
+
+Lysandre knows he’s fucked. He may be an Ability Holder, but the only thing his ability can do is sense things. And he has already been completely drained of mana since before being locked in the cell, so his enhanced sensory ability isn’t even as enhanced now as it normally would be.
+
+Meanwhile the brat he’s been trying to get rid of for over a decade now seems to be bursting full of it.
+
+Or…
+
+Lysandre frowns.
+
+…something like mana?
+
+Wait, why does she even have energy like that?
+
+The former emperor senses something… different… about the girl since the last time he had seen her. And it isn’t her appearance.
+
+But he doesn’t get long to contemplate it as the brat finally stops a few meters in front of where he’s sitting with his arms bound by chains. And the first thing that comes out of her mouth sets Lysandre’s anger free.
+
+“That outfit suits you,” she says with a vicious smile on her face.
+
+“You bitch!” Lysandre shouts at her, spitting all the while in his anger as he climbs to his feet, only for the chains to yank him back down to the floor. “Get over here and we’ll see who’s laughing!”
+
+The former emperor doesn’t see any weapons on her person, and despite the odd crimson energy, he knows that her ability is True Immortality. So despite his situation, he still feels like she’s no match for him.
+
+Like she’s still the nine year old child his soldiers had found at the Crimson Manor.
+
+She’s even a lower level than him.
+
+The girl laughs in his face as she steps forward, the crimson energy covering her entire body now in a thicker veil, to his surprise. And without any apparent struggle, she reaches for his neck, grabs him, and raises him up into the air while scraping his back against the wall as he struggles in pain and cries out. Then she tilts her head a foot away from his face and asks, “I’m here. What now?”
+
+He struggles against her hand, but fails to get her to weaken her grip, the girl somehow supernaturally strong. Stronger than him. Which shouldn’t be possible since he knows he’s a higher level than her by a few levels.
+
+What is happening?!
+
+“I still don’t hear any laughter,” she says in a slightly sing-song voice as she begins to slowly walk parallel to the wall while dragging him against the wall, tearing the rags he’s wearing and scraping his back in the process as he grits his teeth in pain. Then she stops again and reaches down to his arm, breaking his wrist and making him shout in pain. “Still no laughter. Hmm. A pity.”
+
+She drops him, making him land on the ground with a cry of pain as he cradles his broken wrist.
+
+“Just how?!” he shouts at her through the searing pain of his wrist. Pain he isn’t used to as an emperor. Or former emperor. “How are you doing this?!”
+
+The bitch turns to look down at him while crossing her arms and saying, “What, you don’t know already? The System really is a lovely thing, don’t you think?”
+
+He looks confused for a second before his eyes widen and he finally remembers the System skills. Then he narrows his eyes and says, “So you got a skill that boosts your physical strength. So what? How will that-FUCK!”
+
+The former emperor cuts off his words and shouts when the bitch kicks him in the crotch without any emotion on her face.
+
+“You talk too much,” she says afterwards before tapping her finger a few times on her arm as Lysandre covers his crotch, unable to speak a word. “I know monologuing is normally not something someone should do at a moment like this, but I think I’ll try it.”
+
+And thus, the former emperor is forced to listen as she talks, only understanding three quarters of what she’s saying through the pain, “You probably know by now that I’ve wanted to kill you ever since I was nine years old. Both you and that little dog of yours, who, by the way, is dead already. But him aside, I was rather surprised when the First General decided to give you to me to kill like this. Of course, I’m not stupid enough to not realize that she’s most likely going to let your little followers revive you after this, and she’s probably listening even right now.” The former emperor finally manages to raise his head to look at her, right as she leans down a little, her hands on her knees and an emotionless look in her eyes. “But you know what?”
+
+Lysandre barely manages to cough out a, “What?” despite wanting to curse at her right now.
+
+But he knows that she holds all of the cards. And even after his subordinates revive him, it would be best not to have to revive. Because that will cost all of their remaining resources to do. Resources that, while they can be rebuilt, shouldn’t be wasted like that.
+
+“I don’t care,” she says, surprising Lysandre into numbly staring at her. “I don’t. Not anymore. Not about your little plan to revive. Not about the First General’s attempts to use me. Not even about the Arterians or the Grand Roan Empire.” She stands up straight again and looks at him with those glowing red eyes and says one last time, “I. Don’t. Care.”
+
+Then she begins to pace back and forth in front of him while still talking, “You know how I killed your dog? He had three thousand soldiers of both the Arterian and Albarian armies working with him to pin me down. And he did. Pin me down, I mean.”
+
+Lysandre continues to listen through the pain. Pain that is slowly beginning to fade, if only a little bit thanks to adrenaline.
+
+“I lasted it out through about two thousand of those soldiers until they finally captured me, and the man started going on and on about me ruining your plans and blah blah blah, some long ass monologue,” she pauses and glances at the former emperor, “kind of like what I’m doing right now,” then keeps pacing again while looking at where she’s walking instead of Lysandre. “But I managed to use one last hidden blade – quite literally – to kill one of his soldiers holding me down. An Albarian soldier, to be specific.” She stops pacing and focuses on Lysandre. “Of course, your dog didn’t care at first.” Her eyes narrow. “Until he saw my level go up.”
+
+The former emperor blinks in confusion at that.
+
+What?
+
+She continues pacing again, uncaring of the clear confusion on his face, “Many people don’t really know this, but if you tell a truthseeker something you know is true to a question you asked yourself in your own head, they won’t detect a lie. Because you aren’t actually lying.” The bitch turns to glance at him again. “Did you know that?”
+
+Lysandre’s eyes widen as he realizes that she had lied about either her class or her purpose.
+
+Or perhaps even both.
+
+“Finally realizing it now?” she asks with a laugh before finally stopping her pacing right in front of him while spreading her arms out to both sides of her. “Let’s see if you can understand after you see this.”
+
+The brat’s eyes begin to glow a brighter and brighter shade of crimson with every passing second, following which her hands take on that glow as well.
+
+Then five rifts appear all around her, each leading to a place filled to the brim with death for as far as the eye can see.
+
+And a single creature steps out of each rift before walking over to the former emperor, with two of them lifting him up after grabbing his arm pits with their bony hands.
+
+Just the sensation of those ice cold bones touching his bare skin has Lysandre’s skin crawling. But it doesn’t end there as the brat looks down at him with a wide grin on her face and speaks, her voice resonating throughout the room with sheer power in them.
+
+“How about I reintroduce myself to you,” she says right as one of the creatures of bone stabs some sort of energy blade into his right leg, making Lysandre scream in pain. “My name is Aria Crimson, but some people know me by a different name now.” Another creature does the same to his other leg, making his blood flow nonstop. “It’s not really one you would know of, but it’s one nonetheless.” A third creature does it to his right arm, his screams of pain rising another octave. “And while I’ve tried to stray away from it until now, I think I’ll finally take this name as a part of me.”
+
+Lysandre screams out through the pain, “You know I’ll just come back after this! You will regret this! Mark my words, you will fucking sufferrr!!!”
+
+The brat tilts her head slightly before shrugging, making the creature who had let go of his other arm after it was nailed to the wall do the same to his remaining limb as she finishes, “No, I don’t think so.” Then, out of pure irony, she pulls out a gun and aims it at his head. One that Lysandre remembers as the very gun his lieutenant general had used to kill her uncle.
+
+“I’m not normally one for theatrics,” she says, only to tilt her head slightly with a smirk and finish, “But maybe I should be.”
+
+Lysandre can only barely make out her words through the pain as she finishes.
+
+“My name is Aria Crimson, but some people now know me as Death, the Harbinger of Death, and the Horseman or Horsewoman, whichever you prefer, of the Apocalypse,” she says, shocking Lysandre to the very core. “And you won’t be coming back.”
+
+The last thing the former emperor hears is the sound of a gunshot, with only the faintest flash of light from what looks to be someone appearing in the room.
+
+Then everything goes dark.
+
+Forever.

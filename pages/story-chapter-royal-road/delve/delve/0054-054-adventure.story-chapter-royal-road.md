@@ -1,0 +1,173 @@
+---
+id: 4d08720b-4569-508b-b536-f304ec240274
+page-type-slug: story-chapter-royal-road
+title: "054: Adventure"
+slug: 0054-054-adventure
+partOf: delve
+position: 54
+ownLength: 3046
+unit: words
+publishedAt: 2019-10-20
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/414795/054-adventure"
+royalRoadId: "414795"
+---
+
+“OOOOOOOOOOOHHHHHHHH! AND I SAID NO! NO TO THE MUTTON, NO TO THE KALE, ALL I NEED IS ANOTHER MUG OF ALE!”
+
+A small flock of birds took flight as Carten belted out the last line of his favorite drinking song. The horse flicked its ears in annoyance, but Carten paid it no mind, tugging it along the road by the reins.
+
+He’d set out from the camp earlier that morning, intent on making another trip to the river to refill the water barrel. It needed doing, sure, but mostly he’d just wanted something to keep himself busy. There was only so much sitting around he could tolerate.
+
+He sighed. Little Mouse better not make a damn move. He’d seen Ameliah and Rain wander off somewhere together, which had put him in a foul mood. What’s she see in him that I ain’t got?
+
+He kicked at a rock as he walked, sending it flying down the road. The other twinkle-finger mages hadn’t wanted to come with him, saying they wanted to train. “Bah, throwing sparks around. That ain’t training. Boring is what that is. Ain’t that right?” Carten looked at the horse. The horse didn’t reply. “I said, ain’t that right?”
+
+The horse snorted and pulled back, shaking its head. Carten nodded. “You said it.”
+
+The horse snorted again.
+
+“Humm. I suppose we need another song now. You know any? No? Ok, well, that’s jus’ fine. I know plenty. Me mum always said I had a voice to make the gods weep.”
+
+Suddenly, the horse looked around and flicked its ears. Carten paused mid-breath. He’d thought he heard… Ah, there we go. Yup. That’s her. He laughed. “Oh ho ho! So she wants to play this time! I’m game! Woah, there. Woah! Stop, ya damn idiot horse! There’s fun to be had.”
+
+Carten tossed his shield into the cart, then laboriously started removing his armor. “Gotta make it fair!” he explained, as he tossed his breastplate into the cart after his shields, making a huge clatter. “I scared her off last time, so I gotta make meself less threatenin’”
+
+The horse seemed to roll its eyes, and Carten laughed at it. “Oh, come on. You wanna come watch? No? Then keep yer lips shut. I might even find ya an apple or somethin’ later. Here, I’ll unhitch ya if you promise ta stay put while I’m fightin’.”
+
+Carten tossed the last of his armor in the cart, then unhitched the horse and let the reins drop, not bothering to find a place to tie them. “Now, don’t make me come chase ya. You won’t like that. Stay here. Eat some grass or somethin’.”
+
+He walked off into the woods, the sparse trees growing slightly closer together as he approached the river. The cold didn’t bother him, though he was only wearing his pants and nothing else. He put the obstinate horse out of his mind as he searched for his challenger. He knew he’d found her den when he heard a mighty roar issue from a small opening in the side of a hill.
+
+“Ah HAH! There ya are, ya great fuzzy coward! Not gonna run away this time, are ya? Now get out ere!”
+
+The gigantic grizzly bear that clawed its way out of the hole looked angrier than Carten’s aunt Mazel when she was out of ale, though not quite as wide. The bear towered over the huge man, rearing up onto its hind legs and roaring again, showing massive pointed teeth.
+
+“Now that’s more like it! Raaaaaa! C’mon! I’m ready!”
+
+Carten pounded his bare chest, spreading his feet and holding his arms out in a grappling pose. The bear roared again and dropped down toward him, swiping at his head with a huge paw, the weight of its entire body behind the blow.
+
+Carten laughed and stepped in, catching the strike with his forearm and shoving it forcibly to the side. The bear’s bulk crashed against his chest, but he didn’t budge. He fought against the weight as his bare feet dug into the cold, stony ground. The bear made to bite for his face, but he disengaged, stepping back and swinging at the bear’s ear with his left fist.
+
+His knuckles slammed into bone with a whump of impact, and the bear staggered to the right, dropping back to all fours. Carten stepped back, grinning. “C’mon. That all ya got?”
+
+The grizzly shook its head, then roared angrily. It reared up once more, its furious black eyes locked on to his own. “Ha, ya don’t learn, do ya? Fine, I hope yer ready!”
+
+Carten rushed in, his speed deceptive for a man of his size. He wrapped his muscled arms around the bear’s midsection, snugging himself up close. He figured it wouldn’t be able to get an angle on him with its teeth. The bear roared and struggled. Though Carten couldn’t reach all the way around to lock his arms, he still managed to get a good enough grip to keep the furious bear from escaping. It slashed at his back, but he barely felt it, the heavy claws struggling to leave so much as a mark on his skin.
+
+He bent his knees and pressed forward, lifting. “Always wanted ta’ try this!” he shouted, heaving with all of his might. The bear flailed helplessly as its rear paws were lifted from the ground. Carten grunted with exertion, then threw himself backward, arching his back and hurling the bear overhead. As he hit the ground, he let go of the struggling animal, leaving it to soar through the air before landing on its shoulders with a heavy thud. The bear rolled a few times before it came to a stop, sprawled in a heap.
+
+Carten scrambled back to his feet, dropping into his grappler’s crouch once more. “Hah! I know ya won’t go down from jus’ that! Come on! Round two!”
+
+The bear dazedly got back to its feet. It shook its head, then started edging back warily. “Aww, come on. Don’t be like that, Mrs. Bear. It was just getting good!”
+
+The bear’s tongue was lolling out of its mouth and it was clearly unwilling to attack the dangerous invader. However, it didn’t run away. Carten looked over his shoulder at the den and saw a pair of eyes looking back at him. “Oh, a little one. Damn.” He relaxed, rising out of his crouch. “Don’t worry, Mrs. Bear, I’m jus’ here for you. I guess we’re done. Well, it was fun while it lasted.”
+
+Carten backed down, stepping to the side to allow the bear a clear path back to the den. It eyed him warily as he stepped back, watching him to see what he’d do. “You ok, Mrs. Bear? Want another hug? No?”
+
+The bear started moving toward its den, but it collapsed after a few steps, roaring in pain. Carten winced. It looked like there was something wrong with its leg. It was either broken or dislocated.
+
+Damn. It must have landed wrong. If I’d ah known it had a little one, I’d a never…wait. What’s that?
+
+His ears had detected a rustling sound coming from the brush near the den. Suddenly, a scaled head poked out from under the foliage, dislodging a shower of snow from the laden bush. “Ah, fuck,” He took an involuntary step back. “Fucking fake-ass snake vine.” He shook his head. The vine started slithering out from the brush, heading in the direction of the bear’s den. Carten swore. “Oi! Where the fuck do you think yer goin’!”
+
+I can’t believe I’m doin’ this. He gritted his teeth, then broke into a sprint. No fuckin’ snake’s gonna kill a bear on my watch. It’s supposed to be the other way around, damn it.
+
+He grabbed the tail end of the crawler vine just before it made it completely into the den, then started hauling. The vine resisted. It was larger than the one Ameliah had killed, probably large enough to swallow the bear cub whole. “I bet you eat like a snake too, ya viney fucker. Fuck you!”
+
+He planted his feet and pulled. The vine’s head popped back out of the hole and swiveled to look at him. It writhed, trying to break his grip, then, seeing that it was hopeless, started slithering back toward him. It opened its mouth, large white thorns making a convincing mimicry of fangs.
+
+“OH FUCK!” Carten swore, backpedaling. He kept hold of the vine, pulling it with him as he tried to escape from the head. “Let’s see how ya like this!” He flung himself backward, tugging the vine with all of his might. The vine whipped past him, leaving the ground completely as he yanked on its tail. He didn’t let go, digging in his feet as it cracked taut, the head of the vine helpless against the violent whiplash. The tough thorns dug into his palms as he pivoted, redirecting the vine’s momentum.
+
+He started to spin, building up speed as the vine was pulled outward by the centrifugal force. Faster and faster he spun, whirling the vine around him. He released it with a roar. The vine flew up into the air, easily clearing the treetops and sailing in the direction of the road. Carten roared in triumph, then collapsed to the ground. The world was spinning.
+
+He gave a whole-body shudder, then sat up. He rubbed a handful of snowy dirt between his hands, trying to scrub away the feeling of scales. “Gah. I fuckin’ hate snakes.”
+
+Dust trotted to a stop in a copse of trees, puffing in the cold air. He was having a horrible day. First, he’d been strapped to the cart too tightly, the harness digging into his shoulders. Then, the loud human had started making even more noise than usual, hurting his ears with his constant blathering. He wished he was back in the camp with the others, particularly the long-maned human.
+
+She was his favorite of the bunch. Much better than the lazy one that spent all her time lying in the cart. That one was useless. She couldn’t even walk on her own for more than a morning. It probably had something to do with the shiny chain coat she was always wearing. It had to be heavy. It was much better to be free, in Dust’s opinion.
+
+Dust snorted. Humans. They were often more trouble than they were worth. Sure, they were useful, but he hadn’t met one since Brace who he’d considered a friend. Brace had been a sensible human. Not like these. Even the long-maned human annoyed him sometimes, though she had redeemed herself by giving him some sweet fruit that he didn’t know the name for.
+
+Dust wished he was back on his farm, but he knew it wasn’t to be. Humans didn’t live forever, any more than horses did. He knew Brace was gone. His friend had been old. Very old. How old, Dust wasn’t sure. Older than him.
+
+It was hard to tell, with humans. He had enough trouble determining their gender. Sometimes, it was easy, as with the long-maned human. The females had these sort-of bumps in the front that gave it away. It was harder when they wore thick cloth or metal, like the loud one and the lazy one did. It’s strange that humans only have hair on their heads. They must get so cold…
+
+Dust puffed out a breath of air. He scanned his surroundings for any sign of danger. He didn’t want to run into any more giant flying snakes. One had been enough. He’d wasted no time getting as far away from that as he could. He flicked his ears, irritated. I’m sure that the loud human had something to do with it. Snakes do not fly.
+
+Dust shook his head and waited. Slowly, he relaxed as the silence continued. It looked like the commotion was over. He eventually decided that it was safe, so he cautiously walked out of the trees, searching for grass under the thin layer of snow. How did I get here? I should be in a warm barn eating oats…
+
+He bent his head down to nibble at a tuft of grass that was sticking out of the snow. Not much around here. Better than where the humans were staying though. He paused, raising his head and looking around. Should I look for the loud human? He flicked his ears again. Nah.
+
+After a little while, he heard the loud human approaching, given away by the clatter of his metal-shod feet and the breaking of branches. He was wearing his shell again. Dust whickered in greeting, then returned to his meal.
+
+“Ah! There ya are!” the loud human said, stopping to stare at him. He continued speaking in a jumble of sounds that Dust didn’t care to try deciphering. Humans were confusing. Why they needed to make so many different sounds, he had no idea. He considered himself something of an expert on human noises, but most of what they said was useless. “Come here!” said the loud human. Dust looked up and blinked at him. He shook his head in annoyance and laid his ears back. No. You come here.
+
+The loud human resumed stomping toward him. Dust took a step back. Do I feel like running? He took another step. I think I do.
+
+“Oh no no no no!” the human roared as Dust wheeled around and took off, making for the open space of the road. He knew he could run much faster than any silly two-legged human as long as he got out of the brush. Dust was a smart horse. He’d lead the human on a merry chase, then slow down when he got tired.
+
+I’ll let him catch me. Eventually. The humans were annoying, but they did know how to make a fire to keep the cold at bay. Dust was sure he was close to figuring out the trick to that. He’d been watching. Lately, he’d noticed that many of the things that the humans did were making a little more sense to him. Not everything, though. The white light that meant he never needed to poop, for example. Dust wasn’t sure which of the humans was responsible for that. It wasn’t the loud human, he knew that much.
+
+“Hey! Come back here!”
+
+Dust broke through the brush and snorted as his hooves struck the packed dirt. Time to run! He broke into a gallop, tearing down the road and kicking up clumps of frozen earth with each step. Now you’ll see why my master called me Dust.
+
+“Halt!”
+
+Carten stopped and looked around. He was back on the road and headed toward the river again, towing the cart. The tired-looking horse was walking beside him. “Eh?” he said, searching for the source of the voice.
+
+A man wearing green and brown stepped out of the trees. He was holding a bow, arrow at the ready, but not drawn. “I said halt!” the man yelled, staring at him.
+
+“I am halted, ya nit!” Carten hollered back. He winced. His face hurt. Damn bear.
+
+“Hands up! Step away from the cart!” the man shouted, taking a few steps closer.
+
+Carten let go of the leather harness and let it fall. “Who the fuck are you?” he asked, reaching into the cart to retrieve one of his shields.
+
+“Stop!” the man shouted, drawing back on his bow.
+
+Carten glanced over at him. Pfft. His arms are shaking. Weak. He slid one of his shields on to his arm, then stepped away. He started walking in the direction of the archer. “Put that fuckin’ thing down or I’m gonna break it.”
+
+The archer pulled back further. “Halt! I order you, in the name of Lady Vekuavak!”
+
+Carten didn’t stop. “Who?”
+
+The archer loosed his arrow. Carten lazily raised his shield, the bronze arrowhead clattering harmlessly against the Force Steel. “Oh, now ya went and done did it,” he said casually. “Now I don’t just get to break the bow, I get to break you!” He grinned, then charged.
+
+The man dropped the bow and ran for it. Carten laughed and sped up. “You ain’t gettin’ away from me! I outran a fuckin’ horse today!”
+
+“Hullo! I’m back!”
+
+Rain looked up from where Tallheart was hammering at the Dark Steel breastplate. Carten was walking toward him, towing the cart. Tallheart didn’t look up, focused on his work. Rain looked for the horse, spotting it nibbling at some grass at the base of a nearby hill.
+
+Why is Carten pulling the…? Woah. “Carten, what the hell happened to you?”
+
+The big man shrugged and raised a hand to touch the scratches running down his face. A sizable chunk of his bushy black beard was missing, and his face was covered with dried blood. “Bear,” he said.
+
+Rain took a step toward him, then windmilled his arms. He was encased in metal up to his waist, and he wasn’t used to moving in the armor yet. He regained his balance and looked closer at Carten. “Why were you fighting a bear?”
+
+“For fun, of course,” Carten said. “And this weren’t from the fight. This happened after. Ungrateful, I tell ya. This is what she gave me for goin’ back to heal ‘er.”
+
+Heal her? What the hell is he talking about?
+
+Carten let his hand fall from his face. “Hey, you got another one of them healin’ scrolls? Think they work on beards?”
+
+Rain shook his head. “No. Ameliah’s up at the mine, though. She might be able to…Carten, what the hell?”
+
+“What?”
+
+“Why did you go alone?”
+
+“Bah, I had the horse with me,” he gestured at the horse, which had wandered over to the campfire. It was staring into the flames for some reason.
+
+Rain tore his gaze back to Carten. “Carten—”
+
+“Never mind that, Little Mouse. We’ve got other problems.”
+
+“Problems? What problems?”
+
+“This guy,” Carten said. He reached over the side of the cart and grabbed a large bundle, then unceremoniously tossed it to the ground. It hit with a heavy thump. The bundle groaned.
+
+Rain stared. “Carten, that’s a person. What did you do to him?”
+
+Carten laughed. “He started it.”

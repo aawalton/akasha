@@ -1,0 +1,125 @@
+---
+id: 76a434fa-38ad-500a-a665-fbef6dea9173
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,373 - Status Quo"
+slug: 0050-chapter-1373-status-quo
+partOf: defiance-of-the-fall
+position: 50
+ownLength: 3160
+unit: words
+publishedAt: 2025-11-02
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2726770/chapter-1373-status-quo"
+royalRoadId: "2726770"
+---
+
+Void and Dao coursed through Zac’s body as he approached the distant sphere and the Natal Treasure waiting within. Simply rotating his energies was fast becoming insufficient for enduring Poised Meadow’s whispers. The pure Primal Life at the realm’s center was different from the rest of the Divine Energy.
+
+It didn’t act through a forceful infiltration that awakened life; it felt more like it had the power to elicit an innate desire to live in anything. The Primal Life would provide the necessary fuel, but the actual awakening was triggered from within. This proved much harder to defend against, but Zac had more than one method of protecting himself.
+
+A simple hatchet appeared without a ripple of energy, stabilizing his Dao Heart from outside interference. Naturally, he had already entered his improved Void State, which was the reason he’d gotten this far without any support. Next came his Hidden Nodes. Zac had intentionally relied on his Void Emperor Bloodline and Eoz hidden nodes to a minimum to save on Vigor. Now there was no longer any need to hold back.
+
+[Purity of the Void] began exerting its influence, removing Earthly Taint while weakening Poised Meadow’s life-affirming power. Eoz further shored up his defenses through Immutability and Adamance. Mei’Er’s melody proved to be a surprisingly effective counter throughout. Humming Hope allowed Zac to leave his mark on his immediate surroundings, breaking the poised silence and subverting that inherent need for awakening.
+
+The melody also piqued the curiosity of the local tyrants, allowing Zac to safely join the ranks of islands surrounding the teardrop. The sphere that looked solid from a distance had gaps hundreds of meters wide, and Zac picked an empty spot between two gargantuan islands conveying more goodwill and Imperial Faith than the average.
+
+There was no second line of locals waiting behind the first layer of silent islands. The sea of Primal Life he’d crossed could only be considered the teardrop’s runoff. Meanwhile, the giant sphere’s interiors were made up of the Natal Treasure’s true domain. The massive islands loomed right at the border, afraid to take a single step inside. They’d moved as close to their source as was possible without getting burnt.
+
+Warning bells in his mind—from his danger sense rather than the enormous lifeforms around him—told Zac against going any further. Enjoying the purest source of Primal Life should be more than enough for his purposes, and he wasn’t arrogant enough to think he could set his sights on the whole Natal Treasure.
+
+Staying by the border was already testing Zac’s limits, and he’d run out of Void Energy and Vigor within the day. Going further would drain his reserves much faster, provided he could withstand the inner domain at all. There was a massive qualitative leap of energy beyond the invisible border, and stepping inside would put him in direct contact with the teardrop.
+
+As for snatching the treasure, how was Zac supposed to do that? He had no Spatial Treasures strong enough to contain it, and his personal Void would immediately explode if he sent it inside with a Void Vortex.
+
+Observing the teardrop in person was completely different from seeing it in the vision. It radiated such an exalted aura that Zac couldn’t directly observe it for more than a few seconds at a time. The short glimpses did confirm one hunch and corrected another. First, the teardrop wasn’t actually the gateway to the true Poised Meadow.
+
+It looked more like the Natal Treasure had swallowed the realmgate to sustain itself and recover. The enormous islands weren’t necessarily guarding the teardrop so much as hoping it would step aside and let them leave through the passage. They’d reached the limits of this domain. To grow any further, they needed to return to their origin.
+
+The teardrop was also in a much worse state than he’d expected. Zac could feel a great fragility coming from it, making him wonder if releasing so much energy was a form of appeasement. Zac looked at the silent monoliths around him, wondering why they were content staying this way.
+
+The combined might of these lifeforms should be enough to force open the path, yet they stayed their hand. Did they know something he didn’t? Were they afraid of becoming casualties in the struggle? Or did they simply not know that fighting for their future was an option after a lifetime characterized by enduring silence?
+
+Zac was more than happy to let things stay this way. The teardrop’s seizure of the realmgate was likely the reason he remained safe. There was still no indication of the Realmlord noticing his presence, even after releasing his aura to its limits as a test.
+
+Time was limited, and yet, Zac spent the next hour simply letting the Primal Dao of Life wash over him. So long as it was controlled, it was a precious tonic for his body and soul, and it held countless valuable insights. The teardrop’s whispers weren’t like the twisted enlightenment from the Lost Plane.
+
+The Dao of Life radiating from the treasure was aligned with the Heavens; it was just that most of it didn’t pertain to Zac’s path. It was still a worthy subject of study and an opportunity to witness a Dao of Life approaching perfection. Just as importantly, Zac needed to study the near-limitless energy trapped inside the inner domain to gain the greatest benefits.
+
+The respite also gave Zac time to refine two crystals placed inside [Purity of the Void]’s purification space. They were the unique crystals originally meant for Astora’s tracking array, chock-full of corruption and Ultom’s insights. He’d already updated his other half about his plan. Having access to distilled enlightenment was a precaution, and they’d used the crystals since his Draugr side couldn’t find any corrupted zone inside the Peregrine Islands.
+
+As much as he wanted to bask in the teardrop’s radiance a while longer, Zac understood he needed to get going. Encasing the C-grade seed in a shell of protective Dao and Void Energy wasn’t enough. This close to the source, some of it invariably managed to seep inside, and Zac needed to take charge of the process.
+
+Thankfully, approaching the teardrop had given him a direction to pursue, and meditating before it had filled in the blanks. He had a plan, and there was only one way to see how well it would work.
+
+Zac took out a clay pot filled with paste crammed full of Divine Energy. He quickly shaved down some of the local bark he’d pilfered, along with a few other local resources he’d collected over the past few days. The resulting concoction was by no means optimized or even stable. The wastefulness didn’t matter to Zac, and the benefits greatly outweighed the drawbacks.
+
+With the concoction complete, Zac started drawing the runes of [Void Vajra Sublimation] across his body. Zac had considered various ways to guide the seed’s awakening, and he’d arrived at an unavoidable conclusion: he couldn’t. He didn’t have Tavza’s knowledge or K’Rav’s tricks. Even after decades of tempering his soul, his control could at best be considered mediocre.
+
+Trying to control the evolution with his Evolutionary Mold wouldn’t work. Where would he get the necessary Dao of Conflict to balance out the realm’s overwhelming Dao of Life? The balance would instantly shatter, and he would simply be introducing unstable heterodoxy by infusing his Dao of Defiant War.
+
+Since controlling the seed’s awakening wasn’t an option, Zac would indirectly guide the process by influencing its surroundings. Just humming Hope had a measurable effect on the Primal Life, and practicing his manuals should have a much greater effect.
+
+It was for the need for balance that Zac chose to focus on [Void Vajra Sublimation], despite Poised Meadow’s flavor of life being more suitable for advancing his soul. His Soul-nurturing method relied on both life and death to progress, and Zac lacked a source of death that could match Poised Meadow’s life.
+
+Zac would naturally still practice [Nine Reincarnations Manual] to bring out the most of [Void Emperor Apotheosis]'s synergistic effect, but it wouldn’t be the star of the show. Even so, Zac expected a decent boost to his Evolutionary Core in his Soul Aperture through the concept of body nurturing soul, and vice versa.
+
+There was one more reason Zac landed on using [Void Vajra Sublimation] as his method of influencing the seed’s awakening. He was very close to the limit of the fifth layer, and the teardrop presented an opportunity to make the final leap in one go.
+
+Back at Joyful Gardens, he’d perfected the fifth layer’s cultivation method thanks to the priceless treasures provided by the sect. Since then, he’d spent months digesting those items while shoring up his cultivation. Being forced to stay outside the memory domains for so long had left him with ample time to advance his constitution. Finally, having his body reforged through his month-long internment in Fertile Earth’s blessed soil had left him ready to give it a go.
+
+Drawing the complex runes should have come naturally, and yet Zac nearly slipped up a few times. The additions to the mixture helped bridge the gap between his Earthly Dao of Reborn Life and the local Dao, turning the runes into a breach for Poised Meadow’s spirituality. Zac didn’t have the mental capacity to deal with the sudden influx while protecting the seed and finishing drawing the patterns.
+
+A deep thump echoed from his chest as he released the restraints on [Void Heart]. The Hidden Node, usually kept as an ace, was this time used to siphon off any excess before it could cause a problem. Seeing how pure the energy was, it probably wouldn’t take long before it was returned refined.
+
+Meanwhile, Zac quickly wrapped up his preparations. He took out the seed and a large chunk of the blessed soil he’d kept for himself. The seed wasn’t planted so much as encased in a tightly compressed sphere of earth. The seed was quickly waking up after being released from its spiritual prison, and it reached out in search of sustenance.
+
+The whole region shook when the seed drew from the teardrop’s inner domain with bottomless hunger, and over a hundred perceptions locked onto the seed. Zac didn’t have time to worry about the locals’ reaction. He was essentially dealing with a runaway train now that the process had started, and any delay would lessen his impact.
+
+Zac created some distance before slapping his hands together. The clap created a powerful shockwave that shattered the hallowed silence. Zac followed up with the sutra’s first step, causing deep rumbles despite stepping on empty air. He had become a tuning fork that forced its frequency on the unblemished Primal Life around him.
+
+A thick stream of Life poured into Zac through [Void Vajra Sublimation]’s runes and [Void Emperor Apotheosis]. Zac was holding nothing back, practicing every method in his arsenal to maximize the synergistic effect of his unified technique. Even his Draugr half had stopped exploring the isles to help out.
+
+His draw on the inner domain was still nothing compared to the horrifying torrent of energy absorbed by the seed. Zac felt like he was practicing under a waterfall made of Divine Energy, only leaving a slight mark as it passed by. Zac wasn’t deterred, smoothly continuing into the next step while conveying his understanding of life to the nascent consciousness being formed inside the lotus seed.
+
+One stance followed another, each building upon a growing foundation of life. With each step, his absorption increased, as did his influence on his surroundings. Even a few of the locals shifted their attention from the seed to Zac, curious to see this unique form of life that existed through motion.
+
+The seed broke through the blessed soil by the time Zac reached the thirtieth step, yet it clearly wasn’t a [Ketumati Lotus] that was being born. Instead of a sapling, it was a small, intangible spirit made of the purest gold Zac had ever seen. Its aura was still a bit chaotic as it struggled to unify the large amounts of Imperial Faith it had stored with the Primal Life.
+
+Zac kept going, delighted to feel a weak connection with the budding spirit. It wasn’t nearly as solid as the bond with his Tool Spirits, but the seed was clearly looking to him for direction. It swayed in tune with every stance he took, its slight movements kicking up torrential gusts that triggered fearful reactions among the established locals.
+
+After all, the [Ketumati Lotus] tended by the unnamed priest was likely a Peak C-grade Plant Emperor, possibly even stronger. Even its seed was a few steps stronger than the C-grade islands. And yet, retreat was not an option for these reticent giants.
+
+A similar process had already started further beyond, greedily siphoning off all the energy in the outer rim. Zac could almost feel Ogras’ seed greedily eyeing the islands, wanting to use them as fodder to make up for its inferior breeding ground.
+
+Feeling that Ogras had everything in hand, Zac continued to impart the core concept of the Void Vajra to his newborn spirit: take what you need and discard everything else. Become a Vajra tempered by the purest Life. Meanwhile, hidden reserves of Imperial Faith seeped into the seed from the soil, nourishing the piety already present.
+
+The process worked until a tremor almost made Zac give up on his plan in a panic. The fragile balance between teardrop and the islands was being disrupted by the awakening of two spirits exceeding what the realm could sustain. For a moment, the pathway to the true Poised Meadows was exposed, and Zac could sense the vast, slumbering presence on the other side.
+
+It had briefly stirred as if it instinctively sought the source of the disturbance. As terrifying as the concept of being noticed by a possibly deranged Realmlord was, a secondary fluctuation made Zac harden his heart. He actually felt a slight increase in the Imperial Ferit accumulated in his identity seal when the realmgate was briefly exposed.
+
+It was clear his actions aligned with the purpose of the trial and the needs of the Limitless Empire. If his boon wasn’t proof enough, Zac could actually sense a slight increase in ambient Imperial Faith. It was as though Poised Meadow and the Left Imperial Expanse were reaching out to one another. For some reason, the notion made an old memory pop into Zac’s head.
+
+“The status quo isn’t enough,” Zac muttered as he continued into the next stance.
+
+The prospect of drawing the attention of another Realmlord—a Realmlord from the present, who likely still carried crippling wounds from the battle that finished off the Limitless Empire—was terrifying. Last time, he’d managed to escape Kālasūtra by activating Yphelion’s special engine. How was he supposed to escape Poised Meadow’s mistress? The closest memory domain was more than a day's travel away.
+
+At the same time, wasn’t his current predicament the exact reason why he wanted to break through? It had become increasingly evident that the journey to the Hollow Court would take him through the Nine Gardens and Eight Hells, and there was no guarantee all the paths would be hidden from the view of their Realmlords.
+
+The method of breaking through [Void Vajra Sublimation]’s fifth layer was breaking the Earthly Chains. In Zac’s case, these intangible bonds were made from the chains of Authority, connecting him with various old monsters through the Grand Tapestries of his Daos. Shattering them wouldn’t just come with a boost to his life-attuned constitution; it would make him harder to notice.
+
+As though conjured into being by his determination, Zac’s vision suddenly filled with countless intangible chains. Some led to the islands around him, though Zac could tell the locals represented their mistress rather than themselves. Others stretched toward distant realms, toward whoever held the Authority over the truths that made up his path.
+
+Seeing them didn’t automatically mean having the strength to tear them apart. The elusive chains might as well have been forged from godly steel. Each added step contributed to Zac’s momentum, but the vast amounts of Divine Energy he absorbed soon had nowhere to go. [Void Heart] reached its capacity first, then the hurricanes in his cells.
+
+Even his personal Void, hiding at the bottom of his cells, soon showed signs of overconsumption, yet releasing the excess energy wasn’t an option. Poised Meadow’s Primal Life might as well have a mind of its own, and it doggedly crammed into Zac’s body to awaken the stubborn piece of flesh that had resisted it for so long. Zac only barely managed to hold on by having Verun, Haro, and his Draugr half share some of the burden.
+
+Zac knew his problems would be immediately solved if he could just rid himself of the fetters holding him back. Unfortunately, the Earthly Chains still refused to budge. Their resilience far exceeded Zac’s estimates, despite observing them multiple times inside Joyful Gardens. It was as though breaking the chains was to overturn the ironclad traditions shaped by the Cosmic Order. Even the latent wills of the existences seemed to resist Zac’s plan.
+
+Adding to his pressure, the fluctuations coming from the other side of the Realmgate were growing in both focus and intensity. It was only a matter of time before the Realmlord noticed what he was up to—the worst possible outcome, considering she held one of the chains Zac was trying to break.
+
+Giving up would come at a steep cost. He was ready, and his momentum was at its peak. Backing down now would leave a shadow on his heart, making it harder, if not impossible, to succeed in the future. The backlash wouldn’t just harm him; it would probably destabilize the growing C-grade spirit. If it exploded, could Zac even survive the fallout?
+
+He was running out of time, and the only question was whether he’d reach [Void Vajra Sublimation]’s closing sutra or the limits of his body first. The final step was when he’d accumulated the limits of his momentum, his last chance to break the Earthly Chains. Zac knew it was time for a Hail Mary, and he absorbed the enlightenment stockpiled in [Purity of the Void].
+
+Life and truth combined into an answer, and Zac acted before he could talk himself out of it. He flashed forward, solidly stepping inside the teardrop’s inner domain. He was already overflowing with Primal Life, yet his suffering instantly reached new heights. The ambient energy was even more terrifying than he’d expected, which was exactly what he wanted to see.
+
+Zac’s eyes were wild with madness and glee when even the Earthly Chains were affected by Poised Meadow’s whispers of awakening. His Void Emperor Bloodline erupted with unprecedented intensity. It was time to see which came first: his death or the Earthly Chains being transformed into something he could cut apart.

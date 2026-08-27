@@ -1,0 +1,149 @@
+---
+id: 64bb728d-a178-57d7-99c8-8b0cd887f561
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 43"
+slug: 0351-b5-chapter-43
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 351
+ownLength: 1428
+unit: words
+publishedAt: 2026-06-13
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/3531961/b5-chapter-43"
+royalRoadId: "3531961"
+---
+
+Aria
+
+I yawn as I lie down on a lawn chair with my Death Spirits all around me slaughtering the mana creatures of this Hunter’s Spot. Which are all bugs.
+
+The Hunter’s Spot in particular is in the form of a massive ant nest. One filled to the brim with ant mana creatures of all kinds.
+
+Although my lawn chair is set up right outside of the ant nest itself on the hill leading into it. Which is technically considered part of the Hunter’s Spot even if I’m not inside.
+
+Of course, I ignore the people gawking at me and my Death Spirits all around the entrance to the nest.
+
+But while I’m lazing around, I feel my terminal buzzing with a call. So I have a Death Spirit lift it up in front of my face as I accept the call.
+
+At which point I find Shirogane’s face appearing on the screen along with the video of myself. Where I see myself lying down on my back in a tank top and shorts to enjoy the sun on my screen shown next to Shirogane’s screen where he is wearing a fancy set of silver armor while sitting in an office.
+
+“You never change, do you?” Shirogane asks with a brow raised and the corner of his lips quirking upwards in clear amusement.
+
+“Why would I?” I ask while tilting my head. “Is there something you need? Or are you just calling to complain about that empress again?”
+
+He flinches at my mention of the clingy empress who has been sending endless marriage proposals for him and following him wherever he goes. A person he tends to vent to me about quite often.
+
+“Today I have a request from my father,” Shirogane states, making me blink in surprise. But that’s all the reaction I show, making him continue speaking, “He would like you to compete in the exhibition bracket for this millennia’s Eternal Championships. What do you say?”
+
+I frown before crossing my arms under my chest.
+
+Hmm…
+
+The Eternal Championships is known as the greatest tournament in the entire universe. And it’s the only tournament where people can safely watch the Grands fight each other.
+
+There hasn’t been one in my life since the tournament is only hosted once every thousand years. Which makes the tournament itself the most watched thing all millennia.
+
+To the point that the tournament is broadcast on every single television station on every single planet. Not to mention every single streaming site, livestreams, videos, and so on.
+
+Everything is all about the tournament when it is hosted.
+
+The tournament itself usually starts out with a single exhibition bracket before the main tournament begins. With the only people invited to participate in the exhibition bracket being the Grands.
+
+So I’ll be the only one who isn’t a Grand participating.
+
+Which will be interesting.
+
+After the exhibition bracket, there are the preliminaries. But only people who have competed in the Opening Draft Matches and have won at least fifty matches over the course of the decade before the Eternal Championships are allowed to participate in the preliminaries.
+
+With the preliminaries themselves being their own bracket where competitors have to win at least three matches out of five they compete in to move on to the first round of the tournament.
+
+Then the tournament itself continues for a very long time. To the point that it lasts for years after it begins.
+
+There are two parts of the Eternal Championships that people care about the most though.
+
+The first part is the exhibition brackets, where the Grands end up being ranked in power in the universe.
+
+Of course, it’s an unofficial ranking based on the results of a tournament of all things, but it’s still a ranking. And people like to see rankings.
+
+And the other thing they want to see is who wins the overall tournament.
+
+That said, the thing they care more about is the Grands ranking. Because it’s the only tournament the Horsemen all compete in.
+
+Even the pharaoh competes in it.
+
+Every single Grand always competes.
+
+Although no one knows how the Emperor of the Eternal Dynasty is bribing them to compete. Since the Horsemen normally wouldn’t touch a tournament.
+
+Especially Pestilence.
+
+Yet he does.
+
+“Father said he would give you a century’s supply of the greatest wine in the Dynasty, and he would help promote your café at the tournament,” Shirogane adds.
+
+“I’m in,” I declare without any hesitation.
+
+Shirogane chuckles as he says, “I thought that would work.”
+
+I ignore him as I stare up at the sky while daydreaming about the wonderful wine Amatsuraki will be sending me.
+
+“Well, just make sure you show up at the time we’ll be emailing you soon,” Shirogane says with a smirk on his face that I purposefully ignore. Until he adds, “Oh, and your daughter was looking for you because she has some paperwork to hand off to you. And I have made sure to tell my beloved little niece of your whereabouts already.”
+
+I immediately get up from my lawn chair, summon my horse, climb on it, and open a rift leading to my ship. Then I set off for a new location as Shirogane’s voice continues coming through the call, “…yeah that was to be expected.”
+
+He just chuckles before adding, “She’ll find you soon no matter how hard you try to run, so you should just give up.” His chuckling slows down as he gets a slightly intimidated look and adds, “Despite being like a niece to me, she can be very intimidating when she wants to be…”
+
+Then the call cuts off, briefly making me wonder what Ruby’s done to him to make him feel that way.
+
+But that doesn’t really matter.
+
+What matters is going somewhere she would never suspect.
+
+So without hesitation, I have the ship take me directly to a deserted planet. One filled with acid.
+
+It’s an entire ocean planet made of acid. With several Hunter’s Spots scattered throughout said acid.
+
+The planet is extremely dangerous with little to no potential for people to hunt in it. Seeing as it’s one made of acid and all.
+
+Even people above level three thousand end up dead when thrown into the acid.
+
+And with that thought in mind, I jump from the ship the moment I arrive into the acid. Then I completely ignore the minor pain from the acid burning through my skin, completely passing through my enchanted clothes as if they aren’t there.
+
+At this point all of my possessions have that enchantment. The one that makes all damage pass straight through the item and into me instead.
+
+Even my lawn chairs.
+
+So I swim through the acid as it burns through me with the damage immediately reverting without pause. All the way until I arrive at an under-acid – if that’s a term – current in the form of a deep underwater whirlpool leading into a portal of some kind.
+
+The whole place is kind of beautiful. In a way.
+
+And incredibly dangerous.
+
+But most importantly, it’s a place I can never see Ruby going to.
+
+So without hesitation, I swim into the portal to enter the Hunter’s Spot. Following which I find myself being splashed into some sort of cave with acid splattered around it.
+
+I once again ignore the puddles and pools of acid in the cavern to focus on the mana creatures in the place. Which are large crabs.
+
+Then I set up my lawn chair again and lie down while summoning Death Spirits.
+
+Well, time to continue my relaxation before I was rudely interrupted by a certain prince and a certain daughter.
+
+That said, I wonder just how this Eternal Championships will be like? Since I’ve never been alive during one before.
+
+And on top of that, I wonder what it’ll be like fighting against the Grands in that exhibition bracket? Since I could very well end up fighting War or Pestilence in it.
+
+Or one of the others.
+
+Although something tells me that a third of them will just surrender without fighting me.
+
+Raja would never aim his weapon my way even if he was given an entire empire to do so.
+
+He’d probably consider it sacrilege and would just kill himself if he did. Or something like that.
+
+And my parents wouldn’t likely do it either. Although they wouldn’t go as far as him.
+
+Probably.
+
+Regardless, it’ll be interesting to see one way or another.
+
+It’s just too bad there’s no sun in this Hunter’s Spot…

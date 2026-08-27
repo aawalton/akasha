@@ -1,0 +1,159 @@
+---
+id: 2db5b2f4-88a4-557d-8750-81919fbe371f
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 28"
+slug: 0032-b1-chapter-28
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 32
+ownLength: 1733
+unit: words
+ownProgress: 1733
+publishedAt: 2024-01-15
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1477749/b1-chapter-28"
+royalRoadId: "1477749"
+markedReadAt: "2026-06-29T19:06:57.033Z"
+---
+
+Aria
+
+I rest my cheek on my knuckles as I lean over the table at the cafeteria reading through the information given out to every officer in the army. Information we’re supposed to spread to our subordinates, but since I don’t exactly have those, I don’t need to do anything with it but read it.
+
+The information is rather interesting, and it makes me a little curious about the outside worlds.
+
+Otherworlder Key Intel
+
+Otherworlder Greater Powers include the following:
+
+Rex Dynasty of the Dead: Nation worshiping death. Ruled by an emperor equivalent called a pharaoh.
+
+Eternal Dynasty: Nation of merchants with an interest in pursuing immortality. Ruled by an emperor.
+
+Council of Darkness: Universal scale organization of assassins led by a council with a single leader.
+
+Arcadian Society: Nation of mages led by an archmage.
+
+Grand Silvian Empire: A relatively peaceful but powerful nation led by an empire.
+
+Dread Empire: Empire led by a tyrant, one of the Four Horsemen of the Apocalypse, Famine. Leader grows stronger through the starvation around him.
+
+Crimson Flag: Warmongering nation led by one of the Four Horsemen of the Apocalypse, War. Leader never grows tired while fighting. And he grows stronger the more he fights, whether he wins or loses.
+
+Vest: A planet where a single person lives. Another of the Four Horsemen of the Apocalypse, Pestilence, who is known for spreading plagues to nearby worlds, slaughtering everyone just to test out his new creations. Grows stronger from spreading pestilence to others.
+
+This doesn’t include anything that I didn’t already hear from the second lieutenant himself. Although the fact that these are just the top powers in the universe, yet they include all three of the other Horsemen certainly puts things into perspective how powerful we Horsemen can grow.
+
+Makes me understand a bit better why the System decided to go and announce my presence to everyone.
+
+I continue reading past the section about the Powers.
+
+Commonsensical Facts and Differences in Culture:
+
+Revival is possible if a strong enough void mage is present. They are capable of pulling a soul from the void and placing it back in the body at a significant cost of levels from the one revived. However, conditions have to be fulfilled for the revival to work. Such as the being who is getting revived needing to be at least level 10 for a void priest to revive them. However, a Void Spirit may revive them regardless of their level so long as they fit the other unspecified requirements.
+
+Every world has a World Core where the users of the System are allowed to reset or lower their levels. However, these changes are permanent and cannot be revoked. Furthermore, people are not capable of forcing others to reset their levels as the System will detect attempts to do so.
+
+Invasions of new worlds are considered an honor for those who participate, and entire forces are created just to prepare for invasions, filled with people who have either stopped themselves from leveling or have had their levels purposefully reset to 1 at a World Core.
+
+Coordinates of new worlds are found by spatial magic users, and the worlds are classified by a division of seers from the Arcadian Society into five different Tiers. Alpha, Beta, Gamma, Delta, and Epsilon, with Alpha being the highest Tier.
+
+These Tiers are decided based on planet size, population, quantity and quality of Ability Holders, and resources. And our planet has been designated as Gamma. The base average planet Tier.
+
+Level of the user plays an important role in society outside of Vortel. However, it isn’t an absolute tell of strength since a level one could theoretically kill a level 300 should the level 300 let their guard down and the level 1 have a weapon of sufficient strength.
+
+Most adults are already at least level thirty.
+
+Raising the level of someone’s class has various effects on the user in question. Some of them include but aren’t limited to raising their physical strength, their mental capacity, their magical power, their mana capacity, and their lifespan.
+
+Every user in the System tends to live for around 100 years on average, with every 100 levels doubling the user’s lifespan.
+
+Worlds across the universe vary in their levels of technology and magical understanding, with Vortel’s level of technology being just a small amount above the average level of technology in the universe, and our understanding of magic a little above that.
+
+That’s a lot of information to take in.
+
+I already heard about the planet Tiers thing, but who knew people’s lifespans could increase through the System? Not that it affects me, considering that I’ll never age or die. Or at least I won’t age after I hit my prime, which shouldn’t be too long from now.
+
+As for levels playing an important role, that’s kind of to be expected when everyone has a number floating over their heads. Even Albaria has some instances of privilege from having high Class abilities.
+
+The way they tend to treat invasions is a little disgusting though, and that World Core thing is… interesting. Kind of surprised people would be willing to let go of power to invade another world.
+
+But putting everything else on that list aside for the moment, I can’t help but focus on the revival part. And, more importantly, the void part.
+
+Then I open up my skill description for Harvest again.
+
+Skills
+
+Skill Name:
+
+Skill Description:
+
+Harvest
+
+This skill allows the user to harvest the souls of the dying around them. They can then devour the soul energy within them, sending the souls off to the void. Or they can devour the soul whole, taking in the cores of their souls and erasing them from reality itself in the process.
+
+Does that mean if I devour a soul whole… the one it belongs to can’t be revived?
+
+Because that would be convenient if true.
+
+I wonder… I devoured that legate’s soul entirely since for one I was pissed off and for two I knew a legate of all people would have quite a bit of soul energy for me to use. So does that mean they won’t be able to revive him?
+
+That would be rather amusing to see. If they just tried to revive him only to realize that it didn’t work.
+
+Then again, who knows how long this revival process takes. Or what all they lose from undertaking the process.
+
+It’s revival after all. Defying death has a price, whether metaphorical or literal.
+
+I should know.
+
+“First Lieutenant,” I hear First Lieutenant Snow’s voice, making me raise my head to find the others of my team approaching my table. So I put away the intel sheet, leaving the rest to read later. Not that there’s much left on it. Then I silently watch the others take their seats.
+
+It’s been a few days since the battle, and we’ve been stationed at the Omega fortress since then without any new orders. Just been told that we’re on standby until the main army finishes stabilizing our foothold on the Al Mountain Pass. On their own fortress that is now ours.
+
+Then we’re to escort the supplies to the fortress afterwards so that we can fully establish our position there, pushing the frontlines back into the mountain pass.
+
+The others begin chatting, starting with the first lieutenant, “Do we know when the main forces will be finished? It’s getting boring around here.”
+
+“We’ll most likely be moving out tomorrow,” the major answers while beginning to eat some spaghetti. Then, after a short pause to chew and swallow the food, he adds, “The invaders sent another delegation this morning.”
+
+“Another?” Vargas asks, a frown on his face as he too begins eating some sort of meat dish in front of him.
+
+“They should just get the message by now,” Snow says while chewing his food. Which gets him a glare from Harvey.
+
+“Don’t talk and chew at the same time Adrian,” she says, sounding like an elder sister scolding her younger brother. “How many times do I have to tell you?”
+
+The others continue bickering and gossiping about the current status of everything, but I just sit by watching while sipping my wine.
+
+It took them the entire first day of our little vaca to approach me again, after which point they had begun treating me the same as they were before. Almost like nothing had happened.
+
+Which makes me feel a little conflicted.
+
+I’m kind of happy I’m not being treated as an anomaly or anything. But at the same time, I don’t want to be happy with them.
+
+I can’t get close to them after all.
+
+After that they started joining me for meals as well. And despite my feelings on the matter, hearing some of this gossip does actually help me figure out what’s going on.
+
+Plus it’s just boring nowadays, with nothing to do.
+
+Since the battle, the invaders have been sending one delegate after another, each slightly nicer than the one before, but each also still arrogant to a fault. Which is rather sad.
+
+It doesn’t matter how many delegates they send though. The Council can’t risk accepting the delegation without the people of the Republic growing rather angry.
+
+After all, civilians don’t like it when we make peace with invaders of our world who slaughtered their soldiers and family members. Especially when we seem to have the upper hand in the war.
+
+And since they went and changed our nation to a Republic, the civilians’ opinions really do matter. They can’t just ignore them.
+
+Personal power isn’t the end all be all in Albaria like it is in Arteria after all.
+
+The republic doesn’t appreciate tyrants doing whatever they want.
+
+And the nation’s past is a good example of that.
+
+I let out an inner sigh – not doing it out loud due to the people in front of me – before finishing my wine and getting up to bring my glasses over to the counter.
+
+It’s a rather dark thought, but… will our Republic ever know peace?
+
+It’s like war is all anyone in this world can really think about…
+
+Now that I’m far enough away from the table, I let out an actual sigh before dropping my glasses off at the counter and heading to go clear my head outside.
+
+And I miss sleep.

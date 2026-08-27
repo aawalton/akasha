@@ -1,0 +1,253 @@
+---
+id: b9f64179-e729-5983-9c7b-4aa3c337adc7
+page-type-slug: story-chapter-royal-road
+title: "188: Proximity"
+slug: 0188-188-proximity
+partOf: delve
+position: 188
+ownLength: 4361
+unit: words
+publishedAt: 2022-04-10
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/882088/188-proximity"
+royalRoadId: "882088"
+---
+
+Gentle wind ruffled Rain’s hair as he faced his opponent. His feet were firmly planted in coarse sand on an island of his own creation. The island floated on a shimmering sea, itself having swallowed the crumpled remains of the Bastion, far below.
+
+He’d left the wreckage alone, mostly. It now served as armor for his core, and also the core of the tiny water planet he stood upon. The horizon curved away from him—above it, only blue sky and clouds to be seen. The chaos was still up there, beyond the sky, but with the amount of order gathered here, the illusion was nearly flawless. The gentle wind sent the leaves of the palm trees swaying and dancing, and the steady lapping of the ocean on the shore was calming to the ear. Only the smell of salt was missing, but then, the ocean wasn’t really water.
+
+Gravity, Rain had found, served as a far more straightforward method of essence containment than his old system of tanks and pumps. There was still some of that stuff, down in the core and above the clouds, but not here. On this side of the planet, he couldn’t see the umbilical connecting his core to the new station he’d constructed in orbit. Here, things were simpler.
+
+“HA!” he shouted, striking with determination. His muscled forearm, left bare by the sleeveless white gi he was wearing, crashed hard into one of the four wooden arms of his dauntless foe. Rain hadn’t lowered his Strength before entering his soul, wanting to keep his health above the damage limit, and with his current buffs, the strike would have completely torn the limb from the training dummy, had it been real wood. As it was, the peg merely rattled with a satisfying ka-thunk. Following a sequence of moves compiled from martial arts films, interspersed with strikes from Bear Kata, Rain continued his attack. His opponent was always ready for him, one or another of its wooden pegs cleanly blocking every hit without even moving. It was as if it somehow knew where he would attack. Truly, a mighty foe.
+
+Things continued in this manner, only the steady impact of flesh on wood and Rain’s occasional shout disturbing the lapping of the waves. Eventually, after several minutes, he sighed, acknowledging defeat.
+
+The dummy, of course, didn’t move. It just stood there. Mocking.
+
+Rising from his stance and rubbing at his smarting arms, Rain banished his gi, replacing it with an orange and white aloha shirt and a pair of khaki shorts. In the real world, the sun would be setting. It had been about ten hours subjective since he’d lain down in his tent, which was pitched within Ascension’s camp in the ruined lowcity. His body still needed rest, given that this was the second sunset since their arrival and that he’d worked all through the night and the following day. His mind, though, was ready for more. Once Ameliah arrived, she would cure his body of its fatigue via overstamina, and then he could get back to it.
+
+With an anticipatory sigh, Rain let himself drop into an overstuffed armchair sitting incongruously beneath the palm trees. Beside the chair was an equally out-of-place bookshelf, stuffed to bursting with books from his memory. After a moment’s consideration, he selected one, smiling as he glanced at the title of his latest acquisition.
+
+Sameter’s Lair Atlas
+
+It had been one of the books he’d sensed in the Darkmane’s manor, he’d been ecstatic to discover. Technically, he hadn’t read it yet. Rather, he’d simply leafed through it, using a fully-compressed Winter Singularity as he beheld each page. That had been enough for him to recreate it here.
+
+To read and digest at my leisure. His smile widened. I should scan more books like this. With my time acceleration factor up to twelve, I’ve got ages to—
+
+Back in his tent, Rain abruptly awoke to find a pair of lips pressed against his own. Recognizing them as Ameliah’s a millisecond later, he closed his eyes, raising his arms to wrap them around her. When she eventually pulled away, he sat up after her, finding the two of them alone. A cloth-shaded bulb hung from the ceiling, revealing the runes painted onto the walls and the few bits of furniture that Mlem had acquired, then billed him for. Rain’s attention wasn’t on the furniture, though, or on his visor, which had been closed when he’d gone to sleep.
+
+Ameliah was smiling at him, holding up a scrap of blue paper. “As you requested.”
+
+Rain tore his eyes away from her beautiful face and looked at the paper, seeing the words ‘kiss me’ written on it. He laughed. “Let me see that.”
+
+She passed him the note, and he took a closer look. Someone had clearly tried imitating his handwriting and done a poor job of it. “Carten,” Rain said with certainty, pointing at the paper. “Look here, at the vowels.”
+
+“Uh-huh,” Ameliah said skeptically.
+
+“No, really,” Rain replied with a laugh, rising from his bed and stretching. Moving back toward her, he let the scrap of paper flutter to the ground and wrapped an arm around her waist. “Not that I’m mad at him,” he said.
+
+“Why would you be?” Ameliah said with a smile. “He did you a favor.” She kissed him again, then sighed, resting her head on his shoulder and just holding him close. “Did you sleep?”
+
+Rain nodded against her neck. “Yes. For too long. Can you give me a refill?”
+
+“I suppose.” Ameliah released him, and only now did Rain realize how tired she looked. Before he could comment, green rings appeared around him, and he hurriedly responded with Essence Well, subtly tweaking the power until his blue rings were rising in perfect phase with her green ones.
+
+“I think I’m done for the night,” Ameliah said, collapsing into a chair that looked only slightly less comfortable than the one in Rain’s soul. “The whole night. You deal with them.”
+
+“The Three Cliffs Guilders?” Rain asked.
+
+Ameliah gave a halfhearted shrug. “Them. The nobles. Everyone. I carried Lord Hakim and his sons down from the cliff, just to stop them from hassling Jamus, but now they want their stuff. They can damn well wait. If they really need their crap that badly, they can help fix the stairs. Make themselves useful for once.”
+
+Rain smiled, moving to stand behind her. He began rubbing her armored shoulders, glancing at his stamina bar as it reached full. He didn’t ask her to stop Energy Well, though. It would take a minute for the overstamina to properly wash away his fatigue. Memory boost aside, it was a shame that overmana didn’t do the same for mental tiredness. With Ameliah’s lower time acceleration, she’d need a few hours to recover. More than a few if she really intended to rest through the night.
+
+I wouldn’t blame her. Seeing everything I saw today...took a lot out of me.
+
+“Why did you erase the tobacco?”
+
+“Huh?” Rain asked, pausing his massage at the unexpected question.
+
+“Tobacco,” Ameliah replied, turning her head to look at him over her shoulder. “Do you know the word?”
+
+“Yeah,” Rain replied, returning to working her shoulders. “I know the word. You’re saying I erased it? With Purify?”
+
+Ameliah nodded, then looked forward again. “Vanna says she’s had three separate merchants stop by to complain. Apparently, you didn’t leave a single leaf in the whole city. Meanwhile, you left the bodies of the dead. So...why?”
+
+“I left the bodies deliberately,” Rain said delicately, pausing again. “People will probably want to bury them...or whatever they normally do around here. I didn’t want to just evaporate them like I accidentally did to...” He coughed. “I still feel bad about that.”
+
+“Yeah,” Ameliah said. “That wasn’t great.”
+
+Rain sighed, lamenting the stories that had been circulating since that little incident as he resumed his massage. “The tobacco wasn’t on purpose, but if I’d thought of it, I’d have done it anyway. Smoking causes cancer. That’s what killed my parents, so I’m not surprised my magic took offense.”
+
+“Oh,” Ameliah said, reaching up to take his hand, making him stop. “Could they not afford treatment?”
+
+Rain shook his head, not really feeling like going into a description of chemotherapy and medical debt at the moment. He held onto her hand as he moved around her, sitting once more on the bed. Like the one from Vestvall, this one was entirely too soft. “They got treatment, but it’s not like here where if you find a good enough Healer, its a sure thing. I saw Cure Cancer for myself when I unlocked tier-three Restoration.” He released a bitter chuckle, sliding his hand out of hers to adjust the position of his visor before letting it fall to his lap. “Of course there’s a skill for it. Convenient.”
+
+“I don’t know that I’d call tier three convenient,” Ameliah said, looking down at her knees. “It makes sense, though. Cancer is a rare soul sickness. Any other healing just makes it worse.” There was an awkward silence before she looked up. “Rain, I’m so sorry. I have no idea how you’d even treat something like that without magic.”
+
+Rain smiled, not bothering to correct her about the nature of the disease. For all he knew, the cause here really was soul-related. He took a deep breath, meeting her eyes. “Thank you, but it’s okay. I can’t change the past. All I can do is try to make a better future, and that starts with helping the people out there.” He gestured for the tent flap. “They’ve lost just as much as I have. More. So have you. I can’t just shut down like I did back in my old life. I have to keep going.”
+
+Ameliah nodded. “That’s exactly right.”
+
+“I was worried that we rushed into this, you know?” Rain said. “Taking over the city. Hells, founding Ascension in the first place. Seeing what I saw today, though, I think we waited up on the cliff for too long. It was worth the risk to come down here in force, even if the Sea Kings come back. If they make a fuss, so be it.”
+
+“I agree,” Ameliah said. “We made a difference today.”
+
+Rain nodded. “We did. That’s enough Energy Well.”
+
+Ameliah canceled her spell, then placed a hand on his shoulder as she gave him a serious look. “You don’t have to keep going right now. Take the rest of the night off.”
+
+“I can’t,” Rain replied, increasing the flow of mana to her now that he didn’t have an excuse to keep the rings timed with each other.
+
+“You can,” Ameliah countered, tightening her grip. “You have to let go. You already saved the city. Third one in a row, by my count. It’s okay to let other people do some of the work once in a while.”
+
+Rain took a deep breath before exhaling slowly. “I know.” He closed his eyes, shaking his head slowly. He looked up. “I’m really making a habit of this, aren’t I? Saving cities.” He chuckled. “Fine. I’ll stay in tonight.”
+
+“Wait, really?” Ameliah asked, taking her hand away. “I didn’t expect to convince you that easily. I had a whole list of other arguments ready to go.”
+
+“Really,” Rain replied with a smile. “The city needs to sleep too. I’m going to play Six Degrees of Kevin Bacon tomorrow, and I need people awake for that.”
+
+Ameliah gave him a flat look, exactly as expected.
+
+Rain chuckled. “My plan to find the Adamants,” he clarified. “Everybody in the city should at least know one other person. If I can trace people’s contacts, checking both ways, we can find anyone who doesn’t belong.”
+
+“I don’t know if that’s the smartest plan I’ve ever heard, or the stupidest,” Ameliah said. “You know how many people there are in the city, right?”
+
+Rain nodded. “About a thousand locals. It won’t be so bad if I do it by family. Besides, it’s what I’ve got, and casually talking to people might help with my...reputation problems. Besides, it’s not like I can tell Detection ‘find me all the imperial soldiers’. Maybe I could find them by their gear, but I don’t really know what to look for, and they could have ditched it by now.”
+
+“I guess,” Ameliah replied. “Good on mana.”
+
+Rain dropped his spell, his expression tightening as he remembered something he’d meant to tell her earlier. “By the way, there are a few people with high Arcane resistance out there. They feel like...ghosts. It gives them away, but it also makes them tricky to pin down. The one I managed to find turned out to be a Guilder. Another one is Bakal, obviously. Fortunately for us, it seems like he’s happy to stay in his garden, and he thinks our whole takeover is an amusing waste of time. There’s at least one more, and that’s what worries me. I was following their signal, but then it vanished when I got close. Like they saw me coming.”
+
+“And you were using full power?”
+
+Rain nodded.
+
+“Well, that’s not alarming,” Ameliah deadpanned. “Must be a stealth skill of some kind.”
+
+“Exactly,” Rain said with a sigh. “I don’t think whoever it is will cause trouble. They would have by now if they were strong enough to take on Bakal. But still. Not knowing is giving me heartburn. Somebody broke that ship. From the descriptions of what happened, they might have even broken the damage limit.” He raised a hand. “No spacial fissures, at least not that I could see from the shore. Anyway, my gut is telling me it’s somebody we know. Like Velika. Or even Lavarro.”
+
+“The world is a big place, Rain,” Ameliah said, though she didn’t sound certain. “There’s no reason for either of them to be here.”
+
+Rain nodded, equally unconvinced.
+
+“Regardless,” Ameliah continued, “I don’t like hearing that there’s someone strong enough to block you out there. I don’t know about you, but I couldn’t relax at all while Tallheart was in the city. I kept picturing a group of Adamants popping out of the ground and ambushing him.” She paused, then snorted softly. “Not that it would have ended well for them.”
+
+Rain smiled, deciding not to dwell. “Right? Oh, before I forget, there was something I wanted to ask you.”
+
+“Just one thing?” Ameliah asked, smiling wryly.
+
+“Okay, two things,” Rain said, smiling back. “I’ll start with the easy question. What’s the limit for an aberrant skill?”
+
+“You mean a divergent skill? Like Mahria’s Froststorm?”
+
+“Divergent...” Rain said, then shrugged. “Khurt said aberrant, but whatever. Yes, like that. Her Froststorm is twice as big as it should be, and not because of an accolade or metamagic. After she started talking, she gave me the details. Compared to what my interface tells me, her version has twice the range and twice the cost. That’s just a pure power upgrade, though, and not what I’m interested in. I’m talking functional changes. Bakal’s Nature Mage—whose name is Lellermen Green, by the way—claims to have a divergent version of Cultivate. The normal spell just makes plants grow faster, but he says his lets him control how they grow. You saw the fruit in Bakal’s garden. Some of those apples were the size of grapefruits. That’s not natural.”
+
+“I did wonder about that,” Ameliah said. “It’s a little odd, but not too unreasonable. If Cultivate helps plants grow, it isn’t that big of a stretch for his version to just make them...grow how he wants them to. Bigger. Sweeter. Whatever.”
+
+Shit. No discomfort had shown in Ameliah’s face as she’d been speaking, but Rain winced anyway. Lerith’s skills were divergent... THAT is how far it goes. Filth, I’m such an idiot.
+
+He hurriedly cleared his throat. “Next question. How did you know Bakal was dangerous? Was it just what you saw with Mana Sight, or was it more than that?”
+
+Ameliah tilted her head. “All his stuff was enchanted, and so was his wall. That makes him rich. You don’t get rich in a pirate town by being weak.”
+
+“I mean, that’s fair,” Rain said, rubbing at his neck. “How about Thrast, then? You were really calm about it when you showed up at the end of our duel. How did you know he wasn’t a threat to me?”
+
+“You didn’t seem concerned, so I wasn’t concerned,” Ameliah said with a shrug. “Plus, Nails was narrating. I’m not sure where you’re going with this.”
+
+“I could tell he was weak,” Rain said, scooting closer to her, excitement flashing in his eyes. “I knew. And with Bakal, I knew that I didn’t want to mess with him. It was like...sensing their power level... Sorry, reference.” He scooted closer to her along the edge of the bed. “And when I’m with you, I just feel...safe. I can’t explain it.”
+
+Ameliah blushed slightly, taking a moment to respond. “Are you sure it’s not just Perception?”
+
+“I thought that at first, but now I’m not so sure,” Rain said, removing his Perception accolade to check. The vague sense of safety didn’t change, though the light in the tent dimmed to his eyes. He rubbed at them, blinking to help himself adjust before looking back at Ameliah. “My other idea is that it has something to do with Linksight, but that shouldn’t be working right now, not with my soul all plugged up.”
+
+“Hmm.” Ameliah considered. “What do you get when you’re near Tallheart?”
+
+“It feels like standing next to a rock,” Rain replied honestly.
+
+Ameliah laughed.
+
+“No, a big rock,” Rain waved his hands, chuckling as well. “Like...solid. Immovable. A good place to take shelter against a storm.”
+
+“I know what you meant,” Ameliah said, laughter still underpinning her tone. She pursed her lips, sucking on her teeth for a moment. “This sounds like it might be adventurers’ intuition.”
+
+Rain whipped his head around faster than a cat hearing an electric can opener. “Adventurers’ intuition?”
+
+Ameliah motioned him back with an amused expression. “Wow, Rain, easy there. It’s just a phrase I’ve heard in the Guild, not a skill. Retired graybeards gossiping about how this team or that team is going to get themselves killed. Based on what you’re describing, though, there might be something there. A ‘thing,’ as you like to say.” She shrugged. “You should probably ask Staavo.”
+
+“Yeah, probably.” Rain couldn’t contain his grin. “He’s gone past gray, well into white. I’ll bug him tomorrow.”
+
+“Where is he, anyway?” Ameliah asked. “Didn’t he come down to set up the generator at the clinic?”
+
+“Back up top with Tallheart,” Rain said, waving a hand. “He went with Clubbs on his last water delivery of the day. This city is damn inconvenient, let me tell you. Anyway, you really didn’t feel anything from Bakal? Something instinctual? That’s what it felt like to me. An instinct.”
+
+Ameliah shrugged. “I mean, maybe? Nothing that couldn’t have been just a hunch.”
+
+“How about me? How do I feel to you, sitting right here.” Rain reached out, taking her hand and placing it against his chest.
+
+“Hmm,” Ameliah said, groping about with her fingers. “Firm. Just a hint of give. Like a nice juicy steak.”
+
+“Oh, stop,” Rain said, smiling and rolling his eyes and deactivating Tactile Transference. “Plenty of time for that later. Turn off the enchantment. It’s a distraction.”
+
+“Fine,” Ameliah said, returning her palm to the center of his chest and closing her eyes. “I don’t know. I just feel...you.”
+
+“And what do I feel like?”
+
+“Warm, I guess?” She opened her eyes, taking her hand away. “Fuzzy? It’s probably just in my head. Then again, I’m not the one with a rip in my paling.”
+
+“Warm and fuzzy...” Rain lowered his chin, scratching at his beard. “Warm and fuzzy. Okay.” He looked up to see Ameliah smirking at him, but he refused to be diverted by her clear amusement. “Here’s what I’m thinking. Strong people, like really strong people, have oversoul, and everyone, awakened or otherwise, can feel it. I don’t have that, but I have something similar that makes unawakened want to run and hide when my paling is open. They can feel the chaos because they don’t have system palings to block it.”
+
+He waved his hands, becoming animated as he worked through the problem.
+
+“Remember the system debug output? The Majistraal clearly thought forming a core was something that should happen eventually. What if that—soul stuff, I mean, purifying essence, making a core—what if that’s behind it? If the system is training wheels, then going beyond it means...”
+
+Ameliah waited for him, wearing a patient expression.
+
+“Okay,” Rain continued once he’d ordered his thoughts. “Before the system, before the Majistraal, people probably just did it the hard way. Nothing says an unawakened can’t enter their own soul. Without the system’s modifications to the paling, they wouldn’t have to deal with chaotic essence constantly getting pumped in from outside to keep up the pressure. And without that, they could slowly purify the whole thing. Then they could build a core, strengthening the connection between their soul and their body. Then, with the essence from their core, they could start to add pressure themselves, leveling up, and—” He tilted his head, then looked up. “Okay, fine, there wouldn’t have been levels, but you see what I’m getting at, don’t you?”
+
+“Leveling without the system,” Ameliah said. “Bypassing your cap. Yes, very exciting. Also, completely and utterly impossible. If it was that easy, everyone would be doing it.”
+
+“Easy?” Rain scoffed. “Do you have any idea how mind-numbingly boring it is? I’ve been trying to make an essence pipeline between my core and my paling for weeks!”
+
+Ameliah rolled her eyes. “Weeks, subjective. You’re spoiled, and you know it, Mister ‘Engine of Change.’ Getting stronger takes time.”
+
+“Yeah, yeah,” Rain said.
+
+Ameliah stuck out her tongue at him. “Let’s say this all makes sense, and you can level up by navel-gazing or whatever. If an unawakened tried pumping themselves up with essence like you’re describing, why wouldn’t their paling pop like a bubble?”
+
+“They’d need to learn to strengthen it, of course.” Rain rapped his knuckles against his chest, making a metallic clang. “A system paling is like a free suit of armor. Well, not free. You need an essence monster, but whatever. A system paling is strong, but it blocks the senses, both in and out. That’s probably on purpose. We know that with a natural paling, unawakened can feel chaos and that they can’t go too deep before they get overwhelmed by the pressure. Without the system, being near a ‘natural’ goldplate would be just like being in the depths. System palings let strong people interact with weak ones without snuffing them out like candles. The damage limit is the same way. It’s a safety measure.”
+
+“I’ll admit, it does make some sense, even if it’s all speculation,” Ameliah said.
+
+Rain grinned at her. “Natural palings must stay permeable as they get stronger. That’s what my plug is, no? It’s a barrier I built from my own essence. I can feel with it. Like skin. Linksight is what I get when my soul is wide open, though... It’s less feeling people and more feeling the system itself, or at least the connections it makes between us. This, though, this is subtle. If linksight was working, I doubt I’d even notice it in contrast. It would be drowned out.” He tilted his head, struck by a sudden thought. “The Watch can detect lies, and that’s not a system skill. It’s something they’re taught. Bartum said so. That means I can get better at this.”
+
+“Right, I remember you talked to him about this stuff,” Ameliah said. “What did he say when you asked him to teach you Watch Reading?”
+
+“How do you know I asked him that?” Rain asked.
+
+Ameliah arched an eyebrow. “You’re saying you didn’t?”
+
+Rain chuckled. “Right. Anyway, when I asked, he said not only that he wasn’t allowed to teach it to anyone, not even a Custodian, but also that he couldn’t remember how it works in the first place. Literally couldn’t remember.”
+
+Ameliah frowned. “Have I mentioned that I never want to meet Warden Vatreece? Like, ever.”
+
+Rain nodded. “Tell me about it. Anyway, the more mastery of your own soul you have, the more you can...I don’t know...get?...from other souls around you. ‘Adventurers’ intuition’ might just be what people call the feeling. They probably don’t even know what it is. Hells, it’s just like Staavo and his perfect Ice Bolt. With enough time and practice doing something, you can get damn good at it, even if you don’t understand the underlying mechanics.”
+
+“And oversoul?” Ameliah asked with a small yawn.
+
+“That too,” Rain said. “The more power you have, the easier it is for others to sense it. Oversoul is just soul pressure that’s strong enough that even a system paling can’t block...” Rain trailed off, grimacing and pinching the bridge of his nose. “No, it can’t be just pressure. It’s deliberate, remember? They’re circumventing people’s palings on purpose. Otherwise, unawakened would die before an awakened ever felt a thing. Wow, not just lowering your own paling, but someone else’s too? Talk about a flex.”
+
+Ameliah yawned again, much more loudly this time.
+
+Rain looked up, brought out of his musing by the sound. “Sorry. You said you were tired.”
+
+“It’s fine,” Ameliah said when she recovered from the jaw-cracking yawn, though she was clearly not. She looked exhausted.
+
+“No.” Rain shook his head. “You’re tired, and I’m babbling. You were right. This is all speculation. I need to run some tests.”
+
+“Scientific method,” Ameliah said, tapping the side of her nose.
+
+“Exactly,” Rain said with a grin. “Here, I’ve got an idea for solving both problems.” Lying down and making room on the bed beside him, he patted the blanket. “First test: extreme proximity.” He grinned at her. “Little spoon?”
+
+Ameliah smirked. “Only if I can turn the enchantment back on.”
+
+“Well, duh.”

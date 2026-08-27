@@ -1,0 +1,233 @@
+---
+id: c7c4fb09-fd53-5ac4-b39d-50484935f823
+page-type-slug: story-chapter-royal-road
+title: "068: Departure"
+slug: 0068-068-departure
+partOf: delve
+position: 68
+ownLength: 4639
+unit: words
+publishedAt: 2019-12-22
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/437229/068-departure"
+royalRoadId: "437229"
+---
+
+Ameliah walked through the trees, carrying a groaning bundle in her arms. Rain had overdone it, collapsing suddenly after several trips up and down the river bank. She hadn’t been concerned until she’d realized that he was physically incapable of getting back to his feet. She would have healed him, but she didn’t want to risk the overhealth. Not in his condition. More soulstrain was the last thing he needed.
+
+Rain squirmed as she carried him. “I’m fine, I can walk. Put me down.”
+
+“No, Val, you aren’t fine,” Ameliah said.
+
+“Stop calling me Val!” Rain protested. “This is totally different from that time. I’m barely bleeding anymore, see?”
+
+Ameliah sighed. She lowered him down, setting his feet on the ground. She let go abruptly, just to prove her point. Rain cried out in pain and surprise, collapsing as his legs gave way. She caught him before he hit the ground and hauled him back to his feet, draping his arm over her shoulder.
+
+“Damn it,” he hissed as she helped him limp along.
+
+“You overdid it, and you know it,” she said. “Your legs are totally thrashed.”
+
+Rain shook his head. “My ring is set to Recovery and Vigor. I’ll be fine.”
+
+“Eventually,” Ameliah said as they broke through into the clearing.
+
+Tallheart looked up as they approached, a frown darkening his brow. “What happened?” he rumbled, setting down his hammer and walking over to them as they hobbled toward the hut.
+
+Ameliah smirked at him. “Rain pulled a Val.”
+
+“I didn’t!” Rain protested.
+
+“You did,” Ameliah said, easing him down onto a log. “How many different kinds of soulstrain are you flirting with right now? There is such a thing as overtraining, you know? Why didn’t you say anything? I shouldn’t have let you work yourself so hard. If I’d known you had the ring set that high…”
+
+Rain sighed and rubbed at his legs. “Fine, fine. You’re right. I might have overdone it a bit. I’ll just rest here by the fire for a little while.”
+
+She eyed him skeptically. He’s going to feel worse before he feels better.
+
+“The armor?” Tallheart asked.
+
+She sighed. “Down by the river.”
+
+Rain let out a sudden bark of laughter. “In a van!”
+
+Tallheart raised an eyebrow. Ameliah shook her head. “I have no idea. Just ignore him. He’s not right in the head at the moment. Is that soup? He could probably use something to eat.”
+
+Tallheart nodded and retrieved a bowl from a stack of them near the fire. He ladled some liquid from the pot hanging over the fire into it and handed it to Rain.
+
+“Thanks,” Rain said, taking a bite. “Ooh, this is good, Tallheart, what did you do? It’s spicy. Where did you find peppers?”
+
+“Jamus brought them,” Tallheart said. “They are hotter than I expected. I may have added too many.”
+
+Rain laughed. “No, this is good, Tallheart. I love spicy. I’ve been dying for a good curry.”
+
+Ameliah raised an eyebrow. Huh. I wouldn’t have expected him to like spicy food. “Let me try,” she said, grabbing a spoon and dipping it into the pot. She blew on it a few times and then took a sip. Fiery didn’t even begin to describe it. The heat was beyond insane. Her Endurance helped her tolerate the sensation, but her enhanced Perception wasn’t doing her any favors. She looked at Rain in amazement.
+
+“You aren’t boosting your Endurance right now, are you?” she asked.
+
+Rain looked up from his soup. “No. Why?”
+
+“It is quite impressive,” Tallheart said as he watched Rain slurp down the soup.
+
+Rain held out his bowl. “More, please. Holy hell, I’m starving.”
+
+She shook her head, turning to Tallheart. “Don’t let him eat too much. He was training his Vigor tolerance too. He’ll stuff himself if you let him.”
+
+Tallheart nodded to her while refilling the bowl for Rain. “I will watch him,” he said, handing it back.
+
+Rain took the bowl and started attacking the soup with his spoon. He spoke rapidly in between mouthfuls. “Stop worrying, you two. I’m fine, honest. I just need to rest a little. Once I’m better, I think I can work on the basement a bit more or—hey, Tallheart, how fast are you? Want to race? I bet I could take you. Jamus too. I bet he can’t run for sh—Oh, Val might want to race, he’s really competitive. Anyone seen—”
+
+Ameliah interrupted Rain by holding up a hand. She turned to look at Tallheart. “He might be a little more…himself than usual. It should wear off in a few hours, I think. It should have already, but I’m pretty sure he did something beyond the bounds of all reason. And he did it multiple times, too.” She turned to stare at him. “No more Aura Focus. Not until you can handle the ring.”
+
+Rain stared at her. “What do you mean, more ‘myself’?”
+
+Tallheart chuckled. “I will watch him.”
+
+Ameliah fought to control her smile as Rain looked back and forth between them, a line of soup dripping down his face. He’s whacked out of his mind. It would be even funnier if not for how much discomfort he’s in for tomorrow. I hope Tallheart is in a patient mood. “I’ll go get the armor. Make sure he doesn’t hurt himself.”
+
+“It is fine,” Tallheart said. “I will get it later, once he is asleep. No one comes to these woods. It will be safe where it is.”
+
+“But I’m not sleepy,” Rain said. “More soup?”
+
+Tallheart ignored him. Ameliah’s mouth twitched as Rain struggled to stand, then fell back to the log when his legs refused to obey him. She moved over to sit next to him.
+
+He looked at her, startled as she sat down. “Ameliah, hi.”
+
+“Hello, Rain,” she said, smiling warmly. “You’re going to pass out the moment you turn off the Vigor boost. You should do that pretty soon unless you want to be in even more pain than you’re already in for. I want to make sure to say goodbye before you do.”
+
+“Pain? I feel fine. Wait, you’re leaving?” His face paled, then abruptly changed to confusion. “Wait, you already said—I knew that. Why did I forget? No, I didn’t forget, I just didn’t think of it—Hey, I think there’s something wrong with my head. My thoughts are all…fluttery.”
+
+Ameliah snorted. “Now he notices. It’s the Clarity, Rain. You’re not used to the boost. I know you have a lot of points in it, but those stats are a part of your soul, so it’s different. You aren’t used to the boost from the ring yet. You’re going to have trouble concentrating for a little while. How high did you set it, anyway?”
+
+Rain blinked and opened his mouth, then closed it and nodded. He shook his head immediately after. “I don’t want you to go.”
+
+Ameliah smiled at his expression. I know he’s not himself, but that was still adorable. “I have to. I’ll be back before Velika gets here. Hopefully, I’ll be able to find out about her family so I know what we’re in for.”
+
+“Mmm,” Tallheart rumbled. “Rain, turn off the Vigor boost.”
+
+“Huh?” Rain said. “Why?”
+
+Ameliah drew his attention back to her patiently. “I just explained this. You’ll run yourself ragged. You’re already feeling it, but you just don’t realize what it means because your brain is scrambled right now. Please, just listen to Tallheart.”
+
+“Fine,” Rain said, swiping at a panel that she couldn’t see. Immediately, his eyes drooped and he wavered, almost falling off the log. “Woah.”
+
+“See?” Ameliah said, reaching out to steady him.
+
+“Sleepy, yeah,” Rain said, sagging against her. “I’ll just—” His eyes rolled up in his head and he went completely limp. She lowered him to the ground gently and stood up.
+
+“How long will he be out?” Tallheart asked.
+
+Ameliah shrugged. “I’m not sure. It depends on how high he had his stats boosted. I should have stopped him after the first time he used Aura Focus. He can already be a little featherbrained at times, so I didn’t really notice how much it was affecting him until it was too late. He’s going to be feeling this for days.”
+
+“Mmm,” Tallheart rumbled. “Do you think he will learn his lesson?”
+
+Ameliah laughed. “I sure hope so, but probably not.”
+
+She dusted off her hands, then used Purify to tidy up the clearing, washing away the lingering soup from Rain’s bowl.
+
+“You are going?” Tallheart asked.
+
+She nodded. “Yes.”
+
+Tallheart nodded. “Be careful. She is a noble.”
+
+“I know,” Ameliah said softly. “I’ll be back. Keep him out of trouble.”
+
+The corner of Tallheart’s mouth quirked upward. “You ask much.”
+
+Ameliah laughed. Instead of offering him her hand, she bowed deeply at the waist. “Farewell, Tallheart, may our paths cross once more.”
+
+Tallheart returned the gesture. “Farewell, Ameliah, until that day.”
+
+Ameliah walked through the gates of Fel Sadanis, anxious to be on her way. She hadn’t stayed in one place for so long for quite a while, and she was afraid that if she stayed much longer she would start putting down roots. That was something she wanted to avoid, but she couldn’t ignore the responsibility that she felt. Rain would probably be okay on his own now that he had some levels and equipment, but she still felt terrible for abandoning him in the guild only a few days after they’d met.
+
+It hadn’t been clear to her at that time how much help he had really needed. It had worked out in the end—by most metrics, he was fairly competent, perhaps even strong for his level, depending on the situation. It was thoughts of how it could have gone so much worse that weighed on her mind. He could have died when Halgrave carelessly threw him from the guild, or when he’d fallen from the cliff. He didn’t remember it, but she’d seen him lying there at the bottom of that chasm, his body twisted horribly from the impact with the ground. If I hadn’t been there…
+
+She shook her head. She couldn’t save everyone. She’d learned that lesson the hard way. Still, she would do her best, and that meant she had to protect Tallheart from Lady Velika Vekuavak. She needed to get to Jarro and speak with her contacts there. From their brief meeting, her impression of Velika was that she was…a honey badger. She would just take what she wanted. She smiled as she remembered Rain’s soul-addled ramblings, but her amusement was quickly muted again by the seriousness of the situation.
+
+Nobles were always a hassle, even those that were not awakened. Just because they were born into their power, they thought that it made them better than those that earned it the hard way. Power, status, wealth, it was all the same. Compare a wealthy merchant who earned his way up from nothing and a noble who inherited his fortune, and you would see two very different views on the world. The awakened ones like Velika were even worse. Accolades would be passed down from generation to generation, giving them an unfair advantage and reinforcing their views of superiority.
+
+Ameliah hated that that was the way the world worked. Of course, there were exceptions to the rule, nobles who were kind and caring, those who used their advantages to uplift those less fortunate than themselves. She’d seen nothing from Velika to indicate that she was one of those. No, from what she’d seen, this particular noble was something to worry about. Velika was strong and confident. Her speed had been unworldly. If she wasn’t a goldplate, she was close, not that any noble would lower themselves to join anything as common as the Guild.
+
+For all that the noblewoman had made an impression, Ameliah had heard surprisingly little about her or her family. Stint had said that Velika’s mother had been a Citizen, which went a long way toward explaining her power if nothing else. Ameliah didn’t know the names of all of the DKE’s Citizens, but if Velika’s mother had indeed been one, it should be easy enough to find out who she was. The Citizens took on the title of their city when they were elevated, but it wasn’t like people forgot where they came from or who they had been before. For example, Citizen Jarro was a man by the name of Utuvus. He wasn’t bad, as Citizens went. Jarro was a fairly prosperous city under his rule, the needs of the people mostly cared for. He hadn’t been a noble, though. He’d earned his power. He’d been a goldplate in the Guild before renouncing his affiliation to claim Citizenship.
+
+That was far from the norm, however. Most Citizens came from old families in the DKE that traced themselves back to the original kingdoms that had made up the area before the unification war. They ruled over their cities as tyrants, often indifferent to the needs of those that they were supposed to serve, if not outright exploitative. The DKE as a whole was only held in one piece by the fact that the Citizens would band together to crush any threat to their power, including one of their own attempting to place themselves over the others in any way.
+
+Ameliah sighed again as she reached the Watch checkpoint. She’d need to pass through it to get into the teleportation complex. The Watch officer waved her through the wall that divided the area from the rest of the city, but not before she verified Ameliah’s plate number. Even being a silverplate wouldn’t get you through security here unchallenged. In fact, the security seemed tighter than she remembered the last time she’d been through here. There was actually a sentinel posted, overseeing the group of officers that normally guarded the checkpoint.
+
+She walked to the scheduling board in the middle of the square, checking to see the time of the next bulk freight transference to Jarro. She cursed when she saw that it wasn’t until the following week. She couldn’t afford to wait that long. She’d have to pay for a special activation. Depending on how long it took her to find the information she needed, she might be able to tag along on the freight transference on the way back.
+
+This is going to be expensive. I should just run it. It’s only seventy leagues...
+
+Damn it, no, I don’t have the time. It’s not like there’s an easy pass or anything. I can’t afford to wait for the freight transference and I can’t afford to waste time climbing a damn mountain.
+
+She sighed as she walked past the bloodworks, moving toward the registration office. She stepped inside, seeing a lone desk staffed by a man wearing a golden plate stamped with the Bank’s symbol. Other than the attendant, the room was deserted. The next scheduled transference wasn’t until tomorrow, and people who could afford solo activation were few and far between. There was little other reason for anyone to come in here.
+
+The attendant stiffened at her entrance, rising to greet her when he saw the silver plate hanging from her neck. “Welcome to the Fel Sadanis Teleportation Complex. What business do you bring today?”
+
+“Solo transference. Jarro,” Ameliah said. She didn’t want to spend more time in here than necessary. The Bank got on her nerves.
+
+“Certainly,” said the attendant, consulting a ledger. “One moment.”
+
+Ameliah frowned. The rates that the Bank charged for teleportation were ridiculous, above and beyond the base mana cost required by the platforms. She knew.
+
+The method of creation for the platforms had been lost with the fall of the Majistraal Order, thousands of years ago. The bank had taken over the operation of the platforms in almost every major city and they milked their monopoly on the transportation magic mercilessly. The Guild was working on decoding how the platforms worked, but until they solved the mystery, teleportation would remain a complete ripoff.
+
+The attendant looked up. “For transference to Jarro, the solo rate is 2,300 Copper, one way. How would you like to pay? Do you have an account with the Bank?”
+
+“No. I’ll pay in cash,” Ameliah said untying her pouch from her belt. So much for the Tel that I earned from the lair. She sighed and poured them out in a pile on the attendant’s desk.
+
+The attendant nodded and reached for a scale. “I am required to inform you that there will be a ten percent surcharge for the exchange of Tel at this office, in addition to the Bank’s customary exchange fee.”
+
+“Fine,” Ameliah snapped. Not worth the trouble. “Just don’t forget my Guild discount.”
+
+The man looked slightly affronted. “I have already applied your discount to the rate that I gave.”
+
+“Sure you have,” Ameliah said. The man weighed out the Tel and returned the excess to her, scooping them up and back into her pouch with a tiny flat spoon that he pulled from a drawer in his desk. He wrote her a receipt and handed it to her. She shoved it into a pocket without even looking at it. Next, the man pulled a wooden tag from a hook hanging behind his desk and set it down. He took a metal tool from his drawer and carved a string of symbols into the wooden tag. There was a smell of smoke as the enchanted instrument burned dark lines into the wood.
+
+The man looked offended as she snatched the tag from him when he offered it to her. She closed her eyes and sighed, opening them again and looking at the man. She hadn’t meant to be so rough. “Sorry. I just don’t like how much your…organization charges for this. I’m taking it out on you, but you don’t really have anything to do with it.” She shook her head. “Sorry. I’ve got a lot on my mind, and I really need to get to Jarro fast. The price is just…”
+
+The man’s expression softened. He leaned forward over the counter and whispered to her. “I don’t blame you. It’s ridiculous, but I don’t make the rules.” he looked around nervously and shook his head. “Don’t tell anyone I said that.” He sat back and spoke in a normal voice. “Please show your tag to the attendant at the platform. Thank you for your business.”
+
+She nodded to him and walked out of the room, shaking her head. Teleportation magic was rare. The prerequisites were numerous, and the metamagic required for it to work over any significant distance made it a dubious option for anyone who didn’t specifically build their class around it. True teleportation mages, Translocationists, as they were called, were rarer than Dynamos. There was only one in the Guild that she knew of, and he could only bring a handful of people with him at a time. The platforms were the only practical method of teleportation for most. All major cities had one and they couldn’t be moved, or at least, it had never been done successfully.
+
+Slipping through the line of people snaking its way out of the bloodworks, she made her way to the next security checkpoint, just beside the teleportation platform. There was actually a line to her surprise. It looked like the Watch was insisting on searching all goods coming into the city right there on the platform. They normally contented themselves with a cursory inspection upon leaving the teleportation complex, just as they did with anyone entering the city from outside the walls. Must be because of the war.
+
+The goods brought in from the last translocation were still being removed. Porters were coming and going to carry away the crates under the supervision of Bank officials and unaffiliated merchants. There was also a group of travelers waiting to exit the platform, having hitched a ride along with the freight. They were being processed slowly by a pair of Watch sentinels along with a large group of officers. It looked like it would be a few minutes.
+
+The searches struck Ameliah as needlessly paranoid. It wasn’t likely that the war would come to Fel Sadanis, and if it did, it wouldn’t be through the teleportation platform. The city simply wasn’t worth the trouble for the DKE. They could take it easily if they wanted to. The road to the DKE border cities in the west was open and the mountains to the north would be merely an annoyance. They wouldn’t take it though, because of politics. The DKE would have to raise a new Citizen if they wanted to claim additional territory without upsetting the internal balance of power. That came with a whole host of political issues for them. Additionally, it would be a total shitstorm for them if and when the Watch retaliated. They had multiple bases within DKE territory, including one with its own teleportation platform.
+
+Ameliah started tapping her foot. This line was taking forever.
+
+The Empire would snap up the city in a heartbeat, of course, but they wouldn’t get here by teleporting in. Each platform was connected to the global teleportation network that the Majistraal had built. In practicality, however, each platform could only access a subset of others that were nearby. Longer jumps took more mana, so it was more viable to take a series of small hops, rather than teleporting directly to your destination. Teleporting across the Badlands would technically be possible if not for the fact that the Bank had sealed incoming connections from all of the known gates in that direction. Like the Guild and the Watch, the Bank had no interest in doing business with the Adamant Empire. Without a platform, the distance was simply too great.
+
+Unless you’re Rain. I’m still waiting for an explanation for that one. I’m not even sure that physical distance even applies in his case…
+
+She shook her head. If Fel Sadanis was going to be attacked, it would be by land, and the only way that would happen was if the DKE border cities started to fall. That wasn’t likely either. Some of the most powerful Citizens in the DKE were in charge of that territory. They didn’t even rule over cities, being solely tasked with monitoring the border. If the Empire wanted to get into the DKE heartland, and by extension Fel Sadanis, they’d have to break through that border first. That would be no small feat. Their only other option would be to march an army through the Badlands, which, apart from the logistical nightmare it presented, would give them little of strategic value even if they did take the city.
+
+Her foot froze as she considered the problem from another angle. If the Empire did actually take the city, they’d be able to unblock the teleportation platform. Even if it took a ridiculous quantity of mana to shift their army across the Badlands, it would let them bypass the border and march straight into the DKE unchallenged. They could cross the mountains, or head east through the unclaimed territory to strike at the northern reaches of the DKE with impunity. The Citizens were powerful, each an army in their own right, but they couldn’t be everywhere. If the Empire got a foothold on this side of the Badlands, it wouldn’t end well for the DKE. The Empire had the numbers, they just lacked a way to bring them to bear. By the time that the DKE responded to the capture of the city, it would be too late. The Empire would dig in to hold it. If the DKE wanted to take it back it would mean they’d have to weaken their border.
+
+Ameliah felt cold, despite the fact that it was a warm day for the season. Perhaps the searches weren’t so unjustified after all. Covert infiltration would be the way to do it, as difficult as it would be to sneak anyone in from the north. The searches weren’t about the supplies, they were about the people. If the Empire managed to unblock the teleportation link to Fel Sadanis, they would probably win the war. That would be bad. Very bad. It all came down to whether the Empire would be able to afford the mana cost to shift a large enough army to hold the platform. It would be astronomical, but it was probably within their means.
+
+“Platform is clear,” said one of the officers. He looked at Ameliah, then at the sentinels. “When is the next scheduled transit? There’s someone waiting.”
+
+“Not until tomorrow,” said one of the sentinels, a woman wearing a red robe, clearly a mage of some sort. She turned to look at Ameliah. “Come here.”
+
+Ameliah stepped forward, holding up the wooden token between two fingers. “Solo teleportation, Jarro.”
+
+The woman nodded. “You’ve already been through security. See the Bank attendant. We’re watching you, Ameliah.”
+
+Well, that’s not creepy at all. “You know who I am?”
+
+“I was informed when you entered the complex. Rest assured that we are perfectly capable of dealing with a category five threat such as yourself.”
+
+Ameliah sighed. “I am no threat to you. You would know that if you knew anything about me.”
+
+“You will forgive me if I do not take you at your word.”
+
+Ameliah shook her head and turned away, seeking out the attendant. She spotted a likely-looking Bank goldplate returning from the direction of the administration building. He walked over to her and took the piece of wood wordlessly. He peered at the illegible script seared into it, then nodded. He motioned her toward the platform, stepping up ahead of her.
+
+Not very talkative. I bet he’s not a big fan of the extra security either. I wonder where the Bank’s enforcers are. I haven’t seen a single one since I got here. Maybe they don’t see the point with the Watch around.
+
+She stepped up onto the slightly raised platform of crystal. It was about ten strides in diameter and looked a bit like quartz. There were swirls of color running all through the stone and the finish was flawless despite how old she knew the platform to be. It looked as if it had been polished by a jeweler only the day before. The attendant was walking toward the control obelisk at the center.
+
+Three of the runes carved into it shone with blue light, representing valid platforms within the DKE. Two more were red, the blocked locations within the Empire. Several more runes were carved into the obelisk as well, but they were dark, meaning that the platforms were either destroyed or currently occupied. The attendant checked to make sure that she was with him, then pressed the blue rune corresponding to Jarro.
+
+White light started building within the crystal as mana flowed into the teleportation platform from the massive rune formation that Ameliah knew lay beneath it. The attendant walked off the platform, leaving her standing there alone as the light built, swirling deep within the stone. Tracers of arcane lightning started to form as the power grew, arcing from the platform to strike Ameliah’s body harmlessly. The bolts ignored the metal knife that she wore at her hip, defying everything that she had ever been taught about magic. The Majistraal lent proof to the saying that nothing was absolute. Her hair rose as the charge built, but she felt no alarm. She’d been through this many times before. The arcane lightning crackled through the air, drowning out the sound of the city as it grew in intensity. Exactly thirty seconds after the man had activated the rune, the formation activated. Her view of Fel Sadanis vanished with a muffled crack of thunder.

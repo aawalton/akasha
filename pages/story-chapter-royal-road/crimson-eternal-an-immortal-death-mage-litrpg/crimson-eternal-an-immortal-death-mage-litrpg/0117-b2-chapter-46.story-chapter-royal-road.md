@@ -1,0 +1,119 @@
+---
+id: b516226b-ec7a-5112-95d6-6127689e5a28
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 46"
+slug: 0117-b2-chapter-46
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 117
+ownLength: 1404
+unit: words
+ownProgress: 1404
+publishedAt: 2024-03-02
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1539258/b2-chapter-46"
+royalRoadId: "1539258"
+markedReadAt: "2026-06-29T19:09:55.932Z"
+---
+
+Vortel
+
+Inside of a large temple on the planet known as Vortel, the emperor of the Grand Roan Empire kneels down in front of the Void Priest. A man who simply stares at him without a single emotion on his face.
+
+“Please, great Void Priest, servant of the Esteemed Greater Void Spirit residing within this Temple, I beseech you,” the emperor declares while raising his head. “Please grant us one more chance to form a new pact. I swear on my line that we will never break it again.”
+
+Several seconds pass before the Void Priest lets out a sigh and the Greater Void Spirit of the Temple itself appears in its same silhouette form and speaks, “Once broken, a pact may never be reforged. Trust lost, respect shattered. Leave here now lest you gain my wrath.”
+
+Then the spirit vanishes just as quickly as it appeared, following which the emperor is kicked out of the temple, making him fall on his knees in front of the entrance.
+
+And without any hesitation, he slams both of his fists on the ground, cracking it in the process with his level 351 strength. Throughout the process only barely stopping himself from shouting in anger.
+
+He turns his glare towards the fortress situated near the Gate and the Temple, but any thought of taking his anger out on the fortress is erased when he sees red light beginning to cover the edges of his vision thanks to the soul pact he forged.
+
+A soul pact that has bound his actions for nearly a decade now thanks to his inability to find the Crimson Eternal.
+
+One made even worse since he believes the Crimson Eternal may just be the Horseman of the Apocalypse, Death, that people are speaking about all over the universe now. And if the Grand Nine can’t locate her, how is he going to manage it? Especially since it looks as if she’s traveling to Alpha Tier planets as well, and the only Alpha Tier world he has any access to is Eternus. And that’s only because of his trade agreement with a Six Star Merchant who had visited their world.
+
+After glaring at the fortress with a look that could kill for several seconds, he finally stands up, ignoring that the ground in front of the Temple is already magically repaired by the time he reaches his feet. Then he proceeds to make his way towards the Gate, feeling like he needs to vent his anger on something. Anything, really.
+
+At the rate he’s going, he’ll never find her. And since she will never die as a true immortal, the contract will never be voided. Not unless the First General is killed outside of his own meddling, since having her killed would count as a violation of his pact.
+
+The only way he can possibly consider capturing her at this point is to camp out at the Gates to Vortel and hope she decides to return. Or to put out a bounty on her himself.
+
+But with the bounties posted by the Grand Nine, he isn’t even sure if anyone would bother giving his bounty the time of day.
+
+Then he pauses right when he’s about to pass through the Gate as a realization comes to him. As he remembers the interrogation he did with that Vortel native known as Vargas.
+
+Where he got Death’s appearance.
+
+The intel was hidden over the years with no one believing it to be true, simply because no one ever managed to find her. And with him being such a minor power, he wasn’t given much credit when he said that Death was from a Gamma Tier world of all places. Especially when all of the other Horsemen are publicly known to have all originated on Alpha Tier worlds. Much more powerful and dangerous places than Vortel.
+
+But there is one person he can get to prove his words.
+
+That analyzer who he had hired a while back. Someone he believes was from the Sage Core. A Beta Tier world nation similar to the Arcadian Society but far weaker and on a smaller scale. Where they both focus on magic and the study of magic, with everyone amongst them being mages or analyzers.
+
+If I can just get into contact with that analyzer again, I’ll be able to prove that my intel about her appearance is correct. And that should at least let me convince the Grand Nine to let me see her at least once to clear this soul pact.
+
+The start of a smile begins stretching across his face at that thought.
+
+A very refreshing thought, since just the mere image of the Crimson Eternal’s face as the man known as Vargas had described it – a woman in her mid-thirties with black hair and eyes – has been enough to piss him off every single time.
+
+But now? Imagining the woman being captured and held indefinitely?
+
+Now he feels glee.
+
+Before that though, he has to find the analyzer.
+
+So he crosses through the Gate and immediately gets to work trying to find him.
+
+Aria
+
+I feel rather excited as we just speed through the ocean, passing by a bunch of underwater flora along with fish and other sea creatures of all types along the way. Straight towards the capital of Atlantis.
+
+Which, coincidentally, is also called Atlantis.
+
+“This your first time seeing so clearly underwater?” Azura says from a seat next to mine, with Little Blue once again sitting on my lap and Shirogane on my other side.
+
+I nod my head, not taking my gaze away from the window as the bodyguards all stand around us, with quite a few more soldiers spread around the little ship we’re in. Then I answer, “Yep. The only other time was in the trench at Hunter’s Bay. Which wasn’t exactly very clear nor safe.”
+
+He chuckles at that and says, “Yeah, the waters here are a lot clearer than in Hunter’s Bay. We’re also not as deep here.”
+
+Makes sense.
+
+I continue looking out the windows of the vehicle while thinking about his offer from earlier. When we first entered this vehicle and began the trip.
+
+His offer to let us stay in his café in the capital. Which is something he has. A café in the capital.
+
+Actually, he apparently has a café in every city on the planet.
+
+And while I think that might be a bit excessive, it probably makes a lot of money.
+
+At first I wondered if his café was just kinda dead. Since there wasn’t anyone in it when we arrived other than that employee.
+
+But as it turns out, he’d called ahead and told them to close the café before we arrived.
+
+His cafés are actually rather popular on Atlantis from what his guards said. And I guess it makes sense, considering that his cocktail was pretty good. And according to Shirogane, so was his tea and coffee.
+
+Then there’s the fact that he’s a prince. Which brings with it visibility to the cafés.
+
+I kind of wonder how much coin so many cafés bring in for him though.
+
+Putting aside his café obsession though, they also explained what that Winter Ball thing was about. Apparently some sort of fancy dance party meant for the nobility of Atlantis to celebrate the achievements of the mercenaries from the various Companies.
+
+Oh, and I’m apparently invited to it.
+
+Not sure if I’ll be going though. I don’t generally like formal outfits or parties.
+
+Although it might be a little interesting to see what sort of mercenaries they have under their employ. Even if I don’t really plan on ever hiring them.
+
+I’ll probably spend most of my time in the Grand Ocean here. At least for the first few years.
+
+There aren’t any wars going on in Atlantis, so I won’t have to fight any people.
+
+Which will be nice.
+
+As for where I’ll go after my time in Atlantis? There are quite a few planets to choose from. So I can decide on that later.
+
+The corner of my lips quirk upwards slightly at the thought of another Hunter’s Spot to explore.
+
+My thoughts pause as I feel the princess on my lap shifting slightly so that her head is resting ear first on my chest as she sleeps.
+
+Also gonna have some new people to get to know here.

@@ -1,0 +1,163 @@
+---
+id: 02f83048-21a5-50ef-991d-fbeb53808fe5
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 49"
+slug: 0359-b5-chapter-49
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 359
+ownLength: 1454
+unit: words
+publishedAt: 2026-08-06
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/3779313/b5-chapter-49"
+royalRoadId: "3779313"
+---
+
+Aria
+
+The next few days gradually begin to pass by as I spend time with my family. Only occasionally dipping out into a gate or into the Plane of Death to escape whenever Ruby arrives. To the great amusement of my family.
+
+Of course, by ‘spending time with my family’, I mostly mean them spending time with me as I do my usual hobbies.
+
+Like drinking, watching TV, reading books, and hunting monsters in Hunter’s Spots. Specifically the Hunter’s Spots in the Crimson Empire’s little spatial pocket thing here.
+
+They’re just kinda following me around like little chicks. Stopping and looking at me with puppy-dog eyes whenever I look at them or even straight up asking me questions while trying as hard as they can to not bother me.
+
+Or, rather, as hard as they can to not bother me without stopping their following.
+
+They all even alternate between who is following me at what points in time. Seeing as they all have work they have to do.
+
+Very important work at that.
+
+And yet, they all still follow me around.
+
+It’s kinda ridiculous. But at the same time, it makes me understand them a lot better.
+
+It also shows me several of the hobbies and habits that they have that are still the same or similar to the ones that the clones had.
+
+Proving that they are still the same people even if a lot of time has passed.
+
+Hobbies and habits don’t change that easily after all.
+
+My mother has always been very big on fashion for as long as I can remember. To the point that she used to take me and Adrian to stores to pretty much treat us as dress-up dolls ever since we were young enough to walk.
+
+Or almost young enough to walk.
+
+She’s also had this little habitual tick of hers where she would twitch just one finger when she is incredibly excited despite her general expressionless face. Even when she’s completely hiding her emotions behind a mask, she always twitches her index finger ever so slightly when excited like this.
+
+As for my father? He has always loved beer and cocktails for some bizarre reason. Although I can perfectly understand why he enjoys cafés.
+
+Cafés are a great thing to enjoy after all.
+
+They’re wonderful.
+
+My father also would always frown at someone when they didn’t understand something he thought was blatantly obvious. All the way until that someone understood it on their own.
+
+Then his frown would no longer be directed at them.
+
+But throughout the entire process, he would never say a word. And I can see him doing this exact thing to some of his subordinates.
+
+Subordinates who clearly recognize and understand the look. Implying he has done it enough to be recognizable by the knights and people in general.
+
+And last but certainly least, my brother. Adrian Crimson.
+
+For some reason he is obsessed with video games.
+
+It’s a strange hobby, albeit not as strange of one as our mother’s fashion.
+
+While I will sometimes play and enjoy games, usually I prefer watching a story over having any control over it myself.
+
+Or reading a story.
+
+So I don’t understand this hobby personally.
+
+That said, he still has his little habit of tapping his thigh with his index finger whenever he’s feeling impatient. Which I’ve noticed has become a sign for his subordinates to move faster at whatever job they’re doing.
+
+And despite my previous feelings of detachment towards them, these little things are starting to make me change my tune.
+
+Only a little though.
+
+That aside, I’m still the most normal of the family without a doubt.
+
+I give a firm nod of my head at that thought as I lie down inside the stomach of some sort of space eldritch abomination inside the Hunter’s Spot.
+
+There’s just no doubt at all.
+
+After all, who likes fashion to that degree? Sure I can see some people enjoying fashion a lot. I’ve read plenty of books and watched a lot of TV shows to see other people’s perspectives.
+
+Even if I have no interest in fashion or my appearance whatsoever.
+
+But to the extreme degree she likes it?
+
+Nope. Not normal.
+
+And dare I even mention the atrocious taste of someone actually preferring beer and cocktails over wine.
+
+A shiver runs down my spine at that thought. One that isn’t from the monster.
+
+I blink as said monster gets blown to bits by a bolt of crimson lightning. Revealing both my father and my brother outside looking at me with worry.
+
+Then there’s my brother.
+
+I casually clean myself of the gooey stomach acids as I walk over to my brother and place my hand on his shoulder while saying, “You should try reading some books instead of playing games all the time, okay?”
+
+And without giving him the chance to say anything, I turn around and begin my journey through this lovely spatial vortex once more.
+
+Just to be stopped as Adrian appears next to me and says, “I’ll try reading a book if you try playing Mana Creature Hunter. But if you end up loving the game and play more than six hours of it a day then swear you will agree that video games are better than any wine or book in the universe.”
+
+I narrow my eyes at him before opening my mouth to respond. But he quickly adds, “I’m sure you won’t decline, right? Your love for wine and reading can’t be that shallow, can it?”
+
+“I agree with your terms!” I shout while narrowing my eyes further at him and shaking his hand. “But only if you swear that you will agree that wine and books are better than any game in the universe if you find yourself binge reading a book for six hours straight because you love it so much!”
+
+“Agreed,” Adrian says with a confident smirk on his face.
+
+And not even three hours later, I find myself smugly standing in front of a stupefied brother as he stares in shock at the video game screen in front of us.
+
+“How?! You played it for two hours straight and you didn’t feel anything?!” Adrian exclaims, clearly seeing the light of wine and books.
+
+“I’ll admit, the game was good,” I state with a firm nod of my head while crossing my arms under my chest. “But it will never beat wine and books.” Then I focus my eyes firmly on my brother and state, “Now admit your defeat.”
+
+He turns his head to look at me and asks, “Can I-”
+
+“No,” I state. “Admit your defeat.”
+
+“What if-” he tries again.
+
+“Admit. Your. Defeat.” I cut him off once more.
+
+He stares at me while grinding his teeth. I stare back with a smug look on my face and my arms still crossed.
+
+“Fine,” Adrian growls out, making me stand up just a little taller in my pride. “But I haven’t completely lost yet. I still haven’t started reading.”
+
+“We’ll see what’s what when you lose,” I tell him with a grin.
+
+Of course, six hours later, I find my brother so caught up in reading the book I selected for him that he doesn’t snap out of it even when I call his name.
+
+To the point that I have to call his name a second time to wake him from his daze.
+
+He then blinks and looks at me with a horrified expression as he shouts, “How?! How is this book so good?!”
+
+I just laugh with a wide grin on my face and my hands on my hips.
+
+Of course, this version of him doesn’t need to know that I managed to convince his clone to read when I was just a young girl. So I already know his preferred books.
+
+And this served as a great test to see if he still likes them.
+
+Which he clearly does.
+
+“Now say it!” I exclaim with a grin directed his way.
+
+He grits his teeth and stares at me for several seconds before finally grinding out, “Books… and… wine… are… better…” He flinches and grits his teeth even harder.
+
+“Continue,” I tell him as my grin turns into a smile.
+
+He rushes the rest of it as if pulling off a band-aid, “Better-than-any-game-in-the-universe! There! I said it!”
+
+I pat him on the head with a smile.
+
+Or I try to. Unfortunately he’s too tall, so I can’t reach.
+
+But the point is made either way as I swiftly move my hand towards his shoulder to pat it instead and state, “Good boy.”
+
+I was right.
+
+Without a shadow of a doubt, I am the most normal one in this family.

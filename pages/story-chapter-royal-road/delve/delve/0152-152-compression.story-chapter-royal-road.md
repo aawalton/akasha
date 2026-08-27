@@ -1,0 +1,385 @@
+---
+id: 94879860-f2e7-5040-aaf0-d478a293be27
+page-type-slug: story-chapter-royal-road
+title: "152: Compression"
+slug: 0152-152-compression
+partOf: delve
+position: 152
+ownLength: 6475
+unit: words
+publishedAt: 2021-06-27
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/706444/152-compression"
+royalRoadId: "706444"
+---
+
+I don’t know how he can stand this.
+
+Ameliah jiggled her knee, barely aware of the motion as she sat in sensory deprivation. Aura Focus was active, alongside Amplify Aura and Extend Aura—the three Aura Metamagic skills that she’d taken as a foolish child determined to never let anyone die to poison ever again. She wasn’t using them with Purify, however.
+
+Spring felt like…warmth and change. The magic seemed to fill her with the urge to grow. To improve. To do. Even unleveled, her metamagic made the effect more than strong enough to make sitting here utterly intolerable, and yet, that was the task she’d set herself.
+
+Stupid low mana cost.
+
+Rain, the massive hypocrite, had called her crazy for trying to power-level it, but training was never easy, nor was it always fun. She needed Spring if she wanted to unlock Energy Well, which would give her the stamina she’d need to rank up other stuff. The sooner she had it, the faster she’d be able to progress.
+
+There were other ways to boost stamina regeneration, obviously, but Energy Well was the only skill she knew of that converted mana directly into stamina. It would let her take advantage of Rain’s frankly stupid mana output, and it would be able to function mostly unsupported. Once she had it unlocked, she could then dump Spring, Purify, Amplify Aura, Extend Aura, and Aura Focus to free up five valuable skill slots.
+
+Can I really do that?
+
+Ameliah grimaced.
+
+I haven’t been without Purify since…ever. I need the slot, though. I can’t afford to waste a point on something Rain already has. I can rely on him. He’s already relying on me. We can both benefit. I…should take the other seasons too. Not now, but once we’re back on the surface…
+
+She sighed.
+
+But if I do that, I could get stuck. The entire COMPANY would be relying on me, not just Rain. I’d have to stay until—
+
+She sighed.
+
+Damn it. Why does this have to be so hard for me? I WANT to stay!
+
+…
+
+Why can’t I get past this? Rain’s not like…him. Besides, there’s Tallheart and Jamus, even that goof Carten. My…friends. Not just them. Meloni, Vanna, Samson, Myth and Reason… Everyone.
+
+I don’t want to leave. So why can’t I just trust that—
+
+Something shifted in Ameliah’s mind, and she sighed, relieved by the distraction. The feeling was like that of a stuffed nose becoming unblocked. She hadn’t had a cold since before she’d left Brightside, but that was still how she thought of it.
+
+Looking inward, she focused.
+
+She pictured herself standing beside a well, a pouch of stones hanging at her waist. The image was sharp and clear, partly because she had no natural senses to distract her at the moment, and partly because of all the training she’d been doing in an attempt to enter her soul. That wasn’t what she was here for now, however.
+
+The pouch at her waist was open. She reached inside to remove a single red stone, then tossed it into the well. As she did, Magma Catapult vanished from her mind like a candle extinguished. Then, she knelt and extended her arm into the water, reaching down to the very bottom in complete disregard of the depth. There were many stones there, added over years and years. She selected one, then dragged it back to the surface. It was a neutral gray, but she didn’t bother to inspect it before placing it into the pouch with its fellows. She knew it was the right one.
+
+Ameliah smiled as Channel Mastery appeared in her mind. She let the image of the well fade, then turned her focus back to Spring. With a thought, she used Channel Mastery to double the aura’s mana consumption in an instant, and her smile took on a strained quality. As expected, her restlessness had doubled as well.
+
+Rain can put up with this, and so can I.
+
+With an effort of will, she forced herself to stop jiggling her knee.
+
+Spring is annoying, yes, but the feeling’s nowhere near as strong as Winter yet. I can do this. I WILL do this. Now that I have Channel Mastery, it should be earning twenty-seven experience per hour. That makes it just under four hours left until rank two, which means I can get four more skills switched before I’m done, easy as just sitting here.
+
+She sighed, then let herself fall backward, not feeling a thing as she struck the ground.
+
+Joy.
+
+[Dozer, stop!] Rain mentally shouted, wriggling away from the playful slime as fast as he could. Snek was larger now, but nowhere near as large as Dozer. Keeping ahead of the colossal slime was consuming valuable attention that he needed for other things.
+
+[Tube-Slime! Play!] Dozer replied happily, jumping and slamming into the wall of the Bastion with enough force to shake the entire structure. Rain had built a basic platform of essence so Dozer wasn’t just pooled at the bottom of the sphere. He’d then changed the paneling back to glass, leaving the braces as adamant. It looked like a domed island again, floating in the sea of chaos, even more so since he’d made the platform green. His core was braced in the middle still. The adamant structure holding it ruined the image of the island somewhat, but there was no helping that. There was also no helping the fog, which was quite thick at present. The rate at which his core was generating it seemed to have increased, along with its size and the size of the Bastion.
+
+[Dozer, now is not the time!] Rain sent, slithering behind one of the ‘adamant’ pillars where it met the ‘ground.’ He continued his retreat by slithering upward, winding around and around the pillar as he climbed. By his estimate, he only had a few minutes left before his alarm would go off, triggering the leveling process. He wanted to be in Snek when that happened so he could see his core from outside. He also didn’t want to be flying around, which meant he had to park his avatar in a safe spot. The problem was that there was no safe spot.
+
+[Play!] Dozer was climbing after him, sticking to the beam and making it groan under his weight.
+
+[Damn it, Dozer, you asked for this.] With his will, Rain snapped the beam right above Dozer, pushing it back toward the ground. The hardened essence couldn’t bend, so it broke, tearing a gaping hole in the platform where the beam passed through. Rain widened the hole further, dropping Dozer and the broken piece of the beam beneath the floor. Working quickly, he patched up the hole, then hardened everything, green darkening to gray as the pseudo-grass became pseudo-metal. [You’re in time-out.]
+
+[Game!] Dozer sent back happily.
+
+Rain hissed in exasperation. It was wonderful having the slime back, but there were some definite downsides. First, he wants to play, then he’s moping because he couldn’t understand my questions, then he’s all wound up about the ⟬filth⟭—damn it, filth—and after that, he’s back to wanting to play again and won’t take no for an answer. Dozer, buddy, we’re gonna have to work on some stuff.
+
+Leaving the link open, but ignoring the slime’s happy confusion over the rules of the new ‘game’ he thought they were playing, Rain returned his attention to his core. He slithered his way to a more secure position, wrapped Snek around a beam, then settled down to wait.
+
+Any second now…
+
+He held his breath, and then suddenly, it began. The Bastion trembled, and he became aware of a sense of pressure against his scales. The chaos outside roiled, pressing against the glass. He felt that, too, despite being inside Snek. His entire soul was being subjected to some sort of stress. The Bastion groaned as the pressure grew.
+
+No…
+
+Rain tried to hiss in denial but found himself unable to expand his lungs. The pressure was coming from everywhere.
+
+The fog thickened, and as Rain stared at the walls, he realized that it was coming in from outside, phasing straight through the glass like a fog bank rolling in. Faster and faster, the Bastion filled, the fog soon condensing to an opaque liquid that completely blocked his view. He tried to switch back to his core and failed. He was trapped in his avatar, unable to escape the terrible, yet oddly painless pressure. The liquid was flowing past him toward his core, faster by the moment, trying to tear him away from the beam. Dozer felt it too and was panicking, flattened against the underside of the platform by the current. Beneath the slime’s fear, Rain could feel a kernel of recognition. Dozer had felt something like this before. Rain used that fact like an anchor to keep his own fears in check.
+
+If it’s happened before, it must be normal. Nothing to be worried about.
+
+The pressure continued to build, and the current became even stronger. Rain’s vision narrowed to a point as he desperately fought to hang onto the beam.
+
+This is fine…
+
+Suddenly, the pressure was gone, as if it had never been.
+
+Rain sucked in a breath, finding the liquid gone and the air perfectly clear. The Bastion was still there, undamaged, only now free of even a wisp of fog. Dozer fell, then began pinballing violently about his confinement, making the entire Bastion shake. The slime was unharmed, but frantic, desperate to find Rain and defend him from the threat, whatever it had been.
+
+[Calm down, Dozer, it’s okay,] Rain sent, staring in wonder at the chaos beyond the Bastion’s windows. It was still churning, but it was calming quickly, soon returning to more-or-less normal as he watched. He sent more soothing feelings in Dozer’s direction. [Just hold tight. I’ll let you out in a minute.]
+
+It seemed to work. After a few more jumps, the slime stopped trying to destroy the walls. Waiting for Dozer to finish calming down, Rain turned his gaze once more toward his core. It didn’t appear any larger, but the light that it emitted was ever so slightly brighter. He was sure about that, even though it was hard to make a comparison against only his memory. The knowledge was instinctual, somehow. He just knew. He watched his core, thinking hard as it transitioned from panicked red to a deep, contemplative blue.
+
+Bartum said the daily cycle looks like breathing. Out, and then in. This must be the same, only stronger. I need to try this when I don’t have a level pending to see if it is any different. The paling must…contract or something, squeezing essence into my core. That’s clearly what just happened, but… How did it ignore the Bastion’s walls like that? And where did it all come from? Was there pure essence out there, mixed with the chaos? How could it have been? Even if it was, how did it get there? My core is my link to my body, which is why the essence comes in from there, unless— Wait, how did any of this work before I even HAD a core? There would have been nothing to compress the essence into and nowhere for it to come from. How did I level when—?
+
+Rain hissed in frustration, cutting himself off. Damn it! It’s just more questions!
+
+Abruptly, there was a colossal thud. Had Snek not been wrapped so securely, Rain would have fallen.
+
+[Play?]
+
+Tallheart kept his eyes on the treeline, passively scanning for monsters as he waded through the lava, dragging an enormous metal pipe behind him. He didn’t bother trying to keep it above the surface, as it was too unwieldy to carry. The diameter wasn’t quite wide enough for a person to fit through, but it was close.
+
+Reaching the spot he’d selected, he paused, then hauled the pipe up beside him. Bending to grip it around the middle, he lifted it, lava pouring free from both ends. He then slammed it down into the brittle stone bank of the lake, right beside another pipe that at first glance appeared to be its twin. It wasn’t, however. The first pipe had a filter at its inlet that would block iron but allow everything else through. This one was the opposite.
+
+Not satisfied with the placement, Tallheart frowned. He lifted the pipe again, then slammed it down with ever so slightly more force, shattering the stone further and getting the inlet almost fully submerged this time. He wasn’t worried about damaging the pipe, having enchanted it for more than just Heat resistance. Basic Durability runes were so simple that adding them was no trouble at all. He was more worried about the bank, hence why he’d approached it from this side.
+
+As the filter warmed, a pitter-patter of molten metal told Tallheart that it was working. The flow rate would be nothing compared to that of the stone passing through the other pipe, but that was only to be expected. Hopefully it would improve as time went on and the iron became more concentrated at this end of the lake.
+
+Tallheart nodded to himself, checking for monsters again as he waded back the way he’d come. Once he was far enough away, he clambered out, stone cracking beneath his feet. He shook himself free of the majority of the lava, leaving the rest to cool as he walked back along the shore, before stopping to survey his handiwork. Planting his hands on his hips, he watched as a rivulet of molten metal trickled along the temporary channel he’d dug, flowing beside the much broader stream of waste lava.
+
+Once he was satisfied that everything was going to stay in place, he walked away, hardened stone breaking free from the joints of his armor. He stopped when he reached his anvil, near where Ameliah and Rain were lying senseless on the dirt. Both of them had their eyes closed. They were even blinder to the world than that would suggest, though for different reasons.
+
+Tallheart checked the tree line once more. He’d set up trip lines all around the area to give him even more warning, not trusting his hearing alone, sharp though it was. There was no motion save for the faint rustling of leaves, and the only sounds were those of insects and small animals. It was unlikely that anything would emerge during the day, but it was not possible to be too cautious.
+
+Satisfied for the moment, Tallheart grunted, then bent to retrieve the ten-bar mold he’d prepared earlier. It was enchanted to speed the dissipation of heat, and he suspected that he would have several hundred ingots fully cooled before either of the silly humans decided to join him for dinner.
+
+It is a start.
+
+Dozer sat motionless in the small room Rain-King had constructed for him. He could hear the shape of his box-bed behind him, and the tree, and the wet pond, and the two shelves, one high on the wall and the other low. Mostly, though, his attention was on the ⟬tube-slime⟭ sitting in the center of the room near the pond. Rain-King had told him to leave it alone, and Dozer was being good.
+
+The tube-slime moved, and Dozer quivered, almost leaping for it before he restrained himself. He settled back down as Rain-King spoke to him through the ⟬king-link⟭.
+
+[Okay, Dozer, you see that balance plate up there?]
+
+[?] Dozer replied. He knew Rain-King wanted him to find something, but he didn’t have any idea what.
+
+The tube-slime moved again. [That, Dozer. Look.]
+
+[⟬tube-slime⟭?]
+
+[No, Dozer, look where I’m pointing.]
+
+[Rain-King? Where?]
+
+[Aargh, come on, Dozer! The snake! Look where the snake is pointing! The ⟬tube-slime⟭!]
+
+[⟬tube-slime⟭ point?] Dozer sent, thinking hard. The ⟬tube-slime⟭ might be pointing at something, he decided eventually. Which end was doing the pointing, though, he had no idea.
+
+He quivered, upset at his failure to understand, sending this feeling through the ⟬king-link⟭. [Dozer bad.]
+
+[No, Dozer, don’t…] Rain-King sent, seeming upset as well. [No, you’re not bad.] Rain-King paused, the link narrowing for a moment before it opened fully again. [That was my fault. I wasn’t explaining it right.]
+
+The ⟬tube-slime⟭ began to fly, and Dozer stopped quivering, entirely focused in an instant.
+
+[Play?] he sent.
+
+[No, not play,] Rain-King sent. [We already had play. It’s time to work. There’s filth outside, remember? You warned me about it.]
+
+[⟬FILTH⟭!!!!] Dozer sent, quivering with anger. How had he forgotten!? Wait, had he forgotten? If he had, it was the ⟬tube-slime⟭’s fault! It had distracted him. There was ⟬filth⟭ everywhere! He needed to—
+
+[Dozer, calm down,] Rain-King sent. [I’m trying to show you how to get out there so you can do something about it. Damn it, I’m doing it again. Dozer?]
+
+[?] Dozer replied, mostly at a loss.
+
+[Do you want to help me?] Rain-King asked.
+
+[Yes!!!] Dozer sent. Rain-King wanted his help!
+
+[Great,] Rain-King sent. [See the ⟬tube-slime⟭?]
+
+Confused at the change of subject, Dozer listened hard, then popped a bubble. With the help of the echo, he found the ⟬tube-slime⟭, now sitting atop the shelf high on the wall. [Yes?] he sent, unsure. [Play?].
+
+[Yes, play,] Rain-King sent. [Go get it.]
+
+[Happy!] Dozer leapt immediately. When he landed atop the ⟬tube-slime⟭, however, the shelf moved in a way that he hadn’t been expecting. It slid down the wall slowly, the other shelf rising as it did. At the same time, a crack opened in the wall, and there was a hiss as ⟬filth⟭ began flooding into the wonderful room that Rain-King had made for him.
+
+[⟬FILTH⟭!!!] Dozer screamed into the ⟬king-link⟭, the ⟬tube-slime⟭ that he’d crushed beneath him completely forgotten.
+
+[Yes,] Rain-King sent. [You should be able to fit through that hole. Leave the essence outside, please, like you did before. When you get tired, come back in, then jump on the other plate to close the… Who am I kidding? Just let me know when you need to rest, and I’ll come close it for you, okay?]
+
+[⟬clean⟭!] Dozer sent. He hadn’t been listening to what Rain-King had said at all. It was too confusing. He understood that Rain-King wanted his help and that he would get to ⟬clean⟭ as much as he wanted. That was enough. His instincts and his new emotions agreed that today was the best day ever. Already, he’d started pulling in the vile ⟬filth⟭ through his membrane, moving toward the hole where it was coming in. He needed to get out there. [Happy!] he sent through the ⟬King-Link⟭, feeling Rain-King’s attention on him.
+
+[You good? Yeah, you’re good. Have fun, Dozer. I’ll tell Ameliah-Queen and Tall-Brother you say hi.]
+
+Dozer paused in his cleaning, holding the ⟬clean-need⟭ at bay with a great effort as he considered the other slimes.
+
+He wanted to see them. Not just them, but all of the others. Fluffy-Cloud and Picky-Picky and Big-Loud and Crazy-Fire and…
+
+Dozer couldn’t find a way to describe his desire with a simple word, so he sent it through the ⟬king-link⟭ as it was.
+
+Rain-King seemed surprised. He paused for a long time before responding—so long that Dozer began to think he hadn’t understood. Eventually, though, Rain-King did respond, and his thoughts carried a complicated emotion that Dozer couldn’t identify.
+
+[I’m sorry. They can’t come visit, and you can’t visit them. Maybe if… Sorry. I’m working on it.]
+
+[Okay!] Dozer replied.
+
+Whatever the problem was, his ⟬king⟭ would fix it. There was nothing to worry about.
+
+He returned his attention to the ⟬filth⟭ with enthusiasm. It was time to ⟬clean⟭.
+
+Sweat was pouring down Ameliah’s forehead as she panted, trying to catch her breath. The air of the Ashen Jungle burned in her lungs, the heat being no less oppressive even this early in the morning. She’d sat around too much the day before, and today was shaping up to be exactly the opposite. Seeing an opportunity, she lashed out with a metal-wrapped fist. Rain yelped and managed to fling himself out of the way, and she didn’t chase after him.
+
+Her arms felt like lead. The iron plates encasing them were thicker than her thumbs. The entire suit of armor she wore was like that. Tallheart hadn’t bothered with a Weight enchantment, merely adding more and more material until she could barely move.
+
+Tiredly, she raised her guard to catch Rain’s fist as he swung for her head. There was a loud clang, metal on metal. The hit was heavy, but the sheer mass of Ameliah’s armor let her weather it without moving.
+
+Rain wasn’t holding back.
+
+She was proud of him for that, having wrongly expected that she would need to spend hours convincing him to even throw a punch at her. The issue was that he was cheating like a dockworker at Nine Dice.
+
+After the hit, Rain danced around behind her with Velocity, managing to strike her four more times before she forced him away. Unlike the first blow, the follow-ups carried no force, mere taps by comparison, but that didn’t matter. Each one was a point.
+
+Gritting her teeth, Ameliah activated Mountain Stance, having dropped out of the form without intending to. When Rain next came for her, she caught his wild hook with her left arm, then countered with a brutal cross from the fourth form of Bear Kata. As her fist connected with his jaw, she felt the lobstered iron plates protecting her knuckles bend from the force, one of them tearing free from the uncured monster hide holding them together.
+
+Rain’s head was snapped to the side, and he cried out in surprise. He stumbled away, barely managing to keep himself from falling over.
+
+She wasn’t holding back either.
+
+She would have needed to, of course, had she been specced for melee combat. Fortunately for Rain’s bones, she was still mostly a Fire Mage. Other than her passives and the two Heavy Armor skills she was training, she had nothing to help her in this fight, not even Bear Kata. She was just using its forms from memory, and her motions felt slow and uncertain, not instinctive like they should have been. Had that been the extent of her handicap, she would have still taken him apart easily. Rain wasn’t a melee fighter either, whether you were talking about system skills or the regular, everyday kind. He was only able to compete with her at all because of the ring Tallheart had made him.
+
+His armor, too, was incomparably superior to hers, not only in terms of durability, but also in design. He could move freely, while she felt like she had to bend metal every time she tried to extend her arms. Tallheart hadn’t put much effort into making the iron abomination she was wearing. She was beginning to think he’d deliberately made it wrong as some kind of practical joke.
+
+“Haa!” Ameliah yelled, fighting through her frustration as she struck for Rain. He lurched away only to dash back in and carve four shining lines across her breastplate with his adamant fingertips. His movements were wild and unsteady, but fast. The speed came from Velocity, while the unsteadiness came from his positively atrocious footwork.
+
+“Too slow!” Rain wheezed, even more out of breath than she was.
+
+Ameliah had to admit that it was starting to get to her—not the taunting or the blatant cheating, simply the fact that he was giving her trouble in the first place. She was getting tired, slowing down, while he only seemed to be getting faster, more confident in his movements.
+
+Still in Mountain Stance, Ameliah stepped forward, feeling the strength of the Earth beneath her. The sensation was similar to that of Rooted, but also different, and not nearly as strong, given that it was only rank one. Fighting in heavy armor was different in general, she’d discovered. She wasn’t only fighting Rain, but also her instincts. She needed to trust the ridiculously thick armor to protect her instead of dodging, no matter the rules she’d agreed to. When she moved, it had to be with purpose. Anything else was a waste of stamina.
+
+Rain stumbled over his own feet, and Ameliah immediately lunged forward, slamming into his side with her shoulder to topple him over. Her eyes widened the moment she made contact. The impact had felt wrong, and she found herself stopped dead. A distortion had rippled through the air—Force Ward.
+
+In that frozen moment, Ameliah realized that the stumble hadn’t been real. Shit. He got me.
+
+She wasn’t able to dodge away before Rain’s Velocity-enhanced hammerblow caught her across the back of the shoulders. The metal backplate protecting her spine crumpled from the force, and there was nothing she could do to stop herself from getting a faceful of dirt through her visor as she was brutally slammed into the ground.
+
+“Yes!” Rain gasped from above, elated. “Did you see that, Tallheart? I finally got her for real!”
+
+He’s right... I actually lost health from that.
+
+“Mmm,” Tallheart rumbled from outside the ring. “Good. However, you have taken your eyes off of your opponent.”
+
+“What—?” Rain began, but his question was cut off in a strangled squawk as Ameliah yanked his legs out from under him. She clambered up his body until she was sitting on his torso, then began pummeling him about the head and neck, relying on the ridiculous weight of her armor to do most of the work. He tried to wriggle free, but she didn’t let him. She’d warned him not to let himself get distracted, let alone pinned. The telltale distortion of Force Ward began appearing with each strike, but she didn’t relent. He’d run out of mana soon enough.
+
+I win.
+
+No sooner had she thought that than there was a tremendous impact on the side of her head. Ameliah found herself blasted away from Rain, rolling several times before she tumbled to a stop. Her helmet had been deformed by the force of whatever had hit her, and the warped metal was pressing uncomfortably against her skull. More shocked than hurt, she pushed herself up quickly, searching for the threat. What the hells was that? If there’s a monster—oh. She relaxed. It’s just foul play.
+
+“Foul!” Rain cried, and Ameliah smiled to hear him echoing her thoughts. “Tallheart, you—“ he wheezed, struggling for breath. “Wait, was that an iron ingot?! You can’t just throw—!” He paused to hack, choking on air. “That’s dangerous!”
+
+“Hmph,” Tallheart snorted. “Hardly. She lost focus on her surroundings. As have you.”
+
+This time, to Rain’s credit, he managed to block Ameliah’s fist, though Tallheart’s warning and the grinding of her armor probably had a lot to do with it. Rain tried to get out of her range again, but Ameliah was ready for him. She kicked him in the side of the knee, hard, sending him down in a heap. Rather than follow the strike with another pummeling, she rose out of her stance, struggling to hide just how winded she was. She fought to suck in air through the mangled visor. It was bad enough that she could barely see out through the eye slit. The dented backplate was constricting her breathing, preventing her from adequately filling her lungs.
+
+“Is that…all you’ve got?” Rain asked, rolling over to lie flat on his back, panting up at the sky. “I can do this…” he wheezed, “…all day.”
+
+Ameliah grunted, fighting with her helmet. Once she managed to get it free, she tossed it to Tallheart, who didn’t attempt to catch it. The broken thing fell to the ground at his feet with a clatter as she rubbed at her sweat-soaked hair with her forearm. Still breathing heavily, she deactivated Mountain Stance, leaving only Spring active as she looked between Rain and Tallheart. “You two are annoying, you know that?”
+
+Rain laughed, sitting up with an effort. He grimaced, rolling his shoulder.
+
+Ameliah tensed. “Your shoulder, did I—”
+
+“No, no, no,” Rain said, quickly raising his hands. “I’m fine. You didn’t hurt me. My armor, yes, but not me. My pauldron is just bent, look.”
+
+Ameliah relaxed, closing her eyes. She took a deep breath, then opened them. “You did ask for it.”
+
+“Yeah, yeah,” Rain said.
+
+“Mmm,” Tallheart said. “Telling her not to hold back was the first of your many mistakes.”
+
+Ameliah smiled, then shook her head. “Let’s see how I did, shall we?”
+
+“I don’t follow,” Rain said, removing his own helmet, then gasping in relief. His hair, too, was plastered to his forehead. “Wait, you mean the score? You lost track?” He looked at her, still breathing heavily. “Actually, so did I.”
+
+“Never mind the score,” Ameliah said, well-aware that she’d lost. Rain was utterly transparent. He was trying to spare her feelings, but her feelings didn’t need sparing.
+
+It hadn’t been a fair fight.
+
+She had nothing to prove.
+
+And yet…
+
+She shook her head, refusing to let her poor performance spoil her mood. This was going to make up for it. It was finally time to reveal the secret she’d been hiding all morning. “I figured out your trick.”
+
+“What?” Rain asked, blinking at her owlishly. “What trick?”
+
+Concentrating, Ameliah took a deep breath and held it. She focused on the feeling of pressure that Rain had described, then pushed, willing herself into tomorrow. A chime sounded in her mind, and she felt the experience she’d just earned settle into her, bringing Heavy Armor from rank one to rank five in one shot and Mountain Stance from rank one to rank four. Spring also gained a bit of progress toward rank four, but not quite enough to get it there. She managed to keep her satisfaction hidden as she noisily raised an arm, her warped armor making the motion difficult. The Heavy Armor skill shared its name with its tree, and it was quite literal in what it did. The armor didn’t feel any heavier, but that wasn’t how it worked. It was heavier, yes, but just not to her.
+
+“Nice,” she said, making a fist.
+
+She looked at Rain, then smiled. “Okay, now I need to start holding back.”
+
+Rain’s eyes widened, and he struggled to push himself back up into a sitting position. “Did you just…”
+
+Ameliah nodded, allowing herself a grin. “I figured it out before we had breakfast. It’s less about the alarm for me—I’ve been able to disable that for years. It’s more about…time in general. Also, the squeezing thing you described helps. It’s a good image. I think you might be on to something there.” She shrugged. “Not very compatible with how I see my soul, but whatever. Anyway, Heavy Armor is up to rank five and Mountain Stance up to rank four. I can take the various Plate passives now. I’m thinking Thickened Plate and Conductive Plate to start.”
+
+“Yes!” Rain shouted, pumping both fists up into the air. “Ameliah, that’s awesome! You’re awesome!” He pointed straight at her, looking at Tallheart. “Tallheart, tell her how awesome she is!”
+
+“Mmm,” Tallheart said. “Quite awesome.”
+
+“Stop that,” Ameliah said, fighting off the threat of a blush. “I told you, I’ve been messing with my system for years. You figured out how to do it in like a month.”
+
+“So?” Rain said, beaming at her as he struggled to his feet. “I’m a Dynamo. I cheat.”
+
+Ameliah snorted. “I’ve noticed.” She crossed her arms, the motion difficult thanks to the damaged armor. “Who was it that said ‘no magic’ again?”
+
+“Uh…” Rain said.
+
+“Mmhmm,” she said. “Tallheart, can you make me a bow and some arrows, please? Just steel or something is fine.” She uncrossed her arms to tap her chin. “That should hold up. Probably.”
+
+“For a time,” Tallheart said, bending to retrieve the helmet at last. “I will add Durability runes. Will you require any other enchantment?”
+
+“Nothing like that,” Ameliah said, waving her hand. “It only needs to survive me using Shock Arrow a few hundred times.” She smiled wickedly. “Rain needs to rank up Arcane Ward, remember?”
+
+“Oh shit,” Rain said, looking for somewhere to run.
+
+Tallheart chuckled. “I will see what I can do.”
+
+Tallheart raised his head at the sound of a footstep, seeing Rain shuffling tiredly toward him. He was holding his helmet under his arm and looked mostly alive. His armor was quite badly scorched and bore several dozen new dents. It would need to be resized soon anyway, however, so that was of little concern.
+
+“Hey, Tallheart,” Rain said cheerfully, but with a deep note of exhaustion dragging at his words. He edged around the untidy pile of iron ingots, moving to stand next to him. “We’re done for the day.”
+
+“Mmm,” Tallheart said, then returned his attention to the compression anchor. Outwardly, it looked like an enormous block of pure iron, a perfect cube fifty centimeters on a side, sitting atop a tree stump. Inwardly, it was much more complicated than that. Runes were layered all through the cube, invisible to anyone without the skills to see them. Etching such complexity with a Telscribe would have taken weeks and required much more space, perhaps an entire room dedicated to the array.
+
+He had done it in an afternoon. Such was the advantage of working with pure metal.
+
+Atop the anchor sat an iron ingot, about the size of a hand. Like those in the nearby pile, it was roughly cast and imperfect, but no less pure for that. It nevertheless looked out of place atop the anchor’s polished surface. Tallheart was presently touching the ingot with one finger, holding its structure in his mind as he compared it to its runic representation within the anchor. There was discord. Something out of alignment. He focused harder, frowning as he searched.
+
+“What are you working on?” Rain asked, setting his helmet down and bending to inspect the anchor, wincing as he did. “Is this a new anvil or something?”
+
+Tallheart’s eye twitched imperceptibly at the distraction. “No.” A moment later, his frown faded. I see it.
+
+Reaching deep, he isolated a single rune, then a single stroke within that rune. With precision born of long practice, he made a minute adjustment and hummed to himself in satisfaction. The discordance had faded. He took his finger away from the ingot, then blinked, and the runes hidden within the anchor vanished to his eyes. With a soft sigh of released tension, he knelt to retrieve his gauntlets.
+
+I am over the pass.
+
+“Okay…” Rain said. “Still the compression project, then? Is this like a mega-ingot or something? It’s going to shrink?”
+
+“No,” Tallheart said. Now wearing his gauntlets again, he grasped the model ingot, then slid it across the anchor’s perfectly flat surface. It snapped into place at the center with an inaudible thump, held solidly by an invisible force. The fixing array was working, and the model had been accepted.
+
+“What is it, then?”
+
+“Watch,” Tallheart said. He reached for the pile of ingots, then selected one. Outwardly, it was identical to the model. Inwardly, it would be different in an uncountable number of ways. The crystal structure of the ingots was a mess—an obvious result of the accelerated cooling process. It was of no concern. Fixing it was one of the functions of the anchor. In the past, he would have needed to make the ingots truly identical before he could overlay them, but he’d learned that there were better ways. Alchemy was a broad discipline, often with several paths to the same goal. This was his.
+
+“What am I watching?” Rain asked.
+
+“This,” Tallheart said, placing the second ingot in the same space as the first. There was no flash of light, no fancy effect, only the faintest resistance to the movement before the ingot snapped into place. That came from the delay as the anchor forced the new ingot’s structure into alignment with that of the model. Beyond the physical resistance, Tallheart had also felt a slight draw on his stamina as Phase Metal activated. The anchor would have been nothing more than a useless lump of iron had he not possessed the relevant Alchemy skills.
+
+Creating a freestanding phasing effect was not an option here, as it was for a filter. The mechanism was entirely different. A permeability rune was complicated, but required little enough power that a small mana reservoir was sufficient. The anchor’s phasing enchantment worked differently. It was more like a focus. It and the anchor’s other enchantments were keyed to his skills, built to leverage his power. He would need to remain nearby until the process was complete.
+
+Tallheart took his hand away. Both ingots remained, though there appeared to be only one.
+
+“Whoa,” Rain said.
+
+“Make yourself useful,” Tallheart said, reaching for the pile and grabbing another ingot. He added it to the stack, then another, his hands moving quickly. A dark powder quickly became noticeable as it built up, dusting the surface of the anchor—excess material that had been forced away.
+
+Rain just stared. “Tallheart…what…?”
+
+“Approximately one thousand ingots must be overlaid before I can activate Metallic Condensation. That is the threshold of stability for iron.” He gave Rain a significant look. “It is a tedious process. If we do not finish promptly, there will be an explosion.” He paused for half a heartbeat. “A large explosion.”
+
+“Yes, helping, got it,” Rain said, grabbing a pair of ingots. “I just put them…?”
+
+Tallheart nodded, pausing to watch Rain add the two ingots to the stack, one after the other.
+
+“Wow, it’s like…ghost metal. That’s freaky. Hang on, did you say a thousand? It wouldn’t happen to be one-thousand and twenty-four, would it? That’s…a lot. Adamant’s dense, but not THAT dense, right? What happens to the rest of the mass? How does—”
+
+Tallheart grunted, interrupting Rain before he came close to breaking his question record. “Remember to breathe. And do not stop.” He puffed a blast of air through his lips, imitating a detonation.
+
+“Sorry,” Rain said, hastily reaching for more ingots.
+
+Tallheart snorted. He was overstating the urgency, but Rain did not need to know that.
+
+“What are you two up to over here?” Ameliah asked, walking up behind Rain. She looked less battered than he did, even though her armor was mere iron. Her skills had come a long way since the last time Tallheart had repaired it. She peered over Rain’s shoulder, then froze. “Whoa.”
+
+“Right?” Rain said, he and Tallheart having found a rhythm, their hands moving in sync. “Tallheart was just about to explain how it works.”
+
+Tallheart quickly hid a smile. “I was not.”
+
+Rain’s look of consternation was everything he had expected it to be.
+
+Ameliah laughed, and Tallheart rumbled, amused.

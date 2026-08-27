@@ -1,0 +1,159 @@
+---
+id: 8408c3c3-d6bc-5569-9377-deb8e77b8f04
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,446 - Apocalyptic Death"
+slug: 0127-chapter-1446-apocalyptic-death
+partOf: defiance-of-the-fall
+position: 127
+ownLength: 3134
+unit: words
+publishedAt: 2026-08-13
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3809717/chapter-1446-apocalyptic-death"
+royalRoadId: "3809717"
+---
+
+Zac had long since grown used to those around him treating him like an evil omen, and Tavza’s comment barely registered. Instead, he went over her plan to see if there were any conflicts or hidden pitfalls.
+
+“How long do you need to complete the necessary repairs?” Zac asked.
+
+“With old ruins like these, one needs to leave a generous margin for error. Technically, I could activate the curtain right now, but there’s a chance it will just explode instead of activating. If it does, our mission will become extraordinarily difficult,” Tavza said. “At the same time, the observatory is beyond salvation, and there’s only so much I can do. Depending on how things progress, we should be aiming for one week from now.”
+
+“One week. That’s just about right,” Zac nodded, comparing it with the timeline on his other side.
+
+Esmeralda’s progress had drastically slowed down, but she was still blitzing through the C-grade at a remarkable pace. After inquiring, she expected to reach Middle C-grade in five days. That left Zac two days to recover his energy after incorporating a second Shattered Sky Nucleus. Of course, that meant delaying his work on banishing timelines tethered to [Second Singularity]. At that point, he should only be a few days away from completely cleansing the inner space.
+
+“Who’ll perform which task?” Zac asked.
+
+“Would you agree if I asked to be the one to seal the Lord’s eye?” Tavza said in a bland tone, as if they were discussing the weather and not an A-grade treasure.
+
+“Thank you,” Zac said with a smile, some tension leaving his shoulders.
+
+The one to seal the eye would also be the one to take it away unless they came to blows. In other words, Tavza was relinquishing her claim on the Primo’s treasure without further negotiation or demands. Still, there was the risk of a double-cross at the critical moment, so he wouldn’t fully lower his guard.
+
+“So long as you remember our agreement,” Tavza said. “Anything I should know about on the outside?”
+
+“Some things happened. The Left Imperial Palace has appeared,” Zac said, recounting the situation in broad strokes.
+
+He skipped the part about his and Emir’s involvement, though he mentioned their encounter and Emir’s ultimate death. Just to make sure, Zac tried contacting Ogras to see if there were any updates from the other side. Unsurprisingly, the Rapture Observatory was cut off from the Hollow Court, at least while the bridges weren’t active.
+
+“So the Pesvati Rift truly is a holdout of the Limitless Empire. The knowledge they must hold. All that erased history,” Tavza said with some longing in her eyes. In comparison, she showed little interest in the Left Imperial Palace’s appearance.
+
+“Are you planning on going?” Zac couldn’t help but ask.
+
+“If it’s fated. It’s still unclear whether normal Sealbearers will be permitted entry. Not to mention, completing the mission at hand is more important,” Tavza said.
+
+“But the opportunities it holds,” Zac couldn’t help but interject. “We’ve made centuries’ worth of progress in a few years in the outer courts.”
+
+“The collective is more important than the individual. Besides, Ultom Courts and the Left Imperial Palace are not the only road to the peak. There is still untapped potential inside Interment Gate, and the resources I can access back home are not necessarily inferior to what’s hidden here. They’re more suitable for my path, and they come without complex Karmic entanglements.”
+
+“Fair enough,” Zac said. “You could always stay here. This energy is quite interesting, and there should be plenty to go around even after we extract the eye.”
+
+Tavza nodded in agreement. “I believe I finally understand why our ancestors decided to follow Lord Primo back then. Who would have thought he possessed the ability to advance our bloodlines?”
+
+“You don’t have any records of him lending a hand in modern times?” Zac curiously asked.
+
+“If he still does, it’s a secret that the younger generations are not privy to.”
+
+“It could help explain your ancestors’ reluctance to get embroiled in the civil war,” Zac said.
+
+“Perhaps. Lord Primo might be limited in how many he can assist without his right eye. And returning it could very well be what brings a revolution to the Abyssal Shores.”
+
+“Revolution? No matter how good it is, can it compare to the Abyssal Lake itself?” Zac asked, confused.
+
+“You don’t understand. The grades of our bloodline were not picked at random. Shallows mean we can only access the lake’s shallows. And the benefits we can draw at certain depths greatly diminish over time. You were supposed to experience the first submersion in the Abyssal Pond before things went out of control.
+
+“Your following dive would only yield a third of the benefits at that depth, and it gets progressively worse. There are also dangers involved. The longer we stay inside the lake, the harder it becomes to turn back. It’s like the lake takes up a little bit more of our existence each time we enter. There have been countless cases of our kin simply walking into the lake to never return. This is why most Draugr are only allowed to stay at the shores for short durations. Any more provides little benefit at excessive risks,” Tavza said.
+
+“But if you break through, you can delve deeper, which reignites your progress?”
+
+“Precisely. The energies permeating the lake change at intervals corresponding to our bloodline awakening levels. Pushing beyond your current state is almost suicide, but advancing naturally grants access to a new spectrum of Abyssal Death. Unfortunately, the demands to progress our bloodlines grow increasingly stringent with each step, making it almost impossible to break through with what the lake provides,” Tavza sighed.
+
+“It sounds like a trap, like the lake is urging you to dive deeper than what’s safe,” Zac commented.
+
+Was this why Eoz and the other progenitors wanted to reduce his race’s dependence on the lake? The Abyssal Lake was like a casino. The house always won in the end.
+
+“Perhaps it is. We both know the lake didn’t want our ancestors to separate and swim to the surface,” Tavza sighed. “And it’s working. Too many find themselves stuck in bottlenecks and decide to dive deeper than what’s safe. A few successfully emerge stronger, while the vast majority never return. But if we had a secondary energy source to advance our bloodlines, things would change.”
+
+Zac could see what she was getting at. If the Abyssal Shores could make steady progress with their bloodline outside, they would both limit the risks while drastically improving the average bloodline awakening levels among their elites.
+
+There was no need to stubbornly grind away in the depths for increasing dangers and diminishing returns. They could break through a few layers with the Primo’s help, granting them access to deeper layers of the lake for another round of low-risk, high-return tempering.
+
+Hearing the explanation made Zac wish there was a way for him to swap bodies. It didn’t matter whether his human or Draugr side guarded Esmeralda, but his Draugr side would be like a fish in water here. Having his undead side break down realmgates was a waste of time when there was an opportunity to advance his Eoz bloodline.
+
+Zac could still transfer the energies to his other body through the Quantum Space, but it would have been far more effective to directly draw the Primo’s Death into his cells. Not to mention, his Draugr body would likely be the superior choice for this mission. Zac’s human side might not be vulnerable to Ninth Hell’s overbearing death, but he would be lucky if he could bring out 80% of the strength of his Life-attuned skills right now. The suppression would undoubtedly be even stronger next to the Primo’s eye.
+
+“Let’s hope it doesn’t take a million years for the Primo to incorporate his eye and cough out the benefits,” Zac muttered. “If it did, wouldn’t we toil for nothing?”
+
+“Widening the future of coming generations is a reward by itself. And don’t think the Abyssal Lake is worthless for you. You’ve still only scratched the surface of the marvels it can provide. For instance, there are parts of the depths exclusive to our different branches,” Tavza said. “Who knows what kind of marvels have appeared in the Vanguard’s seabed, which has remained untouched for billions of years.”
+
+Zac knew Tavza was throwing out bait to keep his interest in the Abyssal Shores high. And yet, it worked. Zac had already glimpsed the mysterious palaces and structures nestled in the Abyssal depths through his bloodline visions. From there, it wasn’t hard to imagine a pristine private seabed where Natural Treasures tailor-made for his bloodline had been growing untouched for half an Era.
+
+“That’s all for later. If there are no further questions, we ought to set out,” Tavza said.
+
+Zac spent a few minutes copying the engravings on the floating array flags. While roughly the same as what he saw on the other side, there were some distinct differences that could provide valuable insights when his understanding deepened. Unfortunately, there was no laboratory or console where he could just record the intended trajectories again.
+
+Upon leaving the cave, Zac wasn’t surprised to find that there was no bubble of Imperial Faith protecting the atmosphere. If there once was, it would have been whittled down over the countless years the Rapture Observatory had been drifting through space. However, neither were they exposed to the rough and decaying death of the Ninth Hell. Zac could still enjoy the true artificial Death while exposed to open air.
+
+It turned out the observatory was the spitting image of Saturn, if the whole planet was doused in crude oil. The ring had a diameter of about a thousand miles, and the “planet” it enclosed was around half that in size. Naturally, the ring wasn’t made of debris, but rather a black, slightly rubbery material that made Zac think of hardened lava.
+
+They were currently standing at the ring’s edge. Behind them was a pyramid the same size as the inscribed mountain. The script covering the pyramid differed from the Faith-attuned runes. They were a deeper black on black, Death imprinted upon Death. Whether intended or a mutation due to the abandonment was impossible to say.
+
+There were three more pyramids at the edge of the ring, one for each cardinal direction. There was also a band of smaller buildings erected at the ring’s inner edge. Most were likely array structures like those he’d seen on the Centurion Lighthouse, making them the target for Tavza’s repairs. After all, Zac doubted anyone was meant to reside in the observatory permanently.
+
+The “planet” in the middle was a pitch-black sphere oozing death. Just looking at it left Zac queasy. While the engravings on the pyramids still had some connection to the empire, those adorning the metal sphere were purely in the Primo’s domain. The squiggly runes felt like a million eyes staring back at him.
+
+“Is it possible to safely cross the gap between the ring and the actual observatory?” Zac asked, recalling his experience in the Centurion Lighthouse. Back then, the twisted space surrounding the lighthouse held a spatial storm that almost did him in. It was only by following the call of Emily’s rescue beacon that he found his way through.
+
+“It’s safe, apart from the Rapture Beasts pouring out when you approach. I’ve entered once for reconnaissance. The sphere is hollow, just like the pyramids. Look.” Tavza pointed to the east side.
+
+The sphere was slowly spinning, and a large gash shaped like a predator’s pupil came into view. The gap wasn’t wear or damage, rather a huge canopy that intentionally exposed its interior to the outside world. Or perhaps it was the other way around, because a dense mist of Supreme Death churning within blocked any hints of what was going on inside. Altogether, the sphere looked like a gargantuan eye, emulating the item interred in its depths.
+
+“That’s the thing we have to close,” Zac surmised.
+
+“Exactly,” Tavza said. “Oh, get ready.”
+
+Zac didn’t need to ask what she was talking about. The ground had begun squirming just ahead of them, balls roughly Zac’s height. Pitch-black tar dripped from their surface until they shuddered and unfurled into a ghastly mix of feathers and eyes. They looked like fallen versions of something pulled out of biblical scripture.
+
+There were eyes upon eyes nestled in chaotic tufts of pitch-black feathers. From what Zac had gathered, this was close to one of the Primo’s avatars. Although, instead of his profound, absolute Death or the malice of Qriz’Ul, the Rapture Beasts conveyed only vacant violence and animosity toward anything alive.
+
+Crackling streaks of artificial Death poured out of their eyes, turning into beams that shot straight for them. Almost ninety percent of the attacks targeted Zac, and he didn’t think for a second it was random. He could imagine he stood out like a beacon in this gloomy world, his Life-attuned constitution a complete opposite to the realm’s natural order. Meanwhile, Tavza was the embodiment of the Abyssal Lake. While her Dao was different from the natives, it was still within the same kingdom.
+
+Seeing that Tavza showed no inclination to deal with the attackers, Zac took it upon himself to sound out the threat. Vines shot out, targeting the first row of attackers. Zac naturally wouldn’t use the void vortices for this fight. There was no point in exposing his new ability to Tavza unless their lives were on the line, and the approaching creatures didn’t fill Zac with that level of dread.
+
+Flashes of light joined the vines as Zac activated [Evolutionary Edge]. They struck the frontmost Rapture Beasts in a shower of violence, and the following scene made Zac pause in surprise. The simple skill was surprisingly effective at dismantling the Middle D-grade creatures. What was meant to sound out their defenses caused significant damage.
+
+Despite being weakened by the atmosphere, the blades dug deep into their goopy flesh, destroying eyes and severing wings. Feathers fell like rain, turning into oily sludge that joined whatever the ground was made of. However, his assault wasn’t enough to bring down the angels. They were drawing new matter from the ground as quickly as Zac cut it off.
+
+“You need to destroy their cores to banish them,” Tavza reminded from the side.
+
+Zac had already gathered as much. He disappeared in a flash, tearing through space with [Skystriker]. He became the blade itself, carving a path that cut straight through the closest Rapture Beast. He’d already sensed a cluster of intense death hidden in its depths, similar to the life runes of Qriz’Ul. As it collapsed, the whole beast crumbled.
+
+It looked like the feathers underwent a thousand years of decay in the blink of an eye, and the first victim was soon joined by others. Haro hadn’t been sitting still. He only needed a slight nudge to intuitively target their energy cores, and he gleefully ripped apart beasts to display his dominance over death.
+
+Blasts of evil stares pelted Zac the moment he came to a stop, filling his body with the chill of death. However, the ocular attacks failed to accomplish anything of significance. Part of it was due to Zac’s unfair advantage. Using attacks imbued with Life was extremely effective at culling the Rapture Beasts, but the opposite didn’t apply to Zac.
+
+His resistance to Miasma and Death-attuned attacks was extraordinary, far greater than most native undead. It looked like his earlier assessment was overly negative. His human body might prove more effective in dealing with this threat after all, especially if there were a large number of Rapture Beasts lurking within the sphere.
+
+Secondly, Zac could see that there was a soul-killing component to their attack, as was quite common with eye-based skills. However, now that Zac’s soul wasn’t located where it was supposed to be, the attacks failed to accomplish anything. At most, they managed to make his spiritual body a bit sluggish, but he had plenty of counters to that.
+
+Zac moved like the wind through the beasts, cutting them down one after another with mechanical precision. He didn’t bother activating [Conformation of Supremacy] or any of his stronger skills. There was no need to. Altogether, it took him less than ten seconds to deal with the twenty-odd Rapture Beasts.
+
+When he was finished, he could feel there was a noticeable difference in the environment. The ambient energy was roughly at the same level as before, but the depth of the Dao had grown shallower. It was like the difference between pondering the Dao on a Primal Heaven like the Left Imperial Expanse and doing the same on the frontier, and his other body no longer clamored for the energy.
+
+“Is that it? I would have figured you could deal with something like that without missing a beat,” Zac asked, turning to Tavza with suspicion. “Don’t tell me you’ve been slacking off to cultivate?”
+
+Tavza scoffed. “Of course not, and don’t get ahead of yourself. This is as weak as it gets. The ambient energy is at its lowest after the bridges have siphoned off the excess. It gets worse the closer we get to the eye and the longer it’s been since the last eruption. Oh, the beasts also grow significantly stronger wherever the canopy faces, to the point that they gain new abilities. It’s a shame; it also makes for an excellent cultivation ground.”
+
+“Look at you, cracking jokes,” Zac commented. “Ogras would be proud.”
+
+“Don’t remind me of that scoundrel,” Tavza said. “We should set out. Apart from the broken section, there are a few more spots we need to hit now that you’re here.”
+
+“Spots?”
+
+“Getting nothing is fine, but there is no reason to deprive ourselves if there are treasures waiting for us, is there?” Tavza said. “Like you, I don’t wish to wait a million years before accessing this energy again if I can help it.”
+
+“You’re saying…” Zac said with gleaming eyes as he glanced at the cluster of abandoned buildings in the distance. “Treasures?”
+
+“Long exposure to the eye has birthed a few unique items. I didn’t dare target them while I was alone; if I got hurt, it could ruin the mission. With you here, I feel we can make a play for at least a few of the items lying around,” Tavza said. “If you think it’s wasteful, we can collect them after we’ve secured the treasure. I’m just afraid that sealing the Lord’s eye might harm their spiritual nature.”
+
+“Don’t be silly, let’s go with what you said,” Zac quickly replied. “Just point me in the right direction, and I’ll do the rest.”

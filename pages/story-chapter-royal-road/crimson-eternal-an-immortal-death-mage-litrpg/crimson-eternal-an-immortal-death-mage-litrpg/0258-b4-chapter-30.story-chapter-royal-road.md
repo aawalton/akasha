@@ -1,0 +1,151 @@
+---
+id: 00bfb800-eafe-5a07-ab19-6e5d96116c14
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 30"
+slug: 0258-b4-chapter-30
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 258
+ownLength: 1459
+unit: words
+ownProgress: 1459
+publishedAt: 2025-02-24
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2087047/b4-chapter-30"
+royalRoadId: "2087047"
+markedReadAt: "2026-06-29T19:14:31.047Z"
+---
+
+Aria
+
+I let out a sigh as I look out from the window of our ship while we pass through the various platforms. Each of which are filled with armed forces of various different types and cultures.
+
+Some of the armed forces have guns and armor similar to what Val had when I was there, others have high tech weaponry and armor like the guards of the Second Star. And some of them even have more fantasy-like armor and weapons, like swords, spears, and metal plate armor.
+
+But they all share similarities in how they look like a bunch of armies, some of which are in encampments looking like they’re preparing for battle and others are even in battle fighting another force.
+
+That’s not all though, because there seems to be mercenaries and smaller groups amongst them as well. Single people moving around and fighting random enemies from different armies, or groups of people working with one army and then going to another.
+
+So overall, it’s total chaos outside.
+
+And I’d rather not be dragged into it.
+
+But it is quite a sight to behold at the very least.
+
+“You disapprove?” Lyra asks while looking at my face with her chin resting in the palms of her hands and her elbows on her knees.
+
+I shake my head and answer with a slight shrug, “I don’t really care one way or another so long as it doesn’t affect me. It’s your nation after all.”
+
+She smiles at that and sits up straight again.
+
+“You really are interesting,” Lyra says in a way that finally reminds me of her age.
+
+Or it would if she didn’t still look like a teenage girl at the oldest.
+
+Anyways, our trip continues rather quietly after that with none of us saying anything, and Leone even taking a nap. Surprisingly on my shoulder for some reason.
+
+Not sure when we got close enough for her to feel comfortable doing this…
+
+Or maybe it’s because she knows I don’t have any intentions of harming her?
+
+Could just be that she knows I can’t hurt her.
+
+Her only strengths are the physical strength and durability of her body, so…
+
+There’s no way I could harm her even if I tried or wanted to.
+
+I frown for a second.
+
+Actually, I could probably stick a nuke in her mouth. So maybe I could harm her.
+
+Maybe.
+
+Then again, I agreed not to use powerful explosives on the station.
+
+Although, for some reason the sight of her sleeping on my shoulder reminds me of Asher. Probably because she is a lyon.
+
+I glance at the breast pocket of my jacket to find that very same cat snoozing away as well while inside of it.
+
+Which I can’t help but notice Lyra glancing at every once in a while, no doubt wanting to pet the cat. Not that Asher seems like he’ll ever let her at this rate.
+
+Regardless, our trip lasts for a couple hours before we arrive at our destination. A massive tower stretching high into the station for as far as the eye can see. All the way to the roof and the floor of the station.
+
+The tower itself looks reminiscent of a high-rise while also being obviously some sort of military outpost of a sort.
+
+And from what I’ve researched, the tower holds all of the controls and the like for the entire Star Link Station. Whether that’s the lighting, temperature, the trains connecting the station to other stations, or anything else going on within it.
+
+Everything can be controlled from the tower.
+
+And each of the Stars is in control of the tower of their Star Link Station.
+
+Our vehicle quietly pulls into the tower under the gazes of the fighting people on platforms nearby. Only to slowly fly to a stop inside of the tower’s own personal hangar.
+
+Then we are let out of the vehicle, and I stretch a little while looking around.
+
+The hangar is enormous despite the utter lack of people in it. Instead just filled to the brim with different vehicles for as far as the eye can see.
+
+Small spaceships, large ones. Flying scooters, cars, limousines, tanks, and other weaponry.
+
+Anything that can be vaguely considered a vehicle.
+
+“I own everything in this hangar if it wasn’t already obvious,” Lyra says while casually walking backwards towards a large elevator at the center of the hangar with her hands behind her back and a smile on her face. “But I’m sure there is something you care about a lot more than seeing what is in my tower.”
+
+I nod my head at that, following which she turns around and begins walking even faster to the elevator as she says, “This elevator leads to every single floor in the tower so long as you are registered with the AI. Which Aria is.” She glances over her shoulder at Leone, who is trailing along behind us after I got up without bothering to wake her up. Leading to her falling down and waking up via hitting the seat. “You are only registered for some of the floors.”
+
+Then Lyra turns her head again and continues walking.
+
+An odd silence fills the hangar despite its massive size before we reach the elevator. After which Lyra tells the AI to bring us to the Star Deck, and the elevator takes off at incredible speeds.
+
+But despite the speed at which I see everything flying past us through the elevator’s windows, I don’t feel any pushback myself.
+
+A very well built elevator.
+
+The elevator goes up. And up. And keeps going up.
+
+All the way until we finally stop at a rather odd place outside of the station with a large forcefield around it. Where the elevator opens up, startling me due to the fact that we’re in space and making me glance at Leone.
+
+Just to find her breathing fine.
+
+Guess the forcefield has air in it?
+
+“Leone, you stay here,” Lyra says while floating out of the elevator, “Bob will show you the way to your room.”
+
+Leone looks confused at that for a moment before the AI answers, “I’m at your service, Lady Leone.”
+
+“And Aria, come join me for a little flight,” Lyra continues, sounding rather giddy as she does so. “We’re going over to a Hunter’s Spot.”
+
+That statement immediately has me leaving the elevator, following which said elevator closes up again and goes back into the station. Then I follow Lyra straight out of the forcefield into space.
+
+Surprisingly enough, I feel myself able to move around out in space like I’m swimming in water. Despite the complete lack of gravity.
+
+Is this because I’m a crimson?
+
+I honestly forgot about that fact. That while I am a Horseman of the Apocalypse, I’m technically still a crimson.
+
+And the crimson subspecies of humans are born to live in space.
+
+They don’t have to breathe, and they can move around freely in space as if they were swimming through water.
+
+Not sure how that works though.
+
+No one ever gets to look at a crimson because of how secretive they are, and if someone tried to look at me they wouldn’t find much. Not when my wounds would just close right away, concealing everything within the crimson light.
+
+And especially not when they wouldn’t know if differences in my body are from being a crimson or being a Horseman.
+
+Something that does make me a little curious though is the sight of Lyra casually flying through space herself while coated in radiation. The girl seemingly not having any trouble with breathing or anything like that.
+
+Actually, Lyra doesn’t seem to be breathing at all. Just like me.
+
+I wonder if she’s a subspecies of human too?
+
+That thought rolls around in my head for a few seconds before I eventually just shrug. Deciding it isn’t important.
+
+What is important is the fact that we’re getting closer and closer to one of the wormholes.
+
+To a Hunter’s Spot.
+
+And when we finally arrive at it and go inside?
+
+I find myself in the most bizarre and confusing location I have ever been in throughout my entire life.
+
+A strange dimension where what is up and what is down changes depending on where you’re standing. With large, draconic yet wormlike creatures flying through the spaces between numerous floating platforms.
+
+Lyra flies a bit ahead of me to land on a platform where up is down for where I’m floating and stares at me while standing upside down in my eyes. Then she spreads both of her arms out in a welcoming gesture and declares, “Welcome, Horseman of the Apocalypse, to one of my lovely Fractures! Please do enjoy your stay!”

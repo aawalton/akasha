@@ -1,0 +1,147 @@
+---
+id: 554e7d92-7175-5b5a-8920-54debc47cc28
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,395 - Rivers and Moons"
+slug: 0073-chapter-1395-rivers-and-moons
+partOf: defiance-of-the-fall
+position: 73
+ownLength: 3151
+unit: words
+publishedAt: 2026-01-11
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2933316/chapter-1395-rivers-and-moons"
+royalRoadId: "2933316"
+---
+
+The shifting cave grew quiet as the trio resumed their recovery. This time, the silence stretched for hours, barring a few disruptions when it looked like the spatial pocket would collapse. Zac did everything he could to get back to fighting condition, even encasing himself in Miasma Crystals during a short nap to boost his natural recovery.
+
+Determination, deep pockets, and wanton disregard for pill toxins yielded results. Within ten hours, the aftermath of overdosing on corruption was mostly resolved, and a large swirl of purified enlightenment was ready for use inside [Purity of the Void]. He’d recovered 80% of his energy reserves, with his Vigor and Void Vigor only lagging slightly behind.
+
+Such a speedy recovery was unheard of among powerful Hegemons, who sometimes needed years to recuperate after a desperate battle. It was a testament to the stacking effect of his Sindris heritage and two constitutions geared toward resilience and recovery. Still, this miracle was a one-time gambit that couldn’t be repeated during the hunt.
+
+Zac glanced at his arm, feeling the slight throbbing from his exhausted pathways. It was nothing compared to the dull ache coming from his core, and the energy flowing within lacked its usual vibrancy. Nothing could replace true rest, and his body would be too drained to properly absorb even the gentlest of tinctures for the next week or two.
+
+At least his efforts thus far weren’t for nothing. Zac infused a sliver of energy into his Mercurial Court Disciple token, prompting two numbers to appear.
+
+[Potentiality: 8,137]
+
+[Imperial Merit: 71,877]
+
+He’d kept a close watch on his accumulation since stepping onto Sevona’s island, including a quick look after dealing with the Hastor Society. His progress was astounding. He’d started with just over 600 Potentiality, and weeks of hard work—both in the ruins of the present and in the past’s memories—had barely brought that number to 1,800 before the hunt began.
+
+That meant he’d almost gained over 6,000 Potentiality in less than a day. Every corrupted beast had awarded a few points each, though the largest chunks naturally came from interrupting the ritual and slaying its controller. While the exact allocation was impossible to say, Zac sensed the largest reward actually came from killing Zorm—roughly half of the total.
+
+Zac had hoped interrupting the ritual would provide a massive payout, but he could also see why it didn’t. Disrupting one magic circle hadn’t stopped the desertification of the inner region; it was only enough to slow down the process. To get the real reward, he’d have to properly thwart the scheme of the invaders.
+
+Nevertheless, Astora Theomore’s claim had absolutely proven accurate. Hunting infiltrators was by far the most efficient method of accruing Potentiality. In addition, he suspected doing so was bolstering his fate with the Mercurial Court, which would reduce the cost of upgrading his status to Inner Disciple.
+
+Their encounter with Marai hadn’t provided an additional infusion. Both tallies were identical to after his battle with Zorm. Although his Imperial Merit staying the same was no surprise; his actions in the Mercurial Court hadn’t awarded him a single point. His contributions were exclusively transformed into Potentiality. The gains he’d seen were squarely courtesy of his other half causing havoc on Hollow Court’s doorstep.
+
+“Well, what do you think?” Esmeralda said, dragging Zac out of his thoughts.
+
+“You’re right. We have no choice,” Zac said, prompting Esmeralda’s face to split into a wide grin.
+
+Zac’s initial plan for Sevona’s hunt was to take down the infiltrators one by one, foiling their plans while racking up Potentiality. However, the forces they’d smuggled onto the island greatly surpassed his expectations, and there was the looming threat of the magic circles. He simply couldn’t deal with more than one or two more Monarchs, and that was only if the conditions were right.
+
+Esmeralda had suggested another route. They’d utilize their small number and unique advantages to sneak into the hunting lodge unseen, avoiding combat unless necessary as they snatched Sevona’s divine core, or whatever was powering the lodge. It was a cliché for a thief to suggest a theft, but she made good points. They had the dagger to open a secret path, Esmeralda’s expertise, and his Void abilities that could overcome various restrictions.
+
+There was also Idiche, whose aura had grown closer to that of the island’s with every passing hour. It was like she was transforming into a native citizen of Sevona’s divine kingdom, which could prove to be a critical advantage inside the lodge.
+
+Esmeralda had repeatedly argued that it was often much easier to overcome security restrictions by gaining authorization than by directly cracking the arrays. It was for that exact reason Zac was working so hard to become an Inner Disciple. That was the easiest way to gain access to the treasure Esmeralda needed.
+
+Marai’s parting words and ultimate end had given Zac a vague idea of what the invaders were up to, which also tied into the otherwise inexplicable absence of the sect’s seniors. He hoped that seizing the lodge core would thwart their plot. As a bonus, he suspected it would create the necessary justification for the Disciplinary Hall to descend on the island without causing any backlash from fate.
+
+The trio continued their preparations for another hour, at which point the shifting walls almost shrank to the point where they were squeezed to go.
+
+“We have to go,” Esmeralda confirmed.
+
+Zac nodded and walked to her side, axe in one hand and the ancient dagger in the other. Idiche joined them, already donning her top-tier cloak. Esmeralda grabbed their shoulders while releasing a weak spatial fluctuation. Their surroundings blurred, and they were once more back in the open.
+
+“You were right. It really changed,” Zac said, taking in the new vista before him.
+
+The most obvious change was that the rainclouds were gone, and the night sky above wasn’t that of the Peregrine Archipelago. Only a few stars appeared on the deep purple curtain. There were perhaps hidden stars whose radiance was overpowered by the glowing azure moon hanging overhead. It was placed squarely above the island's center, which was a blur eluding Zac’s sight. Even at this distance, Zac could tell that the moon was exerting pressure on the hidden lodge below.
+
+The war between sand and rain was over, but that didn’t mean there was nothing blocking their path. The core region had turned into a shallow desert with eight concentric rivers acting as moats. They were made from Sevona’s illusory water, each one was thicker than the last. They held enough energy to resist being directly absorbed by the parched sand, though it was a losing battle. While slow, Zac saw how they were being gradually eroded.
+
+The mountains behind them no longer gave Zac a sense of danger, and the ambient illusory energy had decreased by a noticeable margin. The hunting lodge had mustered all the island’s accumulated forces to erect a final layer of defense. The three magic circles glowing in the sky weren’t pouring out more sand, but Zac could feel a slight vibration coming from them. It was as though they were releasing a note outside his range of hearing.
+
+“It’s changing,” Idiche confirmed. “They’re trying to shift the island’s very essence. Maybe to match the other side? Harmonizing the two islands could help them overlap.”
+
+“This whole desert is an enormous array mimicking nature. Each grain of sand holds spirituality and is part of the pattern,” Esmeralda said with a troubled expression.
+
+“Good thing two of the circles were destroyed. It bought us the time we needed,” Zac nodded as they approached the first river under the cover of Esmeralda’s abilities. “At least I hope it did. I can’t see any of the invaders.”
+
+“What we see is not necessarily what’s real,” Idiche cautioned.
+
+“This river is not simple,” Esmeralda muttered shortly after reaching the shore. “It’s only ten meters across, but it holds truths approaching Continuum. The chasm is absolute. You’d need an Autarch who can remodel the local laws to cross without being dragged inside.”
+
+Zac took out a piece of ore and flung it with enough force to fly a couple of miles. It disappeared the moment it was above the rippling water and never appeared on the other side. The experiment confirmed that doing the same with [Fuxi Mountain Gate] wouldn’t work. Extending [Void Zone] gave a similar response. His D-grade Bloodline Talent couldn’t even extend an inch across the water.
+
+Sacrificing some blood to the dagger proved there was at least one valid option.
+
+“It’s even more draining than when we crossed the mountains,” Zac said with a frown as he released his grip on the knife edge. “I can take us across two or three at most. Any more and I would lose my combat strength.”
+
+“That means me and the sleepwalker can only manage one, and probably the first river.” Esmeralda shook her head before turning to Idiche. “We should keep it for the most dangerous stretch and figure out something else for the shallow ones. Can you feel anything?”
+
+“It’s… calling me. I think we can just enter?” Idiche said after a while. “There should be an independent space inside the rivers. We just need to figure out how to cross it.”
+
+Zac turned to Esmeralda, who begrudgingly nodded in agreement. “It’s possible, but there’s no way the lodge will allow us to proceed unchallenged.”
+
+“Maybe the formations inside will recognize us as allies. If not, I can still use this thing for directions, even without draining myself,” Zac said, waving the dagger. “Let’s not split up in case something unexpected happens.”
+
+“Agreed.” Esmeralda took her seat atop Zac’s head while chains wound themselves around Idiche and pulled her close.
+
+Everything in place, Zac took a steadying breath before taking a first step into the shallow river. Small stabs of pain appeared in the depths of his body, from cells to soul, as the surroundings blurred. He was given neither time to get his bearings nor to figure out the source of the pain before his mind screamed of danger.
+
+The familiar call in the back of his mind was accompanied by an equally familiar clamor, except it was distorted and out of tune. Zac still moved on instinct, following the rules of slaughter engraved through years of relentless warfare. A shimmering sword tore through a swirling curtain of murky sand and struck where he had stood just a moment ago.
+
+Zac had already recovered from his hasty dodge before the sword finished its trajectory. His sidestep seamlessly transitioned into a brutal upward swing that cut into a visored helmet from below. No flesh was torn, nor did the helmet possess the capability to block the strike. Rather, his axe futilely swished right through the soldier like he was a ghost.
+
+No, not even a ghost. Zac had killed his fair share of spectrals and other energy constructs. While they were often hard to kill, Zac’s Dao-infused swings should have at least left a mark. Yet the soldier didn’t so much as pause from having an axe pass through their brain. He simply turned around, unleashing another attack at Zac. Meanwhile, five more soldiers joined him, striking at Zac from every direction.
+
+The attackers were only Early Hegemons, the mass-produced type you’d see in elite armies. That didn’t make them weak. What they lacked in the raw strength of a nurtured elite, they made up for in numbers and teamwork. Still, Zac didn’t have to struggle to avoid direct hits while figuring out the situation. He moved like a blur as he took in the scene beyond the gusts of swirling sand filled with corruption.
+
+They’d appeared in the middle of a battlefield reminiscent of the Memory Domain where he met Joanna. An imperial army was subduing a beast tide. However, there were critical differences in the scene. First and foremost, the battle shared similar characteristics to the shifting cave. When applied to a much larger space with thousands of combatants, the changes left Zac disoriented in seconds. It matched the off-tune clamor of war, like a dream that had combined mismatched scenes. Thankfully, the battlefield was more stable the closer it was to his location.
+
+Secondly, Zac recognized more than half of the assembled beasts. He’d fought them just an hour ago as they explored the island. Their opponents had an obvious tell that exposed their allegiance. Plumes of corruption were leaking from almost all the armored attackers.
+
+A war between an army of infiltrators and Sevona’s beasts? Was it real, or was it a symbol of the battle between the rainwater and the grand formation hidden within the corrupted sand? Zac could feel a spirituality from the combatants, especially the soldiers, but the scene was too unstable to make sense outside of an illusion or dream.
+
+Whether real or false, the beast tide couldn’t overcome the empire’s war machine, and their numerical advantage was methodically being whittled down. The hostile environment attacking the soldiers’ corruption disrupted their flow and increased the casualties, but it wasn’t enough to change the tides. The battle would be over within a few hours, matching the rate of the river’s dissipation.
+
+A noxious gust suddenly erupted from Idiche to his left. Corruption and blood poured out of a fresh wound on Idiche’s throat before it was torn apart by dense illusory energy. Zac realized the pain he suffered stemmed from the same source. The illusory space was omniscient, targeting deeply hidden corruption that even his Hidden Nodes and Bloodline Talents had missed.
+
+The pain was only a nuisance thanks to his prior cleansing, but he felt Esmeralda trembling in pain atop his head. She didn’t carry dangerous levels of taint, but her methods of cleansing herself weren’t as efficient as [Purity of the Void].
+
+Idiche had it worst. She teetered on the brink of unconsciousness as tufts of corruption were forcefully yanked out of her body. The price she’d paid to extract the treasure from Marai’s world was clearly steeper than she led them to believe. Zac kept an eye on her state while looking for the way out, ready to activate [Void Zone] to separate Idiche from the surroundings.
+
+‘How are they able to fight? Some protective treasure? Or a cultivation method keeping the backlash to a minimum?’ Zac inwardly mused as he looked at the countless streams of corruption rising across the battlefield.
+
+The ancient dagger once more proved its worth by providing Zac with a vague sense of direction without demanding a price of blood. Zac started making his way through the battlefield, trying various methods of striking at the enemies as he did. While the battlefield was surreal and formations kept shifting, the number of combatants appeared to be fixed. No new spectral soldiers appeared to replace those struck down by the beasts.
+
+If he could perform some cost-effective sabotage in each river, it might weaken the enemies’ control over the island. Unfortunately, not even [Fatehew] with its spirit-targeting sharpness managed to leave a mark on the soldiers.
+
+His actions only drew more attention, and a painful experiment confirmed a truly unjust reality. The attacks of the soldiers actually left spiritual wounds, and the same proved true for the beasts. On their own, they didn’t pose much danger for Zac’s tempered soul, but they’d become a problem if allowed to accumulate.
+
+Despite his reluctance, Zac activated [Void Mountain] and slammed his Dao-annihilating rune into a visored helmet. It buckled inward with a sickening crunch, and the soldier crumbled like a puppet without strings. A streak of foreign spirituality rushed into Zac’s body before he could react, triggering a vehement rejection from the ancient Killing Intent.
+
+Zac almost regretted the successful experiment as he looked around. The army of evasive soldiers suddenly looked like a sea of experience points now that he’d found a method of taking them out. The stream of spirituality of an early Hegemon was nearly as effective as bathing in the blood of a drake. He’d only need two or three rivers to completely refine the ancient intent and set a rock-solid foundation for his [Thousand Axes Avatar].
+
+Unfortunately, he neither had the time nor spare Void Energy to deal with the whole army. Killing one also caused a tremendous reaction from the nearby soldiers. Before, they had almost targeted him as an afterthought. Now that Zac had proven his lethality, dozens of murderous perceptions locked onto him.
+
+“Transcendental spirits. The heart crosses the veil,” Idiche intoned with a hollow voice.
+
+Idiche had succumbed to the hostile environment and fallen unconscious during her tests, yet she kept mumbling in her sleep. Seeing as her sleepwalking guidance had proven accurate thus far, Zac activated [Warbringer Dharma] and brought out his idol. His eyes lit up as the battlefield grew a smidge less jarring and surreal.
+
+Unfortunately, the effects weren’t nearly as good as using Void Energy. It was like his weapon managed to transmit 5% of its original force. It still passed through the enemies, but doing so left spiritual wounds. Zac didn’t mind. Keeping his idol out only required him to divert a sliver of his concentration, and he could just keep hitting until the enemy went down.
+
+“One begets the two, delimited yet one,” Idiche murmured as Zac finally took down one of his attackers, relying solely on the stabilizing effect of his idol.
+
+A walnut-sized seed appeared next to the floating hatchet before Zac could ask what she meant, and the illusory realm stabilized further. Zac’s heart leapt upon thinking he’d made a sudden breakthrough, finally forming his second idol. He knew it wasn’t a matter that could be forced, but failing to form any idols since the first—especially during his lifetime of heart-tempering on the Peregrine Ocean—had been a blow.
+
+Zac’s expression fell upon realizing he wasn’t that lucky. While the seed felt similar to the hatchet, it gave off a slight hint of falsehood. His expression scrunched up further upon sensing the weak connection didn’t just link him and the seed but also extended to Idiche. Then realization struck him.
+
+Idiche had essentially cast an illusion on him, tricking his mind into conjuring an Idol so believable that it had a tangible effect on its surroundings. It was an extraordinary case of mind over matter, whose measurable effect denied any repudiation. His chains had already turned corporeal enough to somewhat function as a defense that slowed down incoming attacks, and the next opponent fell after only three swings.
+
+As his body was swallowed by the winds of war, the seed grew slightly larger. Death was its nourishment, and feeling the idol’s hunger prompted a question that refused to go away. If fed enough, could the seed grow into something real?
+
+Perhaps a bout of enlightenment wasn’t the only way to nurture a Warbringer Idol.

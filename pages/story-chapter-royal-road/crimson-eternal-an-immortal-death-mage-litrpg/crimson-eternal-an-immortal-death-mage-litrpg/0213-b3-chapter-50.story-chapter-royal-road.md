@@ -1,0 +1,107 @@
+---
+id: 22da8279-0f63-599a-83bb-aed7dae2ebb7
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 50"
+slug: 0213-b3-chapter-50
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 213
+ownLength: 1469
+unit: words
+ownProgress: 1469
+publishedAt: 2024-10-05
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1836293/b3-chapter-50"
+royalRoadId: "1836293"
+markedReadAt: "2026-06-29T19:12:58.481Z"
+---
+
+The Spire
+
+Adrian Crimson was never one for words. When he speaks, he has a reason to do so.
+
+It’s how he is now, and it’s how he’s always been in the past.
+
+Adrian knows that a lot of people assume he just doesn’t like speaking or isn’t good at it, but in reality, he just never viewed speaking as something he should bother doing unless it’s absolutely necessary to get a point across. He’s never had any real issues speaking and communicating with others in his life.
+
+After all, he’s a prince, born and raised.
+
+While his life wasn’t always sunshine and rainbows, he was certainly raised as royalty. And not just any royalty, but royalty to one of the strongest empires in the universe.
+
+So he is not used to apologizing to people or making mistakes.
+
+And now, for the first time since he can remember, he is at a loss for words. Unable to figure out what he should say to his sister despite the many years he’s spent trying to think of what he should say when he finally meets her.
+
+The first moment he saw his baby sister, he almost started crying just from the impact of it. And no matter how much the Silvanian Emperor stresses that she isn’t a baby, he still can’t help but see her as the little baby sister he held once in his arms a hundred years ago. Especially since Adrian himself is already over a hundred thousand years old, making a century old sound like an infant to him.
+
+Adrian gazes deeply into his sister’s glowing crimson eyes for what feels like ages to him but is in reality just seconds, seeing a strange sense of death just from looking into them. Meanwhile his sister just furrows her brows more and more as he and their parents stay quiet, the two no doubt feeling the same as him.
+
+But after nearly half a minute passes since War backed off, Adrian finally takes a deep breath and steps in front of his parents, drawing both their eyes and his sister’s eyes towards him in the process. Then he gives Aria a sad smile and says, “Are you living well?”
+
+His words surprise everyone on the ledge of the Spire they’re standing on as sounds of gunfire and spells being slung around continue to echo from the ground below due to the war.
+
+And, to Adrian’s surprise, the first real hint of emotion outside of irritation that his sister has shown since they arrived appears on her face as the corner of her lips quirks upwards ever so slightly. Then she uncrosses her arms and puts them in the pockets of the skirt she’s wearing while saying, “Well enough.” And even more to his surprise, she asks in return, “You?”
+
+Adrian’s sad smile turns a bit happier as he nods his head and says, “Well.”
+
+But silence fills the air again after that, Adrian not knowing what to say now.
+
+Part of him still feels like the memories he received from the jewel are alien to him. Since the personality and traits of his clone gradually changed over the nine years they were away from him. And there are plenty of things his clone had done around Aria that he never would’ve done. Simply because he and his parents are far too powerful to need to resort to such things unless the Horsemen are involved.
+
+So trying to use the memories she had with them in the past as a connection to start up a conversation with her feels wrong to him. Both because he isn’t sure if she would take it as him trying to act as the brother she grew up knowing and because he doesn’t feel like it was entirely that brother in the first place.
+
+It’d feel fake to him.
+
+And judging by the looks on both their parents’ faces, they feel the exact same way as he does.
+
+Adrian quickly checks the time before seeing that it has been six minutes since they first arrived. Meaning they only have four more minutes until the curse flings them far away from here.
+
+Damnit, so much time wasted!
+
+He can’t help but beat himself up over this inside, but he doesn’t show anything on the outside that Aria would be able to see.
+
+Instead he takes another deep breath, only for his father to step forward this time and state, “Aria, if you ever need our help, please ask. No matter what. We’ll do anything you want.”
+
+Adrian glances at his father’s face before finding an incredibly sad smile on it as the man continues walking up to his daughter. All the way till he stops just a few feet in front of her and kneels down without breaking eye contact. Even when he reaches his knees on the ground.
+
+“You don’t have to forgive us now, and you don’t have to think of us in any way that would make you uncomfortable,” Adrian’s mother says as she, too, walks up to Aria and kneels down. “Just do what you want.” A tear leaks out of her eye, making tears begin to build up in Adrian’s own eyes while he moves forwards himself and his mother finishes, “Whatever will make you happy.”
+
+Adrian smiles up at Aria after kneeling down himself and says, “We know you don’t like being bothered by annoying things.” Aria’s eyes widen in shock at that admission, but Adrian just keeps talking, “Don’t feel you have to do anything you don’t want to do.” Tears fall down his face. “You just do you, little sis.”
+
+Aria looks temporarily at a loss for words as her mouth opens and closes a few times. Then she eventually just nods her head and says, “Okay. You can get up now.”
+
+Adrian and their parents both quickly climb to their feet while ignoring the amusement visible on War’s face as he watches this entire thing.
+
+The silence continues for a little while, the three waiting for Aria to say something. Since she’s the one in charge of everything here.
+
+And Adrian immediately feels hope filling him when she finally speaks, saying, “Stop crying already. You’ve made your point, and I don’t hate you.” Then the hope fades ever so slightly, albeit not entirely when she adds, “But I don’t consider you family either. That passed long ago, when I was being used as a weapon while thinking you were all dead.”
+
+Adrian feels conflicted about it, but in the end understands it perfectly well.
+
+Regardless of what they had planned to do, regardless of their intentions, his and their parents’ plans led to a life of suffering for Aria.
+
+And nothing can change that.
+
+Especially nearly a century later, after everything happened.
+
+Silence fills the area for a few seconds before War lets out a whistle and mutters, “You three are screwed up, aren’t ya?”
+
+Everyone turns to stare at the man. But before Adrian or his parents can express any of their irritation with the man, Aria says, “You probably shouldn’t be throwing stones in a glass house, Lucius.”
+
+This time everyone turns to Aria in shock. Everyone but War, who simply tilts his head slightly and asks, “What do ya mean, Little Death? I’m the epitome of normal.”
+
+And everyone’s gaze turns back to War again.
+
+“Lucius…” Aria mutters, only to shake her head in the corner of Adrian’s vision. “I’m probably the only one of the Horsemen who can be considered normal, so you probably shouldn’t…” She trails off when she sees the look on War’s face. A look that looks like he isn’t paying a single ounce of attention to her words. “Nevermind. I give up.”
+
+Everyone on the ledge turns to stare at Aria this time. Not because she gave up on what War said, but because of her referring to herself as normal.
+
+Adrian then turns and glances between War and Aria as a single thought runs through his head.
+
+I may love her and would do anything for my sister, but I don’t think any of the Horsemen are normal…
+
+The atmosphere on the ledge of the Spire that had begun building up is soon shattered when a bright purple and green light begins to shine from Aria, startling her in the process. Then the light flares outwards, blinding everyone on the ledge as it envelops them all.
+
+Adrian and his parents quickly try to shout a farewell to Aria, but none of them are sure if they managed to do it before they reappear in the middle of space an entire galaxy away from Aria.
+
+The three share a glance before each one sighs, a sad expression spreading across their faces.
+
+And the wait for another century begins.

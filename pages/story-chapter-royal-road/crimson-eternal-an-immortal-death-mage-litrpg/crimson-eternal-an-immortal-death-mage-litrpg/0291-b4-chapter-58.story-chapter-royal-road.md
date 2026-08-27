@@ -1,0 +1,177 @@
+---
+id: 94bf892d-5ec2-5c30-9aa8-11b697603078
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 58"
+slug: 0291-b4-chapter-58
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 291
+ownLength: 1531
+unit: words
+ownProgress: 1531
+publishedAt: 2025-07-22
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2457600/b4-chapter-58"
+royalRoadId: "2457600"
+markedReadAt: "2026-06-29T19:15:42.168Z"
+---
+
+The Eternal Academy
+
+Ryan feels a little disappointed when he finally attains victory against his opponent. Mostly because he knows his mom isn’t watching right now. Even if a part of him at least hopes that she’ll see a recording.
+
+Stupid paperwork.
+
+After a second he lets out a sigh before walking out of the stadium’s arena while transforming back to his human form. But the moment he steps off the field, he blinks as he senses death energy and hears a very faint growling nearby.
+
+Ruby?
+
+He frowns but quickly rushes through the stadium until he arrives at the bleachers and finally finds his sister partially transformed as several royals run away in fear. Which leaves him confused for a moment. Just a short moment though. Because he quickly realizes what happened.
+
+More royals trying to make connections.
+
+That thought gives him pause for just a brief moment before he shrugs it off and jumps forward with a bright smile on his face, immediately hugging his twin sister with a smile.
+
+“That was a good fight,” Ruby says while ignoring the fact that her twin just glomped her.
+
+Ryan smiles up at her before exclaiming, “Thanks sis!”
+
+Everyone in the bleachers near them gives them a wide berth. Probably because of seeing Ryan transforming completely into his hunter form along with Ruby transforming partially, just growing her fangs and turning her eyes for intimidation.
+
+At the very least all of the royals trying to brush shoulders with them give up quickly when indicated. If for no other reason than not wanting to get on their mother’s bad side.
+
+Because their mother is Death! The end of all and the greatest being in the universe!
+
+Ryan believes this with all of his heart. And it’s why he couldn’t be happier with his class and purpose.
+
+He clings onto his sister for a few more seconds before finally letting go. Then he opens his status and smiles at the sight of his class again.
+
+Name: Ryan Crimson
+
+Class: Son of Death
+
+Ability: Death Body
+
+Level: 57
+
+“Are you staring at your status again?” Ruby asks, making Ryan glance at her to find a frown on her face.
+
+“How’d ya know?” Ryan asks in return while tilting his head, occasionally still glancing at the status as he does so.
+
+Ruby rolls her eyes and says, “Because you make it obvious. If you had a tail I’m pretty sure it’d be wagging right now.” She pauses for a second as she glances at the people around them. “Let’s go see Mom. I’m sure she’ll be done with her paperwork by the time we get to the main office building.”
+
+Ryan – who was about to pout and complain to her about her tail wagging comment – stops and immediately jumps up and begins rushing out of the bleachers without a word at the mention of their mom. Which leaves his twin rolling her eyes behind him, but Ryan can see the slight quirking of her lips. So he knows she’s not upset, no matter how much she tries to pretend.
+
+He’ll never miss any detail about his twin after all. And she is clearly the same.
+
+I wonder if it’s really that visible?
+
+He glances at his status again, or more specifically, at his class.
+
+Son of Death.
+
+The mere fact that the System recognizes it is all he needs to feel happiness flooding every inch of his body and mind. And the day they awakened to their class those years ago he had immediately begun jumping around shouting in excitement all day long.
+
+Which at this time he realizes confused their mom quite a bit back then.
+
+It’s not just his class though. His purpose, to absorb death energy, gives him an excuse to cling onto her as well. And while he on some level knows he won’t be able to do that forever – he doubts their mom will let them do that all the time when they’re adults – he wants to milk it for all its worth now.
+
+To spend as much time with her as possible.
+
+Ruby doesn’t let them explain to her about what their purpose is though. So he can’t use that as an excuse directly.
+
+And he would never go behind Ruby’s back even for extra Mommy Energy time.
+
+He was also rather happy about his and Ruby having the same purpose and ability.
+
+An ability that allows their bodies complete immunity to death energy and even the ability to absorb death energy and grow stronger through that process. The entire reason they are able to make progress towards their purpose.
+
+But growing stronger can wait. Except for Mommy Energy. Because that’s important and always will be.
+
+What’s most important right now other than that is to have fun at this academy.
+
+Ryan gets a slightly nasty look on his face as he remember the paperwork that his mother was stuck doing.
+
+Paperwork. The strongest monster in the universe far worse than any apocalypse.
+
+And their Aunty Blue who forces paperwork on their mom is just as scary.
+
+He feels a chill run down his spine at the thought of that scary aunty who can sometimes control their amazing mother turning their focus to them.
+
+Another reason why their mom is the best.
+
+Because she protects them from the frightening paperwork monster.
+
+Ryan firmly nods his head at that thought as he hopes his mom prevails before they arrive.
+
+Aria
+
+I hate paperwork.
+
+I’m sure I’ve thought that enough over the past century or so, but I really hate it.
+
+This is the one thought repeatedly going through my head as I finally finish up the very last document before turning it in. The documents to allow me to teach death magic fundamentals here at the academy.
+
+And this time it was even worse because it stopped me from seeing Ryan’s semi-final round. But at least I can still see the final round. Which is what’s most important.
+
+I can see him wiping the floor with some spoiled royals.
+
+Now if I could just…
+
+My thoughts trail off as I notice the crowd outside of the main office building meant for paperwork and other office related stuff. And the crowd has gotten far larger than the last time I checked. So large that the streets are completely filled, and the enforcers of the Eternal Dynasty’s government here are struggling to keep them out of the streets.
+
+Not to mention out of the building.
+
+…right. This is going to be difficult.
+
+I purse my lips for a few seconds before shrugging. Then I open a rift into the Plane of Death and pass straight through it while making sure I’m in sight of everyone outside. Following which I wait about ten minutes inside of the Plane of Death and come back out again. At which point I find a lot of the people having cleared out.
+
+Good. Most of them probably assumed that I went through a portal or something.
+
+Right as I’m about to step outside into the significantly-less-crowded-than-before street, I’m interrupted by a team of Crimson Empire knights. All of whom are wearing their usual robes and masks before kneeling in front of me.
+
+Shit.
+
+I frown at the knights before the commander of the knights raises his head and states, “Your Highness, I have a report from Her Majesty. His and Her Majesties and His Highness along with your uncle, Jake Crimson, will all be arriving to visit you in three days’ time.”
+
+Right.
+
+That’s a thing.
+
+Wait a fucking second.
+
+My eyes widen in shock as I ask, “Uncle Jake?!”
+
+The commander answers right away, “Yes, Your Highness. Your uncle has finally awakened from his coma and wishes to see you alongside the others.”
+
+So he is still alive as well!
+
+I purse my lips at that thought.
+
+Great. Another liar.
+
+Will he be different from what I remember as well?
+
+Wait, coma?
+
+“What coma?” I ask with a frown while crossing my arms.
+
+Once again, the commander answers instantly, saying, “Yes, His Highness has been in a coma ever since he attempted to place a barrier to block the curse that afflicted the great Imperial Family. However he has finally woken up from the coma.”
+
+I blink at that. Then I blink again.
+
+Does… doesn’t that mean he’s been in a coma ever since I was taken to Vortel in the first place?
+
+So… I wonder if his personality has changed like the others?
+
+That question gives me pause as I frown and look down at the ground while crossing my arms over my chest. But soon enough my thoughts are interrupted again when I hear and sense Ryan and Ruby shouting while flying down the street.
+
+“Mommy!!” “Mom!”
+
+I raise my head to look at them, then at the crowd that’s beginning to gather again.
+
+Well, these questions can be answered later.
+
+Or rather, they will be answered when I see Jake.
+
+I smile at the kids before beginning to make my way over to them, not bothering with the knights anymore.
+
+Time to see how Ryan did in his tournament.

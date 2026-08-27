@@ -1,0 +1,153 @@
+---
+id: d6452a2c-acae-58cf-8c9e-0e62cf86310a
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 48"
+slug: 0280-b4-chapter-48
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 280
+ownLength: 1442
+unit: words
+ownProgress: 1442
+publishedAt: 2025-05-20
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2293745/b4-chapter-48"
+royalRoadId: "2293745"
+markedReadAt: "2026-06-29T19:15:16.743Z"
+---
+
+Aria
+
+“You… a mother?” Leone asks as she stares at the kids on a screen in my office as the kids excitedly watch some of the mercenaries sparring. Then she glances at me and asks again, “You? A mother? Are you serious?”
+
+I lean my cheek on my palm, resting my elbow on my desk as I mutter, “Did you have to ask twice?”
+
+“Yes,” she answers with a nod of her head.
+
+Rude.
+
+Well, time to use my secret weapon.
+
+I open my storage ring and toss the gauntlet at Leone, making her eyes widen instantly with joy as she literally leaps for it and catches the thing. After which she goes ahead and puts it gently into her own storage ring as she exclaims, “Thank you sooooo much!!!!”
+
+Topic change was successful.
+
+“So about you being a mother?” Leone asks, almost making my face slip off of my hand as I stumble a bit despite sitting down.
+
+Or not.
+
+“And what’s so wrong about that?” I ask with a frown.
+
+The lyon stares at me for several seconds before eventually shrugging and stating, “Nothing really. I just felt like asking.”
+
+I stare back in an awkward silence until she asks, “So where do you need me?”
+
+Did she really… oh, whatever. Doesn’t matter.
+
+“Ask Little Blue,” I answer with a shrug as I sit up straight. “She’s the one in charge of that sort of stuff.”
+
+“Alrighty,” Leone says with a nod before heading out of the office. Leaving me alone as I spin in my seat to look out the window.
+
+This is going to be an interesting next several decades. That’s for sure.
+
+I let out a sigh before stretching my hands above my head and the chair with a yawn.
+
+Well, interesting is good.
+
+And it’ll be nice to see Hannah and the others again. I’ve heard that they all reached level 200 and safely increased their lifespan again through our group chats.
+
+Which was great news when I heard it, but I still haven’t seen them since.
+
+I sit back with my arms crossed behind my head.
+
+Wonder how they’ll react to the twins?
+
+AriaSomewhere on Vortel a few days later
+
+“You? A mother?” Hannah says while hiding her mouth and trying hard to hold herself back from laughing. “The same girl who drinks wine as her only sustenance?”
+
+I purse my lips and look over at Adrian, to find the guy laughing his ass off. The womanizer still looking just as young as he was when I first met him if not younger.
+
+“Aria is a mother now!!!” Adrian barks out between laughs. “The girl who taught herself how to climb a cliff by falling down and just trying again every time she hit the rocks below!!”
+
+This time I look up at the ceiling as I begin to wonder just how these people in my life view me. Largely because of the feeling of deja’vu I’m getting from this reaction.
+
+And here I thought I was perfectly normal.
+
+“She’s also the girl who apparently blows herself up with nukes to kill her enemies as a default option,” Leonardo says, sounding a little too amused himself. “And sat there plastered across some prince’s back with her hand on his chest burning him alive ever so slowly and leaving a permanent wound on him through that.”
+
+I tilt my head at that last one, not really sure what he’s talking about. Because I don’t really remember burning some prince.
+
+Although I do remember burning an idiot’s chest when I was first testing out the skill during the war on the Grand Silvanian Empire’s capital planet. But that guy was an asshole pervert who deserved it, and there’s no way he was some prince.
+
+So what’s he talking about?
+
+“The kids seem pretty attached to her, so I believe it’s fine,” Jason states, sounding as serious as ever as he looks at the two kids who both fell asleep on my legs in Leonardo’s mansion main living room. With both of the twins sitting on one leg each with their heads resting on my chest.
+
+“I never said I was against it,” Adrian quickly backtracks while sending a worried look between me and Jason.
+
+“Same here,” Hannah says with a smile, bringing my gaze towards her. “I’m actually glad she’s finally chosen to have a family of her own in a way.”
+
+That surprises me a little before I find myself smiling at her. Then I look down at the twins who are calmly sleeping on me.
+
+A family?
+
+I haven’t had one of those in a long time. Not a real family at least.
+
+Over the time I’ve spent with them, they’ve definitely grown on me. Even if I know I’ll just be leaving them to resume my journeys after they reach eighteen years of age.
+
+I’m… I don’t know why they’ve grown on me though.
+
+It’s just… I know I’d be upset just leaving them be and abandoning them before they’re able to support themselves. That I wouldn’t be able to do that.
+
+But why I wouldn’t be able to do that doesn’t really register much in my mind.
+
+Have I really grown this detached from other people over the years?
+
+Even when I lost Frank before, I knew I cared about him, but I don’t to this day know why or how that came to be. I’ve never really understood.
+
+Part of me actually wonders if I may learn about these emotions from raising the kids while I’m looking after them.
+
+But the rest of me?
+
+A faint smile stretches across my face as I hug the two kids to me a bit more and lower my head between them, closing my eyes as I do so.
+
+“You really do care, don’t you?” Adrian mutters, making me silently nod my head without opening my eyes. “That’s good.”
+
+“To be honest with you,” Hannah begins, but I don’t open my eyes and continue holding the kids. “We were all beginning to worry that we’d end up passing away eventually while leaving you still closed off from people emotionally. That you would be left largely alone without learning to open up to others.”
+
+I finally open my eyes and look up at them all, just to find them smiling at me each in their own ways.
+
+Before I can say anything, I feel movement in my arms, making me glance down to find Ruby waking up. Although Ryan is still fast asleep.
+
+Ruby rubs her eyes as I lean back again a bit in my seat. And while she’s rubbing her eyes, she looks up at me before plopping her head down on my chest again and murmuring, “Mommy…”
+
+I pat her on the head while ignoring the amused and – in Adrian’s case – playful and teasing looks the others are sending my way. No doubt because of Ruby’s slip of the tongue in calling me mommy instead of mom. Something she only does when she’s mostly still asleep and will absolutely feel embarrassed about when she fully wakes up.
+
+Not to mention her snuggling up to me like the child she is.
+
+Despite their teasing, I feel my smile growing a bit.
+
+Generally Ruby only shows her childish side off when she’s mostly asleep. And it’s honestly really adorable.
+
+Ryan on the other hand is just really quiet when he’s mostly asleep.
+
+It’s like the two swap personas entirely. With the exception of the fact that Ruby isn’t wild. She’s just clingy.
+
+Ruby continues clinging onto me with her eyes over half closed. Meanwhile Ryan finally begins to stir himself, opening his own eyes and looking around. Then he just continues leaning up against me without a word while still looking around.
+
+Also adorable.
+
+The others are still chuckling at my expense though.
+
+I look back up at Hannah as I ask, “So how’ve things been doing for Vortel?” I glance at Leonidas. “I’ve heard you took one of the general positions in the military?”
+
+Leonidas and all of my friends go silent at that while awkwardly looking around. Clearly implying something’s up.
+
+I frown.
+
+Come to think of it, I haven’t looked at the news related to Vortel since leaving the lyon homeworld. So I don’t know what’s been happening as of late.
+
+“About that…” Hannah mutters, making my frown grow deeper as I ever so slightly and instinctively tighten my hold on the kids. Which in turn makes them snuggle closer.
+
+“I won’t hide it from you,” Leonidas says with a sigh before the general sits up straighter. “We’re at war.”
+
+Oh.

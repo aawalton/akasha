@@ -1,0 +1,137 @@
+---
+id: 91e3fc9c-d1f6-5eb6-96d4-d5199b9ecd61
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 14"
+slug: 0313-b5-chapter-14
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 313
+ownLength: 1428
+unit: words
+ownProgress: 1428
+publishedAt: 2025-10-30
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2717314/b5-chapter-14"
+royalRoadId: "2717314"
+markedReadAt: "2026-06-29T19:16:27.709Z"
+---
+
+Aria
+
+It doesn’t really take much effort to make my way into the city before losing the one guard I pass in the rather tall skyscrapers of the city. Especially not when I enter the throng of people who are currently freaking out about the System.
+
+So I take my time to explore the lovely little city while I’m here. Not to mention while the people are still freaking out or excited.
+
+Because there are quite a few people who seem excited about this change. With a lot of them talking about how everyone is going to become a superhero.
+
+And a lot talking about how there will be a lot more supervillains too.
+
+Yet for some reason there isn’t much chatter about any sort of invading force. Almost like the people aren’t worried about invaders.
+
+I can’t help but purse my lips as I wander through the city, wondering if these people are just overconfident or what.
+
+Either way, the city is a lot higher tech than most newly initialized worlds. And from what I’ve seen on the internet here, this world most likely has at least a few Class S ability holders. Which is rare.
+
+There are most likely two of them on the heroes side and one on the supervillains side.
+
+After a bit of wandering around, ignoring the people rushing here and there to follow their purposes for the first time, I find security guards roaming around. With some of them keeping an eye on the people while others look like they’re searching for someone.
+
+Maybe me? I did jump right past that guard guy on the wall after all. It would be weird if he didn’t report it.
+
+In that case…
+
+I enter a back alley before going ahead and summoning numerous Death Spirits and putting them in cloaks similar to my own. Except with the cowl up and the front of it closed.
+
+Then I send them all off into the city while I change outfits into something more fitting with the world.
+
+And after walking back out onto the street, I find the soldiers completely ignoring me as they chase after one of my Death Spirits.
+
+Nice.
+
+Now back to wandering around and fulfilling my curiosity.
+
+Except that my curiosity slowly turns to boredom. All the way to the point that I almost decide to just leave the world to go to another one.
+
+Until I find myself watching a supervillain raid on some bank. Which is a lot more interesting than anything I’ve seen up until now.
+
+Especially when the superheroes arrive to save the day.
+
+One of the heroes in question seems to have some sort of superspeed power while another has electricity, and another has some sort of unknown ability. Most likely some sort of miscellaneous one that is a bit harder to figure out at a glance.
+
+On the other hand, the supervillains number four in total, with one of them having an ice related ability, another one having fire, the third having some sort of superstrength, and the last one just kind of standing back and watching. Making it so I can’t tell what sort of ability he has.
+
+The heroes and villains fight it out with each other, with the heroes actually not holding back like I expected. Since I’ve seen quite a few movies and tv shows about superheroes where the heroes were all about the whole ‘no killing’ rule thing and wouldn’t kill. Even if the one they’re killing is their enemy.
+
+These heroes don’t seem to have any interest in that philosophy, proving that it really is too self-righteous and all to be real.
+
+I knew that whole idea was ridiculous.
+
+Anyways, I watch as the heroes battle it out with the villains, killing one of them before one of the villains kill one of the heroes. Then the villains begin to back up into the bank while looking like they’re retreating, only to pull an ambush on the heroes, killing another one of them.
+
+Leaving just one hero left facing off against three villains.
+
+Interesting…
+
+That said, I turn my attention away from the battle to focus on the one villain of the three that isn’t participating as I watch from a roof on the other side of the street through a window. A rather large window at that.
+
+And to my surprise, the villain looks through the window right at me before narrowing his eyes.
+
+Then he suddenly vanishes into a pool of shadows before I sense him appearing right behind me.
+
+So I turn around with my hands still in my pockets and a single eyebrow raised.
+
+“Are you one of those invaders that screen spoke about?” the villain asks with a scowl on his face as I glance at his level. Which is, as expected, just two. So low I could crush his neck with my bare hands.
+
+Despite that I can’t help but study the man. Because something tells me this guy may have a Class A or even Class S ability.
+
+When I don’t answer, he suddenly makes a spear of shadows pierce right into my back. Although it only goes partway in.
+
+I completely ignore it as he looks a little surprised, no doubt about the fact that his attack didn’t kill me right away.
+
+“Is your ability Class S?” I ask while tilting my head a little.
+
+There’s no way I just happened to run into the one supervillain on the planet with a Class S ability, right?
+
+The man frowns and asks, “Class S? What’s that?” His frown deepens and confusion spreads across his face. Probably because his little shadow spear is being pushed out of my back as my back regenerates. “And how are you still alive?”
+
+Oh. Right.
+
+I forgot some uninitialized worlds, and even some initialized ones, use a different naming sense for the Classes of abilities.
+
+Let’s see… if I remember correctly, this world categorized them with ranks?
+
+“Are you a first ranked ability holder?” I ask again, immediately making him blink before the corners of his lips quirk upwards.
+
+Huh. Did I really guess that correctly?
+
+He hits me with over a dozen spears of shadows all at once from different directions while tilting his head backwards a bit in a rather arrogant manner as he asks, “And what if I am?”
+
+Guess I got it correctly.
+
+I finally study the man’s actual appearance now that I have my answer.
+
+He is bald with a single tattoo of shadows covering half of his head, meanwhile he’s wearing a long black trench coat and honestly looks like a thug. But at the same time, probably one of those thug bosses in tv shows who stands at the back watching everyone else beneath him do the work with smug satisfaction.
+
+Like he was doing with those heroes.
+
+The smugness on his face fades when he sees all of my injuries heal.
+
+“I’m just a tourist, so please don’t mind me and get back to your little battle down there,” I tell him with a nod of my head.
+
+At first I thought I might try to recruit him into the Pale Mercenaries, but I’ve changed my mind. Because having some thug in it might not be a good idea.
+
+And more importantly, trying to recruit a thug sounds like a pain.
+
+Although I do make sure to take a picture of him and send the coordinates of this planet to Little Blue along with a note about him most likely being Class S on a recently initialized world. Just in case she decides to do something herself.
+
+Oh, and, I go ahead and mention to the guy, “You might want to pay attention to your buddies down there, seeing as they’re being slaughtered.”
+
+He blinks in surprise before turning his attention down to his friends, who are currently being killed by the heroes’ reinforcements. Then he swears and vanishes into another pool of shadows before going to slaughter the heroes down there.
+
+Class S abilities really are on an entirely different level than those before it.
+
+Even on a newly initialized world with no levels.
+
+It’s rather interesting to watch.
+
+Anyways, I go ahead and dismiss all of my Death Spirits, as several of them were about to be caught. Then I open a rift to the Plane of Death and pass through it without another word.
+
+Let’s start some more death magic lessons. Then I can come back to see if anything else interesting is happening in that city.

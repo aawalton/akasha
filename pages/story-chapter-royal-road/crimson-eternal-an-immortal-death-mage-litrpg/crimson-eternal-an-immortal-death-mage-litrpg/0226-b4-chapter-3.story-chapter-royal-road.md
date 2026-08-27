@@ -1,0 +1,139 @@
+---
+id: 6a9f7061-b74f-5628-bedc-d9164fb97745
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 3"
+slug: 0226-b4-chapter-3
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 226
+ownLength: 1683
+unit: words
+ownProgress: 1683
+publishedAt: 2024-11-11
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1898221/b4-chapter-3"
+royalRoadId: "1898221"
+markedReadAt: "2026-06-29T19:13:25.229Z"
+---
+
+Aria
+
+“And done…” I mutter while slumping back in my office chair and staring up at the ceiling with a faint smile on my face. “No more paperwork.”
+
+“You did well,” Little Blue says with a smile of her own from across my desk as some of the mercenaries gather up the piles of paperwork sitting on my desk. “Now onto the next matter of business.”
+
+I sit up straight in an instant as I exclaim, “There’s a next matter?!”
+
+Little Blue blinks in surprise and tilts her head before asking, “You didn’t forget why you came here, right?”
+
+“Shirogane’s designation ceremony,” I answer without hesitation, making her nod her head.
+
+“And you didn’t expect to just walk in wearing that, right?” she comments while nodding again at what I’m currently wearing. Which consists of a regular T-shirt, jacket, and pants.
+
+I glance down at myself, not really finding anything wrong with my current outfit. Then I look back up at her again while tilting my head.
+
+She apparently doesn’t need me to say anything as she puts her face in her hand and sighs, muttering, “Right. Of course you did.” And after shaking her head in what looks like exasperation for a few seconds, she looks up at me again and asks, “Haven’t you worn a dress to every ball you’ve been to up till now? Why would this one be any different? We can’t have Death walking into one of the biggest parties in the entire universe wearing casual clothes like what you’re in now…”
+
+I stare at her for a few seconds before answering while still tilting my head, “Because other people put me in those clothes and I didn’t really care either way.”
+
+That has Little Blue staring at me for an uncomfortably long time.
+
+“What?” I ask, not really sure what’s going on.
+
+I’ve personally never really cared about clothes. I just wear what’s comfortable.
+
+And generally what’s comfortable is simpler and without a bunch of different layers and things to put on.
+
+She eventually sighs again and reaches down to the terminal on my desk to press a button. Then she says, “Catherine, please get ready. We’ll be down there soon.”
+
+“Of course, Your Highness,” the woman who I believe is in charge of the armory answers, confusing me for a second.
+
+Little Blue makes eye contact with me and says, “You still need to get changed for the opening ceremony party. I made sure Catherine knows the type of clothing you prefer, so don’t worry about that.”
+
+I blink at her before the girl goes around my desk and pulls me to my feet. And without hesitation, she starts pushing me towards the door while saying, “There shouldn’t be too much left to do, since you’re already perfect as is and don’t need makeup or anything to make you more beautiful, but the outfit we choose needs to be perfect. You need to make an impression on everyone there after all.”
+
+An impression?
+
+I try to look back at her as she pushes me out the door, but all I find is a bright smile on her face. As if she just got a doll to play with.
+
+Why do I feel like she’s doing this for more than just my making a good impression?
+
+Also, I swear I heard a mercenary mutter after that something about her being jealous of my not needing any sort of makeup. But I probably just imagined it.
+
+She continues pushing me until I start walking alongside her towards the armory. Then we enter some side room I didn’t know about, where I find a bunch of dresses, along with Catherine, who is standing next to some sewing supplies.
+
+Wait, does she do more than just armor? That’s convenient.
+
+My good mood drops a little though when I see the mountains of different dresses in the room.
+
+“We have several hours until the opening ceremony begins, so let’s use that time to its fullest,” Catherine says without missing a beat before moving over to the closest dress.
+
+I glance at Little Blue and quickly find her smiling at me with a bit of anticipation hidden beneath that smile.
+
+Seriously?
+
+Well, whatever. She’s still a kid.
+
+Might as well humor her for now.
+
+The Ceremony Hall
+
+Shirogane stares down at the people in the ceremony hall feeling more than a little bored. The hall itself is large with balconies spread on both sides of the hall looking out over the ocean beneath the castle and a floating dais made of water high above the hall itself holding two thrones, one of which Shirogane is currently sitting on. But the only other people up on the dais along with him are his father, who is sitting on the main throne without showing any hint about what he’s feeling, and whichever representative is currently paying their respects.
+
+The new Crown Prince makes sure to go through the motions, politely responding to each and every one of them. Accepting their gifts, their well wishes, and their praise while also making sure to study each one to watch their expressions with care. Seeing just how they think of him.
+
+Time passes, and with each person who introduces themselves, the number of people in the hall below grows more populated as they proceed to go down to join the festivities. And with each person, the next one is from a more influential power.
+
+But despite all of this, Shirogane can’t help but feel both anxious and bored at the same time.
+
+Anxious waiting for Aria to arrive, and bored because he knows she won’t be arriving until right before the other Nine Grands who are showing up. A position saved for her to show how influential she is without putting her on the same stage as the Nine Grands just yet.
+
+Both Shirogane and his father know perfectly well that Aria won’t care about any of the political symbolism behind how things are done, but they believe it to be best to do it that way regardless.
+
+Shirogane keeps moving through the motions of the night while occasionally looking around the hall at the different sections.
+
+To accommodate the various different types of humans and nations, the hall itself is split into several sections. Some of which are filled with lava, others water, and others pure land. All different types of terrain, each for different humans that have different living conditions.
+
+Meanwhile refreshments, all different forms of entertainment including music, stage performances, combat, and even sports are played throughout the enormous place.
+
+But Shirogane always finds his eyes moving towards the entrance despite all of the entertainment. Even as he entertains whichever representatives or royals are in front of him.
+
+He would pay a bit more attention to them, but they’re still the early officials belonging to the weaker nations. People who he won’t likely ever see again and don’t really matter to the nation.
+
+As time goes on, and more people pass though, he slowly focuses more and more. All the way till all of his attention is focused solely on the officials in front of him.
+
+Over time Shirogane gets fully absorbed into the introductions and politics. So absorbed that he almost misses it when the woman he has been waiting for finally enters the hall.
+
+And even then, the only reason he doesn’t miss it is because everyone in the hall goes silent the moment the doors open to the ceremony hall.
+
+Shirogane first glances down at the people, finding them all staring at the entrance in surprise. Some of them showing some fear, others showing awe. And when he follows their gazes, he finds the woman who he has been in love with for decades now walking into the hall without a single care in the world about the people staring at her. As if none of them exist.
+
+Whispers begin to fill the hall about the Horseman of Death. Harbinger of Death, Pale Horseman, Pale One, and Death herself.
+
+No matter which one of the many nicknames she has, they are all whispered across the hall by the many influential figures within it.
+
+Shirogane smiles as he admires Aria’s dress for the night. Something he knows for a fact that the youngest royal of the Atlantis Royal Family had a hand in preparing for her.
+
+The dress is largely red and black, with a mostly open back and exposed shoulders and frills going down the length of the dress’s skirt that alternate between red and black in color. Meanwhile the top part of her dress has a pattern on it that reminds Shirogane of the roses that people often put in Aria’s hair. Just like the rose decoration currently in her hair. With a band of fabric around both her upper arms.
+
+Her overall dress strongly reminds him of Aria herself.
+
+Almost like the dress was made for her.
+
+It reminds me of both death and beauty at the same time…
+
+The corners of his lips quirk upwards as Aria glides across the stairs of water up to the dais. And, as expected of a Horseman of the Apocalypse, she doesn’t bow or kneel or show any form of deference to Shirogane or the emperor.
+
+Instead, she nods her head towards Shirogane and says, “Congrats.”
+
+Then, amidst the awed silence of a room full of people no doubt seeing the black number above her head despite their incredibly high levels, she walks back down the stairs and joins the party.
+
+Immediately finding the closest and unsurprisingly most expensive wine in the hall. Then she moves off to a balcony and starts drinking it there without paying attention to the people following her with their eyes.
+
+Shirogane almost snorts in amusement at that.
+
+But that wouldn’t be princely.
+
+He looks at the girl with her figure framed by the large moon for several seconds before remembering that he has a job to do.
+
+And the next entrants are the Grands who chose to come.
+
+The most important people he needs to meet.

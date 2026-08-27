@@ -1,0 +1,127 @@
+---
+id: 019783a1-15f5-5284-8f41-d72131b7e2bf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,423 - Desperate Measures"
+slug: 0103-chapter-1423-desperate-measures
+partOf: defiance-of-the-fall
+position: 103
+ownLength: 2950
+unit: words
+publishedAt: 2026-04-16
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3282290/chapter-1423-desperate-measures"
+royalRoadId: "3282290"
+---
+
+It was as though the Duplicity Core anticipated Zac’s idea to set off a couple of bombs inside the Quantum Space and put an end to the plan. The passage to the Quantum Space wasn’t just sealed shut, it had erected an impassable wall that barred both Dao and Energy from passing through. In one swoop, a worrying situation had turned into a terrible one.
+
+Compressing the core before it was too late was no longer the only issue. The seal only kept Zac out, not the cosmos. Vast amounts of rootless energy was still pouring into the Quantum Space. The Duplicity Core was siphoning some, presumably to maintain the barricade, but not nearly enough to prevent a disaster. The Cosmic Core itself was already filled to the brim because of the slowed down pace he’d kept.
+
+Forget about days, Zac only had a few hours before the whole thing would go supernova. When that happened, it wouldn't be an issue of undoing all his work. Zac would be amazed if he could survive such an uncontrolled explosion.
+
+Zac repeatedly failed to quell his rampaging thoughts before finally reentering his Void State. With a calm, or at least rational, mind, he began to unravel the latest twist. Asking Esmeralda for help was no good. She couldn’t see the Duplicity Core or the quantum state of the realm because of its Technocrat perception-bending array. To her, Zac’s core was simply an inexorable mix of Death and Conflict.
+
+To find out the solution, he first needed to understand the cause. It was clear that his Kayar-Elu heritage had once again reared its head after faithfully cooperating throughout Hegemony. Why now? What could possibly be the goal of forcibly stabilizing his subrealm at this stage? Was the Duplicity Core trying to leapfrog him into Half-step Monarchy right away?
+
+If right, it was much too soon. Late Hegemons weren’t qualified to look at World Formation methods inside the libraries. Neither Esmeralda nor Tavza understood the exact mechanics behind a Mortal’s World Formation either, so Zac only had a few general outlines at this stage. Even if he went crazy and decided to give it a go, how could he? The core was sealed, so bringing inside his C-grade materials was impossible.
+
+Another possibility was that the Duplicity Core wanted to transform the Quantum Space in preparation for the next stage. If that were the case, Zac wished it would have at least allowed him to finish his breakthrough before taking over. His predicament could very well be another drawback of lacking the Digital Nexus to assist in his cultivation. If Jeeves with his perfected comprehension and control over Dao managed the Core Formation, the final compression might not even be needed.
+
+Zac’s heart was full of resentment as he inspected every nook and cranny of the Duplicity Core. He couldn’t figure out any ways of turning off the process or getting inside the Quantum Space. There was the option of cracking open a gap to throw a couple of bombs inside. Problem was, his Cosmic Core could only exist inside a quantum space. If the Duplicity Core was damaged, the whole subspace could unravel.
+
+Ten minutes later, Zac had only figured out one potential solution to his predicament—a solution more unconventional than using bombs to compress one’s Cosmic Core. Since time wasn’t on his side, Zac turned to Esmeralda for advice.
+
+“Did you figure it out?” Esmeralda asked upon seeing Zac turn to her.
+
+“Maybe. Can a C-grade Bloodline exert the pressure of an Inner World?”
+
+“Generally not as much as the real thing. Sometimes not at all. Only in a few standout cases can the bloodline surpass the weight of a world. For instance, Grand Traversal Toads form subsidiary spaces because we’re Space Attuned. Even if their purpose differ from an Inner World, their combined weight is no less—” Esmeralda cut off her boast as realization dawned. “You’re not thinking of breaking through while breaking through, right? Right?”
+
+“I’m afraid I am,” Zac said with a helpless smile.
+
+Advancing his Bloodline was the only possible solution he could think of that wouldn’t also pose a threat to his Quantum Space. Like Esmeralda said, there was no guarantees, but a C-grade Bloodline could help in many ways. Exerting the weight of his bloodline might allow him to destabilize the Quantum Space and trigger the last step of his Core Formation. If his bloodline was overbearing enough, it could even be possible to directly pressurizing his Cosmic Core into the right size.
+
+If the Void Emperor Bloodline was one that didn’t come with the type of weight central to C-grade cultivation, it could still assist in other ways. His Duplicity Core was only D-grade, so strengthening his control over the Void could possibly allow him to bypass its barrier. He might also be able to isolate the subspace from the Cosmic Sea, effectively cutting off the Specialty Core’s energy source.
+
+Taking that step now was obviously not optimal, but when had his Bloodline ever waited for the right time?
+
+“Ai, what am I supposed to do with you,” Esmeralda shook her head. “Just as I thought you might break through like a normal person.”
+
+“You’re preaching to the choir. And I’m sorry, I need your help,” Zac said, adding upon seeing her worried expression. “Not like last time. I might need you to take my place for a little bit while I step outside the memory. Don’t let the arrays shut down, and keep a backdoor open to let me back inside.”
+
+“This is insane. I remember what happened last time your bloodline went out of control. You want to unleash something like that when your Cosmic Core is in such a state? We don’t even know if it’d resolve your issues.”
+
+“Please. I’m out of ideas.”
+
+Esmeralda exhaled. “Fine, easy. Just give me a little bit of your blood and I can keep it occupied for a day or two.”
+
+“Give me a moment, I just need to figure out how to trigger the—huh?”
+
+The moment Zac decided on his path forward, a report came from his other half. There was a situation in Fuxi Halls. A small sapling broke through the scarred Judgment plateau. Zac almost forgot his worries as he watched it grow into a miniature tree in less than a minute. Its dark-golden bark had a spiraled pattern like it had been twisted into a rope. It had nine wiry branches, upon which unusual leaves grew.
+
+They looked like inverted teardrops that had inverted the laws of gravity. Instead of pointing downward, the leaves looked like they were about to be sucked into the sky. Dancing patterns covered them, and Zac blinked multiple times before confirming he couldn’t tell which color they were. It was like his eyes couldn’t process the information his body was telling him was there.
+
+There was also no mistaking the aura it emitted. The tree was a Void Treasure like the [Twin Eclipse] left inside the Hidden Earth Abode, and a C-grade treasure at that. More surprising, it also held a very familiar aura—the [Ketumatis Lotus] whose seed he’d brought into Poised Gardens.
+
+They’d been tasked with nourishing a spirit and gifted lotus seeds by the templar of Fertile Order in the outpost. Zac went above and beyond in that mission, though it mostly was to evolve his Void Vajra Constitution. Still, his actions had birthed an amazing spirit he’d been reluctant to hand over upon reaching Kabaton.
+
+To think he’d sense its unique aura once more. Just as surprising, the tree exuded an equally familiar pressure. It was a good thing he’d figured out a way to temporarily lure the ancient Killing Intent into the [Shrine of Kanba]. Who knew how it’d react upon encountering Saṃghāta’s Crushing Death again.
+
+At the same time, the hints of Life weren’t exactly that of the spirit he’d nourished, and there were unmistakable changes to the Crushing Death. It was like the essence of the two had been grafted onto an existing plant in order to steer its evolution in a specific direction. And that direction was Zac’s path.
+
+The familiar aspects of Life and Death acted as a bridge between Zac and the major Daos of Interment Gate and Ascension Gate. And like his own path, it was all held together by the Void of Fuxi Halls. In some way, the tree was the most accurate depiction of himself Zac had seen in his life. Not even Sendor had managed to copy his path when he created Null, his guide in the Perennial Vastness.
+
+Zac looked around, finding no reasonable explanation as to why a tree would appear out of nowhere. A roar of hunger brought his focus back to the Void Tree. Terrifying amounts of Void Energy were pulled out the mountain, much more than the full reserves of [Force of the Void]. The notion to divert the stream into [Fuxi Mountain Gate] was discarded the moment it was formed.
+
+A solitary tangerine grew from a branch. It was completely translucent like it was made out of glass. Inside, it was like a small galaxy made from the Void was formed. Zac felt he was just a hair’s breath away from uncovering something astounding inside when a deafening rumble shook the whole mountain. Zac looked up with a frown, wondering if the fruit’s birth was about to trigger a tribulation, one even deadlier than his own.
+
+The tangerine hummed before it became an issue, and the one was delineated into two. Zac realized what he’d just witnessed and his guts twisted with regret. The small, unassuming tree had actually birthed a fruit holding a sliver of Void Chaos. It had only existed for a moment, and that was enough to draw Heaven’s ire.
+
+There were now two tangerines on the tree, holding distinct Voids of Life and Death. The manic cravings of his body had only gone down by a few degrees by the transformation, and all of it was pointed to the Life-attuned fruit. Zac saw no reason to deny himself. He didn’t think for a second that his Luck had ballooned to the point it would make priceless treasures appear out of nowhere.
+
+He knew someone, most likely Roan or Margrave Wartorius, was setting him up for their own goals. Both knew about his connection to the Void. It was possible they understood it better than Zac did, considering the situation of Fuxi Halls. Zac still hadn’t forgotten the scene where Wartorius inverted Dao and Void, something not even the Void Emperor Bloodline could accomplish.
+
+Being the pawn in someone else’s game was nothing new. Zac would even have welcomed the situation if not for the pressing situation with his Cosmic Core. His Bloodline Breakthroughs weren’t particularly difficult or dangerous on its own. The problem was sourcing the excessive amounts of required materials. The Left Imperial Expanse held greater riches than he could eat in a lifetime, but it also housed deadly arrays and C-grade threats.
+
+With the Supremacies giving the green light, he could feast without fear. The situation was just the one Esmeralda described when they first uncovered the hidden purpose of the trial. The bigshots could plot as much as they wanted so long as there were riches to loot. Zac would play his part and use it to turn a calamity into an opportunity.
+
+On the other side of the Left Imperial Expanse, Zac stepped to the edge of the Core Formation Array. It had only taken Esmeralda a few minutes to circumvent the basic functionality of the island’s seal. Once you left, your fate with Dome Lake was considered at its end. Now, Zac could come and go as he pleased unless an Elder came along and noticed the problem. If that happened, Zac could only blame his luck and finish the Core breakthrough with his mobile arrays.
+
+With time of the essence, Zac didn’t go far after rushing far from the lake and the memory. After a few minutes of looking around, he found a manor with a reinforced treasury hidden deep underground. It was surrounded by majestic ruins holding some of the most powerful defensive arrays in the region.
+
+The compass didn’t work, so Zac had to use the [Court Cycle Token] when passing by the grand structures. When inside, he activated [Abyssal Drive] with Void Energy to sneak through a crack no wider than a strand of hair and sealed the exit behind him.
+
+By that point, the Void Tangerines had finished growing on the other side. They had completely drained the mountain, and the tree itself was left but a husk. It had given everything to bring its fruit into being. While the tree mimicked Zac’s path, it clearly couldn’t sustain itself for long in the real world.
+
+“Damn it!” Zac sucked in his breath when he plucked the fruits.
+
+His face contorted with pain as he looked at his left hand. The pain was an emotional one, and he would have preferred the fruits caused his limbs to explode over what it actually did. The majority of the Imperial Merit had disappeared the moment the tangerines detached from the tree, leaving him nearly broke.
+
+Zac had wondered why the head honchos dared involve themselves with his breakthrough after staying hands-off for so long. It turned out they kept themselves safe by enforcing balance. Two Supreme-quality C-grade Void Treasures for nearly 60,000 Imperial Merit was certainly a good deal, yet Zac couldn’t help feeling he’d been tricked.
+
+With the fruits rapidly withering, he could only keep going. The one holding Void-inverted Death was sent over to his Draugr side for ingestion.
+
+“Here goes nothing,” Zac muttered before biting into the fruit.
+
+A terrifying suction erupted within Zac’s body before his taste buds had the chance to register the pulp touching his tongue. His Void Emperor Bloodline had been agitated for weeks, and it pounced on the energies flooding his bodies. The gateways at the bottom of Zac’s cells opened wide to create billions of pathways to the Void Space beyond.
+
+Streaks of light-gray lightning peeked outside and were forcibly yanked back before the deluge of fruit juice poured in. So it turned out the trapped tribulation was still struggling after a whole month had passed. Judging by its hue, it was already on its last legs. With the tangerine’s energy injection, the Four Desolate Lightning would join the other materials in fueling his ascension.
+
+The more his cells swallowed, the hungrier Zac grew. Despite the tangerine’s otherworldly sweetness, its fruit juices may as well have been salt water. This time, Zac leaned into the hunger, fanning the flames while maintaining a core of clarity. There was nothing that could or needed to be done with his Cosmic Core at the moment, so he focused all his efforts on guiding the Void.
+
+Zac urged it to expand its search outwards, reminding the hunger there were countless treasures hidden in the wealthy neighborhood outside. This was the reason his Draugr side needed to step out, and getting the Tangerines didn’t change anything. They would kickstart and set the foundation for his breakthrough, but the quantities involved in his breakthrough were on another level completely.
+
+The ruins of the Mercurial Court was the perfect hunting ground. The same couldn't be said about the Fuxi Halls outside. While the sprawling mountain range undoubtedly held countless treasures, including precious Void Treasures, those were not his for the taking. Getting a helping hand in form of a magical tree didn’t mean the Supremacies would sit by as he turned the Hollow Court on its head.
+
+During his previous breakthrough, he’d managed to mostly focus his plunder on the Centurion Lighthouse, only snatching a few treasures from the Ensolus Ruins. With his body in a decent state and his Heart Cultivation significantly enhanced, Zac believed he should be able to exclusively target the Mercurial Court for sustenance.
+
+The Void needed no further prodding to extend its hungry tendrils. And as they went further from Zac’s hideout, so did his perception expand. The ancient, faltering arrays proved utterly helpless before the Void. One treasure after another was dragged into a Void Vortex. The vortices closed, leaving no sign of their passing.
+
+With Zac awake and in control this time, he avoided targeting ruins that gave off a forbidding aura. Still, stealing everything from hidden treasures to whole sections made from spiritual materials was impossible without leaving a mark. The outside world rumbled as ruins collapsed and malfunctioning arrays lashed out at random.
+
+Zac was ready to escape at moment’s notice, but he was safe for now. He’d intentionally avoided the surrounding buildings in his hunt for sustenance. Now, their sturdy formations acted as his Dao Guardians as Zac sacked the neighborhood.
+
+Zac felt as though he’d become a copy of the tree on the other side. His physical body was only a fraction of the root system that stretched through the seams of reality. The tendrils reached farther and farther in its insatiable search for sustenance. Zac was soon covering an area greater than his island back home.
+
+With the Mercurial Court as his feeding ground, Zac felt himself rapidly approaching the tipping point. His mind grew fuzzy as desperate hunger transitioned into satiated satisfaction. The rumbles outside continued unabated, though Zac hazily noted a different tone in the mix. The unmistakable roar of thunderclouds had joined the cacophony.
+
+Wait, why was there thunder? The Heavens had retreated after the tangerines split, and his Bloodlines had never triggered tribulations before. There was no one to provide an answer, and the world faded to black.

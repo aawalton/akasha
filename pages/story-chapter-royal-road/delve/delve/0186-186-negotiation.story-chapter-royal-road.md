@@ -1,0 +1,239 @@
+---
+id: 8cef21bb-c52f-594e-ae03-c4f09462d321
+page-type-slug: story-chapter-royal-road
+title: "186: Negotiation"
+slug: 0186-186-negotiation
+partOf: delve
+position: 186
+ownLength: 3934
+unit: words
+publishedAt: 2022-03-20
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/867991/186-negotiation"
+royalRoadId: "867991"
+---
+
+“Got him,” Rain said, striding purposefully along the wide stone-paved thoroughfare that ran the entire length of the high city. Majestic buildings flanked the street on either side, upscale residences, from the look of them, with the occasional specialty shop here or there as indicated by often-colorful signs.
+
+“How far?” Ameliah asked, walking beside him, with Jamus, Nails, and Emerton following in their wake. The street wasn’t exactly bustling, but there were plenty of people to be seen, going about their day-to-day business. As Rain and his party hustled by, people were quick to clear a path, but in the way people would avoid an oncoming wagon, rather than in abject terror.
+
+“About a hundred meters,” Rain said, pointing after he pinged again. “Down there.” Leading the way, he turned onto a side street, which he now saw led to a stone wall. A pair of guards stood beside a large wooden gate in the wall, across yet another street running parallel.
+
+“The wall is enchanted,” Ameliah said, lowering her voice. “There’s a faint curtain of Force mana rising up from it like steam. It might just be a Wind Wall to keep out the smell, but I’m betting there’ll be a Motion Sense alarm too, which would explain how Val got caught.”
+
+“Are such alarms common?” Jamus asked. “I’ve never heard of them before.”
+
+Ameliah nodded. “Common enough, but only in larger cities and for richer nobles. The enchantment’s based on a Tracker skill, I think. Either way, Val should have known better than trying to climb over without checking in first.”
+
+“Skulking around’s new to him,” Rain replied. “He’s more of a direct-approach kind of guy. Anyway, look alive. We’ll play nice as long as they play nice.”
+
+As Rain reached the intersection, he saw that the wall was gently curved, extending for some distance in both directions before merging with the cliff face. Detection told him that there were several dozen people inside.
+
+After checking for cross traffic, Rain cut a straight line toward the guards, though he had to swerve to dodge an enormous horse pile lying right in the center of the road. Three Cliffs so far had been an olfactory experience, to say the least. With the attack on the city, its waste management systems had doubtless been disrupted, but even that wasn’t enough to explain the filth he’d spotted—or more often smelled—pooling in the alleyways. There was no sewer system, clearly, and, from the number of people he’d seen hauling buckets, no running water either. He was aching to activate Purify and scour the entire city until it sparkled, but that would have to wait.
+
+The guards stiffened at their rapid approach but made no move to draw their swords as Rain’s party stopped in front of them. Both were armored in chain-mail and gambesons beneath matching tabards in blue and green. The colors of the Barge King, unless Rain was way off the mark.
+
+“Hail, adventurers,” one said as they came to a stop. “I take it you have business with our captain?”
+
+“It seems we do,” Ameliah replied, glancing at Rain. “We’re looking for one of our party members. We believe he’s inside.”
+
+The guard shared a look with his companion, then returned his attention to Ameliah. “Would this party member happen to have scars on his cheek in the shape of teardrops?”
+
+“He would,” Ameliah confirmed.
+
+Rain frowned behind his visor. Well, that tears it. Val definitely caused a scene. He’d better not have hurt anyone. Unless they hurt him first, in which case…
+
+“Wait here, please,” the guard said. Turning, he opened the gate and hurriedly slipped through. Rain caught a glimpse of grass and trees before the wooden door closed. That was enough for him to place the compound as one of a few gardens that he’d noted on the way down the cliffside. A few quick pulses from Detection confirmed it.
+
+“Well then,” Jamus said, straightening his robe before addressing the other guard. “Would you care to tell us what happened, my good man?”
+
+“I don’t know nothing,” the other guard replied, shifting nervously. “I had nothing to do with it, and I don’t want to.”
+
+“Relax,” Rain said, not bothering to correct him for his double negative. “We don’t want trouble. Once we collect our wayward sheep, we’ll be on our way.”
+
+Ameliah snorted softly.
+
+“I—“ The guard swallowed hard, not at all put at ease. “Yes, sir.”
+
+After a long and increasingly awkward silence, the other guard returned with two more, similarly armed and armored. Rain and his party were ushered inside, escorted by the two new guards through what turned out to be quite an elaborate garden indeed. Ameliah’s guess about the Wind Wall was proven correct, as the moment the door closed behind them, the foul stench of the city became nothing but a memory. Even the tang of salt vanished from the air, replaced by the earthy aroma of growth. A wide dirt path wound through the verdant landscape, which had been sculpted into the imitation of rolling hills, liberally planted with fruit trees. The trees’ branches were laden in defiance of the season, plainly showing the hand of magic to be at work.
+
+“Warm in here,” Emerton observed.
+
+“I hadn’t noticed,” Rain replied without thinking, only to be shushed softly by Ameliah. He grimaced, remembering that they were trying to keep the capabilities of their armor a secret. Thermal Regulation wasn’t too impressive of an enchantment, but still.
+
+Before long, a rich voice came into hearing, speaking over a faint buzzing sound.
+
+“Are you sure you don’t want some?” it asked, full and resonant.
+
+“I’m all set,” Val replied, his voice clearly pained. “I’d sure love…to be let down…though.”
+
+“I am sure you would,” the round voice replied. “Ah, here they are now.”
+
+Following the guards around one of the hills, Rain took in the scene, seeing a cluster of people near a tree and a line of box-like beehives. Rain’s attention went first to Val, who was hanging from a chain directly over the hives. A metal collar had been clamped around his midriff, pinning his arms to his sides. He was dangling from it, hunched over, and his clothes were wet, making him look like a soggy dishtowel. Rain’s eyes then went to the figure standing beside him, and he almost stumbled.
+
+To say that the Barge King was enormous felt insufficient.
+
+Rain had met truly tall people before, even a few pushing 210 cm. He’d also seen his fair share of overweight individuals, given the state of health in modern society. The Barge King took both metrics to a new level, being tall enough to play professional basketball, while at the same time being wide enough to feature on reality television.
+
+Holy shit.
+
+Like a locomotive pivoting on a turntable, the Barge King swiveled to face them, gripping a large piece of honeycomb in one hand. He began walking forward, and with every step, the flesh beneath his rich blue and green robe wobbled with earthquake-like tremors. Rain was glad that his visor was concealing his expression.
+
+Ogres aren’t a thing here, and yet…
+
+Despite the jiggling, the giant man’s steps were powerful and controlled, showing a warrior’s grace, with a trio of servants trailing after him. Clearly, his Strength was more than up to the challenge presented by his incredible bulk. He was also rather old, Rain realized, his age given away by long wavy gray hair, held back by a silver circlet across his brow. His face was clean-shaven and just as puffy as the rest of him, with only a few wrinkles showing at the corners of his blue eyes. The sausage-like fingers of his left hand were adorned with rings, while his right hand was bare.
+
+Ameliah’s voice suddenly sounded in Rain’s mind. [We heard he’d be big, but depths take me. I am in awe. Anyway, the robe, rings, and circlet are enchanted. He’s got too much Arcane resistance for me to read his internal mana level, so I can’t tell if he’s a Warrior or a Mage, but something tells me it’s both. No weapon that I can see, though.]
+
+Rain gave her a minute nod of thanks, feeling suddenly uneasy. His hair was trying to rise on his neck, the primal sensation strong enough that he switched to Arcane Ward for a moment, just in case it was an attack. When that didn’t help, he tried Mental Ward, but again, the sensation remained.
+
+[Careful,] Ameliah spoke again. [He’s not a pushover like that last guy.]
+
+Rain frowned. Is she feeling it too? Switching back to Force Ward, he began examining the sensation even more closely. The guards who’d been leading them had come to a stop at the approach of their master, and he was perfectly content to wait with them to give himself a few extra seconds to think.
+
+This feels…instinctual. With Thrast, I could almost tell he wasn’t a threat, just by looking at him. Meanwhile, this guy, casually walking toward me, feels like a bear ambling out of the woods. He’s certainly big enough, but it’s more than that. It’s not just physical. I KNOW I don’t want to fight him. My paling is sealed, so I shouldn’t be getting anything from him through linksight or whatever, but… I need to talk to Ameliah about this later. Here we go.
+
+“Well then,” the Barge King said, wobbling to a stop and looming over them. He inspected Rain and his party for a moment before gesturing to the guards. “You are of no further use here. Return to your posts.”
+
+“Sir!” the guards spoke in unison, then spun to depart.
+
+“Five more visitors,” the Barge King mused, ignoring the retreating guards and lifting the honeycomb to his mouth. He took a sloppy bite that sent honey dripping down his chin, then gestured with his snack, indicating the surroundings. “What do you think of my garden?”
+
+“It’s very nice,” Rain said, failing to hide the tension from his voice. “Now, why do you have my friend strung up like a side of beef?”
+
+“What else am I to do with a thief?” the Barge King asked, arching an eyebrow as he accepted a cloth from one of the servants to dab at his chin. The fully-grown woman looked like a child, standing behind his elbow. “I am told you have come to collect him,” he continued. “Tell me, why should I release him to you when I have no idea who you are?” He consumed the rest of his honeycomb in a single bite, chewing as he waited for a response.
+
+Not knowing quite what to say, Rain remained silent, and clearly for too long, as the Barge King continued before he’d found his voice.
+
+“No, if we are to reach an understanding, first we must attend to the pleasantries,” the enormous man said through a mouth that was still full. Reaching up to it with a pudgy hand, he removed a ball of wax, drained of its sugary contents, which he promptly handed to the same servant that had given him the cloth. She accepted it with a bare hand wordlessly, tucking it into a pocket.
+
+Ew.
+
+The Barge King wiped his hands with the cloth before returning it to the servant as well. “I shall ask again. What do you think of my garden?”
+
+Rain shook his head slightly. “I meant what I said. It’s nice. Very non-seasonal. Now can we—”
+
+“Come now,” the Barge King interrupted, waving a hand the size and approximate shape of a roast chicken. “Surely you have more thoughts than that.”
+
+“Surely I do,” Rain replied. “It’s just that I’m not particularly interested in swapping gardening tips when my friend is dangling from a tree. Is he hurt?”
+
+“Not permanently,” the Barge King said with a sigh.
+
+“Val, you okay?” Rain called.
+
+“Do I look okay?” Val called back, thrashing on his chain, making it clank and rattle. “Hogsides there keeps trying to feed me like I’m a pig for market. Get me the hells down before he decides to eat me!”
+
+The Barge King grimaced. “You see? Plenty of life left in him.” He looked over his shoulder, his tone darkening. “A less tolerant man would say too much.”
+
+“Just give him to us, and we’ll go,” Rain said. “He’ll be punished for insulting you.” Damn it, Val, watch your mouth, you lemming. Hogsides? Seriously?
+
+Still looking over his shoulder, the Barge King spoke, though he was clearly addressing Rain. “You are very young, aren’t you?” He heaved a mountain-sized sigh, then returned his gaze forward, wearing a speculative expression on his face.
+
+“What makes you say that?” Ameliah asked, laying a hand on Rain’s forearm.
+
+The Barge King turned to look at her. “Why, everything, my dear. Your voices. Your bearing. Your insecurity.” He turned his attention back to Rain, his eyes flicking down to the silver plate resting against his chest. “You are unused to the power that you hold and ignorant of how to wield it in the face of one who can challenge you. It is as plain to me as the flowers covering these hills. You have not had those plates long, I think.”
+
+“I’ve had mine for about thirty minutes,” Rain said, just about done with this. “Will you release him or not?”
+
+“You see?” the Barge King said, glancing at Jamus as if for validation. “Young. Flip.” He returned his focus to Rain. “Must I spell it out for you? If our conflict becomes an open battle, my garden would be destroyed. I did not pour so much of my soul into it to see it lost in a squabble over some dripping bilge rat.”
+
+“Hey!” Val shouted, as if he had any right to be offended after calling someone a pig to their face.
+
+The Barge King continued as if there’d been no interruption. “Further, in the clash, the two of you together might be able to defeat me, but before you did, your man would die, as would the three others behind you. I would make sure of it, purely out of spite, as well as to punish you for the mistake of bringing me additional leverage. And so I call you young. Do not bring bronze when dealing in silver.” The way he spoke the last line had the unmistakable ring of a saying.
+
+Rain and Ameliah shared a long look in the following silence as the others shifted nervously.
+
+“He’s kinda right,” she finally admitted.
+
+The Barge King heaved an amused snort. “Now that you’ve come to your senses, would you do me the common courtesy of removing your helmets so I can see who I’m talking to?”
+
+Rain and Ameliah shared another long look.
+
+“I promise I will not attack you when you do,” the Barge King said tiredly, rolling his eyes.
+
+With a small shrug, Ameliah turned to look at the Barge King, and her helmet abruptly vanished. She raised the hand not holding her bow to brush her hair from her face. “Ameliah,” she said simply.
+
+“Interesting,” the Barge King said, massaging his hairless jowls. “Heavy Armor Inventory, I believe. I also see that I was right. You are very young. Hmm. And quite lovely.”
+
+Rain bristled.
+
+“Thanks?” Ameliah tried.
+
+“Alas that my wild youth is behind me,” the Barge King mused to himself, lowering his hand before shifting his attention to Rain. “And you?”
+
+Resignedly, Rain unlocked the catch of his visor, then raised it to reveal his face. Removing his helmet entirely would be too much. He couldn’t just resummon it like Ameliah could nowadays. “Rain,” he said, meeting the Barge King’s eyes. “Captain of Ascension. The three behind me are Jamus, Nails, and Emerton. You’ve already met Val.”
+
+“There, was that so hard?” the Barge King asked. “And now it is my turn. Call me Captain Bakal. I’ll thank you not to use the moniker that my fellows have laid upon me in my dotage. I find it most distasteful, even if it is…apt.”
+
+Rain nodded. “Captain Bakal, then. What do you want in exchange for releasing my friend?”
+
+Bakal smiled. “There, that is better. I have something you want, and you have asked me what it is that I want. This is the way people of our standing should conduct themselves. I am relieved to see that you are a quick learner.”
+
+“I am,” Rain agreed, relaxing marginally.
+
+He really is right. Even with my visor open, hells, even using the wrong Ward, a single sneak attack won’t kill me anymore. With the accolades and the rings on top of my Force resistance, I’ve got just enough health to tank a hit at the damage limit. I made sure of it before I came down here.
+
+Unbidden, his mind went back to the standoff between Halgrave and Lavarro in the Fel Sadanis guild. Neither of them had wanted to risk an all-out conflict either.
+
+I’m not quite there, but to think that I’m operating on the level where I need to worry about breaking a city if I fight someone for real. This is going to take some getting used to.
+
+“What I want is simple,” Bakal said, turning and walking back toward Val while gesturing for them to follow. “I want to live the remainder of my days in the garden that I have built, free from the excitement of my youth. I want to be able to live in peace without worrying about spies creeping over my walls or about the Empire trying to knock them down. I do not expect you to be able to do anything about the latter, but as to the first, tell me, why did you send a sneak creeping into my home?”
+
+Having reached the hives as he’d been speaking, Bakal reached out and attempted to take Val by the chin. Val jerked away as best he could, with much grunting and clattering of chain. Hurriedly, Rain cleared his throat, making the old pirate abandon Val and turn back to face him.
+
+“I sent him to gather information about you, nothing more. We’re new to the city, and we’ve got a lot to lose. I wanted to make sure you weren’t a threat to us.”
+
+“And now that you have met me?” Bakal asked. “Do you call me a threat?”
+
+“I suppose not,” Rain said. “We’d be happy to leave you alone, provided that you leave us alone.”
+
+“Hmm,” Bakal said. “And I am to take you at your word? Say I release your foolish, information-gathering friend and let you go. What would stop you from returning here and attempting to kill me in my sleep?”
+
+“The fact that we’re not murderers?” Rain replied.
+
+Bakal laughed. “Good answer. But again, I have only your word of that.” He sighed, rubbing his eyes. “So troublesome. Perhaps an exchange, then, in good faith. There is something I need done, but I am not willing to leave my home undefended when Adamants are skulking about.”
+
+Ameliah glanced at Rain, then looked back at Bakal. “What do you need?”
+
+Bakal turned to her as he replied. “I loaned one of my Nature Mages to the Darkmane for her ship-building project, and when the Adamants attacked, she locked my man away in her vault for safekeeping. She died in the fighting, a loss I cannot say I am terribly upset about, but now my Mage is facing starvation behind a door that has thus far proven impenetrable. My crew has failed, as has that feckless idiot Thrast. You strike me as much more deserving of your plates, even if you are so painfully young. If you free my Mage and return him to me unharmed, I will return your sneak to you.”
+
+“Sounds reasonable enough…” Rain said. “Is the vault in the city?”
+
+“In the Darkmane’s manor,” Bakal replied, waving a hand. “Just ask someone for directions.”
+
+Rain glanced at Val. “I suppose we could do that for you, but not if you keep Val strung up like that until we get back. It looks uncomfortable.”
+
+“It sure is,” Val grunted.
+
+“Hmph,” Bakal said, turning and using his incredible height to grab the chain where it had been hooked over the tree branch. With one hand, he unhooked it, then turned and lobbed Val and chain both toward Rain’s feet. “Take him. Payment upfront.”
+
+Rain was so stunned that he didn’t attempt to catch him, and Val let out a startled squawk before hitting the ground face first.
+
+“You’re just giving him to us?” Jamus asked over Val’s muttered curses. He stepped forward to help the bound duelist back to his feet.
+
+“His whining pollutes the air,” Bakal said, motioning to one of his servants. “Get me another honeycomb from the hive on the end,” he commanded.
+
+“You okay, Val?” Ameliah asked, placing a hand on his shoulder. “Here, let me heal you.”
+
+“Thanks,” Val replied. “He’s a Hydromancer, if you didn’t know. He hit me with a wave out of nowhere. I took a bit of a pounding, but I don’t think he was trying to kill me. There, that’s good enough.”
+
+Bakal sighed, then turned back to face them once more. “I am too old for this game, which is why I am here, not on the seas with the cowards that fled when the news began to sour. I no longer have the stomach for running around pointlessly.” He slapped his enormous belly, as if to punctuate that point. “Yes, I am just giving him to you. I see no need to further motivate you when we both know that you will do what I have asked. It is a quest. You are Guilders. Guilders love quests.”
+
+Rain found himself smiling at that. “I think, despite our rocky start, you just might be okay.”
+
+“Am I, now?” asked Captain Bakal, accepting the fresh honeycomb from his servant.
+
+Rain nodded, feeling much better now that Val was safely behind him and Ameliah. “Provided, of course, that your Mage wants to come back to you and isn’t a slave or anything.”
+
+Bakal smiled. “The Darkmane was the slaver, not I. Even in my youth, I found dealing in flesh a waste of time. Too much risk for too little reward. Isn’t that right, Tamin?”
+
+“As you say, sir,” said one of the servants, who Rain only now had a proper look at. He was old like Bakal, but he wore his years much more openly.
+
+A former crewmate?
+
+Rain’s eyes caught the scars on the man’s wrists, only partially hidden by his tunic.
+
+No, a former slave. Maybe both.
+
+“You see?” Bakal said through another mouth of honeycomb. “We are all friends here. Now, if you will kindly remove the noisome rodent from my garden as you have promised, I have important business to get back to. Femar, see them out, then bring me a pitcher of wine and a braised lamb shank, I think, to enjoy by the pond.”
+
+Turning, Bakal began walking away with his honeycomb, not bothering to see if his orders were being carried out. “Oh,” he said, suddenly stopping and glancing back. “Whatever else you find in the Darkmane’s vault is yours to keep, not that I think you’d agree to share, or even if you did, that you would give me an honest accounting.” He chuckled as he turned away again. “You Guilders. So ashamed to admit your greed. We pirates, at least, see no need to pretend.”

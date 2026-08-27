@@ -1,0 +1,33 @@
+---
+id: efcf4cdc-575b-58fb-ad44-175ce9234771
+page-type-slug: story-chapter-royal-road
+title: "Defiance of the Fall, Soon in a Bookstore Near You!"
+slug: 0122-defiance-of-the-fall-soon-in-a-bookstore-near-you
+partOf: defiance-of-the-fall
+position: 122
+ownLength: 515
+unit: words
+publishedAt: 2026-06-16
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3547108/defiance-of-the-fall-soon-in-a-bookstore-near"
+royalRoadId: "3547108"
+---
+
+Riding on the coattails of giants like Dinniman and Shirt, it's time for Defiance of the Fall to venture into the wider marketplace. After seven years, the series is getting a physical release! Preorders for Defiance of the Fall Book 1 are now up on various storefronts through Simon & Schuster.
+
+You can find links to the vendors in the author notes.
+
+It's a big deal for any author to see their work in actual stores, and I wanted to provide the best story that I could. Defiance of the Fall was the first thing I wrote, and the books were written at a frantic pace as I built my audience. Combine the two, and there'll inevitably be room for improvement.
+
+So that's what I did. For these releases, the books are getting a facelift, and not only through new covers.
+
+We've done an exhaustive editing pass to fix as many of the ancient issues as we could. Since we were doing major renovations anyway, I also took the opportunity to fix some story issues that have been bugging me. Apologies to you metric-lovers out there, but Zac no longer describes measurements as "tens of decimeters."
+
+I also performed sweeping nerfs on the integration's early stage. Zac no longer bought E-grade arrays for 75,000 Nexus Coins, nor did he get E-grade equipment when level 30. Most importantly, he wasn't competing for a D-grade treasure two months into the integration. Almost everything has been adjusted to fit with the grading used in the later books, including the tall tale of a Hegemon destroying a B-grade planet for his godbeast.
+
+Altogether, we've made over 15,000 edits to book one alone. My hope is that this definitive edition will serve as a better introduction to the series. We'll continue this trend into the following books, though the focus of these edits may vary as we progress. In the later books, I might focus more on pruning the cultivation sessions. While I like that stuff, I'm aware it's not everyone's cup of tea.
+
+It was these edits that forced me to go start the summer break a month early. (sorry!)
+
+It was a novel experience returning to where it all started. It felt weirdly embarrassing, like going through your social media posts from when you were a teenager. It was also fun to see all the budding plot threads again, of which not all made it into the story. Others were ultimately left on the wayside (do you remember Zac thinking of his neighbor's dog while encountering a salamander in the mines? That was foreshadowing of him picking up a truck-sized pug when he finally returned home to Greenworth).
+
+I got off track. I'm writing this to ask for your support. As those of you who have read similar posts here over the past months know, the number of preorders is an important metric for the treatment a book will enjoy in the store. So whether you're interested in reading the new edition, to add to your collection, or just support me and DotF, please consider preordering the book.

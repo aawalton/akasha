@@ -1,0 +1,175 @@
+---
+id: 26b1a876-323a-5dd5-95bb-a46d9f0d3008
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 15"
+slug: 0017-b1-chapter-15
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 17
+ownLength: 2338
+unit: words
+ownProgress: 2338
+publishedAt: 2024-01-06
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1467931/b1-chapter-15"
+royalRoadId: "1467931"
+markedReadAt: "2026-06-29T19:06:25.185Z"
+---
+
+Aria
+
+I quiet my breath as I kneel close to the ground, looking through my scope at the deer several dozen meters away. And after double checking everything one last time, I pull the trigger, making the sound of the gunshot echo throughout the forest near the capital. Then the deer falls over onto its side. Dead.
+
+[User has killed one being of Level 4. Requirements to reach level 3 have been updated. New requirements are as follows: 25/250 beings have been granted Death.]
+
+Okay, that’s good at least. When I tried to kill some ants on the roadside this morning, I only got tiny fractions of a ‘being’ counted to the total. Fractions so small that they don’t even show a difference. Just makes it repeat the same number again. No matter how many of them I kill, even in the thousands.
+
+So I’m glad it counts animals as beings at least. It’s not just sapient humans.
+
+I sigh at that as I rise to my feet again.
+
+It’s a good thing that the instructor decided to give us all a couple hours off at the end of the day before sundown to train with our System related stuff. Like trying to level our Classes and test our skills.
+
+I glance back at the bustling city behind me, finding the light snow falling down beautiful despite the smoke rising from chimneys around the city. Meanwhile the train can be seen arriving at the capital right now, roaring its presence in the process.
+
+Generally the woods around the capital are protected from hunting, but officers are allowed to hunt here. Especially if they have a reason.
+
+And we’ve been given a reason thanks to the System.
+
+Although the instructor just thinks I’m training my skills.
+
+Speaking of my skills, I glance at the deer again before narrowing my eyes slightly at the sight of a strange mist slowly floating from its body.
+
+That’s not normal.
+
+The mist is white and black in color, albeit almost entirely white with only a few specs of black. And it’s very slowly leaving its body and making its way into the air.
+
+I walk up to the mist, only for it to suddenly halt its path and turn towards me when I get within a couple dozen meters of it. Then, to my surprise, it enters my body. But I don’t really feel any discomfort from it. Just a strange alien sensation that I instantly realize I can reject or accept.
+
+Out of curiosity, I accept it. Following which the alien sensation begins to fade and I feel a strange… energy? I think that’s the only way to describe it. A strange energy filling my body. One that I somehow know how to move around and control.
+
+I clench and unclench my fist, feeling a strange strength in me as I do so. Not to mention a faint red glow from the energy.
+
+After a brief pause, I turn to a tree, place my rifle onto the ground, and deliver a punch straight to the center of it, finding my fist doing more damage than it normally would. Meanwhile the energy that had filled me burns ever so slightly for a second, only to gradually begin to return.
+
+Hmm…
+
+I feel like I can control the energy as well. So I begin moving the energy around, making the feeling of power shift along with it.
+
+Interesting.
+
+I move all of the energy to my right arm, into all of the muscles that I would normally use to punch. Then I deliver another punch, dealing a lot more damage this time while also pretty much scraping my fingers raw from the punch. Which proves that while this energy is making me stronger, it isn’t making me more durable.
+
+Not that it matters since the damage is healed almost immediately.
+
+Okay, so what happens if I reject the mist? The skill mentioned two different choices. Does this mean I fully absorbed the soul of that deer, assuming it was its soul?
+
+If that’s the case, rest in peace deer.
+
+I quickly open up the skill list again just to check the skill’s description once more.
+
+Skills
+
+Skill Name:
+
+Skill Description:
+
+Harvest
+
+This skill allows the user to harvest the souls of the dying around them. They can then devour the soul energy within them, sending the souls off to the void. Or they can devour the soul whole, taking in the cores of their souls and erasing them from reality itself in the process.
+
+What does it mean by ‘taking in the cores of their souls and erasing them from reality itself’? Does it mean I just get more of that energy? Or is it something more than that?
+
+Several seconds pass as I try to figure it out, only for me to eventually shrug and decide to try hunting a few more animals to test it out.
+
+“Huh…” I mutter before pursing my lips as I stare at my open palm.
+
+Unexpected.
+
+After experimenting a little bit, I’ve learned a few things about the skill.
+
+For one, when I ‘reject’ the soul, I get a bunch of energy – the same amount as when I accept the soul – but the energy doesn’t regenerate after being used. As opposed to when I do accept the soul and the energy regenerates slowly after use.
+
+I’m guessing it’s safe to say that the core thing is responsible for that.
+
+But I can only seem to hold a certain number of souls in me at once. Because when I tried accepting more than two souls, I realized that one of the other cores would leave just like the rejected souls would. Except that the core would just crack in the form of mist dissipating in front of me instead of going into the sky like the rejected souls.
+
+Makes me wonder if the limit correlates to my level, since I’m level 2 right now.
+
+As for the whole ‘erasing the souls from reality’ thing? I don’t really care one way or another.
+
+There aren’t any religions in our world, so pretty much everyone is atheist. The only religions that did exist died out on the other continents and never crossed over. At least not with a strong enough following to actually spread before those people themselves died from old age.
+
+So the idea of the void is just foreign to me and most other people here.
+
+Erasing a soul to the point that they can’t enter the void, whatever that is, in my eyes is no different still from just killing someone like I would before.
+
+Still, it would be best to save the slots I have for powerful souls. So accepting every soul is a bad idea and a waste.
+
+I glance up at the sky to find that the sun has already set.
+
+Hmm, I should get some sleep before training resumes tomorrow. The instructor said we’d be sparring first thing after all.
+
+With that thought, I begin jogging back to the city after grabbing my rifle and hanging it over my shoulder by the strap.
+
+The Training YardThe following day
+
+First Lieutenant Johnathan Mark Roses stands with his hands held firmly behind his back in a row next to the rest of the officers participating in this training course. And he feels nothing but pride in having gotten this promotion. But every time the man sees the girl participating in the class with them, he feels conflicted.
+
+Part of him dislikes her since he’s sure her promotion to this rank must be based solely on nepotism.
+
+After all, how else would a nineteen year old girl become a first lieutenant in the military, even with a Category 5 ability?
+
+On the other hand, the rational part of him realizes that even if she had nepotism, she was most likely a soldier even as a kid. So he knows she most likely became a soldier as a mid to late teenager.
+
+And Johnathan’s own daughter is that age, making him feel guilty for the girl.
+
+“Next up are Cadets Crimson and Matthews! March to the training field posthaste!” the instructor shouts, his voice echoing across the field. Then the girl in question along with the man who is Johnathan’s age both step onto the large field with a single pistol and a sword on their person.
+
+Johnathan feels even more conflicted as he sees the girl and the gruff looking First Lieutenant Matthews facing her. Because he can’t decide if he should worry about the girl or if he thinks she needs this to be taught how things really are in the military. That it’s not her backyard to play in.
+
+“You are allowed to use both your pistol and your sword, but rifles are not allowed,” the instructor begins as both cadets stand at opposite sides of the field from each other. “Abilities are allowed, and the sparring match will only end when one side admits defeat.”
+
+Silence fills the training field for several seconds, the only sound being that of the wind blowing through, making the girl’s stark white hair blow in the wind with it.
+
+“Begin,” the instructor declares, making the two immediately sprint towards each other. But to Johnathan’s surprise, Matthews doesn’t hold back and draws his pistol, shooting at the girl and making direct contact with her arm holding her sword.
+
+Is he trying-
+
+Johnathan’s thoughts cut off instantly when the wounds on the girl regenerate in less than half a second, before her grip on her weapon could even be affected. And as if she wasn’t affected by the gunshots in the slightest, she sprints across the gap between them, moving faster than most humans should be able to with a crimson energy coating her body.
+
+Cadet Matthews doesn’t just let her do what she pleases though as he quickly drops his gun, raises a fist into the air, and slams it into the ground, making a large pitfall form right in front of the girl. She then falls down inside, proving unable to slow herself enough to stop before it and not fast enough to change her trajectory to go around it.
+
+Johnathan feels a sense of relief knowing that the girl shouldn’t be too hurt and should be able to surrender the battle.
+
+Just seconds later though, a strange sound begins coming from the pitfall, without a single sign of a surrender being called.
+
+Wait, is she…
+
+Seconds pass and soon enough the girl can be seen making it up the last stretches of the pitfall by stabbing her sword into the dirt wall over and over again to make foot and handholds. Then she jumps back up onto the surface and continues sprinting towards Cadet Matthews before jumping high into the air right when he tries to make another pitfall, the girl likely having expected it this time.
+
+And soon after she hits the ground again, Johnathan finds her with her blade to Cadet Matthew’s throat, the cadet himself raising his hands and admitting surrender.
+
+A wave of clapping echoes through the field as Johnathan stands stunned. But the clapping doesn’t last for long before everyone returns their hands behind their backs again.
+
+“Well done, both of you,” the instructor states with a nod of his head as the field itself returns to normal, clearly having an enchantment on it. He then turns his head towards Cadet Matthews. “Cadet Matthews, you let your guard down after Cadet Crimson fell into your pitfall. Make sure you always keep your guard up until you’re absolutely certain that the enemy is indisposed.” After which he turns to look at Cadet Crimson. “And Cadet Crimson, your fighting style is as rough as ever. You aren’t under the control of the lieutenant general anymore, so please try to think of your wellbeing more often now. I understand that you will regenerate no matter what, but as a father myself, it hurts to watch. Aside from that, make sure you are always wary of your opponent’s potential ability, seeing as you disregarded Cadet Matthew’s ability entirely until after you learned about it.”
+
+Johnathan feels stunned after seeing the battle and hearing the instructor’s criticism of the two, only to find his eyes widening in absolute shock at the next words spoken by the instructor.
+
+“And remember, this is your tenth year in the military,” the instructor says to Cadet Crimson, making her frown slightly. But he doesn’t say any more, leaving the rest unsaid.
+
+Now Johnathan feels himself almost breaking formation to gawk at the girl.
+
+She’s been in the military for ten years?! That means she’s already spent the minimum time in the military for an exit fund! And as an upper class officer, that fund is as good as a retirement fund, even at her age! But never mind that, isn’t she only nineteen years old?! Does that mean she was in the military at only nine years old?!
+
+Any resentment towards the girl Johnathan had before now vanishes in an instant, being replaced entirely with guilt and sadness at the thought of how the girl’s life must’ve been till now.
+
+“Return to formation, Cadets,” the instructor declares, making both Cadets Crimson and Matthews salute before returning to the line. “Up next are Cadets Roses and Harold. Step up to the field.”
+
+Johnathan finds himself sending a look full of sadness towards First Lieutenant Crimson once more as he steps out of the formation, only to fully focus his gaze on his sparring partner.
+
+No. I can’t be distracted now.
+
+Despite his thoughts, he can’t help but imagine how he’d feel if his own daughter, back when she was nine years old, were to have joined the military. And that thought alone has anger and sadness filling him.
+
+After he and Cadet Harold step up to the training field, the instructor looks between the two before declaring, “Begin.”
+
+And Johnathan and his sparring partner immediately rush towards each other.

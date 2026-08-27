@@ -1,0 +1,137 @@
+---
+id: 7ce94218-6493-5b5e-bcbb-a7d2628ca6f8
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 1"
+slug: 0157-b3-chapter-1
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 157
+ownLength: 1502
+unit: words
+ownProgress: 1502
+publishedAt: 2024-05-13
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1634898/b3-chapter-1"
+royalRoadId: "1634898"
+markedReadAt: "2026-06-29T19:11:03.744Z"
+---
+
+Aria
+
+“What do you mean I can’t travel through this Gate?!” I shout as I glare at Azura, who is standing in front of me alongside the guards blocking the Gate to Luk’tar. And I genuinely feel angry at him. Not to mention the two princesses standing next to him.
+
+But his next words completely deflate that anger as he says, “The Gate to Luk’tar has been sealed off until their war against the Crimson Flag is over. And even then talks have been made about sealing the Gate forever with the help of the Rex Dynasty.”
+
+I stare at Azura for several seconds before glancing at Little Blue, only for her to nod her head. Then I glance at Sel, and she nods hers too.
+
+“Well fuck,” I mutter. And without hesitation, I ask, “Do you have any other way to reach the Eternal Dynasty? Or more importantly, Vortel?”
+
+The three royals both frown before sharing a glance, making me sit here impatiently as both Shirogane and Hannah finally leave the speeder thing Shirogane had to get through the water street.
+
+All three of us immediately rushed back to Atlantis the moment Hannah told me about Roger’s life coming to an end, but I couldn’t take it and immediately rushed ahead of the two only to find myself stopped at the Gate when the royals showed up.
+
+Almost like they were expecting me.
+
+Probably Shirogane’s doing.
+
+But… War finally got called over to Luk’tar then? That… was bound to happen eventually, if I’m being honest. Which is dark to think, but true.
+
+It must’ve happened after Hannah passed through as well.
+
+Damnit.
+
+Eventually the three royals turn back to me and Azura answers my question, “If you’re asking about the Eternal Dynasty, there are a lot of places connected to Eternus. But as for Vortel, you’re better off searching for a Gate to Eternus and going to Vortel through there. It’s too new a world to have a Gate to most worlds. Especially those connected to ours.”
+
+“Okay, then the closest world with a connection to Eternus,” I ask, feeling fidgety. Like I want to just run off to find a way myself despite knowing that won’t achieve much.
+
+“That…” Azura begins before glancing behind me as Hannah and Shirogane reach us, “would be a better question for Shirogane than us.”
+
+Right. He’s from Eternus and works for them.
+
+He should know a lot of worlds with Gates there.
+
+I turn away from the royals to face Shirogane as I ask, “Do you know any worlds nearby that have a Gate to Eternus?”
+
+He looks surprised for a second before his face turns emotionless, the man entering business mode, and he answers, “Eternus is currently connected to a world connected to Atlantis. It would be our best chance to get to Vortel quickly, but it will also be difficult to pass through.”
+
+My eyes narrow slightly as I ask, “Difficult to pass through?”
+
+“It’s the Rex Dynasty of the Dead’s capital world, Rex,” Azura answers for him.
+
+Shirogane nods his head and then continues, “There’s one other option as well. A world connected to Atlantis that is also connected to a world with a Gate to Eternus. But that would likely be even more difficult to pass through thanks to just how strict they are with their immigration laws. And even then you would still have to pass through a sub-world belonging to the Rex Dynasty.”
+
+I grit my teeth before looking down at the ground, my hands clenched into fists so tightly that blood is beginning to be drawn from my palms. Even if said blood vanishes in a flash of crimson light and the wounds heal right away.
+
+Eventually I raise my head again and ask, “Which would you choose? Which has the best chance of us successfully making it?”
+
+He blinks, the skill I’ve come to know that’s blocking his emotions – something he never actually told me but I managed to figure out on my own over the years – flipping off and then on for a moment before he answers, “The chances of us getting through Rex unmolested and granted passage through their Gate on the other side of the world connecting to Eternus is rather slim. I can’t see us being in any danger there, but most likely, we’d end up found the moment we arrived by half the populace on the planet. Including the fanatics.”
+
+I shiver at the mention of the fanatics.
+
+So that’s a definite no to Rex then.
+
+“So you’re saying the other world is the correct choice?” I ask with a frown. “How long do you think it’ll take to get immigration rights?”
+
+At that, Azura frowns and asks, “Excuse me, Shirogane, but are you talking about the Shengshi Dynasty?”
+
+“The Shengshi…” I begin to mutter, only for Shirogane to nod his head in response.
+
+“That could prove troublesome,” Azura says before glancing at Little Blue, who steps up and continues for him.
+
+“The Shengshi Dynasty is currently having… some trouble,” she says with a frown. “Ascension trouble mostly. They’re trying to figure out who will be the next heir to the imperial throne, but aren’t having much luck since both princes have relatively equal claims to the throne. And they’re currently locking entry to and from their nation except a limited few during this scuffle.”
+
+Well, shit.
+
+“We can get you through if you really need to go through there, but it might be better to choose a different route,” Sel responds this time, making me and Hannah turn to look at Shirogane. Who just looks down while rubbing his chin.
+
+“Well, from what I can remember, there is one way I could see us getting them to let us pass through,” Shirogane answers, seemingly surprising all three royals.
+
+“How?!” they all exclaim at once, startling Shirogane.
+
+Guess they want to pass through themselves? Or maybe get trade through?
+
+Shirogane glances at me, then at Azura as he says, “Simple. We do the same thing we always do. Have Aria solve things with her ability.”
+
+That has me frowning. And the other three don’t seem to understand it either.
+
+Until Azura’s face turns to a look of realization as he mutters, “The curse…”
+
+Shirogane nods his head and repeats, “The curse.”
+
+Both of the princesses seem to understand, and the royal guards who are just kinda listening in on our conversation while keeping a sound proof bubble around us all shiver. As if they’d heard something atrocious.
+
+“What curse?” I ask at the same time as Hannah asks, “Curse?”
+
+Shirogane glances at me and answers, “The Royal Vault in the Inner Palace of the Shengshi Dynasty is covered in a curse. One that instantly rips all of the organs and blood out of anyone who steps inside of the vault.”
+
+Ah.
+
+“So you want me to offer my services to go inside and bring the treasure inside of it out?” I ask while tilting my head a little.
+
+He nods his head, saying, “Correct. If you do that, they’re bound to let you at the very least pass through the planet.”
+
+“If we could do this, then why would it even be a question of whether or not to go through this planet? Whatever it’s called,” I ask with a frown.
+
+“It’s called Sheng,” Azura answers my question, making me glance at him again. “And it’s because most of the infighting between the two princes is going down in the Inner Palace itself. Not through warfare, but through politics.”
+
+“And they’re bound to try pulling you to their side if you enter,” Little Blue adds, a scowl on her face. As if she’s upset at them for even considering it despite it not happening yet.
+
+Oh. So it’s just a political nuisance.
+
+“Anything else I should know about the place?” I ask with a frown while crossing my arms.
+
+So far it’s sounding like the correct choice.
+
+Azura frowns slightly before his eyebrows rise slightly and he adds, “Oh, right. Shirogane won’t be able to enter the Inner Palace since it’s women, their royalty, and eunuchs only.”
+
+I stare blankly at him for several seconds. Then I glance at Shirogane to find him nodding his head. So I turn back again to ask, “Why?”
+
+That’s a very… odd… rule.
+
+“There are actually a couple nations like that across the universe,” Sel comments, bringing my attention to her. “It often tends to happen in more traditional planets where the ruler has a harem and is rather possessive of them. To the point that they don’t allow any men in the place their women live. Or at least, for the most part. Hence the eunuchs in the Inner Palace.”
+
+Oh.
+
+I glance at Shirogane before taking a deep breath and saying, “It’s our best chance to get to Vortel as quickly as possible. So let’s go.”
+
+He nods his head, and Hannah does as well.
+
+Looks like we’re going to Sheng.

@@ -1,0 +1,205 @@
+---
+id: 24d9bbd3-a102-5f7f-a11d-d8bfe79dd0f1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 35"
+slug: 0036-chapter-35
+partOf: death-healer
+position: 36
+ownLength: 2282
+unit: words
+publishedAt: 2025-06-18
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2367156/chapter-35"
+royalRoadId: "2367156"
+---
+
+The courtyard had gone quiet except for the rasp of linen over wood.
+
+It looked like siege engines had been through the villa's courtyard.
+
+Gouges furrowed the flagstones; dusty rose-soot—congealed blood and pulverised quartz—filled every spider-crack. In the middle of the ruin Vespera knelt, long white braid coiled at her hip, re-wrapping a spear-haft that now wore more splints than wood. Each tug of the rawhide thong hissed like an indrawn breath.
+
+Selena leaned against a pillar, thumb rolling the spreading bruise under her collarbone.
+
+The sound of boots approached.
+
+Calpurnia stopped a few meters from her daughters with her cloak snapping behind her, looking at a spiderweb of cracks in the stone of the courtyard—Lily’s fist had struck there when a mistimed thread had snapped her stance. A puddle of dried blood darkened the cracks and the point of impact.
+
+She halted before the pitted slab that bore the imprint of Lily’s fist, crouched, and placed one gauntleted hand over the fracture-star in the rock. A flake came away beneath her thumb, revealing crimson dust beneath—bone dust.
+
+Her eyes narrowed. “Where is she?”
+
+“Out of mana,” Selena answered, straightening under that gaze. “Asleep. She collapsed after the splinting.”
+
+Her mother approached and placed her hand over her collarbone, healing the bruise.
+
+"Lily?" she asked her daughter.
+
+"It was me, Mother. I'm sorry. I asked Selena to spar because I was getting restless," Vespera admitted with shame.
+
+Lily was capable of making her lose her cool like nobody else. There was something in the way the blonde acted that irked Vespera to no end.
+
+It was about Lily's ignorance—which wasn't necessarily something negative, even Vespera recognized. It was more like the blonde refused to see the current state of the world, the troubles she was creating for herself, for the sisters, and, more importantly, for their mother. Lily accepting the sparring match meant that Calpurnia would be directly responsible for the outcome especially in front of the Gens Claudia. If Lily was crippled or worse, their mother might very well get executed for putting her in harm's way.
+
+Furthermore, it seemed like Lily purposefully tried to cripple herself at every sparring session she had with Vespera. The white-haired girl could feel the urgency, the need the blonde had to become stronger. However, she had never seen someone so hell-bent on skirting the edges of death in order to achieve their goals.
+
+Lily, during their last match, had landed a punch on stone. Lily wasn't Classed. She didn't have any body-reinforcing Skills beyond whatever trick she had used to avoid having her body break while using Coniunctionis. That all meant that, when she struck the stone, her arm had shattered.
+
+Calpurnia rose. “Lily’s wound?”
+
+“Self-mended.” Vespera’s tone hovered between awe and irritation. “Compound fracture, full spiral. I watched splinters poke through the skin. Two minutes later she clenched a perfect fist like nothing ever broke. No stiffness, no guarding. A [Healer] with a leveled Class would have had more trouble than her.”
+
+“That isn’t healing,” Calpurnia murmured, almost to herself. “That borders on self-butchery.”
+
+A brittle silence settled. Somewhere a cicada began its night song; it sounded like mocking laughter.
+
+Selena exhaled, equal parts awe and irritation.
+
+“What are we dealing with, Mother?”
+
+Calpurnia folded her hands behind her back.
+
+“That is what I want you to tell me. What did you observe?”
+
+Selena inhaled, scholar first, sister second. “Her grip on Coniunctionis is… incredible."
+
+Vespera tied the last knot around the spear shaft, rose, and dipped her chin.
+
+“She will be a great warrior, Mother. As Selena said, her mastery is stunning.”
+
+Calpurnia’s eyes narrowed.
+
+“However?”
+
+Vespera hesitated.
+
+“She isn’t ready. Talent aside, her frame is still soft; she over-threads to compensate and trips herself every third exchange. A single bout against a Classed opponent and she’ll bleed out before her healing can be activated.”
+
+Selena crossed her arms, voice dropping.
+
+“And we can’t ignore that a girl her age should have had six full years of formal training already. No matter who her parents are, she’s—”
+
+“—destined to lose,” Vespera finished, not unkindly—just flat. “If Lily had started training when we did, she… I don't know if she'd be stronger than Flavia, but she would have a good shot at defeating me in sparring and Sextus too. As things are? She will not progress quickly enough, Mother.”
+
+A stiff silence followed. Wind hissed through the break in the stone as if the courtyard itself inhaled.
+
+Calpurnia studied her children and then her eyes turned hard.
+
+“You both see the fault lines. Name them.”
+
+Selena, ever precise, started.
+
+“Ignorance of political context. Over-attachment to outcome. Body tenacity exceeds technical discipline—she relies on reckless regeneration.”
+
+“And hubris," Vespera said. "She attacks stone thinking herself iron.”
+
+“And why,” Calpurnia asked, “does that offend you?”
+
+An old saying suddenly rang in the woman's head for some reason.
+
+Women bear heirs, men bear arms.
+
+“It… doesn’t.” Vespera tried rebutting.
+
+Selena bit her lip. “She believes she can close the gap, Mother. She has to believe it—her mother is…”
+
+"No one," Calpurnia sighed. "Adriana is no one. She is not the Princess anymore."
+
+"Lily is still weak. She has potential, but it must be nurtured in the shadows. We must teach her manners," Calpurnia’s lips curved—not smile, edge. “Vespera, tomorrow you will spar her again.”
+
+Vespera’s heartbeat stumbled. “With—restraints?”
+
+“None.”
+
+Selena’s head snapped up. “Mother, she’ll die.”
+
+“She will learn.” Calpurnia stalked forward until her shadow swallowed both daughters. "Vespera, I want you to break Lily tomorrow. I'll watch and intervene to heal her, but I want you to give her what Sextus would. She needs to get scared and understand her place. Perhaps, one day, with enough training, she'll be able to become what her mother couldn't. But we hoped for a miracle that hasn't been granted to us. Lily's too weak. She'd better learn her place before her foolishness kills her."
+
+When Calpurnia’s footsteps receded toward the villa, the tension did not ease.
+
+Vespera exhaled through her nose. “You disagree.”
+
+Selena looked at the ruin of the courtyard.
+
+“I… don’t know. Part of me enjoyed watching her out-manoeuvre you. It felt like—hope.”
+
+“Hope gets people killed.” Vespera jabbed the spear butt into the dust. “Do you think Sextus will show hope in the arena? He’ll pound her until her lungs collapse just to prove point. Better she taste that lesson from me than him.”
+
+Selena stared at her own reflection in the spearhead. “You sound eager.”
+
+“Eager?” Vespera’s laugh cracked. “I’m terrified. Mother ordered me to break her. If I fail… who do you think will take the blame if Lily gets crippled by an idiot? Herself? No, it will be mother. She will get punished by the Gens Claudia and the Gens Cornelia, Selena. Not Lily."
+
+Overhead the first stars pricked through the twilight, distant and uncaring.
+
+“I want her to succeed,” Selena whispered, surprising herself with the confession. “Because if she can carve a place in this world… maybe one day we can, too.” She reached to touch the healed skin over her collarbone—no bruise, yet memory of the pain throbbed.
+
+Vespera looked away. “Then pray for a miracle before tomorrow's dawn.”
+
+* * *
+
+Sextus Cornelius trained where his father forbade the servants to wander, for the orchard behind the northern wall belonged to him alone.
+
+The trees there had not been pruned in years, and their crooked limbs cast bars of shadow that wavered across the grass whenever the wind rattled the leaves.
+
+He had commissioned several posts made of enchanted wood so that he could practice his striking Skills. His father had just paid for an upgrade since he had gotten a Class, finally, and could now strike with the added power of Attributes behind his fists.
+
+He moved between the posts at high speed, letting them ring like a symphony against his bleeding knuckles.
+
+He had wrapped his knuckles in stiff linen, yet by the fiftieth combination the cloth had soaked through and the pale bark showed flecks of red.
+
+Sweat clung to his ribs because the late-summer dusk still held the day’s warmth, and a sweet scent floated on the air.
+
+Roses climbed every other tree, their petals blown wide, for his mother insisted that the orchard carry a fragrance befitting a noble house.
+
+Each time Sextus inhaled the perfume he flinched, and he drove his fist harder into the next post even harder.
+
+A twig cracked behind him. He turned and straightened, pulling his shoulders square, since he already knew the rhythm of those approaching steps.
+
+Lady Leontina.
+
+His Mother.
+
+She emerged between two apple trunks, and her gown of black silk trailed over the long grass without rustling. She carried a lacquered parasol although the setting sun had no strength left, and in the crooked light her thin face glowed with a calm that always unsettled Sextus more than anger would have done.
+
+She halted when the hem of her gown brushed a fallen rose, and she smiled at her son, although the smile never reached her eyes.
+
+“You train with commendable fervour,” she said, and her voice flowed like cool water over marble. “However, fervour fails if purpose falters. Tell me, Sextus, what purpose guides your fists this evening?”
+
+Sextus wiped blood from his knuckles against his trousers. “I prepare for the duel, Mother. Father commanded that I leave no doubt when I face the Gens Claudia's heir."
+
+"Heir?" his mother snorted. "Girls cannot be heirs, Sextus."
+
+"You're right, mother. I apologize for my mistake."
+
+Lady Leontina nodded, and she lifted the parasol so its tip nudged a rose that grew too near her path. The parasol’s carved ivory point sliced the bloom from the stem, and petals drifted to the grass. Sextus watched one petal land on his boot, and his stomach clenched.
+
+He didn't know how to take care of the pruning of the orchard, afraid he would damage it, but he had tried to make sure that it would stay watered and cared for.
+
+Sextus never had the courage to ask his mother to send a [Gardener] here to make it prettier. He knew she would have never have approved of such a feminine disposition in one of her sons.
+
+The pale pink of the petal reminded him of some half-remembered dawn long ago, when he was small and his mother’s voice had still carried warmth.
+
+His mother continued. “Prepare, then, yet prepare with clarity. Do not allow softness to temper your edge.” She stepped closer and examined the fresh blood on his wrapping and then removing the bands to expose the raw flesh. “A clean wound proves resolve. A salved wound proves indulgence. You will not salve these tonight.”
+
+“I will not,” Sextus agreed. The ache in his fists already throbbed through the bones, yet he welcomed the pain, for his mother watched with approval.
+
+"Stop wrapping them if you want to acquire Perks for your Skills, Sextus. You're a man—behave like one."
+
+Lady Leontina clicked her tongue, took a small vial from her belt, and offered it to him, changing topics.
+
+“For your gauntlets when the duel comes. A measured coat will numb your opponent’s limbs upon contact. Your father intends no mercy.”
+
+“Remember,” she said, “a woman who apes the art of men insults order. Break her, and you restore that order.” She lifted the vial’s stopper, let the fumes drift to his nose, and replaced the stopper before he could cough. The vapour smelled of nightshade and menthol, and it made his knuckles tingle.
+
+Her hand rested upon his shoulder then, and her nails, filed to points beneath silk gloves, pressed through the linen of his shirt. “I know you will not fail,” she murmured. “Not as Septimus did, wandering after girlish trifles, not as your cousins, Calpurnia's daughters, who believe they are men when they are nothing but puny women. You are the son who will uphold our name. Our heir.”
+
+He said nothing, and his silence pleased his mother, for she withdrew her hand and turned away, gliding along the overgrown path toward the gate that led back to the lit corridors of the main house. Lanterns flickered beyond the wall, bright yet distant, and when she passed beneath the arch she did not look back.
+
+Only then did he breathe out through clenched teeth, and something inside his chest twisted so sharply that he struck the nearest post without thinking. The impact jolted blood across his palm. He dragged breath after breath, yet the rose scent would not leave him.
+
+He stooped to pick up the bloom his mother had cut. It lay soft and whole except for a single crease where the ivory tip had touched it. Its perfume struck him harder than the blow had done, and his throat closed. He remembered, against his will, his cousin Sabinus humming a lullaby beside his late mother’s grave, the same tune Vibia, his aunt, had sung on winter nights whenever they had visited as kids.
+
+He had mocked Sabinus then, called him weak so many times, sworn that melody was for nursemaids and fools. Yet now, in the hush of the orchard, that forgotten tune fluttered at the edge of Sextus’s mind, and he hated it.
+
+He tightened his hand around the rose, crushing petals until the fragrant oil seeped into the cuts on his knuckles. The sap stung, and he ground the flower into pulp, forcing the softness to mix with his blood, until nothing recognizable remained between his fingers. Petals and juice and blood slipped through, and he let them fall to the grass.
+
+“Softness breeds rot,” he whispered. “Better that it die.”

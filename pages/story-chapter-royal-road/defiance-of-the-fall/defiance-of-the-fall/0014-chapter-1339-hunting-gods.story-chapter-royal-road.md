@@ -1,0 +1,181 @@
+---
+id: 276e3afd-2e06-5e0c-ade8-d9e1630b51f5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,339 - Hunting Gods"
+slug: 0014-chapter-1339-hunting-gods
+partOf: defiance-of-the-fall
+position: 14
+ownLength: 3232
+unit: words
+publishedAt: 2025-06-18
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2366755/chapter-1339-hunting-gods"
+royalRoadId: "2366755"
+---
+
+“You could simply move on to the next stage,” Esmeralda suggested. “Things should be set up the same way around the other courts. That means the clock started ticking the second the Hollow Court got its halo. Three weeks have passed already. If you wait too long, your other side won’t have time to participate in the challenges.”
+
+“We haven't reached that point yet,” Zac said.
+
+The challenges should still be ongoing around the Transformation Docks. They’d heard they would close three months into the trial. Those arriving any later would have to head straight to the court without any additional Fate, making it an exclusive opportunity for the trial’s elites who led the race to the continent’s inner regions.
+
+“And it’s not like I’m considering this because I want to,” Zac added with a troubled expression. “I have no idea how Mox is sensing me or why she’s so angry. Who’s to say she can’t reach me in the inner region? If possible, I need to close this thread of Fate before moving on. Otherwise, I might get killed before I reach the Margrave.”
+
+Staying outside the Hollow Court wasn’t an option. Getting his hands on the Primo’s treasure was too important to him and the Atwood Empire. Zac also had to agree with Kaltosa Lu on one point. It wasn’t a good sign he’d failed to leave a mark of his own on the outer court. It could impact his options inside the court. Concluding the thread of Fate that started with the [Fuxi Mountain Gate] and ended with Mox would solve everything in one go.
+
+“You might be able to solve the issue inside,” Esmeralda said. “Not all the memory domains are connected to the trial.”
+
+“It took you ten days to reach a normal domain while we searched for Everit’s lantern. I’d need the double, and there’s no guarantee it would hold the same potential as the thread outside.”
+
+“Ai,” Esmeralda sighed. “I understand. Just be careful.”
+
+Zac could sympathize with Esmeralda’s reluctance to see him go down this path. They were talking about plotting against a proper Supremacy, a being who’d managed to elude the Limitless Empire. The risks were incalculable, and there was no telling what would happen should he fail. Best case scenario, he’d only lose his human body and plummet in strength.
+
+Except, Zac only had one Soul Aperture and Cosmic Core. If they shattered, his Draugr side would be crippled. An undead without cultivation trapped in the world of the living was a death sentence, and it wasn’t just Zac who’d suffer. He’d drag Esmeralda with him to the afterlife.
+
+“Nothing is written in stone. We might figure out a way to mask my presence and avoid confrontation,” Zac comforted, as much to himself as the toad.
+
+“Still no sign of the Azol descendant?” Esmeralda said, holding onto a final hope.
+
+“No news since we captured that Revenant,” Zac shook his head. “At least we know Tavza entered the trial with a full seal. The Farsee Court is two courts over, though. Her starting position might be bad even if she picked a suitable starting identity.”
+
+Tavza An’Azol was an Array Master equipped with deep knowledge and a unique bloodline ability that created sealing domains. Even so, Zac never held much hope she could solve his issue. Just reaching the Hollow Court would prove a challenge. Zac hadn’t forgotten how she’d been exposed to Pure Chaos to help him during the Atavism. Tavza wasn’t an Edgewalker like he, and the perfected Life hidden within Chaos must have made a number on her.
+
+“I’ll wait as long as possible, but I will probably have to break my rule of not entering domains with both bodies soon,” Zac added.
+
+“I suppose things went too smoothly for us. We were bound for some rough waters,” Esmeralda said. “We’ll make do. Just tell me if you notice something happens on the other side. I’ll try to move us to a safe location.”
+
+“Agreed,” Zac said and got to his feet with a grunt. “Anyway, it’s good that you’re up. I wasn’t confident in solving the mystery behind the [Peregrine Gondolas] on my own.”
+
+“I guess I woke up at the perfect time,” Esmeralda said with a stifled laugh.
+
+Zac's weak attempt at a laugh couldn't fool anyone, and a disgruntled huff echoed in his head as he emerged from his courtyard. The Lawkeepers were still outside. Only the local Monarch had left, probably too embarrassed to loiter on the mountain like a vagrant. Getting back into character, Zac flipped off the three Hegemons as he emerged. The sign didn’t exist back in the Limitless Empire, but Zac’s expression perfectly conveyed its meaning.
+
+A string of curses followed Zac as he sauntered off.
+
+‘Boy, you better not forget our agreement. This event won’t last forever, and the following years can either be long or short.’
+
+‘That’s none of your business, granny. You should be more worried about extracting the money from those old misers. Remember. The deal’s off if the payment isn’t in my hand when I leave for the ceremony.’
+
+‘How could the Heavens favor a bastard like you,’ Maina lamented, but she thankfully didn’t follow Zac on his excursion.
+
+Not that it was a long trek. The First District was built in connection to the docks, and Zac reached a side entrance of the inner wall within minutes. The area beyond was restricted, but sealbearers were naturally allowed passage.
+
+“Ah, Lord Draom?” The guard hesitated a moment when Zac displayed his hand. “Uh, pardon, but the Magistrate instructed us to—"
+
+“Wrong person,” Zac muttered before squeezing past the Peak Hegemon.
+
+The guard dropped the matter, and Zac saw no reason to make things difficult for a local guard who’d been caught between a rock and a hard place. He couldn’t ignore orders from his superiors, but he also couldn’t bar a sealbearer from entering.
+
+The clamor of the public area quickly faded away as the smell of the Peregrine Ocean grew stronger. Instead of the salty scent Zac was used to, the waters gave off a similar aroma as herbal incense. Its complex mix of Daos was finally fully on display. Beyond the Daos of Space and Dreams he’d already witnessed in Dawndeep Bastille, he also noticed fluctuations of Time.
+
+Both he and Esmeralda froze upon sensing their nemesis, but Zac soon resumed their approach. Hidden arrays kept the docks perfectly safe, and the ocean’s Dao of Time didn’t seem to accelerate or slow down time. As such, it shouldn’t trigger as intense a backlash if Zac were exposed. It was only spending time outside the River of Time that was causing problems.
+
+The docks weren’t very large despite being the city’s most important facility. There was only room for the nearly four hundred gondolas neatly moored in a line. With some space between each vessel, the harbor stretched around two miles. An open pavilion had been placed on the pier for every twenty boats, and a relaxed discussion drifted over from the nearest one as Zac passed by.
+
+Zac inspected the three drastically different women sitting inside. One wore a simple dress, and her sunkissed complexion made her stand out from most cultivators. She looked a lot like the mortal farmers Zac had seen inside Tam Brooks’s memory, even carrying their natural disposition. Another wore the conservative, voluminous robe of an imperial scholar. The last of the trio had the shrewd look of a businesswoman, and she immediately returned Zac’s cursory look with a sharp glare.
+
+The trio were no doubt sealbearers. Going by the tokens fastened to their robes, they were also members of the twenty-two departments like Everit Draom—Department of Agriculture, the Department of Rites, and the Imperial Exchequer. That didn’t mean they were allies in this trial, and Zac returned the tax officer’s stink-eye before turning away.
+
+They weren’t the only sealbearers in the area—a third of the pavilions were occupied. More than fifty sealbearers were inspecting the gondolas, either alone or in groups. Some were moving back and forth. Others had sat down in meditation. However, no one stepped onto the boats or even touched them.
+
+“Hey, what’ll happen if someone touches—"
+
+“Figure it out yourself.”
+
+A snicker made Zac turn over.
+
+“What an honor to see the great Lawkeeper Draom in action. With such investigative prowess, it’s no wonder you were awarded a place at the table.”
+
+“Better than a little greenhouse flower who had to rely on mommy for an invitation,” Zac leered, vaguely recognizing the speaker from Everit’s memories. Xinyi something. They’d met at an event a few centuries ago, and Everit had naturally left quite a mark—both literally and figuratively. “I’m surprised the Garuda Sect dared to gamble their precious invitation on someone like you.”
+
+“You better prepare yourself,” Xinyi cursed. “This is the Mercurial Court, not some dingy back alley. You won’t get far relying on your fist and crude schemes.”
+
+“Are we even living in the same empire?” Zac laughed as he walked away. “The biggest fist will always come out ahead.”
+
+Zac’s arrival drew a few more hostile gazes. It was nothing he hadn’t already experienced during the challenges. Everit was nearly a thousand years old, which was enough time to participate in many events and make countless enmities. If anything, Everit's old enemies had never been so well-behaved, limiting themselves to glares or snide remarks. Whether that would stay true inside the Mercurial Court remained to be seen. For now, no one disturbed Zac as he picked a random boat to inspect.
+
+‘We’re taking these things out to sea?’ Esmeralda asked, her doubt mirroring Zac’s.
+
+The gondola was, for the lack of a better word, shoddy. It looked like something that had been whipped together as an afterthought, utterly lacking the refinement or care of an artisan’s handiwork. The boat had no discernible arrays installed, and its materials didn’t seem especially high-grade.
+
+The vessel seemed utterly normal no matter how Zac looked. The only indication there was more to the gondola was its innate ability to shield against the ocean’s energies. It was no wonder only two dozen trial takers had dared set out so far. Who in their right mind would implicitly trust these vessels with their lives?
+
+Zac first released a few Mental Tendrils since his Soul Sense couldn't penetrate the stone. They were completely blocked no matter what he tried. It almost felt like the tendrils gained physical form when they touched the stone. Such absolute rejection turned the gondola into a spiritual blind spot, making it impossible to discern its composition or attunement.
+
+When his conventional methods were exhausted, Zac started to try anything that came to mind. The brand on his left hand didn’t create any resonance, nor did Everit’s identity badge. After Esmeralda confirmed no one was keeping watch, Zac presented any other item that might work. Whether Raun’s insignia of Fertile Earth or his [Court Cycle Token], nothing caused a stir from the gondola or the Peregrine Ocean.
+
+Zac even briefly released [Void Zone] to touch the gondola’s corner. It yielded the same results as infusing the ship with his Dao—firm rejection. The gondola’s isolation was absolute, covering even the Void of Dao. It seemed like a clue, though Zac couldn’t figure out for what. The phenomenon was no help in guiding his choice of vessel.
+
+The only thing left was instinct and Luck, and Zac had no strong feelings either way. The gondola gave him a vague impression of distance, but that might have been the result of him experiencing all forms of rejection. Zac repeated the process with five more gondolas, and the results were roughly identical. Their presence was slightly different, but it didn’t seem to mean anything.
+
+“Absolutely nothing,” Zac muttered, finally turning his gaze toward the Shrine of Kanba. Esmeralda had grown silent during his investigation, and her gaze was distant. “Are you okay?”
+
+“Something’s wrong with it…” Esmeralda slowly said. “It’s like I have something at the tip of my tongue. I just can’t remember.”
+
+“We’ll keep looking,” Zac said.
+
+The hours passed as Zac slowly walked back and forth until he’d inspected all 380 remaining gondolas twice. Throughout, not a single one stood out to one or otherwise drew his attention. The only piece of good news was that the other sealbearers weren’t faring any better. Esmeralda had listened in on a few conversations, and it was all baseless conjecture.
+
+Most adopted a wait-and-see approach, but some would let Fate decide. There was finally another sealbearer who couldn’t sit still any longer. Nearly a hundred participants gathered to send the daring man off. Naturally, only a handful were familiar with him. The rest were only there to observe the process, Zac included.
+
+The gondola released an inscrutable ripple the moment it was touched, and the sealbearer’s aura gained that vague sense of great distance. It was like the two had fused into one, and there was no sign of energy fluctuations when the gondola silently left the dock. From there, the view was actually worse compared to his courtyard. It didn’t take long before the sealbearer was completely covered in silver mist. Zac tracked it until it reached the domain’s border and disappeared.
+
+‘Wait, did you notice?’ Esmeralda asked.
+
+Zac glanced at a group of sealbearers nearby. ‘They lost sight of him the same time we did. Maybe he entered one of those flickering worlds.’
+
+Thankfully, some observers took the opportunity to brainstorm ideas.
+
+“I’m certain there were no spatial fluctuations that teleported him. It was like the gondola fused with the dispersing mist,” a woman offered.
+
+“My trace of Karma faded when the mist dissipated. It’s like he ceased existing,” a Daoist wearing a crown said before turning to a Sealbearer nearby. “My friend, you should be familiar with Benciti. I happened to see you hand him something an hour ago. Could you enlighten us?”
+
+A squirrely man withered under a hundred intense stares and reluctantly took out a small clay figurine. “I wouldn’t say I know him well. We shared the road for a few days. I asked Benciti to bring a paired Life Idol after hearing he planned on embarking early. As you can see, it’s still intact.”
+
+“That means nothing,” a rough-looking warrior with a military aura scoffed, and most Sealbearers nodded in agreement. “Nothing can peer through the Peregrine Ocean’s secrets. I’m sure some of your elders have tried to divine the Fate of the nineteen who set out before.”
+
+“It’s been over a week, and there’s still no updates,” another sealbearer sighed. “Perhaps the uncertainty is part of the trial. The longer we wait, the heavier the silence will weigh on us.”
+
+“Only on the weak-willed,” the gruff man scoffed before walking away.
+
+The gathering dispersed soon after. If anyone managed to glean valuable insights, they kept it to themselves. Only Zac gained something. He’d confirmed the mist really had dispersed the moment it touched the domain’s border, and the gondola was gone without a trace.
+
+“I finally got it! I remember when I felt that sense of wrongness!” Esmeralda suddenly shouted within the shrine. She was so excited she actually used her real voice for once. “These ships are all made from materials of parallel timelines!”
+
+“Wait, what? Didn’t you say there was no such thing?” Zac asked.
+
+The topic of parallel dimensions and alternate timelines would inevitably pop up when spending months visiting the past and rewriting history. Zac had asked if there were infinite versions of himself like the theories he’d heard before the integration. According to Esmeralda, there were not. Spatial Dimensions in the Multiverse didn’t work that way. At best, there were large-scale dream realms or unusual formations that created a similar effect on a limited scale.
+
+“You’re right. There technically isn’t such a thing. There is only one River of Time, and only the future is branched into infinite possibilities. When the future becomes the present, the other branches cease to exist,” Esmeralda confirmed.
+
+“Technically?” Zac zeroed in on the critical word.
+
+“You could reach back in time and alter the course of history to create a new trajectory. From there, you’d reach into the altered future to grab the materials you need. Finally, you return to the past, restore the original timeline, and take your loot into the present,” Esmeralda said.
+
+“Wh—"
+
+Esmeralda laughed at Zac’s vacant expression. “The word ‘technically’ is doing some heavy lifting in this scenario. You cannot interact with a future different than your own. It’s one of the established Temporal absolutes. Except, there is one place where the impossible becomes possible, where the fundamental rules hold no sway.
+
+“The singularity atop the Peak of Continuum. I saw it once… For a brief moment,” Esmeralda sighed with longing. “It’s the core of Time and Space. There’s no distinction between past, present, and future. From the Era’s birth to its end, you can exist in all time and space, including all of time’s diverging paths. Moving some materials from one point to another would be effortless.”
+
+“You’re saying someone inside the Mercurial Court has grasped this singularity to steal some boats from another timeline?” Zac asked, his voice ladled with a healthy scoop of skepticism.
+
+Zac’s vision of Starclad had become a blur, but he was certain not even the Stellar Wanderers wielded that level of omnipotence. They possessed an innate ability to see the countless futures, but they couldn’t step outside the realm of Time and Space as Esmeralda described.
+
+“No, such power cannot be grasped by man. Controlling the entirety of the Peak of Continuum is just the basic requirement. These boats are merely fantasies brought into reality, borrowing from the concepts I described. The result is extraordinarily close to the real thing,” Esmeralda explained. “Don’t underestimate what this means. Producing these boats requires a near-perfect grasp of Time, Space, and Fantasy.”
+
+“But what’s the point?” Zac asked, still not understanding.
+
+“This feat is directly linked to the memories we’ve visited and their ability to generate real Fate. Perhaps this is a prototype? An experiment using the sealbearers?” Esmeralda offered. “The Peregrine Ocean is a maze of pure possibility, a chaotic soup of countless artificial timelines. Even Supremacies would struggle to return to reality after entering, and I can’t imagine their Dao Hearts would be fine after a dip. That kind of experience can plant a seed of doubt in anyone’s heart.”
+
+“Then, the gondolas?” Zac asked.
+
+“They’re brought out of different artificial timelines. We saw the gondola tune its navigator to its reality, too. The boats should act like a compass, bringing you along a specific route,” Esmeralda said, looking exceptionally satisfied with herself after exposing the truth. Zac’s follow-up question ruined her mood.
+
+“Does that mean you know which one we’re supposed to take?”
+
+Esmeralda froze, then blinked with confusion. “Uh, that’s…”
+
+Zac shook his head in resignation and turned toward the main gate. The central square waited on the other side. It was almost as wide as the docks despite being spatially folded. Its interiors could potentially exceed the size of his island back home. And yet, people were already gathering to secure a spot. Apart from the crowds on the ground, there were dozens of floating platforms where high-grade dignitaries waited.
+
+“Looks like we’re joining the festivities.”

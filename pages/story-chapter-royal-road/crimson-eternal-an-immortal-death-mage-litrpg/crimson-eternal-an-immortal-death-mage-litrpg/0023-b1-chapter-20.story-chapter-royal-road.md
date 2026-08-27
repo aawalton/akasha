@@ -1,0 +1,163 @@
+---
+id: 91e3d8c2-4350-5ed0-8c10-ae9cd39b33c4
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 20"
+slug: 0023-b1-chapter-20
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 23
+ownLength: 1812
+unit: words
+ownProgress: 1812
+publishedAt: 2024-01-10
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1472581/b1-chapter-20"
+royalRoadId: "1472581"
+markedReadAt: "2026-06-29T19:06:37.980Z"
+---
+
+Aria
+
+The major – a man in his mid-thirties and probably the youngest of the team, many of whom look to be in their forties – looks like he wants to say something about my greeting, but ends up deciding against it. But the look on his face does seem to imply that he won’t let it go.
+
+Instead of talking about that, he gets right down to business and asks, “What happened here?”
+
+“While I was riding the train, a force of twenty-five mercenaries attacked the train alongside one potential necromancer,” I begin, still holding my salute firm. “After calling in the attack to base, I set out to eliminate all of the targets with the plan to capture the last one for intel as I didn’t believe I’d have the chance to capture the potential necromancer.”
+
+Major Striker nods his head while glancing out the window, “There is indeed a necromancer, but they aren’t nearby. The one I just shot at was a skeleton summoned by a necromancer.” He turns back to me. “The skeleton was already dealt with, but the necromancer likely got away.”
+
+“Understood, sir,” I answer, still holding my salute.
+
+The man finally sighs and says, “At ease.”
+
+So I lower my hand and ask, “With your permission, sir, I would like to go after the mercenaries in the last car. I do not believe that all of them entered this one.”
+
+“No need,” the major says while nodding his head towards the entrance, bringing my gaze to find a man with white hair and blue eyes seemingly in his mid-thirties dragging an unconscious mercenary through the entrance into the car. Then the man just tosses him into a wall, uncaring about the man’s health.
+
+Guess we’re done here.
+
+“We can leave full introductions for when we arrive at the base,” the major says as I turn to look at him again. The man has black hair with violet eyes and appears to be in his mid-thirties, just like most of the officers in this group of soldiers.
+
+“Understood,” I state with a brief nod. “I’ll meet you at the base when the train arrives.”
+
+The major blinks in surprise, and it’s not just him. The other officers in the car all pause what they’re doing to look at me as well, briefly reminding me that I am by far the youngest one on this team. A team made up of people I vaguely recognize from records I’ve read.
+
+Only an idiot wouldn’t recognize them, after all.
+
+It’s a team full of almost every Category 5 in the nation. The only exceptions being the First and Second Generals.
+
+“Very well,” the major eventually says, although I can tell he doesn’t like it. “Everyone, back to base!”
+
+Then the team leaps out the window with an odd green light coating them. Likely from Captain Frank Rogers’ enhancement and healing ability.
+
+From what I’ve researched on him and the other Category 5s who may become my enemies in the distant future after I get my revenge on the emperor, his ability lets him do quite a bit. He can flood energy into other people’s bodies, healing them, enhancing their physical body, replenishing their mana and stamina, and overall just improving everything while rejuvenating them.
+
+Hence why it’s a Category 5 ability.
+
+I watch them go for a bit, only to notice one of them in particular – First Lieutenant Adrian Snow – sending me an odd look.
+
+From what I’ve heard about the man, he… tends to sleep around a lot. Which is why the look he’s sending me is both surprising and not at the same time.
+
+Surprising because he looks conflicted and close to disappointed, likely due to my age being too young for him. A good thing, considering that it would be a pain to deal with him if it wasn’t.
+
+But he also looks… disapproving. Sort of like the older officers at the academy, but in a different way. Like he doesn’t approve of me being in the military and at least partially blames me, unlike those old men and women who only pitied me and treated me like their daughters.
+
+And despite the fact that it’s clear he doesn’t exactly approve of me being here, I prefer the way he’s looking rather than those officers.
+
+Because I hate being pitied.
+
+Also, at this point I’m in the military by choice. I can leave if I wanted to, the emperor doesn’t have any real power over me anymore, nor does he even have enough influence to try to kidnap me, much less order me to do something. But I need the power – both in levels and politically – that I can gain from being in the military.
+
+So I can’t retire yet.
+
+If I remember correctly, the rest of the team consists of Captain Hannah Harvey and Second Lieutenant Jason Vargas. And unlike Snow, whose ability is to create incredibly powerful blades of ice that grow progressively stronger with each consecutive attack, these two are Ability Holders with more varied abilities.
+
+The captain’s ability is to be able to sense within ten kilometers around herself and to create a barrier within a single kilometer around herself. Meanwhile the second lieutenant’s is a mental one. He can read the minds of those he touches, and can dig into their mind for memories.
+
+So someone I’m gonna avoid in the case of the latter.
+
+The former is okay though.
+
+Soon enough the team vanishes into the tree line, so I begin walking over to the control car of the train.
+
+Time to get everything back in order and on route.
+
+I glance at the corpses along the way.
+
+And to clean that up.
+
+Back at the BaseA few hours later
+
+No one in the team says a word all throughout their trip back to the base. Not even after they finish turning the mercenary over and giving their report.
+
+It isn’t until after they arrive in their own private wing of the fortress barracks that Adrian shouts, “What the fuck was up with that?! She’s just a fucking kid!”
+
+“Watch your language,” his friend and commanding officer, Leonardo Striker, says, making Adrian round on him. But the major continues before he can say anything, “She’s been in the military since she was only nine years old. I was more or less already expecting a difficult time getting her to open up, so please don’t make it even harder when she gets here.”
+
+Adrian’s mouth opens wide in shock as Hannah mutters, “Nine years… old…?”
+
+“Why?” Frank asks, the big guy actually speaking. Something that isn’t common with him. Especially outside of missions.
+
+“She’s just like me, then?” Jason says, half asking, half stating as he scratches the stubble on his chin. And his tone alone makes Adrian feel disgusted.
+
+Adrian holds that emotion back though, since he knows it’s not the man’s fault the way he was raised.
+
+Most people raised as human weapons aren’t normal in how they think.
+
+But… nine years old?!
+
+“Yes, but also not,” Leonardo says while rubbing the back of his head. “Look, I’m not really supposed to tell you about her private affairs. Just know that she’s been through a lot, and her ability makes it hard for her to allow herself to get close to others.”
+
+That gives Adrian pause as he looks at his commander and asks, “Ability?”
+
+“Right! What’s her ability?” Jason asks, sounding a little too excited.
+
+“Well…” Leonardo begins, now scratching the back of his neck as he looks up at the ceiling. Then he looks down at them again, “You all know that she’s a Crimson, right?” Everyone nods. “Well, the Crimsons aren’t known for giving out the specifics of their abilities.”
+
+“Oh, right,” Jason mutters, disappointed.
+
+Adrian ignores him this time as he prods, “But you know something about it, at least. She wouldn’t be a Category 5 if the military didn’t know what she could do.”
+
+His commander nods his head, still looking rather awkward. But eventually he just sighs and answers, “Yes, and it’s not much of a secret. Her ability is regeneration.”
+
+Everyone pauses at that before both Adrian and Jason ask, “Regeneration?”
+
+“Yes,” Leonardo says with a nod. “Regeneration.”
+
+“How is a regeneration ability Category 5?” Adrian asks with a frown. And he sees the other three officers in the team aside from the commander nodding as well.
+
+“Let me rephrase it this way,” Leonardo says. “Her ability is a regeneration ability strong enough that even if the military wanted to kill her for some reason, they wouldn’t know how.”
+
+“Wait, really?” Adrian asks, feeling both surprised and confused. “And cutting her head off wouldn’t work?”
+
+Leonardo shakes his head. “It’d just reattach or grow back without any damage to her.”
+
+“Damn…” Adrian mutters, sitting down on a seat in the middle room of their barracks. The room meant to split the men and women.
+
+Although Hannah has had the womens’ room all to herself until now.
+
+Adrian and the others don’t ask about why she’s in the military, nor do they ask about what her circumstances are. Because each and every one of the Category 5 ability users in the room understand how little freedom even their own nation can have for those incredibly useful and incredibly unlucky.
+
+They’ve all had their own demons to deal with at one point in their life or another.
+
+They know better to dig into someone else’s demons.
+
+But Adrian still can’t bring himself to let go of his anger.
+
+“I still don’t like it,” he says, bluntly stating his mind as always. “She should quit the military. If she’s been in the military for a decade now then she doesn’t have to stay. She can just retire and live a cozy life from here on out.”
+
+He feels his fist clenching, but he doesn’t say any more beyond what’s already been said.
+
+None of the others comment on his words either.
+
+“Just treat her well when she arrives,” the major eventually breaks the silence. “It won’t be easy, but she needs friends.” Then he looks down, a sad look flashing across his eyes and mutters, “Everyone does… being alone isn’t…”
+
+He trails off without finishing, but everyone in the room understands.
+
+“I’ll try,” Adrian says, making his commanding officer look up at him with a sad smile.
+
+“Thank you,” the man says. Then he begins to regain some of his enthusiasm as he continues, “Now we just need to become friends with her and welcome her into our little family!”
+
+“Yeah!” Hannah shouts while punching a single fist into the air. And Frank wordlessly joins her.
+
+Jason just chuckles and shakes his head, leaving Adrian to roll his eyes.
+
+Then they begin planning around how to get her to open up.

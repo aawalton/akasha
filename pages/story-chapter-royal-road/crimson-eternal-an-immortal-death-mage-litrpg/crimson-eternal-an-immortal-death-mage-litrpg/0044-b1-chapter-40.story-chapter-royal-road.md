@@ -1,0 +1,121 @@
+---
+id: ba90a07f-5b78-503e-9e40-9a6793d63945
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 40"
+slug: 0044-b1-chapter-40
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 44
+ownLength: 1801
+unit: words
+ownProgress: 1801
+publishedAt: 2024-01-20
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1488466/b1-chapter-40"
+royalRoadId: "1488466"
+markedReadAt: "2026-06-29T19:07:22.494Z"
+---
+
+On the Ocean World of EternusNot long ago
+
+“So then,” Shirou Amatsuraki says while looking at the coin he’s repeatedly twirling through his fingers, rocking it from one finger onto the next. A habit he’s had for longer than he can remember. “We found them?”
+
+“Yes, Excellency,” the man’s assistant standing on the other end of the room with a clipboard in his hand says with a light nod of his head and a grin on his face. “News has arrived that the Void Temple on the Beta Tier world known as Roan has left the world and moved to settle on the Gamma Tier newly initiated world. And along with that news, we’ve received a few interesting tidbits of intel about that new world.”
+
+“Oh?” the Emperor of the Eternal Dynasty utters, still playing with his coin.
+
+“It would appear that the world has at least six Class S Ability Holders,” the assistant says, making the Emperor finally send a brief glance over at him, only for the man to return his gaze to the coin again a second later. “And one of those Ability Holders has the ability ‘True Immortal’.”
+
+That makes the Emperor finally stop twirling his coin for several seconds to focus on the assistant, the man finally having most of his attention.
+
+However, after a few seconds, the Emperor turns to focus on his coin again as he raises it to the light with one eye closed and says, “The world must either have a low population or terrible resources for its Tier to be so low. And a true immortal will be the perfect business partner, but I don’t-”
+
+“Excellency, we also received word that one of these six, possibly the true immortal herself, may possess the power to erase a soul permanently,” the assistant interrupts the Emperor, making the man’s eyes instantly move back to the assistant again while narrowing. “Furthermore, the Grand Roan Empire supposedly summoned a Greater Death Spirit to Vortel, and the world is still alive with no signs of miasma.”
+
+A few seconds pass in silence.
+
+“Do we know the name of this true immortal?” he asks, making the assistant frown for a second before nodding.
+
+The assistant quickly answers, “Their name is Aria Crimson.”
+
+As soon as the Emperor hears her last name, a very brief flash of surprise crosses his face, only to vanish again right after. Lasting just barely long enough for his assistant to see.
+
+It can’t be. But even if she doesn’t turn out to be Death, it may be worth getting into contact with this true immortal regardless.
+
+And so, the Emperor finally returns to playing with his coin once more, putting his feet up on his desk as his shoulder-length white hair falls over his stark white eyes and he says, “Purchase the coordinates of this new world, send some lower ranked merchants there, and hide a few analyzers amongst them to scour the world for Death.”
+
+“And if she’s found to truly be the Pale Horseman?” his assistant asks while writing down the instructions on a note on his clipboard.
+
+The Emperor raises the coin as he spins his chair to look out his window at the endless oceans with large cities built upon pillars and towers stretching from beneath the waters beyond. And the very instant lightning strikes the ocean, sending the clap of thunder all across the capital, he sends electricity of his own through the coin and says, “Then we’ll send higher ranking merchants and create business ties with her and whatever power she’s a part of.”
+
+Aria
+
+After seeing the five approaching merchants stop their approach and realizing what faction they’re with, I relax ever so slightly. But not fully, because there’s no telling if these people are who their outfits say they are.
+
+“Commander-” Harvey begins, only to pause when the merchant at the front of the group pulls out some sort of radio-like device and speaks into it. Then a voice echoes out from their position.
+
+“We swear we have no harmful intentions towards you. If possible, we would like to speak. If not, shake your heads and we will leave.”
+
+I blink in surprise before glancing at the commander.
+
+“I don’t believe they mean us any harm,” Major Harvey says, attracting all of our attention towards her. “I searched their persons with my senses, and they don’t seem to be preparing for combat. Their bodies don’t have the usual tension, they aren’t armed with any easy to reach weapons, and I see a storage ring that they are directly letting me see the inside of. And it’s filled with strange merchandise.”
+
+“Any weapons in that merchandise?” the commander asks while turning to look at the invading merchants again.
+
+“Negative,” she answers, “it’s all food and building supplies, mixed with some strange technology. But while I can’t figure out the exact purpose of the tech, I can tell it’s not meant for combat.”
+
+She can tell all that from here? Damn her ability is powerful. Even stronger than I thought.
+
+“In that case…” the commander frowns for a second before turning to the cliff and saying, “Let’s head down there.”
+
+“Roger that,” I respond before jumping down from the cliff without a hint of hesitation to eventually land on the sand down below, leading to a loud crunching sound coming from my legs as they completely snap. Then they repair within a second and I begin walking away from the cliff while the others make their own ways down.
+
+Which mostly involves taking advantage of either Harvey’s barriers or Snow’s ice blades.
+
+I make my way over to the merchants while the others come down, gliding high above my head as I walk until we all arrive nearly at the same time in front of the mercenaries. But I make sure to keep a pistol in my hand just in case.
+
+Snow also keeps a few blades of ice above his head, but to my surprise, the merchants seem completely unfazed. In fact, they appear to be attempting to accommodate us as well as they possibly can to assuage any fears we may have.
+
+Which seems… a little generous.
+
+The Eternal Dynasty is known as the largest neutral power in the entire universe. They do not enter any conflicts and are a purely mercantile nation. And it’s led by someone who only really cares about entertainment and getting more money.
+
+No one really knows which one he cares about more though.
+
+I furrow my brows slightly as I remember that intel given out to the officers. Intel that was… rather deep.
+
+Took me days to read through it, albeit with my time limited by work.
+
+“Greetings,” the man at the front of the merchants says before surprising us all, “Twilight Huntsman, Overdrive, Mystic Warden, Arctic Edge, Psionic Inquisitor, and,” he pauses as his gaze eventually lands on me, having alternated from each one of us as he says our titles, “Crimson Eternal.” Then he looks at the commander again with a polite smile on his face despite the wariness all six of us are showing him. “I am the new representative for the world of Vortel, Yusuke Yoshida, at your service.”
+
+The man gives a light and polite bow before seemingly waiting for a response.
+
+We all hesitate for a moment before the commander takes charge and asks, “How do you know who we are? And what is your relationship with the Arterian Empire?”
+
+Mr. Yoshida answers right away without any irritation in his voice, “We have technology that lets us spy on nearly every city in this world. And as for the Empire, we have made a few trades with them, but we haven’t formally entered into any form of agreement.” His smile grows slightly. “We were actually waiting on you to decide whether we would do that or not. But from what we’ve been able to gather, it’s not likely that we’ll enter any sort of agreement with the Arterians.” He tilts his head. “That’s what you want, correct?”
+
+I blink in surprise, and I’m not the only one as the others look just as surprised. Meanwhile the other merchants with Mr. Yoshida just begin taking a bunch of stuff out of their storage rings when Mr. Yoshida raises a hand and gestures at them, making us tense up a little. But everything they take out just makes it looks like they’re setting up a stall or something.
+
+“Yes, it is,” the commander says, sounding rather wary. “Why are you so willing to please us, Mr. Yoshida?”
+
+“My apologies, but my nation orders our names with the family names spoken first,” the man says, surprising me a little but not much. Then he answers the question, “It is precisely because your nation has eight Class S Ability Holders as opposed to the one that the Arterian Empire has.” The man briefly glances at me before looking away again, making me furrow my brows. “Your nation has also entered a pact with a Temple of the Void, thereby granting you the ability to revive should you die.”
+
+What was that look about?
+
+The commander continues asking question after question of the merchants, but they answer each and every one with patience. As if trying to sell themselves to a person of higher authority with everything they can muster, regardless of if anything could be considered rude from said authority.
+
+Why do I get a strange feeling from these people? It really does feel that they’re genuine in wanting to work with us, and I feel like I can vaguely remember what he mentioned about the name thing from the intel, albeit only briefly mentioned in it.
+
+But it feels like they’re not telling us one of the reasons why they’re working with us to this degree.
+
+Lieutenant Colonel Striker seems to be trying to figure it out himself considering his questions, but every last one is answered perfectly by Mister… Yusuke? By Mr. Yusuke. So he eventually just gives up, likely deciding to leave that to his own higher ups to figure out.
+
+Then we begin heading back to the cliff again in preparation to leave Arteria.
+
+And, of course, we don’t make it even five steps before finding a large armed force of soldiers heading our way from the Southern Pass.
+
+So the commander immediately begins to head North instead, with us and the merchants following him.
+
+“Let’s just go to the Northern Pass instead,” he says, acting like we didn’t see that large force of soldiers as the merchants bring out more of those modes of transportation they were riding and let us borrow them to make a hasty… advance? I guess?
+
+Since we’re heading further into Arteria technically.
+
+Anyways, Northward we go.

@@ -1,0 +1,175 @@
+---
+id: 70f3a302-f707-5e25-9172-8139d7abb390
+page-type-slug: story-chapter-royal-road
+title: "233: Bloodmarsh"
+slug: 0233-233-bloodmarsh
+partOf: delve
+position: 233
+ownLength: 2507
+unit: words
+publishedAt: 2023-06-04
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1234581/233-bloodmarsh"
+royalRoadId: "1234581"
+---
+
+Slowly, inexorably, Temerity dug its way deeper into the Bloodmarsh—quite literally, in the places where the bottom grew too shallow for their passage. Magic saw them through. The Geomancer/Hydromancer synergy was again proving its worth, with Corrin and Clubbs together shifting almost as much mud as Bakal. The former Sea King was tired from the battle but had agreed to help without so much as a complaint. He hadn’t even asked for any sort of compensation. Perhaps he was rethinking his stance on joining Ascension. Perhaps not. Their interests were still aligned, even if all he wanted was to retire someplace dry.
+
+As for how Rain was helping, he’d resigned himself to his role as bug-zapper. He’d managed to smooth Fulmination’s output and was running it constantly. Everything touching the ground—including Temerity through its contact with the water—was losing charge as fast as it could be built up. Anything lacking that connection, though, would charge quickly. For the bugs, that meant getting fried upon landing. People in the upper, wood-framed decks were experiencing perpetual mad-scientist hair, but the static shocks that came with it were painless. The resistance bestowed by the aura’s inverted effect saw to that, and if the distant chatter and occasional laughter were a guide, most seemed to be finding the experience fun.
+
+Rain wasn’t smiling. Ostensibly, he was up atop the bridge so his spells could spread more easily, but really, he just wanted to be alone. He was sitting cross-legged beside the flagpole, right where he’d been before earning himself his newest nickname.
+
+Compared to some of the other things people called him, ‘Whalediver’ wasn’t so bad, really. Several people on the ship had seen him get swallowed, but the Whale had dived before he’d forced his way free. With the water, the distance, and the Purify Nova he’d used afterward, the true means of his escape had been concealed. As far as anyone besides Dozer and Ameliah knew, his damage auras alone had been enough to make him unpalatable.
+
+[Raaaaain-Kiiiiiing!]
+
+[Sorry,] Rain sent, looking down at the slime in his lap, then resuming the Pats of Apology. Those were a mandatory component of his atonement, as was the constant cloud of Purify he was emitting along with Fulmination. The cleaning spell was set so low as to be invisible, but at maximum range and with Ethereal Aura, it was plenty effective. He wasn’t allowed to stop until Dozer said so. When that would be, he had no idea, but he’d given up his arguments about not wanting to leave a trail.
+
+It wasn’t that bad, really. The track of clear water, fresh air, and the suspicious absence of bugs wouldn’t stand out from above. The foliage was heavy and vibrantly green, the trees well-fed by rich soil beneath a thick frosting of rotting bug corpses and vegetation. His spell was only removing the stinking top layer, leaving the rest untouched. From the ground, their path stood out like a sore thumb, sure, but someone with the appropriate Tracking skills would have been able to follow them on foot, regardless. It would take at least a few days for the metaphysical imprint of their passage to fade, and by then, any physical evidence along the coast would have been washed away by time and tide. Rain didn’t need Dozer to tell him that the filth here was tenacious.
+
+The Bloodmarsh was a far cry from a natural ecosystem. Besides the bugs, there were no animals this deep in the swamp. In terms of the problem species, Detection had identified three kinds of flies, two kinds of mosquitoes, two kinds of ticks, two kinds of leeches, one kind of carnivorous wasp, and one kind of sucker-mouthed beetle-slug-thing that didn’t fit neatly into a category. All but the wasps and the beetle-slugs drank blood, while the latter two voraciously dined on flesh. Not even birds and lizards could survive here, unable to eat enough bugs before they would be drained dry and eaten themselves. The lack of birdsong and other animal noises was unsettling.
+
+It wouldn’t have been stable, but for spawns. Monster flesh provided an inexhaustible food source.
+
+In the same way that Ekrustia was the land of Slimes, Bellost was the land of Beasts. What distinguished a Beast from any other monster with animal features was a bit unclear, as only rarely did they have ‘Beast’ in the name. The hallmark, he’d been told, was a certain sense of nobility, something non-Beast monsters lacked. A Skiffun, for example, was not a Beast, which tracked, but neither was a Dark Hound, despite being quite clearly higher on the nobility ladder. That wasn’t to say Beasts didn’t exist on other continents, simply that they were as rare as slimes were here. On Bellost, Beasts were both trash mobs and apex predators. On Rellagia, it was Sprites, which were a minor form of Elementals. On Karmark, it was Avians, though most would say dragons if you asked.
+
+As for the Bloodmarsh, specifically, there were two types of Beast responsible for the situation. The first was the Bloodhog. It was a mega-pig, essentially. Besides being hippo-sized, Bloodhogs weren’t very dangerous. Their lack of tusks was part of it, as was their placid-unless-roused demeanor, but it was mostly that they were so slow that even an unawakened could outrun one at a brisk walk. ‘Lumbering’ was the word. With low resistances, low-ish health, and Vivificant-level health regeneration, they were the perfect food source. People even farmed them along the border of the zone where the bugs weren’t quite so bad.
+
+Here, in the ‘wild’, the one example they’d run across so far had been an unrecognizable, shambling mound. Its entire body had been smothered with layer after layer of feeding insects, its flesh writhing with their larvae. Even with Immolate at full blast, Rain was of the opinion that he hadn’t used nearly enough fire.
+
+The second Beast endemic to the Bloodmarsh was the Pella. So far, they’d only found their bones. They were small, something like a cross between a chinchilla and a capybara from how Ameliah had described them, and were supposedly just as adorable as that sounded—from a distance. Ameliah said the up-close experience was more like having a coked-up chihuahua trying to strip the flesh from your ankles. Admittedly, she hadn’t used that exact comparison, but the point remained that ‘feisty’ didn’t do it justice. Along the border of the marsh, any population of insectivores trying to move in would find themselves torn to ribbons before they made any headway. Indeed, east of here, near Tenamar, those that wandered from the swamp were a major nuisance, killing chickens, goats, and such from time to time on the outlying farms. An extermination mission was actually what had brought Ameliah there years ago.
+
+It was also there that she’d heard the horror stories of what went on closer to the Bloodmarsh’s ranked core. She hadn’t been close enough to hear it for herself, but it was said that there was a nightly war of sound. The furious squeaks of freshly-spawned Pella would rise with the sunset, only to be swallowed by the horrible drone.
+
+Rain hadn’t believed it the first time she’d told him. After the swarm that had descended on Temerity and seeing the bones in the muck, though...
+
+Perhaps when the sun set, they’d hear the truth for themselves, or perhaps not. They were nowhere near the core, as far as his senses were concerned. Emerton had the depth gauge at the moment and was using it to scout around them in a wide circle. He’d have radioed if the needle had budged from zero. Even if they did find the ranked zone, it would only be so they could stay away. Nobody had any interest in camping in a place where monsters could spawn under your bed, not after Fel Sadanis. Besides, a rank one or two zone wouldn’t solve his essence problem anyway.
+
+No, he had to leave. Perhaps as soon as tomorrow.
+
+Ameliah, Tallheart, and Jamus were the only ones who knew what he was planning—she because she was coming with him, and the others because they’d gotten to talking about it after discussing Tallheart’s broken soul. The high council doubtless suspected something, but he hadn’t informed them officially. He supposed he’d have to. And then he’d need to give a speech.
+
+He’d already written it, but...
+
+Stepping down’s not a betrayal. If I die, I can’t help anyone.
+
+Taking his hand from Dozer’s membrane, he made it into a fist and triggered an essence exchange.
+
+Progress Report
+
+marker_1: whale_inside [3061 Light 28 10:00]
+
+marker_2: bloodmarsh [3061 Light 28 13:13]
+
+Span: 3.2 hours
+
+Character
+
+Total Exp: 3,136,316 -> 3,636,316 (+500,000)
+
+↳Mana Use: 500,000
+
+Skills
+
+Prismatic Intent: +709 exp, 1 -> 2 (+1)
+
+It’s not enough.
+
+Dozer squirmed unhappily but didn’t admonish him for stopping petting. The slime could feel his mood. After a moment, he wriggled free. [Rain-King busy brood. Dozer go play Floofy-Cloud, okay? Happy king-link help Rain-King.]
+
+[That’s fine, Dozer. Have fun.]
+
+[No stop clean,] the slime commanded seriously before oozing over the edge.
+
+[I wouldn’t dream of it,] Rain sent, smiling slightly at where the slime had just been before returning his attention to his interface and the problem at hand.
+
+The level for Prismatic Intent had come partway through the fight, as had the tier-four unlocks. He hadn’t been about to let all that mana he’d used go to waste. Not when he’d needed to break down some of what he’d built. Not when he’d needed to sacrifice his foundation just to maintain the distraction. The extra aura slot had helped, for sure, but his station stood gutted, his paling slack and flabby around it. Empty. With no pressure.
+
+Two steps forward, one step back.
+
+Rain shook his head. What he’d salvaged, he could rebuild, and quickly, thanks to all he’d learned. Isolating Prismatic Intent, then connecting it to his auras had taken over a day the first time. Upgrading the connections to enable full use of the third slot had taken minutes. He knew the path, and there was nothing between him and a fourth slot, then a fifth after that.
+
+It would not save him. Efficiency would not save him. Even if he spent nothing at all, he didn’t have enough.
+
+The Warden had said he’d need rank twenty-five soul or better. To house his mind, he’d need more than just one unit. Perhaps one hundred units would be enough, and two hundred more for defenses. It was hard to say. Impossible to know. And he’d need more for his reactor to be able to work higher-leveled essence. More for the refinement tower to create it. More for his paling, ramscoops, and exhaust. More for the structure to hold it all together.
+
+More, more, more.
+
+Perhaps one thousand units. Standardized to rank zero, that was one thousand times two to the power of twenty-five.
+
+33.5 GESS.
+
+Ten times what he had now.
+
+At minimum.
+
+Total Known Skill Trees:
+
+Tier 0: 144
+
+Tier 1: 144
+
+Tier 2: 144
+
+Tier 3: 144
+
+Tier 4: 11
+
+There were one hundred thirty-three tier-four unlocks to go. With each, he’d raise his allocation, increasing how far the system would be willing to help him—presuming there was enough essence around for it to do so. The exchange he’d just done hadn’t even recovered what he’d lost. It was a drop in the bucket.
+
+This place could not sustain him. There simply wasn’t enough essence. Even if there were, even if he unlocked every last tree, the numbers told a grim story.
+
+One-hundred thousand experience, times one-thousand, times one-thirty-three.
+
+13.3 GESS.
+
+The ratio of essence allocation to experience was 1000:1. His initial guess based on the size of Dozer’s projection was correct—not through cosmic coincidence, but because his very perceptions had conspired to give him the answer. He hadn’t believed it then. He still didn’t understand why.
+
+It didn’t matter why.
+
+It. Was. Not. Enough.
+
+He’d need his ramscoops. They’d need to be redesigned. Improved. Exposed to higher levels of essence. Given time to work. To get that time, he’d still need the system’s help, even if it could only get him a third of the way there.
+
+Three months, the Warden had said. Three months, approximately, which made it two. That had been the 31st of Seedlings. Today was the 28th of Light. One month to go. At four trees per day, he could unlock everything in that time, but it wouldn’t mean anything. If he wanted the effort to be of any use, he had to go faster. Ten trees per day would cost him one million experience from two million mana spent. Two million essence consumed.
+
+Too much. Not enough. The numbers did not lie.
+
+Stop stalling. You know what you need to do.
+
+There was a method he could use, a way to earn all that experience and not have to spend a single measly ESS in the bargain. The technique was dangerous. It was what had broken him in the first place. What had led him down this tortured, twisted path.
+
+I’m different now. Stronger. I know what I’m doing. How much I can take...
+
+...
+
+I’m still stalling. Essence Singularity!
+
+monmon.sh: error: unsupported legacy script
+
+Essence Singularity (composite)
+
+WHAT THE $%@#!?
+
+Transfer Rate: 47.1105 mp/s
+
+Efficiency: 100%
+
+The familiar blue rings of Essence Well appeared around him, steadily rising as he sent mana to himself.
+
+Amusing as it is, I should really update that card. Anyway, twenty-three point five experience per second is 1,410 per minute is 84,600 per hour is 2,030,400 experience per day. Good, I’ve got some margin.
+
+...
+
+Actually, you know what? On second thought, I think the card is just fine.
+
+Luna sat alone in his office, tapping his finger against the report on his desk. He’d already read it three times. Their Agent had not made contact. Their Diviners at Freetown had seen nothing emerge from the channel.
+
+No matter.
+
+They’d find them again. Even now, his people were moving through Sadiir and the Shadevale Dominion, watching the shipping lane. The Splendiferous had been retasked, taking that exact route. Ascension would be found. They would be found, then studied until their every last secret was revealed.
+
+He didn’t believe for a moment what the report said was the most likely outcome—that the stolen ship had cut too soon and been lost with all hands...
+
+Ornaments and papers jumped as his fist struck the desk, one sheet sliding to the ground, a report on the brewing civil war ripe to break out within the Watch. There were other demands on his attention, other profits to be made. By rights, he should call his people off and be happy with what he’d gained. And yet...
+
+His fist slammed the desk again. He hadn’t even attempted to stop its rebellious outburst. Outside his door, his underlings would be none the wiser. His wards, at least, were worth the money he’d paid for them.

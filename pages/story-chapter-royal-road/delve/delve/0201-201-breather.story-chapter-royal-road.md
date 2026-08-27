@@ -1,0 +1,345 @@
+---
+id: 782fbd8a-6195-589a-9d30-3b7df69ff810
+page-type-slug: story-chapter-royal-road
+title: "201: Breather"
+slug: 0201-201-breather
+partOf: delve
+position: 201
+ownLength: 5121
+unit: words
+publishedAt: 2022-08-07
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/965421/201-breather"
+royalRoadId: "965421"
+---
+
+Sitting cross-legged on the sand, Rain sighed deeply as he stared out at the hazy horizon. He was in his soul, gentle waves of essence lapping at his toes. Chaos churned up during the battle had polluted his artificial sky, but orange was slowly fading back to blue as order reasserted itself. It was calm. Peaceful. Like the day after a storm.
+
+Outside, in the real world, that storm raged on, Temerity plowing its way through choppy waves as it fled for Barstone with all the speed its turbines could provide. One of the first things Rain had done after arriving was to check the boiler, finding it heated to the absolute limit. Any hotter would be risking a catastrophic failure despite the enchanted metal, so he’d simply topped Kettel and Ava up with mana and left them to it, child-labor laws be damned. He’d then done much the same for everyone on board, using both Winter and Essence Well, but with the range tightly controlled to keep the magic from escaping the confines of the hull. Ethereal Aura wasn’t fully leveled yet, but already it was showing its worth, allowing his spells to function at short range even at the very heart of the ship.
+
+As the Adamants had fallen behind, the fear of Whales had eclipsed that of pursuit. Even Goldships didn’t travel at night. While they were in sight of shore—or would have been without the storm—they couldn’t go too close or risk smashing into something. The charts told of numerous rocky outcrops and islands peppering the coast near mountains that divided the DKE from the lands to the south. Fechton—Shu, Rain corrected himself—had charted them a course keeping them well clear. The Starguide couldn’t see the sky thanks to the clouds, but Ameliah was helping him by scouting with Airwalk. As a stamina-based skill, it had a relatively low chance of drawing anything unpleasant up from the depths to investigate.
+
+The chance wasn’t zero, though. There was also the very real danger of Ameliah losing them in the storm. Rain had given her his perception accolade and ordered electric lights to be brought out on deck, but still.
+
+He sighed again, looking down at his feet. He couldn’t do everything. Couldn’t fix every little problem and mitigate every risk. Ameliah had told him she had the navigation situation under control and that he needed to take a break.
+
+She was right, of course, but he just couldn’t help worrying about her. About everything. Tallheart, for example. The smith had clearly pushed himself past exhaustion in holding the ship together, only to then strain himself further by healing Halgrave. Nobody else seemed to see it, what with how adept Tallheart was at hiding his fatigue, but Rain did.
+
+And then there was the situation with Velika.
+
+Now that was a powder keg ready to explode. The ex-Citizen seemed to have agreed to a truce of sorts with Halgrave, but the nearer they drew to the DKE, the more likely there’d be an issue. At some point, she would try to extract a promise of silence. If Halgrave didn’t agree to that, well...
+
+Burying his face in his hands, Rain began massaging his temples in a vain attempt to relieve some of his tension.
+
+Even supposing Halgrave agreed to keep the secret, he wasn’t the only one who’d need to remain silent. All of Ascension knew by now, and Rain wasn’t sure what would be the greater risk, relying on that silence, or trying to bypass Barstone entirely. The trouble was that Splendor was hardly any better. Without sailing through DKE waters, it was the only destination that wouldn’t necessitate crossing days of open ocean, merely a short stretch. Pirates and smugglers risked taking that route from time to time, but that didn’t make it safe. Bakal had ‘cut the corner’ a few times in his youth, or so he claimed, but one of those voyages had ended with the loss of his entire crew. And then, supposing they even survived the crossing, they’d just be stopped anyway, only by the Bank instead of the DKE, which was hardly an improvement.
+
+What a mess.
+
+Raising his head, Rain again looked out at the horizon. After all the rushing around, he’d found himself with a few minutes to think, so he’d wedged himself between a pair of twisted girders amidships and retreated in here. He was in his armor again, at least, so he wasn’t overly worried about being sneak-attacked. Of course, that also meant he had to contend with its interference with Prismatic Intent. If the Adamants attacked them again—still a possibility—things could get interesting.
+
+He sighed. After the chaos of the battle, he hadn’t let himself stop until now. Stopping would have given him time to think. To process.
+
+To come to terms with the deaths of those he’d promised to protect.
+
+Mollo, who just earlier this week had made his first ring capable of holding an enchantment, then celebrated that success with such foul-mouthed exuberance that the Three Cliffs neighborhood watch had come running to help with the perceived crisis. Kip, who’d been with Rain since Fel Sadanis, since before Ascension. He’d joined for the promise of awakening. He hadn’t gotten it. Now he was dead. Now they were both dead.
+
+It’s not my fault. They knew the risks.
+
+Thinking the lies didn’t help. After a long silence, Rain sighed, rubbing at the bridge of his nose.
+
+I should organize a memorial service or something. Glavin’s missing too, but that’s not surprising, given that he can teleport. Halgrave said he’s a coward, but I’m not so sure. Regardless, if Glavin got away, he’s not going to be able to find us at sea, let alone teleport onto a moving metal ship. Best case, we find him waiting for us in Barstone. Worst case, the Empire got him.
+
+Rain groaned.
+
+At least he has a chance. Not like anyone still in Three Cliffs...
+
+Mayor Graymond.
+
+Lellermen Green.
+
+Gus...
+
+We just...left...and the Empire’s going to...
+
+Rain slammed a fist against the sand, as angry at himself as he was at the Empire. He hadn’t come in here to stew. Clamping down on his unhelpful thoughts, he pushed himself to his feet and turned, surveying what remained of his floating island.
+
+It looked as if a hurricane had swept through, pulverizing his various experiments and scattering the shards across what little sand remained. His battle with the Incarn had placed their souls in direct conflict, and the shockwaves had reverberated all through his inner world, smashing and breaking. That wasn’t all, though. So much of his essence ocean had evaporated that his island’s underside was scraping his core’s armored shell. Some of it would have been converted to mana to fuel his spells, but not that much.
+
+“Where did it all go?” Rain muttered to himself.
+
+[⟬disorder⟭!] Dozer sent unhelpfully, apparently having heard him.
+
+[I know, Dozer, I know.]
+
+Rain sighed, then looked up to see the slime industriously oozing across the island like a gelatinous Roomba, collecting wooden splinters, chunks of metal, the torn pages of books, and whatever else. [Fixing this is going to take a while. Thanks for helping, buddy.]
+
+[⟬filth⟭!]
+
+Resignedly, Rain began walking through the wreckage, just wanting to be in motion. It was a lesson for the future, not to keep important things out in the open. Through extending his senses, he already knew that any enclosed spaces had fared much better, such as his core room below and the inner compartments of his pressurized station in orbit. The pipeline to his paling had miraculously survived, though it was cracked in several places, which hardly mattered given that the pumps were high and dry.
+
+His paling was okay, at least. The strain gauges that speckled his over-engineered plug had shown high readings, but just within tolerance, which he supposed made it not over-engineered after all.
+
+Coming to a stop beside Dozer, Rain watched as the slime struggled to free a splintered wooden object from beneath a fallen tree.
+
+[Rain-King, what is?] Dozer sent. [Box?]
+
+[That’s a birdhouse, Dozer,] Rain sent, bending down to look. [I made a little birdhouse in my soul.]
+
+[???] the slime sent, confused, not that Rain had expected him to get the reference. [What bird?]
+
+[There aren’t any birds here, Dozer. I just made it. Because of reasons.]
+
+Dozer seemed to ignore him, his tone insistent. [What bird?]
+
+[Don’t worry about it.] Rain straightened, massaging the bridge of his nose. [There is no bird.]
+
+There was a long pause, Dozer quivering in the way he did when he was grappling with a particularly difficult concept. Finally, the slime spoke, sending each word carefully and slowly.
+
+[What...does...bird...mean?]
+
+[Oh,] Rain sent back, dropping his hand. [Sorry, I thought you were asking me— Sorry...and nice grammar. That was a full sentence.]
+
+So intent was Dozer on the question that he didn’t react to the praise. [Rain-King! Focus!]
+
+Despite his mood, Rain smiled at that. [A bird is an animal. You’ve heard them before. They sound like this.] Concentrating, he sent a few different snippets of birdsong in the slime’s mental direction, knowing that would work better than any attempt at a picture.
+
+[Oh!!!] Dozer bounced excitedly. [Understand!!! Know bird!]
+
+There was a pause.
+
+[Birdhouse box-bed for bird?]
+
+[Yes, exactly,] Rain said.
+
+[...Where bird?]
+
+Rain chuckled. [I don’t know, Dozer. Why don’t you look around while you clean? Let me know if you find one, okay?]
+
+[Yes! Dozer ⟬clean⟭! Dozer find bird!]
+
+[Love that energy. Happy hunting.]
+
+Leaving the slime to his wild goose chase, Rain smiled for a few moments longer, then let himself slump down on a fallen tree trunk with a sigh. There was another thing he needed to think about, now that he had the chance: his clash against the Incarn.
+
+He looked up at the sky, imagining he could see past the clouds as he began reviewing what he knew.
+
+Soulspace. The Liminal Void, as the Majistraal called it.
+
+People appeared there as glowing bubbles of light, coming in various colors and sizes. He’d known that since the obelisk incident when he’d seen Wallace, the Guild healer, in such a form. At the time, he’d chalked the simple avatar up to the man not believing in souls, but now, after gaining free access to the Void and chasing party links to find his friends, he knew he’d been dead wrong. That was simply how souls looked most of the time. He and Dozer were the odd ones out, him with his holographic avatar and Dozer looking like...Dozer.
+
+As near as he had been able to determine by talking it over with the Council of Souls—just him, Ameliah, and Tallheart at this point—the difference was one of consciousness. He was actively projecting his mind into the Void, while everyone else was simply there. Most of the time, anyway.
+
+Rain had interviewed everyone in Ascension who’d ever received an accolade, and they all reported appearing in their own body with varying degrees of ghostliness. He and Dozer were unique only in their ability to enter the Void on command. Until they found another lair core to break or someone else managed to enter the Void on their own, there wasn’t much they could do to find out more. Dozer’s example didn’t help. As an Essence Slime, he could be going there physically for all they knew, and he didn’t seem to project a domain, so—
+
+Rain frowned, putting a pin in his musings and calling up his damage logs from the battle on the shore. What he saw made him narrow his eyes.
+
+When I took that Fireball with him sitting on my head, it was like the system treated us as a single entity. It’s like he wasn’t there at all... Did he piggyback on my defenses? Are we really that connected?
+
+Rain scratched at his beard, then summoned a keyboard and added a few experiments to his to-do list before closing all his windows again.
+
+More research is needed. Later, later.
+
+Closing his eyes, Rain returned his thoughts to the Incarn, then willed himself into the Void, hoping that the context would help.
+
+WarningUnauthorized Liminal Void ProjectionThis action has been logged
+
+Rain swiped aside the dialog after making sure it hadn’t changed. As expected, the darkness was empty, swirling tangibly like smoke outside the stabilizing influence of his domain. A brief self-inspection assured him that his avatar was just as blue and holographic as always, with none of the glitching that indicated he was at risk of falling apart.
+
+Good.
+
+Rain looked up, scratching at his translucent beard as he considered. Through his previous experiments, he knew that the size of a person’s soul in the Void correlated to their total experience, including that which they’d spent on skill trees. Ameliah and Tallheart’s souls were around a half-meter in diameter relative to his avatar. Her greater number of unlocks compensated for Tallheart’s higher level, leaving them close enough in size as made no difference.
+
+Ameliah’s soul shone a brilliant gold, while Tallheart’s was a deep green, both with a metallic semi-liquid quality that marked them as silver-level. Bronze-level souls lacked that luster. Val, for example, manifested here as a smoky white sphere about the size of a beach ball. Mahria’s soul was larger, pale blue instead of white, but no less smoky inside. The color usually correlated with a person’s chosen element, but not always, and for proof of that, one had to look no further than Jamus. His soul was orange, matching his wardrobe more than anything.
+
+Again, why? Is it something you can change?
+
+Regardless, even if color was misleading, there was other helpful information to be had. Rain could now tell—albeit with some effort—roughly how strong a person was, even if they weren’t so strong that he could sense their presence directly. He could even tell if someone was awakened to begin with. Unawakened souls were volleyball-sized and completely devoid of color, more like wisps than bubbles, really. They also had no clearly defined boundary, which tracked with the supposed differences in their palings. Animal souls were like that too, only smaller and fainter, to the point that they were barely visible at all. As for monster souls, Rain had no idea. He had a standing item on his to-do list to investigate, just as he had one to go check out a gold-level soul.
+
+Monsters of a different kind...
+
+He began to walk, though there was no hope of just stumbling across Halgrave or Velika to get a look at them. Finding people in the immense, topographically inconsistent Void wasn’t straightforward. Position in the two different layers of reality was correlated, yes, but only loosely. With a party link acting as a pointer, navigating the clown-castle insanity became possible, if an exercise in frustration. Eventually, with enough persistence, it could be done. When domains of partied souls overlapped, the two bubbles of stability would merge into one. At that point, walking the remaining distance was trivial, and touching someone’s soul was...
+
+Rain shook his head, getting himself back on track. Without a party link, finding someone was even more of a challenge. The domains of unaligned souls fought each other for dominance, repelling each other like common magnetic poles. The only way to overcome the effect enough to actually see someone in the Void, let alone get to them, was to latch onto their soul and pull.
+
+Fortunately for that, skill use provided the means. For whatever reason, when you targeted someone with a system ability, their soul was drawn toward yours, possibly by the system itself. The closer the entity was in the real world, the stronger the pull in the Void, with contact skills being an order of magnitude more effective. If your soul was bigger than your target’s, or if your target was pulling on you in return, the attraction could overpower the repulsion enough for your domains to touch.
+
+At that point, it became a contest of will. If you were significantly stronger than your opponent, you could even pull their soul inside your domain completely.
+
+Regardless of how it happened—whether through a shared domain or a hostile takeover—when someone’s soul was in your sphere of influence, spells and abilities targeting them would manifest as visible currents of energy. It was more than just a light show, too. When Ameliah pushed a Healing Word through Rain’s armor, what she was really doing was shunting the energy through the Void, bypassing physical reality, or so it seemed.
+
+There was nuance, of course, coming down to practice, focus, and the perceptions of the two entities involved, but the fundamental truth was that if you could haul on an enemy’s soul hard enough to get it within your domain, you could really ruin their day.
+
+Thus, that had been exactly what Rain had decided to try in the battle against the Incarn. No matter their apparent power, Incarns weren’t gold. Rain had been able to feel the man’s soul howling in anguish even from a distance, and while it had been hot and angry, it had lacked the sense of weight that he got when he was near someone like Velika. In other words, it had been all volume and no substance, and so he’d figured it was worth a shot.
+
+Locating the Incarn turned out to have been no trouble at all.
+
+Trusting Ameliah to care for his body under the effects of Aura Focus, he’d projected himself into the Void, and when he’d opened his holographic eyes, he’d found himself already within enemy territory. The doomed soldier’s domain hadn’t been so much a pocket of order as it had a churning maelstrom filled with echoing waves of maroon light. The man’s soul sat at the center like a tiny star of rage, compact, but blazing with flares of energy.
+
+Rain’s domain had been swallowed in the tide completely, but it hadn’t been suppressed. Instead, it was holding it at bay, like the Earth’s magnetic field deflecting the solar wind. Ameliah’s soul had been there too, her sphere of influence warped into a teardrop shape by her proximity to the Incarn. Her domain hadn’t been overlapping Rain’s, though, despite their physical proximity. If not for the Incarn’s light shredding the intervening darkness, he wouldn’t have been able to see her at all.
+
+Once he’d gotten over the shock of the scale of the Incarn’s influence, Rain had begun forcing himself forward, finding progress easy at first, growing more difficult as he’d closed in. Like Ameliah’s, his bubble had soon started warping, making it clear that he’d never make it on his own. Undeterred, he’d angled for her. When their domains had finally merged, a snarl of multicolored energy had flashed into existence, reaching from him to wrap around her protectively. The red of Heat Ward had been the most prominent at first, but then purple had blazed to the fore, his macros refreshing the next Ward in the one-second cycle.
+
+Not paying the colors any mind, Rain had continued his advance, Ameliah’s soul drifting with him. Being that close, he’d been able to feel the strength of her will, subconsciously holding him to her as they bore down on their opponent in shared purpose.
+
+Together, it had been enough. The moment their shared domain had enveloped the Incarn’s soul, all hell had broken loose. First, Suppression had manifested as sticky, thumb-thick chains of purple light, firing from Rain’s chest, wrapping around the Incarn’s soul, then lashing it to the ground. The visual effect, though, was secondary. Rain had been feeling feedback distantly since he’d activated the spell, but when it manifested, pain had stabbed into his thoughts like a hot knife.
+
+Upon reflection, that had probably been the point at which he’d started screaming.
+
+He hadn’t lost his focus, though, instead pouring more and more power into Suppression until, with one massive flash, the Incarn’s soul had detonated. Things had gone a bit hazy after that. He’d woken up back in his body with Ameliah screaming at him in panic.
+
+If her bell got rung anywhere as hard as mine did...
+
+If I hurt her...
+
+Rain grimaced, then stepped from the Void back into his trashed inner world.
+
+She’s fine and would have told me if she weren’t. Besides, it was life or death. A little risk was worth it, and a little cleanup is a small price to pay. If she has to do the same... No, she won’t blame me. We took down an Incarn together, for filth’s sake! Two silvers! And I wasn’t even wearing my armor! That’s fucking nuts!
+
+Coming back to himself, Rain glanced at his HUD, then sighed, knowing that he’d already been in here too long. His time acceleration factor—almost trivial to determine thanks to his system access—had suffered from all the essence he’d chewed through in the past two hours, and he still didn’t know where most of it had gone.
+
+Damn it, I don’t have time to worry about it right now. I need to be out there. Doing. There’s one more thing I need to take care of in here, though. The reason I came in here in the first place. [Watch out, Dozer. Essence Exchange.]
+
+[K!]
+
+The corner of Rain’s mouth twitched at Dozer’s single-letter response. Somehow, talking to the slime always made him feel better.
+
+Rain triggered the exchange, and the world rippled. Down in his core, he could feel the essence squeezing powerfully inward. Up here, it was barely even noticeable. The air pressure rose slightly, but that was it. As he’d continued to spread order through his soul, essence exchanges had not only become routine, but also milder, to the point that he rarely bothered warning Dozer about them anymore.
+
+Progress Report
+
+marker_1: just_getting_started [3061 Seedlings 29 00:20]
+
+marker_2: getaway [3061 Seedlings 29 01:45]
+
+Span: 1.4 hours
+
+Skills
+
+Ethereal Aura: +36,000 exp, 5 -> 7 (+2)
+
+Synchronization
+
+Recovery: 10.5 -> 10.6 (+0.1)
+
+Two levels for Ethereal, huh? And still no Prismatic Intent?
+
+Rain shrugged, increasingly convinced that his armor had actually been helping him train the skill—like working out with weights or something. Dismissing the report, he called up the skill card for Ethereal Aura instead.
+
+Ethereal Aura (7/15) Exp: 16,449/17,600
+
+User may exempt the aura from environmental effects at will
+
+Aura gains 35% resistance to environmental occlusion and absorption
+
+Environment receives 30% aura output
+
+Darn. Just missed level eight.
+
+Rain waved the box away, wishing he could just dump mana into the spell to power-level it. Unfortunately, that wouldn’t be a smart move. He was already low on essence, but more importantly, they were already playing with fire by sailing at night. A Whale attack would be disastrous.
+
+I only needed it at level five anyway.
+
+Rain opened the Aura Metamagic tree, scrolling to see a plus symbol next to Anchor Aura, indicating that it was available for him to take. He smiled wryly. That little button was the only thing between him and the ability—besides himself.
+
+Part of him wanted to wait, to see his other options, but...
+
+No.
+
+He turned his eyes downward, his senses expanding as he peered straight through the armor surrounding his core.
+
+I’ve suffered for my indecision enough.
+
+He purchased the skill.
+
+As always, the unlock was fast, even in his accelerated reference frame. Energy flickered through his core like lightning through quartz, stronger than it was for lower-tier skills. However, just as when he’d watched this process before, whatever the system was doing was far too complex and subtle for him to follow. When the light faded, his gemstone heart felt ever so slightly different, but not in a way he had a hope of understanding.
+
+I’ll get there. One day.
+
+Rain smiled, remembering the clean patterns of his auras as he’d used them in the battle. Without his armor mucking things up, his vision through Mana Manipulation had been clearer. He knew what his auras were supposed to look like now. With time, he had no doubt he’d achieve the same level of proficiency with his armor on as he’d shown without it. He’d have to, because there was no Dunch-tickling way he was EVER taking it off.
+
+Lurching back to reality, Rain extricated himself from the girders, metal scraping against his shoulders as the ship’s engines vibrated the deck beneath his feet. A quick staccato burst from Detection assured him that all was well, but he looked around anyway, squinting through the water streaking his visor. Only once he was satisfied that nobody had come looking for him and nothing was on fire did he call up the description for his new skill.
+
+Anchor Aura (1/15) Exp: 0/1,600
+
+Allows for the creation, binding, and use of aura anchors
+
+Aura anchors are attuned to a single aura at the time of creation
+
+Aura anchors act as additional emission points, irrespective of distance
+
+User may project any aura through 0-1 anchors simultaneously
+
+Aura range is distributed across the user and any selected anchors
+
+Anchor Creation Cost: 100 + 100^x
+
+Anchor Creation Time: 1 hour
+
+Anchor Durability: 100 + 100^x
+
+Anchor Hardness: 27 (fcs)
+
+x must be a whole number greater than or equal to the tier of the attuned aura
+
+Aura use through an anchor damages the anchor
+
+Anchor damage is proportional to the mana flux, mitigated by Hardness
+
+He pushed his thoughts toward the spell, and guided by a reflex he’d never learned, his hands rose. They came together, one over the other in front of his chest like he was sheltering a tea light from the pounding rain. His mana, meanwhile, was flowing down his arms, pooling in his hands...as if waiting for something.
+
+Oh.
+
+Anchor Aura, Detection, Tier 1
+
+Instantly, though it moved in the barest trickle, the pooled mana in his hands began to flow outward, giving Rain the answer to his first question. It seemed the mana cost was distributed across the cast time, not paid upfront.
+
+Perfect.
+
+Raising his hands before his eyes, he shifted them so he could peek inside, feeling the spell’s matrix tremble with the motion. It had already been shaky, encased in the metal prison of his fingers, but he managed to keep it together. There was a tiny pinprick of light between his palms, he saw, too small for him to assign it a color other than white. A faint mist was flowing out from his hands, drawn to that one spot as the skill worked.
+
+Interesting.
+
+A quick attempt to use Detection told him that, while the creation of the Detection anchor was consuming an entire Prismatic Intent slot, he could still cast the spell in the other one normally. Satisfied with that and not wanting to make himself woozy, he opened his hands. The tiny pinprick flickered before vanishing into nothingness. He’d done his best to maintain the matrix, but it appeared he was a long way off from forging anchors hands-free.
+
+I’ll get there. People can do it with Fireball with enough practice, and this is no different. Also, it looks like I’ve got the answer to my follow-up question. You can cancel it mid-cast. That’s good.
+
+Raising his hands again, he accessed his rings, shifting the five hundred points he’d had in Clarity to Focus. With the accolade he was using and the points he’d already had assigned, his Focus was now seven-seventy. Anchor Aura’s Focus scaling would translate that to seventy-seven Hardness for the final product.
+
+Anchor Aura, Detection, Tier 2
+
+The light was brighter this time, the mist now joined by static discharges arcing silently between his palms. Again, a point of light started growing, pulling itself together amidst the haze of wasted energy.
+
+Mana cost is 100 + 100^2, so 10,100, divided by 3,600 seconds in an hour. 2.8 mana per second. Hardly worth mentioning. Hmm. Tallheart says crafting skills only give you the promised numbers if you do it right. Is all this interference going to affect the result? I suppose we’ll see, but first...
+
+Rain counted to thirty, then broke the spell again. As he did, he heard a gasp and looked up to see someone looking in his direction, though he couldn’t see who it was through the weather. Fortunately, there was Detection for that.
+
+Cessa? Oops. She must have Mana Sight. There’s no way she saw that tiny flash of regular light through the storm. I need to be careful with this. That wasn’t much mana just now, but if I lost a big one... I suppose I can’t blame her for being jumpy.
+
+...
+
+That’s it. We’re going to Barstone. Crossing any amount of deep water is a horrible idea, and it only gets worse if I can’t even use mana. Plus, I really should warn the Citizens. I owe it to the people in Three Cliffs, even if I know the DKE won’t lift a finger to help them. Damn it.
+
+He looked down at his hands, balling them up into fists.
+
+I need to be stronger, and that starts with this.
+
+He triggered an essence exchange. Other than the line telling him he’d unlocked the skill, it was blank.
+
+Hmm. So I only get experience on completion, or the ratio is really shit...
+
+...or it’s like Prismatic Intent. Shit, I suppose we’ll see.
+
+Anchor Aura, Detection, Tier 1
+
+Rain settled his hands in front of his stomach, this time intent on holding them there for the full hour. The trickle of mana was basically nothing, and if the final product came out weak or flawed, it hardly mattered. It was just Detection. All he wanted was to keep track of Temerity and those onboard when they got to Barstone, and he didn’t need a ton of power for that. At the rate they were moving, they’d be there before the sun even reached its zenith—a fact few had realized and fewer still believed.
+
+The world just got a whole lot smaller.
+
+Rain’s smile lasted only a moment. They’d drop anchor—figuratively, as they didn’t have one anymore—outside the harbor. He and Ameliah would go in alone to meet the Citizen. Maybe Halgrave would want to come, maybe he’d want to stay with his daughter, or maybe he’d try to carry her away. Rain needed to talk to him about that. And about the Velika situation. At least nobody had figured out who Shu was yet.
+
+Still sheltering his tiny light, Rain turned, then headed for the stairs.
+
+Enough screwing around. Waiting won’t solve anything, so it’s time to poke the bear.
+
+He looked down at his clasped hands and the tiny star growing inside.
+
+One point left.

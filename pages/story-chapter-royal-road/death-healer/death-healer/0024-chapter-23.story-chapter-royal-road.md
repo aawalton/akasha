@@ -1,0 +1,93 @@
+---
+id: e0b6262a-926b-5e5b-9bdd-165328d353d0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23"
+slug: 0024-chapter-23
+partOf: death-healer
+position: 24
+ownLength: 1250
+unit: words
+publishedAt: 2025-05-28
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2312889/chapter-23"
+royalRoadId: "2312889"
+---
+
+Lavinia still remembered the first time she saw Livia.
+
+The young woman had entered Lavinia’s home so soon after her mother’s death that it felt like a violation of every memory Fausta had left in that place.
+
+Lavinia had just returned from playing with Lily, and she recalled striking Lily over the head with a wooden sword more strongly than usual. For once, it was Lavinia who cried instead of Lily, and she had feared losing that friend if Lily took offense. However, Lily had calmed her by conjuring a small amount of light magic to heal the cut on her own scalp, which had left Lavinia in awe.
+
+The little redhead had realized that someone with such a powerful healing skill could become an incredible warrior, because a person like that could spar endlessly without needing a healer’s help. She herself always required a [Healer] during her training, yet Lily seemed capable of healing any injury she might sustain. Lavinia had even imagined sparring with Lily using real blades because Lily’s healing ability would improve every time she practiced, although Lavinia had never voiced this plan.
+
+When Lavinia arrived home that day, she found a strange woman giggling and giving orders to servants who carried clothes in and out. At first, she was too confused to grasp what was happening, but then she saw one of her mother’s dresses fall on the floor. She stomped toward it and demanded to know why they were touching her mother’s belongings. The woman, whose smile struck Lavinia as unnaturally sweet, said, “Oh my, you must be Lavinia.”
+
+Lavinia had immediately felt hatred well up inside and placed her hand on the hilt of her dagger, ready to strike down whoever this harlot was. Before she could have done anything, however, her father had appeared and introduced the woman as Livia.
+
+When Lavinia had asked who Livia was, Livia had said in a overly sweet and kind voice that she was Lavinia’s new mother.
+
+Aurelianus had looked embarrassed but had not contradicted her. Lavinia could only stare at this intruder, who went on to say that Lavinia looked like a boy and needed to become a proper lady.
+
+How can she speak to me like this? Lavinia had thought. And why isn't Father doing anything?
+
+When Livia began to announce a second piece of news at the gathering, Lavinia already knew what was coming.
+
+Her father had been absent for most of the time during those past years and had traveled on military campaigns. Lavinia had wished to accompany him, but instead she remained alone with Livia and learned what kind of person she truly was.
+
+Lavinia believed her father had “sold” her in a way, because she was left with tutors who specialized in punishing her whenever she didn't behave "like a lady," day after day.
+
+Livia forbade her from wielding a sword and confiscated the dagger that Lavinia’s father had once given her, claiming that a lady did not need such a weapon. A lady might study healing or take a civilian class that encouraged childbearing, Livia said, and the woman dictated that that was all Lavinia could ever become.
+
+Lavinia had protested at first.
+
+She even tried to run away from home, but Livia removed her from the capital and placed her in the countryside among instructors who convinced her that her former dreams were misguided. They insisted that she could never be a [Templar] and should dedicate herself to marriage and childbearing instead of fighting monsters.
+
+Exhaustion and a sense of futility soon had sapped Lavinia’s spirit, and she eventually complied so she might find a brief moment of… peace.
+
+She felt abandoned because she had lost her mother and now saw her father only rarely. She had met Lily on a few occasions, but Lavinia had been too ashamed to confide her troubles.
+
+Livia watched her constantly, and even Adriana, who showed some concern, could offer only an occasional smile or embrace before Lavinia had to return to her tutors. Lily’s carefree ways had been the only thing that gave Lavinia a small taste of relief—a small moment that allowed to live like she had when her mother had still been alive.
+
+Livia rose from her seat, lifted a delicate glass so the candlelight glittered across the rim, and called for attention.
+
+“Dear friends,” she began, her voice bright and sure, “we could not be happier to share a joyful secret. A marriage has been arranged for our beautiful girl, Lavinia.”
+
+A polite murmur swept the tables, and a few guests leaned forward with curiosity. Livia made a graceful turn toward the girl.
+
+It came as no surprise when Livia finally announced, during a dinner, that a marriage had been arranged for “their beautiful girl, Lavinia.” Many of the guests found it quite normal to arrange a marriage before the bride’s Class Day.
+
+“Her talent and her heritage speak for themselves,” she continued, smiling as though nothing in the world could cloud her delight. “And so, with the blessing of His Excellency the Pope, Lavinia will wed his youngest son, Lumius Iulius.”
+
+Applause broke out at once.
+
+Goblets clinked, and several relatives cried, “Splendid news!”
+
+Lavinia forced a small tilt of her lips, nodding because every eye fixed on her demanded the gesture.
+
+Although all she truly felt was a heavy weariness.
+
+Livia allowed the applause to settle, then added with a gentle laugh, “Who would have guessed that our lively little Lavinia, who once spoke of joining the [Templars] and chasing monsters, would blossom into such a refined young lady?”
+
+Chuckles rippled around the garden, and a few guests shook their heads fondly at the memory of Lavinia’s childhood ambitions.
+
+A sharp, high-pitched voice cut through the laughter.
+
+Before the soft chuckles had settled, a clear, measured voice rose from the foot of the dais.
+
+“Your idiotic confidence astonishes me.”
+
+The garden fell silent. Lily stood at the foot of the dais, fists planted on her hips. Adriana inhaled, startled, and said, “Lily—” yet she remained seated.
+
+Livia blinked, her smile faltering. “Excuse me, young lady?”
+
+“It takes a rare audacity to speak of being refined while being so glaringly vulgar in spirit and so destitute of honor that even the gutter rats would deem your company a stain upon their dignity,” Lily repeated with venom dripping from her teeth, her tone unwavering. “Lavinia is not going to marry some loser. She wants to be a [Templar] and she will be.”
+
+“Return to your table at once, young lady,” Livia answered firmly, her voice tense although still cordial—too taken aback by the language of the girl to even process all the names she had been called.
+
+Lily narrowed her eyes. Mana shimmered around her words, and the torches quivered as the sound carried across the garden.
+
+“Because your spite has stripped you of every shred of decency, the world would breathe easier if it were spared the burden of your continued existence.”
+
+Gasps broke from many guests; a few chairs scraped backward. Aurelianus’s hand drifted toward his sword, while Lucianus rose halfway before freezing. Lavinia felt every gaze shift between Lily and Livia, yet she could only sit with her hands folded in her lap, her heartbeat drumming in her ears. Lily’s defiance rose like a light beacon in the dark.
+
+In that moment Lavinia understood that her friend still saw in her the fighter she had always wanted to be, despite herself having nearly forgotten it.

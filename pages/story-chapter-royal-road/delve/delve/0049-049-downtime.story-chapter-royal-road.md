@@ -1,0 +1,443 @@
+---
+id: 7a1a8ab9-3658-5701-b9eb-7c76a6ca1e41
+page-type-slug: story-chapter-royal-road
+title: "049: Downtime"
+slug: 0049-049-downtime
+partOf: delve
+position: 49
+ownLength: 3660
+unit: words
+publishedAt: 2019-10-04
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/409950/049-downtime"
+royalRoadId: "409950"
+---
+
+Training Overview
+
+Skill Experience Earned
+
+Winter: 2720 [Rank Up]
+
+Aura Synergy: 3108
+
+Aura IFF: 18043 [Rank Up] [Rank Up] [Rank Up]
+
+Well, that’s the smallest training overview I’ve seen in a while. At least Winter was on while I was unconscious. Just two more ranks to go. Also, I really need to look into that mana use dialog. Aura IFF got a ton of experience from Essence Well, but since it’s maxed I can’t see how much I spent. I’ll probably end up maxing IFF before I figure out the experience formula for it.
+
+Rain was sitting near the fire, recovering his mana after having breakfast with Tallheart. Helping the smith cool down the metal had taken pretty much his entire pool. For breakfast, Tallheart had produced a few ‘rockmelons’ that he had found growing nearby. They turned out to be much softer than a ration bar, contrary to the name. Rain had resolved to go hunting for more of them once he reviewed his status.
+
+What should I work on today? Skills. Humm. Can I get it to filter out things I have already mastered?
+
+Skills
+
+Aura Synergy (7/10) Exp: 3861/4400
+
+Increase all aura output by 0.7% for each rank in any aura
+
+Effective boost: 42.0%
+
+Aura IFF (8/10) Exp: 1470/11600
+
+User may exempt entities from direct aura effects at will
+
+Selected entities receive 20.0% aura output
+
+Force Ward (3/10) Exp: 150/1600
+
+Increase physical resistance by 12.78% for all entities
+
+Range: 4.26 meters
+
+Cost: 1 mp/dmg mitigated
+
+Refrigerate (6/10) Exp: 1468/1600
+
+63-72 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 8.52 meters
+
+Cost: 30 mp/s
+
+Immolate (5/10) Exp: 566/1100
+
+52-60 heat (fcs) damage per second to entities and environment
+
+Sufficient damage causes ignition
+
+Range: 7.1 meters
+
+Cost: 25 mp/s
+
+Winter (8/10) Exp: 2362/2900
+
+Boost M.Regen by 114% for all entities
+
+Range: 11.4 meters
+
+Cost: 8 mp/hr
+
+Velocity (8/10) Exp: 998/5800
+
+113.60% boost to speed for all entities
+
+Range: 11.4 meters
+
+Cost: 8 mp/s
+
+Free Skill Points: 2
+
+There, that’s pretty manageable. That wasn’t hard to do at all. Maybe I’ll try messing with the system later. I should probably ask if the types of soulstrain are independent first though… Same for unlocking more skill trees. I don’t want to push it just yet. Maybe tonight.
+
+Anyway, I’ve got a few options. Immolate might be nice to work on. It’s damn cold out here. If I use it on low, it will be like my own personal space heater. I think I’ll do that while I go melon hunting.
+
+Refrigerate probably ranked up already, but it won’t take effect until tomorrow. It would be nice if things got experience immediately instead of once per day. I wonder if I can change that… I probably can’t, but I’ll put it on the ever-growing list of things to try.
+
+Force Ward…maybe. I’ll have to see if the others are willing to take the punishment. I’m not testing it on myself until I’m recovered. I still feel like I got run over by a steamroller. Either way, it should be easy to train. I could just have Carten jump good, then turn it on at max before he hits the ground. Good velocity practice too. I might want to do the math on that one before I test it though. I don’t want to blast myself into a coma from the undermana.
+
+The most important thing here is to make sure to finish off IFF. Once that’s done, the dark hounds will be a joke. Essence well with everyone but me blacklisted is the best training for that, as the massive pile of experience it got yesterday proves. Yay for that hunch working out.
+
+Rain got to his feet carefully. Though he had recovered somewhat, he still felt fragile. He had worn his armor overnight, as uncomfortable as it had been to sleep in. He was feeling particularly vulnerable without his Strength ring. The thought of removing the chainmail was unsettling, let alone the gambeson. The padded jacket had probably contributed to his survival in some small way. Also, it was warm.
+
+He looked around the campsite. Tallheart was busy hammering away at the bar of iron that he’d made. Why he needed to hammer it, Rain had no idea. It was pure, and supposedly that meant the smith could treat the metal like playdough. He decided against going over to ask, lest he get roped into a full day of helping Tallheart at the forge. He needed to do something about the food situation first.
+
+Val was sitting nearby, bundled in a blanket while he attempted to repair his jacket. He’d said that being too close to the fire was just as bad as being too far away. Rain could understand. He’d been recovering for longer, and his skin was still incredibly sensitive to temperature. He’d offered Val one of his old ripped shirts, but instead of putting it on, Val was in the process of deconstructing it. He’d said he needed the thread to repair his jacket. It looked like he’d be at it for a while.
+
+Jamus and Carten had taken the cart back down the trail to refill the barrel with water and collect a pile of firewood. The hilly terrain surrounding the mine was almost entirely devoid of trees and suitable brush. Tallheart had used most of what had been available already.
+
+Ameliah was off hunting, but Rain didn’t know if she would remember Tallheart’s dietary requirements. No matter how much game she found, it wouldn’t do the cervidian any good. Therefore, Rain would go hunting as well; however, his prey was brown, immobile, and unlikely to run away. The rockmelons Tallheart had found had looked exactly like rocks until the antlered man had cracked them open. Rain was fairly confident that his Detection aura would be able to find them.
+
+“Hey Val, I’m going foraging. Want to come?”
+
+“No thanks,” Val said. “Don’t get yourself killed.”
+
+“I’ll be fine. I’ll make sure to use Detection so nothing sneaks up on me. The range is pretty insane now.”
+
+Val nodded, then sighed as he resumed sewing.
+
+I guess that jacket meant something to him. He seems pretty beat up about it.
+
+Rain set off, walking slowly. His first ping for entities only registered his companions, so it didn’t look like there were any monsters or animals in the immediate area. He checked for rockmelons next, smiling as he got a few signals coming from the east. He started walking in that direction, in no particular rush.
+
+You will never escape me, pathetic melons. Flee! Flee for your lives!
+
+Rain was about to activate Immolate to test out his space heater idea, but stopped himself, glancing back at Val. He was still in range. He walked another few meters, then activated the skill, pulling the display open to check the damage listed. He dialed it down to nothing with Channel Mastery and then slowly bumped it back up until it got to 1.
+
+Immolate (5/10) Exp: 566/1100
+
+1-1 heat (fcs) damage per second to entities and environment
+
+Sufficient damage causes ignition
+
+Range: 7.1 meters
+
+Cost: 0.5 mp/s
+
+Nice. Space heater mode engaged at 2% intensity. I should be able to keep this up all day.
+
+He was still cold, so he increased the intensity further, stopping at five percent and holding it there as the air around him warmed up.
+
+Wow, it’s starting to get pretty hot… My heat resistance is 1, so maybe that is the line between what is ‘warm’ and what is ‘hot’ for a normal person. I’m only getting the reflection from the environment and it still feels like it’s the middle of summer. I’m kinda scared to try a Nova with this... I might dry-fry myself. I still can’t believe Tallheart was stirring molten metal with his damn hand, magic armor or not.
+
+Rain spent the rest of the morning hunting melons, keeping Immolate going the whole time. The heat of the skill, combined with the sun, was enough to melt the thin layer of snow that blanketed the stony ground. His mana was low when he stopped for lunch. The cost of space heater mode was minimal, but he hadn’t been able to use Winter to boost his regeneration while Immolate was active, and Detection had taken a toll. He’d done the math and determined that this was a pretty sucky way to train, but he was more interested in being warm than efficient. His soulstrain-weakened body did not like the cold one bit.
+
+Fortunately, he’d been able to build up a huge pile of the stony fruits, more than enough to last them for a few days even if that was all that they ate. It would have looked indistinguishable from one of Tallheart’s piles of ore if not for the fact that the melons were all spherical, if a bit craggy.
+
+They aren’t that hard to spot, once you know what to look for, even without Detection. That skill is damn wallhax and I love it.
+
+He grabbed a few of the melons and walked over to where Val and Tallheart were sitting. The others still weren’t back yet. He was about to sit down when a sudden voice whispered in his ear, startling him into dropping his stony cargo.
+
+“Rain, there are Kin around. I’ve killed one small group already, and I am following another. Be on your guard. I will be back by nightfall.”
+
+“What is it?” Val asked, rolling one of the melons over to himself with his foot.
+
+“Ameliah. She says there are more Kin around.”
+
+“Shit,” Val said, sitting up. “Did she say where?”
+
+Rain shook his head, then used Detection to scan for monsters. There was nothing.
+
+“Most troubling,” Tallheart rumbled, as he grabbed one of the rockmelons. He took a large bite out of it as if it were an apple.
+
+“Tallheart, what is rank shift?” Rain asked, using his knife to pry at a crack in the stony rind of his own melon. Whatever was coming, he didn’t want to face it on an empty stomach.
+
+Before Tallheart could answer, Val cut in. “It’s what it sounds like, basically. You know the Badlands?”
+
+Rain shrugged. “Heard of them, never been there.”
+
+Val paused to smash open his rockmelon using an actual rock as a hammer. “Well, a few hundred years ago, it was much worse—or better, depending on your perspective. The whole area was rank 30 or so, not rank 10 like it is now. Rank shift was one of the things that led to the fall of Osar. They lost their training grounds, and over time, their military declined until they were conquered by the empire.”
+
+“What causes it?” Rain asked. Val shrugged.
+
+“Nobody knows,” Tallheart said, chewing on the rind of his melon.
+
+“And it’s happening here?” Rain asked.
+
+“Maybe, maybe not,” Val said. “If it is though, Fel Sadanis is fucked.”
+
+“The Kin?” Rain asked, thinking of the consequences. “Yeah, that wouldn’t be good. They’d destroy all of the farmland. Everyone would starve.”
+
+“It’s worse than that,” Val said. “In a ranked zone, monsters can spawn anywhere.” He spat out a few rockmelon seeds. “Anywhere it’s dark, anyway. You don’t find cities in a ranked zone, other than the City of Lights. Usually, there is a ranked zone nearby, but a city actually in a ranked zone?” He shook his head. “Nobody wants Fungiforms showing up in their basement every time they forget to keep a candle lit.”
+
+“So like Fel Sadanis’ sewers?” Rain asked. “I did a quest to change out a bunch of evertorches down there. Is it a rank 1 zone?”
+
+“Yup, barely,” Val said. “That’s why the guild branch here is so pathetic. Nothing worth killing unless something wanders out of a lair or you want to walk all the way to the Badlands. It isn’t like the Watch lets anyone into the Fells.”
+
+“The Fells? What’s that?” Rain asked.
+
+“It’s the lair underneath the sewers,” Val said. “The Watch uses it to awaken new members. They don’t let the Guild anywhere near it. It’s been here longer than the city, if you can believe it. How nobody has ever broken the core in all that time, I have no idea.”
+
+“Oh,” Rain said, swallowing the last of his melon. He played with the rind as he digested what Val had said.
+
+Ranked zones, lairs, rank shift, politics between the Watch and the Guild… There’s a lot more going on around here than I thought, back when I couldn’t understand the language. I just assumed the society would be like medieval Europe, only with monsters, but this…
+
+Actually, I kinda don’t know much about medieval Europe, now that I really think about it.
+
+“Are you going to finish that?”
+
+Rain looked up to see Tallheart staring at the melon rind that he was fiddling with. He shook his head and handed it to him. Tallheart bit into it contentedly.
+
+“Right, enough of that,” Val said, standing up and adjusting his shoddily repaired jacket. “Rain, I feel like shit, but that doesn’t mean I’m going to sit on my ass all day. Come train with me.”
+
+Rain groaned. Val laughed at his expression. “Relax. I don’t mean sparring. I’ve got a new skill to level for the first time in ages. You’re going to help by packing me full of mana until I puke.”
+
+Rain exhaled in relief. “Oh. I can do that. I wanted to work on IFF anyway.”
+
+“Great, it’s a plan then,” Val said. He nodded to Tallheart and gestured to a large boulder across the camp. “I’m going to start blasting at that boulder. Keep Winter going. I’ll let you know when it’s time for Essence Well.”
+
+Rain nodded, shifting to get comfortable as he sat on the log by the fire. He saw no need to move; Val was well within range. Tallheart finished off the melon rind and wandered over to his smelting area as Val started lasering the innocent chunk of granite. The beams were either invisible or too fast to see, but the white flash that characterized the skill looked exactly the same as it usually did.
+
+Must be a metamagic skill then.
+
+Rain pulled up his skills menu and flicked through it until he located the description of Solar Ray. It was tier zero in a tree called Beams, along with a dark damage equivalent, Ray of Eclipse. Rather than trying to figure out how you could have a beam of literal darkness, Rain turned his attention to the specifics of Val’s skill.
+
+Solar Ray (0/10) (+)
+
+Fire a beam of coherent magical light from your palm
+
+Deal 3-4 light damage (fcs) on hit
+
+Instant
+
+Range: 20 meters
+
+Cost: 10 mp
+
+Humm. It looks pretty similar to Firebolt. He pulled up the other skill for comparison, as well as the one he was pretty sure Jamus was always using.
+
+Firebolt 0/10 (+)
+
+A bolt of magical fire assails your target
+
+Deal 6-8 heat dmg (fcs) on hit
+
+Range: 10 meters
+
+Cost: 10 mp
+
+Arcane Bolt 0/10 (+)
+
+Propel a burst of pure arcane energy
+
+Deal 12-16 arcane dmg (fcs) on hit
+
+Range: 10 meters
+
+Cost: 20 mp
+
+Interesting. They are all pretty similar. Solar Ray is instant and has a longer range than Firebolt, but lower damage. Arcane Bolt does twice as much damage, but costs double too.
+
+Humm. Assuming it levels the same way as my auras do, at rank 10, Solar Ray would only do 30-40 damage for 100 mp. That can’t be right. I’ve been hit by it; I should know. Either he’s got some more metamagic to boost it, or…
+
+“Hey Val, do you mind if I ask a question about Solar Ray?”
+
+“Go ahead. It’s a foundation skill; it’s hardly a state secret how it works,” Val said, pointing at the rock with two fingers. There was another flash as he fired again.
+
+Interesting. He doesn’t fire it from his palm like the skill says.
+
+“How much damage does it do at rank 10?” Rain asked.
+
+“Low damage, unless I boost it.”
+
+“How much specifically?”
+
+“That…is asking too much. No offense, but I don’t want people finding out how much Focus I have.”
+
+“How about base then, without the added Focus?”
+
+“Not everybody thinks math is as fun as you do, Rain.”
+
+“Right, sorry. How about mana? How much does it use?”
+
+“10 mp per shot.”
+
+“Really? It doesn’t cost more as it ranks up?”
+
+“Correct. Single target abilities usually don’t.”
+
+Huh. 3.5 dmg/mp is a lot better than 0.35 dmg/mp. I think I’m starting to see why Jamus says the offensive auras are inefficient. Immolate is at something like 2 dmg/mp/second, and that’s with Aura Synergy boosting it. Still, it does hit everything in the postcode...
+
+No, auras are still better in my mind. Everyone should take them. They don’t though, and it isn’t because they’re stupid. Just because they don’t have an education system, it doesn’t mean everyone is a moron. I need more data. Maybe other stuff is different too, like the focus scaling, or how much the damage increases at each rank.
+
+Val stopped firing. “I’m out. Essence Well, please.”
+
+Rain nodded and activated the skill, keeping the rate slow to preserve the efficiency. He blacklisted himself to work on IFF while giving Val as much mana as was possible. The blue rings that formed around Val moved slowly, but not nearly as slowly as those around himself. The speed of the rings seemed to be directly tied to the transfer rate.
+
+“Can you pump it up?” Val said. “That’s really slow.”
+
+“Slow is efficient,” Rain said with a shrug.
+
+Or is it…
+
+His previous line of inquiry temporarily set aside, he brought up the display for Essence Well, which he was currently running at 5% of its nominal rate.
+
+Essence Well (10/10)
+
+Transfer mana to all entities within range, including user
+
+Transfer Rate: 0.71 mp/s
+
+Efficiency: 100%
+
+Range: 14.2 meters
+
+Table time.
+
+He opened his notebook and flipped to the very last empty page. He quickly ratcheted through the steps of Channel Mastery, recording the listed rate and efficiency.
+
+Channel Mastery (%)
+
+Rate (mp/s)
+
+Eff (%)
+
+0
+
+0
+
+100
+
+5
+
+0.71
+
+100
+
+10
+
+1.42
+
+100
+
+15
+
+2.13
+
+100
+
+20
+
+2.84
+
+66
+
+19
+
+2.70
+
+72
+
+18
+
+2.56
+
+78
+
+17
+
+2.41
+
+87
+
+16
+
+2.27
+
+98
+
+Damn it. I need a notebook with a sort function. Whatever. I already knew it capped at 100% efficiency, so 15% intensity seems like it would be the best setpoint. Ignoring the fact that IFF isn’t perfect, I can give Val 2 mana a second. I have 5,100 mana, so I could transfer all of that in…2,500 seconds, however long that is. Umm, 3,600 seconds is an hour, so like 45 minutes or something. Too damn slow.
+
+Val started shooting again, only firing a pulse every five seconds or so. Rain left the skill at 15% power while he continued to think about the underlying formulas.
+
+I think we can do better. Ah, what the heck, it isn’t like I have anything else to do. Optimization time.
+
+If I can transfer more mana to him in less time, we might be able to get this done faster. The more time I spend using Essence Well, the less time I’m using Winter. If I can transfer a bunch all at once, then regenerate with Winter, I might be able to give him more mana in less time overall, while getting more experience myself. Let’s do this.
+
+Rain scribbled in his notebook.
+
+Problem: What is the optimal balance between Essence Well and Winter for the maximum average transfer of mana?
+
+TR = Transfer Rate
+
+TE = Transfer Efficiency
+
+MU = Mana Used (me)
+
+MU = TR / TE -> How much mana I use when using Essence Well
+
+ET = Extra Terrestrial Essence Well Time
+
+MT = Mana Transferred
+
+MT = ET * TR → How much mana Val gets
+
+WT = Winter Time
+
+T = ET + WT → How long we do this for in total
+
+MR = Mana Regenerated → How much I regen while we are doing this.
+
+RR = My base M.Regen = 0.2 mp/s
+
+WP = Winter Power = 5.5 (without Aura Focus)
+
+WR = My rate with winter = RR * WP = ~1 mp/s
+
+MR = ET * RR + WR * WT
+
+MR = ET * RR + WR (T - ET)
+
+OTR = Overall Transfer Rate → The thing I care about
+
+OTR = MT / T
+
+MR = ER * RR * WR*T - WR*ET
+
+MR/WR/ER - ER*RR = WR*T
+
+T = MR/WR/ER + ER*RR/WR
+
+T = (MR/WR/ER - ER*RR)/WR
+
+OTR = MT / (MR/WR/ER - ER*RR)/WR
+
+…Fuck
+
+Rain sighed and closed his notebook. He felt like he’d gotten lost somewhere along the way. Plus, he was out of paper.
+
+15% transfer rate will be fine. I’ll try this again later when I’m—
+
+Rain’s thoughts were interrupted by the sound of retching. He looked up to see Val doubled over, spraying chunks of rockmelon across the ground.
+
+“Shit, are you ok?” he said, clambering to his feet. He dropped Essence Well and hurried over to him.
+
+“Damn headache,” Val said. “Keep going. I’m fine.”
+
+“Yeah, no,” Rain said. He checked his own mana. He’d transferred several thousand mp to Val in the space of a half-hour while he’d been playing with numbers. Apparently, that was too much. He hadn’t even considered that he might overwhelm Val’s mana usage capacity, thus rendering his entire calculation moot.
+
+He used Purify quickly to clean up the mess, then sighed and stared at Val. “You’re done. This is probably mana use soulstrain. Why didn’t you say anything?”
+
+“I won’t let a little soulstrain beat me,” Val said, rubbing at his temples. “Come on, start it up again.”
+
+“Val, you’re an idiot. You know that?”

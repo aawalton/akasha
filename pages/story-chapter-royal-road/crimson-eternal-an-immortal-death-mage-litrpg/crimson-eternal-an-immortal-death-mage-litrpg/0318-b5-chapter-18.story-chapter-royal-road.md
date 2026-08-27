@@ -1,0 +1,139 @@
+---
+id: 6a09d2aa-d238-56a4-a09c-5233a6b3b190
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 18"
+slug: 0318-b5-chapter-18
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 318
+ownLength: 1443
+unit: words
+ownProgress: 1443
+publishedAt: 2025-11-20
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2778496/b5-chapter-18"
+royalRoadId: "2778496"
+markedReadAt: "2026-06-29T19:16:37.864Z"
+---
+
+Aria
+
+I find myself rather surprised as the tournament goes on and reaches a break point. Specifically due to what exactly happens during said break point.
+
+Instead of the tournament just pausing or something, a different event is being held. Something called a beast hunt.
+
+And the event is actually very interesting to me. Albeit for reasons other than the actual event itself.
+
+The event starts out with War himself appearing in the MC booth and releasing his war energy into the arena. Filling the entire arena to the brim with so much war energy that it becomes tangible enough to fill the entire arena and block it from anyone’s view.
+
+But that’s not what’s interesting about it.
+
+What’s interesting is what happens next. When the war energy actually begins to form mana creatures inside of the arena. Just from his aura alone.
+
+He fills the entire arena to the brim with these mana creatures – all of whom look like different warring types of creatures with some having red skin and armor covering almost their entire body – before retracting most of his aura again. Leaving only a bit of it in the arena.
+
+Then gladiators begin to spill into the arena and the event begins. With the event itself being one where the gladiators are fighting to kill the most mana creatures.
+
+As for what the winner gets for their victory?
+
+They get one minor wish from War himself.
+
+Which is apparently his preferred method of rewarding people.
+
+He has minor wishes, which he’ll do smaller things like fight a single battle that’s on the scale of a small company or will help out with negotiations in a deal or something. Then he has medium wishes, where he’ll fight on the scale of a large battlefield between two small nations, or will help negotiate between planets. Or just use his connections to help them.
+
+And after that he has major wishes, followed by the Scarlet Wish. Which is pretty much a wish that lets the winner of the Universal Scarlet Cup wish for anything they want from War within reason.
+
+Of course, people also get actual monetary rewards from winning the tournaments. But most of the participants seem to want a wish from War.
+
+After all, War is one of the three most powerful beings in the entire universe.
+
+Actually, he’s in the top two most powerful. Considering that Pestilence isn’t specialized in direct combat. Even if he is perfectly capable of fighting directly.
+
+Technically War is actually the most powerful direct fighter in the entire universe. Just because Famine, who also fights directly a lot, still uses a lot of debuffs in his fighting style. Making War the most powerful being in the universe in terms of brute force power.
+
+He’s the being that can deal the absolute most amount of damage in the universe.
+
+I think some games on the internet actually have him as a character. That being the most powerful DPS character in their games.
+
+Then again, I’m pretty sure all four of us Horsemen have been turned into video game characters.
+
+I know I have. After all, they paid me to turn me into a character.
+
+And I honestly don’t care one way or another.
+
+Anyways, more importantly than any of that, I wonder if I have enough death energy in me to create mana creatures of my own? I feel like I should, so long as I condense my death energy down to just a single small location.
+
+The only issue there is that I have absolutely no idea how to condense it into a single small location.
+
+All I know how to do is to condense it into my body to hide it. Mostly so that I’m not a massive beacon for all the planet’s magic sensitive people to see at all times.
+
+Well, that and so that I don’t end up making all the mages faint just from my presence.
+
+Which is awkward.
+
+This new discovery on top of the fact that his war energy is already altering and growing the Hunter’s Spots on this planet make me wonder if it’s possible to create my own Hunter’s Spots on worlds without any. Just by releasing my death energy when I’m a lot stronger and have more of it. Then staying on said world for centuries.
+
+That would be an interesting experiment to say the least, but it would also be boring as hell.
+
+So if I do that someday, I should keep it to a planet that already has Hunter’s Spots. At least at first.
+
+Because if I end up wasting centuries of time boring myself to my non-existent death then I’m gonna be rather upset if I can’t even hunt mana creatures during that time.
+
+On another note, I can’t help but wonder what sort of mana creatures death energy would make. Because that sounds interesting.
+
+Maybe I should bring it up with Raja at some point?
+
+I glance over at Raja, who returned over the course of the tournament and is just reading a book in this VIP booth. Looking rather peaceful if I’m being honest.
+
+Not now. Maybe later.
+
+He looks too peaceful to bother right now.
+
+Instead I go ahead and get more wine, following which I sit down and begin reading for a bit while I wait for this event to end. And once it does, the tournament continues all the way until a winner is decided. Then I stretch a bit and prepare to leave the VIP booth.
+
+Only for Lucius to appear outside the door, startling me for a moment before he says, “I’ll go ahead and guide you to your room. You can do whatever you want on my planet within reason, so go ahead and explore after seeing your room.”
+
+I nod my head in thanks before going silent as I walk with the Horseman to a very fancy looking suite. One that War says is close to his own suite.
+
+He also has a subordinate guide Raja to a Grand guest suite. One that’s obviously meant for visiting Grands to stay in.
+
+But right when Lucius is about to leave after guiding me to my suite – which is enormous – I stop him by asking, “How do you condense your energy down to a level outside of you body without pulling it all in?”
+
+He stops with more than a little surprise on his face, only for him to smile at me and answer, “That question is better left directed towards the Death Spirits. I only learned how to do it myself from the War Spirits, and I’m sure war and death energy are different.”
+
+Huh. Guess they probably are.
+
+After he says that, he goes ahead and leaves. And it doesn’t take long before I hear news on my terminal talking about War returning to the battlefield.
+
+Yeah, that’s not very surprising. Not at all.
+
+I begin to look around my suite for a bit before settling down on the bed and lying flat on my back. At which point a certain kitten comes crawling out of my jacket’s pocket and begins walking on top of me.
+
+Then he just lies down on my chest, yawns, and closes his eyes to fall asleep again.
+
+I wonder if there’s anything in this universe that enjoys sleeping more than Asher… considering how much time he spends asleep every day.
+
+Wait a second…
+
+I blink as I look down at the cat from my place lying on my back.
+
+Is it just me… or did he grow a little?
+
+That thought makes me frown for a moment before I eventually just give an inner shrug at the thought. Mostly because it doesn’t really matter much.
+
+From what I’ve heard, the other Horsemen’s skill-created companions have the power to shrink at will. So even if Asher grows larger, he can just shrink back down again if he wants.
+
+I stare up at the ceiling for several minutes before eventually pulling out my ebook reader device and going back to reading once more. Because reading is a very peaceful activity.
+
+Actually, there was one book I saw that looked rather interesting recently. One that was actually about me.
+
+Maybe I should give that a try after reading this book…
+
+It could be interesting to see what other people imagine about me in their story.
+
+I kind of want another glass of wine while I read though. But with Asher lying on my chest, I can’t exactly get up.
+
+So that’s a little annoying.
+
+Why do cats seem to think everything belongs to them?
+
+It’s a mystery.

@@ -1,0 +1,103 @@
+---
+id: e0d7d9af-9b04-5510-9609-595d5cd8bcf1
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 44"
+slug: 0206-b3-chapter-44
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 206
+ownLength: 1407
+unit: words
+ownProgress: 1407
+publishedAt: 2024-09-17
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1807627/b3-chapter-44"
+royalRoadId: "1807627"
+markedReadAt: "2026-06-29T19:12:43.859Z"
+---
+
+The Base of the Spire
+
+Nikolai Dragomir clenches his hand around the handle of his sword as he glares across the plains beneath the Spire at the knights standing around the fortress surrounding it. As his own forces continue to flood out of the portal behind him wearing half plate mail armor and more knights teleport in front of the fortress, each fully armed to the T in full plate mail with magical steel swords drawn in their hands.
+
+The knight of the Argonian Kingdom feels his anger flaring the more knights he sees showing up. Despite the fact that he already knows this entire war was coordinated by the Council of Darkness, the sheer existence of the Silvanian Empire drives his anger to near madness.
+
+All of the Nine Grands are despicable groups in Nikolai’s eyes. Every last one. But out of the nine, the Silvanian Empire is the worst in the eyes of the Argonian Kingdom.
+
+Because the Silvanian Empire refuses to provide the Argonian Kingdom any of their healers. And their arrogance and selfishness has led to millions of deaths across the kingdom ever since Pestilence’s trip through it.
+
+Their excuse of being unable to aid every last nation that the plague spread to was nothing more than a front. Nikolai is certain of that fact. And so is their kingdom’s queen.
+
+“Soldiers! March forward!” Nikolai shouts, his anger radiating out through his voice as sparks of blue lightning begin to flash in his eyes. Meanwhile the knight captain in front of the large Spire, a man wearing full plate crimson armor with the emblem of a phoenix blazing with a red and black flame engraved on his chest plate and a large helmet on his head covering his face points forwards as well. But he doesn’t say a word.
+
+Before any of the soldiers or knights manage to take more than a few steps towards them, a strange noise fills the area. One that has everyone grinding to a halt again as they look around, wary for any sort of attacks.
+
+Nikolai frowns while looking around himself. But he doesn’t see anything.
+
+Not until he looks up and sees a large ball of flame shooting down straight towards them. Only for it to strike the ground right in between his forces and the Silvanian knights.
+
+The ground around them begins to shake as a powerful explosion of dust, dirt, flames and rock blast out from around the impact sight. And Nikolai immediately jumps to the assumption that it’s a knight attacking them, so he shouts, “Barriers up!”
+
+To his surprise, though, the blast from the impact doesn’t last for long before all that remains is some dust and smoke. Then footsteps begin to come from the site of the impact, making Nikolai tense up even more.
+
+What is it?! Some sort of weapon made by the Silvanians?! A powerful ability holder?!
+
+“Keep your guards up! And start the enhancement magic!” Nikolai shouts as his fingers unwrap and wrap around his sword over and over again, the man feeling his palms growing clammy from sweat.
+
+The footsteps continue to echo out from within the dust and smoke for several minutes. Only for two glowing crimson lights to shine out from within the dust and smoke. Lights that slowly move parallel to the line of soldiers behind Nikolai.
+
+Nikolai furrows his brows in confusion, wondering why the weapon or knight isn’t heading towards their forces.
+
+He holds his hand up, ready to give the signal to attack any second as the smoke and dust slowly clears away. Enough for them all to finally begin to see the knights by the fortress.
+
+And what he sees confuses him enough to almost lower his hand.
+
+They look… both confused… and… is that resignation? Why do they look like that? And why isn’t the weapon or knight moving towards us?
+
+Nikolai continues watching as the dust and smoke gradually clears, only to eventually blink in pure confusion at what is revealed to him. At the sight of a beautiful woman wearing not a single bit of armor. Just a regular black and red shirt and black and red shorts casually walking with her hands clasped behind her back in between the two forces. Seemingly not paying any mind to either.
+
+Huh?
+
+The man watches her for several seconds, feeling unsure of how he should feel about this. He’s seen the news about a black number woman who is known around the capital of the empire for her incredibly powerful regeneration, but he was informed that she wouldn’t be participating in the war.
+
+When Nikolai first heard about her, he didn’t believe the intel. After all, there shouldn’t be anyone in their level sixties who could survive at the top floors of the Spires.
+
+But from what he’s seen here… with this woman clearly falling down from outside of the atmosphere and not even getting a scratch…
+
+Nikolai blankly watches as the woman walks between him and the captain of the knights. All without so much as glancing at them in the process.
+
+What is with this woman…
+
+He almost wants to give the order to attack her just from what he’s seen of her so far. But then he remembers the warning they were given about not attacking her unless attacked. And to otherwise just ignore her.
+
+That’s not all he remembers though, because he also remembers news of the Pale Mercenaries. And more specifically, their leader. A woman with stark white hair and glowing crimson eyes and a black number no matter who is looking at her. One with incredible beauty and an apathetic gaze.
+
+Nikolai watches as she walks, only for his head to jerk to the side when one of his own men throws a spell at her without an order.
+
+“Stand down!” Nikolai shouts, making his soldier immediately lower his hand. But it’s too late as the spell is already heading straight for her.
+
+A spell from a level three hundred soldier.
+
+The commander of the eighth legion frantically turns his gaze towards the woman again right when the bolt of lightning from the soldier strikes her. But under his shocked gaze, all it does is travel through her body, frying her skin and the blood beneath it for a few seconds before it stops again. Not having even so much as scratched her clothes.
+
+What surprises him more though is the fact that the woman never even stopped walking as she was going through it. She just apathetically ignored it. Like the attack never even happened.
+
+Nikolai stares in shock at the woman. And he’s not the only one as both his own forces and some of the knights on the other side do the same.
+
+But not all of the knights. One unit of knights turns hate-filled gazes on Nikolai and his forces before immediately beginning to attack without hesitation.
+
+And every last one of them attacks the one soldier who had attacked the woman, killing the soldier in an instant while shattering the barrier from the unexpected, focused attack.
+
+Nikolai and all of his forces turn their attention away from the strange black number woman as they focus their rage on the knights. Meanwhile the knights themselves continue their barrage while the other knights begin attacking with spells of their own or charging forwards.
+
+Damned bastards!
+
+He opens his mouth to bark out an order, only to hesitate for a moment when he sees red eyes through the visor of the captain of the knights that had first attacked. And that captain isn’t the only one, because he sees crimson eyes through the other visors as well.
+
+His hesitation doesn’t last long though before he stops paying any mind to the woman and shouts, “Eliminate the Crimson Order!!!”
+
+And his own soldiers immediately begin to charge forwards while expressing their anger in a roar of their own. All while spells fly between the two forces alongside some bullets from the gun swords and powerful soldiers and knights charge to clash with their blades in between the forces.
+
+With Nikolai himself soon clashing his own blade with the captain of the Crimson Order’s blade.
+
+I will never forgive these bastards! They will pay with their lives!
+
+Meanwhile the woman in question continues calmly walking out of the conflict with her hands clasped behind their back and an apathetic expression on her face.

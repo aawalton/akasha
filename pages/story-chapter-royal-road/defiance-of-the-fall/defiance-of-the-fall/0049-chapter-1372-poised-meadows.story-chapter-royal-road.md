@@ -1,0 +1,153 @@
+---
+id: 97aa7cc3-4044-5e97-9d36-149d3261b9ba
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,372 - Poised Meadows"
+slug: 0049-chapter-1372-poised-meadows
+partOf: defiance-of-the-fall
+position: 49
+ownLength: 3126
+unit: words
+publishedAt: 2025-10-30
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2717610/chapter-1372-poised-meadows"
+royalRoadId: "2717610"
+---
+
+Zac’s mind went back to his memory of the Tower of Eternity. At that time, his climb had called forth a mysterious stele engraved with archaic patterns of war. This teardrop appeared to be a similar item. It was most likely a Natal Treasure of the Cosmos, marked by the Dao of Life in its most primal state when the Heavens reformed.
+
+The teardrop’s grade wasn’t anywhere near the level of the stele or [Second Singularity], though. It had kept the sealed-off part of Poised Meadows going for half an Era, causing a significant depreciation in strength. Still, its remaining power was more than enough to sustain the realm for eons more, and it showed signs of recovery. Zac guessed the tear was the link between the real Poised Meadows and this realm, and it could finally draw sustenance from its source again.
+
+Zac was back in his own body moments later, where his companions waited with worried expressions. “What’s wrong?”
+
+“What’s wrong?” Ogras echoed. “You’ve been standing around glassy-eyed for the past hour. You would be a walking circus covered in living equipment if we didn’t keep you safe.”
+
+“An hour?” Zac exclaimed. “It felt like seconds.”
+
+“What did you see? Did you catch a glimpse of the past?” Tavza asked.
+
+“I’m afraid not,” Zac said. “It showed me the source of lifeforce in this place. I’m guessing it’s telling me to go there.”
+
+Whether for himself or the seed nestled in his pocket, the teardrop represented a priceless chance to glimpse the fundamental nature of Life. Siphoning even a sliver of that pure, unadulterated Life would be more beneficial than swallowing any pill, especially when it came to his soul. This was the Life of spiritual awakening, the perfect material to nourish his Evolutionary Soul Core. Doing so would be dangerous, but Zac felt it would be fine so long as he kept his wits about him.
+
+“That’s one lead,” Ogras nodded. “Oh, while we waited, I managed to find a few broken Information Jades by scouring every nook and cranny.”
+
+“They are heavily corroded by this child’s powerful soul,” Tavza interjected.
+
+“Child?”
+
+“The spirits are innocent and childlike. They don’t even seem to interact much with each other,” Tavza nodded. “They just spend their days slowly nurturing their souls, following their instinct. Their souls are very strong and seemingly without limits for expansion.”
+
+“Do you think it's possible the kid back home came from this place? Or maybe the real Poised Meadow,” Ogras muttered. “The similarities are hard to ignore.”
+
+“It’s possible. I haven’t encountered any similar lifeforms to Mossy elsewhere,” Zac nodded before turning back to Tavza. “Anything helpful in the jades?”
+
+“I need to perform some restoration work and redraw its arrays. It will take a while to extract any information. A week, at the very least, unless I can find more crystals to compare the internal structures.”
+
+“Well, keep us posted,” Zac said and took out the compass.
+
+He compared its signal with his vision and was relieved to see they pointed in roughly the same direction. Provided Ogras’ estimate of a week’s travel was correct, the detour shouldn’t add more than a day. After briefly discussing the matter, they unanimously decided to check it out. Before leaving, Zac took out a handful of Divine Crystals.
+
+“Thank you for your help. I don’t know if eating Natural Treasures from the outside is bad for you, so I’m leaving a few snacks with you instead.”
+
+A vague sense of happiness buffeted Zac’s mind as the crystals sank into the faux-stone floor. Moments later, they were flying toward the next island over. The vast collective consciousness of the open space was an ubiquitous fixture, making it impossible to make a beeline for their destination.
+
+Staying in the open presented another drawback beyond the risk of garnering dangerous attention. The islands were like vacuums absorbing excess life for their cultivation. Without anything competing with their trio for the ownerless energy in the gaps, the forces of life rushed toward them like it had a mind of its own.
+
+That wasn’t to say the islands were safe zones where one could reset and relax. Their second island was much larger than the temple, and it looked like a traditional life-attuned zone with a sprawling jungle covering every inch of its surface. Although, Zac sensed the plants were only partly independent. The forest was like a hive mind. The plants were born from the island’s spirituality and paid rent to stay atop its surface. They were also in charge of defense.
+
+The island hadn’t given off hostility before, but branches began lashing out at them the second they stepped onto land. Even prepared, Zac felt his mind tremble when blocking a particularly powerful swipe. The attack was just like [Fatehew], holding a spiritual component.
+
+“Forcing our way across will squander both time and energy,” Tavza commented while tying a patch of trees in water bindings.
+
+“We’ll have to figure out another route,” Ogras agreed.
+
+Only Zac remained rooted in place, his stare trained on the jungle depths. “Give me a second.”
+
+He shot forth, following the beckoning call of treasure. The bestial armor of [Conformation of Supremacy] appeared on his body, and fractal blades infused with exploding runes shattered the forest’s poised tranquility. Zac showed no mercy as he carved a straight line through the vegetation until he reached an ancient-looking tree hidden by a dense ring of defenders.
+
+A powerful mental shock came from the island’s depths. This time he was prepared, and the attack only made him see double for a moment. Still, there was no point in testing fate, so he felled the unique tree with three swift swings. The whole forest shook when it thumped down on the ground. It was extraordinarily heavy, though not to the point it could stop Zac from dragging it back to the shore.
+
+“I don’t think the general was talking about knuckle diplomacy when he called us ambassadors,” Ogras said with a raised brow. “Or forced seizure of treasures, for that matter.”
+
+“Maintaining a respectful exchange is preferable, but there’s no need to play nice when they make the first move. If these islands want to play rough, they’ll have to be ready for having their things snatched. Like you said, we’re ambassadors representing the empire’s iron fist,” Zac shrugged as he began stripping the tree of its bark with forceful swings.
+
+He could tell the rest of the tree wasn’t worth much. The weight and spiritual fluctuations were all gathered in the bark. Like the Izh’Rak reavers, the tree kept all its spirituality at the surface. Zac wasn’t sure what to do with it yet, but it seemed like a decent material for his Soul Cultivation. It could also be ground and added to the paste he used to draw [Void Vajra Sublimation]’s cultivation runes.
+
+“You’re making an awful lot of sense,” Ogras said, his eyes lighting up. His shadows rushed into the forest in search of other valuables, not stopping for a second on account of Tavza’s silent stare. “What? There’ll be plenty of things for you when we travel through the Hells.”
+
+“I’m starting to realize that it’s not just the winds of fate sending tribulations your way. You two are eager participants in the chaos surrounding you, finding any chance to add your mark to the mix,” Tavza said.
+
+“You only realized that now? Aren’t you supposed to be the clever one?” Ogras scoffed. “Now, help us harvest the loot before the big guy wakes up.”
+
+Tavza exhaled and lightly pointed her finger toward the depths. A stream of abyssal water ran through the thickets, its deathly aura causing the flailing trees to recoil with primal fear. Moments later, a withered stump was dragged back. Hidden behind a shell was an intense aura of life, like the spirituality of a few dozen trees had been crammed into one plant and purified over time.
+
+It wasn’t as impressive as Zac’s spiritual tree, but it might have turned into a powerful subordinate if left alone for a while longer. Now, it was set aside to become fertilizer for Haro. The Skyrender Vine was still asleep and still growing, and Zac didn’t want the plant’s opportunity to be cut short on account of lacking resources.
+
+Zac could sense there were still a few valuable treasures on the islands, but they stopped while they were ahead. There was no point in completely falling out with the locals. So far, what they’d taken was only a few hairs off the oxen’s back. Any more, and the island might go crazy.
+
+A few hours later, Zac had already given up any hope of figuring out the hidden rules that governed the realm. The locals couldn’t be trusted as far as they could be thrown. Islands conveying goodwill could go berserk the second they came within reach. Another had ignored their presence until Ogras sneezed from the dense pollen. At that point, the pollen turned into a suffocating storm that forced them to fight their way out.
+
+At the same time, some hostile lifeforms were all bluster, not only providing safe passage but also unique Life-attuned Natural Treasures to make them leave. The constant surprises kept them on their toes, and they constantly changed directions.
+
+Zac had long since lost track of the path provided by the temple, and only part of the reason was the difficulty of finding a safe route. Poised Meadow was filled with massive maze-like formations, and some islands emitted spiritual signals that left the three turned around. Not even the compasses could be trusted in certain environments, and they’d been turned around more than once.
+
+Whenever they couldn’t find a way out, Zac would activate his [Void Vajra Constitution] to get his bearings. His Life-attuned Constitution didn’t have any Bloodline Talents, but rotating the golden hurricanes in his cells boosted its effect and strengthened his connection to the Dao of Life. Adding the augmented vision of [Cosmic Gaze], Poised Meadow became a kaleidoscope of gold.
+
+Spending some additional energy allowed Zac to see through the flow of life, exposing the silent war for sustenance between the locals. Beneath it all, Zac could occasionally spot that unblemished groundwater stemming from the wellspring of Life, giving a clear direction to follow. Just as often, it was Tavza who came to the rescue. She took advantage of the realm’s inborn hostility to death, accurately sensing the direction of the greatest suppression.
+
+The further they went, the denser the Dao of Life became. If the Hollow Chasm’s realmgate was placed in the realm’s shallows, then Kabaton was erected in Poised Meadow’s heartlands—likely intentionally so. The overflowing excess of life only reinforced the realm’s unusual atmosphere. The poised silence was deafening, as if a hex of silence had been placed on the world.
+
+Zac felt as though they were traveling through a world inhabited solely by monks in perpetual meditation. The utter lack of background noise grew to the point that Zac could hear his organs, even the blood flowing through his veins. Managing the intrusive thoughts and protecting his equipment from spontaneous awakenings took up more and more of Zac’s time, leaving little leeway to let his mind wander.
+
+It was only when [Purity of the Void] trembled from a new item appearing inside that Zac realized two whole days had passed since setting out. In that time, his other half hadn’t been kicked out of the unpredictable memory domain. Instead of his memories being harmonized through the quantum link, he was updated through an Information Crystal. He and Esmeralda had successfully reached the Peregrine Isles in one go.
+
+The isles weren’t actually located on the shores of the Mercurial Court, but rather an inland freshwater lake. Like Dawndeep Bastille, it was made from a refined version of the silver waters that lacked most of the lethality. Esmeralda could safely travel on the surface, and they were about to start island hopping after spending a day gathering information on the shores.
+
+Zac smiled a bit, reflecting on how similar their situations were, and quickly scribbled an answer of his own. He urged his other half to practice some restraint for the next week, but there was no need to completely stay away from trouble. Much had changed since the age of the Limitless Empire, but General Vatnus was right about one thing.
+
+Poised Meadow was much safer than Kālasūtra or the impression he got from Unbounded Pastures. While there were dangers, which only increased as they drew closer to their destination, they hadn’t encountered any threats to their lives. The locals had no experience in combat, and the hostile ones lashed out without finesse or forethought.
+
+They reminded Zac of the earliest days of the Integration. Back then, he’d crafted his proto-pathways, which were essentially a set of tubes forming a circuit through his body. The crude application of Cosmic Energy could only harness a fraction of his true power. So even if the locals had vast reserves of Divine Energy and extraordinarily powerful Souls, they weren’t a real threat.
+
+If there was a threat, it was the constant drain on their souls. The three of them had their own methods of dealing with the pressure, so they were in good shape when a golden shimmer emerged from the mist three days later. The memory domain was dozens of times larger than the outpost they set out from, though it didn’t reach the extraordinary levels of Faith Energy he’d seen in Transformation Docks.
+
+“Kabaton, I assume,” Ogras said as they stopped on the edge of an island that looked like a writhing mass of wooden snakes.
+
+Contrary to its ghastly appearance, it was the friendliest island in a day—almost too friendly. It kept buffing them with corrosive tendrils while practically radiating curiosity, and explaining that its coating was dangerous fell on deaf ears.
+
+A number of windows appeared before Tavza, providing a better look at the dense belt of islands surrounding the memory domain. “Half a day away, and there are at least three good candidates for awakening. What do you want to do?”
+
+Zac only gave the islands inside Tavza’s skill a cursory glance before answering. “I’m heading to the wellspring.”
+
+The magical teardrop was only a day away, but the proximity conveyed through the compass convinced Zac to inspect the memory domain first. Now that he’d seen it and confirmed there were no barriers to entering—beyond an unusually long stretch of nothingness acting as a moat—Zac wanted to go for gold.
+
+“I’m coming with you,” Ogras said without hesitation.
+
+“I don’t have fate with a fount of life. I will not be able to allocate energy for an awakening in its presence, provided it even lets me close,” Tavza said after some thought. “I’ll go ahead and perform the awakening inside one of the temples. I’ll wait for you inside the city after I’m done.”
+
+Zac had expected as much, and he knew it was too soon to say if Tavza was losing out. She had been carefully drawing unfamiliar patterns on her seed over the past few days while nurturing it with Faith Energy extracted from old relics. She already had a plan and the skills to implement it. Meanwhile, Zac hadn’t come up with anything better than providing the best possible environment before using his Evolutionary Mold as a guide for the spirit awakening.
+
+Half a day later, the two successfully reached their destination. This island was by far the largest one they’d encountered and shaped like a planet. It was surrounded by a large golden vacuum. The planet radiated pristine Dao untainted by the earthly plane, and its gift could seemingly be bestowed upon anything. Even the vast consciousness covering the realm seemed awed by its grandeur and was unwilling to draw closer. By the time they entered the vacuum, its presence disappeared entirely.
+
+“There’s no interference,” Ogras muttered. “The only influence on an awakening here will be the one we introduce.”
+
+“The energy is purer further in; let’s keep going,” Zac said with growing zeal.
+
+The solitary planet was absolutely massive, and they soon understood why. It was neither a planet nor solitary. It was made from hundreds of lifeforms setting up a perimeter, with the teardrop hidden in the middle. This wasn’t a place where he could mess around or loot wantonly. A few among the stalwart guardians were C-grade, and the islands were bunched up much closer than normal.
+
+“They’re warning me not to get any closer,” Ogras suddenly said when they’d reached the halfway point between the pure zone’s start and the defensive perimeter. “This is good enough for me. I’ll have the goblin assist me in refining this thing after you’ve settled in. You, uh, plan on settling in, right? No funny business.”
+
+“You know that’s out of my hands,” Zac helplessly said as he started to disrobe.
+
+“What the Nine Hells are you doing?” Ogras said with bewilderment. “We’re not in the Joyful Gardens any longer.”
+
+“I’m just getting ready,” Zac said with a roll of his eyes while cutting a small wound in his belly.
+
+Just like when he refined the [Twin Eclipse], he used his own flesh as a protective insulator for his Spatial Items. Rotating his Daos and infusing himself with [Void Mountain] would keep them safe. Activating [Void Zone] would probably work even better, but Zac feared his nullification sphere might agitate the powerful natives. If nothing else, it would damage the seed, and he couldn’t have it start leaking its terrifying amounts of energy.
+
+He only kept one ring on hand with a few basic resources that might come in handy, mainly for cultivating the [Void Vajra Sublimation] and nourishing his soul. The pure caress of primal Divine Energy felt like a warm tropical wind against his skin, and his cells hummed with bliss. Now that he didn’t have to protect dozens of items from Life’s influence, he could focus on the wellspring’s blessing.
+
+It had been a while since Zac felt so good, and he found himself humming the song Mei’Er had recorded for him. To his surprise, the powerful locals seemed drawn by the melody, and the pressure on him greatly lessened. Zac’s eyes lit up, realizing they were analyzing Hope’s many insights into the Dao of Life, and he continued humming with greater gusto.
+
+Ogras didn’t look quite as enthused when Zac resumed his approach, now singing and clad only in his underwear. A defeated whisper reached Zac just before he came out of earshot.
+
+“We better get ready to sacrifice a few underlings. I’ve been around long enough to recognize an impending disaster when I see one.”

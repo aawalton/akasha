@@ -1,0 +1,129 @@
+---
+id: 23969525-af83-5a1a-bce8-848b91a2631c
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 7"
+slug: 0231-b4-chapter-7
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 231
+ownLength: 1392
+unit: words
+ownProgress: 1392
+publishedAt: 2024-11-25
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1923719/b4-chapter-7"
+royalRoadId: "1923719"
+markedReadAt: "2026-06-29T19:13:35.669Z"
+---
+
+Aria
+
+The rest of the ceremony doesn’t prove to be very interesting. Especially since all of the representatives and royals that come to bother me are immediately turned away by the seemingly overprotective guards belonging to the Rex Dynasty and the Crimson Empire. Both of which seem a little too enthusiastic when turning them away. And too aggressive.
+
+Like they don’t want people like them bothering me.
+
+Meanwhile Leopold occasionally walks out of the balcony to speak with some royals of other nations. Of other more powerful nations, that is.
+
+The pharaoh doesn’t bother with anyone though. He just stays here with his eyes closed while leaning against the railing a couple meters away from me.
+
+Looking like he’d rather be sleeping than here.
+
+Which I don’t blame him for.
+
+I feel the same after all.
+
+I glance up at the dais to find Shirogane still up on his throne next to the emperor. With the emperor being as inscrutable as always. While, of course, playing around with his coin.
+
+Par for the course for that guy.
+
+He loves that coin.
+
+Time passes without anything else happening within the ceremony. And eventually, the thing finally comes to a close. With me making my exit and returning back to my company building. Where I’m staying on the top floors.
+
+The moment I get back to my suite of rooms, I go ahead and change out of my dress and into a simple tank top and shorts before crashing in my bed. Falling asleep right away.
+
+Only to be woken up the next day by Little Blue, who immediately drags me into the office to deal with more paperwork. After I change into a T-shirt and pants, and put on my jacket.
+
+It takes me a few hours to get through the stacks of paperwork before Little Blue finally looks at me with a smile and says, “The next item at hand is what you requested before. Your meeting with the new recruit.”
+
+My interest grows immediately at that, and I sit up straight in my chair.
+
+“We’ll be heading down to the training hall, where Yakashi Kito is currently training under Sel,” Little Blue continues, making me stand up from my chair. “And Sel would also like for you to look over the mercenaries there and see how strong they are for yourself while you’re there.”
+
+“Sure,” I answer without much care, focusing entirely on the thought of meeting the new class S in the company. “Let’s go.”
+
+She nods her head before we both head down quite a few floors until we arrive at the training hall, where I find myself looking out from a balcony in the hall at the dozens of mercenaries training inside. But my eyes immediately focus on the rather short man with purple hair and eyes, and a black and purple high tech set of armor. A man that stands out quite a bit from the others there.
+
+Every person down there is currently running an obstacle course while Sel watches over them all from a platform of ice above the course. Meanwhile, of the recruits, the only one clearing the course with ease is the purple haired person. The same person I saw fighting Sel before.
+
+Generally, Class S ability holders are incredibly rare. They’re pretty much strategic class weapons for whichever nation has them.
+
+Some nations even determine the nation’s strength by a mixture of two factors.
+
+The nation’s average level for their leaders and strongest fighters, along with the number of Class S ability holders they have.
+
+After all, it doesn’t matter as much if their Class S ability holders are level ten. But a Class S is still a Class S.
+
+Just looking at me proves that rather easily.
+
+Although, at the same time, not really. Considering that Horsemen of the Apocalypse are generally considered special Class SS ability holders instead.
+
+A class even higher than Class S.
+
+I watch as the man practically flies through the obstacle course with ease using his gravity magic. And since this is also a competition with the others, he’s using his gravity magic to weigh them all down, making it harder for them to move as well.
+
+Of course, I can’t see a single level when I identify the lot of them. Not a single one.
+
+All of their levels are quite a bit higher than my own.
+
+Not that it’d be difficult for me to deal with them.
+
+After all, not many people can take a nuke to the face.
+
+I firmly nod my head at that thought.
+
+Anyways, I continue watching until the new person reaches the end of the obstacle course. Then he walks over to grab some water as the others finish their own run of the course.
+
+Once everyone is done, Sel floats her little ice platform downwards to them and says, “That was a poor excuse for an attempt. Everyone except for Yakashi will be repeating the course in half an hour.” She glances up at me with a smile as the recruits look rather tired before she says, “For now, we have a visitor.”
+
+All of the recruits, the Class S ability holder included, turn to look my way. Only for them all to appear shocked at the sight of me standing here with my arms resting on the railing, just slightly leaning over it to look down at them.
+
+“It’s nice to see you, Aunty,” Sel says, her smile growing wider as all of the recruits down below shiver for some reason and send her a shocked look. “How did they all do?”
+
+Their shock fades into anticipation when they turn to look at me, clearly waiting for my answer.
+
+“Yakashi Kito was rather impressive, but everyone else still needs work,” I comment while leaning my face against the palm of my hand, my elbow resting on the railing. Then I glance at the Class S ability holder, studying him for a bit.
+
+For some reason I see him shivering under my gaze. But I’m gonna pretend I didn’t see that.
+
+Other than that, I’m pretty sure a couple of these recruits have moved on from feeling wary towards me while anticipating my words to looking me over. Some of which seem to admire my looks, others grow even more wary when they no doubt see my black number.
+
+After a few seconds of studying him, I lose interest entirely.
+
+Thought he would be more interesting, but the guy is just gazing at me with a mixture of awe, fear, and the slightest hint of lust in his eyes. Albeit not much of the last part. Probably due to the fear.
+
+“Well, I’m done here,” I finally state, glancing to the side, “do I have anything else planned for the day, Little Blue?”
+
+Everyone down below stiffens up, with more than a few people covering their mouths as if hiding a laugh. And others simply awkwardly turning away.
+
+The entire atmosphere in the training room changing from the moment I say the words ‘Little Blue’.
+
+Little Blue herself blushes a little as she narrows her eyes at me and says, “Other than the tournament later, there isn’t.”
+
+“Good,” I state before stretching a little and turning around to leave the training room. “I’ll hunt a bit then.”
+
+I also ignore the openly amused look Sel has on her face as she quietly laughs at Little Blue.
+
+Hmm. Wonder if I embarrassed her?
+
+I continue walking out of the room before eventually just shrugging to myself after the door shuts behind me.
+
+Meh. That’s whatever.
+
+Putting the matter of Little Blue’s former stern and cool reputation aside, I walk straight over to a random door leading to a balcony on this floor halfway up the company building. And then, without a single hint of hesitation, I jump off of the balcony.
+
+Because it’s far faster to get out of the building this way than through walking down the stairs or taking an elevator.
+
+When I land on the ground, half of my bones fracturing in the process – not breaking due to my level – I stand up again and begin walking in the direction of the Hunter’s Bay right next-door.
+
+Ignoring the looks from the people nearby being sent my way.
+
+Time to go hunt for a bit!

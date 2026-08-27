@@ -1,0 +1,143 @@
+---
+id: 9c526423-c172-573b-8621-844dd32517af
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 20"
+slug: 0321-b5-chapter-20
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 321
+ownLength: 1602
+unit: words
+ownProgress: 1602
+publishedAt: 2025-11-28
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2801761/b5-chapter-20"
+royalRoadId: "2801761"
+markedReadAt: "2026-06-29T19:16:44.352Z"
+---
+
+Somewhere in the Scarlet Crucible
+
+Lucius Octavio, the Horseman of War, finds the current events rather amusing as he watches his fellow Horseman fighting in one of the many tournaments on his world. Clearly using the tournament to brush up on her fighting skills.
+
+Not that he can blame her for getting a bit rusty with her fighting skills. Seeing as she is completely immortal and doesn’t have to take any battle seriously.
+
+If Lucius were to be asked by someone else, he would say that he introduced her to the Scarlet Crucible for profit. To draw in more people to the tournaments.
+
+But in reality, the reason is a lot simpler than that.
+
+He just doesn’t want Aria’s combat skills to completely die from never being used more than to blow things up and swarm things with her Death Spirits. Because he genuinely wants to battle her someday. When she’s on his own level in terms of power.
+
+Even if he’s not able to officially duel her for a skill, seeing as she can’t die and all.
+
+The idea of the Horseman of Death forgetting how to fight just sounds like a waste to Lucius. So he introduced her to something he knew would pique her interest and make her get back into combat again.
+
+It certainly helps that his capital planet is a perfect place for her just as much as it is for him. Since the planet has large amounts of death energy on it just like the war energy.
+
+But that’s to be expected. After all, war begets death.
+
+Death always follows war. So where there’s war energy, there’s also death energy.
+
+It’s part of why he’s been following her around all this time. Because it’s only natural.
+
+Although most of it is just because he finds it amusing to see her reactions to his appearance every time. Since if he were to just show up out of the blue near Famine or Pestilence, they’d try to blast him and kick him off their planets entirely without any hesitation. Unlike Death who just feels exasperated and ignores his existence.
+
+Not that their reactions stop War from popping up out of nowhere near Famine and Pestilence though.
+
+War’s thoughts are interrupted when he receives a notification on his terminal. One that he’s been waiting for quite a long time now to see.
+
+A massive grin stretches across his face as he immediately stands up and opens a rift right next to him while summoning his horse. Then he gets on his horse and passes through the rift, heading straight to where the message is telling him to go.
+
+Which is an abandoned world somewhere on the outskirts of the Arcadian Society.
+
+And what he finds there is the main body of Isabella de la Vega as she grimaces at his own arrival.
+
+War’s grin grows wider as he sees the woman.
+
+“War…” Isabella grunts out while crossing her arms. And Lucius can immediately tell that her mana levels are lower than they should normally be. Probably because she split up her body and mind into different clones. With this one being the main clone. “What do you want?”
+
+“Do you even have to ask?” War asks, still grinning brightly at her as he pats the pommel of one of his swords. “Will you accept my duel request, Isabella de la Vega? To the death.”
+
+Isabella scowls at him and asks, “Why the hell would I do that?”
+
+War doesn’t stop grinning at her as he answers, plain and day, “Because I’ll only kill off your main body, allowing you to switch to another clone to make it your main body instead. And I’ll tell Famine about it as well, so you should be able to live out the rest of your life without him ever bothering you again.” His grin grows when he sees the interest clear on her face. “So do you accept my duel request?”
+
+Silence fills the planet for several seconds before Isabella finally lets out a grunt and uncrosses her arms. Then she says, “I accept your duel.”
+
+And the moment she says that, a clap of scarlet thunder and lightning flash and echo across the entire universe.
+
+“Good!” War exclaims as scarlet lightning begins to flash across his body. “Let’s begin then, shall we?”
+
+Aria
+
+I find the middle of the battle royale I’m in interrupted when a loud crash of thunder echoes across the stadium, silencing everyone in an instant. Meanwhile scarlet lightning sparks all throughout the sky, lighting it up in a scarlet glow.
+
+And the moment everyone sees that, they begin cheering. No matter who it is. Whether the other combatants in the arena with me or the people in the bleachers.
+
+Everyone just suddenly begins to cheer.
+
+As for the specific cheer they’re making? It’s… unexpected.
+
+“May scarlet blood flow!” “May scarlet blood flow!” “May scarlet blood flow!” “May scarlet blood flow!”
+
+Before I can even wonder what the hell is going on, a massive screen made out of pure war energy appears in the sky. One showing Lucius and Isabella as they begin to fight. With War literally cutting the planet they’re fighting on in two with one slash of his blade. And Isabella – even in what seems to be a weakened state – ends up blasting an entire moon to pieces with a single spell.
+
+The sight of the two fighting seems to make the fighters in the arena and the people in the bleachers cheer even louder. Repeating that one chant over and over again without pause.
+
+What’s most bizarre about this is that the fighters in the arena aren’t even paying attention to each other anymore. Almost like they don’t care about the battle royale anymore.
+
+Okay then… what’s going on?
+
+After a moment of watching War swinging his sword while cackling like a madman and shattering Isabella’s barrier spell in one sweep of his blade, I turn my attention to my terminal to look up what’s happening. Starting with that chant.
+
+And I quickly get my answer.
+
+As it turns out, War’s duel skill where the winner takes one of the loser’s skill doesn’t just do that. It also announces to the entirety of the universe that War is in an official skill-recognized duel. And it even shows the duel to everyone within the span of his territory.
+
+Because War apparently wants to share the joy of the duel with all of his people.
+
+Which is… interesting, I suppose.
+
+I guess he’s just never had a skill-recognized duel in the past two hundred years.
+
+Kind of surprising, but not at the same time. Considering how strong he is.
+
+I’m watching him cut planets apart with a single sweep of his sword after all. So there’s not many that can actually do much in a duel against him. Much less would accept the duel. Since that’s required too.
+
+What I’m surprised by is the fact that a weakened Isabella actually accepted his duel.
+
+Anyways, when it comes to that chant they’re speaking, it is apparently a reference to his early life. When War was just starting out and all.
+
+I’m honestly a little surprised by how well-liked War is by his people.
+
+Or at least, by the people here in the Scarlet Crucible.
+
+I bet the people on other planets may not like him quite as much even in his own territory. Probably depending on how their governor treats them on each world.
+
+As for the battle royale I was just in? That seems to have been postponed until after War’s duel is over. So that’s kind of annoying.
+
+I might as well watch his duel in this case.
+
+So with that thought in mind, I go ahead and sit down on the ground and raise my head to look at the screen above the stadium.
+
+At least their duel is rather interesting. What with it being a duel involving one of the Horsemen.
+
+Although I kind of feel bad for all the planets he keeps cutting apart just from missed attacks. And Isabella doesn’t seem to be doing very well in this duel at all. What with her barely even retaliating to his attacks.
+
+For the most part she’s just trying desperately to defend herself. Only for each and every one of her barriers to be shattered without much trouble.
+
+Most surprisingly though is when she apparently decides to just stop defending entirely and starts bombarding everything with attacks. Destroying everything nearby.
+
+Other planets, entire stars including the sun of that solar system, meteors, asteroids, anything.
+
+She destroys everything there.
+
+Yet War manages to just tilt his head back a little to pop his neck as the few wounds she managed to give him heal up at a visible pace.
+
+And it seems to be at this point that she finally gives up and just stops moving entirely while sending War a wry, sad smile.
+
+Honestly, if it weren’t for the trouble she’s caused me over the years, I’d almost feel bad for her. But I don’t really have any ties to her, and she’s been a nuisance, so her problems aren’t mine.
+
+So with that, I watch as War finally beheads Isabella de la Vega. The Archmage of the Arcadian Society and most powerful mage in the universe.
+
+And the man in question just raises a single fist into the air and lets out a roar. One that is reciprocated by every single person in the stadium and no doubt on the planet.
+
+Okay, so duel aside, when will my battle royale continue?

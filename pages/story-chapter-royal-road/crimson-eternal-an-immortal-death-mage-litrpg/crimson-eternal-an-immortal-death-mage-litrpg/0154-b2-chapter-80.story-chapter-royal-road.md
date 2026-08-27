@@ -1,0 +1,123 @@
+---
+id: 8ac30da1-8a7e-55ef-8159-c9383924b716
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 80"
+slug: 0154-b2-chapter-80
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 154
+ownLength: 1490
+unit: words
+ownProgress: 1490
+publishedAt: 2024-05-06
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1626053/b2-chapter-80"
+royalRoadId: "1626053"
+markedReadAt: "2026-06-29T19:10:57.336Z"
+---
+
+Aria
+
+Over the course of my day at Pestilence’s castle, I put in a lot of thought about my ability. Particularly how my ability’s adaptation is affected by the level and power of the thing it’s adapting to.
+
+For example, the poison from the Tier 10 mana creature. It was so much more powerful that it ended up making my ability adapt to it far slower. Meanwhile those wasps were also far more powerful than me, but they made up for it by repeatedly stinging me, using a massive amount of the thing I’m adapting to instead.
+
+Then there’s Pestilence’s time reversal poison. Which ended is supposedly taking months to heal even with my adaptation growing to it as time goes on.
+
+Pestilence is one of the three most powerful beings in the entire universe, and despite him only using the thing on me a single time, it still managed to revert me – according to him when I asked – back to when I was about eight years old. Although he said that no one would be able to revert me any younger than that, even though his poison was originally supposed to revert someone all the way back to infancy. But it instead only reverted me to eight years old. About the same age Little Blue was when I met her.
+
+The fact that it reverted me that far is still surprising and shows just how powerful Pestilence is.
+
+So power and the number of times I’m affected by whatever it is I’m being adapted to seems to alter the amount of time it takes to adapt to it.
+
+Never really had much to go off of for that back on Vortel, since nothing on Vortel was anywhere near as powerful as the things outside of Vortel.
+
+On another note, I learned from the people in Pestilence’s castle just how it is to live on this planet.
+
+They actually live relatively well and are given plenty of food, water, and supplies so long as they work to maintain his castle without getting in his way at all. The only real issue is that if they do end up getting in his way then they’ll either end up dead or thrown across the castle before the man proceeds to ignore them. Depending on the severity of whatever they did.
+
+A rather surprising fact considering Pestilence’s being a Horseman of the Apocalypse. Their having comfortable lives here that is.
+
+Then again, Pestilence is just an apathetic person when it doesn’t relate to his experiments.
+
+I tap my fingers on the edge of the balcony looking out over the planet that is literally dead. To the degree that it’s falling apart, with large chunks of the planet just floating in space around it.
+
+Apparently one of the first major things Pestilence did in the universe.
+
+Killing his own world through some sort of poison. Or an acid to be more accurate. Or both.
+
+A strange one that burns through anything non-organic and kills anything organic.
+
+In the end leading to him completely destroying and killing the planet and everything on it, turning it into his own personal lair. Since Gates didn’t exist back then.
+
+No one knows exactly how long ago this was. No one except maybe the Nine Grands. But it was suspected to be at least several hundred thousand years ago.
+
+Actually, no one knows how old the Nine Grands are either. Records of the past were just kinda lost over the years. And the Nine Grands don’t talk about their age. Especially the ones that, well, don’t talk much. At all. Like Pestilence and the Leader of the Council of Darkness.
+
+Even Famine, who is known to be arrogant and very narcissistic, doesn’t ever speak about his age. Other than going on and on about how much older he is without specifying an amount.
+
+Makes me wonder why they’re all hiding it.
+
+My thoughts are interrupted when I feel someone grabbing me from my armpit again before lifting me up, startling me in the process. Then I find myself being moved into Pestilence’s arms once more as the man sits on his horse.
+
+A little warning would’ve been nice.
+
+I frown at him, but he ignores me, instead just waving his hand and making another portal appear. One clearly leading to Arian. And without hesitation, he quickly has his horse gallop through the portal before dropping me on the ground, circling around once, and reentering the portal without a word with the portal closing behind him.
+
+Damnit, that guy really is annoying. Just does things without warning all the time.
+
+Then again, he’s strong enough that he doesn’t need to say anything.
+
+I stand up while wiping the grass off of my pants – pants that still don’t fit because he doesn’t have clothes to fit me – and looking around. Only to find myself getting tackled to the ground again by someone who moves faster than I can see. But after grunting and turning to look at the person squeezing me in a hug, I find it to actually be Shirogane. And he is actually crying.
+
+Huh. This… is not the welcome I was expecting.
+
+He’s also not saying anything. Just crying on my shoulder.
+
+I just stare up at the sky while patting him on the back, feeling more than a little awkward by my age still being about thirteen years old by appearance.
+
+After several minutes, he finally lets go and helps me to my feet, briefly looking me over with a vaguely surprised and amused look on his face. I then wipe the grass off of my clothes again. But before either of us can say anything, I’m tackled to the ground again by someone I can see this time.
+
+Hannah.
+
+“Can you people please stop that?” I begin, only to trail off before I say any more as she’s crying too. Instead I mutter, “What’s with all the crying…”
+
+Not really sure why they were so worried. It’s only been a few years since I last saw them.
+
+Also, it’s weird to see Hannah looking so young. Very weird.
+
+And is it just me, or is Shirogane looking a bit younger as well? Not sure what’s up with that. Or how he managed to move so fast at the level I thought he was.
+
+Actually, he doesn’t look to be wearing that silver necklace of his anymore. Wonder if that has anything to do with it.
+
+Anyways, Hannah eventually lets me climb to my feet before she puts her hands on my shoulders, a worried look in her eyes as she asks, “Are you okay? Do you need to talk about it? And did Pestilence do anything to you?” Then she blinks as if finally noticing my appearance. “And… why do you look so young?”
+
+“Talk about what?” I ask while tilting my head. “And it was the main poison he used on me. One that reverted my age. But it should only last for a few more months at most. Then I’ll be back to normal.”
+
+Both Hannah and Shirogane share a confused glance at my question, but they look relieved at my answer to the latter.
+
+“Glad to hear you’ll be returning to normal soon,” Shirogane says with a faint smile. “But are you sure you’re… ya know, okay?”
+
+“Yeah, why wouldn’t I be?” I ask while tilting my head. Then I remember what happened when I was in the Hive. “Oh, the stuff in the Hive? Yeah, it’s fine. I’m pretty sure my ability is altering my brain somehow to make trauma just… not stick.”
+
+They both look worried about what I just said, but I’m not really sure why.
+
+It’s a good thing after all.
+
+Then Hannah suddenly turns serious as she focuses on me, takes a deep breath, and says, “Aria, there’s… something I need to tell you. Something that happened while you were gone.”
+
+I blink at that in confusion.
+
+“What’s up?” I ask, a frown growing on my face.
+
+Hannah’s face tenses up a little before she eventually says, “Rogers… I mean, Frank… is nearing the end of his lifespan. We got word about it from Vortel while you were… unable to be contacted.”
+
+My entire body tenses up as my eyes widen and I freeze.
+
+It feels almost as if time is frozen as I stare. As silence fills the island around us. And as Shirogane and Hannah both look me directly in the eye, with tears building up in Hannah’s own eyes.
+
+“We should go back as soon as possible,” Hannah says as tears begin to build up in my own eyes. “He doesn’t have long left, and he won’t be able to reach level one hundred before it happens.”
+
+Silence fills the island once more, and I can’t seem to move at all.
+
+Rogers… is dying.
+
+I… have to go back to Vortel.

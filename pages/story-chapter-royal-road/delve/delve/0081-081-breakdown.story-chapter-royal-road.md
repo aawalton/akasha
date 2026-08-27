@@ -1,0 +1,275 @@
+---
+id: 3d7503e5-8db4-56b5-b27a-0f9af31f9faf
+page-type-slug: story-chapter-royal-road
+title: "081: Breakdown"
+slug: 0081-081-breakdown
+partOf: delve
+position: 81
+ownLength: 6393
+unit: words
+publishedAt: 2020-02-18
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/458813/081-breakdown"
+royalRoadId: "458813"
+---
+
+Val sat in the corner of a filthy tavern, watching a brawl. It was the third such bout that had broken out since he’d come in a few hours ago—nothing to be alarmed about. The Plum was the worst tavern in Fel Sadanis, hands down. Or best, depending on your perspective. In fact, calling it a tavern was a bit of an oversimplification. It was a place that people came to when they wanted to drink and fight and fuck and do all manner of things that would get you thrown out of any other establishment in the city. It also stayed open all day, which was another point in its favor. It was before noon, but it was still fairly busy. There wasn’t a lot to do in the city, and people were looking for ways to let off steam.
+
+Idly, Val tracked the progress of a spinning table leg as it flew through the air. The owner must be a carpenter, otherwise, he’d never be able to afford all the furniture that this place goes through. He sipped at his beer, taking only the smallest mouthful. It wasn’t that the beer was bad, which it most assuredly was, rather that he didn’t want to get drunk. He’d been here for hours, and he might have to wait for hours more. He quickly lifted his mug as a man crashed into his table, falling to the floor unconscious. He smirked, appraising the thrower, a much taller, fatter, and hairier man than the one who’d been thrown. I could take the lot of these amateurs, no magic required. They’ve got no skill at all.
+
+He set his beer back down. It looked like the fight was over, at least for now. The fellow groaning at his feet had been the instigator, and with him and his supporters strewn around bleeding on the floor, there wasn’t anything for the victors to do but order another round. As rough as this place was, there was a strict ‘no killing’ rule, plus a ban on weapons. Otherwise, the Watch would have long-since shut it down. Accidents happened, though. Adventurers didn’t come here often, nor did the Watch, though there was actually an officer in here at the moment.
+
+She was sitting at a table across the room, wearing twin daggers at her waist in blatant violation of the no weapons rule. Nobody was about to call her on it. Like a few of the miserable sods in the tavern at this time of day, she seemed to be here to drink herself numb. Four empty mugs were sitting on the table in front of her, and she was working on a fifth. She’d only been here for an hour. It was impressive, though depending on her level, the alcohol might not have been having that much of an effect.
+
+He’d been annoyed when she’d come in, but her presence hadn’t dampened the atmosphere for long. She’d made it clear that she didn’t give a rat’s ass about what people were doing. She’d even tucked away her bronze Watch plate, though she refused to surrender her daggers to the thug at the door. People had eventually decided to just ignore her. That was good. He couldn’t have her scaring off the lowlifes. It was a lowlife that he was here to find.
+
+Val snorted. Speaking of. Looks like he found me first.
+
+A man had appeared, dragging a chair over to his table. He hadn’t come in from the front door, or from the hallway leading to the private rooms. As far as Val could tell, he’d come from nowhere, and that was impressive. The man reached his table, then clicked his tongue and set the chair down so he could kick the groaning unfortunate out of the way. He snapped his fingers loudly, waving to catch the attention of the thug at the door. Said thug plodded over to grab the semi-conscious man by the leg and drag him across the room, uncaring of the way that the man’s face was scraping against the rough wooden planks. Trash taken care of, the newcomer placed his chair across the table from Val and sat down casually.
+
+The man was older, perhaps 40, with a jet-black beard that had been oiled to a point. His head was bare and smooth, as if freshly shaved. Like Val and the Watch officer, he stood out from the rest of the tavern’s denizens in that he wasn’t completely covered in shit. His clothing was plain, but it was new and well made in contrast to the rags that most of the tavern’s denizens were wearing. Despite this, he looked like he belonged. His name was Morret, and he owned the man that owned the Plum. He was also the best information broker in Fel Sadanis that you’d never heard of.
+
+“So,” Morret said, “what do you want to know?”
+
+“Straight to the point?” Val said, smiling. “Good. I’ve been here long enough.”
+
+“My time is valuable,” Morret said with a shrug. His voice was rough, like there was some gravel grinding around at the back of his throat. “You wouldn’t still be sitting there if you didn’t want to talk with me. Nobody comes to this bar to just sit for three hours and only orders two beers. Say your piece. I know that both of us have better things to be doing.”
+
+Val smiled. “I’ve heard you sell information. I’m in the market.”
+
+Morret harrumphed. “I assumed that much already. Out with it. What do you want to know, and how much are you willing to pay?”
+
+Val paused, looking over at the Watch officer. “Don’t you think we should go somewhere else first?” He nodded in the officer’s direction, trying to keep his motion subtle.
+
+Morret croaked out a wheezing laugh and turned to stare blatantly at the Watch officer. It didn’t look like she noticed. She was busy carving something into the table with one of her daggers. Morret was smiling as he turned back to Val. “What, worried for my business?” he asked. “I’m touched. She won’t bother us. What I do is perfectly legal. Besides, I’m counting on her to stop you from smacking me around until I tell you what you want to know. I’m wise to your type. You’re paying. Information is not free, Val of Osar.”
+
+Hah. Of Osar? Anyone can see that, just by looking. This guy doesn’t know a thing about me. Still, he’s not a moron. I will admit that I did consider just leaning on him until he squealed. He nodded. “Naturally, I will pay for what I want to know. I will also pay for my questions to be kept discreet. That means no listeners. She may be able to hear every word we are saying.”
+
+“She can’t,” Morret said.
+
+“How can you possibly know that?” Val asked.
+
+“I know because I know everything,” Morret said. He gestured to the woman, who was starting on her sixth mug of beer. He leaned in to speak in a whisper, shielding his mouth with his hand. “Officer Melka, age 23, orphan, Fel Sadanis native. She’s level 7 and using the Watch’s standard rogue archetype. That means no sensory skills yet, other than Watch-Reading. Oh, Dagger Warrior is the base class, if you weren’t aware. Want the full skill list?”
+
+Val raised an eyebrow. “I thought you said information wasn’t free.”
+
+Morret smiled as he sat back and lowered his hand. “I did say that. Don’t worry I’ve already added it to your tab.”
+
+“Hey,” Val said sharply, “you can’t charge me for information I didn’t ask for.”
+
+Morret raised a finger, “Firstly, you did ask, if indirectly,” he raised a second finger, “and secondly, I told you not to waste my time, which you are continuing to do.”
+
+Val contemplated punching him right in his smug face, but restrained himself. If it escalated, that would be more trouble then he was prepared to deal with. He could probably get away with a brawl in this place, but he was awakened, and to his knowledge, Morret wasn’t. The Watch tended to react poorly to that kind of thing. The officer hadn’t stepped in to halt the previous brawl, but he couldn’t risk starting anything on the off chance that she knew who he was.
+
+Damn it. He sighed. “Fine. But I’m only paying if your other information is good.”
+
+“Does that mean you’re finally ready to tell me what you want?” Morret asked.
+
+Val nodded, then leaned in, looking around. He lowered his voice to a whisper. Assuming that Morret was right about the officer, nobody would be able to overhear them, absent any sensory skills. “Let’s start simple. Tell me everything that you know about the Fells.”
+
+"Hum…" Morret stroked his beard. "Eight Tel."
+
+Val scoffed. "Too much."
+
+"Take it or leave it," Morret said. "It's two Tel for the basic dossier on Melka, and four Tel for the Fells, plus two more for discretion. It's not common information you know. The Watch guards that lair like the Bank guards their shinies. Or at least, they did before the DKE came."
+
+Val grumbled, reaching for his pouch. It was depressingly light as he removed it from his belt. He counted out the Tel and placed them on the table in front of himself, but didn't slide them across to the information broker. "Before I pay, will you at least tell me if it is above rank eight?"
+
+Morret smiled. "It is,” he said, making a beckoning gesture. "Now, pay up".
+
+Val sighed and slid the Tel across. Morret promptly made them disappear into a pocket. "Next time, don't flash crystal out in the open like that. Remember where you are. Most of the fellows in here would thump you for a bent copper."
+
+"I’d like to see them try it," Val said, "but I take your point. I want to get out of this foul-smelling place more than I want the entertainment. Now, out with it. The Fells, what can you tell me?"
+
+“Well,” Morret said, leaning in to whisper, “I have reliable information that places it at rank 11, chemical aspect. The entrance is below the sewers, through a fortified Watch stronghold that sits on top of it. You’re not the first to ask me about it, you know. Morons just keep coming out of the woodwork since our esteemed Citizen made her little decree. I’ll tell you what I told them: you’re not getting in. Lord Rill’s got the place on lockdown. The Watch deactivated their wards before they left, but there’s enough hench down there so it hardly matters.”
+
+“Hench?”
+
+Morret gave him a look. “Henchmen, lackeys, goons, guards, thugs. Try to keep up. They’re unawakened, but dangerous enough. Rill’s not got a lot of heirs, but he’s got plenty of money and time. He’s trained up quite the little force over the years. Don’t even think about trying to carve your way through. They’ve got Message scrolls. Those still work as long as the target is in the city. Even if you did get past them, you’d find a very angry Citizen hot on your heels. You’d have to be all kinds of stupid to even attempt it.”
+
+Val had narrowed his eyes as Morret had been speaking. “Watch your tone.”
+
+Morret laughed. “Hey, you’re the one who wants to piss off the Citizen. What are you, level five? Six?”
+
+“I’m asking the questions,” Val said. “Back to the lair. What’s the layout? A maze?”
+
+“It’s your crystal,” Morret said with a shrug. “I’m perfectly happy taking money from a dead man. The Fells is a stinking, fetid swamp,” he waved a hand, “maybe even worse than this place. By the way, I learned all of this from a builder who did some stonework for the Watch to repair the inlet from the river. It’s a separate system, brings fresh water down from the surface. They’ve got their own waterfall down there with heater plates and everything. Mister builder saw a party coming out looking like mud golems, so coated in filth they were. The waterfall’s outside the lair, of course. You can’t build in the Fells, or any lair, for that matter.”
+
+Val pinched his forehead. “I don’t care about the bloody builder. Just because a party came out looking like they were in a swamp, it doesn’t mean it is one. Besides, how can it be a swamp if it’s underground?”
+
+Morret smirked. “Don’t know much about lairs, do you? It’s magic, you nit. I know it’s a swamp because the builder saw it himself. He was down there for days, apparently long enough for one of the officers on duty to take a fancy to him. He convinced her to let him have a peek inside if you can believe it. Two years I’ve been trying to get a shield to confirm what’s in there, and some idiot bricklayer manages it in an afternoon just because he’s got a face like a painting.” He sighed. “And I’m telling you about him because people like to know how I know what I know. Lends me some credibility.”
+
+Val grit his teeth. “Weren’t you the one telling me that your time is valuable? Stop being so damn long-winded and just tell me the important stuff.”
+
+“That was before you paid me,” Morret said with a shrug. “Now, I am providing a service, as agreed. I don’t want anyone saying I don’t fulfill my end of the bargain. Well? What else do you want to know?”
+
+Val sighed. “Okay, so it’s a swamp. How big? What kind of monsters?”
+
+“No idea. One would assume chemical. Slimes, fungiforms, plague rats, that kind of thing. All I’ve heard is speculation. No confirmed reports. I even heard that there’s a dragon down there.” He laughed. “Preposterous.”
+
+“And blues? How often does it spawn them?”
+
+“Frequently, as such things go. More or less monthly, to judge by the Watch’s movements. That’s why they keep the lair around instead of breaking the core. There’s no telling how long it would take another to spawn, and it would likely be worse.”
+
+“When was the last blue seen?”
+
+“Over a month ago. Should be another one any time now.”
+
+Val grinned to himself. Perfect timing.
+
+Morret laughed. “You’re actually planning on trying it, aren’t you? Why? Just so you can raise your cap? I’ll never understand you adventurers. Fucking morons, the lot of you. Even if the lair doesn’t kill your dumb ass, the Citizen will. Say, before you get yourself killed, I’ve got an offer for you.”
+
+Val frowned. He was about fed up with this guy. He’d been sitting in this tavern for far, far too long. Sticking around to hear any more was getting less and less appealing by the moment. He’d learned what he needed to.
+
+Morret seemed to take his silence as an invitation to continue. “The Night Cleaner,” he said. “Word is, you know him quite well. You tell me something I don’t know, and I’ll pay. Something good, and I’ll pay a lot. His class, maybe?”
+
+Val laughed, getting to his feet. “Fuck off,” he said, not even looking at Morret as he walked past him. His hand brushed against his nearly empty money pouch, and he almost stopped. He shook his head as he strode toward the door, weaving his way through the broken tables in the center of the large room. He owed Rain a debt that had nothing to do with money. As much as he needed the cash, he wasn’t going to sell him out. It just wasn’t done.
+
+He smiled to himself as he stepped through the door, breathing in the fresh air. I’ll bet I can just convince Rain to come slime hunting. Sure as the depths, I’m not digging through the disgusting things myself. I bet he’d give me half the Tel, even if I did fuck all. It’s not like he’d need my help to kill them. Still, he’d probably even insist that I take a share. He’s too kind for his own good.
+
+He sighed. Damn it all, why did the lair have to be a swamp? There’s no way I’m asking Rain to come with me, as nice as that aura of his would be. He’d never agree to it, plus, there’s no way I’d get him in there…
+
+Maybe Carten? I could use him as a distraction….
+
+Nah, that’s an awful plan. The water system, that’s the way. Now, to find the entrance.
+
+Late that night, Rain trudged toward the gates of the city. The sun had set hours ago, and the sky was overcast, making it a very dark night. He was dead tired, having spent the entire afternoon working on Operation Heatsink. Ameliah had left to go look for Jamus and Tallheart, leaving him alone with his thoughts. She hadn’t returned, though he’d been out there for a good eight hours.
+
+Instead of jogging, he’d taken his time, reducing the intensity of his Novas so as to not freeze himself too badly. He’d needed to do that to compensate for the boost from Aura Compression. He’d pulled the range in a bit, seeing as the fully frozen area didn’t reach the full 108 meters. It was hard to tell if it was more or less efficient this way, but It hardly mattered. It was going to take him days and days. He figured that he might as well get some experience for Aura Compression while he was working on it.
+
+All in all, he’d completed seven full rounds of Refrigerate novas, each followed by just over an hour of sitting in the heart of Winter. He’d taken to warming himself intermittently with tightly-constrained flashes of Immolate, just to take the edge off. It took a bit of mana, but it was worth it to prevent frostbite. It helped, but it wasn’t enough. The cold had seeped into his bones. Despite that, he wasn’t using Immolate as he approached the city. His skin felt dry and cracked, all of the moisture sucked out of it. It was time to give the magic a break.
+
+Even after all of his effort, the air was still warm. It did seem to be a little less bad than it had been before, but he hadn’t made nearly as much progress as he hoped. Hot air rose, meaning the blanket of cooler air that he’d created should have settled over the city. It sure didn’t feel like it, though. Without a thermometer, he didn’t really have a way of telling. His sense of temperature was honestly a bit whacked at this point.
+
+He was tired, hungry, low on mana, and bored out of his skull. Unlocking skill trees and playing with builds hadn’t been enough to keep him entertained through the long, cold work. He’d managed 22 trees this time, the maximum that he could unlock with his current experience cap. Spreading out the unlocks over the course of the afternoon had seemed to help with the soulstrain. He’d done them in batches, five at a time at first, then dropping down to four when he started feeling discomfort, then down to two when it worsened further. The last few trees were truly painful, but he’d pushed through. He wasn’t willing to try forcing the training dialog to appear. In theory, that would have allowed him to keep going, but there was such a thing as going too far.
+
+He’d unlocked quite a few interesting skills over the course of the afternoon, but the one he couldn’t stop thinking about was Tissue Scan. It was tier 2, in the Restoration tree. Both Wallace and Ameliah had used it on him. Wallace was one thing, the man was the closest thing that this world had to a doctor. Ameliah, however, that was another story. When he’d read what the skill did, he’d been mortified. It would allow the user to see a complete 3D image of the body. Inside…and out. His cheeks burned red once more as he thought about everything that she had seen. She hadn’t even mentioned it. He wasn’t sure if that made it better, or worse.
+
+He sighed as he drew to a stop outside the tavern where Melka had said she’d wait for him. An evertorch was burning across the street, giving him just enough light to see thanks to his Perception accolade. He was surprised that Melka hadn’t come out to see what was taking him so long, and also a bit worried that she wouldn’t be there anymore. He didn’t want her to get in trouble for shirking the task that her superiors had saddled her with. As annoying as it was to have a babysitter, he got along well enough with her. He didn’t want to get stuck with some rando instead. Plus, she was clearly in a dark mood after the attack on the city and he didn’t want things to get any more difficult for her.
+
+He looked up at the sign for the tavern. It was hanging at an angle, one of the chain links holding it up having rusted away and been replaced with a horseshoe. There was no writing on the sign, just an image of something that might have once been a plum. It was so faded that it was hard to tell, especially in the dim torchlight. Still, it was obviously a tavern from noise leaking into the street. It sounded like it was packed in there, the drone of voices mixing with something that could charitably be called music.
+
+He opened the door, pushing his way into the room. He immediately made the mistake of breathing in. He almost gagged, choking on the odor of vomit, stale sweat, and rotten beer. He’d detected a whiff of it even before opening the door of course, but he’d just assumed something had died in a gutter nearby. He’d never expected that the inside of a building could possibly smell worse than the sewers, but there it was.
+
+Fuck, this can’t be the same tavern. I must have gotten confused. No way someone would willingly choose to breathe this…
+
+He looked around the room in awe, trying to breathe through his mouth. The place was indeed packed. Nobody had noticed his entrance yet as far as he could see. They were all watching… Yeah, that’s…wow. This is not a normal tavern. I hereby upgrade it to ‘wretched hive of scum and villainy’. He turned his attention away from the pair of…performers…dancing on the table, spotting Melka sitting at a table in the corner. He shook his head. Wow, it really is the right place. Damn. There is no way I’m going in there. Not without doing something about the stench. Air should NOT have a flavor. Purify.
+
+He used Aura Compression to restrain the magic, wearing the spell as a cloak as he did with Immolate’s space-heater mode. He kept the power as low as he could, just enough to scrub the odor out of the air before it made it to his nose. It didn’t take much; Purify was particularly effective against airborne contamination. The light from the spell was barely noticeable. This was good, as he assumed that Purifying the entire building would be a sure way to cause a panic if he did it without warning. Still, I kind of want to…
+
+He shook his head, then looked for a path over to Melka that would keep him out of sight. The tables were all full, with yet more people standing around in between. A huge man was sitting on a stool by the door, but it looked like he’d fallen asleep; an impressive feat, given the noise. There was a wooden cudgel lying at his feet and a crate behind him packed with all manner of weapons. Some sort of bouncer?
+
+Seeing no clear path, he sighed and started pushing his way through the crowd. It was dark and loud, so only those near him reacted to his presence as he forced his way through. Some recoiled in shock as if struck, others simply laughed or yelled, too drunk to care about the adventurer in their midst. He felt particularly out of place as he pressed through the mass of unwashed people dressed in rough outfits. He cursed under his breath as his foot slipped on something that squished as he put his foot down. Again he had to fight the urge to just open up and clean the entire place from rafters to floorboards. Melka would be pissed. Heck, she might be anyway, she did tell me not to make her wait too long.
+
+As he finally reached her table, he realized that he was right about her being pissed, just not in the way that he expected.
+
+“Oh, there you are. What took you so…so,” Melka struggled, slurring her words. Giving up on finishing her sentence, she took a huge drink from a massive wooden mug instead. She slammed it down on the table with a thunk, then squinted at him in the dim light. “Sit down,” she said, swaying slightly. “You’re making me dizzy. And take off that fucking helmet.”
+
+Rain sat, not sure quite what else to do. He looked around, then reluctantly removed his helmet, taking a second to tie it to his belt using the short piece of rope he kept for that purpose. He’d wanted to just get Melka and leave, but she didn’t seem like she wanted to go. There was a massive pile of empty mugs sitting on the table in front of her, each as large as the one she was now holding. She didn’t drink all of those, did she? Damn, she must have. It’s not like anyone else is sitting at this table. Holy shit. How the hell is she still conscious? Does she have a spare liver?
+
+“Um…Melka,” he said, raising his voice over the roar of the crowd.
+
+“What?” she shouted back. She poked a finger at him. “Hey, where’s your drink?”
+
+He shook his head. “I don’t have one. I just got here.”
+
+“Well, why not. This is a bar. Bars are for drinking.” She got up and waved her hand in the air. “Hey! Refill!”
+
+“Melka, it’s after tenth bell,” Rain said as she swayed, falling back into her seat with a heavy thump. “Don’t you think we should head back to—”
+
+“Fuck no!” Melka interrupted, practically yelling. “I’m…no. I want to stay here,” she continued in a much lower voice.
+
+I am not equipped to handle this… “Melka, let’s go. I’m tired, and you’ve had…” he quickly counted. “Nine already?” Damn.
+
+She laughed. “Nine, ha! No, you left me here since noon! I’ve had… I’ve had… I lost count.”
+
+Rain’s response was cut off by the arrival of the server, bearing a pair of mugs, filled to the brim. The large woman set them down on the table, spilling beer out across the surface. “There’s two more, love,” she said with a smile. “You’re all set.” She turned to Rain and looked him up and down, then frowned. “Fancy man, eh? Think I’ve heard of you. Payment in advance, even for a lord such as yourself. What can I get ye?”
+
+Rain sighed. “I’m not a lord.” Melka was working on draining the mug she’d been on when he came in. It looked like it was going to take him a while to convince her to leave. Maybe I should just…leave her here? Go get her boss or something? No, that would be a dick move. He looked back at the server. “Um, got anything to eat, or…?”
+
+“Nope,” the woman said with a snort of laughter. “Drinks only.”
+
+Rain sighed again. He was starving, not having eaten anything but a ration bar since breakfast. “I’ll just drink this one, I guess,” he said, reaching for the second mug.
+
+“The hells you will!” Melka shouted. Her hand darted out to intercept his with lightning speed and surprising accuracy, given her current state. “That’s mine!”
+
+“You want anything or not?” the server said in an irritated tone. “Hurry up, would you? I ain’t got all night.”
+
+“Nothing, thanks,” Rain said, looking at her. “We’re fine.”
+
+The large woman snorted, then left. Rain pushed his hand forward, fighting against Melka’s grip as he struggled to reach the mug. “Now, I’ll just take this one, and when we’re both done, we can go. Hey, would you let go?” Damn it, why is everyone stronger than me? She’s got a grip like a vise.
+
+“Fine,” Melka said, releasing him. He lurched forward, then caught himself. He grabbed the wooden mug and peered into it. Damn, this is a lot of beer. Hesitantly, he took a sip. Yuck. And it’s light beer. This whole place reminds me of college. He took another, slightly larger sip. It could be worse. It’s drinkable. Barely.
+
+“There you go,” Melka said. She took another massive swig from her own mug, then slammed it down with a thunk, empty. She sighed and collapsed forward to lay her head on the table, nestling it in the crook of her arm. Her brown hair was fanned out into a tangled mess. She mumbled something, but he couldn’t make it out as her mouth was smooshed against the wood.
+
+“What was that?” he said, looking at her with concern. Did she just pass out? How fucking drunk is she right now? Does Endurance help? It must. Actually, hang on. If she passed out, that’s good. I can just carry her back to the stronghold. I’ll have to see if I can sober her up with Purify once we’re out of here. I’d do it right now, but that would make a scene. If she goes back like this, they might—
+
+“I asked, what’s it like?” Melka said, turning her head to the side so her cheek rested on the table. Her eyes were closed.
+
+Rain blinked. “What’s what like?”
+
+“Being an adventurer,” she slurred, still not opening her eyes.
+
+Rain shrugged, then kicked himself for forgetting that her eyes were closed. “It’s okay I guess,” he said. “I haven’t been one for that long.” He took a large sip of his beer and grimaced. The sooner he finished it, the sooner they could leave. He contemplated just pouring it out on the floor. The filthy floorboards could use a good wash.
+
+“Being in the Watch…” Melka said, trailing off. She coughed, then sighed. “Being in the Watch…is awful.”
+
+“How so?” Rain asked, sliding his chair slightly closer to her so he could hear her mumbled words.
+
+She opened one eye and peered blearily up at him before closing it again. “It’s like…you’re not a person. Everyone hates you, just for wearing the plate. That’s all they see. The plate. The fucking plate.”
+
+“Melka, come on, let’s go,” he said. “You need sleep.”
+
+“Maybe…maybe you’re right. I’ll just sleep. Right here. This table is…comfy.”
+
+“No, not here. Come on, let’s get you up.” He reached for her shoulder and started to lift her, but stopped when he felt her body shaking. Is she…crying? Fuck. You know what, enough of this. I am too tired to deal with this, and I barely even know her. Time to make a scene. Enough tiptoeing around.
+
+He let go of her shoulder and stood, then released his hold on Purify. The barely perceptible wisps of light began to spread through the room. Looking around, he saw that his supposedly private conversation with Melka had already attracted quite a bit of attention. More and more people started looking his way as they noticed the spread of the spell. He boosted the intensity slowly, the light brightening as a hush fell over the room. The light grew even brighter as he switched Channel Mastery from restricting the skill to boosting it. People cried out in alarm and shied back. The filth was wiped from the floor, the walls, and the faces of the crowd in a rapidly brightening sphere of light. The man who’d been strumming away at his lute stopped with a jangle of notes and the room fell into a shocked silence.
+
+Rain focused on Melka, still lying on the table with her eyes closed. He focused, concentrating on the concept of the frankly ludicrous amount of alcohol that must be in her system. It is a poison. He pulled his aura tight again, shrinking it back down until it encompassed just the two of them. The light grew painfully bright as he activated the rest of his buffs. He didn’t see the reaction of the crowd, his senses fading away. He kept it going for a good thirty seconds, then canceled everything, nearly out of mana once more.
+
+He opened his eyes to see Melka staring at him, a horrified expression on her face. She sat up quickly, staring around the spotless room and at the stunned faces of the watchers. Wordlessly, she stood and ran for the door, people making way for her as she passed. An excited mumble started to build in the room, growing to a roar as people realized what had happened.
+
+“Night Cleaner!” someone shouted, thumping him on the back, hard. He winced. Damn it, they’re all still drunk. I didn’t want to sober up the whole room, but now getting out of here is going to be a pain. I’ve gotta move, and fast. At least I got an excuse to sanitize this damn place. He moved quickly, chasing after Melka as she fled from the room. People tried to stop him, slapping his back and reaching for his arms, but he refused to be stopped, relying on momentum and his armor to plow his way through. He escaped into the darkness not long after Melka, hurrying to catch up. She was walking quickly, but she slowed to a stop as he caught up to her.
+
+“Are you okay?” Rain asked. He couldn’t make out her face that well in the darkness.
+
+“No,” Melka said, softly. “I’m not okay.” She took a deep breath and sighed, then started walking again. He fell into step beside her, remaining silent.
+
+They walked for a few minutes before she spoke again, not looking at him.
+
+“Sorry. And thank you. You didn’t have to do that.”
+
+“I did,” Rain said.
+
+“You should have just left me there,” she said, sniffing.
+
+Rain shook his head. She couldn’t see him, but it didn’t matter. He didn’t know what to say. “What happened to you during the attack?” he said finally, not looking at her, staring at his feet instead. “It’s okay if you don’t want to tell me. I won’t ask again.”
+
+Melka sighed deeply. She seemed to struggle with herself, but Rain gave her time, simply walking in silence. She would either talk to him or not. He’d done as much as he could do.
+
+“I…” she said, then paused. “I died. She…killed me.”
+
+Died? He paused, considering whether he should ask her to clarify. “Velika?” he asked instead. They passed into a pool of torchlight, allowing him to see her answering nod.
+
+“She…cut my head off. I saw my own body, lying there. Headless. Blood spurting from my neck. I couldn’t move. Couldn’t breathe. The other one…he healed me, I think. I have no idea how he did it, how it’s even possible. I remember…he was carrying my…my head…”
+
+She took a deep breath and let it out slowly. “Everything was going black. Suddenly, I could breathe again. I saw his face looking down at me. I tried to move my arms, my legs, to make sure they were still there, but I could barely control myself. Then…”
+
+She stopped, gesturing in front of her vaguely with her hands. “Then, nothing. This horrible, horrible nothing. It lasted for what felt like days, but also no time at all. I can’t describe it. I couldn’t move. Couldn’t see. Couldn’t even feel. I was just…existing. I thought that was the end. I thought I’d died for real. Thought I’d just imagined the healing and that this…nothing was the afterlife. But then, I was back. Right where I had been, sprawled on the ground, gasping for air. Velika was gone, but the entire complex was on fire. Fedek was there, but he was like a statue. I couldn’t move him at all. A few other officers, too. They were all frozen. I think that’s what the nothing was. He…Westbridge…he did it to us, somehow. Some skill. Whatever it was, I woke up first. None of them know… Nobody knows…other than…her. And you, now.”
+
+Rain stared at her in the flickering light of the torch. “Melka…fuck. Just…fuck. I can’t even…”
+
+She started walking again, and he hurried to follow her. As he walked, Ameliah’s words floated through his mind, written on a ragged scrap of paper. Having nothing better to say, he said them aloud. “It will be okay.”
+
+Melka sniffed. “I’m not so sure.”
+
+Rain reached out, hesitated, then lay his hand on her shoulder. She didn’t shy away. “It will. Trust me, I should know. I’ve died before too.”
+
+“You don’t look dead,” Melka said, looking at his hand, then shrugging it off gently. “But then again, neither do I. I can’t tell if you’re telling the truth, or just making something up to try and make me feel better.”
+
+“Honest truth, I swear,” Rain said, smiling softly. “I fell off a cliff. Over fifty stride down, then did a belly flop onto solid stone. Broke every bone in my body and the rest of it into jelly. Luckily, there was a silverplate with us. She healed me, but it was a close thing. A couple more seconds…” He shook his head. “Anyway, it gets better. You move on. You don’t forget, but it gets easier to ignore. Having people around…helps. I know you don’t know me, but…I’m here. If you ever need to talk.”
+
+Melka looked at him, a sad smile on her face. “Thank you,” she said, then sniffed. She gestured back at the tavern. “Please don’t tell anyone about…that. Ever.”
+
+Rain nodded, then the pair continued on in silence.

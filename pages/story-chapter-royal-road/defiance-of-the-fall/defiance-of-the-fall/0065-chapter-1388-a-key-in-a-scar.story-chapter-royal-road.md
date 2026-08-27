@@ -1,0 +1,153 @@
+---
+id: 6cd32a26-25ed-554b-8092-7a28a7c86255
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,388 - A Key in a Scar"
+slug: 0065-chapter-1388-a-key-in-a-scar
+partOf: defiance-of-the-fall
+position: 65
+ownLength: 3046
+unit: words
+publishedAt: 2025-12-09
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2833560/chapter-1388-a-key-in-a-scar"
+royalRoadId: "2833560"
+---
+
+“What’s that?” Zac asked, pressing upon seeing Idiche’s conflicted expression. “I hope you’re not holding out on me. This could be a matter of life and death.”
+
+“It’s not that I’m holding out… It’s just that I don’t know!” Idiche said with frustration. “When I dream, I see images. Some of them from the future, or at least a possible future. I dreamt about your chains before we met. Why else would I go along with such a far-fetched tale from a complete stranger? You’re not that convincing.”
+
+Zac ignored the jab, focusing on the important part. “And you dreamt about this mountain? When?”
+
+“Before we even left Adventurer’s Cove. There’s a key in the crack. I don’t know what it opens, but I’d say it’s a safe assumption it’s related to the lodge,” Idiche said.
+
+“Anything else you saw?” Zac asked.
+
+“Nope. That’s it,” Idiche said, very clearly lying.
+
+Esmeralda interjected before Zac could press for a proper answer, “Hush! Someone’s there!”
+
+Zac turned back toward the exit. Following Esmeralda’s gaze, he vaguely spotted five dots far in the distance. The group braved the rain, descending from a neighboring mountain. Their destination was the same mountain that Zac’s group was eyeing. Not only that, but someone among them was releasing a steady plume of corruption that acted as an umbrella against the pelting rain.
+
+Five was perfect. It was more than manageable, especially if Idiche could occupy one or two while Zac dealt with the others. The problem was that they were two mountains away and about to cross an open stretch toward the solitary twin peak. A battle would be within view of six different mountains, theirs included.
+
+“If I work together with the girl, we might be able to hide the commotion,” Esmeralda said. “But it’s not guaranteed, and it wouldn’t be for long. All the rainwater pooling in the region has made the ambient energies completely overtuned.”
+
+“Let’s approach them first. We’ll strike if we see an opportunity. Otherwise, we’ll just tail them,” Zac said, turning back to Idiche. “Esmeralda’s concealment methods are more effective when used on a smaller area. Can you conceal yourself?”
+
+“No problem,” Idiche said and promptly disappeared.
+
+Zac tried to sense her using various methods and came up empty. Idiche had completely erased her presence. It was no wonder that she had even managed to fool Esmeralda the other day. Esmeralda croaked with annoyance at the reminder of being caught. A spatial shimmer around Zac confirmed she had activated her skill.
+
+“Follow me,” Zac said, extending a chain to keep the two invisible people connected.
+
+Zac kept as high a pace as he dared in such an unstable environment, maintaining a direction that would let them ambush the invaders just before they reached the twin peaks. As Esmeralda said, vast amounts of energy had pooled in the mountain range’s valley. Adding the dream-inducing rain from above, Zac had to maintain a constant watch not to be dragged into sleep. He even conjured his Warbringer Idol to stay alert.
+
+Unfortunately, his efforts were insufficient. His targets weren’t concerned about exposing themselves, and the umbrella of corruption let them bulldoze through the valley. Zac could only futilely watch them disappear around a bend while he was over ten minutes away. There was no sign of the invaders by the time they caught up.
+
+“The tracks just stop the moment they set foot on the mountain,” Esmeralda said with confusion. “I don’t sense any lingering spatial tunnel or dream realm.”
+
+“There’s a powerful dream further up,” Idiche’s voice came out of nowhere.
+
+Zac carefully advanced up a mountain path, ready to become the target of an ambush himself. He inspected every crack and gully for signs of hiding invaders. There was nothing, and they eventually found what Idiche sensed. It was as though the whole mountain was protected by something resembling a Town Protecting Array, one made out of pure Illusory Energy.
+
+There were no gaps, no unstable fluctuations to exploit. To ascend the mountain, they’d have to pass through the powerful illusion. Zac had encountered similar arrangements way back during the Eastern Trigram Hunt. A few of the palaces at the summits were protected by illusion barriers. Zac had overcome those barriers through grit and self-harm.
+
+That wasn’t an option today. It was becoming evident that the mountain was one of the island’s spiritual eyes, allowing it to freely draw on its vast repository of energies. Zac was almost certain this barrier wielded the strength to drag him under, just like when they arrived at the island. Even if he could protect his mind and break free, it would definitely take a while—during which he’d be completely exposed.
+
+After all, the Shrine of Kanba wasn’t able to protect Esmeralda from the dreams, and they didn’t have a B-grade cloak like Idiche. Zac felt exposed even when protected by Esmeralda’s spatial folding, and they immediately retreated after confirming the invaders weren’t hiding nearby.
+
+“They must have passed through. Let’s keep looking. Maybe there’s a weakness nearby,” Zac said.
+
+Two hours of sneaking around confirmed that the twin peaks were, without a doubt, a gathering point for the invaders. As their search expanded, they found traces of three separate parties that had already arrived. The earliest should have appeared over two hours before Zac’s group reached the basin. There might have been even earlier arrivals whose traces had already been washed away by the rain.
+
+“Look, another one.” Esmeralda pointed at a patch of moss ahead.
+
+“How did they get here so quickly? Are they completely immune to the formations?” Zac muttered as he walked over to get a better look. The patch had a small pool of rainwater perfectly shaped like a boot. “And just how many of them are gathering here?”
+
+“More importantly, how did they get through?” Idiche said, glaring at the looming mountain as if it owed her money.
+
+“You’re sure this dream of yours didn’t mention a way in? Perhaps another tunnel?” Zac asked helplessly.
+
+“I told you, no,” Idiche said with exasperation.
+
+Zac shrugged. He’d tried to extract more information from Idiche during their search without much success. The only thing she’d divulged was something cryptic about twins that didn’t seem connected to their current situation.
+
+“Then let’s keep looking,” Zac said, not expecting much. If the mountain provided easy access, Esmeralda would have sniffed it out long ago.
+
+The next three routes all led to the same dead end. Out of better options, they squeezed into a tight crack that leaked corruption, wading through a stream of bone-chilling rainwater in hopes of following the crevasse further up the mountain. Even deep in the crack, they were stopped by the large-scale barrier.
+
+“The Natural Formation is incredibly stable, and there is Temporal Energy to accelerate its recovery. Opening a safe passage will take more time than we have,” Esmeralda muttered, glancing at Zac. “We could keep looking; there might still be a proper route hidden somewhere. Except, if there is one, wouldn’t it be under observation? They certainly have manpower to spare.”
+
+Zac saw what Esmeralda was getting at. “It’s been two hours, and I’m getting a bad feeling. We either give up or force our way through. If we go through with this, then this spot is a good choice. Our actions won’t be noticed from the outside so long as we keep the fluctuations to a minimum.”
+
+“Go, we have to go!” Idiche insisted, echoing Zac’s own thoughts.
+
+Zac had a strong feeling that opting for safety would backfire. Something big was about to happen on the island, and the only way to stay safe was to stop the invaders from enacting their plot. Ignoring the call of Destiny and continuing toward the island’s center was also out of the question. They had spotted routes leading further inland, except they were shrouded in an opaque mist that filled Zac with a greater sense of foreboding than the mountain barrier.
+
+The formations until now had been annoying but safe, and it didn’t appear that would hold true going forward. The key Idiche mentioned had to be something that could open a safe passage to the lodge, which was why so many invaders were gathering at this spot. The longer they mucked about on the outside, the greater the risk that their enemies would seize the key and move on.
+
+More than six hours had already passed since the trial started. Between getting repeatedly turned around in the forest and spending hours looking for a way up the twin peak mountain, the invaders held a significant head start. Keeping Zac hidden was also a constant drain on Esmeralda’s reserves, and there had to be limits to Idiche’s cloak.
+
+Zac carefully studied the shimmering natural formation’s veil, considering various approaches to get through with his mind intact. Relying on his Dao Heart and [Soul Guardian] alone wouldn’t cut it. He couldn’t see exactly how thick the barrier was. In a place like the Mercurial Court, there was really no way of telling.
+
+The seemingly thin illusory film was high-grade enough that it could hide mile-wide spatial folds without even Esmeralda noticing. There was also a risk of being slowed down by temporal energies, and there could be illusions within the illusions that left him walking in circles.
+
+There was an obvious answer to the problem, but a returning thought stopped Zac just as he was about to ask Esmeralda to return to the shrine. Did he really have to unleash [Void Zone] to pass through? If there really was no passage, how did the invaders enter? Zac thoughtfully looked down at the stream of rainwater that reached his knees.
+
+Even at such density, the water barely managed to prevent the mountain’s vast reserves of corruption from seeping out. The pressure was so relentless that they could wade through the water without any problem. All the water’s spirituality was used up to combat the Lost Plane from encroaching on its territory.
+
+With a new plan in place, Zac took out a Late D-grade Corrupted Crystal. Esmeralda’s face scrunched up in disgust. She realized what Zac was about to do and wanted no part of it. She quickly went back into the Shrine of Kanba and sealed it shut.
+
+“I’m not sure one or two crystals will do the trick,” Idiche cautioned. “I think you’re right that the invaders used the profane energy to open a passage, but they’d probably have a proper method to harness it.”
+
+“I know. I don’t expect it to take us all the way. It’s just that I don’t have a single method strong enough to take us through. We have to hit this thing from every angle,” Zac explained. “Do you have any ideas? Can you absorb or push away some of the energies?”
+
+“I can dispatch some of it to the dream realm,” Idiche said after some thought. “Except, there’s so much energy stockpiled that it’ll get replenished in no time.”
+
+“A second or two is enough,” Zac said as he wound a chain around Idiche’s waist. “You open the path, and I’ll crush a few of these things.”
+
+“And if that doesn’t work?” Idiche asked.
+
+“I have an ace ready. If it doesn’t get us through, it’ll at least get us back here,” Zac assured. “Of course, you can stay out here while I check things out.”
+
+“No,” Idiche rejected without hesitation. “I need to do this. If all you’ve said is true, how can I back down now? If you’re willing to fight to protect the Mercurial Court, then so will I.”
+
+“Good. Just be careful,” Zac said, waving the Corruption Crystal in his hands. “This is the first time you’ll truly be exposed to this energy. Keep your mind guarded and remember that the whispers are lying. It’ll pass after we’ve made it through.”
+
+Zac didn’t ask Esmeralda to help out, despite breaking through restrictions being her specialty. She was responsible for support, whether that was hiding the fluctuations or bringing them away in a desperate escape.
+
+When everything was prepared, Idiche blew on her hands at the shimmering barrier. A starry river was formed by her breath, upon which there were hundreds of small gondolas. Zac found his mind being drawn in when looking at one. It was as though it held a whole world and boundless mysteries, and it wasn’t just Zac that was affected.
+
+Incredible amounts of ambient energy were attracted by the boats. One by one, the gondolas were filled with a new cargo, at which point they sped down the river and turned into dots. That was their cue. He and Idiche rushed into the weakened barrier, and Zac crushed two crystals in one go. Terrifying levels of madness came rushing out, far surpassing the density in any corrupted zone he’d visited.
+
+The eruption was much like the meeting between Void and Dao. The rain was tailor-made to counter the Lost Plane’s spread, and the barrier fiercely targeted the invasion. In such a war, not even innocent bystanders were safe. Zac’s mind was tearing apart from being assaulted by both madness and invasive dreams.
+
+Zac furiously kept a lid on the growing madness, dragging a shell-shocked Idiche along when she started to lag. He even crushed two more crystals to buy some time while trying to find any signs of the other side. He didn’t want to burn his Void Energy before they reached the final stretch, but he soon had no choice.
+
+The clash was growing unbearable. Zac was fast approaching his limits, and Idiche was already in a comatose state. Crushing another set of crystals wouldn’t do him any good; it would only worsen their situation. Zac could only pray they’d covered enough ground as he activated [Void Zone], ushering in a blessed stillness.
+
+Both sides were suppressed by the Void’s impartial treatment, but Zac had failed to notice that the dimensional fabric was so fraught from the battle that adding Void Energy pushed it over the edge. Zac only had time to yelp in fright before he was swallowed by a crack in reality and found himself surrounded by countless disparate scenes.
+
+It initially looked like he’d appeared in the dimension of a thousand windows. However, the scene only somewhat resembled the place he and Ogras briefly visited after Dipper Seven. The countless realities around Zac extended into a fourth dimension, soon looking more like endless strings than gates.
+
+Zac wasn’t given the chance to do anything. He only had time to realize there was no sign of Idiche before he fused with the countless strings, and they became one. The eerie dimension popped like a soap bubble, and the flickering lights gave way to dry, baking heat. The rain that had kept Zac drenched like a rat for the past hours immediately evaporated.
+
+Replacing it was an oily patina of corruption. Confused and leery, Zac looked around, realizing he was back in the crevasse—or at least a version of it. He felt as though he was standing in a furnace from all the trapped heat. He couldn’t figure out if it was real or an illusion, but the heat was so unbearable Zac was forced to climb to the surface. There, a completely different scene awaited.
+
+The twin peaks were gone, replaced by a resplendent castle. It was covered in runes that made Zac’s head spin, and powerful magic circles slowly rotated above. Looking around, the whole mountain range had been terraformed, turned into a vast array that supported the central castle. And that was only the beginning.
+
+The further Zac looked, the more alarmed he became. There was no rain or illusory haze to block his vision in this reality. From his vantage point halfway up a mountain range, Zac saw a completely terraformed island. Save for a few reservoirs of carefully stored illusory rain, the whole island was a large desert. There were two more castles far in the distance, most likely even more blocked from his view.
+
+All of them were drawing in the Lost Era’s Dead Dao, which was everywhere. It had become entwined with the world’s Cosmic Energy, giving it a sinister tint. Had the whole world fused with the Lost Plane? Zac couldn’t explain such complete infiltration otherwise. Even the Ra’Lashar Goblins didn’t see their kingdom so tainted until they lost their war.
+
+Seeing corruption permeate everything made the solemn atmosphere seem out of place. The castles didn’t emit a foul, sinister air. They looked no different than any other structures of the Limitless Empire. Zac could even sense the Imperial Faith gathered in the magic circles. They had bent the Lost Plane’s corruption to their will, just as they did with the Foreign Gods.
+
+Or was that just what they believed?
+
+Zac glanced toward the island’s center, itching to catch a glimpse of what waited there. He could feel a vast presence from that direction, like a towering giant sealed in place. Another mountain blocked his view, but if he flew up and—Zac caught himself before disaster struck. After warning Idiche, he’d almost fallen for the Lost Plane’s urgings.
+
+It was as though a spell had broken after he resisted the impulse. A tremendous rejection pushed Zac back toward the crevasse, which now looked like a black swirl. Zac urgently went with the flow despite the ominous scene. He wasn’t sure if he’d truly gone to the other side or just caught a glimpse through the illusion, but he knew that staying was incredibly dangerous.
+
+Zac dove into the impenetrable darkness and immediately found himself back on the damp mountain he recognized. Idiche was still there, still attached to him. Not wasting time on questions, Zac resumed his rush through the barrier, which seemed somewhat weakened after his experience. Still, Zac couldn’t tell whether seconds or minutes passed before the commotion around him stopped.
+
+They had passed the barrier and reached the end of the crack, yet Zac briefly wondered if it was all a trick as he looked up. The slick stones and lingering moisture indicated it had rained until recently, yet the sky was clear. Above, the churning clouds had been replaced by a powerful magic circle emanating Imperial Faith.

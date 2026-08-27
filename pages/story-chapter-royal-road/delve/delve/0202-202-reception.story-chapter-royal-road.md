@@ -1,0 +1,239 @@
+---
+id: 24a39ef1-8912-5b76-a7db-a94e5add4089
+page-type-slug: story-chapter-royal-road
+title: "202: Reception"
+slug: 0202-202-reception
+partOf: delve
+position: 202
+ownLength: 4490
+unit: words
+publishedAt: 2022-08-21
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/976197/202-reception"
+royalRoadId: "976197"
+---
+
+The crunch of splintering wood filled the air as the iron rowboat jerked, grinding against one of the docks that jutted into the Barstone harbor. Rain, standing at the bow and balancing the craft with his legs, stared at the broken remains of his oar. “Oops.”
+
+“Brace!” Carten yelled.
+
+Tossing aside the ruined oar, Rain did just that, gripping the gunwale as they slammed into the dock with another crunch. Their stern began to pivot away, and he hurriedly released his grip to grasp the dock instead. Wood creaked as he did his awakened best to stop them from smashing into the dilapidated fishing boat that was the only other occupant of their chosen pier.
+
+“This is why I told you to slow down,” Jamus observed.
+
+“We had more momentum than I thought, okay?” Rain said, twisting powerfully to bring the keel back around. Atomically pure iron was up there as one of the worst choices for an ocean-going vessel, but it was what they had. It just needed to last a few days. Aluminum or stainless steel would have been far better, but the latter was harder for the exhausted Tallheart to shape, and the former was still a secret. “Someone tie us up, please.”
+
+Rain looked over his shoulder, seeing that Jamus was already ahead of him. The orange-robed Mage floated lightly through the air in casual disregard of gravity, landing silently as one of Carten’s shields crashed down beside him on the dock with considerably more noise. Jamus knelt, finding a rope and tossing the end to Carten, who missed it, busy lobbing his second shield. He grabbed it up quickly, though, then hauled on it with such enthusiasm that he almost tugged Jamus off his feet.
+
+There was another crunch as the boat slammed hard into the dock.
+
+That’s it. I want off this ride.
+
+Eying the dock, he jumped.
+
+“Oi!” Carten yelled, losing his grip on the rope and windmilling his arms as the boat rolled beneath him.
+
+“Sorry,” Rain said, landing lightly—relatively—beside Jamus. The wooden pier was a floating affair, anchored in place by wooden piles sunk into the sea floor on either side. It juddered against its restraints as his armored boots made contact. Carten, meanwhile, had managed not to fall in. He was, however, now drifting away. As Rain turned to watch, the big man tore an oar from its oarlock and jabbed the blade urgently at Jamus.
+
+“Grab on!”
+
+“And let you pull me in after you?” Jamus said, looking at the oar dispassionately. “I think not.”
+
+“Stop screwing around,” Rain said, grabbing the blade of the wooden paddle with one hand and gently tugging to bring Carten back toward them. “How did I get stuck with you two, anyway?”
+
+“Don’t blame me for Carten’s antics,” Jamus said. “And stuck with us?” He pressed a hand to his chest. “I’m hurt. As if we’d let you go alone.”
+
+“Yeah!” Carten agreed heartily, scratching at his beard. “An’ yer the one who voted for democracy, so no complaints!”
+
+Rain sighed. “You know I didn’t mean it like that, and you also know democracy had very little to do with who got to come.” He closed his mouth before he could say anything he shouldn’t. About anyone he shouldn’t, even if not by name.
+
+Ameliah could have just Airwalked us over here, but no. Stupid Velika.
+
+With a grimace, Rain left Jamus and Carten to finish tying up the boat and turned to survey the city. The Stonewash was too broad to be practically bridged without blocking shipping, so the city had been built entirely on the north bank. Mlem had passed through here years and years ago, and true to what he’d said, Barstone was massive compared to Vestvall and Fel Sadanis. Even Three Cliffs, with its impressive vertical construction, couldn’t compare to the bustling sprawl of the DKE city. The waterfront was busy, despite them having rowed past most of the fishing fleet. Several people who’d been occupied processing fish and mending nets had stopped their work to stare. Behind the watchers was a disorderly sprawl of wooden buildings—shacks, really—mixed with storage sheds far too small to be called warehouses. The houses grew steadily nicer and taller until they reached the wall that hid the inner city from view.
+
+Looking past Carten and Jamus, currently arguing about the proper way to tie a knot, Rain searched for Temerity, spotting it on the horizon without even needing to lean on his Perception accolade. It wasn’t exactly easy to miss. With Bakal’s powerful Water Manipulation skills and some judicious application of Refrigerate, the highly-conspicuous metal ship had become an only-slightly-less-conspicuous iceberg. With the ship’s two mysterious gemstones blocking Divination magic, the disguise even had a chance of holding up to scrutiny—at least of the casual variety.
+
+It sucks that the ice adds so much drag. Once Bakal’s over his migraine, we should try streamlining it into a proper shell. Make it into a more long-term solution.
+
+Rain sighed, turning again to stare at the colossal, golden vessel anchored at the mouth of the river.
+
+If we get to ‘long-term’.
+
+Even from this distance, he could tell the Goldship was at least as big as Temerity. It towered over the merchant vessels around it, its top deck rising above even the masts of all but the largest of them. Where Temerity was sharp and angular, the Bank vessel was all inswept curves and graceful lines, its golden hull polished to a mirror finish. It was like something modern-era elves might have built, not that anyone in this world besides Rain and his book club would have appreciated the comparison.
+
+He shifted his attention further. Intimidating and eye-catching as it was, the Goldship wasn’t the only reason they’d chosen to dock way up here. Near the massive lighthouse that marked the northern tip of the mountains, several DKE vessels floated. The largest was a frigate, almost as large as the Goldship, its three main sails each emblazoned with the crescent-moon emblem of Citizen Barstone. The other ships were smaller, brigs and cutters—‘frigate,’ ‘brig,’ and ‘cutter’ simply being words Rain had chosen. Translated directly from common, it would have been ‘three-mast-ship,’ ‘two-mast-ship,’ and ‘one-mast-ship,’ respectively.
+
+Rain shook his head slowly at the blandness of the language, then looked back toward their own vessel. He’d left a Detection anchor on board, and their hardness seemed to help them survive being around metal, provided that they weren’t in direct contact with it. Through the anchor, he was keeping constant track of the happenings aboard, and thus knew Velika hadn’t yet snapped and started killing people. Likewise, he knew that no one had yet sailed out to ask the iceberg calf what it was doing so far from home without its mommy.
+
+Is nobody curious? Like, at all? Did they really not see us coming around the mountains from that lighthouse of theirs?
+
+“There,” Carten said, clapping his hands. “How’s that fer a knot?”
+
+Rain shook himself, then returned his attention to his companions, seeing Carten standing in the boat proudly over what was less a knot and more a...snarl with attitude.
+
+“Nice work, Carten,” Jamus said, rubbing at his chin as he bent down to inspect it closer. “The sea birds will be right at home.”
+
+“Like ta see you do better,” Carten muttered, extending a hand to Rain and beckoning with his fingers. “Help me up.”
+
+“None of us have any business being on the water,” Rain said, grabbing Carten’s forearm and hauling him up. “We should all have our boating licenses revoked.”
+
+“I think I did just fine, thank you,” Jamus said, straightening his hat.
+
+“Fine job sittin’,” Carten countered as he bent to retrieve his shields. “Try rowin’ next time, noodle-arms.”
+
+Tuning out the friendly bickering, Rain glanced at the holotank at the top right of his interface. There were two spheres there instead of one, split to avoid the nausea that came with Detection now having multiple points of origin. From the number of dots on the local sphere, easily countable with a thought, the crowd around the end of the dock was growing. The signals were moving a bit jerkily thanks to his limited refresh rate at the moment, but that was fine for his purposes. He had a complicated series of macros running, filling a single slot with variously-configured pulses of Detection, along with all of his Wards, leaving the other slot free for emergencies. Fortunately, the DKE was lax compared to the Watch when it came to skill use in their cities, affording him the freedom to humor his paranoia. If they were attacked, he’d be ready.
+
+“Come on,” he said, sparing one last glance at the Goldship before settling his cloak around his shoulders and starting toward the shore. The fact that people didn’t immediately run at his motion was a good sign, but he couldn’t help but feel his heart twist seeing the fear and wariness in their eyes. The flipside of his freedom to use spells in the city was the unhappy thought of just how few protections the unawakened here had.
+
+Clenching his jaw, Rain stopped that line of thought before he got himself in even more of a mood, pushing his will instead toward a new function he’d written.
+
+tx.shtarget: anchor_rad_t01_0000message: “Made landfall. Going to speak with locals.”baud: 0.5 ch/sTransmitting...0%
+
+There was a minuscule draw on his mana as Radiance activated in time with the dialog, sending the spell through the second of the three anchors he’d left on Temerity. The script began by sending a quick startup pattern, followed by a delay, then sets of short and long flashes. Most of their radio equipment had been lost in the battle, but the pulse code they’d developed had survived, safely lodged in people’s heads by Winter.
+
+Leaving the script to it, Rain climbed the gently sloping wooden plank that connected the dock to the seawall. His boots clicked on the cobbled path as he stepped down, and he paused, looking around at the onlookers. Some shied back, but none of their expressions seemed overly alarmed, merely cautious.
+
+Good.
+
+Smiling and trying to push some of that joviality into his voice, he jerked a thumb over his shoulder. “Howdy, folks. Anyone know whose dock this is?”
+
+People looked at each other uncertainly for a moment, but then an older, leather-faced man in a vest set down the net he’d been working on and stepped forward. “It’s the Citizen’s dock, Silverlord,” he said gruffly, gesturing behind him. “Same as all Northshore. You must be new.”
+
+“Ah,” Rain said, having half expected something like that. Private property had been a thing in Fel Sadanis and Vestvall, even for the poorest of the poor, but not here, it seemed. He glanced down at the Guild plate hanging from his neck, his Watch plate being tucked safely away for the moment, then looked back up, deciding not to make an issue of the title. “Okay, the Citizen owns the dock. Who runs it, then? Is anyone going to be mad when they find us tied up in their spot? Is there, like, a docking fee or something? Also, we kinda...crashed into it a bit, so we’d like to cover the damages.”
+
+“We would?” Carten asked, followed by a hiss to shut up from Jamus.
+
+“No fee for Guilders,” said the leather-faced man, spitting off to the side. “Prefer you just moved yourselves along. Ain’t nobody gonna touch your boat, nor ask what you’re about. We’re honest fishers, not honest fools.”
+
+Rain’s reply was interrupted by Ameliah’s voice in his head. [Acknowledged. Things are stable here for the moment. Be safe, and remember, no upsetting the social order until after supper. Oh, who am I kidding? I bet you’re already handing out GranTel.]
+
+The corner of Rain’s eye twitched. He glanced at his still open transmission window, seeing that his message had finished sending, then returned his attention to the old man. He smiled again, as before, doing his best to shove the expression through his faceplate. “How about a little information, then? Is there, like, a tavern or something? Some place we can catch up on the news?”
+
+The old man snorted out a laugh. “A tavern? A Silverlord who wants to drink with the likes of us?” He turned away, waving a hand in dismissal. “That’s it. I want no part of this jape.”
+
+“I can take you!” came a tiny voice, and a scrawny figure darted out from the crowd. “Jer’s is the best drinking hole in all Northshore!”
+
+Rain blinked, staring down at the smudged face of a kid wearing—he could scarcely believe the cliché—a tattered burlap sack. It looked like...she, he decided...had torn holes for her head and arms, then belted it around her waist with a scrap of rope.
+
+The girl grinned at him under his scrutiny, then thumbed the center of her chest. “Come on! Nicket’ll show you the way!”
+
+Rain simply stared. She couldn’t have been more than ten years old. She didn’t even have anything on her feet other than thinly wrapped rags, and her short, uneven hair looked like it had been hacked to its current length with nothing but a sharpened stone.
+
+The girl—Nicket—seemed to mistake his attention for suspicion. “I ain’t trying to rob your pants off you or nothing!” She beckoned again, not a trace of fear in her eyes. “Come on!”
+
+“Get away from them, you filthy orphan!” a woman shouted from the crowd in a venomous voice. “Don’t you be bringing trouble down on honest folks!”
+
+Nicket’s expression tightened, but she ignored the woman. “Come on! Please? I bet you have all kinds of stories!”
+
+Rain shared a glance with Jamus and Carten. After a pair of shrugs and a long moment of consideration, he returned his attention to the little girl. “Okay?”
+
+Nicket whooped. “Oh, Jer is gonna see lizards when you lot walk in!” She scampered off, her cloth-wrapped feet flying as she darted for a gap between two of the buildings, dodging the woman who’d yelled at her before with ease as she tried to grab her.
+
+“Lizards?” Carten asked.
+
+“Are you sure about this?” Jamus whispered as Rain moved to follow. “I doubt this ‘Jer’ person will be any gladder to see us than these people are.”
+
+“I’m not sure about anything,” Rain whispered back, his voice tight. As he passed, he glanced at the rude woman, forcibly reminding himself to not judge too harshly. “Don’t worry, miss. We’re not looking to cause any trouble. We’re the good kind of adventurers.”
+
+The woman shrunk away, averting her eyes, but Rain got a shouted response from the leather-faced man, who’d gone back to mending his net. “Ain’t no good kind!”
+
+“Hey, Jamus?” Carten asked, speaking in a voice clearly meant to carry. “Didn’t that guy jus’ get finished sayin’ they weren’t stupid? Why’s he tryin’ ta pick a fight?”
+
+“Enough, Carten,” Jamus said sharply as they entered the alley. “Look at Rain.”
+
+Grinding his teeth, Rain continued following after Nicket, composing another update for Ameliah to distract himself from the sudden anger burning in his heart. It didn’t really work. He was tired. Beyond tired. “I’ll fix it,” he muttered. “I have to fix it.”
+
+“What was that, Rain?” Jamus asked.
+
+“Nothing,” Rain replied, correcting himself. WE’LL fix it. Fix this stupid world. One starfish at a time if we have to.
+
+Forty minutes later, Rain was feeling...not precisely better, but at least more composed. It turned out that Jer was a pretty-okay dude. Better than that, actually. His tavern—though calling it that was a stretch—was just as shoddy as the rest of its surroundings, and Carten had determined the beer to be even worse. None of that mattered. What mattered was that Jer looked out for Nicket and the other kids like her. He set aside scraps for them, most days, or even full meals when he could spare them. In return, they ran small errands for him and brought him whatever new customers they could find. It wasn’t exactly charity, but it was something. People helping others as best they could. The way things should be.
+
+True to Jamus’s prediction, Jer hadn’t been too happy with the particular customers Nicket had brought this time, but he’d gotten over it quickly when Rain had started dumping copper on the counter. Not where anyone else could see, mind, lest anyone get any ideas about robbing the place. Still, it was enough to ensure that neither Nicket nor her friends would be worrying about an empty stomach for a while, delivered with a promise that he would be checking back. It was a promise he hoped he’d be able to keep.
+
+Now slightly better armed with information about the city, Rain’s party was making its way toward Riverside, which was what the locals called the commercial shipping district south of them. Their true aim was Hightown, as the city’s large central district was called. The trouble was that there was no way to get there from Northshore directly, short of climbing the wall. Like Fel Sadanis as a whole, Hightown was closed to those without proper papers, be they locals or foreigners. Also like Fel Sadanis, their Guild plates would theoretically get them in.
+
+Besides the teleport platform, which was in the Bank complex further up the river, everything Rain was interested in at the moment was in Hightown. That included the Citizen’s palace in the center, the Guild branch beside the city’s delving to the west, and the small Watch outpost on the north side. Which of those they’d visit first depended very much on their reception at the gate. Neither Jer nor Nicket had rubbed elbows with the Citizen personally, of course, so they hadn’t been able to tell them much about his temperament. They hadn’t even known much about the conflict with the Empire beyond that it was happening.
+
+Now they did. Rain had made sure of it. They deserved to know what was coming.
+
+In any event, Ascension would be going into Hightown blinder than they would have preferred, but they couldn’t just hang around gathering information forever. While there’d still been no motion from either the DKE frigate or the Goldship, that wouldn’t last, and there were other factors to consider. Velika’s patience for one, what the Empire would do next for a second, but also, more simply, how long their provisions would last. Water, they could deal with, but the food they’d been so careful to secure for their journey had been mostly stowed on the decks where Halgrave had fought the Incarn. Breakfast this morning had been a sad affair. The situation wasn’t life or death or anything, but the clock was ticking.
+
+“Would you look at that...” Jamus said, stopping with a note of wonder in his voice.
+
+Rain looked up from his musing, halting as well to follow Jamus’s gaze. The road they were on had been growing busier with traffic for a while, but now they seemed to have crossed an invisible line, passing into the harbor proper. Ahead of them on the left, right at the harbor’s mouth, was a particularly large warehouse, painted white and gold. From it, a vehicle of some sort had emerged. It was a fancy horse-carriage-type thing, painted in the same ostentatious colors as the warehouse and with a team of majestic horses to match. The carriage would have been striking enough on its own, but there was also the minor detail that it was floating.
+
+As Rain watched, the driver sitting on the bench at the front snapped the reins. The horses began to walk, towing the fancy hovering vehicle behind them.
+
+“Well,” Carten said after a long moment. “That’s a new one.”
+
+“Mmm,” Rain said. “Hovercart.”
+
+“Is that the real name for it, or did you just make that up?” Jamus asked.
+
+“It’s the real name,” Rain replied, starting to walk again. “Or a name, at least. Ameliah mentioned them when I was telling her about...” he stopped himself, having been about to use the English word cars. There was a good chance someone was listening to them right now, so he coughed to cover his lapse as he continued. “Anyway, she says you see them in big cities, sometimes. They’re supposed to chew through Arcane Crysts like you wouldn’t believe. Whoever’s in there has more money than they know what to do with.”
+
+“Banker, maybe?” Jamus asked. “Given where the Goldship is anchored, that warehouse is probably theirs.”
+
+Rain shrugged, looking both ways before stepping out onto the road paralleling the river and turning west. The traffic had reached the point that they’d need to watch out or be run over, though perhaps not. As he led them along the wide street, a pocket seemed to form around them all on its own. Feeling bad, Rain nudged them further over to the side to avoid a stout-armed fellow hauling a cart of heavy-looking bricks.
+
+“Lot’s of folks ‘ere,” Carten said, his head wobbling around as if it was on a swivel. “Lots an’ lots.”
+
+“You are not wrong, Carten,” Jamus agreed, speaking slowly. “You are not wrong. It’s like a festival day, except with more...stench.”
+
+Rain smiled. Oh, what I’d give to show these two what real foot traffic looks like. Plop them down in Tokyo or New York at rush hour or something. It would break them. Though... I probably shouldn’t talk shit until I’ve seen the City of Lights or Ter’Karmark.
+
+He blinked, his musing interrupted by a blue-lacquered cart trundling after its owner all on its own.
+
+“Journey Cart,” Jamus said, pointing at the object in question.
+
+Rain, starting to feel a bit uneasy, reached over and gently pushed Jamus’s arm down. “Don’t point. It makes you look like a yokel.”
+
+“How many people live here, do you think?” Jamus asked, unbothered. “Do you think they’ve ever counted?”
+
+Rain just shook his head, then increased his pace. He’d never particularly liked crowds, and this one... There seemed to be a weight to the sea of people around him. Either all of the unawakened were adding together and triggering his soul perception somehow, or there was someone strong around, watching from a distance.
+
+Or it’s all in my head.
+
+He increased his pace further, making the others struggle to keep up as the street grew busier still. Warehouses became less common, replaced by inns, taverns, shops, and endless lines of merchants selling diverse goods out of carts. Still towing his increasingly bug-eyed friends behind him, Rain plowed on through the press, no longer quite so upset about people stepping quickly to get out of their way. The gate, when they found it, was less busy than the market it adjoined, but there were still a good number of people lined up waiting to get in.
+
+Rain stopped, breathing evenly to calm himself as he counted the guards, or constables as Jer had called them. There were twelve of them, distinguishable by their matching leather caps and uniforms. Those were quilted jacket affairs, though not quite as bulky as proper gambesons, dyed DKE green and with Citizen Barstone’s crescent moon embroidered on the backs.
+
+“What now, Rain?” Jamus asked in a low voice.
+
+“I guess we get in line,” Rain said softly. “Remember, leave the talking to me.”
+
+“So you’ve told us,” Jamus said. “We aren’t going to give anything away. Stop worrying so much.”
+
+“Might as well tell the sun ta’ stop shinin’,” Carten said loudly, laughing while a donkey cart rumbled to a stop behind them. At his outburst, the donkey brayed out a tired ‘haaw.’
+
+“Shh,” Rain hissed—at Carten, not the donkey—seeing one of the constables breaking from the gate and jogging toward them.
+
+“You, there!”
+
+“Ah, shit,” Carten muttered.
+
+“Yes, shit,” Rain agreed. “Looks like they were on the lookout for us, after all.”
+
+Stepping out of line, he moved to meet the oncoming constable, raising one finger as he prepared to recite his rehearsed statement. The shorter man, though, didn’t stop. He marched right up to Rain, grabbing him by the shoulder and pulling him roughly forward. Rain was so shocked that he actually allowed himself to be moved, more focused on stopping himself from frying the constable out of his boots. Jamus reacted strongly too, though the constable either didn’t notice the Mage’s raised hands or simply didn’t care.
+
+“Stop blocking the line!” the man shouted in Rain’s face, proving it to be the second as he stepped past him to likewise shove Jamus toward the gate. “Adventurers don’t need their goods checked, you idiots.”
+
+“I, uh—” Rain said, turning, still caught on the wrong foot. He found his eyes drawn involuntarily to the man’s mustache, which reminded him of nothing more than an inverted Reese’s peanut butter cup. “Sorry? Don’t you want to verify my Guild number, or—”
+
+“Move, you armor-plated pillar!” the constable said, giving him another hard shove, and when Rain didn’t so much as budge this time, he spun away in frustration. “Fine, stand there all day if you want, so long as you don’t block the way.” He pointed sharply. “You there, with the donkey, what’s in the cart?”
+
+Stunned and with his single finger still raised, Rain stared, looking from Jamus, to Carten, then back to the constable, who was busy accepting a hurriedly-offered sheaf of papers from the donkey cart’s owner. Retracting his finger at last, Rain let his hand fall, then took a hesitant step toward the gate, then began walking with more certainty as another of the constables—a stout woman with red hair—waved him on.
+
+As he neared, she gave him an apologetic smile. “Sorry about our lieutenant. He’s had a busy day. Week, really.”
+
+“He’s gonna get himself killed,” one of the other constables said, crossing his arms.
+
+“So?” said a third. “I could do with an afternoon off.”
+
+“Quiet,” snapped the female constable, shaking her head at the speaker, then fixing Rain with a slightly forced smile. “Welcome to Barstone, travelers.” She swept her arm toward the tunnel through the wall invitingly. “Please have a peaceful stay.”
+
+And then, before Rain had wholly come to terms with what had just happened, they were through. He found himself in a wide-open square, paved with neatly-squared stone and with a wide fountain in the center, featuring some god or other spewing shimmering water from his hands. The wooden buildings surrounding the square were white-washed and spotless, their painted shutters and awnings lending them an almost modern air. One of them was clearly a restaurant, the scent of spiced meat tickling Rain’s nostrils with diners sitting at tables outside.
+
+Huh.
+
+“Soooo,” Carten said, drawing the word out and letting the bottoms of his shields clang to cleanly-swept stones. “I think tha’ went pretty well. Say, anyone else hungry? No? Just me?”

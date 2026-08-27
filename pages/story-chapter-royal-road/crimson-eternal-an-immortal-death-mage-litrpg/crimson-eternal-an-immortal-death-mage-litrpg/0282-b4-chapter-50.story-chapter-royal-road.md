@@ -1,0 +1,151 @@
+---
+id: 54fa09de-bf59-5c98-b696-d2211c41dd6c
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 50"
+slug: 0282-b4-chapter-50
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 282
+ownLength: 1474
+unit: words
+ownProgress: 1474
+publishedAt: 2025-05-31
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2320030/b4-chapter-50"
+royalRoadId: "2320030"
+markedReadAt: "2026-06-29T19:15:23.518Z"
+---
+
+Aria
+
+“You? Have kids?” the previous café owner’s grandson who I had babysat at least once while reading a book and mostly ignoring him asks as I sit in my old seat at the corner of the café. Albeit with two little kids still sleeping in my arms. “You? The same-”
+
+“Yeah, yeah, I’ve heard this spiel too many times already,” I cut him off with a slight roll of my eyes.
+
+Just how many times am I going to see this reaction anyways? It’s gotten old.
+
+“How’s your grandpa?” I ask while shifting the kids a little to get a bit more comfortable. Only for Ryan to begin waking up, followed soon after by Ruby.
+
+Oops. Guess I woke them with that.
+
+“He’s doin’ fine,” the boy whose name I cannot remember for the endless life of me answers, “he passed the café down to me just a few years ago and retired.”
+
+Huh. Jason actually retired?
+
+Unexpected.
+
+“And what about his grandpa?” I ask about Luke. The original owner of the café back when I was originally on Vortel. “Did he ever…”
+
+The boy smiles as he holds a pen and paper and answers, “Yeah, he surprisingly reached level 100 while on his deathbed. You should’ve seen Mom and Dad’s face when he suddenly started reverting in age again while everyone was thinking he was about to die!”
+
+That has me snorting in amusement. Since it sounds just like something that old man would do.
+
+Wait a second.
+
+“How would you have seen it?” I ask while tilting my head. “Were you even born yet?”
+
+He awkwardly looks away while muttering something about a recording his great-great-grandfather took of the events.
+
+A recording I’m sure his parents are none-too-pleased about.
+
+Assuming they even know about it.
+
+“Mom… where are we?” Ryan asks, bringing my gaze towards him to find the boy rubbing his eyes.
+
+I answer with a smile, “You remember that café I told you about a little while ago? We’re there right now.”
+
+“Ca…fé?” he mutters, sounding more than a little confused. “What… café?”
+
+That question stumps me a little, leaving me confused in return.
+
+I swear I told them about it…
+
+“Mom, you told us about this place when we were four…” Ruby mutters, sounding slightly exasperated. “Six years isn’t a ‘little while ago’.”
+
+Now that stumps me even more.
+
+“It’s not?” I ask with a frown and a slight tilt of my head.
+
+“No, it’s not,” Ruby says with a firm nod of her head before closing her eyes and resting her cheek on my chest.
+
+“Huh…” I mutter while staring at her. Then I raise my head to look at the boy still standing there with pen and paper in hand who is obviously trying to hold back his laughter.
+
+Rude kid. I should talk to his great-great-grandfather about him.
+
+I purse my lips, only briefly glancing at the kids as Ryan falls asleep again. Clearly giving up on trying to understand what’s happening.
+
+Then I glance back at the kid with the note pad again.
+
+Eh, whatever. That’s too much work.
+
+“I’ll take my usual,” I state while pulling out my ebook reader. “I’m guessing you have that somewhere written down?”
+
+“Yep,” he answers with a nod before walking over towards the counter. “Great-great-grandpa always insists on keeping it here for whenever you visit. So that no matter who owns the shop at the time they will always know what your usual is.”
+
+“That’s good,” I say with a smile on my face.
+
+I just hope my usual never changes.
+
+Once he brings my usual out to me and I take a sip though, my smile grows wider.
+
+Right. My usual will never be changing.
+
+AriaA Port on the edge of the Continent
+
+I stand with my arms crossed as I look out at the vast array of oceanic ships in front of me, along with my own fleet of space-faring ships floating in the skies above them. All of which are filled with soldiers and my own mercenaries.
+
+Everything’s ready.
+
+It’s time to begin.
+
+I step up to the rather large podium while wearing a rather fancy-looking set of armor that’s a mixture between a military uniform, formal attire, and high tech combat armor. With a large focus on my usual red and crimson color scheme. And when I reach the edge of the large podium standing high in the sky above the port, all noise comes to a sudden halt in the area. As all eyes are attracted to me.
+
+To the Horseman of the Apocalypse.
+
+To Death.
+
+“Welcome, everyone, to the very first war that I will be personally leading you in,” I declare, using death magic to amplify my voice and send it out to everyone here. Albeit with a major focus on my own mercenaries, as that’s who dominates this particular location the most since it’s an attack led by myself. “Up till now, I have always left the company to its own devices. Always let you grow at your own pace and watched from the sidelines.” Or more like ignored from the sidelines, but I won’t mention that. “But today is different. Today we face off against threats to my original homeworld. The world I was raised in back when I was a kid fighting in this world’s own wars.”
+
+I blink at the reaction that last comment gets. Which is actually a bit of surprise from the people.
+
+Then I realize most of my background was never really publicly released. So most people don’t know I was a child soldier.
+
+Not that it really matters either way.
+
+“Today I lead you in our first multi-planetary war,” I declare before spreading both of my arms out to my sides and clenching my fists. And in the process, opening thousands upon thousands of rifts all throughout the area. Both in the water and outside of it. “We will tear apart the enemy and return peace to this lovely world! All while earning our pay!”
+
+All of my soldiers visibly tense up as Death Spirits of multiple different types come out of the rifts I made. Whether they crawl out of them, walk out of them, jump out, or even run out of them. They all terrify my soldiers at first.
+
+Until they begin to line up and my soldiers finally cement it in their minds that they’re my forces.
+
+Then they all quickly grow excited.
+
+“It is time for us to finally make our mark!” I continue speaking, not shouting mostly because I don’t care anywhere near as much about this or the company as Little Blue does. I’m mostly just repeating what she told me to repeat. “To show the universe that the Pale Mercenaries are more than just my lackeys in the universe! More than just Death’s pawns!” I raise a fist into the air as everyone grows more excited. “It’s time to show everyone just what the Pale Mercenaries are made of! And to erase any doubt as to our power!”
+
+At this point everyone’s cheering. And I can’t help but grin a little at it for some reason.
+
+I open my fist into a claw position before shooting out a wave of miasma into the air that then explodes as I raise my voice a little, “We march to war!”
+
+After my little miasmic firework, officers all around the army fire out their own attacks into the air to set off more magical fireworks and raise the motivation of the mercenaries even more.
+
+Meanwhile the precious few Albarian soldiers here that aren’t from my mercenary company just look shocked. But I don’t really blame them.
+
+Not when they’re surrounded by a bunch of people a couple hundred levels above them who are all shouting and cheering while shooting up magic into the sky. And are faced with a Horseman of the Apocalypse leader at that.
+
+I just grin at the soldiers as they express their excitement.
+
+This war may not be so boring after all.
+
+And the kids are both safe and sound in my ship. A place that no one would ever bother them in without directly declaring war on me. Which would in turn also declare war on multiple Grands.
+
+I know the Crimson Empire would go to war if any nation attacked me. And the Rex Dynasty obviously would as well since they’d see it as heretical. No matter how awkward and embarrassing that is for me.
+
+The Grand Silvanian Empire might make a fuss as well. Not absolutely sure about them though.
+
+But regardless, the twins are safe. And they have a tutor preparing them for school while I’m fighting as well.
+
+So now I can focus on the war.
+
+While occasionally visiting them, of course.
+
+And that café.
+
+Can’t forget the café.

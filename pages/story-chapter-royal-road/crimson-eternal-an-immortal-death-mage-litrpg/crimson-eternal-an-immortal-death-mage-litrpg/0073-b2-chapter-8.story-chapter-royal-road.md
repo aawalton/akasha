@@ -1,0 +1,145 @@
+---
+id: 94feda6a-636d-58bb-ade8-47570615a9b9
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 8"
+slug: 0073-b2-chapter-8
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 73
+ownLength: 1610
+unit: words
+ownProgress: 1610
+publishedAt: 2024-01-31
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1500868/b2-chapter-8"
+royalRoadId: "1500868"
+markedReadAt: "2026-06-29T19:08:24.676Z"
+---
+
+Aria
+
+I spend a few hours just roaming around the tunnels of the third tier, gathering resources and killing the occasional mana creature before deciding that I’m used to being down here enough to try out the next tier. So I go ahead and spend an hour trying to find my way out of the tunnels back to the trench. Then I head downwards to the next tier, which should be a large cavern connected to the trench. Basically just the walls expanding outwards for a long ways.
+
+The closer I get to the fourth tier, the brighter it looks until I can finally almost see the other end of the trench. And by this point, I can see the start of the fourth tier.
+
+It has a lot of underwater fauna in it, with minerals galore and quite a few mana creatures. Some that are rather dangerous looking. Like a couple really large crabs, some eels, and what look like some sea serpents.
+
+Nothing big enough to eat me, but certainly big still.
+
+I slowly swim down towards the bottom while being extra careful not to get anywhere near the large creatures.
+
+Something I find interesting down here is that none of these creatures have levels. So none of them are considered users.
+
+That said, considering that just the crabs in the third tier were strong enough to literally cut off my legs with a single clamp of their claws and withstood multiple bullets to the shell without much of a reaction other than dents… I kind of doubt I could take anything in this tier. Not without risking something unexpected. Like being dragged down deeper or eaten.
+
+Mostly the being eaten part.
+
+After a single close call where some sort of massive fish swims by seemingly without noticing me, I make it to the ground level of the fourth tier. Then I immediately get to work gathering what I can. While, of course, avoiding the mana creatures. At least until I finish gathering what is around me.
+
+I gather for nearly an hour before running into another hunter. One who looks rather shocked to see me.
+
+If I remember correctly, I think I’ve seen this girl before. One of the regular hunters I pass by on the way to my lazy pier.
+
+She is wearing a set of purple diving gear with some armor over the top, has long black hair and beautiful purple eyes, and actually looks a little worried about me. Which is sweet.
+
+But I just give her a nod and continue on my merry way.
+
+Only for a large eel to swim out of a narrow hole in the ground and shoot upwards at me, making the girl pull her gun up to shoot at the thing. And unlike my gun’s bullets, her bullet pierces straight through its thick skin and sends it flying past me instead.
+
+The electricity the thing is putting off still locks onto me in its passing though.
+
+I ignore that while turning to the girl, still with electricity running through my body. And she looks like she wants to scold me for some reason, but doesn’t say anything in the end. Even as I start to swim away without a word of exchange.
+
+She seemed nice. The girl looks around my age, but considering the lack of a number over her head, that’s not all that likely.
+
+She could’ve just run away. Or, rather, swim away. But she didn’t.
+
+The Fourth Tier of the Hunter’s Bay
+
+Rory stares in silence as the girl she’d just seen getting shocked by a gruark eel simply nods her head at Rory and swims away. While electricity is still crackling on her body and around her.
+
+What the…
+
+The hunter has seen the girl lounging around nearly every day while having her skeletons go down in the trench for her for over two years now, and throughout that time, she’s never spoken to her once. But now Rory wonders just what’s up with that girl.
+
+Just like all of the other hunters at the Hunter’s Bay dock, Rory sees a black number above the girl’s head. A black number ten.
+
+And now she finds the girl roaming around the fourth tier of the trench? At level ten.
+
+Rory just floats in the water, pondering whether or not she should scold the girl for coming down here as the girl swims away. Then Rory sees a large serpent rushing straight towards the girl with its mouth open, making Rory open her own mouth to shout for her to watch out.
+
+But it’s too late. The serpent swallows the girl whole and then turns to face Rory.
+
+“Shit…” Rory mutters, feeling bad about not being able to warn the girl soon enough.
+
+It’s not the time for her to worry about that right now though. The girl won’t survive the razor sharp teeth in the trench serpent’s throat. Especially not at level 10, black number or no black number. So Rory quickly uses her ability to spread a purple poison all around her, filling the water before firing one bullet after another at the trench serpent.
+
+The creature takes them to the face with little more than cuts, but that doesn’t deter Rory as she continues to fire at it, opening up dozens of cuts until the serpent reaches her and the poisonous area around her. And as soon as the poison enters the cuts spread across its body, the creature quickly slows down, giving Rory time to jettison herself out of the way using the propulsion jets on her boots.
+
+After she’s out of the way of its direct charge, the creature having rushed into the poisonous water, Rory begins peppering it with more and more tiny scratches, the bullets barely cracking its scales and dealing minor cuts with each one. Proving why the trench serpent is the strongest mana creature of the fourth tier trench.
+
+The trench serpent tries to turn around, but Rory finds it growing more and more sluggish in the process.
+
+So she grabs a bomb she’d prepared beforehand before tossing it at the creature and setting it off, releasing a large amount of poison straight at the creature’s face, letting quite a bit of it into its mouth.
+
+Almost immediately, the trench serpent slows to a crawl, then stops entirely and rolls over. Dead.
+
+Rory lets out a sigh while turning the safety on her gun and holstering it. Then she begins to clean up the poison around the area by controlling it again and drawing it into the reusable bomb she’d tossed at the trench serpent. One meant to condense the poison inside and release it all at once.
+
+After doing that, she sends a sad look towards the trench serpent before sighing.
+
+She looked like such a nice girl too.
+
+Rory begins to regret not having approached her to talk the many times she saw her above water.
+
+But it’s too late for that now. Now the only thing she can do is bring her corpse back to the surface.
+
+She raises her hand to the trench serpent and activates the greater storage ring on her finger to pull it inside.
+
+And waits.
+
+And waits.
+
+And waits some more.
+
+Rory begins to frown.
+
+Why isn’t the corpse going into the storage ring? That normally only happens if something’s too big or…
+
+Rory’s thoughts come to a halt when she hears weird sounds coming from the inside of the trench serpent, and she immediately mutters, “No way…”
+
+The sounds continue coming from the trench serpent’s body before they become more distinct. Clearer. And obviously squelching sounds of something moving around inside of the corpse.
+
+Then, after watching for a few minutes, Rory sees the girl pushing open the thing’s mouth with a very displeased expression on her face. But other than that, and the crackling red energy burning the creature’s insides, she looks perfectly fine.
+
+Looks… perfectly… unharmed…
+
+Rory feels herself staring in shock at the girl who doesn’t even have a single scratch on her or her clothes. Not even any damage to her hair.
+
+The girl – who’s probably an adult but Rory and many others at the Hunter’s Spot still consider a child due to her level – simply looks back at the corpse and mutters, “I knew I’d end up in a stomach if I came down here…” Then she turns to look at Rory and says with a short wave, “Thanks!”
+
+Rory just keeps staring at her, feeling more than a little shocked.
+
+How… what? But… huh? How did… huh?
+
+She continues staring without saying anything.
+
+Eventually the girl swims over to her and says, “Sorry, guess you couldn’t hear me. Thanks for the help.”
+
+Rory still stays frozen in shock. All the way till the girl snaps her fingers in the water.
+
+“U-uh, yeah, sure,” Rory mutters, not questioning how strange it is for someone to snap their fingers under water. Then she finally brings herself to say, “My name’s Rory Violet.” She reaches her hand out. “What’s yours?”
+
+The girl looks surprised for a second before she reaches her own hand out to take Rory’s and answers, “Aria Crimson.”
+
+Then silence returns after they unclasp hands and turn to stare at the trench serpent’s corpse.
+
+After a few seconds, Aria turns and says, “Well, I’ll be heading out. Bye.”
+
+And leaves without another word.
+
+Rory stares at the corpse, then at the girl who had just left. Then back to the corpse.
+
+That is the same girl who was just electrified and then swallowed…
+
+She tilts her head in confusion.
+
+…right?

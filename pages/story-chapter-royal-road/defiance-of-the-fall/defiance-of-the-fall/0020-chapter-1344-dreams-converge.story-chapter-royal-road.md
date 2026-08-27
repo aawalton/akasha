@@ -1,0 +1,179 @@
+---
+id: 84c8bba5-b68f-5c58-9432-c8d9313d300e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,344 - Dreams Converge"
+slug: 0020-chapter-1344-dreams-converge
+partOf: defiance-of-the-fall
+position: 20
+ownLength: 2991
+unit: words
+publishedAt: 2025-08-22
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2539332/chapter-1344-dreams-converge"
+royalRoadId: "2539332"
+---
+
+Activating [Arbiter of the Abyss] ballooned Zac’s body to nearly four meters—that part hadn’t changed since the skill reached D-grade. The skill perfectly accommodated [Love’s Bond]’s armor, only adding chainmail to the sections unprotected by the Spirit Tool’s sturdy plate. The defensive shroud from his Pseudo War Regalia filled any remaining gaps, creating a defense no less thorough than a full-body armor.
+
+Janos’s film of Imperial Faith added a hint of divinity to Zac’s grim appearance. It was like he’d truly become an arbiter of the underworld as they stepped onto the chaotic streets of the Transformation Docks. Streaks of smoke and wayward energy currents twisted around Zac as he confirmed his taunting domain worked in the city’s unusual environment.
+
+There was something odd about the fabric of space that severely limited his range, but Zac was still able to exert his will on anything within a few dozen meters. That was more than enough. In fact, he was afraid to extend his influence any further and attract unnecessary attention. Janos’ orb clearly had a limited supply of its borrowed faith, and every battle would draw on its reserves.
+
+Janos understood the need for caution, so he directly led the two down a winding backstreet instead of following the main avenues filled with battling mutants. Esmeralda did what she could by bending space around them, but it still didn’t take long before they encountered a roadblock. They came across a mutant hunched over a corpse upon making a turn, and the mutant spotted them at the same moment.
+
+Zac moved like lightning, and the rattling chains pouring from his back were even faster. Radiating a swirl of gold and anthracite darkness, they aimed for the mutant’s eyes and throat. He lashed at them with bestial swiftness, exhibiting physical force approaching Monarchy. Zac had to cleave the wind tunnel with a swing just to resume his advance.
+
+Two of Zac’s chains were swept away with enough force to blow up a courtyard wall, exposing a gristly scene within. Less than half the Transformation Docks’ defensive arrays appeared to be in working order. The others had been disrupted, and no good end waited for those who hid within. There was still no sign of a coordinated resistance in the area. Most of the elites were busy at the central square, leaving the rest of the Transformation Docks to fend for itself.
+
+The other chains used the mutant’s ferocious swing to their advantage, relying on the counterforce to wound themselves around his wiry arm. The slap left them covered in cracks, but they’d achieved their goal. [Inexorable Subjugation] could levy enough suppressive force that not even an Early Monarch could stay unaffected, and the mutant was only propped up to an equivalent level through unnatural means.
+
+Beyond Zac’s restricting skill, the modified Imperial Faith used the chains like a cable to attack the corruption fueling the invader’s rampage. The infuriated mutant displayed uncharacteristic clumsiness when he tried to rip away the chains. Waving his arm accomplished nothing since the chains could extend for miles, and his other hand failed to grasp them. It was all thanks to Zac’s subtle redirection of force through [Arbiter of the Abyss].
+
+Zac was upon the mutant before he could adapt. There was no fear on the invader’s face as he switched to the larger target, and he burst forth with even greater speed. Zac felt a sharp pain in his side from an inhumanly quick swipe. He had no way to react to that quick an attack, and his armor had only absorbed half the power. If Zac hadn’t actively rejected any incoming force, the grazing wound would have taken a chunk of his intestines.
+
+The mutant didn’t come out unscathed, even if Zac had given up on his counter-attacking skills. It was the film of faith the attacker had to pierce to reach Zac’s body. It had glommed onto the mutant’s arm to create a second point of ingress. With one arm weakened by the chains and the other from the attack, the mutant’s torso was wide open.
+
+It still wasn’t enough to trigger thoughts of escape. The invader’s mind was consumed by violence, and he leaned in for a headbutt upon realizing his arms didn’t listen to his commands. Not daring to test the [Death’s Duality]’s thinning film of faith against the sturdy skull, Zac directly went for the throat.
+
+A flash of suffocating Death ended the battle—or it should have. A tremendous force slammed into Zac’s chest, knocking the air out of his lungs and launching him into a nearby building. His vision spinning, Zac released his weapon to grasp the knotted skull gnawing at his reinforced breastplate. Three thunderous whacks overwhelmed the building’s teetering foundations, and it collapsed with a rumble.
+
+Zac extracted himself from the rubble with a pained grunt. In his hand was a crushed skull that still held onto a sliver of stubborn vitality. Zac didn’t wait for the cleansing power of faith this time. He directly flooded the head with Void Energy, suffocating the corruption that way. He’d already tried absorbing the Dead Dao from the body, but it wasn’t like the ownerless energy of the Lost Plane. Zac couldn’t just take it and turn it into enlightenment.
+
+A pang of warning interrupted Zac’s experiment, and he quickly kicked a piece of the collapsed wall. A mutant barreling toward him crushed it without slowing down, and he did the same with the Void-filled head of his former companion. Startled by the uncomfortable gust of Void Energy, the mutant failed to react to the spectral chain coming right on the heel of the head.
+
+“Down,” Zac growled as he channeled [Arbiter of the Abyss] to its limit.
+
+The whole street shook as the mutant slammed headfirst into the reinforced cobblestones. It floundered on the ground with superhuman speed until a gleaming axe slammed into the back of its head. The thin sheen of holiness covering [Death’s Duality]’s edge wasn’t enough to carve through reinforced bone, but the soul-severing effect of [Fatehew] made the mutant freeze for a moment. That was enough for a second swing to finish the job.
+
+Zac crushed the mutant’s core with a brutal stomp for good measure before returning to Janos’s side.
+
+“Let’s continue,” Zac said in a low voice as his dented breastplate regained its original shape.
+
+The chains had already retreated into the black swirls on Zac’s back to be swapped out for pristine sets of links. Meanwhile, the faded halo around his body was being replenished by Janos’ orb. That quick blitz had drained nearly a third of his synthesized Imperial Faith, proving long-term engagements away from the demon’s side was impossible.
+
+Still, the battle went above expectations while providing important data. The Lost Era’s dead Dao had given these cultivators strength and resilience at the cost of their caution. They fought on instinct, relying on speed and power over skills and strategy. That left them even weaker than normal cultivators when the corruption was taken from them.
+
+However, his Void Energy wasn’t as effective as Zac had hoped. The corruption was essentially a C-grade energy. It would take a significant chunk of his reserves to weaken a single mutant. Meanwhile, the borrowed faith energy had an inherent suppressive effect, allowing it to accomplish more with less.
+
+The throbbing pain in his chest and side were also important lessons. The kinetic force imbued into the mutants’ attacks wouldn’t magically disappear when it came into contact with the golden halo, at least not when it was in such limited quantity. Even Zac could be grievously wounded if he took one of those hits head-on, not to mention Janos.
+
+An exclamation from Esmeralda drew Zac out of his thoughts. ‘Look at the victim!’
+
+They were about to pass the corpse when they spotted the first mutant. Zac looked down, and his eyes widened in recognition. While there were some slight differences, Zac had grasped the same head in his hands just moments ago. They could pass off as twins, but the dead man on the ground wasn’t an invader. There was no hint of corruption on the body except for a nasty wound that had destroyed his heart.
+
+It was at that moment that a whiff of the Peregrine Ocean’s herbal scent entered Zac’s nostrils. His brows furrowed in thought.
+
+“Fake timelines… Did these guys come here to hunt down their doppelgangers?”
+
+‘Wait a moment.’
+
+Esmeralda emerged from the shrine and disappeared. She returned just seconds later with a few wounds on her stomach.
+
+‘Gods, space here is so fragile!’ the toad complained as she submerged herself in the shrine’s mud bath. ‘I think you’re onto something. I only had to run to the street next over to find another invader who’s killed his twin. And that’s not the only thing. Look behind you.’
+
+Zac turned around, finding the same sprawl of mish-mashed buildings. It took him a moment to realize that was the problem.
+
+“The central square is gone!” Zac exclaimed.
+
+“Dreams converge,” Janos nodded. “We must hurry. The distance is increasing.”
+
+The demon only gave the corpse a cursory glance before moving on. Zac was full of doubts, but he still followed. His first guess was that the twisted city and its deranged invaders were part of a powerful illusion. It was the only way he could explain the borders expanding beyond the limits of the memory domain. While it appeared to be true, there was something else going on.
+
+‘Can you make sense of this invasion?’ Zac asked.
+
+‘I don’t think invasion is the right word. It’s more that a chunk of the Transformation Docks has been dragged into this hellscape. I think the square has broken free and returned to the main dimension. Faith is the key. Look at these people outside. Probably not the most devout believers. They couldn’t bother participating in the ceremony despite living right next door.’
+
+‘So we made a mistake stepping out?’ Zac grimaced.
+
+‘Not necessarily. Those people clearly have their own problems, and we don’t have a real protective halo like the natives,’ Esmeralda said. ‘It looks like the demon can navigate this illusion. We need to follow him to the exit. Don’t move too far from its protection, or you’ll end up like me. If you go too far, then parts of your body will start moving in different directions.’
+
+‘That’s just perfect,’ Zac sighed before turning to Janos.
+
+“Should we speed up? I can carry you in one of my chains.”
+
+“Can’t. Lose track,” Janos said.
+
+To explain his point, he flashed forward by ten meters. His sphere couldn’t keep up. The protective halo created a trail behind him, and it took a moment to create a new one around Janos’s position. It was like the environment resisted its spread.
+
+“Faith. Anchor,” the demon added, corroborating Esmeralda’s theory.
+
+Zac nodded with resignation, his eyes scanning every shadow and alleyway for threats. Thankfully, Zac only had to deal with two more mutants before Janos led them into a surreal-looking building. It was the result of at least seven different houses being fused into one, and not one of them matched the other.
+
+The rooms were impassable because of a dozen walls coming from every angle, so Zac had to actually cut out a small chamber in its center.
+
+“Wait here,” Janos said.
+
+‘He actually did it,’ Esmeralda said as she emerged from the shrine. She looked like she was tasting the Dao in the air before looking at the demon with interest. ‘This location is an eye where the dimensions are completely misaligned. It’s the best place to break out. I wonder how he found it. There are no obvious clues in the spatial fabric.’
+
+‘He keeps surprising us.’ Zac agreed.
+
+“If we have to wait, then this might be a good time for you to share what you know. Are these invaders Qriz’Ul or humans?” Upon seeing Janos struggle to form an answer, Zac sighed with exasperation. “You need to focus. Explain quickly and clearly.”
+
+Janos slightly nodded, and his gaze actually sharpened. “I’m sorry, and we’re—I mean I am—not quite sure on both accounts. I know that the timelines here are merging, and some of them have been corrupted by the same thing we encountered in the Centurion Base.”
+
+“Is it the Peregrine Ocean leaking into the docks?” Zac asked.
+
+“Yes and no. The Peregrine Ocean is only the facilitator of a larger problem,” Janos said. “The true reason is the Imperial Road.”
+
+“The Imperial Road?” Zac said with surprise before realizing something. “It’s just been finished at this point, connecting the Outer Courts.”
+
+Janos nodded. “I met a scholar named Kadel on my way here. He studied a concept called Temporal Omnipresence, and he was looking to create what he called an Omnipresence Chamber.”
+
+Zac didn’t try to steer Janos back to the main topic, afraid the demon would return to his reticent state. He silently watched as Janos conjured an illusion of a rope made from countless thin threads. Only at the very beginning and end did the threads fuse into solid matter.
+
+“I picture the chamber as something like this. A single moment branching into countless possible futures until they reach the end of the containment. I never understood why he wanted to create something like this. I think it was just academic curiosity,” Janos said, shaking his head. “Ultimately, Kadel’s experiment was a failure. His showcase destroyed the whole academy in the original time. I managed to convince him to change his mind.”
+
+Janos gained a bewildered expression. “The effect was greater than we anticipated. You’d know Kadel as Grand Dream.”
+
+“WHAT? You saved the life of a future Supremacy?” Zac said, throwing the worry about the demon’s repeated slip of pronouns into the back of his head.
+
+‘He’s completely rewritten history! He has to be the one who triggered the Mercurial Court’s double halos!’ Esmeralda added in a mental transmission.
+
+Zac suddenly realized something. “Wait, if you saved him, then he never—"
+
+“Grand Dream shouldn’t have existed in the original timeline,” Janos nodded. “Or perhaps he did, in another form. Another Supremacy may have resurrected him after realizing his value. He had a unique ability connected to something called Ancient Arcana. It allowed him to peer into countless futures. It was the foundation of his research.”
+
+“Did you say Ancient Arcana?” Zac exclaimed.
+
+“You know of it?”
+
+“The puppets we unleashed in the Centurion Base were derived from one of the three races of Ancient Arcana, the Stellar Wanderers. They were born in the first Era, and they should have been far more powerful than any Supremacy of today. Their natural state of existence transcended our comprehension,” Zac quickly explained.
+
+“If possible, I’d like to hear what else you’ve gathered about these beings.”
+
+“No problem, when things have calmed down,” Zac agreed. The matters surrounding the Stellar Wanderers weren’t something that needed to be kept secret. “Are you saying that Kadel actually wielded an ability of theirs?”
+
+“Yes, but it had powerful side effects. He was about to go insane by the time I found him. I didn’t expect him to live this long, let alone advance to Supremacy. I figured I’d only bought him some additional time with my intervention.”
+
+“I guess that explains the old man’s shifting faces,” Esmeralda muttered.
+
+“And how does Grand Dream connect to the Imperial Road and the corrupted invaders?” Zac asked.
+
+“Kadel’s research is one of the of the underpinnings of the memories we’ve visited. However, his Omnipresence Chamber is but one piece of the puzzle. The other courts should all have their part to play.”
+
+“And they’ve all been connected by the Imperial Road,” Zac surmised.
+
+“Exactly,” Janos said. “This memory domain is different than the ones I’ve tread before. I think the Limitless Empire was only able to make a true recording of the Left Imperial Expanse from the point where the courts were connected. The history before is merely the shadow of the recorded present.”
+
+Esmeralda sighed. “We broke the status quo when we stepped onto the Left Imperial Expanse. We changed the past and introduced new possibilities to the period recorded in this so-called Omnipresence Chamber. I guess these corrupted mutants are attacking us—"
+
+“—Because the dream is about to end,” Zac concluded. “Whatever the empire is hoping to achieve with all this, the mutants definitely aren’t part of the picture.”
+
+“Countless rivers are being absorbed into one truth wherever we outsiders pass,” Janos said. “Their actions are a desperate attempt at survival. It might be their instinct, or it could be under the order of more powerful beings who have deduced the truth.”
+
+“What a mess,” Zac sighed. “Will all the courts have to deal with an invasion like this?”
+
+“Not necessarily,” Esmeralda said. “I still think this is only possible because of the Peregrine Ocean or the Mercurial Court. There’s no way some Hegemons and Monarchs would be able to shift over to our side without it.”
+
+“I think the… frog—“
+
+“Toad!”
+
+“I apologize. I think the toad is correct. Protecting the Mercurial Court and history from the invasion of corrupted timelines is the final challenge of this outer court. The others will have to face other tribulations.”
+
+“So what should we do?” Zac asked. “We can’t beat up a whole alternative universe.”
+
+“This isn’t a problem that can be solved from here. We need to head to the Mercurial Court.”
+
+“The toad is right again,” Janos nodded, suddenly looking around. His face lost its animation, and his following words came out hollow and monotone. “It’s here. Cut.”
+
+The terse instruction sufficed. Even Zac could sense the existential decay, and his swing effortlessly opened a gash in space. The Transformation Docks’ pier and its neatly arranged line of gondolas waited on the other side. As did a small-scale war between sealbearers and their twisted doppelgangers.

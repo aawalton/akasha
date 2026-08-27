@@ -1,0 +1,153 @@
+---
+id: 0267dcab-e14c-556d-8184-be9636eed3d9
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 15"
+slug: 0239-b4-chapter-15
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 239
+ownLength: 1530
+unit: words
+ownProgress: 1530
+publishedAt: 2024-12-20
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1966480/b4-chapter-15"
+royalRoadId: "1966480"
+markedReadAt: "2026-06-29T19:13:51.923Z"
+---
+
+Aria
+
+“Well, guess this is goodbye for now,” Shirogane says as he grins at me, the two of us shaking hands in front of my spaceship with no one else nearby. Other than Leone, who is joining me for this journey. “I know there’s no point in saying this considering who you are, but please stay well, okay?”
+
+I nod at him with a smile and answer, “Course I will. And you stay well too.”
+
+He nods back, following which our hands separate and I head into my ship alongside the lyon. Whose job turned out to be far simpler than I expected.
+
+The lyons have a rather special history to them.
+
+They absolutely despise Pestilence for destroying their home world. Which is the only reason they aren’t considered an Alpha Tier society and are instead considered a Special Tier society. One of the civilizations whose Tier is unclear due to one reason or another.
+
+Pestilence spread a rather… special… disease throughout their planet. Or rather, more like a virus.
+
+Lycanthropy.
+
+It turns anyone who is infected by it into a werewolf. A shapeshifter who can transform into a half-human, half-wolf beast.
+
+And around 99.9% of those who are infected turn into nothing but monsters. Ones who automatically attack anything living around them while losing all of their memories and acting solely on instinct.
+
+Pretty much made their world nothing but hell.
+
+Filled with humanoid wolf creatures always going around hunting. Some of which are as strong as Leone here.
+
+Since their civilization used to be one of the civilizations competing to be one of the next Grands. Hence their status as a Special Tier society now instead of just reducing their Tier.
+
+Meanwhile the object I’m supposed to recover is located at the very center of that mess of a home world filled with the virus. A world where pretty much no one would ever step into because the virus infects even people in the five digits in level. Albeit only the lower five digits. Around ten or eleven thousand.
+
+But the vast majority of the universe isn’t at that level, so…
+
+And the ones who are above that level won’t risk possibly being successfully infected just to help them out to return a natural treasure of their people.
+
+Which leaves two people who can easily make the trip.
+
+Me, and Pestilence.
+
+With Pestilence not being considered an option for obvious reasons.
+
+But…
+
+I sigh as the ship begins revving itself to fly without me having to do anything. My lovely AI handling everything.
+
+…the problem is that their former home world was cut off from the rest of the universe. Meaning we’re going to have to go there personally.
+
+We can’t Gate there. And the lyons don’t even remember the exact coordinates.
+
+Just the vague area of the universe it’ll be located in.
+
+“Just one last check, but you do realize this job won’t be a simple and short trip there and back, right?” I ask while glancing at Leone as we walk towards the bridge of my ship. “This trip could take decades at the very least just to find your home world.”
+
+She nods her head and answers, “I know. And we’re not in a hurry to get our natural treasure back either. As long as we know we will get it back eventually. The elders would rather not try to pressure you in any way.”
+
+Huh.
+
+Polite bunch, I guess.
+
+Or, actually, that’s probably not the case. They just seem blunt. So I’m guessing they’re treating me this way so as to not make another Horseman enemy.
+
+What with their current situation being due to the whims of Pestilence.
+
+“If you’re sure,” I state before we fall into a comfortable silence, just walking through my ship.
+
+Meanwhile I can’t help but wonder just how painful it’ll be to get that virus. Even if it’ll be healed right away, the same as any other sort of change or damage would be.
+
+Not to mention how many times I’m going to get it before I grow fully immune to the effects of the virus, and how long the first effects of it will last.
+
+At the very least, it won’t be very pleasant.
+
+Then again, the last time I did a job like this I was literally torn apart with my organs popping out of my body. So I’m not worried.
+
+We continue to my bridge before I stop in front of the command seat and open up a hologram of a massive map.
+
+“What are your plans for finding your home world?” I ask while glancing at the girl who is currently wandering around looking at my spaceship’s bridge.
+
+She quickly answers without looking at me, “Our people have been collecting intel on it for a while, so we’ve got a few places narrowed down with people who may have records. Including merchants who traded with us before our home world’s downfall. Through direct delivery instead of Gates at that.”
+
+“And the Rex Dynasty? Did you ever ask them for the coordinates set in the Gates?” I ask while focusing on her, letting the ship take us into space on its own.
+
+“The data was corrupted and lost before they finally got around to accepting our call,” she says with a frown on her face. Clearly not very happy with them. “So they’re no use anymore.”
+
+Huh. Right. Almost forgot that the Rex Dynasty doesn’t tend to be very friendly with a lot of other nations. Even if they do work with them.
+
+Plus they’re incredibly busy.
+
+What with managing the Gates all across the universe.
+
+Although I’m sure if I’d have been the one who asked they would’ve jumped to answer me in a heartbeat, long before the data was corrupted.
+
+Actually, on that note, I go ahead and send a message to Raja asking about this issue. Just in case they may’ve lied to the lyons due to a grudge or something.
+
+But I get an answer right away that says they told the truth about the corrupted data.
+
+Except one thing they didn’t mention was that it was technically possible to recover the data.
+
+Just that it would take decades for them to do it, along with a lot of wealth.
+
+I go ahead and share that detail with Leone, making her immediately run straight up to me, appearing before me in an instant and startling me.
+
+“Really?! That’s great news!” she exclaims with an actual smile on her face, holding both of my hands together in her excitement.
+
+“From what he told me, it’s very difficult to recover corrupted data from lost Gates, so it’ll still take at least fifty to a hundred years,” I tell her, feeling slightly uncomfortable with her proximity. “And I really don’t feel like rushing them, so… also, your people will have to pay for it.”
+
+I’m not very close to Leone, so the best I’ll do for her is act as a connection.
+
+I won’t go forcing Raja to work harder just for her sake. Nor will I make him pay for their problem.
+
+Especially since Leone said they weren’t in a hurry.
+
+“That’s no problem at all! I can just follow you around as instructed until they have the coordinates!” Leone says, still holding my hands until I carefully extricate them from her grasp. “Oh, right, sorry about that.”
+
+Then she backs up a few steps and takes a deep breath before returning to her usual stoic and cold albeit slightly eccentric attitude.
+
+“So, boss, where’re we going first on your journey?” she asks, the corner of her lips quirking upwards a bit.
+
+I turn to the holographic map and purse my lips for a few seconds. Just studying it for a bit.
+
+After several seconds, I reach forwards and touch a single world on it, saying, “How about Frostfall.” I turn to look at Leone as I continue, “I haven’t been to many worlds with a really cold climate in a long time, and I kind of feel like seeing snow.”
+
+Plus the civilization there has already sent me an invitation should I ever wish to travel there. Just like quite a few other civilizations across the universe ever since that exhibition match.
+
+All wanting to form a connection with the up and coming Horseman, of course.
+
+The girl gives me a salute and says, “As the boss commands!”
+
+I raise a brow at her before shrugging and selecting the world, stating out loud, “Crimson, please bring us to the planet known as Frostfall.”
+
+|Understood.|
+
+Another nice thing about the world is that it is an Alpha Tier world, even if there aren’t as many people on it as most Alpha Tier worlds have. Although it does still have a decently sized civilization despite that.
+
+Simply because of the Hunter’s Spots on it.
+
+Which, in this one, take the form of glaciers.
+
+“Let’s go then,” I state with a smile while sitting down on my commander’s chair, the ship taking off into hyperspace towards the next planet on my journey.
+
+Leaving behind any of the paperwork Little Blue would’ve made me do before leaving.

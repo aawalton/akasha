@@ -1,0 +1,197 @@
+---
+id: 405f41e8-4bb4-5915-bc1c-004cd9ffaaa0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 52"
+slug: 0053-chapter-52
+partOf: death-healer
+position: 53
+ownLength: 2203
+unit: words
+publishedAt: 2025-07-30
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2479468/chapter-52"
+royalRoadId: "2479468"
+---
+
+Caesar’s voice cut through the stunned silence. “Take the boy away.”
+
+Two of the bandits moved at once, rough but almost hesitant as they rolled Sabinus onto a battered canvas litter. His breaths came shallow, raw, but steady now—he was alive, or as close to alive as anyone in that camp understood. They carried him toward the shadows beyond the fire, passing through the ring of men who parted with wary, almost reverent glances for Lily.
+
+“Do not let him die,” Caesar ordered, his tone flat but edged with something new. “If you let him die, I’ll make an example out of both of you.”
+
+His men nodded, glancing at Lily as if she were some unclean spirit or a priestess risen from a myth.
+
+The way Caesar looked at Lily was hard to decipher.
+
+The twelve-year-old girl had somehow expected that the older brother of Cardinal Tiberius might lose his patience, declare her—and Sabinus’s—life forfeit and kill them.
+
+Yet, he slightly tilted his head as he looked at her.
+
+Something in his eyes told Lily that today, they’d live.
+
+He did not congratulate her. He did not mock her. He stared at her across the fire, his hands loose at his sides, not moving for a weapon and not reaching for comfort. The other bandits still watched, some with awe, some with a twitchy fear that turned their hands restless.
+
+Lily stayed kneeling by the blood-stained dirt, hands still sticky and trembling. Her arms ached, her heart pounded. She waited for her own body to collapse, but, by some divine grace, it did not.
+
+Caesar came around the fire and dropped to a crouch in front of her. He was not gentle, but he did not radiate the same menace as before. He studied her, his jaw working, his eyes steady.
+
+“You just healed someone with a Class, with more than sixty levels over you, if we consider you level zero.”
+
+Lily forced herself to wipe her hands clean on the edge of her tunic. The blood came away slowly. The shaking would not stop. She met Caesar’s eyes, refusing to look down.
+
+“So?” she said.
+
+He snorted.
+
+“I never thought Lucianus’s daughter was ordinary. But I didn’t think you were this.”
+
+His eyes swept over her—barefoot, bloodstained, shivering but composed beyond what any child had any right to be after almost killing their friend and bringing them back from the edge of death.
+
+“You know what you did?” Caesar asked, voice low.
+
+Lily did not answer. She watched his hands.
+
+Caesar shook his head and, with a hand, dragged her away until they reached a large tent. His, presumably. He threw up a [Light Shield] and turned to Lily.
+
+“That was the purest Life Mana I’ve ever seen. The purity of one’s Mana while channeling a Skill is not affected by their level nor by the Skill’s level. It’s about one’s Affinity. Women have a much harder time channeling pure Light—much less pure Life—because of their stronger Affinity for Darkness and Death. Furthermore, most of the rabble out there doesn’t know what Skill you used and you’re lucky my best men are out. I’m not sure I could have trusted them with this information. Not even them.”
+
+Lily swallowed.
+
+“[Life Flow],” Caesar said slowly. “I’ve seen Lucianus use it, darling. I know what it looks like, I know what it’s supposed to be and do.”
+
+The words landed heavy. He shifted his weight, then leaned in, his breath hot on her cheek.
+
+“I’ve watched your father, the one they called a prodigy for his mastery over [Life Flow]. It’s a pity Lucianus was born in the Gens Claudia because, out of all the Great Skills, he got the one that was the least useful to him and never made it as a Champion. Not that anyone talks about that very often. No one likes to remember how my cousin humiliated all the uppity nobles of the Great Families. What an unfortunate time to be born alongside the strongest talent we had ever seen, right?”
+
+Lily’s eyes went wide because what she just heard was all news to hers.
+
+“You didn’t know, of course,” Caesar smiled wickedly. “Yes, your mother wiped the floor with Lucianus, among others. Her control over the Holy Affinity was…”
+
+The large sighed and shook his head.
+
+“My cousin is a fool,” Caesar spat.
+
+Lily trembled at those words.
+
+He was speaking about the Pope, her uncle.
+
+“So is my brother. I was ready to support your mother when…” Caesar stopped and looked at Lily with a raised eyebrow. “Your grandmother… Aunt Hestia, what a woman. You should spend more time with her if her mind hasn’t been dulled by being around my cousin.”
+
+“I don’t see her often,” Lily offered this piece of information since she didn’t know what else to say. The conversation with Caesar had taken an unusual turn. He was now talking about family, and she realized—something that in the panic from before had eluded her—that they were related. He was her… uncle, sort of? Her mother’s cousin.
+
+“Was it your father?” Caesar said, nodding at Lily.
+
+“Huh?”
+
+“The Great Skill. Your father? Your grandmother?”
+
+Lily shook her head, not knowing whether she should actually reply to him or not. Honestly, this man was a bandit. He was as much of a criminal, if not more, than she was.
+
+“Your mother, Dawn’s Mercy, bless her bloody soul,” Caesar laughed and, after taking a seat, slapped his thigh. “She did this without your father’s approval. Is that why you’re riding with the boy in the woods all alone, without any escort?”
+
+Lily opened and closed her mouth, stunned by the guesswork.
+
+“When you get trained in the Gens Iulia, darling, they burn your body from a young age with two things,” Caesar said. On one hand, he made a white flame appear. “The [Sacred Flame].” And he brought the other hand right below his eyes, scrutinizing her. “And the ability to read people and situations.”
+
+He dropped his hand on his lap and took a pitcher of water.
+
+“Sit,” Caesar said, and Lily obeyed.
+
+He poured himself a cup, then another, and finally pushed the second across the table to Lily. The water was faintly warm, flecked with ash, but she took it because her throat still burned. She drank in careful gulps while Caesar studied her as though weighing every word.
+
+“You should thank your mother; she didn’t train you in that. It’s less useful than people realize, especially when most of your life is spent fighting Undead and trying not to die at their hands. If I could have chosen blissful ignorance about our situation, I would have, trust me.”
+
+“Are we really doomed?” Lily asked.
+
+Caesar let the question hang between them for a long moment. He swirled the water in his cup and stared into the surface, as if he could see the end of the world reflected in its muddy sheen.
+
+“Maybe not,” he said at last. His tone didn’t offer comfort. He didn’t sound sure, but he didn’t sound defeated either. He looked at Lily, and for the first time since dragging her into this camp, his eyes didn’t burn with the same iron certainty. There was a grudging respect, even a flicker of caution.
+
+Lily watched him, not waiting for another answer.
+
+“You saw what I did,” she said. “You think it changes anything? Can I do something?”
+
+Caesar leaned back, folding his arms.
+
+“I watched you open up your friend’s chest and put him back together. I’ve seen [Healers] with higher Levels than you fail to save a man whose heart got nicked by a blade. But you—” He shook his head, jaw tightening. “I don’t know what you did to get such purity out of Great Skill. If you can do that at twelve, I don’t know what you’ll be when you get a Class, much less if you survive the Champion’s Trial. When I was younger, I thought your mother could change things. You?”
+
+Caesar cackled.
+
+“You’re stronger, better, fiercer.”
+
+“My mom is—”
+
+“Your mother is a great woman, darling,” Caesar said, raising a hand to stop her. “I didn’t mean to insult my cousin, Princess Adriana. But you were presented with two bad choices. You did something no one would have thought of. No one would have been capable of.”
+
+He didn’t look away.
+
+“So maybe not. Maybe we’re not doomed, if people can still do what I just saw.”
+
+“Are you ready to fight not one, but two wars? The Church is just the beginning. What about the Undead? Have you ever seen one up close?”
+
+Lily shook her head.
+
+“The Pope, my brother, the idiots from the Great Families, including that boy of yours, those are ants. The real monsters? They’re outside the walls. The backstabbing idiots back home are nothing. You hear me, Liliana Claudia?” Caesar pulled closer to her face until she could almost be stung by his beard. “Nothing.”
+
+Lily nodded, frowning, feeling a shiver of fear running down her spine.
+
+“Anyway, you’re not ready for the Tournament,” he said, blunt as a hammer, pulling back in his chair.
+
+“I am. I will defeat Lumius.”
+
+“Probably,” Caesar said, cracking his neck. “But, I regret to say, just like your father, you’re not inspiring, yet. Mastering [Life Flow] like you did is incredible—and illegal, but I suspect your mother and grandmother are probably working on that. The problem is that no one will support you. A Champion needs the support of the Great Families to learn their Great Skill. Let’s say four out of five other Great Families were to agree to let you learn their Great Skill as a Champion. The fifth would feel so much pressure, they’d have to cave. So, even if my niece Cassius, that abomination, did what you did at the Gens Aemilia, he could have still forced them to let him learn their Great Skill.”
+
+“I don’t care,” Lily frowned. “I’ll just—”
+
+He snorted and leaned forward, elbows on knees.
+
+“You should care. You have power, girl. You don’t have anyone behind you.”
+
+“Sabinus is the heir of the—”
+
+“Gens Cornelia,” Caesar finished her sentence. “Darling, you’re my niece, correct?”
+
+Lily frowned and nodded.
+
+“Correct?”
+
+“Then, call me Uncle Caesar from now on, shall we? And let your uncle give you some advice that you sorely need.”
+
+“Ok… Uncles Caesar?”
+
+Lily wasn’t going to argue with a bandit who could probably kill most people in the Papacy of Lumina with a flick of his hand.
+
+“The boy dropped his mask, didn’t he?” Caesar smiled.
+
+“What?” Lily frowned.
+
+“The boy. You saw how he reacted. In fact, with all due respect for your efforts. I’d kill him right now if you allow me. You can’t trust him.”
+
+“Because he insulted me?” Lily frowned. “He thought I was about to kill him.”
+
+Lily had not been pleased by Sabinus’s reaction, but she could definitely understand it.
+
+“Whan he thought you were about to kill him, when you stripped all his layers to the bone, you saw what he really is, Liliana. He dropped his mask.”
+
+Those words hit like like a lighting bolt, immediately prompting her brain to remember the words she had heard from the tramp on the night of the Gens Aemilia’s marriage.
+
+“To walk the road of Champions, you’ll harvest two wounds, one deep, one even deeper, and two mirrors. Yet neither will reveal its heart to any face that comes masked. Wear the soul you’ll fear, and the mirrors will open a door no gate can bar—past fathers, past popes, to the throne that bears your name.”
+
+Two wounds? Was the first one to learn [Life Flow]? Wait, was this the second one? But no. It should have been a wound on me… And what did he mean by “the soul I fear?” And what masked face? I’m just…
+
+Seeing his niece distracted, Caesar smiled.
+
+He watched Lily with that same sharp, half-amused glint. “How old are you now, anyway?” he asked, sudden and direct.
+
+Lily glanced up, still tense. “I turn thirteen tomorrow.”
+
+Caesar’s face shifted, but it was not a softening. He nodded once, decisive. “Thirteen, then. Good.” He drummed his fingers on the table. “You’ll spend some time here before you get your Class.”
+
+Lily’s fingers clenched around the cup. “I can’t. I have somewhere to be—my mother—”
+
+He cut her off with a dismissive wave. “You’ll go where you need to go. But not until after our training. You want to survive in Alba? You’ll survive me first.”
+
+She glared, but Caesar just shrugged, unbothered. “You’re strong, Lily, but you’re not trained. Not for what matters. There are two things I’m going to teach you—two things your father can’t, and your mother couldn’t master. The first is how to fight humans and the Undead. Not [Soldiers], not pampered dueling partners. Real killers. Real monsters.”
+
+He leaned forward, so close she could see the scar that cut through his beard and the flecks of ash in his eyes.
+
+“And the second,” he said, his voice suddenly low, “is how to master the [Sacred Flame], the Gens Iulia’s Great Skill.”

@@ -1,0 +1,133 @@
+---
+id: 7b34edbb-6899-5aa1-ac10-358c413308ee
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 20"
+slug: 0245-b4-chapter-20
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 245
+ownLength: 1410
+unit: words
+ownProgress: 1410
+publishedAt: 2025-01-05
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1993397/b4-chapter-20"
+royalRoadId: "1993397"
+markedReadAt: "2026-06-29T19:14:04.249Z"
+---
+
+Aria
+
+So I’m not sure if it was something to do with the way I came into their tent or what, but four of their nobles attack me the moment the second round of explosions go off. Which is rather rude.
+
+But I just use Death’s Judgment on the hand gripping my face while lifting me up, burning their hand a little bit in the process. Then I set off more explosions around me that blows up the rest of the tent and the officers and nobles.
+
+Of course, it doesn’t do anything other than destroy their clothes and – more importantly – their storage rings and everything in them.
+
+All of the nobles and officers immediately jump into action, setting up their own defenses after that with many of them sending attacks my way.
+
+But I just casually walk out of the remains of the tent and make my way out of the camp without bothering with them. Because I don’t have any weapons capable of killing them that I can use right now. Not with it being too close to our own forces to use nuclear-level explosives.
+
+Which is a pity.
+
+And bullets from the arch-rifles I got from the pharaoh are too expensive to waste on people like this. The only weapon and bullets capable of killing beings in the several thousand levels range. At least out of the non-explosives area.
+
+Doesn’t really matter that the pharaoh offered to pay for every single bullet I shot. I’m not wasting them when it’s so annoying to get refills, what with them being too powerful to teleport or something.
+
+Anyways, I leave behind a lot of shouting throughout the camp. Probably due to the explosives, and the fact that I permanently burnt the hand of one of the nobles who attacked me.
+
+And the fact that I blew up all their leaders’ storage items and clothing, leaving them with nothing while in a frozen wasteland in the middle of their troops.
+
+But that’s their problem.
+
+They should’ve just surrendered after all.
+
+On another note, by the time I reach the edge of the camp, elite forces under the king arrive and surround the camp. All of them preparing to attack the now-unarmed enemies.
+
+But I just continue walking through the snow with my hands in my jacket pockets until I reach my own battlefield again. And what I find when I arrive is pretty much what I expected.
+
+The enemy soldiers are ignoring my Death Spirits and running back to their camp, where they no doubt saw the explosions ring out from. Meanwhile my Death Spirits are chasing them without a care for their immortal lives.
+
+I return to my place atop a cliff while swinging my legs over the edge, just watching all of this go down.
+
+So much for this war being interesting.
+
+“You look bored,” Leone says as she appears next to me, sending a wave of wind and ice flying in the process due to the sheer speed she arrived with just coming to a complete halt in an instant.
+
+“I am a little bored,” I answer her honestly without looking back at her, just seeing her from the corner of my eye. “Do you know when the last time I had a serious fight was? When I last used my combat training outside of training?”
+
+“Years ago?” Leone asks while walking up to stand next to me with her arms crossed.
+
+“It’s been centuries,” I answer, feeling rather disappointed by that. “Immortality kind of makes combat training in actual battles a moot point.”
+
+She kneels down next to me and looks at me while tilting her head a little, her glowing and slit amber eyes shining in the darker light around us and reflecting off the snow as she asks, “Do you dislike your immortality?”
+
+“Nope,” I answer right away. “At first I had problems with it, but now I’m fine with it. I like it in fact.”
+
+I will admit, before the System expanded the lifespans of everyone in it who manages to reach level 100, I did hate it. Because having such a short time with anyone I met and got close to was just painful. So painful it was hard to get close to others.
+
+But the System expanded that time significantly so long as they keep leveling up.
+
+Which is good enough for me.
+
+Although…
+
+I think back to Frank from Vortel before looking up at the dark clouds covering the sky, ignoring the battles going on all around us. Including the enemy soldiers and my own Death Spirits rushing in to slaughter the enemy soldiers and their nobles and officers at the camp I blew up.
+
+It doesn’t change the fact that it’s sad to lose someone.
+
+And Frank isn’t the only person I’ve lost. He’s the only one I’ve been really close to, sure, but not the only one.
+
+I’ve met people and befriended them on many of the worlds I’ve visited. And not all of them have been interested in leveling up.
+
+So quite a few of them have passed away over the years.
+
+I look back down from the skies at the battle again, only to notice some of the nobles trying to flee from the camp, with a couple of them having managed to secure clothing again. Clothing which I’m pretty sure is just spare armor from their soldiers. Seeing as I blew up their armory too.
+
+Wonder if any of them have died yet? Or been captured?
+
+I’m pretty sure this planet doesn’t have a Void Temple, so resurrecting them may be difficult for their duke.
+
+Actually, on the matter of the Void Temple, I’ve visited them a few times over the years. Mostly just to say hi if I end up in a world with a major temple on it.
+
+It’s polite to do so after all.
+
+But my last visit to a Void Temple – when I went back to Eternus for the ceremonies – was different. The Void Spirit at the temple invited me to go to their home world at some point.
+
+Which will be interesting, since most people are never allowed to go there. Not unless they’re relatively high ranking priests within the Void Temples.
+
+I’m also not allowed to bring anyone because of the severe restrictions they have on their planet. What with there being no air there. Or sun. Or, really, anything a normal human being would need to live.
+
+So that’ll be an interesting trip when it comes around. But I’m not planning on going there for a long time.
+
+At the very least not until after I finish traveling with Leone. Since she wouldn’t be able to go there.
+
+Oh, and they also specified that I should only come after I get my horse.
+
+Which gives me a pretty good idea of what it’s about. What with the things I’ve been told by Famine since meeting him at the ceremony.
+
+About one of the benefits having your horse brings as a Horseman of the Apocalypse.
+
+The ability to enter your plane.
+
+So for me, the ability to enter the Plane of Death.
+
+The place where I’m summoning all of these Death Spirits from.
+
+If they want me to have my horse by then, the thing they want to discuss most likely involves the Death Spirits.
+
+Makes me wonder if I’ll finally meet some of the higher ranking Death Spirits. Sapient ones instead of all the non-sapient ones I’ve been summoning thus far.
+
+That’ll be interesting. And so will seeing the Void Temple’s home planet. A place that the internet doesn’t even have pictures of.
+
+“Is this what most of your travels are like?” Leone asks while sitting down next to me with her hands behind her in the snow supporting her.
+
+I glance at her before looking at the battles again as I answer, “Well, kind of. I generally go through a period like this in every new world before settling in and just hunting for years while occasionally reading.”
+
+Silence fills the cliff we’re on with the only sounds being that of the battle.
+
+“Huh,” she frowns while looking out at the battle herself. “Sounds like it’ll be a strange time for me.”
+
+I glance at her, feeling a frown of my own tempting my lips. Only to look at the Death Spirits down below.
+
+Did she just call my lifestyle strange?
+
+How rude.

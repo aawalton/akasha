@@ -1,0 +1,99 @@
+---
+id: f5e3a560-0c59-59b8-b7d3-005f967dac4f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 76"
+slug: 0077-chapter-76
+partOf: death-healer
+position: 77
+ownLength: 1089
+unit: words
+publishedAt: 2025-10-03
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2649522/chapter-76"
+royalRoadId: "2649522"
+---
+
+A veritable inferno of white flames enveloped the Liches at once, making them all screech in pain until they turned to ash and embers that fell from the sky in spirals.
+
+"What the–?"
+
+Before Lily could put her thoughts into words, a second blazing explosion erupted, and this time, it was right around them.
+
+All the Undead that had been pushing to get to them turned to ashes in a second.
+
+This overwhelming power, Lily thought to herself. The Holy Flame? Caesar?
+
+She wondered if Caesar had found her. He must have known where the old Gens Claudia's villa was. But why now? How could he tell that—
+
+A young man with heroic features slowly walked through the flames, which parted in the most docile of ways for his passage.
+
+Lily immediately recognized the handsome face.
+
+It was her cousin.
+
+"Cassius!" she said, relieved. Then, however, she looked around once again as the flame expanded outwardly and burned every single monster to ashes. Cassius just looked at her and Sabinus with a neutral expression.
+
+Sabinus and him were in the same year. Sabinus fought him for the spot of Champion... yet, Cassius is just so much stronger.
+
+Cassius's flames slowly disappeared as the last dredges of the Undead were burned to death. Then, all that remained was silence and the distant crackling of a few licks of fire finishing their job.
+
+Lily swallowed and, under the gray clouds of the Dead Lands, wondered what was about to happen next.
+
+Had Cassius seen her use Death Magic? If so, was he ready to attack her, to execute her on the spot? Or was he here to arrest her?
+
+And if he tried, what could she and Sabinus do? Whatever level Cassius had reached... he was far above them both.
+
+Sabinus walked to her side, which made for a slight comfort, albeit not enough to make her feel safe.
+
+Finally, Cassius spoke.
+
+"Cousin," he bowed his head. "I see that you have gained a Class. Congratulations. In His Light."
+
+"In His Light," Lily bowed her head in response, following etiquette. "Your words are very kind, Cassius. May I ask—how did you find us?"
+
+"That would incriminate both of you," Cassius smiled. "Perhaps I shouldn't say. I think it's time for you to go back home, Liliana. You must talk to your father about your Class."
+
+He saw me using Death Magic, of course.
+
+However, Cassius wasn't having the reaction that Lily had expected from him. It felt like the young man in front of her was suggesting that she brainstorm with her father about what to do next. This was a clear breach of the laws of the Papacy, which decreed that anyone found practicing forbidden magic, Skills, or Classes had to be immediately taken to the Inquisitors, the specialized branch of the Gens Iulia that dealt with those who didn't follow the laws.
+
+Surely, imprisoning Lily would have been a political scandal with very few equals. But she wouldn't be the first scion of a Great Family to dabble in the forbidden.
+
+"Are you going to turn her in?" Sabinus asked bluntly.
+
+Lily cringed.
+
+The fox-looking young man clearly couldn't thread fine lines when it came to Cassius.
+
+He didn't understand what Cassius had been doing so far, how smart Lily's cousin was in trying to avoid discussing anything about the current situation.
+
+Perhaps, the old Lily wouldn't have understood what Cassius was doing, as naive as she had been. But with the memories and knowledge of Liliana Ember, the sly doctor in training who had managed to manipulate even the Board of Directors of her hospital, she immediately knew what her cousin was up to.
+
+He saw how strong I am, Lily reasoned. And if he was afraid of it, he would have killed us both. It wouldn't have made sense for him to try and save us in the first place. He could have just claimed that he found our remains after we turned into Undead ourselves. He might have been even rewarded for such an effort.
+
+But that wasn't what Cassius had done.
+
+No, Cassius had chosen to save both their lives. And that mattered.
+
+It matters because, in the entangled politics of the Church, Lucretia would have left us to die or brought us in front of the Inquisitors. Lumius might have done the same of his sister. But Cassius hasn't.
+
+Now, Lily knew that there was no way to know the exact motives that had pushed Cassius to make such a choice. Yet, she had a pretty good idea of it.
+
+I think Cassius sees the problem of the Necromonarchy as something that we have to resolve at all costs, unlike the Pope, his Father. That means that, when he saw my powers, he might have seen a weapon. And if he saved us—if he saved me—he must have chosen to wield it rather than just destroy it out of fear it would one day turn against him.
+
+Lily didn't have any qualms about being seen as an asset. She knew she was one. She knew that, with the power now at her fingertips, she would one day be capable of incredible deeds.
+
+The only question was whether she would live long enough to realize her potential.
+
+And it seemed like Cassius was interested in making sure she did.
+
+At least for now.
+
+"For what, Sabinus?" Cassius looked at someone who clearly couldn't call himself a rival anymore. "Are you suggesting that there was anything illegal going on here? If there was, do enlighten me. I didn't see anything. I just stumbled upon you two while I was training in the deeper parts of the Dead Lands. I heard that you two were doing the same, no? You used Lily's family villa here as an encampment of sorts since you're both so committed to killing the Undead and becoming weapons against the Necromonarch."
+
+Lily smirked.
+
+Nice backstory, she thought and then she walked forward, patting her cousin on the chest.
+
+That clearly startled Cassius, who hadn't expected her to act so familiarly with him. They had grown up together, but Cassius had not seen Lily—or interacted with her in any meaningful way—in years. But what Cassius didn't know was that the person in front of him wasn't just the Lily he used to know. She wasn’t the same Lily he had to help his Aunt Adriana with. This was a new person forged by two souls.
+
+"Let's go home," Lily said. "I miss my mom."

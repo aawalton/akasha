@@ -1,0 +1,179 @@
+---
+id: 091137e2-7baf-5a58-beec-2a79c13d405d
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 57"
+slug: 0063-b1-chapter-57
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 63
+ownLength: 1959
+unit: words
+ownProgress: 1959
+publishedAt: 2024-01-27
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1496812/b1-chapter-57"
+royalRoadId: "1496812"
+markedReadAt: "2026-06-29T19:08:03.082Z"
+---
+
+Aria
+
+I let out a relieved sigh after killing the former emperor. And without any hesitation, I devour his core in its entirety.
+
+Torture is very unpleasant. It’s best to just kill someone as quickly as possible.
+
+Even when it was someone who really deserved it, I just don’t like that sort of thing.
+
+But I just couldn’t stop myself.
+
+Anyways, I turn back around to find the First General looking shocked between me and the five Lesser Minor Death Spirits who are currently reentering their rifts.
+
+The woman looks rather alarmed, to say the least.
+
+“Is what you said true?!” she practically shouts. “Are you Death?!”
+
+I tilt my head and nod towards the dead guy as I comment, “Pretty sure I just said that I was to this guy.”
+
+She shakes her head and takes a deep breath. Then she snaps her fingers, making the cell door open, following which dozens of soldiers enter the room with guns aimed at me.
+
+“Damnit, Aria…” the First General mutters. “Couldn’t you have just not have been a Horsewoman of the Apocalypse? I can’t protect you from this…”
+
+I snort at that, finding the irony rather amusing considering the situation.
+
+“Nah, no need for protection,” I tell her while putting my hand into my pocket and summoning the silver coin the merchant gave to me into my hand within. “I already knew you were just using me to get to your own goal of having the most power in the Republic. Same with the others in the team. The only reason I never said anything or stopped you was because you were giving me exactly what I wanted.”
+
+The First General looks surprised for a moment before asking, “How long have you known?”
+
+“For a while now,” I tell her with a shrug. “Doesn’t matter much anymore. I at least know you won’t use this against my team. So it’s all good.”
+
+That seems to confuse her for a moment, but then her face grows darker and more serious as she raises her voice, ordering, “Major Aria Crimson, for the crime of having a blacklisted class, you are hereby demoted and stripped of rank. You will be placed in prison until a sentence-”
+
+“Yeah, no,” I tell her, surprising her so much that her face just blanks. “Sorry, not sorry.”
+
+Her face grows dark as she asks, “Do you really intend to fight your way out of here?”
+
+I raise a brow at that and pull out the coin from my pocket while raising it up to the light that is shining through the open door of the cell while saying, “Who ever said anything about fighting?”
+
+She seems to realize what I mean just a single second before I activate the coin by inserting some of my soul energy into it, because the last thing I hear before a loud warping sound envelops me is her shouting, “Get that coi-!!!”
+
+Then I find myself standing on some sort of bridge while being soaked by the rain in the dark of night. The bridge itself seems to lead to some sort of dock, meanwhile all I can see around me is ocean. Just endless ocean for as far as the eye can see, with some cities on smooth white pillars sticking out of the waters.
+
+The bridge I’m standing on in particular is very low, closer to the ocean’s surface. Meanwhile the pillars for the cities above are quite a bit higher off of the water’s surface.
+
+As for the cities themselves… they look… like a lot of bright lights in glass buildings. Not sure how else to describe them.
+
+Quite a bit further ahead than the technology on Vortel, that’s for sure.
+
+I look around for a bit, finding several ships on the dock connected to the bridge, but no people.
+
+Eventually I turn to the other side of the bridge, where I find it connected to some sort of building. One that looks kind of like it’s cloaked or under an illusion. But I’m still able to see it.
+
+Maybe because I’m on the bridge already?
+
+The rest of the bridge further away from the docks looks the same as the building after all.
+
+I slowly walk across the bridge, not bothered by the fact that it’s nighttime here whereas it was daytime on Vortel. Since it’s a different planet and all, something like that’s just to be expected.
+
+As I walk, the bridge solidifies, making it clear that to see it, you have to be on it. And when I reach the building itself, I find a rather nice looking building. Also made with a lot of glass and lights, but this time, it just feels… I don’t know, more fancy than the above cities.
+
+I find a door on the bridge, and after a brief hesitation, I knock on it.
+
+Just a moment later, the door speaks to me.
+
+[Lifeform detected. Running analysis… analysis complete. Lifeform contains the estimated amount of death energy. Lifeform now identified as Lady Death. Touch the door again to enter, then follow the arrows.]
+
+I stare at the door for a few seconds, wondering what just happened. And if there are living doors here or something.
+
+But then I remember some of the things the advanced worlds in the universe could apparently do.
+
+Probably just one of those things.
+
+Best not to get too surprised by everything I find.
+
+I tap the door again, and the thing opens on its own, startling me for a second. Then, after a brief hesitation, I walk through the door and down a hallway. Then another hallway. And another hallway.
+
+And I begin to wonder how a house this small could have so many long hallways.
+
+The hallways at least look nice though. A lot less high tech looking than the exterior of the building. More wood, stone, and like a lake house instead. With occasional windows that show me the beautiful waters outside reflecting the light of the full moon high in the sky.
+
+I have to say though, despite these long hallways, the technology I’m passing by as I walk… things like little machines moving around and cleaning, automatic doors that open as I walk, these arrow things, and even the lights that turn on when I pass under them… they’re rather convenient.
+
+Honestly didn’t plan to spend any time in this world, but maybe it wouldn’t hurt to spend a few years here.
+
+I’m immortal after all.
+
+What’s a few years to my endless life?
+
+Originally I’d just planned to be a bit of a wanderer. Going around traveling the universe, from one world to the next. Seeing what everything is like. What all of the planets have to offer.
+
+Nothing else to do in my boring eternal life after all.
+
+Might as well see everything.
+
+But that doesn’t mean I can’t stay for a few years or so at each place.
+
+I continue going down the endless hallways until finally I arrive at a door. One that opens the moment I stop in front of it.
+
+And on the other side of the door is the man I recognize from the projection.
+
+The Emperor of the Eternal Dynasty is… not what I expected him to be. He’s just casually sitting on a chair by the window looking out of it with his legs put up on a table nearby and a silver coin in his hand, going from between one pair of fingers to the next.
+
+Not really what I picture when I think of an emperor.
+
+He’s wearing a red and white suit that fits a merchant rather well, and has red and white curtains pulled high up next to the windows with some random silver vase and a teacup on the table next to his boots.
+
+After I step into the room, the door behind me closes and he takes his boots off of the table before turning around and leaning back in the chair while crossing his legs, revealing the black vest and white tie he’s wearing. Or some sort of tie. One with a lot of ruffles.
+
+He looks me up and down for a moment, showing what I think is a very brief flash of recognition in his pure white eyes before saying, “Looks like you finished your business. Did you accomplish everything you wanted to do?”
+
+I nod my head while frowning slightly as I realize he doesn’t have a number above his head.
+
+The emperor seems to notice what I’m looking for as he waves his hand and says, “You can’t see the level of someone who is over one hundred levels above you.” Then he leans forward slightly and asks, “So what is it you want, Death?”
+
+I feel taken aback for a moment at that question, since I don’t think anyone’s asked me it for as long as I can remember.
+
+So I walk over to the window and look out it at the waters, contemplating the question for a little while. And after I think I finally have the answer, I turn to him and state, “I want a break.”
+
+He looks surprised for a second before a smile covers his face and he says, “I think we can give you that.” The man turns in his chair again to look out the window as well. “You may have three years. Spend your time on Eternus however you please during this time. But once the System restrictions are gone on Vortel, I don’t want you here where the Grand Roan Empire might pick a fuss.”
+
+I look at him, more than a little surprised by the generosity he’s showing.
+
+Only for him to wave his hand at me and then raise the coin towards the light of the moon as he says, “I’m just picking up a future business prospect.” He clenches his fist around the coin, making a wave of white electricity run through the unknown metal. “And who better as a business partner than Death herself?”
+
+That has me raising a brow for a second before I look out the window again, finding myself staring at the beautiful full moon high in the sky.
+
+Fighting almost nonstop for ten years with only a few short forced-vacation periods within…
+
+The thing I want most right now really is just some time to relax.
+
+And to not be fighting and at war.
+
+Then I can move on again to the next world.
+
+Of course, I’ll make sure to find some sort of job or hobby that has me killing things to make sure my level rises. Like fishing or something.
+
+But I want to be able to relax for the first time in who knows how long.
+
+I smile slightly as I look up at the full moon, remembering the faces of the comrades I finally made before leaving that world.
+
+Out of nowhere, I feel myself blinking in surprise as a realization comes to me.
+
+Huh.
+
+I started calling Hannah by her first name in the end, didn’t I?
+
+That has me staring for a few seconds before my smile returns again.
+
+Yeah. A real friend for the first time in years.
+
+Silence fills the Emperor’s… wherever we are as we both stare out the window.
+
+I feel my smile grow as I feel more relaxed than ever before. My stresses and worries, mostly gone. No more Lysandre, no more war, and no more combat.
+
+At least for now.
+
+Those searching for Death won’t just give up since I’m here after all.
+
+There will come a time when I will have to fight again.
+
+But for now, I think I’ll enjoy my peace.
+
+I worked hard for it after all.

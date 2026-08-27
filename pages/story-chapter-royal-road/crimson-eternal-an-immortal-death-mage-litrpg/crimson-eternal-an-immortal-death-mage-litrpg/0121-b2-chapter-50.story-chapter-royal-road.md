@@ -1,0 +1,133 @@
+---
+id: 271d6aa3-ec48-5f8b-b944-4d11136ad24e
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 50"
+slug: 0121-b2-chapter-50
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 121
+ownLength: 1458
+unit: words
+ownProgress: 1458
+publishedAt: 2024-03-06
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1544044/b2-chapter-50"
+royalRoadId: "1544044"
+markedReadAt: "2026-06-29T19:10:04.380Z"
+---
+
+Aria
+
+After our little negotiation session finishes, the wall of water is taken down and all of the princes and princesses begin to introduce themselves to me.
+
+Starting with Little Blue, who is no doubt making an official introduction instead of her rather informal one before.
+
+“Hello, Lady Crimson, my name is Nerissa Atlantus Azurion, and I am the ninth in the line for the Atlantean Throne, and the Fifth Princess,” she says with a little bow before raising her head again with a bright smile on her face. “I look forward to spending time with you!”
+
+Then her older sister, the teenage princess, goes next.
+
+She stands up from her throne and makes a slightly deeper bow than her younger sister as she says, “Hello, Death, my name is Selenia Atlantus Caelum. The eighth in line for the Atlantean Throne and Fourth Princess.” She raises her head again with that same passionate, excited look on her face. “If time allows, I would like to spar with you soon.”
+
+I glance at the king and queen before nodding my head to the princess after they give a subtle tilt of their heads, acting as permission granted.
+
+Don’t want to hurt their princess or anything after all.
+
+Although, the princess is actually a higher level than me.
+
+Little Blue’s level is about level fourteen, and her older sister’s level is about level thirty-four. Which kind of puts my own level to shame.
+
+The princess in question looks even more excited after getting my agreement.
+
+Then Azura goes next despite us having known each other for years.
+
+“Hello Aria, my name is Azura Atlantus Althea, and I am the seventh in line for the Atlantean Throne and Fourth Prince,” he says with a grin on his face. “I hope you’ll continue coming to my cafés for as long as you live.”
+
+That has me smirking in amusement before he steps back again.
+
+Next up is a princess who is actually dressed in what looks like military attire. And she looks the most serious of the bunch as she stands up and gives a different kind of salute than the others. This one simply being her putting her fist against her chest and her other behind her back as she bows her head a little and says, “Hello, Lady Crimson, my name is Koralis Altantus Aquarius, and it’s a pleasure to meet you. I’m the sixth in line for the throne and the Third Princess.” She raises her head again. “I hope you will come to spar one day with my mercenaries.”
+
+She seems nice.
+
+As for her request, I go ahead and nod my head, giving her an agreement on that.
+
+During our trip here, Azura explained how the royal family works. With each prince and princess begin given a mercenary company to work with, with the nation itself being a mercenary and neutral nation. Where they sell out mercenaries to other nations and even amongst themselves. Both for combat and any other sorts of jobs beyond just combat.
+
+And the main companies are the ones owned by the royal family. Which is generally eleven companies. Enough for nine princes and princesses along with the king and queen each to be in charge of one.
+
+Actually, according to Azura and Little Blue, the entire reason their parents went ahead in the past couple decades and tried for more kids was to have owners to give the last two companies to. Since they didn’t want to keep looking after them themselves.
+
+Of course, they still love all of their kids even if that was why they had them. But it’s rather odd to think about the age gap between these siblings.
+
+May not be odd for them though, considering that their parents are thousands of years old.
+
+Anyways, the next one had stood up and begun bowing during my thoughts.
+
+This one is a prince who is wearing darker colors than the rest, with some hints of black on his military-ish uniform that aren’t on the others. And he also gives a very military style salute as he says, “Typhon Atlantus Neptune, at your service, my lady. Fifth in line for the throne and the Third Prince.” Then he raises his head with a rather playful look on his face that seems to irritate his siblings. Especially his sisters. “I hope we can meet again soon.”
+
+Why do I feel like I’m being hit on?
+
+I… I’m just gonna ignore him.
+
+And with that, the next one steps up. This one actually being the princess who called in the carriage. I think Azura called her Mari or something.
+
+She’s also on the other side of the king and queen than the others before her.
+
+“It’s a pleasure to meet you in person this time, Horseman of the Apocalypse,” she says with a light but respectful smile. “My name is Marisandra Atlantus Sirenna and I’m the fourth in line for the throne and the Second Princess. You may call me Mari if you wish.”
+
+I nod my head before turning to the next one.
+
+To my surprise, both of the next two royals stand up from their thrones simultaneously and introduce themselves in sync.
+
+“Hello, Beloved Lady of the Spirits of Death, I am Nauticus Atlantus Aquarion, and I am the third in line for the throne and the Second Prince,” the first one says at the exact same second the second one says, “Hello, Beloved Lady of the Spirits of Death, I am Azarus Atlantus Aegir, and I am the second in line for the throne and the First Prince.”
+
+Then they both bow at a ninety degree angle and state in sync, “I hope you enjoy your stay on our world.”
+
+I smile at the two, both of whom look absolutely identical, all the way down to their outfits.
+
+Except the soul energy I can sense coming off of their bodies. That’s the only difference.
+
+Something most people wouldn’t be able to tell.
+
+Azarus’s soul energy is stronger than his younger twin’s.
+
+Both of them are wearing formal suits of that same blue and white color, with shoulder length aqua blue hair parted in the exact same way flowing in the water behind him.
+
+Also, I can’t help but realize something now.
+
+How am I speaking underwater?
+
+The last royal steps off of her throne before I can figure out any sort of answer though.
+
+And immediately, I feel something slightly different about this one. More soul energy for one, but also some death energy. Meaning she’s probably a death magic user of some sort.
+
+She’s also the most elegant one when it comes to her outfit and even her smallest of movements, with her long aqua blue hair flowing over her bare shoulders as she looks at me with a somehow elegantly tired expression on her face. Albeit still with a small smile.
+
+“Hello, Aria,” she says, surprising me with her lack of any titles or anything. Just my name. Nothing more. “My name is Azurona Atlantus Nauticus, and I’m the successor to the Atlantean Throne and the First Princess.” Then her smile grows a little and she adds, “Please look after my sisters for me.”
+
+Huh. She seems nice.
+
+“Sure,” I tell her with a nod, making her smile widen a little and a small amount of the exhaustion leave.
+
+Then she sits back down and the king and queen both stand up, reminding me that I never actually got their introductions.
+
+“My name is Atlanta Atlantus Borealis, the Ruling Queen of Atlantis,” the queen says with a smile.
+
+“And my name is Arthur Nereides Atlantus, the Ruling King of Atlantis,” the king says, also with a smile.
+
+“Welcome, once again, to Atlantis, Ageless child,” both rulers state simultaneously. “It would please us greatly if you would attend the Winter Ball.”
+
+I blink at that before opening my mouth to speak, only to pause.
+
+Eh, might as well.
+
+It might give me a look into Atlantean nobility, not to mention their mercs.
+
+And that can’t hurt, right?
+
+At least I don’t think it will.
+
+“Of course,” I tell them with a smile.
+
+The ruler’s smiles grow wider, meanwhile Azura gets a slightly amused look on his face for some reason. Then the queen snaps her fingers, making some sort of blue barrier I didn’t notice before around the room shatter – most likely some sort of sound proofing – following which servants begin entering the room.
+
+“Please prepare our honored guest for the ball,” the queen declares, making the servants – all maids – bow to her before beginning to herd me out of the room, the door closing behind us.
+
+Uh… what did I agree to, exactly?

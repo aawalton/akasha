@@ -1,0 +1,557 @@
+---
+id: 293cb1db-8fab-5e2b-828c-f824ce8b29c0
+page-type-slug: story-chapter-royal-road
+title: "052: Specialization"
+slug: 0052-052-specialization
+partOf: delve
+position: 52
+ownLength: 2622
+unit: words
+publishedAt: 2019-10-13
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/412697/052-specialization"
+royalRoadId: "412697"
+---
+
+Training Overview
+
+Skill Experience Earned
+
+Refrigerate: 7132 [Rank Up] [Rank Up] [Rank Up]
+
+Winter: 1934 [Rank Up]
+
+Velocity: 12202 [Rank Up] [Rank Up]
+
+Immolate: 9674 [Rank Up] [Rank Up] [Rank Up] [Rank Up]
+
+Aura Synergy: 8133 [Rank Up]
+
+Aura IFF: 8231 [Rank Up]
+
+Force Ward: 12750 [Rank Up] [Rank Up] [Rank Up]
+
+Attributes
+
+Richmond Rain Stroudwater
+
+Level 18
+
+Experience: 22749/22750
+
+Dynamo
+
+Health
+
+200
+
+Stamina
+
+200
+
+Mana
+
+5100
+
+Strength
+
+10
+
+Recovery
+
+10
+
+Endurance
+
+10
+
+Vigor
+
+10
+
+Focus
+
+10
+
+Clarity
+
+200
+
+Free Stat Points
+
+0
+
+Statistics
+
+Total
+
+Base
+
+Modifier
+
+Health
+
+200
+
+200
+
+0
+
+100%
+
+H.Regen
+
+100/day
+
+100/day
+
+0/day
+
+100%
+
+Stamina
+
+200
+
+200
+
+0
+
+100%
+
+S.Regen
+
+100/day
+
+100/day
+
+0/day
+
+100%
+
+Mana
+
+5100
+
+5100
+
+0
+
+100%
+
+M.Regen
+
+94.5/min
+
+12.6/min
+
+-3/min
+
+773.6%
+
+Movement Speed
+
+10
+
+Perception
+
+10
+
+Resistances
+
+Heat
+
+Cold
+
+Light
+
+Dark
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+Force
+
+Arcane
+
+Mental
+
+Chemical
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+Skills
+
+Aura Metamagic
+
+Tier 0
+
+Amplify Aura (10/10)
+
+Multiply aura intensity by 200%
+
+Multiply aura mana cost by 300%
+
+Extend Aura (10/10)
+
+Extend aura range by 10 meters
+
+Multiply aura mana cost by 300%
+
+Tier 1
+
+Aura Focus (10/10)
+
+Focus on an aura to boost its output
+
+Multiply aura intensity by 300%
+
+Multiply aura range by 300%
+
+Multiply aura mana cost by 300%
+
+User loses all external senses while focusing
+
+Aura Synergy (9/10) Exp: 5019/7400
+
+Increase all aura output by 0.9% for each rank in any aura
+
+Effective boost: 68.4%
+
+Tier 2
+
+Aura IFF (10/10)
+
+User may exempt entities from direct aura effects at will
+
+Selected entities receive 0.0% aura output
+
+Defensive Auras
+
+Tier 2
+
+Force Ward (6/10) Exp: 4100/6400
+
+Increase physical resistance by 30.312% for all entities
+
+Range: 10.1 meters
+
+Cost: 1 mp/dmg mitigated
+
+Magical Utility
+
+Tier 0
+
+Intrinsic Clarity (10/10)
+
+Multiply base mana regeneration by 300%
+
+Intrinsic Focus (10/10)
+
+Multiply base mana by 300%
+
+Tier 1
+
+Channel Mastery (10/10)
+
+Allows intuitive control of channeled skill intensity
+
+Minimum skill intensity: 0%
+
+Maximum skill intensity: 200%
+
+Skill mana cost modified by intensity adjustment
+
+Tier 2
+
+Magical Synergy (10/10)
+
+Enables limited synergistic cross-coupling of magical attributes
+
+25.0% of Focus contributes to M.Regen
+
+25.0% of Clarity contributes to Mana
+
+Offensive Auras
+
+Tier 0
+
+Immolate (10/10)
+
+124-141 heat (fcs) damage per second to entities and environment
+
+Sufficient damage causes ignition
+
+Range: 16.8 meters
+
+Cost: 50 mp/s
+
+Refrigerate (10/10)
+
+124-141 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 16.8 meters
+
+Cost: 50 mp/s
+
+Utility Auras
+
+Tier 0
+
+Purify (10/10)
+
+Purify poison, corruption, and contamination
+
+Range: 16.8 meters
+
+Cost: 100 mp/min
+
+Winter (10/10)
+
+Boost M.Regen by 168% for all entities
+
+Range: 16.8 meters
+
+Cost: 10 mp/hr
+
+Tier 1
+
+Detection (10/10)
+
+Sense selected items of interest
+
+Not occluded by mundane materials
+
+Resolution: 2.40 mm
+
+Range: 16.8 meters
+
+Cost: 10 mp/s
+
+Essence Well (10/10)
+
+Transfer mana to all entities within range, including user
+
+Transfer Rate: 16.84 mp/s
+
+Efficiency: 20%
+
+Range: 16.8 meters
+
+Velocity (10/10)
+
+168.40% boost to speed for all entities
+
+Range: 16.8 meters
+
+Cost: 10 mp/s
+
+Free Skill Points: 2
+
+Not bad. Not bad at all. Just two left to max.
+
+Rain smiled. Today was going to be a good day. He was feeling fully recovered, all of his offensive skills were maxed, and IFF was good to go. It was time to take on the dungeon again.
+
+This is going to be a walk in the park.
+
+He closed all of his windows and got up, stretching. He’d decided against spending a skill point on Mana Manipulation until they’d returned from the dungeon. Otherwise, he’d be tempted to just burn mana on it for training while they explored the lair, rather than focusing on the delve as he should.
+
+I’ve got some choices to make when it comes to skills. I can take that Aura Compression thing now, but I’m never going to get Prismatic Intent if I don’t actually put points in Auras. Mana Manipulation sounds necessary, but maybe I can just pay someone to recharge the armor instead. I don’t have many points left to play with if I want to get it before level 25. I really need to talk to this Staavo person. I might be hoarding these points for nothing. I’ll ask Ameliah instead. She probably knows.
+
+“Hey Ameliah,” Rain said. “You’re above level 25, right?”
+
+“Yes, what about it?” Ameliah said, looking at him.
+
+“How does the level 25 class upgrade work?” As he asked this, Jamus and Val looked over with interest. Carten was still asleep, and Tallheart was busy grilling a piece of crawler vine on Jamus’s griddle.
+
+“It’s pretty similar to the one at level 5,” Ameliah said with a shrug. “You get to pick a Class from those you meet the requirements for. The difference is, you also get to pick Specializations.”
+
+“What are Specializations, exactly?” Jamus said. “I’ve heard of them, but how are they different from what I already have? Arcane Mage isn’t exactly rare, but it’s definitely more specialized than the base class.”
+
+“So you are an Arcane Mage after all,” Val said. “I knew Mage was too basic for you. I pity anyone who gets stuck with it.”
+
+“Forget that,” Carten said, yawning and sitting up to join the conversation. “Pity the fools who get stuck with Worker.”
+
+Tallheart made an annoyed rumble. “Do not look down on others. I used to be a Metalworker.”
+
+Val scoffed. “Bah. I know someone’s got to make the armor and swords and stuff, but—wait. ‘Used to be?’ As in, you’re something else? As in, you’re above level 25 too? Fuck me. Rain, where do you find these people?” He looked between Ameliah and Tallheart, then sighed.
+
+Rain laughed, then shrugged. Damn. I could have asked Tallheart about class upgrades ages ago. Why didn’t I think of that? I can be a real moron sometimes.
+
+“Specializations are straightforward,” Ameliah said. She looked at Jamus. “You already have one, at least in effect. Arcane Mage raises the cap for the Arcane Mysteries tree, correct?”
+
+“Yes. So that’s all a Specialization is?”
+
+Ameliah shook her head. “No, not really. At level 5, you can only get something like a Specialization if you take a class that specifically focuses on one tree of skills. It’s not really the same. It isn’t as strong, for one thing.”
+
+Rain raised his hand. “What did you mean by ‘raises the cap’?”
+
+“All of my skills in Arcane Mysteries have a maximum level of 13, not 10,” Jamus said.
+
+Rain tilted his head. “Wait, I thought the only thing that could raise the cap of a skill was a rare enchantment. Tallheart said as much.”
+
+“I do not remember saying that,” Tallheart said. “Are you sure you are remembering correctly?”
+
+“Pretty sure,” Rain said. “Let me think.” He knew he’d discussed something like this with him, but the exact wording eluded him. Come on overmana, do your thing. He concentrated, trying to recall the conversation with Tallheart.
+
+…Damn it. I can’t remember. Maybe I can give myself a boost.
+
+He closed his eyes and activated Winter Nova. He was briefly distracted as he realized he needed to come up with a new name for that. Winter Focus? Endless Winter? It’s less like an explosion and more like a…never mind. Think. Tallheart. Clearing. Talking about skills…
+
+…
+
+…
+
+A hazy scene formed in Rain’s mind. He focused harder. He could see Tallheart’s clearing and the face of the antlered man staring at him. The surroundings were vague, like a dream. Only Tallheart’s face was in clear focus, wearing a pained expression as if something was bothering him. Then, his view flickered and Tallheart’s face was stern for a second before it snapped back into sadness. He heard himself start to speak, his words echoing strangely, fading in and out.
+
+[“Hey, you know what happens when a skill reaches rank 10?”]
+
+[“Yes. And you want me to tell you.”]
+
+[“Yeah”]
+
+[“You have mastered it. That is all.”]
+
+[“That’s it? No reward?”]
+
+[“Correct.”]
+
+[“Damn it. So ten is the limit?”]
+
+[“Perhaps not. It is possible to—”]
+
+[“How?”]
+
+[“Powerful equipment can increase the cap of a skill. My armor…”]
+
+Rain shook his head and dropped Aura Focus. “Woah. That was…wow. Go overmana. Sorry, Tallheart, you’re right. You didn’t actually say that. All you said was that an enchantment could do it. Not that other things couldn’t. Still, why didn’t you tell me about Specializations?”
+
+Tallheart shook his head. “I do not remember discussing this at all.”
+
+“Never mind, I guess,” Rain said with a shrug. I’m not even sure that is what he actually said. Everything was all…weird. I’ll have to play with flashback mode later. He turned to Ameliah. “Sorry, where were we? So at level 25, you get to pick a Specialization, even if you don’t have a specialized class? Does it raise the cap by another 3?”
+
+“No,” Ameliah said. “It increases it by 5. In Jamus’s case, he could specialize in Arcane Mysteries, adding 5 and bringing the cap up to 18. That’s assuming he sticks with Arcane Mage as the base class. Most specialized classes have a direct evolution that preserves or enhances the effects. That’s one of the advantages of taking one.”
+
+“That’s the plan,” Jamus said. “I might get there one day…”
+
+“Oh, so that’s how it works,” Val said, nodding to himself.
+
+Rain looked at him. “You didn’t know about this either? You’re about as focused as it gets.” Oops, light-based pun not intended. I don’t think they noticed. He shook his head. “You’re a Light Mage, right?”
+
+“Something like that.” Val grinned.
+
+Carten swatted him. “You’re making certain people very annoyed by refusing to tell us what it is.”
+
+Ameliah smiled. “I don’t blame him. Don’t even bother asking me what my Class is. I’m not going to tell you. I doubt Tallheart will either. It simply isn’t done.”
+
+“Mmm,” Tallheart rumbled. “I do not mind. I have grown to trust you. You are not bad, for humans. I…am a Runic Powersmith. I doubt you have met another.”
+
+Jamus laughed and patted Tallheart on the shoulder. “That’s for sure. Still, Tallheart, you shouldn’t really spread that around. You need to be careful.”
+
+Tallheart tilted his head. “They already know I am above level twenty-five. It makes no difference. Perhaps if you would stop bringing strange people to my clearing…” He trailed off.
+
+Jamus shrugged, holding out his palms in an expression that said ‘that’s fair’.
+
+“Runic…Powersmith?” Rain said. “Tallheart, how are you so metal?”
+
+“What does that expression mean?” Tallheart said, tilting his head. “You have used it before. I do not understand.”
+
+“Oh, right, sorry. Metal is a type of music. It’s like rock, but way more…intense? Sorry, you don’t know what rock is either… Damn. Also, there’s different kinds, whole sub-genres. If something is ‘metal’, it means…how do I describe this? I don’t think I can really translate without context. Let’s just go with ‘epic’. If something is ‘metal’ it means it is epic, but there’s a lot of subtext…”
+
+Carten laughed. “Little Mouse, you really suck at explaining things.”
+
+Rain smiled and shrugged. “So I’ve been told. Anyway, Runic Powersmith would be a great name for a metal band. What’s it do?”
+
+“It lets me make things that are epic,” Tallheart said.
+
+Rain grinned. “Tallheart, was that a joke, or are you being literal? Are there ‘epic’ items?”
+
+“A very small joke,” Tallheart said, the corner of his mouth quirked up slightly. For Tallheart, that was as good as a grin. “It provides bonuses to my metalworking and runecrafting skills that scale with Strength. The Specializations I have chosen further increase those skills.”
+
+“Specializations, plural?” Rain asked. He looked at Ameliah. “You get more than one?”
+
+“Yes,” she said. “Common class progressions like High Mage get two. Arcane Mage is Uncommon at level 5. The class progression would likely also be Uncommon, though I cannot speak to that. There could also be a Rare progression. That would mean either three or four available specializations. Legendary classes get five.”
+
+“Wait, Legendary?” Rain said. “How high do class tiers go?”
+
+“Legendary is the limit, as far as anyone knows,” Jamus said. “Of course, there are rumors of higher tiers, but no confirmed reports.”
+
+“I see…” Rain said. Dynamo is already Rare… “Does anyone know the class progression for Dynamo?”
+
+Ameliah nodded. “There are two. High Dynamo, which is Rare and has a similar requirement to the base class, and then…Legendary Dynamo, though that isn’t the real name. That gets personalized for all legendary classes.” Rain didn’t miss her glance at Tallheart as she said this.
+
+“What’s the requirement?” he asked. Tallheart really is a Legendary Blacksmith after all. That’s so cool.
+
+“Pure Clarity. Not a single point spent elsewhere,” Ameliah said.
+
+Rain looked up. “It can’t be that simple, can it? I was going to do that anyway...”
+
+Val laughed. “Ha. And I thought I was insane.”
+
+“You are,” Rain said. “Going straight Clarity is easy, compared to that crazy shit you had to pull. Soloing an essence monster? What the hell kind of requirement is that? Honestly, why doesn’t everyone take a monolithic if they know about the Legendary upgrade?”
+
+“Most adventurers don’t start with such a high cap,” Jamus said. “There is only one Dynamo that I’ve ever heard of reaching goldplate. Picking a class that starts off so weak is a gamble. People who do tend to get stuck working behind a desk in the Guild.”
+
+“Or they die,” Carten said. “You’re lucky you’ve got us around, Little Mouse.”
+
+Rain ignored him. “Who’s the other Dynamo? Anyone I’ve met?”
+
+“No, she died years and years ago,” Jamus said. “She’s somewhat famous in the Guild. Her name was Angela, I think, but most people just refer to her as ‘Endless’. If you believe the stories, she once kept up a barrage of Fireballs for three whole days.”
+
+That sounds like a name for a superhero, not an adventurer. Goldplate, huh? “Is there another class upgrade at level 50?”
+
+Ameliah nodded. “I don’t know much about it, though. It is…frustrating. Very few people in the entire world reach that level, and those that do don’t like to share.”
+
+Humm. ‘In the whole world’... So that big blue bastard Halgrave really is a big deal, and not just around here either. “Has anyone ever made it to level 100?”
+
+“Sure,” Jamus said. “The gods.”
+
+Carten looked at him. “Aww, come on Jamus. I didn’t think you believed that crap.”
+
+“I like it,” Jamus said with a shrug. “Gives us mortals something to strive for.”
+
+Rain paused. “At the risk of leading us off topic, are the gods…real? Do they…interact with people, or is it all just…belief?”
+
+“The gods care little for the affairs of mortals,” Val said. “At least, that’s what I believe.”
+
+“Bah, who cares, as long as they leave me be,” said Carten. “No god’s ever done nothin’ for me, and I don’t need em to. When are we goin’ back in the lair, anyway? I’m ready.”
+
+“Wait, Carten, I still have more questions,” Rain said.
+
+“You always have more questions,” Jamus said, laughing.
+
+Rain forged ahead, shifting back to his original line of inquiry. “So, Specializations, do they have requirements, or…?”
+
+“It is straightforward, as I said,” Ameliah replied. “There is a Specialization for every skill tree. The requirement is 5 skills in that tree, all at rank 10 or higher. Before you ask, no, there aren’t any hidden or rare Specializations. None that I’ve heard of, anyway. Just 5 points in a skill tree. That’s it.”
+
+Rain considered this, then pulled open his skills window. Oh. This changes things. I need to think…
+
+“Hah, that did it,” Carten said. “He’s starin’ off into space again. Let’s have breakfast while we wait.”

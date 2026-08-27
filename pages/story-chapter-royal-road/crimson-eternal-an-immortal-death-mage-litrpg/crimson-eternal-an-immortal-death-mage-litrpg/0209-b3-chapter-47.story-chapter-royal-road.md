@@ -1,0 +1,117 @@
+---
+id: e600b927-26ca-53b1-9a80-24998ec63813
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 47"
+slug: 0209-b3-chapter-47
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 209
+ownLength: 1477
+unit: words
+ownProgress: 1477
+publishedAt: 2024-09-25
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1820042/b3-chapter-47"
+royalRoadId: "1820042"
+markedReadAt: "2026-06-29T19:12:50.263Z"
+---
+
+Back with the Knights and enemy soldiers after Aria leaves
+
+Marc Val Night grits his teeth in both severe pain and anger as he glares at the woman who spent over half an hour doing nothing but torturing him. And while he knows full well that she didn’t do anything too bad to him, just some major burns that can be easily healed, his pride still feels severely damaged just by the mere fact that the woman managed to deal that much damage. Enough damage that if he didn’t have a healer then he would’ve been severely limited in his combat efficiency, even if it won’t kill him.
+
+But it’s not just the fact that she managed to do it to him, the Crown Prince of the Nightingale Kingdom. It’s the fact that she managed to avoid every last attempt he made to make her stop and didn’t even seem to be bothered by any of what was happening. All the way till his reinforcements and healer arrived from the Holy Dragon Kingdom.
+
+When the woman was a mere level sixty-two.
+
+An entire three hundred and twenty levels beneath him, and she managed to give him a severe burn and walk away without a scratch on her or her clothes.
+
+The crown prince even ignores all of the knights fighting against their forces. Since the knights are a mere lower ranking team from the Gray Order of Knights.
+
+Nowhere near strong enough to face off against the young Crown Prince of the Nightingale Kingdom or the Saint of the Holy Dragon Kingdom who is currently healing him.
+
+But that thought gives Marc pause as he glances away from the retreating woman to glare at the saint in question.
+
+Why is it taking so long for him to heal my wound? Did the Holy Dragon Kingdom lie about this man being a saint?!
+
+Marc quickly feels his already ignited anger growing even stronger as he shouts, “Finish up with the healing already! I need to chase that woman down!”
+
+The saint grimaces, no doubt at how Marc raised his voice at him. But Marc doesn’t care. He doesn’t follow the religion of the dragon like the saint does, so he has no reason to be respectful of the saint.
+
+In fact, if anyone needs to be respectful of someone, Marc believes the saint should be respectful of him.
+
+But even after his shouting, the look on the saint’s face just grows more and more confused even as a golden light repeatedly shines from his bare chest, the paladins and priests fighting against the knights several dozen meters away from them. Keeping them all at bay while the saint heals him.
+
+Eventually, to the crown prince’s confusion, the golden light fades without the pain going away. And after it does, he sees the burn from the woman’s black flames still clearly present with some sparks of black flames still coating the burns. Except without the black flames seemingly doing anything to him.
+
+Finally losing his patience entirely, the crown prince reaches forwards and grabs the saint’s collar with his fist as he growls out, “Heal me or it’s your fucking head!”
+
+The paladins and priests guarding the two grow tense as some of the paladins reach for their swords. Meanwhile some of the soldiers next to them begin pointing their guns at the paladins.
+
+But the saint just raises his hands, looks the crown prince directly in the eyes, and says, “I can’t.”
+
+Marc’s eyes begin to flare, releasing sparks of red flames as he growls, “Why. Not?”
+
+“The wound,” the saint says, his accent making the man purposefully speaking as few words as possible with every sentence. “Won’t heal. Curse.”
+
+The crown prince snarls before tossing the saint and trying to get up, only to grit his teeth as the pain of the burn on his chest continues to ravage him. And while it isn’t enough to kill him, it very much is enough to keep him from fighting at full force until it’s healed. Or even at half of his strength.
+
+Marc tries hard to search for the woman, but by now she’s far away from their battlefield, on the other side of the knights of the Grand Silvanian Empire.
+
+What the hell did that fucking bitch do to me?!
+
+He jerks his head to the side while shouting at the saint who is currently getting up, “Give me top quality potions! I need to heal this wound!”
+
+“Won’t work,” the saint says, frowning at the crown prince himself now.
+
+Marc’s eyes flare once more, making the saint sigh before he summons several glowing potions from a storage ring and hands them to Marc. The crown prince then chugs each and every one of them, making all of his pain and fatigue fade away except for the pain and fatigue caused by the burn on his chest. The spots covered by the black flames.
+
+“That fucking bitch…” he mutters, turning his head towards her again as he tries to begin walking in that direction. But his own soldiers immediately begin holding him back.
+
+“Your Highness, you must fall back!” “We need to research this curse! It’s too late to capture her!” “Please stop, Your Highness!”
+
+Due to his weakened state, the soldiers manage to hold him back after a tough struggle.
+
+Marc’s hate-filled gaze doesn’t leave the direction the woman left in, though, as he lets out one last hate-filled roar of pain and anger. Only for his soldiers to drag him into a portal leading towards their planet.
+
+His time on the battlefield cut short before it could even really begin.
+
+And not long after he comes back from Silverfall, he learns just who the woman was. Making the man feel a chill run down his spine the moment he does.
+
+But that doesn’t make his anger and hatred fade even the slightest bit. Not when he has a burn on his chest that won’t go away no matter how much he spends on healing it.
+
+Soon word begins to spread of the unhealable wound caused by the Horseman of Death, and the number of people willing to take contracts on her significantly lessens once more.
+
+Aria
+
+I let out another yawn as I finally make it to where Shirogane has been staying for the past several years. A rather fancy and high end inn located within the capital city of Silverfall. Some place whose name I can’t remember.
+
+Then again, I don’t remember a lot of names nowadays. It’s like they just slip my mind.
+
+Too many names to remember after all.
+
+Anyways, everyone is rather hectic within the inn. And the security sure packs a punch as I walk right through the lasers firing at me automatically, ignoring the warning sign about them meant for civilians.
+
+Clearly a privilege for the wealthy people staying at the inn.
+
+Of course, the knights stationed to guard the place just let me pass without question. Confusing anyone who sees me calmly walk inside while under fire from the automated security.
+
+After entering the inn, I walk up to the reception desk and ask the rather confused clerk where Shirogane is staying while giving him my name. And after a brief stunned silence, the man answers me, and I go on my way to the stairs.
+
+I trail my hand along the railing as I walk up the stairs, finding this place to be rather nice. Nice enough that I might consider staying here myself sometime.
+
+Although it’s likely expensive too. And while I can easily stay here for years upon years, it probably won’t be very good for my bank account if I stay here for decades.
+
+I continue going up the stairs until I arrive at the fourth floor, where Shirogane is staying. Then I proceed through the hallways, ignoring the knights I see along the way until I arrive at Shirogane’s room and ring the magic doorbell. Which is in the form of a button on the wall.
+
+It’s still rather disorienting seeing the blatant mix of medieval and modern in this world.
+
+The door in front of me magically vanishes, revealing Shirogane on the other side as he nods his head and turns around.
+
+Very disorienting.
+
+I walk through the doorway before the wooden door magically reappears behind me. Then I continue inside of the rather fancy looking common room of the suite as I ask Shirogane, “So, are you planning on doing it?”
+
+He doesn’t even turn around when he answers, “Yes.”
+
+Unsurprising.
+
+I walk over to a lovely looking sofa before sitting down as Shirogane grabs a bottle of wine and brings it over to me, sitting on the other side of the table from me. And while he passes me the bottle, he continues, “I’ll be dealing with this war personally.”

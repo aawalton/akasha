@@ -1,0 +1,287 @@
+---
+id: 1f70f1f2-7ce0-5d91-be49-45ccd20514fb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16"
+slug: 0017-chapter-16
+partOf: death-healer
+position: 17
+ownLength: 2667
+unit: words
+publishedAt: 2025-05-14
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2279675/chapter-16"
+royalRoadId: "2279675"
+---
+
+Lucianus and Hadrian had taken a detour before returning to a Dungeon the Patriarch of the Gens Claudia was supposed to be quenching in order to visit some archives of Tah-Seti—specifically, about the possible location of Khemet‑Sekara, the buried citadel where, allegedly, Apollonius had learned the Language of the Dead.
+
+However, they were currently inside Hadrian's tent while Marcus patrolled the perimeter, because Lucianus had heard the [Librarian] scream. Now, he stood in front of the dark-haired man who looked pale as a sheet and sweaty.
+
+"What happened here?" Lucianus asked, with a frown. "Have you managed to translate the book?"
+
+Hadrian sighed and shook his head, still shivering.
+
+"I've spent a great deal of my power and traded knowledge, Lucianus, in exchange for the Knowledge of the Nether."
+
+Lucianus raised an eyebrow.
+
+[Librarians] could access a shared repository of knowledge based on their level, how much knowledge they had shared, and how much knowledge they held. [Librarians] could access, trade, and dispense such knowledge. That was called the Knowledge of the Empyrean. Opposite to it, stood the Knowledge of the Nether.
+
+The Knowledge of the Nether, as Hadrian had explained to Lucianus, was an extremely dangerous state that [Librarians] could enter in order to try and access forgotten pieces of information that had been lost or forgotten, not present anymore in the great Empyrean repository.
+
+"Lucianus," Hadrian said seriously, wrapping himself in a blanket, "whatever Apollonius found… this is much greater than I thought. I've ventured in the Nether before, carrying the Flames of Knowledge of the Empyrean with me. But no Flame I can access managed to shield me. I had to bathe in the dark waters and the blood just to…"
+
+Hadrian's complexion turned green and he bent forward, feverish, and vomited the entire content of his stomach.
+
+Lucianus looked worried—he had never seen Hadrian like this.
+
+"Hadrian, are you sure you're—"
+
+The [Librarian] raised a hand. His Class was illegal and dangerous to use—this was nothing for him.
+
+"Lucianus," the man took a deep breath. "Apollonius found a much larger secret than we thought. Much larger. I could only access enough to translate the title of the book. We have to turn back immediately."
+
+"What? Don't we need to find Khemet-Sekara? Apollonius…"
+
+Hadrian shook his head.
+
+"Lucianus, we have to go now," Hadrian said, beside himself, eyes bloodshot. "You remember I told you that your daughter called this," Hadrian raised the book, "the Book of the Dead?"
+
+"What are you saying?" Lucianus suddenly went serious.
+
+"That's the actual name, Lucianus. This is the Book of the Dead. She can read the Language of the Dead."
+
+"How?" Lucianus was stunned.
+
+Hadrian gritted his teeth and Lucianus immediately understood.
+
+"How expensive?" The Patriarch of the Gens Claudia frowned.
+
+"Not much, just… I need the Perks of one of your Skills, in detail."
+
+Hadrian moved a hand forward and an orange flame appearead in his hand. Then, he extended his other hand, which was empty.
+
+Lucianus, having done this procedure many times, placed his hand above the empty palm, facing up, and started talking about the Perks of his [Heal] Skill.
+
+Soon, another flame appeared above Hadrian's palm and swelled to the same size of the other.
+
+"The price is paid," Hadrian exhaled. "Lucianus, your daughter's [Mana Sense] has reached the Master Stage."
+
+"What? Why didn't you tell me—" Lucianus stopped halfway, realizing what had happened. Hadrian must have known thanks to one of his Skills and that meant the knowledge was subject to the [Librarian] Class rules, which meant not only Hadrian couldn't give the information for free, but that Lucianus needed to ask for himself. A [Librarian] couldn't steer someone to ask the right questions unless they were ready to pay the price themselves.
+
+"You're sure about this?" Lucianus looked deeply into his friend's eyes.
+
+Hadrian nodded and then continued.
+
+"Mana Sense is perhaps one of the Skills with the most Perks, too. And… I suspect your daughter has one already."
+
+"Ok?" Lucianus frowned, not following.
+
+"A very rare one."
+
+"What does this have to do with her being capable of reading the Language of the Dead?" The Patriarch of the Gens Claudia frowned, keeping an eye on the two flames.
+
+"Mana Sense is a Perception Skill, Lucianus. Perception Skills have Perks that enhance, well, perception. I suspect your daughter's Perk allows her to peer into things. The Perks I suspect she might have—"
+
+Suddenly, the flame Lucianus had created started flickering.
+
+"Well, I can't tell you, apparently," Hadrian said, frowning. "But what I can tell you is that Lily has something special. Something that lets her see more than she should be able to."
+
+Lucianus took his hand away from Hadrian, looking at the tent's flap and then back at his friend.
+
+"If her Mana Sense is this high-leveled…"
+
+"It has been for a while," Hadrian smiled. "I suspect your daughter is much more talented than you, my friend. She takes after her mother, Lucianus. So, are we going back to Lumina?"
+
+Lucianus averted his gaze.
+
+"No."
+
+"What? Lucianus—"
+
+"We've got a campaign to finish. Let's finish gathering intel on Khemet-Sekara and then we go back to the Dungeon."
+
+"Why? Didn't you hear what I just said?!" Hadrian raised his voice, stunned.
+
+"I did."
+
+"Your daughter could be the Champion, Lucianus!" The [Librarian] said, feeling a small burn on his skin from his Class—he had just revealed some information for free.
+
+"She will never be," Lucianus said with finality. "She's a girl, Hadrian. I—I can't put her through that."
+
+"What?! Do you understand the kind of potential we're talking about, you fool?!"
+
+Lucianus turned toward Hadrian with a dark visage.
+
+"They said the same about my sister Claudia, and then I heard the same about Adriana. My daughter will be spared from that struggle and fate, Hadrian. Let's go."
+
+"Lucianus, she might be able to read—"
+
+"Even if she was," Lucianus said, looking sternly at Hadrian, "she shall never touch the Book of the Dead, Hadrian. If she ever did, there would be no going back. I'm not putting this curse on her."
+
+Lucianus left the tent and Hadrian, still in a daze, could hear him call for Marcus.
+
+Your daughter might have one of the most powerful, all-seeing Mana Sense Perks there are and, yet, you, her father, refuse to see the most basic truth.
+
+* * *
+
+"Darling, do you remember what I said?" Adriana stressed her words, feeling nervous. She wished Lucianus would come back for such an important event like the Healing Trial—at the end of the day, Adriana had joined the family as his wife but Lucianus was the Patriarch of the Gens Claudia.
+
+"To pick what Aunt Gentiliana tells me to," Lily replied, bored.
+
+"Good," Adriana nodded.
+
+The blonde woman was a mask of calm on the outside thanks to the years of training in the Gens Iulia, but she her insides were churning.
+
+They stood in front of the House of Claudius and many people were streaming beside them.
+
+"Milady Adriana!" A few called and smiled politely at her.
+
+"In His Light, Milady!"
+
+"May His Light Guide the young mistress!"
+
+Adriana smiled and waved at the many people from all the subordinate families of the Gens Claudia. She was about to step through the marble colonnade that led to the entrance when she saw a woman stop in front of her, barring the way.
+
+Immediately, the Lady of the Gens Claudia slightly tightened her grasp on her daughter, feeling a black fury take over her veins.
+
+"Lady Adriana, what a pleasure," the young girl said, smiling widely.
+
+It was considered rude to stop Adriana, who held the highest position here today, even higher than her sister-in-law, in the Family hierarchies. And everyone here was coming to either witness or bring the member of their family to the Healing Trial, which meant they all should have paid their respect to her.
+
+Adriana knew why this girl felt so bold and confident, and that made her want to rip off this young upstart's head off her shoulders.
+
+"What a beautiful child," the girl, not even in her twenties yet, said, bowing to Lily's height with an innocent smile. "This must be young mistress Lily. Hello, darling."
+
+Lily looked at the pretty girl in front of her and then turned to her mother with a frown and a quizzical expression.
+
+"Oh my, pardon my manners," the girl suddenly straightened with a girly giggle and a hand over her mouth. "I forgot to introduce myself. My name is—"
+
+"Livia Claudia Caudices," Adriana said with a large smile of her own. "And you are—"
+
+A whore.
+
+"A promising [Healer]," Adriana said, not missing a beat. "You must be here to oversee the Healing Trials, aren't you?"
+
+"Oh my," Livia said in awe. "You truly are all that they say."
+
+"What do they say, darling?" Adriana asked politely.
+
+You will die a horrible death, darling.
+
+"Everyone knows that you are so talented and intelligent, milady," Livia said, bowing her head. "I can't believe I'm finally meeting you in person. I remember seeing you when you were still—"
+
+The girl realized she was about to make a faux-pas.
+
+"It's fine, darling. You can say it—it's not a crime. As long as you don't use the title now."
+
+"When you were… the Princess. Everyone looked up to you. You were so regal—you still are! But you're not…"
+
+Livia was flustered and babbled, stumbling on her own words.
+
+"Not a Princess, anymore. Today, in fact, I'm just a mother getting my daughter over to the trial. I fear we must go, darling."
+
+"Of course, of course! I just wanted to say hi! I look forward to meeting you again, milady."
+
+"Me too," Adriana said politely, taking a hand to brush the girl's cheek. "You're quite gorgeous, Livia. And talented. I'm sure your future husband will be a very lucky man."
+
+"Oh my, milady, you make me blush," Livia replied, lowering her gaze. "Thank you, you're so very kind to me. I will pray that young mistress Lily will pass with flying colors—and for you too. I hope you'll have a boy next!"
+
+"I'm sure our Lord has one in store for me, or even more," Adriana giggled. "Have a good time, darling. In His Light."
+
+"In His Light, milady."
+
+Adriana didn't break her countenance as she walked past the young girl and entered the Healing House sponsored by the Gens Claudia. Not until she heard Lily ask something.
+
+"Mom," Lily said, "why don't you like that girl?"
+
+Adriana looked down at her daughter with a raised eyebrow.
+
+"What did you just say?" The blonde woman asked, her face an impenetrable mask.
+
+"Is that girl bad?" Lily frowned, looking over her shoulder to see if she could still spot her.
+
+How could she tell I don't like her? Adriana frowned.
+
+Adriana bit her lower lip, thinking what to reply.
+
+If she's so perceptive…
+
+Adriana just gave her daughter a curt nod.
+
+Lily nodded and turned ahead as if her mother hadn't said anything.
+
+Did she even understand?
+
+* * *
+
+The chamber they entered had three small fences made of dark iron. The closest one had a large bronze sigil on top—the first test a member of the Gens Claudia or its subordinate families would undergo. There were a few goats and rabbits with shallow cuts; these were wounds light enough for children under ten who just awakened their Light Magic. It was the same test both Lucianus and his sister Gentiliana had to pass at Lily's age.
+
+A wider ring with a silver sigil lay farther in. The beasts inside—a wiry mastiff, a yearling calf, two fat sheep—carried deeper gashes. These trials belonged to twelve‑year‑olds who had already passed the first and now had to seal larger wounds. From what Adriana knew, Lucianus, ever the show-off, had healed a small calf in the silver-graded trial when he was Lily's age.
+
+At the far end, under stained glass windows, rested the gold circle. A hush clung to that pen. Every creature there was dying. Right now, only one creature was there. A huge spotted pig lay on its side, breath coming slow and short. A bronze placard on the rail read: Poised Porcus — Level 20.
+
+None of the young [Healers] nearby dared step close.
+
+Adriana pulled her gaze back to the bronze ring. Gentiliana waited beside the bars. She lifted two fingers in greeting, then pointed to a pen where a snow‑furred rabbit sat quietly. The creature twitched its nose, unbothered by the narrow strip of scarlet cloth that bound its paw.
+
+Adriana felt the hard edge of a plan settle. Gentiliana had hidden a swallow‑sized crystal in that rabbit’s gut. The moment Lily sent her Mana into the animal the gem would flare, turn the spell white, and knit the shallow cut.
+
+One flash, one healed paw, and Lily would pass the first trial.
+
+Adriana looked at her daughter.
+
+Lily’s golden hair was braided and pinned, but a stubborn lock always escaped and danced over her brow. She rocked forward on the balls of her feet, part excitement, part impatience. Adriana squeezed her daughter’s shoulder to make her stay.
+
+"It's time, honey."
+
+Lily nodded absently, eyes already roaming the fenced enclosures. Adriana followed her gaze: goat, mastiff, white rabbit, but then Lily's eyes seemed to squint at the sight of the pig.
+
+Benches had been arranged in semicircles, rising like terraced fields. Most were filled by minor Claudii branches: the Claudii Caudices, the Nervii, the Calvini.
+
+A hush rippled across the hall. Two figures entered at the door: Prince Lumius in spotless ivory garments, and at his side Cardinal Tiberius—tall and with a crimson stole hanging like a blood‑line down the front of his vestments. A large golden gauntlet was at his right hand.
+
+Tiberius? Adriana frowned.
+
+Tiberius was her older cousin, twenty years older, and possibly the strongest member of the Gens Iulia at the moment, perhaps stronger than the Pope himself.
+
+His mere presence bent the air; lesser nobles rose to bow, some knocking knees against benches in their haste.
+
+Adriana felt Lily tense for some reason as Lumius and the Cardinal approached them.
+
+Tiberius had a large smile on her face, which Adriana mimicked back, but she knew very well that his true emotions could be anything at the moment.
+
+His mere presence indicated that something was off.
+
+"Cousin!" Tiberius smiled, stepping forward and hugging Adriana. "It's been so long!"
+
+"Tiberius," Adriana said with mirth, "you don't look any older than Ennius. I trust your wife must feel jealous of your skin."
+
+"Always the flatterer," Tiberius boomed with laughter, then turning toward Lily. "And you, darling, what a proper young lady you're becoming. I heard there was your Healing Trial today and I couldn't help but come take a peek. How are you feeling? Do you think you can do what your father did and take care of a silver-ranked trial today?"
+
+Lily looked at the man and blinked her deep blue eyes a few times.
+
+"Who are you?" Lily frowned.
+
+The man smiled and slightly bent on his knees to avoid towering over the little girl.
+
+"I'm your Uncle Tiberius, darling. Lumius told me about your trial and I wanted to take a look. Is that ok?"
+
+Adriana saw a smirk on Lumius's face which made her frown.
+
+Lily, however, wasn't bothered at all.
+
+"Sure, Uncle Tiberius," Lily shrugged. "Mom, can I go play with Lavinia after this?"
+
+"Lavinia Aemilia?" Tiberius asked.
+
+Lily turned sharply toward the man.
+
+"She just went through the Templar Trial of the Gens Aemilia."
+
+Adriana raised an eyebrow.
+
+"And?" The blonde woman asked.
+
+"I hear she passed," Tiberius smiled. "She challenged an ten-year-old boy and beat him—so, theoretically, she just passed the equivalent of your silver-ranked trial. Will you try and do the same, darking?”
+
+The Cardinal raised his gaze to meet Adriana’s, letting a small smile grace his face and meet his cousin’s eyes.

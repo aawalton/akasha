@@ -1,0 +1,125 @@
+---
+id: 979caeb1-c084-5e4b-b7b1-56912cee400e
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 18"
+slug: 0085-b2-chapter-18
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 85
+ownLength: 1604
+unit: words
+ownProgress: 1604
+publishedAt: 2024-02-05
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1507518/b2-chapter-18"
+royalRoadId: "1507518"
+markedReadAt: "2026-06-29T19:08:49.769Z"
+---
+
+Aria
+
+The trip ends up taking another two days on the waters to complete. And when we finally arrive, we don’t even stop at their capital itself. For obvious reasons as these bandit attacks kept continuing, so the Sullivans likely know we’re coming.
+
+Instead we stop several klicks – their term for kilometers – away from the capital, just barely in sight of it yet hidden behind trees. Then the ship activates some sort of cloaking method and moves off to a different location nearby after me and Shirogane got off.
+
+But not before we both get a rather large surprise in the form of Rory jumping out from below the ship using a hatch I didn’t even know was there. Apparently having been hiding so that the ‘bandits’ didn’t see her during our trip.
+
+I stare at her for a second from our spot on the coast, briefly pondering over just how uncomfortable it had to have been to spend four days below deck. Only to decide that I don’t really care and turn around to look at the capital in the distance.
+
+And at the Grand Tree located in the center of the capital.
+
+“According to my sources, the weapons production facility should be located in the fifth wing of the Grand Tree, on the tenth floor,” Shirogane says while narrowing his eyes at the large tree. “And it’ll take more than simply dressing up as a maid to get in there. Their security is pretty tough to get into the tree.”
+
+I can’t help but shoot him a glance at that, my eyes narrowed.
+
+How does he know about that?
+
+He doesn’t so much as acknowledge my look, so I eventually turn to look at the tree again while pursing my lips.
+
+Stupid emperor must’ve gotten the intel from the Star Merchants on Vortel and given it to Shirogane for some reason.
+
+“And since Aria can’t use disguising technology, we’re left with even fewer options,” Rory adds her two cents.
+
+Right. This may be a pain of a mission to deal with.
+
+The three of us stare at the Grand Tree for several seconds before eventually Shirogane turns to me with a frown on his face and says, “Getting in shouldn’t be too difficult at least.”
+
+I blink at that before asking, “What makes you say that?”
+
+Rory looks curious as well.
+
+But Shirogane just asks, “You said before that you barely feel any pain anymore, am I correct?” And when I slowly nod my head, he continues, “And your body returns to its original form without any damage no matter what happens or what objects may be interfering with the process?” I nod even more slowly this time, a worried look beginning to crest my face. “Then this plan should work.”
+
+“Just what sort of plan involves…” I begin only to trail off when he pulls several empty and not empty crates out of his storage ring along with an entire vehicle he no doubt got from the Byrne Clan. A vehicle made largely out of wood and metal with several wheels kind of like the hover cars on Eternus but with a much different frame and a large section in the back, designating it as a vehicle meant to move cargo.
+
+Then he creates several blades using his liquid metal as he says, “Miss Violet, please coat these blades in a poison you have never used on Miss Crimson.”
+
+My eyes widen slightly as they shift between the blades, a confused yet complying Rory, and the crates.
+
+And after a single second, I finally understand what he’s planning.
+
+He’s insane.
+
+The Gate
+
+Rory still feels like retching every time she looks at one of the many crates soaked in blood on the back of the large, metal and wooden vehicle they’re driving up to the gate. Because the image of what Shirogane resurfaces every time she sees them.
+
+She and Shirogane are using disguise enchantment rings to make them look like two completely different people, and Rory brought with her falsified documentation that should be able to bring them into the capital. However, if their assumption that those bandits were truly Sullivan raiders is correct, then their faces should all be known to the soldiers at the gate.
+
+Hence the disguises.
+
+And while she knew that Aria would have to use a different method to enter the capital, since the disguise enchantments don’t work on her and all – something Rory can’t help but feel a little curious about herself – she didn’t expect the method the Eight Star Merchant would use to do that. Nor did she expect the acceptance from Aria. Albeit with some minor reluctance.
+
+If only we could’ve made it into the capital in some other way…
+
+Unfortunately for the three, the Sullivan capital is one of the most secured cities on the planet thanks to the Sullivan Clan’s specialization in artifact creation. Only lagging behind the Nolan Clan in security, which specializes in enchantments.
+
+Rory’s thoughts are interrupted when they arrive at the gate where the thrall there stop their vehicle.
+
+“Documents, lad,” the man asks after walking up to the vehicle’s window. And after Shirogane hands him the documents, the man nods his head and says, “Looks clear.” Then he raises his head to look at the other soldiers and shouts, “Check tha back. Should be one passenger an’ some cargo.”
+
+The thrall move up to the back before Rory opens the door for them, getting a nod of appreciation from the thrall whose level is around a hundred. Only for the thrall in question along with the ones behind him to grimace when they see the bloody crates that are beginning to rattle very slowly.
+
+One of the thrall shouts back at the one standing by the window and asks, “What type of cargo?”
+
+That has the thrall flipping pages through the documentation before he grimaces and answers, “Chimera fodder for tha livin’ artifact division. Also some artifact creation tools.”
+
+Right. That’s what we filled it out as after coming up with this… plan.
+
+His answer seems to satisfy the thrall as he checks the crates that aren’t leaking blood and shaking, clearly wanting to stay away from them. And after finding nothing but the artifact tools in question, he gives a nod to Rory, stating, “Have a good day, ma’am,” and walks back out of the vehicle while closing the door behind him and the other thrall.
+
+Rory looks back towards the front of the vehicle and out the window there through the mid-section to find the high level guard at level two hundred handing the papers back to the Silver Merchant. Then he says, “Everythin’ looks good. Ya can pass.”
+
+He raises his hand with his fingers in an O, making the large metal gate creak open. And the Silver Merchant doesn’t waste any time as the crates in the back are beginning to rattle more and more. A clear sign that they need to hurry.
+
+Fortunately the thrall don’t hear the crates since they’d already left the vehicle. So the Silver Merchant merely drives the vehicle slowly through the gate. And immediately after the gate closes again behind them, the crates explode, making Rory back away from them as splinters rain through the back of the vehicle.
+
+Rory’s eyes widen and she has to fight to not retch at the sight of all the many body parts of Death herself rushing straight to each other while shining the entire vehicle with a bright crimson light before reforming into one body. One still somehow wearing her outfit.
+
+And she doesn’t appear very happy. Although she doesn’t look like she was in much pain either.
+
+The look Rory sees on her face is one more of discomfort than anything else.
+
+After a few seconds of the twenty-three-year-old woman kneeling on the floor of the still-moving vehicle, she finally looks up at Rory and mutters, “That was… uncomfortable.”
+
+I can imagine that.
+
+Rory blinks at that thought before shaking her head.
+
+Actually, I’d rather not imagine that.
+
+While Rory tries very hard to get the image of over a dozen cut apart body parts reforming together while still somehow wearing clothes over each part’s exposed skin portions out of her head, the young woman in question walks up to the middle part of the vehicle to look out past the Silver Merchant and at the road. Clearly interested in the structure of the capital city and somehow just blowing off the way she got into the city in the first place.
+
+After taking some deep breaths, Rory finally manages to say, “We ought to find a place out of sight to store the vehicle and cargo back into your storage ring without drawing attention.”
+
+The Silver Merchant grunts without saying anything in acknowledgement. Which Rory has come to realize just means an agreement when he’s talking to anyone who isn’t his contracted partner.
+
+Rory leans back against the wall of the vehicle, feeling drained for some reason. Despite her not having put in almost any work for this operation.
+
+She briefly glances at the ruined crates and takes note of how any of the blood that was there is now completely gone.
+
+Then she glances at the Horseman of the Apocalypse looking between the chairs with a largely expressionless albeit innocent look on her face.
+
+I wonder… just what would happen if her body parts were stored on entirely different planets?
+
+She stares for a few seconds before shivering at the memory of the crates shattering.
+
+Maybe I don’t want to know.

@@ -1,0 +1,115 @@
+---
+id: 7f387952-fb48-5979-a1c5-622da1f59d54
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,385 - Egged On"
+slug: 0062-chapter-1385-egged-on
+partOf: defiance-of-the-fall
+position: 62
+ownLength: 3106
+unit: words
+publishedAt: 2025-12-02
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2812931/chapter-1385-egged-on"
+royalRoadId: "2812931"
+---
+
+The Unvai Drakes were driven insane with anger from seeing their next generation smeared over Zac’s face and across the ground. The evildoer who had stolen their egg had disappeared without a trace after throwing it, and they turned their fury on the only other human on the shore. Runes ignited across their bodies, unleashing waves of draconic suppression. While their bloodline wasn’t as pure as the dragon Zac fought back in the Tower of Eternity, their strength was nearly two grades higher.
+
+The beach shook, wet pebbles smoldering and crackling wherever the drakes passed. They were fast becoming living calamities, holding sputtering reservoirs of volcanic magma within their bodies. Their two long tails, covered with steaming vents, allowed them to run at great speeds while tilting forward.
+
+Zac felt scorching heat coming from below as the silver sea behind him began boiling. The very air popped from the intense, destructive heat imbued into the domain. The beasts were able to harmonize their auras, creating an effect similar to a War Array. Most of the drakes were Late Beast Kings, with three even reaching the peak.
+
+Adding the ancient bloodline pouring through their veins, they posed a formidable threat. Zac stood straight against the mounting pressure, welcoming the billowing waves of superheated mist. Normal cultivators would have lost half their strength when faced with even a sliver of a true dragon’s tyrannical aura.
+
+Zac was no normal cultivator. The bloodlines coursing through his veins were no weaker than those of primordial dragons, and [Adamance of Eoz] fiercely rebuffed the inborn suppression. Zac’s eyes gleamed as he readied himself for battle. This was exactly what he needed to calm the storm within. And while the lineup looked daunting, it wasn’t like he’d have to face all of them at once.
+
+Each Unvai Drake stood just over five meters tall. Despite being smaller than most D-grade beasts, only three or four would be able to strike at a time. The rest of the pack would be squeezed out and limited to ranged support. Zac planned on taking full advantage of that, which meant infighting was the way to go.
+
+The stones beneath Zac’s feet exploded, and he shot out like a bullet. Dense clouds of Miasma spread across the beach as he closed the distance. Zac’s own domain skill was no match against the combined might of a score of infuriated drakes, especially when the ever-present rain kept undoing his efforts. Still, it was enough to put a lid on the growing heat that was turning the area into a caldera.
+
+As a bonus, the island’s dense Illusory Energy meshed well with [Fields of Despair]’s sense-blocking ability. The drakes roared with anger and wariness from having their vision obscured, but they only panicked when their senses were trapped in a pitch-black abyss. Their fiery runes ignited with further power, quickly overcoming [Abyssal Drive]’s secondary effect. That small delay was enough for Zac to seize the momentum and draw first blood.
+
+Darkness receded and was replaced by glowing red. A fountain of blood mixed with rain and flames as two scaly heads thumped onto the ground. Zac allowed the smoldering blood to wash over him before he disappeared, leaving only echoes of rattling chains behind. The next moment, he appeared before a third drake, his axe descending with brutal finality.
+
+The beasts were shocked at seeing two of their members fall so quickly. Instead of eliciting thoughts of retreat, it only triggered greater brutality. Zac had expected as much. The drakes were a feisty species from the get-go, and the significant amounts of corruption they carried would inhibit attempts at rational thought.
+
+Four of the beasts unleashed their dragon breaths, which in the case of Unvai Drakes were beams of superheated lava. It lacked the intense heat of true spiritual flames, but Zac still couldn’t take the torrents head-on. There was still only excitement in his eyes when he slightly adjusted his angle. His descending axe no longer targeted the drake’s neck, instead ripping open a deep wound on its chest.
+
+A burst of intense heat leaked out of the punctured lung. Zac allowed it to push him out of harm’s way, narrowly dodging the four beams of lava. Meanwhile, a pitch-black chain pierced the wall of heat, digging right into the wound before it could cauterize. The drake desperately thrashed, and Zac was forced to add further distance. It didn’t save the beast from death’s grasp.
+
+The third drake shuddered and spat out a gout of blood before collapsing. Streaks of deeper red joined the steady stream of blood pouring from the chest wound. It was the drake’s essence blood, which carried the most valuable parts of its draconic bloodline. The wound twisted and tore before a crushed heart, tightly wound in anthracite links, was ripped out.
+
+Zac only spared a sliver of his attention for the chain or the other five that were busy corralling and confusing the berserking drakes. He’d already stepped into Void’s hidden trajectories to appear before a fourth drake from a blind angle. Its eyes swiveled, and the runes on its chest suddenly erupted.
+
+A deafening explosion shook the beach, and pebbles shot out like cannonballs. Even a few of the drakes winced and were forced back from the incredible kinetic force instilled in the stones. A conflagration raged inside the epicenter’s crater. The angry flames looked like they could burn for all eternity, yet they shattered from a burst of death filled with murderous will.
+
+Zac emerged from the flames, singed but otherwise fine, holding a drake’s head in his free hand. Rivers of blood poured from the jagged wound, dousing the lingering flames. He took a deep breath before shooting out again, all the while savoring the changes to his body. He fought like a beast, releasing all restraints on his billowing Killing Intent. Yet beneath the madness was a crystal-clear mind.
+
+‘Blood… why is it so effective?’ Zac mused while a dripping chain delivered the crushed heart.
+
+Zac spared no time in coating himself with another layer of Essence Blood, and he once more felt the ancient Killing Intent hum with contentment as it stabilized further. Then, a few slivers detached and underwent a magical transformation. The solitary strands were rapidly losing their bloody aura of vengeance, as though a deep-seated grudge had been resolved.
+
+He wasn’t sure if what remained could still be considered Killing Intent. Whatever it was, it appeared even purer, at the cost of gaining an ephemeral nature. He’d seen the same thing with Primal Dao. Building on his earlier experiments, Zac quickly delivered his Dao of Defiant War to wherever pure intent appeared. It willingly accepted his Dao before disappearing into his spiritual body.
+
+At that brief moment, Zac embodied war, feeling as close as he had ever been to his Dao. The complex and obscured battlefield around him became clear as day. The subtle fluctuations of energy within his enemies' bodies, hidden beneath the storms they unleashed, exposed their next step. Zac might as well have been looking into the future, and he always knew the best response. The feeling of being guided by the insight and experience of a thousand masters lasted only a moment, yet it left a lasting mark on Zac’s understanding of conflict.
+
+It wasn’t just his comprehension that benefited from the experience. Less than a percent of a percent of the rotating Killing Intent had been stripped away and absorbed by slaughtering a Late D-grade Beast King, yet it was enough to leave Zac’s heart fluttering with excitement.
+
+The subtle transformation of his spiritual body wasn’t limited to moving it to his desired Conflict-attunement. The infusions were also advancing the grade of his spiritual body, which had been lagging behind as of late. It was an unavoidable consequence of his packed schedule. The [Thousand Lights Chapter] was ultimately a technique meant for spectral cultivators, and Zac could only practice the introductory stage.
+
+His spiritual body had grown stronger when his soul did, allowing for a faster transfer of energies and Daos. It also somewhat improved his resistance against foreign Daos, and having a complete spiritual body had been his saving grace when assaulting Hegemony. Even so, the benefits couldn’t compare to the manual’s middle stages. Zac didn’t even have the method’s later layers, but he could only assume they would bring even greater advantages.
+
+Zac now found himself bridging that gap through simple, straightforward slaughter. It was as though he was providing offerings to the God of War and receiving tangible benefits in return. It didn’t matter in the slightest if each kill provided only negligible advancement. If there was one thing his path didn’t lack, it was bloodshed.
+
+But why did drenching himself in the blood of his enemies prove more effective than just killing them? Was it that blood represented slaughter? Or was it related to the draconic bloodline hidden within it? Zac analyzed the phenomenon as he continued his siege on the floundering drakes. A fifth beast king fell, then a sixth. Each mournful wail came with a slight surge of benefits while the broiling domain weakened.
+
+Zac soon realized that killing through infighting and relying on his technique created a stronger resonance with the swirling Killing Intent. It was more willing to follow Zac’s will when he exerted Death’s inexorable pressure. Zac sensed it came from integrating his Daos and movement through technique. His stances were his most effective way to harmonize his path into a singular purpose.
+
+If Zac were as skilled at manipulating energy as someone like Iz, then using skills would probably have achieved the same result. But whether mental or actual energy, Zac’s control was crude and generally manipulated by taking shortcuts. As such, he didn’t have as strong a connection with his skills as most Heaven’s Chosen, even if he’d made many of them from scratch.
+
+The feeling binding the ancient Killing Intent to his purpose was addictive, and he pursued the high without any inhibition. A growing sense of danger snapped Zac out of his state of discovery. Twelve beasts had fallen in five minutes under his relentless assault while the frantic retaliation had only left Zac with surface wounds.
+
+The drakes appeared to have little to no experience fighting cultivators, and they overly relied on their powerful bloodline suppression. When it failed to so much as slow Zac down, they struggled to come up with an alternative response. Still, the battle was far from over.
+
+While more than half the drakes had died, the pack retained most of its effective strength. All three Peak D-grade Beast Kings remained alive, with two of them sporting cauterized wounds. Their scales were much sturdier than their brethren, and Zac had failed to inflict any crippling wounds before their retaliation forced him into retreat.
+
+The churning energies and rising aura of corruption from the three leaders indicated they’d finally turned to the Lost Era’s Dead Dao in their desperation to destroy their enemies. A second layer of pattern appeared on their bodies, pushing their auras toward that of Pseudo Beast Emperors. In contrast, the remaining Late D-grade beasts started to wither at a speed visible to the naked eye.
+
+Zac’s brows rose upon realizing he was witnessing a bloodline sacrifice. Nothing good would come from allowing it to proceed, so Zac shot toward the closest leader. At the same time, his chains targeted the sacrificial drakes in an attempt to stall the ritual. Severely weakened, the beast kings didn’t put up a resistance, and two died in quick succession from having their foreheads pierced.
+
+It did nothing to stop Zac’s danger sense from warning of impending doom. Zac unleashed a herculean swing with a roar, no longer bothering to maximize his gains. The edge of his axe gleamed with [Fatehew]’s soul-rending aura, and it struck the Peak Beast King right on its forehead. Zac could feel his Dao tearing into the drake’s soul, attempting to cut its fate in two.
+
+Its spiritual defenses weren’t too impressive, and another swing had a decent chance of finishing the job. Knowing that, Zac still turned into a streak of Abyssal Death, narrowly avoiding a tailswipe as he frantically ran for his life. The Beast King was right on his heels, its radiant runes illuminating the gloom, but it couldn’t keep up with [Abyssal Drive]’s burst of speed.
+
+A furious roar pushed the rain away before a pillar of angry red and putrid black rose toward the sky. The ambient energy lost all cohesion at that moment, and Zac was forced out of [Abyssal Drive]’s incorporeal state. He was first hit by an overwhelming smell of sulphur before a shockwave of superheated air almost knocked him out. Zac only felt relief as he took in the devastation. He would have been struck by the tainted magma pillar if he’d been just slightly less decisive in his retreat.
+
+The volcanic eruption only lasted a few seconds, yet the aftermath covered more than a dozen miles. A whole section of the forest had been incinerated before the rain brought the madness under control. Zac solemnly gazed at the smoldering beach, his grip on his weapon tightening. The pillar was never the source of the sirens in his mind. The true threat had yet to appear.
+
+A new draconic aura had emerged in the middle of the explosion, drastically eclipsing the previous ones. It had clearly entered the threshold of Monarchy, and it was still climbing. Zac also sensed a powerful malice targeted directly at him. He couldn’t wait. Zac quickly activated [Profane Exponents] as he rushed back into the infernal mist of vaporized rain that blocked his vision.
+
+The suffocating heat was no weaker than standing directly on top of a sun, yet Zac only felt a slight discomfort thanks to his pygmy skeletons. One of them had surrounded him in a black swirl that displaced the supercharged water vapor wherever he passed. The rapid consumption of energy didn’t matter. The combined effort of his four pygmies wouldn’t be able to protect him if he allowed that thing to emerge.
+
+The obscured part of the beach had turned into a bed of lava, and a pitch-black spike had risen out of the middle. The draconic spinal ridge was the source of the terrifying aura, and it was only the tip of the iceberg. Zac had no desire to meet the thing lurking beneath the surface, and he turned his eyes to the three remaining enemies.
+
+The Peak D-grade Unvai Drakes had taken up positions a few hundred meters apart. Their original runes had already been completely twisted by corruption, and they gazed at the spine with deranged fervor. Zac immediately crashed into the beast in the middle and launched a furious melee. Meanwhile, his six chains shot out to harass the other two leaders, forcing them out of their reverie.
+
+The three captains only managed to resist their murderous impulses for a moment before the madness took over. They left their posts, rushing toward their companion without a care in the world. They no longer cared about welcoming their ancestor. They didn’t care about the ominous scroll unfurling behind Zac or its lines written in blood. The only thing on their minds was to tear into the interloper who’d caused them so much suffering.
+
+The summoning didn’t stop just because the drakes went in for the kill. The ritual took place within their veins, and it would keep going as long as their hearts kept beating. Zac didn’t allow the looming threat to disrupt his tempo. His Inexorable Death represented suffocating pressure and absolute control over fate. He was a puppet master where every swipe had a purpose, where every lash from his chains moved his opponents closer to their inevitable end.
+
+Through careful arrangement, the three Unvai Drakes suddenly slammed into each other in their desire to tear Zac to shreds. It was at that moment Zac simply disappeared. He’d stepped to the side using his Void-imbued technique, briefly escaping their senses. Before they could lock on, Zac activated [Abyssal Drive] with Void Energy to avoid giving any early warning. An enormous, pitch-black blade rose from the ground before the beasts could react, and three neatly lined-up heads were lopped off.
+
+Their desperation had ended, as had their lives.
+
+The magma lake roiled as its controllers departed, and the overbearing draconic aura leaked like a punctured balloon. Forcing an ancestral descent was already beyond the capabilities of the Unvai Drakes, who only carried traces of true dragon heritage. They had forcibly excavated the ability by relying on the corruption, and even then, they’d barely succeeded. Now that the leaders were dead, the descent was quickly failing.
+
+The outcome was set, but the ancestral Lava Dragon refused to leave silently. Zac’s mind screamed with danger, and he quickly ran for his life. He didn’t get far before an overbearing aura locked down the whole area. There was no time to break free by relying on the Void. The spine shattered, unleashing a terrifying blade of magma.
+
+The attack was upon Zac in the blink of an eye, barely giving him enough time to push [Profane Exponents] to its limits. The coffin-bearing pygmy was utterly incapable of blocking the swipe and shattered. Augmenting it with the fourth pygmy’s ability to boost its companions only bought it half a breath.
+
+That gave Zac just enough time to activate an escape talisman. It faced the same suppression and quickly failed, though only after shifting Zac’s position fifty meters. Zac suppressed the pain from being lacerated by the spatial turbulence and activated another defensive talisman. The added distance and the D-grade talisman were just enough to avoid the vengeful blade of corrupted flame.
+
+It passed by overhead, cleaving the air and leaving a fiery streak that continued toward the horizon. The attack had contained the ritual’s resentment and remaining energy. Without it, the lava quickly dissipated. Its retreat exposed the surprisingly well-maintained carcasses of twenty fallen drakes, each shimmering with an illusory glow.
+
+Zac allowed himself to fall to the ground, where he blankly stared at the sky. It was as though the Heavens had been holding their breath, and they finally let go. Sevona’s rain fell on the beach, washing away the filth and sin. Zac was no different. A pool of grime soon formed around him as layers of soot and blood were stripped from his body. The heavy Killing Intent gradually retreated into Zac’s body, like a beast returning to its slumber.
+
+He couldn’t wait to do this again.

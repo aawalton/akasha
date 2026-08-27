@@ -1,0 +1,445 @@
+---
+id: 21dd57b4-7179-5d2d-9951-4800c9593d7e
+page-type-slug: story-chapter-royal-road
+title: "092: Fracture"
+slug: 0092-092-fracture
+partOf: delve
+position: 92
+ownLength: 4211
+unit: words
+publishedAt: 2020-04-26
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/487810/092-fracture"
+royalRoadId: "487810"
+---
+
+Richmond Rain Stroudwater
+
+CLASS
+
+LVL
+
+CAP
+
+Dynamo
+
+18
+
+18
+
+EXP
+
+NEXT
+
+TOTAL
+
+22,749
+
+22,750
+
+374,832
+
+Vitals
+
+CUR
+
+MAX
+
+RGN
+
+HP
+
+258
+
+600
+
+390/d
+
+SP
+
+196
+
+920
+
+470/d
+
+MP
+
+5,550
+
+5,550
+
+1.3/s
+
+Dark Revenant’s Armor
+
+CUR
+
+MAX
+
+RGN
+
+DUR
+
+9,722
+
+1,309
+
+0
+
+SAT
+
+0
+
+13,202
+
+-92/s
+
+CHG
+
+0
+
+14,209
+
+0
+
+Attributes
+
+142/139
+
+EFF
+
+TOTAL
+
+BASE
+
+BUFF
+
+SYN
+
+STR
+
+7.2
+
+30
+
+10
+
+20/37
+
+24%
+
+RCV
+
+7.79
+
+39
+
+10
+
+29/9
+
+41%
+
+END
+
+7.8
+
+46
+
+10
+
+36/16
+
+30%
+
+VGR
+
+10.8
+
+47
+
+10
+
+37/17
+
+40%
+
+FCS
+
+10
+
+10
+
+10
+
+0/49
+
+100%
+
+CLR
+
+220
+
+220
+
+200
+
+20/61
+
+100%
+
+Resistances
+
+0/?
+
+FLAT
+
+PERCENT
+
+HEAT
+
+4.6
+
+0%
+
+COLD
+
+4.6
+
+0%
+
+LIGHT
+
+4.6
+
+0%
+
+DARK
+
+4.6
+
+0%
+
+FORCE
+
+4.6
+
+0%
+
+ARCANE
+
+4.6
+
+0%
+
+CHEMICAL
+
+4.6
+
+0%
+
+MENTAL
+
+4.6
+
+0%
+
+Aura Compression (8/10) Exp: 298/23200
+
+Compress aura output, reducing range to boost intensity
+
+Increase intensity by 1.6% per meter of compression
+
+Rain closed his menus with a sigh. He’d gotten Aura Compression to level twice by using Essence Meditation, as he’d decided to dub the practice. It had taken around two hours—fast, all things considered. The rising blue rings had been the only thing to look at, and while watching them was oddly calming, it did get old. Unlocking skill trees had helped to keep him occupied, but he’d hit the limit and been forced to stop. The third tier-three that he’d unlocked had brought on the familiar nausea and vertigo, meaning he’d have to wait a while if he wanted to continue.
+
+In the end, Essence Meditation wasn’t all that broken after all. He likely could have trained Aura Compression just as well by alternating highly compressed versions of Winter and Velocity. All the same, he thought he’d continue the practice. It made him feel like some sort of monk, meditating in a secluded cave in the mountains. It gave him time to think. Time to process.
+
+It was a lot of sitting, though.
+
+Slowly, he got to his feet, using Purify to push back the darkness. His body felt much better, but he was still resolved to take it easy. He’d gained a point of tolerance each for Vigor and Recovery while he’d been meditating, his regen at work to restore his missing health and stamina.
+
+Rain sighed as he stretched out his cramped legs, then walked over to where he’d dropped his pack and grabbed a ration bar. He sat back down and started gnawing on it, trying to decide what to do next.
+
+He had books to read if he wanted a break, he supposed. Purify’s light would be enough for that, though he’d have to stop every once in a while to recover mana. Absently, he reduced the intensity, dropping it as low as he could while still being able to see.
+
+He crunched on a bite of the ration unhappily. Somehow, reading seemed wrong. How could he justify relaxing when the bodies of his friends were decaying on the other side of the wall? No, he had to keep working.
+
+His armor still needed charging, and the damage from Velika’s rough treatment could be fixed with a little mana and time. He had plenty of both, and it was on the list, but he was tired of just sitting around. He turned his attention to the pile of rubble blocking the door, then the stone wall next to it.
+
+There was air on the other side of that wall. The blockage at the door extended off to the right—the way that led to the surface—but the passage leading back to the lair wasn’t nearly as bad. Rather than attempting to move the massive pieces of rubble, he could perhaps break through the wall itself. Trying to combine Velocity and Force Ward to imitate the Kool-Aid Man would probably result in a cave-in, but that wasn’t the only option. He also had a small hammer in his pack. He could use that to chip away at the bricks in a much more controlled manner.
+
+That was an option for the main blockage as well. If he could break up the larger pieces of fallen masonry, then he could probably—
+
+There was an abrupt pop, like the sound of a cork being pulled from a bottle. Rain lurched to his feet, spinning to face the source of the noise. He blinked as he saw a green sewer slime oozing toward him.
+
+He’d barely had time to process this before the monster launched itself at his face. He dodged away with a shout, stumbling as his tired body refused to obey his commands. His magic, though, was working just fine. As the slime splattered to the ground, he boosted Purify to the limit. A few seconds later, he heard the telltale ding that signified the monster had been neutralized. Literally.
+
+You have Purified [Slime], Level 1
+
+Transformed to Crystal Slime (Neutral), Level 1
+
+0 Experience Gained
+
+Taming Possible
+
+He dropped Purify, then swore and turned it back on at a low level. The crystal slime didn’t react to the white light. It was just sitting there, wobbling slightly, as if uncertain. It was a little bigger than the one he’d Purified in the lair, about the size of a dog.
+
+Rain breathed out a ragged breath and slumped back to the ground. Well, now I know what it’s like when a monster spawns. Just ‘pop’ and it’s there. I guess it was dark enough, even with Purify going.
+
+The slime started moving in his direction.
+
+“Hey, where do you think you’re going?” Rain said, watching it warily.
+
+At the sound of his voice, the slime stopped and oozed back slightly before resuming its approach. Somehow, Rain thought it looked curious, despite the fact that it had no emotive features whatsoever. He knelt and extended an open hand to it as he usually did when meeting a dog for the first time.
+
+He had Refrigerate ready to go at a moment’s notice, but he didn’t think it would be necessary. As Rina had proved, crystal slimes were basically harmless. She’d even managed to bond with hers, once she’d taken the Tame Monster skill.
+
+The slime didn’t react to his movement. In fact, it looked surprised when it bumped into his hand, recoiling away from his fingers. Humm. I guess its vision isn’t that good. How does it see at all, I wonder?
+
+The slime moved forward again, encountering his hand once more. Rain was wearing his gauntlets, so he couldn’t tell exactly what its surface felt like, but it had the give of an under-filled water balloon. He laughed as he poked at the inquisitive slime, watching the ripples spread across its surface. The thing was entirely clear, like glass. Unlike Rina’s, this one didn’t have a Tel floating within it.
+
+“Well, aren’t you curious?” he said as the slime tried to manipulate his fingers. It had molded its membrane around his hand, pressing gently as if trying to understand the foreign object it had encountered. It was the strangest sensation, like shaking hands with jello. He pulled his hand back with a sucking noise, then held it up to his face to inspect it. His gauntlet was clean, with no residue that he could see.
+
+He shrugged, then removed it and set it aside. He offered his bare hand to the slime with a warning look. “If you try to eat my fingers, I’ll freeze you solid.”
+
+Obviously, the slime didn’t care about his warning. It glommed onto his hand eagerly, and Rain smiled as soon as he was sure that his skin wasn’t dissolving or anything. It felt like, well, slime, but the surface had a little toughness to it. Like extra-thick pudding skin. After a minute, the slime spat his hand out of its own volition. He chuckled, then stood.
+
+“I need to decide what to do with you,” he said, watching the slime. It had started moving away, heading in the direction of the grate.
+
+He couldn’t just leave it lying around. For all that the system said that it was neutral, it was still a monster. At the same time, he felt like killing it would be, well, mean. It was hardly a threat; he just didn’t want it to try tasting his head while he was sleeping.
+
+Come to think of it, what’s to stop more of them from spawning? Purify was active when this little guy showed up, so either the light from it isn’t strong enough, or I’ve been lied to. Maybe it’s because Purify isn’t Light-aspect? It didn’t work in the Dark lair, either. What is Purify, anyway? Arcane?
+
+The slime was investigating the metal bars of the grate. It pressed itself against them, starting to sink through, but then it pulled itself back with a wobble. Hum, can it not get through, or does it just not want to?
+
+The slime abandoned the grate and started climbing the wall. Rain watched it for a few more minutes as it aimlessly explored the room. It didn’t look like it had any particular goal in mind.
+
+“Well,” he said to the slime as it headed back in his direction, “I suppose I’ll try taming you.”
+
+He pulled one of his pouches over to himself and extracted a single Tel from it. Rina had tamed her slime with the assistance of the Tame Monster skill, which provided ‘an instinctual knowledge’ about how to tame monsters, in addition to a higher success rate. Rain hadn’t actually seen what she’d done to accomplish it, though, having been busy fishing his helmet out of the swamp at the time. He figured that Tel were a good place to start, given that they seemed to be related to monsters in some way.
+
+He got up and walked over to meet the slime, kneeling down to offer it the tiny shard of crystal. “Here you go. You want this?”
+
+The slime oozed over his hand, engulfing it once more. Rain watched with interest as the Tel was pulled through the slime’s membrane to float in the middle of its body.
+
+“Um, good slime?”
+
+If the slime had appreciated his gift, it didn’t show it in any discernible way. Instead, it spat out his hand and started oozing away.
+
+Maybe it needs more?
+
+Rain belted on his pouches, retrieved a few more Tel, then walked after the slime. He held up the Tel as he approached, but the monster ignored him, headed for the rubble blocking the door. Rain paused to watch as it encountered a small rock, sucking it up as it had the Tel. It spat it out after a few seconds, then continued along its path.
+
+Rain walked around to intercept it. The fact that it was keeping the Tel but not the rock meant that he was on the right track. He stuck his hand directly in the slime’s path, holding five Tel this time. “Here you go. Right in front of you, you derp.”
+
+The slime slurped up the Tel after a moment’s investigation, but nothing else happened. Rain looked at it in exasperation. Damn. I really expected that to work. Let me try something else.
+
+He stepped back from the slime and deactivated Purify, plunging the area into darkness. The slime’s health bar vanished as he lost sight of it.
+
+“Let’s see if you like mana,” Rain said. He activated Essence Well at a low level, adjusting IFF to designate the slime as a valid target. The telltale blue rings appeared, though he couldn’t see the reaction of the slime within them, as they cast no light whatsoever. He could tell that it had frozen in place, however, just from the fact that the rings weren’t moving along the floor.
+
+Slowly, he increased the power, and the rings started moving faster. He gave it a few seconds, then dropped the spell, switching back to Purify.
+
+Light returned, and he saw that the slime was, for lack of a better word, confused. It was wobbling from side to side, clearly excited, but unable to decide which way it wanted to go. It was oddly expressive, for an amorphous blob.
+
+It calmed down after a few moments, then started oozing toward the same rock it had already investigated and discarded. When it reached it, it sucked it up then spat it out, exactly as it had before.
+
+Rain smiled. Yeah, it’s no Einstein, that’s for sure. Maybe it’s not smart enough to realize that the mana came from me? Let me try this instead.
+
+He walked toward the slime slowly, then knelt and offered it his bare hand. The slime engulfed it, perhaps assuming that he had more Tel, but more likely as an automatic response to any new object that it encountered.
+
+Before it could spit his hand back out, he used Mana Manipulation to expel a puff of mana from his palm. He’d already tried this on people as an alternative to Essence Well to no effect, but he figured that monsters might be different. They seemed to live off ambient mana somehow.
+
+He smiled as a chime sounded in his mind, and a new dialog appeared in front of him. He’d been right.
+
+Taming Success
+
+You have befriended [Crystal Slime]
+
+“Woah!” Rain said, laughing as the slime increased the suction it was exerting on his fingers. “You hungry or something?” He pulled his hand back, but the slime didn’t want to release him. It stayed latched onto his arm as he stood, the entire thing lifting off the ground. It was lighter than he’d expected. “Hey, let go.”
+
+The slime ignored him. It was less that it was trying to engulf him completely, and more that it was trying to suck the mana out of his hand. The suction was focused on his palm where he’d expelled the mana, leaving the rest of his hand and arm alone. It was distinctly uncomfortable.
+
+Rain shook his arm futilely, trying to dislodge the slime. “If I feed you, will you let me go?” he asked, releasing another puff of mana.
+
+The slime quivered, the suction lessening. It still didn’t release him, however, and it quickly resumed its attempts to peel off his skin. “Oh, come on,” he said, trying once more to shake the slime free. It refused to be dislodged. He sighed. “Fine, I’ll give you more.”
+
+Instead of sending another burst, he fed mana out of his index finger in a trickle, keeping the rate low at 1 mp/s. The slime seemed to like it. He could feel it vacuuming up the mana as it crossed from the domain of his soul into its own—assuming that monsters had souls, that was. Rain couldn’t really track the mana once it left his body, but he did feel it getting pulled away from him at the last second. It was the most bizarre feeling. He wished that he had Mana Sight to see what was actually going on.
+
+Um, is there some way to see how much it wants? This thing isn’t going to drain me dry and then mutate into a mana devouring abomination, is it?
+
+Rain started walking toward where he’d left the sword propped against the wall. He was 99% sure that he’d be able to remove the slime with one of his auras, but on the off chance that it could somehow absorb the mana from that too, he wanted a backup. Thankfully, that proved to be unnecessary. After around a minute, the slime spat out his hand and fell to the floor of its own volition.
+
+“Huh,” was all Rain had to say. It looked like the slime was full, having “eaten” around 100 mana in total. He inspected it, noting that its name had changed with the taming. It now read ‘Unnamed Crystal Slime, Level 1’ when he focused on it.
+
+He shrugged, looking at the slime and rubbing his hand absently. “Well, you’re going to need a better name than that. Crap, I’m bad at naming things. Wilson? No, it’s a slime, not a volleyball. Um…Slimy McSlimeFace? No, that’s stupid. Damn it, let me think.”
+
+He paused as he watched the slime. It had settled down into a uniform blob and stopped moving. Huh. That’s strange…. He reached out and laid his hand on the slime. Somehow, he thought it looked like it was feeling uncomfortably full and was rapidly falling asleep. He didn’t know how he knew it, but he knew.
+
+Am I a slime whisperer now? What the hell? Am I bonded to it or something? He took his hand away, but the strange sense of the slime’s mood remained. It was very faint, less a feeling, and more of an impression. Something about its body language that just said ‘sleepy.’ He wasn’t entirely sure that he wasn’t just imagining it. So it’s not just tame now, it’s my animal companion or something? Wasn’t that, like, too easy? He shook his head. Let’s see if it responds to commands. “Sit. Roll over. Play dead.”
+
+The slime’s only response was to start oozing away, heading for a corner.
+
+“Hey, come back here!” Rain said, but the slime ignored him. He sighed and walked after it. I guess that was too much to ask for. It doesn’t look like it understands me, or maybe it just doesn’t care. System, a little help?
+
+He concentrated for a few minutes, trying a few different mental commands, but nothing happened. It didn’t look like he’d unlocked anything as convenient as a pet panel. The system was paying no more attention to him than the dozy slime was.
+
+In the short time that he’d been distracted, the slime had wedged itself into a corner. When he looked at it, he got the impression of a lazy cat lounging in a sunbeam. Again, it was odd. He couldn’t put his finger on what it was about the slime’s body language that gave him that mental image. He just looked at it, and then he knew.
+
+He shook his head, trying not to think about the fact that he had somehow bonded his soul to a dog-sized blob of gelatin. There was no other way to explain his intuitive understanding. He suddenly smiled as the perfect name for the creature came to him.
+
+He pointed at it, speaking the name aloud. “Dozer.”
+
+The slime’s name changed instantly. It now read ‘Dozer, Level 1.’ It also had fallen asleep.
+
+Today on Questions Nobody Thought to Ask: Do slimes sleep? Answer: yes, yes they do.
+
+Rain stared at the slime for a few more minutes, thinking. Finally, he sighed and shook his head. This was a serious situation, and he couldn’t let the slime distract him. He’d been working on a potential plan B, and the slime had nothing to do with it.
+
+Well, I guess if it’s tame, that should mean it isn’t going to attack me or anything. I still feel like that should have been harder to do, but whatever. Taming it is one thing. Without Command Monster and Tamer’s Synergy and so forth, it isn’t like it’s going to be that useful. Unless I can find a way to level it up and get it to listen to me, it’s still just a slime.
+
+He shook his head.
+
+I only tamed it because I didn’t want to kill it. Can I release it or something once I’m out of here?
+
+He looked at the slime speculatively. If he could get it to level up, it might actually become an asset. Having a monster at his beck and call would be pretty convenient, depending on how the mechanics shook out. After a few moments, he chuckled and shook his head. Didn’t I just say I wasn’t going to let it distract me?
+
+He put the sleeping slime out of his mind with some difficulty and limped unsteadily over to the door. His muscles really didn’t want to cooperate with him, but he didn’t let that stop him. It was time to be smart about this.
+
+The two large chunks of rubble blocking the door had been part of an arch supporting the vaulted ceiling out in the hallway. The fact that the roof hadn’t collapsed entirely meant that the stone above him was stable, more or less.
+
+The room’s ceiling was also supported by brick arches that sprouted from the walls. Rain wasn’t sure if they were just there to support the ceiling facade, or if they were needed to hold up the several dozen meters of stone between him and the surface. This entire complex must have been mined out at some point, but it had been finished completely. The floor, walls, and ceiling were all covered with neatly set blocks of dark stone.
+
+Damn it, I’m just guessing here. I worked on office buildings, not subterranean fortresses.
+
+He walked a few meters to the left, running his hand along the wall separating the room from the open hallway beyond. How am I supposed to tell whether this is load-bearing or just a curtain wall?
+
+“Damn,” he muttered. He couldn’t risk trying to break through it, even though it was only around fifteen centimeters thick. If it was holding up the ceiling, he’d bury himself completely. The stone arches seemed overbuilt if all they were doing was holding up a thin layer of bricks.
+
+He scratched at his chin with his bare hand. His face itched. It was time to shave again, and he’d never actually ended up getting that haircut. Maybe I should just let my beard grow… It’s just so damn itchy. Bah, it’s not going to matter if I can’t get out of here.
+
+He walked over to his pack to retrieve his hammer. It was just a small one, the kind for pounding in nails, not skulls. He strapped his belt back on so he’d have a place to hang it, then continued digging around in the bag until he found the small grappling hook that he’d purchased, along with some climbing pitons.
+
+It pays to be prepared.
+
+He set the grappling hook aside and tucked the pitons into one of his pouches. There wasn’t anything to climb, nor did he know how to use them properly, but that wasn’t what he wanted them for. A piton, fundamentally, wasn’t much different from a chisel. He walked over to the blockage and looked at the big piece of fallen archway speculatively.
+
+One last thing to try before I go all Michelangelo on you.
+
+He concentrated, flaring Purify as high as it would go short of Aura Focus. He’d been using it this whole time, of course, but now he was focused on the concept of what a door was: namely that it wasn’t plugged by a massive pile of rubble. Nothing happened, and he frowned, pushing harder and compressing the aura. He squinted, shielding his eyes against the increased brightness. Still, there was no change. He made sure that he was out of the way of any potential falling rubble, then activated Aura Focus. He let it go for a few seconds, then relaxed, restoring the aura to a more reasonable level.
+
+The barrier remained unchanged. Perhaps some of the dust and sand had been removed when he’d first started using the spell, but there’d been no significant improvement with directed concentration. The smallest pieces were about the size of aquarium gravel. They seemed unimpressed by his attempts to magic them out of existence.
+
+Oh well. It was worth a shot. He fished a piton out of his pouch and set it against the uppermost of the large pieces. He stood out of the way so it wouldn’t crush him if he somehow managed to dislodge it. That seemed unlikely, as it looked like it was really wedged tight, but he didn’t want to take any chances. He raised the hammer and started tapping at the piton lightly. After a moment, he started hitting it with more enthusiasm, thankful that he was still wearing a gauntlet on the hand holding it. His coordination was lacking thanks to the fact that his muscles felt like wrung-out dishrags.
+
+It worked, though. It had taken a while, but he’d managed to drive the small iron spike between two of the bricks to a depth of three centimeters. Whatever the mortar was made of, it was tough stuff. He removed the spike with some difficulty, leaving him with a neat little hole drilled between two of the bricks.
+
+I hope this works.
+
+He reached down to his belt and retrieved his canteen. It was around half full, but he didn’t want it for drinking. Instead, he poured water into the hole that he’d drilled until it was full, then stepped back. He looked over at the slime, making sure that it was still asleep and hadn’t wandered into range. Satisfied, he deactivated Purify, then released a short, sharp pulse of Refrigerate in the darkness. There was a snap of breaking stone, then a thud.
+
+Rain grinned. The flash-frozen water had expanded, forcing the bricks apart. He reactivated Purify, then knelt and lifted the brick that had fallen free with one hand.
+
+That’s what we call a proof of concept.
+
+It wasn’t much, but it was progress. Plan B was a go.

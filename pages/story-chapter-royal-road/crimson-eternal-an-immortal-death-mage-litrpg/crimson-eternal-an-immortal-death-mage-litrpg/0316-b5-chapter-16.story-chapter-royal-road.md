@@ -1,0 +1,139 @@
+---
+id: 73818e0b-e1a6-5a08-b2c9-6c054f33aba6
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 16"
+slug: 0316-b5-chapter-16
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 316
+ownLength: 1420
+unit: words
+ownProgress: 1420
+publishedAt: 2025-11-11
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2752447/b5-chapter-16"
+royalRoadId: "2752447"
+markedReadAt: "2026-06-29T19:16:33.944Z"
+---
+
+Aria
+
+In the end, I set course for War’s capital planet. The Scarlet Crucible. With both War and Raja tagging along.
+
+And while I understand a little why War is coming, seeing as another Horseman is visiting his home, I have no idea why Raja is coming. Unless he’s just coming to act as a bodyguard against War or something.
+
+But I doubt that.
+
+In fact, it makes me curious enough that I actually contact Raja’s second in command. Only to be told that Raja is currently on vacation.
+
+So I guess he’s just spending his vacation with me or something.
+
+Which I guess is flattering.
+
+He’s not exactly the most talkative of sorts though, so I’ll probably forget he’s even here.
+
+Anyways, we pass by a lot of War’s planets on the way to the Scarlet Crucible. And the planets really do vary strongly in how they’re governed.
+
+Some of them are under tyranny by the governor in charge while others are very happy places.
+
+It entirely just depends on the governor who is in charge of the planet in question.
+
+I also pass by several fleets. But the fleets just ignore me and continue heading towards wherever they’re going.
+
+Which War says is another war.
+
+We continue traveling for a little bit, with the Demon King occasionally appearing in my bridge from time to time only to be popped like a balloon by either War or the Pharaoh, all the way until we finally arrive at the Scarlet Crucible. And what a place it is.
+
+The Scarlet Crucible is a massive planet in and of itself, with numerous space stations placed all around it, and an enormous fleet all around the space stations. One filled with scarlet ships of all sizes. With a few of the flagships being larger than the space stations.
+
+As for the surface of the world? It is literally just covered with stadiums. One after another.
+
+Millions of stadiums.
+
+There isn’t a single residential area for people to live in that I can find.
+
+“The civilians who do live on the Scarlet Crucible live on the space stations outside of the planet,” War explains for me while smiling down at his planet with a look of pride on his face. “The surface is for battle and entertainment. Nothing else.”
+
+I hum in response while looking around the planet.
+
+The stadiums all vary in size, with some being enormous and others being quite small. But none of them compare to The Crucible at the northern pole of the planet. Which is a very special looking stadium.
+
+“The Crucible has numerous layers, including the underground arena, the surface arena, and the sky arena,” War says, his voice still full of pride. “Competitors work their way up through the arenas starting with the underground arena and moving towards the sky arena, where the big boys are.”
+
+Interesting.
+
+The Crucible itself looks like a massive scarlet stadium beneath another floating stadium. One that’s just sitting there above the first one without anything supporting it or keeping it afloat.
+
+Judging by the fact that the seating around the floating stadium is a lot smaller than the seating for the surface one…
+
+“Let me guess, it’s a lot more expensive to watch the sky stadium live?” I ask while resting my head on my fist, my elbow on my chair’s armrest.
+
+War immediately nods his head and says, “Yep! The underground arena is the cheapest to watch, followed by the surface stadium, then the sky arena. With the rights to broadcast them being more expensive with each as well.”
+
+Thought so.
+
+And I believe it’s probably safe to guess which arena the grand tournament that everyone wants to see is held in.
+
+“If you would like, I can give you special VIP seats to watch the Universal Scarlet Cup in the Sky Arena,” War says while still looking proud. So I just shrug my shoulders and nod my head in agreement without a word. “Great! The USC begins in a few weeks, so feel free to look around my planet in that time!”
+
+Then War just pats me on the head, which makes me frown at him, before leaving through a rift.
+
+I wish he would stop doing that. It’s really annoying.
+
+Anyways, I glance back at Raja to find him also glaring at the spot where War left. Proving that the Pharaoh of the Rex Dynasty doesn’t like the idea of War patting me on the head any more than I do.
+
+“Have you ever competed in this USC thing before?” I ask out of curiosity.
+
+Raja turns his gaze towards me and answers with a nod and a brief, “Yes, Lady Aria. Every one of the Grands has won the USC at some point in their lives.”
+
+Oh, really?
+
+I turn around as Crimson docks the ship on one of the stations and begin to browse the internet on a screen in front of me to find clips of the Grands’ different tournaments. The ones they won.
+
+And it doesn’t take long to find them, starting with War’s victory in his own tournament. Which comes as no surprise.
+
+The man literally destroys half the stadium and kills a lot of the audience in the wake of his victory. All by accident by the looks of it.
+
+After him, the second of the Grands to compete is Famine, who destroys the inside of the arena but doesn’t kill the audience like War did. Mostly because of a large barrier set up around the arena part of the stadium. No doubt because of War’s slaughtering of the audience.
+
+Although I’m not sure if I’d call what Famine is doing ‘fighting’, seeing as he’s just lounging on a throne placed at the center of the arena as the other competitors starve to death all around him in the first battle royale round of the tournament. Which I didn’t even know was a thing.
+
+I briefly glance at the setup of the tournament to find that it starts out with three battle royale rounds, followed by a regular branching one-on-one tournament between the survivors of the battle royale.
+
+Honestly, I wouldn’t mind participating one of these days.
+
+Not now though. It’d be pointless to compete now.
+
+Especially considering how the competitors are all generally between level five thousand and fifteen thousand from what I can find on the internet.
+
+Maybe several hundred thousand years from now.
+
+Anyways, what has me the most surprised is the sight of Pestilence competing in the tournament. Since it’s not something I could ever see him being interested in.
+
+At least for Famine I can see him participating just to spread word of how powerful the Horsemen are. But not Pestilence.
+
+“Pestilence competed at War’s request in exchange for some ingredients,” Raja answers my unasked question, making me form an o with my mouth before continuing to watch the video.
+
+Honestly, Pestilence’s performance wasn’t much different from Famine’s. He just stood at the center of the arena and let every other fighter there slowly die through poisons and disease.
+
+Which was apparently a little unpleasant to watch according to some of the viewers.
+
+And I can understand why, seeing as they’re literally watching dozens upon dozens of great fighters wither away in front of them due to disease and poison. Without seeing any sort of actual fight going on.
+
+After Pestilence was Amatsuraki’s performance. And I have to say, Shirogane’s father certainly put on a show.
+
+His fights all started out with him not even bothering with fighting the others. He would just dodge every last attack fluidly while reading a book or flipping his little coin. All with his eyes closed.
+
+It almost looked like he was bored while fighting in the battle royale portion of the tournament.
+
+And the crowd loved it.
+
+Although I have to wonder how he was reading with his eyes closed. Not to mention if he can teach me how to do that.
+
+Anyways, for Raja’s performance… well… there wasn’t much of a tournament after he competed. Seeing as he literally turned over half the competitors in his battle royale ring into undead and made them kill the rest.
+
+But there were still some interesting battles for him in the individual portion of the competition.
+
+Mostly because the survivors of the battle royale were quite strong.
+
+Well, putting them all aside, I’ll just have to see a tournament for myself. Because it looks interesting.
+
+Even if I won’t be competing personally.

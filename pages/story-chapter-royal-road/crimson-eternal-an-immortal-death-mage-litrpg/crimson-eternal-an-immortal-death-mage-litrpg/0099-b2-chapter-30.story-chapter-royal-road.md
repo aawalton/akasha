@@ -1,0 +1,147 @@
+---
+id: c41b6d6e-c8b6-5a9b-9621-9ad772f444c9
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 30"
+slug: 0099-b2-chapter-30
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 99
+ownLength: 1600
+unit: words
+ownProgress: 1600
+publishedAt: 2024-02-13
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1516579/b2-chapter-30"
+royalRoadId: "1516579"
+markedReadAt: "2026-06-29T19:09:18.330Z"
+---
+
+The Cliff
+
+Sean Byrne looks out from his place on the cliff as the spatial mages under his stallari’s command teleport the prisoners of war to a fortress on the other side of the Byrne Clan territory. One sealed away with space magic so that they can’t escape even if they were left there to their own devices without any guards.
+
+But despite the clear victory they managed here, Sean still feels regretful about how the battle went.
+
+He didn’t realize that Aisling would be attacking the mountain fortress, even if he prepared countermeasures for it. The situation was still the worst-case scenario.
+
+His preferred outcome was for them to capture every last soldier and officer within the fourth hearth so that the other hearths would be caught unawares when they flank them. But with Aisling’s escape, that isn’t possible anymore.
+
+The enemy soldiers will know of their victory here.
+
+Although, one positive ta come outta this…
+
+His gaze turns towards both the Horseman of the Apocalypse assisting them and the other lass. Both of whom are in positions that their identities can’t really be exposed.
+
+This battle at least proved that Lady Violet could take on Aisling, at least temporarily. And it gained their resident Horseman some new powers from what he can see.
+
+He still finds it surprising to know that the beings she’s summoning are Death Spirits. Since no one has ever summoned such weak Death Spirits before.
+
+The only Death Spirits that are ever summoned are at the very least Greater Death Spirits or above. Since no other Death Spirit should be capable of manifesting themselves in the mortal realm outside of the Plane of Death.
+
+Suppose tha lass isn’t exactly normal ‘erself…
+
+When he first heard that the girl was the new Horseman of the Apocalypse, Death even, he instantly felt wary of her. Especially when he heard that she couldn’t die.
+
+Because a Horseman who couldn’t die? At all? It sounded like a nightmare placed directly in the universe.
+
+But when he actually saw the girl and realized how weak she was at this point in life, that wariness decreased. And it decreased even more when he started getting to know her better.
+
+By now he knows just how different she is from the other Horsemen.
+
+Sean has only met a single Horseman of the Apocalypse himself on a personal level, but he has still seen the other two in universal broadcasts and even through calls with Shirou. So he knows just how those three are.
+
+War – the Horseman he has met personally – cares about nothing more than battle. Fighting with others. Testing his strength. Dueling those he believes to be powerful. And stomping on all those who get in the way of this insane passion of his. As if they were ants beneath his feet that he didn’t even believe were worth fighting against.
+
+The only reason War never declared war on Luk’tar as a whole was because there were other worlds and powers that he could declare war on that were more interesting to him. Not to mention the man’s own second in command convincing him that working with Luk’tar would be more beneficial than taking them over.
+
+So after merely meeting with all six Clan Leaders of Luk’tar without any battles occurring, he left again.
+
+But Sean will never forget his meeting with War that day.
+
+Not in his lifetime.
+
+Sean turns to look at the lass in question, just watching her as she sits at the edge of the other cliff opposite the one he’s on with her legs swinging out over the edge. Meanwhile a largely indifferent look is plastered across her face while she watches the soldiers down below.
+
+But not a look of apathy. He can tell that she still cares about people’s lives and respects them.
+
+It’s more like she has just largely detached herself from it all. From killing. From war and battle. From pain, if what he’s heard about the plans she has seen through so far on Luk’tar is true.
+
+The only similarity she shares with the other Horsemen. That detachment from reality.
+
+Something he believes is a part of their status as Horsemen. Just something that comes with it so that they can deal with whatever ability or purpose they’ve been given without going insane.
+
+It still surprises Sean that she isn’t fully apathetic. He’s seen the small prayer to the Plane of Death that she says to respect the dead that she’s killed. And every time he sees it, he can’t help but stop to watch.
+
+He just doesn’t understand her very well while also does understand her.
+
+And it bothers him every time.
+
+Especially since the girl is so carefree more often than not, and has a rather large eccentric side to herself.
+
+A mixture of carefreeness and eccentricities that make him unable to see her as anything but a terrifying young child, not yet even a thirtieth of his own age. One who will outlive every single being in the universe. Who will never know the eternal peace that comes with death. Will never be able to end her own bloodshed until she’s grown powerful enough to do so.
+
+An’ that might take her tens of thousands of years ta accomplish…
+
+At the end of the day, Sean feels a mixture of pity and sadness towards the girl.
+
+Eventually he lets out a sigh and turns his attention away from the girl to look at the horizon.
+
+The only path forward now is tha one I already laid out. We don’t have very many options left.
+
+He lets out another sigh after this thought before just watching the full moon rising up into the sky, patiently waiting for his men to finish escorting the prisoners of war to their prison.
+
+Aria
+
+I feel like the Clan Leader’s been staring at me a lot while we’ve been waiting for the soldiers to finish up down there and I don’t know why.
+
+He finally turns away after a while though and doesn’t look again, so I eventually just push the thought off as an oddity and nothing more as I continue swinging my legs below me.
+
+The mountain actually looks quite beautiful from up here. Especially with all of the snow melting under the moonlight of the full moon.
+
+I watch the melting snow for a while, still swinging my legs as I do so before eventually glancing down at my outfit. And frowning.
+
+Hmm. Maybe I should get more than one outfit. Because it’s kind of weird to go around wearing the same thing everywhere I go.
+
+The Ethereal Screen enchantment on my current outfit isn’t too expensive now that I have a lot of funds built up. And if I’m being honest with myself, this isn’t really my style of clothing.
+
+I tend to prefer simpler and more fitting clothes. Like pants and a shirt and jacket. Not an outfit like this one that has a lot of extra cloth and a long skirt and stuff.
+
+Even the uniform that I wore while sneaking into the Grand Tree was… well… ignoring the small chest area, it was a lot nicer of a style of clothing than this one in my taste.
+
+Actually, even a shorter skirt would be fine, so long as it’s not dress length. Anything that would be easier to fight in.
+
+Honestly, the Dynasty’s style of clothing is the complete opposite of the Grand Roan Empire’s. The Dynasty has long, flowing, and very… I don’t know, not combat oriented. Meanwhile the Grand Roan Empire’s got people walking around with way too little on. It also has guys wearing skirts for some reason.
+
+Although I have to admit, seeing the reactions of some of the guys in the military back on Vortel to that was rather amusing.
+
+As for the outfits on Luk’tar? Well, they wouldn’t fit me. Too small.
+
+But the outfits themselves are actually mostly armor. Because these lukians really love their armor.
+
+They’re heavy outfits, often with padding and armor spread out through the outfits even if they’re not meant to be used as armor.
+
+So not my style either. Too pointlessly heavy. And I don’t need any extra defense.
+
+I continue watching the soldiers go about transporting the prisoners of war for a little bit before falling onto my back and staring up at the sky, uncaring that I’m getting soaked by the melting snow.
+
+One way or another, this war won’t last much longer. Whether it’s our victory or theirs though is another matter.
+
+But in the end it doesn’t matter too much for me. I just have to flee.
+
+Not like I can die.
+
+Although there are a few people I’ve met during my time here that I would rather not die.
+
+Like the owner of the café in the capital. That lady was very kind to me.
+
+At this point I’m just making it a goal to visit at least one café in every world I go to.
+
+Which makes me wonder how Luke is doing back on Vortel?
+
+I ponder over that for a few seconds before shaking my head and sitting up again.
+
+Maybe I should visit Vortel again after a couple decades. Before the old man dies at least.
+
+By then no one would likely expect me to come by, so it should be fine.
+
+My thoughts come to a halt when I feel a buzz from my phone, following which I take it out to find a message.
+
+Guess it’s time to move out.

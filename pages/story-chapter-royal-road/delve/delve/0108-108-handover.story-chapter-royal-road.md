@@ -1,0 +1,303 @@
+---
+id: 7d8dc787-6225-5656-b6e0-568c22feee23
+page-type-slug: story-chapter-royal-road
+title: "108: Handover"
+slug: 0108-108-handover
+partOf: delve
+position: 108
+ownLength: 5321
+unit: words
+publishedAt: 2020-08-16
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/539803/108-handover"
+royalRoadId: "539803"
+---
+
+“Ameliah.”
+
+Ameliah looked up as Tallheart spoke, then followed his gaze toward Fel Sadanis. In the dawn light, she saw a small group of people headed in their direction. From her vantage point atop the fortifications, she had a good view, despite the distance. She squinted, then shot to her feet when she spotted Rain among them.
+
+“He’s alive.”
+
+“Mmm,” Tallheart rumbled.
+
+It was a strange group that was heading in their direction. The most notable person, other than Rain, of course, was Velika. She was zipping all over the place, scything down monsters like wheat. Ameliah watched as a Stumper was bisected by a shockwave, a torrent of mud and earth exploding around it. The other members of the group were a bald Watch officer and a middle-aged woman that didn’t look like a fighter. There were also some non-humans, specifically Rain’s slime and a fluffy white dog that was getting progressively muddier as it bounced excitedly from puddle to puddle, chasing after the Citizen. Ameliah had no explanation for that.
+
+“What took them so long?” she asked. She’d been expecting the city to make contact days ago, but other than a few signal flags on the walls, there’d been nothing.
+
+Tallheart didn’t reply, not that Ameliah had expected an answer. After a moment, he jumped down from the wooden palisade, landing softly for a man in full plate. “I will go.”
+
+Ameliah hesitated, looking behind her. The barricade had grown taller with each day, to the point that it hardly needed defending. Furthermore, she and Tallheart had just finished the morning culling, and nothing was moving nearby that she could see. After a moment, she jumped down to follow Tallheart. Screw it. I haven’t seen a Razorspine for days.
+
+A crowd had already gathered by the time Ameliah and Tallheart reached the barrier. Jamus was there, visibly excited, shifting from foot to foot as he watched the party approach. As she watched him, something finally clicked, and she smiled. Ah, of course.
+
+Looking back at the group from the city, Ameliah saw that the unfamiliar woman had caught the dog, bundling it up in her arms and getting mud all over her clothing in the process. That must be Meloni.
+
+Rain stepped forward from the group as they approached, waving. He was wearing his helmet for some reason, so she couldn’t see his face. Looking closer, she saw that his armor had taken quite a beating. There was a particularly nasty looking scratch on one side of the breastplate.
+
+“Hello, Ameliah,” he signed as he jogged the last few stride to the barrier. “Everyone. I am happy to see you.”
+
+“Hello, Rain,” Ameliah signed back. She looked around at the group on her side, spotting Lavarro standing next to Officer Turton. Neither of them made a move. I guess I’m translating, then. “He says hello,” she said, raising her voice to address the whole group.
+
+She looked back at Rain. “What happened in there?” she signed, speaking aloud for the benefit of the watchers.
+
+Rain shook his head slowly, stepping forward and raising his hand to press his spread fingers against the barrier. Something about the way he moved made the motion look sad. Oh no…
+
+Ameliah stepped forward, moving to press her hand to the barrier opposite his. However, the expected resistance wasn’t there. She was so surprised that she didn’t even attempt to stop Rain from grabbing her hand and pulling her through.
+
+“Ah!” Ameliah gasped, then stumbled as the muddy ground shifted beneath her feet. A wave of heat and foul-smelling air assaulted her, and she coughed, spluttering. Rain, damn him, was laughing. He’d flipped up his visor, and he had a huge goofy grin on his face. Now she knew why he’d had his helmet on. In retrospect, something about the expressions of the others had been suspicious.
+
+“Damn it, Rain!” She tightened her grip on his hand, debating whether to hug him or to send him flying. She decided on the first, pulling him into a rough embrace. They figured out the barrier! We can finally leave! Unless… She gave Rain one last squeeze, then pushed him back to hold him at arm’s length. He looked a bit shocked, but Ameliah ignored his expression as she pivoted her head to Velika. “This means you’re letting everyone go, right?”
+
+Velika laughed. “Yes, everyone can leave. It wasn’t me, though. I was just as trapped as everyone else. Rain’s the one who figured out the barrier.”
+
+Ameliah looked back at Rain, confused. What? She released him, letting her arms fall to her sides.
+
+“Uh—” Rain began.
+
+“Meloni!” Jamus shouted, having passed through the barrier. He rushed toward the woman with the dog, then slipped on the mud, barely catching himself. “Gah! What in the name of the gods is that smell?” He coughed.
+
+“Oh, sorry,” Rain said, seeming to recover from his shock. He activated Purify, then Refrigerate, cleaning and cooling the air. “I had to wait to do that or ruin the surprise. Yeah, see Bartum? I was right. My spells go right through.”
+
+Ameliah looked where Rain was pointing. Tallheart and Staavo had also passed through the barrier, she noticed, but everyone else was still on the other side. There was a clean circle of stone in the Lee where Purify had passed through.
+
+Seeing that she was watching, Lavarro stepped forward, pounding her hand soundlessly against the barrier twice. She then stepped back and signed, her motions sharp and angry. “Let me in.”
+
+Rain shook his head. “Later,” he signed back, speaking aloud as well. “I need to know the name of everyone out there.”
+
+“You will let me in NOW,” Lavarro signed, her last motion cutting the air like a knife as she glared at Rain. “Where is my daughter?”
+
+“She’s fine,” Rain signed quickly. He glanced at the Watch officer next to him, then back at Lavarro. “Damn, she’s really mad. Maybe I should have added her to the list after all.”
+
+“Fuck her,” Velika said. “Leave her out there, or let her in if you must. If she makes trouble, I’ll deal with it.”
+
+Tallheart rumbled. Ameliah looked at him, sharing his confusion. She shifted her gaze to the Citizen, then back to Rain. Since when is Velika on our side? The last time I spoke to Rain, he said…oh.
+
+The Watch officer cleared his throat, interrupting her train of thought. “If I may, we have business to discuss. I am Officer Bartum, commander of the Watch in Fel Sadanis, after…” he stopped, deliberately not looking at the Citizen. Ameliah already knew what had happened from speaking with Rain before. Bartum cleared his throat and continued. “You are Ameliah, yes?”
+
+Ameliah nodded, accepting his offered hand to shake.
+
+“We saw that Officer Turton got the mindcaster working,” Bartum continued. “What is the news from outside?”
+
+Ameliah glanced over her shoulder at Lavarro, then back to Bartum. She frowned, then summarized quickly. “The Shift hit Jarro, Southguard, and Vestvall. We don’t know how bad, but we know it wasn’t as bad as it is here. Lavarro used the Mindcaster to talk to the Guild, but she didn’t tell us much other than that they aren’t coming to rescue us.”
+
+“Wait, Vestvall?” Jamus said, pulling away from Meloni. Ameliah’s heart clenched, recalling that Jamus’s children lived there. She nodded. “Yes, Vestvall. Sorry, I don’t know any details.”
+
+“I need to use your mindcaster,” Bartum said, walking toward the barrier. “Ours isn’t working, even for someone on the list. We don’t know why.”
+
+“It’s broken,” Ameliah said, making him come to a halt. “Lavarro destroyed it.”
+
+“Why?” Bartum asked, raising an eyebrow.
+
+Ameliah shrugged. “She said Guildleader Burrik ordered her to do so.”
+
+“I see,” Bartum said. “No matter. We will just move ours outside. I need to contact—”
+
+“Blah, blah, blah!” a rough voice interrupted. Ameliah jerked her head to look at Staavo. She’d almost forgotten he was here. “Never mind all that, Rain,” he said. “I need to talk to you about electricity.”
+
+“Staavo, later,” Jamus said.
+
+Staavo shook his head. “No, damn it, I—Hey!”
+
+Tallheart sighed as he lifted a flailing Staavo from the ground and turned toward the barrier. “I am glad you are safe, Rain. I would like to speak with you later.”
+
+Rain smiled. “Sure, Tallheart. I’m glad you’re safe too.”
+
+“Put me down, you bloody horned idiot!” Staavo shouted, hammering at Tallheart’s back ineffectually.
+
+“I will protect the camp,” Tallheart said to Ameliah, ignoring Staavo’s protests. “Do not worry.”
+
+The noise cut off abruptly as the pair passed through the dome. Ameliah watched as Tallheart spoke briefly with Lavarro, then towed Staavo away in the direction of the barricade.
+
+“Who was the random old guy?” Velika asked.
+
+“He’s a scholar,” Rain said with a shrug.
+
+“Ah,” Velika said, nodding. “That explains it. Anyway, hurry it up. I’ve got dozens of voices yelling in my head, and I need to figure out how to block them. The sooner we’re done here, the better.”
+
+“They still aren’t telling you anything?” Rain asked.
+
+Velika shook her head. “No. Apparently, they’ve decided Westbridge was a traitor and that I’m a spy for the Empire.”
+
+“Was he?” Rain said.
+
+“How the fuck would I know?” Velika said, throwing up her hands. “They won’t even tell me how he died, which I’m pretty sure means that they killed him.” She walked to the barrier and swiped at it with a sword. The people on the other side jumped back, but the metal just passed through harmlessly without releasing a shockwave. “Just checking. Okay, Rain, memorize their names so you can let them in. Better yet, tell them to get out from under the rock and shut the damn thing off.”
+
+“No,” Bartum interrupted. “Not unless we are sure the Empire is gone.”
+
+“Right,” Rain said. “Ameliah, any sign of the Empire out there?”
+
+She blinked, taking a moment to respond. There was a lot to process. “No, we haven’t seen them since they left.”
+
+“Hmm,” Rain said. “Doesn’t mean anything, given that Lightbreaker is with them. Sorry, Velika, we’re doing this the slow way.”
+
+“Whatever,” the Citizen said. “Just get on with it. I’m tired of babysitting.”
+
+“Fine,” Rain said, turning to Ameliah. “Okay, Ameliah, I need your help. I’m the only one who can control the barrier for now—long story. Velika isn’t going to let me go out there until we know that Lavarro isn’t going to try anything. I need to know who is who before I can let them through the shield, so can you go find out all of their names?”
+
+Ameliah nodded despite her many questions. “Sure, I can do that, but how are you in control of the barrier?”
+
+A pained look appeared on Rain’s face, almost as if he’d been suddenly injured. It grew worse as she watched in concern. What in the depths? Rain rubbed at his neck, closing his eyes as he visibly struggled. “It’s… It’s because I’m a Dynamo, I think. I was able to use the Majistraal artifact, but it’s…” He grimaced. “I’d… I’d like to talk to you. I need to talk to someone about it, but…” He stopped, looking away.
+
+“Rain…” Ameliah said. What happened to him?
+
+Rain took a ragged breath. “I can control the barrier. Let’s just leave it at that for now.”
+
+“Rain, tell me,” Ameliah said, stepping closer to him.
+
+Rain looked up. “I will. Later.” He smiled at her weakly, his distress fading. Whatever had come over him, it looked like it had passed. “I’m glad you’re here.”
+
+The Warden paced back and forth outside the barrier like a caged animal. The party from the city had left, leaving her to wait while Rain went to reconfigure the barrier. It wasn’t what she would have done had she been in her own skin, though she was certainly restless enough for it. Lavarro would have, though, and she needed to maintain the deception. Officer Turton was the only one who was aware that she wasn’t who she seemed to be, and she wanted to keep it that way.
+
+Lavarro’s daughter gave her the excuse to remain here, a plausible motivation for the woman’s irate behavior. She’d briefly interrogated Officer Bartum when he’d passed through to speak with Turton. No one in the city knew of the fall of Westbridge, and until they found out, she’d be able to use Lavarro to exert some control over the situation. The city had to return to the Watch. She needed access to the artifact powering the barrier. With it, she’d be able to turn Fel Sadanis into a city to rival Xiugaaraa.
+
+She paused to glare threateningly at the others waiting in the Lee, watching them flinch back in terror. Then she returned to pacing. I will admit that that is fun.
+
+Lavarro was motivated by pride and the desire for power, yes, but her daughter was important to her. She wanted her to follow in her footsteps and had been trying to help her unlock the pure-elemental class Cold Mage. Mahria had been holding off on her class selection for years, using respecialization accolades that her mother had purchased for her as the pair of them tried to ferret out the exact set of Cold-aspect skills required.
+
+You have no idea how close you were.
+
+Mahria’s current build was only one spell away from the required combination. Anyone could pick cold spells randomly and get the uncommon Ice Mage, but the more general class was something else entirely. It wasn’t surprising that they hadn’t figured it out.
+
+The Warden frowned. Knowledge was dangerous, especially when it came to rare classes. Even in her own organization, information on them was restricted. Classes were selected for officers based upon compatibility, need, and their desires, but only in exceptional circumstances would a rare one be provided at level five. The risk was too great otherwise, though the strength of the Watch suffered for it. Such was the cost of maintaining control.
+
+And yet, she was considering telling Mahria the secret before she severed ties with her. A last gift from her mother before she learned of the atrocity that she’d committed. Something to soften the blow, and, depending on how she framed it, a lever to push the fledgling Cold Mage onto a path that would keep her on the side of order.
+
+Don’t make the same mistakes I did, Mahria. You need to be better. I…I’ve done things… A tear. A shake of the head. My power corrupted me. You need to be careful…
+
+The Warden paused. Would it work, do you think? She released her hold on Lavarro’s thoughts, allowing the woman to respond.
+
+Fuck you!!! Don’t you fucking talk to my daughter, you bitch! I will hunt you down in your little island and fucking murder—
+
+That’s quite enough of that. The Warden sighed, silencing Lavarro once more. The woman was too far gone. She stopped, turning to face the city, reaching out to touch the barrier. It was still closed to her.
+
+The Dynamo is the key. Now there is a man whose mind I’d like to examine.
+
+She was having difficulty connecting Lavarro’s memories of Rain to her own impressions of the man, and there were other irregularities besides. He didn’t seem dangerous, only odd. Very, very odd. She put it out of her mind. She’d seen stranger things before, after all. Being an imprint, she didn’t have access to any of her mental powers, other than the total domination of her host; thus, she wouldn’t be able to easily satisfy her idle curiosity. It wasn’t worth worrying about, given that she needed to remain focused on the current situation.
+
+Given what I’ve learned, it is likely that Rain will return control of the city to the Watch. I put it at a chance of eight in ten. I just need to prevent the Citizen from contesting it or trying to claim it as her own. I don’t know that I’ll be able to defeat her in this body without collateral damage. Above all, I cannot allow them to lower the barrier completely. If Fecht gets this city, he’ll have the whole continent.
+
+She returned to pacing.
+
+How does the artifact work? Can I get Rain to explain it to Lavarro? Hmm. Not likely, given their history. I’ll need someone else. Can he let someone through that he doesn’t know? Guardian Dunwich would be perfect, and he’ll be standing by in Jarro on my orders. If he gains control of the barrier, we’ll have won.
+
+She glanced at the damaged mindcaster. It wouldn’t be that difficult to repair, but Lavarro wouldn’t do that, let alone know how. Her hands were tied if she wanted to maintain her cover. She’d need someone else to send the message for her. Fortunately, there was one person she could trust. Turton was loyal. He wouldn’t willingly reveal her control of the exGuilder, and by using her command phrases, she could work through him to take control of the local Watch and get access to their mindcaster.
+
+She would transfer Turton to Vigilance once this was over, of course. Loyalty didn’t mean that he was incapable of revealing the secret unknowingly. It was vital that she kept her puppetry of Lavarro concealed. The woman’s body would be a powerful tool for the future. Often, the Watch needed to get their hands dirty in the name of the greater good, but there were some things that they simply couldn’t do. An insane exGuilder, on the other hand, could do anything.
+
+It was a dangerous game that she was playing, but she was tired of watching the world suffer. If she really wanted to keep the secret, the smart thing would have been to Imprint Turton as well, but that was a line that she would not cross. Lavarro was a criminal of the highest order. Turton was not.
+
+She stopped again, taking a moment to pound on the barrier angrily before leaning against it. She looked down, shaking her head, then spoke to her host.
+
+You are already dead, condemned by your own actions. Your body is nothing more than a tool that I will use to offset some of the wrongs that you have committed. Once I return to Vigilance, if you ask, I will obliterate your mind so you do not have to suffer. I am not without mercy.
+
+The Warden stumbled as the force pressing against her back vanished. She recovered almost instantly, catching herself with a pillar of force. Lavarro’s body turned and rushed toward the city, off to see her daughter, but the Warden was still in control. Always.
+
+Wearily, Rain hauled himself up the wooden barricade, wishing for his cloak. It was cold outside the dome, but he didn’t want to use Immolate. As odd as it sounded, the cold felt somehow right, and using magic to push it away would have ruined that feeling.
+
+Tallheart’s head turned minutely as he reached the top, but the antlered smith didn’t otherwise acknowledge him. As he did, a half-felt sensation flickered across Rain’s awareness, then vanished.
+
+Rain ignored it. Linksight wasn’t behaving properly out here in the real world. There’d be plenty of time to work on it later. He walked over to Tallheart, then sat with his legs dangling over the side, joining his friend in looking out at the frozen wasteland to the south. The mushrooms weren’t growing out here, thanks to the cold. Fires burned on the ground below the wall, having been built there to prevent monsters from spawning in the shadow of the Lee. Past that, the river flowed in an ever-deepening channel, forming something of a moat, even partially iced-over as it was. A Stumper moved in the distance, visible through the lightly falling snow.
+
+The pair sat like this for quite some time, watching the snow fall in silence. Rain didn’t feel the need to say anything. Being out here was enough. Night would fall in a few hours, and he and Tallheart were likely the only two people for hundreds of kilometers, other than those back in the city. The air inside was filled with the chaos of evacuation and the hot stench of unwashed bodies. Out here, it was crisp and cool.
+
+Rain had spent most of the day typing names, of course, a painful and tedious process that didn’t even benefit from time acceleration anymore. Now that he had constructed an interface for the obelisk to use, it no longer banished him to the shadow realm when touched. Instead, his terminal and keyboard merely appeared, robbing him of his opportunity to take advantage of the time-dilating properties of soulspace.
+
+Not that he would have. He’d been alone for long enough.
+
+Tallheart shifted, and Rain bit off his question about why he was out here. He knew why. There were too many people in the city. Too many humans. Instead, he looked back out at the snow and sighed. “I missed you, Tallheart.”
+
+“Mmm,” the smith rumbled.
+
+“What will you do?” Rain asked. It didn’t seem likely that Tallheart would want to live in the DKE.
+
+Finally, Tallheart looked at him. “I do not know.”
+
+Rain nodded. “Yeah.” He didn’t want to go to the DKE either.
+
+“Does the teleporter work?” Tallheart asked, staring in the direction of the Stumper.
+
+“Yes, as of around two hours ago. Bartum gave me a drawing of a guardian by the name of Dunwich. That was enough for me to let him through the barrier, and then I gave him control of it. It’s better that way.” It doesn’t even look like it hurts him when he uses it. I wonder what kind of interface he sees.
+
+“Mmm.”
+
+Rain sighed, lying back to stare up at the stone of the Lee. A line of light bulbs dangled there, glowing unsteadily. He tilted his head to look at Tallheart. “How does one become strong?”
+
+The silence stretched as Tallheart considered this. Finally, he spoke in a soft voice. “Will.”
+
+“That’s not enough,” Rain said.
+
+Tallheart looked away. Suddenly, Rain found himself having to fight against the heat of tears. He’d almost broken down in front of Ameliah several times, but there had always been other people around, and they’d both been so busy with the evacuation that he’d been able to hide his condition from her. He’d thrown himself into the work to avoid confronting the feelings, but now they were welling up again.
+
+The world isn’t fair. Will… Ha. As if. The Shift killed thousands of innocent people. The will to survive won’t save you from a Razorspine.
+
+He shook his head, pushing the thoughts away from the pain, but his mind only jumped to an even darker memory. He cursed his Clarity as he found himself confronted with the crystal-clear image of Melka’s face, her dead, lifeless eyes staring up at him. It hurt, and it wasn’t a pain that the barrier stone’s torture had numbed him to. It was a different kind of agony. Also, there was the knowledge that Velika was going to get away with it. That had been her condition for the Watch: a pardon in exchange for a peaceful handover of Fel Sadanis. She was already gone, not back to the DKE, but off on her own to who knows where. A rogue Citizen, the first that there had ever been. To Rain, she was just the woman who had murdered his friend. And there’s not a damn thing I can do about it.
+
+The tears broke free, and it was a long time before they stopped. His mind kept spinning, jumping from face to face. Melka. The other members of the Watch. His parents. Tallheart remained motionless, letting him cry. Somehow, this was the right thing.
+
+When it was finally over, Rain took a ragged breath, too tired to even open his eyes. “Sorry, Tallheart,” he murmured. “Sorry…”
+
+“Persistence, caution, and time,” Tallheart said.
+
+The oddness of this statement dragged Rain out of his misery, forcing him to open his eyes. He sniffed, looking at Tallheart. “Huh?”
+
+“The way to become strong,” Tallheart said. “You are right. Will is not enough, but it is the beginning.” Finally, he turned to look at him. “We were driven by our past, set upon the destruction of the Empire, but we learned quickly that recklessness would only lead to our deaths.” He paused, tilting his head. “Will it help you to hear this?”
+
+Rain nodded, pushing himself back up to a sitting position. He didn’t need to ask who Tallheart was talking about. He’s lost just as much as I have. No. He’s lost more… His wife… His parents… His entire people…
+
+“It takes great will to walk away,” Tallheart said, shaking his head slowly. “To pass up an opportunity in favor of the slow and steady course. Snowlilly died because she forgot that. She died because I allowed her to convince me that the risk was acceptable.”
+
+Tallheart looked back out at the snow. “We traveled for years through untamed lands. Around Bellost at first, then, once we came to this continent, in the Badlands to the south of here. When we outgrew them, we moved on. Below this world, lies another, and it is vast beyond imagining. There are places deep beneath the ground where no human nor cervidian has ever trod.”
+
+Tallheart turned to look at him. “In such places, opportunity lies for those with the will to endure. In the depths, there is no safety. There are no cities, no sanctuaries, no allies to turn to for help. You have to go deep. Far from the boundary where others have already claimed the easy prey.”
+
+“That…” Rain sat up fully. “Tallheart, that doesn’t sound like avoiding risk.”
+
+Tallheart’s mouth quirked. “That is because it is not.” He held up an open hand, then closed his fist. “You would call it…calculated…risk.” He tapped the fist lightly against his breastplate. “We did not do it overnight. Lilly and I moved like specters in the dark. She would scout, remaining unseen thanks to her skills until she found a target we could kill. Then, she would return to me, and we would prepare. I would build us the equipment we would need—tailor it to the task of defeating one singular monster. Often, it would take weeks. Strike. Retreat. Recover. Strike again. Blue by blue, we wormed our way down, one layer at a time. Eventually, we would reach the bottom, and then we would return to the surface to find another cave. Hopefully, a deeper one. Again and again, we did this.”
+
+He paused, looking down at his knees.
+
+“Each time, we descended slowly and with great caution. There is nothing harder than walking away from a foe that you know you can defeat. And yet, we did it over and over again whenever there was even a chance that something could go wrong. Then, one day, we decided to take a break. To experience the life that we had been missing below the earth. A month turned into a year, and then a year turned into two. Two years that made us forget our caution. When we resumed our descent, Snowlilly had grown…impatient. Our progress was no longer fast enough.”
+
+Rain watched silently as Tallheart took a deep breath.
+
+“I told you before of the lair that we found. It was above our level, but we thought we could defeat it. The monsters inside were weaker than they should have been. Still, we were careful. We studied them. Learned their strengths and their weaknesses as we delved deeper each day. And then the dragon descended upon us. Two people…are not enough. Not for a dragon.”
+
+Tallheart lapsed into silence. At a loss for what to say, Rain reached out awkwardly, patting him on the shoulder. Tallheart looked down at his hand and snorted, the barest flicker of amusement on his face. He wrapped an arm around Rain’s shoulder, then pulled him in a bone-crushing hug.
+
+Rain squeezed back as hard as he could, feeling like he was grappling with a rock.
+
+Suddenly, there was a click of snapping metal. Tallheart snorted and released him, then bent to examine the gash in the side of the breastplate. It had torn open again from the pressure.
+
+“You have not been taking care of your armor,” Tallheart said flatly.
+
+Rain smiled. “The armor saved my life.”
+
+“Will you tell me the story?”
+
+Rain nodded. “Yes, but in return, you have to tell me how you made those.” He pointed to the string of light bulbs hanging from the stone above them.
+
+Tallheart rumbled ambivalently. “That was Jamus and Staavo. Ameliah and I merely helped.”
+
+Rain smiled. “Yeah, Staavo already cornered me. He didn’t want to answer my questions, though, just to ask his own. I ditched him with Myth and Reason. Myth’s an alchemist, and Reason’s a chemist. Staavo’s got them working on coated wire.”
+
+Tallheart snorted. “The old man is worse than you when it comes to endless questions. I did not think it was possible.”
+
+“Hey,” Rain said. “Ouch.”
+
+“You are getting better,” Tallheart said. “Now, tell me the story.”
+
+“Hold on,” Rain said, looking back at the city. Now that he had macros, he’d set Detection to automatically ping for entities every thirty seconds, and his latest scan had revealed a group headed in their direction. As they passed through the barrier, their voices became audible.
+
+“There you are, Rain!” Jamus called. He was towing a bedraggled-looking Carten behind him, and Val and Ameliah were not far behind. “I need you to tell Carten to stop moping. He got out of it alive, so he should be happy. I still can’t believe that he was dating a Citizen.”
+
+“—an idiot,” Ameliah finished saying as she passed through the barrier, looking at Val. “You seriously tried to solo a lair? Did you not listen to a single thing that I said?”
+
+“I am aware that I am an idiot, yes, thank you,” Val said loudly. “Rain has already made that abundantly clear in addition to saving me from myself several times.” He turned away from her and waved in Rain’s direction. “Hey Rain, I got you something. Catch!” He hurled a dark bundle that he was carrying in Rain’s direction, then cursed when it failed to make it even halfway. The twine holding it together had snapped in mid-air, sending the bundle of black cloth flapping to the ground. A cloak?
+
+Rain smiled and got to his feet, watching as Val stooped to collect the fabric. I guess I get to be a ringwraith again. “Come on, Tallheart. Let’s go join them by one of the fires.”
+
+Tallheart nodded. Rain wasn’t sure, but he thought he looked…not happy. At peace, perhaps.
+
+They sat by the fire, and then Rain began to speak. The pain was still there, but surrounded by friends, it didn’t hurt quite so badly. They talked for hours, the conversation turning to lighter topics as the sun set. Vanna eventually turned up, bringing Dozer along after growing tired of watching him. Soon after, Staavo dragged Myth and Reason out to talk to Rain, bringing Meloni and Cloud along with them. Mlem and Ava appeared just before darkness fell, towing a wagon full of food and beer. They charged for this delivery, of course, gouging them outrageously. Nobody cared.
+
+The party ended up lasting well into the night. With the barrier and the barricade, the Lee was safer than the city in some ways. By the time that people started falling asleep, Rain knew exactly what he wanted to do. This was what it was all about. Companions. Allies. Friends. The world could be a cruel and uncaring place, but together, they could fight back.

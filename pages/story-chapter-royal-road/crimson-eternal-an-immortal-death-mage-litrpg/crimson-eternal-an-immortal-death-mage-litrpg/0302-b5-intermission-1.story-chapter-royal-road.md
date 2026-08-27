@@ -1,0 +1,75 @@
+---
+id: 2ac2cb17-53a2-5f5c-aa97-970f05f061aa
+page-type-slug: story-chapter-royal-road
+title: "B5 | Intermission 1"
+slug: 0302-b5-intermission-1
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 302
+ownLength: 1038
+unit: words
+ownProgress: 1038
+publishedAt: 2025-09-03
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2571601/b5-intermission-1"
+royalRoadId: "2571601"
+markedReadAt: "2026-06-29T19:16:05.263Z"
+---
+
+Back on Eternus
+
+Nerissa – otherwise known as Little Blue to the Horseman of Death – feels furious as she paces back and forth in Aria’s office. Because Aria once again ditched her paperwork to go explore the universe. And this time she managed to stop all of Nerissa’s attempts to make it onto her ship to deliver paperwork or keep her from running away.
+
+No doubt the damned pharaoh’s doing…
+
+The Atlantean princess feels helpless when it comes to him. Since the pharaoh of the Rex Dynasty has no respect for her small world at all, and the only thing in his eyes is Aria. So he will always help her with his immense resources to shatter any attempts Nerissa can think of to stop her.
+
+“You should just give up,” Ruby says as she walks into the office with a slightly amused expression on her face. Meanwhile her twin brother walks in behind her with his hands held behind his head and his fingers locked together looking rather smug about it. Like he’s enjoying this.
+
+Nerissa’s eyebrow twitches slightly when she looks at the twins through their reflection in the window. Then she turns around and crosses her arms while saying, “Your mother is causing so many problems for the company…”
+
+“You think she cares about that?” Ruby says with a tilt of her head. “Because she doesn’t care about the company. You should know that by now.”
+
+That comment has Nerissa turning her eyes up to the ceiling in resignation. An act that she knows tells both twins that she very well does know about that.
+
+She has known about her Aunty’s lack of interest in the company ever since the company was set up. It was Nerissa’s idea to set up the company in the first place after all, since it would help make connections for Aria to be given permission to enter different worlds.
+
+But now there isn’t a single world in the universe that would dare say no to a visit from Aria, so she doesn’t really need the company anymore. And she’s filthy stinking rich from her years hunting in Hunter’s Spots making it so that she doesn’t need the income either.
+
+And that pharaoh…
+
+Nerissa sighs as she thinks about the pharaoh who is taking care of all of the maintenance and expenses for the ship Aria is flying around in, no doubt without even telling her about it. And while Nerissa is pretty sure her Aunty knows about it, she is also pretty sure that her aunty couldn’t care less about it.
+
+So, other than the expenses the Horseman makes for her winery and café, she doesn’t have any real expenses and is only earning money from fighting in the Hunter’s Spots.
+
+Nerissa glances at her terminal before opening up one of the streaming services, where she finds a song that her Aunty sang while lazing around in a Hunter’s Spot.
+
+A song that has billions of views and is no doubt earning just as much if not more than her Hunter’s Spot dives.
+
+She even said something recently about considering writing some books in her boredom… just how much money will she get from those?
+
+Nerissa sighs. Because she knows that even if the books are terrible, they will become best sellers for no reason other than the fact that they were written by the Horseman of the Apocalypse, Death.
+
+Which will mean even more money for her non-blood-related aunt.
+
+And even less reason to keep the company running, much less the nation that has been growing around the Pale Mercenaries company.
+
+“Maybe you should just ask Mom to transfer the company over to you at this point?” Ryan suggests as he sits down on the couch, with Ruby sitting across from him. “You know she’s just going to keep doing this, and if she does, the company will go downhill without its leader to keep things going.”
+
+Those words make Nerissa narrow her eyes for a few seconds.
+
+Then an idea comes to mind and a faint smile begins to stretch across her face.
+
+Without saying anything, Nerissa quickly begins to type away on her terminal before sending a message to Aria. One that is soon responded with a single thumbs-up emoji, showing her Aunty’s usual short responses. Responses that usually get on Nerissa’s nerves for being too short but don’t bother her this time.
+
+Because without hesitation, she immediately gets to work on filling out some documents while the twins laze around next to the table playing games or messing on their terminals. And when she finally gets everything together, gets an electronic signature from Aria, and sends it to the necessary locations, she turns her smirk towards the twins.
+
+Twins that both immediately look up at her when their werewolf senses notice her.
+
+But it’s too late as Nerissa activates the security measures of the office, sealing all exits as she stands up from the desk and walks around it before stopping in front of them with her arms crossed.
+
+“Um, Aunty Little Blue, what is going on?” Ruby asks, sounding a little nervous. Meanwhile Ryan looks around the room with some intrigue, clearly interested by the security measures in his mother’s office more than his being locked up.
+
+Nerissa doesn’t pay attention to any of that though as she smiles at them and reaches back at one of the massive piles of paperwork on the desk. Then she says, “Oh, nothing much. I just finished going through all the proper channels and getting the signatures to give you and your brother permission to sign documents within the company on your wonderful mother’s behalf.”
+
+Ruby’s eyes widen in shock and realization before she immediately gets up from the couch she was lounging around on playing with her terminal and rushes to the exit to slam her fist into it. Only for her attack to do absolutely nothing to the wall.
+
+“Now then,” Nerissa says, her smile growing wider and wider as a look of horror crosses both twins’ faces. “How about you get started on the paperwork you were just smugly amused about being piled up while your wonderful mother is on her little trip?”

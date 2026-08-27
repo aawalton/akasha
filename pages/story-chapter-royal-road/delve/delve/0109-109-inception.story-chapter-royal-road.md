@@ -1,0 +1,429 @@
+---
+id: daf06ec8-e1e6-5d87-8790-c0e6be2ef452
+page-type-slug: story-chapter-royal-road
+title: "109: Inception"
+slug: 0109-109-inception
+partOf: delve
+position: 109
+ownLength: 5858
+unit: words
+publishedAt: 2020-08-23
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/543017/109-inception"
+royalRoadId: "543017"
+---
+
+Eighty-seven.
+
+Eighty-eight.
+
+Eighty-nine.
+
+“What are you doing?” Ameliah asked.
+
+Rain paused, letting his arms fall to his sides. He looked at her, ignoring a meaningless twitch from Linksight. I still need to figure out what that’s supposed to mean. Just one more thing for the list. He shook his head. “You haven’t seen someone do burpees before?” he panted. He picked up where he’d left off, trying to keep himself in the proper form as he transitioned from a squat into a plank, then a pushup.
+
+“Actually, no.”
+
+“I’m not surprised,” Rain gasped, completing the exercise with a jump. Ninety. “They suck. I’ve just got…a few left… Don’t mind me.”
+
+Ameliah watched him in silence.
+
+Ninety-one.
+
+Ninety-two.
+
+Ninety-three.
+
+“They don’t look that difficult,” she eventually said. “You aren’t even using weights, just the armor. Wait…” she peered closer, narrowing her eyes. “How many points do you have in Strength right now?”
+
+“Twenty,” Rain answered, not stopping. “Though in terms of…effect…it’s more like six.”
+
+Ninety-five.
+
+“Ah,” Ameliah said. “I keep forgetting how weak you are.”
+
+Okay, ouch. Ninety-six.
+
+Ameliah gestured at the swarm of Coal Lurkers piling up against the barrier near where Rain had decided to do his workout. They were climbing all over themselves, too stupid to realize that they couldn’t get to him. “You know we’re going to have to fight our way back to the city, right? Or were you thinking I was going to deal with that on my own?”
+
+One hundred, thank fuck. Rain had to stop himself from melting to the ground. Instead, he walked in a circle flapping his arms, then stopped to take a long drink of water from his canteen. “I’m training by the barrier…on purpose… so they gather,” he finally managed. He put his arms on his hips, struggling to catch his breath.
+
+“You need a minute?” Ameliah asked.
+
+Rain shook his head, waving her away and taking a few deep breaths. He tried again. “I know we’re going to have to fight, but it’s fine. I think Razorspines stopped spawning. Anything else won’t be a problem. Watch.”
+
+He gestured at the barrier. Immolate.
+
+The innumerable Coal Lurkers that had collected burst into flames, practically blinding him. There were a few startled shouts from behind them, but no flaming spider-bits made it into the Lee. A few secondary explosions indicated that there had been slimes buried in the pile as well, a fact that Rain’s interface confirmed a moment later.
+
+You have defeated [Coal Lurker]x126, Level 2
+
+3150 Experience Earned
+
+You have defeated [Coal Lurker Broodlings]x181, Level 2
+
+4525 Experience Earned
+
+You have defeated [Slime]x14, Level 1
+
+350 Experience Earned
+
+Huh. There were more of them than I thought.
+
+“That’s hardly fair,” Ameliah said, waving an arm through the barrier.
+
+Rain grinned, still breathing heavily. “Isn’t it great? Hey, question. Do you ever stop getting experience for monsters and stuff?” He gestured, mostly to give himself some time to get a lungful of air. “That was like eight thousand experience, even though there was practically no risk. What even is experience? Also, is there an official classification for monster types? Slimes and Coal Lurkers are both worth the same, even though Coal Lurkers are a higher level.”
+
+Ameliah laughed. “I missed you, Rain. You can barely breathe, and you’re using all of your air to ask questions. Yes, it will stop eventually. According to the Guild, Coal Lurkers are ‘fodder’ class, the weakest, and Slimes are one step up at ‘lesser’. After that it goes ‘minor’, ‘normal’, ‘greater’, and ‘elite’.”
+
+“What about ‘reaper’ class?”
+
+“That’s an unofficial name, though most elite monsters are also classified as reapers, so it hardly matters. You’ll hear people call different kinds of monsters things like turtles, mages, strikers and so on. The unofficial terminology varies, but it’s pretty self-explanatory.”
+
+“Ah,” Rain said. His breathing was slowly coming under control. He used a quick blast of Purify to clear away some of his sweat. “So, back to my question. Does experience from weak monsters fall off when I reach a certain level or something?” I’m level eighteen. I’d have thought I’d have stopped getting experience for Slimes ages ago.
+
+Ameliah shook her head. “It’s based on total experience earned from a particular type, or maybe number of kills.”
+
+“Type? So, like, slimes in general, or Slimes, slimes.”
+
+“Slimes in general, I think.”
+
+“Cool… But why, though? And what’s the limit?”
+
+Ameliah shrugged. “High. I’ve never hit it. It’s more of a goldplate problem.”
+
+Rain snapped his head to the left, peering into the black smoke that the barrier was holding at bay. Detection had just fired following his preset pattern, returning an unexpected signal.
+
+“What is it?” Ameliah asked.
+
+“There’s a Chem-Cryst in that mess. Only one, but it’s something.”
+
+“Uh-huh,” Ameliah said. “Rain, we should probably get back to the city.”
+
+“Yeah, I know,” Rain said, glancing over to where the others were having breakfast. They were far enough away that he wouldn’t have to worry about being overheard, as long as he spoke softly. Staavo was trying to fish what looked like a spoon out of Dozer. The slime seemed to enjoy being a nuisance. “Listen, Ameliah. I want to talk to you about, well…” He hesitated, looking at her. “What are you going to do now that the barrier is open?”
+
+“I was going to stick around to help with the evacuation,” Ameliah said. “After that, I’m not sure. Maybe I’ll go to Bellost. Get away from the war. What about you?”
+
+“I…” Rain hesitated. Damn it, just go for it. “I want to form a party. A real one, not just a one-time thing. You, me, Tallheart, Jamus, maybe Carten and Val if they’re interested.”
+
+Ameliah looked away, rubbing at her elbow. “I don’t do parties. Not official ones. And Tallheart’s not in the Guild.”
+
+“Why the hell won’t they let him join, anyway?” Rain said.
+
+“Policy,” Ameliah replied. She didn’t sound any happier than Rain did. “The Guild is for humans only, according to the rules. It used to be different, I think.”
+
+“Fucking racists,” Rain said. “Specists. Whatever.”
+
+“Yeah,” Ameliah said. “The Guild’s got some problems.”
+
+“Fine, whatever. Not a party then. I want us all to stay together, and if the Guild won’t let me form an official party, I’ll form an unofficial one. I’ve been thinking about it since last night. Some sort of, I don’t know, mercenary company or something.”
+
+“A what?”
+
+“A company.” Rain shrugged. “Mercenary is probably the wrong word. It implies that we’d be fighting other people. I just mean something like what I had going on in the baths.”
+
+“I’m not sure what you mean.”
+
+“I mean…” Rain sighed, rubbing at his neck. “I mean a big group of people traveling together. Living on the road and making their own fortune. Like bandits, without the banditry. Awakened and unawakened, both.”
+
+“Okay…” Ameliah said, still looking confused. “Why would you want to do something like that?”
+
+Rain sighed. “I need to be stronger. That means I have to go find lairs and stuff, but I’m a support, so I can’t do that on my own. I thought that’s what the Guild was meant to help with, but if they won’t let Tallheart join, well… I don’t want to abandon anyone.”
+
+Ameliah didn’t look convinced, but Rain just shook his head and plowed on. “I don’t want to leave without Tallheart, obviously, but there’re the workers, too. I feel responsible for them. You’ve met Vanna. If she joins, then a lot of the others would probably come with her. She’s a good leader. Damn it, I’m rambling, and you get the point. Look, Ameliah, we’re friends, right?”
+
+Ameliah blinked at him. “Yeah?”
+
+“And friends stick together, right? Will you help me start a company?”
+
+“Rain,” Ameliah said gently. “You’re going to have problems if you try this. People aren’t going to just—” She paused, shaking her head. “I’m not going to just—” She stopped again, sighing. “I don’t like to get tied down, Rain.”
+
+“Please, just consider it,” Rain said. “I can’t do it without you.”
+
+Ameliah closed her eyes, a pained expression crossing her face. She turned away, looking up at the sky.
+
+“Ameliah—” Rain cut himself off. Damn it, I’m being selfish. She isn’t going to want to babysit a whole bunch of unawakened. I came at this the wrong way. Stupid, stupid, stupid.
+
+Ameliah sighed, then turned to face him again. She held out her hand, and a tiny speck flew into it. It took Rain a moment to recognize that it was the Chem-Cryst he’d sensed earlier.
+
+She showed it to him as she spoke. “Why do you think the workers are going to join your ‘company’? Are you going to pay them? How? Who’s going to volunteer to live on the road, risking starvation, death, and poverty, rather than just settle down in a new city?”
+
+Rain shook his head. “I can figure all that stuff out, and that’s not the point. The point is getting stronger together. If unawakened join, we awaken them. If we find a high-level blue, we work together to take it down.”
+
+“Just like that?”
+
+“Just like that,” Rain nodded. “I’m not saying it’s going to be easy, but with you and Tallheart, we’ve got a start. Eventually, it should become self-sustaining. Nobody has to stay if they don’t want to.”
+
+Ameliah sighed, tossing him the Chem-Cryst. “You’re talking about founding your own guild.”
+
+Rain scrambled to catch it, then nodded. “I suppose I am.”
+
+“And you think the real Guild will just let you do that?”
+
+“No, of course not, not if I frame it like that. Look, at first, we’ll be small enough that they’ll just ignore us. The Guild doesn’t try to stop nobles from awakening their children, do they? This is the same damn thing. Eventually, if the company gets big enough that they start having a problem with us, well, we can figure something out. By that point, I mean to have a secret base and an airship at the very least.”
+
+Ameliah sighed. “What’s an airship? Wait, never mind. Not important. Fine. Let’s say you try this. All of your worker friends join. Then what? We just take the teleporter through to Jarro and start doing odd jobs?”
+
+Rain shook his head. “No. I don’t want to go to Jarro. I was thinking Vestvall would be our first mission.”
+
+“What?” Ameliah said incredulously.
+
+“Now hold on,” Rain said. “Look, you were there yesterday when Dunwich was explaining. Anyone who uses the teleportation platform to get to Jarro or Southguard is basically signing up to live in the DKE. The Watch can’t do anything about it. There’s no platform in Vestvall, but we can get there the normal way.”
+
+“So you’re going to just lead a bunch of unawakened on foot through a ranked zone in winter? How many times did you say you hit your head in the fight with the Razorspine?”
+
+“Ha ha,” Rain said. “But look. Tallheart will come. He’s not going to want to go to some random city in the DKE. If you come too, I think we’d have a shot. And besides, there’s a good reason for going to Vestvall. There might be survivors there, depending on how badly they got hit by the Shift.”
+
+Ameliah paused, then glanced at Jamus, who had his back to them.
+
+Rain nodded. “Jamus’s family. Exactly. I have to talk to Tallheart, first, before I talk to him. I don’t want to get his hopes up. Once we get to Vestvall, we check for survivors, then come back here, or even head east through the wilderness. It’s a long way to the coast, but there’s another free city over there.”
+
+“Three Cliffs,” Ameliah said. “And ‘city’ isn’t the word I’d use. It’s a smuggler’s port.”
+
+“Doesn’t matter,” Rain said. “Lots of people who were living in Fel Sadanis were probably here for a reason. They aren’t going to want to go to the DKE any more than Tallheart is. What I’d really like to do is bring them south. Into the Badlands. That’s where the essence monsters are.”
+
+Ameliah laughed. “Oh, you are definitely insane if you think people are going to follow you into the Badlands.” She held up a hand before Rain could reply. “A rescue mission to Vestvall is a reasonable idea. You should have started with that. I’ll come with you, just not if you’re trying to escort half of Fel Sadanis there. After that, well, we’ll see.”
+
+“Yes!” Rain said, resisting the urge to hug her. “You won’t regret it.”
+
+Reason shivered as the wind cut straight through his coat. There was no protection from the wind atop the barricade that surrounded the Lee, and his black jacket had been designed for theatrics, not protection from the elements. The high collar only did so much. I should get a cloak made in the same style. Lined with fur. Another gust of wind blew, and Reason pulled his jacket tighter. At least Ter’Karmark was warm.
+
+“Okay, I’m here, what did you want to talk about?” Myth said, hauling himself up over the edge of the barricade. “Would it have killed them to have made stairs?”
+
+“I want to talk about our plans,” Reason said in Vejik.
+
+“Ah, yes. We should,” Myth said, switching to the same language.
+
+“Obviously, we’re not going to be able to stay here,” Reason said, gesturing at the frozen wasteland. “The Watch only tolerated our presence because this was a city first and a stronghold second. If they’re running it as a fortress, they won’t want outsiders hanging around.”
+
+“Plus, our shop exploded, so there’s that,” said Myth.
+
+Reason nodded. “Where, then?”
+
+“A good question. Do you think we could try Ter’Karmark again?”
+
+“What the heart desires, the body must provide,” Reason quoted, then shook his head. “You remember what being in the ten-thousand was like. If we could earn a place in the thousand, then maybe, but do you really think we’d fare any better this time around? It isn’t like we’ve gotten any stronger.”
+
+Myth sighed. “The DKE, then?”
+
+Reason snorted. “Do you want to be a slave? Because that’s what would happen once one of the Citizens got wind of a pair of unaffiliated crafters.”
+
+“It might not be so bad,” Myth said. “If we found the right Citizen, then—”
+
+“No,” Reason said. “I am my own master. The DKE is off the table.”
+
+“You say that, but I’m not hearing any alternatives.”
+
+“We need to leave the continent, obviously. I was thinking Bellost.”
+
+“What?” Myth said. He lost his footing on the unsteady barricade and had to windmill his arms to avoid falling, though he recovered quickly. “We can’t go to Xiugaaraa. You know how they treat people like us.”
+
+Reason shook his head. “I didn’t say Xiugaaraa; I said Bellost. There are other cities on the continent, not just the City of Lights.”
+
+“Yes, but will it be any better?” Myth asked. “I don’t know much about the smaller cities, but being so close to Xiugaaraa, they might hold similar opinions.”
+
+“We will have to risk it. Unless you want to try Rellagia.”
+
+“No,” Myth said. “We barely escaped as children. They’d kill us the moment they realize we’re awakened, which they would the moment we set foot on the continent.”
+
+“I am not convinced that rumor is true, but regardless, I agree with you. Thus, Bellost, even if we must deal with some unpleasantness. Who knows, it might not be as bad as we’ve heard. You saw for yourself that not all Guilders are so close-minded. No one in Fel Sadanis has given us any trouble.”
+
+“Yeah, but we haven’t exactly made an announcement about ourselves,” Myth said, pulling his own jacket tight. It was a white mirror-image of Reason’s, and thus, no warmer. Neither of them had any other clothing, it all having gone up with their shop. “We’ve been discreet.”
+
+“People can tell,” Reason said. He gestured toward Rain, who was busy speaking to the silverplate, Ameliah. “Rain figured it out, and we’ve only spoken with him a few times. He doesn’t seem to care, but he’s definitely noticed.”
+
+“What makes you say that?”
+
+Reason shrugged. “He made this face like he’d solved a puzzle. It was after he brought Cloud to us. I know he doesn’t care because he didn’t treat us any differently afterward.”
+
+“That’s hardly proof,” Myth said.
+
+Reason shook his head. “Not everyone is as oblivious as Meloni.”
+
+Myth snorted. “Meloni knows. Be careful who you call oblivious, genius.”
+
+“She does not know,” Reason said. “I am quite sure of it.”
+
+“Seriously?” Myth said. “Stop messing with me. There’s no way you haven’t picked up on how she keeps smiling at us whenever we’re together. She even winked at me once.”
+
+“Whatever,” Reason said, exasperated. “We’re getting off topic. Would you be willing to try Bellost?”
+
+Myth chewed on his lip, looking back at Fel Sadanis. “What about the southern isles?”
+
+“Hmm. Perhaps.” Reason tilted his head. “I do not know much about them. I believe the merchant is an islander… He has an islander sword, at least. We can ask him. Still, we would have to go to Bellost anyway if we wanted to book passage on a ship.”
+
+Myth sighed. “Fine. Bellost.”
+
+“Good. Now we just need to figure out how to get there.” Reason shook his head slowly. We’re going to have to start over. Again.
+
+Their life savings had been in the shop, just like everything else. They hadn’t gone back to search through the smoking crater. There wasn’t enough chemical resistance in the world to deal with that. Not even the toxic moss was growing there. Perhaps a Tel or two had survived, but realistically, there wasn’t much point to attempting a salvage operation, even if they could get Rain’s help.
+
+We cannot afford international teleportation. It will have to be a ship. Reason laid a hand on Myth’s shoulder, squeezing lightly. He gestured back at the fires with a tilt of his head. “Let’s go back. I’m freezing my ass off.”
+
+After Rain finished his conversation with Ameliah, she had agreed to create a distraction so he could talk to Tallheart without Staavo and Jamus interrupting. Almost everyone else was gathered around the cookfire, still finishing breakfast. Myth and Reason had been on the barricade and were just now on their way back. Tallheart was doing something over by his smelter, though he was supposedly on watch.
+
+“Okay, everyone,” Ameliah said, clapping her hands as she and Rain joined the group. “We’re leaving soon. Before we do, let’s have a little fun. As you saw Rain demonstrate, the barrier won’t block magic, so I propose a contest. Anyone who has a ranged spell, come over here. We’re going to work on our aim and thin out the monsters a bit. Big Coal Lurkers are one point, Slimes are two. If you hit a Stumper, that’s three. Just hitting them is enough. Don’t waste mana trying to kill one, and it won’t count more than once.”
+
+“Yay!” Ava yelled, rushing over to Ameliah.
+
+“Careful, Ava,” Ameliah said. “It’s dangerous. I don’t want you getting hit by—oh.”
+
+Rain smiled. Ava had launched a Firebolt, nailing one of the Slimes that had arrived to investigate the burnt remains of the monsters he’d broiled.
+
+“I’m winning!” Ava declared.
+
+“Ava!” Mlem shouted, his voice stern. “She didn’t say you could start. What have I told you about playing fair?”
+
+“Rule fifty-four: Avoid playing fair,” Ava recited, launching another Firebolt. This one missed. More monsters were rapidly approaching, including a medium-sized swarm of Coal Lurkers.
+
+“Ava,” Mlem shouted, getting to his feet. ”That rule only applies to real enemies! This is a contest!”
+
+“A contest I’m going to win!” Val said. He’d rushed over to Ameliah almost as quickly as Ava had. He raised a hand, blasting a hole through a slime. “Two! We’re tied!”
+
+Mlem puffed out his mustache. “Pfft. Fine!” he shouted, drawing his sword and charging for the barrier. “I’m playing too!”
+
+“No going through the barrier!” Ameliah shouted. Heeding her rule, Mlem stopped short of crossing the boundary and started slashing through it at the swarm of Coal Lurkers that had just arrived.
+
+“What are the little ones worth?” Mlem asked, but before Ameliah could reply, Val shouted, interrupting her.
+
+“Yeah! Did you see that shot? I got it right in mid-air! That’s six for me.”
+
+“Nuh-uh,” Ava shouted. “That one was mine! You stole it!”
+
+“Um, Jamus,” Meloni said. “Why can the little girl throw fire?”
+
+“There’s no age limit on awakening,” Jamus said. “Though most nobles elect not to awaken their children until they’re a little older. Otherwise…” He shook his head, raising his voice. “Mlem, have you taught your daughter the proper safety—”
+
+“Don’t think he’s listnin’, Jamus,” interrupted Carten, having finished strapping on his shields. “You comin’?”
+
+“Carten—” Jamus began, but the big man was already stomping toward the barrier. He took a wide stance next to Mlem, then started smashing the edges of his shields together through the magical wall, taking huge bites out of anything that came too close. It was surprisingly effective, like an angry bearded horizontal Pac-Man.
+
+“He seems like he’s back to normal,” Rain said to Jamus, gesturing to Carten. “That’s good. I was worried.”
+
+“Mmm,” Jamus said, glancing at Meloni.
+
+Meloni laughed, holding a squirming Cloud. “Go on; I don’t mind.” She turned to Vanna. “Want to make a bet? Jamus or Val? Who do you think will get more?”
+
+“Hmm,” Vanna said. “No bet. Val’s not really trying anymore. He’s started missing on purpose, look. Besides, I don’t know how anyone’s going to verify the count in that mess.”
+
+“He’s planning to let the little girl win,” Staavo said, setting down his bowl. “Didn’t figure him for a softy. There, food’s done. Time to show these youngsters what’s what.” He started walking toward the barrier. He didn’t draw his sword, clearly planning on using magic. “I’m not losing to a little girl, that’s for damn sure.”
+
+Rain shook his head. Ameliah used ‘challenge’. Critical hit. It’s super effective. He looked in Tallheart’s direction, seeing him watching the commotion. “I kinda feel bad for the monsters, honestly,” he said. “That barrier is really unfair.”
+
+“That makes you a softy, too,” Vanna said. “They needed something like this. It’s payback. I just wish I could join them,” She tilted her head. “You know what, no, I am joining them.” She got to her feet, grabbing a burning branch from the fire.
+
+“Rain,” Meloni said, catching his attention. She was also climbing to her feet, having released Cloud, though the overlarge puppy was still safely tied up. “Keep an eye on Cloud.”
+
+“Um,” Rain said.
+
+Meloni ignored him, following after Vanna. She stooped to pick up a rock. Cloud started whining and pulled at his rope, trying to follow after her.
+
+Rain sighed, removing the rope from the stake where it was tied. The dog immediately tried to pull it out of his hands. “Hey, cut that out,” he said, gently reeling Cloud in as he closed the distance. After a brief struggle, he managed to scoop him up into a fluffy bundle. At least Dozer’s not making trouble. The slime was busy cleaning the dishes, content to ignore the chaos.
+
+Rain watched for a moment to make sure Ameliah had everything under control. Myth and Reason had descended from the barricade and were standing next to her, clearly having decided to watch rather than join in. How would an alchemist fight, or a chemist for that matter? Bombs?
+
+Ameliah glanced at him, then smiled and made a shooing motion. He nodded and started picking his way over toward Tallheart through the scattered remains of breakfast.
+
+“Rain,” Tallheart said, greeting him as he approached.
+
+“Hey, Tallheart, got a minute?”
+
+Tallheart rumbled assent, watching the chaos. Rain thought he detected a hint of amusement on his face, but it might have been just his imagination. He snorted, confirming Rain’s suspicion. “She should have known that this would happen.”
+
+“She did,” Rain said, adjusting his grip on the still-squirming dog. Ugh, this guy is pretty heavy. Damn burpees. My arms are like noodles right now. “I’m not sure she expected it to work as well as it did, though. I asked her to create a distraction so I could talk to you privately. In retrospect, I probably should have just told everyone to give us a minute.”
+
+“Mmm.”
+
+“Anyway, Tallheart. I know you probably don’t want to go to the DKE, so I was wondering if you’d want to come with Ameliah and me to—”
+
+“Yes,” Tallheart said.
+
+There was a knock at the door, and the guardian looked up from the report he was composing for the Warden. He hid the fatigue from his face, concentrating on the public persona of the unflappable commander that he maintained in public. “Enter.”
+
+The door opened, revealing Officer Bartum. Dunwich set down his pen, raising an eyebrow. “What can I do for you, Officer Bartum?”
+
+“Greetings, Guardian. I would like a moment of your time to discuss a few things.”
+
+“Of course.” He gestured to the chair in front of the desk. This office had belonged to one of the sentinels—he wasn’t sure which. From the look on Bartum’s face as he entered, he suspected that he’d known the former occupant.
+
+Bartum closed the door behind him before taking a seat. He took a deep breath. “About the Guilder Rain. Have you considered his request?”
+
+“I have,” Dunwich said, keeping his tone level. Officer Bartum was protective of the bizarre Guilder. “Unfortunately, fixing his paling is not something that I would be able to do, nor could anyone, for that matter. He will have to repair the damage himself.”
+
+Bartum frowned. “And you’re not going to tell him how?”
+
+“Correct,” Dunwich said. “Soul manipulation is esoteric knowledge. The required technique is restricted, even among guardians.” He held up a hand, as it looked like Bartum was going to react poorly. “I passed your request on to the Warden. She has agreed to consider it if the Guilder consents to a full mental scan. She is very interested to know how a bronzeplate managed to tame a Majistraal artifact.” As am I.
+
+“She wants him brought to Vigilance, then?” Bartum asked, still looking like he had a bad taste in his mouth.
+
+“No,” Dunwich said. “She extended an open invitation. She hopes that he will come, but it is not a command.” He reached into his pocket and removed a plate stamped with the Watch’s emblem. It appeared physically identical to an officer’s plate, except that it was made of steel—Grand Arcane Steel, technically—instead of bronze. “This is for him.”
+
+“Oh,” Bartum said, relaxing. “I thought I was going to have to fight to get him one of those.”
+
+“Of course not,” Dunwich said. “The Guilder saved countless unawakened and returned Fel Sadanis to our control, and he did so before even asking for a reward. We haven’t given anyone one of these for dozens of years, but if that level of contribution isn’t enough to earn one, I don’t know what is.”
+
+“May I?” Bartum asked. Dunwich nodded, and Bartum picked up the plate. “I’ve never actually seen one of these up close, only the diagram of the signature that I used to train my students.” He turned the plate over to look at the back. “Marvelous.”
+
+“Mmm,” said Dunwich. Even unbound, the signature laid into the metal was clear to his eyes thanks to Reading, as it would be to every member of the Watch. It couldn’t be faked. That was the point—Once it was bound to the Guilder, the pattern would take on the flavor of his soul and serve as irrefutable proof of his identity. It would mark him as an ally, trusted to look after the interests of the powerless. It was the closest an outsider could come to joining the Watch.
+
+“So, does that mean we’re going to let him stay?” Bartum asked. “Rain’s skills would be particularly useful for charging the teleportation platform, not to mention his cleaning spell.”
+
+Dunwich shook his head. “No. We have both issues under control. The bottleneck on teleportation is in Jarro, anyway. The DKE is making a fuss. Regardless, Rain will have to leave, along with the rest. Once the evacuation is complete, all non-Watch names will be removed from the access list. No exceptions.”
+
+“And if he doesn’t want to go?”
+
+Dunwich raised an eyebrow. “Is that likely?”
+
+Bartum shrugged. “I don’t know. He doesn’t act like a normal Guilder.”
+
+“That he does not,” Dunwich said. He’d only spoken with Rain briefly, but that much was clear. His description of the artifact’s interface had been completely incomprehensible. He shook his head, returning his attention to Bartum. “I will leave it to you to manage the situation if it arises.”
+
+He reached into his pocket again, retrieving a second plate, this one made of silver. He offered it to Bartum. “I was going to do this formally later, but since you’re here now, this is for you. You are being elevated to Sentinel, effective immediately, though the expedition will have to wait.”
+
+Bartum looked stunned. Wordlessly he took the plate, his overwhelmed gratitude clear in his expression.
+
+Dunwich’s mouth twitched, betraying the barest hint of his real emotions before he schooled it back to impassivity. He does deserve it. I would hate to have been stuck in this backwater for as long as he has. He cleared his throat, maintaining his level tone. “My responsibility is to protect the barrier stone and to oversee the construction of the citadel. The evacuation is yours. I found a way to grant access to everyone currently within the dome, so there should be no further issues of that nature. We will discuss the permanent leadership structure of the Fel Sadanis Citadel at a later time. For now, you are my second in command.”
+
+“Thank you, Guardian,” Bartum said. “I am honored to accept.”
+
+“Don’t thank me,” Dunwich said. “I just gave you a pile of responsibility and none of the power to back it up. You’re going to be in charge of the sentinels from Jarro until we get this all sorted out, and I expect that they won’t be pleased about the situation. However, I believe that the officers native to this city should have a commander that they know, and you have proven yourself capable.”
+
+Bartum nodded. “Yes, sir.”
+
+“Good. Here’s your first headache. I need you to get rid of those bloody Bankers without causing a diplomatic incident. The thing with the exGuilder was bad enough. To think that we had her in our grasp and didn’t even realize…” He shook his head, relying on his training to project the proper level of annoyance. It went without saying that he was controlling the emissions from his soul. Bartum would get nothing from him.  “And because they will ask, no, there is no way I’m letting one of their recovery teams in here.”
+
+Rain grunted, moving a shovelful of earth. He was helping Tallheart with the smelter by digging a temporary channel for the outflow. They were getting set up just inside the south gate to prepare for their expedition. Jamus and Meloni were nearby, having a private conversation. Staavo, Myth, and Reason were slightly further away, having a slightly less private conversation as they argued about the design of a new generator. Their argument was also confusing, as both Myth and Reason were speaking in mystical mumbo-jumbo.
+
+Much to Rain’s surprise, everyone who’d come out to the Lee had agreed to join the expedition to Vestvall once he’d explained his plan, including the formation of the as-yet-unnamed company. The others were off gathering supplies and, in Vanna’s case, recruiting volunteers. He hadn’t expected Myth and Reason to join, let alone Mlem, but there it was.
+
+What am I going to do if other people want to bring their kids? Damn it, I’m getting a headache already. How many people can we take? Should I set a limit? How do I pick who gets to come?
+
+“Hello, Rain,” Bartum said, interrupting Rain’s thoughts. “I need to talk to you.”
+
+Rain looked up, wiping his forehead. Where did he come from? I need a more specific version of Detection, already. “Hi Bartum, uh, look, I’m sorry. I’m not going to say who did it, but it was an accident. We didn’t mean to set the gatehouse on fire, and we put it out as soon as we—”
+
+Bartum waved him away. “The fire didn’t spread, so don’t worry about it. The walls are hardly going to be important in a few days anyway. Dunwich is preparing the foundations for a citadel that we will construct around the barrier stone and the teleportation platform. Everything else is going to be leveled.”
+
+“Oh,” Rain said. He paused, tilting his head. “That explains the tremors I’ve been feeling. Did you bring through some stronger Earth Mages from Jarro?”
+
+“Yes,” Bartum said. “Anyway, that’s not what I wanted to talk to you about.”
+
+“The expedition? You’re not going to stop me, are you?”
+
+“I did hear a rumor about that on my way here, but no, I’m not. In fact, you have my provisional approval. I don’t like the idea of resettling people in the DKE either. I’d send some officers with you if I could, but it’s a long road to Three Cliffs.”
+
+“Okay then, what—” Belatedly, Rain realized that Bartum had a silver plate around his neck, not bronze. “Bartum, you got promoted. Congratulations.”
+
+“Thank you, Rain,” Bartum said, looking bemused. He smiled, holding out a small black-lacquered wooden case bearing the Watch’s emblem. “So did you.”
+
+Rain took it curiously, opening it to see a metal plate like the silver one around Bartum’s neck, though the metal was darker. His Linksight twinged at him, telling him that there was something unusual about it. Rain was distracted from further inspection by what Bartum said next.
+
+”You are now a <Something> of the Watch. Congratulations.”
+
+Rain tilted his head. “A ‘<Something>’? I don’t know that word.”
+
+Bartum nodded. “I’m not surprised. It isn’t a common honor.” He cleared his throat. “In normal conversation, people call us Watchers, but it should be Keepers, properly. The full name of the Watch is the Vigilant Order of Watch Keepers, if you were not aware. <Something> is another word for Keeper, but it is less...hmm. A Keeper takes ownership of the things that they watch over, while a <Something> merely maintains them and ensures that they are kept in good order. To be a <Something> is to be an ally of the Watch, but not a full member.”
+
+Rain blinked, gratitude mixing with confusion. A horrible realization came over him as the correct word for what Bartum was describing popped into his mind.
+
+Great, now I’m not just the Night Cleaner. I’m the Custodian.

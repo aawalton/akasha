@@ -1,0 +1,161 @@
+---
+id: 9ae06e22-c2b3-5ba4-930b-4f136de7acfe
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 28"
+slug: 0097-b2-chapter-28
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 97
+ownLength: 1599
+unit: words
+ownProgress: 1599
+publishedAt: 2024-02-12
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1515146/b2-chapter-28"
+royalRoadId: "1515146"
+markedReadAt: "2026-06-29T19:09:14.380Z"
+---
+
+Aria
+
+Without hesitation, I snap my fingers, opening up dozens upon dozens of rifts to the Plane of Death. All across the cliffs. And out through them all pass Lesser Minor Death Spirits for days.
+
+Down below us, the enemy soldiers look up at the cliffs, clearly noticing the sudden influx of creatures up here. But they’re too late as the spirits quickly grab the bombs the thrall of the mountain fortress had stashed up here for me before jumping down from the cliff towards the enemy soldiers. And no matter how many times the soldiers blast the incoming spirits, they simply reform while curling in on the bomb without letting it get damaged.
+
+Until they’re almost at the ground and they set off the fuse, making the Death Spirits turn into suicide bombers that simply reform to attack the survivors afterwards.
+
+Of course, most of the enemy soldiers don’t survive the attacks, and the ones who do quite literally shrug off the attacks of the Lesser Minor Death Spirits, but it’s something at least. And it still causes more chaos.
+
+I occasionally withdraw all of the soul energy I put into some of the Death Spirits down there to force them into returning to the Plane of Death before I resummon more up here on the cliffs. Leading to these extra Death Spirits to grab more bombs and jump on down themselves.
+
+A rather good strategy that I actually didn’t come up with this time. Not to mention one that doesn’t involve me killing myself. Which is a first for a while.
+
+My eyes narrow as the more powerful ability holders of the forces down below begin to attack the cliffs, sending entire waves of spells and powers. But a barrier flashes when the attacks reach a certain point, blocking most of them.
+
+The barrier surrounding the Clan’s territory that was altered for the mountain range just to defend these mountains.
+
+I crack a grin. Meanwhile I am spammed with System Messages all the way till the one I’ve been waiting for.
+
+User has leveled-up to level 13.
+
+User’s skill ‘Servants of the Pale Horseman’ will now be upgraded.
+
+Assessing user’s accomplishments and actions… assessment complete.
+
+User’s new upgraded skill is as follows:
+
+Servants of the Pale Horseman
+
+This skill allows the user to summon up to Lesser Spirits of Death, including the two lowest of the hierarchy of Death Spirits. These spirits will then obey all of the orders given to them by their beloved Lady Death.
+
+Set these Spirits on the fools who would try to harm Death herself.
+
+For they do not know of whom they harbor animosity towards.
+
+User will now be given their third skill.
+
+Assessing user’s accomplishments and actions… assessment complete.
+
+User will now be given the following skill:
+
+Soul Fire
+
+This skill allows the user to burn the soul energy they control outside of their body, allowing Lady Death to pass judgment on souls, marking them for all eternity.
+
+For they shall soon learn that Lady Death never forgets.
+
+I blink in surprise.
+
+Holy shit, did I just… huh? That’s… wow.
+
+A new skill and a skill upgrade, which I’ve only ever heard of from the emperor.
+
+Apparently it’s something that can happen if you use a skill a lot, albeit only with certain skills. And only during a level up. And only if your accomplishments and actions merit the upgrade.
+
+Guess using my Lesser Minor Death Spirits so often is coming with some nice benefits.
+
+As for Soul Fire… I have no idea what that is.
+
+So I raise my hand in front of me and enhance it with soul energy. Then I instinctively get the feeling that I can set the soul energy on fire. Which makes for a much easier to figure out skill than Harvest was.
+
+I set it on fire without hesitation, and what was previously a crimson energy kind of on the border between electricity and fire now is just a plain crimson flame. With a creepy face in it.
+
+Why’s there a creepy face in it? No idea.
+
+But there is.
+
+Maybe it’s because it’s a burning part of a soul? That might be it. Although it doesn’t appear to be in pain. More sadistic and creepy than anything else.
+
+I dismiss the soul fire before using the newly upgraded skill to summon a Lesser Death Spirit. And I quickly find a rift opening just like with the Lesser Minor Death Spirits, only for something else to step through.
+
+Instead of the skeletons with glowing red eyes wearing a hood that the Lesser Minor Death Spirits were, this Lesser Death Spirit seems to be wearing some sort of coat with all of the exposed skin on its body being nothing but some sort of pitch black substance. Meanwhile its face is… kinda terrifying.
+
+The spirit has a wide grin on its face with razor sharp crimson teeth, with nothing but a crimson light making up its eyes, nose, and mouth.
+
+Kind of like something straight out of a horror film.
+
+And just like with the Lesser Minor Death Spirits, I feel a sort of bond appearing between us. But unlike them, this bond is a bit more solid, and I can tell it’s able to understand more complex instructions.
+
+Great!
+
+It’s likely also stronger. Although I’m not sure how much stronger.
+
+I glance down at the army below, about to begin testing the new spirit. Only to pause when I notice the faint purple mist creeping up on the army that’s still moving despite my assault.
+
+Oh, right. Rory.
+
+Out of curiosity, I watch the purple mist creep across the ground while the army is distracted by my suicide bombers. But the mist doesn’t seem to do anything.
+
+What’s she doing?
+
+I frown, but my confusion doesn’t last long as once the mist has reached a good chunk of their forces, it suddenly turns pitch black and rushes upwards, leading to screams beginning to echo out through the night.
+
+Screams that weren’t even present during my bombings.
+
+Well then. What was her ability’s Class again?
+
+I never learned before what it was.
+
+The Clan Leader finally stops, meanwhile the winter storm above her head grows more and more turbulent before she glances straight at me while making eye contact.
+
+Oh shit.
+
+Then she pushes both her arms out – one towards me and the other towards the cliff Rory should be on – sending waves of the winter storm out towards us. And the instant it reaches the barrier, it clashes with it on both sides, sending a funnel upwards for a few seconds before shattering the barrier and freezing the entire mountainside solid. Myself included.
+
+But despite my being frozen, I can see the other cliffside and am rather shocked to find Rory’s black mist shooting up from the cliff, no longer creeping as it directly combats the winter storm.
+
+She’s strong enough to fight off the Clan Leader’s ability… I guess Rory is a Class S Ability Holder as well.
+
+Unexpected, but in hindsight, probably not all that much of a surprise.
+
+Considering that Sean went and hired her in the first place.
+
+Aisling Sullivan looks surprised by the fact that Rory is fighting against her on equal footing and turns her attention towards her, having determined that I’m unable to move right now.
+
+She no doubt knows that I’m immortal by now since she should have analyzers of her own, but I doubt she believes I can get out of this when frozen alive.
+
+I just patiently watch as the two clash with each other, wiping out a small portion of her own army in the process thanks to Rory no doubt directing her to do that. Which leads the Clan Leader to shouting something out loud, following which the enemy army has a large teleport circle appear below them. Then they reappear deeper into the mountains, closer towards the fortress but still a ways away.
+
+Far enough to be safe from the battle.
+
+Probably cost them a lot of mana to do that and exhausted their spatial mages.
+
+Hmm. Well then.
+
+The Clan Leader seems to have just started ignoring me now, so…
+
+I glance down with my eyes, unable to move. And the sight of crimson energy beginning to build up all across my skin from the sheer cold damaging my body has me wanting to grin.
+
+The energy slowly begins to build up more and more, and after several minutes with the army continuing its march, it finally begins to grow powerful enough to wear away at the ice. Despite the massive level gap between me and Aisling and the Class S ability she has.
+
+A little bit more time passes before the ice is worn away enough that I’m no longer stuck in place. And at this point, I just begin to work my way through melting a path through the ice with the new soul flame I got. Which seems to work on the ice.
+
+Although it’s rather slow.
+
+Thankfully I built up a lot of that crimson energy, and it’s still helping as it hasn’t really been able to spend itself on anything.
+
+I continue clearing a path all the way until I manage to get out of the ice. Then I begin running across the cliff while sparkling with the crimson energy covering my entire body without missing a single spot.
+
+All while the Clan Leader is too busy fighting with Rory to notice.
+
+Now then.
+
+Time to deal with that pesky little hearth.

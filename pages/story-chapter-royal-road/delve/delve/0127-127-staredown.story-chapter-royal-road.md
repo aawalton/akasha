@@ -1,0 +1,413 @@
+---
+id: 529a1920-c23d-521c-a72f-0d260782f756
+page-type-slug: story-chapter-royal-road
+title: "127: Staredown"
+slug: 0127-127-staredown
+partOf: delve
+position: 127
+ownLength: 5888
+unit: words
+publishedAt: 2020-12-27
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/605615/127-staredown"
+royalRoadId: "605615"
+---
+
+It would be inaccurate to say that Rain floated at the center of a nebula of chaos. It would be inaccurate, even, to say that he was within it at all. Framing the situation in such a manner proceeded from a flawed assumption. It was like asking after the center of the universe. The question made no sense, not to anyone who had pondered the true nature of the singularity.
+
+The center was everywhere. And it was nowhere.
+
+Rain did not exist within the chaos.
+
+Rain was the chaos.
+
+That had been the fundamental shift in perspective that had allowed him to exist in this state. He was aware of the entire extent of his soul, however large that was. It felt vast, but he had no frame of reference—nothing to compare himself to. Regardless, large or small, he did know that he was finite. There was a point at which chaos stopped and nothingness began. A barrier. An envelope.
+
+A paling.
+
+That wasn’t to say that Rain could feel his paling. He couldn’t perceive details within the chaos, not without focus, and focus would swiftly lead to collapse. Rain could, however, deduce the barrier’s condition by watching for patterns in the insanity. He could feel himself, for lack of a better word, leaking.
+
+If the roiling chaos of Rain’s soul was the atmosphere, then the evidence of the damage was a jet stream. A prevailing wind leading toward the edge, and then out.
+
+And yet, Rain was not diminished. Even as he leaked away, he was renewed…by the core.
+
+Again, words failed. The core was everywhere, and it was just as much Rain as the chaos itself. Instinctively, he knew that his soul should have structure. The source of his power should have been visible here—at the very least, as a mental abstraction. Perhaps as a beating heart of magic, like that of a lair, or perhaps as something torn from his subconscious, such as the warp core of the USS Enterprise.
+
+If such an image had existed once, it had been torn apart along with the rest of his soul. Shredded. Pureed. Atomized.
+
+Fixing his soul would require putting that image back together. There could be no center until he made one.
+
+Carefully, Rain coaxed his drifting thoughts toward a concept. This was the tricky part, focusing without focusing. He knew not to try creating anything as complex as the concept of a core. That path led to failure. He concentrated on something simpler. More basic. More fundamental, even, than an atom.
+
+Zero.
+
+The chaos seethed, and Rain almost tumbled back into his body before he caught himself. He relaxed his focus, but not entirely. Guiding, but not guiding. Patterns emerged—memories, flowing through his being and coalescing into the concept he’d chosen.
+
+He almost lost control again in anticipation. Once this step was completed, he’d have an anchor—something to stabilize the chaos and hold him here. A center, even if that center was of his own making.
+
+Slowly, ever so slowly, the idea crystallized. It couldn’t be described as anything that could be seen. Sight was meaningless. And yet, it could be perceived. As the concept snapped into focus, a minuscule void of calm formed around it. An enclave within the chaos.
+
+Zero Bastion.
+
+Rain’s awareness flickered, then snapped into the void. He still existed within the chaos, but his perception of it felt muted, somehow, for all that it was still him. By creating a zone of order, he’d unlocked the ability to focus. In the bastion, he could finally stop to take a breath.
+
+Metaphorically speaking, of course.
+
+I wonder how long it’s been. Someone better have saved me breakfast.
+
+Rain pushed the errant thought away as the walls of the bastion trembled. He still needed to be careful, and the clock was ticking. He concentrated again, his thoughts clinging to the safety of his refuge while simultaneously reaching into the chaos once more.
+
+One.
+
+Again, the concept began to form. If zero was darkness, then one was light. Order again, though of a different form.
+
+The chaos was pushed back, receding as the two concepts flew toward each other through the tumult. As they touched, they merged, the bastion growing to include the twinned concepts of true and false. It was more than that, however. The zone of order expanded. Numbers themselves, binary logic, counting, addition… Each concept built upon the others, strengthening the bubble of structure that Rain had formed within himself.
+
+He concentrated again.
+
+Two… And then, because he couldn’t help himself, he continued in a Transylvanian accent, Ah, ah, ah!
+
+Fortunately, the bastion was strong enough to withstand this sort of distraction at this point. Maintaining it would begin to grow difficult again as he added more numbers, but for now, he was in something of an island of stability. Trying to integrate any concepts save numbers had thus-far resulted in failure, and the best he’d managed so far was counting to fifteen. Today, he was aiming for ten, at which point, he’d try adding negatives.
+
+Just as the number two was about to merge with the bastion, the walls trembled, then it popped like a soap bubble, sand-blasting Rain’s consciousness with the full force of the chaos he’d been holding at bay. He found himself back in his body, opening his eyes to see Tarny staring at him with his hand resting on Rain’s shoulder.
+
+“It’s been an hour, Captain,” Tarny said, removing his hand. “Bringing you back, as ordered.”
+
+Rain sighed. “Thank you, Tarny,” he said. He stretched his neck, working out a kink that had formed while he’d been ignoring his physical needs. “No luck, I’m afraid.” I can’t keep track of time in there. I thought I was going faster than before, but I guess not.
+
+“You’ll get it eventually, Captain,” Tarny said, smiling and offering Rain his hand.
+
+Rain grasped it firmly and allowed the man to pull him to his feet. Tarny had come a long way in the past few weeks, his fervor mellowing into something closer to the loyalty of a friend, if still a bit intense.
+
+Rain quirked a smile. “Okay, Adjutant,” he said in a formal tone. “Report.”
+
+“Yes, Sir,” Tarny said, pulling a clipboard from under his arm. “The count is in for last night’s defense. It’s light, as we expected, given that these are freshspawn. Thirty-seven Tel, two Cold, and two Force. Most have elected to take their shares in credit.”
+
+Rain blinked. “Two Force? Really?”
+
+Tarny nodded. “We don’t know what specific type they came from, as you’d already dissolved the bodies. Speaking of bodies, we’ve delivered the gourmets to Vestvall for processing. As agreed, in exchange for the meat, the townsfolk will tan the skins for us, as well as give us any Tel or Crysts that they extract.”
+
+Rain nodded. He’d already gotten the details of the arrangement from Vanna yesterday. “And the quantity?”
+
+Tarny ran his finger down the clipboard. “Two thousand eight hundred forty-seven kilograms of assorted edible monster corpses. Using our estimated population for Vestvall, that’s three point seven nine six kilograms for every man, woman, and child.”
+
+Rain smiled. “There’s no need to work out the exact division when one of the numbers is a guess.”
+
+Tarny smiled back. “Just did it for the practice, Captain. Oh, that number is gross weight. It does not account for the removal of bones, claws, hides, bowels, and so forth.”
+
+Rain nodded. “Understood. We’ll have to step it up in the future. This should take the edge off, but we need to build a surplus. I’ve got some ideas.”
+
+“Naturally, Captain,” Tarny said, nodding. He turned back to his notebook. “Roll is the same as last night with one exception. All members save Ameliah are accounted for. She left before dawn on a scouting run and has yet to return.”
+
+“Hmm,” Rain frowned. “Did she say when she would be back?”
+
+Tarny shook his head. “No, she did not, nor where she was going—unless she spoke to someone other than the sentries on dawn-watch, that is.”
+
+What’s she up to? Should we wait for her?
+
+Tarny continued as Rain scratched at his beard. “Vanna has ordered the distribution of picks and other mining equipment, borrowed from the townsfolk. As the mayor indicated, we’ve confirmed that the area in which the crack formed was rich in iron. We don’t yet know to what degree it will inhibit Geomancy.”
+
+“Mmm,” Rain said distractedly.
+
+“Shall we prepare to move out as planned, Captain? Rain?”
+
+Rain shook himself, then nodded. “Yes. Sorry, Tarny. We’ll leave at seventh bell. Ameliah will catch up if she’s not back by then, and Corrin should be able to get things going on his own. It will be good practice for him. Besides, if there’s iron, we’ll be using the picks either way. Tallheart will be happy.”
+
+Tarny nodded. “I am sure. Next item, I’ve looked into Crimson Gar and his group. I made sure to speak with everyone who’s interacted with the townsfolk. There are conflicting reports of skill usage, and their behavior could generally be described as juvenile, but not overtly malicious.”
+
+“So, nothing new then,” Rain sighed.
+
+“Not so,” Tarny said. “There is one new detail. Mlem reported speaking to a washerwoman named…Lana. This woman has apparently been helping them with their laundry…among other things. Through this, she has seen each of their plates. All bronze.”
+
+“What other things?” Rain asked, narrowing his eyes.
+
+“Mlem was vague, but it was clear enough.” Tarny spat. “Adventurers.” He snorted, then looked back up at Rain. “As a rule. Present company excluded.”
+
+Rain nodded, though he was scowling as Tarny continued.
+
+“Mlem did say that the washerwoman seemed…well enough. Not in distress or anything, at least not more so than the rest of Vestvall. Merely tired.”
+
+Rain sighed. “I need to know more. I suppose I should talk to Mlem myself.”
+
+Tarny nodded. “Pardon, but what will you do if they are indeed coercing her? Will you confront them?”
+
+Rain sighed. “Yes. I’ll have to.”
+
+Tarny nodded. “Captain, if I may. They’re bronze. You are worrying too much.”
+
+“And I don’t think you’re worrying enough,” Rain said. “You heard my briefing on them yesterday. Do the math. They’re somewhere between level eighteen and level twenty-four, assuming those bronze plates are legitimate. I get the feeling that it’s closer to the top of that range. When they killed the Musk Wolf, they barely even celebrated. That means their caps were higher than that.”
+
+“Oh,” Tarny said, lowering his clipboard. “I hadn’t considered that. I was assuming they’d be the same level as you.”
+
+Rain shook his head. “Even if they were, you shouldn’t use me as a metric for strength. My build is bottlenecked right now. Any off-the-shelf adventurer at my level could kick me to the curb.”
+
+“Is it bad that I am beginning to understand your idioms?” Tarny asked.
+
+Rain snorted. “No, Tarny. Just don’t ask me where I’m from. You know I can’t talk about it.” He rubbed at his neck. “Anything else on Crimson or the others?”
+
+“I’m afraid not,” Tarny said.
+
+Rain sighed. “So be it. Keep an ear to the ground.”
+
+Tarny nodded. “On to less important matters. Firstly, Reason wishes to speak with you concerning the testing of his latest Cold resistance ointment.”
+
+“Is it still stripping the fur?”
+
+“Yes,” Tarny said.
+
+“You tell him no human trials until he can prove to me that it won’t do the same to us.”
+
+“He said you’d say that,” Tarny said, then coughed. “Actually, he said ‘Inform the captain that the pelt of man is unlike that of monster and that timidness is the bane of innovation.’”
+
+Rain snorted. Reason was still speaking like that, even though the entire company was onto his game at this point. “Fine,” Rain said after a moment of consideration. “He can try it. IF he gets a willing volunteer. And I want Tahir on standby to heal any injuries if it goes wrong. You make sure to tell him to test a small quantity first.”
+
+“Yes, Sir,” Tarny said, nodding and making a note. “Next, Samson wishes to speak with you regarding the scheduling of sword instruction. Now that we have arrived at Vestvall, he would like to extend practice to two hours per day, thrice per week.”
+
+“Done,” Rain said, “Ask Lyn and Hanes to extend the staff and archery classes as well, assuming they’re up for it. I’d like to start general combat drills, too, cross-discipline, though we should run that one by Vanna.” He tapped his chin. “Actually, check with her before you extend any of the classes. She might have other plans.”
+
+Tarny nodded, making a note. “And mathematics?”
+
+“Leave that at an hour. People have enough trouble finishing their homework as it is.”
+
+“Thank you, Sir. Your mathematical brilliance is only matched by your boundless mercy.”
+
+“Oh, shut up, Tarny,” Rain said, laughing.
+
+“There is one final, trivial matter. Clubbs has challenged you to a game of chess, reminding you that you insisted upon double or nothing for the rematch. He’s already set up the board over by the well. He is holding your breakfast hostage, I believe.”
+
+Rain froze. “Damn.”
+
+Hegar woke groggily, swiping at his interface to quiet the blaring tone that had dragged him from his sleep. Pulling the cloth from his eyes but not opening them, he groaned as the torchlight pressed against his eyelids.
+
+Another groan from beside him told him that Anton was also struggling awake. Brovose, who was supposed to have been on watch, was snoring heavily. Hegar long-suspected that the man had found a way to disable his interface’s wake-up call—that, or he was actually capable of sleeping through it.
+
+Licking at his fuzzy teeth, Hegar sat up, finally opening his eyes. The Crimson Swords were camped in a section of an old mineshaft, a blazing evertorch lying on the ground where they’d dropped it to provide light. When the Shift had rent the earth, this shaft had been exposed, along with several others. It made for a convenient shortcut, bypassing a particularly narrow and claustrophobic section of the crack that led to what they were calling the second chasm.
+
+“Fah,” Anton said, throwing aside his blanket. The hook-nosed man sat up and ran his hands through his dirty hair. “Morning already. Feels like I just went to sleep.”
+
+Hegar grunted, hiding the grogginess he himself was feeling. He got to his feet, then kicked at Brovose. “Blame this one. Good thing for us that his snoring kept all the monsters away at the same time it was keeping us awake.”
+
+Brovose grunted and rolled over. “…five more minutes…” he mumbled.
+
+Hegar kicked him again, harder, sending him tumbling right on top of the evertorch. Brovose was up in a flash, frantically patting at his filthy embroidered robe.
+
+“Depths, Gar!” he yelled. “What the fuck?”
+
+“Serves you right,” Anton said, grinning. “You were supposed to be on watch, idiot.”
+
+“The barrier is still going,” Brovose said after confirming that he wasn’t actually on fire. He pointed down the tunnel, indicating the faint purple tinge to the darkness. “I just got this robe,” he complained, lowering his arm. “I’m going to have to get it mended…”
+
+“What about that way, genius?” Anton asked, pointing in the other direction. “You think that wooden door is going to—”
+
+“Samahleah’s bounteous tits, enough!” Hegar shouted, interrupting him. “I’ve had it with you two!”
+
+“Hey!” Anton pressed a hand against his chest, miming affront. “I’m innocent. He’s the one that—”
+
+“Shut up!” Hegar snapped. Anton, mercifully, closed his mouth, though he didn’t stop grinning. Hegar rounded on Brovose instead. “And you. If you fall asleep on watch again, we’ll fucking leave you there.”
+
+“Pff,” Brovose puffed. “You wouldn’t. The two of you wouldn’t get very far without a mage.”
+
+“Not like we’re getting very far with one,” Anton said. “What’s it gonna be, Gar? Down again, or back to the surface?”
+
+Hegar sighed. “The surface. I need a shower and a hot meal. We’ll try again in a few days once I’ve got my stamina back.”
+
+“I keep saying we should bring some of the townsfolk with us,” Brovose said, then stopped to fight off a yawn. Once he got his jaw back under control, he continued. “We could…pay them, I suppose. Or not.”
+
+“Dead weight is all they’d be,” Hegar grumbled. He ran a hand through his hair, unhappy with the gritty feeling from his scalp. This had not been a clean run in any sense of the word. They hadn’t even made it past the second chasm this time, let alone the third. It didn’t help that something had been eating the torches they’d left along the way.
+
+Hegar pointed at Brovose. “Get the light. We’re going. Anton, I want you in front. Make sure to check the shadows. When you aim, make sure to sight down the arrow, like I showed you. I don’t want you missing again.”
+
+“Fuck you,” Anton said. “It was one shot. You don’t hear me telling you how to use your rapier, do you?”
+
+“That’s another thing,” Brovose interrupted. “We need to talk about our name. It’s inaccurate. Why are we calling ourselves the ‘Crimson Swords’ when Hegar’s got the only one?” While he spoke, he picked up the torch and began walking down the tunnel.
+
+“Because I won the fucking card game is why,” Hegar snapped, hurrying to catch up before he was left in the dark. “For the last time, we’re not changing it.”
+
+There was a thrum of a bowstring, then a screech from the darkness ahead of them. Anton grunted in satisfaction, then lowered his bow. “Brovose is right. The name is stupid.”
+
+“Your face is stupid,” Hegar said.
+
+Anton spluttered in response. “Fuck you, Hegar,” he said coldly, once he recovered. There was a crunch of breaking bone as he swerved out of the way to step on the leg of the fallen Deepcat he’d shot. It let out a pathetic gurgling mewl, dying but not dead. “Anyway, I think—” he stopped suddenly, holding up a hand.
+
+Hegar had heard it too. It was the sound of metal on stone. The sound came again. Pickaxes, striking in unison.
+
+“Come on,” Hegar said, pushing past Anton.
+
+As the three proceeded up the winding tunnel, the sound of the picks grew clearer. They encountered no more monsters, but another sound soon joined that of the picks. Voices, singing in harmony. The words were muffled by the distance and the earth, yet still recognizable.
+
+♫This: the song of sons and daughters,♫
+
+♫Hide, the heart of who we are.♫
+
+♫Making peace to build our future,♫
+
+♫Strong, united, working 'till we fall.♫
+
+At the first word of each line, the picks fell, sending echos of their impact down the tunnel in time with the rhythm of the unfamiliar song.
+
+The villagers? What in all the hells?
+
+The pool of light from Brovose’s torch rounded a bend in the tunnel, bringing into view the rough-hewn wood of the door that they’d helped the villagers install to control this passage. It was still closed, the heavy oak bar in place. Suddenly, there was a shouted command, and the voices cut off along with the rhythm of the picks.
+
+“Seems they heard us,” Brovose said mildly, walking to the door. “I didn’t think the villagers had it in them to make it all the way down here on their own.”
+
+“Out of the way,” Hegar hissed, shoving Brovose aside. He moved up to the door, then grunted as he lifted the massive bar. He threw it to the side with a crash, then pushed the door open and walked out into light.
+
+He froze as his eyes took in the scene. There was rubble everywhere, with fires burning brightly here and there. The large boulders that had been clogging up the bottom of the chasm had been shattered and were in the process of being reduced to gravel. That wasn’t what had brought him to a stop, however. Instead of townsfolk, the wielders of the picks were…
+
+He had no idea.
+
+The first thing that struck Hegar was how clean the people before him were. Each and every one of the perhaps two-dozen figures was wearing a dappled white cloak, completely free of so much as the smallest speck of rock dust despite the fact that he’d just clearly heard them mining. That wasn’t all, either. They were armed with more than just picks. These were warriors, though Hegar could see no plates to mark their affiliation. His well-honed danger senses were ringing harder than they had since the night of the Shift. It was like being under the eye of the Watch back in Fel Sadanis.
+
+One figure, in particular, had Hegar’s heart beating fast. The man, likely the leader, was staring at them from beneath his helmet. He was standing with his dark gauntlets resting one-atop-the-other on the butt of his long-handled pickaxe. The iron head of the pick was planted confidently on the ground in front of him.
+
+This man wasn’t merely armed. This man looked ready for war. His full plate was more impressive than anything Hegar had ever seen, even in the north, and though he couldn’t judge the quality with just a glimpse, the sword belted at the man’s waist would doubtless be of even finer make.
+
+“Hello, Hegar,” the man said in a relaxed tone. “Fancy meeting you here.”
+
+Hegar blinked. “You…know me? Who…?”
+
+The man laughed. “Yes, I know you. And you know me.” He tilted his head, and Hegar got the feeling that he was grinning behind his visor. “Would you care to take a guess?”
+
+Hegar narrowed his eyes, thinking swiftly. Is he with the Guild? No, I’d have heard of a team like this. A noble? He glanced over his shoulder at Anton and Brovose. They both shook their heads, Anton even going so far as to shrug.
+
+He turned back to face the armored man, then scanned the faces of his followers. On the second inspection, not all of them seemed quite so dangerous, after all. Other than their cloaks, their armor was in poor condition and mismatched. A mercenary band? I didn’t think there were any down this way…
+
+“No guess?” the man asked.
+
+Hegar shook his head slowly. He moderated his words, for all that he was beginning to relax. “Remove your helmet, sir, and then I’ll guess all you’d like.” They were on uncertain ground, here. Until he knew how strong this group was, he would need to be careful.
+
+“I will, once Anton puts away that arrow,” the man said.
+
+Anton hissed in surprise, and Hegar’s eyes opened wider. Knowing my name is one thing, but he knows Anton’s too? Hegar thought back, trying to recall whether he’d called Anton anything other than Skinner since he’d decided on the nickname, coming up empty.
+
+“Who are you?” Anton demanded, raising his bow even higher and sending a wave of alarm through the crowd. The leader didn’t react, but several of those behind him reached for weapons.
+
+“Skinner!” Brovose hissed. “Let Crimson handle it! Lower your bow!”
+
+“Fuck off, Sleeper,” Anton hissed back, his voice barely audible. “I’ve got enemies you don’t know about. If he knows me, that’s not good.”
+
+“And do you know him?” Brovose hissed back.
+
+“Don’t think so,” Anton said, still not lowering the bow.
+
+“Relax, Anton,” the man said. “You do know me. You just haven’t realized it yet. Here, I’ll give you a hint. What is the word in common for a flying animal with feathers?”
+
+“What?” Hegar asked, looking at him in bewilderment. “What kind of heat-fevered question is that?”
+
+“A bird…” Anton said slowly. When Hegar turned to look at him, there was a strange expression on his face.
+
+“No,” the armored man said, bringing Hegar’s head back around. “The correct answer is ‘a shit.’”
+
+“No FUCKING way!” Anton shouted, almost dropping his bow.
+
+“What the hells is going on?” Hegar demanded, rounding on him.
+
+“That voice…” Brovose said, humming to himself.
+
+A clink of metal floated to Hegar’s ears, and he turned to see that the armored man had reached up and was removing his helmet. It came away revealing a young-ish man with brown hair and a short, well-trimmed beard. The man’s features were vaguely familiar, but he couldn’t place them. He was particularly struck by the eyes. There was an intensity behind those brown irises that felt out of place on the man’s otherwise unremarkable face. Those were the eyes of someone who’d experienced pain, time and again, and each time decided that it would not stop them from achieving their goals. It was the look that separated an adventurer from a child that was merely pretending. This man has seen things.
+
+The man smiled, raising his hands disarmingly, and Hegar noticed that his teeth were unnaturally white. Suddenly, it clicked. Hegar’s eyes widened in stupefied recognition. He could only think of one person he’d ever seen who’d had teeth like that. What the fu—
+
+“It is you!” Anton blurted.
+
+The man smiled wider. “Yes.”
+
+“You are…” Brovose said, trailing off. After a moment, he snapped his fingers. “Rame!”
+
+The man blinked, and there was an awkward pause as he stared at Brovose. “Rain,” he said.
+
+“Is this some kind of fucking joke?” Hegar demanded, looking around. “There’s no way…” he trailed off, returning to inspecting the man’s face. The curve of the nose, the line of the jaw. It was the same man. Just several stone lighter and with the beard. And those eyes. He definitely hadn’t had those before.
+
+It was Anton who spoke next. “You were pretending the whole time,” he said accusingly, using the deadly tone that he adopted whenever he was considering killing someone. Rain’s smile vanished as Anton raised his bow again. “Who the fuck are you, really? The man we found couldn’t even speak. Are you an Adamant Empire agent? No… Are you even human? You’re a mimic, aren’t you? You killed that mute idiot and took his skin.” Anton drew back on his bow, stopping about half-way.
+
+The man raised his hands non-threateningly, looking mildly alarmed and perhaps a bit hurt. His people reacted much more strongly, dropping their picks to draw swords and ready other weapons. A Firebolt popped into existence above the upraised finger of a youth with fiery hair even redder than Brovose’s. He didn’t release the magic, trapping it instead in a show of control. The fire flickered and pulsed hungrily, as if straining to break free.
+
+“Skinner, stop,” Brovose hissed. “Whether it’s him or not, look around. We’re outnumbered.”
+
+“Yes, Skinner,” Hegar said through his teeth, putting a hand on his arm and forcing the bow down. “A fight would be bad for us, even if it’s worse for them,” He turned to look at Rain. “There’s no need for violence.”
+
+Yet, he added to himself.
+
+Controlling his expression, Hegar stepped forward, extending a hand. “Apologies, Rain, if that is who you really are. Is the woman with you?”
+
+“She’s around,” Rain said, extending his hand to meet Hegar’s.
+
+Hegar took it, then squeezed, hard. Unfortunately, the man’s gauntlet prevented him from getting an accurate measure of the man’s strength that way. The armor, at least, was as sturdy as it appeared to be. The man’s grip was firm, but not crushing. “Tell me,” Hegar asked, still gripping tightly. “What was her name?”
+
+“Ameliah,” Rain said. He nodded to Brovose. “And that’s Brovose, though I hear he’s going by ‘The Sleeper’ these days. I’ve gotta say, it fits, though it’s a little generic.” He looked at Brovose, then shrugged. “Sorry, Brovose, but it’s true.” He looked back at Hegar, who quickly hid his smile. “Anyway,” Rain continued, “you three saved me from a Musk Wolf, then forced me to fight a slime with a burning stick. Satisfied that it’s really me?”
+
+Anton snorted. “Well, you’ve proven you have his memories, skin-stealer.”
+
+“Wait, are mimics actually a thing?” Rain asked. He looked down at Hegar’s hand, still holding his own. “Can I have my hand back now, please?”
+
+Hegar reluctantly released it, having learned nothing. His instincts were giving him mixed signals. He had no idea how strong this man really was, or even who he really was.
+
+“Listen,” Rain said, motioning for his people to back down. The kid with the Firebolt launched it up into the air, where it detonated harmlessly. Rain cleared his throat. “No hard feelings about tying me up. In the end, you saved me. That wolf would have had me if you three and Ameliah hadn’t come along.”
+
+“Right…” Hegar said slowly. He shook himself. “Past aside…” He looked around. “What is this? What is your purpose here?”
+
+“This is Ascension,” Rain said, as if that explained more than fuck-all. “The mayor asked us to secure the crack. We’re clearing the boulders so we can get some more fires going. I’d appreciate you telling us anything you can about what we might find below.” He gestured. “That tunnel behind you. Where does it go?”
+
+“Down,” Hegar said, warily.
+
+“And it’s ours,” Anton added. Hegar turned and glared at him, then mouthed the words, ‘later, idiot.’
+
+“Is that so?” said Rain, scratching at his beard. He lowered his hand, then replaced his helmet on his head. Hegar stiffened, but the man didn’t make any further hostile motions. He placed his hands atop his pick once more. “I believe that is something we’ll have to discuss with the mayor. This land belongs to Vestvall, not to you. You will have to share, I’m afraid.” A note of cold entered the man’s voice. “We’ve heard reports of your…behavior in the city. That stops.”
+
+“Is that a threat?” Brovose asked mildly. “Just so we’re clear.”
+
+“Yes,” Rain said. “I suppose it is.”
+
+“Hmm,” Brovose said. He gave Hegar a significant look, then flicked his eyes toward the sloping path that led up out of the crack.
+
+Hegar nodded back. He spared one last glance for the armored man, then beckoned to his companions and walked confidently in the direction Brovose had indicated. Mercifully, Anton decided to follow without comment. The man could be incredibly dense, sometimes. At a gesture from Rain, the white-cloaked figures parted, letting them pass. Hegar walked through them as if he hadn’t a care in the world. It was clear, at least, that Rain and his people didn’t know how strong they were either. They wouldn’t attack.
+
+Once they were a few stride away, Hegar stopped, then finally looked back over his shoulder. “If you really are who you say you are, why did you pretend before?”
+
+“I did not pretend,” Rain said, his words slightly hollow from the helmet. “I was as you saw me. Just as I am now.”
+
+Hegar narrowed his eyes, then shook his head. “Come on,” he said to his friends, turning away. When you find a potential enemy you aren’t sure you can meet face to face… He glanced over his shoulder once more, narrowing his eyes. Gather information, then, if necessary, kill them in their sleep. He could feel the gazes of the group drilling into his back as he climbed the rapidly growing slope.
+
+“Do you think they would help us get past the second chasm?” Brovose asked once they reached the surface, following his question with another yawn.
+
+“Shh,” Hegar said, then continued in a low hiss. “Fucking, later.” Behind some gods-damned wards.
+
+The moment the trio passed out of sight, Rain almost collapsed, his knees suddenly losing all their strength.
+
+“Fucking hells, Rain!” Kettel said, excitedly clapping him on the back.
+
+“Hmm, indeed,” laughed Jamus. “Good work maintaining your composure, Rain. I could barely tell it was you.” He paused. “No offense.”
+
+Snorts of laughter and released tension came from the gathered members of Ascension as Rain tried to regain control of his breathing. Where the HELL is Ameliah?
+
+The flames crackled as Ameliah ripped off a bite of the haunch of meat she was holding. She chewed mechanically. The meat was flavorless and tough, and also slightly burnt from being too close to the flames. She swallowed anyway, then took another bite.
+
+A cold wind was blowing in the foothills to the north of Vestvall. She’d flown for hours, then, when she’d tired of the wind, walked for hours more, stopping when the Ice Courser she was eating had volunteered to be lunch.
+
+The wind gusted, but she barely even noticed as she stared into the fire. Dispassionately, she let her arm fall, inadvertently dropping the haunch of meat into her lap. She could feel the hot grease begin soaking into the fabric of her brown traveling clothes, but she couldn’t bring herself to care. The only garment she would have worried about was her cloak, but she wasn’t wearing it. It was back in the camp where she’d stashed it with the spares.
+
+I wonder if they’ve found it yet.
+
+A log broke in the fire, the flames swirling as they were whipped by the wind.
+
+Ameliah sat like that so long that the flames guttered and died and the chunk of meat on her lap grew cold. She didn’t even notice the slime until it launched itself at her. It was only by pure reflex that she threw herself out of the way.
+
+She recovered from her surprise more quickly than the monster, scrambling to her feet and raising a hand, prepared to pull it down into the earth and crush it into oblivion. Before she released the magic, she hesitated.
+
+It’s just a Slime.
+
+Ameliah lowered her hand, inspecting the monster as it oozed back toward her. It wasn’t even an Ice Slime, just the normal variety that you could find anywhere under the sun. This one was small and yellowish, reminding her unpleasantly of snot.
+
+Smiling a bittersweet smile at the memory of Rain’s first encounter with such a creature, Ameliah switched to Purify. The billowing light took a few moments to deal with the Slime, wiping away the remains of her meal from her clothing as it did. When the spell had finished, a small Crystal Slime sat on the frosted ground before her, quivering in confusion as it grappled with the sudden reality of its existence.
+
+Crouching down, Ameliah watched as it investigated the remains of the fire, recoiling violently from the still-hot coals. It headed for her next, and without thinking, she extended her hand, fingers closed into a fist. The slime ignored her gesture, instead bypassing her arm and bumping against her knees. It pulled back in surprise, then turned and started moving away in a hurry.
+
+Ameliah ignored it. She was staring at her extended fist, frowning.
+
+After a moment, she let her arm fall, then stood. With a short chant, her feet rose from the ground as Flight took effect.
+
+The mountains that had been her goal were barely visible in the north as she rose, but she didn’t spare them a glance. The Crystal Slime and the remains of her pathetic campsite vanished behind a hill as she picked up speed.
+
+Heading south.
+
+Heading home.

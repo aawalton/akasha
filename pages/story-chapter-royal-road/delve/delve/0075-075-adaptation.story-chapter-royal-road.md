@@ -1,0 +1,1161 @@
+---
+id: febda57a-12a4-5c15-b21b-0ac81600a479
+page-type-slug: story-chapter-royal-road
+title: "075: Adaptation"
+slug: 0075-075-adaptation
+partOf: delve
+position: 75
+ownLength: 6342
+unit: words
+publishedAt: 2020-01-26
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/449907/075-adaptation"
+royalRoadId: "449907"
+---
+
+Rain rubbed at his eyes blearily, having just woken up. His gauntlets and helmet were on the table in front of him where he was currently seated in Staavo’s living room. This was the first chance he’d gotten to take a break since the barrier had gone up, almost three full days ago. Those days had been filled with terror, stress, and plenty of hard work.
+
+After leading the first group of people down to the sewers, he’d taken on the responsibility for keeping them safe until the battle above the city died down. The large group of humans had quickly attracted attention from slimes. He was able to deal with those easily enough, but he couldn’t be everywhere. Luckily, the hardy unawakened townsfolk were fully capable of dealing with the slimes themselves as Kettel had proven. The process was just a bit messy for those brave enough to take them on.
+
+Evertorches were taken from walls and distributed through the crowd, keeping the entire area lit to avoid more slimes spawning in the middle, away from the fighters on the edges. It would have been a problem if one spawned amid the children or something, but thankfully that didn’t happen in the short time they were down there.
+
+Other townsfolk and adventurers had had the same idea, the sewers quickly filling with the sheltering residents of the city. The battle itself had lasted for no more than a half-hour, but it had taken quite a toll on the townsfolk’s sanity. The temperature had risen quickly as the fiery battle raged above the city. Rain had gone as far as to start using Refrigerate at a low level, just to get people to stop panicking about being boiled alive.
+
+Eventually, the noise had died down. The revelation of Halgrave’s loss and Velika’s ascension had been another blow. Westbridge had broadcast his speech to the entire city. Not long after that, people worked up the courage to climb out of the sewers. The reluctance to return to the surface quickly vanished as people realized that small fires had broken out within the city. Fire was no joke. People had put aside their fear and banded together to extinguish them before the entire city was consumed. Worry about the new regime had been set aside until that was dealt with.
+
+In the end, the damage to the city hadn’t been as extreme as Rain had feared. The district where Westbridge had smashed through the earth was in pretty bad shape, as was the area around the teleportation complex that had gotten the worst of the fires. Thankfully, the warehouses in the western half of the city were unscathed. It didn’t look like the city would run out of food, at least, not right away. Luxuries were quickly becoming expensive, but there was enough grain and salted fish to last quite a while.
+
+In fact, Fel Sadanis was probably better off than a modern city would have been. In modern times, cities relied on a complicated supply chain to bring in food to support the massive populations. It worked a little differently here. Fel Sadanis wasn’t that big, for one. Rain estimated the population at around twenty thousand, including the people who had come for shelter in response to the conflict to the west. Coming up with that estimate had been frustrating. There hadn’t been an official census in a long time. The typical answer he’d gotten when he’d asked was “lots”, followed by a shrug.
+
+Even with all the refugees, they would be fine. He’d done the math. The city’s warehouses were intended for storing food through the bitter winter. Farmers, hunters, and fishermen would sell their goods to the merchants that owned the warehouses throughout the year, then the merchants would resell the food at a small markup until the next harvest. It was an effective system for those without their own farms or the inclination to stockpile their own food. There were also some larger, merchant-owned farms that relied on the warehouses entirely, cutting out the middleman. Those farms also employed a good portion of the city’s residents during the harvest. The point was that there was plenty of food.
+
+Water was also a non-issue. Rain had been initially concerned when he’d realized that the dome had blocked the river. With both inlet and outlet blocked, the river had become a stagnant pool. The sewers, likewise blocked, had backed up, the collective filth of the city’s residents starting to pollute the water source. A lot of ash had also been washed into the river from the fires and the subsequent bucket brigades. Fortunately for the residents of Fel Sadanis, they had a friendly neighborhood purification mage to deal with the problem. He’d spent a good amount of time yesterday using Purify at a low and steady level while the townsfolk filled barrels with fresh water. The supply would probably last for a few days before he’d have to do it again. The Watch had no issue with this use of his magic. In fact, they’d been the ones to ask him to do it in the first place, organizing the whole thing.
+
+The obvious consequence of this was that everyone now recognized him whenever he went out into the city. Like it or not, he was now something of a celebrity. Word had spread quickly concerning the evil-looking armored mage and his water cleaning spell, even among those who hadn’t been anywhere near the river. It was something of a mixed bag. He liked the fact that he could basically use Purify whenever and wherever he wanted now, but the constant attention wasn’t exactly helping his paranoia.
+
+Not all of his secrets had become common knowledge, fortunately. The mana-draining effect of the barrier was still at 90%, for all that the dialog said that the barrier integrity was merely ‘low’ now, and no longer ‘critical’. He’d been keeping his mana usage covert with the exception of that one flashy usage of Purify. People would probably assume that he was out of mana, which would have been a reasonable assumption for any other mage. The reality was that he was already back at full.
+
+He’d been running Winter at 100% compression, only occasionally extending it to people who already knew about the aura like Gus. That list now included Wallace, the Guild healer. His opinion on the man had done a rapid 180 when he’d found him literally passed out from mana overuse, his hands badly damaged from four or five shattered Clarity rings. The man had kept going even after his rings failed, the number of wounded simply too large for a single healer to keep up with. Seeing that, Rain had no choice but to help. Wallace had crippling mana issues, even worse than Jamus did. The rings were his method of managing the side effects of an extreme ratio. While they lasted, they dealt with the headaches completely, but they didn’t last long, and when they failed, they tended to explode as Rain’s Focus ring had.
+
+Rain felt bad for his initial judgment of the man. Outside of a crisis, it was perfectly reasonable for Wallace to charge for his healing, especially since the Guild didn’t reimburse him whatsoever. He needed money to buy Clarity rings so he could keep healing. He was trapped in a vicious cycle, replacing the rings when they failed, unable to find a more permanent Clarity boosting item. Such things weren’t easily found in Fel Sadanis. It caused him actual, physical pain if he used his magic without them. Needless to say, he was desperate to dig himself out of the hole he was in. That was why he charged so much and only did the bare minimum to stabilize people, rather than healing them fully. He was trying to make his rings last while saving enough to buy something better.
+
+When Wallace had healed Rain after the incident with Lavarro, he had done barely enough to save his life. He apparently had a skill called Tissue Scan, which he said let him determine the extent of someone’s injuries. Because of that skill, he’d been confident that Rain would recover. Wallace had looked a little upset with himself when Rain had told him of how bad the concussion was before Ameliah took care of it. Apparently, healing was a lot harder than it looked from the outside.
+
+Rain had spent a full day blasting Wallace with Winter and Essence Well, trying to balance the different kinds of soulstrain to allow him to heal as many people as possible. Winter apparently helped with the headaches quite a bit. Wallace was incredibly grateful for his help and together they were able to save a lot more people than either of them would have been able to on their own. They had reached a limit eventually, but thankfully not before the worst of the wounded had been taken care of.
+
+Wallace had agreed to keep his mana-boosting skills a secret, but Rain was debating whether that secrecy was still justified. He could help so much more if he could just use Winter out in the open. The commonly held assumption in the city was that the mana drain effect wasn’t going to go away until the barrier reached a safe level in the eyes of its creators. The only way to charge it up faster would be to boost the collective mana regeneration of the city like the dialog wanted. Winter was the perfect skill for doing that, no doubt about it. The only question was if he dared to use it that way.
+
+He didn’t want Velika to catch on to how useful it was. She’d cowed the Watch into submission, though they had yet to fully recognize her authority. If she decided to make him into her personal mana slave, there wasn’t a thing he could do to stop her. Giving mana to a few people he trusted not to rat him out was one thing; bathing the entire city in a fully boosted Winter aura was another entirely. He needed to decide if he was going to pretend he was out of mana like everyone else or let the cat out of the bag completely. It was certainly a heavy decision and not one that he was ready to make at the moment.
+
+That was part of why he presently was hiding in Staavo’s living room. He’d come here to check on the old man late last night, but Staavo hadn’t been home. He hadn’t seen him since the barrier had come up. He’d sat on the step to wait, but the constant attention and requests for aid from passing people had driven him to try the door, finding it unlocked. It wasn’t that he didn’t want to help, he did. It was that he was just so exhausted, mentally and physically. Plus, if he kept using mana, people would quickly realize that something strange was going on. He needed a break. The first thing he’d done upon falling into one of Staavo’s armchairs was to fall asleep.
+
+There was still no sign of Staavo having returned, for all that Rain felt like he had been asleep for days. The scholar was either out helping in the city, or dead, lying under crushed masonry. Rain grimaced, fighting down the image of the small girl he’d seen lying broken and twisted under a wooden beam. Detection had been invaluable for finding people trapped under the rubble. Saving them, however, had been another matter entirely. He’d almost been crushed himself several times as he dug through the rubble.
+
+To say that the past few days had been horrible was a bit of an understatement. Val had finally turned up at least, Rain having run into him at the Guild the day before. Carten was safe as well. He’d been visiting his aunt in the northern part of the city when Westbridge had attacked. Neither of them had seen Jamus. Rain was worried. Maybe he and Staavo left the city for some reason?
+
+He sighed and got up, walking past the fireplace toward a shuttered window. Though the fire was out, the room was still stiflingly warm. The whole city was, in fact. The barrier seemed to block everything but light, trapping the heat from Westbridge’s fire magic inside. He cooled the room down with Refrigerate as he walked to the window. He wasn’t opening it to get a breeze, just to look outside. It was mid-morning, judging by the position of the sun. He flicked on his HUD briefly, verifying the time. It’s 10:15, so I was asleep for the whole morning. I’ve got over an hour before I need to get to the arena.
+
+Velika—Citizen Fel Sadanis, now—had issued her first edict. She was demanding that all awakened in the city join her for a meeting to discuss their role in the governance of the city. He hadn’t run into her so far, but there was no doubt that she knew he was here. His armor was very recognizable. She’d commented on it during their last meeting and his new celebrity status meant that she’d have had little trouble connecting the dots. He had no choice but to go; there was no getting around it. Damn, it’s a good thing I didn’t sleep through it. From what I’ve heard, she doesn’t respond well to people ignoring her commands. What am I going to say if she asks about Tallheart? Is he even still there, or did he leave? The Watch camp outside the barrier is pretty close to the forest…
+
+He shook his head. Tallheart could take care of himself. He had enough of his own problems to deal with for the moment. He needed to prepare himself for the coming confrontation with Velika. He wanted to adjust the settings on his ring first and foremost. He’d just left them where they were since he’d last messed with them, not willing to risk soulstraining himself in the midst of a crisis. It was time to see if he could figure out a way to track his acclimation, and then to boost himself further. Before that, though, he needed to take stock of his current situation.
+
+He walked back over to the chair he’d been using and dropped into it, still feeling a bit awkward about being in here without the elderly scholar present. They were acquaintances at best, and invading the man’s home like this was a pretty big social transgression. He just hoped that Staavo had survived so he could be mad about it. It wasn’t like he was going to go through his stuff or anything; he’d just needed a place to sleep away from prying eyes. If Staavo didn’t want to lock his door, well, then that was on him.
+
+He opened up all his menus, starting with the training notifications from the past three days.
+
+Training Overview
+
+Skill Experience Earned
+
+Mana Manipulation: 142
+
+Aura Compression: 293
+
+Training Overview
+
+Skill Experience Earned
+
+Mana Manipulation: 40
+
+Aura Compression: 5340 [Rank Up]
+
+Training Overview
+
+Skill Experience Earned
+
+Mana Manipulation: 10
+
+Aura Compression: 4034 [Rank Up]
+
+He didn’t even blink at the high experience gain for Aura Compression. He’d already seen these notifications before and spent a good amount of time thinking about them while he’d been sitting in sensory deprivation. He knew the experience ratio for Aura Compression was pretty bad from what he’d been getting before. The skill’s experience gain had shot up once he’d started helping Wallace. His hunch was that it was some strange interaction between Essence Well, Aura Compression, and Channel Mastery. Essence Well was easily his most expensive skill when it came to pure mana usage. It was only with Channel Mastery restricting it severely that he could use it with any efficiency. Aura Compression didn’t help all that much in terms of raw transfer rate, but free was free, and he needed to train it anyway.
+
+The experience calculation for modifiers was odd. He’d spent time thinking about it on and off since he’d gotten his first one. Trying to untangle the formulas for them given the limited information he had was difficult. Some didn’t even have a cost associated with them. They seemed to be tied to mana used on associated skills somehow, but not in any way that was obvious. It ultimately didn’t matter that much in the long run given how quickly he was able to rank up his skills, but it was a fun math puzzle that he kept coming back to when he was bored or needed to distract himself. Right now, he needed to be worried about more practical matters.
+
+Firstly, his armor. It was totally dead. His mana was presently full, but he hadn’t thought to activate Mana Manipulation while he slept. Falling asleep in Staavo’s chair hadn’t been planned; it had just sort of happened. He hadn’t been getting the best sleep over the past few days, just catching an hour or two here and there. Charging the armor had constantly been in the back of his mind, but something else had always seemed to be a priority. Plus, he didn’t want to be caught without mana in case he really needed it. The drain from the barrier was stifling.
+
+He’d kept the ring topped off of course. With a 75% transfer rate, that had been trivial. The armor was much harder to charge so he’d only fed it a little mana now and again. Now, however, the city was quieting down at last. He could afford to really give it a good blast. He’d have the time to recover before the meeting.
+
+He slipped his gauntlets back on, then the helmet. When he wasn’t wearing the full set, his Inventory screen got mad at him, listing out all of the missing pieces in flashing red text. According to Tallheart, it was best to charge it as a unit, otherwise, you risked the Regeneration rune deciding that a missing gauntlet had actually been destroyed. It would thin out the rest of the metal in an attempt to regrow it. You could prevent that with concentration, but it was easier to just avoid the problem entirely. Once the armor started growing a new gauntlet, the enchantment within the old one would break. All the pieces were linked in some way that Rain didn’t understand. Probably the magical equivalent of quantum entanglement or something. He turned his attention to his Inventory screen, setting magical metaphysics aside for the moment.
+
+Inventory
+
+Dark Revenant’s Armor [Bound]
+
+Durability: 7,488/1,309
+
+Hardness: 207
+
+Material: Dark Steel
+
+Mana Conversion: 99.9%
+
+Mana Saturation: 0/13,202 mp
+
+Mana Dissipation: 92 mp/s
+
+Mana Capacitance Rune
+
+0/14,209 mp
+
+Import Efficiency: 1%
+
+Export Efficiency: 0%
+
+Enhanced Durability Rune [Inactive]
+
++12,029 durability, 20 mp/day
+
+Enhanced Hardness Rune [Inactive]
+
++597 hardness, 25 mp/day
+
+Enhanced Dark Resistance Rune [Inactive]
+
++50 dark resistance, 20 mp/day
+
+Dark Regeneration Rune [Inactive]
+
++1 durability/s, 0.8 mp/s
+
+Malleable Ring [Bound]
+
+Durability: 102/102
+
+Material: Grand Arcane Gold
+
+Mana Capacitance Rune
+
+104/226 mp
+
+Import Efficiency: 75%
+
+Export Efficiency: 0%
+
+Stat Enhancement Rune Complex [Active]
+
+Maximum Allocation: 287 points
+
+Cost: 1 mp/point/day
+
+Subordinate Metallic Unity Rune [Active]
+
+Could be worse I suppose. Before the barrier went up, I was on track to have the durability over ten thousand by now. Now I guess I should just be happy that the number isn’t going down. I wonder how everyone else is coping. Their equipment is probably easier to charge than mine, but damn. It sucks to have regeneration like a normal mage. I can’t even imagine how they are feeling right now. If you’ve got base Clarity and nothing boosting it, you’re looking at 10 mana a day right now. I’m only functioning because of Winter. The mana cost for the aura itself is pretty significant now. Oh well, time to charge this thing.
+
+He opened up the skill card for Mana Manipulation to check the rate, pulling up Aura Compression as well. The skills wouldn’t work together, but he wanted to check the progress on both of them.
+
+Mana Manipulation (6/10) Exp: 757/3200
+
+Allows internal control of mana
+
+Allows expulsion of mana to environment
+
+Allows transfer of mana to and from capacitive items with direct contact
+
+Maximum transfer rate 840.0 mp/s (fcs)
+
+Aura Compression (5/10) Exp: 1093/8800
+
+Compress aura output, reducing range to boost intensity
+
+Increase intensity by 1.0% per meter of compression
+
+What the hell kind of equipment would possibly need 840 mana a second? He shrugged, then gently charged up the ring before switching his focus to the armor. He let it rip at full blast, even boosting it with Channel Mastery to double the rate. The armor was more than capable of taking it, but he didn’t want to risk it with the ring. Anyone watching would have seen a pale blue glow from his eyes for the four or so seconds that it took him to drain himself dry, the physical manifestation of rapid mana use.
+
+He blinked and slumped back into the chair, quickly activating Winter and falling into Aura Focus to recover. Ooph. That was pretty fast. I got a bit light-headed there for a second, like I stood up too fast. I should be careful about that. Can I get better at dealing with rapid use if I train?
+
+He sighed. The list was endless. He wanted to unlock more skill trees, charge the armor, finish training Mana Manipulation and Aura Compression, as well as a whole host of other things. Acclimatizing himself to rapid mana use was pretty low on the list, especially given the conditions he was currently operating under. He had around an hour before he had to go. Right, Winter is boosted as much as I can boost it right now. How long is it going to take to get me back to full like this?
+
+Winter Singularity (Composite)
+
+Boost M.Regen by 4493% for all entities
+
+Cost: 540 mp/hr
+
+Statistics
+
+Total
+
+Base
+
+Modifier
+
+Health
+
+400
+
+400
+
+0
+
+100%
+
+H.Regen
+
+300/day
+
+300/day
+
+0/day
+
+100%
+
+Stamina
+
+400
+
+400
+
+0
+
+100%
+
+S.Regen
+
+200/day
+
+200/day
+
+0/day
+
+100%
+
+Mana
+
+5700
+
+5700
+
+0
+
+100%
+
+M.Regen
+
+0.823/s
+
+0.212/s
+
+-0.15/s
+
+459.3%
+
+Movement Speed
+
+10
+
+Perception
+
+20
+
+Resistances
+
+Heat
+
+Cold
+
+Light
+
+Dark
+
+2
+
+0%
+
+2
+
+0%
+
+2
+
+0%
+
+52
+
+0%
+
+Force
+
+Arcane
+
+Mental
+
+Chemical
+
+2
+
+0%
+
+2
+
+0%
+
+2
+
+0%
+
+2
+
+0%
+
+Around two hours…1.9, to be exact. Damn. Not quite enough to be at full for the meeting. I should have done the math before I charged the armor. Still, Aura Compression is starting to get stupid. It’s giving another factor of two, now, more or less. Without the damn mana siphon, it would take me…yeah, wow. That’s just insane. And I can probably tolerate a little bit more Clarity from the ring, too. I need to be careful about that if I don’t want to make myself go all loopy again. On that note, I’m just sitting here waiting, so it’s time to get that damn soulstrain tracker.
+
+Focusing on what he wanted, Rain started to apply pressure against the resistance in his mind. He strained and strained, but no matter how hard he pushed, no panel appeared. Every time he felt like he was getting close, it would slip away from him as if the force of his will had skated off to the side.
+
+What the hell? Is it because I’m not being specific enough? This is so…arbitrary. Why is this harder than making the control panel for the ring? I’m guessing it has something to do with Tallheart already doing a good portion of the work. The ring panel is just controlling the enchantment that is already there. The soulstrain tracker is much more general. In fact, I’m not sure that’s even what I should be calling it.
+
+There’s tons and tons of different flavors of soulstrain. All I’m after is my adaptation to the ring. Damn it, adaptation to buffed stats is probably a separate category from adaptation to the stats themselves. It has to be. Take Strength. Jamus said that how muscular you are correlates with how close you are to your full potential for the Strength you have. If you slip on a Strength ring you’re not used to, what happens? Do you deflate or something? It can’t work like that. Muscles can’t vanish into thin air. The mass would have to go somewhere. Then again, the poop just vanishes…
+
+Damn, I’m off track again. I guess I should try breaking it down. Get a panel first, then add in things one by one.
+
+Rain buckled down and got to work on the panel, struggling to add in each piece. Getting a blank panel was relatively straightforward, the system giving it to him with only some minor cajoling. The next step was focusing on Strength, the most intuitive of the stats when it came to direct physical effect. He’d finally managed to get the system to show him what he wanted by focusing on the relationship between the stat and his physical body.
+
+The image that had ultimately done it was that of a lineup from Napoleon Dynamite to The Incredible Hulk, with himself somewhere in the middle. Much to his own surprise, the system had responded to this, drawing in the two characters and placing Rain depressingly close to the Napoleon end of the spectrum. He’d tried asking for the same thing in more abstract terms and had gotten nothing. Once he had the goofy strength scale on the panel, convincing the system to redraw it as a simple percentage had been easy enough. He was half tempted to just leave it, but he wanted to add in the rest of the stats and he needed a more compact view.
+
+Strength
+
+23%
+
+He frowned. The meter was only showing him a percentage, not the absolute level in terms of stat points. He didn’t know if it was representing his adaptation to the ring, or the adaptation of his body to the stat itself. No sooner had he realized this then the bar split into two, showing him the percentage for each category. As if compensating for how easy that change had been, the system declined to change the label for the lines, simply showing them both as ‘Strength’ and not even bothering to specify a unit for the second line.
+
+Strength
+
+23%
+
+Strength
+
+13
+
+He messed with it some more until he was happy, splitting up the table and playing with the settings on the ring. He could check his assumptions about what the numbers meant by seeing how they responded to the changes in his stats. Finally, he was left with a panel that showed him his physical strength relative to his Strength stat, as well as his tolerance to ‘Overstrength’ as he’d decided to call it.
+
+Effective
+
+Total
+
+Base
+
+Potential
+
+Buff
+
+Tolerance
+
+Strength
+
+4.6
+
+20
+
+10
+
+23%
+
+10
+
+13
+
+The ‘Effective’ column showed how much of the stat applied to his physical body, not that he had any idea what that meant for Focus and Clarity. He’d save testing that for another day. ‘Total’ and ‘Base’ were just copied in from the Attributes screen for convenience and were self-explanatory. ‘Potential’ was the first number the dialog had shown him. Buff was another convenience column, just showing him the setting of the Ring. Tolerance was the second number that the system was giving him, basically how much of a Strength boost he could use safely.
+
+The formula wasn’t as simple as multiplying the total by his potential. That was true only when his current buff was less than his tolerance. With his Strength buff at 20, for example, his effective Strength was only 5.29, not 6.9.
+
+Effective
+
+Total
+
+Base
+
+Potential
+
+Buff
+
+Tolerance
+
+Strength
+
+5.29
+
+30
+
+10
+
+23%
+
+20
+
+13
+
+In a nutshell, his body would only benefit from buffs up to his tolerance. Thus, the effective value of a stat was his potential times the sum of his base and either his tolerance or the buff, whichever was less.
+
+He set the buff back to 10 for now. He’d tweak all the settings when he was done working on the panel.
+
+Adding in the other stats was just a matter of repetition and focus. The problem as he saw it was one of visualizing what he wanted clearly enough for the system to respond. The clearer his image, the easier it was. Now that he had defined how he wanted the panel to look using Strength, adding the others was straightforward. It had only been so difficult to begin with because he’d been conflating soulstrain and adaptation to stats. They were related, but not exactly the same. Therefore, he decided to call this panel “Adaptation”, the title appearing effortlessly as he looked over the completed panel. His brain felt a bit wrung out from all the pressure he’d had to apply, but he was satisfied with the result.
+
+Adaptation
+
+Effective
+
+Total
+
+Base
+
+Potential
+
+Buff
+
+Tolerance
+
+Strength
+
+4.6
+
+20
+
+10
+
+23%
+
+10
+
+13
+
+Recovery
+
+5.33
+
+30
+
+10
+
+41%
+
+20
+
+3
+
+Endurance
+
+3.6
+
+20
+
+10
+
+30%
+
+10
+
+2
+
+Vigor
+
+6.5
+
+20
+
+10
+
+38%
+
+10
+
+7
+
+Focus
+
+20
+
+20
+
+10
+
+100%
+
+10
+
+11
+
+Clarity
+
+200
+
+200
+
+200
+
+100%
+
+0
+
+3
+
+Well, that’s a much clearer picture of what is going on. As far as my base stats go, I’m fully adapted to Focus and Clarity, which is no surprise given how much mana I use every day. Next closest are Recovery and Vigor. That makes sense? I think? I mean, I’m always using stamina just by walking around, so that probably counts, right? Still, pretty pathetic. I need to jog more. Anyway, Strength is trained by working out, not by using Health. Also, Endurance training is subjecting yourself to damage to build your resistance, not using Stamina. It’s tempting to think of the physical stats as two separate pairs, but really, all four are related. It’s the mental ones that are the odd ones out. The skill trees back that up, too. Physical Synergy works between Strength and Endurance, not Strength and Recovery. I wonder why…
+
+He checked the time. He had about 45 minutes to go. No, make that just fifteen. I need to actually find the arena. I know roughly where it is, but I’ve never actually gone there. I don’t think it will be hard to spot, but still, being late would be really, really bad. Either way, I still have time to mess with the ring.
+
+Let’s see. I’ve got the best adaptation to Strength and Focus. That makes sense, those are the two rings I had before, so I had a bit of a head start. My tolerance seems to go up when the buff is larger and I exercise that stat. Simple enough. How much higher is safe, though? I know ten is fine; I never felt anything from the old rings. Fifty is definitely not. Anything over a hundred is just asking for a world of hurt. It doesn’t even look like pushing too far like that is that effective, either. Clarity adaptation is only at 3 and I had that boosted by over 150 for a few full Winter Singularities… Yeah, never doing that again.
+
+There’s another factor to consider here, too. The effective level of the stat only counts for certain things, and not others. My health pool is 400 right now for all that I only have 4.6 effective strength. Now, whether those points are real or just for show, I’m not sure. I think they’re real…the regeneration stats also work right away, so…
+
+Rain sat back and thought about it for a few minutes, but he caught himself going in circles. He didn’t have enough data to puzzle out how it really worked. He’d need to do some testing when he had some free time.
+
+Hah, free time. I remember it fondly. Anyway, boost time. Ten is safe, but Tallheart said to use twenty for recovery. Why? What does boosting it more give me, other than health regen? I’ll ask him once I get out of this damn prison. Until then, I think I’ll stick with ten and see how that does. Let me see here.
+
+Adaptation
+
+Effective
+
+Total
+
+Base
+
+Potential
+
+Buff
+
+Tolerance
+
+Strength
+
+5.29
+
+33
+
+10
+
+23%
+
+23
+
+13
+
+Recovery
+
+5.33
+
+23
+
+10
+
+41%
+
+13
+
+3
+
+Endurance
+
+3.6
+
+22
+
+10
+
+30%
+
+12
+
+2
+
+Vigor
+
+6.46
+
+27
+
+10
+
+38%
+
+17
+
+7
+
+Focus
+
+21
+
+31
+
+10
+
+100%
+
+21
+
+11
+
+Clarity
+
+203
+
+213
+
+200
+
+100%
+
+13
+
+3
+
+Staring at the panel, Rain realized something. When he’d been going by feel, he hadn’t started feeling pain until he’d boosted the cumulative buff beyond his limit. These individual tolerances were measuring something else. Again, it was related, but not the same. There was a line missing, the one for tracking the total. He focused and it appeared with only some minor effort, though it was accompanied by a small spike of discomfort warning him that he was near his limit.
+
+Adaptation
+
+Effective
+
+Total
+
+Base
+
+Potential
+
+Buff
+
+Tolerance
+
+Strength
+
+5.29
+
+33
+
+10
+
+23%
+
+23
+
+13
+
+Recovery
+
+5.33
+
+23
+
+10
+
+41%
+
+13
+
+3
+
+Endurance
+
+3.6
+
+22
+
+10
+
+30%
+
+12
+
+2
+
+Vigor
+
+6.46
+
+27
+
+10
+
+38%
+
+17
+
+7
+
+Focus
+
+21
+
+31
+
+10
+
+100%
+
+21
+
+11
+
+Clarity
+
+203
+
+213
+
+200
+
+100%
+
+13
+
+3
+
+Current
+
+Tolerance
+
+Enchantment Stat Boosts
+
+99
+
+127
+
+Interesting. So I’ve been told that the rule of thumb is that you can tolerate around ten times your level in buffed stats from equipment. This is showing lower than that, and I felt pain when I went past 150 or so. That means I need to train this too. Are there more? Resistance boosts? I have one of those…
+
+He focused again. The line appeared without too much trouble, again accompanied by a small flash of pain. This time, his tolerance was listed as ‘unknown’ rather than a numerical value.
+
+Adaptation
+
+Effective
+
+Total
+
+Base
+
+Potential
+
+Buff
+
+Tolerance
+
+Strength
+
+5.29
+
+33
+
+10
+
+23%
+
+23
+
+13
+
+Recovery
+
+5.33
+
+23
+
+10
+
+41%
+
+13
+
+3
+
+Endurance
+
+3.6
+
+22
+
+10
+
+30%
+
+12
+
+2
+
+Vigor
+
+6.46
+
+27
+
+10
+
+38%
+
+17
+
+7
+
+Focus
+
+21
+
+31
+
+10
+
+100%
+
+21
+
+11
+
+Clarity
+
+203
+
+213
+
+200
+
+100%
+
+13
+
+3
+
+Current
+
+Tolerance
+
+Enchantment Stat Boosts
+
+99
+
+127
+
+Enchantment Resistances
+
+50
+
+Unknown
+
+Odd. Maybe it’s because I’ve never pushed myself past my limit in that category? He set that aside for the moment and started hunting for more information. Infuriatingly, he couldn’t seem to get it to show him his tolerance for things like healing. That seemed to be a separate category, the same slippery feeling he’d had before preventing him from applying his will to the problem. He gave it up before long, afraid of injuring himself by pushing any further. Besides, he didn’t want to clutter up the panel with things he didn’t need at the moment. He could always add them later.
+
+Looking at the enchantment stat boost category, he was below his current tolerance of 127, meaning he probably wouldn’t improve. That won’t do. Okay, I think I’ll shoot for the same margin past my general tolerance as I have for each stat. That means I get to use algebra. Yay math powers!
+
+Six stats, each boosted over the limit by some number x, should be equal to my total tolerance plus x, minus the sum of the individual tolerances, so…
+
+6x = 127 + x - 13 - 3 - 2 - 7 - 11 - 3
+
+6x - x = 88
+
+5x = 88
+
+x = 88/5
+
+x = 17.6
+
+Right? Maybe? Let’s check. I can’t do a fractional stat boost, so I should round down to be safe. You know what, no. I’ll be wild. Rounding up.
+
+Adaptation
+
+Effective
+
+Total
+
+Base
+
+Potential
+
+Buff
+
+Tolerance
+
+Strength
+
+5.29
+
+41
+
+10
+
+23%
+
+31
+
+13
+
+Recovery
+
+5.33
+
+31
+
+10
+
+41%
+
+21
+
+3
+
+Endurance
+
+3.6
+
+30
+
+10
+
+30%
+
+20
+
+2
+
+Vigor
+
+6.46
+
+35
+
+10
+
+38%
+
+25
+
+7
+
+Focus
+
+21
+
+39
+
+10
+
+100%
+
+29
+
+11
+
+Clarity
+
+203
+
+221
+
+200
+
+100%
+
+21
+
+3
+
+Current
+
+Tolerance
+
+Enchantment Stat Boosts
+
+147
+
+127
+
+Enchantment Resistances
+
+50
+
+Unknown
+
+Attributes
+
+Richmond Rain Stroudwater
+
+Level 18
+
+Experience: 22749/22750
+
+Dynamo
+
+Health
+
+820
+
+Stamina
+
+600
+
+Mana
+
+7312
+
+Strength
+
+41[10]
+
+Recovery
+
+31[10]
+
+Endurance
+
+30[10]
+
+Vigor
+
+35[10]
+
+Focus
+
+39[10]
+
+Clarity
+
+221[200]
+
+Free Stat Points
+
+0
+
+Statistics
+
+Total
+
+Base
+
+Modifier
+
+Health
+
+820
+
+820
+
+0
+
+100%
+
+H.Regen
+
+310/day
+
+310/day
+
+0/day
+
+100%
+
+Stamina
+
+600
+
+600
+
+0
+
+100%
+
+S.Regen
+
+350/day
+
+350/day
+
+0/day
+
+100%
+
+Mana
+
+7312
+
+7312
+
+0
+
+100%
+
+M.Regen
+
+0.938/s
+
+0.237/s
+
+-0.05/s
+
+459.3%
+
+Movement Speed
+
+10
+
+Perception
+
+20
+
+Resistances
+
+Heat
+
+Cold
+
+Light
+
+Dark
+
+3
+
+0%
+
+3
+
+0%
+
+3
+
+0%
+
+53
+
+0%
+
+Force
+
+Arcane
+
+Mental
+
+Chemical
+
+3
+
+0%
+
+3
+
+0%
+
+3
+
+0%
+
+3
+
+0%
+
+That’ll do, pig, that’ll do.
+
+He canceled Aura Focus and stood up, feeling a bit stiff. It really had taken quite a while to get the panel how he wanted it. He stretched, paying attention to how he felt with the current stat boosts.
+
+I think I kinda feel it a little bit. Maybe? I’m over my total enchantment stat boost tolerance by 20, which shouldn’t be too bad…I’m really guessing here. The system wouldn’t let me make something that doesn’t line up with how reality really works, would it? He looked around Staavo’s room. I wonder if he’s got a book about this stuff. That would be really helpful. I hope he’s okay. I’m not about to ransack his place. In fact, I should probably get going if I don’t want to be late.
+
+He took one last look around the room, then collected his cloak from where it was lying near the door. He settled it over his shoulders and chilled himself down with Refrigerate. It was too hot inside the barrier for the cloak, but he had an image to maintain. He closed up Staavo’s shutters again. Not having a key to lock up, he couldn’t do much, but it was something. He closed the door firmly behind him and set off toward the arena. He’d been hiding long enough. It was time to see what Velika had in store for the city.

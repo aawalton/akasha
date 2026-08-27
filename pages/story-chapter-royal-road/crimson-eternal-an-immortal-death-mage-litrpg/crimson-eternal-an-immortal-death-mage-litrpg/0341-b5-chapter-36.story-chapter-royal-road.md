@@ -1,0 +1,145 @@
+---
+id: f77dc074-f529-522a-af7d-cbda27aaa392
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 36"
+slug: 0341-b5-chapter-36
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 341
+ownLength: 1321
+unit: words
+publishedAt: 2026-04-01
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/3219856/b5-chapter-36"
+royalRoadId: "3219856"
+---
+
+Aria
+
+After the war comes to a close, I go ahead and leave the planet at last. Heading straight towards Vortel. Where I take a nice, lazy break in the café.
+
+Normally I would’ve gone to Eternus. Straight to my office in the headquarters.
+
+But at this point I know better than to go to hell on my own.
+
+After all, if I did that, then I would just be walking straight into Little Blue’s paperwork hell.
+
+And that’s not somewhere I want to be.
+
+So I calmly sip the wine brought to me by the owner of the café as I look out the window of said café. Just enjoying my life now.
+
+I managed to level up quite a bit thanks to that war. Which makes my level on the higher end of the universe in terms of the average level.
+
+Most worlds only have adults between levels one hundred and three hundred. With Beta Tier worlds having their top combatants being in the thousands, and Alpha Tier worlds going all the way to the several thousands.
+
+As for Grand nations? The Grands tend to be at the end of the ten thousands or in the twenty thousands in level.
+
+With the Horsemen being even higher.
+
+So overall, I’m higher level than pretty much most nations regular soldiers. And I’m higher level than most of the people in Beta Tier and lower worlds.
+
+Which makes my journeying a lot easier now.
+
+Since I’m finally strong enough to actually fight against the majority of the people in these worlds I’m visiting.
+
+Meaning I don’t have to rely on my explosives as much anymore.
+
+Not that I’m going to stop using them, that is.
+
+Explosives are great after all.
+
+I let out a sigh as I think about how nice it is to finally be considered high level by a lot of people. A happy sigh at that.
+
+All while I enjoy my wine.
+
+The door to the café opens and I hear someone walking inside, but I ignore it as I just look outside the window at the snow falling gently outside.
+
+This is nice.
+
+And I can go to places I’ve been before thanks to my Gates. Which makes travel a lot easier for me now.
+
+Life is getting even better.
+
+And the most important thing is that one of my favorite book series got a new book release!
+
+This is, of course, far more important than anything else. Including my level.
+
+I nod my head in satisfaction at that as I glance at my ebook reader to see that it’s finishing downloading now after the purchase. So I begin moving the ebook reader towards my face, only for someone to place their hand on mine. Startling me until I look up to find a very familiar face smiling at me.
+
+Little Blue.
+
+Why is she here?
+
+My eyes widen in shock, and I quickly begin glancing around to look for the café owner to pay for my wine. But they’re nowhere to be found.
+
+Then I feel a hand placed on my shoulder, making me realize that Little Blue isn’t here alone.
+
+“So, Mom, you weren’t planning on continuing your travels without doing your work, right?” Ruby asks with a smile on her face. A rather scary smile at that.
+
+I quickly look around the café to find everyone in it ignoring us entirely. And the Crimson Knights guarding me act like nothing’s happening. Quickly betraying me in the process.
+
+Traitors!
+
+And just like that, I soon find myself being dragged back to the branch building stationed on Vortel. Where they bring a bunch of paperwork for me to deal with.
+
+One of these days I’m going to train my Death Spirits to fill out paperwork for me…
+
+Within the Plane of Famine
+
+Ignatius Darkheart, otherwise known as the Horseman of Famine, feels his rage boiling over worse than ever before as he sits on a throne covered in injuries inside the Plane of Famine. With numerous Famine Spirits scurrying all around him treating his injuries.
+
+“Years, it will take,” the Grand Famine Spirit in front of him declares after studying the curses on his body. “Stay. Recover. Then revenge.”
+
+Famine nods his head without saying anything in response to the Grand Famine Spirit.
+
+The Grand Famine Spirit has the form of an armored knight in gray full body armor and no face shown beneath the scrap cloth hood on his head. With nothing but glowing orange-red eyes beneath the hood.
+
+Meanwhile the other Famine Spirits all wear cloaks without showing any sort of armor beneath. With their faces hidden as black silhouettes, just like the Grand Famine Spirit.
+
+Unlike with the higher power Spirits like the Void Spirits and the Death Spirits, which have an entire three Grand Spirits, there is only a single Grand Famine Spirit. And the Grand Famine Spirit isn’t anywhere near as intelligent as them either.
+
+Still. The Grand Famine Spirit is frightening enough that people are still terrified of it.
+
+After all, weaker or not, it’s still a Grand Spirit.
+
+And it’s still strong enough to drain an entire galaxy of its energy. Starving every last being in the galaxy in the process.
+
+Even Famine himself isn’t quite as strong as the Grand Famine Spirit yet.
+
+Famine looks down at his lap, feeling his anger growing greater and greater at the understanding that he lost. Even if he was attacked by multiple Grands all at once, he still lost.
+
+And he lost to mortals. Not other Horsemen.
+
+I feel disgusting…
+
+The mere idea that he was sent fleeing by mortals makes his skin feel filthy. Like his very being was tainted by this encounter.
+
+And that sensation only makes him even angrier.
+
+Famine quietly begins to chuckle. One light laugh after another.
+
+Then his chuckles gradually grow louder and louder. More numerous as well.
+
+And ever so slowly, his chuckles turn into full-on laughter. As he cackles in the middle of the Plane of Famine.
+
+But none of the Famine Spirits show even the slightest hint of being disturbed by his laughter. Even with how mad he sounds as he laughs.
+
+After cackling for several seconds, clearly showing his insanity, Famine suddenly stops and shouts, “Begin the assault!”
+
+The many Famine Spirits around him kneel down for a moment before climbing to their feet and opening millions of Gates all around Famine. With more and more Famine Spirits forming from the Famine energy flooding the Plane of Famine. All before said spirits begin entering the Gates one by one.
+
+Then all the Famine Spirits appear on the other sides of the Gates on various different planets across the universe. Where they begin attacking nations left and right.
+
+Famine then starts cackling again, his voice echoing out of the Gates leading to each and every planet connected to the Plane of Famine. Making his voice audible to all the people near the Gates and sending a chill down the spines of all those who hear him.
+
+“Let the divine punishment begin!” Famine shouts, his voice echoing out across the many planets amidst his cackling. “For the crime of harming a higher being, everyone will be punished!”
+
+And soon after beginning his assault, planets gradually start falling one after another. As the nations are slaughtered by the Famine Spirits.
+
+Their energy drained out of them. Gradually starved to death of nutrition and energy. And then slaughtered like cattle by the emotionless Famine Spirits.
+
+All while Famine’s cackling echoes across the universe through the many Gates. With the Famine Spirits nonstop leaving the Gates without any pause no matter how long the assault lasts.
+
+Flooding the planets with the Spirits and setting off the start of what the universe quickly names the Famine Apocalypse.
+
+Brought to the universe by the Horseman of Famine. Otherwise known as the Black Horseman.
+
+And the Horseman of Divine Judgement.

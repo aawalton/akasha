@@ -1,0 +1,147 @@
+---
+id: 3bda7465-535d-512c-998c-e2b4e8ec079c
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 52"
+slug: 0057-b1-chapter-52
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 57
+ownLength: 1773
+unit: words
+ownProgress: 1773
+publishedAt: 2024-01-24
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1493792/b1-chapter-52"
+royalRoadId: "1493792"
+markedReadAt: "2026-06-29T19:07:50.713Z"
+---
+
+Aria
+
+“You just had to have been born, didn’t you? Just had to be a true immortal we couldn’t kill. Did you know just how much that messed with His Majesty’s plans?” the man says, starting what I’m sure will be a really long monologue. “It was supposed to be a quick and simple mission. Just go in and kill the Crimson family while they’re all weakened by the poison and curses. Then leave just as quickly as we arrived. But you just had to be a true immortal, didn’t you? We tried burning you, cutting you apart, burying you, and even dropping you into the fucking ocean and nothing worked!”
+
+The man goes about waving his arms as the thousand soldiers around us just quietly listen to the dog.
+
+“Because of you, the generals found out about our mission and even found links to us that, while weren’t enough to incriminate us, still decreased our authority significantly! Then you had to go and prove yourself in the military instead of just being lost to the enemy when your fucking team was killed the first time!” the man shouts, making my eyes widen with rage.
+
+“That was you!” I shout, my voice almost going hoarse as I try to push forwards to strangle him, but more soldiers leap onto me, holding me down.
+
+I fucking knew it but there wasn’t any absolute confirmations until now! He’s the one behind their deaths! My first team! The emperor really was behind it!!! He fucking sold us out to the Arterians!
+
+He laughs at my actions but doesn’t stop his monologue, “You were supposed to be captured by them when they realized they couldn’t kill you. Then turned into a slave, never to be able to learn any combat skills or anything. The perfect servant for a household.” His excitement vanishes in an instant to be replaced with anger. “But they had to let you escape. Then you managed to make a name for yourself over the years and even climbed the ranks.”
+
+The man reaches over in his anger and grabs me by the collar, pulling my face close to his as he practically spits out, “You ruined all of His Majesty’s plans! You ruined everything for him!” And after a moment, his anger clouds over with a sick enjoyment. “Now we’re going to make the rest of your life a living hell no matter what it takes.”
+
+As if on cue, the soldier I stabbed in the gut with my hidden blade finally dies, giving me the last kill I needed and leveling me up.
+
+And, to my immense relief, I get the System screen I’m looking for.
+
+User has leveled up to level 6.
+
+User will now be given their second skill.
+
+Assessing user’s accomplishments and actions… assessment complete.
+
+User will now be given the following skill:
+
+Servants of the Pale Horseman
+
+This skill allows the user to summon Lesser Minor Spirits of Death, the lowest of the hierarchy of Death Spirits. These spirits will then obey all of the orders given to them by their beloved Lady Death.
+
+Set these Spirits on the fools who would try to harm Death herself.
+
+For they do not know of whom they harbor animosity towards.
+
+The dog seems to notice the change in my level, and he frowns, only to glance back at the guy who died. A man he clearly realizes is not Arterian.
+
+He was an Albarian.
+
+And everyone in the Republic believes that my purpose is to kill the enemies of Albaria.
+
+Which shouldn’t include a soldier of the Republic amongst its numbers.
+
+He brings my face even closer to his as he shouts, “What just-”
+
+I don’t let him finish. Because unlike Harvest, this skill does let me activate it with but a thought.
+
+So I do.
+
+And several rifts appear around me seemingly leading to some sort of plane filled with nothing but miasma and death, following which creatures pass through the rifts. Each one being a strange, cloaked creature with nothing but ragged brown or black cloaks on their bodies. Meanwhile the creatures themselves are skeletons and zombies, but with glowing red eyes. And I mean glowing. To the point that it’s just an eerie crimson, round light in their eye sockets. No real eyes to be seen.
+
+All of the soldiers around us immediately back away in fear, including the ones that were holding me down.
+
+I grin as I reach forwards and punch the dog in the chest using my newfound freedom, sending him stumbling backwards while letting go of my face. Then I stand up straight as the creatures, the Lesser Minor Death Spirits, lower themselves to the ground around me.
+
+None of them seem intelligent. In fact, they kinda look like curious animals studying prey around them. But none of them move. They just watch, occasionally tilting their heads at those around us.
+
+The skill drained all of the remaining soul energy I had left, and even ate up one of the soul cores I had devoured in my body at the time. The weakest one in my possession being the one belonging to the Arterian Emperor. So I can’t get that soul core back.
+
+Probably happened because I didn’t have enough soul energy to summon them myself.
+
+“W-what are these things?!” the dog shouts. And he’s not the only one. All of the soldiers quickly begin running close to the edge of the closed off space as they turn around to look at the Lesser Minor Death Spirits.
+
+There appear to be around two dozen of the creatures, which doesn’t seem like much. But considering that these are Death Spirits, the strongest of the spirits… they’re probably pretty powerful. Even if they aren’t intelligent.
+
+Occasionally the Lesser Minor Death Spirits – a rather mouthful of a name – let out weird screeches and odd roars from their mouths.
+
+“These… aren’t undead,” the dog says, having finally regained a bit of his composure. “There’s no miasma around them, so what are they?! Tell me!”
+
+Huh. Didn’t think about that, but he’s right. While they may look like undead, these are not undead.
+
+Undead naturally emit miasma that kills and poisons everything around them. It’s one of the reasons why necromancy is banned in Albaria.
+
+But these things aren’t emitting that. Although they are emitting death energy, which only seems to be noticeable by me and likely any other death magic user.
+
+Guess that at least means I won’t be arrested for necromancy.
+
+I almost snort at that thought. Then I focus on the Death Spirits and tilt my head, tapping my chin. And to my surprise, some of them actually mimic me.
+
+So I test a few things out like raising a hand and lowering it again, and they mimic that too.
+
+“Cute…” I mutter out loud almost unconsciously, making a look of confusion and horror spread across some of the soldier’s faces, not to mention the dog.
+
+“Fuck this, just kill those things and capture her again! She has to be low on mana by now!” the dog shouts at the soldiers. And I can’t blame him for assuming that I’m using mana. Not really.
+
+It takes another couple shouts, but the soldiers finally begin attacking my Death Spirits.
+
+Which doesn’t actually do anything.
+
+After all, you can’t kill a Death Spirit. They’re already dead in a way.
+
+They’ll also just regenerate using the soul energy I feed them.
+
+Although you can dissipate them… if you… hit them hard enough that they don’t have any… more…
+
+Why do I know this?
+
+I frown, only to shake my head and mutter out loud, “Kill the soldiers who want to be here and aren’t being forced. And kill the dog as well.”
+
+As if a string was cut, the Death Spirits all move so fast that it’s just a blur to me. Although it’s probably easier for the higher leveled soldiers they’re tearing apart to see.
+
+The Death Spirits all coat themselves with soul energy of their own, making strange blades of red energy appear covering their arms. Almost like their arms turned into pure blades of crimson energy.
+
+And the massacre begins.
+
+At this point, most of the soldiers and Ability Holders are tired out from battling and capturing me in the first place. Since even for the ones I didn’t kill, I at least exhausted them of mana and energy. And bullets.
+
+So the Death Spirits manage to slaughter their way through them without any hesitation. Meanwhile one of them in particular walks up to the dog, who tries to fight it one on one with his lightning magic.
+
+But black and red lightning strikes back at the man’s yellow lightning with each bolt from the soul energy fed into the Death Spirit, leading to him slowly being backed into a corner.
+
+I feel more than a little satisfaction when the Death Spirit finally corners him at the barrier of his own making before grabbing him by the throat and draining the vitality from his body. To the point that he literally ages before our eyes.
+
+Then, to my surprise, another one of my soul cores that I had devoured shatters, leaving me to realize that it wasn’t just a one time payment. They’re still taking soul energy from me.
+
+And I don’t have an infinite amount of that. Plus if they continue then I’ll lose the good soul cores I have devoured.
+
+So I quickly order them to find and kill the spatial mage, and they do it almost instantly, making the barrier shatter.
+
+Then I tell them, “Thank you for your service. You may now return to the Plane of Death.” Somehow knowing exactly what I need to do to dismiss them.
+
+All of the Death Spirits turn to bow to me as another rift opens up and they each pass through.
+
+But before the last rift closes, I spot several things on the other side looking through with what I instinctively feel is a sort of… genuine happiness. Almost as if they’re watching their daughter grow up or something. All of the Death Spirits on the other side of the swiftly closing rift. Death Spirits I can tell are a lot higher ranking than the ones I had summoned.
+
+Then, without any fanfare, the rifts finally close.
+
+Next thing I know, the soldiers and generals around us quickly begin to round up the soldiers who had attacked me. Meanwhile the battle itself had apparently concluded during the rather long time I spent in this trap.
+
+Guess the war ended without me.

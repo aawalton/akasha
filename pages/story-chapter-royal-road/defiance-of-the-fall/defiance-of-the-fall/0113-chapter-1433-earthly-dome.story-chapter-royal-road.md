@@ -1,0 +1,127 @@
+---
+id: 666a387a-51c6-5246-b30d-fe43607294e7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,433 - Earthly Dome"
+slug: 0113-chapter-1433-earthly-dome
+partOf: defiance-of-the-fall
+position: 113
+ownLength: 2887
+unit: words
+publishedAt: 2026-05-12
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3387310/chapter-1433-earthly-dome"
+royalRoadId: "3387310"
+---
+
+The endless rows of cabinets reached a dozen meters into the air. They were filled to the brim with treasures that stretched the bounds of Zac’s imagination, yet he didn’t spare them a single glance as he rushed down the halls. Almost every item in the maze-like treasury was a hollow mirage lacking the detail necessary for his [Mercurial Sack] to work. The few illusions that depicted real items were guarded by protections and often afflicted with nasty curses, making them more trouble than they were worth.
+
+‘Left!’
+
+Zac directly veered left, cursing with surprise upon finding himself face-to-face with another ghast radiating a dusty aura full of decay. Rather than the Dao of Death, it was a creature made of withering time, antiquity taken form. Zac desperately activated [Abyssal Drive], blinding the archival ghast while escaping as a streak of Abyssal Death.
+
+The whole treasury darkened upon discovering the foreign energy fluctuation, and streaks of temporal energy rushed toward his location. Zac deactivated his movement skill before a deadlier ghast could take shape, hitting the ground running. There was no upside in fighting the temporal creatures guarding the memory of a clan’s hoarded wealth. Temporal Energy could no longer be considered a weakness of his, especially after breaking through to Peak D-grade.
+
+The threat they posed was to Zac’s wallet.
+
+“How much longer?” Zac asked, his heart throbbing with pain upon sensing the constant drain on his seal.
+
+‘Less complaining, more running! We’re almost there,’ Esmeralda retorted from the safety of her shrine.
+
+Her comment felt like an adult placating an impatient child, but he could only put his faith in her words being true. He could feel the memory domain fraying at its edges. It should have collapsed half an hour ago. Keeping it going came at a growing cost, yet leaving wasn’t an option. Even Zac could feel the massive accumulations of time through the fraying film of reality.
+
+Their situation was the exact one they’d wanted to avoid, and time was the trickiest to deal with of Mercurial Court’s major Daos. Esmeralda could deal with Space, and Zac’s resistance against illusions was extraordinary. The power of time was something neither had a good counter to, beyond putting his Void Emperor bloodline on full blast. If unlucky, they could end up trapped in a temporal quagmire until the trial ended.
+
+Esmeralda’s promise proved accurate for once. After a few more turns, Zac felt the temporal energy leaking through the memory’s film weaken. Suddenly, Esmeralda emerged, her left hand turning into a blur.
+
+“You didn’t—” Zac blurted upon seeing the toad brazenly trip the treasury’s alarms to snatch one of the real treasures, triggering a complete lockdown.
+
+“Now!” Esmeralda yelled with a wide grin, her voice distorting as time slowed to a crawl.
+
+The memory withered the instant Zac stopped supplying Imperial Merit. The endless maze of cabinets actually followed them to the present, though their appearance had grown twisted. They were covered in branch-like appendages throbbing with corruption, making it look like they’d appeared in a nightmarish forest. There were still hints of time, only it had been turned into a backdrop to the Lost Era’s taint.
+
+Zac was only given a moment to register his surroundings before his mind screamed of danger. He shifted to his left, still a step too slow to perfectly avoid a sword streaking past his throat. Zac felt a flash of heat that stayed and grew stronger. He had to fight back a wave of nausea brought on by the poison flooding the wound.
+
+There was no swordsman to go with the blade that almost decapitated him. It possessed a will of its own and turned around after missing its mark. The sword sported a scowling eye on its pommel and thrummed with malevolence. Its edge was angry red, and just looking at it made Zac feel feverish. It was the perfect picture of a devilish weapon.
+
+In reality, it was a Peak D-grade Qriz’Ul, inheriting its unusual appearance from its environment. It wasn’t alone. Like in a warped fairytale, hundreds of shelved items came alive. Worse, Zac sensed two deadly presences stirring in the distance. Judging by the almost blinding corruption they radiated, they had to be the equivalent of Middle Monarchs—not something Zac was ready to face.
+
+Most of the living treasures posed no threat, yet Zac was ready to run for his life. The problem was, where should they go? An ominous tangle loomed above the cabinets, channeling temporal energy and corruption. It was the main reason for Zac’s danger sense screaming, not to mention that appearing in the sky would expose him to the C-grade Qriz’Ul.
+
+Just as important, the corrupted treasury was the “safe zone” they’d spent over a thousand Potentiality to reach. After three weeks of travel toward the heart of the Mercurial Court, there were no good options left. The best the Heavens could do was provide dangerous trails surrounded by certain death.
+
+“Buy me some time,” Esmeralda said upon seeing Zac’s troubled expression. Swirls of space surrounded her as she busied herself with calculating and deducing the way out.
+
+Zac grunted in agreement, and billowing waves of corrosion poured from his body. Hundreds of E-grade Qriz’Ul crumbled as [Deathmark] unfolded, dying before the axe wraiths could make an appearance. Seeing dozens of Corruption Crystals fall to the ground brought no joy to Zac’s face, nor did the fact that he’d regained a few dozen points of Potentiality in one go.
+
+For one, the crystals had grown quite common after they began visiting C-grade corrupted zones, and these crystals were the bottom of the barrel. Secondly, the warning of looming danger in his mind immediately grew more urgent. The ancient Qriz’Ul were usually deep in slumber, and the disturbance helped them come around faster.
+
+Activating a skill was the best of bad options. The commotion hundreds of Qriz’Ul could cause was much greater than [Deathmark], and the skill helped Zac expose the real threats hidden in the mix. One was the sword from before. It was extremely fast, and its edge was imbued with a powerful curse. The second was a living crystal whose refractions held illusions and madness. It could even affect his axe wraiths, which were supposed to be inanimate objects without a will of their own.
+
+The last was a magician’s tome that unleashed barrages of virulent—and loud—spells. A green meteor the size of a barn door crashed into the wooden shelves after missing Zac by a mile, causing a deafening explosion. Misshapen golems screaming with agony rose from the ground, stumbling toward Zac like drunken zombies.
+
+The tome was the least threatening of the three, but the commotion it caused forced Zac to make it a priority. Two chains punched through the churning mists, intercepting the sword on its second approach. It fearlessly lashed out, causing a smatter of broken chains to fall to the ground. Meanwhile, Zac ordered all his wraiths to surround the crystal and block its glowing waves of light.
+
+The wraiths wouldn’t last long, but Zac only needed to distract the two itemized Qriz’Ul long enough to close the distance to the tome. [Death’s Duality] only managed to shave off a corner. Zac’s brows rose in surprise upon seeing the tome burn two of its pages, causing a flicker of both time and space. Suddenly, it appeared two miles away, looking as good as new.
+
+“Shit,” Zac swore before lunging into a newly opened vortex.
+
+A second later, a temporal backlash tore apart everything around him, nearly breaking the chains sticking out from the gate. The tome had somehow used corruption to displace some of the Karmic backlash of winding back time, turning it into a weapon.
+
+Zac didn’t stay in the darkness long. A new gate had already been opened where the tome teleported. Taking advantage of the book’s discombobulated state, a dripping chain punched through the ream before it could react. Only then did Zac emerge, accompanied by four skeletal servants.
+
+A cascade of virulence clashed with a pitch-black wind that deposited the tome’s attack right on top of the crystal. Zac wasted no time in sealing the deal. While the tome was still caught on a chain, a streak of steel passed right through it. A weathered book, Qriz’Ul or not, had no chance to withstand [Death’s Duality] empowered by the soul-cutting skill [Fatehew].
+
+While the book was torn to shreds, more vortices kept opening up, each no larger than a fist. Three silently hovered just behind Zac, providing entrance to an equal number of chains. Two more opened by the struggling sword, forcing it to suddenly face four chains at once. While its grade was higher, the stacking effect of four applications of [Inexorable Subjugation] was substantial. The chains kept adding loops faster than the sword could break through them. Even the vortices spun around the growing cocoon like spiders to maintain the containment.
+
+The final chain appeared by the crystal just as it cast off the stream of virulence. It slammed into the gem with the force of a truck, yet it only wobbled and lost some of its luster. If Zac could, he would have sent even more chains through the Void. Adding the two previous gates, he was already pushing the envelope.
+
+Still, the three vortices stuck to his back as he rushed through the wall of axe wraiths, destroying those who’d gained a mind of their own. A flash of blinding light greeted him as he reached the crystal, and a chorus of screams filled his mind. A simple hatchet appeared before him, and the purgatory in Zac’s mind turned into a subdued clamour.
+
+The Warbringer Idol was enough to keep Zac sane through the crystal’s attack. He wouldn’t say he’d gained immunity to the Lost Era’s madness, but the amount of exposure therapy he’d subjected himself to had greatly dulled its edge. Zac didn’t stop for a beat before breaking through the crystal’s outer shell with a couple of swings. Another Peak D-grade Corruption Crystal was extracted with practiced ease before Zac descended on the trapped sword.
+
+The first wave was dealt with in seconds, but there was no end to the number of Qriz’Ul in this zone. One of the C-grade monstrosities had already awakened and was drawing closer at a troubling rate. Zac exhaled upon feeling Esmeralda’s hand on his shoulder. The next moment, the corridors turned into a blur as the thief sped away through a streak of accelerated space.
+
+“So, what do you think?” Zac asked in a hushed voice after confirming the Qriz’Ul Monarchs had lost the trail.
+
+“You didn’t accidentally cut off any chains or limbs this time, so that’s something. Got close, though. I saw you almost close it to avoid the temporal backlash. If you did, the sword would have broken free. What would I do then?” Esmeralda said in mock anger. “You’re still full of openings that more skilled opponents could exploit.”
+
+“I know all that. I’m still getting the hang of it,” Zac said with a roll of his eyes. “I was talking about how it looked as an observer.”
+
+“It should be fine,” Esmeralda shrugged. “I can obviously tell they’re not spatial gates, but I can’t feel the aura of the void. Between the darkness on the other side and the deathly aura coming from you and your chains, most people will just chalk it up to being a Death-attuned skill with a perception-obscuring component. Silent Death, you know?”
+
+“Perfect, that’s all that matters,” Zac said with satisfaction.
+
+It hadn’t taken Zac long to figure out the optimal way of using his vortices in combat. Rather than treating them like spatial blades, they proved much more useful when combined with his techniques—particularly his armaments. A vine or chain suddenly appearing from a blind spot could trap an opponent or disrupt their momentum.
+
+The method added another layer of complexity to his infighting. Like Esmeralda mentioned, Zac kept accidentally cutting off his chains by closing gates prematurely or failing to sync their movement at the beginning. It wasn’t enough to cool Zac’s excitement, and he’d already decided to make it a permanent component of his stances.
+
+[Earthly Dome] was different from the rest of his Void Talents. [Force of the Void] and [Void Zone] were best used at a critical moment to turn the tides. They were also cheat-like abilities that Zac was only comfortable using when there was no one alive to witness the deed. In contrast, the void vortexes were just as useful in a prolonged fight.
+
+Knowing that an attack could appear anytime, anywhere, was a huge mental burden for even veteran combatants. They were forced to retain some strength to defend against an ambush, while Zac could maintain full pressure through a frontal assault. Alea’s chains were extremely resilient. He could send a chain into the Void for minutes, allowing it to gather speed inside until bursting forth without warning. Esmeralda’s evaluation was like music to his ears. So long as Zac hid the aura of the Void by infusing himself with [Void Mountain], the vortices could be mistaken for a normal skill.
+
+Zac didn’t allow himself to get drunk on the success. He maintained vigilance as Esmeralda skirted the edge of the supermassive corrupted zone. Over the next day, he fought two more battles while Esmeralda reoriented herself. Each encounter added valuable insights to his revamped technique. Only when they saw the edge of the hallways did Zac begin drawing corruption into his body.
+
+“So the next one is space, huh?” Zac muttered.
+
+Seeing a literal solar system with a pitch-black sun occupying space before him didn’t faze him any longer. The planets being replaced by enormous body parts did give him pause, though he’d seen more of the same in the Imperial Graveyard. One thing was for sure; the Mercurial Court’s inner region was getting weirder by the day.
+
+Esmeralda nodded in satisfaction, welcoming the macabre sight. “Good thing, too. I could use a breather before the final approach.”
+
+--------------
+
+Zac opened his eyes upon sensing a steady stream of dense corruption pouring into [Purity of the Void]. It appeared his Draugr half had successfully crossed another corrupted zone. Fuxi’s statue stood before him, looking as inscrutable as it had two weeks ago. Deriving further enlightenment from the mysterious runes had been slow since the initial spark of inspiration.
+
+What little he’d discovered was impressive enough, and Zac couldn’t shake the wave of awe he felt when facing the statue. The runes weren’t random sigils of power, but Zac didn’t exactly know how they should be categorized. They weren’t a formation, nor were they a skill or a comprehensive manual. Calling it a mantra digging at the essence of reality was as close as Zac could come.
+
+Zac stood up from a flying treasure he’d been using as a meditation platform and flew toward the memory domain’s edge. Observing the runes was mentally taxing, and he’d reached an impasse anyhow. He’d grown increasingly certain the key to seizing the Primo’s treasure lay within the mantra, but his time was better spent exploring other avenues while waiting for the corruption to be refined. It might be what helped him get past his current hump.
+
+As usual, Zac inspected the memory lanterns as he passed through the film of Imperial Flames. He still had a free slot, and finding an identity linked to the Left Imperial Palace could prove useful sooner rather than later. Today’s search proved no better than the last. Their quality was a bit lower than the average of the continent’s inner regions. The few that held a clear connection to a court were invariably bound to the Hollow Court.
+
+The sea of flames was less than a mile wide, and Zac soon reached the other side. He took a steadying breath before entering the world beyond. Unnatural Death immediately rushed at him, to the point [Void Zone] could barely put a dent in the assault. Madness hid in the darkness, layers of decaying truths superimposed into a chimeral Dao.
+
+It was reminiscent of the Lost Plane’s corruption, though there were critical differences. Zac still remembered his initial exploration before he broke through to Peak D-grade. He thought he’d found a bottomless reservoir of enlightenment waiting to be refined—exactly what he needed to complete the finishing touches on his blueprint.
+
+When he dragged the corruption into [Purity of the Void], he was surprised to find there was none of Ultom’s enlightenment waiting to be excavated. There was only Death so ancient that not even his Void was safe. Much had changed since then.
+
+Zac remained calm as the Ninth Hell’s cursed gift burrowed into his body, silently enduring until it reached the necessary threshold. He entered his Void State, and Fuxi’s esoteric patterns aligned themselves in his mind’s eye. The Void permeating his body tried to mimic the concepts the mantra conveyed. It was far from perfect, yet the world’s desolation immediately gained new meaning.
+
+The Ninth Hell was a realm that shouldn’t exist, propped up by a Dao that should not yet be born. It was a realm built on the Era of Order’s own demise, borrowing from past Eras through the echoes of the Void.

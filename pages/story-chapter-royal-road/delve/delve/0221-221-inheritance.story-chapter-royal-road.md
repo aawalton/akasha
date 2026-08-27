@@ -1,0 +1,221 @@
+---
+id: 50f09e92-2536-5ab5-9184-c03ac9e73458
+page-type-slug: story-chapter-royal-road
+title: "221: Inheritance"
+slug: 0221-221-inheritance
+partOf: delve
+position: 221
+ownLength: 3252
+unit: words
+publishedAt: 2023-02-12
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1111803/221-inheritance"
+royalRoadId: "1111803"
+---
+
+Nine figures sat in a ring on the sand, the bitter wind from the ocean whipping toward them only to break against the bubble of warmth that enveloped them. Likewise, the dark of the cloudless night was pushed back by the light cast from a lone bulb, which shone far brighter and further than was natural.
+
+Immolate and Radiance were responsible, of course, and by extension, Rain. The constantly updating and changing tapestry of magic was being woven by his macros, however, and far from the object of his focus. All of his attention was instead on the diminutive, white-cloaked figure seated on the opposite side of the circle.
+
+Sana’s face was hidden by her hood, drawn low over her eyes to shadow her face from view, preventing Rain from reading even the slightest clue from her expression. He wasn’t looking at her face anyway, his eyes locked instead on her soul, burning fierce and pink and vibrating with intensity as she weathered the tempest he was hurling against her. Rain had basically given up on outdoing Sana through skill, so he’d begun leaning more and more on the one advantage he had: his level. The fact that he’d still yet to best her despite the width of that gulf was awe-inspiring, as was the fact that she was still getting better.
+
+Rain thought that perhaps the Warden hadn’t fully thought through the implications of unblocking Sana’s memory.
+
+“Five fours,” Sana said firmly, her small voice seeming to slice through the storm of energy like a knife, carrying the truth of her words, a truth Rain could see, not one he was sure he believed.
+
+His jaw tightened, and his head pivoted to the left.
+
+The tension did not break, but rather, it shifted. The direct clash between them became something else, more like a game of keep away. Rain kept pushing his domain outward, making the environment as turbulent and violent as possible. Meanwhile, he was still maintaining the carefully structured pattern of pulses he was relying upon to probe the surface of Carten’s soul. The smokey gray orb was deforming under the pressure, bouncing back and wobbling like Dozer with each pulse that struck. Rain made his domain sharper, following the advice of his other teacher. More powerful. More chaotic. Faster and more violent.
+
+It worked to some extent, but despite his efforts, he could feel the faint ripples of Sana’s energy cutting through, reverberating from the surface and carrying information away. Ruthlessly, he slashed them apart, trying to disrupt and destroy while hiding his own signals amongst the storm of noise.
+
+Carten, for all this, didn’t notice a thing, chewing on his whiskered lip as he made a show of peeking under his cup. The moment he decided to boldly run up the bid was as clear to Rain as if he’d looked directly at him and made an exaggerated wink. The question was, was it clear to Sana?
+
+“Eight fives,” Carten said with a grin.
+
+Rain risked a glance at his opponent, but her soul was inscrutable.
+
+“Come now, big lad,” Tek said from across the circle. “Don’t raise it by more than two.”
+
+“Yes, Carten, poor form,” Ameliah agreed from beside Sana, having subbed in for Tallheart. “Do you want to go in the boo box?”
+
+Such was Rain’s focus that he didn’t even smile at her use of one of his poorly explained references. His head and Sana’s pivoted to Jamus, as if in response to some unheard signal. Like Carten, the Arcane Mage should have been oblivious to the sudden pounding he was receiving, but he reacted all the same, flinching at the intensity of those stares.
+
+The battle began anew, Jamus’s orange soul faring no better than Carten’s against the onslaught. Rain had no worries of actually damaging his friends. Despite getting oversoul lessons from Velika—who was a terrible teacher, surprising no one—he had only just reached the point where he could give an unawakened the willies. He’d been able to do that much and more by opening his paling already, but that was not the way. True oversoul was intentional. Targeted. Controlled. It was also the path to defying the system.
+
+“Nine fours,” Jamus finally said, and Rain was almost certain he had them. Not all nine, obviously, but enough that he felt the odds of the others having enough to reach that total to be in his favor. This time, Rain was confident he’d managed to keep Sana away as well, the half-meter difference in proximity along the circle having made all the difference.
+
+Next in the line was Halgrave, whose sapphire-colored soul might as well have been made out of the literal gemstone for all the effect Rain’s domain had on it. Indeed, all gold-tier souls appeared gemlike, according to Sana, sometimes smooth, sometimes faceted. Halgrave’s was smooth, but more importantly, he didn’t know shit when it came to soul stuff and showed no desire to learn. While Rain’s domain couldn’t affect the former branchleader in any way, the returns from the unyielding surface were clear, if a bit faint. Even better, for all Sana’s skill, she lacked the raw strength to push through Halgrave’s passive domain, especially with him seated so far from her. She would get nothing.
+
+“Fourteen fours,” Halgrave said, causing another grumble from Tek at the large jump in the count.
+
+Overreaching, but... No, he’s definitely got a lot of them. He’s just not sure he’s got enough.
+
+Behind his visor, Rain narrowed his eyes. The statistics agreed with that position. Out of eighty-one dice across nine players, there was only a forty-eight-point-six percent chance of there being at least fourteen fours. The old branchleader probably knew that, roughly. He wasn’t a bad player, all things considered, making Rain wonder how much time he’d spent in dockside bars while tagging along with the Rousers in his youth.
+
+He turned to look at Sana, finding only darkness from the hood pointed in his direction. Her soul floated like a predator in the momentary calm. Waiting.
+
+It was his turn.
+
+A bead of sweat rolled down Rain’s forehead, and then he pushed.
+
+Tek, seated beside Ameliah to Sana’s right, visibly jumped.
+
+Rain didn’t let up, nor did he make an attempt to try to spare the unawakened from the outflow. He couldn’t afford to. Sana was able to attack from any direction with no warning, the energy thrown off by her tiny soul seeming to move with a mind of its own. Rain, by contrast, was inflexible, thanks in no small part to the rigidity of the patch holding his paling together. If he tried to create a shadow in his domain to lessen the burden on Tek, Sana would use it as a multi-lane expressway to victory.
+
+Power. Power was the only way, and yet it was not enough. She would get through, he was certain, if only to catch a glimpse. When she did, it had to be of what he wanted her to see.
+
+Reaching deep, Rain took all of his fear—all of his uncertainty, all of his doubt—and pushed it outward. The cloud of energy spreading from him took on the scent of his feelings, but that too was not enough. With all the finesse he could muster, he began painting a picture on his surface.
+
+I am bluffing.
+
+He pushed harder, sharpening his domain and whipping it around him like a hurricane of knives. Rather than being shredded, Sana’s domain formed tendrils that ducked and wove through the tempest like the branches of a great willow, pushing ever closer.
+
+I’m not ready! If she so much as brushes me, I’m done!
+
+He pushed harder.
+
+“El’s blood on toast!” Tek cursed, leaning away from him.
+
+“Sixteen fours,” Rain choked.
+
+“Challenge, but, you know...” Meloni said, looking at Tek with concern.
+
+“I pass as well,” Tarny said quickly, likewise looking at the struggling Aspirant.
+
+There were quite a few variants to Nine Dice, but in the one they were playing, you could only challenge the player to your left. However, given the circumstances, they’d all agreed that Rain and Sana would be the only ones allowed to issue challenges, and only against each other. Players between them could instead ‘pass,’ winning a portion of the pot should Rain or Sana decide a challenge was in order. If, on the other hand, either of them raised the bid instead, then the players who’d passed would have to pay the pot a penalty.
+
+The pot was just cookies, but still.
+
+“Pass,” Tek grunted, inhaling a ragged breath. “I’ll never get used to this.”
+
+“Pass,” Ameliah said. She leaned over to rest her hand on Tek’s shoulder. “Just breathe.”
+
+Sana’s hood shifted back to Rain silently as he switched from defense to offense.
+
+“Seventeen fours,” Sana said so quickly that he had to backpedal in a scramble, restoring the storm he’d only begun to dismantle.
+
+She has them. She has to, but the odds... No, there’s no time!
+
+“Eighteen fours,” he shouted, interrupting Carten.
+
+“Oi!”
+
+“Challenge,” Sana said, her voice snapping like a whip.
+
+Closing his eyes, Rain inhaled and released the pressure.
+
+Tek sighed in relief, inhaling a ragged breath and reaching for his beer.
+
+Eyes locked on Sana, Rain lifted his cup, revealing the five fours hidden there.
+
+“Ah, Leeka,” Sana cursed, lifting her own cup and showing three more. Round the circle they went, starting on Rain’s right. Rain scarcely dared to breathe. Finally, Halgrave lifted his cup, revealing three more fours and bringing the total count to eighteen exactly.
+
+“YES!” Rain screamed, pumping his fists up to the sky.
+
+That had actually been the fifth round he’d won that night, and the most close-fought, reaching the required threshold he’d set for himself. There was some luck to Nine Dice—it was a game of probabilities, after all—but coming out ahead of even after that many rounds left him happy enough to call his task completed.
+
+I did it. I finally got her.
+
+“Well done, Rain,” Sana said, lowering her hood and smiling at him.
+
+Laughing, Rain reached up and opened his visor before the sudden trembling of his hands could stop him. “Sorry about that, Tek.” As he moved to wipe the sweat from his brow, he froze, hearing a wave of startled inhalations.
+
+“Gods, Rain!” Meloni shouted from his elbow.
+
+“What?” he asked, looking at her, then around at the others.
+
+“See for yourself,” Jamus said, rapidly fishing a mirror from a pocket and holding it up.
+
+Rain froze, seeing his reflection. It hadn’t been sweat dripping down his cheeks, but blood. From the corners of each eye, smudges of red stained his skin like mascara that had run.
+
+“Oh,” he said, blinking. Velika had warned him that things like that could happen. “Oops.”
+
+“Oops!?” Ameliah demanded, rushing over to him as he activated Purify. After a moment’s inspection, she wrapped him in a crushing hug, shaking her head against his shoulder. “Damn it, Rain. You hurt yourself. AGAIN.”
+
+“Sorry,” was all he said, squeezing back tightly and dropping the spell. He was sorry, in that he was making her worry. However, if a little blood was what it took, so be it. His health had barely even dropped, checking it now, and he was running out of time.
+
+Ameliah sighed, squeezing him tighter. “That’s it. Your winnings are forfeit. No cookies for you.”
+
+“That’s fair,” Rain replied.
+
+Tallheart rumbled to himself, hunched beside Temerity’s boiler as he waited. The compartment was dimly lit, the slowly spinning turbines of the main generator creating a persistent thrum. The grating below his feet was steady, the ship out of the water and supported by a scaffold of ice. Above him, he could hear the distant rasp of saws and pounding of hammers, carpenters busily rebuilding the interior structure of the upper decks from wood. He had restored the outer titanium hull, but it was a poor job, nowhere near what it had once been, for the metal’s intrinsic rune still was just out of reach. He was not confident the patched-together shell would withstand its own weight without the enchantments that had formerly run through it, let alone the stresses of the sea.
+
+His unfinished work, however, was not what had brought him here. It was the secrecy that the ship offered. The two mysterious orbs responsible for the ship’s protections functioned still, rendering the volume around them inviolable to Divination.
+
+Hearing footsteps, Tallheart turned his head, feeling the weight of his great antlers as he sometimes did—not as any physical burden, but rather, as the weight of responsibility. He was also aware of them in that he needed to ensure they did not become ensnared in the joists supporting the deck above.
+
+There was a knock, reverberating hollowly through the compartment.
+
+“Enter,” Tallheart rumbled.
+
+A mechanical thunk came a moment later, the latch on the bulkhead door turning before it was slowly pushed open. Tallheart’s eyes found Staavo’s for a moment, but after a quick nod, the old man stepped aside, making way for the five behind him. Four had the tall and slim builds that characterized his people, while the last did not only because he was a child. All wore bandannas across their foreheads, but even in the dim light, Tallheart could see the growing nubs tenting them outward.
+
+The door boomed closed, and the latch turned, Staavo departing without a word.
+
+“Gather close,” Tallheart said in the following silence. He shook his head slowly. “Remove those. You need hide what you are no longer.”
+
+“Tallheart,” Stoneriver said, undoing the strip of cloth, then bowing low, the others mimicking her.
+
+Tallheart bowed in return, greeting her by name, and then the others, one by one. He had only had the chance to speak with two of them that morning, but he knew them all from before, if not as well as he had known the one that they had lost. He saved Greenbriar for last. “Do you remember me?” he asked as he rose, peering deep into the child’s eyes.
+
+“I do,” Greenbriar said, looking down at his feet and taking a step closer to his mother. “I am sorry about Snowlilly.”
+
+“As I am sorry for your uncle,” Tallheart rumbled slowly, taking a deep breath and glancing at the wooden box Ander held. “I stayed away for too long.”
+
+“Who are these people, Tallheart?” Stoneriver asked, placing a hand on her sister’s shoulder. “What is this ship?”
+
+“Temerity,” he replied, answering the second question and running his hand across the surface of the boiler, feeling the heat within. “We took it from the Empire.”
+
+“We?” Stoneriver asked. “You and the humans?”
+
+“River,” Ander said, but his daughter ignored him.
+
+“I do not trust them,” Stoneriver said, shaking her head. “Ameliah is a friend, but I do not know the others. She speaks highly of their leader, this...Rain. She says he is a friend to us too, and I wish to believe her, but I cannot.”
+
+Tallheart smiled sadly. “Your caution is admirable, but you need not fear Rain. He is...hmmm. He is everything that Ameliah says he is. You will see.”
+
+“But the others, Tallheart,” Stoneriver persisted. “There are so many of them.”
+
+Tallheart rumbled in acknowledgment. “That is but one reason I asked you to join me here, within the safety of this ship. Hold while I activate the runes.” Lifting a hand, he touched a spot on the wall, willing mana into a copper plate hanging there. The Muffler Plates were Romer’s doing, the man showing remarkable adaptability in translating what he had done in cloth to metal. His work with linking runes, though, left much to be desired, and Tallheart had to activate four more plates before the sound of the workers completely vanished.
+
+“There,” Tallheart rumbled. “Now we may speak.” He looked at Ander, then down at the box he held. “Do you have them?”
+
+Ander nodded solemnly. Stoneriver’s expression tightened, but she stepped aside, making way as the white-haired man knelt, setting down his burden. Reverently, he lifted the lid and moved it aside, revealing a pair of antlers.
+
+Camaya looked away, covering her son’s eyes.
+
+“I feel your pain,” Tallheart rumbled to her, kneeling and carefully reaching into the box. “However, your brother would not wish you to weep.”
+
+“What are you doing?” Stoneriver hissed sharply as the compartment was flooded with light. Tallheart had turned, antler in hand, then opened the door to the firebox below the burner. The pool of alchemical fuel flared greedily as oxygen rushed in.
+
+“What must be done,” Tallheart replied.
+
+“Stop!” she yelled, grabbing his elbow as he negotiated the tip of one of the antlers inside, but she might as well have tried to stop an avalanche.
+
+“I will now reveal a secret,” Tallheart said, carefully watching the unnaturally hot fire as it began to char the antler’s tip. “It is something even I did not know until it was revealed to me by the Warden. Something our ancestors seemingly chose to forget.”
+
+Greenbriar had begun to cry, but Tallheart was already removing the charred antler, holding it over a shallow bowl of clear liquid he had gotten from Myth. It was an alchemical precursor, equal parts alcohol and liquefied Tel, and he had passed off his need for it by implying it was for his experiments with titanium.
+
+With his free hand, Tallheart grasped the tip of the antler and squeezed, making the brittle material crack from the pressure. “You must speak of this to no one,” he said, feeding the dust and broken chips into the bowl. He found himself holding his breath, only allowing himself to exhale as the liquid started faintly to glow.
+
+Good. It has not been too long.
+
+Rumbling deeply, he returned the antler to the fire. “The transfer will not work for humans, nor for those stronger than the one who has fallen. This is no path to godhood. For you, though, it is power. The strength of our people need not wither, should one of us perish.”
+
+“This is why?” Skymoon hissed angrily, looking at Stoneriver. “This is why they kill us?”
+
+“Hmm,” Tallheart rumbled, then shook his head. “A thousand years ago, when the Empire of old slaughtered our people and drove us from our lands, perhaps envy for this power was the reason. Today, greed is enough. Those that hunt us do so for the bounty alone.”
+
+“Fecht must have known,” Stoneriver spat.
+
+“Mmm,” Tallheart rumbled. “May his bones be burned to ash to spare the earth their poison.” Crumbling away the last of the first antler, he reached for the second. Despite all the material he had added to the cup, the level of the liquid had barely risen, glowing fiercely red. Somehow, though he could not say why, the color reminded him of his fallen friend.
+
+He turned to look over his shoulder. “Did any of you tell Ameliah the level of the essence monster that was forced upon you?”
+
+“No,” Ander said. “She asked once, but we did not say, and she did not ask again.”
+
+“Good,” Tallheart replied, already feeding the second antler into the fire. “You must all drink evenly, or we risk revealing more than we can afford. The humans must not suspect. Not even Ameliah or Rain.”
+
+“I thought you said you trusted them,” Camaya said softly.
+
+“With my life,” Tallheart rumbled, staring into the flames. “However, they do not need to know.”

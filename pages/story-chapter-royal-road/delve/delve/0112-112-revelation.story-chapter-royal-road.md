@@ -1,0 +1,395 @@
+---
+id: 7785c0d5-54db-5213-8395-fc2e3291a330
+page-type-slug: story-chapter-royal-road
+title: "112: Revelation"
+slug: 0112-112-revelation
+partOf: delve
+position: 112
+ownLength: 6237
+unit: words
+publishedAt: 2020-09-13
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/553912/112-revelation"
+royalRoadId: "553912"
+---
+
+Bartum had sent two sentinels and six officers with Rain on his rescue mission. They’d run into Ameliah as she was returning through the barricade. By this point, they’d spotted smoke coming from the far side of the river. Rain had been more concerned with getting to Kettel quickly, so he hadn’t asked her what she’d been up to, and it had since slipped his mind.
+
+The rescue party had rushed through the city, arriving just after Mahria finished casting Froststorm. They were too late to do anything other than to check for survivors.
+
+Rain had Purified the pile of dead Coal Lurkers out of existence, revealing several lacerated and frozen human bodies beneath it. Ameliah hadn’t hesitated. She’d darted straight to Kettel and stabilized him before moving on to the others, who, it turned out, weren’t nearly as hurt as they appeared. One of them had received some concerning internal injuries, but that was it. No one had died.
+
+Now, the Watch was busy setting up a perimeter. Ameliah said that everyone would be able to walk back under their own power, provided that they had a half-hour or so to recover from the healing. She was currently discussing something with the sentinels, while Rain had just finished helping to get some fires going.
+
+Satisfied that nothing was going to pop in to surprise them, Rain nodded to the officers he’d been assisting, then made his way over to where Kettel and the other members of his so-called party were resting. It was time to figure out what the hell was wrong with their brains.
+
+“Okay, does someone want to explain what you lot were doing out here?” he said as he came to a stop in front of them.
+
+It was Mahria who answered. “What do you think? We were hunting monsters, of course.”
+
+“You could do that from within sight of the barricades,” Rain said. “I don’t buy it. You were looting.”
+
+“Fine, so?” Mahria said, defiantly. “These houses are abandoned.”
+
+Rain rubbed the bridge of his nose, sighing deeply. “That’s not the point. I’m less worried about what you were doing, and more about how you were doing it. What made you think that coming out here with only six people was a good idea? And without a healer, no less. All of you could have died.”
+
+“We didn’t, though,” Mahria said. “We would have been fine without your help.”
+
+“Mahria, I don’t think—” Stoneshield began.
+
+“Let me do the talking,” Mahria snapped, glaring at him.
+
+“You wouldn’t have been fine,” Rain said, nodding to Stoneshield before returning his attention to Mahria. “Kettel would have died, and probably Mindyblades as well.” He turned to look at the younger woman. “Ameliah said your lungs were in really bad shape.”
+
+“You know me?” Mindyblades said, a puzzled expression on her face.
+
+“I know who you are,” Rain said, sweeping his gaze over them, “All of you. Which is why I know that your little group wasn’t up to this. Not with six. What were you thinking?”
+
+“Hey, listen here, kid,” said Jaks. “Thanks for the rescue, but we don’t need the bloody lecture.”
+
+“Clearly, you do,” Rain said. “What part about ‘don’t cross the river’ didn’t make it through your thick skulls?”
+
+“As if we care what the Watch says,” said Jaks. “We aren’t bootlickers like you. I notice you’ve got yourself a new plate. Joined them, huh? Fucking traitor.”
+
+Rain reached up to touch his custodian’s plate, which hung from his neck along with the bronze one from the Guild. He glanced at the pair of sentinels that were still speaking with Ameliah, then back at Jaks. “This just means I’m their ally. It doesn’t mean I’ve joined them or that I’m leaving the Guild. And don’t change the subject. I’m still waiting for an explanation.”
+
+“We were lookin’ fer—Ah!” Kettel shouted as Mahria elbowed him.
+
+“Looking for what?” Rain asked as Kettel rubbed his ribs.
+
+“Don’t you dare tell him,” said Mahria, glaring at Kettel.
+
+“But it were his ide—Oi! Stop that!”
+
+“Ah, I see,” Rain said, looking around. “So that’s it. Which house is Rankin’s?”
+
+“Damn it, Kettel,” said Jaks. “Now he’s gonna want a share, if he doesn’t just bloody take it all.”
+
+“So, you already found something, then?” Rain raised an eyebrow. He boosted Detection to the absolute limit short of Aura Focus and released a pulse, checking for Tel. The extra power would be needed to punch through any Arcane resistance that the others might have.
+
+The scan returned signals from everyone except Ameliah and the two sentinels, which wasn’t that surprising. He hadn’t expected to be able to overcome a silverplate’s defenses so casually. As for what he learned, the group before him did indeed have some Tel on them. The quantity varied, with Kettel being particularly broke. Nobody was carrying anything like the mother-lode that he’d have expected had they found Rankin’s stash.
+
+Rain clicked his tongue. “No, none of you has more than a few dozen Tel. You haven’t found it, and it’s not within my range, either.”
+
+“How did you—” Mindyblades began, but Rain cut her off.
+
+“So you haven’t found it yet, and you didn’t want Kettel to spill the beans. That means you were planning on trying this again. Did you all eat a lot of paint chips as kids?”
+
+“Beans? Paint chips?” Stoneshield said. “I have no idea what the depths you’re talking about.”
+
+Rain sighed. My references are lost on this world. He shook his head wearily. He’d stayed up too late last night, and he was starting to get one of his soul headaches. Time to get serious. “Look, you know the rule about not going into a lair that’s over your level, right? This is a ranked zone now, which might as well be the same thing.”
+
+He reached into his pouch and removed a small metal object that looked like an old brass pocket watch. Lady Par had finally come through, finding what he’d asked for a day ago, though he still had to figure out how to pay her back. He flicked open the depth gauge, then turned it around so the others could see the needle. “Rank eleven where we’re standing, though I have no idea how accurate this thing is.”
+
+“What’s tha’?” Kettel asked.
+
+“A depth gauge,” Mahria said, barely even glancing at him before she returned her focus to Rain. “A cheap one. Okay, we’re in a rank eleven zone, so what?”
+
+“I only count one of you that’s above that,” Rain said, flipping the lid closed and slipping the depth gauge back into his pouch.
+
+“Fuck, he can see our levels?” Elmwood said, speaking for the first time.
+
+“No, idiot,” Mahria said. “Nobody can do that without some very specialized equipment.”
+
+Specialized equipment? Rain pushed aside that line of questioning. He could ask someone else later. “All you have to do is pay attention to details. What spells people use and so forth. I’ve got a good enough estimate.”
+
+“How—no—why do you know so much about us?” Stoneshield said. “How long have you been watching us?”
+
+Rain sighed. “I haven’t been watching you. I have a very good memory, and I pay attention, but we’re getting off track. Just shut up and listen, okay?” He took a few steps away and ran a hand down his face, trying to decide how to proceed. After a moment, he turned, gesturing broadly. “It’s all about numbers. Six of you with levels less than ten. That makes your total strength sixty, at best. If you want to match the monsters in a rank-eleven zone with a traditional party, the score you’re aiming for is eighty-eight, and that’s with no margin. Sixty is less than eighty-eight. Try it, and you die.”
+
+“That’s a ridiculous oversimplification,” Mahria said.
+
+“Yes, it is, but it gets the point across,” Rain said. “Believe me, I’ve spent a lot of time thinking about this recently. I’m planning an expedition, and it’s going to work because I’m going to make sure the numbers are on our side. How’s it go? At low levels, humans are stronger than monsters, and at high levels, it’s the other way around? I can’t prove this yet, but I’m telling you that that’s a bunch of crap. The world is balanced for a party of eight, all the way through. I’d put money on it. Monsters are only stronger because people don’t work together. You use shitty all-offense builds and expect to get somewhere. It’s like everyone thinks they have to do damage or they aren’t helping or some shit. Do you have any idea how insane that is? What the hell is wrong with you people?”
+
+“I—” Jaks began, an angry expression on his face, but Rain ran right over him.
+
+“You see this?” He thumped his chest, his metal gauntlet clanging loudly against the breastplate. “This armor is the kind of thing that you get when you give an awakened smith a couple of days and some rocks that you picked up in a cave. Imagine what kind of equipment would be out there if people actually became crafters! But they don’t! Why? Because they know it means they’ll get enslaved by the first noble that passes them in the street. That’s fucking ridiculous. Did you know Havenheild doesn’t even sell half the stuff that their smiths make? The good stuff goes to the nobility, goldplates, Citizens, and the like. The commissions are ridiculous, which shouldn’t be a surprise because Havenheild is owned by the damn Bank! Have you ever heard the term ‘artificial scarcity’? No, of course you haven’t. Oh, that reminds me of another—”
+
+“Rain,” Ameliah said. He jumped, only now realizing that she had joined them. “What’s going on here?” she asked.
+
+“Um,” Rain said. Shit. What I just said… If that gets back to the Bank... He glanced at the Watch. They didn’t appear to be listening.
+
+“He’s explainin’ at us how we’re idiots,” Kettel said unhelpfully.
+
+“I see,” Ameliah said.
+
+Rain sighed. His head was really pounding now. “I might have gotten a little worked up. Look, Kettel, the rest of you, you’re adventurers; I get it. The only people whose lives you were risking were your own. That’s what adventurers do. You took a risk, things went bad, it happens. Maybe you thought it was worth it, hell, you probably still do and are just waiting for me to shut up so you can go do it again.” Rain clenched his teeth, trying to control his voice, which had been getting louder again. It was just so frustrating, the way that everyone in the Guild acted.
+
+He stared directly at Kettel. “Did you even think about the people who care about you before you tried this stunt? How would little Manda react if you died? The rest of your sisters? Your parents?”
+
+Kettel looked down at his feet. “I’m an adventurer. Might never see ‘em again anyway, once I leave ‘em. What’s it matter?”
+
+Rain’s eyes widened, and something in him snapped. “IT FUCKING MATTERS!”
+
+Ameliah grabbed his arm and pulled him back. “Rain, stop. Let me take it from here.”
+
+“But—” Rain cut off, stumbling as Ameliah started dragging him away.
+
+“They get your point, Rain, and they’re not going to change their opinions if you yell louder.”
+
+He struggled, but he might as well have tried to resist being towed by a tractor-trailer. Where’s she getting the leverage for this? He glanced at her feet, then blinked. How long hasn’t she been wearing shoes? When he looked back up, everyone was staring at them. “Damn it,” he said, relaxing his arm.
+
+“Just…take a minute. Calm down,” Ameliah said, releasing him. She fixed him with a commiserating smile. “I understand what you’re feeling. You can’t protect everyone, especially from themselves.”
+
+“I know,” Rain said, rubbing his eyes. Not having anything to sit on, he folded his legs and plopped down directly on the cobblestones, turning his back to the group. He brought a hand to his throat, fighting through the familiar burn of acid reflux. It and the headache always got worse when he got worked up, and his antacids were in his bag back at the compound. “You’re right. I got carried away. My soul is acting up and…” He sighed. Excuses. “I should try to meditate for a bit, not that I’ll be able to. That usually helps.”
+
+Ameliah nodded. “Just a minute. I want to get some things straight before I go talk to them. What were they doing out here?”
+
+Rain sighed. “Looking for Rankin’s treasure hoard. I have a hunch that he’s been embezzling Guild funds, and I made the mistake of mentioning it to Kettel.”
+
+“Embezzling? That means…stealing or something, right?”
+
+Rain nodded.
+
+“Since when did you get better at common than me?” Ameliah asked.
+
+Rain shrugged. “It was in Staavo’s book. Lots of weird words were. Look, Ameliah, I shouldn’t have snapped at them. I know it was the wrong way to handle it.”
+
+“You’re not wrong, though,” Ameliah said. “You’re just…”
+
+Rain snorted. “An asshole.”
+
+“No. I wouldn’t say that. I’d never say that.”
+
+Rain didn’t respond. The silence stretched, and he jumped when Ameliah laid her hand on his shoulder. She was staring down at him, the same sad smile back on her face. “You care too much. That’s the problem.”
+
+Rain grimaced as another flash of heartburn hit him, then looked away.
+
+“It’s better than not caring enough,” Ameliah said, jostling his shoulder before taking her hand away. “Let me talk to them. Then we’ll go see if you were right about Rankin.”
+
+“Ameliah, thank you,” Rain said, looking back at her. “For everything. Just…thank you. Your help means a lot.”
+
+“Don’t be sappy,” she said, turning to walk away.
+
+Rain watched her go, still wondering what had happened to her shoes. He closed his eyes, shaking his head slowly as he sat, thinking. I need to do something for her. She keeps helping me, and I haven’t given anything back. She’s basically trapped here because of me and Tallheart. I want her to stay with us because she wants to, not because she feels like she has to. She’s got no family, and she’s afraid of friends for the same reason that I just snapped at Kettel. I need to change that. The company is the answer. A new family for all of us, if I can make it work.
+
+He clenched his fists.
+
+I will make it work.
+
+“Huh,” Rain said, flipping up his visor as he surveyed the ruins of Rankin’s house. “That might be an issue.”
+
+The house had collapsed completely, and a particularly large mushroom was growing up through the remains of the roof. Whether the damage had come from a rampaging monster, or merely the degradation from the toxic moss weakening the rafters, it wasn’t clear. The signal he’d been following was coming from the basement, almost blinding in intensity. It wasn’t shielded at all, simply buried beneath a ton of rubble.
+
+“Is it going to be worth the time?” Ameliah asked. It was just the two of them, the Watch having escorted the recovering adventurers back to safety despite significant protest.
+
+“Yes,” Rain said, checking again. “Definitely yes.”
+
+“Well then,” said Ameliah, taking a broad stance. “There’re two ways we can do this. The fast way, or the slow, annoying way.”
+
+“Hang on,” Rain said. “Is the fast way going to destroy the house?”
+
+“The house is already destroyed,” Ameliah said.
+
+“Well, yeah, but I don’t want to damage any evidence if it’s there. I’m not going to steal all of Rankin’s retirement money if he came by it legitimately. I need to find something incriminating, like a logbook.”
+
+“You really think he’d keep a detailed record of all the money that he’s stolen?” Ameliah asked skeptically.
+
+“Well, no,” Rain said, scratching his head. “Maybe. I want to look, though, just in case. The backup plan is to have someone from the Watch do their lie-detector thing when we confront Rankin with the Tel.”
+
+Ameliah sighed. “Look, Rain, you need money, right? For supplies and equipment for your company?”
+
+“Yes, but—”
+
+“But what?” Ameliah said. “How much money is down there? If it’s thousands of Tel, I might believe he earned it, but tens of thousands? Hundreds of thousands?”
+
+“I can’t tell,” Rain said. “There’re too many signals, too close together. If I boost the power to resolve them, it gets overwhelming.” Hundreds of thousands? No way.
+
+“A lot, then,” Ameliah said. “Let’s dig it up and see, then decide whether to tell anyone about it.”
+
+“We’re telling the Guild, one way or another,” Rain said. He was prepared for this argument. “I checked with Gus way back. He said that anyone who steals from the Guild gets their ass kicked out, and that anyone who turns them in gets to keep a fifth of what was stolen. Yes, we could just not tell them and keep it all, but as much as I need money, I need goodwill more. If this whole company thing is going to work, I can’t put myself against the Guild. Besides, it’s not like it’s a secret what we’re doing out here. It would come back to bite us.”
+
+“Mmm,” Ameliah said. “There is that. Okay, fine, we turn it in. I hope you’re not planning on splitting the remaining fifth with the idiots, though.”
+
+“Of course not,” Rain said. “That would just be rewarding bad behavior.” They’re going to be PISSED. They can deal with it. Still, I should probably give them something… Hmm. Perhaps I’ll just give everyone something. That could work.
+
+Ameliah grinned. “Ha. I recognize that calculating look. Looks like there’s a little bit of adventurer in there after all.”
+
+Rain grinned back. “I’d like to use most of it for the company, if that’s okay with you. Of course, I couldn’t have gotten out here easily on my own, so if you want your own share, we could do fifty-fifty or something.”
+
+“That’s fine, I don’t need a share,” Ameliah said.
+
+“You’re sure?” Rain asked. “I know you’re a silverplate, which means you’re loaded, but what if it’s a lot? Like, a lot, a lot.”
+
+Ameliah shrugged. “Let’s just see, then. Is there anything on the ground floor?”
+
+Rain shook his head. “Just a few Tel over in that corner, there,” he pointed.
+
+“Just in case, are there any humans within a hundred stride?”
+
+Rain checked. “No. Monsters, yes, some even in the house, but no humans or animals. Not even rats.”
+
+Ameliah nodded. “Good, I didn’t sense anyone either, but it always pays to double-check. Stand back a bit. I’m going to open up the basement.”
+
+“Wait, you’re going to what now?” Rain said.
+
+“Just watch,” Ameliah said. A tremor ran through the earth, and Rain would have blamed it on the Watch’s ongoing construction of their citadel, but for the perfect timing. He stared at Ameliah’s bare feet, the implication finally clicking in his mind. Rooted? That’s Earth magic. Since when does she have Earth magic?
+
+Ameliah walked up to the house. After a brief chant in some unknown language, she dropped to one knee and pressed both of her hands to the cobblestones. The earth shook, then bubbled as an enormous wall of mud squeezed its way up through the cobblestones without damaging them. Mud Wall, like Ice Wall, was a conjuration spell, meaning that the mud wasn’t real, merely structured mana.
+
+Taller and taller the wall grew, not stopping until it overtopped Rankin’s house, completely blocking it from view. Ameliah stood, dusting off her hands as she spoke another chant—more of an invocation really, as it was only four syllables. She tapped the wall with a finger, and the mud flashed to stone with a noise like the slamming of the door to a crypt. Rain barely had time to react to this before Ameliah planted her feet and punched forward, rotating her torso as she struck the wall with her palm.
+
+“Kya!”
+
+It wasn’t clear if this was another use of Chanting, or just a shout of exertion. Rather than shattering the wall, Ameliah’s strike launched the entire thing forward as one piece, almost faster than Rain could follow. It shaved Rankin’s house from the ground like an enormous razor, stopping instantly the moment it reached the street on the far side. From the continuing sound of exploding wood, house shrapnel was doing some significant damage on the next street over. The system also presented Rain with a smattering of dings, informing him that more than a few monsters had met their ends.
+
+“Holy shit!”
+
+He reeled, his mind scrabbling to catalog what he’d just seen.
+
+Geoevocation: Tier-1, Mud Wall; Tier-0, Rock Push.
+
+Earth Manipulation: Tier-2, Stoneset, Rooted.
+
+Force Metamagic: Tier-1, Expanded Force.
+
+Evocation Metamagic: Tier-0, Chanting…
+
+Ameliah was still going, he realized, tidying up the hole’s ragged edges, stabilizing the walls, and creating a ramp leading down. She was gesturing with her hands like a conductor as she did this, the earth flowing like water.
+
+Earth Manipulation: Tier-1, Earthmolding.
+
+Evocation Metamagic: Tier-1, Somatic Manipulation.
+
+Rain kept staring as Ameliah formed the ramp into earthen stairs, then flashed them to stone.
+
+Prerequisites…Rock Pull, Liquefaction, Earth Affinity, Force Mastery, Guide Sending…
+
+Rain flinched as the conjured wall of stone exploded without warning. Far too late, he covered his face with his arms. Fortunately, nothing struck him. After a few seconds, he peeked, then lowered his arms completely. Not even a single shard remained where the wall had been. With it gone, he could see the remains of Rankin’s house strewn across the neighboring street. The building on the other side looked like it had been nailed by an explosive shell from a howitzer.
+
+“There,” Ameliah said, cleaning the dirt from her clothes with a blast of Purify. “Send me some mana, please, I’m a bit low.”
+
+Rain stared at the devastation. That doesn’t make any sense. Mud Wall should have lasted for at least…I don’t know. She’s using so much metamagic that I can’t tell. Did it shatter because she used Stoneset? No, that would have made it last longer, if not made it completely permanent. I don’t know how those two spells interact. Did she break it on purpose? Rockbomb? No, why bother? Construct Reclamation? It had to be… That’s Arcane Utility, Tier-2! Holy… How many skills does she have? Why have I never seen her use Earth magic before?!
+
+“Um, Rain? Hello?”
+
+Numbly, Rain pivoted his head to look at her. He activated Essence Well, watching as the blue rings formed. Only then did he realize that his mouth was open. He closed it with a click.
+
+Ameliah winked at him, smiling.
+
+“How, um… How much mana did that take?” Rain asked. I mean, I could have burned the house down with Immolate or something, but that… that was…
+
+Ameliah shrugged. “Not that much. I was low from earlier. This is child’s play compared to what I did to the river.”
+
+“The river?” Rain sputtered. “What did you do to the river? You’ve got Water magic too?”
+
+Ameliah laughed. “No, just more Earth magic. Intrusion.” She grinned.
+
+“Intrusion? Is that hidden? I’ve never heard of it.”
+
+Ameliah looked slightly disappointed. She clearly hadn’t gotten the reaction she’d expected. “No, not hidden. It is tier-4, though, and it’s mostly for breaking things like city walls or smashing tunnels shut. It’s siege magic. I got a little impatient.” She gestured to the basement. “Doing the river this way would have taken all morning.”
+
+“Doing what to the river?” Rain said, then he froze. Hold the fucking phone, did she say tier-4? That’s a hundred thousand experience just to unlock!
+
+Ameliah shrugged. “You want to go east, but the river was in the way. I moved it.”
+
+“You moved the— Never mind. Of course you did.” Rain pulled off his helmet, then ran a hand through his hair. What level is she? I know she’s silver, but I was pretty sure she was on this side of thirty… Fuck it, I’ll ask.
+
+“Ameliah?”
+
+“Yes, Rain?”
+
+“That was at least fifteen different skills you used right there if I count the prerequisites. I’ve never seen you use a single one of them before. You’ve also got Purify, Amplify Aura, Extend Aura, and Aura Focus, so that’s nineteen. Firebolt, Lunar Orb, Attract, the prerequisites for Attract, all three of them, Healing Word, Tissue Scan, Message, Redirection, Shrouded by Flame, Concussive Blows, Probably Intrinsic—”
+
+“I’ll just stop you right there,” Ameliah cut in, raising her hand. “I knew you’d be the first to notice. It’s not something I really want known, but not using it defeats the point, so…” She shook her head. “My class lets me swap out skills.”
+
+For the next few seconds, Rain’s mouth moved like that of a fish suffocating on dry land.
+
+“WHAAAAAAAAAAAT?!”
+
+A few hours later, Rain was back inside the safety of the barricades, leading a small group behind him as he walked excitedly toward his destination, his weariness forgotten. He was wearing his full outfit, helmet included, dark cloak billowing behind him from his haste.
+
+As if the revelation about Ameliah’s class hadn’t been amazing enough—the potential for testing builds was simply ridiculous—another astonishing discovery had been waiting in Rankin’s basement. Below a barrel, they’d found the remains of a carpet covering a decaying wooden trapdoor. Beneath that, there was an iron box. Inside the box…
+
+Fifty-three thousand Tel.
+
+That wasn’t even the best part. The best part was the paper trail. There had been a ledger after all—three of them, in fact. The ledgers weren’t there because Rankin was stupid; on the contrary, Rankin was actually smart. The ledgers were necessary for his plan to work. They would also be his undoing.
+
+“Ready?” Rain asked, slowing down to look over his shoulder. Ameliah, Gus, and Bartum nodded back to him. Bartum’s escort, a Watch sentinel from Jarro by the name of Berel, trailed behind them at a discreet distance. Rain smiled and resumed his rapid pace. This was going to be good.
+
+The ‘new Guild’, such as it was, amounted to a cordoned-off area that looked like nothing so much as outdoor seating at a restaurant, without the actual restaurant. It had recently annexed Khurt’s bar area, and there were plenty of unawakened inside, though they were keeping a healthy distance from the raucous Guilders.
+
+Because of the ongoing political snit between the Watch and the DKE, no more refugees were being allowed through the teleporter at the moment. The issue was close to a resolution, Rain understood, but for today at least, the remaining adventurers were stuck here with nothing to do but wait. There weren’t any quests to be had, and, not being Dynamos, they couldn’t just spend mana endlessly, which put a limit on monster hunting.
+
+According to Gus, Rankin was still trying to act as the leader of the local Guild. Basically, he was trying to play king, while all that the other adventurers wanted to do was play cards. It was going about as well as you’d expect. While Rankin was still nominally in charge, his authority had been based on Velika’s support. With her gone, his claim was dubious at best, though no one had challenged it.
+
+Until now.
+
+Barely anyone had looked up at their arrival, but that changed when Rain hopped up on a chair next to an unoccupied table and shouted at the top of his lungs. “Rankin! I’m callin’ you out!”
+
+His companions didn’t even bat an eye at this. He’d told them what the phrase meant—briefly, without getting bogged down by trying to explain the nuance. Ameliah had rolled her eyes at his insistence on using the foreign idiom, but damn it, he was going to have this.
+
+“Rain?” Rankin’s angry voice floated over the dying clamor of the crowd.
+
+Rain grinned like a Cheshire cat beneath his helmet as he spotted the man heading angrily in his direction.
+
+“There you are, Rankin,” Rain said, hopping off the chair. “I’ve been looking for you.”
+
+“Horseshit,” Rankin said, shoving a finger rudely in his face. “You’ve been avoiding me.”
+
+Rain ignored the finger, safely protected by his visor. “Yes, I was, because frankly, I don’t like you. But I’ve got business with you now, so here I am.”
+
+“What business?” Rankin said, glancing at Bartum. “What’s the Watch doing here? And what’s that around your neck?”
+
+“I’m a custodian, now,” Rain said, gesturing to the steel plate. “You really should pay more attention. Don’t worry, I’m not quitting the Guild or anything. Sentinel Bartum is just here as a favor to me. This is a Guild matter.”
+
+“What’s this about?” Rankin asked, narrowing his eyes.
+
+Rain smirked, then threw back his cloak to reveal the jute sack that he was carrying. Fifty-three thousand Tel was a lot, weighing something like 4 kilograms and taking up more than a liter of space. He hadn’t even been able to count it until he’d returned to the city, not having a scale, and he still needed to formalize his conversion factors for the mass and volume units. Either way, sticking a bare hand into the sack felt better than doing the same with a bag of rice. It was almost on par with lentils, but not quite. The sense of weight was there, but the shape was slightly irregular, detracting from the experience.
+
+Putting lentils out of his mind, Rain glanced at Ameliah. She nodded, signaling that she was ready. He took a second to survey the watching crowd, then adopted his best loom and pivoted his helmet melodramatically to stare directly at Rankin. “It’s about how you’ve been overcharging everyone who’s posted a quest at the guild for at least the past three years.”
+
+There was a murmur at this, which quickly exploded into a roar as Rain upended the sack on the table. Tel poured out onto the wood like grain from a ruptured silo.
+
+Before things could devolve into chaos, Ameliah stomped her foot. A ripple spread through the earth from the impact, rattling tables and sending drinks crashing to the ground. “Silence!” she roared, so loudly that Rain flinched. They’d been prepared for this reaction, of course. It was all part of the fun.
+
+Was it necessary to do things like this? Not really. Was it satisfying? Hell yes.
+
+Rain turned back to Rankin, who had turned as pale as a sheet. He looked like he wanted to run. Ameliah would stop him if he did, not that there was anywhere to go. Rain grinned. “Go ahead, try to deny it.” He reached into his bag, then tossed a ledger onto the table next to the pile of Tel.
+
+“It’s this year’s quest ledger,” Gus said, stepping forward. “The real quest ledger. The one that we were using in the Guildhall was a fake.” As he spoke, he drew said ledger from his own bag and held it up for the crowd to see. “Rankin’s been fooling us all. He had two past year’s ledgers, as well, but I don’t have the copies from the Guildhall, so I can’t check them.” He placed the fake ledger neatly next to the real one, brushing aside a few errant Tel, then took a step back.
+
+“The proof is all there,” Rain said, pointing at the pair of identical-looking books. “Whenever the Guild accepts a quest from a poster, it gets assigned an identification number and written down in the quest ledger, including the size of the reward. When you turn in a quest, that identification number gets written under your plate number in one of the log ledgers, which are a different thing.” He raised his hands. “You all know this already, and I’m sure you’re wondering what this has to do with how he stole all that money. Don’t worry, I’m getting to it. Gus?”
+
+Gus nodded. “The contents of both the quest ledger and all the log ledgers get sent to the main branch during the weekly pull. That’s how you get credit for the quests you’ve done and how headquarters knows how much they need to collect from each branch. Those dues are one Tel for every ten that gets paid out as a reward. The fee gets charged to the poster, not the one who completes the task, so most adventurers don’t care, just us clerks.”
+
+Rain nodded along. Todo: Find out how the Guild managed to get Git running across the entire planet without anything even approaching the internet. It violates the supposed magical distance limit. Majistraal tech?
+
+Gus cleared his throat, continuing. “Every week before the pull, Rankin would transfer everything that we clerks had written in the fake quest ledger to the real one, decreasing the listed reward for each quest when he did. This decreases the amount of money that the main branch expects us to send them.”
+
+Rain surveyed the crowd, unsurprised by the numerous blank looks. He’d already been through this once with Ameliah and Gus, and he’d expected this reaction based on how that conversation had gone. It was time for the practical example.
+
+“Say you take a quest that has a reward of one hundred Tel,” he said. “If things are working normally, you do the quest, it gets recorded in the log ledger, and you get your one hundred Tel. Great, you’re happy. How about the quest poster? The clerk informs them that the Guild is going to charge ten Tel for facilitating their request. The poster gives the clerk one hundred and ten Tel without complaint, and the quest gets recorded in the quest ledger. One hundred Tel goes into the Guild strongbox to pay out the reward once the quest is done, and the other ten gets deposited in the Guild’s account at the Bank at the end of the month, along with all of the other dues that the clerks have collected. The main branch is happy with this. They know how much they should have gotten from each branch based on the contents of the central quest ledger.”
+
+More blank looks.
+
+Rain sighed. “Once more, just to summarize. The poster pays one-ten, the adventurer gets one hundred, and the Guild gets the rest. Nice and simple. Everyone is happy.” He raised a finger. “Now, what happens if the quest ledger in the Guild is a fake?”
+
+He waited a beat, half expecting someone to raise their hand. No one did, somewhat disappointingly, so he pressed on. “I’ll tell you. The quest gets written down as having a reward of one hundred Tel, just like before. Rankin, though, has the real ledger. He writes down ninety. Now, all of a sudden, headquarters only expects to get nine Tel from this branch, not ten. Where does the extra Tel go?” Rain didn’t wait for an answer this time. He raised his arm, pointing directly at Rankin without looking at him as he addressed the crowd. “And there you have it. Oh, and I’m pretty sure he’s been dipping into the maintenance budget too, but I can’t prove that one. Doesn’t matter.”
+
+It was a surprisingly sophisticated plan, given how much everyone in this world sucks at math. I’m actually a little impressed.
+
+“You can’t prove anything!” Rankin shouted. He was positively livid with rage now that he’d gotten over his shock. “Just because someone was messing with the ledgers, it doesn’t mean it was me!”
+
+“Was it you?” Rain asked.
+
+Rankin glanced at Bartum, then clamped his lips shut.
+
+“Silence is an admission of guilt,” Bartum said. “Answer the question.”
+
+“I don’t answer to the Watch,” Rankin snapped.
+
+“Answer the fucking question,” someone shouted from the crowd.
+
+Rankin turned, searching for support and finding none. He hesitated, looking back at Bartum. Ameliah cleared her throat, raising an eyebrow. “Well?”
+
+“No, it wasn’t me,” Rankin spat.
+
+“Lie,” Bartum said.
+
+“I concur,” said Sentinel Berel. Rain had almost forgotten he was there.
+
+Rain cleared his throat, cutting off the growing murmurs of confusion, and, increasingly, anger. He gestured at the pile of Tel. “As this was stolen from the Guild, most of it is going back to the Guild, as per the rules. As for the rest of it, I’m giving every Guilder left in the city one hundred Tel.” Rain grinned at the reaction this caused. Pinning down an exact exchange rate was hard, but one hundred Tel worked out to something like three thousand 2019-dollars—not a bad bonus. There were thirty-three adventurers left in the city. Even after giving away a hundred Tel to each of them, that would still leave him filthy rich. Even if it hadn’t, as he’d told Ameliah, he needed goodwill more than cash. He’d figure out the rest of the details with Khurt, who he expected would end up in charge once this was over.
+
+“Fuck you!” Rankin screamed. He launched a fist at Rain, but Ameliah caught his arm, restraining him easily.
+
+Rain shook his head, reminding himself that he didn’t need to feel sympathy for every asshole in the world. Finally, he snorted, speaking to Rankin as the furious man continued struggling to reach him. “And you would have gotten away with it, too, if it weren’t for us meddling kids.”

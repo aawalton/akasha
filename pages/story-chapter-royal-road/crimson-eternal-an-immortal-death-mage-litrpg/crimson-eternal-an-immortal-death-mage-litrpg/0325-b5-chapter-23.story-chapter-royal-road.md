@@ -1,0 +1,147 @@
+---
+id: 78cbf3e8-b0d6-5650-a075-5e39b8aaa456
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 23"
+slug: 0325-b5-chapter-23
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 325
+ownLength: 1417
+unit: words
+ownProgress: 1417
+publishedAt: 2025-12-15
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2850810/b5-chapter-23"
+royalRoadId: "2850810"
+markedReadAt: "2026-06-29T19:16:52.352Z"
+---
+
+Aria
+
+Not long after ordering my explosives, they all arrive through teleportation. With a rather large number of nukes included in their number.
+
+Then I go ahead and order my Death Spirits to carry them all around the battlefield and plant them here and there and everywhere. Except the places close to the entrance.
+
+Of course, I make sure to check for any people in the nearby areas. But all the people are staying close to the entrance. Which makes it easy to set all this up.
+
+And with that, I just lie here and wait for the Death Spirits to finish setting things up.
+
+All while watching TV.
+
+Finally, when the Death Spirits finish with their last trip, dropping off the last of the explosives, I sit up, stretch a little, and pull out the remote control for activating the explosives.
+
+This is gonna be good.
+
+Right Outside of the Hunter’s Spot
+
+Velaros stomps in the direction of the Hunter’s Spot with a scowl on his face. Because he’s had to wait ages just for them to allow him inside. And yet they still won’t let him stay in for very long despite that wait.
+
+It’s infuriating to him.
+
+To top that off, the Crimson Blade, who is obviously the Horseman of Death, has been going around winning every tournament she’s entered without much struggle. Taking all of the attention away from other rookies to the Scarlet Crucible in the process.
+
+Attention fucking hog.
+
+Of course, Velaros would never say that to the Horseman herself. That’s just asking for a death sentence after all.
+
+But he’s perfectly happy with saying it in his head.
+
+“You should calm down Vel,” one of his team members following behind him says. “You’re gonna blow a gasket at some point if you keep this up.”
+
+Velaros snorts at that as they continue walking. All the way until they begin to float into the Hunter’s Spot.
+
+“As if,” he says with a frown on his face. But despite his words, he does calm down a little bit as they enter the Hunter’s Spot.
+
+After all, they’ve finally made it inside. Even if it took an entire half a year for their turn to come around, he finally made it.
+
+So now he can search the Hunter’s Spot for the jewels he needs to level up.
+
+A faint smile even begins to form on his face as he finds himself appearing in the Hunter’s Spot while staring at the millions of mana creatures all warring around the entrance.
+
+“Alright guys, it’s time to finally do what we came here to do!” Velaros shouts while raising a single arm into the air with his spear firmly held in his hand. “It’s time to hunt some fucking mana-”
+
+His words are cut off when enormous explosions begin to ring out all across the battlefield one after another. Some of which are the size of entire nukes and are wiping out more monsters than Velaros can count in a matter of moments.
+
+The explosions continue shaking the entire Hunter’s Spot to its core as shockwaves blow past Velaros and his team. But since Velaros and his team are all at least level 5000, all they feel are their hair and clothes being blown back as if pushed by the wind. Without any actual damage done to them or their powerful armor.
+
+All while they watch the millions of mana creatures in front of them being blown to smithereens.
+
+The mana creatures they came in here to kill and collect jewels from.
+
+Being blown up along with said jewels.
+
+And they’re not the only ones as the other hunters who came in here with them – several other teams of hunters in fact – all watch blankly as more explosions ring out. Destroying everything.
+
+Not a single person says a word. They all just watch the explosions ring out until the very last explosion sounds.
+
+Meanwhile the mana creatures being blown up run around screaming. Just with their screams being completely covered up by the explosions.
+
+And as Death Spirits casually wander around the area, with a large circle of them blocking off any of the hunters from going further in. Clearly showing exactly who is responsible for this little fiasco.
+
+Velaros just feels his mind going blank as he watches the explosions ring out. All the way until the final explosion activates, and the dust in the air begins to settle. With any of the radiation from the explosions quickly being absorbed by some sort of device so as to not hurt any hunters who enter the Hunter’s Spot.
+
+To Velaros’s surprise, when the dust finally settles, he finds that the jewels left behind by the mana creatures – a specialty of the Hunter’s Spots on this planet – are still on the ground. Not having been destroyed by the explosives.
+
+And it’s at that point that he remembers just how indestructible the jewels are.
+
+The things are meant to help those with purposes related to war and battle level up. Which is why the Scarlet Crucible’s Hunter’s Spots are so popular all around the universe.
+
+These jewels are made partially out of the ambient war energy filling the planet just because it’s the home of the Horseman of War. And they can be used as a replacement for progress in a war related purpose.
+
+But under Velaros’s gaze, along with the gazes of every other hunter in the place, the Death Spirits just casually begin gathering the jewels before heading in a single direction. With the Death Spirits that were previously blocking them from going anywhere now moving as well. No longer blocking their paths.
+
+No one moves for several minutes before Velaros quietly walks towards where a lot of the Death Spirits are going. Only to eventually find the Horseman of Death just lazing around on a lawn chair in shorts and a shirt as she watches TV on a television set.
+
+In the middle of a Hunter’s Spot.
+
+Where he was planning on hunting.
+
+After blowing up all the nearby mana creatures with nukes.
+
+He stares blankly at the woman. One who is more beautiful than most he’s seen in his life. Yet her beauty barely registers in his blank stare thanks to the shock he’s still dealing with.
+
+Eventually he just turns around and begins walking towards the distance where he can still barely see some mana creatures.
+
+I’m going to pretend I didn’t see anything.
+
+And not long after, his fellow hunters all make the same decision.
+
+Aria
+
+I let out a yawn while still watching TV. Even as I’m flooded with messages from the System about progress being made towards my purpose.
+
+And it doesn’t take long before I get my first level-up message of this batch.
+
+This is nice.
+
+If I knew about this place sooner then I would’ve come here a long time ago. Just for the sheer number of creatures living here.
+
+It’s like a paradise for me. One filled with things to kill and advance my purpose with.
+
+At one point a bunch of other hunters begin to stare at me for seemingly no reason, but I pay them no mind. And they all leave soon enough.
+
+So I get the feeling they don’t have any issue with what I’m doing here.
+
+After all, why would they? It’s not like I’m bothering them or anything.
+
+I made absolutely sure to not kill anyone. And I even used some special devices to absorb up all the radiation left from the nukes that do have radiation.
+
+Not to mention that half of the nukes I used didn’t have any radiation at all.
+
+They shouldn’t have anything to complain about.
+
+I give a firm nod of my head at that thought. Meanwhile the hunters all go off to kill their own mana creatures.
+
+Although I’m not done setting up explosives, so they don’t get far before more explosives ring out.
+
+But it’s fine since they’re still far away from those mana creatures too.
+
+They’re safe and I continue to get more progress with my purpose.
+
+It’s a win-win situation.
+
+Probably.
+
+Anyways, I continue to casually watch my TV for a while before switching over to reading a book. All while Asher finds his way over here again and jumps onto my lap to curl up into a ball as I read.
+
+So I switch over to petting the little guy as I read.
+
+This is a nice life.

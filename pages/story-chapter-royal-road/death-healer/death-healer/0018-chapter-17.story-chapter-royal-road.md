@@ -1,0 +1,129 @@
+---
+id: ec5c3cf8-0e1e-5bc2-934a-27215c5138e9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17"
+slug: 0018-chapter-17
+partOf: death-healer
+position: 18
+ownLength: 1459
+unit: words
+publishedAt: 2025-05-15
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2281923/chapter-17"
+royalRoadId: "2281923"
+---
+
+Adriana watched as her daughter was whisked away from her and Tiberius by Gentiliana.
+
+It was finally time for her daughter to have her test.
+
+By the side, however, Tiberius Iulius simply stood there, making Adriana nervous.
+
+What is he up to? The woman wondered.
+
+She had arranged Lily's Healing Trial so that her daughter could claim to be qualified to learn the Great Skill of the Gens Claudia. That was just the first step that Adriana had planned in order for her daughter to become a Champion and, eventually replace her brother as the Pope.
+
+However, now that her cousin Tiberius had appeared, she didn't know what to do.
+
+He can't perceive the magic from the amulet. It's sealed and weak. But…
+
+Tiberius was, without a doubt, the most ruthless and smart man that could be found in the Church. If he was here, it wasn't because he just happened to be curious. He had to be here for a reason. Her mother had often told her that Tiberius, despite his actual talent being lower than Adriana's, had achieve more than anyone because of his character. He was the most scheming person in the Gens Iulia—and also the greatest risk taker. The man had solo-dived into Dungeons that would have required half an army for everybody else to clear, coming close to death so many times he was even more respected than the Pope himself.
+
+Adriana knew there was only one man who came even close to being able to rival her cousin in terms of adventurousness. And it was none other than Lucianus, her husband.
+
+But Lucianus wasn't here to help her right now.
+
+Maybe I should call this off, Adriana reasoned.
+
+In the end, Adriana valued her daughter's life above everything. At the same time, however, if Lily didn't show herself capable of healing at least that little rabbit, even if Adriana found a way for her daughter to claim the Great Skill of the Gens Claudia in a legal way, she wouldn't be able to claim the requirements.
+
+More importantly, if Lily and Adriana were caught trying to cheat, this would become serious very fast. True, it was a custom of the Gens Claudia, but it still infringed on the requirements for a Great Skill, which meant the Church at large would get involved in settling such a dispute.
+
+Lily and I would probably get away without an execution—probably.
+
+But Adriana knew that not even her status as the previous Princess of Lumina would be able to save her from imprisonment and Gentiliana, who had been orchestrating this with her, from much worse.
+
+* * *
+
+Tiberius observed as Lily was brought by Gentiliana inside the bronze-rank fence.
+
+This is going to be interesting.
+
+When Lumius had told her what his cousin had planned, he had decided to immediately get involved. He knew that the young Lily sported a never-seen-before talent, and that's why he had decided to make sure that Adriana's plans would be foiled.
+
+Unlike Ennius, who barely seemed to know the customs of the Papacy he reigned over, Tiberius was one of the very few men in the Gens Iulia to have educated himself at length on the matters of law. He couldn't say he had done it out of goodwill, of course. He had done it to check for things that, to put it kindly, might give him more power.
+
+That's why he had dug deep into the Code of Fulvius.
+
+And that's where he had discovered one of those secrets that had left him very much worried about who'd become Pope next. He had been digging for himself but he had inadvertently found out what would make someone like young Lily be able to claim the spot of a Champion.
+
+That's why he had sabotaged what his cousin and Gentiliana Claudia had planned.
+
+A little tinkering and a bit of corruption had guaranteed that the moment Lily would try and heal the little rabbit, the creature would simply die on the spot. It was a very simple spell that Tiberius had an [Inscriber] put on a second crystal that a servant had the rabbit ingest.
+
+This would ensure that, whatever happened, the Cardinal could keep looking for ways to make himself more and more important inside the Papacy, whether he got to rule it or not. In fact, at this point, with all the power he was accumulating, Tiberius wasn't even sure he wanted to rule over it. He was fine with his idiotic cousin Ennius being in charge.
+
+Tiberius, instead, would just stay in the shadows, making sure to be the one who'd reap more and more.
+
+However, he had seen how much wealth and power the Gens Claudia had been accumulating under Adriana's lead while her husband was away. He had been trying to think about the best way to weaken the family and take Adriana out of the picture, but he'd never have imagined that he would have had such a golden opportunity be brought onto his lap by his nephew, Lumius.
+
+He had always considered the kid quite dull and uninspiring, but Tiberius had to change his mind. Lumius had the most important quality of all.
+
+Not talent, not the smarts, not the wit.
+
+No, Lumius had been ready to do whatever needed to be done in order to win.
+
+And win, Tiberius thought, seeing Lily approach the little rabbit, we're about to.
+
+* * *
+
+Gentiliana led Lily through the thin iron gate into the bronze pen. A hot, coppery smell drifted up from the straw and the few animals inside. Somewhere behind her a calf shifted, hooves knocking the rails; two goats rattled their chains. Lily’s focus slid to the white rabbit waiting on a low block. A strip of red cloth bound its fore-paw.
+
+Gentiliana placed a guiding hand between Lily’s shoulder-blades and stared down at her, wordless, expectant.
+
+Lily crouched. She ran two fingers along the rabbit’s ear, then over the cut. She glanced up at Gentiliana.
+
+“I… cannot see.”
+
+Her aunt frowned, not understanding what the girl was getting at.
+
+Adriana’s voice carried from the rail.
+
+“Lily, shape your mana. Heal the paw.”
+
+Lily looked at the wound again, shook her head.
+
+“I cannot see.”
+
+Gentiliana’s brow furrowed; across the ring Adriana bit her lip. Up in the stand Tiberius Iulius watched with a small, tight smile.
+
+Lily felt the straw pricking her knees. She knew she was supposed to send Mana into the cut—she’d practised that a hundred times.
+
+But she wondered how her mother expected her to just do this when she couldn't heal. She hadn't been able to heal Lavinia, her friend, when it mattered, why would she be able to heal the creature.
+
+Her instincts told her to activate Mana Sense.
+
+But when she opened her Mana Sense, the world stayed dull.
+
+The rabbit’s thoughts were faint and shallow, not even a dim thrum of fear and confusion. There was nothing, not an hint of what such a simple creature might be feeling—it was all blank.
+
+Lily had not been given a choice by Gentiliana or her mother. She had been told to stand in front of the white rabbit and pour mana into it—but how, exactly, was she supposed to do that?
+
+“I cannot see,” Lily repeated, turning her eyes from the rabbit to Gentiliana.
+
+“Lily, darling, you just have to heal the rabbit,” Gentiliana said, a hint of urgency in her voice.
+
+Through Mana Sense, Lily felt the tight knot of tension coiling inside her aunt. She whispered again, this time to herself.
+
+“I cannot see.”
+
+Facing the rabbit once more, she wondered.
+
+Why can’t I see? What am I even looking for?
+
+Driven by a sudden impulse, she pushed harder. Focusing every bit of attention on Mana Sense, she let her perception sharpen. A faint echo came from the rabbit—but it felt like almost nothing. Somewhere in that haze was the key to healing it, though she had no idea how her mother expected her to find it during a trial. Lily might not have cared about the test itself, but she could sense how much Adriana cared, and she didn’t want to let her mother down.
+
+Clutching one of her braids, she closed her eyes and stretched her perception farther than ever before. Still nothing from the rabbit.
+
+Then a jolt—like a hot knife through her side—forced her eyes open. She twisted toward the gold-ranked pen, where a solitary pig writhed, teetering on the brink of death. It wasn’t the physical wound that struck her; it was something deeper that permeated the creature’s very being.
+
+The sheer intensity of it froze Lily in place, staring at the pig, unsure what to do next.

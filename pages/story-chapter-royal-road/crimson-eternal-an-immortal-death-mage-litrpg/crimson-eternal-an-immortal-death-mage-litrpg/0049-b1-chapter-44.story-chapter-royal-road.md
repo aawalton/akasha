@@ -1,0 +1,113 @@
+---
+id: 9d090a11-2604-5df2-913c-313bb1ce0b04
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 44"
+slug: 0049-b1-chapter-44
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 49
+ownLength: 1521
+unit: words
+ownProgress: 1521
+publishedAt: 2024-01-22
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1490294/b1-chapter-44"
+royalRoadId: "1490294"
+markedReadAt: "2026-06-29T19:07:33.293Z"
+---
+
+Aria
+
+“To start, the emperor, as you all know, is always surrounded by a minimum of five noble barrier-type Ability Holders of at least Category 3 or above,” the First General begins while making an illusion of the man and five faceless people surrounding him on all sides. “These Ability Holders each work to insert their barrier into the clothing that the emperor is wearing at all times, constantly giving him a full barrier that covers him from head to toe, with only a single opening.” She pauses as the illusion begins glowing around his mouth and nose. “At his mouth, to allow him to breathe.”
+
+She focuses on us again as she continues, “But even that has an extra barrier layered off of the first barrier with such a small gap that a bullet won’t fit through in any way that would prove lethal. The emperor will then be able to escape using his Shadowborne ability in the instant the bullet enters his head in that non-lethal sense, and he will rush away to get healing from a healing-type Ability Holder he stations nearby.”
+
+The First General gets a slightly disgusted look on her face as she adds, “He’s the cockroach of Ability Holders.”
+
+“Now, in just ten days, the man is planning on hosting a noble ball, meant to reassure the nobles of their ‘position in the war,’ as the emperor likes to phrase it,” she continues, sounding slightly smug when she mentions the phrase. Likely because the Arterian Empire is very much on the losing side of the war right now. And this plan is most likely just to expedite that and bring a full end to the conflict, while also making sure to get rid of the cockroach of an emperor without him fleeing. “He will be at his castle’s public regions throughout the entire event, all through the night. Which will make for a perfect opportunity to assassinate him.” She focuses her gaze on the commander. “This will be your job. Take advantage of this opening and assassinate him in whatever means you see fit.”
+
+We all share a look amongst ourselves before nodding. Then the commander turns back to the First General and asks, “Do you care about extra noble casualties?”
+
+The first General directly meets his eyes and repeats, “Whatever means you see fit.”
+
+Okay then.
+
+She basically said we could kill off their entire nobility so long as the emperor dies.
+
+“Understood,” the lieutenant colonel says with a brief nod. Then he asks a couple other simple questions, and we quickly begin to head out, none of us saying so much as a word about why we’re going on this mission.
+
+Which, if I’m being honest with myself, makes sense.
+
+Each one of us packs up all of the supplies we think we will need and more for the mission, following which we leave the fortress and head for the north. Because the Southern Pass is probably still more guarded than the Northern Pass, considering that they caught us passing through that alarm.
+
+Thankfully the merchants – whose titles I found to be Two Star Merchants, an interesting ranking system to say the least but not important right now – told Harvey how to disarm the enchantment temporarily. So we don’t have to worry about tripping it this time around.
+
+Which is for the best, since we didn’t bother disarming it when we reentered the Northern Pass. An order the First General gave us along the way back after we contacted her, actually.
+
+One that I can now see the reason for.
+
+After all, now the Arterians believe that the alarm is fool proof even with the merchants with us. So they won’t expect us to be able to disarm it now.
+
+And secrecy is more important now than ever, because if the emperor knew we were in the empire, he’d probably hide like a coward.
+
+We quickly make our ways up the cliff like before, with only a single slipup happening where Snow loses his grip on the cliff and falls only to be caught by a barrier before he resumes his climb. Then we just continue along the cliff towards the barren wasteland that is the Eastern edge of the Northern Pass. Nothing but ice, not even snow.
+
+Shouldn’t take long to return to Arteria.
+
+And after that? After we kill the emperor?
+
+I have my own emperor to deal with.
+
+The Central FortressNot long after the Predator Division departed
+
+Elara Crescent stands at the edge of the fortress wall, simply looking out at the Void Temple where dozens of Void Priests are roaming around the grounds outside within their little weather-blocking dome. And as she stands there, her arms folded under her chest, one finger tapping repeatedly, she feels… a little dirty.
+
+The First General knows all too well that the emperor of the former Republic already has contact with and the ability to revive from the Void Temple, having paid a massive fortune for the right to do so. So she knows that even if the young Major Crimson kills him, the man will just come back to life again at the temple.
+
+And she feels bad for tricking the young woman, but she also believes that the Predator Division is most likely the only group they could rely on for killing the Emperor of Arteria.
+
+“Elara,” Rowan Vale, the Second General, states as he walks up to the First General. “I see you decided to go with that plan after all.”
+
+Elara nods her head without a word.
+
+“She’s going to be infuriated when he returns to life,” Rowan continues, pressing forwards despite Elara knowing full well what the man is like. “If you have any plans of using her after this, you’re going to have to give her something in addition to his death.”
+
+“I know,” Elara states before turning to narrow her eyes at the gruff general. A man in his early sixties with a Category 4 ability who respects intelligence over everything else. “And it wouldn’t have mattered if I did or not, would it have? You’d have done the exact same thing if I didn’t.”
+
+He stays silent, indirectly admitting to that by not refuting it.
+
+Elara turns to look at the Void Temple again as she says, “The Crimson Eternal will return after completing her mission, assuming they succeed, and I will keep my word and allow her to do whatever she wants with the emperor, including killing him. He has already been captured and drugged to be unable to remember anything ever since a few days after the ball, so he won’t remember what happened. Then he’ll come back to life, and I will offer the Crimson Eternal a promotion to lieutenant general directly under my command, placing her above the emperor in every way to protect her from any schemes he may try to pull.”
+
+“While also binding her to you,” Rowan states, his gruff tone holding some respect in his words despite the sharp way they’re pointed at her.
+
+This time the First General remains silent.
+
+“I’m a little surprised you got the others in on this mission,” Rowan prods, clearly curious about how Elara managed to do that.
+
+The corner of Elara’s lips quirk upwards ever so slightly as she answers, “Let’s just say, they all have their problems that need solving.” Then she purses her lips slightly. “Except their commander. But he was perfectly happy joining the mission when he heard that the others would be doing the same.”
+
+Amongst the others, First Lieutenant Vargas was even easier to convince to join the mission than the Crimson Eternal was. With Captain Rogers being the hardest one to convince. Considering how little he spoke during the entire discussion.
+
+Nothing against mute people, but they’re hard to have a discussion with.
+
+The First General shakes her head at that thought and continues looking out over the Void Temple. Then she glances over at the merchants who had arrived with the Predator Division.
+
+They had mentioned that more of them would be arriving within the week, so Elara’s looking forward to that.
+
+And apparently these newly arriving merchants are higher ranked than the ones currently here. So they will have better wares to sell to the Republic.
+
+Something all nine of the generals are eagerly looking forward to.
+
+But who wouldn’t be excited after seeing and hearing about all of the things that the Eternal Dynasty has? Not just weapons and armor, but even the day to day tools.
+
+Things like security cameras, far more advanced computers than the ones most recently developed, and so on.
+
+Although Elara also knows not to forcefully introduce everything at once, lest they damage their own economy.
+
+A slow process.
+
+Her lips quirk up again.
+
+But a nice one.
+
+Her smirk vanishes as she turns around and begins to walk back into the Central Fortress again, uncaring of the Second General who is still standing there staring out at the merchants himself.
+
+Let’s hope this plan works and the Arterian Empire crumbles due to it.

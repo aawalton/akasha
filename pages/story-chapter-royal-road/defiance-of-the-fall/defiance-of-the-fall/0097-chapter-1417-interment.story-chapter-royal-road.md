@@ -1,0 +1,189 @@
+---
+id: 3ccb83e2-eb1c-5156-ad47-fc39546dc8c7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,417 - Interment"
+slug: 0097-chapter-1417-interment
+partOf: defiance-of-the-fall
+position: 97
+ownLength: 3349
+unit: words
+publishedAt: 2026-04-03
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3227976/chapter-1417-interment"
+royalRoadId: "3227976"
+---
+
+Zac felt as though he was falling at the speed of light as darkness surrounded him. A familiar signal from the seal on his left hand prompted him to quickly bring forth Tam’s identity. The Inverse-attuned teleportation array was seemingly bringing them directly into a memory domain.
+
+The discomforting sensation lasted but a second before a world cast in turquoise and white appeared. Zac didn’t get the chance to take a proper look at where the teleporter brought them before dense streams of energy came pouring out of his pores.
+
+“What the hell!” Ogras exclaimed, and neither was Tavza spared.
+
+The streams were a mottled mix holding the hallmark of life and death from the sixteen isolated realms they’d crossed over the past months—not one was missing, including the life from Second Garden and Avicii’s death. Zac had thoroughly scanned himself after both harrowing crossings, and he’d never seen a hint of these energies hiding within his body.
+
+Since there was no pain or danger involved, the trio quickly calmed down. Neither was it a simple cleansing protocol performed on new arrivals. The expelled energies were rapidly condensing into tokens. Since the mixture of energies was different among the three, they ended up with distinct designs.
+
+Zac’s held a perfect balance of life and death perfectly fused together. It wasn’t done with the help of the Void. The purplish token had adopted a similar solution to the Twilight Ocean. With the help of a generous serving of Inverse Dao and Imperial Faith, Death and Life had taken on characteristics that allowed them to mesh together.
+
+The token’s alignment matched the extraordinarily generous ambient energy, which easily surpassed the common areas of the Mercurial Court. The mixed-meaning energy permeating the memory domain was an extremely malleable concoction holding a balanced mix of Life, Death, and Inversion.
+
+Different from the Twilight Energy that presented a constant headache for the trial-takers, the Hollow Court’s energy was extraordinarily practical. Zac quickly found he could absorb the attunement he wanted from the surroundings. If he wanted life, only life would be attracted. The imbalance it created only triggered a gentle reshuffling that resupplied the missing energy from somewhere else.
+
+The method wasn’t of interest to Zac, who pursued a true fusion through Void. His attention was consumed by the familiar rune emblazoned on the front. It spelled ‘Fuxi’ in the script of the Limitless Empire. Zac’s heart thrummed at the familiar term, and he quickly glanced at the tokens his companions had formed.
+
+Their greeting gifts looked more similar to each other than to Zac. They veered toward a darker hue that made them look black. The tokens emitted spiritual fluctuations mainly based on the eight hells, and the rune carved on their surfaces said something else.
+
+“Interment?” Zac read out loud before displaying his own. “Anything?”
+
+The question was directly addressed to Tavza. He’d never mentioned the name before since it was connected to the most precious relic in his possession. While it remained in an unstable state, Zac believed it was no less valuable than the supreme treasures hidden in the depths of the Outer Courts.
+
+“Fuxi…” Tavza mused. “I have heard that name somewhere. I remember seeing his works being cited in ancient records, but I have never encountered a first-hand account. He should have been a famous sage during the empire’s final epoch.”
+
+“Perhaps one of the main architects behind the System?” Zac ventured.
+
+“It’s possible, but yet unsubstantiated.”
+
+“I’m sure it’ll make sense soon enough,” Ogras said as he looked around. “Now this is something else.”
+
+While the memory domain was extremely sturdy, it wasn’t as large as Zac had expected for an Outer Court. It was on the smaller end when compared to most of the memories he’d visited. It was certainly smaller than the domain of the Transformation Docks and the beast tide battlefield. Zac judged it was somewhere along the line of Black Zenith, the smallish city built atop a beast skull, and the very first memory domain he visited.
+
+What it lacked in size, it made up for in other ways. For one, its shape. Different from the domes they’d encountered thus far, the Hollow Court’s domain was a perfect sphere. The teleporter had brought them straight to the middle, surrounding them with grand structures. There were no gravity arrays or a floating platform, either. Any E-grade cultivator sent here would fall straight into the bottomless abyss below.
+
+The light came from eighteen entwined energy rivers drifting through the area, split evenly between life and death. Upon a second look, Zac realized that calling them rivers wasn’t accurate. The currents were enormous spirits. Going by energy alone, they were no worse than Divine Monarchs.
+
+Thankfully, they appeared busy with their slow courtship dance, and their auras were perfectly restrained. Looking right at the spiritual centers at the front of the rivers made Zac’s head buzz, but they appeared safe otherwise. Occasionally, they’d brush against one of the floating buildings, at which point they’d leave behind enough Divine Energy or Miasma to last Zac a year of intense cultivation.
+
+The spirits only appeared within the confines of the small memory domains. When they swam beyond the borders, it looked like they were swallowed by the darkness lurking outside. It was extremely oppressive. Even the countless memory domains floating down from above were enough to pierce its shroud. Zac wasn’t sure, but he felt as though the memory domain was slowly sinking deeper into the unknown.
+
+“Is this how the Lower Planes look?” Zac whispered, nodding at the border.
+
+“I… think not,” Tavza said after some deliberation. “I believe we are looking at the Ninth Hell. Balance is only upheld within the confines of the memory. When the court fell, the First Garden must have retreated from the Left Imperial Expanse.”
+
+The explanation made sense, yet Zac wasn’t convinced. Rather than Death, the darkness beyond made Zac think of the endless desolation waiting beyond the Void Mountain and outside the Multiverse’s protective curtain of Imperial Fate. It was like the Limitless Empire had trapped a section of that emptiness and hidden it beneath the Left Imperial Expanse.
+
+“We’ll have to investigate later,” Zac said as he turned his attention to the floating palaces.
+
+The arrangement was similar to the Ensolus Ruins back home. Most of the space was occupied by a few dozen majestic buildings marked as basic training facilities, exchange centers, and administrative buildings. There was also another chapter of the Order of the Fertile Earth surrounded by concentric plateaus of floating farmland. A few dozen people in earthen robes worked the soil by hand. Zac couldn’t tell whether they were disciples of the court or templars.
+
+What they saw certainly wasn’t the full extent of the Hollow Court. For one, spirits patrolling the area continued beyond the bounds, and Zac occasionally glimpsed the corners of buildings just beyond the memory’s reach. There were also the two enormous gates that framed the empty space in the domain’s center.
+
+The gates looked just like his [Fuxi Mountain Gate]. The only difference was that the majestic figures carved into his gate had been replaced by complex patterns that looked like a precursor to the fractals of modern cultivation. Considering the name on Zac’s token, it was obviously not a coincidence.
+
+Both gates were in operation. Zac could see vast farmland from the gate floating next to the chapter of Fertile Earth. Instead of a floating city, there was a proper world on the other side. The gate of death instead led to a cemetery. Thankfully, the environments on the other sides weren’t as one-sided as the realms they’d passed through. Both emitted the healthy mix surrounding them; it was just that Life and Death had taken leading positions.
+
+People were constantly coming and going from the two gates. Judging by their different robes, the disciples were sorted into two camps. No disciples wearing black cloaks entered the gate of Life, and no disciples wearing the earthen robes entered the cemetery. That wasn’t good news as far as Zac was concerned.
+
+Their main goal in coming all this way was to find the Primo’s heirloom, and it wasn’t hard to guess where such a thing would end up. Between Tam’s connection to the Order of Fertile Earth and his human body’s Life-attuned constitution, it was to be expected that he didn’t get a token with an aura matching the cemetery.
+
+“It’s not necessarily a hard rule. I mean, why would a Life cultivator waste time and contribution points to visit the other side?” Ogras offered upon seeing Zac’s frown as he watched disciples come and go.
+
+“His token doesn’t match the other gate, either,” Tavza commented as she pointed toward the bottomless chasm below. “There could be a third gate outside our reach that corresponds to the Inverse Peak.”
+
+“You aren’t helping right now,” Ogras said with an exasperated tone.
+
+“I am simply presenting a possible explanation to the facts presented us."
+
+“Let’s see what they say,” Zac sighed, taking the lead in flying toward the administrative center.
+
+----------------------
+
+“Nothing special happened, huh?”
+
+“Not really. A lil’ speech, a lil’ prayer, and we went on with our day,” the inebriated man slurred as two shadowy tendrils massaged his shoulders. “Didn't e’en get to see the Margrave.”
+
+“But the prince was there, wasn’t he?” Ogras smiled while pouring another glass, suppressing the violent urges in his heart.
+
+‘Stay calm, buddy. This isn’t the place to extract information through torture,’ he reminded himself.
+
+Knowing that only made the pain worse. He’d saved this rare vintage of the Joyful Gardens for a special occasion, and this bastard was working his way through it like it was water. Unfortunately, Ogras didn’t have many spirits left that could get a Hegemon clobbered, and he’d never track down an isolated sealbearer this dumb again.
+
+Ogras had already given up on extracting information from the dour members of the Hollow Court’s Interment Gate. A single innocent question, and you suddenly had a gaggle of those dour bastards cross-examining you.
+
+‘Why are you asking about supreme treasures of the Ninth Hell?’
+
+‘Why is a Faceless Assassin asking about our leaders?’
+
+‘Were you the one who stole the [Nine-Twine Incense] while I developed the Graverealm? Bastard, you almost got me killed!’
+
+It never ended. The farmers of the Ascension Gate were even worse. A lifetime of tilling the soil had turned their brains into mud. Unless it was discussing nature’s bounty, they were absolutely clueless. Ogras also wasn’t like Tavza, who could extract secrets from the forest of tombstones. Piston Ventain was his best shot at gathering some tangible intelligence before it was time to rendezvous.
+
+“N’thing to it. Haughty thing, that one,” the nobleman scoffed. “Look where it got him. ‘rippled in a graverealm, can you imagine?”
+
+“He what?” Ogras asked.
+
+“Crippled. Master Searsense had to save him,” Piston guffawed.
+
+“Searsense?”
+
+“You d’no about the sage from the Imperial Capital?” Piston leaned over conspiratorially before burping into Ogras’ face. “I ‘ear he’s one of those, y’kno? From down there. Brought out during an exp’dition.”
+
+“A native of the Lower Planes? I heard they were lousy cultivators,” Ogras said with feigned interest, seriously considering throwing this bastard into the flag.
+
+Piston wasn’t a heretic, but he was a drunk and a fool. How someone like this managed to get a Skybreaker seal through Divine Bestowal proved the empire’s plans were doomed from the get-go. With the [Shadewar Flags]’s improved foundations, one little indiscretion couldn’t hurt. Right? Forget it. He had enough problems keeping things in line with their new arrangement.
+
+“Not this one. Real monster. ‘ighest affinity of Death I’ve heard of. I bet he’ll become the new leader of you Faceless one day,” Piston grinned while patting Ogras’ cheek. “Should get in his graces while you can, y’kno? If you have another bottle, I can intr’duce—"
+
+Blinding lightning swallowed the rest of Piston’s nonsense.
+
+“Ah? Where’d he go?” Piston muttered with annoyance before ambling away. “Those assassins always sneaking around.”
+
+Ogras wished the drunk’s words were true, that he’d fled at the mention of bringing out more of his precious ambrosia. He was very much stuck, and not just because the crack on his head had pushed his feet two feet into the ground. A shovel—the same one that almost knocked him unconscious—had somehow impaled his shadows.
+
+Not only that, but its owner had somehow inverted the fundamental relationship between Ogras’ body and the shadow it cast. He could feel how his flesh was cast by the shadow. And since the shadow was fixed in place, so was he. Thankfully, the immobile shadow couldn’t restrict things not outlined, such as his face and ability to speak.
+
+“If we inadvertently disrespected senior with our discussion, I profusely apologize,” Ogras said with an obsequious smile as his assailant walked into view.
+
+It was a spindly old man wearing a coarse, tattered leather tunic and hemp leggings. What was left of his long, stripy hair hung in clumps down his gaunt face. Adding his clouded gaze and hunched posture, it would have been easy to mistake the old codger for a recently turned Zombie of the Dead Zone back home.
+
+“Disgusting,” the old gravedigger scoffed. He pulled the shovel from the ground and turned away. “Come with me.”
+
+Ogras could suddenly move again, and he scurried after the old man with a forced expression. What option did he have? Run? Forget about it. His shadows had covered a mile around him, and this old thing had appeared out of nowhere. The location Ogras picked for his interview was intentionally remote. It was far from Interment Gate’s five settlements or the exit. The memory domain’s edge was over a day’s travel away.
+
+“May I ask, Senior, where we’re going?” Ogras eventually asked.
+
+“What do you think? We’re digging a grave.”
+
+“WHAT!” Ogras exclaimed with horror. “I admit that investigating the young masters is somewhat uncouth, but it doesn’t warrant this kind of punishment. How about I write an essay of contr—”
+
+The words were stuck in his mouth as sound and silence were inverted. There was no sign of energy fluctuations this time either, driving home just how powerful the gravedigger was. Ogras doubted such methods were within the means of Monarchs, which could only mean the gravedigger was a genuine elder of the Hollow Court.
+
+Or could he be…
+
+Ogras recalled Zac’s explanation of Margrave Wartorius’ abilities. The ruler of the Hollow Court was called the Scales of Earth, with abilities similarly connected to inversion. He’d inverted Life and Death, even Void and Dao, in the battle with Mox. Zac couldn’t recall the Margrave’s appearance. Could it be this slovenly old man? If not, there should still be a connection. Perhaps an aging disciple who’d failed to reach the glorious heights of his master.
+
+The earth hummed as they walked, each step bringing them farther than Ogras could teleport through the Gray World. It took them less than a minute to reach the edge of an unfamiliar graveyard. The silent tombstones reeked of malice. A few violent auras were roused by their arrival yet shied away as if they’d been burnt when the gravedigger glanced their way.
+
+Ogras had been surprised to see the drastically different appearance of the graves in the Hollow Court. The way down the chasm had been paved with monuments of fallen heroes. He’d expected to find the best of the best waiting in the Hollow Court itself, and it was the complete opposite. Rather than a cemetery, Interment Gate felt more like a prison.
+
+The demon watched in desolate silence as the old man slowly dug a nine-foot-deep grave. He didn’t use any energy or skills, resulting in the process taking half an hour. Ogras gazed at the gravedigger with imploring eyes, his mouth and soul still barred from generating sounds.
+
+Confused horror turned into immense relief and not a small amount of satisfaction when a foreign race cultivator appeared out of thin air. It was a four-armed giant covered in pearly scales. Judging by a short, desperate burst of power, he was a genuine Monarch. That wasn’t enough to save him from the gravedigger.
+
+The giant’s energy disappeared as his form rapidly shrank. Seconds later, the captured Monarch had been reduced to a struggling straw doll with only vaguely familiar features. It was like the tailor had grown tired of sewing lifelike scales after finishing the head, opting for a crude pink wrap around the rest of its body.
+
+The gravedigger threw the puppet into the grave without pomp, as if he were discarding spoiled food. Ogras eagerly began to fill it in after the old man held out his shovel. He followed suit, filling in the pit one scoop at a time. The little doll tried to climb out throughout, but it kept falling down since Ogras intentionally targeted it with the dirt.
+
+The puppet was soon trapped under a layer of soil, and it directed a hateful stare at Ogras before sand covered its eyes. Thirty minutes later, the grave was filled. The doll hadn’t completely given in despite being buried alive. The ground trembled until the old man slammed a blank headstone into the ground. It acted as a seal, interring the puppet forever.
+
+Only slivers of animosity seeped out of the soil. It had a life of its own, lunging straight for Ogras. It was intercepted before Ogras could teleport away. The anger was dragged into the headstone, becoming a thin line upon it. Ogras glanced at the neighboring stones that were covered in unreadable scripts.
+
+So this was an in-progress gravesite where the graverealms hadn’t formed yet?
+
+“Thank you for the experience,” Ogras said as he held out the shovel. He was happy someone else had taken it upon themselves to jump into the grave in his stead, yet Ogras didn’t want to find out if the old man had it in him to dig another one. “It’s about time I resumed my cultivation, unless Senior has something else that needs my assistance?”
+
+The gravedigger didn’t take back his shovel, instead bringing out a parchment covered in scribbles.
+
+“You’ve seen anything like this before?”
+
+“So Senior is a great scholar studying the Evi’Shi Civilization! We are indeed fated. I just so happened to pass through one of their remnants during my travels,” Ogras said, immediately recognizing the unusual scripts. “I happen to have a related trinket. I’d be honored to gift it to Senior for showing me the tools of the trade.”
+
+Ogras wasn't sure whether he should curse or thank Ventus for stuffing the cube into his hands when they parted. It may be the thing that would save his little life, but it may also be what attracted this scary old thing. Either way, it made the perfect bribe. Ogras once thought it would prove important during their descent, but it had been collecting dust in his Spatial Ring. Tavza had indicated her desire to study it more than once, but what did he care?
+
+The gravedigger inspected the cube for a few seconds before stashing it with a satisfied grunt. Ogras's eyes gleamed. Wasn’t this the point where the old master would reward the filial youth for their selfless contribution? If the old man really was the Margrave’s disciple, then he was bound to have all kinds of good things. The gravedigger’s next words dashed those hopes.
+
+“Keep the shovel. You will help me dig graves three times a week.”
+
+“Certainly, it would be my honor,” Ogras said.
+
+It was better than nothing, he supposed. If you had to be a gravedigging henchman, then working under an eccentric Autarch wasn’t half bad. Longanimity, they called it. Suffer now, reap the rewards later. Maybe this old thing even knew the Primo and the item they took from him.
+
+“Good, let's go. There are six more today.” The gravedigger began walking away. “Perform well and I’ll show you how to properly bury those rebellious things inside your body.”

@@ -1,0 +1,195 @@
+---
+id: 2b07c17b-d4ac-5e64-98d6-2648a730ae6a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26"
+slug: 0027-chapter-26
+partOf: death-healer
+position: 27
+ownLength: 2579
+unit: words
+publishedAt: 2025-06-01
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2322754/chapter-26"
+royalRoadId: "2322754"
+---
+
+The carriage rumbled along the neglected road while loose stones rattled against the undercarriage and Lily steadied herself on the worn leather seat. Moonlight slipped through the curtained window and sketched restless bands across Adriana’s gown, and Lily wondered why they had taken such a rough route when other paths surely existed.
+
+Adriana folded her hands in her lap and spoke in a tone so calm that Lily suspected her mother had been considering the explanation for several minutes.
+
+“There are several approaches to the Cornelian Fortress,” she said, and her gaze drifted to the passing tree line. “Drusus has left this one untended because the coffers of the Gens Cornelia are nearly bare, therefore no steward repairs the ruts.”
+
+Lily tried to picture a great fortress at the end of a road that looked fit only for mule carts. “Does that matter to us?”
+
+Adriana met her daughter’s eyes and a faint, worried warmth softened her features. “You understand that you created enemies this evening, do you not?”
+
+Lily shifted, bumping her foot against the opposite bench.
+
+“I suppose I do,” she answered, although the certainty she had felt while seeing Lavinia’s misery now seemed to slip through her thoughts like water through cracked clay.
+
+“You challenged an established order without learning its rules first,” Adriana replied, and the carriage lurched into another hole so that both women swayed. “The Champion’s Trial occurs every year, and anyone within one year of a Class Day can enter, even a girl. You have proclaimed long in advance that you will compete, and you did it while enraging parents throughout the capital who would dearly love to see a proud child of Gens Claudia humbled.”
+
+Lily tried to ignore the sudden throb of anxiety that rose in her chest.
+
+“I still do not understand.”
+
+Adriana traced a finger across the seam of her glove.
+
+“The Gens Iulia trains Lumius, therefore my old family will not sponsor you nor train you. The remainder of the Great Families lack interest in angering Aurelianus and the Gens Aemilia behind him, for he commands many legions, and few desire to anger your father while he supports Aurelianus. If I sent letters to inquire about your training to the best tutors, I'd expect polite refusals and doors that remain closed.”
+
+Lily pressed her back to the seat and exhaled. Lamp-oil smoke drifted from the bracket by the door, and she caught the scent of scorched wick.
+
+“Then?”
+
+Adriana reached across the gap and set her hand over Lily’s.
+
+“Friends can still be found. The Gens Cornelia possesses the finest martial tutors in Alba. Drusus once commanded the most fearsome legion in the north, close to the Dead Lands, and many veterans retired to his service. He lacks coin because he poured barrels of gold into the disputed lands near the border to build a mighty wall and a series of fortresses there, and he now struggles to support those men. I intend to offer him trade contracts that will replenish his treasury, and in return I'm sure he will grant you full access to his instructors and resources—on top of sponsoring you for the Champion's Trial once we manage to find a way for you to legally become one.”
+
+Lily lifted her chin.
+
+“You believe he will accept?”
+
+“He must,” Adriana said, and the conviction in her voice rang like steel. “He requires funds and he… respects me. But Lily, one word of warning, darling."
+
+The blonde girl looked at her mom with a quizzical expression.
+
+Adriana seemed to take a much more serious tone than before.
+
+"This agreement I'm making with him—it's pure convenience. If I wasn't in a strong position, it wouldn't happen. Do not trust men who court you without a reason, for there's always coals burning beneath the ashes."
+
+The carriage slowed while a guard at a way-station swung open a creaking gate. Torches burned low on the posts, and their light flared across Adriana’s pale hair.
+
+“We shall reach the fortress soon,” she continued. “You will rest, and then you will start training right away. You made promises to Aurelianus that I believe you want to maintain."
+
+Lily touched the pommel of the dagger hidden beneath her cloak—the same blade the masked performer had returned—and she pictured Lumius, her cousin, possibly humiliating her in a fight since he had been training for the past four years while she had been slacking off. And all in an arena that lay two years in the future.
+
+“I will,” she said. "I will win."
+
+Adriana smiled, proud yet sad, and she tightened her fingers around Lily’s hand as the carriage rolled onward into the dark.
+
+"I will take care of the requirements, darling. You just become stronger."
+
+* * *
+
+Adriana took a long look at the fortress towers. She could sense that the protective enchantments had grown thin.
+
+The undead had not pushed this close to Lumina’s capital in generations, yet the Gens Cornelia—famous for tirelessly renewing their wards—always prided themselves on keeping every outpost battle-ready. Finding the fortress so empty and in such disrepair told her how dire things had become for Drusus.
+
+To be fair, Adriana had not fully explained to Lily exactly why Drusus would be eager to help them. Normally, in spite of financial troubles, it would not be easy to sway him to join her cause. Supporting Lily would be seen as an open affront to the Gens Aemilia unless Lucianus forced Lily to grovel for forgiveness before Aurelianus and Livia. But Adriana knew her daughter would not apologize, even under threat of death. That was who Lily was, the reason Adriana respected her so deeply.
+
+Even though Lily had refused training until now, it had been mainly because she never truly grasped the challenges facing women in the Papacy and the everyday injustices that permeated the nation.
+
+At last, Adriana felt genuine excitement.
+
+She was giddy with anticipation because Lily was finally accepting the destiny her mother had always envisioned for her. They soon dismounted from the carriage and followed a servant into a stark, spartan mess hall. The Gens Cornelia had traditionally been the Papacy’s strongest military force, yet that changed after the ill-fated expedition roughly a decade ago that claimed most of Adriana’s father’s generation. The Gens Cornelia's armies had been annihilated, and its finest warriors lost.
+
+Now, with Lucianus in charge of the Gens Claudia and Aurelianus in charge of the Gens Aemilia, those two houses had the largest armies.
+
+Lucianus also oversaw the second-wealthiest family, although Adriana knew that was largely thanks to her own efforts. Lucianus respected that and never contested her on financial matters. He knew she understood business better than anyone. Meanwhile, Adriana had rarely intruded on his military campaigns.
+
+In fact, once again, he was set to march out again in a matter of days, and she had barely seen him over the past four years.
+
+His missions had grown longer, harsher, and more brutal, which only fed his reputation and raised his strength. Adriana sensed, however, that while Lucianus gained power, he also became weighed down by something unspoken. She feared one day he would collapse under a burden he refused to share.
+
+For now, she would rely on her own influence—along with a more personal advantage. She knew that the real reason Drusus was ready to aid her was his old, lingering love for her.
+
+Since childhood, Drusus Cornelius had pursued her more ardently than any other suitor, but she had never quite liked him. He was too devoted to his family’s legacy and too willing to abandon everything else for the sake of the Gens Cornelia’s triumph.
+
+When they stepped inside the mess hall, she saw Drusus seated at a long table with a small cup of watered wine and a plate of coarse black bread. He beckoned her and Lily to sit, making no effort at ceremony.
+
+“I see you still keep the same diet,” Adriana said, smiling in greeting.
+
+Despite the austere surroundings, Drusus let out a hearty laugh.
+
+“I need something simple to wash away all those fatty foods and greasy portions or I’ll never sleep. I can’t stomach these feasts where everyone overeats and drinks until they collapse. I’ll never understand the appeal.”
+
+Adriana’s smile deepened as she motioned to a servant.
+
+“I’ll have a cup of watered wine as well, and the same bread, please.”
+
+Drusus looked pleased by her choice.
+
+He spoke again before she could. “I’ll spare us the small talk.”
+
+“I know, Drusus,” Adriana replied, setting her gaze on him. “That’s why I didn’t start any in the first place. Although sometimes, recalling old memories isn’t just polite chatter; it can be nice. I’m happy we share some history.”
+
+Drusus inclined his head in acknowledgment.
+
+“I am as well, but the hour is late, and we have urgent matters to address regarding your daughter.” He finally turned to Lily and gave her a small nod. “You defied the Gens Aemilia today, defied many of the Papacy’s customs, declared your intent to do something illegal—becoming a Champion—and endangered your family’s alliances. Do you regret any of that?” he asked Lily.
+
+“No,” Lily said coolly. “I won’t stand by while they turn Lavinia into some idle doll.”
+
+For a long moment, Drusus regarded her in silence. His aura rose like a sudden pressure against her mind, but Lily did not waver and stared back with equal ice. Drusus then relaxed, slapped his thigh, and roared with laughter.
+
+“She’s just like you!” he told Adriana. “She truly reminds me of your younger self. I see a bit of Lucianus in her, but her attitude and appearance? That’s you, Adriana. She’s fortunate.”
+
+Adriana accepted the compliment with a nod and reached for the cup and bread the servant placed in front of her. She took small bites of the dense loaf and chewed carefully.
+
+“I see that being around the Gens Claudia hasn’t changed you, Princess,” Drusus remarked, but there was a note of disappointment in his voice.
+
+“I’ve dropped my formal titles, Drusus,” Adriana replied pointedly, letting her displeasure show.
+
+Drusus raised his hands in a gesture of truce.
+
+“I didn’t mean to offend you, Adriana.”
+
+“Then choose your words more carefully,” the blonde woman said.
+
+“I know,” she continued, “that you aren’t a supporter of the Djinns Emilia.”
+
+Drusus’s jaw hardened, and he spoke through clenched teeth.
+
+“Aurelianus keeps choosing the easiest assignments. His patrols are lazy. I never liked your husband, Adriana, but Lucianus Claudius is different—he’s serious about his duties. He has killed more undead than anyone else, while Aurelianus looks for quick gains and political advantages. He’s an opportunist, a hypocrite, a spineless man.”
+
+"Anything that can put the Gens Aemilia in their place is a pleasure—nay, a duty of mine," Drusus tossed the words out dismissively. “I don’t care about the opinions of other families. Our job, as great families, is to protect the Papacy, not to rule it like petty tyrants. Aurelianus fails at that. Civilians along the borders have been dying in greater numbers because he treats his duties as a political game. Since he found that new mistress—now wife—of his, he’s become even more reckless.”
+
+“So,” Adriana said, leaning forward, “you’re more than willing to help us humiliate the man.”
+
+Drusus turned back to Lily.
+
+“But your daughter is weak. You haven’t trained her, have you?” he said.
+
+Lily bristled. “I’m not weak. I can heal, and my healing is—”
+
+“I’m not talking about your healing,” Drusus cut in. “I mean combat. Do you have any idea how to fight?” Lily looked uncertain for a moment, and Drusus continued in a lecturing tone. “Your cousin Lumius might not be as powerful as you think, but he will be your final opponent at the champion’s trial if you truly go through with this plan. I know you wouldn’t be here unless you intended for Lily to fight, Adriana. But I hear Lumius is not going down quietly—he’s already learned the Gens Iulia's Great Skill.”
+
+Adriana’s eyebrows lifted. “He’s still recovering, isn’t he? That’s why he wasn’t at the assembly.”
+
+Drusus nodded.
+
+“Yes. His trainers told me he was injured from the process—unlike Cassius at his age. What a freak that child."
+
+Although the Gens Cornelia wasn't known for employing many spies, it did have quite a few trainers tied to its bloodline or affiliated by marriage. They heard a great deal of news through them.
+
+Adriana nodded, recalling just how brutal it was to master the Gens Iulia’s great skill. In known memory, Cassius had been the only one to ever do so without the need for healing afterward. That was how terrifying the technique was.
+
+Drusus studied her expression. “I think we should continue this conversation in private,” he said. Adriana immediately summoned a shield of light around them and raised an inquisitive brow.
+
+“You wouldn’t throw your daughter into this if you didn’t believe you had a legitimate way for her to learn and legally acquire the Gens Claudia’s Great Skill,” he said. “But even then, Adriana, your daughter will need more than that. Gens Claudia is known for healing specialties, not physical combat. And Lily looks more like a fighter than a pure caster.”
+
+Adriana glanced toward Lily.
+
+“So, Drusus, where does that leave us? I assumed the Gens Cornelia could train anyone. Are you saying you can’t shape my daughter into a proper warrior by her Class Day? Or are you worried my payments won’t be enough?”
+
+Drusus shook his head. “Neither. I know your offer will be fair, and I believe Lily has potential. The problem is that a tutor can’t exceed the pupil’s level range by too much. A gap in power also means a gap in teaching effectiveness. We can enlist other students, or sub-tutors, but those affiliated with Gens Claudia are mostly second-rate martial instructors.”
+
+“And what about the instructors you’d prefer?” Adriana asked.
+
+“They won’t accept the job,” he said bluntly. “Not even I can force them. They’d lose every other contract if they risk offending the Gens Aemilia.”
+
+“I can make it worth their while,” Adriana countered.
+
+Drusus acknowledged this. “I know you could, but it isn’t just about money. Your daughter needs a sparring partner—someone who’s stronger but not overwhelmingly so. I don’t have anyone on hand who fits that exact bill.”
+
+Right then, the air beside Drusus rippled, and a figure emerged from thin air. Lily and Adriana both started at the sudden appearance, but Drusus only sighed.
+
+“Sabinus, how many times must I tell you not to creep around like that? Especially in front of guests.”
+
+Adriana managed to contain her surprise, but Lily’s mouth fell open. The young man who had appeared spoke up.
+
+“I can train her. I’m as capable as the instructors who taught me, if not more so. Besides, you’re always saying I don’t socialize enough with the other scions of the Great Family, Father. Here’s the perfect chance.”
+
+Adriana recognized Drusus’s son at once. She knew him to be one of the most promising youths in the Papacy—he had, however, been in the shadow of Cassius since they had been born in the same generation.
+
+Now, his ability to remain undetected in her presence—despite their wide gap in levels—proved he was the real deal. Before she could speak, Lily’s voice rang out.
+
+“It’s you!” Lily exclaimed, staring wide-eyed at the bronze-haired young man. “It’s you again!”

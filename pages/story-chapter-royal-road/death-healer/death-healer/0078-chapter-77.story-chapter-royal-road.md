@@ -1,0 +1,125 @@
+---
+id: ce98b4b3-13ad-598a-81db-482294857798
+page-type-slug: story-chapter-royal-road
+title: "Chapter 77"
+slug: 0078-chapter-77
+partOf: death-healer
+position: 78
+ownLength: 1297
+unit: words
+publishedAt: 2025-10-04
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2650705/chapter-77"
+royalRoadId: "2650705"
+---
+
+Cassius told Lily that he had sent word in advance. She had been missing for a while, which had startled everyone. However, with the rebellious streak that she had in her past, it was more than a little believable that she might run away to train in the Dead Lands with another scion of the Great Families.
+
+"You might have ruined your marriage prospects," Cassius commented while they rode toward Alba after leaving Sabinus to ride on his own toward the Gens Cornelia's fortress.
+
+"What do you mean?" Lily asked, confused.
+
+She saw a rare smirk on Cassius's face.
+
+"The official version is that you spent the past year in the woods with a boy, Liliana."
+
+Lily immediately understood what Cassius was getting at.
+
+"I'm fourteen, Cassius. Sabinus and I did nothing. We weren't even–" She shut her mouth before her righteous anger could take over.
+
+"I'm just stating a fact," Cassius said, shooting a glance at her. She didn’t bother replying.
+
+Soon enough, they arrived in front of the Gens Claudia's gates and he gestured for her to ride in the front.
+
+Going up the path that led to the villa, she felt a lump forming in her throat.
+
+It had been a year since she last saw her mother and, despite Cassius reassuring her that everything seemed well with his Aunt Adriana, she was still worried. She had left with her mother as a prisoner in her own house. Now, she returned and she didn't know exactly what to expect.
+
+Would her father be angry at her? Would her mother blame her for not coming back soon enough?
+
+Was she even capable of still seeing them both as her parents now that she had all these memories from a past life?
+
+There was only one way to find out.
+
+The moment she saw her mother standing in front of the courtyard of the villa, Lily felt her eyes filling up with tears. That immediately dispelled any doubts about whether she'd still feel the same about her parents after knowing about her past life.
+
+She immediately dismounted and ran toward Adriana with all the power in her body.
+
+She slammed into her own mother, throwing them both to the ground.
+
+"I'm so sorry, Mom," Lily started crying, scared that Adriana would be angry with her. "I wish I could have come back sooner but I was training and I gained so much power! I'm so sorry!"
+
+Adriana immediately returned her hug as both laid on the ground. She caressed Lily's unruly blonde hair.
+
+"I received word from my cousin, darling," Adriana whispered in Lily's ear. Then, as befitting the station of the Matriarch of the Gens Claudia, she slowly peeled Lily off, had them stand up and dusted her daughter's garments.
+
+Lily had changed into a very simple white tunic, leaving behind the battered clothes that she had worn in the Dead Lands.
+
+"I'm proud of you," Adriana said, putting both her hands on Lily's shoulders. Then, she turned toward the villa. "Let's go inside. Your father would like to say something to you."
+
+* * *
+
+Lily entered to find her father, Lucianus, sitting at the head of the table in the living room with someone she didn't recognize. The man looked vaguely familiar, though.
+
+Adriana raised several shields to guarantee their privacy.
+
+"Liliana," Lucianus said slowly, standing up. "I..."
+
+The man seemed to stutter on his own words until Adriana walked up to him and prodded him.
+
+"I don't know where to start. I've had a long time to reflect on what I've done. I've explained myself to the best of my abilities to your mother. I am sorry if I doubted you, darling. But my apology wouldn't sound sincere enough, even if I poured all my will and wit into it. So, I have something better for you."
+
+Lucianus took a ring from his hand, a signet ring, and handed it over to Lily.
+
+She took it and frowned at it, looking quizzically at her father.
+
+The man, who was still sitting, finally rose and said, "I am the witness to the coronation of the Gens Claudia's heir."
+
+"By our laws, I declare you, Liliana Claudia," Lucianus started, making Lily's eyes go wide, "my heir in perpetuity. You shall carry the family ring and the will of the Gens Claudia. I renounce the right to nominate another heir. You are, until the day you die or choose an heir yourself, the sole heir to the family."
+
+The signet ring in Lily's hand suddenly weighed much more than its modest size in metal. It weighed heavy with responsibility.
+
+"Dad," Lily stuttered. "I–I..."
+
+"I should have done this a long time ago, Lily," Lucianus looked at her with regret written all over his face. "I was blind to it. I was a fool. Revenge clouded my judgment."
+
+Lily exhaled and slowly slid the ring on her index finger. It refitted itself and resized to fit her lithe fingers perfectly.
+
+"So," Lucianus said, moving to Lily and giving her a perfunctory, awkward hug, "what's your Class? We've received news from your Uncle that you've made great progress. For you to impress the Wild General, that is no small feat."
+
+The Wild General was one of the monikers her Uncle Caesar was known by before and after leaving the army.
+
+"Well," Lily cleared her voice and then looked at the man she didn't recognize. "It's very private."
+
+"Darling," Adriana sighed, "he's a [Librarian]. This is Hadrian."
+
+Lily's eyes almost popped out of her sockets.
+
+"And so is your mother," Hadrian said, narrowing his eyes at Adriana. "And I would prefer if I could reveal my own forbidden Class myself, Adriana. I don't like when information that could get me killed is spoken so lightly. I trust your daughter after she was trained by Caesar—but she's a kid."
+
+The second bombshell almost made Lily's ears ring.
+
+"You're a [Librarian]?" she asked her mother, stunned.
+
+"I kept myself busy after Fausta's death, darling. But now, your Class."
+
+Lily took a long, deep breath before starting to explain everything. She spared no details, including the memories from a past life, which made both Adriana and Hadrian turn toward Lucianus, who just sat and shrunk in his seat.
+
+"You have knowledge from another world," her mother said. "You... you remember everything now?"
+
+Lily nodded.
+
+"All those memories came back the day of my Class Day. It's weird. It's like I lived two different lives and one of them only caught up with me very recently."
+
+"Death Healer... secret histories... a [Pope] gone rogue..." Hadrian wetted his lips and turned toward Lucianus.
+
+"I think this is part of the knowledge Apollonius found out before dying."
+
+Lucianus looked sharply at his friend, who then started explaining.
+
+"Apollonius was the highest level [Librarian] I've ever met. He was a very secretive man, who only revealed little, even to us. He said that part of the reason was that the knowledge he was handling was so unbelievable that he needed to confirm it before derailing all our lives. I believe that what was just recounted by our daughter is exactly what the man had found out. Perhaps he knew even more."
+
+"Apollonius was the only person who could understand the Language of the Dead," Hadrian sighed, retrieving a book from his large robes. "This is, apparently, the Book of the Dead. I believe it to be a compendium related to the Seats of Darkness. There's probably a lot in here that could elucidate us on the current situation, but, sadly, as I've said, no one but Apollonius knew the Language of the Dead. It's been lost completely."
+
+Lily glanced at both of them warily, and then slowly grabbed the book.
+
+"Can I take a look?"

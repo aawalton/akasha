@@ -1,0 +1,199 @@
+---
+id: 7317bff2-c7e2-5a41-89f9-d238ec5deebe
+page-type-slug: story-chapter-royal-road
+title: "162: Extermination"
+slug: 0162-162-extermination
+partOf: delve
+position: 162
+ownLength: 3755
+unit: words
+publishedAt: 2021-09-12
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/749194/162-extermination"
+royalRoadId: "749194"
+---
+
+Irony felt taut with expectation as Ameliah nocked an arrow, the bow seeming to mirror her emotions as she stood at the lip of a tunnel overlooking the hive.
+
+The arrow wasn’t of a traditional design, closer to an oversized porcupine quill in appearance. There was no arrowhead, the shaft merely tapering to a wicked needle-like point. Likewise, it had no fletching. None was needed, not with Seeker Shot to provide guidance. Fins would only add drag. The arrow’s core was Heat Copper, bearing the same Fire damage enchantment as its predecessors. That wasn’t all, however. There were also Durability and Hardness runes on the layer of Force Steel inside the outer adamant jacket. Equipment Mastery saw to the strain from her skills, but there were still the mundane forces of impact to deal with.
+
+These ‘needle arrows,’ as Rain had dubbed them, were her new standard. They were slightly more expensive to duplicate and required periodic recharging, but it was worth it.
+
+Ameliah didn’t chant as she sent her magic out to surround the shaft. She couldn’t, not only because it was impossible to speak in this place, but also because she no longer had Chanting. She’d dropped it, along with Healing Word and Energy Well, if only temporarily. She’d needed those slots for other things.
+
+In response to her focus, the needle arrow was swiftly enshrouded by dark, oily smoke, roiling like a thundercloud. Deep within the obscuring darkness, embers could occasionally be seen, burning so deep a red that they could have been mistaken for blood.
+
+This was Prismatic Arrow, Stygian Fire.
+
+Ameliah looked over her shoulder. Rain and Tallheart were waiting at the bend, perhaps thirty meters behind her. They bore no lights, but with the three Perception accolades she was using, the flickering lightning from the hive was enough for her to make out their outlines. Unlike the original tunnel they’d followed, this one had some nice, long passages between its twists and turns.
+
+Ameliah closed her eyes, breathing deeply. Winter’s chill was sharp in her mind, assuring her that Rain would gain contribution for what she was about to do. Tallheart would get a share as well, of course. It was only thanks to him that any of this was possible. Not that the credit mattered in his case. A blue strong enough to raise his cap wasn’t likely to be found here, if there was a blue to be found at all.
+
+There is. I can feel it.
+
+Ameliah looked forward again, then down at the hive below her. She began to draw, keeping her force strong and steady. One second. Two. Three. Second by second, she drew the arrow back, feeling the growing power trembling in her fingers as the skill charged. Under the influence of Sniper Shot, she could draw no faster.
+
+This would be a full combo, hitting the damage limit before even factoring in the bleed or the possibility of a chaining pierce. Sniper Shot, Drilling Shot, Multishot, and Prismatic Arrow supplied the base damage. And the arrow, of course. Seeker Shot would keep the arrows on track. Piercing Shot would halve her target’s defenses, and Bleeder Shot would add a lingering echo of the damage. She left off Splinter Shot. It would have its turn.
+
+At ten seconds, Ameliah reached full draw. The power in the bow’s limbs was screaming at her to be released. She could feel it vibrating through every fiber of her being as she held it there. Waiting.
+
+Her gaze hunted through the darkness, shying away from the crackling light of the Hunters, looking for larger prey.
+
+There.
+
+Feeling Seeker Shot accept the target, she smiled. It was out of range of the guiding effect to last the distance, but it would be enough to correct her aim. Once the arrow was on the proper trajectory, momentum would do the rest. It was a big target, after all.
+
+She released.
+
+There was no crack of sound as the bow bucked in her hand. The arrow vanished with a whisper, Stygian Arrow at work. The impact was likewise understated, merely a tiny flash in the distance, then a chime from the system and the knowledge that her party had defeated a Sparkscale Hive Guardian, level twenty-seven.
+
+Damn. Not a blue.
+
+Before Ameliah even finished the thought, another sound reached her. It, too, was muffled, no louder than the clang of a dropped pot, but that was impressive enough. Stygian Arrow had no hope of suppressing a full combo, but in combination with the heavy air, the distance, and the wax she’d jammed into her ears, it said something that it had been as loud as it had.
+
+Below her, the hive exploded into chaos, lightning flickering as the Hunters sped into motion, searching for the one that had dared to assault their home. She stayed calm, duplicating herself a fresh needle arrow, then raising the bow once more.
+
+One. Two. Three…
+
+At six, she saw her next mark, and at ten, she released. A second Guardian died—also not a blue.
+
+Shit.
+
+They’d only seen two of the enormous Sparkscales over the past few days, but it was possible that there were more. They’d yet to see the queen, for that matter.
+
+Come on, come on. I know you’re out there.
+
+The hive was in a true frenzy now, shadowy forms surging about, passing between her and the glowing lair like flakes of black snow. Shifting her aim, Ameliah targeted a Hunter that was heading vaguely in her direction. There were dozens of Scavengers trailing after it, visible by the lightning crackling from its whiskers.
+
+I’m not ready to be found quite yet. Sorry.
+
+She didn’t use Sniper Shot this time, and her draw felt effortless by comparison. Instead, she added Splinter Shot to the mix. With her Perception boosted, she could just make out the shadowed arrows splitting before impact, twenty projectiles becoming many, many more. At most, there’d be four hundred of them, with each dealing approximately 5,000 damage. By the nature of the combination, however, each nearby monster would likely be struck by more than one projectile. Further, if there weren’t enough valid targets in range, the arrows wouldn’t split as many times, leaving each one to do more damage.
+
+The shot wasn’t enough to kill the Hunter outright, but the Scavengers weren’t so lucky. Ameliah had to dampen her awareness of the kill notifications as they crashed over her. Undeterred by the Hunter’s failure to die, she simply loosed again and then again, keeping up the barrage until it did.
+
+Kill notifications continued to trickle in as she hunted for another target, the bleed claiming more Scavengers over time. Still not seeing any more Guardians in the darkness, she frowned, then selected the next-closest Hunter.
+
+She lost herself in the rhythm of it, focusing on one group at a time, culling the swarm mercilessly. Gradually, however, the hive seemed to narrow in on her position. More and more of the Hunters were beginning to glide toward her, moving with purpose.
+
+At this point, she could have retreated, moved to a different tunnel and waited for things to calm down, but that wasn’t the plan. That would have taken too long.
+
+Without warning, a Scavenger came out of nowhere, crashing into her and latching onto her arm. There was a sudden light as it released its electric pulse, illuminating her for the entire cavern to see. As Scavengers always did, those near the scout sparked in response, light spreading out from her position in an expanding shell, not unlike one of Rain’s Novas.
+
+By that light, Ameliah finally got a good look at the cavern. It was enormous, spherical, with the lair at the exact center just as Tallheart had said. Through the crackling glare, she made out a third Guardian, entering from a truly enormous tunnel in the distance, as well as a veritable swarm of Drones of all types spread through the cavern. Hunters. Workers. Scavengers. All of them swimming straight for her.
+
+Phase two.
+
+Pulling back from the ledge, Ameliah tore the Scavenger free from her arm. She tossed it away, then jumped down the tunnel, letting herself fall horizontal. She kicked out, hard, not as Rain had instructed in his swimming lessons, but like she was climbing a ladder, using Airwalk to form the rungs. The wind rushed heavily in through her visor as she accelerated, easily outpacing the outraged Scavenger as it tried to chase her.
+
+Flipping herself over, Ameliah caught herself against the wall next to Tallheart with her legs, the impact silent despite the impressive force. Golden light rushed past her moments later, Rain playing his part now that the need for stealth was over with. Already, the tunnel was packed with Scavengers, perhaps two dozen of them rushing at her like a tide. Feeble beams of light were emanating from Rain’s chest to strike them, but he wasn’t using Radiance for the damage. Its light was just to make aiming easier for her.
+
+Loosed before her feet even struck the ground, Ameliah’s next salvo tore through the Scavengers like they were wet paper, piercing those in the first rank to strike those behind, and then those behind them. She hadn’t used Splinter Shot this time, not wanting to rob each individual arrow of its penetrating power.
+
+Ameliah fell into a rhythm again, nock, draw, loose, Sparkscales dying by the score as they jammed themselves into the tunnel, trying to get to her. Occasionally, a Hunter would smash its way through its smaller kin, only to be shredded just as easily. The occasional Scavenger made it through her barrage—they were quite small, after all—but that was of little consequence. Ameliah ignored them, leaving them to bite and zap at her ineffectually. Rain and Tallheart would have dealt with them, had they not already retreated, as was the plan. Behind her was another straight section of tunnel, about fifty meters long this time. Phase three was simply phase two, repeated.
+
+Just as she was about to launch herself in that direction, the ground beneath her quaked, and she stumbled. Through the corpse-choked passageway in front of her, an enormous dark shape rose into view.
+
+There was a blinding flash, then a deafening crash of thunder.
+
+Ameliah hissed in pain as the lightning struck her, closing her eyes against the light. She could feel her armor’s saturation surge, and the smell of burning fish meat reached her nose as the afterimage of the strike danced across the inside of her eyelids. The Guardian’s bolt had doubtless been weakened by its kin clogging the hallway, but not enough to stop it from doing over two hundred thousand damage on impact. If not for her armor, she’d be dead several times over. Even with its enchantments boosted by her skills, she’d still lost almost a thousand health.
+
+Okay, ow. That’s what I get for staying too long. Leaving now, thank you.
+
+Annoyed at herself, Ameliah fled down the tunnel before she could learn what a Hive Guardian’s cooldowns were like. She caught up to Rain and Tallheart just as they reached a two-way fork, the right passage a dead end, and the left fitted with a thick, adamant door, standing open.
+
+Instead of passing through the door, Ameliah stopped, then turned. As expected, Sparkscales were already swimming after her. She began firing again, using the same piercing combo to tear through their ranks. Thanks to the longer tunnel, things soon reached an equilibrium, Ameliah slaughtering the Sparkscales as fast as they could cram themselves inside. Unlike Hababas, the fish monsters weren’t particularly intelligent. They’d simply keep coming until they either ground her down, or their bodies clogged the tunnel. Or they would have, had Rain not been there.
+
+Purify rushed past her, the brilliant white Nova blinding in comparison to the weaker light of Radiance. There was a sound like falling coins.
+
+Scales, clattering to the stone floor.
+
+Already saturated by the magic with which she’d been jacketing her shots, the dead fish’s armor couldn’t prevent Rain’s aura from dissolving the flesh beneath.
+
+With the air cleared, the Sparkscales mindlessly redoubled their assault, not realizing that they were only expediting their demise.
+
+This continued for some time, and after three more waves of Purify, Ameliah was starting to think that this would be it. The tide was beginning to slow, and while her mana and stamina had dropped, she still had plenty remaining. It looked like phase four wouldn’t be needed after all.
+
+Suddenly, behind the bloody mess of punctured fish, Ameliah caught a flash of something new. Brilliant, golden scales, shining with a luster that had nothing to do with Radiance. As the new monster battled its way closer through the carnage, she became able to make out more details.
+
+The newcomer was shaped like a Worker, but it was smaller and had short whiskers around its mouth reminiscent of a Hunter Drone. Its scales were Hunter-like as well, so deep a gold that she suspected they were pure atantum. Lighter streaks of metal traced the outlines of its fins, no doubt valis. Those scales weren’t just for show, either. As it reached the front of the pack, Ameliah realized that her arrows were bouncing off, but she didn’t spend a lot of time thinking about that. She’d been distracted by the tiny, jeweled crown perched atop the monster’s head, and by its name, supplied to her by the system.
+
+Regal Sparkscale Worker Queen - Level 30
+
+YES!
+
+Ameliah focused, adding Seeker Shot to her next volley. The Worker Queen took the twenty subsequent arrows directly in its face, but even with Piercing Shot as a part of the combo, its health barely moved. It was shoved backward, though, and clearly, it didn’t appreciate that.
+
+There was a sound like a gong, sonorous and deep, reverberating through the tunnel. Golden light flashed, and a translucent shield of energy grew around the Sparkscale, supported from within by veins of crackling electricity. The bubble moved with the Worker Queen as it began advancing once more, filling the tunnel from floor to ceiling and sheltering the growing horde of Scavengers behind it. Yet more electricity began arcing from the tips of the Queen’s whiskers, and its eyes began glowing in testament to how much mana it was burning through.
+
+Okay, that’s bad. Time to get serious.
+
+Ameliah looked to her side through the open doorway, seeing that Tallheart had read her mind and was already offering her the exact object she’d been seeking. The arrow in his hand seemed to be trying to vibrate free, crackling with Arcane energy from the supercharged GranCryst-level enchantment on its core. He held a pair of long metal cases in his other hand, which she knew to contain two more just like it.
+
+Tallheart called arrows like these ‘Breakers’. As with the Limit of Iron—the failed lair-shattering spike he’d made back in Essed—the metal in the Breaker had been pushed far beyond its capacity. Except this time, it wasn’t Iron. Ameliah could practically taste the power rolling off the arrow, the enchantment only remaining stable because Tallheart was actively holding the runes together with his skills. The moment he let go, they would begin to degrade, and quickly.
+
+This single, disposable arrow represented more wealth than a family of commoners could earn in a lifetime. Perhaps more than an entire village of commoners could earn.
+
+Moving quickly but with great care, Ameliah took the arrow, setting it to her bow. She knew better than to duplicate it with Endless Quiver. Doing so would have been distinctly unwise, and not just because of the prohibitive mana cost. Drawing swiftly, she used Prismatic Arrow to cloak the Breaker with darkness. This time, the cloud appeared to conceal not only embers, but also sparks of lightning. Shock Arrow was needed if she wanted the spell keywords to work in her favor.
+
+Naturally, it would have been better to use something other than Grand Arcane Valis for the core, given what they were facing, but it was what they had.
+
+It would do.
+
+The Queen’s eyes brightened further, and Ameliah released.
+
+She didn’t use Multishot. Unlike Endless Quiver, that wouldn’t have caused an instant explosion, but it was still dangerous. And pointless. The damage limit here was only 999,999. In combination with her skills, the Breaker would be enough to hit that mark with damage to spare. Boosting the shot would have done more damage overall, true, but not to a single target. It wasn’t worth the risk of bringing the tunnel down on their heads.
+
+Just before impact, inky darkness washed over Ameliah, plunging the tunnel into absolute night. Rain’s doing. Even blinded by the Dark-aspect magic, Ameliah could still see the white-hot bolt released by the Breaker as it unleashed its fury. The enchantment was simply too powerful to be suppressed, even with Stygian Arrow and Shroud working together. Likewise, the cataclysmic clap of thunder was deafening, rattling her bones and pressing her back against the tunnel wall. Despite the shock of the impact, Ameliah was smiling as her teeth rattled in her skull.
+
+That was STRONG! Tallheart, you magnificent lunatic!
+
+Light returned as Rain switched from Shroud to Radiance, revealing the devastation. It didn’t surprise Ameliah to see that the Sparkscale was still alive. Given its level and the durability it had shown so far, that was basically a given. It was hardly unscathed, however. Its magical shield was gone, along with a good two-thirds of its health bar, and it had been slammed into the far end of the tunnel so hard that it had become lodged in the shattered deepstone.
+
+Ameliah raised her bow, but before she could get off another shot, the Worker Queen pried itself free and zipped off around the corner.
+
+Shit. It ran away.
+
+Her ears ringing, Ameliah glanced at Rain, who was cowering behind Tallheart on the other side of the doorway. He knocked on the side of his helmet, then gave her a thumbs up before continuing in hand code. “Wax helped. The Queen’s visible to Detection at high power, so it can’t hide. Take your time. I don’t want you to get hurt again.”
+
+Ameliah nodded, touched by his concern, and still annoyed with herself for getting zapped in the first place. She looked back down the tunnel, then began advancing, leaving the unneeded door behind.
+
+The Sparkscales kept coming, apparently not having gotten the message after the sharp rebuke she’d delivered to their ruler, though their numbers were far from what they’d been. Keeping an eye out for the Queen, Ameliah walked carefully, picking them off in ones and twos as they swam around the corner. Rain used Purify again, clearing the way for her, but she switched to Airwalk anyway as the scales piled on the floor grew deeper. Her footing steady, she walked above the metallic mess, Rain and Tallheart clattering their way after her with significantly more difficulty.
+
+Reaching the bend, Ameliah peeked around the corner, then pulled her head back quickly.
+
+Oh. Hello, Hive Guardian. Almost forgot about you. Payback time.
+
+Ameliah looked back at Tallheart, then gestured in hand code. “Another.”
+
+Nodding, Tallheart opened one of the remaining cases, removing a second Breaker. He let the case fall to the ground, landing atop the scales with a clatter, then held out the arrow.
+
+Ameliah took it, again with great care. The moment she had it nocked and jacketed in darkness, she stepped fully around the corner, found her target, then loosed. Rain used Shroud again, so she had to picture the crackling projectile winding its way past the Hunter that had entered the tunnel, seeking its true target out in the cavern.
+
+Light and sound exploded once more. The Guardian died instantly, and Ameliah nodded, satisfied.
+
+They’re big, but compared to the Queen, they’re a whole lot of nothing.
+
+Rain’s darkness retreated, and Ameliah picked off the Hunter like it was an afterthought before motioning to Tallheart for the third and final Breaker. While she waited for him to extract it, she picked off a Scavenger or two that swam into the tunnel, all the while keeping watch for the Queen, though Rain would have warned her if it was coming.
+
+Once Tallheart passed her the arrow, she motioned to them to wait there, then set it to her bow. She started walking, drawing slowly, the string once more fighting her. With the open cavern ahead, she didn’t need to worry about collateral damage.
+
+One… Two…
+
+A few more Scavengers entered the tunnel as she neared the exit, but she ignored them, letting them try to bite her as they may. Their electric shocks were of no consequence. She began to run.
+
+Three… Four…
+
+A Hunter appeared next, which was more of an issue, but she likewise ignored it. In response to her disregard, it blasted her with its lightning, but she merely turned, taking the hit on her back to shield the volatile Breaker from the discharge. A shock from a Scavenger was one thing, but a Hunter’s bolt was asking too much. The direct hit spiked her saturation, but it was nothing compared to the bolt from the Guardian, and a good bit of that energy had already drained away. With her boosted Arcane resistance, the weaker strike hadn’t even tingled.
+
+Five… Six…
+
+Facing forward again, Ameliah increased her speed, the Hunter swimming sideways to make way. Its mouth wasn’t made for biting, so it wouldn’t try to confront her physically unless forced. She wasn’t worried that it would try to go after Tallheart and Rain. Even if by some miracle it decided that they posed a greater threat, the two of them would be more than able to hold it off long enough for her to finish this.
+
+Seven… Eight…
+
+Reaching the edge, she slowed, then turned her bow horizontally as she crouched, leery of a sneak attack from the Queen. Scooting forward with cautious steps, she peeked over the edge. There were still a few remaining Hunters around, and by their combined light, she could make out the veritable sea of Worker Drones that had gathered near the corpse of the most-recently fallen Hive Guardian. They’d retrieved rocks from somewhere—boulders, really—and looked prepared to hurl them in her direction.
+
+Nine…
+
+Seeing a flash of gold at the center of the cloud, Ameliah stood, smiling as she felt Seeker Shot accept the target.
+
+Ten.

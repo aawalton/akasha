@@ -1,0 +1,133 @@
+---
+id: c2a070a3-ecba-5470-bc2f-ea0d75b1fd48
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 13"
+slug: 0171-b3-chapter-13
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 171
+ownLength: 1804
+unit: words
+ownProgress: 1804
+publishedAt: 2024-06-15
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1678247/b3-chapter-13"
+royalRoadId: "1678247"
+markedReadAt: "2026-06-29T19:11:31.992Z"
+---
+
+A Mansion Within the Capital of New Albaria
+
+Frank Rogers has never been the most excitable sort when it comes to life. He helps those who need it, helps his friends, and relaxes whenever he can while idly using his ability to make it grow stronger. It’s just how he’s always been.
+
+Ever since Frank’s family passed away. Since he failed to save them, his ability proving to be too weak at the time. Even as a supposed Category 5 Ability Holder. One hailed as a savior by many due to his ability to heal.
+
+He wasn’t able to save those that mattered the most to him, so none of that ever mattered to him.
+
+Over time he stopped speaking entirely, hoping it would make those catering to him stop bothering him.
+
+But after he met Aria, that changed.
+
+She never asked him to use his ability to help her. She never needed his healing, never asked for his enhancement, or for any other assistance.
+
+All she ever did was spend time idly with him doing nothing but relaxing without saying a single word.
+
+Just something about her attracted him. Not in a romantic or sexual way though. Just a comforting way.
+
+Almost like she was the daughter he never had. But in a comfortable way that made him feel at peace simply spending time near her.
+
+Eventually he grew to like the others as they took her cue and started acting more relaxed as well. So he started using his ability more often even when the commander didn’t outright order him to do so.
+
+And when Aria arrived at his manor to see him after having left them all those years ago? He was ecstatic, even if he didn’t show it.
+
+One of the things he regretted the most was that he barely ever spoke to her. Even after he started to feel comfortable around her, he only started speaking a while after she had left them.
+
+So over the course of the months she stays at the manor, he can’t help but faintly smile every time he sees her and the others all gathered around his bed. To talk with them even if it’s difficult for him to do so.
+
+And to spend his last moments doing everything he wanted to do before.
+
+But most importantly, to snap Aria out of the walled up reality she’s built around herself.
+
+Every single day when she arrives to spend time with him, he asks for stories about her travels. Asks for details about other worlds. Asks about her life, how she’s been feeling.
+
+He tries to get her thinking. Tries to make her realize.
+
+That she doesn’t have to be alone.
+
+That Death herself should realize death is natural, even if it won’t affect her in the end.
+
+It’s the one thing he wants to do before he passes on, and he’s sure that old man from her favorite café is thinking the same thing when she visits him.
+
+Time passes by, and with every week, every month, his pain increases. Eventually he finds he’s no longer able to talk out loud without using a device to read his thoughts and write them all down. After that he loses all of his remaining movement.
+
+And one by one, his senses begin to fade away.
+
+Soon enough leaving him with nothing but a blurry vision and no ability to hear.
+
+Then that goes away too.
+
+All while his comrades spend every day with him.
+
+And once his mind goes too, everything goes dark.
+
+Aria
+
+I stare in silence from the front of the seats at the black and gray casket sitting a couple meters away from the statue located at the end of the Void Temple. Meanwhile a cool silence fills the temple all around us, with friends of Frank filling the Temple to the brim.
+
+The others of the Predator Division are all sitting near me, with Hannah bawling her eyes out while Vargas just looks on with his usual neutral expression on his face. Leonardo looks stoic albeit ready to cry at any moment, and Adrian has a few tears silently going down his face.
+
+The same as me.
+
+We’re all wearing formal, black attire, with me and Hannah wearing long black dresses and the guys all wearing black suits. And everyone else in the Temple other than the Void Priest is the same.
+
+Our collective silence continues on for several minutes before the Void Priest steps up to the casket with a tome in his hand – the man seemingly being used to carrying out high profile funerals like this for people who have died of natural causes. Then he turns towards us and speaks, “All those who wish to say a word to our dearly departed, step forward now.”
+
+I feel my legs stiffly frozen to the floor, unable to pick myself up. Even when the other people in the room slowly trickle by towards the casket with each one saying some form of last words to him. Then each one leaves the temple with many of them crying in the process.
+
+Eventually I find myself alone in the Void Temple other than a few other people, including the others of the Predator Division and the Void Priest.
+
+Hannah finally steps forward, stopping right in front of the casket. Then she takes a deep breath and, with a wry, sad smile on her face, says with tears still silently flowing down her face, “Frank, you were the best support we could’ve asked for. Both in battle and out of it. You would always listen when I needed to vent something out and you wouldn’t ever judge me. No matter what.” She sniffs once before wiping some of her tears. “Thank you from the bottom of my heart for being in my life.”
+
+Right after she finishes, she bows once and quickly makes a hasty retreat out of the Void Temple while beginning to cry and sob rather hard.
+
+But I just keep staring at the casket as Adrian steps up next.
+
+“Frank, please be at peace,” he says while bowing his head. “You deserve it for putting up with my crap all these years.” Then he stands there for several seconds, just gritting his teeth as if trying to find something to say. Only to blurt out, “Thank you for your service!” and run away as the tears flood down his face just like Hannah.
+
+After Adrian is Jason, who simply walks up to it and bows without a word. But right when it looks like he’s about to turn and walk away, he pauses and says, “Thank you.”
+
+Then he turns and walks away.
+
+Leonardo goes last between the four as I remain at my spot seated with my eyes glued to the casket.
+
+“Frank, I always had a hard time figuring out what you were thinking most of the time, but I think I understood you in the end,” Leonardo says with a wry smile on his face. “You just wanted people to see you for who you were, not what you could do. And you wanted to grow skilled enough in your ability to not have to worry about losing anyone again, like how you lost your family.” The division commander bows once before rising to his full height again. “You cared about us like we were your family. And I can’t thank you enough for that. Please be at peace.”
+
+And he walks away too, leaving me and the Void Priest in silence.
+
+Eventually I manage to climb to my feet, my legs feeling ever so slightly wobbly in the process. Then I walk up to the casket myself and stop right in front of it.
+
+The silence stretches on for a little while before I take a shaky breath, and begin, “You… you were the first person I really started to open up to since I lost everything. The first new person to enter my life and stay there. You never pestered me about how young I was, or how I should just go ahead and retire. You never tried to make me do anything for you or tried to pry into my life.”
+
+Flashes of my past run through my mind. Of times where I was sitting in a cafeteria simply drinking wine while reading a book. Or when I was watching TV still drinking in the barracks common room. All while Frank was sitting there eating or reading a book of his own, with neither of us saying a word.
+
+Memories of times all of us from the Predator Division spent together. Like when we were climbing the cliffs to sneak attack one of the fortresses and Adrian commented about my skill in climbing. Or the vacation our entire Division had after some of our missions where me and Frank visited the library to study the information given to us about the other worlds.
+
+“You were a great friend, and that will never change,” I continue with more tears beginning to flow down my face. “I just… I wish I could’ve gotten to know you better…”
+
+I stare down at the ground, gripping onto the long skirt of my black dress with both hands as my tears fall.
+
+“To know why you would rarely speak. Why you were always so patient with us,” I state a lot more slowly before sniffing once. “I shouldn’t have waited till the end. Shouldn’t have lost track of time as I did.”
+
+Both of my hands clench into fists as my eyes harden a little and I raise my head to stare at the casket, finishing, “But I won’t make the same mistake again. I won’t let things pass me by. Won’t let those I care for pass on without me knowing more about them. So please… forgive me for not being a good friend.” A sad smile makes its way onto my face. “And please be at peace, Frank Rogers.”
+
+Then I silently nod at the Void Priest, following which he steps forward and opens a rift to the void.
+
+And just like that, he gently pushes the casket into the void, giving it the highest level of burial possible within the universe.
+
+I watch for a few seconds before turning around and starting to make my way down the aisle of the temple towards the entrance. Meanwhile Frank’s last words echo through my head.
+
+‘Don’t live your life regretful of living. Live it as you please. Live it with those around you. And live it with a smile.’
+
+The corner of my lips quirk ever so slightly upwards at those words before I wipe my eyes with the sleeve of my dress.
+
+And step out of the Void Temple.
+
+With a new outlook to strive towards.

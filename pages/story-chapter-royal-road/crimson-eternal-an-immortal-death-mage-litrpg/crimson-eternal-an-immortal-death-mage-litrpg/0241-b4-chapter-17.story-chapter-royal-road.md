@@ -1,0 +1,151 @@
+---
+id: 553a871b-62c2-5de0-89a5-5079deea8b09
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 17"
+slug: 0241-b4-chapter-17
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 241
+ownLength: 1481
+unit: words
+ownProgress: 1481
+publishedAt: 2024-12-26
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1976147/b4-chapter-17"
+royalRoadId: "1976147"
+markedReadAt: "2026-06-29T19:13:56.307Z"
+---
+
+Aria
+
+It only takes a couple days for word to get around before I find the Endless Glacier I’m hunting in filled with tourists and people who came to just watch my Death Spirits go to work killing the mana creatures. Which makes for a rather awkward hunt, if I’m being honest. Since I’m just going around gathering rare and expensive materials in this place while hundreds of people are just roaming around the Glacier looking for me for whatever reason.
+
+According to the king here though, most of them simply want my autograph.
+
+Which is a no.
+
+Although not everyone does. He also said that there were a few people here who wanted to test out just how immortal I was.
+
+So annoying.
+
+Of course, I completely avoid them throughout my time here. Just staying in the high tiers of which it’s damn near impossible to find someone.
+
+And I have to say, I rather like this place.
+
+Because the mana creatures here don’t have stomachs.
+
+I feel the muscles of my face trying to turn into a smile without much success at that thought.
+
+As I sit here frozen inside of a solid cube of ice while stuck inside of a frost dragon’s den.
+
+It’s so much easier to get out of the ice than out of a stomach. I just have to wait for it to melt enough from my ambient death energy – the death energy I let off when I’m hurt – to be able to move my hands even the slightest bit. Then I can just activate a nuke and everything’s fine.
+
+The king even said it was fine to use nukes in the later Tiers. Like Tiers 8 through 10.
+
+Because the ice making up the glacier is so strong a nuke won’t do much more damage than blowing up maybe a cavern and tunnel or two.
+
+And any radioactivity that would be there from a normal nuke – not the ones I use, because they’re premium nukes that don’t have that problem – is dealt with naturally by the dragons. Who, well, kind of eat the radioactivity.
+
+Without even meaning to.
+
+So these dragons are convenient cleaners.
+
+Anyways, the ice around my hand finally melts enough that I can finally use my ring to summon and immediately activate a nuke. Which blows up the entire cavern along with the neighboring caverns and tunnels. And myself.
+
+But I reform almost instantly while stretching, my clothes not even having a scratch thanks to the enchantment on them passing any of the damage they take to me.
+
+Then I put my hands in my pockets and begin to walk away from the rather damaged dragon den. Only to pause when I realize some of the dragon’s hoard is still here.
+
+So I do the sensible thing and store whatever I find in my storage ring before making my way out.
+
+Would rather not end up frozen again by a dragon made entirely of ice.
+
+From what I understand, the dragon was rather upset by the fact that it couldn’t kill me at first, but then it decided to just display me as a trophy in its hoard.
+
+Meaning this is its own fault.
+
+I firmly nod my head at that thought as I walk out of what used to be a den with my hands in my jacket pockets while still wearing shorts and a T-shirt.
+
+Might be a good time to leave the tenth Tier of this place though.
+
+It takes me about a month to return to the capital of this frost-covered planet, and when I do, I curiously find billboards on the castle warning hunters of a rampaging dragon in the seventh through tenth Tiers of the closest Endless Glacier. All telling them to stay out of those Tiers unless they want to end up turned into a popsicle and torn to shreds by the dragon.
+
+But that has nothing to do with me as I walk with my hands behind my back, just ignoring the strange looks being sent my way for my outfit that probably doesn’t match this climate.
+
+Honestly, the matter of getting past the people in the Endless Glacier searching for me wasn’t actually that difficult.
+
+All I had to do was send a wave of Death Spirits down a hall whenever they were nearby, then I just casually walked past as they chased after the Death Spirits like some form of paparazzi.
+
+I hear a meow, following which a certain furball jumps onto my shoulder from who knows where. But all I do in response is give him some scritches, making the kitty purr.
+
+Although I can’t help but notice something odd as I walk through the city.
+
+There are a lot more knights and soldiers around than there were before.
+
+Is some sort of conflict emerging soon?
+
+I frown at that thought.
+
+Well, whatever. Doesn’t involve me unless I’m being paid.
+
+Not that I’d be surprised if I returned to the castle and found them trying to hire my services if there was some sort of conflict. In fact, I’d place money on it.
+
+And just as expected, when I arrive at the castle, the king immediately comes to visit me as I sit down in my room. Following which he tries to request my services in what is apparently a civil war.
+
+Something about a duke trying to overturn and take over the kingdom.
+
+Kind of reminds me of a certain duke whose rebellion I ruined back on Atlantis.
+
+Anyways, I turn my gaze towards the king from my place seated on the edge of my bed as the guy just kinda kneels in front of me. Making me feel more than a little awkward.
+
+Although whether it’s because I’m a princess or because I’m Death, I’m not entirely sure.
+
+Regardless, I go ahead and ask, “You do know the terms of working with me, right?”
+
+The man nods his head while looking up at me.
+
+“Please repeat them,” I tell him, wanting to make sure. Since some people have mistaken my terms before, and it gets annoying when they do.
+
+Without hesitation, he begins to repeat the terms of working with me and my company, “Should Lady Death be captured for longer than one week within the conflict without escaping, then she will be taken out of the conflict and her payment will be cut in half so as to not overbalance any conflict to the advantage of one side or the other.” Then he nods once more and adds, “I agree to these terms.”
+
+“Then we have a deal,” I tell him with a faint smile.
+
+He reaches out and we both shake hands.
+
+Good. It’s always just really annoying when they don’t understand the terms.
+
+Those terms were set in place by Shirou along with all of the enemies I’ve fought over the years when entering other conflicts as a mercenary. Because it’s just too unfair for the enemies otherwise. Fighting someone who plain can’t die.
+
+So for me it’s more like a game.
+
+Or it’s become like one over the years.
+
+I still know what it means to take a life, but at the same time, I know that quite a few of those lives can be revived. And many are revived.
+
+So it’s kind of dumbed it down for me over the years.
+
+But I don’t take any lives that aren’t enemies in whatever conflict I’m in, nor do I take the lives of anyone who doesn’t attack me. At least, for those who aren’t in the conflict.
+
+Not that anyone has ever actually captured me for that week yet though.
+
+I’ve always escaped within a couple days.
+
+The only things capable of keeping me for weeks, or even months, are the Nine Grands and Tier 9 and 10 mana creatures.
+
+Their egos always get in the way though, so the enemies never really believe I’ll be able to get away.
+
+Which is their problem. So long as I get paid.
+
+“Please give me a rundown on the current situation,” I tell the king, and he quickly gets into the details of the rebellion.
+
+And it is quite some rebellion at that.
+
+Mostly revolving around how little of the planet is actually occupied. With most of it being barren and uninhabitable land.
+
+So the duke pretty much rules over the other half of the planet with the king not really getting involved much there.
+
+A rather large problem in and of itself.
+
+Never give a subordinate too much autonomy if you don’t want them possibly betraying you. I’ve just seen it happen too many times in my life, whether it’s in stories or in real life.
+
+I continue listening to him for over half an hour before coming to a decision on my first move.
+
+Time to go to war again.

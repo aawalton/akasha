@@ -1,0 +1,141 @@
+---
+id: 809c2e1e-90c5-5937-a4dc-36f2ee349c17
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 26"
+slug: 0186-b3-chapter-26
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 186
+ownLength: 1424
+unit: words
+ownProgress: 1424
+publishedAt: 2024-07-27
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1733732/b3-chapter-26"
+royalRoadId: "1733732"
+markedReadAt: "2026-06-29T19:12:02.584Z"
+---
+
+Aria
+
+After the two spend a while planning, Shirogane and I begin heading towards Silverfall on the ship. Not even saying bye to the emperor before we leave.
+
+And the trip itself doesn’t take too long, since Silverfall is surprisingly close to Eternus. Just a few hours by lightspeed travel.
+
+When we arrive, several spaceships made entirely of magical silver – which I learned about from Shirogane on the way – stop us and begin escorting our ship to a large dock in space. One connected to the planet by a massive elevator going all the way down to the planet.
+
+I was rather surprised to learn about magical silver. Since it makes me feel like Silverfall is just a superior world to the other Alpha Tier worlds somehow.
+
+It’s a magical metal found at the top of the Spires and only at the top of the Spires. It’s created by the Tier 10 mana creatures that rule the Spires. Mana creatures that are completely domesticated by the Emperor of the Grand Silvanian Empire. Or at least, in half the Spires they are.
+
+Half of the Spires still have wild ones that’ll mercilessly tear apart anyone who gets near the peak of the Spire without question.
+
+And anything, since the peaks of the Spires are out in the open air. You can see them just from flying past.
+
+Any spaceship that flies within a hundred kilometers of the tower is torn apart in mere moments. Even if it’s made by magical silver, which is a metal that’s so tough even someone at level five thousand can’t crack it with all of their strength.
+
+The metal can survive a nuclear explosion without the explosion even so much as leaving behind a single scratch on it.
+
+Which also makes it expensive as hell.
+
+So expensive that only the royal family owns any.
+
+And they’re very much against selling it to any other nation.
+
+It’s actually the only reason the Grand Silvanian Empire is able to stand up against the Horsemen and originally were trying to hunt me down. Until Rory contacted their leader a while back and told him about me, making them friendlies instead.
+
+While they can’t kill War, Famine, or Pestilence, neither can those three kill the Grand Silvanian Empire. Simply because of the strength of the magical silver.
+
+So it’s a bit of a stalemate.
+
+But when it came to a new Horseman appearing, the emperor was all about trying to hunt me down before I became a problem. Since the other Horsemen couldn’t retaliate if they wanted to. Until he realized I wasn’t going to be a problem in the first place.
+
+And since the Grand Silvanian Empire is largely known for being the nation with the most numerous and most powerful healers in the universe, they wouldn’t even have to worry about Pestilence spreading a plague through their worlds or something like that.
+
+I glance at Shirogane as we finish going through the process of docking and proving who we are, finding him to be silent as a mouse. Just like he’s been ever since Shirou declared his trial.
+
+We continue walking past the gate in silence until we arrive at the elevator. Then we just stand around in the massive thing spanning a couple hundred meters in diameter with hundreds of people on it until it begins to go down towards the planet.
+
+I look out the window with my hands in my jacket pockets, seeing the planet as we get closer and closer to the ground. And despite the high tech stuff up here, the planet looks a lot more… medieval. With castles and older time cities.
+
+Except that they also have cars going through the streets of the older time medieval cities.
+
+So the world makes for a very odd sight.
+
+Very odd indeed.
+
+I turn my gaze towards the people on the elevator with us. They’re all wearing rather medieval garbs, except with more modern and high end materials. Really mixing together the whole medieval and modern theme.
+
+Even the guards are wearing full plate armor.
+
+Makes my head spin just looking at the direct contradictions of everything.
+
+I look out the window again as we enter the atmosphere.
+
+Despite this world being the only one with magical silver, I can’t see any from this elevator. Probably because precious little is made at a time on the Spires.
+
+Generally only enough for about a few ingots at the top of every Spire every couple centuries.
+
+Of course, the emperor is supposedly in the five digits in level. And over a million years old.
+
+So every couple centuries still means a lot of ingots have been built up. Especially when they have a couple dozen Spires making them.
+
+I can understand why they aren’t selling them to other nations.
+
+That thought has me glancing at Shirogane again to find him frowning out the window, having apparently turned his emotions back on again.
+
+Shirogane is going to have a terrible time in this world. Not only because the Eternal Dynasty isn’t liked amongst the people or the nobles here, but also because he has to get that magical silver if he wants to pass his trial.
+
+Honestly, it’s like the emperor gave him a damned near impossible task for his trial.
+
+To the point that – according to Rory – if I wasn’t with Shirogane, he’d never even have been given the chance to get on the planet at all. Ever. At all.
+
+No chance whatsoever.
+
+The entire planet of Silverfall is banned to all members of the Eternal Dynasty, whether citizens or merchants.
+
+Which means the only reason Shirogane even has a chance at finishing this trial is because of me.
+
+I can’t help but wonder if Shirou set that up on purpose. Like if he did it so that was all the help I could actually give him.
+
+Because, despite what he said, I know how he always seems to know almost everything that happens before it happens. So he must’ve known that the emperor of the Grand Silvanian Empire wouldn’t let me assist beyond getting him on the planet.
+
+Is he trying to make it so I can’t help beyond that minimum? Or maybe… he may be using this as his sole chance to possibly get magical silver?
+
+Since there’s no way he’d ever be able to get it without an in on the planet like me. And since he clearly hasn’t gotten it over hundreds of thousands of years, I kind of doubt he has a way to get it.
+
+It’s entirely possible he’s just grasping at straws to get the magical silver.
+
+One question still needs being answered though.
+
+Just how far does the emperor’s foresight even see? Does he already know if Shirogane will succeed in this trial?
+
+I really don’t have any information on the emperor’s ability outside of the fact that it’s foresight related.
+
+Several minutes pass as the elevator gets lower and lower, with the elevator being filled with chatter from the many people. Some of whom actually do occasionally glance at Shirogane without really hiding their gazes.
+
+Right. I sometimes forget that Shirogane is technically a celebrity.
+
+And of course the nation’s capital of the nation that hates the Eternal Dynasty would recognize him.
+
+No one is really saying anything though. Most just look confused.
+
+Probably because of the fact that he’s here in the first place.
+
+After observing the elevator and the people in it for a few more minutes, I look outside again right as the elevator slows to a halt. Reaching the ground at last.
+
+Then it opens to reveal a long array of soldiers standing with spears in hand all making a long pathway. One that eventually ends with a man with silver hair wearing silver and gold armor with a blue cape and glowing golden eyes as he walks down the aisle made by the soldiers.
+
+And to my surprise, when he looks at me, he has a genuine smile on his face.
+
+Huh.
+
+Was not expecting the first expression the Emperor of the Grand Silvanian Empire to make at me to be a smile.
+
+Then he turns his gaze towards Shirogane and frowns.
+
+Now that I was expecting.
+
+But why is he here to greet us right away?
+
+I glance at Shirogane before we both walk out of the elevator, the other people in it just taking other exits to avoid the hell out of us.
+
+Well, guess I’ll be seeing soon enough.

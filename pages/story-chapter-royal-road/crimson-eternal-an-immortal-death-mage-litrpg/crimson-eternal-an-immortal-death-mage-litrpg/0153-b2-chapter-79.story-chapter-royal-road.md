@@ -1,0 +1,165 @@
+---
+id: 130a0ebe-b54b-5175-8ccb-fe717eb64594
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 79"
+slug: 0153-b2-chapter-79
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 153
+ownLength: 1467
+unit: words
+ownProgress: 1467
+publishedAt: 2024-05-04
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1623475/b2-chapter-79"
+royalRoadId: "1623475"
+markedReadAt: "2026-06-29T19:10:55.243Z"
+---
+
+Aria
+
+Everything I’ve heard about Vest has been… pretty bad. The world was completely destroyed by Pestilence. Everything on it plagued, poisoned, or diseased. Killed in a slow and drawn out way, including the planet itself. Which honestly seems to be falling apart in places.
+
+The only person who still lives here is Pestilence. No one has the coordinates to the planet and there aren’t any Gates here. Pestilence is just known to make his own temporary portals here using pestilence energy.
+
+Which makes me wonder if I’ll be able to make portals with death energy in the future.
+
+Either way, the horse just kinda gallops through the air towards a large castle on a barren cliff as I try to digest everything that’s happened. Ignoring the fact that Pestilence is still holding me in a princess carry. While somehow ignoring my existence despite that.
+
+Not sure if I should be annoyed by how he’s carrying me or annoyed by being viewed as nothing but a test subject.
+
+But at least he got me out of that eternal hell.
+
+Can’t really see his poisons being much worse than spending an entire year nonstop dying.
+
+Still odd how it feels… so distant. Like the trauma happened a while ago. Like it’s already been healed mostly.
+
+So weird…
+
+I shake my head at the thought before remembering the absolute devastation brought about by Pestilence’s arrival.
+
+How long did he fight with the Hive queen? Did he kill her in an instant? After a long battle?
+
+What happened?
+
+I can’t help but frown at the lack of intel, but once we make it to his little castle, he just kinda unceremoniously dumps me on the ground and begins walking further inside while saying, “Follow.”
+
+Rude.
+
+But I do so, because this is the agreement Shirogane made. And I would much rather be poisoned by him for a couple weeks than killed for years.
+
+To my surprise, I actually find some people working in the castle. Only for them all to run away the moment Pestilence gets near.
+
+They don’t actually look like they’re sad or upset or anything though. Maybe a little sickly, but not deathly sick. And they actually look happy despite obviously running away from Pestilence.
+
+Then again, everything I’ve heard about him is that if you leave him alone and have nothing to do with his current experiment, he’ll ignore your existence entirely. So he won’t bother you.
+
+I wouldn’t be surprised if he’s just ignoring them and they’re just avoiding running into or bothering him.
+
+A rather odd setup, not gonna lie.
+
+None of them look too surprised to see me other than what I’m guessing is the fact that I’m following him willingly. Wouldn’t be surprised if he’s brought other test subjects here unwillingly before.
+
+Either way, we continue through the castle until we arrive at a large lab where he says, “Don’t bother me for five minutes. I’ll be preparing the first and most urgent poison to use on you.”
+
+I nod my head before glancing around the lab, feeling a little surprised that he’s just letting me roam around without anything binding me or stopping me from messing with stuff.
+
+Not sure if that’s just his apathy, the fact that I’m also a Horseman, or what.
+
+Don’t much care either way though.
+
+The five minutes pass by rather quickly before he returns with a syringe filled with some sort of strange purplish blue liquid. A color similar to some time magic I’ve seen. A very rare magic that can’t really do much beyond seeing the future or the past, or maybe reversing time on an… object…
+
+Wait, is he-
+
+He sticks the syringe in my arm faster than I can react, following which a burning pain spreads throughout my entire body and I almost instantly black out.
+
+When I wake up again, I find myself lying down on a slab of stone without any pain.
+
+Huh.
+
+Interesting.
+
+I sit up while looking around, only to realize something.
+
+Why does everything look so big?
+
+I move my legs over the edge of the stone slab, only to realize that my legs are too small for my current clothes.
+
+Excuse me, what?
+
+I look down to take a closer look at myself in general, only to find that everything’s smaller. And my clothes don’t fit anymore.
+
+So I look up again, only to find Pestilence typing away at a tablet right in front of me as he mutters, “Took thirteen days to awaken… time reversion reverted back a few years within that time… return to normalcy estimated to be a few months…” He raises his head to meet my eyes – his eyes being distinctly higher than I remember along with his height in general – before he says, “It’s a success. You’ve been helpful, Death.”
+
+The man simply nods his head once and turns around to walk away while mumbling to me, “I’ll return you to that backwater world tomorrow. Do whatever until then.”
+
+Then he just kinda starts muttering to himself while messing with his tablet and looking over some documents and a few test tubes. As if he’s completely forgotten my existence.
+
+Although some of the things he mutters implies that whatever he’s done to make me – judging by what he said about the time reversion thing – regress in physical age wasn’t the only thing he did. Just that most of the stuff he tested on me was done while I was out from the first thing.
+
+Because apparently he didn’t need me awake to test the stuff. And he could do it while also studying the time reversion thing.
+
+Guess that’s good at least. There was barely any pain or discomfort.
+
+Just that initial burst of pain from the first thing.
+
+Anyways, I go ahead and ask, “Got a mirror?”
+
+He waves his hand towards one end of the room where some glass is.
+
+Not really a mirror but it works.
+
+I walk over to it before freezing stiff at the sight of my reflection.
+
+Huh. Well that’s… huh.
+
+He said this should revert fully in a few months, right? I’m pretty sure he muttered that.
+
+Just in case, I turn around and call back, “You said I should return to normal in a few months?”
+
+He calls back in that same muttering tone, “Thereabouts. Might be faster if your adaptation speeds it up further.”
+
+Good then.
+
+Because it would be annoying to go around looking like a thirteen year old child for a long time.
+
+Also, I need a new outfit. Because none of my outfits are going to fit me now.
+
+I frown at my reflection in the mirror. One showing me being even shorter than normal.
+
+Damnit, this is annoying.
+
+Then again, could’ve been worse. And it should only last a few months for my adaptation to return me to normal.
+
+Probably less, since my adaptation should be constantly working to correct this.
+
+Actually, it may be beneficial in the end. Because more adaptations are always nice.
+
+I turn around while glancing at Pestilence, who is currently mixing some liquids in some vials and doing some sciency things.
+
+Come to think of it, how did he even manage this? He shouldn’t have anything related to time magic…
+
+Interesting.
+
+Well, anyways, he said he would take me back tomorrow. Meaning he’s giving me the fourteenth day off. Seeing as he said thirteen days earlier.
+
+I would say that’s nice of him, but he’s probably just lost interest from what I’ve come to learn of his personality.
+
+Certainly an odd fellow. One perfectly capable of killing an entire planet without blinking an eye, but also apathetic to a fault about anything he doesn’t care about.
+
+Very strange and messed up fellow indeed.
+
+Kind of hope I don’t meet him again.
+
+On that note, I begin to awkwardly make my way out of the lab, pretty much waddling due to my current form and attire not really fitting. And when I leave his lab, some of the servants going about the castle spot me and immediately start fussing over me, to my immense irritation.
+
+Something about me being adorable, even with sinisterly glowing red eyes and stark white hair.
+
+I scowl at them, which apparently just makes me look cuter in their eyes. But they eventually leave, since they’re not blind that I don’t like it.
+
+This… is going to be a really long few months, isn’t it?
+
+I let out a sigh at that and continue walking through the castle.
+
+Probably just gonna hole myself up in a Hunter’s Spot to let my spirits hunt during this time… after he brings me back, that is.
+
+I’m really not looking forward to Hannah’s reaction when she sees me though.

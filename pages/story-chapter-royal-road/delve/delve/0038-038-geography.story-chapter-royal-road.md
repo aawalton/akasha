@@ -1,0 +1,305 @@
+---
+id: 17fb2aa2-70c9-5a76-aeb3-e41651e0bb2d
+page-type-slug: story-chapter-royal-road
+title: "038: Geography"
+slug: 0038-038-geography
+partOf: delve
+position: 38
+ownLength: 3674
+unit: words
+publishedAt: 2019-09-01
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/398035/038-geography"
+royalRoadId: "398035"
+---
+
+“Hey, guys, hold up a minute. You feel that?” Carten asked, cutting Val off mid-sentence.
+
+“What?” Val asked, not feeling anything out of the ordinary. He shivered, flipping up the collar of his tattered jacket.
+
+“It just got really cold all of a sudden,” Carten said, scratching at his beard.
+
+“It’s been cold all morning,” Val said.
+
+Jamus tilted his head. “Yes, but Carten’s right. It did just get significantly colder…Wait, no. No, it didn’t. This is Rain’s Winter aura, only...”
+
+“It’s too strong,” Val said, belatedly recognizing that the cold he was feeling was more than just the wind. It was the sharp, refreshing clarity of mind that came with being dunked in icy water. The feeling had nothing to do with the brisk morning air.
+
+“Bloody bastard,” Carten grumbled. “It’s cold enough without him making it worse. And for what, just a bit of mana?”
+
+“It isn’t actually colder, it just feels like it is,” Jamus said. Val watched as the older mage consulted something he couldn’t see. Turning to his own interface, Val checked his mana regeneration, then whistled despite himself.
+
+“Magnitude nine,” he informed the others, a note of bitterness entering his voice.
+
+That is so unfair. He practically doubled in strength overnight. I’ve been capped for years, and he’s just leveling up like it’s nothing.
+
+Val took a deep breath and let it out, half expecting to see frost on his breath. Compared to a beacon, this level of strength was absurd.
+
+“I’ve never felt a regeneration effect this strong,” Jamus said. “Rain, how did you…oh, he’s out.”
+
+“He doin’ that dead fish impression again?” Carten asked.
+
+“Yes. He must have gotten a lot of skill levels in that focus skill yesterday too,” Jamus said. “Honestly, it’s a bit...taxing to watch him just shoot up like that.”
+
+“I know, right?” Val agreed.
+
+“Well, look to the bright side. I’m going to take advantage of this and get some skill experience.”
+
+“Does nothing for me,” Carten grumbled. “This is why I’m saying he needs spring. That would be warm, too.”
+
+“Val, how about you? Train with me?” Jamus asked.
+
+Val sighed. “All my skills are already capped. I’m up for some target practice though, or maybe a spar.”
+
+“That’s the spirit,” Jamus said. “Don’t let it get to you.”
+
+“It doesn’t bother me,” Val lied, shrugging. “I can still kick his ass. That spinning trick won’t work on me a second time.”
+
+“Spinning trick?” Carten asked.
+
+“I don’t want to talk about it. Ok, Jamus, how are we doing this? Osaran rules?”
+
+“Ah, formal. Very well. To half health? The road as the arena?”
+
+“Works for me. Carten, watch out for Rain. Make sure he doesn’t get hit.”
+
+“Hah, good idea,” Carten laughed, “His auras might be strong, but he’s a bit of a joke as an adventurer.”
+
+Jamus gave Carten a flat look. “Don’t be crass, Carten. Even though he can’t hear you, you shouldn’t look down on him just for not focusing on combat.”
+
+“Fine, Jamus, fine. Point taken. I like not having to take my armor off every time I need to take a shit.”
+
+Val rolled his eyes. “We doing this or not?”
+
+“One moment. I want to test the range so I know how close I need to stay to the wagon.”
+
+“I don’t think it’s going to last long enough for it to matter. I’m an all-or-nothing kind of duelist. Sorry in advance.” Val smirked. He was really looking forward to testing himself against the seasoned adventurer.
+
+“Oooh, ya hear that Jamus?” Carten laughed. “The gauntlet’s been thrown!”
+
+“Just don’t damage my hat. It doesn’t have a durability enchantment. Now, hold on while I check the range.”
+
+Jamus started walking faster, pulling ahead of the cart. Val followed, figuring that they could start the duel as soon as they got out of the aura’s effect. The distance to the cart grew, and Val’s excitement for the duel started to fade, replaced by disbelief.
+
+The range too…That’s just insane...
+
+“Um, Val?” Jamus asked.
+
+“Yeah, Jamus?”
+
+“You still feel it, right?”
+
+“Yeah, yeah I do,” he said, looking back at the cart, now at least a hundred stride behind them.
+
+“Good. I thought my statistics might have gotten stuck.”
+
+“Fuck me.”
+
+Several hours later, Rain released Aura Focus and sat up. There was a noticeable kink in his back as he hopped down from the wagon, and he stumbled as his feet hit the ground. He’d done three more rounds of practice, calculating that to be enough to finish leveling both Essence Well and Channel Mastery. He was so done with Aura Focus. There was no way he was going to spend another full day lying in complete darkness, especially after he’d calculated how long it would actually take to get Winter to rank 10. It just wasn’t worth it. This latest round would be his last for the foreseeable future.
+
+“Time for Essence Well?” Jamus asked.
+
+“No, Jamus. No more Well. I’m going to work on some other stuff.”
+
+“Can you at least top me up?”
+
+“Oh, fine. Come on.”
+
+Rain stopped walking, letting the cart continue without him. Jamus stopped too, standing next to Rain. Once the others were out of range, he activated Essence Well at 25% power and started walking again. Jamus fell into step beside him. He still wasn’t sure how much mana the man actually had. Assuming at least 100 Focus and the Intrinsic Focus skill, the other mage would have 6,000 mana at a minimum.
+
+The others hadn’t made a big deal over the massive improvement to Winter, though Jamus had been taking advantage of the free mana to train his own skills.  Rain had been slightly disappointed by the lack of praise until he realized that it was probably a bitter feeling for them, watching him level up so quickly when they’d done it the hard way. He’d decided against saying anything about it, focusing instead on being the best mana battery that he could be. Enough was enough, though.
+
+He stopped channeling after around two minutes, switching back to Winter.
+
+“That good?” he asked.
+
+“Humm. I’d hoped for a bit more.”
+
+“I suppose I can give you more, but I’m gonna have to go even slower. The efficiency, you know. I’m willing to do it, as long as you don’t mind answering a few questions for me while we’re back here.” Rain grinned.
+
+“Extortionist.” Jamus smiled.
+
+“Guilty as charged,” Rain laughed, activating his aura again. “Ok, I wanted to talk about geography and politics, but before that, there’s something that I’ve been dying to ask you.”
+
+Jamus waved a hand, inviting him to continue.
+
+“Right. I was talking to Tallheart the other day and I was trying to explain some calculations I was doing. He told me that you don’t have the concept of zero here, which I just can’t believe. I couldn’t even find the word in the dictionary you gave me. Zero is what you get when you subtract 1 from 1. It’s like ‘nothing’, but you can use it as a number. What I want to know is, is that just Tallheart, or is it everyone?”
+
+“...what?” Jamus said, looking confused.
+
+“Oh no. Not you too.”
+
+“Sorry, can you explain it again? I’m not quite sure what you are getting at. You were rambling.”
+
+“Look,” Rain said, struggling to retrieve his notebook without tripping on the uneven road. Most of his stuff he had left in the wagon, but he had been keeping his pack on him to carry a few things. His gambeson didn’t have any pockets, after all. He wasn’t wearing the chain mail as it weighed heavily on his shoulders. The padded jacket and pants were warm, though, so he was happy enough to keep them on. Finally, he managed to free the notebook from his pack and opened it to a suitable page.
+
+“See here? These are numbers in my language. That there is the symbol for ‘one’, and those two together mean ‘ten’. The round character on the end is a zero. When you write a one and a zero next to each other like that, you get ten. Two ones next to each other make eleven, a one and a two is twelve, and so on.”
+
+“Oh, I think I’ve heard of this.” Jamus said, “The position of the digits matters, right? Twelve is one ten plus two ones?”
+
+“Yup, you got it. So ten is one ten plus zero ones. A hundred is one hundred, zero tens, and zero ones. Written like this, see?” Rain pointed. “The zeros are there to pad out the number, that way you know the one is in the hundred’s place.”
+
+“Humm. I can see the appeal, but-”
+
+“But what?” Rain sighed in exasperation. “These are much easier to work with than your numbers are. See here?” He pointed to some scribbles on the opposing page. “I was trying to do math with the value system you all seem to use, but it did not go well. I had to keep converting back and forth. How do you even multiply anything with these?”
+
+“Most people don’t bother, or at least, not to that level,” Jamus said, nodding to the cramped script in Rain’s notebook. “For day-to-day life, simple ratios are enough. Overkill, even. Knowing that a skill will boost damage by one part in ten is good enough.”
+
+“Come on! You just used a fraction for crying out loud! How can’t you have zero!?”
+
+“I don’t know what to tell you, Rain,” Jamus shrugged. “As I said, I’ve heard of systems like the one you are describing, but it isn’t what I was raised with. Some people don’t even see numbers when they interact with the system. If you want to know more, you’ll have to talk to a real scholar, not just a dabbler like me. Remind me to introduce you to Staavo when we get back to Fel Sadanis. I think you’d get along.”
+
+“Who’s that? Someone I should know?”
+
+“He is known in certain circles. He wrote that book I gave you.”
+
+“Oh, cool. I definitely want to talk to him in that case. I have so many questions about it, and I’m not even halfway through yet. What did you say his name was?”
+
+“Staavo. I’ll introduce you later. Enough math. You mentioned politics?”
+
+Rain paused to tuck his notebook into his pack, then hustled to catch up with Jamus. “Yeah. I wanted to ask you a little bit about Fel Sadanis, the Adamant Empire, and those other kingdoms you mentioned. You know, the ones the Empire just declared war on? What was the name again?”
+
+“The Democratic Kingdoms?”
+
+“Right, those. I thought that was the word you used before, but…‘democratic’? As in, ‘democracy’? Voting and all that? I found the word in the book, but I thought I was remembering it wrong...”
+
+“No, you got it right.”
+
+“But you don’t vote for kings!”
+
+“Why are you speaking so strangely? What was that accent?”
+
+“Sorry, just quoting something. I don’t think the accent translated into common very well. Remind me to tell you about Monty Python later. Anyway, how can you have a democracy if you have a king? Is he elected or something? Maybe just a figurehead?”
+
+“No, that isn’t what democracy means. That would be an elective monarchy, like Osar of old. There are no kings in the democratic kingdoms.”
+
+“Then why are they called kingdoms?”
+
+Jamus shrugged. “Ask Staavo.”
+
+Rain sighed. “Fine. So these Democratic Kingdoms. How many of them are there?”
+
+“Just the one. The proper name is The Democratic Kingdoms of Ekrustia.”
+
+“Oh,” Rain paused. “So Ekrustia is, what, the continent we’re on?”
+
+Jamus nodded. “Yes. The DKE controls the area west of here, as well as the northern coast. The Empire is to the south-west, across the Badlands.”
+
+“The Badlands? Sorry, Staavo’s book has lots of stuff in it, but nothing about geography.”
+
+“Yes, he can be a bit disorganized at times. He must not have thought it was important.”
+
+“Jamus, there were thirty pages full of drawings of different kinds of birds. How is that more important than a damn map?”
+
+“Staavo is…well, you’ll see.”
+
+Rain sighed. “So, the Badlands?” he prompted.
+
+“It’s a wasteland. Rank ten or higher, for the most part. Very unusual given its size. It’s the only reason Fel Sadanis hasn’t been conquered by the Empire yet. Even if they could march through it and take the city, the cost of maintaining a teleport link over that distance would make holding it impractical. They can’t go around without going through the DKE. Needless to say, this war has the Watch on edge. If the Empire wins, there won’t be anything stopping them from rolling right over us.”
+
+“Ok, thanks. That helps a lot. What’s to the east?”
+
+“A few smaller independent cities, some towns, and lots and lots of trees.”
+
+“What about the City of Lights? Where is that?”
+
+“Far, far to the east of here. On another continent.”
+
+“And Brightside?”
+
+“Never heard of it.”
+
+“Humm. You don’t happen to have a map, do you?” Rain asked. He sighed as Jamus shook his head. “Staavo?” he guessed, raising an eyebrow.
+
+“Staavo,” Jamus confirmed.
+
+“Oh well. Thanks for explaining. How are you doing on mana now? Still need more?” Rain checked his own bar. He still had plenty left, but he was anxious to work on other things.
+
+“I could always use more. We should probably rejoin the others, though. I’m getting hungry. Wasn’t that stream around here somewhere? You know, the one we filled our skins at last time? We should stop there and fill up the barrel before we head into the hills. It’s a good thing Carten remembered to bring it.”
+
+“Yeah, good idea. I’m almost out of water myself. I forgot to fill up before the road split from the river.”
+
+The two picked up their pace and caught up to the cart just as it crested a rise in the road. Looking down, Rain spotted the river in front of him, spanned by the old wooden bridge just as he remembered. Carten guided the horse off to the side of the road and brought it to a halt. Jamus thanked Rain again for the mana and went to retrieve his kettle from amidst the bags. It looked like it would be soup again today.
+
+The man really does love soup. Hey, as long as Val’s not making it, I won’t complain. Still, it’s going to be a few hours before its ready. Maybe I should go hunting or something?
+
+“Heads up!” Val’s voice sounded loudly from behind him. Rain turned just in time to deflect the branch that had been lobbed in his direction. He fumbled, dropping it to the ground.
+
+“Could you give me a bit more warning next time?” he asked, seeing Val approaching with the other branch in hand.
+
+“Nonsense. It’s all part of the training. You need to be quick on your feet! Now, start with the first stance I showed you.”
+
+With a contented sigh, Rain set his bowl down and leaned back against a large rock. Jamus had made potato soup again, and it had been creamy and delicious. He had no idea how the man was able to make such a wonderful dish with just a few ingredients and a campfire. Maybe his sense of perspective was skewed from all the rations he’d been eating.
+
+He closed his eyes, intending to rest for a few minutes. Val hadn’t forced him to spar, but the endless repetitions of strikes, blocks, and other movements that the man had put him through had left his muscles feeling like wrung-out dishrags. He was looking forward to an afternoon resting on the cart.
+
+The others soon finished, so Rain readied Purify to clean up the mess. He used his nova technique, releasing a single, second-long pulse with Aura Focus, Extend Aura, Amplify Aura, and Channel Mastery all active. He opened his eyes to see an expanding shell of white light surrounding him, growing quickly to a truly massive size before abruptly vanishing. Purify normally appeared as a luminescent fog, but the more he boosted the power, the more quickly it traveled. At this intensity, the smoke-like quality of the aura was hard to discern as the wave of pale light blasted outwards.
+
+He looked forward to trying this in the city, after clearing it with the Watch, of course. Out here in nature, there really wasn’t that much for purify to clean. In the cramped confines of Fel Sadanis, he expected that watching the purifying wave strip grime from the streets and the buildings would be extremely satisfying. Like watching power-washing videos on the internet.
+
+“Wow,” Ameliah said. “I don’t think I’ve ever seen purify behave like that.”
+
+“I call it a Nova,” Rain said, using the English word. He was pretty sure that common had no term for the explosion of a dying star. In his mind, he capitalized it, as he’d started to do with skill names in general. It just felt better to him that way. There was a difference between a ‘strong blow’ and a ‘Strong Blow’.
+
+“How do you do it?” Ameliah asked, bringing his attention back from where it had wandered.
+
+“I use a bunch of mods to really boost the aura, but I just do it for a second. That way, I can deal with the loss of senses from Aura Focus. Like this.” Rain repeated his Purifying Nova to demonstrate, naming it on the spot.
+
+I invented it, so I can call it whatever I want. Maybe I can even convince the system to come up with a skill description for the combo. Another thing to try later.
+
+Ameliah and Rain watched as the sphere of light expanded. It didn’t diffuse as it grew, staying the same intensity despite the rapidly increasing volume contained in the shell of light. Apparently magic didn’t give two shits about 4/3πr3.
+
+Abruptly, another shell of light followed his own, almost identical in intensity and size. Ameliah smiled.
+
+“Effective. For small messes, anyway.”
+
+“You have Channel Mastery?” Rain asked. Judging from what he’d just seen, she either had it or something else that provided a 2x multiplier to aura intensity.
+
+“Yup.”
+
+“Cool. What other channeled skills-”
+
+“Ok, kids, time to move,” Carten said loudly, tossing his shields into the back of the cart with a resounding clatter.
+
+“Kids?” Rain said, incredulous. He glanced at Ameliah, then back at Carten. “Carten, we’re the same age as you!” Carten ignored him, clucking to the horse and guiding it towards the bridge.
+
+“Come on,” Ameliah said, “walk with me. It will be good for you to stay loose after all that training. What is Val’s class, anyway? He seems good with that staff, but he said he was a light mage? I’ve never heard of that.”
+
+“He’s…definitely a mage.” Rain said evasively, mindful of his promise to Val. “I think hitting things with sticks is just a hobby of his. He’s got Lunar Orb, Hard Light, and Solar Ray. I looked them all up, but you’re right, there isn’t a ‘Light Magic’ tree. They’re from all over the place.”
+
+“I know what Solar Ray and Lunar Orb do. What is Hard Light?”
+
+“It’s a shield. It’s movable, but it only lasts a limited time.”
+
+“Anything else?”
+
+“Not that I know of. Nothing flashy, anyway. He might have Intrinsic Clarity or something, I’m not sure.”
+
+“Ha,” Ameliah chuckled softly.
+
+“What?”
+
+“Nothing flashy,” she said. “Good pun. It’s almost like you’re a native speaker now.”
+
+“Completely unintentional, I swear. Thanks for saying so. I’ve been working on my pronunciation.”
+
+“It really is amazing.”
+
+“I know, right? I’m kinda worried about what all this mana is going to do to you guys, not to mention the horse. Jamus said something about too much healing putting stress on the soul? Does overmana do the same thing?”
+
+“Humm. If it’s Winter, it should be fine. That’s regeneration, so it comes from within the soul. I’d be careful with Essence Well, though.”
+
+“Makes sense I suppose. External versus internal effects.”
+
+Ameliah nodded. Rain let the conversation drop, not wanting to bother her with a constant litany of questions. She and Tallheart weren’t antisocial by any means, but they weren’t nearly as outgoing as the others.
+
+Tallheart eventually joined them. The three walked along silently, listening to the ongoing argument about the Imperial Auras that had reignited amongst the more energetic members of their party. After a while, Val and Carten broke off from where Jamus was leading the horse, walking to the side of the road and facing each other.
+
+Rain mentally played back the last few seconds of the argument, but he hadn’t been paying enough attention. All he knew was that Carten was going to ‘demonstrate’ something. Jamus brought the cart to a halt and turned to watch, but Ameliah and Tallheart just kept walking. Rain shrugged and continued along with them. Their behavior wasn’t enough to pique his curiosity at this point, given the antics that the three had been up to all morning.
+
+They’ll catch up. Wouldn’t want to split the party this far out in the wilderness, after all. Oh, hang on...
+
+“Hey Ameliah, I’ve been wondering, how is it that parties—”
+
+Rain was interrupted by an inhumanly loud roar from the direction of the cart. He turned just in time to see Carten smash one of his shields through a panel of white light with a vicious backhand. His shield was barely slowed by the barrier, slamming into a very surprised looking Val and sending him flying several meters through the air to crash into the side of the cart. Rain started to rush over to his aid, but he relaxed as he saw the black-haired man climb unsteadily to his feet. Jamus was laughing as he tried to soothe the startled horse.
+
+Tallheart sighed and shook his antlered head. “Children.”

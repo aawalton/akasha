@@ -1,0 +1,133 @@
+---
+id: 403a30ff-262f-5e51-b142-6b5294f663ba
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,390 - The Pressure of a World"
+slug: 0067-chapter-1390-the-pressure-of-a-world
+partOf: defiance-of-the-fall
+position: 67
+ownLength: 3149
+unit: words
+publishedAt: 2025-12-15
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2850502/chapter-1390-the-pressure-of-a-world"
+royalRoadId: "2850502"
+---
+
+Towering rage kept the tearing agony and the expanding chorus of voices in check. It became a liferaft to hold onto while he quelled the rampaging Temporal Energy that distorted his perception and the storms ravaging his damaged Inner World.
+
+Zorm couldn’t believe how quickly and completely everything had gone out of control. Reaching Lodge Island should’ve meant that he’d overcome the most dangerous phase. He’d killed this layer’s Zorm Hastor without alerting the bloodhounds. Then, he’d racked up great merit facilitating the silent takeover of the Hastor Society and collecting the necessary materials that only existed on this side.
+
+With everything he’d achieved, Zorm would receive enough rewards to secure his spot during the Great Merge. There may be other C-grade versions of himself in the countless layers of reality, but he would have the First Era’s strength and the support of the prime dimension to ensure he made it through. Now, Zorm would be lucky if he could avoid facing military censure for dereliction of duty.
+
+It didn’t matter that everyone had failed to notice the bastards lurking in the shadows. Zorm was ultimately the commander in charge when the main array eye blew up. He almost wondered if Navel had intentionally looked the other way, if not for the fact that he’d be second in line to the gallows. There was only one way to mitigate the disaster. He needed to bring the perpetrator to justice and unearth what else they’d planned. This group was clearly not as clueless as they’d expected, managing to reach this sealed location before the island’s formations were undone.
+
+Idiche wasn’t a problem. She didn’t exist on Zorm’s side, but the dossier left him confident he could suppress her despite his wretched state. The meddling outsider was the truly dangerous variable. Thankfully, he exhibited no signs of possessing an Inner World, and he’d delivered himself right to Zorm’s doorstep.
+
+Corrosive Death and vision-blocking mists couldn’t stop Zorm from sensing his target carefully drawing closer—a coward hiding within the folds of darkness instead of facing their foe like a warrior. Zorm would like to see if the assassin would stay hidden after he tore down the playhouse he’d erected.
+
+Thinking that, Zorm still experienced some unease as he glanced at the intricately carved statues surrounding the enormous eye made from Pure Oblivion. Zorm was certain it was an ability and not a treasure. He’d never seen such an intricate application of Energy and Dao from a Hegemon. Even most Monarchs would struggle to fashion something at this level without ample preparation.
+
+“Doesn’t matter. One force overwhelms Myriad Daos,” Zorm muttered with a fierce expression as the apparition of a one-eyed giant towered behind him.
+
+The countless chains aiming to ensnare Zorm fell toward the depths. They lacked the strength to overcome the gravitational pressure emitted by his Illusory Blood Fiend. The agony from the backlash amplified when the giant imparted its strength, yet Zorm held on as he gathered force in his fist. Intricacy was brittle. Simplicity was Heaven’s Path.
+
+Zorm became one with his fist and swung at the desolate eye, imbuing his anger and the weight of his cultivation. A spectral chain appeared out of nowhere and tried to veer him astray. Meanwhile, a barrier sprang up right in front of him. Zorm growled with annoyance, refusing to let his hunger for violence be interrupted.
+
+Space buckled, and an immense sense of satisfaction filled Zorm when the barrier tore open like paper. The force continued onward, consuming more than half the anti-sun. Oblivion was annihilated, and a mile-wide hole was torn open in the curtain of darkness. Zorm could see the sky overhead, and the fading magic circle reignited his anger.
+
+The veins on his forehead throbbed with bloodlust when he spotted the cloaked figure trying to retreat back into the darkness. He ignored the closing vault in the sky and allowed the collapsing eye to reform. It was severely weakened anyway, no longer strong enough to pose a threat. So why should he flee?
+
+“We’re not done here,” Zorm grinned as he yanked at the spectral chain.
+
+The assassin was helplessly dragged over like a lamb to the slaughter. It was only at the last second that Zorm sensed a mortal threat. The whole world tilted, and the target twisted mid-air to unleash a sudden and brutal swing against his forehead. Zorm’s jagged thoughts sharpened as he stared death in the eyes, and he urgently drew power from the cracked seal in the depths of his Inner World.
+
+A stream of the First Era’s Primordial Energy flickered and disappeared, directly transported to his body. Drawing on ancient inspiration, it formed a pitch-black eye on his left temple. Zorm fought the nausea as another vantage was added to his vision, one staring directly at an impending streak of darkness.
+
+Viscous blood ran down the newly formed eye as his Blood Fiend’s innate ability was forcibly replicated. An ocular pulse ripped out with unstoppable speed. It shattered the inky blade that made Zorm’s soul shudder, and the remaining force crashed into the armored arm behind him. Lovely crunches came from within the armor, and pitch-black blood reeking of death poured out of the gaps. The scene was almost enough to make Zorm forget his own suffering. He’d be surprised if anything but mangled flesh remained within the metal casing. Zorm laughed heartily as he swatted away two chains aiming for his eyes. The next one would blow a hole through his torso.
+
+The laughter caught in Zorm’s throat as the axe was once more right upon him. The assassin, who should be reeling with pain, had wound another chain around his crushed arm and used it to unleash a second swing. He’d even used the recoil from his attack against Zorm’s eyes to accelerate the follow-up. While it lacked the original attack’s overwhelming momentum, it posed a threat to Zorm’s life.
+
+Zorm grimaced as he blocked the swing with his arm and felt painful corrosion pour into the wound. What the hell was going on? The guy’s arm was turned into mush, and he didn’t even flinch? Using it to attack with such force should have brought on a wave of pain intense enough to pass out, yet he didn’t stop with one swing.
+
+The assassin wasn’t scared off, nor did he show any inclination of slinking back into the shadows. Zorm was suddenly surrounded by suffocating chains and sinister edges, with a madman pressing on in silence like a soulless puppet. In reality, he was anything but. At such close proximity, Zorm finally got a proper look at his attacker, or at least at the eyes seemingly staring into his soul. Zorm’s heart shuddered at the intense fire he saw burning within, and even the raving voices quieted down before the shockingly pure Imperial Killing Intent they held.
+
+Who was this? Such monstrous intent couldn’t possibly be nurtured by a disciple. This was the stuff that only the great generals exhibited. Was he being toyed with? Was this a senior who’d managed to overcome the Karmic Blockade and sneak onto the island by sealing his true strength? And if there was one, were there more?
+
+No wonder their mission had hit a snag. The Originators were finally launching their countermeasures.
+
+His mind in chaos, Zorm repeatedly tried to draw his energy along the complex patterns he’d perfected over centuries. A chain or a precisely timed swing disrupted his energy flow every time his [Golden Giant Armor] was about to take shape. It was like this senior understood Zorm’s methods inside and out.
+
+Exerting his Inner World to create a suppressive domain barely moved the needle in his favor. His enemy maintained not one but four overlapping domains that worked together to keep him contained. It may have been different if he were in better condition, but now? Not worsening the damage to his foundations was already a good outcome.
+
+Rage threatened to cloud Zorm’s reason as he furiously tried to land a counter-attack. The curtain of darkness was repeatedly torn open, yet he only managed to graze his opponent. The bastard was always moving just out of reach, leaving Zorm with no opportunity to vent his anger and power. He hated that he had to be careful not to add to his sins. A wayward punch risked killing his subordinates outside or, worse, damaging what remained of the formation.
+
+The axe warrior’s attacks were weak on their own, but they were quickly accumulating. Zorm was suffocating under the unceasing barrage that nicked away at his faltering reserves. New bleeding gashes appeared every second. Just one punch. That was all that Zorm needed to turn the tides. Except, would his enemy provide the opening?
+
+He’d completely lost control over the battle after failing to follow up on his initial blast. How could he hope to match the expertise of a senior who’d seen so much bloodshed? He may as well—
+
+“Enough!” Zorm roared at the top of his lungs, expelling his despair along with a wave of destruction that threw off the chains that kept him suppressed.
+
+That’s right. This battle was the same as the mission. There were huge dangers with equally significant rewards. No matter how talented, this tricky bastard was still suppressed to Late D-grade. Zorm’s mistakes would be forgiven if he could kill him and bring his body back as proof. His rewards might even exceed the original. Someone with such refined killing intent had to be part of the Mercurial Court’s hidden Dao Reserve.
+
+If such a threat could be taken out ahead of schedule, it would drastically lessen the pressure on the seniors back home. What did killing a few subordinates or blowing up some array nodes matter compared to that? Seeing rays of sunlight once more peek through the overcast sky of his future, Zorm decided to go all out.
+
+The seal snapped, and carnage spilled forth. It filled his chipped Inner World and seeped into his wounds to glue them together. It filled his muscles with unstoppable power. This time, there was no stopping him. He happily endured the next attack and suddenly clenched his muscles to stop the axe from being ripped out.
+
+The target briefly had his tempo undone, and Zorm’s punch descended before he could adapt. The attack tore apart everything. The weakened eye of oblivion was like a firefly before the sun, and the two bands of statues shattered into a million splinters filled with violent echoes. The four domains that had kept him stifled couldn’t bear the eviscerating power of the First Era, and the darkness was swept away.
+
+“Is that all you have?” Zorm roared at the scraps of flesh and shattered links floating before him.
+
+The punch wasn’t aligned toward the sky as he’d thought. Instead, he’d struck straight down toward the cracked mountain, covering the whole valley with his all-out attack. Zorm didn’t care. Taking down this threat was well worth the loss of some wounded subordinates. An irrational hunger made him reach for the nearest clump of flesh.
+
+The voices urged him to consume his enemy to seize his power, but a bloody piece of fabric attached to the flesh made his mind clear up. It wasn’t the black fabric of his target but the grey robe of his first cousin. The realization hit him like a cold shower, and it was too late for regrets. Sharp pain filled him as a black blade tore through him from shoulder to hip.
+
+“You… how?” Zorm gasped at the man who’d appeared from a dead angle without creating so much as a ripple of energy. He’d lost his left arm to Zorm’s empowered strike, but the fire in his eyes only burned brighter for it.
+
+“Brainless brute, indeed,” the man scoffed, his gravelly voice holding the chill of the afterlife.
+
+Blood filling his throat prevented Zorm from responding, and he was more occupied with protecting his nucleus. Being cut in two didn’t matter much, but it had exposed the entrance to his Inner World. In its current state, it only needed a final push to fracture. Zorm furiously reinforced the barrier safeguarding his subspace while activating the escape treasure he’d held onto all this time.
+
+Any thoughts of seizing victory from the jaws of defeat were gone, and the malevolence instilled by the First Era wasn’t enough to rekindle his fighting spirit. Zorm had been outmatched and outsmarted at every turn, and only the desire to survive remained. So long as he could retreat and recover, there was still a chance of surviving the Great Merge. As for what happened after? That was a worry for the future.
+
+Just as Zorm was about to disappear, an invisible and utterly foreign force struck the barrier. The alien energy was the antithesis of his path, and not even the First Era’s energy was safe against its power. The attack only managed to open a gap the width of a hair before running out of steam, yet that alone was terrifying enough to make Zorm’s hair stand on end.
+
+The barrier of an Inner World was reinforced by the rules of the Cosmos. It wasn’t something that any random attack could overcome. Breaking it open required a drawn-out siege or accumulating enough damage that the target lost control over their Inner World. As bad as Zorm’s state was, neither of those requirements had been fulfilled.
+
+He still had more than enough energy to endure until [Zi’var Retreat] activated. It didn’t even matter if his whole body was ground to paste. He’d spend a few centuries to regrow a new one, even faster if he managed to trade for a suitable treasure. By then, the war would be over, and he could slink away in silence.
+
+All those plans were undone by the impossible scene before him. Zorm’s heart filled with despair as a scroll silently appeared behind his attacker. A line of an unfamiliar, angry-red script had been added at the bottom. Zorm couldn’t read it, but he knew that it was his name that had been silently added to the tally.
+
+“Bullying a junior,” Zorm complained with endless grievances as a pitch-black blade appeared without warning in the depths of his Inner World, cleaving it in two.
+
+This wasn’t how it was supposed to go.
+
+-------------------
+
+Devastation surrounded them. The blast wasn’t enough to topple the ancient tree, but dozens of branches had snapped. The shock had also cauterized the carefully opened incisions, and its veins had instinctively retreated further into the trunk. It would be impossible to collect any more sap in the short run. Not that it mattered much. The altar and its supportive arrangement were completely gone.
+
+Good riddance.
+
+“Guild Master Marai, your act over the past year was most impressive,” Royce said as he wiped the blood from his mouth. He tried to maintain calm, but Marai could see the smoldering anger that threatened to crack the gentle façade. “Alas, you lack follow-through. The selfishness that brought you to our side was also the cause of your failure. You might have killed us all if you’d truly detonated your Inner World, not just a refraction.”
+
+Marai didn’t have the luxury of wasting energy on bantering with this stranger wearing her companion’s face. She had her hands full keeping her Inner World from collapsing while keeping the teeming corruption at bay through a spatial barrier. There’d been no choice but to mix truth and falsehoods to trick these otherworldly monstrosities, no choice but to truly partake in their cursed offer. Now, she felt like she was dying of thirst, and the murky mist just within reach was life-giving water.
+
+The fake Inner World she used to absorb the disgusting madness was made from a quarter of the real thing. By sacrificing it to disrupt the ritual, she’d severely damaged her foundations. Even if she managed to escape, there was a decent chance her cultivation would collapse. Besides, she couldn’t leave just yet.
+
+“Still, I’m surprised. We thought we had you pegged,” Royce continued. “Or did you think you could discard your new allegiances after using us to break through? You should understand that some doors aren’t that easy to close after they’ve been opened. You can feel it, can’t you? And without our help—”
+
+“Too slow,” Marai sneered with a bloody grin while grasping empty air.
+
+An inconspicuous branch exploded, exposing a broken tiara embedded with a blue gem shimmering with ancient, illusory power. Everyone had kept themselves in check while they tried to understand where Sevona’s semi-awakened relic had disappeared to in the explosion, and the backlash wasn’t enough to undo Marai’s edge. Looks weren’t enough to become the leader of a treasure-hunting guild.
+
+“No!” Royce roared, his form twisting into a monstrous shape as the tiara appeared in Marai’s hand.
+
+Marai’s heart broke again as the grotesque appearance soiled her memories of the real Royce, but it only steeled her conviction. These invaders were right. She was selfish, lacking any real allegiance to the Empire beyond the sect’s border. But they shouldn’t have tried to recruit her by replacing the man she’d set her sights on. She’d ruin their plans if it was the last thing she did.
+
+Her spatial blockade crumbled under an outpouring of furious attacks. There was no time to dodge, and she couldn’t allow this body to be destroyed. She drew the punishment into her Inner World, allowing it to rain down on her already lacerated continent like an apocalyptic meteor shower. Her mind was swimming from the infusion of corruption, and she almost caved to the urgent demands to hand over the treasure.
+
+Marai’s vision was closing in, and her thoughts grew scattered. She desperately safeguarded her inner self, using the anger from Royce’s twisted form as fuel as she activated [Peregrine Voyage]. Royce’s roars distorted as she was dragged away, and the follow-up attacks passed through empty space. The next moment, Marai crashed into a wet, hard surface, and the collision snapped her spine. She neither had the energy nor the ability to get up on her feet.
+
+“Still here,” Marai lamented as she felt the corruption surrounding her.
+
+She’d hoped that her strongest escape treasure would let her see the Peregrine Isles one final time, but the seal had proven too strong. Marai wasn’t even certain the island remained in their dimension. The signs indicated it had shifted position, sitting at the threshold of both realities.
+
+At least there were no signs of Royce, or anyone else for that matter. [Peregrine Voyage] had sent her deep into the impenetrable mists at the island’s center. Even weakened by the rituals, finding her would be like finding a needle in a haystack. Marai smiled as the darkness took her. The rest would depend on the efforts of others.

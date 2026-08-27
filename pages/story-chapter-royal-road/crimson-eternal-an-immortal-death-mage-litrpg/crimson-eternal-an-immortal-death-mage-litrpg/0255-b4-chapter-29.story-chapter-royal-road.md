@@ -1,0 +1,127 @@
+---
+id: 64586e22-567d-5824-895d-ab51c2b69c96
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 29"
+slug: 0255-b4-chapter-29
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 255
+ownLength: 1383
+unit: words
+ownProgress: 1383
+publishedAt: 2025-02-12
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2063648/b4-chapter-29"
+royalRoadId: "2063648"
+markedReadAt: "2026-06-29T19:14:24.777Z"
+---
+
+Aria
+
+The three of us soon enter the tourist sector of the Star Link Stations, where we’re immediately assaulted by the sounds all around us. Sound made by the tourists, the shop owners, tour guides, flying cars and trains, and even flying scooters. All of which make for an incredible sight. Especially as we approach the railing at the edge of the long path the tunnel opens up into.
+
+And what we find beyond the railing is even more stunning of a view.
+
+The tourist sector is split up into large pathways going along the walls of the station, with railings on the edges facing towards the center, and multiple little outcrops clearly meant for either flying cars to land or flying trains to park. Meanwhile there are hundreds of floating little platforms with different activities happening on top of them. Whether they’re more vendors just like the vendors lining the pathways of the station, or they’re arenas with fighting and betters, or even lectures.
+
+All sorts of activities.
+
+And the place is so enormous that it expands in two directions for as far as the eye can see until both ways curve off out of my vision. With the place seemingly in a large ring-shape.
+
+But what stands out the most in this place is the view through the glass ceiling and floors. A clear view of space and several Hunter’s Spots outside of the station that are visible in the distance as an amalgamation of twisting lights.
+
+As wormholes.
+
+Which look really cool.
+
+As for our entrance and what effect it has on the people here?
+
+A lot of the people near us along with even more throughout the entire place that I can tell are mages thanks to their mana turn and begin staring, with many of them muttering about my presence along with their Star’s presence. But most of them still move on without bothering us. Especially when Lyra glances at them.
+
+Albeit not without shivering in fear.
+
+Now whether that’s from Lyra’s gaze or my death energy that’s leaking out of me like a damned sun, I’m not sure.
+
+I’m just gonna pretend it’s solely Lyra’s gaze and leave it at that.
+
+Just like how I’m pretending those guards I know are assigned to me by my parents aren’t there, and how I’m pretending that the cultists and religions worshiping me don’t exist either.
+
+Lyra then turns back to me with a grin and says, “So what do you think of my station?”
+
+I lean over the railing while taking in the view before turning back to her with a smile and saying, “It looks amazing.”
+
+The girl sticks her chest out with a clearly proud look on her face as she says, “Yep! As it should!” Then she walks over to the railing with her hands on her hips. “I’ve spent thousands of years making this place as incredible as I possibly could, and while it doesn’t stand up to Eternus in business success, it certainly exceeds that old man’s world in extravagance!”
+
+Now that has me raising a brow. The fact that I’m pretty sure she just called Amatsuraki an ‘old man’.
+
+Shirou Amatsuraki.
+
+The emperor of the Eternal Dynasty and Shirogane’s father.
+
+“Seriously, the old man really is stubborn to a fault,” Lyra complains with a pouty frown on her face while looking down from the railing at the passing flying cars and trains. “Every time I make an improvement to the station, he goes and makes one to Eternus. Repeatedly raising the aesthetics of Eternus in a completely different way from how I improved the station! And don’t get me started on that damned brat of his!”
+
+I share a glance with Leone to find her looking thoroughly amused. Then I glance back at her again.
+
+She knows Shirogane too?
+
+The girl – and I’m struggling to think of her as anything but a child now – crosses her arms with that same pouty frown on her face and says, “The first time that brat came here, he immediately stole five of my biggest clients right out from under my nose! And he did it without a single shred of shame on his face at all! The nerve of him!! His father should’ve taught him better! But what should I expect when his father did the exact same thing to Mom!”
+
+To… her mom? And yeah, I can see Shirogane doing that. Absolutely.
+
+Although he probably had his emotions turned off when he did.
+
+“But don’t worry,” she says while turning to me with a childish grin on her face, almost making me want to comment about how I wasn’t worried, “I did the same thing right back at them when I visited Eternus for that ceremony of theirs!” She laughs while holding onto the railing and leaning backwards, her laughter echoing out with a childish giggle to it. “You should’ve seen the look on their faces!”
+
+I purse my lips.
+
+So… what happened to all that ‘his father should’ve taught him better’ stuff? Or is it only okay when you do it and not the other way around?
+
+I take a moment to examine the girl.
+
+Right. I can see her thinking that way.
+
+Also, now that she mentions it, I’m pretty sure I recognize one of those stores down there from Eternus. A café, to be specific.
+
+Huh. Was wondering where that went.
+
+It was a café I actually enjoyed going to during my time on Eternus. Or times, I guess.
+
+But it vanished one day never to be seen again.
+
+I’m glad I found it again. It was a nice place to go.
+
+“Well, enough about that,” Lyra says while letting go of the railing as a large flying car slowly pulls up beside us and the railing itself folds into the balcony. With the car being a large, flying limousine. “Next up I’ll show you the private sector of this place!”
+
+I give a light nod of my head at that. Both in agreement with her words, and to reaffirm my previous thoughts about this place being amusing.
+
+Then Leone and I enter the limousine before it drives off through the large station, giving me a lovely view of the place as we go.
+
+And I take my time viewing it as well. Because it really is a nice place.
+
+As for the people here? None of them appear to be fighters. Mostly just tourists traveling, with a lot of them being at a lower level than I am.
+
+Although the security guards have a lot more mana than anyone else. So much so that they’re probably somewhere in the couple thousand levels range themselves.
+
+A smile touches my lips at that thought.
+
+It’s nice to be able to more accurately gauge someone’s level now that I can sense mana.
+
+Very nice indeed.
+
+That aside, the guards are all wearing high tech armor. Armor I’m sure is strong enough to easily shake off bullets strong enough to kill people over level one thousand.
+
+I can’t help but tilt my head a little, wondering how expensive those sets of armor was. And therefore also how expensive it was to outfit everyone in the entire station with them.
+
+“I’m sure you’ll like the private sector even more, Death,” Lyra suddenly says, catching my attention.
+
+But she doesn’t say anything else besides that, so I turn to look out the window of the vehicle again as we fly through the air. Eventually arriving at a large gate with an enormous amount of security stationed at it. Only for us to pass through the gate without pause.
+
+And what’s beyond the gate immediately has me opening my mouth in shock.
+
+Because whereas the tourist area was made to look beautiful and awe-inspiring, the private sector… well, it looks even more beautiful, but also… different.
+
+The private sector seems to start in a massive orb shape with two exits. One at the top of the orb and one at the bottom. Meanwhile there are platforms all around it with teleporters and flying trains connecting the platforms.
+
+But there aren’t any of those pathways on the edges of the orb.
+
+And the people on the platforms?
+
+They’re not friendly looking in any meaning of the word.

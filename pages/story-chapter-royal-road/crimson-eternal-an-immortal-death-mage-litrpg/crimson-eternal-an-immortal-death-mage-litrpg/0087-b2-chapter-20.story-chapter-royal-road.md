@@ -1,0 +1,119 @@
+---
+id: 0dd7a7d6-8991-5c78-a161-ca9cbe9c2818
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 20"
+slug: 0087-b2-chapter-20
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 87
+ownLength: 1644
+unit: words
+ownProgress: 1644
+publishedAt: 2024-02-06
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1508707/b2-chapter-20"
+royalRoadId: "1508707"
+markedReadAt: "2026-06-29T19:08:53.996Z"
+---
+
+A Building Near the Grand Tree
+
+Shirogane stares in silence from a tinted window out at the Grand Tree entrance where the corpses and body parts are processed. Anything biological, in fact. Not just humans but animals and mana creatures as well. And his eyes narrow the moment Miss Violet enters the building with Miss Crimson in a body bag on a stretcher.
+
+The Eight Star Merchant has always had difficulty working with others. It’s why he puts up a false persona every time. Why he uses a skill strictly to turn off his emotions.
+
+Of course, the only people who know about his skill are him, the emperor, and the only Ten Star Merchant in the Dynasty. And he has no intentions of telling his contracted partner.
+
+Not yet at least.
+
+He can tell that she has no intentions of getting close to others, even if she may have interest in doing so.
+
+A sentiment Shirogane can understand perfectly well. Since the woman will never die. Never grow old. And will have to watch everyone she’s ever met do both without her.
+
+Because no matter how talented someone is, no matter how powerful someone becomes, they will always succumb to death eventually. Whether it’s in a battle, or old age. Even the Nine Grands will eventually succumb to old age, with the exception of the Horsemen of the Apocalypse. Who level so fast at their current power that they will never have to worry about their life span cutting off, even if Horsemen are known to level extremely slowly at the start. Just like Aria.
+
+But even the other three Horsemen can succumb to being killed by someone.
+
+Not that Shirogane believes they’d be good friends to make in the first place.
+
+He lightly shakes his head and focuses out the window again while pulling a device in the form of nothing more than a scope to his eye, looking through it at the Grand Tree. A device that lets him see through the walls to view what’s happening inside.
+
+And what he finds is the clerk at the front desk unzipping the very front of the body bag and reaching in to touch Miss Crimson’s throat, feeling for a pulse. Then when they don’t find one, they zip the bag back up and begin talking with Miss Violet.
+
+The discussion lasts for no more than a few minutes with a golden light shining around them to mark the divination magic being used before Miss Violet waves at them and begins to leave while they kart Miss Crimson away, bringing her deeper into the Grand Tree.
+
+Shirogane watches them move for a little bit before lowering the scope and sighing.
+
+Part one of the plan is a success. Now the rest of it relies solely on her.
+
+He glances up at the top of the Grand Tree before looking over towards the outstretching part hanging on the side of the tree, partially out over the coast. Then he turns his gaze back down towards Miss Violet, who is casually walking towards the building he’s in.
+
+The Eight Star Merchant feels his skill beginning to slip a little as he breathes in a shaky breath, feeling worried about his contracted partner. But he just doubles down on the skill, crushing the emotions again while beginning to leave the building, meeting up with Miss Violet at the entrance.
+
+“No issues,” she says, making him nod.
+
+And without another word, both of them begin walking down the street, heading towards the entrance of the capital.
+
+Because neither of them are involved with the Crimson Eternal’s escape plan.
+
+Aria
+
+Consciousness returns to me all at once, but I hold back from breathing despite the instinct to do so. Instead I make sure to keep my eyes closed without making a sound as I listen for anyone nearby.
+
+The only sounds I hear are that of what is most likely an Air Conditioning unit or two running. Or ten.
+
+There sounds like a lot.
+
+No footsteps, no door knobs turning, no knocks, and no voices.
+
+So I open my eyes to find myself still in the body bag as expected before I use soul energy to force my arm around towards the zipper. Then I unzip the thing and step out, stretching a little as I take in my surroundings. While, of course, putting my clothes – a uniform that the delegates from the world connected to the Sullivan Clan’s Gate known as Atlantis wear – back on from my storage ring. Because – while I don’t want to be caught – being caught almost naked would be even more embarrassing.
+
+Just as I expected, there’s no one in the room I’m in. Just a cold room with frosty air filling it and what looks to be a lot of enchantments.
+
+I quickly turn back to the body bag that is currently lying on a counter alongside a bunch of other body bags before grabbing a dummy from my storage ring and putting it inside the bag, zipping it up afterwards. Then I adjust the bag so that it looks the exact same as the others, making sure it doesn’t draw any attention.
+
+Part one of the plan was a success it seems. Now I just have to worry about how to get out of this room, how long I’ve been out, and how to climb the next three floors.
+
+The first problem isn’t a hard one to solve as when I reach the door I realize it’s not locked from the inside. Most likely only locked from the outside.
+
+I glance around the ceiling after reaching the door, just double checking for security cameras. Because while Rory said that the Sullivan Clan doesn’t have that technology, it doesn’t hurt to make sure. And after not finding any, I go ahead and kneel down next to the door while putting my ear next to the crack in it between the door and the wall.
+
+Unfortunately it’s a cold storage room with preservations cast on it. Which also makes it rather soundproof.
+
+So I don’t really hear much.
+
+But after several seconds, I do manage to hear what I think are footsteps.
+
+The footsteps slowly approach, not quite reaching the door, before leaving again.
+
+I wait for about a minute after that before slowly cracking the door open to look through. Then, when I don’t see anyone, I open the door fully and step out, quickly shutting it behind me and beginning to act like I’m supposed to be here as I walk in the direction of the closest stairwell.
+
+Although I can’t help but feel a touch awkward in this uniform as it’s not something I’m used to.
+
+The uniform itself is slender with a thin and sleek blue and gray jacket on over a blue top and light gray pants. But the top itself isn’t visible to anyone as it’s completely covered by the jacket which reaches down to my mid-thighs, with the pants using the same sleek material that the jacket uses. Well, completely covered with the exception of the sleeves. And the jacket also has a red band going around one sleeve, with two blue jewels. One on the right sleeve and one on the left.
+
+Shirogane himself described the material as being as smooth as a dolphin’s skin. That it’s made out of some sort of sea creature deep down in the oceans of Atlantis. Which is basically all of Atlantis. Seeing as it’s an ocean world just like Eternus. Just that it doesn’t have cities above the ocean but instead has them under the water.
+
+Anyways, the uniform feels a little stiff but also very thin at the same time. And it wasn’t really made for someone with a chest as big as mine, since apparently the average woman on Atlantis has a thinner and more modest figure. Just like the average person on Luk’tar is very short, both for men and women. With the women being a bit more voluptuous around the chest area than on Vortel.
+
+According to Shirogane and Rory though, I look perfectly fine in the uniform. That even though it’s very tight and uncomfortable, it at least looks good on me.
+
+I’m pretty sure that’s the enchantment on the uniform making it look like it fits perfectly. Even when it doesn’t.
+
+Like some sort of illusion is put over the area to make it go with a set default appearance rather than what it actually looks like on my body.
+
+They’re delegate uniforms after all. They need to look their best.
+
+I continue walking through the wooden tunnels of the giant tree, occasionally passing by rooms with some people working in them. But no one so much as even looks up as I pass by. And I haven’t run into anyone in the tunnels yet either.
+
+So I haven’t even run into a situation where I’ve needed to act yet.
+
+Guess they were right when they said there were fewer soldiers patrolling and roaming the tunnels now.
+
+I briefly pull out the map to look at it before quickly putting it into my storage ring again.
+
+This wing of the seventh floor is focused on processing the corpses and body parts. Taking what they can use from the dead flesh and then disposing of what they can’t use.
+
+The majority of the stuff here that I can see them working on are mana creature corpses and parts, with very, very few human corpses and parts here. Which in hindsight makes perfect sense. Considering that mana creatures are born from mana in the first place. So they’d be better for use in a living artifact.
+
+I continue casually walking through the tunnel for a while until I finally reach the stairwell.
+
+And find the first guards of the place.

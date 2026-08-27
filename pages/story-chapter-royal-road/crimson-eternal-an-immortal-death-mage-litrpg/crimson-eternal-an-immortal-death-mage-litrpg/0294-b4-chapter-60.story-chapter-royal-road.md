@@ -1,0 +1,117 @@
+---
+id: d1fa5e0e-7cd7-5afa-91dd-a6414efae1bf
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 60"
+slug: 0294-b4-chapter-60
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 294
+ownLength: 1408
+unit: words
+ownProgress: 1408
+publishedAt: 2025-08-02
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2487586/b4-chapter-60"
+royalRoadId: "2487586"
+markedReadAt: "2026-06-29T19:15:48.263Z"
+---
+
+Aria
+
+“We’re meeting Grandpa and Grandma?” Ruby asks as she and Ryan sit on my lap in my office at the Pale Mercenaries HQ. “Why?”
+
+I glance at her from the window before looking out the window again and answering, “Because the curse will be reaching its next dormant period tomorrow, and they want to see us.”
+
+Thankfully they never tried to ask if they could meet Ruby and Ryan away from me. Since that would technically be possible. After all, the curse is on me. Not them. So they can see them as much as they would want technically.
+
+It’s just that it would require me to leave the entire freaking solar system for them to be able to get close to them. And I’m not going that far away from the kids just to let my parents see them.
+
+I let out a sigh.
+
+“Whatevs,” Ruby says, making me glance at her for that use of slang that I’ve never heard her say before. But then I just give a mental shrug and look out the window again.
+
+Neither Ruby nor Ryan seem interested in meeting them. So I’m not really sure how this is going to go.
+
+At the end of the day though, I’ve had a hundred years to think about the whole ‘parents lied to me about being clones and are now different from what I remember’ thing. And by that, I mean I had almost a century to ignore it and not think about it before giving some very slight thought to it once in a blue moon.
+
+Regardless, I’ve come to the decision to at least give them a chance.
+
+I’ll just see what happens when it happens.
+
+It’s not that different from how I usually do things anyways. Just going with the flow and acting how I act when the situation comes up.
+
+More importantly, doing this means I don’t have to think about it.
+
+I give a firm nod at that thought, only to glance down and find Ruby and Ryan both asleep in my arms.
+
+A faint smile stretches across my face at the sight before I stand up and carefully bring them over to the couch. Then I equally carefully lie them down on the couch and walk back over to the window behind my desk. At which point I stare out at the capital city of Eternus.
+
+As it turns out, denying that royal’s use of death magic left a rather large impression on everyone in the universe. Since, while they knew I could do it thanks to the other horsemen doing it, most people didn’t expect it to be absolute or for it to actually work for death magic.
+
+After all, the other three horsemen govern types of magic that are far less commonly used. So most people didn’t really care that they had full control over access to those types of magic.
+
+But when death magic is governed by me alone, and they are at risk of me suddenly denying them ever using it again?
+
+Then it is a matter of great importance to the universe. One so great I have people going around trying to ingratiate themselves to me.
+
+Even some of the mages from the Arcadian Society are trying to get in my good graces online and by trying to butter me up in business messages and stuff. At least, according to some of the paperwork Little Blue made me go through this morning.
+
+Although the archmage wasn’t particularly happy about that.
+
+Actually, I’ve heard that she’s just about ready to declare war on me because of this recent development.
+
+Not sure how that’ll go, but I’ve also heard about her little oath. So I know she’s in a rather tough bind with all this.
+
+I purse my lips in thought about all of this, only for my terminal to suddenly buzz out of nowhere, making me look down at it. And what I see on it has my mouth parting open in silent shock.
+
+Excuse me, what?
+
+I stare at the message on my terminal. A universal message sent out to the entire universe by the creators of the terminal itself – a big company owned at the end of the day by a certain pharaoh – about something rather big.
+
+Huh.
+
+I look up to stare out the window again as I mutter to myself, “Guess that issue’s been solved.”
+
+The Archmage’s Tower
+
+Isabella clenches her fists as hard as she possibly can as she looks out over the edge of her tower. Just growing more and more upset with every passing second.
+
+Before she was always indecisive about the Horseman of Death. She wasn’t sure if she should go through with attacking her in the end because of everything that’s come about. Everything she’s heard about the girl, everything she’s seen, and everything she knows will happen if she goes through with it.
+
+She knows that if she attacks the Horseman of Death directly, she will be going to war with the Crimson Empire and the Rex Dynasty. But she also knows that she’ll be losing half of her built up mana and be experiencing yet another period of time where she’ll be forced to fight to keep her position as archmage.
+
+And at this rate she’s not sure which one is worse.
+
+But after hearing about the girl’s denying of death magic to a royal of an Alpha Tier world and how some of her own people are trying to join up with her?
+
+She can’t hold herself back anymore.
+
+Isabella lets out a sigh and unclenches her fist. Then she raises a hand to cast a spell to link her mind to her highest ranking mage within her ranks in preparation to tell her about her plans.
+
+Her plans to finally declare war on and attack the Horseman of Death.
+
+But mere moments before she’s about to go through with it, she instead gets a call from the Tower Master of the Crimson Tower, making her eyes widen. So she reaches out to the spell circle representing the call and accepts the mental link from the Tower Master.
+
+And the very first word the Tower Master says sends a chill down her spine.
+
+“Famine has declared war on the Arcadian Society once again, Archmage,” the Crimson Tower Master – ruler of the Crimson Tower created solely to combat Horsemen threats to the Society – declares in his gravelly voice without a hint of emotion in it. “Prepare for an assault in space. We of the Crimson Tower will combat his ground forces.”
+
+Isabella stands frozen in terror at the thought of facing Famine again.
+
+Famine is the only Horseman of the Apocalypse Isabella genuinely fears even if she always puts up a brave front in front of others.
+
+As if on cue, a large portal made out of famine energy suddenly appears in front of her, making Isabella hurriedly back away before tripping and landing on her rear on the ground. Then Famine floats through it while wearing a full set of pitch black armor and with a wide grin on his face. One that grows even wider when he sees her on the ground in front of him.
+
+The man laughs at her and says, “Now you’re starting to learn! Stay on the ground where you belong little girl, but only after I finish my little game, alright?”
+
+Isabella finally manages to regain her composure as she begins to teleport away from him. Just for the man to begin devouring the energy of everyone nearby along with the spell circle she just made. Then he appears in front of her and grabs her by the throat, bringing her face up close to his own.
+
+“Let’s play, little girl,” Famine whispers into her ear before turning around and tossing her through the portal. After which she finds herself landing on a barren wasteland of a planet.
+
+She immediately teleports far away from the portal as he steps out of it and finally begins preparing her own spells and defenses for him.
+
+Fucking dammmnniiiiiittt!!!!! I will not be defeated by him again!!!
+
+Isabella clenches her teeth and begins using every trick she’s figured out over the years to deal with him.
+
+Meanwhile she receives word of the attack on the Society’s planets.
+
+Officially marking the start of the next war between the Dread Empire and the Arcadian Society.

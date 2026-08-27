@@ -1,0 +1,133 @@
+---
+id: 544a80a2-666a-5fec-b9df-6931b889218c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,355 - Naruk"
+slug: 0031-chapter-1355-naruk
+partOf: defiance-of-the-fall
+position: 31
+ownLength: 3321
+unit: words
+publishedAt: 2025-09-18
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2610765/chapter-1355-naruk"
+royalRoadId: "2610765"
+---
+
+Zac’s intuition and Tavza’s understanding of ancient arrays led them straight toward the inner sanctum. With the jammer deactivated, the changes to history had finally grown significant enough that Zac could sense a drain on the memory domain’s Faith Energy. However, the loss was insignificant, hinting at immense reserves to accommodate higher-grade existences.
+
+The hidden underground complex was reinforced with high-grade materials, but they could feel how the battle aboveground was growing more desperate. This was expected, considering their actions had throttled the energy going to the shelter’s suppressive runes.
+
+Beyond the constant tremors, the labyrinth was isolated from the war. There were no guards blocking their approach and no barriers to slow them down. A few nightmares spontaneously appeared because of the overwhelming amount of Hope Energy. A swing or two of [Evolutionary Edge] dealt with them as easily as any normal beast.
+
+They reached the central chamber within a minute. Not even the Pathfinder’s most important place was guarded, nor were there any reinforced doors in their way. Zac wasn’t the least bit happy that things went so smoothly. If something seemed too good to be true, it usually was. His grip on [Verun’s Bite] tightened as they stepped inside.
+
+Zac’s attention was drawn to the huge realmgate waiting at the center. It looked like a well filled with gasoline, its oily patina conveying the myriad Daos that went into the so-called Hope Energy. Countless engraved runes thrumming with Sacrificial Energy kept the gate stable and, to some degree, mitigated the overwhelming Dao coming from the other side.
+
+The carefully arranged scene was very different from the unfettered golden sphere inside the Joyful Gardens, but they shared a critical attribute. They were both realmgates that didn’t rely on the Dao of Space, which coincided with Zac’s suspicions about his enemy. Mox couldn’t use the Void of Space as a hiding spot—it was too easy to enter. The dimensional barriers were much sturdier before the System’s rearrangement of space, but even Zac could open Spatial Tears in the right circumstances.
+
+Only the Voids of incomplete Dao Peaks were completely safe since those spaces were blind spots for both the Heavens and ancient cultivators. That included the imperfection in the Dao of Life that Zac discovered last time. There was undoubtedly a similar dugout inside this realmgate. Zac didn’t even need to enter a state of epiphany to sense the thread of malice leading down the well.
+
+The only thing standing in Zac’s way was the scholarly man standing by the gate, completely unbothered by its unnatural aura. Zac didn’t need to recognize him to know it was Naruk, the Pathfinders’ chief researcher and undoubtedly an agent of Mox. Seeing him in person dispelled any lingering doubts that the researcher was an unwitting accomplice looking for a way out of the Mousetrap.
+
+Naruk had completely fused with Hope Energy to the point Zac couldn’t sense any other spirituality. More damning was the grimoire in his hand. It had the same macabre design as the tome Zac encountered when battling Ching’Ru. The main difference was that its pages had empty eye sockets instead of gaping mouths. The grimoire dripped with blood, and Zac blanched upon realizing a page had just been added.
+
+“The Divine One has awaited your return, Voidwalker,” Naruk said as he slowly turned to face them.
+
+Naruk’s face was a bloody mess of bone, sinew, and pulsating flesh. He’d actually ripped his face off and added it to his grimoire, using his blood to scribble the indecipherable runes on the page. His eyes must have been sacrificed since they were neither inside the book nor left on his face. They had been replaced by near-perfect replicas of the realmgate behind him.
+
+His gaze held boundless madness and terror, turning a glance into an attack that would shatter the minds of weaker Hegemons. Zac’s vision swam and filled with twisted creatures. He had to enter his Void State and actively channel [Soul Guardian] to extract himself. His vision stabilized, but the creatures remained. They were nightmares turned real through the power of Naruk’s belief, possibly extracted from some dark corner of Zac’s mind.
+
+None emitted the weight of an inner world, but three emanated a pressure that eclipsed a conventional Pseudo-Monarch. The others were all at the peak of Hegemony. It was no wonder that Naruk didn’t keep any bodyguards by his side. For one, he was evidently expecting Zac’s arrival. Secondly, he was powerful enough to protect himself.
+
+The lineup of nightmares could pose a threat to most Early Monarchs, not including the danger coming from Naruk himself. Zac had no idea what abilities he and the grimoire wielded. Worse, he was standing right next to the realmgate. There was a decent chance he could draw on its power, maybe even call for backup if things started to look bad.
+
+Boundless Death erupted before Zac could decide on the best approach. Zac turned to a barely recognizable Tavza. She’d replaced high-quality but simple robes with a pitch-black voluminous dress. Dozens of layers flowed for a dozen meters like a gothic gown, their movements resembling deathly waves crashing against the shores.
+
+It had to be a War Regalia made exclusively with materials brought out of the Abyssal Lake. Its profound spirituality made his [Ossuary Bulwark] seem like a piece of garbage, and Tavza had donned at least six accessories of similar quality. Even a pig would turn into a powerhouse with such equipment, and Tavza was no common cultivator.
+
+Her face was covered in the archaic patterns of the Azol Branch like a second set of pathways. Their Abyssal Death felt bottomless, purer than the Abyssal regalia she wore. Zac also spotted a sparse web of thin golden lines hidden among the black. Tavza didn’t have them when Zac saw her Bloodline Tattoos by the Abyssal Pond, and they were undoubtedly connected to the events during his Atavism.
+
+Zac couldn’t tell if they came from the Creation Heart bleeding through or if Tavza’s bloodline had actually been modified by her brush with Chaos. Either way, the golden lines didn’t seem to weaken her growing momentum. This was the first time Zac had seen Tavza at her strongest.
+
+There were no recordings of her fighting during the Intersector War, and the few times she’d acted in his presence, it was through her bloodline or simple manipulation of Miasma. Zac didn’t even know which Daos she practiced. Her low-key personality had subconsciously given Zac the impression that Tavza was somewhat of a non-combat cultivator, like Vai or Boje Zethaya.
+
+Tavza’s current appearance swept that misconception away. Her burgeoning momentum was not the least inferior to Kator with all Miracle Bones and his White Sky Domain active. Her aura even eclipsed the Izh’Rak Reaver’s when three instruments appeared behind her. The two Eonic Seeds might have been roughly equal before the trial, but Tavza had completed her Planeswalker Seal and encountered her own opportunities during the trial.
+
+Zac guessed the constructs were Supreme-quality Array Disks rather than part of a skill. They looked a bit like brooches, with massive crystals encased in a thin band of unfamiliar metals. Both metals and crystals held the unmistakable aura of the Four Laws, surpassing any of the Law-imbued treasures Zac had encountered.
+
+Each crystal also emitted a distinct aura, which finally shed light on Tavza’s path. The An’Azol descendant possessed three Earthly Daos, where the first was a combination of the Peak of the Grand Tapestry and Death. The second was a fusion of Death and Water, no doubt influenced by the Abyssal Lake. The last was Pure Death, and it was this Dao that held the Abyssal Oblivion Zac had sensed over the past day.
+
+All three Daos were Middle Earthly Daos, though the one with Pure Death had a stronger presence. Tavza was either at the cusp of breaking through or augmented the Dao through other means. That would still put her a notch below Kaltosa Lu with his three Middle and one Late Earthly Dao, but Zac was still awed by the accomplishment.
+
+Tavza was only the second person Zac knew who used the same Dao in three different Earthly Daos. The other was Iz Tayn with her multiple aspects of Fire. Such a level of specialization had extreme requirements on one’s comprehension and affinity. It wasn’t as simple as needing three times the number of insights; the difficulty was exponentially higher.
+
+An Earthly Dao was a distinct, cohesive system of understanding. Having three based on Death essentially required levels of comprehension exceeding the scope of Hegemony. Zac couldn’t imagine forming a second Earthly Dao related to any of his three Daos, let alone a third. Catheya was no different. She had two Dao Branches of Ice, one mixed meaning and another pure, but she still planned on fusing all her insights of Ice into a single Earthly Dao.
+
+In exchange for the greater difficulty, Tavza’s level of specialization undeniably came with certain advantages. Her whole path was unified through a single Dao, creating huge synergies. It was like the stacking effect of Zac’s Titles that had pushed his Strength to almost ridiculous levels. Zac was far behind in terms of synergizing his insights. He didn’t have a single attack that utilized all three of his Earthly Daos. Even if he did, combining three Early Earthly Daos of different directions couldn’t match the depth of a Middle Earthly Dao. He’d be fighting quality with quantity.
+
+That wasn’t necessarily true in Tavza’s case. Zac suspected her specialization naturally awarded her a boost similar to [Spiritual Void]. She was also an Array Master, so her Dao Arrays were undoubtedly far superior to his Dao Molds. Adding Tavza’s Hidden Nodes, Bloodline, and other abilities that further boosted Daos, she might be able to exhibit strength approaching a Peak Earthly Dao.
+
+It was no wonder Tavza remained completely calm as she looked at Naruk and his army. Even if she couldn’t win, she should be able to safely retreat after keeping him occupied for a while.
+
+“Go, rewrite history,” Tavza said as a swirl of Abyssal Death surrounded him.
+
+Different from her Abyssal Mark, this ability was solely meant to isolate hostile energies. The Hope Energy’s corroding influence was reduced by two-thirds, and the realmgate no longer made his head spin. It wouldn’t last long, but every bit counted.
+
+“I’ll leave this to you,” Zac nodded and flashed forward.
+
+An ocean of Abyssal waters flooded the inner sanctum before Naruk could react. It swept away all the nightmares, and Zac snuck into the realmgate unopposed. Tavza watched as Zac disappeared into the realmgate before turning back to her target. He was clearly unbothered that his target had slipped through the net, and he made no efforts to remedy the mistake.
+
+“Everything is within the Divine One’s calculations. She has been looking forward to the reunion, and I dare not interfere. Now, it’s time to reap my reward. I can feel her mark on you. You don’t deserve her gift,” Naruk said, and the room shuddered from his inhuman hunger.
+
+Tavza was slightly annoyed at realizing there were remaining loopholes, but she quickly calmed down. Wasn’t this an opportunity to collect data and remedy the problem? The Seals of Death’s Echoes and Still Oceans grew translucent, exposing the grimoires sealed within. Different from the grimoire in Naruk’s hand, they were covered in drawn patterns.
+
+The ink was one of a kind, even containing a drop of her Ancestor’s blood. Despite being vastly diluted, it held a piece of the Abyssal Shore’s purest Bloodline. Not even the Mox’s grimoires were immune to their influence, and the tomes were already halfway incorporated by the Abyss.
+
+“This is Apostasy!” Naruk wheezed, his face twisting with rage as his minions rushed toward her.
+
+Tavza saw no point in answering someone whose part in history was about to conclude. She connected the [Godbinder Array] to her Bloodline’s vast repository of Miasma. The array came alive, and countless runes appeared across the Creation Heart. It furiously thumped in resistance, unwittingly providing the energy Tavza needed.
+
+The final ingredient was forcibly extracted by the two grimoires, and Tavza suddenly found herself back at that lofty height. It was as if time had stopped, but Tavza knew her state wouldn’t last long. She pointed forward, and dozens of metallic streaks shot forth. The corrupted summons slowed down in horror upon seeing their approach, but the needles were too fast.
+
+They unerringly entered the foreheads of the nightmares, and even the Pseudo C-grade avatars started to collapse. It was a matter of course. Few understood the dangers of Chaos as well as she did, and these impure creatures were the perfect target. Their complex composition quickly unraveled as order collapsed.
+
+Tavza still felt some regret, and not because Naruk avoided sharing the same fate as his minions. Her gains over the past months were unimaginable, but seeing Zachary Atwood again had cast a shadow over her accomplishment. Discovering the Void’s potential as a bridge between Life and Death, and consequently a shortcut to the Dao of Chaos, couldn’t explain the mysteries surrounding that man.
+
+If anything, Tavza’s confusion had only deepened. She had to pay an exorbitant price to extract Void from Mox’s Grimoires, and she could already feel the backlash from her attack. Meanwhile, Zachary Atwood appeared capable of drawing from the Void’s mysterious forces at will, accomplishing things Tavza couldn’t even begin to explain.
+
+Agonizing pangs spread through Tavza’s body, and her mind was filled with madness. She drowned the impulses telling her to capture Zac and extract his secrets. Tavza was willing to sacrifice much for the chance to explore the Peak of Chaos, but not her people’s future.
+
+Her ancestor was right. Zac, or Arcaz, was the much-needed wind of change, a chance to overturn their state of decline. He might even be the one to realize the dream of the progenitors. Tavza had a chance to be part of such a critical time in history, and she wouldn’t ruin it with short-sighted greed. Her gaze turned to the grimoire in Naruk’s hands—the next clue to finding a stable model of Chaos.
+
+----------
+
+The storm rising from the depths of the Lower Planes left Zac no room to worry about Tavza, Ogras, or the fate of the Rosemore Sect. Intense madness threatened to overwhelm his mind while rampaging energies sought to assimilate his body into the chaotic mix. Tavza’s curtain of True Abyssal Death was rapidly running out of energy.
+
+Zac delved deeper, following the thread of malice. He hadn’t reached the true threshold between realms. When Tavza’s protection expired, Zac switched to having [Void Zone]. It was even more effective, but the drain was immense. Thankfully, it didn’t take Zac long to reach his destination. This time, Zac was careful not to look at the world waiting on the other side. He couldn’t afford to attract the attention of whatever lurked on the other side.
+
+Instead, Zac put his all into finding the hidden fold between realities. The task proved more difficult than the last time, when the gate was made of Pure Life. However, it wasn’t insurmountable. [Void Zone] exerted some pressure on the passage, and Hope Energy was a mottled mix of all seventeen Dao Peaks.
+
+Zac followed the sense of danger and lashed out any time with [Void Mountain]’s Dao-annihilating sigil whenever he found an imperfection. It only took four tries before a familiar gash opened, exposing Mox’s unique flavor of evil. Zac had already taken out Roan’s Fertile Earth Token. It remained inert and unresponsive to Zac’s calls, forcing him to keep going.
+
+He rushed into the closing passage before it was too late, and [Verun’s Bite] was replaced by a meter-long copper spike. It was the Law-imbued metal he’d excavated during his travels. Zac quickly put it into the tear, using the priceless treasure as a doorstopper. The metal was slowly being eroded, but it actually managed to hold the path open.
+
+Zac believed the route needed to be open for any reinforcements to find the hidden realm, and he’d theorized that the Four Laws weren’t affected by the imperfections in the Dao Peaks. If the idea didn’t pan out, Zac was ready to use the [Fuxi Mountain Gate] or parts of his body to keep the path open.
+
+The hidden realm was significantly larger than Ching’Ru’s hideout, and it wasn’t empty. There was a large platform in the center, and Zac immediately recognized the First People’s handiwork. Like the [Fuxi Mountain Gate], someone had repurposed a piece of the First People’s world-sized disk to serve as a foundation that could withstand the Void.
+
+A ten-meter statue depicting a vaguely humanoid creature with eight arms was placed upon it. It looked something like an insectoid queen mixed with a primordial devil, veritably reeking of malice. Zac didn’t need to cross-reference [Ancients] to know it was a depiction of Mox. The statue embodied her evil perfectly, and his sense of danger pointed straight at it.
+
+A thread extended from each of her hands. Spheres made from pure Mental Energy were connected at the other end, and looking at them filled Zac’s mind with the wails of countless souls. Millions of spirits had to be trapped inside the containers. It wasn’t hard to guess where they came from. The spheres were the price of hope. Every cultivator who’d accepted Mox’s tainted gift of Hope Energy had a sliver of their souls taken without noticing.
+
+A spectral entity stood before one of the spheres, looking like a gardener tending his crop. Its eight arms made it look like a smaller version of the statue, though only four of them held soul-trapping spheres. Zac could tell it wasn’t actually Mox. Its aura was only a shallow copy of the bottomless evil coming from the statue, and its spheres were clearly just borrowing energy from the statue. Zac also recognized the spirit’s face.
+
+It was Naruk, once more appearing to get in his way.
+
+A clone? No, he completely lacked a physical form like the corrupted Garden Spirit. Had Naruk split his soul to create this avatar, similar to the method in [Thousand Lights Chapter]? If he had, he must’ve had a tremendously powerful soul before. It actually looked like he’d completely separated soul and body, which would explain why Zac couldn’t sense any spirituality on Naruk’s body outside.
+
+The scene made it clear Zac had come to the right place, but it didn’t stop his heart from beating like a drum. His Danger Sense was approaching levels he’d never experienced before, and there was still no sign of Roan. Was the Empire actually expecting him to deal with the statue himself? Zac wasn’t even sure if he could get close without his mind breaking, and there was the spirit to worry about. Naruk’s soul lacked the pressure of an Inner World, but he was clearly much stronger than Ching’Ru.
+
+Zac wasn’t given the time to figure things out. A monstrous will descended on the hidden realm, and the statue turned its head toward him. Zac couldn’t move, locked in place by an invisible force far beyond his understanding. The feeling was just like the brief moments when Sendor’s true personality peeked through his guise of a kindly senior.
+
+The statue held the lofty coldness born from the vast, unfathomable power of someone at the top of the cosmic pyramid. Its gaze also contained a definite hunger, confirming Mox wasn’t only looking to deal with a threat to her plans. She wanted to devour him for his bloodline, and Zac’s mind almost shattered from her undivided attention.
+
+Zac could even hear the sound of something breaking, and his horror mounted upon realizing it wasn’t his soul. Roan’s token had been destroyed beyond salvation, its Imperial Faith replaced with the promise of suffering.

@@ -1,0 +1,123 @@
+---
+id: 663b4395-69c0-5c11-8f40-fc0e082421bf
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 65"
+slug: 0138-b2-chapter-65
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 138
+ownLength: 1525
+unit: words
+ownProgress: 1525
+publishedAt: 2024-04-02
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1577863/b2-chapter-65"
+royalRoadId: "1577863"
+markedReadAt: "2026-06-29T19:10:24.477Z"
+---
+
+AriaOne month later
+
+I place my hands on my hips with a grin as I stand on a cliff near the fortress controlled by the Frost Clan. One filled with a bunch of blue haired people armed with guns as they fire one bullet after another at my lovely little Lesser Death Spirits that are currently swarming the fortress from all sides.
+
+The Frost Clan vanguard – which is what they call their rank and file soldiers – are all armed in some rather hot outfits despite the two suns hanging high above us. Which I still question to this day. It’s all pale blue and white with fur lining parts of it, full pants, long sleeved shirts, jackets, and fur armor beneath it all.
+
+Honestly makes me wonder if they’re entirely sane.
+
+But their sanity isn’t my problem, so it’s fine. Probably.
+
+I mean, sure, I don’t particularly get overheated or anything from these suns, but even I know it’s hot. Despite the fact that the heat doesn’t build up in my body or anything. A very handy feature that Hannah’s been insanely jealous of over the past month.
+
+Shirogane’s just been wearing some cooling outfit without a care though.
+
+Anyways, I’ve found a neat little trick over the past month. I can just kinda sit here far away while draining the life force from the vanguard in the fortress I’m assaulting to refill the soul energy I expend on my lovely little Death Spirits.
+
+Kind of makes for an infinite resource so long as I have a lot of these vanguard here. And since there are about ten thousand in this fortress, I have quite the supply.
+
+Although rumors have gone around the planet about the sudden aging of anyone who fights with me and surviving. Something about them growing visibly older and a couple really bad ones even dying a few weeks later from old age.
+
+I completely plead innocent on that whenever asked though. Because I am totally innocent. Nothing happening here.
+
+Besides. That’s only happened to the ones who kept me fighting them for too long before they retreated.
+
+Not my fault they wanted to drag out the battle instead of retreat.
+
+I continue watching from my lovely cliff as my Lesser Death Spirits fight against the vanguard, not caring even an ounce for the gunfire pelting them. Mostly just focusing on blowing up the walls to get inside.
+
+The only issue I’ve been unable to clean up is the one where I can only give each Lesser Death Spirit a single explosive. Because if they blow that up in a suicide bomb run it tends to blow up any others on their perso- spirit. On their spirit. For obvious reasons.
+
+Ake was rather surprised when I met her quota within the first few weeks of arriving on the planet. And at first she was quite happy. Until she realized just how many of them I was killing and no doubt started to wonder about how much she’d owe me.
+
+Unfortunately I haven’t figured out how to blow up an island yet though.
+
+But I’m getting close to figuring it out after making a rather nice purchase – using Ake’s money, of course – just recently.
+
+A nuke. Except this one is without any radioactivity.
+
+I don’t know how expensive it was though, and she just kinda threw the money at me without asking what it was. Something about her growing so used to me asking for money for explosives that she’s grown numb to it.
+
+So much for the once a month resupply.
+
+My thoughts blank out when my consciousness darkens for a moment, only to return who knows how long later to find myself lying on my back. And after a brief glance downwards, I notice that the cliff I was standing on is kinda missing. And in its place is just a crater of ice.
+
+Huh.
+
+I raise my head to look at the man who is currently glaring at me while floating in the sky with bits of ice attached to his outfit. And just from a glance I can recognize him as one of the Clan Chiefs of the Frost Clan. The strongest people in their Clan other than their Clan Leader.
+
+“Sorry, no luck today,” I tell him with a nod while rising to a sitting position. “Better luck next time?”
+
+His eye twitches, making me wonder what’s up with that on this planet. Although I guess he’s from another planet, not this one.
+
+The people on this planet are very friendly and blunt, but when something irritates them and they feel they can’t say it, I’ve noticed that their eyes twitch a lot.
+
+Especially Ake. It’s a regular thing for her.
+
+“Immortal of Crimson, vhy muhst yuw constantly cause us trouble?” Clan Chief Nikolai Ivanovich Karpov. “All yuw muhst do is ahsk and yuw’ll have pahssage through our vorld. So vhy?”
+
+This whole spiel again?
+
+These Frost Clan people really want me to leave their war alone and have been asking me nonstop.
+
+My answer doesn’t change though as I climb to my feet while telling him, “Sorry pal, but I have a contract that I can’t break.” Then I give him a little salute and add, “I’ll be getting out of your hair in another six months. Just hang on till then, kay?”
+
+He opens his mouth to speak, but I don’t give him the chance as I pull out the remote from my pocket and activate the explosives I set across the fortress. And while he’s turning to look at the fortress that has now turned into a large plume of flames and smoke, I beat a hasty retreat.
+
+Because the last time I was faced with this particular Clan Chief, I was stuck frozen in an icicle for about two days while his soldiers all just kinda stayed around me using their own varying types of ice magic to keep me in place. And I’m sure they’ll figure out something else this time to keep me stuck for longer now that I adapted to them.
+
+So I’d rather avoid that happening again. It’s not a pleasant experience not being able to move while inside a block of ice for days.
+
+Then again, at least he’s not as strong as Aisling was back then. She probably could’ve kept me frozen for even longer if she had her own subordinates with ice magic and was actually trying to keep me frozen and didn’t just use one single attack against me.
+
+“Immortal!” I quickly hear mister Freeze Man – my lovely nickname for him – shout as I run, my Lesser Death Spirits appearing around me to blow themselves up and make a smokescreen. “Cahpture her!”
+
+Amidst the smoke though, I find someone who is rather sparkly reaching for me while shouting, “No yuw don’t!”
+
+“Yes I do?” I answer, half in question, half in statement as I pull a pin on a grenade I’m carrying, blowing it up and sending me flying far away from sparkly man.
+
+And when another tries to grab me then, I pull the same trick. Over. And over. Again.
+
+Makes for good transportation. All it costs is a very brief flash of unawareness when I’m blown up. Maybe a twinge of pain.
+
+Anyways, through this perfectly safe strategy, I manage to make it to the edge of the island where I just kinda jump off before landing on the airship I left down there. An airship I immediately have flying under the island and away.
+
+Ah, that was another fruitful trip. And another fail on their part to capture me.
+
+Maybe I should take a short break while here. Spend like a month just sightseeing or something.
+
+I was never ordered to fight all the time, and I’ve long since passed my quota.
+
+Plus those vanguard are starting to look rather pitiful. Especially since the level of tech in this world and theirs is below even Vortel.
+
+Which doesn’t really match up well with the tech I’m using or the stuff I’m buying from Shirogane to supply. Or I guess having Ake buy from him since I’m not paying a single coin for this.
+
+Then there’s the fact that their levels are a lot lower than the Clans in Luk’tar’s average level.
+
+It almost feels like I’m bullying them sometimes. And I don’t like that feeling.
+
+I slide down the side of the balloon above the ship before dropping down and landing on a barrier that appears beneath me. Then I jump onto the ship while stretching my arms.
+
+“Welcome back,” Hannah says as I turn to find her stepping out of the airship’s bridge. Meanwhile the ship itself quickly begins speeding away so that the Clan Chief and his subordinates can’t catch up to us.
+
+“I think,” I tell her while lowering my arms and putting them on my hips. “I think I might take a short little vaca for the next month.”
+
+She looks surprised for a second before smiling and saying, “Sounds good.”
+
+Then I can test that radiation-free nuke when I come back.

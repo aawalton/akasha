@@ -1,0 +1,217 @@
+---
+id: e9cf1a49-167b-58e9-b42e-80cc815a0d4b
+page-type-slug: story-chapter-royal-road
+title: "235: Worrying"
+slug: 0235-235-worrying
+partOf: delve
+position: 235
+ownLength: 3324
+unit: words
+publishedAt: 2023-06-25
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1257097/235-worrying"
+royalRoadId: "1257097"
+---
+
+Thunder cracked like a whip, and Rain’s sight returned. Not even the slightest charge remained in the air from the teleporter’s Arcane lightning, but his eyes were nevertheless assaulted by a riot of color.
+
+First and foremost, he looked up, beholding a dome enchanted with an image of what was clearly meant to be Dystees. The god’s eyes blazed with pure white fury, beams of holy fire lasering from them to carve into the surrounding sea of demons. Those were painted in purples and deep greens, evoking darkness, with eyes flaming a furious red. Despite the sense of motion from the smoky light, the scene stayed fixed. Like a cinemagraph or something.
+
+It was actually pretty badass.
+
+Rain inhaled, breaking free of the captivation and taking in a lungful of hot and surprisingly thin air. Around him, the tightly packed crowd murmured with excitement, many staring up at the ceiling like he’d just been.
+
+“See?” Ameliah beside him said. “Nothing to be worried about.”
+
+“Never claimed to be worried,” Rain said, looking at her. He was worried, of course—just not about the teleport. After being portaled to another universe wholesale, continuity of consciousness was way down on his list of existential dreads.
+
+Triggering an Essence Exchange so he’d have the marker for later, he dismissed the dialog with barely a glance before resuming his survey of the room.
+
+Progress Report
+
+marker_1: bloodmarsh [3061 Light 28 13:13]
+
+marker_2: city_of_lights [3061 Light 32 10:00]
+
+Span: 3.9 days
+
+Character
+
+Total Exp: 3,636,316 -> 5,436,316 (+1,800,000)
+
+↳Mana Use: 1,800,000
+
+Skills
+
+Prismatic Intent: +36,558 exp, 2 -> 9 (+7)
+
+Anchor Aura: +90,900 exp, 7 -> 9 (+2)
+
+They weren’t trying to hide their status as adventurers, as doing so would have meant taking off their armor and losing its protection against Divination. They were trying to hide who they were, specifically, and to that end, they had removed their helmets and concealed Tallheart’s distinctive metalwork—not with cloaks, which would have stood out in the heat, but by mummifying themselves with green and brown strips of cloth in the style of Sadiiri mercenaries. In a world without TMZ, the chance of anyone recognizing their faces was vanishingly small, and Rain’s mysteriously changed eye color had little to do with it. Detection would have already alerted him if anyone he’d ever met had been in range. It hadn’t.
+
+Still, he wasn’t able to shake the feeling that someone was watching them.
+
+Probably someone is—if only to figure out what kind of magic I’m using. Good luck with that.
+
+Half of the transit group from Dennoval were Xiugaaraan natives, wearing flowing robes trimmed with neon light, like something out of Tron. There were no restrictions on magic use here, for obvious reasons. The other half were either merchants or tourists, some dressed plainly, and some wearing flamboyant outfits no less eye-grabbing for not being enchanted. Here and there, other adventurers stood out like cut gems in a bowl of glass beads. Not by their dress, but by their souls. While the Xiugaaraans were unilaterally awakened, they were soft, for lack of a better word. It wasn’t a problem of levels. Even the Entente guards overseeing the circus from the platform’s edge—some of them silver—felt like children.
+
+“Clearing be of the station in day!” said a booming voice in Zeelada. Despite the volume, the words were lyrical and flowing, the entire sentence coming together in a rhyme. Rain was sure he’d bungled the translation.
+
+The natives were quickest to move, those at the edge practically leaping from the crystalline disk to dart down corridors dancing with scenes painted in light. There was no such thing as customs or security, not in a place where the average citizen could punch down a tree. The Entente presence was simply a show of force—reminding foreigners that the city would not suffer the meddling of outsiders, and reminding locals that inter-house squabbling was to be conducted elsewhere. Like many places, the city’s justice system boiled down to ‘fuck around and find out’.
+
+With the crowd thinning, Rain got a better look at the soldiers themselves. The Entente uniforms were of crisp, bleached linen, trimmed with the purest white light. Even their hair was as pale as snow.
+
+“How’s the air?” Ameliah asked, distracting him by laying a hand on his forearm.
+
+“Thin,” Rain replied. “Too many people breathing it.”
+
+“That’s just the elevation, lad,” said the elderly unawakened merchant jammed beside them, grappling with a crate of salted fish jerky—odorless thanks to Purify. “City’s on a plateau, though you wouldn’t guess it from the trees.”
+
+“Ah,” Rain replied, though Ameliah hadn’t really been asking about the air. As he’d feared, there wasn’t much free essence to be had with this many awakened around. With all the trees he’d unlocked in the past few days, he felt like he was starving. They’d need to descend quickly. At a guess, it was rank five in this particular spot, but his ramscoops were barely doing better than they’d been in Dennoval.
+
+“First time in the city?” the merchant asked, oblivious to Rain’s idle calculations.
+
+“Been a while,” Ameliah replied politely, taking a step forward as a gap opened, then clicking her tongue as she was cut off by a man hairy enough to be part yak.
+
+“Guild, are you?” the merchant asked. “Here for the auction?”
+
+“The delving,” Rain said, seeing no reason to lie. The nosy merchant was unawakened, but clearly unfazed at being surrounded by leveled individuals. Like the rest, he was giving him and Ameliah space, but simply as one gave space to a large piece of machinery to avoid being accidentally crushed. It was kind of refreshing, really.
+
+“How about you?” Ameliah asked, though she sounded distracted.
+
+“Me?” The man laughed, sounding surprised. “No, I take it back. No way you’re Guilders. Far too polite. No Guilder’d ask after an old mule like Egust. See that one?” He nodded toward one of the other adventurers through the crowd. “That’s more the style.”
+
+“Mmm,” Rain said, smiling. The muscle-bound meatball of a Warrior wasn’t even trying to go with the flow, the crowd encouraged to part before him by the implausibly large sword balanced against his chest.
+
+“Jus’ so you know,” the merchant said, nodding to their cloth wrappings. “Green means Baffalon. Not a good idea, wearing one shade, even if it’s jus’ fabric. The brown helps, but you should break it up even more. Unless Baffalon hired you, that is. Elsewise, people might get the wrong idea. I know a fellow who sells all manner of cloth. If you help me carry some of these to my buyer, I can show you.”
+
+“We’ll be fine,” Ameliah said tightly. “Thanks for the tip, but we don’t have time for sidequests.”
+
+Keying into her tone, Rain narrowed his eyes.
+
+“Guilders, after all,” Egust said with a chuckle. “Porter!” he yelled in Zeelada, abruptly throwing up an arm and waving over the thinning press. “Need of aid of porter here in day!”
+
+“What’s with you?” Rain asked, lowering his voice as he turned to look at Ameliah. “Weren’t you the one telling me there was nothing to worry about?”
+
+“He’s too ordinary,” Ameliah whispered back, so low he struggled to hear her. She beckoned him closer, and he leaned in as she continued conspiratorially. “I don’t trust it. You don’t know this city like I do. It’s full of snakes and schemes.”
+
+Rain raised an eyebrow, glancing back at the merchant. He did another survey of the man’s soul, but it was entirely nondescript. Utterly ordinary. The man had been standing on the platform in Dennoval before they’d even got there...
+
+And yet...
+
+“Your face!” Ameliah laughed, punching him in the shoulder. “Come on.” She grabbed his hand, tugging him off toward one of the tunnels through the thinning crowd.
+
+“Hey,” Rain protested, his eyes dragged away from the merchant as he stumbled after her.
+
+“I seriously can’t believe you fell for that,” Ameliah said, forcing her way through—though much more politely than the meatball. “Being alert is fine, but don’t go all paranoid on me.”
+
+She released him, but he followed all the same, not wanting to be left behind. Before long, she had them off the platform, then moving with the flow down one of the tunnels, the arching deepstone painted with yet more religious imagery. And then they were out.
+
+“Wha...”
+
+Rain’s jaw dropped.
+
+Hundreds of towers reached for the sun, erupting from the verdant sea of jungle. The buildings were stabilized Deepstone, as were the narrow and multitudinous bridges arching between them, all of it outlined in a blaze of colors. Some of the closer ones were warded, in range of Detection, but with insides largely immune to the spell. Neighborhoods and zones made themselves apparent, each with a flowing theme that clashed along the borders. The blue of Lomaris battled against the blazing crimson of Surone. The green of Baffalon at the edges of the city blended seamlessly outward into the trees but found itself in conflict along the inner ring. Golden spires blazed like bastions of fire in the east. That would be House Dystolle.
+
+And that was just the start. There was the white of the Entente, plus pinks and fuchsias and teals—colors of minor houses, accenting those of the big four. The Guild spire was easily recognizable, crowned by an explosion of orange lava, motes of it raining down on the surrounding towers. That had been done in honor of Burrik the Volcano, a tradition the Illuminator houses had started long before the current Guildmaster had—
+
+Rain gasped, not in awe this time, but in horror. Not all of the light he was seeing was from the enchantments. The heat he’d been feeling this whole time wasn’t just from the jungle air.
+
+How is he that strong!?
+
+Feeling blindly for Ameliah’s hand, Rain slowly turned, picking out the subtle emanations of no less than three other massively powerful souls across the city—subtle only because their reach extended everywhere.
+
+“Dear?” Ameliah asked, her voice turning serious as his hand found hers. Despite just having teased him about paranoia, she was no fool. She couldn’t see what he was seeing, probably, but after all her practice, she was more than capable of picking up his emotions.
+
+How? HOW!?
+
+The thinness of the ambient essence was suddenly making a lot more sense.
+
+“We need to get underground,” Rain said, pulling her forward.
+
+He was sure they hadn’t been noticed. How likely would it be for a Leviathan to notice an ant? The gulf likely wasn’t that extreme—it wasn’t like he’d ever seen a Leviathan to compare—but the Warden’s soul had felt nothing like that. Neither had those of the Citizens or the other Goldplates he’d encountered.
+
+Burrik’s one, but who are the others? House leaders? Kev?
+
+No, not Kev. He wouldn’t be here, would he?
+
+Filth, he’s supposed to be even stronger!
+
+[Filth?!!] Dozer asked with great excitement, appearing with a pop.
+
+“Less than ten minutes,” Ameliah said, freeing her hand and catching Dozer easily as the rebellious slime bounced up to meet them. She increased her speed, running beside him. “I win the bet. Seriously, though, what is it? Are we under attack?”
+
+“No, it’s not an attack, it’s just— We can’t talk about this here. Topic seven. Come on.”
+
+The building that held the teleport platform was in a vast complex relatively clear of skyscrapers, though that changed quickly as they dashed through the glowing crowds of shoppers and tourists, making for the blue lights of house Lomaris. It wasn’t the way they’d intended to go, but there were multiple entrances to the Delving. The fact that house Lomaris was in the opposite direction of the Guild had a lot to do with his chosen course. Halgrave had given him a letter for Burrik, should the Guildleader decide to accost him over his connections to the Warden, but Rain wanted nothing to do with the politics of the powerful right now.
+
+He doesn’t know Reading, or at least, he shouldn’t. That’s a Watch thing, and the Watch doesn’t have a presence here. He’s messed with his soul, clearly, but he shouldn’t be able to See. If he can See, I’m screwed. Should we turn back? Try Brightside instead? No, it’s not deep enough, and we can’t risk Vestvall. This is the only place...
+
+Gods, even if I manage to fix myself, I’m going to need to learn to veil my soul like the Warden must have been doing. I won’t be able to walk around in the open if I end up looking like a damn planet. I’ll have the new Warden to deal with once they pick one. Depending on who they pick—
+
+“Sweetie, people are staring,” Ameliah said. The two of them had reached a staircase, the path forward continuing along the side of a tower, the too-high steps winding without so much as a railing for safety. “Control yourself. You’ve faced worse than a crowd.”
+
+She’s right. Filth, I’m not ready to be paddling in this pond, but I’ve got no choice. Freaking out isn’t going to solve anything.
+
+Rain slowed, then slowed further, coming to a precarious stop on the stairs, buffeted by the wind. “Sorry, Honey. I’m a slow learner. Haven’t been in enough stressful situations.”
+
+“That is probably the least true thing you’ve ever said,” Ameliah replied. “Here, take Gumdrop before he dissolves someone’s face.”
+
+Rain smiled, turning to accept the angrily vibrating slime, ready and raring to defend him from anything and everything.
+
+[Settle down, you.]
+
+Rain shook his head, petting the impossible creature as he tried to take his own advice. Dozer’s evolution was yet another thing he wasn’t ready to process. Unleashing a plague of endlessly duplicating Essence Slimes on the world was another fear he didn’t have time for. Zero hadn’t split yet, at least, or hadn’t before they’d left.
+
+Reaching across a tenth of the world, Rain found a Detection anchor. Zero was fine. The baby essence slime—no capitalization—was chilling with Tallheart at the moment. Detection wasn’t sight, but the scene was probably adorable. She hadn’t divided and had as yet acquired only a few Tel. It would be a while—weeks if not months or years. The rest of Ascension was all accounted for, with no unexpected additions.
+
+Everything was fine.
+
+Resuming his climb, he mentally typed out an update for Vanna, feeding it to his Radiance macro for encrypted transmission. Tarny had the painstakingly written-out codebooks he’d need to decipher it. The chances of anyone understanding even a hundredth of the randomized magic swirling around him was slim to nonexistent, but sending anything in the clear when he didn’t have to would be foolish beyond belief.
+
+“Better now?” Ameliah asked, following patiently. “All calm and collected?”
+
+Rain smiled, basking in her amusement mixed with concern, trust, protectiveness, and, above all, love. “I know, I know, I’m a hot mess,” he said, then laughed. “Let’s go find a party before someone unexpected turns up, yeah?”
+
+Back in the foreign market, an old man sneezed as he dropped off a crate of salted fish from the cart he’d rented, not having been able to find a porter to help him for a reasonable fee. Truly, he was getting too old for this. He stood up, arching his back in a stretch and most assuredly not turning to look through a number of buildings at the souls of the lovely young couple he’d been chatting with. Because that was not a thing he could do.
+
+The man in chains floated within the Maelstrom, staring into the empty heart of the void. Around him, the world’s essence hurtled past, pouring out into the great nothing beyond. Once, that nothing had scared him. Now, it called. All he needed to do was to step through.
+
+Step through, and the world would be safe from the danger he posed.
+
+It would not, however, be safe from itself. There would be no release. Not for him. The work was not done.
+
+The man in chains turned, rubbing at his wrists as he floated back through the calamitous wind, away from that terrible edge. Fecht had done this. Fecht, the man who’d shown him how the world must be controlled to avoid just such a disaster. Fecht, who’d sworn his Empire would prevent just such a thing. Fecht, who’d known such terrible power could rest in no more than a single pair of hands. His hands.
+
+Now, he was gone. There could be no more denial of that fact. No more doubt. The Empire had been forced into a crucible. Already the fires of starvation were spreading through the heartland. It would grow worse. It was already growing worse, not helped by increasing reports of the mysterious, systemless monsters.
+
+The Empire would survive.
+
+It would emerge stronger, taught the price of weakness. He would guide it. He was the only one that could, but for it to work, there would need to be sacrifices. Rot, cut away so the body could live. Only then, once he stood alone and order was in place, could he step down. Only once he’d ensured that power such as his could never rise again could he rest.
+
+He could not do it as he was now. He would need to become stronger.
+
+“Lightbreaker!” a voice called out as his magic returned. A panel of light formed beneath his feet, sputtering system magic replacing the dwindling force of will as reality reasserted its hold. The forces trying to tear his physical body asunder relented, lifting the strain from his mind. After only a few moments more, the voice called again, and Lightbreaker used it to orient himself.
+
+“There you are!” Dominus Bekerim yelled as Lightbreaker alit on the rocky crag beside him. Dominus Alarus and Dominus Illus were there too, bearing wary expressions. The winds were still howling, but Bekerim had erected a barrier of Force around the tip of the crag—the mana twisting as the system struggled to keep it under control. Bekerim was of course oblivious to such nuance. His unneeded volume was born of frustration, which was born of stupidity in turn. “Damn it, we ordered you to—“
+
+“Silence,” Lightbreaker commanded.
+
+Bekerim took a step back despite himself, but then rallied. “We’re in command here. You can’t tell us—”
+
+“I can,” Lightbreaker cut him off. “I claim the throne.”
+
+“What is your will, Potentate?” Alarus asked, falling to one knee, Illus following soon after.
+
+Bekerim looked like he was about to burst, grinding his teeth at the betrayal he was too much a fool to have expected. He dropped to one knee, then bowed his head. “Fine, you fucks. We could have taken him together.” He spat to the side. “I’ll serve.”
+
+Lightbreaker suppressed a sigh, wondering why his captor-turned-mentor had ever tolerated such blatant incompetence amongst those who’d been granted the right of power. He had real problems to deal with. Problems like the High King. Problems this idiot could in no way help him solve. He raised a hand, power gathering at his fingertips. “Your service is not required.”
+
+“What? No! Wait!” Bekerim said, scrambling back to his feet. “You need me! The Reach won’t follow an Osaran!”
+
+Lightbreaker shook his head slowly. “What was it you said outside Fel Sadanis? The last time you tried to tell me what to do? You wanted to hear the screams?” He unleashed his magic without waiting for a response. Not even a smoking pair of boots remained when the silent light faded. “I prefer not to.”
+
+This close to the tattered edge of reality, there hadn’t even been a limit for him to break.
+
+“Adamant Unbending!” Illus’s terrified voice rose over the crack of the wind, unleashed as the malfunctioning system finally realized the barrier’s caster was no more.
+
+“Adamant Unbending,” whispered Potentate Vannon, his words hollow beneath the storm.

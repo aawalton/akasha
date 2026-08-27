@@ -1,0 +1,115 @@
+---
+id: 9ddc0740-4ce0-5331-a7e2-fbe44cce23ba
+page-type-slug: story-chapter-royal-road
+title: "Chapter 43"
+slug: 0044-chapter-43
+partOf: death-healer
+position: 44
+ownLength: 1466
+unit: words
+publishedAt: 2025-06-30
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2398349/chapter-43"
+royalRoadId: "2398349"
+---
+
+A Year And A Half Later
+
+Sabinus let the practice sword rest across his shoulders while he watched Lily pace the ring of packed sand that lay behind the south barracks. Morning light slanted through the cedars and gilded the fine dust that curled around her ankles. She moved with a loose confidence that would have offended him a year ago because she had been a novice then, yet now she used Coniunctionis as if it were her second nature.
+
+Aunt Calpurnia doesn't want me to know how it works--but she doesn't always check.
+
+Sabinus had learned how Coniunctionis worked a long time ago. He didn't approve the liberal use of Darkness Mana it required, but he also knew that many dabbled in the forbidden Affinity, some even at the Papal court.
+
+Sabinus disguised his irritation behind a polite grin and called.
+
+“You have already walked the whole circle twice. Do you plan to fight with me or with the shadows?”
+
+Lily came to a halt opposite him. She rolled her wrist once and the soft crack of bone settling spoke of recent practice rather than injury since the small sound vanished the next instant.
+
+“I was waiting for you to quit yawning,” she answered. “If you need a nap, I can fetch a chair.”
+
+He answered with a short laugh although his grip tightened on the leather binding.
+
+“Only trying to judge whether I will need the blunt edge or the sharp one.” He let the blade fall into guard and saw her eyes narrow in happy challenge. She crossed the space with a single lunge that blurred her outline.
+
+He felt the drag of air as her palm brushed his sleeve and he counter‑stepped, letting the sword kiss the cloth at her hip. She should have stumbled because he pivoted into her line, yet she flowed past him in a curve that carried no wasted motion.
+
+Sabinus’s pulse quickened. He recognised the signature surge of Coniunctionis yet he could not read her next move; she modulated them with a precision that even his father, Drusus, had been stunned by. He shifted footing and attacked with a triple feint, but Lily met the second beat with a parry that stole his reach, then flicked her elbow into the hollow below his ribs. He lost the moment and she slipped back wearing a quiet smile.
+
+“You promised a lesson,” she said. “I still feel quite ignorant.”
+
+He coughed once, pretending it was a laugh rather than lost breath.
+
+Sabinus wasn't using the full power of his Attributes and Levels, much less his Class Skills, but the fact that Lily could go still hit him like this was nothing short of insane.
+
+“You will feel wiser when Calpurnia arrives. She said the second stage does three times as much damage as the first.” He saw her brow lift in eager excitement. Sabinus forced a lighter tone. “I'm sure it will be easy for you. Ready for Lumius‑style drills?”
+
+A Few Montsh Ago
+
+Drusus Cornelius listened in silence while Sabinus set the small map between them on the oak table. Ink dots marked estates, roads, and garrisons in tidy rows because Sabinus had spent the night drawing them. He felt his father’s gaze like a frost along his spine, yet he kept his voice steady.
+
+“We cannot hold the line with the Gens Aemilia doing nothing. We need the Gens Claudia  full cooperation,” he said, tracing one route toward Alba. “Their forges run day and night, and their grain ships keep three provinces fed. Lily’s victory has turned half the court’s whispers toward her banner. If we stand with them now, we rise when she rises.”
+
+Drusus steepled his fingers and regarded the map without blinking. Sabinus continued since a pause would invite doubt. “Those who cling to the Gens Aemilia will fade because Aurelianus lost face. We must offer arms and coin and an oath before anyone else dares.”
+
+His father’s jaw worked once. The lamp beside him cast hard lines along a face worn by too many campaigns.
+
+"Sabinus, there's no alliance that will hold if Liliana Claudia wins the Champion's Trial and actually manages to secure the spot as Champion. I know her mother. She would have never put her in this situation if she didn't believe she could legally justify her daughter. Do you think she's already learned the Great Skill of the Gens Claudia?"
+
+"I don't think so," Sabinus shook his head. "Nothing points to it, at least."
+
+"Then, know this, the only way for our families to stand united is through you and her."
+
+"Father, that's what I was saying--if I pledge allegiance to..."
+
+"Sabinus," Drusus cleared his voice and put a hand on his son's shoulder. "You're my only heir. You're the next Patriarch of the family. You're at that age where marriages have been arranged for a while. Please, understand what I'm saying."
+
+"Father, Lily and I are not--"
+
+"Not for now," Drusus sighed. "But you two are friends. That is more than what I could have said about me and your mother at your age. I ended up loving her very dearly, but I didn't know her at all."
+
+Lily inhaled deeply.
+
+“Illusions and fire.”
+
+Sabinus inhaled, centred himself, and let a ribbon of orange‑gold Mana coil around his left hand. The practice yard blurred; six phantom copies of him bloomed outward, each clutching a fistful of shimmering flame. Only Lily’s mana‑sense let her track the real one—she pivoted as three images flung fire in an intersecting arc.
+
+She darted left, Coniunctionis snapping through calves and hips, yet the fourth illusion burst at her flank. Sabinus, hidden among the phantoms, noted how her shoulders rolled with unnatural strength, every muscle braided by months of self‑mending scar tissue. She’s faster than any Templar candidate I’ve seen—and stronger. The more she keeps using Coniunctionis, the more her body naturally grows stronger in a cycle of self-destruction and healing.
+
+He snapped his fingers. A second volley of illusory fire blossomed overhead, then a real tongue of flame roared up from the sand, hemming her in.
+
+Lily swore, planted both feet, and tanked the curtain—light flaring under her skin as healing raced the burn. She plunged straight through, smoke spilling off her greaves, and the nearest copy dissolved under her palm‑strike.
+
+Sabinus re‑formed ten paces back. “You can’t treat Lumius like a practice dummy,” he said aloud so there was no mistaking the warning. “He’ll layer real fire with light constructs, like his brother, Cassius. If he cages you, dodge before the net closes. You can't fully rely on healing, the [Sacred Flame] of the Gens Iulia is the scariest spell. The flame doesn't really extinguish and the damage is comparable with a Void Affinity, despite it being Holy Mana. Their Great Skill is the most offensive, Lily. And their Great Skill is their entire strategy. If you get caught, you die.”
+
+“I need a way through,” Lily shot back, rubbing a scorched forearm already knitting smooth. “Show me again.”
+
+He obliged—illusions wheeling, real flames sliding between them. Each time Lily slipped late she absorbed the searing edge, and each time Sabinus’s stomach knotted tighter. At this rate she’ll step into the Trial not ready. She needs the Great Skill of her Family to win, to contrast the [Sacred Flame]. That's the only that can help her.
+
+After the fifth ring of flame forced her to hurl herself clear, he dismissed the mirages with a clap.
+
+“Enough. Listen to me, Lily.” He lowered his voice but kept it crisp. “Your speed and strength are beyond what's required here. But unless you magically become even faster and stronger, Lumius will eventually catch you. One of their Class Skills can explode a tempest of fire around you. You. fight in straight lines. You don't have any aerial maneuverability. Your [Mana Sense] will punch through his illusions, but he doesn't need too many. He needs you to get distracted once. Ifi he coats you with the [Sacred Flame], you're done. You need another move."
+
+She wiped sweat and ash from her brow. “Then drill me until I have one.”
+
+Sabinus exhaled. “We tried other things. But..."
+
+The young man shook his head.
+
+"What you need--"
+
+"Milady!"
+
+Lily and Sabinus turned to see Decima descending from a carriage.
+
+"Your mother immediately requires your presence back home!"
+
+Lily frowned.
+
+"How come?" Lily asked, concerned. "Did something happen?"
+
+Decima looked hesitantly at Sabinus and the young man immediately understood.
+
+Her mother found a way for her to get the Great Skill.
+
+Lily slipped through the villa’s doors and a breath of cold greeted her, keen as steel. Lamps blazed in every sconce, yet no ember of warmth followed; their light skittered over waxed floorboards and vanished into the hush.

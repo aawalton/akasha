@@ -1,0 +1,89 @@
+---
+id: e7881598-b626-5ea2-a35d-65d56c697a8e
+page-type-slug: story-chapter-royal-road
+title: "B4 | Intermission 4"
+slug: 0293-b4-intermission-4
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 293
+ownLength: 1048
+unit: words
+ownProgress: 1048
+publishedAt: 2025-07-29
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2476186/b4-intermission-4"
+royalRoadId: "2476186"
+markedReadAt: "2026-06-29T19:15:46.175Z"
+---
+
+Within the Grand Throne Room of the Dread Empire
+
+Famine taps his fingers against his chin as he stands on the balcony connected to his throne room. Meanwhile his Grand General kneels behind him without saying a single word.
+
+“So the little lady has finally denied someone of her domain?” Famine asks with a vicious grin slowly spreading across his face. “Splendid! Absolutely splendid! A Horseman whose magical domain is so vast! Quite possibly one of the vastest magics in the universe! And she has finally shown those lowly pigs that it is her domain!”
+
+Famine lets out a dark laugh as he watches the people of the city beneath his castle starve openly on the streets.
+
+It’s always bothered Famine that the pigs of the universe believed that they were in charge of death magic. One of the four energies of the apocalypse.
+
+The domain of the Horseman of Death.
+
+But there wasn’t anything he could do about it. Not when the living corpse calling itself a pharaoh is in charge of the dynasty with the most death magic users. And not when there was no Horseman of Death.
+
+Even worse, the living corpse isn’t alive and doesn’t require sustenance. So he is completely immune to a vast number of Famine’s powers.
+
+The one time Famine tried to war against the living corpse’s dynasty, all it ended up in was losses for both sides. With neither the living corpse nor Famine himself getting anywhere in their own personal battle.
+
+Which has infuriated him to no end ever since.
+
+But the living corpse isn’t something Famine would consider a natural existence. So Famine can give some leeway to the abomination.
+
+Only because he worships a superior being – one of the four Horsemen – though.
+
+If that wasn’t the case, Famine would do whatever it takes to eradicate the abomination.
+
+But now Famine doesn’t have to worry about the living corpse anymore.
+
+“Now that the little Lady Aria is here, this universe will become so much brighter! So much better!” Famine exclaims with excitement akin to that of a little child clear on his face. “Everyone will know that the Four Horsemen are the superior beings of this universe one way or another!”
+
+Famine finds it difficult to stop himself from giddily jumping up and down at the edge of the balcony like a child as his excitement nearly gets the best of him. But he manages to do it, if only just barely.
+
+And because he would have to wipe his Grand General’s memories of the event. Which would be a pain for him to deal with.
+
+One piece of news does bother him though.
+
+A piece of news that has him narrowing his eyes a little bit.
+
+The news that the little lady has taken in two children and declared them her children.
+
+Normally he would find this heretical and would immediately order the children’s deaths for claiming to be the children of a superior being such as her. But after he heard about their official classes, that the universe itself has recognized them as her children, he decided to give it some leeway.
+
+Because they’ll eventually die some day anyways. And if the universe declares them as her children, then they can claim that spot for the meager number of years they may live.
+
+The very idea of adopting children isn’t foreign to Famine. He has done it himself before. Although he almost always ended up killing the children within the week. But he has done it before.
+
+He even has one child that he adopted still alive to this day.
+
+Famine glances back at the Grand General – the child in question – to find him still kneeling. Then he looks out over the city again while growing calm once more.
+
+The only reason the Grand General is still living to this day is because of his own class, which is the same as the children of Death’s classes.
+
+His Class is Son of Famine.
+
+That along with his incredibly useful ability to make an infinite number of illusion-based clones of himself to spread out to every world under the Dread Empire’s control.
+
+The thing that Famine doesn’t understand is why the little lady Death is treating the ones she has adopted so well. But he at least understands that Death is very different from Famine in its concept.
+
+So whatever she does, she must have her reasons for it. And as a Horseman of the Apocalypse, she can never be wrong.
+
+Famine leans over the railing of his balcony while lifting one foot a little bit into the air and tapping the toes of his armored boot on the ground. Then, after staring out at the starving within the city and reveling a little bit in the energy he’s draining from them at all times, he says without turning his head, “Go ahead and declare war on the Arcadian Society again. I feel like toying with that little girl again. Maybe teach her a lesson to stop bothering the little lady Ariri.”
+
+“As you command, Father,” the Grand General declares before vanishing in a cloud of famine energy.
+
+After his Grand General’s disappearance, Famine taps his chin a few more times and mutters to himself, “Yeeeaaahhh… I like the name Ariri.” He nods his head. “I’ll call little Death that from now on.”
+
+Everyone needs a good little nickname.
+
+He smiles at that thought before humming to himself as he looks out over his beautifully starving people. And on a whim, he waves his hand, sending a bolt of pitch black energy with faint hints of deep purple at some of the random people down there. Instantly draining them and leaving them emaciated while lying on the ground.
+
+Then he waves his hand back again, tossing some vitality their way and restoring them back again. Only to wave again, playfully conducting the tune he’s humming as he repeatedly turns them nearly dead from starvation before returning them back to full health and then starving them again.
+
+“I wonder if that little girl will learn her lesson this time around?” Famine mutters aloud without a single care about the people running as far away from the castle as possible to get away from him.

@@ -1,0 +1,175 @@
+---
+id: f136d357-4e77-57ca-a0af-7cb07e3e134f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 60"
+slug: 0061-chapter-60
+partOf: death-healer
+position: 61
+ownLength: 2677
+unit: words
+publishedAt: 2025-08-14
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2518452/chapter-60"
+royalRoadId: "2518452"
+---
+
+The outpost had once stood as the Church’s last great bastion in the Dead Lands, its black walls rising over bare hills and stunted trees.
+
+The wind blew thin, carrying the stench of distant rot through the half-broken battlements and the weed-choked yards where not even crows dared settle for long since the Death Mana was so potent it corroded the living just by the nature of its presence.
+
+The castle hadn’t seen real service in generations, but it still bore the marks of the Church: massive walls, reinforced towers, runes scorched into the parapets. It had been one of the largest structures ever raised in the Dead Lands, back when they still thought they could hold the line.
+
+Caesar Iulius leaned against the crumbling wall, arms crossed, gaze fixed outward. Eleven months had passed. Lily’s Class Day was two weeks away.
+
+The wind shifted.
+
+Three shapes appeared at once.
+
+The first came riding a stallion made of clay, its wings cracking with dust as they landed atop the outer turret. The second emerged from a swirl of ash that spun into a man’s shape, solidifying in a heartbeat. The third walked straight out of the mist, conjuring a staircase of water that shimmered with unnatural light, rising up from the ground to the wall with slow, deliberate steps.
+
+Caesar didn’t flinch.
+
+"You're late," he said.
+
+"We rode from the southern trenches," said the rider, a scarred man with a silver beard and a long, slit-edged spear. "Next time, send a cleaner message.”
+
+Caesar had summoned all his commanders to these ancient battlements.
+
+They waited beside the three newcomers, the cold wind sharpening the edges of every word. Each man carried the weight of campaigns lost and won in the Dead Lands, and each one had watched the outpost fall into ruin before Caesar gathered them here.
+
+Their names carried stories—Galerius, the Clay Army of the North; Silanus, the Ash-Walker; and Domitian, the Star of Church. None of them would kneel to any master but Caesar, and none of them had patience for games.
+
+Galerius spat into the wind. His voice cut through the chill.
+
+“You could have filled this wall with five hundred good men if you’d spent half the effort on recruitment instead of that girl.”
+
+Domitian scoffed, folding his arms across battered plate.
+
+“The war doesn’t wait for prodigies, Caesar. No matter how great she is, she won’t be able to change anything by herself.”
+
+“Not by herself,” Caesar smiled. “That is why you have been summoned here.”
+
+Silanus ran his hand over his scarred jaw, his eyes fixed on the camp below.
+
+“You drag us out here, say you have a weapon. You say she’ll change the war. How many months must we watch her punch holes in corpses while the outposts burn behind us?”
+
+Caesar stood at the edge of the parapet with his hands behind his back. His gaze swept over the valley, then fixed on the commanders. “You’ve all seen what the Undead do to new recruits. You know how many die each month on this line. If I had brought you another score of boys, you’d be digging more graves. That girl—she’s worth every man I could have found in all of Lumina.”
+
+Galerius bared his teeth.
+
+“She’s a child. I have grandsons with more scars.”
+
+Caesar shook his head.
+
+“Your grandsons are dead or missing. She’s here. You’ll see.”
+
+"We lost the southern fortress last week," Silanus, the Ash-Walker, a tall and slender man, the youngest of them, added. "You didn't even send reinforcements. You pulled men from that front to babysit a child."
+
+Domitian, the Star of the Church, an unassuming old man, laughed, the sound rough as gravel.
+
+"If you're grooming an heir, say it. We won't object to strategy. But wasting this much time on one child... it looks like madness."
+
+Caesar turned to face them, expression unreadable.
+
+"You think I wasted time?"
+
+"You put our whole campaign behind to train a noble brat," Galerius growled. “You’ve lost your wits, Caesar. We all respected your war record, but you spend your days training a girl when you should be raising armies. Has the rot finally climbed into your head?”
+
+The outpost’s old stones seemed to soak up the argument. The wind picked at Domitian’s cloak while Galerius turned away, glaring down at the parade ground. The clay stallion pawed at the ramparts. Silanus kept his silence, but his eyes narrowed.
+
+Caesar took a step forward. He leveled his voice, low and iron-hard.
+
+“You want armies? I’ll give you something better.”
+
+"You mean this Gens Claudia’s girl?" Galerius asked. "The one who humiliated the Gens Aemilia? That was politics. This is war. The Gens Iulia doesn’t mess with us, but, if anything, the Gens Aemilia should be—”
+
+“Eliminated,” Silanus interrupted the other commander. “We need a grand move, Caesar. We can’t keep going like this, like nobodies. We need coin, food, and shelter. Our men… they’re motivated, they know we have their backs, but you have been far too distracted. We need to seize control. We can’t hide in the shadows forever. It’s either that or we finally build a grand fleet and cross the sea once and for all.”
+
+“I have a better option,” Caesar said confidently.
+
+“The girl?” Silanus shook his head.
+
+"She’s worth more than you imagine," Caesar said flatly. "You didn’t see her fight. You didn’t watch her kill. She’s fought more Undead in a year than most new champions in a decade."
+
+Domitian shook his head. “Let her come out. Let’s see this miracle.”
+
+Caesar glanced to the staircase of water, where the last commander finished his ascent. The water fell away, leaving only the footprints glistening on the stones.
+
+Domitian was perhaps the strongest of the people on his side, so strong that he wasn’t sure he could take the old man in a straight fight. Domitian had mastered a very rare Affinity, Starwater. It wasn’t just a hard Affinity to get, but it also created one of the weirdest combat styles—an extremely reactive, counter-attack-based combat style.
+
+Galerius, instead, had a Clay Affinity, and was capable of summoning multitudes of constructs and golems that would do his bidding. His Affinity was so powerful his constructs had killed several Death Knights.
+
+Silanus, instead, wielded the Ash Affinity, the most transformative, Mana-rich Affinity one could control. And it allowed him to be a fearsome caster. In the past, he had been possibly the strongest caster in the Church, a role that now—as Caesar had to admit—probably went to the blonde girl’s father, Lucianus.
+
+Caesar met their scorn with cold certainty.
+
+“You want proof? You’ll get it.”
+
+While the argument echoed over the battlements, the castle’s great doors swung open below. The sound of footsteps traveled up the winding stair to the wall. The commanders turned to look, expecting a boy or a recruit wrapped in armor, but Lily climbed the stairs in silence, head held high, her body wrapped only in a cloak of Mana so dense it shimmered in the morning air. There was no metal on her arms, no shield on her back, no helmet hiding her face. The Light Mana around her was so thick that the morning sun bent around it, casting long rays over the stone.
+
+Domitian’s mouth twitched, his eyes going wide. Silanus frowned, measuring the Mana with his [Mana Sense], probably the highest-leveled of the three. Galerius recoiled from the [Mana Shaping] talent that a girl her age had to have to coat herself in such a latticework for protection against the Undead.
+
+“So, this is the girl who insulted Aurelianus at the feast? The one who made a fool of herself before all Alba?” Galerius forced himself to return to scorn.
+
+Yet, Galerius had to admit, as he narrowed his eyes and let Mana Sense filter through every strand of Light around the girl, that the control she displayed left him speechless. Galerius had commanded men and clay alike for decades, since his Class had bound him to the deep workings of earth and spirit. His [Mana Shaping] was not just the product of endless drilling and discipline, but the main axis of his Class’s power. He had learned early that no construct would hold, no shield would harden, and no blade would bite unless his control over Mana was absolute. The strength of his creations—his walls, his beasts, even his stallion—rose and fell with the precision of his will.
+
+So, when he saw the density of Light Mana curling around the girl, and when he watched the filaments flow in patterns so tight that not a single thread leaked into the air, he knew what it cost her.
+
+At thirteen, she shaped Mana with a fluency that even he had not reached until his third decade when it came to a pure, unadulterated [Mana Shaping] not supplemented by Class Skills and Attributes.
+
+Galerius stole a glance at Silanus and Domitianus, trying to read their faces and judge if either one grasped what stood in front of them. Silanus’s face stayed hard and cold, as if carved from volcanic stone, and Domitianus kept his jaw clenched, his gaze flickering from Lily to Caesar and back. Galerius wondered if Caesar truly intended this gathering as a test, perhaps a demonstration meant to remind his commanders of the standards he once set for himself, or if it was something more.
+
+Does Caesar really want us to throw our banners behind her? I thought this was some insane test that he had come up with? Instead, could it be that he’s actually serious?
+
+Maybe Caesar was not playing games. Maybe he actually believed that this girl could turn the tide, that she could do what no fresh cohort or weary veteran had managed in a generation. Was this the successor he wanted for his own warband? Was he asking them to throw their banners behind a girl who had not yet seen her Class Day? The thought made Galerius’s stomach turn, not from scorn, but from a dawning suspicion that the old warlord’s madness might be, in fact, a rare clarity.
+
+He opened his mouth to speak, but the girl interrupted, her voice flat and unhurried. She stepped forward, light flaring along her arms, and her gaze fixed on each man in turn. “I told Aurelianus that the day I become Pope, he’ll lose his place at the head of the Gens Aemilia.”
+
+The words dropped into the silence like a thrown gauntlet. Silanus, wreathed in drifting ash, let out a soft, dry laugh. “You want to be a Champion, girl, don’t you?” He let his Mana swirl higher, showing a flicker of his own strength, as if daring her to flinch.
+
+“I will be Champion.” Lily’s answer came without a tremor.
+
+Silanus’s lips curled. “You know you need the approval of the Gens Aemilia’s Patriarch to learn their Great Skill, right? Do you know why they would teach you, when you threaten everything they’ve built? When you stand here and speak about taking their legacy?”
+
+Caesar’s eyes shifted from Silanus to Lily. He watched her as though weighing iron. He had seen her fight, he had watched her break Undead and outmaneuver men twice her size, but he had rarely seen her tested like this. The battle for power in Alba was not just a clash of swords, but a war of words, of pride, and of wills. For all her combat prowess, Lily had yet to prove she could stand in a room of men who had never doubted their own right to rule, and make them yield by force of presence alone.
+
+Caesar also noted something. As the year had passed and Lily’s Class Day had gotten closer and closer, her behavior had somehow started shifting. Something in her had slowly changed. At first, there were just glimpses of it, small reflections of a personality that Caesar couldn’t properly parse. Then, it had become something else. Something seemed to have taken deeper and deeper root in Lily. By now, he could also discern when that part of her character took over.
+
+And the moment Silanus had asked that question, he had seen the shift.
+
+The change in her eyes.
+
+“Have you bowed down to the nonsense, the evil, the injustice that you’ve seen just because you fear the kind of man you have in front of you? Is that what motivates you, loss, fear, and… what else?”
+
+Silanus started laughing after a beat.
+
+“You’ve got guts, girl. I’ll give you that.”
+
+“Caesar, is she only good at talking?” Galerius frowned. “Why are we here?”
+
+Caesar did not answer Galerius with words. He raised his hand and flicked his fingers toward the courtyard below. The gesture was crisp, unmistakable—a commander’s signal, the kind that allowed no debate.
+
+Lily turned without hesitation. She moved toward the edge of the parapet, her steps measured and sure, her Mana coiling tighter with every stride. The wind swept her cloak aside as she leapt down from the battlements and landed in the packed dirt below, knees bending, balance perfect. Her Mana shell absorbed the force, rippling for a heartbeat before settling again into that uncanny lattice.
+
+Caesar glanced at four [Templars] posted at the massive gate. Each one wore battered plate and bore the scars of old campaigns, yet not a single man moved until Caesar made a second, sharper gesture. The [Templars] saluted as one, then turned and heaved open the reinforced doors set into the north and east walls.
+
+Iron hinges screamed. From the darkness beyond, a wave of death spilled into the courtyard. The first zombies shambled forward—skin grey and splitting, weapons rusted, jaws hanging slack. Dozens followed, boots dragging, shoulders pressed tight together, their eyes blazing with the mindless, red glow that marked Death Mana’s hold. The mob thickened, rank after rank crowding the gate until nearly a hundred undead pressed into the open, each one marked between Level ten and thirty by the density of Mana rolling from their forms.
+
+The stench came first—a blend of wet rot and blood gone sour, strong enough that even the air seemed to curdle. The clatter of old armor and broken swords echoed off the stone, filling the yard with a noise as relentless as the tide. The zombies staggered toward Lily, teeth bared, arms outstretched. They did not rush; they swarmed in a slow, inevitable crush, driven by nothing but the hunger that lingered after death.
+
+Galerius gripped the edge of the wall, his knuckles whitening as he watched the girl below. Silanus let his arms drop to his sides, a frown cutting across his face. Domitian stared without blinking, the lines at the corners of his eyes deepening as he measured the Mana Lily used for protection and the lack of any armor over her skin. None of the three commanders spoke. They traded quick, sidelong glances, each one reading in the others the same unspoken doubt.
+
+A hundred undead, even if half were weak, meant a true massacre for any unclassed soldier. Not one of them had ever seen a child—much less a girl—step into a courtyard without padding, without plate, without even a shield. Only a shell of Light Mana kept her apart from the claws and teeth that would strip a grown man to bone in minutes.
+
+Silanus shook his head, murmuring under his breath. “You send her to die for pride, Caesar?”
+
+Galerius kept his silence, though the lines at his temples betrayed the strain in his jaw. Domitian did not move at all.
+
+Caesar looked down, meeting each commander’s gaze in turn. He did not raise his voice; he did not boast or argue. Instead, he pointed down at the yard and spoke with flat certainty.
+
+“Watch.”
+
+The gates slammed shut behind the undead horde. The mob closed in on Lily, steel scraping on stone and rotted hands reaching for living flesh.
+
+The three commanders fixed their eyes on the courtyard. None of them blinked.
+
+And Caesar said nothing else.

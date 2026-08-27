@@ -1,0 +1,57 @@
+---
+id: a9c3897e-960b-5c89-bdcc-8e53bff7797f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2 - A New World"
+slug: 0003-chapter-2-a-new-world
+partOf: defiance-of-the-fall
+position: 3
+ownLength: 1502
+unit: words
+publishedAt: 2019-05-05
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/359138/chapter-2-a-new-world"
+royalRoadId: "359138"
+---
+
+Zac slowly woke up, groggy and disoriented, finding himself face-first on the ground. Spitting out a few blades of grass and dusting himself off, he scrambled up and surveyed the surroundings, his body still aching from whatever had happened to him before. The glade looked the same with the few rocks and flowers, surrounded by stout leafy trees and dense shrubbery.
+
+His first reaction was that luckily he had just passed out from the heat or exhaustion and woke up. There were some things that gave Zac the foreboding feeling that what had happened was more than just a heat-induced dream. First was the fact that he was currently staring up at two suns, only one of them being the familiar yellow.
+
+He thought he was seeing double for a second, but shaking himself awake had no effect on what he saw. The sun was accompanied by a little brother. He felt something was a bit off with the original one as well though, seeming larger or more intense than he remembered. The other sun was a far smaller star that shone in a piercing aquamarine. It hovered close to the other celestial body and seemed to orbit it like a satellite.
+
+The other unsettling sight was the pillar. A huge vortex of light and energy reached up towards the sky in the distance, like a grisly red claw reaching up from the ground. It pulsated in an eerie red glow that could only be called demonic. It looked like it was quite some distance away, but it was hard to tell. This pillar was the last thing Zac had seen before passing out, and it greeted him as he woke up as well.
+
+A bestial roar snapped him out of his thoughts, refocusing him on the situation at hand.
+
+“Hannah…” he muttered, a glint of determination in his eyes as he threw all these inexplicable events to the back of his mind. If this was all real, he needed to get back to the camp immediately. It seemed the crazy events he’d recently experienced were all real, he realized after looking around. The emotionless voice in the darkness had said something about making the wildlife more dangerous to “improve the challenge.” The roar he just heard could be a freaking tiger or bear for all he knew, which meant the others were in danger.
+
+For a second he was even afraid that the others would jump in the car in a panic and leave him stranded here with whatever was roaring. Even though he didn’t know what was going on, burning anxiety was already consuming him and urging him to action. Not daring to wait any longer, he took off in a sprint toward the direction of the camp, unheeding of the unfamiliar sounds all around him or the prickly greenery aiming to slow him down.
+
+The surroundings blurred around him as he thundered on through the forest like a runaway train. It was as though he had gotten ten shots of adrenaline, his legs pushing him forward at a breakneck pace. Something was off, as he felt that he was running even faster than Olympian athletes, and in complicated forest terrain at that.
+
+The previously somewhat weighty axe in his hand seemed weightless and tore through any branch trying to impede his way with pinpoint accuracy. Zac had never felt as strong or fast as he did right now. The voice had said it upgraded wildlife, did his speed and power mean he was considered a part of that? He didn’t know whether to be happy with his improved physique, or whether to be pissed off the mysterious voice considered him an animal.
+
+Finally, a few minutes after his mad dash started, he recognized a large boulder that a tree had somehow split and grown through, telling him the camp was just a few hundred meters away.
+
+Readjusting his grip on the hatchet, he changed his course and ran straight toward the camp. Suddenly another of the otherworldly roars echoed through the forest, this time far closer than the others he’d tuned out on his way here. Panic turning into even greater speed, he barreled into the camp, a look of frenzy and fear on his face. Greeting him was the familiar sight of the camp; the gray Range Rover, the camper, and the few camping chairs were strewn about.
+
+What immediately garnered his attention wasn’t this, though, rather the monster rifling through one of the coolers. Its size was that of a Great Dane, but this was where the similarities ended, since it was an unholy mix of flesh and bone. The beast looked like it had been skinned, then let out in the woods again, being an amalgamation of red and white. It sported a thick trunk of a torso with rippling muscles extending down to six stubbly legs, each leg ending with a paw, reminding Zac more of a bird of prey than a woodland creature.
+
+Two of the pairs aligned at the front of the torso with the last at the back. Each paw was adorned with four ghastly claws with three in the front and one in the back, with the front set of claws seeming slightly larger than the other two pairs. Its head felt overly large for its body, with a broad base but a long snout, enabling an impossibly large maw. The mouth reminded him of a crocodile’s, if a crocodile possessed three rows of teeth. The eyes were small and beady and had a shine the same color as the vortex he’d seen earlier.
+
+The power of the maw was readily apparent, as it was currently biting through a can of beans like it was nothing, swallowing the metal and contents alike. The strange sight made Zac stop right in his tracks, unable to compute these turns of events. Suddenly he wished that it had been a tiger that was roaring in the distance earlier, since that seemed preferable to the monstrosity in front of him.
+
+The beast perked up before Zac could do anything, spotting him standing mutely across the camp. With an enraged roar, it bolted straight towards him with a speed belying its stocky appearance. Shocked, Zac barely had time to react as the beast was upon him. Taking an unstable step back, he swung the hatchet horizontally with all the power he could muster. With his shaky stance, there was no real power behind the blow, but it managed to strike the beast’s neck, leaving an ugly gash and pushing the demon aside.
+
+Zac was once again reminded of how he somehow had become a superhuman, as even a crappy swing like that had contained enough power to throw off a large beast. However, the front paws of the monster were latched on to him, and with the combined momentum of Zac’s strike and its own, the claws drew a deep gash on his midriff and left leg. Large wounds were ripped open, and blood immediately started pouring out.
+
+A pain Zac never had experienced before exploded in his mind, clouding his vision and threatening to incapacitate him completely. Any thoughts of combating the monster head-on with his new strength flew completely out the window, and instead, an intense desire to escape emerged. He shook his head to clear his mind, but with small effect.
+
+What the hell do I do? Do I run? His eyes searched frantically around for a way to get out of this situation, primal survival instincts he didn’t know he possessed kicking in. The beast had fallen over from the surprising power of the swing but was already clambering back up to its feet.
+
+“Guys! Are you here? Help!” he shouted toward the camper, hoping for backup. But only silence met his pleas. Did the others flee into the forest to get away from this monster? Out of ideas, Zac hobbled a few steps toward the forest as well, his left leg now burning and not properly listening to his commands.
+
+But before any plans could form, the beast was barreling towards him, maw in an open snarl, seemingly unheeding of the small stream of blood trickling down its torso to its stumpy legs. This time Zac was slightly more prepared, putting weight on his right leg and jumping out of the way. He heard a snarl and felt a gust of wind sweeping by him before he unceremoniously landed in a pile three meters away. Quickly scrambling to his feet, he saw the monster had barreled past his original position, continuing on for twenty meters.
+
+Zac realized the monster had high speed but low maneuverability and started to frantically figure out a way to use this to his advantage. With a determination he didn’t know he had, Zac abandoned all thoughts of fleeing and returned toward where he came from when running through the forest.
+
+“This had better work…” he mumbled while ambling as fast as his pain-racked body could muster.

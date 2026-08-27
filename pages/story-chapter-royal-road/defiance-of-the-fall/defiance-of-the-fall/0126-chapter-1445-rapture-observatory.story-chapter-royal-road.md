@@ -1,0 +1,171 @@
+---
+id: f37634de-702d-5f9f-99a6-d54f201fe3d4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,445 - Rapture Observatory"
+slug: 0126-chapter-1445-rapture-observatory
+partOf: defiance-of-the-fall
+position: 126
+ownLength: 2943
+unit: words
+publishedAt: 2026-08-11
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3800965/chapter-1445-rapture-observatory"
+royalRoadId: "3800965"
+---
+
+“I’m sorry, there were some complications,” Zac said with a helpless smile as the utter darkness began to retreat.
+
+It wasn’t that Tavza had blinded him with her Abyssal Domain, rather that the bridge to Fuxi Halls was closing. As it did, the overwhelming amount of artificial Death relented, much to Zac’s dismay. His other body wasn’t even close to being satiated, and the screams for more from his Eoz bloodline were almost a match to his Void Emperor bloodline’s usual roars of hunger.
+
+“Isn’t it always with you?” Tavza said with a shake of her head before looking Zac up and down with interest. “You’ve broken through.”
+
+“I managed to squeak into Peak D-grade,” Zac nodded with a smile.
+
+“Not your cultivation, something else,” Tavza said, her eyes thinning with suspicion. “You seem more solid, but I cannot detect any changes to your constitution. I would have noticed if you had advanced your Eoz bloodline. What else is there? What are you practicing?”
+
+“Ahem, does it matter?” Zac decisively cut off the line of questioning before the discussion entered dangerous waters. “Anyway, I’m here now.”
+
+“Indeed. I didn’t expect you to come through a crack in the abutment. I’ve mainly been keeping watch of the outer realm for weeks.”
+
+“A crack in the what—” Zac shook his head. “This place is moving around too erratically, so I found another way to get here. Whatever ‘here’ is.”
+
+The dusk had finally dispersed, and Zac was surprised to find himself in a location almost identical to the one he left. He was still inside a pyramid-shaped hollow, with a large number of massive array flags floating above. However, there was no mistaking his current location from the small mountain he’d just left.
+
+Dozens of array flags were either missing or strewn across the ground without a speck of spirituality. Dozens more showed clear indications of damage or excessive wear and tear, and Zac wouldn’t be surprised if one or two dropped out of the sky the next time the array kicked into gear. For now, they were languidly floating about, barely moving.
+
+The chamber itself was covered in cracks, and Zac could even glimpse the boundless darkness of the Ninth Hell on the other side. As for the Primo’s treasure, there was no sign. He’d obviously appeared in a side chamber whose only purpose was linking up with the mountain. With one side damaged and the other only existing inside a memory domain, there were clearly problems with their operation. It was through that mismatch that Zac managed to arrive in one piece.
+
+“This is the Rapture Observatory, which witnesses the end,” Tavza introduced.
+
+“’The right eye observes the future’,” Zac muttered, recalling Emir’s description of the Primo’s treasure.
+
+“You’re aware,” Tavza said with a curt nod before pointing to the floating array. “This is one of four abutments that link the observatory to the Hollow Court, ensuring the bridge between the Lower Planes and the Left Imperial Expanse remains stable. I assume this one is connected to Fuxi Halls, yes?”
+
+“It is,” Zac nodded. “How did you know I would arrive here?”
+
+“The Observatory isn’t that large, and I didn’t come here because I expected your sudden arrival. For one, this array is worthy of study. Secondly, I need to stay on guard just in case. Beasts are occasionally attracted by the fluctuations, and I can’t have them wreak havoc here. I also need to be ready to run or intervene in case this damaged array runs amok.”
+
+“And the treasure?” Zac asked.
+
+“Lord Primo’s right eye is located a dozen miles from our current location.”
+
+“So what’s stopped you from recovering it? And don’t tell me you’ve been waiting for me to appear before picking it up,” Zac smiled.
+
+“Of course not. I’ve been working on gaining access since the day I arrived,” Tavza said. “The Lord’s eye is not in a fully sealed state. Despite having long since served their purpose, the arrangements left by the Limitless Empire are constantly drawing on its energy.”
+
+“It’s like a machine that’s forced to keep running with half its components missing,” Zac muttered.
+
+“Indeed, and the Lord’s eye is the core. With the machine still running, it cannot simply be taken away. After studying the records, I’ve found a solution,” Tavza said. “We need to close the Rapture Curtain.”
+
+“Rapture Curtain?” Zac mused, picturing an actual observatory with its domed roof. “The ceiling?”
+
+Tavza nodded. “Closing the ceiling will effectively disconnect the Rapture Observatory from the rest of the Hollow Court. The curtain also has a sealing effect on the eye itself, which would allow us to approach. Using that window, we can force the eye into a true dormant state by wrapping it in the Lord’s feathers.”
+
+“So that’s what they’re for,” Zac whistled. “So, what’s the problem? I’m sure you have a feather too.”
+
+“The observatory is not in good shape. I’ve been repairing it as much as I can, and I’ve barely got it to working order. Still, the seal will only last for a breath or two before it’s overpowered by the Lord’s eye. Meanwhile, its location is surrounded by Rapture Beasts.”
+
+“Rapture Beasts?”
+
+“They’re soulless, mindless creatures molded by the Era’s end, incapable of thought. You can destroy them, but they cannot be killed through conventional means. They’ll just respawn next to the eye within a minute or two,” Tavza sighed. “The reason I haven’t made much headway is that I constantly have to fend off those critters while repairing the observatory.”
+
+Zac slowly nodded in thought. “That’s not a problem now that I’m here.”
+
+“Precisely. You can keep them at bay while I perform necessary repairs. It also gives us much more leeway. A few breaths are not enough for me to rush from the control station to the eye. But with one person controlling the Rapture Curtain while the other is clearing monsters around the eye, a few breaths should be enough to wrap it up in His feathers.”
+
+“Kill some beasts and tie a feather around an eye. Sounds easy enough,” Zac said, scratching his chin. “Sounds easy enough.”
+
+“Indeed, it did,” Tavza said in a helpless tone.
+
+“But? Is there something else?” Zac asked with a frown.
+
+“What else could there be?” Tavza complained. “Now that you’re here, the situation is doomed to spiral out of control.”
+
+----------------
+
+Eouso Evrodok drew a deep breath, his lungs filling with the fresh, slightly minty scent of the surrounding trees. Rays of warmth peeked through the foliage, and the gentle winds held neither sharpness nor blistering cold. Birdcalls in the distance added to the ambiance. It was hard to believe this small paradise was nestled in the middle of a region filled with deadly Natural Formations and hostile fauna that could bring a Monarch to despair.
+
+Then again, there was good reason for the disbelief. Eouso briefly turned to Mercurial Court’s pillar in the distance, a hint of disgust flickering in his eyes. A complex wave of faith and purpose formed in his mind, causing a stir in the ancient box strapped to his back. The Sword Coffin opened a crack, releasing 273 of the swords stored within.
+
+The bloody aura of eternal war and undying conviction spread through the forest as Eouso controlled the minor Sword Array to loom overhead. Intent and Faith wove into a complex tapestry, and thousands of streams joined into a mighty river. A dozen miles of forest were shredded in the blink of an eye, and reality itself groaned under the onslaught.
+
+Then, it cracked.
+
+A heartrealm upheld by remnant blessings couldn’t withstand the righteous fury of the Imperial Mandate. The sundered forest disappeared, exposing the decrepit temple city hiding behind the veil. While its walls were cracked and squares overgrown, the Dharmic power it held hadn’t been fully washed away by the river of time. There were even signs of a resurgence—a scene that Eouso wouldn’t abide.
+
+[Seventh Advent], one of the Sword Coffin’s nine Holy Instruments, fell toward the main temple like a general leading its soldiers into battle. It soon became more than a fleeting impression. A sanguine mist emerged from the swords, conjuring an army of hazy figures. For an outsider, it would be impossible to say whether they were wielding the descending swords or if they were simply manifestations of the Sword Array.
+
+Only the Pesvati Rift knew the truth. Each sword entombed in the coffin was once wielded by a champion of the Empire. Slivers of their souls had been imprinted onto the blades and annealed with the Empire’s enemies. During the fall, they were collected by the rift’s predecessors, and their undying spirits had been nourished by the Pesvati Rift for untold generations.
+
+When combined with the unique mantras of the rift’s royal family, the Sword Coffin exhibited might exceeding any Spirit Tool. This was especially true when walking the hallowed ground of the Left Imperial Expanse, where the echoes of sacrifice permeated every blade of grass. Despite only being able to call upon some of its 1,953 swords, Eouso was confident in facing almost any Early Monarch head-on. If he paid the price to fully awaken the ancestral spirits, even Middle Monarchs would have to run for their lives. That wouldn’t be necessary for the task at hand.
+
+Bells tolled across the temple, warning of the impending attack. Buddhist chants emerged from shrouded halls to create a dharmic barrier. It was like the whole city was emerging from the past. Sanskrit runes appeared across cracked statues, giving them life to protect the faith. Dharmic Guardians made of misguided piety stepped out of the shadows, raising staves and vajras. It was futile.
+
+The barrier shattered from a golden cross released by [Seventh Advent], and the two hundred swords descended with righteous indignation. The guardians fared no better. Stone shattered, and Heart-constructs were dispersed as Eouso fought a war on his own. Thousands of trajectories were calculated and executed every breath, creating an unstoppable, inescapable net of destruction that swept through the city.
+
+Two minutes later, only devastation remained. A sigh echoed through the ruins as the ten-meter-tall Bodhisattva interred in the main temple fell to her knees—[Seventh Advent] piercing her bindi down to its hilt. The lingering Dharma had been dispersed and replaced by the rightful faith of the Cosmos. Eouso rearranged the swords, erecting a small formation that connected with the land itself.
+
+“Erase the memory,” Eouso commanded, and the subordinates waiting behind him immediately set out.
+
+These hidden repositories of infiltrating faith were more stubborn than conventional curses. Excising the blight visible at the surface wasn’t enough. They needed to remove the root cause, or it would eventually sprout anew.
+
+The six workers moved with swiftness and precision born from experience. Engraved statues were placed and connected with the earth, attracting the Imperial Faith coursing through the ground. Finally, they erected a monument holding twenty-three lines to suppress the main temple. Fully erasing the Buddhist taint was impossible at their level, especially with Buddhist Faith seeping into the continent through the bridge and from links of ancient Karmic entanglements that not even the System could prevent.
+
+The world itself would eventually reject the memory with their assistance. The question was whether they had the time. The tenth pillar was drawing closer to forming, heralding the next stage of the ritual. Meanwhile, Buddhist remnants were sprouting like mushrooms after rain across the continent. What they were doing only amounted to triage targeting the greatest offenders.
+
+As things stood, it seemed almost inevitable that history would be rewritten. Even if the ritual succeeded, the Left Imperial Expanse had a high chance of emerging with Buddhism as a minor state belief. That was the drawback of their plan. Those who managed to emerge would remember the past as it was recorded in the Omnipresence Chamber.
+
+The lords at the top would see through the lies, but knowing the true history wasn’t enough. The empire’s second chance at life was propped up by the ritual’s recorded history; to reject it would be no different than rejecting their very existence. It was a difficult conundrum with no easy solution that Eouso knew of, which was why they worked so hard to ensure the trajectories remained within acceptable parameters.
+
+“Buddhist Sangha… Truly formidable. Just how long have you schemed against us? This headache isn’t the work of a few dozen trial takers,” Eouso sighed before his eyes hardened. “It will not go as you hoped. History has shown that you are not infallible.”
+
+The foreman approached a few minutes later. “Everything is in order, Your Highness.”
+
+Eouso recalled his swords since they were no longer needed to stave off the Sangha’s influence. The earth had reclaimed the area, and it was strong enough to defend itself. As for the Buddhist trial takers, they had their hands full dealing with the contingencies inside the Daedalian Court.
+
+“Your Highness… Our resources are insufficient to fully deal with the infestation,” the foreman added, his worries echoing Eouso’s own thoughts. “Do we need to change our approach?”
+
+“For now, we keep the course. Trust the prophecy and trust our predecessors. We’ll do what we can, and they’ll handle the rest,” Eouso said. “Call the bridge. See if they’ve finished calculating the next Karmic node.”
+
+The foreman nodded and walked toward a seemingly random stone lying in the forest. In reality, it was a surviving piece of the Imperial Road, making it a convenient tool for communication and travel. Opening pathways without it was still possible, but it wasted both time and resources. Nevertheless, the foreman didn’t get the chance to send an inquiry before a golden portal opened on its own.
+
+Eouso frowned and flashed over as a frowning Mistrum emerged.
+
+“What’s wrong?” Eouso asked.
+
+“Emir’s Soul Lantern went out an hour ago,” Mistrum succinctly said.
+
+Eouso sighed. It had been over a month since they lost contact, so he’d been prepared to receive such news for a while. Still, getting the confirmation was a blow. Emir was one of the strongest Sealbearers under his command, and his family were loyalists who’d served faithfully since the beginning.
+
+“Did he manage to leave a message?”
+
+“Nothing. We fear the transmission was intercepted by the seal on Fuxi Halls,” Mistrum said, his eyes darkening. “Everything points to the Sindris Clan descendant. How should we respond?”
+
+“Zachary Atwood…” Eouso mused. The last news they’d received from Emir’s side was the arrival of the local Flamebearer and his followers. As expected, Zachary Atwood had been made a member of Fuxi Halls. “Have there been any sightings of the Flamebearer since the seal was erected?”
+
+“No, only of his demon companion. He’s currently under the protection of Interment Hall’s First Elder. Although we only have two operatives left inside Hollow Court, it’s possible that they’ve simply missed Zachary Atwood,” Mistrum said, clearly not believing his own words. “There’s something else.”
+
+“Oh?”
+
+“Shortly before Emir’s death, there was a slight fluctuation in our network. We think Emir tried to open a gateway in the sealed-off area.”
+
+“He’s not nearly strong enough for that.” Eouso shook his head.
+
+“Yet he succeeded. Unfortunately, something severed the connection on the other end before a gate could stabilize on our end. Only a gust of Void Energy made it through.”
+
+“Void Energy? Is there word from the predecessors?”
+
+“Neither the Order of Fertile Earth nor Margrave Wartorius has responded to our inquiries,” Mistrum said.
+
+Eouso closed his eyes, rallying the mantra in his mind. Its complex web began moving through countless permutations, simulating various scenarios and comparing them to the prophecies. There was too little to go on, but a general picture began to emerge. The lack of clues was a clue in itself. Why did Emir risk his life instead of laying low until the seal lifted?
+
+He’d discovered something too important, likely related to the unexpected emergence of the Left Imperial Palace. The fact that the predecessors had shut them out was also a clear indication of their stance on the matter. Eouso couldn’t very well go against their wishes, but he also couldn’t look the other way when the trajectories spiraled out of control. If nothing else, he owed Emir a response.
+
+Eouso took out an Information Jade and a Middle-Grade Pesvati Crystal. It held Imperial Destiny equivalent to thirty thousand Imperial Merit, and it was one of the few he had left. “Send these to Yeaver. Have him assist the coalition in opening the hidden path to the observatory.”
+
+“We’re going to interfere with the Undead Empire? The Primo is not a simple character, and he’s one of the few with direct insight into what happened here,” Mistrum said.
+
+“Without his eye, Lord Galgallim cannot influence the events on the Left Imperial Expanse,” Eouso said. “The curtains are about to fall, and Hollow Court has achieved most of its goals. It doesn’t matter to us who brings away the eye, so we may as well thin out the numbers. Have them spit out the providence they’ve stolen from us.”
+
+Eouso was curious to see if it would prove enough to deal with a complicated variable like Zachary Atwood. Part of him hoped it was not. Then, Eouso could see for himself when they met in the Left Imperial Palace. He already had his hands full dealing with the Buddhist Sangha, and the other Flamebearers were still setting fires left and right. There simply weren’t enough resources to worry about Hollow Court at this stage.
+
+“I hope you enjoy my little gift,” Eouso muttered before stepping into the golden gate.

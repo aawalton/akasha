@@ -1,0 +1,135 @@
+---
+id: 45421922-3195-543d-87ad-173748346c25
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 15"
+slug: 0315-b5-chapter-15
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 315
+ownLength: 1409
+unit: words
+ownProgress: 1409
+publishedAt: 2025-11-07
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2740676/b5-chapter-15"
+royalRoadId: "2740676"
+markedReadAt: "2026-06-29T19:16:31.718Z"
+---
+
+Aria
+
+It doesn’t really take long for me to get bored of this new planet. Or for the people of said planet to begin fearing and avoiding me entirely. So I move on from the planet’s cities to check out their little Hunter’s Spot.
+
+That black portal of theirs.
+
+And what odd an odd place that Hunter’s Spot is. Because when I enter it, I quickly find the place filled with what honestly do look like demons. Except not the fallen demons I’m used to.
+
+Rather, they look like the images of some of the past demons from previous Demon Kings that Raja showed me. Creatures with shell-like crimson armor and glowing crimson eyes.
+
+Putting them aside though, their Hunter’s Spot is a lot more interesting to me than the demon-like creatures themselves.
+
+Because their Hunter’s Spot looks like it came straight from some of those depictions of hell I’ve seen people make.
+
+But most importantly, I quickly find while exploring the later Tiers of the place that there are no large mana creatures in it. And no large mana creatures means no being eaten by mana creatures.
+
+After all, there aren’t any mana creatures here that are large enough to eat me.
+
+So yay for that.
+
+The more powerful mana creatures here are just the size of regular demons still. Albeit far stronger regular demons.
+
+Demons strong enough to rip me in half with their bare hands and without any sort of struggle.
+
+But I don’t really care about their power. I just care about the fact that they’re small and can’t eat me, so they can’t really keep me pinned down.
+
+Thanks to that I end up spending a couple decades inside of this Hunter’s Spot without bothering with leaving throughout the entire time. All the way until I reach level 157 inside of the place and finally begin to grow bored of the books I brought into the place.
+
+Unfortunately this Hunter’s Spot seems to block out internet reception. Which sucks.
+
+So after reaching level 157 I finally leave the place. At which point I find the Pale Mercenaries on the planet having pretty much taken it over. Albeit peacefully, with the world deciding to put itself under my rule as well.
+
+Yeah, I kind of suspected this would happen if I told Little Blue about the place.
+
+I take a look around the place to see what’s changed in the last two decades, but I don’t see much that’s changed about their technology. It’s just their military and there being a lot of otherworlder presence.
+
+That said, their society certainly settled down a lot faster than Vortel did. With the people seemingly mostly integrated into the wider universe at this point.
+
+Which is good.
+
+Of course, I make sure to check the most important part of their development as a society.
+
+Their cafés.
+
+And I have to admit, their cafés have grown a lot more since the last time I went to one. Which is a good sign for their society’s growth.
+
+Because cafés rule all.
+
+Cafés are the number one sign of a nation’s growth, and I will absolutely have that turned into a national motto for my nation. And maybe for the Rex Dynasty too, since they worship me.
+
+Although in all honesty I doubt I’d have to tell them to do that. They’ll probably make it so just because I did.
+
+It is interesting to see how these people are still keeping their little superhero and supervillain system alive. But I guess their society just isn’t interested in any other method of power, so to each their own.
+
+Well, anyways, I go ahead and leave the planet before visiting the office once more. Just to say hi to the twins. Only to get ambushed by a paperwork fiend before heading off again to find another world.
+
+And while I’m on the way, I find uninvited guests appearing in my ship. As usual.
+
+“How many times are you going to bother Her Highness?!” one of my ‘secret’ Crimson Empire knights shouts are the Demon King’s clone as the man crosses his arms and argues back, “What business is it to you what those above you do, mortal?”
+
+I ignore their bickering, even as another two uninvited guests join in on the fuss. Those being War, who looks oddly satisfied for some reason, and Raja, who I have no idea why is here.
+
+As they do their little thing, I stare at the map in front of my commander’s chair, just wondering where I should head next.
+
+At this point I’ve gone to all sorts of worlds. Worlds that are uninhabited, worlds that are just sky worlds, ocean worlds, poisonous worlds, worlds that aren’t even worlds like the Star Link Stations and the void spirits domain, and even uninitialized worlds.
+
+So what sort of world should I go to next…
+
+I continue staring at the map while tapping my chin in thought for several minutes as the idiots back there bicker amongst themselves, only to hear War suddenly speak from right next to me, “Why don’t you visit my home?”
+
+His question gives me pause for a moment before I hum, “Hmm...”
+
+I haven’t been to the home of any of the Horsemen yet. Except Pestilence.
+
+But his home isn’t really much to see, considering that it’s an abandoned planet whose location is unknown to everyone except Pestilence himself.
+
+Let’s see… Crimson Flag is the name of his nation, and from what I’ve heard, his home world is called the Scarlet Crucible. Which is named after War’s personal color. Scarlet. Along with the fact that there is a massive focus centered around tournaments and fighting games on his world.
+
+Actually, the Scarlet Crucible is the foremost world in the entire universe when it comes to making a name for yourself as a fighter.
+
+Unlike the rest of the worlds and even galaxies under the Crimson Flag’s reign, the Scarlet Crucible is ruled directly by War himself. He doesn’t ignore it and toss it to his generals like he does the other worlds.
+
+And his favorite thing to do is fight, and to find worthy opponents to fight.
+
+So the entire world is filled with thousands of stadiums, each being linked to The Crucible.
+
+A single stadium at the top of the world. Directly on the world’s northern pole.
+
+People fight in the many stadiums in the hopes of reaching The Crucible itself, which is livestreamed to pretty much every single news outlet in the universe. Mostly because it has the most powerful fighters in the universe participating in it, excluding the Grands.
+
+Well, the Grands other than War, that is. Since War does actually participate.
+
+Whenever they host a grand tournament at The Crucible, he is the final opponent there. And he will actually help teach the winner of the tournament some fighting techniques.
+
+It’s one of the other reasons a lot of people are frantic just to get a chance to participate. Other than the fame and fortune aspects, of course.
+
+Lucius Octavio, otherwise known as the Horseman of War, is the most skilled fighter in the entire universe without a single doubt about that. The only thing that keeps him from being the strongest is his actual power.
+
+After all, he’s equal to some of the other Grands – meaning the other Horsemen – in terms of actual personal power. With some of them even being stronger than him in that regard.
+
+But he is the most skilled in his fighting techniques.
+
+And his strategizing.
+
+“If you visit, I’ll let you participate in any tournament you wish,” War continues, acting like some devil whispering temptations into my ear or something. “Even the beast gladiator arenas, where you can fight as many monsters as you please…”
+
+My eyes widen a little before narrowing at that.
+
+He’s saying I can kill massive amounts of monsters there for my purpose to level up…
+
+“You can even go into my Hunter’s Spots as much as you please,” he continues, sweetening up the pot.
+
+Hmm… this is starting to sound tempting…
+
+“I also have several cafés that I’ve been opening up, each of which use a special brew of wine created personally by Pestilence thousands of years ago,” War continues, immediately making my eyes widen.
+
+“When can I visit?” I ask while turning to him, just to find him grinning from ear to ear.
+
+Wine comes first.

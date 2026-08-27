@@ -1,0 +1,173 @@
+---
+id: d713ce4c-d492-53ab-97ba-b125c211099a
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 34"
+slug: 0195-b3-chapter-34
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 195
+ownLength: 1534
+unit: words
+ownProgress: 1534
+publishedAt: 2024-08-21
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1768514/b3-chapter-34"
+royalRoadId: "1768514"
+markedReadAt: "2026-06-29T19:12:21.260Z"
+---
+
+Aria
+
+After hanging up the call with Shirogane, I begin whistling a calming little tune as I lean out the window of the carriage I’m in. With both my arms just dangling over the side of the carriage. Feeling the strange sensation of my arms being in a different ‘dimension’ from the rest of my body.
+
+Very odd sensation indeed.
+
+Not even sure how to describe it. It’s almost like my arms and face – which is also sticking out of the carriage – are in a faraway place and feel distant from the rest of my body. Also, I’m pretty sure my skin is warping. And rippling.
+
+Oh, and the driver of the carriage is shouting for me to put my head back inside before it-
+
+I blink when I regain consciousness again, sitting in the carriage.
+
+Huh.
+
+That was interesting.
+
+I think my head and arms just went pop.
+
+“Lady Aria! Are you okay?!” the captain of the knights frantically shouts as he kneels inside of the carriage on the ground. “Does it hurt anywhere? A doctor should be arriving soon, so please just-”
+
+“No need,” I tell him with a wave of my hand. “I can’t get hurt.”
+
+Why’s he freaking out so much? Didn’t he see me paint that poor noble guy red with my landing?
+
+Rest in peace to that guy’s sanity most likely. I’m pretty sure I ended up traumatizing a couple people back when I did it on Luk’tar, and they were less… prissy… than the nobles here. Made of much sturdier stuff. Literally. Much larger in build.
+
+This guy… well, he was just kinda staring blankly as I waved goodbye to him.
+
+Well, it’s fine. Nothing a good ol’ mind mage won’t fix.
+
+A simple memory wipe here and a pat down to clean up any of my lingering death energy that’s burning the flesh remaining on him and he’ll be golden.
+
+“-Aria!” I blink as I hear the guy in front of me talking again, reminding me of his presence.
+
+Oh. Right. Almost forgot about him.
+
+I glance at the entrance of the carriage to find a doctor there.
+
+Oh, wow. He really called one.
+
+I turn to the guy again and repeat, “I really don’t need a doctor. I can’t die or get hurt. It’s impossible. So could we continue the trip, please?”
+
+He looks hesitant for a bit before slumping a little with a sigh. The guy is annoyingly large with full plate silver armor on him and no helmet on his head. He has white hair similar to my own and a strange reddish silver colored pair of eyes that – I’ll admit – look rather beautiful. And he seems to constantly be worrying about me ever since I returned from the tower.
+
+Not sure why.
+
+To my surprise, he reaches for my hand and lowers his head, placing his forehead on my hand as I stare blankly at him, wondering what the heck he’s doing. Then he says, “I apologize, my lady. I swear I’ll warn you of any potential risks the next time. I was careless and didn’t think about how outsiders aren’t used to our modes of transportation yet. Please forgive me.”
+
+I blink once. Then twice. Then I turn to look at the several guards outside, each of whom salute me the moment they spot my gaze. Then I glance at the doctor, who doesn’t seem surprised at all by this turn of events.
+
+Finally I turn back to the guy who is still holding onto my hand as I reach over and tell him, “No need. Just bring me to the castle.”
+
+The guy raises his head and sends me a look that kind of reminds me of a little puppy dog.
+
+Seriously, what’s wrong with these people?
+
+I’m not a damned princess, thank you very much.
+
+“I think we should clear things up,” I tell him, gently taking my hand away from his grip. “I’m not a noble. I have no noble background. Come from a Gamma Tier world. And even if I’m the Horseman of Death, there’s no reason to act like a servant before me. So please stop.”
+
+It’s getting annoying.
+
+Of course, I don’t say that part out loud.
+
+He looks surprised, and one of the guards who is saluting outside even mutters, “But you are a prin-” Then he cuts off with a grunt of pain, making me focus on him to find the guy on one knee.
+
+What the…
+
+I turn back to the guard captain as he sighs once more and says, “Very well, Lady Aria. We will act as you wish.”
+
+He stands up again, reaching his full height of about six feet, seven inches tall, before walking out of the carriage.
+
+It is really uncomfortable to have to look up just to see his face.
+
+He’s over an entire foot taller than me.
+
+The man who I get the feeling is part crimson judging by his hair and eye color bows once again after leaving the carriage before saying, “May you have a pleasant rest of your ride, Lady Aria.”
+
+He’s still calling me lady.
+
+Whatever. Doesn’t matter.
+
+Although, seeing the man does make me think about the Crimson Empire. And the crimsons in general.
+
+After hearing the Grand Silvanian Emperor’s story about the Crimson Empire and his friend, I went to research the crimsons. And I can’t help but notice a resemblance between them and myself.
+
+White hair, red eyes, pale skin, and so on.
+
+That said, I also know that my ability makes it so that my hair can’t be dyed and my eyes can’t be covered by colored lenses. And my eyes glow. Which isn’t what normal crimson eyes do.
+
+Then there’s the fact that if I’m a descendant of a crimson, it means someone from the System entered Vortel. Which would’ve sparked the System’s initialization if they were already a part of the System before that.
+
+Unless my ancestor was just a child less than five years of age when they came here. The age that the System initializes in people who are already in a world with it.
+
+Then again, I have gotten some memories back about my family. Oddly enough rather quickly, over the span of my time in the Spire.
+
+Not sure why.
+
+But it has filled in some gaps in why I could’ve possibly become the Horseman of the Apocalypse, Death.
+
+I remembered their abilities.
+
+Mom had the ability known as Life Drain, which would allow her to directly drain and manipulate the life force of others. It would also explain the jewel. And it used both death and life magic.
+
+Dad had the ability known as Death Lightning, which was basically just incredibly dense death energy compacted in the form of lightning. And it used death magic.
+
+And Adrian had the ability Life Clone. Which let him make a perfect clone of anything. But if he used it on a person, it wouldn’t send memories back and forth between the original and the clone. And it needed to be resupplied with life force every now and then. And it used both death and life magic.
+
+The only clones he could make that didn’t need to be resupplied were those of himself. Although those still don’t give memories back to the original.
+
+He didn’t even get any sort of way to tell if a clone was still alive or not.
+
+I purse my lips at the thought of his ability, and the remembrance of his occasionally giving energy to Mom and Dad.
+
+Hmm.
+
+Clones…
+
+I turn to look out the window as the carriage moves forwards again. Just resting my chin on the palm of my hand.
+
+Flashes of what the emperor said before fill my mind about me looking like his friend. Mixed with the cloning ability, and Mom and Dad potentially being clones.
+
+But after several seconds of thinking, I shake my head. Deciding that it would be best to not give myself any hope.
+
+I saw their dead bodies myself and they didn’t disappear. And they wouldn’t hold back anything. It wasn’t like them.
+
+They wouldn’t keep that from me. That they were clones all my life.
+
+And if they were clones, then where are they now? The originals of my parents.
+
+Not here.
+
+So no hope.
+
+But…
+
+I frown.
+
+What if… what if a clone was alive for nearly a decade? Would its personality branch off from the original personality? Would they change?
+
+For some reason that thought sticks with me a little bit.
+
+In the end though, I decide to put all of this out of my mind, sealing it up in a little box.
+
+Because regardless of what’s going on, if anything is going on, I don’t want to be hurt again.
+
+I unconsciously reach up to my chest to grab the jewel there dangling from a necklace over my shirt.
+
+No hope.
+
+I stare out the window for several seconds before my attention returns to Shirogane.
+
+Come to think of it.
+
+He kinda sounded a little down earlier.
+
+Wonder what happened to him while I was on my short trip in the Spire?

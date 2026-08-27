@@ -1,0 +1,127 @@
+---
+id: 289a6de6-37e3-51d5-a39c-cb9a86c4b506
+page-type-slug: story-chapter-royal-road
+title: "Chapter 75"
+slug: 0076-chapter-75
+partOf: death-healer
+position: 76
+ownLength: 1449
+unit: words
+publishedAt: 2025-10-01
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2644198/chapter-75"
+royalRoadId: "2644198"
+---
+
+Lily knew that this could very well be the moment she died.
+
+Facing a horde like this without reinforcement, being below Level 100, and as a newly Classed person? Under normal circumstances, it would mean certain death.
+
+Yet, something in her boiled.
+
+Her fighting spirit had never been so stoked.
+
+And it wasn’t just hers.
+
+It was Liliana Ember’s too.
+
+The memories from a life where she had chosen medicine over fighting made her itch.
+
+“Sabinus, just follow me. Clear any attacker. They can’t attack all at once. Let’s treat this as a normal melee. Ignore the hoard. If anything very high-level comes my way or something is in my blind spot, you take care of it.”
+
+“Shouldn’t I go first?” Sabinus asked.
+
+“My Class Skills are perfect for this kind of fight,” Lily said, clenching her fist and summoning [Life Flow] and [Sky of Death] over her forearms and letting them become denser and denser until they turned into lightning, into mana so concentrated it essentially became plasma.
+
+“After you, then,” Sabinus made a gesture and Lily nodded.
+
+She activated [The Seven Stars of Twilight] and [Death Scan], looking for the closest Undead Fire Mage.
+
+She jumped down from the roof and leaped over the wall, covering herself with a shell of Mana. Now that she was moving at high speed, she could feel the difference that [Vitruvian Body] was making for her. It was night and day. She had never felt this connected to her own body.
+
+Never.
+
+The moment they touched the ground, the horde moved.
+
+The zombies started pressing one on top of each other, barely giving Lily any space to move. But this wasn’t the same Lily who had entered the mysterious villa a week prior.
+
+She let the lightning build up and then threw a fist charged with [Life Flow].
+
+White lightning erupted in a cone in front of her, and the first Undead she had planned on destroying simply vaporized together with a dozen more behind it.
+
+She heard some notifications in her mind, but she ignored them.
+
+That didn’t consume much Mana for the damage it did, Lily thought. She focused, and her world narrowed down to a single point.
+
+Then, she tried something else. Instead of [Life Flow], she activated [Sky of Death]. This time, the lightning became black, and it had small white sparks in it.
+
+The next punch was even more destructive than the one with [Life Flow]. [Life Flow] was clearly very effective against the Undead, but [Sky of Death] was truly something else. It didn’t vaporize the Undead as much as it simply cancelled them from existence without even a sound. It was pure, raw damage that left her with her mouth agape. The number of zombies she had just killed was clearly superior to the ones she had vaporized with [Life Flow].
+
+Focusing on [Sky of Death], Lily became an avatar of mayhem.
+
+She started mowing down dozens of zombies at once until she reached a cluster of Undead Fire Mages. They immediately tried casting, but Lily simply unleashed a wave of lightning that tore them apart.
+
+“You just killed a bunch of Level 50 zombies!” Sabinus shouted, taking on the zombies that tried to swarm them from behind. They had entered the heart of the horde. The heir of the Gens Cornelia was no less impressive. His sword moved and left behind arcs of Mana that cut down wave after wave. But most zombies would simply keep crawling. His attacks were not meant to work in such a setting.
+
+Lily repeated her same strategy over and over, until she could see no more Undead Fire Mages.
+
+But then, they heard whooshing sounds overhead and several old, bearded zombies looked at them with ravenous hunger in their faces. Their expressions were that of any Undead, but with glints of malicious intelligence.
+
+[Undead Lich - Level 150]
+
+Before Lily could even look at the others, a devastating spell that rained jagged, sharp bones on them enveloped both. Lily tried to dodge by predicting where the projectiles were going to land with [The Seven Eyes of Twilight], but it wasn’t enough. The projectiles were too many. And they were clearly infected.
+
+She had talked with Caesar about Liches, but she had never imagined she’d be fighting them so early. Liches were a threat on a completely different level. They weren’t as dangerous in terms of damage as a Death Knight, for example, but they were even more dangerous when it came to turning the living.
+
+“Take cover!” Sabinus shouted and erected a thick [Light Shield] on his arm, hugging Lily. “They’re too strong, Lily! We must retreat! The house’s enchanted, right?!”
+
+“Yes!” Lily shouted, gritting her teeth at the Liches who kept showering them with projectiles. They also killed a good number of zombies while doing that, but they clearly couldn’t care less. There was something absolutely perverse in their eyes that let Lily know that these creatures were truly, irreparably evil.
+
+Even though Lily's new powers made her a force to be reckoned with even among people with many levels over her, she could do nothing against the powerful Liches.
+
+The flying, Undead mages were too powerful. Neither she nor Sabinus could even attempt to fight back. Perhaps, if they had not been surrounded by a horde of Undead, they could have tried to overwhelm the monster—but that was a big if. And it would have required there to be only one Lich.
+
+With several in sight, it was wishful thinking.
+
+Lily's heartbeat drummed in her ears. She pumped her legs and arms, following behind Sabinus as they tried to find shelter in the villa. But the giant circle of Undead had closed and now, with rotting bodies piling one on top of each other, and their own Mana reserves starting to dwindle, the two felt like their time was near.
+
+Sabinus's Great Skill was a movement skill, not one that was capable of creating an opening amongst the monsters. And despite his power, despite how talented he was, he could do nothing. There was a reason why people feared the Undead: and it wasn't their individual power. It was their sheer numbers.
+
+There were so many Undead around them that even if they could somehow deal with the Liches, Lily wasn't fully sure she'd be able to take them on. Thanks to [The Reaper], she had already harvested Mana from her kills. Yet, despite her Death Magic being so powerful that it could pulverize her enemies, it still wasn't replenishing her resources as fast as they got depleted.
+
+"Lily, flee! Fly away!" Sabinus shouted, slashing at oncoming dozen zombies and creating more space around them. He was giving it his all.
+
+His breath was becoming more and more ragged, as if there wasn't much of it left in his lungs.
+
+"I can't leave you here!" Lily shouted.
+
+"It's either me or the both of us!" Sabinus cried out. "Just go!"
+
+Lily felt her eyes fill with tears.
+
+She knew Sabinus was right, and she knew it was the right thing to do. She knew that with all the power at her fingertips, it would be foolish to die here. She had just gotten a Class that promised to make her the most formidable warrior ever seen in the Papacy, easily able to overtake any challenger of her year in the upcoming Champion's Trial. And, with enough time, she'd grow so strong that even the Necromonarchy would only be a small threat.
+
+And all she needed in order to accomplish that was time.
+
+Time that, at the moment, she didn't have.
+
+Not until Sabinus had told her to ignore him, to save herself, to not throw her life away.
+
+She looked at Sabinus and gave him a hard nod.
+
+"I will burn these lands to the ground, Sabinus!" she shouted as she conjured [Fallen Angel's Wings] once more. "I will make them pay! I will kill whoever did this!"
+
+And she meant it.
+
+She flew up. However, a dozen Liches immediately surrounded her. Lily tried to outmanoeuvre them, but, even with the levels she had just gained from her kills and the increase in Attributes, they were too strong, too powerful.
+
+She couldn't shake them off and their attacks had almost nicked her—which would mean her turning into an Undead. Her end.
+
+She was forced to glide to the ground, right where she had taken off, now putting her back against Sabinus's.
+
+"It seems we'll actually die together," Lily said between her teeth.
+
+"There are worse ways to die, I suppose," Sabinus smiled.
+
+They faced the horde.
+
+Then, suddenly, a white flame erupted in the sky.

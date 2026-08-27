@@ -1,0 +1,159 @@
+---
+id: 8a54971b-aef2-5d6f-9e62-ceafe5cdad0e
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 22"
+slug: 0089-b2-chapter-22
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 89
+ownLength: 1633
+unit: words
+ownProgress: 1633
+publishedAt: 2024-02-07
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1509865/b2-chapter-22"
+royalRoadId: "1509865"
+markedReadAt: "2026-06-29T19:08:57.921Z"
+---
+
+Aria
+
+Hmm, from what I’ve learned in my vast experience of an entire twenty-three years that is probably shorter than a fifth of this guy’s life, when someone backs you into a corner like this, you reverse it on them.
+
+“How about you?” I ask while folding my arms under my chest and raising a brow at him. “Why is the owner of my favorite café on Eternus here?”
+
+That gives him pause before he frowns and asks, “Just on Eternus? Not your favorite café?”
+
+I nod my head, “Just on Eternus. My favorite café is still on Vortel.”
+
+“Huh,” he mutters, lowering his head and scratching his chin. “Guess I’ll have to up my game…”
+
+A few seconds pass as he asks for suggestions for the café, only to suddenly widen his eyes and then narrow them, stating, “You almost changed the subject.”
+
+Not almost. I did change the subject.
+
+Although not for long enough it seems.
+
+One thing I’ve learned from my time dealing with Azura is that the man is honestly a touch similar to me in terms of his mind getting distracted from the current matter at hand rather easily. Judging from the rather frequent conversations we used to have at the café.
+
+“No idea what you’re talking about,” I state with a perfectly innocent look on my face. “Now, I think you can improve your café if you were to add some trees nearby. Maybe some snow as well. It’s all about the ambiance, okay?”
+
+He frowns at that and mutters, “The ambi- wait, no, we’re not doing that again.” His eyes narrow. “Fine, I’ll answer your question.”
+
+Damn. Almost got him again.
+
+“I happen to be the seventh in line for the Atlantean throne,” he says before seemingly standing ever so slightly taller. As if prideful of what he just said.
+
+I just stare at him.
+
+Silence fills the room.
+
+Eventually he frowns and relaxes a little again as he asks, “Uh, little Riri? Anyone home?”
+
+“No, seriously,” I ask, ignoring his use of that little nickname he gave me at his café. “Why are you here wearing an Atlantean Delegate uniform?”
+
+His frown grows as he mutters, “You don’t believe me…”
+
+I give him a blank stare as I state as plainly as possible, “You are a man who would always spend his time at an arcade in your own café drinking and playing arcade games while talking to a twenty-two year old woman and pulling her into playing games with you since no one else in the café had any interest in playing the arcade games.”
+
+He opens his mouth to retort, then closes it again. Then opens it, and closes it.
+
+Yep.
+
+After one more repeat of that, he lets out a sigh and says, “Not my fault none of my other regulars had any interest in arcade games…” Then he mutters something about stupid modern video games before growing serious again as he pulls out some sort of medal. “I am being serious. My name is Azura Atlantus Althea, the seventh in line for the Atlantean throne and the fourth prince.”
+
+I look between his face and the medal several times before eventually settling on his face and muttering, “You’re being serious, aren’t you?”
+
+He nods his head and lowers the medal back into his uniform’s collar as he asks, “Now what about you? Why are you here?”
+
+Uh. If he’s really an Atlantean prince… this might be even more awkward than I thought.
+
+I can’t exactly go telling him that I came here to blow up the weapons production facility of his ally…
+
+“Look, I understand that you’re on the run from the Grand Roan Empire,” he says, shocking me at his knowledge and likely proving his identity in that alone, “but I can’t understand why you would be in this world unless…” he frowns. “Unless you’re working for the Dynasty’s ally.”
+
+The man just stares at me, making me feel like his eyes are daggers looking straight into my soul.
+
+After a few seconds he asks, “You’re here to sabotage the Sullivan Clan, aren’t you?”
+
+Well, shit.
+
+“Well, Imma head out now,” I tell him with a wave before quickly turning around and grabbing the door before walking out, not giving him time to react. And right as I’m expecting him to set off some sort of alarm or to capture me himself – his level is high enough to easily do that since I can’t see it – all I end up being is surprised when I find the man casually walking right next to me towards the stairwell.
+
+“Guess I have my answer then,” he whispers as we walk, but he still doesn’t blow my cover.
+
+Which confuses me.
+
+In fact, when I try to go back to the stairwell, he helps me go upstairs.
+
+Okay, is he really a prince? He’s not just some sort of guy faking it and trying to sabotage them himself, is he?
+
+We continue on up to the tenth floor where he gives some sort of excuse to the guards there and then he nudges my shoulder and nods his head to a random storage room. So, feeling more curious at this point than nervous, I follow him into the room.
+
+Then he says something ridiculous, “Well, I brought you up here. So do what you want to do. Just make sure you visit Atlantis within the next decade.”
+
+I stare at him blankly.
+
+“What?” he says with a frown on his face. “Would you rather I turn you into the authorities here? I’ve already told Father about you and he cares more about a relationship with you than with a Clan that’s likely going to end up losing this war anyways.”
+
+Oh.
+
+That… wait, what?
+
+“Why do you think they’re going to lose the war?” I whisper back to him, the two of us keeping our voices down just to make sure no one walks by and hears us.
+
+He blinks at that and says, “Because the Gallagher Clan is working with War.”
+
+I stare at him again for several seconds before muttering, “Oh.”
+
+Then he just pats me on the head and says, “Make sure to visit my café in Atlantis when you stop by, little Riri.”
+
+And without another word, he opens the door and leaves the room.
+
+I continue staring after him for several seconds before snapping out of it.
+
+Right. I’ve got explosives to set.
+
+Although… why does he have so many café’s when he’s a prince?
+
+The Atlantean EmbassyA few hours later
+
+Azura rests his face in his hand, his elbow resting on the railing of the embassy’s outdoor portion. Meanwhile the second princess, the fourth in line for the Atlantean throne, discusses their current business matter with the Sullivan Clan delegates. Not that whatever they discuss will matter soon enough.
+
+He gives little Riri – his nickname for the Horseman of Death – only another few minutes before the explosives go off. Because it should only take a couple hours tops to put them up.
+
+Actually, he’s become a little worried that nothing has happened yet.
+
+It’s possible she’s trying to avoid some civilian casualties, but that would be too soft in war.
+
+Then again, she may be ruthless towards her enemies, but she’s still… if not kind, then indifferent towards those not directly her enemy. At least from what I’ve heard.
+
+He’s not entirely sure about that since all he knows about her in terms of a combat setting is from the intel he’s gathered from the Atlantean Royal Spies. And that was only possible due to Atlantis’s relationship with the Eternal Dynasty. Another reason his father is so willing to abandon the Sullivan Clan.
+
+Azura almost lets out a sigh, only stopping himself so as to not hurt Atlantis’s reputation.
+
+On a political scale, the Kingdom and Beta Tier world of Atlantis are on an equal terms with the Sullivan Clan, which is only one of six ruling clans of an Alpha Tier world. Especially since, unlike most Beta Tier worlds, Atlantis does have a single Hunter’s Spot, making it on the upper end of Beta Tier worlds.
+
+Still, Azura sure was surprised to find Little Riri here. He mostly remembers her as the only regular at his Dynasty vacation and work café that enjoyed arcade games. So he would often drag her into joining him.
+
+Of course, if he saw that she didn’t like it, he wouldn’t have dragged her in to join him more than once. But he could tell she enjoyed it even if she tries to avoid people.
+
+So he kept doing it.
+
+Eventually it just became normal for them to play some arcade games when she visited.
+
+If it weren’t for the age gap he would probably have fallen for her romantically. But he can’t. Not when he knows that she’s only a tenth of his age.
+
+Maybe in a few decades.
+
+Now though he just sees her as that cute Horseman of the Apocalypse that visits his café.
+
+And he sure does love a regular customer.
+
+Who wouldn’t enjoy it when someone came in and enjoyed your coffee?
+
+Although he does still feel a little bitter that his café isn’t her favorite.
+
+A loud set of explosions ring out from above him, pretty much destroying the weapons production facilities in the Grand Tree. Meanwhile a certain woman wearing a red and black set of armor similar to what one would find in the Dynasty falls right past him heading straight towards the coast down below.
+
+Azura briefly glances down as she falls before continuing to look forwards with a sigh.
+
+What can I do to improve my café? I should ask again when I see her next time.

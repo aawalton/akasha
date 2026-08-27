@@ -1,0 +1,123 @@
+---
+id: 6955948d-ed4c-5b80-9a86-550f040c80d4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4"
+slug: 0005-chapter-4
+partOf: death-healer
+position: 5
+ownLength: 1956
+unit: words
+publishedAt: 2025-05-04
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2254572/chapter-4"
+royalRoadId: "2254572"
+---
+
+Adriana gazed upon her newborn daughter, Lily, with a perplexed expression. The room had fallen silent after her brother, Ennius, and nephew, Cassius, had taken their leave. A question hung in the air, unanswered: where did that small pulse of Mana come from?
+
+"It was you, wasn't it, darling?" Adriana murmured softly to herself as she tenderly laid the infant in her cradle.
+
+But it was impossible.
+
+For a babe so young, so fragile, to possess the ability to not only perceive the presence of Mana but to interact with it?
+
+Lily's innocent giggles melted Adriana's heart, pushing her worries aside for the moment.
+
+…
+
+It was an uneventful succession of weeks for Lily as she settled into her new life as an infant. Her days were filled with the simple routines of a newborn - sleeping for long stretches, attempting to move her tiny limbs with uncoordinated jerks and twitches, feeding at her mother's breast, and dozing off again.
+
+As the weeks passed by, though, Lily's mind began to sharpen, her awareness of her surroundings growing with each passing day. She found herself increasingly drawn to that fleeting sensation she had experienced during her uncle's visit. So, she kept trying to reach for it in all the spare time she was graced with by virtue of her being a newborn baby whose job was to feed and nap—and filling up her diapers.
+
+And so it happened that one day, roughly two months later, as her clarity of mind had somewhat peaked for an infant, Lily finally fully captured the sensations around her. She could feel the gentle flow of energy that permeated everything.
+
+And thus, without anyone realizing it, she attained her first Skill.
+
+* * *
+
+Nine-month-old Lily lay belly up in a baby gym, surrounded by several hovering figurines. If she had retained any memory from Earth and her neocortex had fully developed, she would have been able to comprehend the stark differences between this experience and her previous world.
+
+Instead of having the figurines attached to physical threads to the x-shaped dome of the baby gym, they were attached to the Mana field of the expensive toy. More specifically, Lily could now both see with her eyes and perceive with her thoughts how much Mana was in one specific location at a time: she was, therefore, able to see how the toy figurines of a templar, a healer, and a mage held different amounts of Mana the closer they got to her. They would get close to her, hover for a few seconds within her reach, and then distance themselves if she didn't grab any of them. The next figurine would get a little closer and stay a little longer, giving her more time to grab it.
+
+Lily had figured out the game within an hour of playing it. Her mother had briefly watched her play before leaving her for a few hours at a time with a nondescript woman whose name Lily didn't know.
+
+Bored with playing the game the way it was intended, Lily had already found her own more exciting variation. She was already able to sit upright, which made all the figurines stay roughly within reach. So, what she did was to try and guess which of the figurines would try to get close to her next and touch it with a finger before the Mana in it fully flared and touched her. This meant that Lily engaged in a deadly run against time each time she stopped the figurines from working properly since the baby gym would immediately try to reset itself and jump onto the next figurine.
+
+Considering that a nine-month-old baby, no matter how smart, had quite poor motor control, Lily often fell on her back while trying a while backswing to catch one of the figurines that weren't fully in front of her. Day after day, she got more and more energetic, more and more refined control over her capabilities, and, most importantly, more levels.
+
+It was a pity that one couldn't see their Skills level up before reaching Class Day, nor could anyone else. Otherwise, more than one person, both inside Lily's household and outside, might have suffered a heart attack.
+
+Her caretaker and servant, whose name she would eventually learn, spoke to her mother in very worried terms.
+
+"Lady Adriana," the girl said meekly, "the young mistress Liliana keeps falling on her back while playing with her toy. She's not following the rules. I—I tried showing her what to do, but she doesn't grab the figurines, she just slaps them."
+
+Adriana raised her eyes from some legal documents she needed to double-check for the acquisition of new property in their Gens's name, frowning at what Decima was saying. She was still breastfeeding Lily at regular intervals, but she couldn't afford to spend all her time with her daughter either. With Lucianus still gone for a Dungeon crusade, she was making sure that their house's finances and properties were still being smoothly managed. She had just discovered that one of their administrators had been embezzling money and, having received probably the best education in the entire country of Lumina because of her lineage, she had already had the man thrown in jail. Now, she needed to take over the books for the business the man had been overseeing and make sure that one, it would still run properly, and two, that they somehow recoup the lost money.
+
+Honestly, she didn't have time for whatever nonsense Decima was up to.
+
+I should have picked a more experienced maid, Adriana thought to herself, looking the young woman up and down. But she's shown promise.
+
+Her daughter had proved extremely intelligent already and was just waiting for the time she could instruct herself on healing magic. Decima came from a family Adriana had helped out when she was still the part of her old family, the Gens Iulia. Therefore, she knew she could trust the woman—and that was worth more than competence alone.
+
+"Decima, I'm busy—it's just a toy anyway," Adriana sighed, rubbing her temples. "Cassius is visiting later with Lumius and Lucretia. Let them play with Lily and see what he says. I'm sure everything is fine."
+
+* * *
+
+Prince Cassius raised an eyebrow at Lily's caretaker, Decima, and then back at the little girl. His cousin had her eyes closed and was palming wildly at the figurines of her baby gym.
+
+"She used to keep her eyes open while playing, but now she does this all the time."
+
+The little boy looked at the girl with a little annoyance. He would have rather been out there, training, than spending his precious time with a toddler. However, the customs of the Gens Iulia, the lineage of [Popes], demanded that their youth spend as much time with each other as possible.
+
+Cassius kept looking at Lily, slightly annoyed, as Decima went and put a soft blanket beside her and laid Lumius beside her.
+
+Lily and Lumius were born on the same day. Together with them, there had been Lavinia Aemilia, from the main branch of the Gens Aemilia, the strongest lineage of [Templars]. The fact that three children of the three main families had been born on the same day was very auspicious, and if Cassius's father was right, it also meant that their destinies would be intertwined. The God of Light never shone His Light without a reason.
+
+Cassius sighed as he saw Lucretia, his younger sister, now almost four, brush her hair and be totally disinterested in her younger brother and their cousin.
+
+So, he sat on the same bench where Decima spent most of her time and watched the two toddlers.
+
+Lumius was a very placid baby. So far, he hadn't displayed much in terms of talent. His Mana signature was still awakening and there was no way to tell what exactly were his capabilities.
+
+Lily, instead, joyfully ignored the cousin beside her and kept on playing her wild little game of slapping the figurines around.
+
+Soon enough, through sheer boredom, Cassius had started analyzing what the little girl was trying to do. While Decima on his side, despite being many years older than him and a full-fledged adult, had been completely clueless, he soon saw that his cousin didn't seem to have the random movements one would expect from a toddler.
+
+Instead, he noticed there was a slight pause before Lily struck one of the three figurines. At first, it looked like a random pattern, but the more he observed her, the clearer it became that it wasn't random at all.
+
+But what could a child who didn't even speak be doing? Children of the nobility usually got their very first skill around the time they were two when they started forming very short sentences. He knew this because his father and late mother had often remarked how not only had he been a very precocious baby, being able to speak small sentences when he was barely one, but also how he had gotten the ability to perceive Mana when he was three. That, as far as [Midwives] knew, was a never-heard-before record.
+
+Lily was barely teething, much less speaking her first words. Nonetheless, something nagged at Cassius. That's when he focused on Mana Sense, the skill that future [Light Mages] and [Healers], and generally talented babies, learned first. It was an ongoing joke that if a child learned [Running] before [Mana Sense], they'd be destined to be peons for the rest of their lives.
+
+So, as his vision shifted and Mana became evident in the house, he felt the hair on his head stand on end. He saw small flashes of Mana in the enchanted toy, which was nothing out of the ordinary, but that was also when he noticed that Lily's movements perfectly matched the Mana flare-ups.
+
+No, even more impressive—Lily was anticipating them.
+
+Excited, Cassius jumped from the bench and approached Lily and Lumius, examining the three figurines up close. That's when he confirmed that his cousin was not palming wildly at random but was playing a game with the figurines, trying to catch them before they got close to her, something that could only be done if Lily had not only already learned the skill, but also was quite proficient with it. Lily must have had the Skill above Level 25, which was the cutoff for non-visual perception of Mana.
+
+Having spent perhaps too long among rough instructors and his father, therefore having been privy to quite a few different manners of speech, Cassius could only repeat the common exclamation that he had so often heard when people had been overwhelmed by his talent.
+
+"Fuck me," the kid said.
+
+"Prince Cassius!" Decima, the young maid, immediately went ahead and reprimanded him.
+
+* * *
+
+Adriana looked with wide eyes as her mother sat beside Lily, stunned into silence.
+
+"Mother! What is it?!" Adriana asked anxiously.
+
+"It should be above Level 30," the older woman said, speechless.
+
+Cassius had immediately gone to alert his Aunt, who in turn had gone to her mother, Hestia, in order to lease the artifact the Papal Estate used to vaguely determine a toddler's skill.
+
+"Dawn's mercy," Adriana whispered. "Are you sure?"
+
+Hestia passed her daughter the short rod that showed one line after touching Lily with its end.
+
+Three lines had lit up. While there was no surefire way to measure a Skill's level before one's Class day, there was still a rough way to determine how advanced specific Skills were.
+
+"By His Eternal Flame, Adriana," the older woman muttered. "We need to talk to our family's [Blacksmiths] and [Enchanters] immediately."
+
+"What for?" Adriana frowned.
+
+"We need more toys for your daughter."

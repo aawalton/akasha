@@ -1,0 +1,147 @@
+---
+id: 885d3b3e-3cfe-544a-8bf6-2280e921dc90
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 28"
+slug: 0331-b5-chapter-28
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 331
+ownLength: 1431
+unit: words
+ownProgress: 1431
+publishedAt: 2026-01-24
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2975814/b5-chapter-28"
+royalRoadId: "2975814"
+markedReadAt: "2026-06-29T19:17:03.678Z"
+---
+
+Aria
+
+Time passes before the time of the meeting finally arrives. At which point I find myself lying down on a comfortable couch while sipping wine as Lucius just does some training off to the side for some reason without a shirt and Pestilence just focuses on some experiment. Occasionally muttering something from his place at a table covered in paper and laptops.
+
+And the moment Famine makes his grand entrance, having servants pull open the doors as he swaggers through them looking proud of himself, not a single one of us turn to look at him.
+
+I just continue reading my book while turning over to lie on my front on the couch. Pestilence doesn’t even stop muttering to himself about his experiment. And Lucius continues his training, even having a servant bring a dummy for him to train with.
+
+“Welcome, my fellow Horsemen! Oh, how long it’s been since we last met up!” Famine says, seemingly not bothered with our dismissive attitudes in the slightest. Possibly even used to them actually.
+
+Then again, this isn’t the first meeting of the Horsemen. It’s just the first one where I’m a part of it.
+
+So Lucius and Pestilence probably ignored his overly grandiose actions in the past meetings too.
+
+Come to think of it, the Horsemen have a really weird way of interacting with each other. It’s like we’re all just kind of stepping over each other, without any of us being insulted by the others.
+
+Which is just weird.
+
+Famine goes on preaching about how superior Horsemen are wherever he goes without a care about what the other Horsemen think. Even when he sees them in person and clearly sees us ignoring him or disagreeing with his views.
+
+Pestilence goes around destroying worlds and slaughtering people just through his experiments, even when some of those worlds belong to other Horsemen. And the other Horsemen just ignore him.
+
+Although, all things considered, War doesn’t care about the worlds under his rule and Famine seems convinced that anything a Horseman does is right.
+
+And lastly, War goes around conquering one world after another on his whims. Including some of Famine’s worlds. And Famine ignores this.
+
+It’s like a game of who can ignore each other the best.
+
+Not that it bothers me, since I’m great at ignoring unpleasant things. Little Blue said the same thing.
+
+And I’m still proud of that compliment today.
+
+Anyway, I continue reading as Famine spouts some nonsense about the unity of the Horsemen, blah, blah, blah. Meanwhile the servants and knights in the room all applaud him like he’s speaking some sort of grand speech.
+
+And us Horsemen ignore him.
+
+Eventually he begins to get a little serious though as he says, “Now, who here has been bothered by this Demon King creature?”
+
+I finally lift my head to glance at him. And at the same time, Pestilence answers without turning his head, “His demons have made for good experimental subjects.”
+
+Yeah, kind of expected an answer like that. They’re a new creature formed from an unknown energy. Just like us Horsemen in a way, albeit weaker.
+
+So it makes sense he’d be interested.
+
+“If you’re going to deal with that Demon King creature, please bring it to me,” Pestilence continues, still not bothering with pausing his typing on the keyboards in front of him. “I’d like to run some experiments on it.”
+
+He’s not even calling him a he? Guess the Demon King really is just a test subject to him.
+
+“I want to fight him,” Lucius says while turning towards Famine with a wide grin on his face and without even a drop of sweat on his body. Which makes me wonder why he’s training without a shirt in the first place. “He seems to have some interesting skills I could take.”
+
+Yeah, that tracks.
+
+Famine turns his focus towards me as I finally state, “If you want him, just look around me. The guy keeps popping up out of nowhere just as often as Lucius does, pestering me without end.”
+
+My words instantly make a scowl spread across Famine’s face before Pestilence and War turn to stare at me.
+
+Why do I feel like I shouldn’t have said that?
+
+“A mere bug dares to pester a Horseman?!” Famine practically roars, his rage making the servants and knights in the room literally tremble with fear.
+
+On the other hand, Lucius just says, “Guess I’ll be seeing you more often, little Aria!”
+
+And Pestilence?
+
+He just rubs his chin while muttering to himself. Something about asking me for another favor.
+
+Are they really going to follow me just to get at the Demon King? I seriously hope not…
+
+“Beyond that, the Demon King’s minions can’t even sense me,” I eventually continue with a shrug, deciding to deal with that problem if it comes. Making it future Aria’s problem and not present Aria’s problem. “They apparently only see life force. And I don’t have that.”
+
+Pestilence immediately begins writing down notes while muttering things about the fallen demons, clearly interested in that aspect of them. Meanwhile Lucius mentions something about understanding why the Demon King’s been bothering me now.
+
+Famine is still throwing a fit about ‘some worm daring to bother Death’, but I think I can ignore him for now.
+
+All the servants and knights are quietly moving away from him as subtly as they possibly can. And Pestilence and Lucius are both ignoring his existence as he says some rather dark things.
+
+Eventually his mutterings lead to him declaring all out war on the Demon King though. So I guess that’s probably not a bad thing?
+
+Turning one of the universe’s boogeymen on another.
+
+Sounds like a good plan to me.
+
+I give a firm nod of my head at that thought before continuing to read my book. Meanwhile Pestilence mentions something about joining Famine on his hunt. And War does the same.
+
+But I just continue focusing on reading my book. Even as they move on to the next topic. Which is something about the increase in Apocalyptic energy in the universe caused by the Demon King’s war. A situation that is actually making us Horsemen stronger over time.
+
+After all, the more of our specific energy is in the universe the more we can absorb and the stronger we can grow.
+
+I pay a little attention to this conversation, but I mostly just continue reading my book. Even after they finish discussing this topic.
+
+Although I’m not the only one only half paying attention to the discussion.
+
+Pestilence went back to his experiments after the Demon King discussion finished, and Lucius is training again.
+
+The only one looking serious about this meeting is Famine, who was the one who set up these regular meetings in the first place. Oh, and the servants and knights look serious too. But they’ll probably be punished by Famine if they don’t.
+
+So the meeting continues for a few hours with Famine doing almost all of the talking. And by the end of it, I manage to finish my book.
+
+That was a good book.
+
+A faint smile spreads across my face as I reminisce about the book I just finished.
+
+I ignore Famine as he tries to make some grand closing speech for the meeting, only to find Lucius still training, and still without a drop of sweat.
+
+Does that man even sweat? I remember that he has a skill that makes it so he can’t get tired so long as he’s fighting, but still.
+
+And Pestilence is still typing and writing away. With even more pages now than earlier stacked up on the table.
+
+A table that’s pretty much just buried at this point.
+
+Poor table.
+
+Anyways, right as I’m sitting up on the couch and stretching, someone appears right behind me before picking me up into their arms and teleporting away. Making me reappear on the edge of the volcano’s crater looking out at the large mansion with a blank look on my face as the person – who turns out to be a knight from the Crimson Empire – gently sets me down.
+
+They then immediately apologize for their actions before vanishing.
+
+Huh?
+
+Well that… was unexpected.
+
+After a brief pause, I just shrug and continue stretching.
+
+Then an explosion blows up the entire mansion, sending my hair flying in the wake of the explosion.
+
+Oh.
+
+That’s why they did that.
+
+I blankly stare at the ongoing explosion for several seconds before remembering something.
+
+Right. I should stop by my ship for some wine.

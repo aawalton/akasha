@@ -1,0 +1,141 @@
+---
+id: b15618aa-8215-562b-84f6-e3c89513a2d5
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 37"
+slug: 0342-b5-chapter-37
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 342
+ownLength: 1349
+unit: words
+publishedAt: 2026-04-09
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/3252986/b5-chapter-37"
+royalRoadId: "3252986"
+---
+
+Aria
+
+After I finish my paperwork, I go ahead and continue my journeys across the universe. For the first time heading to one particular nation that I’ve avoided until now. All because of its ruler making me rather uncomfortable.
+
+But now that said ruler, Famine, is dealing with his own… issues… I feel like now is as good a time as any to go check out Famine’s Dread Empire.
+
+As for the apocalypse going on through the universe? With Famine sending his Famine Spirits through the Gates into millions of planets all at once?
+
+Yeah, I just decide to ignore that.
+
+Even if I actually cared, there’s not really much I can do when I can’t even scratch Famine at my current level.
+
+On top of that, Famine – despite his insane cackling I could hear even while doing my paperwork since he was attacking Eternus at the time even if he was avoiding my properties there – is avoiding all my worlds. And he’s avoiding attacking any of my friends.
+
+The only people related to me he’s attacking is the Crimson Empire. Which makes sense since they’re the biggest reason he ended up cursed.
+
+What with having two Grands. A fact that has been officially confirmed in the universe.
+
+So now there are nine Grands again. With my father having replaced the previous Archmage on the official Grand records.
+
+And thanks to that, the Crimson Empire is officially considered on par with the Horsemen’s nations simply due to having two Grands instead of just one.
+
+Speaking of that former Archmage, she’s been doing a good job at the mercenary company. She’s also been putting in work on undoing that curse placed on me.
+
+Although she isn’t getting as much progress as my parents and brother are hoping for from what I’ve heard. Simply because her mana is so much lower now than before.
+
+Then again, I don’t care much about the curse one way or another.
+
+That aside, the planet I go to first in the Dread Empire is an important one but not the capital. It’s just one of the many major planets of the Dread Empire.
+
+And as usual with every single world of the Dread Empire, it’s governed by the Grand General of the Dread Empire.
+
+Unfortunately for him, the Grand General has no actual name. And he is the adopted son of the Horseman of Famine himself.
+
+It’s to the degree that his Class is Son of Famine. Just like my own adopted kids.
+
+But unlike my kids, Famine doesn’t give a damn about his adopted son. At all.
+
+To the point that he didn’t even allow the man to get a name. He’s just called by everyone as the Grand General of the Dread Empire or the Son of Famine.
+
+Of course, some people try to give him a name out of pity. But the names are never actually remembered or official.
+
+From what Famine blabbered on about him at some point during the meeting days, the only reason Famine didn’t just dispose of his adopted son after losing interest is because of his use. Since his ability is incredibly useful to Famine.
+
+The ability to make an infinite number of clones and send them anywhere with no range limit.
+
+After all, having a single trustworthy and skilled individual governing over every single planet in his empire through an infinite number of clones is drastically more convenient than having to find governors for every planet that he can trust.
+
+Although another reason is because he has the Class Son of Famine. Which is related to the Horsemen.
+
+Still. Despite that he doesn’t treat him very well.
+
+And the Grand General himself kind of acts rather dead inside from what I’ve heard. He is entirely practical and analytical in everything he does. All with a dead expression on his face and not a single hint of emotion.
+
+Probably because of the way he was raised.
+
+He was brought up by a man who doesn’t care about anything that isn’t a Horseman after all.
+
+So chances are he was brought up thinking of himself as nothing but some sort of servant. A lifeless doll forced to obey every single one of his commands.
+
+Or rather, taught to obey every single one of his commands from the earliest moment that he can remember.
+
+It’s almost scary thinking about how he’ll treat me when I see him.
+
+I let out a sigh before looking out at the world in front of me the moment the ship arrives outside of it.
+
+And what a world it is…
+
+The world itself has a high level of advanced technology. Not quite to the point of the Rex Dynasty though.
+
+That said, the world is filled with nothing but skyscrapers and rundown buildings.
+
+There aren’t any regular buildings on the planet at all. Not even a single one.
+
+It’s just skyscrapers and rundown one and two story buildings that look like they’re halfway to collapsing.
+
+And it looks nothing like anything I’ve ever seen.
+
+On top of all that, there is one massive metallic pyramid at the northern pole of the planet. At the very top of it.
+
+I look down at the planet from the bridge for a bit while feeling rather curious about the fact that the battleships around the planet are ignoring me. Almost like they’ve already cleared my entry.
+
+Which I guess makes sense. Considering that my ship is rather well known across the universe. And knowing Famine, he’s probably already given my ship clearance to land on any planet in the Dread Empire that I please.
+
+Not that any planets have a landing pad large enough for my ship to land on in the first place.
+
+That said, I don’t need to land.
+
+With that in mind, I summon my horse before climbing on its back and opening a gate leading straight down to a place I can barely see from up here on the surface of the planet. Then I pass through the gate to enter the planet while closing said gate behind me.
+
+And what I see after appearing on the planet is rather disturbing.
+
+For one, I find everyone staring at me. Whether they’re people crossing the street, people walking down the sidewalks, or even people looking down at me from the buildings. Most of which in this particular area are skyscrapers.
+
+And for two, everyone is emaciated.
+
+They’re starved and so skinny and pale that they look like they could die just from a single flick of mine.
+
+Yet despite that, the people look like they’re used to it. Which is depressing in its own right.
+
+What’s even worse though is that when they see me appearing in the middle of the street atop my horse, every last person begins to lower themselves to their knees and bow down while trembling in fear. Almost like they’re honoring royalty or some sort of deity amongst them.
+
+And it’s not just the citizens, but the knights that I see around here in armor as well.
+
+I step down from my horse while dismissing it before frowning at them. Which only seems to make them tremble even harder.
+
+These people are all terrified of the Horsemen…
+
+That’s very sad.
+
+I’ve heard about the atrocities committed by Famine for centuries now, but this is the first time I’m seeing it put so boldly in front of me…
+
+It’s despicable.
+
+My thoughts return to the Apocalypse of Famine going on, along with the Famine Crusade that’s starting up across the universe.
+
+Hmm…
+
+There’s no way for any mortal to enter a Plane other than the Mortal Plane. Meaning no one can target Famine inside of the Plane of Famine.
+
+Not without very long range targeting attacks, that is.
+
+I look around the city street for a bit before putting my hands in my pockets and beginning to walk down said streets in the direction of the Planetary Hall.
+
+Where the Grand General’s clone is residing.
+
+Before anything else, I would like to meet with the Grand General.

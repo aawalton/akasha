@@ -1,0 +1,329 @@
+---
+id: 6b593862-cb2a-559a-bdc0-e1102c4586f7
+page-type-slug: story-chapter-royal-road
+title: "086: Explosion"
+slug: 0086-086-explosion
+partOf: delve
+position: 86
+ownLength: 4711
+unit: words
+publishedAt: 2020-03-15
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/468473/086-explosion"
+royalRoadId: "468473"
+---
+
+Rain climbed off of the broken remains of the Plague Rat Trundler, looked around at the aftermath of the battle, and sighed. He used Detection to verify that nothing else was coming, then clapped his hands together to get everyone’s attention. “Okay, everyone. Gather around. Let’s review what just happened there.”
+
+“We won is what happened!” Kettel shouted. “That were brilliant! Did ye see me kick that one?” He pointed. “Nice distance!”
+
+Rain shook his head.
+
+“Rain?” said Breggeh, “Um, I think I might be…” she coughed. “Poisoned. I don’t feel right.”
+
+Rain looked at her, then at her health bar on the party display. It was down a few points, but he hadn’t seen her get hit during the battle. Kettel and Bosco also had lost a point or two. As he watched, Kettel’s bar dropped by another tick.
+
+Quickly, Rain activated Purify. He used all of his modifiers, compressing it to ten meters and leaving it there for five seconds. He had no idea what the specific poison or disease was, but there was no way it could survive Purify at that level, even with the lair dampening it. When his senses returned, no sign remained of the Plague Rat that he had crushed.
+
+“Bloody depths, that were bright!” Kettel said, blinking. “You coulda’ warned me ye were gonna—Oi! Look at that! Fuckin’ disgustin’!”
+
+Rain looked where Kettel was pointing and felt his stomach do a flip-flop. One of the Trundlers had only been partially within the radius of Purify. The spell had atomized that half, making it look like a bite had been taken out of the corpse by some ridiculously sharp surgical tool. He could see a cross-section of its insides, leaking blood and other disgusting fluids onto the dirt.
+
+“Ew,” said Samson, sedately. “That wasn’t something I needed to see.”
+
+Rain looked away, reminded of the incident with the Skiffun. He turned his eyes back to the party display instead. Thankfully, it looked like the health drain had been stopped. Everyone was holding steady, having taken no more than ten points of damage. He himself was completely unharmed. Wait… He felt at the potions festooning his chest in their bandoleer, then sighed in relief. It looked like Force Ward had protected the fragile glass bottles.
+
+“Hey, loot!” said Bosco, bending to pick up a cluster of Tel. “Dibs. I got the killing blow on this one, so these are mine.”
+
+“No,” came Velika’s voice. “My lair, my loot.”
+
+Rain nodded. He’d been expecting that. It was more support for his theory. The fact that Velika cared about such a small quantity of Tel confirmed that she’d been cut off from whatever resources that her family commanded. The only money she had would be whatever she had brought with her and that which she’d gotten from the awakened tax. She needed to pay her guard and buy equipment for them. That wasn’t going to be cheap. He’d yet to hear anything about a similar tax on the unawakened, but he figured that it was coming.
+
+“Aww, come on!” said Kettel. “Ye didn’t do shit, why should ye get to say what we do with—Ow! Oi! Rain! You know yer wearing great bloody metal gauntlets, right? I’m gonna ‘ave a lump.”
+
+“Good,” Rain said, lowering his hand. Kettel was being dramatic. It had just been a light tap. “Don’t argue with the Citizen. And wear a helmet.” He turned his attention to Bosco. “Gather them all up. Tel, Crysts, anything else. I’ll deal with the rest of the mess. Give them to Citizen Sadanis when you’re done. I’ve got a spare pouch if she doesn’t have one. If she decides to share anything with us, that’s her decision. Don’t ask again.”
+
+Bosco hesitated, looking like he wanted to argue.
+
+“Do it,” Velika said. “Rain is your commander, and he just gave you an order. Obey.”
+
+Bosco nodded. “Yes, Citizen.” He set about collecting all the Tel, and Rain moved to deal with the remains of the other rats. He wasn’t about to make anyone dig through them for the tiny crystals, and the disease was still a concern. Plague Rats. It’s in the name.
+
+“Feedback time!” said Velika, then laughed. “That was awful. Thank you, I needed some entertainment. Where do I even begin?” She whirled, pointing at Arlo. “You.”
+
+“Citizen, it would be my honor to hear your appreciation for my skill,” Arlo said.
+
+“Really?” said Velika “You just don’t give it a rest, do you? Your skill’s not the problem. You disobeyed orders.”
+
+Arlo scoffed. “As if I would cower behind the shield of a peasant when—”
+
+“Shut up!” Velika snapped. “Yes, you killed the bloody rat. Yes, nothing bad happened to the formation you abandoned.” She gestured at the others. “But it could have. Rain, overcautious though he is, was relying on you to hold that side. I’m not looking for heroes in my guard, I want soldiers. Soldiers. Follow. Orders.”
+
+“My Lady Citizen, I—”
+
+“Shut up.” Velika pointed at Rina. “You. Good shooting. I don’t have any complaints.” Her finger moved to Breggeh. “No complaints about you either. You need a better weapon, though. That mace is shit.” She pointed at Samson next. “You, best swordsman.”
+
+Samson nodded. “I know. I did nothing until the end. I was following orders, though. I only regret that I was not more useful.”
+
+Velika smiled. “Good. Orders first, glory second. I’m glad that you understand, even if you don’t like it. My only feedback for you is to not claim that you’re the best with a sword. I’m standing right here.”
+
+Samson grinned. “I would be happy to face you in a friendly duel, once we are done with this business.”
+
+Velika laughed. “I might just take you up on that.”
+
+Rain, finished with the cleanup, didn’t miss Velika lick her lips as she blatantly inspected the young lord. Yikes, she is not subtle. Does this mean she’s done with Carten? Shit, what do I do if she looks at me like that? Thank you, Tallheart, for this armor. It protects me in more ways than you can know.
+
+“Kettel and Bosco,” Velika said, bringing Rain back to reality. “You two broke formation as well, but at least you stayed on your damn side. Remind me to get you a spear, kid. The staff is fine, but without a skill to back it up, you’ll want something with a point. That brings me to…Rain.”
+
+He inclined his head, standing calmly with his hands at his sides. He was actually interested in what she had to say. No matter his misgivings about her, she was a high-level veteran. She’d seen more combat than everyone else here combined.
+
+“Firstly, you suck with that staff,” Velika said. “Take some lessons, or don’t bother with it. The kid is better than you are. It’s a disgrace.”
+
+“Aww shit, Rain!” Kettel said, laughing. “I can give ye some pointers later if ye want.”
+
+“Quiet, you,” Velika said. “Force Ward was impressive. I’ve never seen it so strong, even from a Beacon. Nobody really got hit, but if they had, it would have blocked it completely.”
+
+“Wait,” Rain said. “You know about Force Ward? How did you even notice—”
+
+Velika snorted. “Of course I know about it. The Empire uses it. Before you started talking, I thought you might be an escaped Beacon or something.”
+
+Rain shook his head. “No, I’ve never been to the Empire. Also, Beacons only have the seasonal auras, like Winter.”
+
+Velika rubbed at her eyes. “This fucking backwater. Nobody knows anything! There’s different kinds of Beacons, idiot. Warders are the defensive ones.”
+
+“Oh,” Rain said, frowning. Huh.
+
+“Back to the battle,” Velika said with a grin. “Nice body slam. It made my day.”
+
+“Thanks,” Rain said. “It wasn’t really intentional, but it was…super effective.”
+
+Velika laughed. “You are the strangest mage I’ve ever seen, that’s for sure. Was that the Velocity aura?”
+
+“Shit, you know about that, too?” Rain said.
+
+Velika laughed. “Of course.”
+
+Rain sighed. Damn it. More secrets gone.
+
+“Okay, good enough,” Velika said. “Do better next time, all of you, or you’ll die. Let’s go.” She walked away, heading deeper into the lair.
+
+“Form up,” Rain said, then followed her.
+
+Velika casually stepped around a sink pit as the others moved to join him. Rain felt a chill run down his spine when he saw this. There was no physical sign that the hazard was there. He’d seen it earlier with Detection and only remembered its presence after she’d already dodged it.
+
+A sensory skill? Damn. She’s a crappy leader, but she’s got no problem with adventurer stuff. Shrewd, too. She’s got me practically figured out, just from one fight. I guess you don’t get to be a Citizen by collecting bottle caps…
+
+Aw, balls. I’m never gonna be able to read the end of that series, am I?
+
+It wasn’t long before they got into combat again. This time, the group did a little better. They stayed in formation, anyway. There were four swarms of the smaller rats, making closing ranks seem like an excellent idea. The rats had leapt all over them, but they had managed to get through it without any injuries, thanks to Force Ward. It had only cost him 593 mana, which meant 337 damage blocked. He’d been able to compress the spell on the fly to improve the efficiency. Again, he had to use Purify to deal with the disease.
+
+Your party has defeated [Plague Rat Swarm]x4, Level 5
+
+Your Contribution: 4%
+
+20 Experience Earned
+
+The next battle was a completely different story. There had been five Trundlers and no less than six swarms of the smaller Plague Rats. Now that Rain knew to look for them, he’d been able to warn the group of their approach. Despite the warning, their formation had fallen apart under the assault. He’d lost over half of his mana to Force Ward before Velika stepped in. She’d spattered the rats into gory chunks by smacking them with the flat of her massive paddle-sword.
+
+Your party has defeated [Plague Rat Swarm]x6, Level 5
+
+Your Contribution: 8%
+
+60 Experience Earned
+
+Your party has defeated [Plague Rat Trundler]x3, Level 6
+
+Your Contribution: 4%
+
+72 Experience Earned
+
+Your party has defeated [Plague Rat Trundler]x2, Level 7
+
+Your Contribution: 0%
+
+0 Experience Earned
+
+It hadn’t been pretty. Rain had needed to pass around one of his healing potions to counteract the damage that the others had taken. He had been unaffected by the plague for some reason, despite being just as swarmed as everyone else. He figured that it had something to do with his boosted Endurance.
+
+Needless to say, everyone needed a minute. The party was currently resting in a dry spot at the edge of the clearing where the fight had occurred. Rain had just finished power-washing the area and was low on mana.
+
+“Well,” Velika said, sitting down next to him on the grass, causing him to flinch away. She raised an eyebrow, but didn’t comment on his reaction. Instead, she addressed the group. “You’re all dead. Congrats.”
+
+“Thank you for saving us,” Rain said, cautiously. “I might have been able to deal with them, but not without dropping my ward. They were already all over us by that point. Only Breggeh and Bosco have armor good enough to stop the bites. I didn’t want to risk it.”
+
+“Mmm,” Velika said. “I can’t say whether you should have tried killing the rats without seeing you fight. I think we need to have some one-on-ones.”
+
+“Wait, ye mean duels?” said Kettel. “Fuck yeah! I challenge Bluebell.” He pointed at Arlo.
+
+“What did you call me?” Arlo shouted, clambering to his feet.
+
+“Wha?” Kettel said, grinning. “Yer wearing blue, and ye think yer fancy, like ye’ve got bells on. Bluebell. Simple.”
+
+“No duels!” Velika said, to Rain’s relief. “Not in a lair. One-on-ones. One of you, one monster, one at a time.”
+
+“Can we really afford the delay?” Breggeh asked. “What if the intruder kills the blue?”
+
+“Won’t be a problem,” Velika said. “There’s no rush.”
+
+“Why not?” Rain asked. He’d been wondering that himself.
+
+Velika grinned. “The asshole won’t be able to get past us to get out unless she makes it all the way to the core. We’d know if that was the case, thanks to the core panic. All the monsters in here would go berserk.”
+
+“Right,” said Samson, “But killing the blue, assuming there is one, wouldn’t cause a core panic.”
+
+Rain raised an eyebrow. He actually knows what he’s talking about when it comes to lairs. Has he been in one before?
+
+“No, you’re right, it wouldn’t,” Velika said. “If she does kill the blue, though, you lot can hit two targets with one arrow by just killing the piece of shit for me. The essence should transfer, as long as it’s been less than a day.”
+
+“Wait, what?” Rain said. “That works?” Also, could we maybe not talk about casually murdering people, thanks?
+
+Velika didn’t answer. She rose out of her crouch and walked away slowly. “Enough chitchat. Stay there. I’ll go get a rat. Decide who wants to go first.”
+
+“So, it’s a woman, then?” Bosco called after her. “The intruder? How do you know?”
+
+“Just a guess,” Velika said, then sped away, kicking up globs of mud. Considerate of her to walk away from us before taking off.
+
+Kettel’s jaw dropped, staring at the crater where Velika had been standing. “Did anybody else see what I just saw? I ain’t never seen anyone move that fast!”
+
+Arlo sniffed. He wasn’t reacting well to being repeatedly snubbed by the Citizen. He was the only one not sitting, pacing back and forth instead.
+
+“Look, she’s coming back,” Samson said after a moment, pointing. He sounded impressed.
+
+Velika emerged from the trees at high velocity, towing a very angry Trundler by the tail. The muddy wake that they were leaving made it look like the rat was water-skiing, with Velika playing the role of the speedboat.
+
+Rina laughed, clapping. “Amazing!” Rain got to his feet in alarm, preparing to defend himself. He didn’t trust Velika to not just let the thing go right in the middle of them.
+
+“Thank you,” Velika said, skidding to a stop. The Trundler looked dazed, its feet clawing at the air. It was amazing that she’d managed to weave through the trees at that speed without it getting battered to death. She swung the rat around toward them, ignoring its bellow of protest. “Well, who’s first?”
+
+“Me, of course,” said Arlo, drawing his rapier and moving to engage.
+
+“Right, have at it,” Velika said, gently lobbing the Trundler away from them toward the center of the clearing. It landed with a loud splut in the mud. She retreated quickly, stopping next to Rain where he was standing on the grassy rise.
+
+“No Force Ward,” she said as she sat. “Let him get hit. It’ll be good for him. And sit down. You’re looming.”
+
+“You’re sure?” Rain said, reluctantly sitting as the rat roared in anger. It had locked its beady eyes onto Arlo as the man approached. “That seems…unwise.”
+
+“I doubt it will be a problem,” said Bosco. “Look.”
+
+Arlo had already engaged the rat. He darted in, striking like lightning. His blade sunk deep into the Trundler’s side, leaving a bloody puncture. The retaliatory strike was far too slow, missing the man by a considerable margin. Arlo darted back in as the rat overbalanced, poking it in the other side.
+
+Rain watched with bated breath as the rat’s health slowly but surely got shredded away, one pinprick at a time. Damn. I guess Costanza here is right. Arlo’s too fast for it. That sword has got to be enchanted. It’s doing way too much damage, otherwise.
+
+“Well, there you go,” said Velika. “That’s a pass.” The rat fell as she got to her feet, the system’s chime announcing its death.
+
+Arlo swished his rapier, sending droplets of blood flying. He was smiling again. “Ha! As if I could lose to such an unintelligent brute. My strength is unmatched, my technique—”
+
+“Yes, yes, nobody cares,” Velika said dismissively. “You won. Now, shut up and get out of the way. Who’s next?”
+
+“Me,” said Kettel eagerly. “Don’t worry, Rain, I’ve got it.”
+
+Rain just shook his head. Arlo was heading towards the group slowly, looking like somebody had punctured his football.
+
+Velika nodded to Kettel. “Be right back.”
+
+She vanished into the trees. Arlo sat down, clearly upset.
+
+“Arlo,” Rain said. The man looked over at him. “Don’t let Citizen Sadanis get to you. She doesn’t like boasting unless she’s the one doing it. Maybe tone it down a little. In any event, that was a really impressive fight. Nice work.”
+
+“Thank you,” Arlo said, nodding slowly. Any further discussion was cut off as the Citizen returned with another rat. Kettel was already up and waiting.
+
+The battle started off surprisingly well. Like Arlo, Kettel danced around the beast, dodging its strikes and retaliating whenever there was an opening. Unlike Arlo, his attacks didn’t have much of an effect on the monster. Other than making it even angrier, that was. It shrugged off the hits from the wooden staff, only taking damage once when he managed to poke it in the eye.
+
+“Die, ye stubborn git!” shouted Kettel, bringing his staff down with both hands. The weapon slammed into the Trundler’s skull with a mighty thunk accompanied by a splinter of breaking wood. The monster lost a sliver of health, roaring in pain.
+
+“Aww, hells,” Kettel said, darting back with the broken staff in his right hand. The other half of it was lying on the ground at the Trundler’s feet.
+
+“Want some help?” said Bosco, smiling.
+
+“No,” said Velika. “Keep going. Also, hurry it up. You’ve been poisoned.”
+
+“He can’t win without a weapon,” Rain said. “And you’re right. I can see his health dropping. Let me help him.”
+
+Velika sighed. “Fine. Breggeh, get in there. Rain, you can use Purify. Nothing else.”
+
+Wordlessly, Rain activated the spell, the white light filling the air. Kettel’s health stopped falling as he and Breggeh moved to flank the rat. Fuck. Just when I was starting to feel like Velika was kinda reasonable, she pulls this shit. This is a stupid risk. The nobles all have expensive gear, but Kettel and Breggeh don’t.
+
+Breggeh slammed the Trundler with her mace, deflecting its return swipe with her shield. It looked like the rat was starting to get tired. Wait, do monsters have stamina? They don’t have a bar for it.
+
+Kettel did a sliding dive through the mud to retrieve the other end of the staff. He got back to his feet and flipped it around in his left hand, then started stabbing at the rat with the two pieces of sharpened wood. Wow, Kettel, that was pretty good. The thing almost stepped on you, but still.
+
+As the rat’s health dropped, each strike did more and more visible damage. It was forced to keep whirling to protect itself from the two assailants and eventually collapsed under the onslaught. Kettel was panting from the exertion but had a smile on his face as he rejoined the group. Breggeh also looked tired, but she wasn’t smiling.
+
+“See, Rain? Told ya I could kill the thing. Don’t need no fancy magic sword.”
+
+“You would have died without our help,” said Breggeh calmly, walking back beside him. “I’ll count that as my turn. I’ve got no hope of beating one of those on my own.”
+
+“That’s two fails then,” Velika said, “Though your teamwork was good. Remind me to get you both some better equipment.” She headed off into the trees once more.
+
+Kettel snaked his arm around Breggeh’s shoulder, jostling her. “Naw, yer sellin’ yerself short, Breggeh. Yer amazin’. Ye could totally take one of em on yer own. Say, when this is over, wanna go fer a beer?”
+
+Breggeh pushed his arm away. “No. I’m old enough to be your mother. Plus, I’m married.”
+
+“Aww, don’t be like that,” Kettel said.
+
+“She said no, Kettel,” Rain said, letting Purify fade away and switching back to Winter. “Now sit down before she hurts you more than the rat did.”
+
+“It were worth a try,” Kettel said with a shrug, sitting.
+
+Weird. I would have figured Kettel would try for Rina instead. It’s probably best that he didn’t. Somehow, I see that going even worse.
+
+Bosco was next, and Velika soon returned with his rat. He did reasonably well at first, his spear proving even more damaging to the Trundler than Arlo’s rapier had been. The red-armored noble proved to be a bit too slow, however, and a rapid charge from the rat sent him flying to the ground. If not for his armor, he’d have been disemboweled. The Rat pounced, its teeth going for the man’s unprotected face before he could recover.
+
+Horrified, Rain raised Force Ward, damn whatever Velika had said. It turned out to be unnecessary. The rat’s head was sliced in half just before impact, its snout tumbling away. Its brain popped free and hit Bosco in the face while its body collapsed on top of him. Velika calmly resheathed her wakizashi as Rain tried to puzzle out what had happened.
+
+“You died,” the Citizen said. “That’s a fail.”
+
+Rain turned to look at her, staring. Some sort of long-distance shock blade? Well, I’ll just add that to the list of horrifying ways she can kill me.
+
+The sound of retching brought Rain back to his senses. He quickly exchanged Force Ward for Purify, dissolving the rat and freeing Bosco to roll over on his knees and spew his breakfast onto the dirt. Rain felt sick himself, partly from the smell, and partly from the lingering image of the flying rat brain. Damn it. Unsee! Unsee! Crap. Overmana. This is going to be with me forever, isn’t it?
+
+“That spell really is convenient,” Velika said, nodding to Rain. “I’m glad I brought you along. Two more to go.” She ran off again before he could reply.
+
+Rina went next. Velika allowed her to start at a distance, releasing the rat and darting away. The archer only managed to hit one of the beast’s eyes before it reached her. Instead of standing still to be mauled, Rina turned and ran, staying barely ahead of the rat as it trundled after her, true to its name. Velika ended it with another invisible slash when it became clear that Rina wasn’t going to be able to get another shot off.
+
+“Fail,” Velika said.
+
+“Not fair!” Rina protested. “If I’d started further away—”
+
+“Fail,” the Citizen repeated. “Samson’s next, then Rain gets to show you lot what an adventurer can do.”
+
+Rain sighed. Damn it, she’s going to make me take a turn. I was afraid of that.
+
+Samson took down his rat in much the same way as Arlo. He had a longsword, not a rapier, and it left deep cuts in the rat’s hide as he slashed it apart. His dodges and attacks were less showy, but no less effective. When the rat fell, he didn’t try to make a long-winded speech, either. Rain was impressed. Maybe he’s justified when he says he’s the best with a sword. That looked like it was out of a damn movie. Velika’s fast and all, but she cheats. Samson doesn’t even have a sword kata. How long has he been training?
+
+“Good. Pass,” Velika said. If she was likewise impressed, she didn’t show it. “Rain’s next.”
+
+Rain got to his feet as Velika disappeared to get him a rat. He started walking briskly toward the center of the clearing. He wanted to be far enough away from the others so he wouldn’t have to worry about collateral damage. There’s nothing to be afraid of. I can do this. He shook his head. They’re only two levels higher than the Skiffun. I handled that thing when I was level four for crying out loud. This should be easy.
+
+A minute passed, then another. Rain was still feeling a little nervous, despite his internal pep-talk. Velika didn’t take this long to find the rats for the others. Maybe there aren’t any left? He pinged with Detection, his jaw dropping as the spell returned. There’s tons of them. He pinged again. Not Plague Rats. Ping. Not Slimes. Ping. Shit, coming fast. Ping. Not Velika fast… Ping. An attack? What the hell are they? Where’s Velika? Ping. Of course, she’s leading them. This is deliberate. Damn.
+
+He was out of time. Velika burst from the trees, pursued by a shrieking pack of monsters. They were small, perhaps half a meter high, but Rain immediately recognized them for what they were. Kin. Their limbs were freakishly long and their heads were oversized, like toothy melons. Where the fire kin had been red, these were a brilliant lime green. Their skin looked wet and shiny, a little bit like poison ivy.
+
+“Found these, just for you!” Velika called to him in a sing-song voice, waving. She sped up, blasting past him as the Kin closed in. He ignored her, focusing on the threat. The Kin were making horrible shrieking tea-kettle noises as they ran for him.
+
+“Oh fuck!” he heard Rina yell from behind him. “Kin! There’s dozens of them! Run!”
+
+“Stay!” shouted Velika.
+
+Rain was already moving, nerves forgotten. He’d almost died because he’d hesitated the last time he’d fought these monsters, and he wasn’t about to make the same mistake twice. He sprinted toward the Kin, activating Immolate once they were in range, boosting it with Channel Mastery and Amplify Aura. He wasn’t messing around, not with Kin. If he burned himself, so be it; he had potions for that. It would be better than what the Kin would do to him. Unbidden, but not unwelcome, the skill card for Immolate popped in the corner of his eye.
+
+Immolate (10/10)
+
+602-688 heat (fcs) damage per second to entities and environment
+
+Sufficient damage causes ignition
+
+Range: 18 meters
+
+Cost: 300 mp/s
+
+Rain’s armor blazed crimson with magical interference as the metal tried and failed to disrupt the spell. A ring of steam exploded from the muddy ground, rushing outward as the magic went to work. The mud dried almost instantly, cracking as the heat baked away the moisture. All of the plants within range exploded from the rapid expansion of the water within them, then the remaining pieces caught fire. Rain chased the wave of destruction toward the Kin, holding his breath to avoid breathing the scalding air.
+
+The leading edge of the aura blew past the monsters, setting them on fire instantaneously. After a few seconds, a sound like the popping of popcorn could be heard as their massive heads started exploding, one by one. He canceled the spell early and skidded to a stop, trusting the trailing edge of the magic to finish the job. He knew approximately how much health Kin had. He’d done the math, then added some margin, just to be sure.
+
+Immolate had only been active for five seconds, but a good third of the clearing had been transformed into a burning hellscape. His skin felt like he’d been dunked in boiling oil and his lungs were screaming for air, but he knew that breathing in would be an awful idea. He used a blast of Purify to wipe the scalding steam and smoke from the air, then switched to Refrigerate, compressing it down to concentrate the effect. Only then did he take a breath.
+
+The air burned, hot on his first breath, but cold on the second. Rain adjusted the settings, glancing at his health. He’d only lost 56 points, which was less than he’d expected. His cloak hadn’t even caught fire, protected from the magic by the bubble of his soul. He grinned, despite the pain, then straightened his back and turned to face the others. He strolled in their direction, not looking back at the baked mud and the still-blazing edge of the forest. Because cool guys don’t look at explosions.
+
+You have defeated [Chem Kin]x38, Level 6
+
+5700 Experience Earned

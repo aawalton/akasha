@@ -1,0 +1,197 @@
+---
+id: a01c60fb-02aa-56e2-a62c-2f9ea179e45e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 40"
+slug: 0041-chapter-40
+partOf: death-healer
+position: 41
+ownLength: 2471
+unit: words
+publishedAt: 2025-06-26
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2387781/chapter-40"
+royalRoadId: "2387781"
+---
+
+[Quartz Explosion]
+
+Lily’s instincts screamed. She twisted, eyes catching the faint glow pulsing under Sextus’s gauntlets. She jumped away on reflex—but the explosion caught her.
+
+Shards of luminous crystal burst outward like razor hail. The blast detonated right in front of her, and though her dodge saved her from the core, she still took the brunt of the edge shock. Slivers bit into her thigh and tore across the side of her chest, her momentum briefly flinging her through the air.
+
+She hit the sand with a heavy skid, arms splayed, body tumbling once, then twice before stopping in a crouch.
+
+Pain bloomed.
+
+Not enough to break her. Enough to make her furious.
+
+The crowd roared. Leontina laughed.
+
+“She won’t dodge the next one!” someone jeered. “She’ll cough blood!”
+
+“She already is,” someone else called. “Look!”
+
+True. Lily rose slowly, blood running from a gash along her left arm, staining her white gauntlet. The back of her tunic was ripped open revealing a leather corset below. Her ribs ached. Mana flared silently inside her as she drew Light inward—not to use Coniunctionis, not yet.
+
+Not when she hadn’t learned the pattern of his attacks.
+
+“That’s one more Skill,” she muttered. “Two left.”
+
+Light Magic pushed the fragments of crystals outside—the blow had been unexpected, but the amount of damage had not been nearly deadly. The projectiles didn't have enough velocity to cause anything more than superficial wounds.
+
+Sextus took three long strides backward, because the sight of splintered quartz sliding out of Lily’s skin unsettled even his trained calm. He had seen [Healers] seal flesh, yet this was faster and quieter than the girl had any right to be capable of.
+
+He tightened the leather straps on his gauntlets while he tried to measure how much Mana she must burn to manage that feat. [Crystal Armor] consumed a good chunk of his Mana each minute that he held it active, and [Quartz Explosion] had a high cost as well—he still hadn't had the time to train enough to make both Skill cost-efficient. But she had to be bleeding power at a similar rate, or so reason told him, yet her stance said she felt no fatigue. Her shoulders stayed level, and her breathing seemed not troubled at all.
+
+How's this even possible?
+
+Sextus had thought that today's duel would be a piece of cake, that he would have been bullying a little girl. What was this?
+
+What kind of freakish monster had they put him in his path?
+
+It's fine. She can only heal. I can deal with her. I've got one more Skill to use.
+
+Sextus lifted both arms, and the quartz around his fists thickened until each hand looked like a sculpted gauntlet of pale violet glass.
+
+[Quartz Knuckles], [Crystal Shield], [Crystal Armor], [Quartz Explosion].
+
+Lily was not worried about any of those Skills.
+
+Thankfully, Sextus clearly wasn't smart enough to hide his cards any longer.
+
+"[Crystal Ram]!" The boy shouted, furious at the fact that Lily had seemingly healed like it was nothing.
+
+A murmur ran through the stands as the quartz on Sextus’s arms crept up past his elbows and fused across his shoulders. The spectators leaned forward because they finally saw something that looked dangerous rather than decorative.
+
+“About time he used a real Skill,” an old [Templar] muttered while he tucked two more silver coins into the betting pouch.
+
+“Those first tricks would not scare anybody,” someone to his left replied. “This one will grind her against the wall till she is paste.”
+
+A merchant craned his neck, eager to see every detail.
+
+“Crystal Ram cracks fortress gates,” he announced with too much confidence. “She will be lucky if they find her teeth afterward.”
+
+Mana surged into the armor so that violet facets brightened and interlocked around his torso. The ground trembled when he drove forward in a straight line that would have shattered a quarry block. Sand whipped behind him in a white plume.
+
+But what they didn't notice was a series of small sparks appearing around Lily's eyes.
+
+Lily waited until the last instant, her gaze sliding along the current of Mana that rushed ahead of him. She felt the ripple through the dust under her toes and shifted her balance onto her back leg. Her left hand brushed the air, and a thin thread of Coniunctionis flicked from fingertip to heel.
+
+When Sextus entered striking range she stepped inside the cone of force, swept her right foot behind his forward ankle, and chopped downward with her palm onto his pauldron.
+
+The timing was perfect; the thread snapped his momentum sideways rather than forward. His planted foot lost purchase because Lily’s heel scythed it from under him.
+
+She had studied [Crystal Ram] and knew that it required a clean line, and that line collapsed under her strike.
+
+Sextus pitched off-balance. His own speed betrayed him. The violet shell rasped across the stone border and screeched like glass under a saw. He struck shoulder first, bounced once, and rolled in a spray of shards that glittered across the sand. The arena rang with shocked silence that burst into scattered laughter when he finally slid to a halt, face-down and dazed.
+
+Lily straightened, brushed grit from her sleeve, and turned an open palm toward him as if offering a second lesson. Blood no longer showed on her arm because the wound had already been sealed.
+
+High on the benches the [Templar] whistled through his teeth. “That girl read the whole ledger before the boy opened the first page,” he said, although he sounded more impressed than surprised now.
+
+Down in the arena Sextus pushed to one knee, crystal falling away in dull chunks. His eyes widened when he realized that the gauntlets on Lily’s hands still shone with unmarred white. She tilted her head, waiting. Pain throbbed through his shoulder, and a hairline crack ran across the quartz that covered it.
+
+A hush reclaimed the stands while dust settled in pale spirals. Lily’s voice carried across the circle, calm and almost kind.
+
+“Your Skill was impressive,” she said. "Anything better?"
+
+"Stop wasting time!" A female shrill voice cut through the silence.
+
+It was Lady Leontina, Sextus's mother.
+
+She was clearly displeased with the performance that Sextus was putting on, which reflected very badly on her family. The fact that Lily, someone without a Class, was essentially humiliating their son, made them look like fools. Sextus should have not only made short work of Lily, but done so without breaking a sweat. Having now used five out of six Skills from his Class, the boy started looking desperate for a win.
+
+"You asked for it," he said, slowly unmasking his gauntlets from all quarts.
+
+As the crystal peeled, it turned into liquid that went around his shoulder and his torso. The liquid started turning red and many in the stands gasped.
+
+"Oh wow, I did hear that Publius's son had talent, now I understand why they said it."
+
+"That's one rare Skill," another chimed in.
+
+"The girl is done for."
+
+"[Crystal Fury]," Sextus said.
+
+Lily saw through [Mana Sense] Sextus's Mana getting much, much denser and all his crystal acquired a red shade.
+
+Oh, shit—
+
+Lily saw Sextus sprinting at her with a speed superior to Vespera's and only her newly acquired abilities with [Mana Sense] allowed her to barely dodge.
+
+The first blow glanced off Lily’s shoulder.
+
+It wasn’t strong nor precise enough to break bone, but the sting bit deep, and the weight behind it told her that Sextus had massively increased his power. He had moved fast—faster than she expected. His left foot had pivoted perfectly with the strike, and his gauntlet had followed through in a clean arc aimed at her collarbone.
+
+Lily had stepped into it.
+
+She took the first hit and felt her bone shatter.
+
+Her boots slid in the sand as she twisted with the momentum and redirected her weight. The crowd roared when she didn’t fall.
+
+Sextus roared. “You still standing?”
+
+A series of crunching sounds came from Lily's collarbone while she grunted in pain as the bone knitted itself together.
+
+"That's it?" She panted. "Is this all you can do?"
+
+But then, before she could provoke him further, she felt a numbing sensation spreading through her body, exactly from where Sextus had touched her. She tried pushing Light Magic into it but nothing happened.
+
+This is… poison? Lily felt more sluggish now and Sextus was charging her again.
+
+This time she ducked under his jab, but she was too slow on the next movement and his fist sank into her side—just above the hip, just below the ribs. The impact made her fly for a few moments in the air before she had roll back on the ground, doing her best not to vomit.
+
+Pain flared across her torso but she immediately rose again, dodging another punch and finally deciding it was time to act. Sextus lunged with his knee, but she rolled sideways and used his own boot to vault back to her feet.
+
+"You don't know what you've done to yourself," Sextus says, furious.
+
+Lily felt the numbing bite from the last blow spread toward her shoulder, though her ribs had already knit. She drew a long breath and let Coniunctionis thread through every muscle in her body, letting Light and Darkness slowly coil together as she cast the finely woven net of Light Magic to make sure nothing would snap. However, one unexpected effect was that where the poison had dulled her skin, she felt heat rise, and the tingling fog lifted as though it had never been there.
+
+That's… Lily didn't have time to think about it.
+
+Sextus charged again. He came in a straight line, intent on burying her under the momentum. Lily did not retreat. She stepped forward, shoulder brushing the inside edge of his guard, and dropped her weight through her hips. At the same moment she snapped a pair of Coniunctionis strands around her left calf and her right forearm.
+
+Her shin scythed behind his leading ankle. Her palm, driven by the coiled thread, hammered the side of his cuirass above the floating ribs. The force twisted him over her tripping leg, and the crystal shell shrieked. Tiny fissures raced across the crystals that covered his body, then spider-webbed along the shoulder nearest the impact. Sextus toppled sideways, hit hip first, and skidded on a fan of red shards that turned to powder under his own weight.
+
+Gasps rolled across the arena.
+
+Sextus wiped the dust from his lips and tasted iron when his teeth cut the inside of his cheek. His armor rattled as more scarlet fissures snaked across it, yet he still thought weight and rage together would end this. He set both feet for another charge.
+
+In this moment, staring down at Sextus, Lily felt something resurface in her mind. It wasn't words, but images. There was an… octagon?
+
+She felt her breath getting steadier than before, her body more relaxed. Her shoulders lowered and melted almost as she felt fully in control at the moment.
+
+Sextus lunged. The crowd leaned with him, hungry for a reversal. Lily bent her knees, let her hips sway, and felt the boy’s right fist haze past her left ear. In that space she snapped a Coniunctionis thread through her own right arm. The hook travelled cleanly to his face. Her knuckles crushed the bridge of Sextus’s nose, and blood burst in a dark gout that spattered both their chests. A roar peeled from the benches as he reeled away, one hand up, eyes watering crimson.
+
+Sextus spat red and foam. Lady Leontina’s voice cracked over the stone: “Finish that girl! Break her!” The words lanced through him. Fury drew his shoulders wide; he squatted low and slammed both palms to the sand. Red quartz surged from the earth, latching again to his armor. He rose inside a carapace thicker than before, and Mana flared so hot that the air wavered.
+
+He roared the Skill’s name through a blood-clogged throat. “[Crystal Ram]!”
+
+Everyone who understood even a scrap of combat lore sucked breath. [Crystal Fury] still wrapped him, and stacking it with a [Crystal Ram] meant every shard would drive like a ballista.
+
+Lily tightened every interwoven filament. She slid one step sideways, not back, letting his path skim her right shoulder. As he thundered past she caught his wrist. Her left foot scythed behind his lead ankle, her hip turned under his centre, and Coniunctionis surged at full draft through her spine and into both arms. It was not a punch.
+
+Judo.
+
+The word came to Lily before she even knew what was happening.
+
+Sextus flew. Mid-arc Lily kept hold of the wrist, twisted her body down with him, and threaded her right leg over his biceps. The movement wrote itself; she did not plan it. It bloomed from those buried memories that often resurfaced in her mind.
+
+Quartz howled as the armbar clamped.
+
+There was a wet crack, then another. The first came at the shoulder, the second at the elbow. No healer could align that joint cleanly—not when the ligaments had shredded under quartz shards, not when bone ends mashed to gravel.
+
+Gasps broke into alarmed shrieks. Many nobles had seen swordplay. None had watched a grapple tear a man to ribbons. Even Cassius leaned back, eyes widened, as Sextus hit the sand on his back with his right arm twisted grotesquely across his chest. Lily rolled out of the break, light on her heels, and the hush felt like a storm pulled inside out.
+
+Sextus writhed. His breath fled in ragged sobs. Blood streamed from his ruined nose and bright spatters dotted the cracked red plates that clung to his torso. Every twitch sent spear-points of pain through his ragged arm, yet his mother’s shrill command lashed him harder than agony.
+
+“Stand up! You shame us!”
+
+He staggered to one knee. The left arm hung limp, folded at angles that no joint allowed. His right hand clawed at the air until enough Mana sparked. Violet light pooled, then hardened. Quartz sprouted along his hand. The gauntlet re-formed into a deadly spike. He dragged one breath, wheezed it out, and glared through blood-clogged lashes.
+
+“I’ll kill you,” he rasped, voice shredding like fabric on brick.
+
+Lily watched him rise. Coniunctionis still threaded her muscles, and fresh Light trickled into the bruised skin under her tunic. She tasted chalk and rust in the wind, yet her pulse held steady.
+
+Before she faced him again she glanced up toward the east bench, where Livia balanced stiff as iron at the rail and where Lavinia clutched her parasol with trembling knuckles.
+
+Lily lifted her chin at her friend, let the afternoon sun gild her sweat-slick hair, and smiled—broad, earnest, unbroken.

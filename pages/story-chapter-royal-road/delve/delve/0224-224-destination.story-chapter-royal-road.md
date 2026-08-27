@@ -1,0 +1,327 @@
+---
+id: fba07400-9604-55da-9e98-40c6670d3073
+page-type-slug: story-chapter-royal-road
+title: "224: Destination"
+slug: 0224-224-destination
+partOf: delve
+position: 224
+ownLength: 5020
+unit: words
+publishedAt: 2023-03-12
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1135535/224-destination"
+royalRoadId: "1135535"
+---
+
+Submersed in potential, Rain floated, his avatar’s hair waving with the current as he directed the flow. Walls materialized around him in seconds, a cube of solidified soul that captured a Whale’s mouthful of the dwindling sea. With only a minor additional investment of will, the entire thing rose, lifting both him and the captured essence. Below him, he was aware of potential rushing in to fill the bite taken from the ocean. Before long, there would be none left, but that was only a minor concern. His core rested in the empty shell below those waves no longer.
+
+A tremor ran through the liquid. The cube came to a stop, crashing into a larger structure. With an unneeded wave of his hand, the wall in front of Rain slid upwards, and potential surged forth in a deluge, roaring into the gargantuan holding tank. Space twisted, and his avatar vanished from the flow, reappearing perfectly dry in a brightly-lit room.
+
+Here, a rapidly-running conveyor was firing newly minted refinement cells into a pile that had overtaken the collection bin. The cells were perfect cubes, no larger than his avatar’s fist and labeled with the number ‘1’. Inside each, printed directly into the structure, were yet more tubes, valves, and channels, leading to the hollow cylinder at the center. No rod drove the piston head within, animated instead by his automated will. Stroke by stroke, the cells would draw in level zero essence, flash it to level one with the pattern in the resonant chamber, then expel the result.
+
+Designing them had been straightforward. Designing the machine that made them, however, had been a challenge.
+
+Flipping his palm to face upward, Rain lifted his hand. Gravity shifted, and the mound of tier-one purifiers clinked ceramically as they rose. He turned, facing a yawning airlock on one side of the room, then let himself fall toward it, the cubes chasing after him in a swarm. Bursting through the shimmering field holding the simulated air within, Rain plummeted into the airless void, though the space outside was not entirely empty. A cloud of diffuse potential surrounded his growing station like a nebula—one from science fiction, not reality. Here and there, bolts of blue lightning flashed and flickered. Because it looked cool.
+
+Guiding his charges around to the other side—for while he’d mastered space enough to teleport his avatar, he still struggled to disregard geometry entirely—he came to a gradual stop, looking at the side of the holding tank where he’d been not a minute before. He thrust his palm forward, and it was not gravity that moved the cubes this time, but his direct will. Dozens at a time, they shot past like volleys of arrows, thudding into the tank and installing themselves into the structure that awaited them. Tier-one essence began dripping through almost immediately, and with another thread of his will, Rain spun it into pipes of tier-one soul. Those, he melded into the existing network, forming the circulatory system that would pipe the potential to the next tank in line.
+
+It had been little more than a day since the Warden’s lesson, but already, Rain was up to tier four, with automation up to tier three. He’d have progressed further had refinement cells been all he’d needed to design. Most of the potential in the tank beside him came not from his shrinking planet, but from freshly purified chaos.
+
+Space twisted, and he reappeared in another brightly lit room beside another pile of cubes. There were even more of them this time, the numbers on the sides reading ‘0’. Annoyingly, there still weren’t enough. He needed more printers.
+
+Or a printer that prints printers... #todo
+
+Rain smiled, fully aware that he was losing the fight against optimization hell. He was tracking the glacial approach of several souls in the real world, and even with as slow as they were moving, he wouldn’t have time to reach a stable configuration before it was time for the meeting. That was fine. He’d designed everything here to tolerate both stall and overflow.
+
+The real bottleneck at this point was not raw production, but his mind. In yet another room of the station, his computer core was growing. Built from rack after rack of processor cores, it was massively parallel and expandable in design.
+
+Rain snorted, lifting the purification cores and guiding them toward the airlock.
+
+Much better than some stupid liver.
+
+Each core was a perfect cube, much like those for purification and refinement. Rather than any internal machinery, they functioned through intent alone. That, he siphoned from his first image—the gemstone heart now sitting in a sad puddle at the bottom of the tier-three essence tank—then forged into something new using the highest tier of potential he could muster.
+
+He hadn’t found a way to automate processor core production yet, but he would, hard enough to make AMD cry. Each unit he installed made his mind stronger, more able to see, more able to direct his will. Inside, anyway. It was only a matter of time before he was strong enough to find the next pattern.
+
+Having been falling away from the station for a short time now, Rain plunged through the transparent bubble that held back the roiling chaos, following spreading veins of pipework that branched out into the haze like the roots of some massive tree.
+
+[Rain-King!!!!!!!!!!!!!!!!] Dozer sent excitedly, suddenly there chasing after him as he rocketed through the swirling filth.
+
+Rain smiled, slowing as he reached the grasping tips of the intake manifold. He flared his will to create a bubble of free air so he could guide the new cells into position without interference.
+
+[Hi, Dozer,] he sent as the slime was revealed. [Coming with me to the meeting?]
+
+[Rain-King! Race!]
+
+[Really? You don’t want to clean instead?]
+
+[Cleaning race!]
+
+[Oh.] Rain laughed as he worked. [No, Dozer, no race, not right now. Did you hear what I asked you?]
+
+[Yes!]
+
+[And?]
+
+[No!]
+
+[You’re overdue for your nap, actually, now that I think about it.]
+
+[No want!]
+
+Rain smiled. [You have two options, Dozer: meeting or nap. What’s it going to be?]
+
+[...]
+
+Rain waited patiently.
+
+[Ameliah-Queen meeting?]
+
+He chuckled again, done with the install now. [Yes, she’ll be there. She’s already there, technically, from the last one. Tallheart, too.]
+
+[Meeting!!!!!!] Dozer sent.
+
+[Good choice,] Rain sent, warping his avatar inside the station and tucking it safely into bed. The temporary bubble of order was already collapsing, bringing chaos into contact with the new intakes. [Come on then.]
+
+Opening his eyes in Temerity’s conference room, Rain took a deep breath, then gently squeezed Ameliah’s hand, which was clasped in his own. She stirred, having been occupied much as he had. She opened her eyes to look around just in time to catch a slime to the solar plexus.
+
+*pop*
+
+[AMELIAH-QUEEN!!!!!!!!]
+
+“Oof!”
+
+Rain chuckled, getting to his feet and laying a hand on Tallheart’s shoulder. “Time for our next meeting.”
+
+“Mmm,” Tallheart said, opening his eyes. He’d been in his soul too, though under instructions to nap rather than to work. Rain wasn’t sure his friend had slept since the other cervidians had arrived.
+
+[TALL-BROTHER!!!!!!!!]
+
+“Stop that!” Ameliah said, laughing, launching herself after Dozer and snagging him out of the air before he could bounce off Tallheart’s forehead. “Calm down! You just saw him thirty minutes ago!”
+
+Not from our perspective, but still.
+
+Still smiling, Rain flipped open his visor, then walked around the table to where Vanna was reaching for the doorknob. He opened the door to reveal her grasping fingertips. She jumped back, saying something like, “Ooh!”, the exclamation smothered by the wards.
+
+[Vanna-Princess!!!!!!!!]
+
+[Dozer, we’ve talked about this,] Rain sent, looking over his shoulder as he beckoned Vanna inside.
+
+[Princess Vanna?]
+
+[It’s not the order that’s the problem. Just because she’s second in command, it doesn’t mean— Oh, never mind.] Rain smiled, sure that the corner of his eye had to be twitching. “Hey, Vanna. Dozer says hello.”
+
+“Hello back,” Vanna said, smiling as the others followed her in.
+
+Soon, the room was packed, the chairs all taken by the heads of Ascension’s councils and the others they’d invited. By the time everyone was seated and had coffee or tea as they wished, Dozer had calmed down from his overstimulation. Secure again in Ameliah’s lap, he’d be out within the minute.
+
+Tarny, whom Rain had been chatting with near the door, nodded to him and pulled it closed. He’d stand guard and handle any administrative issues that came up while the rest of them were occupied.
+
+After finding his own chair and taking a sip of his coffee, Rain cleared his throat. “Thank you all for coming. Let’s get right down to it. This meeting is classified at low-council level. As there are three non-council members in the room, Ameliah, Sana, and Halgrave, I exercise my right as captain to grant them temporary council-level clearance for the duration. However, as Halgrave and Sana are not Entrusted, I need further approval by a unanimous vote of the high council. Before that, Sana, Halgrave, please vow that you will not discuss anything said in this room once we leave.”
+
+“I agree,” said Sana firmly, clinging to her teacup.
+
+Halgrave grunted, crossing his arms. His hammer rested beside him, the long haft poking up above the table. “I swear to keep my mouth shut, just like I did last time and the time before that. Do we really have to do this every time you ask me to come to this stupid council thing?”
+
+“Yes, we do,” Rain said. “It’s in the codes. Councilors, hands, please.”
+
+Six hands went up, belonging to each of the council heads: Samson, Vanna, Atyl, Tallheart, Romer, and Smelt.
+
+“We could fix this problem, you know,” Smelt said, wiggling his fingers.
+
+“How?” Vanna asked, glancing at her brother. “Only Entrusted can join councils, and you know why we can’t promote them.”
+
+“I mean change the clearance rules,” Smelt said, lowering his hand. “Formalize the exception. As head of logistics, it’s my job to point out inefficiencies. Halgrave is right; doing this every time we need him or Sana is a waste of time.”
+
+“I’ve actually been thinking about the codes a bit,” Ameliah interrupted, taking Rain by surprise. “Could we make a formal ‘specialist’ position or something? We could make it come with low-council clearance, or at least make it so council heads could grant it to specialists as needed without a vote.”
+
+“Is this for you, Ameliah?” Vanna asked with a straight face, though her soul was playful. “Aren’t you the opposite of a specialist?”
+
+“I didn’t mean for me,” Ameliah said, nodding at Sana and Halgrave as Rain and a few others chuckled. “I meant for them. In my case, I was thinking of joining the Defense Council.” She looked at Samson. “If you’ll have me?”
+
+“Of course,” Samson said, raising his eyebrows. “I thought you didn’t want any formal responsibility? What changed?”
+
+“Nothing,” Ameliah replied, giving the now-100%-unconscious Dozer a squeeze. “I just needed time to stop lying to myself.”
+
+Rain grinned, though what he really wanted to do was hug her. He could do that later, in private. “Any objections to Ameliah’s proposal?” He raised his hand. “All in favor of altering the codes to create the ‘specialist’ position?”
+
+Six hands went up.
+
+“Seems like a simple enough concept,” Romer said. “I’ll write up a draft for the change, and we’ll review it next time before we call the Entrusted to vote on it.”
+
+“Leave that to me,” Vanna said. “I know you wrote that section, but that’s what the Administration Council is here for now. You’ve got enough work to do helping Tallheart.”
+
+“Thank you for the excellent segue, Vanna,” Rain said, turning to Tallheart. “First on the official agenda, Tallheart has news. Go ahead, Tallheart. I wouldn’t want to steal your thunder.”
+
+Tallheart rumbled, much like thunder, and Rain had to fight not to burst out laughing. Everyone else just looked mildly confused, but the atmosphere became excited as the smith laid out the details of his breakthrough. Some had already known he’d cracked the rune—or at least suspected from the flurry of activity around Engineering yesterday—but the longer Tallheart spoke, the more clear it became that their timetable had just been moved up. Already, production was nearing industrial scale—limited by Myth’s ability to produce argon, apparently.
+
+“How long until the ship is seaworthy?” Vanna asked when Tallheart finished speaking.
+
+“Four days,” Tallheart said. “Enchantment will not be necessary if I use the Adamants’ alloy. Our tests showed that the combination’s resilience has little to do with the muddling effect binding their version of it. Furthermore, the muddled and un-muddled materials are happy to meld with each other. Repairs will be straightforward.”
+
+“Can we make the ship bigger?” Smelt asked, and Rain knew why. Recruiting was another thing they needed to talk about.
+
+“Not significantly,” Tallheart said, shaking his head. “The stealth cores protect a fixed volume.”
+
+“Is that what we’re calling them now?” Ameliah asked.
+
+“Do we even need them?” Atyl asked, interrupting Romer’s response. “Normal ships do fine in charted waters. We have Shu to keep us on course.”
+
+“Normal ships don’t carry thousands of people,” Vanna countered. “Everyone knows Whales are drawn to life.”
+
+“And to magic,” Romer said, nodding. “We have too many mages to risk the open ocean without the stealth cores or some other form of protection. Remember, the Adamants seemed to think it needed four of them. We’re already operating at reduced capacity.” He turned to Ameliah. “And yes, that is what we’re calling them. While you were gone, I did yet another study of the runework on the pillars, comparing it to those lining the cradle in Mlem’s cart. Both networks are far, far beyond my capability to understand, but some parts are uncannily similar. Most likely, the stealth cores are modified lair sub-cores, just like those the Foundry forges journey-cores from.”
+
+“What you say makes sense,” Halgrave said unexpectedly, and everyone turned to look at him. He didn’t usually offer up information at these meetings unless asked.
+
+Smelt rubbed his chin. “That’s right, you’ve been in the Great Delving, haven’t you? Do you know much about the Foundry? Their headquarters is below the city, right?”
+
+Halgrave scoffed. “Hardly. Lightcore controls three layers entirely, and that’s not considering how far they’ve expanded beyond their official claim. I couldn’t guess at even a quarter of what they get up to down there, nor would I suggest you let them find out you’re feeling curious.” He reached to the side, grasping the haft of his hammer. He rocked the absurdly heavy crystal head against the floor, making it creak alarmingly.
+
+Rain winced.
+
+“My hammer contains a sub-core,” Halgrave continued. “Most gold-tier equipment does.”
+
+“You’re just mentioning this now?!” Rain demanded, his worries about hull integrity forgotten.
+
+Halgrave raised an eyebrow. “Was it relevant before?”
+
+“It was!” Rain shouted, then paused and sighed. “At a meeting you weren’t at. Sorry. Anyway, if you’re willing to tell us who made it, maybe we can—“
+
+“Karamaugin,” Halgrave interrupted.
+
+“Oh,” Rain said, then muttered a curse.
+
+“What’s the problem?” Smelt asked. “If there is a crafter who works with cores and contracts for the Guild, then maybe we can hire him to take a look?”
+
+“Karamaugin works for the Bank,” Atyl said. “Havenheild, specifically.” He turned to Halgrave. “I don’t even want to imagine what that cost you.”
+
+“You do not,” Halgrave agreed.
+
+Rain rubbed at his eyes, then looked up. “It’s the same problem, regardless of whether the stealth cores are like journey cores or if they aren’t. Any crafters who could help us are going to have other loyalties. The Watch...probably has someone, but until we know who’s going to end up in charge, going to them would be dangerous. Sana, what’s the latest from your friend in the outpost?”
+
+“Things are getting worse,” Sana said, shaking her head. “There are three factions now, and, well... I don’t think we’ve got much time left before guardians show up and start asking questions.”
+
+“Why haven’t they shown up already, actually?” Ameliah asked. She raised a hand when everyone turned to look at her. “I’ve missed more meetings than Halgrave. Just saying.”
+
+“The Warden left orders with Guardian Nem to leave us alone,” Rain replied. “We only found out a few days ago. That’s not going to last once he stops suspecting she’s dead and actually starts believing it. He’ll come calling. Him, or a guardian from another faction once he loses what little control he has.”
+
+“Could be any day,” Sana said, looking down.
+
+“Ah,” Ameliah said, putting her hand down. “I suppose I won’t bother asking why we aren’t considering just staying here, then.”
+
+“We did consider it,” Vanna said, shaking her head. “The facts haven’t changed. Ascension needs a place we can lie low.” She gestured around. “This camp, right on the edge of a shipping lane? This is not that. If not for Halgrave, we’d have been subjugated by Birdman and the rest of the DKE leftovers by now. Whether it’s them, the Watch, or the Guild, upset about competition, we need to be elsewhere yesterday.”
+
+Rain clapped his hands. “Decision time, then. Any objections to leaving in six days’ time?”
+
+Tallheart rumbled. “I said four days would be sufficient.”
+
+Rain shrugged. “I was giving you margin.”
+
+Tallheart blinked at him. “My number included margin. I do not require more.” His eyes flicked to Vanna, then back to Rain. “My people also need to be elsewhere yesterday.”
+
+“I take your point,” Rain acknowledged, turning to Ameliah. “How are they doing, anyway? Do they have everything they need?”
+
+“They’re keeping to themselves,” Ameliah replied. “They won’t let anyone but Tallheart and me into the section of the camp you set aside for them, and I honestly don’t blame them for it. I’m going over there once we’re done here to try and help them feel less...isolated, I don’t know. It would help if I could tell them where we’re going. It would also help if you could get people to stop staring at them whenever they peek out.”
+
+“Damn rubberneckers,” Rain said, digging for the map he wanted in the crate of them beside his chair. “I’ll do something about it. Not sure what just yet, but something. Smelt, how many people do we have, including the cervidians and everyone else who’s been sponsored?”
+
+“Nine hundred and forty-four as of this morning,” Smelt replied. “Three hundred and thirty-seven of whom are members.”
+
+Ameliah inhaled sharply. “Depths, are you serious?”
+
+“In four days, we’ll have a hundred more if we don’t put a stop to it,” Vanna said. “Especially if the clouds don’t break or if the Empire starts moving again or if some other ridiculousness happens. People want to get off this continent, and we’re looking like a great option. We need to close our doors, outside special circumstances.”
+
+“As I’ve been saying,” Smelt said flatly.
+
+Vanna nodded. “We should stop new sponsorships, too, though anyone who’s been sponsored already and wants to become a member, we’ll consider. Any objection, Rain?”
+
+“No objection, though I hate turning people away who deserve to get in,” Rain said, rising with the map and tossing it on the table before diving back down for a pencil.
+
+“Rain,” Ameliah said slowly from above. “What did you do to the map?”
+
+“Hey,” he protested, popping back up. He pointed at the gash right in the middle of the Empire. “Kettel was the one who stabbed it. He doesn’t even have the trope as an excuse!” He smiled, abandoning his pretended affront. “Honestly, though, I get where he’s coming from. This thing is wrong and needs to die.”
+
+“Riiiight,” Ameliah said.
+
+“Hokai,” Rain said, smoothing the map until it lay flat. “So here’s the Earth...”
+
+Tallheart rumbled a warning.
+
+Rain sighed, tapping the coast above Yelfenn. “We’re here, obviously, and the green line is our path so far.” He swept his hand across the map, indicating various spots. “Our options, as previously discussed, are Karmark near the Ter, the south side of Lendis, anchored off the coast of Rellagia somewhere, one of two spots on Bellost, and an unspecified one of the Southern Isles.” He twirled the pencil, then looked up. “Any objections to striking Karmark from the list?”
+
+“Weren’t you the one arguing for it last time?” Samson asked, raising an eyebrow.
+
+Rain nodded. “I was, but in light of only having two stealth cores, we can’t risk it.” He tapped the blue scribbles between Karmark and Rellagia with the unsharpened end of the pencil. “This passage is supposed to be dangerous to the point that only Goldships can survive it. It’s also not as short as it looks on this map. I stand by my position that the uncharted south would be a great place to go blue hunting, but the rest of you were right. It’s a bit wild for our first base, what with the dragons and all.”
+
+“Is that the only reason you changed your mind?” Sana asked, looking at him strangely.
+
+“Yes,” he replied, making the lie as blatant as he could. He’d think of a way to share the Warden’s warning about Kev later, when he wasn’t in mixed company. As few people as possible needed to know he had the ghost of a dead woman rattling around in his skull. Sana, clearly understanding what he was getting at, didn’t outwardly react, covering any expression she might have made by taking a sip of her tea.
+
+Spinning the pencil again, Rain tapped Lendis, then drew an ‘x’ through it as well. “That shouldn’t be controversial,” he said, looking up. “It was only an option if we were going to lean on the Watch more heavily for support. Vigilance is somewhere around there, but given what Sana just told us, that’s not so appealing.”
+
+“Agreed,” Vanna said.
+
+Rain nodded. “How do we feel about Rellagia? That’s the only place you can get a journey core other than one made by the Foundry, which bumps it up the rankings. I know we basically ruled it out before, given how unlikely it is they’ll give us so much as a crappy island. Still, if we can work out a deal with one of the Kingdoms, we might be able to get some leads on core crafting. I’m just not fond of the idea of living on the ship long-term, even if we make another for more room. It leaves us too exposed.”
+
+“I concur,” Samson said, reaching out to touch the map. “We can still take this northern passage and anchor in Se or Jen for a night or two. There shouldn’t be an issue as long as we don’t overstay our welcome. We can still go ashore and try to find a core crafter to interrogate.”
+
+“Discreetly,” Vanna said.
+
+“Right, discreetly,” Rain agreed. “But as a place to stay, Rellagia’s out, right?”
+
+“Right,” Samson said.
+
+Surveying the room and seeing no dissent, Rain scratched another ‘x’ across the entire northern continent. “Bellost, then, or the Isles. Our deal with Luna doesn’t get us much, but it does get us passage past Splendor. How’s his spy doing, Sana?”
+
+“Settling in,” Sana replied. “There’s still no indication she’s realized she didn’t fool me.”
+
+“Good, good,” Rain said. “Samson, how did her combat eval go?”
+
+“I had to move it, but it’s scheduled for this afternoon,” Samson replied. “If she’s even a hint stronger than the level-three Swordswoman she claims to be, I’ll find out.”
+
+“Don’t push her too hard, even if you’re sure she’s hiding her strength,” Rain said, nodding. “We want to turn her, not turn her away. We’ll chat later about what misinformation to feed her in the short term. We won’t be able to hide the fact we’re going toward Bellost, but we can still get her to lead Luna down the wrong path before we cut the corner.”
+
+“Cut the corner?” Atyl asked.
+
+“Pirate term,” Rain said, returning to the map to tap a finger on Splendor. “These channels are wider than they look. There are a few undersea ridges that make things hard for Whales if you have a fast ship. They need to dive every so often to restore their strength, and the ridges stop them from just trailing after you along the bottom. The faster your ship and the stronger your nerve, the more you can cut it. Bakal thinks we’ll do even better with Temerity’s stealth. Not better enough to bypass Splendor, mind, but enough for our needs.”
+
+“Are we cutting north or south, though?” Vanna asked. “Actually, before we get to that, can we rule out the Isles?”
+
+“Yeah, I think so, after talking it over with Mlem,” Rain said. “Too many little ships going every which way. Any islands big enough for us to get lost on are already inhabited.” Not even waiting for confirmation, he crossed them out, then returned his pencil to Splendor, making a small mark on the passage between the Bank’s island and Freetown. He paused to drain the rest of his coffee, twirling the pencil again as he continued.
+
+“It doesn’t look like it on this map, not that it even has a scale, but this passage is long enough to make Scrying the whole thing impractical. The spot I just marked is where we’ll shake them, right in the middle. It’ll be hell for anyone to find us again once they lose us. They’ll expect us to cut north toward the Bite, but even then, that’s a lot of water to sweep.”
+
+He traced the blunt end of the pencil that way, continuing along the continent’s edge until he reached the scribble-filled bay on the bottom between Xiugaaraa and the Drywood. “Option one. This is probably our best bet if we want to harbor Temerity and come and go without people seeing us. The Drywood is, well, dry, but lack of fresh water isn’t a problem. It’s also dead, but the toxin that killed the trees isn’t a problem either. I’m sure I’ll be able to Purify it. Every report I’ve read says it’s fading, and if not, there’s the other shore.” He looked up. “However, everything that makes the Drywood and that bay good for us is something the Bank or anyone else could work out.”
+
+Returning to the map, he slid his finger back up to Freetown, then dragged it south. “All the more reason not to go there.” He tapped the coast by the Bloodmarsh. “Our second option, therefore, should be our first. This is where we should go, and the prep we’ll need to do will look the same.”
+
+“Really?” Ameliah said, wrinkling her nose. “The Bloodmarsh is horrid, Rain. I’ve only seen the eastern edge, but it’s supposed to be worse along the coast.”
+
+“Purify,” Rain said.
+
+“There are bugs the size of your thumb, boy,” Halgrave said. “Swarms of them so thick you’d swear it’s night at midday.”
+
+“Immolate, then Purify,” Rain replied. “I did my research on it too. The center is a ranked zone, but nobody goes there, which makes it perfect for finding a blue, albeit a weak one.”
+
+“That’s because you can’t get to the center without being sucked dry,” Ameliah said.
+
+“I don’t think I want to be sucked dry,“ Romer said.
+
+“Rain’s right,” Samson said, reaching across the table and sliding the map around to face him. “If it’s unpleasant, so what? We survived Fel Sadanis during the Shift. We’ll survive a few bugs, and with the ocean south of there being impassible, there won’t be any traffic for us to worry about. We’ll tell our members we’re going to the Drywood and to keep their mouths shut about it. The plan will leak, regardless of that warning and everyone’s best intentions. If it somehow doesn’t, we’ll leak it ourselves.”
+
+“Ameliah?” Rain asked, looking at her. He was happy to have Samson’s support, but something was clearly still bothering her. “You and Halgrave are the only ones who’ve been there. Is it really that bad?”
+
+“I mean, no, not really. It’s just a fetid, stinking, bug-infested bog.” She sighed, idly wobbling Dozer back and forth. Her soul relaxed after a moment, then she smiled. He relaxed too, knowing she was about to tease him. “Just once, you could take me someplace nice.”
+
+Rain smiled back, resolving to do exactly that the instant he could, regardless of whether or not she meant it. He reached out to take her hand. “All the nice places are taken. Don’t worry. We’ll make our own.”
+
+Sana squeaked.
+
+Samson pointedly cleared his throat. “If the Bloodmarsh doesn’t work out, we can always leave again. Head for the Drywood or wherever else. We should make that part of the fake plan. We’ll only tell the Entrusted, but the Isles can be our official backup. I don’t like lying to our members, but this will be a good test of our information control. If the spy hears about our supposed second choice, we’ll know we have a real problem.”
+
+“Okay, then,” Ameliah said, sitting back and raising her hand. “As the newest member of the Defense Council, I formally vote in favor of the Bloodmarsh and the horrible, oversized, monster-eating blood bugs.”
+
+“Everyone else good with that?” Rain asked, raising his own hand.
+
+Seven more hands went up—the council’s, plus Sana’s, though she immediately lowered it again, blushing furiously when Halgrave looked at her.
+
+“Excellent,” Rain said, sending Sana literal reassuring vibes. He slid the map back toward himself, crumpling it up mercilessly as he got to his feet. Taking two long steps away from the table, he released a compressed blast of Immolate, then tilted his palm to let the resulting ash filter to the ground. He flared Purify next, then turned to face the group, dusting his hands unnecessarily. “Oops. I seem to have lost the map. I guess we’ll need to pick up a better one next time we go shopping.”

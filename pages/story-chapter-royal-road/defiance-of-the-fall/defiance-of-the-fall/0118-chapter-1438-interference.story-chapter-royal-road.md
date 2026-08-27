@@ -1,0 +1,143 @@
+---
+id: 7db89ccb-cf64-56e6-ac7b-c6b77a89c57f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,438 - Interference"
+slug: 0118-chapter-1438-interference
+partOf: defiance-of-the-fall
+position: 118
+ownLength: 3156
+unit: words
+publishedAt: 2026-05-24
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3440541/chapter-1438-interference"
+royalRoadId: "3440541"
+---
+
+“What about the non-corrupted timelines?” Zac asked. “Won’t the people from there attack us too?”
+
+“I’ve already told you that our reality only holds one true timeline, only one version of us. They’re all just memories with the details slightly different. The problem with the invaders is that the First Era’s corruption has somehow made them aware of the omnipresence chamber and the world outside,” Esmeralda said. “Speaking of which, we should probably get going. The perceptive ones might notice us if we linger here.”
+
+“Fine,” Zac nodded.
+
+They’d never planned on taking a break after coming this far, and seeing the messy entanglement with the Peregrine Ocean only underscored the need for speed. Tasks were quickly divided, and they set out. Esmeralda was in charge of identifying the most troublesome timelines. The corruption wasn’t out in the open as Zac was used to. The only way to find the damaged timelines was by inferring through the fluctuations of time and space.
+
+Esmeralda would perform her survey from the center of the realm. She needed to form a basic connection to [Second Singularity] to stuff it into the hunting lodge, and she was responsible for keeping watch for recoil when Zac began detaching timelines. Zac’s job was much simpler. His only job was to close the bridges as quickly as possible.
+
+Still, it was with extreme caution that Zac approached the blob of silver water pointed out by Esmeralda. He’d already opened three vortices; two far away from him and each other, while a third trailed behind him. The Peregrine Ocean’s aura was currently restrained, but he hadn’t forgotten its lethality. He needed to be ready to get away at a moment’s notice in case it sprung a leak.
+
+Zac suddenly blanked out as he peered into the rippling waters. A vast world spread out before him, filling his consciousness. He witnessed innumerable lives going about their day, all with their own hopes and aspirations. A suffocating feeling of immense consequence came crashing down on him.
+
+He would be the first to admit he had terrifying amounts of blood on his hands, but even Zac reeled at the notion of extinguishing all life in a whole reality. Who was he to judge who’d survive and who’d get expelled? Just by taking a stance, he would shackle his Karma with misery beyond comprehension.
+
+Zac shook as a pulse of nothingness swept through him, waking him up to the truth. He took a shuddering breath, realizing he’d almost formed a heart demon from listening to the lies of the Lost Plane. The lives he saw might be real in some ways, but in a much truer sense, they were not. He was just observing a detailed recording of a long-gone era, lives that had reached their natural conclusion in the distant past.
+
+Furthermore, this recording was filled with madness, directly threatening the chance of real imperials to walk out of the dream. Like Esmeralda said, their theft was an act of benevolence. Cutting ties with these erroneous timelines was helping the Limitless Empire maintain the flame of hope.
+
+With his mind stabilized, Zac began contemplating his task in earnest. The rift was much too large to just smash with his [Fuxi Mountain Gate] like he did on Sevona’s island, and suffocating the whole ocean with [Void Zone] was out of the question. Its suppression wasn’t strong enough, and the ocean wasn’t even in this space. Zac was only able to stand before it because the waters were kept in an alternate layer of reality.
+
+The good news was that the arrangement was well past its prime. Different from the magic circles he’d seen inside the memory domain, the ones surrounding the patch of ocean should have been installed when [Second Singularity] was sealed. The timelines of the Omnipresence Chamber had probably fed it with just enough Imperial Faith to keep the magic circles going, but the faith was not what it once was.
+
+The expiration date of the circles had come and gone long before they arrived on the Left Imperial Expanse. Most likely, they’d start failing on their own in a few months. Zac frowned at the thought. Could the elders of the Imperial Court have estimated things with such precision, using natural decay as a fallback in case no one brought [Second Singularity] away?
+
+Zac shook his head. He needed to get a grip. The Empire’s looming shadow had grown so large that he was ready to attribute almost anything to their foresight. Even if it was planned, a natural decoupling would be far from ideal. He wouldn’t be surprised if it opened for the invaders to take advantage again. Zac wouldn’t give them the opportunity.
+
+Some of the runes were in a worse state than others, creating an array full of weaknesses that even Zac could spot. This was the opportunity he needed. Zac’s right arm turned into a blur as swirls of death pooled around [Death’s Duality]. Channeling [Fatehew], Zac struck one of the golden sigils head-on.
+
+Zac’s mind screamed with danger, and he narrowly avoided a jet of silver water spurting in his direction. The rune recovered, showing no signs of permanent damage. Even in its weakened state, the magic circle was propped up by unyielding devotion that wouldn’t bend to Death’s inexorable pull. Zac wasn’t surprised. After all, this whole setup was part of the empire’s desperate attempt to overcome death.
+
+Targeting the runes with a few other skills yielded the same result. Sevona’s visions had already hinted that the Void was the key to completing the mission; Zac simply wanted to get a better understanding of the runes. With that out of the way, Zac activated [Void Mountain]. The inverted mountain descended, this time appearing just above his Cosmic Core inside his Quantum Space.
+
+A pure current of Anti-Dao was significantly more effective than exhausting the runes with his skills. The magic circle was constantly replenishing the loss, but not at the pace that Zac was burning it. The golden shimmer faded into a sickly yellow until it could no longer bear the pressure of the Peregrine Ocean. The rune snapped, and a larger leak of water flooded the area. Thankfully, the realm’s rejection quickly expelled the foreign matter to the outer spatial layers.
+
+By that time, the magic circle had already rearranged its patterns to ensure operations. Undeterred, Zac pinpointed a second weak link. He barreled into it like a runaway train, slamming the rune of [Void Mountain] into it. With the energy flow already unstable, the power of Dao Annihilation immediately became the straw that broke the camel’s back.
+
+The rune shattered, the circle held on, and Zac kept going. He could do this all day—literally—and he knew he was making progress. The ocean was actually shrinking as its bond to [Second Singularity] weakened. Its domain also lost ground against the push of the surrounding gateways. It was like each timeline wanted to claim as much of [Second Singularity]’s territory for itself as possible, like an instinctual drive for preservation.
+
+The gradual process took a sudden turn when the eleventh rune shattered. The remaining runes couldn’t maintain function, and they lost their cohesion. They regressed into swirls of Imperial Faith, which was swallowed by the rippling silver. The connection was cut, and a tremendous pull immediately tried to drag Zac into the abyss. The pull was so strong that just resisting took almost all he had.
+
+Thankfully, the restraints didn’t extend to the vortex swirling just behind him. With a mental command, it jumped forward and swallowed Zac whole. The gate itself disintegrated before Zac emerged, avoiding being dragged into the other timeline. Zac had no idea what would happen if his Void Realm swallowed that terrifying silver water, but it couldn’t possibly be anything good.
+
+Zac hadn’t forgotten the true nature of the Peregrine Ocean. It was either the blood of a fallen Supremacy or their extracted cultivation. The suffering he experienced from forcibly swallowing part of [Twin Eclipse] would be nothing compared to trying to consume the silver water. And this time, there was no Realmlord ready to patch him up.
+
+An urgent shout reached Zac just as he emerged from one of his backup gates. “It’s about to blow! Move to section twelve!”
+
+Zac quickly oriented himself before turning into a streak of Abyssal Death. They’d divided the realm into sixteen sections for ease of communication, and section twelve was nearby. A blinding flash seared Zac’s retinas just as he returned to his normal form. A cone of pure malevolence filled a third of his vision when his sight returned.
+
+Three whole sections had been filled with the most harrowing stream of corruption that Zac had ever witnessed. Not even the ambience of the true Lost Plane could compare to the corruption that had been infinitely compressed inside the Supreme Spatial Treasure. Zac quickly looked away, but it was already too late. Madness sprouted like mushrooms after rain.
+
+“Get out!” Zac roared, triggering an eruption of energy from his Cosmic Core.
+
+A storm of Life, Death, and Conflict swept through the Quantum Space, submerging the Soul Cores in energy. Small specks of darkness were excavated and swept away. Zac took a shuddering breath after suppressing the voices in his mind. There was no encore since the cone only lingered for a moment. Some of it was swallowed by the other timelines, while most broke through the bounds of the hidden realm to rush off to some unknown plane.
+
+Nevertheless, to say it was gone wasn’t entirely accurate. There were a smattering of oily specks lingering inside the realm, resisting the power of expulsion. As though alive, they gathered into a wriggling web with engorged nodes. It looked like supersized bacteria, and it was trying to return to [Second Singularity] where it was born.
+
+“Ack! Keep that ugly thing away from me!” Esmeralda exhorted, her hands a blur.
+
+The toad was surrounded by extremely complex runes that poured into the singularity. It looked like the toad was using the gap opened by the release of corruption to leave her own mark on the treasure. If the corruption was allowed to return, her hard work would be undone. Zac had no choice but to put the next magic circle on hold and change course. He opened another vortex, shifting positions to directly intercept the corruption.
+
+Thankfully, less than a percent of a percent remained of the previous outburst. Any more, and Zac would have been in real trouble. As it was, the tangle didn’t quite possess the sapience of a Qriz’Ul. It lashed out on instinct when sensing a threat, but its crude attacks posed no danger. This wasn’t a problem that required further expenditure of Void Energy.
+
+The keening call of inexorability sang, and the tangle was cut in two. Pustules were punctured by chains dripping with corrosion. Pockets of corruption were isolated and whittled down by Zac’s Inexorable Path, and the corrupted tangle shrank at a speed visible to the naked eye. Soon enough, only a few discarnate shreds remained, which were swiftly cleansed with a burst of [Void Zone].
+
+“Everything’s okay on your end?” Zac asked after flying over to Esmeralda’s side.
+
+“I’m fine,” Esmeralda said with a grin. “I’ve inserted the first hook.”
+
+“You weren’t kidding before about it spitting out corruption,” Zac muttered.
+
+“Just my little baby expelling some gunk,” Esmeralda said with excitement, her eyes veritably burning as she lovingly gazed at the dot of supercondensed space. “You’re a good boy, ain’tcha? Removing all the bad stuff before Esmeralda gobbles you up.”
+
+“So long as you’re fine…” Zac said with a raised brow. “Have you found the next one?”
+
+“Over there.” Esmeralda pointed at another timeline. “Be careful. The balance in here was already fraught, and removing one realm has created a ripple effect.”
+
+Zac nodded and immediately set out. Even he could notice the ripple Esmeralda referred to. The different timelines weren’t just clashing around the spot where Zac closed the first magic circle. Borders were constantly being redrawn in a silent war between worlds, making the whole realm increasingly unstable. If not for occasionally reactivating [Void Zone] to recalibrate, Zac would already have lost any semblance of orientation.
+
+Still, the dangers were manageable, and Zac’s efficacy grew with every gate he closed. The accumulation of corruption spat out by [Second Singularity] also grew weaker over time. It was only a matter of time before it would be safe for Esmeralda to consume. Still, Zac didn’t lower his guard. When had things ever gone smoothly for him? His suspicions proved right when he sealed away the eighth corrupted timeline.
+
+A powerful fluctuation suddenly swept through [Second Singularity]’s inner realm. The familiar aura made Zac stop in place and warily look around. Indeed, that guy still hadn’t given up. While still weak and distant, there was no mistaking the aura. It belonged to August, the false god who tried to usurp Sevona’s divinity. After laying low for months, that corrupted creature was once more extending his tendrils across timelines.
+
+Had August sensed the threat to his timeline? Or worse, was this a personal vendetta where he honed in on their location because of Zac’s presence? He had ruined the false god’s attempt at attaining true godhood by closing the dimensional gate at the eleventh hour. That was enough reason to take revenge. Failing to find which timeline the scan came from, Zac turned to Esmeralda. She shook her head and signaled for him to keep going and to speed things up.
+
+‘What an unreliable Goddess,’ Zac complained to himself as he rushed for the next gate.
+
+They hadn’t heard a peep from Idiche or whatever she called herself now since leaving Sevona’s island. He’d hoped that she’d busied herself taking care of lingering threats like August in the months that had passed. There was little hope for her coming to their rescue now. They’d only ever seen corrupted invaders and Qriz’Ul stepping out of memories.
+
+Zac tore into the next gateway like a man possessed, dodging its outbursts by the slimmest of margins to destroy the magic gate at the highest possible speed. It was no wonder they failed in Sevona’s vision. There were at least two dozen timelines with clear signs of corruption and likely a few that would need more thorough scanning. Taking care of just nine had drained a third of his Void Energy reserves.
+
+In the vision, Zac neither had his current Void Energy reserves nor easy ways of recovering his Void Energy. He’d already recovered half of what he’d lost through his human side, leaving him with more than 80% in his tank. In the vision, Zac also lacked [Earthly Dome], which had acted as a safety net throughout. He could still have made do without it, but at greater cost and a slower pace.
+
+His engine would be running on fumes right about now. With August breathing down their throats, Esmeralda would have no choice but to fuse with [Second Singularity] while it still held dangerous levels of corrupted spacetime. While still dangerous, the situation was much better now.
+
+The ninth gateway crumbled. Instead of disappearing, August’s presence grew stronger.
+
+‘He’s using the fluctuations of the colliding timelines to locate us,’ Esmeralda warned.
+
+‘So what should we do?’
+
+‘There’s nothing we can do but keep going. Sooner or later, you’ll pick the right one,’ Esmeralda said. ‘If he’s about to descend, I’ll just have to swallow the singularity ahead of schedule.’
+
+Zac refused to see a repeat of the past, and he continued through the next gateway like a man possessed. Ten, eleven, twelve. Timelines kept collapsing under [Void Mountain]. Zac couldn’t be certain, but he felt the Bloodline Talent had gained an imperceptible weight to it. It seemed like erasing high-grade Daos didn’t drain as much Void Energy as before, and the speed had improved too.
+
+Unfortunately, luck wasn’t on Zac’s side. August’s presence was stronger than ever by the time Zac had closed all twenty-two obviously corrupted timelines. Finding the ones lurking in the shadows would be difficult. The inner realm had descended into an all-out war after the rapid outbursts.
+
+‘Something’s wrong! There’s a pattern!’
+
+“Pattern?” Zac muttered, suddenly drawing on a set of runes in his mind. “Courtesy through rite, wisdom through imagery...”
+
+Zac’s vision shifted, adding a new dimension. Suddenly, he saw thousands of bridges all around him. They were the connections made from condensed spacetime, each holding countless possibilities. And in some cases, madness. Torrents of ichor suddenly burst from Zac’s Abyssal eyes as deep cracks opened up. He’d witnessed something beyond his tolerance, but that brief glimpse was all he needed.
+
+“It’s you!” Zac growled, rushing toward a timeline that Esmeralda hadn’t pointed out.
+
+It didn’t have the same distinct aura as the world he’d briefly visited on Sevona’s island, yet he trusted what he’d seen. That seemingly ordinary timeline was a spider in the web, connecting to more than a third of the realm’s gateways through almost invisible bonds. Zac would never have noticed if the chaos hadn’t reached a crescendo. If he could close it, the whole network would collapse.
+
+The waters rippled as if it knew it had been exposed, and it suddenly shot out hundreds of water jets. Zac managed to destroy a few, but he wasn’t the target. The jets crashed into its bonded timelines to create a secondary connection. And then, the spider began devouring its subordinate dimension.
+
+‘Not good!’ Zac thought, but it was too late to stop.
+
+The small patch of ocean ballooned to ten times its original size. Not only that, it gained an oily layer of corruption. That was to be expected. More disappointing was that the runes of Imperial Faith had been bolstered by the transformation rather than breaking down on their own. Zac only managed to destroy three runes before his mind screamed of danger.
+
+Zac pulled back, narrowly dodging a spear that emerged from the water. He frowned, seeing it bulging in dozens of spots. Then, he saw the unmistakable contours of a face. They were breaking through. He only had time to realize the danger before the first man appeared. The fact that he was only Late D-grade wasn’t much of a comfort since he was just the first of many.
+
+One by one, they forced their way through the shimmering wall to appear before him. Zac’s expression grew overcast as he saw multiple familiar faces. Some were figures he’d seen during the worship ceremony; others were Sealbearers he’d read about in reports. All of them reeked of corruption, to the point that they sported tumorous growths or horrid mutations.
+
+Chains rattled as [Death’s Duality] appeared in Zac’s hand. Since these foul creatures refused to go down without a fight, he’d just have to cut them down along with the portal they crawled out of.

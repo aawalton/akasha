@@ -1,0 +1,43 @@
+---
+id: 62aa801d-8b2f-5665-8374-4663ba238f7e
+page-type-slug: story-chapter-royal-road
+title: "New Story Release to prepare for Reaper's Resurgence Completing"
+slug: 0355-new-story-release-to-prepare-for-reaper-s-resurgence-complet
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 355
+ownLength: 308
+unit: words
+publishedAt: 2026-07-07
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/3642038/new-story-release-to-prepare-for-reapers-resurgence"
+royalRoadId: "3642038"
+---
+
+Hello! As stated in the title of this post, I have just released a new series on Royal Road! This is because one of my other series, Reaper's Resurgence, is very close to completing! Specifically, Reaper should complete within the next month to month and a half or so.
+
+And I have started this new series to take up Reaper's slot in my schedule. So it won't generally affect the upload rate of my other stories.
+
+Now then. I hope you enjoy the synopsis and cover!
+
+Welcome to the System, and to the Multiversal Wars!
+
+Send monsters to enemy planets with War Points, travel personally to your enemy planet’s dungeons to slay enemies yourself, or simply defend your planet from monsters spawned in dungeons by your enemies!
+
+You may fight however you please!
+
+But you will fight. For if you don’t, your enemies will.
+
+Aidan Vale was anything but a normal college student when the System arrives and summons everyone to the Tutorial.
+
+Aidan himself has never been a very happy person before the System thanks to his unusual condition that no doctor can explain. One where he always feels hungry no matter how much he eats.
+
+Even when he’s full and can’t eat any more, he still feels starving. A painful and gnawing hunger. And the only thing that can alleviate his symptoms are the strange stones he sometimes finds and holds on his person that manage to calm down his hunger a little.
+
+But after the System arrives, he finds the reason for his condition. And he finds the method to make the hunger go away.
+
+Nothing is more important to him than that.
+
+Join Aidan as he explores the System, fights in the Multiversal Wars, and adapts.
+
+If you're interested and want to check out the story, click here or on the following link!
+
+https://www.royalroad.com/fiction/178800/void-crowne

@@ -1,0 +1,187 @@
+---
+id: 87b3abfe-ccde-5a4d-ae9b-54a59949156f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,387 - Bleeding Through"
+slug: 0064-chapter-1387-bleeding-through
+partOf: defiance-of-the-fall
+position: 64
+ownLength: 3270
+unit: words
+publishedAt: 2025-12-07
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2827790/chapter-1387-bleeding-through"
+royalRoadId: "2827790"
+---
+
+“No sense of self-preservation,” Zac muttered as the carcass of the Peak E-grade bird in his hand faded into an illusory shimmer.
+
+Surprisingly, the low-grade attacker dropped an item—a footstool missing a leg. Like all the other trinkets that had dropped over the past hours, it was a mortal-grade item without any engravings or innate spirituality. Not a single one of the nearly two hundred slain birds had dropped a Corruption Crystal.
+
+Zac wasn’t sure if birds were less tainted than landlocked animals thanks to the rain, or if the flock simply was too low-leveled to gather a nucleus of corruption. The crystals he’d collected so far all came from Beast Kings, and there seemed to be a direct correlation between grade and the chance for a crystal to drop.
+
+Out of the thirty-six crystals he’d collected during their trek in the jungle, only one came from an Early Beast King. In contrast, Zac already had three Peak D-grade crystals after getting another one from a solitary Peak Beast King. The haul was decent, and he was quickly figuring out the rules of his new cultivation resource.
+
+“Will you stop that?” Idiche said with disgust as Zac wiped the blood off his face.
+
+“Don’t worry, I’m done,” Zac promised.
+
+He’d more or less confirmed that blood wasn’t the important part in stirring the intent. It was the instigation of a draconic bloodline that allowed Zac to reap the reward. The flock of blue-feathered birds had an ordinary background—by the standards of the Left Imperial Expanse—and it was completely useless for his purposes.
+
+It wasn’t just bloodlines that worked, either. The Peak D-grade Beast King he fought earlier actually possessed a powerful toxin empowered by an Earthly Dao. The combination made Zac queasy despite his multiple layers of resistance, and it was even more effective than drake blood at triggering a response from the foreign Killing Intent. Zac assumed anything powerful would work, from Daos and Soul Attacks to dangerous natural forces.
+
+“How are things on your end?” Zac asked after having cleansed himself.
+
+The reason they were attacked this time was that they’d remained in place for almost five minutes. They stood at a crossroads of dimensional layers where Esmeralda and Idiche couldn’t agree on which route to take. Their plan of following the trail of destruction left by the drakes had failed within five minutes when the tracks stopped out of nowhere. Most likely, Idiche had led the drakes through a spatial passage or dreamrealm that no longer existed.
+
+Instead, Idiche and Esmeralda used various methods to look for the forest’s hidden paths while Zac eagerly took on the task of dealing with the wildlife. Progress was slow, with the corruption adding an unavoidable layer of uncertainty to any calculations. Both Esmeralda and Idiche’s deductions were repeatedly proven wrong.
+
+They even found themselves back at the beach after two hours of trekking due to an especially unfortunate twist inside a warped formation. The scorched section in the distance confirmed they’d only moved a dozen miles north. Still, each setback was a lesson, and there seemed to be rules governing even the Lost Plane’s influence. The mountain in the distance was already looming up ahead. They just needed to break through the final layers of the Natural Formations to reach their first pit stop.
+
+“We think we have it. Neither option is currently the right one. We’ll have to wait a minute or two for the paths to fuse,” Esmeralda said with an uncharacteristic lack of certainty. A series of mistaken assertions had left the toad humbled. That embarrassment had quickly turned into barbed jabs at their new companion. “We wouldn’t have needed to go through all this if someone had bothered placing guiding flags through the formation. You know, as any proper adventurer would know to do when exploring a complex environment.”
+
+“Hey, don’t blame me. As I told you, I can’t control or even remember exactly what my sleepwalking self is up to,” Idiche scoffed. “Without me, you’d probably still be at the beach with how your calculations are going. So much for being a master.”
+
+Zac only listened with half an ear. His wandering gaze had caught on something odd with a nearby tree. He walked over and traced his hands along the bark, focusing especially on a particular branch. Then, he began pushing away the grass with his foot.
+
+Idiche walked over, looking at his actions with confusion. “What is it?”
+
+“This branch has been grafted on, I’d say, a few years ago. There are some new shoots on it, but it must have been nearly completely withered before. Not only that, look at the scarring. Something was hanging from the branch at the time,” Zac said as he kept digging. “Here we go.”
+
+The three looked down at the two feet of rope that had been hidden behind a layer of loam. It looked like it had been burnt at both ends. Zac picked it up and infused some energy, at which point it immediately disintegrated. A weak hint of unstable Temporal Energy appeared for a moment before disappearing.
+
+Zac hummed and kept digging. The only thing he found after turning a whole garden patch upside down was a cracked cobblestone. It held up against a spiritual infusion, but it was clearly just a decent E-grade material. What mattered was the barely distinguishable aura it held—the same one they’d felt from the [Peregrine Gondolas]. The tile wasn’t an illusion, nor was it from these parts.
+
+“Overlapping timelines,” Esmeralda said thoughtfully. “The breach must have been highly unstable, nothing like what we saw back in the Transformation Docks.”
+
+“What’s so interesting about some pavement?” Idiche asked, not following the conversation.
+
+“Think about it,” Zac said. “Why would there be pavement on this island?”
+
+“Someone has obviously built a—”
+
+“Exactly. Our enemies seized their dimension’s island years ago, and they’ve built roads and Heavens knows what else,” Zac sighed and got to his feet. “And look at the items. The otherdimensional branch was almost completely withered, the rope looked like it had been left to wither in the sun. Even the tile had cracked from intense heat. There hadn’t been any rain for a while where these things came from. Whatever the invaders are up to with Sevona’s Hunting Lodge has been years in the making.”
+
+“We better hurry. They probably know this place a lot better than—” Esmeralda stopped as all three of them turned in the same direction.
+
+Two bedraggled disciples, one man and one woman, emerged from the illusory mist that covered large swathes of the forest. It took them a moment to realize they had escaped the Natural Formation. There was not much relief on their faces, considering the formations in the outer parts of the island hadn’t been proven very dangerous so far. It was the beasts lurking outside in the shadows that posed the real threat.
+
+Zac didn’t recognize either of the two Late Hegemons, but he did note the ring on the man’s hand. It was the same signet ring he wore himself. Zac silently prepared a sliver of Corruption, thinking this was an opportunity to test his ring’s hidden function. It wasn’t like people used the identity confirmation in the signet rings inside Adventurer’s Cove. The feature was there to confirm allegiances when meeting strangers on the seas.
+
+The two disciples noticed Zac’s group shortly after, except for Esmeralda, who had disappeared somewhere.
+
+“Vice Leader Levos, is that you?” the young man said with relief and excitement.
+
+“Mikas, you look like you’ve seen better days,” Idiche sighed.
+
+“This place,” Mikas grimaced. “I’m demanding a refund from the Intelligence Office when we go back.”
+
+“You’ll have to get in line,” Idiche laughed, glancing at the woman sticking close to her companion. “I assume this is Veisa?”
+
+“It’s a pleasure, Miss Levos,” the young woman said.
+
+“Wait,” Zac suddenly said, stepping between Idiche and the approaching pair. “Present the ring.”
+
+“Who are you?” Mikas said with a frown, glancing at Idiche questioningly.
+
+“It’s our newest member. Just humor him. Besides, can’t be too careful in this odd place,” Idiche smiled.
+
+Mikas slowly nodded and infused his ring with energy. Zac did the same, adding a sliver of corruption. Only his own energy emerged while the corruption activated the hidden patterns in his ring. The two forces met, and Zac felt a confirmation in his mind when the forces returned. The corrupted array seemed to scan for something in Zac’s own energy. When it couldn’t find it, the corruption simply dispersed. Throughout, no one seemed to notice a thing.
+
+“Happy?” Mikas said with a raised brow.
+
+“Almost. You too,” Zac said, turning to the woman.
+
+“Ah, I’m not a member of the Guild. Mikas and I are—” Veisa’s explanation turned into a shocked shriek when Zac suddenly turned into a blur.
+
+Mikas was already drained and distracted from overcoming the formations, and he was too slow to react to the punch that rushed toward his temple. The punch landed with such force that Mikas spun in place before falling lifeless to the ground. Veisa joined him just moments later. She’d frozen up, seemingly caught between wanting to save her Dao Companion and running for her life. Zac made the decision for her.
+
+“What the hell are you doing?” Idiche swore as she hurried over to the unconscious duo. “Thank the Heavens, they’re still alive.”
+
+“Of course, I know how to control my strength,” Zac said as he placed his hand on Mikas’s chest. Esmeralda had already appeared to the side, holding the man’s signet ring.
+
+“This one’s normal, I think?” the toad said, looking at Zac for confirmation.
+
+“I got no response. Just making sure,” Zac explained, scanning every inch of Mikas’s body for signs of corruption. Apart from some newly absorbed slivers, he was clean.
+
+“Aren’t you worried the Disciplinary Elders will drag you away for acting like this?” Idiche said when Zac performed the same check on Veisa.
+
+“The invaders wouldn’t have dared launch a large-scale operation if they weren’t sure they’d be left alone. I’d be surprised if the whole island wasn’t sealed off already,” Esmeralda shrugged as she greedily eyed the pair’s Spatial Rings.
+
+“They’re clean, so let’s leave them. Doubt they have anything of value,” Zac smiled before turning to Idiche. “Just look at your Disciple Token if you don’t believe her.”
+
+“It’s empty!” Idiche said with surprise a second later. “I can’t even sense the fixed locations. This is bad; this has never happened before.”
+
+“It’s fine. Neither of us was expecting reinforcements in the first place,” Zac shrugged.
+
+Idiche slowly nodded, failing to hide her unease. She’d probably held onto the belief that her master or another elder would swoop down in case the situation truly went out of control. Now, the reality of the situation was starting to set in. Zac could understand her struggle. He’d often used his Void abilities as emotional support when faced with dangers and uncertainties.
+
+“Look at it from the bright side. It’s only in this kind of environment that one can truly tap into their potential,” Zac offered as he got to his feet.
+
+“We can’t leave them like this. Tie them up for me,” Idiche said while handing Zac a roll of rope. Seeing his expression, she shrugged. “What? These are standard issue for treasure hunts. Are we going to let them run around and expose the two of us working together? Steal our opportunities? These ropes will help keep them hidden, and they’ll get sent out in three days.”
+
+“What if beasts still find them?” Esmeralda curiously asked while Idiche placed the two inside a thick canopy and added an extra layer of illusions.
+
+“These ropes have a teleportation function. If they sense a threat, they’ll teleport their captives and then disappear. That should be enough to wake them up. Beyond that, it’s up to chance,” Idiche said. “Honestly, these two had a higher chance of dying on their own. They should have stayed on the beach after realizing something was wrong.”
+
+“Not sure how safe the beach is. If I were the invaders, I’d send out a strong party to clean out all stragglers,” Zac said. “Let’s go, we’ve wasted enough time here.”
+
+Despite Zac’s growing sense of urgency, they stopped just twenty minutes later upon reaching the mountain slopes. It wasn’t that they’d lost their way, rather that they’d already encountered a second overlapping zone. This one was significantly more noticeable than the first. Zac warily approached the cracked pillar that rose nearly four meters into the air.
+
+The pillar had suffered immense damage, yet it still rippled with dangerous temporal fluctuations. It appeared semi-functional, like some of the arrays in the ruins of the Mercurial Court. The overlap was recent, and the still-dry sand around its foundations confirmed Zac’s suspicion. Sevona’s island on the other side had been turned into a desert.
+
+“Large-scale array flag,” Esmeralda said.
+
+“Can you tell its purpose?” Zac asked as he inched closer, drawn by the twenty-four Peak D-grade Corrupted Crystals embedded in identical groves. The crystals had been drained by more than half, but it was still a significant boon to his growing stockpile.
+
+“Impossible. A Temporal Cultivator might have been able to glean some clues from the echoes of time,” Esmeralda said before tapping Zac on the back of his head. “I suggest you stop unless you want to be hit by its final burst of energy.”
+
+“Fine, you do it,” Zac urged.
+
+Esmeralda effortlessly avoided the flag’s defenses, and the Corruption Crystals were soon safely tucked away in Zac’s Cosmos Sack. Since it had lost its energy source and they couldn’t figure out its purpose, Zac destroyed the pillar before they left. He tried to make it look like a tainted Beast King had been drawn by the crystals and toppled the flag to get to them.
+
+“It’s here!” Idiche suddenly shouted a while later.
+
+Zac looked over and saw nothing out of the norm. Idiche was standing by a rocky surface inclined at forty-five degrees. Idiche stopped him when he planned to climb up the cliffside.
+
+“Wait, it’s an illusion.”
+
+“Really?” Zac said, giving the stone a second look. “Can’t see a thing.”
+
+“It’s there. I saw this in my dreams,” Idiche said with certainty. “Give me a moment and I’ll unravel the illusion.”
+
+Zac’s brows rose when the slanted climb turned into a vertical wall. There was a large tunnel carved right in the middle, from which waves of heat seeped out. Idiche was right. If he’d tried to ascend the mountain along that route, he would have entered an illusory realm. They entered before the formations could undo Idiche’s work and found themselves in a passage that continued for miles.
+
+There were no beasts and barely any side paths in the tunnel. The illusory energy was also significantly lower than outside. Accordingly, the corruption was noticeably higher compared to the forest, though not as much as one could have expected. Zac guessed it was held at bay by another force—the increasingly sweltering heat. It was quickly becoming clear the small mountain was actually an active volcano.
+
+The tunnel eventually opened up to a massive cave with close to a hundred lava lakes. The cave was just as large as some of the major settlements in Earth’s Underworld, more than enough to fit all of Port Atwood. Thankfully, the Unvai Drakes were closer to dragons than humans when it came to procreation. It wasn’t easy to add new members to their tribe, which explained why the egg theft left them so infuriated.
+
+There were still a few dozen drakes milling about in the pools. Compared to the amount of real estate they held, it might as well have been empty. Furthermore, Idiche had successfully brought out all the elites. The drakes that remained were decidedly weaker, with most being at Peak E-grade. None of them had noticed their home had been invaded again as Idiche and Esmeralda worked together to hide their tracks.
+
+“Over there!” Idiche whispered, pointing at a massive lava pool in the distance.
+
+Zac followed her finger and froze upon seeing a cliff peeking out from the bubbling surface. He hadn’t noticed it at first, as it looked much like the rest of the rock formations. When properly scrutinized, Zac realized it looked just like the spinal ridge summoned by the drake pack. However, this one was calcified, and Zac couldn’t sense any specific draconic aura beyond what permeated the cave system.
+
+“The skeleton of a Peak C-grade Lava Dragon,” Esmeralda whistled. “It’s probably the source of all this lava. It’s a shame its energy has fused with the mountain. Its bones would have been very valuable otherwise.”
+
+“And now?” Zac asked.
+
+“Not so much. Besides, can your [Mercurial Sack] even transform them?” the toad smiled.
+
+“Oh yeah, it’s probably illusory, huh?” Zac sighed, disappointed that Verun would miss out on the delicacy. “Still, good thing we didn’t fight here. Their Ancestral Sacrifice would have gone very differently if they could use a medium like those skeletal remains.”
+
+“Told you. Everything I do is with good reason,” Idiche said with a grin.
+
+“Why are you looking so proud? You’re not the one who called them to the beach, remember?” Zac said with a raised brow, which elicited a giggle from Esmeralda.
+
+The three silently passed through the area to avoid any complications. The drakes didn’t notice a thing. The ones that weren’t hibernating were so busy looking for their elders that they forgot to keep watch for outsiders. The powerful illusion hiding the entrance had also instilled a false sense of security in the pack, and a single theft hadn’t managed to undo behavioral patterns reinforced over generations.
+
+There was one pathway on the other side of the cave and a few exits submerged in the lava. None of them were willing to dive into the lava since they knew the only thing waiting in the depths was more of the corruption. They picked the normal tunnel, which quickly started taking them upward. By the time they saw the exit, Zac guessed they’d climbed half the mountain—provided the mountain they saw wasn’t another illusion.
+
+Intense winds filled with furious energy and pelting rain greeted Zac as he emerged. The intensity of Sevona’s rain was an order of magnitude greater than what they had experienced in the forest. And yet, he saw black smoke seeping out of the ground, indicating the battle between Sevona and the corruption actually leaned in the Lost Plane’s favor.
+
+It was hard to make out any details when faced with such an intense storm, but Zac could somewhat make out that they had reached an elevated region full of mountain peaks he’d never seen when they traveled through the forest.
+
+A mountain that emitted a particularly intense aura towered right ahead. Its peak was split in two, looking like a giant had taken its blade to it. A vast valley had formed in the middle, and a waterfall made of rainwater poured down its side before disappearing into cracks in the ground. Zac’s expression grew solemn as he took in the scene. He could feel the winds of fate swirling around the mountain.
+
+A gasp from his left made Zac turn to Idiche, whose eyes shimmered with ancient power and extremely pure Dao. She didn’t notice the look. Her attention was completely held by the unusual mountain. Leaning closer, Zac could barely hear what she mumbled over the roaring winds.
+
+“…A key lodged in a scar.”

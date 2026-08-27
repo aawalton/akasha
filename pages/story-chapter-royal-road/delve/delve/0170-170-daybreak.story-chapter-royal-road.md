@@ -1,0 +1,839 @@
+---
+id: b42dc96e-208d-5b0b-944b-b9cd29df3ce5
+page-type-slug: story-chapter-royal-road
+title: "170: Daybreak"
+slug: 0170-170-daybreak
+partOf: delve
+position: 170
+ownLength: 6571
+unit: words
+publishedAt: 2021-11-07
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/781148/170-daybreak"
+royalRoadId: "781148"
+---
+
+Black skeletal fingers closed around the handle of a lever. The shaft of adamant was as tall as Rain’s avatar, protruding from a dais at the center of a platform open to the roiling chaos. Rain squeezed, freeing the clutch, then began gently pulling the lever toward him. Behind him, the hum of high voltage electricity grew, heard without ears, but this sound was soon lost beneath that of rushing wind.
+
+Rain shifted his eyes to the dials set into the console to his left. There was a mechanical click as the lever reached its stop, and he released his grip, the ratchet locking it in place. He watched the dials patiently, waiting until the needles stabilized.
+
+Fan velocity: maximum. Inflow: off the scale. Outflow: the same. Pressure: within tolerance. Vibration: negligible.
+
+Closing his bony fist, Rain turned, stepping down from the dais to walk across the otherwise barren platform. Over the edge, suspended in the chaos by a rugged lattice of adamant spars, hung twelve enormous cylindrical tanks, rising three times Rain’s height. Four of them were already full, their glowing blue contents visible through tall, narrow windows facing the platform. Sloshing could be heard from the next tank in line, already filling from the network of pipes leading from his core.
+
+Raising one fleshless digit, Rain touched the adamant beside the crystalline window, then shaped a scratch into the near-indestructible metal, marking the level of the liquid essence within. Stepping back, he sat, crossing his legs. The fire of his eyes burned out, leaving only empty sockets behind.
+
+In another layer of reality, Rain’s eyes opened.
+
+He clenched a fist again, this time with his bones clad in flesh beneath a layer of metal.
+
+Mana Manipulation
+
+He didn’t hold back. With all the force he could muster, he shoved mana into the Magewell hanging from his neck. The room took on a blueish tint to his eyes, which he knew would be shining with a faint electric glow.
+
+After a few seconds of this, Rain’s reserves ran dry, though the Magewell remained unfilled.
+
+Winter
+
+Again, he didn’t hold back. He was done holding back. His physical senses vanished as ravenous ethereal cold gripped him, gnawing at his bonemarrow. It was nothing.
+
+Character
+
+Richmond Rain Stroudwater
+
+CLASS
+
+LVL
+
+CAP
+
+Dynamo (+)
+
+25
+
+30
+
+EXP
+
+NEXT
+
+TOTAL
+
+63,836
+
+63,837
+
+2,035,829
+
+Vitals
+
+CUR
+
+MAX
+
+RGN
+
+Health
+
+3,594
+
+3,600
+
+600/d
+
+Stamina
+
+745
+
+1,320
+
+1320/d
+
+Mana
+
+64
+
+10,075
+
+43.8/s
+
+Attributes
+
+273/253
+
+EFF
+
+TOTAL
+
+BASE
+
+ACCLD
+
+MISC
+
+SYN
+
+STR
+
+46.1
+
+80
+
+10
+
+20
+
+50/50
+
+57.7%
+
+RCV
+
+33.6
+
+60
+
+10
+
+0
+
+50/70
+
+56.0%
+
+END
+
+20.2
+
+66
+
+10
+
+5
+
+51/31
+
+44.0%
+
+VGR
+
+109
+
+132
+
+10
+
+0
+
+122/112
+
+89.0%
+
+FCS
+
+44.3
+
+50
+
+10
+
+40
+
+0/198
+
+88.6%
+
+CLR
+
+270
+
+270
+
+270
+
+0
+
+0/181
+
+100.0%
+
+PER
+
+9.6
+
+20
+
+10
+
+10
+
+0/0
+
+48.0%
+
+SPD
+
+9.4
+
+10
+
+10
+
+0
+
+0/4
+
+94.0%
+
+Rain watched, floating within frozen darkness as the number beside his mana ticked upward, updating once per second.
+
+Mana Manipulation
+
+The number froze, the regeneration listed beside it simultaneously dropping to zero.
+
+Inventory
+
+Slot
+
+Item
+
+Charge
+
+Saturation
+
+Durability
+
+Head
+
+Chest
+
+Legs
+
+Hands
+
+Feet
+
+Offhand
+
+Myriad Plate
+
+Bound
+
+Durability
+
+Hardness [12,047]
+
+500 Heat Resistance
+
+500 Cold Resistance
+
+375 Chem Resistance
+
+350 Force Resistance
+
+5,000 Arcane Resistance
+
+Lightness
+
+Compression
+
+Thermal Regulation [ON]
+
+Tactile Transference [ON]
+
+Facade [ON]
+
+Obfuscation [ON]
+
+Arcane Regeneration [OFF]
+
+Kinetic Conversion
+
+7,802 / 185,500
+
+0 / 154,209
+
+294,991 / 602,044
+
+Ring[0..4]
+
+Malleable Ring
+
+Bound, Unity
+
+273/287 Attributes [˃]
+
+203 / 226
+
+0 / 1,907
+
+102 / 102
+
+Ring[5]
+
+Aura Collector’s Ring
+
+Bound, Unity
+
++1.12 Aura Synergy [ON]
+
+303 / 500
+
+0 / 4,272
+
+813 / 813
+
+Ring[6]
+
+Aura Collector’s Ring
+
+Bound, Unity
+
++1.12 Aura Synergy [ON]
+
+303 / 500
+
+0 / 4,278
+
+814 / 814
+
+Ring[7]
+
+Aura Collector’s Ring
+
+Bound, Unity
+
++1.12 Aura Synergy [ON]
+
+303 / 500
+
+0 / 4,273
+
+816 / 816
+
+Ring[8]
+
+Aura Collector’s Ring
+
+Bound, Unity
+
++1.12 Aura Synergy [ON]
+
+303 / 500
+
+0 / 4,274
+
+813 / 813
+
+Ring[9]
+
+Aura Collector’s Ring
+
+Bound, Unity
+
++1.12 Aura Synergy [ON]
+
+303 / 500
+
+0 / 4,271
+
+814 / 814
+
+Amulet
+
+Magewell Amulet
+
+Bound, Unity
+
+Mana Well
+
+100% Import Efficiency
+
+100% Export Efficiency
+
+32,701 / 50,000
+
+0 / 39,211
+
+313 / 313
+
+Mainhand
+
+None
+
+NA
+
+NA
+
+NA
+
+Underwear
+
+Forceweave
+
+NA
+
+NA
+
+NA
+
+Overwear
+
+None
+
+NA
+
+NA
+
+NA
+
+Patiently, Rain watched the charge in the Magewell rise. Seven minutes passed, and then it was full, but Rain didn’t stop. He instead shifted his focus, sending the unending torrent of mana spinning along his arms to fill one ring after another. Once all were full, he spared a brief glance for his armor, then let Mana Manipulation die away, leaving only the deathly chill.
+
+There would be time enough for that, but not yet. Not today.
+
+Closing his inventory, he remained in darkness, waiting as his mana refilled. He felt nothing but the cold. No pain. No hesitancy. No doubt.
+
+Another four minutes passed.
+
+When it was done, his mana overflowing, he let the darkness fall away, taking the cold with it. Instead of opening his eyes, he directed his senses inward. After less than twenty seconds, empty sockets burst into flaming life.
+
+Rain rose, walking forward to the tank and the scratch in the metal he had made. Within the vessel, the liquid was turbulent, but there could be no denying what he saw. Instead of falling, the level had risen slightly.
+
+Stepping back with a skeletal grin, Rain sat once more.
+
+Then he was at the Tear, inhabiting an avatar of an older design. He didn’t linger in it long, hopping from body to body, moving from anchor to anchor, checking the gauges set into the cable mountings. Each one had a needle, showing the current tension, as well as a marker that recorded the maximum since it had last been reset. None had entered the red.
+
+One by one, Rain reset them, then moved on. Once he was finished at the Tear, he checked the dozens of barometers scattered all across his soul.
+
+All was well.
+
+Settling back into his physical body, Rain took a deep breath, then triggered an essence exchange. There was no pain.
+
+He exhaled slowly.
+
+Another twenty seconds passed, and he was back in his soul, checking the cable gauges again. He found that while the stress from the essence exchange had been high, it had been well within tolerance. He wasn’t worried about stress. He was worried about strain. As the tension increased, at some point, even an adamant cable would begin to stretch. Thus far, the needles had always returned to the same starting points.
+
+No, he hadn’t gone too far. He hadn’t gone far enough. He returned to his body, the transition smooth and effortless, then called up more windows.
+
+Progress Report
+
+marker_1: predelve [3060 Fallow 21 09:30]
+
+marker_2: endnight [3060 Breaking 32 15:54]
+
+Span: 43.3 days
+
+Character
+
+Level: 18 -> 25 (+7)
+
+Level Cap: 18 -> 30 (+12)
+
+Total Exp: 1,644,832 -> 2,035,829 (+390,997)
+
+Clarity: 200 -> 270 (+70)
+
+Skills
+
+Arcane Ward: 0 -> 10 (+10)
+
+Mental Ward: 0 -> 1 (+1)
+
+Radiance: 0 -> 10 (+10)
+
+Shroud: 0 -> 10 (+10)
+
+Chemical Ward: 0 -> 5 (+5)
+
+Suppression: 0 -> 5 (+5)
+
+Fulmination: 0 -> 2 (+2)
+
+Tolerance
+
+Strength: 40 -> 50 (+10)
+
+Recovery: 30 -> 70 (+40)
+
+Endurance: 20 -> 31 (+11)
+
+Vigor: 40 -> 112 (+72)
+
+Focus: 193 -> 198 (+5)
+
+Clarity: 179 -> 181 (+2)
+
+Attribute Buff: 180 -> 253 (+73)
+
+Speed: 1 -> 4 (+3)
+
+Synchronization
+
+Strength: 5.3 -> 17.3 (+12.0)
+
+Recovery: 4.9 -> 5.6 (+0.7)
+
+Endurance: 4.0 -> 6.6 (+2.6)
+
+Vigor: 5.8 -> 8.9 (+3.1)
+
+Focus: 12.2 -> 44.3 (+32.1)
+
+Clarity: 203.0 -> 270.0 (+67.0)
+
+Perception: 8.4 -> 9.6 (+1.2)
+
+Skills
+
+Chemical Ward (5/10) Exp: 2122/2200
+
+Increase chemical resistance by 42.675% for all entities
+
+Range: 14.2 meters
+
+Cost: 1 mp/dmg mitigated
+
+Mental Ward (1/10) Exp: 0/200
+
+Increase mental resistance by 8.535% for all entities
+
+Range: 2.84 meters
+
+Cost: 1 mp/dmg mitigated
+
+Suppression (5/10) Exp: 7490/8800
+
+Increase mana costs for all entities by 177.812 mp (fcs)
+
+Range: 14.2 meters
+
+Cost: 5 mp/s
+
+Fulmination (2/10) Exp: 744/800
+
+49.79-56.90 arcane (fcs) damage per second to entities and environment
+
+Sufficient damage causes paralysis
+
+Range: 5.69 meters
+
+Cost: 10 mp/s
+
+Realizing that he was still clenching his hand, he loosened his grip, allowing blood to return to his fingers. It had been over a month since he’d entered the depths, and the progress he’d made was remarkable, but it wasn’t remarkable enough.
+
+A woman had died.
+
+She had died because he had been too weak to stop her without taking her life. He had made his peace with the necessity of killing after the first time, but it still hurt. The fact that the death had come at his own hand this time shouldn’t have made a difference, and yet it somehow did. However, despite the anguish that still tore at his heart, he did not regret the action he had taken. It had been right. He only regretted that it had been his only option.
+
+I need to get stronger.
+
+Rain couldn’t rush the repair of his soul any more than he already had. He needed time. Time for his core to work. Time to finish his reinforcement of the Tear. Time to understand.
+
+What he could do was complete the work he’d left lying to the side. Even without reinforcement, his paling was strong enough for that. Provided that he was careful to exchange essence frequently, he could finish training his skills with little fear. He was sure of that now. He would need help to do so, given the skills that he had to train, but there was one that he could take care of independently, and there was no reason to wait.
+
+Rising from his desk, Rain glanced at the door to his bedroom, which was just barely ajar. Ameliah was supposedly sleeping, but through Detection, he knew her to be seated at a table instead. She was trying to pretend otherwise, but he knew she was no more able to rest than he was.
+
+Shaking his head slowly, he looked up at the darkened sky, listening to the heavy rain as it splattered against the ceiling of glass. It was only a few minutes to eighth bell, which would mark the final dusk. In any other circumstance, the people of Vestvall would have donned masks, celebrating Endnight with dancing, feasting, and songs. Then, Daybreak would come, the first day of Promise and the start of the new year. The masks would be tucked away, unneeded, but not forgotten.
+
+Rain didn’t pretend to understand the significance of that ritual, or even whether it was a local tradition or something performed worldwide. He was an outsider, and he hadn’t had the time to ask. He had more questions than there were seconds in the day.
+
+Why is there never enough time?
+
+Ignoring the bone-deep weariness dragging at him, Rain forced his body to move toward the door. He hadn’t slept for well over forty hours now, and he knew there would be no rest for him this night either. Perhaps for many nights to come. Awakened could disregard fatigue, for a time, and he could boost his Endurance if he needed to. Forty hours was nothing. Even in his old life, he could have managed this much. The consequences would come later. He just needed to be alive to deal with them.
+
+Rain stepped over Dozer, the slime entering the room as he left. Neither of them greeted the other, both too focused on their respective missions. The camp was still a hive of activity, people laboring to sort and package the last of the supplies. Rain spoke to no one as he made his way through them, then through gates and out into the downpour.
+
+A line of defenders stood there, surrounding the livestock and the orderly grid of packs prepared for the departure the following morning. As Rain walked out toward them, a woman broke ranks to meet him. Lana.
+
+“Captain,” she greeted him, raising her voice and placing a hand on the hilt of her sword to make a polite bow. She looked tired and miserable, her white cloak drenched from the icy deluge. “Come to join the first shift?”
+
+A bell tolled, marking the coming of true dusk. Howls and chattering shrieks rose from the darkness. Weapons and armor clinked as the defenders readied themselves.
+
+Rain simply shook his head, glancing at Lana as he passed, not having broken his stride. “No,” he said. “I am the first shift.”
+
+Fulmination
+
+Rain felt the hair rising on the back of his neck as he stalked forward, leaving Lana behind as the charge built along the surface of his armor. Occasional discharges arced from plate to plate, tiny flashes of light, sharp against the weak glow of the incandescents on their poles. The sparks became more noticeable as Rain passed fully into darkness, then more noticeable still as he activated his modifiers.
+
+The spell was weak, but it didn’t have to be.
+
+Hearing the monsters approaching, Rain waited. A few more moments passed, and he triggered an essence exchange. When his senses returned, the crackles of lightning were ever so slightly stronger.
+
+Rain raised a hand, then pointed it at the looming darkness, electricity crackling between his fingers as water streamed off of him. Then, he released his grip on the spell’s range. A rippling boom tore through the night, the furious cries of the monsters becoming shrieks of pain as lightning flew from Rain’s outstretched hand, branching through the onrushing horde like the spreading limbs of a colossal tree.
+
+Fulmination was not a targeted spell, but he could make it look that way. It would always jump from him to the nearest target, spreading to others from there. He hoped it would appear like Chain Lightning, if any such spell existed. If the Empire was watching, they’d see a man in metallic armor, calling down magic that should have instantly gone awry and yet did not. They’d see something they did not understand, and that uncertainty would hopefully give them pause.
+
+The system chimed, heralding the death of the first monster, which had taken a relatively long time to succumb to the onslaught, though its cries had stopped the moment the paralysis had frozen its lungs.
+
+Soon, more chimes began to sound, not stopping until Rain muted them. These monsters were freshspawn, too consumed by their instincts to realize that their charge would only end in their doom. The only danger they posed to Rain was indirect, in that they would deplete his company’s stamina if he didn’t step in.
+
+His face set in a grimace, Rain raised a second arm, directing the fury of the storm. He opened his mouth, and then he screamed with awakened lungs, pouring all his rage and pain into the magic that flew from his fingertips.
+
+I will not let Ascension fall!
+
+Sitting alone in the room she shared with Rain, Ameliah rolled her eyes. The echo of Rain’s scream was soon lost beneath the continuing crackle of lightning, the steady drumming of the rain, and the wails of the dying monsters.
+
+And he wonders why people still call him Death Zone.
+
+Ameliah tsked, hearing a tiny click as the mechanism in the padlock shifted. Letting the shackle fall open, she removed her picks and set them down on the table. The crude lock was too easy for her now. Her stats and the enchantment on her gauntlets made manipulating the tumblers trivial. It couldn’t even serve as a distraction.
+
+She sighed, sitting back. She was supposed to be resting, but she couldn’t sleep. She didn’t know how anyone could. It also didn’t help that her boosted stats had left her struggling with insomnia ever since Tallheart had crafted her equipment. She’d been awake just as long as Rain had, but her body felt fresh and unfatigued. It was her mind that needed rest.
+
+Reaching up, Ameliah ran her fingers through her hair, wishing for the warmth of a proper bath. Perhaps that would have been enough to help her relax, and perhaps not, but either way, wishes were meaningless when there was no hope of them being fulfilled. She sighed, thinking over the whirlwind of preparations she’d participated in that day.
+
+Her role had been constant watchfulness, including frequent patrols. Other than that, she’d also spent an hour in which she’d loosed gods knew how many arrows helping Corrin collapse as much of the passage to the depths as they could. It wouldn’t be enough. Perhaps if Rain had taken Shear before returning to the surface, rather than Fulmination, they could have done a more thorough job of it, but there had been no way for them to have known this would happen. As it was, their only hope was that the Adamants would see the collapsed mineshaft at the bottom of the crack and not think to delve further. If they realized what was down there, she had no doubt that a few fallen rocks wouldn’t stop them.
+
+Ameliah shook her head, then extended a hand, resting it palm-up on the table. Into it, a tiny tendril of slime placed an even tinier crystal.
+
+“Thank you, Dozer,” Ameliah said, pinching the Tel with two fingers on her other hand, then depositing it next to the six others that the slime had brought her since she’d been sitting here.
+
+*pop*
+
+Despite the tension in her neck and the seriousness of her thoughts, Ameliah smiled. She flipped her hand over, then began using it to pat the slime.
+
+Dozer wiggled happily, luxuriating in the attention for a few seconds, but then he squeezed himself out through her fingers to ooze to the edge of the table. The minuscule slime dropped down with an equally minuscule splat—off to find her more presents, she was sure. She didn’t know whether Rain had put Dozer up to the task, or if the adorable blob had decided to do it on its own.
+
+Dozer’s seen me gather Tel with Attract before. Maybe that’s why.
+
+She snorted, watching as the slime squeezed out through the gap in the door.
+
+Where is he getting them, anyway? Someone’s pocket?
+
+With a shrug, Ameliah picked up the lock again, then sighed and set it back down. She leaned back in her chair, rubbing her eyes. Tomorrow, they would march. She was ready, though she wasn’t looking forward to providing stamina to just under eight hundred people.
+
+Straightforward logic said that people could expend one hundred stamina per day without running themselves into the ground. It wasn’t that simple, of course, but regardless, they’d be pushing much harder than that, setting a blistering pace that would have seen everyone burned out completely by nightfall.
+
+To sustain that kind of speed, Ameliah planned to provide each and every person with an additional one hundred stamina per day, doubling their natural regeneration. Spring would have been the best way to do it if she’d had the range, but she didn’t, not without jeopardizing her build. That made Energy Well the only practical option, given that she could just use it at night on smaller groups. Eight hundred people, plus two hundred or so animals, made one hundred thousand stamina per day. Basic math.
+
+The stamina would start out as Rain’s mana, of course, merely converted by her and distributed to the masses. The issue was, one hundred thousand wasn’t a small number. For her, it would mean a fair bit of discomfort, at least until she got used to it. As for Rain, he said it was just ‘Tuesday.’ Apparently, the days within each week were given names instead of numbers where he came from. Regardless of the foreign saying, it was clear enough what he’d meant. For a Dynamo of Rain’s level, that level of mana output was perfectly reasonable. He just needed to be careful because of his condition, especially with the other things he was planning on using his mana for.
+
+Ameliah closed her eyes and sighed. Her relief that Rain seemed to be recovering warred against her concern that he was just headed blindly for the cliff again. He assured her that he wasn’t, and while she wasn’t convinced, she didn’t have the experience to contradict him. Her progress with her soul had been non-existent. Every time she felt like she was getting close, the darkness would close in on her, and then memories of her past would well up and shatter whatever serenity she’d managed to achieve.
+
+Damn it.
+
+Ameliah reached up, brushing her hair aside to touch her forehead. Her armored fingers found only smooth, unbroken skin. There was no evidence of the twisted monster she’d once let herself become.
+
+I promised I’d tell them, but with the Empire after us—
+
+No. The longer I wait, the harder it will be. Tomorrow. Once we stop for the night.
+
+If we’re all going to die when the Empire catches up to us... I need them to know.
+
+By the sound of things, Rain was still fighting. He’d stopped screaming, but the crackle of lightning had only grown stronger. He was growing stronger, even more rapidly than she and Lerith had. The difference was, Rain wouldn’t let the power corrupt him. Wouldn’t let it blind him. He was already incomparably more powerful than she had been back then, but where she’d been ruthless in using her new strength to save herself at the expense of others, Rain was already doing the opposite. He didn’t need to have his eyes opened. Not like her.
+
+What he DOES need is someone to stop him from hurting himself.
+
+Getting to her feet, Ameliah glanced at the bed, then picked up her helmet from where it sat atop the covers. If she couldn’t sleep, there was no point in trying. She could at least make herself useful.
+
+Working carefully, Tallheart traced his Telscribe through the air above his anvil, inscribing a spherical shell of runes in empty space. A faint scratching followed the motions of the enchanter’s tool, despite it not making physical contact with anything, but this small noise was lost beneath the clamor of the argument that was raging amongst the humans. It was Staavo on one side, Meloni, Myth, and Reason on the other, and Jamus in the middle playing diplomat.
+
+In addition to being loud, Engineering was also packed. Not including Tallheart and the arguers, there was also Ellis, working at the smelter, Shena, standing at a workbench and sanding something, and Romer, tucked away into a corner where he was studying the runes they’d discovered in the ancient human’s den.
+
+There were many things to be done before the sun rose, not the least of which being destroying Engineering and all of the equipment that they wouldn’t be bringing with them. It was not time for that yet, however, so everyone was trying to finish as many of their projects as they could before then.
+
+Tallheart hummed to himself, focusing on what he was doing, but also keeping one ear on the discussion. It was a fascinating topic, after all.
+
+“I’m telling you, you’re wrong!” Staavo shouted, his volume somehow rising further.
+
+“Staavo,” Jamus said scoldingly, “There’s no call to get angry.”
+
+“I’m angry because they aren’t listening!” Staavo snapped.
+
+“You’re the one who isn’t listening,” Meloni snapped right back. “Didn’t you hear what Reason said?”
+
+“Bah!” Staavo said, then did a passable imitation of Reason. “He who expects to see the workings of magic shall find them before him.” He barked out a laugh, returning to his normal tone. “What does that even mean, eh?”
+
+Myth sighed. “It means that you are dismissing the mundane explanation. Limit Spikers are Rellagian weapons. Just because we cannot determine—”
+
+“Yes, yes, you’re a failure as an alchemist,” Staavo interrupted.
+
+“Staavo!” Jamus protested. “Seriously? Do you want people to hate you?”
+
+“The dog that knows least, barks loudest,” Reason intoned solemnly before releasing a distinctly unsolemn shriek. “Eeeaahh!”
+
+Tallheart paused, the tip of his Telscribe hovering in place as he glanced over. He swiftly hid a smile, seeing Meloni grabbing Reason by the ear. “You’re not helping,” she said as the black-jacketed man struggled to escape.
+
+Tallheart snorted in amusement, then returned to his work. He was almost finished aligning the shells, and it would not do to make a mistake now.
+
+“We might not be skilled enough to determine how the explosive was made, yes,” said Myth calmly, though there was a current of anger in his tone. “But that doesn’t mean we don’t know what we’re talking about. We are from Rellagia, not that you cared to ask. You might have heard how the monarchies feel about awakened in their lands, but we have lived there and felt that truth. You should listen when we speak.”
+
+“So?” Staavo said. “I’ve read books, and I know enough. The monarchs are awakened, and so are their courts. They could have made them.”
+
+“Books,” Reason said with a scoff. Tallheart glanced over to see that he’d gotten free from Meloni and was rubbing at his ear.
+
+“Tell me then, oh expert,” Staavo said mockingly.
+
+Reason sighed. “Our knowledge of the weapons is second-hand. They are not something that is available for purchase on any street corner, and their manufacture is shrouded in secrecy. That said, there are strict rules concerning what the monarchies can and can not do. If Limit Spikers are magical, it would require collaboration between the major countries to control their production. Even a non-Rellagian will agree that the prospect of that is near ludicrous. Limit Spikers are an equalizer, said to have been developed in the third Mage War. Their use is now restricted to defense against foreign powers and against the few members of the Guild that are granted permission to set foot on the continent, should they exceed their bounds.”
+
+“Finally,” Staavo said, exasperated. “He speaks normally. And admits that I’m right.”
+
+“I did no such thing,” Reason replied.
+
+“Mage War,” Staavo said in a sardonic tone, misappropriating Rain’s air-quotation gesture. “Emphasis on the word Mage.”
+
+“Perhaps they were developed by an alchemist originally?” Jamus interjected before anyone could punch anyone else. “Could the original design have been magically developed, but made to be constructed and operated by those without magic?”
+
+“That is precisely what we have been saying,” Myth replied. “The residue has no lingering traces of Crysts, Tel, or any of the common compounds that are derived from them. I have never heard of a mundane explosive with such power, but there is nothing to say it is not possible.”
+
+“Well, why didn’t you just say that then?” Staavo replied in a huff. “Fine. I’ll accept that. I’m tired of arguing with you anyway.”
+
+“There,” Jamus said, relief strong in his voice. “Finally, everyone has seen reason.”
+
+“I was not hiding,” Reason replied immediately.
+
+There was a brief pause, broken by an exaggerated groan from Meloni. “You see, Jamus? You see what I have to deal with?”
+
+Laughter rose from the humans, Tallheart joining them with an amused rumble. It seemed that they had managed to defuse the situation themselves without the need for his intervention.
+
+He set down his Telscribe, the Arcane Cryst he’d been using as a tip now spent. The runes in the air before him had shifted from white to purple now that he’d added the final elemental modifiers throughout the multi-layered sphere. Below the magical array, a tiny ball of golden metal sat on his anvil, no larger than a Tel. The outer layer was gold in truth, but the core was Grand Arcane Atantum, considerably more valuable.
+
+Tallheart picked up his hammer, the muscles of his forearm bulging beneath his armor as he squeezed its handle.
+
+“So,” Myth began, looking between Reason and Staavo. “Do you think we’ll be able to duplicate this?”
+
+“I—“ Staavo began, but whatever he had planned to say was cut off by the thunderous crash of Tallheart’s hammer.
+
+Shena screamed at her workbench, and various other exclamations of surprise and protest rang out, but Tallheart ignored them all, leaning down to inspect the tiny golden sphere. It remained unsmashed, as he had known it would, but the force had subtly twisted the runic array during the compression. Frowning, Tallheart poked the sphere with a finger, concentrating as the runes once more sprung back into his mind—sensed this time, more than seen.
+
+Before anything could detonate, he gently extended his will, nudging the disrupted runes back into position. Then, he smiled, feeling the enchantment solidify, the ethereal fragments of the Tel and Crysts he’d used taking their place within the crystalline structure of the metal. It had worked, and it had only taken three tries.
+
+“Again with this!” Staavo shouted, marching over to Tallheart to haul on his shoulder. “You said you’d warn us this time! Is this one going to explode too?”
+
+“And you promised you would keep your voices down,” Tallheart said, ignoring the pitiful attempts of the human to move him. He turned, paying Staavo no mind as he made his way to Jamus.
+
+“What is it you were trying to make, anyway?” Jamus asked as Staavo harrumphed.
+
+“A gift,” Tallheart said, extending his hand palm up to reveal the tiny golden sphere, now a stud with the addition of a pointed spike. Shaping the pure gold plating as he’d walked had been trivial, compared to what he’d just done.
+
+“An earring?” Jamus asked, his eyebrows rising. “Tallheart, I haven’t done anything to deserve that. You didn’t need to.”
+
+“I did need to,” Tallheart said. “You are my first and oldest human friend. This has waited too long. Stand still.”
+
+Reaching up, he grabbed Jamus’s ear, then jabbed the spike through, making the man yelp. Before he released him, Tallheart flattened the tip of the spike, forming a backplate to hold the stud in place. “There. Do not attempt to use the full enchantment. I should not have to warn you why. And do not tell anyone what it does. Or that I made it. Or what it is made of.”
+
+“What it’s made of…” Jamus trailed off, then gasped, staggering. His eyes had gone wide, staring at a book that only he could see. “What...?” he said, licking his lips as he reached up to run a finger down an invisible page. “This is…”
+
+“The same enchantment I made for Rain, yes,” Tallheart interrupted before Jamus could name the material. He hummed to himself in satisfaction.
+
+And in one ring slot, not five, with additional supporting runes, and in a significantly smaller piece of jewelry. It is refreshing to have proper materials once more.
+
+“How delightfully vague,” Staavo grumped. “Since when do you make anything for anyone other than the wonder couple, anyway?”
+
+Tallheart turned to look at him, then blinked slowly.
+
+“You know what I mean,” Staavo huffed. He tapped his metal foot against the ground, then snorted. “Your apology isn’t even enchanted, not that I’m ungrateful, and those resistance rings hardly count.”
+
+“You sound ungrateful,” Meloni observed, drawing a few hesitant laughs. Everyone in Engineering had set down their work after the commotion, and they were now all watching with keen interest.
+
+“Thank you for this, Tallheart,” Jamus said, sounding overwhelmed. “I’m honored.”
+
+“Mmm,” Tallheart said, nodding to him. “You are welcome.”
+
+“Any chance you’d be up for honoring anyone else?” Staavo grouched, placing a hand on the hilt of the disgrace to metalwork that was his sword. “Us humans don’t want the Adamants to get us either, you know, and a few upgrades would go a long way. Obviously, you are well-aware of what they do to awakened that aren’t theirs, and obviously, we aren’t going to use what you give us to go deer hunting or anything, so stop being fucking stingy!”
+
+Jamus gasped, grabbing for the old man. “Staavo!”
+
+Tallheart looked around at the humans, hiding his amusement. Their expressions varied between anger toward Staavo, awkward embarrassment, and poorly hidden hope. Clearly, many of them agreed with the old human’s position, even if they would never be so crass in how they expressed it. In truth, Tallheart had already made up his mind about this before returning to the surface.
+
+Forgive me, Lilly.
+
+He blinked slowly, keeping his face impassive. “I will have no time in the coming days, and I will not work for free, nor for just anyone.” He paused, rumbling deeply as he enjoyed the way the humans were hanging on his every word. “However…” He paused again, really dragging it out. “I am now…hmm...open to requests.”
+
+Emerton hadn’t expected to wake.
+
+And yet, here he found himself, mounted on a placid mule with the morning sun pressing against his sensitive eyes. They were veiled by a thin layer of gauze, but the bandage was sheer enough that he could still see. The healer had said the sensitivity would pass. Said he’d make a full recovery. And that no payment was necessary.
+
+Emerton reached up with one gloved hand to rub at his neck as he grappled with the memory of the horrible wound. Supposedly, there wouldn’t even be a scar. Around him were his friends, the loyal retainers of house Sale, armed and armored. Jasu stood beside him, Emerton’s oldest friend in more ways than one. The aged warrior was holding the mule’s reins in one hand and a crossbow in the other. The weapons had not been taken from them, despite how keenly Ascension desired them.
+
+Lowering his hand from his neck, Emerton touched the small pouch at his waist once more, hardly believing what was in there. Inside were accolades. Three of them. His great grandmother had never acknowledged the rumor of their existence, but when Ascension had cracked open the family vault, there they had been. Even more amazingly, Ascension hadn’t taken them for themselves, nor anything else they had found in the vault. They’d…returned it all.
+
+To him.
+
+The company’s following offer to purchase the accolades had done nothing to resolve his confusion. Ascension clearly wanted the plates, but they hadn’t just taken them. It was inconceivable. Awakened weren’t like that. None of them. Not nobles, not Guilders, and certainly not those employed by the Bank. Not even the Watch would consider giving up such wealth just because an unawakened had a claim.
+
+And yet.
+
+Emerton squeezed the pouch tightly, feeling the metal plates slide against each other within. He still didn’t know whether he was going to sell them or not. It wasn’t something he’d wanted to decide overnight. The rest of the vault’s contents had been easy to part with. He’d kept the Tel and coins, selling the weapons, armor, and everything else Mlem would buy on Ascension’s behalf. The mustachioed merchant had even given him a surprisingly fair deal.
+
+A murmur ran through the crowd around him, and Emerton stiffened. Not far ahead of him, on a hill at the very center of the circular formation, stood the captain. The armored man was silhouetted by the rising sun, the first sun of the new year. Through the haze of the gauze, Emerton saw that Rain had raised his hand, his fingers splayed wide.
+
+Another wave of confused thoughts swept through Emerton as he took in the armored figure. He shuddered, remembering the horrible flash and the burning agony, unlike anything he’d felt before. Then he remembered the warmth of the blood dripping down his neck, the pain of the cut not nearly so sharp as the knowledge that his great grandmother, the woman who’d raised him since he’d been old enough to remember, had tried to kill him.
+
+Tendrils of anguish grasped at Emerton’s heart as other memories came. Memories of her decline. He had simply refused to see it, not until he’d been made to. His blindness to her growing insanity could have been his end, as well as the end of all those under his command. Ascension hadn’t killed his great grandmother. That woman died years ago, not all at once, but gradually, leaving behind only a deadly and bitter husk. Rain had merely ended her suffering.
+
+“Lord Sale?” asked Jasu, making Emerton inhale sharply.
+
+He looked down in disbelief. “What…? What did you just call me?“
+
+“The lads and I talked it over,” Jasu said, giving him a fatherly smile. “We think it was what she would have wanted, had she not…you know. I know it was what your father wanted, El guard his soul in the heavens. As far as any of us are concerned, the house is yours. You did as much to keep it together as anyone.”
+
+Emerton shook his head. “There is no house, Jasu. Not anymore. I’m no lord.”
+
+“So just take the name, then,” Jasu said, looking back forward with a shrug. “Emerton Sale. Sounds like a good name to me, even without the ‘lord’.”
+
+Emerton closed his eyes, fighting tears that had nothing to do with his injury. “It does.”
+
+“Brace for Velocity!” Commander Vanna cried out.
+
+Emerton looked up, seeing her on the hill beside the captain, who was no longer standing. He had mounted a palanquin, carried by two of his followers, one of them a man with arms like a blacksmith, the other a spindly youth with striking red hair.
+
+The palanquin was neither laziness nor entitlement, Emerton knew. Word had spread that for the captain to do what he was about to, he would need to remain in some kind of trance for the entire day’s march—awake, but without any of his senses. It sounded like torture. It was also why everyone had been arranged into a circular formation rather than an orderly column.
+
+The crowd shifted nervously, and before long, Emerton felt...something...settle over him, his every movement becoming ever so slightly easier. Beneath him, his mule flicked an ear, but it didn’t otherwise seem too bothered by the magic.
+
+“Huh,” Jasu said, stumbling as he took an experimental step.
+
+Emerton gripped the horn of his saddle tightly as the mule took a step after Jasu. The speed boost they were experiencing was supposedly one in twenty. As everyone grew more used to the spell, the plan called for an increase to one in ten, then to one in five, and then perhaps even higher.
+
+Emerton got the feeling that even then, the captain would have still been holding back.
+
+He looked up just in time to see Commander Vanna slash her hand downward. “Move out!”
+
+The sun was setting as a group of gray-cloaked figures entered the abandoned fortress beside the chasm. The glass ceiling did nothing to hide them from the emerging stars as they walked to the center of the largest room, stopping beside the table that stood there. It bore a single blank sheet of paper, left for them by the subhuman. Otherwise, the room was entirely cold, empty, and impossibly, unnaturally clean.
+
+Red twilight glinted off the hilt of a knife as the lead figure’s cloak shifted. A gloved hand reached out, picking up the blank page and turning it over. There, on the other side, was a drawing of a flower.
+
+A lily.
+
+The cloaked figure set the page down where it could be seen, then stepped back from the table to join the others. Together, eight masked faces looked up through the glass.
+
+Awaiting their next orders.

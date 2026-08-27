@@ -1,0 +1,135 @@
+---
+id: 3264903d-68ad-5f66-8464-ac6d6df74dba
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 36"
+slug: 0264-b4-chapter-36
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 264
+ownLength: 1498
+unit: words
+ownProgress: 1498
+publishedAt: 2025-03-23
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2145918/b4-chapter-36"
+royalRoadId: "2145918"
+markedReadAt: "2026-06-29T19:14:43.950Z"
+---
+
+Aria
+
+After returning to my ship, I spend a couple of days just reading inside of it. Trying to let everything blow over outside before I leave again. Because I don’t want to be caught by fans out there right now.
+
+Or, ever, really. But right now especially, seeing as I’m still in the body of a kid.
+
+Which is rather annoying.
+
+I have a rather bad feeling though for some reason. Like something dangerous is approaching. I can’t quite figure out what it is though.
+
+Leone’s had a fun time with all this though. Even if I’m pretty sure I’ve seen her looking rather darkly out the window a few times in passing.
+
+Probably because Pestilence was here, and he was responsible for what happened to her home world.
+
+I actually asked Pestilence if what he did here was possible for her homeworld as well, but according to him, it’s not possible. Because unlike with these people who were just infected with a virus, the people of her home world were infected by something far worse. By a contagious mutagen.
+
+Which apparently means it directly merges with the body of those it infects, altering their body at the genetic level. All the way down to the DNA.
+
+So it literally turns them into a different species of creature. And it can’t be reversed.
+
+Because at that point it’s not even a virus anymore. It’s part of their body, with the mutagen itself still being there in the form of venom in the lycanthrope’s fangs.
+
+It’s unfortunate, but it also means there’s no cure for them. Not even with Pestilence’s help.
+
+And for Pestilence to try to make something to turn them back into a human, he would apparently need to make an entirely new mutagen. One that would turn them back from their new species into a regular human being.
+
+A mutagen that would take thousands of years to develop and isn’t something he sounded even the slightest bit interested in wasting that much time on no matter how long I let him experiment on me.
+
+Something he said point blank to me actually. That he ‘had no interest in spending that much time for such a pointless endeavor no matter what I gave him’.
+
+Although he did give me a tidbit of information for free.
+
+He told me that there have been some precious few people amongst those who managed to retain their sapience surviving on the dead world full of lycanthropes. That some have even had kids together despite the hellhole of a world they’re stuck on, and those kids were born as natural lycanthropes.
+
+The only thing he has even the slightest bit of interest in there in fact. The naturally born lycanthropes, since they have the upsides of the lycanthropes but none of the downsides.
+
+He doesn’t care enough to go there to research them though, since he’s already labeled that experiment as completed.
+
+Although he did seem pretty certain that he wouldn’t be able to turn those naturally born lycanthropes into humans even if he wanted to. Since they were born that way.
+
+After we got back to the ship a couple days ago, I went ahead and told Leone about all of this. But she just nodded her head sadly and walked away without a word. As if she’d already expected that.
+
+It is a sad thing to be told, but I needed to tell her. It would be worse if she kept some sort of hope for her people burning alive without any chance for anything to actually come and save them.
+
+Unfortunately the annoying Horseman wouldn’t tell me where exactly the dead world was.
+
+It would’ve made things easier if he had.
+
+I let out a sigh at that thought as I continue playing with my death magic. Making one spell after another appear so that I can get used to the different types of script and the process of inputting the ancient scripts into spell circles as quickly as I can. Because speed is important in a battle.
+
+Amongst the types of ancient scripts, there are action scripts, command scripts, and connector scripts.
+
+Action scripts tell the mana to do something. To go somewhere. To not go somewhere. To stay in place. To control something or create something.
+
+Command scripts pretty much just give the mana an order and must be attached to an action script. So for example it could order the mana to delay an action script’s command for a certain period of time, making that action script take effect later on.
+
+And connector scripts link multiple scripts together. Whether command or action scripts. And through them I can even make a bunch of scripts activate at once at the exact same time in a spell.
+
+Overall, it’s a rather fun process. And the Grand Death Spirits have taught me quite the number of scripts that weren’t included in the ones I just instinctively knew. They also taught me how to use those scripts in the best ways.
+
+Not to mention little tips and tricks here to shorten the spells.
+
+I’m quite happy with my death magic at this point. Because I’ve learned how to do a rather broad array of things with it.
+
+I can make corpses into undead, make miasma, send out pure death energy now in an intimidation sort of attack, and simply cause necrosis through said death energy on anything it makes contact with that I place a command script to hurt.
+
+So quite a few new things all with just a single skill.
+
+As for my horse… yeah, I’m still not sure what to name it. I’m not even sure if my horse is male or female.
+
+It’s kind of hard to tell with a skeletal horse that’s always wearing armor that I can’t even take off. And it’s a type of horse no one I’ve brought in even recognizes, so they can’t tell if it’s male or female.
+
+I purse my lips as I glance at the corner of my room in the ship where said horse is just lying down looking bored.
+
+“Someday I’ll be sure to name you,” I say with a firm nod of my head. To which said horse snorts. “I swear I’ll name you some day. Just be patient.”
+
+The horse snorts again.
+
+Not sure how it’s doing that when it is a skeleton that can’t even breathe, but I’ve learned over the years not to sweat the small stuff. Or to try thinking logically about things when I’m an immortal who can’t die.
+
+Logic is something that should be tossed out the metaphorical and sometimes literal window after all.
+
+My thoughts are interrupted when I find my terminal buzzing, following which I check to find a call coming in from Lyra. And when I answer it, I end up blinking in surprise at the first words she says.
+
+“Aria, you have a visitor who wants to see you,” Lyra says right away. “It’s the Ninth Princess of the nation of Atlantis. And she says she has a lot of paperwork for you to fill out.”
+
+I stiffen up at the last part. And a small part of me wonders if I should take off now and leave the station.
+
+Pretty sure Little Blue won’t be able to catch up to me if I take this ship after all.
+
+It’s one of the fastest ships in the-
+
+“She also mentioned that it’s the paperwork to finalize the transfer of the factories,” Lyra adds.
+
+“Tell her to come in,” I state with a smile before getting up from my chair, dismissing the nameless horse, and having my ship teleport me to the entrance. A few seconds then pass as I stand at the entrance with my arms crossed despite looking like a ten year old girl wearing some child-sized military suit of armor. Then I add, “But tell her no trying to glomp me.”
+
+I hear Lyra snorting in amusement at that through the call before it cuts off.
+
+A few more seconds pass.
+
+“Crimson, make sure to teleport Little Blue to the other side of the room if she looks like she’s about to glomp me,” I order the AI of the ship without hesitation.
+
+|Understood, Lady Aria.|
+
+I nod my head again at that before moving my arms to my hips instead of crossing them.
+
+Good. Now I should be safe from her trying to snuggle and hug me.
+
+These are all preparations I should’ve made the last time I saw her while in a young form.
+
+And soon enough, I find Little Blue walking through the entrance of the hangar and immediately making straight for my ship.
+
+While carrying a literal pile of papers.
+
+But the first thought that runs through my mind at the sight of that is that she’s doing it on purpose. Since she’d easily be able to put those papers in a storage ring.
+
+My eyes narrow.
+
+She’s evil.

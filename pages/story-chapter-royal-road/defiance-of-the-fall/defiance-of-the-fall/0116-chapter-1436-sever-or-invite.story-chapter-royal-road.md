@@ -1,0 +1,165 @@
+---
+id: 1ebbcd44-34a0-5cf8-bf87-b60f9201705f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,436 - Sever or Invite"
+slug: 0116-chapter-1436-sever-or-invite
+partOf: defiance-of-the-fall
+position: 116
+ownLength: 3177
+unit: words
+publishedAt: 2026-05-19
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3419298/chapter-1436-sever-or-invite"
+royalRoadId: "3419298"
+---
+
+“If you’ve been down there, you should also understand how dangerous it is. How are you supposed to withstand the Void in your state? You’ll be snuffed out like a candle in the wind,” Zac said with exasperation.
+
+“You said you’ve collected treasures that will help me recover. I also have a treasure that can ward off the Void. Give me two weeks, and I’ll recover enough to use it long enough for us to reach that mountain,” Emir said.
+
+The suggestion brought an underlying issue to the forefront. Zac still didn’t know what he was supposed to do with this imperial. He’d already considered killing him, and that was before Zac discovered that Emir knew things that could not be allowed to spread—things that not even Zac’s closest confidants were aware of.
+
+The Atwood Empire was doomed if the things Emir knew spread to the outside. Harboring Zac and his people would brand you as a Technocrat corroborator or ally of the Limitless Empire if word got out. Either would make you an enemy of all the peak factions of the Multiverse Heartlands. Not even the Primo could bear that kind of heat.
+
+Zac had zero faith in oaths and binding contracts keeping the secret safe. Kator had given them all a master course in their fickleness and exploitability. A powerful faction like Pesvati Rift was bound to have ways to circumvent any contract that Zac could set up. Bringing Emir back to Port Atwood might work, but it was incredibly risky.
+
+Death was the only surefire method of protecting his secret. Esmeralda had mentioned that resurrecting the participants of the trial should be impossible. Between the complex karma of the Left Imperial Expanse and the fact that it was sitting right on top of the River of Time, it made it impossible for Supremacies to extract their people from the past.
+
+The solution was simple, and the threat was so tangible that Zac was ready to risk the backlash from the Hollow Court for murdering a fellow disciple. It wasn’t noble, but he was no gentleman. Zac had done much worse to protect himself and those around him. Still, he restrained himself.
+
+“Give me a moment to think,” Zac said before stepping out of the cave. He returned ten minutes later after having exchanged a few notes with his other half and talked things over with Ogras. “Ten days.”
+
+“Pardon?” Emir said with confusion.
+
+“I’ll give you ten days. I’ll provide the resources you need during that time. However, I also need to prepare things on my end,” Zac said, taking out a set of manacles. “During the time I’m gone, I will keep your energy and Daos sealed.”
+
+“Is that truly necessary?” Emir asked.
+
+“If you’re truly the key, I can’t have you wandering off, can I?” Zac shrugged. “Do you accept these terms?”
+
+“So long as Lord Atwood doesn’t blame me should I succumb on the journey.”
+
+“I’ll make sure you make it there in one piece, one way or another,” Zac promised before handing over a box.
+
+Inside it was a root filled with Imperial Faith. It looked a lot like ginseng, except it was bright gold. Even Zac had felt his soul stir upon finding it in a crack. For someone cultivating Imperial Faith, it should prove even better.
+
+“Then I suppose our fates are tied,” Emir said with a small smile before beginning to absorb the relic.
+
+Ten hours later, Zac exited the cave with a final reminder. “Remember, you have ten days to prove yourself.”
+
+Zac still wasn’t sure if he was doing the right thing as he rushed back toward the mirror world. It wasn’t that he’d decided to spare Emir’s life. On the contrary, bringing Emir into the Ninth Hell to fetch the Primo’s eye could double as an opportunity to dispatch him outside the Margrave’s purview. Ideally, Zac could later return to the Hollow Court and continue looking for opportunities.
+
+If that failed, he’d just have to wait for the dust to settle inside the Ninth Hell. He was confident he could survive indefinitely as long as he found the sea of Imperial Flames. If he got that far, he could also pick a new memory lantern and return to the Hollow Court under a new identity. Even if Roan and the Margrave saw through the guise, they shouldn’t be willing to break the rules of the trial for a dead man’s sake.
+
+The thing was, Emir should be aware of the murderous thoughts running through Zac’s head, yet he’d made no attempts to alleviate Zac’s fears. No promises, no suggestions on how to create a stable alliance. Making himself out as a key was only a stay of execution, not a permanent solution.
+
+Between helping Emir recover more of his strength and bringing him to that Faith-imbued mountain, there were too many ways things could go wrong. What if he was gathering strength not to use a protective treasure but to mount an escape? What if Emir was able to harness the vast amounts of Faith Energy on that small mountain? Not even the Void Rivers could suppress that Faith Domain, let alone Zac.
+
+At the same time, Zac couldn’t watch him like a hawk during this time. He needed to revisit Fuxi’s statue to study the [Grand Unity Canon] now that he had the mnemonic. It shouldn’t take more than a few days to reach initial success, judging by his earlier test. At that point, he should gain the ability to permanently visualize the runes and prevent them from fading in his mind.
+
+Bringing Ogras over to have him stand guard was impossible. They’d already confirmed that Ogras wasn’t allowed to buy passage to the Judgment Plateau. Even if he could, it seemed unlikely he’d arrive at this version of Fuxi Halls. Zac still felt it likely this “quarantine” was a temporary copy of the real world, where the Margrave had dumped all the complex Karma.
+
+Zac’s parting words were not just a reminder to work hard on recovery; it was a warning. If Emir managed to remove his restrictions or channeled his energy in Zac’s absence, the hidden bombs would blow Emir and his cave to kingdom come. It was also an olive branch. If Emir could present an argument, then Zac was willing to listen.
+
+The whole affair left a sour taste in Zac’s mouth, yet there was also a hint of anticipation. Ten days. To think his Draugr side would only end up beating him by a few days. Esmeralda would blow a gasket when she heard it.
+
+----------------
+
+The frothing waters from dozens of streams made no sound as they plunged into the depths. It was like the rivers were afraid of breaking the tranquility of the floating gardens above the vapor-filled valley. The occasional chirps of nesting birds and the rustle of spiritual flowers only added to the harmonious atmosphere.
+
+Taking a central position among the islands was a garden island ten miles across. In reality, the island was a slumbering Ancestral Plant that drew moisture from the surrounding waters. As it dreamt, it released powerful mental fluctuations into its surroundings. These fluctuations were the spiritual sustenance of the Natural Treasures growing in the neighboring gardens.
+
+Nearly half of the leakage never left the B-grade Plant’s body. It was absorbed by the dew appearing on its leaves at daybreak, in a union between Heavens and Earth. The dew ran along grooves and veins to the core of its central bulb, where a lake had formed. A mouthful of that water could impart spiritual wisdom to a mortal beast, provided their minds could bear the awakening.
+
+Twelve pristine lotus flowers floated in the lake’s center, unblemished by Earthly Taint and worldly concerns. Vilari sat upon one, her eyes closed in meditation, mental tendrils burrowing into the flower’s seeds. Each seed was a world unto its own. It wasn’t a metaphor. The seeds held actual mystic realms where vast numbers of mortals resided.
+
+The seeds extracted the sentiment of all that expired within its realm. Triumphs and defeats, joys and sorrows, benevolence and malevolence. The whole spectrum of human experience became the earthly soil from which another lotus would bloom. The impetus of a hundred generations had been stockpiled, and Vilari was a rat let loose in the pantry.
+
+Having the impetus of a single world wash over her soul almost broke Vilari when she first arrived. It distorted her perception, detaching her from her own emotional state and sense of self. It was only through the protection of [Seven Downfalls] and the resilience of her bloodline that she managed to endure the deluge.
+
+At the same time, the lotus flower had presented her with a choice she needed to make sooner or later. As a Mentalist cultivating two Daos connected to the Peak of Impetus, she needed to figure out how to harness emotions. One option was to follow the route of severance, like the lotus flowers themselves. They used the realms for sustenance while preventing any mortal dust from polluting their Dao.
+
+The other option was to invite the seven sensations into her heart, to wash her soul in worldly affairs. Soul and Heart would become one, both restraining and enkindling depending on the situation. If going with the former, she’d use the mortal dust of the lotus seeds to wash away all distractions of her Dao Heart until it was pure. If she went with the latter, she’d draw on the emotions to nourish her own sensations.
+
+The choice was easy.
+
+Like her father, she wasn’t willing to give up her heart to pursue the Dao. If she did, the journey would be without meaning. So Vilari painted her Soul Aperture with the Seven Sensations, barely clinging to sanity and self with the help of [Seven Downfalls] consuming half of the emotions for themselves. After three months of cultivation, she was already able to tap into two seed worlds simultaneously.
+
+Today was the day.
+
+A third tendril extended from her soul to create a bridge with the next seed. Pent-up emotions flooded her aperture like a tsunami. She lived vivaciously and vicariously through the stockpiled sentiment. She laughed, she cried, she screamed with emotions she couldn’t articulate or understand.
+
+Despair became the origin, a safe harbor she could return to even in the stormiest of seas. Over and over, the sensations crashed into her soul while [Seven Downfalls] spewed out refined mental energy like chimneys. Filled with spirituality and meaning, her soul was pushed beyond its limits. Her whole body was on fire as her bloodline came alive on its own.
+
+Vilari barely noticed when ripples began spreading on the lakes. Streams of pure Mental Energy rose from the waters. It was dragged into the vertical pupil of the eye that appeared over her head. Even the lotus was forced to offer up some of its refined essence before its gaze. The world stilled as a vast presence stirred. Vilari didn’t have time to fear for her life before the Ancestral Plant returned to its slumber.
+
+Then, she had no time to worry about anything else but what happened to her soul. The shackles broke, and the soul sublimated. Vilari experienced a rush of power as her Soul Aperture expanded fivefold in the blink of an eye. The development triggered an even more frenzied absorption of the lake’s mental energy; what [Seven Downfalls] could provide was far from enough on its own.
+
+The disturbance lasted five days, at which point the lake stilled. Vilari opened her eyes, and space twisted for miles. If a low-grade cultivator was unlucky enough to enter her view at that time, their soul would have shattered without a shadow of a doubt.
+
+It took Vilari an hour to regain just basic control over her bloodline. For the first time in a while, she found herself having to cover her eyes with blindfolds. Only then did she stop leaking mental energy like a sieve, turning her into a walking calamity. Vilari feared her predicament would persist for the foreseeable future.
+
+Her father would call it a case of suffering from success. Despite only having cultivation at the Peak of Middle Hegemony, her soul was already approaching the limits of D-grade. Even among the other disciples of Anima Court, it was a noteworthy accomplishment. If one took her real age into account, she would have gained epithets such as “monster” and “core seed.”
+
+Vilari wouldn’t let the success go to her head. Her eyes had truly been opened to the wonders of the world after arriving at the Anima Court. She’d heard of children being born with connate souls no weaker than a Monarch’s, utterly breaking the neat classifications introduced by the System. Her extraordinary bloodline was only enough to qualify her as above average among those who could survive inside the Daynight Dreamer’s soul.
+
+The second thing tempering her spirit was the realization that it was time to leave this sanctuary. Every day she didn’t advance toward the [Pasho’Har Bell]’s final resting place, she didn’t dream. Every night she didn’t dream, she felt an ominous pressure building within. Vilari wasn’t sure if it was a safeguard left by Jalach or her intuition urging her on. Whatever the case may be, the call had grown more urgent since the lights appeared at the heart of the Left Imperial Expanse.
+
+Dithering about would only weaken her resolve. Vilari stood up, shaking her head with a wry smile as she inspected the flower she’d occupied for months. Her breakthrough had only left the rims of two leaves slightly withered. As for the mortal dust that had accumulated inside the lotus seeds, she’d drained less than three percent during her stay.
+
+“Still can’t compare to Dad,” Vilari lightly laughed. “He would have swallowed this lake whole.”
+
+“Then he should be happy he’s not here. I would have fed him to Little Bubu.”
+
+Vilari didn’t take the words to heart. She turned back to the lake just as a green head pierced the surface. There was not a speck of spirituality emanating from the old turtle, yet his presence created an intangible change in the world. It gained a spiritual stability, giving the impression that the secluded valley would endure even if the Heavens collapsed.
+
+Vilari felt her mind settle, bypassing a month’s worth of consolidation in one go. She bowed toward the old turtle, who’d only surfaced with his head.
+
+“Thank you, Senior.”
+
+“You’re leaving then? Finally, some peace and quiet,” the ancient turtle grunted.
+
+“My intuition is telling me time is running out. Now that my soul has crossed the threshold, it’s time to go,” Vilari nodded.
+
+“Intuition, eh?” the turtle said, giving her an inscrutable look. “You’re still just a hatchling; you probably won’t make it to the sea.”
+
+“Nevertheless,” Vilari said.
+
+“Foolish. I won’t bother picking you up next time you come falling down a waterfall,” the turtle complained.
+
+“I wouldn’t dare impose on Senior again,” Vilari said with a smile.
+
+“So long as you know,” the turtle huffed.
+
+Despite his reticent attitude, this unnamed, terrifyingly powerful turtle had a gentle heart. Her first attempt at scouting the [Pashi’Har Bell]’s location ended in disaster. She only remembered reaching the foot of the mountain her dreams guided her to. The next thing she knew, she was falling off one of the waterfalls with her emotions going berserk.
+
+The turtle had staunchly argued that he was simply rinsing his shell inside the waterfall, and that safely landing on his back was a sheer coincidence. He also argued that he was too lazy to shake her off as he brought her back to “Little Bubu,” his B-grade pet plant. The fact that outsiders never stumbled into Bubu’s deadly dreamwaves was also coincidence and not the result of the turtle’s protection.
+
+Of course, Vilari would have washed up on some random shore instead of reaching this hidden valley if she hadn’t carried the right fate. It turned out that the turtle’s master was the one who inadvertently created the idols that became the [Seven Downfalls]. She was an aging Supremacy whose Dao Heart faltered, most likely a previous master of the Anima Court.
+
+A Monarchy that lost control was a disaster, not to mention someone standing at the peak of cultivation. She had managed to seal off her unraveling soul before it broke the Anima Court and its surroundings in two, yet some things slipped through the cracks. The idols were born when her emotions ran amok, then transformed by the profound spirituality of the Left Imperial Expanse. The turtle had sensed his long-departed master on Vilari and provided assistance.
+
+Vilari suspected it wasn’t the full picture. It wasn’t without reason she suspected the idols were connected to Jalach, making them items not originally of this Era. Rather than simply growing old, the turtle’s master may have resorted to exploring unconventional means of progress after reaching the limit of her path.
+
+It didn’t really matter. The turtle would never tell, and the private matters of Imperial Supremacies weren’t something Vilari was qualified to investigate. Either way, the chance encounter was a weight off her shoulders. [Seven Downfalls] had become increasingly important to her cultivation, and she planned on making it the bridge between her Soul and Heart.
+
+And yet, she’d always been afraid to get too attached because of their unclear origins. They still probably contained hidden dangers on top of their overt attacks on her mind. Seeing as this soft-hearted senior didn’t say anything, the threats should at least be manageable.
+
+The turtle suddenly cleared his throat, dragging Vilari out of her thoughts. “If you’re going, take this with you.”
+
+“Senior, I cannot accept this,” Vilari said with alarm as a hexagonal shell flew into her hands. “I’ve already skirted the rules. I’m aware that exchanging my Erudition wasn’t enough to stay in Senior’s garden this long. Taking your shell will break the rules.”
+
+“Children shouldn’t be so calculative. Just take what’s given and go on your way.”
+
+“The court elders—"
+
+“What are they going to do to me? I’m too chewy to be made into soup,” the turtle scoffed. “Besides, I’ve seen most of them start meddling over the past weeks. So what if I throw out an old discarded shell of mine?”
+
+“Then… thank you, Senior,” Vilari said.
+
+She wasn’t sure what its use was, but the shell of a Peak B-grade turtle had to be priceless. She could fashion it into an unbreakable heart protector if she couldn’t figure out a better use.
+
+“Before I leave, may I ask for Senior’s name? I’d like to remember my benefactor correctly.”
+
+“What’s the use of knowing the name of an old turtle with one foot in the grave?” the turtle muttered as he sank beneath the waters. “My time has long since passed, and my companions are long since gone. It’s fine to be forgotten.”
+
+Vilari sighed, deeply bowed in his direction once more before flying away.

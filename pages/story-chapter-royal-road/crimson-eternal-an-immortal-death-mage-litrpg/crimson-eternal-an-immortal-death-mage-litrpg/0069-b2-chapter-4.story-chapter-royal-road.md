@@ -1,0 +1,155 @@
+---
+id: f69cac92-f9f6-50a9-8219-7f6669371881
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 4"
+slug: 0069-b2-chapter-4
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 69
+ownLength: 1580
+unit: words
+ownProgress: 1580
+publishedAt: 2024-01-29
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1499188/b2-chapter-4"
+royalRoadId: "1499188"
+markedReadAt: "2026-06-29T19:08:16.205Z"
+---
+
+Aria
+
+I look around the group, trying to see if I can find a way to get past them. But they’re blocking the entire path. So I can’t get past them.
+
+Guess I’ll either have to wait for them to leave or just find a different route. Because I’d rather not shove my way through a bunch of reporters.
+
+After waiting for a few seconds, I decide to go with the latter option, even though I don’t know my way around the mall.
+
+Which, of course, leads me to end up getting lost.
+
+I frown as I look around, trying to find an exit. Only to somehow end up finding a place labeled as an exit, but with this place being blocked by reporters as well. Although not as many.
+
+“The hell is going on here?” I mutter with a frown on my face.
+
+Then I feel someone bump into me, almost sending me face first to hit the floor.
+
+I grunt slightly as I catch myself and quickly turn around to look at the responsible party, only to blink at the sight of a man with silver hair wearing a black coat over a silver shirt and black pants, with a ballcap on blocking part of his face. And I can clearly tell he wasn’t looking where he was going, despite the fact that I can’t see a number above his head.
+
+Which, in and of itself, sets off more than a few flags.
+
+Not as many as him muttering “Shit,” when the reporters appear to notice us, following which he grabs my hand and takes off while dragging me with him.
+
+“Excuse me,” I tell him as I try to break away, only to find some sort of silver liquid covering my mouth as he says, “Shhh, I can’t let them find me!” and keeps dragging me until we stop at a corner, having lost the reporters.
+
+I scowl at him, not sure if I’m more pissed about his dragging me around or at the fact that I lost the exit that I’d just found.
+
+He lets go of my hand and peeks around the corner, only to duck back into the corner again with me as he sighs with relief. Then he looks up at me, making me realize that he has silver eyes as well.
+
+Silver hair, silver shirt, silver eyes, and reporters running around everywhere…
+
+My thoughts go back to what the clerk at the Hunter’s Bay was talking about.
+
+…it can’t be…
+
+“Sorry bout that,” the man finally says, seemingly trying to keep his voice quiet. “Had to lose them and didn’t really think. Just grabbed your hand and ran.” Then his gaze flickers to the black number above my head and he gives me a wry smile as he adds, “But that might’ve been for the best. Looks like you wouldn’t want them catching you either.”
+
+I feel confused at that statement for a moment before realizing that the reporters would most likely target me if they saw a level ten with a black number. Who wouldn’t be curious about that?
+
+Assuming they weren’t frightened off that is.
+
+“Putting that aside,” I tell him with a frown, “why exactly are you running from the reporters?”
+
+I can tell he’s a really high level, and he’s certainly dressed fancy. And if I had to guess, there’s a chance he might be that Silver Merchant guy Takashi was talking about.
+
+But what are the chances of that?
+
+“Really?” he asks, sounding surprised. “You don’t recognize me?”
+
+I tap my foot a few times, waiting for an answer to my question without bothering to give a response to that.
+
+“Huh,” he mutters, realizing I’m not gonna reply to that pointless question. “Well I’m Ryohei Shirogane, and,” he seems to swell up with pride here, “I’m known as the Silver Merchant! A brand new Eight Star Merchant!”
+
+Guess the chances are pretty high.
+
+Also, I point at him as I comment, “You’re pretty proud while saying that as you’re wearing a cheap disguise and hiding your identity.”
+
+That has him blanking out for a second before he gives me a more than a little embarrassed look, briefly glancing around to see if anyone else heard his proud declaration. Even if the declaration was still spoken relatively quietly.
+
+Fortunately for him, there aren’t any people in this little corner he dragged me in to have heard it.
+
+Yeah, this guy doesn’t seem to be the brightest at times.
+
+Also, I’ve come to realize over my time here that every world does indeed have its own language, but all languages are still automatically translated when used in direct conversation. Despite that though, I spent a little time learning some of the language here just out of curiosity for their names.
+
+And if I remember correctly, this guy’s name literally has silver in it. As in his given name is just silver in their language.
+
+Rather fitting for the Silver Merchant with silver hair and eyes.
+
+Then again, he was probably given his name and that title based off of those physical traits. Just that whoever gave him the names lacked imagination.
+
+Not that I’m much better at naming things. I still remember the dog I got when I was five and decided to name blackie because it had black fur.
+
+The most original name ever. Or at least, that’s what I thought at the time.
+
+“Well, if that’s all,” I state, realizing that he seems to be a little too awkward to ever talk now after that last interaction. And I begin to walk out of the corner we’re in, only for him to call out, “Wait!”
+
+So I turn around with a brow raised.
+
+He fidgets a little before asking, “I introduced myself, so… would you mind telling me your name?”
+
+I blink in surprise, only to give a mental shrug, deciding that it doesn’t really matter.
+
+“Aria Crimson,” I tell him with a nod. But right when I’m about to walk away, I notice a slight flash of surprise on his face.
+
+I ignore it and continue walking, trying to find my way around the mall again. A process that takes longer than I’d like.
+
+Eventually I arrive at the parking area once more and leave the mall, heading straight for my little vacation home.
+
+That guy certainly was an odd one.
+
+The MallRight as Aria Leaves
+
+Shirogane scratches the back of his head as he watches the girl who has the same name as his soon-to-be contractor walk away. Only for him to notice reporters recording them from the other side of the second floor main area.
+
+“Shit,” he mutters when he glances back at the girl, then at the reporters.
+
+That can’t be good. Looks like they caught her talking to me on camera.
+
+Shirogane grits his teeth before focusing on the fact that the reporters are now rushing towards him while ignoring the girl.
+
+Well, it looks like they aren’t focusing on her at least. I just hope she doesn’t mind getting a bit of attention after this.
+
+On that note, Shirogane quickly runs off, pulling his cap down further to hide his face. But as he runs, his mind can’t help but go back to that girl.
+
+She was incredibly unique in a lot of ways. Stark white hair, glowing crimson eyes, and a black number ten above her head.
+
+Not a single thing about her seemed normal.
+
+Even her very odd outfit, which, while looked incredibly good on her, was also extremely specialized. He could tell just with a glance.
+
+The outfit was made with only a single enchantment on it.
+
+Ethereal Screen.
+
+A specialized enchantment that is the complete opposite of defensive enchantments in most ways. It’ll make it so that any damage that would be done to the outfit is done to the wearer instead.
+
+It’s mostly just for eccentric people who care so much about their clothing and gear that they don’t want it damaged.
+
+Or people with regenerative capabilities powerful enough that they lose more outfits than they own and don’t want to keep paying for more and are incredibly reckless.
+
+And Shirogane can tell she’s not the reckless type. Probably.
+
+Maybe.
+
+Okay, Shirogane admits that he might not be the best judge of that.
+
+But the coincidence of the girl having the same name as the person the Emperor is assigning him to contract with… it can’t be a coincidence.
+
+Then there’s the fact that her traits – the white hair, red eyes, and black number ten that he just saw – all match the girl who is known to go to the Hunter’s Bay and sit around to relax as her skeletons do the work for her. A rather amusing story that most people – including him – don’t believe until they’ve seen it.
+
+All the way till he leaves the building and begins to head towards the Emperor’s manor, finally evading the reporters in the process, he can’t get the girl out of his mind.
+
+But once he arrives at the Emperor’s manor, his mind instantly switches gear, and he turns into what he calls ‘merchant mode’.
+
+“Silver Merchant, His Majesty has been expecting you,” the Ten Star Merchant declares after greeting him at the door.
+
+Shirogane nods his head without much expression on his face as he walks into the building.
+
+Ready to take on his first personalized contract as an Eight Star Merchant.

@@ -1,0 +1,463 @@
+---
+id: 5e879e7a-b334-5262-98f9-59d5d520e796
+page-type-slug: story-chapter-royal-road
+title: "004: Statistics"
+slug: 0004-004-statistics
+partOf: delve
+position: 4
+ownLength: 5605
+unit: words
+publishedAt: 2019-06-02
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/368068/004-statistics"
+royalRoadId: "368068"
+---
+
+Rain woke with a start, then groaned softly. He was sore in his everywhere, but in particular, his legs were protesting quite loudly. His body apparently didn't like a full day of walking and then sleeping on a hard dirt floor. Rain winced, sitting up, and looking around. Anton was awake and guarding the door, but the others were still asleep. Anton glanced at him, the soft rays of early sunlight streaming past him into the room. He shook his head and looked back outside, seeming content to continue his watch.
+
+Should I offer to take over? He probably wouldn't trust me enough anyway. Screw it, if he isn't asking, I'm not offering. Ow, my everywhere.
+
+Rain decided to lay back where he was, rather than waking everyone up in an attempt to make his way past their sleeping forms and out into the clearing. He closed his eyes and tried to get back to sleep, but the hard ground was far removed from the comfy bed he was used to. Eventually, he gave it up.
+
+He quietly sat up and started to stretch out a bit, working his protesting muscles until he could sit cross-legged without too much discomfort. Feeling slightly better and with nothing else to do, he decided to have another look through the menus to see if there was anything else in there that he hadn't seen before.
+
+Attributes (+20)
+
+Skills (+2)
+
+Statistics
+
+Options
+
+I'll look at skills later. I don't think they are going to sleep in long enough for me to finish that... Let's have a look at some other stuff. Options.
+
+Rain was met with a simple panel with only a few selectable items.
+
+Options
+
+Interface
+
+Tactile [On/Off] [Gestures]
+
+Mental [On/Off] [Keywords]
+
+Verbal [On/Off] [Keywords]
+
+HUD [On/Off] [Configure]
+
+No difficulty setting, huh? This all just looks like UI stuff. HUD On. Nothing again. Maybe if I touch it?
+
+Rain reached out and tapped the On button. Nothing changed other than an Apply option appearing at the bottom of the menu. As soon as he pressed that, the menu closed automatically and his eyes focused on his surroundings again. He immediately noticed that there was a small bluish box in the top left of his field of view. It moved with his eyes, staying in the top left corner no matter where he looked.
+
+Health
+
+200/200
+
+Stamina
+
+157/200
+
+Mana
+
+200/200
+
+Oh, cool. That will be handy. He reached out to touch the panel. It tingled slightly but didn't have the resistance of the other menus and his hand passed right through. Also, crap, I'm gonna run out of stamina if we keep going like this. I started at 200 yesterday. Does it come back? It has to, otherwise, what was the point of... shit, what were the damn stats again? Character...damn it, ummm Attributes.
+
+Attributes
+
+Richmond Rain Stroudwater
+
+Level 1
+
+Experience: 26/100
+
+Unclassed
+
+Health
+
+200
+
+Stamina
+
+200
+
+Mana
+
+200
+
+Strength
+
+10 (+)
+
+Recovery
+
+10 (+)
+
+Endurance
+
+10 (+)
+
+Vigor
+
+10 (+)
+
+Focus
+
+10 (+)
+
+Clarity
+
+10 (+)
+
+Free Stat Points
+
+20
+
+Vigor, that was it. Can I get more info on these? Oh wait, there was that other panel. Statistics.
+
+Instead of replacing the attributes panel, another panel simply popped into place next to it. Rain spent a few minutes looking over the panel, trying to digest the wall of information.
+
+Statistics
+
+Total
+
+Base
+
+Modifier
+
+Health
+
+200
+
+200
+
+0 | 0%
+
+H.Regen
+
+100/day
+
+100/day
+
+0 | 0%
+
+Stamina
+
+200
+
+200
+
+0 | 0%
+
+S.Regen
+
+100/day
+
+100/day
+
+0 | 0%
+
+Mana
+
+200
+
+200
+
+0 | 0%
+
+M.Regen
+
+100/day
+
+100/day
+
+0 | 0%
+
+Movement Speed
+
+10
+
+Perception
+
+10
+
+Resistances
+
+Heat
+
+Cold
+
+Light
+
+Dark
+
+1 | 0%
+
+1 | 0%
+
+1 | 0%
+
+1 | 0%
+
+Force
+
+Arcane
+
+Mental
+
+Chemical
+
+1 | 0%
+
+1 | 0%
+
+1 | 0%
+
+1 | 0%
+
+There didn't seem to be anything he could interact with on the panel at first glance. There also wasn't any explanation of how anything was calculated, though there were a few hints based on the formatting.
+
+Humm, ok, scientific method, here we go. Hypothesis: vigor increases stamina regeneration. Experiment: add a point to vigor. Results: check the status screen.
+
+Slowly, Rain reached out and touched the (+) next to the vigor stat. He was relieved to see that an apply button appeared at the bottom of the menu. He looked for other changes.
+
+Good, can't mess things up accidentally. Let's see here. Stamina regeneration is now showing 110/day. Awesome. Conclusion: Hypothesis is correct. So it is 10 points of regeneration per day per point in vigor.
+
+Pressing the (-) that had appeared next to vigor, Rain proceeded to test the other stats, adding and subtracting points. Things worked pretty much like he expected. It was 20 health per point of strength, and the same for the pairs of stamina/endurance and focus/mana. Recovery likewise corresponded to health regen and clarity to mana regen.
+
+Nothing had affected resistances until he added a full 10 points to endurance. When he did, they all ticked up to 2 | 0%. Huh, so 1 resistance per 10 points of endurance. 1 what? Flat damage reduction, maybe? Speaking of units, what the hell does 10 movement mean? Or 10 perception? Nothing seems to affect those anyway. Oh, one more thing. Statistics.
+
+Rain dismissed the statistics panel, but the attributes panel stayed open. He reached up and dragged it over to the right, which worked to his satisfaction. He could now see the window showing his current health, stamina, and mana. With resignation, he saw that his stamina currently showed 157/200. The added, but unapplied points to endurance didn't seem to affect his current stats. He couldn't tell if he would end up with 357/400 as opposed to 157/400, should he apply the points. He dragged the window back to where it had been, subtracted out all the points he had added, and then dismissed it.
+
+I really should put points in vigor, but I kinda don't want to. I'm pretty sure I want to be a caster. What good is vigor for a caster? I feel pretty safe with these guys. Boosting myself a little won’t make a difference against something like that wolf. They handled it like it was nothing. Level 18, was it? I won't spend any points for now. 150 stamina or so will just have to be enough for today.
+
+Rain had heard the others start to stir, so he slowly got to his feet and stretched, wincing. I guess health doesn't cover muscle soreness, he thought, glancing at his full 200/200 health. That window was going to take some getting used too. Oh, hang on. Options, Customize HUD.
+
+In the sea of available items, Rain hunted for and found what he was looking for. He was able to change the numerical displays to bars so he could see his stat percentages at a glance. He was also able to lock or unlock the box so he could move it around, including separating it out into multiple boxes.
+
+He moved the green health bar bottom left, yellow stamina went in the bottom middle, and white mana at the bottom right. Then, not liking that, he moved them all up to the top instead. Next, he changed the color and transparency settings, hiding the blue background windows. He left the bars, though he did set them to 50% transparency. Lastly, he changed the color of the bars to red for health, green for stamina, and blue for mana.
+
+Satisfied, he hunted around for other options. This menu, unlike the others, was fairly intuitive and had tons of options for customizing his HUD, including the other menu screens. Not seeing anything else he wanted to change at the moment, he closed it out and looked to the door. His vitals were floating where he could see them, but not getting in the way. Before he could start to make his way past a loudly snoring Hegar, a dialog popped up in the center of his vision.
+
+Training Overview
+
+General Experience Earned
+
+70 – Stamina Use
+
+Rain jumped but managed to bottle up his alarmed shout. Still not used to that. Examining the dialog, Rain smiled, then dismissed it with a swipe of his hand. Good to know that killing things isn't the only way to level up. I guess that was for yesterday?
+
+Working his way past Hegar, he stepped into the light next to Anton and looked around. The sun was filtering through the treeline, creating pleasant dappled patterns on the grass of the meadow. He could hear the babbling of a brook nearby. Rain walked a little way into the forest, looking for a place to relieve himself with some modicum of privacy. Anton didn't seem to care that he was going off on his own, so Rain felt that it would be reasonably safe. He did his best to ignore his inner voice telling him that the real reason was that Anton didn't care if he got eaten by the wildlife. He wandered towards the noise of the stream, planning on taking a dip after he had finished with his business. Pretty sure I can't get tree leaves in 2-ply.
+
+Finding the brook, Rain was happy to see that it was slow moving and deep enough to submerge himself in. Rain walked a little way downstream the brook, grabbed a convenient branch, and dug himself a latrine. Standing back up, he looked around, then shrugged. Well, either I go now, or later when everyone is up. Modesty is a luxury.
+
+Rain stripped down, took care of his business, hid the evidence, then jumped in the brook to get clean. The water was absolutely glacial, so he wasted no time washing himself off, using sand as an abrasive in lieu of soap. Ok, soap, added to the list of things I should ask about. Wait... would purify work on BO? I... kinda don't want to ask. They would think I’m weird, no, weirder...
+
+Clambering out of the brook, Rain brushed off as much of the water as he could, then decided to use his shirt as a towel. Once he was sufficiently dry, he pulled on his underwear and pajama pants, slung his sodden shirt over his shoulder, and walked back to the clearing.
+
+Anton noticed him returning and said a few words to the others, who were clearly already up and ready to get going. There was no mention of breakfast. Anton led the way onto the road, not waiting for the others, simply continuing in the direction they had been traveling the day before. Ameliah and Brovose followed, moving slightly quicker to catch up. Hegar was grumbling and moving slowly, and Rain caught up to the others from the other side of the clearing in less time than it took Hegar to even get to the road. Damn, he needs a cup of coffee even more than I do.
+
+As he reached them, Ameliah greeted him with what he assumed to be a ‘good morning’, so he replied in kind. Brovose stared at him, an eyebrow raised at his wet hair and naked torso. Rain shifted uncomfortably. He wasn't fat, but he wasn't exactly in great shape either and being shirtless in the middle of a forest wasn't exactly something he was used to.
+
+Brovose held out a hand and said, “Shirt.” Hesitantly, Rain handed it to him. As soon as he had it, he said a word and a wave of heat blasted out from his hand where he was holding the cotton garment. Rain watched in fascination as the shirt dried even faster than the level of heat would suggest. Handing the shirt back, Brovose returned to watching the road ahead.
+
+“Thank you,” Rain said. That was one of the phrases he had made sure to learn the day before.
+
+Hegar caught up and the group walked in silence for around an hour before Ameliah reached into her pack and distributed some brownish bar-shaped sort of cracker-cake things. She said the name for them as she handed Rain his. It was as hard as a rock and had about as much taste as one, but Rain wasn't about to complain. Free food was free food. He gnawed at his ration as he walked, trying to soften it up, but feeling like it was a fight that his teeth were going to lose. Eventually, he managed to break off a little piece and choke it down. Finishing the bar took him at least 30 minutes, but it was oddly filling and he was feeling surprisingly good. The swim and the walking were loosening up his muscles, and he seemed to be doing ok without his morning coffee, though a headache might set in later.
+
+To pass the time, he asked for more words, learning things such as ‘river’, ‘clearing’, and ‘forest’. He was starting to get a sense for the language a little bit. Either he was missing something, or the language was considerably simpler than English. The word for ‘forest’ was ‘many tree’ and ‘clearing’ was ‘no tree’. He felt like a bit of a caveman, saying things like ‘me go many tree’ and ‘where rock?’, but apparently that was just how the language worked. Deciding that he was curious enough to attempt it, he tried to ask for clarification.
+
+“Why few word? Why no more word? Why same word thing and many thing?”
+
+This was met with confused looks and a bark of laughter from Anton.
+
+So much for that, I guess I'm missing something then. Damn it, this is annoying. I'll stick to verb-noun. Two word max for the caveman for now.
+
+Hegar called a halt at a smallish clearing when the sun was approaching noon. Rain sighed and plopped down on a log, rubbing at his sore feet. Glancing at his stamina, he noted that it had fallen to around 75. Below half, but he should be able to make it until they stopped for the night. Anton disappeared into the trees, probably hunting, and Hegar actually helped Rain and Ameliah collect firewood without complaining. Brovose had fallen asleep. Everything was ready except that Anton hadn't returned, so Rain walked back over to his log and picked up a longish branch he had found and set aside. He thought it would make a good spear and he wanted a weapon of some kind if he was going to be out here for any length of time.
+
+Moving over to Ameliah, he pointed at the knife she had laid out in preparation for dressing whatever Anton came back with. “Use knife?” he asked.
+
+“Why?”
+
+Not having the words to describe what he wanted, he mimed carving at the branch with a knife. She shrugged, then nodded, but stopped him from taking the knife by the fire. Instead, she handed him a different one from her pack. This one was slightly heavier, more like a dagger than a cooking knife. Before he walked away, she stopped him again with a raised hand.
+
+“My knife,” she said.
+
+Rain nodded, understanding. “Your knife,” he agreed. He then walked back to his log and started trimming off twigs from his hopefully soon-to-be spear. The knife was wickedly sharp and cut through the dense wood with only moderate pressure. He had just started on sharpening the point when Anton returned. He swore and stretched after slamming down the huge, furry form he had been carrying. It looked like a cross between a rabbit and a boar, including size. Anton declined to help skin the animal, leaving it to Hegar and Ameliah to prep the meal. He instead started building a ring of rocks around the slumbering Brovose for some inscrutable reason. Rain shrugged and went back to carving. As sharp as the knife was, the branch must have come from some sort of hardwood tree as it was taking him quite a while to get it down to a point.
+
+By the time the rabbit-boar stew was ready, he felt he had gotten it as sharp as it was going to get. He set down the knife and stood up to test out his handiwork. The makeshift spear was almost as tall as he was, more than slightly crooked, and a bit too heavy. It was better than nothing though. He gave it a few experimental stabs.
+
+It will serve.
+
+Picking up the knife, he walked over to the fire. He thanked Ameliah and trading it to her for a bowl of stew, juggling his spear in the crook of his arm. Sitting down on the ground, he blew on his soup and took a hesitant spoonful. Hey, not bad. Needs a bit of salt, but it beats the crap out of travel rations. My teeth thank you.
+
+Brovose suddenly stopped snoring and breathed in deeply. He climbed to his feet and stretched, running a hand through his red hair and blinking blearily. He started to move over to the fire to grab a bowl but tripped on the ring of stones that the mischievous archer had placed around him. He went down in a tangle of long limbs, causing Anton to spray his mouthful of soup into the fire with a sudden bark of laughter.
+
+The mage looked back curiously to see what had tripped him, then over at Anton. The archer was now choking on his soup due to his unrestrained laughter. Ameliah quickly de-escalated the situation by pulling Brovose back to his feet and handing him a bowl of soup. The mage seemed content with this, though he was scowling at the archer as he ate.
+
+Rain was about halfway through his second bowl when he heard a familiar sounding splortch coming from the far side of the clearing. Shit, another slime?
+
+Nobody else seemed to have heard the noise, or if they had, they were doing a good job of not caring about it. Rain set his soup aside and stood, grabbing his spear. Round two, bring it on, slime. I'm armed and I mean business.
+
+As Rain stood, Hegar glanced at him, then the slime. It looked more or less the same as the first one, perhaps a bit yellower. Hegar looked back at Rain and pointed at the slime, saying something too complicated for Rain to understand. His confusion must have been clear because Hegar facepalmed and spoke again in a condescending tone.
+
+“Rain. Slime. Fire. Far.” He pointed as he said each word, pointing over his shoulder toward the furthest corner of the clearing from the fire.
+
+“Yes, got it, no need to be an ass,” Rain said in English. He walked toward the slime, then suddenly stopped. Hanging over the slime was a small dialog and a red bar. It read simply [Slime], lvl 1. The red bar had no numbers on it and seemed to have modeled its format after his own health bar.
+
+Where was this before? Oh, right, the HUD was off.
+
+Grinning, Rain continued walking towards the slime. It is level 1, I am level 1. Fair fight, and I have allies if I get in trouble. Ameliah would save me at least. Probably. Come to think of it, I've never seen her fight.
+
+Rain's thoughts were interrupted as the slime started moving towards him instead of the scent of boar-rabbit soup. He skirted around it, leading it away from the fire.
+
+Ok, the last one jumped at me when it got close, so I'll bait this guy, dodge back, then stab him. Wait, do slimes have genders? Ew. I'll just file that under things I don't need to know. Ever.
+
+When the slime got to around two meters away, it lunged forward as the last one had done. This time, Rain didn't go for the home run and jumped back instead. The slime landed hard on the ground with a disgusting splutt noise. Quickly, Rain moved back in and poked at it with his spear. It sunk in without resistance, puncturing the slime's membrane and causing it to leak a bit of disgusting smelling fluid out onto the grass. Rain backpedaled, pulling out his spear and scampering back to the safe two-meter distance.
+
+Looking at the slime's health bar, he noted that it had decreased slightly, but less than he had hoped. Oh well, rinse and repeat. And then rinse, ugh.
+
+Rain had to repeat his slime kiting maneuver six more times before he finally finished it off. He hadn't tried to get fancy, and luckily the slime seemed incapable of learning as it kept falling for the same trick over and over. When he depleted its health bar, it simply collapsed and started to lose cohesion. Nice, no fire, no burning vomit explosion. Much better, but still, yuck.
+
+You have defeated [Slime], Level 1
+
+25 Experience Earned
+
+[Level Up]
+
+Yeah, that's right, just me, no party, Rain thought, satisfied, as he dismissed the window.
+
+Looking down at his clothes, he saw that he had been splattered with yellow goo despite his efforts to keep out of the splash zone. He sighed and tried to think of a way to ask Ameliah to help him out. Before he could come up with the proper caveman, he was interrupted by a wave of purifying light washing over him.
+
+Turning, he saw that Ameliah had wandered over to him and was now channeling the same purifying aura that she had used before. She wasn’t standing with her eyes closed this time, instead, she was walking toward him as the cleansing pulses radiated outwards. The slime started to dry and flake away slowly. It didn't evaporate before it hit the ground as it had before for whatever reason. Nevertheless, the mess was getting cleaned up.
+
+Rain smiled at Ameliah as she approached, thanking her. Then, indicating the glowing pulses, he asked “Purify? Aura?” With some clever pantomime, he managed to learn the word for both, as well as ‘firebolt’ and ‘fire evocation’, which had been needed to establish context. Already knowing the word for fire and being able to use Brovose as an example made learning the pairing much easier. ‘Aura’ and ‘purify’ had been easy enough after that, at least assuming that he had correctly guessed the skill from its effect. For all he knew, he had just learned the name of a skill and a tree that he hadn't gotten to yet in his exploration of the skills menu.
+
+As the slime dissolved, Rain noticed a white glint sitting in the middle of the rapidly shrinking puddle. He waited a moment for the puddle to completely disappear, then walked over and picked up the small shining object. It was crystalline, opaque, and about the size of a grain of rice. It seemed to be giving off a very faint white light even after Ameliah stopped maintaining purify.
+
+“Tel,” Ameliah said, unbidden. Rain pointed to the crystal in his hand for confirmation, and she nodded.
+
+“Tel?” Rain repeated. “My Tel?”
+
+She shrugged and nodded. Then turned to walk back to the camp. Rain followed, peering at the Tel and trying to decide how he was going to keep from losing it. Once they returned to the camp, Ameliah noticed that he was still holding the Tel in his hand and dug out a small glass vial from her pack. It looked like a half-height test tube with a cork. She handed it to him silently. He thanked her again, slipped the Tel inside, and re-corked it, before slipping it into a pocket.
+
+Rain noticed that his remaining stew was gone and that there was a suspicious empty bowl sitting near Brovose. He decided not to make an issue of it, instead retrieving a fresh bowl of stew and retreating to his log. Setting the stew down to cool and leaning his spear against the log, he opened up his attributes screen to check a few things.
+
+Attributes
+
+Richmond Rain Stroudwater
+
+Level 2
+
+Experience: 21/200
+
+Unclassed
+
+Health
+
+200
+
+Stamina
+
+200
+
+Mana
+
+200
+
+Strength
+
+10 (+)
+
+Recovery
+
+10 (+)
+
+Endurance
+
+10 (+)
+
+Vigor
+
+10 (+)
+
+Focus
+
+10 (+)
+
+Clarity
+
+10 (+)
+
+Free Stat Points
+
+30
+
+Ok, so 10 more stat points from before. So it is either 10 per level and I started with 10 at level zero, or level one is special. Skills.
+
+Skills
+
+-
+
+Free Skill Points: 3
+
+-
+
+Utility Auras | Aura Metamagic | Offensive Auras | Defensive Auras | < | > |
+
+And one more skill point. Nice.
+
+Rain stopped himself from opening up the skill trees and getting lost down another rabbit hole. It was tempting. The panel had remembered the last few trees he had been looking at and he was eager to start planning out his build, but he had soup to eat. He could see that the others were already starting to pack up the camp, so he regretfully swiped the panel closed and downed his soup, before walking over and returning his bowl. A single pulse of purify was all it took for Ameliah to clean the bowls and utensils.
+
+Damn, that is so handy. I am totally saving a point for that.
+
+As the day wore on, Rain noticed a change in the landscape. The trees were thinning out, and he started to notice signs of civilization. Slowly, the forest transitioned into tilled fields and fences, with farmhouses visible in the distance. Most seemed to be abandoned, but there was smoke curling out of the chimney of one of the more sturdy looking buildings that they passed. He didn't see any people for another hour or so, but eventually he saw an older man working in a field. The man looked up as they passed, watching them warily until they were out of sight.
+
+Looks like we are headed toward a city, or at least a village.
+
+As they continued, the farms started looking more prosperous and less rough, and the road began to see some traffic. A few mounted men and women rode by on horseback. Rain decided that they must be something like scouts or sentries, as they weren't nearly armored enough to be knights or paladins. It seemed clear to Rain that they were the reason it was possible to have a farm without being found dead in the morning with a slime digesting your head. The equipment of the scouts varied, but he did notice that each of them had a small bronze plate hanging from a chain around their neck with some sort of symbol on it. He wasn’t close enough to make out what it was, however.
+
+The scouts ignored them, concerned with monsters and not scruffy travelers, Rain decided. They were being similarly ignored by a man driving a donkey-pulled cart down the road towards them. The cart contained a few barrels in the back, and as it drew closer Rain saw that they were probably for ale or beer, as they had taps in the side. Anton perked at the sight, calling out something to the driver in a hopeful tone. The man shook his head and Anton sunk back down dejectedly and went back to complaining about his feet.
+
+Rain kept an eye on his stamina as they continued in this manner. The sun was setting and he was getting down into the low teens when he decided to ask how much further it was to wherever it was they were going. He was really feeling quite exhausted at this point. His bare feet were aching as he dragged them along, struggling to keep up with the group.
+
+Not having any idea of how to say “are we there yet,” he settled on the caveman equivalent.
+
+“We camp?”
+
+Hegar looked at him, scoffed, and ignored his question. Ameliah gave him an apologetic look, then stopped, seeing how badly he was limping. The others continued, heedless, but Ameliah just motioned for him to stop, then knelt down to look at his feet. They were chafed and sore from the long trek, so much so that he had even lost a few points of health. He had been determined to make it to the camp without complaining like Anton or Hegar, but he was now questioning his stubbornness. Ameliah motioned for him to lift one of them up so she could inspect it. Rain was only mildly surprised to see that he was bleeding from a few small cuts on the sole of his foot.
+
+Ameliah tutted in disapproval and rose to flick his forehead. “Idiot.”
+
+“Sorry,” Rain said, too tired to react to the insult, deserved though it was.
+
+She just shook her head then gestured and reached out with a finger on each hand to touch the tops of both of his feet.
+
+“Healing Word.”
+
+Rain felt the pain suddenly fade and disappear. He lifted up a foot curiously to inspect the sole of his foot and was amazed to see that his skin had been perfectly restored, free of cuts and blisters. He knew what the spell did after the incident with his ankle, but he couldn't get over how amazing it was to be instantly healed.
+
+“Thank you,” he said, then swayed. The healing had done nothing for his fatigue. Ameliah stood and steadied him, then looked toward the others who were barely visible in the growing twilight. They had stopped and were looking back at them.
+
+Ameliah sighed, then said an unfamiliar phrase, shocking him by putting her hand flat against his chest. He staggered back, almost falling, but then noticed that his stamina bar, which had been approaching ten, was now completely full. He realized that he felt much better, the soreness leaving his muscles and his body becoming quicker to respond to his commands. It was a curious sensation, as his mind still felt dead tired, but his body was fresh and well rested.
+
+I guess mental fatigue can't just be magicked away.
+
+“Come,” Ameliah said, motioning toward the others. He followed, and he could hear Hegar complaining at the delay as they approached. Ameliah just ignored him, and Rain decided to do the same. Anton asked her a question, which Rain thought might have contained the word road, and she replied with something Rain couldn't make sense of. Before they set off again, she set down the pack and retrieved a torch, which she lit herself with a flint rather than asking the fire mage.
+
+Yeah, I wouldn't want my head set on fire either.
+
+The group continued for what seemed like several days but in reality was probably only a couple of hours. Rain felt as if he was going to fall asleep walking, his refreshed body perfectly capable of continuing on while he slept. Eventually, his tired eyes noticed light in the distance. Being the first to notice, he pointed it out to the others, which perked everyone up a bit.
+
+After another hour or so, Rain was able to recognize that the light was coming from fires on top of a wall of what looked to be a large city. Another hour saw them to the gates of said city, which were open, but guarded by men in full plate armor and long, cruel-looking spears. He tiredly noted that they had the same bronze plates hanging around their necks as the scouts had. This time, he was close enough to see that the symbol carved into them was a shield.
+
+The guards challenged them, stopping them from passing through the gate. Hegar stepped forward and fished out from under his shirt a plate similar to those worn by the guards. It too was bronze, but Rain couldn't see the symbol.
+
+The guards nodded and stepped aside, allowing them into the city. It was fully dark at this point. Their torch was the only source of illumination other than candlelight peeking through gaps in the odd shuttered window. Rain had no idea what time it was, the sun having long-since set. The city seemed to be fully asleep with no one else out, save the occasional plate-armored guard.
+
+He stumbled as his bare feet struggled with the rugged cobblestone paving the streets, righting himself and following the others. They wound their way through a labyrinth of streets bordered by closely built, multi-story buildings. Eventually, they reached a square with a fountain in the middle and headed towards a large stone building with a wooden sign hanging over the door. The sign had the symbol of a sword crossed with a quiver of arrows.
+
+Ameliah extinguished her torch in a barrel of water near the door and dropped it in a pile with other discarded torches. Hegar pushed open the door to the building, causing soft candlelight to flood into the square. He headed inside and Rain followed, seeing a large reception room with seating and several counters along one side. There was an old, reedy man standing behind one of them but the room was otherwise deserted. Hegar headed over to the man and they had a brief discussion. The man shook his head and Hegar grumbled, then took a pouch from his waist, pouring out a handful of Tel and handing them to the man.
+
+Nodding, the man gestured to a hallway, which Rain was delighted to find led to a sort of bunk room. He heard the sound of several snoring forms as the old man, carrying a candle, guided them to five empty bunks near the front of the room.
+
+Finally, something I'm dressed properly for, Rain thought, throwing himself onto a bunk and pulling the covers up to his chin.

@@ -1,0 +1,127 @@
+---
+id: 7915b9a3-779b-5ed9-b85a-58c9521c5709
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 21"
+slug: 0088-b2-chapter-21
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 88
+ownLength: 1536
+unit: words
+ownProgress: 1536
+publishedAt: 2024-02-07
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1509376/b2-chapter-21"
+royalRoadId: "1509376"
+markedReadAt: "2026-06-29T19:08:55.848Z"
+---
+
+Aria
+
+Two guards both standing on either side of the stairwell. And the moment I begin to approach the stairwell, one of them raises his hand and stops me.
+
+“Stop, lass,” he says, his eyes briefly going to the number above my head and then bulging at the sight of its color. But he quickly calms down again when he no doubt sees my number. Then his eyes narrow with his hand patting the spellgun at his waist, only to shake his head at the sight of my uniform. “What’s yer reason for goin’ to tha eighth floor?”
+
+I quickly use one of the go-to reasons Rory and Shirogane gave me, “I’m going to the aquatic artifact development sector to deliver minerals from the Grand Ocean.”
+
+The man’s eyes narrow for a second, briefly moving to my number and then back to my face. Meanwhile the other guard just kinda stares at me without the woman speaking a single word.
+
+Eventually the first guard asks, “Show me.”
+
+I quickly bring out a handful of metals Shirogane sold to me – yes, sold, since he didn’t want to give it to me for free – for use in the mission. Metals that are actually from the Grand Ocean.
+
+After the man studies them for a few seconds, he relaxes again and waves into the tunnel, saying, “Yer clear. Head on through.”
+
+I nod my head while putting the metals back into my storage ring.
+
+So they weren’t a waste of coin after all.
+
+I quickly begin to move past the guards, the other guard still staring at me. And for a moment I worry that they’re going to stop me.
+
+But they never do. I just continue climbing the stairs until I reach the eighth floor.
+
+So far so good.
+
+After reaching the eighth floor, I quickly find myself face to face with four guards this time. And it looks like they’ve either heard my conversation with the two below or were told about it.
+
+Either way, it looks like I can’t just skip past them to the ninth floor above. So I go ahead and enter the eighth floor before moving deeper inside of it.
+
+I really need to stay far away from the grand staircase at the center of the Grand Tree, and while these smaller staircases connecting each wing to the corresponding wing on the next floor are still usable, the guards – according to Shirogane – check with each other about what floor everyone enters and exits on.
+
+But only for those guards on the same stairwell.
+
+Meaning I need to go leave this wing and enter another wing before going to their stairwell and finding a different excuse to enter the ninth floor.
+
+The others gave me a few excuses to get to the ninth floor, but I’m not really sure which one will work. And they’re a lot less likely to work than the ones to get onto the eighth floor. Since every floor beyond the seventh floor has more and more security on the stairwells.
+
+Whether that’s in the form of more guards or stronger guards.
+
+In fact, I wouldn’t be surprised if those two guards called me into the head of security or something due to the black number above my head and my appearance. Seeing as I haven’t been able to change it.
+
+The fact that they didn’t attack me right away just means that they either didn’t recognize me or the guards in the Grand Tree weren’t shown my appearance. Or at least the ones on the stairwells.
+
+All things considered, why would they be shown it? It’s not like they’re expecting me to attack their home base. While I’m at level 12.
+
+Even if they knew I was immortal and didn’t just have a powerful regeneration ability like they most likely believe, they still wouldn’t suspect that.
+
+Especially when the war is about to start. They likely expect me to try attacking from behind or something, once again assuming those bandits were with them.
+
+I continue walking through the tunnels of the eighth floor until I eventually leave the aquatic artifacts wing and enter what I believe is the mana core processing wing. The wing they process the cores to do something to them in order to do whatever it is they do with their artifacts.
+
+Okay, I don’t know what they do with them. Just that it’s called the mana core processing wing.
+
+Unfortunately for me, I quickly run into a problem after entering the wing.
+
+One with outdated information no doubt.
+
+Because what I find in the wing are not people processing mana cores.
+
+No. What I find are a bunch of other delegates from Atlantis walking around along with a bunch of offices and meetings between delegates and lukians.
+
+Shit. Did I seriously just fucking walk into the Atlantis Embassy or something?!
+
+I sneakily check the map only to find that, yeah, this is supposed to be the mana core wing. Which means that it’s as I suspected.
+
+The map intel is outdated.
+
+Fuck.
+
+I quickly put my map back while trying to act as casual as I can. But I’m pretty sure I’m screwed, since while the other areas’ workers don’t recognize each other, a damned embassy has to be small enough for them to recognize each other in.
+
+In fact, I hear muttered whispers from some of the delegates I pass after they notice me.
+
+Although most don’t jump to the conclusion that I snuck in or something. They’re all talking about how they didn’t think someone with a black number was amongst them, or that they didn’t realize someone that low level was even allowed to be a delegate, and so on.
+
+A couple comments about my appearance, but I ignore those as my eyes finally narrow in on the stairwell.
+
+I slowly and casually make my way over there before entering the stairwell. Which is a much easier process to do than the last stairwell, probably because this is their own embassy and I’m wearing an Atlantis delegate’s uniform. Which I can’t help but wonder where Shirogane got now that I think about it.
+
+That’s not important right now though.
+
+Because the moment I try to go upstairs instead of downstairs like the other people entering the stairwell, one of the four guards literally blurs from their position on the side of the stairs and reappears in front of me.
+
+“No entry beyond this point,” she states, a cold look gazing up into my eyes from the much shorter lukian woman. “Explain yer purpose for attempting ta enter tha ninth floor.”
+
+I can’t see her level, so I’m not sure just how dangerous she is. But I do know that she can crush me like a fly. My inability to see her level alone is enough to prove that.
+
+So I – as calmly as I can – answer, “I came to apply for the beta.”
+
+My answer seems to surprise her, but she just looks me over once, glances at my number, and shakes her head, stating, “No. Yer too weak. Come back again when yer level is over a hundred.”
+
+Right when I’m about to say something back in response though, I feel an arm going over my shoulder, making my eyes widen in surprise as a voice sounds from right next to me, “What if I vouch for the lady?”
+
+I turn my head to look, only for my jaw to almost drop open at the sight of a man I recognize from Eternus.
+
+What the fuckity fuck?
+
+Why is Azura here?!
+
+The man with his arm hanging around my neck is someone I met in the café I visited on a regular basis back on Eternus during my years there. He was a rather friendly guy who loved playing video games and was too high a level for me to see, and was apparently the owner of the café. And I occasionally chatted with him there, because despite his youthful appearance – not to mention aqua blue hair – he reminded me of old Luke from the café in Albaria.
+
+“Lord Althea, if ye are tha one vouching for her, then please notify us ahead o’ time,” the guard says with a slightly annoyed look on her face before stepping aside and moving back to the other guards. Meanwhile the crowd that was beginning to build up of delegates starts to clear out.
+
+Azura, on the other hand, simply keeps his arm around my shoulders and walks me up the stairs to the ninth floor while whispering to me, “Let’s go have a chat, aight, Aria?”
+
+I push his arm off of my shoulders with a frown on my face, but I don’t say anything to refute him.
+
+So we walk side by side into the ninth floor, following which he takes me to what looks like a private meeting room. Then, after closing the door, he turns around with his arms crossed and a brow raised as he asks, “So, mind tellin me what my café’s dedicated customer who out of nowhere vanished one day is doing here?”
+
+Well, this might not end well.

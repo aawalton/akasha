@@ -1,0 +1,131 @@
+---
+id: 32cc966c-70a6-5158-8fb1-9d493cfe2ade
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,358 - Alley Celestial"
+slug: 0034-chapter-1358-alley-celestial
+partOf: defiance-of-the-fall
+position: 34
+ownLength: 2624
+unit: words
+publishedAt: 2025-09-25
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2628574/chapter-1358-alley-celestial"
+royalRoadId: "2628574"
+---
+
+The impenetrable fog parted, giving way to familiar colors and shapes. Helisent blinked a few times as she oriented herself. She was lying in her bed, as she had for the past few years. Her favorite flowers were placed in a vase on her nightstand. On the other end stood a small statuette. It was the first carving her uncle had given her, a version of the graceful goddess dancing among the heavens. It looked worn after eight decades on display, but it was still her favorite.
+
+Helisent felt like she’d awoken from a long, long dream. She could understand why. Death was creeping close, and the Heavens had given her a moment of clarity to conclude her earthly affairs. Was it the reward for a lifetime of accomplishments? She’d toiled for decades, bringing the family to new heights.
+
+Once a simple seed merchant, the Peck Clan had grown into a respected family with hunters of their own. They no longer sold seeds, instead growing Spiritual Herbs and processing the harvest. It was a life well-lived, and one with few regrets. Petryk had been waiting for her for over twenty years, and she had little reason to hang on.
+
+And yet, Helisent felt the dark clouds draw closer. Rather than a gift, was the clarity a cruel taunt? Helisent sighed and turned to the large arched windows, startling the two attendants waiting nearby.
+
+“Matriarch, you’re awake!”
+
+“Would you open the blinds, dear?”
+
+“Of course,” the maid quickly tied back the thick curtains, allowing the golden glow of late summer to pour into her room.
+
+“Thank you. I’d like to see Uncle.”
+
+“Master Atwood?” the maid said with hesitation. “The Master’s health has declined. He might not be in condition for a visit.”
+
+“Humor this old lady and extend an invitation,” Helisent smiled. “I need to talk to him. Alone.”
+
+The maids scurried out of the room, leaving Helisent with her thoughts. The sunlight pouring through the windows made her recall her ancestral home. The old store and its sun-kissed alcove on the second floor were long gone, destroyed during the beast tide nearly forty years ago. She’d rebuilt it, but it had felt like picking at the wound.
+
+The lush gardens outside her bedroom better suited the family’s circumstances. They were also a reminder of life’s ups and downs. They’d risen quickly, and a century wasn’t enough time to create stable foundations. Markus hadn’t mentioned anything for fear of adding to her burdens, but how could Helisent fail to see the worries weighing on her son?
+
+Even now, Helisent could hear the subdued whispers outside her chambers. She understood the content without making out the words. The Peck Clan’s twin pillars were about to collapse, and it would trigger a storm. Their strength was hollow. Their own cultivators needed more time to mature, and their protectors were outsiders. Hired hands and in-laws couldn’t be relied on when enough benefits were at stake.
+
+Her uncle had always cautioned restraint, that slow and steady wins the race. Helisent knew he was right. She also knew that the chances to rise beyond one’s station were as rare as a phoenix’s feather. Helisent couldn’t bear the idea of her descendants toiling from dusk to dawn only to go to sleep hungry. She’d kept expanding, and her children continued the work she started.
+
+The commotion outside grew louder, and Helisent frowned in complaint. Couldn’t these hapless descendants give an old woman some peace and quiet even in her final moments? The frown turned into a smile when the door opened. Anila and Eko, her two oldest grandchildren, tried to enter with Zac only to be ushered out with a few gentle words.
+
+The door closed, leaving only the two. Helisent’s sight wasn’t what it used to be, and she only managed to get a proper look when her uncle sat down by the bed. Still smiling, Helisent felt a pang of sorrow.
+
+“Uncle, you’ve gotten old.”
+
+The once stalwart man whose piercing eyes were full of adventure and mystery had been reduced to skin and bone. Her uncle looked like a slight gust could drag him away. It was a miracle he made it to her bed. Even sitting, he needed to rely on his cane. Helisent recognized the piece of gnarled wood well. It was nearly two decades old and officially the last thing Zachary Atwood ever carved.
+
+“It’s been a while, Helisent,” Zac said with a gentle smile as he clasped her hand.
+
+“I’m sorry about the scene outside. Those fools will keep me worried in the afterlife.”
+
+“Unchecked growth will leave the wood brittle. A tree needs to face the wind to temper and shape,” Zac said. “The Peck Clan has stepped onto the path of Immortality, a road that’s measured in eons. The journey needs to have ups and downs just like life.”
+
+“Old man, still acting all sagely with a foot in the afterlife,” Helisent snickered. Her smile soon faded as he gripped her uncle’s hand tighter. “So this is it, huh?”
+
+Zac only patted her hand. Most thought that Zac Atwood retired because he’d lost the touch, that he could no longer see the truths hidden in the wood. Only Helisent thought differently. The older and more ordinary her uncle appeared, the deeper the impression he left on her.
+
+“Old man, do you have regrets?”
+
+“A life without regrets is a life not lived.”
+
+“I knew it. That’s what you get for picking blocks of wood over family,” Helisent huffed.
+
+“Family? Don’t I have one?” Zac said with a gentle smile.
+
+“You do... And for all these years... Thank you,” Helisent sighed, finding it harder and harder to keep her thoughts straight. She slowly turned to the old statue by the bedside. For a moment, Helisent felt like the goddess stared back at her. “Do you think there’ll be a chance for me in the next life?”
+
+“Perhaps. The Cosmos is unpredictable.”
+
+Helisent smiled as she closed her eyes. “Old man... The first time I saw you, I thought you were a celestial taking a break in our little alley. If I was right; please look after my descendants in my stead.”
+
+---------------
+
+Zac exhaled as he felt the hand cradled in his grow colder. His own body was only kept going through sheer will, and he felt Death’s chill creep into his body. Zac still held on as countless memories flashed through his mind. Helisent had been a constant in his life for the past eight decades, and they’d shared a lifetime’s worth of ups and downs. He’d known her even longer than any of his companions on the outside.
+
+It didn’t matter if it was the simulation of an alternate timeline. Was his sorrow an illusion? Were his memories? It didn’t matter what the universe said. To Zac, Helisent was real, and this was the last time he’d see her. Zac held her hand until true Death permeated his body, save a single thread of flickering life.
+
+The threshold between Life and Death brought unprecedented clarity. Zac’s mind expanded, spreading through the mansion that had been his home over the past decade. He saw the worried expressions on the Peck Clan’s descendants as they discussed their situation with hushed murmurs. Occasionally, they’d glance toward Helisent’s chambers or the meeting room on the opposite side of the building.
+
+Increasingly heated arguments came from within. Helisent’s three children were so desperately trying to salvage the stalled negotiations that they weren’t aware of their mother’s passing. It wouldn’t work. Zac’s perception expanded further until he saw the fifty cultivators closing in on the manor. The crude arrays had already been deactivated by traitors within.
+
+Helisent had grown into a wise clan head, but she was ultimately a mortal who looked at the world of cultivation from the outside. She couldn’t understand the Dao’s fatal attraction, the drive to seize strength and longevity from the Heavens. Cultivation couldn’t be explained through a merchant’s rationale, where risk and returns were carefully weighed. At its core, cultivation wasn’t rational. It was a subversion of the natural order.
+
+The Peck Clan was a fat sheep, and the wolves had circled long enough. They’d confirmed there was no mighty figure backing the fledgling family, so there was nothing to hold back. They would have struck years ago if not for Zac suppressing their impulses with his vastly superior Dao Heart. However, everything must come to an end.
+
+Eighty years had passed, and the timeline’s attempts to erase him had never relented. Year by year, they had grown stronger until Zac could no longer spare any energy keeping his adoptive family safe. Accompanying Helisent on her final journey had already pushed him beyond his limits. And now, it was time to go.
+
+Zac’s perception shifted, and Peck Manor was replaced by a gondola sailing down a silver river. It looked just like the crude boat he’d embarked on, but its aura had undergone an earth-shattering transformation. His true self was surrounded by a dense swirl perfectly aligned with the Four Laws, and the whole boat exuded incredible levels of Destiny.
+
+Two enormous statues waited just down the river, one placed on each shore. Just beyond was the shimmering curtain of a memory domain. The statues faced each other with outstretched arms, only inches apart yet fated never to touch. They existed in different realities and were separated by a chasm of causality. One second, they felt like lovers kept apart. The next, they were mortal enemies trying to snatch the mysterious treasure floating in the middle of the river.
+
+The astrolabe radiated paradoxical Continuum and boundless possibility, approaching the limits of what the Heavens would abide. It was the embodiment of the Mercurial Court’s power of transformation and was directly connected to the Peregrine Ocean’s myriad realities. Truth became malleable in its presence, and it created a mysterious resonance in the gondola—a resonance that grew stronger the closer it drew.
+
+More than a decade had passed since Zac’s heart grew strong enough to overcome the dream, and he’d watched the Gates of Transformation drawing closer since. From that moment, he could have returned to the gondola with a single thought. Zac had spent years resisting that impulse, choosing to stay in Everit’s failing body and enduring the timeline’s increasing suppression.
+
+Back then, the statues were barely visible in the distance, and the astrolabe had only appeared last year. The gondola’s aura was also significantly weaker. With each additional day he endured, the gondola’s accumulations grew a little deeper. The battle was over. The simulation had reached its end, and Zac could tell that the gondola couldn’t attract any more of its precious cargo.
+
+“Transformation,” Zac muttered as he retracted his perception, knowing it was more than an empty name.
+
+The gate was a crossroads, presenting two choices. The first was to sever the mortal and nourish the divine. Zac could shatter the dream and use its accumulated power to trigger a transformative rebirth—one that would even eclipse the Tribulation Throne. However, the Law of Balance was absolute. To gain something, something else had to be sacrificed.
+
+The gondola carried the essence of the timeline he’d spent decades crossing. Offering it meant reducing this life to an illusion. Even if the memories remained, they wouldn’t be real.
+
+The second option was to embrace his experience and turn it into a supporting pillar for his cultivation journey. Everything he experienced would become real, allowing him to bring his experiences and insights out of the timeline. Most notably, that meant his monstrously powerful Dao Heart. Indecision about what to pick was part of the reason Zac had held on this long.
+
+On a surface level, the first choice was superior. It promised a massive comprehensive boost. The amount of Law on the gondola was as much as his previous brushes with the Four Desolates combined. His body would be further aligned with the Cosmos, greatly improving his body’s potential.
+
+The fluctuations of Destiny were just as enticing. It wasn’t Imperial Fate like one would expect inside the trial. It was raw, unclaimed Destiny, making it the perfect fuel for his Void Road. The gains were massive and immediate—exactly what he needed. He’d just reached the most dangerous part of the trial, and the boost could mean the difference between life and death.
+
+A strengthened Dao Heart didn’t seem as valuable in comparison. He was only a few decades old, and he would have plenty of time to temper his heart after the trial. On the other hand, the Peregrine Ocean was uniquely suitable for tempering the Heart, and the timeline’s constant pressure had tempered his Dao Heart more thoroughly than any Heart Nurturing Manual could. Zac had progressed as much in his first decade on the Greenworth Trade Street as he had from his countless life-and-death experiences since the integration, and his improvements had never slowed down.
+
+Out of Soul, Body, and Heart, Heart was undoubtedly his weak link. Keeping the timeline’s essence for himself was his chance to catch up and then some. It would greatly help stabilize his foundations, preparing him for Monarchy and beyond. The choice also aligned with his path. Zac was extremely reluctant to demote this life’s experiences to a dream.
+
+Zac felt Everit’s body slump over as the final thread of life snapped. The small change was the difference between Heaven and Earth. The last scraps of energy fled his exhausted vessel, returning to the cosmos. His soul similarly returned to nature. Zac experienced the changes with detached equanimity. The cycle of life was complete, and Zac had his answer.
+
+“To cultivate is to go against the Heavens. It’s fine to be greedy every now and then.”
+
+Two eyes holding boundless Abyssal Death opened, turning to Helisent lying in her bed. He gently placed her hand to her side before disappearing in a flash. The people gathered in the meeting room didn’t have time to react before the two dozen outsiders exploded. The raiders outside met the same fate.
+
+Moments later, Zac appeared above Palimu, and the whole city was drowned in death and destruction. Noblemen and commoners were brought together in shared horror. They didn’t dare look directly at the grim reaper floating above the city, but they also couldn’t look away.
+
+“The Peck Clan is under my protection. If they die, so shall you,” Zac declared before stepping out of the dream.
+
+One of the statues had almost faded when Zac appeared in his own body, and the astrolabe was already pulling in the timeline. A burst of Void Energy stalled the sacrifice. Zac’s body had become a black hole the moment he awoke, consuming both the gondola and its cargo before the Gate of Transformation could exact its due. The timeline’s essence was sealed in the depths of the Void in his heart. It would remain real so long as he lived.
+
+Deadly streams of unstable space lashed Zac's body as he found himself without a vessel. Zac barely noticed. His full attention was on the fading astrolabe and the power of transformation it held. His body was aflame with hunger after only getting a taste of the Peregrine Ocean’s extraordinary powers. He’d become the Void, and he wasn’t done.
+
+Zac flew toward the astrolabe like a moth to the flame, his hunger so urgent it impacted reality. It was only through practiced effort that Zac kept himself in check until the last moment. A Void Vortex appeared in the middle of the astrolabe just as Zac passed through the Gates of Transformation. The realm shook with fury from having a sliver of transformation stolen, but the thief was gone before it could react.

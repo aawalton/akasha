@@ -1,0 +1,145 @@
+---
+id: 0d9b472d-0117-5397-8a8e-5e6e2d106271
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 45"
+slug: 0275-b4-chapter-45
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 275
+ownLength: 1543
+unit: words
+ownProgress: 1543
+publishedAt: 2025-05-02
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2249961/b4-chapter-45"
+royalRoadId: "2249961"
+markedReadAt: "2026-06-29T19:15:06.545Z"
+---
+
+AriaFive years later, when the twins are both ten years old
+
+For the first time in the ten or so years I’ve been here, a dinging sound echoes out from the panel, following which the thing glows green. Then the barrier around the treasury vault flickers once. Then twice. And finally, it vanishes after the third flicker.
+
+Allowing me to finally push open the door to the vault beyond the barrier, revealing a rather large trove full of treasure.
+
+As if on cue, I hear footsteps echoing down the hall at a rapid pace before Ryan rushes inside while exclaiming, “Mom! I smell another…” Only for the boy to trail off when he realizes the door to the vault is open and the panel is glowing green. After which he jumps up into the air and shouts, “It’s open!!!!” And does that several more times even as Ruby enters the room behind him.
+
+I hide a smile while focusing on the items inside of the treasury. Just searching for the artifact in question.
+
+A process that only takes me a few seconds to complete before I find it sitting on a pedestal at the center of the treasury.
+
+I sense both kids finally walking over to me at the entrance of the treasury. Something they’ve never done before because of the traps.
+
+Although now there aren’t any traps left since I got the vault open.
+
+“So that’s what you’ve been working to get all this time?” Ruby asks, sounding slightly bewildered as the three of us look at the item atop the pedestal. The national treasure of the lyons.
+
+A single clawed gauntlet. One without a match.
+
+“That’s it,” I state with a nod while walking into the treasury and picking it up. “This item allows the lyons – a subspecies of human who were the original dwellers of this world and are incapable of using any sort of magic – to use magic while equipping it.”
+
+Ruby furrows her brows as she places one hand over her mouth in thought and mutters, “Interesting…”
+
+Ryan, on the other hand, just begins running through the place looking at everything. Albeit without touching anything.
+
+Both of them have grown without really changing from how they first were personality-wise. With Ruby being the stoic one who definitely takes after me despite me not having any relations to them besides having sort of raised them, and Ryan being… well, Ryan. Wild and very energetic.
+
+As for their physical growth? Neither of them seems to have hit puberty yet, which I am very thankful for. Considering that was not looking forward to being trapped on a planet with two growing teenagers.
+
+And while I have decided that it’s a little late now to just drop them off at some foster family – what with them still calling me Mom despite my complaints, and them being ten years old now and only knowing me and themselves in all this time – I’ll just keep taking care of them myself. At least until they reach adulthood.
+
+As for their classes that they attained back at five years old when they initialized into the System? Neither of them are telling me for some reason.
+
+They both just tell me that they got a class they’re very happy about.
+
+The only thing I do know about their class is that it has something to do with magic, since both of them have magic. And I taught them what I knew about magic for the past five years while taking breaks from password-plugging.
+
+Anyways, both kids look rather excited about the treasure in the vault. In their own ways. So I go ahead and tell them, “Take whatever you want. We have permission from the lyons as part of the payment for the job.”
+
+“Thank you!” Ruby says, a smile blooming on her face as she begins searching.
+
+Ryan, on the other hand, lets out a shouted “Whoop!” and begins digging around in the treasure. Surprisingly picking only ones that aren’t dangerous for him to touch.
+
+Proving that their danger sense is still as keen as ever.
+
+I go ahead and collect the dangerous treasures, ignoring any of the damage I take as I do so. And soon enough, the three of us have the entire treasury barren of items.
+
+Except for one last thing.
+
+Some sort of beacon that’s shooting energy up into the ceiling.
+
+Because I know it’s the source of the barrier.
+
+So after putting everything into my storage ring, I go ahead and begin entering the same password that opened the vault door into the device. Of which thankfully works and turns it off in an instant.
+
+Finally.
+
+And moments later my terminal begins to vibrate over and over again on my arm, notifying me of an army of notifications.
+
+It doesn’t take me long to respond to all of them. Mostly because I just send out a mass message to everyone saying that I’ll be heading to Eternus soon.
+
+Or, at least, I send that to the people I actually care about.
+
+I ignore the messages from people I don’t care about. Or remember who are.
+
+Then I look around for a few seconds before telling the kids, “Go get everything you want to bring with you. We’re finally leaving this place.”
+
+“Okay.” “Yippee!!”
+
+I watch both of them scurry off in the direction of the nursery for a few seconds, following which I turn my attention back to my terminal as I begin to look up the news on everything that’s happened in the past decade. And the stuff I find is a little surprising.
+
+For one, the Demon King was finally found, and the Fourteenth Demon War has begun.
+
+A small part of me had forgotten about the Demon King entirely. Simply because there weren’t any fallen demons here thanks to the werewolves slaughtering them all.
+
+But he really is becoming a major problem. Albeit mostly only to the smaller nations. Not to the Grands.
+
+Even if the Grands are expending a lot of resources dealing with them too.
+
+They just aren’t taking many losses in it.
+
+As for the Grands eliminating the Demon King himself? That’s… a rather difficult task. Because, as it turns out, to kill the Demon King, they need to kill every last fallen demon in existence.
+
+I grimace as I read on more about the Demon King.
+
+A being that can literally just swap positions with his fallen demons at will. That can swap anything with them, in fact. Not just positions.
+
+He can exchange injuries with them, share senses, swap locations, and so on.
+
+Then there’s the fact that the Demon King’s entire purpose is to kill the users of the System. Making him the only other user in existence besides myself whose entire purpose is to actually kill beings.
+
+There are plenty of people whose purpose involves waging war, or fighting, or using certain ways to fight, but none of them advance their purpose by killing. Every single one can advance their purpose without killing a single person.
+
+Waging a war that doesn’t sacrifice even a single life and winning. Incapacitating enemies in a battle instead of killing them. And so on.
+
+But my purpose and the Demon King’s purposes are different in that we have to kill.
+
+Even Pestilence and Famine don’t get anything from killing.
+
+Pestilence’s purpose advances by him spreading his pestilences. Nothing more. Killing doesn’t matter.
+
+And Famine advances his purpose through starving others. And his actually gains less from killing those he’s starving.
+
+The only difference between my purpose and the Demon King’s though is that mine is to kill anything, whether it’s sapient or not. Whereas his is just to kill users of the System.
+
+Which makes me wonder if that might be why his fallen demons never targeted me. Since he gets nothing from attacking me other than making a potential enemy.
+
+It’s either that or they really can’t see me.
+
+Anyways, there’s also news about some new worlds being initialized over the years. With one of them even being an Alpha Tier world that a lot of places are fighting over.
+
+Causing a major problem for the natives living there.
+
+Then there’s the last matter.
+
+That of the Crimson Empire’s Empress – my biological mother – directly battling with the Archmage of the Arcadian Society. Albeit with neither of them dying.
+
+I find myself surprisingly pleased by the fact that the empress won. But I ignore that feeling as I close out of my terminal at the sensation of the kids returning.
+
+When they reach the room, I pick both of them up into my arms – which is getting a little awkward now thanks to how much they’ve grown, albeit still easy with my strength – and quickly begin making my way towards the exit of the building. With both kids looking more than a little excited to finally be leaving this planet.
+
+And a small part of me feels happy about them being able to see more of the universe.
+
+Not sure why.
+
+The corner of my lips quirk upwards as I think of Little Blue’s reaction to me coming back with two kids in tow.
+
+That’ll be hilarious.

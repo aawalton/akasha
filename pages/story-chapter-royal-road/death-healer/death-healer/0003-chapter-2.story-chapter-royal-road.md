@@ -1,0 +1,89 @@
+---
+id: 008ef1f3-72df-5346-b716-75754943dfb7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2"
+slug: 0003-chapter-2
+partOf: death-healer
+position: 3
+ownLength: 705
+unit: words
+publishedAt: 2025-05-04
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2254568/chapter-2"
+royalRoadId: "2254568"
+---
+
+Lily found herself seated in a white interrogation room—or what looked like one.
+
+One moment, she was alone. The next, a dark man sat on the other side of the table.
+
+“Hello, Lily,” the man smiled.
+
+He had a clean shave, short hair, and a pearly smile.
+
+“Who are you?” Lily asked warily. She now knew what was happening, but she was still resistant to it. She was on her way to another world.
+
+“I’m Lucas,” the man said. “You’re on your way to a new life. I’m here as a courtesy—a gift if you’d like—to explain the rules of what’s about to happen to you.”
+
+“So—”
+
+Lucas snapped his fingers, and Lily felt all her doubts and suspicions wash away.
+
+“What did you do?” Lily asked, looking down at her arms and hands.
+
+“I have granted you coherence with this new reality so we can move on. Think of it as if you had always dealt with magic and Gods.”
+
+“You’re a God?”
+
+“Of sorts,” Lucas winked and smiled with the whitest teeth Lily had ever seen.
+
+“Tell me the rules, then,” Lily inhaled deeply.
+
+“You won't have access to your current consciousness for a while. You'll have memories from your previous life, but you'll start as a newborn. Initially, you will have the awareness of an infant, then a child, and finally, you'll become a young woman once again. Full understanding of who you were and your memories will return to you at fourteen, and you'll recognize that you were a doctor and recall our conversation. Before then, you might be able to access bits and pieces but nothing more. It would be too great of an imbalance if you could access everything from the start. Are you okay with this?"
+
+“No,” Lily said, startling Lucas.
+
+“No? I thought you wanted to go.”
+
+“I do,” Lily replied with a nod. "But if you’re making me another person for fourteen years. That’s a long time. What will you offer in return?"
+
+Lucas’s smile widened.
+
+“You want to barter in exchange for me witholding your memories?”
+
+“I do.”
+
+“Well, I cannot give you an unfair advantage over the rest of the world for so little. But since the toll of your journey has already been paid, I will trade you one weak Perk. You'll need to know a lot to pick, though.”
+
+Before Lily could ask, Lucas snapped his finger again, and Lily felt the world spin around her as if her chair had been tossed in a centrifuge.
+
+“That is the base knowledge of the most common Classes and Abilities in the world you’re about to travel to. There's a lot that most people, even the powers in charge, don’t know. I’ll take back this knowledge once we’re done here, including the specifics about this conversation.”
+
+Lily dry heaved momentarily, feeling her head about to burst as a blue window emerged, displaying thousands of Classes and Abilities.
+
+“Classes, Abilities,” she said quietly, panting and groaning. “[Healer]… I will be a [Healer].”
+
+“I was most certain about it,” Lucas winked.
+
+But I’m sure you will go far beyond that, the divine being thought to himself.
+
+“Will I forget why I asked and what I’ve asked?”
+
+Lucas nodded.
+
+“I want… an Ability, then,” Lily groaned. Feeling her head explode, she saw rows upon rows of Abilities streaming in front of her. Instinctively knowing what they did, she picked the best she could. I want [Death Touch].”
+
+“Excellent choice for a [Healer],” Lucas smiled, then grimaced and clicked his tongue. “But no one gets an Ability before they turn fourteen and get a Class.”
+
+Lily felt her head going lighter and lighter, about to faint, with Lucas’s words coming more and more distant.
+
+“But I guess I can give you a little nudge in the right direction. Most children of nobility used to be born with this or that Perk. This might not be much, dear, but it’s the only gift I can give without taking much, much more.”
+
+Ding
+
+A Divine Being offered you ‘Perk - Minor Mana Empathy.’
+
+Minor Mana Empathy: Increase sensitivity to Mana by 5%. Slightly increase empathy and related effects.
+
+Will you accept?
+
+Lily barely had time to accept before she fainted.

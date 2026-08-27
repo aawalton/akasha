@@ -1,0 +1,515 @@
+---
+id: 9ab724b4-b111-54fc-80c2-9771d4bc8742
+page-type-slug: story-chapter-royal-road
+title: "088: Casualties"
+slug: 0088-088-casualties
+partOf: delve
+position: 88
+ownLength: 7667
+unit: words
+publishedAt: 2020-03-29
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/474340/088-casualties"
+royalRoadId: "474340"
+---
+
+Sentinel Talasa sat in her office, fuming.
+
+I can’t believe the stupidity. Don’t they see what will happen? Even if their idiotic plan goes off without a hitch, the depths will claim us all.
+
+She slumped down in her chair and sighed, rubbing at her temples as the anger slowly faded, replaced by resignation. This was the path that the Watch had chosen. She had made her case and been overruled. All she could do now was try to mitigate the damage.
+
+She reached toward the small bell sitting on her desk, hesitated, then rang it. Her assistant appeared after a few moments, entering after knocking politely on the door. “Yes, Sentinel Talasa?”
+
+“Bartum, has Tanner made any progress on the communications issue since last night?” Talasa asked, trying to keep the fatigue and exasperation from showing in her voice.
+
+“No, Sentinel,” said the wiry officer who served as her adjutant. “There has been no change. We still cannot pierce the barrier. Tanner says he is close, but he has been saying that for days. There has been no indication that any of our messages have reached Vigilance.”
+
+Talasa frowned. She’d expected as much, but it was still disappointing. “And Sentinel Tabot?”
+
+“He is off rotation today, I believe. Sentinel Hallimer is the alternate. His report came through an hour ago. The party that was sent to the Vestvall outpost to retrieve the mindcaster has yet to return.”
+
+“Damn,” Talasa said, hitting the table with her fist.
+
+Bartum raised an eyebrow. “It is not like you to curse when you’re not doing that act you do.”
+
+She sighed, shaking her head slowly. “Bartum, sometimes, I just…” She rubbed at her eyes. “I just don’t know. Send a runner to the barrier. They need to know about this stupidity.”
+
+“Already done.”
+
+Talasa looked up at him and smiled. “Bartum, have I told you that you’re wonderful?”
+
+Bartum chuckled. “Many times, Sentinel.”
+
+Talasa got to her feet. “Okay. I suppose if we’re doing this, I’d better do my part. I’m going to the Guild to have a little talk with that rat…what was his name again? The one in charge now?”
+
+“Rankin.”
+
+“Yes, him. Anyway, round up the rest of my officers and get them ready. Hopefully, I’ll come back with a little extra support. We’re going to need all the help we can get. Oh, and make sure to refresh the enchantments on my equipment. If Pell makes a fuss, remind him that I’m our only frontline healer. Phoss isn’t going to save us with that spear of his when this thing turns sour. I should have priority, and that is that.”
+
+“Yes, Sentinel.” Bartum made an elaborate bow.
+
+Talasa rolled her eyes and walked past him. “For the last time, Bartum, no bowing. I’m your commander, not the queen of Wix.”
+
+Bartum spun smoothly, prostrating himself with one knee and both fists pressed against the floor. “Yes, commander. Please forgive me for the transgression. I will strive to observe proper discipline in the future.”
+
+Talasa snorted as she glanced back at him, then shook her head. Bartum wasn’t nearly as funny as he thought he was, but he always had a way of cheering her up. She needed it on a day like today.
+
+Rain pulled himself up out of the Tunnel and looked around at the stinking marsh. He breathed deeply, inhaling the pungent scent of decay, then sighed in relief.
+
+Finally!
+
+This was the Fetid Bog, the final zone of the lair, other than the Shrine.
+
+It was true to its name. The ground was slimy mud, where there was ground at all, only held together by the roots of a few sickly-looking trees. Stagnant water surrounded them, choked with grasses and weeds for as far as the eye could see. And that wasn’t far. The entire place was shrouded in a swirling fog that reeked of corruption. There was light, but not much, a gloomy twilight that filtered through the fog. His HUD said that it was nearing sunset on the surface, but there was no sign of a sun in here, real or otherwise. The only possible path forward was a strip of marsh winding through the stinking water to an island, barely visible in the distance.
+
+It was honestly and unequivocally awful.
+
+It was still better than the Tunnel.
+
+Rain didn’t want to talk about the Tunnel.
+
+“Oh thank the heavens!” Arlo said, dragging himself out of the hole. He was the last, the other members of the party already having clambered out one by one.
+
+“Come on, it wasn’t that bad,” said Velika, laughing. “Rain dealt with the…substance. I’ve seen much worse, and worn it for longer, too. I think he’s spoiling me.”
+
+Rain stared at her. “What could you have possibly seen that would allow you to say that?” Rain himself had seen his fair share of disgusting things—he’d had the internet, after all—but there was a difference between seeing a thing and walking through it. No. Being squeezed through it. He shuddered.
+
+Velika laughed. “This one time, I was in a lair that had walls made from rotting meat. There was an ocean of pus that—”
+
+“Please stop,” said Rina, clutching the Crystal Slime to her chest. “I don’t want to know. I can’t imagine anything worse, and I’d like to keep it that way. Dear gods, the smell…”
+
+“I’ll never be clean again,” said Samson, easing Bosco down, then collapsing into the mud.
+
+Bosco rolled over, retching, but there was nothing left to come up. He spat weakly. “I wish you’d just let me die. I could have passed on happy, but now this will haunt me for the rest of my days.”
+
+“Oh gods, the chunks,” Arlo said, falling to his knees, heedless of the mud.
+
+“I don’t see what the big deal is,” said Kettel. “I mean, it were disgustin’, sure, but yer all makin’ out like it was the most awful thing ever. I can imagine way worse.”
+
+“Kettel, the inside of your head must be a terrifying place,” Breggeh said, walking over to Bosco and kneeling down to rub his back.
+
+Rain decided that he didn’t care about the mud either, so he followed Arlo’s example and flopped down onto the ground. It looked like they weren’t going anywhere for at least a few minutes. He was fine with that.
+
+Far to the northwest of Fel Sadanis, there was a sudden flash of purple light. Two figures popped into existence, standing on a hill. One of them immediately crumpled, falling to the ground with a whimper. The man clutched his head, then spoke, panting. “Please…tell me…this is…close…enough.”
+
+Lavarro sighed. “It will do. You may go.”
+
+“Oh, thank Dystees,” the man said, rolling onto his back.
+
+“Don’t thank your god, thank me,” growled Lavarro.
+
+The Translocationist didn’t reply, looking like he was seconds from passing out. Lavarro shook her head and walked away. The Guild mages in Xiugaaraa were pathetic. They sat around on their asses, eating cake and letting their skills atrophy. She didn’t know how much mana had been required for each of the jumps it had taken to get here, but it didn’t matter. They had no drive, any of them. If she were a Translocationist, she would settle for nothing less than being able to circle the entire globe in less than a day, no, less than an hour. Otherwise, what was the point?
+
+She looked at the city in the distance. Westbridge. One of the largest cities in the DKE, situated on the unoriginally-titled West River. The home of the man who had attacked and imprisoned her daughter.
+
+Idly, she snapped the neck of a rat-like creature as it ran toward them, probably attracted by the teleportation. Both it and the man beside her were no longer of any concern. Her brow darkened as she stared at the city, its walls casting a long shadow in the sunset. It had been fully dark in Xiugaaraa when they’d left, meaning that the Translocationist, weak as he was, had managed to catch up to the sun.
+
+Lavarro smiled. Appropriate. The sun sets for you, Westbridge.
+
+She started walking toward the city, then broke into a run. Her ex-husband was probably still on the other side of the world talking. Always talking. Talking about how the Guild should be run. Talking about how an adventurer should behave. Talking about how to free their daughter with politics.
+
+Lavarro’s feet pounded against the earth as she ran, then left it completely. She’d switched to pillars of force, hurling herself forward faster and faster. Talking was a waste of time. The solution was simple. Westbridge would let Mahria out, or he would die.
+
+Halgrave had fought him. From her eavesdropping, her ex had almost managed to win against the ancient Citizen—would have won, if not for trickery. That meant that the puffed-up bureaucrat was just as pathetic and lazy as the mages of Xiugaaraa. She would show him that levels weren’t everything. She would show him what a true mage was like.
+
+Her smile widened into a vicious grin as the walls rushed to fill her vision. I am going to enjoy this.
+
+She and Halgrave had fought many times; before, during, and after their marriage. One thing had stayed the same. She had never lost. Not even once. Westbridge was going to regret raising his hand against her family.
+
+“Slow down there, Leeroy,” Rain said.
+
+“Huh?” Arlo looked back at him. “Are you talking to me?”
+
+“Yes,” Rain said.
+
+Arlo looked a bit offended. “That is not my name. I would think that you of all people would know that nicknames are not something to be trifled with.”
+
+Rain chuckled. I suppose he’s right about that. “Fine, Arlo. You’re rushing in, even after I just finished explaining the fifteen different kinds of death that are waiting for you in this marsh. Were you paying attention?”
+
+“I was listening,” Arlo said, annoyed. “I am simply ready to be done with this place. These creatures are no match for us, now that we have learned their tricks.” He struck a pose, hands on hips. “The blue is here. I can smell it.”
+
+“That’s the Tunnel,” Breggeh said, laughing. “I think I’ve still got some of that…stuff…stuck under my fingernails.”
+
+“You don’t,” Rain said, looking at her. “Purify is quite thorough.” He sighed and shook his head. “Just be careful, all of you. Don’t walk through any water deeper than your ankles. Don’t walk under trees. And stay together.”
+
+“Yes, yes,” said Bosco. “You’ve said all that. I’m with Leeroy.”
+
+Kettel burst out laughing as Arlo whirled on Bosco. “I am betrayed!” He didn’t look mad; in fact, he was grinning.
+
+Rain smiled and shook his head. Look at us, all friendly and bonded. It only took a full day of constant peril, then being squeezed through…that. Man, Mel said it was bad, but I had no idea…
+
+“Let’s just go,” said Samson, clapping a hand on Rain’s back. “Don’t worry. I was listening, even if they weren’t.”
+
+“Thank you,” said Rain, nodding to the shorter man. “Look after Bosco, will you? He says he’s fine, but he still looks a bit wonky to me.”
+
+“You got it, Death Zone,” Samson said, wearing a serious expression on his face like a mask.
+
+“Wait, what…?” Rain’s eyes narrowed. “Kettel?”
+
+Samson’s mask broke, then he laughed. “Kettel.”
+
+Rain sighed. “Damn it.”
+
+“What? No good?” asked Kettel, grinning at him.
+
+Rain shook his head. “It makes me sound like a villain.”
+
+Velika laughed. “Maybe you shouldn’t dress like one, then.”
+
+“A valid point,” Rain said, adjusting his cloak.
+
+The Citizen stepped up next to him, staring out at the Fetid Bog. “The intruder is in here somewhere. I can smell him. He’s close.”
+
+Rain raised an eyebrow. “I thought you said it was a her.”
+
+“That was just a guess, but now…” She breathed in deeply through her nose. “Yeah, it’s a guy.”
+
+“Hold up,” Rain said, “You can SMELL men?”
+
+Velika laughed, then, to his horror, winked at him.
+
+Oh no…
+
+Rain hurriedly cleared his throat. “Uh, let’s go, everyone. Form on me.”
+
+The party moved out, Rain and Kettel in front, probing the marshy ground. Kettel was still using the Quickstaff, and Rain had a branch that he’d broken off one of the scraggly trees. Detection wasn’t that much of a help, as there was no clean line between safety and danger as there had been in the Forest of the Drowned. The entire place was mud, just of varying firmness.
+
+The going was slow. They frequently needed to wade through water, and monster attacks were a constant threat. There were slimes, of course, but they only seemed to hang out on land. The party was well-used to dealing with them by this point, having gotten plenty of experience in the Shroom Cave. Rain had to keep reminding them of the danger, partly to prevent himself from feeling overconfident as well.
+
+The water held other threats. Devil Fish were like roided-up murder piranhas, and Swamp Kin were smaller, aquatic versions of Chem Kin. Both were numerous, fast, and dangerous, but they had low health and were easily spotted with Detection. Thankfully, Velika seemed to be growing weary of the lair and didn’t force the unawakened to fight them.
+
+It would have been a walk in the park if not for the fact that he needed to check for blue names before killing them. Detection wouldn’t tell him that; he needed to use his eyes. Even so, it wasn’t that much of an issue. The monsters would happily swim over to investigate any disturbance to the water.
+
+Before they made any crossing between the muddy islands, Rain would splash around with his stick to attract everything nearby. The Swamp Kin would climb up onto the land to be identified and subsequently detonated by Immolate.
+
+The Devil Fish were a bit more problematic because the murky water hid their names, but Purify took care of that easily enough. The monsters themselves were unaffected, but the spell temporarily turned the water crystal clear. Then, once he was sure that there were no blues, it was time for Immolate again.
+
+It was like microwaving a bowl of fish soup, right down to the smell. The water slowed the spell’s progress, but a low channel with a long range proved to be very effective. The water itself never got anywhere near hot enough to do damage, but the magic took care of that directly. The Devil Fish appeared to have little to no resistance to it.
+
+After the first few times, Rain had even started wading into the hot-tub temperature water to speed things up. He’d found that the spell spread faster the deeper he submerged himself. The only downside was that this put him right in the middle of the nasty chowder of dying fish. After the Tunnel, it was hardly worth mentioning. Plus, it wasn’t like the fish had any way of hurting him, being unable to even scratch his armor with their teeth.
+
+All told, he was racking up quite the kill count. He made sure to keep spending the experience on skill trees to prevent himself from hitting the cap. There was no sense letting it go to waste.
+
+Velika was still making the unawakened fight the Slimes, as well as a lone level-4 lizard thing that they’d run into called a Gill Monitor. It was fast, but only around the size of a Doberman. Compared to the Fungiforms, the thing was a joke. The party picked it apart easily, Force Ward shielding them from its sharp claws and teeth.
+
+Rain was starting to see what Mel had meant when she’d said that the Fells wasn’t that bad. A well-prepared party would have had no trouble. It was only difficult because he had six unawakened to babysit. He was pretty sure that he’d even have been able to make it this far on his own. Thanks to Detection and his ridiculous mana regeneration, he could have slowly ground the lair down without ever having to put himself in real danger. That said, it wasn’t something he planned on trying any time soon. All it would take would be one slip-up, one missed sink pit, one unexpectedly strong monster, and that would be it.
+
+Also, there was the issue of the Fungiform Stranglers. He had Detected one in a tree, the signal oily and indistinct, signifying that it had some resistance to the spell. Velika noticed it on her own before he could point it out to her.
+
+With no warning, she’d chopped the whole tree down from twenty meters away, sending the tentacled horror crashing to the ground. It had been an astonishing level nineteen, almost double the lair’s rank.
+
+Velika had handled it. She had even gone as far as to do one of those cool moves where you vanish and appear on the other side of the target in an instant, resheathing your sword while the unfortunate victim slides apart into two, neatly-severed pieces. The fact that she didn’t use a shockwave implied that it wouldn’t have done enough damage, or that she had just wanted to show off. Either way, the presence of the Stranglers had served as a wakeup call against complacency. Rain wasn’t confident of his chances against something of his own level.
+
+After a few hours and several more Stranglers, Rain and the party found themselves wading through chest-deep water, holding their packs over their heads. Velika was walking over the water’s surface as she’d been doing since the first crossing, seeming less unsteady than she had been initially. It didn’t look like she was walking on the water itself, more like an invisible surface just above it. Her stamina was dropping slowly, so Rain figured it was the same skill she’d used to hover over the city before.
+
+“Wait,” Velika said suddenly, turning her head to look at a small island to their left. Rain followed her gaze, seeing nothing but trees, though it was difficult to make out details through the fog. A pulse of Detection came up with nothing.
+
+“A monster?” he asked, looking up at her.
+
+She shook her head. “No. The intruder. He’s there.”
+
+Oh. Rain kicked himself and pinged again, this time using a less-specific filter. The signal came back, clear as day. There was a person on that island.
+
+“Come on,” Velika said, starting to walk in that direction. “I can’t leave you lot alone in here, so you’re coming with me while I go murder a bitch.”
+
+“Wait,” Rain said, sloshing after her. He cursed as Rina passed him, the noblewoman swimming easily with the Crystal Slime perched on her head. His own armor was far too heavy for that kind of thing. Besides, he was forced to hold his bulging pack up out of the water. Damn Osaran tax code. I should have left the books outside, at least. I need a waterproof bag.
+
+Mercifully, Velika slowed when it was clear that the others couldn’t keep up. She fell back to walk in the air to the left of his head. The height difference became less pronounced as the water grew shallower until he tossed his pack up onto the bank and climbed out. He looked at the Citizen, out of breath from fighting the water. “Can we maybe not kill a random person today?”
+
+Velika shrugged. “That depends on him and whether he killed the blue. I swear, the audacity of coming in here… He’s got balls, that’s for sure. The fact he made it this far without dying says a lot. He didn’t leave a trail of bodies, either. He’s got to be a master of stealth. That’s someone I could use. But if he killed the blue, well… I’ve always wanted to try peeling a man alive.”
+
+Rain gulped. “I can’t tell if you’re being serious, or…”
+
+Velika laughed. “Of course I’m not being serious. That would be way too annoying. Do I look like I have time for that kind of hobby? Besides, if he killed it, he’s dead, and that’s that. It hardly matters if he suffers before he goes.” She turned to yell at Bosco and Breggeh, who were lagging behind, not even at the bank yet. “Would you two hurry up!? If one of those fish comes after you, I’m just going to let it eat you.”
+
+Rain shook his head, returning his attention to the sickly-looking trees. Who could it be? He pinged with Detection multiple times in rapid succession, playing an impromptu game of Guess Who.
+
+While Detection never told him any details about what he’d detected other than its size, he’d gotten a pretty good sense for the types of things that it would allow him to set as a filter. IFF made it even more flexible when it came to entities. In essence, it let him isolate groups of people that he knew.
+
+Human? Check.
+
+Human male? Confirmed.
+
+Someone in the Watch? No.
+
+Someone in the Guild? Shit.
+
+…
+
+One of the silverplates? No.
+
+A bronzeplate? Yes.
+
+Someone I’ve interacted with? Yes…
+
+Val?
+
+…
+
+“Shiiiiiiiiiiiiiiiit,” Rain said, facepalming as the pulse of Detection returned.
+
+“What?” Velika said, turning to look at him.
+
+Rain sighed, lowering his hand. “I know who it is.”
+
+Velika’s eyes narrowed as she walked over to him. “How could you know that?” she asked, a dangerous expression on her face.
+
+“Um…skill?” Rain said, resisting the urge to step back. Velika was standing uncomfortably close for his liking.
+
+Velika’s expression darkened even further, a suspicious glint in her eyes. “You don’t just know who it is. You know him well. A friend? If I find out that you had anything to do with this, I will take back what I said about peeling being too annoying. You can be the test subject.”
+
+Rain did take a step back this time, raising his hands to ward her off. “Wait! That’s not…I only just found out. It’s the same spell I’ve been using to check for monsters. It works on people, too. Now that we’re in range, I was able to figure out who it was.” He glanced over his shoulder, conscious of the water behind him. He lowered his hands slowly, trying to look as harmless as possible.
+
+Velika moved even closer, getting right in his face. “Oh? Well, isn’t that convenient? Here is my theory. You knew your friend was in here the whole time. You knew where he was hiding and tried to lead me away. Don’t think I didn’t notice that you kept us as far from that island as possible.”
+
+“What?” Rain said. “No, I was just sticking to the shallowest path.” He glanced at the water again and gulped.
+
+Velika stared into his eyes through his visor for what felt like hours, then mercifully took a step back. “Fine. It occurs to me that if this was some plot, telling me that you knew who the intruder was would be about the stupidest thing you could do. The smart move would be to play dumb.” She turned away and started walking toward the trees.
+
+Rain sighed in relief. Damn, she’s unstable. One minute she’s fine, but when anything pisses her off, she just snaps. Paranoid, too. I think Val’s boned.
+
+“Well, who is it? This friend of yours,” Velika asked, not looking back.
+
+Rain swore softly and hurried to follow her, the unawakened trailing behind him. “His name is Val. He was in my party when we ran into you on the road.”
+
+“Humm,” Velika said as they reached the trees. “Which way?”
+
+Rain pointed. There was no point in trying to mislead her. Plus, it would have been suicidal. “He’s not far in. Just on the other side of that thorny bush there.” He raised his voice. “Val! It’s Rain. Citizen Sadanis is with me. Don’t do anything stupid.”
+
+There was no response, but Velika didn’t wait. She moved in the indicated direction, and Rain hurried to keep pace. He gasped as he rounded the bush and saw Val lying on the ground, half inside the mouth of a gigantic snake.
+
+“Shit!” he yelled, reflexively activating Force Ward.
+
+“Well,” Velika laughed. “Seems like we’re too late. What a shame.”
+
+Rain rushed forward as soon as he got over his shock, switching from Force Ward to Detection. The snake was dead, that much was clear. Its massive purple body was streaked with scorch marks, and there was blood everywhere. Detection confirmed it. The spell would work on dead bodies, but only if he was searching for them. Val showed up as an entity, so for all that he looked dead, he wasn’t, at least, not yet.
+
+“He’s still alive!” Rain shouted, fumbling for a healing potion as he knelt near Val’s head. He poured it into the man’s mouth, trying to spill as little as possible. “Damn it, swallow, idiot.”
+
+“He’s unconscious,” said Samson, kneeling on the other side. “Still breathing, though. Tilt his head. Try to get some of it to go down his throat.”
+
+Rain did as ordered, hoping against hope that Val didn’t have any spinal injuries on top of being half-eaten by a giant snake. As the potion sloshed into Val’s throat, he coughed weakly, spluttering and sending most of it flying out of his mouth.
+
+“Here, give me another one of those,” Samson said, gesturing to Rain’s bandoleer. “I’ve had to do this before.”
+
+Rain nodded, passing him the potion. Val looked horrible, his flesh was swollen and inflamed, worst near the massive fang that was plunged into his torso, locking the snake’s head in place. Venom? Fuck. How is he still alive? The fang alone should have done it. We’re never going to be able to get that out without tearing him up even more. How are we going to…oh. Purify.
+
+Rain held nothing back, using a full Nova compressed down to just a few meters. When he dropped it, Velika was kneeling next to him, pressing her hands against a gaping hole in Val’s side in an attempt to stop the flow of blood.
+
+“Idiot,” she said, looking at Rain. “How am I going to kill him if he’s already dead? Think before you do things.”
+
+Rain blinked, staring at the blood. There was a lot, and all of it must have come out of the wound after he’d stopped using Purify; otherwise, it would have been cleaned away. “Shit!”
+
+“Another potion,” Samson said, holding out his hand, blinking as if he was having trouble seeing. Shit, I didn’t even think about the light. Rain quickly handed him another potion and watched as he poured it down Val’s throat.
+
+Val choked and spluttered, then started screaming.
+
+Velika laughed as she restrained him, pressing hard on the wound. “Well, if he can scream like that, he’ll probably be fine. Hey, Bosco, take over. Make sure you don’t let any of his guts pop out.”
+
+Bosco shook his head, looking sick. “I…I…the blood…”
+
+“Ah, move, ye git,” said Kettel, shoving him out of the way. He placed his hands over Velika’s, taking her place and applying pressure to the wound.
+
+“Another,” said Samson, holding out his hand. Val had stopped screaming. He’d passed out again.
+
+Rain hurriedly passed Samson another potion. “How many can he have?”
+
+Samson shrugged. “He’s dead without it. It would be better if we had a greater healing scroll. If you bought these from Myth and Reason, he’s going to need as many as you’ve got.”
+
+“Rain,” Velika said, her tone annoyed. “I’m covered in idiot blood. If you’d please?”
+
+Rain growled, but activated Purify anyway, keeping the intensity at a reasonable level this time to avoid blinding everyone again. He passed Samson his last two health potions and watched anxiously as the man poured them down Val’s throat.
+
+“Well, that’s that,” Samson said, sitting back and tossing aside the empty bottles. “All we can do now is hope it was enough.” He looked at Arlo, “Unless someone has any stronger potions?”
+
+Arlo shook his head. Rain looked down at Val, then lurched to his feet, heading for Arlo. He’d used Detection early on to check everyone’s supplies, and he knew for a fact that the puffed-up noble had two left. “Arlo, cough them up. I know you have them.”
+
+“No,” Arlo said, shaking his head. “I will not.”
+
+“Velika,” Rain said, turning to her imploringly.
+
+Velika laughed. “Oh, relax. Another potion isn’t going to make any difference at this point. Look.” She pointed at Kettel’s hands.
+
+Rain looked. Purify was still active, erasing the blood as soon as it left Val’s body, so he got a good view. The wound was sealing itself.
+
+“Now that, that’s the oddest thing I’ve ever felt, and no mistake,” said Kettel, shifting his fingers to keep them from getting stuck in the rapidly closing wound.
+
+Rain breathed a sigh of relief at the sight of smooth, healthy skin, visible through the ragged hole in Val’s jacket. The last of the blood evaporated away, and he deactivated Purify, the foul-smelling fog of the swamp rushing back in to replace it.
+
+“Damn it, Val,” he said, shaking his head. “What the hell happened? Why would you try to fight something like that?”
+
+Val didn’t respond. He was still unconscious, with only the shallow rise-and-fall of his chest to show that he was alive.
+
+“What was that snake thing? Are there more?” Breggeh asked. She, Kettel, Velika, and Samson were the only ones who didn’t look sick.
+
+Rain shook his head. Mel hadn’t said anything about snakes.
+
+“Was it the essence monster?” asked Rina, clutching at her Slime. “Is there some way to tell?”
+
+“It wasn’t,” said Velika.
+
+“How do you know?” Arlo asked, laying his hand on his rapier. “Perhaps we should kill him, just to be sure. You said the essence would transfer, did you not?”
+
+Velika laughed. “I know because the blue is right behind you, idiot. It seems we were making quite a bit of noise.”
+
+Arlo whirled, drawing his sword. Rain jumped to his feet, using Detection. The spell spotted the monster just before his eyes did. It was another of the lizard things, its health bar and name appearing as it emerged from the bushes.
+
+Corpulent Gill Monitor, Level 6
+
+It was larger than the last Gill Monitor had been, around the size of a donkey. However, it hadn’t just been scaled-up proportionally. It was massively fat, as if someone had inflated it like a balloon. It didn’t look like that was slowing it down, however. It was running toward them at great speed, its stomach dragging along the ground. An arrow plinked off of its head, and it roared, showing at least three rows of vicious teeth.
+
+“Shit,” Rain swore. Rina had the right idea. “Form up! Breggeh, Bosco, with me. Those claws look nasty. We need to keep it away from the others.”
+
+“Right,” Breggeh said, shifting her grip on her shield. The three of them rushed out to meet the charging lizard.
+
+“Rain,” Velika called after them, warningly. “Stay out of it. They need to do the damage, not you.”
+
+“I know!” he snapped, staring down the fat lizard as it barreled toward him. “Get Val out of here! I’ll make sure they get credit.”
+
+“They’d better,” Velika said. Rain didn’t have time to check if she’d gotten Val to safety. The lizard was already upon them.
+
+Breggeh stepped forward, swinging her mace at the monster’s head as it came into range. It skidded to a halt, rolling away from the strike like a beach ball filled with jello. Breggeh still managed to hit it in the shoulder, but her mace bounced off of the lizard’s blubbery skin without doing any visible damage.
+
+“Crap,” she said, dodging back. “It’s a tough one. Like the Stumpers.”
+
+“Not too tough for Mercy!” Bosco shouted, flourishing his spear. “I will kill it in one strike.” He dashed forward, spear extended. The monster tumbled away even faster this time. “Damn!” Bosco swore as his spear hit nothing but mud.
+
+Arlo jabbed at it as it rolled past, landing a hit that bent his sword almost in half. The strike did no visible damage, but it did knock off a few points from the creature’s health bar.
+
+Rain nodded. Arlo did damage, so that’s a check. 1 out of 6.
+
+“Ha!” Arlo said, swishing his rapier in triumph. “Always boast after you strike, Bosco, not before. That is the way to—Shit!” Arlo staggered back as the lizard lunged. Just before it crashed into him, the monster tumbled forward intentionally, rolling ass-over-teakettle to strike at him with its tail.
+
+Fortunately, Rain had been ready with Force Ward. Arlo was still hammered down into the muck, but the damage was more to his pride than his health.
+
+Despite himself, Rain smiled. That’s what you get, fool. Next time, don’t boast at all. He was feeling a lot more confident than he’d been in the first fight with a Stumper. This thing was faster than the Fungiforms had been, but nowhere near as strong. Its claws wouldn’t be able to do any serious damage, thanks to Force Ward. They should be able to deal with it without any problems.
+
+Honestly, it’s a bit of a joke. I never thought I’d see a lizard chonker.
+
+He shook his head. Overconfidence was to be avoided. He needed to take this seriously, or he was making the same mistake as the nobles. “Kettel, Breggeh, boost in three,” he said, readying Velocity.
+
+“Fuck Yeah!” Kettel said, falling into a crouch. Both he and Breggeh launched themselves at the lizard from opposite sides as Rain activated the spell. He kept the boost modest, only around 300%. Through several fights with Stumpers, he’d learned that that was about as much as they could handle, and even then, only for a few seconds. He canceled it and switched to Force Ward as both of them struck at the surprised lizard, landing devastating-looking hits from staff and mace. The actual damage was real, but much less impressive.
+
+The monster hissed angrily, tumbling away from the impact as Breggeh and Kettel crashed into each other. The two scrambled back to their feet, muddy, but unharmed. Kettel pumped his fist in the air, holding the staff. Rain had lost a few hundred mana from absorbing the impacts.
+
+“Yaaaaah!” Kettel yelled, laughing. “I’ll never get tired o that!”
+
+Breggeh shoved him out of the way, just in time to save him from the lizard’s retaliatory charge. She dropped to her knees, caught the strike from the tail on her shield, and lashed out with her mace. Unfortunately, the lizard had already bounced away, crashing into a tree in its haste to escape. Another arrow hit its hide but glanced off without doing any damage.
+
+“This thing’s fast, fer a fat-ass,” Kettel shouted as he chased after it through the mud. “Did I get a hit on it, Rain?”
+
+“Not sure!” Rain replied. He and Breggeh both hit it at once. I don’t know if one got credit, or both.
+
+Any further discussion was cut off as Rina shouted in alarm. The monster had switched its focus to her, and she was forced to lower her bow and run. The Crystal Slime was still sitting on her head, clinging desperately to her hair as she dodged between the trees with the lizard ricocheting after her.
+
+Samson came out of nowhere, slashing at the lizard with a vicious slice from his sword. A line of red appeared on its side, and it lost a full third of its health. It roared in pain, crashing into another tree with a heavy thunk of impact.
+
+Rain blinked. Wow, go Samson. That’s an extra-large checkmark for you. 2 out of 6.
+
+The lizard didn’t have time to recover before Bosco was on it. He skewered it with his spear, shaving off another significant chunk of health. Unfortunately for Bosco, the spear got lodged in the monster’s leg and was jerked out of his hands as it scrambled away.
+
+“Wait!” Rain shouted as Samson closed in for another strike. Bosco’s good, so that’s 3 out of 6. “It’s getting low. Everyone back! Rina, shoot it!”
+
+Rina shot. The arrow sunk into the lizard’s flesh this time, instead of bouncing off like the others. It only dealt the tiniest sliver of damage, but that was enough. Rina, check. I was worried I’d have to have her do a body slam. It’s a shame Velocity doesn’t work on bows. 4 out of 6.
+
+Rain raised a hand. “That’s good, Rina. Stand down. Kettel, go rip out that spear.”
+
+Kettel nodded, dropping the Quickstaff and running for the lizard. It roared and tried to face him, but the spear was slowing it down. Kettel grabbed the shaft of the weapon and tore it free, sending blood and skin flying. The lizard’s health bar dropped slightly. The enchantment of the spear only worked for Bosco, but the sharp blade appeared to be enough on its own.
+
+Rain nodded. 5 of 6. “Good. Kettel, get back. Breggeh, smash.”
+
+Wordlessly, Breggeh moved in. She blocked the lizard’s feeble attempt at a bite and smashed at it with her mace. The first two hits bounced off, but the third connected to its skull with a mighty thunk, knocking off another sliver of health.
+
+“Good,” Rain said. “You got it. That’s enough.”
+
+Breggeh backed away warily as Rain inspected the lizard. That’s 6 of 6. Looks like the thing has about had it. Its health is even dropping slowly, probably from the bleeding. It will die on its own, but… Hell, I’ll throw him a bone. “Arlo, if you would do the honors.”
+
+“It would be my pleasure,” Arlo said, squaring off against the lizard. He ended it quickly, stabbing his blade through its eye and into its brain.
+
+Your party has defeated [Corpulent Gill Monitor], Level 6
+
+Your Contribution: 0%
+
+“Aaaah!” Kettel shouted, falling backward and landing in the mud with a splash. “What the fuck is that!?”
+
+Rain smiled. “That’s your interface. Don’t touch anything. That goes for all of you. No putting points in anything until I get a chance to explain. There’s no taking them back, and I want to make sure you know some things first.”
+
+“Right,” said Breggeh, looking at him. Belatedly, Rain remembered to activate Purify, cleaning off the mud and gore from the party and starting to dissolve the lizard’s corpse.
+
+“Well done,” said Velika, walking over to them. Rain frowned. She was dragging Val through the mud by his ankle. “Hands up if you’re awakened.”
+
+She raised her own hand to demonstrate. Everyone except Rain raised theirs as well, after a few moments of confusion.
+
+Velika laughed, looking at Rain. “Impressive, for a dull. Good work, Rain, you fooled us all.”
+
+Rain sighed, raising his hand as he moved toward her. His attention was back on Val’s condition, now that the excitement was over.
+
+“Here you go, he’s your problem now,” Velika said, dropping Val’s leg unceremoniously. She walked past Rain to address the newly awakened members of her guard. “Good job, all of you. Now let’s get out of this nasty place and get something to eat.”
+
+The man in chains watched as the sun slowly set over Fel Sadanis. He felt its light strengthening him even as it faded, a comforting warmth on his skin. Beloved of the Sun was one of his oldest skills. It reminded him of home.
+
+“Reporting,” a female voice came from his right. The man in chains ignored it, closing his eyes and drinking in the last of the sun’s rays. It was likely the only peace that he would find this day.
+
+“Are the knives back?” came the grating voice of the dominus. A most detestable man, but one with the ear of the potentate. This was his operation. His command.
+
+“Yes, Dominus. There were no incidents. All of the enemy scouts have been eliminated. The camp has not been alerted.”
+
+The dominus chuckled. “It is time we alert them, then. Ready the archers. Full barrage from both contingents on my command.” The dominus paused. “No augmentation. And no artillery. Let’s give the Watch their chance at glory. There will be no need for the mages yet. I want to save them for that barrier of theirs.”
+
+“Yes, Dominus,” The aide said, with the sound of a fist slammed against a breastplate. “Adamant Unbending!”
+
+“Adamant Unbending!” replied the dominus, speaking the words with ardent reverence as he returned the noisy salute.
+
+The aide’s footsteps vanished abruptly as she walked away, smothered by Muffle. The skill was being maintained over the entire detachment, with only a tiny pocket left atop the low hill where they were standing. The orders of the dominus would be transmitted to the rest of the army by the other aides surrounding them using coded signal cards.
+
+“Well?” said the dominus. The man in chains did not respond.
+
+“Lower it,” the dominus commanded, laying a hand on his shoulder.
+
+Finally, the taller man opened his eyes, looking down at the hand with irritation. “It is not necessary. Mirage will not prevent the archers from doing their work.”
+
+The dominus laughed, taking his hand away. “I want them to see us before they die. They will know the futility of resistance before the might of the Adamant Empire!”
+
+The man shook his head, rubbing at his wrists, as was his habit. There were no chains there. Not anymore. The chains were in his mind. “It is an unnecessary risk. We could face retaliation. For all we know, the DKE has hidden a Citizen or two in their midst.”
+
+The dominus snorted. “You are too cautious, old friend. There is only one Citizen here, and she is of no concern. Even two or three of the bastards would be manageable. Lower it. That is an order.”
+
+“I am not your friend,” said the man. “And I do not take orders from you.”
+
+“And yet, you will obey,” said the dominus with a sneer.
+
+It took everything that the man in chains had to stop himself from searing the man’s eyes from his skull. He could have killed him easily, but he would not. The dominus was right. He would obey.
+
+He raised his right hand, waving it through the air. As he did, his Mirage dissolved, the shimmering distortion falling apart. From within, there was little other change, but the Watch camp would suddenly find themselves staring at the unveiled might of the Empire of Adamant. A full legion, five thousand strong, where the Watch’s numbers could be counted in the hundreds.
+
+The dominus signaled to another aide, who held up a green pennant marked with a star. The sounds of the world returned to his ears, Muffle fading away as the mages maintaining it stopped channeling.
+
+“More foolishness,” said the man in chains.
+
+“I want to hear the screams,” the dominus said, a wicked grin on his face. He turned to the aide. “The archers may begin.”
+
+Cries of alarm sounded from the Watch camp as the two contingents of archers raised their bows, but it was too little and too late. The first wave of arrows arced through the air to rain down upon the unfortunates cowering outside the barrier. The archers were well-trained, despite their low levels, and they were not firing blindly. They had the skills to ensure that they never missed. They would be picking their targets, even at this distance. With multiple archers for each member of the Watch, the result would be devastating.
+
+“Again,” said the dominus as the cries of alarm were replaced with those of death and terror.
+
+Another volley of arrows flew through the air. Scattered magical barriers had appeared in the Watch’s camp, and bolts of magic and arrows of their own started flying in the direction of the army.
+
+The man in chains smiled, sadly. Their defiance was admirable. Futile, but admirable all the same. The Empire could not be defeated, and yet they tried, knowing full-well of their own impending death. He’d been like them, once. He’d believed that by fighting back, he could make some sort of difference. Now, even that forlorn hope had died.
+
+Not a single spell or projectile reached the army. They were destroyed in midair, countered by the artillery detachment. The zealous fools were showing off, sniping the enemy missiles from the sky with Firebolts instead of letting them bounce harmlessly from the barriers.
+
+The archers loosed once more, the arrows colliding with each other in the air as they converged on the scattered pockets of survivors. The Watch was doing surprisingly well. They were rallying around the few remaining sentinels, cowering behind shields, both magical and mundane.
+
+It would not save them. It was only a matter of time.
+
+“Enough of this,” said the man in chains, raising his hand. “They have earned a clean end.”
+
+The dominus chuckled. “Fine, go ahead.” He slammed his fist to his chest. “Adamant Unbending!”
+
+The man in chains nodded. He spoke in a somber voice. “Adamant Unbending.”
+
+A blinding beam of light shot from his hand, spreading until it was wider than a man was tall. It instantaneously drew a line between his palm and the Watch’s camp, turning twilight into day. He moved his hand slowly, sliding the other end of the beam across the arrow-strewn remains of the Watch’s defenses. When he lowered it, there was nothing left but ashes and a gigantic furrow carved into the ground.
+
+“Marvelous,” said the dominus. “I love it when you do that.”
+
+The man’s mouth hardened into a line. He turned away from the devastation and walked slowly down the hill. Unfortunately, even his power was not enough. Not against Fecht. Some things were absolute.

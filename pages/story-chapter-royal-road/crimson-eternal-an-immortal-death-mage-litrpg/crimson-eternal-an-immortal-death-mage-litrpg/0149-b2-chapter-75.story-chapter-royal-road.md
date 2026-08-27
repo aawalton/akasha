@@ -1,0 +1,131 @@
+---
+id: fa01f545-d9ee-50e2-82b0-a52a7011baa8
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 75"
+slug: 0149-b2-chapter-75
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 149
+ownLength: 1428
+unit: words
+ownProgress: 1428
+publishedAt: 2024-04-27
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1613524/b2-chapter-75"
+royalRoadId: "1613524"
+markedReadAt: "2026-06-29T19:10:47.066Z"
+---
+
+The Eternal Dynasty Embassy on Arian
+
+Shirogane swirls around his glass of wine inside of his office, briefly wondering what he’ll be doing today. Since it’s not a work day, and Aria hasn’t contacted him in at least a few days. Not since she told him and Ake about the poison in the Ninth Tier.
+
+Makes him wonder what she’s up to. But when he last tried calling, she wouldn’t pick up.
+
+At the end of the day though, she can’t die. So she’s probably fine.
+
+Shirogane wouldn’t even be surprised if the girl was having fun down there somehow.
+
+He’s found her to be a rather fun traveling companion over the decades they’ve traveled together. To the point that he’s genuinely missing her in this time that they’ve been apart.
+
+The man smiles slightly as he remembers how they originally were together when he first became her contracted partner with the Dynasty.
+
+All the times he was surprised by her rather self-sacrificial tactics, and how he slowly got used to using them himself. Or making plans for her to use them herself.
+
+Then there were the times the two of them would just play games together. Or watch TV, which he had to show her some shows for since her knowledge on the subject was rather barren.
+
+At this point Shirogane honestly can’t see his life without her. Even though they haven’t spent much time actually trying to get to know each other.
+
+Aria because she doesn’t want to get to know others. Not when she’ll outlive them in the end. And him because he wants to honor that wish and not hurt her.
+
+But the time he’s spent with her, even if he’s had his emotions disabled for half of it, has been some of the best years in his life.
+
+A smirk stretches across his lips as he thinks of all the ridiculous stunts she pulls and how everyone they meet reacts to them.
+
+Never gets old.
+
+He continues to drink his wine in peaceful silence for a while before a hologram appears in front of him startling him out of his chair at the sight of the White Emperor, Shirou Amatsuraki. So Shirogane quickly scrambles to a kneeling position and declares, “What is it you require of me, Your Majesty?”
+
+His Emperor simply ignores the indecorum he had just shown as he declares, “Pestilence’s latest pet project has evolved on the planet Vesta and is beginning to show signs of infecting a world connected to Arian. Make sure you inform the Kahuna of this right away.”
+
+Then the hologram vanishes again, leaving Shirogane feeling slightly disappointed that his vacation time was ruined so abruptly. But he quickly goes about calling Ake and giving her the news, seemingly almost giving her a heart attack in the process.
+
+It doesn’t stop her from doing her job as well though as – after her initial brief stupor – she sets off preparing to deal with the problem, leaving the call after promising to give the Eternal Dynasty a reward for their intel.
+
+Not that Shirogane particularly cares about the reward since it’ll be under the Emperor’s own contribution and not his own. It wasn’t his intel after all.
+
+The Silver Merchant leans back in his chair for a moment, briefly considering the consequences of what may come about.
+
+Not only would the plague on Vesta cause major issues if it arrived in Arian, possibly spreading further to Atlantis, then Luk’tar, and then Eternus, but it may very well bring a much more dangerous tragedy. Because where one of Pestilence’s pet projects is, he is often soon to follow. Just to watch it play out and take notes.
+
+Which means it’s all the more important that they get Aria out of the center of the planet.
+
+So Shirogane quickly gets to work ordering some more expensive explosives for Aria to use down there. Including a few nukes. Some of which he’s putting on his own tab and some he’s planning to put on Arian’s tab after convincing them of why they need them.
+
+A process that shouldn’t be too hard to do since they’re not stupid.
+
+Pestilence will most likely quickly lose interest in the pet project if he runs into Aria. But he won’t go out of his way to run into her.
+
+It’s just not in his character to abandon a project without another directly in front of him. And he would never give up the chance to test some poisons on a true immortal from what Shirogane knows of the man on the Universal Feed.
+
+He tries to call Aria again, only for her to not pick up. So he tries it again without any result.
+
+Is she hanging from another cocoon again? She better not be.
+
+Shirogane feels slightly annoyed by the thought of her just hanging around while they’re having this crisis. But he also knows it’s not likely to be her fault.
+
+So he moves on to figuring out how to convince Ake of the necessity of buying nukes for the Horseman of the Apocalypse.
+
+Because there’s no way that could go wrong.
+
+But not before sending a little gift her way.
+
+Aria
+
+This-
+
+My mind goes blank as another wasp eats my brain
+
+-is-
+
+Once again goes blank.
+
+-annoying.
+
+Right before another wasp sticks that gross thing into my head this time though, I notice some sort of orb appearing next to me in the usual teleport spell from the phone. And the thing distracts the wasps for a moment, allowing me the chance to blink and stare at it for a moment.
+
+Then I decide ‘why not’ and reach for it before pressing the large and obvious button on the top.
+
+Only for everything to go white as a loud roar echoes out.
+
+And I black out again.
+
+When I come to once more, I find myself in, uh, a large crater. A crater so large that it’s almost as big as an island outside the Hive.
+
+Did he send me a nuke? And more importantly, am I going to have to pay for that? Because nukes aren’t cheap.
+
+On another note, looking down around the bottom of the crater shocks the shock right out of me. Because the wasps. Aren’t. Dead. Or not all of them.
+
+The ones closest to the blast all died, even if they weren’t erased as I expected. But the ones further away are still twitching and trying to move. Clearly not dead.
+
+They are all stunned though. Which makes me not waste this chance as I quickly rush to my feet and begin running like hell through the rather large, open space towards the direction the poisonous mist is flowing from.
+
+Because I am not gonna wait for them all to recover and take turns eating my brain.
+
+I run for my life, meanwhile some of the wasps begin to finally get back up. But they’re still too dazed to move around much, much less sense where I am. So I manage to make it back into the last dredges of the Ninth Tier before rushing through, past the wasps flying out of the wide open parts of the nest, and into the Tenth Tier.
+
+To my surprise, the Tenth Tier starts with some odd wall thing. Just one large wall going around in an enormous circle. And for some reason the couple wasps that had begun trying to chase me from the ones who’d seen me entering this and weren’t stunned by the nuke stop right outside of the Tenth Tier. As if something’s keeping them from entering.
+
+Then I finally notice that the poisonous mist is a lot thicker here.
+
+Makes me wonder if even those wasps are susceptible to the poison in the center of the Hive.
+
+Either way, I proceed to move around the wall, searching for a way in.
+
+And when I finally find the way in after walking around the wall for an entire hour, I get a rather large urge to turn around and walk away.
+
+Because beyond the wall is what looks like a large and simple forest. One with a large wasp nest high above the ground hanging from the ceiling with some fancy looking purple and blue wasps moving in and out of it.
+
+But that’s not what gives me goosebumps.
+
+What has me feeling rather frightened is the three-meter-tall wasp flying in place right in front of it emitting that gray mist from its body beneath its buzzing wings.
+
+Well, found the source.

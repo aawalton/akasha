@@ -1,0 +1,133 @@
+---
+id: ba4735fc-c207-586e-a0b6-489b998f327e
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 48"
+slug: 0119-b2-chapter-48
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 119
+ownLength: 1545
+unit: words
+ownProgress: 1545
+publishedAt: 2024-03-04
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1541560/b2-chapter-48"
+royalRoadId: "1541560"
+markedReadAt: "2026-06-29T19:10:00.097Z"
+---
+
+Vortel
+
+Major General Leonardo Striker lets out a sigh after crossing back through the Gate into Vortel from the Eternal Dynasty, having once again been the officer sent to check on the state of affairs of the universe. To check the Universal Feed.
+
+And just like the previous times he’s done this job, he feels a little sad as he walks across the desert of the land that used to be Arteria, heading towards the nearest fortress. Sad that he never saw Aria during the trip.
+
+Ever since he and the others heard the news about Death being out in the universe, making a name for herself, they were all beside themselves with joy. All incredibly happy that their old comrade was still alright and living well.
+
+Even if they were surprised by how low her level is.
+
+Considering that Leonardo’s level right now is over level forty.
+
+At the same time though, Leonardo feels rushed to level. Like he has little to no choice but to do it as quickly as possible.
+
+After all, he’s only level forty-six, so he needs another fifty-six levels until his lifespan doubles. And until then, he’ll only have five or six more decades to live. What with him being in his mid to late forties now.
+
+But putting his own age aside, he’s more worried about Rogers, who is in his early fifties at a level forty-five.
+
+Leonardo’s Class is known as the Kinetic Hunter, having clearly taken after his most common use of his ability. How he often uses his ability to directly put kinetic energy into his arrows to fire them.
+
+And his purpose is to use his ability to fire arrows like that while hunting. The amount of people he fights, kills, or captures doesn’t matter, nor does any attacks he makes that don’t involve using his ability. And whether or not he actually kills the enemy doesn’t matter either.
+
+All that matters is his use of his ability against enemies in that particular way.
+
+But the issue with his ability is that it’s a ranged one. And up until the System, he’d always used it for sniping from far distances.
+
+So he’s been forced to adjust his use of his ability, putting in less kinetic energy in each shot so that he can speed up his attacks, making attacking from closer distances more viable.
+
+He’s not the only one forced to do things like this though as plenty of the people he knows have had to alter the way they’ve done things to keep leveling in mind. Especially the older people who have less time to reach level one hundred.
+
+Some of the older officers in the military likely won’t even reach level one hundred. A couple of the generals for example, Leonardo knows are still only in their level thirties despite being over sixty or seventy years old.
+
+Alaric Ashfall, the Sixth General, for example, is already in his early seventies and will not have the lifespan left to reach level 100.
+
+It’s made the elderly rather upset, with many of them growing obsessive about raising their level. Especially the ones getting closer and closer to the end of their lives as they attempt to extend what they previously believed to be the end.
+
+Leonardo frowns as he glances to the side and finds a jeep heading his way, only for the frown to vanish when he sees his team members in the vehicles.
+
+The members of the Predator Division.
+
+And once the jeep arrives, each of them gets out of the vehicle, all looking older than the last time they saw Aria by a large margin.
+
+“Did you hear anything?” Lieutenant Colonel Adrian Snow asks with a frown of his own on his face. One that’s been ever present since their youngest left the team to head to a new world.
+
+Leonardo silently shakes his head.
+
+“Damnit…” Snow mutters, sounding just as upset as before.
+
+The team has been trying to track down Aria for years now, but all they’ve managed to do is lock down that she’s most likely been on Luk’tar somewhere. Which isn’t much more than what the rest of the universe knows. And even then, the last confirmed and official sighting of Death was several years ago. Back when the war she had participated in came to a close.
+
+When she met War.
+
+Leonardo has to admit, he was shocked when he first heard she was the Horseman of the Apocalypse. But since their world wasn’t very familiar with what that meant at the time, it didn’t change anything at all. They didn’t know what the Horsemen really were yet after all.
+
+Now that he’s heard some of the horror stories about the three Horsemen other than Aria though? Now he just has trouble seeing that young woman being anything like them.
+
+“I hope she’s okay…” Colonel Hannah Harvey mutters, making Colonel Frank Rogers nod in agreement, still just as mute as he was a decade ago.
+
+“She’s immortal,” Lieutenant Colonel Jason Vargas says with his arms crossed and little to no expression on his face. “I’d be more worried about whoever tries to harm her than her herself.”
+
+That makes the corner of Leonardo’s lips quirt upwards slightly as he looks at the current youngest officer of their division.
+
+He was surprised when Vargas offered a way to help her even from Vortel. Surprised that he would be proactive in trying to help her.
+
+Leonardo knows very well that Vargas, even if he did seem to get along with her at the end, never particularly grew attached with any of them. So the fact that he’s helping was a big surprise to everyone.
+
+Especially when they learned of how he planned to help.
+
+None of them realized Vargas’s ability could even alter memories, even if it’s apparently incredibly difficult for him to do. To the point that he can only really alter his own memories.
+
+Which is just what he did. He altered his own memories so that nothing he said would be a lie. Both in the eyes of the truthseekers and the eyes of the soul pact.
+
+Although it helps that no one else knew about this power of his either, including spies.
+
+Leonardo sighs once again – which is becoming a habit nowadays – before he calls out to the group, “Alright, let’s head out. No use idling here.”
+
+He has a report to turn in after all, even if they didn’t get any news on Aria. Not that he was planning on telling them if he did.
+
+News that the Grand Roan Empire is on the move again, making contact with an analyzer.
+
+Just what is that emperor up to now…
+
+Somewhere in the Universe
+
+Inside of a dark chamber filled with nothing but black mist, two people appear in bright lights, briefly shining through the mist before the black and purple lights fade again. Revealing a man and a woman, both cloaked in different elements. One with a cloak of purple light, the other a cloak of black flames.
+
+Then a wave of shadows envelops the center of the room, and another figure appears. A man wearing a cloak made purely of shadows that are billowing in the non-existent wind around them. With a level so high that even the two in the room currently cannot see what it is. However, both of them are certain that it would be a black number if they could see it.
+
+“Council Leader, preparations are being made across the ten Beta Tier planets now,” the woman whose face is covered in black flames states, her words reverberating softly through the chamber. “They will be complete in five years’ time.”
+
+The other man in the room begins to speak as well, his face equally covered by purple light, “We have a small problem on the planet known as Vesta.”
+
+Both the woman and the man cloaked in shadows focus on him.
+
+“Problem?” the man cloaked in shadows asks, his voice barely distinguishable as it fills the room. A voice most people would find themselves forgetting within moments after hearing, unable to remember it again if they tried.
+
+“Pestilence, Council Leader,” the man radiating purple light answers as simply as possible. “Pestilence has shown himself once again, and his target this time is the Beta Tier world known as Vesta.”
+
+A brief pause fills the room before the man in shadows asks, “Time?”
+
+“We estimate the world will die in two years,” the man with purple light responds while lowering his head a little.
+
+Then, without a hint of hesitation, the man cloaked in shadows states in his usual short speech, “Leave it. Pick another.”
+
+And mere moments later, he vanishes in a wave of shadows.
+
+Both of the council members turn to look at each other.
+
+“Will things proceed smoothly?” the woman asks, her voice more confident now that their leader is gone.
+
+The man answers with a nod, “I already have another world in mind.”
+
+“Very well,” she says before vanishing in a plume of black flames.
+
+And after a brief glance at where their leader was standing, the man leaves as well in a flash of purple light.
+
+Leaving the chamber empty once more.

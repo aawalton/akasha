@@ -1,0 +1,157 @@
+---
+id: c9a79df2-dee4-5332-8353-408276e05fa0
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 9"
+slug: 0166-b3-chapter-9
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 166
+ownLength: 1537
+unit: words
+ownProgress: 1537
+publishedAt: 2024-06-03
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1662364/b3-chapter-9"
+royalRoadId: "1662364"
+markedReadAt: "2026-06-29T19:11:21.817Z"
+---
+
+Aria
+
+Once we arrive at the capital, we quickly begin to make our way out of the train and back onto the street. Then we head straight for the Gate to Eternus, which doesn’t take too long to do as it’s already quite close to the train.
+
+And since Shirogane is a high ranking official from the Eternal Dynasty, we pass through the checkpoint in mere moments. The moment he shows his face we’re waved through, no questions asked.
+
+Although his level and probably something else he must be carrying most likely influenced that too. Some sort of key card or verification thing on his person.
+
+Don’t know. Also don’t really care.
+
+Either way, after passing through the Gate, I find myself once more staring up at the skies of Eternus. For the first time in decades.
+
+I take in the fresh smelling air of Eternus before breathing out again as Shirogane brings us past the checkpoint here too.
+
+The city this Gate led to is not the capital of Eternus, seeing as that was only a sub-world of the Rex Dynasty we just came through. So we simply use a teleporter to teleport over to the capital city instead of going by ship or plane. Something we can only do because of Shirogane’s influence.
+
+Another benefit to having the guy following me around for ages.
+
+To my surprise, when we arrive right outside of the teleportation center in the capital city, we’re faced with several fancy and rather long black hover cars. Like hover limousines. And along with them are half a dozen men wearing black suits and dark sunglasses, along with more men in the cars.
+
+One of the men next to the car pulled directly up parallel to the sidewalk bows ever so slightly as he says, “We have been awaiting your arrival, Lady Death, Silver Merchant, and friend. Please join us to meet with His Majesty.”
+
+Oh. Right.
+
+The White Emperor’s foresight ability.
+
+Interesting thing to note is that I’ve barely seen anyone with a foresight related ability in all of my travels. It’s just him.
+
+Just Shirou.
+
+Rather surprising.
+
+Anyways, both Hannah and I turn to look at Shirogane, just to find him climbing into the vehicle himself. So we follow directly after into the vehicle and the driver sets us off into the air and towards Shirou’s place.
+
+Let’s see what he has to say.
+
+Not even half an hour later, I find myself staring blankly at a screen in front of me. One in the middle of Shirou’s office showing a bunch of torn apart massive trees with an enormous army of people. All of whom are wearing sets of red and gray armor.
+
+Meanwhile at the center of the lot is a man I recognize from my time on Luk’tar personally.
+
+The man has long black hair with scarlet highlights and glowing scarlet eyes that light up the night all around him as he sits atop a large black and scarlet horse. All while wearing that same set of scarlet and black metal armor that he was wearing when I saw him.
+
+Except he currently has a crazed look on his face. One mixed with joy, exhilaration, excitement, and bloodlust.
+
+War, otherwise known as Lucius Octavio. And this time around he is waging war.
+
+All around him and his forces is just devastation for as far as the eye can see. Torn up massive trees, trees that are left as just mere stumps with the rest of the trees nowhere to be found, and even a single Grand Tree somewhere off in the distance that had fallen to the ground.
+
+And amidst the devastation, the forces of Luk’tar can be seen valiantly fighting out in the open. Which makes me wonder why they aren’t in any fortresses right now.
+
+I also spot someone who I recognize as the Clan Leader of the Gallagher Clan standing amidst War’s forces, clearly marking which side of the war he is on.
+
+“The Red Horseman of the Apocalypse has already taken full control over the majority of Luk’tar, leaving only a single Clan left standing,” Shirou says, not holding back in the slightest after a few seconds of us staring at the screen passes. “Every one of the Clan Leaders other than the Leaders of the Gallagher Clan and the Byrne Clan have challenged him to a duel and lost after being given an ultimatum. And the Byrne Clan is currently evacuating to Eternus as we speak, with only the bare minimum forces left behind to hold War off for as long as possible.”
+
+Holy shit.
+
+Guess I should’ve expected this.
+
+No one has ever beaten War when he declared war on a nation before. Not a single power.
+
+Of course, that’s partially because he’s never declared war on one of the Nine Grands. But still.
+
+And the only thing the Eternal Dynasty can do to maintain its neutrality is take in the Byrne Clan, they would never directly participate in the war. Especially since all they have to do is take in the Byrne Clan and War wouldn’t press them on the issue.
+
+In fact, War would probably not even think twice about it and instead move on to the next war on his list.
+
+I grit my teeth at the sight of the slaughter – because that’s the only thing I can really call this – going on within the screen. Slaughter of the forces left behind by the Byrne Clan.
+
+Meanwhile Lucius himself doesn’t even bat a single eye as he cuts each and every one of the lukians down from atop his horse.
+
+Truly deserves the title of a Harbinger of the Apocalypse.
+
+I turn my focus onto Shirou before asking, “Is Sean here on Eternus?”
+
+He shakes his head and says, “Not yet. He’s planning on holding the line until all of the weaker combatants enter Eternus.”
+
+Right. Because War doesn’t actually attack civilians. Only soldiers.
+
+After all, him attacking civilians doesn’t count as him waging war. So there’s no point in his eyes, no doubt.
+
+Not to mention that they’re weak. And he’s the type of person who wants to fight nothing but the strong.
+
+“Tell him hello and give him my condolences when you speak with him next,” I tell Shirou with a nod.
+
+He nods back before asking, “Not staying to see him?”
+
+I shake my head. “No. I need to see my friend before he passes.”
+
+Shirou meets my eyes for several seconds. Then he eventually mutters a brief, “I see.”
+
+And silence fills the room.
+
+Silence that’s only broken by the sounds of war occurring within the screen.
+
+But even that fades when the screen itself vanishes.
+
+The silence after that, however, doesn’t last long as a new screen soon replaces it. One that has me frowning.
+
+“Isn’t that…” I mutter at the sight of the screen before glancing at Shirou. “Roan?”
+
+He nods, making me look back at the screen again.
+
+Roan. The home world of the Grand Roan Empire.
+
+And also the location of another war right about now.
+
+Who is…
+
+My eyes widen at the sight of the banners held by the army dressed all in black armor covering every inch of their skin to the point of making it impossible to tell even so much as their gender apart.
+
+“War is not the only Horseman active right now,” Shirou says as he flips his coin again. “Famine has begun to invade the Grand Roan Empire. So now is the perfect time for you to travel to Vortel as no one will be watching.”
+
+He catches the coin again before revealing it to show that it landed on heads. Then he tilts his own head slightly, his glowing stark white and pupilless eyes staring directly into my glowing crimson ones – I think – as he says, “But be careful.”
+
+That surprises me.
+
+What do I need to be careful of?
+
+The man looks at the screen again, and I follow his gaze too to find a man wearing pitch black armor with rather eerie eyes. Ones that have black instead of the normal white, with a faint glowing white light in the center of the eyes. Meanwhile he has short hair and the look on his face genuinely has goosebumps going down my spine at just how psychotic he looks.
+
+Twisted.
+
+Insane.
+
+And… a familiar black energy is moving towards him from every last person on the battlefield, both friend and foe. With each one of them looking slightly tired from it.
+
+Right. His skill to drain a percentage of the energy – generally magical – of every last being around him.
+
+He must be using it right now.
+
+As for the soldiers under his command… I can’t tell what’s going on with them. They all look stiff as a board, terrified, and not actually as powerful as their intimidating armor makes them out to be.
+
+Probably all starving right now.
+
+The screen fades again, taking with it the screams of that battlefield.
+
+I glance at Shirou before looking at Hannah and Shirogane.
+
+That’s… Famine might just be the most messed up of the Horsemen.
+
+And that’s saying something.

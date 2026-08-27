@@ -1,0 +1,205 @@
+---
+id: 6cfad366-a2a3-54e6-8d53-78a8ac773f0c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 51"
+slug: 0052-chapter-51
+partOf: death-healer
+position: 52
+ownLength: 2705
+unit: words
+publishedAt: 2025-07-29
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2476672/chapter-51"
+royalRoadId: "2476672"
+---
+
+The silence in the camp felt like the world’s breath was held.
+
+Firelight carved deep hollows in Caesar’s face, and his men stood ringed around the fire, as if waiting for a blood rite.
+
+The only sounds came from the fire crackling and the wind shifting ash.
+
+Caesar Iulius stood by the flames and watched as Lily knelt by Sabinus’s body.
+
+Lily stared at Sabinus’s still form while her throat stayed painfully dry and her pulse hammered in her neck.
+
+She looked at Caesar, who waited for her decision with his arms folded and his eyes unreadable, and she asked.
+
+“You want me to kill him? That’s the price?”
+
+He nodded while he neither smiled nor frowned, and his voice sounded even and empty when he said.
+
+“That’s the world’s price. If you want to break free, then you must shed the old ties. Show me that you’re not just another noble who cannot let go.”
+
+Lily set her hand on her belt, and she wrapped her fingers around the dagger’s hilt. Every gaze in the camp bore into her because no one moved and no one breathed while she held the blade, and she knew that if she refused or hesitated, both she and Sabinus would die.
+
+She saw Caesar’s face in the firelight, and she saw that he would not bend, no matter what she pleaded.
+
+Sabinus stirred while Lily’s fingers tightened around the dagger. He blinked, shifting against the cold earth, and groaned when he tried to sit up. His eyes found Lily kneeling over him with the blade drawn and her knuckles white around the hilt. He tried to speak, but confusion and the ache from Caesar’s earlier blow made his voice crack.
+
+“Lily—what are you doing?” His voice sounded hoarse.
+
+Caesar stepped forward, his boots grinding ash and dirt, and his shadow flickered over the fire.
+
+“She’s making a choice,” he said, not looking at Sabinus but at Lily. “The only one that matters. You die, or you both die. Simple.”
+
+Sabinus’s breath caught, and he looked from Lily to the ring of bandits, his eyes wild and desperate. He made a move to scramble away, but two of Caesar’s men seized him and slammed him down on his back. He bucked, fighting, but one planted a knee on his chest and the other pinned his arms so hard that Sabinus’s knuckles turned white.
+
+He looked up at Lily with pure horror drawn on his face.
+
+“Don’t do this!” Sabinus shouted. “Lily, please—don’t listen to him. I am a noble! We both are! They can just ask for a ransom! Don’t—”
+
+Caesar did not wait for more protests. He reached down and seized Sabinus by the throat, silencing him with a single, iron grip.
+
+Sabinus’s words died in a strangled gasp, his hands clawing at Caesar’s wrist, but Caesar did not even glance at him. He squeezed until Sabinus’s face went red and his eyes bulged with panic.
+
+The bandits around the fire grinned with wolfish hunger, baring their teeth in the glow, each one eager for blood and not caring whose it would be.
+
+Lily felt the weight of every stare pressing on her shoulders. Her hand clenched so tightly around the dagger that pain shot through her palm, but she refused to loosen her grip. Her thoughts ran wild—she saw herself plunging the blade and felt the hot spray of blood, saw Sabinus’s body arch and shudder, saw the hatred and betrayal in his gaze.
+
+She remembered every hour spent with him.
+
+If she killed him, she would win her freedom, but she would lose something she could never replace. If she did nothing, they would both die, forgotten in the woods while Caesar’s brutes would play with their dried bones for sport.
+
+A tide of fear threatened to choke her. For a heartbeat she wanted to beg, to plead with Caesar, to promise anything if he would just let them go. But she saw the dead set of his eyes and the greedy faces of the men around the fire, and she knew there would be no mercy. The world had never offered her mercy, and she would get none here.
+
+Her chest felt hollow as she stared at the dagger. She forced herself to breathe, slow and deep, and she watched the blade glimmer in the firelight.
+
+She looked at Sabinus, who fought in Caesar’s grip, and she saw his panic. She forced herself to smile, and the expression cut across her fear like a blade. She reached out and touched his arm, steadying herself so he could see the calm in her eyes.
+
+“Sabinus. Trust me,” she said. Her voice carried through the firelit hush. “Trust me.”
+
+A low laugh rumbled out from the bandits. One leaned forward, grinning so hard his lips peeled back from his teeth. “Trust her? She’ll gut you like a pig.”
+
+Sabinus thrashed under Caesar’s hand, his face turning scarlet as he gasped for air. When Caesar finally loosened his grip enough for Sabinus to speak, the words came out broken and raw with fury.
+
+“Trust you?” Sabinus spat blood onto the dirt. “You’re a snake, Lily. You’re a traitor.” He tried to buck the men off his arms, but they held him down as if he were a child. “This is how you repay me? After everything I did for you? I saved your life! I trained you!”
+
+His voice cracked and sharpened as he bared his teeth at her.
+
+“You bitch. You lying bitch. You begged me to protect you. You begged me to get you out of that villa, and I risked everything—my father’s name, my honor, my life. I stood up for you. I stood by you when nobody else did. And this is what I get? This is how you thank me?”
+
+He twisted again, eyes burning as he met her gaze. “Just do it. Go ahead. Prove you’re nothing but another noble whore who’ll sell out anyone the moment you get scared.”
+
+The firelight flickered over his face as he strained to free his arms, and the bandits laughed, goading her on. “Stab him, girl! Gut him! He’s all talk now.”
+
+Sabinus kept spitting venom, choking on anger and betrayal. “You want to be a Champion, Lily? Go on—take it. You won’t be the first to kill a friend for glory. That’s what our kind does, isn’t it? That’s what they teach us. Just get it over with, you coward. If you’re going to be a monster, then be one.”
+
+He glared up at her, shaking with rage and disgust, and Lily felt every word cut into her. His hatred stung more than any threat from Caesar or his wolves, but she did not look away. She tightened her grip on the dagger and forced herself to breathe while Sabinus cursed her name and the crowd watched with eager, shining eyes.
+
+Lily listened to Sabinus’s curses as if they came from a place far away. His voice was thick with hatred and pain, but her mind had already crossed the last threshold.
+
+She knelt in the dirt by her friend, surrounded by a circle of men who would murder for sport and follow a warlord who’d abandoned every ideal she’d grown up with.
+
+The faces that ringed the fire were hungry, animal. Some bandits pressed closer, expecting blood and maybe hoping to see her fall—hoping to watch the Gens Claudia break itself on this ritual. For them, it was a kind of entertainment, a rite by which an outsider was made a wolf among wolves.
+
+Lily saw it for what it was: a test not only of her will, but of her very right to survive in this world. If she failed, she would die and the story would end here, swallowed by the woods and forgotten. If she acted, she risked losing what little remained of her own soul.
+
+Caesar will kill us. I don’t even know what these bandits do here. But he made it clear. I either kill Sabinus or forfeit my life as well—and my dreams.
+
+She told herself that she would not flinch, that she would not turn away, and as her heart hammered against her ribs, she realized she knew what to do. She did not believe it—not really. The certainty was the only thing keeping her hand steady.
+
+There was only this single, impossible path.
+
+She tightened her grip on the dagger and pressed the point to Sabinus’s chest, just above his beating heart.
+
+She ignored his thrashing, the desperate heaving of his chest, and the spit that flecked his lips as he called her every name in the world.
+
+She plunged the blade straight down with both hands, driving it between the ribs in a clean, clinical motion. She felt the resistance give way, and the steel bit deep until she felt the thudding pulse shudder against her palm. Blood fountained in a hot rush, drenching her hands and spattering her face. Sabinus arched, mouth frozen in a silent howl as all the air in his lungs rushed out.
+
+The bandits erupted, some laughing, some howling, a savage cheer surging through the circle. In that instant, Lily saw how they believed she had crossed to their side, that she had become one of them in blood and deed.
+
+It was as if she had become a monster to them—one of their own. Their howls were not just for death, but for transformation. In the world outside, power came dressed in banners and crests, but here it was only violence and survival.
+
+She pulled the dagger free, feeling the blade scrape bone, and watched as Sabinus’s life spilled over her knees.
+
+His chest heaved once, and the firelight caught the fear in his eyes as the world began drifting away.
+
+The color left his face.
+
+The light left his gaze.
+
+His heart gave a last flutter and then stilled.
+
+Lily did not hesitate.
+
+She immediately activated [Mana Sense].
+
+I’m not going to become one of these brutes.
+
+She pressed her hands against the wound, feeling the blood pulse weakly beneath her palms as Sabinus’s body began to convulse in shock.
+
+Beneath her fingers, she felt the torn edge of the left ventricle shuddering with each faint, irregular contraction. The wound was a ragged slit through the myocardium, gushing arterial blood in waves that soaked the surrounding pericardium and spilled out over the fractured ribs.
+
+She felt how the pericardial sac had started to balloon with blood, forming a deadly tamponade that would squeeze the heart still unless relieved.
+
+She sensed the torn intercostal arteries spraying blood into the pleural space, flooding the left lung, collapsing the alveoli and drowning the bronchi with each spasm.
+
+She summoned Mana with a force she had never known, drawing it out of every nerve, every foreign memory, every hidden reservoir of power.
+
+She flooded his chest with Light Magic, letting it burn so brightly that her bones ached with the strain.
+
+She let the Mana seep into the split myocardium, feeling every ruptured myofibril as it failed to contract, every ischemic patch turning from a desperate pink to the flat, lifeless gray of oxygen starvation.
+
+She could see the clotted ends of the severed coronary arteries, some beginning to spasm shut, others leaking plasma and platelets into the wound.
+
+The pleural space filled with bloody effusion, compressing the lung, while torn alveolar sacs gaped open, unable to draw breath.
+
+She wove the Mana into stents, forcing the jagged edges of the wound apart so she could reach the ragged heart and torn vessels. She recalled diagrams—ventricles, atria, the ascending aorta—every detail that, in these alien memories, she had ever read, every textbook illustration, every voice from that other world that had whispered about bypass grafts and emergency thoracotomies and ECMO circuits.
+
+In her mind, she visualized the cell layers: the squamous endothelial lining of the aorta, the elastic lamina, the spiral smooth muscle bands. She pictured the conduction system—Sinoatrial node, Atrioventricular node, Purkinje fibers—each one quivering in a dying rhythm.
+
+As she stabilized the heart wall with Mana, she watched red blood cells pooling between the muscle fibers and lymph leaking from ruptured capillaries, seeding inflammation.
+
+She built a scaffold of Light Magic inside his chest, pushing through the torn myocardium, creating a crude extracorporeal circuit—an artificial heart, a bridge of Mana to keep his blood moving when his own body had failed.
+
+She threaded temporary grafts through the shredded arteries, using them as vascular shunts to shunt blood away from the worst tears and maintain perfusion.
+
+She forced Mana into the collapsed left lung, opening the alveoli, clearing the froth of plasma and blood that clung to the inner lining.
+
+She saw the surfactant begin to return under her touch, the pale membranes reinflating. She felt the thick clumps of platelets as they tried to jam the wound closed, sensed how the clotting cascade had already started, fibrin netting tying the wound together in a patchwork.
+
+Even while using [Mana Sense] to visualize everything perfectly and even considering her high-level [Mana Shaping], her mind screamed with the strain. Still, she refused to break, working by memory, instinct, and sheer terror.
+
+Sabinus’s body seized and shuddered. His lips went blue. The camp was silent now. Every bandit stared, mouths open, as the Mana pouring from Lily became visible—a column of white-gold light so dense it seemed to burn the night. The air hummed and trembled, and even Caesar stepped back.
+
+What Lily was doing was beyond their wildest imagination.
+
+They knew the boy from the Gens Cornelia was around Level 50. But that meant that Lily, an unclassed, barely twelve-year-old, was doing the unthinkable.
+
+If healing Sabinus’s forearm wound had been beyond stunning for her, this was a completely different ballpark. At Sabinus’s Level, he had so much Mana and raw energy making up his body that knitting it together required a whole other power output from Lily. Not even a normal [Healer] at Sabinus’s Level would have been able to heal this kind of grievous wound.
+
+A ruptured heart? There were few non-mortal wounds that even came close to that level of damage.
+
+Lily pressed harder, working deeper, using [Life Flow] to knit the muscle back together, forcing cells to divide and fuse, sealing the rupture. She used Light Mana to keep the blood from clotting, to prevent the shredded valves from failing, to create a mock circulation when nothing natural remained.
+
+She could see the edges of the mitral valve flapping loosely, nearly torn from their anchor points, and she fused the torn chordae tendineae, restoring the valve's function with filaments of Light that mimicked the tensile strength of collagen.
+
+In the lungs, she drove out the accumulating fluid, coaxed the lining to regenerate, and patched the shredded visceral pleura with a living mesh of Mana.
+
+Please, Sabinus, please, don’t die!
+
+Her whole body trembled as she forced Mana into the dying body, sweat and tears mixing on her face.
+
+Sabinus’s heart began to twitch. She latched onto the rhythm, pouring more Mana into the sick muscle, working until the scarred chambers held together long enough to beat.
+
+She watched as oxygen and nutrients once again flowed to the stunned tissue, mitochondria flickering back to life, and the whole cascade of cellular repair reignited.
+
+She temporarily replaced as much of the lost blood with Mana, made it flow through the fake vessels she had crafted. She refused to let go, even as her vision swam with agony and the world grew distant.
+
+Sabinus’s chest rose.
+
+His eyes flickered open.
+
+He coughed, spraying blood and phlegm, and then drew a long, ragged breath.
+
+His heart stuttered, then pounded once, then again, and the blood began to flow in the right direction, through arteries she had woven from nothing but magic and memory.
+
+Lily gasped, her whole body shaking.
+
+She did not care about the bandits or the cheers or the jeers.
+
+She pressed her forehead to Sabinus’s chest and wept because she had killed and brought back her friend.
+
+Caesar stared at her, unable to speak.
+
+The bandits gaped, some making warding signs against evil, others falling back in terror.

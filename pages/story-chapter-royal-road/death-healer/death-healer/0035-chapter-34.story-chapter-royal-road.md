@@ -1,0 +1,103 @@
+---
+id: fcd130f2-ef12-5f51-a13c-1b4e0428ee6d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34"
+slug: 0035-chapter-34
+partOf: death-healer
+position: 35
+ownLength: 1137
+unit: words
+publishedAt: 2025-06-15
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2359168/chapter-34"
+royalRoadId: "2359168"
+---
+
+Lily planted her feet in the ground.
+
+She had shed so much blood during the previous week.
+
+How much stronger can Vespera be compared to her sister?
+
+She recognized that Vespera would be an even greater challenge, but she was now confident that she could at least spar with someone who had serious training.
+
+Vespera narrowed her eyes, and Lily observed the subtle shift in her posture. She recalled the time Selena had struck at her abdomen before Lily could even blink. She also remembered the countless breaks and tears she had healed with her Light Magic. She was aware that Vespera had refined her Coniunctionis.
+
+Or so she thought.
+
+The moment Vespera dashed forward, Lily felt a surge of panic because she recognized that her opponent’s opening thrust was far faster than anything Selena had shown.
+
+She’s wearing armor! How can she be this fast?!
+
+She tried to pivot aside while injecting Mana into her body to make her movements faster, and parry the spearhead with her forearm, but she sensed a jolt running through her arm, for her opponent’s blow was accompanied by an abrupt snapping of Mana that whipped the air.
+
+She just used Coniunctionis! She’s much faster at activating it than Selena!
+
+She barely kept her balance because her right foot slipped on the courtyard’s loose gravel, and her shoulder bumped against Vespera’s weapon. She felt her collarbone crack from the impact.
+
+She instantly gritted her teeth and pushed her newly developed healing thread into the wound, for she did not want to lose the fight in one exchange. She looked up in time to see Vespera’s spear glimmer again.
+
+This time, by her temple.
+
+The world suddenly went dark for Lily.
+
+* * *
+
+Lily slipped past the next thrust by rolling forward and unleashing a short punch at Vespera’s ankle. She had succeeded in channeling Coniunctionis through her waist, although she suspected that she had missed her timing because the blow lacked the coordination she had been seeking for days.
+
+The spear-wielding girl sidestepped in a near-blur, and Lily’s fist only grazed the shin plate, which caused a wave of pain to course up her arm.
+
+“I see you trying to weave it all through your body,” Vespera said while she raised her spear. “You’ll break yourself into pieces unless you refine your technique.”
+
+Lily caught her breath because she needed a moment to restore the hairline fracture in her arm. She felt beads of sweat slide down her face, and she summoned fresh mana to flow into her battered muscles.
+
+Vespera lunged again, and Lily threw herself toward the ground because she had to roll under the spear. She heard the metal tip tearing through the air, and she used her left palm to steady herself while she sprang to her feet. She tried to use Coniunctionis in her legs and torso so that she could compensate for her poor positioning, but she felt a terrible wrench in her hip.
+
+Vespera pivoted with a precision that made Lily’s entire plan collapse. Lily had barely righted herself when Vespera’s spear shot toward her shoulder and found its mark, and Lily’s arm hung limp as she lost control of her bicep.
+
+However, unlike her sister, Vespera didn’t stop after this debilitating blow, making Lily’s eyes go wide.
+
+“Wait! I’m too injured!”
+
+“Your enemies wouldn’t stop,” Vespera said harshly, contrasting her angelic looks, planting the tip of her spear in Lily’s thigh.
+
+Lily focused on the Light Magic that she willed to her injured body, although it took several seconds to restore enough muscle control to lift her arm again—by then she had fallen forward, no longer in control of her leg. She cursed her own slow healing, which did not function as fast as she wanted. She sensed Calpurnia watching in silence from the balcony.
+
+“You’ve learned how to push through pain, but you can’t match my speed,” Vespera said, and she pulled her spear back. “You though you had done something by defeating Selena? You thought you could mouth off to Mother in such a way without any consequences?”
+
+Lily could barely breathe as she steadied herself. “Put your spear up,” she growled. “We’re not done.”
+
+She drove herself forward and activated as many threads of Coniunctionis as she could manage without turning her own bones into splinters. She shifted her weight, and she twisted her hips to close the distance with Vespera while her right hand struck at the spear shaft. The earlier tension in Lily’s arm reappeared because her triceps felt as though they might tear, but she completed the motion. She managed to deflect the spearhead a few inches, which opened a small window to attack Vespera’s rib cage.
+
+Vespera exhaled in surprise because Lily’s fist connected, although it only struck armor. Lily did not break through the plates, but she noticed that the impact staggered her opponent briefly. She tried to capitalize on that minor victory by driving her knee upward, but Vespera recovered and pushed Lily’s leg aside with her own. Lily tumbled back, and she realized that she was too slow to raise her guard for the counter. The spear struck her in the stomach, and she coughed up blood while she collapsed to her knees.
+
+She felt her breath falter because her diaphragm seized, and she had to hastily pour more Light Magic into the damage around her solar plexus. She also realized that Vespera could have ended the duel already if she had chosen to thrust again. The woman took a single step backward and leveled the spear tip at Lily’s throat.
+
+“Enough,” Vespera said, although her voice held no gentleness. “This is enough for today.”
+
+Lily looked up and finally saw that the sun had fully set and only the last dregs of light remained.
+
+She felt exhausted.
+
+Vespera was ruthless and the extent of damage she had received had drained her of Mana.
+
+“Ok,” Lily nodded, panting and looking at her torn clothes. “Tomorrow, at dawn.”
+
+* * *
+
+Lily was in her guest room, alone, looking at the ceiling in the soft light of her bedside lamp.
+
+Vespera’s too fast and her spear has too much reach on me. I fight better than her bare-handed, but she’s just too much. I don’t even have time to react and properly use Coniunctionis. I can’t…
+
+“See?” Lily vocalized the word out loud.
+
+Was that, once again, the problem?
+
+I can’t really tell when she’s going to attack. I can barely see her telegraphing anything. Selena was good, but I could see her muscles move.
+
+So, it all boiled down to a problem that Lily had already faced more than once.
+
+If I could just…
+
+“See,” Lily said with a smirk, suddenly turning on the first Skill she had ever learned.
+
+[Mana Sense].

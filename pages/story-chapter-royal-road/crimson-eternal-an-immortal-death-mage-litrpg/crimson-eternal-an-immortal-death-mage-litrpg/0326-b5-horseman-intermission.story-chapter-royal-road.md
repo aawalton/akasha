@@ -1,0 +1,125 @@
+---
+id: f65bb618-3700-5197-85eb-89ed721d40c8
+page-type-slug: story-chapter-royal-road
+title: "B5 | Horseman Intermission"
+slug: 0326-b5-horseman-intermission
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 326
+ownLength: 1217
+unit: words
+ownProgress: 1217
+publishedAt: 2025-12-19
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2863052/b5-horseman-intermission"
+royalRoadId: "2863052"
+markedReadAt: "2026-06-29T19:16:54.172Z"
+---
+
+Somewhere on the world of Vest
+
+Pestilence, otherwise known as Victor von Lüneburg, feels more than a little irritation as he hears news of the Council of Darkness scouring the universe for information on his home world’s location. So much irritation that he begins to work on a special little plague meant just for them.
+
+It’s been a while since he’s targeted anyone with one of his creations on purpose. Long enough that he doesn’t even remember what it feels like to let one of his creations go free with a purpose instead of just testing it.
+
+What’s worse is that those pesky Crimsons are likely going to aid the Council of Darkness despite the mind control placed on the Council’s leader.
+
+That family never fails to irritate.
+
+At that thought, Victor’s mind turns to the one Crimson who he doesn’t dislike.
+
+The Horseman of Death.
+
+That particular Crimson has been of quite a bit of help to his research. So if anything, he’s appreciative towards her.
+
+Enough that he might even consider leaving the Crimsons alone. Assuming they stop bothering him first.
+
+He has trouble believing they’d stop bothering him though.
+
+Pestilence lets out a sigh before continuing to focus on creating his next masterpiece.
+
+A plague that targets only those in recent contact with Arthur Crimson’s specific shadow magic. Turning all of them into mindless zombies that devour anything with shadow magic.
+
+Of course, he doesn’t care about anyone else who might happen to have shadow magic and runs across them. So he doesn’t bother making any additions to stop them from attacking those less lucky souls.
+
+If they get caught in the plague, then they’re unlucky. That’s all.
+
+And with that thought, the Horseman continues to work away in his lab on the plague. Showing a rare expression on his face, even if it’s nothing but a slight raise in the corner of his lips.
+
+On top of all this, he has the regularly scheduled Horsemen meeting coming up in a century or two that he has to attend.
+
+Which will also be annoying and a waste of time, but still something he feels is necessary.
+
+Somewhere on the world of the Scarlet Crucible
+
+War finds himself doubling over with laughter the moment he hears what happened in the Hunter’s Spot on his world. Because he can’t just not laugh whenever he hears about Aria’s antics.
+
+Her antics are probably some of the best entertainment he’s ever found in his long life.
+
+After all, setting up explosives and even nukes all around the Hunter’s Spot and just making them all go off at once while she sits there and watches TV? It’s just pure comedy gold for him.
+
+It also makes for a good way for the lass to level up. And he’s genuinely curious how she’ll grow as a Horseman.
+
+But only time will tell about that.
+
+Other than that, he is also curious how this next meeting of the Horsemen will go. Since it will be the very first time in history where all four of the Horsemen will be in attendance.
+
+Never before has there been a Horseman of Death. Even if there have been previous Horsemen of War, Pestilence, and Famine. With the previous ones dying and new ones eventually replacing them.
+
+Those new ones being the current Horsemen.
+
+There has never been a previous Horseman of Death. And for obvious reasons as the Horseman of Death cannot die.
+
+Some of them had even begun to wonder if a Horseman of Death would ever be born since it was taking far longer than how long it took for the other Horsemen.
+
+But now all four Horsemen will be in attendance.
+
+Lucius still remembers how joyous Famine was when the notification about Death’s birth was sent throughout the universe.
+
+The man was so joyous that he even let his people have a day off for the first time in the history of the Dread Empire. Which immediately gave the people of the Dread Empire a favorable impression of Aria despite her not even appearing in the public yet at that point.
+
+Lucius finds himself chuckling at that memory. Then he thinks about the recent turn of events. Where the previous Archmage escaped in her clone.
+
+He let her go since all he wanted was a duel with her real body. And he’s got that. So he has no reason to bother her from now on.
+
+But if that woman is going to serve under Aria, then he’s genuinely happy that he decided to let her go.
+
+Because Aria is one of his greatest sources of entertainment nowadays.
+
+That said, he still enjoys fighting in wars more. So without any hesitation, Lucius begins making preparations for his next war.
+
+Deciding that he’s sat here on his world for long enough.
+
+The Heart of the Dread Empire
+
+“So the Crimsons are going after Arthur, who is going after Pestilence?” Famine mutters, to which the nobles kneeling down beneath the dais his throne is on hurriedly nod their heads. “Sounds like a nuisance. And a lot of family drama.”
+
+Famine glances out towards the balcony as his head fills up with thoughts about the Crimson family.
+
+He’s always strongly disliked the Crimsons. After all, they were a family that was nearly as powerful as the Horsemen at one point in time. And as a family, if they all worked together, they may even be able to take on one of the Horsemen.
+
+Which doesn’t sit well with him and never has.
+
+Because the Horsemen should be insurmountable by any mortal being. Gods among the lowly ants that are humans.
+
+On top of these feelings, the other Horsemen never got along with them either.
+
+War mostly because he wanted to duel them, and they would never let him. And Pestilence because they kept interfering with his experiments.
+
+But ironically enough, now that they are the ones responsible for giving birth to Death, he feels nothing but gratitude for them. With no desire to kill them anymore.
+
+After all, their existence may be blasphemous, but they are the reason the Horseman of Death was finally born. So they have a special excuse for their blasphemous ways.
+
+Ignatius can’t even remember how long he’s been waiting for Death to be born. And while he wasn’t expecting Death to be a woman since all the other Horsemen have been men, he has absolutely no problems with it either. In fact, he thinks it is a nice change.
+
+Death is a beautiful thing after all, so shouldn’t Death be beautiful herself?
+
+It just makes sense.
+
+And now that all four of the Horsemen of the Apocalypse have been born, they can finally have a full meeting. And they can finally show the entire universe their superiority.
+
+“Leave them be,” Famine states, deciding to ignore the conflict going on involving Pestilence. With his words shocking the nobles in front of him.
+
+So much so that one of them almost speaks up to question his decision.
+
+Famine doesn’t bother looking at him though, even as he drains the man dry, leaving him an emaciated corpse on the red carpet in front of his throne.
+
+Ah, how I can’t wait to see her beautiful face again, along with my other fellow Horsemen.

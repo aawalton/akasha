@@ -1,0 +1,29 @@
+---
+id: 2a78f086-60c5-51ee-9a31-1716389df187
+page-type-slug: story-chapter-royal-road
+title: "Schedule Update"
+slug: 0010-schedule-update
+partOf: defiance-of-the-fall
+position: 10
+ownLength: 283
+unit: words
+publishedAt: 2024-04-18
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/1601459/schedule-update"
+royalRoadId: "1601459"
+---
+
+The main goal with this change is to fix my messed-up work-life balance, which I'm hoping will have cascading positive effects for me and the story. It'll give me more time to refine each chapter and properly plan out scenes/arcs instead of chasing the daily needed word count.
+
+I'm also assuming the chapters will get better if I'm not stressed/tired all the time. Honestly, I should have seen the writing on the wall months ago and made the swap then, instead of doubling down by working extra on weekends to keep my head above water.
+
+This is the first big shake-up since the Twilight Harbor Arc years ago, where I went from six ~2.2k word chapters to five ~3k every week. I think it changed the story for the better, where the added room to work with made it easier to add enough content for the chapter to feel "complete" and moving the story forward.
+
+I'm hoping the same will happen with this change, where the added time will allow me to say more in each chapter.
+
+This also means I'll stop doing the monthly editing days, or catching-up-after-falling-behind-days as they've kind of become as of late. In practice, I'd say that the story will go from 17-18 chapters/month to 12-13, depending on how the days fall. I also hope I'll be able to go back to doing occasional bonus chapters when the situation calls for it, instead of having to do these delay/cancellation posts.
+
+The planned release schedule is Mon-Wed-Fri, and this change will affect both Patreon and RoyalRoad. The Amazon release schedule will have to see some adjustments from Book 15 or so.
+
+Thank you for your patience and understanding,
+
+TFD

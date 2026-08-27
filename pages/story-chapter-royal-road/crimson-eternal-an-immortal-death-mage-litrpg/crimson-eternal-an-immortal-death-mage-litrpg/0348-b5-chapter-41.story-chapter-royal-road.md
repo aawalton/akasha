@@ -1,0 +1,123 @@
+---
+id: f7a2edf8-7ac8-5d1f-873c-80dd9becaf3f
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 41"
+slug: 0348-b5-chapter-41
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 348
+ownLength: 1363
+unit: words
+publishedAt: 2026-05-24
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/3438122/b5-chapter-41"
+royalRoadId: "3438122"
+---
+
+A News Station from the Eternal Dynasty
+
+“Welcome one and all to Dynasty News! The star news station of the Eternal Dynasty!” Jason exclaims with his arms held out to his sides while standing in front of a black screen. “And today we will be covering the greatest conflict of the past thousand years! The Famine Crusade!”
+
+The moment he finishes speaking, the screen behind him turns on, showing several different feeds. All with footage of the crusade from different locations.
+
+Each of which are at one of the rifts leading into the Plane of Famine.
+
+On top of that, one drone alone is inside of the Plane of Famine. Clearly using a drone to do that since no mortal can enter the Plane through a rift.
+
+And the first thing the footage shows is the Pharaoh of the Rex Dynasty throwing the Horseman of Famine outside of a rift onto a planet. Instantly swarming the planet with miasma and famine energy in the process as the pharaoh follows after the Horseman.
+
+“The Famine Crusade has been under way for a long time now, and it is suspected by numerous nations’ leaders that it will mark the end of the Horseman of Famine at last!” Jason says with excitement clear in his words. Then more screens appear around him, showing the various planets formerly under the Dread Empire’s control as they’re being taken back. “But even if this crusade were to fail, the consequences are already clear for the Horseman of Famine as his planets and people are all being freed one after another! And everyone knows a Horseman’s growth is attached to the number of people under the influence of their concept!”
+
+The screens focus on Famine and the Grands’ battle again as the Crimson Empire’s Grands attack Famine while they’re outside of the Plane of Famine. Only for Famine to rush back into the Plane again with the pharaoh following after him.
+
+Then the process repeats over and over again as the pharaoh and Famine fight against each other. Whittling away at their energy and stamina as they clash.
+
+“Numerous planets have already been destroyed in their clash, and some worlds have been turned into dens of undead thanks to the pharaoh’s powers!” Jason continues, his voice turning grim. “But no one has voiced even a single complaint against the pharaoh! Because this is all to get rid of the worst Horseman!”
+
+Jason takes a deep breath before letting it out, feeling his own hands barely not trembling from excitement at the idea of the Horseman of Famine being taken out of the picture. Even if a new Horseman will be born to replace him in the future.
+
+Then he snaps his fingers, making the main screen behind him change again to show a woman casually lying down on a lawn chair in a tank top and shorts with a jacket over the tank top. All while sipping wine.
+
+“And, of course, here we have our regular spectator, the Horseman of Death, casually sipping some wine as she watches the battle,” Jason says while trying to hold back his laughter. “She’s just been lying there for quite some time now watching the battle play out while drinking her wine.”
+
+The woman in question lets out a sigh as she lowers her wine onto the little round table next to her before moving her arms behind her head and resting her head on them.
+
+“There’s a lot of speculation about what she’s doing there, but most people seem to believe that she’s there to watch the action,” Jason continues with a chuckle. “Because we all know how Princess Aria is. She does whatever she finds interesting and goes where she pleases.”
+
+As if hearing his words, Aria on the screen suddenly yawns despite an attack from Famine being sent flying her way. Passing right by her and sending her hair flying all around her in the process.
+
+But Aria just ignores it and reaches for her wine again. Of which she finds more of already on the table despite it having been sent flying by the attack.
+
+The wine having somehow just appeared on the table without any hints of someone placing it there.
+
+“However, there are some people who think the princess may also be there to absorb the Horseman’s soul,” Jason says with a bemused look on his face after watching the events playing out on the screen. “And Famine, being the Horseman supremist that he is, doesn’t care about what she does. Since Horsemen can do anything they want in his eyes.”
+
+Jason turns away from the screen and continues with a grin, “Whether this is her actual goal or not though, more than a few people across the universe are wanting it to be her real goal. Because it will forever block this particular Famine from ever coming back.”
+
+He turns back to the screen again as Aria begins tying her hair up into a braid. Seemingly trying to make it no longer blow all over the place when attacks get close to her.
+
+It’s too bad her taking Famine’s soul won’t affect the rebirth of a new Famine in the future…
+
+Jason sighs at that thought before continuing with his reporting.
+
+Aria
+
+This battle was interesting at first, but it’s starting to get a little boring now after watching it for months.
+
+The only bright side about this is that, thanks to my Death Court, I’m able to level up even while sitting here doing nothing. Since I have my Death Court just set up in the Hunter’s Spot on War’s capital planet.
+
+So all those mana creatures being killed in that Hunter’s Spot are giving me a small fraction of EXP.
+
+But still.
+
+I’m bored.
+
+Thanks to that, I briefly step out of the Plane of Famine before grabbing some new books and downloading them to my ebook reader. Then I head back inside of the Plane of Famine.
+
+It’s too bad the internet doesn’t go inside of these Planes.
+
+Although I’m not sure how this drone thing that keeps trying to record me is connected to the outside.
+
+What’s up with that thing anyway?
+
+It’s kind of annoying.
+
+But at the end of the day, it’s not actually doing anything besides recording me, so I leave it be.
+
+So just like that, I read. And read.
+
+And read some more.
+
+Spending entire years just sitting inside of this Plane of Famine reading books while waiting for Famine to kick the bucket.
+
+All the way until Famine finally begins to slow down in his fighting. With wounds all across his body.
+
+He’s even missing three of his four limbs now. With nothing but a single arm left.
+
+And unsurprisingly, he’s still not asking me for help throughout this entire thing.
+
+I guess his stubborn pride as a Horseman really does make him not want help.
+
+Although that pride does seem to be rather upsetting to him right now. Since he’s clearly losing.
+
+And even he seems to realize that by now.
+
+To the point that he’s starting to panic a little. Finally shattering that obsessive pride of his.
+
+He has tried opening rifts outside of the Plane of Famine to hide in the universe. But that doesn’t work very well when people have different trackers of all kinds searching for him. So he’s always found almost immediately after hiding.
+
+Not giving him any time to recover in the process.
+
+But no matter how panicked he gets, he never asks for help.
+
+Leaving me sitting here reading as I wait for him to die.
+
+Which I hope happens sooner rather than later since I kind of want to leave this Plane.
+
+It’s not exactly pleasant scenery in here after all.
+
+On another note, apparently Famine’s Dread Empire is already pretty much freed for the most part. Except for the main worlds closer to the center of the empire.
+
+And people on the news are all talking about how the era of Famine is coming to an end.
+
+Or at least, the era of this particular Famine is coming to an end.
+
+Well, anyway, back to my books.

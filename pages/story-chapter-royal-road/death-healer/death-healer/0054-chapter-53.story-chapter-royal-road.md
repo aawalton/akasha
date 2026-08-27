@@ -1,0 +1,183 @@
+---
+id: b07688ec-5c80-5199-a47d-c119c7fca107
+page-type-slug: story-chapter-royal-road
+title: "Chapter 53"
+slug: 0054-chapter-53
+partOf: death-healer
+position: 54
+ownLength: 1591
+unit: words
+publishedAt: 2025-08-02
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2487294/chapter-53"
+royalRoadId: "2487294"
+---
+
+“Your mother was the closest a woman’s ever come, but she failed at the threshold. She could wield the Sacred Affinity, yes, but she could not master it, not truly. You will.”
+
+Lily’s lips tightened, anger rising with something she could not name.
+
+“I’m not staying here forever.”
+
+“No,” Caesar said, “not forever. Just until you learn to  fight.”
+
+Lily bit her lip and then nodded.
+
+“What about Sabinus?”
+
+“He’ll stay as a prisoner. You can roam free.”
+
+“But—”
+
+“I’m not letting a noble brat give away my position, the fact that I’m still alive, and much more. Not for now, at least. I want to first see what my niece is capable of. Is that good enough for you?”
+
+Lily nodded.
+
+Caesar’s mouth twisted, half-grin, half-snarl.
+
+“That’s settled. Tomorrow, on your thirteenth birthday, you start. Today, you need to rest. Tomorrow, we’ll break you down, then build you up. You’re not a little child anymore, not after what you did tonight. Time to find out if you’re meant to be a real Champion.”
+
+He rose, huge and shadowed in the cramped tent, dispelled the [Light Shield], and opened the flap at the entrance.
+
+“Sleep, if you can. I’ll have someone make a tent for you. I’ll see you at dawn.”
+
+* * *
+
+Lily slipped out of Caesar’s tent.
+
+The camp had gone quiet, except for a handful of sentries murmuring near the fires and the half-choked snores of men too used to sleeping in armor.
+
+She moved fast, keeping her head down, and found the tent where Sabinus had been dumped after Caesar’s men carried him away.
+
+Inside, it stank of blood, old sweat, and damp canvas. Sabinus lay sprawled on a cot.
+
+His skin looked waxy under the lamplight, colorless except for two angry red blotches across his cheekbones. He was shivering.
+
+Lily stepped inside, closing the flap behind her.
+
+He opened his eyes at the sound, dull and glassy, but he still managed a glare.
+
+“Come to finish the job?” His voice was a rasp, half spit, half pain.
+
+She ignored the venom and dropped to her knees at his side, laying a hand on his brow. His skin felt clammy and dry, his pulse fluttering hard in his throat.
+
+Lily let her Mana gather, reaching for that white-hot well in her core. The dregs of her reserves trembled. She tried to force more [Life Flow] through her fingers, but she was completely tapped out.
+
+She could not summon enough energy to fill what his body had lost. The wound in his chest was closed, yes—arteries and muscle were knitted together—but that wasn’t enough. He had lost too much blood.
+
+Sabinus’s jaw clenched.
+
+“You’re not dying,” she said, more for herself than for him.
+
+“Could have fooled me.”
+
+“You would have died if I’d refused. You’d have died for nothing. I made a choice.”
+
+He forced himself to sit up, fighting a wave of dizziness. His hands shook as he grabbed the edge of the cot.
+
+“You made a choice for both of us. Don’t pretend you did this for me.”
+
+She stared at him.
+
+“What would have you wanted me to do?” Lily asked and suddenly noticed the manacles that chained Sabinus to the cot.
+
+Mana draining? She blinked at the restraints.
+
+“You want me to thank you? You want me to be grateful?”
+
+He scoffed, rattling the chains, then winced, pain biting through the sarcasm.
+
+“You know what?” Lily said, feeling anger rising through her. “I ignored what you said to me because you thought I was about to kill you—”
+
+“You were! How could you know you had enough Mana to heal me?! I’ve got too many levels on you! You could have—”
+
+“And I didn’t! I didn’t fucking kill you!!!”
+
+Sabinus was stunned by Lily’s explosive reaction.
+
+“I did what was right, and you should thank me for it!” She shouted in his face. “You ungrateful bastard! You know what?! Just sleep and shut your stupid mouth, maybe you’ll have better things to say tomorrow, you little crybaby.”
+
+Lily got up and went to the flap of the tent.
+
+“How do you dare—” Sabinus was flabbergasted.
+
+“Sabinus,” Lily said, turning over her shoulder. “Fuck you.”
+
+* * *
+
+Caesar woke Lily before dawn, touching her shoulder and staring at her coldly.
+
+She had barely slept, and every muscle ached from overdrawing her Mana the day before, but she forced herself to get up and follow the man out into the cold mist curling through the camp.
+
+Caesar had already prepared two stallions.
+
+They yet had to exchange one word throughout all of this.
+
+They waited near the edge of the woodline, heavy with sweat and harnessed with military saddles.
+
+He tossed Lily a battered riding cloak and nodded for her to mount. Lily’s hands shook with exhaustion and leftover adrenaline, but she climbed up, gripping the mane of her horse as she settled into the saddle.
+
+Caesar led his stallion out from under the trees, and Lily followed, the cold air biting through her borrowed cloak as they rode past the dying embers of last night’s fires. The men in the camp watched from behind hoods and helmets, some keeping their distance, others whispering while the two riders passed between the tents.
+
+The horses moved at a steady walk until they reached the boundary where the mud thinned and the grass took over. Caesar nudged his horse to a trot, forcing Lily to match him if she didn’t want to be left behind.
+
+They crossed the last line of sentries who gave brief nods to Caesar and hard stares to Lily. Once the camp was behind them and only the open field stretched ahead, Caesar slowed his horse and glanced sideways, letting his gaze fall to the gauntlets she wore.
+
+“Do you not have a weapon?” he asked, his voice flat.
+
+Lily shook her head.
+
+“No sword? Not even a staff?” Caesar pressed, frowning.
+
+“No,” she answered, looking ahead.
+
+He raised an eyebrow. “Spells?”
+
+“Fighting Spells?”
+
+Caesar nodded.
+
+Lily shook her head.
+
+“I don’t have any. I only have [Life Flow] and [Heal]. I can use Light Magic on my gauntlets, though.”
+
+He looked away, jaw grinding. For a few seconds, the only sound was the restless shifting of the horses and the wind through the trees.
+
+“You want to fight the Undead like that?” Caesar exhaled.
+
+Lily kept her chin up, but her voice was small.
+
+“That’s all I’ve got. I am good with my fists and feet. I can’t swing a blade well.”
+
+He let out a short, humorless laugh, but there was no amusement in it.
+
+Caesar stared at her gauntlets again and fell silent for a while as they kept riding in silence.
+
+Lily noticed that the trees and vegetation here had become sparser, and even the branches of the trees looked skeletal.
+
+“It’s the Death Mana,” Caesar explained, seeing Lily moving her head left and right, confused.
+
+“It’s the Death Mana,” Caesar explained, seeing Lily move her head left and right, confused by the dead trees and the lifeless undergrowth. “It poisons everything near the old walls. Even the roots won’t touch it anymore.”
+
+They rode on, a giant wall coming into view through the thinning mist. Caesar finally broke the silence as the last traces of green gave way to bare earth and blackened stone.
+
+“You know fighting the Undead isn’t like fighting people,” he said, his voice steady but flat. “You can’t win by being brave, or even by being strong. It’s not a contest. It’s a test of whether you can avoid mistakes.”
+
+He glanced over, watching to see if Lily was really listening.
+
+“If you get bitten, if their blood gets into you, that’s it. There isn’t time for second chances.” He nodded at the dagger on her belt. “You need to cut away anything that gets infected. Don’t wait. If you hesitate, you’ll kill yourself and everyone standing beside you, whether you want to or not.”
+
+His jaw worked as he stared at the battered wall ahead.
+
+“The Undead don’t care who you are. They don’t care if you’re the Pope’s niece or some nameless footsoldier. They don’t feel pain. They don’t stop. All they do is kill the living, and if you’re not ready to keep your head clear, you won’t make it through the first fight.”
+
+Lily’s grip tightened on the reins. The chill in the air pressed harder now, and she could almost feel the weight of the ruined city pressing back from the other side of the wall.
+
+Caesar continued, voice even rougher. “People talk about heroism and miracles, but I’ve buried too many who thought luck or skill would save them. Some of them were better fighters than you’ll ever meet. None of that matters when you’re facing the Undead. Not if you let fear or hope cloud your judgment. I don’t want to bury you. It’s always the first encounter that gets the best recruits.”
+
+He slowed his stallion as they reached the cracked stonework. He finally looked back at Lily, his face as hard as the wall itself.
+
+“This isn’t the place for mistakes. This is not a coddled mansion in Alba. Be ready at all times.”
+
+“So, we’re starting with the Undead? Didn’t you say you’d teach me about—”
+
+“I didn’t say anything,” Caesar replied, interrupting her. He saw a fire on the wall, then two more popped, and he raised an arm for a few seconds. “Come. Your first lesson is waiting for you.”

@@ -1,0 +1,931 @@
+---
+id: 9370724f-0856-5ea8-8b7d-1e3888c84726
+page-type-slug: story-chapter-royal-road
+title: "180: Multitasking"
+slug: 0180-180-multitasking
+partOf: delve
+position: 180
+ownLength: 5464
+unit: words
+publishedAt: 2022-01-30
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/834765/180-multitasking"
+royalRoadId: "834765"
+---
+
+After the morning’s activity, Rain had enough banked experience to level. While he was confident in the work he’d put into the patch, he still wanted both Tallheart and Ameliah nearby when he triggered the exchange, just in case something went wrong.
+
+His eyes flicked to the window that perpetually hung in the corner of his vision.
+
+Experience Monitor
+
+Target
+
+Since Dawn
+
+Since EsEx
+
+Next Level
+
+50,000
+
+23,446
+
+23,450
+
+22,149
+
+Not that they’d be able to do anything…
+
+Rain shook his head, trying not to think about it as he angled toward Tallheart’s work area. The smith had set himself up outside the main camp, using his hammer to make a little clearing, as well as plenty of toothpicks. The axe teams had shifted their efforts to the far side of the stream, so the line of trees and wooden debris screening Tallheart’s activities from view remained standing. Since Rain had visited yesterday, monster hides had been stretched between the gaps, almost completely screening off the space. As he drew nearer, he eyed the Muffle runes painted on every fifth hide or so, clearly Romer’s recent work, and the reason he could hear nothing from the other side.
+
+If those go all the way around, that’s…a lot of ink. And hides. I’ll need to check in with Atyl later. We brought plenty of raw materials from Vestvall, but we’re really burning through our stock. Crafting is damn expensive, and Dozer’s not going to be able to keep up unless I can get him to make more than a few dozen Tel per day.
+
+Snorting softly, he sent a virtual pat in Dozer’s direction, returning his list of Essence-Slime-related tests to its mental shelf. He found a gap in the hides, then poked his head through.
+
+“Hey, Tallheart. Ameliah and I are—“
+
+He stopped abruptly, blinking, then pushed through the gap to stare at the devastation. Tallheart was standing beside his anvil, and Staavo was seated at a nearby workbench. The rest of the small clearing was strewn with metal wreckage.
+
+Rain pointed. “Wasn’t there half of a forgewagon there yesterday?”
+
+Tallheart rumbled, setting down his hammer and turning to face him. “A good morning to you as well.”
+
+“It’s afternoon, actually,” Rain said, making his way through the wreckage, looking at the larger pieces as he passed. “What happened, Tallheart? Was there a spider?”
+
+“No,” Tallheart said, expressionless. “Not this time.”
+
+Staavo grunted, rising from his stool. “He said we needed to start over. Apparently, it wasn’t big enough.”
+
+“Mmm,” Tallheart rumbled. “Not only that. Your transmission will not work, Rain. It is too complicated, with too many precision parts. We do not have the time to resolve the issues, so we decided upon an alternative.”
+
+“What issues?” Rain asked, looking back at the wreckage. “I just couldn’t draw the parts very well. Maybe if I worked with—“
+
+“No!” Staavo interrupted, waving his hands and coming to a stop in front of Rain. “We lost most of yesterday bashing our heads against the trees, and our new idea’s better anyway. It’s still based on one of yours, so no need to get your under-feathers in a puff.”
+
+“I’m not offended,” Rain said, glancing at him. Under-feathers?
+
+Staavo harrumphed. “You’re worse at drawing than a three-year-old, and you couldn’t teach one to build a block castle without getting distracted by the pretty-colored blocks. Offended now?”
+
+“Ooph,” Rain said, pressing a hand to his chest.
+
+“Mmm,” Tallheart rumbled.
+
+Rain smiled. “I’m working on the drawing thing, actually. I don’t have time to practice, but I don’t need practice when I can cheat. If I can find a fast way to get my interface to display images from memory, then I can layer a window on top of a piece of paper to trace—“
+
+“Don’t care!” Staavo said, throwing up his hands and marching toward the wreckage. He bent, rising with a long piece of metal that dangled with dozens of thin rods, clattering against each other like wind chimes. “Damn it, you great antlered tornado!” He whirled on Tallheart. “I told you to put this out of the way where it wouldn’t get stepped on!”
+
+Rain blinked as Staavo held up the assembly, which he now saw to be jointed in the middle. Staavo bent it back and forth, trying to untangle the thin rods.
+
+Seeing this, Rain’s mind summoned a memory of the drawings that had been in the old scholar’s notebook—the one Jamus had lent him once upon a time. There had been a disproportionate number of bird illustrations, several focusing on the wings.
+
+“Is that what I think it is?” Rain asked.
+
+“If you think it’s a teapot, then no,” Staavo said, turning to face him with a clatter. “If you think it’s a great bloody bird wing, then yes. Emerton saw that squirrel suit Dempton made you after you decided parachutes were too safe. He’s paying me to do him one better. Kid’s got more credits than he knows how to spend, and I ain’t complaining so long as he pays up before he goes and breaks his damn neck.”
+
+Rain squirmed, working to suppress a squee with every fiber of his being.
+
+Wings? For an Aeromancer!? Fuck yeah!
+
+...
+
+Actually…
+
+With my Strength boosted, I could probably flap hard enough to… Holy shit!
+
+Rain rushed up to Staavo, plowing aside bits of shattered forgewagon in his haste. “Is it made out of aluminum? Are those supposed to be feathers? No, quills, since there aren’t any vanes. They’re so thin! Are they durability-enchanted?! Hollow?! What are you going to use for the skin stretched between them?! That’d be more like a bat wing, actually. Is it going to be rigid, or—”
+
+“Calm down,” Staavo huffed. “Gods, boy. You’re like one of those yappy dogs. I haven’t gotten that far. This is just a prototype Ellis was helping me with before he pissed off to wherever. Obviously, it’ll be enchanted. Durability and Lightness. Hmph. Since it’s metal, it’ll also need to be made into an Air magic focus. I’d use wood to avoid that, but even with Shena helping, it’d be too weak for what Emerton wants. Aluminum is the best I’ve got.” He turned his glare on Tallheart. “Unless you can get this rumbling lunk to give me something better.”
+
+Tallheart blinked slowly. “I know of no better metal for this task. It is a pity that there does not seem to be a deepened version. All of my experimentation was for nothing.”
+
+“Whatever you say,” Staavo grumped. “I know you’re holding out on me. You wouldn’t have welded that metal crate of yours shut for fun. What’s in there? Adamant? GranTel? Both?”
+
+“Yes,” Tallheart said.
+
+There was a pause.
+
+“Huh,” Staavo said. “I wasn’t actually expecting him to admit it.”
+
+“You can’t use adamant,” Rain said, managing to get a grip on his excitement. “You know why, Staavo. It’s not about the cost, though there is that. It’ll be dangerous when we get to Three Cliffs if people know we’ve got advanced materials and a smith capable of working with them. I like Ellis well enough, but he’s new.” He gave Tallheart a significant look. “There’s a reason we’re trying to keep it quiet. I would have thought some people would know not to blab.”
+
+“Mmm,” Tallheart rumbled. “Staavo will not speak.”
+
+“Bah,” Staavo said, waving a hand. “Of course, of course. Just...think of the things we could make, boy! Hurry up and get us a base where we can have fun without worrying about the neighbors starting an inquisition!”
+
+“Oh, trust me, it’s on the list,” Rain said, smiling. He looked back at the wreckage. “Anyway, what’s this about a new idea for the forgewagon? Please tell me you’re not thinking of going back to that crazy belt drive we had before.”
+
+“Steam,” Tallheart said.
+
+Rain’s head whipped around so fast he almost gave himself whiplash. “Go on…”
+
+Tallheart blinked slowly. “Now that we have stopped, I have time to experiment. I will build a new steam engine that functions with the turbine you spoke of instead of a piston.”
+
+“My tail is wagging so hard right now,” Rain said, not even attempting to hide his grin.
+
+Tallheart rumbled. “I will then combine a smelter with a boiler, as I did in the camp at Vestvall. Steam can be piped. Hmm. I will build a separate turbine for each track. A handful of valves will allow steering, against the dozens of gears you would have had us link together. The vehicle will need to be large to accommodate the forge, smelter, turbines, and tanks for steam, water, and the fuel Reason has discovered.”
+
+“Fuel?” Rain’s heart had almost stopped at this point. “What fuel?”
+
+“The stuff he made to lure out the Fire Eater,” Staavo said, making Rain whirl on him. “He calls it ‘Ephemeral Oil,’ because of course he does.” He hocked up some phlegm, then spat on the ground to the side. “Anti-Everfluid is what it is. Burns hot and fast instead of bright and slow.”
+
+“Holy shit!” Rain exclaimed, practically vibrating out of his armor with excitement. “Why did nobody tell me he’d discovered fantasy gasoline!? This is information I need!”
+
+He turned, rapidly pacing back and forth and muttering to himself as he scratched at his beard. “We could try for an internal combustion design…no, too many parts. Damn. And, thinking about it, I’m worried about how much steam we’ll lose from the turbine. Some sort of Stirling engine instead? I know heater plates have temp limits way below what the smelter uses, but chiller plates should work for the cold side, and Thermalitic Bronze is just stupid with heat transfer when it’s charged up. There should be more than enough of a gradient for… Oh!”
+
+He spun back, rushing up to face them. “You should make a new generator too! Headlights would be really useful, and we wouldn’t have to stop to set it up each night if you build it right into the chassis. Hells, we could drive the tracks with electric motors instead of steam.” He spun away, returning to his pacing. “I mean, it’s not as cool, and we’d have to coil up a ton of wire, but you wouldn’t have to worry about the pipes and the suspension. Hmm. Oh, that reminds me! Any luck with direct Arcane electricity generation yet? Still having the absorption problem? What about efficient Force to—no, never mind, we don’t have the time if you haven’t cracked it yet. We’ll stick with steam, but have you considered making a…?”
+
+“Are you going to do anything about this?” Staavo asked over Rain’s muttering, glancing at Tallheart.
+
+“Shhh,” Tallheart said. “I am counting.”
+
+“…That’ll totally work!” Rain exclaimed, barely listening as he rounded on them again. “How big are you going to make it?! Are you going to enchant the frame?! How much aluminum do we have?! Shit, we’ve got a lot, don’t we? And we can always make more! There’s dirt here! Oh, this is gonna be so fucking cool! What are we naming it? How are—”
+
+There was a sudden beep, and a window appeared.
+
+Self-Check Checklist
+
+Headache?
+
+Heartburn?
+
+Any other pain?
+
+Any problems focusing?
+
+Have you overdone it?
+
+Are you SURE you haven’t overdone it?
+
+You don’t want people to start saying “pulled a Rain” instead of “pulled a Val,” do you?
+
+“Damn it!”
+
+“Well, that went better than expected,” Rain said, sitting up in his tent.
+
+“Oh?” Ameliah asked, glancing at him, then reaching out to move a piece on the Ranks board sitting on the floor between her and Tallheart. Beside them stood the piled remains of lunch.
+
+Tallheart furrowed his brow, staring at the piece.
+
+Rain smiled as Ameliah returned her attention to him. “Yup. My paling didn’t even break open that time. I think I actually might have overdone it a bit on the cables. Oh well. That just means I’m closer to ready for twenty-eight.”
+
+“That’s great, Rain,” Ameliah said, taking his hand to squeeze it with a smile.
+
+Rain squeezed back, then set a marker before calling up his status.
+
+Progress Report
+
+marker_1: s6 [3061 Sowing 26 21:13]
+
+marker_2: lvl_27 [3061 Sowing 27 13:40]
+
+Span: 16.4 hours
+
+Character
+
+Level: 26 -> 27 (+1)
+
+Total Exp: 2,087,394 -> 2,110,844 (+23,450)
+
+↳Stamina Use: 78
+
+↳Mana Use: 23,372
+
+Skills
+
+Aura Compression: +180 exp
+
+Aura IFF: +5,524 exp
+
+Aura Synergy: +1,715 exp
+
+Channel Mastery: +11,578 exp, 11 -> 12 (+1)
+
+Detection: +306 exp
+
+Essence Well: +3,296 exp
+
+Extend Aura: +432 exp
+
+Magical Synergy: +23,372 exp, 12 -> 13 (+1)
+
+Mana Manipulation: +18 exp
+
+Mental Ward: +538 exp
+
+Purify: +1,500 exp
+
+Richmond Rain Stroudwater
+
+CLASS
+
+LVL
+
+CAP
+
++STAT
+
+Engine of Change
+
+27
+
+30
+
+20
+
+EXP
+
+NEXT
+
+TOTAL
+
++SKILL
+
+1,301
+
+85,070
+
+2,110,844
+
+2
+
+Vitals
+
+CUR
+
+MAX
+
+RGN
+
+Health
+
+1,700
+
+1,700
+
+300/d
+
+Stamina
+
+478
+
+1,700
+
+520/d
+
+Mana
+
+61,929
+
+66,470
+
+2.2/s
+
+Attributes
+
+287/2690
+
+EFF
+
+TOTAL
+
+BASE
+
+ACCLD
+
+MISC
+
+SYN
+
+STR
+
+85
+
+85
+
+10
+
+0
+
+75/500
+
+20.6
+
+RCV
+
+16.8
+
+30
+
+10
+
+0
+
+20/770
+
+5.6
+
+END
+
+59.5
+
+85
+
+10
+
+0
+
+75/310
+
+7
+
+VGR
+
+46.3
+
+52
+
+10
+
+0
+
+42/1140
+
+8.9
+
+FCS
+
+85
+
+85
+
+10
+
+0
+
+75/2000
+
+50
+
+CLR
+
+270
+
+270
+
+270
+
+0
+
+0/2500
+
+270
+
+PER
+
+10
+
+20
+
+10
+
+10
+
+0/0
+
+10
+
+SPD
+
+9.4
+
+10
+
+10
+
+0
+
+0/10.0
+
+9.4
+
+“Up to level twenty-seven, as expected,” he said, narrating his thoughts. “It looks like Channel Mastery’s experience formula didn’t change with the tick rate thing, not that either of you cares about that. It leveled again, though, and so did Magical Synergy, but that’s it. My stamina’s still low from my jog with Jamus, but that’s not a big deal. I’m generally fine. No drama this go around.”
+
+“Glad to hear it,” Ameliah said. She glanced at Tallheart. “Would you move already?”
+
+Tallheart furrowed his brow further, still staring at the board. Slowly, he reached out, then moved a Worker by a single hex. Without missing a beat, Ameliah captured it with her Jack, eliciting a deep rumble of discontent.
+
+“What next?” Ameliah asked, returning her gaze to Rain.
+
+Rain smiled at Tallheart’s predicament. “I think I’m gonna take a skill.”
+
+“Prismatic Intent?”
+
+Rain nodded, manually engaging his Aura Synergy rings. “That’s the one, unless anything else has shown up. Let me check real quick.”
+
+Magical Utility
+
+Tier 1
+
+Overcharge (0/15) (+)
+
+Delay cast of an immediate spell to charge it with mana
+
+Charge time reduced by mana manipulation
+
+Boost effect intensity by up to 120%
+
+Maximum mana charge 120%
+
+Requires 5 ranks in Intrinsic Focus
+
+Tier 3
+
+Mana Sight (0/15) (+)
+
+Passively perceive mana within the environment
+
+Resolution is 10% of that of mundane optical sight
+
+Activate to perceive mana within entities
+
+Active Cost: 10 mp/s
+
+Compatible with other sensory skills at 10% resolution while activated
+
+Requires 10 ranks in Mana Manipulation
+
+Elemental Refinement (0/15) (+)
+
+Shaping kata for elemental mana
+
+Hidden skill, revealed by meeting requirements
+
+Requires 10 ranks in Mana Manipulation
+
+Requires 10 ranks in Magical Synergy
+
+Tier 4
+
+Locked
+
+Utility Auras
+
+Tier 0
+
+Summer (0/15) (+)
+
+Boost H.Regen by 33% for all entities
+
+Range: 3.28 meters
+
+Cost: 1 mp/hr
+
+Spring (0/15) (+)
+
+Boost S.Regen by 33% for all entities
+
+Range: 3.28 meters
+
+Cost: 1 mp/hr
+
+Tier 1
+
+Life Well (0/15)
+
+Convert mana to health and transfer to all entities within range, including user
+
+Transfer Rate: 3.28 hp/s
+
+Efficiency: 20%
+
+Range: 3.28 meters
+
+Requires 5 ranks in Summer
+
+Energy Well (0/15)
+
+Convert mana to stamina and transfer to all entities within range, including user
+
+Transfer Rate: 3.28 sp/s
+
+Efficiency: 20%
+
+Range: 3.28 meters
+
+Requires 5 ranks in Spring
+
+Tier 2
+
+Acuity (0/15) (+)
+
+32.80% boost to physical senses for all entities
+
+Range: 3.28 meters
+
+Cost: 1 mp/s
+
+Requires 10 ranks in Detection
+
+Requires 10 ranks in Essence Well
+
+Precision (0/15)
+
+32.80% boost to physical precision for all entities
+
+Range: 3.28 meters
+
+Cost: 1 mp/s
+
+Requires 10 ranks in Velocity
+
+Requires 10 ranks in Energy Well
+
+Tier 3
+
+Empire of Will (0/15) (+)
+
+Boost Focus by 33 for all entities
+
+Range: 3.28 meters
+
+Cost: 20 mp/s
+
+Requires 50 ranks in Utility Auras
+
+Requires 10 ranks in Essence Well
+
+Empire of Grit (0/15)
+
+Boost Endurance by 33 for all entities
+
+Range: 3.28 meters
+
+Cost: 20 mp/s
+
+Requires 50 ranks in Utility Auras
+
+Requires 10 ranks in Energy Well
+
+Empire of Brawn (0/15)
+
+Boost Strength by 33 for all entities
+
+Range: 3.28 meters
+
+Cost: 20 mp/s
+
+Requires 50 ranks in Utility Auras
+
+Requires 10 ranks in Life Well
+
+Tier 4
+
+Locked
+
+Defensive Auras
+
+Tier 0
+
+Cold Ward (0/15) (+)
+
+Increase cold resistance by 9.84% for all entities
+
+Range: 3.28 meters
+
+Cost: 1 mp/dmg mitigated
+
+Heat Ward (0/15) (+)
+
+Increase heat resistance by 9.84% for all entities
+
+Range: 3.28 meters
+
+Cost: 1 mp/dmg mitigated
+
+Tier 1
+
+Dark Ward (0/15) (+)
+
+Increase dark resistance by 9.84% for all entities
+
+Range: 3.28 meters
+
+Cost: 1 mp/dmg mitigated
+
+Light Ward (0/15) (+)
+
+Increase light resistance by 9.84% for all entities
+
+Range: 3.28 meters
+
+Cost: 1 mp/dmg mitigated
+
+Tier 3
+
+Impediment (0/15) (+)
+
+Increase stamina costs for all entities by 46.74 sp (fcs)
+
+Range: 3.28 meters
+
+Cost: 1 mp/s
+
+Hidden skill, revealed by meeting requirements
+
+Requires at least 10 ranks in Mana Manipulation
+
+Requires at least 10 ranks in Suppression
+
+Tier 4
+
+Locked
+
+Offensive Auras
+
+Tier 1
+
+Shear (0/15) (+)
+
+32.72-37.39 force (fcs) damage per second to entities and environment
+
+Not occluded by mundane materials
+
+Range: 3.28 meters
+
+Cost: 10 mp/s
+
+Requires 15 ranks in Offensive Auras
+
+Tier 2
+
+Corrosion (0/15) (+)
+
+32.72-37.39 chemical (fcs) damage per second to entities and environment
+
+Sufficient damage disrupts health regeneration
+
+Range: 3.28 meters
+
+Cost: 5 mp/s
+
+Requires 5 ranks in Shroud
+
+Requires 10 ranks in Refrigerate
+
+Tier 3
+
+Discombobulate (0/15) (+)
+
+32.72-37.39 mental (fcs) damage per second to entities
+
+Not occluded by mundane materials
+
+Sufficient damage causes hallucinations
+
+Damage applies to mana instead of health
+
+Range: 3.28 meters
+
+Cost: 5 mp/s
+
+Requires 50 ranks in Offensive Auras
+
+Tier 4
+
+Locked
+
+Aura Metamagic
+
+Tier 2
+
+Prismatic Intent (0/15) (+)
+
+User may maintain 2 auras simultaneously
+
+Requires 10 ranks in Aura Synergy
+
+Requires 1 rank in 15 different auras
+
+Tier 3
+
+Ethereal Aura (0/15) (+)
+
+User may exempt the aura from environmental effects at will
+
+Aura gains 5% resistance to environmental occlusion and absorption
+
+Environment receives 90% aura output
+
+Hidden skill, revealed by meeting requirements
+
+Requires 10 ranks in Mana Manipulation
+
+Requires 10 ranks in Aura IFF
+
+Tier 4
+
+Locked
+
+“Nope,” Rain said, shaking his head after a quick skim of his listed options. “The only new thing is still Impediment, and that’s been there since Suppression hit ten. Damn, I envy you, Ameliah. It would be awesome to be able to try before I buy. When it says it ‘increases stamina costs,’ does that include, like, moving around? Because if so, that’s strong.”
+
+Ameliah shrugged, watching Tallheart carefully move a piece. Again, she immediately responded. Instead of scowling this time, Tallheart countered even more quickly than she had, sliding a Mage across from the complete opposite side of the board. Ameliah’s eyes went wide, and she stared. “Wait, that’s…”
+
+Rain looked at the board. It took him a moment, but then he smiled. Tallheart had never been in trouble at all. He’d been setting a trap, and Ameliah had blundered right into it.
+
+“Damn it!” Ameliah looked up accusingly. “You tricked me.”
+
+“I did,” Tallheart agreed, crossing his arms. Rain knew him well enough to read his expression as unreasonably smug. He pivoted his antlered head to look at Rain. “So, you will take a skill?”
+
+Rain smiled back. “Just one.” He gestured to the windows hanging in front of him. “I want all of this, but I’d be stupid not to wait for tier four. I want to at least see the requirements so I don’t lock myself out of anything game-changing. Prismatic Intent’s non-negotiable, though.”
+
+“Mmm,” Tallheart rumbled in agreement. “And the other one? Ethereal Aura?”
+
+Rain wiggled a hand. “It’s less important now that I’ve got Radiance. The mageburn isn’t horrible as long as people close their eyes. I was actually thinking about Empire of Will now that I know about the silver stat cap, but you’re making me new rings, so that can wait. Still no rush on those, to be clear; I’m not ready for them yet, and you’ve got the forgewagon to finish. The sooner we’re back on the road toward Three Cliffs, the better.”
+
+“As you say,” Tallheart said, beginning to put away the Ranks pieces.
+
+Rain rubbed at his chin, using his other hand to swipe windows closed. The only stat boost I’d really benefit from right now would be Clarity for the time acceleration. Heck, I don’t even know how well I’ll handle max Clarity from the ring I already have. I should test that tonight…
+
+After a moment, only the Aura Metamagic tree remained open, and Rain moved his finger to hover over the plus button beside Prismatic Intent. He glanced at Ameliah. “You know, I really wish my interface would be less vague sometimes. It seems like Prismatic Intent will add more aura slots as it levels, but it doesn’t say that for sure. It’s almost as bad as the descriptions I get for katas.”
+
+“Perhaps it is one,” Tallheart said. “They do not always have ‘kata’ in the name.”
+
+Rain nodded. “Right, Elemental Refinement only has it in the description. Another thing I want but can’t have. Okay, here I go.” He tapped the plus, then the ‘apply’ button that appeared at the top of the window. The moment he did, he felt...something.
+
+“Woah…”
+
+“What?” Ameliah asked.
+
+Rain shook his head. “I don’t know. It’s like...I suddenly knew something, but the moment I asked myself what it was, it was gone.”
+
+“Huh,” Ameliah said, glancing at Tallheart. “That actually does sound like a kata. The knowledge they give you feels like instinct, and thinking about it too hard makes the skill stop working. Go ahead. Use two auras at once. Don’t think, just do.”
+
+“You know who you’re talking to, right?” Rain said with a smile. She stuck her tongue out at him, and he laughed, raising his hands. “Fine, fine. Let’s see.”
+
+Purify
+
+Winter
+
+And just like that, both spells were active. Winter’s chill washed over him while the white light of Purify simultaneously gushed forth to fill the tent. He hadn’t applied any modifiers to the spells, so both were running at default power, which meant Purify was uncomfortably bright thanks to Aura Synergy. Rain reached out with Channel Mastery to dial it down almost by reflex, surprising himself when it actually worked. Purify faded to a dim glow, while Winter remained as refreshingly brisk as ever.
+
+“You see?” Ameliah said. “No thinking. Good work.”
+
+“Yeah…” Rain said, turning Mana Manipulation inward, trying to get a look at what he was doing. What he felt was...confusing. The familiar patterns of Winter and Purify were both there, layered on top of each other. Each pattern remained as complex and incomprehensible as ever—especially Purify’s, given that he’d applied metamagic to it.
+
+There was also...something else.
+
+A third pattern, somehow woven between the others, supporting them as it simultaneously held them apart. His brain hurt to look at it. It was like trying to visualize the structure of a four-dimensional hypercube through a pane of smoked glass. It was—
+
+“Rain!”
+
+[Rain-King!]
+
+Rain blinked, opening his eyes. A wave of disorientation washed over him as he realized that he was looking up at the tent’s ceiling. Ameliah and Tallheart were bent over him with concern written across their faces. He was on the ground. He didn’t remember falling.
+
+“He is back,” Tallheart said, relief in his tone.
+
+Rain groaned, raising a hand to his head, which was pounding.
+
+“Talk to us, Rain,” Ameliah said. “What do you feel?”
+
+“Headache,” Rain said, sitting up as his friends made room for him, having to fight off a wave of vertigo. He accepted Ameliah’s help as she rushed to steady him, simultaneously sending soothing thoughts to Dozer. “I’m fine, just a bit woozy. How long was I out?”
+
+Dozer appeared with a pop, apparently insufficiently soothed. He sprung for Rain’s face the moment he landed.
+
+“No more than ten seconds,” Tallheart said, ignoring the commotion.
+
+“What happened?” Ameliah asked, likewise having taken Dozer’s appearance in stride, her only reaction having been to get out of the way.
+
+“That’s what I want to know,” Rain replied, opening his interface. He had to do so hands-free, as his hands were otherwise occupied. He’d successfully caught Dozer and was attempting to corral the concerned slime into his lap. Fortunately, nothing seemed to be out of order as he looked over his character window. Both auras had deactivated when he’d lost consciousness, and his vitals were normal. Dozer instantly stopped squirming to listen as Rain began to speak.
+
+“I was looking at the spell matrices with Mana Manipulation, and then...I was looking up at the ceiling. The headache was bad, but it’s already gone. I feel...fine. Fine-ish.” He licked his lips. “I think… I think I’m going to try again.”
+
+Tallheart rumbled deeply. “Is that wise?”
+
+“No,” Rain said with a smile. “It’s science.”
+
+Half a day later, Rain had his answers, or at least, some of them.
+
+Prior to his second attempt, he’d paused to take an inventory of his soul, wanting to make sure that nothing about the skill acquisition had changed anything in a way that could have explained what had happened. His investigations had come up empty. If there were changes to his core, he couldn’t feel them. Trying to peer beneath its surface was like trying to look at the sun. Everything else was still as it had been after his level up. The chaos had reached pea-soup levels of thickness, but other than that, everything was as he’d grown used to.
+
+Thus, it came down to testing in the real world. Outside this time, to avoid setting anything on fire.
+
+Over the course of the afternoon, Rain tried different combinations of auras, with and without metamagic, with and without watching the patterns with Mana Manipulation. Through this process, he learned many things.
+
+First, there was no significant difference in the time it took him to pass out when he tried to comprehend the patterns versus when he didn’t. The feeling of the flowing mana he got from Mana Manipulation was confusing, yes, but ultimately not the cause.
+
+Second, metamagic absolutely made things worse. With unmodified Winter and Purify, he could make it a full two minutes before he started feeling unwell, despite the greater mana consumption with the omission of Channel Mastery. On the other hand, trying to keep Purify running while using his standard Winter configuration—Amplify, Extend, Compression, and Channel Mastery—had resulted in an immediate blackout.
+
+Third, some combinations didn’t work, period. In particular, there were two pairs of auras he’d discovered so far that were incompatible: Immolate-Refrigerate and Radiance-Shroud. It wasn’t that trying to use the opposed auras caused naptime, but rather that the system simply refused. Activating one spell would instantly deactivate the other, and not in a way that it felt like he’d be able to fight. The same was true of trying to run multiple copies of the same aura, but that had always been a longshot. Interestingly, Force Ward and Arcane Ward, while opposed, would activate together, though even the slightest damage blocked would result in an immediate dirt nap.
+
+Aura Focus also had some asterisks next to it. The metamagic worked fine with Prismatic Intent in a short burst, but only on one of the active auras. Rain’s dreams of being able to strike with an Offensive Aura at full power while watching his surroundings with Detection weren’t squashed just yet. Before any significant testing of that, however, there was the narcolepsy issue to deal with. Fortunately, Ameliah came up with a way to help with that: Mana Sight.
+
+Divesting from Elemental Archery was actually something she’d been thinking about for a few weeks now, though she’d yet to act on the thought, not even to mention it in passing. She brought it up now. She said it would weaken her slightly in the short term, but given that they were in an unranked zone, she didn’t really need the extra damage from Fire Arrow to hit the damage limit. The slight loss of AOE potential was a small price to pay for the chance to search her other trees for hidden skills, and given how long it had been since Vestvall, they all agreed that an Empire attack was incredibly unlikely.
+
+This was, of course, precisely what the Empire would want them to think, but at some point, paranoia became counterproductive.
+
+And so, Ameliah set about doing some testing of her own. Rather than swapping her skills as she previously would have, she decided to attempt it from within her soul to take advantage of the time acceleration.
+
+Amazingly, this worked. She didn’t have system access or anything, but her class functioned as it always did. Even with the inefficiency of needing to enter her soul twice, she still came out ahead, dumping Prismatic Arrow, Arrow Affinity, and Fire Arrow in two hours when it would have previously taken her three. That freed enough points for her to get Mana Sight, and with it at rank ten and with Rain doing his best to offer her no resistance, she was able to see the problem.
+
+In a nutshell, he sucked.
+
+When he used a single aura, the leakage didn’t cause him any trouble, horrendous though it apparently was. With multiple auras, however, the leakage from one would react with the leakage from the other, the two streams of raw mana violently combusting and creating what Ameliah described as ‘a cloud of soot.’ The soot would build up in his body, choking his mana until the spells collapsed and he slipped unconscious. The buildup would then dissipate over the space of a few seconds, and not long after, Rain would wake with a headache—and possibly with grass in his teeth if nobody had bothered to catch him.
+
+After one such grassy waking, several hours later when the sun was beginning to set, Rain finally decided to throw in the towel. “That’s enough for today,” he said with a heavy sigh, looking up at the twilight.
+
+“Done so soon?” Ameliah asked, glancing at him, then snapping the book she’d been reading closed. She’d stayed with him the whole time, but had stopped watching his every move, leaving him to practice with only the occasional word of guidance. Tallheart had long since departed to return to his forge. Dozer was gone too, off to play with Cloud.
+
+Rain nodded, triggering an essence exchange. He’d been doing them periodically, wanting all the data he could get. Unfortunately, the resulting progress report didn’t tell him anything he didn’t already know, so he reconfigured it to cover the span of his testing from start to finish.
+
+Progress Report
+
+marker_1: lvl_27 [3061 Sowing 27 13:40]
+
+marker_2: attempt_asdfasdf2 [3061 Sowing 27 19:20]
+
+Span: 5.7 hours
+
+Character
+
+Total Exp: 2,110,844 -> 2,138,665 (+27,821)
+
+↳Stamina Use: 19
+
+↳Mana Use: 27,802
+
+Skills
+
+Amplify Aura: +3,404 exp
+
+Aura Compression: +213 exp
+
+Aura Focus: +2,144 exp
+
+Aura IFF: +570 exp
+
+Aura Synergy: +5,181 exp, 10 -> 11 (+1)
+
+Channel Mastery: +1,521 exp
+
+Detection: +300 exp
+
+Essence Well: +819 exp
+
+Extend Aura: +2,909 exp
+
+Force Ward: +12 exp
+
+Fulmination: +125 exp
+
+Immolate: +110 exp
+
+Magical Synergy: +27,802 exp, 13 -> 14 (+1)
+
+Prismatic Intent: 0 -> 1 (+1)
+
+Purify: +15,143 exp, 10 -> 13 (+3)
+
+Radiance: +175 exp
+
+Refrigerate: +137 exp
+
+Shroud: +75 exp
+
+Suppression: +20 exp
+
+Velocity: +105 exp
+
+Winter: +20 exp
+
+Experience Monitor
+
+Target
+
+Since Dawn
+
+Since EsEx
+
+Next Level
+
+50,000
+
+51,267
+
+0
+
+55,948
+
+“Still no experience for Prismatic Intent,” Rain said, rubbing at his temples. “That settles it. It’s definitely a kata, but it’s just not telling me what I’m doing wrong so I can fix it and advance.”
+
+“It probably doesn’t even know where to begin,” Ameliah replied.
+
+“Hey,” Rain said, feigning affront as he dismissed the progress report. “I’m getting better. You said it yourself.”
+
+Ameliah laughed, rising from the stool she’d been sitting on and walking over to offer him a hand. “Better is relative,” she said, pulling him to his feet. “Believe me when I say that you’ve got a long way to go. I think Kettel might be better than you at this point, given how much he’s been training. I’ll have to have a look to see.”
+
+Rain sighed. “Damn it. Who’d have thought that there are problems that can’t be solved by just throwing mana at them?”
+
+“Face it, Rain,” Ameliah said with a wicked smile. “You’re going to have to practice.”
+
+Rain closed his eyes and shuddered.

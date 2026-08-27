@@ -1,0 +1,125 @@
+---
+id: 86077dec-6177-542c-84e0-351c64037126
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 25"
+slug: 0250-b4-chapter-25
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 250
+ownLength: 1455
+unit: words
+ownProgress: 1455
+publishedAt: 2025-01-23
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2026148/b4-chapter-25"
+royalRoadId: "2026148"
+markedReadAt: "2026-06-29T19:14:14.837Z"
+---
+
+Aria
+
+After their initial greeting, none of the Death Spirits below the Greater Death Spirits say a word to me. They just sit there kneeling with more than a little happiness brightly shining from their faces. For the ones that have faces, that is.
+
+The ones without faces simply look happy. Not really sure how I can tell, but I can.
+
+Of the Greater Death Spirits, there seem to be about two dozen total. Meanwhile there’s only the three Grand Death Spirits. Which sounds about right from what the internet and the pharaoh said.
+
+Each of the Grand Death Spirits and the Greater Death Spirits look different in terms of their appearances.
+
+Some of the Greater Death Spirits look like ghosts, others like zombies, and others like skeletons. But they’re all dressed in intimidating looking black and crimson armor, and with glowing crimson eyes and glowing crimson veins running through them.
+
+Which is odd for ghosts, since ghosts don’t usually, well, have veins.
+
+As for the three Grand Death Spirits? They each look different.
+
+And to be honest, they look almost human in appearance.
+
+Sort of.
+
+The leftmost Grand Death Spirit looks like a human with glowing crimson veins running through his skin, glowing crimson eyes, and long crimson hair tinted with bits of black. And the Grand Death Spirit is also wearing a set of crimson and black full-plate armor with a rather large build that completely dwarfs me in size.
+
+The rightmost Grand Death Spirit looks like a human with pitch black orbs as eyes except for a small dot of crimson shining from the center of its eyes. He – and both this one and the leftmost Grand Death Spirit clearly look male – has long black hair with hints of crimson highlights throughout it, and he’s wearing a pitch black suit with some strange crimson cracks running across his skin. Although he is a lot skinnier than the leftmost one, even if he’s still just as tall as him. And he looks older than the other two, with some wrinkles.
+
+Meanwhile the center Grand Death Spirit – the only female of the three – has long white hair and glowing crimson eyes. Just like me. But she is a good bit taller than I am, and is wearing a beautiful flowing black and crimson dress. She is smaller than both of the male Grand Death Spirits though, with a beautiful figure that really confirms the whole death is beautiful thing. Even if I’m Death and not her.
+
+Then again, she looks quite a bit like me. Almost like she could be my older sister or something.
+
+She also has the most death energy in her out of the three.
+
+To be honest, I feel a little surprised looking at the three of them. Strictly because each of the three have more death energy than I have. Despite me being Death.
+
+Even the Greater Death Spirits have more death energy than I have.
+
+But I guess it’s because I’m still so young. Considering how I get more death energy naturally built up just from killing things, being hurt myself, and from leveling up.
+
+I blink after having that thought.
+
+How do I know that?
+
+“Young Lady Death,” the centermost Grand Death Spirit says, her voice practically dripping with emotion and affection as I turn to focus on her again. Just to find her floating towards me with her hands reaching for my face.
+
+I feel a little surprised when she pulls my face forwards and rests her forehead against my own, her eyes closing in relief. As if she’s happy to finally see me in person.
+
+“Thank you for coming at last, Young Lady Death,” the Grand Death Spirit says, her voice practically filling the entire Plane of Death with pure power, yet also being soft and beautiful at the same time. “Thank you for visiting your brethren.”
+
+She raises her head again, still holding my cheeks with her hands. Then she wraps her arms around me and pulls me in for a hug. One that feels warm and comfortable.
+
+So comfortable that I feel my eyes closing for a bit.
+
+A few minutes pass before we both somehow pull back at the exact same time. Like we’re in sync.
+
+“My name, little one, is Zero,” the female Grand Death Spirit says, her voice still soft and relaxing despite the absolute power I can still feel coming from her. Even more power than I felt from the Nine Grands.
+
+Then the leftmost Grand Death Spirit steps up with a laugh and pulls me into a bear hug, damn near crushing me in the process. But instead of pain or anything like that, I actually find myself laughing as well as the Grand Death Spirit lifts me off of my horse and into the air with him as he spins in circles.
+
+“You’re finally here little lady!!!” the large Grand Death Spirit exclaims, his excited voice echoing out across the Plane of Death with almost as much power as Zero. “I can’t even tell ya how long I’ve been waitin’!”
+
+He continues to spin me around a bit before placing me back down on my horse and kneeling down midair while grabbing my hand. Then, despite his rough exterior, he grins up at me and pulls the back of my hand to his lips by my fingers.
+
+And with a smile still on his face, he kisses the back of my hand and says, “Welcome home, little one.”
+
+The spirit moves his head back without letting go of my hand before saying, “I’m En.”
+
+Then he backs away after a second’s hesitation to return to Zero’s side.
+
+I turn towards the third Grand Death Spirit to find him smiling at me with his hands held behind his back. But he doesn’t move closer. Instead just floating there as he says, “Young Miss Death, I am greatly pleased to finally meet you in person. My name is Zwei, and if you ever need anything, please feel free to ask me.”
+
+A faint smile spreads across my face at Zwei’s demeanor. One that kind of reminds me of a nice and kind old butler who is currently speaking to the Young Miss of his household.
+
+I turn to Zero again.
+
+The beautiful big sister-figure.
+
+I turn to En.
+
+The fun-loving friend.
+
+I turn towards Zwei.
+
+The caring butler.
+
+My smile grows wider.
+
+“It’s nice to see you all,” I tell the three, feeling some tears beginning to drip down my face. Almost like it’s the first time I’m truly relaxing and happy in my life or something.
+
+Like something I didn’t know was suppressed is free.
+
+I look at all of the other Death Spirits from my new horse’s back, then I glance back at the rift leading into the Endless Glacier. Finding all of my summoned Death Spirits still kneeling in the Glacier without a single mana creature in sight.
+
+Huh. Guess the stronger mana creatures fled at the arrival of the Greater and Grand Death Spirits. Even if I get the feeling they won’t be able to cross through the rift.
+
+Their power is still flooding it, so that’s obviously more than enough.
+
+I give the Death Spirits over there a quick order to continue their hunt before closing the rift and turning to face the Grand Death Spirits. Only for the butler to somehow instantly understand what I want as he snaps his fingers once, making all of the Death Spirits that aren’t Grand Death Spirits vanish in an instant. Likely teleported somewhere far away.
+
+Then he glances at the other two, both of whom nod back at him, before snapping his fingers again. Following which all four of us appear on a large tower overlooking the Plane of Death. With me sitting on a large throne and the three of them standing in front of me at different angles.
+
+Zero standing in the center bowing ever so slightly, En standing to my left like a guard, and Zwei standing to my right with both arms crossed behind his back like a butler.
+
+“Ask us any questions you wish, little one,” Zero says with a kind and supportive smile on her face.
+
+“We are here to help you in any way possible, little lady,” En says as a sword of death energy manifests in his hands and he slams it down into the tower beneath him with a grin on his face.
+
+“So long as the Young Miss desires it, I will do everything within my power to assist you,” Zwei says without moving a muscle.
+
+I smile at all three and answer, “Thank you.”
+
+Then I get straight to asking questions.

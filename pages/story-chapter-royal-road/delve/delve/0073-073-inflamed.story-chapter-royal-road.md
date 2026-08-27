@@ -1,0 +1,211 @@
+---
+id: 701084dc-020d-514d-a84e-3b0eac41b8f7
+page-type-slug: story-chapter-royal-road
+title: "073: Inflamed"
+slug: 0073-073-inflamed
+partOf: delve
+position: 73
+ownLength: 4555
+unit: words
+publishedAt: 2020-01-19
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/447275/073-inflamed"
+royalRoadId: "447275"
+---
+
+Halgrave bellowed loudly and made a show of lifting his hammer over his head. The Citizen watched him unconcernedly, starting to drift backward through the air. Combat between mages and warriors was all about controlling distance, a fact of which Halgrave was well aware.
+
+Let’s see if he’s on his toes. Quickstep.
+
+Stamina surged and Halgrave shot forward in a blur. There was a crack of thunder when the air shattered as he jabbed for Westbridge’s neck with the haft of his hammer. The mage vanished in a flash of light, just before impact.
+
+Oh well. It was worth a try.
+
+Halgrave caught himself with Airwalk, then swung his hammer in a circle defensively. It struck nothing but air. He spotted the mage hovering a few stride below him, gliding down and away at an angle.
+
+“Rude,” said Westbridge, “but not an ineffective strategy. Nonetheless, it has failed. Warriors are nothing if not predictable.” He was forced to speak aloud, as Halgrave had blocked any further mental communication from the man. The mage drifted backward, the gold of his rings catching the setting sun as he spread his hands.
+
+The mage’s words were worthless, so Halgrave ignored him. The time for talking was done. There was no place for that kind of thing in the middle of combat. Westbridge was either a fool who liked to hear the sound of his own voice or this jab was a feeble attempt at provocation. Halgrave wasn’t going to be baited. He dove for the mage, not using any skills other than Airwalk and those needed to maintain his transformation. This would be a slog, as fights between high-leveled individuals always were on the surface. He needed to conserve his stamina and not waste it on boosting his strikes pointlessly. He’d get the feel for his opponent before trying anything else.
+
+He swung his hammer at the man in a slow, lazy arc. The head was moving deceptively quickly thanks to the length of the metal haft. The mage wafted himself away, dodging easily. A trio of Firebolts sprang into existence above the mage’s shoulder and flew toward him, impacting harmlessly against his metal skin. Dislocated Casting. As I suspected. Why Firebolt, though? He is trying to get my measure as well, of course, but there is no call for using such a pathetic spell. Another insult?
+
+Halgrave used brute force to redirect his swing, kicking off of the air and launching himself hammer-first in the direction he predicted the mage would dodge. The mage either anticipated this or got lucky, dodging in a different direction. Nine Firebolts burned to life, forming a circle around the man and rushing toward Halgrave. Again, he didn’t bother to dodge. The flames were swallowed harmlessly by his armor, the magic drawn into the metal. Twenty-seven Firebolts followed, flickering into existence around the mage in a cloud. Halgrave grunted. This is going to be annoying. He’s using Triplicate Casting and Spell Recursion. How far can he take it, I wonder? The burning orbs of fire rushed for him all at once. This time, Halgrave actually felt a flicker of warmth as the magical fire struck him. It was nowhere near enough to damage him, but still, anything making it through his armor at all was proof enough that there was metamagic at play. These were not normal Firebolts. Each one could have probably destroyed a building all on its own.
+
+He didn’t bother counting the next cloud of projectiles. There were eighty-one of them, he already knew. This time, however, the bolts didn’t all rush for him at once. They spiraled outward in a twisting helix, then shot for him in twos and threes from all angles. Trying to overheat me? Halgrave snorted. More Firebolts were popping into existence, keeping the number of waiting projectiles more or less constant. Thanks to Dislocated Casting, the mage was able to summon them anywhere within a reasonably sized area. The bolts were also tracking him as he dashed for the mage, curving their trajectories to intercept him at every turn. So far, not a single one had missed. Impressive. Wasted effort, but impressive.
+
+Halgrave checked the distance to the city, then lunged again, throwing himself at the mage who was still floating downward. He swung his hammer in a wide sideways swing with one hand, simultaneously launching a punch with his offhand, clenched into a fist. If the mage dodged left, he’d get the hammer, right, the fist. Staying on his current trajectory would get him clobbered by Halgrave’s charge. As expected, the man drifted straight back to get out of range. Halgrave grinned and loosened his grip on his hammer. Quickstep.
+
+He shot forward, his hand sliding up to the head of his hammer as the distance disappeared. He was still continuing both swings, driving his fist toward the anvil that was the hammerhead. The pesky mage was trapped between. He’d have no choice but to teleport again, or to reveal something new. True to expectations, the mage vanished, appearing below with a crackle of thunder that was drowned out by the massive shockwave of hammer meeting fist. Halgrave grinned. Spatial warping skills were not cheap. That was twice now that he’d forced the man to use his short-ranged teleport—probably Flash, judging by the tracers of lightning the skill had generated. Fire and Arcane so far. Matches what I’ve heard about him. Okay, time to get a bit more serious.
+
+The Firebolts had continued all throughout this exchange. The mage’s concentration and control were up there with the best Halgrave had ever encountered, even if he was wasting them on such a pointless spell. The fact that not a single one had yet to miss was proof of that. It’s annoying if nothing else. He’s hitting me easily and making me chase after him. Well if he wants to be a gadfly, then I will swat him like one. Alacrity.
+
+Halgrave’s speed doubled, then doubled again. He didn’t manage to catch the mage by surprise, but it didn’t matter. Mages using Flight were slow to change direction. Airwalk did not come with the same limitation. His hammer crashed into the mage with an explosion of sound. The man disappeared as if he’d used his spatial skill once more, but it was not dimensional magic that moved him. It was simple physics. Westbridge had been struck by the relative weight of a mountain, the hammer barely reacting to the impact as he was blasted into the sky. Halgrave had swung upward to avoid sending the man crashing into the city.
+
+He grinned. He’ll have felt that for sure, damage limit be damned. A Firebolt whizzed by his head, its path curved by the attraction of his armor. It hadn’t been enough, the bolt missing by a finger’s breadth. His grin widened, his metal features now fully formed. His smile was wrought in azure steel within the wiry blue tangle of his metal beard. Made you miss.
+
+Attention
+
+The defense field is active. Please remain calm.
+
+Ingress and Egress from the protected volume is restricted to outpost residents.
+
+Warning: Barrier Integrity Critical
+
+Mana Siphon: Active
+
+By Majistraal injunction, residents and guests are hereby directed to use all practicable methods to enhance collective mana rejuvenation.
+
+“What the hell?” Rain exclaimed as the dialog appeared before his eyes. He looked around the inside of the shop, the dialog moving with his gaze. It had popped up right in front of him instead of being suppressed by his notification settings. He thought he’d turned that sort of thing off. What the dialog was saying was also quite alarming. It didn’t seem to be from the system; instead, it read like one of those emergency messages from the government that had occasionally taken over his phone. He recognized the word ‘Majistraal’ from a brief discussion with Staavo concerning the limits of magic.
+
+“I thought they were dead,” he said, swiping at the dialog. It moved, but didn’t disappear as he’d wanted, just sliding off to the side to hover at the edge of his vision.
+
+“They are,” Myth said, hand extended in the air. He waved it around, manipulating what had to be his own copy of the dialog. “Curious.”
+
+“What’s it mean?” Meloni asked. “A barrier, obviously, but what’s a mana siphon?”
+
+Rain looked at her. “Well, based on the message, I’m pretty sure…” He opened his statistics display. He swore as he saw his mana regeneration.
+
+Mana
+
+5700
+
+5700
+
+0
+
+100%
+
+M.Regen
+
+0.157/s
+
+0.212/s
+
+-0.05/s
+
+97.6%
+
+“It’s reducing mana regeneration,” he continued, “Look at your status.”
+
+“I can’t,” Meloni said. “I’m not awakened.”
+
+Rain blinked. Shit, I forgot about that. “Oh, sorry. It’s, um…”
+
+“For me, it is nine parts in ten,” Reason said, joining them from the curtained hallway in the back of the shop.
+
+“Impossible,” said Myth, still swiping at the air. “I see the same.” He rounded on Rain. “What about you?”
+
+“Yeah, same,” Rain said. Winter’s normal boost to his regeneration was missing a zero. Whatever the mana siphon the dialog mentioned was, it was causing a 90% reduction.
+
+“Impossible,” said Myth again. “Arcane resistance should—”
+
+“Bip,” Meloni interrupted. “How do I make it go away?”
+
+Myth turned to look at her. “You can see it too?”
+
+Rain froze. Wait, she can see it? I didn’t even realize… She’s not awakened, meaning she shouldn’t be able to... What the hell? That’s impossible…
+
+“Majistraal,” Reason said in a reverent tone. “Works beyond imagining, powers beyond mortal ken. Through mastery of magic, they became the masters of themselves.”
+
+Rain looked at him, raising an eyebrow. “Is that a saying?”
+
+Meloni scoffed. “Ignore him. He’s always saying things like that. He thinks being cryptic is the same as being wise. It’s all just an act. At least Bip knows when it’s time to give it a rest.” She glared at Reason. “Okay, Bop, if you’re so wise, how do I make this damn thing go away?” She swiped at the air. “Oh, hey, it moved.”
+
+Bop? And Myth is Bip? Those can’t be their real names. No way.
+
+Reason made a few motions with his hands, then nodded seriously, as if considering. Finally, he spoke. “What is seen is meant to be seen.”
+
+“Translation: he doesn’t know,” Meloni said. “Great.”
+
+“It’s some kind of emergency message,” Rain said. “I think Reason is right. You probably can’t just get rid of it. Maybe it will go away once the crisis is over.”
+
+“What crisis, though?” Myth said. “That was no earthquake. That was an impact. It came from the center of the city.” He walked to the door and opened it, letting in the unsettled murmur of voices. The street was rapidly filling with people, staring at a cloud of smoke rising in the north.
+
+The others followed him out, joining the crowd of anxious onlookers. Cloud was content to cower under the counter, so they left him there. Rain surreptitiously retrieved his helmet from his waist and slipped it on as he stepped into the street. I’m not getting hit in the head again. Not today.
+
+He looked around as more and more people joined them. A few loud voices rose over the crowd and he paused to listen.
+
+“I’m telling you, it was an attack! The Adamants are here and they’re gonna kill us all!”
+
+“No, it were a dragon, I saw it!”
+
+“A dragon in the city? Impossible?
+
+“Hush, it can’t be a dragon. It’s monsters, though, that’s for sure. It’s the rank shift, like I was telling you!”
+
+Any further discussion was cut off as a sudden voice spoke in Rain’s ear. [Attention, resid—
+
+Screams erupted throughout the city at the sudden voice. People jumped and swore, spinning wildly, searching for the source. Rain, recognizing the spell as Message—or something like it—reacted only slightly better than the others around him. He tuned out the clamor, focusing on the words. Looking around would do no good; the mage sending this message could be anywhere.
+
+Protected territory? Annexation? What the hell?
+
+“Up there!” someone shouted as the man continued to speak. Dozens of heads tilted in unison, looking up to the sky. Rain saw two figures standing there, though due to the distance, he couldn’t make out much detail, even with his improved eyesight.
+
+Okay, flying magic confirmed. Rain blinked as the man continued to speak in his mind. Wait, no entry or exit? We’re trapped? What the fuck is that? He apologizes for the inconvenience? Bullshit!
+
+He grimaced. The entire city was screaming at the man now and it was growing increasingly difficult to tune out the roar of sound. The mage’s words were coming directly into his mind, true, but it was still distracting. He froze when the DKE Citizen mentioned Velika’s name, but he didn’t have time to process it further before another explosion rocked the city. So loud was Halgrave’s shout that he felt it in his chest as the pressure wave struck him. It was as if he’d put his head directly in front of a speaker at a rock concert. His ears rang as silence washed over Fel Sadanis, the clamoring citizens stunned into silence. That lasted all of two seconds. The cries of outrage quickly returned, accompanied by those of pain, terror, and confusion.
+
+Rain rushed quickly to help an old man who had fallen to the cobblestones, getting him back to his feet as the mage responded to the provocation. He couldn’t hear Halgrave’s side of the conversation, but it seemed like he was trying to negotiate with the Citizen. That’s good. If they fight…
+
+He got the shell-shocked old man over to a bench, easing him down onto it as Westbridge called a vote. Rain turned his attention back to the sky, spotting the pair facing off against a hulking blue form that had to be Halgrave. The scale looked wrong. Halgrave was huge, but not that huge. Whatever skill he had used to get that effect, he now dwarfed the other two. There were red and green points of light, the results of the vote, flickering into existence near the DKE citizen. That made the third figure Velika.
+
+The crowd gasped as Halgrave vanished in a crash of thunder. Rain swore. This wasn’t going to be good. Halgrave had said he’d destroy the city if he fought seriously. Rain believed him. He’d never seen a goldplate fight, but going by what he could do at level eighteen, someone at level fifty would be an absolute monster, basically a living nuclear bomb. Their only hope was that Halgrave could keep the fight away from the city.
+
+Fire streaked across the sky as the Citizen started retaliating. A veritable torrent of bolts tracked the blue figure unerringly as both combatants fell toward the city. Rain could make out more detail as they approached, but any appreciation for the spectacle was subsumed by his fear for the city, not to mention himself. Suddenly, Halgrave shot forward with an attack that sent out a shockwave of force, visible thanks to the smoke rising from the chimneys of the city. A stray Firebolt flew over the peaks of the houses, striking the ground outside the city like a meteor.
+
+“What do we do?!” shouted Myth over the panicked screams of the crowd. He, Meloni, and Reason had followed Rain over to the bench. They were looking at him like they expected him to be able to do something about this. “They’re going to set the whole city on fire!”
+
+Rain shook his head, looking down from the battle. Halgrave had just landed a hit, sending the citizen flying. It was clear from the continuing fire that this was only the beginning, the Citizen far from finished. Rain looked around at the panicking townspeople, his eyes wide. He shook himself. This was no time to stand around rubbernecking.
+
+He climbed up onto the bench and took a deep breath. “Everyone! Listen! Get to the sewers! We need to get underground!” He waved his arms, trying to attract more attention. “Stay calm! If you can hear me, get to the sewers!”
+
+A few people around him looked like they had gotten the message, but it wasn’t enough. The scene was utter chaos. His voice just couldn’t cut through the riot and the noise. Damn it, please don’t let this be a mistake.
+
+He readied Purify and launched a full-powered nova with a shout. The shell of white light expanded out from him, tearing the people’s gaze away from the sky and forcing them to look back at the ground. People cried out in fresh alarm, scrambling back as the harmless white light passed over them. “LISTEN!” Rain shouted. “Follow me! To the sewers! Get to cover!”
+
+A wave of red light flared over the city as another series of explosions tore across the sky. Rain hopped down from the bench and prepared to run for it, pulling the old man back to his feet. “To the sewers!” he kept shouting as he pulled the old man through the crowd. Thankfully, mercifully, people seemed to get the message. They started to follow him, first a few, then in larger numbers. Not everyone, though. He saw people disappearing into buildings and down side streets, running in a panic. Yet more people were frozen, staring at the sky. Rain swore, using a second Purify nova. “Damn it, you idiots! You think your house will protect you from that? Get to the sewers!”
+
+“To the sewers!” Myth’s accented voice shouted, echoing his own. “Spread the word!”
+
+“To the sewers!” a man in the crowd echoed. The call caught on, voices crying in unison as the crowd took up the chant. More people started moving, jostling him as they pushed past each other in their rush to make it to the nearest stairwell.
+
+“Myth!” Reason shouted. “Where is Meloni?”
+
+Myth swore. Rain looked around, spotting her fighting against the crowd, headed back in the direction of the shop. “There!” he said, pointing.
+
+“Damn it,” Myth said. “She is going for the damn dog. Come on, Reason, let’s go get her.”
+
+Rain swore, conscious of the frail old man that was still clinging to him. He couldn’t save everyone. He turned to the old man. “Come on, let’s go.” He turned, lifting the man from his feet and fighting through the crowd as he half-carried, half-dragged him toward safety.
+
+Westbridge frowned. He and Halgrave had been exchanging blows for several minutes now, and it was clear that unless he stepped up his assault, he would tire before the warrior did. Also, Velika had come under fire from the Watch, the sentinels and officers launching volley after volley of spells at her as she dodged through the sky. She could handle them to be sure, but without killing them? No, it was best that he finished this quickly.
+
+He focused, concentrating as he continued to dodge Halgrave’s attempts to swat him down. “Three are thy names, but by my word, become the confluence of one, Hybridize. Primary: By the will of the fire, mine is the flame that scorches the world, Conflagration. Secondary: Soul of the world, become as one with my intent, sprites from the aether, glow by my will, Summon Arcane Spark. Tertiary: Within the depths of the soul, the power that brings destruction. By my art, let it be released. Final Detonation. Hybrid skill: Myriad Constellation of Burning Stars.”
+
+As Westbridge finished his chant, he forced his will into the hybridized spell, shaping it with additional metamagic as the effect took hold. He felt his mana drop precipitously as he duplicated the effect with Triplicate Casting combined with four layers of Spell Recursion. It would be worth it. This combination of spells was particularly efficient in the long run, justifying the initial expense.
+
+Two-hundred and forty-three blazing stars of fire appeared, rapidly spreading into the constellation that had earned this spell its name. Each one was a summoned construct, an Arcane Spark, turned to the fire aspect by the hybridization. They swarmed and darted, launching gouts of fire at the annoying warrior as he pursued Westbridge through the sky. The pair were fighting just above the rooftops, Westbridge being careful to keep himself positioned lower than the incensed branch-leader. The warrior was forced to restrict his blows to avoid devastating the city. Likewise, Westbridge was obliged to restrict his magic to prevent undue destruction. He had given his word, and he needed the residents alive to fuel the barrier besides. That didn’t mean he couldn’t use the terrain to his advantage, however. Halgrave was hardly going to place himself between Westbridge and the city for fear of collateral damage. Thus, he was forced to stay above him where he was an easy target.
+
+[Careful, those will detonate if you strike them,] he sent as Halgrave swiped at one of the nearby sparks. Luckily for the city, Westbridge was able to instruct it to dart away in time. [I would stop doing that, if I were you.] The feedback that signaled blocked communication didn’t come, meaning Halgrave was once more letting his words through.
+
+“You fucking bastard!” Halgrave hollered as he launched himself forward. Westbridge darted lower, barely escaping one of the shockwaves that the man had started adding to his strikes. He’d been clipped by those enough times already; the stamina-enhanced wind carried the full force of that hammer along with it. It was problematic. He had to admit, Halgrave was much more dangerous than he had originally given him credit for. The blood trickling from his lip was proof enough of that. Fortunately, it appeared that the man was finally starting to lose his cool under the endless assault of flame.
+
+The shockwave that Westbridge had dodged struck one of the errant sparks, causing it to detonate in a conflagration of fire that flattened several nearby buildings. Halgrave roared in outrage and stopped his pursuit. “Damn you!” he shouted. “Keep the city out of this!” The flaming stars swirled around him, continuing to blast him with gouts of flame as he stood motionless, powerless to fight back without further damage to the city. “Is your word worth nothing?”
+
+[Obvious provocation. You would have me tie my own hands. Very well.]
+
+Westbridge smiled as he shot into the sky, relying on the advantage of Flight’s speed to keep him out of range. He wasn’t as maneuverable as Halgrave, but he would be able to outrun him. He just needed to focus on that while his constellation did its work. Halgrave’s armor was already glowing red-hot. The residual heat from the constant waves of fire would have been enough to melt any normal metal short of adamant. Westbridge was unsure if he would be able to overcome the armor directly, integrated with the man’s body as it appeared to be. There would come a point, however, when the heat grew too intense to withstand. That heat would tax the man’s soul. It wouldn’t be long now. Soon, it would start to overwhelm his heat resistance and start dealing actual damage.
+
+Westbridge cursed as he was forced to use Flash to dodge another of the man’s shockwave-enhanced strikes. Dangerous. I can’t lose focus. Several more of the fiery stars exploded, bathing Halgrave in fire as they were torn apart by the force. Westbridge could only keep track of the man with Mana Sight and Piercing Gaze, normal vision being blocked by a constant maelstrom of magical fire. Westbridge redoubled his focus, continued to blast at Halgrave with Firebolts, enhancing them to burn as hotly as possible.
+
+Halgrave bellowed and chased him ever higher as they rose above the city. The arc of the magical dome covering the city was rapidly approaching. It was perfectly transparent, but to Westbridge’s sight, the sphere of magic was fully visible. He hid his smile as he flew straight through it, the barrier letting him pass with not even a tingle to indicate its presence. The sound of the city vanished as he passed through. Damn. He quickly readied a Fireball—a proper one, not a puny Firebolt. He built it up quickly, using Overcharge to pack it full of mana. He wanted the detonation to be as loud and distracting as possible. It wouldn’t do for Halgrave to notice the sudden loss of sound or the disappearance of that pesky notification.
+
+He launched the Fireball just as Halgrave reached the barrier, smiling as Halgrave slipped through the barrier to swing his hammer at the massive ball of fire, easily the size of a house. As expected, he’d rather take it head-on than let it hit the city. He has no idea he’s outside the barrier.
+
+The Fireball exploded as Halgrave’s hammer struck, the force of the detonation shattering the silence as the world was consumed in flame. Westbridge was launched into the sky by the reflection of the blastwave as it rebounded from the barrier. The hemisphere of flame and wind shook with secondary explosions as hundreds of the fiery stars that had followed Halgrave through the barrier detonated. His armor was beyond red now, glowing white-hot with a light that was blinding even to Westbridge’s sight. Humm, he really is quite durable. Good. I do not actually wish to kill him. He glanced at his mana. If I even could manage it at this point. I hope that this will be enough to have weakened his defenses.
+
+Westbridge flew higher, moderating his speed to allow the warrior to keep up. The remaining stars were trailing after them, continuing to blast Halgrave with fire. Now that they were away from the city, the man had started swatting at them with his shockwaves, destroying them rapidly. There wasn’t much time, but Westbridge knew there would be enough to do things properly. He cleared his throat.
+
+“Time is a river, heedless of the currents of men. Before time, we are all naught but dust. Let the might of the river be turned upon you, drawing you down to the depths.” He Flashed forward, pressing his hand against the searing metal of Halgrave’s chest. “Stasis!”
+
+The hammer froze a finger’s breadth from Westbridge’s skull. Stasis had stopped Halgrave’s counter in its tracks, locking the warrior down completely. Westbridge didn’t even pause to smile, hurling himself down at the city as fast as he could. Stasis wouldn’t last long on someone like the Guild branch-leader. He’d given it even odds of working, even as it was. Depending on how completely Halgrave had shifted his defenses to deal with the heat, Westbridge had anywhere from minutes to seconds. It is good that it worked. I never expected him to be able to challenge me like this. Have I grown overconfident in my old age?
+
+The air shuddered at his passage as he raced back through the bubble protecting the city. He kept accelerating, heading for the barrierstone. The ground exploded as he once more plowed through it, buildings vanishing in a shower of pulverized stone. He came to a halt at the artifact, slapping his hand against it even as he struggled to cancel his remaining downward momentum. Quickly, he accessed the list of residents, scrolling to the end. Westbridge smiled as he removed Halgrave’s name from the list.

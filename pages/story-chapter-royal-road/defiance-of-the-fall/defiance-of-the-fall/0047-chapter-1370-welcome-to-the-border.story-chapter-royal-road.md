@@ -1,0 +1,185 @@
+---
+id: 7301bc6b-8677-5986-bd96-2dadcbf49213
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,370 - Welcome to the Border"
+slug: 0047-chapter-1370-welcome-to-the-border
+partOf: defiance-of-the-fall
+position: 47
+ownLength: 3017
+unit: words
+publishedAt: 2025-10-26
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2706947/chapter-1370-welcome-to-the-border"
+royalRoadId: "2706947"
+---
+
+Astora strained her senses to observe Everit Draom through the earth’s minute vibrations. Mother Nature provided no new answers as the man slowly returned to his courtyard. His true identity remained perfectly hidden by a mysterious haze. Most frustrating was that Astora could sense her own family’s hand in the disguise—yet another secret kept by her elders.
+
+“Whatever he is, he’s not trained for infiltration. And he’s young—young enough that some of his thoughts are in plain view.”
+
+Astora opened her eyes, finding Asir standing before her. Seeing the guardian who’d stood by her side since birth provided some comfort in these times. Astora had welcomed the challenge and the opportunity to prove herself worthy of Ultom’s gift. However, each day left her less certain that the competition with the continent’s faraway guests was only an excuse to hide deeper machinations.
+
+“What do you think of him?” Astora asked.
+
+“He does have some odd tricks up his sleeve. His control over the Void is exquisite, and the cost seems bearable. He must be in possession of one of the original heritages. There’s also something powerful brewing within him, but I wouldn’t go so far as to say he’s a threat to you or me,” Asir slowly said. “He should have a powerful Death-attuned bloodline. I didn’t expect to witness such pure Death among the living.”
+
+“His greatest strength isn’t bloodline or Dao. It’s providence,” Astora said. “I’ve never seen anything like it. He’s like a black hole, bottomless.”
+
+“Be that as it may, he used Ultom’s energy to expose Opiter. That can’t be explained by the impartment left in the seals.”
+
+“Let it be,” Astora waved her hand. “Did you uncover anything?”
+
+“Everit messed up your plans,” Asir spat. “There wasn’t enough time for Opiter to contact the other side, let alone gather forces for an attack.”
+
+“It was just an idea. There are more ways to track down the masterminds,” Astora said. “Tying that man to our chariot is more important.”
+
+“It is?” Asir said with surprise.
+
+Astora slowly nodded. “Everit, or whatever his name is, is chosen.”
+
+“You’re saying…”
+
+“That’s right. So long as he can survive, he has a decent chance of participating in the second Flameseeking Trial. He might even be the key to me seizing the opportunity from my siblings.”
+
+What Astora didn’t say was that there was one more reason. It was like something inside Everit Draom had shocked her awake, and she’d carried a sense of wrongness since spotting him across the square. The Heavens seemed hollow and the Earth shallow. Only he was a steady fixture in a flickering river.
+
+The Mercurial Court and her family were up to something, and they’d refused to clue her in. Everit Draom was part of it, making him Astora’s best chance at getting to the bottom of the mystery. There was even something deep within her that urged her to reach out, something that even the River of Destiny tried to suppress.
+
+‘Why is my bloodline telling me we’re connected?’ Astora mused. ‘Just who are you?’
+
+-----------------
+
+“Steady your minds before stepping through; the energies are much stronger on the other side,” Ogras warned as they stood before the realmgate flickering with life and faith.
+
+“Come to my side if it becomes too much. Both of you,” Zac said, glancing at Tavza.
+
+The Draugr looked much better after two days of rest, but they were about to step into one of the Nine Gardens, or at the very least, a border region connected to it. It wasn’t exactly the kind of place for the undead to be gallivanting around.
+
+“Our kind are not as brittle as you make us out to be. The hostility of the cosmos has made us resilient,” Tavza calmly said, taking the lead by stepping through.
+
+“Famous last words,” Ogras grinned as he followed suit, with Zac taking up the rear.
+
+The surge of Pure Life came at Zac like a sugar rush, and he briefly felt as though he’d absorbed another streak of Ultom’s light. The feeling abated somewhat when Zac began rotating his own Dao of Life. The inspiration wasn’t his, rather the unique effect of Poised Meadow. If he allowed it to run free in his mind, random ideas might infiltrate his path. Worse, foreign slivers of spirituality could take root, triggering an affliction similar to schizophrenia.
+
+Still, the effect wasn’t as bad as he’d expected after his experiences in the Joyful Gardens and the Mousetrap. Something kept the Poised Meadow’s influence in check, and taking a look around gave Zac a good idea of what was going on. Like Ogras said, they’d entered a memory domain. It was the smallest one thus far, and not by a small margin. One border was less than a hundred meters behind them, the other roughly a mile away. Such a diameter wasn’t even enough to cover one of the Transformation Dock’s districts.
+
+The small domain was more than enough to fit the hidden settlement, though, which would be better described as an outpost. Most of the thousand buildings looked like temporary residences of strong cultivators, with only four structures standing out. The first was a temple with the sigil of the Order of the Fertile Earth, and the second was a military headquarters.
+
+An even larger building was possibly a research facility, judging by the intense fluctuations of Pure Life coming from within. The last building looked a lot like the Transformation Dock’s bazaar, though only a third its size. The outpost was surrounded by a wall, and Zac couldn’t make out the world beyond. The situation was different from what his body had encountered in the Mercurial Court. The domain’s border was clearly a hundred meters outside the walls, but a defensive array obfuscated any details.
+
+They’d appeared atop a walled-in platform surrounded by War Arrays, whose complex runes made Zac’s hair stand on end. While slumbering now, Zac could tell the towers held the power to effortlessly slay Monarchs. The realmgate floating stably behind them without any barriers to block their path of retreat provided some comfort.
+
+Two Peak D-grade guards were waiting below, observing Zac with surprise and some respect. He glanced at Ogras and Tavza, and their slightly slack expressions indicated they were fighting an ongoing battle with the Garden’s influence. Seeing that they were fine otherwise, Zac led them down toward the guards.
+
+“Welcome to the border, brother,” one of them said as they stepped down. “May I ask for your station?”
+
+“The border, huh? Didn’t expect to come back,” Zac sighed as he took out his Veteran Token. He gazed at the barrier blocking the view. “Then beyond that…”
+
+“Unincorporated land. But don’t worry. It’s controlled by an allied faction,” the soldier smiled. “May I ask if you are traveling to the Hollow Court?”
+
+“We are,” Zac said, holding up his left hand next.
+
+Ogras did the same, while Tavza produced a Hollow Court Token. The soldiers inspected their qualifications one by one, and Zac exhaled when they stepped back with a nod. Something had changed with Tam Brooks’ identity after the showdown with Mox. Zac had been almost certain his veteran identity had been given the qualifications to participate in the trial, just like Everit Draom and the Mercurial Court.
+
+It was to be expected. If he wasn’t qualified to enter after dealing with Mox and triggering three Halos, then no one was. Still, Zac hadn’t been completely sure his instincts were correct. If it hadn’t worked, Zac planned on searching the chasm’s upper layers for any memory lantern with a Skypiercer Seal. Now he didn’t have to, and he could keep his last slot for a rainy day.
+
+“Head on over to the command center,” the soldier said. “General Vatnus wishes to meet all Sealbearers. He’ll explain the next step of your journey. We wish you luck.”
+
+“Thank you. Stay safe, brothers,” Zac said with a bow.
+
+“Wait, is the market open?” Ogras asked before they left.
+
+“It technically is, but there’s not much to buy right now. Traders only pass through here once a month, and the next gathering is three weeks away,” the guard shrugged.
+
+The bazaar wasn’t the only thing empty. The outpost seemed to hold less than half the people it was designed to accommodate, making a stark contrast to the festive atmosphere inside the Transformation Docks. On the upside, the low traffic helped them gain an audience with General Vatnus within ten minutes of arriving.
+
+They were shown into a large office in the back of the military base, where a middle-aged man waited. He felt like a dormant volcano, with a torrent of honed Killing Intent waiting just beneath the surface. The most similar Zac had seen before was Brigadier Toss of the White Sky Phalanx, though this general was at least an Early Autarch.
+
+“So you’re the next batch. Not bad,” the general nodded at Zac before looking at Ogras with amusement. “I thought the meadow’s whispers scared you off last time.”
+
+“I was just scouting ahead, Senior,” Ogras said with a refreshing smile.
+
+“Hmm,” the general said, turning to Tavza. “You almost have the aura of the Eight Hells. You’ll have to be careful on this step of the journey. We don’t want an international incident on our hands.”
+
+“I’ll be mindful,” Tavza said with a slight bow.
+
+“I know you’re eager to get your little hands on the Hollow Court’s riches, but the headquarters is built in a special location. You have to take a circuitous route to get there,” the captain explained while throwing out three small array disks. “These compasses will lead you to Kabaton.”
+
+“And that is?” Zac asked curiously.
+
+“A conclave of the empire. The Garden Mistress has graciously allowed the Empire to construct a settlement within her borders.”
+
+“Wouldn’t it be simpler to build the city around the realmgate?” Ogras asked, echoing Zac’s confusion.
+
+“It would, and that’s also what we did. This entrance by the Expanse Hollow isn’t the only one. It’s just one of the many branches leading to the Hollow Court.”
+
+“So it’s the scenic route,” Ogras nodded, leaning closer with an ingratiating smile. “Senior, a little bird told me that the elders connected to other courts are holding trials to let us sealbearers gather a little bit of pocket money.”
+
+“Did you bribe one of the senior Nameless Blades?” Vatnus snickered. “Well, we don’t have the time or luxury to arrange games here at the border. Here, you earn your keep. What do you know about Poised Meadow?”
+
+“Its Dao of Life is connected to the spark of sapience,” Ogras quickly said—perfectly mimicking Tavza’s tone, much to her annoyance.
+
+“Right. Things are born and die all the time out there. It’s chaos,” the general said. “Even so, the empire is not one to discriminate. The Nine Gardens have joined in our cause, so we must endeavor to bridge the existential gap. That’s the purpose of Kabaton, and that’ll be your task as you make your way over.”
+
+“Interact with the natives, spread the good word?” Ogras asked to confirm.
+
+“You’re welcome to try, but I doubt you’ll have much luck. The templars next door aren’t making much headway in that regard. No, you don’t need to spread the gospel,” the general said, raising a finger. “You just need to convince one. Bring one native with you to Kabaton. That’s the requirement to continue on your journey, and you’ll be rewarded depending on who you bring into the fold.”
+
+“The stronger, the better?” Zac asked.
+
+“Not necessarily. Strength can be nurtured. We’re more interested in finding lifeforms who can understand and embody the empire’s values. Most things outside are too wild and unruly to live inside a city, to coexist with beings from the prime dimensions. Most of Kabaton’s native citizens were essentially raised from a seed within its walls,” the general explained.
+
+“Just remember that you’re acting as ambassadors for the Limitless Empire during this outing. Don’t do anything that would make us lose face. You might find an agreeable local on your journey, but you’ll find most things living here are impossible to communicate with. Don’t force the locals to your point of view, or the elder spirits might punish you.”
+
+Just as Zac was about to ask a follow-up question, the general sent a telepathic transmission. ‘You’re one of ours, so I’ll give you a tip. You’ll have an easier time getting a good mark if you nurture a spirit during your journey. You should visit the temple and pick up a rosary for good luck before you head out.’
+
+The general continued before Zac could digest the message. “Well, off with you, and don’t sweat the details overly much. The meadow is one of the safest planes connected to the Hollow Court. Head on in and have fun. But try not to exhaust yourself on your way to Kabaton. There are some kids hoping to snatch your qualifications waiting over there.”
+
+“Thank you for the guidance, sir,” Zac said with a bow.
+
+They were ushered out of the office shortly after, where three attendants waited with trays full of steaming food. Zac drew a deep breath and immediately regretted it. The trays were filled with C-grade Life-attuned Natural Treasures cooked by a skilled Spiritual Chef. Even with a seal covering the trays, Zac’s body groaned with hunger. The general had rushed through his inspection before breaking for dinner. And by the looks of it, General Vatnus lived quite well in this remote little outpost.
+
+The three walked outside before Zac shared the general’s tip.
+
+“Pick up a rosary?” Ogras mused. “Is it related to the arrangement outside? There should be a Nameless Blade base somewhere. I can go ask around.”
+
+“No need. It’s faith,” Zac said. “Our task is to birth a life bonded to the Limitless Empire, just like the disciples of the Joyful Gardens. Life doesn’t appear in a vacuum. Spirits born from items inside Poised Meadow should take on some of the item’s characteristics.”
+
+“Awaken a weapon, and the spirit will be bloodthirsty. Awaken a Holy Relic, and a devout spirit filled with Imperial Faith will appear,” Ogras nodded.
+
+“Would the Order of Fertile Earth just hand out their Holy Relics?” Tavza interjected. “There is also the issue of control. Is exposing the item to the environment enough? Are certain locations better than others? Will you see better results by controlling the process?”
+
+“All good questions, none of which I have the answer to,” Ogras said.
+
+“I get the feeling we’re supposed to figure these things out ourselves. Let’s ask the Templars just in case,” Zac said.
+
+The Templars initially didn’t show much interest in helping out. Zac’s status as a decorated veteran or Ogras’s identity as a Nameless Blade didn’t impress them much, and Tavza was currently using the identity of a noblewoman who’d been gifted a seal by her clan. Out of better options, Zac reluctantly took out Roan’s Fertile Earth token, which lit a fire under the Templar.
+
+Just moments later, they were led to a garden at the back of the chapel, where a man in coarse hemp robes was pulling weeds with his bare hands. He looked no different from a mortal, but Zac’s instincts told him that this old farmer was even stronger than General Vatnus. And yet, there was no pressure coming from him as he dusted off his hands and turned around with a smile.
+
+“Young friend, may I ask who gave you that token?”
+
+“Roan, the Earth Sage,” Zac truthfully answered. “I helped the Sage with a small matter some time ago, and he imparted this to me.”
+
+“A small matter?” the farmer smiled. “I think I know the matter you’re referring to. I assume you three are looking for a nucleus for your task?”
+
+“It was just a thought. I hope you don’t feel pressured to break any rules on account of the token,” Zac said.
+
+“Did General Vatnus tell you he was doing you a favor?” the priest said with a helpless expression. “He’s just trying to sow karma with you seedlings. Most of the sealbearers come this way before setting out. We usually assist so long as they show enough patience. The ones entering Poised Meadows empty-handed have either annoyed the general or failed Fertile Earth’s test of longanimity.”
+
+“Oh,” Zac said, slightly embarrassed he’d forced his way inside by flashing a token.
+
+“However, most leave with a simple trinket consecrated for a few decades. Seeing your connection with the Sage, I’ll give you an actual helping hand,” the farmer said, and three seeds flew out from a flower sitting in the middle of the private garden. Zac almost threw them away after realizing the seeds held more energy than the entire [Twin Eclipse].
+
+“Is this safe?” Zac warily asked, his companions equally leery about the gift.
+
+“The [Ketumati Lotus] has been washed by the piety of the fallen for over two million years. Its descendants will never harm a subject of the Empire,” the farmer said with a gratified expression.
+
+‘But we’re not subjects of the Empire!’ Zac cried in his mind, but he still carefully stowed the seeds.
+
+“Thank you. We’ll make sure to not waste the gift,” Zac said. “On that note, could we ask how to best awaken a useful spirit?”
+
+“I can’t say too much. Reaching the Hollow Court is a test in itself. To see the purpose of life and meaning in death,” the priest said. “Follow your heart and find the profound grace hidden in the randomness.”
+
+“Thank you for the guidance,” Zac said, utterly clueless about what the old man’s cryptic words meant. “We should go.”
+
+“It is time. The first ones passed through this checkpoint months ago,” the priest nodded. “If this old man can give you a final piece of advice, it’s not to ignore the views as you rush toward the gates of the Hollow Court. A flower needs time to grow, and the journey is sometimes as important as the destination.”

@@ -1,0 +1,155 @@
+---
+id: fbe5b393-615d-521c-a6b5-2d024e3d61c6
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 8"
+slug: 0232-b4-chapter-8
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 232
+ownLength: 1493
+unit: words
+ownProgress: 1493
+publishedAt: 2024-11-29
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1930837/b4-chapter-8"
+royalRoadId: "1930837"
+markedReadAt: "2026-06-29T19:13:37.752Z"
+---
+
+Aria
+
+I wonder… why have a light in your stomach? It doesn’t really make much sense to me…
+
+This rather crucial question fills my thoughts as I float along in the stomach acid of some large serpent creature deep down in the Hunter’s Bay, just staring up at the ceiling of the stomach. Where some strange, glowing blue light is just dangling from some thick-ish string of flesh.
+
+Just what’s the purpose of this light? I honestly can’t tell.
+
+Maybe it’s some sort of radiation?
+
+Or maybe the thing just wants to have a light in its stomach.
+
+It’s certainly the question of the day.
+
+Well, that and the question of how I’m gonna get out of here to attend that tournament.
+
+The tournament is a two day event where fighters from all around the universe gather. Albeit with the preliminaries having occurred like half a month ago, so this is just the main event. With probably around a couple hundred participants remaining.
+
+Although mostly it’s just to show off Shirogane, or rather, their new crown prince’s power. To show the other nations that he isn’t a pushover.
+
+I’ve already seen his power before, and I doubt I’m the person they’re trying to show it to anyways.
+
+So I guess it’s fine if I miss this.
+
+Shirogane might be upset though.
+
+Maybe.
+
+I look around the stomach at the other mana creatures inside of it. Most of whom are melting from the stomach acid. But oddly enough, that’s not the only thing happening to them.
+
+Some actually seem to be getting sick or something, with blue blotches appearing across their scales and stuff.
+
+I glance down at my skin, but I don’t notice anything. Other than some faint tickling sensation. And the stomach acid, of course. But even that’s getting less and less as I adapt to it.
+
+Huh. Guess it probably is radiation.
+
+I’ve just already adapted to it and it’s not really doing anything to me anymore. With my regrowth being faster than it can deal damage.
+
+Well then. What to do now…
+
+I could do one of my usuals for getting out of a stomach. Nuking the creature with me in it, blowing it up with a regular bomb, slowly burning a hole through the wall of its stomach with Death’s Judgment, bleeding myself to poison the thing, filling up its stomach with enough Death Spirits that its stomach becomes bloated and it vomits, and so on.
+
+But this particular serpent I’m pretty sure came down from the tenth Tier of the Hunter’s Bay to the eight Tier, where I was at when I was eaten. So I’m pretty sure most of those won’t work.
+
+Most of that would barely tickle a Tier 10, even if I were to bleed entire gallons of poison directly into its stomach.
+
+And the stomach is too big for me to summon that many Death Spirits.
+
+Plus even if a nuke did work, it’s probably a bad idea to set off a nuke underneath the capital city.
+
+Hmm.
+
+Well, sorry Shirogane, but it looks like-
+
+The stomach suddenly splits apart, leaving me blinking in surprise as water floods into the now bisected serpent. Following which I see Shirogane floating down towards me with an exasperated look on his face.
+
+Right. It looks like I’ll be attending your tournament as planned.
+
+Totally didn’t expect to end up lying around in a stomach while you fought.
+
+I just wave at him before casually swimming out of the stomach and shamelessly swiping the soul core of the serpent he just killed.
+
+Free core. Thank you very much.
+
+“Aria, please tell me you weren’t planning on staying down here in a stomach while I fought in the tournament,” Shirogane states with a look on his face that implies he already knows the answer.
+
+Well, if he wants me to say that, far be it from me to say otherwise.
+
+“I wasn’t just planning on staying down here in a stomach while you fought in the tournament,” I tell him, repeating what he just said.
+
+He gives me a look.
+
+I avoid his gaze as I change the subject, asking, “So what are you doing down here?”
+
+“Princess Nerissa informed me that you were heading down to hunt in the Hunter’s Bay,” Shirogane states while crossing his arms and narrowing his eyes at me. “I immediately assumed you would be eaten by something and came down to get you before the tournament.”
+
+Not sure which to comment on first. The fact that Little Blue informed Shirogane of what I was doing, or the fact that he just immediately assumed that I’d be eaten if I came down here.
+
+Then again, he probably asked Little Blue what I was doing or something. Since she’s not the type to blab for no reason.
+
+As for the other thing…
+
+I glance upwards as I try to remember the number of times I’ve been eaten by some big mana creature.
+
+And after realizing that I have no idea how many times it’s been, just that it’s at least in the four or five digits, I decide to drop the subject.
+
+“Well, anyways, don’t we have a tournament to go to?” I state with a smile on my face that merely has him shaking his head in even more exasperation.
+
+It works though, as he quickly wraps me up with his silver in an orb then drags me with him as he moves at extreme speeds towards the surface. After which we both burst through the surface of the water, spraying everyone at the dock before he brings me over towards the massive stadium built off the edge of the capital city.
+
+Then we both land on a large balcony, with him reopening the sphere and letting me reclaim my footing.
+
+I look around, down at the entrance to the stadium. Where millions of people are roaming around, most of whom are trying to enter the stadium. So many that there aren’t enough spaces, leaving a lot of people stuck outside to watch on the large screens there.
+
+And even those people still have to pay to watch despite not being in the actual stadium.
+
+As for the stadium itself, it’s enormous. Probably the largest stadium I’ve ever seen in my life.
+
+Not that I’ve seen many stadiums.
+
+It has a theme centered around the color silver, and is in a dome shape, with no ceiling. Although I get the feeling there is a barrier acting as a ceiling, so no one can enter through it, nor can any rain get in.
+
+“You know where your booth is?” Shirogane asks while adjusting the gauntlets on his forearms, making me finally take notice of his attire. Attire that includes actual armor. All silver at that.
+
+Not too heavy, but at least light to medium armor, with a more medieval style to the set.
+
+“Yep,” I answer before waving at him and beginning to walk into the stadium. “Good luck!”
+
+“Thank you,” I hear him say, the man sounding rather happy with my support.
+
+We part ways as I begin heading towards the VIP booth I was given. And when I reach it, I find Little Blue standing at the entrance, tapping her foot with a frown on her face.
+
+“Hello,” I say to her with a light wave, making the little girl – who isn’t so little anymore – immediately turn her frown on me.
+
+“You’re late,” she says rather bluntly.
+
+“Blame the serpent,” I comment, apparently not surprising her in the least judging by her reaction.
+
+I frown at that.
+
+Does everyone just expect me to be eaten by something when I go out hunting now? That’s just rude.
+
+I walk past her into the booth, finding the booth to be rather luxurious in general. And with a black and red color scheme, clearly making out who it is designed for with that alone.
+
+Death.
+
+After looking through the booth for a second, I head for the lovely little chair at the front and center that looks like it was made for royalty. Then I sit down and look out the red tinted barrier at the stadium below. One filled with more people than I can count, with quite a bit of noise.
+
+From what Shirogane told me before, this tinted barrier is both for protection and to hide whoever is inside of the booth. Meaning me.
+
+So no one outside of the booth knows who I am or can see what I’m doing.
+
+Rather nice of them to add.
+
+I wait for a few minutes as Little Blue comes in and sits next to me, following which a few other people come in. All of whom are higher ups from my company, including Sel.
+
+Then the noise begins to die down a bit in the stadium and a loud voice echoes throughout it from an MC.
+
+Setting off the beginning of the tournament.

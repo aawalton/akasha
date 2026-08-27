@@ -1,0 +1,167 @@
+---
+id: 949ced14-bf3b-58ba-9ede-2a659f606637
+page-type-slug: story-chapter-royal-road
+title: "Chapter 68"
+slug: 0069-chapter-68
+partOf: death-healer
+position: 69
+ownLength: 2131
+unit: words
+publishedAt: 2025-08-28
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2555822/chapter-68"
+royalRoadId: "2555822"
+---
+
+Lily stepped out into the garden of the old villa that the Gens Claudia had owned once in the Dead Lands. The building rose behind her with pale stone that looked weathered yet proud, and the garden spread ahead under a dull sky that pressed low on the hedges.
+
+Gravel paths cut the beds into sober shapes, and glazed pots lined the colonnade where ivy climbed and pulled at the mortar. Claudia’s revelations still turned in her head, and the more she tested them, the more they unsettled her.
+
+Apparently the Church had not always cared only for Light. It had once embraced both halves of existence, Light and Darkness, in equal measure. The claim sounded like music that she knew in fragments because someone had always stopped the song before the chorus.
+
+She kept circling the same question and she asked what had changed everything. Claudia had offered a blunt theory that a Pope had gone rogue, had seized absolute control, and had reshaped the Church’s purpose. The explanation convinced her more than any other, yet even if it proved true, she did not know what to do with it.
+
+And if she somehow managed to prove it?
+
+Could she… topple the Papacy?
+
+I have Caesar's support. I have my dad's support. Maybe, in the future... Lily reasoned.
+
+Yet a more pressing problem stood in her way because the Undead moved while the Church argued. Caesar had warned her that something felt wrong and that the Necromonarch acted more shrewdly than anyone believed. If he judged the situation correctly, then the greatest danger did not come from any Pope or any council, and it came instead from the annihilation of the Papacy at the hands of the Undead. She could not chase thrones while graveyards marched.
+
+Claudia walked ahead and brought her to the garden fountain.
+
+The basin sat low and wide, and its rim showed chisel marks that a careful mason had left there a lifetime ago. Water ticked against the stone lip with a steady beat that sounded like a clock.
+
+Somehow, the enchantment for the fountain still worked.
+
+Claudia stopped and faced the pool. She spoke without ceremony.
+
+"This will be the second trial, the missing half of your Skill, Liliana."
+
+"Okay?" Lily said. "Where's the mirror?"
+
+"There is no need for mirrors. The mirror in your rooms is only an old simulacrum that someone enchanted with the right spell. You can teach Skills and you can teach even ones as complicated as this without an artifact."
+
+Claudia pointed at the water. "Look in the fountain. That is all you have to do."
+
+Lily obeyed and leaned in until her breath stirred the surface. Claudia raised her hands and Mana pressed out from her like a storm front that bent tall grass. The surface quivered, and the villa gave a low creak as if old stones remembered the hands that had set them. Wards along the eaves woke and thrummed until the roofline hummed. A chill reached Lily’s teeth and crawled along the roots.
+
+Claudia spoke in a tongue that sounded foreign at first, and then meaning slid into place inside Lily’s mind with the weight of carved granite.
+
+"By the will of the ancients, by the will of the Dark, by the will of the God of Darkness, forge this young warrior in her shadow."
+
+The water thickened and bubbled. It stank of Death Magic, and the scent carried iron. Pressure gathered against Lily’s skin and pushed at her breath. She set her heels on the stone and locked her stance because she did not want the pressure to force her back.
+
+The pool stopped boiling and went still. Silver light crossed the surface until it looked like poured mercury. The rim of the fountain bleached white while Death Mana swelled inside the basin and made the air heavy.
+
+"Your destiny is to learn this Skill, child," Claudia said. "But you will have to survive yourself."
+
+Lily knit her brows and doubt tightened her shoulders, yet the water answered before she could speak. The mirror rippled. Darkness swallowed her reflection and a hand rose from the pool. It looked inky black from wrist to nail and smoke curled from it with each small movement. The smoke dragged through the air as if the hand scratched faint lines into the world that her eyes could not fully catch.
+
+"Oh," Lily said. "I see."
+
+A figure climbed out of the water and stood on the lip of the basin. Lily took two steps back. The figure stepped down onto the flagstones and faced her. The garden went quiet and even the birds stilled in the hedges. The thing did not fidget and it did not sway. It breathed with her cadence and it matched the slow rise and fall of her chest.
+
+As the black mirror in the Gens Claudia estate had done, the fountain gave her an exact copy. It mirrored her down to the small scar at her knuckle and the slight posture she favored when she expected a feint. It mirrored her completely.
+
+The copy opened its eyes. The irises looked like wet ink, and a seven-pointed white star turned inside each one with the smooth precision of a well-made gear. The mouth curled into a grin that belonged to Lily.
+
+"Dawn's Mercy," Lily said.
+
+Smoke poured thicker from the copy’s skin. A pulse moved under that smoke and Life Magic beat through its form with a rhythm that matched her own heartbeat. Heat licked the air without flame. Lily recognized the pattern at once.
+
+"[Lux Vitae Overdrive]," she said.
+
+Caesar had drilled that Skill into her until muscles burned and breath scraped like grit, and it was one of her aces. It had the form and it had the flow.
+
+A prickling rose along Lily’s arms.
+
+The copy narrowed its eyes and the stars brightened.
+
+The gaze tracked along Lily’s shoulders and hips as if it measured joint angles and counted how she loaded her feet. She slid left and then right to break the reading and the copy matched her beat for beat. She centered her weight and let her focus sharpen until sound thinned and the world shrank to footwork and reach.
+
+She had trained the gaze to read motion and to map lines of weakness that crossed a body like hidden seams. The copy held that gaze, and the stars turned in clean arcs. The fountain gurgled once as if the pool approved. Claudia watched in silence. Her face showed nothing, yet the set of her shoulders told Lily that the old Matriarch would not intervene.
+
+If the copy carried two Skills, then it might carry the other two as well, and she needed to confirm before she committed.
+
+"Come on," Lily said.
+
+The copy answered without words. It tilted its chin in the same small challenge Lily used when she wanted an opponent to make the first mistake.
+
+Lily slid her left foot half a length and kept her guard narrow so she could close lines quickly. She angled her body to offer less target and to set a trap for a right-hand entry.
+
+She did not blink.
+
+She tracked the rise of the copy’s heel and a twitch that moved along its forearm, and she caught the faint, clean scent that came when Life and Light braided inside her veins.
+
+Does it have...
+
+The answer, of course, was yes.
+
+The body of the shadow snapped forward because [Coniunctionis flooded it, and Lily had to fight at the very limit of her ability from the first step.
+
+The shadow went full-out from the start.
+
+She parried a punch, but then she screamed in pain.
+
+Death Magic electrified her skin and corroded it like acid that ate fast. Her skin lifted and her flesh sizzled in sharp lines where the touch had landed. She flared Life Flow and changed her style at once.
+
+She gave up hard parries and turned to pure movement because she could not afford the trade. She tried to make the shadow miss by centimeters and she tried to move on the half-beat. Yet the shadow possessed the same ocular Skill and it predicted her choices. Ocular Skill faced Ocular Skill. [Lux Vitae Overdrive] met [Lux Vitae Overdrive], and [Coniunctionis] lined against [Coniunctionis]. The exchange blurred and she could not read it with conscious thought because the rhythm changed between heartbeats.
+
+The shadow kept silent and it remained relentless.
+
+"What am I supposed to do?!" Lily shouted.
+
+Her mother had given clear instructions for the trial of Life Flow, and that memory did not help here. This trial outstripped her capabilities.
+
+The shadow did not only mimic every ability she had, because it also carried a Death-Magic strike that tore at the body.
+
+"The Skills that have run in the Gens Claudia are the two aspects of existence. Life and Death, Liliana."
+
+"OK?" Lily said, and a strike passed a hand’s breadth from her head.
+
+She saw an opening because her gaze caught a gap under the elbow. She kicked the side of the shadow with all the force she could bring. Her shin hammered shadowy ribs under the power of [Coniunctionis] and the impact cracked across the courtyard.
+
+"What power did you use to pass the trial?" Claudia asked.
+
+"Healing?!" Lily shouted as she slipped outside another line. The shadow popped up from the flagstones and her kick looked like it had never landed.
+
+"Healing? Is that it?"
+
+"Medicine?! Knowledge?!" Lily bobbed and weaved and she tried not to get clipped while she formed a plan.
+
+"Your knowledge of Life was tested, but your knowledge of Death was not."
+
+"What does that even mean?!"
+
+The shadow’s foot snapped out. The tip dug into her stomach. Lily retched and heat flooded her eyes. She doubled over and then she rolled across the stones so a second step would not crush her skull.
+
+"Death. You know about life. The memories you have told you a lot about that. But what about Death? What is Death?"
+
+Lily frowned and she stopped asking questions.
+
+What is Death? the blonde girl wondered.
+
+A few words came to her mind.
+
+Apoptosis. Shock. Cellular death. Shortening of the telomeres.
+
+Her mind sketched more because study had left lines that she could follow. She pictured necrosis that spread when membranes failed and she pictured ischemic cascades that dumped calcium into cells until enzymes ran wild. She thought of oxidative stress and free radicals that chewed through lipids. She thought of mitochondrial collapse and cytochrome release that triggered caspase activation. She thought of p53 that halted replication and she thought of senescence that set in when telomeres frayed. The list did not give comfort and it did not stop the shadow’s advance, yet it gave shape to what pressed against her skin.
+
+Her eyes went wide and she stopped dodging for a heartbeat. She let the shadow brush her face and she felt the thing that hid inside the touch. Death Magic drove at the substance of her cells. It entered and it shredded.
+
+I’ve never even thought about this. Am I an idiot?
+
+Lily pulled Darkness to her hands. When the shadow struck, she caught its wrist and she twisted so the joint locked. Bone that was not bone buckled. The shadow failed to react in time and she threw it down so hard that the tiles trembled under her boots. She stepped in and drove a punch into its chest with everything she had. She pushed Darkness through her knuckles and she forced her mind to hold every Death-shaped memory she owned. The blow ripped its pattern apart and the body came apart like smoke that had lost heat.
+
+"That was… hard," Lily said as she panted and then bent her hands to her knees. [Lux Vitae Overdrive] burned in her and her Skills ran hot, yet the fight still wore her down. Fighting someone built on her exact level gnawed at her focus until her jaw ached.
+
+"How many trials did your first ritual have, Liliana?" Claudia said. "This is not the end."
+
+Lily turned toward the fountain and two shadows rose from the pool and climbed onto the rim. The water stilled again and silver light settled as if it waited.
+
+"You’ve got to be kidding me," Lily said as her hands trembled. "That’s too much!"
+
+"We’ll see."
+
+A trickle of Death Mana from the dissolving body slid into her arms and then into her chest. She felt a closer connection to a pattern that did not belong to Life, but to the Great Skill of Death that the Gens Claudia had once guarded when the Seats of Darkness still stood and still had names that the Church had not erased.

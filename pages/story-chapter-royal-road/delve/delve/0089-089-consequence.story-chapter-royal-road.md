@@ -1,0 +1,247 @@
+---
+id: ba62d3bb-4194-5261-a4c7-3698589e159c
+page-type-slug: story-chapter-royal-road
+title: "089: Consequence"
+slug: 0089-089-consequence
+partOf: delve
+position: 89
+ownLength: 4502
+unit: words
+publishedAt: 2020-04-05
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/477660/089-consequence"
+royalRoadId: "477660"
+---
+
+Here we go. Rain clenched his hands and got up. Velika was returning.
+
+She had grown bored while he’d been giving his awakened 101 lecture and had left. She hadn’t answered when he’d asked where she was going, but he’d figured it out from the lair display. The percentage of remaining monsters had started dropping. She’d apparently finished, even though the meter still read 2%.
+
+Rain glanced at Val, seeing that he still wasn’t awake. He was tied-up near Arlo and Kettel, who were locked in the midst of a circular argument about magic.
+
+Rain forced himself to unclench his hands and walked out to meet the Citizen. Val and the others would be safe enough without him for a few moments, especially now that Velika had cleaned house. He waved to her as she approached. “Citizen Sadanis, can I talk to you for a minute?”
+
+Velika looked at him, arching an eyebrow and coming to a stop. Rain glanced at the others, then back at the Citizen. “Alone?”
+
+“Why?” said Velika.
+
+“Because what I want to say shouldn’t be heard by anyone else,” Rain replied. “It could be dangerous.”
+
+Velika snorted. “Since when are words dangerous?”
+
+Rain shook his head slowly. “Since forever. Please?”
+
+Velika sighed. “You know I’m starving, right? And don’t even think about offering me one of those bland ration bars. There’s real food waiting for us outside. I made sure of it.”
+
+“It’s important,” Rain said.
+
+“Fine,” Velika said, gesturing. “Lead the way, Death Zone.”
+
+Rain didn’t even react to the nickname. He was in no mood. He walked until he figured that there was no chance of the others overhearing them, then kept walking. There were a few tier-zero sensory skills, and while he didn’t think it would be likely for any of the newly-awakened to take them, he couldn’t risk this conversation being overheard. It would only take one person to get curious. That could get all six of them killed. If anyone is going to die from what I’m about to do, it will be me and me alone…
+
+He kept walking.
+
+Damn it. It’s only a matter of time until she snaps and starts executing people. I can’t wait any longer.
+
+“Heavens above, are we going bird-watching?” Velika said. “This is far enough. Say what you want to say. They won’t hear us from all the way over here, even if we yell. Damn it, stop already!”
+
+Rain stopped reluctantly, turning to face her. He took a deep breath and let it out slowly. This needed to be done, and there was no point in trying to lead up to it. If she killed him for it, at least it would be fast.
+
+“I know you can’t leave the barrier.”
+
+Velika’s face was all the confirmation he needed. Her eyes widened with shock before her expression twisted into one of murderous rage. She raised both of her hands and slammed him backward.
+
+Resisting the urge to activate Force Ward was one of the hardest things that he’d ever done. If she’d wanted to kill him, he would have already been dead. Instead, he took the hit, allowing her to send him spinning to the ground. He took a few points of damage, but his armor protected him from the worst of it.
+
+“You fucking idiot!” Velika said, stomping toward him. He got up carefully, raising his head to face her as she closed in. “I won’t tolerate rumors. Tell me who you heard that ridiculous shit from, or I’ll kill you.”
+
+Rain shook his head. “No one told me. I figured it out on my own, and I have no intention of telling anyone. You have a problem, Citizen, and believe it or not, I want to help you with it.”
+
+Velika narrowed her eyes. “Another schemer. You’re worse than Rill. I thought I had you all figured out, and then you pull this? Was all of that timid adventurer stuff just an act to get me to feel bad for you? Just some performance?” She placed her foot on his chest and shoved him, hard, like someone opening a door by kicking the push-bar. Again, he was sent flying. “I can leave the barrier whenever I want, and I don’t need your fucking help. All you want is for me to let you out of here, and your little guess is just that: a guess. You’ll be lucky if I don’t kill you for this stunt, no matter how useful you are.”
+
+Rain shook his head, climbing back to his feet. “It was a guess, but I’m not wrong, am I?”
+
+“You—”
+
+Velika spluttered as he held up his hand to cut her off. “If I’m wrong, you could just prove it by walking through the barrier. But you won’t. Your reaction is all the confirmation that I need.” He flinched back as she raised her fist, then stopped himself. Cowering wouldn’t help him. He straightened his back. “Hit me, if you want. Kill me, even, but I promise you, it won’t go well for you if you do. You need me.”
+
+“Seriously!? Are you fucking threatening me?!” Velika screamed. This time when she kicked him, it was nothing like before. He flew for at least ten meters, only stopping because he crashed into a tree. He felt his back twist horribly and heard the splintering of wood. He lost a good third of his health. The pain would come later, he knew.
+
+He moaned, lying dazed on the ground. Shit, she really might kill me. Maybe a little cowering might be called for, after all.
+
+Velika entered his field of view, staring down at him. He cringed as her hand shot toward his face, but she only grabbed his helmet and tore at it, rather than smashing his skull like a melon.
+
+“Damn thing, how does this…” She grunted in frustration, tugging at the catch. There was a groan of metal, then a pop as she tore the helmet free, tossing it aside. Rain closed his eyes as he heard it land in the water with a splash. Force Ward would not save him. Attacking her with one of his offensive spells would get him killed for sure. All he could do was hope she would come to her senses.
+
+He waited, scarcely daring to breathe. Velika let out a primal scream of rage, and he was sure that he’d have soiled himself if Purify hadn’t been so thorough about cleaning out his colon. However, while her scream continued, the killing blow didn’t come. There was a loud crash, and he opened his eyes to see the Citizen attacking the remains of the tree that had stopped his earlier flight. She kept at it, ripping off branches and tearing them apart with her bare hands.
+
+Once it was reduced to flinders, she kicked the ground, sending a loose clump of mud high into the air. She collapsed next to him, panting with exertion. “Fuck,” she swore, glancing over at him, then looking away.
+
+Slowly, Rain sat up. He chose to stay silent, giving Velika time to think.
+
+“I hate all of you,” Velika spat. “You fucking snakes. You’re going to stop cleaning the water if I don’t do what you want, aren’t you? Well, what if I find some other way to deal with the problem? What if I just let the peasants die? Did you think of that? You’re not as important as you think you are.”
+
+Rain shook his head. “No, that isn’t what I’m saying. I’ll keep Purifying the water, even if you lock me up and force me to do it from a cell. People will die if I don’t. I would never use something like that as a bargaining chip.”
+
+“Then what the fuck is it that you want? What stupid game are you playing here?”
+
+Rain didn’t answer immediately. He looked away from the Citizen, then raised a hand, motioning to the others to stay back. They had gotten up at the disturbance and were headed in their direction. They didn’t stop, so Rain hurriedly made a few signs in common hand code. “Danger. Retreat.” Both were large, sweeping gestures, visible at a distance by design.
+
+Learning CHC had been on his to-do list ever since he’d found out about it. It was a full language, but he had only picked up a few of the basic signs so far. The Watch used exaggerated versions of them for silent communication in combat and while on patrol. Mercifully, it looked like Breggeh understood. She said something to the others, then herded them back.
+
+Rain sighed in relief, then turned his attention back to Velika. “I told you: I want to help. Yes, I want to get out of the barrier, but it’s more than that. I can see where this is all going. If I can guess that you’re trapped, then so can others. The signs are all there. You have no money, so you’re taxing the city and collecting all of the Tel from this lair. You have no guard or retainers, so you’re recruiting your own. Hells, you’ve got a city to run. Does Westbridge think you can do it alone? Why didn’t he send some people to help you?”
+
+“Fuck Westbridge,” Velika said coldly, slamming her fist into the ground.
+
+Rain nodded. “I don’t know if this is some sort of game or a test or something, but whatever it is, it’s sick. People’s lives are on the line. There’s more going on than just the war with the Empire. What is it? What does he want?”
+
+“I don’t fucking know,” spat Velika, looking away. “He won’t tell me anything.”
+
+“Have you tried asking the other Citizens?”
+
+Velika shook her head. “I can’t. I should be able to, but I can’t. He’s the only one I can contact. He controls the barrier. I think he set it to block messages from everyone but him.”
+
+“Is there some way we can get control away from him? The source of the barrier is where he broke the ground, right?”
+
+“It’s a stone obelisk thing. It doesn’t work, though. No controls, no nothing. I can’t even break it with the third sword.” She indicated the odachi at her hip, then got to her feet and drew the massive greatsword from her back. “Maybe if I had the fourth sword instead of this useless FUCKING OAR!” She threw the blade out over the water. To Rain’s surprise, there was a sudden flash of green light as it collided with an invisible barrier. It fell into the bog with a splash. Was that the edge of the lair?
+
+Velika started pacing, pausing from time to time to glance at him. “Fuck. I didn’t want any of this. Westbridge is a pile of steaming horse shit, and I’m going to murder him the second I get my hands on him. When he comes back, I’ll rip his gods damned head off.”
+
+Rain cleared his throat. “That right there is the problem. Well, one problem. Just killing people isn’t going to get you out of this. Do you even know whether the barrier will fall if he dies?”
+
+Velika sighed, sitting back down. “I don’t.”
+
+Rain nodded. “We need to figure out what his game is before we can negotiate with him. Killing him might trap us in here permanently for all we know. Like it or not, he’s got all the power if he’s really in charge of that artifact. I’d like a look at that, by the way. I doubt that I’ll be able to do anything you couldn’t, but I’d like to try. Unless we manage to find a way around him, we need to bide our time and keep the city calm until he decides to let us out.”
+
+“We?” Velika said, looking at him. Her brow darkened. “You’re saying you want me to put you in charge or something?”
+
+Rain shrugged. “I’m not sure that I’d be much better at ruling a city than you are. All I know is that threatening to kill people isn’t going to get you much further. You need to start trusting people and delegating. You can’t do everything yourself.”
+
+“You think I don’t know that?” Velika snapped. “The problem is that it’s all bastards like Rill. Did you know he rigged the lottery to get his idiot son in here?”
+
+“You knew about that?” Rain said, raising an eyebrow. “Why didn’t you stop him?”
+
+Velika snorted. “So that’s a yes. You know why. You said it yourself, not thirty seconds ago. He’s got leverage on me, just like you do. Lots of the nobles listen to him, so I need him on my side.” She paused. “Does he know I’m stuck too?”
+
+“No idea,” Rain said. “If he does know, he knows better than to talk about it where anyone could overhear him. He certainly didn’t say anything about it to me. If that little fact gets out, we’re looking at…I don’t know. Maybe a riot. Nothing good.”
+
+Velika nodded. “Yeah.”
+
+“Now you see why I wanted to talk to you?”
+
+She snorted. “Not really, no. If it were me, I’d have just shut my damn mouth and pretended like I hadn’t noticed a thing.”
+
+Rain rubbed at his eyes, the metal of his gauntlets cold against his bare skin. “I needed to. Tell me, would you have let me go back to the Watch after this little adventure, or would you have locked me away as your personal beacon or something?”
+
+Velika laughed. “I don’t suppose you know Spring, do you?”
+
+Rain shook his head. “Nope. I don’t have any free skill points, either. I’m capped.”
+
+“A shame,” Velika said, looking at him speculatively. She turned her head away and chuckled. “You’re smarter than you look, you know. I was actually considering it, Spring or no Spring.”
+
+“Right,” Rain said. “I figured, better to do it on my terms. I’ll help you. Cater to your every whim, even, as long as it isn’t anything horrible. You need to listen to me, though. There are lines that I won’t cross. I’ll work for you, but I refuse to be a slave, or a slaver. That’s another thing. I want you to let Carten go.”
+
+Velika looked at him, then broke out into genuine laughter. “Ha! I don’t think he’d leave. He told me he loves me, can you believe it?”
+
+Rain blinked. “Wait, what?”
+
+“I know!” Velika said, climbing to her feet, still laughing. “If he were a schemer like you and Rill, I’d assume he was lying, but he’s way too dumb for that. All it took was a few ropes and chains, and now he’s professing his undying love.”
+
+She doesn’t mean… “Is he a prisoner, or not?”
+
+Velika looked at him. “What are you, dense? No one is that oblivious. No, he’s not a prisoner. He likes the shackles.”
+
+Rain felt blood rush to his face. Of course, he’d known what it sounded like Velika was referring to, but he wasn’t sure if it was a thing in this world. Clearly, it was. “Wow…Carten.”
+
+Velika laughed. “Aww, blushing? Are you embarrassed? Never been with a woman before?”
+
+Rain shook his head. He had, but he felt no need to discuss the topic with someone who’d just come within a centimeter of murdering him. “Two more things, if I’m going to work for you. One, no sex stuff. Not that you aren’t attractive. You are. The power dynamic is just too messed up.”
+
+Velika laughed. “Prude. And your second condition?”
+
+“Once the barrier is down, you let me and my friends go. No, scratch that, you let anyone go who wants to. No keeping people against their will. I’ll wear your pin, but I’m not quitting the Guild. Once this barrier is down, I’m gone.”
+
+“Fair enough,” Velika said, offering him her hand. He grabbed it and let her pull him back to his feet. “Congratulations, Lord Rain. You’re now my second in command. Rill can go twist.”
+
+“Not a lord,” Rain said.
+
+She laughed. “You are now. Fuck anyone who says different. Now, I’ve got my first order for you. Go get that damn useless sword. I’ll work on figuring out a story to explain our little…disagreement to the others.”
+
+Rain nodded.
+
+“Oh,” Velika said, laying a hand on his shoulder. “If you ever betray me, I’ll kill you, even if it means this whole city dies with the both of us.” She released him, then gave him a push in the direction of the water. “Now, go on. I’m still starving, and Mr. Lovey Dovey is waiting for me.”
+
+Rain fought to keep his legs from trembling as he limped toward the water. His back was killing him.
+
+What have I done?
+
+Melka adjusted her grip on her daggers and shifted her stance. It was hard to stay ready for so long, but she knew that when the Citizen came out of the lair, even a moment’s hesitation could prove fatal. It had happened before.
+
+The Watch had decided to make their move. They’d retaken their stronghold, displaced the nobles, and reactivated the suppression ward. Velika’s fate was sealed. She would never be able to overcome what was waiting for her out here, no matter how strong she was.
+
+Melka’s hands quivered. She squeezed her daggers tightly until they stopped, keeping her focus on the swirling green magic filling the doorway. This was no time for doubt.
+
+Almost the entirety of the Watch was here, and a good portion of the Guild as well. Even some of the nobles had been convinced to switch sides once they saw which way the wind was blowing. Those that hadn’t had been captured, or in a few regrettable cases, killed. There was no turning back from this. They were committed.
+
+The moment when the Citizen emerged from the lair was their best shot at ending this farce without taking any casualties. They had one chance. One critical second in which the lair’s revocation of the damage limit would leave the Citizen vulnerable. She wouldn’t even have time to realize she was under attack before it was over. A single, massive strike from the combined forces of the city to annihilate the oppressor.  Fel Sadanis belonged to the Watch.
+
+Unfortunately, the room that guarded the lair wasn’t big enough to fit everyone. All of the sentinels were in here, plus all but one of the Guild silverplates. The rest of the space was taken up by officers and bronzeplates with ranged skills. Melka was only allowed in because Talasa had intervened on her behalf. The Citizen was going to pay for what she’d done.
+
+A silent ripple of excitement spread through the room as the barrier swirled. Weapons were raised, and spells flared to light. Someone was coming through.
+
+Melka’s eyes flicked to sentinel Lamida. The red-robed woman had a fireball swirling above one hand. Her other hand was raised as well, signaling them to hold. Melka looked back to the barrier just as an armored leg came through. Rain.
+
+The runes glowing across the ceiling dimmed briefly as the suppression ward kicked into overdrive, pouring mana into Rain’s armor as he emerged. He froze as he saw what was waiting for him. Melka noticed that he was carrying a body in his arms, but she’d hardly had time to register this before Phoss body-slammed him out of the way. The adventurer went flying, doubtless crying out in pain and alarm, though she couldn’t hear a thing thanks to Muffle.
+
+The body that Rain had been carrying fell to the ground and an officer rushed forward to drag it out of the way. No, not a body. Looks like he’s just unconscious. They wouldn’t have bothered to tie up a dead man. It must be the intruder that the guards told us about. Don’t I know him from somewhere? She shook her head, putting the man out of her mind. If he was unconscious, he was of no concern. She winced as Phoss threw Rain across the room. An adventurer would not be so easily damaged, but that still looked like it had hurt. Nevertheless, she was relieved that Rain had come out first. She didn’t know what she would do if her first friend outside the Watch were to die in the crossfire.
+
+Another form became visible through the barrier, and Melka tensed, but it wasn’t the Citizen. It was the red-armored noble. He was similarly blindsided by Phoss. Melka motioned urgently to Rain, signaling him to stop resisting the officers that were trying to hold him down. He broke free, then, to her surprise, responded in hand code.
+
+“Danger.”
+
+When did he learn that? She shook her head. “No,” she signed. “Massive attack. Vengeance.”
+
+She didn’t get to see his response, as the officers had grabbed him again and were dragging him from the room. Good. There’s no time to convince him to join us. It’s best if he just stays out of it.
+
+She turned her attention back to the barrier. She was a melee fighter, so she wouldn’t be participating in the strike, but didn’t mean that she could lower her guard. Her heart was racing, and blood was pounding in her ears. Each time a form came through the barrier, it had a chance of being the Citizen. Each time it wasn’t, it only heightened her nerves.
+
+Finally, chance became certainty. She’d been counting. Rain plus seven others had come out, including the unconscious man. Normally, that would have been it, but the guards had said the Citizen had breached the barrier somehow. She was in there, no doubt about it.
+
+“Be ready to strike immediately. Do not let her react,” Lamida signed. Clearly, she had been counting too.
+
+A foot emerged from the barrier, and Lamida threw her fireball. The other mages launched their magic as well, and those with ranged weapons opened up with whatever skills they had at their disposal. Force, Mental, Heat, Arcane, and Chemical magic mixed and combined, only Cold missing from the elements that the Watch had at their disposal. Citizen Sadanis disappeared in a maelstrom of magic. Muffle was overwhelmed, the roar of fire and the crash of thunder echoing through the room. Still, the Watch didn’t let up. If the first strike hadn’t ended it, their only hope was to pour on enough damage to finish the job. Five seconds. Ten. Twenty. Finally, Lamida raised her hand, signaling everyone to stop.
+
+Silence and darkness returned as the magic faded. Melka’s eyes burned as she gazed at the inferno, but she wouldn’t look away. She needed to see this with her own eyes.
+
+The Citizen was gone.
+
+Where she had been standing, there was nothing but melted rock and swirling ash. Even the arched entrance to the lair had been destroyed by the heat, the stone dripping like wax. The green barrier remained visible through the melted hole in the wall, unharmed. It would take much more than that to damage a lair.
+
+Still, she didn’t relax. The Watch had trained for this. You never knew what tricks a powerful awakened would have at their disposal. At the level of the Citizens, almost anything was possible.
+
+Cautiously, Lamida walked forward, heedless of the heat radiating from the stones. Melka’s eyes widened, but there was no time to cry out a warning, nor would Lamida have heard her if she had tried. In fact, by the time Melka realized what had happened, Lamida was already dead.
+
+The Citizen’s colossal sword had shot through the barrier like a bolt from a ballista, impaling Lamida and blasting her out of Melka’s sight. In her place stood the furious Citizen, holding a wicked, black-bladed katana in one hand, and a matching wakizashi in the other. Her armor was charred and broken, the skin below bloody from numerous lacerations and burns. Her right leg was a complete mess, the armor burned away completely. Damn it! She retreated inside. We struck an instant too soon!
+
+The Citizen stood, motionless, a furious expression on her face as she stared at the Watch surrounding her. Melka didn’t see who fired the arrow, but the result was predictable. The room erupted into chaos as the Citizen attacked. The mages launched their spells, but the Citizen was already gone, slicing into them as their attacks shattered the stone where she’d been standing moments before. For whatever reason, Muffle was able to keep up this time. The lack of sound made the entire scene seem surreal.
+
+Melka raised her daggers and charged. There was no time to think, no place for hesitation.
+
+She had taken no more than three steps before her body jerked, and she fell, suddenly unable to control her legs. She looked down in horror, seeing red rapidly spreading from a razor-thin slice in the armor across her torso. Sound returned to the world as she toppled, and she realized that she was screaming. She hit the floor, as did the three other officers who’d been standing next to her. One of them had been the one to cast Muffle. He had been killed instantly, by the fact that the enchantment had broken.
+
+Melka toppled forward, shielding her head with her hands as she hit the floor, her daggers clattering to the ground. My legs… She twisted, feeling for the wound with her hands. Oh no… Not again…
+
+It was bad.
+
+Fatal.
+
+Whatever the attack had been, it had come only a hair from severing her waist completely.
+
+Melka felt tears well up in her eyes as she struggled to stay conscious. Over the sound of the battle, her panicking mind latched onto the frantic ringing of bells, echoing down through the stronghold from the surface. What? She felt her strength slipping away faster and faster as her blood drained out onto the stones.
+
+No. Not yet. She extended a hand, reaching for her fallen dagger. Her fingers closed around it, the cool metal comforting and familiar in the palm of her hand. Her eyes locked on to the Citizen, and she snarled. She began hauling herself toward the battle hand-over-hand, her useless legs flopping as her guts unspooled from her stomach. The pain was unimaginable, but she would not give in, not while she could still fight. Not while she still had a chance to kill her.
+
+However, determination was not enough. Not against the reality of death. The world was going black, and there was not a thing she could do to stop it.
+
+I’ll never make it. I’ll never make it. I’ll never…make…
+
+With a wordless cry of defiance, Melka levered herself up and used the last of her strength to fling the dagger at the woman who had killed her. The blade tumbled through the air, but Melka never saw if it hit. The light had already faded from her eyes.

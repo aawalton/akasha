@@ -1,0 +1,165 @@
+---
+id: 766646fd-43b0-59d8-8a11-9e050c4f323c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,399 - The Fisherman and the Oriole"
+slug: 0077-chapter-1399-the-fisherman-and-the-oriole
+partOf: defiance-of-the-fall
+position: 77
+ownLength: 2949
+unit: words
+publishedAt: 2026-01-20
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2962117/chapter-1399-the-fisherman-and-the-oriole"
+royalRoadId: "2962117"
+---
+
+Idiche saw where things were headed and she didn’t like it one bit. “Do you really think lightning can strike twice? They’re obviously expecting an ambush because of our previous stunts. That barrier is not only there to hide them from the lodge. It has strong defensive properties too.”
+
+“I’m aware,” Zac said.
+
+Just as Idiche pointed out, the barrier was a multi-function C-grade Array. Judging by the soldier with a hole through his chest, their presence wasn’t quite as welcome as Zac and his party. The barrier kept them out of harm’s way primarily by concealing their presence, including any moonlight they gathered. It was maintained not only by a dozen soldiers but also by the C-grade mage himself. Breaking through it in the short term was not an option. But what reason was there to choose such a foolish approach?
+
+Idiche wasn’t mollified by the perfunctory answer. “Even if your scheme works out, is it worth it? Wasn’t our plan to snatch the Divine Core while avoiding our enemies? We could just sneak inside without them being any the wiser.”
+
+“It’s not enough,” Zac muttered. “They’ve almost made it through the door. They could open it right now if they were willing to take some losses.”
+
+Esmeralda nodded in agreement. “Our situation isn’t as good as I’d hoped. They’re keeping the whole structure under constant surveillance. Keeping the two of you hidden is already pushing my limits. They’ll immediately notice the change in energy flow when we open the door, and they’ll go ballistic when they realize someone else is about to grab the Divine Core. We’ll be in the same situation as now, except without the element of surprise.”
+
+There were other problems that Zac didn’t bother mentioning. While he trusted that Idiche could open the door, there was no guarantee it would grant passage to all three of them. Zac wanted to cause some damage in case he ended up stranded. There was also no assurance that the pathway would lead to the Divine Core. Idiche’s subconscious might be guiding her waking self with another goal in mind.
+
+“What about sticking around and sneaking in with them, then?” Idiche suggested in a final, halfhearted attempt to quell the growing determination in Zac’s eyes.
+
+“Don’t worry too much. These chaotic situations tend to work themselves out,” Zac comforted. “I’m a pretty lucky guy, and lightning strikes twice all the time.”
+
+“He’s right. I’ve seen it myself,” Esmeralda giggled, staunchly supporting her protégé. “Sometimes there was so much lightning I thought I would go blind.”
+
+By the time the discussion settled, the large barrier was almost filled with blue smoke. Zac struck just as the moonlight was sent toward the sealed gate, catching the invaders off guard during their attack. They had no opportunity to prepare for the pitch-black blade that appeared silently in the middle of the barrier.
+
+The blade of Pure Death and War tore through the group in the blink of an eye, bisecting the barrier from within. Limbs and pieces of flesh flew in every direction, and twelve lines were instantly added to the scroll that had appeared behind Zac. None of the lines reflected the two Monarchs, and the blade only caused the barrier to tremble.
+
+The surprise Zac prepared was [Desperation’s End] activated solely with Void Energy and enhanced with [Spiritual Void]. This allowed him to activate the skill instantaneously while completely bypassing the barrier. He had only dared to consider this plan after confirming that the shield lacked any hidden attributes or marks that exceeded his reach.
+
+Killing a dozen underlings was a welcome bonus but not the main goal. His finisher was naturally aimed at the two Monarchs, who were submerged in the enormous blade. It was as if they had one foot through the gates of hell but were refusing to step inside. While they failed to react in time to the sudden attack, they had already prepared a secondary line of defense.
+
+A series of azure mirrors appeared out of nowhere, raising them a dozen feet into the air. [Desperation’s End] exhausted half its energy cutting through the panes. The extraordinary speed of it all allowed what remained to tear into their targets before they could activate talismans or skills, but Zac knew it wasn’t enough to secure a kill.
+
+A weakened [Desperation’s End] simply didn’t have enough power to destroy the Inner Worlds. They would have sustained some damage, and the Monarchs’ outer forms were covered in cuts, but they were far from incapacitated. Zac sighed in disappointment when not even his true target was dealt with.
+
+Zac wanted to at least destroy the sapphire on the mage’s staff. He could feel the immense power it held, as if it were the crystallized antithesis to Sevona’s lingering divinity. Zac’s instincts told him that the barrier was more designed to hide the sapphire than to protect the invaders themselves. It had to be crucial to their plans, and destroying it would ideally trigger a secondary explosion that exceeded his ambush.
+
+Zac was caught between calling it and doubling down when the sapphire proved fine apart from a few surface cracks. He still had a few cards up his sleeve. He could put the entire lobby into [Eye of Desolation], which would allow him to teleport inside the barrier while separating the Monarchs. However, doing so would leave him with few options for any upcoming threats.
+
+“You two go ahead. I’ll—” Zac’s jaw dropped when the entire barrier suddenly vanished with a muffled pop, leaving the squad of invaders exposed.
+
+This was the dream scenario, and the lodge reacted just as violently as he’d expected. An enormous rune appeared on the crumbling door, and Zac’s hair stood on end as he felt it lock onto his position. Thankfully, the lodge had limited energy and was focused on more urgent targets. The C-grade mage’s pallid expression indicated he’d reached the same conclusion. He tried to move, but something was anchoring him in place.
+
+The Monarch’s face twisted as tumorous welts spread across his body. Unsealing his corruption restored his movement, but it was too little, too late. A beam of divinity dozens of times stronger than the previous one burst from the gate. It was aimed straight at the struggling Monarch, but it didn’t forget to tear apart most of the mist creatures rushing toward the door. Two singed corpses fell in its wake.
+
+“No!” the mage roared, as a ghastly head reeking of sin appeared before him.
+
+Zac felt a surge of hatred erupt in his heart when he looked at its twisted features. He struggled to suppress the urge to break through the wall and lunge at the thing. It wasn’t a natural reaction; the mage was employing a defensive taunting skill with effects similar to [Arbiter of the Abyss] while moving out of harm’s way.
+
+It wasn’t meant to be. The lodge clung to its chosen prey, and even the moonlight retreated before its mission. It felt as though fate had locked in. The Monarch flickered like a strobe light, yet each teleportation failed to move him so much as an inch. The C-grade warrior beside him, however, was not bound by such absolute restrictions. An arm fell to the ground while the rest of the man reappeared on the other side of the hall.
+
+Only when he was out of harm’s way did the second Monarch attend to his companion. A gauntleted hand, as sturdy as a mountain, rose before the taunting face. The slight delay proved crucial, drastically altering the outcome. The holy beam moved too quickly for a considered response, and the gauntlet was torn apart before it could solidify.
+
+The ghastly head behind fared only slightly better against the onslaught. It had attracted the hatred as planned, but it exploded when it tried to swallow Sevona’s divinity. The beam erupted from the back of its head, and the mage managed to extract just enough greed from the sapphire to form three new azure mirrors.
+
+Fate was set, and the outcome was inescapable. The mage unleashed an anguished ‘WHO?’ as his body was torn asunder by the beam. A spatial storm filled with corruption and remnant divinity surged forth, unleashing mayhem in the lobby. Three of the fortunate survivors were torn apart while others saw their injuries worsen. Even the remaining Monarch couldn’t evade a gruesome blow due to an ill-fated stumble.
+
+Idiche watched the spectacle with her jaw dropped, any thought of sneaking away forgotten. Esmeralda’s grin nearly split her face, delighting in the suffering of her enemies. Her only regret was likely how small her role had been. Zac furrowed his brows, tightening his grip on the axe.
+
+The storm didn’t have a chance to settle before an azure sphere ignited like a sun at the heart of the destruction. The sinister energy trapped inside the sapphire was released. It didn’t explode like a dirty bomb, as Zac had expected. Instead, it seemed to have a mind of its own. It contracted to endure the divinity before rushing toward the gate at supersonic speed.
+
+The holy rune had already faded, and the wood beneath appeared more decayed than before. The door had poured everything it had into its final strike, leaving it completely exposed. The azure ball erupted in blinding light. When Zac could see again, the massive door and parts of the surrounding wall were simply missing.
+
+Zac couldn’t see what awaited on the other side from their vantage point, but the call of the Divine Core had grown significantly stronger. As expected, the main lobby led straight to the Hall of Abundance. Even so, Zac only glanced at Esmeralda and asked her to stay put. She nodded thoughtfully.
+
+‘I agree. Something’s wrong.’
+
+“Enemies! Activate the seal!” one of the soldiers roared, and those who could hurled a set of engraved spheres.
+
+The metal balls pulsed with azure scripts as they flew off in every direction. At the same time, the enormous window erupted with blinding radiance, showering the lobby with intense moonlight. Instead of pouring into the newly exposed corridor, most of it rushed off in pursuit of the floating balls. Only a quarter remained at the broken doorway to create a barrier of azure smoke.
+
+Zac calmly watched as their room and the corridor outside filled with azure smoke. He somewhat regretted not rushing back toward their planned side entrance. At the same time, he hadn’t stayed out of curiosity or shock. New variables had emerged, necessitating a change of plans.
+
+The main entrance had been cracked open, and their opposition was severely weakened. Two Monarchs and three dozen helpers was too much to handle, but one wounded Monarch was something Zac could deal with—especially considering their hidden helper.
+
+Zac was certain there was a third party involved, because he couldn’t believe how things had played out. Literally. He’d hoped that [Desperation’s End] could disrupt the barrier long enough to trigger a response from the lodge. Except, that wasn’t what happened. The barrier’s collapse was unrelated to his attack. Someone had used the chaos to strike from the shadows, employing a method so concealed that Zac still had no clue exactly what happened.
+
+“There’s a third party. Can you sense them?” Zac whispered.
+
+They couldn’t leave until the situation was resolved. The hidden party was both powerful and cunning, though not strong enough to directly annihilate the invaders. Idiche herself was the most likely suspect, but he was certain she hadn’t acted in secrecy. Zac had kept an eye on her throughout, and she had barely shifted her energy.
+
+That meant there really was someone else who’d managed to reach the lodge in time. The best outcome would be to drag this person into the spotlight and have them take the blame for the entire ordeal. Meanwhile, Zac could sneak off to pick up the Divine Core. The problem was that the newcomer likely had the same idea.
+
+“Nothing,” Esmeralda said, and Idiche was equally clueless.
+
+The remaining Monarch looked like he had just eaten a steaming pile of garbage as he returned to the center of the hall. His wounds were already closing, but his aura proved his wounds were real.
+
+“Split up and search every adjoining hall,” he barked. “Find the rats caught in our web.”
+
+Zac’s eyes lit up at the foolish order. Who was he to refuse if the enemy general wanted to send a few sacrifices his way?
+
+“I’ll take out the first party, then rush in. Try to drag a few into an illusion and then go for the Divine Core,” Zac said, but a second command immediately dashed his plan.
+
+“Ignore that order, you fools.”
+
+The remaining soldiers froze in place before deeply bowing toward the figures entering from the outside. “We greet Lord Descartes!”
+
+One of the two figures was a powerful outsider who lost his arm before having it magically reappear. He was in cahoots with the invaders from the other timeline after all. Judging by the fear and deference in the soldiers’ eyes, he likely led the whole operation. Beside him stood another Monarch, whose aura was quite unstable. Descartes had managed to cross the last two rivers without a scratch, but his follower appeared to have suffered along the way.
+
+Descartes remained unfazed by the bodies strewn across the floor or the loss of the sapphire.
+
+“Trash who can’t even see you’ve been infiltrated,” Descartes berated. “Are you coming out, or shall I drag you out myself?”
+
+Zac's body tensed, preparing for a frantic escape. At that moment, a familiar voice echoed through the halls.
+
+“Your eyes are pretty sharp. Good foundation, too. It’s a shame I’m already well over budget. Lompo would never forgive me if I picked up another mouth to feed.”
+
+“Don’t tell me,” Esmeralda shuddered as the warrior’s body began to distort.
+
+“WH—” the Monarch didn’t get further before a stream of starlight poured from his mouth.
+
+Zac felt both shock and confusion as the streak of light took the shape of Kaltosa Lu. His host kept stuttering and shaking behind him, unable to form coherent words. He crumpled within seconds, and a mist that screamed danger to Zac poured from his apertures and wounds. It was a highly potent toxin.
+
+“Good, not great,” Kaltosa Lu muttered. “Too little time for customization.”
+
+The Elemental seemed oblivious to the encirclement, and Descartes didn’t order an attack. He continued to look around, and Zac understood why. Descartes knew Kaltosa Lu wasn’t the only enemy to reach the lodge.
+
+“Shouldn’t we help him?” Idiche whispered urgently.
+
+“And have him kill us all as a thank you?” Zac replied with a grimace.
+
+“You know that elemental?” Idiche asked. “Is he an enemy or a friend?”
+
+“Neither. Both,” Zac muttered, the gears in his mind turning.
+
+Having Kaltosa Lu appear out of nowhere certainly explained how the barrier had been breached. He’d been hiding inside the Monarch’s body for God knows how long. Considering his origins and his terrifying talent with formations, he probably had a dozen ways to disrupt the shield. He must have been waiting for them to open the door before making his move.
+
+What Zac didn’t understand was how Kaltosa Lu had caught up with them so quickly. He’d left to ignite a halo on the Mercurial Court’s pillar instead of joining the worship ceremony on the Transformation Docks. The timeline didn’t add up unless he had never left the Transformation Docks in the first place, but he had clearly ignited his halo during the month of Zac’s crossing.
+
+It was technically possible that he could have already crossed the Peregrine Ocean, but reaching the depths of the archipelago so quickly? Finding an invader to parasitize without notice?
+
+Zac was far from pleased to see Kaltosa Lu appear at the eleventh hour. His strength was certainly dependable, but Zac would have preferred any Inner Disciple of the Mercurial Courts over him. An Inner Disciple might claim the Divine Core for themselves, but they had no reason to kill anyone except the invaders. Meanwhile, Kaltosa Lu might be more interested in eliminating his competition for Ultom than resolving the invasion. There was also no way he would let them slip away unnoticed.
+
+“My friend, are you going to keep me waiting? I’m beginning to think your promise of cooperation was a lie,” Kaltosa Lu said with a despondent sigh, prompting the soldiers to look around warily.
+
+“What do we do?” Esmeralda asked.
+
+“You two stay here. I’ll try to open a path during the battle,” Zac replied.
+
+‘Don’t be foolhardy. You’ve grown stronger since we last faced him, but don’t delude yourself into thinking he’s easy prey. Kaltosa Lu is a genuine descendant of the old Pryer. He’s bound to carry terrifying artifacts,’ Esmeralda warned. ‘And not to mention that other guy. Either one of them is trouble.’
+
+‘I’ll try to stall and maintain a balance between us,’ Zac said.
+
+‘Fine. I’ll handle things on my end. What about the core? If our suspicions are correct…’
+
+‘Let it play out. We don’t need the core anyway.’
+
+'First hunting a goddess, then awakening another. Things are never boring when you’re around,’ Esmeralda giggled. ‘This is why I’ve held on for so long. How can I accept fate’s course when there’s so much left to experience?’
+
+Idiche, clueless about their discussion, solemnly bowed to Zac. “Thank you for believing in me. I’ll end this hunt, even if it kills me. I won’t let these bastards get their way.”
+
+“Good luck,” Zac said as he stepped out of Esmeralda’s protective spatial fold.
+
+This would be a rough one.

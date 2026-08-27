@@ -1,0 +1,145 @@
+---
+id: 4026bf9e-7b39-53df-82e3-89e07e209877
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 30"
+slug: 0333-b5-chapter-30
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 333
+ownLength: 1459
+unit: words
+ownProgress: 1459
+publishedAt: 2026-02-07
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/3022563/b5-chapter-30"
+royalRoadId: "3022563"
+markedReadAt: "2026-06-29T19:17:07.549Z"
+---
+
+Aria
+
+I casually sip at my wine while watching the people beginning to talk all the way up in the air. With one of the knights here guarding me conveniently placing a speaker next to me that seems to be connected to the mics equipped on the Crimson Empire knights all the way up there before said knight vanishes again. Allowing me to hear everything said up there.
+
+That’s nice. These knights might be more useful than I thought.
+
+Up until now they’ve just been following me everywhere like puppies.
+
+Which has just been kind of weird.
+
+But they’re proving helpful in this battle. So that’s very nice.
+
+Anyways, the first words I hear coming from the speakers are very friendly ones coming from Pestilence.
+
+“You erased the notes I wrote during that pointless meeting. Make up for it by becoming my next experiments and I will forgive your nations.”
+
+I give a firm nod of my head.
+
+Yes.
+
+Very friendly.
+
+Arthur doesn’t bother with answering as he immediately attacks Pestilence. Sending spears of shadows to strike down at him from practically every angle.
+
+Pestilence completely ignores them even as they pierce into his body. Then he just glances down at the holes in his suit before looking up as the holes in his body bubble with a green liquid and regenerate. Clearly using some sort of poison to heal himself.
+
+Come to think of it, I’ve never actually seen Pestilence battle before.
+
+Or Famine for that matter.
+
+Although I’ve seen War fight quite a few times now.
+
+I watch Pestilence just slightly narrow his eyes at Arthur, who stares at him in return. Meanwhile Famine continues laughing his head off while draining everyone around him of stamina and magical energy.
+
+Interestingly enough though, it doesn’t look like anything’s being drained from Arthur. Probably because he must have some sort of skill that blocks it.
+
+Arthur and Pestilence continue their staring contest for several seconds before a thin green mist begins to seep out of Pestilence’s body. Meanwhile shadows seep out of Arthur’s body, turning his entire body into a shadow with glowing purple eyes.
+
+Then the shadows and green mist rush straight at each other, completely uncaring of any casualties who get in their way. And in the process tearing thousands of nearby knights and soldiers to shreds regardless of which side they’re on.
+
+In fact, the green mist even begins to mutate the ones it affects. It mutates them so badly that parts of their bodies begin to burst or even break off due to not naturally being able to do that.
+
+Holy shit… that doesn’t look like a good way to go out.
+
+It looks painful. That much is obvious from the absolute horror and despair on the faces of anyone who is affected.
+
+Despite that though, Arthur doesn’t show any sort of reaction. Now whether that’s because the mist isn’t reaching him or because he has a resistance, I’m not really sure.
+
+Either way, they continue clashing between each other. Meanwhile War just laughs while swinging his sword around, tearing apart one ship after another before hunting anyone who leaves the ships. And Famine for some reason just pauses, looking out in some seemingly random direction before grinning widely.
+
+Then he hops on his horse and dashes off in that direction. Completely disregarding the battle currently going on around us.
+
+Huh. Wonder where he’s going?
+
+“Your family has arrived at the edge of the curse’s range,” I hear one of the knights answer for me before the knight in question vanishes again.
+
+Oh. Okay.
+
+As if reacting to my thoughts, I sense some rather powerful explosions echoing from a very far distance. So far I can only sense some of the secondary explosions ringing out most likely further away from the source. Meanwhile I can see flashes of crimson light coming from that direction.
+
+Huh.
+
+Considering that they’re at least a galaxy away, that lightning must be bright as fucking hell to be visible from this distance. So bright it must blind normal people even from entire planets away.
+
+And if that’s the case, just how strong are my parents?
+
+Especially since the one with the lightning should be my father. Not the Grand of the Crimson Empire.
+
+“Is the Emperor of the Crimson Empire almost on the level of a Grand?” I ask out of curiosity.
+
+My answer comes to me right away as the knight reappears and says, “Yes, His Majesty, your father, is very nearly strong enough to be considered a Grand. Some say he is already strong enough but just hasn’t met with the other Grands to be officially recognized as one. This battle will likely set his position in stone.”
+
+Then the knight vanishes again like a passing breeze.
+
+Well that’s interesting.
+
+I continue sipping my wine while looking in the direction of the flashing lights. Then I turn my gaze towards the two Grands fighting in front of me. Arthur and Pestilence, neither of whom are really doing all that much damage to the other.
+
+Pestilence’s diseases and poisons seem to be weak against whatever resistances Arthur has, and any damage Arthur actually manages to deal to Pestilence is instantly healed by his own poisons.
+
+So not much is happening on that front.
+
+Lucius is still playing with the spaceships like they’re toys and he’s a kid on a playground though. Which is about what I expected from him.
+
+My thoughts pause for a moment as my terminal begins to buzz and I see that the call is from Ruby. So I go ahead and answer.
+
+“Mom, why are you drinking wine on a battlefield full of Grands? Wearing just a t-shirt and shorts no less?” Ruby asks, sounding exasperated and slightly embarrassed. “And where are you shoes?”
+
+I glance down to find my feet bare of any shoes or socks. Then I glance at the screen again as I answer, “Have you ever gone walking around in the heat of a volcano crater? I assure you, it’s hot here. Lighter clothes are a lot better.”
+
+“What about shoes? No shoes aren’t just lighter clothes…” Ruby mutters something, but I choose to ignore it.
+
+“On another note, how did you know about what I’m doing and where anyways?” I ask out of curiosity. Sipping my wine after finishing speaking, of course.
+
+“Because you’re being broadcast across most of the TV channels in the universe right now,” Ruby answers with a rather odd answer. “And most of the people are focusing more on the 'beautiful Death who is just lying down in the middle of the war doing her own thing and sipping wine' than on the actual war going on.”
+
+Excuse me, what?
+
+I’m not some attraction at a zoo…
+
+Several seconds pass as I continue sipping my wine before I eventually just shrug.
+
+Meh. On second thought, I don’t really care if they watch.
+
+It’s not like I’m sitting here wearing something inappropriate. I’m just in a shirt and shorts. So it’s fine.
+
+“How have you been?” I ask Ruby after taking another sip of wine and watching Pestilence and Arthur continue blasting each other with attacks, still killing a lot of people by accident in the process. And with Pestilence finally starting to gain the upper hand.
+
+Ruby sighs another exasperated sigh for some reason while rubbing her temples and answering, “I’m fine, but sometimes I really wonder about your hobbies.”
+
+“Excuse me, you have some of the same hobbies, don’t you?” I ask with my brows furrowed, making her blink at the screen. “I still remember getting a phone call from the academy about some incident only for it to turn out to be you setting up a bunch of factions in the school to fight amongst themselves as you watched from a balcony nearby enjoying the show. With popcorn no less.”
+
+Ruby awkwardly averts her eyes from the screen as she says, “Well anyway, now that I know you’re fine, I’ll be heading out.”
+
+Then she hangs up the call.
+
+My eyes narrow at the terminal.
+
+Coward.
+
+My thoughts pause when I notice War waving at me with one hand while swinging his sword through the air with the other and slicing up three different ships with a massive arc of energy sent flying by said sword. And he doesn’t stop waving until I give him a single brief wave back.
+
+I purse my lips while tapping my chin with a finger.
+
+“Why are there so many strange people around me nowadays?” I mutter out loud, only to hear someone cough from behind me. Making me glance backwards without seeing anything.
+
+So I face forwards again and continue sipping my wine.
+
+It’s such a mystery.

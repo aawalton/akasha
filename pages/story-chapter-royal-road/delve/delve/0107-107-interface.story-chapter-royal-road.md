@@ -1,0 +1,489 @@
+---
+id: e1e0d725-0d34-5f57-b478-c4657c91bce5
+page-type-slug: story-chapter-royal-road
+title: "107: Interface"
+slug: 0107-107-interface
+partOf: delve
+position: 107
+ownLength: 5533
+unit: words
+publishedAt: 2020-08-09
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/536374/107-interface"
+royalRoadId: "536374"
+---
+
+0
+
+7
+
+8
+
+9
+
++
+
+4
+
+5
+
+6
+
+-
+
+1
+
+2
+
+3
+
+0
+
+=
+
+A glowing blue panel hung before Rain in the darkness of soulspace, instantly recognizable to anyone from his reality. He reached out and tapped the button labeled ‘1’.
+
+Distantly, in the back of his mind, he felt the script that he’d written execute, collecting the input and updating the display. That had been the real trick, thinking of his mind as a computer program, running commands on the hardware that was the system. Making the panel itself was trivial to him at this point, but actually convincing it to do things was another story. He’d had to build it up, step by step.
+
+A pulse of Purify fired as he stared at the display, but Rain ignored it. This was just another macro that he’d left running in the background. It was currently interleaving pulses of Purify and Detection, following a preset pattern. Both auras were operating at extremely low power to preserve his mana reserves.
+
+The macro was the solution to the mind-crushing tedium of communication with the outside world. He’d tried sending pulses manually, but the sixty-odd second cooldown between spell activations had left him yearning for the sweet release of death. Figuring out how to queue spell triggers had thus become the first major project that he’d worked on.
+
+Now, his subconscious was executing the pattern without any active supervision. One second of Purify, then one second of Detection: One pulse. Another second of Purify, then another second of Detection: Two pulses. On and on it went as his macro tapped out his message like an old-timey telegraph operator.
+
+He hadn’t found a way to bypass the system’s tick timer despite quite a bit of effort. His baud rate was stuck at a blistering 0.5 pulses per second. That wasn’t even the half of it, though. It wasn’t like he could use binary encoding and expect anyone to understand it. No, it was a simple counting game. To send the number ‘7,’ for example, took fifteen seconds of real time. The extra second was the delimiter. It meant stop counting, write the number down, then start again.
+
+That was the first layer of the problem. The next layer was sending a message on loop with each number corresponding to a letter of the common alphabet. That message was, quite simply, ‘am fine if understand code bring doorknob.’ He’d know they’d cracked it when said random object appeared within Detection’s range.
+
+At this point, his hopes weren’t high. The message had been looping for hours out there. Still, with the macro, it didn’t really cost him anything. He could just set it and forget it, as seen on TV.
+
+Rain tapped the ‘+’ button on his prototype calculator, and the symbol appeared on the display after a split-second. His mental scripts ran at the speed of thought, which was fast, but not instant. Even doing something as simple as shifting the existing text and adding the new character was more complex than it seemed. He was working on the efficiency.
+
+He tapped the ‘1’ key again, then moved his finger to hover over the equals sign. Here we go.
+
+When he pressed the button, there was a brief delay, perhaps three-quarters of a second, then the display updated.
+
+2
+
+7
+
+8
+
+9
+
++
+
+4
+
+5
+
+6
+
+-
+
+1
+
+2
+
+3
+
+0
+
+=
+
+“Yeah!” Rain screamed at the top of his lungs, catapulting himself to his feet. He jumped around, waving his arms like one of those inflatable tube-men outside a car dealership.
+
+This went on for several minutes.
+
+It was only once he’d calmed down that he admitted to himself that he might be losing it. Roughly three weeks of solitary confinement would do that to a person. Even worse, he’d been awake for the entire time.
+
+Sure, he’d slept once early on, but he hadn’t been able to repeat that performance. It wasn’t just that he didn’t need to, he literally couldn’t. He had no idea why, but his mind kept running at full speed, whether he wanted it to or not. It was as much a curse as a blessing.
+
+Without sleep, he needed to find other ways to break up the time. Meditation helped, but it was no substitute. Projects like the calculator were all that were keeping him sane. The time that he’d spent on it was justified by more than that, however. It needed macros to work, ones much more complicated than those for the communications project. Those same macros would be the key that got him out of here, he was sure.
+
+Hoping to better understand the obelisk, Rain had carefully unpacked the memory that he’d firewalled. It had taken a week, with him fighting against the agony every step of the way. Once he’d learned all he could, he’d wrapped it up safely once more, though he didn’t technically need to at that point. The pain was just as fresh as it had ever been, but it didn’t break him anymore. He’d gotten used to it. That was concerning in and of itself.
+
+“It was worth it, though,” Rain said, speaking to the obelisk. The obelisk didn’t reply, but Rain continued on anyway. “You were trying to connect to me, but I’m broken.” He knocked his knuckles against his skull. “You couldn’t send me what you wanted, so you tried different ways, just like what I’m doing with Bartum’s people. Remind me to introduce you to Bartum. I think you’d like him.”
+
+Rain tilted his head. “What’s that? No, I’m not crazy, you’re crazy! Silly obelisk.”
+
+He laughed to himself, then pushed the silliness away. Okay, enough of that.
+
+Reaching down to the sleeve of his shirt—figuring out how to make clothes had been another involved project—Rain pinched the fabric between his fingers, drawing it out into a wire. With a few moments of focus, he shaped a metal probe on the end, about the size and shape of a dull pencil. He walked over to the obelisk and touched the tip of the probe to its surface.
+
+The moment that he did, he felt the bond to the obelisk widen uncomfortably in his mind. It had been here this whole time, quietly waiting for him to make contact. He took his hand away, leaving the probe stuck unnaturally to the smooth crystal surface.
+
+Rain’s Linksight had grown stronger with practice. After much investigation and with the help of the memory, he’d been able to discover the bond between himself and the artifact. It had been incredibly difficult to see at first, much harder than any of the other links that he’d found. That was because it had been either damaged or was incomplete, he wasn’t sure which.
+
+Fixing it had been a matter of focus, intent, desire, trial, error, and repetition. When he’d finally figured it out, his reward had been another overwhelming blast of pain, somehow even worse than before. The memory of it was currently snug in a second thought-cocoon, tucked away beside the first. In fact, there were more than just two. It hadn’t been a fun three weeks.
+
+Ignoring the link for now, Rain brought up a seemingly-blank panel. While it looked simple, it was actually made using the same construct that formed the display on his calculator. Next, he brought up a full QWERTY keyboard, which similarly used the same type of button components. He took a minute to upgrade both of them to use the latest batch of scripts that he’d just tested.
+
+Focus, intent, desire, trial, error, repetition. Those were the things that made it all possible.
+
+And time.
+
+Lots and lots of time.
+
+The keyboard and display followed Rain as he settled down onto the ground next to the obelisk. The fabric of his sleeve unspooled, stretching further so as to not break the connection.
+
+Reaching to the top right corner of the keyboard, Rain pulled, drawing out a wire just as he had with the simulated shirt of his avatar. It was the same idea, really. The keyboard was a part of him, as was the display and all of the other elements of his interface. He plugged the wire into the bottom right corner of the display, feeling the connection between the two constructs form in his mind. The physical link wasn’t necessary, strictly speaking, but the visualization helped immensely.
+
+After stretching his fingers, Rain slid the keyboard to hover comfortably over his lap, then quickly typed a pair of words, watching the characters appear on the display.
+
+Hello World!
+
+He smiled. The new macro he’d developed for the calculator was working, the improvements carrying over and making the text update much smoother than it ever had before. A few backspaces cleared out the message, leaving the cursor at the top left where it had started. He pushed the key a few more times for good measure, making sure that it stayed within the bounds of the window.
+
+Good, that’s still working. That bug was hell to fix.
+
+Reaching down to his sleeve, Rain pinched off the wire connecting him to the obelisk. He could feel the link there through his fingers, idle, but waiting to blast him with overwhelming pain the moment that the artifact realized he was trying to communicate with it. He’d had quite enough of that.
+
+He picked at the end of the thread until it split, then pulled the pieces apart like peeling a Twizzler, turning one wire into two. Again, this was all just visualization. What he was trying to do was to shunt the response from the artifact into the display, reserving the keyboard for transmission. Neither path would go to his brain directly. Even with Focus and Clarity boosted to the absolute maximum, he could barely process what the obelisk was trying to tell him. Using the panels like this provided a much-needed layer of insulation for his mind.
+
+Lastly, he disconnected the original wire between the keyboard and the display that he’d used for testing, leaving both constructs connected to the obelisk and nothing else. Now when he typed, the signal would go to the artifact, not the display. He wouldn’t see anything unless the obelisk decided to send it back to him, which was what he was hoping for.
+
+“Right.” He cleared his throat. “Commencing communication attempt number thirty-seven: isolated terminal, isolated keyboard, both with version 0.3 processing scripts.”
+
+He tapped the ‘0’ key. Immediately, he felt both connections burn in his mind. Information flowed back along them, pushing into his soul with a power that he was almost helpless to resist. It was like trying to drink from a firehose, as in, a hose filled with literal fire.
+
+Still, it was less painful than anything else so far.
+
+Rain clenched his eyes shut, enduring the pain. He focused on resisting the information that the artifact was trying to backfeed into the keyboard. This increased his agony exponentially, as the obelisk hated resistance.
+
+Shaking his head, he doubled down, muttering through his teeth. “Come on, you stupid thing. One way, damn it.” It seemed to get it after a few moments, though this only made the connection to the display burn even hotter. After one last crescendo, the pain faded, both links falling quiet.
+
+Quiet, but not broken. Not like last time. Rain’s head was pounding, but sitting on the display before him, was a wall of wonderful, incomprehensible gibberish.
+
+❞ ⮴ ⟪ ủ ⇸ ⾌ ⧋ ⥊ ⼓ ᠱ ⺼ ᄨ ባ ⼂ ₖ ≻ ⼓ ⳺ ᶴ ᦎ ⊅ ⫵ ℐ ⶰ Ⓣ ⟽ ⚁ ⴾ ᔧ ቑ ⛴ ⩇ ⍃ ◉ ⥟ ᑗ Ⲥ ⽸ ⺎ ባ ⧗ Ꮓ ⻣ Ꮓ ᣂ ♣ ╔ ♫ ✺ ⵢ ╡ ṵ ⟩ ᔧ ᓺ ဌ ဲ ∔ ⪗ ⠨ Ḍ Ⴎ Ὶ ጆ ᴘ ↩ ⶢ ቺ ⊺ ᆺ ᵝ ▼ ᄵ ዖ ⴋ ᴓ ∆ ☯ ᓆ ᔝ ឝ Ḹ ⻂ Ꮥ ▌ ឿ ⼮ ⠹ ⚶ ⤬ ⥭ រ ≘ ᙑ ወ ṗ ⽍ ⱉ ✩ ⨿ ጩ ⣺ ₩ ᠌ ✐ ᚔ ᛗ Ⓜ ᾉ ⁀ ⫒ ⨎ ᅎ ᦍ ᵵ ⒕ ὰ ῐ ᶁ ᧣ ᄊ ⌀ ⾞ ᄪ ❨ ❞ ⶖ ⫈ ⪦ ⮬ Ἦ ➻ ἵ ⰰ Ṇ ᒡ ᕆ ⓚ ⳗ ⇔ ៎ ᇖ ᄡ ᦺ ቂ ᆅ ⑽ ␜ ᔺ ⢭ ⶱ ⦯ ♅ ឳ ጠ ὄ ⑲ ⦤ Ⱉ ⯯ ቱ ≿ ၮ ኁ ⾕ ሰ ៏ ᴯ ⠪ ⁙ ⽜ ᠒ ⃒ ⨞ ᦿ ፉ ᴷ ⵌ ᔇ ┃ ᙶ ⛨ ᦦ ⪲ ᶋ ᑼ ᕢ ≥ Ⰲ ፙ ⎡ ⚑ ┇ Ⓗ ⦧ ግ ⨮ ⅛ ᢺ ⡍ ⌚ Ⰹ Ⓠ Ὣ ᙩ Ꮲ ፷ ᢄ ⌁ ᴥ ႀ ἓ ሕ ∌ ⛏ ⎻ ⣸ ⇴ Ꮯ ⅛ ⷘ ″ ⃬ ✞ ჻ Ꭽ ⺕ ᨖ ⊺ ᆁ ᕣ ⡔ ☭ ᗙ ⵋ ᠦ ᇭ Ⱡ ᕪ ␑ ⷁ ⢴ ⩆ Ⓟ ⳕ ⁜ ⎯ ∨ ⶮ ဍ ⩾ ⾄ ⯭ ⫄ ᕝ ⚓ ⇻ ⵑ ⼱ ᴶ ⠴ ⓥ ☦ ⷹ ᾲ ℳ┆ ⬂ ⩰ ⿕ አ ◼ ᾟ ᓠ ➵ ᡞ ⒝ ⃧ ⑷ ⎎ ቍ Ⲑ ለ ᦻ ᘡ ᕒ ⍴ ⩶ ➽ ፅ ⮶ ᨊ ᴺ ᶶ ➶ Ὲ ⩢ ⱜ Ṣ ⥑ ᛫ ូ ⚄ ⦲ ክ ❋ ⷭ ⴃ ဠ ⟟ ዊ ᒶ Ⴂ ផ ⦈ ᚃ ἠ Ⴓ ⇨ ⢒ ᵖ ⪲ ⼯ ᐴ ➟ ᄪ ᒤ ሹ ᵖ ᆬ ၇ „ ⰰ ⁷ ᙱ ∂ ᠁ ᠕ ᶅ ဇ ၎ ᙂ ᴌ ᠑ ᕶ ⿂ ᴟ ⚎ ᨅ ᧁ ᵊ ⸍ ⸦ ⽇ ន ⮂ ␗ ṑ ⓥ ᣀ ῡ ტ ᔢ ⥳ ⳟ ဠ ⽟ ⴃ ⫸ Ⲟ ⒢ ᙞ ᗄ ☟ ⦧ Ⲩ ␅ ⌘ ᾿ ⁿ ფ ∉ ⑧ ᒓ ⚽ ➓ ᅥ ⛐ ⣰ ⶴ ⨀ ∫ ⊳ ቝ ጢ ᵚ ⾍ Ḱ ḫ ᦅ ⦚ ↗
+
+“Hacked!” he shouted, pumping his fist.
+
+Working quickly, he summoned a new copy of the display. He didn’t want to clear the gibberish on the off-chance that it meant something. He’d analyze it later. Transferring the connection from the old panel to the new one, he prepared himself to try again.
+
+This time when he tapped the ‘0’ key, instead of an overwhelming torrent, he only felt a single excruciating pulse of fire, one sent to the display only. It appeared that the obelisk had gotten the message. When he saw what the display said, he let himself melt to the ground. He hadn’t expected it to be that easy.
+
+0
+
+“Finally,” he sobbed, his body shaking with relief. The obelisk had echoed his transmission, copying the signal he’d sent from the keyboard, and transmitting it back to the display. He’d made progress at last.
+
+Pulling himself back together over the next several minutes, Rain stared at the flashing cursor. That was merely an artifact of his display, not something being sent from the obelisk. The link was quiet. Waiting. After some thought, he tapped the ‘1’ key. The obelisk dutifully echoed the character back to him. He then pressed ‘2’ twice, then ‘3’ three times.
+
+He cried again when the obelisk sent back four ‘4’s, then five ‘5’s, continuing up through the numbers. It wasn’t from the pain, though that was there with every single character that the artifact sent. He was crying because it was doing it on its own, matching his pattern, trying to understand.
+
+Sitting on a log with his hat beside him, Jamus carefully added some cross-hatching to the drawing in his notebook. He was just doodling to pass the time, but a little shading went a long way toward adding some realism. Unfortunately, it wasn’t going well.
+
+He frowned, staring at the image. Cloud’s fur was difficult to get right. On a spark of inspiration, he added a few curly lines, taking the drawing from realistic to something more abstract. He grinned as he made the alterations. The fluffy dog’s name meant ‘cloud’ in Rain’s language, so why not roll with it?
+
+“Who is that, and why is she trying to wrestle a cloud?” Staavo’s voice rasped from over his shoulder.
+
+Jamus sighed, snapping his notebook closed. “Staavo,” he said, turning. “What do you want?”
+
+“Stop sighing whenever I talk to you, boy,” Staavo said. “I was right, you were wrong, and I said I was sorry for rubbing your face in it. What else do you want?”
+
+Jamus snorted. “A good night’s sleep, some air that’s not full of smoke, and a warm bowl of soup that doesn’t have any mushrooms in it.”
+
+“Ameliah could help you with the second one,” Staavo said.
+
+“She’s busy,” Jamus said. “And I don’t want to bother her with something trivial like that.”
+
+“Well then, come help me with the damn wire. The bloody deer—erm, cervidian, ran away again.”
+
+Jamus sighed. “And you wonder why.” He rubbed at his eyes. “We’re almost out of cloth, Staavo. Face it, the light bulbs work great, but we’re not going to be able to make a second generator without more resources. One isn’t good enough on its own.”
+
+Staavo spat. “You quitting, boy?”
+
+Jamus shook his head, reopening his notebook and returning to his drawing. “I’m not quitting. I’m just taking a break. Drawing is relaxing.”
+
+“You could try drawing something useful,” Staavo said, watching. “I’ll admit, that’s not bad, but we’ve got problems to solve. How about drawing a better generator, eh?”
+
+Jamus sketched in a few more details, then sighed, turning the page. He’d come back to the drawing of Meloni and Cloud later. He refused to believe that she’d died in the Shift. He just couldn’t. “Fine,” he said, smoothing the blank sheet. He started sketching out the generator’s wooden frame. “Maybe if we start with a different profile, something like this, we could—”
+
+“Nope,” Staavo interrupted. “Won’t work.”
+
+“You didn’t even look at it,” Jamus huffed. He can be such a trial sometimes. “If we just—”
+
+“EVERYONE, GET OVER HERE!” Lavarro bellowed, her voice amplified to a ridiculous level. Jamus was sure that the wind would have blasted his hat off of his head had he been wearing it.
+
+“Depths,” he muttered, his ears ringing in the ensuing silence. He looked over to the source of the shout, seeing the silverplate hovering casually in mid-air, slowly floating back to the ground.
+
+“Damn it,” Staavo grumped, sticking a pinkie finger into his ear and rotating it. “Bloody woman. I’m deaf enough already. Fucking inconsiderate pile of flaming donkey—”
+
+“I can hear you, old man,” Lavarro said icily at a slightly more reasonable volume. A shiver ran down Jamus’s spine as her head pivoted to face them.
+
+“So?” Staavo said. “I meant what I said.”
+
+Jamus edged away from him, making sure to grab his hat before it was flattened as collateral damage. Fortunately, Lavarro only sniffed derisively, raising her voice again.
+
+“I SAID EVERYONE!” she thundered. “THAT MEANS YOU!” She pointed, and Jamus followed her finger to see Tallheart and Ameliah standing atop the fortifications surrounding the Lee.
+
+Ameliah’s lips moved, but it was too far for Jamus to make out her words over the ringing of his ears. Lavarro had no trouble, though.
+
+“I DON’T CARE.”
+
+“Gods damn it,” Staavo said, clutching at his ears.
+
+There was a flash of light as Ameliah launched a barrage of fire spells. She then hopped down from the barricade and started making her way over. Tallheart followed, neither of them looking happy about it.
+
+Jamus got to his feet, slipping his hat onto his head. Whatever Lavarro wanted, there would be no getting away from it. When he’d gone north with her before, he’d learned that she gave few orders, but whenever she did, she expected no discussion.
+
+Well, I did join the Guild because I wanted a more exciting life.
+
+Lavarro cleared her throat as she settled back onto the ground, not waiting for everyone to finish gathering before she spoke. When she did, her voice was mercifully unamplified. “I contacted the Guild earlier. They aren’t coming, and neither is the Watch.”
+
+“What?!” someone shouted. Before the crowd could break into an uproar, Lavarro held up her hand, glaring them into silence.
+
+“Stop whining.” She hesitated, then shook her head slowly, her expression hardening. “Burrik ordered me to get you all out of here. He told me to destroy the mindcaster so the Empire can’t get it if they come back, which I’ve done. As for leaving, though… Fuck Burrik. I’m not abandoning my daughter. You can leave if you want, but I’m not going anywhere until she’s free.”
+
+Depths. Jamus glanced at Ameliah and Tallheart. Would they be able to keep all of us safe if we tried to go?
+
+The crowd obviously shared Jamus’s sentiment. Lavarro plowed on, heedless of the unrest. Her eyes pivoted to Jamus.
+
+Oh, shit.
+
+“I need to know what everyone has heard from their contacts inside the barrier,” she said. “I’m going to figure out how to break it, and you all are going to help me. I already spoke with Officer Turton, so you’re first, Fireblossom. Turton said you talked to the woman with the dog and that ridiculous aura mage.”
+
+Why me? Jamus looked at Tallheart for help, but he just gave a tiny shake of his antlered head.
+
+Lavarro pointed to a spot on the ground next to her. “Anyone who knows anything useful, over here. Everyone else, get lost.”
+
+Alert: Comprehension threshold reached
+
+Hybrid Interface Boot
+
+Please Wait…
+
+Rain stared at the message, blinking. Does that mean what I think it means? It was currently around 9 PM in the real world. Teaching the obelisk to understand him had not been easy. ‘Tedious’ was the word. The artifact had some protocols for the process, but there was a big difference between echoing characters and assigning meaning to them. Now, though, something had changed.
+
+Suddenly, the display updated again.
+
+Hybrid Interface Boot Complete
+
+Hybrid Interface Mode: Terminal [User-Defined]
+
+Debug Monitoring: Enabled
+
+Retrying Direct Link
+
+Link Established [Warning: Protocol]
+
+Scanning…
+
+“Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa…”
+
+Now that Rain had gotten used to the airless environment, he’d discovered that he could scream for a really, really long time. His breathing was just a simulation, after all.
+
+Header Scan Complete
+
+New User Detected
+
+User Name: Richmond (Rain) Stroudwater [Error: Format]
+
+Coerced User Name: rain
+
+Creating User Profile
+
+Scanning…
+
+User Primary Language: [Error: Unknown]
+
+User Origin: [Error: Unknown]
+
+User System Compatibility: 64% [Warning: Threshold]
+
+Compatibility below threshold
+
+Attempting conformance…
+
+“...aaaaaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA...”
+
+Conformance Failed [Error: Unknown]
+
+Attempting System Recovery…
+
+Recovery Failed [Error: Unknown]
+
+Scanning…
+
+Paling Integrity: 74% [Warning: Threshold]
+
+Soul Fragmentation: 99% [Warning: Threshold]
+
+Core Rank: 18 [Error: Threshold]
+
+Core threshold not met
+
+Scanning attributes…
+
+Focus Synchronization: [Error: Callback]
+
+[System Instability Detected]
+
+[Critical Scan Error] Aborting…
+
+Scan Aborted
+
+Contact Administrator [Error: Not Found]
+
+[Error: Unknown] Retry
+
+[Error: Unknown] Retry
+
+[Error: Unknown] Retry
+
+[Error: Unknown] Retry
+
+Retry Failed
+
+Direct Link Failed
+
+Reverting to Fallback
+
+Hybrid Interface Set as Primary
+
+Administrator List [] [Error: Failsafe]
+
+User Privilege Level Elevated
+
+[admin/rain]>
+
+“...AAAAAAAAAAAaaaaaah.” Rain clenched his teeth shut. The last of the pain vanished as if flicked off like a light switch, and he found himself lying curled up into a ball with his hands clutching his head. He shuddered, taking a deep gasping breath.
+
+Gah, I thought we were done with that.
+
+Once he’d walled off the fresh batch of agony, Rain took a second to quickly scroll through the messages he’d received, as he’d been a little too distracted to read them as they came in. When he reached the end, his only reaction was to close his eyes. “Oh thank fuck.”
+
+It had been a long month. He just lay there for a few minutes, taking it all in. Finally, he sat up, then reverently reached out to the keyboard and typed in a command.
+
+[admin/rain]> ls
+
+Error: Command not Recognized
+
+[admin/rain]>
+
+“Damn it, better not be Windows…” he muttered.
+
+[admin/rain]> ls
+
+Error: Command not recognized
+
+[admin/rain]> dir
+
+Error: Command not recognized
+
+[admin/rain]>
+
+The ember of hope that had kindled in his breast flickered, but he shook his head. No. It will work. I just need to figure out the commands.
+
+[admin/rain]> help
+
+Error: Command not recognized
+
+[admin/rain]> hello?
+
+Error: Command not recognized
+
+[admin/rain]> status
+
+Error: Command not recognized
+
+[admin/rain]> display
+
+Error: Argument
+
+[admin/rain]> display status
+
+Defense Field: Active
+
+Integrity: 87%
+
+Ingress Mode: Residents
+
+Egress Mode: Residents
+
+Mana Siphon: Active
+
+[admin/rain]>
+
+“Yeah!” Rain yelled, pumping a fist into the air. He was in business.
+
+Carefully, he probed out the system, trying to see what options were available without changing anything. The lack of a help command was frustrating, but the interface was fairly intuitive. It turned out to be less ‘Unix’ and more ‘Zork.’ Display status of barrier. Display status of siphon. List residents. Open mailbox. Take leaflet from mailbox.
+
+After playing for fifteen minutes or so, Rain felt that he had a pretty good handle on the kinds of things that the artifact would allow him to do. Firstly, it was just a barrier. It came with a mana siphon to power itself, but that was it. There was no climate control or integration with the teleportation platform or anything like that, let alone a sapient intelligence that he could talk to. Not even a helpful paper clip.
+
+It was honestly a bit surprising. The stone had shown great cleverness in negotiating with him to build the hybrid interface, but now that it was done, it was acting like the most rudimentary of computer systems. He was sure that there was more to it, but the interface was limited by design to avoid scrambling his brain. More investigation would be needed. First, though, he had a job to do.
+
+The artifact had two categories of users, namely ‘administrators’ and ‘residents’. Both lists were quite extensive, but Westbridge’s name was the only one that he recognized. Despite the fact that Rain’s name wasn’t on either, the obelisk seemed to be treating him as an admin anyway. Adding himself to the proper list before it changed its mind seemed like a good idea.
+
+[admin/rain]> add me to administrators
+
+Error: User ‘me’ not recognized
+
+[admin/rain]> add rain to administrators
+
+Error: User non-resident
+
+[admin/rain]> add rain to residents
+
+Richmond (Rain) Stroudwater has been added to residents
+
+[admin/rain]> add rain to administrators
+
+Richmond (Rain) Stroudwater has been added to administrators
+
+[admin/rain]> I AM ROOT!
+
+Error: Command not recognized
+
+Next, there was the issue of what to actually modify. Straight-up shutting the whole thing down would be a terrible idea. He didn’t want to kill everyone in the Lee. The massive stone would fall the moment the barrier vanished, crushing them alive.
+
+Editing the list of residents seemed like his best bet. Now that he knew how the barrier worked, he’d realized that that was what Westbridge must have done to defeat Halgrave. Unfortunately, there didn’t seem to be an option to set complicated criteria, such as ‘let entities through, but stop objects’. The only three settings were ‘Residents’, ‘Administrators,’ and ‘Off’.
+
+It would take a while, but Rain resolved to add every single person he knew in the city to the list. He didn’t want to risk leaving without doing at least that much. He was 99.9% sure that he’d be able to get back to this point again, but still. That 0.1% chance bothered him.
+
+He sighed and cracked his knuckles. Better get down to it. Hooray, data entry.
+
+Below the gaudy and now-crumbling structure of the Bank’s Fel Sadanis branch lay the vault. It was a room filled with wealth. Coins, Tel, Crysts, gems, and the scattered possessions of those who had entrusted the Bank with their valuables for safekeeping. The room was evenly lit with steady white light from runes glowing on the walls, keeping anything from spawning within. Powerful wards laced those same walls, shielding the room and protecting the seven people huddled within it.
+
+One of those people didn’t need that protection. He was the protection, or at least, the most critical piece of it.
+
+Enforcer Sannin was sitting cross-legged near an innocuous-looking piece of floor that hid the entrance to the true vault. The gold-rank clerks knew of its existence, but not what was inside. The two remaining unawakened employees didn’t even know that much. This second, secret vault was the real reason that an enforcer was stationed in this branch in the first place.
+
+A sudden shock of static made Sannin glance down at his wrist, his face completely blank. The shock repeated itself after five seconds, then again five seconds later. He surreptitiously reached down to the bracelet that was the source of the shocks and twisted a metal stud.
+
+Tap. Tap tap. Tap tap tap. Tap.
+
+In a set pattern, Sannin tapped his finger against the bracelet’s surface, then he waited. His face twitched as the answering sequence came before he controlled his expression once more. He smoothly got to his feet, and six sets of eyes latched onto him.
+
+He cleared his throat. “A recovery team has made contact. Standby.”
+
+Rain lowered his hands after what felt like hours of racking his brain for people he had forgotten. The artifact seemed to operate on something like Death Note rules. Rain knew a few people with the same name, but adding them was as simple as thinking of the correct face as he typed. He hadn’t been able to add people without both, though.
+
+The signaling between him and the barrier stone was more than just simple characters. It had been at first, but that had changed with the creation of the ‘Hybrid Interface’. He just wished it wasn’t quite so painful to use. It was leagues better than the ‘Direct Link’, but still, each keypress felt like getting stabbed. The faster he typed, the more it hurt, and he’d had a lot of names to get through. Plus, there was emotional pain to deal with. He couldn’t add people who were dead, and many of the names that hadn’t worked likely belonged to ghosts.
+
+Rain hesitated, thinking as he massaged his tired hands. Of the hundreds of names that he’d added, two were notably absent: Lavarro and Velika.
+
+Velika was…complicated. He’d add her eventually, of course. It wasn’t about leverage or extortion or anything—he wasn’t suicidal—it was simply the fact that granting her access would probably unblock the link between her and the rest of the DKE Citizens. Judging by how Westbridge had stranded her here, that could be problematic. Politics were involved. He’d have to talk to her first.
+
+The reason for excluding Lavarro was simpler. She was a powerful mage, and she and Rain had beef. He wouldn’t put it past her to try accessing the barrier stone and removing him from the list.
+
+Rain’s working theory was that Velika couldn’t access the barrier because she didn’t have the proper stat allocation. This was a place of the mind, meaning Clarity and Focus, two stats that Velika likely didn’t have in abundance. Lavarro, on the other hand, would. Rain had gotten admin privileges somehow, so who was to say that she couldn’t do the same? No, it was better to let her stay in the Lee for the moment, at least until he talked to Velika.
+
+Rain had no illusions about being able to keep control of the barrier long-term. The Watch and the DKE were going to fight over it, he knew, and putting himself between them was the mother of all bad ideas. He’d be squashed like a bug, or at best, trapped inside Fel Sadanis for all eternity while the wolves circled outside. Obviously, he was going to hand over the keys, but not before he milked the barrier stone for all the secrets that it had to offer.
+
+That could wait, though.
+
+His incarceration in soulspace had been beneficial for him in many ways, but he wasn’t even the least bit tempted to stay any longer. He was getting the hell out of here, and he knew just how to do it.
+
+The connection between him and the artifact had been constant since he got here, unfelt at first, but there. It was holding him here. To get home, all he had to do was get it to stop.
+
+[admin/rain]> logout
+
+Rain fell to the ground with a thud. His skull bounced hard off the floor, then his hand hit him in the face as it fell from the obelisk. His shoulder was also screaming at him, but the pain was a joke compared to what he’d experienced in the past month. Still, he was going to make someone pay.
+
+“Depths!” a man cursed.
+
+Rain sat up, seeing a Watch officer he didn’t know seated at a table. He’d been monitoring this officer for a while, ever since Bartum had left. The table bore a candle and a notebook, filled with numbers, clearly the transcribed message that Rain had been sending.
+
+“Are you okay?” the officer asked, lifting the candle.
+
+Rain took a deep breath, marveling at the sensation of air entering his lungs. He let it out slowly and glared at the officer. “Dude. You couldn’t have put a pillow under me or something?”

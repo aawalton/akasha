@@ -1,0 +1,167 @@
+---
+id: 844d97a8-1623-55be-8be0-beef692deff2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,389 - Sabotage"
+slug: 0066-chapter-1389-sabotage
+partOf: defiance-of-the-fall
+position: 66
+ownLength: 3053
+unit: words
+publishedAt: 2025-12-11
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2839528/chapter-1389-sabotage"
+royalRoadId: "2839528"
+---
+
+“That’s new,” Esmeralda commented as she emerged from the Shrine of Kanba. “Call me a cynic, but I don’t think it’s a good omen.”
+
+“You could say that,” Zac grunted with a hoarse voice, glancing at the sky.
+
+The magic circle looked eight parts identical to the one he saw on the other side. Luckily, it was more of a shadow than the real thing, and it both lacked the thousands of supportive arrays and the castle that propped up the original. Still, the fraction of the power it emitted was enough to keep the clouds at bay.
+
+The scene didn’t make sense. By all rights, the faded circle shouldn’t have the strength to hold off Sevona’s clouds. They were empowered by the island itself. What they lacked in origins compared to the magic circle, they more than made up for in raw power. Zac couldn’t be sure, but he almost felt the clouds were confused. Rather than resisting through sheer force, the circle had tricked the Natural Formations it was part of the island.
+
+The disguise wasn’t perfect, seeing as the clouds were still pushing back with some effort, but the circle was growing stronger rather than weaker. Were the desert castles acting as tuning forks, forcing the two timelines to overlap?
+
+‘Did you see the other side too?’ Zac asked, switching to telepathic communication just in case.
+
+Esmeralda shook her head. ‘I sensed something happened to you, but I was busy keeping the fluctuations at a minimum.’
+
+Esmeralda’s expression grew somber as Zac explained the situation. ‘Strings? Like the threads of countless timelines? I think… This is not just about opening a larger portal to the true dimension. The invaders are using Sevona’s Lodge as a beachhead to fight over the Omnipresence Chamber.’
+
+‘All the more reason to stop them,’ Zac said, suddenly realizing Idiche hadn’t said a word since they passed through.
+
+He turned around, finding her staring at empty space with glassy eyes. “Are you okay?”
+
+When Idiche didn’t answer, Zac placed his hand on her shoulder and infused her with Void Energy and Dao. The former was freely allowed entry while the latter was fiercely rejected by something in her upper spine. It gave off the same ancient aura he’d seen in Idiche’s eyes when she was asleep. That power was now resisting the large amounts of corruption that had entered Idiche’s Soul Aperture, and it had marked Zac’s Dao of Death as an accomplice.
+
+Zac immediately retracted his Dao before joining forces with the mysterious power. He dragged a decent chunk of corruption back into [Purity of the Void] to be refined. The parts that resisted his call were hit with Void Energy, resulting in mutual destruction. Zac erased a large swathe of madness in one go before retracting his energy. What remained should be well within Idiche’s means of dealing with herself.
+
+“That… What…” Idiche whispered a minute later, her expression still vacant.
+
+“Like I said, the whispers are lying.”
+
+“But… what they said was so real,” Idiche exhaled after gathering her bearings. “It felt like the insights I had while dreaming were right within my grasp.”
+
+“There is a seed of powerful enlightenment hidden in the corruption, and that’s how it gets you,” Zac said with a shrug. “You think you’re using it to break through your limitations, not realizing it’s already shifted the goalposts. Soon enough, you don’t recognize your old self. Finally, only its malevolence remains. You’ll understand what I mean when we finally face the invaders.”
+
+“You seem to speak from experience,” Idiche said with suspicion. “I’ve seen how eagerly you’ve been collecting those crystals. You’d do well to remember your own warning.”
+
+“That’s different. The princess is interested in these things,” Zac quickly said, all while knowing there was a seed of truth to what Idiche said.
+
+Zac couldn’t get reliant on Ultom’s insight to the point he lost the ability to solve his cultivation issues on his own. Then again, taking the time to figure things out without external aid was a luxury Zac had never been afforded since embarking on the road of cultivation. Only his years in the Perennial Vastness came close to the centuries of status quo that most cultivators enjoyed.
+
+“I don’t think our actions were exposed, but we should move out just in case,” Esmeralda said.
+
+Zac nodded, once more taking the lead as they inched their way toward the hidden valley. They soon realized that while the ambient energy was incredibly dense, there were no Natural Formations to confound them. Progress was so effortless that they had to stop a few times to confirm that they hadn’t wandered into a powerful illusion.
+
+They hadn’t, and it only took them ten minutes to reach a secluded slope that overlooked the valley. Most of the space was occupied by a lake that made Zac think of how his Soul Aperture looked once upon a time. Instead of seas of Life and Death crashing against each other, the lake was a mix of intensely pure corruption and equally frightening illusory water. There was even a battered island in the middle, like his Soul Core.
+
+Judging by the altar being erected on the solitary island, Sevona’s efforts to stem the invasion were about to be undone.
+
+“So, this is where they all ended up,” Esmeralda whispered as they observed the scene.
+
+A few figures were putting the finishing touches on the altar while even more invaders were methodically laying out a complex array that spanned the whole island. A quick headcount put their numbers at eighteen, with six more placing array flags around the lake. They’d also expanded the canal that funneled rainwater out of the valley. Underground rivers appeared to supply some water to the lake, but the loss was clearly greater than what was replenished now that the rain had stopped.
+
+There was no need to perform scans on this group. Not only did the altar radiate the aura of the Lost Plane, but most of the workers used corrupted energy to install the grand array. Like the group they saw outside, they clearly saw no need to hide their actions. Zac could see why. It would have required effort and some luck to reach this region without finding the shortcut beneath the mountain.
+
+“What is it? What are they doing?” Idiche asked. “Wait, I know these people! More than half of them are from the Hastor Society.”
+
+Zac vaguely recalled the Hastor Society. It was different from the Explorer’s Guild, which took in people from all corners of the Mercurial Courts. The society was mainly made up of descendants of Clan Hastor, with the rest being hangers-on and supporters of the family. The Mercurial Court neither condoned nor suppressed families from growing strong, and there were a few dozen who’d managed to form stable legacies within the sect.
+
+Apparently, you’d see this phenomenon in most sects, even if having powerful families risked weakening the sect’s authority. Ventus, being one of Radiant Temple’s external recruits, had repeatedly complained about the noble families back home. The sect leadership generally looked the other way so long as the families didn’t go overboard. Of course, there was more than one sect that eventually ended up being a clan in all but name.
+
+“Damn, when did Zorm form his Inner World? I just saw him a few months ago. He didn’t have the aura of someone accumulating for a breakthrough. Was he replaced, or was he concealing himself?” Idiche said, envy clear on her face.
+
+Idiche was referring to the sole Monarch on the island. Seeing his burly figure and that he mostly oversaw the work, Zac suspected he leaned toward a martial path. His aura was unstable, indicating his Inner World still hadn’t fully stabilized. Even so, he posed a formidable threat.
+
+Suddenly, Idiche’s gaze sharpened with anger and confusion, and she spat through grit teeth, “How can he still emit Imperial Faith if he’s betrayed the empire?”
+
+Zorm wasn’t the only one. The whole array was made from an unholy mix of Faith, Time, and the Lost Plane’s corruption.
+
+“They probably think they’re the true inheritors of the Imperial Fate,” Zac shrugged. “You’ve felt the corruption. It can turn black to white.”
+
+“Fine, I suppose that’s not the real issue,” Idiche slowly said. “This lineup… I don’t think we can stop them. The Hastor Society is made up of brutes. I can’t deal with too many. I might be able to delay Zorm for a minute or two, but that’s if he doesn’t use that scary energy.”
+
+“What if you fall asleep first?” Esmeralda curiously asked.
+
+“I’m afraid it won’t change the outcome. Our problem is not just Zorm. I feel a vague threat from someone hiding in the shadows. There should be another Monarch lurking about,” Zac said. “And different from those drakes, these people have the home-field advantage. I don’t see us winning unless we can split them up somehow.”
+
+“I thought I’d taught you better than this. There are more answers than straightforward violence, you know,” Esmeralda complained. “Let the Great Esmeralda show you how to deal with this mess. Just get ready to mop up the aftermath.”
+
+“Oh? Go for it. Seeing a teacher in action is always a privilege,” Zac said with a smile, and the eager toad disappeared after erecting a permanent isolation around their hideout.
+
+“You’re sure about this?” Idiche hesitated. “Your pet has proven a tad unreliable so far.”
+
+“Perhaps. It’s just that her particular skill set hasn’t had the chance to shine yet.”
+
+“And what skill set is that, exactly?”
+
+“Unauthorized wealth extraction,” Zac said after a slight pause.
+
+“So, a thief? And you said she’s your master,” Idiche laughed with incredulity. “Some lawkeeper you are.”
+
+“To catch a thief, you need to think like one,” Zac sagely explained.
+
+“I can see your point, but we’re not here to rob the Hastor Society, are we?”
+
+“Why not? What would happen if someone stole the array flags at a critical moment? If the altar over there suddenly disappeared?”
+
+Idiche looked at the gem-covered altar, then at the huge amounts of corruption bubbling in the lake. Her eyes slowly widened in realization, and she retreated further behind the boulder. “Oh. This will get messy.”
+
+“You still have to prepare yourself for a desperate fight,” Zac said. “It’d be nice if the damaged array killed them all, but I doubt we’ll get that lucky. We need to strike fast and hard when the opportunity appears. You can’t show any leniency. No negotiations, no prisoners.”
+
+“I understand,” Idiche solemnly said.
+
+What Zac didn’t say was that he didn’t place much importance on Idiche for the upcoming battle. The Court Disciples were obviously sheltered, and he wasn’t sure how she’d fare in a fight to the death with other cultivators. It was truly a shame there had been no sign or rumors of Astora Theomore during his day in Adventurer’s Cove. He remembered the hair-raising aura she emitted during the purge on the Transformation Docks. She could probably have mopped up this group of invaders by herself.
+
+There was nothing to it. If things worked out, great. If not, Esmeralda would at least have disrupted the ritual. While victory wasn’t certain, Zac was confident they could escape if the situation soured.
+
+Two more hours passed in silence as the Hastor Society put the finishing touches on their arrangement. In that time, there were no signs of Esmeralda’s whereabouts, which counted as good news in Zac’s book. However, Sevona’s water was steadily losing ground, and the magic circle in the sky was becoming increasingly real.
+
+Zac could even sense hints of that extraordinary entity he felt in the vision. Could it be the leader of the operation on the other side? Such a vast consciousness had to be at least a Divine Monarch, likely even higher.
+
+“Not much longer now,” Zac muttered when the lake began bubbling.
+
+The invaders had connected the vast repository of competing corruption with the alta, and borrowing that unholy power had put them on a timer. The instilled Imperial Faith was resisting, but even Zac could see that the materials that went into the array flags were slowly twisting into an unstable mix of the Dao from past and present Eras.
+
+“The array will fail within ten minutes if they don’t activate it,” Zac said as he gripped his axe tighter.
+
+Still, the Hastor Society waited a full six minutes before Zorm and his four henchmen ignited six candles atop the altar. Six pillars of pure corruption rose from the lake with such force they seemed like they’d pierce the sky. The remaining rainwater couldn’t stop it at all, and the upheavals only grew stronger. The grand array began fluctuating with unstable Temporal Energies, and the whole valley shook as grains of desert sand appeared out of nowhere.
+
+It was at that moment that six outer Array Flags suddenly disappeared.
+
+Three of the tainted pillars immediately collapsed and were replaced by great geysers of swelling groundwater. It refilled the lake and rekindled the war with redoubled furor. The four remaining outer Array Flags couldn’t bear the increased pressure and exploded as one, and cracks appeared all over the island’s newly installed array.
+
+The Hastor Society reacted quickly by activating a fallback blockade to maintain order. Unfortunately, the disaster was manmade and not a stroke of bad luck. Zac vaguely saw a flicker by the altar, and every single Temporal Crystal embedded disappeared the moment Zorm’s attention was occupied elsewhere. Replacing them were some Miasma Crystals covered in script Zac didn’t recognize.
+
+“NO—!" Zorm’s roar was swallowed by an earth-shattering explosion that forced Zac to the ground.
+
+Four chains stabbed into the ground to keep Zac in place, and another two stopped Idiche from being swept out of the mountain range by a shockwave filled with incredibly unstable energies. The fallout far exceeded the previous commotion, as did the devastation waiting for Zac when the whipping winds had swept away the sand and clouds of corruption.
+
+The lake was simply gone, both rainwater and liquefied Dead Dao. It looked like the giant had returned to unleash a second swing at the already split mountain, turning the valley into a chasm that continued for a dozen miles down. The island was the epicenter, with its edges holding on at each side of the crack. Zac was in awe of Esmeralda’s ability to make a scene. She loved calling him a troublemaker, but she was obviously cut from the same cloth.
+
+The infiltrators themselves were not much better off. The enormous discharge of corruption had gone off right in their faces; a few were missing, a few more sprawled out and unmoving across the jagged slope. Most of the survivors had mutated into the kind of monstrosities with twisted flesh he’d encountered when traveling the alternate version of the Transformation Docks.
+
+It was time to mop up the aftermath. Zac shot forth at utmost speed, avoiding the vents of corrosive mist rising from the new cracks in the mountain. At the same time, he heard Esmeralda’s giggles echo through the valley as two blurs shot off toward the horizon. Esmeralda hadn’t just singlehandedly undone the ritual; she’d also managed to lure away the hidden Monarch. The opportunity was too great to play it safe, and Zac switched up his plan without any hesitation.
+
+‘Take care of the stragglers!’ Zac urged as he rushed for the island’s largest remaining chunk.
+
+Less than a dozen miles separated Zac and his targets, with no formations barring his path. He descended nearby in a gust of Abyssal Death in the blink of an eye, releasing layers of billowing death. Another flash brought him past two invaders stumbling to their feet, his arm a blur as he released two flashes of darkness. Still reeling from the blast and blinded by [Abyssal Drive]’s sense-obscuring domain, they didn’t get the chance to react.
+
+Zac was already gone when the invaders collapsed into neatly separated chunks of tumorous flesh. His goal was Zorm and the five henchmen around him. They were the strongest of the bunch, but they were also those who’d suffered the backlash the fiercest. Only two of them retained fully human appearances, and Zorm’s aura had grown even more chaotic.
+
+As the array’s principal controller, Zac was impressed that Zorm could stay standing after the backlash. Monarchs truly were resilient cockroaches, able to stubbornly hold on. Except, everything had its limits.
+
+“Incoming!” Zorm roared as he unleashed a herculean punch.
+
+It held the power to topple mountains, yet it could do nothing to stop the absolute darkness that swallowed the surrounding miles of land. The mists of [Fields of Despair] covered senses and recast the broken mountain into a world of death. [Deathmark] added lethal corrosion, and the first generation of wraiths was already emerging from the shadows.
+
+Towering above it all was a desolate eye wrought from utmost desolation and the countless figures locked in a perpetual orbit. The rattle of countless chains created a ghastly requiem that welcomed the nether realm’s newest members to the afterlife. Zac had fused with the darkness, already draped in [Arbiter of the Abyss]’s cloak of judgment as he crept closer.
+
+“Gather up!” the beleaguered Monarch growled as he destroyed an axe wraith, only to realize he was utterly alone.
+
+It was an intentional act on Zac’s end. [Eye of Desolation] held two layers, and he’d moved all the subordinates to the other layer. His ultimate skill and [Deathmark] weren’t enough to deal with the squad. They were all Late and Peak Hegemons chosen for this important task. However, the constrictive combination was enough to keep them occupied while Zac dealt with the main threat.
+
+Zac usually worked the other way around, sweeping away the surrounding flies before focusing on the main threat. However, the second Monarch would soon realize that something was wrong and return. Before that, Zorm needed to fall. This would be Zac’s first solo hunt of a Monarch, and his heart thumped with the winds of war.
+
+He’d made extraordinary gains in this short year on the Left Imperial Expanse. Was it enough to join the peerless D-grade warriors who could overcome the pressure of a world?

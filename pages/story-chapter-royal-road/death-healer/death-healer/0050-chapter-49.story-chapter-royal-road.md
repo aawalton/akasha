@@ -1,0 +1,297 @@
+---
+id: 92e21961-d8f3-5d2c-ac2a-81014c19055a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 49"
+slug: 0050-chapter-49
+partOf: death-healer
+position: 50
+ownLength: 2578
+unit: words
+publishedAt: 2025-07-12
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2430327/chapter-49"
+royalRoadId: "2430327"
+---
+
+Two guards paced the outer courtyard beneath the moonlit archway, their voices low so they could not rouse the villa.
+
+“We’ve got the place under lockdown,” one said, adjusting the strap on his helmet.
+
+“Even Lady Adriana can’t slip out now,” the other replied with a grin, “though I’d bet she’d like to try, if she thought she could.”
+
+They laughed and kicked at a loose cobblestone as they walked toward the gate, making half-witted guesses about where she might hide if she ever tried. The younger guard bent over to inspect a faint glimmer at his boot, then straightened with a brow raised in annoyance.
+
+“Nothing there,” he muttered, brushing off dust. “Just my tired eyes.”
+
+They shrugged and moved on, their footsteps echoing against the marble. When at last their voices faded, the courtyard lay silent as a tomb.
+
+From the side door came a sudden, subdued flash of light that danced along the stone before coalescing into a lone figure. It slipped through the doorway and closed the door behind itself without a sound.
+
+Sabinus stood in the hush, the glow dying at his feet.
+
+* * *
+
+“How did you get here?” Lily asked with a frown, seeing Sabinus casually slipping into her room.
+
+He strolled around her bedroom with raised eyebrows.
+
+“What a pretty room.”
+
+“Sabinus. What’s happening?”
+
+The boy sighed.
+
+“Your mother had a message delivered to my father. We gotta go. Apparently, she wants me to bring you close to the Dead Lands. There’s an old villa that used to belong to the Gens Claudia. I don’t know what’s there. Your mother said something about a, I quote, second mirror.”
+
+Lily tried to keep her face unreadable and slowly nodded.
+
+“Alright.”
+
+Lily was worried about her mother. She didn’t know, exactly, what Adriana was up to. She didn’t know whether she would be ok. But if her mother thought she had to go, she probably did.
+
+A second mirror? Lily thought, as she rode the horse Sabinus had arranged for her.
+
+They rode in silence, the horses’ hooves muffled by moss-soft earth as night deepened around them.
+
+Every snapped twig made Lily’s heart skip.
+
+But what is it? The Gens Claudia’s got only one Great Skill. Could it be… another?
+
+There weren’t many other explanations that Lily could muster. It couldn’t be the Great Skill of another Great Family—that was almost guaranteed. But then, what? What could be so important that her mother had Sabinus take her and bring her there?
+
+“Do you think the guards will know where we went?” Sabinus asked, looking back, curious.
+
+“What do you mean?” Lily said. “From the marks on the ground?”
+
+Sabinus shook his head.
+
+“I mean, from where we’re going. Would they think we’re going there?”
+
+“I never even heard of the place before you told me.”
+
+They rode in silence after that—for a while, at least.
+
+Lily frowned. “I’m not sure I like riding in silence,” she said.
+
+Sabinus glanced at her. “That so?”
+
+“I keep thinking.”
+
+“About what?”
+
+“My mother,” Lily replied, her fingers tightening on the reins. “She told me dad wasn’t happy. And I don’t know if she’ll be okay. What happened, by the way? Your mother didn’t specify.”
+
+Lily bit her lower lip.
+
+“I learned the Great Skill. She didn’t tell dad.”
+
+Sabinus nodded once but didn’t respond immediately. The wind shifted through the trees.
+
+“I imagine my own Father would be angry too if I learned the Great Skill without his approval. Is it any good, at least?”
+
+Lily smirked.
+
+“Yes.”
+
+Then, she looked down, still worried about Adriana.
+
+“She said to trust her,” Sabinus finally said. “And she sent me, didn’t she? She knew you’d be in good hands.”
+
+“Shut up,” Lily rebuked, but she actually smiled.
+
+Sabinus leaned slightly in the saddle, his gaze scanning the tree line. The moon caught the edge of his jaw as he spoke again, voice low but steady.
+
+“There are sometimes bandits around here.”
+
+Lily’s hand shifted closer to her belt.
+
+“Bandits?” she asked.
+
+He gave a nod, not alarmed but not dismissive either.
+
+“Deserters, mostly. Some old retainers from houses that got dissolved after the last purge. Others are just scavengers. The woods here run close to the old border before the Dead Lands expanded. Sometimes they crawl back.”
+
+Lily looked at him, searching his expression.
+
+“You think we’ll be fine?”
+
+“Of course,” Sabinus shrugged. “Bandits are [Soldiers] or [Templars] with low levels who couldn’t hack it in the militia. No honorable, strong man deserts from the war with the Undead.”
+
+A little silence came on again.
+
+“How powerful is the version of the Great Skill you got?” Sabinus asked.
+
+Lily didn’t answer right away. The horses’ hooves crunched over gravel, then dipped into softer soil where the trees pressed tighter. A breeze stirred her hair before she finally spoke.
+
+“I don’t know how to compare it. I’ve never seen another version.”
+
+Sabinus tilted his head, watching her in the corner of his vision.
+
+“But you’ve read the accounts. Your mother must’ve shown you something.”
+
+“She did,” Lily said. “But none of them describe what I felt. They all talk about healing Light overwhelming Darkness. Mine didn’t work like that.”
+
+“From what I know,” Sabinus said in a low voice, afraid that even the trees might catch on what he was saying, “all Great Skills require the mastery of Light over Darkness. To overpower it.”
+
+“I didn’t do that,” Lily said.
+
+Sabinus’s brow furrowed.
+
+“What do you mean?”
+
+“I didn’t purge it,” she said quietly. “I didn’t burn the Darkness out. I wrapped it. I pulled it into the Light and made it... turn.”
+
+He slowed his horse, just enough that they were riding side by side again.
+
+“You fused the Mana,” he said, voice lower. “Like Aunt Calpurnia does for her techniques.”
+
+“Yes.”
+
+“That's not how it’s supposed to work.”
+
+“I know.”
+
+Sabinus looked ahead. The path narrowed again, winding between trees whose trunks had blistered in past fires.
+
+“I don’t think that even if I went back to my trial, I could do something like that,” the young man said, facing ahead listlessly.
+
+“Can I see?” Sabinus said.
+
+Before he could even get a reply from Lily, he took his dagger out and slashed his forearm open, bringing his horse closer to Lily’s.
+
+Blood ran freely down his arm, bright and fast. The cut wasn’t life-threatening, but it was deep.
+
+The muscle under the skin quivered, raw and exposed.
+
+“Sabinus—” Lily hissed.
+
+“I want to see it,” he said, jaw tight but eyes steady. “Show me.”
+
+Lily bit down a curse and reached for his wrist, steadying his arm with one hand while raising the other. Her fingers hovered just above the torn skin, and in the quiet hush between trees, she called it forth.
+
+[Life Flow]
+
+A white, milky cone of Mana grew from Lily’s hand and enveloped Sabinus’s forearm.
+
+Sabinus recognized Life Mana immediately, knowing that, indeed, Lily had not lied. She had actually learned a Great Skill. No common Skills could call forth a combined Affinity unless they were Class Skills.
+
+wound on Sabinus’s arm hissed as the Mana spread, white-gold with a ghost of shadow threading through its core. She channeled it into the gash.
+
+Sabinus inhaled sharply as he watched the cut knit itself together. There was no heat, no burn. Instead, a faint chill threaded through the air, edged with something sharp and vital that felt closer to waking up than falling asleep. The bleeding stopped at once, the skin sealed, and even the thin scar that should have marked the wound faded until nothing was left but smooth flesh.
+
+He flexed his hand, testing for pain, and found none. “That’s… different,” he said quietly. “It doesn’t sting. There’s no trace.”
+
+“It shouldn’t leave any,” Lily replied, dropping his wrist. Her voice sounded strange even to herself—flat, but not emotionless. “Life Mana is more compatible with your biology than Light Mana. It won’t fight what’s already alive. It just... makes it whole.”
+
+“Biology?” Sabinus asked, frowning at the word.
+
+Right, Lily thought. It’s one of those words.
+
+After the ritual that had granted her the Great Skill, the words, the memories that sometimes came to her from a life she didn’t remember, had started growing stronger. Now, sometimes in her mind she blurred what she had learned herself and what had just been bestowed to her by these weird, strange memories.
+
+The muscle fibers were cut very cleanly, Lily thought.
+
+She still had to use Mana Sense to direct her healing properly, using the superior perception to not waste any Mana. However, since she had learned [Life Flow], everything had become much easier. In a way, even just focusing on the knowledge required to heal had become smoother. It was as if [Life Flow] somehow fused better with her knowledge of anatomy, biology, and all the branches whose names she had learned in her own head over the years.
+
+Sabinus made a thoughtful sound.
+
+“If your father knew you could do this… why would he not want you to participate in the Champion’s Trial? This is the greatest healing I’ve ever seen, Lily. I’m Level forty and you healed me like it was nothing. And Unclassed girl healed me, a Classed, Level forty man without breaking a sweat. Don’t even think about a gash like the one I just opened on myself. A scratch on me would exhaust a Unclassed healer’s Mana reserves. You…”
+
+“Yes?” Lily asked with a smug smile.
+
+“You just healed a wound that should be out of your reach,” Sabinus frowned. “A Classed person’s body is made of so much Mana… for you to…” The young man exhaled. “Whatever. This? Paired with your fighting style? You could get half your body blasted off and still clutch onto your enemy. I bet that’s what your thinking about. The [Sacred Flame], the Gens Iulia’s Great Skill, is terrifying. Its destructive power resembled Void. But this? I’m not sure that even if Lumius coated himself in [Sacred Flame], he’d be able to do any damage to you. You could rip his head off before his flames actually killed you.”
+
+Lily smiled widely and shrugged.
+
+“I don’t think Lumius is my real enemy,” she said.
+
+“What?” Sabinus turned toward her and finally noticed that in her eyes there was a maturity he had not seen there before, as if Lily had just been replaced by another person.
+
+“Lumius will never be the next Pope. A Champion can become the Pope, but only if he’s the strongest Champion and the one to learn all Great Skills. Those are the requisites for the Champion’s Great Family to succeed to the current Great Family and become the main Papal lineage.”
+
+“And?” Sabinus wasn’t following.
+
+“Lumius has some talent,” Lily said dismissively. “But even his sister, without a Great Skill, is more dangerous than him. In the years of the Gens Iulia in command, no heir of theirs has learned all Great Skills. Pope Ennius knows two. A Champion knowing three is already a miracle, right?”
+
+“Yeah,” Sabinus frowned.
+
+“How many does Cassius already know?” Lily asked, looking at Sabinus.
+
+Sabinus finally understood where Lily was going with this.
+
+“You’re not thinking about having to defeat Lumius,” he said the quiet part out loud. “You’re already thinking about Cassius.”
+
+Something in Sabinus stirred.
+
+Something in Sabinus twisted, a sour pulse that he couldn’t crush. His jaw set as he wiped the last trace of blood from his wrist, glancing away from Lily’s bright, assured eyes.
+
+He tried to sound casual, but the words came out a shade too cold.
+
+“Well, you should be careful not to get ahead of yourself. Cassius has a way of making even the prodigies look like beginners.” He forced a smile, but it didn’t reach his eyes. “Ask me how I know.”
+
+Lily let the comment hang between them for a moment, reading the bitterness underneath. She didn’t push, but her answer was gentle in a way that probably irritated him more.
+
+“You lost to him.”
+
+Sabinus’s laugh was short and hard.
+
+“Yeah. In front of everyone, like a dog. He beat me so fast I don’t even remember how it ended. Didn’t even get a scar for the trouble. Didn’t get any respect, either. That’s what it’s like when you fight a real monster. You never get a second chance.”
+
+Sabinus was apparently talking about her, but, more clearly, he was talking about himself.
+
+“We’ll see,” Lily replied.
+
+He rode ahead a length, shoulders hunched.
+
+“And you’re so sure you’ll be different?”
+
+“I didn’t say I was sure,” Lily said, voice quiet. “But I’m not fighting for a title.”
+
+He shot her a look over his shoulder, eyes sharp.
+
+“What’s that supposed to mean?”
+
+She shrugged, unbothered.
+
+“You fought Cassius because they told you to or some empty ambitions. I have nothing to prove. I’m fighting because I have no other choice. If I lose, I don’t get to just walk away and be the next Patriarch of my family.”
+
+Sabinus didn’t answer, but the silence was heavier now, full of things he would not say.
+
+They rode in gloom, broken only by the creak of saddle leather and the dull knock of hooves. At last, Sabinus spoke again, voice tight.
+
+“Just… don’t underestimate him, Lily. He’s not like Lumius. He doesn’t play by the rules. He already knows two Great Skills, and that was before he started training with his uncle, Cardinal Tiberius. And his Affinity’s different, too, somehow. There’s a reason people talk about him the way they do. Cassius makes everyone look like they’re missing something.”
+
+Lily let her gaze drift up through the tangled branches above.
+
+“Maybe they are,” she said. “But I’m not them.”
+
+Before Sabinus could comment, Sabinus head whipped to the side and he dove for Lily. Lily couldn’t understand what was happening but felt two bolts pass right where her head had been a moment before.
+
+The next moment, Sabinus disappeared, and two strangled shouts came from the side of the road.
+
+The fox-looking young man tossed two corpses on the road and re-sheathed his dagger.
+
+“Bandits,” he growled, looking at the horses. They had been killed by more bolts.
+
+He looked around and said, “come out.”
+
+Two dozen men came out on the road and the heir to the Gens Cornelia frowned.
+
+“Lily, be careful, they—”
+
+One had stepped too close to the blonde and Lily had feigned a punch. The man had swung his blade, but then Lily had shot for his legs, tackling him to the ground and leaving the man without breath when his back slammed on the hard ground.
+
+While using Light Magic to shape a sharp edge to her gauntlets, Lily mounted the man in a second and ripped his throat open, letting him bleed in a matter of seconds.
+
+She rose, her clothes already stained of the still gushing arterial blood.
+
+“They’re not high-level,” she said. “Take those.”
+
+Lily pointed at a few that had better equipment than the others.
+
+“Their Mana is much thicker than everyone else. They’re too strong for me.”
+
+Sabinus, found himself in the position of taking orders from the blonde girl, could just obey and square up in that direction.
+
+“Don’t die, then. Your mother would probably rip the skin off my flesh if you did.”
+
+“I don’t plan to,” she replied, taking a step toward the bandits.

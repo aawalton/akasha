@@ -1,0 +1,277 @@
+---
+id: ee0681c0-9135-573d-9ae8-d9eb33dedb1a
+page-type-slug: story-chapter-royal-road
+title: "122: Composition"
+slug: 0122-122-composition
+partOf: delve
+position: 122
+ownLength: 6983
+unit: words
+publishedAt: 2020-11-22
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/588742/122-composition"
+royalRoadId: "588742"
+---
+
+The murmur of voices dropped to a hush as Rain climbed up into the back of the forgewagon. Tallheart had torn apart the front of the vehicle to work on it, but Rain was just using it for a place to stand. Taking a steadying breath, he straightened his back and turned to face the crowd, waiting patiently for the last few conversations to end.
+
+Tarny showed less restraint. “Silence!” the man roared. “The Lord Captain Rain demands your attention! Bow in respect, for he honors you with his words!”
+
+About half of the crowd bowed, making a disorderly mess of it. There were a few laughs from some of the awakened at the chaos. Rain rubbed at his temples, metal-clad fingertips cool against his skin. He glanced at Ameliah, who was up front to one side, next to Tallheart. It looked like she was struggling to stop herself from laughing, but it was his face she was reacting to, not the disorder. Ugh, I need more coffee.
+
+Rain cleared his throat. “Okay, first thing. Nobody is ever allowed to call me ‘Lord Captain’. Ever.” Our cloaks might be white, but we aren’t the damn whitecloaks. He looked down at Tarny, then sighed and crouched down, speaking in a whisper. “Tarny, I’ve told you not to call me a lord how many times now?”
+
+“Captain, I…”
+
+“Enough,” Rain hissed, cutting him off. “Do it again, and I’ll take you off the list for Purify for a month. You’re being a zealot, and it’s ticking me off. Thank you for your faith in me, really, but tone it the hell down. I’m just a man. Captain is just a job. It’s an elected office, not a royal title or some god-given mandate.” He stood back up without giving Tarny a chance to reply and looked out at the crowd.
+
+“I work for all of you as much as you work for me, so no bowing. I’d appreciate if everyone shows respect by staying quiet while I’m up here talking, but this isn’t Xiugaaraa. You’re making me feel awkward. I don’t even know what to do with my hands. Like, am I supposed to do one of those cradle things, or hold them behind my back, or what?”
+
+There were a few smiles at the mention of Xiugaaraa. The general opinion in Fel Sadanis was that the City of Lights was mysterious, exotic, and filled with overly-formal pretentious pricks who would have you executed if you looked at them funny. The smiles turned to laughs as he deliberately exaggerated his gestures, making a show of trying to find a place for his hands.
+
+Rain nodded, looking at the crowd. There, cult-prevention taken care of for now. “Right.” He pointed at the lair, clearly visible beyond the earthen walls of their fortified camp. “So if by some miracle someone hasn’t heard, there’s an essence monster in there. I’d have brought it out here to make things easy, but lair monsters can’t leave a lair under normal circumstances, so we’ve got it hog-tied instead. It’s level five. By the end of the day today, that’s going to be the new level cap for seven of you.”
+
+There were a few cheers, plus a good deal of excited shuffling. Rain raised his hands for silence, and the crowd quickly settled.
+
+“Now, of course, we need to decide who gets that chance,” he continued. “Vanna and I spent most of last night and a good bit of the morning trying to hammer the credit system into something workable. Believe me, I’d rather have been sleeping. I think we’re getting there, but it’s not set up to handle this yet, so here’s what we’re going to do. I’m going to talk for a little while about what the company needs from its new awakened, putting it in the larger context of roles. If you want to get a spot, you need to pick a build that benefits everyone, not just yourself, so keep that in mind.”
+
+Rain glanced at the next bullet point on his notes. Oops. Skipped something already. Damn, I’m tired. He turned back to the crowd. “Oh, and it’s not just the blue. Breaking the core has a good chance of triggering awakening, so there’ll be a second group of eight that gets a chance at that tomorrow. I’ve personally seen it work, but I’ve never heard any definitive word on the practice. There’s no guarantee it will happen every time. You might need a special kind of lair or something, I don’t know. Anyway, if it does work, we’ll have a total of fifteen new awakened in the company by this time tomorrow, not just seven tonight.”
+
+There were a few more cheers at this, quieting again as Rain raised his hands for silence. “As I’m not sure about what will happen when we break the core, we’re going to pick the party for the blue, first. Basically, we’ll deal with this in two rounds. I’ll tell you my wishlist, and people can bid for the seven slots once I’m done going over everything. As I talk, I urge you to be thinking about what kind of awakened you want to be.”
+
+He paused, letting that sink in before he continued. “If there’s competition over a particular role, Lyn and Tahir get priority. They helped capture the blue, so it is only fair, provided that they go for one of the needed roles. Vanna is also getting priority. She’s been doing a ton of extra work as quartermaster, and she’s earned it as far as I’m concerned. If anyone’s got a problem with my reasoning or thinks I’m playing favorites, sorry. Once the codes are working, we shouldn’t have to deal with this. For now, once we’ve got applicants for all seven slots, we’ll have a lottery to decide the winner within each group. Sound good? Good.”
+
+Rain didn’t wait for questions. He knew better than that. He raised his voice, shouting over the nascent chatter before it could break into full-on chaos. “Okay, roles and party composition! Listen up, noobs! If any of this comes out incoherent, sorry. I haven’t slept since yesterday.”
+
+Rain snorted softly as he saw Ameliah shaking her head reproachfully. Pfft. She’s not one to talk. She’s been awake just as long as I have.
+
+He cleared his throat as he looked back at the wider crowd. “First things first, I need to frame the discussion about roles before I tell you what the first slot is. I’ll start with the role everyone here is familiar with, what I call DPS. DPS stands for damage per second, and as far as I’ve seen, it describes more than ninety percent of Guilders. A DPS is what you’re thinking of when you imagine a warrior cutting a swath through a sea of foes, or a mage slinging Fireballs at a dragon. A DPS is the consummate badass, and naturally, everyone wants to be one. That, right there, is the problem.”
+
+“In Ascension, we already have plenty of DPS.” He raised his hands, counting them off on his fingers. “Jamus, Staavo, Val, Mlem, Ava, Mahria, Samson, Kettel, and Ameliah with her current build.” Rain glanced at her as he said the last, and she nodded slightly. She’d told him he didn’t need to hide her secret, but still. He pressed on before people had time to ponder what his comment about her current build might mean.
+
+“All of them, DPS,” he said, wiggling his hands to emphasize his splayed fingers, only his left thumb not elevated. “Nine out of our fourteen awakened, which, while quite a bit better than the average in the Guild, is still a lot.” He dropped his hands. “Don’t get me wrong, a balanced party needs DPS. You can even do okay if that is all you have, provided you balance out your elements and positions. A full-DPS party can put out some crazy damage, but It will never be as good as a party with a proper mix of roles. That’s what I want to fix, first and foremost. Thus, the high-priority roles on my wishlist aren’t DPS.”
+
+Rain flicked his eyes to his notes, scrolling the display. “I’ll start with the obvious role we’re missing: a healer, which is a specific subtype of the more general role that I call ‘support.’ More on that later. For now, know that the first two slots for awakening are both for healers.”
+
+Rain smiled to himself as he paused. See how I’m not making a joke no one will get about how two healers would mean people could get a second opinion? I think I’ve grown. “Now, when I say ‘healer’,” he continued, “I don’t just mean someone who’s got Healing Word. There’s a difference between a mage with one point in the spell and someone who’s designed their whole build around the task. In Ascension, we’ve got Ameliah, but she is not a real healer. Neither was Wallace from the Guild for that matter, though he was working on it. Most of what I know about healing magic, I learned from him. Some of this is common knowledge, but please, bear with me. I want to clear up any misconceptions anyone might have.”
+
+Rain paused to glance at his notes again. ‘Remember eye contact’? Ha. Thanks, me. He looked back out at the crowd. “In a nutshell, Healing Word is a basic spell. Anyone can take it and just dump mana on the problem. Healing via overhealth is the most common form of healing, and while it can fix almost anything in the heat of the moment, it’s a blunt tool. In the higher tiers of the Restoration tree, there are spells that can fix old trauma. Everything from healing scars to regrowing entire limbs, even if they were lost years ago.”
+
+Rain didn’t miss Staavo’s frown at this. The one healer Rain had heard of who could reportedly do that charged…an arm and a leg. He shook his head and continued. “There are also ranged healing spells, AOEs, counters to debuffs, and more. The problem is that most of the spells beyond the first two tiers are dangerous. The safeties are off. If you don’t know what you’re doing, you’ll do more harm than good. I’m sure you’ve all heard the horror stories.” The body is just meat. He pushed away a shudder as he remembered Wallace’s words. “There’s no such thing as ‘Medical Intuition’,” he continued, “not like there is for most of the crafting trees. You need to be careful and learn how the body works the hard way. I know a few things here that might help, but that’s a topic for later. For now, let’s just talk about what a healer does in terms of their role.”
+
+“Out of combat, having a healer with you will let you keep going for encounter after encounter. Anyone who’s asked Ameliah to fix your sore feet at the end of the day knows how important that is, even in such a trivial case. In combat, the healer’s job is to stay in the back and make sure everyone’s health is full. Obvious, I know. Honestly, I can’t believe I have to explain this, but as far as I can tell, most parties just get some potions and call it good, or bring someone who knows Healing Word and that’s it. Healing Word’s not enough to make you a healer, not as your role. It also doesn’t work that well beyond level ten or so. It comes down to specialization. A Fire Mage who knows Healing Word is still a DPS. Their metamagic boosts their damage, but not their healing. They’ll never be as strong as someone dedicated to the task, just as a basic Mage will never do more damage than a Fire Mage. Being a generalist is good if you’re on your own, but we’re none of us on our own. That’s not the point of Ascension. We’re in this together. We need dedicated healers, so that’s the first two slots. We also need some other support classes that most of you will be familiar with, but I’ll circle back to that so we can talk about the second-highest priority and the next role. A tank.”
+
+Rain slammed his fist against his breastplate to catch everyone’s attention, a few conversations having broken out concerning the topic of healers. “You might call it a turtle, but that conjures the wrong image. When people say turtle, what do you think of? Someone with a Defender class, shrugging off blows that would kill an ox, slowly but surely grinding their way through a sea of enemies, uncaring of any damage they might take?” Rain nodded. “It’s a rare Guilder that takes that route, but isn’t unheard of. The problem is, most of them still think they’re DPS.”
+
+He paused for effect.
+
+“Shitty DPS. They take offensive skills, still, instead of focusing on their role. It makes them weak.” He pointed at Carten, having already cleared this part with him. “Carten is not weak, nor is he a turtle, though he might call himself that. He’s a real tank, through and through. I didn’t think anything was odd about his build the first time he told me about it, but others disagreed. I didn’t know enough about adventurer culture back then to realize why that was.”
+
+Rain smiled, motioning Carten forward. “Carten, the plan, if you would,” he said, hopping down from the forgewagon. Uncertain rumblings spread through the crowd as Carten clambered into the bed, even a few amused chuckles. Rain’s smile grew even wider as the big man slapped his meaty hands together, a happy grin on his face. This is going to be great.
+
+“Thanks, Rain,” Carten grunted, then cleared his throat and addressed the crowd. “All that stuff ya jus’ said ‘bout turtles is true. Don’t know that I like bein’ called a tank, or whatever, but ya ain’t wrong. People say Defenders is crap, don’t they?” Carten planted his hands on his hips, puffing out his chest. “So, here I am, a Defender. Why?”
+
+Carten waited, grinning at the crowd. Rain grinned back. Jamus, he saw, was holding his head in his hands. See? Great already. He’s a natural.
+
+“Well, when I was a lad, I got ta thinkin’,” Carten said before the silence could stretch too long. “An’ before ya ask, no, it didn’t hurt.” A few laughs came from the crowd as he continued. “I ain’t claimin’ ta be a genius like Rain, but I ain’t stupid. Think fer a minute ‘bout all the big teams ya ever heard of. The Heralds of El, The Crimson Boars, The Rousers, ‘n the like. What do all of ‘em got in common, eh? There’s a Defender in there, maybe more’n one. Now think on what ya see ‘round the Guild. Any Defenders? Naw, there ain’t.” Carten tapped his temple. “Why’s tha’, ya think?”
+
+Confused silence greeted him. Rain could barely contain his amusement at the befuddled crowd.
+
+“No, really, I’m askin’. Someone wanna guess? Oi, ya scholar shit in the back there. Ya know, don’tcha?”
+
+Staavo sighed loudly. “Because Defenders need a team to be effective,” he said, grumpily.
+
+“See? He knows it,” Carten said. “Everbody’d know it if they stopped ta think ‘bout it fer a second. It ain’t that hard an equation.”
+
+“Big word, Carten,” Val heckled, smiling.
+
+The crowd laughed, but Carten just gave a good-natured scoff and waved the comment away. “So anyway, I’s a lad, and I think ta meself, I wanna be on one o’these big teams, right? Well then. They’ll need a Defender, then, won’t they? And there ain’t many ta go around, that helps me chances, right? Now, most idiots woulda stopped there. Jus’ gone fer it and ended up like one o those fools Rain mentioned. Me, though, I did me research. Helped that I weren’t awakened yet, an’ I had the time ta hang ‘round the Guild. Anyway, me mum, ya see, has been all over the continent. She’s seen cities bigger’n Fel Sadanis, ones with right proper Guild branches’n all tha’. Whenever she’d come home, I’d ask ‘er all about her travels an’ the Defenders she’d seen. That’s how I came up with me plan.”
+
+Carten raised a thick digit. “Step one: get awakened. I’ll spare ya all the in-between steps fer figurin’ out how ta do that. Rain’s got ya sorted, there.” He raised another finger. “Step two: get indestructible. Still workin’ on that part. Shieldwieldin’ tree, passives fer me Endurance, an’ so on. Ask me later, an I’d love ta tell ya all about it. Not important right now, though. Third part’s the key.”
+
+Carten raised a third finger, then grinned. “Step three: be fuckin’ irritatin’!”
+
+“I thought you were still on step two, Carten,” Jamus interjected. There was another round of laughter at the comment.
+
+“Har har, Jamus, but no, I ain’t started this one yet,” Carten said when it died down. “I’ve told ye all this before, so shut yer hole. Don’t got the skill points fer it, and still not done with step two.” His response to Jamus had been good-natured, but he sounded genuinely frustrated when he mentioned the lack of skill points. He took a second, combing a hand through his beard before he continued.
+
+“Anyone heard ah the tree called ‘Threat Attraction’?” Carten paused for a moment, then nodded. “O’course ya have. S’kinda a joke, ain’t it? The useless tree fer gettin’ yerself killed. Well, obviously, it’s there fer a reason. World wouldn’t a made a skill tree that ain’t got no purpose. See, this is what me mum said. Whenever she’d tell me what she’d heard ‘bout one of the big teams, she’d say ta me, ‘Carty, I don’t want ya bein’ a Defender. Them’s always the ones gettin’ hurt.’”
+
+“She called you ‘Carty’?” Val asked. “Can I call you Carty?”
+
+“If ya do, you’ll be the one who’s gettin’ hurt,” Carten said, shaking his fist. There was another round of laughs at this, and Carten grinned. “Ya knew what ya were in fer when ya asked me ta talk, Rain. Anyhow, ya all get it, right? Defenders in big teams is the only ones what gets all cut up, an’ that must be cuz they got the Threat Attraction tree, ya see? Them teams, they got a Defender ta take the damage, an’ a Healer ta patch em back up. Threat Attraction makes the monsters go fer the Defender, an’ the Defender only. It’s a right stupid skill tree outside a team, an’ right stupid if ya ain’t got the defenses ta survive it. Point is, Defenders can handle it, and it keeps the team safe.”
+
+People seemed to get it, and Carten nodded. He raised his hand again abruptly, this time with four fingers showing. “Step four: Get’ hired on to one o these big teams and get outa the shithole what’s called Fel Sadanis.” He grinned. “Looks like it worked.”
+
+There was another ripple of amusement at this. Carten spread his arms wide and bowed, then hopped down from the forgewagon.
+
+“Thank you, Carten,” Rain said, clapping him on the shoulder, then climbing back up. “He’ll be signing autographs after the show. Anyway, he’s exactly right. The job of a tank is to force the monsters to attack them instead of their allies. The word for this is aggro.” Rain flared Winter. “I expect you all to remember it. Monsters aren’t like animals, and they aren’t like people. Who they attack depends on who they can get to, and the perceived level of threat.” Rain nodded to Samson. The man had proved surprisingly knowledgeable on the subject. It was actually a little disturbing to hear some of the things he’d said and to have his own suspicions confirmed. The uncanniness of it all had sent Rain down another spiraling path of doubt concerning his reality.
+
+“An effective party has a tank, as I said.” he continued, pushing those thoughts away. “The tank’s job is to control aggro. That’s the next two slots. Carten’s great, but he’s just one man. We’re going to want more than one tank in the company, for obvious reasons. With dedicated healers, our new tanks will be able to take Threat Attraction sooner without worrying about being quite so indestructible first.”
+
+Rain reached to his waist and untied his canteen, taking a sip more to give the audience some time to think than because he actually needed the water. Instead of retying it, he set it on Tallheart’s anvil, then cleared his throat.
+
+“Three fundamental roles for combat. DPS, Tank, and Support. You can quibble about the lines between them if you want but it comes down to those that do damage, those that take damage, and those that make sure the other two can keep doing that indefinitely. Let me paint you a picture of a properly structured party, just to give you an example.
+
+“Frontline, we have a dedicated tank with a hammer and a shield as the anchor. Add to that two melee DPS. We’ll make one a brawler type with a sword and a shield. She can help the tank, and cover any gaps in the defense, while still doing damage as her primary goal. The second we’ll make a specialist, such as a rogue, to deal with any traps the party might run into.
+
+“Backline, let’s add in some more DPS—you do need damage to get the job done after all. Let’s have some regular elemental mages to make things simple. One Fire, one Ice, because monsters that are resistant to opposed elements are rare. Let’s also add in an archer to handle armored targets. We’re up to six, now. One tank, and five DPS.
+
+“To fix that imbalance, we need supports. Let’s have a healer, obviously. For flavor, we’ll make him a priest of Dystees, not that you’re likely to find one of those around here. I’m the wrong person to ask about the difference between what they do and what’s in the Restoration tree, if there even is a difference to begin with. Either way, it’s the same in terms of role in the party. To round things off, let’s have another support, but of a different type. I know you’ve all heard of this build, even if you might think I’m crazy for classifying it like I am.” Rain paused. “A Chemical Malefactor.”
+
+“Ah,” Mlem said, snapping his fingers. “I see what you’ve done.”
+
+Rain smiled at him, but his gaze was pulled to Mahria as she cleared her throat. “It’s the Rousers,” she said loudly, cutting through the chatter, a complicated expression on her face. “My grandfather’s team.”
+
+“Yes,” Rain said, nodding to her. And one of the only teams I actually know something about. “Just an example, like I said. I don’t actually know much of their history, just scraps I overheard at the Guild. Obviously, though, they were quite successful. The Fire Mage is Burrik the Volcano, now Guildmaster, and the archer is a Citizen. There’s a reason people are still talking about the team. Which one was your grandfather, Mahria? I don’t actually know.”
+
+“The rogue,” she said, then shrugged. “I never met him. He died after the team broke up, but before I was born.”
+
+Rain gave her a commiserating nod, then shifted his gaze away, continuing before things got awkward. “A Chemical Malefactor,” he said, bringing them back on track. “A support, but of a different type. Some would argue that a better word is ‘controller’. Someone who debuffs enemies or changes the terrain to shift the battle to the party’s advantage. Still, I call a Chemical Malefactor a support, because something like Malaise doesn’t actually do damage; it just makes it easier for the rest of the party by debilitating their enemies.”
+
+Rain rapped his knuckles sharply on Tallheart’s anvil. “This is what I want our combat parties to be like. Not exactly like the Rousers, but with the same kind of balance. All three roles, filled. A good variety of elements, covered. Utility skills for trap finding, divination, recovery, and traversal. Each member, specialized for their role. Weaker individually, yes, but as a team, stronger than any party of generalists could ever be.
+
+“And it goes even further. Ascension is not a party. Ascension is a company. If we’re against a Cold lair, we send Fire Mages. We build a party suited to the task, based on the challenge before us. Further still, as a company, we can afford to have members not suited to combat. We have Myth and Reason, who can make potions, materials, and constructs for us to multiply the strength of those that do go into combat. And then, of course, there’s Tallheart.”
+
+Rain hopped down, motioning the smith forward. True to his word, he hadn’t asked him again about making equipment for Ascension. Tallheart had come around on his own, pulling Rain aside earlier this morning to tell him that he’d changed his mind and wished to address the crowd. Rain wasn’t sure exactly what he was going to say, and in truth, he felt a bit bad about the circumstances. If he had to guess what had changed the cervidian’s mind, it would have been listening to the recounting of the events that had occurred inside the lair. If things had gone just a little bit worse, all of them could have died. Needless to say, both Tallheart and Ameliah had not been happy that they’d continued after the incident with the Spiritcaller, not when it had been clear that it wasn’t a normal lair they were facing. As if we would have had any way to know what’s ‘normal’ for a lair.
+
+Tallheart snorted at Rain’s expression as he walked over. He didn’t climb up into the forgewagon; he simply turned to face the crowd, then frowned them into silence.
+
+“I will not make equipment for those I do not trust,” he said. He paused, then nodded to Rain as he continued. “I will make company steel. I will make no enchanted weapons that might be used against my people. Of the weapons that I do make…” He rumbled ominously, narrowing his eyes. “If I learn that any of you have used one for any dark purpose, I will hunt that person down as your people have hunted mine. That is all.”
+
+Tallheart wordlessly retreated to stand by Ameliah, then turned in the silence and looked at Rain, his pale eyes as hard as granite.
+
+Several hours later, Rain collapsed in the corner of one of the sleeping rooms, beyond exhausted. It had taken him a while to get things back on track after Tallheart’s pronouncement, and he’d had lots more to cover after that. Even once he’d finished with his planned speech, he hadn’t been able to take a break. He’d spent at least an hour fending off endless questions—and the occasional attempted bribe—as he tried to help Vanna set up the logistics for the selection.
+
+Finally, he’d managed to slip away. He needed to rest. Tonight, he’d have to interview all the applicants individually to verify their proposed builds, then set up the drawings, and THEN actually deal with the blue.
+
+Right now, he was too tired to even consider any of that. He didn’t even bother to dig out a blanket, or even to wrap himself up in his cloak. He just plopped his head on his discarded pack next to his helmet, closed his eyes, and let oblivion claim him.
+
+“Rain, are you in here?” Ameliah asked, poking her head into the room where Vanna had said he’d gone to get his pack. “Oh,” she said, frowning. Oops. He’s asleep? Unless…
+
+Walking swiftly but quietly, Ameliah crossed the room and knelt next to him. She’d swapped out Tissue Scan, but a few seconds of watching him breathe was enough to convince her that he was just asleep, not dead or injured somehow. She really was concerned about what he’d done to his soul, but this just looked like normal exhaustion. That, she could understand. She hadn’t slept either, not since they’d arrived at the lair. She’d stayed on watch all night, too worried about the delve team to even consider rest. She had the required stats to ignore fatigue for quite a while with only minor repercussions. Rain, not so much.
+
+Leaning back to sit on her heels, Ameliah snorted, then smiled. Idiot.
+
+She glanced around the room, spotting a sled containing a few piled blankets, and she got to her feet to retrieve one. While she was busy with that, Dozer arrived, entering the room by dropping over one of the mud walls. The slime landed with a loud plop. Rain twitched at the sound but didn’t wake.
+
+“Shh,” Ameliah hissed at the slime as she walked back to Rain with the blanket, carefully draping it over him. Dozer, of course, didn’t understand. It was headed right for Rain, but she intercepted it before it could climb on top of him. “None of that,” she whispered, herding the slime with her legs to keep it away. “Let him sleep, Dozer.”
+
+Ameliah sighed as the slime doggedly continued its attempts to get past her. “Okay, fine, be like that” she said, bending to pick the ridiculous creature up. To her surprise, it didn’t immediately try to escape her arms. Instead, it relaxed, then snuggled against her stomach. Ameliah smiled as she took a step toward the door. “Come on, let’s go.”
+
+Dozer began to struggle the moment she started moving, its efforts growing more frantic as she continued. With a sigh, she stopped, not even halfway there. Dozer relaxed slightly, pushing out a section of its membrane toward Rain as if reaching for him.
+
+Ameliah yawned. “Fine.” Turning, she walked back and squatted down to set the slime on the ground next to Rain. “You do know to not block his mouth, right?” she asked as it investigated the blanket.
+
+Dozer ignored her once more, snuggling against Rain’s shoulder. Rain didn’t react, entirely out of it.
+
+“Happy, are you?” she asked the slime. It certainly looks happy. She got up, then looked at the sky. It will be night in a few hours. Should I go recheck the walls?  With another yawn, she glanced back at the slime, then blinked. It hadn’t moved, but now it was reaching for her, just as it had reached for Rain a moment ago.
+
+Ameliah smiled when she saw that. It is kind of adorable sometimes, but then again, I’m reading too much into this. It’s just a monster. It doesn’t know what it’s doing. Probably some weird slime instinct or something. She glanced back at the sled with its pile of blankets, fighting off another yawn.
+
+Oh, fine.
+
+She relented, heading for the sled to retrieve a second blanket. The walls were plenty thick enough, and the others would be fine without her for a few hours. Blanket in hand, she walked over to her pack, which was a few stride away from where Rain was sleeping. Dozer tracked her the entire time, stretching for her as best as it could. The slime didn’t have enough control over its membrane to form a proper appendage.
+
+Shaking out her blanket, Ameliah lay down and draped it over herself, using her pack as a pillow. A small effort of will forced the earth beneath her to shape itself to her body, creating a comfortable indentation as she closed her eyes.
+
+Just as she was starting to relax, Ameliah was startled by a sudden wet popping sound, as if a bubble of swamp gas had pushed its way up through thick mud. She opened her eyes and turned to see Dozer still reaching for her. As she watched, the slime quivered, forming an indentation in its surface that quickly closed. After a moment, the sound repeated as the slime forced out the trapped air.
+
+“Seriously?” she demanded. Maybe it does know what it’s doing…
+
+The slime quivered, then stupidly resumed its efforts to reach her, still clinging to Rain’s arm. Ameliah closed her eyes again and sighed, resolving herself to ignore it. Depths, I’m tired.
+
+A few moments later, there was another pop. Then another. Then a third.
+
+Ameliah scrunched up her face. Damn it.
+
+Without getting up, she used Earthmolding to scoot herself closer to Rain, a rock jabbing uncomfortably into her ribs before she pushed it away. She stopped when she felt Dozer grab her shoulder, still leaving plenty of space between her and Rain’s slumbering form. She reformed her indentation, then raised a low wall of dirt between herself and Rain to keep him from jumping to the wrong conclusion should he wake before she did. She left a gap in the wall for Dozer, even going as far as to shape the slime a small depression of its own, all without looking. The thing was happily clinging to her shoulder, so she knew more or less where it was. “There, you got me to come over here,” she told it, still not opening her eyes. “I hope you’re happy. This is as much as you’re going to get.”
+
+Tallheart poked his head through the door, then rumbled softly, amused to see the slime and the wall of dirt between the two slumbering forms. He smiled as he turned away, shaking his head. Humans.
+
+“Is Rain in there?” Jamus asked, nodding toward the doorway.
+
+“Yes,” Tallheart said, turning to walk away. “He is asleep.”
+
+“Damn,” Jamus said. “Let’s find Ameliah, then. She’ll know what to do about—oh. Never mind. I found her. Huh. Are they…?”
+
+“Not yet,” Tallheart said, smiling to himself. It would be good for them both, but they are too afraid of their own feelings. I should speak to them about it. They are wasting time.
+
+“Well, if you say so,” Jamus said, also smiling. “I guess I need to wait for one of them to wake up. Thanks for helping me look for them. I guess I’ll go see what Meloni’s up to.”
+
+“Mmm,” Tallheart said.
+
+“I’ll come find you for dinner, okay?” Jamus asked.
+
+Tallheart nodded again. “I will look for you, Jamus…” He hesitated. “Bring the dog. And Meloni, if you wish.”
+
+“Sure thing, Tallheart. Sounds like fun. She’s been wanting to meet you properly.” Jamus laughed as he walked away. “Bring the dog, he says.”
+
+Tallheart hummed softly as he walked through the camp, happy, and yet somehow sad. With Jamus gone, he felt even more conscious of the wary looks the unfamiliar humans were giving him. He wondered once more if he had been too harsh with his threat, but set the worry aside. Too harsh was better than not harsh enough. Rain said they were good people, and Tallheart wanted to believe him, but it was…hard. It would take time. It didn’t help that Rain was so free with his trust that his opinion held little weight.
+
+He only sees the best in people. Tallheart smiled softly. Even me.
+
+He didn’t stop until he reached the outer wall, climbing the stairs and sitting with his legs dangling over the side. He remained there, breathing the cool air and thinking about human foolishness as lazy flakes of snow gradually began falling from the sky. After a few minutes of silence, he looked up at the clouds, then closed his eyes. I think even you could have grown to like him, Lilly.
+
+“…ke up, idiot. Hey, slime…thing, what do you think you’re… No, don’t even think about—gahbplepppt!”
+
+Disoriented, Rain blinked, clearing the sleep from his eyes as the voice pulled him from unconsciousness. Staavo? Was I dreaming?
+
+As the world came into focus, time froze. Ameliah was staring at him, her head resting on her pack. Her blond hair was loose and partly covering her face, coated with a thin layer of snowflakes. She reacted at the same time he did, both of them jerking away and rapidly sitting up.
+
+“…What?” Rain asked, looking around. There was a wall of earth between them, but where their heads had been, there was a hole dug into the ground that had allowed them to see each other.
+
+“Pppt…gah!” Staavo gasped.
+
+There was a splut as Dozer landed on the dirt near Rain’s feet, the noise momentarily stealing Rain’s attention. There was a flash of determination from the link, and the slime bunched itself up, preparing to leap again.
+
+“Damn it, Rain, stop that thing, or I will!” Staavo yelled, raising his hands threateningly.
+
+[Dozer, down! Come!]
+
+As Rain pushed his thoughts at the slime, more details of the scene wormed their way into his groggy brain. It was night, the sky above blanketed with dark clouds with a hint of moon through them. Snow was falling lightly, the flakes lit by the evertorches burning along the walls. He was in the same open-roofed room he’d been in when he’d fallen asleep. Ameliah, though, hadn’t been lying next to him before. That would be the kind of thing he’d have remembered.
+
+“Well, that’s one way to wake up,” Ameliah said, stretching as she got to her feet.
+
+Dozer reached him, then pushed himself into Rain’s arms. The slime was feeling satisfied with itself for defending its human, and also content about something that might have been togetherness, or maybe family. Rain was less interested in the slime’s feelings right now than his own, however. He felt his cheeks heating as he watched Ameliah brush the snow from her hair. She was so close. If not for that wall… I’m assuming she put it there, but why did she leave a gap in it so we could—
+
+“Hey!” Staavo snapped his fingers, tearing Rain’s attention away from watching Ameliah. “You two love ducks have slept long enough. I’m losing my mind out there.”
+
+Rain looked at him, still groggily trying to come to terms with what was going on. Love…duck? Why a duck? And we’re not… He shook his head. That line of thought wasn’t productive. “What is it?” he asked. “How long was I asleep?” He glanced up at Ameliah. “And why were you…”
+
+Rain was probably imagining it, but Ameliah’s face might have been a bit red too as she looked away. “Dozer wouldn’t stop bothering me until I moved next to you,” she said, indicating the gap in the wall. “It insisted on being able to touch both of us before it would stop blowing bubbles at me and go to sleep.”
+
+“Oh,” Rain said, peering at the slime. You… After a moment, he snorted. [Nice work, Dozer.]
+
+Happiness and satisfaction at a job well done flowed back across the link, the slime jiggling contentedly in his arms. It blew a bubble to demonstrate, making a wet popping sound like someone had stuck a plunger to a tile wall.
+
+Staavo gave an exasperated sigh. “Damn it, Rain! Stop playing with that overgrown booger and get up! They’re driving me insane!”
+
+“Who is?” Rain asked, gently dumping Dozer onto the ground. He threw off the blanket—also a new development—and struggled to his feet. His body was stiff and unresponsive. Damn soul damage.
+
+“Everyone!” Staavo shouted, marching up to Rain and gesturing wildly. “They won’t stop asking me about their builds! As if I’m supposed to know every single skill in every single tree that’s ever existed!” Staavo stuck his finger in Rain’s face, causing him to jerk back. “You’re the one that’s wasted gods know how much experience unlocking every last skill in the depths of the—hey!”
+
+“Stop yelling,” Ameliah said, pulling Staavo roughly by the arm to get him out of Rain’s face. “You’re being an ass.”
+
+“And you two are being lazy!” Staavo snapped, jerking his arm away from her and rubbing at his shoulder. “Gods, woman, I know you’re silver, but aren’t you supposed to be a mage? What have you been eating? You practically ripped my arm off.”
+
+“Neither of us slept last night,” Ameliah said, sounding annoyed. “Try to show a little consideration. Or maybe gratitude. What exactly have you been doing, other than tinkering with that project of yours? Did you help set up the evertorches like I asked you to?”
+
+“That’s not important,” Staavo said, trying to step past her. “Come on, Rain, I need—”
+
+“Did you help, or didn’t you?” Ameliah asked, stopping him with a hand.
+
+“Well…no,” Staavo said. “But—”
+
+“Quiet.” Ameliah didn’t speak loudly, but her tone brought Staavo’s teeth together with a click. Or maybe it was her hand on his shoulder. Staavo looked like he was in severe discomfort as he tried to pull away from her grasp.
+
+Rain chuckled. Okay, I’d better defuse this before she hurts him, not that I think she will. He cleared his throat. “It’s fine, Ameliah, it’s just Staavo being Staavo.” He walked forward, addressing the old man as Ameliah released him. “I’ll come get them off your back, and then maybe we can talk about the steam engine, but only if you help out around the camp like Ameliah asked you to. Maybe get us some dinner.” He checked the time, wincing. “I don’t know about her, but I slept through two meals. I’m starving.”
+
+“Oh fine,” Staavo grumped, muttering something that might have been in Vejik, judging by the harsh and unfamiliar syllables. Rain flared Winter, locking it in his mind. It was always good to have a wide variety of curses to draw upon. He could ask Myth or Reason what the words meant later.
+
+“So, Ameliah, um…” Rain said as the three of them headed for the exit.
+
+“Yes?” she asked, an unreadable expression on her face.
+
+“Uh…nothing,” Rain said, looking away. “Sorry.”
+
+Staavo rolled his eyes. “Kids.”

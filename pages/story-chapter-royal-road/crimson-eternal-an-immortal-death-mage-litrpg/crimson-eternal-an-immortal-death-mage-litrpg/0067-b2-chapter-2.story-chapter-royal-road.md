@@ -1,0 +1,133 @@
+---
+id: eba9aa24-5d12-5623-b129-6fa9a8b2e67f
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 2"
+slug: 0067-b2-chapter-2
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 67
+ownLength: 1539
+unit: words
+ownProgress: 1539
+publishedAt: 2024-01-28
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1498039/b2-chapter-2"
+royalRoadId: "1498039"
+markedReadAt: "2026-06-29T19:08:11.868Z"
+---
+
+Aria
+
+I let out a very quiet groan as I stretch while walking across the docks towards the entrance. And as I walk, I occasionally wave to some of the regulars I see while passing by.
+
+After spending two and a half years here, I’ve grown to know a lot of the regulars. Although I still keep my distance so as to not grow close to anyone.
+
+Which is working out a lot better this time when I don’t actually have anything forcing me to interact with others, like I had when working with a team.
+
+Now my daily activities have largely become wake up, work out, then spend a few hours just relaxing while watching the lovely TV here – a TV that I might add is centuries ahead of what they had back on Vortel – then I head over to the Hunter’s Bay. A lovely place that makes for great farming of levels.
+
+Because each of the mana creatures – as the locals call them – is worth one being per kill. And their soul energy can apparently be absorbed by my death spirits and brought back to me along with the loot they drop and the resources the death spirits find. Also, the death spirits killing them counts as me killing them too.
+
+So I’ve taken to the nice and relaxing process of lazing around at the dock while my death spirits do all the work.
+
+A very nice way to spend my days.
+
+Some days I lie there sunbathing – something my mother used to talk about all the time – just to see what it’s like. And while I’m not opposed to it, I don’t really see why she was so big on it.
+
+Especially considering the people staring at me while I do so, some with rather obvious thoughts in their head.
+
+Good thing I wear a rather conservative swimsuit that covers most of me and isn’t too revealing.
+
+Others just stare at the black number above my head. Which is apparently a thing.
+
+Just that we didn’t see them until we reached level ten, and they were blocked by the System restrictions even when the others were level ten back on Vortel.
+
+According to Shirou though, the numbers don’t actually tell how powerful someone is. Their color just states how difficult it would be for you to kill them.
+
+And considering my true immortality, that’s not possible.
+
+So black numbers all around. Even for the emperor, whose level is far higher than anyone else I’ve ever seen.
+
+I also tend to spend a lot of time just reading about the universe at large while lazing around up here. A pastime that gives me quite a bit of useful knowledge about the universe.
+
+Just these Hunter Spots for example. Useful things that are what make Alpha Tier worlds so sought after.
+
+They’re apparently places where the mana built up by the world itself intersects, creating a massive structure filled with treasures and dangerous creatures of all sorts. Places that are vastly different in every single Alpha Tier world.
+
+Although I just see them as my source of income. One that should give me enough coin to survive for a while in the next world I visit.
+
+Also nice places to lie down and relax in.
+
+The other hunters might think otherwise though.
+
+I enter the main building and begin heading to the left side of it as seen from the bay, where the exit and trade-in are at. The place you can go ahead and trade in your loot for coin.
+
+After entering the building and then the line shortly after, I reach the front and empty my storage ring of corpses and minerals onto the counter. And apparently my lovely death spirits managed to snag a couple mana gems this time around as well.
+
+Lucky me.
+
+Or lucky them?
+
+Either way, doesn’t matter.
+
+“I see you’re here with another haul,” the receptionist says, a wry smile on the man’s face. He is a native judging by his facial structure, with black hair, black eyes, and a level too high for me to see. But he’s been here, at this particular line every single day. The line closest to the entrance. “Let’s count it all up, shall we?”
+
+I nod my head, not saying anything in response.
+
+The man does all the talking for me after all.
+
+“You’ve been here for, what, two and a half years now? Have you taken a liking to our lovely city and chosen to stay?” he asks while running the scanner over every single item one by one.
+
+I shrug at that, “It’s a great city and all, but I can’t stay.”
+
+The emperor wants me gone before the System restrictions on Vortel go away after all.
+
+The man looks slightly disappointed at that, but he doesn’t say more about the topic, instead switching over to some news he had heard.
+
+“Did you hear about the new Eight Star Merchant that was just promoted?” he asks before continuing without giving me any chance to say anything. “I heard it was the Silver Merchant. Ya’ know, the one who’s known rather well for his penny pinching.”
+
+He pauses as he starts typing something into the terminal – something along with the rest of the high tech items in this city that I’ve just grown a little used to over the years – before saying, “Your total is two gold coins, fifteen silvers, and fifty-six coppers.” The man glances at me. “I’m assuming you want those now, like always?”
+
+I nod my head and he quickly gathers up the items on the counter into his workspace storage ring, then pulls out a bag with coins in it, counts the coins in front of me, and hands it to me. Following which I put the coins into my own storage ring and give him a nod.
+
+“As always, you’re exempt from the Dynasty’s tax on goods,” he says before, as I begin to walk through the now-open gate, adding, “Oh, and apparently that Silver Merchant guy will be passing through the city today. If you meet him, please tell me what he’s like!”
+
+I just wave my hand behind me without saying yes or no.
+
+The guy’s a chatterbox, but he’s nice enough. And he does his job rather quickly despite the chatter. Which is impressive.
+
+All of the other lines I tried going through at the start of my stay here had clerks that would either take forever to count it all up, would try to get me into investing into their business, to purchase something from them, or would simply freeze up from the black number above my head, too terrified to do their jobs properly.
+
+So Takashi Sato is the only clerk I find tolerable at the station. And he is a cool guy still. Despite his talkative mouth.
+
+He also doesn’t really expect much of a response back from me, so it’s fine.
+
+I look around after leaving the building before beginning to walk towards the parking area.
+
+When the emperor asked me how I wanted to live the next few years, my simple answer was to just live it in relaxation. To be able to actually rest for the first real time in my life.
+
+And since I wouldn’t be staying here forever, I also wanted to keep earning money and leveling up so that I wouldn’t be left stranded somewhere when I leave this planet. So that I’d have plenty of earnings to use in the other worlds, because apparently the currency here is accepted in literally almost every single world. Including all of the Alpha Tier worlds.
+
+Which makes sense, considering that this is the commerce center of the universe.
+
+The emperor went ahead and gave me a tax exemption at and a free pass to traverse the Hunter’s Spot whenever and however long I please after hearing that, telling me that it’s the best way for someone like me to earn a quick buck.
+
+He also knew exactly how it is I level up and said I could do that there too.
+
+All in all, his idea worked wonders.
+
+I’ve earned quite a bit of coin over the years, and I’ve leveled up all the way to level ten.
+
+Although at this point leveling up has become a massive fucking chore.
+
+To reach level seven it took me seven thousand five hundred kills. To reach level eight it took me ten thousand kills. Level nine took thirteen thousand, and level ten another fifteen thousand.
+
+Overall, it’s taking way too long to level up even the slightest amount.
+
+I haven’t even gotten another skill since level six either.
+
+Which I guess must be the universe’s way to balance out my class a little bit. Considering that I’m a true immortal.
+
+I sigh as I make my way across the parking lot to the hover car that the Emperor loaned me. And after unlocking the car and getting inside, I begin driving the thing back to the lovely little summer getaway that he gave me for my time on this planet.
+
+Well, whatever. I’m not in a rush.
+
+I have forever, after all.

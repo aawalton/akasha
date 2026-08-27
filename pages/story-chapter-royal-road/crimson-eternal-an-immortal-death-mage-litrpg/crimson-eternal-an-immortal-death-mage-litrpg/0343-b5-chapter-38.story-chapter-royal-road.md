@@ -1,0 +1,163 @@
+---
+id: 8b17ceca-0c84-5399-98ed-23735ed3e81d
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 38"
+slug: 0343-b5-chapter-38
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 343
+ownLength: 1402
+unit: words
+publishedAt: 2026-04-15
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/3278957/b5-chapter-38"
+royalRoadId: "3278957"
+---
+
+Famine’s Grand Castle
+
+The Grand General feels more than a little shocked the moment he hears about the Horseman of Death’s arrival on one of the outer planets of the Dread Empire. Because he never expected her to visit the Dread Empire. Not in a million years.
+
+Everything he’s heard about the Horseman of Death points towards her only going to planets that she can leisurely move around in. Places that aren’t too restrictive and aren’t too abusive towards their people.
+
+So he never expected her to go to the Dread Empire.
+
+Especially not while Famine is away. Since he had assumed the only reason she would ever visit would be to see his adoptive father for some reason.
+
+But it only takes the Grand General a few seconds to calm down and think logically about the situation. All while shifting his main consciousness to the clone in the building the Horseman of Death is currently residing in.
+
+Is she trying to take over the Dread Empire? Or maybe she’s simply curious about the Dread Empire’s Hunter’s Spots?
+
+One possibility after another passes through his mind as he calmly moves towards the Horseman Chambers located within the central building of this planet. But no matter how long he thinks, he can’t settle on a certain possibility.
+
+So he decides to examine the Horseman’s appearance and attitude when he meets her and debate further about it then.
+
+What he finds when he arrives at the special chambers set aside for any visiting Horseman – chambers that have never once been used prior to today as no Horseman has ever visited before – he finds her lazing away watching a TV show on the TV in the living room area of the Horseman Suite.
+
+The vision in his mind of her visiting to investigate the nation or try to take over cracks at the sight of her sipping on wine while watching TV.
+
+But the vision doesn’t shatter completely. Since she could still have something up her sleeve.
+
+For all he knows, the Horseman could be faking it.
+
+After all, no one knows how the Horsemen think better than the Grand General. Who was raised by the Horseman of Famine. And has lived as his Grand General for hundreds of thousands of years.
+
+And by now he knows every last detail about how Famine is.
+
+Famine thinks nothing of the lowly mortals of the universe. All they are to him are insects.
+
+And more importantly, Famine rarely ever reveals his true thoughts on any matter unless it’s directly related to the superiority of the Horsemen.
+
+So he can’t take the Horseman of Death’s attitude at face value.
+
+He has to believe that every act of hers is fake. Regardless of what he’s learned from his research on her.
+
+Horsemen can’t be trusted after all.
+
+So after a moment of being bewildered by her behavior, he proceeds to ask, “Hello, Lady Death, I welcome you to our Empire. We will be throwing a grand banquet for you as soon as-”
+
+He’s cut off when the Horseman of Death says, “Could you not do that? It sounds like a pain.”
+
+The Grand General blinks at her words, almost feeling like he imagined them in his head.
+
+“Also, could you come back later, whoever you are? This is the best part of the show,” the Horseman says without even looking his way.
+
+Silence fills the room with the only sound being that of her TV as her eyes remain glued to it.
+
+Does she really not know who I am? But how? She came here for a reason, so how could she not have looked into what the Grand General looks like?
+
+“Pardon me, Esteemed Horseman, but would it be alright for me to introduce myself?” the Grand General asks while feeling more than a little tense at how things are turning out. “I believe you may be mistaken about who I-”
+
+“I don’t care who you are,” the Horseman states, still without taking her eyes from the TV screen. “Come back later.”
+
+He opens his mouth again, only to find several Crimson Empire knights appearing before pushing him out of the room and closing the door.
+
+Leaving him staring blankly at the door in shock.
+
+What just happened?
+
+Aria
+
+That person was rude. Who walks in and just starts talking after seeing that I’m watching TV?
+
+And they just had to enter at one of the most important parts of the show.
+
+I let out a sigh after the knights kick the guy – whoever he is – out of the room. Then I rewind the TV show to the part before he started interrupting.
+
+Maybe I should make it illegal in my nation – whatever its name was – to interrupt someone while watching TV or reading…
+
+Anyway, I continue watching my show until I finally finish the season. Then I get up and stretch a bit before finally leaving my room.
+
+Only to find that same man from a little while ago who interrupted me standing and staring blankly in the hallway. Looking completely shocked for some reason.
+
+“What’s with you?” I ask while tilting my head.
+
+He stares blankly at me for a few seconds, during which time I finally pay some attention to him. At which point I realize he’s the Grand General.
+
+Huh. Didn’t expect him to show up knocking on my door and barging in.
+
+He’s rather rude.
+
+I blink for a moment as I remember something.
+
+Was my door even shut? Now that I think about it, I don’t think the door was even closed…
+
+Which means he just walked through the open door instead of opening it and barging in.
+
+Maybe he’s not quite as rude as I thought.
+
+Still. It’s an absolute law of existence not to interrupt someone who is reading or watching TV.
+
+Especially when they’re at the best parts of the story.
+
+“Y-your Esteemed Self, the Great Horseman of Death, I am the Grand General of the Dread Empire,” the man finally says, snapping out of his stupor as he bows towards me. “I apologize for not introducing myself earlier.”
+
+I stare at him for a second.
+
+It looks like he just assumed I would recognize him. Which is kind of rude, but whatever.
+
+Then again, he’s used to dealing with Famine. And Famine isn’t in his right mind.
+
+Knowing what I know about Famine, he’d probably feel insulted just from a mortal trying to introduce themselves to him. Especially when he already knows who the mortal is.
+
+So I guess he’s trying to treat me the same way he would Famine?
+
+And ended up being shocked by how different I am from Famine.
+
+Or something like that.
+
+It doesn’t matter though.
+
+“About that banquet you mentioned,” I state, vaguely remembering what he said before I kicked him out.
+
+“Yes, Esteemed One,” the Grand General says while bowing again. “I will have it prepared immediately.”
+
+I frown at him and state, “I said I don’t want one. Could you make it so no one hosts any sort of events for me while I’m here?”
+
+I’ve been forced into way too many social events over the years.
+
+Especially in recent years.
+
+Before the war, that is.
+
+Because everyone is obsessed with the idea of building closer ties to me. So whenever I arrive on worlds the leaders of the world always try to host parties, balls, banquets, and so on for me.
+
+Just to celebrate my arrival.
+
+Which is annoying.
+
+And to make matters worse, the last place I’d ever want to be is at a banquet full of starving people. Since that’s what it’ll be in the Dread Empire.
+
+Anyway, the Grand General looks shocked again. Like I’m shattering his entire image of the world or something.
+
+I watch his shock for a few seconds before realizing something.
+
+This guy’s reactions are actually kind of amusing.
+
+After he recovers again, he says, “As you wish, Esteemed One.”
+
+Then he tries to ask me if I have any goal for my visit. And when I tell him that I’m just looking around for a bit before leaving, he looks even more shocked.
+
+I feel the corner of my lips twitching slightly in amusement at the ease in which this guy gets shocked.
+
+It’s honestly hilarious.
+
+Maybe I should mess with him more while I’m here.

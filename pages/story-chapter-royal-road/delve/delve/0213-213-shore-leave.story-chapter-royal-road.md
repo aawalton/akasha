@@ -1,0 +1,283 @@
+---
+id: 2d218265-7baa-584a-835c-6a003a95f87a
+page-type-slug: story-chapter-royal-road
+title: "213: Shore Leave"
+slug: 0213-213-shore-leave
+partOf: delve
+position: 213
+ownLength: 3880
+unit: words
+publishedAt: 2022-11-27
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1049900/213-shore-leave"
+royalRoadId: "1049900"
+---
+
+“Vanna!” Mlem cried.
+
+Vanna waved, having already been tracking his progress down the pier. The flamboyant merchant was hard to miss, generally, but the long line of barrel-toting laborers trailing in his wake made it impossible. “What did you find?” she called.
+
+“Sawdust!” Mlem cried back, his tone pleased. “All we could ever want, and practically for free! Just had to pay for it to be carried.”
+
+“Good work!” Vanna cried back, wondering where he’d found so many willing laborers this late in the day. Straightening from the rail, she pointed toward the bow. “Just stack it there! I’ll tell Staavo he can—”
+
+A heavy whump of displaced air was all the warning she had before a shadow passed overhead. Whirling, she reached for her sword, only to release it hurriedly as she recognized the winged figure that was in the process of landing behind her. A sword wasn’t going to help.
+
+“I told you not to cause trouble,” Birdman said, crossing his arms.
+
+“To what trouble do you refer?” Vanna asked, trying to sound calm through her shock. “I assure you that if one of our people—”
+
+“Not one of your people,” Birdman interrupted. “All of your people. Not only are they spreading the same rumors they did in Barstone, I am now to learn that Warden Vatreece is responsible for the Citizens’ disappearance. You knew this when we spoke, and yet you did not think to mention it?”
+
+“I wasn’t about to reveal sensitive DKE intelligence to someone who didn’t even introduce himself,” Vanna said before she could think better of it. Immediately, she froze, discovering a set of shiny black talons curled around her throat with their points lightly tickling the back of her neck.
+
+She hadn’t even seen him move.
+
+“You dare throw my words back at me?” Birdman asked, his voice colder than the ice around them. “Do not mistake your situation. You have no charter, no standing, and no hope against me should I decide to take offense.”
+
+A shout rose from the team on watch as they rushed toward her. Quickly, she raised a hand to motion them away, otherwise remaining very, very still. She swallowed heavily. “I apologize, Lord Matagar. I did not intend to deceive you. I guarded my words then, not knowing who you were, as I should have just now. You have my honest apology.”
+
+Birdman’s eyes narrowed. “Tell me exactly what happened to my brother. No jokes.”
+
+“Release me, and I will do so,” Vanna said. Where is Ameliah?
+
+The talons withdrew, but the threat hardly seemed diminished. Vanna rubbed at her neck, then gestured toward the stern. “We can speak privately on the sterncastle, away from—“
+
+“We can speak here,” Matagar said, not moving an inch.
+
+Vanna nodded, then spoke. She began with Barstone’s boarding of Temerity, running quickly through the events as they’d happened. Besides omitting Velika, she stuck to the facts, answering the few questions Matagar asked before moving on to describe the Empire’s attack on Three Cliffs. When she mentioned Halgrave, his eyes went wide and a note of caution entered his bearing, granting her a tiny measure of relief.
+
+By the time she finished, Lord Matagar’s hostility was gone, only a troubled frown remaining on his face. Not speaking, he shook out his wings, and Vanna took a step back, assuming that he was about to take off. He merely folded them around his shoulders, however, wrapping himself in a feathery cloak. He looked down at his taloned feet, his lips pursed in thought.
+
+In the momentary reprieve, Vanna took the opportunity to look around. Mlem was still perched halfway up the gangway, the laborers having left their burdens and retreated to a safe distance. Ameliah was there too, she realized, having arrived silently without her noticing. She was standing on the end of the pier, directly out of Birdman’s eye line, with her bow raised and an arrow nocked.
+
+Vanna quickly returned her gaze to Matagar. The last thing she needed was for him to turn to see that. Just in time, too, for he looked up not a heartbeat later.
+
+“I am taking this ship,” he declared flatly, fixing her with his hawkish stare. “You and your people will submit to all requests from the constables I will send to—”
+
+“No,” Vanna interrupted, half-convinced that it would get her killed.
+
+“Excuse me?” Birdman said.
+
+Vanna shook her head. “As we told Citizen Barstone, the treaty—“
+
+“Do not speak to me of the treaty,” Lord Matagar snapped, drawing himself up straighter and hugging his wings still tighter about his shoulders. “My brother is missing! The Empire is creeping closer with no sign that the Warden has done anything with the power she has stolen! YOU will do what I say! This ship and its secrets could mean the difference between—“ He cut off, his predator’s eyes fixed on something over her shoulder.
+
+Vanna turned.
+
+Halgrave’s footsteps were oddly silent as he walked toward them, his enormous crystalline hammer resting casually across his armored shoulders. He was wearing his helmet, but the faceplate wasn’t closed like Rain’s. It did nothing to hide his scowl.
+
+“Greetings, Lord Golem,” Lord Matagar said, stepping past Vanna and tucking his wings behind his back. Vanna caught a momentary glimpse of the slits sewn into his tunic before his feathers got in the way. “I am Lord Kenth Matagar, brother to Citizen Eastspar and the acting ruler of this city in his stead. Forgive me, for I only just learned you were a passenger, else I would have already paid my respects. My apologies if our discussion disturbed you.”
+
+“You aren’t taking this ship,” Halgrave said bluntly.
+
+Yes!
+
+There was a pause, but Matagar rallied. “Respectfully, Lord Golem, this is not Guild business. If our seizure of this vessel inconveniences you, we would be pleased to provide you with alternate transport.”
+
+“This is Guild business,” Halgrave said flatly. “The captain is a Guilder. That should be enough.”
+
+Matagar shook his head obstinately, but his tone remained polite. “Again, you must forgive me, but the captain is merely a silverplate. As an agent of the DKE, I hold the greater authority. For a neutral party such as yourself to request arbitration, they must first—“
+
+“Hold that thought,” Halgrave interrupted. “I didn’t actually come up here for you.” He turned to Vanna, then offered her the hand not occupied with his hammer, which she only now noticed held a sheet of paper. “Here.”
+
+“What’s—?” Vanna gasped, almost dropping the page as she took it.
+
+“Do I pass?” Halgrave asked. “May I join Ascension?”
+
+“YES!” Vanna shouted, not even bothering to check his score. “Yes, of course!”
+
+“There,” Halgrave said, turning to face Lord Matagar once more. “You were saying something about a neutral party?”
+
+“I...” Birdman said, fluttering his wings slightly, then looking away. “I must discuss this with my peers. For now...I recognize that Ascension is under your protection. I retract my demands.”
+
+“Good,” Halgrave said, making a shooing gesture. “Off you flap.”
+
+Lord Matagar looked like he wanted to take offense, but he clearly thought better of it, spreading his wings wide for takeoff.
+
+“Wait,” Vanna said, surprising herself as she reached out to grab his scaly forearm.
+
+Birdman froze in evident shock, his wings poised and ready as he looked down at her hand.
+
+“We are not your enemies,” Vanna said. “Deal with us in good faith, and we will do the same. We are allies against the Empire.” She released him. “That’s all I wanted to say.”
+
+After a moment, Matagar nodded, then brought his wings down, shooting into the sky with barely a breeze, proving that his previous thunderous departure had been one-hundred-percent deliberate. As he disappeared into the evening sky, Mlem hurried up the gangway. Ameliah didn’t bother with it, instead dismissing her bow and jumping the gap.
+
+“Well, that was something,” Mlem said, clapping Vanna on the shoulder. “Good work, Commander! You handled that exceptionally! I could never have remained calm with claws wrapped around my neck.”
+
+Vanna looked down at the crumpled paper still clutched in her hand, realizing that her fingers had begun shaking. It only worsened as she looked up at Halgrave and the reality of how things might have ended hit home.
+
+If he hadn’t stepped in...
+
+Halgrave met her stare coolly. “Is there something in my teeth?”
+
+Gently, Ameliah took the page from Vanna’s fingers. “You really mean this, right?” she asked, waving the paper as she wrapped her other arm around Vanna’s shoulders. “You’ll be an aspirant, like anyone else. That means taking orders.” She gave Vanna a friendly squeeze. “Orders from Vanna. Orders from me. Orders from your daughter. You’re okay with that?”
+
+Halgrave nodded, his face serious. “I am.”
+
+“Why?” was all Vanna could ask, grateful for Ameliah’s support—support she was ashamed to say she needed.
+
+Halgrave grunted. “The Warden showed me something.”
+
+“Oh?” Mlem asked, stroking his mustache. “And what was that, exactly? News of your ex, perhaps?”
+
+“No,” Halgrave said, shaking his head. He closed his eyes and sighed. “She showed me myself.” He turned, speaking as he walked away. “In my daughter’s eyes.”
+
+“An’ so then I said, if ye like me beard, wait till ye see me beaver!” Carten shouted, slapping the table as Evonna howled with laughter.
+
+Jamus smiled politely, catching Meloni’s eye and sharing an eye roll as he took a sip of his cider. Fortunately, Carten’s noise was easily lost beneath that of the crowd packing the Kilmen Brewhouse. The place catered predominantly to adventurers, it turned out, and theirs was hardly the only table making a ruckus.
+
+“Oh, I loved tha’ hat,” Carten said, wiping away a tear as he reached for his flagon of adventurer’s brew. “Shame I lost it ta’ the Facestabber.” Taking a long pull, he slammed the empty flagon down and belched.
+
+“That was your own fault for taunting it,” Jamus said, waving a hand to ward away the fumes.
+
+Meloni wrinkled her nose, but Evonna only laughed, then pounded her chest, releasing a smaller and distinctly non-ladylike burp. “Damn,” she said, reaching for her own flagon of brew. “Let me try again.”
+
+“Nope!” Carten said, catching her hand before she could raise the potent drink to her lips. “No second chances! It’s my win!”
+
+“Since when is that the rule?” Evonna protested, the wooden table creaking as the Defenders struggled against each other, though the smiles on each of their faces told a less adversarial story.
+
+Smiling, Jamus reached across the table and found his wife’s hand. “They’re perfect for each other, aren’t they?”
+
+“Just like us,” Meloni said, squeezing back.
+
+It was Evonna’s turn to roll her eyes, even going as far as to make a retching noise.
+
+“Carty!” a voice screamed over the ruckus, and Carten jumped like a tail-stepped cat.
+
+“I know that voice,” Jamus said, sitting up sharply. He scanned the room in the direction of the front door, finding an enormous woman rapidly limping toward them, grinning ear to ear. It was impossible not to recognize her.
+
+“Auntie Mazel!?” Carten bellowed, knocking his flagon over in his haste to get to his feet. He spread his arms wide, meeting his onrushing aunt in a crushing hug. Jamus was reminded of two bears fighting for dominance.
+
+“Didn’t believe my ears when I heard Ascension was here!” Mazel boomed, laughing and slapping Carten’s back. She pushed him away after a moment, though, turning and waving a hand above the crowd. “Oi, Carnilla! Over ‘ere! I found ‘em!”
+
+Another woman shouldered her way into view, perhaps not as tall as Mazel, but close. Despite her age, she cut an imposing figure, wearing boiled leather with a round shield on her back and a short sword at her hip.
+
+“Oi,” Carten gasped, stricken nearly breathless. “Mum?!”
+
+Fechton stood in front of the gangway, staring down at the pier. The sun was low in the sky, and it was quiet on the ship, with most of Ascension ashore other than those who’d been selected for guard duty and those, like him, who found the city...
+
+“Really something, isn’t it?” a voice said, and Fechton jumped. He turned to see the Osaran Light Mage staring at him.
+
+“I’ve never been to a place like this myself,” Val said easily, stepping up to stand beside him. He swept an arm across to encompass the waterfront. “I went to Ellis once—Ellis the city, not our Ellis—and it was the biggest place I’d ever seen. This makes it look small. What do so many people even do?” He tilted his head. “I suppose you would know, being from the City of Lights.”
+
+“I...yes,” Fechton said, shifting slightly away.
+
+“I can’t even imagine that place,” Val said, turning to look at him. “Or ever leaving it. Say, does the dark bother you, being raised in a place like that?”
+
+“I...”
+
+“No, I suppose not,” Val said, smiling and summoning a Lunar Orb. “You’re like me, so you can have light whenever you want.” Val smiled, the Lunar Orb playing around his hands. “So if it’s not the size of the city that’s got you standing here, blocking the ramp, and it’s not the dark, what is it?”
+
+“Apologies, I will move,” Fechton said, trying to step away, but Val caught him by the shoulder.
+
+“No, no, I’m not asking you to move, Shu. I’m not even so sure I want to go to the city myself at this point. Everyone fun left without me.”
+
+“Ah,” Fechton said awkwardly.
+
+Val shrugged. “If you want to go and are up for a little company, I wouldn’t mind buying Ascension’s newest member a drink. I feel like I hardly know you at all. Us exiles have to stick together, right?”
+
+“Exiles?” Fechton stammered, fighting off a flash of panic before recalling that his cover story painted him as a disgraced Illuminator.
+
+He doesn’t know. He can’t.
+
+“Well, sure,” Val said, clapping him on the back. “I was born in Aduara.”
+
+Fechton choked, then began to cough.
+
+“Oh?” Val said, smiling. “You’ve heard of it? How...unexpected.”
+
+Not just his ancestors, but...? He felt like he’d been kicked. “You are from...the Empire?” he managed.
+
+Val shrugged, then wiggled a hand. “Eh, if you call the eastern province in those days ‘the Empire,’ sure. Fifteen years past, the heart of Osar beat weakly still. Not so much now, I expect. After Fecht brought his ‘order’ to the province, there wasn’t much to hold me there. Some servants got me out. I became just one more pathetic refugee of many. I made my way to the northern border, then slipped across in the night.”
+
+Fechton somehow felt himself growing even paler. “Who were you in Aduara?”
+
+“I was a kid,” Val said with a laugh. “My father, though...” His voice became distant. “He doesn’t go by his real name these days, but I expect you know of him all the same. Not many famous Osaran Light Mages running around.”
+
+“Lightbreaker,” Fechton whispered, feeling behind himself for support.
+
+Val nodded, his face twisted by a sad smile, made all the more tragic by the teardrop scars on his cheek. “Hard to believe, isn’t it?” He stepped up onto the gangway, then sighed as he surveyed the city. After a long moment, he looked over his shoulder and beckoned with a jerk of his head. “Come on, then. I need that drink for sure now. You look like you need several.”
+
+Ice Bolt
+
+Where normally Staavo would have focused on casting the spell as cleanly and efficiently as possible, he did the opposite this time, encouraging the magic to destabilize under the influence of the metal tray that was his target. The saltwater and sawdust mixture filling it rippled, buffeted by the dissolving magic, but most of it froze before it could slop over the tray’s lip.
+
+Ice Bolt
+
+Blasting the tray again to ensure it was well and truly frozen, Staavo turned it over and dumped the sheet of ice out on the workbench with a clatter. Shoving it aside, he slid the next tray into position, this one’s mixture holding even less sawdust than the last, only one part in seven. Rain said that was the ratio used in his world, but to Staavo, it seemed much too low.
+
+Ice Bolt
+
+The tray rocked and freezing water splashed everywhere, the magic perhaps not as detuned as he’d intended.
+
+It was irritating.
+
+Rain was irritating.
+
+Sure, the man was wrong sometimes, but more often than not, the things he simply knew made a lifetime of trying to understand the world seem irrelevant. If the hybrid material was as strong as he said it would be, they’d be able to thin Temerity’s shell and enlarge the interior volume of its superstructure. It was supposed to melt slower too. It would be an unmitigated win, but all the same...
+
+Light bulbs are one thing, but this is just pulpy water! I could have thought of that! So could anyone!
+
+“Hmm, so this is what the trays were for,” a deep voice rumbled in Staavo’s ear with no warning.
+
+“Gah!” Staavo shouted, scrunching up his shoulders before angrily rounding on his attacker. “That’s it, come here, you! I’m getting the bells!”
+
+Rain didn’t speak as he left the Bank, turning slightly as Detection informed him of Tarny waiting for him on a bench across the square. Atyl and Nails followed him, the latter probably busy Messaging the ship now that they were free from the wards.
+
+“Rain,” Tarny said, rising in greeting as they approached. “How did it go?”
+
+“Not well,” Rain said, noting that a bronze Guildplate now dangled from Tarny’s neck. “He deliberately kept us waiting for two hours while he spied on us, then made an offer so ridiculous I can’t imagine what he was thinking. I shot him down, gave him our terms, and walked out. If he’s actually willing to meet us in the middle, he’ll reach out. If he doesn’t, we can always cut a deal with one of his competitors at the next city.”
+
+Rain had no real intention of doing that, but Luna, doubtless listening through some means or another, didn’t need to know that. Fear of his competitors might drive the greedy Banker to come up with a reasonable, mutually beneficial offer. Rain wasn’t going to hold his breath. He certainly wasn’t going to sit there and dicker with some fat cat when he had literally anything else to be doing.
+
+“I see,” Tarny said. “Well, it is not as if we aim to become merchants. As long as we are not impeded, I suppose it hardly matters.”
+
+“Mmm,” Rain said. “What are you doing here alone, anyway? Is there news? Trouble?”
+
+“Not so much,” Tarny said with a shrug. “Vanna and Ameliah had things under control, so I left to check out the Guild.” He gestured to the plate around his neck, then reached into a pocket. “Joined so they’d let me take this.” He held out a neatly folded sheet of paper. “Here. It’s perfect for you.”
+
+“A quest?” Rain asked, noting the ‘execution’ category symbol at the top, then reading the title. “Stop the Stench?”
+
+“Perfect, like I said,” Tarny said with a smile. “Apparently, a Dunch moved into the Soggy Bottom midden a month ago. Everyone wants it gone, but nobody’s willing to deal with it.”
+
+“I can’t imagine why,” Rain said, noting the ten-Tel reward, which certainly wasn’t helping matters. He grinned. “Fortunately for them, I’d do this for free.” He turned his head, weighing the benefits of trying to keep Nails’s abilities under wraps and deciding it wasn’t worth it. “Nails? Anything from the ship? Trouble? Drama?”
+
+Nails nodded. “You could say that. Birdman showed up. He was upset about what the Warden did to the Citizens, more so that we knew about it and didn’t tell him. Things got tense. Halgrave intervened. He joined, Rain.”
+
+“Come again?” Rain asked as Tarny choked, Atyl moving quickly to slap him on the back.
+
+“Halgrave joined Ascension,” Nails repeated.
+
+“Seriously?” Tarny managed, recovering. “That’s...unexpected.”
+
+“That’s great news!” Rain said, the gears of his mind whirring back into motion. “Something must have changed his mind. Maybe Mahria got through to him?”
+
+Nails shrugged. “Want me to ask?”
+
+“No, no,” Rain said. “I’ll talk to him when I get back. I meant to explore the city and check on people once I was done here, and this quest is a good excuse to get started. Unless they need me for something, of course. Nails?”
+
+Nails went silent for a moment, then shook his head. “Ameliah says to have fun.”
+
+“I guess I have my orders then,” Rain said, unable to contain his grin.
+
+This was a huge win. Halgrave wasn’t just strong; he also had clout. With him formally on their side, people like Luna would think twice before starting anything.
+
+Tucking the quest posting into a pocket of his cloak, he threw the garment back to hang like a cape, bridging his fingers and stretching his arms over his head. “Okay, I’m off. Nails, with me, please, in case anything comes up. Oh, and Message Staavo. Ask him if he has any interest in revenge.” He let his arms fall and rolled his shoulders as he looked around. “Right. Who else wants to visit the Dunch?”
+
+Tarny and Atyl looked at each other.
+
+“Pass,” they said as one.
+
+“MAGIC RESISTANT, MY ASS!” Rain yelled, ripping a rubbery chunk out of the fleshy, duck-footed tentacle wrapped around him. The pitter-patter slapping of hundreds of tiny webbed feet was drowned out by an ululating bleat of pain from one of the creature’s misshapen heads. It released him by way of hurling him through a dilapidated building.
+
+Splintered wood flew as Rain shot back to his feet, snarling as he snatched up a broken board. A torrent of black sludge spewed from the Dunch’s gaping orifice, but it evaporated before a focused blast of Purify. Rain charged, fruitlessly trying one damaging aura after another. “NOBODY TOLD ME IT WAS FUCKING IMMUNE! ON WHAT PLANET IS THIS LEVEL FIVE?!”
+
+Abandoning his spells, he plunged the jagged board into the creature’s cheese-like flesh, then twisted, ripping it free and releasing a spray of yellowish pus. The Dunch’s health bar barely moved. It snapped at him with its beak, trying to take his arm off at the elbow, but his armor put a stop to that, the creature’s chitin screeching harmlessly against the metal. It didn’t let go once it had him, though, and its fleshy tentacle was already tightening back around his waist, the duck feet it had in place of suckers fluttering uselessly away.
+
+Throwing aside his makeshift weapon, Rain began hammering at the beak with his free hand.
+
+To hell with this! Velocity!
+
+His next strike landed with such force that he found his arm driven to the shoulder into the creature’s pulsating, spongy bulk. The explosion of gore was thick enough to make it past Purify, diluted as the spell was in his Ward rotation. The real damage, though, came from the smell.
+
+Rain ripped his arm free, gagging in horror as Purify struggled to catch up. “BLEURGH!”

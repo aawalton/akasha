@@ -1,0 +1,265 @@
+---
+id: 51412bb8-a569-5b44-8d56-8be237ae390f
+page-type-slug: story-chapter-royal-road
+title: "229: Breakaway"
+slug: 0229-229-breakaway
+partOf: delve
+position: 229
+ownLength: 3775
+unit: words
+publishedAt: 2023-04-30
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1197396/229-breakaway"
+royalRoadId: "1197396"
+---
+
+“We have to, Nena,” Asten said, crumpling his hat in his hands as he hovered in the doorway. Glory to El, the rain had finally begun to ebb. Only a spare drizzle was falling now on the eroded landscape. Where once there had been grass, there was now only mud and bare stone where the fury of the deluge had washed even the mud away. Even if the waters never returned, their farm was ruined. There was no future for them here. Those that had gone ahead to speak with the Citizen had not returned. No help was coming.
+
+Asten looked over his shoulder. “Come on. We’ll start with Jen’s place and move on from there.”
+
+“What about her, though?” Nena asked.
+
+Asten shifted his gaze from his wife to the woman sitting near the coals in their fireplace. “Anya?” he asked, making her look at him.
+
+“Yes?” Anya asked. The name was something they’d given her, taken from the sounds she’d been making in her first childlike efforts to speak. She was wearing a set of Nena’s old clothes in place of her ruined armor. The blouse was baggy on her, and while she didn’t look quite so skeletal now that she was cleaned up and dry, whatever had happened to her had exacted a toll that couldn’t be repaid with a few days of sleep and a handful of hot meals. Asten didn’t want to know what she’d do when they ran out of food to give her. What she’d do when he was finally forced to say ‘no.’
+
+Cramming his hat onto his head, he shoved all of that aside. “Anya, we’re going to gather everyone to talk about an evacuation.” He paused, then forced himself to continue. “Do you want to come with us, or do you want to stay here?”
+
+Trying to trick her would be a bad, BAD idea.
+
+“Yes?” Anya replied, tilting her head.
+
+“Stop using such long sentences when you talk to her,” Nena said, making Anya’s head swivel back to her. “She’s not going to understand. Besides, are you sure taking her’s wise? What if she gets upset? It might be better to leave her here where it’s warm and dry.”
+
+“She won’t hurt anyone,” Asten replied, feeling Anya’s piercing green stare as her head again turned to follow the conversation. He swallowed heavily before he continued. “She understands. She knows we helped her, and even if she can’t follow everything we’re saying yet, she’s learning fast.” Scarily fast.
+
+“Yes, I learn fast,” Anya agreed, smiling. “I smart and fast and nice and strong. Hurting not nice.”
+
+“Maybe she’s remembering?” Nena said, kneeling down and taking the adventurer’s hands. “Anya, are you remembering? You remember ‘remembering’? Things from before the barn? Things like words? Are you remembering words? How to talk?”
+
+“No,” Anya said, shaking her head firmly. “I not remember. I learn now first time.”
+
+“Well, there you have it,” Asten said, uncomfortable with Nena’s position. “Anya, just to be sure, I’ll ask again. We,”—he pointed between himself and his wife—“are going out.” He pointed out the open door. Keeping up the charades, he continued. “Do you want to come out with us, or do you want to stay here? You can do what you want. You can decide. Do you understand?”
+
+“I understand,” Anya said, pulling out of Nena’s grip. “You go.“ She pointed at him, then at Nena, then at the door. She pointed at herself next, then at the door again. “I go with.”
+
+“Okay, th—“ Asten started.
+
+With no warning, Anya casually floated to her feet. She turned to Nena, who’d recoiled at the magic, then extended a hand. Mercifully, nothing more happened until Nena tentatively reached out to take it. Asten watched anxiously, trying not to think about the tale of Clumsy Nik—of fingers being crushed and arms being torn from sockets.
+
+“We go now?” Anya asked, releasing Nena’s hand unharmed once she was standing. The adventurer walked over to Asten to peer over his shoulder, then crinkled up her nose. “Wet. No want wet.”
+
+“I can find you a...hat...” Asten trailed off, stepping out of the way and watching in awe as the drizzle parted like a pair of curtains.
+
+“I help,” Anya said, stepping outside and smiling up at the invisible panel diverting the rain away from her. “No wet,” she said in satisfaction, then stopped and looked back at them. “We go?”
+
+In the dead of night, Niri stood at Temerity’s stern railing, holding her hands together in front of her face as if to warm them with her breath. The real purpose of her posture, though, centered on the glowing stone nestled in her palms.
+
+“Any change to their planned course?” the stone asked.
+
+“No,” Niri said. “They’re still going to cut north. Not tonight, but tomorrow afternoon, probably. They’re playing it safe. Well, safe-ish. They’re still sailing at night right now.”
+
+“Hmm,” the stone said. “At their current speed, a cut tomorrow afternoon should not be too dangerous. Good. It would be difficult to recover the prize from the bottom of the ocean. And what of the other matter that I asked you to look into?”
+
+“Sorry, I don’t have anything,” Niri whispered softly. “I haven’t been able to slip inside. It’s always guarded.”
+
+“Find a way,” replied the stone. “I must know how the generator works. Without it, the bulbs are merely a curiosity.”
+
+“What about the batteries?” Niri asked. “You have one of those. Isn’t that enough?”
+
+“It is never enough,” the stone replied. “Agent, if you fail, you will never repay your debt to me. I expect better, especially after your success befriending the renegade.”
+
+“That wasn’t...the same.” Niri shook her head, not about to tell him that the encounter with Velika had been entirely unplanned.
+
+She glanced over her shoulder to check the position of the other Aspirants on watch. The half moon had set an hour ago, but the deck was nevertheless bathed in light. It was clear why Luna wanted the secret of the generator. She just didn’t think she’d be able to get it for him. Not soon, anyway.
+
+She looked back over the railing, biting her lip. “If they catch me, they’ll—“
+
+She stopped herself. She actually didn’t know what they’d do. The captain seemed kind, but she’d never spoken to him. He seldom showed himself, and the rumors...
+
+They call him Death Zone. If he thinks I’m a danger to his utopia, he’ll do to me what he did to those Adamants...
+
+“They’ll what, Agent?” asked the stone, the voice sounding stretched and thin. “Are you st—there?”
+
+“I’m here,” Niri whispered, fighting off a shiver. “The connection’s about to drop. What are my orders?”
+
+“Continue your—tempt—o access the lower levels. We will conta—o—n—range of Freetown. Do not make me remind—of your debt.”
+
+“Like I need the reminder.”
+
+“Sass is unbecoming, Agent. Do not mis——r place in this organization.”
+
+“So...ry, con...ect...ion...fa...KSSSSSSSS....”
+
+Unpuckering her lips, Niri stopped hissing into the Speaking Stone as its glow faded. Once it again seemed to be no more than a smooth river rock, she tucked it back into her pocket, hiding the motion by pretending to adjust her belt. She couldn’t risk recharging it right now. It was bad enough she was forced to use it in the open, but without a private room on the overcrowded ship, her options were limited.
+
+“Cold night,” a man’s voice said, and Niri just about fell overboard as her bones attempted to escape their fleshy imprisonment.
+
+She turned and saw Lightbreaker’s son staring at her.
+
+“I—“ She pressed a hand to her chest, adopting an expression of outrage to cover her horror. “Don’t do that!” she demanded. “Where the hells did you come from?”
+
+How much did he hear!?
+
+“Where did I come from, huh?” Val asked with a grin. “Actually, I’ve been here the whole time.” He raised a hand, palm up, then made a beckoning motion. “Give it over. I like how you broke the connection, by the way. Very amusing.”
+
+“I don’t know what you’re talking about,” Niri managed, taking a step back as she searched frantically for a way out. All she found was the cold railing behind her. “I was just warming my hands,” she tried, but the desperate lie rang hollow in her ears.
+
+Fighting wasn’t an option, even with the well-crafted sword they’d given her after she’d demonstrated her ‘skill’. Maybe, MAYBE, she could overcome Val if she attacked without warning and he wasn’t covered by the captain’s Wards. A fine blade, though, would not be enough. Unenchanted, it would break from her magic before she broke through even the feeblest barrier. And it wasn’t just Val she’d need to get through.
+
+Swallowing heavily, she looked over her shoulder at the dark waves.
+
+“You seriously aren’t considering that, are you?” Val said, his tone becoming serious. “We didn’t take you for a fanatic.”
+
+“I’m...not,” Niri said, looking back at him.
+
+“Then give me the Speaking Stone,” he said, beckoning again. “You don’t need it anymore. You’ve already told them everything we needed you to.”
+
+Realization fell on her like a pile of bricks.
+
+Gods! How long have they known?
+
+“Since the day you joined,” Val said, guessing her thoughts and confirming her worst fears. “You didn’t fool Sana,” he continued. “You did better with Samson, but he still saw through you. He could tell you were holding back, but only because he was looking for it. By our guess, you’re probably around level ten, not level three.”
+
+“But—“ Niri cut off the words. Sana was level two from the briefing President Luna had prepared for her. She’d lied to higher-leveled Watch officers before, and they’d been none the wiser. As an Agent, she’d been trained specifically to be able to do so.
+
+“But what?” Val asked.
+
+After a moment, Niri released a defeated sigh and reached into a pocket. Protesting the impossibility of a level two Reading a level thirteen wouldn’t do anything but make her look more of a fool.
+
+Maybe Luna’s information was wrong?
+
+“Thanks,” Val said cheerily, plucking the Speaking Stone from her palm when she offered it to him. He tossed it in the air a few times before winding up and whipping it over the side.
+
+“Wait—“ Niri gasped, reaching for it far too late.
+
+“Romer would have loved to have a look, but it’s not worth the risk,” Val said, dusting his hands. “We don’t have a Diviner good enough to intercept a signal, but it’s not like you knew that. Regardless, Ameliah couldn’t see more than a flicker from it with Mana Sight, so we know it’s not just any old Speaking Stone. Who knows what other enchantments it has? Tracking? Anti-Divination? Hopefully not Skipping, or I’m about to be very wet.” He laughed.
+
+Niri grimaced, licking her lips before she spoke. “What are you going to do to me?”
+
+“Nothing,” Val said, sticking his hands in his pockets and turning away. He began walking toward the bridge.
+
+...What?
+
+“Rain says you’re still an Aspirant if you want to be,” he continued without looking back. “It’s still your watch. We’re going to do a maneuver soon, so don’t be worried when the lights go out. Don’t use any magic once the horn sounds. Not for any reason, got it? That includes monsters scratching at the hull.”
+
+What? Oh gods, they’re cutting NOW?! This ship’s fast, but—
+
+“Oh,” Val said suddenly, snapping his fingers and turning back to her. “The Entrusted already know about you, but Velika doesn’t. Rain says you should tell her yourself before she finds out. I hope for your sake that all the time you spent with her wasn’t just pretending. I know what I’d do if I were a recovering homicidal maniac and I found out that my first-ever friend was a Bank spy. I don’t think you’d like it.”
+
+Niri’s legs buckled. She fell to her knees, sure she was going to die.
+
+Rather than the expected thud, however, there was only a hollow pinging sound.
+
+She looked down, noticing the faint ripples of Force Ward. There was no pain.
+
+When she looked up again, Val was gone.
+
+And then, less than a second later, every light on the ship went out.
+
+[LÄMP!!!]
+
+[You can’t even SEE!] Rain protested, watching Dozer bounce excitedly by the forward windows.
+
+“Increasing starboard thrust,” Samson said, presently at the helm.
+
+[Starboard means right!!!] Dozer exclaimed, firing himself in that direction on his next bounce.
+
+[Very good, Dozer; now will you calm down, please?] Rain sent, watching Samson as he worked the levers. With the improved balance of the ship’s impellers and turbines, there was only a slight change in the vibration coming up through the floor. More noticeable was the sudden, smooth acceleration. The stars beyond the windows slowly began to wheel.
+
+“Starboard thrust seventy-five percent,” Samson said. “Turning to port and holding for bearing.”
+
+[Hold!!!] Dozer exclaimed, mid bounce, and when he landed, it was with a wet thump, as if someone had dropped a soggy medicine ball. Doing his best to remain rigid—his best not being very good—the slime began rolling stickily toward the corner.
+
+Rain smiled, amused despite himself, then turned to check on Shu. Their navigator had summoned a lens of hardened light between his palms. Compared to the red emergency lighting, the translucent white construct shone like the moon. He wasn’t sure how it helped the Star Guide track their position other than through magnification, though. He’d asked, but he hadn’t understood the answer.
+
+“Two in ten south of east,” Shu said, pivoting against the ship’s motion. “Three in ten.”
+
+Leaving Shu and Samson to it, Rain took a moment to check on the spy with Detection. Val was still with her—invisible again, in all likelihood. Satisfied, he expanded his search, locating everyone besides Emerton. He and Ameliah were scouting ahead, but unlike her, the Aeromancer wasn’t carrying a Detection anchor. Neither had reported any issues. In summary, everything was going according to plan, and it was making him nervous.
+
+“Equalizing port thrust,” Samson said. “Ahead seventy-five.”
+
+“Five in ten south of east,” Shu said. “On bearing.”
+
+“Still equalizing,” Samson called.
+
+“We are overshooting,” Shu said, still peering through his construct. “Six in ten south of east.”
+
+“Should I compensate?” Samson asked.
+
+“Don’t bother,” Vanna replied, monitoring the aux console. “A sharper path across the channel will only help us cross it faster.”
+
+“Agreed,” Rain said. “We’ll soften our angle on the south side. Full speed, please.”
+
+“Full speed,” Samson confirmed, pressing the drive levers all the way forward.
+
+Rain felt himself being pressed gently backward. The acceleration was only mild if you failed to consider the size of the vessel. Dozer was certainly impressed. He gave up his ball impression in favor of bouncing excitedly between the floor and the rear wall.
+
+[Tilt!!!]
+
+[That would depend on your reference frame,] Rain sent. He turned, then walked to the rear windows and looked down, seeing only blackness. The ship’s wash wasn’t visible, but he could hear its churning fury.
+
+Good thing we don’t need to worry about passive sonar.
+
+After the failure that had left them stranded midway between Ekrustia and Rellagia, Tallheart had tweaked the angle of the impeller blades in an attempt to eliminate the cavitation issues they’d had. With his help, Staavo had also re-engineered the condenser into something that would actually work under load. They were now running the turbines in a properly closed cycle, eliminating the plume of steam that had followed them previously. The real improvement, though, was something only a few were authorized to know. The leftover adamant from their trip into the depths was now hidden within key components of Temerity’s powertrain.
+
+It was a very Tallheart solution—the issue of precision and balance circumvented through excessive strength. That wasn’t to say Tallheart’s work wasn’t unbelievably precise, of course. It was just that he was working with a hammer, not a CNC mill.
+
+Soon enough, the acceleration leveled off, and Rain relaxed as it became clear that there wasn’t going to be another failure. [Fun’s over, Dozer.]
+
+[Clean instead?]
+
+[Nap instead,] Rain countered, much to the slime’s immediate and loud discontent. He suppressed a sigh, beginning a familiar mental battle as he relieved Vanna from the aux console. Once seated, he began a delicate dance with the boiler team, watching the dials carefully and gradually increasing output from his Immolate anchor so they’d have to draw less heat from the smelter. They’d need that heat later. Between that, pinging with Detection, and his continuing argument with his slimy charge, he found himself quite occupied.
+
+In what seemed like a blink of an eye, they were across. Samson slowed through another turn, then accelerated to maximum again, pointed straight eastward.
+
+“When do we cut, Shu?” Vanna asked.
+
+“It should be no more than a hand of minutes to the first ridge,” the navigator replied.
+
+“I still think it’s too risky to take that one,” Samson said. “I’d like a report from Engineering on the ship’s performance before we risk deep water.”
+
+“It’s already on its way,” Rain said, noting that Ellis’s signal was making its way rapidly toward them.
+
+“Hey!” Vanna shouted abruptly. “Dozer!? What are you doing?”
+
+“Just be glad I got him to stop jumping on people,” Rain said, looking up to see the slime milling around Vanna’s legs. “He’ll settle down if you pick him up. I can come get him if you don’t want to deal with it.”
+
+“Why do you have him out here, anyway?” Vanna asked, hoisting the grumpy slime into her arms.
+
+“Because there’s nothing left for him to do inside and he refuses to accept that answer,” Rain said.
+
+“Really?” Vanna asked, raising an eyebrow as she stroked Dozer’s membrane. She glanced significantly at Shu, who wasn’t authorized for anything soul related, then back to Rain.
+
+Rain nodded, not needing the reminder. “Really,” he said and left it at that.
+
+There was some chaos left, technically, but he was saving it in a special holding tank. It had its uses, notably for time acceleration. The coefficient had improved by leaps and bounds as he’d purified his soul, but whatever principle drove it—he hadn’t found a structure—needed chaos as fuel. Chaos specifically, as in completely raw and unrefined. It was incredibly odd and highly inconvenient, as it was proving difficult to acquire more.
+
+As much of a brat as Dozer was being, the system was being an even bigger one. It was happy to take his potential during essence exchange but was refusing to give him any fresh chaos in return. That had started not long after he’d made his first ‘ramscoop.’ The intake structures worked, pushing him over the amount of essence he was ‘supposed’ to have, but they were slow. Agonizingly slow. The system would up his allocation if he earned more experience, and indeed he’d returned to unlocking skill trees to do just that, but it wasn’t enough. Even if he dipped below his limit so the system would help him, it could only do so much. There just wasn’t much essence around for it to gather.
+
+I need to delve.
+
+Rain tightened his jaw. There was still plenty to do before he was truly stuck. Making more and better ramscoops, to start, as well as fixing the inner layer of his paling. The essence comprising it was rank-eighteen, taken from the soul of the Musk Wolf that had tried to snackify him what seemed a lifetime ago. He’d already started cleaning up the edges, but it was slow going. The system’s tendrils were threaded all through the barrier like fine wire. At the edge, they’d snapped and then snarled themselves into a hopeless mess. And that was just the inner layer. He was only up to rank-twenty essence, so the outer layer remained immutable, and if the trouble he’d had with the rank-five pattern was any indicator, the pattern for rank twenty-five was going to be hell.
+
+A wall indeed.
+
+The opening of a hatch precluded any further musing, and Rain looked over his shoulder to see Ellis enter. He nodded in greeting, then inclined his head toward Vanna before returning to the dials. Once Ellis finished his report, Vanna and Samson asked a few questions, then sent him back down to Tallheart and Staavo. Emerton checked in through the comms console not long after, which was staffed by Nails and had been this entire time. Nails then Messaged Ameliah, updating her on the ship’s status and getting her report in return.
+
+Things continued in this way for a little while, with reports coming in, orders going out, and Rain’s blood pressure steadily rising. There were no issues by the time Dozer fell asleep. No unexpected developments by the time Shu called out that it was time.
+
+Finally, Vanna had Nails call Ameliah and Emerton back, then directed Samson into starting the turn. Only then did Rain’s tension begin to drain away. The real pressure was now on, and he didn’t have the luxury of worry. Instead, he watched with growing focus as Samson worked the levers, finally leaving them at a mere quarter of their maximum throttle. The vibration of the ship faded, dropping to a low, barely perceptible thrum.
+
+“Five in ten south of east,” Shu said in a soft voice. “No overshoot. Well done on the helm.”
+
+“Yes, well done,” Vanna agreed. “Time for the signal.”
+
+“Signaling,” Samson said, immune to the praise. He sounded the ship’s horn, the escaping steam seeming almost insolent from the way it shattered the silence.
+
+As the echo of the blast faded, Rain canceled Immolate. He stopped Detection next, as well as all his Wards. He then disabled the macros responsible for periodically running his Purify and Essence Well anchors. Last, he came for Winter, shivering with the anti-chill of the magic’s departure.
+
+Shu’s lens winked out, and the Star Guide clasped his arms behind his back. Samson sighed, settling back into his chair. Vanna said nothing, for there was nothing more to say, her tension betrayed only by her soul and by how tightly she was hugging Dozer to her stomach. Nails, too, remained silent, surprising no one.
+
+It was time to go dark for real.
+
+Reaching out to the console, Rain flipped one final switch, killing the emergency lights and plunging the bridge into blackness. Beyond the windows, the galaxy twinkled like a tapestry above the yawning, fathomless ocean.
+
+Not even when he’d been alone in the infinity of the Void had he ever felt so small.

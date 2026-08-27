@@ -1,0 +1,119 @@
+---
+id: f3f64659-fba8-5752-aaf8-cc7f4333965a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,375 - Anima"
+slug: 0052-chapter-1375-anima
+partOf: defiance-of-the-fall
+position: 52
+ownLength: 2946
+unit: words
+publishedAt: 2025-11-09
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2746636/chapter-1375-anima"
+royalRoadId: "2746636"
+---
+
+Zac could absolutely see the merit in the Sangha targeting the Gardens and Hells, and it likely wasn’t without reason that the Lower Planes were already part of Buddhist tradition back on Earth. It was even a bit surprising that the Sangha hadn’t struck already, considering the Realmlords appeared to be weakened from the war following the System’s birth.
+
+If Zac had to guess, the Limitless Empire served as a powerful deterrent to this day. The flame of Imperial Faith had yet to go out, and the empire may have left terrifying weapons with the Realmlords in exchange for their assistance. Perhaps the Sangha simply didn’t want to get embroiled by the sin of the Limitless Empire. Either way, it made the monks adopt a soft approach, where the trial for the Fifth Pillar was a chance for them to weaken the Limitless Empire’s hold on the Lower Planes.
+
+If so, Zac had inadvertently taken a side by reconnecting Poised Meadow with his actions. He’d been knocked out by the Realmlord’s scream, but not before the sea of holy flames had incinerated most of the Sangha’s Karma. Zac’s current vantage was blocked by the expanding tsunami of anointed life, but he had a strong feeling that the trial’s—and thus the Empire’s—borders had been extended further into Poised Meadow.
+
+Zac didn’t love the idea of adding more fuel to his growing grudge with the monks, but he wouldn’t hesitate to keep going when the pay was this good. It wasn’t like the Sangha would leave him alone if he stayed his hands. They’d repeatedly targeted him, so throwing a wrench in their plans could even be seen as the cherry on top of his other gains.
+
+He’d earned as much Imperial Merit in a few hours as when toiling for a month in the Mercurial Court’s celebratory trials. And there was still the awakened native to turn in. Imperfect awakening or not, the spirit’s potential was extremely high. It hadn’t just stolen a piece of the teardrop’s spirituality, it had seized more than enough Imperial Faith to maintain a balance between the two sides.
+
+That wasn’t to say he’d become a supporter of the Limitless Empire. If anything, the trial had driven home what kind of madmen they were. The empire was clearly hoping to use the trial’s ritual for some form of resurgence, but the Multiverse was probably better off with them staying in the past. The storm they’d trigger would put everyone in danger, including Zac and his people. Then again, stepping out of the past was easier said than done. If nothing else, they’d have to deal with the gaggle of Supremacies waiting outside. Zac putting his thumb on the scale didn’t matter in the grand scheme of things.
+
+“The situation seems like a win-win to me. We mess with the baldies and gain a boost of contribution for every pathway we blow open. We’ll make a killing if there are two dozen similar opportunities on our way,” Ogras said, echoing Zac’s thoughts.
+
+“Not sure if I can survive two dozen of these encounters,” Zac said with a wry smile.
+
+“We’re only a few hours away from Kabaton. I bet you’ll perk right up after a good night’s rest and Hollow Court’s generous rewards,” Ogras said, throwing Zac a disdainful look. “And don’t think I can’t see that you’ve benefited just as much as that greedy spirit of yours. You’re radiating so much life that it’s blinding.”
+
+“Nothing special, just a small breakthrough,” Zac smiled, taking great comfort in seeing the demon’s face scrunch together with disgust.
+
+After confirming Ogras had the situation in hand, Zac sent an update to his other body before extending his perception into the spiritual links of Verun and Haro. He was immensely relieved to find them mostly fine after a thorough scan. Their auras were unstable from the sudden influx of energy and Poised Meadow’s influence, but their situation hadn’t reached the point of causing permanent damage.
+
+It would hopefully be a case of ‘what doesn’t kill you makes you stronger.’ Both spirits were very young and could use some additional tempering of their mental states.
+
+Zac noted there were some signs of battle inside Haro’s Worldring. He guessed some unlucky lifeforms had managed to take root within the vine’s sphere of influence only to be torn apart the moment they were born. Heavenrender Vines were notoriously territorial, and Zac wasn’t surprised to see his companion keep his backyard protected even during hibernation.
+
+Next, Zac turned his attention inward. Like Ogras said, he was absolutely filled with Divine Energy, and the golden radiance of his skin was only the start. The sheen was a reflection of a fundamental transformation, where his body’s spirituality had grown much denser. Zac was approaching a point where flesh wasn’t flesh as much as a pure expression of Dao. At that point, he’d be able to instantly restore his body so long as he had the energy for it.
+
+Thankfully, there were no traces of body parts awakening during his time unconscious. Zac knew he’d lost control at the end, but his breakthrough had overwhelmed and consumed any nascent souls appearing across his body. Zac could also feel he was mostly immune to Poised Meadow’s influence by now. It wasn’t thanks to shattering the Earthly Chain, which severed the hold of Life’s Authority on him. It was simply that the life of his body had advanced enough to gain a natural resistance.
+
+The rapid expansion of space in his cells had stopped after reaching nearly five times their original size. The hurricanes had grown until they continued to strain against the walls, and their improvement wasn’t limited to dimension. In fact, Zac wasn’t sure if it was accurate to call them hurricanes any longer. It was as though they had gone from a gaseous to a liquid state, making them resemble maelstroms more than hurricanes.
+
+The boost in energy density came with a drastic increase in Vigor and stockpiled Divine Energy—reserves that could be used to recover and regrow limbs without the regrettable cost of lifespan. In fact, the breakthrough seemed to have further added to his stockpile of lifeforce. It was hard to say for sure since he was so young, but Zac guessed he’d received a boost of at least 20% compared to a normal cultivator.
+
+Zac realized that in a few short weeks, he’d mostly recovered the lifeforce he’d spent over the past decades. He’d gained almost as much from his encounter with Mox. Her tainted longevity had briefly seeped into his body while his Specialty Core protected him from the fell Karma it held. It turned the backhanded gift into a pure boon.
+
+He’d still been lucky that the Margrave and the others came along when they did. That short brush with Mox’s sin had almost drained his Cosmic Core. Any longer, and he would have formed a Karmic Bond with Mox despite the protection of his Technocrat heritage—if he even survived the encounter.
+
+The gateways to his personal Void at the bottom of his cells remained inaccessible without agitating his Void Emperor bloodline to its limits. Likewise, the small, immovable suns left from the Stellar Wanderer hadn’t seen any particular change from his breakthrough. Altogether, everything went as forecasted, except for the surprising difficulty of breaking the Earthly Chains.
+
+It was an important lesson for the next stage, where Zac needed to shatter the Heavenly Chains. He still didn’t know exactly what that entailed, but he already knew picking the right location would play a critical role in whether it was success or failure. The obvious answer was hidden within [Fuxi Mountain Gate], except it lacked the necessary Divine Energy to fuel the breakthrough.
+
+Zac shook his head and tabled the matter, continuing his inspection. His constitution wasn’t the sole beneficiary today. [Void Emperor Apotheosis] provided a synergistic effect, one that evidently skyrocketed during a breakthrough. All aspects of his cultivation had noticeably advanced, with his Soul being the biggest winner.
+
+The Evolutionary Core and the golden nebula surrounding his Inexorable Core had seen a significant increase in accumulated energy, where Life easily outshone Death. The imbalance didn’t worry Zac too much. He had ample experience living with one side running ahead of the other, and there would be opportunities to align his Daos soon enough.
+
+At least Zac hoped that was the case. Most of the infused energy wasn’t properly integrated, and it would eventually dissipate if he didn’t properly fuse it with [Nine Reincarnations Manual]. Ideally, he’d stumble onto a source of Death-attuned energy suited for Soul Cultivation when passing through the Eight Hells. If his encounter in that realm was just half as rewarding as his dip in Poised Meadow, Zac figured he’d finally reach the limits of the fourth layer before arriving at the Hollow Courts.
+
+Finally, Zac opened his Status Screen. There were no new titles or levels, only the line confirming his achievement.
+
+[Life] Void Vajra Sublimation (Fifth Layer): Base Attributes +1,500. Vitality +15,000. Endurance +2,500. All Attributes +15%. Vitality +30%. Effect of Vitality +25%.
+
+Opposite to the boosts from his Earthly Daos, advancing to the next stage with his Body Tempering Manual provided a shocking amount of Attribute points. The base attributes near-quintupling was extraordinary on its own, and the Void Vajra Constitution’s fifth layer went even further by boosting all the percentage bonuses. It had gone from providing a negligible boost to near the level of an Early Earthly Dao.
+
+Any bump to the attribute pool was welcome, especially when it was focused on survivability. His defensive attributes had started falling behind the scaling of Strength as of late, though not to the point that it seemed worth putting his free attribute points into. Zac closed the status screen with satisfaction, but a sudden realization threw a pall over his mood.
+
+Zac’s gaze grew distant, as if he were trying to pierce Poised Meadow’s borders. He didn’t fear the Sangha’s retaliation, at least not while he stayed inside the trial. However, he hadn’t considered how his actions might affect those close to him. Catheya was headed for the Daedalian Court at this very moment, whose halo matched the ancient Karma to a suspicious degree.
+
+Zac shook his head, hoping he was thinking too much. If nothing else, Catheya knew how to take care of herself.
+
+--------------
+
+Darkness gave way to light, and the sentiments stalking the night flooded into Vilari’s heart. Her vision shifted, and she was once more sitting in a carriage traveling down a winding road. The drawn curtains let in the same soul-nourishing light as what would greet her upon waking up. The scene would be perfectly picturesque if not for the unidentified horror perched on the driver’s box.
+
+Careful not to make any big movements that might draw the coachman’s attention, Vilari peered out the window to engrave the landmarks in her memory. This time, they were moving through a populated region, and they weren’t the only travelers on the road. The wagon was passing a troupe resting by the wayside just as Vilari looked out. It wasn’t the first time she’d seen other people in the visions, but this group’s appearance gave Vilari a start.
+
+Why were there Buddhists walking the ancient roads of the Limitless Empire? Where did they come from, and why hadn’t they been rousted because of their heretical faith in a deity other than the Empire itself? Maybe they had. The group had clearly seen its fair share of suffering, sporting tattered robes and weathered skin. And yet, the light in their eyes shone brightly as they looked up at the passing wagon.
+
+The leader was an old monk of inscrutable depth. He glanced at the coachman, blocked from Vilari’s view, before turning to Vilari.
+
+“Amitabha, benefactor.”
+
+Vilari shuddered and quietly closed the curtains to block the outside world. She wasn’t just hiding from the monk’s incisive stare, which seemed to notice her and not the original traveler. There was also the terrifying entity to worry about. The being that had helped her along since the visions atop the gondola on the reflecting lake hadn’t harmed her or even acknowledged her existence, and Vilari wanted to keep it that way.
+
+Vilari also wasn’t sure if the entity was here for her or for the box sitting in her lap. She only knew that she didn’t dare to investigate its appearance. She didn’t so much as dare breathe too loudly for the next few minutes, silently observing the aura leaking from the box until the vision ended. Vilari released a turbid breath as she opened her eyes, relishing the comforting warmth coming from the cave entrance.
+
+Despite having experienced the absolute night surrounding Anima Court for weeks, she was far from accustomed to its suppression. She could see the merit in the teachings of the Ensolus Ruins training camp. Vilari never had the opportunity to meet Instructor Rava firsthand, but she’d heard all about it from Emily and Joanna.
+
+From Vilari’s understanding, the Undying Servant focused on hammering in the importance of balance. Even if you excelled in a specific area, it couldn’t be your sole fallback. If you insisted on such a narrow path, you would be helpless when you inevitably ran into something that could perfectly counter that skill. Anima Court’s night was such a counter for Mentalists.
+
+It suppressed the Soul before unsealing the emotions sealed in all sentient beings, creating a fae night where anything could happen. If you didn’t guard your heart well, you’d disappear with the spirits when the world woke up.
+
+“Thank you for your hard work,” Vilari said, waving at the set of statues surrounding her seat.
+
+The answer came in the form of a jumbled mix of emotions conveyed with enough force to knock most unconscious. The only common thread in the barrage was a sense of satiety after a feast. Vilari smiled as she collected the seven figurines. Chanting the mantra, the Seven Emotions returned to her Soul Aperture. They simultaneously formed an impenetrable wall while releasing a steady stream of purified Mental Energy wrought from pure emotion.
+
+Vilari spent the next twenty minutes stabilizing herself before emerging from her hideout. A vaguely familiar world waited outside, and she eventually pinpointed a landmark present in the vision. Seeing it allowed her to map out the next step on her journey, yet Vilari couldn’t help feeling disappointed at the slow progress in her dreams.
+
+She’d had hoped to get to the bottom of the mystery of the visions when collecting the final idol, only to be sorely disappointed. When the seven combined, she’d still found herself on the gondola, this time sailing in the opposite direction with a box in her lap. Since then, the visions had become a near-nightly occurrence. Naturally, the massive amount of Imperial Merit and forming a halo echoing her goal of fusing the idols into a mysterious tool called [Seven Downfalls] was a decent consolation prize.
+
+While Vilari never got to see the island, she had a decent idea of what it represented. It was the Mercurial Court, and the thing in her lap was the very item she’d come to collect. It was the [Pasho’Har Bell] that the Beseechment Pavilion brought away from the Mercurial Court in their ill-fated attempt to implore God’s salvation when the Dao collapsed.
+
+The ominous guide’s identity was less clear. The obvious answer was that it represented Jalach, who even now guided her journey during her final approach to the Anima Court. However, the primal fear the guide elicited differed from Jalach’s twisted mind, making Vilari wonder if it hinted at something else.
+
+The guide had shown her different vistas for reasons that eluded her, always from the vantage of one form of transportation or another. One time, she’d traveled aboard an airliner through a stormy mountain range. Out of better options, she’d studied the mysterious fluctuations coming from the bell to refine her cultivation method.
+
+The concepts held within were far beyond Vilari’s comprehension, but she figured that the snippets of enlightenment would accumulate over time. It was only when her dreams and surroundings when awake began to overlap that she found another purpose for the visions. The journey in her mind was guiding her toward the Anima Court through the unpredictable world of the Daynight Dreamer.
+
+It was still hard to believe the vast world outside her cave was actually the surface of a Soul Core, and a small corner at that. Vilari didn’t know what kind of being’s Soul Aperture had been turned into a hidden realm, but she doubted it was one of the empire’s own supremacies. Even in the memory domain, it emitted a sense of antiquity, and it felt decidedly foreign.
+
+Most likely, it was one of the earliest Innate Existences born from the Cosmos. It was also impossible to say whether the being was still alive, or if the aperture had been repurposed from its corpse. The Daynight Dreamer might have gone from one state of existence to another, like Alea Azh’Rezak did to accompany Zac.
+
+While curious, Vilari saw no reason to dwell on the matter. It was the same as the mysteries surrounding her dreams. Everything would be made clear when she reached the Anima Court. Until then, she only needed to focus on continuing to advance while staying alive.
+
+Vilari resumed her journey, only briefly stopping upon hearing the rustle in the leaves of a bronze-tinted tree. Why did they sound so much like the rings of a pewter staff? And why had a streak of uncomfortable Life appeared on the road?

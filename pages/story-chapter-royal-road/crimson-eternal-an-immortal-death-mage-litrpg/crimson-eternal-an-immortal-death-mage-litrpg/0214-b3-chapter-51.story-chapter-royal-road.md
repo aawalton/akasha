@@ -1,0 +1,161 @@
+---
+id: 2dbdf29b-e978-5030-836f-0418a10f7548
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 51"
+slug: 0214-b3-chapter-51
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 214
+ownLength: 1502
+unit: words
+ownProgress: 1502
+publishedAt: 2024-10-07
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1839171/b3-chapter-51"
+royalRoadId: "1839171"
+markedReadAt: "2026-06-29T19:13:00.561Z"
+---
+
+Aria
+
+I flinch the moment a bright green and purple light shines from my chest to completely fill everything around us, blinding me in the process. Then I feel like I hear some words that are shouted, albeit not clearly enough for me to understand them before they cut off mid-shout and the light fades again. Leaving me staring at the now-empty spots where Adrian, the emperor, and the empress were just standing.
+
+Huh. Guess that’s how the curse works.
+
+I can’t help but stare down at my chest where the light shined from while patting at it. But nothing feels odd about my chest at all, and I don’t sense anything either.
+
+So I just shrug it off and turn to look at War, who is currently opening a scarlet portal while climbing on top of his horse again.
+
+“Well it’s been fun seein ya, Little Death, but I’ve got a duel to go hunt down!” Lucius says while giving me a salute from his horse’s back. Meanwhile the horse itself surprises me by giving me a polite bow of its head, making me wonder if the thing is as sapient as a human or something. “See ya when I see ya! And make sure ya grow stronger before then!”
+
+Then his horse simply walks over towards the gate that I can’t see the other side through. But right when he’s about to pass through, he pauses and glances back at me, saying, “Oh, and we Horsemen are gonna be having a little meetup in a few centuries. If you’re interested.”
+
+And just like that, he passes through the gate, leaving behind a few last words that echo across the ledge of the Spire.
+
+“I’ll be contacting you when.”
+
+A warping sound comes from the gate the moment the scarlet vortex closes in on itself, following which a slightly awkward silence fills the clearing with the only sounds being that of the war going on below and the many guards still floating around the Spire. Most of whom quickly begin moving to the spaceship before entering it.
+
+Some stay behind though. Only for them to just vanish, with a black and crimson mist appearing in their place.
+
+My eyes narrow ever so slightly.
+
+Why do I feel like I just gained more bodyguards?
+
+I stare at the slowly fading black and crimson mist for a few seconds before sighing and glancing up at the now departing spaceship belonging to the Crimson Empire. And within seconds, everything returns to how it was before the Crimson Empire arrived.
+
+Which is still in the middle of a war, so not exactly peaceful.
+
+Asher meows from his place on the edge of the ledge.
+
+“You’re tellin’ me…” I mutter to the cat while walking over to the edge and leaning against the battlements, staring blankly down at the battles going on below. “This drama is why I wanted to avoid all this and just bury myself in my books.”
+
+Too bad drama doesn’t just let you run away.
+
+But whatever.
+
+They themselves said I didn’t have to forgive them or consider them family. That I didn’t have to do anything.
+
+So Imma just spend the next century doing whatever I feel like doing.
+
+It’s just who I am and how I do things.
+
+And nothing will change that.
+
+I give myself another nod before standing up straight, putting my hands on my waist, grinning, and opening up dozens upon dozens of rifts to the Plane of Death all across the ledge and the various ledges around this one. Letting Death Spirits of every type I can currently summon flood out of the things. Then they all proceed to charge into the Spire.
+
+And what I want to do right now is hunt.
+
+This world right now really is one of the best places for me to be, regardless of how sad that is. Considering all the death going on here.
+
+I’m just passively devouring the soul energy of millions of people, all of whom are dying in this war.
+
+Of course, I leave their soul cores alone so that they can be revived. Seeing as I have a limited number of soul cores I can have within me at a time.
+
+Even if they’re permanently dead regardless of if I let go of the core for another one or not. Never able to be revived again.
+
+After I finish summoning my Death Spirits using the rather large mass of soul energy I’ve attained over the years I turn around and begin walking towards the entrance of the Spire leading to the ledge I’m on with my hands held casually behind my back. Then I begin humming to myself while thinking about what Lucius told me right before he left.
+
+About the meeting of the Horsemen.
+
+I can’t help but wonder what that’ll be like. And if I will actually want to attend, considering that Famine is there.
+
+Of the other three Horsemen of the Apocalypse, I’ve already met Pestilence and War. But I’ve never met Famine before. And the man is completely psychotic from what I’ve heard. Much worse than the other two.
+
+Then again, I’ve also heard he treats the Horsemen rather well. Compared to normal people, at least.
+
+He basically sees everyone other than himself as an inferior lifeform. Like he is a perfect creature and deserves to rule over all.
+
+Except the other Horsemen. Those he just sees as weaker rulers.
+
+He still picks fights with the Horsemen, he just doesn’t have that obsession with himself being some sort of superior lifeform that he has with others.
+
+One way or another, though, if I do go to that meeting, I’d better not bring anyone I care about. Because he wouldn’t think twice about draining them dry on sight. Just for the ‘slight of talking casually with a Horseman of the Apocalypse’.
+
+Which would be rather unfortunate.
+
+I don’t think Shirogane would be happy with being emaciated into a corpse.
+
+The bright side is that I don’t have to worry about him trying to capture me to use me as endless progress on his purpose or some stupid idea like that. Because I know for a fact that our purposes don’t discriminate based on level or power. So there would literally be no point in capturing me.
+
+He has trillions of people already that he’s always starving. So having one random person to starve, especially since I can’t even starve in the first place, would be pointless.
+
+The guy has zero reason to do anything to me. And he’s very pragmatic about focusing his time on things that benefit him.
+
+I honestly can’t see him going after me.
+
+Even when he targeted the Grand Roan Empire for targeting me, he likely wouldn’t have done it if he didn’t see some sort of benefit from their empire to him. That benefit being the people he would forcefully incorporate in his ‘power bank’ has I’ve heard the man calls it.
+
+His phrase for his own empire.
+
+A rather disturbing man if anything else.
+
+But I guess I can attend the meeting. After all, I won’t be able to avoid Famine for all of eternity.
+
+I’ll be living forever, so it would be impossible to do that.
+
+Might as well get it out of the way and see what he thinks of me.
+
+Then I can avoid him.
+
+All that aside, I still wonder what this meeting will be about. Especially for Pestilence to be attending, considering his obsession with his experiments.
+
+It must be important.
+
+Which is another reason for me to attend.
+
+I look down at my feet as I walk deeper into the Spire, heading towards a floating block within a large chamber of quite the number of floating blocks. Still with my hands held behind my back and one hand lightly gripping onto my other arm’s wrist.
+
+Hmm.
+
+That horse… Lucius’s horse.
+
+When will I get my own horse? And what will it look like?
+
+Will it look like a skeleton, just like the symbol on my spaceships? A skeletal horse?
+
+That would be kind of cool.
+
+More importantly though, it’d be awkward for my personal mark to not actually match with my horse.
+
+I frown a little.
+
+Very awkward.
+
+But that’s for future me to worry about. Whenever that may be.
+
+I hope soon though. I kind of want my own horse.
+
+Not that Asher is bad or anything.
+
+I glance at the cat who is currently walking behind me with his head held high and his tail pointing straight up in a prideful walk.
+
+Cute.
+
+Well, now all I need to worry about is my hunt.
+
+So I turn around to face forwards again, stopping right at the edge of the ledge next to a floating block.
+
+Then I step onto the floating block.
+
+And am immediately swallowed by an enormous gargoyle along with the block in question.
+
+Okay, I’ll worry about my hunt after I get out of here.

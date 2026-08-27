@@ -1,0 +1,159 @@
+---
+id: 1ca9120b-b065-56b8-9d48-7bd8e9e1e326
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 24"
+slug: 0249-b4-chapter-24
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 249
+ownLength: 1490
+unit: words
+ownProgress: 1490
+publishedAt: 2025-01-19
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2018793/b4-chapter-24"
+royalRoadId: "2018793"
+markedReadAt: "2026-06-29T19:14:12.540Z"
+---
+
+Aria
+
+It ends up taking me longer than I expected to reach my goal, leaving me staying in the world of Frostfall for several years longer than planned. But it finally happens while I’m reading a random romance novel.
+
+What I’ve been waiting for.
+
+User has leveled-up to level 100.
+
+User will now be given their seventh skill.
+
+Assessing user’s accomplishments and actions… assessment complete.
+
+User will now be given the following skill:
+
+Death
+
+The personal skill of the Horseman of Death herself.
+
+Her trademark skill.
+
+And the symbol of her domain.
+
+With this skill, the user becomes the origin of all death magic and obtains the ability to summon forth the Horse of Death.
+
+Beware of Death, for she has finally blossomed.
+
+My eyes widen as I feel a wave of energy flowing through my body that lifts me off of my lawn chair and into the air. A very different reaction to new skills than any I’ve experienced before.
+
+I feel a wave of pain radiating out from every part of my body, but I don’t really mind it since pain doesn’t really bother me anymore. And along with the pain, I feel my senses beginning to expand outwards. Until I can feel the mana all around me.
+
+Mana of the mana creatures in this place. The mana of the Hunter’s Spot itself.
+
+And the death energy radiating out of my own body like a bloody sun.
+
+Yet for some reason, I can tell that the death energy is changing slightly. Taking on qualities that now allow me to use it in the place of death mana. But also qualities that make it visible to more people.
+
+Visible to those who aren’t just death mages.
+
+And that realization makes my eyes widen.
+
+Especially now that I know just what my death energy looks like. Not to mention how I look like a fucking beacon.
+
+It certainly explains how those death mages could tell where I am even from the other side of a planet.
+
+And along with these realizations, a flood of knowledge begins to fill me. Knowledge about magic. About spells. About energy manipulation.
+
+My eyes widen as I continue floating in the air with my arms stretched out to either side of me as I grit my teeth, feeling strain filling me all over. But especially in my head.
+
+Despite the knowledge though, I don’t know how to use it. Not all of it, at least.
+
+After the strain leaves me, I slowly lower back to my lawn chair. Then I open my eyes and lift my hand in front of me, grabbing control of the energy filling my body and moving it towards my hand as I form a spell circle in front of my hand.
+
+I narrow my eyes while writing script into the spell circle.
+
+Script of the universe itself. Magical commands that end up focused within the spell circle before directing my energy to form a spell.
+
+But despite my sudden knowledge on all of this, all I manage to do is send out a wave of miasma from the circle and nothing more.
+
+I tilt my head at the wave of miasma shooting across the top of the cavern.
+
+Huh.
+
+Both easier and harder than I expected when I heard I would be able to use magic.
+
+I look at the miasma filling the air of the cavern, only for it to slowly absorb into the ice in the cavern, tainting it.
+
+Hmm.
+
+Yeah, I should find myself a magic teacher.
+
+But putting that aside, I look at the ground of the overhang high at the top of the cavern that I’m on before raising my hand again and activating my new skill.
+
+Speaking it out loud for the first time out of any of my skills, “Death.”
+
+My voice echoes throughout the cavern, seemingly sending a shiver down the spines of all the icy mana creatures down there. Despite them not having spines. Meanwhile my own Death Spirits stop their assault and look up at me before kneeling.
+
+I narrow my eyes as my lips quirk upwards at the sight of a large pit of darkness forming on the ground of the overhang. One filled with crimson and black death energy spilling out of it at a constant pace.
+
+Then a single horse begins to rise from within the pit. One made entirely of bone, with bolts of crimson flowing between its bones, and pitch black metal armor covering its body. It has a mane of hair flowing from the back of its head despite being a skeleton, and a regular horse’s tail. And when it finally steps out of the pit of darkness, everything around where its feet land is instantly filled with miasma.
+
+The Horse of Death – my horse – slowly steps up to me as I slowly lower down to float a few feet above the ground, right in front of it.
+
+I stare at my horse, and my horse stares back through eyes made purely of death energy. Then my horse walks around in a circle before stopping in front of me and showing me its back, as if beckoning me to climb onto it.
+
+So I do just that.
+
+I climb onto my horse’s back. And the moment I do so, I feel my own death energy connecting with that of my horse’s.
+
+Power… death… and the end.
+
+My lips quirk upwards in a smirk as waves of death energy begin to radiate out of my entire body, with the death energy eventually turning into miasma when it gets far enough away. The energy of the dead.
+
+All of the mana creatures down below – each one being Tier 4 or 5 – begin to run away in a panic despite being so much stronger than me personally.
+
+But I don’t pay them any mind as I tap my foot on the side of my horse, making it let out a screeching neigh before a large rift opens in front of me.
+
+One leading directly to the Plane of Death.
+
+Then I tap my horse again, leading it into the rift, and finally entering the Plane of Death myself for the first time.
+
+My Plane.
+
+And the moment I step into it, I feel a strange sensation. Like I’m home for the very first time.
+
+Like the plane itself is welcoming me home.
+
+I smile as I enter the barren wasteland of a plane filled with death energy to find millions of Death Spirits of all types quickly appearing and kneeling down, whether they’re in the air, on the ground, in patches of miasma, or even in oceans of death energy.
+
+Then the Greater Death Spirits begin to arrive, slowly floating downwards to the ground in a circle around me before kneeling.
+
+But before they can even say anything, three Grand Death Spirits appear directly in front of me and smile.
+
+“Welcome home, our beloved Lady,” I hear hundreds of voices echo out around me at once.
+
+My smile grows wider.
+
+“I’m home,” I tell them.
+
+All around the World of FrostfallThe moment Aria reached level 100
+
+On what should have been a normal day on the world of Frostfall, every single mage on the world instantly feels a terrifying chill run down their spine.
+
+Mages, unlike other beings of the universe, are all incredibly sensitive to mana. And the world of mages is largely centered around whoever has the most mana.
+
+Many mages across the universe judge other mages by how much mana they’ve managed to build up over the years through training and leveling up.
+
+So when every last mage in the world, regardless of how powerful they are, senses a massive wave of death energy flooding outwards from one of the Endless Glaciers, they all begin preparing defenses. Whether they’re near it or on the other side of the planet.
+
+Because the wave of death energy mana is so thick that it’s like a sun beating down on every last one of them, no matter where they are.
+
+But the wave doesn’t last for long before it fades, as if the source of the wave is no longer on the planet.
+
+Leaving all of the mages on the planet immediately beginning to discuss the terrifying event on the internet. With the discussions going all the way to the Arcadian Society and the largest forums of mages across the internet.
+
+Meanwhile the other three Horsemen of the Apocalypse all turn in the direction of the world before showing different expressions.
+
+War grins like a madman, terrifying all of his own subordinates as they wonder just what he’s planning next for their war.
+
+Pestilence simply nods his head once and refocuses on his current experiment.
+
+And Famine begins to laugh as he declares, “And the birth of Death is now truly complete!!!”
+
+Thus marking the start to the true Era of the Apocalypse.

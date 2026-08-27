@@ -1,0 +1,145 @@
+---
+id: 328765ed-aafb-5de2-9fba-7dbb7318939d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20"
+slug: 0021-chapter-20
+partOf: death-healer
+position: 21
+ownLength: 1442
+unit: words
+publishedAt: 2025-05-21
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2296031/chapter-20"
+royalRoadId: "2296031"
+---
+
+Adriana breezed into Aurelianus’s estate like she owned the place—which, in her mind, she very well could have.
+
+She was furious.
+
+She was taken by the kind of fury very few could have saved themselves from.
+
+She pursed her lips in disgust when she noticed how impossibly quiet everything was.
+
+Finally, a servant came to meet her.
+
+The servant had a dishevelled appearance. The recent tragedy still clearly weighed on him.
+
+“Oh! Lady Adriana!” he gasped, bowing in such a frantic way that it looked like he might just dive straight into the floor. “You’re…uh…you’re not supposed to—”
+
+She cut him off with a sharp wave of her hand.
+
+“I’m here,” she declared, as if that alone explained everything.
+
+“Where’s Fausta? Where’s Lavinia? Where’s your dear master, Aurelianus?” She tossed questions out one after the other.
+
+The servant’s face scrunched up. “My lord… left two days ago,” he mumbled, tugging at his collar. “S-something about the Dead Lands. And the Young Mistress—she’s not here either.”
+
+"I need to see her. No one warned me before. Bring me to her."
+
+“Your Highness,” he greeted, using the old honorific before catching himself. “Lady Adriana. My lord—Lord Aurelianus—he…he said no one is allowed in.”
+
+Adriana’s voice came out quieter than she expected, yet cold enough to slice.
+
+“I’ve come on behalf of the Gens Claudia. Let me through.”
+
+The servant swallowed audibly, then stepped aside with an apologetic tilt of the head. If he had instructions to keep her out, his eyes betrayed how little he agreed with them.
+
+She passed through the gate into the courtyard.
+
+The open yard had been turned into something that hovered between a prison and a menagerie: iron cages lined the walls—some empty, some with heavy tarps draped over them, lumps inside that Adriana refused to dwell upon. The largest cage stood in the center, half shrouded by a rough blanket. Faint torchlight picked out the contour of a hunched, pallid figure behind the bars.
+
+A metallic taste flooded Adriana’s mouth. She stepped closer.
+
+Fausta had always been painfully thin these last years, her sickness devouring her strength. Now she was grotesquely gaunt, as though stripped of flesh and replaced with something…unearthly. Every bone pressed against the sallow skin. The face that once brimmed with quiet intelligence was slack and wrong. Where eyes should have been bright with life, there was only a milky sheen of emptiness over two red eyes.
+
+“Fausta,” Adriana whispered, voice trembling.
+
+The figure jerked at the sound, a spasm rippling through its limbs. A slow, unnatural pivot brought Fausta’s gaze onto Adriana—and that was when the blonde woman’s stomach turned to stone. The eyes were open but unseeing, clouded by a faint greenish film. The lips parted, revealing blackened gums. A low groan rattled from the back of Fausta’s throat, too thick and guttural to be human.
+
+Adriana pressed a hand to her chest as if to steady her own lungs. This can’t be real…
+
+But it was real. The stench confirmed it—the sickly odor of rot that no cleansing spell had purged.
+
+Fausta’s bony hands, bent into claws, clutched at the bars as though testing how far she could reach.
+
+A tear blurred Adriana’s sight, a rare moment of vulnerability for a descendant of the Gens Iulia.
+
+She was just a brilliant, stubborn friend who loved her daughter. How did we get here?
+
+She still thought of the first time they met—Fausta had not given one single crap about Adriana being a Princess. Fausta had always treated her like a peer. And Adriana had respected that beyond imagination.
+
+That memory collided with the horror of seeing her now, gray-lipped, with no spark in her expression.
+
+A shallow moan burbled from Fausta’s mouth, lacking all reason or recognition.
+
+Adriana bit down on her lip to keep steady. “Fausta,” she said again, gentler. “I’m so sorry…”
+
+No response—just a senseless hiss.
+
+Before she could stop herself, Adriana reached through the bars to lay a hand on her friend’s skeletal wrist, ignoring the vile stench and the flicker of rotting flesh. At once, Fausta’s body convulsed. Her mouth yawned wide with her teeth bared.
+
+Adriana’s breath caught and she jerked back.
+
+"Milady! Are you ok?! Are you—"
+
+"I'm not infected," Adriana shouted, furious.
+
+A strangled sob rose in Adriana’s throat. She clenched her fists until nails dug crescents into her palms. This was no dark rumor—Fausta was truly gone, this ragged husk a pitiful puppet of decaying flesh.
+
+She had heard just this morning that Fausta had apparently drunk a contaminated potion. The Necromonarchy was known to play these dirty tricks whenever it could sneak infected batches among the [Potion Makers] of Lumina.
+
+"Milady," a [Healer] approached from the side with a [Templar].
+
+He approached, bowing repeatedly, fear clear in his posture.
+
+"We waited for you to visit, but… the law is clear. We must purge—"
+
+“Does no one here question this?!” Adriana’s voice trembled with rage. She sucked in a breath, reined it in. “Where is Aurelianus? Where is Lavinia?”
+
+The [Healer]'s face fell.
+
+“Lord Aurelianus has departed for the Dead Lands campaign just yesterday. He…did not bring the young mistress with him, milady—Lavinia left the estate shortly before him, on her father's orders, for some training ground.”
+
+She steadied herself and changed tack. “Fausta was working on documents—did you see them?” She recalled all the treatises, the secret codes of Papal law, even the ancient clause about female aspirants that Fausta had once confided in. Those must hold the key to understanding her next move. Maybe, just maybe, there was a way to reverse this plague on her body, or at least to glean how it happened.
+
+The servant’s eyes flickered with dread. “My lady, I…” He dropped his voice. “Lord Aurelianus burned everything. Cleared out her entire chamber—he would not leave a single scrap.”
+
+Adriana stood very still, heart pounding. Burned everything. So this was no accident. No misfortune of incompetent healers. He covered his tracks, perhaps. Or the idiot just feared the Undead Disease for himself.
+
+Adriana recalled the bright, pained eyes of Fausta’s living face—her fierce love for Lavinia, the spark of cunning that once shaped complicated legal texts. All that had been extinguished, leaving behind this twitching husk.
+
+A wave of helpless anger flooded her. She bit the inside of her cheek, stepped closer. Carefully, she laid one hand over the runes etched on the iron bar, eyes still on Fausta’s drawn, broken shape. Adriana’s left palm glowed faintly with Light Mana as she tested for any sign of the living woman she had once known.
+
+Nothing. An unnatural chill ghosted up her arm, as if even her Mana repelled from the infected body. Fausta’s eyes dilated, but there was no recognition—only that hollow reflex to grasp and bite.
+
+Another tear slipped free, hot on Adriana’s cheek.
+
+“Forgive me,” she whispered. “I’ll—find a way, Fausta. I swear.”
+
+"You two, back off," she ordered the [Healer] and the [Templar].
+
+"Milady, we must dispose of—"
+
+Adriana's surroundings erupted in white fire and both stepped back. She had never mastered the Great Skill of the Gens Iulia, but that didn't mean she had never gotten close to it nor learned one thing or two during the process.
+
+Fausta jerked forward, and Adriana jerked back, forcing down a surge of queasiness at the corpse-like snap of teeth. She swallowed and ordered everyone to get away.
+
+Once she was left with Fausta, she encased them both with a [Light Shield].
+
+"Fausta, I'll take care of Lavinia, I promise even if it was the last thing I had to do. Lily—she made it. She learned Light Magic. We tested her. Her Affinity is so pure we have never seen something like that. She likely fulfills the requirements to learn the Great Skill of the Gens Claudia and more…"
+
+The zombie corpse just looked back mindlessly at her.
+
+"She has the strongest healing we've ever seen in a child," Adriana smiled. "I can't wait to see her Class Day, my friend…"
+
+Adriana listened to the mindless growling of the zombie and squeezed her eyelids together.
+
+"Who knows, maybe, one day, she could have healed you," Adriana said, feeling tears streaming over her face. "Now, though, without you telling me how to help her, what will I do?"
+
+Adriana regarded the lack of an answer from the Undead corpse and, closing her eyes, let the stream of fire pour over her dead friend, who soon turned to ashes.
+
+"Anything, Fausta," Adriana muttered amidst the acrid smoke, "I'm ready to do anything."
+
+At that moment, something resounded in Adriana's mind.
+
+You have fulfilled the requisite for Subclass - Librarian.

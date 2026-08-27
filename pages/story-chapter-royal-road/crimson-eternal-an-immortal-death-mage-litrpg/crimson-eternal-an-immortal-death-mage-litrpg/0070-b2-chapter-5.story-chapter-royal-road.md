@@ -1,0 +1,161 @@
+---
+id: 3283fb54-8639-5e1a-a289-c6bca396a0cd
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 5"
+slug: 0070-b2-chapter-5
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 70
+ownLength: 1984
+unit: words
+ownProgress: 1984
+publishedAt: 2024-01-30
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1499569/b2-chapter-5"
+royalRoadId: "1499569"
+markedReadAt: "2026-06-29T19:08:18.274Z"
+---
+
+Aria
+
+“Well I’m Ryohei Shirogane, and I’m known as the Silver Merchant! A brand new Eight Star Merchant!” a certain idiot’s voice echoes out of my TV of the main living room of the vacation home I’m living in as I blankly stare at it. On the screen is a camera point of view show from across the entire mall in some hiding spot with the camera zoomed in and the audio somehow locked onto our conversation.
+
+Fortunately it cuts out after that, so it doesn’t show the sarcastic comment I made afterwards. But I was definitely in it.
+
+And the reporter going over this video confirms my presence as they exclaim, “And here we have it! The new Eight Star Merchant in his natural habitat! But who is the girl he’s talking to?! I’m sure a lot of you viewers at home are wondering this very question!”
+
+The reporter is speaking as the feed of the TV moves out to show him standing in front of the video that was played and is now frozen before. He has short black hair, is a native, and is wearing a fancy black suit as he points to me on the screen, focusing on my hair, “Now, I’d be surprised if those of you in the know about the Hunter’s Bay here in the capital haven’t heard about the white haired, crimson eyed girl who spends her time relaxing at the bay while her summons go about hunting. So that’s our best guess about who this beauty is.” He pulls his hand back and narrows his eyes with a mischievous glint in them. “But what’s the Eight Star Merchant’s relationship with her? Are they perhaps going out? Or maybe-”
+
+I turn the TV off, deciding that listening to the idiot talk about the other idiot and me being a thing is a waste of my time.
+
+I’m sure it’ll cause more than a few problems for me in the future though.
+
+And I’m not looking forward to that.
+
+But how much could one single channel’s broadcast affect? It’s just a single channel after all.
+
+Shouldn’t be too big of an effect.
+
+With that hopefully-not-delusional thought in mind, I proceed to go about the rest of my day.
+
+The Next Day
+
+I can’t help but feel uncomfortable as I sit at the edge of the dock reading a book. Because the looks I’m getting from everyone are… very different from what they’re normally like. A lot of people are whispering too, and I can’t help but overhear some of them.
+
+And apparently there are a couple people who actually believe that I’m in some sort of relationship with the idiot. Most don’t though. Simply because it was obvious that we’d just met when the reporter was stalking us.
+
+But seriously… I didn’t expect this many people to be up to date with the news channels.
+
+It’s annoying.
+
+I glance down at the dark water beneath my feet – feet that are just dangling over the edge of the dock – when I feel more soul energy entering me through my summoned Death Spirits. Then I focus on my book again.
+
+This whole situation is getting very annoying.
+
+My inner griping over the situation is interrupted by the buzzing of the device people in this world call a ‘cell phone’ that I have in my pocket. A rather convenient thing when it comes to looking things up on that internet thing and for calling others. But I don’t have much interest in the mobile games other people like playing so much.
+
+So I put the bookmark in my book, place it down next to me, and grab my cell phone to check who is calling. Only to surprisingly find it being the emperor’s assistant.
+
+And when I answer the phone, the first thing I hear is the guy saying, “Please come by the emperor’s manor as soon as possible.”
+
+Then he hangs up. Without another word.
+
+Typical of the guy.
+
+If I had to guess, the Emperor must want to talk about the news. That’s the only new thing that’s come up since the last time we spoke a month or so ago after all.
+
+Not to mention the timing.
+
+Well, anyways, it’s getting a little uncomfortable being here under these stares anyways.
+
+And I thought the stares I got when I wore that swimsuit were bad.
+
+At least now I’m in my armor. Which in all honesty doesn’t really count much as armor when it just makes attacks hurt me instead of the armor, but whatever.
+
+I order my Death Spirits to return early before waiting a little bit for them to surface. And after they do and I gather everything they collected up, I quickly head for the entrance.
+
+“Aria! How was the Silver Merchant?!” Takashi asks the moment I reach his station to turn in my loot. But I just give him a dead-eyed look. “Oh, come on! I’ve gotta know!”
+
+He begins checking through my loot as he talks, “Was he cool? Was he just like he is on TV? Or as the articles say?”
+
+I just stare without saying anything while the man goes through everything.
+
+Eventually he finishes, giving me less today than yesterday since I’m ending early. He doesn’t even mention it. Just hands me the coins while still blabbering on.
+
+Even as I walk away he keeps talking until he finally finishes with a brief, “Please tell me about it the next time you come!”
+
+I let out a sigh while walking towards my vehicle.
+
+This chat with the emperor is gonna be annoying, isn’t it?
+
+A few hours later
+
+I pull into the dock at the emperor’s manor – the same place I arrived in the world at – before parking and entering his manor. The place doesn’t really have security guards because the emperor himself is the strongest person on the planet. But also because he has plenty of security measures around the place without the need for guards.
+
+So I just walk right on in, not bothering with them since I know they’ll be set to let me through.
+
+And just like always, I follow the arrows until I arrive outside of the emperor’s office. But unlike the last times, someone else is standing outside of the office as well.
+
+Someone I very much recognize.
+
+He looks awkward as he stands there fidgeting, clearly having noticed me.
+
+After a few seconds, he eventually says, “Sorry about yesterday.”
+
+I stare at him before sighing and saying, “It’s fine. Wasn’t your fault. Mostly.”
+
+The door between us opens on its own, revealing the emperor’s assistant who bows to me, nods his head to Shirogane, and walks away without a word. Then the emperor’s voice comes from inside of the room as I find him sitting on that same chair he was in the first time I arrived, “Come in.”
+
+We both enter the room with the Silver Merchant immediately kneeling down below in front of his emperor.
+
+I just stand there watching though.
+
+A few seconds pass in silence, following which the emperor finally turns around and simply raises a brow at me as he asks, “Why did you have to appear on the news?”
+
+“This idiot,” I tell him while pointing at the idiot kneeling down next to us, making the guy flinch.
+
+“Yes, I understand that the idiot,” the man says with a slightly befuddled look on his face ignoring the Silver Merchant whose head jerks up with a “What?!” as the emperor looks at me, “decided to drag you into a corner and announce his identity to the world. But you do realize that this could get back to the Emperor of the Grand Roan Empire, correct?”
+
+My eyes widen in realization at that before I glare at the Silver Merchant and mutter, “Now that I didn’t think about.”
+
+The Silver Merchant – as if forgetting he’s in the presence of his emperor – stands up straight and opens his mouth, only for the emperor to continue, “Because of this event, you’ll have to leave two months earlier than planned.” I turn to look at him. “It will likely take about two weeks for any news to reach the Grand Roan Empire, and an extra week or so for the emperor to notice it. So you can stay for one more month. But any more and it’ll threaten the Dynasty’s trade agreement with the Empire.”
+
+I let out a sigh at that.
+
+“Understandable,” I tell him with a nod.
+
+He’s already helped me out quite a bit, so this is fine.
+
+“You’ll need a contracted merchant to keep communications open with us, so we decided on promoting this idiot and giving him that position,” the emperor says while pointing at the Silver Merchant who shouts, “Hey!” at that. But we ignore him as the emperor continues, “He’ll act as your connection to both the Dynasty and to our wares. So try not to let him get into too much trouble.”
+
+I nod my head and answer, “Sure. I’ll keep the idiot in check.”
+
+“Can either of you hear me?” the idiot asks, following which we both turn to look at him, only for the man to grow meek and seemingly shrink a little as he mutters, “Nevermind. Please continue.”
+
+The emperor and I focus on each other again as I ask, “You sure he’s up for the job?”
+
+The man sighs and glances at Shirogane, who, almost as if he had a split personality or something, suddenly turns stiff and cold, standing up straight again. Then the emperor says, “One thing you’ll realize about this idiot is that he has more than one side to himself.”
+
+Oh. So he really does have a split personality.
+
+“We think,” the emperor adds, making me blink in surprise before glancing between the two. “Sometimes I get the feeling he’s just playing with everyone by acting like he has a split personality.” He turns to me, reaches for a cup of tea to take a sip, and says, “Please keep an eye on him for me. He may not look it, but he’s one of the best upcoming talents we have in the Dynasty.”
+
+I stare at him for a few seconds before muttering, “You’re just dumping your problem on me, aren’t you?”
+
+He turns around to look at the window as he says, “On to the next matter at hand.”
+
+He totally is just dumping his problem on me.
+
+“The amount you’ve earned thus far is enough to live off of for a few years on the world you’ll be going to,” he pauses as he glances back at me commenting, “You are planning to go to Luk’tar, correct?” When he sees me nod my head, he faces the ocean again and continues, “But if you want a weapon that’ll be of even the slightest bit of use to you there, you’re going to have to go deeper into the Hunter’s Spot and hunt stronger mana creatures there to earn the coin for them.”
+
+Oh, right. I got my new outfit, but I didn’t really think about getting any weapons myself.
+
+I was planning on just getting some decent weapons and moving on not long before leaving. But if I want weapons strong enough to actually be useful against level fifties and above… or even level one or two hundreds and above…
+
+“Please discuss with Shirogane any plans you may have for hunting deeper in the Hunting Spot,” the emperor says with a note of finality. “He’ll be able to help you.”
+
+Then the door – which had shut after we walked through – opens again, as if beckoning us out.
+
+I share a glance with the serious Shirogane before leaving the emperor’s office.
+
+Guess I’ll be going hunting after all.
+
+Looks like my vacation is at an end.

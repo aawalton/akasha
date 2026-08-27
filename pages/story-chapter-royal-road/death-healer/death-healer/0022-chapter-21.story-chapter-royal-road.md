@@ -1,0 +1,233 @@
+---
+id: 1a0b0a4c-6ae2-5f4f-a376-1af46d8b2730
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21"
+slug: 0022-chapter-21
+partOf: death-healer
+position: 22
+ownLength: 2743
+unit: words
+publishedAt: 2025-05-23
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2301038/chapter-21"
+royalRoadId: "2301038"
+---
+
+In Her Past Life
+
+Warm rays of light in Okinawa drenched Nirai Beach in a glaze of gold.
+
+The tide had ebbed, leaving smooth, damp sand marked by a single set of footprints. Liliana Ember—barefoot, blonde hair cinched in a quick ponytail, cotton gi top fluttering in the breeze— strode along the waterline with purpose.
+
+Step, pivot, knife‑hand block. Reverse punch, snap kick, low stance.
+
+For a blissful span she felt nothing at all: no thoughts, no memories, just the rhythm of muscle and breath. Salt‑scented wind slipped over her skin; the glare off the ocean rimmed every motion in molten, blazing edges. The golden hour seemed to almost guide her movements, as if she could capture the strength of sun itself in her silhouette.
+
+The Okinawan sun was just beginning its slow, majestic climb over the horizon.
+
+She reached the final kata and let the strike hang, fist centered, elbows soft. Sand hissed beneath her heel as she settled into the front stance, staring at the ocean, gaze vacant on the horizon.
+
+Then a sigh slipped out.
+
+The moment shattered like a shell beneath her foot.
+
+Lily straightened and shook out her arms, and as her awareness returned, she thought of the acceptance letter waiting in her hostel room. Four years early. Unthinkable when she’d first started slipping anatomy flashcards between tournament brackets. But there it was, undeniable proof that she could sprint ahead of schedule and slice straight into the life everyone expected of her, a life that revolved around a white coat, microscopes, and the sterile comfort of certainty.
+
+She brushed grains of sand from her calf guard and looked at her hands. Calluses, tidy but unmistakable, mapped each knuckle. They felt truer than any letterhead. There was another path. Coach Kim back in Chicago had already floated the idea.
+
+“Give me two more years and you could turn pro. Flyweight’s shallow; someone with your timing could make a run.”
+
+Med school meant structure, service, saving lives.
+
+MMA meant...
+
+The surf lapped farther up the sand, cool water licking her toes, and she tilted her face toward the sinking sun. It painted her lashes bronze and set tiny flares dancing in her hair. Somewhere behind her a cluster of tourists laughed, but their voices seemed muffled under the steady drum of her pulse. She drew a slow half-circle in the sand with the edge of her foot, then let the tide erase the mark.
+
+One day I’ll have to heal bodies, she thought, or test the limits of my own.
+
+Lily inhaled, letting the warm air fill the hollow of indecision inside her chest, then released it in a slow, controlled exhale. The beach fell silent again. Choice would come, soon enough, but not in this breath.
+
+She brought her fists to her sides, bowed to the empty roadway of sand, and turned toward the deepening cobalt of the East China Sea.
+
+Lily slid the door shut behind her, and the tiny guesthouse room fell quiet except for the hum of cicadas beyond the paper screen. She crossed to the low table and set her backpack on the floor.
+
+She had earned her bachelor’s degree a year ahead of schedule, and the acceptance letter from Harvard Medical School lay folded in the outer pocket of her backpack together with a wrinkled brochure that advertised a mixed-martial-arts training camp in Tokyo.
+
+If she closed her eyes, she could see her room back home. Trophies from every major karate tournament in the United States lined one shelf, and medals from several national judo championships gleamed on the wardrobe handle; she had devoted nearly every spare hour to Enshin Karate and Judo, for she could finish coursework in minutes and then hurry off to the dojo.
+
+When the floor finally looked clear, she plugged in a compact kettle, fetched two cat-shaped ceramic mugs, and arranged three tea sachets because she could not decide between matcha, genmaicha, or chamomile. Steam soon rattled the lid, and she poured hot water with careful precision while humming a kata rhythm under her breath. The scent of toasted rice drifted through the small room as she settled onto the futon, opened a thin booklet titled Kyusho Jitsu Fundamentals, and traced the diagram of brachial plexus pressure points with an eager fingertip.
+
+Before turning the page, she flexed each finger until the knuckles popped, then shook her hand loose so the circulation tingled back through her palm.
+
+The door slid aside, and Rin Tanaka, who was half-American and half-Japanese and several years older, stepped inside before Lily noticed her arrival. Her cheeks were dusted with faint freckles and her almond-brown eyes carried a spark of mischief. The girl had a mesh bag of laundromat tokens in her hand and her hair still dripped from her morning run, and she grinned when she saw the booklet balanced on Lily’s knees.
+
+“Let me guess,” Rin said, kicking off her sandals. Her running shorts revealed lean quads that flexed whenever she shifted her weight, and a slim silver ring glinted in the cartilage of her left ear. “You’re cramming pressure‑point voodoo again.”
+
+“It is not voodoo, it's nerve strikes,” Lily replied, though she giggled because the booklet looked more like a zine than a manual. “If I could channel Death Qi like in the manga, I could stop an opponent’s heart with a tap. That would be so cool.”
+
+Rin dropped the token bag and the metal clinked like loose change. She snorted, reached for the teapot, and picked the lone matcha sachet because Lily had already brewed the genmaicha. She lifted an eyebrow as she stirred the green powder.
+
+“You’ve already won every trophy in the country, and you still think you need magic death powers? You are such a dork.”
+
+Lily shrugged, hiding half her grin behind the booklet.
+
+“But imagine the highlight reeeeeel.”
+
+Rin rolled her eyes yet sat beside her and poured tea into a spare cup.
+
+“Fine. Show me the chapter I can use to make a Johnatan voodoo doll I can stab before going to sleep."
+
+Lily blushed.
+
+"It's not voodoo!"
+
+"Sure," Rin rolled her eyes. "Whatever you say, dork. Maybe one day you'll just teleport to a world of dorks like you and this mumbo-jumbo will finally be useful."
+
+* * *
+
+Four Years After The Healing Trial
+
+Adriana stood at the long library window while the winter sun crept across the parquet and she tapped the glass, hoping the rhythm might steady her thoughts.
+
+“The Champion’s Trial shows no mercy,” she murmured, her voice composed even though her mind kept tally of every obstacle that waited for Lily. She turned toward Gentiliana, who had crossed the estate to visit her, and the quiet understanding they had built during the Healing Trial allowed Adriana to speak without ceremony.
+
+“There is no way for a Champion to retain a support Class, and Lily will stand to fight a few days after her Class Day, so her Skills will scarcely have time to settle.”
+
+Gentiliana set a bundle of sparring swords on the nearest table and folded her arms.
+
+“The girl refuses every invitation to drill her [Heal] or to meet the fighting instructors,” she said, and disappointment weighed each word.
+
+“I cannot accept that,” Adriana replied while frustration tightened her shoulders. “I never possessed even half of her gift, yet I practiced until my body was bleeding all over.”
+
+“We are not even sure she practices at all,” Gentiliana answered, her tone sharpening because she shared Adriana’s fear even if she would not name it. "Adriana, we must accept that she does not wish to become a Champion."
+
+Silence thickened until Adriana’s pulse drummed in her ears.
+
+“We must convince her of the importance of her role. She doesn't understand what* her* becoming a Champion would mean."
+
+"Have you even found a way for that to happen?" Gentiliana asked with a raised eyebrow. "Have you managed to track down Fausta's research?"
+
+Adriana had shared her late friend's secret with Gentiliana since Lucianus's sister had proved more than trustworthy. The middle-aged woman working at the House of Claudius had risked her own safety in order to give Lily a shot at this.
+
+"No, not yet," Adriana said, feeling a weight settle on her chest.
+
+Adriana folded her arms while decisiveness wrestled with doubt inside her, and Gentiliana drummed a restless rhythm on the stacked swords because the silence refused to yield advice.
+
+A shriek of pure delight rose beyond the courtyard and cut across the thick silence. Both women leaned toward the sound as hoofbeats followed, heavy and quick, and a lattice of frozen ivy rattled against the stone wall.
+
+Adriana unlatched the window and pushed it wide. A gigantic mottled sow vaulted above the outer wall of the villa so that her shadow swept across the whitened lawn. A rough saddle of canvas and rope clung to the creature’s back, and Lily balanced there with one hand on the strap while she flung the other into the bright air.
+
+“Look, Mom, she can jump even higher,” Lily called, meeting her mother's eyes, and her laughter rose like music in the brittle morning light.
+
+The sow landed with a thunderous skid, pivoted with surprising agility, and splashed a curtain of water when her hooves kissed the frozen edge of the ornamental pond. Without losing speed she charged toward the orchard, gathered her weight, and cleared the hedge in a single bound. Lily’s whoop lingered long after the pair vanished among the stark branches.
+
+Gentiliana exhaled because amazement had stolen her words.
+
+"How does that pig fly so high?"
+
+"Lily might refuse to practice [Heal] with you," Adriana pinched her nose's bridge, "but she kept it active at all times while playing with Ridi. Now, the pig's leveled up and through their combined idiocy it can jump several stories high."
+
+"Hasn't she broken bones?" Gentiliana asked, puzzled.
+
+"They both have. Lily almost tore her leg. The pig almost got both of them skewered thrice."
+
+"Dawn's Mercy! You healed them in time?" Gentiliana asked, putting a hand over her mouth.
+
+"I didn't," Adriana sighed. "Your niece healed herself and the sow."
+
+"She healed herself while wounded?" Gentiliana looked stunned.
+
+Maintaining concentration for a [Healer] while injured was extremely hard and, under normal conditions, massively decreased the healing's output and efficiency.
+
+Adriana didn't seem proud of that--rather, it looked like it just irked her how talented her daughter was, especially since it seemed the girl had as much talent as laziness in her bones.
+
+Suddenly, they both heard a crash and someone swearing out loud.
+
+"Who in the name of all Extinguished Light moved those trees?!"
+
+A terrifying aura spread over the entire villa and both Adriana and Gentiliana recoiled from the sheer impact of it.
+
+"Lucianus?" Adriana frowned.
+
+Gentiliana walked ahead of Adriana down the broad marble stair that overlooked the courtyard of the Gens Claudia estate.
+
+Three orange trees drooped where laborers had shoved them into fresh pits.
+
+Lucianus stood beside the nearest trunk with a discarded, snapped branch clenched in his fist. Fury rode every line drawn by fatigue across his face.
+
+"What has happened, Lucianus?" Adriana called while she crossed the flagstones.
+
+Gentiliana caught her shoulder before she reached him.
+
+"It is not your fault. You did not know," she murmured, guiding her a single step back.
+
+Adriana opened her mouth, yet Lucianus turned at the sound. When the blonde woman looked at him, she could barely recognize his face. Four years in the Dead Lands had leeched the shine from his skin. Her husband had let his beard grow and his hair go unkempt. His eyes seemed shadowed and hardened. His shoulders braced as though the battle might resume at any moment.
+
+"The orange trees were planted by Claudia," he said, voice rough as gravel.
+
+Gentiliana leaned close so only Adriana could hear. "He and Claudia planted them together when they were children."
+
+Cold understanding wrapped Adriana's heart. Claudia, Lucianus's beloved sister, had died long ago, and those trees were probably a living memory her.
+
+"Lucianus, I am sorry. I ordered them moved to clear space for the practice ground for our daughter. I never guessed—"
+
+"I will have whoever broke this branch off held responsible," the man hissed.
+
+"They planted the trees together," Gentiliana offered a small explanation to Adriana's ear in a whisper.
+
+He looked at her, yet whatever answer gathered behind that gaze dissolved before it reached his tongue.
+
+"Lucianus, I'm sorry. I didn't know--"
+
+He dropped the broken branch, coldly looked at his wife, then stepped forward, brushed past both women, and walked toward the residence hall with slow, deliberate strides.
+
+Gentiliana kept her voice low.
+
+"Leave him to his thoughts. He hurts for more than just a broken branch, Adriana. Something's up with him."
+
+Adriana shook free of the gentle hand, resentment rising where guilt had settled.
+
+"He won't treat me like that, ever, Gentiliana," she said, turning to follow.
+
+* * *
+
+Adriana crossed the threshold and drew the door until its latch clicked. "Tell me what troubles you," she said, keeping her tone even because she sensed how close he was to the edge.
+
+A tall hourglass rested on his cluttered desk, the sand stalled in its throat so the upper bulb remained swollen while the lower lay only half‑filled; damp grains had clotted the passage
+
+Lucianus stood before the window, one palm braced against the wall, while cold light washed a few grey strands in his hair and set fresh creases beneath his eyes.
+
+"Tell me what troubles you," she said, keeping her tone even because she sensed how close his strength sat to the edge.
+
+He did not turn at once. When he spoke his voice sounded scraped raw.
+
+"The campaign in the Dead Lands unraveled. We discovered a cache of high‑level corpses—Revenants. They tore through the vanguard. Marcus took a blow that opened his chest, and I carried him twenty miles before a [Healer] with enough reached us. I bled beside him, and half our legions rose again. Our allies fared no better. Not only we'll need to recruit more, Adriana but--"
+
+"We have the money for it, Lucianus," Adriana inhaled and interrupted him, allowing the poise of her princely schooling to settle across her shoulders. "Death follows soldiering as night follows dusk. We mourn, and we mend, and then we stand once more."
+
+Lucianus shook his head, a slow weary motion.
+
+"It is not simply the fallen. If more of those creatures wander beyond the Dead Lands, the Necromonarch will march behind them, and the legions we field now will shatter. I estimate, ten of those caches would be enough to wipe us out completely. Your brother speaks of strategy from chambers of marble while I sift ash and bone. When did he last tread a killing ground?"
+
+Adriana lifted her palm, and a thin sheet of white radiance formed to encircle them, a [Light Shield], so their words would not seep into the corridor.
+
+"Lower your voice. Even stone has ears."
+
+"Let them hear," Lucianus replied, yet the protest came hollow, drained. He closed his eyes for a moment, and when he opened them the fierceness had bled away, leaving only resignation. "I am tired, Adriana. This burden grows heavier each season, and purpose slips through my grasp like river water."
+
+She stepped closer because his confession cooled the space between them.
+
+"You have carried heavier burdens and you have never faltered. What new shadow follows you?"
+
+He met her gaze without shifting his stance.
+
+"I searched those desolate vaults for anything that could shield our line. I bargained with... things. I thought I could carve a path so that my heirs might live beyond this war. Now I believe I have failed. Hope thins, and our future flickers."
+
+"Speak plainly," Adriana urged, feeling dread coil although she kept her posture firm. "What did you see that stole your faith?"
+
+He drew breath to answer, yet the words never surfaced.
+
+A thunderous crack split the air outside, followed by the groan of splintering timber and the unmistakable squeal of an alarmed pig.
+
+"Oh no!" Lily's voice carried across the courtyard.
+
+Lucianus looked toward the courtyard. He moved so quickly that Adriana needed a moment to register that he was no longer in front of her, and she saw him push the door open with enough force to make it strike the hallway wall.

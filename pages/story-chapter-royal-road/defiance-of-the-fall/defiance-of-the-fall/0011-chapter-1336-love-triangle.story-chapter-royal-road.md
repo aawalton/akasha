@@ -1,0 +1,131 @@
+---
+id: 20d64544-64c1-5612-a01d-8603f69dd7d7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,336 - Love Triangle"
+slug: 0011-chapter-1336-love-triangle
+partOf: defiance-of-the-fall
+position: 11
+ownLength: 2907
+unit: words
+publishedAt: 2025-06-11
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2349119/chapter-1336-love-triangle"
+royalRoadId: "2349119"
+---
+
+A streak of blue light appearing out of nowhere announced the start of the next round of torment. It tore straight through the podjumper’s barrier, and its plating fared no better. Upon reaching the compartment, the light transformed into a corrosive gas that targeted all organic matter. Zac swung [Death’s Duality], cleaving the vessel in two. Six chains rushed through the gap to rip apart six flying array disks waiting outside.
+
+They were only the tip of the iceberg; dozens of identical arrays waited out of reach. A flood of darkness suppressed their light, but [Deathmark]’s axe-wielding wraiths were disintegrated by brands looking like snowflakes before they could deal any damage. Zac had expected as much. Having them tank some of the attacks was enough.
+
+Zac turned into a streak of Abyssal Death, zipping through like a ghost. His escape didn’t go unnoticed. The two sentry formations looking like icy phoenixes far up in the sky could follow his every move. Only [Eye of Desolation] had managed to hide his presence, and it was still on cooldown.
+
+The Array Mines emitted waves of space and fire that were designed to disperse Miasma and slow him down. Zac had managed to open a small gap with his chains, but he was taking significant damage to break through the net. It would only have taken a second or two to destroy the rest, but that was a delay he couldn’t afford.
+
+Zac had already noticed the ten-mile replica of the Abyssal Lake that had silently appeared beneath his position. It shattered the moment it was fully formed, releasing a powerful pulse that filled Zac with revulsion. It was almost the exact opposite of the unique frequency created by his pathways. It was the culmination of three days of iteration, a final stratagem now that the Transformation Docks were within sight.
+
+The trap had been sprung. Above, an ice palace thrumming with the Dao of Space sealed any form of teleportation or escape treasures. To his left and right, countless arrays had joined hands to replicate primordial beasts that Zac didn’t recognize. The front was safe except for a huge barrier, and it didn’t even reach the ground. That wasn’t because Kaltosa Lu had found his softness.
+
+Miles of flickering buildings had formed a band around the Transformation Docks’s memory domain, creating an eerie ghost town. The elemental was clearly unwilling to install his arrays among the new additions. The Mercurial Court had just opened its gates, and attacking the doorway could ruin months of planning.
+
+There was still some distance between Zac and the outer settlement, and the fake Abyssal Lake’s pulse moved significantly faster than he. It was a jamming attack tailored for him, able to retune energy coursing through his body. It wouldn’t just disrupt [Abyssal Drive]; it would briefly disable all his skills. And yet, Zac only felt relief as he was inundated.
+
+A mile-wide swirl of blue thunder as fierce as Heavenly Tribulation rushed at him from the left while an inferno approached from the right. The attacks were no weaker than Zac’s finishers and beyond what [Profane Exponents] could block. Kaltosa Lu had timed everything perfectly, having his attacks land right when Zac was exposed and helpless.
+
+Or at least when Zac was supposed to be helpless.
+
+The streak of Abyssal Death continued unimpeded, showing no signs of instability. It even accelerated as Zac finally displayed the last 15% of the speed he’d held back for this exact moment. Kaltosa Lu might have suspected he could forcibly maintain his speed under the circumstances, but not that he could move faster than during the dozens of near-death situations of the past three days. The burst was just enough to move out of the reach of the two large-scale attacks, and Zac slipped beneath the barrier to enter the ghost town.
+
+From there, Zac reached the memory domain’s border in the blink of an eye. Zac still didn’t dare relax. He rushed straight through in his energy form, only deactivating [Abyssal Drive] when he’d entered the city. Or rather, his skill was shut down by a hidden array. Zac appeared in the middle of a bustling street in a puff of death, eliciting a surprised curse from a passerby.
+
+Zac wasn’t given time to orient himself before an irresistible pressure pushed him to the ground. His mind screamed of extreme danger. He couldn’t do anything about his numerous wounds leaking some deathly energy, but he sealed his aura as best as he could. It was enough to avoid execution by the town-protecting arrays. Instead, a number of powerful perceptions had locked onto him for further investigation.
+
+“I apologize for the commotion,” Zac wheezed as he raised a shaking left hand. “I’m Arcaz—uh, I mean Everit Draom—invited by Heavenly Decree. I was attacked on my way here and accidentally lost control of my wounds.”
+
+‘Noted, Sealbearer. Accommodations have been prepared in the first district. Proceed to the docks when ready.’
+
+The perceptions left shortly after, some lingering a moment longer out of curiosity. Thankfully, his identity was enough to skip a more thorough investigation. After meeting the suspicious Enkindling Sage Xiphos, Zac wanted to stay out of the limelight as much as possible. Zac exhaled, knowing he was finally safe. Better yet, he reached the Transformation Docks without exposing the Void to his fellow Flamebearer.
+
+Well, except for the final spurt. It wasn’t that Zac could naturally resist the disruptive pulse—the fate of his axe wraiths had proven that. Zac had guessed what Kaltosa Lu was up to by analyzing the elemental’s attacks. He’d used a few similar attacks over the past few days to find the right frequency, usually hidden among dozens of other attacks.
+
+Zac had still noticed the pattern and prepared a counter. He’d activated [Void Mountain] before jumping out of the podjumper. By infusing himself, he’d hidden a layer of Void Energy that remained while entering [Abyssal Drive]’s intangible form. It was this energy that shifted his natural frequency, severely limiting the pulse’s effect.
+
+There was a small risk that Kaltosa Lu would figure out what he’d done, but part of [Void Mountain]’s ability when infusing himself was to hide the Void’s unique aura. More likely, the elemental would assume Zac had held onto another method of method of protecting his energy flow. Thankfully, he hadn’t been forced to phase through the final barrier. That feat would have been much harder to explain.
+
+Still, Zac had been stripped of whatever confidence he may have nurtured after killing Kator and seizing amazing opportunities over the past year. His core was nearly wrung-dry, and he was covered in wounds from head to toe. He was still fighting against multiple invading energies, the most troublesome being the temporal fractures spread through his insides.
+
+As bad as it was, Zac’s state would have been even worse if not for the pitch-black breastplate covering his torso and right arm. Alea’s transformation finished two weeks after his first visit to Dawndeep Bastille. It would be a long time before she could tame her Spiritual Flame, but that part didn’t affect her combat strength. The flame would rather improve Alea’s spiritual cultivation and help her absorb materials.
+
+Covering more of Zac’s body was only the beginning of [Love’s Bond]’s comprehensive upgrade. The materials had successfully advanced a tier, increasing both defenses and the sharpness of [Death’s Duality]. The latter didn’t just improve Zac’s lethality when infighting. It awarded some additional sharpness to all his cutting attacks, even skills like [Deathmark].
+
+The armor’s defensive shroud had increased its coverage, and the chains had seen the same benefits as the rest of the Spirit Tool. They’d also become much faster, allowing for better synchronization. Alea hadn’t awakened any new abilities, but she’d mentioned she might after reaching Peak D-grade.
+
+It was the upgraded defensive shroud that had kept Zac safe when he first encountered Kaltosa Lu. Seeing that the Mercurial Court had suddenly gained two halos, Zac correctly assumed the Transformation Docks had finally come alive. What he hadn’t expected was a sudden ambush of Temporal Energy as he made his way over.
+
+Esmeralda’s resistance against time was even worse than Zac’s, and she was the elemental’s main target because of her speed. She was still sealed in a cocoon of death inside the Shrine of Kanba, working hard to suppress the rampaging Temporal Energy. The chaotic fluctuations had calmed down since, but Zac had no idea when she’d wake up.
+
+Kaltosa Lu had clearly done his homework and chose to hit them where it hurt. They were lucky that there appeared to be some form of suppression on the Dao of Time across the Left Imperial Expanse, likely because of its important connection to the trial. Timeflow was reinforced, and Kaltosa Lu soon had no option but to switch to other forms of attack.
+
+Zac had first tried to fight fire with fire. Even if his blitz failed, he’d expected a display of violence would give his attacker second thought. It didn’t. Zac had perfectly experienced what the Kan’Tanu warslaves felt when facing the Atwood Army and its vastly superior resources. Kaltosa Lu’s pockets were simply bottomless. No matter how many arrays Zac destroyed, new ones would soon replace them.
+
+However, the elemental’s true terror came from his adaptability. His arrays possessed similar traits as [Primal Edict]. Whenever an attack or barrier proved inefficient, something better would appear within minutes. It wasn’t like the dynamic frequency lasers on his Creator Vessels. Zac had witnessed streams of array disks pour into one Spatial Gate and emerge as altered versions from another.
+
+Kaltosa Lu was able to redraw his arrays while hounding Zac half to death. Zac wouldn’t be surprised if the elemental's class was called Spatial Recycler. Even the array disks Zac destroyed were resorbed and patched up. Only their energy would have to be replaced, and someone like Kaltosa Lu wouldn’t lack Cosmic Crystals.
+
+The best way to deal with an Array Master was the same as a Beastmaster. You targeted the controller and not his tools. Naturally, such cultivators had ample experience dealing with that tactic. Kaltosa Lu had adopted a cautious approach the first hours of his pursuit, testing various illusion arrays until finding one that perfectly eluded Zac’s senses. Zac hadn’t seen him since.
+
+Even if Zac found him, what was he supposed to do? Kaltosa Lu was even scarier than the reports, whether from gains during the trial or exploding with accumulated momentum just before the trial. His Array-related Earthly Dao had reached Late Stage, with the other three only a step below. The former was enough to suppress Zac’s Inexorable Daos on its own, and the elemental’s control was almost at Iz’s level.
+
+The Dao Braids Zac created with his molds looked like a joke before the Dao Arrays Kaltosa Lu used to empower his Array Skills. Zac’s only hope of victory was creating an opportunity with the Void, but Zac never felt confident pulling the gun. The same tactic had failed against the much weaker Yselio Tobrial, and Zac had no breakthrough to weaponize this time. Enduring and escaping had proven the correct choice.
+
+“I suppose your candidacy isn’t entirely without reason, homewrecker.”
+
+“God damned lunatic,” Zac spat without missing a beat.
+
+Kaltosa Lu had stepped into the Transformation Docks right on his heels. The six-armed elemental had a humanoid appearance, though Zac couldn’t tell if that was its true form. Rather than possessing flesh, he looked like a trapped storm of ancient energies. The chaotic currents were centered around six moving nuclei.
+
+Zac guessed they were the true core of the elemental, but whether they could be considered a weakness was impossible to say. They could be like an Izh’Rak Reaver’s Warbones, far sturdier than the rest of their body. Kaltosa Lu’s storm was perfectly contained, and his arrival didn’t prompt the same response as Zac’s. Dressed in spotless blue robes, he became another guest of the transformation Docks.
+
+There was a second humanoid elemental by Kaltosa Lu’s side, someone Zac hadn’t seen before. His aura was reminiscent of Triv’s, the ghost butler, except this attendant was stronger than any of his subordinates. While not quite at Kator’s level, he emitted a vague sense of danger. Instead of showing animosity, the butler seemed mostly curious about the man who escaped his master’s grasp.
+
+“I’ll take that as a compliment. Many say the same thing about my fiancée’s family,” Kaltosa Lu laughed, seeming genuinely pleased with Zac’s assessment. “Newborn fireseeds look at the sky and think the stars crazy for hurtling through the cold emptiness of space. Few can understand the vantage of those pursuing the Grand Dao.”
+
+“Then I hope you get to see your fiancée soon,” Zac scoffed.
+
+Kaltosa Lu nodded with satisfaction. “You’re too kind. Seeing you up close, you’re surprisingly ugly—even for a being limited by flesh. I thought your kind was supposed to be endowed with natural blessings?”
+
+“What the fu—” Zac reined in his outburst upon hearing the following words.
+
+“I realize now I was mistaken. Someone like you cannot possibly be a threat to my Royal Harem. They say exchanging blows is the first step to friendship. Since we’re both here, there might be an opportunity for further cooperation,” Kaltosa Lu turned to his attendant. “Ambassador Lompo, would you do the honors?“
+
+Zac frowned and readied himself for an ambush as the attendant approached. A deathsworn wouldn’t care about the defenses or patrolling guards, and Kaltosa Lu’s right-hand man might very well have something similar to Sendor’s brands. Then again, a deathsworn wouldn’t look so embarrassed.
+
+“It was our pleasure making your acquaintance, Master Umbri’Zi. We do apologize about the misunderstanding,” Lompo said with a strained cough as a patterned Cosmos Sack floated over. “The Centigrade Constellation is sincere in all its dealings, honoring agreements and offering market-leading rates. If Master Umbri’Zi can assist the Prince during his outing, we will be happy to provide further compensation.”
+
+Zac didn’t accept the Cosmos Sack. Instead, he released some Miasma and Killing Intent around the Spatial Treasure, prompting a return of the powerful perceptions. They repeatedly scanned Zac and the floating Cosmos Sack before retreating again. A displeased snort shook Zac’s mind, warning him not to do such a thing again. Zac bowed toward the domain’s inner region before accepting the bag.
+
+Since it wasn’t dangerous, why wouldn’t he? Zac had seen just how rich the Centigrade Pryer’s descendant was. Of course, some baubles weren’t enough to resolve the grudge. This was the second time the Centigrade Constellation had targeted him, the first being the tracker snuck onto the Yphelion. If the opportunity presented itself, Zac would certainly return the favor.
+
+“We should go,” Kaltosa Lu said with some annoyance. “We wasted over a week on this little diversion. It’s embarrassing enough we didn’t trigger the court’s awakening. Any further delays will make me look incompetent to my wives.”
+
+“Performing the reversals of fate is the job of the Realmsingers. Young Master had more important matters to worry about,” the butler quickly praised. “Young Master's epistolatory epic is coming along nicely.”
+
+“You’re right! Lompo, hear my decree!”
+
+“I hear and obey.”
+
+“You are hereby promoted to… Uh, let’s go with Master of Ceremony.”
+
+“Young Master is too kind,” Lompo said with what was almost certainly long-suffering indulgence.
+
+“Still, we need to leave our mark to maintain our prestige,” Kaltosa said just as they stepped through the memory domain, leaving the Transformation Docks without giving it a second look.
+
+A regal ship formed beneath their feet, and they flew off into the horizon, leaving a flummoxed Zac behind. He looked down at the Cosmos Sack and moved to the memory domain’s edge.
+
+Standing at the border, Zac finally got a proper look at the flickering buildings outside. It was a complete city, barring the lack of people. The scope was completely different from the scattered structures that started appearing over the past week. Zac still couldn’t tell if they were real or illusory or whether they were projections of the present or memories of the past.
+
+The first signs appeared when the Daedalian court gained its first halo. It began as some dancing lights clumped around the memory domains and the Imperial Road, and more appeared with every awakening. Furthermore, the other eight courts combined couldn’t compare to the change brought by the two newly added halos on the Mercurial Court. It was only after their appearance the lights gained tangible shape.
+
+Interestingly, the continent’s outer layer, where his human side remained, looked the same. The effect of the halos was far more pronounced on the hidden regions surrounding the courts. Esmeralda had suggested the buildings were projections bleeding through from an even deeper spatial layer. She theorized the Left Imperial Expanse was built like an onion, with countless isolating layers that protected an incredible secret.
+
+Zac shook his head, returning his focus to the Cosmos Sack. The guardians didn’t consider it a danger, but that wasn’t enough of a guarantee. Zac moved the bag right next to the barrier, and he was ready to throw it out if it showed any hint of danger. That way, it wouldn’t matter if it held a Spatial Bomb powerful enough to create a black hole.
+
+There was no bomb or sinister poison hidden inside. The wealth waiting for him was possibly more shocking.

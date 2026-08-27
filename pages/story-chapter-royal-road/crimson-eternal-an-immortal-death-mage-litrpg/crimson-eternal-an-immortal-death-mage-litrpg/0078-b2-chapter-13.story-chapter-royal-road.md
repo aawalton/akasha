@@ -1,0 +1,137 @@
+---
+id: df86d494-aa79-5ef4-b50c-83555832e9ed
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 13"
+slug: 0078-b2-chapter-13
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 78
+ownLength: 1489
+unit: words
+ownProgress: 1489
+publishedAt: 2024-02-02
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1503314/b2-chapter-13"
+royalRoadId: "1503314"
+markedReadAt: "2026-06-29T19:08:35.467Z"
+---
+
+Aria
+
+While we head along the coast on a boat, I lie in the back of the ship – one made out of wood, which is making me wonder if the people here just like wood or something – practicing infusing my soul energy into weapons and the like. A process that is actually rather easy and hard at the same time.
+
+It’s easy to infuse soul energy into something, but it’s hard to make it stay in said something after it’s no longer making contact with my body. Although it doesn’t have to be bare skin that it’s making contact with.
+
+Whatever object I infused the soul energy into just wants to dissipate or return to me after it’s no longer touching me. A rather annoying trait that I’ve been trying to get rid of or find a work around with very little success.
+
+The soul energy just doesn’t want to do it.
+
+It’s not an immediate process though, so bullets still work perfectly fine to infuse. Seeing as the bullets are fired so quickly out of the gun to strike their target that it doesn’t have the time to dissipate.
+
+But if my current plan for taking down the outpost is going to succeed, I was really hoping to have this down before making it there.
+
+Then again, I still have a few days before we arrive. So I guess it’s fine. For now at least.
+
+Something I find rather interesting about the outside universe is that necromancy is actually allowed pretty much anywhere. The only place I’ve ever seen it banned was on Vortel, in Albaria. So I haven’t gotten a single look in regard to my Death Spirits.
+
+Well, other than the confused look people would give me for apparently ‘not expecting someone like me to be a necromancer’ because they apparently tend to look dark, evil, and crooked. Even if they aren’t all dark, evil, and crooked.
+
+Guess some classes just kinda look the part.
+
+Come to think of it, I wonder if my white hair has some relation to my class? I know my parents also had white hair and crimson eyes, and so did my brother, but they were able to dye their hair.
+
+I can’t.
+
+Whenever I tried, the white would just return right away, making the dye vanish with the usual crimson energy.
+
+Which is the reason I haven’t dyed my hair to help disguise myself.
+
+Maybe it’s something to do with my class?
+
+Then again, I know my body is just odd compared to most people. There are definitely things going on with it that others don’t have. Or rather, things others have that I don’t.
+
+The need to eat, sleep, or breathe for example. Cycles, muscle soreness, growth pains, sickness, negative effects on my body by stress or anxiety, and so on.
+
+I don’t have any of it.
+
+Never really bothered me though. Not a single one of those.
+
+Actually prefer it this way. Although I’m not sure if that’s because I’ve always been like this so nothing seems wrong to me or what.
+
+I let out a sigh as I continue trying to figure out how to work with this soul energy more efficiently through infusing it into a rubber ball that I bounce into the air. But after several minutes of doing so, I pause, noticing something strange.
+
+Or, rather, one of my little skeleton friends at the bottom of the water near the coast noticed something odd. I can sense it through my bond.
+
+Not sure what exactly is wrong though. Just that something is.
+
+Most likely that means some sort of attack. Either that of the enemy or just bandits.
+
+So I let out another sigh and grab the rubber ball glowing with crimson energy before reabsorbing the energy and putting it in my storage ring. Then I get up while stretching a little.
+
+It’s too bad the Lesser Minor Death Spirits aren’t all that good at scouting. The only thing I ever get from them is a vague sensation through the bond. It’s like all they can do is poke at our bond to warn me of something. But nothing more.
+
+I do wonder if the next skill I’ll get might let me summon stronger Death Spirits. But that’s something to think about later.
+
+After stretching – something I really didn’t need to do but felt like doing anyways – I leave the little room at the back of the small ship before walking around the central building of the ship. Then I tap on the window of the building where the guide is.
+
+The guide is a short man – same height as most of the other men on this planet – with a shorter beard than average amongst the lukians and brown hair. He is also supposedly twice my age, and his level is level forty-six.
+
+“What is it, lass?” he asks, using that same ‘lass’ term a lot of people on this planet seem to use.
+
+I open my mouth to respond, only for a gunshot to echo out, followed by a slightly warm sensation in the back of my head leading me to lean forwards until it heals again moments later, and I catch myself with a stomp on the deck. Then I look at him again and answer, “Bandits.”
+
+He stares in shock.
+
+I ignore his stare as I pull out the lovely sniper rifle that I was given by the equally lovely weaponsmiths before turning around and aiming where I saw the bullet fired from through the reflection of the window. And within seconds, I find a man aiming a more outdated rifle at me with his jaw dropped open, his finger not even on the trigger.
+
+When he sees me aiming at him though, he quickly begins to move his hand back on the trigger.
+
+But it’s too late as I shoot him through the brain.
+
+These things are so much easier to aim than the old rifles we had back on Vortel.
+
+Anyways, I look around the surroundings for more bandits, only to end up finding one right as a fireball is flying straight at me. And in order to save my precious new rifle, I store it in my storage ring the instant before the fireball hits me.
+
+The only thing I can really think as it’s hitting me though is a rather simple thought.
+
+Guess fireballs are a universal thing after all. Just every world has to have them.
+
+Once the fireball is done doing its burning thing, I take my rifle out again and look back through the scope at the guy who sent the fireball in the first place. Just to find them sending more.
+
+Excuse me, could you please not try to destroy my rifle? I didn’t exactly pay for it, but I’m sure it was expensive.
+
+Probably.
+
+Actually, if it gets damaged, will they give me a new one?
+
+Probably.
+
+They better.
+
+I quickly shoot the fire mage in the head before sending my rifle back into my storage ring again as the fireballs are about to strike me. Because priorities.
+
+The fireballs do their thing, blowing up some of the deck along with me until the flames die out and I summon my rifle again to look out for more bandits. And I do actually find a few more, but they’re all running away. Fast. And terrified.
+
+It’s also only at this point that I realize these bandits are all around level fifty.
+
+Mostly because I let the System updates pass through now that the others are running out of my sight.
+
+[User has killed one being of Level 51. Requirements to reach level 13 have been updated. New requirements are as follows: 103/30000 beings have been granted Death.]
+
+[User has killed one being of Level 50. Requirements to reach level 13 have been updated. New requirements are as follows: 104/30000 beings have been granted Death.]
+
+Their actual numbers above their heads were too far for me to read, but this works.
+
+Anyways, they’ve run too far for me to catch up. So I turn to look at my guide, only to find the man holding his chest while breathing heavily. As if he were trying to calm himself down.
+
+When I walk into the cabin of the ship though, he just raises his head and gives me that same shocked look as before.
+
+I nod my head and state, “Well, killed two bandits. But three more got away. Should I chase them or is it fine to leave them be?”
+
+He just keeps staring, his gaze occasionally shifting to my head where I was shot, then at the rest of my body where the fireballs lands.
+
+An entire minute passes by like this before I snap my fingers and repeat, “Hello?”
+
+I think I broke him.
+
+Or I guess the bandits did.
+
+Yeah, I’ll blame the bandits.

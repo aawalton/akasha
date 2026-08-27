@@ -1,0 +1,153 @@
+---
+id: c313fe8e-a615-5d3e-a628-2ed644ec3a10
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 36"
+slug: 0106-b2-chapter-36
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 106
+ownLength: 1624
+unit: words
+ownProgress: 1624
+publishedAt: 2024-02-18
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1523223/b2-chapter-36"
+royalRoadId: "1523223"
+markedReadAt: "2026-06-29T19:09:32.774Z"
+---
+
+Aria
+
+Unfortunately, by the time I make it to the coastal fortress, the enemies have already withdrawn. Which leaves me feeling rather awkward as I stand amongst the council members as they give out orders.
+
+From what I hear, it sounds like the Byrne Clan forces were actually losing here. Meanwhile the forces on the waters were about even. In a deadlock.
+
+Of course, the third hearth had pulled back from the barrier fortress, and the barrier fortress had the barrier set up. So they ended up just barely winning against the barrier fortress forces, even if they didn’t manage to break the barrier’s core. Which was probably the goal of their assault in the first place there.
+
+And the fourth hearth is currently spending a nice vacation inside of a jail cell.
+
+All in all, it sounds like the war has brought things down to a much more even level. In terms of forces.
+
+So the war isn’t over just yet.
+
+Flachra Byrne – a rather large albeit short woman who happens to be the commander at this fortress and seems to have taken a shine to me for some reason – told me that she estimates the enemies to have around thirty-nine or so thousand soldiers left. Meanwhile our own forces are estimated to be a total of thirty-eight thousand remaining.
+
+Of course, that’s thirty-nine thousand of their soldiers that they still have under their control, since we captured quite the number of enemy soldiers before they were made prisoners of war. Meanwhile on our side, the enemies didn’t manage to capture a single soldier. Not even a single thrall.
+
+Which is good on the political side of things, since it means they don’t have anything to hold over the Clan Leader’s head. Although I’m sure the Clan Leader must be grieving over his lost men. He certainly looked like he was in a bad mood.
+
+Despite the fact that we did come out of this on top, even if they still have just a small amount more forces than we have.
+
+Simply because we’re the defenders. We have better weaponry. And they used up quite a bit of their weapons during the assaults, which doesn’t leave them with all that much afterwards.
+
+So while they may have a small amount more forces than we do, they’re by no means in the high ground in this war.
+
+I let out a sigh before leaving the meeting room where the council members are. Then I head out to the walls of the fortress, where I sit down on the edge of the wall overlooking the ocean with my legs hanging out over the side.
+
+Right now, if it weren’t for the Class S Ability Holder situation, the war would be looking pretty even. But since our Class S Ability Holders outnumber theirs, things are different.
+
+Although right now all of the Class S Ability Holders are pretty much out of commission.
+
+Sean taxed himself defending the base from Aisling’s rampage. He also says Aisling will be out of commission for a while due to using some sort of supercharge potion that grants enormous benefits at a cost.
+
+Rory herself collapsed soon after helping Sean send Aisling running, her arms freezing in some sort of black ice that the healers mentioned was probably some sort of delayed skill used by Aisling in their previous battle. Very delayed considering that she had undergone an entire battle after that.
+
+Despite Flachra’s participation in the meeting down there, she’s sitting there with two broken arms and a broken leg in a wheelchair, having gone all out against the Class S mage that the Sullivan Clan has. Even if she managed to beat him and actually capture the guy.
+
+And apparently, according to Rory who won’t say how this happened, the third Class S of the Sullivan Clan decided to simply leave their Clan and the war behind. Although she had some weird shivering problem when she was talking about it. Like she was gonna say something else but changed at the last minute.
+
+Which was rather weird.
+
+I let out a sigh while lying down on my back, my legs still dangling over the edge of the wall.
+
+All of this leaves the last Class S on the Byrne Clan’s side, not including myself.
+
+A Class S who won’t be fighting since he’s a healer.
+
+And it’ll take months for everyone to return to their full health and be ready to fight again.
+
+Especially Rory, who is still in critical condition because of that black ice.
+
+So at the end of the day, I can see this war lasting for at least a year or two longer despite the results of this battle.
+
+Both sides are bound to take things slow now after so many critical losses. And the Byrne Clan really isn’t in the position to go on the offensive. Not until our Class S Ability Holders are put back onto the board again.
+
+Well, one way or another, I’m contracted for two years. So I’ll just see how things go as they go.
+
+My thoughts come to a halt when I feel a connection establishing through my communication ring – the one they gave me after the battle.
+
+‘Aria, ya will have another week off ta recover or hunt before yer next mission will begin,’ Sean immediately says, not even so much as saying hello.
+
+Oh. Nice.
+
+More hunting time.
+
+‘Understood,’ I respond, short and simple.
+
+Then the connection fades again, leaving me staring up at the sky – one that still has some smoke from the battle – before I sigh again.
+
+I have to wonder… why all the bloodshed? They do realize that the most likely result of all of these battles is going to be the same no matter what? That it all really just depends on the whims of the Gallagher Clan?
+
+After all, if they call War here, everything is over.
+
+None of the Clans stand a chance against War.
+
+The only thing stopping them from doing that right now is the fact that War would no doubt subordinate them just like the other Clans, giving all of the Clans the same treatment.
+
+Treating them as nothing but pawns to create weapons for him to further expand his eternal conquest.
+
+At least, that’s what the internet makes him sound like he would do.
+
+I’ve never met him, so I don’t know what he’d do exactly.
+
+Although, now that I think about it… would Shirou stand up for the Byrne Clan against War? I guess I could see him taking in the Byrne Clan if War is called.
+
+I can’t see him helping them in a war though. He just doesn’t do that sort of thing.
+
+But helping take them in would be a massive benefit to him.
+
+Actually, yeah, I can easily see him doing that.
+
+Sean would never capitulate to falling under his control just due to another Clan’s attack though, which is why he’s helping indirectly with this attack. But for War…
+
+My eyes widen as I think I finally understand what Shirou is trying to do.
+
+Damn, that guy has to have some sort of premonition power…
+
+He makes a deal with the Byrne Clan setting me up with them, getting in both our favors. I help them win the war. Then War comes and they’re forced into a corner before they finally decide to join the Dynasty, entering Eternus and abandoning Luk’tar. All because they think of Shirou a bit more favorably because he helped them with the last war.
+
+Of course, I could be wrong about all of that, but I doubt it.
+
+Even if Shirou’s helping his friend to help his friend, I know he’s thinking about the benefits too.
+
+It’s just who he is as I’ve come to understand him.
+
+I let out a sigh at that thought before sitting up and then climbing to my feet.
+
+Well, whatever.
+
+None of that is really my problem.
+
+What is my problem right now though is finding a spatial mage to send me back to the Grand Tree for some more hunting.
+
+Because I’m not traveling that far and back during a single week.
+
+It would waste most of the hunting time I was just given.
+
+The Byrne Clan Capital
+
+Arlan appears in a wave of shadows inside of the Gate immigration building, uncaring about the alarms he sets off as the guards spill into the room. Then the shadows cover him again and he reappears in front of the Gate itself.
+
+He glances at the guards with a laid back expression on his face before waving at them with a single hand, his other hand still in his pocket, and walking through the Gate, entering the Eternal Dynasty. And just as quickly as he appears, he is covered by another wave of shadows and teleports out of the immigration building, using his pass with the Eternal Dynasty allowing him access to every Gate on the planet to bypass any alarms.
+
+Then he proceeds to teleport through the Gate district until he arrives at one Gate in particular.
+
+The Gate leading to the Rex Dynasty of the Dead.
+
+Which is also the least busy Gate out of all of the Gates in the district, with the only people passing through being merchants dealing with the Dynasty.
+
+Arlan pauses in front of the immigration building as he thinks of the words the Crimson Empire’s denizen told him.
+
+And after only a brief hesitation, he lets out a sigh and passes normally through the immigration building, and then through the Gate.
+
+Entering the capital world of the Dynasty, Rex.
+
+Guess I’m going home sooner than I thought.

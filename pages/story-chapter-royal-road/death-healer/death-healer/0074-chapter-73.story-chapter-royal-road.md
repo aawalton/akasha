@@ -1,0 +1,157 @@
+---
+id: 61219a84-05f2-51bf-8ae3-9e045cae8ad8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 73"
+slug: 0074-chapter-73
+partOf: death-healer
+position: 74
+ownLength: 1864
+unit: words
+publishedAt: 2025-09-27
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2634005/chapter-73"
+royalRoadId: "2634005"
+---
+
+“Your Class is [Death Healer]. Normally, you would receive mostly active Skills, but the System has found that your Skills are already mostly active. Therefore, only three will be Active. The rest are Passive abilities. Let me explain the Skills now.
+
+“For the first Passive, you will receive [Black and White Lightning].”
+
+“Thunder?” Lily frowned.
+
+“You achieved such Mana density that it will manifest in the form of Thunder when you wish for it to be. It’s different from the Lightning Affinity. In your world’s terms, it’s closer to your Mana becoming like plasma. It’ll be extremely destructive.”
+
+“This sounds like an Active Skill, though?”
+
+The book levitated in front of her for a moment.
+
+“Technically, you will simply expend more Mana. The Skill facilitates this passage. That makes it a Passive.”
+
+“I’m not convinced.”
+
+“Thankfully you’re not a sacred book ordained by the System, then.” The book seemed put out by the fact that Lily was questioning its judgment.
+
+“Sorry, sorry. It sounds very cool, though. What’s the next?”
+
+“The next is [Reborn in Life and Death]. This Skill allows your body to wield both powers at once without the magic clashing.”
+
+Lily was confused. The book continued, undeterred.
+
+“What you experience when you use Coniunctionis, Liliana Claudia—the damage you experience—that is part of the recoil that your body takes when two incompatible magics try to fuse with each other. All magic is partially incompatible—to an extent. Except for combining two magics of the same kind, like Light with Light or Darkness with Darkness. It’s quite common for one to receive a Skill that mitigates that effect when mixing two different Affinities. What’s less normal is the degree of compatibility that develops afterwards. This might very well be the most powerful Skill you’ve got at the moment. This will be the cornerstone of many Skills that you’ll use in the future. You have combined Life and Death in more than one Skill now, therefore, you’ll soon see the magnifying effects of [Reborn in Life and Death].”
+
+“Oh,” Lily’s eyes went wide. This meant that not only Coniunctionis was going to be affected by this, but also [Lux Vitae Overdrive].
+
+“I see that you’re starting to understand the magnitude of the Skill,” the book continued, its tone satisfied. “Now, for the third passive, you have received a peculiar one: [The Vitruvian Body]. The term seems to originate from your world—this means the System has just created a new Skill, an event whose rarity is almost impossible to describe.”
+
+“What does it do?”
+
+“[The Vitruvian Body] is an offshoot of the fact that mixing Light and Darkness creates Balance. It’s the first Skill that actually reflects your Class’s Affinity. [The Vitruvian Body] allows your flesh, your muscles—every single bit of you that can move—to seamlessly coordinate with each other. In medical terms: everything gets a massive boost. From the motor units in your muscles to your nerve-firing velocity. Your body simply works better. You’re not tougher, apparently, like a [Templar] would usually become as soon as they get the Class, but you’re going to be… better. Better at everything. Moving. Thinking. Even just standing. Your body will undergo a qualitative change like no other. Congratulations.”
+
+The Vitruvian Man was something Leonardo DaVinci came up with when finding the perfect proportions of a human. It made sense that such a Skill would be named after it. In her past life, Lily had been a huge fan of the man, the inventor, the artist.
+
+“The System seems to have blessed you with something even greater,” the book sighed, sounding almost disappointed. “This is the kind of Skill one doesn’t see often early in a Class progression. Usually, you’d have to spend many, many years grinding out your Skills, unlocking the Class Tree. But, the System always knows better, doesn’t it?”
+
+“What is it?” Lily frowned.
+
+“The Skill is called [Fallen Angel’s Wings]. You have unlocked wings. You won’t need to use Mana to fly. Well, technically the Skill does consume Mana but this is no [Levitation], no [Fly]. This is a Skill beyond what many can ever hope to receive. You’ll sprout wings when using it. They’ll consume far less Mana than the Skills I just mentioned. And, as you evolve your Class and your Skills, they’ll acquire more effects. Unlock more of the Class Tree to know what it does.”
+
+Lily’s eyes sparkled. She had always loved the idea of flying. But only people above Level 200 could normally fly.
+
+“That’s great,” she said, beaming.
+
+“It is,” the book nodded by moving up and down. “For your second Active Skill, you receive [The Phoenix’s Blessing].”
+
+“Huh?” Lily frowned. “What does that have to do with my Class?”
+
+“A Phoenix? With Life and Death?” the book sighed. “What Affinity do you think Phoenixes benefit from?”
+
+“Huh,” Lily thought. “Balance I guess?”
+
+“Very smart, Liliana Claudia. Very smart,” the book sounded exhausted from dealing with her. “[The Phoenix’s Blessing] is a once a day spell that cannot level up. It will restore any damage your body has taken using the magic of the Phoenix.”
+
+The book stopped talking for a second.
+
+“Something wrong?” Lily asked, worried.
+
+“The System truly is giving out too much this time… ah, well. We’re at your last Skill now. This is the Skill that transcends Life and Death, Light and Darkness. This is the Skill that begets Individuation. This is a Skill that you receive not because its Affinity is related to your Class, but because of all your achievements, Perks, knowledge, and feats. This is the strongest Skill you’ve seen today.”
+
+“What is it?”
+
+“It is called [Veins of Gold]. This is a Constitution, Active Skill. You have to activate this Skill for it to take effect, and it will drink much of your Mana and Vitality. At the same time, it will temporarily transform your body. It essentially negates side-effects from all your other Skills. While [Reborn in Life and Death] cancels out the devastating effects of mixing Life and Death in Skills like [Coniunctionis], [Veins of Gold] will change the attunement of your body. Your body will temporarily become so powerful that [Lux Vitae Overdrive], for example, will drink from the Skill itself. It nourishes not just your power, but whatever exacts a cost from you. This is among the greatest of Skills that I’ve ever distributed, Liliana Claudia. Use it wisely.” The book ruffled proudly and then opened another page. “As for the Attributes, this is what you’ll be starting with given your progress.
+
+**[Name: Liliana Claudia] Class: [Death Healer] - Level 1 Attributes Strength: 35 Dexterity: 35 Vitality: 35 Intelligence: 35 Wisdom: 35 Mana Pool: 35
+
+The Class will provide +5 Attributes per each Attribute for each level you’ll get. No Free Attributes.” The book finished reading her stats and finally closed.
+
+Lily raised her eyebrows. That was a total of thirty Attributes per level. She knew that the best Classes would provide a little less than twenty, or twenty for the best of the best. This Class was just… insane. True, the distribution was perhaps not skewed toward a precise Attribute, making the Class Attributes slightly weaker than, say, a [Templar], who might get +10 on Strength or Vitality alone. But it also made her the well-rounded fighter she’d always wanted to be.
+
+“Now, you can wake up.”
+
+* * *
+
+Lily opened her eyes and found herself in the bedroom of the villa from the Gens Claudia in the Dead Lands. She got up with a start and looked around.
+
+A moment later, she saw the spectral body of Claudia appearing from the pavement.
+
+“You have received your Class, I see. And… it’s powerful.”
+
+“Is Sabinus ok?” It was the first thing that Lily could think to say.
+
+“He is. Let’s go. You’re ready now.”
+
+Lily started following Claudia, who walked toward a pair of stairs she had never seen in her own house, which apparently led to the basement.
+
+“Can I ask something?” Lily said, a sudden realization occurring to her. “I’ve gotten a Skill that makes it easier for me to learn Necromancy. But… how would you guys make sure that people didn’t get infected while you were all working alongside the Undead?”
+
+“Infected?” Claudia asked, confused. “What do you mean?”
+
+“Infected? As in, when an Undead scratches you, you turn into an Undead yourself.”
+
+Claudia’s semi-translucent body became very stiff.
+
+“WHAT?!”
+
+They had to stop from going down because Lily had to explain how Undead worked and every word seemed to stun the original Matriarch of the Gens Claudia to speechlessness.
+
+“This is impossible. I’ve never heard of this. The Undead generate Death Magic. They were never… What’s the word you used?”
+
+“Contagious?” Lily said.
+
+“Yes, contagious. This is not how Necromancy is supposed to work. Your body might rise if you leave it long enough around Death Magic, but this… turning the living? This sounds like powerful, very powerful Death Magic.”
+
+And that’s how Lily found yet another mystery to solve.
+
+Who had engineered the Undead in order for them to be able to spawn more just by contact? She had to find out. And who was better suited for the job than her?
+
+It might be just a flesh-eating super-infection, especially if the Undead are connected to that pathogen I found on Earth before the end of the world began.
+
+But now, it did not matter.
+
+“Let me save Sabinus, first. I’ll take care of the rest later.”
+
+* * *
+
+Lily was led several floors below the main floor, until they were so far down that Claudia cast several [Light] spells herself in order to illuminate the path.
+
+“This is a crypt. This is where we used to keep our loved ones in case we ever needed to raise them.”
+
+“You’d raise your own family?” Lily frowned.
+
+“Only if something threatened the Church of Light and Darkness. When we fought Octavia, I tried raising them all, but it wasn’t enough, sadly.”
+
+Lily kept hearing of this Octavia and she wondered about her.
+
+Does she have anything to do with the Necromonarch? Could she have created the Necromonarch?
+
+“Could this Octavia be still alive?” Lily asked.
+
+Claudia shook her head.
+
+“A mortal is still a mortal, no matter how high-leveled. She would be long dead, dust, even. She might, however, have created this Necromonarch you speak of. If there were anyone capable of turning Undead in these terrible creatures you speak of, it was definitely her. But I wouldn’t exclude the possibility that someone else might have been involved, Liliana.”
+
+Finally, as they reached the bottom, she saw Sabinus on a large stone altar, bound by spectral chains.
+
+Beside him, the Death Knight simply stood and waited.
+
+“What’s happening?” Lily asked.
+
+“The Death Knight’s directives are simple. Protect the place, restore the enchantments if they ever run out. Use enemies if needed. You were not attacked because you have my blood flowing in your veins. He recognizes you as my descendant. But you’ll have to bind the projection if you want to free your friend. Now that you have an aptitude for Necromancy, you can learn your first Spell: [Soul Attunement].”

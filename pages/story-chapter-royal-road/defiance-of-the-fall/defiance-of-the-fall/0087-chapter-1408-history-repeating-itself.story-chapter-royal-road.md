@@ -1,0 +1,155 @@
+---
+id: 2af4a39b-7234-5829-91ac-fe6bec1e7986
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,408 - History Repeating Itself"
+slug: 0087-chapter-1408-history-repeating-itself
+partOf: defiance-of-the-fall
+position: 87
+ownLength: 2989
+unit: words
+publishedAt: 2026-03-08
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3130476/chapter-1408-history-repeating-itself"
+royalRoadId: "3130476"
+---
+
+Zac found himself returning to his seat. Any inside information about the Ultom Courts was priceless. Even if he didn’t end up using it for himself, weren’t there a bunch of highly motivated and exceedingly rich Flamebearers willing to buy the information? Problem was, Zac had a good idea what Astora wanted in return for the information. Still, he’d regret it if he didn’t at least try.
+
+“Descartes did mention that word before,” Zac slowly said. “Unfortunately, he didn’t get the chance to explain much.”
+
+“We’ll never get anywhere if you insist on pretending. There are no fools among those chosen,” Astora scoffed as her hand lit up with vast amounts of Imperial Faith. “Remember this?”
+
+“How could I forget? I didn’t bring it up because I feared I’d failed Your Highness’s great expectations of me,” Zac said with an eager expression.
+
+During their last meeting, Astora had declared that her family could wield some of the Limitless Empire’s providence. Not only that, she was able to use that power to impart a blessing to one more helper. His trip to the Peregrine Archipelago was partly a test to prove his mettle. Zac believed he should have passed with flying colors by thwarting a major plot and awakening Sevona.
+
+Adding the fact that the soldier of the Arcana Division had been killed by Descartes on the island, that blessing should be in the bag. Nevertheless, Zac never raised the issue upon meeting the princess again. Frankly, he wasn’t sure he needed it any longer. They’d wanted the blessing to connect with the Mercurial Court’s threads of fate, but Idiche’s vision proved they’d already accrued enough achievements to get their hands on [Second Singularity].
+
+Getting further embroiled with Astora Theomore at this point risked adding unnecessary variables to their plans. Not to mention, Zac was especially hesitant about accepting any more blessings from the Limitless Empire after accepting something similar just hours ago. He was afraid he’d end up a devout follower of the old Emperor if he didn’t rein himself in.
+
+“If anything, you performed too well. Well enough that I can’t help but find it suspicious,” Astora said. “The threat here was far greater than we anticipated. You forced a Late-step Celestial into retreat, and the whole Archipelago would be teeming with corrupted invaders already if not for you. And you even took out the chosen challenger of the Belial Tribe."
+
+“As I said, that was—"
+
+“A mysterious Centigrade Elemental no one else has either encountered or seen. The one who stole the [Fatesiphon Seal],” Astora nodded. “I remember.”
+
+‘Fatesiphon Seal? That explains why Kaltosa Lu targeted my left hand,’ Zac thought to himself, suddenly thanking his lucky stars it fell into the Elemental’s hands.
+
+As suspicious as Astora Theomore was of his identity and motives, she at least didn’t seem to notice Zac’s status as a fellow Flamebearer. Seeing as Descartes noticed straight away, the [Fatesiphon Seal] was the most likely culprit. It probably had the capacity to sense Sealbearers in its vicinity, like the hidden tracker on the Yphelion or the treasures Valsa Planur used to hunt Sealbearers in the Perennial Vastness.
+
+“If Your Highness feels I am unworthy, then I can only continue to work hard in your service,” Zac said. “Now, the thing you said about Ultom?”
+
+Astora answered Zac’s question with one of her own. “Do you know what your Realmsinger Seal represents?”
+
+“That I have some fate with the Mercurial Court,” Zac shrugged.
+
+“No. It represents a Karmic Link to Ultom. With its Mercurial Domain, to be specific,” Astora said.
+
+“What did you just say?” Zac said as the table before him groaned from an inadvertent release of his strength.
+
+“An Epoch-defining inheritance trial is about to commence for this Era’s Flamebearers and their Cycle of Protectors. Except, the Empire required those Karmic Links for another purpose. Adhering to the principle of balance, the Theomore Dynasty presented you Sealbearers with something of Equivalent Value instead,” Astora calmly explained, acting like her words didn’t hold such explosive secrets that Zac was left reeling.
+
+“That’s the real reason why you opened the courts to outsiders?” Zac said, knowing he shouldn’t be surprised. No ancient faction was needlessly generous, least of all the Limitless Empire. “So, us lowly mortals won’t have the opportunity to visit Ultom ourselves?”
+
+Zac had always wondered why the Sealbearers of the Outer Courts were called things such as Soultaker or Skypiercer of Ultom, despite only Flamebearers being chosen for the Flameseeking trial. It turned out they were actually supposed to enter the Ultom Courts instead of the Outer Courts. There were even domains with matching names waiting inside.
+
+As to why the Empire needed those Karmic Links, it wasn’t hard to guess. Ultom’s Eternal Heritage was the core of the Fifth Pillar, and the Karmic Links were part of integrating it with the Grand Array. Furthermore, the Theomore Dynasty brought all the Sealbearers to the Outer Courts instead of directly sending equivalent rewards to their factions. Their presence was probably part of the plan, turning the Sealbearers into unwitting bridges between Ultom and the Outer Courts.
+
+It was at that moment a hesitant voice entered Zac’s mind, triggering another storm. ‘Isn’t this our exact situation?’
+
+Esmeralda was right. The trial that brought Zac and all the others to the Left Imperial Expanse was identical to the Theomore Dynasty’s Karmic transfer back in the day. Instead of being sent into the Mercurial and Hollow Domains inside Ultom, they were allowed to seize opportunities inside memories. They were even being led to the same locations as the ancient Sealbearers of the previous Flameseeking trial.
+
+The System or the Limitless Empire was once more siphoning off the Karmic Links of Ultom for a massive, Heaven-defying project. The notion that the Limitless Empire might actually emerge from the path to reclaim its place in the Multiverse was starting to feel increasingly real.
+
+“I’m sorry, what was that?” Zac said with a hoarse voice, realizing he’d missed something.
+
+“As I said, our solution isn’t without issues. For one, our family exhausted much of our Karma with Ultom. Secondly, forcing a transfer of destiny created an opening for the other families. The qualifications of my siblings are no longer secure, so to speak,” Astora said.
+
+“What does this have to do with me?” Zac asked. “I’m not too happy about having my opportunity taken from me, but I won’t complain if it’s in the Empire’s interests. I also know the Theomore Dynasty hasn’t shortchanged us by opening the courts.”
+
+“My blessing is not only a way to augment your Destiny. It will mark you as a member of my cycle and restore your link to Ultom. You would join me in my competition with my siblings or the outsiders who siphoned their fate. There were originally nine Flameseeking slots, but six were sacrificed for the undertaking,” Astora said. “If you join me, I’ll share everything I know about Ultom. You should know, I’ve been inside already.”
+
+Zac had fully calmed down at this point, and the blessing had lost the last of its allure. He still wanted the inside scoop, but he knew it wasn’t meant to be. “You find me too suspicious to bring me onboard, but you’re willing to give me a chance. Let me guess, information?”
+
+“Exactly. What’s going on? Why does my bloodline recognize yours? Why do I feel this suffocating wrongness since I first saw you?” Astora said, gradually losing her composure. “Tell me the truth, and I’ll give you my full support. Both here and inside Ultom.”
+
+Zac slowly exhaled. “I can’t help you.”
+
+“You’re still saying it’s all in my head?” Astora growled, grabbing Zac’s hand so quickly he couldn’t avoid it.
+
+“No, I’m saying that I can’t tell you,” Zac said, ignoring the growing roar from his danger sense. “Let me ask you something. Do you trust your ancestors? Do you trust the elders of the Mercurial Court?”
+
+“Of course,” Astora said without hesitation.
+
+“Like you said, there are no fools here,” Zac said as he slipped out of her grasp. Astora looked like she’d lost her soul as she stared down at her hands. Zac shook his head and walked toward the door, his parting words directed at himself as much as at Astora. “Sometimes, ignorance is bliss.”
+
+The outside already looked different when he emerged, with eight massive pillars erected roughly where the Hall of Abundance once stood. Both he and Esmeralda had recovered by a decent amount already, but neither of them was in any mood to fight their way through the island’s maze of natural formations. After asking around, Zac was led to a short-distance teleportation array that took him straight to the shore.
+
+Zac took out a gondola without looking back. Most of Sevona’s island remained unexplored by him, but he’d seen enough to know that the lush forest was but a hollow mirage. He hadn’t found a single Natural Treasure during the hunt, and the assortment of knick-knacks in one of his Spatial Rings was an annoying reminder of what kind of prizes kills on the island awarded.
+
+Apart from Idiche’s gift, the only thing of value on the island was the Corruption Crystals. Unfortunately, that vein had already run dry. Zac had killed at least half of the invaders himself, and the others were undoubtedly dealt with by the Monarchs of the Enforcement Hall already. As for the illusory beasts, Zac wasn’t sure they were still around now that the hunt had ended. Meanwhile, corruption in the ground had been forced deeper or cleansed entirely.
+
+Luckily, Esmeralda hadn’t forgotten to loot the dead soldiers in the hall while scouring the lodge for treasures. The deathsworn invaders didn’t have anything that Esmeralda would be interested in, but she did add another 53 Corruption Crystals to Zac’s collection. Unfortunately, she didn’t manage to sneak into the Inner Worlds of the two Monarchs who died. The intense battle had seared the spatial tears shut, leaving the crumbling words lost to the void.
+
+The world shuddered the moment Zac’s boat left the shores, and a storm of impressions assaulted his mind. His two sides had accumulated a huge amount of insights and experiences since they last synced up, and it took him nearly ten minutes to fully digest it all. When he came to, Zac found Esmeralda sitting at the stern looking back at the island.
+
+“Beautiful, isn’t it?”
+
+Sevona’s island looked completely different from what he’d seen in the past. He’d expected it to be covered by a fixed memory domain since they were kicked out the second they entered open waters. Instead, there was only an enormous golden crystal peeking through the water. The whole island had been encased in amber, its forests and mountains appearing hazy like a dream.
+
+“The memory domain collapsed while you were occupied,” Esmeralda added. “The crystal was already here.”
+
+“I wonder if the island would have been encased even if our mission failed,” Zac mused.
+
+“We’ve already confirmed that our actions in the memories can have an effect on the present here in the Mercurial Court,” Esmeralda said.
+
+“Those alterations were nothing like this,” Zac said.
+
+“Well, what we accomplished this time was a lot bigger too.” Esmeralda pointed to the sky with a grin.
+
+Zac looked up and saw a sixth, dreamlike halo on the pillar of the Mercurial Court. In other words, the threads of fate surrounding the Mercurial Court had already reached two-thirds of their capacity. Zac was curious if the court would close its gates at that point or whether one could go even further. After all, the Mercurial Court stood at the forefront, fighting for the leading position with the Daedalian Court.
+
+Others were far behind. The Radiant Court had only gained its third pillar during their last adventure, putting it dead last with the Starfall Court. The Farsee Court had managed to escape the bottom rung as well, gaining a fourth halo during the last week. In other words, three new halos had appeared over just a few days. It was as many as Zac had seen in the three weeks he explored the archipelago.
+
+The previous halos, regardless of court, had resulted in time skips averaging a month. With three halos, one of which was the Mercurial Court’s own, Zac wouldn’t be surprised if more than a year had passed when he stepped into a memory next time. This was the real reason he’d warned Astora he would be gone for a while. Thinking of Astora Theomore made Zac sigh.
+
+“Do you regret it?” Esmeralda asked.
+
+“A little bit,” Zac admitted. “But I would have regretted it more if I had agreed.”
+
+The issue with Astora’s proposition wasn’t just whether he wanted the blessing or not. If the trial’s restrictions held, providing the answers Astora sought would be impossible. If they failed like with Xiphos, Zac would be robbing Astora of her chance to walk out of the dream. It was a lose-lose situation, and Zac wasn’t willing to roll the dice for the information.
+
+“Who knows? She may become an ally of yours. Seeing how they’re lining up the past and present, you may run into each other when you reach Ultom,” Esmeralda said. “You’ll have to be careful when the time comes. You won’t have me to save your neck.”
+
+The comment brought Zac back to their more pressing issue: the botched heist and their possible countermeasures.
+
+“From what I saw, I’ll have to break through before we target the [Second Singularity],” Zac said as he looked at the familiar night sky.
+
+“I know,” Esmeralda sighed. “How much time do you need?”
+
+Zac would have arrived at the same conclusion even if Idiche hadn’t guided him with the elevated [Peregrine Almond]. The reason for their failure in the prophetic dream had been clear. His powers of the Void were needed to deal with the [Second Singularity] for some reason. His reserves of Void Energy were insufficient, which forced Esmeralda to step in before the right moment.
+
+The obvious solution was to increase his energy reserves. Since [Force of the Void] was already maxed out at 50%, there was only one real avenue left to improve it. If he advanced to Peak Hegemony, his Cosmic Core would expand to hold at least five times its current energy. With [Force of the Void] being a percentage of his total energy reserves, his Void Energy stockpile would increase accordingly.
+
+There was a second route, one that Tavza had hinted was possible. It was technically feasible to push one’s Bloodline to C-grade even before becoming a Monarch. That would have a much greater effect since it provided comprehensive improvements to all his Void abilities. Most likely, he’d also gain a new talent that might prove more suited for their mission.
+
+However, this route was too risky. His body had inadvertently swallowed so much energy that it was forced into a breakthrough when he encountered Mox. The attempt had failed in his sleep, and the only reason he hadn’t suffered a massive backlash was the fertile soil he’d been interred in. That was not even two months ago.
+
+His body would need more time to stabilize—time they didn’t have. The longer they waited, the greater the risks of something going wrong. There was also Esmeralda’s condition to consider. Grand Dream had siphoned off some of the excess Temporal Energies hidden in their bodies. For Zac, who only suffered from overusing Temporal Chambers, the benefits were permanent. However, Esmeralda was still carrying a terrifying Temporal Treasure within her body.
+
+According to her, the [Timescape Loop] always became more overbearing until she was finally forced to reincarnate. That was no longer an option, so she’d eventually reach her limits even if they got Grand Dream to repeat the treatment. Peak Hegemony would have to do.
+
+Zac deliberated for a few seconds. “Three months, provided I can get my hands on the items I’m still lacking.”
+
+Most people would have called Zac’s timeline delusional, and he could barely believe it himself. He’d arrived in the Left Imperial Expanse less than a year ago mid-breakthrough, and he was already looking at the next stage. The core formation of Peak D-grade was easily the greatest hurdle within Hegemony, and he was approaching it as fast, or even faster, than the other stages.
+
+Craziest of all was that it didn’t feel rushed.
+
+There was still much to do, but there were no insurmountable challenges. He could easily gain the last few levels by finding Natural Treasures or exchanging for pills and cultivation resources with the Mercurial Court. His blueprint mostly needed time for deduction, and there was plenty of corruption around to accelerate the process.
+
+His stockpile of materials was already at 70% after sweeping through the Bazaar in the Transformation Docks, and that number had increased by another 5% from finding bits and pieces. The rest could probably be sourced for free as he traveled through the Hells and Gardens, and whatever was missing could be purchased with leftover Imperial Merit.
+
+The only real challenge was his Dao of Conflict.
+
+If it had been Middle or Late Hegemony, it might have been fine to have one Dao lagging behind the others. However, the energies he’d needed to unleash and then braid together were too volatile to have one component being a whole step weaker than the others. The imbalance would cause all kinds of trouble. Making it through by the skin of his teeth wasn’t enough. It would be all for nothing if he ended up with a damaged core. Increasing his energy reserves wouldn’t matter if his body was in a state where it couldn’t be used.
+
+“I’ll help you look, and there might be other things we can do to mitigate the dangers,” Esmeralda said as she jumped onto Zac’s head. “Well, let’s get to work.”

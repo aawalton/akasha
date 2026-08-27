@@ -1,0 +1,132 @@
+---
+id: 19f429ce-f304-5fed-b089-696980c6b26d
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 32"
+slug: 0336-b5-chapter-32
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 336
+ownLength: 1434
+unit: words
+ownProgress: 1421
+publishedAt: 2026-02-27
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/3099810/b5-chapter-32"
+royalRoadId: "3099810"
+---
+
+High above the Battlegrounds
+
+“Damnit, this attack isn’t going as planned!” Regalos shouts as he slams his fist against the armrest of his commander’s chair.
+
+The attack was supposed to be a simple one. Take the Horsemen on with numbers while attacking them with multiple Grands and hopefully kill at least one of the Horsemen of the Apocalypse.
+
+But at this point the only thing they’ve managed is to piss off the Horseman of Pestilence, separate the three, and lose over half of their forces.
+
+He glances between the three Horsemen before slowly tapping his finger against the armrest of his seat.
+
+At this rate we won’t be able to make any progress…
+
+His gaze turns toward the Horseman of Famine, who is the only one that seems to be struggling a little bit as he deals with two different Grand level beings along with two pseudo Grands. All on his own.
+
+Unlike the other two, one of whom isn’t even fighting Grands and is just tearing apart his army while the other vents his irritation on Arthur.
+
+If we just had one or two more Grands here, we might be able to finish off or at least majorly wound Famine…
+
+He continues tapping his finger as he tries to figure out a solution to the problem. Only for him to freeze when a video call is placed at the top center of the command bridge. One showing a closeup call with the Horseman of Death.
+
+“Hey, people flying up there, would you mind doing me a favor?” Death asks, sending a chill down his spine as he wonders if he’s going to survive the night. Especially when he sees brief flashes of Crimson Empire knights behind her glaring at him through their helmets.
+
+“O-of course, Your Highness,” Regalos says while mentally adding another problem to his list.
+
+And when she explains the favor, he feels extreme bewilderment filling him. Enough that he straight up lets out a, “Huh?” while staring blankly at the video call. Even as the video call feed cuts off with her giving a light wave and a thank you.
+
+He continues to stare blankly at the now-black screen as his mind tries to process what just happened.
+
+Then an idea comes to mind.
+
+I can use this ridiculous plan of hers…
+
+And so he quickly begins to give out orders around it.
+
+High above the Planet within the Battlegrounds
+
+Lucius feels incredibly happy as he flies around swinging his blade with abandon. Cutting apart entire spaceships one after another.
+
+It’s been a while since he’s had a good battle in space, and he’s enjoying it more than he thought he would.
+
+Of course, when he first heard about the attack planned on the gathering he was slightly bewildered about what these people thought they’d accomplish through it. But that feeling is nowhere near as strong as the joy he’s feeling right now.
+
+So he just puts that confusion out of his mind.
+
+“One ship, two ship, three ship, four,” Lucius sings in a mutter while humming as he slices one ship after another into two with every count. “Five ship, six ship, seven ship, more!”
+
+But not too long later, he finds his terminal ringing, making him glance to the side to find a video call hologram with Aria’s face appearing on it.
+
+“Little Aria! To what do I owe this pleasure?” Lucius asks with a smile on his face without pausing in swinging his blade around, cutting entire battleships apart.
+
+Then he hears Aria’s little request of him and immediately agrees to help out without any hesitation. Or any pause in slicing ships apart. After which she says thanks and hangs up the call, making him chuckle.
+
+She’s such a breath of fresh air amongst the Horsemen. I’m glad she joined us.
+
+And with that thought, he continues counting ships he’s cutting apart like some people count sheep to sleep.
+
+Somewhere else High above the Planet within the Battlegrounds
+
+Victor von Lüneburg finds himself feeling more irritated than he can remember ever feeling in the past century. All because of these pests who destroyed the research he’s been working on lately. Even if that research was largely just to pass the time while ignoring Famine’s nonsense.
+
+And this main pest in front of him won’t stop bugging him either.
+
+But after fighting for several hours, he only finds his irritation growing at the waste of time this is turning out to be. And part of him is beginning to wonder if he should just slaughter all the ships and leave.
+
+Right as he’s beginning to wonder that, his terminal rings, making him glance at it to find a hologram of the Horseman of Death on it. With her soon asking a favor of him that he agrees with right away since it might let him get out of this battle soon.
+
+Not long after that, he sees his current opponent getting a call as well as she no doubt asks him the same favor. With him also agreeing to it without much hesitation.
+
+Victor tries to take advantage of his distraction by attacking him before Death hangs up the call, but the sneak attack doesn’t work. Leading to the two of them resuming their battle while beginning to make preparations for her request.
+
+Somewhere else High above a different planet far away from the Battlegrounds
+
+Ignatius feels pure fury at the idea of the insects in front of him attacking them and interrupting their meeting. Even if he knew this was going to happen beforehand.
+
+And he’s even more infuriated by the fact that they’re holding their own with a slight advantage against him right now. Despite the fact that it’s a four versus one with two of them being considered Grands and the other two not too far off of the title.
+
+Just the mere idea they could face off against him, a Horseman, is infuriating. And it makes him want to tear them limb from limb and leave them in a pit of vultures to be eaten alive.
+
+But right as his fury is about to peak, he gets a call from Aria. The latest addition to the Horsemen. And a wonderful addition at that.
+
+She’s everything he expected the final Horseman to be.
+
+Beautiful, powerful, and immortal.
+
+The perfect Death.
+
+And for some reason he finds her making a rather odd request after accepting the call. But since it’s from her, he doesn’t hesitate to accept it.
+
+Even if it slightly irritates him when he sees the people he’s fighting receiving a call from her Crimson Empire guards asking the same thing of them as well.
+
+And they accept the request even faster than he does. Which further irritates him.
+
+But he eventually forgives them for that just because they’re her family.
+
+So with that thought in mind, he continues fighting while ordering his soldiers on the main battlefield to move as she requested.
+
+All across the Battlegrounds
+
+Just a mere hour after all the participants of the ongoing war received the call from Aria, a massive castle spanning over an entire kilometer in length appears on the surface of the planet right off of the volcano. Startling everyone participating in the war despite most of them expecting it.
+
+But after just a few moments, every participant begins to move as requested.
+
+All of the participants of the war who are not in spaceships move into the castle to continue their battle without any further hesitation. Where they all begin tearing each other apart just like they were doing above ground.
+
+Whether they’re knights from the Crimson Empire, forces of the allying nations, soldiers from the Dread Empire, or forces from the Council of Darkness.
+
+Even mutants made by Pestilence.
+
+Every last foot soldier within the battlefield moves into the massive castle to battle. All the way until the castle is filled to the brim with battles all across its length.
+
+And even after that, the castle somehow begins to expand on its own. Almost like it’s absorbing all the death energy spread across it from the fighting. Giving more room to more people to enter the castle.
+
+Meanwhile the occasional drone capturing footage to broadcast across the universe moves around the castle livestreaming it all.
+
+With a few drones in particular moving to record the Horseman of Death herself, who just sits lazily while yawning on the throne at the end of the grand throne room of the castle.
+
+Acting like she’s not in the middle of a massive castle full of warring factions.

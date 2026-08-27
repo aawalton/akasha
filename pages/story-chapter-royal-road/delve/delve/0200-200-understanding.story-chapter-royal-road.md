@@ -1,0 +1,249 @@
+---
+id: 6f4c4bcc-894e-5a54-9dca-23c0e80da542
+page-type-slug: story-chapter-royal-road
+title: "200: Understanding"
+slug: 0200-200-understanding
+partOf: delve
+position: 200
+ownLength: 5444
+unit: words
+publishedAt: 2022-07-31
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/960128/200-understanding"
+royalRoadId: "960128"
+---
+
+Ameliah’s mind had very little room for thought, entirely focused on navigating her way through the forest of Squid Kata tentacles attempting to tear her from the sky. As the battle had dragged on, the Incarn only seemed to be growing stronger, the Hydromancer’s constructs increasing in size and quantity, though mercifully not dexterity. He’d also begun using additional attacks such as Pressure Jet and Drowning Sphere, the latter clearly Overcharged and directed by Guide Sending. Dozens of the liquid orbs were chasing her around at this point, more persistent than Fireball would have been with the same modifiers and no less deadly for the lack of direct damage.
+
+The Incarn himself was currently below the surface at the nexus of the forest of tentacles, his burning eyes locked onto her as she dodged and weaved, occasionally managing to loose an arrow in retaliation. He had stopped trying to evade—the sheer mass of water under his control limiting his mobility—but it scarcely mattered. None of her shots made it through the jelly-like bubble of his defenses when he was like this. She kept it up, though, trying to be as efficient as possible and hoping that the damage was grinding away at something, even if only the Incarn’s mana pool.
+
+Ameliah wasn’t close enough to see her opponent’s face, but she knew glowing fissures would be spreading from the corners of his eyes, carving through his flesh. That image was common to all the stories about Incarns she’d ever heard. Those cracks would spread, and when the enchantments holding him together ran low, they would split open, tearing apart his skull before his entire body detonated not long after.
+
+Come on... Come on...
+
+A pair of tentacles ponderously curled toward her, too slow to catch her but fast enough to cut her off, so she had no choice but to dodge straight through one of the Drowning Spheres. She took a huge breath just before impact. The spell burst as she crashed through, then adhered to her armor, running upward to gather into a bubble around her head. She could feel it trying to force its way into her lungs through her nose, but she tightened her throat, denying the water entry. Her armor would already be working to leech away the magic animating it, but it would take several seconds for the spell to lose its cohesion. In those seconds, breathless and with her vision obscured, she would be much more likely to be struck again.
+
+Again finding herself hemmed in, Ameliah launched herself straight up through a second Drowning Sphere, then began to climb, using Airwalk to get out of range. She couldn’t stay up for long, she knew. She rolled, avoiding the needle-like spray of a Pressure Jet as the Drowning Spheres rose from the tentacle forest to chase her. She’d tried to abuse her range advantage at first, but that had just resulted in the Incarn turning away from her. Indeed, that was exactly what he did now, retracting his tentacles to a protective shell and rising from the water. His burning eyes lingered on her a moment before he turned away, a wave rising to carry him as he began to Surf toward the retreating ships.
+
+Damn it.
+
+Her armor almost seventy-five percent saturated at this point, Ameliah clawed at the water surrounding her head as she made chase. The Adamant vessels were still surrounded by their glowing domes, the shadowy outline of Temerity still ahead of them. The barriers were visibly undiminished, which meant Halgrave and Velika were struggling too, probably against an Incarn of their own. One per ship seemed likely, and there were the ships themselves and their artillery to contend with. Letting her opponent rejoin the fray could tip the balance, or worse, Temerity, in a very literal sense. She hadn’t forgotten the massive wave the Incarn Hydromancer had summoned to begin his assault.
+
+Fine, it’s close enough to full. Mana Vent.
+
+Ameliah’s armor vibrated as the hidden skill, revealed by Mana Manipulation and Draining Plate, forced it to rapidly discharge the Force Mana saturating the metal. Her stamina dropped by a flat thousand, but the cost was well worth it. The ability would run until completion, in other words, until all the captured mana had been expelled. Any additional mana absorbed while it was active wouldn’t be affected, but that was fine.
+
+As her armor’s saturation plummeted, it became more effective at breaking apart the Drowning Spheres trying to invade her airways. Soon enough, the water trembled, then fell away. Ameliah coughed, blowing as much water from her nose as possible before sucking in a huge gulp of salty air. She leapt over the sluggish Drowning Spheres and began pelting the retreating Incarn’s shell of tentacles with arrows. As expected, the wave he’d been riding quickly subsided as he retreated below the surface, the tentacles unfurling again to grasp at her.
+
+That’s right, asshole. Get the annoying fly. Buzz buzz buzz.
+
+Ameliah grimaced, then flung herself to the side to avoid being swatted. The comparison was apt, really. She had no business winning this fight. There was a chance, though. Squid Kata didn’t change the fact that the motion of the tentacles was ultimately driven by Hydrodirection, and that took mana. The more she could get him to spend, the better her chances became.
+
+Dodging another Pressure Jet, Ameliah checked her distance, then activated Energy Well. She was currently spec’d martial, so she theoretically had the advantage in staying power, but her stamina wasn’t infinite, and her mana was almost depleted after repeatedly replenishing it. She’d already stopped using Endless Quiver to copy her enchanted arrows, judging the token elemental damage to be a waste. It still cost stamina to duplicate an unenchanted arrow, but there was no helping that.
+
+Finding herself hemmed off again, Ameliah cursed, then used Multishot to blast her way through one of the tentacles rather than turtling another Drowning Sphere. With her momentum stolen by the falling water, a Pressure Jet managed to catch her when she burst through the other side, pushing her off course. She corrected quickly, just in time to avoid another tentacle, then let gravity take her to dodge a Drowning Sphere. Catching herself before the Incarn came within range of Energy Well, she leapt up again, sending another arrow at him as she darted to the side.
+
+Ameliah again let her thoughts fall into the bizarre meditation of battle, every reaction, every dodge and counter, blending together into an unbroken string of actions, keeping her just one step ahead of death. Her heart hammered in her chest, but her breathing was even, her stamina fueling her body and holding the fatigue at bay. The occasional hits she was forced to take began driving her armor’s saturation higher again, but she fought on, buying time, hoping that it would be enough.
+
+She felt it before she saw it, Mana Sight revealing a hurricane of energy as it blew away the chaotic tatters left from her protracted clash with the Incarn. At the same time, she felt yet more mana begin to rush into her, blue rings forming around her feet as a chill ran through her flesh.
+
+He’s alive!
+
+Relief washed over her, her suppressed worry shattering like glass. She ducked a Pressure Jet, then spun herself around to look, and...
+
+A vessel was bearing down on them, shining brightly to Mana Sight. It was a construct, clearly, made from what looked like planks of hardened water. Not ice, though, just water. There was no Cold mana involved, only Force. The design wasn’t anything impressive, a boxy, low-walled platform plowing its way through the waves, but it was large, even compared to the enormous figure standing at the rudder. The Barge King. The pirate blazed with power, spreading out through the construct and extending behind it to explain its rapid motion.
+
+The source of that power was obvious. Rain stood beside Bakal, glowing with a solid, steady light. She could see the tether of Essence Well connecting him to her, as well as another link between him and the Barge King.
+
+Vanna, Samson, Mereck, and Stint were there too, along with the horse, Dust. Thrast stood at the bow, the eyebrowless silverplate pointing his sword forward like he was the ship’s figurehead. Beside him was a woman Ameliah had seen at the Guild but whose name she couldn’t remember. All of them, even the horse, were tethered to the barge by tentacles of water wrapped around their waists.
+
+The reaction from the Incarn at the new arrivals was as immediate as it was extreme. Ameliah knew, then, that the Hydromancer had been conserving his strength against her. He burst through the surface of the ocean atop a mighty geyser. The tentacles emanating from his body rose with him, rearing back and swelling larger, their former target forgotten. The magic in the air grew denser, pushing back against Rain’s, which was more than just Essence Well and Winter. There was Suppression in there too, and the Imperial soldier clearly wasn’t happy about it.
+
+Shit.
+
+Ameliah took aim at the Incarn’s back as she dashed after him toward the barge. Her arrow blasted straight through the mass of tentacles to stab into the Incarn’s flesh, but she might as well have done nothing for all that the Hydromancer reacted. Frantically, she reached out to Rain with Message, then swore at the spike of pain as it told her the block was still in place.
+
+Her allies, though, needed no instruction. The barge cornered sharply, a great wave rising and tilting the deck to almost forty-five degrees as it banked to avoid the onrushing Incarn well in advance of entering tentacle range. Ameliah drew and loosed as quickly as she could, her arrows hammering into the soldier’s scarcely protected back as the Hydromancer nevertheless bore down on her friends.
+
+No!
+
+The Incarn brought his hands forward, sending a Pressure Jet spraying across the Barge’s deck, and Ameliah’s heart lurched as she saw it cut a line across the occupants, none of them wearing armor. Ripples formed in the air, and when they cleared, her friends were unharmed.
+
+Force Ward!
+
+Her fear fading, she didn’t slow, loosing another arrow at the Incarn as she passed him, then lowering her bow to concentrate on sprinting for the barge. The woman at the bow gestured, and wasted Heat and Force mana billowed around her. The sloppy cast didn’t stop the Fireball she summoned from streaking toward the onrushing Hydromancer, detonating behind Ameliah with a roar. Stint loosed an arrow that curved past her, but Ameliah didn’t turn to see it splash against the Incarn’s defenses. Thrast had ignited his sword and was flailing it about excitedly, but it didn’t seem likely that he’d get a chance to use it. The barge was moving fast, now surfing atop an enormous wave. Glancing over her shoulder, Ameliah saw the tentacled Incarn riding atop one just like it. He wasn’t gaining on them anymore, which meant...
+
+Same skill, same level.
+
+Ameliah smiled, looking forward, then stumbled as her boots made contact with the barge’s deck, sinking into the surface. She realized her mistake at the same instant the Barge King bellowed at her, his voice almost lost beneath the rushing of the waves.
+
+“NO ARMOR ON MY SHIP!”
+
+Already back in the air with Airwalk, she prepared to shout out an apology, but motion from Rain caught her eye, and she looked to see him waving to her. Another Fireball from the woman at the bow detonated behind her, creating a flash of light, but she didn’t need it. The mana flowing through Rain’s fingers was more than enough for her to make out the signs as he spoke to her in hand code.
+
+“I can feel him. His soul is screaming.”
+
+“What?” Ameliah signed back with one hand, jostled as something struck her from behind. A Drowning Sphere, she realized, but the magic had already dissipated, blocked by Rain’s aura.
+
+How is he using so many? Did he make a breakthrough with Prismatic Intent, or is he doing that switching thing?
+
+“Catch me,” Rain signed, and that was all the warning Ameliah had before he jumped. The tentacle holding him to the barge broke. The Barge King looked at him sharply, but Ameliah was fully occupied juggling her bow into the crook of her arm, managing it just in time to receive his flying hug.
+
+“Oof!” Rain said, his face slamming into hers as he wrapped his arms around her back, clinging like a monkey.
+
+“What are you doing!?” Ameliah demanded, struggling to land on a platform of air with the added burden. A Pressure Jet struck them, but it was blocked harmlessly by Force Ward.
+
+“Get me close to him!” Rain yelled back. “He’s barely holding on!”
+
+“Okay!” Ameliah yelled, deciding to trust him, though the amount of spiritual soot she saw in him now that he was this close told her that he was barely holding on himself.
+
+“Using Aura Focus!” Rain yelled, then went limp.
+
+Ameliah launched herself backward, stumbling as she adjusted her grip around Rain’s midriff, then kicked the pair of them toward the onrushing enemy. She shuddered at the thought of bringing Rain closer to the Incarn, with him not wearing his armor. She also acknowledged, though, that with Force Ward running, he was just as well protected as she was, given the elements the enemy had shown. As long as his mana lasted, her previous tactic would serve just as well for the pair of them as it had for her alone.
+
+It turned out not to be necessary. Before they even entered tentacle range, Suppression won out over whatever the Hydromancer was using to push back against it. The amount of power Rain was pumping into it was frankly excessive, far more than he should have needed in an unranked zone. The Incarn screamed as the tide of power pushed away the last of his influence, engulfing him completely. His unearthly howl rose higher and higher, the air vibrating with pure agony, agony that he wasn’t supposed to be able to feel. The blazing fire of his mana flared even higher, burning hotter than the sun to her vision, but she didn’t look away, watching as Rain’s magic mercilessly crushed it down, packing the Incarn’s light tighter and tighter into his chest.
+
+The Incarn exploded.
+
+Ameliah’s vision went white, and her foot missed the platform that she’d expected to find waiting for it. In shock, she reached for Airwalk to make another, but the skill didn’t respond. Opening her mouth to shout in alarm, she tried again, and this time, her foot found solid air, and the impact made her jaw click closed.
+
+Rain convulsed in her arms, screaming almost as loudly as the Incarn, but his yell cut off abruptly.
+
+Fearing he’d broken himself again, she clung to him, struggling to steady the pair of them in the air. “Rain! Rain, talk to me!”
+
+“I’m...fine,” he coughed, his voice a dry rasp. “You don’t need to yell.”
+
+“What did you do?!” Ameliah demanded, looking around, then leaping back toward the barge.
+
+Was that interference from the Incarn, or...?
+
+“I just nudged him,” Rain said, coughing again. “I’ll explain later. Doesn’t matter now.”
+
+Ameliah grunted in begrudging agreement, dismissing her armor as she and Rain touched down on the magical construct. She released him, and he stumbled before catching himself, magic still billowing from him as he relentlessly filled her mana pool.
+
+“Oh!” Thrast shouted, turning to her. “There she is. Hey there, beautiful!”
+
+Ameliah glanced at the bald eyebrowless man dismissively, then turned to greet Vanna and the others. Before she could say anything, the Barge King’s voice boomed.
+
+“Where now, Captain Rain? To the ships? To battle, blood, glory, and the spoils of war? Or back to shore with our tails between our legs?”
+
+“The ships,” Rain said, shaking his head and straightening himself up. He pointed to the empty water to their right. “But first, a small detour.”
+
+Halgrave’s chest heaved, his remaining functional lung pumping like a forge bellows as he stood on the rolling deck. A massive cleft was riven from his shoulder to his side, his metal flesh parted to reveal the shattered ends of ribs. Silver-blue blood spurted with every beat of his metal heart, pattering to the decking. His arm on that side dangled by a thin strip of twisted metal, his collarbone completely severed. Lesser gouges and cuts covered him from head to toe, hardly worth mentioning in comparison.
+
+Living Armor was still active, of course. No creature of mundane flesh and blood could have survived such a wound, however deep their pool. The skill synergized with Regenerative Plate more than one would expect from the skill descriptions, massively multiplying the recovery rate of his durability. Combined with a host of physical skills designed for health recovery, the bleeding was already beginning to slow. Whether it would be enough for him to keep his arm, he couldn’t say.
+
+It had not been a clean battle. The upper deck had collapsed into the one below in a twisted forest of broken metal ribs, not unlike his own. Most of the damage had come at the start of the battle, before he’d stopped dodging for fear of the vessel being destroyed completely. After that, things had quickly devolved into a contest of endurance, both he and the Incarn standing their ground and exchanging blow after brutal blow. The damage to his arm was not the result of one clean cut, but many. The Incarn had worked on him like a woodsman felling a tree. He had done much the same, sure that he could outlast her, which, in retrospect, might have been slightly overconfident of him.
+
+The tide had only turned when he’d shattered the woman’s bardiche after it had become tangled in his ribs. With her weapon gone and most of her skills unusable, the Incarn had no defense against his at-that-point one-handed onslaught. She hadn’t given up, though, coming at him with fists, feet, and teeth. All of those, he’d broken, smashed into pieces with ruthless efficiency as the Incarn raged, never so much as showing even a flinch of pain. Even when she’d had no intact limbs on which to stand, she’d tried to wriggle for him on her stomach, only stopping when his hammer finally pulverized her spine. Shortly thereafter, she’d exploded. Now only a few shards of blackened bone remained, the rest of the body reduced to nothing but dust, now washed away by the rain.
+
+Slowly, Halgrave’s breathing began to even out, his lone lung beginning to gain ground despite his low stamina. He’d fought countless berserker-type monsters in the depths, so such relentless determination wasn’t strange to him, but to see it from a human—one without his defenses—was something else.
+
+Carefully, he set his hammer down on a fallen tangle of girders, watching as the weight twisted the metal beams like they were no more substantial than strands of thatch. Once he was satisfied that his weapon was sufficiently supported so as to not punch through the deck plating, he took his hand away. Whatever metal this ship had been built from, much like the Incarn, it was stronger than it had any right to be.
+
+Reaching across to his dangling arm, Halgrave ground his teeth in pain as he gripped the ruin of his severed shoulder. He pulled, causing a great shriek of tortured metal as it bent. Slowly, the rift in his torso began to narrow as he agonizingly folded himself closed. Spots swam before his vision as the shattered ends of his ribs tangled and ground against each other, but he didn’t stop.
+
+Got to line them up.
+
+“By Dystees’ Light!” someone shouted.
+
+Halgrave looked up from his arm to see metal wreckage shift in the darkness, light spilling out from the ruins of a stairwell and outlining the figure of a person staring at him.
+
+“Healer!” the man was yelling, looking over his shoulder. “Tahir! Someone get Tahir!”
+
+Halgrave grunted, then spat a glob of silvery blood as he released his side, abandoning his efforts. It was useless. The ribs would not meet cleanly, their ends shattered and broken with countless shards lacing his metal flesh. Whatever low-level Healer Ascension had wouldn’t be able to change that.
+
+Resigning himself to a future as a cripple, at least until he could seek proper healing, Halgrave straightened, moving to a rent in the wrecked hull to look out at the waves. It would be worth it if it meant his daughter would live. The Adamant Empire ships had fallen back, still surrounded by their barriers as they battled the Whale that had shown up around the same time the Incarn’s weapon had broken. He watched as the colossal monster breached, rising high in the air, then mightily slamming itself down atop one of the enemy vessels, driving its barrier down into the waves. All the while, a constant barrage of fire flew from both vessels, sending up great plumes of steam as the spells hammered into the creature’s hide.
+
+Halgrave grimaced, watching the dome surrounding the Adamant ship pop back up like a cork, the vessel unharmed as the Whale slid back below the waves. It would only be a matter of time until the creature fell, weakened by the lack of ambient mana and the constant assault. The question was what the Adamants would do after.
+
+Or what any of us will do if the rest of the pod appears.
+
+Scanning the dark horizon, wishing not for the first time that he had Mana Sight, he saw a smudge of motion in the corner of one eye. Before he could turn, the chipped point of a sword appeared a hand’s breadth from his eye, as if it had popped into reality fully formed in that instant. A blast of wind shook him moments later, and a woman’s voice spoke in a cheery tone.
+
+“Hi there. Don’t fucking move.”
+
+Halgrave turned anyway to see a youngish, black-skinned woman staring at him, herself looking the worse for wear. In the dim light from the Adamants’ battle, he noted that she was entirely naked, her hair looking singed as she perched atop the wreckage. Her flesh was smudged by rain-streaked soot, yet it was smooth and unbroken but for the mass of burn scars covering her left leg. Those were old, though, not something sustained in this battle, in which there was no doubt she’d been involved. Even before the Whale had come, it had been clear that someone had been occupying the Adamants. Someone fast.
+
+“You.” Halgrave’s fingers flexed, wishing for the haft of his hammer. He’d seen this woman before, standing beside Westbridge above the crater they’d left in his city.
+
+“Me,” the woman said confidently. “Are we going to have a problem? Because if so, we need to work that out before Rain gets here and starts making a fuss.”
+
+Before Halgrave could respond, there was motion from the stairwell. “Where’s— Gods, his arm! Wait, who’s—? Fuck, that’s—! That’s—! Citizen Sadanis! Everyone get back!”
+
+“Do I know you?” Velika asked, glancing toward the stairs before returning her attention to Halgrave. “Well?”
+
+“Cease this posturing,” a deep voice rumbled, accompanied by heavy footsteps. “Come, Tahir.”
+
+Halgrave flinched as a hand fell heavily on his shoulder. He attempted to move away reflexively but found himself easily held in place. That was unexpected. White spell-light blossomed, allowing him to see that the man gripping him was no man at all, but a cervidian, the same one he’d noticed before. At the time, he’d been more focused on the armor than the antlers, but now, viewing them up close, he’d suddenly realized just how broad they actually were. In fact, they were quite possibly the broadest he’d ever seen.
+
+“Do not move,” the cervidian said, his eyes closed. There was a rumble from his chest, deep and reverberant. “Hmm. You truly are metal to the core. This should work well.” He rumbled again. “Probably.”
+
+“Hey there, big guy,” Velika said, greeting the antlered newcomer. “Nice to see you here in one piece.” Her gaze shifted to one of the others who had emerged from the stairwell. “Not you, dumbass.” It was a black man in a dark jacket, also the caster of the light by the way it hovered over his head. That was enough for Halgrave to recognize him as another Guilder from Fel Sadanis. It wasn’t like there were many Light Mages in this part of the world.
+
+“This will feel odd, but know that it should help,” the cervidian said, ignoring Velika. He proved his words moments later. Halgrave grunted, grinding his teeth as an unknown force began pushing his bones back together. It felt like high-level guided healing, but also not. So bizarre was the sensation that he missed the cervidian’s motion, it coming as a shock when something heavy impacted his damaged shoulder. There was a clang of metal on metal, but rather than taking damage, his durability rose by over three thousand points.
+
+“Hmm,” the cervidian rumbled, lowering the smith’s hammer he was holding.
+
+“Are you seriously trying to hammer him back together?” Velika asked, only now lowering her blade.
+
+“Tahir,” the cervidian rumbled, ignoring the question and releasing Halgrave’s shoulder to reach for a pouch at his waist.
+
+“Right,” another of the gathered Ascension members replied, stepping forward and glancing nervously at Velika before placing his hand where the cervidian’s had been. An instant later, Halgrave felt the familiar rush of a low-level Healing Word. Considering the possibility that he might have sustained a few more blows to the head than he remembered, he closed his mouth, content to wait and see.
+
+“I am surprised you chose to reveal yourself,” the cervidian said to Velika, sprinkling a generous handful of Tel from the pouch into Halgrave’s open wound. He slammed his hammer into his shoulder again, restoring almost twice as much durability as the last time.
+
+“I think we’re well past that at this point,” Velika said, looking unsure of where to put her weapon now that she was no longer brandishing it as a threat. “Will someone get me a damn cloak? It’s raining, and it’s fucking cold. My nipples are harder than my sword at this point.”
+
+“Why—no—how are you here?” the Light Mage demanded of the ex-Citizen, his hands raised toward her defensively. The man’s caution was comical given his opponent’s slim frame and current state of undress, but if anything, he wasn’t being cautious enough. Appearances were often deceiving.
+
+“Oi!” someone suddenly shouted from the stairwell, and Halgrave looked to see another vaguely familiar face, sporting a bushy black beard.
+
+Ah. The loud Shield Turtle is here too. His name, I remember. Carten.
+
+“Oh, no, not the clinger,” Velika said, apparently recognizing the bearded man as well and giving him a name of a different sort. She raised her free hand to rub at her eyes as if she suddenly had a headache.
+
+The cervidian struck Halgrave’s arm with his hammer again, restoring a full 9,999 durability this time. The deer man rumbled to himself in satisfaction, reaching for yet more Tel as if they had no more value than the grains of rice they resembled.
+
+“Heads up!” a voice shouted unexpectedly from above, and moments later, a pair of figures dropped out of the night.
+
+“Rain!” the Light Mage yelled. “Ameliah! Where the fuck were you?! No, never mind that.” He pointed angrily at Velika. “Did you know about this?!”
+
+“Oi, yeah!” agreed Carten, marching up to stand beside the shorter man. “Why don’t any o’ ye look surprised? An’ where’s Vanna?”
+
+Rain’s response was interrupted as the entire ship rocked, struck by a wave. Halgrave flinched, going for his hammer as tentacles like those of the second Incarn rose above the deck. The cervidian yanked him back, again with unexpected strength. “I said do not move.”
+
+The tentacles touched down around them, depositing several more figures on the deck before they broke apart under the influence of the metal, sending a huge crash of water sweeping over everyone. Two of the figures stood out from the rest. One was an enormous man, roughly the size of a charcoal kiln and significantly rounder. The other was, well, a horse.
+
+“Oh,” Carten said, water running in streams from his drenched beard. “There’s Vanna.”
+
+“Fuck!” Velika swore, swishing a wave of water from her sword and glaring at the fat man, who had stumbled, clearly suffering the effects of magical overdraw, though the blue rings rising around him told a different story. She turned to face him, wringing water out of her hair. “Did you really have to do that? You’re that Barge Asshole, aren’t you?”
+
+“Velika,” Ameliah warned.
+
+“What did I miss?” another of the figures said in a flippant tone as he rose dripping, holding a dagger in one hand. He was just as naked as Velika but for a soggy cloak, which he wasn’t making much effort to hold closed. His hair was patchy as if it had been burned away on one side, with pink skin showing beneath—a clear sign of recent healing.
+
+“Telen!” someone yelled. “You’re alive!”
+
+“Of course I’m alive,” the dagger-wielder said with a scoff, then gestured at the others who’d arrived with him. “As if a puny Fireball could kill the Quickhand. That’s nothing. Now, these magnificent idiots, they survived a damn Meteor!” He began laughing to himself, but his amusement became a yelp as he spotted Velika, and he flung his dagger at her, inadvertently dislodging his cloak from his shoulders in the process.
+
+The naked Swordswoman deflected the blade with a contemptuous flick of her own. “Really?” She made a show of looking her equally naked opponent up and down, then turned her head away with a sniff.
+
+Carten barked out a booming laugh.
+
+“What about Kip?” someone else asked. It was quite crowded on the deck at this point, so Halgrave didn’t mark the speaker until he spoke again. “Rain? Rain, what about Kip?”
+
+Halgrave felt another rush of Healing Word hit him as one of the other people who’d come with the Barge King laid a hand on his shoulder, outing himself as another Healer. All this while, the cervidian had continued to work on him.
+
+The Vanna woman stepped forward after Rain didn’t respond, slowly shaking her head. “Dead. Rain found his body, but it was too deep.” She gestured to the Barge King, who’d slumped to lean against a pile of wreckage, the blue rings still rising around him. “We barely caught up as it was. This ship is fast. Even faster than Rain said it would be.”
+
+Rain closed his eyes and took a deep breath before opening them again. “It’s okay, Vanna.” He stepped forward, addressing the speaker who’d asked after the dead man. “The sharks won’t get him, Belson. I made sure of that.” He cleared his throat, his expression becoming hard. “We’ve got Whales coming, maybe, and who knows what else, so the rest of this discussion will have to wait.” He nodded to Halgrave, then to Velika in turn. “Thank you for your help, both of you.” He returned his attention to the group. “Brace for mana.”
+
+Halgrave shivered as a powerful wave of magic washed over him, chilling his blood as his mana regeneration soared. He looked down at his near-mended arm, pins and needles rushing up it as the cervidian continued to hammer at his shoulder. He tried making a fist, and fingers that had stopped responding twitched, then began to curl.
+
+“Dad!” his daughter yelled, rapid footsteps from the stairwell telling of her approach.
+
+His fist now fully closed, Halgrave grunted, no longer having any doubt about who had crafted Mahria her new staff. It seemed he would be keeping his arm after all. Blue rings had started rising around both of the Healers, just like those surrounding the Barge King, and the two men had rallied under whatever spell it was, pouring more and more health into him by the second. Halgrave looked up from that just in time to receive a flying hug from his daughter.
+
+Looking down at the top of her head, he wrapped his repaired arm around her, pulling her close as she did her best to crush the life out of him.
+
+I think I am beginning to see why she wishes to stay.

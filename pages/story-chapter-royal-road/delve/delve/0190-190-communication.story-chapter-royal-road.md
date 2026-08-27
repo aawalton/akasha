@@ -1,0 +1,295 @@
+---
+id: c998ea05-2bf5-50f1-90a2-363ad7493c28
+page-type-slug: story-chapter-royal-road
+title: "190: Communication"
+slug: 0190-190-communication
+partOf: delve
+position: 190
+ownLength: 4343
+unit: words
+publishedAt: 2022-05-01
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/897944/190-communication"
+royalRoadId: "897944"
+---
+
+The first syllable of Velika’s name died on its way to Rain’s lips. Through the shock and the extrasensory fear, he forced himself to think. His eyes took in details while his heart screamed at him. The tattered cloak. The mask. The nervous and wary posture.
+
+Velika was terrified.
+
+Not of him. Not directly. She was terrified that her presence in the city would be revealed.
+
+She was also livid.
+
+“Well?” she asked, looking again at Fechton. Rain could hear the tension in her voice. The cornered-animal promise of disproportionate violence. “Why are you still here?”
+
+Fechton looked to Rain, leaving it to him to respond. He clearly couldn’t feel the raw goldplate power of the former Citizen sitting next to him, but he’d keyed into the tension.
+
+“Are you deaf?” Velika asked. “I said I have business with the captain.”
+
+“And I have business with him,” Rain found himself saying, a crystal clarity coming over him. While the warning from his soul hadn’t faded, it was merely...information. Velika’s raw presence seemed to throb with anger, but Rain’s voice was controlled. “Please don’t make a scene.”
+
+“I’m trying not to,” Velika said through her teeth. She shifted her cloak, deliberately letting Rain see the sword at her hip while keeping it veiled from Fechton.
+
+Rain hid his frown. That was as clear of a threat as could be possible, but he was fully prepared to call her on her bluff. Velika had been forced to choose between herself and the lives of others in much higher stakes than this, and she’d passed the test. It had been close, but she’d passed.
+
+The tension stretched.
+
+“Fine,” Rain finally said. He shifted his gaze to Fechton. “I accept your proposal.”
+
+Turning, he quickly scanned the clinic, then pointed to Samson before reaching for the topmost report.
+
+“The man in the black coat is Samson Darr. Tell him I said to keep you safe and out of sight. You don’t have to give him any details about your situation. In fact, it would probably be better if you didn’t.” He met Velika’s gaze as he continued speaking. “Don’t say anything about this woman. If Samson asks, she’s just another petitioner. Acceptable?”
+
+“Acceptable,” Velika snapped, keeping her eyes locked on Rain.
+
+Fechton nodded. “I understand.”
+
+Rain motioned to him. “Go on. I’ll come speak to you later.”
+
+Fechton nodded again, getting to his feet. “Thank you.”
+
+Velika kept staring at Rain coldly as Fechton turned and departed. The moment Rain judged the soldier was out of hearing, he looked back at her and hissed under his breath. “Why are you here?”
+
+“Same reason as you,” Velika hissed back. “I want off this damn continent. The Citizens are after my ass. This port was my way free, but then the Empire came and fucked my plan, and now you’re fucking it up more. Stop being so damn flashy. If the DKE comes down here to see what all your stupid white light is about, neither of us will get out of this shithole alive.”
+
+“If the DKE didn’t come when the Empire attacked, they aren’t going to come now,” Rain countered. “Why are they after you?”
+
+Velika snorted. “Stupid question. You think they’d just let a rogue Citizen go free?”
+
+Rain pursed his lips. “I suppose they wouldn’t.”
+
+“Damn right they wouldn’t. Those assholes used me, and now they want nothing more than to carve their mantle out of my heart. I’d carve it out myself if I could. I’d kill them all in their beds if I could. But I can’t. And so I’m here. With you.” She grimaced, speaking her next words as if they were being dragged out of her. “I need your help. Again.”
+
+“And what kind of help do you need, exactly?” Rain asked, narrowing his eyes.
+
+Reaching into a pocket of her cloak, Velika removed a blue piece of paper which Rain recognized as one of his notices. She slammed it to the desk with her palm. “When you’re done building your little ships, I want you to take me with you.”
+
+Rain blinked. “That’s it?”
+
+In the corner of his eye, he caught Samson waving at him. He looked over, and when Samson gestured to Fechton, Rain flashed him a quick thumbs-up.
+
+“And don’t sell me out to the DKE,” Velika continued. She’d started to look over her shoulder before catching herself. “In fact, don’t talk about me at all. If they do come down here, I don’t want to have to go live in the trees like a fucking squirrel. I went to a lot of effort to get to you without any of your people recognizing me.” She adjusted her scarf and hood, and only then did she carefully glance around. “That’s another thing. Tell them to stop looking for me.”
+
+“They aren’t looking for you,” Rain replied, though he might have mentioned her name in one of the council meetings. “They’re looking for Empire survivors from the ship. You’re the one who broke it?”
+
+“Another stupid question,” Velika said. “Obviously I broke it.”
+
+“How?” Rain asked. “From the descriptions of the battle, it was basically indestructible. The damage limit—“
+
+“Would you shut up with your questions?” Velika asked. “Gods, you haven’t changed at all. Except for the silver plate around your neck and this little company of yours. I shouldn’t be surprised you’ve still got Sadanians following you. Fools love a savior. Congratulations on taking over a third city, by the way. It sounds like you’re doing a Banker’s price better than me. Hells, you’ve only been here like a day, and people are already following your orders. Not like that fucker Rill.”
+
+“I’m trying to help everyone, not just myself,” Rain said, recalling Rill as the nobleman who’d died trying to stop the Watch’s attack on Velika. He tightened his fists beneath the table. The attack in question had ended with Velika killing his friend. “That’s the difference. You have to give, not just take.”
+
+She has no idea how much Rill was doing for her. How hard he was working to save her from herself.
+
+“Hmph.” Velika crossed her arms, watching him.
+
+Slowly, Rain exhaled, forcing himself to unclench his hands.
+
+It had been a long time since then. He’d done and seen things that had shattered his illusions of how the world should be, revealing what it really was. Melka had been a fool to participate in the retaliation. Velika had killed her and the others in self-defense. It had been war. That didn’t justify it, didn’t make it right, but he understood.
+
+He understood, but he didn’t have to forgive.
+
+“Well?” Velika asked. “Are you going to help me or not?”
+
+A long moment passed before Rain made his decision.
+
+“I’ll help you,” he said, his voice controlled, “but not for free.”
+
+Tallheart rumbled to himself, then marked a six in one of the grids drawn on the paper before him. Rain called the puzzle a sudoku and had given him a stack of them as a gift a few weeks ago.
+
+Something to do instead of working all the time, he’d said.
+
+He should try taking his own advice.
+
+Tallheart snorted, marking another six. With practiced care, he picked up the fragile porcelain cup sitting beside his puzzle, then took a sip. The tea was perfectly warm, with just a hint of sharpness and plenty of spice. Mlemlek had been busy, seeming to take pride not in separating other humans from their money—as most Merchants did—but rather in the act itself. Of matching the correct item to the correct buyer at the correct price.
+
+Tallheart took another sip of tea, smiling in appreciation of the flavor.
+
+It was just the thing he had wanted. However, he hadn’t known it until the mustachioed merchant had arrived to sell it to him.
+
+Sighing, he set the cup back down and looked out at the ocean. The little table he was seated at was at the edge of the cliff, a reasonable distance south of the city and away from the noise of the lumberyard—and from the humans. It was peaceful, with a spectacular view of the waves below and silence only broken by the occasional cry of a seabird.
+
+Tilting his head, Tallheart marked yet another six, the last of the nine the sudoku called for. He supposed Mlem’s game of merchantry was something like a puzzle too. It was indeed satisfying to find the proper place for a thing, be it a number drawn in a square, or Bellosian linebrush tea in the hands of one who hadn’t tasted it since he’d been a child.
+
+“Wait, what?!” A scratchy voice suddenly shouted from the north, shattering the stillness. “Your master’s a deer?!”
+
+Tallheart closed his eyes, heaving a deep sigh. He set down his teacup gently, then looked up. On the narrow path between the trees and the cliff, a bald, eyebrowless human came into view, marching toward him. He held a naked sword in one hand and a bundle of metal plates in the other, held together by a leather strap.
+
+“Sorry, Tallheart,” Ellis called, he and a crowd of others hurrying after the unfamiliar human. “He climbed right up the cliff and demanded that someone fix his armor. When we tried to get him to leave, he broke Tristin’s arm. We can’t handle him.”
+
+“We could probably handle him,” Mahria said, moving to stand beside Ellis as the newcomer came to a stop at Tallheart’s table. “But Vanna said we’re supposed to play nice.”
+
+“Stuff it, girly,” the newcomer snapped at her. “If you want to duel me, just say so. I don’t need my armor to show you your place. And how is it my fault that that guy’s bones were so brittle? He touched me. It’s his own fault what happened.”
+
+“Have you sent for a healer?” Tallheart asked Ellis, ignoring the bald man for the moment.
+
+“Jamus is taking Tristin down to the clinic,” Ellis replied.
+
+“Mmm,” Tallheart rumbled, getting to his feet and turning to face the intruder. “You are Argle Thrast, correct?”
+
+“Well, that’s better,” Thrast said, throwing his bundle to the ground with a clatter. “Finally somebody knows who I am. Now, deer, it seems like you’re who I came to see, so can you fix my armor, or can’t you?”
+
+“I could,” Tallheart said, sparing a glance for the so-called ‘armor’ as he got to his feet. “But I will not.”
+
+“Pardon?” Thrast asked incredulously, gesturing with his sword in a wide, careless swipe. “Oh, you must want to be paid. Crafters and their money grubbing. Talk to your captain. He owes me.”
+
+“It is not a matter of payment,” Tallheart rumbled, stepping away from his table to face the silverplate straight on. “I simply do not like you.”
+
+Mahria broke out in laughter, high and bright.
+
+Thrast spluttered indignantly, whirling on her and pointing the tip of his sword at her, though she was safely out of range. “Shut up!”
+
+“You shut up, idiot,” Mahria snapped back, still grinning.
+
+Tallheart hurriedly cleared his throat, drawing the newcomer’s ire back to him. Besides Ellis and Mahria, the crowd consisted of Lyn, Belson, Shena, and Faas. With the possible exception of Mahria—who was perhaps Ascension’s fourth-strongest member now that she’d chosen her class and reached her cap of fifteen—none of them would do well against a silver, even a pathetic one such as this. Faas wasn’t even awakened.
+
+“Look,” Thrast began, but Tallheart cut him off, exaggerating his frown so the bald human would be able to read his discontent.
+
+“Leave.”
+
+“Horse shit,” Thrast said, slashing the sword again and taking a step closer to Tallheart. “I’m not leaving until I get what I came for. I don’t even have a damn scabbard for my sword! I had to carry this up here in my teeth! Either fix what your captain broke, or get him up here so I can talk to someone worth a damn!”
+
+“Rain is busy,” Tallheart said. “As am I.”
+
+“Busy?” Thrast protested, jabbing his sword at Tallheart’s teacup. “You call that busy?”
+
+Tallheart sighed deeply, then lunged forward and grabbed the blade. Thrast had tried to react, but he’d been too slow. His sword burst into shadow a moment later, but any damage from the magic was beneath notice. Tallheart twisted, wrenching the weapon away while simultaneously grabbing Thrast’s forearm with his other hand. The shadows melted away, and Tallheart let the unbound weapon fall to the stone, taking the system-given knowledge of its properties with it.
+
+Trash.
+
+“Aaah!” Thrast shouted, trying to twist away, and then when that failed, throwing a punch at Tallheart’s face with his unrestrained arm. His cry turned from surprise to pain as his knuckles met metal.
+
+“Can you swim?” Tallheart asked, not loosening his grip as his voice echoed within his helmet. Without any real leverage, however, he was forced to give ground or lose his balance. There was an easy enough way to deal with that.
+
+“What?” Thrast asked in confusion, tugging harder still. “Let me go, you damn barnyard freak! I might have lost to your captain, but there’s no way I’m going to let—”
+
+“I asked if you can swim,” Tallheart interrupted calmly but forcibly, using his other hand to grab Thrast by the belt and to hoist him over his head. His opponent squawked in outrage, but Tallheart only rumbled in satisfaction, having significantly less trouble with the human’s feet off the ground. “Do not bother to answer,” he said, stepping toward the edge and ignoring the silverplate’s vigorous thrashing and unimaginative curses. “I have decided that I no longer care.”
+
+Coming to a stop at the precipice, Tallheart looked out to the horizon, set his stance, drew back, and then, with his full strength, threw.
+
+Val stared into his cup, seated alone on a bench outside a winehouse—not the same one he’d visited before. He didn’t want to be recognized.
+
+He narrowed his eyes.
+
+The dark red liquid reminded him of blood. It spoke of violence and death. Of failure.
+
+His failure.
+
+Rain had spoken with him after he’d been captured and subsequently rescued. He’d said he didn’t blame him for getting caught and to just be more careful in the future. He’d been nice about it, too, taking pains to point out his own numerous bumblings and failures. It helped, but it also hurt.
+
+Rain has gotten so strong, but I’m still so weak. Weak in level. Weak in body. Weak in mind. I told myself I would do better, but every time I try, I just fail. Rain’s the same, or so he says, but he’s not here sulking. Not like me.
+
+The sun came out from behind a cloud, revealing his reflection on the surface of the wine. Showing him scars on his cheek. As if he needed the reminder.
+
+He tightened his grip.
+
+No, I WILL do better.
+
+Lifting the cup determinedly to cast it away, he paused.
+
+Wait, what was that?
+
+Looking over the rooftops, he searched for the source of the barely-heard scream. When he saw it, he almost dropped the wine unintentionally.
+
+It was a man. Hurtling through the sky in an uncontrolled tumble as if launched from a catapult. It seemed like he’d started his flight from the clifftop south of the city, judging from his trajectory, which was less down than it was out. Far, far, out.
+
+Val lowered the wine he’d been about to pitch away, taking a thoughtful sip instead.
+
+Well then. Looks like somebody’s having a worse day than me.
+
+“And...yeah,” Rain shrugged. “She told me roughly where she’s staying, and she wants me to make sure nobody from Fel Sadanis goes to that part of the city. Until we’ve got a ship, she wants us to basically pretend she’s not here. Once we’re underway, though, she agreed to answer all of our questions, not just about the DKE, but, like, goldplate stuff too. That’s the deal. Information for passage.”
+
+He waited while Ameliah, Tallheart, and Vanna stared at him. They were all huddled together in Subtlety’s shielded engineering compartment. Ameliah spoke first, the three of them having stayed mostly silent through his update, possibly in shock.
+
+“Did she say anything else? About the war or the fallen cities?”
+
+Rain shook his head. Information about what was going on elsewhere on the continent was frustratingly hard to come by. “I got the sense that she’s been here for a few weeks at least. I doubt she knows the latest. I guess I could visit her under reversed Detection and ask, or write her a note or something, but it’s probably better to just leave her alone. It’s not like we can do anything about the war from here, and I’d rather not piss her off.”
+
+“Mmm,” Tallheart rumbled. “Did she ask about me?”
+
+Rain raised an eyebrow. “Why would she?”
+
+“Does she still expect me to make the fourth sword of Osar?” Tallheart clarified.
+
+“Oh, right,” Rain said, scratching at an ear. “I guess that deal never did get resolved, did it? And no, she didn’t. Incidentally, she only had one sword with her. First sword, maybe second, I think. Definitely not third. Either she’s got the others stashed in her hideout, or she lost them while she was on the run. She didn’t outright say it, but I got the impression she tried fighting a Citizen or two. I wouldn’t expect that to have gone well.”
+
+“Mmm,” Tallheart rumbled again. “She is gold, correct?”
+
+Rain nodded. “The other Citizens raised her cap before they elevated her. At least, I think that’s what happened based on some of the things she told me back then. I don’t know if she’d already passed fifty when she was running Fel Sadanis, but she’s had more than enough time to get there by now. My soul certainly seems to think she’s powerful enough for it.”
+
+“Your soul?” Vanna asked.
+
+Rain nodded. “I made a bit of a breakthrough this morning.” He shifted his gaze to Tallheart, who he could feel sitting there, solid as a stone. Linksight added another layer on top of that, clearer than ever, connecting all four of them in the purpose of holding a discussion. It was a little distracting, honestly. “I was going to tell you about it tonight, Tallheart. Linksight is working, and I can sort of feel how strong people are. It happened after I connected my core to—“
+
+Tallheart rumbled, interrupting him. “Remain focused. We can discuss your oddness at another time.”
+
+“Right,” Rain said, swiveling to look at Ameliah, then back to Vanna. “Later, then. I was actually thinking of starting a small group...” He shook himself as Ameliah cleared her throat. “Right, later. Anyway, while we’re all here, is there anything else we need to discuss before we go talk to Fechton? Ameliah, did you see any ships coming?”
+
+“Two of them,” Ameliah said. “From the north. I’d guess the nearer one will be here within a week, but I really don’t know. It was hard to judge how fast they were going with how high I was, and I don’t know much about sailing to begin with. I guess it will depend on the wind.”
+
+Rain nodded. They’d agreed before she’d gone scouting that making contact with any ships on her own was risky. There was no way to know just who might be waiting for her on the deck—one of the Sea Kings, for example, or a Citizen. Taking a breath, he smiled at Ameliah. “We’ll just have to make sure we’re ready for them.” She smiled back, and he turned to Vanna. “On that note, how are things going on your end?”
+
+“Besides the headache we were dealing with just now?” Vanna asked. Rain nodded, and she continued. “Well enough, I suppose. I’ve got the volunteers sorting through the wreckage for tools and usable wood. The first city watch patrol will be tonight, and we’ll start building barracks for the refugees tomorrow morning. We’re going to hold an election for a city council at the end of the week. I decided that would be better than a mayor, given the factions we’re dealing with. At least with a council, they might keep each other in check.”
+
+“Great, thanks,” Rain said, turning to Tallheart. “And you? Anything important you’d like to tell us?”
+
+Tallheart rumbled. “Not particularly.”
+
+Rain gave him a level look. “Did you, or did you not, yeet a man?”
+
+Tallheart returned his flat stare tenfold. “You asked me if I had anything important to tell you.”
+
+“I think it’s pretty important, considering who it was,” Vanna interjected. “I’m the one who had to deal with him when he barged dripping into my tent.”
+
+“Will somebody tell me who we’re talking about, please?” Ameliah asked. “And what is yeet?”
+
+“I don’t know,” Rain replied. “I’m too old.”
+
+“Rain,” Ameliah warned.
+
+Rain sighed. “Throw. In this context, it means throw...or maybe...throw with attitude, and we’re talking about Thrast. Tallheart hurled him off the cliff. When I went to find Nails to message you, Thrast was already at the camp, bothering Vanna and making a huge stink.”
+
+“As garbage does,” Tallheart said flatly.
+
+Ameliah covered her mouth, hiding a sudden smile. Vanna was less restrained, snorting with amusement.
+
+Rain crossed his arms, not in the mood for humor at the moment. It had taken the threat of violence to convince Thrast that he and Vanna didn’t have the time to deal with him. Even then, he’d only stormed off after Rain had promised to come talk to him the next day. It was trouble he didn’t need. “He says you stole his equipment.”
+
+“His equipment was also garbage,” Tallheart said. “It is on the cliff somewhere. I have no use for it, just as I have no use for him. Do you not care that he broke Tristin’s arm?”
+
+“Wait, he did what?!” Rain demanded, cut off in the middle of forming his next argument. “Is Tristin okay?”
+
+“By now, I would assume so,” Tallheart said. “Jamus took him to the clinic.”
+
+Rain cursed. He must have just missed them. He’d rushed straight from the clinic to the lowcity after Velika departed. Ameliah had shown up only a few minutes after Thrast stormed off in a huff, and then she’d carried Rain and Vanna straight here. He’d had no chance to hear about the incident, and clearly neither had Nails, by the fact that he’d yet to receive a Message.
+
+“I need to finish inventing radio already,” Rain muttered to himself.
+
+With the increased scope of their operations, the lack of robust long-distance communication was becoming seriously inconvenient. Message was great, but only two people had access to it, and it was frustratingly one-way. Radio would neatly solve the problem, but knowing how one worked and building one without any of the parts were very different things. Myth and Reason had only just figured out how to make a halfway decent diode a few days ago.
+
+Rain sighed, returning the project to its mental shelf and his mind to the present. He looked at Vanna. “Before I got there, did Thrast mention he broke someone’s arm?”
+
+“He didn’t care to mention that, no,” Vanna said testily. “You heard him. He claimed Tallheart attacked him unprovoked, not that I believe that for an instant. What do you want to do about it? Should we add him to the trial docket for assault?”
+
+Rain cursed under his breath, then shook his head. “I don’t know. Tallheart’s right. We don’t have time to deal with him right now. Ameliah and I will go check on Tristin, then we’ll grab Fechton and get him up here. I left him with Samson, and he’s probably safe enough for the moment, but I’d feel better with him properly out of sight. Samson doesn’t even know who he is yet or why he’s guarding him. If Thrast shows up at the clinic, I’ll...I don’t know...yeet him again or something.” He turned to Tallheart. “Do you want to be there when we talk to Fechton?”
+
+“That may not be wise,” Ameliah said, laying a hand on top of Rain’s.
+
+Rain glanced at her, giving her an equivocal shrug. “Tallheart won’t hurt him.”
+
+“That’s not what I’m worried about,” Ameliah said, giving him a look like he was stupid.
+
+“Oh,” Rain said, turning back to Tallheart. “Well, he did seem scared of you, but he doesn’t know, well, you. He just knows the propaganda. I doubt ‘Vileheart’ is something you decided to call yourself.”
+
+There was an awkward pause, but eventually, Tallheart spoke. “Like you, I have been given many names that I would sooner leave behind.”
+
+Rain grimaced, flipping his palm over to take Ameliah’s hand and giving it a squeeze.
+
+So he didn’t pick it, but it’s not entirely unearned. Damn it, I don’t want to know.
+
+He shook his head, then looked up. “Ameliah’s right, and I have the dumb. We should at least set the groundwork before we bring you in so he doesn’t clam up in terror. I just thought, like, you’d know what questions to ask since you’ve...fought them before...” Trailing off lamely, he sighed, then shook himself again. “Anyway, we’ve been talking for long enough. One thing, though, that I want to be clear on. Nobody say a word about Velika to anyone outside this compartment. After we talk to Fechton, we’ll decide whether to inform the council heads about him, but not Velika. They don’t need to know, and she’s got too much history with too many of our members for us to risk it. Top, top, top secret. Keep it to just the four of us.”
+
+“Agreed,” Vanna replied.
+
+Rain looked to Tallheart and Ameliah in turn, receiving their nods of acceptance. Only then did he rise from his stool, rolling his shoulder as he headed for the ladder. “Right, time to go see what the Empire’s deal is.”

@@ -1,0 +1,161 @@
+---
+id: 3ef3f12f-c79a-5396-ad15-454732cb0e65
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,406 - Rebirth"
+slug: 0085-chapter-1406-rebirth
+partOf: defiance-of-the-fall
+position: 85
+ownLength: 2945
+unit: words
+publishedAt: 2026-03-03
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3112752/chapter-1406-rebirth"
+royalRoadId: "3112752"
+---
+
+A tremble made the hallways of the Meiu Ancestral Tomb shudder, heralding reality’s collapse. Lompo immediately raised his hand and began sacrificing Imperial Merit to keep the memory running a while longer. A voice reached him from the other side of the door a few seconds later.
+
+“Don’t bother.”
+
+Lompo acquiesced, and the sturdy walls turned into lines of rubble, while open sky greeted them overhead. The thick gate separating him from his master was completely gone, giving Lompo a clear view of the Sixth Hierarch’s tomb. Kaltosa Lu was lying inside the broken sarcophagus, surrounded by a mesh of pitch-black wires. Lompo inwardly groaned upon seeing the state of the roots.
+
+He’d held out a small hope that the network had survived beneath the surface. The roots had clearly clung to life for quite some time, as they hadn’t been reduced to dust, but eons had passed since they were able to produce the life-giving sap. There was not a single drop for his master to absorb in the sarcophagus, yet he seemed reluctant to get up.
+
+“So that paradox succeeded after all,” Kaltosa Lu sighed as he looked at the sky.
+
+Lompo followed his master’s gaze and immediately spotted the new addition to the Mercurial Court’s pillar. It held mainly an illusory aura with hints of Temporal Dao, but Lompo could vaguely intuit that something profound was hiding beneath these common concepts.
+
+“Still, what’s the rush? He could have waited until I was done here,” Kaltosa Lu continued.
+
+“Shall I calculate a new route, Young Master?” Lompo offered.
+
+“I wouldn’t mind another dip, but is it possible?” Kaltosa Lu asked.
+
+Lompo hesitated for a moment. “The fate of this court is ever moving, and retracing one’s steps holds certain challenges. However, with a small sacrifice and some Imperial Merit, I might be able to open a path.”
+
+Truthfully, Lompo wasn’t confident. Reaching the Meiu Ancestral Tomb hidden in the depths of the Citadel had already tested his limits, despite the guidance of a fated mark. The endless city instinctively tried to eject all outsiders, and the resistance grew stronger the further one went. Even if they waited for a memory wind to arrive next door, it was unlikely to reach the tombs again.
+
+“… Forget it. Enjoying a whole sarcophagus of [Millennial Upland Sap] is a rare luxury, but a second bath won’t yield enough benefits to motivate the cost,” Kaltosa Lu shrugged. “And my wives will think less of me if I keep insisting on forcing fate.”
+
+Lompo resisted the ingrained response to offer empty platitudes. While his master usually enjoyed the lighthearted banter, there was a dangerous fury smoldering behind his indifferent demeanor. Lompo’s intuition warned that the wrong word would lead to a far deadlier outcome than a make-believe demotion. Better to remain a dutiful—and silent—attendant until someone else could take on the Young Master’s fury.
+
+“I have to hand it to you, Lompo,” Kaltosa Lu said with a light voice, still gazing at the halo above. “You managed to see through the falsehoods and deduce I’d lose a Primordial Rune.”
+
+“I—” Lompo’s words failed him.
+
+What was he supposed to say? Should he accept the compliment and open himself to further inquiry, such as his failure to provide an adequate countermeasure? Should he admit that his divination was mostly a shot in the dark? Looking for answers in this pressure cooker of imaginary timelines was no different than searching for specific grains of sand in a desert storm.
+
+Lompo had figured that divulging this potential outcome was a good way to urge caution so that his Young Master didn’t overextend. Because it was an undeniable fact that terrifying storms of Destiny were bound to clash on that island. An early warning would trigger an early escape, yet now his divination almost seemed like a curse.
+
+The lingering silence demanded an answer, and Lompo could only find one way out: deflect and remind the Young Master of meritorious service.
+
+“Shall I pack away the beacon, Young Master?” Lompo asked as he floated over to the intricate array that helped transport his master from imminent disaster to a rare opportunity.
+
+Naturally, Kaltosa Lu saw through the guise. Lompo was counting on it, and it achieved the intended effect. The ominous clouds surrounding Kaltosa Lu parted as he finally emerged from the grave.
+
+“I’m just teasing, Lompo. In fact, I’m quite happy with the outcome.” Kaltosa Lu scoffed when Lompo failed to provide an adequately convinced response. “You think I’m putting on a brave face? Then take a look at this.”
+
+Lompo curiously watched the spiritual recording appearing above his master’s hand. The aura of the golden heart sparked an immediate connection, and his hunch was confirmed when the filth began pouring out.
+
+“The Grand Preceptor’s Dreamforged Avatar was destroyed?” Lompo blurted. “But our investigations—”
+
+“I’m as surprised as you are. We knew there was more to our Draugr friend, but he exceeded my expectations in more ways than one,” Kaltosa Lu laughed. “He cracked it open before I could even figure out a way to do it myself. The realm’s augmentation was much stronger than I anticipated.”
+
+“Was it—"
+
+“No, that old thief was busy dealing with the invasion,” Kaltosa Lu said.
+
+“Sure, that shifty Draugr went on to pull a fast one on me, causing me to lose my Epistocratic Constellation. Who cares? I killed Descartes Belial. What do you think my Grandpa will do when he finds out that I severed the Belial Tribe’s last chance at reincarnation? With the very poison he devised all those years ago?”
+
+“The Lord will be gratified to see such a display of filial piety,” Lompo said.
+
+Gratified was the understatement of the Era. The Centigrade Pryer had left them with strict orders to destroy anything connected to his old enemies. To actually kill one of their direct descendants, someone marked by the Ultom Courts at that, went far beyond the decree. A replacement rune would be the least of the rewards the Lord would shower on them upon their return.
+
+Kaltosa Lu’s smile widened as realization dawned on Lompo. “Sure, the Mercurial Court has a few amazing things left in its vaults, but those things have no fate with me. It’s the same with whatever’s left inside Ultom. Anything at that level will be taken from me the second we leave. This way, I’ve secured almost unlimited funding for my Royal Harem.”
+
+“Very astute, Young Master,” Lompo praised. “About that Draugr?”
+
+Kaltosa Lu answered after some thought. “Sometimes it feels like he’s got more lives than I do. I don’t think it’s worth the effort going out of our way. We’re already equipped to deal with the final step. We’ll make another attempt if our paths intersect.”
+
+Lompo began calculating on his fingers. “It’s only preliminary, but his connection to the Mercurial Court appears to have weakened.”
+
+“Good. He’ll be someone else’s problem after he’s helped that greedy toad snatch whatever item she’s looking for,” Kaltosa Lu said as he began to fiddle with an unfamiliar token. “In the meanwhile, what say you we look for some other sealbearers to play with? The second string should start dropping in over the coming weeks.”
+
+-------------
+
+“This lodge is but the manifestation of what Sevona considered a safe, happy location. It’s the summer palace her parents took her to as a child,” Idiche said with a lingering smile. “How could there be treasures left here?”
+
+“I don’t believe it! My nose for goodies is never wrong, and I demand restitution for services rendered!” Esmeralda hollered, not the least fazed by Idiche’s bottomless aura.
+
+“Not having anything for you to steal is indeed an oversight on my end. Instead, shall I render some assistance for your upcoming heist?” Idiche said.
+
+“Ah? Heist? What’s that?” Esmeralda gawked as the air went out of her.
+
+The toad couldn’t look more guilty if she tried as she began shifting her feet under Idiche’s scrutiny. It was shocking how bad a liar she was considering her vocation. Then again, Esmeralda’s complete lack of acting chops could be seen as a testament to her core skillset. It was proof she became one of the Multiverse’s most wanted thieves without relying on deceit or social engineering. Esmeralda was a pure, orthodox thief who didn’t need to rely on any tricks to get what she wanted.
+
+“Are you sure you wish to feign ignorance? That Spatial Treasure will be your doom if you continue down your current trajectory,” Idiche warned.
+
+“Did you see something in your dreams?” Zac interjected with a solemn expression.
+
+It wasn’t hard to understand where Idiche’s prophetic dreams came from, now that they knew the full picture. She possessed a hint of a Stellar Wanderer’s omniscience, which allowed her to see into the future. After having fused with the Divine Core, that power had undoubtedly grown even stronger.
+
+It was a method far beyond common divination or Ventus’ numerology. According to Janos, Grand Dream held the same power, and it was an integral component of the Mercurial Court’s mission. Idiche might be able to see the entirety of the stored timelines of the Omnipresence Chamber in her current state. They’d have to be crazy to ignore her warnings.
+
+“I no longer need to dream to observe the trajectories,” Idiche said. “It’s easier if I show you.”
+
+Zac saw his future stretch out before him on a long road, every step, every thought, every experience. Something far in the distance suddenly pulled at him, dragging him along the route at an accelerating pace.
+
+He appeared outside the lodge, where he was immediately surrounded by unfamiliar faces. Things blurred, and he was back in his manor with a new set of robes and a fortune recorded on his Disciple Token. He shared a look with Esmeralda, anticipation burning in their eyes.
+
+They’d investigated the cost of meditating in front of [Second Singularity], and they almost had enough. Following the trace of a fated encounter marked in his Disciple Token and a personal contribution of 20,000 Imperial Merit was sufficient. A few weeks passed in a flash before they were ushered into a hall.
+
+Zac gasped a moment later as he woke with a start. He was back in the Hall of Abundance with a slightly pale Idiche standing before him. There was something blocking his memories of the final day. Zac couldn’t recall the appearance or aura of [Second Singularity] at all. It was all a black tangle in his mind. However, the bits he could piece together told a tale of abject disaster.
+
+Their plan had worked. They timed things out so that the memory domain would collapse shortly after they reached the treasure. As they’d hoped, [Second Singularity] was still there in the present, without any guards or arrays being in the way. However, they weren’t strong enough to actually take it away.
+
+Zac vaguely remembered desperately spending Void Energy until he ran out. When he failed, Esmeralda had been forced to draw the treasure into her body before it ripped them apart. A storm of space and time, then nothing. Zac shared a harried look with Esmeralda, confirming the outcome wasn’t good, before turning back to Idiche.
+
+“How accurate is it?”
+
+“It was the most likely future if you rush headlong toward your goal,” Idiche said. “Of course, showing you this outcome has broken its trajectory. Unlike the Ancient Arcana, I haven’t actually transcended the river of time. Like Sect Master Grand Dream, I can only see a bit further than others.”
+
+“I assume you have a solution?” Esmeralda said, no longer in the mood to play coy.
+
+Zac could tell that there was no thought of backing down just from witnessing her death. He was the same. This was simply how the path of cultivation was. The wrong step would send you tumbling into the abyss. They just needed to adjust and make new preparations now that they better understood the dangers.
+
+“Hand me the [Peregrine Almond],” Idiche said.
+
+While confused, Esmeralda took out a jade box from her mouth. The spit-covered container held the [Peregrine Almond] they’d looted shortly before heading for the Explorer’s Guild. They’d harvested it slightly before maturity, so Esmeralda had kept it inside her body since.
+
+Zac wasn’t sure if it was a natural ability of the Grand Traversal Toad or a technique she’d learned to deal with contraband, but Esmeralda’s body was essentially a treasure vault. Her vats could not only remove seals and tracking marks from her stolen goodies, but she was a walking Treasure Array that could nurture items.
+
+A short few days wasn’t enough to bring the [Peregrine Almond] to maturity, but Zac saw its aura rapidly coalesce the moment it entered Idiche’s hand. It only took a moment to reach a perfected state, and it didn’t stop there. Zac’s body began screaming with hunger as ancient patterns spread across its surface.
+
+The almond’s spirituality grew deeper, going from a freshly matured Spiritual Treasure to an item that had been nourished and refined by the Heavens for innumerable years. Because of the constant exploration of countless Outer Disciples, such high-quality [Peregrine Almonds] were essentially non-existent.
+
+“Its transformation is both true and false. You have to take it immediately or it’ll revert to a more conventional state,” Idiche said as she handed it back.
+
+The transformation she mentioned wasn’t the maturity. The [Peregrine Almond] had gained an unfathomable aura that was all too familiar. For the first time, the miniature suns in the depths of his cells roused from their slumber at the aura of the Stellar Wanderers. Even if it was only a sliver, the [Peregrine Almond] had gained a touch of Ancient Arcana.
+
+Zac only took a second to write an urgent note to his other body before cramming the [Peregrine Almond] down his throat. Every fiber of his being was telling him that this was an opportunity he couldn’t miss.
+
+There was no explosion of overbearing energies, no extraordinary spirituality that threw Zac’s mind into another dimension. The [Peregrine Almond] gently settled in his stomach, where it began shedding layer after layer. Each shaving was as thin as a cicada’s wing, looking so brittle that a gust could tear it apart. And yet, they were utterly impervious to the hungry pull of his cells.
+
+The shavings had a will of their own unless they were guided by Idiche’s augmentation. They wound themselves into strings as they rushed into Zac’s Quantum Space. In no time, thousands of threads were wriggling through the outer pathways of his Cosmic Core like a swarm of earthworms. They moved with purpose, drawn to imperfections and damage like moths to a flame.
+
+Hundreds of tendrils burrowed into each imperfection, triggering a fluctuation that Zac immediately recognized: uncertainty. The very real problems with his Cosmic Core had somehow come into question. What was real became uncertain, and what was uncertain became illusory. Zac soon saw unblemished patches appearing beneath the “illusions.” The illusion disappeared when enough shavings had entered an imperfection, leaving a pristine section seamlessly integrated with its surroundings.
+
+The process seemed very similar to how Descartes recovered from lethal blows, except something deeper had been added to the [Peregrine Almond]’s illusory Dao. Zac could somewhat tell that Idiche’s augmentation didn’t just boost the almond’s efficacy, it made adjustments that aligned with a higher order.
+
+Zac didn’t need to do anything but keep his body from competing for the delectable treasure. The threads knew exactly what they needed to do, as if they’d already been provided with a blueprint surpassing Zac’s own understanding. The threads found problematic sections that Zac was completely unaware of until they were pointed out, and they removed the inescapable heterodoxy of a mortal’s Cosmic Core.
+
+They even navigated his Quantum Core without issue, passing into the life-attuned section that should be hidden in the Void. Layer by layer, Zac’s Cosmic Core was reborn. The outer shell of his core was arguably the least important part compared to the nucleus, but the almond was far from spent.
+
+Zac became engrossed in the process even though he was a spectator observing from the outside. The level of detail added brought important revelations to his future cultivation, and Zac unhesitantly drew on the refined insights he’d gathered in the lake of corruption. As the threads of Dao-transcending illusions delved deeper, so did his manic search for truth.
+
+There was nothing else, only enlightenment hidden behind falsehoods. His perception eventually reached the utmost depths, and everything clicked into place. A storm of elusive patterns danced in Zac’s mind, connecting and evolving at a frantic pace. They were exactly what Zac needed, but they weren’t his yet. The winds dwindled, taking the patterns with them. Zac frantically memorized as much as he could until every drop of Ultom’s enlightenment was squeezed dry.
+
+Zac exhaled as he slowly opened his eyes, left with only the bittersweet taste of a concluded epiphany. Sweet because he’d crossed the most difficult hurdle in creating his Peak D-grade blueprint, and the resulting core would exceed his previous estimates. Bitter because he’d barely scratched a corner of the extraordinary power hidden within Idiche’s gift.
+
+He shook his head, reminding himself not to be too greedy. The free insights were only a bonus to the real reward. Zac turned his vision inward once more. The [Peregrine Almond] and all traces of its existence were gone, like his previous experience was yet another dream. Zac went deeper, past his Duplicity Core and into his Quantum Space. There it waited; the proof it was all real.
+
+A perfect Cosmic Core.

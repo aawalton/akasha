@@ -1,0 +1,129 @@
+---
+id: e5289913-1e98-52e0-b2bd-0dc7a539c265
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 19"
+slug: 0320-b5-chapter-19
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 320
+ownLength: 1467
+unit: words
+ownProgress: 1467
+publishedAt: 2025-11-27
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2798446/b5-chapter-19"
+royalRoadId: "2798446"
+markedReadAt: "2026-06-29T19:16:42.321Z"
+---
+
+Aria
+
+After relaxing for a while, I go ahead and decide to do something different for a change. Something that I’m sure will probably shock quite a few people that I know. But I’m just rather curious.
+
+Curious about how I stand against people in my own level range.
+
+Because I haven’t really been fighting against people in years.
+
+And I don’t just mean fighting with that. I mean actual one on one combat with someone my own level. Not just throwing a bunch of explosives and Death Spirits at the enemies until they die.
+
+I mean actual combat.
+
+So I do something that apparently pleases War quite a bit as I sign up for one of the arenas on his planet. Albeit a smaller one because of my lower level.
+
+What with my level only being 157, whereas the strongest arenas here have people all the way up to level 10000 fighting in them.
+
+Which kind of limits the arenas I can fairly fight in. Without relying on my immortality.
+
+On top of that, I try to disguise myself as best as I possibly can. But once again, I can’t change the color of my hair or hide my eye color. So the attempt doesn’t exactly go very well.
+
+Since my body is literally made up of death energy, hair dye and illusions straight up don’t work on my hair. And my eyes are always letting off death energy. Which kind of vaporizes any contacts I try to put into my eyes to change my eye color.
+
+At the end of the day I’m stuck using nothing but a cloak that uses shadow magic to hide what I look like underneath it. But any skilled mage should be able to see through it at a close distance. So the moment I end up fighting a mage, I’ll be seen through.
+
+Also, since it’s not exactly easy to fight with a long cloak on, I make the thing rather short. Even if the cowl is deep and has the magic on it.
+
+After all, it’s not like I need to hide the rest of my body. It’s just my face that everyone knows at this point.
+
+So I just wear some regular black and crimson armor underneath given to me by War.
+
+How exactly he got my exact sizes for armor though, I’m not entirely sure. Nor do I really want to know if I’m being honest.
+
+And after all of that preparation, I finally head inside of an arena. Where my opponent is waiting for me.
+
+My opponent this time around is level 160. So just three levels above me. And from what I saw through their profile, they’re about fifty or so years old.
+
+So they’re a couple centuries younger than me.
+
+Aside from that, the boy is also a pugilist type. Someone who just uses his bare hands and feet to fight without any sort of actual weapon. Which will make this an interesting battle to say the least.
+
+As for my weapons? I’m bringing a pistol and a sword. Nothing more than that.
+
+“Ya hidin’ yer looks missy?” the kid asks with a grin on his face. “Got someone ya don’t want knowin yer here? Or are ya just expectin to go far?”
+
+I don’t say a word in response as I walk up to my starting position with my hands in my cloak pockets. Only to take them out of said pockets when I arrive at the starting position.
+
+“Quiet too,” he continues, his grin growing wider as the lights above the arena begin to change. Meanwhile the several hundred or so people in said arena’s bleachers just chat amongst themselves. Almost like they’re here for nothing other than to waste time or something. “I’m sorry missy, but I won’t be lettin’ ya go any furtha.”
+
+My brows furrow with some minor irritation.
+
+Is there a reason this kid is blabbering on?
+
+I let out a sigh.
+
+Normally he would’ve been frightened away by the sight of my black number by now. But that’s one unique thing about War’s planet. Because he has a special domain skill that hides the color of peoples’ numbers while they’re in his domain. And his domain is always spread across every single arena.
+
+So when someone enters the arena, their number just looks scarlet no matter who is looking at it.
+
+Which is rather convenient when hiding your power at least.
+
+As for the death energy I radiate like a beacon… well, I’m holding that back as best I can. Both myself and through a bunch of rings under my gloves that absorb mana and energy.
+
+I just hope I can finish this battle before the rings go pop from absorbing too much energy.
+
+Anyways, the lights above the arena change from red, then to yellow, and then finally to green. Signaling the start of the battle.
+
+I instantly draw my sword before rushing forwards to meet the man. With him seemingly hardening his fists with a golden light as I swing my sword to directly meet his fist. And when my blade meets his fist, I find a surprising amount of force pushing back against me. Even with my sword slicing into his knuckles a bit.
+
+The man looks just as surprised as I am. Albeit no doubt for different reasons.
+
+His surprise probably being that I cut him and mine being that I didn’t cut very deep.
+
+Then he performs a roundhouse kick after literally grabbing my blade with his other hand, landing the kick on the side of my head and knocking me to the side. But I just instantly recover from it and pull my pistol before shooting him in the side. Making him grunt and lose a large amount of the force in his hands.
+
+So I take advantage of that and enhance my body with death energy. Purposefully avoiding using soul fire since that’s an obvious sign of who I am.
+
+And with that enhancement, I finally manage to slice through his fingers with my blade. Then I immediately plunge the blade straight into his shoulder before driving him into the ground.
+
+To finish it off, I move my pistol straight towards his head before pausing with the barrel of the gun having just an inch between his head and it.
+
+“I surrenda!” the man shouts, making loud music play throughout the arena. An arena that had quickly grown silent as everyone stares.
+
+But since the battle is over now, I go ahead and pull my sword out of his upper torso before cleaning it with death energy and sheathing it again. Following which I just give a slight nod to the audience, holster my pistol, and walk out of the arena with my hands in my pockets.
+
+And it isn’t until right when I step out of the arena that I hear the rather small audience breaking out into applause at what they’d just witnessed.
+
+I can’t help the wide grin that stretches across my face while walking over to the waiting area where I’ll be waiting for the next match. Because that was a lot more fun than I expected.
+
+Even when I got kicked in the head.
+
+Although I mostly missed that kick because I’ve been a little rusty when it comes to my martial arts skills. Strictly due to my immortality and all.
+
+Of course, at the end of the day it doesn’t matter. But I’d at least like to try it again.
+
+After all, I still remember how I felt as a child when my parents taught me how to fight.
+
+Before my memories of fighting were tainted by the military and their deaths. Or their clones’ deaths I guess.
+
+On another note, as I’m walking to the waiting room, I can’t help but realize I never actually paid attention to what my opponent actually looked like. All I paid attention to was his physique to see what type of fighter he was along with any potential weapons and armor.
+
+I don’t think I actually paid attention to what his face looked like. To the point that I’m not sure if I’ll even recognize him again in a few days.
+
+But I guess that doesn’t really matter.
+
+He was rather full of himself though, considering everything he was saying before the match.
+
+Anyways, I wait the rest of the time before my next match. Then I go ahead and enter the arena again to fight some more. And just like the first match, I win and go back to the waiting room again.
+
+Only to go back for my next match.
+
+Over and over again, one match after another.
+
+And soon enough I find the name ‘Crimson Blade’ becoming rather popular across the Crucible’s forums.

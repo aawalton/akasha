@@ -1,0 +1,169 @@
+---
+id: 01deee51-f672-581e-8f9c-5fd0dfda9be6
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 56"
+slug: 0128-b2-chapter-56
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 128
+ownLength: 1705
+unit: words
+ownProgress: 1705
+publishedAt: 2024-03-15
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1555683/b2-chapter-56"
+royalRoadId: "1555683"
+markedReadAt: "2026-06-29T19:10:18.354Z"
+---
+
+Aria
+
+Unlike what we were hoping for, when the Class A mind magic user arrived, the only thing they were able to do was clear the fog in my head around my brother’s ability. Because when they tried to clear the fog around my other family members’ abilities, they ended up being drained of life force somehow.
+
+Life force that went straight into my red jewel, making it shine.
+
+Pissing off the mind mage quite a bit in the process, considering their reduced life span.
+
+Azura managed to bribe them in the end to keep silent though.
+
+I look down at the jewel I’m still wearing around my neck.
+
+After that, Azura began looking deeper into this jewel to see what it did. Even getting in touch with some of the old artisans from the former Sullivan Clan to see if they could figure anything out about it.
+
+And they did. Figure something out at least.
+
+But I’m still not sure how to feel about it.
+
+The jewel is apparently built to hold memories. Memories of multiple different people. And it currently is filled with memories.
+
+Most of which aren’t mine, but some of which apparently are. Which the artisans believe to be a malfunction of the artifact’s original purpose.
+
+What was most shocking about it all though is that they said for someone to take memories out of it, they’d need to feed it life force. Whether their own or someone else’s.
+
+Hence that poor mind mage.
+
+I play with the jewel in my hand for a bit.
+
+We tried using my own life force, but that apparently didn’t work.
+
+Because as it turns out, I don’t have life force.
+
+At all.
+
+None.
+
+The life mage who tested me was shocked. And was very much wondering how I’m alive.
+
+Probably something to do with the fact that I’m Death.
+
+Still. I did get more information about my jewel from this whole thing, and I remembered my brother’s ability.
+
+His ability to clone anything. Except me that is. Probably because I have no life force or something.
+
+He can make perfect albeit weaker clones of anything, whether people or objects. Although the clones wouldn’t send any memories back to the originals.
+
+And… that ability for some reason has me feeling something’s off… but I can’t quite put my finger on what. Like something’s blocking that too.
+
+“Riri? You okay?” Little Blue suddenly asks, making me glance at her before she adds, “Still thinking about it?”
+
+I nod my head and look out the window of the carriage again. “Yeah. I can’t help it.”
+
+Because according to Azura, to make an artifact do something, the creator needs someone who can do that something most of the time. So for an artifact to drain life force, someone involved in the creation of the artifact has to have been able to drain the life force out of people.
+
+A terrifying ability or skill for anyone other than me.
+
+But the only organization that has anyone capable of doing that… is rumored to be the Crimson Empire.
+
+My eyes narrow as I stare outside, unmoving.
+
+I need to find the Crimson Empire.
+
+After a second, I turn towards Azura and ask, “Has there been anything new about the Empire?”
+
+He glances at me and stares for a second before sighing, probably used to this question by now, and answering, “Their last known whereabouts were one week ago in the Arcadian Society, where they ‘vanished’ a branch of the society controlling the public contracts. Specifically the head hunting contracts.”
+
+I blink at that and ask, “Wait, is that why the contracts on my head suddenly decreased a significant amount?”
+
+The prince nods his head with the hint of a smile stretching across his face, “Yep. If you ask me, finding the Crimson Empire may just be tantamount to finding the answers you’re looking for. Just hang in there.”
+
+I nod while looking down at my lap in thought.
+
+The Crimson Empire is the most elusive nation in the universe. No one knows where they’re based. No one knows what powers make up the Empire. No one even knows who rules it. Not their name, their appearances, nor their abilities or skills.
+
+All that’s known about them is their uniforms, the fact that pretty much everyone in the Empire uses some sort of crimson colored power of various types ranging from support all the way to combat and has a Class S ability. At least of the people who have shown themselves to be from the Empire. And they aren’t in negotiations with any of the other nations.
+
+They also are suspected of having the most Class S Ability Holders out of all the powers across the entire universe working under them.
+
+They’re even more elusive than the damned Council of Darkness which is a freaking assassination group.
+
+I’ve also heard that War has been looking to pick a fight with them for a long time now. Something about him wanting to duel powerful people for their skills.
+
+I didn’t realize that he was like that back when I met him. Apparently it’s normal for him to try to force anyone he meets and considers strong to challenge him once to take one of their skills. And he can only take one skill. Can only duel people once.
+
+But he never bothered doing that to me, apparently because my skills would be useless for him.
+
+Something about no living being with life force being able to use soul energy. That soul energy and life force are a set of repellant forces that push each other away.
+
+Which links in with my lack of life force.
+
+So War wouldn’t be able to use any of my skills even if he fought me to take them.
+
+I’m just a complete dud when it comes to that dueling skill of his.
+
+Anyways, my thoughts come to a halt when we begin to cross into the water heading towards the castle, with the carriage still full of air for Shirogane’s sake. Until we arrive at the castle entrance, of course, and he takes a water breathing potion.
+
+Then we all go inside and head towards one of the upper floor ballrooms, where the party will be held in around an hour or so.
+
+All Across Atlantis and other planets in the Universe
+
+One black robed individual after another appears out of nowhere, each spread out across ten different planets. And none of them are alone as each is quickly joined by dozens of other black robed individuals. All of whom quickly spread out across the planet to their designated locations.
+
+Meanwhile one man can be seen cloaked in nothing but shadows without any of his features visible as he floats high above a single Alpha Tier world known as Arc. Even to those who manage to determine his form, they all forget it within seconds. As if nothing about the man can be remembered other than the shadows.
+
+He simply floats there without saying a word. Just watching. And waiting.
+
+Eventually the person he’s waiting for appears in a thunderclap, the woman is wearing blue robes lined with gold and is holding a majestic, golden blue staff in her right hand as she floats in the air.
+
+And the man cloaked in black doesn’t so much as flinch at the sight of the look of hatred and righteousness on the woman’s face.
+
+On the Archmage of the Arcadian Society. The most powerful mage in the universe.
+
+“Hassan, you can’t run forever,” Isabella declares, her long golden hair flowing in the wind behind her. “One day retribution will come to the Council of Darkness. And it will be as swift as a bolt of lightning.”
+
+Hassan al-Malik simply stares at her, staying absolutely silent as all of his forces begin to get into position across the worlds, entering mansions, castles, and various other locations housing local authorities.
+
+“What are you plotting, psychopath?” Isabella asks after understanding that he doesn’t plan on speaking. Not yet. Not if she doesn’t make him. “You came here out of nowhere and blocked my scrying. And you’re not even saying a single word.” Her blue eyes narrow even further. “It’s clear you’re about to do something. Something to do with those rebellions you’ve been sparking across those worlds no doubt.”
+
+The Leader of the Council of Darkness simply continues staring at her, his visage still not visible, even to the archmage. And still not saying a word.
+
+So Isabella finally raises her staff, making a massive spell circle spanning over a hundred meters from behind her. One with blue and gold lightning crackling along its surface.
+
+“Fine then,” she states, her face turning as still as stone. “I will make you talk.”
+
+And it’s only then that Hassan finally speaks, his whispery voice echoing in the surrounding area despite him not speaking very loudly.
+
+“Begin.”
+
+Right away, assassins all across the ten worlds get to work, fulfilling their contracts at the exact same moment. Each killing upper class society members of every last planet by the dozens.
+
+Then they quickly beat a hasty retreat, not caring if they’re spotted before they vanish.
+
+And it only takes moments for the archmage to realize what had happened. But it’s too late for her to stop it. Because even if she could’ve created a spell to target all of the assassins across the worlds from her mage tower, she can’t reverse time.
+
+So what’s happened has happened.
+
+And there’s no changing it.
+
+Rebellion has begun.
+
+“You worm!!!” she shouts, finishing up her attack spell and striking where the man is floating.
+
+But his form fades into shadows without showing any signs of having been hurt.
+
+Isabella glares at his location for a moment before quickly turning around and teleporting back to her tower before roaring in anger.
+
+Because she is not allowed to interfere in their rebellions outside of dealing with the assassins.
+
+Leaving her unable to stop the bloodshed without breaking diplomatic ties with over seven worlds.
+
+“Haaaassssaaaaaannnn!!!!!” She screams into the air of her tower.
+
+But the man himself is already far away from the world, showing no signs of his travel.

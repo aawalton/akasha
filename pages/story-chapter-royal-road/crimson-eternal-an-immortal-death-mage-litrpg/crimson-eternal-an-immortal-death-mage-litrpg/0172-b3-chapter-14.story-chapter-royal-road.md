@@ -1,0 +1,161 @@
+---
+id: 38571a85-8d31-5897-85e6-82e4cfa87683
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 14"
+slug: 0172-b3-chapter-14
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 172
+ownLength: 1551
+unit: words
+ownProgress: 1551
+publishedAt: 2024-06-17
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1680842/b3-chapter-14"
+royalRoadId: "1680842"
+markedReadAt: "2026-06-29T19:11:34.078Z"
+---
+
+Aria
+
+I spend another month on Vortel, just hanging out and enjoying the remaining time I have left with the old man. All while absorbing everything that’s happened over the year I spent on Vortel with Frank. But eventually, Luke specifically asks me to leave before he passes away.
+
+So Shirogane and I begin to head out, with Hannah staying behind on Vortel without us.
+
+I feel… strange… as I stare out at the horizon from the front of the rather fancy ship we’re on. Strange in a conflicting way.
+
+Both freer. Like I have less weight in my mind. Probably due to that lesson Frank was trying to drill into my head.
+
+But I also feel… sad.
+
+I just continue staring off at the sun rising over the horizon.
+
+Then a strange warping sound echoes all around us and the light vanishes in an instant, soon to be replaced by pitch black darkness. Meanwhile dozens of spell circles appear in the air around the ship as the ship itself comes to a slow stop.
+
+What the fuck?
+
+I look around in confusion for a second, only to spot the ones responsible. A bunch of people in black cloaks with some sort of symbol on their hood. One I recognize as a symbol representing one of the foremost cults of death from the Rex Dynasty.
+
+Well, fuck.
+
+All of the cultists give a bow while clapping their hands together and facing me as they speak simultaneously, “Lady Death, we have come to bring you to your esteemed Holy Land.”
+
+When they raise their heads, giving me a glimpse of what’s under their hoods, I realize half of them are undead and the other half still all have glowing eyes of various colors. Mostly darker colors.
+
+They also have rather psychotic looks in their eyes. Which is to be expected of the Cult of the End.
+
+“I’m sorry, but could I just keep-” I begin, not really expecting it to help much from what I’ve heard of these people. And just as I expected, they interrupt me.
+
+“Lady Death, we have come to bring you to your esteemed Holy Land,” they repeat the exact same thing again in sync with a fanatical look in their eyes.
+
+“Oh,” I mutter, briefly glancing towards Shirogane, who seems to be rather conflicted about what he should do. Since these guys technically belong to the Rex Dynasty of the Dead, it would be pretty bad for him to attack them.
+
+All of the spell circles around us – each one being black and clearly death magic spells – swirl around in circles a few times before expanding and summoning forth dozens of undead all around us. Some within the waters, others just appearing as spirits on the ship. And some summoned from spatial locations where they were no doubt stored by the necromancers.
+
+Then another spell circle appears on the deck of the ship. This one being purple and likely of spatial magic.
+
+Ugh. This is getting really annoying.
+
+“Stop it now,” I declare, raising my voice while summoning dozens of Lesser Death Spirits on the ship. Only for the undead to easily overwhelm my Death Spirits and quite literally pick me up in a princess carry while somehow being extra gentle. As if the undead was touching a holy relic or something.
+
+And, instead of stopping as I told them to, they repeat, “Lady Death, we have come to bring you to your esteemed Holy Land.” But this time they also add on a simple, “It will be far better than this waste of a rock.”
+
+Huh. Bias, much?
+
+I glance at Shirogane as I struggle rather unsuccessfully to get out of the arms of the undead giant holding me. And to my surprise, Shirogane actually looks like he is about to finally help me.
+
+Only for the purple magic circle to flash, blinding me before I find myself off of Vortel and on some other planet. One clearly belonging to the Rex Dynasty of the Dead.
+
+Not sure which planet though.
+
+How I know it’s one of the Rex Dynasty of the Dead’s worlds?
+
+Because of the fancy high tech stuff all around the plaza I find myself in. And the massive skyscrapers surrounding the plaza. And the massive fucking triangular building behind me. And the fucking statue of me in the plaza.
+
+This… makes me more than a little uncomfortable.
+
+It’s not just one statue either now that I look around a bit more. It’s dozens upon dozens of them spread around the massive plaza. Each with people wearing cloaks bowing down to them.
+
+And that’s not counting the massive screens on some of the skyscrapers showing my image as well.
+
+I crouch down slightly while covering my mouth.
+
+Right. So, I probably shouldn’t throw up.
+
+Don’t throw up.
+
+Right. Don’t.
+
+Didn’t even know I could.
+
+Can I? Not sure.
+
+Maybe?
+
+All of the necromancers who kidnapped me appear all around me in the plaza along with their summons. Summons that they banish just as quickly as they arrive before they all kneel.
+
+Meanwhile the people who were already in the plaza quickly rush over and kneel as well, each with fervent looks in their eyes.
+
+Then a single sentence is stated simultaneously by quite literally tens of thousands of people filling the entire damned plaza. And it’s not just them, because I’m pretty sure I see people sticking their heads out and bowing through the damned windows of the skyscrapers.
+
+“Welcome to Your Beloved Holy Land, Lady Death. May you forever find peace and tranquility within these lands.”
+
+I just kinda look up at them all while still crouched down feeling more than a little befuddled at the sudden twist in my situation and location.
+
+Silence fills the entire plaza as the music that was playing goes silent, leaving me here amidst tens of thousands of people who are all looking at me with a fervent and honestly creepy look in their eyes.
+
+“Um,” I mutter, only for their eyes to flash with even more fervency as some of them even write down a single thing on a notepad I didn’t even realize half of them had. “So would you…” I trail off when I realize they’re literally writing down every word I say. “Could you stop doing that please?”
+
+A man at the front and center of both the group here and the one that kidnapped me steps forwards and says, “No, please forgive us Your Ladyship, but we are but ants in front of you. We must take note of your every word to learn from it. To take in your wisdom.”
+
+I stare blankly at him while beginning to wonder if I’m in some horror movie or not.
+
+Not a very good one, that’s for sure.
+
+“So… could I go back?” I ask with a frown on my face.
+
+They don’t say a word yet have the damned gall to write that down as well.
+
+Seriously? Do these people have rocks for brains?
+
+“Excuse me?” I ask after a long period of silence passes without any form of answer. “You wrote that down. You can’t tell me that you didn’t hear what I just asked.”
+
+No one says a word.
+
+Instead they just write that down too, leaving me putting my face in both hands and letting out an exasperated sigh.
+
+Which they write down too.
+
+Just… what the hell is even going on here?
+
+I’m… not sure how I should even process this.
+
+I focus on the only person here who has spoken individually. A man with short black hair wearing that same black cloak that everyone here is wearing. He has glowing black eyes with two very sharp fangs in his mouth that lead me to believe he may be a vampire. And he’s looking at me just as fervently as the others.
+
+“Lady Death, would you please grace us with the chance to show you your Sacred Chambers?” the man in question asks while bowing his head low.
+
+Seriously? Sacred Chambers?
+
+Please tell me they aren’t just going to add the word ‘sacred’ to anything related to me…
+
+“If you’re not going to release me, I might as well,” I mutter, of which they write every bit down again.
+
+Might as well. It’ll at least get me away from all these people.
+
+And the Rex Dynasty will know about what happened. Shirogane will see to that. Then the pharaoh should come to free me.
+
+Probably.
+
+On another note, I get the feeling that this may just have been what Shirou warned me about.
+
+When he told me to be careful.
+
+I had honestly forgotten about that thanks to everything that’d happened. And thanks to… Frank…
+
+Well, anyways, the ones who kidnapped me begin to make some sort of escort formation around me as if I were some sort of princess before they walk me towards the massive triangular building. Which snaps me out of the sadness I’d just felt from thinking about Frank again.
+
+Because this is just weird.
+
+“Shirogane, please get here soon…” I mutter to myself out loud.
+
+Only to hear the scribbling of pens as the idiots around me write it down.
+
+Fucking hell, would they please just stop it with the writing?!

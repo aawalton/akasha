@@ -1,0 +1,173 @@
+---
+id: d4b93a86-d108-5b76-9bf8-72609bf5f292
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 43"
+slug: 0273-b4-chapter-43
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 273
+ownLength: 1746
+unit: words
+ownProgress: 1746
+publishedAt: 2025-04-26
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2233742/b4-chapter-43"
+royalRoadId: "2233742"
+markedReadAt: "2026-06-29T19:15:02.150Z"
+---
+
+Aria
+
+My brief look around the planet ends up taking about a year. And by this point I find myself rather used to the place. Used to dealing with the werewolves and the worms in particular, but also with their virus. Since I’m fully adapted to every single strand of it now.
+
+And there are multiple types of the virus, as I’ve found out.
+
+Each of which I had to adapt to separately.
+
+But right when I finally head to the capital to go find the artifact, I find a few things… troubling… to deal with.
+
+For one, I find a large barrier around the treasure vault that I realize rather quickly I can’t break with brute force strength. That I’ll need to get through the password-protected panel used in the electronic part of the spell making the barrier to get inside. And I can’t risk blowing it up because of the whole capital and the whole damaging the artifact issue.
+
+Then the second problem is that I don’t have any sorts of tools that I can use to brute force the password panel.
+
+I also can’t get into contact with anyone because of the barrier around the world. Which I only realized even existed half a year after arriving on the world. Since it didn’t block my entry into said world.
+
+So I can’t contact Crimson or anyone else to come and give me advice. Nor can I do anything other than buying weapons and explosives through my device. Since, while I can use the device to teleport them here, I can’t send any signals to change what I’m buying through it.
+
+Fortunately for me, the security measures for using false passwords – and for some reason they only have passwords and nothing else – is rather lax. Probably because they didn’t really expect anyone to be sitting at the door of their guarded treasure vault brute forcing the lock panel on the wall directly in front of their security cameras.
+
+In the end it means I’m left here typing in one password after another for the next whatever years. While being blasted with lasers every time I enter the wrong password.
+
+But none of that is my biggest issue.
+
+My biggest issue are the two sources of the whining I hear as I purse my lips and cross my arms, just looking down at the floor of the room where the password panel is within the rather high tech capital hall. The building hosting the treasure vault.
+
+The biggest problem is the two baby wolves here.
+
+I have tried to ditch them multiple times, but each and every time they just come back. Over. And over. And over again.
+
+Even when I try to go to the other side of the facility, they somehow end up where I am while whining.
+
+And I would never harm a hair on a regular, non-hostile wolf’s head. Much less a wolf pup.
+
+Wolves are my favorite animal after all.
+
+I let out a sigh before walking over to the panel and glancing back at the wolf pups, only to surprisingly find both of them obediently sitting at the other end of the room. Almost like they know it’s dangerous over here with the security.
+
+Well, at least I won’t have to worry about them getting in the way.
+
+So with that, I spend the next several hours typing in different passwords and being shot full of holes thanks to the laser security system. Without having any luck in brute forcing the correct password.
+
+Eventually I call it a day and begin walking back to the wolf pups to find both of them sleeping. Not to mention looking rather adorable while doing it.
+
+The two wolf pups look identical to each other with the sole exception of one thing.
+
+While both pups have gray fur, one of them has a single stroke of blue fur going down its head while the other has a single stroke of red fur going down its head.
+
+If I had to guess, they’re probably from the same litter or something.
+
+I think litter was the term for wolf pups in the same birthing, right?
+
+Probably.
+
+I’ll just go with it regardless.
+
+Anyways, they look cute. And surprisingly Asher isn’t getting upset about them.
+
+Normally Asher always gets fussy about any pets I’ve tried to get near to pet in the past. Like he’s possessive of me or something.
+
+But Asher actually jumps down and rubs his little cheek against the pups and looks rather happy for some reason.
+
+So I decide ‘why not?’ and pick both pups up before heading to a room nearby that I found earlier is able to close. Sealing off the werewolves from the place.
+
+Actually, it was the room where I originally found the wolf pups.
+
+After settling into the rather barren room – with the exception of a random crib that I have no idea why is in here, not to mention some items I think a baby would use – I just start reading while sitting in the corner.
+
+And reading.
+
+And reading some more. For several more hours.
+
+Until I’m snapped out of it by what sounds suspiciously like crying babies.
+
+The… heck?
+
+I furrow my brows as I look up from my book, only to freeze rather stiffly when I see Asher playing with two babies where those two wolf pups used to be. And while I at first begin to wonder what happened to the pups, it only takes a single glance at their hair to snap me back to reality.
+
+Black hair, with one baby having a red streak through her hair, and one baby having a blue streak through his hair.
+
+What the fuck is going on?
+
+The two babies stop crying thanks to Asher playing with them, but I just sit here staring at them.
+
+Both of the babies look to be around, er, maybe half a year or so of age? Maybe?
+
+I’ve never dealt with babies in my entire life, so I wouldn’t know the exact age of them. But they’re old enough to have hair at least, and they’re sitting up, so…
+
+Oh, and they have four rather sharp canines that don’t look particularly human.
+
+Which both implies they’re probably somewhere between half a year and a year old, and they are not normal. Since most people in general – babies or otherwise – don’t have fangs.
+
+My mind goes back to the wolf pups with the same colored streaks in their fur as these babies’ hair. Then it goes to the two babies. Then back to the wolf pups.
+
+Then part of me wants to just ignore it all and go back to reading. But before I can make any decisions, I see Asher looking at me with puppy dog eyes despite being a kitten.
+
+Or would they be called kitten eyes?
+
+No idea.
+
+He’s an old kitten though, so it’s just weird for him to do that. Regardless of his appearance.
+
+I get up from my corner while putting my ebook reader down, totally not falling for his cuteness as I walk over to the two babies and pick them up rather awkwardly. Probably not properly either, but these babies seem to be rather tough, so I don’t think that’s a problem.
+
+Then I move them both over to the crib and back away for a second as Asher jumps in with them.
+
+Okay.
+
+So…
+
+At least this answers why there are a bunch of baby items in here?
+
+But where is their…
+
+I glance at one door inside of the room on the right side. One that I couldn’t open since it was locked from the other side.
+
+There’s also another door outside nearby, so this door probably is connected to that one.
+
+The babies’ parents’ room, perhaps?
+
+I walk over to the door before glancing at the babies who are still playing with Asher. Then I go ahead and pull out a laser cutter and begin cutting open the door. And in the process finding that there isn’t any security attached to the door.
+
+After cutting through the bolt, I push the door open.
+
+Only to grimace when I am assaulted by the smell of dying flesh. With the babies immediately starting to cry again at it.
+
+So I pass through the door and close it behind me to keep the stench from the babies.
+
+And what I find inside of the room are two people lying dead in their room next to a large werewolf corpse. There’s also blood splattered across half the room, and the corpses seem to be starting to decompose a little.
+
+I notice a few things about the two people in the room though.
+
+For one, they’re wearing clothes that are all ripped up. But they’re ripped up in a way that suggests they were too large for their clothes. Despite their bodies clearly not being too large for them from what I can see.
+
+Then there’s the fact that these two have sharp canines as well, just like the kids. And one has bright red hair and the other has bright blue hair.
+
+Although they’re opposites from the kids. With the woman having the blue hair and the man having the red hair.
+
+Just one look through the room pretty much explains it all, no matter how sad that is.
+
+There’s blood everywhere, but especially on a panel next to the door I just made my way through. The woman is near the panel with her hand stretched out, and the man is at the center of the room. Meanwhile the werewolf is dead next to the door itself, with multiple scratches on the door. Albeit no dents, likely because the werewolf wasn’t strong enough to dent it.
+
+I let out a sigh before going ahead and putting the bodies of the two people in my storage ring to go bury somewhere on the surface and make graves for later.
+
+Because, by the looks of it, they deserved that.
+
+For protecting those two babies.
+
+Meanwhile I just burn the werewolf’s corpse.
+
+Then I head back into the babies’ room, melding the door shut behind me so that it’ll never be opened again. And so that the stench doesn’t come in here.
+
+I look back at the two babies who are both looking at me with their heads tilted in different directions.
+
+Great.
+
+What to do now…

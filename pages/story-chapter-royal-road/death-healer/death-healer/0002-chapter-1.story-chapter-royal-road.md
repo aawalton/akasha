@@ -1,0 +1,333 @@
+---
+id: f5acedb7-8f74-578b-8595-4527a4e63d5f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1"
+slug: 0002-chapter-1
+partOf: death-healer
+position: 2
+ownLength: 3282
+unit: words
+publishedAt: 2025-05-04
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2254567/chapter-1"
+royalRoadId: "2254567"
+---
+
+Lily, wearing a white coat, a colorful wig, and a red nose, tapped her index finger on her chin, narrowing her eyes at the girls.
+
+“Again, again!” Three little girls chanted in the recreation room of the pediatric oncology wing of the hospital.
+
+“Again?”
+
+“Yes, yes!” They clapped their hands.
+
+“Dr. Luna Laugh is a professional,” Lily said with mock haughtiness. “I need to hear some cheers if you want to see her perform.”
+
+Another doctor, who stood behind the three girls and a bored boy, rolled her eyes as Lily bent on her knees and cupped a hand to her ear.
+
+The girls cheered, but Lily shook her head.
+
+“I can’t hear you.”
+
+The girls started screaming, and Lily, smiling, went and took them with her, careful not to trip over their IV poles.
+
+She brought them to a deserted corridor and gestured to the nurses, who knew her antics very well and made way for her to perform.
+
+“Are you ready, girls?” Lily winked.
+
+“Yes! Yes!”
+
+Lily took a few steps back, measuring the length of the corridor with her eyes. She gave an exaggerated bow, which made the girls giggle, and then launched into a series of cartwheels that became increasingly theatrical. Her white coat billowed around her like wings, and the pens clipped to her front pocket jingled wildly.
+
+She transitioned smoothly into a round-off. The girls' squeals of delight echoed through the hallway as she followed with a back handspring, her red nose somehow staying perfectly in place. Nurses smiled and shook their heads at the familiar sight of Lily’s corridor performances.
+
+For her grand finale, Lily pushed off into a backflip, landing with a flourish – and her white coat fluttering up and over her head like a ghost. She stumbled around dramatically, arms outstretched, pretending to be blind.
+
+"Oh no! Where did everyone go?" she called out, her voice muffled under the coat. "I think I'm lost! Is anyone there?"
+
+The girls shrieked with laughter as Lily wandered in zigzags, getting closer and closer to the wall.
+
+"Watch out!" they called between giggles.
+
+"Watch out for what?" Lily asked, taking another step. "I can't see anything under here—oof!" She bounced off the wall with an exaggerated stumble, falling onto her bottom with a theatrical "Ouch!"
+
+The girls' laughter grew even louder as Lily finally pulled the coat off her head and rubbed her nose with an oversized pout.
+
+"Why didn't anyone warn me about that wall?"
+
+Lily walked back toward the girls who tried to hug her and sneaked a look at her friend, Dr. Irina Ivanova, the resident Pediatric Oncologist.
+
+Irina nodded toward a little boy who had his arms crossed and hadn’t seemed amused at all by her performance.
+
+Lily checked the girls’ IV lines and ensured they were still okay before turning to the boy. These were all kids whose parents worked and couldn’t spend three or four hours at the hospital waiting for them to start and undergo their chemo. That was why Lily took her breaks to put on a bit of entertainment for them.
+
+“You don’t like Dr. Luna Laugh’s tricks?” She asked with a raised eyebrow, still in a theatrical voice.
+
+“That’s girl stuff,” the kid said.
+
+He was new, so Lily didn’t know his name.
+
+“What’s your name?”
+
+“Hakeem.”
+
+“Dr. Luna will now show you a trick, Hakeem,” Lily declared confidently.
+
+“Whatever,” the boy shrugged.
+
+Lily smiled confidently and took her red nose off. She twirled the red nose between her fingers with a smirk still painted all over her face. Then, she narrowed her eyes, and her face went stone cold. She held the nose up for Hakeem to see, then dropped it to the floor, bouncing it lightly with her foot like a hacky sack. Hakeem’s expression didn’t change; he remained unimpressed.
+
+She suddenly shifted stance and, kicking her foot up, sent the ball high. Then, she performed a fully vertical kick, raising her foot straight up until her sole faced the ceiling. The red nose balanced delicately on the arch of her foot, drawing a few gasps from some of the nurses who had paused to watch. Hakeem’s eyes widened ever so slightly, though he tried to hide his interest.
+
+Lily held the pose momentarily, stretching her scrubs more than usual, perfectly balancing the red nose on her sole before she let it drop. With a fluid motion, she twisted her body and sliced through the air with her leg in a clean roundhouse kick. The red nose flew across the space toward Hakeem, and without thinking, the boy reached out his hands and caught it on his chest; his mouth fell open, unable to hide his surprise anymore.
+
+The girls erupted into cheers, clapping their hands, while Hakeem looked down at the red nose he’d just caught, speechless.
+
+“Dr. Luna Laugh is a deadly warrior,” Lily said, striking an exaggerated karate pose and shouting, “Hiya!”
+
+Hakeem blinked a couple of times, then finally cracked a small smile, though he tried to hide it by looking down.
+
+“Okay… that was kinda cool,” he admitted, clutching the red nose.
+
+“Why don’t you keep that and practice at home,” Lily said, pointing at the red nose. “Next time, you can show Dr. Luna what you can do.”
+
+The boy nodded enthusiastically, and she smiled warmly at him.
+
+One of the nurses, who had been watching the spectacle, turned to Irina with an incredulous look. “Dr. Ivanova, how can she do all that? She’s so… athletic.”
+
+Irina shrugged with a smile. “She trained for a long time in mixed martial arts—she’s got a gymnastics background, too.”
+
+* * *
+
+Lily was changing back, removing some makeup she had worn for the kids in a storage room. She heard the door open and saw Irina looking at her. “Back to the Dungeons?” Lily was pursuing a double residency in Radiology and Pathology. Today, she would spend the rest of the day looking at scans in the hospital's basement—what the doctors and residents called ‘the Dungeons.’ “I've pretty much wrapped up for the day,” Lily said with a shrug. "I have a meeting with the board shortly.” “Right, about the chemo outreach. You think they’ll actually cancel it?” Irina asked, not hiding her concern. Lily nodded. Lily pressed her lips into a thin line. “They’re definitely thinking about it. That’s why I submitted my proposal. And since the Director also wants to finalize my contract, I’m hoping I can convince them to keep it running—maybe even expand it.” Irina patted Lily’s shoulder. “I know you. You’ll find a way.”
+
+* * *
+
+“I have it on good authority that our major donors, including Mr. Wozniak, are monitoring the situation,” Lily began as she stood at the head of the conference table. Several board members, plus the Director, watched her intently. “If we cut the outreach program, the PR fallout alone might overshadow any budget benefits.”
+
+A few board members exchanged uneasy glances. The Director shifted in his seat, looking pinched. He wanted to redirect the funds from the chemo outreach program toward a much more lucrative partnership with a pharmaceutical company.
+
+Lily continued, distributing printed pages.
+
+“But rather than cutting the program,” she said, “I propose an expansion that could make it more profitable. The state has a new grant fund, and if we meet certain benchmarks—”
+
+She tapped a line on the first page, explaining how they could earn a sizable reimbursement and reduce the hospital’s net costs. She moved on to potential partnerships with pharmaceuticals to negotiate cheaper chemo drugs in bulk.
+
+One board member frowned.
+
+“This is all very… optimistic. What if the expansion fails to attract enough new patients?”
+
+Another chimed in, “Our analysts need to vet these numbers. We can’t gamble so much money over a program we’d rather shut down for good.”
+
+Lily folded her hands together, nodding.
+
+“That’s fair,” she smiled, “I’ve included contingencies on page three. My calculations are conservative, and the hospital infrastructure already exists—we’d just convert an unused wing.”
+
+The Director cleared his throat.
+
+“Dr. Ember,” he started with a poignant tone, “the Board was expecting you to provide a plan to wind down or redirect this program, not double down on it. Are you sure you’re not overstepping?”
+
+There was a tense silence. The Board President waved the document in the air, smiling.
+
+“For now,” he said in a measured tone, “we’ll review these documents. Frankly, Dr. Ember, you’ve given us a lot to consider. But no decision can be made right this moment.”
+
+A flicker of disappointment crossed Lily’s face, but she merely inclined her head. She could tell half the table was intrigued and the other half skeptical.
+
+“We’ll reconvene in a week,” the Board President added. “In the meantime, Dr. Ember, the Director will speak with you about your contract. Thank you for your time.”
+
+* * *
+
+Lily was ushered into the Director’s office shortly after the board meeting. The room was wood-paneled, with a large mahogany desk and a wall of awards—many touting the Director’s accomplishments.
+
+He greeted her with a tight-lipped smile and gestured for her to sit.
+
+“Close the door, please.”
+
+Once she did, he picked up a file on his desk—her contract. He tapped it lightly.
+
+“You’ve certainly stirred up some… interest with your proposal.”
+
+Lily smiled warmly.
+
+“I merely provided a plan that benefits both the hospital and patients.”
+
+“Hmm,” he said, opening the file. “As we discussed, we’ve been considering offering you a permanent position. Your double-specialty is quite the coup for us. However…” He snapped the folder shut. “I intend to reject your proposal for the outreach program. The board might not realize it yet, but once I give them the real numbers on this, they’ll understand we can’t expand the chemo program.”
+
+“Sir, the numbers are real. I’ve vetted them,” Lily said plainly.
+
+He ignored her protest.
+
+“You’re lucky we haven’t replaced you with someone more… agreeable,” he said with a fake smile. “I gave you this opportunity, Dr. Ember.” He paused, eyes cold. “All you like about your double-specialty exists because I approved it. And I can take it away with a single signature. Never forget it.”
+
+“Are you threatening me?” she asked, raising her eyebrows.
+
+He allowed himself a slight, menacing smirk.
+
+“Consider it a wake-up call. Sign this contract with a smaller salary, drop your push for that chemo expansion—and keep your head down. In a few years, you’ll be signing an extension with a massive bonus and a higher salary. First, though, you’ll have to prove a team player. Or I’ll see to it that your career ends before it truly begins. Understood?”
+
+Silence.
+
+Lily’s jaw tightened ever so slightly, but she didn’t flinch. Instead, she reached into her white coat pocket and pulled a folded paper. She placed it on the desk.
+
+“Director,” she said calmly, “this is a copy of a DUI report. One that, as far as I can tell, was never submitted to the state medical board for review.”
+
+He froze, color draining from his face.
+
+“Where did you—”
+
+She placed an envelope next to it, sliding it gently toward him.
+
+“These are photographs. Let’s call them… supporting evidence of it and some, instead, just for fun.”
+
+She didn’t elaborate. The Director’s hand twitched involuntarily as he snagged the envelope and looked through the photos wide-eyed.
+
+Leaning back in her chair, Lily folded her arms.
+
+“Now, I trust we understand each other. The outreach program will go through. My salary will be adjusted upward to match my value. And you’ll ensure your final recommendations to the Board reflect the real numbers.”
+
+The Director swallowed. His voice came out strained.
+
+“You—do you realize what you’re doing?”
+
+“Getting a better offer and doubling down on a good program?” Lily asked innocently with a kind smile.
+
+For a long moment, neither spoke. Then the Director released a tense breath and nodded once, eyes locked on the envelope.
+
+“Very well,” he said at last, hardly above a whisper. “I’ll finalize everything tomorrow.”
+
+Lily stood, nodded politely, and walked out.
+
+* * *
+
+Lily slipped the key in the door and opened it to her cramped apartment.
+
+Medical books and printed papers were scattered everywhere.
+
+She put on the table the draft for an article she had authored about a new flesh-eating bacteria that had appeared in West Africa out of nowhere. Lily and her boss, Dr. Langford, had already sent a warning to the CDC like many of their colleagues.
+
+The cell wall is particularly weird, Lily thought. She had finally had time to inspect the sample today, paired with the electronic microscopy scans a partner lab had sent them. It's not a gram bacteria—there's an extra layer that looks like… chitin. I don't even know where we'd start with a cure.
+
+All early attempts to kill the bacteria had actually been unsuccessful. Nothing short of dumping a strong acid onto the bacterial culture had managed to kill it.
+
+And we can't inject patients with acid, can we now? Lily thought, shaking her head.
+
+She glanced at a half-finished fantasy novel on her coffee table and raised an eyebrow.
+
+I can't imagine anything besides magic that could kill this bacteria.
+
+Thankfully, it didn't seem to be airborne or particularly infective at the moment, giving them plenty of time to figure out what was going on.
+
+She sighed and poured water into her electric kettle and set it to boil. Then, she found an herbal tea bag and turned on the soundbar below the TV, connecting it to her Bluetooth.
+
+She gathered her unruly blonde hair into a bun and slipped into her pajamas. After the kettle beeped, she poured the boiling water into her cat-shaped mug and rubbed her face.
+
+Then, she rested her hands on the kitchen counter, and after a beat, she dragged a chair in front of the large wall window in her apartment and looked at the smoggy sky.
+
+As she sipped the herbal tea, she saw a distant explosion in the city that made her frown.
+
+What the hell?
+
+Then, a few more followed, and car alarms started going off everywhere.
+
+Lily took her phone and checked her socials, but the internet was down.
+
+Before she could formulate another thought, a skin-curling scream came from a close apartment.
+
+Lily ran up to the door and checked the peephole.
+
+The scene she saw made her stomach drop.
+
+A man was on the ground on all fours, over a woman, tearing her neck apart with his teeth. There was blood everywhere—all over the woman, on the floor, and over the man’s mouth.
+
+Lily felt a sharp burst of terror go through her body when the man turned toward her door. The man had deep red eyes that flicked up to the peephole.
+
+The man’s face was disfigured, with a large cut going from his left eye socket to his mouth and his nose completely missing.
+
+Behind it, Lily saw the woman's body starting to convulse. Her skin was turning gray, and black veins spread over her arms, neck, and face.
+
+However, before she could pay any more attention to her, the man's jaw dislocated into an inhuman scream.
+
+It leaped up like a panther and dashed to Lily’s door, crashing into it with a sonorous thud.
+
+Lily seized up and almost fell backward, looking on her kitchen counter for a knife or something.
+
+The thing pounded the door a few more times, and then went silent.
+
+Lily took her biggest kitchen knife and silently went to the door’s peephole again.
+
+When she looked through it, that monster was nowhere to be found. Eerily, the woman, too, had disappeared. The blood, however, was still there, proving she hadn’t just hallucinated.
+
+She fastened the lock before retreating toward the large window in her living room to observe what was happening.
+
+Half of the city was now covered in smoke.
+
+Suddenly, a falling star drew a white streak in the sky, tinging the smoggy canvas with a brilliant, mercurial streak.
+
+“What is happening?”
+
+Lily frowned as she saw the star suddenly burn brighter instead of dimming and disappearing. The shooting star seemed to suddenly change its course and detach from the sky as it sped through the city and phased through Lily’s window, resting just a few feet from her as a snowy globe of light.
+
+“Your world is ending, Lily Ember,” the star said with a deep voice.
+
+With a globe of opalescent light now talking to her, Lily started suspecting she was losing her mind.
+
+“You’re sane, child. This is an invasion. A great monster from the multiverse grew so much that now countless planets are being infected by his spawn.”
+
+Surrendering to the situation's craziness, Lily tried interacting with the light.
+
+“So, you say the world is ending. Is everyone about to die?”
+
+“Worse than that, I fear,” the deep voice spoke again.
+
+Lily thought for a moment about what could be worse than death. Then she remembered the creature she saw outside her apartment—that… zombie.
+
+“Why are you here with me, then? Who are you?”
+
+“I am a friend. And I’m here because I have an offer. An exchange of old.”
+
+If I’m going insane, I might as well listen to this thing rather than go out with that monster rooming the condo.
+
+“Ok, what’s the offer?”
+
+“You currently do not have the means to save everyone here. The monster I speak of invaded this place before magic could fully populate your world. No one will have a chance of surviving because it came before your people could have the tools to fight it.”
+
+“Ok, and what’s the offer?” Lily pressed the light.
+
+“I can give you a chance to save everyone, Lily Ember. You would have the tools to stop this catastrophe.”
+
+“Stop it? Didn’t you say everyone’s doomed?”
+
+The light paused for a second and spoke with regret.
+
+“Yes, but only here and now. I would bring you back to a time and a place when and where the great evil can be stopped. But that means you would be gone from Earth forever. Everyone you know and love on this planet would never see you again, even if you managed to avoid this catastrophe.”
+
+“I’m sorry. Let me see if I understand,” Lily started. You would bring me back before this whole…” She gestured to the city.
+
+“Yes.”
+
+“And I would have a way to stop it, but I wouldn’t be on Earth?”
+
+“Exactly.”
+
+Lily frowned and then started giggling. Then, the giggling bloomed into a full hysterical laugh.
+
+She laughed like a madman.
+
+“You’re a peculiar creature, Lily Ember. What is that you find amusing?”
+
+“You know what’s the first thing I thought of?” She said to the light, brushing away a lock of blonde hair from her exhausted face. “The chemo outreach program. Do you have the power to make that work even if we go back in time and I never exist here anymore?”
+
+The light stared silently at her, and then Lily heard a deep laugh coming from the light.
+
+“Of course.”
+
+Lily nodded and took a last look at her apartment.
+
+“Will I ever come back?” Lily said.
+
+“Never,” the light replied. “Once time and space unravel for you, they can’t be turned back. Even if you reached the apex of the universe, you’d never meet the same Earth that was attacked today. Such are the laws of time and space.”
+
+“Fine with me,” Lily sighed heavily. “So, where are we going?”
+
+“To a new world.”
+
+Before she could say another word, the light expanded, and everything suddenly went white.

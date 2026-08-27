@@ -1,0 +1,175 @@
+---
+id: 584cd53c-0ea1-5382-b3c4-e820cae486df
+page-type-slug: story-chapter-royal-road
+title: "Chapter 33"
+slug: 0034-chapter-33
+partOf: death-healer
+position: 34
+ownLength: 1902
+unit: words
+publishedAt: 2025-06-12
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2351619/chapter-33"
+royalRoadId: "2351619"
+---
+
+Calpurnia stood with her arms crossed as she glared at Lily, and the air in the room felt stifling because of the tension that remained after the confrontation. She noticed Lily’s calm stare and asked with a sharp tone, “Why did you do that?” Lily lifted her chin before replying in a firm voice.
+
+“I can win.”
+
+Her unwavering response caused Calpurnia’s eyes to narrow. “Publius’s son has a Class. Even if it has been just a few weeks since his Class Day, he will have Attributes and Skills from his Subclasses and his First Class. Do you understand what this means? You have barely begun your training.”
+
+When Lily met Calpurnia’s gaze, she saw faint redness around the older woman’s neck. She felt anger simmer within her, and it frightened her that she could feel so furious and yet so determined at the same time.
+
+Vespera stepped forward and spoke in a low voice that carried an urgent warning, “Mother is telling you the truth. You cannot do this. You should ask her to intervene on your behalf, because this will not be an honorable match.”
+
+Selena stood beside her mother without offering much in the way of quips, and the raven-haired girl who usually had a clever remark only stared at Lily’s reaction with silence.
+
+Lily responded in a measured way, “I have already said everything I needed to say. I will not withdraw my challenge.”
+
+“Liliana,” Calpurnia exhaled, “you must withdraw the offer. Sextus will try to—”
+
+“I will not,” Lily said resolutely. “And I will also win.”
+
+“I will not,” Lily answered. “And I will also win.”
+
+Calpurnia clenched her fists. “He is Classed!” Vespera appeared just as exasperated when she nodded in agreement with her mother’s words.
+
+“I will not,” Lily answered. “And I will also win.”
+
+Calpurnia clenched her fists. “He is Classed!” Vespera appeared just as exasperated when she nodded in agreement with her mother’s words.
+
+“Aunt Calpurnia, I appreciate your help, and if you don’t want to train me anymore, I will understand.”
+
+“It’s a damn order, Liliana! You must not face him!” Calpurnia’s voice rose.
+
+Lily went quiet for a moment, and both Calpurnia and her daughters felt something shift in the atmosphere. The young girl straightened, and it seemed as though a more imposing presence had settled into her small frame.
+
+“Calpurnia,” Lily said, speaking in a calm yet assertive tone, “I regret that I have to remind you, but I am the current heir of Gens Claudia. You will speak to me as someone who respects my position, because you have no authority to give me orders. If you fear for me because of your nephew, you have misunderstood my resolve. You must think I was boasting when I said I would become the Champion, that I would stand as the next Pope, and that I would remove Aurelianus from his title and from his family. I was being serious. If I cannot deal with this boy and his arrogant father, then how could I possibly achieve any of that? Do you believe I should abandon my goals simply because they are dangerous?”
+
+Lily didn’t wait for a reply and simply got up from her chair.
+
+She did not wait for a reply. She pushed her chair back and stood up in one swift movement. “You will find me in the courtyard, training. If you would rather send me away, have a carriage prepared. I will return to my family’s estate.”
+
+She left the room as the silence pressed in on the others. Calpurnia and Vespera exchanged stunned looks, and Selena hesitated for only a moment before she hurried after Lily.
+
+* * *
+
+Lily gritted her teeth as she swung her fist.
+
+The muscles in the forearm were barely of any use in such a motion, but she soon realized that unless she infused all her muscles with Coniunctionis, she would experience a great imbalance during movements.
+
+And that goes for every single muscle in my body.
+
+Not only she had to coat them with a finely woven net of Light Magic to save them from excessive strain, she also had to be able to instinctively trigger dozens, maybe hundreds of threads at once if she wanted to win this duel.
+
+She remembered that Calpurnia had taught her only the rudimentary method of using Coniunctionis. It had seemed like a strong finishing technique, but it did not function well as an all-purpose enhancement.
+
+What Lily was going for, instead, was a more fundamental addition to her fighting style. She knew that, technique-wise, she had it. But she was weak. And there was no other way for her to become stronger in the brief span of two years.
+
+Ok, how many muscles are active when I do this…
+
+Lily moved one step forward and twisted her torso, kicking with her other leg.
+
+She stepped forward and pivoted, pushing her leg out in a swift motion, and she felt the complicated web of Mana threads slip from her control in unexpected ways. When she noticed how many individual connections she had to hold, her heart sank. The entire feat seemed too complex to manage in a month.
+
+A sudden voice cut through her focus. “Life-and-death situations help you level up faster than normal training.” Lily jerked her head up and saw Selena watching her.
+
+“Huh?”
+
+Selena took out her daggers—not the practice ones—and faced Lily.
+
+Lily’s pulse quickened at the sight of real blades.
+
+“Why would you bring those?” Lily asked.
+
+“I know what you’re trying to do, I think. You’re making multiple threads. Flavia did the same.”
+
+Flavia was the third twin, the mysterious one that Lily had yet to meet.
+
+Lily looked at the daggers. “So what do you suggest?”
+
+She was, theoretically, trying to do the same, but Selena didn’t understand on what scale.
+
+“You’re very talented,” the raven-haired girl said, almost begrudingly. “But you’re never going to make it in time if you just do it on your own. I don’t know what Mother is going to do, but I’m in. I’ll spar with you. I’ll hurt you. So that you can grow stronger.”
+
+Lily understood immediately.
+
+Selena wanted to force progress through life-and-death practice.
+
+“I suspect,” Lily reasoned out loud, “that trying to do what I’m doing consciously is almost impossible. There are too many moving pieces. I think it has to be instinctive.”
+
+Selena nodded.
+
+“I’ve heard Flavia say the same. She can use Coniunctionis up to fifteen times in a row, somehow. And she can heal herself, sort of like you. She has shaped her entire fighting style around it. It’s… scary. Vespera can use it six times.”
+
+If I didn’t have my healing and the Light Magic Skill… my body wouldn’t be able to take this more than once.
+
+For Selena to be able to use it three times, it meant that her body was at least thrice as resilient as Lily’s. And Vespera…
+
+Flavia must be very strong.
+
+“Ok,” Lily said, squaring her feet and looking at Selena. “Let’s go. Come at me.”
+
+“Can you heal mortal wounds?” Selena asked with a frown.
+
+“Yes. Just don’t… don’t go for an instant kill.”
+
+Lily heard the snapping sound of muscles and bones under Coniunctionis and saw that Selena had just appeared right in front of her, with one of her daggers sticking out of Lily’s belly.
+
+Selena twisted it once, then pulled it free. “I hope you told the truth about your healing,” she said.
+
+Calpurnia did not speak to Lily for days, because she observed the insane commitment that the girl displayed while training under Selena’s merciless strikes. Whenever Calpurnia walked past the courtyard, she felt the heavy scent of blood in the air. There was a metallic tang that lingered whenever she drew close, and her nose wrinkled with worry. She saw Lily push herself at dawn and keep going late into the night, and she watched from the balcony with silent concern.
+
+Lily had taken to the new training like a fish to swimming.
+
+The amount of blood that had been shed in the courtyard was nothing short of horrorific. If Calpurnia didn’t know better, she would have suspected that a slaughter had undergone right outside her home.
+
+In reality, it was all Lily.
+
+Coniunctionis didn’t rely on a great deal of Mana and, somehow, the girl’s healing seemed to be so efficient that Calpurnia had yet to see the blonde run out of Mana once.
+
+Instead, Lily kept practicing from dawn to the late hours of night, bleeding and, worse, breaking bones. At some point Calpurnia had noticed that the young girl had stopped thinking consciously of Coniunctionis, instead relying on her insincts to trigger it. It made for quite the comical scene from the outside, with Lily making movements that had her jump awkwardly, faceplant on the ground, and the like.
+
+But, Lily was using the Martial Art so extensively throughout her body that even her ribs had snapped already several times.
+
+If she hasn’t yet earned [Pain Resistance], I’ll eat sand, Calpurnia thought.
+
+From the balcony where Calpurnia observed Lily, the middle-aged woman, however, started noticing something else. The movements became more and more refined. It was a ludicrous change for how small it was—really, Lily was making barely any progress—but Calpurnia understood something that an amateur would have never recognized.
+
+There was no small progress in what the blonde was attempting.
+
+Calpurnia had noticed early that Lily was trying to do what her most talented daughter, Flavia, had managed to do after years of practice: to incorporate Coniunctionis in armonic movements, not to use it just as an amplifying force for one single attack. Truthfully, after Calpurnia had learned the Second Form, Vena Aetheris, she had never gone back to the First Form.
+
+Looking at Lily’s movements, becoming less and less ridiculous, she started doubting herself.
+
+Maybe I was a fool.
+
+* * *
+
+A week passed, and Lily finally caught Selena with a clean blow.
+
+“Ugh,” Selena wheezed, walking several steps back and falling to one knee, spitting a mouthful of blood.
+
+But instead of mocking her or being enthusiastic about it, Lily sprung to Selena’s side, putting a hand on her sparring partner’s shoulder and sending a pulse of healing through her body.
+
+Selena nodded and slowly got up.
+
+“You’ve done it,” the raven-haired girl said, looking at Lily with a genuine smile. “You’ve done it.”
+
+“I think so. My control over it is not that good, though. It was luck, mostly. I finally managed to align all the threads. It felt… right in my mind.”
+
+Lily had broken herself an uncountable amount of times during this period but, finally, she had managed to win.
+
+She turned to Selena. “Are you well enough to continue?”
+
+She sent an eyeful toward Calpurnia, who had not sent her away but who had also not spoken to her once since that incident.
+
+“That’s enough. My sister can’t put you in danger anymore.”
+
+Lily turned to see Vespera’s white hair swaying in the afternoon breeze. Unlike the usual angelic self, she was wielding a long spear and wearing a silvery armor.
+
+“It’s my turn, now. You still have to pay for disrespecting my mother. I won’t go easy on you.”
+
+Lily widened her stance and smiled at Vespera.
+
+“I never wanted anything else. Show me what you can do.”

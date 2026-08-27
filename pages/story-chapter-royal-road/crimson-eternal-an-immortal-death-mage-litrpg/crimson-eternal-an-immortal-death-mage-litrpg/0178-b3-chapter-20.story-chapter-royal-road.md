@@ -1,0 +1,129 @@
+---
+id: 25d1ff47-b4a9-58f4-b4d1-146ce97b474c
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 20"
+slug: 0178-b3-chapter-20
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 178
+ownLength: 1482
+unit: words
+ownProgress: 1482
+publishedAt: 2024-07-04
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1704653/b3-chapter-20"
+royalRoadId: "1704653"
+markedReadAt: "2026-06-29T19:11:46.457Z"
+---
+
+Aria
+
+To my further surprise, the pharaoh and all of his people are incredibly considerate of me. The moment they see that I’m the least bit uncomfortable, they try to do everything they can to fix it without making me any more uncomfortable.
+
+When they saw that I was uncomfortable about the looks they were sending me, they stopped. When they realized the silence in the bridge made me uncomfortable since it just felt like they were obediently staying silent for me or something, they started acting like I wasn’t there. The pharaoh even offered me his seat in the bridge or to wait in a lounge room where no one will bother me.
+
+All without being pushy in the slightest.
+
+The complete opposite of those fanatics back in the cult who would just act like my disapproval didn’t exist certain things like that.
+
+Oh, and apparently the pharaoh made certain that all of the writings the fanatics made about me were burned to cinders.
+
+Although I’m pretty sure he burned more than just the papers. But I’m not gonna say anything about the crater left behind that used to be the compound.
+
+Was almost as if he was trying to erase any evidence that what happened existed.
+
+A bit overboard if you ask me.
+
+Anyways, the trip to the capital only ends up taking about four hours. And at some point, the pharaoh explains to me why it took so long to get to the world in the first place.
+
+It was apparently because of some sort of jammer that made locking onto the coordinates of the planet impossible through lightspeed travel. So they could only travel through regular space instead of hyperspace.
+
+Not that I know what half that means.
+
+What I do find amazing though is the sight of the capital ‘world’ when we arrive through the bridge windows. A massive planet made out of metal with two points at the top and bottom of the planet that look kind of like pyramids going upwards.
+
+“Those are both entrance and weapons,” the pharaoh explains the moment he sees me looking. “They’re how people enter my Temple, and the location where Rex fires its lasers from.”
+
+Not sure if that’s entirely safe. If my understanding of a laser is correct.
+
+A weapon made of some sort of focused light, I think. One so focused it burns straight through things with ease.
+
+I’m a little curious about what they can do, but for some reason I get the feeling that it’d be best not to ask. Because I’m pretty sure they’d give me a display of the weapon’s power. And I’m not sure what they’d use as target practice.
+
+That said, I am a guest, and they are giving me a spaceship for free. So I have to give him something.
+
+Instead I ask, “Temple?”
+
+The man’s face relaxes ever so slightly. Which from what I’ve come to learn, generally means he’s happy.
+
+Then he answers from his place standing next to me as I sit on his own command chair, “Think of it like my palace. It’s where I rule. The heart of my domain.”
+
+That doesn’t sound so bad. For a second there I thought he was gonna say-
+
+“And it’s where worshipers come to worship you,” he says, making my head jerk to the side. “But only the outer portions are open to the public. Very little of the temple itself is public.”
+
+Yeah… right… why would a temple be anything other than a place of worship…
+
+“Do you want to see your spaceship?” the pharaoh asks, immediately making my interest do a one-eighty as I instantly turn to look at him And when he sees the look no doubt in my eyes, he begins to chuckle and says, “Is it safe to take that as a yes, Lady Aria?”
+
+I nod my head. Then I look out the window again at the sight of a nice spaceship coming into view. One that spans at least a couple hundred meters in length. It has a crimson and black color scheme, with bits of white here and there as well. Colors matching my own rather well. Meanwhile it has some sort of symbol on the side that has me tilting my head ever so slightly.
+
+“I apologize if we were too presumptuous, but we had our very best designers create a symbol for you, Lady Aria,” the pharaoh says, sounding like he’s rather proud of it despite his words. “We, of course, realize you do not have your horse just yet. But the symbol was created by a seer who had seen the future.”
+
+My mouth parts open slightly as I look at the beautiful yet terrifying symbol on the side of the ship. One of the head and mane of a skeletal horse with glowing red orbs for eyes and a mane of fur running down its neck despite being naught but a skeleton on some sort of eerie sphere of black and white energy that looks kind of like a moon but also not. Meanwhile an entwining circlet of thorns surrounds the moon-thing and skeletal horse.
+
+“It’s beautiful,” I find myself muttering without even meaning to.
+
+And immediately after I state that, the entire bridge breaks out into cheers, startling me and Shirogane in the process.
+
+I look at the pharaoh next to me just to find him sighing while muttering to himself, “Thank Lady Death herself, if you didn’t like it, I’m afraid we would’ve had to torch the entire ship and bring out the next one.”
+
+Wait, what?
+
+I stare blankly at the pharaoh for several seconds as he calms down before I ask, “What ‘next one’?”
+
+He turns to look at me while calmly answering, “One of the other one hundred ships we prepared for you, each with different symbols. This was just the first and most likely to work according to our seers.”
+
+“And… why would you need to torch the ship if I didn’t like the symbol?” I can’t help but ask, briefly glancing from him to the ship and back to him again.
+
+“Because any ship that was tainted with a false symbol looked unkindly upon by Lady Aria must be burned and left to be purified in the Plane of Death alongside those who made the symbol,” the pharaoh answers with a completely straight face, almost blindsiding me.
+
+Right. Almost forgot, but this guy’s a tyrant. Regardless of how well he treats me and how he literally thinks of me as a goddess.
+
+He’s definitely a fanatic himself. Just in a fanatical way directed towards treating me well and how I want, unlike the fanatical ways the others were treating me.
+
+“What’ll happen to the other ships?” I ask out of curiosity.
+
+He turns to look out the window as he answers, “They’ll have the portions with the symbols cut out and burned before the symbols will be replaced with this one for each ship and each warship.” Then he blinks and glances at me again. “Oh, but don’t worry. The symbol is hideable. All you need to do is give the ship a command and the symbol will no longer be visible, allowing you to go where you please in secret.”
+
+Oh, well that’s convenient.
+
+Wait, did he say each ship and warship? Did he just admit to this being a warship? And what does he mean by…
+
+Actually, maybe it’d be best if I stop asking questions.
+
+His fanaticism is really starting to show, and I’d rather not see that side of him.
+
+Although, I do wonder just how much coin he blew on all of these spaceships. It must’ve been a lot considering what I asked for.
+
+And if I’m being honest, I really didn’t expect him to go this far when all I said was I wanted to purchase a spaceship.
+
+At most I expected him to give me a good one and push it onto me without letting me say no. Didn’t expect him to do that with one hundred ships.
+
+Wait a second, I focus on him again as I ask, “You’re going to be putting my symbol on a hundred ships?!”
+
+He gives me a confused look as if that weren’t even a question while stating, “Of course. They’ll be your backup ships should your current one become damaged.”
+
+I shouldn’t have asked.
+
+I really shouldn’t have asked for a ship.
+
+But how was I supposed to know he’d make a hundred ships for me?!
+
+After staring at the ship for a while, I eventually turn to look at the pharaoh and tell him, “Thank you.”
+
+Which, of course, makes a smile stretch across his face. Thereby also making gasps run throughout the entire bridge.
+
+I really need to get used to this.
+
+Or I can just leave the Dynasty.
+
+That works too.

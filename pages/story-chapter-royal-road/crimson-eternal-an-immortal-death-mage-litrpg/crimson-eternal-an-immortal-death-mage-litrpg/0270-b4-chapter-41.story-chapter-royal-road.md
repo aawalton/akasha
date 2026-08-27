@@ -1,0 +1,167 @@
+---
+id: 59e228f7-4d25-5dd1-8c33-ebf0a5fda9ab
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 41"
+slug: 0270-b4-chapter-41
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 270
+ownLength: 1429
+unit: words
+ownProgress: 1429
+publishedAt: 2025-04-15
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2205268/b4-chapter-41"
+royalRoadId: "2205268"
+markedReadAt: "2026-06-29T19:14:55.872Z"
+---
+
+Aria
+
+Years upon years pass in peace as I sit on the surface of the spider and now fallen demon covered surface of this planet reading, watching TV, and even doing a couple other random things to stave off any boredom I may have. Including recording a video of myself singing that I posted on some random music website just for fun.
+
+Because why not?
+
+Haven’t looked at it since though.
+
+It’s been very peaceful overall, with the only interruptions being the occasional high Tier spider that leaves their nest and tries to attack me after following some of my Death Spirits. Since most of the low Tier spiders avoid the hell out of me. Likely because of the immense amount of death energy I give off.
+
+And the fallen demons still don’t respond to me at all. Even when I kill them.
+
+Actually, when I kill them they just look confused. Like they’re not sure what’s killing them.
+
+Makes me wonder if the things can only see life force and can’t actually tell if something is living without it.
+
+Which is interesting, but not important.
+
+I also haven’t gotten any attempts from my friends and allies to communicate with me other than Leone, who called to say she was going back to her people’s realm for a bit.
+
+Not even Little Blue.
+
+Probably because of the whole Demon King thing going on outside of this planet.
+
+Speaking of the Demon King fiasco, I have kept up with that a little bit. Not much, but a little. So I know the guy is actually not doing anything over the years he’s been alive.
+
+In fact, the only problems his birth has caused are those fallen demons that have appeared all over the universe. The Demon King himself seems to be holing up somewhere unknown to everyone.
+
+It’s what every nation is currently searching for.
+
+The Demon King.
+
+Once again though, it’s completely unrelated to me.
+
+I yawn, only to blink in surprise when a spaceship breaks through the poisonous gas above. One that I can easily tell from the sigil on it belongs to the Rex Dynasty of the Dead. And immediately after it enters my sight, a familiar pharaoh leaves the ship and moves down towards me.
+
+Oh. Right.
+
+Undead.
+
+The poison probably doesn’t work on him.
+
+I often forget he’s undead since he looks like a regular-ish person.
+
+Once the pharaoh reaches me, he lands on the ground and kneels on one knee at the base of my lawn chair as I sit up. Then I glance down at myself to find that I’m currently wearing a regular short sleeved t-shirt and shorts before looking back at him again. Deciding that this is perfectly acceptable clothes to meet a pharaoh in.
+
+“I have finally determined the location of the lyon’s home world, Lady Death,” the pharaoh declares rather grandiosely. “I have my soldiers passing the data off to Crimson as we speak.”
+
+“Thank you,” I tell him with a smile. After which the pharaoh quickly gets up, gives me a polite nod while saying something about not bothering me for any longer, and leaves.
+
+Probably to get back to the whole Demon King fiasco he no doubt has to deal with.
+
+I yawn once before standing up from my lawn chair and stretching a bit. Then I pack everything away in my storage and have a shuttle come down from the ship above the planet while I deal with sending all of my Death Spirits back to the Plane of Death.
+
+After retrieving my supplies from them, along with the loot from their hunts.
+
+Which is a lot. Considering I must’ve spent decades loafing around- err, I mean relaxing on this planet while they hunted.
+
+Probably
+
+About the decades part, not the ‘a lot’ part.
+
+There really is an enormous amount of loot. Probably enough to create an entire nation and buy out a planet to house it.
+
+Or at least, enough to do that when added to my current amount that I have saved up.
+
+Hmm. I wonder if I should ever do anything with that money?
+
+Right now it’s just sitting around gathering dust in my storage.
+
+I never even bothered to put it in any sort of bank.
+
+Maybe I should pass some of it to Little Blue so that she can fund the mercenary company some more?
+
+I gave her some money for that purpose at the start, but she’s never asked for more since.
+
+Actually, on that note, I wonder how much the company has actually earned?
+
+That thought gives me pause for a few seconds before I eventually just shrug it off and step into my shuttle the moment it arrives. Then I fly back up to the ship to find it empty except for some undead leaving it. All of whom bow before me as I pass.
+
+No doubt the undead that were giving Crimson the data.
+
+“Crimson, please put me into contact with Leone,” I state out loud as I walk through the ship with my hands held clasped behind my back. But after a few seconds, I rephrase that and say, “Actually, scratch that. Just tell her I’m heading for their home world now and will get back to them when I get back to them. With their little treasure.”
+
+|Relaying the message now. And welcome back, Lady Aria.|
+
+“Thank you,” I tell Crimson with a smile without pausing in my step.
+
+Several seconds pass in silence before Crimson responds again.
+
+|The lyon has responded saying to look for the capital of the planet within a large mountain. That their clan’s artifact will be within the treasure vault of the royal castle.|
+
+“Got it,” I state with a nod and a small salute. “Tell her I said that.”
+
+Now I just have to go play fetch with this little artifact of theirs while probably turning into a werewolf and back over and over again. Also probably without even finishing the transformation.
+
+Fun.
+
+“Set our next destination to the world the pharaoh’s men gave you the coordinates of,” I order Crimson as I step into the command bridge of my ship. “To the lost world of Nera.”
+
+|Coordinates are already set, Lady Aria. Would you like to begin the journey?|
+
+“Yes,” I state while sitting down on my command chair. “How long will this trip take?”
+
+|The estimated time for the journey is two weeks.|
+
+My eyebrows raise at that.
+
+Must be very far away then.
+
+Much further away than any planet I’ve ever been if it takes that long to get there even with this ship.
+
+|Additionally, Lady Aria, would you care to take a look at the service you uploaded your video to one year ago?|
+
+I blink at that.
+
+“Why?” I ask with a frown. But I open my terminal to navigate to the app anyways.
+
+|You will understand once you see it.|
+
+And I do.
+
+I very much do.
+
+My mouth falls open at the massive number of views on the video. Not to mention the millions of comments.
+
+As for what they’re all saying?
+
+They’re generally rather split.
+
+There are those talking about how they like my singing even if I obviously have no training. There are those talking about how I look beautiful. And there are those talking about how a Horseman of the Apocalypse posted a video of herself singing some random emotional song about love.
+
+Mostly the last one, but plenty of the first two mixed in with the last one.
+
+I stare at the video and the likes for several seconds before glancing at a mountain of notifications. Both from viewers liking and commenting on the video, people messaging me, and the service itself bugging me about allowing monetization on the video to make money.
+
+Several more seconds pass in silence as I stare.
+
+Then I eventually just shrug, click enable on monetization, then close out of the app without a word. Deciding that I won’t bother with this. That it won’t harm me in any way. And that I don’t really care about it at all.
+
+Right. I should be at Nera in a couple weeks.
+
+So it’s time to go back to reading.
+
+Reading is great.
+
+|Lady Aria, are you really going to ignore that?|
+
+“Yes,” I state firmly in response while pulling out my ebook reader. Then I ask in return without looking up, “Are you really going to keep calling me ‘Lady Aria’ despite how many times I’ve told you to just call me Aria?”
+
+|Touche.|

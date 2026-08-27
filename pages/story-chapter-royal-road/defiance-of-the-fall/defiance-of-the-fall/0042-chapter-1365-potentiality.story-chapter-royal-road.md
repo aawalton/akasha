@@ -1,0 +1,195 @@
+---
+id: e3d5b5e3-8364-5471-b00d-30218b458259
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,365 - Potentiality"
+slug: 0042-chapter-1365-potentiality
+partOf: defiance-of-the-fall
+position: 42
+ownLength: 3085
+unit: words
+publishedAt: 2025-10-14
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2676567/chapter-1365-potentiality"
+royalRoadId: "2676567"
+---
+
+Zac walked to the side and draped himself in his new Outer Court Disciple garb. Its design veered toward the wide robes of Imperial Scholars, and its automatic fitting couldn’t resolve the fundamental mismatch with his brutish frame. Already used to such things, Zac took out the booklet and Outer Disciple token to figure out the details that Old Sixth glossed over.
+
+By dripping his blood, Zac established ownership, and a series of flutters appeared in his mind. The feeling was similar to his Treasure Sense, where he could feel a slight pull from seven distant locations. Curious about what it meant, Zac infused his will and received a short prompt in return.
+
+[Potentiality: 837]
+
+[Imperial Merit: 63,838]
+
+Potentiality clearly wasn’t a grading of his talent. It was the name for the Mercurial Court’s internal currency, likely related to the potential to change fate, going by Old Sixth’s cryptic hints. Zac had no way of gauging whether 837 was a high number, but it didn’t seem likely. He hadn’t accomplished much in the way of assisting the Mercurial Court as he had the Hollow Court. Most likely, it was connected to his actions in the Peregrine Ocean. He’d done exactly what Old Sixth wanted by adding unpredictable variables to their arrangements.
+
+The token didn’t explain its fated connections, so Zac turned to the booklet. The book only listed a dozen obvious rules, such as not harming fellow disciples and that Potentiality could be used to access various resources. Oddly enough, the introduction also stated that most opportunities could be utilized for free if one didn’t want to use merit. If that were possible, what was the point of accumulating Imperial Merit or the internal point system?
+
+Next, Zac learned that the provided array disk only had one feature. It could “actuate fate,” whatever that meant. There were also a few points specifically pertinent to outside visitors. Zac was delighted to learn his attendants could be brought over as soon as he’d claimed a residence. They didn’t need to cross the Peregrine Ocean as he did, though they would be limited to the status of Servant Disciples.
+
+Zac didn’t care about that part so much as the fact they still held extremely valuable resources as part of their deal. Continuing on, the booklet listed a huge number of services and holy regions, drastically surpassing Rava’s already impressive offering. The Mercurial Court was no worse than a Peak Sect, holding every single type of facility imaginable.
+
+So long as Zac had the money, he could do anything: upgrade his treasures or get new ones—there were over a dozen different treasuries. There were unique cultivation grounds and unique marks left by Supremacies. Just as Xiphos promised during their first meeting, even Cosmic Natal Treasures were mentioned.
+
+The book only mentioned the possibility of “renting” such supreme treasures, and even that exceeded what Zac could afford. The price was worth it. Zac knew well how valuable resources like the Axe Coliseum’s [Big Boss’s Big Wall] were. He could only imagine the benefits of meditating in front of a supreme treasure born during the Big Bang.
+
+Most of the listed opportunities veered toward the Peaks of Continuum and Fantasy, but even someone like Zac could keep himself occupied for millennia. Some of the Holy Grounds seemed to be the size of worlds, indicating the Mercurial Court’s true size was massive.
+
+The residential districts were also mentioned, and Zac was happy to learn Outer Disciples would get their own manor with a courtyard. However, there was no mention of the district’s location. For that matter, the booklet didn’t explain where anything was, not even any restricted regions or the Mercurial Court’s central structure. There were only repeated mentions of ‘The Citadel,’ which Zac assumed was the huge city.
+
+“Gimme, gimme,” Esmeralda urged while impatiently tapping Zac’s forehead.
+
+Zac shrugged and handed her the booklet while taking out the Information Jade. It didn’t hold any communal cultivation method or a map. Instead, there were thousands upon thousands of images with short descriptions. Skimming it, Zac found images of everything from an average Outer Court Disciple’s manor to the Scripture Tower that held even A-grade manuals.
+
+There were no further explanations inside the [Mercurial Sack], so Zac approached a nearby Outer Disciple. “Excuse me, could I ask where the quarters for Outer Disciples are located?”
+
+“Oh, is senior one of the visitors?” the young woman said with interest, her gaze shifting between Esmeralda, who was holding a book as large as herself, and the golden crest on Zac’s chest.
+
+“No need to call me senior,” Zac said to the Late E-grade disciple. “My name’s Everit Draom, and I just arrived.”
+
+“Nice to meet you, Lord Draom. I’m Jisi Aetem.”
+
+“Likewise. You’ve heard about us?”
+
+“Only some rumors. You’re supposed to be really talented, like Inner Disciples,” Jisi said, her expression growing slightly odd. “I can’t sense any Space or Illusory powers from you?”
+
+“Uh, yeah. I don’t really do that. I leave that to my companion,” Zac shrugged, pointing at the toad on his head. “So, the quarters?”
+
+“Oh,” the young woman blinked and looked around. “They should be somewhere over there.”
+
+“Should? You don’t know?” Zac said with confusion, following the direction she pointed. “You don’t live there?”
+
+“I do; it’s just that I haven’t been home in a few weeks. Some trial and error is needed to figure out where the district has wandered off to.”
+
+“I’m sorry, what? It wanders?”
+
+“Oh right, things don’t work that way on the outside. Who’s manning the desks? They didn’t explain how things work?” the disciple muttered, glancing toward the administrative building with confusion.
+
+“Something came up, so I got the abridged introduction,” Zac fibbed. “So how do you find your way back home if it wanders?”
+
+“The Citadel is endless, but you eventually learn to intuit things. Of course, the token is still critical. Do you feel it calling you?” Jisi asked.
+
+“Yes, in a couple of directions,” Zac nodded.
+
+“I’m guessing five, right?” Jisi smiled.
+
+Zac nodded at her to continue, seeing no need to mention he could feel two more.
+
+“The five represent the Court’s five permanent fixtures—the residences, the markets, the lecture halls, the Peregrine Isles, and the Conflux Mountain.”
+
+“So just follow the call pointing in that direction, and I’ll get there?” Zac asked.
+
+“I wish it was that easy,” Jisi smiled. “Space isn’t linear, and reality isn’t quite real here. Don’t blindly follow directions or you’ll get lost in the Citadel. You have to adapt to its mercurial nature. Still, it won’t take you too long to find the permanent fixtures. Well, unless you’re unlucky and they’re playing hide and seek.”
+
+“I see. I’ll have to experience it myself,” Zac said. “What if there are more than five calls coming from the token?”
+
+“You just arrived and already feel the call of destiny?” Jisi exclaimed with a mix of surprise and envy. Still, she dutifully explained what it meant. “Any signal beyond the original five represents destined encounters.”
+
+“Is that what the book meant?” Esmeralda eagerly asked, giving Jisi a scare. “If we find something ourselves, it’s free? Just use the [Aligned Array] to open a door?”
+
+“I—Ah. Greetings, senior toad,” Jisi said. “The lecturers say there’s nothing free in this world. There is always a cause and effect. But essentially, yes. If you find a resource on your own, it means you’re fated. That means you can use it once without paying. Unfortunately, it’s rare for Outer Disciples to seize fate like that. Years can pass between encounters.”
+
+“Is it more common for Inner and True Disciples?” Zac asked.
+
+“It is. Their Destiny is stronger.”
+
+“If you want something specific, is there anything you can do to nudge fate in your favor?” Zac followed up.
+
+“Everyone here has their own theories. Maybe the direct descendants have some inside knowledge. Most of us just walk around when we’re not busy. There’s a chance to seize destiny without relying on the token.”
+
+Zac asked a few questions to get a rough understanding of the situation. Simply put, the Citadel was an endless, ever-changing city. The Mercurial Court and all its critical structures were hidden within. Satisfied, Zac asked a final question.
+
+“Do you know an old man in blue robes who calls himself Old Sixth?”
+
+“The Sixth Elder?!” the Servant Disciple yelped, her face turning as pale as a sheet as she turned and ran.
+
+Or at least she would have if Esmeralda hadn’t turned her around with a simple Spatial Manipulation. Before she could try to escape, Esmeralda had jumped over to land on her head.
+
+“Tell us what’s going on or I’ll start screaming to get the old man’s attention. Trust me, the codger has a good relationship with my ancestors,” Esmeralda lied with her best villain voice.
+
+“Esmeralda is just kidding,” Zac quickly said upon seeing the disciple was about to faint from anxiety. “The elder has already left. He needed to repair an important structure.”
+
+Visibly relieved, Jisi explained in a hushed tone, “Sixth Elder likes to borrow disciples for his experiments. He appears out of nowhere, sometimes dragging one away. Sometimes it's thousands. Not even Inner Disciples are safe.”
+
+“Safe? Are his experiments dangerous?” Zac asked with a frown.
+
+“No,” she blushed. “They’re not dangerous so much as embarrassing. The Sixth Elder is studying perception’s effect on fate. If you think you’re a hero, will you seize a hero’s Destiny? I have a friend who was made to think she was a dragon. She ran around roaring at people for two months. She even bit an Inner Disciple. She was so mortified afterward that she wouldn’t come out of her room for months.”
+
+“Uh, I understand. I won’t keep you then,” Zac said, seeing the disciple’s anxiety resurface.
+
+Esmeralda snickered as she watched Jisi run off as fast as her legs could carry her. After discussing things with Esmeralda, they still decided to set out in the direction of the residential district. The two opportunities were naturally more enticing, but Jisi said they were hard and time-consuming to find. Neither he nor Esmeralda were interested in spending weeks tracing an unknown opportunity at this point.
+
+They left the square, and Zac immediately sensed something had changed. Just like Jisi said, they’d stepped into an endless illusion, though Zac was surprised at the shoddy quality. The district they’d entered lacked the depth of a proper illusion, and Zac didn’t feel his perception twisted at all. The buildings had imperfections, and the disciples going about their day moved too robotically.
+
+Out of curiosity, Zac entered a random shop, only to find himself back on the street. The interiors hadn’t even been simulated. He soon realized the street by no means was representative of the Citadel’s sprawl. Zac crossed parks, wealthy neighborhoods full of ostentatious manors, and busy markets filled with residents. The number of real people walking the streets wasn’t even ten thousand to one.
+
+The quality of the illusions varied wildly, with many so exquisite that Zac couldn’t be sure of their real state. He was amazed that E-grade cultivators dared to walk around in such a confusing environment. It wouldn’t be difficult to get hopelessly lost. Zac was in no hurry, walking slowly to get a sense of the place. It was also a chance to see if his extraordinary Luck would lead him to an opportunity or at least let him sense treasures from a distance. So far, Zac had no such luck.
+
+“Have you grasped any patterns?” Zac eventually asked, his voice barely audible over the bustle of a boisterous restaurant street. Different from most of the other districts he’d passed, Zac had spotted at least twenty real disciples. Judging by the delectable smells drifting onto the street, the illusory dishes were extraordinary and possible to enjoy.
+
+“Yes and no,” Esmeralda said after a while. “This city follows some of the concepts we saw in the labyrinth during the challenge, except on another level entirely. The flows and trajectories are perfectly integrated with the world. I might notice some gaps by chance, but intentionally manipulating or even navigating is nigh impossible.”
+
+“Seems easier to find our targets on the outside and wait for a memory wind to come along,” Zac nodded. “That begs the question: how do we get out? I haven’t seen any borders or exit signs.”
+
+“Well, keep looking,” the toad shrugged, not too anxious now that their situation was stable.
+
+Zac got his answer two hours later. The Citadel started to fade, the feeling indistinguishable from when a memory domain was about to run out of Imperial Faith. At the same time, the seal on Zac’s hand suddenly activated on its own.
+
+“It’s draining my Imperial Fate!” Zac exclaimed, eyes wide with panic.
+
+Zac felt like his life savings were set on fire. The fact that the Citadel briefly stabilized brought him no joy. They were far from anything of value, and trading Imperial Fate for a prolonged experience was a huge loss. He quickly suppressed the identity brand, forcing it back into his hands. As he did, the city resumed its steady decline.
+
+“Did we trigger something? Or move out of bounds?” Zac muttered as he flashed back to where they came from. Doing so didn’t change the world’s decay.
+
+“It might have been time rather than location?” Esmeralda suggested. “In either case, we should try to accomplish something before we’re sent out. Ending the trip this way would be a waste.”
+
+Zac nodded and increased his pace. Unfortunately, luck wasn’t on their side. The residential district was much closer than when they set out, but it actually moved further away as Zac increased his pace. It was like the city took offense to Zac’s attempt to force fate.
+
+“Wait, head over there!” Esmeralda said, pointing down an alley.
+
+Zac stowed the token and veered left. Since they couldn’t get their manor settled, they might as well go with Esmeralda’s intuition. They rushed down a series of narrow corridors until they stopped in a blind alley.
+
+“What now?” Zac asked while looking around. He vaguely sensed something, but he couldn’t figure out what it meant or where it came from.
+
+“It’s somewhere around here,” Esmeralda muttered, jumping around until she stopped before a barrel. “This is the one! Jump inside.”
+
+Zac looked at Esmeralda askance but followed the instruction. He tore off the lid, surprised that it almost took all his strength. A pitch-black hole waited on the other side, emitting a vague spatial aura.
+
+“Quick!” Esmeralda urged before jumping back into the Shrine of Kanba.
+
+The memory was about to collapse, so Zac dove headfirst into the darkness. His hands touched hard stone, and Zac briefly saw a resplendent tower before the world flickered. The next moment, Zac sat in a ruined square in front of scorched ruins. He could still make out the shared details. They’d actually found the Scripture Tower on their first outing.
+
+Only the first few floors of the tower remained, and there was no sign of the higher floors. It looked like the buildings in this area had been specifically targeted during a battle. Had the floors holding the more valuable scriptures been stolen, or were they taken away before the building was hit?
+
+Zac turned his gaze to the area just beyond, seeing a vast corruption zone. The damage was ancient, so the tower’s state was more likely related to the real attack on the Outer Courts than the invasion from the alternative timelines. However, the powerful attack that destroyed this area might have created the opening from which the Lost Plane’s Dead Dao could seep out.
+
+“Interesting,” Esmeralda hummed.
+
+“Did you figure out something?” Zac asked as he got to his feet.
+
+“It became much easier to sense spatial connections when the memory was about to collapse,” she explained. “With some luck, we might find a bridge right to a treasury next time. For now, let’s see if there’s anything valuable left inside.”
+
+Zac knew he shouldn’t hold out too much hope, but his heart still beat with anticipation as he squeezed through the massive gates. This close, he could feel an intense, resentful heat sealed in the depths of the materials, just like the lingering intent in the Centurion Lighthouse.
+
+The tower itself was safe thanks to a set of arrays still working against all odds, and Zac felt hair-raising energies gather. His Outer Court Disciple token flickered before Zac could panic, and a brief message appeared in his mind.
+
+“It works!” Zac exclaimed. “The tower said I can bring out one manual from the first floor.”
+
+“Good luck with that,” Esmeralda laughed, and Zac swore with realization.
+
+The interiors were free from resentment, but anything of value had been incinerated beyond salvation. Only ash and dust remained, kicking up swirls as Zac walked inside. Unwilling to give up just like that, Zac started focusing on corners and crevices that might have protected an Information Crystal from destruction.
+
+Esmeralda went her own way to investigate the building, and it didn’t take long before a call made Zac come running. Esmeralda was sitting in the middle of a circle cleared of ash, observing the stone floor.
+
+“There’s a hidden hatch!” Esmeralda exclaimed. “Whatever’s below might have survived the fire. Come, help me open it.”
+
+Zac walked over, suddenly bursting into action when he reached Esmeralda’s side. [Death’s Duality] tore through the air as chains sought to tie Esmeralda down. Both missed their mark. Esmeralda moved like a ghost, nimbly avoiding both axe and fetters. She reappeared a few dozen meters away, looking at Zac with curiosity and malice.
+
+Esmeralda’s mouth curved upward until it almost formed a circle on her head, and tumorous pustules appeared across her body. Adding to the corrupted aura she exuded, she looked more like a devil than a thief.
+
+“How did you know?”
+
+“You think I wouldn’t notice stepping into an Illusion?” Zac snorted as a wave of Miasma exploded from his body, ripping apart the hidden illusion.
+
+“What! How dare you!” An infuriated shriek shook the room as the real Esmeralda flashed over with blinding speed. Only at the last moment did she stop herself from barreling into her doppelganger, instead hiding behind Zac. “Kill it! How dare she tarnish my beautiful features?!”
+
+Zac knew it wasn’t the time to argue about the relativity of beauty. He had a Peak D-grade Qriz’Ul to kill.

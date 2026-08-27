@@ -1,0 +1,141 @@
+---
+id: 7658cfa2-f07b-5d37-ad79-a470185d6f7f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,363 - The Confusion Will Pass"
+slug: 0039-chapter-1363-the-confusion-will-pass
+partOf: defiance-of-the-fall
+position: 39
+ownLength: 3034
+unit: words
+publishedAt: 2025-10-07
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2658903/chapter-1363-the-confusion-will-pass"
+royalRoadId: "2658903"
+---
+
+Zac was eager to get going after spending close to a month buried in the ground, especially after learning one of the Nine Gardens awaited on the other side. Considering the number of layers they needed to cross before reaching the Hollow Court, he might get the chance to experience all the Gardens and Hells in a controlled environment.
+
+The descent should also hold opportunities equivalent to the Mercurial Court’s trials and crossing the Peregrine Ocean. Each layer felt like a treasure chest waiting to be opened. Unfortunately, the mysteries would have to wait a little longer. Between being sealed for weeks and breaking the Undead Empire’s commandments, Tavza needed another day of rest before she was ready to enter a world of Pure Life.
+
+On the other side, Esmeralda still hadn’t returned. Zac was confident he could break out of the treasury but saw no reason to do so. Esmeralda had clearly stowed him away for a reason, and cutting his way out would only add to her troubles. Instead, Zac decided to use the time to start work on his Peak D-grade blueprint.
+
+Zac needed to advance his Earthly Dao of Defiant War before finalizing the design—at the very least—but he could already get some of the work out of the way. That included going over the wealth of information he’d just unlocked in the Chaos Library and making preliminary adjustments to his old blueprint. This would set the stage for when he could gather another helping of Ultom’s enlightenment.
+
+While diverting some of his mental energy to the complex deductions, Zac took out the [Fuxi Mountain Gate] again. He’d previously only scanned it to ensure it was fine. This time, he entered the gate with his human body. The difference was palpable. Now that he’d entered, he could see the demarcation between the flames of Imperial Faith and the Void surrounding the platform had grown much clearer.
+
+It was thanks to the Void having reached sufficient density to form something like an environment, one that could endure Zac’s presence. There was still a slight sense of rejection, which Zac suspected would remain even after the gate was fully repaired. The [Fuxi Mountain Gate] wasn’t designed to be used as a hidden base; rather, it served as a supporting beam for the Fifth Pillar. Having cultivators walking around would damage the Void’s purity, and Zac was only barely an exception.
+
+It would take a while before the growing rejection threw him out, and Zac planned to make the most of his visit. He landed on the broken plateau, realizing it was even larger than he’d thought when observing from above. A few flashes brought him to the arch. Up close, the gate looked like two enormous skyscrapers erected a few miles apart.
+
+Glancing at the towering statue of the Scales of Earth, Zac suddenly remembered how he’d screamed and cursed at anyone who would listen. He’d even called on Karz and Laondio in his desperation. Had the Margrave heard him? Had the other eight Court Masters depicted alongside him? Zac shuddered at the thought. He still drew closer to the gate, albeit the frame opposite the Margrave’s.
+
+At this distance, it was clear that the arch was truly made from high-grade Void Materials far surpassing the crystals he’d bought in the Transformation Docks’ market. The stone didn’t seem repurposed from the heritage of the First People. It differed from both the platform he’d seen in the vision and the sole temple standing atop it.
+
+The leaders of the First People were certainly large enough that their bones could have been carved into the mountain gate, but Zac felt that wasn’t the case. The arch was made during the Era of Order. The Limitless Empire wasn’t necessarily the original builder, but they had at least made the finishing touches.
+
+Where did they get their hands on high-grade pure Void Materials? Who had the ability to modify them? Zac thought back to the Margrave’s statue as it emerged, and how the shift of the scales had inverted Void and Dao. Could this treasure have been built by the Margrave himself?
+
+Shaking his head, Zac focused on one of the scars. The ancient Dao embedded within acted like a festering wound. Zac wouldn’t have been able to get close if the gate hadn’t kept the vast majority of the aura contained. Ensconced in [Void Zone] and ready to escape the [Fuxi Mountain Gate] at the slightest hint of danger, Zac activated [Void Mountain]’s Dao-annihilating rune.
+
+A few seconds later, Zac stepped away with an annoyed frown. His initial assumption had proven correct. Using [Void Mountain] worked for erasing the foreign Dao, and it didn’t damage the gate. However, working didn’t equate to being effective. The hostile energy lodged in the scars was far beyond Zac’s ability to erase in a timely manner. He’d intentionally targeted one of the weakest scars, and that one would take years to whittle down. Fixing up the gate himself at his current level wasn’t feasible.
+
+Disappointed but not surprised, Zac turned to the vast darkness on the other side. He stepped through the arch, shuddering at the intense sense of nothingness waiting on the other end. There were dense, pure streaks of Void Energy flowing along the floating rubble, but most of the vast darkness held neither Cosmic Energy nor Void Energy. It was a true vacuum, though not quite as desolate as what he’d seen beyond the Multiverse’s edge.
+
+Intuition and the [Fuxi Mountain Gate] told Zac that traversing the trail of rubble in search of the true Void Mountain would prove to be a short journey without hope of success. Stopping at the platform’s edge halfway through the gate was already the limit. His connection with the gate was trembling precariously, as if the vacuum beyond could sever it.
+
+Zac felt like he was standing at the edge of the world. Turning around, the golden splendor of sunsetting faith felt distant, as if he’d crossed an invisible threshold. The echoing silence around him was the absence of Heaven and Earth. This wasn’t the protection of the Void Mountain Zac had envisioned, but any tribulation taken here should be weakened. A powerful rejection conveyed it was time to go, and Zac was back in Ogras’s hideout the next second.
+
+“Fifty-two seconds,” Zac mused.
+
+It wasn’t enough to go through the whole Core Formation process, let alone the years needed to create an Inner World. It was, however, just long enough to endure a tribulation. Accounting for unexpected situations, he could at least jump inside for the last one or two bolts where the danger was the greatest.
+
+Zac would rather avoid that scenario if he could, though. It was different to attract the Heavenly Tribulation while staying inside the Void than to escape inside mid-tribulation. In the former scenario, the tribulation clouds should form inside the golden sea of Imperial Faith. In the latter, it seemed more likely that the lightning would follow him through the [Fuxi Mountain Gate], potentially destroying it and cutting off his path back to reality.
+
+There was also the issue of both his bodies needing to enter the hidden realm. Would it even work? If it did, would it double the drain? Still, having the option was better than not having it, and Zac felt he’d taken yet another step toward Peak Hegemony. With that done, Zac turned his attention to his companions.
+
+Zac had already confirmed that Verun and Haro were fine, though they remained in a state of slumber much like Zac’s. He couldn’t sense any lingering traces of Supreme Dao, and their spiritual state was stable—and growing. The reason for their torpor seemed to be overconsumption. Like him, they’d feasted on the bourgeoning spirituality and needed more time to digest it.
+
+Haro, especially, had benefited from the encounter. His central bulb had grown almost by fifty percent, and he emitted traces of the sanctified energy that had kept Zac going through his breakthrough. Giving it some thought, Zac transferred half of his spiritual soil to Haro’s world ring, and the Skyrender Vine’s tendrils subconsciously drew toward it.
+
+Haro already had the foundations to become a Plant Emperor upon maturity, but that wasn’t enough. He needed more opportunities to excavate and imbue more potential so that he could follow Zac to even greater heights. Lending a helping hand while Haro was still a sapling would provide the most bang for the buck, so hoarding his valuable soil would be counterproductive.
+
+Thankfully, their comatose state didn’t impact Zac’s combat effectiveness too much. Haro couldn't fight by his side, but Zac could still control some of his vines through [Adaptive Symbiosis]. It was the same with [Verun’s Bite]. Activating Verun’s ability wouldn’t work, but the axe could still be swung just fine. In fact, using them would probably help their digestion of energy and Dao.
+
+Three hours later, a harried-looking Esmeralda finally returned to the vault where she’d deposited Zac’s Draugr half. The toad launched into a tirade before Zac could greet her.
+
+“So there I was, having the best dream. My power was restored, and there were treasures and pickable locks aplenty. Imagine my surprise when it was all ripped away, and I was reduced to a nanny keeping you safe. If that wasn’t bad enough, your rampaging bloodline has stolen so many goodies before I could get to them,” Esmeralda said, and it was clear the last part was the real reason for her anger. “What do you have to say for yourself, you greedy little tadpole?”
+
+“I’m sorry, I sometimes sleep-eat,” Zac said with a wry smile. “Keeping me safe from what? Has Kaltosa Lu already caught up?”
+
+“No sign of the elemental, or any other trial-taker for that matter. We’re under attack by the court itself, no doubt because of your antics,” Esmeralda huffed with annoyance. “The ruins came alive the moment your vortices started rifling through the pantry. I’ve had to move you around while creating distractions—among other things. Thankfully, we can tackle the biggest problem now that you’re up. The window’s about to open, so we need to get going.”
+
+“What window?”
+
+“No time,” Esmeralda said, dragging Zac into her pouch before flashing away.
+
+Zac felt himself moving through a spatial crack, and he was out the next moment. He barely had time to take in the surroundings before a wall of gold appeared right behind them. Esmeralda moved like the wind, narrowly outrunning it. Moving at that speed exposed her location, and Zac’s mind suddenly screamed with danger.
+
+Esmeralda had the situation well in hand. She whizzed through unfamiliar ruins, constantly changing directions while tapping specific spots on the ground. Each tap was like a painted bull’s-eye that diverted the vast perception homing in on their location. Soon enough, the looming danger faded, and Esmeralda stopped long enough to give Zac a better look from his spot in her pouch.
+
+“It’s all changed,” Zac exclaimed.
+
+He was turned around, and their position was different from where he had fallen unconscious. Still, he was sure the locations of the corrupted zones and memory domains had changed over the past week. Some had changed size; others were simply gone. Even the ruins looked slightly different, though that part could be his fault.
+
+“The Mercurial Court lives up to its name,” Esmeralda sighed, pointing at a golden haze that filled the ruins where Zac had spent the past hours. “I call them memory winds.”
+
+“I can’t see what’s happening inside. Is it a traveling memory domain?” Zac asked, realizing it wasn't growing so much as moving.
+
+“I think so. Their aura is the same, but they’re all obscured like that. What I do know is that they’re altering the present wherever they pass. Mostly, it’s only small changes. A ruin looks slightly better or worse. However, strange things have happened when the memory winds clash with the pocket of corruption. The changes are more drastic,” Esmeralda said with a solemn expression. “Sometimes… things come out.”
+
+“What?” Zac blurted. “There are actually people who can leave the memory domains?”
+
+“Sort of. You call them Qriz’Ul, I think?” Esmeralda said. “Well, I’m not exactly sure what they are. They seem to hold memories like the simulated people, but they’re not truly bound by the trial’s rules. They’re like the invaders in the Transformation Docks, I think. At least the ruins consider them invaders.”
+
+“Moving domains, changing the present,” Zac mused. “A memory wind is about to reach somewhere important?”
+
+“Exactly,” Esmeralda said. “Our problem is that the Mercurial Court has placed us in the same category as those beings. So the first step is to get you registered as a respected guest. That should take the heat off our backs. I’ve been investigating the ruins, and I think I’ve found the entrance. The defenses around it are terrifying, but a memory wind is about to cover the whole thing. That’s our chance.”
+
+Their destination wasn’t far. Esmeralda explained she’d been stuck at the outer rim for the past week. The half-crumbled buildings were roughly in the same state as the Centurion Lighthouse—meaning they could still hold treasure but also dangerous protections. The deeper she delved into the ruins, the more overbearing the hidden arrays became. Not even Esmeralda could avoid their detection without paying a steep price.
+
+They soon reached a section that didn’t look much different from any other. The only difference was that it was about to be engulfed by a memory wind.
+
+“You’re right. This is the right place,” Zac said, looking at a broken stone foot.
+
+There was only one statue, and only the base remained, but it looked just like the huge statues at the Gate of Transformation. Next to it was a large building with a collapsed ceiling, and Zac understood what Esmeralda had said about the dangerous arrangement. He didn’t dare draw close, as something profoundly dangerous waited within that broken building.
+
+The two waited ten minutes for the building and surrounding area to be fully consumed before Esmeralda jumped back into the Shrine of Kanba. The moment she did, Zac’s mind erupted with impending dread. Just like the Centurion Lighthouse, he could feel the whole city setting its sights on him, and he rushed into the haze of Faith and Continuum before any guardians could jump out of the woodwork.
+
+Zac exhaled upon feeling his identity token light up, and he naturally picked Everit Draom’s identity. He was slightly concerned about his actions in the Gates of Transformation, but not overly so. The Mercurial Court never provided them with any rules or instructions, so he hadn’t really broken any.
+
+The mist parted, and Zac found himself standing in a square. Looking around, he couldn’t see any borders to the memory, and taking a few steps back didn’t bring him outside. Instead, he bumped into a young cultivator who gave him a curious look before running off. He wasn’t the only person in the area.
+
+Zac was surrounded by hundreds of cultivators in matching robes. The vast majority, including the acolyte he had accidentally hit, wore white or grey. A duo in higher-quality green robes flashed by, also giving Zac a curious look. The two had emerged from the domed building, which no longer felt so forbidding.
+
+Standing behind the structure was the enormous statue matching that of the Gates of Transformation. It still held out its hand, but there was no sign of his companion or the astrolabe. Looking up at it filled Zac with dizziness. Everything else looked normal, from the buildings to the cultivators. Only the statue was in a state of uncertainty. It was as if it weren’t sure if it was an illusion or real, from this timeline or a visitor from another.
+
+Zac felt more unsettled the longer he watched. It was as if the statue were a tuning fork trying to harmonize Zac to its unstable frequency. As it did, the memories he’d just settled began to resurface.
+
+“The confusion will pass.”
+
+The statement was like an edict, and the statue stopped shaking. Mind settled, Zac turned toward the source of the voice, finding a kind-looking old man in blue robes. He didn’t emit a speck of aura. In this place, that undoubtedly meant the old man’s strength was so far above Zac’s that estimating the difference was impossible.
+
+“Everit Draom, correct?” the old man said, looking Zac up and down appreciatively. “Not bad. You’re the fifth to arrive. Your Fate with the Mercurial Court is strong.”
+
+Zac wasn’t so sure about that but also wasn’t dumb enough to correct the misconception. Instead, he changed the subject. “Greetings, senior. I’m indeed Everit Draom. The docks were attacked just before I set out. Are the others—”
+
+“The situation is under control. Infiltration is inevitable, but that too is part of the tapestry,” the elder said, his intense gaze seemingly looking right through Zac.
+
+Reminding himself that Grand Dream already knew about him and welcomed their participation, Zac pushed his fears aside. “A friend set out at the same time as me. Will all the trail takers go through the same thing?”
+
+“All journeys are different. A faster crossing will impose greater pressure on one’s Heart. That can be either a calamity or an opportunity,” the elder said. “As you no doubt have experienced.”
+
+“May I ask, why go through all that trouble? Why not teleport us to the Mercurial Court?”
+
+“Naturally, it’s a test. We have opened our gates, but you needed to prove yourself capable of crossing the river. Otherwise, your visit would hold no meaning,” the elder said. “Your crossing also played a small role in a larger undertaking.”
+
+“That alternative timeline…” Zac hesitated. “Was it real?”
+
+“I don’t know. Was it?” the elder smiled. “If you want to understand what you went through and what the Mercurial Court is trying to accomplish, you first have to become a permanent disciple.”
+
+“How—"
+
+“Learn to walk before you can run,” the elder waved his hand and turned toward the large building before the solitary statue. “Come, let’s get you settled first. Everything else will become apparent soon enough.”

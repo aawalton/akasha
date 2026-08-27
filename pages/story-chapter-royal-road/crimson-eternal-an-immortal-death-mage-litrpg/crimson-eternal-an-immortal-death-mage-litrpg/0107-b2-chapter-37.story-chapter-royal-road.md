@@ -1,0 +1,143 @@
+---
+id: 8649b2b0-ba1d-5dad-9418-bdd438f6890b
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 37"
+slug: 0107-b2-chapter-37
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 107
+ownLength: 1477
+unit: words
+ownProgress: 1477
+publishedAt: 2024-02-20
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1525887/b2-chapter-37"
+royalRoadId: "1525887"
+markedReadAt: "2026-06-29T19:09:34.955Z"
+---
+
+AriaOne year later
+
+Okay, so, I have to wonder. Just why does this bird have full eggs in here? I just can’t figure it out.
+
+Do birds swallow eggs whole? Or is it somehow incubating eggs in its own stomach?
+
+I ponder over this pointlessly random detail as I float in the bird’s stomach acid, ignoring the fact that it’s kind of melting my skin without damaging my outfit at all. An outfit that I managed to purchase during the last year. One of many. This one being my favorite.
+
+The outfit itself is kind of similar to the Atlantean uniform that I wore a while back in style. White and blue. With a bit of an aquatic feel to it. It also has pants with a jacket over a shirt for the exact outfit. And of course, with my red jewel in the collar.
+
+Overall, a lot more comfortable than my original outfit. And it feels more me. Also actually fits me unlike the Atlantean uniform.
+
+But putting aside my favorite outfit, I do wonder just how long it’ll take to build up enough death energy – which is what I later on found out was the crimson energy I let off when hurt – to blast my way out of this stomach.
+
+From what I have learned over the past year, I seem to make more and more death energy with every time I get hurt. Every time something dies around me. And every time I burn soul energy.
+
+Although I have absolutely no use for the death energy other than the death energy I emit when hurt.
+
+I almost let out a yawn as I continue just floating in the stomach acid, letting the death energy grow more and more turbulent. But that would be disgusting. Because I’m in a stomach right now. And stomachs aren’t exactly filled with tasty treats.
+
+Unless the stomach belongs to someone who just had tasty treats, but that’s beside the point.
+
+It just wouldn’t be pleasant for some of the stuff or even the smell in here to get in my mouth.
+
+Out of boredom, I open up my status. Possibly for the first time in months.
+
+Name: Aria Crimson
+
+Class: Harbinger of Death
+
+Ability: True Immortality
+
+Level: 15
+
+I feel very conflicted about seeing that level fifteen there.
+
+Because I asked Shirou about checking in on my old team from Vortel and he said that they were already around level thirty-six on average. But I’m not even half their level.
+
+But at the same time, considering that getting to level fifteen from level fourteen required me to kill fifty thousand beings… it certainly was a… well… yeah. A thing.
+
+Lots of trees sacrificed.
+
+And I may or may not have flooded the wood market to a depressingly large degree on this planet, judging from how cheap the wood has become here.
+
+Or at least, in the Byrne Clan.
+
+I let out a sigh. Without opening my mouth, of course.
+
+At least the war is finally starting to move forwards a little. What with Rory finally recovering fully from that black ice incident. And it’s not just her, but Sean is fully recovered as well, and so is the enemy Clan Leader.
+
+The war itself didn’t really change much in the past year though. Mostly just random skirmishes here and there in the Sullivan Clan’s attempt to bait the Byrne Clan’s forces out.
+
+The Byrne Clan couldn’t exactly go on the assault considering that our greatest position is in our Class S Ability Holders and the Clan’s defensive capabilities. And the Sullivan Clan wouldn’t risk attacking either.
+
+So I’ve spent a lot of time in the Grand Tree.
+
+My thoughts pause for a moment as the death energy around me finally begins to grow turbulent enough that it’s zapping part of the walls of the stomach I’m in, clearly making the birdie uncomfortable in the process.
+
+Then I continue to ponder over what my life has become.
+
+At this point I kind of just want to ditch this war and move on. But I’m stuck here for another several months or so. Until the two year contract ends.
+
+Even if the war ends before that.
+
+I think I’ll actually make Atlantis my next stop. It seems like a nice place to go to. After I spend a while leveling in the Grand Trees here, of course. When I’m not busy with war.
+
+Plus a certain café owner prince has invited me more than once to go visit his café on Atlantis. Because the guy apparently wants to have a café in every world he visits.
+
+And who would I be to turn down his request?
+
+The stomach acid and stomach walls around me finally begin to convulse a little with the stomach acid and whatever other contents it has in the stomach swish back and forth.
+
+Then it begins the process of throwing up, shooting me back through its body and out its throat and mouth to land in a splash on a large pond within the fifth tier of the tree. And right after landing, I let out a grunt and stand back up while awkwardly flicking the stomach juices off of my hands.
+
+Gross.
+
+I turn to look at the birdie – a creature the size of a house with eagle wings, black feathers with a few streaks of yellow, and rather frightened eyes right now – only for it to fly away in terror.
+
+Meanwhile the death energy covering my body finally begins to calm down. Albeit not without destroying my immediate surroundings.
+
+Stupid bird. I would’ve used a grenade in you if I still had one left.
+
+Too bad the Byrne Clan is currently in a shortage of grenades and explosives. A mysterious one whose responsibility is unknown.
+
+Yep. No idea whose fault it is.
+
+Either way, they decided to only give me explosives for my battles fighting for them. Not my treks into the Grand Tree.
+
+A pity.
+
+Well, whatever. I should probably head to the first tier now. I’ve already gotten plenty of resources from the fifth tier for coin, so there’s no reason to stay here any longer.
+
+The first tier is better since it has a lot of mana creatures and trees for me to kill for my purpose.
+
+Higher tiers are harder to level through even if the stuff in them is worth a hell of a lot more coin.
+
+I finally let out a yawn, only to instantly regret it as I realize that I still have quite a bit of that stomach juices on me, making me gag at the grossness of it entering my mouth.
+
+Yuck. The worst torture.
+
+Torturing my taste buds.
+
+I make my way through the rather large nest I find myself in – belonging to the birdie after it swallowed me and brought me here no doubt – before stopping at the edge of the nest. Which I quickly find to be located on a random branch of the Grand Tree. Then I look down to find the city and the station a long fucking way down.
+
+Right as I’m about to jump though, I get a connection through my communication ring from the Clan Leader, ‘Lady Death, please return to the barrier fortress as a meeting will soon occur to decide the future of this war.’
+
+Oh. Well, that’s happening sooner than I expected.
+
+Not an unwelcome surprise though.
+
+On that note, I take a step forwards and begin falling straight through the sky. And the only alteration in my fall I make sure to make is to be certain that I don’t land on someone’s head. Because the time I did that before was… awkward. Even if they were one of the council members and were strong enough to just kinda shake it off.
+
+Although they’ve suspiciously avoided me ever since I pretty much turned into a paste on them.
+
+I wonder why?
+
+Well, their odd avoidance of me aside, I also adjust my trajectory to land within the space between the station and the tree. Because that’s the only way I can trade in my loot.
+
+The bright side is that this cleans me up whenever I end up in a stomach like that birdie.
+
+And with that lovely thought, I turn into a paste on the ground again before nigh instantly reforming again, my body having fully adapted to this by now. Without a single speck of that bird’s stomach juices on me anymore.
+
+It’s turned into a pretty good method for cleaning myself, even if it makes people look at me weirdly.
+
+I quickly begin to walk towards the station before trading my loot in for coin and continuing on past it towards the city.
+
+Well, time to see what the Clan Leader has up his sleeve.

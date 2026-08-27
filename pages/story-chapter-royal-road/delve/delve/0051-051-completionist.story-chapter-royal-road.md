@@ -1,0 +1,621 @@
+---
+id: 7c319406-22aa-5566-911f-d6dc24be4992
+page-type-slug: story-chapter-royal-road
+title: "051: Completionist"
+slug: 0051-051-completionist
+partOf: delve
+position: 51
+ownLength: 5943
+unit: words
+publishedAt: 2019-10-07
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/410986/051-completionist"
+royalRoadId: "410986"
+---
+
+Training Overview
+
+General Experience Earned
+
+Mana Use: 10000
+
+Skill Experience Earned
+
+Refrigerate: 1800 [Rank Up]
+
+Winter: 2304 [Rank Up]
+
+Immolate: 1260 [Rank Up]
+
+Aura Synergy: 3225 [Rank Up]
+
+Aura IFF: 16699 [Rank Up]
+
+After helping Ameliah finish hanging strips of aoaka meat on racks near the fire to dry, Rain had found himself with nothing to do. He brought up his notifications from the day before. He’d made good progress on IFF, but as it was a tier 2 skill, the quantity of experience it needed was not insignificant.
+
+I want to finish it. I want to finish ALL of the things. What do I have remaining?
+
+Skills
+
+Aura Synergy (8/10) Exp: 2686/5800
+
+Increase all aura output by 0.8% for each rank in any aura
+
+Effective boost: 50.4%
+
+Aura IFF (9/10) Exp: 6569/14800
+
+User may exempt entities from direct aura effects at will
+
+Selected entities receive 10.0% aura output
+
+Force Ward (3/10) Exp: 150/1600
+
+Increase physical resistance by 13.536% for all entities
+
+Range: 4.51 meters
+
+Cost: 1 mp/dmg mitigated
+
+Refrigerate (7/10) Exp: 1668/2200
+
+77-88 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 10.5 meters
+
+Cost: 35 mp/s
+
+Immolate (6/10) Exp: 726/1600
+
+66-76 heat (fcs) damage per second to entities and environment
+
+Sufficient damage causes ignition
+
+Range: 9.02 meters
+
+Cost: 30 mp/s
+
+Winter (9/10) Exp: 1766/3700
+
+Boost M.Regen by 135% for all entities
+
+Range: 13.5 meters
+
+Cost: 9 mp/hr
+
+Velocity (8/10) Exp: 998/5800
+
+120.32% boost to speed for all entities
+
+Range: 12 meters
+
+Cost: 8 mp/s
+
+Free Skill Points: 2
+
+Ok. I’m out of paper, so this should be interesting. The experience progression for tier 0 skills is [100, 200, 400, 700, 1100, 1600, 2200, 2900, 3700], that much I can remember.
+
+Overmana is great. I’m getting faster, though it’s less that I’m getting better at math, and more that I’m remembering the result of all the multiplications that I’ve worked out before. Anyway. Refrigerate needs 2,200 + 2,900 + 3,700 - 1,668, so…7,132.
+
+Immolate, 1,600 + 2,200 + 2,900 + 3,700 - 726…so 9,674.
+
+Humm. How much mana do I get a day now? Statistics. Yes, and change the unit please, System. Thank you.
+
+Statistics
+
+Total
+
+Base
+
+Modifier
+
+Health
+
+200
+
+200
+
+0
+
+100%
+
+H.Regen
+
+100/day
+
+100/day
+
+0/day
+
+100%
+
+Stamina
+
+200
+
+200
+
+0
+
+100%
+
+S.Regen
+
+100/day
+
+100/day
+
+0/day
+
+100%
+
+Mana
+
+5100
+
+5100
+
+0
+
+100%
+
+M.Regen
+
+112533/day
+
+18150/day
+
+-3888/day
+
+641.4%
+
+Movement Speed
+
+10
+
+Perception
+
+10
+
+Resistances
+
+Heat
+
+Cold
+
+Light
+
+Dark
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+Force
+
+Arcane
+
+Mental
+
+Chemical
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+112k in a day with Winter. I can only count on half of that, as I spent most of the morning sleeping, so call it 60k unless I want to put in some serious tank time. That…might not be a bad idea.
+
+Speaking of tank time, leaving Winter on overnight with Aura Focus was a great idea. Winter needs 3,700 - 1,766…1,934 more experience. From the mana use shown in my status, it will get almost 4,000 experience…no, wait, divide by 2. Experience for auras is half of the mana used. Gotta remember that. It will get…1,944 exp just from my regular background usage over 24 hours. I lost a lot of time to Essence Well yesterday.
+
+Anyway, I don’t think I need to worry about Winter if I end up doing what I think I’m going to do.
+
+7,132 experience for Refrigerate is 14,264 mana. Three full mana pools.
+
+9,638 experience for Immolate is 19,276 mana. Four full mana pools.
+
+This is great! I feel like Stephen Hawking, doing all this math in my head! Ah, who am I kidding, that guy was a genius. I’m just remembering stuff, not working on a theory of everything.
+
+Ahem. Velocity is tier 1, so it has a different progression. [200, 400, 800, 1400, 2200, 3200, 4400, 5800, 7400]. It needs 5,800 + 7,400 - 998…so 12,102. Two full mana pools, plus maybe a half. No, wait, that’s exp, not mana. Double it. Five pools.
+
+IFF…I still haven’t figured out the exp formula. It needs…8,231 exp. At this point, fuck it. As long as I do at least half as much Essence Well spamming today as I did yesterday, I should be fine. I think I did around 6 or 7 pools’ worth yesterday, so call it 4 for today to be safe. No, better make it 5. I really can’t afford not having IFF at 100%.
+
+That’s 17 mana pools in total so far, meaning 5,100*17…86,700 mana. Doable, totally doable, just not without Aura Focus. Oh well. If I’m doing this, I might as well go hard.
+
+To-do:
+
+3 pools of Immolate (don’t burn self to death),
+
+4 pools of Refrigerate (don’t freeze self to death),
+
+5 pools of Velocity (don’t launch friends into orbit),
+
+5 pools of Essence Well (don’t melt brains).
+
+If I’m not insane by the end of that, I can have Carten bash his head against a wall to train Force Ward. That’s really important too; it saved my life after all. I should probably start with that, but I want to experiment with it to figure out how it works first. Bah, there aren’t enough hours in the day.
+
+Hopefully, Aura Synergy will take care of itself. I have no idea how that one is calculated either. Well, if you can’t do the math, just throw mana at the problem until it goes away.
+
+Now to go do it.
+
+Over the rest of the day, Rain ran into a series of minor problems. The first was that Immolate would quickly raise the air temperature to uncomfortable, even dangerous, levels. He noticed that it was worse when he gave the skill time to warm the air, and not as bad if he used it at higher power for a shorter time. The higher power he used, the faster the heat radiated outward from the center, sort of like he was increasing the local air pressure. That said, he was far too afraid to try an Immolation Nova. Even at reasonable power levels, channeling Immolate for any length of time heated the air to unbearable temperatures quickly. Refrigerate had the same issue in that it made the air unbearably frigid. Sitting next to a blazing fire helped, at least until the fire went out. He’d actually managed that, a feat he was fairly proud of.
+
+Fortunately, the solution was simple. He just needed to switch to the opposing aura whenever the air got too hot or too cold. It made keeping track of how much mana he spent on each skill a bit tricky, but he managed it. He had the time to work out the correct ratio while his mana was regenerating. With Winter at rank 9 and all his boosts, it only took him 25 minutes to regenerate to full now. According to Val, this was ‘absolutely disgusting’.
+
+Nobody had any interest in standing near him while he was alternating between refrigerating and immolating the countryside, but Jamus and Val had been taking advantage of his bouts of fully-boosted Winter. It was much gentler on the soul than Essence Well was, apparently. Nevertheless, Ameliah had needed to forcibly drag Val away to prevent him from injuring himself further. Rain was mildly disappointed that he’d only heard about the incident after the fact, having been insensate at the time it occurred.
+
+He managed to finish off Immolate and Refrigerate before lunch, which turned out to be aoaka steaks grilled on a tin griddle that Tallheart had made for Jamus. The flavor was amazing. Rain didn’t know if aoaka was really that much more flavorful than beef, or if it was just the consequence of his tastebuds having forgotten what actual food tasted like after eating so many ration bars.
+
+After lunch, he started working on Velocity. It turned out to be easy to deal with. Unlike Immolate and Refrigerate, Velocity only affected entities, meaning people, monsters, and animals. IFF couldn’t reduce the effect of his offensive auras on the environment, but for Velocity, it was perfect. With everything but Aura Focus, Velocity’s boost was up to a ridiculous 481%. However, IFF could reduce that by 90%, dropping the speed boost down to a manageable 48.1%.
+
+He even found a way to vary the reduction from IFF freely, similar to how Channel Mastery worked. He wasn’t sure if it was a natural interaction between the two skills, something IFF allowed inherently, or the result of his high Clarity. Nevertheless, it worked, and that was enough. It was pretty difficult to keep track of individual percentages for each entity in range, though, at least until he managed to convince the system to help. After some significant effort, he’d added per-target rate adjustment to his IFF control panel, along with the whitelist option he’d been after initially. It only took a few minutes of concentration and a partially digested aoaka steak.
+
+Once he’d recovered from that, he found that he could just sit in the middle of the camp and rake in experience for both Velocity and IFF. He wasn’t sure about the implications for IFF’s experience gain in this case, as it didn’t affect mana usage at all. He decided he couldn’t rely on it, so as soon as he finished his 5 rounds of Velocity, he moved straight on to Essence Well.
+
+That was easy, too. He didn’t care that much about the mana transfer, so he just blacklisted everyone but himself and let it rip at full blast. Essence Nova had a transfer rate of around 180 mp/s, but the pathetic 7% efficiency meant that the cost rose to a staggering 2,500 mp/s.
+
+Fun fact: when a person used mana at such a high rate, their eyes would burn with energy. The higher the usage, the stronger the effect. Though his eyes were open, Rain didn’t witness the glow, as he was using Aura Focus at the time. According to Jamus, he’d momentarily looked like some sort of vengeful thunder god, Arcane mana crackling chaotically from his eye sockets. Fortunately, there didn’t seem to be any consequences as far as soulstrain was concerned. His Clarity protected him, just as Jamus had said it would.
+
+This got him to around supper time, which was more aoaka stew, though with different spices than the first batch. It was, of course, delicious. By this point in his training montage, he was starting to feel like his companions were getting pretty annoyed with his continuing lack of mana usage soulstrain. Val and Jamus had both burned themselves out. Though Winter wouldn’t cause soulstrain from overmana, soulstrain from mana overuse was apparently a separate category. A category that Rain appeared to be immune to.
+
+Carten had been distracted earlier when Tallheart offered to repair his twisted chestplate, but now he was back with the others. He, too, was looking a little grumpy. Rain could understand. The Defender—if that was what his class actually was—didn’t have any skills that could benefit from the massive mana generator that Rain had become. That had led to boredom, which had led to bothering Ameliah, which had led to Ameliah leaving to go hunting again.
+
+Rain hoped his plan for training Force Ward would distract him, but before he could implement it, a sudden absence of noise caught his attention. Tallheart had been working at his forge all day, not even stopping once for lunch or dinner. The distinct lack of hammering made the camp feel eerily quiet. He looked up to see that the antlered man was walking over to him.
+
+“Rain,” he rumbled, coming to a stop facing him. “I would speak with you.”
+
+“Sure, Tallheart, what about?”
+
+Instead of responding, Tallheart gestured over his shoulder with a tilt of his head, then turned, walking back toward his anvil. Rain followed. As he approached, he noticed that the tiny anvil plate had been upgraded. In its place was a monstrous slab of iron that would have been at home in any dwarven smith’s forge.
+
+How much iron was there in that mine, even? That thing has got to weigh a literal ton.
+
+Tallheart’s workspace had been transformed. The piles of ore were mostly gone, replaced with broken chunks of glassy, solidified lava. The crucible had been upgraded as well. It was larger and had three drains now. There was a pile of cooling rock below one of the spouts, coiled like a snake where it had been extruded. It seemed Tallheart had created his filter for stone. In addition to the anvil, there was a small stack of metal bars sitting nearby.
+
+“Wow, I guess I wasn’t paying much attention to what you were up to, Tallheart. How the hell did you purify so much iron so quickly?”
+
+Tallheart smiled. “One filter for iron, one for other metals, and one for everything else. This way, I do not need to keep emptying the crucible.”
+
+“Wait, I thought you had to make a filter for stone out of stone. These all just look like iron. Also, they look different. What’s with the handles?”
+
+Rain moved closer to the crucible, inspecting one of the drains. He could see the circular filter placed in the pipe leading from the bottom of the crucible, but there was also a large metal shaft extending from the top of the filter, like a handle. It made Rain think of one of those throttle levers on the bridge of an old steamship.
+
+“In theory, yes, a filter for stone should be made from stone. However, I do not need to purify the stone. This filter excludes all metals and allows everything else through. Do not touch it.”
+
+Rain pulled his hand back from the lever. “Oh, is it hot?”
+
+Tallheart shook his head. “Yes, but that is not why. Your arm is not metal. It would be…unpleasant for you. The filter is one-way.”
+
+Wow, okay, no touching the filter if I want to keep my fingers. Got it.
+
+Tallheart laid his hand on the lever and pushed, rotating the inscribed circle of iron. There were no runes on it that Rain could see, only a line to indicate position. Tallheart scraped his armored finger around the inside of the drain, removing the last few sluggish drops of lava. He then lifted the coiled snake of mostly hardened stone and tossed it away. The glassy rock shattered into fragments as it landed.
+
+He closed the other drains as well, but it appeared that he’d already collected whatever had come out of them. “Come,” he said, leading Rain over to his anvil.
+
+On the surface of the anvil were two ingots of metal, both perfectly rectangular and about the size of…well…ingots. Tallheart pointed to one of them. “This is pure iron,” he explained. He then pointed to the other, which was a subtly different shade of gray. “And this is high-carbon steel. I explained steel to you, yes?”
+
+“Yeah, you did. I know all about steel anyway. Where’d you get the carbon?”
+
+Tallheart ignored his question completely, lifting the two bars of metal. He offered them to Rain. “Choose.”
+
+“Choose? For what?” Rain said.
+
+“Your armor.”
+
+“Awesome,” Rain said to himself in a whisper. Tallheart is the best!
+
+“Tallheart, thank you. I’d love a suit of armor.”
+
+“Good. Choose.”
+
+Rain paused to consider. “Well, steel is obviously stronger, but the fact that you are offering me a choice means that there is something that I don’t know about. What would be the advantage of iron?”
+
+“It is pure. I could have the full armor ready for you in a few hours. The steel will take me longer. Days.”
+
+“Tallheart, either of those options is insanely fast. How are you going to—”
+
+“Choose,” Tallheart rumbled. Rain reached out and took the ingot of steel, momentarily surprised by the weight. It wasn’t often that he got to handle a solid chunk of metal like this. He was used to things like rebar, which, while heavy, wasn’t nearly as compact as this bar. The aspect ratio had thrown him off.
+
+“Well, steel, I think,” he said. “I mean, I suppose I could just take the iron set and you could make me a steel one later, but I don’t want to make you do all that work twice. Bending metal around like that can’t be easy…”
+
+“It is not,” Tallheart said. He set the bar of iron aside, then took the steel back from Rain. “Steel, then. I would prefer to condense it to adamant, but this is a poor mine. It would take several thousand times this much iron to form even a single ingot.”
+
+“Woah, wait, hold up,” Rain said, raising a hand. “Adamant is just compacted steel?”
+
+“In essence,” Tallheart said. His tone said it was nowhere near that simple.
+
+Rain shook his head, deciding to postpone any further questions about metallurgy. Tallheart looked tired, though if it was from the long day at the forge or his questioning, Rain couldn’t tell. “So, my armor. Is it going to be like yours?”
+
+“No. Iron and steel are poor for holding enchantments. The effects that it will support are limited.”
+
+“Oh, wow. You’re going to enchant it too? Tallheart, thank you so much! I wasn’t even thinking of enchantments yet. I only meant would it look like yours, or more like Carten’s. Yours is so…flexible.”
+
+“It is nothing,” Tallheart said. “Without you, I would have no metal to shape. And yes, I will fashion it like my own. Properly articulated armor requires great precision to make, but it is worth the effort. When I am done, you will barely realize it is there. You will be far more agile than Carten, though it will lack the strength of Force Steel.”
+
+“What’s Force Steel?” Shit, that was a metallurgy question. Sorry, Tallheart, it just slipped out.
+
+“Steel alloyed with molten Force Crysts. It is incredibly durable.”
+
+“Oh.” Rain paused. “Is there Dark Steel? We have plenty of Dark Crysts.”
+
+“Yes. I had planned to ask you if you would give them to me. It will broaden your choices for enchantment, but the metal itself will not be any stronger.”
+
+Rain hurriedly pulled open his pouch and dumped it out onto the anvil. He started picking out the Dark Crysts from the Tel and piling them up. He had about ten in total. “Is that enough? Carten has a few more. I could probably get him to trade.”
+
+“It is enough,” Tallheart said. “What enchantment would you like?”
+
+“Well, resistances, obviously. It is armor after all. Lightness would be nice. I’m not really used to wearing heavy armor. Some sort of damage reflection? Stats? Yes, all of the stats. Strength in particular. I really—”
+
+Rain stopped his shopping list abruptly as Tallheart sighed, resting his face in the palm of his hand. “What you ask is not possible. I have explained this.”
+
+“Wait, which one isn’t possible? And when did you explain?”
+
+“You asked me if I could make you a ring to boost your stats. It cannot be done with iron or steel. Adamant, yes, but gold would be better, and less expensive. Arcane Steel would work, but it would be a waste.” Tallheart leaned forward. “The metal matters.”
+
+“Oh, yeah, I remember you said something like that. I wouldn’t really call it explaining, though…”
+
+“Do you want armor, or not?” Tallheart said, staring at him.
+
+“Sorry, I’m just a little bit excited.” Rain said. “What are my options?”
+
+“For steel, durability and hardness enhancement is popular. Force Steel would be better, but Dark Steel will still support the enchantment. Dark resistance will work well. I will be able to prevent the metal from acquiring a weakness to Light, but no more than that. I cannot add other resistances, though the armor should still protect you from the other elements, provided that the metal takes the blow. Do you have Mana Manipulation?”
+
+“No. Should I?”
+
+“Enchantments are not free. They require power. If you intend to use enchanted equipment, you will need to fuel it with mana. I…could build the armor with a reservoir, as those rings were made. I will not do such a thing. The armor would fail over time.”
+
+“Oh. Well, I have a skill point. I can take it…”
+
+“You have a choice. I can enchant the Dark Steel to draw energy from the Dark element instead. The enchantments would slowly recharge at night, or in the presence of weak Dark mana. That is a significant enchantment, however. The armor could only have Durability, Hardness, Dark Resistance, and Dark Assimilation. That would be all that the metal could hold. If I instead add Capacitance, I could add something else. Perhaps Dark Regeneration.”
+
+“Regeneration? Like, health regen?”
+
+“No. Regeneration of the armor, not the user.”
+
+“Oh, so self-repair?”
+
+Tallheart nodded. “It would be slow, but with enough mana, you could mend cracks in the armor and restore its shape. It cannot replace missing metal; however, you could restore it with additional Dark Steel.”
+
+“How does…never mind. I’m planning on getting soooooo much enchanted shit eventually. I don’t mind taking Mana Manipulation. Self-repair sounds great, Tallheart. Please make me that. Durability, Hardness, Capacitance, Dark Resistance, and Dark Regeneration. Unless…would you recommend something else? Some other enchantment?”
+
+“Humm.” Tallheart considered, then shook his antlered head. “With Dark Steel, this is about as good as you can do. It is good enough that it even has a name: Dark Revenant’s Armor.”
+
+“Well, that’s metal,” Rain said, laughing. “It’s not going to be covered in spikes or anything, is it?”
+
+“No. I do not abide such foolishness.”
+
+“Good. I’d prefer not to impale myself if I bend over. Can you make it look like yours?”
+
+Tallheart smiled. “Yes. It will be similar, though the metal will be darker. There is one last thing.”
+
+“What?”
+
+“Tel. I will need several hundred to inlay the enchantment.”
+
+“Oh, sure. Here, I’ll just leave all this with you,” Rain said, gesturing to the pile of Tel. “Don’t go crazy. I’ve only got around 600 or so, and I need 500 to get back into the city. We’ll get more tomorrow, but…”
+
+“Three hundred should be sufficient,” Tallheart said. He started to separate the Tel into two piles, but Rain stopped him.
+
+“Just hang on to all of it. I trust you,” Rain said.
+
+“Very well,” Tallheart said. He took the bag as Rain offered it to him, then swept up the Tel and fastened the bag to one of the belts he wore over his armor. “I will begin later tonight. The Dark Steel will need to crystallize in the darkness. I will rest now.”
+
+Tallheart turned and started to walk away.
+
+“Wait,” Rain said. Tallheart paused. “Thanks for this Tallheart. You have no idea how grateful I am.”
+
+Tallheart gave a low chuckle. “You do not need to tell me you are grateful. I can tell. Humans are overly expressive.”
+
+Rain felt like he was walking on air as he returned from Tallheart’s forge. By his count, he’d maxed out four skills, perhaps five, and now he was getting badass armor made by a legendary blacksmith.
+
+Well, Tallheart’s not exactly legendary. He’s more of a secret blacksmith.
+
+“What was that about?” Carten asked as Rain rejoined the others around the fire. Ameliah was visible in the distance, her brief hunting trip clearly successful as she was towing some sort of gigantic snake creature toward them.
+
+Rain grinned. “Tallheart wanted to know what kind of armor I wanted. What’s that thing Ameliah’s got?”
+
+“Oh ho!” Carten said, not even looking where Rain was pointing. “Armor, huh?” He grinned. “Pay up, Jamus.”
+
+“Damn it,” Jamus swore, reaching for his pouch.
+
+Rain laughed. “Don’t ever change, guys. You weren’t in on this, Val?”
+
+Val shrugged. “My money was on you getting him to make you a sword. You seem like the type.”
+
+“What about me makes you think I’d use a sword?” Rain asked, curious. He had no intention of picking up a weapon again, not with how strong his attack auras were getting. With IFF, there was no need. He might keep training with the staff just for the exercise, but swords… Swords were just for killing people. They weren’t even designed for monsters; a spear or something would be better for that.
+
+“Why not?” Val said. “Swords are awesome. And you can use one, too. I wish I could, but it would mess with my magic. All of the best duelists use swords.”
+
+“You…are a strange person, Val,” Rain said. “You say you love dueling, but you shoot beams of instant death. That doesn’t strike me as very sporting.”
+
+Val laughed. “You’re damn right it’s not. I like dueling, sure, but I’m an adventurer first and foremost. It doesn’t have to be fancy, it just needs to be effective. You’ve met Lavarro, so you know that true power isn’t flashy. Nobody would come to watch her in a duel. She’d just snap her opponent’s neck like that!” Val snapped his fingers.
+
+Rain shuddered. “Thank you for that wonderful image. Hi, Ameliah.” He turned to face her as she dragged the massive brown snake up to the fire. “Where did you find that? Please tell me there aren’t more. Also, I thought snakes didn’t like the cold.” Carten finally looked over at her, then swore as he saw what she was pulling, scrambling back a few steps.
+
+“They don’t. This is a crawler vine, and it’s actually a plant, not a snake. Tallheart should like it, though I wouldn’t recommend any of us try it. They are toxic to humans, but cervidians think of them as a delicacy.”
+
+“Wait, that’s a plant? But it has scales…” Rain bent down to inspect the snake thing. The scales were actually tiny hard thorns, covering the surface. The eyes were made of the same material, only black. The entire thing was as thick as his leg and easily ten meters long. “Oh, that’s so freaky. It looks just like a real snake from a distance. Well, apart from the fact that it’s way too damn big. It’s a vine, you said? Is the name just for show, or does it really…”
+
+“Yes, it moves,” Jamus said, inspecting the snake. “They aren’t monsters, but they are ranked as a level 5 threat. Luckily, this one appears to be thoroughly dead.”
+
+“Well, I’m not sleepin’ tonight. I fuckin’ hate snakes,” Carten said.
+
+“Mmm,” Jamus said. “It must have been nearby, too. She wasn’t gone long. I hear that they can burrow through the ground and burst out underneath you with no warning.”
+
+“Shut the fuck up, Jamus. I don’t wanna know things like that,” Carten said.
+
+“It’s true,” Val said. “You’ll be fine, though. It’s only dangerous if you are weak.”
+
+“That’s not the point,” Carten growled. “I’m not afraid of em. I just hate em. Something about the way they move. It ain’t right.”
+
+Despite himself, Rain smiled. Ameliah had taken out her knife, the same wickedly sharp one that she’d lent him so long ago. She started cutting up the snake, the blade having no trouble slicing through the thorny scales of the vine.
+
+That knife must be enchanted. Anyway, as alarming as giant tunneling plant snakes are, I still have more to do today. “Hey, Carten, I’ve got something that might take your mind off it.”
+
+“Oh?” Carten asked. “Done training at last? Time for something fun?”
+
+“Yes and no,” Rain said. “It’s still training, but I think you’ll like it. I want to spend a little time figuring out Force Ward.”
+
+“Humm,” Carten considered. “Sure, I can punch you in the face a few times.”
+
+Rain laughed. “Believe it or not, I was actually going to suggest that. Just…take your gauntlets off first, okay?”
+
+Ameliah sheathed her knife and set the remaining portion of the crawler vine aside. “I’ll finish this later. I need to make sure you don’t kill yourselves.”
+
+“Thanks, Ameliah. I promise we’ll be careful.” Rain stood and walked a little ways away from the fire. He activated Force Ward with Amplify Aura and Channel Mastery, then checked the effect.
+
+Force Ward (3/10) Exp: 150/1600
+
+Increase physical resistance by 54.144% for all entities
+
+Range: 4.51 meters
+
+Cost: 6 mp/dmg mitigated
+
+Just over 50% at 6 mp/damage. Ok.
+
+“Tell me when you’re ready,” Carten said, cracking his knuckles.
+
+Rain nodded. This is going to hurt. “Ok, I want you to punch me in the shoulder or something first. I don’t really trust the skill yet. Please don’t break me. I only have 200 health, remember, chainmail or not.”
+
+“Shit, really?” Carten said. “I’m not hitting you, then. It would be like kickin’ a puppy.” For some reason, Ameliah laughed at this.
+
+Rain looked at her. “What?”
+
+“Nothing,” she said, fighting to control a smile. “I’ll do it. I can control my strength. I can also heal injuries if anything happens.”
+
+“I’m surprised you’re letting me do this at all, honestly,” Rain said. He was starting to think this was a bad idea. I trust her, but she’s REALLY strong…
+
+Ameliah smiled. “Knowing how your skills work is important. It could save your life, and you’ve recovered enough so I could heal you again if anything goes wrong. Also, I never said I was punching you. It’s an aura, right? Come on, Carten.”
+
+“Ha!” Val laughed. “This is going to be good. Kick his ass, Ameliah.”
+
+She seems to be in a good mood all of a sudden.
+
+“Fine,” Carten said, then started removing his chestplate. “I don’t want you breaking my armor,” he paused to glare at Ameliah. “Again.” Ameliah ignored him.
+
+Wait, when did she break his armor?
+
+“What are we testing about Force Ward, exactly?” Jamus asked. “How strong of a punch Rain can block?”
+
+“Yup,” Rain said. “The skill is on right now, so everyone should take half damage from Force.”
+
+Jamus summoned his interface and consulted it. “Yes, indeed. I see it. Interesting. I expected there to be some visual effect.”
+
+“Now,” Rain said. “Ameliah, can you control how much damage you do? Can you hit him for, say, 10?”
+
+“That wouldn’t even get through my natural resistance,” Carten said.
+
+Rain tilted his head. “Oh, hang on. How does that work? Which one would apply first, Force Ward, or Carten’s resistance?”
+
+“Generally, effects are applied in the order that is the most advantageous,” Jamus said.
+
+“Wait, what?” Rain said. “Advantageous for whom?”
+
+“It’s complicated,” Jamus said. “How do your aura buffs work?”
+
+Rain thought about it. “Oh, I think I see what you mean. Extend Aura applies first, then gets multiplied by other stuff. Even Aura Synergy works, which I would have thought would apply only to the base range.”
+
+“We doin’ this or not?” Carten pounded his bare chest. He’d removed his gambeson as well as his breastplate, revealing a physique that was less ‘Mr. Universe’ and more ‘World’s Strongest Man’.
+
+I should do some pushups or something. “Yeah, fine. Ameliah, punch him.”
+
+Carten planted his feet and faced Ameliah, grinning. Rain checked his mana, memorizing the current total. “Ready?” Ameliah asked.
+
+Carten nodded. Ameliah hit him right in the sternum with a quick jab. As her fist made contact, Rain felt an immediate drain on his mana. When she struck, there was a pinging sound like a crack racing through ice on a frozen lake. There was also a distortion in the air as if a rock had been thrown into a standing pool of water. Ripples radiated out from the point of impact perpendicular to the strike, then faded away.
+
+Carten grunted, but his grin didn’t fade. Rain checked his mana. He’d lost over a thousand from that single strike.
+
+“Well?” Ameliah asked him. “Was that hard enough to test your skill?”
+
+“Yeah, that took about 1000 mana. At 6 mana per damage mitigated that means it blocked around…150 damage. It only blocks 50% right now, so that punch did around 300 damage. That…would have killed me.”
+
+Carten laughed. “Ha, Little Mouse, you need to tell Tallheart to hurry up with that armor!”
+
+“Was that all you needed, Rain?” Ameliah asked. “I can hit him again.”
+
+“Well, I’d like to train the skill, so yeah. Either you can hit him like that four more times, or once, four times as hard.”
+
+“I’ve got another idea,” Val said. “I’ll hit him.”
+
+“It only works on Force, Val,” Rain said.
+
+“I know. I’m going to punch him. Then you punch him, then Jamus does.”
+
+“Hah!” Carten said. “You noodle-arm mages don’t have a hope of hurtin’ me!”
+
+Val ignored him. “We make it a game. Highest mana draw off Rain’s shield wins.”
+
+Carten laughed. “Sounds like fun! I’m in, until I get bored.”
+
+Rain paused. “Do you want to put a shirt on or something, Carten? Aren’t you cold?”
+
+Carten shook his head. “Cold resistance. I’m fine. Who’s first?”
+
+Without warning, Val wound up and sucker-punched Carten right in the face. There was a tiny ripple as his fist struck Carten’s jaw, and if there was a sound, it was too quiet to hear.
+
+“Well, who’s first?” Carten asked, as if nothing had happened.
+
+“56 mana,” Rain said.
+
+“And no damage,” Carten said, grinning. “Looks like yer aura applies before my resistance, otherwise you’d a got nothin’”
+
+“How do you know?” Val said. “Maybe I got through your resistance first, then Rain’s shield took the rest.”
+
+“You didn’t. Not with a wimpy hit like that. Next! Little Mouse, you’re up.”
+
+Rain stepped up. He’d never actually punched anyone as hard as he could. He had some idea of what he was doing, but he didn’t have any martial arts training. He knew enough to keep his thumb outside of his fist, but that was about it. His wild swing hit Carten’s shoulder without so much as a ripple. Carten laughed.
+
+“What the depths was that? Pathetic!”
+
+“Hey, come on. I was a construction worker, not a boxer. Before that, I was studying computer science. What do you expect?”
+
+“Studying…what?” Val said. “Never mind. What was your score?”
+
+Rain checked, then winced. “Maybe five or six? I might have regenerated a point by now.”
+
+“Ha!” Carten laughed.
+
+“My turn,” said Jamus. He planted his feet and drove his fist into Carten’s chest, pivoting his shoulders as he struck. It didn’t look that much stronger than Val’s hit, but the mana showed differently.
+
+“106,” Rain said. “Wow, Jamus, what did you do?”
+
+“Wait, HE beat me?” Val exclaimed, gesturing to the orange-robed mage.
+
+“He knows how to punch,” Ameliah said. “That was decent form, Jamus.”
+
+Jamus doffed his hat and took a bow. “Thank you, thank you.”
+
+Val scoffed. “I’m going again. I’ll be serious this time.” He planted his feet and took on a stance similar to the one Jamus had used. His fist connected with Carten’s stomach, the entire weight of his body behind it.
+
+“112,” Rain said. Val stepped back, grinning at Jamus. Carten yawned theatrically.
+
+“Come on, Rain,” Ameliah said. “Try again. Plant your feet. Make a fist, good, like that. Now, when you punch, follow through and use the strength of your whole body. Don’t try to punch him, try to punch through him.”
+
+Rain followed her instructions as best as he could, earning a much-improved score. He stepped back to make way for Jamus to try again. “I got 27 that time.” He shook out his hand. Carten wasn’t exactly a soft target.
+
+“Better, Little Mouse,” Carten said. He grinned. “I still haven’t felt a thing from any of you yet, though. Ameliah doesn’t count. We might be here a while.”

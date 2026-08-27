@@ -1,0 +1,141 @@
+---
+id: d266c5a9-8a73-5760-87de-e74458596924
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,391 - Fateseizer"
+slug: 0068-chapter-1391-fateseizer
+partOf: defiance-of-the-fall
+position: 68
+ownLength: 3088
+unit: words
+publishedAt: 2025-12-16
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2853850/chapter-1391-fateseizer"
+royalRoadId: "2853850"
+---
+
+“The tracking mark was destroyed with her mirage world. We can still track her through the implanted energy, except…” Jimok said with a frown.
+
+“With Lodge Island in flux, there is too much interference.” Royce grimaced as he arduously fought to reclaim control over his flesh. “Forget it. Update the others just in case. What’s the damage?”
+
+“The overlap is incomplete and unstable,” Jimok answered. “Without the beacon, we can only operate at minimum capacity—and that’s after repairs. Worse, it looks like a second ritual has completely failed, leaving the whole node destroyed.”
+
+“We knew there’d be variables,” Royce muttered, his insides still in turmoil.
+
+He was lucky that his “Guild Master” had opted for the safe approach. For a moment, she’d looked like she was about to throw all caution to the wind, and Royce didn’t have the energy left to endure a Monarch’s final blast of glory. He’d already been forced to undo a restriction on [First Seal]—a choice that invariably came with severe consequences.
+
+“The other three?” Royce asked.
+
+“Two have been successfully activated. The Fifth Locus needs another hour to tune in. There have been no reports of any issues, and they should have increased their vigilance after our problems.”
+
+“Is it enough to lift the curtain?”
+
+“It is, though the path will be bumpy,” Jimok confirmed.
+
+“Good. We’ve avoided casualties by splitting up, but it’s left us shorthanded. The survivors will have to tend to their wounds after we’ve deployed the contingency. I want it operational before the Fifth Locus is ready,” Royce said, releasing a relieved breath when his body finally returned to normal. Seeing that his assistant lingered, he raised a brow. “What?”
+
+“How… detailed should my report be?” Jimok asked after some hesitation.
+
+“Just mention there was a mole,” Royce said, adding after a brief pause, “Wait, send the whole picture to Descartes. We can’t handle the aftermath if he finds out we’ve hidden valuable prey from him.”
+
+“Descartes…” Jimok muttered with trepidation. “I’ll get to it. He should have wrapped things up with the first Sealbearer by now.”
+
+-----------
+
+“Useless, all of them,” Descartes spat upon seeing the unstable pillar pewter out and collapse far in the distance. “Is that where you’re hiding?”
+
+A snapped blade stabbed into Descartes’ back the moment he was distracted. It channeled a dying man's desperation and hidden reserves to dig straight for his heart. Rampaging sword lights tore through his body as the blade split into a thousand miniature blades for maximum damage. Descartes snorted, and a deep roar came from the depths of his soul.
+
+The blades shattered, the foreign Dao was strangled, and a wet gurgle from beneath Descartes’ foot marked the departure of his target. The puncture wound and the internal lacerations were simply gone, as if they’d been part of a bad dream.
+
+The six broken blades strewn across the clearing faded away as the light in the outsider’s eye dimmed. Descartes could feel the Imperial Fate pouring into his Fateseizer Seal, yet he turned the corpse into shreds with a stomp of his foot. These outsiders were full of tricks, and there was no point in taking a risk. Just as Descartes wrapped things up, a token floating in the depths of his [First Seal] hummed.
+
+“Hm?” Descartes said after deducing the information sent through the network of the First Era’s Gift. “Another one?”
+
+His gaze shifted between the broken pillar and the sandstorm that had begun encroaching on the mist in the island center. After a brief hesitation, Descartes started running toward the storm. He was reluctant to give up on his hunt, but it was just a slight delay. Weren’t they all headed for the same place?
+
+-------------
+
+Reluctance and confusion filled Zorm’s eyes as the last of their light faded. Meanwhile, the red deepened on the scroll of [Desperation’s End], indicating another soul had entered the cycle of reincarnation. Zorm Hastor’s Inner World had been split in two, and his already unstable soul had directly collapsed from the backlash.
+
+Zac still unleashed another swing at the dead Monarch’s head for good measure. A third reduced the opponent to a bloody soup, barring a Peak D-grade [Mercurial Sack], a set of D-grade armor that had almost collapsed when the altar exploded, and one of Zorm’s eyes. Zac stashed them all before they could be claimed by the growing spatial turbulence.
+
+The battle with Zorm Hastor had lasted less than two minutes, but the victory could neither be considered easy nor painless. Zac and Idiche hadn’t wasted the hours while waiting for Esmeralda’s plan to reach fruition. Idiche had shared everything she knew about the Hastor Society and Zorm himself. The Hastor Clan all followed a unique path called Illusory Ancestry, which was actually somewhat similar to his human side’s [Conformation of Supremacy].
+
+They formed and continuously nourished a connection with an imagined ancestor, to the point they could draw from their strengths like a beast’s bloodline. This differed from Zac’s skill in that it was a permanent boost that affected all aspects of their cultivation. The approach allowed their family to draw from all kinds of powerful mythological beings. In Zorm’s case, it was the one-eyed giant whose mere presence rendered [Eye of Desolation] almost useless.
+
+The upside of the method was that it brought true and permanent power. Even one’s talent could slowly improve by nurturing the bloodline of those ancient beings. The drawback was that Clan Hastor had only managed to dream up four ancestors who could provide tangible cultivation benefits. According to Idiche, they were all based on real Innate Existences who had lived at the start of the Era.
+
+Such Primordials were powerful yet simple and generally relied on brute strength in battle. It wasn’t necessarily that those races were dumb, but rather a product of their time. The Dao was fragmented, and all energy was extremely chaotic, which didn't lend itself to finessed cultivation or refined paths. Since Clan Hastor’s descendants had to emulate their adopted ancestors, they truly became brutes over time.
+
+Even Zorm, one of the most talented descendants of his generation, fought like Zac before he began delving into technique. He relied on resilience and raw power to defeat his opponents, and drawing from the corruption had only made his actions more telegraphed. Illusory Ancestry was a path that accelerated growth but limited one’s ceiling, which was how Clan Hastor managed to nurture a steady stream of mid-tier cultivators inside the Mercurial Court.
+
+Zac had never underestimated their path, and for good reason. He’d known Zorm’s final attack was coming, and it completely lacked any finesse. And yet, his Void-empowered technique wasn’t slippery enough to avoid the strike. It contained such overbearing might that Void’s hidden paths had been forcibly shut.
+
+His defenses may as well have been paper against the grazing touch, and the bloody stump just below his left shoulder was proof that his body wasn’t nearly tempered to the point it could have taken that strike head-on.
+
+Thankfully, losing a limb or two couldn’t be considered a crippling wound at this point. A new arm was already growing out on its own without the need to draw Creation Energy. The process was slow, but it’d speed up after he purged the remaining energy lodged in the scar. Zac was in no hurry to speed the process along.
+
+What remained of Zorm’s primal energy and hostile Dao kept the ancient Killing Intent going, allowing Zac to extract a few extra strands of purified intent. Fighting Zorm alone had already proven more than twice as effective as dealing with the whole pack of drakes, and the process was still ongoing.
+
+Zac would have liked nothing more than to retreat somewhere to nurse his wounds and ponder his insights. That would have to wait. A spatial tear before him had grown to a size he could fit through, and he snuck in under the cover of the final traces of [Eye of Desolation]. He couldn’t help but feel a surge of triumph as he took in the desolate scene of Zorm’s collapsing Inner World.
+
+He’d done it. He’d slain a Monarch in a one-on-one battle. Sure, Zorm was suffering from a powerful backlash and information asymmetry, but Zac had his own troubles. He’d expended a decent amount of effort to keep Zorm’s five lieutenants contained. There were also a few invaders who tried to break into his domain until Zorm’s random punches forced them into retreat.
+
+Zac had even manipulated the five lieutenants during their resistance against the onslaught of [Eye of Desolation]’s endless chain, moving them according to his real battle. As a result, he’d borrowed Zorm’s strength to kill all five in one go, sparing him the additional effort. It also gave Zac the opportunity to explore Zorm’s Inner World before it fully collapsed and its energy was returned to the Spiritual Sea.
+
+A curtain of decay and corruption waited on the other side of the spatial tunnel. Beneath it lay the broken fragments of a small world that emitted the rough, primal energies of the Era’s beginning—no doubt the result of cultivating Illusory Ancestry. The realm’s fraying spatial cohesion indicated the subspace wasn’t long for this world.
+
+Cleaving the small continent’s core with a void-empowered [Desperation’s End] was naturally the chief architect of the collapse, but the fragments already showed signs of damage. The world didn’t feel fully settled. There hadn’t been enough time to stabilize it since the breakthrough, leaving it much weaker than a veteran Monarch’s.
+
+There were also the veins of corruption that permeated the whole continent, growing denser around the solitary mountain peak that stood at the Inner World’s center. The fusion went beyond what could be explained by drawing on the Lost Era’s energy for a last-ditch attempt at turning the battle. This Zorm Hastor was clearly from the other side, and he’d cultivated with the help of the corruption from the beginning.
+
+Zac had appeared right at the realm’s center. He rushed straight for the mountain, narrowly avoiding intense streaks of corruption that leaked from its many cracks. Not much work had been done on Zorm’s Inner World. There were no buildings or formations installed, so Zac braved the leaking corruption to rush into the mountain’s only proper entrance.
+
+Waiting inside was an expansive cultivation cave large enough to house a small clan. Zac swept the accessible routes with his Soul Sense and disappeared in a flash. He arrived before two lifeless bodies inside a residential area. One of them looked just like Zorm, the other a young woman with an Early D-grade cultivation.
+
+The clone was the avatar Zorm used to manage things and cultivate inside his inner world. It was more of a puppet than a true independent being, and it had died the moment Zorm’s soul died. The woman showed signs of a spiritual poison that had completely erased her soul. Judging by her peaceful expression, it had been ingested willingly. Such was the fate of those who lived inside Inner Worlds. Their life and death were directly linked to the Monarch housing them.
+
+Zac searched both bodies and the abode, finding no signs of what he came for—orders from the other side or anything that could provide insights into what they were up to. The doppelgangers didn’t seem to keep any information about their home dimension written down. Why would they? Cultivators had near-eidetic memories and wouldn’t forget crucial information.
+
+Not ready to give up, Zac activated [Void Zone] to the max before entering the chamber that was the source of the Lost Plane’s Dao. Waiting inside was a level of corruption equal to the heart of a corrupted zone, and Zac felt his thoughts going astray as he walked deeper. Channeling [Purity of the Void] and [Immutability of Eoz] to their limits, Zac inspected the well in the chamber’s center.
+
+Rather than a gate to the Lost Plane or an integrated part of Zorm’s cultivation, the Lost Plane’s malevolent energy was treated like an external energy source. There was an array installed around the rim that held a few lingering traces of Imperial Faith. The seal had been broken to draw on the well’s power, but Zac had also seen earlier signs of infiltration across the Inner World.
+
+Zac suspected that the arrangement worked similarly to the prison for the Remnants. It had slowly extracted and refined their energy to bolster Zac’s cultivation. This well’s array clearly wasn’t able to remove the corruption. At most, it ensured the infusion was kept at a manageable level. As such, the corruption had become an integral part of Zorm’s foundations, and removing it altogether would likely cause his cultivation to collapse.
+
+A shimmer from the bottom of the well prompted Zac to send down a few chains. Moments later, they extracted four crystals the size of his head: Pseudo C-grade Corruption Crystals. Zac’s mind began spinning, and not even [Void Zone] could quiet the voices. He quickly sealed and stowed the crystals before breaking off the contaminated parts of [Love’s Bond]’s links.
+
+Zac couldn’t take it any longer and rushed out to the communal chambers. His search had only taken a few seconds, and he decided to keep looking. Esmeralda had ways of contacting him if the situation grew desperate on her end. A bloody scent came from a side hall, and Zac’s brows rose upon seeing body parts of multiple Early Beast Emperors inside.
+
+A tribal formation was draining the pieces of fleshy power, and there was a half-formed pill full of unstable Fiend Energy in the middle. It collapsed when the chamber was disturbed, releasing its energies into the air. Zac didn’t really care. He was more interested in the array itself and was delighted to realize it could be easily dismantled.
+
+Any C-grade array was extremely valuable, and this one was actually useful for Zac’s cultivation. Considering the random body parts left in the cave, the array could probably use almost any Beast Emperor to refine Fiend Pills. He didn’t have to wait to form his own Inner World before benefiting. It could be installed back home on Earth or on the Yphelion in the interim.
+
+The array was only a welcome bonus, and Zac’s goal of looking for clues grew more hazy as he swept through the rest of the chambers like a swarm of locusts. Unfortunately, the final tally was somewhat unimpressive. Zorm didn’t carry any Spatial Treasure apart from a Peak D-grade [Mercurial Sack], and the resources he’d stored inside his Inner World paled in comparison to Zac’s collection.
+
+Zorm must have emptied his coffers to reach Monarchy. What was left was used to set up production lines and his private cultivation chambers. Beyond the Fiend Pill chamber, four more cave dwellings were designed to slowly refine C-grade cultivation resources. Considering how recently he’d advanced, there weren’t any finished resources for Zac to seize.
+
+A rumble reminded Zac that it was time to go. There was nothing else to note, and he’d memorized the damaged runes surrounding the well of corruption. If Zorm had hidden some last-ditch method to elude death, he’d hidden it too deeply for Zac to find it in the little time he had. It wouldn’t be the end of the world if Zac overlooked something.
+
+The token hadn’t updated his contribution since stepping onto the island, but what they’d accomplished so far had to be worth a hefty chunk. Should Zorm actually have prepared some unique method of survival, his strength would drop to the point of irrelevance.
+
+Whole chunks of the continent were being swallowed by holes in subspace by the time Zac emerged from the mountain. Interestingly, those passages rejected the Lost Plane’s corrosion, preventing the taint from merging with the cosmos. All that ingrained corruption being released resulted in a rapid increase in the ambient concentration of Dead Dao, and he escaped back to the twin peaks.
+
+Zac’s skills had deactivated during his quick exploration, and he got his first proper look at the valley since the battle started. The first thing he noticed was that the moisture had increased. The sky was once more overcast, and the first drops of rain were falling. The only thing holding back the downpour was the last traces of the magic circle engulfed by the clouds.
+
+Sevona was reclaiming the whole mountain, and the Lost Plane’s invasion had been pushed deep into the newly formed chasm. Even the energy leaking out of Zorm’s Inner World was pushed down to become part of the pitch-black pond formed at the bottom. Just looking at it made Zac shudder, and he quickly averted his gaze.
+
+There were no corpses, nor were there any raging battles. Even so, there was palpable tension in the air. Zac roused his spirits as he flew over to Idiche’s side, glancing at the huge bubble before her. It was an opaque mixture of illusions and spatial energy tinted by death. Zac couldn’t see inside, but the fierce fluctuations indicated that something was trying to break out.
+
+“Finally! You could have warned me you would unleash that brute on the valley. I got sucker-punched along with the rest of them,” a battered Idiche said, her face full of grievance.
+
+“Sorry, there was no time,” Zac apologized, looking at the sphere with surprise. “You’ve trapped the other Monarch?”
+
+Idiche nodded. “Your toad is working from the inside, but we’re about to be overrun.”
+
+“I’m not sure if I’m in any condition to deal with another one,” Zac said helplessly, waving what was left of his left arm. Truthfully, his right arm wasn’t in great condition either after getting hit by the Ocular Attack, though he’d spent some Creation Energy to make emergency repairs during the battle.
+
+“No one’s expecting you to do that. The inner region is changing. We should be able to lose him inside,” Idiche quickly said. “But first, we need the key, and only you can get it.”
+
+“Don’t tell me—” Zac’s question was answered when a burst of radiance pierced the roiling sea of corruption trapped in the crack.
+
+Zac vaguely saw a familiar dagger embedded in the ground before it was once more covered by the tainted waters. It was the very same dagger that the members of Sevona’s expedition used to pinpoint the lodge’s location, so calling it a key was accurate. Zac sighed in resignation and emptied [Purity of the Void] of corruption. It would be filled up soon enough.

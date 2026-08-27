@@ -1,0 +1,155 @@
+---
+id: 60c5a1c8-3a55-5638-923e-1d98af076bc1
+page-type-slug: story-chapter-royal-road
+title: "B5 | Chapter 13"
+slug: 0312-b5-chapter-13
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 312
+ownLength: 1402
+unit: words
+ownProgress: 1402
+publishedAt: 2025-10-25
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2704617/b5-chapter-13"
+royalRoadId: "2704617"
+markedReadAt: "2026-06-29T19:16:25.786Z"
+---
+
+Aria
+
+After finishing up the last of the work I have here, including the annoying ceremony that I barely show up to before leaving, I say hi to Ryan once before going back to my ship and setting course for the unknown. Because this time I honestly want the planet I end up at to be a surprise.
+
+Normally I don’t like surprises, if I’m being honest with myself.
+
+I just don’t like them.
+
+But this time I want to go somewhere I have no information about beforehand. So I just have the ship move off into space and told Crimson to surprise me with the world we end up on.
+
+And while Crimson is doing that, I go ahead and read during the entire trip. All the way until I get a message from Crimson telling me we’ve arrived.
+
+I go ahead and finish the book before making my way over to the bridge, at which point I find myself frowning a little at the planet I see outside of the large window.
+
+“And this place is…” I mutter, waiting for Crimson to answer for me.
+
+And he does.
+
+|This is an uninitiated planet known by the locals as Frala.|
+
+My eyebrows rise at that.
+
+An uninitiated planet? That kind of sounds interesting.
+
+Which is probably why Crimson brought me here. Because he assumed I’d be interested in checking it out.
+
+I’ve never been the reason for a planet to be initiated into the System before, so why not try it out?
+
+So with that thought in mind, I order Crimson to cloak the ship and bring us down into their atmosphere. And the moment I do that, I get a notification from the System.
+
+Initializing, please wait a moment…
+
+I tilt my head a little while looking out at the planet below me. One that looks rather modern if I’m being honest. With a lot of tall buildings scattered around it.
+
+The System has now been Initialized into the world of Frata.
+
+There they go. Let’s see how that helps them.
+
+After all, they don’t have anyone actually invading them. So they should find the System to be a benefit for them.
+
+As the invader of the world of Frata, your level has been limited while on this planet during its safe period!
+
+Furthermore, interacting with denizens of the planet is forbidden during their Tutorial process.
+
+Yeah, thought so.
+
+It’s interesting to see the invaders’ side of things, even if I don’t actually plan on ‘invading’ them or anything.
+
+“Crimson, please bring up the details you’ve learned about the planet in advanced through drones,” I state while crossing my arms at the center of the command bridge.
+
+And just like that, a bunch of holographic screens appear in front of me. Each with details about the planet below.
+
+But what I find on it is rather… meh.
+
+The world is certainly different from most of the planets I’ve been to, but it’s a superhero world. Which I’m not all too fond of.
+
+After all, the last time I went to a superhero world, the magical girls there were… not very pleasant to deal with.
+
+It doesn’t take me long to realize just how different this one is though.
+
+For one, there’s no focus on one gender between the superheroes. They’re just heroes. Nothing more.
+
+There are heroes and villains in the world, each of whom are people who just use their abilities for it all. Meanwhile the world’s governments are pretty much just controlled by the heroes and villains. Without much say from the regular people.
+
+The heroes are applauded by the people and the villains terrify them.
+
+Which is normal, I guess.
+
+As for their level of technology? They have quite a bit better technology than Vortel had when we Initialized, but worse than the Eternal Dynasty or Rex Dynasty.
+
+So overall, the world is rather interesting. More than I first thought when seeing that it was a superhero world.
+
+A lot of the world has cities on it, without anywhere near as much nature to see. Which is a little saddening, but I am rather happy about the fact that I see what look like mana creatures on the world’s surface.
+
+Meaning this is at the very least a Beta Tier world.
+
+The mana creatures themselves seem to be called ‘demons’ by the denizens of the world, but they’re not actually demons. Even if I do see a few fallen demons on the planet that serve the Demon King.
+
+They’re just regular mana creatures with rather demonic forms.
+
+And they’re also the main foe this world’s superheroes face. The mana creatures that leave their little black portal floating above the planet.
+
+Which is a rather hard thing to miss now that I make my way to the other side of the planet just to see it.
+
+Looks like the planet is Beta Tier, seeing as they only have one Hunter’s Spot.
+
+But they have one, and that’s all that matters.
+
+“Crimson, mark this planet on the map for me,” I order with a smile on my face.
+
+Looks like I found a jackpot.
+
+And I might as well mention it to Little Blue. She can do whatever she wants about it.
+
+Although she’ll probably just make an alliance with them. Or somehow bring them under our rule.
+
+Knowing her though, she won’t declare war on them just for the Hunter’s Spot. So it’ll be fine.
+
+Anyways, I sit up on my ship for a little while, just waiting for their little Tutorial to end. Mostly because the System doesn’t seem to want me to interfere with anything until then. And after I get another notification from the System about said Tutorial finishing, I go ahead and jump out of the ship to land directly on the ground. Forming a bit of a crater in one of the few mountain ranges they have.
+
+Then I go ahead and cover myself with a cloak and begin walking over towards one of their big cities.
+
+Let’s see what this world is like on foot.
+
+The City of Olvar
+
+Melvin feels anxious as the Tutorial ends and he finds time resuming around him. But he also feels a little excited. What with something from his novels actually happening in real life.
+
+A System initializing itself into his world? People being able to level up?
+
+It’s a dream come true for him.
+
+And his purpose in particular is a pretty interesting one as well.
+
+While he would have preferred killing monsters or something to level up like is so often shown in games and books, finding new and interesting things is good as well.
+
+Melvin has always loved discovering new things.
+
+But when he looks out over the wall of his city, where he’s currently stationed as one of the heroes on watch, he finds himself frowning. Because he just sees a woman casually walking over to their city’s wall while wearing some sort of military uniform with a cloak thrown on over it.
+
+That’s not all though, as he immediately gets a bunch of messages from the newly initiated System telling him about his purpose gaining a lot of progress.
+
+And when he sees the reason for it? He feels a chill run down his spine.
+
+Because it’s for discovering the Horseman of Death.
+
+He silently stares as the woman stops in front of the wall, which currently doesn’t have anyone paying attention enough to actually open the city gates for her. Then she just jumps and clears the entire wall to land next to him.
+
+Melvin falls on his rear in shock and fear, but the woman just glances at him, nods once, and walks past him to jump down into the city without a word.
+
+The hero silently watches as the woman just walks into the city with her hands in her pockets as everyone in the city is freaking out about the System. With some people running off to no doubt further their purpose and others still being in shock about the whole thing.
+
+But Melvin just continues watching the woman walk through the street.
+
+Was… she the invader the System mentioned…?
+
+He continues silently watching her until it finally clicks in his head that he’s security and that he just let an unknown and highly dangerous person waltz right into the city.
+
+Shit. I need to report this.

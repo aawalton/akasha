@@ -1,0 +1,171 @@
+---
+id: 9fad035c-716c-56af-8dbc-935f91087a7c
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 69"
+slug: 0142-b2-chapter-69
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 142
+ownLength: 1541
+unit: words
+ownProgress: 1541
+publishedAt: 2024-04-11
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1591189/b2-chapter-69"
+royalRoadId: "1591189"
+markedReadAt: "2026-06-29T19:10:32.826Z"
+---
+
+Aria
+
+“So you’ve been using your barriers to defend the Ability Holder tribesmen in the Mid Eastern part of the world? Sounds like a good plan to get your level up,” I tell Hannah over the phone while falling through the clouds with my legs and arm – not the one holding the phone – sprayed out in my boredom. “How’s it gone so far? You get any levels?”
+
+She answers, sounding rather laid back as explosions ring out around her, “I’ve gained a few actually. It’s been pretty good on this planet for my leveling. There isn’t much to protect on Vortel anymore, so my leveling had stalled a bit there.”
+
+I continue falling with the wind whistling as I go, clouds passing me by every now and then.
+
+After a while, I let out a relaxed sigh and close my eyes.
+
+Wonder how long this fall will last?
+
+“By the way, I’ve been wondering this for a little while now,” Hannah suddenly says, making me open my eyes to glance at my phone despite not being able to see her. “What’s that whistling sound?”
+
+“Oh, nothing much,” I tell her while closing my eyes again rather lethargically. “Just falling through the sky into the clouds below.”
+
+Silence fills the call.
+
+“You’re joking, right?” she asks, sounding more than a little unsure.
+
+“Nah,” I mutter, wondering if I should take a nap while I fall.
+
+It might pass the time a bit better.
+
+Actually, that’s a good idea.
+
+“Anyways, I’m gonna head out,” I tell her with a lethargic smile on my face, my eyes still closed. “See ya later!”
+
+“Wai-” she begins, but I hang up the call with a yawn.
+
+Not sure why I’m so sleepy right now.
+
+Although the sleepiness seems to be fading a bit.
+
+Wonder if it has something to do with these clouds I’m passing through?
+
+My drowsiness grows stronger and stronger before I finally fall asleep.
+
+By the time I wake up again, I find that I’m still fall- err, no, going up? Huh?
+
+I blink before looking down, then back up again.
+
+And yep, I’m definitely going up towards the islands.
+
+The heck? Also, how long was I asleep?
+
+Hmm.
+
+Well then.
+
+I continue rising. And rising. And rising some more.
+
+Eventually though I notice that I’m slowing down right around the point when I just barely make it above some islands. But even when I try to move in the direction of the islands, I don’t really get far and pass straight back down below them again.
+
+And into the clouds below once more.
+
+Well then. That wasn’t very productive.
+
+Wonder how long I’m gonna be like this?
+
+When I get back into the clouds I begin to feel that drowsiness again. But it’s a very light sensation this time. Probably due to me building up an adaptation to it.
+
+Must’ve been a really strong poison for it to knock me out entirely for however long I was out.
+
+Probably not long though.
+
+Doesn’t help that I didn’t exactly fight against the poison.
+
+It was a nice nap after all.
+
+Anyways, I do still fall asleep again while falling down. But this time around I make it a lot deeper before doing so. And I wake up a lot sooner as well.
+
+Before missing the islands again on my way down and continuing back through the clouds.
+
+Without falling asleep though.
+
+So when I manage to pass through the clouds entirely, I find… a surprise.
+
+Huh.
+
+Now that I think about it, they never actually said what the core was like. Almost like no one had ever really seen it.
+
+Not sure how they knew there was a core down here like that, but still.
+
+It would definitely explain them not knowing about… this…
+
+What I find awaiting me at the center of the planet looks to be… a large Hunter’s Spot.
+
+Okay… maybe I will stay on this planet for a while after all.
+
+The Hunter’s Spot is very obviously a Hunter’s Spot because of the mana creatures flying around the massive sphere. A sphere that is in the form of some sort of bug’s nest. Like a wasp nest of sorts. With a lot of large wasps and other bugs flying around and into and out of it.
+
+Also, I feel myself being slowly pushed away from the thing when I get near. Which is probably the result of that gravity oddity they mentioned. But it’s not a normal push. More like I’m going up against some sort of barrier and the barrier is just kinda sliding me along until I get to the other side, not altering my direction in any way.
+
+Interesting.
+
+Very, very interesting.
+
+What’s more is that I’m pretty sure I can push through the bubble-like barrier if I tried.
+
+So I enhance my body with soul energy and begin pushing harder against the barrier until I hear a whoop sound and I pass straight through.
+
+And immediately begin falling even faster down towards the nest, with more than a few of the flying bugs around turning their attention towards me. But to my surprise, they all just look confused. As if they’ve never seen something like me before and are wondering what to do with me.
+
+Then I crash into their nest, and they realize I’m bad and fly straight at me, stabbing me with their stingers.
+
+I just kinda dust myself as I get up, ignoring the one to one and a half meter long bugs stinging and biting me in the process.
+
+Good thing I don’t particularly care about bugs one way or another.
+
+My phone suddenly begins buzzing, making me glance down at it before I pull it out of my pocket with some sort of mosquito stuck on my arm with its rather long mouth biting into me.
+
+I ignore it as I accept the call.
+
+“Aria! Where are you! Tell me where you’re falling so I can bring an airship to catch you!!” Hannah shouts the moment the call connects, almost making me move the phone away from my ear. And it seems to annoy the bugs as well since some crawl up to my hand as I summon some Lesser Death Spirits around me to deal with them while I’m busy.
+
+“Don’t worry, I’m fine down here,” I tell her while frowning at the bugs, only to smile up at the next. “I’ll probably stay on this planet for a few years too. Turns out it’s a nicer place than I thought.”
+
+“What?! I thought you wanted out right awa-” Hannah exclaims before cutting herself off. “Wait, never mind that. Where are you?!”
+
+She pauses for a second, then adds, “And what’s that buzzing sound?”
+
+“Just a bunch of meter to two meter long bugs,” I tell her as my Death Spirits deal with the things swarming us. Then I casually begin walking deeper into the nest, leaving my spirits on the edge of the hole I landed in to stop any from proceeding inside. And to give me a lot of kills, of course. “Don’t mind them.”
+
+“Bugs?” Hannah asks, sounding confused as hell. “Wait, what? Why are there… huh?”
+
+“Well, don’t worry about me down here,” I tell her with a smile on my face. “There’s a really nice Hunter’s Spot at the center of the planet! I’m gonna live here for a while and hunt. So please don’t pay me any mind. Just do whatever you’re doing and have fun, kay?”
+
+Not like I know how to get out of here anyways.
+
+“A Hunter’s… huh?” she asks, sounding even more confused. And I can hear other people talking in the background. People I’m pretty sure are tribesmen from Arian. “Are you sure you’re in a Hunter’s Spot?”
+
+Oh, nice. Sounds like she’s calmed down a bit.
+
+She was always the unnecessary worry wart. It’s definitely a good point about her though.
+
+I proceed to walk through the nest for a few minutes until I manage to find my way to another exit. Then I move my phone away, put it on speaker, and turn on my video camera while saying, “See for yourself.”
+
+And there’s an instant reaction from the people who are no doubt next to Hannah. A rather loud reaction as they all begin cheering until some of them start wondering how they’re even gonna get down here.
+
+Guess that means they didn’t know this place was down here after all.
+
+Makes me wonder how they knew there was some sort of core down here if they had never gone here themselves.
+
+But putting that aside, this is making me wonder something.
+
+Just how many Beta Tier worlds have a Hunter’s Spot like this one that was just never discovered? And if that’s the case, I wonder how much coin I could earn from paying those Hunter’s Spots a visit and getting first dibs on the loot there?
+
+Like this Hunter’s Spot that I am so going to loot to the hells and back.
+
+A grin makes its way onto my face at that thought.
+
+Then a bug jumps onto my face and tries to eat it, making my grin go away.
+
+Annoying.

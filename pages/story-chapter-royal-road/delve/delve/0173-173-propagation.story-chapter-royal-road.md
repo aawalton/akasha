@@ -1,0 +1,943 @@
+---
+id: e90aa8a2-16f4-57c2-853e-b5127295294e
+page-type-slug: story-chapter-royal-road
+title: "173: Propagation"
+slug: 0173-173-propagation
+partOf: delve
+position: 173
+ownLength: 5129
+unit: words
+publishedAt: 2021-12-05
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/800733/173-propagation"
+royalRoadId: "800733"
+---
+
+“So, how’s things?” Rain asked, painting targets one by one as the dog-sized lizards charged him. Radiance responded, beams of golden light lancing into each monster as he removed IFF’s protection.
+
+The lair had turned out to be a cave system. It was ludicrously hot inside, the walls literally glowing with the heat. As for monsters, these Firetail Geckos were it. They were weak, but numerous, coming in a few different sizes. The flaming tails reminded Rain a bit of Charmander, but that was where the similarities ended. They had dark skin cracked with red, like magma beneath a crust of hardened rock, and they fought with tooth, claw, and fire from their tails. Truthfully, they weren’t much of a threat. The walls were probably more dangerous.
+
+“Oh, ya know how it is,” Carten said with a grunt. There was a crunch of shattering bone and a hiss of blood boiling as he slammed one of the lizards into the heated stone. “Jus’ doin’ me thing. This is a nice break. Gettin’ right tired o walkin’, that’s fer sure.”
+
+“I’m getting tired of being carried,” Rain replied, casually backhanding one of the monsters as it lunged for his face. He walked past it, leaving Radiance’s beam to drill into its stony hide as he fended off its friends. It would only be a few more seconds before the spell finished with them, excluding those he’d left for Carten. “I’d kill to be able to stretch my legs. Hey, I’ve been meaning to ask you. How are things with Evonna? Are you two still an item?”
+
+“Fer sure!” Carten said happily, bringing his shields together, then slamming their bottom edges down on the neck of a lizard whose legs he’d just broken. The shields made the world’s dullest guillotine, and there was a wet, crunching schlink as the creature’s head was shorn from its body. “She completes me. A woman after me own heart.”
+
+Rain rolled his eyes as the last of the lizards succumbed to Radiance. He dropped the spell, and the glow from the walls faded, no longer bolstered by his magic. A quick blast of Purify took care of the mess, and then Detection pointed the way forward. “You two are perfect for each other.”
+
+“S’truth,” Carten agreed, and there was a scrape of metal as he hurried to catch up. Neither he nor Rain were bothering to collect any fallen Tel or Crysts. Others would take care of that later. “Velika ain’t got nothin’ on ‘er. I mean, sure, it ain’t as excitin’, knowin’ she can’t snap me bones by mistake if she gets real inta’ it, but she’s got more’n enough spice in her kitchen ta’ make up fer tha’, if ya know what I mean.”
+
+“You have issues, Carten,” Rain said, chuckling to himself.
+
+“Oh, an’ yer one ta talk?” Carten scoffed. “Ameliah, now. There’s a woman tha—“
+
+“You don’t want to finish that sentence. More coming. From the long tunnel to the left.”
+
+“Oi, jus’ how many lizard shits is in here, anyway?” Carten asked, raising his shields.
+
+“I haven’t bothered counting,” Rain said, his eyes darting over the targets as one by one he marked them for death. “This lair is kinda...basic. The heat seems to be the real—Ah! There’s our prize.”
+
+Firetail Gecko – Level 7
+
+“Where?” Carten asked, and Rain pointed. “Oh. Bit of a runt.”
+
+“Don’t let your guard down. We’re in here alone, remember. Come on, let’s catch it,” Rain said, walking forward. Radiance seared mercilessly into the other oncoming monsters, leaving the blue untouched. “Interesting,” he said, in no rush to close the distance. “It’s got the same name as the common ones, just like my Musk Wolf and your Face Stabber. Damn, I really wish Detection was able to identify blues when they aren’t aberrant.”
+
+“Would be convenient,” Carten agreed, hunkering behind his shield as the blue crashed into it. It had outpaced its fellows by virtue of not having a golden death laser to contend with. Carten grunted in surprise, and there was a screech of metal scraping across stone as he was pushed back. “Oi!” he shouted in indignation.
+
+“Just keep it busy for a second, Carten. And don’t break it.”
+
+“Aww!” Carten shouted, and there was a blast of heat as the essence monster bathed him in a torrent of fire from its tail, arced over its back like that of a scorpion. When the plume of flame faded, Carten was unharmed and unhappy. “Ain’t no fun left. Tha’ plate ya gave me took all the danger out. Tha’ weren’t no worse’n a summer breeze.”
+
+“Issues,” Rain repeated.
+
+“Oh, hush yer noise,” Carten grumped. “REBOUND!” This time, it was the lizard’s turn to hiss in surprise as it bounced away from the impact. Rain pounced on the monster before it could recover, grabbing it by the leg and pulling it into a bear hug. Its claws scrabbled against his armor to no effect, and he was glad he’d left his cloak at the entrance. The light faded as he dropped Radiance, the other geckos already dead.
+
+“Been meanin’ ta ask ye,” Carten said, standing and resting his shields on the ground, having to raise his voice over the angry hissing and scrabbling of claws. “Did ye take a skill or somethin’? Ta’ make ye all…” Carten gestured vaguely. “…that? Unless yer armor’s thicker’n it seems, there’s a lotta meat fer yer lady friend in there.”
+
+“Meat for my…” Rain sighed, then shook his head as he bit off his reply. It’s not worth it.
+
+“Jus’ sayin’!” Carten said with a laugh. He walked over, then clapped Rain on the back with a shield, almost making him drop the lizard. “I mean, hells, jus’ look at ye! Little Mouse, all grown up!”
+
+Rain snorted at the nickname as the lizard tried to bathe him in fire, managing only the tiniest puff before he quashed its magic with Suppression. He tightened his grip, but the monster didn’t stop struggling. It never would, not until it was completely out of stamina. It wasn’t an animal that he could intimidate into submission. This one didn’t have any intelligence, only instinct. It would never recognize that it posed no more danger to him than a buzzing fly.
+
+Rain looked up at Carten as the Gecko continued to struggle against him. He’d searched his heart for regret over the creature’s doom, but found only resolve. “I suppose I am.”
+
+Ameliah tilted the cup sitting on the table in front of her, peeking underneath to count the faces shown on the nine six-sided dice beneath. Once she had them memorized, she set the cup back down, then looked at her opponents. “One two.” She then picked up a Tel from the pile in front of her and tossed it into the center of the table.
+
+“Two twos,” Tallheart said, adding a Tel of his own.
+
+Ameliah looked at the third player at the table—more accurately, on it—then smiled. “Dozer?”
+
+*pop* *pop* *pop* … *pop* *pop* *pop*
+
+Ameliah chuckled to herself. “Three threes. Go on then.”
+
+There was another pop as Dozer spat a Tel over his cup to land with a clatter next to the others.
+
+Ameliah looked back at Tallheart. “Okay, I guess I’ll have to say four twos, then.”
+
+“Five twos,” Tallheart replied.
+
+*pop* *pop* *pop* … *pop* *pop* *pop*
+
+“Three threes again,” Ameliah said, patting the slime. “Good job. Ah, ah, ah, you don’t need to stake until the next hand. Wait. Waaaait. That’s a good boy.” She looked back at Tallheart, ignoring the slime’s invalid bid. She thought for a moment. “Six fours.”
+
+“Hmph,” Tallheart snorted. “This game is uninteresting with only two…” he hesitated, glancing at Dozer, “…three…players.”
+
+“So you challenge?” Ameliah asked.
+
+Tallheart snorted again. “Seven twos.”
+
+“Challenge,” Ameliah replied instantly, smiling. Technically, Dozer should have been the one to do it, but some allowances had to be made. She lifted her cup, revealing her dice, not a single one with two pips showing.
+
+Silently, Tallheart turned over his own cup. Ameliah raised an eyebrow, seeing that he did actually have a lot of twos. Four out of nine, in fact, which didn’t seem very likely. Rain could have doubtless told her the exact probability. If there was one thing she’d learned, it was not to play Rain at Nine Dice. She regretted teaching it to him.
+
+*pop*
+
+Dozer glommed onto the side of his cup, attempting to lift it, and Ameliah quickly moved to help before he sent the dice tumbling everywhere. It turned out that Dozer had two twos, for a total of six when combined with Tallheart’s.
+
+“Hmmm,” Tallheart rumbled, setting down his cup. “You have won again.”
+
+“Thank you for your donation,” Ameliah said, sweeping up the Tel from the center of the table. They weren’t actually playing for money, just to pass the time. One Tel wasn’t much of an ante, and these ones had technically come from Dozer. She still hadn’t quite gotten over the shock of discovering that the tiny slime was literally making them out of nothing.
+
+She reached over to pat the slime before collecting its dice. Well, not nothing. He only does it for a few hours after Rain feeds him. It’s probably either mana or essence. I wish I had Mana Sight right now so I could try to figure out which one.
+
+“Another game?” Tallheart asked.
+
+“Sure, why not?” Ameliah replied, shaking Dozer’s dice in his cup. Suddenly, she stopped mid-shake and looked up, having felt Winter wash over her. “He’s back.”
+
+“Mmm,” Tallheart replied. The three of them watched—listened, in Dozer’s case—as Rain made his way over to them. Once he reached them, he plopped himself down into Dozer’s unused chair, catching the ecstatic slime as it flung itself at his chest.
+
+“Can I get in on this?” he asked by way of greeting.
+
+“No,” Ameliah and Tallheart replied together.
+
+Rain snorted, removing his helmet and placing it on the table. “Come on. It’s just basic statistics. And watching people. Tallheart’s face is an open book.”
+
+Tallheart performed one of his signature slow blinks.
+
+“Why are you back so soon, anyway?” Ameliah asked, hiding her smile. “I thought you were going to clear the lair.”
+
+“Already did that,” Rain replied, waving a hand. “Don’t worry, it wasn’t that dangerous, just really, really hot, and I didn’t go alone. Carten came with me.”
+
+“I see,” Ameliah said neutrally. It would have been safer without him. “And what did you find?”
+
+Rain smiled. “We caught a level-seven blue. The first group of eight is already awakened, and Samson’s going to take the next group in to clean up the loot before they break the core. They don’t need me for that.”
+
+“Shouldn’t you sound more excited?” Ameliah asked, observing him carefully.
+
+“Oh, I’m excited,” Rain said, gracing her with a smile. “It’s great. It just isn’t as simple as all that. You didn’t have to deal with the politics leading up to it.”
+
+“Mmm,” Tallheart rumbled. “We know better.”
+
+Rain snorted. “All the slots are settled now at least. Tarny’s still dead set on Logistics Beacon. He says he wants to follow in my footsteps, not retread them. He’s taking the four seasons, with Amplify and Extend so he can get to Fall faster. It’s still going to take ages. He hasn’t made up his mind past that.”
+
+“Admirable,” Tallheart said. “This is what the company needs. Hmm. And you will no longer need to take them yourself.”
+
+Rain shrugged. “Yeah, but he’s basically signing himself up to stay with Ascension forever. There’s a reason Beacons end up enslaved.” Rain paused, considering his phrasing. “Not that that’s what he’s going to—what we’re going to—“
+
+“We know what you meant,” Ameliah said, smiling, “I’m sure he doesn’t see it that way.”
+
+“I know,” Rain said with a sigh. “It’s just, if it really looked like we were going to starve out, you could still take Fall. By the time food becomes a problem, the Knives should have either given up or attacked already. Not that I’m hoping for that second one. It would be a relief, though. Knowing.”
+
+“Mmm,” Tallheart said. “I believe we have escaped pursuit. The Empire has better uses for their assassins. However, a belief such as mine only increases the threat. We cannot relax. Not until we have left the forest. Perhaps not even then.”
+
+“Tell me about it,” Ameliah said, leaning back in her chair and rubbing at her eyes. “I was thinking we’d be fine if we just made it to the plains, but then I remembered Lightbreaker. He’s not with them, obviously, but just because Rain can’t get Val to talk, it doesn’t mean Fecht will have that problem getting secrets out of his father.”
+
+“Val did tell me a few things, actually,” Rain said.
+
+“Wait, what?” Ameliah asked, straightening. “When?”
+
+“Before the earthquake. I was going to mention it, but I got distracted, and then, well…” He shrugged. “It didn’t seem important compared to everything else that’s been going on.”
+
+“Spill it,” she said, using one of his expressions.
+
+Rain smiled. “Fine, fine. It’s a rare class called Contender of Light, and it boosts all Light magic. When he took it, it created three brand new skill trees for him, Daybreak, Midlight, and Nightfall, stealing the Light skills he already had from their original locations. So yeah, recombination is a thing. Apart from that, the pretentious name, and the stupid solo requirement, it’s about what you’d expect. It boosts the impact of Focus like Mage does and increases the cap for Light skills by two across all three trees. Given his level, he can’t see any skills past tier two, but there isn’t anything he can see that would hide a group. I asked. If you want the full details, just check the book. The information is free to Entrusted.”
+
+“Hmm,” Tallheart said. “Interesting. And good to know. The Empire does not allow common soldiers access to tier-three skills. That restriction does not apply to Knives, but I have never seen one use Light Magic. Their builds are rigid, with only minor variations. If they are not behind us when we enter the plains, it will be safe to let down our guard. As much as that is ever wise.”
+
+“Right,” Rain said, nodding. “Lightbreaker’s been working for the Empire for a long time, so if his build was spreading to the extent that they could hide armies without him, I’d think we’d have heard about it. Just what is his deal, anyway? What’s Fecht got on him?”
+
+“You haven’t asked Val?” Ameliah said.
+
+Rain sighed. “Of course I’ve asked. He doesn’t know. Other than the build, it’s like Lightbreaker and the father Val remembers are two completely different people. I wouldn’t rule out mind magic. Fecht’s an Omnimage, right?”
+
+“Mmm,” Tallheart replied. “A warrior as well. And an artisan. Even I do not know what his class is in truth. In the Empire, none doubt that the Potentate’s skill exceeds that of a master in all crafts.”
+
+“Damn cult of personality, god-emperor bullshit,” Rain said, rubbing his eyes. “How are we even supposed to deal with that?”
+
+“Relax, Rain,” Ameliah said, reaching over to lay a hand on his shoulder. “It’s not our place to deal with that. We just need to get away.”
+
+“Right,” Rain said, placing his hand atop hers. “Obviously, you’re right. Vatreece will stop him. Or Kev… Okay, maybe not Kev.”
+
+Ameliah chuckled, squeezing his shoulder before breaking the contact. “So, are we going to have any new Contenders of Light now that Val’s talking?”
+
+Rain looked down at Dozer, who was still clinging happily to his breastplate. He pulled the slime free with a sucking sound, then placed him back on the table and began petting him to keep him there. “No. There are three problems with that. First, the class is rare, so it’s locked down to Entrusted after I lost that vote, second, the stupid solo requirement, and third, we’ve already filled that niche, so the credit threshold is really high. The same applies to Cold Mage—Mahria’s talking too, if you didn’t know. She sold her class info so she could afford the respec. She’s been much more cooperative since then, but...”
+
+He paused, looking around and lowering his voice. “Speaking candidly, I’m worried that she’ll leave once we get to Three Cliffs. Her and the others who didn’t want to be Entrusted. Until she does, though, I can’t justify lowering the price for her slot.”
+
+“I hear you on that, but I think she might surprise you,” Ameliah said.
+
+Rain nodded. “I hope so. Anyway, as for other rare classes, True Jack has that damn waiting period, so nobody really considered it. We did get a Monolith, though. Gigs went with Tortugo.”
+
+Ameliah nodded. “Yeah, I overheard him arguing about it with Staavo earlier this morning. Should be interesting. Tallheart can make stuff to help him deal with the imbalance.” She jerked her thumb at Tallheart. “Speaking of this guy, are we going to have another Runic Powersmith?”
+
+“Ellis,” Rain said, nodding. “As a Metalworker, anyway. I don’t know that anyone will be able to meet the requirements for the evolution. They’re…a little insane.”
+
+“Mmm,” Tallheart rumbled.
+
+Rain smiled, but then sighed and reached up to rub at his neck. “Certain people aren’t thrilled with me about the slot picks. They’re blaming me for overpricing the rare classes. Calling me a hypocrite. As if it wasn’t the council heads that decided on the rules while we were gone. As if they didn’t vote to confirm them. You joke, but you two really are smart to stay out of it.”
+
+“I’m sure they’ll get over it,” Ameliah said with a shrug. “They knew what they signed up for. And you have to admit, the new rules make more sense than your original ones. Sorry, but it’s true.”
+
+Rain nodded. “You don’t need to be sorry. I freely admit that I was shortsighted about a few things. That’s why I wanted this to be a democracy—well, one reason. Anyway, none of this will matter unless we can find ourselves a place away from all this insanity. We need time for Ascension to get on a firmer footing, and for that, we need to get off this damn continent as soon as possible. Can you take me up now to get a look at those plains? I want to see how far it is to the ocean. Stupid, dark-age, lazy-ass, finger-painting cartographers.”
+
+“Sure,” Ameliah said, not bothering to hide her smile this time. “Later. I actually wanted to work on my soul this afternoon. I feel like I’ve been slacking. Tallheart’s going to beat me at this rate.”
+
+Tallheart rumbled. “About that.”
+
+Ameliah whipped her head around to stare at him. True to Rain’s words, the cervidian’s face said it all. “You—?”
+
+“Mmm,” Tallheart rumbled. “The Ava incident.”
+
+“And you didn’t tell us about it until NOW!?” Rain exclaimed, practically knocking the table over as he lurched to his feet.
+
+Tallheart gave him another of his signature slow blinks. “It did not seem important compared to everything else that has been going on.”
+
+Rain spluttered in consternation at having his own words fed back to him. Dozer, meanwhile, dropped from the table to collect the dice that had been sent tumbling by his outburst. Watching this, Ameliah laughed, pushing aside her disappointment at losing—and her shame at feeling disappointment instead of only happiness for her friend. Reaching up, she grabbed Rain’s arm and pulled him back into his chair before returning her attention to Tallheart.
+
+“Congratulations. Really. Now tell me exactly what you did.”
+
+[I can’t believe he waited so long to tell us!] Rain sent to Dozer, petting the slime vigorously as he paced back and forth. [He saw Lilly?! I mean, what?! That’s not how it works at all! And why wasn’t she there the next time? Did he just hallucinate her or something? No, it has to be more than that. He’s having…like…a vision quest or something. Step one, get out of the workshop, step two, reconcile with your lost love, step three, conquer the tower of inner trials. Arrg! It’s so confusing!]
+
+[Tall-Brother!] Dozer sent.
+
+Rain blinked, stopping to lift the slime in front of his eyes. [Yes, that’s who I’m talking about. What about him?]
+
+[Rain-King angry Tall-Brother?]
+
+Rain blinked. [Wow, that was almost a sentence. Nice work.]
+
+Dozer’s elation at being praised flooded into Rain, and he smiled despite himself. He could still feel the slime’s curiosity beneath, so he answered the question. [No, I’m not angry at him. I’m happy and annoyed at the same time, on top of being generally stressed.] Rain concentrated, sending the complicated emotion. [This.]
+
+He waited.
+
+Eventually, Dozer seemed to come to a conclusion. [Human is confuse.]
+
+[It’s our racial power,] Rain replied, looking up as he heard a polite woof. Cloud was looking at him expectantly, with Romer’s cat Nibs curled up on his fluffy back. Rain blinked, then smiled. “Playtime already?”
+
+Cloud chuffed again, his tail wagging precisely twice. Meanwhile, Dozer practically detonated with excitement as he realized who had come to visit. He launched himself from Rain’s hands, leaping for Cloud and slamming into the dog’s side like a gooey meteor. Cloud hopped back, dislodging Nibs with a yowl, and then the three of them were off, chasing each other and leaving a trail of chaos through the camp.
+
+Rain snorted, his troubles fading momentarily into the background. At least it’s not Dust this time, though if Cloud doesn’t stop growing soon, there’s hardly going to be a difference. Seriously, that dog has got to be part moose.
+
+“I thought you said you were going to be quiet,” Ameliah said suddenly.
+
+Rain jumped, then winced as he looked over at her. She was seated cross-legged nearby with her eyes closed. Tallheart was there too, already inside his soul, or—more likely—simply ignoring the disturbance.
+
+“Don’t blame me,” Rain said after a moment. “That was all Cloud’s fault.”
+
+Ameliah cracked open one eye to give him a look. “Blaming the dog? Really? Tell me, who is it, exactly, that’s making the animals around here so odd?”
+
+“Point,” Rain replied, smiling.
+
+“Come sit,” Ameliah said, closing her eye again and patting the ground next to her. “You have soul stuff to do too.”
+
+“Don’t I know it,” Rain said, moving toward her.
+
+He hadn’t made nearly as much progress as he’d hoped, it was true. The need to use Velocity precluded getting any work done during the day. When he’d been trapped in soulspace, he’d been able to control his spells freely, subject to input lag. Being inside his soul was different. Only recently had he managed to keep Winter without disrupting his meditation. Something like Velocity was utterly out of the question. Further, once he was in his soul, that was it. Winter would stay running if he did it right, but there was no turning it off or switching to something else, not even with a macro. His entire script layer needed to be reinitialized every time he returned to his body.
+
+Sitting beside Ameliah with a sigh, Rain crossed his legs and summoned his interface. Before he got to work, he had a few other things to take care of. Typing in a few commands, he pulled up his copy of Ascension’s roster, then set about updating the status of the new awakened. When he was finished, he sorted the results by level and filtered the list. If there was one thing he’d made progress on while traveling, it was his spreadsheet application.
+
+roster.ods
+
+B
+
+U
+
+I
+
+Text Color
+
+Cell Color
+
+A
+
+B
+
+C
+
+D
+
+E
+
+1
+
+Total Members
+
+121
+
+#todo standardize class naming convention
+
+2
+
+Entrusted
+
+24
+
+#todo maybe just leave untranslated?
+
+3
+
+Trusted
+
+27
+
+4
+
+Aspirant
+
+70
+
+5
+
+Awakened Members
+
+45
+
+6
+
+Cumulative Level
+
+262
+
+7
+
+Average Level
+
+2.17
+
+8
+
+9
+
+Name
+
+LVL
+
+CAP
+
+Class (*Planned)
+
+Rank
+
+10
+
+Tallheart
+
+37
+
+37
+
+Runic Powersmith
+
+Entrusted
+
+11
+
+Ameliah
+
+31
+
+31
+
+Uncertain Savior
+
+Entrusted
+
+12
+
+Rain
+
+25
+
+30
+
+Dynamo
+
+Entrusted
+
+13
+
+Jamus
+
+12
+
+12
+
+Arcane [Mysteries] Mage
+
+Entrusted
+
+14
+
+Carten
+
+12
+
+12
+
+Shield Turtle
+
+Entrusted
+
+15
+
+Staavo
+
+10
+
+10
+
+Swordsman [Spellsword]
+
+Entrusted
+
+16
+
+Val
+
+8
+
+8
+
+Contender of Light
+
+Entrusted
+
+17
+
+Mahria
+
+7
+
+15
+
+Cold Mage
+
+Trusted
+
+18
+
+Corrin
+
+7
+
+9
+
+Geomancer
+
+Trusted
+
+19
+
+Ava Lek-Ani
+
+7
+
+7
+
+Pyromancer
+
+Entrusted
+
+20
+
+Mlemlek Ko-Latti
+
+7
+
+7
+
+Swordsman
+
+Entrusted
+
+21
+
+Samson Darr
+
+6
+
+6
+
+Swordsman
+
+Entrusted
+
+22
+
+Reason
+
+6
+
+6
+
+Chemist
+
+Trusted
+
+23
+
+Myth
+
+6
+
+6
+
+Alchemist
+
+Trusted
+
+24
+
+Kettel
+
+6
+
+6
+
+Pyromancer
+
+Trusted
+
+25
+
+Ruce
+
+5
+
+9
+
+Diviner*
+
+Entrusted
+
+26
+
+Mollo
+
+5
+
+9
+
+Artificer [Jeweler]*
+
+Entrusted
+
+27
+
+Lago (Lauger)
+
+5
+
+9
+
+Heavy [Armor] Turtle*
+
+Trusted
+
+28
+
+Fredek
+
+5
+
+9
+
+Brawler [Passivist?]*
+
+Trusted
+
+29
+
+Clubbs
+
+5
+
+9
+
+Hydromancer*
+
+Trusted
+
+30
+
+“Quickhand” Telen
+
+5
+
+9
+
+Rogue*
+
+Trusted
+
+31
+
+Vanna
+
+5
+
+5
+
+Elemental Enhancer*
+
+Entrusted
+
+32
+
+Tahir
+
+5
+
+5
+
+Healer
+
+Entrusted
+
+33
+
+Stint
+
+5
+
+5
+
+Sharpshooter
+
+Aspirant
+
+34
+
+Shena
+
+5
+
+5
+
+Woodsmith [Bowyer]*
+
+Entrusted
+
+35
+
+Romer
+
+5
+
+5
+
+Runescribe*
+
+Entrusted
+
+36
+
+Mereck
+
+5
+
+5
+
+Healer
+
+Entrusted
+
+37
+
+Lyn Aleuas Draves
+
+5
+
+5
+
+Staff Defender*
+
+Entrusted
+
+38
+
+Hanes
+
+5
+
+5
+
+Sharpshooter*
+
+Trusted
+
+39
+
+Evonna
+
+5
+
+5
+
+Shield Turtle
+
+Trusted
+
+40
+
+Nails
+
+0
+
+9
+
+Mentalist*
+
+Trusted
+
+41
+
+Meloni
+
+0
+
+9
+
+Chemist [Potionmaker]*
+
+Entrusted
+
+42
+
+Gigs (Dewiggen)
+
+0
+
+9
+
+Tortugo*
+
+Entrusted
+
+43
+
+Emerton Sale
+
+0
+
+9
+
+Aeromancer*
+
+Trusted
+
+44
+
+Ellis
+
+0
+
+9
+
+Metalworker*
+
+Entrusted
+
+45
+
+Tarny
+
+0
+
+9
+
+Logistics Beacon*
+
+Entrusted
+
+46
+
+Belson
+
+0
+
+9
+
+Hurler*
+
+Trusted
+
+47
+
+Ujesh
+
+0
+
+7
+
+Tamer*
+
+Trusted
+
+48
+
+Delfina
+
+0
+
+7
+
+Beam Mage*
+
+Trusted
+
+49
+
+Smelt
+
+0
+
+7
+
+Utility Meta-Mage*
+
+Entrusted
+
+50
+
+Shortcrust (Joyanna)
+
+0
+
+7
+
+Spearwielder*
+
+Trusted
+
+51
+
+Ron (Taron)
+
+0
+
+7
+
+Acid Mage [Acerbomancer?]*
+
+Trusted
+
+52
+
+Kal (Kalman)
+
+0
+
+7
+
+Elemental Inhibitor*
+
+Trusted
+
+53
+
+Gardener
+
+0
+
+7
+
+Tracker*
+
+Trusted
+
+54
+
+Finn (Finnbogi)
+
+0
+
+7
+
+[Arcane] Shifter*
+
+Trusted
+
+Despite his lingering stress, Rain smiled. Ascension was working. All but a handful of the original members were now awakened. With their overall membership, he put their combined power on the level of the Fel Sadanis guild—excluding Halgrave, naturally. Even better, they had a much broader and well-rounded set of abilities. They lacked some higher-level classes, of course, such as a Translocationist, but of what was available at bronze, they had their bases covered. They had Warriors, Defenders, and combat Mages of all elements—even Dark, though only through Shroud and Ray of Eclipse. They had Healers, an Enhancer, an Inhibitor, a Tracker, and a Diviner.
+
+More importantly, they had Workers. As Ascension’s armory grew, so too would their unawakened members grow in capability. They would learn to use the weapons the crafters made, not just generally, but with actual Katas guiding their hands. Both Samson and Lyn were still holding their classes, though only the most able-bodied had the energy for them when they stopped each night. That would change once their flight was ended.
+
+And then there was Engineering.
+
+The generator. Light bulbs. Telescopes. Airships...
+
+Rain paused, then sighed. He was getting distracted, not to mention ahead of himself. With a flick of his wrist, he closed out the window in front of him, replacing it with his progress report. Long-term plans were great, but he couldn’t lose track of his more immediate goal.
+
+Progress Report
+
+marker_1: marathon2 [3061 Promise 02 06:42]
+
+marker_2: sales_delving [3061 Promise 10 12:08]
+
+Span: 8.2 days
+
+Character
+
+Skills
+
+Chemical Ward: 5 -> 10 (+5)
+
+Suppression: 5 -> 10 (+5)
+
+Tolerance
+
+Recovery: 71 -> 77 (+6)
+
+Vigor: 113 -> 114 (+1)
+
+Focus: 198 -> 200 (+2)
+
+Clarity: 181 -> 200 (+19)
+
+Attribute Buff: 254 -> 268 (+14)
+
+Speed: 4 -> 7 (+3)
+
+Synchronization
+
+Strength: 17.3 -> 20.6 (+3.3)
+
+Endurance: 6.6 -> 7.0 (+0.4)
+
+Focus: 48.4 -> 50.0 (+1.6)
+
+Perception: 9.6 -> 9.7 (+0.1)
+
+The only skill left to level was Mental Ward, which was still languishing at level one. That wouldn’t last. With Nails investing in Psionics, Rain would soon have the training partner he needed. Nails would start off weak, but with Winter, he would grow stronger quickly, eliminating the need for Ameliah to compromise her build. Rain wasn’t worried about his mind being damaged, let alone read. In the days to come, Nails would be the one with the headache.
+
+As for the rest of what the dialog was showing him, progress was slowing to a halt. He was reaching his limit. He could no longer maintain his stat boosts at twenty past his cap, as had become his custom. It wasn’t just that he’d maxed out the Malleable Ring, though there was that. Tallheart would have gladly made him an upgraded version had he asked. It simply wouldn’t do him any good before silver. For whatever reason, Rain was able to push past his level-defined limit, but only so far.
+
+His soul could take it; it was his body that couldn’t keep up.
+
+At two-fifty stats applied, he felt nothing. At two-seventy, he felt only a slight, familiar warmth, and even then, only if he exerted himself for far too long. At two-ninety, however—achieved by borrowing some of the new stat rings from the armory—the heat was excruciating, searing the inside of his skeleton mercilessly. It was bearable, if only just, but pushing through it was a pointless risk. There was still work to be done without going that far. However, bringing his individual tolerances up to snuff was of secondary importance, so his heart wasn’t really in it. For now, there was one and only one thing that he needed to be concentrating on.
+
+And here I am thinking about it when I should be doing it.
+
+Banishing his interface with a thought, Rain looked at Ameliah beside him, a veneer of frustration marring her beautiful features. Beside her, Tallheart sat placidly, his face, in contrast, a perfect picture of stoic serenity. Rain reached out, gently taking Ameliah’s hand. She stiffened, startled at the contact, then opened her eyes.
+
+“What is it?”
+
+Rain smiled softly, then settled their clasped hands on the dirt between them. Looking forward, he closed his eyes, then exhaled. “You can do it,” he said, no doubt in his voice, for he had none. “Just let yourself go.” He squeezed her hand gently. He could feel the warmth of her skin against his, not blocked by the cold and lifeless metal between. “I won’t let you float away.”
+
+Ameliah snorted, squeezing back. “Cheesy.”
+
+Rain smiled but didn’t let go, and after a moment, Ameliah took a deep breath, then exhaled, matching her breathing to his. As Rain drifted down toward his soul, he focused on the comforting presence of her fingers, interlaced with his.
+
+She would get there. It was only a matter of time.

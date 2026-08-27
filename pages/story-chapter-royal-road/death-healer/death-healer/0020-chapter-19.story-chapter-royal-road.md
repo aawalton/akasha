@@ -1,0 +1,279 @@
+---
+id: 8f7a85ca-0551-5a61-b65c-5926cb148950
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19"
+slug: 0020-chapter-19
+partOf: death-healer
+position: 20
+ownLength: 2859
+unit: words
+publishedAt: 2025-05-20
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2293762/chapter-19"
+royalRoadId: "2293762"
+---
+
+Lily was about to try and heal the rabbit when a soft squeal rippled from the pig, through her Mana Sense, and hit her like a cracked trumpet.
+
+Pain—not on her skin but inside her bones—rolled out from the wounded pig, flooding every sense she owned. It was more than the rip of flesh or the sluggish thump of blood; a second pulse throbbed beneath the pain, thick with something older and softer—​warm straw, milky breath, the weight of tiny bodies pressing for milk.
+
+Piglets, she realised, even before the pictures formed.
+
+The gold-ring sow was bigger now in her mind, lolling in dawn light while a dozen pink shapes wriggled beside her. A low, satisfied rumble had filled that memory-place then, not the ragged groan echoing in the hall now.
+
+The vision broke apart, returned, broke again—scraps of straw, chubby hooves, sunlight caught in dust motes.
+
+“I… can see,” she breathed.
+
+The rabbit beneath her hand shivered. Its shallow hurt seemed feather-light compared to the howl pouring out of the sow. Lily blinked, and the glow around her fingers winked out. Mana snapped back into her core.
+
+Gentiliana’s sharp whisper sliced the haze. “Lily—focus!”
+
+Lily rose instead. Straw clung to her knees; the rabbit hopped aside, forgotten. She stared across the sand at the gold fence, at the great mottled body heaving there.
+
+“What are you doing?” Gentiliana muttered, reaching. “Come—”
+
+Lily moved before the hand closed. A single sidestep—too quick, too clean—left her aunt stumbling at empty air.
+
+Gasps fluttered through the benches. Adriana straightened; Tiberius leaned forward, eyes keen.
+
+Lily set one foot on the bronze rail, vaulted cleanly, landed in the aisle, and without pause sprang again. Her skirt snapped around her calves as she cleared the silver fence, then the last. She dropped into the gold-rank pen, straw puffing beneath her shoes.
+
+The pig’s dull gaze rolled toward this small intruder. Blood soaked its flank, and each breath drew a wet rattle.
+
+“Darling, what are you doing?!” Adriana’s voice shattered the hush.
+
+The blonde woman was about to charge her daughter when she saw Tiberius's hand blocking her.
+
+"Let the child make her decision, Adriana," the Cardinal said, looking at the little girl with a frown. "This is going to be interesting."
+
+Lily circled the sow, which looked back with half-opened eyes.
+
+The sow was about to die but it was known that animals so close to death were the most dangerous. And this was an animal with levels—it could have easily crushed her if it wanted to.
+
+The sow’s massive head twitched toward Lily. One giant foot shoot forward and gouged straw, levering the bulk of its body half an arm’s length closer—just enough to feel the pen boards groan.
+
+Too close. Lily’s instincts jerked her back. She skipped three quick steps—away from a slashing tusk, away from the hot gust of the animal’s breath—then stilled, heart hammering.
+
+For an instant the pig’s eyes rolled white and wild, but the motion spent what little strength remained in it. The sow slumped again with a sodden grunt, flanks shivering.
+
+The danger receded, yet the pull on Lily’s senses only deepened.
+
+She inhaled, let Mana Sense stretch through the wound, past the shredded flesh, until she touched the pulse beneath: thready, frantic, clogged with something thick and wrong.
+
+As with the kitten weeks ago, she felt a film—a dim, greasy veil muffling every nerve of the dying beast. It clung to the sow’s life-force like damp wool, trapping pain, drowning will. Where it pressed hardest, the animal’s memories seeped out: warm straw under dawn light; piglets nuzzling; the soft thrum of contentment. Those good echoes twisted now, trapped in the same fetid blanket smothering the wound.
+
+There, Lily thought, eyes narrowing on the unseen film.
+
+She could not yet name what she sensed—only that it shouldn’t be there.
+
+She drew a slow breath. Mana swelled—no orderly orbs this time, but a cool current gathering behind her ribs. She raised one hand, fingers trembling, then stopped, glancing at the rail. Gentiliana’s face hovered between horror and hope; Adriana stood rigid, lips parted; Tiberius leaned forward, eyes glittering.
+
+Lily set her jaw.
+
+One step carried her back to the sow’s side. The pig’s ear flicked; its struggling heartbeat bumped against hers. She pressed a palm—not to the gaping wound, but to the coarse bristles just above it—and whispered, as she had to the kitten her aunt had asked her practice healing on.
+
+“Here. Let the hurt out first.”
+
+Mana spilled from her skin, not brilliant white but a soft, almost colourless shimmer. It slid along the invisible film—and the film shuddered.
+
+The sow exhaled a long, rattling breath… and Lily felt the first thread of the barrier loosen beneath her touch.
+
+A shrill, razor-thin squeal knifed through the chamber the instant Lily’s Mana slipped under the veil.
+
+The sow convulsed—once, twice—huge muscles firing as if every nerve had been pinched awake. Straw exploded into the air; the oak rails shuddered so violently that iron staples rang against wood. Spectators in the closest benches lurched back.
+
+A fore-trotter struck the post beside Lily’s hip, driving a palm-wide crack up the plank. The beast lurched sideways, hindquarters scrabbling, then hammered its head down in a blind bid to rise. For a breath it seemed the pen itself might splinter.
+
+But the second squeal broke low and ragged—changing in Lily’s perception from knife-edge terror to a quavering bellow of raw, unpinned pain. As the unseen film continued to peel, that shriek lost its frenzy; the sow’s legs folded, bringing the great body back to kneeling. The next cry slid deeper still, into a hoarse moan that emptied itself on the straw like water poured from a cracked jug.
+
+And then, beneath Lily’s hand, the vibration in the flesh eased.
+
+The boar-thick heartbeat that had hammered at her senses slowed from a gallop to an uneven trot, each thud a fraction steadier than the last. Hot breath washed her forearm—no longer a frantic blast, but a heavy, exhausted sigh.
+
+This time, the sow looked at her and she felt something stir in her mind through Mana Sense the moment she crossed the beady, tired eyes of the giant pig.
+
+She heard a sound—distant, and saw something.
+
+But it was distorted.
+
+“I … I can’t see,” she said apologetically to the sow, but the dying pig seemed to beg her to try, to understand its pain.
+
+Lily’s whisper rasped over the sow’s bristles.
+
+She shut her eyes, pushed Mana Sense harder.
+
+Nothing—only watery shadows.
+
+“I can’t see,” she breathed again. Blurred scraps bobbed up and sank: a half-lit doorway, straw drifting in torch-smoke, a boot heel grinding something small and pink—
+
+All flickered out.
+
+Frustration knotted behind her brow. She dragged more Mana forward—far more than she had ever asked her body. A hot screw tightened between her eyes, twisting deeper, deeper, until brightness burst like sparks behind the lids.
+
+“I … can’t … see—”
+
+The pressure spiked; blood slid over her upper lip, pattered on the straw. She didn’t stop like she had with the kitten. Keeping her eyes trained on the sow's, she poured, letting Mana hammer through every channel until her skull rang. She felt dizzy, like she might pass out at any moment, but she also felt something. There was something barely an inch away from her perception, something important.
+
+"…need to…" Lily gurgled, feeling her senses leaving her.
+
+"I need to…"
+
+The sensation felt like it was slipping away from her, as if it was too much, too far, too ethereal.
+
+But then, her mind conjured an image.
+
+Not the kitten.
+
+Not her mother or the trial.
+
+No, she remembered when she had first seen emotions clearly—when Lavinia had come to play and had gotten all angry. Then, Lily remembered the vivid pain in the little girl and the fact that she hadn't been able to heal her friend.
+
+Blood burst from her nose—warm, thick, metallic. It raced over her lip, pattered onto her arm, dotted the straw in vivid scarlet. Every instinct screamed to pull back, but she forced Mana faster, harder, until it felt like molten glass seeping into her skull.
+
+A scream tore from the young girl's mouth.
+
+"I. NEED. TO. SEE!"
+
+pop
+
+A distant bell chimed inside her mind—soft, singular, unbearably clear. The pain slackened, and darkness parted.
+
+Moonlight on rotting boards.
+
+Lily stood at the mouth of a barn. Gray planks leaned under the weight of time. Torchlight fluttered along the walls, mixing with the silver of moon and forming ugly orange puddles on the straw-strewn floor.
+
+Four men eased through the doorway. Their leather greaves creaked while blades clinked against belt loops. Smiles—not warm, but crooked—carved their faces.
+
+“Piglets first,” the tallest said, voice thick with ale.
+
+Tiny squeals answered from a far corner. A litter of pink bodies huddled, trembling behind their mother’s flank. One man yanked a piglet up by its hind leg. It squealed, legs paddling air, while the others snorted in amusement.
+
+“Barely a mouthful.”
+
+“Soft, though. Fry ’em crisp.”
+
+Knives flashed—small silver arcs under the torchlight. One piglet’s squeal cut short. Red sprayed onto straw. Another boot twisted; another tiny shape fell still.
+
+For a heartbeat Lily smelled nothing but iron and milk.
+
+The sow lunged. Her massive head knocked a man off balance, tusks snapping for his thigh, tearing a large wound in it. Anger flared in the men’s eyes.
+
+“Old girl’s feisty.”
+
+"Damn it! Heal me, idiot!" The man snapped at another.
+
+The man complied and another stepped forward toward the sow.
+
+A spear thrust—fast, practiced. Metal cracked hide, tore flesh, and punched deep until the shaft quivered. The sow screamed and then sagged as blood poured from the gash.
+
+“She’ll bleed out,” one said, wiping the spearhead on a rag.
+
+“Too stringy anyhow,” another muttered, nudging a dead piglet with his toe.
+
+The men scooped the limp bodies of the young into a sack, laughter breaking the hush as they left. Torch smoke curled behind them, washing over the sow’s shaking form. The barn door slammed; darkness wrapped the scene.
+
+The vision hovered, then slid into mist. Straw turned to scattered sparks. The bell’s after-ring dwindled into silence.
+
+Lily’s eyes flew open. Lantern-light replaced moonlight, but the barn’s terror clung to her skin. The sow’s pain surged—bright, molten, alive. Yet within that brightness, threads of clarity glimmered.
+
+For three quick heartbeats she was nowhere: not in the pen, not in the barn, but adrift between the two.
+
+"I… can see," Lily breathed. The words drifted like steam into the hush. She met the sow’s fog‑dull eye and sensed a weary pulse beneath the pain—something that felt almost like relief at being understood.
+
+Leaving the creature to die suddenly felt impossible.
+
+"You’re not alone," she whispered, voice thick with blood. "I’ll help you find them."
+
+Clarity came in stuttering slices—bone, muscle, lung, vein—each shard levitating and then suddenly locking into place like broken glass finding its match. When the last piece settled Lily was trembling, but she saw the damage: the split rib gouging lung, the drowning pink tissue, the dark vein pulsing life into the straw.
+
+They were not tubes and formless blood as her aunt had claimed; they were paths—they were arteries.
+
+Words started coming to her.
+
+A deep click sounded inside her—a door swinging wide on unseen hinges.
+
+There. Seal the vein. Lift the rib. Breathe warmth into the lung.
+
+Words—quiet, exact—rose to her tongue.
+
+I can see.
+
+Lily didn't know what had happened after the vision, but she was seeing exactly what was inside the pig, all the wounds, and the organs and the…
+
+“Costal cartilage,” she breathed, touching the broken rib’s jagged edge in her mind. “Intercostal artery… pleural tear… progressing haemothorax.”
+
+She saw how the pleura peeled away from the lung; how pooled blood pressed the diaphragm northward; how a pocket of air—pneumothorax, the word clicked—threatened to collapse what little breath remained.
+
+“Pericardium intact,” she muttered, relief accompanying the phrase even though she had no conscious notion of what she was saying. “No cardiac breach.”
+
+Yet the vena cava oozed and the latissimus fibres were frayed, splintered with rib fragments.
+
+"Lily! What are you doing?! It's dangerous!" Adriana shouted.
+
+But Lily just craned her head.
+
+She had seen cruelty—which she would remedy to later. For now, instead, she was going to make sure to save this creature… this new friend.
+
+That awareness formed like the voice of a young woman who spoke into her ear. She didn't know who it was, but she definitely knew what to do.
+
+Stop the bleeding, first.
+
+And that’s where the healing process started.
+
+Angiogenesis – the formation of new blood vessels from the existing ones to transport nutrients and oxygen to the wound site – was the most important part, together with the actual formation of new tissue. It was a delicate balance – too much could lead to unnecessary scar tissue, but too little would delay the healing process.
+
+Lily closed her eyes, visualizing as much of the whole process at once as she could. She inhaled deeply and reached for all the Mana within herself since the pig was pretty big.
+
+In one moment, she felt a surge of energy coursing through her entire body, shaking her little frame and bursting out of her palms in a massive shockwave.
+
+Seal the intercostal cut; draw fluid from the pleural space; knit fascia over the rent muscle; realign the rib and brace it with light.
+
+Straw whirled up like tiny golden moths, spinning around girl and beast. The pale light that poured from Lily’s hands split into threads finer than spider‑silk; each sought an artery. One line wrapped the severed intercostal artery, binding it shut. More seeped across torn pleural arteries.
+
+The sow shuddered. A groan climbed her throat—first ragged, then rounder, stronger. Her chest rose; this time the lung held. Dark blood slowed to a trickle, then stopped.
+
+Around the gold pen benches creaked as nobles leaned forward. Gentiliana’s lips moved in breathless prayer. Adriana stood frozen, hands clasped against her collarbone. Tiberius narrowed his eyes, every line of his face set like carved stone.
+
+"Theoretically, that's not fully-healed," the Cardinal said.
+
+Everyone stared, stunned. The cardinal’s words died in his throat.
+
+Lily heard none of it. She leaned closer, palm steady on warm bristle, and let a narrow stream of mana sink into the shattered rib. A soft net formed, then stiffened. Somewhere inside the sow a faint click sounded—bone ends meeting, holding.
+
+“Dawn's Mercy,” Gentiliana breathed. A ripple of awe moved through the benches.
+
+Dizziness clawed at the edge of Lily’s vision. The torn muscle appeared in her mind thanks to Mana Sense. She guided the fibres together. One by one the strands caught, slid home, and drew tight. The sow twitched—half pain, half surprise—then let out a long, rumbling breath as the gap sealed shut.
+
+Blood tickled Lily’s upper lip again. Adriana’s voice floated across the rail—half plea, half prayer.
+
+“Easy, darling… steady.”
+
+But even Adriana was just in complete awe of the titanic feat Lily was about to accomplish.
+
+But no one was in as much awe as Gentiliana, who truly understood what was happening.
+
+She doesn't have nearly enough Mana to do what she's doing, Gentiliana thought. This is not talent. She is not just talented like her mother… she knows.
+
+What, exactly, Lily knew, was a mystery to Gentiliana. However, something must have clicked in Lily's mind for her to heal a creature at Level 20. She had to have figure out something about the body that perhaps only her father knew.
+
+Did Lucianus talk to her? No, he's away. He hasn't come back. Then…
+
+How? How did Lily know?
+
+Lily turned to the skin. With two fingers she traced the torn edge. A thin wash of light followed her touch, knitting a fresh layer as smooth as new parchment. She went over it once more, sealing the gap until no air, dirt, or straw could slip inside.
+
+She swayed. A strong arm—Gentiliana’s, who had come into the gold-ranked pen—steadied her, but Lily wasn’t done. One last pass: she pictured tiny red shoots sprouting beneath the new skin—capillaries—carrying blood and breath. The inside of the wound flushed rose‑pink.
+
+The sow’s ear twitched. She drew a full breath—no rasp, no hitch—and let it out in a deep, contented grunt. Then, slow and sure, she pushed to her feet. Straw rustled under a pain‑free step.
+
+Gasps turned to cheers. Servants, nobles, even stern tutors rose to their toes for a better look. Gentiliana gathered Lily close, tears bright on her cheeks. Adriana sank to one knee, hands over her heart, overcome.
+
+Only Cardinal Tiberius remained still, lips pressed thin as he studied the child in her aunt’s arms.
+
+Lily wiped the drying blood from her chin, exhausted but certain.
+
+“She’s safe now,” she whispered. “The wounds are all healed.”
+
+Gentiliana quickly checked with her own Skills and, stunned, nodded toward the crowd.
+
+The chamber held that sentence, then let it bloom into applause so fierce the rafters shook with the sound of people remembering how to breathe.

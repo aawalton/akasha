@@ -1,0 +1,125 @@
+---
+id: 8476086c-0502-5ca3-b1b7-49d583dee98e
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 4"
+slug: 0161-b3-chapter-4
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 161
+ownLength: 1510
+unit: words
+ownProgress: 1510
+publishedAt: 2024-05-22
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1646673/b3-chapter-4"
+royalRoadId: "1646673"
+markedReadAt: "2026-06-29T19:11:11.757Z"
+---
+
+The Emperor’s Palace inside of the Grand Hall
+
+Emperor Hao Xing Shengshi maintains an inscrutable face as he stands on the raised dais of the Grand Hall looking out over the various gathered officials of the Inner Court. And right in the middle of those officials are both of his sons, the two of which are glaring daggers at each other.
+
+But the emperor doesn’t do anything to stop them. He merely makes sure a civil war doesn’t start out over their fight for the throne, as is tradition.
+
+He will let them be children for as long as it takes, even if that’s hundreds of years.
+
+“Elder Brother Lei, it is wonderful seeing you taking command of the trade with the arverians, but don’t you think more focus could’ve been put on the Black Claw?” the Emperor’s youngest son, Mo Xao Shengshi, speaks, the man wearing robes fit for one of the princes of the nation as he faces his brother.
+
+Meanwhile his brother simply responds with a simple, “Oh, but Younger Brother Mo, we’ve already gotten the Black Claw handled. More than the Vermillion House, I might add.” The man clearly putting extra emphasis on the fact that he’s the elder sibling.
+
+By now the emperor is used to seeing all of this go down. What he’s not used to though, and what piques his interest, is the sight of the odd teenage girl standing in the second floor of the palace looking down at the ongoing events. A girl that, if his intel is correct, isn’t actually the age she appears to be due to some sort of poison that’s slowly fading.
+
+Death, I believe? Unsettling to see such a feared being in that form.
+
+It’s been a few days since she first arrived, and she – from what he’s been told by the guards assigned to watch her – hasn’t gone out much beyond the first day, when she toured the Inner Court.
+
+When he was first contacted by the Eternal Dynasty to let her through, he was going to decline it without even considering the offer. But when he remembered her supposed immortality, he realized the opportunity that she would bring to them.
+
+Even then though, he wasn’t going to trust her right away. Because for all he knows, she may very well have a teleportation item on her that she can send their royal treasures through even if she managed to enter their vault.
+
+It’s not likely that the treasure could pass through all of the enchantments they have placed across the palace, but it’s possible still.
+
+The two princes continue their political dance, with the occasional chiming in of an official from one of the two sides as the emperor focuses his thoughts on their Horseman visitor.
+
+Of course, when he had her stay in the Inner Court, he did have an ulterior motive.
+
+To challenge his two sons to see if one of them could bring her to their side in the succession. Because having a Horseman of the Apocalypse, even a new one, would be a major boon to the silent succession war.
+
+But to his surprise, the woman appears to have avoided all their attempts to even find her, much less get her to join their side. Almost as if she’s somehow able to sense where they are and then avoid them.
+
+Even when they so much as begin heading towards her small palace guest quarters that were set aside for her and her friend, she somehow slips out of her palace with a guard in a casual manner. Not showing any signs of having noticed them but still managing to avoid them.
+
+It’s impressed the emperor more than he can put into words. And he hasn’t even met the woman himself yet.
+
+What’s impressed him even more though is her adherence to their culture. Since he was expecting at least a few slipups from one so young as her in terms of their clashing cultures and morality. A problem many visitors tend to have.
+
+One of the reasons their world gets next to no tourists when the Gates are open to the public.
+
+In addition to her avoiding them though, his guards have also realized that the longer she stays in the Inner Court, the more upset she appears. Clearly showing just how much she feels she needs to pass on to the next world.
+
+The emperor’s eyes suddenly meet the Horseman’s as she turns to look at him. Then he slowly nods his head and looks down towards his sons again.
+
+At first he was going to keep her for a few more days before showing himself and bringing her to the vault. But at this point, he doesn’t believe she’s up to anything.
+
+If anything, she just wants to leave. And even his intension seekers confirm that she has no harmful intentions towards the dynasty.
+
+That combined with her skillful avoidance of both his sons leads him to believe that greeting her tomorrow and bringing her to the vault then would be the best course of action. Since keeping her longer than necessary would only breed ill will between them.
+
+It’s unfortunate she won’t be added as a piece for either of their sides of the succession. But keeping good will with a Horseman is more important.
+
+It doesn’t hurt that she’s also an undeclared ally of the Eternal Dynasty.
+
+And so, with the decision made, he finally returns his full focus to his sons verbally sparring in front of him.
+
+Aria
+
+By the morning of the fourth day my patience begins to grow too stretched for me to bear. To the point that I’m rapidly pacing back and forth in my room within the house – which they apparently call a guest palace – while burning a metaphorical hole in my path.
+
+I’ve managed to avoid both of the princes simply through using my Lesser Death Spirits as scouts after tossing a bunch of them inert across the Inner Court in locations that no guard would ever look. Like underwater for example.
+
+No one typically notices a cloaked body hiding at the bottom of a narrow yet deep river after all. Especially when said body doesn’t move a muscle. If it even has muscles.
+
+Not sure if the Lesser Death Spirits actually have muscles or not to be honest.
+
+I knew they’d keep us here for a while, but I still wasn’t mentally prepared for staying entire days here. Because I know I’m on the clock.
+
+Rogers could die any day now, even if Hannah said he probably still has a year or two to live. Probably is only probably though. So I need to get there as soon as possible.
+
+And even then, just one or two years… that’s like the blink of an…
+
+I blink as what I was just about to think registers in my mind.
+
+Even as a passing thought that was most likely an over exaggeration, that was… no, best not to think about it.
+
+I eventually stop my pacing by a window looking out over the courtyard of this ‘palace’ while glancing at the guards station at its edge. But after seeing them standing just as still as always, I turn back and walk to my canopy bed before lying down flat on my face with my arms spread out on either side of me.
+
+Uuugggghhhh, please just let me go soon…
+
+Honestly don’t think I can take all that much more of this. I might end up just charging on out and finding the emperor myself if it drags on much longer.
+
+All I’ve been left doing over these days is trying to drown myself out in messing with my soul fire. Not something I’ve really put as much time into as the soul energy in general. Simply because I mostly just killed things with weapons and explosives.
+
+Mainly explosives.
+
+Because boom.
+
+What I’ve learned about soul fire though isn’t all that much. There’s only one interesting tidbit about it.
+
+And that’s the fact that soul fire can burn enchantments if I direct it to.
+
+Learned that when I accidentally burnt an enchantment on the palace. Which the people here fortunately never realized.
+
+No idea what the enchantment was supposed to do though. Just know that Hannah said it was an enchantment. And that I probably shouldn’t do it again.
+
+They’d likely be mad if I did, and they caught me.
+
+Best to wait until after we leave the world for them to figure it out.
+
+I instantly push myself up a little before glancing to the side when I get the report of a group of people approaching from the palace. A group including the emperor according to the signal sent by the Death Spirit that spotted them.
+
+So I quickly jump off of the bed and begin heading towards the entrance of the palace.
+
+Looks like my wish came true after all.
+
+Time to meet the emperor at last.
+
+I just hope the princes aren’t with him.

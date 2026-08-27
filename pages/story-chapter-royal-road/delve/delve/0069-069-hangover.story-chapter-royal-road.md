@@ -1,0 +1,609 @@
+---
+id: 94183a4c-52be-5364-98ad-14034d7c8660
+page-type-slug: story-chapter-royal-road
+title: "069: Hangover"
+slug: 0069-069-hangover
+partOf: delve
+position: 69
+ownLength: 5447
+unit: words
+publishedAt: 2019-12-29
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/439467/069-hangover"
+royalRoadId: "439467"
+---
+
+“Hnurrrrrg…”
+
+Rain groaned as he drifted back to consciousness. There was no single word to adequately describe the magnitude of his discomfort. He felt brittle like glass and inflated like a balloon. His muscles clenched painfully at the slightest attempted movement, and his stomach was squirming as if it was attempting to climb up his esophagus and out his mouth. He somehow didn’t have a headache despite everything, but his eyes kept slipping in and out of focus as he tried to look around the room.
+
+He was lying in his bed of leaves in Tallheart’s hut, sunlight streaming in through the door. He panicked as he realized that he wasn’t wearing his armor. Tallheart’s shadow appeared as the man moved into the doorway, blocking the light. Rain relaxed. If Tallheart was here, he was fine.
+
+“Rain,” Tallheart rumbled.
+
+“Owwwwwwww….” Rain said.
+
+“What is the ring set to?”
+
+Rain blinked, “Wha?” He held up his hand jerkily, his eyes gliding over the ring before snapping back to it. “Oh.” His fingers felt like overstuffed sausages, though they looked normal. He pulled up the controls. “Sixty.”
+
+“Sixty what?” Tallheart asked.
+
+“Recovery.”
+
+“Mmm,” Tallheart said. “I am glad I decided not to remove it then. Bring that down to twenty, and add ten points each to Vigor, Strength, Focus, and Endurance. Do not put anything in Clarity.”
+
+Rain obeyed. Immediately, he felt better. The feeling of pressure faded and the other symptoms were likewise lessened. Now he only felt mentally drained and thrashed from head to toe, as if he’d spent a whole day doing crossfit while trying to derive a proof for special relativity in his head. Believe it or not, it was an improvement.
+
+“Better?” Tallheart asked.
+
+Rain nodded weakly.
+
+“Leave it there. The only cure for this is time,” Tallheart said, turning to walk away.
+
+“Wait,” Rain coughed. “Ameliah?”
+
+“Gone,” Tallheart said. “How much do you remember?”
+
+Rain’s face fell. He hadn’t even gotten a chance to say goodbye properly. He thought back. “Right up until I passed out by the fire. I…almost wish I didn’t.”
+
+Tallheart nodded. “Good. Rest now. Do not strain yourself further.” He moved away, the dawn light filling the hut once more.
+
+Rain let his head fall back with a groan. He was about to open his menus but stopped himself. If he did that, he’d be tempted to try and find a way to get the system to display his adaptation level to the ring. Messing with the system struck him as a bad idea, given his current state. It was time to try something new.
+
+He would try doing nothing.
+
+“Hnurrrrrg…”
+
+“Oh, good, you’re awake.”
+
+Jamus blinked, squinting to block out the blinding candlelight. “Meloni? What? How did you get in here?” He pressed a hand to his head in an attempt to quiet the throbbing pain.
+
+Meloni set her candle on his bedside table. “Bek let me in. He said you were tossing and turning all night.”
+
+Jamus sighed. “That man.”
+
+Meloni laughed. “He thinks we should get together.”
+
+“I hired him to watch my house, not play matchmaker,” Jamus grumbled. He looked at his next-door neighbor blearily. Meloni was a little older than he was by his estimate. He knew better than to ask her exact age. Her long graying hair was brushed straight and her face was creased with the shadows of lines. Jamus thought that only made her look even kinder when she smiled. She was smiling now.
+
+“Is he wrong?” she asked.
+
+“No,” Jamus said, lying back with a sigh. He and Meloni had become friends a while ago, kindred spirits, as it were. He’d tried to keep himself at a distance, though. He was an adventurer; she worked in the city. He didn’t feel like it would be fair to start a relationship with her if he was always going to be away. However, he was old enough to know that what the heart wanted had nothing to do with what was fair.
+
+Meloni smiled at him. “About time you admitted it. I don’t know how much more obvious I could have made it for you. We’re not teenagers. I’m much too old to waste time beating around the bush. I like you, you like me. Simple. We’re together now.”
+
+Jamus groaned. His head was killing him. He’d wanted to have this conversation with her later, once he was feeling better.
+
+“Bad?” Meloni asked. He nodded against his pillow, squeezing his eyes shut. Meloni laid her hand on his shoulder. “Here, I’ve got something that may help. Sit up and drink this.”
+
+Jamus opened one eye, seeing the small vial that she was holding out to him. He sat up, both eyes open now, his headache momentarily forgotten. “You figured it out?”
+
+“I think so,” Meloni said. “Bop said it wouldn’t kill anyone who drinks it, at least.”
+
+Jamus snorted, then winced. He took the vial, uncorking it and gulping down the contents without even bothering to sniff it. He shuddered. “Horrid.”
+
+Meloni laughed. “I never claimed it would taste good. Well?”
+
+Jamus summoned his book and turned the page. His eyebrows rose in surprise. “You actually did it…” he said, marveling at what he saw written there.
+
+Chemical Effect – Beginner’s Clarity Tonic
+
++5 Clarity, 42 minutes
+
+He could already feel his headache starting to fade. With as low as his Clarity was, even a little boost made a big difference. He looked up at Meloni. “And you made this yourself? It wasn’t Reason?”
+
+Meloni nodded, grinning from ear to ear. “Yes!” she said, elated at her success.
+
+“I didn’t think it was possible,” Jamus said, staring down at the vial.
+
+“Bop says chemistry isn’t magic. Anyone can do it if they follow the recipe closely enough, even an unawakened like me. He just cheats.”
+
+“And still you call him Bop? After he taught you to make this?”
+
+Meloni laughed. “Yes, I do. He’s far too melodramatic. Both of them. Always going around in those outfits and insisting that people call them Myth and Reason. I’m calling them Bip and Bop until they tell me their real names.”
+
+Jamus laughed. “You’re going to make them regret hiring you.”
+
+“Nonsense,” Meloni said. “Those two have no idea how to run a business. They need me.”
+
+“True enough,” Jamus said. His headache had faded to the background, but he knew it would worsen rapidly the moment he started using mana again. I should just give in and make my ratio a little less aggressive. I think Rain is a bad influence on me. I got used to that aura of his, and now I’m paying for it.
+
+Meloni picked up her candle. “Come on, let’s go have breakfast. I brought the puppy over. He’ll be happy to see you.”
+
+“Just let me get dressed,” Jamus said. “Then he can get as much fur on my robe as he likes.”
+
+Meloni smiled at him. “Oh, don’t bother. I don’t care if you’re in your underwear.”
+
+Jamus chuckled. “This has got to be the most casual start to a relationship that I’ve ever had. Fine, I suppose I’m decent enough.” He threw off his blanket, swinging his feet over the side of the bed and standing up. He was wearing a long white night robe that fell to his ankles. “Lead the way, home invader. I suppose I need to get you a key, now.”
+
+“Yes, you do,” Meloni said, smiling at him. “Not like it matters. Bek always lets me in anyway.”
+
+Jamus laughed. “The man is going to be insufferable now.” He followed her down the stairs, then was forced to stop and fend off an attack by a flying ball of fur heralded by a bark of excitement. “Hey, get down. Cut that out.”
+
+The puppy ignored him, jumping up and down trying to get to his face. Its long white fur was all puffed-up, making it look like a cloud that had fallen out of the sky and was trying frantically to get airborne once more. Fortunately for Jamus’s headache, it only barked once upon seeing him. It was a proper bark, not the horrible yipping sound that smaller dogs tended to make. This particular dog was not going to be small. It was a mix between a Saint Bernard and something else. Probably a dandelion. Meloni had found it in an alley a few days before Jamus had returned to the city.
+
+“Have you thought of a name for him yet?” Jamus asked, waiting for the dog to tire itself out so he could pet it without having to catch it first. There was no sign of Bek.
+
+Meloni shook her head. “No. I wanted to call him ‘Cloud’, but it’s a little on the nose. I had the idea of using the word in Zeelada instead. It’s ‘Sarilla’, but that sounds more like a girl’s name. Plus, enough people speak it that they might recognize it. I want to be a bit more original than that.”
+
+“How about another language?” Jamus asked. “Something really obscure. Didn’t you say you were learning Vejik? What’s the word for ‘cloud’?”
+
+“It’s Vuu-gus’taak,” Meloni said with a shrug. “So that’s a hard no.”
+
+Jamus laughed. “I can’t believe you can even pronounce that.”
+
+Meloni smiled. “I’m working on it. I need something to do while the store isn’t busy, which is most of the time. Plus, I want to understand what Bip and Bop are always going on about behind my back.”
+
+“Humm,” Jamus said. “How about a dead language? I could ask Staavo if he has any old…oh. I just had an idea.”
+
+“Think of a good name?” Meloni asked. She snagged the puppy out of midair, stumbling as she pulled it into her arms. “Ooph. He’s heavier than he looks.”
+
+Jamus smiled and shook his head. “No, not a name. I know someone that I can ask. He speaks a language that…well, let’s just say I guarantee that you haven’t heard of it. It sounds pretty good, too. Maybe not as fluid as Zeelada, but it’s more melodic than common.”
+
+“What language? Where’s it from?”
+
+“I…don’t think I’m allowed to tell you,” Jamus said.
+
+Meloni raised an eyebrow. “Why not?”
+
+Jamus shrugged. “I promised not to.”
+
+“Is it a secret language or something? Some sort of code?”
+
+Jamus shook his head. “Nothing like that. My friend just doesn’t want his origin to become common knowledge.”
+
+Meloni laughed. “You’re not doing a good job of deflecting my curiosity. Now I really want to know. A mysterious stranger from a distant land, huh? Somewhere so far away that I won’t have even heard of the language before?” Her eyes flashed. “He’s from across the Gloomsea, isn’t he?”
+
+“No…” Jamus said. “At least, I don’t think so…” He shook his head. “Please, just...don’t ask. He might tell you himself once you meet him, but I don’t want to reveal his secrets without his consent. I might have already said too much.”
+
+“Fair enough,” Meloni said. She pushed the dog into his arms. “Hold this. I’m going to make breakfast.”
+
+Jamus struggled not to drop the fluffy bundle as it squirmed, trying to lick at his face. He laughed. “You’re right. He is heavier than he looks. There’s an awful lot of dog underneath all that fluff. How big is he going to get, do you think?”
+
+Meloni shrugged. “No idea. I might need to get a bigger house.”
+
+Rain sighed. It turned out that doing nothing was incredibly boring. He wished he’d borrowed something to read from Staavo’s library. Though he still felt dead tired, he couldn’t get back to sleep. A nice paperback novel would have been perfect for this situation, but he had nothing. It was worse than being trapped in a bathroom without a smartphone. He couldn’t even resort to reading the ingredients off the back of a shampoo bottle. Speaking of the bathroom, he had to go. Eating spicy food had consequences, and he wasn’t sure if using Purify was a good idea at the moment.
+
+The leaves crackled as he eased himself up into a sitting position. He didn’t feel as weak as he had after the incident in the lair, but the soreness, pain, and general discomfort that came with his current condition made it at least as bad. His vision was still a bit off, the room twisting as he moved, then snapping back into focus. He opened up his menus to check just what he’d managed to do to himself the day before, mostly as a way to give himself time to get used to being vertical.
+
+Training Overview
+
+General Experience Earned
+
+Health Use: 54
+
+Stamina Use: 520
+
+Mana Use: 8282
+
+Skill Experience Earned
+
+Mana Manipulation: 40
+
+Aura Compression: 2118 [Rank Up]
+
+Well then. That’s quite a bit of stamina. No wonder I feel like this. I shouldn’t have asked Ameliah to top me up. Health too, I don’t remember being that hurt, but there it is…
+
+He shook his head, immediately regretting it as the room spun. Once that stopped, he took a quick look at the rest of his status.
+
+Attributes
+
+Richmond Rain Stroudwater
+
+Level 18
+
+Experience: 21659/22750
+
+Dynamo
+
+Health
+
+400
+
+Stamina
+
+400
+
+Mana
+
+5700
+
+Strength
+
+20[10]
+
+Recovery
+
+30[10]
+
+Endurance
+
+20[10]
+
+Vigor
+
+20[10]
+
+Focus
+
+20[10]
+
+Clarity
+
+200
+
+Free Points
+
+0
+
+Statistics
+
+Total
+
+Base
+
+Modifier
+
+Health
+
+400
+
+400
+
+0
+
+100%
+
+H.Regen
+
+300/day
+
+300/day
+
+0/day
+
+100%
+
+Stamina
+
+400
+
+400
+
+0
+
+100%
+
+S.Regen
+
+200/day
+
+200/day
+
+0/day
+
+100%
+
+Mana
+
+5700
+
+5700
+
+0
+
+100%
+
+M.Regen
+
+0.212/s
+
+0.212/s
+
+0/s
+
+100.0%
+
+Movement Speed
+
+10
+
+Perception
+
+20
+
+Resistances
+
+Heat
+
+Cold
+
+Light
+
+Dark
+
+2
+
+0%
+
+2
+
+0%
+
+2
+
+0%
+
+2
+
+0%
+
+Force
+
+Arcane
+
+Mental
+
+Chemical
+
+2
+
+0%
+
+2
+
+0%
+
+2
+
+0%
+
+2
+
+0%
+
+Aura Compression (2/10) Exp: 1318/1600
+
+Compress aura output, reducing range to boost intensity
+
+Increase intensity by 0.4% per meter of compression
+
+Mana Manipulation (6/10) Exp: 565/3200
+
+Allows internal control of mana
+
+Allows expulsion of mana to environment
+
+Allows transfer of mana to and from capacitive items with direct contact
+
+Maximum transfer rate 840.0 mp/s (fcs)
+
+Compression goes up by 0.2% per level like I thought, so that’s good. The experience ratio can’t be that bad, either. It made some good progress from all the Velocity used. I’ll try leveling it a bit more later, but only if I feel better. I need to ask Tallheart if it’s safe to use skills when I’m like this.
+
+He slowly worked himself up the wall until he was standing. He took a minute to make sure that he wasn’t going to topple over the moment he let go. Once he was satisfied that he was stable, he carefully moved out into the clearing.
+
+The place was a mess. There were piles of dirt everywhere and there was a massive hole surrounding the shack on three sides, coming right up to the walls. Tallheart had been busy. The hole was about three meters deep, but only half the width he’d marked out. The shack would have to be taken down to finish it. Tallheart was standing near his crucible, staring at it in contemplation. The fire wasn’t lit beneath it.
+
+Rain worked his way over toward him, finally making it to one of the logs that they’d been using for seating. He eased himself down onto it, hissing in pain. Tallheart shook his head and turned away from the crucible, walking over to join Rain. The antlered man nodded to him as he sat.
+
+“What are you working on, Tallheart?” Rain asked. “I see you made some progress on the basement.”
+
+Tallheart grunted. “I am thinking.”
+
+“About?”
+
+“Did you know that there is metal everywhere?”
+
+Rain blinked. “Yes. I knew that conceptually, but I can actually feel it now that Detection is stronger. There’s little bits and flakes of it all through the earth. It shows up as a haze like when I look for air, but not nearly as overwhelming. All the signals blend together. You could probably separate it out with your crucible. Is that what you were thinking about? Any reason it wouldn’t work?”
+
+“It would work,” Tallheart said. “I am trying to decide if it is worth the effort. There is also the issue of the smoke.”
+
+Rain nodded. There had been a gigantic plume of smoke and ash that poured out of the last crucible when it was working. Tallheart had made this one from iron and he said that it would work at even higher temperatures. Rain assumed that would only worsen the problem. People might notice a gigantic plume of black soot rising from the forest.
+
+He considered the problem. “Well, the smoke I could deal with. I can just use Purify while you’re working. That should take care of it easily enough. In fact, I’d like to use it right now. I kinda have to go to the bathroom and I don’t want to break my streak. One month without pooping has got to be some kind of a record. I wanted to ask if it was safe to use skills first, though. I don’t even have Winter on right now.”
+
+“It is safe,” Tallheart said. “It may hurt though. I am no expert on magic.”
+
+“Okay, here goes,” Rain said, activating the spell at a low intensity. There was no feedback, so he kept going. He slowly increased the power that he was feeding into it, stopping not because he felt pain, but because his intestinal distress had been taken care of. The fuzzy taste in his mouth was gone as well. Also, he might have been imagining it, but he thought his muscles felt a bit better too. His stomach had unclenched at any rate. Best spell ever. He smiled tiredly. “No pain.”
+
+“Good,” Tallheart said. “You are recovering.”
+
+Rain concentrated, activating Winter using his normal combination of modifiers and pulling open his statistics.
+
+Mana
+
+5700
+
+5700
+
+0
+
+100%
+
+M.Regen
+
+1.69/s
+
+0.212/s
+
+-0.05/s
+
+820.0%
+
+Feeling no ill-effects from the boost to his mana regeneration, he used Compression, cramming Winter down into a singularity and watching as his regen rose.
+
+Mana
+
+5700
+
+5700
+
+0
+
+100%
+
+M.Regen
+
+1.91/s
+
+0.212/s
+
+-0.05/s
+
+923.7%
+
+Again he felt no pain. Well, no new pain at any rate. Since he wasn’t boosting his Clarity with the ring, he felt that leaving it like this should be safe. In fact, the soothing feeling of Winter seemed to be helping. I love this spell. Second-best spell ever.
+
+Tallheart was looking at him, a serious expression on his face. “I am sorry, Rain.”
+
+Rain tilted his head. “What for?”
+
+“The ring. It is dangerous.”
+
+Rain laughed, then winced as his side spasmed. “Don’t worry about it, Tallheart. This is my own damn fault.”
+
+Tallheart sighed but didn’t comment further.
+
+Rain stretched out his legs, rubbing at them in an attempt to work out the soreness. “Well, we could try Purify on the crucible I guess. I’m not sure it’s a great idea at the moment, though. It didn’t hurt the first time, but that doesn’t mean I’m good to go as far as magic is concerned. I want to take it easy for a bit. Maybe later.”
+
+Tallheart nodded. “Yes, later. I have been digging all morning. I am not tired, but it is boring. I would like to do something else.”
+
+“How about a game?” Rain said. “Know any good ones?”
+
+Tallheart tilted his head. “Some. What did you have in mind?”
+
+“Gods!” Staavo swore, pushing himself back from the table. He stared at his hand, his fingers still tingling.
+
+Rain was right. It works…
+
+He recovered quickly, sliding forward in his seat to peer at the apparatus sitting before him. It had taken him ages to wrap the wire in fabric, then wind it into a coil as Rain had described. He’d also needed to track down a large chunk of magnetite and find a carpenter to mount it on an axle within the frame. It had been quite annoying wrapping the wire tightly enough around the frame. The cloth kept slipping off, which Rain had said was a bad thing. The coil of wire needed to be wound without touching itself if it was to work.
+
+“I need to find a damn chemist to coat it next time,” Staavo muttered to himself. He had no interest in wrapping any more wire. Hesitantly, he reached out to touch the two exposed ends of the wire. The electricity, the force that Rain had claimed was responsible for lightning, didn’t strike him again. He turned the crank slowly, stopping as he felt a tingle in the fingers touching the wire.
+
+“Amazing…”
+
+The charge was tiny. His initial alarm hadn’t been from pain; he’d been struck by mage-lightning many times before, orders of magnitude stronger than the tiny spark generated by the experiment. No, it had been surprise that had made him pull back. Even after spending two full days building it, he still hadn’t actually expected it to work. Not really. He’d been looking forward to showing Rain the completed machine. He was retired; he had plenty of time to waste on proving people wrong. Except I’m the one who was wrong…
+
+He started turning the crank again, feeling the electricity flowing through his fingers. The tingle grew as he increased the speed. This power was truly something different from mana if it could flow through metal like this. Had he tried to do the same with runecraft, the metal would have absorbed the mana the moment it left the guiding channels of the runes. Rain had said it was possible to send this power for hundreds of leagues, only by attaching additional wires. Well, perhaps not as simply as that. Rain had started muttering about transformers and resistance and other things that he hadn’t bothered paying attention to at the time. Either way, it was impossible to do something like that with mana for anyone short of the Majistraal. This electricity was amazing.
+
+He stopped turning the crank and stood up, walking around to the other side of the table. He brushed aside a paper glider…airplane…and looked at the diagram that Rain had left him. He spoke to himself, a habit that he’d developed after spending far too much time alone in his tower. “Humm. If the generator works, then perhaps the next part will work as well…Now, where did I put that wire…”
+
+He searched through the detritus covering the table, eventually coming up with a spool of ultra-fine brass wire that he’d purchased from a jeweler. In contrast to the thick wires that he’d used to make the generator, this stuff was hair-thin. It wasn’t as thin as the filament that Rain had described, but it was the best he could do. Rain had also said that it should be made from a rare metal called wolfram, but none of the smiths he had talked to had heard of it, either by that name or the other one. Whatever the metal is, at least the second name he gave for it is memorable. I can’t even remember the first one. Tonsomething. Tonston?
+
+He returned to his seat, then strung a tiny piece of the brass wire around the gap between the two larger wires hanging off the generator. He started turning the crank again, watching the wire carefully. Nothing happened. He started cranking faster. His eyes widened. With a wave of his hand, he sent a shard of ice across the room. The spell struck his oil lamp, the ice reverting to unformed mana as it sank into the brass with a flash of blue light. The cold was enough to extinguish the flame despite the fact that the spell had unraveled as it was drawn into the metal. The fireplace was the only remaining source of light, the coals barely glowing. He’d forgotten to add wood again, but he was now happy for his inattention. He could have extinguished it with a larger ice spell, but he didn’t want to destroy his living room.
+
+He started turning the crank faster still, peering at the wire in the dim light.
+
+“By the depths,” he said, trying to keep the speed steady. The wire was glowing. He turned the crank as fast as he could. The light went out as the wire melted, breaking the circuit. He sat back in the darkness, running his hand through his hair.
+
+“I need to find myself a damn glassworks. And some wolfram, whatever the depths that is. And a chemist.” He cackled to himself. “People are going to lose their shit when they see this. Well, anyone smart enough to figure out what it means, anyway. I need to find Jamus too.” He grinned. “He knows where Rain is hiding. I’ve got some more questions.”
+
+Tallheart frowned as Rain moved his mage. The move had put him in a difficult situation. He examined the board, considering his position. Rain waited patiently. He had learned the game quickly, devouring the rules and strategy. He’d made many mistakes at first. Now, they were becoming rarer and rarer. However…
+
+Tallheart reached out, moving his warrior to intercept the attack on his monarch. His warrior would be defeated by Rain’s mage on the next turn, but that would lead to a series of moves that would culminate in the decimation of Rain’s forces. If he saw it coming and backed down, he’d have a chance of winning, but if he didn’t notice…
+
+Rain laughed. “I’ve got you now, Tallheart.” He moved his mage, killing Tallheart’s warrior and placing his monarch under threat once more. Tallheart kept his face still, moving his monarch out of the way, inviting Rain to follow up with an attack from his jack. Rain grinned and made the predicted move.
+
+Now, Tallheart did smile, swapping one of his workers for his mage. He then used the worker to take the jack. From its new position, the mage simultaneously threatened both Rain’s defender and his monarch. Rain would have no choice but to move his monarch, sacrificing the other piece. Worse still, once Tallheart took the defender, Rain would be in the same situation again, forced to choose between his monarch and a full line of his workers.
+
+Rain stared at the board. Tallheart waited.
+
+“God damn it,” Rain said. “I surrender.”
+
+Tallheart rumbled happily. “You need to think ahead, Rain.”
+
+Rain sighed. “Yeah, yeah, I know. This game really is a lot like chess. I’m just not used to the fact that you can swap around the workers like that.”
+
+“It makes sense,” Tallheart said. “Behind every warrior is—”
+
+“Hello!” a voice called from the edge of the clearing. Tallheart looked up to see the offensively orange form of Jamus moving toward them.
+
+Rain waved. “Oh, hi Jamus.”
+
+Wordlessly, Tallheart started resetting the board, placing the metal pieces in their starting hexes. Perhaps ‘board’ was a bit of an ill description. The play area was sketched into the dirt. He’d forged the pieces out of pure lead left over from the slime crown, but there wasn’t enough to make the board as well. Rain had been alarmed at this, saying that lead was toxic. He’d calmed down once Tallheart had pointed out that Purify was intended for dealing with poisons, no matter that he never used it for that. As good as Rain’s memory was, he still forgot the simplest things from time to time.
+
+Tallheart hoped that Jamus would stay long enough to play a game or two. He’d never had the opportunity to play the man at Ranks, but from the mage’s boasts, he was a good player. He would hopefully be a more challenging opponent than Rain was. At least for the moment. At the rate he is learning… He shook his antlered head.
+
+“Hello, Tallheart,” Jamus said as he got closer. “Rain, what the hells happened to you? You look like shit. At least you shaved, but by the gods, your eyes. Did you stay up all night? What happened to your armor?”
+
+Rain laughed. “I feel like shit. Don’t worry. I’m getting better. It’s a bit of a long story.”
+
+Jamus snorted. “Why am I not surprised? You’ll have to tell me all about it. Before that, though, are those Ranks pieces I see? I didn’t know you knew how to play.”
+
+“He did not,” Tallheart said. “I am teaching him. He is learning quickly.”
+
+Jamus laughed. “Is he now?” He looked at Tallheart. “I’ll have to play you later, old friend. We’ll see if you are as good as you say you are. Also, what’s the deal with the giant hole?” Jamus pointed a thumb over his shoulder. He looked at Rain. “You didn’t spend all night digging that, did you?”
+
+Rain shook his head. “No, Tallheart did most of it. I just got it started. It’s the basement for the house I’m designing for him.”
+
+“Big basement,” Jamus said, looking at the hole. “Where’s Ameliah?”
+
+“Gone,” Rain said. Tallheart detected a note of bitterness in his voice. Humm. I believe he likes her. He should just tell her how he feels when she returns.
+
+“Gone where?” Jamus said.
+
+“She went to the DKE,” Rain said. “Someplace called Jarro. Remember she said she was going to look into Velika?”
+
+“Humm,” Jamus said. “When did she leave?”
+
+“Yesterday,” Rain said. “Tallheart, how long did she stay after I…you know.”
+
+“Not long,” Tallheart said.
+
+“After you what?” Jamus asked.
+
+“Never mind,” Rain said. “Hey, have you seen Val anywhere? I’m starting to get worried.”
+
+Jamus shrugged. “No idea. He’ll turn up eventually. I can’t imagine he’d pass up free mana from that aura of yours. Speaking of, do you think you could…”
+
+Rain laughed. “I’m not your dealer, Jamus. And sure, I can, but I’m going to go really slow. I kinda soulstrained the hell out of myself.”
+
+Dealer? Tallheart watched as the blue rings of Rain’s mana transfer aura appeared around Jamus’s feet.
+
+“Aaaah, that’s the stuff.” Jamus let out an exaggerated sigh. “You could make a killing charging for this, you know?”
+
+Rain laughed. “I’ve thought about it. I could use the money. Don’t worry, I haven’t forgotten about the 20 Tel I owe you.”
+
+“It’s no problem,” Jamus said. “On that note, here’s something that might help. Gus wants to talk to you. He says the Watch made another special request. Also, Staavo. He practically ambushed me the moment I set foot in the Guild. Talking to him will likely be less profitable, but much more amusing to watch.”
+
+“Oh?” Rain said, raising an eyebrow. “What does the Watch want me for?”
+
+Jamus shrugged. “No idea. Gus didn’t say. Staavo, on the other hand, wouldn’t shut up. He says he’s figured out ektrikity.”
+
+Tallheart tilted his head. Ektrik..what?
+
+“You know,” Jamus said. “The fake lightning.”
+
+“Oh,” Rain said. “You mean electricity. Really?”
+
+Jamus shrugged again. “So he says. Ask him yourself. He wants you to stop by as soon as you can.”
+
+Rain laughed. “Sure, I’ll probably head into the city tomorrow. I’m not feeling up to it right now, but I can stop by once I’m better. I’ve got a bunch more questions for him, too.”
+
+Tallheart smiled faintly. He almost pitied Staavo. Rain’s curiosity was insatiable. He’d never met Jamus’s scholar friend, but it was hard to imagine anyone getting the better of Rain on that front.
+
+“Oh, before I forget, Rain, I have a question for you,” Jamus said. “What’s the word for ‘cloud’ in that language of yours.”
+
+“Cloud,” Rain said. “Why?”
+
+“Perfect!” Jamus said. “That sounds great!”
+
+“Huh?” Rain said, echoing Tallheart’s thoughts.
+
+Jamus shrugged. “A friend of mine found one in an alley. She wants to name it.” He grinned. Rain just looked confused.
+
+The corners of Tallheart’s mouth twitched in amusement. Mages are so…eccentric.
+
+Without warning, Jamus snapped his fingers and slapped his forehead. “Oops, another thing I almost forgot.” He turned to look at Tallheart. “Don’t use those peppers I brought you. They aren’t the kind I thought they were. They’ll burn your face right off.”
+
+“Too late,” Tallheart said. “Rain already ate one.”
+
+“Really?” Jamus said, raising both eyebrows. “So that’s what caused the…?” he waved at Rain.
+
+Rain laughed. “No. I hurt myself training. The peppers had nothing to do with it. I think there’s still some soup in the pot if you want some. It’s good. The peppers themselves really aren’t that hot. Maybe somewhere around habanero level. Fine to use for cooking. I wouldn’t recommend eating one whole, though.”
+
+Tallheart looked at Rain. “It did not stop you.”
+
+Rain laughed. “Well, yeah. I wanted to see how bad they were.”
+
+“Insanity,” Jamus said. Tallheart hummed in agreement.

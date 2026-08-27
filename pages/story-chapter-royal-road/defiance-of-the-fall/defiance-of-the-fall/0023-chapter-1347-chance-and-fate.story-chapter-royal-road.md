@@ -1,0 +1,151 @@
+---
+id: d362d26d-a793-5364-a336-96ff4613ec5f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,347 - Chance and Fate"
+slug: 0023-chapter-1347-chance-and-fate
+partOf: defiance-of-the-fall
+position: 23
+ownLength: 2699
+unit: words
+publishedAt: 2025-08-29
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2558689/chapter-1347-chance-and-fate"
+royalRoadId: "2558689"
+---
+
+It was as though Janos had discarded his real persona the moment he stepped onto the gondola. It left Zac feeling like he was looking at a stranger. He still brought out a blank Information Crystal and copied the introduction of [Foreign Gods]. Vilari still had the book where Zac first saw the term Ancient Arcana, but Zac knew the whole thing by heart. Additionally, Zac included most of what he’d gathered about the Stellar Wanderers, the Lost Era, and their connection to the Ultom Courts.
+
+“I’ll keep your advice in mind. Here’s the information you asked for,” Zac said as he threw over the crystal. “Thank you for everything, and take care of yourself. Don't forget, you have people waiting for you back home.”
+
+Janos lightly nodded before turning to face the open sea. The detachment in the demon’s eyes held an emotional distance greater than the chasm between differing timelines. Zac’s words hadn’t changed anything, but they needed to be said. Only time would tell whether they’d meet again. It had certainly felt like a farewell.
+
+“He’s up to something,” Esmeralda muttered.
+
+“What? Did he recommend a bad boat?” Zac asked as he looked at his own gondola with apprehension. “We don’t have time to find a better one on our own.”
+
+“Not ours—his. I only got a brief look before he claimed the ship, but it didn’t look very impressive. I doubt his journey will take any less than a year. Even the one right next to ours would have been a better choice if he aimed to reach the Mercurial Court as quickly as possible.”
+
+“I think you’re right,” Zac sighed, giving Janos’ gondola a final look as he headed back.
+
+He’d seen the unflinching determination behind Janos’s actions. It was like he’d been silently plotting and accumulating for years, and he was finally about to stake everything to achieve his goals. It was a shame the demon chose to keep his thoughts to himself. Janos was among the first citizens of Port Atwood, and he’d fought by Zac’s side as long as Ogras. Zac would have tried helping if he could.
+
+“This is the path we chose,” Esmeralda said in a solemn voice. “Meeting is chance, parting is fate. Only the Dao is etern—holy crap is she coming toward us?”
+
+Zac blanched upon realizing Esmeralda was right, and he studiously ignored Astora Theomore’s gaze. It didn’t stop her from drawing closer. Esmeralda wanted no part of this royal audience. She swiftly returned to the Shrine of Kanba and sank into its depths.
+
+‘Ignore her! Trust me, women like that are trouble. Beauty—by human standards—and pedigree is a deadly combination,’ Esmeralda urged.
+
+Zac didn’t need to be told twice. His gondola’s bent keel and uneven weight distribution suddenly seemed like charming quirks, and he jumped aboard without hesitation. Feeling solid matter beneath his feet was a huge weight off Zac’s shoulders, and he kicked the pier as he landed to expedite his voyage. The timeline ripple provided a second wave of relief, one unrelated to Astora Theomore.
+
+His strength remained intact.
+
+Time was one of the things that could break the quantum connection between his bodies. Having one body inside a Temporal Chamber was enough to sever the link, and Zac wasn’t sure if that applied to different timelines. For now, it looked like the answer was no. Most likely, it was because the timeline he’d entered wasn’t real. It was a peak-grade illusion where time flowed at the same pace as the main universe.
+
+The roughly hewn stone deck no longer emitted a sense of distance like before. Instead, Zac felt a surprising closeness to it, like it had been bound to him like his Spirit Tools. The silver mist rose, and windows to a different reality were already opening up around him when Astora Theomore stopped at the edge of the pier. A few dozen meters and a dimension separated the two.
+
+“Everit Draom, is it?”
+
+“Ah, Princess Theomore?” Zac exclaimed, pressing on before Astora could continue. “I apologize. I was preoccupied divining the signs and failed to notice Your Highness’s approach. Thank you for dealing with those villainous things, allowing me to face the sea with a calm heart. I know nothing will go wrong under the Theomore Dynasty’s watch. After all, the Founding Families have upheld the—"
+
+Zac planned on keeping his mouth running until the gondola was whisked away to the other timeline, but Astora would have none of it. Her voice cut through Zac’s prattle.
+
+“We’ll talk after we’ve reached the court. My intuition tells me we have more in common than one would expect. An exchange of notes should prove fruitful to us both.”
+
+The princess turned and walked away, heading toward the last group of holdouts among the invaders. Thirty doppelgangers had banded together to even out the numbers. In addition, there were over a dozen who’d managed to take out their alter egos through sheer desperation. Altogether, there were eighteen gondolas moving through the waters.
+
+With the additional thirty or so who’d set out before Astora shattered the delicate balance, Zac guessed around 20 to 25 doppelgangers had managed to replace their originals. That didn’t mean the others were safe. If Xiphos’s route was tainted, then so were others. Some of those who stepped through the Gate of Transformation wouldn’t be the ones who embarked from the Transformation Docks.
+
+Zac exhaled and sat down on the gondola’s only seat, his hammering heart gradually settling. Trouble had indeed come for him, but he’d made it through without any major hiccups. The biggest issue was being forced to expose the Void to get Xiphos off his back, leaving a weakness for the future. Zac was still glad he followed his heart and never aimed for the Templar’s life.
+
+It didn’t seem right after all the help he’d received from Instructor Rava, especially when Xiphos never exhibited any Killing Intent either. Exposing the Void to a long-gone priest wasn’t the end of the world, so why act against his conscience? It might have saved his life. At the very least, Zac suspected he’d be grievously wounded if he had forced Xiphos to use his hidden attack.
+
+Astora being drawn by him was an unwelcome but expected outcome. Even Leyara had mistaken his Void Emperor-heritage for one of the Nine Imperial Bloodlines, and Zac had experienced something similar with Tavza. It would be weirder if Astora felt no connection at all.
+
+Zac couldn’t tell if Astora had ill intent, but it wasn’t a pressing issue now that he was out of reach. There was no guarantee they’d meet again in the Mercurial Court, depending on what scenario awaited them. Even if they met, Zac had been sanctioned by Grand Dream himself. The trialtakers were considered important cogs in the Empire’s undertaking, and the Outer Courts were almost like independent city-states. Astora wouldn’t be able to do as she pleased.
+
+The mists had almost completely swallowed the gondola, but Zac could still see the memory domain’s border drawing closer. As far as Zac was concerned, safely passing through the domain’s edge posed a greater danger than surviving the rest of the crossing.
+
+Not knowing what to expect, Zac furiously recorded the events from the ceremony until now. His other half needed to know his Draugr side might be out of reach for a full month. Silver mist completely obscured his vision by the time Zac deposited the crystal and most of his important items inside [Purity of the Void].
+
+“Get ready,” Zac said as he braced himself.
+
+“I’ll do what I can if something goes wrong,” Esmeralda assured. “But, uh, don’t expect too much. In case this is it, it was nice knowing ya.”
+
+“Likewise,” Zac said with a smile. “Let’s hope you’re wrong. It would be a shame to end my tutelage early.”
+
+Esmeralda grinned within the shrine. “You might lack the delicate touch of a great toad burglar, but you have the makings of a decent marauder. I guess that’s acceptable of my protégé.”
+
+Zac took a steadying breath as the haze thickened. Each second felt like an eternity until Zac was certain enough time had passed for the gondola to pass beyond the domain’s border. There was no sign of the intense spatial decay they’d felt upon first seeing the Peregrine Ocean. Instead, the silver haze gave way to display a starry sky. It looked nothing like the primordial sky Zac had seen during his time on the Left Imperial Expanse, yet it triggered a vague recollection he couldn’t place.
+
+“It’s a beautiful night, Young Master.”
+
+Zac almost leapt out of the gondola upon hearing a voice that wasn’t Esmeralda’s. It was only then that he realized that the shoddy gondola had been replaced by a simple yet well-cared-for vessel that sparked an old memory. Zac slowly turned around, finally connecting the voice with a face he’d almost forgotten.
+
+“Nala?” Zac exclaimed, looking at the half-Draugr guide who’d ferried him around the Twilight Harbor.
+
+A storm of memories poured in before Zac could make sense of the scene. It felt a lot like when his bodies reconnected, except the flood of memories was far more comprehensive. And it integrated with him much quicker than in real life. More than a decade’s worth of insights fought over the limited space of Zac’s mind. Zac remembered the Twilight Ocean, the trial.
+
+He remembered barely making it out alive, finding a world in chaos. He remembered the Perennial Vastness Token floating in outer space, seeing it get swallowed by a spatial tear. Unwilling to leave it behind yet unable to stay, Zac resumed his escape from the Twilight Ocean’s center, where the Eveningtide Asura defended his Dao against the Heavens and his enemies.
+
+The final clash between the Asura and the Havarok Autarch knocked him unconscious. Much later, Zac woke up under Nala’s care, his body only holding on by a thread. A large group of undead refugees had turned a splinter of a broken worlddisk into a temporary harbor as they tried to figure out their next step. Reyna Umbri’Zi tracked him down before he could recover and brought him to their clan’s B-grade continent in the Empire Heartlands.
+
+Zac remembered ascending to Hegemony under the Umbri’Zi Clan’s watch, forced to give up on his human origin. Only a seed of Life was hidden in the depth of his Void, representing his desire to reclaim what he’d lost. There was no hidden space inside his chest. He never went to the Perennial Vastness, so he never met Esmeralda or erected the Shrine of Kanba.
+
+In the flood of altered memories, Zac only spotted the Perennial Vastness token a second later than in real life. That difference was enough to derail his future completely. He never fell into the Void of Space, and he wasn’t caught by the Orom. He only returned to Zecia much later as part of Tavza’s delegation. The trial hadn’t even started in this timeline.
+
+It all felt so utterly, indisputably real. Zac couldn’t have dreamt up a more believable chain of events if he tried. The altered memories felt more vivid than his own, almost sending Zac into a spiral of poisonous uncertainty. Which was the true dream?
+
+“What’s wrong? Is it your illness acting up?” Nala asked with worry.
+
+Zac weakly smiled at the guide who’d accompanied him throughout the past decade. “I’m fine. You don’t have to worry about—"
+
+His answer died in his throat as Nala faded away along with the rest of the world. Zac finally remembered where he’d seen it. It was from a battle recording of the Intersector War, capturing a pitched defense led by the Kavriel Clan.
+
+Another set of memories barged into Zac’s head before he could disentangle the fake set of memories, pushing his mind into further chaos. The second timeline only flashed by, and Zac never managed to digest the memories before they were replaced by a third reality. Remembering Janos’ parting words, Zac safeguarded his true memories while a fourth and fifth life flashed by.
+
+‘Are you okay?’ Zac asked during the brief intermission between timelines, where he found himself in a world of churning silver and streaks of pure Continuum.
+
+‘Rough seas—soon stabili—’
+
+The gondola spent the next twenty minutes sailing through an unbearable number of paths not trodden. The longer they lasted, the more Zac’s sense of self came under attack. One where he’d already set off into the Eternal Storm lasted nearly five minutes and left him incoherent. Zac had no recourse except to hold onto his true memories. He couldn’t stop the influx, and he was afraid that shielding himself with the Void would derail his passage. It might even have him kicked off the gondola.
+
+Then, there was finally a change. In his delirious state, it took Zac a moment to realize the latest set of memories differed from those before. They belonged to Everit Draom, and the stark difference made it much easier to separate true and false.
+
+The endless silver gave way to a world filled with color, but Zac was in no mood to enjoy the pastoral landscape stretching out before him. He felt starved, poisoned, and feverish all at once. His strength was seeping out of his body at an alarming rate, and it didn’t stop at the strength of his isolated Draugr form.
+
+It kept going, relegating Zac to Middle, then Early Hegemony. His energy diluted, and the pathways through his body withered as he was relegated to E-grade. He couldn’t breathe. He was dying of energy starvation while surrounded by spirituality. Next, his power dipped beneath the bounds of E-grade, and there was still no sign of this timeline being replaced.
+
+The flood of memories provided the answer to his state. The more Zac uncovered, the uglier his face grew. Everit had truly screwed him over this time.
+
+-------------
+
+“I’m here.”
+
+Janos looked at the countless thread stretching into the horizons in awe. Each was an illusion holding a complete world, and they held the potential to transcend their current state—the potential of becoming reality.
+
+[Good. Follow the trace.]
+
+Janos was full of misgivings, but he followed the guidance echoing through the resplendent realm. Grand Dream’s offer was one he couldn’t refuse. Janos instructed the [Realmkeeper Orb] to adjust the gondola’s course, and he sailed through the fold between dreams until he found what he was looking for.
+
+Home.
+
+Drawing a deep breath, Anson could almost see the swaying Lonton stalks. The thread also held the indelible mark of Zachary Atwood, bringing memories of Earth rushing back. Two homes, two identities. Janos wondered if this was anything like what his unpredictable Emperor experienced. It would explain how he always got himself in a mess.
+
+The timeline otherwise looked no different than the countless others, but Janos could somewhat tell it had seen some recent alterations. Grand Dream had upheld his part of the deal, so it was time for Janos to do his part. He looked down at the [Realmkeeper Orb] with reluctance.
+
+[You don’t have to do this. If it fails, she won’t even remain in your memories. The Fifth Pillar is ascending, which means the Zenith is drawing closer. There might be a better opportunity waiting for you there.]
+
+“Soon in the Multiverse is an eternity for me. I’m not confident in living that long, let alone finding the answer,” Janos said with a shake of his head. “This is it.”
+
+[Are you confident? I can help you pick another.]
+
+“Can’t you see the outcome?”
+
+[Ultimately, I’m but a figment of a possible past. My vision is limited by history, and I can only see the trajectories that have been recorded.]
+
+A slight smile tugged at Janos's lips as memories of his time in the Atwood Empire flashed by.
+
+“I’m not sure. I’m confident in his ability to subvert all expectations. If you’re looking for change, then he’s your man.”
+
+[Then brace yourself. The Dream will soon end, and the Heavens have already taken notice. I cannot hide your involvement. A sacrifice must be made to maintain equilibrium.]
+
+“Then so be it.”

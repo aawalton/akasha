@@ -1,0 +1,189 @@
+---
+id: a038d02b-b278-5815-b18b-f247f06c08fb
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 14"
+slug: 0016-b1-chapter-14
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 16
+ownLength: 1990
+unit: words
+ownProgress: 1990
+publishedAt: 2024-01-05
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1466739/b1-chapter-14"
+royalRoadId: "1466739"
+markedReadAt: "2026-06-29T19:06:22.932Z"
+---
+
+Aria
+
+I lean up against the side of the jeep while gazing out the window, focusing partly on the passing trees as we drive through the path guarded by the Ninth Army and partially focusing on the screen in my vision.
+
+Skills
+
+Skill Name:
+
+Skill Description:
+
+Harvest
+
+This skill allows the user to harvest the souls of the dying around them. They can then devour the soul energy within them, sending the souls off to the void. Or they can devour the soul whole, taking in the cores of their souls and erasing them from reality itself in the process.
+
+I get that I can do this now, but… how? The System never gave me any description about how to do it. It just said I can do it.
+
+Maybe I have to kill something to activate it? Or maybe the System will explain it after something is dying near me?
+
+The skill is rather pointless if I can’t figure out how to use it.
+
+On another note, I open my status.
+
+Name: Aria Crimson
+
+Class: Harbinger of Death
+
+Ability: True Immortality
+
+Level: 2
+
+Not much different there.
+
+So I go back to look at the latest System Message about leveling progress that I got. One after I had already leveled up to level 2.
+
+[User has killed one being of Level 4. Requirements to reach level 3 have been updated. New requirements are as follows: 24/250 beings have been granted Death.]
+
+I tap my finger on the door for several seconds before narrowing my eyes slightly on a deer as we pass by it.
+
+Hmm. The message says, ‘beings have been granted Death.’ So it doesn’t specify humans.
+
+I wonder if I could level up just from killing things like animals and bugs and the like?
+
+Probably. At least it’s worth testing later.
+
+I glance to the side at the other people in the jeep with me, finding Captains Striker and Vargos sitting in the back of the jeep. Then I look at the one on the other side of the jeep’s rear from them. A man who I recognize as one of the first lieutenants put in charge of the military scouting of the enemies.
+
+Or I guess it’s more accurate to call them Major Striker and Major Vargos, and Captain whatever-his-name-was instead. Since I wasn’t the only one promoted.
+
+And the guy driving us is someone I don’t recognize. Other than his uniform, that is. Which is that of a warrant officer.
+
+“Do any of you know how to use a skill from the ‘System’?” I ask out of curiosity.
+
+Major Vargos, Captain what’s-his-name, and the warrant officer all shake their heads in the negative. But Major Striker nods and answers, “Yes. I don’t know about other people, but for my skill, you just need to think or say the name of the skill. But I’ve also heard that it varies depending on your Class.”
+
+I frown at that before glancing at my skills list again.
+
+Just need to think or say it?
+
+In that case…
+
+Harvest.
+
+Nothing happens.
+
+Well so much for that.
+
+I glance at him again, soon finding him to be frowning while tapping his chin.
+
+“Safe to say it didn’t work?” he asks, only to continue after I nod my head, “I’ve heard some skills might need you to figure out how to use them yourself. At least for some of the stronger and more versatile ones.” He tilts his head slightly. “So that could be it.”
+
+Guess I’ll just need to figure out how I use the skill. Although it might need me to kill things to do that. Which means I can’t do anything about it right now.
+
+“Thank you,” I tell him with another nod before looking out the window again.
+
+I’ll have to find time to kill things during my training. Preferably wild animals or bugs.
+
+Assuming killing insects and rodents counts towards the skill and my purpose.
+
+I sigh at that before leaning my head against my fist, my elbow resting on the door as I gaze at the snow-covered trees flying by outside.
+
+Come to think of it, this’ll be my first time at the military academy without that dog breathing over my shoulder.
+
+Might be interesting.
+
+This is boring.
+
+I frown as I answer another question on the quiz, nearly finishing the thing from my place on the far left center of the classroom. One filled with just almost a dozen people. Most of whom are far older than I am.
+
+The exam itself is a sort of entry exam into the training course. One that sets the bar on where the training should begin.
+
+Something that normally wouldn’t be done, but is being done most likely due to the fact that the training is only an eighth of what it used to be. Since it used to be two months long but is now only a week long.
+
+My thoughts pause when I finish writing down the latest answer before I glance over the next one.
+
+This one again? Pretty sure this question is in every single officer exam regardless of the rank.
+
+Who is responsible when a soldier is ordered to execute the enemy. The soldier, or the one who gave the order.
+
+Or at least questions like this one.
+
+The answer is always the origin of the order takes full responsibility.
+
+And with that question done, I get up from my seat almost at the same time as two other people on the other side of the room before we all turn in our papers and begin leaving. Right when I’m stepping through the door though, I glance at the other officers still finishing up the exam. Then at those who are walking out of the room in front of me.
+
+Okay, I really do stand out here. Of the ten people taking this exam, only four are women, and even amongst those three, they’re clearly in their late thirties to early forties. Just like all of the other men in the room as well.
+
+I’m the only one who is only about twenty years old here. And it makes me stand out quite a bit.
+
+Although not as much as my first time at the academy, when I became a corporal. Since I was only eleven years old then.
+
+Very awkward. And I had more than a few of the older, adult officers at the time asking me why I was in the military at my age.
+
+I never could give them an answer though. Simply because of the contract forcing me into silence.
+
+So I ended up just shaking my head whenever someone asked.
+
+At least now I’m an adult while here.
+
+Actually, I think this is the first time I’ve been here as an adult. When I became a warrant officer I was still a teenager after all.
+
+The past aside though, we all move to another room and wait there for the rest of the promoted officers to finish. Then we wait some more for our exams to be graded. And as soon as they are graded, the officer in charge of our training – one Colonel Rodrick Lupin – arrives at our room as well, steps up to the front, looks out over us all, and declares, “Every one of you has gotten a passable grade. Therefore training will now begin.”
+
+I hold myself back from tapping my fingernail on my desk due to my dislike of sitting still as he continues, “Since we only have one week of training, prepare to be worked to the bone from sunup till sundown. We will start with strategy tactics for larger forces of one hundred soldiers, along with delegation tips and tricks, larger scale combat tactics, and a single military exercise for you to work together.” His eyes narrow. “And we will begin now.”
+
+Yep. This is going to be a boring week.
+
+The Enemy Base at the Intersection of the Western and Northern Mountain Passes
+
+Tribune Ashton Lucilius feels nothing as he steps through the gate into the base and finds the damage that had occurred during the incident several days ago still visible. Unlike what his legate wished, he hasn’t been able to leave the Western Fortress until now, so all he’s been able to hear has been word from messengers hailing from the secondary base he is now entering.
+
+Looks like things might’ve been worse than I had expected from those rumors.
+
+He continues looking around the base as he walks closer and closer towards the main command center at the back of the base.
+
+Their loss. Means more corpses for my forces.
+
+In the end, he disregards the loss of life amongst the officers without any hesitation.
+
+Once he makes it to the command center, he ignores all formalities and steps straight inside. And only moments later, a shout echoes out from it at him from the legate, “Tribune Lucilius, do you have any idea how long we’ve been awaiting your arrival?!”
+
+The tribune indifferently looks around at the gathered tribunes along with the legate, none of whom appear happy with him, before focusing on the legate and answering, “Does it matter?”
+
+Ashton can tell that the legate is barely holding back his temper, so he presses on to ask, “Are the corpses of the officers in my storage?”
+
+A loud slamming sound echoes through the hut as the legate slams his fist into the table, making it crack in the process. But Ashton remains unperturbed, certain that the man wouldn’t harm their force’s only necromancer. Especially not in the situation they’re in right now.
+
+And he’s right. The legate eventually growls out, “Yes, they are. I expect you to have raised them all by nightfall.”
+
+Ashton merely turns around and leaves the hut, uncaring of showing any respect to the man. Then he heads straight towards his corpse storage, only to pause right outside of it with the first glimpse of emotion showing on his face since he stepped foot on this planet.
+
+What?
+
+He rushes inside of the storage, which is full of corpses. But he ignores them as he closes his eyes and senses for the energy within the storage. And after a little bit of searching, he finds it.
+
+Pure, unadulterated death energy.
+
+Was another necromancer in my storage? But to be able to use death energy of this purity… how? Not even the ancestor of our clan can use death energy this pure.
+
+Ashton kneels next to it for a while, quietly watching as the death energy very slowly fades. Something it must’ve been doing for a while now, considering how little of it there is. Only barely enough for him to detect.
+
+Then Ashton remembers the reports about the enemy soldier who had come on a ‘suicide’ mission and been brought here after being ‘killed’ only for her to get back up and sabotage the base.
+
+Could it be… no, I need to look into this further. I need to talk to Father about this.
+
+He stands up straight.
+
+But first…
+
+He turns to look at the corpses.
+
+I need to raise them before they decompose too much.
+
+Note: If you are reading this on a website that is not Royal Road or on my Patreon, you are reading a pirated version and that website does not have the permission of the author to host the story. Please instead read the story on Royal Road, here, as it is completely free to read on Royal Road. And the only Amazon Author that I will be posting this story as is the one that I posted all of my other stories through, as Shane Purdy. If this story is found published on Amazon by someone other than me, and you see that the story is not from the following Author page, it was stolen and posted without my permission on Amazon.https://www.amazon.com/stores/Shane-Purdy/author/B09NRTM1J6

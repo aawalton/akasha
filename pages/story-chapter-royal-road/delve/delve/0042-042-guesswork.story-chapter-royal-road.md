@@ -1,0 +1,605 @@
+---
+id: 5371ee63-e43d-5dc4-8f9c-9f54b41ca52e
+page-type-slug: story-chapter-royal-road
+title: "042: Guesswork"
+slug: 0042-042-guesswork
+partOf: delve
+position: 42
+ownLength: 4514
+unit: words
+publishedAt: 2019-09-10
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/401266/042-guesswork"
+royalRoadId: "401266"
+---
+
+Ameliah sat in blackness, her orb reduced to a barely perceptible glow. She listened to the soft breathing of her slumbering companions as she watched the tunnels. She was the only one awake, having offered to take a solo shift so the others could sleep. Though she could see well enough in the dark, the level of trust that they were showing her was shocking.
+
+It was honestly refreshing, being with a group like this. She’d become an adventurer in the end, just like her father had wanted, but she didn’t feel a lot of kinship with most of the Guild’s members. Adventurers were self-serving, reckless, violent, and paranoid, as a rule. This group, on the other hand, had adopted her with barely any discussion, trusting her to watch over them while they slept. It struck her as naive, but nevertheless, she wasn’t about to betray that trust.
+
+Even the casual disregard for danger and constant banter wasn’t grating on her as much as it normally did with other groups. The questionably dressed mage and the hulking defender seemed like they had a history that went way back, arguing like an old married couple. They were the most typical of the bunch.
+
+The big man, Carten, was snoring softly in his sleep. He wasn’t nearly as simple as he appeared at first glance. He was loud, boorish, and belligerent, but he wasn’t stupid. She’d been listening to him argue with the others about Rain’s build and his points were well made, if simply stated. He was the only one insisting on a cut of the profit for this mission. At least his motivations were clear.
+
+Jamus, she hadn’t trusted at first. He’d come up to her in the guild and offered to take her to Rain, seemingly out of a desire to help the man. She’d been expecting an ambush, having encountered such schemes before. Rain’s oddness had made him a recognizable figure in the guild, so it wouldn’t have been too hard for someone to pretend to know him. Despite her misgivings, Jamus had not only led her to Rain, but also to the cervidian, Tallheart. Trusting her with that kind of secret had made her instantly reevaluate the man.
+
+It wasn’t that the mage didn’t care whether she would try to collect the bounty. That much had become clear. No, either he was even more air-headed than most mages, or he was entirely too trusting. He and Tallheart seemed to be old friends, and he’d offered to help Rain with no thought of reward. It spoke great volumes for his character, though it might get him killed one day.
+
+Val, on the other hand, embodied many of the traits that Ameliah had come to detest in adventurers. He was reckless and impatient, only caring about his future power, even if it meant putting himself and others in danger. However, he wasn’t totally irredeemable. He, too, had offered to help Rain without any talk of a reward, though his ulterior motive was painfully obvious. His insistence on fighting an essence monster alone was more than mere bravado; he was clearly trying to unlock something, probably a rare class. Still, Rain trusted the man, and apparently had saved his life, not even counting the incident with the Kin. That was enough for her to give the reckless light mage a chance.
+
+Rain…Rain was like a puppy that someone had abandoned in the gutter. The moment she’d first seen him barefoot on that dirt road, she’d known that he was lost and harmless. Despite her protest, Hegar had tied him up, the adventurer’s paranoia leading him to suspect a trap or a monster masquerading in human flesh.
+
+Over the next few days, she’d come to realize just how right she had been about Rain. The man had known nothing about, well, anything. It was like he’d never seen an adventurer before, let alone a monster. He couldn’t speak well enough to tell her, but she now knew the reason why. She still wasn’t sure that she believed it. His story about sending humans to the Moon was completely nonsensical, partly due to his shoddy storytelling, but mostly because he’d said they didn’t use magic to do it. She would have thought he’d made it up on the spot but for the earnest manner in which he had tried to explain it to her. Either he was the best actor she’d ever seen, or he was exactly what he seemed to be.
+
+She smiled as she remembered Rain’s determined expression when he’d asked her to help him join the Adventurers’ Guild. Looking at him now, she could see that she’d made the right choice. He’d come so far in such a short time, though he had yet to realize how strong he really was. She hoped she could keep him from turning into a monster once he learned what his skills meant from the perspective of the general population. With his auras, he could help so many people, adventurers or otherwise. It would be a shame to see him turn into just another selfish treasure seeker, or worse, a tyrant, forcing his will upon others. She’d seen that more times than she cared to count. At least adventurers like Val and her father only tended to get themselves killed. The true monsters in this world, they were people, and they were something else entirely.
+
+She felt a momentary pang for Tallheart, who was probably camped out on his own in the mine somewhere above them right now. What had happened to his people was an atrocity, yet nobody seemed to care as long as it didn’t affect their day to day life. She was glad that she’d met him, and that Rain and Jamus seemed to count him as a true friend. She wasn’t sure what she was going to do once they got Rain back into the city. She wasn’t going to be able to change a society all on her own, but she felt like she should be doing something about it.
+
+Ameliah sighed softly and berated herself for getting so lost in thought. She returned to scanning the darkness of the lair for any sign of danger. She needed to take her own advice and pay attention to the situation at hand. Someone needed to keep the group from dying horribly, and she’d reluctantly signed herself up for the role of babysitter. At least the gravity of the situation had started to sink in on them now, cutting down on the constant chatter and argument. She didn’t like being the leader, but at least they were willing to follow her instructions now. She hoped it wouldn’t take losing someone for them to learn the same hard lessons that she had.
+
+Rain mumbled something in his sleep. Ameliah looked over to see him tossing and turning, clearly reacting to something in a dream. He bumped his head softly into the wall, but didn’t wake, rolling over before settling back down with a deep sigh. Ameliah smiled.
+
+It’s funny to think that he’s the same age as me, yet he’s so innocent. He really is like a puppy.
+
+Rain dismissed his alarm in irritation. He was still tired and would have preferred to sleep in, but he knew that he had to get up. The pale light of the two Lunar Orbs was steady and unchanging. There was nothing to indicate that the sun had risen, other than the clock in his head. He idly wondered if there would be a way to get the system to display the current time, but dismissed the idea. He wasn’t about to go messing with things while he was in the lair if there was any risk at all of soulstrain.
+
+“Right, let’s go,” said Carten, picking up his shields. “No sense waitin’ around.”
+
+Rain looked up. “Hold on a minute, Carten. I think we should discuss our plan.”
+
+“Plan?” Carten said. “There ain’t no plan. We just go till we get out.”
+
+Rain stared at him. “I think we can do a bit better than that. Just give me five minutes to explain.”
+
+“You’ve got something,” Jamus said, sitting up and looking in his direction. “What is it? Some pattern that we missed?”
+
+Rain shook his head, “No, it’s totally random. But I did think of a way for us to do something about it. I’m not sure it’ll work, but it’s the best I’ve got.”
+
+“Well, let’s have it,” Val said, moving to stand next to Carten.
+
+“Keep your voices down,” said Ameliah. “We’re still in danger. Just because nothing attacked us all night, it doesn’t mean we’re safe.”
+
+Rain nodded to her. He kept his voice to a whisper as he laid out his plan, the party gathering into a huddle so they could hear him.
+
+“Ok, so we know that the tunnels change, but we’ve never actually seen it. When we’ve doubled back, the intersection has been different every time. Now, we could try leaving someone there, but I shouldn’t have to explain why that is an awful idea. What we need is some way of keeping track of where we are.”
+
+“We already tried that,” Val protested. “We never saw a single one of the markings that we left on the walls. It was all fresh tunnel.”
+
+“Right, that didn’t work. We need something else. Lunar Orb.”
+
+“What about it?” Val asked.
+
+Rain smiled. “Something you did with it last night was what first got me thinking. It was just as I was taking the first watch. Remember when I asked you to move the light and you did it without looking? You sent it sliding along the wall, meaning you could feel where it was.”
+
+“Oh,” Val said. “Yeah, I think I see where you’re going with this. If I sent the orb down one of the tunnels, I could wiggle it around to feel where the walls were and know what kind of intersection it is.”
+
+“Right,” Rain said. “That was my first thought. Unfortunately, it won’t work.”
+
+“Why not?” Carten asked.
+
+“Humm,” Jamus said, “Does knowing which passages are available actually buy us anything? Perhaps if we used both orbs…No, I don’t see how it helps when things keep changing.”
+
+Rain laid a finger on the right side of his nose and flicked it forward to point at Jamus. “Exactly. Knowing the details of the intersections doesn’t buy us much. However, Val said he can feel where the orb is. That changes everything.”
+
+“It’s true, I can,” Val said. “But I don’t see how that helps us.”
+
+“Oh. Humm,” Jamus said. “I think I see what you’re getting at now.”
+
+“Eh? Anyone wanna explain it to me, then?” Carten said.
+
+“Absolute position.”
+
+Everyone turned to look at Ameliah.
+
+“Exactly,” Rain said. “I’m betting you already thought of this and were just waiting for us to figure it out on our own.” He turned back to look at Val. “If we know where the orb is, relative to us, we can always choose the passage that takes us in the right direction. Now, what that direction is, I have no idea, but a straight line is much better than going in circles.”
+
+“You’re making an assumption there,” Jamus said.
+
+“Right,” Rain said. “I’m assuming that distance, no, geometry in general means anything in here. I’m also assuming that the size of the lair is limited. We might have to go so far that we’d exceed the range of the orb, ridiculous as it is. Oh, and I’m also guessing that the tunnels themselves aren’t moving, just the connections between them if that makes any sense. Like portals or something, not actual physical movement. Honestly, this is just a hunch.”
+
+“Well, it’s better than anythin’ I got,” Carten said. “Not bad, Little Mouse, not bad.”
+
+“Thanks Carten. What do you think, Ameliah? Will it work?”
+
+Ameliah shrugged. “I think you’re giving me too much credit. I wouldn’t have thought to use the orb like that. I’ve been in lairs like this before, but there was always a pattern. The only time I couldn’t solve it, I got out just by fighting until the lair was depleted.”
+
+“Oh, so my plan woulda worked then?” Carten said.
+
+“Eventually,” Ameliah said with another shrug. “We’d probably run out of water long before then.”
+
+“Well, the two plans aren’t mutually exclusive,” Jamus said. “Let’s try it. If it doesn’t work, well, it isn’t like we’d lose anything.”
+
+“Ok, I’m sold. I’ll leave my orb here,” Val said, sending it up to rest touching the ceiling.
+
+Rain smiled. “Great. Now, just give me a minute to check my skills. I used IFF and Velocity quite a bit. They probably both leveled, so I’ll need to adjust the intensity if we’re sticking to the same plan.”
+
+Rain paused to stick a chunk of ration bar into his cheek to soften it up, then opened his menus.
+
+Training Overview
+
+Skill Experience Earned
+
+Refrigerate: 300
+
+Winter: 1193 [Rank Up]
+
+Detection: 12536 [Rank Up] [Rank Up]
+
+Velocity: 1270
+
+Immolate: 250
+
+Aura Synergy: 2507 [Rank Up]
+
+Aura IFF: 4860 [Rank Up]
+
+Just skill experience listed, huh? It isn’t even showing any stamina usage. Capped is capped, I guess. I wonder how much mana I spent yesterday? With all the Detection and Essence Well, it must have been ridiculous. It’s hard to tell because it doesn’t show experience for skills that I’ve already mastered. I wonder if I can get it to make a ‘mana usage’ dialog or something…
+
+Rain glanced up, seeing his companions looking at him.
+
+I’ll try later. Attributes.
+
+Attributes
+
+Richmond Rain Stroudwater
+
+Level 18
+
+Experience: 22749/22750
+
+Dynamo
+
+Health
+
+400
+
+Stamina
+
+200
+
+Mana
+
+5100
+
+Strength
+
+20[10]
+
+Recovery
+
+10
+
+Endurance
+
+10
+
+Vigor
+
+10
+
+Focus
+
+10
+
+Clarity
+
+200
+
+Free Stat Points
+
+0
+
+Nothing new to see there. Statistics.
+
+Statistics
+
+Total
+
+Base
+
+Modifier
+
+Health
+
+400
+
+400
+
+0
+
+100%
+
+H.Regen
+
+100/day
+
+100/day
+
+0/day
+
+100%
+
+Stamina
+
+200
+
+200
+
+0
+
+100%
+
+S.Regen
+
+100/day
+
+100/day
+
+0/day
+
+100%
+
+Mana
+
+5100
+
+5100
+
+0
+
+100%
+
+M.Regen
+
+57.2/min
+
+12.6/min
+
+-2.1/min
+
+470.7%
+
+Movement Speed
+
+10
+
+Perception
+
+10
+
+Resistances
+
+Heat
+
+Cold
+
+Light
+
+Dark
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+Force
+
+Arcane
+
+Mental
+
+Chemical
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+1
+
+0%
+
+Another small boost to mana regen thanks to Winter and Aura Synergy. So close to 1 mp a second… Missed it by that much. Skills.
+
+Skills
+
+Aura Metamagic
+
+Tier 0
+
+Amplify Aura (10/10)
+
+Multiply aura intensity by 200%
+
+Multiply aura mana cost by 300%
+
+Extend Aura (10/10)
+
+Extend aura range by 10 meters
+
+Multiply aura mana cost by 300%
+
+Tier 1
+
+Aura Focus (10/10)
+
+Focus on an aura to boost its output
+
+Multiply aura intensity by 300%
+
+Multiply aura range by 300%
+
+Multiply aura mana cost by 300%
+
+User loses all external senses while focusing
+
+Aura Synergy (6/10) Exp: 1400/3200
+
+Increase all aura output by 0.6% for each rank in any aura
+
+Effective boost: 32.4%
+
+Tier 2
+
+Aura IFF (5/10) Exp: 2848/4400
+
+User may exempt entities from direct aura effects at will
+
+Selected entities receive 50.0% aura output
+
+Magical Utility
+
+Tier 0
+
+Intrinsic Clarity (10/10)
+
+Multiply base mana regeneration by 300%
+
+Intrinsic Focus (10/10)
+
+Multiply base mana by 300%
+
+Tier 1
+
+Channel Mastery (10/10)
+
+Allows intuitive control of channeled skill intensity
+
+Minimum skill intensity: 0%
+
+Maximum skill intensity: 200%
+
+Skill mana cost modified by intensity adjustment
+
+Tier 2
+
+Magical Synergy (10/10)
+
+Enables limited synergistic cross-coupling of magical attributes
+
+25.0% of Focus contributes to M.Regen
+
+25.0% of Clarity contributes to Mana
+
+Offensive Auras
+
+Tier 0
+
+Refrigerate (6/10) Exp: 1468/1600
+
+58-67 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 7.94 meters
+
+Cost: 30 mp/s
+
+Immolate (5/10) Exp: 566/1100
+
+49-56 heat (fcs) damage per second to entities and environment
+
+Sufficient damage causes ignition
+
+Range: 6.62 meters
+
+Cost: 25 mp/s
+
+Utility Auras
+
+Tier 0
+
+Purify (10/10)
+
+Purify poison, corruption, and contamination
+
+Range: 13.2 meters
+
+Cost: 100 mp/min
+
+Winter (7/10) Exp: 425/2200
+
+Boost M.Regen by 93% for all entities
+
+Range: 9.27 meters
+
+Cost: 7 mp/hr
+
+Tier 1
+
+Essence Well (10/10)
+
+Transfer mana to all entities within range, including user
+
+Transfer Rate: 13.24 mp/s
+
+Efficiency: 20%
+
+Range: 13.2 meters
+
+Detection (9/10) Exp: 4215/7400
+
+Sense selected items of interest
+
+Not occluded by mundane materials
+
+Resolution: 0.02 meters
+
+Range: 11.9 meters
+
+Cost: 9 mp/s
+
+Velocity (7/10) Exp: 4138/4400
+
+92.68% boost to speed for all entities
+
+Range: 9.27 meters
+
+Cost: 7 mp/s
+
+Free Skill Points: 3
+
+Detection is almost maxed now, which isn’t a surprise with how much I was using it. Velocity didn’t get nearly as much as I expected though. I suppose the big fight wasn’t really that long in the grand scheme of things, and I didn’t need it for the smaller packs. Oh well.
+
+IFF is a bit better now, but not enough to use Refrigerate other than in an emergency. I’m definitely not unlocking any tier 3 skills until we get out of here, so I guess that’s that. I can spend a skill point later if I really need to.
+
+“Ok, good to go,” he said.
+
+“Anything new?” Jamus asked.
+
+“Nope. Nothing worth mentioning at the moment. Velocity’s still our best bet.”
+
+“How ‘bout Spring?” Carten asked. “I could do with the stamina.” Glancing at his HUD, Rain saw that the big man was indeed still missing a good chunk, not having recovered to full overnight.
+
+“Yeah, I suppose I could do that,” Rain said. “I kinda wanted to save the points until I talk to Staavo if I’m being honest. I’ll take it if you really need it, though. Running out of stamina down here would be…bad.”
+
+“S’alright,” said Carten. “I’ll manage.”
+
+“That’s…surprisingly understanding of you, Carten,” Jamus said.
+
+“What? You gotta respect a man’s right to stick to his build, even if it’s gonna get em killed oneah these days.”
+
+“Weren’t you the one who was arguing for hours about how he needed Force Ward?” Ameliah said. “Also, can we focus, please?”
+
+Carten scratched at his ear and looked away. “Ah, that was just speculatin’. I’d never actually force em to pick somethin’. And you’re right, we should get going. Sorry.”
+
+“Wait,” Ameliah said, placing her hand on Carten’s chest. The huge man froze, looking down at her as if she was a bird and he was afraid to move lest he scare her away. Out of the corner of his eye, Rain caught movement on Carten’s stamina bar. It quickly reached full, Ameliah’s stamina dropping by a much smaller amount in relative terms.
+
+“Woah,” Carten said. “I didn’t know you could do that…”
+
+Ameliah took her hand away and gave him a half-smile. “For being polite, for once. Now, let’s go.”
+
+“Wait a minute,” Jamus said, tilting his head. “How did you do that through his armor?”
+
+“Yeah, that shouldn’t be possible,” Val said, staring at Ameliah with keen interest.
+
+She stared right back with a blank expression. “Let’s go.”
+
+“Oh, come on, you can’t just—Hey!” Val chased after her as she turned her back on him and walked down the tunnel, taking her light with her.
+
+“Which way now? It’s still straight behind us,” Val said, the party having reached the first intersection since they’d started walking.
+
+“Straight ahead,” Rain said. “Let’s just try to get as far away from it as we can.”
+
+“Straight ahead it is,” Carten agreed, leading the way into the darkness. They walked on for a few minutes until Val suddenly stopped, turning to look off to the left.
+
+“Did it move?” Jamus asked. Carten stopped as he realized that Ameliah’s light was no longer following him.
+
+“Yeah, it’s off to the left now,” Val said. “Keep going?”
+
+“Yes, let’s—Incoming!” Rain suddenly shouted, interrupting himself as he registered a hit on his detection aura. He’d taken to leaving it on at a low level whenever he had the mana. It didn’t seem that the Dark Hounds could avoid it completely, even at low intensity. Their shadowy nature only made it difficult for him to pin down their exact location.
+
+“Which way?” Carten asked, readying his shields. Rain intensified his aura and the amorphous feeling of danger solidified into several shifting points coming from behind them in the darkness.
+
+“Behind. Five signals,” Rain said.
+
+“Aww!” Carten lowered his shields. “Boring!”
+
+“Don’t let your guard down, Carten,” Jamus said, pointing his hand towards the tunnel behind them. “One might make it through this time.”
+
+“Could you…I don’t know, miss or something? On purpose-like. I need the experience.”
+
+“You’ll have your chance, Carten,” Jamus said, “Let us handle it.” He and Val were standing side-by-side, ready to fire the moment they spotted red eyes in the darkness.
+
+Rain looked on apprehensively. “They’re almost here,” he said, monitoring the slippery signals in his mind. The party had fallen into a well-oiled routine over the course of the many small battles they’d had with the hounds, and they weren’t treating the small packs as serious threats anymore. Rain couldn’t relax, though, not after Ameliah’s speech the day before.
+
+Once again, however, his fears proved groundless. The hounds died even before they reached their small pool of light, Jamus and Val easily picking them off in the darkness the moment their eyes appeared.
+
+“Predictable,” Val said. “I’m starting to think the lair is just trying to annoy us to death.”
+
+“Don’t complain,” Jamus said. “Easy is good.”
+
+“I’m with Val on this one,” Carten said. “I’m ready for a real fight. We’ll never finish at this rate. The bar ain’t even halfway down yet.”
+
+As reckless as wishing for a huge pack of monsters is, he’s not wrong, Rain thought. The lair’s power is only down to 78%. It was lower before we went to sleep, so us being in here isn’t stopping it from regenerating. Ameliah’s right. We’ll run out of supplies before we ever get it to zero.
+
+After purifying the area and collecting the spoils, the party continued down the tunnel in the same direction as before. They reached another intersection and turned right, moving away from the signal of the Lunar Orb.
+
+After another few minutes of walking, Val stopped again. “It just moved. It’s in front of us.”
+
+“What now?” Carten asked.
+
+“We turn around,” Rain said.
+
+The group reversed direction, heading back down the tunnel they had just traversed, coming to a corner that hadn’t been there before. The three-way intersection that they remembered was gone, as predicted.
+
+They continued in this manner for another six intersections, encountering no more Dark Hounds, but steadily increasing the distance between themselves and the orb. Rain was starting to get worried that his plan wouldn’t work after all when the light of Ameliah’s orb suddenly revealed a door in front of them, closed with a metal bar.
+
+“Well, hello,” Jamus said. “That’s different. I think your plan worked, Rain. Wait, Carten, be careful. It must be trapped. Otherwise, it would be too easy.”
+
+“Fine,” Carten said, taking his hand away from where he’d been reaching for the door. “How do we do this the right way?” he asked, turning to look at Ameliah. “We don’t exactly have a rogue.”
+
+Ameliah looked back at him, smiling, clearly planning on making them figure it out for themselves.
+
+“Hang on, let me try,” Rain said, tuning his detection skill to look for the platonic ideal of a trap, then releasing a full-powered burst. “Humm, either it isn’t trapped, or my skill doesn’t work that way. I’m not sure.”
+
+He tried a few more searches for more specific trap types, such as tripwires, darts, and pressure switches, coming up empty. He also tried a generic search for ‘magic’ which also proved to be fruitless, not even the nearby Lunar Orb registering on his radar. He shrugged. “Sorry guys, I can’t tell.”
+
+“Humm, let me try,” Jamus said. “Stand back.”
+
+The group gave Jamus some room, and once they were clear he pointed a finger at the door and blasted it with a bolt of blue energy. The magic sunk into the metal of the door like water into a sponge, with nothing to indicate that any trap had been triggered. “Not a magical trigger, or at least, not a simple one,” Jamus said.
+
+Val stepped forward. “Let’s try physical, then.” He fished in his pack, looking for something. “Ah, perfect, just as good as a rock,” he said, pulling out a ration bar in its paper wrapping. He tossed it unceremoniously at the door. It bounced off and fell to the floor with a clatter.
+
+“Huh, I was sure that would work,” Val said.
+
+“Bah, I’m just openin’ it,” Carten said. He reached out and grabbed the metal bar, lifted it to the side, and shoved the door open. Other than the creak of the door’s hinges, nothing exciting happened.
+
+“Well,” Jamus said, peering into the dark room that had been revealed. “That was anticlimactic. I suppose it wasn’t trapped after all.”
+
+“Goin’ in,” Carten said, but before he could set foot in the room, Ameliah halted him with a hand on his shoulder. She shook her head and bent to pick up the ration bar then, tossed it into the room. The moment it crossed the threshold, it was immediately struck by a flurry of black darts. The bar clattered to the ground once more, the darts quivering where they had lodged in its surface. Suddenly, it exploded, sending chunks of ration gravel flying to bounce off of Carten’s armor. Ameliah had ducked behind Carten to take shelter as soon as the ration had been struck.
+
+“How did you know?” Jamus asked as Carten brushed his beard clean of ration dust.
+
+“Experience,” she said with a small smile. “Always expect a trap, especially when you’re sure there isn’t one.”
+
+I’d laugh if that wouldn’t have killed me. Ration bars are tougher than I am, after all.
+
+Looking into the room, Rain saw nothing but darkness. “What now? Could there be more traps?”
+
+“There can always be more traps,” Ameliah said.
+
+“Well, I’m not standin’ here all day on a maybe,” Carten said, stepping through the door. This time, Ameliah didn’t stop him. Luckily for Carten, nothing happened.
+
+“Clear,” he said, moving out into the room. The others followed, Rain waiting until last. He cautiously stepped through the door, half expecting it to slam behind him. It didn’t, but he refused to drop his guard.
+
+This is the part where the giant spider descends from the ceiling, he thought, looking up. Ameliah sent her orb up, following his gaze. The arched stone was blessedly spider-free, the room appearing similar to the lair’s entrance, other than the lack of the shimmering barrier. There was another passage leading into further darkness. Unlike the rest of the lair, this passage looked to be the entrance to a cave, the natural stone forming a sharp contrast with the orderly tiles. The sound of dripping water echoed faintly from the darkness.
+
+“Let’s rest here a few minutes,” Jamus said. “Nobody should go near the cave until we’re ready. There’s going to be something nasty living in there. I guarantee it.”

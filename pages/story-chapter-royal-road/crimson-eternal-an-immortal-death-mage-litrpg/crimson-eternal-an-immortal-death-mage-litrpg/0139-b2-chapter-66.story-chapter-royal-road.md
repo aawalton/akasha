@@ -1,0 +1,145 @@
+---
+id: db8f0889-5173-565a-88ec-086ba1b57247
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 66"
+slug: 0139-b2-chapter-66
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 139
+ownLength: 1416
+unit: words
+ownProgress: 1416
+publishedAt: 2024-04-04
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1580739/b2-chapter-66"
+royalRoadId: "1580739"
+markedReadAt: "2026-06-29T19:10:26.676Z"
+---
+
+The Tribal Chambers
+
+Akela Nalohia taps her fingers on the table at the center of the Tribal Chambers – the place meant for the entirety of Arian to gather for war council meetings. Not that it’s used very often. Mostly since their people are so scattered.
+
+“Kahuna, should we let her?” one of the tribal chieftains reigning over an island Akela can’t be bothered to remember which is right now says. But she just waves him away.
+
+“She’s already far exceeded her quota,” Ake says without raising her head from the map of crossed out islands. “Possibly even a little too much.” She raises her head with a wry smile on her face. “Honestly, if she were to ask me right now to just let her do what she wants for the rest of her contract I’d let her.”
+
+The girl has already cleared out over twice as many enemies as the quota she was given. In a little over a seventh of the time given.
+
+Ake knows that the young woman is a Horseman of the Apocalypse, but she couldn’t believe that a level twenty-five was strong enough to help them in the war to this extent. She even felt a little bad for how large a quota she gave her at first, only quashing that feeling when remembering that Aria is a Horseman of the Apocalypse.
+
+A boogieman for the entire universe. Someone on the same level as the three people used to scare kids into behaving by their parents.
+
+And yet…
+
+Ake’s thoughts come to a halt when her phone rings, making her reach into her pocket to grab the newer model of phone in her pocket before raising it to her ear to speak. Totally not feeling jealous at all about the highly advanced phones the Horseman and her group have.
+
+Although their trade starting soon with the Eternal Dynasty should help in that.
+
+“We have trouble Ake,” Kekoa’s voice comes in over the device right away. “The Clan Leader of the Frost Clan has just crossed into Arian.”
+
+Ake feels herself tensing up immediately at that. And so do all of the other people in the room whose hearing has been enhanced with their levels over the years.
+
+“And did he…” Ake begins, almost feeling too scared to ask.
+
+“He did,” her second in command grimly answers. “The Clan Leader has begun summoning the undead all over, from all of the fallen vanguard and our own Ability Holders.”
+
+“I thought he was still recovering!” one of the tribe chieftains exclaims, and Ake can’t blame him. Since she thought the same.
+
+After the strongest warrior amongst them, Ake’s father, fought with their Clan Leader, they believed both of them to be out of commission for the remainder of the war.
+
+But now the Clan Leader has apparently returned well enough to resume his operations.
+
+Ake thinks back to the dozens of islands currently overrun with undead. The result of any attack led by the Clan Leader.
+
+She raises her head to look at the others, a grim look on it, only to look back down at the map again.
+
+At this rate, we’ll begin losing the progress we’ve retaken. We simply don’t have anyone to fight against the Clan Leader. Not after the other fighter was injured as well fighting against one of their Clan Chiefs. Their strongest Chief.
+
+Ake grits her teeth, finally beginning to lose her composure.
+
+She knows exactly what she has to do, but she doesn’t want to do it.
+
+“Ake, think of the tribe,” another tribe chieftain says, making Ake grit her teeth harder.
+
+But she eventually just nods her head and says, “Very well.” Then she looks up, a determined expression on her face. “Tell the Horseman of the Apocalypse, Death, that if she is able to kill the Clan Leader of the Frost Clan, she will forever have immigration rights to our world and may stay here and go whenever she wants. Tell her it’s directly from me.”
+
+All of the chieftains quickly nod at that in agreement, only for Ake to pause and add, “And tell her she can have as many explosives as she wants too.”
+
+That gives the chieftains pause as some of them remember the rather extensive damage the young woman has caused with those explosives already. But even they eventually give in and agree that it would be best.
+
+Ake looks down at the map again with a grimace.
+
+I hope she’s ready for this. And I hope she won’t be captured in the process.
+
+Aria
+
+I stretch as I make it to my lovely abode and stand in front of the window looking out over the edge of the island.
+
+The flight here didn’t take too long. Just a day or so. But now my vacation will finally be-
+
+My phone starts buzzing, making me glance at the door, which is where the alarm is set. And only seconds later, a soldier of the tribe knocks on my door.
+
+“Come in,” I tell them while turning to look out the window again.
+
+Such a nice day for a vacat-
+
+“Lady Death, we have come to give you new terms for your contract should you be agreeable to them,” the soldier says, halting my thoughts in an instant as I turn to look at him with a brow raised. “If you can kill the Clan Leader of the Frost Clan for us, the Kahuna has declared that you’ll have fulfilled your contract and will be given immigration rights along with what was previously promised. You may stay here for as long as you like and leave whenever you please.”
+
+I blink at that.
+
+“The Clan Leader?” I ask with a frown.
+
+The man nods his head and repeats, “The Clan Leader.”
+
+“The guy who is supposedly level six hundred and one with a Class S necromancy ability?” I continue, my frown growing a little deeper.
+
+Once again, the man nods his head and repeats, “The level six hundred and one necromancer.”
+
+Silence fills my room for several seconds.
+
+“Wasn’t he supposed to be out of commission?” I ask while finally turning around fully.
+
+“That he was,” the soldier answers without saying more.
+
+I feel like this conversation isn’t really going anywhere.
+
+“So…” I trail off before tilting my head, “…why isn’t he out of commission anymore?”
+
+The soldier – who’s wearing the same outfit as all these arians – says with absolute confidence and what feels like too much assurance in his voice, “We have no clue.”
+
+The silence returns again.
+
+“Oookaaay then…” I mutter, feeling a little like rubbing my temples despite not being capable of getting a headache. “Tell her I’ll look into it.”
+
+He nods his head and leaves my room without another word, closing my door behind him.
+
+I stare at the door for several seconds before turning back to my window again. Then I just stare out the window for a bit.
+
+Eventually my phone rings, making me pull it out to find that it’s from Hannah. So I answer it.
+
+“Hey, Aria! Since you’re going on vacation for a bit, do you want to go check out the-” she starts, but I interrupt her before she can finish.
+
+“I just got an update and am going back to the frontlines again,” I tell her rather blankly. “The Clan Leader is back.”
+
+Silence. Once more.
+
+Lots of silence filling my room today.
+
+“Oh,” she mutters, sounding disappointed.
+
+“On the bright side,” I add with a slight quirk of my lips, “I was promised immigration rights and the end to my contract if I succeed in killing or dealing with the guy.”
+
+“Oh,” she mutters again, sounding a little happy about that this time. Despite saying the same thing.
+
+“But I probably won’t be able to hang out with you for a bit, and I’d rather you not follow me for this,” I tell her the bad news. “He’s too strong and it’d be too much of a risk.”
+
+Silence.
+
+“Oh,” she mutters, once again disappointed.
+
+I pull my phone away from my face to stare at it for a second, only to put it next to my ear again and tell her, “Well, take care. I’m gonna be staying here for the night then heading out in the morning.”
+
+She doesn’t say anything, so I just hang up after several seconds.
+
+Then I close my window and head to the shower.
+
+So much for vacation.

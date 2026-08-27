@@ -1,0 +1,151 @@
+---
+id: eae47000-2df6-509c-9fd5-9d8960b765bd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 66"
+slug: 0067-chapter-66
+partOf: death-healer
+position: 67
+ownLength: 1844
+unit: words
+publishedAt: 2025-08-23
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2542099/chapter-66"
+royalRoadId: "2542099"
+---
+
+Sabinus reined in his mare at the edge of the overgrown lane, where the dead grass and nettles tangled around the rusted gate. The abandoned villa loomed beyond, its crumbling walls rising out of the Dead Lands like the ribcage of some ancient beast.
+
+Every window stared back at them, blind and hollow. Moss clung to the stonework and the scent of decay drifted through the stagnant air.
+
+Lily swung down first, boots crunching on broken gravel. She looked up and scanned the upper windows, letting her eyes adjust, and waited for Sabinus to dismount. The sun had dipped low behind them, and a silvery haze clung to the ground, muting the world into shades of gray and bone-white.
+
+Sabinus pressed his lips together, watching the ruined house.
+
+He hesitated. “You said your mother mentioned something about this place—a mirror, right?” He kept his tone light, but she heard the uncertainty underneath.
+
+She shook her head, glancing at the weeds knotting through the stonework.
+
+“All I know is what you told me my mother said. She said there was a mirror here. I have no idea about anything else. No secret passages, no escape tunnels. Just a mirror. That’s all I’ve got myself.”
+
+He scanned the tree line, wary, and checked the pommel of his sword.
+
+“Nothing else? Does a mirror say anything to you?”
+
+I won’t tell him about the Great Skill.
+
+She shook her head again and stepped past him.
+
+“That’s all. If there was anything important, I would’ve said so.”
+
+Sabinus accepted this. He squared his shoulders and followed her to the gate. They pushed through the iron bars and made their way through the dry, waist-high grass that scratched at their legs. They both checked for movement, for the glint of eyes in the undergrowth, but nothing larger than a bug appeared. Still, Lily felt the heaviness in the air. The Dead Lands always pressed down on her, filling her with the expectation that something would crawl up from the roots and grab her by the ankle.
+
+They reached the villa’s crumbling wall and followed it until they found a break. The stone had collapsed long ago, leaving a gap wide enough for two people to pass. Inside, weeds and wild mint had claimed the gardens. A pair of headless statues stood crooked on their pedestals. The path curved past a bone-dry fountain where lily pads grew in the mud, and where something that looked like a human jawbone rested at the bottom.
+
+Sabinus made a face and kept walking.
+
+“This place is worse than I thought.”
+
+She nodded and scanned the shadows.
+
+“We need to check for Undead. If anything powerful is here, we don’t want to get surrounded.”
+
+He grunted and drew his sword, but as they made their way through the ruined courtyard, only a handful of shambling corpses stumbled into view. Their skin stretched thin over their bones, and their eyes glowed with a faint, hungry light. None of them looked above Level 10. Sabinus dispatched of them in an instant.
+
+Once they made a circuit and confirmed there were no threats outside, they moved through the breach in the outer wall. The old stone had collapsed under the roots of a twisted yew, so the path into the grounds had become overgrown. Thistles and dead nettles reached up to Lily’s knees. She stepped carefully, feeling the crunch of brittle stems under her boots.
+
+Sabinus said, “We should be careful inside. I don’t like the feeling of this place.”
+
+She nodded. The moment she stepped through the broken archway, she felt a chill. The grounds inside the wall had once been a garden, but now, only a cracked fountain and a line of toppled statues marked the center. Half-buried in dirt and debris, Lily noticed a familiar curve of stone at the base of the fountain, which made her throat tighten. She tried to ignore it, but the sense of recognition grew with every step.
+
+They stopped before the villa’s main doors, which had rotted and sagged off their hinges. The facade was the same style as every noble house Lily had ever seen—broad steps, high columns, cracked plaster, and ornate carvings now worn almost smooth by the years. The sense of déjà vu grew stronger. She felt as if she had come home after decades away, only to find her childhood memories haunted and sour.
+
+She whirled and looked back, finally realizing where this feeling was coming from.
+
+“This place—it’s the same of my home. It’s literally same. The statues, the fountain, the garden. Only a few details are different, but… that’s probably something that was changed recently. Why is it identical? This is creepy.”
+
+Sabinus frowned and nodded.
+
+“Are you sure, though?”
+
+Lily nodded.
+
+“Well, let’s enter.”
+
+Sabinus moved to step inside, but Lily stopped him with a raised hand. “Wait. Before we go any further, let me check for traps or enchantments. There’s too much Death Mana in this part of the Dead Lands for me to feel comfortable.”
+
+He nodded, stepping aside while she focused. She closed her eyes, took a breath, and activated her ocular Skill. The world shifted. A web of Mana lines, visible only to her, stretched from the villa’s doors and wound through the entire building. The Death Mana inside was so dense that it seemed to pool and swirl like black water in every hallway and corner.
+
+She opened her eyes and said, “There’s an immense amount of Death Mana inside. More than I’ve ever seen. It’s concentrated in the heart of the villa. I don’t sense any powerful Undead outside, but I don’t trust this place.”
+
+Sabinus shifted his weight from foot to foot, looking uneasy. “Should we go in?”
+
+“Wait, let me check something.”
+
+She went to the place the mirror was situated back in the villa in Lumina, but found nothing, not even the mound of earth that was supposed to be there.
+
+“Nothing. Let’s just go in.”
+
+He nodded, his face set. “We go together, then. No wandering off.”
+
+She agreed and stepped over the threshold. The entry hall felt wrong in ways she couldn’t put into words. Every arch and corridor matched the villa where she had grown up in Lumina. The same checkerboard marble, the same broad staircase, the same scuffed balustrades—every detail felt copied with the precision of a madman. The air stank of old incense and dust, and every time she turned, she half expected to see a servant carrying a tray or her mother’s voice calling from a distant room.
+
+Sabinus checked every doorway with his sword ready. The silence stretched. Nothing moved except the dust.
+
+She moved through the first hallway, expecting the same decoration of her home for some reason.
+
+But here, in this twisted copy, there was nothing but a pale patch on the wall, where something massive had once hung. The rest of the wall was mottled gray and black from smoke.
+
+Sabinus stopped in a ruined library at the end of the hall. He crouched and picked up a heavy tome, brushing cobwebs from the cracked leather cover. The book had been half-eaten by mold, and most of the pages crumbled at his touch.
+
+He squinted at the cover and tried to read, but the script meant nothing to him.
+
+“This is gibberish,” he said, holding it up.
+
+She took it and ran her fingers over the faded words. When she focused, the letters seemed to rearrange themselves, twisting into shapes she recognized. She read out loud, “Histories of the Gens Claudia.”
+
+The weight of the name hung in the air.
+
+“How did this even survive here this long?” she wondered, turning the book in her hands. She didn’t finish the thought.
+
+A bone-chilling wind swept the room. The shadows thickened, gathering in the far corner. The air pressed in on her chest, cold as winter. A figure phased through the cracked plaster, moving without sound. It stood as tall as the ceiling, a ghost in blackened armor, trailing wisps of smoke and the stench of old blood. Its eyes burned like dying stars. It carried a sword that shimmered with darkness, longer than Sabinus was tall.
+
+Sabinus shouted, stepping between Lily and the apparition.
+
+“Lily, run! That thing is above Level 200!”
+
+The Death Knight drifted forward, its steps leaving no mark on the ground. It lifted its sword and pointed at them, but Sabinus did not flinch. He tightened his grip on his weapon and squared his stance.
+
+Lily screamed his name and tried to channel Life Mana, but before she could react, the Death Knight’s hand shot out. Its grip closed around Sabinus’s arm.
+
+Instead of burning or corrupting him, the way most Undead would, the ghostly hand passed through flesh and bone without resistance. Sabinus’s body jerked, his mouth open in a silent shout, and the Death Knight began to sink into the floor.
+
+“Sabinus!” Lily’s voice cracked as she lunged forward, swinging her sword at the Death Knight’s helmet. The blade passed through it as if slicing through fog. The Death Knight did not even look at her.
+
+She channeled every drop of Mana she could muster, trying to break the spell, but her blows did nothing. The Death Knight’s eyes flickered. It dragged Sabinus down with it, the floor swallowing them both as if they were falling into a pit of darkness.
+
+Lily fell to her knees, pounding the ground, but the only answer was silence. The ancient villa shuddered, and the room fell still.
+
+Sabinus was gone.
+
+* * *
+
+Lily, not knowing what else to do, clenched her teeth and, despite being terrified, ran to where her room.
+
+Something inside her—her intuition perhaps—told her that the answers would be there.
+
+There, she found another ghost.
+
+A woman, though, not hostile.
+
+The woman looked royal, with long blonde hair and a crown of faded gold set askew on her brow. Her gown trailed tatters of white and blue silk that shimmered with cold light, and her face was familiar—so familiar that Lily’s breath caught in her throat. The ghost watched Lily with eyes that seemed to burn with the same stormy blue that she had inherited from her own mother.
+
+The ghost did not attack. Instead, she drifted near the frost-rimmed window, her hands folded in front of her as if she still waited for someone to return home. Lily approached slowly, every muscle braced for violence, but the apparition did nothing except regard her with a look that mingled sorrow and fierce resolve.
+
+Lily stood her ground, gripping her sword until her knuckles went white. “Who are you?” Her voice did not rise above a whisper, but the words hung in the frozen air.
+
+The ghost’s gaze sharpened as if she had waited years to hear that question.
+
+“It took a while for me to awaken. You’re my heir, aren’t you?”
+
+“What?”
+
+“Let me introduce myself,” the ghost smiled, “and to whatever power awakened me. I am the first matriarch of the Gens Claudia, Claudia.”

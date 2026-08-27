@@ -1,0 +1,117 @@
+---
+id: 93132179-ee7f-54bc-9ffe-aecaea6ad448
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,359 - Besieged"
+slug: 0035-chapter-1359-besieged
+partOf: defiance-of-the-fall
+position: 35
+ownLength: 2977
+unit: words
+publishedAt: 2025-09-28
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2635945/chapter-1359-besieged"
+royalRoadId: "2635945"
+---
+
+A ripple coursed through Zac as he passed the Gates of Transformation, and the mysterious world behind him vanished in a flash of silver. The last thing he saw was a thousand rivers being drawn from hidden folds of reality and fused into the river he had traversed. One trajectory had been set, invalidating countless others.
+
+There were no signs of the Peregrine Ocean’s argent waters on the other side of the gates. Sprawling ruins spread out before him, holding multiple memory domains and unfamiliar spatial fluctuations. The sky was illuminated by four enormous halos. Zac realized he was inside the Mercurial Court's pillar, confirming that he had successfully crossed the Peregrine Ocean and returned to the real world.
+
+"Wha—where—" a drowsy murmur came from the Shrine of Kanba.
+
+"We made it. Please watch me," Zac urged as he flew—or rather fell—toward the closest building.
+
+Zac's condition was far worse than he had expected, and the lacerations left on his body by the deadly ocean winds were the least of his worries. The real threat came from within. Despite monitoring the gondola over the past decade, he had not been able to observe the state of his real body. By the time he ignited his Dao Heart and broke through the illusion, he was too hopped up on Fate and Void to notice the problem.
+
+Even the Void Emperor's insatiable hunger was suppressed by the complex mesh of terrifying energies permeating his being. Part of this energy came from the powers of rebirth he'd stolen on his way out. He'd managed to snatch a few slivers before the astrolabe crushed his Void Vortex with overwhelming prejudice.
+
+These mysterious threads had been deposited directly into his personal Void. While the energies weren’t much stronger than Early C-grade—which was the only reason he dared to snatch a handful—they were extremely refined. They resembled Heavenly Lightning in that they seemed to possess an innate will. The energy was trying to escape through the gates at the bottom of his cells, with slivers already slipping past his defenses.
+
+All that was within Zac's expectations when he came up with the idea. What he hadn’t anticipated was his human half being in a comatose state and under attack from overwhelmingly powerful Daos. It felt as though the Heavenly Dao had launched a siege against him, with the battle stretching from his Soul Aperture to his Cosmic Core’s Quantum Space.
+
+Zac’s Draugr side wasn’t spared the attention. In fact, he sensed that his human side had opened a passage through his Quantum Spaces. There was undoubtedly a note waiting inside [Purity of the Void], outlining the necessity of replicating the winning strategy that got him through the Tribulation Throne.
+
+He couldn’t even be angry at his human side for being such a troublemaker, especially considering he was currently doing the same thing. Zac could only play the hand he’d been dealt and join the resistance against the foreign truths attempting to recast him in their image. The first step was understanding the enemy.
+
+The densest accumulation that shifted to his Draugr body consisted of streaks made from the extremity of Death. It wielded such absolute authority that it seemed capable of transcending time and space. Zac immediately recognized it as the Primo’s Dao, thinking it was no wonder that Human Zac had transferred the bulk of these Supreme Dao echoes to his undead body.
+
+Even so, the main reason his foundations remained intact was that Death hadn’t arrived alone. The Primo’s death was primarily contained by the boundless Life that gave the cosmos its shape and purpose. This was the Authority of Life, controlled by the Order of Fertile Earth and wielded by Roan.
+
+Zac’s human side must have failed to expel the opposing forces, turning his bodies into a battlefield. He was attempting to have the conflicting forces wear each other out while maintaining equilibrium. When one Dao grew too strong, more truths would shift from the other body. Interestingly, this was done with the help of fading streaks of Chaos that filled Zac with an unexpected sense of intimacy.
+
+In addition to Supreme Life and Death, there were also two camps locked in a battle over the meaning of the Inverse Peak. His human side clearly had a much harder time manipulating these unfamiliar Daos. The reason he hadn’t been destroyed by the struggle was a warm, comforting energy permeating his bodies.
+
+The energy resembled Roan’s Fertile Earth but was slightly different. It weakened the Supreme Daos while granting Zac the strength to keep fighting. He felt as though he were receiving the blessing of a million people, but it was only just enough to keep his head above water. His human side must have been stalling for his Draugr half to emerge from the Peregrine Ocean and help out.
+
+The vastly improved Dao Heart that Zac brought out of the Peregrine Ocean would have been the perfect tool to turn the situation around—if the clashing Daos were the end of his troubles. The quantum gates had initiated the mother of all reconnections after he returned to the original timeline. This time, it wasn’t just a few days that needed to be fused into one cohesive experience; a lifetime’s worth of new memories was already overloading his mind and undermining his efforts to deal with his other issues.
+
+Decades of accelerated Heart Nurturing were only enough to hold onto a thread of consciousness. Zac crashed onto cold, hard ground, joining his other body in desperate struggle. He lost his perception of the outside world within a second, thanking his lucky stars Esmeralda had made it through. She’d realize he was busy and keep him safe, allowing him to focus on his problems.
+
+The first thing Zac did was rekindle the hunger of his Bloodline. His Void Emperor bloodline had awakened with surprising intensity when he took the timeline’s essence for himself. Zac assumed it was because of the Four Laws and Destiny had triggered his hunger, now realizing it had already been agitated by the delectable morsels of Supreme Dao.
+
+Zac needed his bloodline to keep fighting. Even nibbling at the corners of the invading Daos would lessen the pressure. Keeping his bloodline in a berserk state was also the most effective way to keep the astrolabe’s power trapped in the depths of his Personal Void. Zac had seen how that mysterious space refined anything that entered. The longer he kept the power of transformation imprisoned, the more he’d get to keep to himself.
+
+His heart thumped with purpose, and the purpose was assimilation. The Void was all, and all was the Void. Instead of fighting the hunger as he usually did, he nourished it and pushed it to greater heights. Meanwhile, Zac used his last threads of clarity to frantically sift through his human half’s memories. The better he understood the situation, the more effective a counter he could devise.
+
+Two vastly different sets of memories were already in the middle of integration. One was short, the other lasted a lifetime. What his human side’s experiences lacked in length, they made up for in grandeur. Zac was aware his other half would have dealt with Mox by now, and he’d taken the Peregrine Ocean’s trial progressing smoothly as a sign the plan worked. The reality surpassed his expectations.
+
+To think three Supremacies had joined hands to suppress Mox, including the Primo of the past. Zac couldn’t imagine Mox surviving the ambush. If she somehow managed to escape, she would be adding as much distance from the Left Imperial Expanse as humanly possible. Unfortunately, being exposed to the clash between Authority and Heavenly Territories had proven more dangerous than he expected.
+
+Zac also realized the battle took place over two weeks ago, and his human side had been fighting the corrosion since. Was he still inside the Evi’Shi shelter’s memory domain? No, if he were, the quantum link wouldn’t have been reestablished. Had Roan followed him out? And where was ‘out’? Zac tried and failed to extend his perception around his human side. There was only darkness.
+
+There was no time to worry about the details. He’d survived two weeks, so it had to be a safe place. Zac needed to leverage his latest gains and deal with the problem. Otherwise, he’d eventually run out of energy and return to waiting for the foreign Dao to tire itself out—a process that could take years and relied on Roan replenishing his energies.
+
+The problem was, the real world and the artificial timeline weren’t the same, and his Dao Heart couldn’t affect reality nearly to the same extent on the outside. He needed to relearn how to use the power in the real world. Luckily, Zac quickly found an alternative solution in the forced reintegration of his memories.
+
+Instead of skimming through the endless memories of his years on Greenworth Trade Street, Zac delved deeper. He relived a day every second, savoring the experience and truly making it his own. Doing so stabilized his mind and drastically lessened the influence of the Supreme Daos. Soon enough, it wasn’t just about survival; it became a journey of discovery.
+
+Zac was reexamining his life through the eyes of a cultivator, occasionally under the light of perfected Daos close to his path. Dao reaffirmed the heart, and Heart illuminated the Dao. Even as a mortal, he’d witnessed countless aspects of Life and Death during his life. He’d even experienced true death for a moment—an experience that even undead cultivators lacked.
+
+The Heavenly Dao wielded by cultivators was not the only facet of the Seventeen Peaks.
+
+Didn’t Life and Death exist in the shallows, on the frontier? Didn’t the cycle of Life and Death continue during the Dark Ages? The System’s awakening was only a calamity for cultivators. The inviolable truths that formed the cosmos were unaffected. Life didn’t need energy or spirituality to exist. Hiding from the Heavens wasn’t enough to escape Death. If it were, then Mox wouldn’t have been forced to extract longevity from suffering and accumulate such vast sin.
+
+Consciousness started with life and ended with death. This was an inviolable law hardcoded into all beings. Zac had heard people talking about using “Dao as Law,” generally as a domain of those at the top of the pyramid. He’d seen it, like when the Threaded Hell’s Realmlord replaced even the Heavens with his Dao of Death.
+
+Zac had been exploring ways to broaden the scope of his Daos, and his search was finally bearing fruit. He was still far from reaching the levels of Dao taking on the characteristics of Law or replacing all other concepts with his own. However, understanding a part was enough to illuminate the path forward.
+
+Years passed in the blink of an eye, each passing day bringing him closer to his answer. He could vaguely feel his bloodline raging in the background but could only occasionally stoke its fire to keep his epiphany going. The Supreme Dao was gradually whittled down by a Mortal Heart, and Zac’s Daos of Life and Death simultaneously grew more extraordinary and mundane—a paradox inherited through chaos.
+
+His Dao of Life was an enduring cycle that fought against the fetters of Destiny. He was also a mortal, something he’d been constantly reminded of since the first days of the integration. Yet he was still among the strongest in Zecia, now a main contender in a powerful trial.
+
+Cultivators rose and fell, and even ancient heritages were eventually eroded by the test of time. However, mortals had endured from the earliest days of the era until the present. Their individual lives were short and uneventful. Even so, they’d outlasted the Primordials and outlived the Limitless Empire. Mortals would be among the last ones standing when the Dao collapsed and the Era ended.
+
+His Dao of Death was an unceasing void that exerted control over the fetters of Destiny. Mortals were cursed with short lifespans and constantly fought against its restraints. It was this inborn struggle for more that gave birth to the path of cultivation. A few managed to seize longevity and set out on the path of immortality. Death was the great equalizer, and neither Supremacies nor mortals could avoid it.
+
+Zac eventually felt his bloodline retreat with reluctance. He let it. The foreign Daos had been weakened enough for him to deal with it himself. Days kept flashing by until he finally reached the end. The last thread of Life snapped, and he slumped toward Helisent lying in her bed. The memories were digested, Daos were incorporated, and the path forward was open.
+
+Two sets of eyes opened. Despite being blocked by ceilings and layers of soil, Zac could see the Heavens waiting above. Wasting no time, Zac brought out sets of Dao Treasures and bit down. The missing ingredient was in place, and the sky rumbled as vast Tribulation Clouds descended. Zac was relieved to see it stay within reasonable bounds. He could do this.
+
+The first bolt descended, illuminating the world with angry red. The fused wrath from simultaneous breakthroughs destroyed all barriers before crashing into his bodies, spreading from head to toe in search of stolen insights. The pain swept away the last of the mind fog. Zac immediately noticed quite a few internal changes, but dealing with the tribulation came first.
+
+The Tribulation Lightning’s first bolt wasn’t at the level it could threaten his life, so he sealed [Void Heart] with a thought. The Hidden Node, which often seemed to have a will of its own, followed the command smoothly and without complaint. Zac knew it was thanks to his Heart growing stronger.
+
+It gave Zac more leeway to focus on the actual breakthrough. The tribulation didn’t exhibit the unhinged destruction he faced when advancing his Cosmic Core, but that didn’t mean he could relax. Zac strained his mind to its limit as the boundless lightning poured into his Soul Aperture, targeting his Dao Avatars.
+
+Zac’s method of advancing Daos was fully reliant on absorbing the Dao from treasures. Those treasures were bound to have truths of their own, and the further he advanced, the harder it got to find Dao Treasures perfectly matching his needs. Zac sensed each body would need to eat at least five Dao Treasures, and he’d have to work much harder at ensuring only his own insights were included in the breakthrough.
+
+This time, Zac also had Supreme Daos lurking in the back of his mind. The streaks of the Primo’s Death and Fertile Earth’s Life might be gone, but their profound truths lingered. Thankfully, his body was in near-perfect condition, and his Dao Heart was more than up to the task. The Tribulation Lightning even became an eager helper in extinguishing the heterogeneous insights. The insights connected to Reborn Life and Sealed Death were protected by Zac’s will, while the rest was discarded, echoing the sentiment of his Void Road.
+
+The Dao Avatars barely had time to endure the first round of lightning before a second bolt descended. It opened angry scars through Zac’s body, and he stumbled with a grunt. However, he smoothly consumed a second set of Dao Treasures along with a set of Healing Pills. The heaving clouds kept going, unleashing a third bolt. By this point, Zac sensed a hint of the Four Desolates in the lightning’s center.
+
+It was nowhere near the level of his Core Breakthroughs, but it still wasn’t something he was ready to face head-on. The Void enveloped him, and [Void Mountain] inverted into existence. Both bodies moved in perfect symmetry as he punched the incoming bolt with a roar. Weakened by [Void Zone] and drained by [Void Mountain]’s Dao-annihilating seal, the third bolt didn’t even carry as much energy as the second upon entering his body.
+
+However, the Four Desolates remained, and the Four Laws caused far more destruction in their wake. Zac staunchly endured it, his eyes never leaving the clouds. A fourth bolt was forming, and he was happy to see it would be the last. This one was both the most dangerous and the safest. As in previous breakthroughs, Zac released his hold on [Void Heart], and the final bolt was reduced to a snack.
+
+Zac smiled. It wasn’t often he got to perform such smooth breakthroughs. It was as though the Heavens took offense to his arrogance and sent trouble his way. His Draugr body was suddenly grabbed by the cuff and yanked away. Zac’s heart lurched, only relaxing upon realizing it was just Esmeralda.
+
+The toad’s tense expression made him hold his questions and ready himself for a fight. The surroundings turned into a blur, and Zac felt them pass through something akin to a spatial gate before being thrown onto the ground.
+
+“What’s the matter?” Zac asked with confusion at seeing Esmeralda’s heaving breaths and burning eyes.
+
+“You—!” Esmeralda wheezed, taking a calming breath. “I’ll deal with you later. For now, please try not to cause any more trouble before I’m back.”
+
+Esmeralda disappeared the next moment, leaving Zac looking like a question mark. A deep rumble from his stomach made him realize three more days had passed. The sound also made him recall that his Void Emperor bloodline seemed to have been raging for quite a bit of that time. With a sinking feeling, Zac pieced together the clues.
+
+The Void had spent days trying to devour the invading Daos, only to be rebuffed. Because of his growing hunger, he must have turned his attention outward. He knew all too well what kind of commotion his bloodline could trigger. Esmeralda was probably busy putting out fires or diverting enemies. What was worse, her hard work was for nothing. A dull ache hid behind the tribulation’s crackling pain.
+
+He’d inadvertently attempted a bloodline evolution, and he’d failed.

@@ -1,0 +1,149 @@
+---
+id: c1540bf0-58fd-5167-8df3-ad815b243f61
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,442 - Time and Space"
+slug: 0123-chapter-1442-time-and-space
+partOf: defiance-of-the-fall
+position: 123
+ownLength: 2806
+unit: words
+publishedAt: 2026-08-04
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3769657/chapter-1442-time-and-space"
+royalRoadId: "3769657"
+---
+
+The dimensional gate was one of, if not the, most unimpressive timelines represented inside [Second Singularity]’s inner realm. It was small, pushed out right to the edge, and it barely retained any territory of its own. It was no wonder it had taken Zac a day to notice it. Sensing the familiar trace made the memories he’d safeguarded in his heart come rushing back.
+
+Greenworth Trade Street, Whitfall. Having drinks with Beene, watching Helisent grow up. Festivals, disasters, the beast tide that took away his home. Moving in with Helisent’s family and spending his autumn years in their manor. How much time has passed since? Maybe time hadn’t moved at all since it was connected to the Omnipresence Chamber.
+
+For now.
+
+While the situation remained chaotic, clear winners and losers had begun to emerge among the timelines. Some had managed to double their territory and more, their auras growing more intense. Other gateways found themselves pincered between stronger domains and were losing ground despite Zac constantly freeing up space. It was only a matter of time before timelines would start getting ejected on their own, and Zac feared his own would be the first to go.
+
+Could it be his fault? Had his visit drained the timeline of some of its potential, or was it the result of his actions at the end? The trial had given him a choice between a Mortal Heart and a transformation of Law, and he’d chosen both. Whatever the case may be, he couldn’t bear to see his timeline get swept away when he could do something about it.
+
+Zac changed course to target one of his timeline’s most overbearing neighbors. One by one, the runes snapped until the patch of silver water was ejected from the realm. The foreign timeline’s claim on the area faded, and Zac breathed out in relief. While most of the real estate had been claimed by enemies, his own timeline had managed to stabilize and erect a small perimeter for itself.
+
+When the commotion calmed down, he picked another neighbor. Zac wasn’t sure if his actions made any difference. All the timelines would have to go before they were done, so it could very well be a delay of the inevitable. Still, it couldn’t hurt. Both timelines he’d picked were previously connected to August’s gateway. After that, Esmeralda said that the order wouldn’t matter much. Protecting his territory to the end might give it some sort of advantage.
+
+“You can take a break now,” Esmeralda declared a few hours later.
+
+“There are still over a thousand timelines left,” Zac said as he flew over to her side.
+
+“It’s fine. All the corruption is gone, so there’s no point in me waiting any longer. It’ll take time to fully integrate this thing, so you’ll have more than enough time to finish up while I work on it from the other end,” Esmeralda explained. “We just need to let things cool down a bit and place it inside the lodge.”
+
+“Should we leave?”
+
+“Why would we?” Esmeralda countered.
+
+“How are you supposed to put the treasure inside the lodge while the lodge is inside the treasure?” Zac asked with a raised brow.
+
+“A simple paradox, nothing too complicated,” the toad asserted. “Just watch me work my magic and try not to die. Things might get a bit rough while I reposition it.”
+
+“Uh,” Zac said, glancing in the direction of his timeline.
+
+“Don’t worry, I’ll keep your pet reality safe,” Esmeralda snickered, rolling her eyes when Zac looked back in surprise. “Do you think I’m blind?”
+
+“Sorry, I spent eighty years in there. It’s hard to let go,” Zac said. “I won’t let it affect your work.”
+
+“I get it. I used to carry around a few realms from my youth during my travels.” Esmeralda waved her hand. “It’s fine. Just follow your heart. Who knows, keeping it around might lead to some interesting outcomes. This whole trial is about letting you Sealbearers cause a stir.”
+
+Zac got a much-needed rest over the next hour as they waited for the patches of silver water to settle. The gateways never returned to the relative tranquility of when they entered, but they did reach a state of fraught equilibrium.
+
+“Good luck,” Zac solemnly said.
+
+This was the point where Esmeralda succumbed in Sevona’s vision. The situation looked much better this time, but Zac still couldn’t help being worried for his friend and mentor. No matter what, Esmeralda was about to form a bond with an A-grade treasure. It had to be an extremely dangerous endeavor, and that was before accounting for the temporal treasure sealed within the depths of her body.
+
+“I’m prepared and I have no regrets,” Esmeralda said with a smile. “You’re a good one. No matter what happens, I hope you don’t let the world steal it from you. The Cosmos is only as cold and lonely as you make it, and those who only look out for themselves rarely meet a good end.”
+
+“So mushy,” Zac joked, pushing down the bitterness in his throat. “You’re going to be all embarrassed after we’re done.”
+
+“Just get out of here,” Esmeralda huffed.
+
+Zac flew back to the inner realm’s edge, not so coincidentally placing himself in front of his own timeline. He watched with bated breath, waiting for Esmeralda to start. Suddenly, his heart caught in his throat. A pitch-black sphere more than a hundred meters across had appeared out of nowhere, swallowing Esmeralda whole.
+
+Had Esmeralda made a mistake, causing [Second Singularity] to expand? His hand trembled with indecision and futility. There was simply nothing that could be done. Zac couldn’t even look at the sphere directly, let alone extract someone trapped inside. He could only pray that it was part of Esmeralda’s plan.
+
+A sudden pulse threw the inner realm into chaos. The timelines were forcibly reorganized without order, occasionally clashing with disastrous consequences. A hundred realms were ejected in the span of a few seconds. Zac’s timeline wasn’t among them, and it wasn’t because he was desperately channeling [Void Zone] to impose a semblance of order on his immediate surroundings.
+
+A wall of Spatial Energy was pushing down on Zac’s sector, making it harder for the dimensional gates to move about. Seeing it was a huge weight off Zac’s shoulders. It proved that Esmeralda was still in control. Shortly after, a burst of exquisite Spatial Dao popped the pitch-black sphere like a bubble.
+
+The space previously occupied had changed. Instead of the nauseating conflux of clashing timelines, it held the vibrant mist full of spatial potential they’d seen outside. Floating in its center was a miniature of Sevona’s Hunting Lodge. There was no sign of the pinpoint dot representing [Second Singularity], indicating it had been successfully moved inside.
+
+Beneath the lodge was an alabaster toad with faint purple markings. It was small enough to fit in a teacup, and it wasn’t the result of spatial manipulation. The little toad was inconceivably weak, barely qualifying as a spiritual beast. There was no way she would have survived in the spiritually enriched environment if not for a set of protective runes shielding her from the mist.
+
+Zac knew he was looking at Esmeralda’s true form, or rather her race’s true appearance. She had already told him that Grand Traversal Toads weren’t undead creatures and that her appearance was part of her efforts to trick the [Timescape Loop]. It turned out her plan involved reincarnating one final time to return to her original state.
+
+There was no going back now. Esmeralda was out in the open. A burst of ancient, monstrous time erupted from the little toad, forcing Zac to keel over. Esmeralda’s surroundings were clearly a separate space from Zac’s own, yet the radiance of Temporal Dao pierced through the barriers of reality.
+
+Closing his eyes didn’t help, nor did looking away. A spiral of time appeared, slowly extending in two directions until it twisted into itself like a four-dimensional ouroboros. It took up his whole perception, forcibly expanding it in directions that a mortal mind wasn’t meant to endure. He felt himself going forward and back at the same time, stretching him thinner and thinner.
+
+The Void couldn’t block its intractable pull, and channeling [Warbringer Dharma] did nothing to help. Just as Zac considered entering his timeline as a last refuge, the pressure slightly relented. Two more spirals appeared, starting at the original one’s center. Both were made of supreme Spatial Dao, yet distinct from each other.
+
+One starry stream flowed downward, perfectly matching the temporal spiral’s bend. The second spatial spiral, this one holding boundless potential, mirrored the actions in the opposite direction. One was Esmeralda’s Dao, her true Dao from the height of her glory. The other was the true Spatial Dao stored inside [Second Singularity].
+
+The [Timescape Loop]’s deadly leakage was gradually covered by their combined efforts. Oddly enough, the two streams didn’t meet in the middle. They continued until returning to their origin, at which point the end of Esmeralda’s spiral seamlessly fused with the beginning of [Second Singularity]’s. The same happened with the other spiral, making it impossible for Zac to say whether there were three or two spirals in total.
+
+With the loop closed, Zac could finally open his eyes again. There, three streams had fused into a purple ether that barely emitted any spiritual fluctuations, while an otherworldly shimmer surrounded Esmeralda and the lodge. It was everything, all-encompassing. It held all the answers of the past, present, and future; a dominion that should be reserved for a God.
+
+It was the Dao of Continuum, a Supreme Dao of a complete Dao Peak.
+
+Its beauty and perfection went beyond any Buddhist Dharma, and Zac urgently diverted his attention before it subverted his path. However, looking at Esmeralda was no better. Countless versions of his friend had overlapped in a singular space. It wasn’t like the omnipresence of the Stellar Wanderers; rather, it was a diorama containing Esmeralda’s whole life. The white teacup toad represented the start of her journey, and at its end…
+
+The deep-purple toad was simultaneously the size of a solar system and a mustard seed. Her glowing eyes held spatial storms deadlier than black holes, and the patterns across her body didn’t echo the Grand Dao—they redrew its composition. A whole galaxy was stored in the pouch on her stomach, and eight terrifying spatial wells churned on her back.
+
+The Esmeralda that Zac glimpsed couldn’t be called a beast or even a being. She was a force of nature, she was truth embodied. Whole civilizations could live within her Dao without ever knowing. The display brought up an existential question that his recent breakthrough had broached. What was the “Self”?
+
+With his Cosmic Core and Soul Core located inside the Quantum Space, what exactly constituted Zachary Atwood? He was almost certain he could survive having his head crushed right now, though it would probably hurt like all hell. Did that mean “he” was the three cores floating about inside the Quantum Space? When he stepped into Monarchy, would he become something akin to a Realm Spirit rather than a physical being?
+
+There was nothing physical or mortal about Esmeralda’s projection. She was pure Dao, a fixture of the Heavens. Thankfully, the projection only conveyed a sliver of Esmeralda’s Heavenly Territory, and it only appeared for a moment. She was carefully controlling the streams of time and space to avoid overdoing it. And since her true form was that little teacup toad, she avoided being ejected by the System.
+
+The small white toad didn’t explode from having three streams of Supreme Daos coursing through her body. Instead, her aura rapidly grew stronger, much like Idiche’s transformation back on Lodge Island. The reincarnated Esmeralda blazed through the F-grade in less than a minute, at which point the patterns across her body grew a shade deeper.
+
+A hundred timelines were ejected as Esmeralda’s grip on [Second Singularity] tightened. Still, Zac’s surroundings were completely spared. If anything, Esmeralda’s grip on the realm had grown stronger.
+
+The E-grade didn’t take much longer. A few shimmering stars lit up within Esmeralda’s body every minute, each one representing a node. The seventy-five nodes were joined by nine major stars, together forming an exquisite constellation.
+
+Zac wasn’t the least surprised to see Esmeralda having a full set of nine Hidden Nodes. It was impossible to reach the peak on shaky foundations. He was more interested in how her nodes formed a perfect system when the ninth Hidden Node appeared. He hadn’t experienced anything like that himself. His Hidden Nodes and normal nodes were essentially separate things.
+
+He reminded himself to ask Esmeralda if it was something unique to her bloodline or if it was something that everyone who had unearthed all the potential in their body experienced. It was much harder to open Hidden Nodes in the higher grades, but the Heavens always left a door open. Perhaps it was something worth putting more effort into exploring.
+
+A distant bell chimed as Esmeralda’s aura surged. Three hundred timelines were ejected at once, including the last ones that had any connection to August’s timeline. The storm that followed pushed out dozens more, yet Zac’s surroundings remained safe. The mysterious constellation fused with her body as a star holding bottomless power ignited in her core. She’d successfully stepped into Hegemony.
+
+‘You can start taking out the trash again,’ Esmeralda’s voice entered Zac’s ears, throwing his mind into confusion again. Her words were filled with the Dao, and it took him a moment to reorient himself.
+
+Zac immediately went to work, taking the opportunity to eject the timelines that had drifted too close to his home base. Esmeralda’s power kept climbing over the next two hours, eventually reaching the stage she was before the transformation. Then, she eclipsed it, joining Zac at Peak Hegemony.
+
+There was no need for a warning; Zac had seen what happened each time Esmeralda transcended a stage. He returned to his timeline to set up a protective barrier. An unprecedented storm rocked the inner realm, yet only two hundred more timelines were banished. Those who’d survived this long were battle-hardened veterans with powerful magic circles, and they’d strengthened themselves on the collapse of their enemies. Zac’s own timeline was no different. It had grown significantly stronger over the past hours.
+
+Zac assumed things would continue this way, but he was quickly proven wrong. The ethereal shimmer surrounding Esmeralda disappeared, and the purple spiral faded until it was barely visible. Esmeralda no longer looked like a god of time and space. She simply seemed like an extremely powerful Early Beast Emperor. Even her surroundings were back to the inner realm’s mottled composition.
+
+“Hurry, come here!” Esmeralda urged.
+
+“Huh?” Zac shouted back as he scurried over. “What’s wrong?”
+
+“What’s with that defeatist attitude? Look at me, what could possibly be wrong?” a visibly excited Esmeralda said.
+
+“Yes, you’re very impressive and very pretty,” Zac said perfunctorily, getting a light punch and a scoff in return. “But you didn’t pause the process just to brag, right?”
+
+“So what if I have? I deserve it. Do you know how difficult it is to perfectly balance three supreme forces?” Esmeralda huffed. “Did you consider I might have stopped because I’ve prepared a little surprise for my bumbling protégé? But his attitude is lacking, so maybe I’m better off keeping it to myself.”
+
+“Oh great Esmeralda, your deeds will echo through Eternity. Please forgive this lacking disciple for not immediately comprehending the magnitude of your feats,” Zac declared without missing a beat.
+
+“Not bad, not bad,” Esmeralda grinned before her throat bulged.
+
+The next second, she spat out a shimmering sphere made of extremely compressed energy. While the small black hole undeniably held a heavy helping of spatial energy, it also emitted the untainted purity of the Cosmic Sea. Zac looked at the sphere with incomprehension before it dawned on him.
+
+Zac thought back to the book they found in the skill repository’s hidden cellar all those months ago. Zac had only looked it over a few times since then, but Esmeralda had often taken it out to study during her free time over the past months.
+
+“Is that a Shattered Sky Nucleus?”
+
+“That’s right. I’ve already mastered [Shattered Sky Scripture], so I made one just for fun,” Esmeralda said with a puffed-out chest.
+
+“Congratulations, but what does that have to do with me?” Zac asked with confusion.
+
+“Do you think I’d need something like this? My strength will naturally recover on its own as I continue to unseal the [Timescape Loop],” Esmeralda said with a pointed look. “Since I don’t need it, I made some alterations to the technique.”
+
+“You’re saying…?” Zac said with wide eyes.
+
+“Just infuse your blood and Daos and it’ll be yours.”

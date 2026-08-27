@@ -1,0 +1,155 @@
+---
+id: e46e59b1-76f5-5120-a971-63e5fa650c9b
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 58"
+slug: 0130-b2-chapter-58
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 130
+ownLength: 1585
+unit: words
+ownProgress: 1585
+publishedAt: 2024-03-19
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1560418/b2-chapter-58"
+royalRoadId: "1560418"
+markedReadAt: "2026-06-29T19:17:13.171Z"
+---
+
+Aria
+
+Glad I got that out of my system.
+
+The guy totally deserved that after he vaporized half my body with just his entrance and without so much as looking back at me. Not to mention destroyed my wine glass and spilled my wine.
+
+Rude as hell.
+
+Although the stares coming from everyone around the ballroom are getting awkward.
+
+I just kinda continue sipping the new glass of wine I got while glancing out over the balcony.
+
+Such a lovely view.
+
+Then I notice the fires coming up in the dome city, covering the top of the dome in smoke that is expelled through magic out of the dome.
+
+Huh. Guess the rebellion is happening more than just at this castle.
+
+“Well that rebellion didn’t last long,” I hear Azura mutter, making me glance back, only for chaos to once again rise up in the ballroom.
+
+Then the king and queen suddenly begin subduing every one of the rebels without much trouble now that the powered-up duke is dealt with.
+
+And after they finish that, the king shouts, “Half of you bring the rebels to the dungeons! The other half come with me to the city!”
+
+After his shout, the king rushes over to me, pats me on the shoulder with a slight smile, and then rushes past without a word. Then the queen does the exact same, making me question, just like always, why they do everything in pairs.
+
+I just turn around and watch them go while leaning against the railing, still sipping at my wine.
+
+What was the point of this rebellion anyways? Certainly didn’t last long.
+
+Maybe the duke was just trying to kill himself or something? Or it could’ve been a plot by the Council of Darkness.
+
+Yeah, probably the latter.
+
+Then again, that second potion he was using probably would’ve given him the power to kill the king and queen. Not that I really thought about that when I shot him.
+
+I was mostly just pissed at him vaporizing me and my drink without so much as an ‘I’m sorry’ from the guy.
+
+Oh, and I, of course, devour his soul core. Because it’s worth a hell of a lot of soul energy and I want something back in return for the wine he made me lose.
+
+Anyways, I kinda just keep sitting here at the balcony for a while sipping my wine without a care for the slowly calming chaos around me. And most of the nobles and guards kind of just ignore me. Some thank me, others look afraid of me. Although the captured rebels look pissed at me.
+
+Probably because I ended their little rebellion before it really even started.
+
+Not my fault though.
+
+It’s their duke’s fault for what he did.
+
+After a while, Sel and Little Blue join me, having finished whatever duties they were given.
+
+“So…” Sel begins, looking rather awkward. But she just ends up snorting in amusement before chuckling when she sees me glancing at her with my head tilted. “You really don’t care about what you just did, don’t you?”
+
+I shrug at that before looking out over the balcony again, leaning over the railing in my boredom.
+
+Since I can’t exactly leave without someone to take me through the enchantment around the castle. So I have to wait for someone to bring me back to the city.
+
+Not that the city is much better than here considering that they’re currently quashing the rebellion there.
+
+I rest my head on my arms and let out a low groan of boredom.
+
+“Thank you for your help,” I suddenly hear Azura’s voice speaking, meaning he approached as well. But I don’t lift my head, instead just waving my hand. “You probably just saved us all.”
+
+Maybe.
+
+“He deserved it for what he did,” I mutter. Then, after the three royals break out into laughter, I stand up straight again and glance at them, asking, “Any chance you could take me to the Grand Ocean so that I can do something productive with this time instead of sitting around doing nothing?”
+
+For some reason my question makes them laugh even louder. But Azura okays it and even gets an officer to escort me to the royal vessel. Which, I have to say, is a much nicer ship than that ferry.
+
+No offense to the ferryman, of course.
+
+Then they take me over to the Grand Ocean in a flash, even going into the Hunter’s Spot with me instead of just leaving like the ferry.
+
+I try to tell the ferryman and the several guards aboard the ship that they can leave, but none of them do. They just tell me something about the nation owing me or something. And that they don’t want to leave me alone when I could be kidnapped or something for what I just did.
+
+So a lot of bothersome stuff.
+
+But it’s fine.
+
+I jump down into the water after we reach the fourth ring. And I quickly notice that the ship itself is following me from above water.
+
+At least they’re not going down with me.
+
+Well, time to hunt for the rest of the evening. And hopefully by the time I’m back, everything will be normal again.
+
+Somewhere in the Universe
+
+Inside of a chamber covered in black mist, nine different individuals appear out of nowhere in the mist. Each using their own methods. Then the Leader of the Council of Darkness appears at the very center of the nine.
+
+But all ten of the individuals in the chamber quickly grow confused when their remaining member is not anywhere in sight.
+
+Hassan stares at the spot for a few seconds before eventually turning to look at one of the nine, prompting them to speak.
+
+“The Republic of Aeloria has been sparked into civil war after the opposing party’s head delegate hired us to assassinate over a dozen of their opposition,” a sharp, female voice fills the chamber.
+
+Then the Leader’s head nods once and he turns to look at the next individual.
+
+This one answers in a deep masculine voice, “The Solaris Nexus was turned inside out when two members of each party representing their Solar Council were killed under each other party’s orders.”
+
+And the process continues, with each one of the individuals in the room speaking about one nation entering some form of civil war after another.
+
+All the way until the Leader’s gaze once again lands on the empty space belonging to where the last individual should be. Meanwhile all of the others tense up, waiting for their leader to make a move.
+
+But then a flash of purple light shines through the room, following which a man cloaked in that same purple light appears and immediately kneels, declaring, “I apologize, Council Leader, but the plan has failed on Atlantis.”
+
+Silence so deep that one could hear a pin drop fills the chamber.
+
+Then two flames made of shadow appear where the Council Leader’s eyes would be under his hood, following which shadows begin to snake across the ground until they grab onto the man cloaked in purple light. And the man doesn’t even fight against it, simply letting his leader pull him up into the air, his arms outstretched.
+
+“Explain,” the leader declares without showing any emotion in the single word.
+
+And he does. Without a single word of complaint, the purple clad member of the Council of Darkness answers, “Everything started off well, but the duke I had been manipulating to lead the rebellion on Atlantis… was shot in the back by an outsider minutes after the rebellion began. While he was fighting with their king and queen, about to sacrifice himself to kill them.”
+
+A second passes in silence before the leader asks, “Who?”
+
+The member clad in purple light answers right away again, instantly understanding what his leader means, “The outsider was someone who had been staying for five years going to the Grand Ocean. But she was only level twenty three, even if she has a black number. And all I could find on her was that she was a friend to the royal family. The other nobles didn’t even know who she was.” And under the surprised gazes of the other council members, he finishes, “The duke killed the outsider the moment he arrived, vaporizing half her entire body. But she recovered in seconds and killed him while he left his back open to drink another Supercharge Potion.”
+
+The silence returns for a while.
+
+Eventually the Council Leader lowers the member a little and asks, “Name.”
+
+“The outsider’s name was Aria Crimson,” he answers instantly.
+
+And for the first time in decades, the Council Leader stiffens slightly before returning to normal.
+
+But no matter how short the reaction was, all ten members of the council notice.
+
+And they all feel shocked just from that one instant.
+
+“Watch her,” the Council Leader declares, making the purple clad man nod his head before the Council Leader drops the man again. “Report. Don’t interfere.”
+
+That surprises the man clad in purple for a moment, but he quickly kneels and declares, “As you wish, Council Leader. I will keep an eye over here without interfering or letting her spot me.”
+
+Then the Council Leader turns his head around to gaze at each one of the Council Members.
+
+And after just a brief pause, he declares, “Next phase.”
+
+Only to vanish again seconds later.
+
+With the council members vanishing soon after that.

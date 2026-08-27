@@ -1,0 +1,287 @@
+---
+id: 543e1386-6929-54ac-ab10-6c565f33bf81
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6"
+slug: 0007-chapter-6
+partOf: death-healer
+position: 7
+ownLength: 3015
+unit: words
+publishedAt: 2025-05-04
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2254576/chapter-6"
+royalRoadId: "2254576"
+---
+
+Adriana held her breath.
+
+Lily had just turned three, the age at which a body had developed enough to control Mana. Despite the great progress her daughter had made with her Mana perception, she was still gripped by the irrational fear that the little girl would somehow hit a wall in her practice.
+
+Sitting cross-legged in front of one of the walls in her room, the little blonde girl held her palms a few centimeters away from the white surface.
+
+Inhaling deeply, Lily closed her eyes as she had been instructed. In the next moment, Adriana saw a brief flicker gathering in her daughter's palms but then disappearing.
+
+A wide smile appeared on the woman's face.
+
+"Was that good, mama?" Lily asked, turning her deep blue eyes toward her.
+
+"It was terrific, darling. You're very close to doing it," Adriana said, bending forward and hugging her daughter. "You can go play with Lavinia now."
+
+"Thank you, mama."
+
+* * *
+
+Before Lavinia had come to Lily's house for their now-routine play date, the little redhead girl had been in the courtyard of her own villa. Among the three main Great Families are the Aemilii, the Claudii, and the Iulii. The first, Lavinia's ancestors, had become renowned for their martial prowess as [Templars]. Lucianus's family, the Claudii, instead, had a long-withstanding tradition of [Healers] and [Light Mages], whereas the [Pope]'s lineage, the Iulii, was almost exclusively made up of [Light Mages].
+
+Since time immemorial, that division of labor had aided the Papacy of Lumina in becoming the only real power on the entire continent. Now, the same division of labor was being used to expand their boundaries by trying to destroy the Dead Lands of the Necromonarchy.
+
+The little girl peeked into her parents' chambers, finding her mother, Fausta, lying in bed as usual. Her father had left after her mother had become with-baby again.
+
+"Mom?" Lavinia said tentatively.
+
+The young woman on the bed turned her head toward her. Her face was pale, and her hair was dirty. Fausta Aemilia refused to be helped by the servants and barely ate any food. The only reason she sought nourishment was the life growing in her womb.
+
+"What, darling?" The mother asked with a distant voice.
+
+"Do you want to come out and play?" Lavinia asked. She knew that the sun helped make her skin darker, which looked much better than her mother's current color.
+
+"I don't like the smell of the city," Fausta said, turning her face away from her daughter.
+
+"Do you want to play inside?"
+
+"No, darling," the mother replied, "I'd rather stay in bed and rest."
+
+"Okay, Mom," Lavinia said, slouching her shoulders. "Can I go to Lily's?"
+
+"Just ask the servants to fetch a carriage."
+
+That said, the mother turned to her other side, away from her daughter.
+
+* * *
+
+"Milady, are you sure the girls will be ok?" Decima, Lily's personal servant and sitter, frowned. "Shouldn't they play with something more… girly?"
+
+Lavinia jumped from a bench in the courtyard, screaming at the top of her lungs and thwacking Lily on the head with her blunt wooden sword. "Die, you weakling!"
+
+"Argh!" Lily groaned in pain, raising the wand that her father had gifted her. "Take this!"
+
+The wand shot an extremely weak [Light Orb] at Lavinia's chest, making her fall on her butt. The redhead, however, undeterred, got up and started chasing the little blonde again.
+
+"I've cast a wide [Field of Healing] in the courtyard, Decima," Adriana smiled. "They wouldn't manage to hurt each other even if they wielded real weapons. I might not have seen a battlefield in a long time, but they're unawakened children. My spell is enough that even if they jumped off the roof of the house head-first on a rock, they'd barely get any damage."
+
+"Milady, I am more worried about the nature of this game," Decima said with her head lowered. "Mistress Lily is playing as the [Pope] and her young friend as a rogue [Centurion] trying to kill His Holiness."
+
+"I find it quite refreshing," Adriana smiled to herself.
+
+"Miss Lily keeps repeating that she wants to be the [Pope], milady. Is it advisable for her to keep saying those things?"
+
+"They're just kids, Decima. Leave them be. I'll be inside overlooking some documents in case you need me."
+
+"In His Light, milady," Decima said obsequiously.
+
+"In His Light," Adriana replied.
+
+* * *
+
+"How lucky can a man be to not only have such a beautiful wife but also a great financial administrator?" a masculine voice came from the door as Adriana was reading some documents she had the administrators of the family properties draft.
+
+"Dear," Adriana's smile beamed from her mouth, more radiant than the sun.
+
+"I'm back," Lucianus replied wearily, walking closer.
+
+Adriana rose to her feet and soon received a deep kiss on the lips.
+
+"Lucianus," Adriana giggled, "the kids are—"
+
+"I've missed you," the man said, interrupting her, letting his hands roam all around her body.
+
+"I've missed you, too, dear," Adriana said, grabbing his wrists. "But you should say hi to your daughter, and it's almost time for supper. What you're looking for can wait for tonight."
+
+Lucianus groaned and his wife rolled her eyes at him.
+
+"Alright, alright," he sighed, holding his hands up, defeated. "How's our Lily?"
+
+"We're making progress on her Mana perception, and I think she might be close to learning Mana Shaping already," Adriana smiled. "I think she might get her first Affinity even before Cassius did."
+
+"Impressive," Lucianus said with a raised brow.
+
+"Listen," Adriana said with a frown, "she's out playing with Lavinia, who's over almost every day now. I don't mind, Lucianus, but…"
+
+The man passed a hand over his face and nodded.
+
+"Aurelianus has been…" he hissed, shaking his head, unable to find the right words.
+
+"Does he have a new lover?" Adriana asked, concerned. "Fausta might not be from the Six Great Families, Lucianus, but he can't just—"
+
+Lucianus raised a hand, interrupting her.
+
+"I know."
+
+They both fell silent, and Lucianus took out a pair of reading glasses from his pocket, along with a few letters—healing magic wasn't able to cure bad eyesight, among other things. He browsed them for a moment before picking one out and passing it to Adriana.
+
+"I did what you asked," he said. "I've intercepted all his civilian correspondence. No letters from his wife, but plenty from this [Healer] from one of our cadet houses, the Claudii Caudices."
+
+Adriana took the letter in her hands and immediately started trembling on the spot.
+
+"This… this whore!" She said, clasping the paper in her fist, incensed. "She's putting this kind of filth in the ears of a married man!"
+
+"Aurelianus is the new head of his house, Adriana," Lucianus sighed. "I can't do anything to him."
+
+"He's breaking the law!" She raised her voice. "This is proof!"
+
+"No one is going to accept it in court," Lucianus said. "Unless you want us to execute Aurelianus and alienate his entire family, Adriana. No one is going to execute him over this."
+
+"What about that whore?!"
+
+"I've already spoken to her personally. She's to report everything Aurelianus says to her in private in case things were to escalate. Her family will suffer the consequences of her disobeying. Her parents are menial workers and she's the first one in a few generations to have enough talents to make it as a [Healer]. She can't afford to lose the income and even if she did tell Aurelianus, he wouldn't dare mess with our family."
+
+"She goes unscathed?!" Adriana bristled. "I want that whore on a chopping block, Lucianus!"
+
+"You might have to do the chopping yourself if that's what you want," the man commented. What he didn't expect, however, was for Adriana's fury to mount even further. She freed herself from his hands, slapping them away, and tried lunging for the door, screaming, "I will!"
+
+Lucianus had to pull his wife back at her waist and raise her in the air. She fought back, screaming.
+
+"Adriana!" He said, consternated.
+
+"Fausta's pregnant again!" Adriana screamed. "Pregnant, Lucianus! She never leaves the bed and barely eats anything! I visit her thrice a week, but not even my spells can do anything if she doesn't eat! Aurelianus is killing her! HE'S KILLING HER!"
+
+Lucianus took the thrashing his wife was putting up without saying anything else, just soaking in silence the words of the woman. He dealt with monsters on the frontline, frantically trying to raise his own level, together with the whole vanguard of Lumina, in order to make a breakthrough in the Dead Lands. However, even though he was used to life-and-death situations on a daily, this was… new.
+
+He felt his wife's heartbreak while he held her, not fighting anymore and just hugging him back and crying.
+
+Lucianus had done a few things in his life he wasn't particularly proud of, but he considered himself a decent man. He always thought he, unlike Aurelianus, had tried literally everything to make his marriage work. He also thought he had a pretty good idea of who his wife was, but now that he was seeing her like that, the former Princess still felt like a stranger.
+
+"I—I don't know what to do, Adriana," Lucianus muttered, holding her. "I just want to help. How can I help you?"
+
+Adriana felt her husband's sincerity, but she also knew that there was a fundamental misunderstanding. It wasn't about helping Adriana or even Fausta. It was a much deeper problem than the man realized.
+
+* * *
+
+"I'll become the next [Pope]!" Lily declared boldly at the table, scooping up some of the stew the cook had made.
+
+"I'm sure you will," Lucianus laughed heartily, looking at his daughter.
+
+"Being the [Pope] is stupid," Lavinia humphed. "I'll become a [Centurion] like Dad, and I'll be fighting bad monsters every day."
+
+"You're stupid," Lily growled at the redhead kid, flicking a piece of meat toward her.
+
+"Liliana Claudia!" Her mother thundered. "Do not play with the food!"
+
+Lily shrunk in her seat, and even the bold Lavinia stood straighter.
+
+"Sorry, mama," Lily said, looking down.
+
+Lucianus sighed, looking at the furious Adriana, knowing that the real reason she was upset wasn't because their daughter behaved like a little monkey.
+
+"Darling," Lucianus cleared his voice. "I've heard that you're practicing Mana Shaping. Would you show me? Or maybe after dinner, Adriana?" He asked his wife the second question, not sure if it was proper for Lily to do this at the table.
+
+"It's fine," Adriana sighed and then addressed her daughter. "Show your dad."
+
+Lily closed her eyes and extended her hands, palms upwards. Soon, a small flicker of Mana gathered at the center of both.
+
+"Not even your cousin had this control at your age," Lucianus said with a smirk.
+
+"Prince Cassius?" Lavinia frowned.
+
+"Yes, the little Prince," Lucianus nodded. "He's got the greatest talent for magic we have seen so far."
+
+"He's good," Lily nodded wisely. "But I'm better."
+
+"You're a kid, stupid," Lavinia frowned.
+
+"You're stupid!" Lily shouted, affronted.
+
+"Decima," Lucianus cleared his voice, "why don't you take the kids to Lily's room? Lavinia, are you staying the night?"
+
+The redhead shrugged.
+
+"I'll send your mother a message letting her know that you'll be sleeping here, then."
+
+Both girls soon ran toward the room with Decima in tow while Adriana, still not having touched her food, just stared blankly ahead.
+
+"Adriana, let's take a hot bath," Lucianus told his wife.
+
+"I have some matters to attend to," the woman said, suddenly rising up to her feet and storming out of the dining room, leaving Lucianus to sigh and shift uncomfortably in his chair.
+
+"None for me tonight, I guess," the man mumbled, fishing a piece of parchment from his robe and trying to distract himself.
+
+* * *
+
+Hestia looked up from the crumpled letter her daughter had brought her with a neutral expression.
+
+"Is this why you've come this late at night? This couldn't wait for tomorrow's first light?"
+
+"Mother, this whore is putting Fausta's life in danger!" Adriana shouted at her mother. "She needs to disappear!"
+
+"And who do you think Lucianus will look at when she does, darling?" The middle-aged woman said, reclining in her chair while bringing a chalice of wine to her lips.
+
+The young woman in front of her was suddenly stumped.
+
+After savoring the wine, Hestia snorted. "That's right, dear. And this is Lucianus's cadet house. Do you think he'll take it kindly that his woman is meddling in affairs I imagine he's already taken care of himself?"
+
+"Mother, he's not listening to me! He doesn't understand that—"
+
+"He's a man," Hestia sharply interrupted her daughter. "You're not. What if he doesn't understand?"
+
+"Mother—"
+
+"Adriana, you've always behaved like you were a man," Hestia lamented. "You're not your brother. You're not the [Pope]. You can't act out like this. Fausta is unraveling her marriage all by herself. She could just get over whatever problem she has and live on. Aurelianus gave her a life that a woman of her rank could have never imagined—especially someone who used to practice law for a living. Instead, she seems to think that lying down and begging for attention will have Aurelianus run after her. But she, like you, seems to confuse men for women and vice-versa. Aurelianus is running after another woman because his wife came short in her duties."
+
+"What duties?!"
+
+"The only duties a man cares for," Hestia sighed, taking another sip of wine.
+
+"She's sick!" Adriana shouted at her mother.
+
+"Quiet your tone with me, Adriana," Hestia snapped. "You might not be part of this family anymore, but if you think I'll let you disrespect me just because you have changed your last name, you're about to be reminded of where you came from very soon."
+
+The blonde woman gritted her teeth but didn't say anything else.
+
+"Good. Now, listen to me and listen well. I am privy to why Fausta's condition seems to have worsened and why it is a terrible idea to take this whore's life."
+
+"What happened?" Adriana's eyes widened. Fausta had been sick since the last failed pregnancy, but her condition had precipitated about a year ago.
+
+"First, even if she disappeared, it would only be a matter of time before Aurelianus found a new lover. And as you know, men can use as many whores for their past-time as they want, Adriana," Hestia said, "but only their wives can give them an heir."
+
+"So?" Adriana's understanding still lagged behind what her mother was saying.
+
+Hestia looked at her daughter and shook her head.
+
+"If you didn't want to be a man so well, you would have listened to all my lessons while growing up. Then, you would have known exactly what I meant."
+
+Adriana kept frowning, not following.
+
+"Just go back to your husband, Adriana. And spread your legs tonight of your own volition before Lucianus starts looking in brothels for what you're not giving him, and before he'll be forced to do something far worse than a little cheating in order to have a male heir."
+
+Adriana's eyes widened, and she finally understood what her mother had been telling her all along. Then, something else came to her mind.
+
+"Lucianus has an heir already. Lily's talent is—"
+
+"Lily is a girl, Adriana," Hestia sighed. "Unless she were to grow new organs, she can't keep her family's name once she'll be married. Furthermore, she can't become a Champion nor learn the Gens Claudia's Great Skill."
+
+"Mother, Lily's talent is unheard of!" Adriana pressed on. "What if she was the greatest talent we have ever seen?"
+
+"We've already seen how that played out, no?" Hestia said with some pity in her voice. "We've seen what happens when a girl tries to be a boy. Don't do the same to your daughter, Adriana. And her talent… we don't know how talented she really is. She's still a small child."
+
+"She's better than Cassius!" Adriana blurted out.
+
+"She's better than he was at her age," Hestia corrected her. "How will she keep up? How, if she's a girl? It's impossible—on top of being illegal—for a woman to learn a Great Skill. The best thing you can do for her, darling, is have her live a happy life and prepare her enough to be married into our family one day. That's all."
+
+"I can train her!"
+
+"She's not a boy. She'll never be," Hestia responded.
+
+"She can be better!"
+
+"Don't do this to yourself again, Adriana. Just accept what the world is and live happily. You have a good husband and a good child. If you give Lucianus a male heir, you'll have a prosperous and long life. It took you long to give him Lily, but perhaps that's just how Our Lord wanted things to be for you. You just need to learn your place. It's not too late for you, darling."
+
+Those words didn't go over well with Adriana, and they didn't achieve any of the effects Hestia hoped for. Instead, the woman felt a fire burn in her chest as she locked her jaw and turned her back away from her mother.
+
+Adriana knew that she had only one choice if she wanted a better future for her daughter. She needed Lily to become the strongest, most incredible talent in the entire kingdom. She needed her daughter to beat all the boys at their game… something she had failed at.
+
+The real question was whether she was ready to put her daughter through what she herself had experienced as a child, to the kind of sacrifices she would have to make in order to make that happen. And if she could even put herself through that once again.
+
+To be honest, Adriana hadn't yet set her heart to it.
+
+For now.
+
+Hestia simply regarded her daughter with a heavy expression and sighed. Unlike Adriana, she had accepted the reality of this world a little more than a decade ago.

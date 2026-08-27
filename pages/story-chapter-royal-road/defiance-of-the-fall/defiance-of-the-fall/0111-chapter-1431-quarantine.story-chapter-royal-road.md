@@ -1,0 +1,131 @@
+---
+id: 6f0c7692-de54-5a7b-9926-d5ea64f67ab0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,431 - Quarantine"
+slug: 0111-chapter-1431-quarantine
+partOf: defiance-of-the-fall
+position: 111
+ownLength: 3295
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3367565/chapter-1431-quarantine"
+royalRoadId: "3367565"
+---
+
+“Quarantine? But against what?” Zac mused while sweeping up a handful of ash from the nearby wall.
+
+There was still a hint of Heaven’s presence. Esmeralda said its descent was powerful enough to unravel the natural order of the Left Imperial Expanse. The effect would only be more pronounced where it first appeared. Could the lightning have damaged the memory itself, undoing some of its safeguards?
+
+The restrictions had already proven far from infallible. The Lost Era’s corrupted Dao removed the blinders from Guild Master Marai before she died, and the same happened to Xiphos when sensing the true Imperial Chalice. There was also the Realmlord of Threaded Hell, who understood everything without assistance. There was no reason the Heavenly Dao couldn’t expose the truth.
+
+It wouldn’t make any difference to Zac and Ramses. They might not even notice anything had changed. The same couldn’t be said for the natural inhabitants of Hollow Court. Zac could imagine disciples entering the mountains, suddenly realizing their lives were a lie. When looking up, they’d face an unfamiliar, much older Heavenly Dao.
+
+The theory was only one of many possible explanations, yet more than a shot in the dark. The quarantine could also be Roan’s way of forcing a connection between him and Ramses, thus attaching yet another string between Zac and the Limitless Empire. Whatever the case may be, the restriction put the kibosh on his original plan.
+
+Exploring the quarantine zone was a waste of time. The mountains at the quarantine’s edge weren’t spared being seared clean by lightning, and all the palaces he’d swept through were emptied. They were so barren that Zac suspected they were decoys hiding the real structures in spatial pockets.
+
+Zac thoughtfully looked at the oppressive darkness in the sky before shooting up like a rocket. It didn’t take long before the towering mountains looked like sooty hills, and Zac kept going. He would already be combating deadly astral winds if he were still on the Left Imperial Expanse or a normal C-grade continent, for that matter.
+
+Things were different in the Hollow Court, at least for the time being. Fuxi Halls should be located in the Lower Planes, or at least in the shadows of the continent. A separate realm could naturally form astral winds as well, but not while the region was starved of energy. Since there weren’t any avian beasts even before the tribulation, Zac figured it was an opportunity to look for the outer bounds in the sky.
+
+In lieu of astral winds, the accumulation of energy grew stronger as he ascended into the darkness. Zac felt the Death of Interment Gate and the Life of Ascension Gate, but there were no hints of the desolate Death lurking outside the memory domains. The spatial integrity also remained solid. Zac unleashed a blade with [Evolutionary Edge], and he wasn’t close to opening a spatial tear like the one Tavza left through.
+
+Heavens and Earth suddenly inverted; up became down. Zac couldn’t say he was surprised to find the quarantine extending to the sky, but he still tried opening a Void Vortex beyond the demarcation. As expected, it didn’t work. The seal was probably set up by the Margrave himself, rendering it immutable by a mere C-grade Bloodline Talent.
+
+The vantage didn’t provide any new clues. There were just endless mountains no matter where Zac looked. The idea was a bust, so he routinely took out Primo’s feather before returning to the surface. The four directions were blocked, as was the sky. The good news was that Zac had confirmed the Judgment Plateau’s teleportation array remained in operation, which had to be intentional.
+
+In other words, Zac was left with two options. One was going back to the upper memory domains to purchase medicine or pursue other avenues of investigation. The tear Tavza used was long gone, but it was easy to leave the central memory domain to explore the darkness beyond. The second option was going the opposite direction: delving into the depths of Earth.
+
+Until now, Zac had remained content with opening vortices to pick up embedded treasures, never actually setting foot beneath the surface. That alone had proven a dangerous venture. He’d been forced to regrow fingers more than once, and there had been threats to his life.
+
+[Earthly Dome] couldn’t draw pure spirituality like Karz’s Bloodline Talent. That didn’t mean it could ignore the subterranean energy storms. Such surges could be considered intangible objects like wind or gas, and thus able to enter the gates. More than once, Zac had been forced to evade a deadly gust before the vortex collapsed. There was also a risk that his Void Realm would take damage when allowing such unbridled forces to enter.
+
+The dangers were very real, but so were the opportunities. It only took Zac a few seconds to decide. He’d been curious about the depths for a while now, and it seemed like a waste to return after delaying for a week. He set off again, flying for a few hours until reaching an unexplored location that suited his needs.
+
+Zac floated between four uniform mountains that formed an almost perfect square. Two valleys intersected right beneath him, looking like an enormous ‘X’ that spewed Void Energy into its surroundings. The mountains themselves were unremarkable, the key was what Zac felt below. He was right above a hot streak of Void Treasures, with six of them within sensing range.
+
+Only one of the six generated a pull strong enough to pique Zac’s interest. Of course, Zac wasn’t here to hunt treasures. He took a step with [Skystriker], appearing before the largest crack. The wild Void Energy felt like a spring breeze, albeit with a putrid undertone. There was an unstable mix of Imperial Faith and Inverse Dao within, and the ambient Life and Death created additional instability.
+
+The latter became less of a problem as Zac entered the underground. Instead of opening a vortex miles below, Zac carefully navigated the natural formations. He wanted to get a sense of the environment and his options before reaching the dangerous depths. Zac began by swinging [Verun’s Bite] against a random wall, and the attack only left a shallow mark.
+
+He hadn’t used his full strength, but it was clear that carving a path on his own was out of the question. The mountains on the surface were just as hardy, but the composition of the bedrock differed. Zac picked up a rock, finding it porous and almost weightless. Despite barely emitting any spirituality, the stone effortlessly blocked Zac’s mental tendrils.
+
+Things quickly changed when Zac encased the threads in Void Energy. The difference was by design. The stone’s spiritual structure immediately made Zac think of the patterns of the [Inverse Vestige Scripture]. Daoist Hidden Earth had used Inverse Dao to guide Void Energy, and the stones worked based on similar principles.
+
+There were specific pathways perfectly suited to the void crisscrossing the stone’s interiors, and they were much stabler than the ones Hidden Earth managed to come up with. No wonder powerful surges of Void Energy kept appearing on the surface without eroding the ground. They could pass right through the stone without causing permanent damage.
+
+While the system worked, it obviously wasn’t without limits. There were countless cracks dozens of meters wide and bottomless shafts with sheer walls. Both were undoubtedly created when the amount of passing Void Energy exceeded the stone’s capacity, causing the natural pathways to collapse. While Zac could picture the destruction that preceded the tunnels, it made exploring the underground much easier.
+
+It took Zac less than a minute to reach the Void Treasure closest to the surface, though he’d relied on [Earthly Dome] a few times to save time and stay on course. The treasure was the same moss he’d picked up a few times already, this clump barely equated to Early D-grade. Zac didn’t harvest it even when it was right in front of him. Its value as a checkpoint and safe zone greatly surpassed its use as a cultivation resource.
+
+Zac hadn’t forgotten the lessons of Dipper Seven. The clump of moss was at least a few decades old. The fact that it had survived in its little cubby, even when the Heavens wreaked havoc above, proved its habitat was very stable. By plotting a route between Void Treasures, the risk of encountering deadly storms would decrease.
+
+Fewer risks did not mean safety. The deeper Zac went, the more powerful and unpredictable the currents of Void Energy grew. At the same time, Zac couldn’t bring himself to stop. Just as he’d hoped, the calls of treasure grew stronger and more numerous. It didn’t take long before he started locating Late D-grade Void Treasures.
+
+The better items were always surrounded by Void Energy highways that Zac took the long way around. It was to be expected; how would a treasure grow to that stage without a steady supply of energy? Currents of Void Energy were evidently one thing that [Earthly Dome] couldn’t bypass. Zac wasn’t about to risk his life for some random Void Moss. He grabbed the ones he could and gave up on those that his vortices couldn’t reach.
+
+C-grade Void Treasures were another matter entirely, whether for himself or expediting [Fuxi Mountain Gate]’s recovery. Unfortunately, Zac ran into a figurative wall before he had the chance to sniff one out. He was floating at the entrance of a large cave, looking at a chute half a mile below. It may as well be on the other side of the galaxy with the power of inversion blocking the way.
+
+In the end, the quarantine reached below ground as well. It felt slightly different due to the unusual environment, but it wasn’t something that Zac could brute force.
+
+“Is this it? Stingy ba—” Zac’s curse turned into a yelp when a frantic surge of Middle C-grade Void Energy poured out of the chute, rushing straight for him.
+
+Zac desperately flashed away with a Void-activated [Skystriker], narrowly avoiding being shredded by the forces of nature. And yet, there was no anger on Zac’s face as he looked back at the cave. Zac followed his instincts, opening a vortex right inside the shaft. It worked. The law of inversion didn’t function properly where the stream of Void Energy had just passed.
+
+The spirituality rising from the depths was significantly purer than the Void Energy Zac had encountered so far. It didn’t come from a specific treasure, rather an environment extremely conducive to his cultivation. It almost drove Zac mad with hunger, and he wasn’t the only one. The [Fuxi Mountain Gate] stirred inside [Purity of the Void], like something was calling it.
+
+The window of opportunity didn’t last long, and it didn’t have to. The inversion itself had a disruptive effect on the environment, leading to a significant uptick in energy currents. Before the quarantine could lead him back to the surface, Zac found another spot where the quarantine was disrupted. Zac followed the call, jumping from spot to spot until reaching the other end.
+
+A world of utter mayhem waited below. There were no caves, no tunnels, no cracks in the stones to pass through. Everything had been destroyed to accommodate an ongoing war between the Void and the Limitless Empire. A thousand enormous Void Rivers strained against the bindings of Imperial Faith and Inverse Dao.
+
+As things stood, the Void was winning.
+
+Most streams of Void Energy managed to break free, triggering explosions worthy of a Monarch’s all-out attack. The Dao was exhausted, and the Void Rivers turned into myriad streams that rushed toward the surface. Zac’s back was slick with sweat as he took in the scene. To think that the deadly currents he’d dodged over the past hours were just errant streaks dislodged from the real currents.
+
+Zac hovered at the edge of the destruction, not sure what to do next. The source of Void Energy was further down, but should he really risk it? The allure of C-grade Void Treasures was undeniably great, but they had nothing to do with his short-term goals.
+
+A gust of death triggered a keening call from the Primo’s feather inside one of Zac’s pockets, making him throw caution to the wind. He rushed into the frontlines, pushing his speed to the limits. He was still a step too slow; the dimensional rift closed just as Zac reached it. Zac took out the feather to no avail. A pattern resembling interlocking eyes had appeared on its surface, but it was already receding.
+
+Zac didn’t give up. He remained at the periphery of the storm until he discovered a second tear. It was closer, allowing Zac to reach it in time. Nevertheless, Zac refrained from jumping through. For one, he had no idea what waited on the other side or if he would be able to get back inside. Just as important, the Primo’s feather didn’t react this time.
+
+It was the same with the next three rifts Zac tracked down, and he looked down at the feather with confusion. Had it run out of energy, or did the dimensional rifts lead to random spots outside? Zac was confident in his Luck, but not confident enough to stick around until the right one came along. It only took one unexpected explosion, and he would be off to meet his maker.
+
+If it was just passing through… it was doable.
+
+The explosions were terrifying, but there was plenty of open space to navigate through as well. Even so, it was a hidden warzone that Zac had not expected, continuing for hundreds of miles. The quarantine also kept going. Zac could feel the power of inversion trying to bring him around whenever there was a moment of calm.
+
+It only triggered Zac’s stubborn streak. The more they wanted to drag him back, the more adamant he was about seeing what waited on the other side. The constant turbulence meant there were plenty of paths to choose from, so long as Zac was daring enough to seize them. Stopping meant death, as did taking the wrong turn.
+
+And so what?
+
+His mind screaming with danger and having death breathing down his neck was nothing new. If anything, it helped Zac get back into gear. The Left Imperial Expanse kept filling his head with its mysteries and plots, becoming anchors that slowed him down. The defiant Void Rivers helped him remember the defiant essence of his path and discard all the unnecessary thoughts, focusing solely on the present.
+
+Zac solemnly observed another explosion in the distance, waiting for the perfect moment to conjure a vortex. He barely had time to appear in the epicenter before aftershocks of unstable Void Energy descended on his position. A golden barrier emitting powerful lifeforce blocked a section just long enough for Zac to sneak into a third gate that brought him another mile further down the line.
+
+The protective talisman failed just as the gate closed, becoming kindling for a secondary Dao extinction. Zac didn’t spare the destruction a second thought as he kept going, his eyes gleaming with excitement.
+
+The warzone wasn’t just the key to breaking out of containment, it was the perfect training ground to get hands-on experience with [Earthly Dome]. Opening two vortices and connecting them was only the most basic usage. Managing the ability while using items, skills, and controlling Haro was a challenge.
+
+The distances and dimensions didn’t work the same when it came to the Void. It was like Zac had to calculate the coordinates in four dimensions when combining the two systems. While taxing on the mind, it came naturally as part of his heritage, especially while infusing himself with [Void Mountain].
+
+Still, the randomness created unavoidable delays, forcing Zac to zigzag back and forth. It took hours of trial and error before Zac realized the commotion was calming down. The further he moved from the surface, the more overwhelming the Void’s advantages were. With nothing to threaten the reivers, they remained stable.
+
+Shortly after, Zac spotted the end of the open space—more stone, scarred and battered until it had been turned into a beehive. Zac snuck into the closest tunnel and was immediately struck by a wave of vertigo. His senses were giving him contradictory information. He’d staunchly delved deeper, yet somehow down had become up.
+
+Had he failed to overcome the containment in the end, causing him to circle back to where he came from? No. The call of the Void was still there and closer than before. Furthermore, the fundamental affinities had been reversed. From stones infused with faith and Inverse Dao, Zac was surrounded by stones emitting stable fluctuations of the Void.
+
+Zac drew a deep breath, relishing the novel experience. The ambient energy was like poison to normal cultivators, gradually extinguishing their energy. Space itself wouldn’t make sense to them since the paths were based on concepts of the Void. Zac was like a fish in water, to the point it took him a while to even realize something was different about his surroundings.
+
+Everything seemed normal so long as he kept [Void Mountain] running. As for running out of energy? Almost impossible. He was surrounded by Void Energy, and he could already sense dozens of Void Treasures in the area. At the same time, Zac realized his bloodline had lost most of its unique advantages when in a world ordered around the Void.
+
+[Void Zone] had no effect on its surroundings, and [Earthly Dome] was suddenly under the same restrictions as normal skills. He almost got himself killed when trying to open a vortex to avoid a streak of Inverse Dao, only to realize he couldn’t open an exit on the other side of a wall.
+
+While annoying, it didn’t really endanger Zac’s life. The currents of Inverse Dao and Faith Energy were few and far between, and nowhere near as overbearing as the Void currents he’d faced before. Most of them didn’t require Zac to move out of the way. He just braced himself as the gusts of D-grade energy passed by.
+
+Judging by the large caverns and a few withering Natural Treasures he stumbled upon, it should be a recent development. Fuxi Halls’ sources of Inverse Dao and Faith had been more affected by the tribulation than its source of Void. Zac made a mental note not to overstay his welcome. As the Dao replenished, the war at the boundary would only grow deadlier. If he was not careful, he would be forced to escape into the dimensional tears with their decaying death.
+
+A month of exploration should be fine unless the world’s recovery rate drastically accelerated. Zac felt like a child in a candy store as he weighed his options. Only one dimensional tear triggered a reaction from the Primo’s feather, but it was the only solid clue he’d found so far. It was precisely what he’d hoped to find.
+
+Secondly, there were plenty of normal Natural Treasures growing in pockets of lingering Dao. At least half of them were Faith-attuned treasures. If he stayed close to the warzone, Zac had a decent chance of stumbling upon something that could help with Ramses’ condition. Ultimately, Zac kept going, deciding to indulge his gnawing curiosity. He’d entered a mirror world based on the Void, and Zac wanted to see what awaited on the surface.
+
+With no energy streaks to cause trouble, Zac reached the surface quickly and without issue. He stopped in place, gaping at the scene. Wherever he looked, Zac found himself facing towering, pitch-black peaks covered in scripts of gold. He’d stepped into a world of Void Mountains. Above it all was a boundless sea of Imperial Flames holding countless memory lanterns.

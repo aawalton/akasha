@@ -1,0 +1,127 @@
+---
+id: ee7aa138-aeaa-5890-8c70-c8642e2b7fb3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,434 - Fuxi"
+slug: 0114-chapter-1434-fuxi
+partOf: defiance-of-the-fall
+position: 114
+ownLength: 3083
+unit: words
+publishedAt: 2026-05-14
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3396267/chapter-1434-fuxi"
+royalRoadId: "3396267"
+---
+
+The Limitless Empire rising to power in the early stages of the Era was both an opportunity and a curse. It was only because the Heavens were young and weak that it could be overpowered. At the same time, with so few Dao Peaks complete, how were they supposed to build a perfect System?
+
+Fuxi’s mantra was a method perhaps invented with this problem in mind; it derived the meaning of Dao by observing the shadow cast by the Void. Some would argue that observing Dao through the Void was cultivation with extra steps. Instead of looking at the shape of shadows, why not draw inspiration directly from the sun?
+
+While true, it had specific uses. One was matching specific Daos and Voids, the basis that allowed Fuxi Hall to exist. The underworld would long since have collapsed if Fuxi hadn’t calculated pathways and compositions that would allow for a stable, long-term exchange of Void and Dao.
+
+The technique could also be used to fill in the gaps of an incomplete Dao. It was an approach with some connection to Mox, who’d figured out a method of hiding inside the cracks of the incomplete Dao Peaks. Zac suspected he had a hand in improving Fuxi’s mantra by bringing down that evil god.
+
+Naturally, the Void couldn’t be relied on to replace the true Dao or expedite the mending of the broken peaks. The echoes of the Void could only show the Dao that existed or had existed in the past; it could not display the future. The Grand Dao went through permutations between each Era, so the Dao of Yesterday could not just be fitted into the current Heaven. It was the same as how the cultivation methods of previous Eras didn’t work today.
+
+The Limitless Empire had still made things work when it came to the Hollow Court. Whether it was through opportunity or necessity was hard to say. Zac suspected the Peak of Chaos was a cause for headache when erecting the eight pillars that suppressed the Heavens. All seventeen Dao Peaks were represented between the Outer Courts, possibly barring the Peak of Man. They were connected through the Imperial Road into an unfathomably complex machine designed to suppress the Heavens in its entirety.
+
+Except, how was one supposed to include an untameable force like the Dao of Chaos?
+
+Zac had a theory that the First Garden held the Dao of the Era’s birth, while the Ninth Hell represented its eventual demise. The Ninth Hell couldn’t exist since it wasn’t the right time yet. At the same time, the unequal number of Gardens and Hells should be a natural expression of the asymmetry and disharmony inherent to the Peak of Chaos.
+
+Balancing the scale was a way for the empire to enforce balance and order, even if temporary. Fuxi’s Mantra gathered the Dao of Cosmic Death from multiple Eras to mimic the real thing. The second step was fully integrating it with the Era of Order. It could be a method related to the Margrave and the Inverse Peak, or it could be a Supreme Treasure of death.
+
+The Ninth Hell’s current state should be the result of the integration failing. The artificial death had returned to its original state, becoming a corrupted Dao of multiple Eras. This was directly connected to the Primo and Zac’s mission. There were clues in everything Zac had learned about the Primo, so long as he knew where to look.
+
+The Primo first appeared before the undead races during the Dark Ages. Before that, he was conscripted by the Limitless Empire to assist in the construction of the System. As part of that endeavor, he was forced to leave behind an item critical to his cultivation.
+
+The Limitless Empire fell, yet the Primo survived. He gathered the Divine Races, leading the search for safe harbor when the Dao collapsed. Eventually, they discovered the Heart of the Empire, the Death-attuned Eternal Heritage that became the foundation of the Undead Empire.
+
+Today, the lower ranks of the empire thought the Undead Empire had five Divine Races, with the elusive Founders being the fifth. In reality, the Founders were simply puppets or clones of the Primo, whose true body was secluded in the depths of the Heart of the Empire. Together, the clones were referred to as the “Eternal 108.”
+
+Adding the context Zac had found so far, a different picture emerged. The Primo openly walked the lands during the Dark Ages, yet grew increasingly reclusive as the Era progressed. From what he’d heard from Tavza, the Primo’s true body hadn’t emerged over the past generations of Supremacies. What if that was not a sign of age, but an act of necessity?
+
+If the Primo was the Realmlord of an artificial realm borrowing Dao from previous Eras, he might be an existence only halfway integrated into the Era of Order. It was a state that should come with unique perks. A’Zu and Be’Zi had to spend a huge amount of effort transforming their gains inside the [Waking Nautilus] into something that could be used. The Primo might be able to directly draw strength from the Heart of the Empire, which allowed him to stay alive all this time.
+
+Naturally, there would be punishing drawbacks to balance out the perks. Not being aligned with the Era’s Dao wouldn’t matter during the Dark Ages, but the Primo faced greater suppression as the Era moved toward the Zenith. Staying inside the Heart of the Empire would only compound the effect. If the Primo’s true body emerged now, it might receive the same reception as Jalach.
+
+Connecting all the dots, the Primo’s treasure should be the nucleus of the Ninth Hell, a supreme treasure that allowed the Death of the past to integrate with the current Era. By taking it back, the Primo would become whole. He wouldn’t have to dilute his presence through a hundred clones, and he could directly commune with the Era of Order’s Heavenly Dao. If correct, it was a tailor-made solution achieving what Jalach hoped to accomplish with the [Pasho’Har Bell].
+
+There were still some missing pieces. For instance, the Primo’s exact origin remained unclear. Was he a being of a previous Era and thus uniquely suited to manage its Death? Was he a Realmlord of another Lower Plane, or was he born when the Empire created the Ninth Hell? Secondly, how did the Nine Gardens and Eight Hells figure into the picture?
+
+Their previous understanding was by no means incorrect. The Hollow Court had borrowed the strength of the Lower Planes to raise the Fifth Pillar. Zac was sure there was more to it. He suspected their unique connection was a third component to the plan, which helped keep the Ninth Hell stable long enough for it to matter. Fuxi’s mantra wouldn’t have been enough on its own.
+
+Zac had spent all his time pondering these matters since arriving in the mirror realm, and it wasn’t just to sate his curiosity. Fuxi’s mantra could very well become the critical contributor in figuring out a solution for his Inner World. Fuxi Halls itself was invaluable research material for his blueprint. Where else could he find a world that was equal parts Dao and Void?
+
+Understanding the mantra and how it related to the Ninth Hell was also critical in completing his mission. Two weeks of exploration had confirmed a few things. First off, the Primo’s treasure was definitely adrift. The Primo’s feather had reacted three more times over the past weeks, and only for a few fleeting moments. The nucleus was likely moving at a speed that Zac couldn’t match.
+
+Catching up with it from a well-placed dimensional tear had some potential for success, but it was a risky endeavor. It could already have flown out of reach by the time Zac made it through. Depending on how large Ninth Hell was, he risked running out of energy before he found his way back. He’d found a much more promising solution than running around like a headless chicken.
+
+To get there, Zac needed to supplement his theoretical knowledge with practical experience. By using Fuxi Mantra as a visualization technique, he’d tamed Ninth Hell’s decay within his own body. While Zac’s incomplete mastery wasn’t enough to become one with the Ninth Hell, it made him a visitor met with indifference.
+
+Maintaining his state, Zac observed the flows of death through the lens of Fuxi’s tapestry. Patterns gradually emerged. Deaths with distinct markers fused and separated in an endless cycle, futilely trying to reach a stable state. In addition to the transformation of Dao, there were large, hidden trajectories that kept the energy moving.
+
+The theory was no different from the revolutions taking place in his Quantum Space, except the invisible streams followed rules that eluded Zac’s grasp. With every sliver of refined Enlightenment extracted from [Purity of the Void], Zac drew closer to his unified answer.
+
+Ten minutes into his observation, Zac suddenly opened a vortex and stepped through, moving a dozen miles in a single bound. There was no sign of the Imperial Flames on the other side, though Zac could intuit its direction by observing the energy flows. He ensured the vortex would remain stable before turning his attention to the thing he came for.
+
+A broken tower silently floated a yard away, its cracked exteriors covered in an oily film of putrid death. Eons of corrosion couldn’t hide the scars of battle. The tower had collapsed long before it was deposited in the broken remnants of the Ninth Hell. And it wasn’t uninhabited.
+
+A surge of purple poured out of a crack. It wasn’t given the chance to display its might before a flash of gold momentarily illuminated the gloom. A set of vines poured out of his Worldring, binding the decapitated creature before it could drift away. It looked like something you’d find deep in the sea: a twelve-legged crustacean with a huge number of feelers extending from its back.
+
+Zac stashed the beast with satisfaction. While only a Late D-grade Undead Beast on the weaker side, it was only the second native of the Fifth Hell he’d encountered. Studying its body composition and attunement could yield valuable data. Still, it was only a bonus. His aim was the tower itself.
+
+Zac wasn’t exactly sure what he was looking for. Anything that helped him round out his understanding would do. Zac somewhat understood the equation to calculate the trajectory of the Primo’s treasure, but he lacked one or two variables to make it all work. A diagram outlining the Ninth Hell’s Dao or an Information Jade holding a more structured impartation of Fuxi’s mantra would be great.
+
+There was not much of value inside. The attack that broke the tower had destroyed most of its spirituality. Drifting inside decaying death and being turned into a lair had taken care of the rest. The only thing showing promise was a cracked array disk the size of a washbasin. While broken beyond repair, it retained a decent number of engravings.
+
+The patterns were based on the Dao of Death, and there were hints of the Inverse Peak. Seeing it didn’t trigger an immediate spark of recollection, but it was another piece of the puzzle. Zac returned through the Void Vortex shortly after, but he wasn’t ready to give up just yet. He found three unexplored ruins over as many hours, two drifting structures and a destroyed vessel hurtling through space at extraordinary speed. Zac didn’t dare enter the latter because of its ominous aura, only scanning it for clues as it passed by.
+
+As much as Zac wanted to, he couldn’t keep going. Maintaining the vortices inside Ninth Hell was quite taxing, as was visualizing Fuxi’s mantra. He hadn’t actually mastered it, and its clarity faded the longer he strayed from the statue. Thus, another hunt ended with incremental gains instead of a major breakthrough.
+
+Zac returned to the memory and headed for the next stop. His daily schedule had looked mostly the same since settling in the mirror realm. He spent most of his time meditating before Fuxi’s statue, then a few hours exploring Ninth Hell for clues. Then, he either visited the mountain or delved underground to look for Natural Treasures and Dimensional Rifts.
+
+It took two hours to reach the miniature mountain, at which point he’d already recovered much of his spent Void Energy. Surrounding the mountain was a pure Faith-attuned domain, an exception to the rule in the mirror world.
+
+The glowing sigils marking the domain’s outer bounds exuded a force of repulsion that prevented an all-out war with the Void. The effect wasn’t perfect, and there was a steady stream of Void Energy throwing itself at the wall of Faith. Zac stopped by a crudely crafted platform floating just outside the domain, right in the middle of a major Void Energy current.
+
+Zac placed the [Fuxi Mountain Gate] atop the platform on a small altar. Through some trial and error, Zac had figured out how to create an energy backdraft with his vortices, allowing the [Fuxi Mountain Gate] to steadily siphon some of the passing Void Energy. The effect wasn’t nearly as pronounced as when it consumed the [Twilight Eclipse], but it was free and bottomless. It was also just the appetizer.
+
+Judging by his internal clock, he’d arrived right on time. Zac flew to a neighboring mountain, ready to reclaim the mountain gate at a moment’s notice. He soon sensed a murmur of life nestled in the depths of the mountain, soon to be replaced by death. It went back and forth, growing in intensity and frequency until the golden arrays flickered ominously.
+
+Containment was breached just as Zac caught a glimpse of Chaos. A powerful surge of ancient Death swallowed the chaos mote and any lingering hints of life. It wasn’t the Death of the Ninth Hell, at least not in its current state. It was the artificial Death Zac was trying to mimic by visualizing the mantra.
+
+Zac decisively extracted his stockpile of refined enlightenment, rallying the runes in his mind’s eye one last time before they faded. All the while, Zac felt the Primo’s feather tremble inside his pocket.
+
+The disruption shattered the fraught peace surrounding the miniature mountain. Vast amounts of Void Energy came rushing in, and the streams of energy turned into C-grade Rivers. One of the rivers faltered as it passed, its strength stolen by the nondescript mountain gate. Things calmed down within a few minutes, at which point Fuxi’s runes faded from his mind.
+
+Zac dusted off his robes and flew back toward the platform with a satisfied smile. He would never grow tired of the sight. If all else failed, he would at least leave the mirror realm with a well-fed Void Treasure. He hadn’t found any C-grade Void Treasures so far, but each session by the mountain provided nearly as much energy.
+
+It was a win-win solution where Zac benefited by taking on some of the faith mountain’s burden. Consequently, the mountain’s faith had been growing stronger over time. It didn’t help Zac, but he figured sowing some good Karma couldn’t hurt—especially when the mountain represented the final piece in the puzzle.
+
+The mountain was hollow, yet there was no entrance. Zac had tried everything he could think of to get inside, including digging a tunnel from below. The reason was simple. The artificial death didn’t appear out of thin air. The mountain, or something installed inside it, was directly connected to the Primo’s treasure, leading to occasional spillover because of its weakened state. The flickers of chaos were further proof; Ogras had sensed the same thing where Tavza disappeared.
+
+If setting out into the vast nothingness of Ninth Hell was his backup plan, then the miniature mountain’s daily eruptions were his main goal. So long as he could get inside the mountain, he just needed to wait for the next eruption to reach the Primo’s Treasure. And it all circled back to Fuxi’s mantra. The Faith-attuned scripts covering the small mountain were different from the rest. Zac had already found some similarities to Fuxi’s runes and the artificial Death.
+
+A little more, and he’d find a trapdoor or weakness. He’d already sent over the patterns to his other side for another set of eyes on the problem. Meanwhile, he had helpers working hard elsewhere. Zac stepped into the Faith-attuned dome and took out his communicator. It was a happy surprise to find out that the mountain was a small hotspot with signal in the Void Realm.
+
+“How are things on your end?” Zac asked.
+
+‘Same old,’ Ogras answered. ‘I managed to track down another missing link, but it’s nothing exciting. Tavza discussed crop cycles of some forgotten region with one of the wandering ghosts. It almost feels like she’s messing with us. Do you want me to read the transcript?’
+
+“Sure, it might spark something,” Zac said.
+
+Zac still believed there were clues hidden in Tavza’s actions preceding her disappearance. He found it highly unlikely that she’d jumped through the dimensional tear blind. As a skilled Formations Master, Archaeologist, and descendant of a top-tier Faction, she had likely pieced together a solution without relying on Fuxi’s mantra. If he could uncover those clues, they might be enough to fill in the blanks of his own equation.
+
+Ten minutes later, Zac couldn’t help but agree with Ogras. It really seemed like Tavza was messing with them.
+
+‘Did it help?’ Ogras asked, not bothering to mask his complete lack of faith.
+
+“… Not right now,” Zac admitted. “It might be part of the pattern; I just can’t wrap my head around how.”
+
+‘I’m afraid this was the last of my clues. I can keep looking if you want, but I don’t think it’ll make much of a difference. I think you’re on your own on this one, buddy,’ Ogras said. ‘How long will it take you to deduce a path?’
+
+“At least another month unless I make a major discovery,” Zac sighed. “Maybe more. It’s hard to tell with these unfamiliar concepts.”
+
+‘Too slow. We don’t know what’s keeping that girl occupied, but our position grows worse with every passing day,’ Ogras said. ‘The goal is to break through a barrier of Faith, right? I think it’s time you had a talk with that patient of yours.’
+
+Zac looked in the direction of Fuxi’s statue before nodding thought. “I think you’re right.”

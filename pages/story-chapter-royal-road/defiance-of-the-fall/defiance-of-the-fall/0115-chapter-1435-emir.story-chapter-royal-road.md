@@ -1,0 +1,213 @@
+---
+id: 5b750116-70bc-5c4d-86ef-c4fe3ddcd7fc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,435 - Emir"
+slug: 0115-chapter-1435-emir
+partOf: defiance-of-the-fall
+position: 115
+ownLength: 3090
+unit: words
+publishedAt: 2026-05-17
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3408334/chapter-1435-emir"
+royalRoadId: "3408334"
+---
+
+“I greet the Young Prince!”
+
+Zac felt a headache coming on as he stared down at the kneeling man. Ramses the living mummy hadn’t just defied expectations by waking up ahead of schedule. He was fit enough to move about inside his makeshift prison. Zac had found Ramses in the middle of a cultivation session upon his return to the Dao-imbued side of Fuxi Halls, where he drew life and Faith from the recovering world.
+
+Ramses was still as weak as an F-grade cultivator, utterly incapable of putting up a fight if it came down to it. More troubling was the fervent adulation in Ramses’s eyes. Zac would have preferred the callous indifference of their first encounter. This reverence and address came with troubling implications.
+
+The silence lingered as Zac went over his options. He had been wracking his brain on how to extract the pertinent information. Ramses didn’t seem like the type to spill important secrets to repay the debt of saving his life. He’d considered threatening to hunt down the imperial’s compatriots and actively start sabotaging their plans.
+
+If that failed, Zac would prop Ramses full of Faith-attuned Natural treasures and record the reactions of his unique mantra. While their makeup was different, Zac was almost certain their patterns shared a common origin. By studying one, he’d gain answers to the other.
+
+Now, there might be a better option. Should he play along? Zac quickly discarded the idea. Actions have consequences, and words have meaning. There was a high risk he’d only end up getting further entangled with the troublesome karma of the Limitless Empire if he pretended to be of royal descent.
+
+At the same time, he couldn’t just ignore the matter. This man had somehow uncovered Zac’s most guarded secret. It wasn’t a matter that could be shrugged off. If nothing else, the identity could land him in a world of trouble if word spread outside. He already had enough Supremacies gunning for him. There was no need to further implicate himself as a potential successor to Laondio’s throne.
+
+“First off, never call me prince again. I’m not sure what notion has popped into your head, but you’re barking up the wrong tree. I’m just Zachary Atwood of the Zecia Sector, nothing more, nothing less,” Zac said.
+
+“Certainly, Your—Lord Atwood,” Ramses hurriedly agreed, the fire in his eyes not quelled in the slightest.
+
+“You—whatever,” Zac sighed as he sent out a set of mental tendrils to lift Ramses from the ground. He’d said what needed to be said, drawing a line in the sand. If Ramses wanted to insist on his delusion beyond this point, that was on him. Even if that meant signing his own death warrant.
+
+“What’s your name? I can’t keep referring to you as Ramses the mummy.”
+
+“I’m Emir Evrodok Amassas of the Pesvati Rift, my Lord,” Emir said.
+
+“Evrodok?” Zac said with surprise.
+
+“It’s not as impressive as you think. Every citizen of the Rift carries his name to honor him and keep the flame alive,” Emir said.
+
+“You’re a lot more forthcoming than when we last met,” Zac commented as he sat down at the table.
+
+At the same time, he noted the similarity to his bloodline vision. Laondio had first made Karz carry his name, and now these people? There had to be a reason for it. If the plan was just to hide inside the rift, taking the Emperor’s name would only risk drawing Heaven’s attention. Were these people used to dilute the Emperor’s sin?
+
+“That’s… the early appearance of a Flamebearer, especially one bearing the bloodline of the Sindris Clan, caught us by surprise. We have to be careful when dealing with the stronger agents of change. The wrong action can have disastrous consequences, even when made for the right reason,” Emir said, hesitating a moment before leaning closer. “Your involvement here… is it the answer of the Sindris Clan?”
+
+‘What the hell? Just how much does this guy know?’ Zac complained to himself. He had to suppress the instinct to cut Emir down where he stood.
+
+“Sindris Clan? Why do you mention them?”
+
+“Our mantras hold a vast amount of knowledge inherited through countless generations. They rise to the surface when the prerequisites are met. I knew the second I saw you that you were part of the Sindris Clan,” Emir explained.
+
+“Well, sorry to disappoint you. I’m not part of them. I didn’t even know they existed until a few years back. It looks like they’re part of my ancestry, but that has nothing to do with me,” Zac said.
+
+“You don’t have to worry. The enmity between the empire and the Sindris Clan is a thing of the past. They’ve fulfilled their promise, loyally guarding the Edge in our absence.”
+
+‘Guarding the Edge? Against whom?’ Zac noted the peculiar description.
+
+According to Leandra, the Sindris Clan’s ancestor was the only one to return alive when the Technocrat Council went to stop Laondio. With the compounded ‘sin’ of harboring Karz for hundreds of thousands of years, they were exiled to the edge of the Multiverse. From what Emir said, there might be more to the story.
+
+Was the Sindris ancestor intentionally spared? And why did the Edge need defending? Zac had seen the great beyond in Starclad’s memories. The Stellar Wanderers had spent God knows how long exploring the boundless desolation, traveling unimaginable distances before the inhospitable environment forced them to return.
+
+In all that time, did they even find a trace of anyone else existing out there? It was still possible they weren’t alone. Except, how was the Sindris Clan supposed to deal with anything powerful enough to freely travel the desolation? Not even the Stellar Wanderers could come and go as they pleased. According to Wal’Zo, only the Eternal would be qualified after she devoured the Multiverse and reached true Eternity.
+
+While curious, Zac had bigger fish to fry.
+
+“The way you’re speaking, aren’t you afraid the Heavens will strike you down? I’ve heard there’s a taboo on aligning yourself with the Limitless Empire?”
+
+“Not in here. The restrictions are weakened in the Left Imperial Expanse and almost completely erased inside the Outer Courts,” Emir said.
+
+“Still, loose lips and all that. You should know what the old things observing the trial will do if they discover that the Pesvati Rift is an enclave of the Limitless Empire.”
+
+“The Rift is not a place where they can come and go as they please,” Emir said without a care. “There are stronger forces in the Cosmos than Cultivators.”
+
+“Fine, it’s not my problem anyhow,” Zac shrugged. “Anyway, I’m not some prince like you thought, and I didn’t save you out of my bleeding heart. I need information. First off, what the hell happened back then?”
+
+“If you would lend me a Faith Crystal?” Emir said.
+
+Zac handed over a crystal after some deliberation, cautiously watching as Emir drew on it to open a small golden rift. It was similar to the one he emerged from when they first met, except it was only the size of a hand. An Information Jade was spat out before the gate closed. No wonder he never found any spatial rings on Emir’s body. The weird mantra inside Emir’s body actually came with its own storage, an ability almost exclusive to non-combat classes.
+
+A personal space was more secure than a Spatial Tool, but Emir was a living example of its drawbacks. Extracting a single item in his state was almost enough to push the man into a coma. He barely managed to hold on, handing over the jade with shaky hands. Zac infused his will, his brows rising in surprise at the recording.
+
+The recording was made from this very mountain, focusing on the neighboring peak where Zac broke through. The clouds of his own tribulation soon descended, shrouding the whole region in angry red light. Zac warily glanced at Emir.
+
+“How did you know I was planning on breaking through?”
+
+“I’ve been observing your team since you arrived, just as I have with the other sealbearers,” Emir said.
+
+“And why were you skulking—wait, what’s this?” Zac watched with confusion as the clouds began dispersing.
+
+That part wasn’t anything surprising. It was around this point that the Judgment Plateau activated, moving the tribulation to a separate space. However, just as the clouds covering the mountain range were about to disperse, they rallied with newfound power. Yet they never struck anything. They simply went back and forth between ebb and flow in an endless cycle.
+
+“This phenomenon lasted for a full thirty-three days,” Emir said.
+
+“How is that even possible?”
+
+“Its end was inverted to become a new beginning,” Emir said, briefly glancing at the sky.
+
+“I see,” Zac sighed. So, both Roan and Margrave had kept themselves busy during his breakthrough. “Why were you here in the first place?”
+
+“I… I was deliberating whether I should infiltrate the Judgment Plateau and disrupt your breakthrough,” Emir said, quickly continuing when killing intent spread through the cave. “I could sense that you carried a mysterious connection to the Earth Sage when we first met and decided to push you in his direction.”
+
+“And then you felt I’d done enough?” Zac growled.
+
+“The ripples you left in your wake proved greater than I anticipated. Your potential for change is extraordinary, to the point it’s unsettling, and there was nothing explaining your presence in our scripture,” Emir sighed. “I was afraid of what would happen if you were allowed to step into Peak D-grade.”
+
+“Better to nip the problem in the bud. I get it,” Zac said, inwardly shuddering. He had no idea how close he’d come to a repeat of his disastrous Late D-grade breakthrough. “Something changed your mind.”
+
+“On the last day, I felt a majestic aura coming from you,” Emir said, his sallow eyes burning. “The aura of the Limitless Emperor.”
+
+‘Which one?’ Zac wanted to ask but held his tongue, nodding for Emir to continue.
+
+“It was the flame… And I was the kindling,” Emir said, gazing down at his withered hands.
+
+“Your blood,” Zac surmised.
+
+Emir nodded. “Your… pedigree and the inherited Karma of my bloodline were combined into a lure that the Heavens couldn’t resist. The tribulation was already in place, and the Heavens were tricked into thinking the Emperor had reincarnated.”
+
+“Which made it go crazy,” Zac said. “How do you benefit from lying to the Heavens?”
+
+“The Heavens is truth. It’s correct even when it’s wrong. Belief has meaning, especially on the Left Imperial Expanse. It gave our gambit authenticity, so to speak.”
+
+“Not our gambit,” Zac corrected with a glower.
+
+“Ahem. Karma and blood fused into genuine Imperial Mandate. It became the beacon that guided the Left Imperial Palace’s return.”
+
+“You’re telling me that the Fifth Pillar would have stayed hidden if not for my breakthrough? I don’t buy it,” Zac countered.
+
+“It was only one of many routes, I’m sure,” Emir nodded. “I think the predecessors sensed an opportunity to bring the schedule forward in you.”
+
+“What’s good about exposing the Ultom Courts early?”
+
+“You should have figured out what we’re trying to accomplish by now. We’ve endured long enough. It’s time for the Empire to raise its banners and reclaim its place under the sun,” Emir said.
+
+“I’m sure most people would disagree.”
+
+“And therein lies the problem,” Emir sighed. “All these years, and the Cosmos is still unwilling to let go. The closer our plan comes to fruition, the greater its resistance grows. It will begin siphoning Fate, or potential if you will, from this continent. It’ll do anything to prevent us from taking that final step.”
+
+“The Left Imperial Palace can resist the Heavens,” Zac slowly said.
+
+“The Ultom Courts transcend the Cosmic Order. Just unearthing it will weaken Heaven’s influence over this region. Not only that, the Palace is the core of the Fifth Pillar. Only when it’s integrated with the Imperial Road and the Outer Courts will the arrangement function at maximum efficiency,” Emir paused for a few seconds in thought.
+
+“Our scripture doesn’t explain the outcome, but I can make a few guesses. With Ultom shouldering part of the load, the restrictions on the predecessors will weaken. They should be able to nudge us sealbearers in the right direction. They might even resolve some of the knots of untapped potential themselves.”
+
+“You guys are cheating at the game you designed yourselves,” Zac scoffed, ignoring Emir’s troubled expression. “Why should I believe a word of what you’re saying?”
+
+“I’m sure the information you’ve gathered elsewhere will corroborate my explanation.”
+
+“The fact that you’re willing to share is suspicious. I frankly don’t care whether the Limitless Empire returns or not, but I’ve already told you I’m not one of you,” Zac said.
+
+“For thirty-three days, I was caught in a loop myself. To mark you as enemy or ally, a threat or asset. To the bitter end, I failed to find an answer on my own. It was only by you shattering the status quo that the blinders were lifted from my eyes,” Emir looked at Zac with utmost certainty. “I’m not trapped any longer. Whether you’re one of us or not doesn’t matter. You are critical. The fact that you allowed me to persist beyond Fate’s allocation proves I need to help you.”
+
+Zac couldn’t bear that hopeful gaze, the same one he’d seen on Xiphos, and changed the subject. “When we first met, I saw you step out of the body of your compatriot. What was that?”
+
+“On this continent, we can use our Innate Mantras to connect with the Imperial Road. Since we’re genuine citizens of the Empire, we can use its nodes to cross vast distances. What I did with Insik followed the same principles, though it came at a great cost.”
+
+“Wasn’t the road destroyed?” Zac asked.
+
+“It was, but the Earth remembers,” Emir said.
+
+“If I help you get better, can you take me to the Left Imperial Palace?” Zac said, taking out one of the Natural Treasures he’d sourced over the past weeks. “I think these can help you recover.”
+
+Emir only gave the treasures a fleeting glance before shaking his head. “I lack fate with the Left Imperial Palace, and I’m not sure if the nodes will accept you. At most, I would be able to help you cover some of the distance,” Emir said. “I don’t think you’ll have to worry about that. The main scenario will adapt to the palace’s reintegration, and the Outer Courts are directly connected to the palace.”
+
+“So, something like a teleporter will appear when the time is right?” Zac surmised.
+
+“For those wielding the right fate. As a Flamebearer, you’re naturally on the list,” Emir nodded.
+
+“Good to know,” Zac said, deciding it was time to focus on the task at hand. “Tell me about Fuxi.”
+
+Emir had clearly expected the question. “Little is known of Sage Fuxi. He’s called a visionary in Pesvati Rift’s scripture, and Fuxi Halls is built upon his [Grand Unity Canon].”
+
+“Grand Unity?”
+
+“It was the Sage’s pursuit in overcoming the Terminus. He believed there exists a greater force above those we see today. By refining Clear and Turbid Qi—Dao and Void—to their utmost limit, they would gain the ability to combine into what Sage Fuxi called Grand Unity Qi. This Qi was the key to a higher state of existence, to seize true Eternity.”
+
+The description made Zac think of Starclad’s first memories. The races of Ancient Arcana first appeared in a boundless mist that later birthed the First Era. Could this be the Grand Unity Qi that Fuxi wanted to recreate? Zac agreed it had to be something special, considering the beings born from it.
+
+To recreate the most primordial essence in existence was a goal worthy of a sage like Fuxi. Ultimately, he failed, like all other powerhouses grasping for Eternity across the ages. The Empire, ever pragmatic, later repurposed Fuxi’s pursuit into something that could further their undertaking.
+
+“Do you know where I can get my hands on the [Grand Unity Canon]?” Zac asked.
+
+“It’s not listed in the exchange of Fuxi Halls, and I don’t believe the Rift has it either,” Emir said. “The only thing mentioned in the scripture is a mnemonic Sage Fuxi left behind.”
+
+Zac signaled for Emir to recite the mnemonic, and he spoke in the Limitless Empire’s original tongue.
+
+‘Courtesy through rite, wisdom through imagery. Benevolence to usher in the three occurrences. Do not look back when crossing the Yellow River; Unity is the mandate of man.’
+
+At first, the words felt like the seemingly intentionally cryptic lines of his [Nine Reincarnations Manual]. And yet, they held a mysterious charm that refused to let go. The mnemonic rolled in Zac’s mind, creating a spiritual cadence that brought new life to the fading runes in his mind. More surprising, three new illusory runes briefly joined their brethren.
+
+Zac had to stop himself from rushing out of the cave to return to Fuxi’s side. The threshold of clarity was tantalizingly close, but Emir was a veritable wellspring of vital information. As if prompted by the notion, the imperial’s next words were just as explosive.
+
+“Pardon me for asking, you are here to recover Lord Galgallim’s right eye, are you not?”
+
+“His eye?” Zac said with surprise.
+
+“His left eye witnesses the past; his right welcomes the future,” Emir said.
+
+“What if I am?”
+
+“It’s our duty to help. The Lords upheld their end of the bargain, and the eye wasn’t meant to remain with the court,” Emir said. “In fact, our goals are aligned in this aspect. Its presence has trapped the Ninth Hell in limbo, preventing Karma from reaching its conclusion. Helping you would mean dealing with the ongoing interference.”
+
+Zac rubbed his glabella in exasperation. Emir had already figured this much, so what did it matter if he put the cards on the table?
+
+“There’s a second realm beneath this one. I’ve found a mountain there that seems to be connected to the Primo’s eye, but I can’t get inside. Any advice?”
+
+“I visited the Turbid World myself before you arrived, and I know the mountain you speak of. The [Grand Unity Canon] can connect with its array, but you’ll need a key.”
+
+Zac gave Emir an even stare. “You have to be kidding me.”
+
+“Pedigree and Karma,” Emir said, pointing at his forehead. “I can act as the key so long as you’re able to turn it.”

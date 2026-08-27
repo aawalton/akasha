@@ -1,0 +1,105 @@
+---
+id: 6269f95a-5d55-5e59-bdcb-68f774194fd2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 44"
+slug: 0045-chapter-44
+partOf: death-healer
+position: 45
+ownLength: 1095
+unit: words
+publishedAt: 2025-07-01
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2401380/chapter-44"
+royalRoadId: "2401380"
+---
+
+Months away had dulled her memory—she had pictured bustle, servants, scent of roasted almonds. Instead the air tasted of dust and extinguished ash. Curtains hung rigid, hearths lay dark, and each footfall died as though heavy drapery smothered the sound.
+
+Halfway down the gallery she halted. Adriana waited there, back straight, hair unbound. A plain riding‑dress of unrelieved black cut a stark line against the marble. Lily searched her mother’s face for welcome or reproof and found only a stillness that reminded her of ice before it cracks.
+
+“You’re late,” Adriana said, not unkind, simply factual. “Your trial can’t wait for firewood and greetings.”
+
+Lily swallowed. “Is Father—”
+
+“Riding at the frontier,” her mother answered, gaze level. “His absence needn’t slow us.” She turned. “Come.”
+
+They crossed the rear patio. Wind rattled the cypress hedge and carried the smell of frozen loam. At the orchard’s edge a grass‑clad mound rose—a mere bump if one didn’t know. Adriana knelt, sketched a chalk sigil, and earth split without a sound. A stone stair yawned.
+
+“Did he finally approve this?” Lily asked.
+
+Adriana snorted—one brittle spark in the gloom. “Your father hoards his doubts. I found the rite myself.” She handed Lily a thin stick of tallow. “You won’t need light; the mirror provides its own.”
+
+“What’s the trial?”
+
+“Healing. Nothing suits you more.” Adriana’s hand rested a heartbeat on Lily’s shoulder. “Easy for you—just be careful.”
+
+A little ray of warmth penetrated the spectral behavior of her mother.
+
+"Where's everyone?" Lily asked.
+
+"I sent them away. I don't want anyone on the premises. I had a few wards being erected to make sure there'd be no intrusions today."
+
+Lily felt that brief pressure linger after the fingers left.
+
+“Will you come with me?”
+
+“You must descend alone,” Adriana said, voice softer now. “Do not speak, do not turn back. Once the trial starts, darling... it can't be stopped, apparently. It's harsher, in some ways, of what I went through. It feels more ancient, even.”
+
+"What you went through?" Lily frowned.
+
+"I tried learning the Great Skill of the Gens Iulia. My body couldn't take it," Adriana said with thinly pursed lips. "Now, go. Let's get this over with. I have also more knowledge to share with you."
+
+Lily nodded and drew a breath before setting a boot on the first step. As soon as she crossed the threshold, the door swung shut behind her.
+
+She lit no lamp. A faint grey glow seeped through porous stone, enough to find each uneven tread. The air smelt of wet clay. There were many steps steps before the stair ended at a small, square chamber‑cut directly from the rock.
+
+In the centre, a single basalt block served as pedestal. Upon it stood an oval mirror framed in obsidian. Beside the pedestal waited a low three‑legged stool and a ritual knife: narrow, curved, blade black as coal.
+
+No inscriptions, no torches—only these three objects and the hush.
+
+Lily’s pulse hammered. She stepped onto the pedestal beside the stool and lifted her gaze to the glass. At first she saw only murky reflections of stone and shadow. Then her own shape condensed with much paler skin than Lily's and different clothing, just a thin skirt and a narrow top--like some dancers Lily had seen before.
+
+The reflection moved—but not with her. It cocked its head as though hearing a distant tune. Then, impossibly, it slid off the mirror and entered the room—glass rippling round its ankles like water. What is that, Lily thought, spooked.
+
+Bare feet—if they were feet—made no sound on stone. The double drifted left, then right, testing space, colourless eyes never leaving Lily’s and an eerie smile that showed slightly pointed teeth.
+
+It jumped off the mirror and landed close to the stool.
+
+Its lips shaped words she could not hear as it looked at Lily.
+
+"Are you saying something?" Lily asked, bringing her hands up, ready to fight that monstrous double of her.
+
+At last, the creature stretched one arm, hesitating a heartbeat above the knife. Lily’s own fingers twitched, aching with sympathetic chill.
+
+Oh shit, Lily swore. Is this going to be a fight? Is that the trial? Didn't Mother say it would be healing?
+
+It closed its hand, lifted the curved blade, turned it to catch the faint glow, and hopped back into the mirror in a single, weightless bounce. Heels planted. Shoulders squared. Steel poised.
+
+It gave Lily a slight nod.
+
+The tip pressed to its pale abdomen. Lily’s breath locked—
+
+—and the knife plunged, hilt‑deep.
+
+Agony flared through Lily’s stomach. She gasped, clutching a sudden warmth under her tunic. Sticky wetness spread across her palms. She looked down: red seeping through linen, a wound matching the mirror’s.
+
+Panic surged; training answered. She channelled Light, weaving threads beneath skin, searching the arterial tear she could feel pulsing.
+
+Seal the vessel first, she reminded herself. She knitted the severed wall; blood flow slowed, then stopped. Next, muscle sheath—layer by layer—until skin closed over a faint pink scar.
+
+When she dared raise her head, the reflection had already withdrawn the knife. Its wound sealed in identical fashion, light haloing the final suture before fading. The blade lifted once more and knifed into the mirrored thigh. Pain detonated in Lily’s own leg—a hot jet against her palm. She knew the target even before [Mana Sense] confirmed it: mid‑inguinal puncture, femoral artery severed.
+
+Pressure first. Both thumbs clamped the breach; arterial pulses battered her hand. Proximal control. A loop of light‑mana cinched two centimetres above the cut, a second loop below, isolating the rent segment.
+
+With flow halted she pictured the ragged ends of the artery, then spun filaments of mana—a dozen micro‑sutures—an end‑to‑end anastomosis neat as any surgical plate. Sweat beaded as the last knot drew tight. She released the upper loop; the pulse resumed, contained.
+
+Tensor fascia, adductor sheath—she layered closure plane by plane. Sub‑Q, dermis, epidermis followed until only a thin silver line crossed blood‑flecked skin.
+
+The pain dulled to a throb. Heart still racing, she met the mirror’s pale gaze and panted—only to see its lips peel into a smile too wide, too full of polished teeth.
+
+Slow as moonrise, the reflection lifted the knife to its own throat. Lily froze; every instinct screamed move, yet the trial’s hush held her like wire. A centimeter of blade touched pale skin—then paused, drawing a bead of black‑grey blood.
+
+Lily’s breath snagged. Not the carotid, please—
+
+The grin widened. Steel slid sideways, ear to ear. Crimson fountained across the glass.
+
+A matching slice bloomed under Lily’s jaw.

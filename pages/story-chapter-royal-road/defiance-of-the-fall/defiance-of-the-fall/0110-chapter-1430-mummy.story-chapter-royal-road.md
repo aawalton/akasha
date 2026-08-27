@@ -1,0 +1,125 @@
+---
+id: fdd2aa56-ae00-59c0-a129-6864d0bd7eb6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,430 - Mummy"
+slug: 0110-chapter-1430-mummy
+partOf: defiance-of-the-fall
+position: 110
+ownLength: 3195
+unit: words
+publishedAt: 2026-05-05
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3359028/chapter-1430-mummy"
+royalRoadId: "3359028"
+---
+
+A low roar came from [Verun’s Bite], tightly gripped in Zac’s hand. Having been together so long, Verun could easily intuit what Zac was thinking, and the Tool Spirit seemed to agree. She hadn’t forgotten their previous encounter with the mummified man, when her edge failed to so much as draw blood when it struck his palm. Kicking someone while they were down might not be righteous, but killing him now would prevent troublesome variables down the road.
+
+It wasn’t meant to be. For one, they were in the middle of the Hollow Court, which made them fellow disciples in the eyes of the Limitless Empire. Killing him would trigger a manhunt with Zac as prey instead of hunter. Even if he found the edge of Fuxi Halls’ memory domain and killed the man outside, his actions were bound to attract scrutiny.
+
+Not to mention, Zac was guided here by a powerful Templar acting under orders of Roan. He wouldn’t be surprised if they were still keeping him under observation. Lastly, the priest said the answers Zac sought might be closer than he thought. This mummified man could be the key to completing his mission.
+
+If Zac’s theory about the man’s origins proved correct, he should be sitting on extremely valuable information. Whether it was the inside scoop of the Hollow Court and where to find the Primo’s treasure or clarity on the sudden appearance of the Left Imperial Palace, this mummy was his best bet.
+
+“Well, I guess it’s your lucky day,” Zac said with a crooked smile as he carefully inched closer.
+
+Appearances could lie, and Ramses might hold automated defenses set to target anyone coming close. Zac’s danger sense remained silent throughout, even when he began rifling through the mummy’s pockets.
+
+“I’ll just call you Ramses since you’ve gone and turned yourself into a mummy,” Zac muttered before placing his hand on the man’s chest.
+
+His plight was definitely not an act. Rather, Zac’s old opponent was in an even worse state than his wretched appearance indicated. It was like something had sucked out all the moisture from his body. His muscles were desiccated strings resembling jerky, deprived of any hints of Vigor. His organs had shut down, and his veins had completely collapsed. Not a single drop remained, and he was too far gone to replenish himself.
+
+The sight was somewhat familiar. Zac warily observed his surroundings once more. Did the Undead Empire rebels manage to send a few vampires of the Eternal Clan inside after Kator died? The Eternal Clan should have an above-average affinity with Hollow Court. They weren’t exactly Edgewalkers who wielded both Life and Death, but their Dao of Blood did undeniably blur the lines in ways Zac still didn’t fully understand.
+
+For better or worse, there were no traces of blood arts or the Dao of Death on the comatose man. There were no wounds or foreign Daos for that matter—anything that would indicate a battle or cultivation deviation. He was simply drained, both spiritually and physically. His Cosmic Core was in the same state as his body, so exhausted that it may as well have been a common marble.
+
+“Nothing but a husk. Four Desolates?” Zac muttered with a thoughtful frown as he infused some of his energy.
+
+The energy dispersed without providing any relief. It was like the mummy’s potential had been drained along with everything else, preventing his recovery. It made Zac think of how the Four Desolates tried to extinguish his Energy, Cultivation, Dao, and Longevity to rebalance the scales. Could Ramses’ state be what happened should one fail the tribulation?
+
+Most Hegemons would have died already. An extraordinarily refined constitution had allowed Ramses to hold on, and his flame of life was kept going by a thin stream of Faith Energy provided by the land. The mountain was in no better state than its inhabitant, and it almost seemed like it was giving up on its own recovery to keep him going. Judging by the mountain’s state, Zac would have been too late if he had emerged from seclusion a week later.
+
+With his “patient” in such a fragile state, Zac couldn’t just cram a bunch of pills down his throat while flooding him with Creation Energy. Even if Ramses’ body didn’t reject it, it would be like feeding fatty foods to someone on the brink of starvation. Just moving Ramses into the cultivation cave could be the straw that broke the camel’s back. Each action needed to be measured and thought through, so Zac kept looking.
+
+Investigating the inner workings of a defenseless elite from the Eternal Storm was an eye-opening experience. Ramses’ cultivation neither followed the rules established by the System nor the rougher path of ancient cultivators. What remained of his pathways looked more like Sanskrit or natural runes than fractals, turning his whole body into a unique sutra written in the language of Dao.
+
+Instead of distinct skill fractals, abilities were dense mantras that were part of his network. It followed a holistic approach very different from the modular cultivation system introduced by the System. The route should share the same weakness as an Izh’Rak’s Reaver’s skeleton. Damaging one section of the sutra would have a greater effect than damaging conventional pathways.
+
+It wasn’t a matter of just rerouting energy flow or giving up on the use of a particular skill. It would be more like trying to activate an array with one of the array flags missing. Furthermore, the bottlenecks had to be significantly harder. Ramses probably had to upgrade all his pathways and skills simultaneously to prevent destabilization. It would be impossible without specialized resources.
+
+Zac would be foolish to chalk it up to the ignorance of a society trapped far from the Multiverse Heartlands. The peak factions of the Eternal Storm weren’t ignorant of the ways of the integrated cultivation societies; they simply opted for cultivation better suited for their needs and resources. The Technocrats were a prime example of this.
+
+With such harsh demands, there was bound to be some form of payoff. Becoming a human formation likely provided smoother energy flow, greater synergy, and a natural, perfect harmonization of one’s path. The latter was especially important when pursuing the higher stages of cultivation.
+
+Academic curiosity wasn’t enough to make Zac forget the task at hand. He gauged and investigated every part of the man’s cultivation, occasionally infusing diluted streaks of Dao or energy to see how he reacted. There was still a chance for the man to recover thanks to being a body refiner with extensive achievements.
+
+It would all depend on what Zac found when probing his mind. He was painfully aware of how troublesome damage to the soul was after what happened to Alea, and Ramses appeared unable to refine any medicine. There was nothing Zac could do if his soul had fractured when misfortune struck.
+
+Zac’s drifting thoughts immediately sharpened as his investigation triggered a reaction, and a powerful one at that. Ramses’ Soul Aperture suddenly transformed into a vast sutra radiating intense Imperial Faith. The hidden pattern acted like a cornered beast upon the intrusion, rallying its forces to lash out.
+
+While its glory was faded, it still held enough might to give Zac pause. It wasn’t just a matter of quantity, either. Its damaged state couldn’t hide its profound origins. It easily surpassed what a Hegemon could refine. It was the same feeling that Zac got from his Chaos Motes or the fruits of the Void Tree—concepts directly derived from a Grand Dao.
+
+The mantra acting as Ramses’s Soul Aperture had to be the nucleus of his unusual cultivation. It was either something inherited through bloodline or directly implanted by a senior of his clan. More shocking, it wasn’t that long ago that Zac had sensed a near-identical presence. It was the stone that Laondio had engraved in his Bloodline Vision, perhaps the first appearance of the term “Limitless Empire.” The unusual tapestry was instilled with the same meaning as those two runes.
+
+It all but confirmed Zac’s theory. These people truly were descendants of the Limitless Empire, possibly descendants of Laondio Evrodok himself. They’d somehow eluded the great purge and were holding out in the depths of the Eternal Storm to this day. Amazingly, their existence hadn’t just eluded the Heavens’ notice, the Pesvati Rift had actually survived while being neighbors with their old enemy, the Technocrats.
+
+Then again, was it really that surprising? If Laondio could exile the existence of Karz and monopolize a whole Dao Peak, how hard could it be to create a lifeline for a line of descendants? If that was what these people actually were.
+
+Zac had never heard any mentions of descendants or an imperial clan. There was only the Emperor and his loyal followers. Laondio also didn’t seem like the type, no matter how agreeable he appeared in Karz’s visions. From what Zac had seen and inferred, he was very much in agreement with his ancestor.
+
+Laondio wasn’t necessarily a nefarious person, but he was exceedingly dangerous and solely driven by his grand ambition. His enemies disappeared without a trace, he’d abandoned both master and sect during the calamity that swept the Grand Expanse. It was this callous pursuit of the Dao that left Karz certain that Laondio would sooner or later set his sights on his Bloodline. Someone like that wouldn’t have bothered taking Dao Companions or raising descendants unless they were necessary for his goals.
+
+The mysterious tapestry quickly calmed down. After gently grazing Zac’s Mental Tendril for confirmation, it reverted to the shape of a normal Soul Aperture. It appeared that the recognition was mutual. Zac looked down at the mummy in thought. Everything pointed to Ramses being the actual source of calamity. But how could a Late Hegemon kick up such a storm, and how was it connected to Zac’s own breakthrough?
+
+Zac spent the next day looking for ways to improve Ramses’s condition. The result was the same no matter what pill or decoction he tried. It truly felt like Ramses had been rejected by the Heavens, preventing him from reclaiming what he’d lost.
+
+“If the Heavens don’t want you, I’ll just blind them for a while. If you can hear me, you’d better hold on,” Zac said before releasing [Void Zone] to cover half the mountain.
+
+What little spirituality had recovered on the mountain was immediately suppressed, creating a zone truly isolated from the Cosmos. That included the weak stream of Imperial Faith that had kept Ramses going thus far, and Zac saw his flame of life flicker precariously. Wasting no time, Zac quickly cycled his Dao of Life through Ramses's body while pouring a diluted elixir down his throat.
+
+It worked. Within [Void Zone], the unusual restriction no longer affected Ramses. His body began drawing, making the medicinal energy of the elixir his own. And yet, he was rapidly getting worse. Zac was forced to deactivate his Bloodline Talent after just five seconds. Any longer, and Ramses would have been killed by the Void rather than by his condition.
+
+It took twenty minutes before Ramses stabilized, at which point he was marginally better than before. Having found a viable approach, Zac repeated the cycle hundreds of times over the next three days. The patient’s body finally reached the point where his viscera showed signs of activity, and almost transparent blood started pumping through his veins.
+
+Shortly after, Ramses’s Cosmic Core started drawing energy from his surroundings. Zac, taking the role of a cultivation jumper cable, had somehow broken the status quo and begun to reintegrate Ramses with the Cosmos. Still, recovery was slow. While Ramses was human, his unique cultivation method had rendered most of Zac’s medicines incompatible.
+
+That was especially true for his highly unusual soul. The false Soul Aperture completely ignored all the Soul-nourishing pills he provided. Zac was no doctor, but he estimated it could take weeks before Ramses woke up on his own. Waking up was only the beginning. Ramses might practice body tempering, but that didn’t make him an undying cockroach like Zac.
+
+Ramses would be bedridden for at least a year unless Zac could get his hands on some magical tonic. Whether he could fully recover his cultivation was hard to say, and Zac didn’t particularly care about that part. From his perspective, Ramses remaining weakened was probably for the best.
+
+What mattered was the knowledge locked away in Ramses’s mind. Zac had repeatedly searched his belongings and the cultivation cave between treatments. There was no sign of Spatial Treasures, hidden compartments, or clandestine notes. Whatever information Ramses possessed would have to be dragged out of him through interrogation, and Zac neither had the time nor the patience to play nurse until he was awake and lucid.
+
+With Ramses stabilized, it was time to get going. The Void might’ve been the only thing that could reverse Ramses’s state, but the benefits of exposing Ramses to the Void had already reached diminishing returns. Zac was better off finding an actual healer or a Soul-nourishing method made with Imperial Faith. Such medicines had decent chances of working on Ramses.
+
+With the mountains all around them originally filled to the brim with Imperial Faith, some suitable Natural Treasures might have survived. Not to mention, the Templar had not just led him to Ramses, he’d also suggested that Zac walk the mountains and valleys. If that plan failed, Fuxi Halls should have an exchange pavilion somewhere. Zac wouldn’t mind spending a few hundred points of Longanimity on something that could wake up Ramses a few weeks early.
+
+Putting all his hopes on Ramses having all the answers also wasn’t Zac’s way of doing things. Traveling Fuxi Halls was also an opportunity to look into clues about the Primo on his own.
+
+“Don’t blame me. This is for your protection,” Zac said while erecting a series of barriers and communication jammers around the cave, effectively turning it into a holding cell.
+
+With Ramses’ ruined cultivation, he could bash his head against the shields for years without any results. Left by the bedside was also enough water and rations to last Ramses a few months. It was by no means a foolproof solution, but restraining Ramses with sealing treasures like Ogras did with Tavza was a death sentence.
+
+The mountain range hadn’t changed much. A few days was not enough for nature to recover on its own, making the green patch created by the priest stand out all the more. It didn’t make sense to Zac. Why was there no reclamation work underway? Where was everyone? The Limitless Empire wasn’t the kind of force that would let nature slowly recover. They should be imposing their will on the harried mountain range, shaping it to suit their needs.
+
+The mountaintop palaces that survived the tribulation were abandoned, and Zac couldn’t sense spiritual fluctuations from any direction—not even the distinct aura of the Margrave’s Heavenly Territory. If not for meeting the priest the other day, Zac might have thought he’d been ejected from the memory domain upon leaving the Judgment Plateau.
+
+There were no calls of treasure or accumulations of fate no matter which direction Zac turned. Zac took out the Primo’s feather from his Spatial Ring. He’d already done this a few times while growing impatient with Ramses’s slow recovery. It still didn’t react in the slightest to the surroundings, and it rejected Zac’s attempts to infuse it with any of his Daos. Not even the Void could penetrate the absolute Death it held.
+
+With nothing better to go on, Zac flew in the direction from which he’d sensed the Margrave’s aura when first arriving. Zac figured the members of Fuxi Halls would have flocked to him for safety when the Heavens descended. The rolling mountains and deep valleys seemed endless, and their gargantuan size made Zac’s progress seem slower than it was.
+
+Nevertheless, after hours of uninterrupted flight, Zac started to see some change in the environment. The further he moved from the tribulation’s epicenter, the better off the mountains looked. Fewer were crushed by Heavenly wrath, and the cracks covering their surface didn’t go as deep. They also retained more energy, though it was still less than what you’d find in the shallows. Zac had to use Cosmic Crystals to keep his reserves topped up.
+
+With less foundational damage, signs of recovery were further along. Life and Death came from above while Imperial Faith filled the depleted mountains. Surpassing them both was the void seeping through the cracks in the valleys. Zac suddenly stopped and closed his eyes. Ten seconds later, a Void Vortex appeared before him.
+
+His hand met solid rock the first time he sent it through. The aim was off, so Zac created a second vortex miles beneath the surface. This time Zac barely had time to extend a finger before he recoiled with a grunt. There was no need to close the vortex; it had been crushed by an unexpected energy surge that singed his fingertip clean off.
+
+Undeterred, Zac made a third attempt. This time, he successfully brought out a small clump of subterranean moss. It immediately began to crumble when exposed to the winds, and reactivating [Void Zone] didn’t help. The middle D-grade Void Plant was no use to his cultivation, so Zac threw it into [Fuxi Mountain Gate] before it collapsed. It was only a drop in the ocean, but every bit helped.
+
+Zac sensed six more Void Treasures over the coming day, all more than five miles underground. The Void Energy came from even further down, rising to the surface like it was drawn to something. None of the hauls were very impressive, but each discovery increased Zac’s curiosity about Fuxi Halls’ underground world.
+
+Was it connected to a Lower Realm, possibly the Lowest Plane they glimpsed in the Hidden Earth Abode? Or did it dig deeper, going straight for the source? What else could be found down there? The Void grew stronger the further down he looked, and his treasure sense could only scratch the surface. Perhaps there were C- and even B-grade Void Treasures waiting to be claimed.
+
+Of course, one needed to be alive to get them. The only way to investigate the depths was by heading down himself. With Void Energy constantly seeping into a realm aligned with the Dao, the underworld was significantly more unstable than what Zac had seen in Kavista. Zac wanted to check his other options before taking the risks. Two days later, Zac understood there were none.
+
+He’d stopped at a mountain that had shattered by lightning, creating a jagged flower at its peak. It was the third time he’d encountered it in as many hours. The mountains continued to the end of the horizon, but something prevented Zac from going any further. The restriction wasn’t as overt as the outer bounds of the Orom World, but he was trapped all the same.
+
+It was no wonder there were no people around, or why the priest only appeared with a golem made of mud. The mountain range had been quarantined with Zac in it.

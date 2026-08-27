@@ -1,0 +1,137 @@
+---
+id: 09f652de-0f73-583a-8bda-5e34040025b2
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 74"
+slug: 0148-b2-chapter-74
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 148
+ownLength: 1464
+unit: words
+ownProgress: 1464
+publishedAt: 2024-04-24
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1609300/b2-chapter-74"
+royalRoadId: "1609300"
+markedReadAt: "2026-06-29T19:10:44.958Z"
+---
+
+Aria
+
+I continue making my way through the tunnels of the Seventh Tier for a while, ending up in one spider’s den after another over the course of two more years before I find my way to the next Tier. Something I can only tell because of the phone I have that can track the universal date.
+
+Which is nice, since there’s no way to even tell when a day ends much less begins in here.
+
+The Eighth Tier ends up being full of scorpions to my surprise. Pleasant surprise too, seeing as there are no more cobwebs.
+
+Being covered in cobwebs for years was a very unpleasant experience after all.
+
+And I don’t have to worry about these scorpions eating me or trapping me in a cocoon either since they just sting me and wait for me to die. Which doesn’t happen. So they sting me again while clawing me in half with their pincers. Which still doesn’t work, so they give up rather quickly.
+
+That spider Tier was a pain just because of how many explosives I had to waste just to get away from or kill the spiders.
+
+But these scorpions are nice and friendly. Ignoring their tail stabbing and poisoning and pincer pinching.
+
+Much nicer than those spiders who would just drag me into their den and hang me up.
+
+Although I did manage to level up once more over the two years in there just from all my Death Spirits farming the bugs in the first couple Tiers. Almost twice actually.
+
+Then the Eighth Tier doesn’t take me too long to pass through since the scorpions don’t bother me much other than trying and failing to kill me a few times. Just a couple months at most.
+
+Unfortunately the scorpions are resistant to explosions, unlike the spiders. Possibly the first thing I’ve ever fought that I couldn’t just blow up.
+
+Tried once before reaching the end of the Tier only to wake up again while still staring at the scorpion who was left with nothing but some burn marks on its carapace.
+
+But the scorpions didn’t care much about me beyond their initial attempts to kill me, so it wasn’t needed to kill them in return.
+
+I frown at the thought of something not being blown up when they should be as I enter the Ninth Tier of the Hive. A place that I quickly realize is filled with that same grayish mist that makes up the clouds.
+
+From what I’ve come to know down here, the poison filling the clouds is especially dense in the clouds, but is also filling the entire Hive. Just to a lesser degree. And all of the mana creatures here are completely immune to it.
+
+But down here the poison is almost as dense as it was in the clouds.
+
+So I pull out my phone at the very edge of the poisonous region before calling Ake, who picks up almost right away and asks, “Any news?”
+
+Unsurprisingly, she sounds very enthusiastic about any possible news I can give her. Just like any other time I’ve called her. Which don’t amount to that many times if I’m being honest.
+
+“Yes, actually,” I answer while standing with my left hand on my hip and my right moving the phone to point at the misty tunnels. Ones made out of what look like some sort of wasp nest. A large one. “Found more poison deeper in. Not directly from the source, but it’s in the Ninth Tier of the Hunter’s Spot. So it’s a lot closer than the poison outside.”
+
+She doesn’t say anything for a few seconds before coming back to me, “The researchers say that it won’t work unless it’s directly from the source. So please try to find it if you can. It’s the only way for us to get you out of there without calling for one of the Grands to personally assist you.”
+
+What she doesn’t say is that it’s not possible for us to do that.
+
+Shirogane actually tried asking Shirou, but apparently he can’t help us. Which I guess makes sense since his ability isn’t actually a combat focused one. So while he is one of the most powerful people in the universe, some sort of foresight or future sight ability won’t help him become immune to a Tier 10 mana creature’s poison.
+
+Not to mention that he wouldn’t likely bother helping in the first place.
+
+Specifically because, and I quote, ‘You got yourself in that mess, you get yourself out. Not like you have limited time or anything.’
+
+Rather rude, but has a point. I don’t have limited time.
+
+Especially since Hannah is already past level one hundred. And it’s not just her, but Snow reached over level one hundred in the past couple years as well according to her from what she found out in a Universal Feed.
+
+“Aria?” Ake asks, reminding me that I’m in the middle of a call.
+
+“Right. I’ll try to get poison from the source,” I tell her with a nod. “I just hope it’s not gonna try to eat me.”
+
+“It probably will,” she says before the call hangs up, making me turn it around to stare at the phone in a slight stupor.
+
+Seriously? That’s rude.
+
+I let out a huff before putting my phone away and stepping into the poison fog. And just as expected, I don’t notice any difference at all.
+
+Guess my adaptation to it has grown large enough that the poison’s effect doesn’t even last long enough for me to notice anymore.
+
+Well, anyways, I begin to walk through the Ninth Tier of the Hunter’s Spot. But I don’t see anything for a while. And when I finally notice something, it’s not from seeing it. It’s from being stabbed in the back by something before said something vanishes without me even being able to see it.
+
+Something very fast. And with some sort of poison judging by the heat flaring from my back. Almost like my entire back is beginning to swell.
+
+Not comfortable to say the least, but also not necessarily painful.
+
+And the discomfort only grows when the swelling spreads further along my body, practically making me swell up like a balloon until I completely lose my ability to stand and fall flat on my face.
+
+I barely manage to roll myself over before spotting the culprit behind this appearing in a blur high above my head in the wasp nest.
+
+Wasp. Nest.
+
+Right. That makes sense.
+
+The large meter-long wasp stares at me, tilting its head one way and then the other for a bit. Then it…
+
+Okay, that’s not a wasp.
+
+The creature’s entire face splits into a mouth with four sections with some sort of tongue with a mouth on it leaving said mouth. Then it blurs and I find the thing reaching that tongue mouth straight into my eye, making a flare of actual pain run through me, surprising me due to my distinct lack of ability to feel pain over the past years.
+
+And everything goes dark moments later with a faint slurping sound.
+
+After who knows how long my consciousness returns to me and I immediately sit up, reaching for my head. But as always, everything’s returned to normal.
+
+I really don’t want to experience that again though…
+
+Honestly, it’s not too hard to figure out what it was doing. Just from that slurping sound alone that I heard before going under.
+
+It wouldn’t have knocked me out right away if it were just eating my eyes. Not to mention the fuzziness of my mind right now. Meaning it must’ve been eating my brain. Probably liquified and drank it, judging by the slurping.
+
+Which… is disturbing.
+
+I shake my head to get that memory out of it. Then I stand back up, aaaaand immediately feel something stinging my back again.
+
+This Tier is not going to be pleasant.
+
+The swelling begins spreading again just like the last time, albeit at a slower speed, and it doesn’t reach as far before it begins reverting. But it gets far enough to knock me down, giving the wasp time to suck out my brain.
+
+Leaving my consciousness to go dark once more.
+
+When I regain consciousness, I immediately blow up a large explosive around me after the brief few fuzzy thoughts seconds.
+
+Then a large swarm of the wasps burst out of the destroyed walls, floor, and ceiling of the tunnel.
+
+Well, shit.
+
+They all start swarming me.
+
+But that’s not the worst of it.
+
+What’s worse is that none of the wasps look like they were even so much as scratched by that powerful explosion.
+
+I’m going to be here for a while aren’t-
+
+My thoughts go dark again.

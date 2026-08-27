@@ -1,0 +1,127 @@
+---
+id: 9654fcf3-36f7-516f-bd0c-095e06d5c69c
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 57"
+slug: 0290-b4-chapter-57
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 290
+ownLength: 1445
+unit: words
+ownProgress: 1445
+publishedAt: 2025-07-15
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2437587/b4-chapter-57"
+royalRoadId: "2437587"
+markedReadAt: "2026-06-29T19:15:39.946Z"
+---
+
+The Eternal AcademyA few days later
+
+Ruby lets out a yawn as she listens to the lecture that the professor at the front of the classroom is giving. All while ignoring the looks sent her way by the other students, most of whom are all older than she is.
+
+A small part of her wonders how Ryan has been doing over the past few days, but she also knows that if something had happened to him, their mother would tear apart whoever did it. So she’s not very worried.
+
+What worries her more are the people who by now have largely given up at trying to befriend her. People who were incredibly pushy at first only to eventually give up when they finally realized she has no interest in making friends just for politics.
+
+That doesn’t mean she hasn’t made any friends though.
+
+One of the many things their mother doesn’t know about them is their ability to tell if someone is lying. Simply by listening to their heartbeat and smelling the scents coming off of their body.
+
+So all she had to do to find a friend was to figure out who was lying and who wasn’t.
+
+Not that she talks to those friends much though.
+
+Ruby lets out another yawn, but this time the professor sees and narrows his gaze on her.
+
+“Ruby Crimson, please describe to me an algorithm that can solve the problem on the board,” the professor asks, making Ruby feel slightly irritated. But she goes and reads the problem on the board anyways.
+
+A simple equation? Why can’t there be anything more complicated?
+
+She knows very well why, seeing as this is the fundamental class meant to teach students the very basics of programming. But she’s already learned plenty of programming from her Uncle Shirogane. So if it weren’t a required course, she wouldn’t have bothered taking it.
+
+“One method to get the solution in the form of x from the equation 100=x+10 through an algorithm is to initialize three variables, variable A as one hundred, variable B as x, and variable C as ten,” Ruby answers with more than a little of her boredom leaking into her voice. “After that you can use the – function to subtract variable C from the variable A, ten from a hundred, and then set the result of that as the value of variable B. But if you were to make a more complete algorithm that would work on other equations of the sort and figure it out on its own-”
+
+“Thank you, Your Highness, but that’s all we need for now,” the professor says with a mixture of pleasant surprise and some awkwardness in his voice. Clearly not expecting Ruby to know the answer.
+
+He was probably just trying to embarrass me for not paying attention.
+
+The other students look at Ruby with more than a little surprise. Probably not because they didn’t know all that themselves, but more likely because Ruby is only ten years old and already knows all of this.
+
+It’s a look Ruby is quickly getting used to seeing.
+
+“That will be all for today’s lecture,” the professor states, ending the class before reminding them all about their homework and about the martial tournament that is currently underway in one of the nearby stadiums.
+
+Right. Ryan should be there right now.
+
+Ruby gathers her things before quickly making a beeline for the exit. And once she eventually makes it out of the building, she pulls out her hoverboard – something her mom bought for her and Ryan each to make getting around easier – she begins flying in the direction of the stadium. Where her brother should be fighting right now.
+
+As she flies though she goes ahead and opens up her status and frowns at the lack of progress she’s made in the past few days.
+
+Name: Ruby Crimson
+
+Class: Daughter of Death
+
+Ability: Death Body
+
+Level: 54
+
+When she and Ryan both first learned about their abilities, classes, and purposes, they felt more than a little embarrassed. Since their purposes are the same, and have clearly been affected by their mother’s presence throughout their entire lives.
+
+Their purpose is to absorb death energy.
+
+Which is an easy task when they’re near their mom. And it makes clinging onto her all the more enjoyable. Because not only does Ruby get to have an excuse to cling onto her, but she gets stronger from absorbing the death energy her mother naturally radiates as the Horseman of Death.
+
+After flying for several seconds, she eventually lets out a sigh. Only for her face to suddenly brighten up like the sun when she feels her terminal buzzing and finds that it’s from a call from her mother.
+
+“Mom!” Ruby exclaims the moment the call connects, a wide smile on her face.
+
+Her mom smiles through the video on her terminal as she asks, “How did your class go?”
+
+“It went well,” Ruby answers before pouting a little bit. “The professor tried to single me out because I looked bored, but seemed pretty shocked when I got the answer perfectly to his question.”
+
+Her mom laughs at that and says, “He should’ve expected that. If someone looks bored in a class it’s usually because they already know everything being taught in it.”
+
+Ruby isn’t entirely sure about that, but something tells her that her mom left the other reason why someone may look bored unsaid. That they just aren’t a very smart person.
+
+Or they’re not interested in the class.
+
+Which goes back to the ‘not a very smart person’ thing, since she doesn’t understand why they would take the class if they aren’t interested in it.
+
+Unless they’re like her and are only taking it as a prerequisite?
+
+Her mom interrupts her thoughts as she asks, “You heading to see your brother’s match?”
+
+Ruby nods her head and answers, “Yeah, I heard he’s going to be in the semi-final round coming up soon.” Then she glances between the air in front of her as she flies and her terminal with a hopeful look as she asks, “Will you be there Mom?”
+
+Unfortunately she shakes her head, crashing Ruby’s hopes while answering, “I can’t, sweetheart. I have to deal with some of the most terrifying things in the universe.”
+
+Ruby rolls her eyes as she asks, “Paperwork?”
+
+Her mom sends her a serious look and answers, “Yes. It’s the last of the paperwork to let me teach lectures here.”
+
+The fact that her mom is teaching lectures instantly recovers Ruby’s mood.
+
+“I’m going to be your first student!” Ruby immediately exclaims with a wide smile on her face.
+
+“Your brother said the same thing,” her mom replies with a laugh, making Ruby narrow her eyes as her competitive spirit is sparked. “I’ll be there to see your brother for the next round, so cheer for us both, alright?”
+
+“Okay,” Ruby answers, still thinking about how she’s going to beat her brother to the lecture.
+
+“Well, I’ve got to get back to paperwork,” her mom says with a frown on her face as she looks down at what Ruby knows must be the paperwork in question. Then her mom looks up at her and says, “Stay safe and good luck in your other classes today.”
+
+“Alright, see you later Mom,” Ruby says before the call ends. But just that short call alone brought her mood up quite a bit while she continues flying the last of the way to the stadium. At which point she sees the bleachers almost full.
+
+So she stands off to the side watching the events play out as her brother fights in the arena.
+
+And just as she expected, her brother is already in his hunter form – as the twins like to call it, since the humanoid werewolf form is more dangerous on a hunt than the quadrupedal one – and he’s already tearing apart his opponent with ease.
+
+From what she understands, these tournaments are split by level. Which leaves Ryan at a major advantage as he frightens his opponent by fighting in the form of a four and a half foot tall werewolf with vivid sapphire blue eyes glowing with a golden light. Just like how Ruby’s ruby red eyes glow with a golden light when her wolf side comes to play.
+
+This match won’t last long.
+
+Out of the corner of her eye, she notices more royals beginning to approach her with what is obviously another attempt at getting closer to Death’s daughter.
+
+Great. More of them.
+
+She sighs before focusing on Ryan’s match until it ends.
+
+Then the royals reach her.

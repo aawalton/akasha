@@ -1,0 +1,129 @@
+---
+id: 959b9501-d810-56e2-8f75-38ead294aeeb
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 24"
+slug: 0027-b1-chapter-24
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 27
+ownLength: 1581
+unit: words
+ownProgress: 1581
+publishedAt: 2024-01-13
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1475694/b1-chapter-24"
+royalRoadId: "1475694"
+markedReadAt: "2026-06-29T19:06:46.770Z"
+---
+
+The Fortress Wall at the Al Mountain Pass
+
+Aquifer Petros looks out over the men on the wall he’s been assigned to, feeling both proud and regretful about being here in the new world. Proud that he managed to make it. To receive an excellent opportunity for personal growth and the chance at promotion and receiving a family name for himself. And regretful as he feels the biting cold of the climate here, finding his current attire to be inhospitable for this climate even with the enchantments on it to increase the cold resistance of the wearer.
+
+But the largest thing he regrets is choosing to join in this world’s invasion, since he wasn’t expecting the world they were invading to already be prepared for war, or for the natives to have such high levels of technology. And he’s not the only one as the Invasion General has apparently been struggling a little to deal with the situation as well.
+
+At least he’s heard from rumors that the Invasion General has a plan in mind. One specifically targeting the Crimson Eternal that he had heard about from the northern side of the mountain.
+
+The aquifer lets out a sigh.
+
+This isn’t what I envisioned it would be like going to another world…
+
+What he had envisioned was excitement, a rapid growth in his power and authority, and honor and respect! What he didn’t envision was freezing his butt off while watching a boring wall.
+
+As if War himself was listening to his thoughts, the alarm suddenly begins blaring, after which swords of ice begin raining down on the walls, piercing through more of the soldiers around him than he can count in his panic-addled mind. But he still manages to rush through them, using his own ability of superspeed to get away from the falling swords. Then he sticks his head out from his cover to look up, only to end up squinting his eyes at what he believes to be someone falling down from the top of the cliff.
+
+His eyes have to be playing tricks on him though. Because no one would be stupid enough to jump off of the cliff-
+
+His thoughts are interrupted when another sword strikes right next to him, making him quickly rush back into cover.
+
+And as if the current situation wasn’t already bad, shouts rise from further down the wall, but the shouts don’t appear to be getting any closer.
+
+Are reinforcements not coming?! Why not?!
+
+The Aquifer peeks his head out again, but this time looks over the wall, just to find an army having suddenly appeared several kilometers away, having apparently hidden with magic.
+
+Fuck.
+
+He quickly gets up to rally the soldiers on his wall, only for a shadow to quickly approach from above before a flash of pain strikes him, sending him dropping down to the ground with the sounds of snapping bones as he screams out in pain. And right before his vision goes dark, his last thought rattles around his head.
+
+Someone did jump down from the cliff…
+
+Aria
+
+Ow. That hurt.
+
+I look down at the dead soldier who unwisely decided to break my fall.
+
+[User has killed one being of Level 7. Requirements to reach level 3 have been updated. New requirements are as follows: 156/250 beings have been granted Death.]
+
+Poor guy. Probably should’ve stood somewhere else.
+
+I get off the guy after my broken bones regenerate and look around, just to find enemy soldiers being a little preoccupied right now with the first lieutenant’s ice blades to focus on me. Which gives me plenty of time to begin shooting them all down, making the number tick up quickly on my leveling requirements.
+
+Soon enough the enemy soldiers turn their attention to me, making me tap a few times on my radio, signaling the others that they’re free to come down. And I quickly hear something that sounds kind of like someone’s punching the wall over and over again, along with some warping sounds.
+
+I try to not look up out of curiosity. Since while they explained how they were going to come down, I can’t exactly say that I’m confident in their methods.
+
+First Lieutenant Snow and Vargas especially, since the first lieutenant is supposedly flying them down on swords, the swords apparently weighing too much to fly up the cliff on but not to fly down on.
+
+The major’s staying up there though, considering his ability and his use of a bow and arrow.
+
+I do find myself feeling rather impressed by the first lieutenant’s ability to continue sending blades of ice down while floating down here though. Probably takes a lot of concentration to do that.
+
+Anyways, I continue ignoring the spells hitting my body as I shoot back. And eventually the number of enemies on this part of the wall significantly decreases.
+
+I glance over the wall where I find the majority of the enemy soldiers rushing over to deal with the army that was hidden several dozen meters away by the First General’s Category 5 ability. Meanwhile the others are all rushing onto the walls near where the army is approaching, with very few soldiers arriving here.
+
+Oh? That’s a pleasant turnout.
+
+Looks like most of them believe that the ones that tripped the alarm is the army.
+
+I quickly finish off the remaining soldiers on this part of the wall before looking up to find the lieutenants flying down on the first lieutenant’s swords, with Vargas not exactly having a very pleasant time. Meanwhile Captain Harvey just hops down on her barriers just like how she got up there in the first place.
+
+Captain Rogers surprises me though as he is quite literally just jumping down from one point on the cliff to another, digging his hands into the cliff with his enhancement going the entire way until he lands on the wall near me.
+
+I give him a brief nod before watching the lieutenants land on the wall as well, with Vargas dropping to his knees with a look on his face that makes me think he’s never going to do this again. And lastly, Captain Harvey lands on the wall with all of the other officers looking at the dozens of dead enemy soldiers around me. Then they look at me with shock in their eyes.
+
+“This section of wall is cleared,” I state into the radio without paying their gazes any mind.
+
+The major doesn’t seem surprised though as he quickly responds, “Roger that. Enter the fortress and wreak havoc. But make sure to keep one officer of tribune rank or above alive until Vargas gets to them. I’ll keep watch over you from above.”
+
+“Roger that,” I state into the radio, meanwhile the others finally snap out of their stupor, reentering mission mode as we all begin stepping off of the wall and entering the fortress beyond it.
+
+It takes us a little bit, and a lot of enemies slaughtered, but we finally find a tribune.
+
+Fortunately it’s not very hard to miss him thanks to his outfit being more extravagant than any I’ve seen thus far. Except that one officer at the intersection base up north who I believe was a legate.
+
+The man has a ten above his head though, which does give me some worry at first. Until I shoot him in the leg as he’s running by a lovely hiding spot between buildings, sending him face planting and reminding me that levels or not, they’re still human.
+
+And guns are perfectly dangerous towards humans.
+
+Except me. But they do hurt.
+
+Wonder if I’m even considered human? My body is different…
+
+Actually, now’s not the time.
+
+I quickly shoot the other soldiers that all rush for their little spellguns, taking the attacks on my own as Captain Harvey focuses on defending the others from a few stray shots and First Lieutenant Snow sends blades of ice down on the soldiers. And it doesn’t take long to finish them off, the last one giving me a pleasant surprise in the process.
+
+[User has met the requirements to reach level 3. User’s level has been updated to level 3. New requirements to reach level 4 are as follows: 0/500 beings have been granted Death.]
+
+Hmm. No skill this time.
+
+Pity, but not my priority at the moment. Although the soul energy of all of the people dying around here is very filling.
+
+I also can’t help but look at the tribune in front of me. Or rather, at his soul energy. Something I seem to be able to see a little now even without them dying.
+
+Makes me wonder if it’s because I already have so much soul energy inside of me.
+
+Too bad I don’t know what to do with it other than enhancing my body. And I’m still not used to that.
+
+“Tag and bag him,” First Lieutenant Snow says while motioning towards the rather angry looking and very much shouting tribune. And Vargas just rolls his eyes before approaching the man and putting his hand on his head.
+
+Guess I’ll be seeing a mental ability for the first time.
+
+This’ll be interesting.
+
+Probably.
+
+However, right as he’s about to start, the major’s voice sounds from the radio at our waists, “Shit! Where’d he- Aria, incoming!”
+
+I turn to the right, only for a sword to pass straight through my face, cutting my head in half and making me black out.

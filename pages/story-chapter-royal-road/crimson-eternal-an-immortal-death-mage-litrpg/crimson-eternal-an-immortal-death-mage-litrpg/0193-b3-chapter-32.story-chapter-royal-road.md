@@ -1,0 +1,159 @@
+---
+id: 693a5b3e-15c6-5671-8547-ad6c05aa444a
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 32"
+slug: 0193-b3-chapter-32
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 193
+ownLength: 1493
+unit: words
+ownProgress: 1493
+publishedAt: 2024-08-17
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1762920/b3-chapter-32"
+royalRoadId: "1762920"
+markedReadAt: "2026-06-29T19:12:16.974Z"
+---
+
+Aria
+
+Okay… this is…
+
+I glance back at him again after twelve hours of hunting in the Spire’s first, second, and third Tiers. And I quickly find him still just standing behind me.
+
+It’s just creepy at this point.
+
+After taking a deep breath to calm myself, I turn around, placing my hands on my hips as I shout out, “Hey, Hassan, why are you following me?”
+
+Unlike the other times I asked, I go ahead and use his actual name this time. It probably won’t help though.
+
+“Inspection,” he answers, quite literally making me stumble despite standing in place.
+
+The heck?! He answers now?! When he’s been ignoring me for…
+
+I blink.
+
+Wait, was he just not answering because I wasn’t using his name?
+
+“What do you mean by inspection?” I ask with a frown, crossing my arms now as my Death Spirits continue wandering around the Spire slaughtering things.
+
+Actually, is it considered slaughter if they’re just golems? Walking statues and walking blocks of metal and stone?
+
+Not sure.
+
+I’ll just call it slaughtering things anyways.
+
+Anyways, that distraction aside, the Grand just kinda stares at me for several seconds after I ask my question. And stares. And stares some more.
+
+Right when I’m about to open my mouth to speak, he finally speaks himself, saying a simple, “Inspection complete.”
+
+Seriously, what inspection?
+
+The man vanishes in a wave of shadows, leaving me with more questions than answers. Not that he ever gave any answers to begin with.
+
+I… what just happened?
+
+Did he really spend half a day stalking me, then leave three words behind and leave?
+
+Seriously?
+
+I… don’t know what to think or say about that.
+
+After staring at where he left for a little bit, I turn to look at my surroundings. To see if there are any shadows nearby or if the light is dimmer. But no, the light is back to the brightness it was before he got here. And there are no unnatural looking shadows.
+
+So I guess he’s just gone.
+
+Well then.
+
+Wonder what Shirogane will say about this? And should I mention this to the emperor?
+
+Probably should. One of the other Nine Grands was in his capital world, so he probably wants to know.
+
+More importantly though…
+
+I frown before turning to look at the large mana creature walking towards me. One in the form of a massive cube.
+
+Which is odd, since it does have legs. And a mouth.
+
+Never seen a cube with legs and a mouth before.
+
+Why do I get a bad feeling when looking at this thing?
+
+I tap my chin at that thought, only for the ten-meter-tall block to stop walking all of a sudden. Then it turns into a blur, and I find myself gobbled up into its mouth.
+
+Right. Bad feeling.
+
+Yep.
+
+Somewhere in Hyperspace
+
+“Your Majesty, it would appear they have made contact,” one of the upper class nobles of the Crimson Empire declares, his face popping up on a screen floating in front of the emperor of the Crimson Empire moments prior to his words.
+
+“And?” Artorius Crimson asks while fidgeting with his hands behind his back as he stands in front of his command chair. “What happened?”
+
+“The Leader of the Council of Darkness just followed her around for half a day without saying much of anything,” the man answers, sounding slightly creeped out by that. But the emperor just smiles a very faint smile. One that startles the upper class noble quite greatly. Enough that he asks, “Is this good news, Your Majesty? I was under the impression that the Council of Darkness was an enemy.”
+
+Artorius shakes his head lightly while taking his seat on his command chair, tapping his finger against the armrest as he says, “An enemy? Not necessarily. But he’s not a friend either.” He pauses for a few seconds and adds, “I was just thinking that he hasn’t changed all these centuries. Not in the slightest.”
+
+His response appears to confuse the upper noble, but the man simply bows and cuts off the call instead of inquiring further. Taking the correct approach in the situation.
+
+Because Artorius doesn’t feel particularly up to talking about him now.
+
+Instead he turns to look out over the forces within the bridge of their flagship. All of whom have the same white hair and crimson eyes as every single other member of the Crimson Empire.
+
+The result of a mutation from their living deep in space, with their only ‘home’ being a special wormhole, in-between two different places within the universe in a connection point. A strange one created by magic that has an even stranger sun. One that’s completely black in color yet still emits light.
+
+Just like with the Atlanteans, denizens of the Crimson Empire are special in that they have more than just visible differences between them and other humans. They all have a slightly higher sensitivity towards light, both in vision and in body, but none of them require air to survive.
+
+The only species of human within the universe that doesn’t require air or water to live.
+
+No doubt a result of living within a magical wormhole.
+
+Artorius frowns as he leans his head against his right arm, both on the armrest. Just looking out past the bridge of the ship at the hyperspace beyond.
+
+The time for him to finally see his daughter and regain his memories of what she’s gone through over the years is almost nigh. But every time he thinks about it, he can’t help but feel nervous. Because he has no idea what’s happened on that planet in regards to her.
+
+He tried sending forces to the world known as Vortel many times. But they were never able to dig up what had happened to the Crimson family living on Vortel.
+
+It was almost as if someone had wiped memories of their existence from the people, with the sole exception of Aria Crimson. Who everyone there believed to be a war hero who had died during the war with the Grand Roan Empire at the beginning of the System.
+
+Since she vanished soon after that war.
+
+Leaving to travel the universe.
+
+But the mere fact that their clones aren’t with Aria means that something must have happened. There is no doubt about that.
+
+Artorius lets out a sigh, feeling just as miserable now as he was when this curse was first placed. When his entire family were forcefully teleported to another world just for getting within a planet’s diameter of her.
+
+A small part of him is too frightened to meet with his daughter now after so long. But that’s only a tiny part.
+
+What he wants more than anything is to hold her in his arms again. Something he’s been unable to do since she was little more than a newborn infant.
+
+The slightest hint of tears begin to leak from his eyes, but he pays them no mind as they all evaporate when a small wave of crimson and black electricity runs across his eyes. His Death Lightning ability at work.
+
+Just the thought that she may’ve been hurt on Vortel aches his heart. And he’s not the only one as he’s heard his wife crying in their room when he’s come back more times than he can remember. Even if she manages to force herself to stop and act like nothing was wrong the moment he enters the room.
+
+Then there’s his son…
+
+Artorius grimaces as he thinks about it. Then he shakes his head.
+
+One other thing that he can’t get out of his head is the simple matter of whether or not Aria even realizes her parents are alive. That they were just clones on Vortel.
+
+It would depend on how early on the clones died…
+
+His grimace grows deeper at the possibility that they may’ve died before the date they decided to have their clones tell her when they first sent her with the clones. When she reached ten years of age.
+
+Seconds pass in silence before Artorius finally looks up, focusing on the outside of the ship again to find that hyperspace is beginning to clear out a bit of crimson energy. A sign that they’re getting closer to their destination.
+
+He stares out the window of the bridge for a while before closing his eyes.
+
+It’s almost time. Just another couple decades remaining before I can see her again.
+
+Artorius tries hard not to think about how he’ll only be able to see her for ten minutes and likely won’t even get a chance to hug her in that time. Not with everything they need to explain. And not with them needing to get their memories back beforehand.
+
+At the very least though, they’ll see her.
+
+His hand trembles ever so slightly at the thought.
+
+But he remains steadfast, opening his eyes once more.
+
+And looking towards his next mission.

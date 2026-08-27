@@ -1,0 +1,49 @@
+---
+id: d5f3a1fb-e120-5a36-8267-4621543ed710
+page-type-slug: story-chapter-royal-road
+title: "Schedule, Discord, Patreon Announcement, and Happy New Year!"
+slug: 0011-schedule-discord-patreon-announcement-and-happy-new-year
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 11
+ownLength: 413
+unit: words
+ownProgress: 413
+publishedAt: 2024-01-01
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1462379/schedule-discord-patreon-announcement-and-happy"
+royalRoadId: "1462379"
+markedReadAt: "2026-06-29T19:06:12.578Z"
+---
+
+To those of you who are new to my stories in general, hello everyone and welcome! For those of you who come from my other stories, hello again!
+
+To start things off, I will be saying my schedule for Crimson Eternal.
+
+Which, in all honesty, is just a simple daily chapter every day at 12:04 CST.
+
+However, I may upload bonus chapters on some days depending on how many chapters I actually write that day.
+
+There will be some art in some scenes through the story, although not much. And due to some complaints I had in my other stories about putting it in the middle of the chapter when it's shown, I am putting this art at the very end of the chapters so that you don't have to stop reading to see it. Or you could skip it if you would like.
+
+Up next is my Discord server. If you're interested, click here to go join it!
+
+Lasty, my Patreon announcement!
+
+Now, some of you will be surprised by this, but I have quite a backlog of chapters for this story available on my Patreon right now as of making this post.
+
+An entire book of backlog.
+
+And while it may decrease in the future, I am going to try avoiding that as much as I can. And to be honest, I wouldn't be surprised if it grows instead. Since I have a habit of writing out of boredom sometimes. Or if I just get excited about a scene.
+
+So if you want to go ahead and read about an entire book ahead of what is on Royal Road for Crimson Eternal, go ahead and check out my Patreon here!
+
+My chapters on this story are on average nearly twice as long as the chapters on my other stories, but despite that, there is still about 60 chapters advanced on my Patreon for you to read. Give or take a couple chapters.
+
+Which goes all the way to book 2 of Crimson Eternal on my Patreon, which already has six chapters as of posting this announcement.
+
+And as an added benefit, you also get to read advanced chapters for my other stories too if you're interested.
+
+And last but not least, Happy New Year!
+
+Also, here's a random image I had earlier while writing the story on my Patreon for Christmas. Although it's a little late now.
+
+Have a lovely New Year, once again, and I hope you enjoy my story!

@@ -1,0 +1,159 @@
+---
+id: c359420d-7cb8-5324-a999-a0062322e122
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 53"
+slug: 0125-b2-chapter-53
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 125
+ownLength: 1645
+unit: words
+ownProgress: 1645
+publishedAt: 2024-03-11
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1550445/b2-chapter-53"
+royalRoadId: "1550445"
+markedReadAt: "2026-06-29T19:10:12.276Z"
+---
+
+Aria
+
+Azura ends up taking me to one spot after another within the first Tier of the ocean. Each of which are rather odd. Some look like odd pockets of air that actually have strange floating creatures in them that are apparently really good for cooking. Others are caverns at the bottom of the ocean with special minerals only found on Atlantis. Then there’s the little ‘nests’ of sorts for the fish, where they all return. Even after more spawn. Simply because it’s the best place for them to make a nest, and the previous schools of fish all made their own there as well, expanding on it.
+
+And plenty of other spots.
+
+We spend the entire day just going from one place to another. And it doesn’t take me long to realize that I would’ve been left high and dry if I’d tried to go here on my own without a guide.
+
+The place is just too damned big for that.
+
+It’s faaaar larger than the Hunter’s Spots on Eternus and Luk’tar.
+
+Makes me wonder if that’s because there’s only one Hunter’s Spot on Atlantis? Some sort of making up for it with size or something?
+
+Since even if there’s less mana here, there’s still more mana on the planet than is in a single Hunter’s Spot on the Alpha Tier worlds I’ve visited. So I guess the mana all focuses on a single point.
+
+Also explains that leviathan thing that I sincerely hope to avoid at all costs.
+
+After the first day is complete, we reboard the ship and head back to the capital. Then I quickly realize how taxes work for the Grand Ocean. Since it turns out they have some sort of massive enchantment covering the entire Grand Ocean marking anyone who has been inside and out of it so that the nation will know that they owe taxes. It also marks what they came out of there with but didn’t come in with.
+
+Of course, none of that matters to me since I’m tax exempt. So I spend the night in the café’s upstairs area just like the previous night, and we head back out there in the morning. This time going to even more Tier 1 locations. And still not moving on to Tier 2 locations.
+
+And the same goes for day three and day four.
+
+It isn’t until day five that we finally head to Tier 2 locations. And all through days five, six, and seven, we just explore Tier 2 locations, with Azura pointing out more and more to me. The locations including much of the same things as the Tier 1 locations had except with more and more powerful mana creatures in general.
+
+Of course, I’m not going to remember all of them. Which is why I started using something to write them all down. An aqua pen and aqua paper. Pen and paper that can be used underwater.
+
+Even with that though I might struggle for a bit to find the locations.
+
+Makes me wonder just how often Azura is down here to have it all memorized.
+
+Also, doesn’t he have work he has to do as a prince? Or did he get time off for this?
+
+I eventually ask him about that on the eighth day, and as it turns out, he did actually get time off for this.
+
+And we’re starting in the Tier 3 ring today too.
+
+The last ring he’s planning on showing me around, since apparently the Tier 3 ring is mostly for people at or below level one hundred. With the Tier 1 ring for level twenty-five and below, the Tier 2 ring for level fifties and below.
+
+So Sel – the name I started calling the teenage princess after spending quite a few days with her – isn’t strong enough to really spend much time in the third Tier ring. Or any time.
+
+But he’s showing her anyways since it’ll be the next ring she’ll need to go to.
+
+Plus it benefits me.
+
+“I’ll be showing you the third Tier ring for the next two days,” Azura says as we speed through the second ring towards the third on some sort of underwater speeder vehicle. Kind of like a motorcycle but underwater. “After that, you’ll be on your own, and Sel will begin traveling here on her own royal ship instead of the ferry.”
+
+‘Got it,’ I tell him with a nod through the communication ring. ‘And thanks for showing me around.’
+
+“No problem,” Azura answers without turning to look at me as we speed straight through the second ring.
+
+I look around at the slightly darker water around me. Water that lets me see about a hundred or so meters fewer away from me than the first Tier.
+
+Which makes me wonder how far I’ll be able to see in the third Tier ring.
+
+Eventually we reach the third ring, and I quickly find it to be even harder to see through the water. A rather jarring shift, if I’m being honest.
+
+And it’s in this Tier that we begin seeing new creatures. Ones that aren’t just fish.
+
+“Sel, stay behind us,” Azura says, making the girl nod.
+
+Something I’ve noticed about Sel over my time spent with her is that the girl is actually rather quiet. And a battle junkie. But still quiet.
+
+Not that I didn’t already realize that latter part from her original introduction to me.
+
+Anyways, the fishmen swimming towards us arrive with spears and loud shrieks. But I just summon a few dozen Lesser Death Spirits to immediately surround them. Then Azura sends over a dozen little jets of water out of his body, around my spirits, and straight at several of the fishmen. Clearly taking it easy on them so as to let me get some kills in.
+
+As it turns out, the entire royal family has some sort of water related ability. Every last member.
+
+Which goes to show that while mutations do occur, and there are different branches of the same power, abilities do often tend to be hereditary. In a way.
+
+Kind of like my family and how we all have Special Class S abilities. And all with a crimson color to it, even if I’m the only immortal amongst us.
+
+But Dad’s ability was…
+
+I blink and stop firing my gun at the fishmen as I realize something.
+
+What was Dad’s ability?
+
+A frown crests my face as I realize I don’t remember it for some reason. Almost as if some sort of fog is covering my memory.
+
+Why… can’t I remember?
+
+And it’s not just his ability, but my older brother Adrian or Mom either.
+
+I can’t remember any of their abilities.
+
+But… why?
+
+I begin to feel almost like I’m near crying, but it’s hard to tell since I’m underwater. All I know is that I stopped attacking completely, leaving Azura to finish the others off before he quickly heads over to me alongside Sel.
+
+“Aria?! Are you okay?!” Sel exclaims as Azura asks, “Aria?”
+
+And for some reason, I actually tell them what I just realized.
+
+Something I never do.
+
+Talk about my family I mean.
+
+Then Azura asks something that… kinda leaves me stunned.
+
+“Did you ever ask just what your parents’ abilities were?”
+
+I stare at him for several seconds before looking down.
+
+That… I must’ve… but… did I?
+
+Mom’s ability… it was a combat ability, I think. But… what was it?
+
+“I remember bright crimson lights and the sound of thunder, but that’s all I remember about my mother’s ability,” I tell the two without looking up. “And my uncle was a healer. That’s about all I remember.”
+
+My fist clenches a little.
+
+“Adrian, my older brother, I don’t actually know anything about his ability,” I tell them honestly while raising my head. “All I remember is him occasionally walking up to the others and placing his hand on their shoulders, sending some sort of crimson energy into them. But it didn’t look like it healed them or anything.”
+
+“An energy?” Azura mutters as the three of us float in the third ring, ignoring the many fishmen corpses around us.
+
+I nod my head before continuing, “And Dad… I don’t remember…”
+
+“That’s…” Sel mutters, pausing as she seems to be unable to find the next words to say.
+
+Then Azura finishes, “It’s sad.” He pats me on the head, making me finally look up to see him smiling at me. “Don’t worry. We can find you some mind mages or mental ability users to figure out what’s going on. If you can’t remember, there may be something blocking you. Whether it’s a natural barrier or maybe a psychological one you yourself put up. Either way, they should be able to help clear it.”
+
+I smile at that before straightening a little in the water again, briefly glancing at Sel to find the girl looking worried.
+
+So I look back at Azura again and tell him, “Thank you.”
+
+“We won’t be able to do it for a long time though,” Azura continues while scratching the back of his neck. “Mind mages are rare. I might be able to get a Class A mind mage to take a look in a few months, but a Class S is out of the question for a Beta Tier world like ours.”
+
+Oh.
+
+“That’s alright,” I tell him, still smiling. “Let’s continue our tour, tour guide.”
+
+That has him raising a brow at me and asking, “Tour guide huh?”
+
+I smirk, but he just rolls his eyes and turns around, beginning to continue through the water again.
+
+Of course, not until after we gather the fishmen corpses.
+
+But still… I can’t help but wonder… when did this strange mental fog first appear?
+
+The answer doesn’t come to me no matter how hard I think about it.

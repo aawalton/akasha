@@ -1,0 +1,327 @@
+---
+id: 89dfb3ab-eb50-5768-bc8d-2e77dadb787f
+page-type-slug: story-chapter-royal-road
+title: "144: Precipitation"
+slug: 0144-144-precipitation
+partOf: delve
+position: 144
+ownLength: 4412
+unit: words
+publishedAt: 2021-04-25
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/670533/144-precipitation"
+royalRoadId: "670533"
+---
+
+The moment Rain entered his soul, he could immediately tell that something was different. The chaos felt…off, somehow. Thicker, perhaps, and maybe a bit warm. It was hard to say, as he’d yet to impose any of his concepts of reality on this place.
+
+That led to the second piece of oddness. Normally, such a distracting revelation would have catapulted Rain back into his body posthaste. That didn’t happen this time, though it was a close thing. Just barely, he managed to maintain the cultured aloofness that allowed him to resist the chaos.
+
+Working quickly, he began forming the Bastion, his thoughts flowing ever clearer as he spun the white essence-matter into a protective bubble. The process seemed slightly easier than usual, and only once he’d reached around 100 units did he feel confident enough to stop and think about why that might be.
+
+Okay, what the hell?
+
+Rain probed the interior of the Bastion with his disembodied senses, the concepts of light and darkness being only tenuously established at this point. The surface was still smooth, as he hadn’t needed to start on the geodesic structure yet. Everything felt more or less normal inside, but outside…
+
+Rain pressed his awareness against the Bastion’s wall, feeling a distinct sensation of heat coming through the flimsy barrier.
+
+There’s no way I’m imagining that.
+
+…
+
+Why is my soul on fire?
+
+Rain would have frowned if he’d had a face.
+
+He returned to purifying essence. Again, things seemed too easy. Amazingly, he even found that he could split his focus enough to think while working, though doing so made his soap-bubble reality shake alarmingly.
+
+Not that I’m complaining, but this is…
+
+I have been getting better at this, true, but this is a step-change. What’s different?
+
+…
+
+…
+
+Okay, I see three possibilities.
+
+One: it’s because of the improvement to my synchronization—Strength, Focus, or both, I don’t know.
+
+Two, related: it’s because of the accolades. I’ve got Strength ones slotted right now, and I didn’t have them the last time I was here.
+
+Three: it’s because my body is in a higher-ranked zone. Maybe it’s less turbulent out there because there’s less of a pressure difference between my soul’s essence and the essence in the environment. The heat could be Heat, as in the element.
+
+Hmm. Does essence even work like that?
+
+Hang on, time to build the frame. I need to concentrate for this part.
+
+Rain focused back on what he was doing. The transition point between a featureless sphere and his complex geometric construction was always tricky. As with everything else in this attempt, however, it presented him with less trouble than he was accustomed to.
+
+Yeah, something is definitely going on, Rain thought, inspecting his completed sphere. Maybe it’s option four: all of the above, or option five: none of the above, or…you know what? One of these options is testable.
+
+Leaving his soul was much easier than entering it, the process literally as simple as thinking. Rain felt the Bastion shake as it began to dissolve, his consciousness sliding in a direction orthogonal to its constructed reality. Less than a heartbeat later, he was back in the real world. He must have twitched or something, as Ameliah immediately spoke to him, her voice soft and right in his ear.
+
+“Back so soon?”
+
+“How long has it been?” Rain whispered back, looking around their tiny cubby. Tallheart hadn’t dug out more than was necessary, just enough space for two people to lie down elbow-to-elbow and for a third to stand guard at the entrance near their supplies. Even that much was impressive, given the strength of deepstone. The cubby’s entrance was sealed off from the tunnel with a heavy door made from the spare metal that Tallheart had brought with him, all glommed together. The smith himself stood nearby, ready to kick it open and smash the everloving shit out of anything that attempted to get through.
+
+“I don’t know, ten minutes?” Ameliah whispered. “I was almost asleep.”
+
+“Shhh,” Tallheart whispered softly, looking at them.
+
+“Sorry,” Rain mouthed back, then glanced at Ameliah. He wiggled his arms out from under his blanket and raised his hands so she could see them. He then continued in hand-code, which was made considerably more difficult by his prone position. “I came back on purpose. I’m testing something.”
+
+[I didn’t catch that,] Ameliah said via Message, looking at him. She smiled. [Try it again with less flailing, maybe?]
+
+Rain smiled back, then kissed her lightly, glad that he’d removed his helmet to sleep. “I’ll explain tomorrow,” he signed as best he could, then pulled his arms back under the blanket and settled himself down.
+
+[Okay,] Ameliah said. [Just remember, if you stay up working on your soul all night, you don’t get to come tree-running with me. Meditation isn’t sleep.]
+
+Rain nodded, then closed his eyes. Understood.
+
+With an effort of will, he removed his Strength accolades, feeling a momentary thrill as the overhealth hit him. He wasn’t that concerned about lowering his health cap; he’d just have to ask Ameliah to top him up in the morning. Nothing was going to be able to hurt him in here, not with his friends watching over him.
+
+Returning to his soul took him a few minutes. The process was made even more difficult by his body’s incessant demands for sleep—it had been a long day, after all. As before, he managed to walk the line.
+
+Once he was back inside, no change was immediately apparent. It still felt unusually easy to maintain his metaphorical footing. The difference only appeared when he began forming the Bastion, Rain discovering that it was indeed harder to purify each unit of essence. He returned to his body again to think.
+
+Strength is strength, got it. It makes it easier for me to do stuff. The stability has to be something else. Endurance would make sense from a mechanical standpoint, but that can’t be what’s causing it in this instance. It has to either be synchronization or the area rank. I can’t really test those…. I can test other stats, though.
+
+Concentrating, Rain equipped his Focus accolades, checked his clock, then tried again. It took him a bit longer to reach his soul this time, as his excitement over his discoveries wasn’t helping matters. Once he was there, he found no difference from the previous test. The extra Focus didn’t seem to be doing anything inside, so he returned to his body and checked his clock. It had been twenty minutes, which jived with his perception of how much time had passed.
+
+Damn. He sighed, his hopes dashed. Focus and Clarity translate to time acceleration in soulspace, but they don’t do that inside my soul—or if they do, the difference is too small for me to notice. Why, though? It doesn’t make sense for it to be different. I mean, shit. If I could get it to work that way, I could get so much thinking done! I could, like, revise the codes, or write a book, or maybe lose my mind completely!
+
+Rain smiled.
+
+I’m getting ahead of myself. Strength is strength, sync might help, and things could be easier because of the ambient essence. I can’t keep popping in and out like this all night to test every last thing. I do need to get some actual sleep at some point.
+
+The plan for tonight is nice and simple: break the record. No, not break. Shatter.
+
+10,000 units, let’s go!
+
+Rain flicked through his menus one last time, making sure that his Strength was as high as he could safely make it. He dove down once more, and predictably, it took quite a while to calm himself down. Worse, he nearly fell asleep at one point. Fortunately, once he was inside, the physical call for sleep faded, leaving only the mental, which he was perfectly capable of ignoring.
+
+With the boost to his Strength, he formed the Bastion easily. Then, the drudgery began.
+
+Ten, bloody, thousand. Gah! I’m never doing that again.
+
+There has got to be a better way!
+
+Rain massaged his core with a pair of tentacles, throwing himself down into a chair of essence-matter that he’d made for himself. It looked like one of those egg-chairs from the seventies, tilted on its back. It sat atop the ‘ground,’ which was more white essence-matter, loosely packed into something approximating clay. He hadn’t expanded the Bastion in a while, and his spare essence had built up until it filled roughly half of its volume. He’d let it all collect on the side that his brain had decided was ‘down’ upon the advent of gravity.
+
+Rain’s form had weight, now, when he wanted it to. He even had an approximation of a body, though it was more like an octopus than a human, except with four arms, not eight. His core was solid, like a gemstone, serving as the source of his perception. His tentacles were manifestations of his will, emanating from his core. They’d started out completely invisible, gradually taking on substance as he’d continued purifying essence. Now, they appeared to be made of translucent ectoplasm, their color mirroring that of his core. When he had his weight switched on, he could even use them to move like a physical being—for example, by swinging along the ceiling like a drunken orangutan. He hadn’t yet managed enough control to walk, but he was working on it.
+
+At the end of the day, there wasn’t much point to the tentacles. Rain could suppress their manifestation at a whim, returning to sculpting essence with immaterial force. His senses remained locked to his core when he did this, but as he could choose to ignore gravity, that was hardly an impediment. Working without them was far more effective, even, but he found the familiarity of physical manipulation to be comforting. He was definitely in need of some comfort right now.
+
+In retrospect, his goal of ten thousand essence had been a bit much.
+
+Rain merged his tentacles into a single, gelatinous mass, leaving his core suspended in the middle like a chunk of pineapple within a blob of jello. He idly wondered if this was what it felt like to be a slime as he let himself conform to the shape of his chair. Dozer’s influence didn’t affect his thoughts in here, but he still found himself thinking of the slime frequently.
+
+Are you out there, buddy?
+
+Rain quivered, approximating a sigh. He was mentally exhausted. Getting to ten thousand units had taken hours, and there had been no noticeable change to the amount of chaos he felt beyond the Bastion’s walls. He was getting the feeling that he hadn’t even made a dent. Nevertheless, it was a significant amount of work. Now that he’d come this far, he was reluctant to leave, lest he lose it all.
+
+How long has it even been?
+
+Rain’s interface still wasn’t operational in here, but each essence conversion took close enough to one second for him to use that as the basis for an approximation. Ten thousand seconds was 2.78 hours, but that was just a lower bound. In reality, it had probably been twice as long. Rain had needed to expand the Bastion periodically, which wasn’t a straightforward process. He’d also had to deal with the smoke, which had eventually built up to the point that it had blocked his ability to see. Figuring out how to fix that had been another non-trivial process.
+
+In the end, he’d created a balloon of essence-matter within the outer shell of the Bastion, like the tube within a tire. He’d then compacted that down, squeezing until the smoke condensed into a liquid. He’d had to do that three times so far, as his core had continued to exude the stuff no matter what he did. There was a decent amount of it now in liquid form, safely contained in a pond that he’d sculpted next to his chair.
+
+Ten bloody thousand…
+
+Rain felt himself start to relax as he enjoyed the sensation of being a slime. The Bastion felt safe. He visualized it floating through the chaos like one of those domed island space habitats you saw in science fiction. That image would have been even more on point if not for the lack of color. All of the matter he’d made was still white and opaque—the ground, the mysterious liquid, the structural webbing, the outer walls—everything—unless you counted his core, that was. It was presently glowing in a tired orange within his translucent slime body.
+
+Gradually, Rain’s color faded from orange to a deep, placid blue.
+
+Let me see. I could try doing something with the liquid. Filter it somehow. It should be made of health, stamina, and mana, all mixed together in proportion to my regeneration. But then, why is it white and not blue? Also, it’s been hours. Given that I’m a Dynamo, I should be drowning in it by now. Maybe it isn’t what I thought it was. What else could it be? Dozer? No, that wouldn’t make sense. It came from my core. He’s out there in the chaos, somewhere, not in here. I know it.
+
+Bah, I don’t have the energy for this, let alone the time. I need to get back to my body and sleep.
+
+…
+
+Can I just sleep in here?
+
+…
+
+That’s…certainly an idea.
+
+…
+
+I might actually be able to manage it. I’m feeling more like myself than I was nine thousand essence ago. My thoughts seem…normal. Ish. Normalish.
+
+What would happen if I went to sleep? I don’t really need to focus on maintaining the structure anymore…
+
+…
+
+…
+
+Nope. Bad idea. One experiment at a time. The goal here is to get all of this to last between meditation sessions. I am NOT doing all this again.
+
+Shore it up, then back to reality. That’s the plan.
+
+Rain’s slime-like body vanished as his core floated up out of his chair, gravity’s fingers releasing him upon his command. This was going to be a major structural change, and octopus arms weren’t going to cut it.
+
+He wrapped his will around the essence that he’d been using as the ground, breaking it up into chunks and pulling it away from the bottom of the sphere. He focused, softening it, then sculpting it into a solid sphere. He reclaimed his chair as well but ignored the liquid, leaving it to slosh about however it pleased.
+
+Splitting his focus onto two points on opposite sides of the essence sphere, he extruded I-beams directly from its surface, not stopping until they came into contact with the Bastion’s outer shell. Once they were in place, he hardened them, fixing their form. He repeated this process twice more, bracing the exterior wall in all three axes.
+
+He didn’t stop there. He added more I-beams at more angles and then added cross-braces between them until the sphere’s interior became a dense jungle-gym of woven essence. He also thickened the triangular plates that made up the outer shell, not quite doubling the wall’s thickness. Once he was done, he let himself drift listlessly, almost entirely spent.
+
+There. If that doesn’t do it, nothing will. It’s a shame I can’t just make everything solid, but the Bastion needs empty space to work.
+
+This has to be enough. It has to.
+
+Rain paused.
+
+The color of his core deepened until it was a blue so dark as to appear black.
+
+No. That is not the way.
+
+He moved on instinct, drifting toward the middle where the beams were the densest. He burrowed through them, seeming to phase through the solid matter, though in actuality, he was merely guiding it into flowing around himself like water. Once his core was at the absolute center, he created a few vents to accommodate his off-gassing, then hardened the beams back into rigidity, locking himself in place. He focused on the structure, spreading his senses through the essence and visualizing it as nothing more than an extension of himself.
+
+This is my world.
+
+In here, I do not define reality; I AM reality.
+
+The Bastion WILL hold.
+
+My will is law.
+
+Rain stifled a groan as pain clubbed his mind back into wakefulness. He’d again gotten used to being without it, and coming back to his body was always worse the longer he stayed inside his soul.
+
+Ugh.
+
+He scrunched up his face, not yet opening his eyes.
+
+Run sensor sweep and diagnostics.
+
+Monsters? Out there. Friends? In here. Time? 3 AM. Vitals? Within acceptable margins. Head? Pounding. Muscles? Aching and stiff. Back? Cricked. Bladder? Full. Tongue? Woolly. Stomach? Hollow.
+
+Diagnosis: Hangover, stupidity-induced.
+
+Prescription: Purify, food, sleep.
+
+Stiffly, Rain turned his head, opening his eyes to check on Ameliah. This proved to be a poor decision, as instead of finding her sleeping there, his eye found one of Tallheart’s antlers.
+
+Physically.
+
+Rain yelped. It didn’t actually hurt—his Force resistance saw to that—but a lifetime of keeping pointy objects out of his eyeballs had left him with a pretty strong conditioned response. He recoiled, his head thumping against the wall with considerable force.
+
+Tallheart snorted himself awake, then sat up. He searched for the source of the disturbance, craning his neck around until he saw Rain over his shoulder. He turned to face him, frowning as he did. “Are you well?”
+
+“I’m fine…” Rain managed with a sigh, weakly pushing himself up onto his elbows. He licked his lips, finding them dry, like he’d been walking through the desert.
+
+Tallheart’s frown deepened, and he leaned forward to offer Rain his hand. “You lie,” he said as he pulled him up into a sitting position.
+
+“I will be fine,” Rain amended, shaking his head as he activated Purify at the lowest functional level. “I just need water and a little food.” He dropped his aching head into his hands and massaged his temples. “And a new brain.”
+
+“Here,” Ameliah said from near the door. She passed her canteen to Tallheart, who removed the cap and handed it to Rain wordlessly.
+
+Rain took it gratefully, then guzzled down the lukewarm water with enthusiasm. He didn’t stop to breathe until the entire thing was empty, and when he did, he realized that Tallheart was holding out a ration bar. In his haste to snatch the offered food, he dropped the canteen, which tumbled to the stone floor with a metallic clatter. Moments later, there was a deep roar from outside their little cubbyhole.
+
+Rain winced, pausing in his efforts to free the ration bar of its paper wrapping.
+
+Oops.
+
+Ameliah cursed, spinning away and pulling open the door. She slammed it shut after herself, and reddish light blossomed around its edges as she called fire to battle whatever monster had reacted to the sound.
+
+“Hmm,” Tallheart rumbled, giving Rain a disapproving look.
+
+Rain looked from him to the door. “Yeah, that was pretty stupid of me. Should we help, or…?”
+
+“She will be fine,” Tallheart said. “This is not the first time that the monsters have realized we are here.”
+
+“Oh,” Rain said, shoving the entire ration bar into his mouth, though it took a few bites to break it up enough for it to fit. Even with all of his added Strength, the damn things were still harder than cement.
+
+“Mmm,” Tallheart said. “You were still meditating, I assume?”
+
+Rain nodded, busily grinding away at his mouthful of gravel-based food. He swallowed, then took a breath. “Yeah. I got a little carried away. Can you pass me another ration bar?”
+
+“Few remain,” Tallheart said, shaking his head. “Here.”
+
+He held out one of the dire limes, which were properly called ‘sasu.’ The fruits were native to Bellost, apparently, making their appearance in this cave even more puzzling. Regardless, Tallheart had been elated when Rain had come back with an armful of them. He’d smiled and everything.
+
+“Thanks,” Rain said, accepting the fruit and taking a huge, juicy bite. It was still powerfully sour, but less so than the battery-acid-like burn of the first one he’d tried. It turned out that that one had just been unripe. Even so, he had to fight to keep his face from inverting as he chewed. There was a reason sasu weren’t popular with humans.
+
+Tallheart chuckled, watching him. “You are making a mess.”
+
+“Don’t care,” Rain said, taking another bite. Purify was still running. It would deal with it. “Too hungry. Is there any soup left?”
+
+“No,” Tallheart said, passing him another sasu with some amusement. They had plenty of them. “Have you considered removing the accolades?”
+
+The door rattled from an explosion in the tunnel, interrupting Rain’s response. He got a kill notification—the third since Ameliah had left. Attracting the monsters’ attention had led to their deaths, and that was enough for the system.
+
+Once the echoes faded, Rain shook his head. “I’ve considered it, yeah, but I need the max health when we’re out there. In here, Strength seems to help with soulstuff.” He proceeded to summarize what he’d achieved, including all of his sleep-deprived musings on what it might mean.
+
+Tallheart listened patiently, passing him sasu after sasu as he talked. All the while, explosions continued outside the door, becoming more distant as Ameliah led the monsters away from their camp.
+
+“Hmm,” Tallheart said once Rain had finished. “And were you successful?”
+
+“I don’t know,” Rain said tiredly, looking down at the half-eaten fruit in his hand. He finished it off in two quick bites, then left Purify to deal with the juice he’d gotten all over himself. Where before it had been empty, now his stomach felt uncomfortably full. How many did I eat? He shook his head. “It felt like it was still holding as I was leaving, but I’m not sure. I can’t sense anything different now, not from out here. I need to go back in to check.”
+
+Tallheart frowned. “Hmm. You promised you would sleep. Am I right that you will not be able to do so before you verify the status of your soul?”
+
+“Yes,” Rain said tiredly, allowing himself to flop back down against his bundled cloak. He raised a hand to rub at his eyes, then let it fall to his side. “I can’t just leave it, Tallheart. I need to know.” He sighed. “Ameliah’s going to be mad, isn’t she?”
+
+Tallheart shook his head. “She will not be mad. Perhaps annoyed, but not mad. She understands. As do I.” He rumbled to himself, sounding amused. “I have become lost in a project many times.”
+
+“That’s good,” Rain said muzzily, deactivating Purify. With his stomach as full as it was, the tug-of-war between hungry and sleepy only had one competitor remaining. I will NOT sleep. I have to check on the Bastion. Then I can rest.
+
+The explosions stopped in the distance, and a pulse of Detection revealed that there were no monsters anywhere in range. With a few more pulses, Rain tracked Ameliah, determining that she was headed back in their direction. “She’s coming back.”
+
+Tallheart rumbled in acknowledgment. Rain began the process of calming his mind, but before long, he was distracted by the sound of the door opening. He cracked open an eyelid, seeing Ameliah enter with a closed fist held in front of her.
+
+“Hey,” she said, stooping to empty her hand into a leather sack that was sitting open near the door. The faint crystalline tinkle of Tel made it to Rain’s ears as she deposited the spoils of her outing. “What did I miss?”
+
+“Rain ate thirteen sasu and then fell asleep,” Tallheart said.
+
+“I’m not asleep,” Rain said, closing his eyes again.
+
+“I see,” Ameliah said, sounding amused. “Did you make any progress with your soul?”
+
+“Mmhmm,” Rain mumbled. “Just need to check something...”
+
+“Go on, Rain,” Tallheart said, and Rain felt him tucking his blanket back over him. “I will tell her what you told me.”
+
+“Thanks, Tallheart,” Rain said, turning his thoughts once more to the Bastion.
+
+“Slow down a second, Rain,” Ameliah said. “Can you turn Winter on, please? I used a lot of mana.”
+
+Rain considered for a moment, then activated the spell, his thoughts feeling like molasses as the cold washed over them. He’d never been able to enter his soul with an aura running, but then again, he hadn’t tried doing so for quite some time. With his increased proficiency, it might be possible, and if Ameliah needed mana, she needed mana.
+
+“Thanks,” Ameliah said.
+
+“Mmmhmm,” Rain replied, then buckled down for real, attempting to tune out the low rumble of Tallheart’s voice as he filled Ameliah in.
+
+He didn’t make it.
+
+Minutes after he began, he slipped not into his soul, but into the comforting arms of sleep.
+
+In the roiling chaos, absolute in its disorder, there could be no existence. No structure. Not even the perception of time.
+
+And yet, every so often, a seed of order would appear. Lines of reason would spread from it like the roots of a great tree, bringing stability with them, and in turn, possibility. Soon thereafter, droplets would begin to precipitate out of the chaos—droplets of a presence, or perhaps a memory. Something that had perceived. Something that had felt. Something that had…
+
+…thought.
+
+But not now. Not yet.
+
+As time passed, simply by chance, the droplets would pass close to each other amid the tumult. When this happened, an attraction would form, and if the conditions were right, the droplets would join together, becoming some greater fraction of what they once had been.
+
+This event was unlikely, for the droplets were small, and the chaos was vast. Yet happen, it did.
+
+Unfortunately, the seed would never last. After some time, a great wave would crash through the chaos, shattering everything before its might. The roots of reason would wither, their order subsumed by the chaos. The presence would dissolve along with them, disappearing helplessly back into nothingness.
+
+But not this time.
+
+This time was different.
+
+This time, when the wave came, the seed hadn’t broken.
+
+It had endured.
+
+Far out in the chaos, something was coming together. After many hours and many close encounters, two of the largest droplets finally collided, themselves already the result of several such collisions.
+
+The combined fragment remained a mere fraction of what it had once been, but it was large enough, barely, to remember.
+
+…
+
+⟬filth⟭?

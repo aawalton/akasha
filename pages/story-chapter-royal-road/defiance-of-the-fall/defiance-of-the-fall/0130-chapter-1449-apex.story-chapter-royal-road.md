@@ -1,0 +1,121 @@
+---
+id: 67416d57-b60f-5a85-9d2a-086e2a45952f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,449 - Apex"
+slug: 0130-chapter-1449-apex
+partOf: defiance-of-the-fall
+position: 130
+ownLength: 3218
+unit: words
+publishedAt: 2026-08-20
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3839758/chapter-1449-apex"
+royalRoadId: "3839758"
+---
+
+The surrounding forest of towering spires stretched as far as Rhubat’s eyes could see, each thrumming with forbidden energy. It was neither a formation nor a curse. It was sin and sacrifice, embedded in blood runes covering their surfaces. Some of the blood came from the Empire’s enemies; even more of it was their own.
+
+The ancient, dried-out concoction held a nihilistic madness that infected anyone who dared stray close, yet Rhubat remained glued behind a spire. For one, Rhubat had discovered their surprising resilience against the spire madness, greatly surpassing even Wrani’s.
+
+Only a small part of it was due to the tempering of turmoil they’d endured over the years. It turned out the unique antennae of the Zhix held yet unexplored capabilities. Rhubat suspected it was this trait that Wrani had fruitlessly tried to extract from them by repeatedly consuming their limbs over the past months. Right now, the unbreakable stone provided great comfort by protecting flesh and hiding presence.
+
+It hadn’t taken long for Rhubat and their cruel mistress to understand the lay of the land inside the Tethered Court. It wasn’t wrong to say that the court was a testament to the Empire’s conviction, perhaps also their insanity. No planning or preparation was enough to overturn the Heavens without a price. A tremendous sacrifice was needed, and the Tethered Court was the center of the ritual.
+
+The results spoke for themselves. The pillar was erected, and the System was born. Of course, the price was too steep. Everything had been sacrificed to achieve their goal, and in the end, not a single survivor remained to celebrate their achievement. They were all dragged into the abyss with the enemies that stormed the Left Imperial Expanse in the end.
+
+The Tethered Court was managed by the Department of Rites, and the tasks allotted to visiting Sealbearers were straightforward. Inside the five memory domains, the work on erecting the spires was still ongoing. Erecting a spire was easier said than done, despite their drastically different appearance in the past. Instead of runes carved in blood and covered in soot, the spires shone with the golden splendor of the Imperial Faith and were adorned with dancing tassels of red talisman paper.
+
+As supreme instruments of sacrifice, the spires took something from those who had to interact with them directly. The obvious solution of forcing criminals and prisoners of war to perform the heavy lifting didn’t work. The implementation of the spires was steeped in ritualistic mysticism, and not just anyone could get involved. Only those with great destiny could interact with them, which made the Sealbearers perfect workhorses. They had plenty of untapped providence to spare.
+
+The whole thing went against the natural order, and losing oneself in the spires wasn’t the only danger Sealbearers faced. Neither Heavens nor Earth could abide their existence. All sorts of calamities were born from them, and both Sealbearers and local mystics of the Department of Rites kept being whisked off to hidden realms.
+
+Whether the experience was an opportunity or a calamity depended on whether they could make it back alive. Successfully overcoming a tribulation could yield both unique treasures and large amounts of Oblation, the local currency of the Tethered Court.
+
+There was also a second method of accruing Imperial Merit for trialtakers such as themselves. There was much work to be done outside the memories, too. The forest was in disarray and in desperate need of repairs. At least a third of the spires were collapsed on the ground when they first arrived. Gathering the debris of a spire at its base allowed it to recover on its own.
+
+However, interacting with the damaged pieces was much more dangerous than erecting the spires in the past. The madness was palpable, and a moment of weakness could result in sacrificing your cultivation, your memories, or even your life. In return, directly repairing a spire on the outside was much more lucrative than working in the past.
+
+Rhubat couldn’t be completely certain why the System wanted the spires to be rebuilt, but there were enough signs to form a hypothesis. The spires of the present were slowly growing stronger and transforming as energy poured into them from below. The phenomenon should be connected to the thousand trialtakers resolving threads of fate across the Left Imperial Expanse.
+
+Each success brought the continent’s history to greater heights of glory, increasing the value of its sacrifice. This artificial value was added to the spires, reducing the deficit each time a halo erupted. If enough strength was added to the grand sacrifice, the Limitless Empire would still have some providence left to spare when the Heavens balanced the scales.
+
+At the same time, each infusion added to the strain of the spires. With so many broken, the Tethered Court couldn’t bear the weight of the ritual. Bolstering the foundations of the past infused the debris with strength to gather on its own, and working in the present hastened the recovery. It was a two-pronged approach to reinstating the spire forest, and the work was already halfway complete.
+
+Of course, most of what Rhubat had gathered was conjecture or second-hand information obtained from sealbearers captured and eaten by Wrani. The ant queen had no interest in the matters surrounding the Outer Courts, and they’d only briefly entered the memory domains twice to better understand the situation.
+
+Wrani was focused on bigger prey, and she’d finally tracked it down.
+
+Rhubat glanced around the corner of the spire, where two opposing forces still faced each other in the distance. On one side was his companion and captor. Surrounding her was a sea of D-grade ants, most of which held no sapience of their own. It was only halfway through their journey together that Rhubat had learned of her ability. Wrani carried a whole hive inside her body.
+
+Not only that, but her reproductive capability was simply horrifying. She’d mentioned that she’d been forced to discard all but a handful of descendants upon entering the trial, yet Beast Kings and insectoid Hegemons under her command filled a whole valley. While significantly weaker than conventional beasts or cultivators, their numbers were enough to make Rhubat’s antennae tremble with alarm.
+
+Rhubat was already aghast when Wrani brought out a few hundred subordinates to kill a few of the native Beast Emperors lurking across the Left Imperial Expanse. Now, the number of subordinates was nearly tenfold. Then again, the two were likely connected. Wrani’s ability of reproduction was linked to the grade and quantity of resources she could get her hands on. She’d single-handedly devoured those C-grade beasts, turning their flesh into more subordinates—all in preparation for today.
+
+The ant queen also looked starkly different from her usual appearance. Her size had ballooned until she towered over a mile in height. Four wings adorned her back, each different from the other. Reinforced, jagged edges made Rhubat think of descriptions of the Izh’Rak Reaver Warbones, and she sported a few unfamiliar appendages on her body.
+
+More than anything, her towering aura had solidly stepped into the realms of Monarchy, thanks to thousands of subordinates bolstering it with a unique War Array. Empowering their queen was the sole purpose of these newborn creatures, and their loyalty went beyond even deathsworn. If needed, they’d provide anything and everything to their queen; their strength, their providence, and their lifeforce.
+
+Facing Wrani and her insensate army was a single, gargantuan creature stretching over five miles. Having learned a few things about Star Beasts, Rhubat suspected its true size was significantly larger, kept sealed to conserve energy and avoid coming in contact with the spires. The creature was almost ninety percent head, its skin covered in blotches and wrinkles.
+
+Two yellow lantern-like eyes of different sizes burned with ruthlessness and hunger, and its gaping maw was wide enough that it could split the head in two. The Primordial was an incarnation of hunger and greed, its small, misshapen body hanging from her neck like a vestigial appendage. It most likely was, seeing as the terrifying darkness within her maw clearly led to another space.
+
+There was no cosmic beauty in this ancient Innate Existence, and there barely appeared to be any pragmatism behind its brutalism. It was simply something that had sprouted from a younger and rougher Cosmos before the Dao had the chance to settle.
+
+Rhubat had managed to extract some information about Wrani’s target during her painful extractions of the Zhix’ unique traits. The Primordial was both the first and the last Taotie of the Era. She had created a subordinate race during her ascent to the peak but, for unknown reasons, devoured them to the last critter before disappearing in the river of time.
+
+It was almost unfathomable to Rhubat that they were facing an existence that had come close to the limits of power once upon a time, without any guidance from the System or without predecessors to illuminate the way. It was almost as shocking to see such a creature losing to Wrani. The Primordial had already lost one of her two stubby and mostly decorative wings, and deep scars covered her head.
+
+The Primordial’s wretched state especially stood out when Wrani faced her without a wound on her body, yet the Taotie’s eyes were still full of fight. Rhubat wasn’t sure if it was the result of the spires’ mental corruption and the sacrificial spirit they enforced on the forest’s inhabitants. It could also be because of the prize standing before her.
+
+The Tethered Court was unique in a way that shocked the ancient sealbearers but was familiar to those who’d cultivated under the System. Deaths inside the Tethered Court’s domain generated Kill Energy. Sure, the energy was more primal and hard to digest than the System’s current iteration, but it also had certain advantages. If the System kept 95% of the accumulated cultivation of the fallen to itself, then the Tethered Court only retained half. It even allowed the victor to consume the Destiny and Law of the defeated.
+
+Wrani was a queen of one of the Multiverse’s strongest hives and a genuine Flamebearer chosen by the Ultom Courts. The value of killing her inside the forest was inestimable.
+
+Then again, Rhubat had a feeling that none of that mattered to the maimed Taotie. She was a true Primordial who’d once fought her way to the top through countless bloodshed. The very fact that a creature dared block her path was enough to fight to the death. Only by erecting a tower of corpses could one reach the Terminus.
+
+“It’s hopeless. The Hive began preparing fifty thousand years ago upon divining that you were finally about to emerge. It was before we even knew of the Ultom Courts,” Wrani said. “We pushed into the depths of the Eternal Storm to devour the Einherjar Spirits and seize their immovable anchor. Then, we scoured the folds of reality, devouring a million Void Beasts to improve our resistance to space. Altogether, dozens of races met their end to ensure today’s success. I was practically born to consume you.”
+
+“Folly of the New Heavens. Is this the answer you found under the System’s guidance? To become wretched chimeras? You’ve replaced so much of yourself that you’ve lost touch with your origin,” the Primordial sneered, her voice causing the void to shake. “In taking such shortcuts to power, you’ve blinded yourself to Heaven’s Path.”
+
+“I amHeaven’s Path! The Hive will accomplish what the Limitless Empire could not. We will devour the Cosmos and become Eternal!” Wrani roared. “And for that, we need your Divine Ability of Sacrificial Feast. You should stay here in the past where you belong, content that your reincarnation brought value to the cause.”
+
+A thousand streams of Lifeforce poured into Wrani’s swollen form, raising the storm building within her body to new heights. Mile-long cracks opened beneath her feet as she once more shot toward her prey, blinding radiance building in one of her hands. A spectral maw made of twisted space opened around the hand, only to have its teeth shatter as it bit down.
+
+The simple nature and prompt collapse of the Primordial’s ability belied the terrifying power it held. The splintered teeth were made of hyper-condensed space, which fell upon Wrani’s supportive army below. Their defenses may as well have been paper before the monstrous spatial breakdown that ensued.
+
+The Primordial’s attack reaped the lives of a hundred ants on the ground before running out of steam. And yet, only a few shallow marks had appeared on Wrani’s hand, which promptly healed by extracting the lifeforce of a dozen subordinates. Unscathed, Wrani barreled toward the Primordial without missing a beat. It wasn’t the first time Rhubat had seen such an outcome in a clash, proving the ant queen’s confidence wasn’t blind hubris. She’d come prepared for the hunt.
+
+More ants emerged from Wrani’s hiverealm, though noticeably fewer than the ones that had just died. Altogether, the Primordial must have killed a thousand of her subordinates over the past ten minutes, and Wrani was finally running low on biological materials. Rhubat had been waiting for this to happen, and their nerves grew taut upon hearing a shuffling from behind.
+
+Turning around, Rhubat silently watched as the twenty guards set aside to guard them rushed to join the battle without a word. Wrani was clearly pushing for a conclusion, and victory was more important than keeping watch over her mobile snack. Genealogical improvements aside, she was not the Primordial’s match without the assistance of her Supreme War Array running at full capacity.
+
+Rhubat’s antennae trembled from overwhelming danger as the Primordial’s mouth opened wide. Despite “only” being a few miles across, Rhubat felt as though they were looking at the chasm between the Heavens and Earth. The pillars suddenly seemed like toothpicks when placed next to the Taotie’s teeth, and the insectoid warriors on the ground were reduced to specks of dust.
+
+Only Wrani managed to resist the Primordial’s spatial compression. A bluish sack on the back of her head—the organ inherited by devouring the Einherjar Spirits—began heaving, releasing an undulating tune that stabilized space. As a result, Wrani only shrank by half. The next moment, she was upon the target again.
+
+Her right hand burned with world-ending flames, and the Primordial failed to move out of the way quickly enough. The hand stabbed into the Taotie’s left eye, causing rivers of yellow mucus to pour out. Seeing that the damage was done, the Primordial shifted back to offense, directly biting into Wrani’s reinforced body with her real teeth.
+
+Rifts appeared across the ant queen’s shell, and green blood leaked through the cracks. Space groaned as she used four hands to force the Primordial’s maw open, her remaining two hands digging into flesh with serrated nails. Previously, the ant army had tried to breach the Primordial’s defenses without leaving a mark. But before Wrani’s swipes, the Primordial’s skin may as well have been paper.
+
+Yet the worse the Primordial’s condition grew, the fiercer she fought back. There was no finesse to the struggle, no tactics or scheming. It was flesh against flesh, claw against teeth in a primal struggle for domination. Even thirty miles away, Rhubat had trouble standing upright from the shockwaves generated by the clashes. It was unbelievable that such force came from two Peak D-grade combatants.
+
+Just as the battle reached its crescendo, Rhubat made their move. They were called the Chainbreaker back home, and Rhubat had remained fettered long enough. They rallied the conviction of their race and the suffering they’d endured over the past months into a spear aimed at their own heart. There was no hesitation as the sharp tip broke through the chitinous shell to dig into flesh.
+
+Blood poured from Rhubat’s mouth, yet they kept pushing deeper until reaching their target. An almost unnoticeable mark was nestled between the valves of their heart, its tendrils burrowing deeper. With a firm push, the mark was erased without fully destroying the heart. The pain was nearly enough to make them pass out, yet Rhubat knew they were free.
+
+It had taken Rhubat two months to find the bloodline seal and five months more to come up with a method of destroying it. Ample planning and Wrani being fully occupied allowed the exorcism to go off without a hitch. Rhubat used their newfound liberty to turn around and run for their life.
+
+Wrani had never given up proselytizing about the superiority of eusocial societies and the divide between insect and man. Rhubat understood there was some truth to her warnings. There were critical differences between the societies of insectoid races and those of humans and similar species—differences that often resulted in annihilation or subjugation.
+
+Nevertheless, Rhubat didn’t believe coexistence was an impossible task. Just as important, Wrani’s path was not for the Zhix. Rhubat had become increasingly clear on that as the months passed. Her view on societal order was no different from that of the Dominators. Her descendants were nothing but empty vehicles chained to her will. Their concept of the Hive was hollow, conflated with the desires of their queen.
+
+Rhubat would rather see the Zhix fumble in the dark for generations, searching for an answer that might not exist, than pursue this simple yet poisonous path. There had to be a cultivation system that suited the Zhix without becoming what they’d spent millennia resisting.
+
+And wasn’t the Limitless Empire a force worthy of study? While its citizens weren’t perfect, they perfectly understood the importance of community and sacrifice, that the needs of the Hive superseded the needs of the individual. Rhubat ran toward the closest memory domain, planning to search for the future within the past.
+
+The whole world shook as the battle reached its crescendo. Then, an eerie silence settled in the forest. It only lasted a few seconds before a victorious roar almost brought Rhubat to their knees. Legs straining to the point of breaking, they turned fear into speed. Against their better judgment, Rhubat risked drawing attention by glancing over their shoulder.
+
+The Primordial had gained another set of wounds, exposing both brain and bone. Yet she remained standing, emitting an unflinching viciousness that said she could keep going even if the Heavens collapsed. Meanwhile, Wrani’s engorged body was halfway inside the Primordial’s jaw. Head and torso had already been devoured, while her arms and legs twitched in a macabre death rattle.
+
+A Flamebearer had fallen, their strength and providence becoming food for the victor. Wrani’s preparations had proved insufficient to bring down a ferocious tyrant from the Era’s turbulent beginning. The Primordial clearly held deadly abilities beyond those known in the present day. Those races had been exterminated by the Hive for nothing. And as Wrani’s blood dripped on the ground, so did the forest reap its reward. The sacrificed destiny made hundreds of spires reform at once, and the sky above lit up with another halo.
+
+There was no joy in Rhubat’s eyes upon seeing the Taotie swallow Wrani’s corpse piece by piece, cementing their liberation. No matter which side won, everyone else would suffer. A small comfort was that the Left Imperial Palace was about to emerge. Soon enough, that crazy Primordial would become someone else’s problem.

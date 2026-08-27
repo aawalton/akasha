@@ -1,0 +1,275 @@
+---
+id: 285fd08b-3c60-5f8c-85db-833943ebe725
+page-type-slug: story-chapter-royal-road
+title: "219: Exfiltration"
+slug: 0219-219-exfiltration
+partOf: delve
+position: 219
+ownLength: 4662
+unit: words
+publishedAt: 2023-01-22
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1093923/219-exfiltration"
+royalRoadId: "1093923"
+---
+
+“Oh, so you know Tallheart, do you?” the woman in the cell adjacent to Ameliah’s said, her voice dripping with skepticism as the other prisoners muttered to each other. “I find that unlikely. What is this, really? Some new mind game? Some trick?”
+
+“No tricks except the one I played on your captors,” Ameliah said, glancing again at the child in the cell diagonal from her. The little boy was clutching his mother’s hand through the bars that separated them.
+
+Raising her bound arm to free it from the sling, she turned again to the hostile woman, who’d been the one berating the guard for water earlier.
+
+“Your trick was getting captured?”
+
+Ameliah nodded. “Like I said, I’m friends with Tallheart. I have a letter from him that you can read once we’re out of here. I left it with Rush—who’s alive, by the way—and Dawnlight and Heartwood, too.”
+
+There were a few intakes of breath from the others, particularly from the child, whose face had lit up with hope when Heartwood’s name had been mentioned.
+
+Ameliah kept her focus on the woman beside her, meanwhile unwrapping the bloody strip of cloth binding her arm to the splint. “What’s your name?”
+
+The woman paused for a long moment before she replied. “I am called Stoneriver.”
+
+“Stoneriver,” Ameliah echoed with a nod. Tired of fighting the wrappings, she ripped the remaining cloth away with one mighty tug, letting the tree-branch splint fall to the dusty planks with a thunk. Metal clinked as she straightened her arm, the ten rings looped around her fingers shifting as she opened her fist, revealing her Magewell Amulet.
+
+“What is that?” the man in the cell beyond Stoneriver’s asked. “River, what is happening? I cannot see from here.”
+
+Slipping the amulet on, Ameliah flexed her hand, stiff from its confinement, then began transferring the extra rings to her bare fingers.
+
+“Jewelry...” Stoneriver said slowly. “I think—“ She inhaled sharply as Ameliah summoned her gauntlets—or tried to, anyway. Only one had appeared.
+
+“Blast,” she said, shaking her right hand to jostle the rings. After a few more tries, the stubborn piece of armor appeared, a sharp clink sounding as the troublesome rings were forced into place. I’m getting better, but this skill is just too damn picky.
+
+“That armor,” Stoneriver said, licking her lips. “It’s the wrong color, but how do you have her—?”
+
+Ameliah interrupted her with the sound of tearing cloth as she ripped the remains of her cloak free. She then did a little hop, getting her bare heels clear of the dusty floorboards and summoning the rest of the set, other than the helmet. She met Stoneriver’s eyes. “There’s going to be a light, but it’s just a cleaning spell, so don’t freak out.” She waited a moment for her and the others to process, then activated Purify and Lunar Orb at the same time.
+
+“Who are you?” Stoneriver breathed after recovering from her shock as the cleansing mist washed over her.
+
+“How many times do I need to say it before you believe me?” Ameliah asked, letting Purify fall as soon as its work was done. Her boots clunked as she strode toward the cell door, then bent to peer into the keyhole. A little noise wasn’t an issue, but simply tearing the door off its hinges might alert the entire house if her magic use hadn’t already. Fortunately, the mechanism didn’t even appear to be a proper lock, merely a latch that could be manipulated by any sufficiently thin and pointy object.
+
+She had just the thing.
+
+She extended her arm to the side, palm open, and one of Tallheart’s needle arrows dropped into it.
+
+“Are Tallheart and Snowlilly with you?” another of the cervidians asked, a gray-haired man, perhaps fifty years old.
+
+“No,” Ameliah replied with a tight expression, working the latch. It clicked, and carefully, very carefully, she pushed the door open, wincing as the hinges squeaked. It was a long staircase, but still. She didn’t know what level of Perception the jailers had. Slipping through the gap, she picked up the flat-bladed key she’d spotted lying on a chair set in the middle of the hallway.
+
+“Let me out,” Stoneriver said, but Ameliah moved first to the woman’s cell across from her, who quickly disengaged herself from her son and rushed to the door.
+
+“Quietly,” Ameliah said, unlocking the latch and tugging gently on the door. This one’s hinges didn’t squeak nearly so loudly, and when the gap was wide enough, the slim woman squeezed herself through. Ameliah passed her the key, then got out of the way, leaving her to rush to free her son. In the meantime, she gave her arrow to the old man, then summoned another, crossing the aisle again to give it to Stoneriver, who jammed it into the lock with enthusiasm. Ameliah moved on to the last occupied cell, and in short order, everyone was free. They stared at her in the white light of Lunar Orb, tinted green by the lair behind them.
+
+“Now what?” the old man asked.
+
+“Now, we leave,” Ameliah replied, looking at him. He was gripping the arrow she’d given him like it was a knife.
+
+“By stealth, or by violence?” the other man asked.
+
+“As much violence as fucking possible,” Stoneriver growled, her knuckles white as she squeezed an arrow of her own. “I have stabbing to do. Is this adamant?”
+
+“Keep your voice down,” Ameliah said warningly.
+
+“Can you fight them?” the old man asked.
+
+Ameliah grimaced. “I need information before I can answer that. Why don’t we start with the rest of your names so I have something to call you?”
+
+“I am Ander, father of Proudrock,” the old man said, bowing formally.
+
+Ameliah blinked. Oh. I suppose I did know he had family.
+
+“You have already met my eldest daughter,” Ander continued, gesturing to Stoneriver, then to the other woman, who was standing with her arms wrapped around her son’s shoulders. “This is my third eldest, Camaya, and her eldest, Greenbriar.”
+
+As their names were spoken, mother and son bowed. Stoneriver hadn’t so much as inclined her head. Ameliah bowed back, then rose, looking at the final man. He was young, perhaps even younger than Rush.
+
+“I am Skymoon, son of Skymoon,” the man said with a bow.
+
+“We don’t have time for this,” Stoneriver hissed as Ameliah returned the formal greeting with yet another bow.
+
+“Hmm,” Ander rumbled in mixed agreement, the sound not nearly so deep as when Tallheart did it. “What is the situation on the surface, Ameliah, friend of Tallheart? Did you see the rest of our people?”
+
+“I counted seventy-one prisoners upstairs. With the five of you, plus Rush and his family, that just leaves one person missing.” She grimaced. “Is—“
+
+“Our brother is dead,” Stoneriver said flatly, wrapping an arm around her sister, who’d closed her eyes and looked away. “They sawed off his antlers while we watched, then left him to bleed his life into the dirt.”
+
+Ameliah cursed. Cervidian antlers weren’t like deer’s in anything but appearance. Losing one was equal to losing an arm. Worse, even. She shook her head, knowing she’d been foolish to hope. “Okay, before we break out, are there more than seven of the guards with the reddish cloaks?”
+
+“There are nineteen Rustcloaks in total,” Skymoon said. “We counted.”
+
+“More than I thought,” Ameliah said with a grimace. Rustcloaks? Damn mercenaries. “Do you know their levels? They’re all awakened, right?”
+
+“Below level five, we believe,” Ander replied. “My son killed three before they and the Menoviks subdued him. He was not even wearing his armor.”
+
+”They attacked without warning,” Camaya supplied.
+
+“The Menoviks are the nobles?” Ameliah asked.
+
+Ander nodded. “They are Fire Mages. The woman has Divination magic as well, while her brother is able to fly. We do not know of any additional abilities that the elder may possess. He was not present during the attack, but he is assuredly a Fire Mage as well.”
+
+“What makes you so sure?” Ameliah asked.
+
+Ander blinked slowly. “Menovik is the clan of Citizen North Harbor.”
+
+“Oh,” Ameliah said. “Shit.”
+
+“Why did you tell her that?” Stoneriver demanded, rounding on Ander. “What if she won’t fight them now?”
+
+“It’s fine,” Ameliah interjected. “You won’t have gotten the news in here, but Lightbreaker attacked North Harbor—North Harbor the city, destroying it, basically—and then the Warden mind-controlled the Citizens to strike at the Empire. If Citizen North Harbor is alive, he’s in no position to help his kin.”
+
+“What?!” Camaya asked, while the others similarly reacted with slack-jawed shock.
+
+Ameliah waved a hand. “I’m not about to back down, no matter who they are. I mean to get you out, and that’s what I’m going to do. Are there any other guards? Servants or other unawakened? Anyone I shouldn’t kill?”
+
+Stoneriver scoffed. “Every human here deserves a thousand deaths.” She tilted her head. “Excluding you, perhaps, if you perform as you have promised.”
+
+“River,” Ander warned before looking back at Ameliah. “I have seen two different servants, but there may be more. I do not know.”
+
+Ameliah raised a hand sharply, though not in response to anything he’d said. “Someone’s coming,” she said, tracking the Mark in her mind. “One of the nobles. The Diviner.”
+
+Just as she said this, her ears picked up the distant sound of the door opening.
+
+“What do we do?” Camaya asked in a frantic whisper, wrapping her arms around Greenbriar protectively.
+
+“Stay behind me and keep quiet,” Ameliah said, moving to place herself between the cervidians and the bottom of the stairs. “Hide behind something if you can find space.” She dismissed her light, plunging the cellar back into green-tinted gloom, then summoned her helmet and bow. The door slammed in the distance.
+
+Listening as hard as she could, Ameliah detected only a single set of footsteps descending the stairs, though it was tough to tell over the loud and angry muttering. “...Telling me to drink my tea. I’ll show him. Oh, what our mother would say if she knew he’s being so stupid! Just because he popped out first, he thinks he knows best, but how can that be when he’s not worried about such an obvious spy!? ‘Just a hunter,’ he says. ‘All in your head,’ he says. Bah! Why, I...”
+
+Ameliah continued listening as the diatribe grew louder and louder, sure now that the noblewoman was alone and quite unhinged. She was also paranoid, clearly, but not paranoid enough. Whether that came down to confidence or overconfidence, the next few seconds would tell.
+
+Candlelight spilled out from the stairs into the cellar, and Ameliah drew.
+
+“...I’ll interrogate the woman first, and if those fucking deer don’t stay quiet, I’ll—UFFF!“
+
+Ameliah’s arrow punched into the center of the woman’s chest the moment it appeared below the door frame. There was no flare of defensive magic, which told her that the fight might already be over, but it didn’t stop her from releasing her next shot. The shaft curved to seek the noblewoman’s skull, striking between her eyes as she slipped and fell against the stairs. The Mark vanished from Ameliah’s mind a moment later, and light glinted from perhaps a dozen accolades as they tumbled to the ground. She nevertheless loosed a third time, then a fourth, the projectiles pounding into the corpse one after the other.
+
+“Nice,” Stoneriver said as Ameliah summoned her light. “Snowlilly taught you, didn’t she? Is your bow the same as hers too?”
+
+Ameliah didn’t answer, not wanting to risk a repeat of what had happened when she’d told Dawnlight of Lilly’s death. Stalking forward, she didn’t lower her weapon until she saw the pencil-thin hole between the noblewoman’s eyes. Only one arrow remained visibly lodged in the corpse, sunken deep into its heart. The others, unslowed by the barrier of the noblewoman’s health, must have passed clean through flesh and floor both, burrowing deep into the earth.
+
+Overconfidence it is.
+
+“She’s...dead?” Camaya asked. “Just like that?”
+
+Ameliah nodded to her, noting again that the two sisters were very different people. “Pick up the accolades and bind whichever you can,” she said, stepping over the corpse and peering up the stairwell. “If there are any that boost health, let me know so I can heal you back to full. Try to spread them around so everyone has at least one.”
+
+“Truly?” Skymoon asked.
+
+“Quickly, now,” Ameliah said.
+
+“Can I...?” a high voice asked. It was Greenbriar.
+
+Ameliah glanced over her shoulder to see the child clutching a metal plate, then smiled. “Go on.”
+
+“But—“
+
+“Really, it’s fine,” she interrupted, looking up the stairs again. “You all need them more than I do.”
+
+There was a long pause, then Greenbriar spoke again. “Okay, but...how?”
+
+“Oh, right.” Ameliah turned, reasonably confident now that the guard wasn’t coming. “Don’t worry, it’s easy. It’s about intent.”
+
+The next few minutes saw the accolades portioned out and bound. Some of the plates were as high as rank two, and the fact that the cervidians could bind those proved Ameliah’s guess that they’d been awakened. They’d likely been forced to level as quickly as they could, and likewise forced to take useless skills. She’d ask them later, delicately. For now, she merely healed them as needed, then conjured a fresh batch of arrows for them to use when the first batch vanished.
+
+“Should we stay here?” Ander asked Ameliah after she had indicated it was time to continue.
+
+She shook her head, sending her Lunar Orb to hover by his shoulder and tethering it there. “Once the alarm is raised, some of them might rush to secure the lair. You’re safer with me. Stay ten steps below me until I’ve dealt with the guard.”
+
+Ander nodded, and Ameliah began her ascent, less creeping and more simply climbing. To make her footsteps sound more like the noblewoman’s, she dismissed her boots, and when she neared the door, a voice spoke from the other side.
+
+“Done already?”
+
+Moving onto the landing and not trusting her ability to imitate the noblewoman’s shrill voice, she rattled the knob instead, then, remembering that it opened outward, planted her feet and drew back on her bow.
+
+“Hold on, hold on,” the guard said, doing a lousy job of keeping the annoyance from his voice. After some rattling from the key, the door opened, and Ameliah loosed. Another Mark vanished from her mind.
+
+This might be easier than I thought.
+
+Rushing forward as the body crumpled, Ameliah burst out into the hallway, resummoning her boots and looking around, finding the coast clear for the moment. As with the noblewoman, her arrow had passed through the Rustcloak’s skull so quickly and cleanly that there was barely any gore. A hole in the wooden paneling behind where he’d stood told of its continued flight through the building, though it had made barely more than a quiet thunk as it drilled through who-knew-how-many walls. Piercing Shot and the ultra-dense needle arrows made for some terrifying penetrative power against mundane materials.
+
+Did anyone notice that, or—?
+
+Ameliah’s thought was interrupted by a muffled exclamation from the direction of the arrow’s passage.
+
+Yeah, someone noticed that. Sand’s falling fast now.
+
+Urgently, she beckoned to the cervidians, waiting in agonized impatience as they climbed the final steps to join her. She pointed to the Rustcloak’s sword, then left without waiting to see who would take it, headed back for the foyer. There were two Marks there. Before long, they or someone else would come to investigate, and besides that, one of the Marks was Nicho’s.
+
+Stepping boldly out into the open space, Ameliah found her target. Nicho was speaking to the man who’d carried her down to the cellar, plus a third she didn’t recognize, standing with his back to her. He was directly between her and her preferred target, which was unfortunate for him and convenient for her. Her arrow slipped neatly through the unknown man’s skull on its way to Nicho’s weaselly face before punching through that as well, then the wall beyond.
+
+Not just low health, but low resistances too, the both of them. Why am I not surprised?
+
+The last Rustcloak managed a surprised grunt before her next arrow silenced him. The startled shout of the servant on the landing, though, made that small victory largely irrelevant. Ameliah only just stopped herself from reflexively planting her next shot through his skull.
+
+Depths, that’s done it now.
+
+Hoping the servant was wise enough to head for the hills with speed, she sprinted across the room for the door. She slammed into the heavy wood with her shoulder, blasting it off its hinges and revealing that the rain had picked up again despite the fact that the clouds should have run out of water days ago. Without even looking for her next targets, Ameliah pointed her bow straight up at the dreary sky and loosed three arrows, one after another. Seeker Shot normally wouldn’t activate if you weren’t looking at your target, but Mark removed that restriction.
+
+“Go!” Ameliah shouted, stepping aside to clear the doorway.
+
+Other than the three Rustcloaks near the pen—who’d drawn their swords, unaware that they were already dead—there was only one more in sight, standing near the wall. Shock of shocks, the man was holding something other than a sharpened bit of metal. His bow didn’t do him much good, though, as her next arrow found his heart before he’d even nocked one of his own. At about the same time, the first arrow she’d sent streaking into the sky hammered straight down into the nearest Swordsman’s skull. Its descent having been effectively vertical, it punched clear through his body and into the earth below without any risk of hitting anyone else. The two after it fell with brutal inevitability, snuffing out the remaining Rustcloaks’ lives one after the other.
+
+Two Marked enemies remained—Mett, outside the palisade by almost a kilometer, and Lord Deadsoon Menovik, whose real first name Ameliah couldn’t be bothered to remember. The latter Mark was in the building behind her and was starting to move in their direction.
+
+That was unacceptable.
+
+With Airwalk, Ameliah stepped up into the air to hover protectively over her charges as they fled toward their friends and family. She snapped off a Seeker Shot at a Rustcloak as he popped out of one of the other buildings, then drew again, looking for threats more immediate than the one in her mind. Seeing none and finding no more reason to wait, she loosed.
+
+Plenty of people were yelling now—mostly the cervidians behind her, some crying out Snowlilly’s name as they mistook her for their fallen hero. The fast-growing cacophony was easily cut through by a yowl of surprise—surprise, but not pain.
+
+Crap. He’s got defenses.
+
+Ameliah loosed again, drawing arrows from nowhere with practiced haste and unloading shaft after shaft into the manor. If anyone was unfortunate enough to be caught between her and her prey, so be it. She’d have a hard time forgiving herself if she inadvertently killed a bystander, but this was war. She had to consider the cost. Should she fail to kill the nobles, and quickly, the cervidians could all die. As could she.
+
+By the time she released the sixth arrow, she was beginning to grow quite worried. Muttering a curse, she stopped in the middle of shot seven to change targets, seeing that the gate on the far side of the palisade had opened. Six Rustcloaks charged through, their number dropping to five before they even spotted her. That was followed by a moment of confusion as they realized she was flying and they had no way to get to her. Another died before the rest turned and dove for cover, but not before she’d Marked them all for later.
+
+A colossal detonation shook the air, and Ameliah whipped her head back around to see the manor’s roof explode outward. Worries of any collateral damage SHE might have caused fled from her mind as burning shingles and shattered beams rained down around her. Following the guidance of the Mark, she finally spotted the figure of the nobleman as he was spat out of the flaming plume rising from the building. Instead of falling, he slowed to hover in the air, staring in her direction.
+
+Gotta keep him focused on me.
+
+She resumed her barrage, jumping up and to the side to place her out of the direct line to the prisoners in case of a counterattack. And a counterattack there was, a Triplicate Fireball homing after her, trailing a plume of steam. Meanwhile, the manor exploded again. From the wreckage rose a translucent dragon made entirely out of fire.
+
+Guess I woke up Grandpa. What skill is THAT, though? Is he a Summoner or something?
+
+Ignoring the dragon for now—and the Triplicate Fireball as it splashed harmlessly against her armor—Ameliah kept shooting, barely even looking at the younger noble as she unloaded arrow after arrow in his direction, adding Multishot to the mix when he proved himself somewhat adept at dodging. Occasionally, she launched a shot straight up, targeting one of the Rustcloaks she’d Marked before, less to pick them off, and more to ensure that they kept their heads down. Mostly, though, her attention went toward searching for the Summoner.
+
+This...could be going better.
+
+Dodging a plume from the dragon, she crashed through another Triplicate Fireball, but then felt something grab her. Burning chains had wrapped themselves around her limbs, lashing her to the ground and trying to pull her out of the sky. It took a good bit of strength to fight through the restriction, but she managed it, keeping up her unending barrage. Soon enough, it became easy again as the chains shattered, their mana sapped by her armor.
+
+The vanishment of the Mark on the nobleman was so abrupt that it came as a shock. She turned to see the man she’d never even gotten a proper look at falling from the sky, his flame extinguished. The Stacked Multishot she’d been about to send in his direction she instead sent after the final Marked Rustcloak in range. Arrows wouldn’t do much against the dragon, she guessed. For that, a different approach was needed.
+
+Skidding to a stop in midair, Ameliah reversed direction, raindrops pelting against her visor as she launched herself directly at the flaming construct. It opened its mouth, unleashing a blinding plume of fire that boiled the water coating her armor to steam, but she didn’t slow, charging back along the path of the flames until she plunged through the dragon’s open mouth.
+
+Its translucent form had no substance, it turned out, and she had to stop herself with Airwalk before she emerged on the other side. The dragon was moving, of course, so she quickly started moving with it, doing her best to stay right where its heart would have been had it been a beast of flesh and blood. Her eyes were watering from keeping them open against the intensity of the light, even through her mirrored visor, but inside her armor, she was comfortably cool.
+
+Ten seconds passed, Ameliah holding her breath as the dragon roared and thrashed, oddly lifelike in its attempts to dislodge the adamant intruder poisoning it from within. Finally, the construct broke apart, not by exploding, but by dissolving into a harmless cloud of shimmering red energy. Through the light show, the steam, and the continuing downpour, Ameliah finally spotted the Summoner responsible.
+
+Mark
+
+It was an old man, staring up at her in his nightgown as he stood amidst the flaming wreckage of his bedroom. A cloak of fire surrounded him, and as she watched, another wave of chains sprung from his outstretched hands to bind her. She dodged, unsurprised when the burning chains curved to strike her anyway, their ends instantly shooting down and burrowing into the ground. Powering through the restriction as before, she released an arrow, which was batted harmlessly aside by a twist of fire.
+
+That’s not Shrouded by Flame, or if it is, he’s got some metamagic I’ve never heard of. This REALLY could be going better.
+
+Worried for the cervidians after not having checked on them for a while, Ameliah glanced away, to her relief, finding them still unharmed. When she looked back, though, she saw that the old nobleman had followed her gaze.
+
+No!
+
+She dismissed her bow and dove at the old man, kicking against the air with even more force than she’d used when diving for the dragon. Too late, he looked back at her, and yet he still almost managed to dodge. Moving with him, Ameliah hammered into him like a metallic comet, wood splintering as she drove the two of them down through the building and into the dirt. Before he could escape, she wrapped her arms behind his back, then began to squeeze, ignoring the detonation of yet another spell she didn’t recognize.
+
+It didn’t matter. He was a Mage, and Mages did not fare well in close quarters. She had him.
+
+Rearing back, Ameliah whipped her head forward, slamming her armored forehead against the old nobleman’s nose with all her strength. It felt like headbutting the side of a mountain, but the flaming cloak didn’t react, likewise not stopping her as she did her best to crush the life out of him. Again and again, she slammed her face into his, so violently that she lost health even with the Forceweave lining her helmet. Only when accolades clinked off the back of her armor did she relent, releasing the bloody and broken corpse. Noting that her armor was approaching full saturation, she triggered Mana Vent, then scrubbed herself clean with Purify before shooting back into the sky.
+
+Besides the rain, visibility was also low thanks to the steam and smoke that now choked the air, but Ameliah could still see the cervidians bunched up near one of the gates, constrained by the narrow passage from leaving the compound. She leapt higher to get a better view past the wall, spotting yet another group of Rustcloaks rapidly bearing down on them from the trees.
+
+She resummoned her bow, and the lead Rustcloak fell seconds later, impaled through the heart. He went down in a heap, tripping up his companions. Two more fell before any of them thought to look up, but the cry of warning from the one who’d spotted her made no difference. Ameliah drew again, relentless. Stoneriver was charging toward the Rustcloaks now, her looted sword held overhead in a reckless two-handed grip. Ameliah couldn’t risk allowing the furious woman a chance to get her vengeance, so she saw to it that the last of the Rustcloaks died to an arrow through the skull long before she reached them.
+
+Thinking back, Ameliah counted how many Rustcloaks she’d seen, coming up with a total of eighteen. One still lived, though not here.
+
+Mett.
+
+The one who’d first ‘captured’ her. The one who’d held her as she’d been violated, then done nothing as his friends had beaten her for the crime of trying to defend herself. The one who, like his fellows, thought farming people was okay.
+
+Steadying herself in midair, Ameliah raised her bow. The woven adamant string inched inexorably backward, Sniper Shot preventing her from drawing straight to her ear, and she took a deep breath, closing her eyes to focus fully on the Mark. Seeker Shot wouldn’t work at this kind of distance. Her aim had to be perfect. She didn’t have time to chase an asshole through the trees.
+
+As Sniper Shot’s channel finished, her fingers twitched, the skill pushing her with an almost overpowering instinct to release. She resisted, however, exhaling and timing it between the rapid beatings of her heart.
+
+There was a crack like thunder, a barely noticeable delay, and then the final Mark was gone.

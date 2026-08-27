@@ -1,0 +1,139 @@
+---
+id: c7d2fa7f-1881-5caf-8f18-c464720d83cc
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 47"
+slug: 0118-b2-chapter-47
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 118
+ownLength: 1513
+unit: words
+ownProgress: 1513
+publishedAt: 2024-03-03
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1540386/b2-chapter-47"
+royalRoadId: "1540386"
+markedReadAt: "2026-06-29T19:09:57.961Z"
+---
+
+Aria
+
+After a few more hours, we begin to get close enough for the capital to enter our sights. And the thing is absolutely massive. To the point that it may just be the biggest city I’ve ever seen.
+
+The city is a massive dome floating in the water with multiple other domes all stretching off of it, and a single massive castle standing all the way down from the sea floor to above the domes. One that doesn’t actually have any air in it.
+
+Interesting. Guess it’s like saying that the castle is meant for atlanteans. Since most people can’t breathe underwater like atlanteans can.
+
+Instead of heading towards the castle, the ship we’re in heads straight to the largest city dome and parks right inside of one of the little hangars. A hangar that empties itself of water after we enter and park inside.
+
+Then we all begin to leave the ship with the bodyguards all following the prince and princess behind us, with the princess being carried in my arms until we reach the entrance to the hangar we’re in. A hangar I believe is a private one.
+
+I wonder why she’s grown so attached to me?
+
+Not really sure.
+
+Although she does seem to be a rather quiet child unless she finds something interesting. Most of the time she’s just playing with my hair, twirling it around.
+
+Before we leave the hangar though, she pats me on the shoulder, seemingly asking to be let down. So I set her back on the ground, and she pats off her clothes, straightening them out.
+
+Then she and her brother both step towards the hangar doors and place their hands on it, making some green lines run across the door where their hands are as if scanning them. And mere seconds later, the door opens, and we all step out into a fancy street – once again made of water – where a large carriage is waiting.
+
+Yep.
+
+Royalty to their core.
+
+This street in particular seems to be some sort of nobility-only street, since everyone crossing through it is in some sort of fancy looking vehicle with bodyguards swimming incredibly fast alongside them. And not a single regular looking vehicle in it, or regular person in regular clothes. Only fancy looking clothes.
+
+‘It’s as you probably already guessed, a noble district street,’ I hear someone’s voice before quickly realizing that it’s one of the guards following us. ‘Don’t worry, ma’am, I’m using my telepathy skill to assist you.’
+
+Interesting.
+
+Don’t think I’ve seen one of the guards talk yet. Actually haven’t even seen them so much as take off their helmets.
+
+Also, am I able to respond to them?
+
+I try a few things like imagining pushing my thoughts out to them, but nothing works, and soon enough, we’re on the carriage and moving through the street ourselves.
+
+“We should be fine talking in here,” Azura says after the little overhead of the carriage covers us, and the vehicle begins moving, being pulled along by crocodiles. “Nobles are always full of gossip. So it’s best not to feed them with more by talking in public.”
+
+“Yeah, guess that makes sense,” I respond with a nod, briefly glancing at the princess who took her own seat this time.
+
+Probably because people can still vaguely see inside of the carriage.
+
+Guess she really is keeping up her appearance as a princess so long as we’re in a public place. Even if she’s absolutely not doing that in private.
+
+Certainly explains why the guards never said anything.
+
+Unless they’re just not allowed to say anything?
+
+Not sure. I don’t know how the military structure here works.
+
+I do know that they have an absolute monarchy though, where the king and queen both have absolute power over the nation. Power that no one can go against.
+
+But as for how the soldiers in their navy are able to interact with their royalty? No idea. All I know is that the royal family treats the nation and citizens rather well despite having absolute power over them.
+
+One of the few examples of a benevolent absolute monarchy.
+
+Anyways, we continue riding through the street for a little while until we take a turn, passing through a fancy blue and gold gate into another street. One that I can only assume is not a noble district street like the other one, considering the people who are dressed like commoners passing through it. Some without even having a vehicle.
+
+“Our first destination is the café in the capital,” Azura says while folding his arms and looking directly outside of the carriage, seemingly uncaring of the people who are quickly parting in the street to let us through. Or of the people kneeling on the sides of the street. A motion that looks rather odd when they’re floating in water.
+
+It’s rather interesting how none of them ever say anything. Everyone we pass just kneels in silence.
+
+My attention is attracted to some sort of panel at the front of the carriage by Azura where a woman’s face appears. And the moment Azura sees her, he frowns and asks, “What do you need, Mari?”
+
+The woman on the screen looks similar to Azura and Little Blue, what with her aqua blue hair and pale blue eyes, and she’s wearing fancy looking clothing as well. So if I had to guess, she’s probably a princess too.
+
+Although she surprisingly has short hair unlike most of the people I’ve seen on this planet.
+
+“Father has decided that he would like to meet Lady Death,” she says while glancing at me and nodding her head in respect. Then she faces her brother again and continues, “Assuming it’s fine with her, Father wants you to bring her to the palace. And to give her a water breathing potion if she needs one.”
+
+Azura doesn’t look too surprised about this as he nods his head and says, “Okay. Is there anything else, Sis?”
+
+She just looks at me and says, “I look forward to meeting you in person, Horseman of the Apocalypse.”
+
+Then the connection seems to cut off and the screen vanishes with a blipping noise.
+
+Azura turns to look at me and asks, “You want to head to the castle with us?”
+
+And I immediately see Little Blue’s eyes lighting up at that, practically beaming with excitement even if she stays still and composed everywhere else.
+
+I glance up past the tops of the buildings in the city, past the massive manor-sized buildings deeper into the city, and at the castle itself. At the far edge of the city, in the direction that the noble district was taking us to before.
+
+It does look like an interesting place to go visit.
+
+Might as well check it out.
+
+“Sure,” I tell them with a nod of my head. Then I glance at Shirogane, only to find him shaking his head.
+
+“Very well then,” Azura says with a smile before glancing at the driver and saying, “We’ll continue our trip to the café where we’ll leave Shirogane behind and head towards the castle.”
+
+The driver nods his head at that and continues our trip through the street, past the kneeling citizens and soldiers.
+
+I don’t really need to ask why the king would be interested in seeing me. Considering that I’m one of the Horsemen of the Apocalypse and at this point getting a bit of a reputation throughout the universe. Even if no one really knows what I look like.
+
+Except the people from Vortel that is.
+
+Although I’m kind of curious how they’re doing right now? And how they reacted when they heard about me being Death, or heard the current news?
+
+I hope they’re all doing well.
+
+It’s too bad there’s no efficient way to have a conversation with someone on a different planet outside of the Universal Feed. And even the Universal Feed isn’t perfect, since it can take a moment to update. Plus it’s expensive to use for extended periods of time and isn’t mobile.
+
+One thing I do find interesting about the ruling power structure of Atlantis though. The fact that both the king and the queen have equal power.
+
+Most monarchies tend to be focused more towards one side having greater power or more specialized power in certain areas than the other. But in Atlantis, they have the exact same power.
+
+Power over the entire nation and planet.
+
+It’s surprising that they’d be able to work together so well.
+
+Although, if what I’ve heard of the king and queen is true, then it’s not too surprising.
+
+Considering how doting they are of each other. From what I’ve heard, at least.
+
+Not a common thing amongst aristocracy.
+
+We soon leave the street and head through some side streets until we stop at a café and let Shirogane off, with the prince telling him something outside of the carriage. Probably giving him what he needs to know while staying there.
+
+Then we quickly move on out again.
+
+Towards the castle.

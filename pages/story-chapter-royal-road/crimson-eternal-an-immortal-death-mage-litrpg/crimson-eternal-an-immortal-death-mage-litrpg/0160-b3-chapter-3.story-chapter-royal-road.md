@@ -1,0 +1,121 @@
+---
+id: 6f8a3077-c461-5ce1-9bb4-74e8ebf913e3
+page-type-slug: story-chapter-royal-road
+title: "B3 | Chapter 3"
+slug: 0160-b3-chapter-3
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 160
+ownLength: 1500
+unit: words
+ownProgress: 1500
+publishedAt: 2024-05-21
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1645330/b3-chapter-3"
+royalRoadId: "1645330"
+markedReadAt: "2026-06-29T19:11:09.757Z"
+---
+
+Aria
+
+Yeah, after we’re led into the walls, I do quickly find that the people inside are all women except for these people wearing gray robes. Which I’m guessing are all eunuchs.
+
+Not really sure if I should pity them or what, so I just kinda settle on treating them as I would anyone else.
+
+It isn’t really my problem how they handle their nation anyways.
+
+Although just from the short trip we make through the roar inside of the walled off portion, I see just how well the people here are treated. And it’s not very well.
+
+The servant women – and that’s what I’m assuming they are judging by their clothing and the fact that they’re running around performing chores – look very tense. As if their life depended on their every action. And in some cases, I actually did see one servant get executed for a reason I didn’t hear. Just saw it as we passed by, with several other servants being near there along with some woman who was dressed really fancily.
+
+But the eunuchs aren’t really treated any better. I saw some of them being caned.
+
+So this place is not a world I want to stay in for long, even if I wasn’t in a rush.
+
+Hannah looks like she’s mere seconds away from rushing to help some of them, only being held back by her self-control. Which makes me feel a little bad about not, well, feeling that bad for them. Not feeling a large urge to go help them myself.
+
+If I saw this happening somewhere else, where I knew I wouldn’t have to deal with major consequences and it wouldn’t inconvenience me, sure, I’d help them. Wouldn’t care too much about it. But I’d definitely help them.
+
+But here? It’s their nation. I can’t just come in and force my morals onto their nation.
+
+On another note though, they seem to be treating us as foreign delegates or something. Which is to say, rather well.
+
+They eventually lead us to a nice little… house? A nice little building that actually isn’t as little as that makes it sound.
+
+We’re just kind of left here and told not to wander too far from the… I’ll just call it a house. From the house without a guard. And that some guards will be stationed at every entrance to the courtyard around the house that we can talk to if we want to leave the house.
+
+Then they just leave us be inside the house, only telling us one more thing beforehand. That being that it’ll probably be another week or two before the Emperor can see us to the vault.
+
+Something about him being very busy with this succession issue.
+
+And just like that, we’re left alone in this large house.
+
+Hannah and I share a glance before separating to look around the place.
+
+The design of the building and all of the furniture and stuff in it are very different from what I’m used to. Lots of paper thin walls, outside pathways, and even a little patio thingy that goes around a large portion of the structure with a railing going around it. Meanwhile the roof of the building is triangular, just like a lot of the buildings here, and they look to be made out of stacked plates.
+
+Not sure what the plates are made of though.
+
+Overall, this place is very different from anything I’ve seen before.
+
+Eventually I meet back up with Hannah, only for her to tell me that she’s going to go take a nap. With a very stressed and tired look on her face.
+
+She’s not taking too well with the culture shock of being here.
+
+I just give her a nod before seeing her go to one of the bedrooms with a fancy looking bed in it. One with a canopy overhead.
+
+Then I tell her my current plans and head on out of the building, leaving several dozen Lesser Minor Death Spirits inert across the building’s premises. A lovely thing I realized I could do at one point. Where I just leave the Death Spirit’s physical form there without the Death Spirit inside so that I don’t have to spend almost any soul energy on it unless it goes active.
+
+Makes for great guards.
+
+After leaving the building, I go ahead and walk up to one of the guards standing at the edge of the walls surrounding the courtyard before asking, “May I have a look around the Inner Court?”
+
+The man looks me up and down for a moment, then he just focuses on my face without much expression on his own through his helmet as he says, “Very well, Lady Crimson.”
+
+And just like that, we begin making our way around the Inner Court. A place filled with quite a bit of rather dark goings-on.
+
+There’s not much else to do here while we wait after all. So I might as well scout out our surroundings.
+
+Although I get the feeling I’m gonna be raising some eyebrows as we spend more time here and Pestilence’s poison reverts. Since I’ll be aging at a visible speed by the day.
+
+Definitely gonna be raising some eyebrows.
+
+Even if they were already told about it. Which I’m guessing they were but don’t know for sure
+
+We continue walking around with the man actually giving me a very soft-spoken tour, with him not saying much about each place. Just the name and a brief description of a few of the palaces. Like saying that it’s a palace that belongs to the Rose Consort. Or that it’s a palace that belongs to the Azalea Consort.
+
+From what I looked up before coming here, these Consorts are the ‘wives’ of the Emperor. His harem members. And they all have a lot of authority, even if not a single one of them looks very happy.
+
+At least, from the two that I’ve seen. There may be some happy ones amongst them.
+
+And I only saw those two at a glance when we went to the outside of their palaces.
+
+Then again, it’s entirely possible that woman I saw before who was fancily dressed may’ve been a consort too.
+
+Neither of the consorts that were pointed out to me by the guard saw me in return though. So I don’t know how they’re planning on treating me during my stay.
+
+After those two we move on to the Orchid Palace belonging to the Orchid Consort, then the Lily Palace belonging to the Lily Consort, the Daisy Palace belonging to the Daisy Consort, and the last one, the Chrysanthemum Palace belonging to the Chrysanthemum Consort. Which is a mouthful for that last one.
+
+And just as I suspected, the one I saw earlier killing the servant was in fact one of the consorts. The mouthful one too.
+
+Eventually we arrive back at our house, and after thanking the guard, I walk back into our courtyard and then the house before finding a place to sit and digest everything I just saw.
+
+It looks like the Emperor has six consorts, all given titles named after flowers, and out of them, only the Daisy and the Lily Consorts looked happy. Very kind and sweet too. Maybe a little younger than the others as well.
+
+The Azalea Consort looked cold despite the unpleasant smile she had on her face, Rose Consort feisty, Orchid looked the most beautiful of the consorts and yet the most aloof as well, and the Chrysanthemum Consort looked very calm and collected with a bit of a wise air about her. And the only ones that saw me as I passed were the Lily and the Orchid Consorts.
+
+Of the two, the Lily Consort – who looked eighteen or so years old – waved at me rather happily, whereas the Orchid Consort – who looked to be in her mid-twenties in terms of appearance – just stared for a few seconds before lightly nodding her head and turning away. Although I doubt either are the age they appear. Most likely they’re older but just reverted back through leveling.
+
+Fortunately, I never run into either of the princes during the trip through the Inner Palace. So I don’t have to worry about being pulled into their squabble just yet.
+
+I don’t think I’ll be leaving much again though. Not until the Emperor finally pays us a visit.
+
+Overall though, I’d say today was a rather productive day. I’ve gotten the lay of the land, so to say, and I just need to ask the guards some more details about the place later.
+
+Don’t have to leave to do that.
+
+Can just ask what the princes are like.
+
+Although even the guards are rather strict with their formalities and stiffness.
+
+But the impression I have at the end of all of what I have so far is that I want out of here soon.
+
+I hope the Emperor doesn’t take very long.

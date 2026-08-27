@@ -1,0 +1,113 @@
+---
+id: bebc147b-83b8-5628-971e-25b0bf0a213a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 70"
+slug: 0071-chapter-70
+partOf: death-healer
+position: 71
+ownLength: 1665
+unit: words
+publishedAt: 2025-08-30
+link: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2561185/chapter-70"
+royalRoadId: "2561185"
+---
+
+By now, Lily’s [Lux Vitae Overdrive] had started to run thinner and thinner, and she felt like she was finally tapping out the last reserves that her body could spare for these fights. She did not have more than minutes to end this or die.
+
+“Liliana,” Claudia said from above, and she now hovered over the battle, “this is a fragment of your past life. If you want the Skill, you’ll have to integrate this as well, not just the pieces of you that contained Death Magic.”
+
+“What does that even mean?!” Lily shouted, and she slipped away from one of the punches of the Liliana Ember in front of her.
+
+“The mirror shows us what we are, what we were, and what we would have been. It can never show what you will be, because no spell, it doesn’t matter how great, can predict the future since even the smallest decision in your life can change it.”
+
+Lily scrambled behind a column, and Liliana Ember punched through it. The strike did not rely on brute force alone because the Death Magic that she used burned in a way that ate stone like jelly.
+
+Ok, think! Think! Lily focused on the Ocular Skill and she watched the purest Death Magic that she had ever seen blaze on her older self’s hands. During the first trial, I was fed Darkness and Death. Then…
+
+Lily’s eyes went wide and she set her feet. The sudden stillness drew a curious glance from Liliana Ember.
+
+“It’s a pity,” older her said.
+
+A hard sound snapped across the courtyard. Liliana Ember flew from one end of the place to the other and crashed through a column and went on until the next one stopped her.
+
+Claudia’s eyes went wide.
+
+Lily stepped out with a limp arm, and she simply ran [Life Flow] through it, and she brushed dust from her ripped tunic and from her leather.
+
+“If [Coniunctionis] is this strong, if it has such a reaction with Darkness and Light, what happens when it becomes Life and Death?” She cracked her neck and she saw Liliana Ember rise from the ruins.
+
+Lily had charged her blow with Death Magic and she had hoped to dispel the woman as she had done with the shadows. A hole now gaped in Liliana Ember’s armor and necrosis marked the flesh, yet the wound receded and the armor mended.
+
+“Power is not going to save you,” the older version of her said, “it’s not enough. It will never be enough.”
+
+Lily did not listen. She snapped forward.
+
+The problem with using [Coniunctionis] with Life and Death was simple. Even though the Skill empowered her, her body still had no Attributes and no Constitution Skills and no Passives. Without those, every use of the empowered version fractured bone and snapped tendon and tore muscle.
+
+She did not face a physical disadvantage anymore. [Life Flow] could heal her body fast, and she fought like a woman who would not yield.
+
+The shadows had fought with her style.
+
+Liliana Ember fought with something more mature.
+
+Her older self parried and did not chase the counter unless she had position. She checked Lily’s wrists with bone-on-bone taps and she stole space by half-steps that Lily barely saw. She kept elbows close and she broke lines with short forearm wedges that killed hooks before they formed.
+
+She took outside angle and then inside angle and she denied hips so Lily could not turn power. Every time Lily tried to enter on second intent, the older self jammed the path with a knee shield or a low kick that struck the peroneal nerve and made the leg stutter.
+
+When Lily tried to flood with volume, the older self shelled, rode the pressure, and then she pivoted and put Lily back in the center. She allowed misses by a finger’s width and she saved her hands for the moments that mattered, and she drew fouls of balance and then punished them with short elbows that carried no telegraph.
+
+She set traps, and she waited, and she made Lily spend energy for crumbs.
+
+Finally, Liliana Ember caught Lily’s wrist and flooded her with Death Magic, the purest form that Lily had ever felt. Her skin peeled as if it was never there, and the rot drove so deep that her hand went limp and her nerves and blood vessels cut off.
+
+If she had not gathered her wits and kicked the woman’s head so hard that it snapped her neck, she would have lost the hand outright.
+
+Lily roared from the pain and she looked at the half-destroyed hand and wrist, and she poured [Life Flow] into it, yet for the first time she felt the actual cost of the Skill. The damage had gone too far. It was too much, even for her.
+
+I’m dead, Lily thought.
+
+A spark of that Death Magic from Liliana Ember remained inside her and she felt it. She felt the bluish power and the terrible strength in it. Most of all, she felt how Life had meshed into it.
+
+Lily nodded slowly as Liliana Ember rose from the bushes and she snapped her neck back in place.
+
+“I’ve told you, power will never be enough. You need to master—“
+
+“Death,” Lily said, and she poured Life Magic and intertwined it with Death Magic. She felt the same kind of effect that she had felt when she had merged the two during her first trial when her very heart had been pierced. This time, her magic stood stronger and more mature and brutally efficient.
+
+Instead of the sticky Death Magic, it first turned blue, just like Liliana Ember’s Death Magic. Then her hands lit like the constellated sky and burned a bright black with many white dots in their midst. The blue edges gave way to a darkness that she had never seen before, a pitch black that devoured light. The speckles of Life Magic, those little stars, revolved around her hands and they powered a terrifying force.
+
+Lily did not wait for Liliana Ember to attack.
+
+She had enough Mana for one more exchange.
+
+She broke both legs with [Coniunctionis] to buy that instant, and she reached the woman at once. Liliana Ember tried to dodge and almost succeeded, and she threw a jab at Lily’s face to deter her and to consume her. Lily, angered and desperate, used her head to take the blow and then she punched the woman’s chest with all she had.
+
+The blow from her older self immediately skinned her scalp and burned through skin and flesh and destroyed her sight. Lily screamed, yet the current of Death Magic stopped before it reached her brain.
+
+Her own form of Death Magic punched through Liliana Ember and untethered the projection of her old self from reality. A wide hole opened where the heart should have been.
+
+Lily dropped every other spell and poured all her Mana into [Life Flow].
+
+When she regained her sight, she saw Liliana Ember stumble to a bench and sit, and the woman smiled. Her edges faded and she came apart as dust, one small piece at a time.
+
+“I’m happy,” the woman said. “I’m happy that this is who I am now. You’re… special. You’re… everything I’ve always wanted to be. Soon, you’ll have all my memories, everything I’ve ever experienced. This… was a gift to me. This was a gift to allow me to see that I had not sacrificed my old life for nothing. I don’t know who’s whom. I don’t know how much of me will there be in you and how much of you is really there. Those are questions for Gods—not for us.
+
+“But, I’m happy I got to see some things of you. I’m happy that you’re fighting for Lavinia. I’m happy that you and your mother love each other. I’ve never had that in my past life. I was alone. I could never love my parents. I could never forgive them anything. Find it in yourself to forgive them if they make mistakes—that is possibly the one bit of wisdom I needed to be here to pass along. And I wish you well, Lily—Liliana Claudia. I wish you to be the greatest fighter, which I’ve always wanted to be; I wish you to be the greatest doctor—well, [Healer]—which I’ve always wanted to be; and most of all, I wish you to be the one saving this world. I’ve never had that power—but that also means I’ve never had that responsibility.
+
+“I wish you well. And I wish you happiness. I wish you friends. I wish you foes. And, most importantly, I wish you’ll have fun along the way. The world is a dark place, much darker here than what I’ve ever seen. But I’ve always done what I’ve done out of love. Medicine, fighting, power. I’ve always enjoyed myself. I’ve always been happy with what I’ve had. And I wish you that same happiness, which I suspect you currently lack.”
+
+“Wait—“ Lily was so taken aback by the speech that she didn’t know what to say.
+
+“You’ll see me soon enough. You’ll know everything about me. Goodbye, Lily. Give a hug to your father the next time you see him. You never know when you’re going to give him the last one.”
+
+Liliana Ember exploded in a shower of light and fragments that chased Lily and entered her chest.
+
+The young blonde girl felt a terrific power enter her. It restored her body and it healed the wounds that she had not had time to heal.
+
+* * *
+
+That is…
+
+Claudia had stood as the greatest Seat of Darkness until Octavia, and she saw the ritual complete. She had guided many through it and she had hoped that Lily would receive the Blue Death. Yet the thing the little girl touched had no precedent for Claudia or for Octavia or for anyone.
+
+This power would change everything.

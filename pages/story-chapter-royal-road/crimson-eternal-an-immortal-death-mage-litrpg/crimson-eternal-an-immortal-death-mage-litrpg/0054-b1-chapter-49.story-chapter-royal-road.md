@@ -1,0 +1,155 @@
+---
+id: e317e79d-36b9-5daa-9b5c-fd91019644b2
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 49"
+slug: 0054-b1-chapter-49
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 54
+ownLength: 1568
+unit: words
+ownProgress: 1568
+publishedAt: 2024-01-24
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1492559/b1-chapter-49"
+royalRoadId: "1492559"
+markedReadAt: "2026-06-29T19:07:44.168Z"
+---
+
+Aria
+
+An emotion sparks in me that I haven’t felt in a very long time.
+
+Rage.
+
+Pure, unadulterated rage.
+
+I completely ignore some of the attacks hitting me regardless of the state of my uniform as I raise my voice, “Let go of her or else.”
+
+The man seems to grow cocky by the fact that I clearly care about her, his posture growing a little bit more relaxed. And with a rather carefree attitude, he shouts back, “Lay down your arms and surrender yourself and I’ll think about it!”
+
+I clench my fist at my side, feeling extremely conflicted about what to do here. Since I’ve never been in a hostage situation before, and Harvey is the first person I’ve grown close to in who knows how long.
+
+And what’s worse is that – now that I look closer – I recognize this noble. He’s someone with the ability to nullify exterior abilities so long as he’s touching them. Abilities used outside of someone’s body.
+
+Meaning the major can’t use her barriers right now.
+
+How she got caught by him is beyond me, but that doesn’t matter right now.
+
+Fucking damnit! I knew I should’ve kept my damned distance from them!
+
+My fist clenches tighter and tighter until my nails dig into my palms, making blood drip down as the many attacks sent my way finally drip to a halt, the guards and nobles all focusing on the hostage situation and growing more reassured. Since they were all growing more and more nervous and panicked by the sight of me taking and ignoring their attacks while sending my own back. Attacks they couldn’t ignore.
+
+Possible actions run through my mind one after another. I could try to take him out before he can hurt her, but he was clearly in the kitchen since he isn’t drunk like the others. The chance of me killing him before he can kill her isn’t something I’m willing to risk her life on.
+
+I could try acting like I’m giving up, but that likely wouldn’t work either.
+
+But… being captured most likely means being tortured for years until either they all die of old age or Albaria rescues me.
+
+My fist clenches even harder, digging my nails even deeper into my palms.
+
+My capture… am I willing to be captured for her? I… I won’t die, but she will…
+
+“Come on bitch, I don’t have all day,” the noble says while tightening his grip on the gun and pulling Harvey closer to him. “I’ll give you three seconds to decide.”
+
+I grit my teeth, feeling panic growing in my mind.
+
+“Twooooo…”
+
+Damnit, fuck it all!
+
+I begin to release my grip on my gun.
+
+“On- FUCKING OUUCHH!” The man screams, surprising me and making me stop dropping my weapon, only to find Harvey’s foot having crashed into the guy’s crotch, the woman having taken advantage of his focus on me.
+
+Hope blooms in my chest, but that hope shatters just as quickly when someone else raises their gun to shoot at Harvey, who the noble still hasn’t let go of yet.
+
+“Hannah!” I shout, my voice cracking from the sheer emotion in it. Something I’m not used to.
+
+I almost close my eyes when I hear the gunshot. But, to my surprise, a shout comes along with the gunshot, keeping my eyes open to witness the sight of a blade made of ice passing straight through the gun and part of the hand holding it up.
+
+My mind kind of blanks for a moment, only for me to be snapped back into action when I hear Snow shout from the balcony, “C’mon ladies, we don’t have all day!”
+
+Then both Hannah and I run through the room, taking advantage of the nobles’ and guards’ surprise to get away. And Snow doesn’t take captives as he sends dozens upon dozens of ice blades into the room.
+
+Slaughtering every last guard and noble within.
+
+Right. His ability is far stronger in direct combat than any ability Arterians have.
+
+It’s the strongest direct combat ability on the planet other than the commanders. Except that his is more for multiple targets and the commander’s for a single target.
+
+He didn’t want to risk warning the Emperor of our assassination plan by attacking with it though, so we went with this plan.
+
+And… it almost ended badly.
+
+Hannah, Snow, and I all jump down from the balcony and quickly rush to the warehouse where the others are at along with the still-unconscious castle staff we had replaced. There we go to two rooms, change back into our previous clothing, and leave to go straight towards the Eastern Gate of the capital.
+
+While we move, everything seems to be in chaos. Soldiers are running around inspecting everything and everyone, nobles are all rushing back to their territories without a hint of hesitation, and the people are running around trying to stay out of both of their ways.
+
+We don’t bother stopping for their little inspections though. We just continue running far too fast for them to catch us until we reach the wall, after which we simply climb right over it, ignoring the alarm we set off as we do so. Mostly because the alarm just adds to the chaos even more. There’s just no one who can react to it right now.
+
+Their chain of command is shattered with their Emperor dead and no one to replace him. Because, ironically enough, despite all of the women the Emperor slept with, he never once had a child. To the point that a lot of people assumed he was unable to sire a child.
+
+So the Royal Line dies with him. Especially since I devoured his soul core.
+
+After jumping over the wall, we enter a car the merchant partner has waiting for us and drive on away from the capital.
+
+And it isn’t until I’m inside the vehicle looking behind us as we drive that I finally remember something rather important that I’d forgotten earlier.
+
+Oh. Right. Revival is a thing.
+
+I stare blankly out the window, then at Hannah, then out the window again.
+
+Huh.
+
+I should keep that in mind next time something like that happens.
+
+About an hour into our drive towards the neighboring city, we find a rather large force of jeeps and some tanks chasing after us. To a certain driver’s dismay.
+
+Fortunately for us, Hannah blocks all of their tank’s shots with her barriers. So we manage to continue moving until some of their Ability Holders rush out of the vehicles and begin chasing us on foot.
+
+Then Snow sends his ice blades at them, not dealing all that much damage at first since they’re in the advanced Eternal Dynasty armor, but after he gains a lot of deflected hits, he begins to cut them apart.
+
+I, on the other hand, begin shooting back at them with my pistol, but my bullets simply ping off of their armor, making me grit my teeth.
+
+“Aria, try your aura,” Rogers suddenly speaks up, startling both me and the others. But after staring at him for a second, I think I understand what he means.
+
+I’m not sure if it’ll work though. After all, I should only be able to enhance… myself…
+
+Wait, why did I think that?
+
+I blink at that thought before looking at my gun and pushing my soul energy into the weapon.
+
+And it works.
+
+So I move halfway out the window and fire at the enemies again, but it doesn’t do anything. Just pings off again.
+
+“Bullet,” Rogers says, giving me another nudge.
+
+And that’s all it takes as the next time I fire, I coat the bullet in soul energy, making the bullet pass straight into their armor, knocking the guy running after us on his ass, likely dead.
+
+Oooh, I can use this!
+
+A grin splits my face, only to fade when I realize I’m starting to run a little low on my soul energy reserves. So I focus on using my replenishable soul energy right now as I continue draining more soul energy from the dearly departed Ability Holder soldiers chasing us and being cut to pieces by a certain captain on our team.
+
+I keep firing back at us, taking out the enemies who get too close while Snow deals with the majority of the Arterian soldiers. And after this continues for several minutes, the enemy forces finally stop chasing. Most likely having realized that there isn’t a point. They’re just sacrificing their own at this point.
+
+Which means they’re most likely going to assemble their forces at the border, blocking the Northern Pass that we’re heading to.
+
+An act that won’t work out very well if I know the First General.
+
+And I believe I understand her at this point.
+
+We continue making a hasty retreat all the way past the next cities, spending the next few days returning back to the Northern Pass.
+
+Where we find exactly what I was expecting to find.
+
+Just like I predicted, there’s an army of Arterian forces at the border.
+
+But they’re not all that’s there.
+
+Along with the army of Arterians… is an even bigger army.
+
+One of Albarians, with the First General standing at the head of it.
+
+I take in a deep breath and let it out again.
+
+Now the true war has begun.

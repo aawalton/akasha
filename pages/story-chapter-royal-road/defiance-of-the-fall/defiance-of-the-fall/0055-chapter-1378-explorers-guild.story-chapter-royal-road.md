@@ -1,0 +1,141 @@
+---
+id: b7f98aa0-0809-5c0c-883c-2002b653562f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,378 - Explorer's Guild"
+slug: 0055-chapter-1378-explorers-guild
+partOf: defiance-of-the-fall
+position: 55
+ownLength: 3043
+unit: words
+publishedAt: 2025-11-16
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2766637/chapter-1378-explorers-guild"
+royalRoadId: "2766637"
+---
+
+“An Explorers Guild introductory signet?” Zac muttered. “It makes sense. We’d already figured doppelgangers would try to infiltrate through one of the student groups, and the Explorers Guild is a good option. But how do you know she was an invader? She could’ve just been someone who’d been invited to the guild.”
+
+“She has a few items that emit traces of corruption. They’ve been scrubbed, and the environment would eventually do the rest, but for now, they carry a hint of the other side,” Esmeralda explained while fiddling with the ring. “Secondly, the ring itself is a clue. It’s genuine and from the main timeline, but there’s something off about it. My sixth sense is telling me it’s been modified somehow.”
+
+The toad handed it over in frustration a few minutes later. Zac initially couldn’t find anything unusual. He couldn’t even spot the “wrongness” that Esmeralda referred to. There were only two simple arrays inside. One worked much like his Outer Sect Token, pointing in the direction of a fated location. The other was a security array meant to protect against forgeries.
+
+Neither warranted Esmeralda’s reaction, but Zac would be a fool if he discounted her vast experience with treasures. Zac kept looking, even putting some pressure on the arrays with Void Energy to see how they’d react. Still nothing. Just as Zac was about to give up, an errant streak of the Lost Plane’s corruption drifted past their boat.
+
+“What do you think?” Zac asked, nodding at the corrupted energy. “It would make sense if it’s modified by the doppelgangers.”
+
+“Give it a try, but don’t go breaking the arrays,” Esmeralda said. “Getting another one is a pain.”
+
+Zac nodded and took out the [Peregrine Almond] from [Purity of the Void]. He’d expelled all the Lost Plane’s corrupted energy from his Purification Space upon discovering the almond, and he wasn’t about to expose it now that it was secured. Instead, he stowed the treasure in a Jade Box and handed it to Esmeralda.
+
+“I’ll help you nourish its spirituality until we find a matching Treasure Array,” Esmeralda promised.
+
+Zac nodded and drove the small boat back toward Monkey Island. It was the only source of corruption nearby, which was why they’d come to investigate in the first place. The energy density wasn’t anything to write home about, and it took an hour to accumulate enough for the experiment and some spare enlightenment in case of emergency.
+
+The lack of communication and the steady stream of Miasma and heavy Death provided by his other half indicated that the situation in Saṃghāta remained stable. It also meant that they hadn’t found what they were looking for. Zac didn’t mind spending another week waiting. It was a great training spot and decidedly more comfortable than Poised Meadow’s constant mental harassment.
+
+Progress was slow but smooth on the other end. They’d reached Kabaton without any further surprises. There was one powerful local of Poised Meadow who’d been rattled by the upheavals and launched an attack. Killing the massive island proved impossible, so Zac and Ogras teamed up in a protracted battle until reaching the memory domain.
+
+It was as though Tavza had expected a sea of Holy Life to sweep through the sealed realm. She’d timed her own spirit’s awakening perfectly and used the tsunami to quench its spirit in Imperial Faith. Her award actually ended up being slightly above Ogras’s, which was already quite generous.
+
+They spent three days in Kabaton, though not out of their own volition. Like in Transformation Docks, there was a challenge followed by a worship ceremony. The event was greatly scaled back compared to Transformation Docks, and there was no sudden invasion of doppelgangers. The Theomore Dynasty’s representative to the Hollow Court wasn’t even present. Apparently, the court had instead prepared a special event one year into the future for those who managed to reach the outer court in time.
+
+Tavza was challenged by a Lightbringer of Ultom who must have been blind. It resulted in a crushing defeat and a sizeable boost to the An’Azol descendant’s Imperial Merit. After leaving through a realmgate, they reappeared in the Hollow Chasm. Apart from the four days it took to find the hidden passages to the next gateway, they’d stayed in the Third Hell since.
+
+Saṃghāta was also called the Crushing Hell, where the deaths caused by one’s hands were transformed into a crushing pressure. That realm should normally be kryptonite to someone like Zac, whose victims were too many to count. However, the sealed section of the Third Hell had clearly seen some modifications, and the Imperial Fate he had accumulated acted as a counterweight to the pressure.
+
+With Zac’s extraordinary collection of Fate, the world’s weight had been transformed into a bearable pressure that quickly helped him stabilize his upgraded Void Vajra Constitution. Saṃghāta’s unique Miasma was also the energy most effective at advancing the Eoz bloodline that Zac had found in a while. Of course, it still had to go through the refinement of [Void Heart] or his personal Void before it could be absorbed—and preferably out of Tavza’s sight so as not to raise any further questions.
+
+Therefore, Zac was on a constant lookout for body-tempering Natural Treasures while they searched for the exit and whatever hidden quest would help reintegrate the Third Hell into the Left Imperial Expanse. So far, the former goal had proven more fruitful, though Tavza had caught onto clues of a vast, ancient array manipulating the Crushing Hell.
+
+Since everything was in order on the other side, Zac focused on his own matters. He swept through his body with his Daos a few times to cleanse the remaining foreign energies before extracting a streak of yet-refined corrupted energy from [Purity of the Void]. Ignoring its unhinged whispers, he controlled it with [Void Forge]’s spiritual threads, infusing a small amount into the Explorer’s Ring.
+
+The tracking formation showed signs of corruption damage when Zac tried infusing the energy, and he quickly switched to the authenticity array. That worked much better. It smoothly absorbed a sliver of the Lost Plane’s energy.
+
+“That settles it,” Esmeralda said.
+
+“Can you tell what it’s doing?”
+
+“It’s a hidden, secondary authenticity pattern,” Esmeralda said. “The normal arrays at the Explorer’s Guild won’t notice the difference while invaders will be able to use these rings to find compatriots.”
+
+“If they need these kinds of methods, they probably won’t know the identity of the other invaders. We might be able to infiltrate their inner circle,” Zac said, though not very hopeful. He was painfully aware that such missions weren’t his strong suit. “What do you think? Should we head back to Westharbor and gather information or follow the trace?”
+
+“We should head to the Guild Headquarters directly,” Esmeralda said. “The Natural Formations spanning the Peregrine Isles were hundreds of times more complex back then. If we visit Westharbor, we’d never reach the headquarters in one round. We’d have to exit again, wasting precious time. Besides, we know enough about the guild already. What we don’t understand can be explained by being new arrivals.”
+
+“You’re right, let’s go,” Zac agreed, adjusting the boat’s course.
+
+Saying that the Peregrine Isles were a hundred times easier to traverse in the present wasn’t far from the truth. The freshwater archipelago they saw inside the memories was a boundless, confusing water world filled with natural disasters and unpredictable phenomena.
+
+There were whirlpools that would either grind you to dust or send you a million miles and two dimensions away. Only experienced travelers had a chance to know which was which ahead of time. Some islands were illusions, others hidden in spatial folds that required precise positioning. Just as many were transformed by powerful Temporal Energies, requiring precise timing to visit.
+
+There was no fixed map of the archipelago in the four harbors surrounding it, only incomplete routes that couldn’t be completely trusted. Naturally, there were many hidden routes kept private, and the methods to visit the more valuable islands were tightly guarded secrets. Most disciples had no choice but to leave things up to fate, hoping they’d encounter opportunity rather than calamity on the high seas.
+
+The Peregrine Isles had lost much of their mystique since the Mercurial Court fell. The archipelago didn’t appear to be connected to the true Peregrine Ocean, and it completely lacked the ocean’s deadly aura of spatial decay. It was isolated like the corner of Poised Meadows, and eons of being cut off from its source had led to significant spiritual decay.
+
+Most of the Natural Formations had collapsed entirely, exposing the islands they hid. Countless spatial layers and illusory realms had been streamlined into at most a dozen, making it both easier and safer to explore. The only added danger was the rifts leaking corruption. The Peregrine Ocean’s unique properties clearly made the connection between dimensions and timelines easier, so the number of rifts was more numerous than what they’d seen from the rest of the Mercurial Courts.
+
+This led to an excessive prevalence of Qriz’Ul, but there were thankfully not many C-grade monstrosities around. Thus, following the ring’s signal was much easier than originally intended. The experience was a lot like flying above a punishing mountain range instead of crossing its winding trails. They only had to make the occasional detour when sensing dangerous Qriz’Ul, and they had ample time to go over what they knew and plan their next step.
+
+The Explorer’s Guild was one of the most famous local factions, and they knew the basic information without specifically having to research the matter. With the Mercurial Court’s off-hand, bordering on lazy, approach, there were students who decided to organize things themselves. There were plenty of groups spread across Citadel.
+
+The powerful ones had generally been around for generations and enjoyed the support of graduated alumni. A number of Sealbearers would undoubtedly set up their own organizations upon arrival, and Zac could technically be considered part of Astora’s budding organization. Some groups acted like subsidiary sects with strict hierarchy and contribution systems. Others were more relaxed, acting mostly as a social gathering for networking. In addition, there were plenty of specialized research groups.
+
+The Explorer’s Guild was an organization that was particularly active in the Peregrine Isles. It had been around for a long time, and it had both True Disciples and powerful alumni among its retired members. The Explorer’s Guild also didn’t impose any restrictions on its members. They allowed their members to join other organizations, and you could leave any time you wanted.
+
+There were plenty of benefits from joining, from gaining access to exclusive Trade Meets to inside information about the countless islands and their riches. There were plenty of members interested in joining, but the guild was an exclusive group that wouldn’t let just anyone in. First off, you needed a sponsor to enter, and asking a current member wasn’t enough.
+
+The sponsor first needed to accrue enough feats as an Explorer to earn a signet ring. That made the rings quite valuable, guaranteeing a certain standard among new members. Secondly, using the ring to reach the guild headquarters was a challenge in itself. The guild was located on a hidden island in the archipelago’s depths; knowing the route wasn’t enough. You needed the skills to weather the stormy seas. Naturally, this part didn’t apply to Zac since he was taking a shortcut through the future.
+
+The fact that an invader had such a ring ready to go indicated the guild had been turned into a breeding ground for doppelgangers, and it was easy to see why. They were a large faction with countless elites while lacking strict management. Members came from every corner of the Mercurial Court, allowing for wider infiltration than targeting a closed-off research group.
+
+The Explorer’s Guild even allowed members to join while disguised or using temporary aliases, which was reportedly quite popular. The sect might forbid killing fellow disciples, but that didn’t mean there was no competition. The Peregrine Isles was one of the sect’s major treasure grounds, and there were only so many peak resources. Whenever a major treasure island appeared, all hell would break loose.
+
+While joining under an alias wasn’t foolproof, it would reduce the grudges you brought with you when you left the isles. It also worked in Zac’s favor since the invitation rings were anonymous. No one would know which senior member had exchanged for Zac’s specific ring, perhaps barring the current Guild Leader.
+
+Two days later, Zac finally spotted a medium-sized island in the distance. It wasn’t much larger than Monkey Island, at most three times larger than Zac’s own island back home. So long as there was no spatial manipulation going on, he’d be able to cross it in a few hours. Still, Zac didn’t need to double-check with the signet ring’s signal to know they’d reached their destination and to know there was more to the island than apparent on the surface.
+
+The island emitted incredible waves of spirituality even in the Peregrine Isles’ twilight years. It had to be one of the most flourishing places in the Archipelago back in the day. Accordingly, the island’s memory domain was far sturdier than the norm, holding blinding levels of Imperial Faith. Even so, the domain had actually been pushed back, now only covering two-thirds of the island. The last third was a domain of powerful, encroaching corruption.
+
+This wasn’t the first island Zac had seen with such direct and powerful corruption, but it was the first one with a memory domain nearby. Zac had wanted to investigate the others too, but luck hadn’t been on his side. There were never any memory winds near the islands when he passed by, and entering a memory domain on a neighboring island hadn’t worked because space wasn’t aligned.
+
+“Look how intense the corruption is. There has to be a stable pathway to the other side,” Esmeralda said. “It looks like we’ll finally be able to collect some bounties.”
+
+“Go with the original plan?” Zac asked.
+
+Esmeralda nodded and landed on his head as Zac steered his gondola straight for the memory domain. Their vision flickered as they passed through, and they suddenly found themselves sailing toward what could only be described as a pirate fortress. There was a distinct and intentional aesthetic going on.
+
+There were plenty of palms obviously not native to the island’s somewhat chilly climate. To accommodate the tropical wildlife and the tribes of spotted turtles lazing in a nearby bay, the whole city was covered in a large heating formation. There were even two massive schooners moored at the harbors, and Zac could tell with a glance they were just decorations.
+
+The cultivators walking the streets looked more like swashbuckling pirates than sect members. Less than one in four actually wore the sect’s disciple robes, and those who did appeared to be almost exclusively Servant Disciples. Zac hesitated a moment but ultimately chose not to change before disembarking.
+
+“Oh? New comrade or raider?” a young man emitting a fierce, Peak D-grade aura called when Zac stepped onto an ill-kept pier.
+
+In truth, the ragged appearance was another aesthetic choice. Zac could tell it was an incredibly detailed illusion, with extremely fortified stone tiles lying beneath. Most likely, the pier could effortlessly shrug off the slam of an Early Beast Emperor.
+
+“Here to join the fun,” Zac said, showcasing the signet ring on his left hand.
+
+“Not bad,” the pirate nodded. “Most look like they’ve been through a maelstrom when they reach this island. Still, you should get yourself some proper garments. You can’t go out exploring looking like that.”
+
+“It’s on the top of my list,” Zac promised, deciding to just play along. He didn’t mind cosplaying a pirate if it led him to the doppelgangers. He already had the lifestyle down to a pat, if he could say so himself.
+
+“Good. But first, head over to The Dusty Apple to get yourself settled,” the man said, pointing toward a tavern located just by the docks.
+
+“Thank you,” Zac said and directly headed over.
+
+On the way, no one stopped him to question his identity, though a few calculating looks indicated they had an idea who he was. It was no surprise. The batch of outsiders appearing was the talk of the town, and there was only one person walking around with a frog on his head. Ultimately, Zac decided to simply go as himself, or rather as Everit Draom. He was essentially using himself as bait, hoping his status could help draw some doppelgangers out of the woodwork.
+
+“Welcome to the Dusty Apple. I’m Nathan,” a young man said behind the counter, also looking Zac up and down. “New arrival, I presume? Think I’ve heard about you.”
+
+“I was told to come here and get things settled,” Zac said, nodding at the dozens of patrons caught up in animated discussions. Unfortunately, they all maintained privacy barriers to stop outsiders from listening in. “Is the guild headquarters always this bustling?”
+
+“Hardly. The Explorer’s Cove is pretty empty most of the time. People are mostly out at sea, only stopping by to resupply and collect the latest information. Those who stay longer are generally in seclusion.”
+
+“Then what’s going on?” Zac asked as he sat down at the bar.
+
+“You’re lucky to join when you did. We’re closing up shop in two days because no one’s willing to man the bar. Not when Sevona’s Hunting Lodge is about to appear,” Nathan said with an excited expression.
+
+“The what?” Zac asked.
+
+“Right, you newcomers wouldn’t know,” Nathan said. “The Lodge is one of the six miracles of the Peregrine Isles. It’s been ages since it appeared last, so it’s bound to be teeming with opportunities. It’s the opportunity of the decade, maybe even the century!”
+
+Zac could feel Esmeralda tremble with excitement atop his head. He wanted to remind her to keep her eyes on the prize. They were here to catch invaders. But then again, wasn’t a massive treasure hunt the perfect place for some doppelgangers to cause trouble? It seemed like there might be an opportunity to catch two birds with one stone.
+
+Thank God they didn’t head back to Westharbor.

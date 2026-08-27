@@ -1,0 +1,141 @@
+---
+id: 87d47dab-d6f9-5e61-ae6e-985044f9195e
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 30"
+slug: 0034-b1-chapter-30
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 34
+ownLength: 1602
+unit: words
+ownProgress: 1602
+publishedAt: 2024-01-16
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1479147/b1-chapter-30"
+royalRoadId: "1479147"
+markedReadAt: "2026-06-29T19:07:01.257Z"
+---
+
+The Main Headquarters of the Invaders
+
+A loud slap echoes throughout the command center of the invaders main headquarters as the legate in charge of the plan to send the Class S Ability Holders to Roan is sent sprawling on the floor.
+
+“You not only completely failed your mission, but you lost the majority of our invasion force’s spatial mages in the process,” Lucius declares, the Invasion General feeling incredibly angry at the legate in question.
+
+“Your Highness, please, give me another-” the legate begins begging from his place on the ground, only for the other legates to turn judgmental stares on him, shutting him up.
+
+The Invasion General simply turns a disgusted look on the man as he says, “There are no second chances. You are to be executed at dawn.” Then he glances at the soldiers in the room and says, “Take him away.”
+
+Despite the fear Lucius is sure they’re feeling, the guards all drag away the legate, who simply stays silent as he lets them drag him. Most likely because he understands any complaints would only lead to a fate even worse than death.
+
+Lucius turns to the other legates, his scowl still projecting his terrible mood all throughout the room as he slowly steps up to the front of the command center and sits down on his chair.
+
+The mission was supposed to take the enemy Class S Ability Holders out of the war for Father to capture and trick back on Roan. But now we’ve lost most of our spatial mages along with several of our Class B and A Ability Holders without anything to show for it…
+
+The man lowers his face into his hands, feeling a headache coming on from this. Only for him to sit up again when the sound of footsteps enter the room, bringing his gaze to a tribune rushing into the command center.
+
+“Invasion General, we have received news from the front!” the tribune shouts while saluting.
+
+“Speak,” Lucius declares as he and the other two remaining legates watch the tribune.
+
+“Sir, the enemy Class S forces have left their fortress and are heading towards the Eastern Mountain Fortress on the Southern side of the mountains!” the man exclaims, immediately stoking the Invasion General’s interest.
+
+Lucius stands up as he asks, “Their numbers?”
+
+The tribune answers right away, “Just the Class S forces.”
+
+Just them? But don’t they realize we’re after them now?
+
+The Invasion General ponders over that for a few seconds.
+
+It’s possible but highly unlikely that they didn’t realize what the legate was targeting, but I think it’s more likely they’re planning something. Some sort of trap for us.
+
+He looks down at his hand, then at the device in the corner of the room used to contact his father.
+
+Even so… if we fail to capture the Class S Ability Holders, we will all be punished by Father. And the war will take a harsh turn as well.
+
+Lucius continues staring at the device for several seconds before eventually turning back to the tribune and swiping his arm to the side while ordering, “Prepare Class B and A Ability Holders from each fortress and send them to surround the Class S Ability Holders from this world. I will be taking command this time!”
+
+“Yes, sir!” the tribune shouts, running out of the room immediately after.
+
+Class S Ability Holders are never to be underestimated. We have to use everything we can to take all of them to Roan. Or if it comes down to it, to kill all of them but the true immortal.
+
+Then Lucius looks at his legates with a dark expression on his face and says, “If this mission fails, tell the necromancer to summon the Death Spirit.”
+
+Both legates shiver, their eyes going wide with terror at that statement. But they nod their heads all the same.
+
+Lucius turns around to look at the device again without another word as the legates leave the building to prepare for the mission.
+
+If this mission fails, we can only wipe the slate clean.
+
+He grits his teeth.
+
+Even if it means exterminating this world.
+
+Aria
+
+I knew I was gonna end up as bait. It always ends up like this. Except normally it’s the Arterian Empire that’s targeting me due to my being a Category 5 Ability Holder.
+
+Out of the corner of my eye, I find Captain Harvey signaling with her hands, using a sign language specific to our military to say that we’re being watched as we continue walking through the barren wasteland filled with snow towards the ambush point.
+
+The plan is to bait them to attack us when we stop for a rest. Because apparently these invaders are incredibly wary of Category 5s, which makes sense in a way. Although our world isn’t entirely based on pure power, and we never had any System leveling before. So Category 5s, while terrifying in their specified areas, are not omnipotent in any way.
+
+Well, except me. Since I can’t die. But until the System, I couldn’t really fight much either. Only with martial arts and weapons.
+
+Which doesn’t do all that well against people with superstrength or superspeed. Or magic.
+
+“So First Lieutenant Crimson,” Captain Harvey suddenly says, bringing my attention to her. “Why do you like wine so much?”
+
+I stare blankly at her for several seconds before muttering, “What?”
+
+“You’re always drinking it,” First Lieutenant Snow points out as the others all nod their heads in agreement.
+
+Even the major sends me a curious look.
+
+After deciding that this information isn’t important and can’t help the people spying on us at all, I tell them, “Because I don’t like eating food, and wine tastes good.”
+
+They all look slightly confused at my answer. But I just shrug, not really caring.
+
+“Come to think of it, I’ve never seen you eat anything before,” Snow says, turning to me with a confused look on his face. “When do you eat anyways?”
+
+I just give him a look and answer, “I don’t.” Then face forwards again, not paying his surprise any mind.
+
+Silence fills the wasteland as we continue walking, the only sound being that of our shoes scuffing the snow beneath us.
+
+It takes us a few hours of walking, but we finally arrive at the small house meant for those traveling through the barren wastelands down here. And after arriving, we set up inside before setting up a few defenses outside of the house. Something that would be completely normal for anyone staying for the night.
+
+After we do that, the others all begin going about the house dealing with dinner as I keep watch. Although in reality, Captain Harvey is still keeping her attention on the enemies.
+
+I can’t see them at all, much less know where they are. Which goes to show just how powerful a Category 5 sensory ability is.
+
+The others finish their meal before acting like they’re going to sleep. But in reality, the major has most certainly sent the message to the First General by now.
+
+Another hour passes after the preliminary message, and finally, the enemy makes it close enough that I can see some small signs of their presence.
+
+A footprint appearing in the snow with no other signs of a person nearby. Just a random light footprint.
+
+So I tap on the radio at my waist, pressing the talk button repeatedly in a specific pattern to notify the First Army and the other officers of my division of their assault.
+
+Immediately after doing so, hundreds of soldiers appear in a large ring several dozen meters away from the house before charging forwards, startling more than a few of the enemies into breaking out of whatever illusion or cloaking they were under. Meanwhile our own team members all jump out of their bedrolls while drawing their weapons from their persons, not having taken them off when going to ‘bed’.
+
+I rush to the front door of the building alongside Snow, meanwhile Vargas finds a window to smash before carefully aiming his weapon outside. The major finds his way to the roof with his bow drawn, the man having kept the large weapon in his storage ring, with Captain Harvey closing her eyes with barriers surrounding her body. The woman most likely focusing on all of us and making sure we’re protected.
+
+Or rather, all of them. I don’t need protection.
+
+Although I think she tries anyways for some reason.
+
+Regardless, I rush out of the building while opening fire on the enemy soldiers as our allies do the same. And almost immediately I find my progress to the next level climbing.
+
+At this rate I’ll be level five soon enough.
+
+I glance at Snow who is sending quite a few blades of ice at the enemies. Only to look down when I feel something piercing my chest. And after finding it to be a spear of all things, I pull the thing out and raise my head to find the one who threw it. Then I coat my body in soul energy and throw it right back at them, impaling the invader through the shoulder and into the ground.
+
+That legate’s soul energy is very nice. Certainly made my previous inability to really do anything in combat against other ability users a moot point.
+
+And I can tell there are a lot of ability users amongst the enemies.
+
+Not weak ones either.
+
+They’re really trying to take us.
+
+I smirk at that thought and continue firing at the enemies.
+
+Let’s see them try.

@@ -1,0 +1,159 @@
+---
+id: ccc2b3d7-99a8-5d77-b742-35c56778ecdd
+page-type-slug: story-chapter-royal-road
+title: "001: Woodland"
+slug: 0001-001-woodland
+partOf: delve
+position: 1
+ownLength: 3263
+unit: words
+publishedAt: 2019-06-02
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/368012/001-woodland"
+royalRoadId: "368012"
+---
+
+Rain scrunched up his eyes and tried to worm his way deeper into the covers. It was way too early to get up in his book. He grumbled in annoyance as something hard pressed into his neck. Still more than half asleep, he idly wondered what the offending object was. It didn't feel like anything that was likely to be in his bed. As he became more aware, he quickly noticed that a few things were not quite right with the whole situation.
+
+Blinking open his eyes, he realized several things in short order. First, he wasn't in his bed. Second, he wasn't in his apartment. Third, he was dreaming, because there wasn't a forest anything like this anywhere near the city.
+
+A root? He thought, sitting up and looking at the rough gnarl of wood that he had been using as a pillow. Can't I dream up a better place to sleep? Also, why am I not awake now, usually once I realize it is a dream I just wake up.
+
+Blearily, Rain examined his surroundings for anything of interest. The forest looked, well, it looked like a forest. Trees, rocks, grass, birds chirping, pretty standard stuff. No giant mushrooms or smoking caterpillars to prove the unreality of the situation.
+
+Yup, I'm in a forest. Just go with it I guess. Hey, if I'm dreaming, does that mean I can control things?
+
+Climbing to his feet and wincing at the crick in his neck, Rain looked around, then up. Raising his hands, he tried as hard as he could to will himself into the air.
+
+Come on! Fly! Up! Happy Thoughts!
+
+Seeing that he was going nowhere, Rain closed his eyes and tried to believe, actually believe, that he could fly. He felt a soft breeze brush past his face and he excitedly opened his eyes.
+
+Damn it!
+
+He was still standing where he started, holding his hands up to the sky in a superhero pose but looking more like an escapee from an asylum. His short brown hair was matted and sticking up in the back where his head had been lying against his oaken pillow. It was also a bit dirty and dusty, but thankfully free from twigs and leaves. He shivered as the breeze which had fooled him into thinking he had achieved takeoff cut through his pajamas. Looking down and sighing, he noticed a squirrel watching him from a stump. It chittered at his sudden movement.
+
+“Yeah, yeah, keep laughing,” he said, glaring at the squirrel. The squirrel chittered again, then jumped across to a tree and climbed its way up and around the back of the trunk before re-emerging on top of a branch. Rain idly watched the squirrel and rubbed his arms as he tried to come to grips with his situation.
+
+OK, so not a dream. I'm cold, my neck hurts, the squirrel is mocking me, and I can't fly. Yeah, not my idea of a fun lucid dream. So, if I'm not dreaming, and I'm not in my house, then how the hell did I get here? I went to bed, fell asleep and then...someone broke into my apartment, drugged me, dragged me down three flights of stairs, shoved me into a car, drove hundreds of kilometers, dumped me in a forest, then peaced out? Yeah, don't think so. Though as pranks go, absolutely legendary.
+
+…
+
+“Hello?”
+
+Obviously, the squirrel didn't answer. Rain shivered again; it wasn't that cold, but the air did have a definite chill. A white undershirt with a pair of plaid cotton pajama pants wasn't exactly the ideal outfit for traipsing around an old-growth forest.
+
+Right, so not dreaming, not being punked, what does that leave? Insane? Abducted by aliens? Trapped in VR? Wait, no, VR sucks, we don't have tech like that. If we did, I wouldn't be working construction, we would probably have robots doing it or something.
+
+“Summoned! To another world!” Rain shouted. The squirrel gave him a contemptuous look, then jumped to another tree to get away from the crazy person.
+
+Yeah right. Shit, if I am being punked, I'll never live that down. Smile for the camera!
+
+Rain looked around. There wasn't much underbrush; there was nothing but trees and the odd rock in every direction. No sign of civilization, people, or a camera crew. Other than the quiet chirping of birds, there was no sound of traffic nor murmur of the city. There was no smog in the air nor glare of streetlights. There was only wild, untamed nature lit by the rays of the early morning sun.
+
+…
+
+“Shit.”
+
+Rain sat down hard, leaning against the tree whose roots he had been using as a pillow. He sat there for several minutes, trying to work through the reality of his new situation. As his thoughts looped back on themselves, he started to get more and more concerned.
+
+This wasn't a dream. He wasn't going to wake up. Regardless of how he had gotten there, he was alone, in the middle of a forest, in his pajamas. He sat under the tree, rubbing his arms against the chill as the sounds of the forest washed over him. After what seemed like hours, but in reality was only ten minutes, he climbed back to his feet.
+
+OK, panic later. Shelter, water, food, and in that order.
+
+Having nothing to take with him, Rain looked around, picked a direction, and started walking. Looking at the sun, he decided on south and kept it to his left as he picked his way through the trees. Luckily, the ground was clear and loamy, so his lack of shoes was an annoyance and not any real impediment.
+
+Rain pondered his situation as he walked, scanning the forest for anything that looked like a sheltered cluster of trees, a cave, or maybe a motel. He continued like this for a few hours, stopping occasionally to lean against a tree and panic a bit. He would then move on only to stop and cower at the cry of some terrifying animal.
+
+The cry had repeated several times. In the end, it turned out to have been a honey badger. Luckily, it didn't give a shit about him and let him pass. Rain was starting to get tired and a bit thirsty when he noticed that the trees were thinning out ahead. He picked up his pace and broke through onto a dirt road cutting through the forest.
+
+He sank to his knees and closed his eyes. Roads meant civilization. And civilization meant that a motel was looking a bit more likely than a cave after all.
+
+Rain rested for a few minutes before clambering back to his feet and looking down the road. He couldn't see anything in either direction. Shrugging, he turned left and started walking.
+
+Left is right! Onwards! Rain thought to himself, trying to stay positive.
+
+He hadn't been walking for more than fifteen minutes or so before he heard something in the distance. There was a curve in the road ahead, so he couldn't see the source, but he heard what sounded like a person whistling. Rain started jogging toward the sound, trying to ignore the pain in his feet from his long journey through the wilderness. As he got closer, he heard an angry shout, and the whistling cut off. That was followed by the sound of voices arguing with each other, but he couldn't make out the words, though he could hear them clearly.
+
+What language is that? It doesn't sound like anything I've ever heard...
+
+He stopped suddenly as a figure rounded the bend. The man was looking over his shoulder, shouting at someone, presumably the whistler. He was wearing a brown shirt and brown pants and looked a bit rough, but otherwise normal enough other than the bow and quiver of arrows. That was a bit odd.
+
+Rain stayed quiet, not wanting to surprise the man by hailing him. He waited for him to return his eyes to the road instead. When the man did turn back, he immediately spotted Rain and came to a sudden stop. He said something loudly to his companions, who followed quickly around the bend at his call.
+
+The man drew an arrow and nocked it, but didn't raise his bow. Stopping at least 20 meters from Rain, he raised his voice and asked something that sounded like a question. His three companions stood behind him, but Rain couldn’t take his eyes off the bow.
+
+“Um, hello?” Rain said.
+
+The man’s face furrowed in confusion. Looking at a red-haired man to his left, who Rain noted was wearing a brown bathrobe, he said something in the same unintelligible language. The other man simply shrugged.
+
+“Hey, um, so I don't know what language that is, do any of you know English?”
+
+The archer said nothing, watching Rain over his hooked nose while the third man gestured and spoke loudly to the others. The last member of the party was a blonde woman with a large pack. Actually, large didn’t do it justice. This was an absolute unit of a pack. She wasn’t participating in the conversation, standing to one side and examining Rain with a strange expression on her face. The loud man seemed to reach some decision, barking an order to the archer and pushing him aside to stalk towards Rain.
+
+Uh-oh, I might be in trouble here.
+
+As the man drew closer, Rain examined him, weighing his options.
+
+Brown pants, brown shirt, brown vest, and...sword. And he has drawn the sword. And he is yelling at me.
+
+Rain raised his hands and tried to look as non-threatening as possible. It wasn't hard, in his pajamas.
+
+Running isn't an option, they have shoes and I don’t. Look, see, I'm nice, please don't kill me.
+
+The man stopped a few meters away and stared at Rain. He repeated the same question the hook-nosed man had asked before, but Rain just shook his head and shrugged. He let his hands fall slightly but kept them where the man could see them. The man snorted, then shouted over his shoulder, not taking his eyes off Rain. The rest of the party approached, except the woman, who walked over to the side of the road and started taking off her pack. She grabbed an axe that was hanging from her belt and then started hacking at some of the nearby brush. It looked to Rain like she was clearing a space for something, but before he could wonder about that the man facing him barked an order at him. The man was pointing at the ground and watching Rain with an expectant look.
+
+Rain stopped himself from asking a question. He doesn't understand me, no point in responding. Let's see, that is probably either ‘stay there’ or ‘sit down’. The fact that he is still staring at me means...
+
+Rain sat. Nodding, the man walked back to his companions. It was clear now that the woman was setting up a campsite. She was piling bits of dead wood into what looked like the beginnings of a fire. The man with the bathrobe (well, probably just a robe, it doesn't seem like any of the men had ever heard of a bath) was gesturing at him and arguing with the man with the bow. The man with the sword ignored them both. He moved to the pack the woman had set down and started digging around in it. How the hell was she carrying that huge thing? It must weigh a hundred kilos! She just looks like a regular person, not She-Hulk.
+
+The man had apparently found what he was looking for as he was walking back towards Rain. He had a coil of rope in his hands.
+
+I was hoping for a canteen of water... Yup, I'm totally getting tied up by fantasy bandits in a forest. This...is not how I saw my Sunday going.
+
+Rain sat by the fire with his hands bound behind his back. Other than tying his hands, the bandits, if that is what they were, had ignored him for the most part. They were talking among themselves in their strange, staccato language.
+
+He wasn't able to understand what they were saying, but he thought that the wiry man with the sword and the dark hair was the leader. His name was Hegar or something like that. Or, at least, maybe that was his name. It could have been a title like ‘boss’ or ‘chief’ for all Rain knew. He seemed to respond to it at any rate.
+
+The lanky man with the robe gave Rain quite a shock as soon as the woman finished setting up the kindling for the fire. He suddenly barked a word, made a series of gestures, then pointed at the pile of dry sticks. As prepared as he was by a diet of hundreds of fantasy novels, TV shows, and movies, Rain was still surprised when a bolt of fire shot from the man's hands towards the pile. It hit with a blast of heat, causing the wood to burst into flames.
+
+Luckily, Rain wasn't the only one to let out a manly exclamation of excitement. Hegar had been close to the fire at the time, and his deep bass bellow drowned out Rain's shriek as he batted at the hem of his pant-leg. Surprisingly, other than a long string of what Rain assumed to be expletives, there were no repercussions for the robed man. Rain decided he was going to call the man a mage, rather than a wizard. The robe was brown, after all, not blue with yellow stars. After that brief excitement, the red-haired mage had settled against a tree and promptly fallen asleep.
+
+The man with the bow had disappeared down the road almost immediately, hunting, apparently, as he came back with a pair of rabbits in short order. That was awfully fast to track and shoot the rabbits, so the man was either really good or really lucky. He had quickly cleaned them, then speared them on skewers over the fire. He had given the mage a kick as he returned to the camp, but the slumbering man just rolled over and ignored him.
+
+The woman moved efficiently around the campsite, collecting wood and clearing a space for everyone to sit without getting covered in brambles. She barely spoke despite Hegar's constant nattering at her. Hegar kept pointing and gesturing, indicating where he wanted the fire, logs for sitting, the pack, and so forth. She was ignoring his requests for the most part, though she did help him move a log when it looked like he was going to hurt himself. The ease with which she lifted the huge tree trunk shocked Rain even more than the mage's trick with the fire.
+
+Rain found himself admiring her stoic resistance to Hegar's antics quite a bit. Despite the absurd strength, she seemed the most normal of the four. Granted, that wasn't hard when the competition was a lazy pyromaniac, a micromanager, and an archer entirely too fond of blood. Watching the man skin the rabbits with a wicked grin on his face hadn't been pleasant. Not at all.
+
+Eventually, the rabbits were deemed sufficiently cooked and shared out to the four bandits. Funny how the mage woke up as soon as the archer pulled them off the fire.
+
+“Hey!” Rain called out.
+
+The three men ignored him, but the woman glanced in his direction, seeming to consider for a moment. She made to rip off another serving of meat, but Hegar stopped her with a shake of his head and a few words. The woman frowned, but nodded. She set her rabbit aside, grabbed a tin cup from her bag, filled it with water from a skin, and walked over to him. Rain sighed with relief as she held the cup up to his lips for him to drink.
+
+“Ahhh, thank you,” he said, as she lowered the cup. She nodded, then brushed a strand of her blond hair away from her face and walked back over to the fire to resume her meal.
+
+Hegar says no rabbit for the captive. Got it, he is a total ass. Not that I'm hungry after watching bow freak lick his knife like that. That isn't sanitary.
+
+Suddenly, all five of the people around the fire froze as a rustle came from the forest behind where Rain was sitting. Looking over his shoulder, Rain let out a yelp as he saw a pair of eyes staring at him. Scrambling away as best as he could with his hands bound, he watched in horror as a gigantic wolf prowled into the clearing. The thing was larger than any natural wolf had a right to be. It was gray, shaggy, and built like an angry refrigerator.
+
+Hegar shouted loudly and leaped over the fire, drew his sword and placed himself in front of the monster. He sent several lightning-fast jabs at its snout, but the wolf-thing jumped back with supernatural speed. Hegar fell into a dueling stance, standing side-on to the creature, his sword extended with his offhand held above his head. The archer and mage scrambled to their feet to support their leader. The woman stood in the back calmly with no visible weapon, watching as the wolf growled and stalked back towards her companions.
+
+The mage made a gesture and shouted. It was the same one he had used before. A bolt of fire shot towards the wolf. The flaming missile struck the wolf in the eye, and it roared and snapped in rage, ignoring Hegar's sword and rushing for the mage. The archer shot an arrow at its side where it stuck quivering, but it didn't seem to slow the wolf down at all. The mage shrieked and tripped, saved by chance as the wolf’s leaping lunge for his throat missed. The wolf landed next to the woman, who stepped back calmly. Rain was half expecting her to just suplex the damn thing, but it looked like she wasn't going to get involved in the fight.
+
+The wolf howled in rage, clawing at its burning face. Hegar took advantage of its pain, leaping to stab it in the back and simultaneously getting in the way of a shot from the archer, who cursed and jerked his bow to the side at the last moment. Hegar shouted something and his blade blurred before sinking deep into the beast's back.
+
+What was that? That wasn't just a normal thrust.
+
+Rain's stumbling mind had locked onto the glow that had surrounded the man's blade as it seemed to be drawn directly towards the beast's pelt. Rain laboriously pulled himself to his feet and stumbled away as the wolf howled in agony. An arrow took it in its un-burnt eye as it whirled to face its attacker, and, blinded, it opened its jaws to howl in rage. A second arrow followed the first, lodging itself in the back of its throat after passing through its wide open mouth. Like a puppet with its strings cut, the wolf collapsed to the ground.
+
+Rain gasped, panting as the beast fell. He hadn't even had time to realize it was dead when, without warning, a brilliant blue box popped up in his vision.
+
+Your party has defeated [Musk Wolf], Level 18
+
+Your Contribution: <1%
+
+103 Experience Earned
+
+Level Up
+
+Ah, so that is how it is. Cool, Rain thought, then decided to have a nice lie down.

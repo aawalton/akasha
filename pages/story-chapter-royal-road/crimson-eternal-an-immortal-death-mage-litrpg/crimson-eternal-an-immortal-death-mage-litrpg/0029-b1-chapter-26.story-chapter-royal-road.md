@@ -1,0 +1,129 @@
+---
+id: ff6aee37-21d1-5f4b-8a44-c130bf8d9f31
+page-type-slug: story-chapter-royal-road
+title: "B1 | Chapter 26"
+slug: 0029-b1-chapter-26
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 29
+ownLength: 1679
+unit: words
+ownProgress: 1679
+publishedAt: 2024-01-14
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1476758/b1-chapter-26"
+royalRoadId: "1476758"
+markedReadAt: "2026-06-29T19:06:50.870Z"
+---
+
+The Nearby Cliffs Outside of the Fortress
+
+Analyzer Cesius Vlarious feels a thrill rush through him as he looks at the five Class S Ability Holders down within the fortress, not caring at all about the capture of a legate. Something the man hiring him would probably be extremely irritated by.
+
+The analyzer doesn’t care though. He became an analyzer in the first place because it’s his calling. To find and analyze new powerful abilities.
+
+And while he is too far away to analyze their Classes, he can easily see their Class S abilities from here.
+
+Six Class S Ability Holders on this pitiful Gamma Tier planet! And there’s even a new unique ability! True Immortality! Something believed to be impossible! How is this still Gamma Tier? Is it because these Class S users aren’t from this planet? Or maybe the planet has an incredibly low population or low yield on resources? The emperor probably won’t be happy if that’s the case, but how could anyone find the idea of six Class S Ability Holders undesirable?! Maybe I can even get permission to personally analyze them when these Class S Ability Holders abandon this waste of space they call a planet!
+
+The analyzer almost loses himself in his thoughts before he manages to snap himself out of it the moment the Class S on the cliff opposite the one he’s on turns his attention to him.
+
+Oops. Time to make my lovely little exit.
+
+And as soon as that thought runs through his mind, an arrow comes flying his way. But he vanishes right when it’s about to hit him, leaving just a faint cackling echoing through the cliffs.
+
+The Other Cliff
+
+Leonardo swears when he sees the strange man vanishing without a trace mere moments before his arrow strikes the cliff, sending rubble falling down to land on and crush some of the soldiers within the fortress.
+
+Damn. Got away.
+
+A frown stretches his face before he shakes his head.
+
+The major had noticed the strange man simply watching them from the cliff without doing anything. And while he first thought that the man was most likely reinforcements for the soldiers, he quickly realized that he wasn’t wearing the same clothing. Instead of armor, the man was wearing what looked like a toga. He also looked more like a scholar than a soldier, which confused him further.
+
+Soldier or not, he’s most likely reporting back to their leaders. So we need to hurry this up.
+
+He looks down towards his team, feeling conflicted at the sight of Aria standing there. Because, even with his knowledge of her ability, he couldn’t help but feel his heart nearly jump straight out of his chest when she was cut vertically in half.
+
+His gaze turns towards the others, each of whom are guarding Vargas and killing any soldiers that stumble onto the team. Meanwhile Vargas himself is kneeling at the center with his hand on the legate’s head, his fingers spread out and slightly sticking into the man’s scalp, and his closed eyes glowing with a white light.
+
+“Second Lieutenant Vargas, finish things up quickly,” he states into the radio he pulls up to his mouth. “We had a spectator who teleported away the moment we saw them. Reinforcements may be en route.”
+
+Silence answers him, which is to be expected since Vargas can’t speak while searching the minds of others.
+
+Seconds tick by before the second lieutenant’s eyes stop glowing and he opens them, making the legate suck in a deep breath. Then Vargas says something, their radio not on to let the major hear it, and another blade of ice runs straight through the legate’s neck, cutting his head off and killing him.
+
+The team quickly begins to move, heading back to the cliff wall without much issue now that they’ve killed the man who was most likely the leader of the fortress. And after only a couple short skirmishes along the way, they reach and climb the cliff wall before reaching the major himself.
+
+“Did you get everything the legate knows?” Leonardo asks, a serious expression on his face as he watches Vargas, who looks slightly dizzy. And when the second lieutenant nods his head, muttering, “Too much…” Leonardo nods back and says, “Our mission objective is now complete. Let’s return to Omega Fortress.”
+
+“Sir!” all of the officers exclaim, staying a little quieter than they normally would since they’re still near the fortress, even if they’re high above it.
+
+Then the team begins moving across the cliff’s edge back to where they came.
+
+Aria
+
+I swear, if the others keep glancing at me, I will lose it. Probably. Maybe. Okay, probably not.
+
+Still wish they’d stop glancing at me and my fortunately repaired armor.
+
+Gotta love enchantments. Even when cut in half it still self-repairs.
+
+These mid-officer uniforms are so much better than the low-officer uniforms. Armor. Whatever.
+
+My mind feels a little scrambled after having my brain damaged. A rather annoying side effect of my brain repairing itself.
+
+Then again, rather have that than die or lose memories.
+
+And it doesn’t last long, so…
+
+My eye twitches when I see First Lieutenant Snow sneak a glance at me again before looking away.
+
+They’re like a bunch of kids who want to ask a question but keep chickening out, so they just end up looking and then looking away repeatedly.
+
+Aaaand Captain Harvey does it again.
+
+That’s it.
+
+I’m done.
+
+I stop walking and ask, “Will you please stop that?!”
+
+They all stop walking before averting their gazes rather awkwardly.
+
+When none of them say anything I just throw my hands up into the air with a groan before continuing forwards, deciding to give up on getting them to stop. To just ignore them.
+
+I was doing a good enough job of that before after all, no reason to stop now.
+
+The others don’t start talking again until we make it back to the base. And even then it’s only quiet chatter that quickly dies out when we reach the office we’re meant to report in.
+
+Because the person we find waiting there is none other than the First General herself.
+
+We all salute and exclaim, “First General, ma’am! Predator Division reporting in!”
+
+She looks at each one of us from her place standing in front of the desk belonging to the lieutenant general in charge of this fortress. The woman is wearing the regular general uniform consisting of a black and gold jacket over kevlar with black and gold slightly armored and heavily enchanted pants, with a pinkish-purple star on her shoulder, and a 1 inside of the star. The star and number representing her position on the Council of Generals.
+
+Unsurprisingly, her gaze pauses on me for a moment as she looks me up and down with her violet eyes. Then she focuses on the major, followed by Second Lieutenant Vargas and states, “Report.”
+
+The lieutenant quickly salutes, “Yes, ma’am!” And before I can feel surprised about her directly addressing him instead of the commanding officer, he starts, “After First Lieutenant Crimson captured a legate, I dug into his mind and directly took all of the necessary details about their world, political situation, the other worlds they’re connected to, their purpose for the invasion, and their military situation that the legate had in his mind.”
+
+The general looks slightly surprised as she glances at me before nodding my way with a short, “Good work, lieutenant,” and turning towards the second lieutenant again. “Start with the basics of their world, the other worlds, and the System. Then you can move on to the political and military situations with the scribes after this meeting.”
+
+“Understood!” he exclaims, still saluting. “The world these invaders come from is known as Roan, and they have the level of technology that we supposedly had a little over one thousand years ago. The entire world is ruled by a single empire, with a single emperor ruling over everything. However, they also have Gates to three other worlds on their own, and one of these connected worlds is known as a much larger and more powerful world. One with technology far more advanced than our own.”
+
+“And who rules the universe beyond those planets?” the First General says while crossing her arms. “There must be universal powers if these worlds are all connected through these ‘Gates.’”
+
+“There are nine powers at the top of the universe,” Vargas states, answering her question and surprising us all. “There are the five Rulers and their organizations behind each one, the Crimson Empire who is led by an unknown figure with no discovered base of operations, and there are the three Horsemen.”
+
+I try very hard to not show any reaction to the word ‘Horsemen’ so as to not give anything away.
+
+That aside though, I do find them interesting. Just who are they?
+
+“To elaborate further, the five Rulers consist of five of the most powerful people in the universe and their organizations, most of which are nations. There’s Isabella de la Vega, the ruler of the Arcadian Society, which is a society of mages with a powerful school of magic that rules over the world of Arc. Leopold da Silva, the Emperor of the Grand Silvanian Empire ruling over the world of Silverfall. Raja Singh Amunet, the Pharaoh of the Rex Dynasty of the Dead on a world called Rex.” He pauses here with a frown. “I believe a pharaoh is considered the same as an emperor or king in their world.”
+
+“Continue,” the First General says.
+
+“The Rex Dynasty of the Dead worships death and views death as the absolute power. Something that should be praised. That should only be given out to the worthy, with those who aren’t worthy being raised as undead and not allowed the ‘grace of death.’” He shudders slightly, making me wonder just how odd they are.
+
+I blink as a thought comes to mind.
+
+Wonder how they’d treat me, considering that I’m technically called Death by the System?

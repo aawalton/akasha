@@ -1,0 +1,427 @@
+---
+id: 13ceb623-2618-5949-9180-28dede7a2a22
+page-type-slug: story-chapter-royal-road
+title: "232: Indigestion"
+slug: 0232-232-indigestion
+partOf: delve
+position: 232
+ownLength: 4713
+unit: words
+publishedAt: 2023-05-28
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1227483/232-indigestion"
+royalRoadId: "1227483"
+---
+
+Any hope that this would be a Geppetto situation vanished with the arrival of the first blast of acid. Even mixed with seawater, it drove Chemical Ward to panic. Besides his interface, all Rain could see was the inside of his helmet, lit by his glowing eyes. All he could hear was the constant, nails-on-a-chalkboard grind of teeth against his armor, the razor-sharp weapons continuing down the Whale’s esophagus. His arms were pinned tightly to his sides, beyond even his enhanced Strength to resist, and he could feel powerful waves of muscle contractions drawing him deeper and deeper. Crushing him. He’d managed to take a huge breath just before the jaws had closed but was now finding it a struggle to keep the captured air.
+
+Don’t panic.
+
+With urgency and forced calm, Rain adjusted his Wards to better mitigate the acid and the constriction, then triggered an essence exchange. Before it finished, he closed his eyes and slipped completely into his soul. When he opened them again, he found his avatar buried beneath a mountain of pillows, lying in a bed softer than Cloud’s fur. Sitting bolt upright, he ignored the minor avalanche he caused in favor of staring at the dialog before him.
+
+Progress Report
+
+marker_1: whale_inbound [3061 Light 28 09:59]
+
+marker_2: whale_inside [3061 Light 28 10:00]
+
+Span: 1 minute
+
+Skills
+
+Prismatic Intent: +104 exp
+
+I gained more in Prismatic Intent in one minute than I did in the past MONTH.
+
+It’s so simple! Why didn’t I try fighting a Whale sooner?
+
+Struggling free of the pillows, he swapped his pajamas for a t-shirt and jeans, though his mind had subconsciously managed the change. Dozer was here, asleep in his box-bed and stirring despite the muffled king-link. Not having time to worry about it, Rain vanished in a whirl of twisting space, reappearing in a control center in the server complex that held his brain.
+
+How much time do I have?
+
+Time Acceleration = 1 + (Effective Clarity) * (Engine of Change) * (Coefficient)
+
+Time Acceleration = 1 + (830) * (17) * (10 ms/s)
+
+Time Acceleration = 142.1 s/s
+
+Next Tick: 76 s
+
+Multiplier’s still ten times less than when the Majistraal obelisk had me. If I die, I’ll never find out why.
+
+Dismissing the calculation and sliding the countdown to sit neatly in his HUD, he spawned windows for all his active Wards. His hasty settings adjustments became more calculated, and by tweaking his perceptions, he further reduced the draw. He didn’t mind if the magic in the acid saturated his armor. He didn’t mind if the teeth tore into its durability, leaving progressively deeper scratches across the surface. He reached equilibrium, perfectly matching his mana consumption against the drain.
+
+There.
+
+Dimly aware of a bead of sweat rolling down his forehead, he looked at his still-open essence tracker and glared at it until a third column appeared, showing him the average rate of change.
+
+Chaos
+
+58 kESS
+
+-17.6 ESS/s
+
+Potential [>]
+
+929 kESS
+
+-6.33 ESS/s
+
+Soul [>]
+
+3.13 GESS
+
+The cost of time acceleration was relatively modest—inside, anyway—following a linear formula, though where the divisor of eight came from, he had no idea. At an acceleration factor of 142.1 s/s, the cost was 17.61 ESS/s. Thanks to the elevated environment rank, his ramscoops had topped their record performance and were bringing in around a staggering 61 mESS/s. His main reactor was consuming 6.33 ESS/s, fueling his mana regeneration. Built from mostly rank-twenty soul, it also produced essence of an equivalent rank from seemingly nowhere. The rate was pathetic, though, working out to 598 µESS/s when standardized to rank-zero units. All of the numbers were relative to his accelerated reference frame, but they were trivial to convert with some mental math.
+
+About fifty-five local minutes to chaos depletion, so twenty-three seconds real-world. Forty plus local hours until I run out of potential and have to start recycling things. No, wait, that’s wrong. My armor will saturate first, and I’ll have to tweak the Ward balance. Whatever. Doesn’t matter. It’s more than a few minutes, real world. I’ll pass out from lack of oxygen before it becomes a problem.
+
+What if I can get into its lungs? Does it have lungs? That doesn’t matter either since I can’t move. Can I make air around me some other way? It’s never worked with Purify, but—
+
+Rain clicked his tongue, realizing his panic was fueling his scatterbrain, already brought on by his boosted Clarity. Rather than adjusting his stats, he forced himself to take a deep breath of imagined air, then let it out slowly. He closed his eyes.
+
+I’m not in trouble. I just feel like I am because I’ve spent a lifetime being one bad fall away from cracking my skull open on the sidewalk. I’m different now. This is nothing. I don’t need air. I just need to get out before it dives. If it dives, I’m fucked.
+
+He paused, then shook his head violently.
+
+Yes, there’d be essence down there, and yes, I’d be a badass, cultivating on the bottom of the sea inside a Whale, but there’s no way I’d survive that. Once the damage limit increased, I’d be crushed like a grape or dissolved or shredded or whatever. Or, a Leviathan could show up and eat the Whale. I don’t want to be part of a turducken.
+
+...
+
+Why am I still thinking about this? Besides, I need to keep the other Whales distracted too.
+
+He took another long breath.
+
+How do I get out?
+
+Almost instantly, his eyelids snapped open. He knew what he needed to do. It was obvious, really.
+
+First, Arcane Ward.
+
+The spell had already been active, but he cast it again, this time using IFF to target the Whale’s resistance. He could have done the same earlier with Force Ward, boosting the effect of his environmentally catalyzed frost nova, but doing so would have been horrendously inefficient. To make sure it wasn’t too bad now, he inspected the spell card.
+
+modmon.sh: ['amplify aura’, ‘extend aura’, ‘channel mastery’, ‘aura compression’]
+
+autocompress.sh: Target: 5 meters
+
+autocompress.sh: Extend Aura unnecessary, disabling
+
+autocompress.sh: Compression Applied: 82 meters
+
+iff2.sh: Ward debuff flag is set
+
+autopower.sh: Amplify Aura unnecessary, disabling
+
+autopower.sh: CM Setting: 26.58% 0.5s tick
+
+Arcane Ward (15/15)
+
+Increase arcane resistance by 120% for all entities
+
+Decrease arcane resistance by 60% for all entities
+
+Range: 5 meters
+
+Cost: 0.265763 mp/dmg mitigated
+
+Cost: 0.265763 mp/dmg amplified
+
+Memories of past experiments ran through Rain’s mind. Debuffs were subject to resistances and the damage limit, just like everything else. The percentage reduction the spell specified would be translated to absolute terms before the limit applied, so even if the Whale had above 16,665 Arcane resistance, the Ward could strip at most 9,999 of it. Except not even that. Arcane resistance applied to attempts to lower Arcane resistance. The resistance cap would ensure 2,500 got through, but 16,665 minus 2,500 was still above 7,500, so there’d be no tick-by-tick compounding.
+
+Firewalling the chattering part of his brain, which was busy muddling things further by thinking about the shared nature of the resistance cap, Rain reminded himself that he didn’t need to know how every last number fell in the end. He just needed to overwhelm the Whale with so many forms of Arcane assault that it was forced to prioritize its defense.
+
+On that note, a dash of lightning. Fulmination.
+
+focusboost.sh: 500 points shifted to Focus from secondary stats
+
+focusboost.sh: Focus: 770
+
+modmon.sh: ['amplify aura’, ‘extend aura’, ‘channel mastery’, ‘ethereal aura’, ‘aura compression’]
+
+autocompress.sh: Target: 5 meters
+
+autocompress.sh: Compression Applied: 169 meters
+
+iff2.sh: offensive aura detected
+
+iff2.sh: foes: unknown_entities
+
+iff2.sh: friends: !foes
+
+iff2.sh: ignore: none
+
+autopower.sh: Target: 9999 dps
+
+autopower.sh: CM Setting: 44.62% 0.5s tick
+
+ethmon.sh: Environmental Output: 100%
+
+ethmon.sh: Environmental Occlusion: 25%
+
+Fulmination (15/15)
+
+9999.00-11427.43 arcane (fcs) damage per second to foes and environment
+
+4999.50-5713.71 arcane (fcs) mitigation per second to friends
+
+Sufficient damage causes paralysis
+
+Aura resists 75% of environmental occlusion and absorption
+
+Range: 5 meters
+
+Cost: 535.402 mp/s
+
+Admittedly, it was more than a dash. He released the lock on his secondary stats, letting them flow into Focus as he drew on his Magewell to make up the difference. Now having to deal with both spells, the Whale would be forced to split its resistance between the resistance debuff and the paralytic lightning.
+
+Cap interactions were complicated things, depending upon the opinions of the parties involved. There was one factor, though, that topped all others: pure, overwhelming power.
+
+Just for today, Rain set aside the numbers, taking Velika’s instructions to heart. There was one more spell he could add. One more Arcane-aspected ability.
+
+An ability invoked through an alias, lest its foulness taint the name of the best spell ever.
+
+PUTREFY NOVA!
+
+focusboost.sh: already active
+
+focusboost.sh: Focus: 770
+
+modmon.sh: ['amplify aura’, ‘extend aura’, ‘channel mastery’, ‘ethereal aura’, ‘aura focus’]
+
+iff2.sh: atrocity detected
+
+iff2.sh: foes: Whales
+
+iff2.sh: friends: !foes
+
+autopower.sh: max
+
+autopower.sh: CM Setting: 200%
+
+ethmon.sh: Environmental Output: 100%
+
+ethmon.sh: Environmental Occlusion: 25%
+
+Putrefy (15/15)
+
+Sow poison, corruption, and contamination
+
+Range: 696 meters
+
+Cost: 320 mp/s, your decency
+
+Despite being insulated by both Aura Focus and his position within his soul, Rain swore he still smelled something. He ignored the imagined reek, concentrating fully on what he wanted, hammering at reality with all the force of his will. The Whale was not his only target.
+
+Space could be filled.
+
+With Ethereal Aura, he would fill it all. He would fill it with the most unspeakable, vile, offensive sludge his mind could conjure.
+
+The Whale’s domain fought back, of course. Its soul had been trying to smother his since he’d been swallowed, but he was not so weak as to be snuffed out that way. He shoved back, struggling to expand the space in which Putrefy could operate unrestricted. This space was his. His spell would fill every last milliliter with the vilest, chunkiest, most abominable slop in the universe. When it was full, it would create more. There could always be more. The outflow could not be stopped. It could never be stopped, not so long as the spell was active.
+
+Foulness without end.
+
+It worked that way because he said it did.
+
+Time was passing, but Rain had little ability to perceive it, so utterly focused was he on committing his special crime. First one real-world second, then two. The draw on Force Ward grew to dominate, crammed with his other spells into his second slot. To offset the drain, he called upon his Magewell. Three seconds. Four.
+
+With the tiny sliver of allocation he’d left to Detection, he could feel the shape displaced by the Whale in the ocean. Already, the monster was rounder than it had been, and still, the filth came, superheated to boiling by the endless lightning. Rain could feel the monster’s domain retreating into its flesh, abandoning its attempts to crush him in favor of protecting itself. That just gave him free rein.
+
+His domain grew, and the flow increased with the radius cubed.
+
+Not long after that, the Whale’s health bar began to drop. Not quickly, not at any sort of rate that would defy the damage limit, but it was dropping all the same.
+
+And then it wasn’t.
+
+The filth surged, carrying Rain with it.
+
+Mouth, blowhole—some other hole—Rain wasn’t sure. Such was the speed with which he was ejected. Mercifully, his trajectory sent him soaring into the sky. He’d been ready with Velocity, should he have been fired down to the depths instead, but for once, the dice had landed his way. As soon as Detection told him he was above the water line, he reversed the magic, knowing that he’d never be able to undo the horror he’d just wrought, but that he had to try.
+
+PURIFY NOVA!
+
+The space around him cleared rapidly, and he opened his eyes, removing Aura Focus but keeping the spell active. As he neared the top of his arc, he extended a gauntleted hand upward without looking. Another hand clasped his, forearm to forearm.
+
+“WHAT WERE YOU THINKING?!” Ameliah screamed over the rushing wind.
+
+“SORRY, HAD TO BREAK A PROMISE!” Rain yelled back as she hauled him into the sky. Below, he could see the other Whales surging through the defiled ring left in the waves. The one that had eaten him had fled below the surface, but the others didn’t seem deterred by the filth. From the anger rolling off their souls, they were simply pissed. He got that.
+
+Without warning, one of them let loose its water harpoon, nailing him and Ameliah square on.
+
+“Hey!” Ameliah yelled, though she recovered quickly, as unhurt as he was.
+
+“We need to keep them distracted!” Rain yelled. “Don’t get too far away!”
+
+[Rain-King,] a voice interrupted, heavy with accusation.
+
+[Oh, hey Dozer,] Rain replied, suddenly trying to sound innocent. [Have a good nap?]
+
+[Rain-King,] the Essence Slime sent, clearly not buying it. [I am disappoint.]
+
+In the end, the battle with the Whales ended up lasting hours. With Airwalk and Wards, he and Ameliah were never in any real danger. Rain counted six of the things in total, though there could have been more. Periodically, the massive creatures would dive below his Detection range, presumably to refill their essence stores in the lightless depths, making it hard to keep track. Six was merely the highest number he’d observed within range at any one time, and as far as he’d been able to tell, the one that had tried to eat him had never returned. It had learned its lesson, presumably.
+
+By the time the last Whale finally gave up, the shore was in sight. Temerity was out of range, likely hiding in one of the countless marshy bays in the distance. Rain had lost track of it.
+
+“Which way?” Ameliah asked tiredly, dismissing her bow and hiking him up on her back. She was wearing him like a backpack full of soup cans.
+
+Clinging tight, he peered over her shoulder, then pointed at a dark speck hovering over a stretch of shore to the south. “Is that Emerton?”
+
+Wordlessly, Ameliah took off in that direction, and Rain took the time to reactivate his aura anchors. He started with Detection, his face turning grim as it informed him that there were only nine-hundred sixty-two friendly sapient entities aboard, rather than the nine-hundred sixty-five there were supposed to be. A rapid-search macro provided him with three names: Emerton, Risaf, and Janer. Closing in, he was more confident that the shape up in the air was the Aeromancer, so he focused on the ship. Hostile monsters: none. Corpses: many. Human corpses: two.
+
+His guts twisted, letting the script continue, now checking the ship’s complement of animals and friendly monsters. He hadn’t known Risaf and Janer personally, but—
+
+“How many?” Ameliah asked abruptly, apparently picking up on his mood.
+
+“Two,” he replied, squeezing her shoulders tightly as his macro finished, recording no further losses. It was only a small comfort. “Risaf and Janer.”
+
+“Damn,” she swore, and there was a violent flash of anger at her soul, directed at...
+
+Herself?
+
+“Listen, Ameliah. It’s not your fault; it’s—”
+
+“Quiet,” she interrupted.
+
+Rain grimaced. Okay, maybe she’s mad at ME, actually. If I had sent in the awakened sooner—sent HER in sooner—nobody would have died. I hesitated. I should have known the Whale would come. I should have gone with plan B the moment—
+
+“Sorry, I was talking to Nails,” Ameliah interrupted. “Yes, I know it’s not my fault. It’s not your fault either, and I can feel you thinking it is, so stop it. Save it for therapy. Right now, Vanna wants you to turn your anchors on. Tahir and Mereck need mana, and Ascension needs its captain.”
+
+“Right,” Rain said, suitably chastised. She was right. He had to stay focused. He wasn’t allowed to feel. Not yet.
+
+His Essence Well anchors were fairly shoddy, their low hardness allowing him to pump only a trickle of mana through each, so he directed all of it to the two healers with IFF. He activated Winter for everyone else, but before he got any further than that, Temerity came into view.
+
+The Bloodmarsh was heavily wooded, part of the reason they’d chosen it. Like mangroves, the trees that grew here were tolerant of salt water. Their foliage reminded him more of willows, though, drooping over the soggy...
+
+‘Ground’ was the wrong word. Temerity had carved a path through green-brown mats of vegetation, revealing open, muddy water beneath. The ship was undamaged, floating with a good ten meters of clearance to the true bottom, but nobody was on deck. It was patently obvious why.
+
+“Gods below,” Ameliah said with revulsion as they dove into the practically solid cloud of buzzing insects that surrounded the vessel. Some of the bugs were actually thumb-thick, just as promised, pinging weightily off their armor as they slowed. As Ameliah set him down, Rain had no doubts about what had drawn the swarm. The deck was covered by the burned, frozen, or otherwise broken bodies of monsters, their blood and viscera strewn across the splintered wood.
+
+The mess was solved neatly by a blast of Purify. The bugs, however, turned out to be more work. Though the word ‘monstrous’ seemed appropriate, the famed insects of the Bloodmarsh weren’t technically such.
+
+The ecology of the swamp was an interesting topic for another day. For now, it was merely another obstacle.
+
+Alive, yet below the entity threshold, the bugs couldn’t be directly Immolated. Cooking them indirectly was an option, but Rain didn’t want to use more mana than he had already. He’d need to boil the water the ship was floating in and set the mats of vegetation on fire to purge the wriggling mass of leeches emerging from it to glom onto the hull.
+
+The various creepy-crawlies were likewise immune to Purify, though he tried it anyway. As always, the spell refused to work on life larger than bacteria—even repugnant, blood-sucking life that wasn’t supposed to be here. That last part was debatable, but again, a topic for another time.
+
+“Do something!” Ameliah hissed through her teeth, clearly not wanting to open her mouth.
+
+Rain was in complete agreement, hundreds of tiny legs scrabbling at his face as things worked their way in through the minuscule gap beneath his visor. They were biting already, and while they had no hope of getting through his toughened skin, the ick level could not be denied. It shot off the charts as the leader of the pack engaged in a sudden, enthusiastic investigation of his left nostril.
+
+Gods! Arcane Ward! Fulminate!
+
+He boosted the offensive spell, not stopping until tracers of lightning were dancing between every vaguely conductive object in the bay. Many of them grounded against the hull, yet more arced down to the water to spread invisibly beneath it, frying the leeches and other things in an expanding shell. Fulminate might not have been the most efficient choice, but it made an undeniably effective bug zapper.
+
+The suddenly burning leaves overhead were easily snuffed by an inverted pulse of Immolate. Purify had no compunctions about dealing with the downpour of tiny insectile corpses, happy to view them as filth now that they were dead. They quickly evaporated to powder, then to nothingness, leaving Rain staring at the aftermath.
+
+The trees might have survived; he wasn’t sure. Temerity’s deck was blackened with tracks left by the electricity, and it wasn’t clear how deep it had penetrated. He hadn’t used Ethereal Aura, not wanting to zap the shit out of everyone aboard and set their belongings on fire. Arcane Ward hadn’t triggered, at least, so it couldn’t be that bad.
+
+Ameliah, meanwhile, had dismissed her helmet. Instantly, her hair leapt up into a frizzy cloud, crackling with static. “Gah! Really?”
+
+It was a funny image, but Rain didn’t smile. With his feet on the deck and his magic fading around him, there was nothing left to distract him from his thoughts. He’d had a responsibility, and he’d failed. People had died on his watch. Again.
+
+I don’t know how much longer I can do this. Ascension is so big now, and I can’t protect them all, especially once I start sending them on missions. I don’t know what scares me more; knowing people will die, or knowing I might get used to it...
+
+Ameliah placed a hand on his shoulder. “I told you to stop that,” she said, gently but firmly pushing him toward the tower. “You lost two, but you saved everyone else. Now come on. We have work to do.”
+
+Work there was, indeed. Plan B had not been a smooth ride, with more than a few injuries coming from the violent lurching of the deck. Ameliah quickly split off to help the Healers, while Rain went with Samson to organize damage control. Not even five minutes into that, he overheard something that sent him sprinting to Engineering, only to be stopped short by an outstretched palm.
+
+“No,” Stoneriver said, crossing her arms again as she moved to more fully stand between him and the door to Tallheart’s quarters. Her antlers had grown since he’d last spoken to her, almost a finger long now and beginning to split, but the hate in her eyes precluded any detailed inspection. “No more humans. One is bad enough.”
+
+Rain held back an undiplomatic reply, peeking over her shoulder at Tallheart’s soul. Trying to see it through the wall was like looking at it through a pane of frosted glass, but he could tell something wasn’t right. There was a certain...heaviness to the air. Shaking his head, he refocused on Stoneriver. “Please. He’s my friend, and you know that. He’ll want to see me.”
+
+“It is your fault that he is hurt,” she replied, fixing him with a level stare.
+
+“It is his fault that I am alive,” a deep voice rumbled, and then the door abruptly opened.
+
+“Tall—” Rain’s relieved exclamation was cut off as he got a good look.
+
+Tallheart was wearing a shirt.
+
+Not armor; a shirt.
+
+A white button-up shirt that was entirely too small for him, hanging open to reveal solid pecs and enough rippling abs to make Rain question some assumptions he’d made about cervidian physiology. Below that, he wore an equally ill-fitting pair of trousers, the hem barely falling to mid-shin. Like all his people, his proportions were subtly off from the human norm, but it was more evident without his armor. Cervidians were taller and narrower than humans generally, with a shorter ribcage when taken in proportion. And unless Tallheart secretly waxed, Rain’s suspicions about their lack of body hair had been confirmed as well. None of that mattered, though. Nothing physical mattered.
+
+Tallheart’s liquid-green soul was cracked.
+
+Rain darted his head left and right in horror, trying to get a better view past Stoneriver. “What happened?!”
+
+“He pulled a Rain,” Jamus said, popping up and waving over Tallheart’s shoulder. “Hello.”
+
+“Let him in,” Tallheart rumbled. “Please. We have spoken about this.”
+
+“Tch,” Stoneriver spat, stepping aside. “Fine. Just him. I do not know the other one.”
+
+Having caught up partway through the conversation, Samson didn’t bat an eye at being so rudely addressed. “Vanna and I will be on the bridge,” he said.
+
+“I’ll come when I can,” Rain replied, tearing his eyes away from Tallheart’s damaged soul for a moment to glance at him. “Set up a debrief meeting for, say, thirty minutes from now. And get a scout report from Emerton. We need to find a drier spot. This one sucks.”
+
+“Literally,” Samson said. “I believe we underestimated the bugs.”
+
+Rain barely heard the appreciation for his unintentional pun, already hurrying inside and fully focused on Tallheart’s soul. That fixation also led to the immediate stubbing of his toe, making a loud metallic clang. When he regained his balance and looked down to see what he’d hit, he realized he’d located Tallheart’s missing armor.
+
+What was left of it.
+
+“Holy shit! Was there acid? Did monsters get in the ship?”
+
+“Close the door,” Tallheart rumbled, reaching past him to do just that. It slammed shut with a solid thunk, and he turned the locking lever to hold it in place.
+
+“He said it was the backlash from his skill eating away the durability,” Jamus supplied helpfully, retreating to sit on Tallheart’s oversized bed. “What I’m trying to understand is why he didn’t stop once he realized it was happening. Or once the metal had rotted off him. Or once he started bleeding from every orifice. Or once the unawakened around him started flailing and struggling to scream. He’s got the soul wind, Rain, though it seems to have quieted.”
+
+Rain stared in horror.
+
+“I could not stop,” Tallheart rumbled, clearly irritated as he turned to glare at Jamus. “If I had stopped, Halgrave would have destroyed the ship. The braces we added for plan B were insufficient.”
+
+“And that’s his fault, not yours,” Jamus said. “You pitted yourself against a goldplate, and he was pushing harder than he should have with that Golem form of his.”
+
+“He was not,” Tallheart countered, looking back at Rain. “I did not know that Whales were so fast. We would have all perished if not for your continued distraction. Do not blame yourself for what happened while you were occupied. Not when your actions saved us all.”
+
+“Why’s everyone so sure I’m blaming myself?” Rain asked.
+
+“Because you are,” Jamus said. “Stop it.”
+
+Rain sighed, rubbing his faceplate.
+
+Whatever skill Tallheart was using must have been—
+
+He blinked.
+
+Whatever skill...
+
+“YOU USED SOUL OF METAL ON THE WHOLE DAMN SHIP!?” Rain’s jaw worked. “HOW!!!???”
+
+“Not easily,” Tallheart said, sitting heavily beside Jamus on the bed. He’d tried to hide it, but Rain hadn’t missed the tiny wince crossing his features.
+
+“Shit!” he swore, rushing over to him. “How are you not in excruciating pain? Without your armor, your Str—”
+
+“Do you think I have watched you run while standing still?” Tallheart asked, pushing him away with no apparent difficulty. “I have been using the accolade trick as much as you have. Hmm. More, I suspect. My Endurance synchronization is much improved.”
+
+Rain looked down at Tallheart’s hand on his breastplate. “Right, but—”
+
+Tallheart took his hand away, returning it to his lap. “I also suspect that the remaining pain I feel is...hmm...there is a word for it. In the mind.”
+
+“<Something>?” Jamus asked, making Rain blink at the flowing syllables.
+
+Was that Zeelada?
+
+“That is it,” Tallheart confirmed.
+
+“Psychosomatic?” Rain tried, assigning a tentative translation to what was clearly a loan word.
+
+“Mmm,” Tallheart rumbled. “You should understand it well. Why else would you be pouring your concern for me into the inside of your helmet?”
+
+Rain swore, then slammed his visor up. “Never mind that!” He searched around, quickly finding a stool and righting it so he could sit. “Look at your soul, Tallheart!” he insisted, scooting closer. “It’s cracked! You need to—”
+
+“I am aware of what I need to do,” Tallheart interrupted. “I am not going to burst. I would have already if that were a danger.” Meeting Rain’s eyes, he blinked slowly, then looked away. “The strain I am under is...less than it was. I will follow your example. I will take it easy.”
+
+“Pardon me, Tallheart, but did you just claim Rain’s been taking it easy?” Jamus leaned forward. “Was I not just telling you how he yeeted himself at a Whale?” He looked at Rain. “Am I conjugating that correctly? Yeeted?”
+
+Too stricken to do anything else, Rain nodded.
+
+“What happened out there, Rain?” Jamus asked, more seriously. “You and Ameliah didn’t actually kill any of them, did you? And what in El’s name was that first explosion? Don’t tell me you can do that whenever you want. Did you become a goldplate when I wasn’t looking?”
+
+“No,” Rain said with a sigh.
+
+This is going to take more than thirty minutes.
+
+“Hang on a minute, Rain,” Jamus said, his brow furrowing. “Are you using a lot of mana right now?”
+
+“No,” Rain said, checking, but with the crisis over, it was down to just Winter and a little Detection. “Why?”
+
+Jamus’s brow furrowed further. “Were your eyes always blue?”

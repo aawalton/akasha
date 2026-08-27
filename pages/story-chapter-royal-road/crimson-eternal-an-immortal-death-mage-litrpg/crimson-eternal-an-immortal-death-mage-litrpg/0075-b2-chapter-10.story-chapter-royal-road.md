@@ -1,0 +1,141 @@
+---
+id: f156ec06-34d6-59d6-bffe-a391658b94ba
+page-type-slug: story-chapter-royal-road
+title: "B2 | Chapter 10"
+slug: 0075-b2-chapter-10
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 75
+ownLength: 1562
+unit: words
+ownProgress: 1562
+publishedAt: 2024-01-31
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1501610/b2-chapter-10"
+royalRoadId: "1501610"
+markedReadAt: "2026-06-29T19:08:28.948Z"
+---
+
+Aria
+
+The emperor looks to the Clan Leader and nods, but the Clan Leader just keeps narrowing his eyes at me for several seconds. Then he eventually asks, “How could this wee lass help our clan in tha war?”
+
+I blink at that.
+
+War?
+
+His words snap Rory out of her stupor as she turns to the man, briefly glancing at me in the process while saying, “She survived being eaten by a trench serpent without so much as a scratch on her clothes.”
+
+That surprises the man, making him narrow his eyes at me and rub his beard.
+
+He begins to walk out of the room to where I’m standing before circling me and looking me over a little. An act that is rather uncomfortable, if I’m being honest.
+
+Then he eventually stops in front of me with his arms crossed, standing even shorter than I am. And with more than a little pointedness in his tone, asks, “What’s your ability? Some sort of extreme resistance? Immunity?”
+
+I narrow my eyes, tempted to just ignore his question. But I’m curious. And this is likely my only way off the planet legally.
+
+So I answer, “True immortality.”
+
+The emperor would probably tell him anyways.
+
+My answer genuinely surprises the old guy – who I can tell looks older despite not being able to see his level. Which generally means he’s starting to reach the end of his current life span and needs to reach another factor of a hundred to double it again. That or he dies by old age.
+
+If I had to take a guess, he looks like he’s around sixty or so years old. Which, in terms of the extended lifespans of people, likely means he’s about sixty to seventy percent of the way through his lifespan.
+
+“Very well,” the Clan Leader says rather slowly. “I’ll bring the lass with me.” He turns to look at the emperor as he adds, “Lass better be worth it.”
+
+The emperor grins and says, “She will be.”
+
+I frown, looking between the two of them before finally asking, “What’s this job you’re talking about?”
+
+The Clan Leader and the emperor share a look with the Clan Leader showing a confused expression as he asks, “Ya didn’t explain it to her?” And when the emperor casually just smiles without answering, the Clan Leader shakes his head, muttering, “Daft merchant.” Then he turns to look at me as he frowns and explains, “As ya likely already know, we lukian Clans’re all at each other’s throats. Yet we’ve never declared war. Until now.”
+
+“The Byrne Clan specializes in forging and weaponry and has the smallest military force,” Rory suddenly interjects, adding herself to this conversation. “So the Sullivan Clan, one of their two neighbors who is the largest military power amongst the clans, decided to attack them first. To bring the Byrne Clan crafters into the Sullivan Clan to use against the other Clans.”
+
+I glance between Rory – who seems to have gotten over her shock now – and the Clan Leader, before I state, “So you asked Shirou for help, and the opportunist decided to use this to get my immigration rights.”
+
+“And a job,” the emperor in question adds with a perfectly straight face as everyone glances back at him.
+
+Then we all ignore him again as I continue, “I severely doubt that I’d be of much help in a war without System restrictions.” And with a frown on my face, I point at the number they see above my head, “I mean, you’ve seen my level, right? Black color or not, I’m no match against…”
+
+I trail off as I remember my Death Spirits. Death Spirits who would be absolutely perfect for a war like this.
+
+They’d be an infinite resource that doesn’t cost them anything, isn’t at risk of being lost since I can’t die and the enemies pay for the Death Spirit’s usage just from their souls’ energy, and the enemies would have no idea what’s going on.
+
+“Looks like she figured it out,” Shirou says, sounding smugly satisfied with himself. To both Rory and the Clan Leader’s confusion.
+
+Shirogane finally speaks, explaining one of my skills to them in a rather inaccurate way, considering that no one in this room other than the emperor actually knows what I do. And even he doesn’t know everything. He just knows that I summon Death Spirits, and that I use some sort of energy I get from people dying around me.
+
+Shirogane seems to think the same. Or at least, it’s what he explains to the other two.
+
+The moment they hear about it, they immediately grow more interested in having me joining them.
+
+A perfectly understandable sentiment in their war.
+
+I can’t help but frown though.
+
+Going back to war again…
+
+Over the past two years, I’ve come to terms with the fact that I don’t have any empathy towards those I kill. But I do at least have respect for the dead. I’m Death after all. It’s expected that I’d respect the dead.
+
+So my lack of any emotional response towards killing in war doesn’t bother me like it used to. Partially thanks to Hannah pointing me in the right direction.
+
+But that doesn’t mean I want to go back to fighting.
+
+“Aria,” the emperor’s voice travels to me through telepathy in a way that the others in the room, Rory and the Clan Leader of whom are beginning to discuss amongst themselves possible ways to use my powers in their war. “Know that this is your easiest way off of Eternus. And keep in mind that you will need to be strong to take on the Grand Roan Empire.” His smile grows slightly. “And what better way for Death to grow than act as a mercenary?”
+
+I stare at him for several seconds before sighing.
+
+Then I mouth, ‘Just this once.’
+
+If the mercenary job turns out okay for me, then I’ll try it out. If not, then I’ll find another way to go about things.
+
+After the Clan Leader and Rory discuss amongst themselves for several minutes, the Clan Leader finally walks up to me and says, “Yer alright fer a two year contract? After ye can wander tha world for as long as ya want.”
+
+Hmm. So another war, then another period of rest.
+
+I’m sensing a pattern.
+
+But not just yet. Two is a coincidence after all.
+
+Three would be a pattern.
+
+Regardless, this really is my best option. It’ll give me the chance to level up and give me more years of rest afterwards.
+
+Not to mention the other little detail they’ve all left unsaid.
+
+If I work with these lukians, I’ll have a direct connection to one of the best clans of forgers in the universe. Which means I should be able to purchase some nice weapons from them.
+
+“Give me access to the Hunting Spots on Luk’tar and we’ve got a deal,” I tell him with my brows furrowed ever so slightly in challenge.
+
+Despite not having the greatest military strength, Luk’tar is indeed an Alpha Tier world. Just like Eternus. So it has its own Hunter Spots scattered across the planet.
+
+And if I can have a well-paying job there, the Death I bring during the war, and the Death I spread to the mana creatures in the Hunter Spots… that should be a good bit of levels for me.
+
+He stares for a moment before bursting out into laughter and slapping me on the back, sending me sprawling to the ground as he bellows, “I think I like this lass! A lot more spunk than I expected from someone wee little like her!”
+
+I climb back to my feet with a glare on my face.
+
+You’re one to talk. You’re shorter than I am.
+
+Of course, I don’t say that out loud. Because that slap broke a bone in my back. Even if the bone regenerated right afterwards.
+
+Once he finishes laughing, he stretches his hand out while asking, “One royal silver fer every month ya work under us, immigration rights, rights to tha Hunter Spots on Luk’tar, and a single time payment of five royal silver. How does that sound?”
+
+That’s… a lot more than I expected.
+
+One royal silver is worth a hundred gold coins, with one gold coin being a hundred silvers, and one silver a hundred coppers. So one royal silver is more than enough to live comfortably for years.
+
+And to get one every month, not to mention the five up front… I get the feeling he’s just buying my absolute loyalty right here and now. And potentially trying to make ties with me for the future.
+
+But most importantly, the rights to the Hunter Spots, where I can make far more.
+
+I glance at Rory to find her rather surprised by how much he’s offering as well. Not to mention the Silver Merchant.
+
+The emperor doesn’t appear surprised in the slightest though.
+
+Almost like everything that’s happening has been going according to his will.
+
+Something I really find irritating about the guy.
+
+My eyes narrow ever so slightly before I grin and clasp his hand with my own, the both of us holding the others’ forearms as I state, “It’s a deal.”
+
+Well, this is going to be an interesting trip. That’s for sure.

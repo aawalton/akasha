@@ -1,0 +1,137 @@
+---
+id: d1ac667a-8f28-5da0-b71b-90445021259c
+page-type-slug: story-chapter-royal-road
+title: "B4 | Chapter 56"
+slug: 0289-b4-chapter-56
+partOf: crimson-eternal-an-immortal-death-mage-litrpg
+position: 289
+ownLength: 1483
+unit: words
+ownProgress: 1483
+publishedAt: 2025-06-30
+link: "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2398574/b4-chapter-56"
+royalRoadId: "2398574"
+markedReadAt: "2026-06-29T19:15:37.845Z"
+---
+
+Aria
+
+In the end, the man in question gets arrested by the security for flying over the academy’s main building without permission. So I don’t really ever speak with him again.
+
+Shirogane does remind me who he is though. And I’m kind of glad he was taken away without me having to deal with him.
+
+Because he was apparently one of those annoying princes that would keep asking for my hand in marriage just for the benefit of his people. Well, that and because of my looks according to them and Shirogane.
+
+They even went on to talk about how they’d just have concubines to deal with the problem of me not being able to have kids.
+
+Overall, these types of idiots were always the most annoying in my travels.
+
+Eventually I just started ignoring them though. Which was easy enough when you could just vanish in the Hunter’s Spot one their planet. Or just go into the Plane of Death where they can’t follow.
+
+All of that aside, I still can’t remember this guy’s name.
+
+Not that it matters. He’s being thrown in the Eternal Dynasty’s prison until someone can come bail him out.
+
+Anyways, after that annoying affair is dealt with, Shirogane and I activate an invisibility item and proceed to follow the kids. Just to keep an eye on the twins.
+
+The first part of the private student-only bits of the ceremony starts with the students choosing their own majors within the academy. Areas of academic or martial or magical interest they would like to focus on. Then they are set off to take numerous tests in order to give them an initial rank in their new department.
+
+To my surprise though, I find the twins choosing different majors.
+
+Ryan chooses to major in martial practices of all things while Ruby chooses both academic and magical. Proving that you can indeed choose more than one department to join.
+
+But after a few seconds to think over it, Ryan’s major begins to make some sense.
+
+After all, regardless of how rarely the twins take their wolf forms, they are still werewolves. So they’re stronger physically than a human the same level as they are.
+
+So the martial department makes some sense in that degree.
+
+On that note, the two have another major issue they have to deal with while in this school that didn’t come to mind before.
+
+They’re underleveled compared to their fellow students.
+
+And while that doesn’t matter in the academic department, it does in the magical and martial departments.
+
+I just hope they don’t end up getting a low ranking because of their level…
+
+After several minutes, the testing begins in earnest. And fortunately for me, Shirogane just brings me to a private room where we have holographic screens appearing to show both twins’ tests. Seeing as I wouldn’t be able to see both at the same time if I were to go in person.
+
+My fears end up being dashed rather quickly though. Because the very first part of the test is writing down the test takers’ levels and ages to determine how high their level is based off of their age. And since the twins are over level fifty at the age of ten, they’re ranked rather highly. Not in the top in terms of age and level, but still pretty highly ranked.
+
+Then after that they’re put in groups based off of their level, each of which have their own grading systems for their level. And while being a higher level does give some bonus points, it isn’t the end all be all.
+
+So I’m rather happy with this system.
+
+As for a person’s ability? That does factor into their grade for the tests. Simply because it’s a natural thing for them.
+
+And while some people may consider this a form of cheating, the school certainly does not.
+
+Although, to be honest, I’ve always just kind of assumed the kids’ ability was something related to death magic. Seeing as they can, well, use death magic. After I taught them a decent bit of it.
+
+They still won’t admit what their classes are to me though.
+
+The only thing I’ve been able to figure out is that they seem to level up from doing a few different things.
+
+For one, when they’re learning magic. For two, when they’re killing mana creatures – they’ve never killed another human before so I don’t know if humans would level them up or not as well. And then one other way as well that they refuse to tell me.
+
+They seem almost embarrassed by it in fact.
+
+I’m not gonna pry into their personal affairs though, so it’s up to them what their class and purpose are.
+
+Although when I see the twins both coating themselves with soul fire I find myself staring blindly at the screens. Because that’s only something I’ve been able to do and no one else.
+
+Shirogane looks at me in surprise as well before looking back at the screens. But I don’t pay him any mind as I watch Ruby mix her soul flames into the death magic she’s casting before blasting the targets with the combination attack.
+
+Uh, I don’t remember ever teaching her that.
+
+On the other hand, Ryan turns into a bipedal werewolf form that – once again – I don’t remember him being able to do. Then he rushes forward and begins attacking the summoned training avatar in front of him.
+
+I purse my lips for a few seconds at the sight of the combat prowess that both of the twins have that I never knew about. But after a few seconds I just shrug, deciding I don’t really care about them hiding it from me.
+
+The better they can protect themselves the happier I am after all.
+
+Also, I take some amusement in the shock and awe that the other students who are watching them are showing. Particularly the one watching Ryan, seeing as what Ruby is doing isn’t as obviously unusual. What with Ryan turning into a humanoid wolf. Instead of their usual turning into regular albeit large wolves.
+
+Although… now that I’m paying more attention to Ryan, he looks rather surprised as well. So maybe he couldn’t do this transformation until now?
+
+Not sure.
+
+Either way, power is power.
+
+“There will be people asking questions about the twins after seeing Ryan’s werewolf form,” Shirogane points out, making my eyes narrow a little bit.
+
+“Then they can direct their questions to me, and I can see how they like some rather permanent burns,” I state rather blankly in response.
+
+Of course, that’s assuming I can’t just deal with them entirely.
+
+Then maybe they’ll remember the whole ‘I can kill them permanently’ thing that some people seem to have forgotten over the years of me not doing it to anyone.
+
+Shirogane chuckles and turns back to the screen as he says, “Sure. I’ll hold them down for you while you do that.”
+
+I glance at him with an approving look in my gaze before nodding with a smile and turning back to the screen as Ryan pummels the training avatar. Not to mention tears it apart with his claws.
+
+Something I have to find rather cool about Ryan’s transformation though is the fact that his blue streak continues in the transformation through the boy’s fur. To the point that he gets numerous different blue highlights throughout his otherwise black fur.
+
+It makes me wonder if Ruby’s transformation is the same except with her red streaks instead.
+
+Ruby doesn’t transform for the test though, so I don’t know. Which makes sense seeing as she’s doing magical tests right now and not physical.
+
+Shirogane and I continue watching the two go through their tests all the way until the end of the physical and magical tests. At which point they’re told that they ranked rather highly but still not close to the top.
+
+I guess that makes sense. What with how most of those spoiled royal brats were literally spoon-fed levels and training since their royal birth.
+
+Of course, I’m ignoring that I am technically a royal myself. Mostly because I don’t feel like one and because I wasn’t spoiled growing up.
+
+Not one bit.
+
+Overall there are about eight hundred students in the martial and seven hundred in the magical departments for their grades. With Ruby landing at, on the dot, rank one hundred in magical, and Ryan landing at eighty-eighth. Probably because of his werewolf transformation.
+
+After that Ruby goes ahead and moves on to the academic tests.
+
+But something crosses my mind that has me frowning as she does so.
+
+Because I just remembered the curse.
+
+And the fact that another century will have passed in just a couple weeks. Meaning another visit from the Crimson Imperial Family.
+
+Maybe I can flood my schedule with lectures to miss them…
