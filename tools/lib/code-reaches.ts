@@ -9,7 +9,7 @@ const FIXTURES = "tools/tests/"
 
 const TESTS = ".test.ts"
 
-const REACHERS = ["codeModule", "codeModuleSync", "runCodeCommand"]
+const REACHERS = ["codeModule", "codeModuleSync"]
 
 const DEFINES = new RegExp(`^export (?:async )?function (?:${REACHERS.join("|")})\\b`, "m")
 

@@ -9,9 +9,9 @@ import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
 const HELP = `bun tools/reaches.ts — every code-repository module this repository reaches
 
 DERIVED AT READ TIME, never kept by hand. Nothing here lists a module name: the answer is
-what this repository's TypeScript hands to \`codeModule\`, \`codeModuleSync\` and
-\`runCodeCommand\` on this run, so a reach added appears without anybody remembering to add
-it, and one removed goes the same way.
+what this repository's TypeScript hands to \`codeModule\` and \`codeModuleSync\` on this
+run, so a reach added appears without anybody remembering to add it, and one removed goes
+the same way.
 
   bun ~/repos/akasha/tools/reaches.ts --json
   bun ~/repos/akasha/tools/reaches.ts | head
@@ -26,7 +26,7 @@ a string handed to the call; a top-level \`const\` holding a string, a concatena
 template whose holes are consts already bound; a const imported from another file under
 the tree; the elements of \`[A, B].map((ref) => codeModule(ref))\`; and a field on a
 wrapper's request object, where the field NAMES come from the wrapper's own calls and the
-literals from each file that imports it. A file defining one of those three calls is
+literals from each file that imports it. A file defining either of those two calls is
 skipped, forwarding a parameter and reaching nothing of its own, and a file that never
 IMPORTS the seam is not read for calls at all — which is why prose naming the call, this
 help among it, is not taken for one.
