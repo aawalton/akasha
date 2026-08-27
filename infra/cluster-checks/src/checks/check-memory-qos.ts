@@ -19,7 +19,7 @@ const FLAG_SPEC = { treeSha: { kind: "string", required: true } } as const
 const LEAST_CONTAINER_PROBES = 5
 
 const MEMBERSHIP_FROM =
-  "the five vendored component manifests standing under `packages/infra/k8s/src/*/k8s/` — " +
+  "the five vendored component manifests standing under `infra/k8s/src/*/k8s/` — " +
   "cert-manager, cloudnative-pg, its barman-cloud plugin, metallb and metrics-server — each " +
   "declaring at least one container, walked by `walkManifestFiles` over the code repo at the " +
   "tree sha and read by `discoverManifests`, which throws where a listed manifest cannot be " +
@@ -37,30 +37,30 @@ interface Violation {
 
 const BURSTABLE_EXEMPTIONS: readonly (readonly [string, string])[] = [
   [
-    "packages/alanwalton/atlas/web/deploy/k8s/generated/atlas-deployment.generated.yaml",
+    "alanwalton/atlas-web/deploy/k8s/generated/atlas-deployment.generated.yaml",
     "init-code",
   ],
   [
-    "packages/alanwalton/atlas/web/deploy/k8s/generated/atlas-deployment.generated.yaml",
+    "alanwalton/atlas-web/deploy/k8s/generated/atlas-deployment.generated.yaml",
     "code-sync",
   ],
-  ["packages/alanwalton/web/deploy/k8s/generated/web-deployment.generated.yaml", "init-code"],
-  ["packages/alanwalton/web/deploy/k8s/generated/web-deployment.generated.yaml", "code-sync"],
+  ["alanwalton/web/deploy/k8s/generated/web-deployment.generated.yaml", "init-code"],
+  ["alanwalton/web/deploy/k8s/generated/web-deployment.generated.yaml", "code-sync"],
   [
-    "packages/archive-of-worlds/web/deploy/k8s/generated/web-deployment.generated.yaml",
+    "archive-of-worlds/web/deploy/k8s/generated/web-deployment.generated.yaml",
     "init-code",
   ],
   [
-    "packages/archive-of-worlds/web/deploy/k8s/generated/web-deployment.generated.yaml",
+    "archive-of-worlds/web/deploy/k8s/generated/web-deployment.generated.yaml",
     "code-sync",
   ],
-  ["packages/audhdalan/web/deploy/k8s/generated/web-deployment.generated.yaml", "init-code"],
-  ["packages/audhdalan/web/deploy/k8s/generated/web-deployment.generated.yaml", "code-sync"],
-  ["packages/smilingjenny/web/deploy/k8s/generated/web-deployment.generated.yaml", "init-code"],
-  ["packages/smilingjenny/web/deploy/k8s/generated/web-deployment.generated.yaml", "code-sync"],
-  ["packages/temper/web/deploy/k8s/generated/web-deployment.generated.yaml", "init-code"],
-  ["packages/temper/web/deploy/k8s/generated/web-deployment.generated.yaml", "code-sync"],
-  ["packages/infra/seaweedfs/k8s/generated/backup-bulk.generated.yaml", "rclone-sync"],
+  ["audhdalan/web/deploy/k8s/generated/web-deployment.generated.yaml", "init-code"],
+  ["audhdalan/web/deploy/k8s/generated/web-deployment.generated.yaml", "code-sync"],
+  ["smilingjenny/web/deploy/k8s/generated/web-deployment.generated.yaml", "init-code"],
+  ["smilingjenny/web/deploy/k8s/generated/web-deployment.generated.yaml", "code-sync"],
+  ["temper/web/deploy/k8s/generated/web-deployment.generated.yaml", "init-code"],
+  ["temper/web/deploy/k8s/generated/web-deployment.generated.yaml", "code-sync"],
+  ["infra/seaweedfs/k8s/generated/backup-bulk.generated.yaml", "rclone-sync"],
 ]
 
 const exemptionKey = (path: string, container: string | null): string =>
