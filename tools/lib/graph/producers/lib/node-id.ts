@@ -3,3 +3,4 @@
 import { oldGraphGone } from "../../graph-gone.ts"
 
 export const nodeIdPrefix = ((...a: readonly unknown[]) => oldGraphGone("nodeIdPrefix")) as never
+export const nodeId = ((...a: readonly unknown[]) => oldGraphGone("nodeId")) as never
