@@ -1,5 +1,5 @@
 
-import { HANDLER, composeSeatName } from "./compose-seat-name.ts"
+import { handlerSeatName } from "./compose-seat-name.ts"
 import {
   type CommsRule,
   type OnDemandAgentSpec,
@@ -20,20 +20,6 @@ export const SMS_SOURCE_PREFIX = "sms:"
 
 export function smsWakeSource(handlerSeat: string): string {
   return `${SMS_SOURCE_PREFIX}${handlerSeat}`
-}
-
-export function handlerSeatName(person: string, root: string): string {
-  const name = composeSeatName(
-    {
-      attributes: { persona: null, domain: person, role: HANDLER },
-      assignments: { task: null },
-      flex: null,
-      principal: null,
-    },
-    root
-  )
-  if (name === null) throw new Error(`nothing spells the ${HANDLER} seat for '${person}'`)
-  return name
 }
 
 export const STATE_AUTHORITY_KINDS = [
