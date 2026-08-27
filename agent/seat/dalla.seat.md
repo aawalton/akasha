@@ -8,6 +8,7 @@ role-slug: definer
 person-slug: alan
 start-mode: interactive
 on-call: true
+initiative-slug: dalla-deploy-system
 errand: "Go ahead and restart the background agents, that was a supervisor roll, then ask your question for me again"
 registration-account: aawalton
 claude-code-session-uuid: 95b38980-47c1-43e6-bc59-bf2513e54be8
