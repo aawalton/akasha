@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Print the domain DAG, composed from the pages now",
-  repos: ["akasha"],
+  path: "domain dag",
 } as const
 import { readFileSync } from "node:fs"
 import { listDocuments } from "./lib/check.ts"
